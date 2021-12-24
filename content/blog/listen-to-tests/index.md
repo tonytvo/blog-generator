@@ -1,6 +1,6 @@
 ---
 title: Listen to tests, test smells and patterns
-date: "2020-05-01T22:12:03.284Z"
+date: "2021-12-20T22:12:03.284Z"
 description: "listen to tests, test smells and patterns"
 tags: ["selftestingcode", "evolutionarydesign"]
 ---
@@ -133,9 +133,12 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - the failure message should describe the cause rather than the symptom.
 - highlight details with matches. The matcher API includes support for describing the value that is mismatched, to help with understanding exactly what is different.
 - self-describing value: build the detail into values in the assertion. If we have to add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
-  - expected: <a customer account id> but was <id not set>
+   
+```
+expected: <a customer account id> but was <id not set>
 use new Date(timeValue) {public String toString() {return name; })
-    - expected: <startDate>, got <endDate>
+expected: <startDate>, got <endDate>
+```
 - obviously canned value
   - conventions for common values can ensure that it stands out???
 - tracer object
@@ -294,7 +297,7 @@ const loginClient = LoginClient.createNull(
 
 ## Send State
 - application and high-level infrastructure code use their infrastructure dependencies to send data to external systems. They need a way of checking that the data was sent.
-- For infrastructure methods that send data and provide a way to observe that data was sent, use domain-oriented observability (https://martinfowler.com/articles/domain-oriented-observability.html#DomainProbesEnableCleanerMore-focusedTests). Prefer using observer patterns like Send Events.
+- For infrastructure methods that send data and provide a way to observe that data was sent, use [domain-oriented observability](https://martinfowler.com/articles/domain-oriented-observability.html#DomainProbesEnableCleanerMore-focusedTests). Prefer using observer patterns like Send Events.
 - If you need more than one send result or can't store the transmitted data, use "Send Events" To test code that uses infrastructure to get data, use Configurable Responses. To test code that responds to infrastructure events uses "Behavior Simulation.".
 
 ## Send Events

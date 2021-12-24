@@ -1,0 +1,11 @@
+# todo
+- write summary for continuous delivery book
+- write summary for the beginning of infinity
+- write summary for accelerate
+- write summary for pragmatic programmers
+- write summary for extreme programming
+- write summary for emotional intellijgence 20.0
+- write summary for learning how to learn
+- write summary for devops handbook
+- write summary for security patterns.
+- write summary for patterns of enterprise application architecture
