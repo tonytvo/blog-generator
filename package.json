@@ -8,6 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
     "gatsby": "^4.4.0",
     "gatsby-plugin-feed": "^4.4.0",
     "gatsby-plugin-gatsby-cloud": "^4.4.0",
@@ -38,7 +39,9 @@
   },
   "homepage": "https://github.com/tonytvo/blog-generator#readme",
   "keywords": [
-    "gatsby", "agiletechnicalpractice", "investment"
+    "gatsby",
+    "agiletechnicalpractice",
+    "investment"
   ],
   "license": "0BSD",
   "main": "n/a",

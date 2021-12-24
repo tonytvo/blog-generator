@@ -2,6 +2,7 @@
 title: What's a simple way to share and learn refactor
 date: "2019-05-01T22:12:03.284Z"
 description: "10 simple refactoring snippets"
+tags: ["popular"]
 ---
 
 I have been organizing coderetreat and creating screencasts on refactoring and TDD, etc… however, I find it takes lots of time and effort to organize, preparing and facilitate. (it’s not that I complain about it as a matter of fact I love it every single second and I’m amazed at how much I have learned from the community)
