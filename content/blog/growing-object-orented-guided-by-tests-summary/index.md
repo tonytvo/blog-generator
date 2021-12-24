@@ -148,8 +148,8 @@ information hiding conceals how an object implements its functionality behind th
 
 - it's another big topic that this book covered, so I have summarized it in different posts.
 - [Test Smells and Patterns Summary](https://tonytvo.github.io/listen-to-tests)
-techniques for introducing new objects
-define specific types to represent value concepts in the domain help:
+# techniques for introducing new objects
+- define specific types to represent value concepts in the domain help:
 to find all the code relevant for a change without having to chase through the method calls
 to reduce the risk of confusion, using a more object-oriented instead of scattering related behaviour across the code.
 "Breaking out": 
