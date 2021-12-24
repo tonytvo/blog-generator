@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tony Vo Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Tony Vo`,
+      summary: `father, husband, software developer`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Conversations on agile technical practice and investments.`,
+    siteUrl: `https://tonytvo.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ttrungvo`,
     },
   },
   plugins: [
@@ -30,8 +30,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [
-          {
+        plugins: [{
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
@@ -72,20 +71,26 @@ module.exports = {
             }
           }
         `,
-        feeds: [
-          {
-            serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.nodes.map(node => {
-                return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
-                  date: node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
-                })
+        feeds: [{
+          serialize: ({
+            query: {
+              site,
+              allMarkdownRemark
+            }
+          }) => {
+            return allMarkdownRemark.nodes.map(node => {
+              return Object.assign({}, node.frontmatter, {
+                description: node.excerpt,
+                date: node.frontmatter.date,
+                url: site.siteMetadata.siteUrl + node.fields.slug,
+                guid: site.siteMetadata.siteUrl + node.fields.slug,
+                custom_elements: [{
+                  "content:encoded": node.html
+                }],
               })
-            },
-            query: `
+            })
+          },
+          query: `
               {
                 allMarkdownRemark(
                   sort: { order: DESC, fields: [frontmatter___date] },
@@ -104,10 +109,9 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
-          },
-        ],
+          output: "/rss.xml",
+          title: "Gatsby Starter Blog RSS Feed",
+        }, ],
       },
     },
     {
