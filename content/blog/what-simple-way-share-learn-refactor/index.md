@@ -31,7 +31,7 @@ Here goes the list
 - separate the intention and implementation
 - put a name to the block of code (“Naming as a Process” from Arlo)
 
-![extract-method](./extract-method.gif)
+<img width="500" height="300" alt="extract method" src="./extract-method.gif">
 
 # Rename method, classes, fields
 Motivation
@@ -41,7 +41,7 @@ I find this short, simple and easier to remember from J.B. Rainsberger
 
 ![jbrain-naming-process](./jbrains-naming-process.png)
 
-![rename-method](./rename-method.gif)
+<img width="500" height="300" alt="rename method" src="./rename-method.gif">
 
 # Golden Master
 ## Motivation
@@ -49,12 +49,13 @@ I find this short, simple and easier to remember from J.B. Rainsberger
 - It’s a quick way to provide test coverage without knowing much about the underlying code
 - It would probably be more tedious to mock out external/IO/Database call in the code.
 
-![golden-master](./golden-master.gif)
+<img width="500" height="300" alt="golden master" src="./golden-master.gif">
 
 # Extract as a separate map
 ## Motivation
 - reduce responsibility in lambda, which forces creating interface/lambda with a single responsibility
-![extract-variable-as-separate-map-in-lambda](./extract-variable-as-separate-map-in-lambda.gif)
+
+<img width="500" height="300" alt="extract variable as separate map in lambda" src="./extract-variable-as-separate-map-in-lambda.gif">
 
 
 # Introduce parameters
@@ -62,7 +63,7 @@ I find this short, simple and easier to remember from J.B. Rainsberger
 - enable a deeper understanding of the domain model in the code through new abstractions
 - enable more refactorings with capture the common behaviours over these new abstractions
 
-![introduce-parameter-orderlines](./introduce-parameter-orderlines.gif)
+<img width="500" height="300" alt="introduce parameter" src="./introduce-parameter-orderlines.gif">
 
 # Introduce indirection steps to avoid big steps
 ## Motivation
@@ -95,28 +96,23 @@ extract delegate to class W, creating a new class that as p as a field, leaving 
 
 ### Snippets
 - introduce parameter object
-
-![introduce-parameter-objects-orderlines](./introduce-parameter-objects-orderlines.gif)
+  - <img width="500" height="300" alt="introduce parameter object" src="./introduce-parameter-objects-orderlines.gif">
 
 - make method static
-
-![make-static-method-orderlines](./make-static-method-orderlines.gif)
+  - <img width="500" height="300" alt="make method static" src="./make-static-method-orderlines.gif">
 
 - extract delegate
-
-![extract-delegate-orderlines](./extract-delegate-orderlines.gif)
+  - <img width="500" height="300" alt="extract delegate" src="./extract-delegate-orderlines.gif">
 
 - wrap-unwrap value (introduce another layer of indirection)
+  - <img width="500" height="300" alt="introduce another indirection layer" src="./introduce-another-layer-indirection.gif">
 
-![introduce-another-layer-indirection](./introduce-another-layer-indirection.gif)
 
 - move method to another instance
-
-![move-instance-method-orderlines](./move-instance-method-orderlines.gif)
+  - <img width="500" height="300" alt="move  method to another instance" src="./move-instance-method-orderlines.gif">
 
 - introduce field
-
-![introduce-field-order-lines](./introduce-field-order-lines.gif)
+  - <img width="500" height="300" alt="introduce field" src="./introduce-field-order-lines.gif">
 
 **…still under construction and more to come on the list**
 
