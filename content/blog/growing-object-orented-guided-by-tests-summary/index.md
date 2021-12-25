@@ -183,10 +183,10 @@ information hiding conceals how an object implements its functionality behind th
 It should not be possible to create the object without them.
 ## Notification 
 - peers that need to be kept up to date with the object's activity. Notifications are "fire and forget." Notifications are so helpful because they decouple objects from each other.
-Adjustments
+## Adjustments
 - peers that adjust the object's behaviour to the broader needs of the system.
 - This includes policy objects that make decisions on the object's behalf.
-Partially creating an object and then finishing it off by setting properties is brittle because the programmer must remember to put all the dependencies.
+- Partially creating an object and then finishing it off by setting properties is brittle because the programmer must remember to put all the dependencies.
 
 Notifications and adjustments can be passed to the constructor as a convenience. Alternatively, they can be initialized to safe defaults and overwritten later. For example, adjustments can be initialized to shared values and notifications to a null object or an empty collection. We then add methods to allow callers to change these default values and add or remove listeners.
 
