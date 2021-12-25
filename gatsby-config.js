@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Tony Vo Blog`,
+    title: `Conversations on agile technical practices and investments`,
     author: {
       name: `Tony Vo`,
-      summary: `father, husband, software developer`,
+      summary: `father, husband and software developer`,
     },
     description: `Conversations on agile technical practice and investments.`,
     siteUrl: `https://tonytvo.github.io/`,
@@ -30,7 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [{
+        plugins: [
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
@@ -89,26 +90,24 @@ module.exports = {
             }
           }
         `,
-        feeds: [{
-          serialize: ({
-            query: {
-              site,
-              allMarkdownRemark
-            }
-          }) => {
-            return allMarkdownRemark.nodes.map(node => {
-              return Object.assign({}, node.frontmatter, {
-                description: node.excerpt,
-                date: node.frontmatter.date,
-                url: site.siteMetadata.siteUrl + node.fields.slug,
-                guid: site.siteMetadata.siteUrl + node.fields.slug,
-                custom_elements: [{
-                  "content:encoded": node.html
-                }],
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + node.fields.slug,
+                  custom_elements: [
+                    {
+                      "content:encoded": node.html,
+                    },
+                  ],
+                })
               })
-            })
-          },
-          query: `
+            },
+            query: `
               {
                 allMarkdownRemark(
                   sort: { order: DESC, fields: [frontmatter___date] },
@@ -127,9 +126,10 @@ module.exports = {
                 }
               }
             `,
-          output: "/rss.xml",
-          title: "Gatsby Starter Blog RSS Feed",
-        }, ],
+            output: "/rss.xml",
+            title: "Gatsby Starter Blog RSS Feed",
+          },
+        ],
       },
     },
     {

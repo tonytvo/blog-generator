@@ -9,3 +9,4 @@
 - write summary for devops handbook
 - write summary for security patterns.
 - write summary for patterns of enterprise application architecture
+- write tests for this site
