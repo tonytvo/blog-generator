@@ -1,6 +1,6 @@
 ---
 title: deep work summary
-date: "2021-05-01T22:12:03.284Z"
+date: "2021-12-01T22:12:03.284Z"
 description: "deep work summary"
 tags: ["productivity"]
 status: "draft"
