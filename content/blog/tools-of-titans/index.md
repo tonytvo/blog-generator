@@ -2,7 +2,7 @@
 title: tools of titans summary
 date: "2021-12-22T22:12:03.284Z"
 description: "tools of titans summary"
-tags: ["productivity"]
+tags: ["productivity", "communication", "health", "investment"]
 ---
 
 # HEALTHY
