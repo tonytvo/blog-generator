@@ -55,6 +55,15 @@ tags: ["selftestingcode", "evolutionarydesign"]
     - we might use mocks to simulate behaviour that is hard to trigger with the library
     - we might use mocks to test a sequence of calls.
 
+## Communication over classification
+- Use interfaces to name roles played by objects and describe the messages they'll accept. Keep interfaces as narrow as possible.
+- We can use interfaces to define the available messages between objects, but we also need to express their communication protocols.
+- we use TDD with mock objects as a technique to make these communication protocols visible, as a tool for discovering them during development and as a description when revisiting the code
+- TDD with mock objects also encourages information hiding
+if similar interfaces represent different concepts, we can make a point of making them distinct. - A decision to separate similar-looking interfaces is an excellent time to reconsider their naming
+- Another time to consider refactoring interfaces is when we start implementing them.
+
+
 # tell, don't ask - law of Demeter
 - This style produces more flexible code because it's easy to swap objects with the same role. The caller sees nothing of their internal structure or the rest of the system behind the role interface.
 - we ask when
@@ -148,83 +157,80 @@ information hiding conceals how an object implements its functionality behind th
 
 - it's another big topic that this book covered, so I have summarized it in different posts.
 - [Test Smells and Patterns Summary](https://tonytvo.github.io/listen-to-tests)
-techniques for introducing new objects
-define specific types to represent value concepts in the domain help:
-to find all the code relevant for a change without having to chase through the method calls
-to reduce the risk of confusion, using a more object-oriented instead of scattering related behaviour across the code.
-"Breaking out": 
-when an object becomes complex, that's a sign that it's implementing multiple concerns and that we can break out coherent units of behaviour into helper types
-Occasionally is better to treat this code as a spike: once we know what to do, just roll it back and re-implement it cleanly.
-Break up an object if it becomes too large to test easily or if its test failures become challenging to interpret. Then unit tests the new parts separately.
-"Budding off": 
-when we want to mark a new domain concept in the code, we often introduce a placeholder type that wraps a single field. With each class that we add, we're raising the level of abstraction of the code.
-To avoid adding new behaviour that doesn't belong to an object, we can create an interface to define the service that the object needs from the object's point of view. Then, we write tests for the new behaviour as if the service already exists, using mock objects to help describe the relationship between the target object and its new collaborator. We think of this as an on-demand design.
-The placeholder for a new object will be filled in with later implementation details. For example, when writing a test, we ask ourselves, "If this worked, who would know?", if the correct answer to that question is not in the target object, it's probably time to introduce a new collaborator.
-"Bundling up": 
-creating a new object for a group of objects always used together. When the test for an object becomes too complicated to set up, [...] consider bundling up some collaborating objects.
-The new object hides the complexity in an abstraction.
-We have to give the new entity a name that helps us understand the domain better.
-We can scope the dependencies more clearly.
-we can be more precise with our unit testing
-object peer stereotypes
-dependencies 
-services that the object requires from its peers to perform its responsibilities. 
+
+# techniques for introducing new objects
+- define specific types to represent value concepts in the domain help:
+  - to find all the code relevant for a change without having to chase through the method calls
+  - to reduce the risk of confusion, using a more object-oriented instead of scattering related behaviour across the code.
+- **"Breaking out"**: 
+  - when an object becomes complex, that's a sign that it's implementing multiple concerns and that we can break out coherent units of behaviour into helper types
+  - Occasionally is better to treat this code as a spike: once we know what to do, just roll it back and re-implement it cleanly.
+  - **Break up an object if it becomes too large to test easily or if its test failures become challenging to interpret. Then unit tests the new parts separately**.
+- **"Budding off"**: 
+  - when we want to mark a new domain concept in the code, we often introduce a placeholder type that wraps a single field. With each class that we add, we're raising the level of abstraction of the code.
+  - To avoid adding new behaviour that doesn't belong to an object, we can create an interface to define the service that the object needs from the object's point of view. Then, we write tests for the new behaviour as if the service already exists, using mock objects to help describe the relationship between the target object and its new collaborator. We think of this as an on-demand design.
+  - The placeholder for a new object will be filled in with later implementation details. For example, when writing a test, we ask ourselves, "If this worked, who would know?", if the correct answer to that question is not in the target object, it's probably time to introduce a new collaborator.
+- **"Bundling up":** 
+  - creating a new object for a group of objects always used together. When the test for an object becomes too complicated to set up, [...] consider bundling up some collaborating objects.
+    - The new object hides the complexity in an abstraction.
+    - We have to give the new entity a name that helps us understand the domain better.
+    - We can scope the dependencies more clearly.
+    - we can be more precise with our unit testing
+
+# object peer stereotypes
+## dependencies 
+- services that the object requires from its peers to perform its responsibilities. 
 It should not be possible to create the object without them.
-Notification 
-peers that need to be kept up to date with the object's activity. Notifications are "fire and forget." Notifications are so helpful because they decouple objects from each other.
+## Notification 
+- peers that need to be kept up to date with the object's activity. Notifications are "fire and forget." Notifications are so helpful because they decouple objects from each other.
 Adjustments
-peers that adjust the object's behaviour to the broader needs of the system.
-This includes policy objects that make decisions on the object's behalf.
+- peers that adjust the object's behaviour to the broader needs of the system.
+- This includes policy objects that make decisions on the object's behalf.
 Partially creating an object and then finishing it off by setting properties is brittle because the programmer must remember to put all the dependencies.
 
 Notifications and adjustments can be passed to the constructor as a convenience. Alternatively, they can be initialized to safe defaults and overwritten later. For example, adjustments can be initialized to shared values and notifications to a null object or an empty collection. We then add methods to allow callers to change these default values and add or remove listeners.
-Communication over classification
-Use interfaces to name roles played by objects and describe the messages they'll accept. Keep interfaces as narrow as possible.
-We can use interfaces to define the available messages between objects, but we also need to express their communication protocols.
-we use TDD with mock objects as a technique to make these communication protocols visible, as a tool for discovering them during development and as a description when revisiting the code
-TDD with mock objects also encourages information hiding
-if similar interfaces represent different concepts, we can make a point of making them distinct. A decision to separate similar-looking interfaces is an excellent time to reconsider their naming
-Another time to consider refactoring interfaces is when we start implementing them.
-Programming by intention
-compose objects to describe system behaviour
-TDD at the unit test level guides us to decompose our system into value types and loosely coupled computational objects
-. We can provide a description (the intention of the collaboration) of the expected calls for a test in a context by declaring the expectation of a mock object. 
-The advantage of this approach is that we have a flexible application structure from relatively little code. It's particularly suitable where the code has to support many related scenarios.
-Just assigning and linking objects doesn't help us understand the system's assembling behaviour. Instead, the information we care about is typically buried in a morass of keywords, setters, punctuation, and the like.
-To battle with this, we can organize the code in 2 layers
-implementation layer: graph of objects, its behaviour is the combined result of how its objects respond to events.
-The declarative layer
-is, in effect, a small domain-specific language embedded
-the declarative layer that describes what the code will do. In contrast, the implementation layer defines how the code does it.
-The different purposes of the 2 layers mean that we use a different coding style for each. For the implementation layer, we stick to the conventional object-oriented style guidelines. For the declarative layer, we're more flexible
-most of the time. Such a declarative layer merges from continual merciless refactoring. Taking care to notice when an area of code is not clear, we add or move structure until it is.
-delegate to subordinate objects
-started writing the test we wanted to see and then filling in the supporting objects: start from a statement of the problem and see where it does.
-the alternative is to write code directly in the tests and then refactor out any clusters of behaviours
-Context independence
-A system is easier to change if its objects are context-independent: each object has no built-in knowledge about the system.
-The effect of the context-independence rule on a system of objects is to make their relationships explicit, defined separately from the objects themselves. This simplifies the objects and manages the relationships.
-Dependency Injection
-Dependency retention: We don't worry about managing dependencies; we just inline and hard-code everything!
-Dependency rejection, an excellent term (coined by Mark Seemann, above), in which we avoid having any dependencies in our core business logic. We do this by keeping all I/O and other impure code all the "edges" of our domain.
-Dependency parameterization, in which we pass in all dependencies as parameters. This is commonly used in conjunction with partial application.
-Dependency injection and the reader monad, in which we pass in dependencies after the rest of the code has already been constructed. This is typically done via constructor injection in OO-style code, and in FP-style principle, this corresponds to the Reader monad.
-Dependency interpretation: We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and in FP (e.g. free monads)
-Need to elaborate more on these patterns
-https://fsharpforfunandprofit.com/posts/dependencies/
-https://blog.thecodewhisperer.com/series#dependency-inversion-principle-dip
-https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
-The sample project - analysis
-the business rules can be summarized with the following picture
+
+# Programming by intention
+- **compose objects to describe system behaviour**
+  - TDD at the unit test level guides us to decompose our system into value types and loosely coupled computational objects
+- We can provide a description (the intention of the collaboration) of the expected calls for a test in a context by declaring the expectation of a mock object. 
+- The advantage of this approach is that we have a flexible application structure from relatively little code. It's particularly suitable where the code has to support many related scenarios.
+- Just assigning and linking objects doesn't help us understand the system's assembling behaviour. Instead, the information we care about is typically buried in a morass of keywords, setters, punctuation, and the like.
+  - To battle with this, we can organize the code in 2 layers
+    - **implementation layer**: graph of objects, its behaviour is the combined result of how its objects respond to events.
+    - The declarative layer
+      - is, in effect, a small domain-specific language embedded 
+      - the declarative layer that describes what the code will do. In contrast, the implementation layer defines how the code does it.
+    - The different purposes of the 2 layers mean that we use a different coding style for each. For the implementation layer, we stick to the conventional object-oriented style guidelines. For the declarative layer, we're more flexible
+    - **most of the time. Such a declarative layer merges from continual merciless refactoring. Taking care to notice when an area of code is not clear, we add or move structure until it is**.
+- delegate to subordinate objects
+  - started writing the test we wanted to see and then filling in the supporting objects: **start from a statement of the problem and see where it does**.
+  - the alternative is to write code directly in the tests and then refactor out any clusters of behaviours
+
+# Context independence
+- **A system is easier to change if its objects are context-independent: each object has no built-in knowledge about the system.**
+- **The effect of the context-independence rule on a system of objects is to make their relationships explicit, defined separately from the objects themselves. This simplifies the objects and manages the relationships**.
+
+# Dependency Injection
+- Dependency retention: We don't worry about managing dependencies; we just inline and hard-code everything!
+- Dependency rejection, an excellent term (coined by Mark Seemann, above), in which we avoid having any dependencies in our core business logic. We do this by keeping all I/O and other impure code all the "edges" of our domain.
+- Dependency parameterization, in which we pass in all dependencies as parameters. This is commonly used in conjunction with partial application.
+- Dependency injection and the reader monad, in which we pass in dependencies after the rest of the code has already been constructed. This is typically done via constructor injection in OO-style code, and in FP-style principle, this corresponds to the Reader monad.
+- Dependency interpretation: We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and in FP (e.g. free monads)
+- Need to elaborate more on these patterns
+  - https://fsharpforfunandprofit.com/posts/dependencies/
+  - https://blog.thecodewhisperer.com/series#dependency-inversion-principle-dip
+  - https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+
+# The sample project - analysis
+- the business rules can be summarized with the following picture
+![auction sniper business rule](./auction-sniper-business-rule.png)
+
+- architecture the book came up with
+![original sniper architecture](./original-auction-sniper-architecture.png)
 
 
-architecture the book came up with
-
-
-
-
-
-Quotes
+# Quotes
 
 "The Golden Rule of TDD: Never write new functionality without a failing test."
 
@@ -257,36 +263,19 @@ Quotes
 "try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)"
 
 # References
-
 https://fsharpforfunandprofit.com/posts/dependencies/
-
 https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
-
 https://github.com/stefoxp/growing-object-oriented-software
-
 http://hanalee.info/blog/growing-object-oriented-software-guided-by-tests.html
-
 https://www.karam.io/blog/2021/book-summary-growing-object-oriented-software-guided-by-tests/
-
 https://nir-orman.medium.com/growing-object-oriented-software-guided-by-tests-chapter-6-a76e91e83f81
-
 https://github.com/vobarian/growing-object-oriented-software
-
 https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/
-
 https://mateuscosta.me/2019-02-21-growing-object-oriented
-
 https://conn.dev/books/growing-object-oriented-software.html
-
 https://www.infoq.com/presentations/Stop-Refactoring/
-
 http://jmock.org/oopsla2004.pdf
-
 http://jmock.org/oopsla2006.pdf
-
 https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
-
 https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
-
 https://martinfowler.com/articles/domain-oriented-observability.html
-
