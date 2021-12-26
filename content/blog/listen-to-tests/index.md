@@ -166,6 +166,18 @@ expected: <startDate>, got <endDate>
 - avoid reasserting the behaviour that is covered in other tests
 - testing for equality doesn't scale well as the value being returned becomes more complex. At the same time, comparing the entire result each time is misleading and introduces an implicit dependency on the behaviour.
 
+## unit testing and threads
+- unit tests give us confidence that an object performs its synchronization responsibilities, such as locking its state or blocking and walking threads.
+- coarser-grained tests, such as system tests, give us confidence that the entire system manages concurrency correctly.
+### separating functionality and concurrency policy
+- auction search is complicated because it needs to implement the search and notification functionality and the synchronization at the same time
+- we want to separate the logic that splits a request into multiple tasks from the technical details of how those tasks are executed concurrently. So we pass a "task runner" into the AuctionSearch, which can then delegate managing tasks to the runner instead of starting threads itself.
+- for testing we need to run the tasks in the same thread as the test runner instead of creating new task threads.
+
+```java
+
+```
+
 ## Object mother pattern
 - contains a number of factory methods that create objects for use in tests.
 - object mother makes the test more readable by packaging up the code that creates new object structures and giving it a name.
@@ -312,3 +324,5 @@ const loginClient = LoginClient.createNull(
 - Add methods to your infrastructure code that simulate receiving an event from an external system. Share as much code as possible with the code that handles actual external events while remaining convenient for tests to use.
 
 # References
+
+http://www.growing-object-oriented-software.com/code.html

@@ -4,7 +4,23 @@ date: "2021-12-22T22:12:03.284Z"
 description: "tools of titans summary"
 tags: ["productivity", "communication", "health", "investment"]
 ---
-
+# Goals
+- success, however you define it, is achievable if you collect the right field-tested beliefs and habits.
+- the superheroes you have in your mind (idols, icons, titans, billionaires, etc.) are nearly all walking flaws who've maximized 1 or 2 strengths)
+  - you succeed because you find your unique strengths and focus on developing habits around them.
+- what might you do to accomplish your 10-year goals in the next 6 months, if you had a gun against your head?
+- routine, in an intelligent man, is a sign of ambition
+- learn things once and use them forever
+- toolkit for changing your life.
+- judge a man by his questions rather than his answers
+- contains low-hanging fruit with immediate returns. Think of the bite-sized rules within these pages as PED(s) - performance enhancing details
+- this book is a buffet. Here's how to get the most out of it
+  - skip liberally: skip anything that doesn't interests you.
+    - like 50%, love 25%, and never forget 10%
+  - skip, but do so intelligently
+    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? seem beneath you? seem too difficult? and did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" belief" are now our own
+    - this type of practice is how you create yourself, instead of seeking to discover yourself.
+- the context and original language teaches you how to THINK like a world-class performer, not just regurgitate quotes. That is the key meta-skill we're aiming for.
 # HEALTHY
 ## Exercise
 - Ferriss emphasizes the importance of exercising to improve your fitness, never hurting yourself, and don't go overboard. Working out somewhere with a soft surface is recommended.
@@ -383,9 +399,17 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "Success, however you define it, is achievable if you collect the right field-tested beliefs and habits."
 
-"The superheroes you have in your mind (idols, icons, titans, billionaires, etc...) are nearly all walking flaws who've maximized 1 or 2 strengths"
+"The superheroes you have in your mind (idols, icons, titans, billionaires, etc...) are nearly all walking flaws who've maximized 1 or 2 strengths...; you succeed because you find your unique strengths and focus on developing habits around them."
 
 "I'm not the strongest. I'm not the fastest. But I'm really good at suffering"
+
+"Everyone fighting a battle that you know nothing about"
+
+"Routine, in an intelligent man, is a sign of ambition"
+
+"judge a man by his questions rather than his answers"
+
+very often, "our" beliefs are not our own
 
 # References
 https://fourminutebooks.com/tools-of-titans-summary/

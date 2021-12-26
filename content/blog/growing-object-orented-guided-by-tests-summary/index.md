@@ -263,6 +263,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 "try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)"
 
 # References
+http://www.growing-object-oriented-software.com/code.html
 https://fsharpforfunandprofit.com/posts/dependencies/
 https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
 https://github.com/stefoxp/growing-object-oriented-software
