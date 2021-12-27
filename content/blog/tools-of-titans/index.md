@@ -1,28 +1,28 @@
 ---
 title: tools of titans summary
 date: "2021-12-22T22:12:03.284Z"
-description: "tools of titans summary"
+description: "tools of titans summary."
 tags: ["productivity", "communication", "health", "investment"]
 ---
 # Goals
 - success, however you define it, is achievable if you collect the right field-tested beliefs and habits.
 - the superheroes you have in your mind (idols, icons, titans, billionaires, etc.) are nearly all walking flaws who've maximized 1 or 2 strengths)
   - you succeed because you find your unique strengths and focus on developing habits around them.
-- what might you do to accomplish your 10-year goals in the next 6 months, if you had a gun against your head?
+- what might you do to accomplish your 10-year goals in the next six months if you had a gun against your head?
 - routine, in an intelligent man, is a sign of ambition
 - learn things once and use them forever
-- toolkit for changing your life.
+- a toolkit for changing your life.
 - judge a man by his questions rather than his answers
-- contains low-hanging fruit with immediate returns. Think of the bite-sized rules within these pages as PED(s) - performance enhancing details
+- contains low-hanging fruit with immediate returns. Think of the bite-sized rules within these pages as PED(s) - performance-enhancing details
 - look for the black sheep who fit your unique idiosyncrasies. Keep an eye out for the non-traditional paths.
-- borrow liberally, combine uniquely, and create your own bespoke blueprint.
+- borrow liberally, combine uniquely, and create your bespoke blueprint.
 - this book is a buffet. Here's how to get the most out of it
-  - skip liberally: skip anything that doesn't interests you.
+  - skip liberally: skip anything that doesn't interest you.
     - like 50%, love 25%, and never forget 10%
   - skip, but do so intelligently
-    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? seem beneath you? seem too difficult? and did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" belief" are not our own
-    - this type of practice is how you create yourself, instead of seeking to discover yourself.
-- the context and original language teaches you how to THINK like a world-class performer, not just regurgitate quotes. That is the key meta-skill we're aiming for.
+    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" beliefs" are not our own
+    - this type of practice is how you create yourself instead of discovering yourself.
+- the context and original language teach you how to THINK like a world-class performer, not just regurgitate quotes. That is the crucial meta-skill we're aiming for.
 # HEALTHY
 ## Exercise
 - Ferriss emphasizes the importance of exercising to improve your fitness, never hurting yourself, and don't go overboard. Working out somewhere with a soft surface is recommended.
@@ -36,7 +36,7 @@ tags: ["productivity", "communication", "health", "investment"]
 - The ideal place to sleep is in a hammock. Try an acupressure mattress, which helps relieve back pain.
 - daily simple strength exercise:
   - one-arm kettlebell swing
-  - kettlebell Turkish get-up
+  - Turkish kettlebell get-up
   - kettlebell goblet squat
 
 ## Breathing
@@ -57,23 +57,23 @@ tags: ["productivity", "communication", "health", "investment"]
 
 ## low-carb
 - the low-carb and ketogenic diet for optimum health
-  - keto diet is essentially a low-carb, high-fat diet designed to imitate the state of fasting.
+  - the keto diet is essentially a low-carb, high-fat diet designed to imitate the state of fasting.
   - Rather than using blood sugar (glucose) as your energy source, the body becomes dependent on ketones derived from fat. Few benefits are fat loss, better body composition, potential anti-cancer effects, improvement of oxygen consumption, and increased overall strength and health.
   - Repeat the same low-carb meals regularly. For example, have the same thing for breakfast every day, do the same for lunch, and if you require some variation, you can mix up your dinners.
   - Never drink calories.
   - Avoid fruit, too many sugars in fruit.
   - Measure your body fat percentage. If you can see this dropping, then you're on the right track.
   - Take one day off per week and eat whatever you want.
-- Fasting can help re-setting your body and immune system, stimulating stem-cell regeneration. Recommended to try a 5-day fast 2-3 times per year.
+- Fasting can help re-setting your body and immune system, stimulating stem-cell regeneration. It is recommended to try a 5-day fast 2-3 times per year.
 
 ## food diets
 - eating 'pop tarts' cookies for breakfast before competitions
-- people should only eat carbohydrates or sugars if they have a good body mass index, a person should have less than 10% body fat
+- people should only eat carbohydrates or sugars if they have a good body mass index. A person should have less than 10% body fat
 - mix coffee with butter or specific supplements like hydrolyzed gelatin mixed with beetroot powder
 
 ## Mobility
 - requires that you demonstrate strength throughout the entire range of motion, including the end ranges.
-- Kelly Starrett: try squatting all the way to the ground while keeping your feet and knees together. This indicates your mobility in the motion range in your hip and ankle.
+- Kelly Starrett: try squatting to the ground while keeping your feet and knees together. This indicates your mobility in the motion range in your hip and ankle.
 - Recommend doing light, narrow-stance overhead squats in combination with cossack squats as a way of improving your mobility in these areas.
 - Keep the heels flat on the ground, your knees directly above your toes, and your hips as close to the ground as possible when you switch.
 - Cow stretch (aka cat-cow or cat camel in yoga). Spend as much time as you can in a low lunge and work on shoulder rotation using the Burgener warm-up.
@@ -85,7 +85,7 @@ tags: ["productivity", "communication", "health", "investment"]
 - Exogenous ketones are also recommended: supplements that help the body achieve or maintain the highest performing ketogenic states. However, these supplements are costly and can induce nausea and induce vomiting.
 
 ## Medicating
-- daily use of the diabetes drug metformin. Metformin can help prevent cancer and is considered the most promising anti-ageing drug nowadays.
+- the daily use of the diabetes drug metformin. Metformin can help prevent cancer and is considered the most promising anti-ageing drug nowadays.
 - Takes small dosages of lithium, which is a drug against bipolarity. It is believed that such low dosages can improve mood and brain functions.
 - Substances such as Psilocybin, Mescaline, and Ayahuasca can separate the subject from the ego and thus provide a transcendental experience.
 Psychedelic drugs treat depression, addiction, and even anxiety.
@@ -97,26 +97,26 @@ Psychedelic drugs treat depression, addiction, and even anxiety.
 - Make 'titanium tea.' Ingredients: Pu-erh aged black tea. Dragon well green tea (or other green tea). Turmeric and ginger shavings (often also Rishi brand). Add hot water and steep for 1-2 minutes. Once done, add 1-2 tbsp of coconut oil
 - journal. Take 5-10 minutes to write down some thoughts. Then, answer a few questions about what you're grateful for, what would make the day better, and daily affirmations.
 
-"I may be the laziest mindfulness instructor in the world because I tell my students that all they need to commit to is one mindful breath a day. Just one. Breathe in and breathe out mindfully, and your commitment for the day is fulfilled. Everything else is a bonus."
+"I may be the laziest mindfulness instructor in the world because I tell my students that all they need to commit to is one mindful breath a day—just one. Breathe in and breathe out mindfully, and your commitment for the day is fulfilled. Everything else is a bonus."
 
 # Wealthy
 
 ## pricing and silicone valley
-- should not under-valuing your product and not charging enough. By not charing enough for a product, you're only undercutting yourself. You're left with not enough money to actually market the product.
+- should not under-valuing your product and not charge enough. By not charing enough for a product, you're only undercutting yourself. You're left with not enough money actually to market the product.
 - Know the value of what you are selling. Don't get greedy and aim for volume.
 
 ## say yes
-- when you're earlier in your career, the best strategy is to just say 'yes' to everything. Every little gig. You just never know what the lottery tickets are.
+- when you're earlier in your career, the best strategy is to say 'yes' to everything—every little gig. You never know what the lottery tickets are.
 - If you don't instinctively think, "HELL, YES, I WILL DO THAT," then say 'no.'
 - Once you've found your rhythm and have made progress, it's time to stop filling all of your time with menial and mediocre tasks.
 
 ## busy
-- being busy means a lack of priorities, so commit to things that are really worth it and reject the rest.
+- being busy means a lack of priorities, so commit to things that are worth it and reject the rest.
 - "Being busy is most often used as a guide for avoiding the few critically important but uncomfortable actions."
 - One way to deal with procrastination and business is to identify just ONE must-do task per day.
 
 ## don't be a dog
-- what if mindset, anything you do, anything you change, consider the possible results of that in 1 day, 1 week, 1 month, or 1 year. Always be thinking ahead and have a plan for success.
+- what if mindset, anything you do, anything you change, consider the possible results of that in 1 day, one week, one month, or one year. Always be thinking ahead and have a plan for success.
 
 ## investors
 - obsession with not losing money. Before entering any business opportunity or investment, ask yourself what the downside is and how you can be protected against it.
@@ -129,8 +129,8 @@ Psychedelic drugs treat depression, addiction, and even anxiety.
 Consider timing is entirely necessary or if it's something you're inflicting upon yourself as a stalling tactic.
 
 ## startups and making money
-- if you have set well-thought-out and intelligent rules, then FOLLOW THE RULES NO MATTER WHAT. You clearly set the rules with intentions, don't break them when something tempting comes up.
-- Most of the startups will fail. So to cover your losses, you need to make sure that the successes are really worth it.
+- if you have set well-thought-out and intelligent rules, then FOLLOW THE RULES NO MATTER WHAT. You set the rules with intentions, don't break them when something tempting comes up.
+- Most of the startups will fail. So to cover your losses, you need to make sure that the successes are worth it.
 - When it comes to investing and angel investments, you have to be 100% comfortable with losing all of your money. Therefore, you should only gamble with an amount you can afford to lose.
 - Limit angel investment funds to 10-15% of your liquid assets. Nevermore.
 - When designing a product, you have to be keen to use the product yourself. If it's not something you're interested in, avoid it.
@@ -150,13 +150,13 @@ Consider timing is entirely necessary or if it's something you're inflicting upo
 - Confident enough to put yourself out there. The following 5-6 times you order a coffee, ask for 10% off. Doing this a few times will improve your confidence and help you get comfortable with asking.
 
 ## stress test beliefs
-before releasing a product or service, it's essential to expose them to proper scrutiny. For example, select the first 10 people (red team) to critique and break an idea apart.
+before releasing a product or service, it's essential to expose them to proper scrutiny. For example, select the first ten people (red team) to critique and break an idea apart.
 
 ## It's not what you know. It's what you do consistently.
 - Knowledge is redundant without consistent, purposeful action. A similar theme addressed by Peter Thiel is that education does not equate to learning. Thiel is more interested in what people learn rather than what educational credentials they are working on.
 
 ## Gut investing
-- start by exploring an idea emotionally, than do traditional due diligence using objective data.
+- start by exploring an idea emotionally, then do traditional due diligence using objective data.
 - When researching ideas emotionally, take the novel features and think about how they will impact users' emotions and play out over the long run.
 
 ## resilience
@@ -180,7 +180,7 @@ before releasing a product or service, it's essential to expose them to proper s
 
 # Wisdom
 ## being mentally tough
-- pushing yourself harder than ever before, to do something you didn't realize you were capable of.
+- pushing yourself harder than ever before to do something you didn't realize you were capable of.
 - Get into situations with a group where you have difficulties and discomfort.
 - Establish fear and make people overcome it.
 
@@ -189,11 +189,11 @@ before releasing a product or service, it's essential to expose them to proper s
 - If you are terrified of the humiliation that failure can bring, then use that as your motivation to succeed.
 - Fear is designed to keep us safe.
 - Don't let it rule you.
-- Ask yourself if your fear should really be a top priority.
+- Ask yourself if your fear should be a top priority.
 
 ## fear-setting
 - to embrace fear setting, you need to define the worst-case scenario for any event or outcome. Understand precisely what would happen and identify all the ways that you might be affected.
-- By defining your fears, you'll find that you're actually working towards conquering these fears.
+- By defining your fears, you'll find that you're working towards conquering these fears.
 - Rate the negative outcome on a scale of 1-10 and consider whether they are permanent or temporary.
 - Next, consider what actions you would take to correct the adverse outcomes. Finally, how easy would it be to get back on track?
 - Cost-benefit analysis.
@@ -201,9 +201,9 @@ before releasing a product or service, it's essential to expose them to proper s
 "In other words, you're risking an unlikely and temporary 3 or 4 for a probable and permanent 9 or 10."
 
 ## perfectionism
-- can actually be paralyzing
+- can be paralyzing
 - lead to low self-esteem and unhealthy relationships
-- often. A by-product of perfectionism is actually procrastination.
+- often. A by-product of perfectionism is procrastination.
 - No one is perfect, and you shouldn't want to be.
 
 ## Tactics for dealing with haters
@@ -213,7 +213,7 @@ before releasing a product or service, it's essential to expose them to proper s
 - don't over apologize.
 - You can't reason someone out of something they didn't reason themselves into
 - don't try to get everyone to like you. Confront the people who need confronting
-- if you want to improve, be content to be thought foolish and stupid
+- if you want to improve, be content to be thought foolish
 - living well is the best revenge.
 
 ## on happiness
@@ -227,15 +227,15 @@ before releasing a product or service, it's essential to expose them to proper s
 - practice kindness, in which you desire the happiness of others, and in return, you feel happier.
 - Practice saying the words "I love you" in her mind every time she meets a stranger before she even talks to them.
   - This practice is a way of ensuring that she is not judging negatively. Criticism and negative judgement are a way to feel superior while avoiding introspection.
-- seeks to be the first person to smile at someone and say 'hello' - to friends and even strangers.
+- seeks to be the first to smile at someone and say 'hello' - to friends and even strangers.
 
 "Happiness is wanting what you have."
 
 ## 3 options
-- when facing a new situation, there are 3 options: you can change it, accept it, or leave it. It's essential to choose one of these options and not the terrible fourth option: sitting around, wishing you could change it, but simply accepting it, or wishing you could leave it, but changing it, etc...
+- when facing a new situation, there are three options: you can change it, accept it, or leave it. It's essential to choose one of these options and not the terrible fourth option: sitting around, wishing you could change it, but simply accepting it, or wishing you could leave it, but changing it, etc...
 
 ## Deloading
-- training really hard, then having a de-load week where the volume and intensity reduced significantly. It's about using this as downtime for the body to recover and prepare for the next intensity period.
+- training hard, then having a de-load week where the volume and intensity reduced significantly. It's about using this as downtime for the body to recover and prepare for the next intensity period.
 - Ferriss explains that he'll batch an intense period of complex and similar tasks such as podcasting, emails, writing blogs and accounting. He'll then alternate this with scheduled periods of downtime where he can do whatever he wants.
 - "Deloading blocks must be scheduled and defended more strongly than your business commitments. The former can strengthen and inform the latter, but not vice versa."
 
@@ -244,12 +244,12 @@ before releasing a product or service, it's essential to expose them to proper s
 - Meditation has been associated with a wide range of physiological and mental benefits, including lower blood pressure, improved cognition and lower levels of anxiety
 ## time management
 - busy is a sign that your mind is out of control and chaotic
-- being available and having time for others and yourself means that you are in control of your day and your life.
+- being available and having time for others and yourself means that you are in control of your day and life.
 - The chronic culture of occupation reflects the lack of priorities and the lack of self-respect.
-- 10 minutes a day is all you need to be efficient and that being busy is not a valid excuse because if you do not have 10 minutes, you do not have a life.
+- 10 minutes a day is all you need to be efficient, and that being busy is not a valid excuse because if you do not have 10 minutes, you do not have a life.
 
 ## 3 tools that allow all the rest
-- I can think: having good rules for decision-making, and having good questions you can ask yourself and others
+- I can think: having good rules for decision-making and having good questions you can ask yourself and others
 - I can wait: being able to plan the long-term, play the long game, and not misallocate your resources
 - I can fast: being able to withstand difficulties and disaster. Training yourself to be uncommonly resilient and have a high pain tolerance.
 
@@ -260,9 +260,9 @@ before releasing a product or service, it's essential to expose them to proper s
   - What if I did the opposite of all the other sales guys, just for 48 hours?
     - What if I only asked questions instead of pitching
     - what if I studied technical material, so I sounded like an engineer instead of a sales guy?
-    - what if I ended my emails with, "I totally understand if you're too busy to reply, and thank you for reading this far,"
-- what do I spend a silly amount of money on? How might I scratch my own itch?
-- What would I do/have/been if I had $10 million? what's my real TMI (target monthly income)?
+    - what if I ended my emails with, "I understand if you're too busy to reply, and thank you for reading this far,"
+- what do I spend a silly amount of money on? How might I scratch my itch?
+- What would I do/have/been if I had $10 million? What's my real TMI (target monthly income)?
   - https://tim.blog/lifestyle-costing/
 - what are the worst things that could happen? Could I get back here?
   - https://tim.blog/2017/05/15/fear-setting/
@@ -273,10 +273,10 @@ before releasing a product or service, it's essential to expose them to proper s
 - what if I let them make decisions up to $100? $500? $1000?
   - To get huge, good things done, you need to be okay with letting the small, bad things happen
   - people's IQs seem to double as soon as you give them responsibility and indicate that you trust them.
-- What's the least 6 minor crowded channel?
+- What are the least six minor crowded channels?
 - Imagine if I couldn't pitch my product directly?
   - People don't like being sold products, but we all want to be told stories.
-- what if I created my own real-world MBA?
+- what if I created my real-world MBA?
   - https://tim.blog/2010/06/28/mba/
 - do I need to make it back the way I lost it?
 - What if I could only subtract to solve problems?
@@ -296,13 +296,13 @@ before releasing a product or service, it's essential to expose them to proper s
   - spend money to earn time as time is non-renewable.
 - **No hurry, no pause.**
   - You can get 95% of the results you want by calmly putting one foot in front of the other. 
-  - Slow is smooth, smooth is fast.
+  - Slow is smooth. Smooth is fast.
 - **Luxury is feeling unrushed. No hurry, no pause.**
 - article from Tim Ferris
   - [17 Questions that changed my life](./17-Questions-That-Changed-My-Life.pdf)
 
 # Exercises to try
-## Write down 10 ideas each morning in a notebook. Sample prompts like
+## Write down ten ideas each morning in a notebook. Sample prompts like
   - 10 craziest things I could do
   - 10 old ideas I can make new
   - 10 ridiculous things I would invent
@@ -315,22 +315,22 @@ before releasing a product or service, it's essential to expose them to proper s
   - something significant that happened yesterday, whether you experienced or witnessed it.
   - Something simple near you or within sight.
 ## joy of loving-kindness
-  - during the way, randomly identify two people who walk past you or are standing or sitting around you. Secretly wish for them to be happy. "I wish for this person to be happy."
+  - during the way, randomly identify two people who walk past you or are standing or sitting around you. I secretly wish for them to be happy. "I wish for this person to be happy."
 ## commit to doing one pushup before bed,
 ## write down the 20% of activities and people causing 80% or more of your negative emotions
 ## decision making
 tonight or tomorrow morning, think of a decision you've been putting off and challenge the fuzzy "what ifs" holding you hostage. If not now, when? If left at the status quo, what will your life and stress look like in 6 months? In 1 year? In 3 years? Who around you will also suffer?
 
-## Think about being a 10 year older version of myself
+## Think about being a ten year older version of myself
 "what would I probably tell myself as an older version of myself?' start living by the answers and grow exponentially.
 
-## Write 2 pages of uninterrupted flow to flex the muscle of generating content without judgment.
+## Write two pages of uninterrupted flow to flex the muscle of generating content without judgment.
 - something you don't remember
 - your darkest teacher
 - the memory of physical injury
 - when you knew it was over
 - being loved
-- what you were really thinking
+- what you were thinking
 - how you found your way back
 
 # Quotes
@@ -339,7 +339,7 @@ tonight or tomorrow morning, think of a decision you've been putting off and cha
 
 "I am a big believer that if you have an obvious vision of where you want to go, the rest of it is much easier."
 
-"When you're thinking of how to make your business bigger, it's tempting to try to think all the big thoughts, the world-changing, massive-action plans. But please know that it's often the tiny details that really thrill someone enough to make them tell all their friends about you."
+"When you're thinking of how to make your business bigger, it's tempting to try to think all the big thoughts, the world-changing, massive-action plans. But please know that it's often the tiny details that thrill someone enough to make them tell all their friends about you."
 
 "If you would not be forgotten as soon as you are dead and rotten, either write things worth reading or do things worth writing." - Ben Franklin.
 
@@ -385,33 +385,33 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "want to get unstuck, go for a walk, no phone, no music, no podcast, just you, your thought and the fresh air."
 
-"be deliberate about what you spend your time on and who you spend it with"
+"be deliberate about what you spend your time on and who you spend it with."
 
 "not matter how far you go, always remember, you didn't make it on your own, pay it forward, be a mentor, be a champion for others, their growth should be your tremendous source of joy and pride."
 
 "The world is changed by your example, not by your opinion."
 
-"Productivity is for robots. What humans are going to be really good at is asking questions, being creative, and experiencing."
+"Productivity is for robots. What humans are going to be good at is asking questions, being creative, and experiencing."
 
 "Desire is a contract you make with yourself to be unhappy until you get what you want."
 
 "judge a person by his/her questions rather than his/her answers."
 
-"my goal for each reader to like 50%, love 25%, and never forget 10%"
+"my goal for each reader to like 50%, love 25%, and never forget 10%."
 
 "Success, however you define it, is achievable if you collect the right field-tested beliefs and habits."
 
 "The superheroes you have in your mind (idols, icons, titans, billionaires, etc...) are nearly all walking flaws who've maximized 1 or 2 strengths...; you succeed because you find your unique strengths and focus on developing habits around them."
 
-"I'm not the strongest. I'm not the fastest. But I'm really good at suffering"
+"I'm not the strongest. I'm not the fastest. But I'm good at suffering."
 
 "Everyone fighting a battle that you know nothing about"
 
-"Routine, in an intelligent man, is a sign of ambition"
+"Routine, in an intelligent man, is a sign of ambition."
 
 very often, "our" beliefs are not our own
 
-"borrow liberally, combine uniquely, and create your own bespoke blueprint."
+"borrow liberally, combine uniquely, and create your bespoke blueprint."
 
 # References
 https://fourminutebooks.com/tools-of-titans-summary/
