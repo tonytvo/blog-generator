@@ -47,7 +47,7 @@ tags: ["productivity", "communication", "health", "investment"]
 
 ## Recovery
 - hyperthermic conditioning, aka calculated heat exposure.
-  - It probably would improve your endurance and increase your GH (growth hormone levels.
+  - It probably would improve your endurance and increase your GH (growth hormone levels).
   - Regular saunas post-workout. Just 20 minutes 3-4 times a week at a temperature of 160-170 F can be highly beneficial for reducing DOMS (delayed-onset muscle soreness)
 - cold therapy to improve immunity, mood and increase fat loss.
   - Start small, end your shower with 30-60 seconds of pure cold water. Then, gradually increase the time spent under cold water.
@@ -88,7 +88,7 @@ tags: ["productivity", "communication", "health", "investment"]
 - the daily use of the diabetes drug metformin. Metformin can help prevent cancer and is considered the most promising anti-ageing drug nowadays.
 - Takes small dosages of lithium, which is a drug against bipolarity. It is believed that such low dosages can improve mood and brain functions.
 - Substances such as Psilocybin, Mescaline, and Ayahuasca can separate the subject from the ego and thus provide a transcendental experience.
-Psychedelic drugs treat depression, addiction, and even anxiety.
+- Psychedelic drugs treat depression, addiction, and even anxiety.
 
 ## 5-morning rituals
 - make your bed daily. By making your bed, you're working on your first task of the day, and achieving this will inject you with a bit of pride. This will motivate you to continue in the same manner throughout your day.
@@ -102,11 +102,11 @@ Psychedelic drugs treat depression, addiction, and even anxiety.
 # Wealthy
 
 ## pricing and silicone valley
-- should not under-valuing your product and not charge enough. By not charing enough for a product, you're only undercutting yourself. You're left with not enough money actually to market the product.
+- should not under-value your product and not charging enough. By not charging enough for a product, you're only undercutting yourself. You're left with not enough money to actually market the product.
 - Know the value of what you are selling. Don't get greedy and aim for volume.
 
 ## say yes
-- when you're earlier in your career, the best strategy is to say 'yes' to everything—every little gig. You never know what the lottery tickets are.
+- when you're earlier in your career, the best strategy is to say 'yes' to everything, every little gig. You never know what the lottery tickets are.
 - If you don't instinctively think, "HELL, YES, I WILL DO THAT," then say 'no.'
 - Once you've found your rhythm and have made progress, it's time to stop filling all of your time with menial and mediocre tasks.
 
@@ -116,17 +116,17 @@ Psychedelic drugs treat depression, addiction, and even anxiety.
 - One way to deal with procrastination and business is to identify just ONE must-do task per day.
 
 ## don't be a dog
-- what if mindset, anything you do, anything you change, consider the possible results of that in 1 day, one week, one month, or one year. Always be thinking ahead and have a plan for success.
+- what if mindset, anything you do, anything you change, consider the possible results of that in one day, one week, one month, or one year. Always be thinking ahead and have a plan for success.
 
 ## investors
 - obsession with not losing money. Before entering any business opportunity or investment, ask yourself what the downside is and how you can be protected against it.
 - Obsessed with asymmetrical risk and reward. This essentially means that they are focused on minimum risk with maximum results.
 - Asset allocation and margin of safety to diversify your portfolio in case you make wrong decisions.
-- Passionate about giving and being generous. They weren't tight or overly frugal.
+- Passionate about giving and being generous. It weren't tight or overly frugal.
 
 ## work hard
 - the error rate of 10-20%, times when I would have made a different decision in a given situation if it means you can move fast.
-Consider timing is entirely necessary or if it's something you're inflicting upon yourself as a stalling tactic.
+- Consider timing is entirely necessary or if it's something you're inflicting upon yourself as a stalling tactic.
 
 ## startups and making money
 - if you have set well-thought-out and intelligent rules, then FOLLOW THE RULES NO MATTER WHAT. You set the rules with intentions, don't break them when something tempting comes up.
@@ -154,6 +154,10 @@ before releasing a product or service, it's essential to expose them to proper s
 
 ## It's not what you know. It's what you do consistently.
 - Knowledge is redundant without consistent, purposeful action. A similar theme addressed by Peter Thiel is that education does not equate to learning. Thiel is more interested in what people learn rather than what educational credentials they are working on.
+- Zero to one questions:
+  - **the monopoly question**: are you starting with a big share of a small market?
+  - **the secret question**: have you identified a unique opportunity that others don't see?
+  - **the distribution question**: do you have a way to not just create but deliver your product?
 
 ## Gut investing
 - start by exploring an idea emotionally, then do traditional due diligence using objective data.
@@ -412,6 +416,10 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 very often, "our" beliefs are not our own
 
 "borrow liberally, combine uniquely, and create your bespoke blueprint."
+
+"How do I become less competitive in order that I can become more successful?"
+
+"Tell me something that's true that very few people agree with you on."
 
 # References
 https://fourminutebooks.com/tools-of-titans-summary/
