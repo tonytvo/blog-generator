@@ -14,11 +14,13 @@ tags: ["productivity", "communication", "health", "investment"]
 - toolkit for changing your life.
 - judge a man by his questions rather than his answers
 - contains low-hanging fruit with immediate returns. Think of the bite-sized rules within these pages as PED(s) - performance enhancing details
+- look for the black sheep who fit your unique idiosyncrasies. Keep an eye out for the non-traditional paths.
+- borrow liberally, combine uniquely, and create your own bespoke blueprint.
 - this book is a buffet. Here's how to get the most out of it
   - skip liberally: skip anything that doesn't interests you.
     - like 50%, love 25%, and never forget 10%
   - skip, but do so intelligently
-    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? seem beneath you? seem too difficult? and did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" belief" are now our own
+    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? seem beneath you? seem too difficult? and did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" belief" are not our own
     - this type of practice is how you create yourself, instead of seeking to discover yourself.
 - the context and original language teaches you how to THINK like a world-class performer, not just regurgitate quotes. That is the key meta-skill we're aiming for.
 # HEALTHY
@@ -407,9 +409,9 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "Routine, in an intelligent man, is a sign of ambition"
 
-"judge a man by his questions rather than his answers"
-
 very often, "our" beliefs are not our own
+
+"borrow liberally, combine uniquely, and create your own bespoke blueprint."
 
 # References
 https://fourminutebooks.com/tools-of-titans-summary/
