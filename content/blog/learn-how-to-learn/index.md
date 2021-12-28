@@ -68,8 +68,37 @@ tags: ["productivity", "learning"]
   - summary and review the notes periodically
   - [blank sheet](#blank-sheet) technique
   - [conventional notes](#conventional-notes) technique
+  ## Sun list
+| Item      | Association |
+| ------------ | -------------- |
+| 1. Sun      | 1 Sun       |
+| 2. Socks   | 2 Socks        |
+| 3. Traffic lights   | 3 lights on a traffict light        |
+| 4. Car   | 4 wheels on a car        |
+| 5. Glove/Star   | 5 fingers on a glove        |
+| 6. Soda   | 6 pack of soda        |
+| 7. Rainbow   | 7 colors in teh rainbow        |
+| 8. magic 8 ball/octopus   | 8 ball. 8 tentacles        |
+| 9. cat   | 9 lives for a cat        |
+| 10. toes   | 10 toes        |
+| 11. skies   | 2 skis look like an 11        |
+| 12. roses   | dozen of roses        |
+| 13. spaceship   | apollo 13        |
+| 14. carrot/gold   | 14 carrot diamond/14K gold        |
+| 15. money   | $ looks like 5 crossed with a 1        |
+| 16. candle   | sweet sixteen        |
+| 17. magazine   | 17 magazine for teens        |
+| 18. truck   | 18 wheeler        |
+| 19. golf   | the 19th hole is the bar        |
+| 20. fox   | 20th century fox        |
+
+
   ## Chain Linking
   ## Peg memory method
+  - With the sun list, we now have 20 pegs.
+  - associate the item with the Sun List.
+  - to create a strong memorable association, we need to use a vivid imagination. We should create an image in our head that is illogical, funny, or cool to make it memorable
+    - to remember #9 is people, we could image cat people. That's weird, and funny so it's memorable.
   ## Remember names
 
 # Continuous learning
