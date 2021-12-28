@@ -3,7 +3,6 @@ title: learning how to learn
 date: "2021-12-27T22:12:03.284Z"
 description: "learning how to learn summary"
 tags: ["productivity", "learning"]
-status: "draft"
 ---
 
 # todo
@@ -41,6 +40,12 @@ status: "draft"
 - **A - Active**.
   - learning is not a spectator sport. Practice, take notes or ask questions
   - your superbrain works not by consuming information, but by creating and co-creating it.
+  - 4 quadrants of active learning
+    - visualization: a picture worth thousands word, same is true for learning
+    - association: associate it with something you already know.
+    - emotion: emotion + association = long-term memory
+      - adding emotion to association registers your new information in long-term memory. Regardless of emotion you use, emotion makes retention much more robust and durable.
+    - location: associate things to a place you're familiar most
 - **S - State**. All learning is state dependant
   - be fully present and don't focus on other things that are not urgent
   - changing your physiology, changes your psychology.
@@ -56,6 +61,22 @@ status: "draft"
       - the ultimate test of your knowledge is your capacity to convey it to another.
       - attempt to transmit the material to at least 1 person who isn't that familiar with it.
 
+# System for remembering what you learn
+  - Mark up the book while reading it. Questions, thoughts. And, more important connections to other ideas.
+  - at the end of each chapter, without looking back, write some notes on the main points/arguments/take-away. Then look back through the chapter and write down anything you missed.
+  - specifically note anything that was in the chapter that you can apply somewhere else
+  - summary and review the notes periodically
+  - [blank sheet](#blank-sheet) technique
+  - [conventional notes](#conventional-notes) technique
+  ## Chain Linking
+  ## Peg memory method
+  ## Remember names
+
+# Continuous learning
+- [industrial logic continous learning](https://www.industriallogic.com/img/blog/2005/09/ContinuousLearning.pdf)
+
+# A pattern language for study groups
+- [a pattern language for study groups](https://www.industriallogic.com/img/blog/2012/03/khdraft1.pdf)
 
 # How we learn to read
 - there's difference between reading for understanding and reading for information
@@ -66,6 +87,11 @@ status: "draft"
 - The number of pages you read is not as important as the fact you're enjoying it.
 - **skim a lot of books, read a few. Immediately re-read the best ones twice**
   - when you lose interest give it 5 more pages. Then skim the next chapter. If you're still not interested, put it down. It's the authors job to keep your attention
+  - marking a book is indispensable to reading it
+    - keep you awake, not merely conscious, but wide awake
+    - reading, if it is active, is thinking and thinking tends to express itself in words, spoken or written.
+    - writing your reactions down helps you to remember the thoughts of the author
+    - literally an expression of your differences or your agreements with the author. It is the highest respect you can pay him.
     
 # Finding more time to read
   - **find time to read boils down to choices about how you allocate your time.**
@@ -81,13 +107,74 @@ status: "draft"
       - before going to bed, read something light or something requiring more thought so I can ponder an idea while I'm falling asleep.
       - when I'm not reading, I'm trying to think about what I have just read (like waiting in the checkout line at the grocery store)
 
-# System for remembering what you learn
-  - Mark up the book while reading it. Questions, thoughts. And, more important connections to other ideas.
-  - at the end of each chapter, without looking back, write some notes on the main points/arguments/take-away. Then look back through the chapter and write down anything you missed.
-  - specifically note anything that was in the chapter that you can apply somewhere else
-  - summary and review the notes periodically
-  - [blank sheet](#blank-sheet) technique
-  - [conventional notes](#conventional-notes) technique
+# 4 levels of reading
+
+  ## Elementary reading
+  - level of reading taught in our elementary schools
+  ## Inspectional reading
+  - skimming and superficial reading can be used effectively to increase understanding
+  - inspectional reading allows us to look at the author's blueprint and evaluate the merits of a deeper reading experience.
+  - 2 sub-types of inspectional reading
+    - systematic skimming
+      - quick check of the book by
+        - reading preface
+        - studying the table of contents
+        - checking the index
+        - reading inside jacket
+      - give you sufficient knowledge to understand the chapters in the book, pivotal to the author's argument.
+      - skimming helps you reach to a decision point: Does this book deserve more of my time and attention? if not, you put it down.
+    - superficial reading
+      - just read, don't ponder the argument, don't look things up, don't write in the margins.
+      - if you don't understand something, move on.
+      - now that you have better understanding of the book's contents and its structure, do you want to understand it?
+  ## Analytical reading
+  - [use marginalia to converse with the author](https://fs.blog/marginalia/)
+    - the broken fragments of thought that appear scribbled in the margins of books.
+    - these fragments help us connect ideas, translate jargon, and spur critical thinking.
+  - 4 rules to analytical reading
+    - classify the book according to kind and subject matter
+    - state what the whole book is about with the utmost brevity
+    - enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole
+    - define the problem or problems the author is trying to solve.
+      - in other words, you should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts.
+  - after an inspectional read, you will understand the book and the author's views.
+  - theoretical books teach you that something is the case. Practical books teach you how to do something you want to do or think you should do.
+  ## Syntopical reading
+  - involves reading many books on the same subject and comparing and contrasting ideas, vocabulary, and arguments.
+  - identifying relevant passages, translating the terminology, framing and ordering the questions that need answering, defining the issues, and having a conversation with the responses.
+  - understand the subject and develop deep fluency
+  - identifying and filling in your knowledge gaps.
+  - 5 steps to syntopical reading
+    - finding the relevant passages
+      - find the right books and then the passages that are most relevant to filling your needs
+    - bringing the author to terms
+      - identify the keywords and how they are used by the author. Each author has probably used different temrs and concepts to frame their argument.
+      - this is an exercise in translation and synthesis.
+    - Getting the questions clear
+      - focus on the questions that you want to answered.
+      - it's important to frame the questions in such a way that all or most of the authors can be interpreted as providing answers.
+    - defining the issues
+      - ask clear question to which there are multiple answers.
+      - translated into your terms, must be ordered in relation to one another.
+      - understanding multiple perspectives within an issue helps you form an intelligent opinion.
+    - analyzing discussion
+      - it's presumptuous to expect we will find a single unchallenged truth to any of our questions.
+      - our answer is the conflict of opposing answers.
+      - the value is the discussion you have with these authors.
+      - you can now have an informed opinion
+# 4 Questions must ask about any book
+## what is the book as a whole?
+- you must try to discover the leading theme of the book, and how the author develops his theme in an orderly way by subdividing it into its essential subordinate themes or topics
+
+## what is being said in detail and how
+- you must try to discover the main ideas, assertions and arguments that constitute the author's particular message
+
+## is the book true, in whole or part?
+- you cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you're obligated, if you are reading seriously, to make up your own mind. Knowing the author's mind is not enough.
+
+## what of it?
+- if the book has given you information, you must ask about its significance. Why does the author think it is important to know these things?
+- Is it important to you to know them? and if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking.
 
 # Note taking
   ## audio journal
@@ -123,6 +210,14 @@ status: "draft"
 - you need to become your most intelligent critic and have the intellectual honesty to kill some of your best-loved ideas.
 - doing the work counteracts our natural desire to seek out only information that confirms that we believe we know.
 
+## Pareto 20/80 principle
+  - most of your results are going to come from just a small percentage of your effort or work.
+    - 20% of relationships lead to 80% happiness
+    - 20% exercises lead to 80% of health benefit
+    - 20% of items on your todo list lead to 80% of productivity
+    - 20% of foods you eat cause 80% of your sickness
+    - by taking 10 minutes per day for prioritization, you can double your productivity
+    - by looking at what experiences give you the most delight, you can begin to engineer your life
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
@@ -161,7 +256,18 @@ status: "draft"
 
 "Men who have made these discoveries before us are not our masters, but our guides"
 
+"go to bed smarter than when you woke up"
+
+"we don't read other people's opinions. We want to get the facts, and then think"
+
+"when it comes to reading, you don't need to finish what you start"
+
+"The pencil," he argues, "becomes the sign of your alertness while you read"
+
+The person who says he knows what he thinks but cannot express it usually does not know what he thinks.
+
 # References
+- https://home.mindvalley.com/quests/en/superbrain
 - https://www.visualcapitalist.com/12-ways-smarter-mental-models/
 - https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 - https://fs.blog/the-art-of-reading-how-to-be-a-demanding-reader/
