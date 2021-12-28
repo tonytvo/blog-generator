@@ -20,7 +20,7 @@ tags: ["productivity", "communication", "health", "investment"]
   - skip liberally: skip anything that doesn't interest you.
     - like 50%, love 25%, and never forget 10%
   - skip, but do so intelligently
-    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" beliefs" are not our own
+    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" beliefs are not our own
     - this type of practice is how you create yourself instead of discovering yourself.
 - the context and original language teach you how to THINK like a world-class performer, not just regurgitate quotes. That is the crucial meta-skill we're aiming for.
 # HEALTHY
@@ -123,10 +123,6 @@ tags: ["productivity", "communication", "health", "investment"]
 - Obsessed with asymmetrical risk and reward. This essentially means that they are focused on minimum risk with maximum results.
 - Asset allocation and margin of safety to diversify your portfolio in case you make wrong decisions.
 - Passionate about giving and being generous. It weren't tight or overly frugal.
-
-## work hard
-- the error rate of 10-20%, times when I would have made a different decision in a given situation if it means you can move fast.
-- Consider timing is entirely necessary or if it's something you're inflicting upon yourself as a stalling tactic.
 
 ## startups and making money
 - if you have set well-thought-out and intelligent rules, then FOLLOW THE RULES NO MATTER WHAT. You set the rules with intentions, don't break them when something tempting comes up.
@@ -267,9 +263,9 @@ before releasing a product or service, it's essential to expose them to proper s
     - what if I ended my emails with, "I understand if you're too busy to reply, and thank you for reading this far,"
 - what do I spend a silly amount of money on? How might I scratch my itch?
 - What would I do/have/been if I had $10 million? What's my real TMI (target monthly income)?
-  - https://tim.blog/lifestyle-costing/
+  - [life style costing](https://tim.blog/lifestyle-costing/)
 - what are the worst things that could happen? Could I get back here?
-  - https://tim.blog/2017/05/15/fear-setting/
+  - [fear setting](https://tim.blog/2017/05/15/fear-setting/)
 - What would I do if I could only work 2 hours per week on my business?
   - 80% (or more) of your desired outcomes result from 20&(or less) of your activities and inputs.
   - What 20% of customers/products/regions produce 80% of the profit?
@@ -281,7 +277,7 @@ before releasing a product or service, it's essential to expose them to proper s
 - Imagine if I couldn't pitch my product directly?
   - People don't like being sold products, but we all want to be told stories.
 - what if I created my real-world MBA?
-  - https://tim.blog/2010/06/28/mba/
+  - [my real-world MBA](https://tim.blog/2010/06/28/mba/)
 - do I need to make it back the way I lost it?
 - What if I could only subtract to solve problems?
   - What should we simplify?
@@ -301,41 +297,42 @@ before releasing a product or service, it's essential to expose them to proper s
 - **No hurry, no pause.**
   - You can get 95% of the results you want by calmly putting one foot in front of the other. 
   - Slow is smooth. Smooth is fast.
-- **Luxury is feeling unrushed. No hurry, no pause.**
+  - **Luxury is feeling unrushed. No hurry, no pause.**
 - article from Tim Ferris
   - [17 Questions that changed my life](./17-Questions-That-Changed-My-Life.pdf)
 
 # Exercises to try
-## Write down ten ideas each morning in a notebook. Sample prompts like
+  ## Write down ten ideas each morning in a notebook. Sample prompts like
   - 10 craziest things I could do
   - 10 old ideas I can make new
   - 10 ridiculous things I would invent
   - 10 books I can write
   - 10 people I can send pictures to.
-## Focusing on systems rather than short-term goals.
-## Daily structured gratitude journaling
+  ## Focusing on systems rather than short-term goals.
+  ## Daily structured gratitude journaling
   - an old relationship that really helped you or valued highly
   - an opportunity you have today. Perhaps that's just an opportunity to call one of your parents or a chance to go to work
   - something significant that happened yesterday, whether you experienced or witnessed it.
   - Something simple near you or within sight.
-## joy of loving-kindness
+  ## joy of loving-kindness
   - during the way, randomly identify two people who walk past you or are standing or sitting around you. I secretly wish for them to be happy. "I wish for this person to be happy."
-## commit to doing one pushup before bed,
-## write down the 20% of activities and people causing 80% or more of your negative emotions
-## decision making
+  ## commit to doing one pushup before bed,
+
+  ## write down the 20% of activities and people causing 80% or more of your negative emotions
+  ## decision making
 tonight or tomorrow morning, think of a decision you've been putting off and challenge the fuzzy "what ifs" holding you hostage. If not now, when? If left at the status quo, what will your life and stress look like in 6 months? In 1 year? In 3 years? Who around you will also suffer?
 
-## Think about being a ten year older version of myself
+  ## Think about being a ten year older version of myself
 "what would I probably tell myself as an older version of myself?' start living by the answers and grow exponentially.
 
-## Write two pages of uninterrupted flow to flex the muscle of generating content without judgment.
-- something you don't remember
-- your darkest teacher
-- the memory of physical injury
-- when you knew it was over
-- being loved
-- what you were thinking
-- how you found your way back
+  ## Write two pages of uninterrupted flow to flex the muscle of generating content without judgment.
+  - something you don't remember
+  - your darkest teacher
+  - the memory of physical injury
+  - when you knew it was over
+  - being loved
+  - what you were thinking
+  - how you found your way back
 
 # Quotes
 
@@ -345,7 +342,7 @@ tonight or tomorrow morning, think of a decision you've been putting off and cha
 
 "When you're thinking of how to make your business bigger, it's tempting to try to think all the big thoughts, the world-changing, massive-action plans. But please know that it's often the tiny details that thrill someone enough to make them tell all their friends about you."
 
-"If you would not be forgotten as soon as you are dead and rotten, either write things worth reading or do things worth writing." - Ben Franklin.
+"If you would not want to be forgotten as soon as you are dead and rotten, either write things worth reading or do things worth writing." - Ben Franklin.
 
 "What is the ultimate quantification of success? For me, it's not how much time you spend doing what you love. It's how little time you spend doing what you hate."
 
