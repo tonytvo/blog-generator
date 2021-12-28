@@ -93,4 +93,14 @@ Generally, the best way to deal with people's problems is to prevent them from a
 
 # Quotes
 
+"negotiators may not be talking to each other, or at least not in such a way as to be understood (given up, no longer attempting serious conversation)"
+
+"even though you may be talking directly, they may not be hearing you"
+
+"misunderstanding, even though you may be speaking directly and they may be hearing you, they may misinterpret what you say"
+
 # References
+https://www.beyondintractability.org/bksum/fisher-getting
+https://readingraphics.com/book-summary-getting-to-yes/
+https://www.whatyouwilllearn.com/book/getting-to-yes/
+https://www.sage.exchange/post/getting-to-yes-summary
