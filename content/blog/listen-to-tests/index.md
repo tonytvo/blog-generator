@@ -91,6 +91,30 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - the tests are too tightly coupled to unrelated parts of the system or unrelated behaviour of the object(s) they're testing
   - tests overspecify the expected behaviour of the target code, constraining it more than necessary.
   - thee is duplication when multiple tests exercise the same production code behaviour
+- beware of flickering tests
+  - a test can fail intermittently if its timeout is too close to the time the tested behavior normally takes to run, or if it doesn't synchronize correctly with the system.
+  - flickering tests can mask real defects. We need to make sure that we understand what the real problem is before we ignore flickering tests
+  - allow flickering tests is bad for the team. It breaks teh culture of quality where things should "just work," and even a few flickering tests can make a team stop paying attention to broken builds.
+  - it also breaks the habits of feedback.
+  - we should be paying attention to why the tests are flickering and whether that means we should improve the design of both the tests and code.
+- runaway tests
+  - be careful when an asynchronous test asserts that system returns to a previous state.
+  - unless it also asserts that the system enters an intermediate state before asserting the initial state, the test will run ahead of the system.
+
+```java
+send(aTradeEvent().ofType(BUY).onDate(tradeDate).forStock("A").withQuantity(10));
+assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
+send(aTradeEvent().ofType(SELL).onDate(tradeDate).forStock("A").withQuantity(10));
+assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
+```
+
+- lost updates
+  - a significant difference between tests that sample and those that listen for events is that polling can miss state changes that are later overwritten
+  - if the test can record notifications from the system, it can look through its records to find significant notifications.
+  - to be reliable, a sampling test must make sure that its system is stable before triggering any further interactions.
+  - ![tests that record notifications](./record-notification-tests.png)
+  - ![phases of a sampling test](./phases-sampling-tests.png)
+
 
 # Test Patterns
 ## Tests readability
@@ -257,7 +281,173 @@ synchroniser.waitUtil(searching.isNot("inprogress"))
 - in asynchronous test, the control returns to the test before the tested activity is complete.
 - **An asynchronous test must wait for success and use timeouts to detect failure.**
   - this implies every tested activity must have an observable effect: a test must affect the system so that its observable state becomes different.
-- 
+  - there are 2 ways a test can observe the system: by sampling its observable state or by listening for events that it sends out.
+  - for example, auction sniper end-to-end tests sample the user interface for display changes, through the windowlicker framework, but listen for chat events in teh fake auction server.
+- make asynchronous tests detect success as quickly as possible so that they provide rapid feedback.
+- put the timeout values in one place
+  - there's a balance to struck between a timeout that's too short, which will make the tests unreliable, and one that's too long, which will make failing tests too slow
+  - when the timeout duration is defined in 1 place, it's easy to find and change.
+- scattering adhoc sleeps and timeouts throughout the tests makes them difficult to understand, because it leaves too much implementation detail in the tests themselves.
+- capturing notifications
+  - an event-based assertion waits for an event by blocking on a monitor until it gets notified or times out. When the monitor is notified, the test thread wakes up and continues if it finds that the expected event has arrived, or blocks again. if the test times out, then it raises a failure.
+
+[NotificationTrace](./NotificationTrace.java)
+```java
+public class NotificationTrace<T> {
+    private final Object traceLock = new Object();
+    private final List<T> trace = new ArrayList<T>();
+    private long timeoutMs = 1000L;
+
+    public void append(T message) {
+        synchronized (traceLock) {
+            trace.add(message);
+            traceLock.notifyAll();
+        }
+    }
+
+    public void containsNotification(Matcher<? super T> criteria)
+            throws InterruptedException {
+        Timeout timeout = new Timeout(timeoutMs);
+
+        synchronized (traceLock) {
+            NotificationStream<T> stream = new NotificationStream<T>(trace, criteria);
+
+            while (!stream.hasMatched()) {
+                if (timeout.hasTimedOut()) {
+                    throw new AssertionError(failureDescriptionFrom(criteria));
+                }
+
+                timeout.waitOn(traceLock);
+            }
+        }
+    }
+
+    private String failureDescriptionFrom(Matcher<? super T> acceptanceCriteria) {
+        // construct a description of why there was no match
+        // including the matcher and all the received messages.
+    }
+
+    public static class NotificationStream<N> {
+        private final List<N> notifications;
+        private final Matcher<? super N> criteria;
+        private int next = 0;
+
+        public boolean hasMatched() {
+            while (next < notifications.size()) {
+                if (criteria.matches(notifications.get(next)))
+                    return true;
+                next++;
+            }
+            return false;
+        }
+    }
+}
+```
+
+[NotificationTraceTests.java](./NotificationTraceTests.java)
+```java
+    NotificationTrace<String> trace = new NotificationTrace<String>();
+
+    @Test(timeout = 500)
+    public void waitsForMatchingMessage() throws InterruptedException {
+        scheduler.schedule(new Runnable() {
+            public void run() {
+                trace.append("WANTED");
+            }
+        }, 100, TimeUnit.MILLISECONDS);
+
+        trace.containsNotification(equalTo("WANTED"));
+    }
+
+    @Test
+    public void failsIfNoMatchingMessageReceived() throws InterruptedException {
+        try {
+            trace.containsNotification(equalTo("WANTED"));
+        } catch (AssertionError e) {
+            assertThat("error message includes trace of messages received before failure",
+                    e.getMessage(), containsString("NOT-WANTED"));
+            return;
+        }
+
+        fail("should have thrown AssertionError");
+    }
+```
+
+- polling for changes
+  - A sample-based assertion repeatedly samples some visible effect of the system through a "probe", waiting for the probe to detect that the system has entered an expected state.
+  - there are 2 aspects to process of sampling: polling the system and failure reporting, and probing the system for a given state. 
+    - [FileLengthProbe](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/polling/FileLengthProbe.java)
+    - [Poller](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/polling/Poller.java)
+    - [Probe](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/polling/Probe.java)
+
+```java
+assertEventually(fileLength("data.txt", is(greaterThan(2000))))
+....
+  public static void assertEventually(Probe probe) throws InterruptedException{
+    new Poller(1000L, 100L).check(probe))
+  }
+...
+  public static Probe fileLength(String path, final Matcher<Integer> matcher) {
+      final File file = new File(path);
+      return new Probe() {
+          private long lastFileLength = NOT_SET;
+
+          public void sample() {
+              lastFileLength = file.length();
+          }
+
+          public boolean isSatisfied() {
+              return lastFileLength != NOT_SET && matcher.matches(lastFileLength);
+          }
+      };
+  }
+```
+
+- timing out
+  - [Timeout.java](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/Timeout.java) 
+  - [TimeoutTests.java](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/TimeoutTests.java)
+
+```java
+    @Test
+    public void reportsIfTimedOut() throws InterruptedException {
+        Timeout timeout = new Timeout(100);
+        assertTrue("should not have timed out", !timeout.hasTimedOut());
+        Thread.sleep(100);
+        assertTrue("should have timed out", timeout.hasTimedOut());
+    }
+
+    @Test(timeout = 300)
+    public void waitsForTimeout() throws InterruptedException {
+        final Object lock = new Object();
+
+        long start = System.currentTimeMillis();
+        Timeout timeout = new Timeout(250);
+
+        synchronized (lock) {
+            timeout.waitOn(lock);
+        }
+
+        long woken = System.currentTimeMillis();
+
+        assertTrue("should have waited until the timeout", (woken - start) >= 250);
+    }
+```
+
+- testing that an action has no effect
+  - if an asynchronous test waits for something not to happen, it cannot even be sure that the system has started before it checks the result.
+  - the test should trigger a behavior that is detectable and use that to detect that the system has stabilized
+  - the skill here is in picking a behavior that will not interfere with the test's assertions and that will complete after the tested behavior.
+- distinguish synchronizations and assertions
+  - adopt a naming scheme to distinguish between synchronizations and assertions. For example, waitUntil() and assertEventually()
+- externalize event sources
+  - hidden timers are very difficult to work with because they make it hard to tell when the system is in a stable state for a test to make its assertions
+  - the only solution is to make the system deterministic by decoupling it from its own scheduling.
+    - we can pull event generation out into a shared service that is driven externally.
+      - i.e.: system's scheduler as a web service. System components scheduled activities by making HTTP requests to the scheduler, which triggered activities by making HTTP "postbacks."
+      - i.e.: the scheduler published notifications onto a message bus topic that the components listened to.
+  - usually, introducing such an event infrastructure turns out to be useful for monitoring and administration.
+  - the trade-off is that our tests are no longer exercising the entire system. We could probably also write a few slow tests, running in a separate build, that exercise the whole system together including the real scheduler.
+
 
 ## Object mother pattern
 - contains a number of factory methods that create objects for use in tests.
