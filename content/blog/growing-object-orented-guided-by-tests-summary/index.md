@@ -196,7 +196,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 - We can provide a description (the intention of the collaboration) of the expected calls for a test in a context by declaring the expectation of a mock object. 
 - The advantage of this approach is that we have a flexible application structure from relatively little code. It's particularly suitable where the code has to support many related scenarios.
 - Just assigning and linking objects doesn't help us understand the system's assembling behaviour. Instead, the information we care about is typically buried in a morass of keywords, setters, punctuation, and the like.
-  - To battle with this, we can organize the code in 2 layers
+  - To battle with this, we can organize the code into two layers
     - **implementation layer**: graph of objects, its behaviour is the combined result of how its objects respond to events.
     - The declarative layer
       - is, in effect, a small domain-specific language embedded 
@@ -253,15 +253,15 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 
 "The big idea is `messaging' ... the key in the making great, and growable systems is much more to design how its modules communicate rather than what their internal properties and behaviours should be"
 
-"Iteration Zero in most agile projects, there's a first stage where the team setting up its physical and technical environments. A common practice is to call this step iteration (the team still needs to time-box its activities) zero (before functional development starts in iteration one). One important task for iteration zero is to use the walking skeleton to test-drive the initial architecture."
+"Iteration Zero in most agile projects, there's a first stage where the team sets up its physical and technical environments. A common practice is to call this step iteration (the team still needs to time-box its activities) zero (before functional development starts in iteration one). One important task for iteration zero is to use the walking skeleton to test-drive the initial architecture."
 
 "As the legends say, if we have something's true name, we can control it."
 
-"the string is a stark data structure and everywhere it is passed there is much duplication of process. It is a perfect vehicle for hiding information."
+"the string is a stark data structure, and everywhere it is passed, there is much duplication of process. It is a perfect vehicle for hiding information."
 
-"When we take the trouble to express the domain clearly, we often find that we have more options"
+"When we take the trouble to express the domain clearly, we often find that we have more options."
 
-"try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)"
+"try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)."
 
 # References
 - http://www.growing-object-oriented-software.com/code.html
