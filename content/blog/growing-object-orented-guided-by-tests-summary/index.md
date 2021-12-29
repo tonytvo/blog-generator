@@ -1,7 +1,7 @@
 ---
-title: Growing object oriented guided by tests summary
+title: Growing object-oriented guided by tests summary
 date: "2021-12-20T22:12:03.284Z"
-description: "summary for growing objected oriented guided by tests"
+description: "summary for growing objected-oriented guided by tests."
 tags: ["selftestingcode", "evolutionarydesign"]
 ---
 
@@ -49,7 +49,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - Only mock types that you own:
   - don't use mocks for third-party code since it is usually not changeable as you don't have control over it. 
   - Use an adapter layer to implement interactions with third-party code. We test these adapters with focused integration tests to confirm our understanding of how the third-party API works.
-  - We must focus on the integration between our design and the external code. In integration, we have an abstraction to implement.
+  - We must focus on integrating our design and the external code. In integration, we have an abstraction to implement.
   - we must check that we're using the third-party API correctly and adjust our abstract to fit if we find that our assumptions are incorrect
   - There are some exceptions where mocking third-party libraries can be helpful:
     - we might use mocks to simulate behaviour that is hard to trigger with the library
@@ -70,23 +70,23 @@ if similar interfaces represent different concepts, we can make a point of makin
   - getting information from values and collections
   - using a factory to create new objects
   - searching or filtering
-- **we can specify how we expect the target object to communicate with its mock for a triggering event -> expectations**
+- **We can specify how we expect the target object to communicate with its mock for a triggering event -> expectations**
 - we can use the test to help us tease out the supporting roles our object needs, defined as Java interfaces, and fill in actual implementations as we develop the rest of the system -> interface discovery
 - the essential structure of a test:
   - creating any required mock objects
-  - create any real objects
+  - create any natural objects
   - specify how you expect the mock objects to be called by the target object
   - call the triggering method on the target object
   - assert that any resulting values are valid and that all the expected calls have been made.
 
 # kick-staring the test-driven cycle
 - To run an initial end-to-end test that fails is already a lot of work. However, deploying and testing right from the start of a project forces the team to understand how their system fits into the world. it flushes out the "unknown."
-- Keep a drawing of the system's structure on the whiteboard where it's visible for the whole team and keep it in mind while coding! Then, make the smallest number of decisions you can to kick-start the TDD cycle. Then, we'll learn and improve from honest feedback.
+- Keep a drawing of the system's structure on the whiteboard where it's visible for the whole team, and keep it in mind while coding! Then, make the smallest number of decisions you can to kick-start the TDD cycle. Then, we'll learn and improve from honest feedback.
 - test as a walking skeleton
   - a walking skeleton implements the thinnest possible slice of actual functionality that we can automatically build, deploy, and test end-to-end.
-  - Including the deployment step in the testing process is critical for 2 reasons
+  - Including the deployment step in the testing process is critical for two reasons
     - avoid the error-prone manual activity of deploying the system.
-    - Flush out the risks in operating the software (like 6 weeks and four signatures to set up a database, we want to know now, not 2 weeks before delivery.).
+    - Flush out the risks in operating the software (like six weeks and four signatures to set up a database, we want to know now, not two weeks before delivery.).
   - context of the first test
     - understand the problem -> broad-brush design (architecture) -> automate: build, deployment, end-to-end tests -> deployable system.
 - we have no guarantees that the decisions we've made about the design of our application are right
@@ -106,7 +106,7 @@ if similar interfaces represent different concepts, we can make a point of makin
 - watch the test fail
   - when we get the right failure, we check that the diagnostics are helpful. 
   - We adjust the test code and rerun the tests until the error messages guide us to the problem with the code.
-    - **Error message checks our assumptions about the code we've working on**
+    - **Error message checks our assumptions about the code we've been working on**
     - **emphasis on expressing our intentions is fundamental for developing reliable, maintainable systems.**
 - Develop from the inputs to the outputs
   - start developing the feature by considering the events that trigger the new behaviour in the system.
@@ -123,7 +123,7 @@ if similar interfaces represent different concepts, we can make a point of makin
 
 # Design for Maintainability
 - we grow our systems a slice of functionality at a time
-- we use 2 principle heuristics to guide this structuring:
+- we use two principle heuristics to guide this structuring:
   - separation of concerns
   - higher levels of abstraction
     - That's why most people order food from a menu in terms of dishes, rather than the detail of the recipes used to create them.
@@ -149,9 +149,9 @@ information hiding conceals how an object implements its functionality behind th
 - As we grow the code, the composite more straightforward rules raise abstraction.
 - "One domain vocabulary" rule: don't use a term from another domain's vocabulary unless you're a bridging layer.
 - Hiding the correct information. Encapsulation is almost always a good thing to do, but sometimes information can be hidden in the wrong place.
-- Having an interface named thing and an implementation named ThingImpl is probably a sign of bad design. The interface should be described in general domain language and the implementation should have something specific about it to use in the name.
+- Having an interface named thing and an implementation called ThingImpl is probably a sign of bad design. The interface should be described in general domain language, and the implementation should have something specific about it to use in the name.
 - domain types are better than strings
-  - when we take the trouble to express the domain clearly, we often find that we have more options.
+  - when we take the trouble to express the domain clearly, we often find more options.
 
 # Listen to tests, test smells and patterns
 
@@ -161,7 +161,7 @@ information hiding conceals how an object implements its functionality behind th
 # techniques for introducing new objects
 - define specific types to represent value concepts in the domain help:
   - to find all the code relevant for a change without having to chase through the method calls
-  - to reduce the risk of confusion, using a more object-oriented instead of scattering related behaviour across the code.
+  - to reduce the risk of confusion, use a more object-oriented instead of scattering related behaviour across the code.
 - **"Breaking out"**: 
   - when an object becomes complex, that's a sign that it's implementing multiple concerns and that we can break out coherent units of behaviour into helper types
   - Occasionally is better to treat this code as a spike: once we know what to do, just roll it back and re-implement it cleanly.
@@ -201,7 +201,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
     - The declarative layer
       - is, in effect, a small domain-specific language embedded 
       - the declarative layer that describes what the code will do. In contrast, the implementation layer defines how the code does it.
-    - The different purposes of the 2 layers mean that we use a different coding style for each. For the implementation layer, we stick to the conventional object-oriented style guidelines. For the declarative layer, we're more flexible
+    - The different purposes of the two layers mean that we use a different coding style for each. For the implementation layer, we stick to the conventional object-oriented style guidelines. For the declarative layer, we're more flexible
     - **most of the time. Such a declarative layer merges from continual merciless refactoring. Taking care to notice when an area of code is not clear, we add or move structure until it is**.
 - delegate to subordinate objects
   - started writing the test we wanted to see and then filling in the supporting objects: 
@@ -217,7 +217,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 - Dependency rejection, an excellent term (coined by Mark Seemann, above), in which we avoid having any dependencies in our core business logic. We do this by keeping all I/O and other impure code all the "edges" of our domain.
 - Dependency parameterization, in which we pass in all dependencies as parameters. This is commonly used in conjunction with partial application.
 - Dependency injection and the reader monad, in which we pass in dependencies after the rest of the code has already been constructed. This is typically done via constructor injection in OO-style code, and in FP-style principle, this corresponds to the Reader monad.
-- Dependency interpretation: We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and in FP (e.g. free monads)
+- Dependency interpretation: We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and FP (e.g. free monads)
 - Need to elaborate more on these patterns
   - https://fsharpforfunandprofit.com/posts/dependencies/
   - https://blog.thecodewhisperer.com/series#dependency-inversion-principle-dip
