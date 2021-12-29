@@ -263,20 +263,20 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 "try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)"
 
 # References
-http://www.growing-object-oriented-software.com/code.html
-https://fsharpforfunandprofit.com/posts/dependencies/
-https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
-https://github.com/stefoxp/growing-object-oriented-software
-http://hanalee.info/blog/growing-object-oriented-software-guided-by-tests.html
-https://www.karam.io/blog/2021/book-summary-growing-object-oriented-software-guided-by-tests/
-https://nir-orman.medium.com/growing-object-oriented-software-guided-by-tests-chapter-6-a76e91e83f81
-https://github.com/vobarian/growing-object-oriented-software
-https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/
-https://mateuscosta.me/2019-02-21-growing-object-oriented
-https://conn.dev/books/growing-object-oriented-software.html
-https://www.infoq.com/presentations/Stop-Refactoring/
-http://jmock.org/oopsla2004.pdf
-http://jmock.org/oopsla2006.pdf
-https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
-https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
-https://martinfowler.com/articles/domain-oriented-observability.html
+- http://www.growing-object-oriented-software.com/code.html
+- https://fsharpforfunandprofit.com/posts/dependencies/
+- https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+- https://github.com/stefoxp/growing-object-oriented-software
+- http://hanalee.info/blog/growing-object-oriented-software-guided-by-tests.html
+- https://www.karam.io/blog/2021/book-summary-growing-object-oriented-software-guided-by-tests/
+- https://nir-orman.medium.com/growing-object-oriented-software-guided-by-tests-chapter-6-a76e91e83f81
+- https://github.com/vobarian/growing-object-oriented-software
+- https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/
+- https://mateuscosta.me/2019-02-21-growing-object-oriented
+- https://conn.dev/books/growing-object-oriented-software.html
+- https://www.infoq.com/presentations/Stop-Refactoring/
+- http://jmock.org/oopsla2004.pdf
+- http://jmock.org/oopsla2006.pdf
+- https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
+- https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
+- https://martinfowler.com/articles/domain-oriented-observability.html

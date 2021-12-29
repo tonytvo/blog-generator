@@ -595,5 +595,7 @@ const loginClient = LoginClient.createNull(
 - Add methods to your infrastructure code that simulate receiving an event from an external system. Share as much code as possible with the code that handles actual external events while remaining convenient for tests to use.
 
 # References
-
-http://www.growing-object-oriented-software.com/code.html
+- https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
+- https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
+- https://martinfowler.com/articles/domain-oriented-observability.html
+- http://www.growing-object-oriented-software.com/code.html
