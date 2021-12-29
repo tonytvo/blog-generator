@@ -77,7 +77,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - we can't tell what's significant and what's just there to get through the test
   - we can make our intentions clearer by distinguishing between stubs simulations of real behaviour that help us get the test to pass and expectations, assertions we want to make about how an object interacts with its neighbours.
   - allow queries and expect commands
-    - are calls that are likely to have side effects, to change the world outside the target object. queries don't change the world, so they can be called any number of times, including none
+    - commands are calls that are likely to have side effects, to change the world outside the target object. queries don't change the world, so they can be called any number of times, including none
     - the rule helps to decouple the test from the tested object. If the implementation changes, for example, to introduce caching or use a different algorithm, the test is still valid.
   - many expectations indicate that we're trying to test too large a unit, or we're locking down too many of the object's interactions.
 - constructing complex test data
