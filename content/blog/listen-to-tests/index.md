@@ -92,13 +92,13 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - tests overspecify the expected behaviour of the target code, constraining it more than necessary.
   - thee is duplication when multiple tests exercise the same production code behaviour
 - beware of flickering tests
-  - a test can fail intermittently if its timeout is too close to the time the tested behaviour typically takes to run or if it doesn't synchronize correctly with the system.
-  - flickering tests can mask actual defects. We need to make sure that we understand what the real problem is before we ignore flickering tests
-  - allow flickering tests is terrible for the team. It breaks the quality culture where things should "just work," Even a few flickering tests can make the team stop paying attention to broken builds.
+  - a test can fail intermittently if its timeout is too close to the time the tested behaviour normally takes to run, or if it doesn't synchronize correctly with the system.
+  - flickering tests can mask real defects. We need to make sure that we understand what the real problem is before we ignore flickering tests
+  - allow flickering tests is bad for the team. It breaks teh culture of quality where things should "just work," and even a few flickering tests can make a team stop paying attention to broken builds.
   - it also breaks the habits of feedback.
-  - we should be paying attention to why the tests are flickering and whether that means improving the design of both the tests and code.
+  - we should be paying attention to why the tests are flickering and whether that means we should improve the design of both the tests and code.
 - runaway tests
-  - be careful when an asynchronous test asserts that the system returns to a previous state.
+  - be careful when an asynchronous test asserts that system returns to a previous state.
   - unless it also asserts that the system enters an intermediate state before asserting the initial state, the test will run ahead of the system.
 
 ```java
@@ -110,8 +110,8 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 
 - lost updates
   - a significant difference between tests that sample and those that listen for events is that polling can miss state changes that are later overwritten
-  - if the test can record notifications from the system, it can look through its records to find essential notifications.
-  - to be reliable, a sampling test must ensure that its system is stable before triggering any further interactions.
+  - if the test can record notifications from the system, it can look through its records to find significant notifications.
+  - to be reliable, a sampling test must make sure that its system is stable before triggering any further interactions.
   - ![tests that record notifications](./record-notification-tests.png)
   - ![phases of a sampling test](./phases-sampling-tests.png)
 
@@ -124,13 +124,13 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
   - If a single test seems to be making assertions about different features of a target object, it might be worth splitting up.
 - read documentation generated from tests (provide a fresh perspective on the test names, highlighting the problems we're too close to the code to see)
 - arrange/act/assert structure is not clear
-- write in order: test names/act/assert/arrange to help us focus on what to write and avoid being coupled to the low technical implementation details
-- emphasize the what over the how.
+- write in order: test names/act/assert/arrange tends to help us focus on what to write and avoid being coupled to the low technical implementation details
+- emphasize on the what over the how.
   - the more implementation detail is included in a test method, the harder it is for the reader to understand what's important.
 - use structure to explain and share
   - jMock syntaxes are designed to allow developers to compose small features into a (more or less) readable description of an assertion.
   - be careful in factoring out test structure, where the test becomes so abstract that we cannot see what it does anymore.
-  - our most significant concern is making the test describe what the target code does, so we refactor enough to see its flow.
+  - our highest concern is making the test describe what the target code does, so we refactor enough to be able to see its flow.
 - accentuate the positive. Only catch exceptions in a test if we want to assert something about them.
 - delegate to subordinate objects as mentioned in the programming by intention
 - assertions and expectations
@@ -145,8 +145,8 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - **we're nudging the test code towards the sort of language we could use when discussing the feature with someone else, even someone non-technical.**
 - **we push everything else into supporting code.**
 - describe the intention of a feature, not just a sequence of steps to drive it.
-- using these techniques, we can use higher-level tests to communicate directly with non-technical stakeholders, such as business analysts. We can use the tests to help us narrow down exactly what a feature should do and why.
-- other tools are designed to foster collaboration across the technical and non-technical members of a team, such as FIT, Cucumber.
+- using these techniques, we can use higher-level tests to communicate directly with non-technical stakeholders, such as business analysts. We can use the tests to help us narrow down exactly what a feature should do, and why.
+- there are other tools that are designed to foster collaboration across the technical and non-technical members of a team such as FIT, Cucumber.
 - avoid reasserting behaviour that is covered in other tests
 ## test diagnostics
 - design to fail informatively.: the point of a test is not to pass but to fail. If a failing test clearly explains what has failed and why we can quickly diagnose and correct the code.
@@ -155,8 +155,8 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - if the test is small, focused and has readable names, it should tell us most of what we need to know about what has gone wrong.
 - explanatory assertion messages
   - the failure message should describe the cause rather than the symptom.
-- highlight details with matches. The matcher API includes support for describing the mismatched value to help with understanding precisely what is different.
-- self-describing value: build the detail into values in the assertion. If we add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
+- highlight details with matches. The matcher API includes support for describing the value that is mismatched, to help with understanding exactly what is different.
+- self-describing value: build the detail into values in the assertion. If we have to add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
    
 ```
 expected: <a customer account id> but was <id not set>
@@ -167,12 +167,12 @@ expected: <startDate>, got <endDate>
   - conventions for common values can ensure that it stands out???
 - tracer object
   - dummy object that has no supported behaviour of its own, except to describe its role when something fails.
-  - Jmock can accept a name when creating a mock object that will be used in failure reporting. Where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
+  - Jmock can accept a name when creating a mock object that will be used in failure reporting. In fact, where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
 - explicitly assert that the expectation was satisfied.
-  - a test that has both expectations and assertions can produce a confusing failure. This would create a failure report that says an incorrect calculation result rather than the missing collaboration that caused it.
-  - it's essential to watch the test fails.
+  - a test that has both expectations and assertions can produce a confusing failure. This would produce a failure report that say an incorrect calculation result rather than the missing collaboration that actually caused it.
+  - it's important to watch the test fails.
   - it might be worth calling the assertIsSatisfied before any test assertions to get the right failure report.
-  - diagnostics are a first-class feature: try to follow four steps TDD cycle (fail, report (make the diagnostics clear), pass, refactor)
+  - diagnostics are a first-class feature: try to follow 4 steps TDD cycle (fail, report (make the diagnostics clear), pass, refactor)
 
 ![4 steps TDD cycle](./tdd-cycle-4.png)
 
@@ -181,30 +181,30 @@ expected: <startDate>, got <endDate>
 - For example, mock the collaborator to return null if there's no customer found.
   - first, we need to remember what's null means
   - better, we could represent null with Maybe
-- if, instead, we'd given the tests their representation of "no customer found" as a single well-named constant instead of the literal null.
+- if, instead, we'd given the tests their own representation of "no customer found" as a single well-named constant instead of the literal null.
 - tests should be written in terms of the information passed between objects, not of how that information is represented.
   - it will make the tests more self-explanatory and shield them from changes in implementation controlled elsewhere in the system.
 ## precise assertions
 - focus the assertions on just what's relevant to the scenario being tested
 - avoid asserting values that aren't driven by the test inputs, 
 - avoid reasserting the behaviour that is covered in other tests
-- testing for equality doesn't scale well as the returned value becomes more complex. At the same time, comparing the total result each time is misleading and introduces an implicit dependency on the behaviour.
+- testing for equality doesn't scale well as the value being returned becomes more complex. At the same time, comparing the entire result each time is misleading and introduces an implicit dependency on the behaviour.
 
 ## unit testing and threads
   - unit tests give us confidence that an object performs its synchronization responsibilities, such as locking its state or blocking and walking threads.
   - coarser-grained tests, such as system tests, give us confidence that the entire system manages concurrency correctly.
   - limitations of unit stress tests
-    - it is challenging to diagnose race conditions with a debugger, as stepping through code (or even adding print statements) will alter the thread scheduling that's causing the clash.
-      - there may be scheduling differences between different os and processor combinations. Further, there may be other processes on a host that affect scheduling while the tests are running.
-      - run unit tests to check that our objects correctly synchronize concurrent threads and pinpoint synchronization failures.
+    - it is very difficult to diagnose race conditions with a debugger, as stepping through code (or even adding print statements) will alter the thread scheduling that's causing the clash.
+      - there may be scheduling differences between different os and between different processor combinations. Further, there maybe other processes on a host that affect scheduling while the tests are running.
+      - run unit tests to check that our objects correctly synchronize concurrent threads and to pinpoint synchronization failures.
       - run end-to-end tests to check that unit-level synchronization policies integrate across the entire system.
       - in addition, we could run static analysis tools as part of our automated build process.
   ### separating functionality and concurrency policy
   - auction search is complicated because it needs to implement the search and notification functionality and the synchronization at the same time
   - we want to separate the logic that splits a request into multiple tasks from the technical details of how those tasks are executed concurrently. So we pass a "task runner" into the AuctionSearch, which can then delegate managing tasks to the runner instead of starting threads itself.
-  - concurrency is a system-wide concern that should be controlled outside the objects that need concurrent tasks.
+  - concurrency is a system-wide concern that should be controlled outside the objects that need to run concurrent tasks.
     - the application can now easily adapt the object to the application's threading policy without changing its implementation ("context independence" design principle)
-  - for testing, we need to run the tasks in the same thread as the test runner instead of creating new task threads.
+  - for testing we need to run the tasks in the same thread as the test runner instead of creating new task threads.
 
 ```java
     @Test
@@ -229,11 +229,11 @@ expected: <startDate>, got <endDate>
         executor.runUntilIdle();
     }
 ```
-  - design stress test regard to aspects of an object's observable behaviour that are independent of the number of threads calling into the object (observable invariants concerning concurrency)
-    - write a stress test for the invariant that exercises the object multiple times from multiple threads
+  - design stress test regard to aspects of an object's observable behavior that are independent of the number of threads calling into the object (observable invariants with respect to concurrency)
+    - write a stress test for the invariant that exercises teh object multiple times from multiple threads
     - watch the test fail, and tune the stress test until it reliably fails on every test run; and,
     - make test the test pass by adding synchronization
-    - for example, one invariant of our auctionSearch is that it notifies the consumer just once when the search has finished, no matter how many Auction houses it searches, that is, no matter how many threads it starts.
+    - for example, one invariant of our auctionSearch is that it notifies the consumer just once when the search has finished, not matter how many Auction House it searches, that is, no matter how many threads it starts.
 
 ```java
     // Change to v2, v3, v4 to test different versions...
@@ -266,8 +266,8 @@ expected: <startDate>, got <endDate>
 ```
 
   - stress testing passive objects
-    - most objects don't start threads themselves but have multiple threads "pass-through" them and alter their state. In such cases, an object must synchronize access to any state that might cause a race condition
-    - to stress-test the synchronization of a passive object, the test must start its threads to call the object. When all the threads have finished, the object's state should be the same as if those calls had happened in sequence.
+    - most objects don't start threads themselves but have multiple threads "pass through" them and alter their state. In such cases, an object must synchronize access to any state that might cause a race condition
+    - to stress-test the synchronization of a passive object, the test must start its own threads to call the object. When all the threads have finished, the state of the object should be the same as if those calls had happened in sequence.
   - synchronizing test thread with background threads
     - avoid sleep/delay
     - use jMock's Synchroniser for synchronizing between test and background threads, based on whether a state machine has entered or left a given state
@@ -277,8 +277,8 @@ synchroniser.waitUtil(searching.is("finished"))
 synchroniser.waitUtil(searching.isNot("inprogress"))
 ```
 
-## Testing asynchronous code
-- in an asynchronous test, the control returns to the test before the tested activity is complete.
+## testing asynchronous code
+- in asynchronous test, the control returns to the test before the tested activity is complete.
 - **An asynchronous test must wait for success and use timeouts to detect failure.**
   - this implies every tested activity must have an observable effect: a test must affect the system so that its observable state becomes different.
   - there are 2 ways a test can observe the system: by sampling its observable state or by listening for events that it sends out.
