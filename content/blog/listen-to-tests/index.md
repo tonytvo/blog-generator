@@ -92,13 +92,13 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - tests overspecify the expected behaviour of the target code, constraining it more than necessary.
   - thee is duplication when multiple tests exercise the same production code behaviour
 - beware of flickering tests
-  - a test can fail intermittently if its timeout is too close to the time the tested behaviour normally takes to run, or if it doesn't synchronize correctly with the system.
-  - flickering tests can mask real defects. We need to make sure that we understand what the real problem is before we ignore flickering tests
-  - allow flickering tests is bad for the team. It breaks teh culture of quality where things should "just work," and even a few flickering tests can make a team stop paying attention to broken builds.
+  - a test can fail intermittently if its timeout is too close to the time the tested behaviour typically takes to run or if it doesn't synchronize correctly with the system.
+  - flickering tests can mask actual defects. We need to make sure that we understand what the real problem is before we ignore flickering tests
+  - allow flickering tests is terrible for the team. It breaks the quality culture where things should "just work," Even a few flickering tests can make the team stop paying attention to broken builds.
   - it also breaks the habits of feedback.
-  - we should be paying attention to why the tests are flickering and whether that means we should improve the design of both the tests and code.
+  - we should be paying attention to why the tests are flickering and whether that means improving the design of both the tests and code.
 - runaway tests
-  - be careful when an asynchronous test asserts that system returns to a previous state.
+  - be careful when an asynchronous test asserts that the system returns to a previous state.
   - unless it also asserts that the system enters an intermediate state before asserting the initial state, the test will run ahead of the system.
 
 ```java
@@ -110,8 +110,8 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 
 - lost updates
   - a significant difference between tests that sample and those that listen for events is that polling can miss state changes that are later overwritten
-  - if the test can record notifications from the system, it can look through its records to find significant notifications.
-  - to be reliable, a sampling test must make sure that its system is stable before triggering any further interactions.
+  - if the test can record notifications from the system, it can look through its records to find essential notifications.
+  - to be reliable, a sampling test must ensure that its system is stable before triggering any further interactions.
   - ![tests that record notifications](./record-notification-tests.png)
   - ![phases of a sampling test](./phases-sampling-tests.png)
 
@@ -124,13 +124,13 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
   - If a single test seems to be making assertions about different features of a target object, it might be worth splitting up.
 - read documentation generated from tests (provide a fresh perspective on the test names, highlighting the problems we're too close to the code to see)
 - arrange/act/assert structure is not clear
-- write in order: test names/act/assert/arrange tends to help us focus on what to write and avoid being coupled to the low technical implementation details
-- emphasize on the what over the how.
+- write in order: test names/act/assert/arrange to help us focus on what to write and avoid being coupled to the low technical implementation details
+- emphasize the what over the how.
   - the more implementation detail is included in a test method, the harder it is for the reader to understand what's important.
 - use structure to explain and share
   - jMock syntaxes are designed to allow developers to compose small features into a (more or less) readable description of an assertion.
   - be careful in factoring out test structure, where the test becomes so abstract that we cannot see what it does anymore.
-  - our highest concern is making the test describe what the target code does, so we refactor enough to be able to see its flow.
+  - our most significant concern is making the test describe what the target code does, so we refactor enough to see its flow.
 - accentuate the positive. Only catch exceptions in a test if we want to assert something about them.
 - delegate to subordinate objects as mentioned in the programming by intention
 - assertions and expectations
@@ -145,8 +145,8 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - **we're nudging the test code towards the sort of language we could use when discussing the feature with someone else, even someone non-technical.**
 - **we push everything else into supporting code.**
 - describe the intention of a feature, not just a sequence of steps to drive it.
-- using these techniques, we can use higher-level tests to communicate directly with non-technical stakeholders, such as business analysts. We can use the tests to help us narrow down exactly what a feature should do, and why.
-- there are other tools that are designed to foster collaboration across the technical and non-technical members of a team such as FIT, Cucumber.
+- using these techniques, we can use higher-level tests to communicate directly with non-technical stakeholders, such as business analysts. We can use the tests to help us narrow down exactly what a feature should do and why.
+- other tools are designed to foster collaboration across the technical and non-technical members of a team, such as FIT, Cucumber.
 - avoid reasserting behaviour that is covered in other tests
 ## test diagnostics
 - design to fail informatively.: the point of a test is not to pass but to fail. If a failing test clearly explains what has failed and why we can quickly diagnose and correct the code.
@@ -155,8 +155,8 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - if the test is small, focused and has readable names, it should tell us most of what we need to know about what has gone wrong.
 - explanatory assertion messages
   - the failure message should describe the cause rather than the symptom.
-- highlight details with matches. The matcher API includes support for describing the value that is mismatched, to help with understanding exactly what is different.
-- self-describing value: build the detail into values in the assertion. If we have to add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
+- highlight details with matches. The matcher API includes support for describing the mismatched value to help with understanding precisely what is different.
+- self-describing value: build the detail into values in the assertion. If we add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
    
 ```
 expected: <a customer account id> but was <id not set>
@@ -167,9 +167,9 @@ expected: <startDate>, got <endDate>
   - conventions for common values can ensure that it stands out???
 - tracer object
   - dummy object that has no supported behaviour of its own, except to describe its role when something fails.
-  - Jmock can accept a name when creating a mock object that will be used in failure reporting. In fact, where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
+  - Jmock can accept a name when creating a mock object that will be used in failure reporting. Where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
 - explicitly assert that the expectation was satisfied.
-  - a test that has both expectations and assertions can produce a confusing failure. This would produce a failure report that say an incorrect calculation result rather than the missing collaboration that actually caused it.
+  - a test that has both expectations and assertions can produce a confusing failure. This would create a failure report that say an incorrect calculation result rather than the missing collaboration that actually caused it.
   - it's important to watch the test fails.
   - it might be worth calling the assertIsSatisfied before any test assertions to get the right failure report.
   - diagnostics are a first-class feature: try to follow 4 steps TDD cycle (fail, report (make the diagnostics clear), pass, refactor)
