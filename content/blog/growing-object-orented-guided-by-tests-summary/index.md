@@ -10,7 +10,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - **Software development as a learning process.**
   - **Expose uncertainly early by testing our assumption as early as possible**
 - **we use mock objects to identify the essential interactions between modules/objects. This leads to more effective abstractions, which reduces the cost of changing the cost safely over time.**
-- Stub queries; expect actions???
+- Stub queries; expect actions
 - **Write code that depends as little as possible on its context.**
 - **programming by intention**
 
@@ -52,16 +52,16 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - We must focus on integrating our design and the external code. In integration, we have an abstraction to implement.
   - we must check that we're using the third-party API correctly and adjust our abstract to fit if we find that our assumptions are incorrect
   - There are some exceptions where mocking third-party libraries can be helpful:
-    - we might use mocks to simulate behaviour that is hard to trigger with the library
-    - we might use mocks to test a sequence of calls.
+    - we might use mocks to simulate behaviour that is hard to trigger with the library such as testing a sequence of calls.
 
 ## Communication over classification
 - Use interfaces to name roles played by objects and describe the messages they'll accept. Keep interfaces as narrow as possible.
 - We can use interfaces to define the available messages between objects, but we also need to express their communication protocols.
 - we use TDD with mock objects as a technique to make these communication protocols visible, as a tool for discovering them during development and as a description when revisiting the code
 - TDD with mock objects also encourages information hiding
-if similar interfaces represent different concepts, we can make a point of making them distinct. - A decision to separate similar-looking interfaces is an excellent time to reconsider their naming
-- Another time to consider refactoring interfaces is when we start implementing them.
+- if similar interfaces represent different concepts, we can make a point of making them distinct. 
+  - A decision to separate similar-looking interfaces is an excellent time to reconsider their naming
+  - Another time to consider refactoring interfaces is when we start implementing them.
 
 
 # tell, don't ask - law of Demeter
@@ -71,7 +71,7 @@ if similar interfaces represent different concepts, we can make a point of makin
   - using a factory to create new objects
   - searching or filtering
 - **We can specify how we expect the target object to communicate with its mock for a triggering event -> expectations**
-- we can use the test to help us tease out the supporting roles our object needs, defined as Java interfaces, and fill in actual implementations as we develop the rest of the system -> interface discovery
+- **we can use the test to help us tease out the supporting roles our object needs, defined as Java interfaces, and fill in actual implementations as we develop the rest of the system -> interface discovery**
 - the essential structure of a test:
   - creating any required mock objects
   - create any natural objects
@@ -79,7 +79,7 @@ if similar interfaces represent different concepts, we can make a point of makin
   - call the triggering method on the target object
   - assert that any resulting values are valid and that all the expected calls have been made.
 
-# kick-staring the test-driven cycle
+# Kick-staring the test-driven cycle
 - To run an initial end-to-end test that fails is already a lot of work. However, deploying and testing right from the start of a project forces the team to understand how their system fits into the world. it flushes out the "unknown."
 - Keep a drawing of the system's structure on the whiteboard where it's visible for the whole team, and keep it in mind while coding! Then, make the smallest number of decisions you can to kick-start the TDD cycle. Then, we'll learn and improve from honest feedback.
 - test as a walking skeleton
@@ -111,14 +111,9 @@ if similar interfaces represent different concepts, we can make a point of makin
 - Develop from the inputs to the outputs
   - start developing the feature by considering the events that trigger the new behaviour in the system.
   - We will need to write one or more objects to handle these events. We discover that these objects need supporting services from the rest of the system. In this way, we work our way through the system.
-- unit test behaviour, not methods
+- **unit test behaviour, not methods**
   - one common mistake is thinking about testing methods. We do better when we focus on the object's features under test should provide. It helps to choose test names that describe how the object behaves in the tested scenario.
   - It helps to name the test by describing the required behaviour in a specific scenario.
-- Listen to the tests
-  - when we find a complex feature to test, we ask ourselves how and why it is difficult to test.
-  - The same structure that makes the code difficult to test now will make it difficult to change in the future.
-  - If we find it hard to write the next failing test, we look again at the production design and then refactor it before moving on.
-  = There're lots of other books/articles on this topic, so at the least, there's a section below dedicated to this topic.
 - The best we can get from the testing part of TDD is **the confidence that we can change the code without breaking it. Fear kills progress. The trick is to make sure that the confidence is justified.**
 
 # Design for Maintainability
@@ -129,9 +124,7 @@ if similar interfaces represent different concepts, we can make a point of makin
     - That's why most people order food from a menu in terms of dishes, rather than the detail of the recipes used to create them.
 - In its terminology, we write interfaces to describe its relationships with the outside world (Cockburn's ports). Then we write bridges between the application core and each technical domain (Cockburn's adapters). The bridges implement the interfaces defined by the application model and map between application-level and technical-level objects.
   - The code for the business domain is isolated from its dependencies on technical infrastructures, such as databases and user interfaces. We don't want technical concepts to leak into the application model, so we write interfaces to describe their relationships with the outside world in its terminology
-- we have some second-level heuristics to help us think about how to find the facets in the behaviour where the interfaces should be:
-encapsulation ensures that the behaviour of an object can only be effected through its API
-information hiding conceals how an object implements its functionality behind the abstraction of its API
+- encapsulation ensures that the behaviour of an object can only be effected through its API. Information hiding conceals how an object implements its functionality behind the abstraction of its API
 - we follow standard practices to maintain encapsulation when coding:
   - define immutable value types
   - avoid global variables and singletons
@@ -146,16 +139,16 @@ information hiding conceals how an object implements its functionality behind th
   - Adjustments: Peers that adjust the object's behaviour to the broader needs of the system.
 - Composite simpler than the sum of its parts,
   - the API of a composite object should not be more complicated than of any of its components
-- As we grow the code, the composite more straightforward rules raise abstraction.
+- As we grow the code, the composing more straightforward rules raise abstraction.
 - "One domain vocabulary" rule: don't use a term from another domain's vocabulary unless you're a bridging layer.
 - Hiding the correct information. Encapsulation is almost always a good thing to do, but sometimes information can be hidden in the wrong place.
-- Having an interface named thing and an implementation called ThingImpl is probably a sign of bad design. The interface should be described in general domain language, and the implementation should have something specific about it to use in the name.
+- Having an interface named Service and an implementation called ServiceImpl is probably a sign of bad design. The interface should be described in general domain language, and the implementation should have something specific about it to use in the name.
 - domain types are better than strings
   - when we take the trouble to express the domain clearly, we often find more options.
 
 # Listen to tests, test smells and patterns
 
-- it's another big topic that this book covered, so I have summarized it in different posts.
+- It's a another big topic covered by this book and other books/articles. It is separated in different posts
 - [Test Smells and Patterns Summary](/listen-to-tests)
 
 # techniques for introducing new objects
@@ -205,7 +198,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
     - **most of the time. Such a declarative layer merges from continual merciless refactoring. Taking care to notice when an area of code is not clear, we add or move structure until it is**.
 - delegate to subordinate objects
   - started writing the test we wanted to see and then filling in the supporting objects: 
-  - **start from a statement of the problem and see where it does**.
+  - **start from a statement of the problem and see where it goes**.
   - the alternative is to write code directly in the tests and then refactor out any clusters of behaviours
 
 # Context independence
@@ -235,7 +228,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 
 "The Golden Rule of TDD: Never write new functionality without a failing test."
 
-"Object-oriented design focuses more on the communication between objects than on the objects themselves."
+**"Object-oriented design focuses more on the communication between objects than on the objects themselves."**
 
 "Objects make their decisions based only on the information they hold internally or that which came with the triggering message."
 
