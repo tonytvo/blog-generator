@@ -188,17 +188,17 @@ expected: <startDate>, got <endDate>
 - focus the assertions on just what's relevant to the scenario being tested
 - avoid asserting values that aren't driven by the test inputs, 
 - avoid reasserting the behaviour that is covered in other tests
-- testing for equality doesn't scale well as the value being returned becomes more complex. At the same time, comparing the entire result each time is misleading and introduces an implicit dependency on the behaviour.
+- testing for equality doesn't scale well as the returned value becomes more complex. At the same time, comparing the total result each time is misleading and introduces an implicit dependency on the behaviour.
 
 ## unit testing and threads
   - unit tests give us confidence that an object performs its synchronization responsibilities, such as locking its state or blocking and walking threads.
   - coarser-grained tests, such as system tests, give us confidence that the entire system manages concurrency correctly.
   - limitations of unit stress tests
-    - it is very difficult to diagnose race conditions with a debugger, as stepping through code (or even adding print statements) will alter the thread scheduling that's causing the clash.
-      - there may be scheduling differences between different os and between different processor combinations. Further, there maybe other processes on a host that affect scheduling while the tests are running.
-      - run unit tests to check that our objects correctly synchronize concurrent threads and to pinpoint synchronization failures.
+    - it is challenging to diagnose race conditions with a debugger, as stepping through code (or even adding print statements) will alter the thread scheduling causing the clash.
+      - there may be scheduling differences between different os and processor combinations. Further, there may be other processes on a host that affect scheduling while the tests are running.
+      - run unit tests to check that our objects correctly synchronize concurrent threads and pinpoint synchronization failures.
       - run end-to-end tests to check that unit-level synchronization policies integrate across the entire system.
-      - in addition, we could run static analysis tools as part of our automated build process.
+      We could also run static analysis tools as part of our automated build process.
   ### separating functionality and concurrency policy
   - auction search is complicated because it needs to implement the search and notification functionality and the synchronization at the same time
   - we want to separate the logic that splits a request into multiple tasks from the technical details of how those tasks are executed concurrently. So we pass a "task runner" into the AuctionSearch, which can then delegate managing tasks to the runner instead of starting threads itself.
