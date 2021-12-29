@@ -204,7 +204,8 @@ Notifications and adjustments can be passed to the constructor as a convenience.
     - The different purposes of the 2 layers mean that we use a different coding style for each. For the implementation layer, we stick to the conventional object-oriented style guidelines. For the declarative layer, we're more flexible
     - **most of the time. Such a declarative layer merges from continual merciless refactoring. Taking care to notice when an area of code is not clear, we add or move structure until it is**.
 - delegate to subordinate objects
-  - started writing the test we wanted to see and then filling in the supporting objects: **start from a statement of the problem and see where it does**.
+  - started writing the test we wanted to see and then filling in the supporting objects: 
+  - **start from a statement of the problem and see where it does**.
   - the alternative is to write code directly in the tests and then refactor out any clusters of behaviours
 
 # Context independence
@@ -252,7 +253,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 
 "The big idea is `messaging' ... the key in the making great, and growable systems is much more to design how its modules communicate rather than what their internal properties and behaviours should be"
 
-"Iteration Zero in most agile projects, there's a first stage where the team setting u pits physical and technical environments. A common practice is to call this step iteration (the team still needs to time-box its activities) zero (before functional development starts in iteration one). One important task for iteration zero is to use the walking skeleton to test-drive the initial architecture."
+"Iteration Zero in most agile projects, there's a first stage where the team setting up its physical and technical environments. A common practice is to call this step iteration (the team still needs to time-box its activities) zero (before functional development starts in iteration one). One important task for iteration zero is to use the walking skeleton to test-drive the initial architecture."
 
 "As the legends say, if we have something's true name, we can control it."
 
