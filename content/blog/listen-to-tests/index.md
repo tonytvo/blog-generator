@@ -22,8 +22,8 @@ tags: ["selftestingcode", "evolutionarydesign"]
     - we find that when we emphasize how objects communicate rather than what they are, we end up with types and roles defined more in terms of domain than the implementation.
     - we seem to get more domain vocabulary into the code
     - This might be because we have a more significant number of smaller abstractions, which gets us further away from the underlying language.
-  - pass behaviour rather than data
-    - we find that by applying "Tell, Don't Ask" consistently, we end up with a coding style where we tend to pass behaviour (in the form of callbacks) into the system instead of pulling values up through the call stack.
+  - **pass behaviour rather than data**
+    - **we find that by applying "Tell, Don't Ask" consistently, we end up with a coding style where we tend to pass behaviour (in the form of callbacks) into the system instead of pulling values up through the call stack.**
     - this keeps the tests and the code clean as we go. It helps to ensure that we understand our domain and reduces the risk of being unable to cope when a new requirement triggers changes to the design.
   - a unit test shouldn't be 1000 lines long! It should focus on at most a few classes and should not need to create a large fixture or perform lots of preparation to get the objects into a state where the target feature can be exercised.
 
@@ -35,15 +35,6 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - Obscure Tests
   - confuse the differences between test cases
   - single test case exercises multiple features
-  - test names describe features
-    - a common approach is to name a test after the method it's exercising
-    - at best, such names duplicate the information a developer could get just by looking at the target class
-    - we don't need to know that TargetObject has a "choose" method, **we need to know what the object does in different situations, what the method is for**
-    - a better alternative is to name tests in terms of the target object's features.
-      - TestDox convention: Each test name reads like a sentence, with the target class as the implicit subject.
-        - a List holds items in the other they were added: holdsItemsInTheOrderTheyWereAdded
-    - the point of the convention is to encourage the developer to think about what the target object does, not what it is.
-  - When writing the tests, some developers start with the test name first, and some begin to create a placeholder for the test names before writing any test codes. Both approaches work as long as the test is, in the end, consistent and expressive.
   - can't skim-read the tests to understand the intention
   - uses magic numbers but are not clear about what, if anything, is significant about those values
   - tests with lots of code for setting up and handling exceptions, which buries their essential logic.
@@ -53,7 +44,6 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - it's a value, not an object.
   - If you're tempted to mock a value because it's too complicated to set up an instance, consider writing a builder.
 - partial mocks
-- mock objects that can't be replaced
 - test diagnostics
 - mocking concrete classes
   - avoid override behaviour in testable subclass
@@ -68,7 +58,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - Look for arguments always used together in a class and those with the same lifetime. Give it a good name to explain the concept.
 - Confused object
   - too large because it has too many responsibilities.
-  - it would like has a bloated constructor
+  - it would likely has a bloated constructor
   - another associated smell is that its test suite will look confused. The tests for its various features will have no relationship with each other. We cannot make significant changes in one area without touching others.
 - too many dependencies
   - dependencies should be passed into the constructor, but notifications and adjustments can be set to defaults and reconfigured later.
@@ -90,11 +80,11 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - test brittleness
   - the tests are too tightly coupled to unrelated parts of the system or irrelevant behaviour of the object(s) they're testing
   - tests overspecify the expected behaviour of the target code, constraining it more than necessary.
-  - thee is duplication when multiple tests exercise the same production code behaviour
+  - there is duplication when multiple tests exercise the same production code behaviour
 - beware of flickering tests
   - a test can fail intermittently if its timeout is too close to the time the tested behaviour typically takes to run or if it doesn't synchronize correctly with the system.
   - flickering tests can mask actual defects. We need to make sure that we understand what the real problem is before we ignore flickering tests
-  - allow flickering tests is terrible for the team. It breaks the quality culture where things should "just work," Even a few flickering tests can make the team stop paying attention to broken builds.
+  - **allow flickering tests is terrible for the team. It breaks the quality culture where things should "just work," Even a few flickering tests can make the team stop paying attention to broken builds.**
   - it also breaks the habits of feedback.
   - we should be paying attention to why the tests are flickering and whether that means improving the design of both the tests and code.
 - runaway tests
@@ -122,6 +112,14 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - test names describe features (high-level languages and abstractions)
   - think of one coherent feature per test, which might be represented by up to a handful of assertions.
   - If a single test seems to be making assertions about different features of a target object, it might be worth splitting up.
+  - a common approach is to name a test after the method it's exercising
+    - at best, such names duplicate the information a developer could get just by looking at the target class
+    - we don't need to know that TargetObject has a "choose" method, **we need to know what the object does in different situations, what the method is for**
+  - a better alternative is to name tests in terms of the target object's features.
+    - TestDox convention: Each test name reads like a sentence, with the target class as the implicit subject.
+      - a List holds items in the other they were added: holdsItemsInTheOrderTheyWereAdded
+    - the point of the convention is to encourage the developer to think about what the target object does, not what it is.
+  - When writing the tests, some developers start with the test name first, and some begin to create a placeholder for the test names before writing any test codes. Both approaches work as long as the test is, in the end, consistent and expressive.
 - read documentation generated from tests (provide a fresh perspective on the test names, highlighting the problems we're too close to the code to see)
 - arrange/act/assert structure is not clear
 - write in order: test names/act/assert/arrange to help us focus on what to write and avoid being coupled to the low technical implementation details
@@ -138,24 +136,26 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - Avoid magic numbers with no clear cause-effect relationship.
   - literal values without explanation can be difficult to understand because the programmer has to interpret whether a particular value is significant or just an arbitrary placeholder to trace behaviour (e.g. should be doubled and passed on to a peer).
   - allocate literal values to variables and constants with names that describe their function.
+
+
 ## removing duplication
 - remove duplication at the point of use
-  - change tests' emphasis to what behaviour exexpected, rather than how the test is implemented.
+  - change tests' emphasis to what behaviour expected, rather than how the test is implemented.
   - extract some of the behaviour into builder objects and end up with a declarative description of what the feature does.
 - **we're nudging the test code towards the sort of language we could use when discussing the feature with someone else, even someone non-technical.**
 - **we push everything else into supporting code.**
-- describe the intention of a feature, not just a sequence of steps to drive it.
-- using these techniques, we can use higher-level tests to communicate directly with non-technical stakeholders, such as business analysts. We can use the tests to help us narrow down exactly what a feature should do and why.
+- **describe the intention of a feature, not just a sequence of steps to drive it.**
+- **using these techniques, we can use higher-level tests to communicate directly with non-technical stakeholders, such as business analysts. We can use the tests to help us narrow down exactly what a feature should do and why.**
 - other tools are designed to foster collaboration across the technical and non-technical members of a team, such as FIT, Cucumber.
 - avoid reasserting behaviour that is covered in other tests
 ## test diagnostics
-- design to fail informatively.: the point of a test is not to pass but to fail. If a failing test clearly explains what has failed and why we can quickly diagnose and correct the code.
+- design to fail informatively: the point of a test is not to pass but to fail. If a failing test clearly explains what has failed and why we can quickly diagnose and correct the code.
 - we want to avoid situations when we can't diagnose a test failure that has happened. The last thing we should have to do is crack open the debugger and step through the tested code to find the point of disagreement.
 - not too inhibited about dropping code and trying again. Sometimes, it's quicker to roll back and restart with a clear head than to keep digging
 - if the test is small, focused and has readable names, it should tell us most of what we need to know about what has gone wrong.
 - explanatory assertion messages
   - the failure message should describe the cause rather than the symptom.
-- highlight details with matches. In addition, the matcher API includes support for describing the mismatched value to help with understanding precisely what is different.
+- highlight details with matchers. In addition, the matcher API includes support for describing the mismatched value to help with understanding precisely what is different.
 - self-describing value: build the detail into values in the assertion. If we add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
    
 ```
@@ -164,7 +164,7 @@ use new Date(timeValue) {public String toString() {return name; })
 expected: <startDate>, got <endDate>
 ```
 - obvious canned value
-  - conventions for common values can ensure that it stands out???
+  - conventions for common values can ensure that it stands out
 - tracer object
   - dummy object that has no supported behaviour of its own, except to describe its role when something fails.
   - Jmock can accept a name when creating a mock object that will be used in failure reporting. However, where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
@@ -282,11 +282,11 @@ synchroniser.waitUtil(searching.isNot("inprogress"))
 - **An asynchronous test must wait for success and use timeouts to detect failure.**
   - this implies every tested activity must have an observable effect: a test must affect the system so that its observable state becomes different.
   - there are two ways a test can observe the system: by sampling its observable state or listening for events that it sends out.
-  - for example, auction sniper end-to-end tests sample the user interface for display changes through the window licker framework but listen for chat events in the fake auction server.
+    - for example, auction sniper end-to-end tests sample the user interface for display changes through the window licker framework but listen for chat events in the fake auction server.
 - make asynchronous tests detect success as quickly as possible to provide rapid feedback.
 - put the timeout values in one place
   - there's a balance to be struck between a timeout that's too short, which will make the tests unreliable, and one that's too long, which will make failing tests too slow
-  - when the timeout duration is defined in 1 place, it's easy to find and change.
+  - when the timeout duration is defined in one place, it's easy to find and change.
 - scattering Adhoc sleeps and timeouts throughout the tests makes them challenging to understand because it leaves too much implementation detail in the tests themselves.
 - capturing notifications
   - an event-based assertion waits for an event by blocking a monitor until it gets notified or times out. When the monitor is notified, the test thread wakes up and finds that the scheduled event has arrived or is blocked again. If the test times out, then it raises a failure.
@@ -451,7 +451,7 @@ assertEventually(fileLength("data.txt", is(greaterThan(2000))))
 
 ## Object mother pattern
 - contains several factory methods that create objects for use in tests.
-- The mother makes the test more readable by packaging up the code that creates new object structures and gives it a name.
+- The mother object makes the test more readable by packaging up the code that creates new object structures and gives it a name.
 - does not cope well with variation in the test data - every minor difference requires a new factory method.
 
 ## Test data builders
@@ -509,24 +509,24 @@ infrastructure <- application/UI -> logic
 - Prefer pure functions where possible. Pure functions' return values are determined only by their input parameters.
 - Where pure functions aren't possible, choose immutable objects. The state of immutable objects is determined when the object is constructed and never changes afterwards.
 - Avoid writing code that explicitly depends on (or changes) the state of dependencies more than one level deep. Instead, design dependencies, so they encapsulate entirely their next-level-down dependencies
-- avoid getter/setter for objects, move any behaviour that uses getter/setter into the objects
+- **avoid getter/setter for objects, move any behaviour that uses getter/setter into the objects**
 
 ## Testable Libraries
 - 3rd party code doesn't always have easily visible behaviour. It also introduces breaking API changes with new releases or simply stops being maintained.
 - Wrap third-party code in the code that you control.
-- Write the wrapper's API to match the needs of your application, not the third-party code, and add methods as needed to provide easily visible behaviour. This typically involves writing query methods to expose deeply-buries state in terms of the domain that your application needs.
+- Write the wrapper's API to match the needs of your application, not the third-party code, and add methods as needed to provide easily visible behaviour. **This typically involves writing query methods to expose deeply-buries state in terms of the domain that your application needs.**
 - When the third-party code introduces a breaking change, or needs to be replaced, modify the wrapper, so no other code is affected.
 - Frameworks and libraries with sprawling API(s) are more difficult to wrap, so prefer libraries that have a narrowly-defined purpose and a simple API
-If the third-party code interfaces with an external system, use an Infrastructure Wrapper.
+If the third-party code interfaces with an external system, use an [Infrastructure Wrapper](#infrastructure-wrappers).
 
-## infrastructure wrappers
+## Infrastructure wrappers
 - for each external system - service, database, file system, or even environment variables, create one wrapper class responsible for interfacing with that system.
 - Design your wrappers to provide a crisp, clean view of the messy outside world.
 - Design your infrastructure classes to stand alone in whatever format is most beneficial to the Logic and Application layers.
 
 ## focused integration tests
 - test your external communication against a production-like environment. For file system code, check that it reads and writes actual files. For databases and services, access an entire database or service. 
-- Run your focused integration tests against test systems that are reserved exclusively for one machine's use. It's best to run locally on your development machine and start and stopped y your test or build script. If you share test systems with other developers, you'll experience unpredictable test failures when multiple people run the test simultaneously.
+- Run your focused integration tests against test systems that are reserved exclusively for one machine's use. It's best to run locally on your development machine and start and stopped your test or build script. If you share test systems with other developers, you'll experience unpredictable test failures when multiple people run the test simultaneously.
 - Use a spy server when you can't integrate it into the external system.
 
 ## Fake it once you make it
@@ -537,7 +537,7 @@ If the third-party code interfaces with an external system, use an Infrastructur
 ## Paranoic telemetry
 - external systems are unreliable. The only sure thing is their eventual failure.
 - Test that every failure case either logs an error or sends an alert. Also, test for the requests that hang too.
-- Whenever possible, use testable libraries/adapters rather than external services
+- Whenever possible, use [testable libraries/adapters](#testable-libraries) rather than external services
 
 ## Zero impact instantiation
 - overlapping sociable tests could instantiate a web of dependencies that take too long or cause - side effects. The tests could be slow, difficult to set up or fail unpredictably
@@ -549,7 +549,7 @@ If the third-party code interfaces with an external system, use an Infrastructur
 ## Parameterless instantiation
 - **ensures that all logic classes can be constructed without providing any parameters (without using a DI framework).**
 - In practice, this means that most objects instantiate their dependencies in their constructor by default, although they may also accept them as optional parameters.
-- If parameterless constructor won't make any sense, provide a test-only factory method. The - factory method should provide overridable defaults for mandatory parameters.
+- If parameterless constructor won't make any sense, provide a test-only factory method. The factory method should provide overridable defaults for mandatory parameters.
 The factory method is easiest to maintain if it's located next to the actual constructors in the production code. It should be marked as test-specific and straightforward enough to not need tests of its own.
 
 ## Collaborator-Based Isolation
@@ -580,11 +580,11 @@ const loginClient = LoginClient.createNull(
 
 ## Send State
 - application and high-level infrastructure code use their infrastructure dependencies to send data to external systems. They need a way of checking that the data was sent.
-- For infrastructure methods that send data and provide a way to observe that data was sent, use [domain-oriented observability](https://martinfowler.com/articles/domain-oriented-observability.html#DomainProbesEnableCleanerMore-focusedTests). Prefer using observer patterns like Send Events.
-- If you need more than one send result or can't store the transmitted data, use "Send Events" To test code that uses infrastructure to get data, use Configurable Responses. To test code that responds to infrastructure events uses "Behavior Simulation.".
+- For infrastructure methods that send data and provide a way to observe that data was sent, use [domain-oriented observability](https://martinfowler.com/articles/domain-oriented-observability.html#DomainProbesEnableCleanerMore-focusedTests). Prefer using observer patterns like [Send Events](#send-events).
+- If you need more than one send result or can't store the transmitted data, use ["Send Events"](#send-events) To test code that uses infrastructure to get data, use Configurable Responses. To test code that responds to infrastructure events uses "Behavior Simulation.".
 
 ## Send Events
-- when you test code that uses infrastructure dependencies to send large blobs of data or sends data multiple times in a row. "Send State" will consume too much memory.
+- when you test code that uses infrastructure dependencies to send large blobs of data or sends data multiple times in a row. ["Send State"](#send-state) will consume too much memory.
 - Use an observer pattern to emit an event when your infrastructure code sends data. Include data as part of the event payload.
 - When tests need to assert the sent data, they can listen for the events.
 - Create a helper function that listens for sent events and stores their data in an array to make your tests easier to read.
@@ -593,6 +593,10 @@ const loginClient = LoginClient.createNull(
 - some external systems will push data to you rather than waiting for you to ask for it.
 - Therefore, your application and high-level infrastructure code need a way to test what happens when their infrastructure dependencies generate those events.
 - Add methods to your infrastructure code that simulate receiving an event from an external system. Share as much code as possible with the code that handles actual external events while remaining convenient for tests to use.
+
+# Quotes
+
+"make asynchronous tests detect success as quickly as possible so that they provide rapid feedback"
 
 # References
 - https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
