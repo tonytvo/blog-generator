@@ -12,10 +12,10 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - Not a silver bullet. Design mistakes are inevitable, requiring continuous attention to design and refactoring.
 - benefits from learning to listen to test smell
   - keep knowledge local. The "magic" need to create mocks could cause the knowledge to leak between components.
-    - if we can keep knowledge local to an object (either internal or passed in), then its implementation is independent of its context. We can safely move it where we like.
+    - if we can keep knowledge local to an object (either internal or passed in), then its implementation is independent of its context. So we can safely move it where we like.
     - Do this consistently, and your application, built out of pluggable components, will be easy to change.
   - If it's explicit, we can name it
-    - avoiding mocking concrete classes that can help us give names to the relationships between objects as well the objects themselves.
+    - Avoid mocking concrete classes that can help us give names to the relationships between objects and the objects themselves.
     - As the legends say, if we have something's true name, we can control it.
     - if we can see it, we have a better chance of finding its other uses and reducing duplication.
   - more names mean more domain information
@@ -63,7 +63,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - Instead, extract an interface as part of our test-driven development process. It will push us to think up a name to describe the relationship we've just discovered. This makes us think harder about the domain and teases out concepts we might otherwise miss.
   - If you can't get/access the structure you need, the tests tell you that it's time to break up the class into more minor, composable features.
 - bloated constructor
-  - some of the arguments define a concept that should be packaged up and replaced with a new object to represent it.
+  - Some arguments define a concept that should be packaged up and replaced with a new object to represent it.
   - Being sensitive to complexity in the tests can help us clarify our designs.
   - Look for arguments always used together in a class and those with the same lifetime. Give it a good name to explain the concept.
 - Confused object
@@ -78,8 +78,8 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - we can make our intentions clearer by distinguishing between stubs simulations of actual behaviour that help us get the test to pass and expectations, assertions we want to make about how an object interacts with its neighbours.
   - allow queries and expect commands
     - commands are calls that are likely to have side effects, to change the world outside the target object. queries don't change the world, so they can be called any number of times, including none
-    - the rule helps to decouple the test from the tested object. If the implementation changes, for example, to introduce caching or use a different algorithm, the test is still valid.
-  - many expectations indicate that we're trying to test too large a unit, or we're locking down too many of the object's interactions.
+    - the rule helps to decouple the test from the tested object. So if the implementation changes, for example, to introduce caching or use a different algorithm, the test is still valid.
+- Many expectations indicate that we're trying to test too large a unit or locking down too many of the object's interactions.
 - constructing complex test data
 - testing persistence
 - tests with threads
@@ -155,7 +155,7 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - if the test is small, focused and has readable names, it should tell us most of what we need to know about what has gone wrong.
 - explanatory assertion messages
   - the failure message should describe the cause rather than the symptom.
-- highlight details with matches. The matcher API includes support for describing the mismatched value to help with understanding precisely what is different.
+- highlight details with matches. In addition, the matcher API includes support for describing the mismatched value to help with understanding precisely what is different.
 - self-describing value: build the detail into values in the assertion. If we add detail to an assertion, maybe that's a hint that we could make the failure more obvious.
    
 ```
@@ -163,25 +163,25 @@ expected: <a customer account id> but was <id not set>
 use new Date(timeValue) {public String toString() {return name; })
 expected: <startDate>, got <endDate>
 ```
-- obviously canned value
+- obvious canned value
   - conventions for common values can ensure that it stands out???
 - tracer object
   - dummy object that has no supported behaviour of its own, except to describe its role when something fails.
-  - Jmock can accept a name when creating a mock object that will be used in failure reporting. Where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
+  - Jmock can accept a name when creating a mock object that will be used in failure reporting. However, where there's more than one mock object of the same type, jMock insists that they are named to avoid confusion.
 - explicitly assert that the expectation was satisfied.
-  - a test that has both expectations and assertions can produce a confusing failure. This would create a failure report that say an incorrect calculation result rather than the missing collaboration that actually caused it.
-  - it's important to watch the test fails.
+  - A test with both expectations and assertions can produce a confusing failure. For example, this would create a failure report that says an incorrect calculation result rather than the missing collaboration that caused it.
+  - it's essential to watch the test fails.
   - it might be worth calling the assertIsSatisfied before any test assertions to get the right failure report.
-  - diagnostics are a first-class feature: try to follow 4 steps TDD cycle (fail, report (make the diagnostics clear), pass, refactor)
+  - diagnostics are a first-class feature: try to follow four steps TDD cycle (fail, report (make the diagnostics clear), pass, refactor)
 
 ![4 steps TDD cycle](./tdd-cycle-4.png)
 
 ## test for information, not a representation
-- if the test is structured in terms of how the value is represented by other parts of the system, then it has a dependency on those parts and will break when they change.
+- if the test is structured in terms of how other parts of the system represent the value, then it has a dependency on those parts and will break when they change.
 - For example, mock the collaborator to return null if there's no customer found.
   - first, we need to remember what's null means
   - better, we could represent null with Maybe
-- if, instead, we'd given the tests their own representation of "no customer found" as a single well-named constant instead of the literal null.
+- if, instead, we'd given the tests their representation of "no customer found" as a single well-named constant instead of the literal null.
 - tests should be written in terms of the information passed between objects, not of how that information is represented.
   - it will make the tests more self-explanatory and shield them from changes in implementation controlled elsewhere in the system.
 ## precise assertions
@@ -202,9 +202,9 @@ expected: <startDate>, got <endDate>
   ### separating functionality and concurrency policy
   - auction search is complicated because it needs to implement the search and notification functionality and the synchronization at the same time
   - we want to separate the logic that splits a request into multiple tasks from the technical details of how those tasks are executed concurrently. So we pass a "task runner" into the AuctionSearch, which can then delegate managing tasks to the runner instead of starting threads itself.
-  - concurrency is a system-wide concern that should be controlled outside the objects that need to run concurrent tasks.
+  - concurrency is a system-wide concern that should be controlled outside the objects that need concurrent tasks.
     - the application can now easily adapt the object to the application's threading policy without changing its implementation ("context independence" design principle)
-  - for testing we need to run the tasks in the same thread as the test runner instead of creating new task threads.
+  - We need to run the tasks in the same thread as the test runner for testing instead of creating new task threads.
 
 ```java
     @Test
@@ -229,11 +229,11 @@ expected: <startDate>, got <endDate>
         executor.runUntilIdle();
     }
 ```
-  - design stress test regard to aspects of an object's observable behavior that are independent of the number of threads calling into the object (observable invariants with respect to concurrency)
-    - write a stress test for the invariant that exercises teh object multiple times from multiple threads
+  - design stress test regard to aspects of an object's observable behaviour that are independent of the number of threads calling into the object (observable invariants concerning concurrency)
+    - write a stress test for the invariant that exercises the object multiple times from multiple threads
     - watch the test fail, and tune the stress test until it reliably fails on every test run; and,
     - make test the test pass by adding synchronization
-    - for example, one invariant of our auctionSearch is that it notifies the consumer just once when the search has finished, not matter how many Auction House it searches, that is, no matter how many threads it starts.
+    - For example, one invariant of our auctionSearch is that it notifies the consumer just once the search has finished, no matter how many Auction houses it searches or how many threads it starts.
 
 ```java
     // Change to v2, v3, v4 to test different versions...
@@ -266,8 +266,8 @@ expected: <startDate>, got <endDate>
 ```
 
   - stress testing passive objects
-    - most objects don't start threads themselves but have multiple threads "pass through" them and alter their state. In such cases, an object must synchronize access to any state that might cause a race condition
-    - to stress-test the synchronization of a passive object, the test must start its own threads to call the object. When all the threads have finished, the state of the object should be the same as if those calls had happened in sequence.
+    - most objects don't start threads themselves but have multiple threads "pass-through" them and alter their state. In such cases, an object must synchronize access to any state that might cause a race condition
+    - to stress-test the synchronization of a passive object, the test must start its threads to call the object. When all the threads have finished, the object's state should be the same as if those calls had happened in sequence.
   - synchronizing test thread with background threads
     - avoid sleep/delay
     - use jMock's Synchroniser for synchronizing between test and background threads, based on whether a state machine has entered or left a given state
@@ -277,19 +277,19 @@ synchroniser.waitUtil(searching.is("finished"))
 synchroniser.waitUtil(searching.isNot("inprogress"))
 ```
 
-## testing asynchronous code
-- in asynchronous test, the control returns to the test before the tested activity is complete.
+## Testing asynchronous code
+- in an asynchronous test, the control returns to the test before the tested activity is complete.
 - **An asynchronous test must wait for success and use timeouts to detect failure.**
   - this implies every tested activity must have an observable effect: a test must affect the system so that its observable state becomes different.
-  - there are 2 ways a test can observe the system: by sampling its observable state or by listening for events that it sends out.
-  - for example, auction sniper end-to-end tests sample the user interface for display changes, through the windowlicker framework, but listen for chat events in teh fake auction server.
-- make asynchronous tests detect success as quickly as possible so that they provide rapid feedback.
+  - there are two ways a test can observe the system: by sampling its observable state or listening for events that it sends out.
+  - for example, auction sniper end-to-end tests sample the user interface for display changes through the window licker framework but listen for chat events in the fake auction server.
+- make asynchronous tests detect success as quickly as possible to provide rapid feedback.
 - put the timeout values in one place
-  - there's a balance to struck between a timeout that's too short, which will make the tests unreliable, and one that's too long, which will make failing tests too slow
+  - there's a balance to be struck between a timeout that's too short, which will make the tests unreliable, and one that's too long, which will make failing tests too slow
   - when the timeout duration is defined in 1 place, it's easy to find and change.
-- scattering adhoc sleeps and timeouts throughout the tests makes them difficult to understand, because it leaves too much implementation detail in the tests themselves.
+- scattering Adhoc sleeps and timeouts throughout the tests makes them challenging to understand because it leaves too much implementation detail in the tests themselves.
 - capturing notifications
-  - an event-based assertion waits for an event by blocking on a monitor until it gets notified or times out. When the monitor is notified, the test thread wakes up and continues if it finds that the expected event has arrived, or blocks again. if the test times out, then it raises a failure.
+  - an event-based assertion waits for an event by blocking a monitor until it gets notified or times out. When the monitor is notified, the test thread wakes up and finds that the scheduled event has arrived or is blocked again. If the test times out, then it raises a failure.
 
 [NotificationTrace](./NotificationTrace.java)
 ```java
@@ -374,8 +374,8 @@ public class NotificationTrace<T> {
 ```
 
 - polling for changes
-  - A sample-based assertion repeatedly samples some visible effect of the system through a "probe", waiting for the probe to detect that the system has entered an expected state.
-  - there are 2 aspects to process of sampling: polling the system and failure reporting, and probing the system for a given state. 
+  - A sample-based assertion repeatedly samples some visible effect of the system through a "probe," waiting for the probe to detect that the system has entered an expected state.
+  - there are two aspects to the process of sampling: polling the system and failure reporting and probing the system for a given state. 
     - [FileLengthProbe](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/polling/FileLengthProbe.java)
     - [Poller](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/polling/Poller.java)
     - [Probe](https://raw.githubusercontent.com/npryce/goos-code-examples/master/testing-asynchronous-systems/src/book/example/async/polling/Probe.java)
@@ -435,26 +435,26 @@ assertEventually(fileLength("data.txt", is(greaterThan(2000))))
 
 - testing that an action has no effect
   - if an asynchronous test waits for something not to happen, it cannot even be sure that the system has started before it checks the result.
-  - the test should trigger a behavior that is detectable and use that to detect that the system has stabilized
-  - the skill here is in picking a behavior that will not interfere with the test's assertions and that will complete after the tested behavior.
+  - the test should trigger behaviour that is detectable and use that to detect that the system has stabilized
+  - the skill here is in picking behaviour that will not interfere with the test's assertions and will complete after the tested behaviour.
 - distinguish synchronizations and assertions
   - adopt a naming scheme to distinguish between synchronizations and assertions. For example, waitUntil() and assertEventually()
 - externalize event sources
-  - hidden timers are very difficult to work with because they make it hard to tell when the system is in a stable state for a test to make its assertions
-  - the only solution is to make the system deterministic by decoupling it from its own scheduling.
-    - we can pull event generation out into a shared service that is driven externally.
-      - i.e.: system's scheduler as a web service. System components scheduled activities by making HTTP requests to the scheduler, which triggered activities by making HTTP "postbacks."
-      - i.e.: the scheduler published notifications onto a message bus topic that the components listened to.
+  - hidden timers are complicated to work with because they make it hard to tell when the system is in a stable state for a test to make its assertions
+  - the only solution is to make the system deterministic by decoupling it from its scheduling.
+    - we can pull event generation out into a shared service-driven externally.
+      - i.e., the system's scheduler as a web service. System components schedule activities by making HTTP requests to the scheduler, triggering actions by making HTTP "postbacks."
+      - i.e., the scheduler published notifications onto a message bus topic that the components listened to.
   - usually, introducing such an event infrastructure turns out to be useful for monitoring and administration.
-  - the trade-off is that our tests are no longer exercising the entire system. We could probably also write a few slow tests, running in a separate build, that exercise the whole system together including the real scheduler.
+  - the trade-off is that our tests no longer exercise the entire system. We could also write a few slow tests, running in a separate build, that combine the whole design, including the real scheduler.
 
 
 ## Object mother pattern
-- contains a number of factory methods that create objects for use in tests.
-- object mother makes the test more readable by packaging up the code that creates new object structures and giving it a name.
+- contains several factory methods that create objects for use in tests.
+- The mother makes the test more readable by packaging up the code that creates new object structures and gives it a name.
 - does not cope well with variation in the test data - every minor difference requires a new factory method.
 
-## test data builders
+## Test data builders
 - most often used for values
 - the builder has "chainable" public methods for overwriting the values in its fields and, by convention, a build() method that is called last to create a new instance of the target object from the field values.
 - tests that need particular values within an object can specify just those values that are relevant and use defaults for the rest.
