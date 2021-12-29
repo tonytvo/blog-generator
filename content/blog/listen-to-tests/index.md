@@ -1,31 +1,31 @@
 ---
 title: Listen to tests, test smells and patterns
 date: "2021-12-29T22:12:03.284Z"
-description: "listen to tests, test smells and patterns"
+description: "listen to tests, test smells and patterns."
 tags: ["selftestingcode", "evolutionarydesign"]
 ---
 
 # Goals/Context
-- no broad tests are required. The test suite consists of "narrow" tests focused on specific concepts. Although broad integration tests can be added as a safety net, their failure indicates a gap in the main test suite
+- no broad tests are required. The test suite consists of "narrow" tests focused on specific concepts. Although wide integration tests can be added as a safety net, their failure indicates a gap in the main test suite
 - easy refactoring
 - no magic. Tools that automatically remove busywork, such as dependency-injection and auto-mock frameworks, are not required.
 - Not a silver bullet. Design mistakes are inevitable, requiring continuous attention to design and refactoring.
 - benefits from learning to listen to test smell
   - keep knowledge local. The "magic" need to create mocks could cause the knowledge to leak between components.
     - if we can keep knowledge local to an object (either internal or passed in), then its implementation is independent of its context. We can safely move it where we like.
-    - Do this consistently and your application, built out of pluggable components, will be easy to change.
+    - Do this consistently, and your application, built out of pluggable components, will be easy to change.
   - If it's explicit, we can name it
     - avoiding mocking concrete classes that can help us give names to the relationships between objects as well the objects themselves.
     - As the legends say, if we have something's true name, we can control it.
-    - if we can see it, we have a better chance of finding its other uses and so reducing duplication.
+    - if we can see it, we have a better chance of finding its other uses and reducing duplication.
   - more names mean more domain information
-    - we find that when we emphasize how objects communicate, rather than what they are, we end up with types and roles defined more in terms of domain than the implementation.
+    - we find that when we emphasize how objects communicate rather than what they are, we end up with types and roles defined more in terms of domain than the implementation.
     - we seem to get more domain vocabulary into the code
-    - This might be because we have a greater number of smaller abstractions, which gets us further away from the underlying language.
+    - This might be because we have a more significant number of smaller abstractions, which gets us further away from the underlying language.
   - pass behaviour rather than data
     - we find that by applying "Tell, Don't Ask" consistently, we end up with a coding style where we tend to pass behaviour (in the form of callbacks) into the system instead of pulling values up through the call stack.
-    - this keeps the tests and the code clean as we go, it helps to ensure that we understand our domain and reduces the risk of being unable to cope when a new requirement triggers changes to the design.
-  - a unit test shouldn't be 1000 lines long! It should focus on at most a few classes and should not need to create a large fixture or perform lots of preparation just to get the objects into a state where the target feature can be exercised.
+    - this keeps the tests and the code clean as we go. It helps to ensure that we understand our domain and reduces the risk of being unable to cope when a new requirement triggers changes to the design.
+  - a unit test shouldn't be 1000 lines long! It should focus on at most a few classes and should not need to create a large fixture or perform lots of preparation to get the objects into a state where the target feature can be exercised.
 
 - from xUnit patterns
 
@@ -39,17 +39,17 @@ tags: ["selftestingcode", "evolutionarydesign"]
     - a common approach is to name a test after the method it's exercising
     - at best, such names duplicate the information a developer could get just by looking at the target class
     - we don't need to know that TargetObject has a "choose" method, **we need to know what the object does in different situations, what the method is for**
-    - a better alternative is to name tests in terms of the features that the target object provides.
-      - TestDox convention: where each test name reads like a sentence, with the target class as the implicit subject.
+    - a better alternative is to name tests in terms of the target object's features.
+      - TestDox convention: Each test name reads like a sentence, with the target class as the implicit subject.
         - a List holds items in the other they were added: holdsItemsInTheOrderTheyWereAdded
-    - the point of the convention is to encourage the developer to think in terms of what the target object does, not what it is.
-  - When writing the tests, some developers start with the test name first and some start to create a place holder for the test names first before writing any test codes. Both approaches work as long as the test is, in the end, consistent and expressive.
+    - the point of the convention is to encourage the developer to think about what the target object does, not what it is.
+  - When writing the tests, some developers start with the test name first, and some begin to create a placeholder for the test names before writing any test codes. Both approaches work as long as the test is, in the end, consistent and expressive.
   - can't skim-read the tests to understand the intention
   - uses magic numbers but are not clear about what, if anything, is significant about those values
   - tests with lots of code for setting up and handling exceptions, which buries their essential logic.
 - mocking values
-  - mock value object means that we want to explicitly describe the behaviour of the interface, and we can't think of a name for the concrete implementation of the interface/class
-  - when there really isn't a good implementation name. It might mean that the interface is poorly named or designed. Perhaps it's unfocused because it has too many responsibilities, or it's named after its implementation rather than its role in the client
+  - mock value object means that we want to describe the behaviour of the interface explicitly, and we can't think of a name for the concrete implementation of the interface/class
+  - when there isn't a good implementation name. It might mean that the interface is poorly named or designed. Perhaps it's unfocused because it has too many responsibilities, or it's named after its implementation rather than its role in the client
   - it's a value, not an object.
   - If you're tempted to mock a value because it's too complicated to set up an instance, consider writing a builder.
 - partial mocks
@@ -60,8 +60,8 @@ tags: ["selftestingcode", "evolutionarydesign"]
     - it leaves the relationship between objects implicit.
     - If we subclass, there's nothing in the domain code to make such a relationship visible - just methods on an object. This makes it hard to see if the service that supports this relationship might be relevant elsewhere, and we'll have to do the analysis again next time we work with the class.
   - When we mock a concrete class, we force client objects to depend on interfaces they do not use.
-  - Instead, extract an interface as part of our test-driven development process. It will push us to think up a name to describe the relationship we've just discovered. This makes us think harder about the domain and teases out concepts that we might otherwise miss.
-  - If you can't get/access the structure you need, then the tests tell you that it's time to break up the class into more minor, composable features.
+  - Instead, extract an interface as part of our test-driven development process. It will push us to think up a name to describe the relationship we've just discovered. This makes us think harder about the domain and teases out concepts we might otherwise miss.
+  - If you can't get/access the structure you need, the tests tell you that it's time to break up the class into more minor, composable features.
 - bloated constructor
   - some of the arguments define a concept that should be packaged up and replaced with a new object to represent it.
   - Being sensitive to complexity in the tests can help us clarify our designs.
@@ -69,13 +69,13 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - Confused object
   - too large because it has too many responsibilities.
   - it would like has a bloated constructor
-  - another associated smell is that its test suite will look confused. The tests for its various features will have no relationship with each other. We cannot make major changes in one area without touching others.
+  - another associated smell is that its test suite will look confused. The tests for its various features will have no relationship with each other. We cannot make significant changes in one area without touching others.
 - too many dependencies
   - dependencies should be passed into the constructor, but notifications and adjustments can be set to defaults and reconfigured later.
-  - Initialized the peers to common defaults, the user can configure them later through the user interface, and we can configure them in our unit tests.
+  - Initialized the peers to standard defaults, the user can configure them later through the user interface, and we can configure them in our unit tests.
 - too many expectations
   - we can't tell what's significant and what's just there to get through the test
-  - we can make our intentions clearer by distinguishing between stubs simulations of real behaviour that help us get the test to pass and expectations, assertions we want to make about how an object interacts with its neighbours.
+  - we can make our intentions clearer by distinguishing between stubs simulations of actual behaviour that help us get the test to pass and expectations, assertions we want to make about how an object interacts with its neighbours.
   - allow queries and expect commands
     - commands are calls that are likely to have side effects, to change the world outside the target object. queries don't change the world, so they can be called any number of times, including none
     - the rule helps to decouple the test from the tested object. If the implementation changes, for example, to introduce caching or use a different algorithm, the test is still valid.
