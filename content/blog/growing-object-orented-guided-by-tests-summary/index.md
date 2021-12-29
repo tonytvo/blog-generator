@@ -1,6 +1,6 @@
 ---
 title: Growing object-oriented guided by tests summary
-date: "2021-12-20T22:12:03.284Z"
+date: "2021-12-29T22:12:03.284Z"
 description: "summary for growing objected-oriented guided by tests."
 tags: ["selftestingcode", "evolutionarydesign"]
 ---

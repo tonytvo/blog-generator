@@ -1,6 +1,6 @@
 ---
 title: Listen to tests, test smells and patterns
-date: "2021-12-20T22:12:03.284Z"
+date: "2021-12-29T22:12:03.284Z"
 description: "listen to tests, test smells and patterns"
 tags: ["selftestingcode", "evolutionarydesign"]
 ---
