@@ -101,6 +101,23 @@ tags: ["productivity", "learning"]
     - to remember #9 is people, we could image cat people. That's weird, and funny so it's memorable.
   ## Remember names
 
+# life style supports learning
+## kill your negative self talk & ANTs
+- when you have ANT(s), automatic negative talk, your brain releases chemicals that make you feel bad. Moreover, your memory, learning and judgment are affected negatively.
+- identify what strain of ANT you have (mind-reading, blame, labeling, guilt, or fortune-telling) and then challenge it by talking back to it, which you can do with positive affirmations
+- with the ABRA technique, you acknowledge, breathe in, release, and align
+  - A - acknowledge ANT because what you resist persist.So acknowledging the ANT helps you to avoid having to continuously fight it.
+  - B - deep breathing helps you relax and focus
+  - R - releasing the thought helps you to release it out of your body before you spend time comtemplating it.
+  - A - align yourself back to the truth about who you are. Saying the opposite of the negative thought, which is simply a positive affirmation.
+- a more analytical technique from Dr. Daniel Ame requires you to ask some questions, it involves a few steps
+  - Ask yourself if the ANT is true
+  - Ask yourself if it's possible eto absolutely know that it's true
+  - Ask yourself how you react when you think that thought.
+  - Ask yourself who you would be if you didn't have that thought, how would you feel?
+  - What is the opposite of that ANT? What is a positive affirmation you can use?
+- contemplating your ANT(s) like this can help you see they are not truths but thoughts made up of fears, worries, or criticism. And, ending with the positive affirmation can help you move towards better thoughts and beliefs that help you have more happiness.
+
 # Continuous learning
 - [industrial logic continous learning](https://www.industriallogic.com/img/blog/2005/09/ContinuousLearning.pdf)
 
