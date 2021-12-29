@@ -167,16 +167,97 @@ expected: <startDate>, got <endDate>
 - testing for equality doesn't scale well as the value being returned becomes more complex. At the same time, comparing the entire result each time is misleading and introduces an implicit dependency on the behaviour.
 
 ## unit testing and threads
-- unit tests give us confidence that an object performs its synchronization responsibilities, such as locking its state or blocking and walking threads.
-- coarser-grained tests, such as system tests, give us confidence that the entire system manages concurrency correctly.
-### separating functionality and concurrency policy
-- auction search is complicated because it needs to implement the search and notification functionality and the synchronization at the same time
-- we want to separate the logic that splits a request into multiple tasks from the technical details of how those tasks are executed concurrently. So we pass a "task runner" into the AuctionSearch, which can then delegate managing tasks to the runner instead of starting threads itself.
-- for testing we need to run the tasks in the same thread as the test runner instead of creating new task threads.
+  - unit tests give us confidence that an object performs its synchronization responsibilities, such as locking its state or blocking and walking threads.
+  - coarser-grained tests, such as system tests, give us confidence that the entire system manages concurrency correctly.
+  - limitations of unit stress tests
+    - it is very difficult to diagnose race conditions with a debugger, as stepping through code (or even adding print statements) will alter the thread scheduling that's causing the clash.
+      - there may be scheduling differences between different os and between different processor combinations. Further, there maybe other processes on a host that affect scheduling while the tests are running.
+      - run unit tests to check that our objects correctly synchronize concurrent threads and to pinpoint synchronization failures.
+      - run end-to-end tests to check that unit-level synchronization policies integrate across the entire system.
+      - in addition, we could run static analysis tools as part of our automated build process.
+  ### separating functionality and concurrency policy
+  - auction search is complicated because it needs to implement the search and notification functionality and the synchronization at the same time
+  - we want to separate the logic that splits a request into multiple tasks from the technical details of how those tasks are executed concurrently. So we pass a "task runner" into the AuctionSearch, which can then delegate managing tasks to the runner instead of starting threads itself.
+  - concurrency is a system-wide concern that should be controlled outside the objects that need to run concurrent tasks.
+    - the application can now easily adapt the object to the application's threading policy without changing its implementation ("context independence" design principle)
+  - for testing we need to run the tasks in the same thread as the test runner instead of creating new task threads.
 
 ```java
+    @Test
+    public void searchesAuctionHouses() throws Exception {
+        Set<String> keywords = set("sheep", "cheese");
 
+        auctionHouseA.willReturnSearchResults(keywords, resultsFromA);
+        auctionHouseB.willReturnSearchResults(keywords, resultsFromB);
+
+        context.checking(new Expectations() {{
+            States searching = context.states("activity");
+
+            oneOf(consumer).auctionSearchFound(resultsFromA);
+            when(searching.isNot("finished"));
+            oneOf(consumer).auctionSearchFound(resultsFromB);
+            when(searching.isNot("finished"));
+            oneOf(consumer).auctionSearchFinished();
+            then(searching.is("finished"));
+        }});
+
+        search.search(keywords);
+        executor.runUntilIdle();
+    }
 ```
+  - design stress test regard to aspects of an object's observable behavior that are independent of the number of threads calling into the object (observable invariants with respect to concurrency)
+    - write a stress test for the invariant that exercises teh object multiple times from multiple threads
+    - watch the test fail, and tune the stress test until it reliably fails on every test run; and,
+    - make test the test pass by adding synchronization
+    - for example, one invariant of our auctionSearch is that it notifies the consumer just once when the search has finished, not matter how many Auction House it searches, that is, no matter how many threads it starts.
+
+```java
+    // Change to v2, v3, v4 to test different versions...
+    AuctionSearch_v4 search = new AuctionSearch_v4(executor, auctionHouses(), consumer);
+
+    @Test(timeout = 500)
+    public void
+    onlyOneAuctionSearchFinishedNotificationPerSearch() throws InterruptedException {
+        context.checking(new Expectations() {{
+            ignoring(consumer).auctionSearchFound(with(anyResults()));
+        }});
+
+        for (int i = 0; i < NUMBER_OF_SEARCHES; i++) {
+            completeASearch();
+        }
+    }
+
+    private void completeASearch() throws InterruptedException {
+        searching.startsAs("in progress");
+
+        context.checking(new Expectations() {{
+            exactly(1).of(consumer).auctionSearchFinished();
+            then(searching.is("done"));
+        }});
+
+        search.search(KEYWORDS);
+
+        synchroniser.waitUntil(searching.is("done"));
+    }
+```
+
+  - stress testing passive objects
+    - most objects don't start threads themselves but have multiple threads "pass through" them and alter their state. In such cases, an object must synchronize access to any state that might cause a race condition
+    - to stress-test the synchronization of a passive object, the test must start its own threads to call the object. When all the threads have finished, the state of the object should be the same as if those calls had happened in sequence.
+  - synchronizing test thread with background threads
+    - avoid sleep/delay
+    - use jMock's Synchroniser for synchronizing between test and background threads, based on whether a state machine has entered or left a given state
+
+```java
+synchroniser.waitUtil(searching.is("finished"))
+synchroniser.waitUtil(searching.isNot("inprogress"))
+```
+
+## testing asynchronous code
+- in asynchronous test, the control returns to the test before the tested activity is complete.
+- **An asynchronous test must wait for success and use timeouts to detect failure.**
+  - this implies every tested activity must have an observable effect: a test must affect the system so that its observable state becomes different.
+- 
 
 ## Object mother pattern
 - contains a number of factory methods that create objects for use in tests.
