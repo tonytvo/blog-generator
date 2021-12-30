@@ -70,6 +70,26 @@ tags: ["productivity", "learning"]
       - the ultimate test of your knowledge is your capacity to convey it to another.
       - attempt to transmit the material to at least 1 person who isn't that familiar with it.
 
+# MOM model
+- ![mindset-motivation-method](./3m-models.jpg)
+  - Mindset/Observation (the WHAT): 
+    - deeply held beliefs, attitudes, and assumptions we create about who we rea, how the world works, what we're capable of and deserve, and what is possible.
+    - none of these are preinstalled at birth, which means you pick them up from your environment and those around you.
+    - any limitations are self-imposed and that your true potential is within your control
+    - be truly present in any situation
+  - Motivation (the WHY): 
+    - the purpose one has for taking action. The energy required for someone to behave in a particular way
+    - motivation = Purpose x Energy x Small Simple Steps
+      - how connected do I feel to my purpose
+      - how are my day-to-day energy levels
+      - what am I allowing to drain my energy that I no longer should?
+  - Methods (the HOW): 
+    - a specific process for accomplishing something, especially an orderly, logical or systematic way of instruction
+      - frequently challenge your methods by asking yourself the following questions
+        - have I thought about methods I'm using?
+        - have I learned this method from someone successful at what I'm trying to achieve
+        - if I changed my method, would my results look different.
+
 # System for remembering what you learn
   - Mark up the book while reading it. Questions, thoughts. And, more important connections to other ideas.
   - at the end of each chapter, without looking back, write some notes on the main points/arguments/take-away. Then look back through the chapter and write down anything you missed.
@@ -101,6 +121,8 @@ tags: ["productivity", "learning"]
 | 19. golf   | the 19th hole is the bar        |
 | 20. fox   | 20th century fox        |
 
+  ## Association
+  - ![brain food association](./brain-food-association.jpg)
 
   ## Chain Linking
   ## Peg memory method
@@ -126,6 +148,31 @@ tags: ["productivity", "learning"]
   - Ask yourself who you would be if you didn't have that thought, how would you feel?
   - What is the opposite of that ANT? What is a positive affirmation you can use?
 - contemplating your ANT(s) like this can help you see they are not truths but thoughts made up of fears, worries, or criticism. And, ending with the positive affirmation can help you move towards better thoughts and beliefs that help you have more happiness.
+
+## ten steps to improving your memory
+- diets
+  - eat good brain food like blueberries, avocado, broccoli, coconut oil, eggs, green leafy vegetables, salmon and sardines, turmeric, walnut, dark chocolate.
+  - ![10 food for brains](./10-food-for-brain.jpg)
+  - high-quality foods that contain lots of vitamins, minerals, and antioxidants nourishes the brain and protects it from oxidative stress, the waste produced when the body use oxygen, which can damage cells.
+- emotions: 
+  - [avoid negative thoughts and complaining](#kill-your-negative-self-talk--ants)
+- exercise regularly
+  - when your body moves, your brain grooves
+  - exercise changes the brain in ways that protect memory and thinking skills.
+- get your brain nutrient
+  - take a blood test and verify your deficiencies. Then take the appropriate supplements
+- keep a positive peer group
+  - who you spend time with is who you become.
+- maintain a clean environment
+  - meaning clean air, water and space around you
+- get good sleep
+  - dreaming is essential for fantastic ideas.
+  - sleep is vital for protecting you against age-related brain damage, and it is crucial for day-to-day functioning.
+- protect your brain
+  - avoid putting your phone under your pillow and protect yourself from head injuries by wearing a helmet when cycling
+- learn new things
+  - neuroplasticity (connections in your brain) can be instigated through learning new things
+- reduce your stress through yoga, meditation, or massages.
 
 # Continuous learning
 - [industrial logic continous learning](https://www.industriallogic.com/img/blog/2005/09/ContinuousLearning.pdf)
