@@ -14,10 +14,11 @@ tags: ["productivity", "learning"]
 
 # Why?
   - reading/learning can be a "priceless opportunity to furnish your mind and enrich the quality of your life"
-  - I read/learn for better understanding of others and myself
-  - I read/learn to make fewer mistakes.
-  - I read/learn to increase knowledge
-  - I read/learn to find meaning
+  - read/learn for better understanding of others and myself
+  - read/learn to make fewer mistakes.
+  - read/learn to increase knowledge
+  - read/learn to find meaning
+  - read/learn improves vocabulary, focus, memory and imagination
   - Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
 
 # Overview
@@ -61,37 +62,68 @@ tags: ["productivity", "learning"]
         - have I thought about methods I'm using?
         - have I learned this method from someone successful at what I'm trying to achieve
         - if I changed my method, would my results look different.
-    ### FAST method for learning anything
+  
 
+  ### habits for studies
+  - ![habits for studies](./studies-habits.jpg)
   - **F - Forget**.
     - You need to forget what you know about the subject, forget situational things that are not urgent, and temporarily forget your limitations.
     - start with a beginner's mind
-
-    ### habits for studies
-    - **employ ACTIVE recall**
-      - optimal learning occurred when an initial learning session included repeated study and forced-recall testing of all items at least 4 times in a row
-      - learning is not a spectator sport. Practice, take notes or ask questions
-      - your superbrain works not by consuming information, but by creating and co-creating it.
-      - 4 quadrants of active learning
-        - visualization: a picture worth thousands word, same is true for learning
-        - association: associate it with something you already know.
-        - emotion: emotion + association = long-term memory
-          - adding emotion to association registers your new information in long-term memory. Regardless of emotion you use, emotion makes retention much more robust and durable.
-        - location: associate things to a place you're familiar most
-    - **T - Teach.**
-      - when you teach something to someone, you get to learn it twice.
-      - learn with the intention of teaching somebody specific.
-      - Feynman technique
-        - pretend to teach a concept you want to learn about to a student in the sixth grade
-        - identify gaps in your explanation. Go back to the source material to better understand it.
-        - organize and simplify
-        - transmit (optional)
-          - the ultimate test of your knowledge is your capacity to convey it to another.
-          - attempt to transmit the material to at least 1 person who isn't that familiar with it.
-    - **S - State**. All learning is state dependant
-      - be fully present and don't focus on other things that are not urgent
-      - changing your physiology, changes your psychology.
-      - as your body moves, your brain grooves
+  - **employ ACTIVE recall**
+    - optimal learning occurred when an initial learning session included repeated study and forced-recall testing of all items at least 4 times in a row
+    - learning is not a spectator sport. Practice, take notes or ask questions
+    - your superbrain works not by consuming information, but by creating and co-creating it.
+    - 4 quadrants of active learning
+      - visualization: a picture worth thousands word, same is true for learning
+      - association: associate it with something you already know.
+      - emotion: emotion + association = long-term memory
+        - adding emotion to association registers your new information in long-term memory. Regardless of emotion you use, emotion makes retention much more robust and durable.
+      - location: associate things to a place you're familiar most
+  - **T - Teach.**
+    - when you teach something to someone, you get to learn it twice.
+    - learn with the intention of teaching somebody specific.
+    - Feynman technique
+      - pretend to teach a concept you want to learn about to a student in the sixth grade
+      - identify gaps in your explanation. Go back to the source material to better understand it.
+      - organize and simplify
+      - transmit (optional)
+        - the ultimate test of your knowledge is your capacity to convey it to another.
+        - attempt to transmit the material to at least 1 person who isn't that familiar with it.
+  - **S - State**. All learning is state dependant
+    - be fully present and don't focus on other things that are not urgent
+    - changing your physiology, changes your psychology.
+    - as your body moves, your brain grooves
+    - if you're feeling great, the greater results you will produce
+    - stand up if you can't sit up tight.
+    - facilitates breathing and improves circulation of oxygen to your brain and the rest of your body
+  - **employ space repetition**
+    - by spacing the intervals out, you're exercising neural connections each time.
+    - spaced repetition produces long-term and robust retention of knowledge. 
+    - Spaced repetition works best when you review material at similar intervals
+  - **use your sense of smell**
+    - smells bring memories to the forefront of our brains
+    - the scent of rosemary has been shown to improve memory
+    - peppermint and lemon promote concentration
+  - [note taking](#note-taking)
+  - music for the mind
+    - music stabilizes mental, and emotional rhythms to attain a state of deep concentration and focus in which large amounts of content information can be processed and learned"
+    - baroque music stands out in particular, although one's reaction to music is deeply personal
+  - listen with your whole brain
+    - remember acronym HEAR - halt, empathy, anticipate, review
+      - be attentive, be interested, be alert and not distracted, create a positive atmosphere through non-verbal behavior
+      - be a sounding board - allow the speaker to bounce ideas and feelings off you while assuming a non-judgmental, non-critical manner
+      - don't interrogate, don't ask a lot of questions, they can give the impression you're grilling the speaker
+      - act like a mirror, reflect back what you think the speaker is saying and feeling
+      - don't discount the speaker's feelings by using stock phrases like "it's not that bad," or "you will feel better tomorrow"
+      - don't let the speaker hook you. This can happen if you get angry or upset, allow yourself to get involved in an argument, or pass judgment on the other person
+      - indicate you're listening by
+        - providing brief, noncommittal acknowledging responses, e.g., "Uh-huh,", "I see".
+        - giving nonverbal acknowledgements, e.g., head nodding, facial expressions matching the speaker, open and relaxed body expression, eye contact.
+        - invitations to say more, e.g., "tell me about it," "I' d like to hear more about that"
+        - do reflect back to the speaker what you understand and how you think the speaker feels.
+      - don't change subject or move in a new direction
+      - don't rehearse in your own head
+      - don't teach or give advice
 
 
 # System for remembering what you learn
@@ -293,6 +325,10 @@ tags: ["productivity", "learning"]
 - Is it important to you to know them? and if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking.
 
 # Note taking
+- listen with intent. Write a notes in a way you can understand later
+- use your own words whenever possible
+-  handwriting triumphs typing because writing by hand requires you to exert more effort and process information immediately
+-  use **capture and create**. Fold the paper into two columns. On left side, write down what you're capturing. On the right, write your impression of potential applications, i.e., the areas you can apply this.
   ## audio journal
   - need to do more research in this
   ## Blank sheet
