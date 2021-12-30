@@ -41,34 +41,6 @@ tags: ["productivity", "learning"]
 
 # Sample Learning Hour
 ## incremental working, driven by tests
-# FAST method for learning anything
-
-- **F - Forget**.
-  - You need to forget what you know about the subject, forget situational things that are not urgent, and temporarily forget your limitations.
-  - start with a beginner's mind
-- **A - Active**.
-  - learning is not a spectator sport. Practice, take notes or ask questions
-  - your superbrain works not by consuming information, but by creating and co-creating it.
-  - 4 quadrants of active learning
-    - visualization: a picture worth thousands word, same is true for learning
-    - association: associate it with something you already know.
-    - emotion: emotion + association = long-term memory
-      - adding emotion to association registers your new information in long-term memory. Regardless of emotion you use, emotion makes retention much more robust and durable.
-    - location: associate things to a place you're familiar most
-- **S - State**. All learning is state dependant
-  - be fully present and don't focus on other things that are not urgent
-  - changing your physiology, changes your psychology.
-  - as your body moves, your brain grooves
-- **T - Teach.**
-  - when you teach something to someone, you get to learn it twice.
-  - learn with the intention of teaching somebody specific.
-  - Feynman technique
-    - pretend to teach a concept you want to learn about to a student in the sixth grade
-    - identify gaps in your explanation. Go back to the source material to better understand it.
-    - organize and simplify
-    - transmit (optional)
-      - the ultimate test of your knowledge is your capacity to convey it to another.
-      - attempt to transmit the material to at least 1 person who isn't that familiar with it.
 
 # MOM model
 - ![mindset-motivation-method](./3m-models.jpg)
@@ -83,12 +55,44 @@ tags: ["productivity", "learning"]
       - how connected do I feel to my purpose
       - how are my day-to-day energy levels
       - what am I allowing to drain my energy that I no longer should?
-  - Methods (the HOW): 
+  ## Methods (the HOW): 
     - a specific process for accomplishing something, especially an orderly, logical or systematic way of instruction
       - frequently challenge your methods by asking yourself the following questions
         - have I thought about methods I'm using?
         - have I learned this method from someone successful at what I'm trying to achieve
         - if I changed my method, would my results look different.
+    ### FAST method for learning anything
+
+  - **F - Forget**.
+    - You need to forget what you know about the subject, forget situational things that are not urgent, and temporarily forget your limitations.
+    - start with a beginner's mind
+
+    ### habits for studies
+    - **employ ACTIVE recall**
+      - optimal learning occurred when an initial learning session included repeated study and forced-recall testing of all items at least 4 times in a row
+      - learning is not a spectator sport. Practice, take notes or ask questions
+      - your superbrain works not by consuming information, but by creating and co-creating it.
+      - 4 quadrants of active learning
+        - visualization: a picture worth thousands word, same is true for learning
+        - association: associate it with something you already know.
+        - emotion: emotion + association = long-term memory
+          - adding emotion to association registers your new information in long-term memory. Regardless of emotion you use, emotion makes retention much more robust and durable.
+        - location: associate things to a place you're familiar most
+    - **T - Teach.**
+      - when you teach something to someone, you get to learn it twice.
+      - learn with the intention of teaching somebody specific.
+      - Feynman technique
+        - pretend to teach a concept you want to learn about to a student in the sixth grade
+        - identify gaps in your explanation. Go back to the source material to better understand it.
+        - organize and simplify
+        - transmit (optional)
+          - the ultimate test of your knowledge is your capacity to convey it to another.
+          - attempt to transmit the material to at least 1 person who isn't that familiar with it.
+    - **S - State**. All learning is state dependant
+      - be fully present and don't focus on other things that are not urgent
+      - changing your physiology, changes your psychology.
+      - as your body moves, your brain grooves
+
 
 # System for remembering what you learn
   - Mark up the book while reading it. Questions, thoughts. And, more important connections to other ideas.
@@ -125,12 +129,22 @@ tags: ["productivity", "learning"]
   - ![brain food association](./brain-food-association.jpg)
 
   ## Chain Linking
+  - `balloons` tied to the red vivid `fire hydrant`. The balloons seemingly come from the `barrel`. Inside the barrel, there is a `board` that closely resembles the shape of a `diamond`. The diamond drops on `Sir lancelot` head. He is then rushed to emergency in a `mask`. The `mask` as it turns out is dirty that it needs to be cleaned with `toothpaste`. The leftover toothpaste is thrown away and now stuck at the `sign` outside the `bar`
   ## Peg memory method
   - With the sun list, we now have 20 pegs.
   - associate the item with the Sun List.
   - to create a strong memorable association, we need to use a vivid imagination. We should create an image in our head that is illogical, funny, or cool to make it memorable
     - to remember #9 is people, we could image cat people. That's weird, and funny so it's memorable.
   ## Remember names
+
+  **BE SUAVE**
+  - believe: once you believe you can do it, you're already halfway there
+  - exercise: keep practicing until you become very good at it
+  - say: say the person's name back right after you heard it, that way you'd have heard the name twice
+  - use: use the person's name throughout the conversation
+  - ask: ask where the person's name come from, especially if it's less-common
+  - visualize: attach an image to person's name
+  - end: part ways by saying the person's name
 
 # life style supports learning
 ## kill your negative self talk & ANTs
