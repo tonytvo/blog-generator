@@ -8,6 +8,8 @@ tags: ["designpatterns", "oop"]
 - rediscovering simplicity: you should not reach for abstractions, but instead you should resist them until they absolutely insist upon being created
 - 
 
+# rediscovering simplicity
+
 # Quotes
 
 "Writing code is the process of working your way to the next stable end point, not the end point itself"
