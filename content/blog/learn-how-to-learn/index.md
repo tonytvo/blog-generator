@@ -10,6 +10,7 @@ tags: ["productivity", "learning"]
 - summary continuous learning from joshua kerievsky
 - a pattern language for study groups from joshua kerievsky
 - summary how to read from mortimer
+- summary of theory and practice of teaching and learning from samman method
 
 # Why?
   - reading can be a "priceless opportunity to furnish your mind and enrich the quality of your life"
@@ -32,6 +33,14 @@ tags: ["productivity", "learning"]
   - distinguish between people who've done the work and those who haven't. The ones who have will pass the [Batesian Mimicry Test](https://fs.blog/batesian-mimicry/)
 
 
+# The theory and practice of teaching and learning
+## Learning outcomes and objectives
+## the '4C' learning model
+## Design learning experiences that fit with how the brain works
+## Deliberate practice
+
+# Sample Learning Hour
+## incremental working, driven by tests
 # FAST method for learning anything
 
 - **F - Forget**.
