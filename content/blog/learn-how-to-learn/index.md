@@ -13,11 +13,11 @@ tags: ["productivity", "learning"]
 - summary of theory and practice of teaching and learning from samman method
 
 # Why?
-  - reading can be a "priceless opportunity to furnish your mind and enrich the quality of your life"
-  - I read for better understanding of others and myself
-  - I read to make fewer mistakes.
-  - I read to increase knowledge
-  - I read to find meaning
+  - reading/learning can be a "priceless opportunity to furnish your mind and enrich the quality of your life"
+  - I read/learn for better understanding of others and myself
+  - I read/learn to make fewer mistakes.
+  - I read/learn to increase knowledge
+  - I read/learn to find meaning
   - Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
 
 # Overview
