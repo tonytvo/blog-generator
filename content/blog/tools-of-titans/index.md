@@ -17,12 +17,17 @@ tags: ["productivity", "communication", "health", "investment"]
 - look for the black sheep who fit your unique idiosyncrasies. Keep an eye out for the non-traditional paths.
 - borrow liberally, combine uniquely, and create your bespoke blueprint.
 - this book is a buffet. Here's how to get the most out of it
-  - skip liberally: skip anything that doesn't interest you.
-    - like 50%, love 25%, and never forget 10%
+  - **skip liberally: skip anything that doesn't interest you.**
+    - **like 50%, love 25%, and never forget 10%**
   - skip, but do so intelligently
     - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" beliefs are not our own
     - this type of practice is how you create yourself instead of discovering yourself.
 - the context and original language teach you how to THINK like a world-class performer, not just regurgitate quotes. That is the crucial meta-skill we're aiming for.
+- **3 tools that allow all the rest**
+  - I can think: having good rules for decision-making and having good questions you can ask yourself and others
+  - I can wait: being able to plan the long-term, play the long game, and not misallocate your resources
+  - I can fast: being able to withstand difficulties and disaster. Training yourself to be uncommonly resilient and have a high pain tolerance.
+
 # HEALTHY
 ## Exercise
 - Ferriss emphasizes the importance of exercising to improve your fitness, never hurting yourself, and don't go overboard. Working out somewhere with a soft surface is recommended.
@@ -39,11 +44,19 @@ tags: ["productivity", "communication", "health", "investment"]
   - Turkish kettlebell get-up
   - kettlebell goblet squat
 
-## Breathing
-- combining exercises with breathing
-  - Do as many pushups as possible in one set. Stop short of failure. Note down how many you did and rest for 30 minutes.
-  - Repeat the following 40 times: maximum inhale followed by a 'let go' exhale - dropping your chest sharply
-  - on the final round, inhale, exhale, then do another set of pushups. See if you can do more pushups after this.
+### Breathing
+  - combining exercises with breathing
+    - Do as many pushups as possible in one set. Stop short of failure. Note down how many you did and rest for 30 minutes.
+    - Repeat the following 40 times: maximum inhale followed by a 'let go' exhale - dropping your chest sharply
+    - on the final round, inhale, exhale, then do another set of pushups. See if you can do more pushups after this.
+
+### Mobility
+  - requires that you demonstrate strength throughout the entire range of motion, including the end ranges.
+  - Kelly Starrett: try squatting to the ground while keeping your feet and knees together. This indicates your mobility in the motion range in your hip and ankle.
+  - Recommend doing light, narrow-stance overhead squats in combination with cossack squats as a way of improving your mobility in these areas.
+  - Keep the heels flat on the ground, your knees directly above your toes, and your hips as close to the ground as possible when you switch.
+  - Cow stretch (aka cat-cow or cat camel in yoga). Spend as much time as you can in a low lunge and work on shoulder rotation using the Burgener warm-up.
+
 
 ## Recovery
 - hyperthermic conditioning, aka calculated heat exposure.
@@ -55,28 +68,21 @@ tags: ["productivity", "communication", "health", "investment"]
 - Use manuka honey bandages for treating wounds. Manuka honey is very expensive, produced only in Australia and New Zealand, evaluated by medicine to improve the immune system and prevent colds.
 - Oolong tea, the goto kola leaf liquid extract, which is believed to have the power to improve stretch marks and cellulite on the body, and the Hitachi magic wand vibrator, used to soothe muscles.
 
-## low-carb
-- the low-carb and ketogenic diet for optimum health
-  - the keto diet is essentially a low-carb, high-fat diet designed to imitate the state of fasting.
-  - Rather than using blood sugar (glucose) as your energy source, the body becomes dependent on ketones derived from fat. Few benefits are fat loss, better body composition, potential anti-cancer effects, improvement of oxygen consumption, and increased overall strength and health.
-  - Repeat the same low-carb meals regularly. For example, have the same thing for breakfast every day, do the same for lunch, and if you require some variation, you can mix up your dinners.
-  - Never drink calories.
-  - Avoid fruit, too many sugars in fruit.
-  - Measure your body fat percentage. If you can see this dropping, then you're on the right track.
-  - Take one day off per week and eat whatever you want.
-- Fasting can help re-setting your body and immune system, stimulating stem-cell regeneration. It is recommended to try a 5-day fast 2-3 times per year.
-
 ## food diets
 - eating 'pop tarts' cookies for breakfast before competitions
 - people should only eat carbohydrates or sugars if they have a good body mass index. A person should have less than 10% body fat
 - mix coffee with butter or specific supplements like hydrolyzed gelatin mixed with beetroot powder
+### low-carb
+  - the low-carb and ketogenic diet for optimum health
+    - the keto diet is essentially a low-carb, high-fat diet designed to imitate the state of fasting.
+    - Rather than using blood sugar (glucose) as your energy source, the body becomes dependent on ketones derived from fat. Few benefits are fat loss, better body composition, potential anti-cancer effects, improvement of oxygen consumption, and increased overall strength and health.
+    - Repeat the same low-carb meals regularly. For example, have the same thing for breakfast every day, do the same for lunch, and if you require some variation, you can mix up your dinners.
+    - Never drink calories.
+    - Avoid fruit, too many sugars in fruit.
+    - Measure your body fat percentage. If you can see this dropping, then you're on the right track.
+    - Take one day off per week and eat whatever you want.
+  - Fasting can help re-setting your body and immune system, stimulating stem-cell regeneration. It is recommended to try a 5-day fast 2-3 times per year.
 
-## Mobility
-- requires that you demonstrate strength throughout the entire range of motion, including the end ranges.
-- Kelly Starrett: try squatting to the ground while keeping your feet and knees together. This indicates your mobility in the motion range in your hip and ankle.
-- Recommend doing light, narrow-stance overhead squats in combination with cossack squats as a way of improving your mobility in these areas.
-- Keep the heels flat on the ground, your knees directly above your toes, and your hips as close to the ground as possible when you switch.
-- Cow stretch (aka cat-cow or cat camel in yoga). Spend as much time as you can in a low lunge and work on shoulder rotation using the Burgener warm-up.
 
 ## Intermittent fasting
 - eats one meal a day in a four-hour window, followed by twenty hours of fasting
@@ -118,11 +124,15 @@ tags: ["productivity", "communication", "health", "investment"]
 ## don't be a dog
 - what if mindset, anything you do, anything you change, consider the possible results of that in one day, one week, one month, or one year. Always be thinking ahead and have a plan for success.
 
-## investors
+## Investing
 - obsession with not losing money. Before entering any business opportunity or investment, ask yourself what the downside is and how you can be protected against it.
 - Obsessed with asymmetrical risk and reward. This essentially means that they are focused on minimum risk with maximum results.
 - Asset allocation and margin of safety to diversify your portfolio in case you make wrong decisions.
 - Passionate about giving and being generous. It weren't tight or overly frugal.
+### Gut investing
+  - start by exploring an idea emotionally, then do traditional due diligence using objective data.
+  - When researching ideas emotionally, take the novel features and think about how they will impact users' emotions and play out over the long run.
+
 
 ## startups and making money
 - if you have set well-thought-out and intelligent rules, then FOLLOW THE RULES NO MATTER WHAT. You set the rules with intentions, don't break them when something tempting comes up.
@@ -154,10 +164,6 @@ before releasing a product or service, it's essential to expose them to proper s
   - **the monopoly question**: are you starting with a big share of a small market?
   - **the secret question**: have you identified a unique opportunity that others don't see?
   - **the distribution question**: do you have a way to not just create but deliver your product?
-
-## Gut investing
-- start by exploring an idea emotionally, then do traditional due diligence using objective data.
-- When researching ideas emotionally, take the novel features and think about how they will impact users' emotions and play out over the long run.
 
 ## resilience
 - preparing for the worst conditions enables individuals to stand up when faced with failures and falls
@@ -248,11 +254,6 @@ before releasing a product or service, it's essential to expose them to proper s
 - The chronic culture of occupation reflects the lack of priorities and the lack of self-respect.
 - 10 minutes a day is all you need to be efficient, and that being busy is not a valid excuse because if you do not have 10 minutes, you do not have a life.
 
-## 3 tools that allow all the rest
-- I can think: having good rules for decision-making and having good questions you can ask yourself and others
-- I can wait: being able to plan the long-term, play the long game, and not misallocate your resources
-- I can fast: being able to withstand difficulties and disaster. Training yourself to be uncommonly resilient and have a high pain tolerance.
-
 # 17 questions that changed Ferriss' life
 - **reality is largely negotiable**
 - **if you stress-test the boundaries and experiment with the "impossible," you'll quickly discover that most limitations are a fragile collection of socially reinforced rules you can choose to break at any time**
@@ -316,14 +317,14 @@ before releasing a product or service, it's essential to expose them to proper s
   - Something simple near you or within sight.
   ## joy of loving-kindness
   - during the way, randomly identify two people who walk past you or are standing or sitting around you. I secretly wish for them to be happy. "I wish for this person to be happy."
-  ## commit to doing one pushup before bed,
+  ## commit to doing one pushup before bed
 
   ## write down the 20% of activities and people causing 80% or more of your negative emotions
   ## decision making
-tonight or tomorrow morning, think of a decision you've been putting off and challenge the fuzzy "what ifs" holding you hostage. If not now, when? If left at the status quo, what will your life and stress look like in 6 months? In 1 year? In 3 years? Who around you will also suffer?
+  - tonight or tomorrow morning, think of a decision you've been putting off and challenge the fuzzy "what ifs" holding you hostage. If not now, when? If left at the status quo, what will your life and stress look like in 6 months? In 1 year? In 3 years? Who around you will also suffer?
 
   ## Think about being a ten year older version of myself
-"what would I probably tell myself as an older version of myself?' start living by the answers and grow exponentially.
+  - "what would I probably tell myself as an older version of myself?' start living by the answers and grow exponentially.
 
   ## Write two pages of uninterrupted flow to flex the muscle of generating content without judgment.
   - something you don't remember
@@ -344,19 +345,19 @@ tonight or tomorrow morning, think of a decision you've been putting off and cha
 
 "If you would not want to be forgotten as soon as you are dead and rotten, either write things worth reading or do things worth writing." - Ben Franklin.
 
-"What is the ultimate quantification of success? For me, it's not how much time you spend doing what you love. It's how little time you spend doing what you hate."
+**"What is the ultimate quantification of success? For me, it's not how much time you spend doing what you love. It's how little time you spend doing what you hate."**
 
 "Once we get those muddy, maddening, confusing thoughts [nebulous worries, jitters, and preoccupations] on the page, we face our day with clearer eyes."
 
-"I have come to learn that part of the business strategy is to solve the simplest, easier, and most valuable problem."
+**"I have come to learn that part of the business strategy is to solve the simplest, easier, and most valuable problem."**
 
-"So if you're planning to do something with your life, if you have a 10-year plan of how to get there, you should ask: Why can't you do this in 6 months?"
+**"So if you're planning to do something with your life, if you have a 10-year plan of how to get there, you should ask: Why can't you do this in 6 months?"**
 
-There are no actual rules, so make rules that work for you.
+**There are no actual rules, so make rules that work for you.**
 
 "I always advise young people to become good public speakers (top 25%). Anyone can do it with practice. If you add that talent to any other, suddenly you're the boss of the people who have only have one skill."
 
-"At the end of the day, who cares? What's the big deal? I'm here, I'm going to try my best, and I'm going to go home, and my family's there. Even though my whole world's wrapped up in this, who cares?"
+**"At the end of the day, who cares? What's the big deal? I'm here, I'm going to try my best, and I'm going to go home, and my family's there. Even though my whole world's wrapped up in this, who cares?"**
 
 "Greatness comes from humble beginnings. It comes from grunt work. It means you're the least important person in the room - until you change that with results. There is an old saying, "say little, do much."
 
@@ -366,7 +367,7 @@ There are no actual rules, so make rules that work for you.
 
 There is more freedom to be gained from practicing poverty than chasing wealth. Suffer a little regularly, and you often cease to suffer.
 
-Life is not waiting for the storm to pass. Instead, it's learning how to dance in the rain.
+**Life is not waiting for the storm to pass. Instead, it's learning how to dance in the rain.**
 
 No, Accept reality, but focus on the solution. Take that issue, take that setback, take that problem, and turn it into something good. Go forward. If you're part of a team, that attitude will spread throughout.
 
@@ -374,33 +375,33 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "Titans create their own rules, which allow them to transform their reality according to their will."
 
-"Everyone wants freedom, but few people have the discipline to reach it."
+**"Everyone wants freedom, but few people have the discipline to reach it."**
 
-"overestimate what we can accomplish a day, underestimate what we can accomplish in a year."
+**"overestimate what we can accomplish a day, underestimate what we can accomplish in a year."**
 
-"focus on small daily actions that compound over a long time."
+**"focus on small daily actions that compound over a long time."**
 
 "when in doubt, zoom out."
 
 "it's scary to put yourself out there, to expose yourself, to become vulnerable, but it makes all the differences. Be a man, woman in the arena. When you let your mind wander in its truly natural state, good things happen."
 
-"want to get unstuck, go for a walk, no phone, no music, no podcast, just you, your thought and the fresh air."
+**"want to get unstuck, go for a walk, no phone, no music, no podcast, just you, your thought and the fresh air."**
 
 "be deliberate about what you spend your time on and who you spend it with."
 
 "not matter how far you go, always remember, you didn't make it on your own, pay it forward, be a mentor, be a champion for others, their growth should be your tremendous source of joy and pride."
 
-"The world is changed by your example, not by your opinion."
+**"The world is changed by your example, not by your opinion."**
 
 "Productivity is for robots. What humans are going to be good at is asking questions, being creative, and experiencing."
 
-"Desire is a contract you make with yourself to be unhappy until you get what you want."
+**"Desire is a contract you make with yourself to be unhappy until you get what you want."**
 
-"judge a person by his/her questions rather than his/her answers."
+**"judge a person by his/her questions rather than his/her answers."**
 
-"my goal for each reader to like 50%, love 25%, and never forget 10%."
+**"my goal for each reader to like 50%, love 25%, and never forget 10%."**
 
-"Success, however you define it, is achievable if you collect the right field-tested beliefs and habits."
+**"Success, however you define it, is achievable if you collect the right field-tested beliefs and habits."**
 
 "The superheroes you have in your mind (idols, icons, titans, billionaires, etc...) are nearly all walking flaws who've maximized 1 or 2 strengths...; you succeed because you find your unique strengths and focus on developing habits around them."
 
@@ -412,7 +413,7 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 very often, "our" beliefs are not our own
 
-"borrow liberally, combine uniquely, and create your bespoke blueprint."
+**"borrow liberally, combine uniquely, and create your bespoke blueprint."**
 
 "How do I become less competitive in order that I can become more successful?"
 
