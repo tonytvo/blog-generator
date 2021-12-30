@@ -18,3 +18,4 @@ https://github.com/serodriguez68/poodr-notes
 https://matteopallini.com/bottles-oop-summary/
 https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
 https://lionadi.wordpress.com/2020/12/04/oop-tdd-99-bottles-notes-part-1-simplicity/
+https://gist.github.com/speric/31ae0987d21eac1d4f87
