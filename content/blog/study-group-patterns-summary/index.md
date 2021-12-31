@@ -6,7 +6,6 @@ tags: ["productivity", "learning"]
 ---
 
 # todo
-- summary continuous learning from joshua kerievsky
 - a pattern language for study groups from joshua kerievsky
 
 # The theory and practice of teaching and learning
@@ -113,12 +112,47 @@ tags: ["productivity", "learning"]
 - [industrial logic continous learning](https://www.industriallogic.com/img/blog/2005/09/ContinuousLearning.pdf)
 - XP teams are very code-centric and focused on making functional software. When reflection and learning happen, it's often in a watered down, haphazard way.
 - someone has to decide to make learning not just an individual experience but a collective experience. When that happens, learning isn't just something that occurs naturally, it is something that the company uses to drive the future of business.
+- "what is the simplest, most cost-effective way to share learnings?"
+- a group of people who functioned together in an extraordinary way, who trusted one another, who complemented each others' strengths and compensated for each others' limitations, who had common goals were larger than individual goals, and who produced extraordinary results.
+  - the team that became great didn't start off great - it **learned** how to produce extraordinary results.
+  - **a programmer's study group will meet regularly in a comfortable place to delve into important technical topics. These topics can come from group's learning repository, from books or articles, or even from a guest participant.**
+
+## a learning repository
+- a simple, security-free, browser-based learning repository, such as Ward Cunningham's Wiki
+- just install it and asking folks to use it isn't enough. Teams need to establish usage convention
+  - developers will quickly jot down learnings on index cards, as they work, and when they integrate their code, they can integrate significant learnings as well.
+- atlassian confluence provides similar functionality but how can we organize and maintain the group knowledge effectively?
 
 # A pattern language for study groups
 - [a pattern language for study groups](https://www.industriallogic.com/img/blog/2012/03/khdraft1.pdf)
 - a study group can make a difficult book easier to understand, it can succeed where an unsatisfying class fails, and it can support you if your environment doesn't support your ongoing learning and growth.
-- to get an overall understanding of what generates successful study group, take 15 to 25 minutes to read the name of each pattern, looking at each pattern's picture, and then read each pattern's problem and solution headlines
-- for more in-depth study, scan the patterns in 15-25 minutes, and follow this with a patient reading of each and every patterns. As you read the body of each pattern, you will notice that certain sentences are written in italics. read the italics to get to the hear of the idea.
+- once teams produce enough learning content they will need to reflect on and discuss it. 
+- there are 2 good places to do this: for technical matters, the best place is a programmer's study group; and for team, people or process maters, the best place is in an iteration retrospective.
+- **every programmer on the team needed to at least be aware of the system's potent smells. This would enable them all to pay attention to these smells and consider how to refactor them out of existence**.
+  - look into process of documenting these potent smells (index cards, wiki, etc...). This would eventually led to direct action
+- recommend that groups meet for 2 hours if they want to delve deeply into a subject, though one-hour meetings are fine for covering topics quickly
+- absolutely no one should play the role of lecturer or teacher in a study group.
+  - the group meets to conduct group learning.
+  - if someone is expert in a certain technical area, that individual ought to help others learn, not show off or talk down to participants.
+- continuously learning coach
+  - the coach is the leader of the team. If the coach doesn't value learning, the team won't either.
+  - the coach must lead by example. This means that the coach will seek out and obtain coaching and mentoring from the best sources available.
+  - coaches must strive to learn about their customer's needs, team or personality conflicts, new technologies, and the latest wisdom about XP and other lightweight methods.
+
+## retrospectives
+- the continuous learning approach to retrospectives means they come not at the end of a project, but at the end of every iteration.
+  - conducting iteration retrospectives will enable teams to quickly adjust and improve their performance, because they will be continuously revisiting these questions:
+    - what worked well?
+    - what did we learn?
+    - what should we do differently next time?
+    - what still puzzles us?
+    - what happened?
+- people have a fear of retrospectives, because they have a fear of being attacked, of being made to look foolish, of getting a poor performance review or of hurting someone's feelings.
+- it's detrimental to retrospectives if people are afraid, or if there is an atmosphere of blame, criticism, sarcasm, or even humor at other people's expense.
+- "regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills, and abilities, the resources available, and the situation at hand."
+- it's vital that the facilitator be an outsider and not a member of the team involved in the retrospective.
+- participants take the lessons learned during the retrospective and turn them into concrete ideas for improving their development process.
+  - the key to retrospective is to make sure you're solving the correct problem.
 
 ## knowledge hydrant
 - where can one obtain knowledge in its fullest unfiltered, unsimplified form.
@@ -153,7 +187,8 @@ tags: ["productivity", "learning"]
 ## agenda
 
 ## safe place
-
+- a good physical environment [common ground](#common-ground), [public living room](#public-living-room) is vital for any study group. Equally vital, is the intellectual environment.
+- **loud-mouths, show-offs, know-it-alls, and people who are overly competitive, adversarial or confrontational, can make other uncomfortable or insecure, and create an environment that is not conductive to learning, sharing or the building of ideas**.
 ## common ground
 
 ## public living room
