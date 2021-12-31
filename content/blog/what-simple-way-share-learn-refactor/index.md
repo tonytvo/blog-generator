@@ -36,14 +36,22 @@ Here goes the list
 
 # Rename method, classes, fields
 Motivation
-Easy to read code start with good naming and naming is hard
-“Naming as a process” provides a good heuristic for naming but it’s too freaking long.
-I find this short, simple and easier to remember from J.B. Rainsberger
+- Easy to read code start with good naming and naming is hard
+- “Naming as a process” provides a good heuristic for naming but it’s too freaking long.
+
+![arlo naming as a process](./naming-as-a-process.png)
+
+- I find this short, simple and easier to remember from J.B. Rainsberger
 
 ![jbrain-naming-process](./jbrains-naming-process.png)
 
 <img width="500" height="300" alt="rename method" src="./rename-method.gif">
 
+# tag as a process
+- small reversible steps creates safety net when refactoring and make it easier to reverse when bugs are introduced
+- communicate the risks of the commits
+- make it easier for people to follow the commits by expression the intent of the commits and ensure one commit is doing one thing
+- ![tag as a process](./tag-as-a-process-refactoring-safely.png)
 # Golden Master
 ## Motivation
 - Provide safety nets for doing refactoring by leveraging Standard IO
