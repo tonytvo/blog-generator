@@ -6,11 +6,8 @@ tags: ["productivity", "learning"]
 ---
 
 # todo
-- summary limitless upgrade your brain-jim-kwik-summary
 - summary continuous learning from joshua kerievsky
 - a pattern language for study groups from joshua kerievsky
-- summary how to read from mortimer
-- summary of theory and practice of teaching and learning from samman method
 
 # Why?
   - reading/learning can be a "priceless opportunity to furnish your mind and enrich the quality of your life"
@@ -20,6 +17,11 @@ tags: ["productivity", "learning"]
   - read/learn to find meaning
   - read/learn improves vocabulary, focus, memory and imagination
   - Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
+  - there are few things that hold us back and rob us our productivity, prosperity, positivity and peace of mind and reduce our capacity to think, focus, learn, grow, and be fully human
+    - drowning in data and rapid change, we long for strategies and tools to regain some semblance of productivity, performance, and peace of mind
+    - the fleeting ping of digital dopamine pleasure replaces our ability to sustain the attention necessary for deep relationships, deep learning or deep work
+    - overuse of digital technology results in the breakdown of cognitive abilities. Short-term memory pathways will start to deteriorate from underuse if we overuse technology.
+    - we're letting technology do much of our critical thinking and reasoning for us.
 
 # Overview
 
@@ -36,34 +38,143 @@ tags: ["productivity", "learning"]
 
 # The theory and practice of teaching and learning
 ## Learning outcomes and objectives
+- when people return to their desk, will they be able to apply what they've learnt in a useful way
+- have a fair idea who will come and what's the production code and tests look like at present
+- discuss with attendee what they're interested in learning and what they are currently struggling with.
+- bloom's taxonomy, thinking skills can be described in terms of six broad categories
+  - remembering, understanding, applying, analyzing, evaluating, creating
+  - help you plan exercises and teaching materials at an appropriate level
+  - start with materials to build remembering, understanding and applying
+  - when those thinking skills are in place, you can do more analyzing, evaluating and creating
+  - find a long lists of good **verbs** to describe thinking skills in each category. These words are useful as a prompt or start of a sentence.
 ## the '4C' learning model
+- each person who comes to your learning hour has a unique background, and what they're going to learn needs to be integrated with what they already know for it to stick.
+- 4C's:
+  - connect: get people in the right head-space for learning about the topic together
+  - concept: introduce the new skills or ideas or information you want the participants to learn
+  - concrete: hands-on exercises to practice skills or figure out how things work
+  - conclusions: an opportunity for people to consolidate and internalize what they've learnt.
+- you want to help people to be present mentally, fuel their curiosity, let them work out what they need to do, and to come to their own understanding of the topic.
 ## Design learning experiences that fit with how the brain works
+- useful rules about how the brain works
+  - **movement trump sitting**
+    - you want people to move out of a sitting position at least every 10-15 minutes
+    - arrange the chairs so people physically stand up and move a chair to the right every time you change typist
+    - when you gather observations in retrospective, people can each walk up to the whiteboard and stick their notes onto it.
+    - when reviewing code, you can stick printouts to the walls and have people move around to look at them.
+    - if you're working together remotely, get people to take breaks and leave their desks from time to time.
+  - **talking trumps listening**
+    - when you talk about what you just heard it reinforces your memory of it.
+    - talking also gives opportunities for feedback from others about how well you seem to understand the topic.
+    - ask people to pair up to discuss a topic or share experiences.
+  - **images trumps words**
+    - if the picture and associated story evokes an emotion, it would make it easier to pay attention and recall it later.
+    - long-term memories often comprise of images and associated emotions.
+  - **writing trumps reading**
+    - when you read, it's easier for your mind to wander.
+    - writing also makes the information multi-sensory, you physically move a pen on some paper as well as see the text on the page.
+    - draw lines and boxes to situate the information in space and relate it to other information.
+    - provide handouts, notes and quizzes that people can annotate. Ask people to write conclusions and observations on sticky notes
+  - **shorter trumps longer**
+    - student's minds tend to drift after about 10 minutes of traditional lecture.
+    - to keep people's attention, divide your presentations into 10-20 minute chunks and in between spend at least 1-2 minutes on some other activity.
+    - perhaps ask people to review or discuss the material presented so far
+    - break off occasionally for Q&A, or to ask people to note down what they observed so far.
+  - **different trumps same**
+    - anything new or unexpected will catch people's attention.
+    - games and simulations an exercises can contain built-in surprises.
+    - suddenly change requirement mid-exercise. Keep it fun.
+- One example learning objectives
+  - describe some characteristics of approval testing -> remembering
+  - compare approval testing with assertion-based testing -> understanding
+  - use the approvals framework to write test cases -> applying
 ## Deliberate practice
-
+- in order to use red-green-refactor cycle competently, you need to
+  - identify the next test case that will incrementally improve your solution
+  - design the specifics of that test case and see it fail
+  - implement a solution design which is testable
+  - refactor to improve your design.
+  - if you're weak in any one of those component skills, you will struggle to do TDD.
+- the great advantage of practice exercises is we can find ones that let us work on those component skills individually
+- as a teacher, I want to plan a series of learning hours that will be at just hte right level so people don't get bored and don't get overwhelmed or frustrated.
 # Sample Learning Hour
 ## incremental working, driven by tests
+- try to get people comfortable with one another and feel safe to work in pairs.
+### learning goals
+- the learning hour is in the "small steps" theme
+- describe the read-green-refactor cycle
+- explain why you write the tests first and not all at once
+- design a pure function that takes an integer and returns a boolean using TDD
+
+### session outline
+- 10 min connect: divide into pairs, 3 benefits of TDD
+- 15 min concept: demo leap years
+- 20 min concrete: do leap years in pairs
+- 10 min conclusions: summary of main idea
+
+### connect
+- ask people to form pairs and introduce themselves if they don't know each other.
+- ask them to discuss the question "what are some of the main benefits of doing TDD?"
+- after 3 mins ask each pair to report one thing they came up with the group
+
+### concept
+- starting at a whiteboard, explain the purpose of the kata
+- write up all 4 examples given in the kata description on a whiteboard. Note that these will turn into tests
+- make it clear you interleave designing tests and writing code.
+
+### concrete
+- ask people to work in pairs or an ensemble to do the same thing
+- start from problem description and an empty editor, and complete the Leapyear function using TDD
+- every 3-4 minutes, remind them to swap the person who has the keyboard
+- coach them to write the tests before the implementation, working incrementally and iteratively.
+
+### conclusions
+- think about what we did today. If you had to explain the main idea of TDD to someone else, what would you say?
+- write your explanation in a sentence or two on a post-it.
+- put up a flipchart with the question "what is the main idea of TDD?" Ask people to stick their post-it notes on it.
+- read some notes out to the group before you partway.
+- hang the poster somewhere prominent afterwards, perhaps in the team area or coffee room.
+- if working remotely, they can each write their sentence or two in a shared online document.
+
 
 # MOM model
 - ![mindset-motivation-method](./3m-models.jpg)
-  - Mindset/Observation (the WHAT): 
-    - deeply held beliefs, attitudes, and assumptions we create about who we rea, how the world works, what we're capable of and deserve, and what is possible.
+  ## Mindset/Observation (the WHAT): 
+    - Be aware of how you're holding yourself back to limiting beliefs, deeply held beliefs, attitudes, and assumptions we create about who we are, how the world works, what we're capable of and deserve, and what is possible.
     - none of these are preinstalled at birth, which means you pick them up from your environment and those around you.
     - any limitations are self-imposed and that your true potential is within your control
     - be truly present in any situation
-  - Motivation (the WHY): 
+    - intelligence is fixed -> your intelligence is not only malleable but dependent on your ability to cultivate a growth mindset
+    - we only use 10% of our brains -> I'm learning to use my whole brain in the best way possible.
+    - mistakes are failures -> there's no such thing as failure. Only failure to learn.
+    - knowledge is power -> knowledge + action = power
+    - learning new things is very difficult -> when you learn new ways how to learn, the challenge of learning new things can be fun, easier, and more enjoyable.
+    - criticism of other people matters -> it's not your job to like, love or respect me. It's mine.
+    - genius is born -> genius is not born, it's made through deep practice.
+  ## Motivation (the WHY): 
     - the purpose one has for taking action. The energy required for someone to behave in a particular way
     - motivation = Purpose x Energy x Small Simple Steps
       - how connected do I feel to my purpose
       - how are my day-to-day energy levels
       - what am I allowing to drain my energy that I no longer should?
   ## Methods (the HOW): 
+    - small simple steps repeated lead to habits.
+    - creating habits to automate essential parts of our lives is a fundamental streamlining technique that we do largely unconsciously, often to our benefit.
+    - focus
+      - calm the busy minds with meditation, yoga.
+      - breathing with 4-7-8 method
+        - exhale completely through your mouth, making a whoosh sound
+        - close your mouth and inhale quietly through your nose to a mental count of 4
+        - hold your breath for a count of 7
+        - exhale completely through your mouth, making a shoosh sound to a count of 8
+      - do something that has been causing you stress
+      - schedule time for distraction
     - a specific process for accomplishing something, especially an orderly, logical or systematic way of instruction
       - frequently challenge your methods by asking yourself the following questions
         - have I thought about methods I'm using?
         - have I learned this method from someone successful at what I'm trying to achieve
         - if I changed my method, would my results look different.
   
-
   ### habits for studies
   - ![habits for studies](./studies-habits.jpg)
   - **F - Forget**.
@@ -131,6 +242,7 @@ tags: ["productivity", "learning"]
   - at the end of each chapter, without looking back, write some notes on the main points/arguments/take-away. Then look back through the chapter and write down anything you missed.
   - specifically note anything that was in the chapter that you can apply somewhere else
   - summary and review the notes periodically
+  - you're more likely to remember what you learn in the beginning of a learning session and the last thing you learned (more recent). Opening primacy and closing recency
   - [blank sheet](#blank-sheet) technique
   - [conventional notes](#conventional-notes) technique
   ## Sun list
@@ -222,6 +334,8 @@ tags: ["productivity", "learning"]
 
 # Continuous learning
 - [industrial logic continous learning](https://www.industriallogic.com/img/blog/2005/09/ContinuousLearning.pdf)
+- XP teams are very code-centric and focused on making functional software. When reflection and learning happen, it's often in a watered down, haphazard way.
+- someone has to decide to make learning not just an individual experience but a collective experience. When that happens, learning isn't just something that occurs naturally, it is something that the company uses to drive the future of business.
 
 # A pattern language for study groups
 - [a pattern language for study groups](https://www.industriallogic.com/img/blog/2012/03/khdraft1.pdf)
@@ -240,6 +354,8 @@ tags: ["productivity", "learning"]
     - reading, if it is active, is thinking and thinking tends to express itself in words, spoken or written.
     - writing your reactions down helps you to remember the thoughts of the author
     - literally an expression of your differences or your agreements with the author. It is the highest respect you can pay him.
+- pomodoro method
+  - optimal time for a task is 25 minutes, followed by a 5 minute break. Each 25-minute chunk is called a "Pomodoro"
     
 # Finding more time to read
   - **find time to read boils down to choices about how you allocate your time.**
@@ -326,6 +442,10 @@ tags: ["productivity", "learning"]
 
 # Note taking
 - listen with intent. Write a notes in a way you can understand later
+- TIP
+  - T - Think about what you're hoping to retain most from this session
+  - I - identify what is most important in the context of your goal
+  - P - prioritize the information that is most valuable for you.
 - use your own words whenever possible
 -  handwriting triumphs typing because writing by hand requires you to exert more effort and process information immediately
 -  use **capture and create**. Fold the paper into two columns. On left side, write down what you're capturing. On the right, write your impression of potential applications, i.e., the areas you can apply this.
@@ -345,6 +465,25 @@ tags: ["productivity", "learning"]
   - pick up the book again and go through all your notes. In a lot of cases, reading your notes will be as good as reading the book again.
   - writing is the process by which we often discover we don't know what we're talking about.
    
+# Speed reading
+## the 4,3,2,1 method
+- 10 minutes exercise
+- set the timer for 4 minutes and open an easy-to-read book.
+- start reading at a comfortable pace while using your finger to underline the words as you read them.
+- when 4 minutes expires, mark the point at which you stopped
+- go back where you started and set a timer for 3 minutes, then 2 minutes, then 1 minute. Try to get to the same point you reached after 4 minutes.
+
+## Problems
+- avoid regression where your eyes tend to go back and re-read certain words in a sentence.
+  - use pacer because attention follows movement. If you use your finger to guide your reading, you prevent your attention from jumping around the text.
+  - use finger as pacer when reading on physical book or the phone
+  - use the mouse as pacer when reading content on computer
+- avoid subvocalization: saying words to yourself in your head as you read.
+  - when you start reading, count 1, 2, 3, 4. This process will free your mind of the inner narrator.
+  - it will train your mind to see words on the page like images. Turn what you're reading into a motion picture experience.
+- avoid word-by-word reading
+  - observe chunks of word at a single glance.
+  - practice expanding your vision to see groups of words, i.e.: image for groups of words
 # Mental models
 ## Circle of competence
 - [circle of competence](https://fs.blog/circle-of-competence/)
