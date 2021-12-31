@@ -116,6 +116,27 @@ tags: ["productivity", "learning"]
 
 # A pattern language for study groups
 - [a pattern language for study groups](https://www.industriallogic.com/img/blog/2012/03/khdraft1.pdf)
+- a study group can make a difficult book easier to understand, it can succeed where an unsatisfying class fails, and it can support you if your environment doesn't support your ongoing learning and growth.
+- to get an overall understanding of what generates successful study group, take 15 to 25 minutes to read the name of each pattern, looking at each pattern's picture, and then read each pattern's problem and solution headlines
+- for more in-depth study, scan the patterns in 15-25 minutes, and follow this with a patient reading of each and every patterns. As you read the body of each pattern, you will notice that certain sentences are written in italics. read the italics to get to the hear of the idea.
+
+## knowledge hydrant
+- where can one obtain knowledge in its fullest unfiltered, unsimplified form.
+- great literature tends to be hard to study and understand. Many people either aren't prepared to do this hard work or simply don't want to
+- authors of great literature commonly reference, extend, or refute ideas communicated by their ancestors or peers. This can make it doubly hard to understand their writings, since one may need to understand referenced works in order to understand author's own work.
+- as great literature ages, people don't believe it will contain the "modern" knowledge they need. So even if some great book written 30 years ago contains the exact knowledge they seek, people won't find it, for they are unaware of the abundance of knowledge contained in older works of literature.
+- the hard work put into the study of great literature is worthwhile because it ensures that people retain the knowledge they wish to obtain
+- great literature is much easier to understand when it is studied in an intelligent sequence [sequential study](#sequential-study)
+- it is easier and more rewarding to study great literature with other people [pool of insight](#pool-of-insight)
+- discover the great literature in your profession or area of interest - the finest books, articles, and speeches ever written, and then begin an earnest study of these works.
+- how do you find the great literature worthy of study? Ask people. Ask knowledgeable people which authors they like, what are their favorite books, what profoundly influenced them?
+- after identifying the works, form or join a study group, [pool of insight](#pool-of-insight), order the works to be studied [sequential study](#sequential-study) and compose an [agenda](#agenda)
+
+## sequential study
+
+## pool of insight
+
+## agenda
 
 # Quotes
 
