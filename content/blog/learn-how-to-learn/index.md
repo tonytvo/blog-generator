@@ -32,8 +32,7 @@ tags: ["productivity", "learning"]
   - distinguish between people who've done the work and those who haven't. The ones who have will pass the [Batesian Mimicry Test](https://fs.blog/batesian-mimicry/)
 
 
-# Study group patterns
-- [study group patterns](/study-group-patterns-summary)
+# [Study group patterns](/study-group-patterns-summary)
 
 # MOM model
 - ![mindset-motivation-method](./3m-models.jpg)
@@ -141,6 +140,9 @@ tags: ["productivity", "learning"]
   - specifically note anything that was in the chapter that you can apply somewhere else
   - summary and review the notes periodically
   - you're more likely to remember what you learn in the beginning of a learning session and the last thing you learned (more recent). Opening primacy and closing recency
+  - keyword substitution method. This is helpful in learning new language
+    - take a picture and substitute it for a word
+  - Intensify: turn into picture (TIP), Using action, exaggeration, emotion to make it illogical
   - [blank sheet](#blank-sheet) technique
   - [conventional notes](#conventional-notes) technique
   ## Sun list
