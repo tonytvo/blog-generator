@@ -135,8 +135,32 @@ tags: ["productivity", "learning"]
 ## sequential study
 
 ## pool of insight
-
+- once you've discovered your [knowledge hydrant](#knowledge-hydrant), it can be overshelming to drink from it. This pattern suggests how to make the study of great literature easier and more rewarding
+- there's nothing wrong with reading and studying literature on one's own. But great literature is worth knowing well, and individual study pales in comparison with teh study of literature in a group dialogue.
+- in communicating how they understand something, people may
+  - clarify what confused others
+  - expose their own misunderstandings
+  - reveal new ideas
+  - articulate that which they didn't know they knew
+- in a dialogue, nobody is trying to win. Everybody wins if anybody wins.
+  - whenever any mistake is discovered on the part of anybody, everybody gains.
+  - there is a spirit present in dialogues that one doesn't find in many other learning environments
+  - many groups sustain a group's spirit by meeting weekly or biweekly
+- read and study literature on one's own, but discuss it with others in a regular study group. Aim to ask questions about you don't know and explain what you do know. Your exchanges with colleagues will enrich your understanding immensely.
+- the best study groups are those in which individuals feel comfortable learning with others [safe place](#safe-place)
+- some environments promote dialogues, [common ground](#common-ground) and [public living room](#public-living-room)
+- the most enriching study happens when a group has a [motivated moderator](#motivated-moderator) and [prepared participants](#prepared-participants)
 ## agenda
+
+## safe place
+
+## common ground
+
+## public living room
+
+## motivated moderator
+
+## prepared participants
 
 # Quotes
 
