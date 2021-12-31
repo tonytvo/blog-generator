@@ -26,7 +26,8 @@ tags: ["designpatterns", "oop"]
 - [References](#references)
 
 # Goals/Key Ideas/Context
-
+- you should not reach for abstractions, but instead you should resist them until they absolutely insist upon being created.
+- writing code is the process of working your way to the next stable end point, not the end point itself
 # rediscovering simplicity
 ## judging the code
 - evaluating code based on opinion
