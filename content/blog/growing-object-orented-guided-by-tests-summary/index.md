@@ -86,9 +86,10 @@ tags: ["selftestingcode", "evolutionarydesign"]
 
 ## mock roles not objects
 - [mock roles not objects](http://jmock.org/oopsla2004.pdf)
+  - todo: summarize the paper (extract key information that I understand)
 - test double aka imposter
-  - how can we verify logic independently when code it depends on is unusable?
-  - how can we avoid slow tests?
+  - verify logic independently when code it depends on is unusable
+  - avoid slow tests?
   - replace a component on which the SUT depends with a "test-specific equivalent"
   - ![test double](./test-double.gif)
   - ![types of test double](./types-of-test-doubles.gif)

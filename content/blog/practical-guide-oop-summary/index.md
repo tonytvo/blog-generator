@@ -31,10 +31,16 @@ tags: ["designpatterns", "oop"]
       - [injecting dependencies using classes](#injecting-dependencies-using-classes)
       - [injecting dependencies as roles](#injecting-dependencies-as-roles)
     - [creating test double](#creating-test-double)
+    - [using tests to document roles](#using-tests-to-document-roles)
+    - [testing private methods](#testing-private-methods)
+    - [testing outgoing messages](#testing-outgoing-messages)
+    - [testing duck types](#testing-duck-types)
 - [unearthing concepts](#unearthing-concepts)
   - [creating classes with single responsibility](#creating-classes-with-single-responsibility)
   - [creating flexible interfaces](#creating-flexible-interfaces)
 - [practising horizontal refactoring](#practising-horizontal-refactoring)
+  - [technique 1: flocking rules for refactoring](#technique-1-flocking-rules-for-refactoring)
+  - [technique 2: the open-closed flowchart](#technique-2-the-open-closed-flowchart)
 - [separating responsibilities](#separating-responsibilities)
   - [managing dependencies](#managing-dependencies)
   - [acquiring behavior through inheritance](#acquiring-behavior-through-inheritance)
@@ -197,6 +203,40 @@ tags: ["designpatterns", "oop"]
 
 ### creating test double
 - [more on test doubles](/growing-object-orented-guided-by-tests-summary#mock-roles-not-objects)
+- when diameterizable's interface changes from diameter to width, and `Wheel` get updated but `Gear` does not
+  - since the dimeterizabledouble is injected, the test continues to pass even though the application is definitely broken
+  - this is where the stubbing and mocking could make the tests brittle.
+  - "when interface of a role changes, all players of the role must adopt the new interface", dynamic language like ruby doesn't complain about the incompatible implementation with the interface.
+
+### using tests to document roles
+- injecting the same objects at test time as are used at runtime ensures that tests break correctly but may lead to long running tests.
+- injecting doubles can speed tests but leaves them vulnerable to constructing a fantasy world where tests work but the application fails
+
+### testing private methods
+- if you can't get/access the structure you need, then the tests tell you that it's time to break up the class into more minor/composable features.
+  - the extracted methods form the core of responsibilities of the new object and so make up its public interface, which is (theoretically) stable and thus safe to depend upon.
+- tests of private methods are therefore coupled to application code that is likely to change.
+- since tests provide documentation about the object under test, it could mislead others into using them.
+- never write private methods, and if you do, never ever test them, unless of course it makes sense to do so
+
+### testing outgoing messages
+- outgoing messages are either queries or commands. Query messages matter only to the object that sends them, while command messages have effects that are visible to other objects in your application.
+- ignoring query messages
+  - it's redundant for Gear to duplicate correctness tests from Wheel, maintainance costs will increase if it does.
+- proving command messages
+  - sometimes, it does matter that the message get sent and the object under test is responsible for sending the message
+  - your tests must prove that the command messages got sent
+- if you have proactively injected dependencies, you can easily substitute mocks. Setting expectations on these mocks allows you to prove that the object under test fulfills its responsibilities without duplicating assertions that belong else where
+### testing duck types
+- use dynamic module interface test to ensure the test double honor the interface
+```ruby
+module DiameterizableInterfaeTest
+  def test_implements_the_diameterizable_interface
+    assert_respond_to(@wheel, :diameter)
+...
+class DiameterDoubleTest < MiniTest::Unit::TestCase
+  include DiameterizableInterfaceTest
+```
 
 # unearthing concepts
 ## creating classes with single responsibility
@@ -204,7 +244,15 @@ tags: ["designpatterns", "oop"]
 
 
 # practising horizontal refactoring
+## technique 1: flocking rules for refactoring
+- steps
+  - select the things that are most alike
+  - find the smallest difference between them
+  - make the simplest change that will remove that difference.
+- making existing code open to a new requirement often requires identifying and naming abstractions. The flocking rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions.
 
+## technique 2: the open-closed flowchart
+- [open closed flowchart](./open-closed-flowchart.png)
 # separating responsibilities
 ## managing dependencies
 ## acquiring behavior through inheritance
@@ -231,6 +279,12 @@ tags: ["designpatterns", "oop"]
 "think of an object oriented application as a series of messages between a set of black boxes"
 
 "the reason you're writing tests is to save money, and every potential test must be evaluated against that criteria"
+
+"when your intention is to defer a design decision, do the simplest thing that solves today's problem. Isolate the code behind the best interface you can conceive and hunker down and wait for more information"
+
+"the rules of thumb for testing private methods are: never write them, and if you do, never ever test them, unless of course it makes sense to do so."
+
+"making existing code open to a new requirement often requires identifying and naming abstractions. The flocking rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions."
 
 # References
 https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md
