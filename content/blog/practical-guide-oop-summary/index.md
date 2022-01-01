@@ -35,6 +35,7 @@ tags: ["designpatterns", "oop"]
     - [testing private methods](#testing-private-methods)
     - [testing outgoing messages](#testing-outgoing-messages)
     - [testing duck types](#testing-duck-types)
+    - [testing inherited code](#testing-inherited-code)
 - [unearthing concepts](#unearthing-concepts)
   - [creating classes with single responsibility](#creating-classes-with-single-responsibility)
   - [creating flexible interfaces](#creating-flexible-interfaces)
@@ -54,7 +55,7 @@ tags: ["designpatterns", "oop"]
 # Goals/Key Ideas/Context
 - you should not reach for abstractions, but instead you should resist them until they absolutely insist upon being created.
 - writing code is the process of working your way to the next stable end point, not the end point itself
-- If your goal is to write straightforward code, these metrics point you toward `Shameless Green`
+- If your goal is to write straightforward code, these metrics (ABC metrics) point you toward `Shameless Green`
 # rediscovering simplicity
 - getting insight into potential expense of code
   - how difficult was it to write?
@@ -136,6 +137,9 @@ tags: ["designpatterns", "oop"]
   - there is a tradeoff between the amount of time spent designing and the amount of time this design saves in the future (and there is a break-even point).
   - when the act of design prevents software from being delivered on time, you have lost.
 # TDD as design
+- **as the tests get more specific, the code gets more generic**
+- while it is important to consider the problem and sketch out an overall plan before writing the first test, don't over think it
+- you can't figure out what's right until you write some tests. The purpose of some of your tests might very well be to prove that they represent bad ideas.
 ## writing cost-effective tests
 
 ### intentional testing
@@ -228,7 +232,8 @@ tags: ["designpatterns", "oop"]
   - your tests must prove that the command messages got sent
 - if you have proactively injected dependencies, you can easily substitute mocks. Setting expectations on these mocks allows you to prove that the object under test fulfills its responsibilities without duplicating assertions that belong else where
 ### testing duck types
-- use dynamic module interface test to ensure the test double honor the interface
+- Using role tests to validate doubles
+  - use dynamic module interface test to ensure the test double honor the interface
 ```ruby
 module DiameterizableInterfaeTest
   def test_implements_the_diameterizable_interface
@@ -237,7 +242,28 @@ module DiameterizableInterfaeTest
 class DiameterDoubleTest < MiniTest::Unit::TestCase
   include DiameterizableInterfaceTest
 ```
+- From the point of view of the object under test, every other object is a role, and dealing with objects as if they representative of the roles they play loosens coupling and increases flexibility, both in your application and in your tests.
+- If you fear that human communication will be insufficient to keep all players of a role in sync, write the tests.
 
+### testing inherited code
+- prove that all objects in this hierarchy honor their contract
+  - subtypes should be substitutable for their subtypes
+  - write a shared test for the common contract and include this test in every object.
+- confirming subclass behavior
+- confirming superclass enforcement
+  - `bicycle` class should raise an error if a subclass does not implement `default_tire_size`. Even though this requirement applies to subclasses, the actual enforcement behavior is in Bicycle.
+
+```ruby
+def test_forces_subclasses_to_implement_default_tire_size
+  assert_raises(NotImplementedError) { @bike.default_tire_size }
+```
+- testing concrete subclass behavior
+  - it's important to test these specializations without embedding knowledge of the superclass into the test.
+    - the `RoadBikeTest` should ensure that `local_spares` works while maintaining deliberate ignorance about the existance of `spares` method
+
+- testing abstract super class behavior
+  - you can stub the behavior that would normally be supplied by subclasses (follow liskov substitution principle)
+  - be especially careful when testing subclass specializations to prevent knowledge of the superclass from leaking down into the subclass's test
 # unearthing concepts
 ## creating classes with single responsibility
 ## creating flexible interfaces
@@ -285,6 +311,8 @@ class DiameterDoubleTest < MiniTest::Unit::TestCase
 "the rules of thumb for testing private methods are: never write them, and if you do, never ever test them, unless of course it makes sense to do so."
 
 "making existing code open to a new requirement often requires identifying and naming abstractions. The flocking rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions."
+
+"the best tests are loosely coupled to the underlying code and test everything once and in the proper place. They add value without increasing costs"
 
 # References
 https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md
