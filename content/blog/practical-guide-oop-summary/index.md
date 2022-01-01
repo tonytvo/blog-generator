@@ -14,6 +14,8 @@ tags: ["designpatterns", "oop"]
     - [concretely abstract](#concretely-abstract)
     - [shameless green](#shameless-green)
   - [judging the code](#judging-the-code)
+    - [evaluating code based on opinion](#evaluating-code-based-on-opinion)
+    - [evaluating code based on facts](#evaluating-code-based-on-facts)
   - [judging the design](#judging-the-design)
 - [unearthing concepts](#unearthing-concepts)
   - [creating classes with single responsibility](#creating-classes-with-single-responsibility)
@@ -33,6 +35,7 @@ tags: ["designpatterns", "oop"]
 # Goals/Key Ideas/Context
 - you should not reach for abstractions, but instead you should resist them until they absolutely insist upon being created.
 - writing code is the process of working your way to the next stable end point, not the end point itself
+- If your goal is to write straightforward code, these metrics point you toward `Shameless Green`
 # rediscovering simplicity
 - getting insight into potential expense of code
   - how difficult was it to write?
@@ -72,16 +75,42 @@ tags: ["designpatterns", "oop"]
   - what is the rule to determine which verse should be sung next? Ditto.
 
 ### shameless green
+- shameless green is defined as the solution that quickly reaches green while prioritizing understandability over changeability.
+- it doesn't dispute that DRY is good, rather, it believes that it is cheaper to manage temporary duplication than recover from incorrect abstractions.
 - [shameless green](https://github.com/marina-ferreira/99_bottles_of_oop/blob/main/chapter_1/04_shameless_green.rb)
   - it was easy to write and understand
   - it will be cheap to change. Even though the verse strings are duplicated, if one verse changes it's easy to keep the others in sync.
-  - what is the rule to determine which verse should be sung next? This is still not explicit. The 0 verse contains 
+  - what is the rule to determine which verse should be sung next? This is still not explicit. The 0 verse contains a deeply buried, hard-coded 99
+  
 ## judging the code
-- evaluating code based on opinion
+### evaluating code based on opinion
   - look for context/concrete guidance of what the code trying to accomplish
   - **any pile of code can be made to work; good code not only works, but it also simple, understandable, expressive and changeable**
-## judging the design
 
+### evaluating code based on facts
+- you can think of metrics as crowd-sourced opinions about the quality of code.
+- measuring programmer productivity by counting lines of code (SLOC))
+  - easily garnered and reproduced, it reflects code volume but suffers from many flaws
+- Cyclomatic complexity
+  - an algorithm that counts the number of unique execution paths through a body of source code. The more deeply nested conditionals, the higher Cyclomatic complexity
+  - the code with fewer nested conditionals (lower cyclomatic complexity) is easier to reason with and maintain
+  - can be used to limit the overall complexity. You can set standards for how high a score you're willing to accept.
+  - you can use it to determine if you'ave written enough tests, as it tells you the minimum number of tests needed to cover all the logic in the code.
+- Assignments, branches and conditions (ABC) metrics
+  - assignments is a count of variable assignments
+  - branches counts not branches of an if statement but branches of control, meaning function calls or message sends
+  - conditions counts conditional logic
+  - ABC scores reflect cognitive load as opposed to physical size. High ABC numbers indicate code that takes up a lot of mental space.
+- ![metrics chart comparison](./sloc-abc-metrics.png)
+- metrics are fallible but human opinion is no more precise. Checking metrics regularly will keep you humble and improve your code.
+## judging the design
+- **Don't do** big upfront design (BUFD)
+  - designs in BUFD cannot possibly be correct as many things will change during the act of programming
+  - BUFD inevitable leads to an adversarial relationship between customers and programmers.
+- make design decisions only when you must with the information you have at that time
+  - postpone decisions until you are absolutely forced to make them
+  - any decision you make in advance on an explicit requirement is just a guess. Preserve your ability to make a decision later
+- 
 # unearthing concepts
 ## creating classes with single responsibility
 ## creating flexible interfaces
@@ -101,6 +130,13 @@ tags: ["designpatterns", "oop"]
 "Writing code is the process of working your way to the next stable end point, not the end point itself"
 
 **"DRY makes sense when it reduces the cost of change more than it increases the cost of understanding the code"**
+
+"metrics are fallible but human opinion is no more precise. Checking metrics regularly will keep you humble and improve your code"
+
+"shameless green is defined as the solution that quickly reaches green while prioritizing understandability over changeability."
+
+"it doesn't dispute that DRY is good, rather, it believes that it is cheaper to manage temporary duplication than recover from incorrect abstractions."
+
 
 # References
 https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md
