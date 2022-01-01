@@ -4,6 +4,27 @@ date: "2021-12-29T22:12:03.284Z"
 description: "summary for growing objected-oriented guided by tests."
 tags: ["selftestingcode", "evolutionarydesign"]
 ---
+- [Key ideas](#key-ideas)
+- [Test-Driven Development (TDD) and Quality](#test-driven-development-tdd-and-quality)
+- [TDD as a design technique](#tdd-as-a-design-technique)
+  - [Communication over classification](#communication-over-classification)
+  - [mock roles not objects](#mock-roles-not-objects)
+- [tell, don't ask - law of Demeter](#tell-dont-ask---law-of-demeter)
+- [Kick-staring the test-driven cycle](#kick-staring-the-test-driven-cycle)
+- [Maintaining the test-drive cycle](#maintaining-the-test-drive-cycle)
+- [Design for Maintainability](#design-for-maintainability)
+- [Listen to tests, test smells and patterns](#listen-to-tests-test-smells-and-patterns)
+- [techniques for introducing new objects](#techniques-for-introducing-new-objects)
+- [object peer stereotypes](#object-peer-stereotypes)
+  - [dependencies](#dependencies)
+  - [Notification](#notification)
+  - [Adjustments](#adjustments)
+- [Programming by intention](#programming-by-intention)
+- [Context independence](#context-independence)
+- [Dependency Injection](#dependency-injection)
+- [The sample project - analysis](#the-sample-project---analysis)
+- [Quotes](#quotes)
+- [References](#references)
 
 # Key ideas
 - practice TDD as a design technique and not as a testing technique
@@ -63,6 +84,14 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - A decision to separate similar-looking interfaces is an excellent time to reconsider their naming
   - Another time to consider refactoring interfaces is when we start implementing them.
 
+## mock roles not objects
+- [mock roles not objects](http://jmock.org/oopsla2004.pdf)
+- test double aka imposter
+  - how can we verify logic independently when code it depends on is unusable?
+  - how can we avoid slow tests?
+  - replace a component on which the SUT depends with a "test-specific equivalent"
+  - ![test double](./test-double.gif)
+  - ![types of test double](./types-of-test-doubles.gif)
 
 # tell, don't ask - law of Demeter
 - This style produces more flexible code because it's easy to swap objects with the same role. The caller sees nothing of their internal structure or the rest of the system behind the role interface.
@@ -204,6 +233,8 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 # Context independence
 - **A system is easier to change if its objects are context-independent: each object has no built-in knowledge about the system.**
 - **The effect of the context-independence rule on a system of objects is to make their relationships explicit, defined separately from the objects themselves. This simplifies the objects and manages the relationships**.
+
+
 
 # Dependency Injection
 - Dependency retention: We don't worry about managing dependencies; we just inline and hard-code everything!
