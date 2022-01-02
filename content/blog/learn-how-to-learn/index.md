@@ -31,11 +31,33 @@ tags: ["productivity", "learning"]
   - real knowledge comes from ability to explain things without using jargon or vague terms, understand how things interact and predict the consequences.
   - distinguish between people who've done the work and those who haven't. The ones who have will pass the [Batesian Mimicry Test](https://fs.blog/batesian-mimicry/)
 
+- 5 stages of learning
+  - unconscious incompetence: 
+    - you don't know what you don't know
+    - you might not even be aware of the fact that something like speed-reading exists.
+    - you're also not aware that you're currently not capable of doing it
+  - conscious incompetence: 
+    - you know what you don't know
+    - you're aware that people have learned to read and comprehend much faster through speed-reading techniques, but you yourself have not had any training in this area.
+  - conscious competence: 
+    - you're aware of a skill and have the capacity to perform that skill, but it requires your conscious attention to do it.
+  - unconscious competence.
+    - you know how to perform a skill, and it's second nature to you.
+    - with speed reading, you would reach the point of unconscious competence when this simply becomes the way you read, without deliberate attention.
+  - true mastery
+    - it's second nature to perform a skill at an elite level.
 
 # [Study group patterns](/study-group-patterns-summary)
 
 # MOM model
 - ![mindset-motivation-method](./3m-models.jpg)
+
+  ## Motivation (the WHY): 
+    - the purpose one has for taking action. The energy required for someone to behave in a particular way
+    - motivation = Purpose x Energy x Small Simple Steps
+      - how connected do I feel to my purpose
+      - how are my day-to-day energy levels
+      - what am I allowing to drain my energy that I no longer should?
   ## Mindset/Observation (the WHAT): 
     - Be aware of how you're holding yourself back to limiting beliefs, deeply held beliefs, attitudes, and assumptions we create about who we are, how the world works, what we're capable of and deserve, and what is possible.
     - none of these are preinstalled at birth, which means you pick them up from your environment and those around you.
@@ -48,12 +70,6 @@ tags: ["productivity", "learning"]
     - learning new things is very difficult -> when you learn new ways how to learn, the challenge of learning new things can be fun, easier, and more enjoyable.
     - criticism of other people matters -> it's not your job to like, love or respect me. It's mine.
     - genius is born -> genius is not born, it's made through deep practice.
-  ## Motivation (the WHY): 
-    - the purpose one has for taking action. The energy required for someone to behave in a particular way
-    - motivation = Purpose x Energy x Small Simple Steps
-      - how connected do I feel to my purpose
-      - how are my day-to-day energy levels
-      - what am I allowing to drain my energy that I no longer should?
   ## Methods (the HOW): 
     - small simple steps repeated lead to habits.
     - creating habits to automate essential parts of our lives is a fundamental streamlining technique that we do largely unconsciously, often to our benefit.
@@ -108,6 +124,8 @@ tags: ["productivity", "learning"]
     - by spacing the intervals out, you're exercising neural connections each time.
     - spaced repetition produces long-term and robust retention of knowledge. 
     - Spaced repetition works best when you review material at similar intervals
+    - review things that you want to understand better
+    - practice what you learned
   - **use your sense of smell**
     - smells bring memories to the forefront of our brains
     - the scent of rosemary has been shown to improve memory
@@ -132,19 +150,35 @@ tags: ["productivity", "learning"]
       - don't change subject or move in a new direction
       - don't rehearse in your own head
       - don't teach or give advice
-
+  - **10 morning habits**
+    - remember your dreams, make your bed, hydrate, brush your teeth with the opposite hand, deep breathing exercises, brain tea, journaling, HIT workout (high intensity interval training), brain power smoothie, read
+    - the first 60 minutes can either set you up for maximum productivity and bring you closer to your long-term and short-term goals or cause you to lose another day to distractions and mental fog.
 
 # System for remembering what you learn
   - Mark up the book while reading it. Questions, thoughts. And, more important connections to other ideas.
   - at the end of each chapter, without looking back, write some notes on the main points/arguments/take-away. Then look back through the chapter and write down anything you missed.
   - specifically note anything that was in the chapter that you can apply somewhere else
   - summary and review the notes periodically
-  - you're more likely to remember what you learn in the beginning of a learning session and the last thing you learned (more recent). Opening primacy and closing recency
+  - super brain yoga
+    - ![super brain yoga](./superbrain-yoga.jpeg)
   - keyword substitution method. This is helpful in learning new language
     - take a picture and substitute it for a word
-  - Intensify: turn into picture (TIP), Using action, exaggeration, emotion to make it illogical
+  - Intensify: 
+    - turn into picture (TIP)
+    - Using action, exaggeration, emotion to make it illogical
   - [blank sheet](#blank-sheet) technique
   - [conventional notes](#conventional-notes) technique
+  
+  ## memory principles
+  - first or primacy
+  - last or recency
+  - well-organized and chunked 
+  - emotional
+  - different or unique
+  - familiar
+  - visualize
+  - connected
+  - associated
   ## Sun list
 | Item      | Association |
 | ------------ | -------------- |
@@ -173,6 +207,8 @@ tags: ["productivity", "learning"]
   - ![brain food association](./brain-food-association.jpg)
 
   ## Chain Linking
+  - link things you want to remember in the chain (hydrant) and a second one (balloon) and then you tie them together using an action, the most exaggerated, unique, funny, emotional, possible. emotion + visualization + action + exaggeration
+  - 
   - `balloons` tied to the red vivid `fire hydrant`. The balloons seemingly come from the `barrel`. Inside the barrel, there is a `board` that closely resembles the shape of a `diamond`. The diamond drops on `Sir lancelot` head. He is then rushed to emergency in a `mask`. The `mask` as it turns out is dirty that it needs to be cleaned with `toothpaste`. The leftover toothpaste is thrown away and now stuck at the `sign` outside the `bar`
   ## Peg memory method
   - With the sun list, we now have 20 pegs.
@@ -180,8 +216,13 @@ tags: ["productivity", "learning"]
   - to create a strong memorable association, we need to use a vivid imagination. We should create an image in our head that is illogical, funny, or cool to make it memorable
     - to remember #9 is people, we could image cat people. That's weird, and funny so it's memorable.
   ## Remember names
+  ### remember name as easy as PIE
+  - place: find a place on the person
+    - focus on a feature (glasses, pair of eyes, earing) to make it easy to remember the name
+  - imagine: imagine name turn into picture
+  - entwine: entwine Place + Image
 
-  **BE SUAVE**
+  ### BE SUAVE
   - believe: once you believe you can do it, you're already halfway there
   - exercise: keep practicing until you become very good at it
   - say: say the person's name back right after you heard it, that way you'd have heard the name twice
@@ -220,11 +261,13 @@ tags: ["productivity", "learning"]
 - get your brain nutrient
   - take a blood test and verify your deficiencies. Then take the appropriate supplements
 - keep a positive peer group
-  - who you spend time with is who you become.
+  - who you spend time with is who you become. People who encourage you and hold you to the  higher standard
+  - join community online (facebook, etc...) to support you with your interests
 - maintain a clean environment
   - meaning clean air, water and space around you
 - get good sleep
   - dreaming is essential for fantastic ideas.
+  - clear your brain of plaque that leads to dementia and Alzheimer
   - sleep is vital for protecting you against age-related brain damage, and it is crucial for day-to-day functioning.
 - protect your brain
   - avoid putting your phone under your pillow and protect yourself from head injuries by wearing a helmet when cycling
@@ -406,6 +449,25 @@ tags: ["productivity", "learning"]
     - 20% of foods you eat cause 80% of your sickness
     - by taking 10 minutes per day for prioritization, you can double your productivity
     - by looking at what experiences give you the most delight, you can begin to engineer your life
+
+## First principles thinking
+- reverse-engineer complicated situations and unleash creative possibility
+- reasoning from first principles, it's a tool to help clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them. what remains are essential.
+- if you know the first principles of something, you can build the rest of your knowledge around them to produce something new.
+- to break down complicated problems into basic elements and then reassemble them from the ground up.
+- it's one of the best ways to learn to think for yourself, unlock your creative potential, and move from linear to non-linear results.
+
+### techniques for establishing first principles
+  - socratic questioning
+    - clarifying your thinking and explaining the origins of your ideas (why do I think this? what exactly do I think?)
+    - challenging assumptions (how do I know this is true? what if I thought the opposite?)
+    - looking for evidence (how can I back this up? what are the sources?)
+    - considering alternative perspectives (what might others think? how do I know I'm correct?)
+    - examining consequences and implications (what if I am wrong? what are the consequences if I am?)
+    - questioning the original questions (why did I think that? was I correct? what conclusions can I draw from the reasoning process?)
+    - the process stops you from relying on your gut and limits strong emotional responses. This process helps you build something that lasts.
+  - five why? 
+    - asking why with the hope to get closer to the truth that we try to understand
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
@@ -455,6 +517,28 @@ tags: ["productivity", "learning"]
 The person who says he knows what he thinks but cannot express it usually does not know what he thinks.
 
 **"borrow liberally, combine uniquely, and create your bespoke blueprint."**
+
+**"first you make your habits and then your habits make you"**
+
+**"anything is good for your heart is good for you head"**
+
+**lifelong learning adds years to your life and life to your years**
+
+TEAM: Together Everyone Achieve More
+
+be kind to yourself
+
+learning is not solo, it's social
+
+genius leaves clues
+
+"What I hear, I forget. What I see, I remember. What I do, I understand"
+
+there's no failure, only failure to learn.
+
+practice makes progress
+
+to understand is to know what to do
 
 # References
 - https://home.mindvalley.com/quests/en/superbrain

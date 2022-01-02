@@ -189,13 +189,52 @@ tags: ["productivity", "learning"]
 ## safe place
 - a good physical environment [common ground](#common-ground), [public living room](#public-living-room) is vital for any study group. Equally vital, is the intellectual environment.
 - **loud-mouths, show-offs, know-it-alls, and people who are overly competitive, adversarial or confrontational, can make other uncomfortable or insecure, and create an environment that is not conductive to learning, sharing or the building of ideas**.
+- when places of learning have highly critical or judgemental natures, an individual's ability to learn can easily be compromised.
+- treat each other as colleagues with respect, despite differences in opinion, acknowledges the mutual risk and establishes the sense of safety in facing the risk.
+- generally, as long as the people arguing are remaining civil (treat each other with kindness, consideration and respect) and as long as the argument isn't too far off the subject being studied, it can be quite instructive for a group to listen and learn.
+- Usually, it is best for someone who is intimate with the group's customs to approach the individual during a short break or [after hours](#after-hours)
+- establish a warm, tolerant, polite and focused environment in which individuals help each other where everyone is comfortable to ask questions and make mistakes.
+- in practice, there will always be some level of personality conflicts or discord within a group. It can help if people get together after a session, [after hours](#after-hours), to talk about the issues.
+## enduring energy
+- this pattern identifies what is needed in a study group to bring it to life, and sustain it over time.
+- **it's fairly easy to start a study group. But keeping it going, so that members are active, dialogues are insightful, and the group is long-lived, is another matter altogether.**
+- a study group's energy initially comes from its founder. If the founder is genuinely interested in creating thriving, long-lasting [pool of insight](#pool-of-insight), to improve himself/herself and his community, the group will start life with a powerful energy. But if founder is merely interested in short-term gains, or personal recognition, the group will be short-lived.
+- In considering the long-term vitality of the group, there are many decisions to make
+  - when will the group meet?
+  - how long will its meetings be?
+  - what will be studied?
+  - if poor or uninformed decisions are made about these issues, a group may be never take root or be long-lived.
+- frequent meetings
+  - it's difficult to maintain any sort of low or continuous energy. A month between meetings is usually far too long for people to maintain focus and enthusiasm. Therefore, have the group meet weekly or bi-weekly
+  - these frequent meetings will allow a group to study effectively and may lead some members to become [kindred collaborators](#kindred-collaborators)
+  - hour meetings
+    - a one hour meeting is typically not enough time for a group to have an insightful dialogue on a piece of literature. But three hours is too much time, since most participants can't actively engage in dialogue for that long
+    - therefore, limit dialogues to a maximum of 2 hours, and if energy has waned significantly before that time, finish the meeting early
+  - short breaks
+    - at a certain time in a dialogue, a group's intensity focus and effectiveness will begin to diminish. If the group doesn't take a break at this time, the quality of the dialogue may begin to deteriorate and people will become uncomfortable.
+    - therefore, allow for a short (10 or 15 minute) break in the middle of a study group session, to let members reflect, chat, use the restrooms, and prepare for the next half of the dialogue.
+  - avoid group meetings in dull, stuffy, maybe windowless, conference room since the location and space will play a huge role in sustaining a group's energy.
+    - places that attract people is usually, spacious, comfortable, energetic. It helps creating bonding and bring life to the dialogues.
+  - **create study groups out of genuine enthusiasm to study a subject in-depth. Meet weekly or bi-weekly for 2 hours, and have a short-break in the middle. Choose a meeting location where people will enjoy passing time, and study only those writings which are worthy of group's attention**
+  - ![enduring energy](./enduring-energy.png)
+  - for ideal meeting environment, look for [common ground](#common-ground) and [public living room](#public-living-room)
+  - create [subgroups](#subgroup) and [study cycle](#study-cycle) to let people place their energy where they best see fit. And when group energy is low, have a [distinguished participant](#distinguished-participant) join the group for an evening
+  - it is a custom of some groups to go out after meetings [after hours](#after-hours) to partake in food and drink. This social time can go far towards sustaining relationships and adding energy back to a group...
 ## common ground
 
+## distinguished participant
+## subgroup
+
+## study cycle
 ## public living room
 
 ## motivated moderator
 
 ## prepared participants
+
+## kindred collaborators
+
+## after hours
 
 # Quotes
 

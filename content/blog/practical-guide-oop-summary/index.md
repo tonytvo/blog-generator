@@ -18,6 +18,7 @@ tags: ["designpatterns", "oop"]
     - [evaluating code based on facts](#evaluating-code-based-on-facts)
   - [judging the design](#judging-the-design)
 - [TDD as design](#tdd-as-design)
+  - [understand transformations](#understand-transformations)
   - [writing cost-effective tests](#writing-cost-effective-tests)
     - [intentional testing](#intentional-testing)
       - [test benefits](#test-benefits)
@@ -140,6 +141,32 @@ tags: ["designpatterns", "oop"]
 - **as the tests get more specific, the code gets more generic**
 - while it is important to consider the problem and sketch out an overall plan before writing the first test, don't over think it
 - you can't figure out what's right until you write some tests. The purpose of some of your tests might very well be to prove that they represent bad ideas.
+
+## understand transformations
+- **if you choose the tests and implementations that employ transformations that are higher on the list, you will avoid the impasse**
+- the process
+  - when passing a test, prefer higher priority transformations
+  - when posing a test choose one that can be passed with higher priority transformations
+  - when an implementation seems to require a low priority transformation, backtrack to see if there is a simpler test to pass
+
+- `{} -> nil` no code at all -> code that employs nil
+  - as we write the first test `wrapNullEmptyString()`, we also write the failing implementation which also employs `({} -> nil)`
+- `nil->constant`
+  - we can make the first test pass by return empty string, which apply `nil->constant` transformation
+- `(constant->constant+)`: a simple constant to a more complex constant
+  - we can then write the next test that employs `(constant->constant+)`
+  - `oneShortWordDoesNotWrap() { assertThat(wrap("word", 5), is("word")) }`
+- `(unconditional->if)`
+- `(constant->scalar)`
+  - making the `oneShortWordDoesNotWrap` test pass by using both `(unconditional->if)` and `(constant->scalar)`
+```java
+public static String wrap(String s, int length) {
+  if (s == null)
+    return "";
+  return s;
+}
+```
+
 ## writing cost-effective tests
 
 ### intentional testing
