@@ -233,6 +233,15 @@ tags: ["productivity", "learning"]
 ## prepared participants
 
 ## kindred collaborators
+- when a study group has an enduring energy, people get to know each other, a community forms, and there is a lasting possibility for collaborations and working relationships
+- **so many people dislike networking. They want to grow professionally, and they think that networking can help, but they don't know how, where and with whom to network effectively.**
+- many people feel isolated in their jobs. So much of their time is spent working that there is little time left to pursue genuinely interests them.
+  - some try to organize study groups within their own companies, but if often fails due to lack of interest, or because many people prefer to be outside of work when they have any free time.
+  - some people go to conferences lectures, user groups and parties in the hope of advancing their careers and themselves. Often, they end up frustrated in reality, they don't grow professionally at these meetings and their networking is ineffective. The trouble often results from what may be described as weak connections that develop between people who meet in large groups.
+  - In frequently meeting study group, people get to know each other over time. They learn what they like and dislike, what they excel at and where they are weak, where they are in their careers and where they'd like to go. This level of familiarity forms the foundation for a rich network that can yield very real career and collaboration possibilities.
+  - As one gets to know others within a group, one can get a very good idea of who would be good for a specific projects
+- ![kindred collaborator](./kindred-collaborator.png)
+- quality networking happens best when a study group is a [safe place](#safe-place) composed of diverse individuals and true peers. The best time for networking is either before study groups meets or [after hours](#after-hours)
 
 ## after hours
 
