@@ -19,6 +19,9 @@ tags: ["designpatterns", "oop"]
   - [judging the design](#judging-the-design)
 - [TDD as design](#tdd-as-design)
   - [understand transformations](#understand-transformations)
+  - [tolerating duplication](#tolerating-duplication)
+  - [exposing responsibilities](#exposing-responsibilities)
+  - [choosing names](#choosing-names)
   - [writing cost-effective tests](#writing-cost-effective-tests)
     - [intentional testing](#intentional-testing)
       - [test benefits](#test-benefits)
@@ -138,12 +141,13 @@ tags: ["designpatterns", "oop"]
   - there is a tradeoff between the amount of time spent designing and the amount of time this design saves in the future (and there is a break-even point).
   - when the act of design prevents software from being delivered on time, you have lost.
 # TDD as design
-- **as the tests get more specific, the code gets more generic**
 - while it is important to consider the problem and sketch out an overall plan before writing the first test, don't over think it
 - you can't figure out what's right until you write some tests. The purpose of some of your tests might very well be to prove that they represent bad ideas.
 
 ## understand transformations
+- [transformation priority premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - **if you choose the tests and implementations that employ transformations that are higher on the list, you will avoid the impasse**
+- the code go through a sequence of transformation from **specific to generic**
 - the process
   - when passing a test, prefer higher priority transformations
   - when posing a test choose one that can be passed with higher priority transformations
@@ -158,6 +162,7 @@ tags: ["designpatterns", "oop"]
   - `oneShortWordDoesNotWrap() { assertThat(wrap("word", 5), is("word")) }`
 - `(unconditional->if)`
 - `(constant->scalar)`
+  - variable is a generalization of constants
   - making the `oneShortWordDoesNotWrap` test pass by using both `(unconditional->if)` and `(constant->scalar)`
 ```java
 public static String wrap(String s, int length) {
@@ -166,7 +171,77 @@ public static String wrap(String s, int length) {
   return s;
 }
 ```
+- `statement->statements`
+- `(scalar->array)`
+- `(array->container)`
+- `(statement->recursion)`
+- `(if->while)`
+from
+```java
+if (s.length() > length) {
+  result = s.substring(0, length) + "\n";
+  s = s.substring(length);
+}
+result += s;
+```
 
+to
+```java
+while(s.length()>length) {
+  result += s.substring(0, length) + "\n";
+  s = s.substring(length);
+}
+result += s;
+```
+- `(expression->function)` replacing an expression with a function or algorithm
+- `(variable->assignment)`
+
+## tolerating duplication
+- **as tests get more specific, code should become more generic**. Code become more generic by becoming more abstract. One way to make code more abstract is to DRY it out.
+- DRY is important but if applied too early, and with too much vigour, it can do more harm than good. It's a good idea to ask the following questions when doing so:
+  - Does the change I'm contemplating make the code harder to understand? Be suspicious of any change that muddles the waters?
+  - what is the future cost of doing nothing now?
+    - some changes cost the same regardless of whether you make them now or delay them until later.
+    - **if it doesn't increase your costs, delay making changes**
+  - when will the future arrive, or how soon will I get more information?
+    - it's better to tolerate duplication than to anticipate the wrong abstraction
+- writing shameless green means optimising for understandability, not changeability, and patiently tolerating duplication if doing so will help reveal the underlying abstraction.
+
+## exposing responsibilities
+- **duplication is useful when it supplies independent, specific examples of a general concept that you don't yet understand.**
+- the goal is to use green to maximize your understanding of the problem and to unearth all available information before committing to abstractions.
+- when the new code muddles rather than clarifies the waters, and it's important to understand why.
+- Green Bar patterns:
+  - fake it ("Till you make it")
+    - developing habits of writing just enough code to pass the tests forces you to write better tests.
+    - it also provides an antidote for the hubris of thinking you know what's right when you're actually wrong.
+  - obvious implementation
+    - it's best to save obvious implementation for very small leaps.
+  - triangulate
+    - requires writing several tests at once, which means you'll have multiple simultaneous broken tests
+    - the idea is to write one bit of code which makes all of the tests pass.
+    - triangulation is meant to force you to converge upon the correct abstraction in your code.
+- the small steps of TDD act to incrementally review the correct implementation, **skipping these incremental steps means you miss the opportunity of being set right**.
+
+## choosing names
+
+
+```ruby
+def song
+  verses(0, 99)
+end
+```
+- is song method needed?
+  - answering this question requires thinking about the problem from the message sender point of view.
+  - knowledge that one object has about another creates a dependency. Dependencies tie objects together, exacerbating the ost of change.
+  - using verses method to request the entire song, however, requires significantly more knowledge. the sender must know
+    - the name of hte verses method
+    - that the method requires 2 arguments
+    - that the first argument is the verse on which to start
+    - that the second argument is the verse on which to end
+    - that the song starts on verse 99
+    - that the song ends on verse 0
+    - there are many ways in which the verses method could change that would break senders of this message.
 ## writing cost-effective tests
 
 ### intentional testing
