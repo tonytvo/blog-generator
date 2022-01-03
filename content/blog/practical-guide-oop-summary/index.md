@@ -22,6 +22,7 @@ tags: ["designpatterns", "oop"]
   - [tolerating duplication](#tolerating-duplication)
   - [exposing responsibilities](#exposing-responsibilities)
   - [choosing names](#choosing-names)
+  - [avoiding the echo-chamber](#avoiding-the-echo-chamber)
   - [writing cost-effective tests](#writing-cost-effective-tests)
     - [intentional testing](#intentional-testing)
       - [test benefits](#test-benefits)
@@ -41,10 +42,13 @@ tags: ["designpatterns", "oop"]
     - [testing duck types](#testing-duck-types)
     - [testing inherited code](#testing-inherited-code)
 - [unearthing concepts](#unearthing-concepts)
+  - [listening to change](#listening-to-change)
+  - [starting with the open/close principle](#starting-with-the-openclose-principle)
+  - [follow the flocking rules](#follow-the-flocking-rules)
+  - [converging on abstractions](#converging-on-abstractions)
   - [creating classes with single responsibility](#creating-classes-with-single-responsibility)
   - [creating flexible interfaces](#creating-flexible-interfaces)
-- [practising horizontal refactoring](#practising-horizontal-refactoring)
-  - [technique 1: flocking rules for refactoring](#technique-1-flocking-rules-for-refactoring)
+- [practising refactoring](#practising-refactoring)
   - [technique 2: the open-closed flowchart](#technique-2-the-open-closed-flowchart)
 - [separating responsibilities](#separating-responsibilities)
   - [managing dependencies](#managing-dependencies)
@@ -242,6 +246,43 @@ end
     - that the song starts on verse 99
     - that the song ends on verse 0
     - there are many ways in which the verses method could change that would break senders of this message.
+  - reveal the intention
+    - the distinction between intention and implementation ... allows you to understand a computation first in essence and later, if necessary, in detail.
+    - song is the intention, `verses(99,0)` is the implementation.
+## avoiding the echo-chamber
+- programmers who are hyper-alert to duplication, might be tempted to test `song` like this
+
+```ruby
+def test_the_whole_song
+  bottles = Bottles.new
+  assert_equal bottles.verses(99, 0), bottles.song
+end
+```
+- this test has a major flaw that can cause it toggle from "short and sweet" to "painful and costly" in the blink of an eye. This flaw lies dormant until something changes, so the benefits of writing tests like this accrue to the writer today, while the costs are paid by the unfortunate maintainer in the future.
+  - the test is coupled to the implementation details of song such that it will break if the signature or behavior of verses changes, even if song continues to return the correct lyrics
+- if you change an implementation detail while retaining existing behaviour and are then confronted with a sea of unrelated red tests, you're right to be exasperated. **This is completely avoidable, and a sign that tests are too tightly coupled to code. Such tests impede change and increase costs**
+- the `song` test should know nothing about how the `Bottles` class produces the song. The clear and unambiguous expectation here is that the song return the complete set of lyrics, and the best way and easiest way to do that is to assert that it does:
+```ruby
+def test_the_whole_song
+  expected = <<-SONG
+ALL
+# ...
+THE
+# ...
+LYRICS
+  SONG
+  bottles = Bottles.new
+  assert_equal expected, bottles.song
+end
+```
+- if you find hte duplication distressing, consider the alternatives. Your choices are:
+  - assert that the expected output matches that of some other method.
+    - tests are coupled to the implementation, so these dependencies mean changes to the system under test might break the tests.
+  - assert that the expected output matches a dynamically generated string.
+    - reducing string duplication inside the test would require logic. Regardless of how you do it, any logic here would bind the tests to implementation details and any change to the system under test might break the test.
+  - assert that the expected output matches a hard-coded string.
+    - not only is the expected output clearly and unambiguously stated, but the test has no dependencies.
+
 ## writing cost-effective tests
 
 ### intentional testing
@@ -252,10 +293,12 @@ end
 - deferring design decisions
   - intentionally depending on interfaces allows you to use tests to put off design decision safely and without penalty
 - supporting abstractions
-  - tests are your record of hte interface of every abstraction. They let you put off design decisions and create abstractions to any useful depth.
+  - tests are your record of the interface of every abstraction. They let you put off design decisions and create abstractions to any useful depth.
 - exposing design flaws
   - if a test requires painful setup, the code expects too much context.
   - if the test is hard to write, other objects will find the code difficult to reuse.
+- good tests not only tell a story, but they lead, step by step, to a well-organised solution.
+- **test are not a place for abstractions, they are the place for concretions. Abstractions belong to the code**.
 
 #### knowing what to test
 - dealing with objects as if they are only and exactly the messages to which they respond lets you design a changeable application, and it is your understanding of the importance of this perspective that allows you to create tests that provide maximum benefit at minimum cost.
@@ -366,18 +409,90 @@ def test_forces_subclasses_to_implement_default_tire_size
 - testing abstract super class behavior
   - you can stub the behavior that would normally be supplied by subclasses (follow liskov substitution principle)
   - be especially careful when testing subclass specializations to prevent knowledge of the superclass from leaking down into the subclass's test
+
+
 # unearthing concepts
+## listening to change
+- if the problem is solved, and you choose to refactor now rather than later, you pay the opportunity cost of not being able to work on other problems
+  - **spending time "improving" code based purely on aesthetics may not be the best use of your precious time.**
+- the need for change imposes higher standards on the affected code. **Code that never changes obviously doesn't need to be changable, but once a new requirement arrives, the bar is raised**.
+
+## starting with the open/close principle
+- **code is open to a new requirement when you can meet the new requirement without changing the existing code.**
+- **when faced with a new requirement, first rearrange the existing code such that it's open to the new feature, and once that's complete, then add the new code**
+- the trick to successfully improving code that contains many flaws is to isolate and correct them one at a time
+- if you are unclear about how to make it open, the way forward is to start removing code smells
+- you should never change tests during a refactoring, if your tests are flawed such that they interfere with refactoring, improve them first, and then refactor
+## follow the flocking rules
+- rules
+  - select the things that are most alike
+  - find the smallest difference between them
+  - make the simplest change that will remove that difference.
+- as you follow the flocking rules
+  - change only 1 line at a time
+  - run the tests after every change
+  - if the tests fail, undo and make a better change.
+- changes to code can be subdivided into 4 distinct steps
+  - parse the new code: confirm the syntax is valid
+  - parse/execute step: proving that code runs without blowing up
+  - parse/execute and use its result: ensure that it returns the correct result
+  - delete unused code
+- why `Flocking`?
+  - the group's behavior is the result of a continuous series of small decisions being made by each participating individual. These decisions are guided by three simple rules
+    - alignment - steer towards the average heading of neighbors
+    - separation - don't get too close to a neighbor
+    - cohesion - steer towards the average position of the flock.
+  - the "flocking rules" for code allow abstractions to appear.
+- making existing code open to a new requirement often requires identifying and naming abstractions. The flocking rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions.
+
+## converging on abstractions
+- focusing on difference
+  - DRYing out sameness has some value, but DRYing out difference has more.
+  - encapsulating the concept that varies, a theme of many design patterns.
+  - difference holds the key to understanding. If 2 concrete examples represent the same abstraction and they contain a difference, that difference must represent a smaller abstraction with a larger one. if you can name the difference, you've identified that smaller abstraction.
+- simplifying a hard problem
+  - many programmers gravitate towards starting a problem at its most confusing part.
+  - solving easy problems, through a magical alchemy of code, sometimes transmutes hard problems into easy ones. It is common to find that hard problems are hard only because the easy ones have not yet been solved.
+- naming concepts
+  - general rule and new requirement can help in the struggle for a name.
+  - the name you choose will be the name you use in conversations with your customers. Naming things after domain concepts improves communication between you and the folks who pay the bills. Only good can come of this.
+  - notice the following difference
+```ruby
+`${number -1} bottle of bear on the wall.\n`
+`${number -1} bottles of beer on the wall.\n`
+```
+    - what the words "bottle" and "bottles" represent in the context of the song?
+      - within the context of song, "bottle/bottles" does not represent pluralization.
+      - the new requirement involve with the need to say "six pack" instead of "bottle/bottles". The string "six pack" is one more concrete example of the underlying abstraction.
+      - the general rule is that the name of a thing should be one level of abstraction higher than the thing itself. The strings "bottle/bottles/six-pack" are instances of some category, and the task is to name that category using language of the domain
+      - one way to identify category is to imagine the concrete examples as rows and columns in a spreadsheet
+      - the header "number" is a level of abstract higher than the concrete examples. "1", "6", and "n" are numbers
+      - container is meaningful, understandable and unambiguous.
+| Number      | xxx? |
+| ------------ | -------------- |
+| 1      | bottle       |
+| 6   | six-pack       |
+| n   | bottles       |
+- [follow the flock rule](#follow-the-flocking-rules) example
+  - add new container method with 1 line return `bottles`
+  - replace the first client code to use `container()` method instead of `bottles`
+  - add parameter argument `number`
+  - expand the code in `container` to use `number` to decide which of `bottle` or `bottles` to return
+    - could be expressed in ternary form as `number === 1? "bottle": "bottles" `
+  - change other references to use `container` method
+
+
 ## creating classes with single responsibility
 ## creating flexible interfaces
 
 
-# practising horizontal refactoring
-## technique 1: flocking rules for refactoring
-- steps
-  - select the things that are most alike
-  - find the smallest difference between them
-  - make the simplest change that will remove that difference.
-- making existing code open to a new requirement often requires identifying and naming abstractions. The flocking rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions.
+# practising refactoring
+- if you simultaneously change many things and something breaks, you're forced to understand everything in order to fix anything.
+- making a slew of simultaneous changes is not refactoring - it's rehacktoring.
+- gradual cutover refactoring
+  - a strategy for keeping the code in a releasable state by gradually switching over a small number of pieces at a time. This type of refactoring can be done alongside other development work without affecting the release schedule.
+  - let red be your guide. If you take a giant step and the tests begin to fail, undo and fall back to making smaller changes.
+- real refactoring is comfortingly predictable, and saves brainpower for more thought provoking challenges.
 
 ## technique 2: the open-closed flowchart
 - [open closed flowchart](./open-closed-flowchart.png)
