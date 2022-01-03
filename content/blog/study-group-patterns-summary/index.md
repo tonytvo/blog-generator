@@ -138,6 +138,19 @@ tags: ["productivity", "learning"]
   - the coach is the leader of the team. If the coach doesn't value learning, the team won't either.
   - the coach must lead by example. This means that the coach will seek out and obtain coaching and mentoring from the best sources available.
   - coaches must strive to learn about their customer's needs, team or personality conflicts, new technologies, and the latest wisdom about XP and other lightweight methods.
+- patterns are grouped into 4 secions
+  - spirit
+    - after identifying a great source knowledge in a subject, work to create a rewarding, intellectually safe environment for hte study of that subject. 
+    - contains [knowledge hydrant](#knowledge-hydrant), [pool of insight](#pool-of-insight), [safe place](#safe-place), [enduring energy](#enduring-energy), and [kindred collaborator](#kindred-collaborators)
+  - atmosphere
+    - establish a home for the study group that is centrally located, comfortable, aesthetically pleasing and conductive a dialogue
+    - contains [common ground](#common-ground), [public living room](#public-living-room), [intimate circle](#intimate-circle) and [virtual space](#virtual-space)
+  - roles
+    - lead and energize the group, come prepared and help guide dialogues so that they are insightful and productive
+    - contains [enthusiastic leader](#enthusiastic-leader), [motivated moderator](#motivated-moderator), [active participant](#active-participant), [prepared participant](#prepared-participant), and [distinguished participant](#distinguished-participant)
+  - customs
+    - follow customs that will re-enforce the spirit of the group, piquing participant's interest in dialogues, accomodating different learning levels, making the study of literature easier, recording group experiences, and drawing people closer together.
+    - contains [opening question](#opening-question), [sequential study](#sequential-study), [agenda](#agenda), [subgroup](#subgroup), [distributed diary](#distinguished-diary) and [after hours](#after-hours)
 
 ## retrospectives
 - the continuous learning approach to retrospectives means they come not at the end of a project, but at the end of every iteration.
@@ -166,8 +179,6 @@ tags: ["productivity", "learning"]
 - how do you find the great literature worthy of study? Ask people. Ask knowledgeable people which authors they like, what are their favorite books, what profoundly influenced them?
 - after identifying the works, form or join a study group, [pool of insight](#pool-of-insight), order the works to be studied [sequential study](#sequential-study) and compose an [agenda](#agenda)
 
-## sequential study
-
 ## pool of insight
 - once you've discovered your [knowledge hydrant](#knowledge-hydrant), it can be overshelming to drink from it. This pattern suggests how to make the study of great literature easier and more rewarding
 - there's nothing wrong with reading and studying literature on one's own. But great literature is worth knowing well, and individual study pales in comparison with teh study of literature in a group dialogue.
@@ -184,8 +195,6 @@ tags: ["productivity", "learning"]
 - the best study groups are those in which individuals feel comfortable learning with others [safe place](#safe-place)
 - some environments promote dialogues, [common ground](#common-ground) and [public living room](#public-living-room)
 - the most enriching study happens when a group has a [motivated moderator](#motivated-moderator) and [prepared participants](#prepared-participants)
-## agenda
-
 ## safe place
 - a good physical environment [common ground](#common-ground), [public living room](#public-living-room) is vital for any study group. Equally vital, is the intellectual environment.
 - **loud-mouths, show-offs, know-it-alls, and people who are overly competitive, adversarial or confrontational, can make other uncomfortable or insecure, and create an environment that is not conductive to learning, sharing or the building of ideas**.
@@ -220,18 +229,6 @@ tags: ["productivity", "learning"]
   - for ideal meeting environment, look for [common ground](#common-ground) and [public living room](#public-living-room)
   - create [subgroups](#subgroup) and [study cycle](#study-cycle) to let people place their energy where they best see fit. And when group energy is low, have a [distinguished participant](#distinguished-participant) join the group for an evening
   - it is a custom of some groups to go out after meetings [after hours](#after-hours) to partake in food and drink. This social time can go far towards sustaining relationships and adding energy back to a group...
-## common ground
-
-## distinguished participant
-## subgroup
-
-## study cycle
-## public living room
-
-## motivated moderator
-
-## prepared participants
-
 ## kindred collaborators
 - when a study group has an enduring energy, people get to know each other, a community forms, and there is a lasting possibility for collaborations and working relationships
 - **so many people dislike networking. They want to grow professionally, and they think that networking can help, but they don't know how, where and with whom to network effectively.**
@@ -243,7 +240,50 @@ tags: ["productivity", "learning"]
 - ![kindred collaborator](./kindred-collaborator.png)
 - quality networking happens best when a study group is a [safe place](#safe-place) composed of diverse individuals and true peers. The best time for networking is either before study groups meets or [after hours](#after-hours)
 
+## common ground
+- people lack a place where they can have regular, meaning ful dialogues with other people in a casual, social setting. Work and home don't provide it, and many clubs or groups also don't provide it because they meet in lifeless environments that feel like someone else's turf
+- people need informal public places where they can gather, put aside the concerns of work and home, relax and talk. Germany's beer gardens, English's pubs, and French and Viennese cafes created this outlet in people's lives, providing a neutral ground where all are equal and conversation is the main activity.
+- without such places, the urban area fails to nourish the kinds of relationships and the diversity of human contact that are essence of the city. Deprived of these settings, people remain lonely within their crowds.
+- it's naturally to choose one of the company's conference rooms as a meeting location as it is spacious quiet, filled with white boards, available after hours, and free. However, it's not a good choice, since both employees and visitors to the company, generally don't like to spend their free time in stuffy, stale, office environments.
+- **hold public study groups where diverse individuals will all be on common ground. The best locations are easy for people to get to, but not too close to their offices or homes.**
+- once common ground has been selected, a group must find a [public living room](#public-living-room), a comfortable, relaxing, dialogue-friendly place.
+## public living room
+- **inhospitable physical locations - stale, lifeless, badly lit, and uninviting - stifle individuals and thereby hinder lively, engaging dialogues.**
+- allow traffic to flow with minimum disruptions since members often arrive late, leave early, get up for snacks or use the restrooms.
+- sitting circle
+  - place each sitting space in a position which is protected, not cut by paths or movements, roughly circular, made so that the room itself helps suggest the circle, not too strongly, with pats and activities around it, so that people naturally gravitate toward the chairs when they get into the mood to sit.
+- different chairs
+  - helps people understand that the seating preferences of diverse people differ and that a group will be most comfortable if a space is outfitted with "a variety of different chairs, some big, some small, some softer than others, some rockers, some very old, some new, with arms, without arms, some wicker, some wool, some cloth."
+- pool of light
+  - place the lights low, and apart, to form individual pools of light which encompass chairs and tables, like bubbles to reinforce the social character of the spaces which they form.
+- choose a warm, spacious establishment where people will enjoy mingling before and after study session, where there is comfortable, rearrangable furniture, plenty of warm lighting, and a variety of foods and drinks.
+- some groups may choose to reserve space or arrange to meet at a location when it closes to the public to avoid noises at certain times of day.
+- ![public living room layout](./public-living-room.png)
+## intimate circle
+
+## virtual space
+
+## enthusiastic leader
+
+## motivated moderator
+
+## active participant
+
+## prepared participant
+
+## distinguished participant
+## subgroup
+
+## distinguished diary
+## study cycle
+
+## opening question
+
+## agenda
+
 ## after hours
+
+## sequential study
 
 # Quotes
 
