@@ -166,6 +166,7 @@ tags: ["productivity", "learning"]
   - Intensify: 
     - turn into picture (TIP)
     - Using action, exaggeration, emotion to make it illogical
+  - schedule your activities
   - [blank sheet](#blank-sheet) technique
   - [conventional notes](#conventional-notes) technique
   
@@ -215,6 +216,18 @@ tags: ["productivity", "learning"]
   - associate the item with the Sun List.
   - to create a strong memorable association, we need to use a vivid imagination. We should create an image in our head that is illogical, funny, or cool to make it memorable
     - to remember #9 is people, we could image cat people. That's weird, and funny so it's memorable.
+  ## memory-palace method
+  - create 10 landmarks
+    - select 2 rooms in your home and create 5 landmarks in each.
+    - imagine you are standing in the doorway and go clockwise
+    - pick places, not empty space - so don't pick a corner of the room; pick something in it.
+    - pick things that are relatively large - so pick the coffee table, not the figures in it.
+    - pick only one of each item per room, if you have 4 chairs, use one chair
+    - if you need to create more than 10 landmarks, use other rooms. You can also use your office, your car, and more.
+  - pair each key point to a landmark
+    - create an image for each key point
+    - put each key point into its corresponding place
+
   ## Remember names
   ### remember name as easy as PIE
   - place: find a place on the person
@@ -539,6 +552,10 @@ there's no failure, only failure to learn.
 practice makes progress
 
 to understand is to know what to do
+
+"the key to better comprehension is asking better questions"
+
+you shall receive when you ask questions
 
 # References
 - https://home.mindvalley.com/quests/en/superbrain
