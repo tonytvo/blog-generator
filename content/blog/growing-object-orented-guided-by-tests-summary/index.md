@@ -96,18 +96,28 @@ tags: ["selftestingcode", "evolutionarydesign"]
 
 # tell, don't ask - law of Demeter
 - This style produces more flexible code because it's easy to swap objects with the same role. The caller sees nothing of their internal structure or the rest of the system behind the role interface.
+- When messages are trusting and ask for what the sender wants instead of telling receiver how to behave, objects naturally evolve public interfaces that are flexible and reusable in novel and unexpected ways.
 - we ask when
   - getting information from values and collections
   - using a factory to create new objects
   - searching or filtering
 - **We can specify how we expect the target object to communicate with its mock for a triggering event -> expectations**
 - **we can use the test to help us tease out the supporting roles our object needs, defined as Java interfaces, and fill in actual implementations as we develop the rest of the system -> interface discovery**
-- the essential structure of a test:
-  - creating any required mock objects
-  - create any natural objects
-  - specify how you expect the mock objects to be called by the target object
-  - call the triggering method on the target object
-  - assert that any resulting values are valid and that all the expected calls have been made.
+- **only talk to your immediate neighbors**
+- certain "violations" of demeter reduce your application's flexibility and maintainability, while others make perfect sense. Additionally, violations typically lead to objects that require lots of context
+- the definition "only use one dot" is not always right. There are cases that use multiple dots that do not violate Demeter
+  - **access distant attribute** `customer.bicycle.wheel.tire`
+    - it may be cheapest in your specific case to reach through intermediate objects than to go around
+    - consider moving behavior using that tire attribute to wheel object
+  - **invokes distant behavior** `customer.bicycle.wheel.rotate`
+    - the cost is high. This violation should be removed
+  - `hash.keys.sort.join(',')`
+    - no violation
+    - `hash.keys.sort.join` actually returns an Enumerable of Strings, all of the intermediate objects have the same type and there is no Demeter violation.
+- delegation removes visible violations but ignores demeter's spirit. Using delegation to hide tight coupling is not the same as decoupling code.
+- **demeter violations are clues of missing objects whose public interface you have not yet discovered**
+- if you shift to a message-based perspective, the messages you find will become public interfaces in the objects they lead you to discover. However, if you are bound by the shackles of existing domain objects, you will end up assembling their existing public interfaces into long message chains and thus will miss the opportunity to find and construct flexible public interfaces.
+
 
 # Kick-staring the test-driven cycle
 - To run an initial end-to-end test that fails is already a lot of work. However, deploying and testing right from the start of a project forces the team to understand how their system fits into the world. it flushes out the "unknown."
@@ -125,6 +135,13 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - the automated deployment helps us frequently release to real users, which gives us feedback
   - the great benefit is that we will be able to make changes in response to whatever we learn from feedback.
 - Expose uncertainty early by testing our assumptions as early as possible.
+- the essential structure of a test:
+  - creating any required mock objects
+  - create any natural objects
+  - specify how you expect the mock objects to be called by the target object
+  - call the triggering method on the target object
+  - assert that any resulting values are valid and that all the expected calls have been made.
+
 
 # Maintaining the test-drive cycle
 - start each feature with an acceptance test
@@ -237,16 +254,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 
 
 
-# Dependency Injection
-- Dependency retention: We don't worry about managing dependencies; we just inline and hard-code everything!
-- Dependency rejection, an excellent term (coined by Mark Seemann, above), in which we avoid having any dependencies in our core business logic. We do this by keeping all I/O and other impure code all the "edges" of our domain.
-- Dependency parameterization, in which we pass in all dependencies as parameters. This is commonly used in conjunction with partial application.
-- Dependency injection and the reader monad, in which we pass in dependencies after the rest of the code has already been constructed. This is typically done via constructor injection in OO-style code, and in FP-style principle, this corresponds to the Reader monad.
-- Dependency interpretation: We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and FP (e.g. free monads)
-- Need to elaborate more on these patterns
-  - https://fsharpforfunandprofit.com/posts/dependencies/
-  - https://blog.thecodewhisperer.com/series#dependency-inversion-principle-dip
-  - https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+# [Dependency Injection](/dependency-injection)
 
 # The sample project - analysis
 - the business rules can be summarized with the following picture

@@ -47,7 +47,16 @@ tags: ["designpatterns", "oop"]
   - [follow the flocking rules](#follow-the-flocking-rules)
   - [converging on abstractions](#converging-on-abstractions)
   - [creating classes with single responsibility](#creating-classes-with-single-responsibility)
+    - [determining if a class has a single responsibility](#determining-if-a-class-has-a-single-responsibility)
+    - [writing code that embraces change](#writing-code-that-embraces-change)
+    - [enforce single responsibility everywhere](#enforce-single-responsibility-everywhere)
   - [creating flexible interfaces](#creating-flexible-interfaces)
+    - [find good public interface](#find-good-public-interface)
+    - [create explicit interfaces](#create-explicit-interfaces)
+    - [honor the public interfaces of others](#honor-the-public-interfaces-of-others)
+    - [exercise caution when depending on private interfaces](#exercise-caution-when-depending-on-private-interfaces)
+    - [minimize context](#minimize-context)
+    - [the law of demeter](#the-law-of-demeter)
 - [practising refactoring](#practising-refactoring)
   - [technique 2: the open-closed flowchart](#technique-2-the-open-closed-flowchart)
 - [separating responsibilities](#separating-responsibilities)
@@ -140,13 +149,24 @@ tags: ["designpatterns", "oop"]
   - any decision you make in advance on an explicit requirement is just a guess. Preserve your ability to make a decision later
 - metrics are not direct indicators of quality but are proxies for a deeper measurement.
 - The ultimate software metric would be cost per feature over time interval that matters, but this is not easy to calculate. Cost, feature, and time are individually difficult to define, track and measure.
-- your goal is to write software with teh lowest cost per feature.
+- your goal is to write software with the lowest cost per feature.
 - you decision about how much design to do depends on 2 things: your skills and your time frame.
   - there is a tradeoff between the amount of time spent designing and the amount of time this design saves in the future (and there is a break-even point).
   - when the act of design prevents software from being delivered on time, you have lost.
 # TDD as design
 - while it is important to consider the problem and sketch out an overall plan before writing the first test, don't over think it
 - you can't figure out what's right until you write some tests. The purpose of some of your tests might very well be to prove that they represent bad ideas.
+- the code should have the following qualities
+  - transparent
+    - the consequences of change should be obvious in the code that is changing and in distant code that relies upon it
+  - reasonable
+    - small changes in requirements require correspondingly small changes in code
+    - changes has no unexpected side effects
+  - usable
+    - existing code should be usable in new and unexpected contexts
+  - exemplary
+    - the code itself should encourage those who change it to perpetuate these qualities
+
 
 ## understand transformations
 - [transformation priority premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
@@ -204,7 +224,7 @@ result += s;
 - **as tests get more specific, code should become more generic**. Code become more generic by becoming more abstract. One way to make code more abstract is to DRY it out.
 - DRY is important but if applied too early, and with too much vigour, it can do more harm than good. It's a good idea to ask the following questions when doing so:
   - Does the change I'm contemplating make the code harder to understand? Be suspicious of any change that muddles the waters?
-  - what is the future cost of doing nothing now?
+  - **what is the future cost of doing nothing now?**
     - some changes cost the same regardless of whether you make them now or delay them until later.
     - **if it doesn't increase your costs, delay making changes**
   - when will the future arrive, or how soon will I get more information?
@@ -275,7 +295,7 @@ LYRICS
   assert_equal expected, bottles.song
 end
 ```
-- if you find hte duplication distressing, consider the alternatives. Your choices are:
+- if you find the duplication distressing, consider the alternatives. Your choices are:
   - assert that the expected output matches that of some other method.
     - tests are coupled to the implementation, so these dependencies mean changes to the system under test might break the tests.
   - assert that the expected output matches a dynamically generated string.
@@ -351,7 +371,7 @@ end
   - if you are doing BDD, your application might not yet contain any object that plays this role; you may be forced to manufacture something just to write the test.
 
 ### creating test double
-- [more on test doubles](/growing-object-orented-guided-by-tests-summary#mock-roles-not-objects)
+- [more on test doubles](../growing-object-orented-guided-by-tests-summary/index.md#mock-roles-not-objects)
 - when diameterizable's interface changes from diameter to width, and `Wheel` get updated but `Gear` does not
   - since the dimeterizabledouble is injected, the test continues to pass even though the application is definitely broken
   - this is where the stubbing and mocking could make the tests brittle.
@@ -483,8 +503,102 @@ def test_forces_subclasses_to_implement_default_tire_size
 
 
 ## creating classes with single responsibility
-## creating flexible interfaces
+- a class **must have data and behavior (methods)**. If one of these is missing, the code doesn't belong to a class.
 
+### determining if a class has a single responsibility
+- rephrase every one of its methods as a question, asking the question ought to make sense.
+  - "Please Mr. Gear, what is your ratio?" - makes sense
+  - 'Please Mr. Gear, what is your tire size?" - Doesn't make sense = does not belong here
+- describe the class in 1 sentence.
+  - class should do the smallest possible useful thing
+  - when the description contains the words "and" or "or", it means that the class has more than one responsibility
+    - Gear's responsibility: "calculate the effect that a gear has on a bicycle"
+
+### writing code that embraces change
+- **depend on behavior (methods), not data**
+  - never call @variables inside methods, use wrapper methods instead
+    - [wrong code example](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_2.rb#L61-**L71**)
+    - [right code example](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_2.rb#L73-L102)
+  - data very often has behavior that you don't yet know about.
+- **hide data structures**
+  - if the class uses complex data structures, write wrapper methods that decipher the structure and depend on those methods
+    - [wrong code example](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_2.rb#L105-L117)
+    - [right code example](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_2.rb#L124-L141)
+  - it trades indexing into a structure for sending messages to an object. The `wheelify` method above isolates the messy structural information and DRYs out the code
+
+### enforce single responsibility everywhere
+- extract extra responsibilities from methods
+  - methods with single responsibility have these benefits
+    - clarify what hte class does
+    - avoid the need for comments
+    - encourage reuse
+    - easy to move to another class
+  - ask questions about what they do and try to describe their responsibilities in a single sentence.
+  - separating iteration from the action that's being performed on each element (common case of single responsibility in methods)
+  - don't decide; preserve your ability to make a decision later.
+  - concentrate on the primary class. Decide on its responsibilities and enforce your decision fiercely. If you identify extra responsibilities that you cannot yet remove, isolate them. Do not allow extraneous responsibilities to leak into your class
+    - [example using struct](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_2.rb#L176-L197)
+
+## creating flexible interfaces
+- ![bad vs good interface](./communication-patterns-bad-vs-good.png)
+- good public interface structure
+  - objects reveals as little of themselves as possible
+  - objects know as little of their neighbors as possible
+  - Result: plugable, component-like objects
+  - reveals the class's primary responsibility
+    - the public interface should correspond to the class's responsibility. A single responsibility may require multiple public methods. However, too many loosely related public methods can be a sign of single responsibility violation
+  - are expected to be invoked by others
+  - will not change on a whim
+  - are safe for other to depend on, since it is less changable
+  - are thoroughly documented in tests
+
+### find good public interface
+- **focus on messages, not domain objects (classes)**
+- you don't send messages because you have objects, you have objects because you send message.
+  - design experts notice domain objects without concentrating on them; they focus not on these objects but on the messages that pass between them. These messages are guides that lead you to discover other objects, ones that are just as necessary but far less obvious.
+- **Step 1: Using sequence diagram**
+  - lightweight way of acquiring a design intention about an interaction. It provides a simple way to experiment with different object arrangements and message passing schemes between objects. It brings clarity to your thoughts and provide a vehicle to collaborate and communicate with others.
+  - **should this receiver be responsible for responding to this message**
+  - **I need to send this message, who should respond to it.**
+- **Step 2: asking for "what" instead of telling "how"**
+  - ![compare-designers](./novice-vs-intermediate-experienced.png)
+
+- **Step 3: seeking for context independence**
+  - use [dependency injection](./../growing-object-orented-guided-by-tests-summary/index.md#dependency-injection) to seek context independent
+
+- **Step 4: trusting other objects**
+  - I know what I want, I trust you to do your part
+
+- **use messages to discover objects**
+  - ![discovering objects](./discovering-objects.png)
+  - it's completely reasonable that `Customer` would send `suitable_trips` message. It is exactly what `Customer` wants. The problem is not with the sender, it is with the receiver. You have not yet identified an object whose responsibility it is to implement this method
+  - sequence diagram keep the focus on messages and allow you to form a rational intention about the first thing to assert in a test. Switching your attention from objects to messages allows you to concentrate on designing an application built upon public interfaces
+
+### create explicit interfaces
+- method in the public interface should
+  - be explicitly identified as such
+  - be more about what than how
+  - have names that, so far as you can anticipate, will not change.
+  - take a hash as an options parameter.
+- create test for public interfaces.
+  - do not test private methods. If you must, segregate those test from the ones of the public methods
+
+### honor the public interfaces of others
+  - if your design forces the use of a private method in another class, re-think your design
+  - a dependency on a private method of an external framework is a form of technical debt
+
+### exercise caution when depending on private interfaces
+- if you must depend on private interface, use [isolate the dependency](../dependency-injection/index.md#isolate-the-dependency)
+  - this prevent calls from multiple places
+
+### minimize context
+- create public methods that allow senders to get what they want without knowing how your class does it
+- if you fae a class with an ill-defined public interface you have these options
+  - define a new well-defined method for that class' public interface.
+  - create a wrapper class with a well defined public interface
+  - create a single wrapping method and put it in your own class
+
+### [the law of demeter](../growing-object-orented-guided-by-tests-summary/index.md#tell-dont-ask---law-of-demeter)
 
 # practising refactoring
 - if you simultaneously change many things and something breaks, you're forced to understand everything in order to fix anything.
@@ -497,7 +611,8 @@ def test_forces_subclasses_to_implement_default_tire_size
 ## technique 2: the open-closed flowchart
 - [open closed flowchart](./open-closed-flowchart.png)
 # separating responsibilities
-## managing dependencies
+## [managing dependencies](/dependency-injection)
+
 ## acquiring behavior through inheritance
 ## writing inheritable code
 # Achieving openness
@@ -530,6 +645,8 @@ def test_forces_subclasses_to_implement_default_tire_size
 "making existing code open to a new requirement often requires identifying and naming abstractions. The flocking rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions."
 
 "the best tests are loosely coupled to the underlying code and test everything once and in the proper place. They add value without increasing costs"
+
+"only talk to your immediate neighbors"
 
 # References
 https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md
