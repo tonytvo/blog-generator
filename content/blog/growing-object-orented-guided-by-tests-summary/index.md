@@ -27,12 +27,13 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - [References](#references)
 
 # Key ideas
-- practice TDD as a design technique and not as a testing technique
+- **practice TDD as a design technique and not only as a testing technique.**
+  - strangely, if we try to practise TDD as only a testing technique, then eventually we will become bored by our own defects and begin to notice "this code is annoying to test", which points to design problems. After that, we're practising TDD also as a design technique.
 - **Software development as a learning process.**
   - **Expose uncertainly early by testing our assumption as early as possible**
 - **we use mock objects to identify the essential interactions between modules/objects. This leads to more effective abstractions, which reduces the cost of changing the cost safely over time.**
 - Stub queries; expect actions
-- **Write code that depends as little as possible on its context.**
+- **Write code that depends as little as possible on its context. It leas to more reusable code**
 - **programming by intention**
 
 # Test-Driven Development (TDD) and Quality
@@ -251,10 +252,11 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 # Context independence
 - **A system is easier to change if its objects are context-independent: each object has no built-in knowledge about the system.**
 - **The effect of the context-independence rule on a system of objects is to make their relationships explicit, defined separately from the objects themselves. This simplifies the objects and manages the relationships**.
-
+- it' just extract parameters on details.
 
 
 # [Dependency Injection](/dependency-injection)
+- this is big topic and it's better to be covered as in separate [summary](/dependency-injection)
 
 # The sample project - analysis
 - the business rules can be summarized with the following picture
@@ -297,6 +299,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 "try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)."
 
 # References
+- https://blog.thecodewhisperer.com/series#dependency-inversion-principle-dip
 - http://www.growing-object-oriented-software.com/code.html
 - https://fsharpforfunandprofit.com/posts/dependencies/
 - https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
