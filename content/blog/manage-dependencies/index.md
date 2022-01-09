@@ -1,7 +1,7 @@
 ---
-title: dependency injection summary
+title: managing dependencies summary
 date: "2021-12-23T22:12:03.284Z"
-description: "dependency injection summary"
+description: "managing dependencies summary"
 tags: ["designpatterns", "evolutionarydesign"]
 ---
 # key ideas

@@ -588,7 +588,7 @@ def test_forces_subclasses_to_implement_default_tire_size
   - a dependency on a private method of an external framework is a form of technical debt
 
 ### exercise caution when depending on private interfaces
-- if you must depend on private interface, use [isolate the dependency](../dependency-injection/index.md#isolate-the-dependency)
+- if you must depend on private interface, use [isolate the dependency](../manage-dependencies/index.md#isolate-the-dependency)
   - this prevent calls from multiple places
 
 ### minimize context
@@ -611,7 +611,7 @@ def test_forces_subclasses_to_implement_default_tire_size
 ## technique 2: the open-closed flowchart
 - [open closed flowchart](./open-closed-flowchart.png)
 # separating responsibilities
-## [managing dependencies](/dependency-injection)
+## [managing dependencies](/manage-dependencies)
 
 ## acquiring behavior through inheritance
 ## writing inheritable code

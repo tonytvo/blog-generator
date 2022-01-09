@@ -255,8 +255,8 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 - it' just extract parameters on details.
 
 
-# [Dependency Injection](/dependency-injection)
-- this is big topic and it's better to be covered as in separate [summary](/dependency-injection)
+# [Dependency Injection](/manage-dependencies)
+- this is big topic and it's better to be covered as in separate [summary](/manage-dependencies)
 
 # The sample project - analysis
 - the business rules can be summarized with the following picture
