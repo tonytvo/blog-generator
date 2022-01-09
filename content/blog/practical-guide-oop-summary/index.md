@@ -60,6 +60,8 @@ tags: ["designpatterns", "oop"]
 - [practising refactoring horizontally](#practising-refactoring-horizontally)
   - [replacing difference with sameness](#replacing-difference-with-sameness)
   - [Equivocating about names](#equivocating-about-names)
+  - [obeying the liskov substitution principle](#obeying-the-liskov-substitution-principle)
+  - [depending on abstraction](#depending-on-abstraction)
 - [separating responsibilities](#separating-responsibilities)
   - [managing dependencies](#managing-dependencies)
   - [combing objects with composition](#combing-objects-with-composition)
@@ -616,6 +618,12 @@ def test_forces_subclasses_to_implement_default_tire_size
 - real refactoring is comfortingly predictable, and saves brainpower for more thought provoking challenges.
 - if the non-default branch is implemented first, the default has to be set to something that actually meets the condition and so makes the `true` branch execute.
   -  Therefore, implementing the non-default branch first places a slightly greater burden on you.
+-  seeking stable landing points
+   -  code is read many more times than it is written, so anything that increases understandability lowers costs. Next, and just as important, consistent code enables future refactorings.
+-  taking bigger steps
+   -  if you take bigger steps and the tests begin to fail, there's something about the problem that you don't understand, if this happens, don't push forward and refactor under red. Undo, return to green, and make incremental changes until you regain clarity
+-  discovering deeper abstractions
+   -  `successor` is important, and separating it from `quantity` gives both methods a single responsibility if you conflate `choosing-what-to-sing-for-any-number(quantity)` with deciding-what-verse-to-sing-next(successor), the resulting method would be harder to understand, future refactorings would be more difficult, and attempts to change the code for 1 idea might accidentally break it for other.
 
 ## replacing difference with sameness
 - [follow the flocking rules](#follow-the-flocking-rules)
@@ -635,6 +643,16 @@ def test_forces_subclasses_to_implement_default_tire_size
   - deriving names from responsibilities
     - focus on the difference and find abstraction one level higher
     - when creating an abstraction, first describe its responsibility as you understand it at the moment, then choose a name which reflects the responsibility. The effort you put into selecting good names right now pays off by making it easier to recognize perfect names later.
+
+## obeying the liskov substitution principle
+- every piece of knowledge is a dependency, and the way that `quantity` is written requires verse to know too many things. If `quantity` were more trustworthy, `verse` could know less
+- the idea of reducing the number of dependencies imposed upon message senders by requiring the receivers return trustworthy objects is a generalization of the Liskov Substitution Principle.
+- liskov, in plain terms, requires that objects be what they promise they are. When using inheritance, you must be able to freely substitute an instance of a subclass for an instance of its superclass. Subclasses, by definitions, are all their superclasses, plus more, so this substitution should always work.
+- liskov violations force message senders to have knowledge of the various return types, and to either treat them differently or convert them into something consistent.
+
+## depending on abstraction
+-  abstraction provide name for the consolidated code, allowing the name to be as a shortcut for an idea, independent of its current implementation
+- the abstractions tell you where your code relies upon an idea. But to get this benefit, you must refer to an abstraction in every place where it applies.
 
 # separating responsibilities
 ## [managing dependencies](/manage-dependencies)
