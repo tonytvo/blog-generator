@@ -1,5 +1,5 @@
 ---
-title: Implementing domain driven design summary
+title: DDD with legacy code
 date: "2021-12-20T22:12:03.284Z"
 description: "Summary for domain driven design"
 tags: ["domaindrivendesign", "evolutionarydesign"]
