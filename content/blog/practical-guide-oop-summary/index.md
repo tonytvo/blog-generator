@@ -57,19 +57,24 @@ tags: ["designpatterns", "oop"]
     - [exercise caution when depending on private interfaces](#exercise-caution-when-depending-on-private-interfaces)
     - [minimize context](#minimize-context)
     - [the law of demeter](#the-law-of-demeter)
-- [practising refactoring](#practising-refactoring)
-  - [technique 2: the open-closed flowchart](#technique-2-the-open-closed-flowchart)
+- [practising refactoring horizontally](#practising-refactoring-horizontally)
+  - [replacing difference with sameness](#replacing-difference-with-sameness)
+  - [Equivocating about names](#equivocating-about-names)
 - [separating responsibilities](#separating-responsibilities)
   - [managing dependencies](#managing-dependencies)
-  - [acquiring behavior through inheritance](#acquiring-behavior-through-inheritance)
-  - [writing inheritable code](#writing-inheritable-code)
+  - [combing objects with composition](#combing-objects-with-composition)
 - [Achieving openness](#achieving-openness)
   - [Sharing role behavior with modules](#sharing-role-behavior-with-modules)
-  - [combing objects with composition](#combing-objects-with-composition)
+  - [acquiring behavior through inheritance](#acquiring-behavior-through-inheritance)
+  - [writing inheritable code](#writing-inheritable-code)
 - [Quotes](#quotes)
 - [References](#references)
 
 # Goals/Key Ideas/Context
+- concrete, repeatable techniques that can be employed to improve applications
+  - strive for simplicity, focus on smells, concentrate on difference, take small steps, follow the flocking rules, refactoring under green, fix easy problem first
+  - following the horizontal path means writing code to produce every kind of verse before diverging onto tangents to DRY out small bits of code that the verses have in common. The goal is to quickly maximize the number of whole examples before extracting abstractions from their parts.
+  - in addition, deal with new requirements by first refactoring existing code to be open to them and then writing new code to meet them.
 - you should not reach for abstractions, but instead you should resist them until they absolutely insist upon being created.
 - writing code is the process of working your way to the next stable end point, not the end point itself
 - If your goal is to write straightforward code, these metrics (ABC metrics) point you toward `Shameless Green`
@@ -440,6 +445,7 @@ def test_forces_subclasses_to_implement_default_tire_size
 ## starting with the open/close principle
 - **code is open to a new requirement when you can meet the new requirement without changing the existing code.**
 - **when faced with a new requirement, first rearrange the existing code such that it's open to the new feature, and once that's complete, then add the new code**
+- ![open closed flowchart](./open-closed-flowchart.png)
 - the trick to successfully improving code that contains many flaws is to isolate and correct them one at a time
 - if you are unclear about how to make it open, the way forward is to start removing code smells
 - you should never change tests during a refactoring, if your tests are flawed such that they interfere with refactoring, improve them first, and then refactor
@@ -599,25 +605,49 @@ def test_forces_subclasses_to_implement_default_tire_size
   - create a single wrapping method and put it in your own class
 
 ### [the law of demeter](../growing-object-orented-guided-by-tests-summary/index.md#tell-dont-ask---law-of-demeter)
+- this is covered as a [tell don't ask]((../growing-object-orented-guided-by-tests-summary/index.md#tell-dont-ask---law-of-demeter)) from growing object oriented objects guided by tests
 
-# practising refactoring
+# practising refactoring horizontally
 - if you simultaneously change many things and something breaks, you're forced to understand everything in order to fix anything.
 - making a slew of simultaneous changes is not refactoring - it's rehacktoring.
 - gradual cutover refactoring
   - a strategy for keeping the code in a releasable state by gradually switching over a small number of pieces at a time. This type of refactoring can be done alongside other development work without affecting the release schedule.
   - let red be your guide. If you take a giant step and the tests begin to fail, undo and fall back to making smaller changes.
 - real refactoring is comfortingly predictable, and saves brainpower for more thought provoking challenges.
+- if the non-default branch is implemented first, the default has to be set to something that actually meets the condition and so makes the `true` branch execute.
+  -  Therefore, implementing the non-default branch first places a slightly greater burden on you.
 
-## technique 2: the open-closed flowchart
-- [open closed flowchart](./open-closed-flowchart.png)
+## replacing difference with sameness
+- [follow the flocking rules](#follow-the-flocking-rules)
+
+## Equivocating about names
+- the challenge is identifying the current concept and coming up with a good name.
+  - It must represent a smaller abstraction within that larger one.
+  - names should neither be too general nor too specific. For example, thing is too broad, and ItOrOne too narrow.
+- when perfect name for a concept is elusive, there are couple strategies moving forward
+  - time box 5 - 10 minutes to ponder, and then use the best name that you can come up with (usually with thesaurus in hand)
+  - instantly choose a meaningless name like `foo`. Like there is no point wasting time thinking about it now, the name will be obvious later
+  - you can ask someone else, like fellow programmers or customers for help.
+  - Arlo's naming process
+    - ![arlo naming process](./naming-as-a-process.png)
+  - [J.B. Rainsberger's model for improving name](https://blog.thecodewhisperer.com/permalink/a-model-for-improving-names)
+    - ![jb naming process](./jbrains-naming-process.png)
+  - deriving names from responsibilities
+    - focus on the difference and find abstraction one level higher
+    - when creating an abstraction, first describe its responsibility as you understand it at the moment, then choose a name which reflects the responsibility. The effort you put into selecting good names right now pays off by making it easier to recognize perfect names later.
+
 # separating responsibilities
 ## [managing dependencies](/manage-dependencies)
+- this topic is covered as separate [summary blog](/manage-dependencies)
+
+## combing objects with composition
+
+# Achieving openness
+## Sharing role behavior with modules
 
 ## acquiring behavior through inheritance
 ## writing inheritable code
-# Achieving openness
-## Sharing role behavior with modules
-## combing objects with composition
+
 # Quotes
 
 "Writing code is the process of working your way to the next stable end point, not the end point itself"

@@ -46,7 +46,8 @@ tags: ["designpatterns", "evolutionarydesign"]
 ## inject dependencies
 - instead of explicitly calling another class' name inside a method, pass the instance of other classes as an argument to the method
 
-## isolate instance creation
+## isolate the dependency
+### isolate instance creation
 - use when it's difficult to get rid of "the name of another class" dependency type through dependency injection
 - move external class name call to the initialize method [example code](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_3.rb#L73-L83)
 - isolate external class call in explicit defined method [example code](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_3.rb#L87-L102)
@@ -96,13 +97,24 @@ tags: ["designpatterns", "evolutionarydesign"]
 
 
 
-- Dependency retention: We don't worry about managing dependencies; we just inline and hard-code everything!
-- Dependency rejection, an excellent term (coined by Mark Seemann, above), in which we avoid having any dependencies in our core business logic. We do this by keeping all I/O and other impure code all the "edges" of our domain.
-- Dependency parameterization, in which we pass in all dependencies as parameters. This is commonly used in conjunction with partial application.
-- Dependency injection and the reader monad, in which we pass in dependencies after the rest of the code has already been constructed. This is typically done via constructor injection in OO-style code, and in FP-style principle, this corresponds to the Reader monad.
-- Dependency interpretation: We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and FP (e.g. free monads)
+### Dependency retention
+- We don't worry about managing dependencies; we just inline and hard-code everything!
+- https://fsharpforfunandprofit.com/posts/dependencies/
+### Dependency rejection
+- an excellent term (coined by Mark Seemann, above), in which we avoid having any dependencies in our core business logic. We do this by keeping all I/O and other impure code all the "edges" of our domain.
+- https://fsharpforfunandprofit.com/posts/dependencies/
 
-## isolate the dependency
+### Dependency parameterization
+- Dependency parameterization, in which we pass in all dependencies as parameters. This is commonly used in conjunction with partial application.
+- https://fsharpforfunandprofit.com/posts/dependencies/
+
+### Dependency injection and the reader monad
+- in which we pass in dependencies after the rest of the code has already been constructed. This is typically done via constructor injection in OO-style code, and in FP-style principle, this corresponds to the Reader monad.
+- https://fsharpforfunandprofit.com/posts/dependencies/
+
+### Dependency interpretation
+- We replace calls to dependencies with a data structure interpreted later. This approach is used in both OO (interpreter pattern) and FP (e.g. free monads)
+- https://fsharpforfunandprofit.com/posts/dependencies/
 
 # Quotes
 
