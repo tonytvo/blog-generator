@@ -64,6 +64,9 @@ tags: ["designpatterns", "oop"]
   - [depending on abstraction](#depending-on-abstraction)
 - [separating responsibilities](#separating-responsibilities)
   - [managing dependencies](#managing-dependencies)
+  - [selecting the target code smell](#selecting-the-target-code-smell)
+  - [extracting classes](#extracting-classes)
+    - [modelling abstractions](#modelling-abstractions)
   - [combing objects with composition](#combing-objects-with-composition)
 - [Achieving openness](#achieving-openness)
   - [Sharing role behavior with modules](#sharing-role-behavior-with-modules)
@@ -657,6 +660,59 @@ def test_forces_subclasses_to_implement_default_tire_size
 # separating responsibilities
 ## [managing dependencies](/manage-dependencies)
 - this topic is covered as separate [summary blog](/manage-dependencies)
+
+## selecting the target code smell
+- the truth about refactoring is that it sometimes makes things worse, in which case your efforts serve gallantly to disprove an idea.
+- it's entirely possible that you do not yet know what change will make it open. At this point, you must decide whether it's better to proceed with additional modifications to teh code, or better to revert the previous change and take a different tack.
+- you must continue to be guided by code smells, and doing so requires that you identify the smells in the current code.
+- **superfluous differences raises the cost of reading code, and increases the difficulty of future refactorings.**
+- identifying patterns in code
+  - one way to get better at identifying smells is to practice describing the characteristics/patterns of code. Including any patterns that you see, and things you like, hate, or don't understand.
+  - the following questions draw attention to a number of interesting characteristics of the code as it's written so far:
+    - do any method have the same shape?
+    - do any method take an argument of the same name?
+    - do argument of the same name always mean the same thing?
+    - if you were going to break this class into 2 pieces, where's the dividing line?
+    - do the tests in the conditionals have any thing in common?
+    - how many branches do the conditionals have?
+    - do the methods contain any code other than the conditional?
+    - does each method depend more on the argument that got passed, or on the class as a whole?
+    - these eight questions group certain methods together. The same-shaped, same kind of conditional testing, bottle number taking, argument-depending, flocked five methods fall into one group, and the song, verses, and verse methods into another.
+  - insisting upon messages
+    - as an oo practitioner, when you see a conditional, the hairs on your neck should stand up. You should feel entitled to send messages to objects. It means that objects are missing and suggests that subsequent refactorings are needed to reveal them.
+    - Collaborators must be brought together in useful combinations, and assembling these combinations requires knowing which objects are suitable.
+    - there's a big difference between a conditional that selects the correct object and one that supplies behavior. The first is acceptable and generally unavaidable. THe second suggests that you're missing objects in your domain.
+  - squint test rule
+    - put the code of interest on your screen
+    - lean back
+    - squint your eyes such that you can still see the code, but can no longer read it
+    - look for:
+      - change in shape, and
+      - change in color
+    - changes in indentation reveal the presense of conditionals, the more nested level of conditionals, the more complexed/complicated the code site.
+    - changes in color indicate difference in the level of abstraction. A method that intermixes many colors tells a story that will be difficult to follow.
+  - analyzing the "flocked five" (`quantity`, `container`, `action`, `pronoun`, `successor`) using the above questions
+    - do any methods have the same shape?
+      - they all have the same shape according to squint tests
+    - do any methods take an argument of the same name?
+      - yes, the flocked five methods take number as an argument and the arguments represent the bottle number rather than a verse number from the argument number of verse method.
+      - **having multiple methods that take the same argument (indicate duplicate concept, not duplicate name) is a code smell. In an ideal world, each different concept would have its own unique, precise name, and there would be no ambiguity.**
+    - if you were going to break this class into 2 pieces, where's the dividing line?
+      - after verse and before the flocked five methods.
+    - do the tests in the conditionals have anything in common?
+      - test for `number` to be exactly equal to another value
+      - **testing for equality has several benefits over the alternatives. Most obviously, it narrows the range of things that meet condition. This reduces the difficulty of debugging errors. Testing of equality also makes the code more precise, and this precision enables future refactorings.**
+    - how many branches do the conditionals have?
+    - do the methods contain any code other than the conditional?
+      - no
+    - do methods that take `number` as an argument depend more on `number`, or more on the class as a whole?
+
+## extracting classes
+- *Primitive obsession* is when you use one of the built-in data types to represent a concept in your domain. Obsessing on a primitive results in code that passes built-in types around and supplies behavior for them.
+- use *Extract class* to create a home for the domain concepts in place of the primitive.
+
+### modelling abstractions
+- it's easy to imagine creating objects that stand in for things, but the power of OO is that it lets you model ideas, things that don't physically exist. Modellable ideas often lie dormant in interactions between objects.
 
 ## combing objects with composition
 
