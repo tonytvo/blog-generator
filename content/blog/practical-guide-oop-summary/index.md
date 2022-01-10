@@ -67,6 +67,7 @@ tags: ["designpatterns", "oop"]
   - [selecting the target code smell](#selecting-the-target-code-smell)
   - [extracting classes](#extracting-classes)
     - [modelling abstractions](#modelling-abstractions)
+    - [naming classes](#naming-classes)
   - [combing objects with composition](#combing-objects-with-composition)
 - [Achieving openness](#achieving-openness)
   - [Sharing role behavior with modules](#sharing-role-behavior-with-modules)
@@ -678,6 +679,8 @@ def test_forces_subclasses_to_implement_default_tire_size
     - do the methods contain any code other than the conditional?
     - does each method depend more on the argument that got passed, or on the class as a whole?
     - these eight questions group certain methods together. The same-shaped, same kind of conditional testing, bottle number taking, argument-depending, flocked five methods fall into one group, and the song, verses, and verse methods into another.
+  - trust the process
+    - if you adhere to a recipe and tests start failing, it's likely that there's something about the problem that you don't yet understand.
   - insisting upon messages
     - as an oo practitioner, when you see a conditional, the hairs on your neck should stand up. You should feel entitled to send messages to objects. It means that objects are missing and suggests that subsequent refactorings are needed to reveal them.
     - Collaborators must be brought together in useful combinations, and assembling these combinations requires knowing which objects are suitable.
@@ -713,6 +716,11 @@ def test_forces_subclasses_to_implement_default_tire_size
 
 ### modelling abstractions
 - it's easy to imagine creating objects that stand in for things, but the power of OO is that it lets you model ideas, things that don't physically exist. Modellable ideas often lie dormant in interactions between objects.
+- experienced OO programmers deftly create virtual worlds in which ideas are as real as physical things.
+
+### naming classes
+- naming methods at one higher level of abstraction than their current implementation.
+- refer to [equivocating about names](#equivocating-about-names)
 
 ## combing objects with composition
 
