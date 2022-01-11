@@ -659,6 +659,8 @@ def test_forces_subclasses_to_implement_default_tire_size
 - the abstractions tell you where your code relies upon an idea. But to get this benefit, you must refer to an abstraction in every place where it applies.
 
 # separating responsibilities
+- appreciating immutability
+  - immutable objects are easy to understand and to reason about.
 ## [managing dependencies](/manage-dependencies)
 - this topic is covered as separate [summary blog](/manage-dependencies)
 
