@@ -655,12 +655,16 @@ def test_forces_subclasses_to_implement_default_tire_size
 - liskov violations force message senders to have knowledge of the various return types, and to either treat them differently or convert them into something consistent.
 
 ## depending on abstraction
--  abstraction provide name for the consolidated code, allowing the name to be as a shortcut for an idea, independent of its current implementation
+- abstraction provide name for the consolidated code, allowing the name to be as a shortcut for an idea, independent of its current implementation
 - the abstractions tell you where your code relies upon an idea. But to get this benefit, you must refer to an abstraction in every place where it applies.
 
 # separating responsibilities
 - appreciating immutability
   - immutable objects are easy to understand and to reason about.
+  - because they are easy to reason about, immutable objects are also easy to test. Tests for immutable objects avoid extra setup, which makes the tests cheaper to write and easier to understand.
+  - another key virtue of immutable objects is that they are thread safe. You can't break shared state if shared state doesn't change.
+  - the best programming strategy is to write the simplest code possible and measure its performance once you're done. If the whole is not acceptably fast, profile the performance, and speed up the slowest parts.
+  - your goal is to optimize for easy of understanding while maintaining performane that's fast enough. Don't sacrifice readability before having solid performance data.
 ## [managing dependencies](/manage-dependencies)
 - this topic is covered as separate [summary blog](/manage-dependencies)
 
