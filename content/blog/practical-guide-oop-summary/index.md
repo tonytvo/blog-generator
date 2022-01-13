@@ -734,6 +734,7 @@ def test_forces_subclasses_to_implement_default_tire_size
 ## Sharing role behavior with modules
 
 ## acquiring behavior through inheritance
+- 
 ## writing inheritable code
 
 # Quotes
@@ -765,6 +766,8 @@ def test_forces_subclasses_to_implement_default_tire_size
 "the best tests are loosely coupled to the underlying code and test everything once and in the proper place. They add value without increasing costs"
 
 "only talk to your immediate neighbors"
+
+"Inheritance is for **specialization**, NOT for sharing code"
 
 # References
 https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md

@@ -298,6 +298,8 @@ Notifications and adjustments can be passed to the constructor as a convenience.
 
 "try to follow the four-step TDD cycle (fail, report (make the diagnostics clear), pass, refactor)."
 
+"test doubles are fine, but don’t stop there if you can invert the dependency and turn expectations into stubs… or even better, replace the stub with the value it returns."
+
 # References
 - https://blog.thecodewhisperer.com/series#dependency-inversion-principle-dip
 - http://www.growing-object-oriented-software.com/code.html

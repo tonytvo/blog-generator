@@ -598,6 +598,8 @@ const loginClient = LoginClient.createNull(
 
 "make asynchronous tests detect success as quickly as possible so that they provide rapid feedback"
 
+"test doubles are fine, but don’t stop there if you can invert the dependency and turn expectations into stubs… or even better, replace the stub with the value it returns."
+
 # References
 - https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
 - https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
