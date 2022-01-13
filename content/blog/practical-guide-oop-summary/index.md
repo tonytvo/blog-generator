@@ -72,6 +72,8 @@ tags: ["designpatterns", "oop"]
 - [Achieving openness](#achieving-openness)
   - [Sharing role behavior with modules](#sharing-role-behavior-with-modules)
   - [acquiring behavior through inheritance](#acquiring-behavior-through-inheritance)
+    - [understanding classical inheritance](#understanding-classical-inheritance)
+    - [recognizing where to use inheritance](#recognizing-where-to-use-inheritance)
   - [writing inheritable code](#writing-inheritable-code)
 - [Quotes](#quotes)
 - [References](#references)
@@ -734,7 +736,18 @@ def test_forces_subclasses_to_implement_default_tire_size
 ## Sharing role behavior with modules
 
 ## acquiring behavior through inheritance
-- 
+### understanding classical inheritance
+- a mechanism for automatic message delegation. It defines a forwarding path for not-understood messages.???
+- messages are forwarded from subclass to superclass.
+- inheritance is for specialization, NOT for sharing code
+
+### recognizing where to use inheritance
+- the problem that inheritance solves: highly related types that share common behavior but differ along some dimension (single class with several different but related types)
+- here is a typical progression for problems that inheritance solves:
+  - your code starts with a concrete class
+    - [example of a concrete bicycle class](https://github.com/serodriguez68/poodr-notes/blob/master/code_examples/chapter_6.rb#L2-L29)
+  - then you start to embedding multiple types into that class
+    - 
 ## writing inheritable code
 
 # Quotes
@@ -768,6 +781,8 @@ def test_forces_subclasses_to_implement_default_tire_size
 "only talk to your immediate neighbors"
 
 "Inheritance is for **specialization**, NOT for sharing code"
+
+"no matter how complicated the code, the receiving object ultimately handles any message in one of two ways. It either responds directly or it passes the message on to some other object for a response."
 
 # References
 https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md
