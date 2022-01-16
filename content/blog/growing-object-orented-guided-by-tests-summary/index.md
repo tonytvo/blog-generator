@@ -9,10 +9,10 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - [TDD as a design technique](#tdd-as-a-design-technique)
   - [Communication over classification](#communication-over-classification)
   - [mock roles not objects](#mock-roles-not-objects)
+  - [Kick-staring the test-driven cycle](#kick-staring-the-test-driven-cycle)
+  - [Maintaining the test-drive cycle](#maintaining-the-test-drive-cycle)
+  - [Design for Maintainability](#design-for-maintainability)
 - [tell, don't ask - law of Demeter](#tell-dont-ask---law-of-demeter)
-- [Kick-staring the test-driven cycle](#kick-staring-the-test-driven-cycle)
-- [Maintaining the test-drive cycle](#maintaining-the-test-drive-cycle)
-- [Design for Maintainability](#design-for-maintainability)
 - [Listen to tests, test smells and patterns](#listen-to-tests-test-smells-and-patterns)
 - [techniques for introducing new objects](#techniques-for-introducing-new-objects)
 - [object peer stereotypes](#object-peer-stereotypes)
@@ -95,32 +95,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - ![test double](./test-double.gif)
   - ![types of test double](./types-of-test-doubles.gif)
 
-# tell, don't ask - law of Demeter
-- This style produces more flexible code because it's easy to swap objects with the same role. The caller sees nothing of their internal structure or the rest of the system behind the role interface.
-- When messages are trusting and ask for what the sender wants instead of telling receiver how to behave, objects naturally evolve public interfaces that are flexible and reusable in novel and unexpected ways.
-- we ask when
-  - getting information from values and collections
-  - using a factory to create new objects
-  - searching or filtering
-- **We can specify how we expect the target object to communicate with its mock for a triggering event -> expectations**
-- **we can use the test to help us tease out the supporting roles our object needs, defined as Java interfaces, and fill in actual implementations as we develop the rest of the system -> interface discovery**
-- **only talk to your immediate neighbors**
-- certain "violations" of demeter reduce your application's flexibility and maintainability, while others make perfect sense. Additionally, violations typically lead to objects that require lots of context
-- the definition "only use one dot" is not always right. There are cases that use multiple dots that do not violate Demeter
-  - **access distant attribute** `customer.bicycle.wheel.tire`
-    - it may be cheapest in your specific case to reach through intermediate objects than to go around
-    - consider moving behavior using that tire attribute to wheel object
-  - **invokes distant behavior** `customer.bicycle.wheel.rotate`
-    - the cost is high. This violation should be removed
-  - `hash.keys.sort.join(',')`
-    - no violation
-    - `hash.keys.sort.join` actually returns an Enumerable of Strings, all of the intermediate objects have the same type and there is no Demeter violation.
-- delegation removes visible violations but ignores demeter's spirit. Using delegation to hide tight coupling is not the same as decoupling code.
-- **demeter violations are clues of missing objects whose public interface you have not yet discovered**
-- if you shift to a message-based perspective, the messages you find will become public interfaces in the objects they lead you to discover. However, if you are bound by the shackles of existing domain objects, you will end up assembling their existing public interfaces into long message chains and thus will miss the opportunity to find and construct flexible public interfaces.
-
-
-# Kick-staring the test-driven cycle
+## Kick-staring the test-driven cycle
 - To run an initial end-to-end test that fails is already a lot of work. However, deploying and testing right from the start of a project forces the team to understand how their system fits into the world. it flushes out the "unknown."
 - Keep a drawing of the system's structure on the whiteboard where it's visible for the whole team, and keep it in mind while coding! Then, make the smallest number of decisions you can to kick-start the TDD cycle. Then, we'll learn and improve from honest feedback.
 - test as a walking skeleton
@@ -144,7 +119,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - assert that any resulting values are valid and that all the expected calls have been made.
 
 
-# Maintaining the test-drive cycle
+## Maintaining the test-drive cycle
 - start each feature with an acceptance test
   - we write the acceptance using only terminology from the application's domain
   - the precision of expression requirements in a form that can be automatically checked helps us uncover implicit assumptions
@@ -164,7 +139,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - It helps to name the test by describing the required behaviour in a specific scenario.
 - The best we can get from the testing part of TDD is **the confidence that we can change the code without breaking it. Fear kills progress. The trick is to make sure that the confidence is justified.**
 
-# Design for Maintainability
+## Design for Maintainability
 - we grow our systems a slice of functionality at a time
 - we use two principle heuristics to guide this structuring:
   - separation of concerns
@@ -189,6 +164,32 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - Having an interface named Service and an implementation called ServiceImpl is probably a sign of bad design. The interface should be described in general domain language, and the implementation should have something specific about it to use in the name.
 - domain types are better than strings
   - when we take the trouble to express the domain clearly, we often find more options.
+
+
+# tell, don't ask - law of Demeter
+- This style produces more flexible code because it's easy to swap objects with the same role. The caller sees nothing of their internal structure or the rest of the system behind the role interface.
+- When messages are trusting and ask for what the sender wants instead of telling receiver how to behave, objects naturally evolve public interfaces that are flexible and reusable in novel and unexpected ways.
+- we ask when
+  - getting information from values and collections
+  - using a factory to create new objects
+  - searching or filtering
+- **We can specify how we expect the target object to communicate with its mock for a triggering event -> expectations**
+- **we can use the test to help us tease out the supporting roles our object needs, defined as Java interfaces, and fill in actual implementations as we develop the rest of the system -> interface discovery**
+- **only talk to your immediate neighbors**
+- certain "violations" of demeter reduce your application's flexibility and maintainability, while others make perfect sense. Additionally, violations typically lead to objects that require lots of context
+- the definition "only use one dot" is not always right. There are cases that use multiple dots that do not violate Demeter
+  - **access distant attribute** `customer.bicycle.wheel.tire`
+    - it may be cheapest in your specific case to reach through intermediate objects than to go around
+    - consider moving behavior using that tire attribute to wheel object
+  - **invokes distant behavior** `customer.bicycle.wheel.rotate`
+    - the cost is high. This violation should be removed
+  - `hash.keys.sort.join(',')`
+    - no violation
+    - `hash.keys.sort.join` actually returns an Enumerable of Strings, all of the intermediate objects have the same type and there is no Demeter violation.
+- delegation removes visible violations but ignores demeter's spirit. Using delegation to hide tight coupling is not the same as decoupling code.
+- **demeter violations are clues of missing objects whose public interface you have not yet discovered**
+- if you shift to a message-based perspective, the messages you find will become public interfaces in the objects they lead you to discover. However, if you are bound by the shackles of existing domain objects, you will end up assembling their existing public interfaces into long message chains and thus will miss the opportunity to find and construct flexible public interfaces.
+
 
 # Listen to tests, test smells and patterns
 
