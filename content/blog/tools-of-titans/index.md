@@ -4,7 +4,7 @@ date: "2021-12-22T22:12:03.284Z"
 description: "tools of titans summary."
 tags: ["productivity", "communication", "health", "investment"]
 ---
-# Goals
+# Goals/Key Ideas
 - success, however you define it, is achievable if you collect the right field-tested beliefs and habits.
 - the superheroes you have in your mind (idols, icons, titans, billionaires, etc.) are nearly all walking flaws who've maximized 1 or 2 strengths)
   - you succeed because you find your unique strengths and focus on developing habits around them.

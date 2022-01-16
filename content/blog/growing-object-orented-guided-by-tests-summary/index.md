@@ -31,9 +31,9 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - strangely, if we try to practise TDD as only a testing technique, then eventually we will become bored by our own defects and begin to notice "this code is annoying to test", which points to design problems. After that, we're practising TDD also as a design technique.
 - **Software development as a learning process.**
   - **Expose uncertainly early by testing our assumption as early as possible**
-- **we use mock objects to identify the essential interactions between modules/objects. This leads to more effective abstractions, which reduces the cost of changing the cost safely over time.**
+- **we use mock objects to identify the essential interactions between modules/objects. This leads to more effective abstractions, which reduces the cost of changing the software safely over time.**
 - Stub queries; expect actions
-- **Write code that depends as little as possible on its context. It leas to more reusable code**
+- **Write code that depends as little as possible on its context. It leads to more reusable code**
 - **programming by intention**
 
 # Test-Driven Development (TDD) and Quality
@@ -57,7 +57,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - The communication between the objects can be seen through tests. So don't try to model your system based on the entities (objects) alone, but on the communication between them.
 - Objects follow common communication patterns. The domain model is in these communication patterns
 - An object is an implementation of one or more roles:
-  - roles a set of related responsibilities
+  - roles are a set of related responsibilities
   - responsibilities is an obligation to perform a task or know information
   - collaboration is an interaction of objects or roles.
 - An object communicates by messages: it receives messages from other objects. It reacts by sending messages to other objects as well, as perhaps, returning a value or exception to the original sender. An object has a method of handling every type of message that it understands. In most cases, it encapsulates some internal state that it uses to coordinate its communication with other objects.
@@ -66,7 +66,7 @@ tags: ["selftestingcode", "evolutionarydesign"]
 - something that is difficult to test is probably poorly designed
 - The single responsibility principle
   - of the heuristic is that we should be able to describe what an object does without using any conjunction ("and," "or").
-  - interacting with the composite object should be more straightforward than interacting with the components that compose its
+  - interacting with the composite object should be more straightforward than interacting with the components that it composes
 - **The empty interface is sometimes used to mark a domain concept and show how it's used in collaboration. Later, as we grow the code, we fill in the interface with methods to describe its behaviour.**
 - Only mock types that you own:
   - don't use mocks for third-party code since it is usually not changeable as you don't have control over it. 
@@ -181,10 +181,6 @@ tags: ["selftestingcode", "evolutionarydesign"]
   - don't use global variables
   - don't use singletons
 - **Single responsibility principle: every object should have a single, clearly defined responsibility. We should describe what an object does without using any conjunctions.**
-- We categorize an object's peers into three types of relationship
-  - dependencies: the object cannot function without these services.
-  - Notifications: the object will notify interested peers whenever it changes state or performs a significant action. Messages are helpful because they decouple objects from each other. When listeners don't know and shouldn't care about how the event was caused, the sender doesn't have to watch who listens to it. In short, fire and forget.
-  - Adjustments: Peers that adjust the object's behaviour to the broader needs of the system.
 - Composite simpler than the sum of its parts,
   - the API of a composite object should not be more complicated than of any of its components
 - As we grow the code, the composing more straightforward rules raise abstraction.
@@ -245,7 +241,7 @@ Notifications and adjustments can be passed to the constructor as a convenience.
     - The different purposes of the two layers mean that we use a different coding style for each. For the implementation layer, we stick to the conventional object-oriented style guidelines. For the declarative layer, we're more flexible
     - **most of the time. Such a declarative layer merges from continual merciless refactoring. Taking care to notice when an area of code is not clear, we add or move structure until it is**.
 - delegate to subordinate objects
-  - started writing the test we wanted to see and then filling in the supporting objects: 
+  - started writing the test we wanted to see and then filling in the supporting objects
   - **start from a statement of the problem and see where it goes**.
   - the alternative is to write code directly in the tests and then refactor out any clusters of behaviours
 
