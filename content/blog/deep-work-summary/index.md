@@ -95,11 +95,7 @@ Practice 3
 Practice 4
 
 Reference
-
-https://blog.doist.com/deep-work/#Learn_How_to_Practice_Deep_Work
-
-https://www.samuelthomasdavies.com/book-summaries/business/deep-work/
-
-https://www.shortform.com/app/book/deep-work?utm_source=ActiveCampaign&utm_medium=email&utm_content=Welcome%20-%20Claim%20Your%20Two%20Free%20Book%20Summaries%20Now&utm_campaign=Welcome%20Free%201&vgo_ee=OFQLQRvzW4eHDcn52JzU2UzkASpiHornD%2Fz2wZTd1jg%3D
-
-https://hbr.org/2012/11/how-to-master-a-new-skill
+- https://blog.doist.com/deep-work/#Learn_How_to_Practice_Deep_Work
+- https://www.samuelthomasdavies.com/book-summaries/business/deep-work/
+- https://www.shortform.com/app/book/deep-work?utm_source=ActiveCampaign&utm_medium=email&utm_content=Welcome%20-%20Claim%20Your%20Two%20Free%20Book%20Summaries%20Now&utm_campaign=Welcome%20Free%201&vgo_ee=OFQLQRvzW4eHDcn52JzU2UzkASpiHornD%2Fz2wZTd1jg%3D
+- https://hbr.org/2012/11/how-to-master-a-new-skill
