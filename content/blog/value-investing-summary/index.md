@@ -20,3 +20,4 @@ tags: ["investing", "valueinvesting"]
 - [Invest with the House](./Invest-with-the-House.pdf)
 - https://www.portfolioeinstein.com/meb-faber-portfolios-backed-by-solid-research/
 - https://milliondollarjourney.com/stock-hedging-strategies.htm
+- https://www.getstoryshots.com/books/the-intelligent-investor-summary/#:~:text=margin%20of%20safety.-,Introduction,speculations%20(based%20on%20predictions).

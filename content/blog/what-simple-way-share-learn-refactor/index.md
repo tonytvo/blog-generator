@@ -77,53 +77,14 @@ Motivation
 # Introduce indirection steps to avoid big steps
 ## Motivation
 - to avoid breaking all existing clients when introducing new fields, new classes, etc...
-## Steps for approach 1
+## Common Approach
 - create a warm, dry place where the code can be changed and disrupt client less
 - focus on changes inside the warm, dry place
 - publish the changes when they're ready, which often means inlining the warm, dry place (put it back where it was) or inlining the clients of the warm, dry place (the new code replaces some older code)
 
-
-## Steps for approach 2 (introduce parameter object)
-- https://www.youtube.com/watch?v=hGkdDxYCCKY&ab_channel=tomphp
-- intellij refactorings: extract methods, make method static, introduce parameter object, convert static to instance methods, introduce the field
-
-## Steps for approach 3 (adding the wrapper)
-- extract a function that takes the primitive value f(p)
-- introduce parameter object to wrap p into wrapper w, so that now we have f(w)
-- move f() onto class W. (What's left is moving any behaviour that asks for w.getP() onto W)
-- for all remaining function g(p) put in the line w = new W(p) and then migrate all the internals from p to w.p (or w.getP() or whatever you call it)
-- extract parameter on new W(p), so that g now takes a w instead of p
-move g() onto W
-- intellij refactorings: extract methods, wrap-unwrap (introduce indirection), introduce parameter, move method to another instance, introduce the field
-
-## Steps for approach 4 (liberating the wrapped)
-- extract all the functions of p that you want.
-- promote p to a field on the current class
-extract delegate to class W, creating a new class that as p as a field, leaving behind this.w = new W(p)
-- clean up
-- intellij refactorings: extract methods, extract delegate
-
-### Snippets
-- introduce parameter object
-  - <img width="500" height="300" alt="introduce parameter object" src="./introduce-parameter-objects-orderlines.gif">
-
-- make method static
-  - <img width="500" height="300" alt="make method static" src="./make-static-method-orderlines.gif">
-
-- extract delegate
-  - <img width="500" height="300" alt="extract delegate" src="./extract-delegate-orderlines.gif">
-
-- wrap-unwrap value (introduce another layer of indirection)
-  - <img width="500" height="300" alt="introduce another indirection layer" src="./introduce-another-layer-indirection.gif">
-
-
-- move method to another instance
-  - <img width="500" height="300" alt="move  method to another instance" src="./move-instance-method-orderlines.gif">
-
-- introduce field
-  - <img width="500" height="300" alt="introduce field" src="./introduce-field-order-lines.gif">
-
-**…still under construction and more to come on the list**
+## Examples
+- For some reasons, introduce indirection layer is a common approach to refactoring and has lots of different approaches, which has been documented in this git repo
+  - https://github.com/tonytvo/introduce-indirection-layer
 
 # References
 - Arlo Belshee, “Naming as a process”, https://www.digdeeproots.com/articles/on/naming-process/
