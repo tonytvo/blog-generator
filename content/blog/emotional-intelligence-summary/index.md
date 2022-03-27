@@ -9,6 +9,7 @@ tags: ["productivity", "communication", "selfimprovement"]
   - ![communication between emotional and rational portions](./emotional-rational-portions-communication.png)
 - What you think, say, and do can increase your EQ.
 - IQ: cognitive intelligence, your ability to learn; a set of ability that doesn't change overtime (except in cases of traumatic injury)
+- EQ: emotional intelligence, your skills of being aware of your emotions and those of others along with managing your emotions and your relationships; a skill that you can learn.
 
 # Quotes
 
