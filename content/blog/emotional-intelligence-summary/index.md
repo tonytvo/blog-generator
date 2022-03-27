@@ -8,6 +8,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - The communication between the emotional and rational portions of your brain is the physical source of emotional intelligence.
   - ![communication between emotional and rational portions](./emotional-rational-portions-communication.png)
 - What you think, say, and do can increase your EQ.
+- IQ: cognitive intelligence, your ability to learn; a set of ability that doesn't change overtime (except in cases of traumatic injury)
 
 # Quotes
 
