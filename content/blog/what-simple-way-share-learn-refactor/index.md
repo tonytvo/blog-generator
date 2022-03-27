@@ -36,7 +36,8 @@ Here goes the list
 
 # Rename method, classes, fields
 Motivation
-- Easy to read code start with good naming and naming is hard
+- "If we can give it a name, we can control it"
+- Try to keep class and method names to 1-2 words, and avoid names that duplicate the context
 - “Naming as a process” provides a good heuristic for naming but it’s too freaking long.
 
 ![arlo naming as a process](./naming-as-a-process.png)
