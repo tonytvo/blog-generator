@@ -89,5 +89,6 @@ Motivation
 
 # References
 - Arlo Belshee, “Naming as a process”, https://www.digdeeproots.com/articles/on/naming-process/
+- Arlo Belshee, "Core 6 Refactorings", https://arlobelshee.com/the-core-6-refactorings/
 - J.B. Rainsberger, “a model for improving names”, https://blog.thecodewhisperer.com/permalink/a-model-for-improving-names
 - Tony Vo, “Sudoku Refactoring”, https://ttrungvo.medium.com/sudoku-refactoring-kata-56f184b1b081
