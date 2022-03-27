@@ -4,7 +4,10 @@ date: "2022-03-23T22:12:03.284Z"
 description: "emotional intelligence summary"
 tags: ["productivity", "communication", "selfimprovement"]
 ---
-
+# Key Ideas, Goals, Context
+- The communication between the emotional and rational portions of your brain is the physical source of emotional intelligence.
+  - ![communication between emotional and rational portions](./emotional-rational-portions-communication.png)
+- What you think, say, and do can increase your EQ.
 
 # Quotes
 

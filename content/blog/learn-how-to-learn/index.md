@@ -557,8 +557,12 @@ to understand is to know what to do
 
 you shall receive when you ask questions
 
+# Todo
+- read blog from Arlo and update this blog accordingly.
+
 # References
 - https://home.mindvalley.com/quests/en/superbrain
+- https://arlobelshee.com/learning-faster-and-more-deeply/#more-171
 - https://www.visualcapitalist.com/12-ways-smarter-mental-models/
 - https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 - https://fs.blog/the-art-of-reading-how-to-be-a-demanding-reader/
