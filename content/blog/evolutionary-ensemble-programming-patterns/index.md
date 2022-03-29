@@ -48,6 +48,7 @@ tags: ["productivity", "communication", "selfimprovement"]
     - do you have anything to contribute
     - can you learn from the session
   - people that dominates from the mob/ensemble could be rejected from the ensemble because of law of contributing
+  - if the task is known, take the mob to create a generator for it.
 
 # Quotes
 
