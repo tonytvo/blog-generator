@@ -4,30 +4,15 @@ date: "2022-03-27T23:46:37.121Z"
 description: "Summary notes on Evolutionary Design Sessions With JBrain"
 tags: ["evolutionarydesign", "tdd", "refactoring"]
 ---
-- Intent revealing names -> https://blog.thecodewhisperer.com/permalink/a-model-for-improving-names
+- Intent revealing names 
+  - [A Model for Improving Names](https://blog.thecodewhisperer.com/permalink/a-model-for-improving-names)
+  - [Naming Process](https://www.digdeeproots.com/articles/on/naming-process/)
 - commit more frequently with the following commit message patterns:
-  - https://github.com/RefactoringCombos/ArlosCommitNotation
-  - https://www.conventionalcommits.org/en/v1.0.0/#specification
+  - [Tag as a process from Arlo](https://github.com/RefactoringCombos/ArlosCommitNotation)
+  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
   - describe high level/business intention
 - introduce indirection steps to avoid big steps
-  - steps for approach 1
-    - Create a Warm, Dry Place where I can change code and disrupt clients less.
-    - Focus on changes inside the Warm, Dry Place.
-    - Publish the changes when they’re ready, which often means inlining the Warm, Dry Place (put it back where it was) or inlining the clients of the Warm, Dry Place (the new code replaces some older code).
-  - steps for approach 2 (introduce parameter object)
-    - https://www.youtube.com/watch?v=hGkdDxYCCKY&ab_channel=tomphp
-  - steps for approach 3 (adding the wrapper)
-    - extract a function that takes the primitive value f(p)
-    - introduce parameter object to wrap p into wrapper w, so that now we have f(w)
-    - move f() onto class W. (what's left is moving any behaviour that ask for w.getP() onto W)
-    - for remaining function g(p) put in the line w = new W(p) and then migrate all the internals from p to w.p (or w.getP() or whatever you call it)
-    - extract parameter on new W(p), so that g now takes a w instead of p
-    - move g() onto W
-  - steps for approach 4 (liberating the wrapped)
-    - extract all the functions of p that you want
-    - promote p to a field on the current class
-    - extract delegate to class W, creating a new class that as p as a field, leaving behind this.w = new W(p)
-    - clean up
+  - [Introduce an indirection layer](https://github.com/tonytvo/introduce-indirection-layer)
 - **read it, understand it, and put the information in the code**
 - Clean up as we go
   - keep track of which clean-up items to propose so that we can eventually do them.
@@ -36,7 +21,7 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
   - As a note, we started it out with production code and test code are closed together because it would be easier for us to move in small steps. The production code is still changing quite a bit and we're not sure what kind of abstraction/API we want to publish yet.
   - organize the source code so that the public API functions are closer to the top of the file
 - Remove duplication
-  - insert the remove duplication patterns here.
+  - <insert>the remove duplication patterns here</insert>.
 - Context Independence
   - helps to decide whether an object hides too much or hides the wrong information
   - has no built-in knowledge about the system in which it executes.
@@ -53,7 +38,7 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
   - when you feel there's a risk in missing some important details and it could delay the project.
   - when you have difficulty in thinking about tests/what to test, it's good to think in term of one level higher in the call stacks.
   - "when in doubt, zoom out"
-- How to learn effectively (or how to read a book)
+# How to learn effectively
   - first, write a summary of the book to get a high-level overview of the topics of the book cover (I often copied from previous summaries to get things started and update the summaries as I go along)
   - then, elaborate/dig deeper into each topic wherever the curiosity takes you
   - the trick to retention is not to read it once but to write a good summary and review it often as much as you can.
