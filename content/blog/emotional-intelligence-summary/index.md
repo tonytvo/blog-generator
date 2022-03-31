@@ -20,6 +20,13 @@ tags: ["productivity", "communication", "selfimprovement"]
   - They have discipline and are self-motivated
   - They listen even if they disagree
   - They look for ways to improve when things don't go according to plan.
+  - **EI is about figuring out how to apply, adapt, and deliver based on the needs of the person we're with and what stage of the process they're in**
+
+# EI Rewiring Process
+- Own it, Face it, Feel it, Ask it, Drive it
+- sometimes, our sub-conscious mind causes us to try and validate our emotional response consciously. For example, if you're not feeling great, you might be looking for ways that the day is bad or getting worse.
+- power of pause: pausing after someone's answered a question of said something (for dramatic effect) to encourage them to draw upon their sub-conscious mind and bring deeper thoughts/feelings to the conversation.
+- Identify our own belief and values
 
 # Emotional intelligence: the four skills
 - A Different perspective on Emotional Intelligence from Daniel Goleman
