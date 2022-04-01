@@ -27,6 +27,9 @@ tags: ["productivity", "communication", "selfimprovement"]
 - sometimes, our sub-conscious mind causes us to try and validate our emotional response consciously. For example, if you're not feeling great, you might be looking for ways that the day is bad or getting worse.
 - power of pause: pausing after someone's answered a question of said something (for dramatic effect) to encourage them to draw upon their sub-conscious mind and bring deeper thoughts/feelings to the conversation.
 - Identify our own belief and values
+- "Our own minds is what created fear and our own mind is the only thing that can smash through it"
+- Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
+- accepting that something is going to happen and that the only thing we can control is how we choose to response is where EI comes in.
 # [Fixed Mindset vs Growth Mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
 - I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
 - when people give me feedback, it feels like criticism -> **I appreciate when people give me feedback ,it helps me learn and grow**
@@ -326,7 +329,13 @@ replace "why is this happening to me" with "what is this trying to teach me?", e
 
 "be crazy, be stupid, be silly, be weird, be whatever, because life is too short to be anything but happy."
 
+"Our own minds is what created fear and our own mind is the only thing that can smash through it"
 
+"Begin by asking yourself, "What emotion to I want to trigger in this situation?"
+
+Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
+
+Accepting that something is going to happen and that the only thing we can control is how we choose to respond is where EI comes in
 
 # References
 - https://aimwa.com/workplaceconversations/growth-development/workplace-skills/five-steps-to-managing-your-emotions/
