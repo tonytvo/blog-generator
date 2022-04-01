@@ -30,6 +30,9 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
   - which moves or design concepts are available to me in java that I can use to add poka-yoke to my designs?
   - which moves or design concepts are available to me in other programming languages that I wish I could use to add poka-yoke to my java designs?
 
+# Saff Squeeze
+- insert more content here
+
 # Tips and Tricks
 - introduce indirection steps to avoid big steps
   - [Introduce an indirection layer](https://github.com/tonytvo/introduce-indirection-layer)
