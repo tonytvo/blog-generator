@@ -27,7 +27,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - sometimes, our sub-conscious mind causes us to try and validate our emotional response consciously. For example, if you're not feeling great, you might be looking for ways that the day is bad or getting worse.
 - power of pause: pausing after someone's answered a question of said something (for dramatic effect) to encourage them to draw upon their sub-conscious mind and bring deeper thoughts/feelings to the conversation.
 - Identify our own belief and values
-# [fixed mindset vs growth mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
+# [Fixed Mindset vs Growth Mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
 - I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
 - when people give me feedback, it feels like criticism -> **I appreciate when people give me feedback ,it helps me learn and grow**
 - I'm just not good at math -> **Math is challenging for me, but I know I can improve**
