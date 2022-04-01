@@ -27,6 +27,22 @@ tags: ["productivity", "communication", "selfimprovement"]
 - sometimes, our sub-conscious mind causes us to try and validate our emotional response consciously. For example, if you're not feeling great, you might be looking for ways that the day is bad or getting worse.
 - power of pause: pausing after someone's answered a question of said something (for dramatic effect) to encourage them to draw upon their sub-conscious mind and bring deeper thoughts/feelings to the conversation.
 - Identify our own belief and values
+# [fixed mindset vs growth mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
+- I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
+- when people give me feedback, it feels like criticism -> **I appreciate when people give me feedback ,it helps me learn and grow**
+- I'm just not good at math -> **Math is challenging for me, but I know I can improve**
+- I'm too shy to speak in front of the class -> **With practice, I can become more confident and improve my public speaking skills**
+- I'm already a really good writer. I don't need to get any better -> **There's always room for improvement**
+- people who are naturally smart don't need to try hard to succeed -> **No one is born smart. We can all improve with time, effort and persistence**
+- Other people's successes make me feed bad about myself -> **Other people's successes encourage and inspire me. They show me what is possible**
+- Successful people are lucky/talented and have never experienced failure -> **Failure is part of success. Most successful people have failed many times, but they succeeded because they didn't quit**
+- I wish I was as good at baseball as you, it's not fair -> **Your skills as a baseball player inspire me. Do you have any tips to help me improve**
+- It's embarrassing when I make a mistake -> **everyone makes mistakes and mistakes are opportunities to learn**
+- If I don't try new or hard things, then I won't fail -> **I have to try new and difficult things in order to grow, even if I fail at first**
+- When I fail, I get frustrated and give up -> **When I fail or get frustrated, I try again using the lessons I've learned.**
+- Failure means it is time to give up -> **I only truly fail when I stop trying**
+- I can't do that -> **I can't do that yet, I'm going to keep going, try new strategies, and/or ask for help until I understand it**
+- If I don't improve right away, I get frustrated. I start to criticize myself -> **I know improvement takes time and I celebrate the small steps. Even a little progress makes a difference**
 
 # Emotional intelligence: the four skills
 - A Different perspective on Emotional Intelligence from Daniel Goleman
@@ -304,6 +320,14 @@ tags: ["productivity", "communication", "selfimprovement"]
 
 "If I could sum up emotional in 2 words, it would  be 'own it'"
 
+replace "why is this happening to me" with "what is this trying to teach me?", everything shifts.
+
+"today I refuse to stress myself out about things I cannot control or change?"
+
+"be crazy, be stupid, be silly, be weird, be whatever, because life is too short to be anything but happy."
+
+
+
 # References
 - https://aimwa.com/workplaceconversations/growth-development/workplace-skills/five-steps-to-managing-your-emotions/
 - https://podcasts.apple.com/us/podcast/emotional-intelligence-with-amy-jacobson/id1345245341?i=1000528823565
@@ -313,3 +337,4 @@ tags: ["productivity", "communication", "selfimprovement"]
 - https://lifeclub.org/books/emotional-intelligence-2-0-travis-bradberry-and-jean-greaves-review-summary
 - https://thepowermoves.com/emotional-intelligence-2-0/
 - https://gracelead.files.wordpress.com/2016/09/emotional-intelligence-summary.pdf
+- https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples
