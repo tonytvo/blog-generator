@@ -317,6 +317,25 @@ tags: ["productivity", "communication", "selfimprovement"]
 - Help the other person understand your side. Communicate clearly and directly
 - Even if there is disagreement, once you understand both perspectives, find a way to move the conversation to closure.
 - After the meeting, keep in touch with the person to see how they are doing.
+# Questions
+- what the worst things that could possibly happen?
+  - what's the underlying core emotions?
+  - what's my need?
+- how do you either limit or mitigate the risk from occurring?
+  - what would need to happen for this not to be a problem
+  - what beliefs would you need?
+  - what training or skills? what emotions would you need?
+  - what do you physically need?
+- what is the easiest way to solve this?
+  - what is the hardest way to solve this?
+  - what is the quickest way or the longest way?
+  - how would you feel if you solved this?
+  - do you want to feel like that?
+  - what is the first step to making this happen?
+  - what could you do right now?
+- how do you current responses make you feel? why is this a problem?
+- how do you think you could leverage your mindset in different situations, to your advantage?
+- how do you think we can be more accommodating of each other's dominant modalities in a collaborative setting?
 # Quotes
 
 "Emotional intelligence is your ability to recognize and understand emotions in yourself and others, and your ability to use this awareness to manage your behavior and relationships"
