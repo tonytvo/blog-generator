@@ -5,6 +5,12 @@ description: "Summary notes on Evolutionary Design Sessions With JBrain"
 tags: ["evolutionarydesign", "tdd", "refactoring"]
 ---
 
+# Evolutionary Design Patterns
+- introduce indirection steps to avoid big steps
+  - [Introduce an indirection layer](https://github.com/tonytvo/introduce-indirection-layer)
+- **read it, understand it, and put the information in the code**
+- Clean up as we go
+- 
 # Intent revealing names 
   - [A Model for Improving Names](https://blog.thecodewhisperer.com/permalink/a-model-for-improving-names)
   - [Naming Process](https://www.digdeeproots.com/articles/on/naming-process/)
@@ -31,13 +37,11 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
   - which moves or design concepts are available to me in other programming languages that I wish I could use to add poka-yoke to my java designs?
 
 # Saff Squeeze
-- insert more content here
+- [Saff Squeeze from J.B.](https://blog.thecodewhisperer.com/permalink/the-saff-squeeze)
 
 # Tips and Tricks
-- introduce indirection steps to avoid big steps
-  - [Introduce an indirection layer](https://github.com/tonytvo/introduce-indirection-layer)
-- **read it, understand it, and put the information in the code**
-- Clean up as we go
+
+
   - keep track of which clean-up items to propose so that we can eventually do them.
 - When it's appropriate to isolate production code into their own file/module.
   - "when it's necessary"
@@ -87,6 +91,8 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
     - how far can you get before you're stuck? once you're stuck, you can ask a more specific question, which might lead to collecting a new "word"
     - can you get what you want another way?
     - try to practice solving the same problem in different ways and compare/contrast solution
+
+# Questions
 
 # Quotes
 # References
