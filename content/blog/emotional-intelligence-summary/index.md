@@ -43,22 +43,8 @@ tags: ["productivity", "communication", "selfimprovement"]
   - First thing we want is to be heard
 - Respond
   - Help the other person gain control of their emotions and feel a connection
+  - [Empathetic System Architecture](./empathetic-system-architecture.pdf)
 
-### Strategies
-- Listen and ask open questions
-  - Do not interrupt just listen, ask open ended question to keep them talking
-  - You will know they are done talking when they ask a question
-- Acknowledge and Pause
-  - Doesn't mean agreeing with the emotional response
-  - Acknowledge what has happened and the circumstances
-  - Pause is to ensure they have said everything they want/need to say
-- How do we fix this?
-  - Majority of people in this state already know what they want to happen
-- Actions
-  - List and confirm actions that will be taken, committing to time frame and ownership
-  - Following through with commitments is crucial
-- Support
-  - Say "What else can I do to help?"
 # [Fixed Mindset vs Growth Mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
 - I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
 - when people give me feedback, it feels like criticism -> **I appreciate when people give me feedback ,it helps me learn and grow**
@@ -350,6 +336,22 @@ tags: ["productivity", "communication", "selfimprovement"]
 - Help the other person understand your side. Communicate clearly and directly
 - Even if there is disagreement, once you understand both perspectives, find a way to move the conversation to closure.
 - After the meeting, keep in touch with the person to see how they are doing.
+### Strategies for being empathetic
+- Listen and ask open questions
+  - Do not interrupt just listen, ask open ended question to keep them talking
+  - You will know they are done talking when they ask a question
+- Acknowledge and Pause
+  - Doesn't mean agreeing with the emotional response
+  - Acknowledge what has happened and the circumstances
+  - Pause is to ensure they have said everything they want/need to say
+- How do we fix this?
+  - Majority of people in this state already know what they want to happen
+- Actions
+  - List and confirm actions that will be taken, committing to time frame and ownership
+  - Following through with commitments is crucial
+- Support
+  - Say "What else can I do to help?"
+
 # Questions
 - what the worst things that could possibly happen?
   - what's the underlying core emotions?
