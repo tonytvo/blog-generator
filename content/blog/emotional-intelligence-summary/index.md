@@ -30,6 +30,35 @@ tags: ["productivity", "communication", "selfimprovement"]
 - "Our own minds is what created fear and our own mind is the only thing that can smash through it"
 - Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
 - accepting that something is going to happen and that the only thing we can control is how we choose to response is where EI comes in.
+
+# Empathy
+- Sympathy is feeling sorry for someone where as empathy is recognizing the emotional response someone is having and how it feels to have that emotional response
+  - Putting yourself in their shoes is dangerous because that typically comes with judgement
+  - We don't need to know what has happened, just recognize what emotion and the severity of that emotion
+
+## Steps to Empathy
+- Recognize which emotion the person is feeling
+- Recall the last time you felt that emotion
+  - What was the best and worst thing someone could have said or done to you in that moment
+  - First thing we want is to be heard
+- Respond
+  - Help the other person gain control of their emotions and feel a connection
+
+### Strategies
+- Listen and ask open questions
+  - Do not interrupt just listen, ask open ended question to keep them talking
+  - You will know they are done talking when they ask a question
+- Acknowledge and Pause
+  - Doesn't mean agreeing with the emotional response
+  - Acknowledge what has happened and the circumstances
+  - Pause is to ensure they have said everything they want/need to say
+- How do we fix this?
+  - Majority of people in this state already know what they want to happen
+- Actions
+  - List and confirm actions that will be taken, committing to time frame and ownership
+  - Following through with commitments is crucial
+- Support
+  - Say "What else can I do to help?"
 # [Fixed Mindset vs Growth Mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
 - I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
 - when people give me feedback, it feels like criticism -> **I appreciate when people give me feedback ,it helps me learn and grow**
@@ -310,6 +339,10 @@ tags: ["productivity", "communication", "selfimprovement"]
 - Look at both sides to figure out where the interaction went off track.
 - Say something neutral to help you take a pause. It can be as simple as "This is hard"
 
+### Ask, Ask, Tell
+- Use open communication to ask someone how to do/achieve something, if they still don't do it keep emotion out of it, remaining calm and factual and tell them what they need to do. Set clear expectations, including consequences
+- maybe ask the reason why they don't want to do it?
+
 ### Tackle a Tough Conversation
 - Start your conversation by stating the common ground you share.
 - Ask the person to share his or her point of view
@@ -336,6 +369,16 @@ tags: ["productivity", "communication", "selfimprovement"]
 - how do you current responses make you feel? why is this a problem?
 - how do you think you could leverage your mindset in different situations, to your advantage?
 - how do you think we can be more accommodating of each other's dominant modalities in a collaborative setting?
+- What is our motivator/emotional driver?
+- What are our values and beliefs?
+- what are our default emotional responses
+- what are our Style of Praise?
+- what are our style of feedback?
+- How to Create a Connection?
+- How can you be empathetic if you have never felt the emotion someone is feeling before?
+- Has anyone in your life stood out as being very empathetic? What did they do that made you feel this way?
+- What is your EI profile?
+- What type of person are you? Work machine, analyst, innovator, tech guru, people lover?
 # Quotes
 
 "Emotional intelligence is your ability to recognize and understand emotions in yourself and others, and your ability to use this awareness to manage your behavior and relationships"
