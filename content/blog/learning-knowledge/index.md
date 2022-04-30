@@ -21,11 +21,7 @@ tags: ["productivity", "learning"]
 
 # Overview
 
-  ## the top 12 most useful & universal mental models
-
-![top 12 most useful & universal mental models](./mental-models-infographic.jpg)
-
-  ## two types of knowledge: max planck/chauffeur test
+## two types of knowledge: max planck/chauffeur test
   - [two types of knowledge](https://fs.blog/two-types-of-knowledge/)
   - The first type of knowledge is real, it can't be bought. It can't be copied. If you want real knowledge you need to earn it. The second type of knowledge is copied. On the surface you know the answer but you lack the understanding to show your work.
   - real knowledge comes from ability to explain things without using jargon or vague terms, understand how things interact and predict the consequences.
@@ -46,8 +42,6 @@ tags: ["productivity", "learning"]
     - with speed reading, you would reach the point of unconscious competence when this simply becomes the way you read, without deliberate attention.
   - true mastery
     - it's second nature to perform a skill at an elite level.
-
-# [Study group patterns](/study-group-patterns-summary)
 
 # [Fixed Mindset vs Growth Mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
 - I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
@@ -455,50 +449,8 @@ tags: ["productivity", "learning"]
 - avoid word-by-word reading
   - observe chunks of word at a single glance.
   - practice expanding your vision to see groups of words, i.e.: image for groups of words
-# Mental models
-## Circle of competence
-- [circle of competence](https://fs.blog/circle-of-competence/)
-  - each of us, through experience or study, has built up useful knowledge on certain areas of the world. Some areas are understood by most of us, while some areas require a lot more specialty to evaluate
-  - that basic knowledge, along with some understanding of accounting and a little bit of study, would enable one to evaluate and invest in any number of restaurants and restaurant chains, public or private.
-  - where should we devote our limited time in life, to achieve the most success? define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say "I don't know"
-  - you know when to follow the rules and when they'll get you in trouble.
+that we try to understand
 
-## Work required to have an opinion
-- you have to do the reading, you have to talk to competent people and understand their arguments
-- you have to think about key variables and how they interact over time.
-- you have to listen and chase down arguments that run counter to your views.
-- you have to think about how you might be fooling yourself.
-- you have to see the issue from multiple perspectives.
-- you need to become your most intelligent critic and have the intellectual honesty to kill some of your best-loved ideas.
-- doing the work counteracts our natural desire to seek out only information that confirms that we believe we know.
-
-## Pareto 20/80 principle
-  - most of your results are going to come from just a small percentage of your effort or work.
-    - 20% of relationships lead to 80% happiness
-    - 20% exercises lead to 80% of health benefit
-    - 20% of items on your todo list lead to 80% of productivity
-    - 20% of foods you eat cause 80% of your sickness
-    - by taking 10 minutes per day for prioritization, you can double your productivity
-    - by looking at what experiences give you the most delight, you can begin to engineer your life
-
-## First principles thinking
-- reverse-engineer complicated situations and unleash creative possibility
-- reasoning from first principles, it's a tool to help clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them. what remains are essential.
-- if you know the first principles of something, you can build the rest of your knowledge around them to produce something new.
-- to break down complicated problems into basic elements and then reassemble them from the ground up.
-- it's one of the best ways to learn to think for yourself, unlock your creative potential, and move from linear to non-linear results.
-
-### techniques for establishing first principles
-  - socratic questioning
-    - clarifying your thinking and explaining the origins of your ideas (why do I think this? what exactly do I think?)
-    - challenging assumptions (how do I know this is true? what if I thought the opposite?)
-    - looking for evidence (how can I back this up? what are the sources?)
-    - considering alternative perspectives (what might others think? how do I know I'm correct?)
-    - examining consequences and implications (what if I am wrong? what are the consequences if I am?)
-    - questioning the original questions (why did I think that? was I correct? what conclusions can I draw from the reasoning process?)
-    - the process stops you from relying on your gut and limits strong emotional responses. This process helps you build something that lasts.
-  - five why? 
-    - asking why with the hope to get closer to the truth that we try to understand
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
