@@ -102,6 +102,7 @@ tags: ["productivity", "learning"]
   
   ### habits for studies
   - ![habits for studies](./studies-habits.jpg)
+  
   - **F - Forget**.
     - You need to forget what you know about the subject, forget situational things that are not urgent, and temporarily forget your limitations.
     - start with a beginner's mind
