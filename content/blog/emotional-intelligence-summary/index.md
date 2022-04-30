@@ -225,6 +225,8 @@ tags: ["productivity", "communication", "selfimprovement"]
 ### Practice the Art of Listening
 - Listening requires focus, it's far more than hearing the words.
 - Listen to the tone, speed, and volume of the voice and how those fluctuate. Are those sending the message beyond what the words say? You won't know unless you focus fully on the person.
+- ![do and don't for good active listener](./do-dont-good-active-listener.png)
+- ![good active listener cheat sheet](./good-active-listener-cheat-sheet.png)
 
 ### Go People Watching
 - Find a public place to watch how people interact with one another. Notice body language.
@@ -336,7 +338,16 @@ tags: ["productivity", "communication", "selfimprovement"]
 - Help the other person understand your side. Communicate clearly and directly
 - Even if there is disagreement, once you understand both perspectives, find a way to move the conversation to closure.
 - After the meeting, keep in touch with the person to see how they are doing.
-### Strategies for being empathetic
+- **Pausing between points** allows the audience to take in your idea
+- **Slow down** when explaining unfamiliar concepts
+- **Communicate to express** not impress
+- Talk with a **strong confident voice** (be conscious of the 3 V's)
+- Only **share what your audience must not forget** in terms of level of detail
+- Follow the **3 What's** to keep conversations organized (see below)
+- Use **stories, examples and analogies** to make your points more memorable and relatable for the audience
+- **Standing up when presenting** gives you a wider range of motion, you typically have more visual gestures (talking with your hand) and your audience can hear a difference in your voice (important even if you are in a voice only call)
+
+### Being empathetic
 - Listen and ask open questions
   - Do not interrupt just listen, ask open ended question to keep them talking
   - You will know they are done talking when they ask a question
