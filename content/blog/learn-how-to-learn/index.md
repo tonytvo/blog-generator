@@ -25,7 +25,7 @@ tags: ["productivity", "learning"]
 
 # [Mental Models](/mental-models)
 
-# [Learning Organizations](/learning-organization)
+# [Learning Organization](/learning-organization)
 
 # Quotes
 
