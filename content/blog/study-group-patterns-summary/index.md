@@ -285,6 +285,40 @@ tags: ["productivity", "learning"]
 
 ## sequential study
 
+## accelerated learning
+
+- Are we engaged and joyful (**ALIVE**) here? How can I make it more so?
+  - things that can boost aliveness: urgency and need, jokes and humor, imperfection and vulnerability, mastery and success, music and singing, games and play, anything cute, intense colors, smells, textures, tastes, friend ship, new and old, variety, change of scene, full belly, comfort, rest, hydration, safety, consent, love and romance, risk and danger, storytelling and role models, beauty, ugliness, family and community, healthy competition, laughter and competition
+- Are we doing something real (**FLUENCY**) here - how can we do that even more so?
+  - fluency is defined unconscious competence, whatever you can do when there is no time to think
+  - deliberate practice
+- Is this space driving high-quality interactions and experiences (**SETTING**)? How can it do that even more?
+  - choose your **SETTING FIRST** to come closest to performing the skills you learn in the environment where you'll apply them for real.
+- Are we acting with clarity and confidence (**OBVIOUS**)? How can we support that even more so?
+  - **start obvious, stay obvious**
+  - learning goals can be made more obvious in many ways:
+    - talk slowly and clearly
+    - use concise, commonly understood language; avoid jargon
+    - illuminate the learning space sufficiently
+    - tune into the diverse abilities and disabilities of the learners
+    - pump up emotions
+    - use iconic illustrations, materials, and tools
+    - use familiar and favorite tools
+    - use solid, clearly defined colors and shapes
+    - use the same colors, shapes, icons, or sounds to reinforce meaning
+    - focus learning on physical interactions relevant to the skill
+    - offer more practice for difficult or challenging BITE-SIZED PIECES
+    - offer more opportunities to follow-the-leader, COPY-CAT, or IMITATE THE EXPERT
+    - when in doubt, just make it more obvious - whatever that means in your situation
+- Are we steadily improving in effectiveness (**FOCUS ON FLOW**)? How can we do that even better?
+  - when in doubt, **mumble** your way through it by just picking a starting point, and refine the design later.
+  - when you find yourself stuck
+    - find something that is difficult to do
+    - break it down into smallest meaningful chunks of skill
+    - work through them piece by piece.
+  - focus on the smallest meaningful chunk of skill, and the smallest number of tools, so that we can obtain the fluent action around those tools
+  - only introduce new MOVE or BITE-SIZED PIECES of learning right when we need them, and not before (**JUST IN TIME**)
+  - anytime you notice yourself becoming lost, dizzy, or overwhelmed by the learning process, call **FULL**, and go somewhere else, get a drink, take a breather, use the bathroom, whatever, but remember to come back and jump back into learning as soon as you can.
 # Quotes
 
 
