@@ -1,32 +1,59 @@
 ---
-title: learning how to learn
+title: mental models
 date: "2021-12-27T22:12:03.284Z"
-description: "learning how to learn summary"
+description: "mental models summary"
 tags: ["productivity", "learning"]
 ---
 
-# Why?
-  - reading/learning can be a "priceless opportunity to furnish your mind and enrich the quality of your life"
-  - read/learn for better understanding of others and myself
-  - read/learn to make fewer mistakes.
-  - read/learn to increase knowledge
-  - read/learn to find meaning
-  - read/learn improves vocabulary, focus, memory and imagination
-  - Odds are that no matter what you're working on, someone somewhere, who is smarter than you, has probably thought about your problem and put it into a book.
-  - there are few things that hold us back and rob us our productivity, prosperity, positivity and peace of mind and reduce our capacity to think, focus, learn, grow, and be fully human
-    - drowning in data and rapid change, we long for strategies and tools to regain some semblance of productivity, performance, and peace of mind
-    - the fleeting ping of digital dopamine pleasure replaces our ability to sustain the attention necessary for deep relationships, deep learning or deep work
-    - overuse of digital technology results in the breakdown of cognitive abilities. Short-term memory pathways will start to deteriorate from underuse if we overuse technology.
-    - we're letting technology do much of our critical thinking and reasoning for us.
+# Overview
 
-# [Study group patterns](/study-group-patterns-summary)
+## the top 12 most useful & universal mental models
 
-# [Learning knowledge](/learning-knowledge)
+![top 12 most useful & universal mental models](./mental-models-infographic.jpg)
 
-# [Mental Models](/mental-models)
+## Circle of competence
+- [circle of competence](https://fs.blog/circle-of-competence/)
+  - each of us, through experience or study, has built up useful knowledge on certain areas of the world. Some areas are understood by most of us, while some areas require a lot more specialty to evaluate
+  - that basic knowledge, along with some understanding of accounting and a little bit of study, would enable one to evaluate and invest in any number of restaurants and restaurant chains, public or private.
+  - where should we devote our limited time in life, to achieve the most success? define the perimeter of your circle of competence, and operate inside. Over time, work to expand that circle but never fool yourself about where it stands today, and never be afraid to say "I don't know"
+  - you know when to follow the rules and when they'll get you in trouble.
 
-# [Learning Organizations](/learning-organization)
+## Work required to have an opinion
+- you have to do the reading, you have to talk to competent people and understand their arguments
+- you have to think about key variables and how they interact over time.
+- you have to listen and chase down arguments that run counter to your views.
+- you have to think about how you might be fooling yourself.
+- you have to see the issue from multiple perspectives.
+- you need to become your most intelligent critic and have the intellectual honesty to kill some of your best-loved ideas.
+- doing the work counteracts our natural desire to seek out only information that confirms that we believe we know.
 
+## Pareto 20/80 principle
+  - most of your results are going to come from just a small percentage of your effort or work.
+    - 20% of relationships lead to 80% happiness
+    - 20% exercises lead to 80% of health benefit
+    - 20% of items on your todo list lead to 80% of productivity
+    - 20% of foods you eat cause 80% of your sickness
+    - by taking 10 minutes per day for prioritization, you can double your productivity
+    - by looking at what experiences give you the most delight, you can begin to engineer your life
+
+## First principles thinking
+- reverse-engineer complicated situations and unleash creative possibility
+- reasoning from first principles, it's a tool to help clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them. what remains are essential.
+- if you know the first principles of something, you can build the rest of your knowledge around them to produce something new.
+- to break down complicated problems into basic elements and then reassemble them from the ground up.
+- it's one of the best ways to learn to think for yourself, unlock your creative potential, and move from linear to non-linear results.
+
+### techniques for establishing first principles
+  - socratic questioning
+    - clarifying your thinking and explaining the origins of your ideas (why do I think this? what exactly do I think?)
+    - challenging assumptions (how do I know this is true? what if I thought the opposite?)
+    - looking for evidence (how can I back this up? what are the sources?)
+    - considering alternative perspectives (what might others think? how do I know I'm correct?)
+    - examining consequences and implications (what if I am wrong? what are the consequences if I am?)
+    - questioning the original questions (why did I think that? was I correct? what conclusions can I draw from the reasoning process?)
+    - the process stops you from relying on your gut and limits strong emotional responses. This process helps you build something that lasts.
+  - five why? 
+    - asking why with the hope to get closer to the truth that we try to understand
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
@@ -102,7 +129,6 @@ to understand is to know what to do
 "the key to better comprehension is asking better questions"
 
 you shall receive when you ask questions
-
 
 # References
 - https://home.mindvalley.com/quests/en/superbrain
