@@ -90,4 +90,8 @@ you shall receive when you ask questions
 # References
 - [Turn the ship around](https://www.amazon.ca/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Fifth Discipline](https://www.amazon.ca/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK/ref=sr_1_1?keywords=fifth+discipline&qid=1651333880&sprefix=fifth+dis%2Caps%2C259&sr=8-1)
+- [Thinking in Systems](https://www.amazon.ca/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA/ref=sr_1_1?keywords=system+thinking&qid=1651335930&sprefix=system+think%2Caps%2C112&sr=8-1)
+- https://mentalpivot.com/book-notes-thinking-in-systems-a-primer-by-donella-meadows/
+- https://readingraphics.com/understanding-systems-thinking-the-beer-game/
+- https://www.mudamasters.com/en/change-management/fifth-discipline-psenge-summary
 - [Mob mentality show discussion on learning organizations](https://www.youtube.com/watch?v=U_KkTQabKXE&t=1609s&ab_channel=MobMentalityShow)
