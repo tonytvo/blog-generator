@@ -1,7 +1,7 @@
 ---
 title: learning how to learn
 date: "2021-12-27T22:12:03.284Z"
-description: "learning how to learn summary"
+description: "learning how to learn"
 tags: ["productivity", "learning"]
 ---
 
