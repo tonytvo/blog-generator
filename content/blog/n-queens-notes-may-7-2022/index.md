@@ -43,6 +43,8 @@ backtrack(int a[], int k, data input) {
   - it's expensive to go through 2<sup>64</sup> true/false vector for 8x8 board.
   - to make a backtracking program efficient enough to solve interesting problems, we must **prune the search space by terminating every search path the instant it becomes clear it cannot lead to a solution.**
   - Since no 2 queens can occupy the same column, we know that the n columns of a complete solution must form a permutation of n, this reduce the search space to 8! = 40320.
+  - try to start from the client first/intention first
+  - avoid using getter (help to reasoning where to put the behavior to avoid the getter method)
 
 # References
 - [Programming Challenges - Steven S Skiena, Miguel A. Revilla](https://www.amazon.ca/Programming-Challenges-Contest-Training-Computer-ebook/dp/B008AFF2ZU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1651932964&sr=8-1)
