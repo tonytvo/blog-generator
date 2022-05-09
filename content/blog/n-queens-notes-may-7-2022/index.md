@@ -49,7 +49,7 @@ backtrack(int a[], int k, data input) {
   - avoid using getter (help to reasoning where to put the behavior to avoid the getter method)
   - try to use approvals, but needs to reset the approved file whenever I need to change the test name
   - here's the PR -> https://github.com/tonytvo/n-queens/pull/1
-  - takes about 2 mins to find solution for 12x12 board
+  - takes about 2 mins and 500MB to find solution for 12x12 board
 
 # References
 - [Programming Challenges - Steven S Skiena, Miguel A. Revilla](https://www.amazon.ca/Programming-Challenges-Contest-Training-Computer-ebook/dp/B008AFF2ZU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1651932964&sr=8-1)
