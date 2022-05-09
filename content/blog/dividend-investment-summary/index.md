@@ -19,3 +19,4 @@ tags: ["investing", "dividendinvesting"]
 - [Dividend Growth Machine](./Dividend-Growth-Machine.pdf)
 - https://www.reading.guru/the-single-best-investment-by-lowell-miller/
 - https://www.reading.guru/dividend-growth-machine-by-nathan-winklepleck/
+- https://www.dividendgrowthinvestor.com/2014/03/how-to-be-successful-dividend-investor.html
