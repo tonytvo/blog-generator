@@ -8,7 +8,7 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
 # Questions
 - What have you learned?
   - it's a refactoring to pattern exercise
-  - take this opportunity to dig deeper into domain/refactoring to patterns and Arlo commits.
+  - take this opportunity to review into domain/refactoring to patterns and Arlo commits -> https://jay.bazuzi.com/why-acn/
 
 - A strategy I followed?
 
