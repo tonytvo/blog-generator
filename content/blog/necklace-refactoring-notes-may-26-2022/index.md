@@ -7,6 +7,8 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
 
 # Questions
 - What have you learned?
+  - it's a refactoring to pattern exercise
+  - take this opportunity to dig deeper into domain/refactoring to patterns and Arlo commits.
 
 - A strategy I followed?
 
