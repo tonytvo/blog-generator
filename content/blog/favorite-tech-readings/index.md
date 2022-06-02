@@ -38,3 +38,7 @@ Keeping up with things to reads/watch and share the one that have influenced me 
 - [Enterprise Architecture = Architecting the Enterprise](https://www.youtube.com/watch?v=mS0AJLqmnvQ&ab_channel=SkillsMatter%28IncorporatingYOW%21Conferences%29)
 - [tackling complexity in the heart of software](https://www.youtube.com/watch?v=dnUFEg68ESM&ab_channel=Domain-DrivenDesignEurope)
 - [Continuous Delivery - Sounds Great But it won't work here](https://www.youtube.com/watch?v=IvWr29afDF8&ab_channel=AgileTestingDays)
+- [Slant best tech talks](https://www.slant.co/topics/583/~best-programming-technical-talks)
+- [best tech talks](https://techyaks.com/)
+- [large scale refactoring sponsorship series by Philippe Bourgau](https://philippe.bourgau.net/categories/#large-scale-refactoring-sponsorship-series)
+- [Thinking functionally series](https://fsharpforfunandprofit.com/posts/thinking-functionally-intro/)
