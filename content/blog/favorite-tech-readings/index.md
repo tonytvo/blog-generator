@@ -1,8 +1,8 @@
 ---
 title: favorite readings for tech
 date: "2022-05-22T23:46:37.121Z"
-description: "Notes on Necklace May 22th 2022"
-tags: ["evolutionarydesign", "tdd", "algorithm"]
+description: "favorite readings for tech"
+tags: ["evolutionarydesign", "tdd", "algorithm", "reading", "toread"]
 ---
 
 Keeping up with things to reads/watch and share the one that have influenced me in my thinking.
@@ -32,3 +32,9 @@ Keeping up with things to reads/watch and share the one that have influenced me 
 - [The Long Road by Sandro Mancuso](https://www.youtube.com/watch?v=vQDnW265XKU&ab_channel=DevTernityConference)
 - [The present and future of native Graph Technology](https://www.youtube.com/watch?v=_CQehnb6A6o&ab_channel=Neo4j)
 - [Test all the f**ing time, Bryan Liles](https://www.youtube.com/watch?v=iwUR0kOVNs8&ab_channel=LeandroMarcucci)
+- [Make impacts not software, Gojko Adzic](https://www.youtube.com/watch?v=GnK_n9Udhhs&ab_channel=AgileCroatia)
+- [User Story Mapping, Jeff Patton](https://www.youtube.com/watch?v=AzBuohuOU6g&ab_channel=SkillsMatter%28IncorporatingYOW%21Conferences%29)
+- [Uncoupling, Michael Nygard](https://www.youtube.com/watch?v=69ZsszwycPU&ab_channel=DevOpsDaysDFW)
+- [Enterprise Architecture = Architecting the Enterprise](https://www.youtube.com/watch?v=mS0AJLqmnvQ&ab_channel=SkillsMatter%28IncorporatingYOW%21Conferences%29)
+- [tackling complexity in the heart of software](https://www.youtube.com/watch?v=dnUFEg68ESM&ab_channel=Domain-DrivenDesignEurope)
+- [Continuous Delivery - Sounds Great But it won't work here](https://www.youtube.com/watch?v=IvWr29afDF8&ab_channel=AgileTestingDays)
