@@ -19,13 +19,17 @@ tags: ["productivity", "learning"]
     - overuse of digital technology results in the breakdown of cognitive abilities. Short-term memory pathways will start to deteriorate from underuse if we overuse technology.
     - we're letting technology do much of our critical thinking and reasoning for us.
 
-# [Study group patterns](/study-group-patterns-summary)
+# Study group patterns
+- [Study group patterns summary](/study-group-patterns-summary)
 
-# [Learning knowledge](/learning-knowledge)
+# [Learning knowledge]
+- [learning knowledge summary](/learning-knowledge)
 
 # [Mental Models](/mental-models)
+- [mental models summary](/mental-models)
 
 # [Learning Organization](/learning-organization)
+- [learning organization summary](/learning-organization)
 
 # Quotes
 

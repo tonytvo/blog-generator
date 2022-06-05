@@ -54,6 +54,10 @@ tags: ["productivity", "learning"]
     - the process stops you from relying on your gut and limits strong emotional responses. This process helps you build something that lasts.
   - five why? 
     - asking why with the hope to get closer to the truth that we try to understand
+
+## Externalities
+- [Need to summary from fs.blog](https://fs.blog/externalities-why-we-can-never-do-one-thing/)
+
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
@@ -146,3 +150,5 @@ you shall receive when you ask questions
 - https://www.sitrakaratsimba.com/limitless-upgrade-your-brain-learn-anything-faster-and-unlock-your-exceptional-life/
 - https://theartofliving.com/how-to-read-a-book-summary/
 - https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples
+- https://fs.blog/externalities-why-we-can-never-do-one-thing/
+- https://fs.blog/externalities-why-we-can-never-do-one-thing/

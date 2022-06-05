@@ -6,6 +6,14 @@ tags: ["financialindependence", "valueinvesting"]
 ---
 # Key Points/Goals
 
+# Fundamental Analysis
+- [value investing summary](/value-investing-summary)
+  
+# Technical Analysis
+
+# Cash Flow
+
+# Risk Management
 
 # Questions
 
@@ -15,3 +23,4 @@ tags: ["financialindependence", "valueinvesting"]
 - https://optionstrategiesinsider.com/blog/28-option-strategies-that-all-options-traders-should-know/
 - [10 commandments of option trading for income](./10-Commandments-of-Option-Trading-for-Income.pdf)
 - [The value investing with options minifesto](./VIWO-Minifesto.pdf)
+- [Cashflow academy](https://thecashflowacademy.com/)
