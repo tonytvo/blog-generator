@@ -95,7 +95,7 @@ Generally, the best way to deal with people's problems is to prevent them from a
 
 "negotiators may not be talking to each other, or at least not in such a way as to be understood (given up, no longer attempting serious conversation)"
 
-"misunderstanding, even though you may be speaking directly and they may be hearing you, they may misinterpret what you say"
+misunderstanding, even though you may be speaking directly and they may be hearing you, they may misinterpret what you say
 
 # References
 https://www.beyondintractability.org/bksum/fisher-getting
