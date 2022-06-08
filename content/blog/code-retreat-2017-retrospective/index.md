@@ -16,9 +16,9 @@ what’s the different between integration/component/API tests? should we care?
 when I discuss unit tests with QA, typical answers I get is that it’s programmer tests? IT’S SO NOT TRUE? It does contain many behaviors of the systems, some behaviors are at very low level and business people shouldn’t care about, but I believe **MOST OF THE BEHAVIORS** could and should be expressed at **high level domain language** and can be used as **executable documentation** for different stakeholders such as QA/Non technical people. Should we call those tests as behavior unit tests instead of unit tests?
 
 How can we make the TDD/Refactor/agile practices easier for people to adapt?
+- Maybe, **shrink the change?**
+- Maybe, there’s lots of things can go wrong but there’s few things that you got to get it right, so **script critical moves?**
+- Maybe, Looking for bright spot (examples) so people can see the benefits and **start small?**
+- Maybe, **tweak the environments** to encourage the right behavior and discourage the wrong behavior?
 
-Maybe, **shrink the change?**
-Maybe, there’s lots of things can go wrong but there’s few things that you got to get it right, so **script critical moves?**
-Maybe, Looking for bright spot (examples) so people can see the benefits and **start small?**
-Maybe, **tweak the environments** to encourage the right behavior and discourage the wrong behavior?
 I think code retreat is one of the good place for me to find the answer to that question.
