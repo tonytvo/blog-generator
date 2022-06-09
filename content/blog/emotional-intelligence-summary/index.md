@@ -127,6 +127,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - When you recognize that you are under stress, take some time to recharge your emotional battery.
 ## Self Management
 - the ability to use your awareness of your emotions to stay flexible and direct your behavior positively
+- ![self regulate using neuro-psychology](./self-regulate-using-neuropsychology.png)
 
 ### Breathe Right
 - Shallow breaths deprive your brain of oxygen. This leads to poor concentration, forgetfulness, mood swings, anxiety and lack of energy. Breathe slowly and deeply.
