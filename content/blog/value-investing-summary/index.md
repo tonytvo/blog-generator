@@ -55,6 +55,7 @@ truth seeker
 - Intrinsic value calculation
   - discount cash flow model can be found at
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
+    - https://twitter.com/MnkeDaniel/status/1523721539392540672?t=MacAALagWmxhyXe3OEH1lQ&s=19 (need to be summarized)
   - fixed-income calculator adjusted for equities
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-21/
   - the intrinsic value of bonds
