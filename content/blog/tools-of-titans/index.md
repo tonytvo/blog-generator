@@ -386,7 +386,7 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 **"focus on small daily actions that compound over a long time."**
 
-"when in doubt, zoom out."
+when in doubt, zoom out.
 
 "it's scary to put yourself out there, to expose yourself, to become vulnerable, but it makes all the differences. Be a man, woman in the arena. When you let your mind wander in its truly natural state, good things happen."
 
