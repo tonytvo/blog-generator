@@ -63,6 +63,13 @@ truth seeker
   - the intrinsic value of callable preferred stock
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-23/
 
+# Interpretation of Financial Statements
+- https://www.oldschoolvalue.com/tutorial/this-is-how-buffett-interprets-financial-statements/
+- https://themakingofamillionaire.com/warren-buffett-and-the-interpretation-of-financial-statements-a702e959b53a
+- https://www.youtube.com/watch?v=knaQgfxIi18&ab_channel=RV
+- https://www.youtube.com/watch?v=lBBXmim527A&ab_channel=TheSwedishInvestor
+- https://www.youtube.com/watch?v=cRDcAeOJn7s&ab_channel=TheSwedishInvestor
+
 
 # Stock Hedging Strategies
 ## low correlation alternatives
