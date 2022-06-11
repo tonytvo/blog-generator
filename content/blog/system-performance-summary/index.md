@@ -22,6 +22,8 @@ tags: ["evolutionarydesign", "systemperformance"]
   - database reliability engineering book
   - practical monitoring from mike Julian
   - observability engineering
+  - designing data intensive applications -> https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
+  - [Thinking in Systems](https://www.amazon.ca/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
 
 
 # References

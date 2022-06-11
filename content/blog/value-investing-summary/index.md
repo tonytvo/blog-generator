@@ -69,6 +69,7 @@ truth seeker
 - https://www.youtube.com/watch?v=knaQgfxIi18&ab_channel=RV
 - https://www.youtube.com/watch?v=lBBXmim527A&ab_channel=TheSwedishInvestor
 - https://www.youtube.com/watch?v=cRDcAeOJn7s&ab_channel=TheSwedishInvestor
+- https://battleshipinvesting.com/warren-buffett-and-the-interpretation-of-financial-statements-book-review/#:~:text=Durable%20Competitive%20Advantage%20Through%20the,sell%20more%20of%20their%20products.
 
 
 # Stock Hedging Strategies
@@ -95,3 +96,4 @@ truth seeker
 - https://www.youtube.com/playlist?list=PLI84Sf0aDgaxGozvfNAKLonKIoD-sDeDp
 - https://diggingforvalue.com/book-summary/security-analysis/
 - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/
+- [Thinking in systems](Thinking in Systems)
