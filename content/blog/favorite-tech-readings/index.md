@@ -42,3 +42,4 @@ Keeping up with things to reads/watch and share the one that have influenced me 
 - [best tech talks](https://techyaks.com/)
 - [large scale refactoring sponsorship series by Philippe Bourgau](https://philippe.bourgau.net/categories/#large-scale-refactoring-sponsorship-series)
 - [Thinking functionally series](https://fsharpforfunandprofit.com/posts/thinking-functionally-intro/)
+- [when demand exceeds capacity](http://www.leanessays.com/2022/06/when-demand-exceeds-capacity.html)
