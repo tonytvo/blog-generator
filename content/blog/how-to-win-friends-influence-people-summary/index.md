@@ -17,6 +17,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - people crave the feeling of importance. "What is there about him that I can honestly admire?"
   - everyone has something they can teach you, and you benefit by figuring out what that is. This belief leads to genuine interest and appreciation for other people.
   - make the other person feel important and do it sincerely
+  - being good with people is about making people feel good/important and being interested in them.
 - appeal to the other person's interests. Virtually all people care more about what they want than what you want
   - keep asking yourself - "what is it that this person wants?"
 - angry people are often angry because they feel unheard. Once you sympathize with them, they will soften their anger substantially.
@@ -36,13 +37,15 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Begin by emphasizing and continue emphasizing the things on which we agree. People must be started in the affirmative direction and they will often follow readily. 
   - Never tell someone they are wrong, but rather lead them where we would like them to go with questions that they will answer "yes" to 
 - appeal to nobler motives. Everyone likes to be glorious in their own eyes. People believe that they do things for noble and morally upright reasons. If we can appeal to others' noble motives we can successfully convince them to follow our ideas.
-- making people glad to do what you want. encourage people to think about everyone else's perspective, have high expectations, and help people get what they want. being good with people is about making people feel good/important and being interested in them.
+- making people glad to do what you want. encourage people to think about everyone else's perspective, have high expectations, and help people get what they want.
+
 # guidelines to change attitudes and behavior of others without giving offense or arousing resentment
   - Do not promise anything that you can not deliver. Forget about the benefits to yourself and concentrate on the benefits to the other person.
   - ask yourself what is it the other person really wants to
   - consider the benefits that person will receive from doing what you suggest
   - match those benefits to the other person's wants
   - when you make your request, put it in a form that will convey to the other person the idea that he personally will benefit.
+  - make the other person happy about doing the thing you suggest
 
 # How to approach arguments
 - instead, approach with an open-minded view: "I may be wrong, I often am. And if I'm wrong, I want to change and be right. Let's discuss the facts."
@@ -81,8 +84,9 @@ tags: ["productivity", "communication", "selfimprovement"]
 - give the person a fine reputation to live up to. Act as though the trait were already one of his/her outstanding characteristics.
 - let the other people save face.
 - be "hearty in your approbation and lavish in your praise".
+- praise the slightest improvement and praise every improvement.
 - be specific with your compliments and don't give everyone the same compliments.
-- make the fault seem easy to correct.
+- Use encouragement. Make the fault seem easy to correct.
 - frame the improvement in terms of the person's own interests.
 
 # Quotes
