@@ -29,3 +29,5 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
 - https://ardalis.com/what-are-abstractions-in-software-development/
 - https://ardalis.com/aggregate-responsibility-design/
 - https://ardalis.com/domain-modeling-encapsulation/
+- https://refactoring.pl/en/pyramid-of-refactoring-discovery/
+- https://refactoring.pl/en/pyramid-of-refactoring-example/
