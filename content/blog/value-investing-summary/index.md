@@ -84,6 +84,12 @@ truth seeker
 
 "In the short term the market is a voting machine, but in the long term it tracks value"
 
+"A good rule of thumb is to limit the cost of your transaction to no more than 1 percent of the amount of stock you’re buying. For example if a trade costs $9.99 to execute you should buy at least $1,000 worth of stock."
+
+"The best predictor of a mutual fund’s future investment return is not the number of Morningstar stars it receives, but how low its expense ratio is."
+
+"Two: Trying to beat the market is a fool’s errand."
+
 # References
 - https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value.
 - https://prasadcapital.com/2013/03/25/book-summary-value-investing-from-graham-to-buffett-and-beyond/

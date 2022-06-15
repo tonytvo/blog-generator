@@ -14,6 +14,12 @@ tags: ["investing", "dividendinvesting"]
 
 "misunderstanding, even though you may be speaking directly and they may be hearing you, they may misinterpret what you say"
 
+"A good rule of thumb is to limit the cost of your transaction to no more than 1 percent of the amount of stock you’re buying. For example if a trade costs $9.99 to execute you should buy at least $1,000 worth of stock."
+
+"The best predictor of a mutual fund’s future investment return is not the number of Morningstar stars it receives, but how low its expense ratio is."
+
+"Two: Trying to beat the market is a fool’s errand."
+
 # References
 - [Shareholder Yield](./Shareholder-Yield.pdf)
 - [Dividend Growth Machine](./Dividend-Growth-Machine.pdf)
