@@ -1,8 +1,8 @@
 ---
-title: favorite readings for tech
+title: favorite general readings
 date: "2022-05-22T23:46:37.121Z"
-description: "favorite readings for tech"
-tags: ["evolutionarydesign", "tdd", "algorithm", "reading", "toread"]
+description: "favorite general readings"
+tags: ["investing", "valueinvesting", "family", "reading", "toread", "parenting"]
 ---
 
 Keeping up with things to reads/watch and share the one that have influenced me in my thinking.
