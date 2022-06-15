@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
+    "disqus-react": "^1.1.3",
     "gatsby": "^4.15.1",
     "gatsby-plugin-feed": "^4.15.0",
     "gatsby-plugin-google-analytics": "^4.15.0",

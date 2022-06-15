@@ -4,10 +4,19 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { DiscussionEmbed } from "disqus-react"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  const siteMetadata = data.site.siteMetadata
+  const siteTitle = siteMetadata?.title || `Title`
+  const disqusShortName = siteMetadata?.disqus.shortName
+  const disqusConfig = {
+    identifier: post.id,
+    title: post.frontmatter.title,
+    url: siteMetadata.siteUrl + post.frontmatter.path,
+  }
+
   const { previous, next } = data
 
   return (
@@ -60,6 +69,9 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
         </ul>
       </nav>
+      <div>
+        <DiscussionEmbed shortname={disqusShortName} config={disqusConfig} />
+      </div>
     </Layout>
   )
 }
@@ -75,6 +87,9 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        disqus {
+          shortName
+        }
       }
     }
     markdownRemark(id: { eq: $id }) {

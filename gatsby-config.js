@@ -3,12 +3,15 @@ module.exports = {
     title: `Conversations on agile technical practices and investments`,
     author: {
       name: `Tony Vo`,
-      summary: `father, husband and software developer`,
+      summary: `father, husband, son and software developer`,
     },
     description: `Conversations on agile technical practice and investments.`,
     siteUrl: `https://tonytvo.github.io/`,
     social: {
       twitter: `ttrungvo`,
+    },
+    disqus: {
+      shortName: `trungvo`,
     },
   },
   plugins: [
