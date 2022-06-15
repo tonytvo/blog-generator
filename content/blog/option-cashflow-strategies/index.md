@@ -11,6 +11,27 @@ tags: ["financialindependence", "valueinvesting"]
   
 # Technical Analysis
 
+## patterns
+- uptrend
+- double bottom
+- inv. head and shoulders
+- cup and handle
+- kiss hello
+- ascending triangle
+- downtrend
+- double top
+- head and shoulders
+- inv. cup and handle
+- kiss goodbye
+- descending triangle
+- sideways trend
+- penant
+- rising wedge
+- falling wedge
+- bear channel
+- bull channel
+
+
 # Cash Flow
 
 # Risk Management
