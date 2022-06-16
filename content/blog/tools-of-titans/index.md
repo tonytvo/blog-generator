@@ -407,7 +407,7 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "The superheroes you have in your mind (idols, icons, titans, billionaires, etc...) are nearly all walking flaws who've maximized 1 or 2 strengths...; you succeed because you find your unique strengths and focus on developing habits around them."
 
-"I'm not the strongest. I'm not the fastest. But I'm good at suffering."
+I'm not the strongest. I'm not the fastest. But I'm good at suffering.
 
 "Everyone fighting a battle that you know nothing about"
 
