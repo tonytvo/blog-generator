@@ -125,3 +125,4 @@ https://www.amazon.ca/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01J
 https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf
 https://devpath.pro/methodologies/book-review-domain-driven-design-quickly/
 https://medium.com/inato/an-introduction-to-domain-driven-design-386754392465
+https://github.com/orgs/ddd-crew/repositories?type=all
