@@ -294,6 +294,69 @@ declare a bounded context to have no connection to the others, allowing develope
 
 "adding data is a way of referring to a core aspect of some business situation, and enriching ubiquitous language to be able to express these concerns. "
 
+Design is intelligence made visible
+
+Design is not just what it looks like and feels like. Design is how it works
+
+People think that design is styling. Design is not style. It's not about giving shape to the shell and not giving a damn about the guts. Good design is a renaissance attitude that combines technology, cognitive science, human need, and beauty to produce something that the world didn't know it was missing.
+
+design is intelligence made visible
+
+[Design is] a plan for arranging elements in such a way as to best accomplish a particular purpose.
+
+What is design? it's where you stand with a foot in 2 worlds - the world of technology and the world of people and human purposes - and you try to bring the 2 together.
+
+Design isn't just to satisfy requirements, but also to uncover requirements.
+
+perfection is not reached when there is nothing to be added anymore, but when there is nothing to be left out anymore.
+
+the design process, at its best, integrates the aspirations of art, science, and culture.
+
+to say that something is designed means it has intentions that go beyond its function. Otherwise, it's just planning.
+
+good design defuses the tension between functional and aesthetic goals precisely because it works within the boundaries defined by the functional requirements of communication problem. Unlike the fine arts, which exists for their own sake, design must always solve a particular real-world problem.
+
+in practice, designing seems to proceed by oscillating between sub-solution and sub-problem areas, as well as decomposing the problem and combining sub-solutions.
+
+when you specify something to be designed, tell what properties you need, not how they are to be achieved.
+
+the trick is to hold "process" off long enough to permit great design to occur, so that the lesser issues can be debated once the great design is on the table - rather than smothering it in the cradle.
+
+good design is good business
+
+if you think it's expensive to hire a professional to do the job, wait until you hire an amateur
+
+design must reflect the practical and aesthetic in business but above all... good design must primarily serve people.
+
+questions about whether design is necessary or affordable are quite beside the point: design is inevitable. The alternative to good design is bad design, not no design at all. Everyone makes design decisions all the time without realizing it - like Moliere's M. Jourdain who discovered he had been speaking prose all his life, and good design is simply the result of making these decisions consciously, at the right stage, and in consultation with others as the need arises.
+
+a good design is not the one that correctly predicts the future, it's one that makes adapting to the future affordable
+
+everyone designs who devises courses of action aimed at changing existing situations into preferred ones.
+
+it's very easy to be different, but very difficult to be better.
+
+we've probably designed 4000 products at IDEO over my career, and for every one of them I'd like to send a little note with it that says, "I'm sorry that it's in this present state. Given what I know now, if I could start over again it would be a lot better"
+
+design is easy. All you do is stare at the screen until drops of blood form on your forehead.
+
+ease of use and ease of learning are not the same.
+
+computer design is often bad design done on a computer
+
+our opportunity as designers, is to learn how to handle the complexity, rather than shy away from it, and to realize that the big art of design is to make complicated things simple
+
+discovery consists of seeing what everybody has seen and thinking what nobody has thought
+
+no, Watson, this was not done by accident, but by design.
+
+design is about making things good (and then better) and right (and fantastic) for the people who use and encounter them.
+
+I never design a building before I've seen the site and met the people who will be using it.
+
+the only important thing about design is how it relates to people.
+
+a design isn't finished until somebody is using it.
 
 **still under constructions**
 **Next Steps:**
