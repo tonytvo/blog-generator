@@ -33,7 +33,8 @@ tags: ["financialindependence", "valueinvesting"]
 
 
 # Cash Flow
-
+- bull spread credit spread
+- ratio call spread
 # Risk Management
 
 # Questions
