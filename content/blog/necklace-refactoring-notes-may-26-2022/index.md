@@ -31,3 +31,4 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
 - https://ardalis.com/domain-modeling-encapsulation/
 - https://refactoring.pl/en/pyramid-of-refactoring-discovery/
 - https://refactoring.pl/en/pyramid-of-refactoring-example/
+- https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/
