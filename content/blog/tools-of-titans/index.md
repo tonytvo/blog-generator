@@ -409,7 +409,7 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 I'm not the strongest. I'm not the fastest. But I'm good at suffering.
 
-"Everyone fighting a battle that you know nothing about"
+Everyone fighting a battle that you know nothing about
 
 "Routine, in an intelligent man, is a sign of ambition."
 
