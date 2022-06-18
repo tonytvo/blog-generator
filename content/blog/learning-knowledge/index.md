@@ -530,6 +530,10 @@ you shall receive when you ask questions
 
 # Todo
 - read blog from Arlo and update this blog accordingly.
+- read https://tim.blog/2020/10/08/adam-grant-how-to-remember-anything/
+- read https://tim.blog/2019/06/27/josh-waitzkin/
+- read https://tim.blog/2014/09/30/the-tim-ferriss-show-tracy-dinunzio-on-rapid-growth-and-rapid-learning/
+- https://designepiclife.com/passive-active-experiential-learning-methods/
 
 # References
 - https://home.mindvalley.com/quests/en/superbrain
@@ -547,3 +551,6 @@ you shall receive when you ask questions
 - https://www.sitrakaratsimba.com/limitless-upgrade-your-brain-learn-anything-faster-and-unlock-your-exceptional-life/
 - https://theartofliving.com/how-to-read-a-book-summary/
 - https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples
+- https://tim.blog/2019/06/27/josh-waitzkin/
+- https://tim.blog/2020/10/08/adam-grant-how-to-remember-anything/
+- https://designepiclife.com/passive-active-experiential-learning-methods/
