@@ -51,6 +51,8 @@ tags: ["investing", "valueinvesting"]
   - analytical judgments are reached by applying standards to facts
   - analyst must preserve a sense of proportion, analyze what matters and ignore what trivial
 truth seeker
+- there are 3 types of variables used to rank stocks: fundamental, growth, and profitability.
+- the most common variables used to select stocks are those that relate the price of the shares to some fundamental company information: share price to earnings, share price to cash flow, share price to book value, share price to sales, or share price to dividends.
 
 # investment philosophy
 - focuses on individual companies, rather than macro-economic factors
