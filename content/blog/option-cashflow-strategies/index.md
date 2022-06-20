@@ -5,6 +5,7 @@ description: "Notes on Necklace May 22th 2022"
 tags: ["financialindependence", "valueinvesting"]
 ---
 # Key Points/Goals
+- options are about the trading - the buying and selling of risk
 
 # Fundamental Analysis
 - [value investing summary](/value-investing-summary)
