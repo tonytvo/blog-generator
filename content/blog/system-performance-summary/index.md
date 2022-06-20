@@ -8,6 +8,9 @@ tags: ["evolutionarydesign", "systemperformance"]
 # key ideas
 
 
+# Reliable, Scalable, and Maintainable Applications
+- design data-intensive application chapter 1
+
 # Quotes
 
 
@@ -16,14 +19,17 @@ tags: ["evolutionarydesign", "systemperformance"]
   - it could be code, database queries, etc...
 - go as broad as possible for the first attempt
 - should at least include perspective from the following references
+  - designing data intensive applications -> https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
   - system performance from brendan gregg
   - java performance from Scott Oaks
+  - [Thinking in Systems](https://www.amazon.ca/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
+
+- maybe/optional
   - site reliability engineering book
   - database reliability engineering book
   - practical monitoring from mike Julian
   - observability engineering
-  - designing data intensive applications -> https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
-  - [Thinking in Systems](https://www.amazon.ca/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
+  
 
 
 # References
