@@ -52,6 +52,35 @@ tags: ["investing", "valueinvesting"]
   - analyst must preserve a sense of proportion, analyze what matters and ignore what trivial
 truth seeker
 
+# investment philosophy
+- focuses on individual companies, rather than macro-economic factors
+- invests in companies with sustainable competitive advantages
+- prefers becoming an expert on a few companies over major diversification
+- does not believe in technical analysis
+- bases his investment decisions on the operational performance of the underlying businesses
+- holds on to stocks for an extremely long period
+- minimizes risks by requiring a significant margin of safety before investing.
+- sticks to the companies within the "circle of competence"
+- contrarian, always going against the crowd and buying at the point of maximum pessimism.
+- global investment approach: looks for interesting stocks in every country, but preferably countries with limited inflation, high economical growth, and a movement toward liberalization and privatization.
+- prefers a concentrated portfolio with around 10-12 stocks
+- be patience and keep an open-mind and a skeptical attitude towards conventional wisdom.
+- first step is to look for stocks trading below 2/3rd of net current asset value (NCAV)
+- prefers companies which pay dividends
+- earnings should be growing
+- price/earnings ratio should be lower than 15 over the past 3 years.
+- avoid technical analysis
+- emphasizes the importance of honest, able management, and shareholder friendly
+- should not follow the masses, but instead have patience and think for yourself.
+- asking questions to customers, employees, competitors, analysts, suppliers and management to find out more about the competitive position of a company and its management.
+- only sells when a company starts experiencing issues with its business model, competitive positioning, or management.
+- looks for low-risk, high-uncertainty opportunities with a significant upside potential.
+- use value line investment survey to find attractive stocks.
+- it is futile to predict interest rates and where the economy is heading
+- formulates exactly why the stock should be bought before actually buying it.
+- use several valuation methods simultaneously, since no method is perfect and it is impossible to precisely calculate the intrinsic value of a company.
+- you should find out not only if an asset is undervalued, but also why it is undervalued.
+
 - Intrinsic value calculation
   - discount cash flow model can be found at
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
@@ -88,7 +117,13 @@ truth seeker
 
 "The best predictor of a mutual fund’s future investment return is not the number of Morningstar stars it receives, but how low its expense ratio is."
 
-"Two: Trying to beat the market is a fool’s errand."
+"Trying to beat the market is a fool’s errand."
+
+"We want the business to be one (a) that we understand; (b) with favorable long-term prospects; (c) operated by honest and competent people; (d) available at a very attractive price."
+
+"price is what you pay, value is what you get"
+
+once you adopt a value-investment strategy, any other investment behavior starts to seem like gambling.
 
 # References
 - https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value.
