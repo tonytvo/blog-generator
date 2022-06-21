@@ -19,6 +19,7 @@ tags: ["productivity"]
 - Sign up for Zapier and build one very simple automation. It doesn’t matter which one. Maybe create some kind of reminder.
 - Sign up for Todoist and start just putting tasks into the Inbox. Maybe create a few Projects. Install it on your phone. Practise using it to get things out of your head for a couple of weeks.
 - If you decide after a few weeks that you don’t hate Todoist, then spend one afternoon/evening doing the Core Dump where you just create Projects and add Tasks until everything seems out of your head. It probably not that important to have links from Todoist tasks back to specific emails as long as you know what to search for in gmail when you need it.
+- [Getting Started from JBrains](https://blog.jbrains.ca/permalink/getting-started-with-getting-things-done)
 
 # 2-minute rule
 
@@ -125,4 +126,5 @@ tags: ["productivity"]
 
 # Reference
 - https://blog.jbrains.ca/permalink/remind-yourself-to-schedule-x
+- https://blog.jbrains.ca/permalink/getting-started-with-getting-things-done
 - https://www.amazon.ca/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E
