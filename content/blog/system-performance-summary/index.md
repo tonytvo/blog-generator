@@ -9,8 +9,23 @@ tags: ["evolutionarydesign", "systemperformance"]
 
 
 # Reliable, Scalable, and Maintainable Applications
-- design data-intensive application chapter 1
-
+# interesting concepts/ideas
+- chapter 1, reliable, scalable, and maintainable applications, design data-intensive application
+- chapter 2, data models and query languages, design data-intensive applications
+- chapter 3, storage and retrieval, design data-intensive applications
+- chapter 4, encoding and evolution (sections on data flow), design data-intensive applications
+- chapter 6, partitioning, design data-intensive applications
+- chapter 7, transactions, design data-intensive applications
+- chapter 10, batch processing, design data-intensive applications
+- chapter 11, stream processing, design data-intensive applications
+- examples from the current system.
+- chapter 2, an approach to performance testing, java performance
+- chapter 3, java performance toolbox, java performance
+- chapter 7, heap memory best practices, java performance
+- chapter 8, native memory best practices, java performance
+- chapter 9, threading and synchronization performance. java performance
+- chapter 11, database performance best practices, java performance
+- chapter 12, java se api tips, java performance,
 # Collect Examples
 - examples from the current system.
 
