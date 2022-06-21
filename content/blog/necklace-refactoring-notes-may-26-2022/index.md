@@ -16,6 +16,7 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
     - it turns out that it has a very good examples to illustrate the introduction indirect layer, so I have added a new example to the https://github.com/tonytvo/introduce-indirection-layer/tree/main/pyramid-refactor-example
     - didn't realize it such a foundational patterns that allow other patterns/flow in the system to emerge
   - it seems like for this exercise I would lean more using these examples to update introduction to indirect layer kata, so it can be used to practice refactoring to patterns as well.
+  - attempt the chain of responsibility refactoring from wlodekkr here -> https://github.com/tonytvo/chain-of-responsibility/pull/1
   - once I finish with updating the introduction indirect layer, I will try to finish this kata.
 
 # References
