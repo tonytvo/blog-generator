@@ -140,3 +140,6 @@ once you adopt a value-investment strategy, any other investment behavior starts
 - https://diggingforvalue.com/book-summary/security-analysis/
 - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/
 - [Thinking in systems](Thinking in Systems)
+- https://www.youtube.com/watch?v=WMdnaRQ4EOE&list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&ab_channel=TheSwedishInvestor
+- https://www.youtube.com/watch?v=npoyc_X5zO8&list=PLI84Sf0aDgazJz6aVmUAYwfmCkTDd_cqv&ab_channel=TheSwedishInvestor
+- https://www.youtube.com/watch?v=WMdnaRQ4EOE&list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&ab_channel=TheSwedishInvestor
