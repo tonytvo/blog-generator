@@ -7,6 +7,14 @@ tags: ["financialindependence", "valueinvesting"]
 # Key Points/Goals
 - options are about the trading - the buying and selling of risk
 
+# psychology
+- be realistic
+- adopt probabilistic mindset
+- keep diary of your trades
+  - it's essential on learning from your past mistakes
+- setup rules before entering
+  - setup strategy on how to exit the position
+
 # Fundamental Analysis
 - [value investing summary](/value-investing-summary)
   
@@ -40,6 +48,9 @@ tags: ["financialindependence", "valueinvesting"]
 
 # Questions
 
+# Quotes
+
+string of losses + poor money management = destroyed account
 
 # References
 - https://www.great-option-trading-strategies.com/option-strategies.html
