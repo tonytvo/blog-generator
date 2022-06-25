@@ -8,7 +8,6 @@ tags: ["financialindependence", "valueinvesting"]
 - options are about the trading - the buying and selling of risk
 
 # psychology
-- be realistic
 - adopt probabilistic mindset
 - keep diary of your trades
   - it's essential on learning from your past mistakes
@@ -19,7 +18,7 @@ tags: ["financialindependence", "valueinvesting"]
 - [value investing summary](/value-investing-summary)
   
 # Technical Analysis
-
+ 
 ## patterns
 - uptrend
 - double bottom
@@ -45,6 +44,16 @@ tags: ["financialindependence", "valueinvesting"]
 - bull spread credit spread
 - ratio call spread
 # Risk Management
+
+## the notion of r
+- the risk you predefine before entering a trade
+
+## exit strategies
+- percentage exits: step out at a 7-8% loss.
+- time exits
+- volatility exits
+
+## position sizing
 
 # Questions
 
