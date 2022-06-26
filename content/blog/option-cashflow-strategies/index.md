@@ -43,6 +43,15 @@ tags: ["financialindependence", "valueinvesting"]
 # Cash Flow
 - bull spread credit spread
 - ratio call spread
+- What determine the price of an option
+  - intrinsic value: difference between the underlying price and strike price
+  - time value
+    - volatility (expected/implied)
+      - general market conditions or mood
+      - company-specific history & events: earnings, legal/regulatory/other
+    - time until expiration
+    - dividends and dividend cycle
+    - interest rates
 # Risk Management
 
 ## the notion of r
