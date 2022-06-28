@@ -41,6 +41,16 @@ tags: ["financialindependence", "valueinvesting"]
 
 
 # Cash Flow
+- covered call
+  - for each 100 shares that a trader owns of an optionable stock, the trader can write (or sell) one call option (sell to open) against those shares in exchange for a cash premium payment.
+  - if the stock closes at expiration above the strike price, the call will be exercised and the trader will be required to sell his or her underlying shares to the holder of the call at the agreed upon strike price.
+  - if the stock closes at expiration AT or BELOW the strike price, the call will expire worthless, the trader retains the shares, and is free to write a new covered call if and when he or she chooses to do so.
+  - the covered call writer may also buy back the call at any time prior to expiration (buy to close) for either a profit or a loss
+  - rolling covered calls: buy back expiring calls and sell new call with later expiration
+    - rolling out: rolling to later expiration and the SAME strike price
+    - rolling out and up: rolling to later expiration and to a higher strike price.
+    - benefits: not losing money on the roll, increases the strike price, and captures more of the cap gains.
+    - drawbacks: requires longer rolls and smaller credits. Would not works when there's big pops in stock.
 - bull spread credit spread
 - ratio call spread
 - What determine the price of an option
