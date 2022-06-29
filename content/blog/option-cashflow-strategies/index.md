@@ -85,6 +85,13 @@ tags: ["financialindependence", "valueinvesting"]
 - percentage exits: step out at a 7-8% loss.
 - time exits
 - volatility exits
+- 5 minutes rule
+  - it's best to limit yourself to 1 or 2 positions, that is, options that have not yet been sold or used - at a time. Otherwise, it's easy to lose track of how many open positions are in play. 
+  - checking the expiration date and the strike price. All of this information is located in the options chain. Many traders get into trouble here: if you enter 100 call contracts when you only meant ten or one, you have a problem.
+  - check the bid-ask price, which is the highest price a buyer will pay and the lowest price a seller will accept. If the bid ask spread is too wide - meaning there's too large a gap between the two - find another stock to trade. It's too difficult to make a profitable trade if the bid and ask prices are too distant.
+  - make sure you place a limit order and not a market order. It's very risky to buy stocks at market price. Instead, a limit order lets you name your price, which should be somewhere between the bid and ask prices.
+  - review the stock charts one last time to confirm that your initial observations still hold true.
+  - you can always take 5 minutes - especially when it will keep you from rushing into a problematic trade because of a careless mistake.
 
 ## position sizing
 
