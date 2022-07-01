@@ -387,7 +387,7 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "it's scary to put yourself out there, to expose yourself, to become vulnerable, but it makes all the differences. Be a man, woman in the arena. When you let your mind wander in its truly natural state, good things happen."
 
-**"want to get unstuck, go for a walk, no phone, no music, no podcast, just you, your thought and the fresh air."**
+**want to get unstuck, go for a walk, no phone, no music, no podcast, just you, your thought and the fresh air.**
 
 "be deliberate about what you spend your time on and who you spend it with."
 
