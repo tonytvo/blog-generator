@@ -397,9 +397,9 @@ No, Accept reality, but focus on the solution. Take that issue, take that setbac
 
 "Productivity is for robots. What humans are going to be good at is asking questions, being creative, and experiencing."
 
-**"Desire is a contract you make with yourself to be unhappy until you get what you want."**
+**Desire is a contract you make with yourself to be unhappy until you get what you want.**
 
-**"judge a person by his/her questions rather than his/her answers."**
+**judge a person by his/her questions rather than his/her answers.**
 
 **"my goal for each reader to like 50%, love 25%, and never forget 10%."**
 
