@@ -27,7 +27,8 @@ tags: ["investing", "valueinvesting"]
     - must be alert to the misrepresentation by accountants and management bad practices.
 
 # Themes of value investing
-- Focusing on the differences between investing and speculating
+
+## Focusing on the differences between investing and speculating
   - failure to distinguish one from another has led to tragedies.
   - investments are bonds, outright purchases, permanent holding, for income, in safe securities.
   - speculations are stocks, purchases on margin, for a "quick turn", for profit, in risky issues.
@@ -46,19 +47,67 @@ tags: ["investing", "valueinvesting"]
   - a sound investment must be able to withstand adversity. Enterprises that have withstood adversity may be favored by investors.
   - investment for profit, where growth is generally expected, the price is rarely reasonable.
   - the investor of small means may opt to step out of his role and become a speculator. He may also opt to regret his actions.
-- Analysis skills
+## Analysis skills
   - The term analysis indicates a scientific and methodical study of facts, which results in logical conclusions. But investment is not an exact science, and success derives in part from personal skills and chance.
   - analytical judgments are reached by applying standards to facts
   - analyst must preserve a sense of proportion, analyze what matters and ignore what trivial
 truth seeker
 - there are 3 types of variables used to rank stocks: fundamental, growth, and profitability.
 - the most common variables used to select stocks are those that relate the price of the shares to some fundamental company information: share price to earnings, share price to cash flow, share price to book value, share price to sales, or share price to dividends.
-
+## Intelligent investor
+- defensive investor's portfolio should be well balanced, safe and very easy to manage.
+  - look at the portfolio of well established investment funds (consider ray dalio's all weather portfolio, weird portfolio of deep value stock geek, etc...)
+  - majority of portfolio should include index funds.
+  - it typically consists of high-grade bonds, inflation protected bonds, large cap index fund, gold/silver index fund and common stocks
+  - minority of portfolio (less than 10%) could be invested in common stocks (at least 10 different companies in different industries)
+  - try to employ the services of an expert (once a year) to guide you to make the best investment decisions.
+  - dollar-cost averaging, whereby you invest in a common stock every month or quarter and always with the same amount of money.
+  - readjust your portfolio's division of common stocks, bonds, index funds, etc.... Ask yourself: are my stocks still profitable? is the ratio about the same as when I had initially invested? has the management done anything that lost my trust?
+- enterprising investor
+  - start similarly to defensive investors
+  - invest more in common stocks, as they are more profitable (yet riskier)
+  - enterprising investors should limit these stocks to a maximum of 10 percent of her overall portfolio. It is because Mr Market is too wild for any rational person to predict and placing the limits to protect our money in case of economic downturn or poor investment
+  - continual research and monitoring of their portfolios is essential to maintain an incoming profit flow.
+  - practice with virtual account for at least 1 year before trading in real accounts
+  - buy in low markets and sell in high markets.
+- it's extremely difficult to find a good financial professional who can guarantee you large returns on your money
+- mutual funds, in which investments from many people are pooled, usually come with a high management fee. After subtracting the fee, you're often left with below-average returns.
+  - professional money managers can't afford to perform lower than average for long periods because they keep need to keep their clients satisfied all the time. It's difficult to hold onto a strategy which might not work for months or years at a time, no matter how effective the strategy is in the long term. You can, though, All it takes is some patience to stock with it during the good and not-so-good times.
+- index fund such as Standard & Poor's 500 Index is a mutual fund which aims to match the market's best performing companies, as opposed to trying to beat them. Since index fund fees are lower, and because on average the market performs well, index funds often provide you with very healthy profits.
+- the stock market values of most companies swing drastically over short time periods for no rational reason.
+- consider "earnings yield" and the "return on capital" when putting together your investment portfolio
+  - combine both earnings yield and ROC into one single measure.
+  - rank the companies based on Earnings Yield and ROC separately and then combine their scores by adding them the scores (ranks)
+- earnings yield
+  - tells you what the business earns in relation to its share price
+  - calculated by finding the ratio of earnings before interests expenses and tax (EBIT), to enterprise value (EV). The EV is the market value plus the net interest-bearing debt.
+- return on capital
+  - calculated by dividing the after-tax profit by the book value of invested capital (total amount of money invested by the company's shareholders, bondholders, and so on)
+  - reveals how effective a company is at transforming investment into profit.
+- take the following pre-caution with your strategy:
+  - apply the strategy when choosing stocks of large companies, not small ones. Smaller companies don't have much to offer in terms of shares, so even a slight increase in demand can force their share price up. You may therefore find it challenging to buy their shares at a reasonable price.
+  - the strategies should include owning 20-30 large company stocks (in different industries) at a time. (I prefer to narrow the list less than 10, so I can read more about the companies and have a good reason why I want to buy the companies)
+  - use tax laws intelligently to maximize your profit
+    - sell stocks which lost value before one-year holding period ends, which would decreases your yearly income and thus the taxes you will need to pay.
+    - sell the stocks which increase value after one-year holding period ends, which would reduce your tax on capital gains.
+- buy stock only when its price is below its intrinsic value, its value as it relates to a company's propensity for growth. Furthermore, you believe there is a probable margin between what you pay and what you will earn as the company grows (margin of safety)
+- principles
+  - intelligent investors analyze the long-term development and business principles of the companies in which they're considering investing before buying any stock.
+    - examining the company's financial history, structure, quality of its management and whether it pays steady dividends.
+    - don't fall into the trap of only looking at short-term earnings.
+    - this would give you a better idea of how well a company performs independent of its value on the market
+  - protect against serious losses by diversifying the investments. (portfolio of 10-20 stocks in different industries)
+  - understand that you don't pull in extraordinary profits, but safe and steady revenues.
+  - the target for intelligent investor is to meet her personal needs, not to outperform the professional stockbrokers on Wall Street.
+- understand the importance of stock-market history
+  - economic crises, the unpredictability of the market means that investors need to be prepared - financially and psychologically to ensure that you can take a big hit and survive.
+  - don't sell everything at the first sign of danger. Remember instead that, even after the most devastating crashes, the market will always recover.
+  - the history of the market will give you a better idea of its stability. Once you've determined that the market is stable, focus on the history of the company in which you'd like to invest.
+    - look at the correlation between stock price and the company's earnings and dividends over the past 10 years. Then consider the inflation rate, in order to see how much you'd really earn.
 # investment philosophy
 - focuses on individual companies, rather than macro-economic factors
 - invests in companies with sustainable competitive advantages
 - prefers becoming an expert on a few companies over major diversification
-- does not believe in technical analysis
 - bases his investment decisions on the operational performance of the underlying businesses
 - holds on to stocks for an extremely long period
 - minimizes risks by requiring a significant margin of safety before investing.
@@ -82,7 +131,8 @@ truth seeker
 - formulates exactly why the stock should be bought before actually buying it.
 - use several valuation methods simultaneously, since no method is perfect and it is impossible to precisely calculate the intrinsic value of a company.
 - you should find out not only if an asset is undervalued, but also why it is undervalued.
-
+- when it comes to shrewd trading, a knowledge of history is a fine weapon, so be sure to keep it sharp.
+- don't trust the crowd or the market and follow practical investment based on your unique investment style.
 - Intrinsic value calculation
   - discount cash flow model can be found at
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
