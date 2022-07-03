@@ -417,9 +417,9 @@ very often, "our" beliefs are not our own
 
 **"borrow liberally, combine uniquely, and create your bespoke blueprint."**
 
-"How do I become less competitive in order that I can become more successful?"
+How do I become less competitive in order that I can become more successful?
 
-"Tell me something that's true that very few people agree with you on."
+Tell me something that's true that very few people agree with you on.
 
 # References
 https://fourminutebooks.com/tools-of-titans-summary/
