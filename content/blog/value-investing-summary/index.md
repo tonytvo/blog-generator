@@ -136,6 +136,12 @@ truth seeker
 - follow the investor that interests you such as Benjamin Graham, Warrent Buffet, Peter Lynch, John Templeton, etc...
   - follow the corporate insiders who run the companies (president, chairman, CEO, chief legal counsel, directors, board members who meet regularly with the officers, form 4 on details of the insider trades, etc...)
   - it's a good sign when insiders buy their own company shares
+- criterias for growth/risky stock:
+  - the company is a leader in cutting-edge technology that changes how we live
+  - it has breakthrough products used by millions of customers around the world.
+  - those products are protected by trademarks and patents
+  - it has hundreds of millions, or even billions, of dollars in future safes and profits - not just expected but, ideally, contractually guaranteed
+  - it's relatively undiscovered and trading for low price.
 - Intrinsic value calculation
   - discount cash flow model can be found at
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
