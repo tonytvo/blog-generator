@@ -133,6 +133,9 @@ truth seeker
 - you should find out not only if an asset is undervalued, but also why it is undervalued.
 - when it comes to shrewd trading, a knowledge of history is a fine weapon, so be sure to keep it sharp.
 - don't trust the crowd or the market and follow practical investment based on your unique investment style.
+- follow the investor that interests you such as Benjamin Graham, Warrent Buffet, Peter Lynch, John Templeton, etc...
+  - follow the corporate insiders who run the companies (president, chairman, CEO, chief legal counsel, directors, board members who meet regularly with the officers, form 4 on details of the insider trades, etc...)
+  - it's a good sign when insiders buy their own company shares
 - Intrinsic value calculation
   - discount cash flow model can be found at
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
@@ -176,6 +179,8 @@ truth seeker
 "price is what you pay, value is what you get"
 
 once you adopt a value-investment strategy, any other investment behavior starts to seem like gambling.
+
+the key to life is to figure out who to be the batboy for.
 
 # References
 - https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value.
