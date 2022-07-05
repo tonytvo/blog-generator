@@ -142,6 +142,13 @@ truth seeker
   - those products are protected by trademarks and patents
   - it has hundreds of millions, or even billions, of dollars in future safes and profits - not just expected but, ideally, contractually guaranteed
   - it's relatively undiscovered and trading for low price.
+- 6 factors that impact the investment portfolio:
+  - the amount of money you save
+  - the length of time you allow that money to compound
+  - your portfolio's investment returns
+  - the amount of expenses your portfolio absorbs
+  - the amount of taxes you pay
+  - your asset allocation
 - Intrinsic value calculation
   - discount cash flow model can be found at
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
