@@ -142,6 +142,9 @@ truth seeker
   - those products are protected by trademarks and patents
   - it has hundreds of millions, or even billions, of dollars in future safes and profits - not just expected but, ideally, contractually guaranteed
   - it's relatively undiscovered and trading for low price.
+  - it's a good sign when insiders buy their own company shares
+    - top level insider buying , directors, officers, chairmen board, c-level executives... Who are intimated acquainted with company financial health
+    - total buys must exceed 100k and it's clister from mutiple top level insider 
 - 6 factors that impact the investment portfolio:
   - the amount of money you save
   - the length of time you allow that money to compound
