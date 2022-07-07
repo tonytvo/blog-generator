@@ -42,8 +42,8 @@ My colleague (David) summarizes this article in the following key points and I c
 - Some business rules can be tested at the unit test level, in which case we should adopt the term behavioral unit test to help people comprehend that those tests are actually testing business rules.
 
 # References
-https://www.slideshare.net/jbrains/the-next-decade-of-agile-software-development
-https://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/
-https://watirmelon.blog/2011/06/10/yet-another-software-testing-pyramid/
-https://jamescrisp.org/2011/05/30/automated-testing-and-the-test-pyramid/
-https://martinfowler.com/articles/practical-test-pyramid.html
+- https://www.slideshare.net/jbrains/the-next-decade-of-agile-software-development
+- https://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/
+- https://watirmelon.blog/2011/06/10/yet-another-software-testing-pyramid/
+- https://jamescrisp.org/2011/05/30/automated-testing-and-the-test-pyramid/
+- https://martinfowler.com/articles/practical-test-pyramid.html
