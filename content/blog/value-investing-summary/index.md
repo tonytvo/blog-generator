@@ -161,6 +161,10 @@ truth seeker
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-23/
 
 # Interpretation of Financial Statements
+- 3 ways that corporations can use financial reporting to enhance their value are:
+  - reduce their cost of capital
+  - improve their credit ratings
+  - increase their price-earnings multiple
 - https://www.oldschoolvalue.com/tutorial/this-is-how-buffett-interprets-financial-statements/
 - https://themakingofamillionaire.com/warren-buffett-and-the-interpretation-of-financial-statements-a702e959b53a
 - https://www.youtube.com/watch?v=knaQgfxIi18&ab_channel=RV
