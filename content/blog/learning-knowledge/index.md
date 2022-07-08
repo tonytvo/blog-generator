@@ -301,161 +301,8 @@ tags: ["productivity", "learning"]
   - neuroplasticity (connections in your brain) can be instigated through learning new things
 - reduce your stress through yoga, meditation, or massages.
 
-# How we learn to read
-- there's difference between reading for understanding and reading for information
-  - lots of people confuse knowing the name of something with understanding. While great for exercising your memory, the regurgitation of facts without solid understanding and context gains you little in the real world.
-  - **anything easily digested is reading for information.**
-- [work required to have an opinion](https://fs.blog/the-work-required-to-have-an-opinion/)
-- if you're a knowledge worker, you're paid to use your brain, so it's in your best interest to make that brain as efficient as possible.
-- The number of pages you read is not as important as the fact you're enjoying it.
-- review the notes and highlight often with readwise.io
-- **skim a lot of books, read a few. Immediately re-read the best ones twice**
-  - when you lose interest give it 5 more pages. Then skim the next chapter. If you're still not interested, put it down. It's the authors job to keep your attention
-  - marking a book is indispensable to reading it
-    - keep you awake, not merely conscious, but wide awake
-    - reading, if it is active, is thinking and thinking tends to express itself in words, spoken or written.
-    - writing your reactions down helps you to remember the thoughts of the author
-    - literally an expression of your differences or your agreements with the author. It is the highest respect you can pay him.
-- pomodoro method
-  - optimal time for a task is 25 minutes, followed by a 5 minute break. Each 25-minute chunk is called a "Pomodoro"
-- **skip liberally: skip anything that doesn't interest you.**
-  - skip, but do so intelligently
-    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" beliefs are not our own
-    - this type of practice is how you create yourself instead of discovering yourself.
-
-
-# Finding more time to read
-  - **find time to read boils down to choices about how you allocate your time.**
-  - **reading isn't something to be done once a week to check a box; it's something to do every day**.
-  - **What gets in the way of reading?**
-    - avoid time commuting
-    - avoid time shopping
-    - avoid watching TV
-    - combine reading with idle activities, waiting for a bus, waiting for a taxi, on the train, on the plane, waiting for your flight.
-    - **what I read depends on situation**
-      - if there's on few minutes, read something simple, rather disposable, easily digested.
-      - early in the evening, around 8-9, read something without interruption
-      - before going to bed, read something light or something requiring more thought so I can ponder an idea while I'm falling asleep.
-      - when I'm not reading, I'm trying to think about what I have just read (like waiting in the checkout line at the grocery store)
-
-# 4 levels of reading
-
-  ## Elementary reading
-  - level of reading taught in our elementary schools
-  ## Inspectional reading
-  - skimming and superficial reading can be used effectively to increase understanding
-  - inspectional reading allows us to look at the author's blueprint and evaluate the merits of a deeper reading experience.
-  - 2 sub-types of inspectional reading
-    - systematic skimming
-      - quick check of the book by
-        - reading preface
-        - studying the table of contents
-        - checking the index
-        - reading inside jacket
-      - give you sufficient knowledge to understand the chapters in the book, pivotal to the author's argument.
-      - skimming helps you reach to a decision point: Does this book deserve more of my time and attention? if not, you put it down.
-    - superficial reading
-      - just read, don't ponder the argument, don't look things up, don't write in the margins.
-      - if you don't understand something, move on.
-      - now that you have better understanding of the book's contents and its structure, do you want to understand it?
-  ## Analytical reading
-  - [use marginalia to converse with the author](https://fs.blog/marginalia/)
-    - the broken fragments of thought that appear scribbled in the margins of books.
-    - these fragments help us connect ideas, translate jargon, and spur critical thinking.
-  - 4 rules to analytical reading
-    - classify the book according to kind and subject matter
-    - state what the whole book is about with the utmost brevity
-    - enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole
-    - define the problem or problems the author is trying to solve.
-      - in other words, you should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts.
-  - after an inspectional read, you will understand the book and the author's views.
-  - theoretical books teach you that something is the case. Practical books teach you how to do something you want to do or think you should do.
-  ## Syntopical reading
-  - involves reading many books on the same subject and comparing and contrasting ideas, vocabulary, and arguments.
-  - identifying relevant passages, translating the terminology, framing and ordering the questions that need answering, defining the issues, and having a conversation with the responses.
-  - understand the subject and develop deep fluency
-  - identifying and filling in your knowledge gaps.
-  - 5 steps to syntopical reading
-    - finding the relevant passages
-      - find the right books and then the passages that are most relevant to filling your needs
-    - bringing the author to terms
-      - identify the keywords and how they are used by the author. Each author has probably used different temrs and concepts to frame their argument.
-      - this is an exercise in translation and synthesis.
-    - Getting the questions clear
-      - focus on the questions that you want to answered.
-      - it's important to frame the questions in such a way that all or most of the authors can be interpreted as providing answers.
-    - defining the issues
-      - ask clear question to which there are multiple answers.
-      - translated into your terms, must be ordered in relation to one another.
-      - understanding multiple perspectives within an issue helps you form an intelligent opinion.
-    - analyzing discussion
-      - it's presumptuous to expect we will find a single unchallenged truth to any of our questions.
-      - our answer is the conflict of opposing answers.
-      - the value is the discussion you have with these authors.
-      - you can now have an informed opinion
-# 4 Questions must ask about any book
-## what is the book as a whole?
-- you must try to discover the leading theme of the book, and how the author develops his theme in an orderly way by subdividing it into its essential subordinate themes or topics
-
-## what is being said in detail and how
-- you must try to discover the main ideas, assertions and arguments that constitute the author's particular message
-
-## is the book true, in whole or part?
-- you cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you're obligated, if you are reading seriously, to make up your own mind. Knowing the author's mind is not enough.
-
-## what of it?
-- if the book has given you information, you must ask about its significance. Why does the author think it is important to know these things?
-- Is it important to you to know them? and if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking.
-
-# Note taking
-- listen with intent. Write a notes in a way you can understand later
-- TIP
-  - T - Think about what you're hoping to retain most from this session
-  - I - identify what is most important in the context of your goal
-  - P - prioritize the information that is most valuable for you.
-- use your own words whenever possible
--  handwriting triumphs typing because writing by hand requires you to exert more effort and process information immediately
--  use **capture and create**. Fold the paper into two columns. On left side, write down what you're capturing. On the right, write your impression of potential applications, i.e., the areas you can apply this.
-  ## audio journal
-  - need to do more research in this
-  ## Blank sheet
-  - before you start reading a new book, take out a blank sheet of paper. write down what you know about the subject you're about to read - a mind map if you will
-  - after you're done a reading session, spend a few minutes adding to the map (I use a different color ink)
-  - before you start your next reading session, review the mind map(I use mind as a bookmark sometimes)
-  - put these mind maps in a binder, and periodically review them.
-  - the blank sheet primes your brain for what you're about to read and shows you what you're learning
-
-  ## conventional notes
-  - you bought this thing, it's your property, you need to [write in the margins](https://fs.blog/marginalia/)
-  - at the end of each chapter write a few bullet points that summarize the main idea or specific points. Use your own words and not the authors. Try and connect it to something in your life - a memory or another idea. Also, make note any unanswered questions you had while reading.
-  - when you're done the book, put it down for a week
-  - pick up the book again and go through all your notes. In a lot of cases, reading your notes will be as good as reading the book again.
-  - writing is the process by which we often discover we don't know what we're talking about.
-   
-# Speed reading
-## the 4,3,2,1 method
-- 10 minutes exercise
-- set the timer for 4 minutes and open an easy-to-read book.
-- start reading at a comfortable pace while using your finger to underline the words as you read them.
-- when 4 minutes expires, mark the point at which you stopped
-- go back where you started and set a timer for 3 minutes, then 2 minutes, then 1 minute. Try to get to the same point you reached after 4 minutes.
-
-## Problems
-- avoid regression where your eyes tend to go back and re-read certain words in a sentence.
-  - use pacer because attention follows movement. If you use your finger to guide your reading, you prevent your attention from jumping around the text.
-  - use finger as pacer when reading on physical book or the phone
-  - use the mouse as pacer when reading content on computer
-- avoid subvocalization: saying words to yourself in your head as you read.
-  - when you start reading, count 1, 2, 3, 4. This process will free your mind of the inner narrator.
-  - it will train your mind to see words on the page like images. Turn what you're reading into a motion picture experience.
-- avoid word-by-word reading
-  - observe chunks of word at a single glance.
-  - practice expanding your vision to see groups of words, i.e.: image for groups of words
-that we try to understand
 
 # Quotes
-
-"Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
 
 "I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do"
 
@@ -475,15 +322,13 @@ that we try to understand
 
 **True experts recognize the limits of what they know what what they do not know. If they find themselves outside of their circle of competence, they keep quiet or simply say, "I don't know".**
 
-**"Skim a lot of books, read a few. Immediately re-read the best ones twice."**
+**Skim a lot of books, read a few. Immediately re-read the best ones twice.**
 
 **The blank sheet primes your brain for what you're about to read and shows you what you're learning**
 
 **reading a book should be a conversation between you and the author**
 
 **understanding is a two way operation; the learner has to question himself and question the teacher. He even has to be willing to argue with the teacher, once he understands what the teacher is saying.**
-
-**marking a book is literally an expression of your differences or your agreements with the author. It is the highest respect you can pay him**
 
 "priceless opportunity to furnish your mind and enrich the quality of your life"
 
@@ -495,17 +340,15 @@ that we try to understand
 
 "we don't read other people's opinions. We want to get the facts, and then think"
 
-"when it comes to reading, you don't need to finish what you start"
-
 "The pencil," he argues, "becomes the sign of your alertness while you read"
 
 The person who says he knows what he thinks but cannot express it usually does not know what he thinks.
 
-**"borrow liberally, combine uniquely, and create your bespoke blueprint."**
+**borrow liberally, combine uniquely, and create your bespoke blueprint.**
 
-**"first you make your habits and then your habits make you"**
+**first you make your habits and then your habits make you**
 
-**"anything is good for your heart is good for you head"**
+**anything is good for your heart is good for you head**
 
 **lifelong learning adds years to your life and life to your years**
 

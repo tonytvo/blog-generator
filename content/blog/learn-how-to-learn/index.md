@@ -22,8 +22,11 @@ tags: ["productivity", "learning"]
 # Study group patterns
 - [Study group patterns summary](/study-group-patterns-summary)
 
-# [Learning knowledge]
+# Learning knowledge
 - [learning knowledge summary](/learning-knowledge)
+
+# How to Read
+- [How to Read](/how-to-read)
 
 # [Mental Models](/mental-models)
 - [mental models summary](/mental-models)
