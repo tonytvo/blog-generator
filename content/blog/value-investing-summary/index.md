@@ -4,11 +4,10 @@ date: "2022-02-5T22:12:03.284Z"
 description: "value investing summary"
 tags: ["investing", "valueinvesting"]
 ---
-# value.investing
-- "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress. These indicators of undesirability identify potent…" - Summary of Bruce C. Greenwald, Judd Kahn & Paul D. Sonkin's Value Investing by   Everest Media.
+# value investing
+- "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress" --> should focus instead great company at fair price
 
 https://www.kobo.com/CA/en/ebook/summary-of-bruce-c-greenwald-judd-kahn-paul-d-sonkin-s-value-investing
-
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
   - inadequate or incorrect data
