@@ -308,6 +308,7 @@ tags: ["productivity", "learning"]
 - [work required to have an opinion](https://fs.blog/the-work-required-to-have-an-opinion/)
 - if you're a knowledge worker, you're paid to use your brain, so it's in your best interest to make that brain as efficient as possible.
 - The number of pages you read is not as important as the fact you're enjoying it.
+- review the notes and highlight often with readwise.io
 - **skim a lot of books, read a few. Immediately re-read the best ones twice**
   - when you lose interest give it 5 more pages. Then skim the next chapter. If you're still not interested, put it down. It's the authors job to keep your attention
   - marking a book is indispensable to reading it
