@@ -7,7 +7,6 @@ tags: ["investing", "valueinvesting"]
 # value investing
 - "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress" --> should focus instead great company at fair price
 
-https://www.kobo.com/CA/en/ebook/summary-of-bruce-c-greenwald-judd-kahn-paul-d-sonkin-s-value-investing
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
   - inadequate or incorrect data
