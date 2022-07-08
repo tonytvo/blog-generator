@@ -18,7 +18,7 @@ Negotiation methods should be judged by three criteria
 - The weaker party will better understand the negotiation context if they also try to estimate the other side's BATNA.
 
 ## When the other party doesn't use principled negotiation
-- when to refuse to budget from their positions, asking for reasons behind that position
+- when to refuse to budge from their positions, asking for reasons behind that position
 - when attacking the other side's ideas, should take it as constructive criticism and invite further feedback and advice. Personal attacks should be recast as attacks on the problem. Generally, the principled party should use questions and strategic silences to draw the other party out.
 - Brought in a third party to interview each side separately to determine each side's interests individually. Then the third party assembles the list of both sides' interests and asks each side for their comments and criticism of the list. Then the third party works with both sides to hash out the proposals iteratively.
 
