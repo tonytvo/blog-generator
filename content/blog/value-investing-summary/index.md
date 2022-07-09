@@ -5,7 +5,8 @@ description: "value investing summary"
 tags: ["investing", "valueinvesting"]
 ---
 # value investing
-- "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress" --> should focus instead great company at fair price
+- "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress". Another way to think about is to focus on great company at fair price
+- the problem with the present value method is that it is a terminal value calculation as of today, and it does not avoid the problems with terminal calculation (terminal value is the value of a company's cash flows projected beyond the end of year 10, when the cash flow grows perpetually at a constant proportional rate)
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
