@@ -7,6 +7,17 @@ tags: ["investing", "valueinvesting"]
 # value investing
 - "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress". Another way to think about is to focus on great company at fair price
 - the problem with the present value method is that it is a terminal value calculation as of today, and it does not avoid the problems with terminal calculation (terminal value is the value of a company's cash flows projected beyond the end of year 10, when the cash flow grows perpetually at a constant proportional rate)
+- reproduction cost of an asset is the most appropriate measure of its worth.
+  - it requires going beyond the balance sheet and diving deeper into the footnotes to make adjustments to find undiscovered value
+  - reproduction value looks at how much it will cost a competitor to purchase an asset required to run a competing company
+  - [asset reproduction value analysis](https://www.oldschoolvalue.com/stock-valuation/how-to-asset-reproduction-value-analysis/)
+- the second most reliable measure of a firm's intrinsic value is the value of its current earnings, properly adjusted. This value can be estimated with more certainty than future earnings or cash flows, and it is more relevant to today's values than are earnings in the past.
+- earnings power value technique
+  - the value of assets a competitor will be required to have in order to achieve the same market value of incumbent company in the industry
+  - earnings power value calculated based on current financial status where the resulting intrinsic value ignores business cycles
+  - growth is usually ignored in this valuation technique
+  - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
+  - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst

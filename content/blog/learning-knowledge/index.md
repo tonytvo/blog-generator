@@ -166,6 +166,8 @@ tags: ["productivity", "learning"]
   - **10 morning habits**
     - remember your dreams, make your bed, hydrate, brush your teeth with the opposite hand, deep breathing exercises, brain tea, journaling, HIT workout (high intensity interval training), brain power smoothie, read
     - the first 60 minutes can either set you up for maximum productivity and bring you closer to your long-term and short-term goals or cause you to lose another day to distractions and mental fog.
+  - combining audio listening with other activities such as washing dishes, driving, etc...
+    - use playback speed at 1.5, 1.7 to skim through materials to get the key ideas before spending more time in reading the book
 
 # System for remembering what you learn
   - Mark up the book while reading it. Questions, thoughts. And, more important connections to other ideas.
