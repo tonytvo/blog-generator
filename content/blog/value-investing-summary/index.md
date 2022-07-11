@@ -5,6 +5,10 @@ description: "value investing summary"
 tags: ["investing", "valueinvesting"]
 ---
 # value investing
+- ![value investing process](./value-investing-process.png)
+- circle of competence - "know what you know"
+  - organize valuation components by reliability: most reliable -> least reliable
+  - organize valuation components by underlying strategic assumption: no competitive advantage -> growing competitive advantage
 - "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress". Another way to think about is to focus on great company at fair price
 - the problem with the present value method is that it is a terminal value calculation as of today, and it does not avoid the problems with terminal calculation (terminal value is the value of a company's cash flows projected beyond the end of year 10, when the cash flow grows perpetually at a constant proportional rate)
 - reproduction cost of an asset is the most appropriate measure of its worth.
@@ -18,6 +22,10 @@ tags: ["investing", "valueinvesting"]
   - growth is usually ignored in this valuation technique
   - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
+- discounted cash flow
+  - [DCF Stock valuation](https://www.oldschoolvalue.com/stock-valuation/how-value-stocks-dcf/)
+  - ![net presented value of cash flow](./npv-cash-flow.png)
+  - ![disadvantages of npv approach](./disadvantages-npv-approach.png)
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
