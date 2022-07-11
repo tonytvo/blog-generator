@@ -1,7 +1,7 @@
 ---
-title: learning how to learn
+title: how to read
 date: "2021-12-27T22:12:03.284Z"
-description: "learning how to learn"
+description: "how to read efficiently"
 tags: ["productivity", "learning"]
 ---
 
