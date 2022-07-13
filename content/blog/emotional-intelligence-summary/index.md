@@ -24,12 +24,12 @@ tags: ["productivity", "communication", "selfimprovement"]
 
 # EI Rewiring Process
 - Own it, Face it, Feel it, Ask it, Drive it
-- sometimes, our sub-conscious mind causes us to try and validate our emotional response consciously. For example, if you're not feeling great, you might be looking for ways that the day is bad or getting worse.
-- power of pause: pausing after someone's answered a question of said something (for dramatic effect) to encourage them to draw upon their sub-conscious mind and bring deeper thoughts/feelings to the conversation.
-- Identify our own belief and values
-- "Our own minds is what created fear and our own mind is the only thing that can smash through it"
+- sometimes, our subconscious mind causes us to try and validate our emotional responses consciously. For example, if you're not feeling great, you might look for ways that the day is bad or getting worse.
+- the power of pause: pausing after someone's answered a question or said something (for dramatic effect) to encourage them to draw upon their subconscious mind and bring deeper thoughts/feelings to the conversation.
+- Identify our own beliefs and values
+- "Our minds are what created fear, and our mind is the only thing that can smash through it."
 - Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
-- accepting that something is going to happen and that the only thing we can control is how we choose to response is where EI comes in.
+- accepting that something is going to happen and that the only thing we can control is how we choose to respond is where EI comes in.
 
 # Empathy
 - Sympathy is feeling sorry for someone where as empathy is recognizing the emotional response someone is having and how it feels to have that emotional response
@@ -70,7 +70,7 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Empathy
   - Social Skills
 - ![emotional strategies](./emotional-intelligence-strategies.png)
-## Self Awareness
+## Self Awareness Strategies
 - the ability to stay aware of your emotions in the moment and understand your tendencies across situations.
 
 ### Quit Treating Your Feelings as Good or Bad
@@ -125,7 +125,8 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Canker sores
   - Back spasms
 - When you recognize that you are under stress, take some time to recharge your emotional battery.
-## Self Management
+
+## Self Management Strategies
 - the ability to use your awareness of your emotions to stay flexible and direct your behavior positively
 - ![self regulate using neuro-psychology](./self-regulate-using-neuropsychology.png)
 
@@ -185,7 +186,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 ### Accept that Change is Just around the Corner.
 - At least every 2 weeks, think about important things that might happen. Make a list of activities that you will take if the change occurs. Make a list of things you could do now to prepare for the possible change.
 
-## Social Awareness
+## Social Awareness Strategies
 - accurately pick up on emotions in other people and understand what is really going on with them
 
 ### Greet People by Name
@@ -253,7 +254,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - How would you describe the mood [enthusiastic, bored, somber, playful, cautious, angry]?
 - Notice how people arrange themselves, alone or in groups.
 - Which people are animated and which are subdued?
-## Relationship Management
+## Relationship Management Strategies
 - ability to use your awareness of your own and others' emotions to manage interactions successfully.
 
 ### Be Open and Be Curious
