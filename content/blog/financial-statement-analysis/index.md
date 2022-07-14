@@ -46,3 +46,4 @@ the key to life is to figure out who to be the batboy for.
 - https://www.youtube.com/watch?v=cRDcAeOJn7s&ab_channel=TheSwedishInvestor
 - https://www.youtube.com/watch?v=lBBXmim527A&t=35s&ab_channel=TheSwedishInvestor
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
+- https://www.oldschoolvalue.com/stock-valuation/what-is-owner-earnings
