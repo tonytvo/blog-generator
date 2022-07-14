@@ -327,3 +327,4 @@ tags: ["productivity", "learning"]
 - https://fs.blog/the-buffett-formula/
 - https://www.industriallogic.com/img/blog/2005/09/ContinuousLearning.pdf
 - https://www.industriallogic.com/img/blog/2012/03/khdraft1.pdf
+- https://www.industriallogic.com/blog/awesome-team-learning/
