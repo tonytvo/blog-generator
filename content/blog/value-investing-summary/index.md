@@ -27,6 +27,44 @@ tags: ["investing", "valueinvesting"]
   - ![net presented value of cash flow](./npv-cash-flow.png)
   - ![disadvantages of npv approach](./disadvantages-npv-approach.png)
 
+# principles and rules of value investing
+- the data and qualitative information from 10K and 10Q reports can be used to evaluate the following principles:
+  - Vigilant leadership
+  - long-term prospects
+  - stock stability
+  - buy at attractive prices
+## vigilant leadership
+- Sometimes, management focus more on optimizing their own pay rather than optimizing returns to the shareholders. In other cases, management may have the intention of maximizing the returns to the shareholders, but are taking high risks in doing so.
+- many managers simply want to grow their "empire" with the shareholders' retained earnings.
+### rule 1: low debt
+- debt-to-equity (D/E) ratio = liabilities/equity
+- A company's goal should be the flexibility to enter good projects at all times and withstand any challenges in the market. This is generally achieved when the company sustains a low debt-to-equity ratio of below 0.5
+- Some industries are characterized by low debt-to-equity ratios; while banks, with a core product of debt, typically have higher ratios. You should therefore also consider industry standard for normal levels of debt.
+
+### rule 2: high current ratio
+- current ratio = current assets/current liabilities
+- if a company always receives more cash than it pays out, the company can meet its short-term debt obligations at any time (typically current ratio between 1.5 and 2.5)
+  - a low current ratio may mean that the company has problems meeting their short-term obligations, while higher current ratio may indicate bad money management due to an inability to collect payment from vendors.
+
+### rule 3: strong and consistent return on equity
+- return on equity = net income / shareholders' equity
+- in general, you should look for companies that have had a consistent ROE of above 8% over the last 10 years. It tells you that the company is consistently making a decent profit with the earnings that management retains.
+- look for a ROE that has been steady or even increasing over the last eight to ten years. This means that the company generally keep all or some of the capital for future investment and increases the equity.
+- check the industry trend for comparison
+- never be attracted to a high return while compromising security. In other words, manage risk first (i.e., D/E), then consider the remaining choices based on yield (i.e, ROE).
+- By choosing a company with historical D/E of below 0.5, you will most likely end up with companies with lower ROE, but they will likely be more sustainable in the future.
+
+### rule 4: appropriate management incentives
+- compensation packages based on stock price performance gives management wrong incentives to act truthfully to protect the shareholders' interest.
+- trustworthy companies and management teams disclose the structure of the compensation plans.
+- managers should only be rewarded based on performance and long-term goals. You should look for long-term roadmaps with a variety of objectives to be obtained.
+
+# Principle 2: a company must have long-term prospects
+- value investors try to minimize taxes by owning outstanding businesses that remain stable over a lifetime.
+
+## rule 1: persistent products
+
+
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
   - inadequate or incorrect data
