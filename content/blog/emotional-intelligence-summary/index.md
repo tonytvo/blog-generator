@@ -32,7 +32,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - accepting that something is going to happen and that the only thing we can control is how we choose to respond is where EI comes in.
 
 # Empathy
-- Sympathy is feeling sorry for someone where as empathy is recognizing the emotional response someone is having and how it feels to have that emotional response
+- Sympathy is feeling sorry for someone, whereas empathy is recognizing the emotional response someone is having and how it feels to have that emotional response
   - Putting yourself in their shoes is dangerous because that typically comes with judgement
   - We don't need to know what has happened, just recognize what emotion and the severity of that emotion
 
@@ -46,21 +46,22 @@ tags: ["productivity", "communication", "selfimprovement"]
   - [Empathetic System Architecture](./empathetic-system-architecture.pdf)
 
 # [Fixed Mindset vs Growth Mindset](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
+
 - I'm either good at something or I'm not -> **I can improve my skills with effort and practice**
-- when people give me feedback, it feels like criticism -> **I appreciate when people give me feedback ,it helps me learn and grow**
+- when people give me feedback, it feels like criticism -> **I appreciate it; it helps me learn and grow**
 - I'm just not good at math -> **Math is challenging for me, but I know I can improve**
 - I'm too shy to speak in front of the class -> **With practice, I can become more confident and improve my public speaking skills**
 - I'm already a really good writer. I don't need to get any better -> **There's always room for improvement**
-- people who are naturally smart don't need to try hard to succeed -> **No one is born smart. We can all improve with time, effort and persistence**
-- Other people's successes make me feed bad about myself -> **Other people's successes encourage and inspire me. They show me what is possible**
+- naturally smart people don't need to try hard to succeed -> **No one is born smart. We can all improve with time, effort and persistence**
+- Other people's successes make me feel bad about myself -> **Other people's successes encourage and inspire me. They show me what is possible**
 - Successful people are lucky/talented and have never experienced failure -> **Failure is part of success. Most successful people have failed many times, but they succeeded because they didn't quit**
-- I wish I was as good at baseball as you, it's not fair -> **Your skills as a baseball player inspire me. Do you have any tips to help me improve**
-- It's embarrassing when I make a mistake -> **everyone makes mistakes and mistakes are opportunities to learn**
+- I wish I was as good at baseball as you. It's not fair -> **Your skills as a baseball player inspire me. Do you have any tips to help me improve**
+- It's embarrassing when I make a mistake -> **everyone makes mistakes, and mistakes are opportunities to learn**
 - If I don't try new or hard things, then I won't fail -> **I have to try new and difficult things in order to grow, even if I fail at first**
 - When I fail, I get frustrated and give up -> **When I fail or get frustrated, I try again using the lessons I've learned.**
 - Failure means it is time to give up -> **I only truly fail when I stop trying**
-- I can't do that -> **I can't do that yet, I'm going to keep going, try new strategies, and/or ask for help until I understand it**
-- If I don't improve right away, I get frustrated. I start to criticize myself -> **I know improvement takes time and I celebrate the small steps. Even a little progress makes a difference**
+- I can't do that -> **I can't do that yet. I'm going to keep going, try new strategies, and/or ask for help until I understand it**
+- If I don't improve right away, I get frustrated. I start to criticize myself -> **I know improvement takes time, and I celebrate the small steps. Even a little progress makes a difference**
 
 # Emotional intelligence: the four skills
 - A Different perspective on Emotional Intelligence from Daniel Goleman
@@ -70,12 +71,13 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Empathy
   - Social Skills
 - ![emotional strategies](./emotional-intelligence-strategies.png)
+
 ## Self Awareness Strategies
 - the ability to stay aware of your emotions in the moment and understand your tendencies across situations.
 
 ### Quit Treating Your Feelings as Good or Bad
 - pay attention when you feel an emotion begin to build.
-- try to understand the emotions and avoid labeling it good or bad.
+- try to understand the emotions and avoid labelling them good or bad.
 
 ### Observe The Ripple Effect
 - pay attention to how your emotions affect others.
@@ -89,7 +91,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - for practice, close your eyes and remember a high-emotion incident. Notice what physical symptoms you get simply thinking about it.
 
 ### Know What/Who Pushes Your Hot Buttons
-- Pay attention to the situations or people that trigger your emotions. Think about why you might find those situation or people irksome.
+- Pay attention to the situations or people that trigger your emotions. Think about why you might find those situations or people irksome.
 
 ### What Yourself like a Hawk
 - Think about how your emotional reaction may make things worse.
@@ -102,15 +104,15 @@ tags: ["productivity", "communication", "selfimprovement"]
 ### Don't Be Fooled by a Bad Mood
 - When you're stuck in a down mood, it's not a good time to make important decisions. Briefly reflect on recent events that may have brought on the mood.
 
-### Ask yourself Why You Do What You Do
+### Ask Yourself Why You Do What You Do
 - What is your earliest memory of reacting like this? Are the people or circumstances similar in some way? 
 
 ### Visit Your Values
 - Remind yourself of your values and how well you are currently living up to them.
-  - What's your core values and things that you have said or done recently that violates them.
+  - What are your core values and things that you have said or done recently that violate them.
 
 ### Check Yourself
-- Notice your mood and how it influence your demeanor
+- Notice your mood and how it influences your demeanour
 
 ### Spot Your Emotions in Books, Movies, And Music
 - finding your emotions in the expressions of artists allows you to learn about yourself and discover feelings that are often hard to communicate.
