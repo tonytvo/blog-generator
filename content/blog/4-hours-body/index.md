@@ -232,7 +232,7 @@ taking a cold shower before bed can also help improve your sleep cycle.
 
 # Quotes
 
-"Even if you are predisposed to being overweight, you're not predestined to be fat."
+Even if you are predisposed to being overweight, you're not predestined to be fat.
 
 "For a long time, I've known that the key to getting started down the path of being remarkable in anything is to simply act to be remarkable"
 
