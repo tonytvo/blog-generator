@@ -242,8 +242,7 @@ taking a cold shower before bed can also help improve your sleep cycle.
 
 "We're what we do repeatedly"
 
-"When in doubt, take 5"
-
+When in doubt, take 5
 
 # References
 - https://thepowermoves.com/4-hour-body/
