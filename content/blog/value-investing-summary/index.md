@@ -22,10 +22,6 @@ tags: ["investing", "valueinvesting"]
   - growth is usually ignored in this valuation technique
   - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
-- discounted cash flow
-  - [DCF Stock valuation](https://www.oldschoolvalue.com/stock-valuation/how-value-stocks-dcf/)
-  - ![net presented value of cash flow](./npv-cash-flow.png)
-  - ![disadvantages of npv approach](./disadvantages-npv-approach.png)
 
 # principles and rules of value investing
 - the data and qualitative information from 10K and 10Q reports can be used to evaluate the following principles:
@@ -140,6 +136,48 @@ tags: ["investing", "valueinvesting"]
 - Benjamin Graham would try to find companies that had a P/B ratio of below 1.5 as a threshold for indicating value.
 
 ## rule 4: set a safe discount rate
+
+- FV = PV * (1 + i)<sup>n</sup>
+  - FV : future value
+  - PV : present value or intrinsic value today
+  - i : discount rate
+  - n : number of years
+- Warren Buffet's opinion is that no investment should yield a lower return than a federally issued bond because the federal reserve can simply print more money in order to fulfill its interest obligations; therefore, if a ten-year bond has a 3% return, the investor should never discount a ten-year investment decision lower than 3% annually.
+- we can use a conservative market price to determine the current discount rate or potential rate of return
+  - i = (FV / PV)<sup>1/n</sup> - 1
+
+## rule 5: buy undervalued stocks - determining intrinsic value
+- Warren Buffet says, "Intrinsic value can be defined simply: it is the discounted value of the cash that can be taken out of a business during its remaining life"
+- every valuation technique can be boiled down to one thing: "How much money can I expect to get in return for my initial investment"
+
+### Discount Cash Flow Instrinsic Value Model
+
+- [DCF Stock valuation](https://www.oldschoolvalue.com/stock-valuation/how-value-stocks-dcf/)
+- ![net presented value of cash flow](./npv-cash-flow.png)
+- ![disadvantages of npv approach](./disadvantages-npv-approach.png)
+- https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/
+- FCF<sub>n</sub> = BYFCF * (1 + GR)<sup>n</sup>
+- DF<sub>n</sub> = (1 + DR)<sup>n</sup>
+- DFCF<sub>n</sub> = FCF<sub>n</sub> / DF<sub>n</sub>
+- DPCF = [BYFCF * (1 + GR)<sup>n+1</sup> * (1 + LGR)] / (DR - LGR) * 1 / (1 + DR)<sup>n+1</sup>
+- intrinsic value per share = intrinsic value / common shares oustanding
+  - FCF<sub>n</sub>: free cash flow for year n
+  - BYFCF : base year free cash flow (current free cash flow)
+  - n : number of years into the future, or year being discounted
+  - GR : company's estimated annual growth rate
+    - a great starting point for picking a percent would be an assessment of the company's historical free cash flow growth rate. That can be found during your assessment of the company's previous cash flow statements.
+  - DF<sub>n</sub>: the discount factor during year n
+  - DR: discount rate
+    - the discount rate represents the return you would like to receive for owning the company.
+  - DFCF<sub>n</sub> : discounted free cash flow for year n
+  - DPCF : discounted perpetuity cash flow
+  - LGR : long term growth rate
+    - for anyone who thinks they'll be able to predict a company's ability to grow their profits, beyond the 10 year mark, best of luck
+    - is this company going to have the capacity to remain relevant beyond 10 years?
+      - if yes, simply using the rate of inflation (2-3%) to protect your estimate from being too optimistic.
+
+### buffet intrinsic value model
+
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
