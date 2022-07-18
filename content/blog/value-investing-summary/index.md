@@ -63,6 +63,7 @@ tags: ["investing", "valueinvesting"]
 - value investors try to minimize taxes by owning outstanding businesses that remain stable over a lifetime.
 
 ## rule 1: persistent products
+- invest in product that will not change in the next 30 years such as coke where it does not change due to technology.
 
 
 # Scope and Limits of Security Analysis
