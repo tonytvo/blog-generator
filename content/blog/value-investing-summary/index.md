@@ -91,6 +91,38 @@ tags: ["investing", "valueinvesting"]
     - Wal-Mart can buy at quantities and prices that competitors can't match.
   - high switching costs ("stickiness")
     - most people will not bother with the hassle of changing operating system such as Microsoft, because they do not want to re-learn the new system.
+- porter 5 forces
+  - **barriers to entry**: advantages that existing, established companies have over new entrants. A firm will enter the industry it it forecasts that the potential reward for being in it is greater than the cost of overcoming the barriers and the retaliation that is likely to happen.
+    - supply-side economies of scale: spread the fixed costs over a larger volume of units.
+    - demand-side benefits of scale: network effect, people tend to value being in a 'network' with a larger number of people who use the same company.
+    - customer switching costs: airline frequent flyer programs are an example. Customer doesn't want to switch to different product to avoid re-learning (such as microsoft operating system, or iphone)
+    - capital requirements: websites and apps can be launched cheaply and easily as opposed to the brick and mortar industries of the past. Railroads are almost impossible to enter. It takes a ton of capital and it is an enormous risk to build a second railroad network next to to the existing one
+    - incumbency advantages independent of size (e.g. customer loyalty and brand equity)
+    - unequal access to distribution channels: new entrants may struggle to find a retail or wholesale channel to sell through as existing competitors will have a claim on them
+    - governmental policies
+  - **threat of substitutes**
+    - perceived level of product differentiation: lowest price or differentiation. Developing multiple products for niche markets is one way to mitigate this factor.
+    - number of substitute products available in the market, ease of substitution, availability of close substitutes.
+    - substitutes that are becoming cheaper relative to performance and substitutes that earn high returns on capital are likely to have more new entries in the future, which will drive prices down within that industry.
+    - companies within industry of power grids face pretty much no substitute at all. No matter how the electricity is produced, it must be transported somehow.
+    - newspaper face tough competition from online and social media
+  - **bargaining power of customers**
+    - ability of customers to put the firm under pressure, which also affects the customer's sensitivity to price changes.
+    - RFM (customer value) analysis: how recently did the customer purchase? how often do they purchase, how much do they spend?
+  - **bargaining power of suppliers**
+    - degree of differentiation of inputs
+    - impact of inputs on cost and differentiation
+    - presence of substitute inputs
+    - strength of distribution channel.
+    - supermarkets are powerful players in distributing products of suppliers
+  - **competitive rivalry**
+    - sustainable competitive advantage through innovation
+    - competition between online and offline organizations
+    - level of advertising expense
+    - lower prices, new products and increased service and common weapons of choice and they lead to lower profitability for companies.
+    - look for industry with few companies, high growth and low fixed costs
+        
+
 # Principle 4: buy at attractive prices
 
 ## rule 1: keep a wide margin of safety to the intrinsic value
@@ -101,6 +133,13 @@ tags: ["investing", "valueinvesting"]
 - P/E = market price for the company/Net Income
 - P/E ratio is simply a current snapshot in time. it looks at the company's present performance in order to determine the value of its future performance. This is often a dangerous path if you fail to consider the other variables
 - conservative investor looks for stocks with a P/E ratio below 15, or, in other words, the return should at the very least be 6.67% (which is 1/15) annually. She does not buy into hopes and dreams and she does not think she can spot the new Microsoft. Instead, she busy into a company that is already making a decent profit compared to the price she pays.
+
+## rule 3: low price to book ratio
+- price-to-book ratio = market price per share/book value per share
+- measures how much the investor pays for every $1 of hte company's equity.
+- Benjamin Graham would try to find companies that had a P/B ratio of below 1.5 as a threshold for indicating value.
+
+## rule 4: set a safe discount rate
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
@@ -260,6 +299,18 @@ truth seeker
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-16/
   - the intrinsic value of callable preferred stock
     - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-23/
+
+# funny stock market terms
+- bull market: a random market movement causing an investor to mistake himself for a financial genius
+- bear market: a 6-18 month period when the kids get no allowance, the wife gets no jewelry, and the husband gets no "love"
+- value investing: the art of buying low and selling lower.
+- P/E ratio: the percentage of investors wetting their pants as the market keeps crashing
+- standard & poor: your life in a nutshell.
+- stock analyst: idiot who just downgraded your stock
+- stock split: when your ex-wife and her lawyer split your assets equally between themselves
+- market correction: the day after you buy stocks
+- cash flow: the movement your money makes as it disappears down the toilet
+- ebitda: earnings before I tell the dump auditor
 
 # Interpretation of Financial Statements
 - [interpretation of financial statements summary](/financial-statement-analysis)
