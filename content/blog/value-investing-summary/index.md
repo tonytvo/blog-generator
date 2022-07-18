@@ -64,7 +64,43 @@ tags: ["investing", "valueinvesting"]
 
 ## rule 1: persistent products
 - invest in product that will not change in the next 30 years such as coke where it does not change due to technology.
+- Warren Buffett's favorable holding period is forever.
 
+## rule 2: minimize tax
+- let your investment compound and grow for a long period of time before the government gets their share.
+- short-term capital gains is usually higher than long term capital gain tax
+
+# Principle 3: a company must be stable and understandable
+- stay within your circle of competence to find companies that are stable and you can understand the fundamentals that drive the profit and the company's competitive edge.
+
+## rule 1: stable book value growth from the owner's earnings
+- [owner's earnings](https://www.oldschoolvalue.com/stock-valuation/what-is-owner-earnings/)
+- it is extremely important to find a company that demonstrates a consistent earnings capacity, book value growth, and a stable and respectable ROE over numerous years, not just a few.
+- if the company retains earnings (reflected in book value growth), there should be corresponding growth in future earnings (reflected in EPS growth)
+- ![stable book value growth from earnings](./stable-book-value-growth-owner-earning.png)
+- [stable and understandable stock](https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-20/)
+
+## rule 2: sustainable competitive advantage (moat)
+- the sustainable competitive advantage cannot be duplicated by competitors; hence the business will keep pouring money into the owners' pockets.
+  - For example, Coca-Cola has a great moat due to its enormous brand value
+  - Wal-Mart has a wide moat due to its cost structure where it can buy products with large volume from its suppliers at a cheaper price than its competitors.
+- Sample moats from different industries
+  - intangible assets such as brands and patents
+    - Disney is a strong brand and almost everyone in the world recognizes it.
+  - low cost
+    - Wal-Mart can buy at quantities and prices that competitors can't match.
+  - high switching costs ("stickiness")
+    - most people will not bother with the hassle of changing operating system such as Microsoft, because they do not want to re-learn the new system.
+# Principle 4: buy at attractive prices
+
+## rule 1: keep a wide margin of safety to the intrinsic value
+- ![margin of safety](./margin-of-safety.png)
+- if a margin of safety is 30% on one stock, it may look tempting, but if you have the option to buy another great business (of equal risk) with a 50% discount, you would go for that one instead.
+
+## rule 2: low price-earnings ratio
+- P/E = market price for the company/Net Income
+- P/E ratio is simply a current snapshot in time. it looks at the company's present performance in order to determine the value of its future performance. This is often a dangerous path if you fail to consider the other variables
+- conservative investor looks for stocks with a P/E ratio below 15, or, in other words, the return should at the very least be 6.67% (which is 1/15) annually. She does not buy into hopes and dreams and she does not think she can spot the new Microsoft. Instead, she busy into a company that is already making a decent profit compared to the price she pays.
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
