@@ -177,7 +177,14 @@ tags: ["investing", "valueinvesting"]
       - if yes, simply using the rate of inflation (2-3%) to protect your estimate from being too optimistic.
 
 ### buffet intrinsic value model
-
+- https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-21/
+- DCF model allowed you to estimate the company's value by discounting cash flows into perpetuity. The Buffet instrinsic value provide a finite solution and only summed the cash flows for a 10-year period.
+- DCF model use free cash flow, and Buffetts calculator use dividends plus book value growth.
+- use the model that provides the most conservative estimate.
+- limitations
+  - it only works if a stock fulfills all four of Warren Buffett's principles.
+    - if a company lacks certain aspects of the principles discussed, those aspects should be assessed as additional risk to the investor.
+    - these qualitative aspects should be accounted for by lowering the book value growth rate, lowering the dividend rate, requiring a higher discount rate, ore not even evaluating the stock all together.
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
