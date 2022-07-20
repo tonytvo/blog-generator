@@ -185,6 +185,18 @@ tags: ["investing", "valueinvesting"]
   - it only works if a stock fulfills all four of Warren Buffett's principles.
     - if a company lacks certain aspects of the principles discussed, those aspects should be assessed as additional risk to the investor.
     - these qualitative aspects should be accounted for by lowering the book value growth rate, lowering the dividend rate, requiring a higher discount rate, ore not even evaluating the stock all together.
+  - high-growth companies
+    - high growth companies naturally have a better opportunity to grow their book value compared to large, slow-growth companies, even if it's for a limited period of time. These growth rates will yield very high intrinsic values in the calculator. Avoid using more than 13-15% for book value growth in the calculator, even if the company has shown much higher growth over the past 10 years.
+  - high degree of share buy-back
+    - buy-backs distort the book value, which in turn also distorts the intrinsic value.
+    - if it's corporate strategy to reduce the number of shares outstanding, you'll probably want to use the DCF model instead.
+  - stock splits
+    - historical book value growth rate isn't representative of its actual performance.
+    - maybe easier to use the DCF model to avoid the disparity when assessing how much the book value may grow in the future.
+
+## rule 6: the right time to sell
+- [when to sell stocks](https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-28/)
+
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
