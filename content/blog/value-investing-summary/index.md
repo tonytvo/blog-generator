@@ -196,6 +196,16 @@ tags: ["investing", "valueinvesting"]
 
 ## rule 6: the right time to sell
 - [when to sell stocks](https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-28/)
+- probably wants to consider the impacts of capital gains and bank fees before you impulsively switch assets. You should revert back to Warren Buffett's four principles:
+  - is the company still managed by vigilant leaders
+  - does the company still have products and services that have long-term prospects?
+  - are the company's earnings and debt management still stable and predictable?
+  - based on the projected cash flows, what kind of return you expect at the current trading price?
+- maybe you feel that 20% or 35% of your portfolio in one stock is too risky. Although Buffett likes a focused portfolio, he still keesp more than 10 different picks in his portfolio
+- to decide if you should keep or sell your current holding (stock A), or invest in another (stock B), follow these 4 easy steps:
+  - calculate the expected annual return for stocks A and B based on the current market prices
+  - subtract the cost of capital gains tax from stock A
+  - calculate whether stock A or B yields the highest expected annual return based on a given time frame.
 
 
 # Scope and Limits of Security Analysis
