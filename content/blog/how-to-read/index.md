@@ -20,6 +20,7 @@ tags: ["productivity", "learning"]
     - we're letting technology do much of our critical thinking and reasoning for us.
 
 # How we learn to read
+
 - there's difference between reading for understanding and reading for information
   - lots of people confuse knowing the name of something with understanding. While great for exercising your memory, the regurgitation of facts without solid understanding and context gains you little in the real world.
   - **anything easily digested is reading for information.**
@@ -60,6 +61,7 @@ tags: ["productivity", "learning"]
 
   ## Elementary reading
   - level of reading taught in our elementary schools
+
   ## Inspectional reading
   - skimming and superficial reading can be used effectively to increase understanding
   - inspectional reading allows us to look at the author's blueprint and evaluate the merits of a deeper reading experience.
@@ -76,6 +78,7 @@ tags: ["productivity", "learning"]
       - just read, don't ponder the argument, don't look things up, don't write in the margins.
       - if you don't understand something, move on.
       - now that you have better understanding of the book's contents and its structure, do you want to understand it?
+
   ## Analytical reading
   - [use marginalia to converse with the author](https://fs.blog/marginalia/)
     - the broken fragments of thought that appear scribbled in the margins of books.
@@ -88,6 +91,7 @@ tags: ["productivity", "learning"]
       - in other words, you should be able to state the main question that the book tries to answer, and you should be able to state the subordinate questions if the main question is complex and has many parts.
   - after an inspectional read, you will understand the book and the author's views.
   - theoretical books teach you that something is the case. Practical books teach you how to do something you want to do or think you should do.
+
   ## Syntopical reading
   - involves reading many books on the same subject and comparing and contrasting ideas, vocabulary, and arguments.
   - identifying relevant passages, translating the terminology, framing and ordering the questions that need answering, defining the issues, and having a conversation with the responses.
@@ -111,9 +115,11 @@ tags: ["productivity", "learning"]
       - our answer is the conflict of opposing answers.
       - the value is the discussion you have with these authors.
       - you can now have an informed opinion
+
 # 4 Questions must ask about any book
+
 ## what is the book as a whole?
-- you must try to discover the leading theme of the book, and how the author develops his theme in an orderly way by subdividing it into its essential subordinate themes or topics
+- you must try to discover the leading theme of the book, and how the author develops her theme in an orderly way by subdividing it into its essential subordinate themes or topics
 
 ## what is being said in detail and how
 - you must try to discover the main ideas, assertions and arguments that constitute the author's particular message
@@ -126,7 +132,7 @@ tags: ["productivity", "learning"]
 - Is it important to you to know them? and if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking.
 
 # Note taking
-- listen with intent. Write a notes in a way you can understand later
+- listen with intent. Write notes in a way you can understand later
 - TIP
   - T - Think about what you're hoping to retain most from this session
   - I - identify what is most important in the context of your goal
@@ -134,8 +140,10 @@ tags: ["productivity", "learning"]
 - use your own words whenever possible
 -  handwriting triumphs typing because writing by hand requires you to exert more effort and process information immediately
 -  use **capture and create**. Fold the paper into two columns. On left side, write down what you're capturing. On the right, write your impression of potential applications, i.e., the areas you can apply this.
+
   ## audio journal
   - need to do more research in this
+
   ## Blank sheet
   - before you start reading a new book, take out a blank sheet of paper. write down what you know about the subject you're about to read - a mind map if you will
   - after you're done a reading session, spend a few minutes adding to the map (I use a different color ink)

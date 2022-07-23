@@ -20,19 +20,23 @@ tags: ["health", "diet"]
   - **Make it a game**, measurement = motivation. Seeing any changes in numbers creates a positive feedback loop
   - **make it competitive**, The potential loss is a more fantastic motivator than the potential reward. Use peer pressure to improve your performance.
   - **make it minor and temporary**, ask yourself, "what is the smallest minimum change that I can make"
+
 # Keep yourself motivated by using tools and rewards
 - contracts to tie you to finish what you've started.
 - Make a list of incentives for completing a task in its entirety.
 - Keep a diary. Maintaining a journal allows you to balance embracing the past and planning for the future.
+
 # Fasting helps your concentration.
 - Fasting is an excellent tool for stimulating concentration and metabolism
 - Make short fasts, consume all the foods of the day between 6 and 8 hours and then only feed again on the next day.
 - Both prevent chronic diseases and increase muscle mass.
 - When your body operates with ketones, you get a greater focus, more concentration and more energy because your blood sugar level stabilizes during ketosis.
+
 # The slow-carbohydrate diet
 - eats a simple set of meals regularly. This will assist you in staying on track and preventing you from indulging in unhealthy food
 - concentrate on slow-burning carbohydrates.
 - Allow one 'cheat day' every week to eat whatever you want. This includes even the most sinful treats. This will assist you in remaining motivated.
+
 # Meals to avoid
 - **bread, potatoes, sweet potatoes, spaghetti, tortillas, fried meals, wholegrain carbohydrates such as brown rice, wholegrain bread, oats, quinoa, amaranth, starches, and sweets, sugar substitutes** must all be avoided.
 - Splenda has no calories. It causes weight gain by raising the number of harmful bacteria in your stomach.
@@ -43,7 +47,7 @@ tags: ["health", "diet"]
 - carbohydrates in the diet are converted into blood sugar, commonly known as glucose. Foods with a high glycemic index dramatically boost blood sugar levels, such as wheat, rice, and potatoes. Low-glycemic foods, such as vegetables and fish, have little impact on blood sugar levels. Glucose is required for all living things to survive, but excessive quantities cause weight gain, heart disease, and cancer.
 
 # Creating a routine around eating
-- the same few meals isis critical to optimizing one's diet. It will prevent you from treating yourself to something unhealthy
+- the same few meals is critical to optimizing one's diet. It will prevent you from treating yourself to something unhealthy
 - Make an effort to consume four meals each day.
 
 # The foods that are allowed
