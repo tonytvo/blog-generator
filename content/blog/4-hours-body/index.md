@@ -71,7 +71,7 @@ tags: ["health", "diet"]
 - Cheat day is excellent for fat reduction. It helps increase digestion
 
 # magnesium, potassium, and calcium supplementation are essential for weight loss
-- low-carb diet cause loss of excess water on non-cheat days and losing magnesium, potassium, and calcium. Hence, supplement these minerals in pill form or eat food sources rich in these minerals.
+- low-carb diet causes loss of excess water on non-cheat days and losing magnesium, potassium, and calcium. Hence, supplement these minerals in pill form or eat food sources rich in these minerals.
 - Attempting to incorporate almonds, cashews, peanuts and brazil nuts in your day-by-day non-cheat diet.
 - Incorporate salmon, dark beans, lentils and mushrooms for more potassium
 - spinach is high in each of these three minerals, so you ought to eat it every day
@@ -79,11 +79,11 @@ tags: ["health", "diet"]
 
 # Gut bacteria are essential for weight loss
 - gut microscopic organisms can assist you with getting thinner, adjusting microorganisms for fat loss.
-- There are 2 distinct microbes in your gut: firmicutes and Bacteroides.
+- There are two distinct microbes in your gut: firmicutes and Bacteroides.
 - Chubby individuals have more firmicute microorganisms, while lean individuals have more bacteroidetes.
-- If you can increase your amount of healthy bacteria, you will become leaner and healthier. Then, being leaner will help further increase your Bacteroidetes, helping you become even leaner and healthier.
+- If you can increase your healthy bacteria, you will become leaner and healthier. Then, being leaner will help further increase your Bacteroidetes, helping you become even leaner and healthier.
 - Joining food sources into your eating routine that contain high measures of healthy microscopic organisms.
-Kimchi, Japanese natto, sauerkraut, and mature fish, garlic, leeks, and chicory are food-based kinds of prebiotic. Supplements with Sedona labs, iFlora prebiotics and Athletic Greens.
+Kimchi, Japanese natto, sauerkraut, mature fish, garlic, leeks, and chicory are food-based kinds of prebiotics. Supplements with Sedona labs, iFlora prebiotics and Athletic Greens.
 - Reasonable gut vegetation assists you with getting thinner and feeling better. It has likewise been related to lessening hypersensitivities, maturing, and in any event, helping with AIDS and Type 2 diabetes indications.
 
 # How to lower blood sugar levels
@@ -91,7 +91,7 @@ Kimchi, Japanese natto, sauerkraut, and mature fish, garlic, leeks, and chicory 
 - Nuts, avocados, and olive oil are primarily extremely healthy fats.
 - Try four Brazil nuts and a tablespoon of almonds spread each day
 - drink lemon juice. Lemon juice can bring down your glycemic reaction by up to 10%. It additionally contains a high measure of nutrient C.
-- cinnamon is a beneficial apparatus in lessening your glucose levels. Cinnamon can bring down your glycemic reaction by up to 29%. There are 3 various types of cinnamon: Cassia, Ceylon, and Saigon.
+- cinnamon is a beneficial apparatus in lessening your glucose levels. Cinnamon can bring down your glycemic reaction by up to 29%. There are three types of cinnamon: Cassia, Ceylon, and Saigon.
 - However, try not to burn through more than 4 grams of cinnamon each day, as unreasonable utilization might thin your blood.
 - Sugar and starch will consistently spike your glucose, yet protein and vegetables can likewise if you eat them excessively quickly.
 - If you're accustomed to eating rapidly, try drinking water between thirds to keep yourself occupied. Fluids will likewise help you digest your food better.
@@ -100,7 +100,7 @@ Kimchi, Japanese natto, sauerkraut, and mature fish, garlic, leeks, and chicory 
 # Damage control: preventing fat gain
 - minimizes the release of insulin. Make sure that your first meal of the day is not a binge meal. For example, making it high in protein
 - increase the speed at which the food exits the stomach. Caffeine will make food digestion faster
-- engage in brief muscular contraction throughout the binge. Doing muscular contraction opens more gates for calories to go to.
+- engage in brief muscular contractions throughout the binge. Doing muscular contraction opens more gates for calories to go to.
 - four horsemen of fat loss (PAGG)
   - policosanol: 20-25 mg
   - Alpha-lipoic acid: 100-300mg
@@ -120,8 +120,9 @@ the 15-minute orgasm
 - Try not to drink liquor sooner than four hours before bed. A couple of glasses may help you nod off quicker.
 Take 200 micrograms of huperzine 30 minutes before sleep time. It will expand your complete REM rest by 30%
 taking a cold shower before bed can also help improve your sleep cycle.
-- The most essential sleep is the REM phase. To trick your brain into entering the REM phase, try sleeping in short cycles.
-- On average, you'll want your room to register somewhere between 19-21 degrees Celsius.
+- The most essential sleep is the REM phase. Try sleeping in short cycles to trick your brain into entering the REM phase.
+- On average, you'll want your room to register between 19-21 degrees Celsius.
+  
 # pre-bedtime habits
 - a high fat and fibre bite will help you feel less drained and irritable toward the beginning of the day.
 - You should have 2 tablespoons of almond margarine, two or three celery sticks before bed. This should assist with keeping your blood sugar levels consistent overnight.
