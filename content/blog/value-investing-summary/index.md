@@ -207,6 +207,41 @@ tags: ["investing", "valueinvesting"]
   - subtract the cost of capital gains tax from stock A
   - calculate whether stock A or B yields the highest expected annual return based on a given time frame.
 
+# Principles for selection of fixed-value investments
+
+## safety not measured by Lien but by ability to pay
+- safety is measured by the ability of the issuer to meet obligations - not by contractual rights
+
+## obligation possibility should be assessed in terms of depression, not prosperity
+- if a business fails, the bond holder recovers his money from assets; but that often fails because
+  - property values shrink when the business fails
+  - there is difficulty in establishing legal rights
+  - there are inherent delays in receivership
+
+## Unsound to sacrifice safety for yield
+- lack of safety is not compensated by a high dividend or coupon
+
+## definite standards of safety must be applied
+
+
+# bond investments criteria
+## nature and location of the business
+
+## size of the business
+
+## terms of issue
+
+## record of solvency and dividend payment
+
+## relation of earnings to interest requirements
+
+## relation of earnings to interest requirements
+
+## relation of value of the property to funded debt
+
+## relation of stock capitalization to funded debt
+
+## special factors in bond analysis
 
 # Scope and Limits of Security Analysis
 - common obstacles to analyst
