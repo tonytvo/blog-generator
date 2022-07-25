@@ -125,20 +125,20 @@ taking a cold shower before bed can also help improve your sleep cycle.
   
 # pre-bedtime habits
 - a high fat and fibre bite will help you feel less drained and irritable toward the beginning of the day.
-- You should have 2 tablespoons of almond margarine, two or three celery sticks before bed. This should assist with keeping your blood sugar levels consistent overnight.
+- You should have two tablespoons of almond margarine and two or three celery sticks before bed. This should assist with keeping your blood sugar levels consistent overnight.
 - Eat an enormous dinner brimming with fat and protein three hours before bed.
 - Clean up or cold shower before bed and burn through 1.5 to 3 milligrams of melatonin an hour before bed.
 - Ultrasonic humidifiers will make your room cool and damp, making it simpler to rest.
 - A blue light treatment light for 15 minutes in the first part of the day will give you an increase in energy.
 - A night wave beat light will assist you with unwinding, creating a blue light that tenderly ascents and falls.
-- Attempt to try not to utilize your telephone or PC at evening time, as they send blue light. This light will make it harder to rest.
+- Attempt not to utilize your telephone or PC in the evening, as they send blue light. This light will make it harder to rest.
 - Utilize the gadgets. Get yourself some blue light obstructing glasses.
 
 # Reversing injuries/adding muscle
 - the more muscle you have, the easier it is to keep the fat off.
-- Workout A. Make 10 sets, each with thirteen reps and as much weight as you can, except for swings with the kettlebell. For the kettlebell, make 20 to 25 swings. Repeat the entire circuit twice:
+- Workout A. Make ten sets, each with thirteen reps and as much weight as possible, except for swings with the kettlebell. For the kettlebell, make 20 to 25 swings. Repeat the entire circuit twice:
   - Squatting with dumbells, tighten buttocks at the bottom of the squat for one second before getting up
-  - One-sided paddle with 2 supports
+  - One-sided paddle with two supports
   - Step forward with a dumbbell
   - Open-arm push-ups
   - Swings with a kettlebell with both arms
@@ -179,8 +179,8 @@ taking a cold shower before bed can also help improve your sleep cycle.
 
 # Subtracting fat
 - avoid white carbohydrates, i.e. all bread, cereal, potatoes, pasta, and fried food with breading
-- eat the same meals over and over again, foods that produce the fastest weight loss include proteins, legumes, and vegetables
-- don't drink calories, instead drink massive amounts of water, unsweetened tea, wine and low-calorie beverages
+- eat the same meals over and over again. Foods that produce the fastest weight loss include proteins, legumes, and vegetables
+- don't drink calories instead, drink massive amounts of water, unsweetened tea, wine and low-calorie beverages
 - don't eat fruit. You don't need to eat fruit every day
 - take one day off per week.
 - An example diet
@@ -190,14 +190,15 @@ taking a cold shower before bed can also help improve your sleep cycle.
 - if you NEED to snack between meals, carrots are the best thing to eat but do not eat too many
 - the only fruits allowed in the diet are tomatoes and avocado. Avocados should be limited to one unit per day.
 - **common mistakes to avoid**
-  - not eating within an hour or 30 minutes of waking up skipping breakfast will result in overeating in the evening
-  - not eating enough protein eating proteins in the morning will cub your impulses to eat later and promote a negative fat balance.
-  - not drink enough water - drinking enough water will ensure optimal liver function for fat loss
+  - not eating within an hour or 30 minutes of waking up and skipping breakfast will result in overeating in the evening
+  - not eating enough protein eating proteins in the morning will curb your impulses to eat later and promote a negative fat balance.
+  - Do not drink enough water - drinking enough water will ensure optimal liver function for fat loss
   - believing that you'll cook, especially if you are a bachelor
   - mistiming weight loss with your menstrual cycle. 
   - Overeating common foods: nuts, chickpeas, hummus, peanuts, macadamias. These foods are great on a diet but prone to portion abuse.
   - Overconsuming artificial sweeteners - artificial sweeteners provoke increased insulin release
   - hitting the gym too often - doing too much can result in overeating and may reverse your progress.
+
 # Be stronger and live longer
 - do four things: the squat, the bench, the deadlift, and compete in lifting competitions.
 - Do not attempt a rep unless you're 100% sure you will make it.
@@ -218,10 +219,10 @@ taking a cold shower before bed can also help improve your sleep cycle.
 - 1 minute 30 seconds of profound relaxing
 - 1 minute 15 seconds of cleansing (breathing air out hard)
 - hold the breath for an objective of brief 30 seconds
-- take three semi-cleanse breaths (the most ideal approach to characterize this is between a full breath and a cleanse)
+- take three semi-cleanse breaths (the ideal approach to characterize this is between a full breath and a cleanse)
 - 1 minute 30 seconds of profound relaxing
 - 1 minute 30 seconds of cleansing
-- hold the breath for 2 minutes 30 seconds
+- hold the breath for 2 minutes and 30 seconds
 - take three semi-cleanse breaths
 - 2 minutes of deeply relaxing
 - 1 minute 45  seconds of cleaning

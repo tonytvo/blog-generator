@@ -23,102 +23,151 @@ tags: ["valueinvesting", "investing"]
   - To avoid Twain-sized losses, investors should ask themselves how much they’re willing to lose before they invest.
 
 - John Meriwether
-Humans have a tendency to believe they’re above average — above-average drivers, above average at our jobs, above-average investors… We can’t all be above average.
-Meriwether founded Long-Term Capital Management (LTCM) in 1994 with Robert Merton and Myron Scholes.
-LTCM earned 20% in 1994, 43% in 1995, and 41% in 1996. In 1997, Merton and Scholes won the Nobel Prize.
-LTCM ran an arbitrage strategy with a ton of leverage.
-"They believed the risk was low, but their leverage in both the United States and Europe soared. LTCM had about $40 million at stake for every point in volatility the markets moved. At one point, they had $1.25 trillion in open positions and they were levered 100:1. This leverage would lead to one of the largest disappearing acts of wealth the world has ever seen."
-LTCM lost 6.7% in May 1998 as spreads between US and international bonds widened. Then they lost 10% in June. The collapse of the Russian stock market spiked short-term rates in August. LTCM was down 52% YTD, a $1.9 billion loss. From Sept. 10 to 21 they lost another $1.5 billion. The New York Fed forced a takeover of the fund before it infected the financial system. It was the largest hedge fund at the time at $3.6 billion, 40% was Meriweather, Merton, and Scholes personal wealth…wiped out in five weeks.
-"They made absolutely no allowance in the episode of LTCM for the possibility of their not understanding markets and their methods being wrong." — Nassim Taleb
-Their mistake was believing markets were rational and certain that math could solve it. They failed to acknowledge that the behavior of millions of participants around the globe might impact markets.
-"They were able to calculate the odds of everything, but they understood the possibility of nothing. The lesson us mere mortals can learn from this seminal blowup is obvious: Intelligence combined with overconfidence is a dangerous recipe when it comes to the markets."
-Jack Bogle
-"The lesson we can learn from one of the most influential investors of all time is that investing is a long journey, often lasting a lifetime. It is filled with success, failure, hopes, dreams, and everything in‐between."
-Bogle was promoted in 1965 to run the Wellington Group. The flagship Wellington Fund was a balanced fund created in 1928. As the Wellington fund began to lag the markets during the Go-Go ’60s, Bogle merged Wellington with Ivest, a young firm of "new era" managers, in an attempt to keep up with the times. Wellington fund would lose 40% when the Go-Go ’60s market crashed in 1969.
-"The first five years you would have described Bogle as a genius. And at the end of the first 10 years, roughly, you would have said: the worst merger in history, including AOL and Time Warner. It all fell apart. Their management skills were zero. They ruined the fund they started, Ivest. They started two more and ruined both. And they ruined Wellington Fund." — Jack Bogle
-"I can hardly find words to describe first my regret and then my anger at myself for having made so many bad choices. Associating myself – and the firm whose leadership I had been entrusted – with a group of go‐go managers." — Jack Bogle
-Bogle was fired in 1974. With nothing to lose, he proposed he stay on as chairman of the Wellington Fund. His failure would lead to the creation of the Vanguard Group and the First Index Investment Trust — i.e. the index fund.
-"The important part is finding a methodology that you are comfortable with. But a methodology means something that is repeatable. It means having a process. The stock market throws far too many curveballs for you to wing it."
-Michael Steinhardt
-"Investors who confine themselves to what they know, as difficult as that may be, have a considerable advantage over everyone else." — Seth Klarman
-Styles go out of favor. Portfolios hit hard times. Straying outside your comfort zone for opportunities during these difficult periods can make things worse.
-Steinhardt’s hedge fund earned a 24.5% annual return after fees from 1967 to 1995.
-Hedge funds were so popular in 1990s, people were begging hedge funds to take their money. Steinhardt used the opportunity to open a fourth fund — Steinhardt Overseas Fund — in 1993. Except, he had no knowledge of foreign markets, business environment, or political systems. He believed his experience trading U.S. stocks would translate over.
-The Fed raised rates in February 1994, pushed U.S. bond prices lower but European bonds fell further. Steinhardt’s fund lost $800 million with the rate hike. He lost 29% on the year.
-"1987 had shaken me; 1994 had been devastating. It had taken a part of me that could not be retrieved." — Michael Steinhardt
-"Putting too much money into something you don’t fully understand is a good way to lose a lot of money. But what’s more damaging than losing money is the psychological scar tissue that remains after the money vanishes."
-"If you play games where other people have the aptitudes and you don’t, you’re going to lose." — Charlie Munger
-"Bad behavior is one of the greatest dangers investors face, and traveling outside your circle of competence is one of the most common ways that investors misbehave. It’s not important how wide your circle of competence is, but what is critically important is that you stay inside it. Knowing what you don’t know and having a little discipline can make all the difference in the world."
-Jerry Tsai
-"Genius is a rising market." — John Kenneth Galbraith
-Investors tend to associate gains with skill rather than bull market luck.
-Bull markets drive investors to trade more because rising markets provide a positive feedback loop to investors. Investors trade stocks, make a little money, trade more, make more, and the trading increases…until the bull market ends. Then it blows up.
-The late 1960s bull market culminated with the Go-Go fund managers. Jerry Tsai was at the center of it.
-He started the Manhattan fund in 1965, raising more money than initially planned. It had an 8.5% sales load. Tsai bought any stock that rose faster than the market. The strategy works great in ’67 earning a 40% return.
-Tsai learned that high-flying stocks can fall faster than they rise. The market crashed in 1969. The Manhattan Fund lost 90% over the next few years.
-Warren Buffett
-Endowment Effect: we put more value on things we own than before we bought them.
-"When the game is no longer being played your way, it is only human to say the new approach is all wrong, bound to lead to trouble, etc. I have been scornful of such behavior by others in the past. I have also seen the penalties incurred by those who evaluate conditions as they were – not as they are. Essentially I am out of step with present conditions. On one point, however, I am clear. I will not abandon a previous approach whose logic I understand even though it may mean foregoing large, and apparently easy, profits to embrace an approach which I don’t fully understand, have not practiced successfully and which, possibly, could lead to a substantial permanent loss of capital." — Warren Buffett, 1967
-Buffett made numerous mistakes over his long career, but none like Dexter Shoes. He paid $433 million for Dexter using Berkshire stock. He diluted shareholders to buy a business that was worth nothing a few years later. It couldn’t compete with foreign competitors. His Dextor purchase was likely due to overconfidence thanks to his successful purchase of another shoe company — H.H. Brown — a few years early.
-"I clearly made a mistake in paying what I did for Dexter in 1993. Furthermore, I compounded that mistake in a huge way by using Berkshire shares in payment." — Warren Buffett
-"It behooves us to take a minute and think about why we’re investing and what we really know. Do you know more than the person on the other side of the trade? Do you know something that’s not in the newspaper or on the Internet? Will we know when we’re right? What about if we’re wrong?"
-Bill Ackman
-"Ideas are part of who we are. They become like possessions. Especially publicly. I mean, flip-flopping is a bad word. I love changing my mind!" — Daniel Kahneman
-We prefer to talk more about our successes than our failures — especially for investments.
-Ackman’s battle with Herbalife began in 2012 with a very public presentation claiming it was a pyramid scheme that would go to zero. He was short Herbalife and the stock immediately sold off 35%. Which provided an opportunity for hedge funds to take the other side. The stock reversed course, rising 70% higher than where Ackman began to short it.
-The risk of being public about investments is it brings ego into decision-making. Can you publicly admit to being wrong? There’s also the added pressure from others who are following your coat tails (without doing their own research) and it feeds the trolls when it doesn’t work out.
-Stanley Druckenmiller
-"In a winner’s game the outcome is determined by the correct actions of the winner. In a loser’s game, the outcome is determined by mistakes made by the loser." — Charley Ellis
-"Bad things tend to happen when we compare our portfolios with others, especially if they possess a lesser IQ and extracted a higher return."
-"Fundamentals are how fast the horse runs and expectations are the odds." — Michael Mauboussin
-"The casual investor thinks a good company makes for a good stock, without giving consideration to the fact that the majority of investors share a similar opinion. Perhaps, like‐minded investors have pushed the price of a good company into that of a great company, making it less than it appears at first blush."
-"It’s my philosophy, which has been reinforced by Mr. Soros, that when you earn the right to be aggressive, you should be aggressive. The years that you start off with a large gain are the times that you should go for it." — Stanley Druckenmiller
-"The first thing I heard when I got in the business, not from my mentor, was bulls make money, bears make money, and pigs get slaughtered. I’m here to tell you I was a pig. And I strongly believe the only way to make long‐term returns in our business that are superior is by being a pig." — Stanley Druckenmiller
-Druckenmiller bet against Internet stocks in 1999 that cost him $600 million, an 18% loss. He ended the year positive 35% thanks to a couple of new hires who took the long side of the Internet Boom.
-In 2000 he sold the Internet stocks out of concern — he knew it wouldn’t last forever — took his gains, and went back to investing in what he was comfortable with. Yet, he couldn’t help but watch the Internet stocks continue rising and his two new hires making money, until he couldn’t stand it and plunged back in. He bought back in at the height of the bubble, then it burst.
-"It would have been nice to go out on top, like Michael Jordan, but I overplayed my hand." — Stanley Druckenmiller
-His mistake was knowing better and buying the stocks anyway.
-"The idea of caring that someone is making money faster is one of the deadly sins. Envy is a really stupid sin because it’s the only one you could never possibly have any fun at. There’s a lot of pain and no fun. Why would you want to get on that trolley?" — Charlie Munger
-"I bought $6 billion worth of tech stocks, and in six weeks I had lost $3 billion in that one play. You asked me what I learned. I didn’t learn anything. I already knew that I wasn’t supposed to do that. I was just an emotional basket case and couldn’t help myself. So maybe I learned not to do it again, but I already knew that." — Stanley Druckenmiller
-Bill Ruane — Sequoia
-"Your six best ideas in life will do better than all your other ones." — Bill Ruane
-Unless one of those ideas is Valient.
-"Concentrate to get rich, diversify to stay rich." — old adage
-The risk of concentrated portfolios is a few big losses can set you back permanently.
-Sequoia was one of the most successful funds ever. It bought Valient stock in 2010 and it quickly became its largest holding. Valient relied on buying existing drug companies, then raising the price of the drugs.
-"If you’re looking for a manager you want someone who is intelligent, energetic, and moral. But if they don’t have the last one, you don’t want them to have the first two." — Warren Buffett
-Accusations of fraud at Valient surfaced in 2015. Its stock fell 19%. Sequoia lost 9% because of its large position. Then it bought more Valient stock. It represented 32% of the fund. 8 months later, they sold all the stock. Valient was down more than 90%!
-"If you want to make big money in the stock market, you have two choices: (1) buy a lot of stocks, an index fund, for example, and hold them for a long time (even then, no guarantees) or (2) buy a few stocks and hope you’re right."
-Before buying a position, write down why you’re buying and your exit plan. It gives you a reference point that may help combat the endowment effect.
-John Maynard Keynes
-"How could economics not be behavioral? If it isn’t behavioral, what the hell is it?" — Charlie Munger
-"Every minute of every day, markets are putting out clues, little crumbs of information for would‐be market detectives. This is the most addictive game on the planet because it’s a game that never ends. The pieces are always zigging and zagging and by the time you think you’ve got things figured out, new rules are implemented."
-"Professional investment may be likened to those newspaper competitions in which the competitors have to pick out the six prettiest faces from a hundred photographs…each competitor has to pick, not those faces which he himself finds prettiest, but those which he thinks likeliest to catch the fancy of the other competitors… We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be." — John Maynard Keynes
-"If we speak frankly, we have to admit that our basis of knowledge for estimating the yield ten years hence of a railway, a copper mine, a textile factory, the goodwill of a patent medicine, an Atlantic liner, a building in the City of London amounts to little and sometimes to nothing; or even five years hence." — John Maynard Keynes
-Keynes’s initial foray into "investing" was trading currencies and commodities based on macro bets after WWI. It didn’t end well. He lost it all and was bailed out by family and friends.
-He shifted his strategy to a more long-term approach after taking over the King’s College endowment fund and the portfolios of two insurance companies.
-"The idea of wholesale shifts is for various reasons impracticable and indeed undesirable. Most of those who attempt it sell too late and buy too late, and do both too often…. I believe now that successful investment depends upon three principles: A careful selection of few investments having regard to their cheapness in relation to their probable actual and potential intrinsic value over a period of years ahead and in relation to alternative investments at the time. A steadfast holding of these in fairly large units through thick and thin, perhaps for several years, until they have fulfilled their promise or it is evident that they were purchased on a mistake; A balanced investment position, i/e, a variety of risks in spite of individual holdings being large, and if possible opposed risks." — John Maynard Keynes
-John Paulson
-"Money earned by luck is indistinguishable from money earned by skill."
-Paulson is most well known for betting against mortgage-backed securities during the housing bubble. It paid off massively — 590% and 350% — in one year for two funds.
-Off the back of that success, he went looking for another huge win. He settled on a big bet on gold. It failed to pay off. In fact, it lost money three years in a row — 75% in total. Because normal returns weren’t good enough!
-The trouble with abnormal gains like Paulson had, is it resets our expectations of what’s possible. Normal gains aren’t enough anymore. The other issue is overconfidence in our ability to repeat the success.
-"You only need to get rich once. If you’ve worked hard or just got lucky and now find yourself in the top 1%, stop trying to hit home runs, you’ve already won."
-Charlie Munger
-"You need patience, discipline, and an ability to take losses without going crazy." — Charlie Munger
-"The best lesson investors can learn from one of the best to ever do it is that there are no good times without the bad times. Big losses are in the fabric of long‐term investing. And if you’re not willing to accept them, you will not harvest the long‐term returns that the market has to offer."
-"If you’re not willing to react with equanimity to a market price decline of 50 percent or more two or three times a century, you’re not fit to be a common shareholder and you deserve the mediocre result you’re going to get compared to the people who do have the temperament, who can be more philosophical about these market fluctuations." — Charlie Munger
-Munger started his fund in 1962, earning a 24% annual return before fees over 14 years (vs. S&P 500’s 5.2%).
-The fund was highly concentrated. It brings the possibility of a wider range of returns in both directions.
-His investors felt the downside of concentration in the 1973/74 bear market. Munger lost 32% and 31% over those two years versus the Dows 13% and 23% losses respectively.
+  - Humans have a tendency to believe they’re above average — above-average drivers, above average at our jobs, above-average investors… We can’t all be above average.
+  - Meriwether founded Long-Term Capital Management (LTCM) in 1994 with Robert Merton and Myron Scholes.
+  - LTCM earned 20% in 1994, 43% in 1995, and 41% in 1996. In 1997, Merton and Scholes won the Nobel Prize.
+  - LTCM ran an arbitrage strategy with a ton of leverage.
+  - LTCM lost 6.7% in May 1998 as spreads between US and international bonds widened. Then they lost 10% in June. The collapse of the Russian stock market spiked short-term rates in August. LTCM was down 52% YTD, a $1.9 billion loss. From Sept. 10 to 21 they lost another $1.5 billion. The New York Fed forced a takeover of the fund before it infected the financial system. It was the largest hedge fund at the time at $3.6 billion, 40% was Meriweather, Merton, and Scholes personal wealth…wiped out in five weeks.
+  - Their mistake was believing markets were rational and certain that math could solve it. They failed to acknowledge that the behavior of millions of participants around the globe might impact markets.
 
-Most people don’t have the stomach for such a huge drawdown. He lost a big investor because of it. The fund bounced back in 1975, then Munger liquidated it.
-Losses and drawdowns are part of the game. Get used to it.
+- Jack Bogle
+  - Bogle was promoted in 1965 to run the Wellington Group. The flagship Wellington Fund was a balanced fund created in 1928. As the Wellington fund began to lag the markets during the Go-Go ’60s, Bogle merged Wellington with Ivest, a young firm of "new era" managers, in an attempt to keep up with the times. Wellington fund would lose 40% when the Go-Go ’60s market crashed in 1969.
+  - Bogle was fired in 1974. With nothing to lose, he proposed he stay on as chairman of the Wellington Fund. His failure would lead to the creation of the Vanguard Group and the First Index Investment Trust — i.e. the index fund.
+
+- Michael Steinhardt
+  - Styles go out of favor. Portfolios hit hard times. Straying outside your comfort zone for opportunities during these difficult periods can make things worse.
+  - Steinhardt’s hedge fund earned a 24.5% annual return after fees from 1967 to 1995.
+  - Hedge funds were so popular in 1990s, people were begging hedge funds to take their money. Steinhardt used the opportunity to open a fourth fund — Steinhardt Overseas Fund — in 1993. Except, he had no knowledge of foreign markets, business environment, or political systems. He believed his experience trading U.S. stocks would translate over.
+  - The Fed raised rates in February 1994, pushed U.S. bond prices lower but European bonds fell further. Steinhardt’s fund lost $800 million with the rate hike. He lost 29% on the year.
+
+- Jerry Tsai
+  - Investors tend to associate gains with skill rather than bull market luck.
+  - Bull markets drive investors to trade more because rising markets provide a positive feedback loop to investors. Investors trade stocks, make a little money, trade more, make more, and the trading increases…until the bull market ends. Then it blows up.
+  - The late 1960s bull market culminated with the Go-Go fund managers. Jerry Tsai was at the center of it.
+  - He started the Manhattan fund in 1965, raising more money than initially planned. It had an 8.5% sales load. Tsai bought any stock that rose faster than the market. The strategy works great in ’67 earning a 40% return.
+  - Tsai learned that high-flying stocks can fall faster than they rise. The market crashed in 1969. The Manhattan Fund lost 90% over the next few years.
+
+- Warren Buffett
+  - Endowment Effect: we put more value on things we own than before we bought them.
+  - Buffett made numerous mistakes over his long career, but none like Dexter Shoes. He paid $433 million for Dexter using Berkshire stock. He diluted shareholders to buy a business that was worth nothing a few years later. It couldn’t compete with foreign competitors. His Dextor purchase was likely due to overconfidence thanks to his successful purchase of another shoe company — H.H. Brown — a few years early.
+
+- Bill Ackman
+  - We prefer to talk more about our successes than our failures — especially for investments.
+  - Ackman’s battle with Herbalife began in 2012 with a very public presentation claiming it was a pyramid scheme that would go to zero. He was short Herbalife and the stock immediately sold off 35%. Which provided an opportunity for hedge funds to take the other side. The stock reversed course, rising 70% higher than where Ackman began to short it.
+  - The risk of being public about investments is it brings ego into decision-making. Can you publicly admit to being wrong? There’s also the added pressure from others who are following your coat tails (without doing their own research) and it feeds the trolls when it doesn’t work out.
+
+- Stanley Druckenmiller
+  - Druckenmiller bet against Internet stocks in 1999 that cost him $600 million, an 18% loss. He ended the year positive 35% thanks to a couple of new hires who took the long side of the Internet Boom.
+  - In 2000 he sold the Internet stocks out of concern — he knew it wouldn’t last forever — took his gains, and went back to investing in what he was comfortable with. Yet, he couldn’t help but watch the Internet stocks continue rising and his two new hires making money, until he couldn’t stand it and plunged back in. He bought back in at the height of the bubble, then it burst.
+  - His mistake was knowing better and buying the stocks anyway.
+
+- Bill Ruane — Sequoia
+  - The risk of concentrated portfolios is a few big losses can set you back permanently.
+  - Sequoia was one of the most successful funds ever. It bought Valient stock in 2010 and it quickly became its largest holding. Valient relied on buying existing drug companies, then raising the price of the drugs.
+  - Accusations of fraud at Valient surfaced in 2015. Its stock fell 19%. Sequoia lost 9% because of its large position. Then it bought more Valient stock. It represented 32% of the fund. 8 months later, they sold all the stock. Valient was down more than 90%!
+  - Before buying a position, write down why you’re buying and your exit plan. It gives you a reference point that may help combat the endowment effect.
+
+- John Maynard Keynes
+  - Keynes’s initial foray into "investing" was trading currencies and commodities based on macro bets after WWI. It didn’t end well. He lost it all and was bailed out by family and friends.
+  - He shifted his strategy to a more long-term approach after taking over the King’s College endowment fund and the portfolios of two insurance companies.
+
+- John Paulson
+  - Paulson is most well known for betting against mortgage-backed securities during the housing bubble. It paid off massively — 590% and 350% — in one year for two funds.
+  - Off the back of that success, he went looking for another huge win. He settled on a big bet on gold. It failed to pay off. In fact, it lost money three years in a row — 75% in total. Because normal returns weren’t good enough!
+  - The trouble with abnormal gains like Paulson had, is it resets our expectations of what’s possible. Normal gains aren’t enough anymore. The other issue is overconfidence in our ability to repeat the success.
+
+- Charlie Munger
+  - Munger started his fund in 1962, earning a 24% annual return before fees over 14 years (vs. S&P 500’s 5.2%).
+  - The fund was highly concentrated. It brings the possibility of a wider range of returns in both directions.
+  - His investors felt the downside of concentration in the 1973/74 bear market. Munger lost 32% and 31% over those two years versus the Dows 13% and 23% losses respectively.
+  - Most people don’t have the stomach for such a huge drawdown. He lost a big investor because of it. The fund bounced back in 1975, then Munger liquidated it.
+  - Losses and drawdowns are part of the game. Get used to it.
 
 
 # Quotes
 
-"…markets don’t compensate you just for being smart."
+"You need patience, discipline, and an ability to take losses without going crazy." — Charlie Munger
+
+"The best lesson investors can learn from one of the best to ever do it is that there are no good times without the bad times. Big losses are in the fabric of long‐term investing. And if you’re not willing to accept them, you will not harvest the long‐term returns that the market has to offer."
+
+"If you’re not willing to react with equanimity to a market price decline of 50 percent or more two or three times a century, you’re not fit to be a common shareholder and you deserve the mediocre result you’re going to get compared to the people who do have the temperament, who can be more philosophical about these market fluctuations." — Charlie Munger
+
+"You only need to get rich once. If you’ve worked hard or just got lucky and now find yourself in the top 1%, stop trying to hit home runs, you’ve already won."
+Charlie Munger
+
+"Money earned by luck is indistinguishable from money earned by skill."
+
+"The idea of wholesale shifts is for various reasons impracticable and indeed undesirable. Most of those who attempt it sell too late and buy too late, and do both too often…. I believe now that successful investment depends upon three principles: A careful selection of few investments having regard to their cheapness in relation to their probable actual and potential intrinsic value over a period of years ahead and in relation to alternative investments at the time. A steadfast holding of these in fairly large units through thick and thin, perhaps for several years, until they have fulfilled their promise or it is evident that they were purchased on a mistake; A balanced investment position, i/e, a variety of risks in spite of individual holdings being large, and if possible opposed risks." — John Maynard Keynes
+
+"How could economics not be behavioral? If it isn’t behavioral, what the hell is it?" — Charlie Munger
+
+"Every minute of every day, markets are putting out clues, little crumbs of information for would‐be market detectives. This is the most addictive game on the planet because it’s a game that never ends. The pieces are always zigging and zagging and by the time you think you’ve got things figured out, new rules are implemented."
+
+"Professional investment may be likened to those newspaper competitions in which the competitors have to pick out the six prettiest faces from a hundred photographs…each competitor has to pick, not those faces which he himself finds prettiest, but those which he thinks likeliest to catch the fancy of the other competitors… We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be." — John Maynard Keynes
+
+"If we speak frankly, we have to admit that our basis of knowledge for estimating the yield ten years hence of a railway, a copper mine, a textile factory, the goodwill of a patent medicine, an Atlantic liner, a building in the City of London amounts to little and sometimes to nothing; or even five years hence." — John Maynard Keynes
+
+"If you want to make big money in the stock market, you have two choices: (1) buy a lot of stocks, an index fund, for example, and hold them for a long time (even then, no guarantees) or (2) buy a few stocks and hope you’re right."
+
+"If you’re looking for a manager you want someone who is intelligent, energetic, and moral. But if they don’t have the last one, you don’t want them to have the first two." — Warren Buffett
+
+"Your six best ideas in life will do better than all your other ones." — Bill Ruane
+
+"Concentrate to get rich, diversify to stay rich." — old adage
+
+"The idea of caring that someone is making money faster is one of the deadly sins. Envy is a really stupid sin because it’s the only one you could never possibly have any fun at. There’s a lot of pain and no fun. Why would you want to get on that trolley?" — Charlie Munger
+
+"I bought $6 billion worth of tech stocks, and in six weeks I had lost $3 billion in that one play. You asked me what I learned. I didn’t learn anything. I already knew that I wasn’t supposed to do that. I was just an emotional basket case and couldn’t help myself. So maybe I learned not to do it again, but I already knew that." — Stanley Druckenmiller
+
+"It would have been nice to go out on top, like Michael Jordan, but I overplayed my hand." — Stanley Druckenmiller
+
+"In a winner’s game the outcome is determined by the correct actions of the winner. In a loser’s game, the outcome is determined by mistakes made by the loser." — Charley Ellis
+
+"Bad things tend to happen when we compare our portfolios with others, especially if they possess a lesser IQ and extracted a higher return."
+
+"Fundamentals are how fast the horse runs and expectations are the odds." — Michael Mauboussin
+
+"The casual investor thinks a good company makes for a good stock, without giving consideration to the fact that the majority of investors share a similar opinion. Perhaps, like‐minded investors have pushed the price of a good company into that of a great company, making it less than it appears at first blush."
+
+"It’s my philosophy, which has been reinforced by Mr. Soros, that when you earn the right to be aggressive, you should be aggressive. The years that you start off with a large gain are the times that you should go for it." — Stanley Druckenmiller
+
+"The first thing I heard when I got in the business, not from my mentor, was bulls make money, bears make money, and pigs get slaughtered. I’m here to tell you I was a pig. And I strongly believe the only way to make long‐term returns in our business that are superior is by being a pig." — Stanley Druckenmiller
+
+"Ideas are part of who we are. They become like possessions. Especially publicly. I mean, flip-flopping is a bad word. I love changing my mind!" — Daniel Kahneman
+
+"I clearly made a mistake in paying what I did for Dexter in 1993. Furthermore, I compounded that mistake in a huge way by using Berkshire shares in payment." — Warren Buffett
+
+"It behooves us to take a minute and think about why we’re investing and what we really know. Do you know more than the person on the other side of the trade? Do you know something that’s not in the newspaper or on the Internet? Will we know when we’re right? What about if we’re wrong?"
+
+"When the game is no longer being played your way, it is only human to say the new approach is all wrong, bound to lead to trouble, etc. I have been scornful of such behavior by others in the past. I have also seen the penalties incurred by those who evaluate conditions as they were – not as they are. Essentially I am out of step with present conditions. On one point, however, I am clear. I will not abandon a previous approach whose logic I understand even though it may mean foregoing large, and apparently easy, profits to embrace an approach which I don’t fully understand, have not practiced successfully and which, possibly, could lead to a substantial permanent loss of capital." — Warren Buffett, 1967
+
+"Genius is a rising market." — John Kenneth Galbraith
+
+"1987 had shaken me; 1994 had been devastating. It had taken a part of me that could not be retrieved." — Michael Steinhardt
+
+"Putting too much money into something you don’t fully understand is a good way to lose a lot of money. But what’s more damaging than losing money is the psychological scar tissue that remains after the money vanishes."
+
+"If you play games where other people have the aptitudes and you don’t, you’re going to lose." — Charlie Munger
+
+"Bad behavior is one of the greatest dangers investors face, and traveling outside your circle of competence is one of the most common ways that investors misbehave. It’s not important how wide your circle of competence is, but what is critically important is that you stay inside it. Knowing what you don’t know and having a little discipline can make all the difference in the world."
+
+"Investors who confine themselves to what they know, as difficult as that may be, have a considerable advantage over everyone else." — Seth Klarman
+
+"The important part is finding a methodology that you are comfortable with. But a methodology means something that is repeatable. It means having a process. The stock market throws far too many curveballs for you to wing it."
+
+"The first five years you would have described Bogle as a genius. And at the end of the first 10 years, roughly, you would have said: the worst merger in history, including AOL and Time Warner. It all fell apart. Their management skills were zero. They ruined the fund they started, Ivest. They started two more and ruined both. And they ruined Wellington Fund." — Jack Bogle
+
+"I can hardly find words to describe first my regret and then my anger at myself for having made so many bad choices. Associating myself – and the firm whose leadership I had been entrusted – with a group of go‐go managers." — Jack Bogle
+
+"The lesson we can learn from one of the most influential investors of all time is that investing is a long journey, often lasting a lifetime. It is filled with success, failure, hopes, dreams, and everything in‐between."
+
+"They were able to calculate the odds of everything, but they understood the possibility of nothing. The lesson us mere mortals can learn from this seminal blowup is obvious: Intelligence combined with overconfidence is a dangerous recipe when it comes to the markets."
+
+"They made absolutely no allowance in the episode of LTCM for the possibility of their not understanding markets and their methods being wrong." — Nassim Taleb
+
+"They believed the risk was low, but their leverage in both the United States and Europe soared. LTCM had about $40 million at stake for every point in volatility the markets moved. At one point, they had $1.25 trillion in open positions and they were levered 100:1. This leverage would lead to one of the largest disappearing acts of wealth the world has ever seen."
+
+"...markets don’t compensate you just for being smart."
 
 "The iron rule of life is that only 20% of people can be in the top fifth." — Charlie Munger
 
