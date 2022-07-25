@@ -63,3 +63,4 @@ accounting is the language of business
 - https://www.youtube.com/watch?v=lBBXmim527A&t=35s&ab_channel=TheSwedishInvestor
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
 - https://www.oldschoolvalue.com/stock-valuation/what-is-owner-earnings
+- https://novelinvestor.com/notes/the-interpretation-of-financial-statements-by-benjamin-graham/
