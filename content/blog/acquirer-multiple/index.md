@@ -1,7 +1,7 @@
 ---
-title: acquirer multiple summary
+title: acquirer multiple by Tobias Carlisle summary
 date: "2022-07-24T22:12:03.284Z"
-description: "acquirer multiple summary"
+description: "acquirer multiple by Tobias Carlisle summary"
 tags: ["valueinvesting", "investing"]
 ---
 
