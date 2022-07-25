@@ -45,8 +45,8 @@ Benjamin Roth was a lawyer in Ohio who realized early in the Great Depression th
   - Pennsylvania ordered a bank holiday on February 28, 1933.
   - By March 1, 1933, eight states ordered bank holidays. On March 2, the total was up to 16 states. March 3, it increased to 22 states. FDR proclaimed a national bank holiday from March 6 to March 9. Congress passed the Emergency Banking Act of 1933 on March 9. Banks are allowed to reopen based on how "sound" they are. Stock markets also closed for 10 days during the bank holiday.
   - FDR begins his fireside chats in March 1933 to help explain the situation and instill confidence.
-Retail sales jumped with end of the national bank holiday.
-US economy stopped contracting in March 1933.
+  - Retail sales jumped with end of the national bank holiday.
+  - US economy stopped contracting in March 1933.
   - FDR signed a bill allowing beer and light wines (3.2% alcohol) in March 1933. Prohibition (18th Amendment) was officially repealed on December 5, 1933. Legalized liquor didn’t help the recovery as much as many thought.
   - FDR signed an order to limit ownership of gold in April 1933. No one can own more than $100 in gold. Gold exports are also not allowed.
   - Hitler comes to power in 1933 and immediately declares a boycott of Jewish merchants to worldwide outrage. — April 1933.
