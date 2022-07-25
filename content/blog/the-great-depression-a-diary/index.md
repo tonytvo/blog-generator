@@ -1,7 +1,7 @@
 ---
-title: The Great Depression: A Diary by Benjamin Roth summary
+title: The Great Depression A Diary by Benjamin Roth summary
 date: "2022-07-24T22:12:03.284Z"
-description: "The Great Depression: A Diary by Benjamin Roth summary"
+description: "The Great Depression A Diary by Benjamin Roth summary"
 tags: ["history", "investing"]
 ---
 
