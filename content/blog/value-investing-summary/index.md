@@ -461,3 +461,4 @@ the key to life is to figure out who to be the batboy for.
 - https://www.youtube.com/watch?v=npoyc_X5zO8&list=PLI84Sf0aDgazJz6aVmUAYwfmCkTDd_cqv&ab_channel=TheSwedishInvestor
 - https://www.youtube.com/watch?v=WMdnaRQ4EOE&list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&ab_channel=TheSwedishInvestor
 - https://www.youtube.com/playlist?list=PLI84Sf0aDgaxGozvfNAKLonKIoD-sDeDp
+- https://novelinvestor.com/notes/the-intelligent-investor-by-benjamin-graham/
