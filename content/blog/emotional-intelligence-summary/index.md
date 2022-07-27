@@ -93,7 +93,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 ### Know What/Who Pushes Your Hot Buttons
 - Pay attention to the situations or people that trigger your emotions. Think about why you might find those situations or people irksome.
 
-### What Yourself like a Hawk
+### Watch Yourself like a Hawk
 - Think about how your emotional reaction may make things worse.
 - Try to see things from the other's perspective.
 - Formulate a calmer way to express your emotions and effectively convey your points.
