@@ -209,14 +209,21 @@ tags: ["investing", "valueinvesting"]
 
 # Principles for selection of fixed-value investments
 
+- avoid compromising the assumed risk for an increased reward to minimize the loss of principal
+  - if risk is assumed, it should be in the form of paying a cheaper price (therefore lowering the principal required to acquire the security), instead of accepting a higher coupon or dividend.
+
 ## safety not measured by Lien but by ability to pay
 - safety is measured by the ability of the issuer to meet obligations - not by contractual rights
-
-## obligation possibility should be assessed in terms of depression, not prosperity
-- if a business fails, the bond holder recovers his money from assets; but that often fails because
+- in theory, if a business fails, the bond holder recovers his money from assets; but that often fails because:
   - property values shrink when the business fails
   - there is difficulty in establishing legal rights
   - there are inherent delays in receivership
+- to avoid trouble is better seeking protection after it occurs
+- debt should bed assessed from the cashflow statement
+  - "good" debt is when company is using financed capital for an opportunity or expansion that might require a quick entry to the market
+  - "bad" debt is when the business is required to borrow in order to sustain operations.
+
+## obligation possibility should be assessed in terms of depression, not prosperity
 
 ## Unsound to sacrifice safety for yield
 - lack of safety is not compensated by a high dividend or coupon
