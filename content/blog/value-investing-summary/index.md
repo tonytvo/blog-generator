@@ -288,6 +288,12 @@ tags: ["investing", "valueinvesting"]
 - total deduction or "Over-all" Method
   - Graham suggests that all bonds are dependent on each other, he expects all issues to fail if the payment of one cannot be completed.
   - coverage ratio = earnings / total interests on all issues
+- minimum requirements for earnings coverage. It's different for each industries.
+- period comprised by the earnings test. NYSB assesses the 5 previous years for determining the safety of an issue. Graham suggests that the most recent years are the most important
+- the relation of the coupon rate to earnings coverage
+  - effect of coupon rate on safety: good companies fetch lower interest rates compared to risky companies. This means that good credit produces better credit
+  - effect of rise interest rates on safety
+    - sdsdsd
 
 ## relation of value of the property to funded debt
 
