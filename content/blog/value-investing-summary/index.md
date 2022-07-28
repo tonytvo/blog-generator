@@ -293,7 +293,7 @@ tags: ["investing", "valueinvesting"]
 - the relation of the coupon rate to earnings coverage
   - effect of coupon rate on safety: good companies fetch lower interest rates compared to risky companies. This means that good credit produces better credit
   - effect of rise interest rates on safety
-    - sdsdsd
+    - if the investors considers a rise in interest rates probable, he should not buy long-term low coupon bonds, no matter how strong the company. inversely, if an investor considers a drop in interest rates, he should buy long-term bonds that meet significant levels of safety.
 
 ## relation of value of the property to funded debt
 
