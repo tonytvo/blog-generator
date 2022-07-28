@@ -23,7 +23,31 @@ tags: ["investing", "valueinvesting"]
   - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
 
-# principles and rules of value investing
+# Graham and Dodd's approach
+
+- Each of the elements in valuation — assets, earnings power, and growth — is useful in its own right, but the best insights into a firm’s value come from comparisons among them, especially the direct comparison between the asset value and the EPV.
+- If the EPV is substantially greater than the asset value, that difference is due to superior management or competitive advantages
+- don’t make investments into things that have a NPV of less than zero
+
+## value of assets
+- there should be no discount from the amount stated on the company's books for cash and marketable securities, provided the securities are short term or marked to the market. The same holds true for property, plant, and equipment
+- economic value of the assets is the reproduction costs of a new firm starting out in the same industry.
+  - we first find the current market prices for the securities. Then we must adjust the book value of the firm's accounts receivable and inventory up or down to get a more realistic reproduction costs
+- it is important to note that goodwill represents a prior blunder that must be ignored when calculating the intrinsic value of a company.
+- liabilities and equity are the sources of funds that support the assets, which are the uses to which those funds are put
+- there are 3 types of liabilities
+  - those that arise from the normal conduct of the business
+  - those that arise from past circumstances that are not pertinent to a new entrant
+  - the oustanding formal debt of the company.
+- when we start with the reprodution cost of the assets and then subtract the first 2 categories of liabilities, we are left with the asset value of the whole enterprise.
+- The defining character of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage, and, if so, how strong and sustainable it is
+
+## value of current earnings
+
+## value of profitable growth
+- Uncertainty regarding future growth is usually the main reason why value estimations based on present value calculations are so prone to error.
+
+# Buffet's principles and rules of value investing
 - the data and qualitative information from 10K and 10Q reports can be used to evaluate the following principles:
   - Vigilant leadership
   - long-term prospects
