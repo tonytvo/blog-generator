@@ -275,6 +275,12 @@ tags: ["investing", "valueinvesting"]
 - income bonds in weaker position than debentures. Debentures are required to make payments; where as income bonds are not required to make payments. As a result, Graham believes the mandatory coupon payment for a debenture provides less risk to the holder than an income bond.
 - standards of safety should not be relaxed because of early maturity. If 2 different bonds, a short term and a long term, are issued and secured by the same company. The risk is no different for either bond if the short-term issue can't be paid at maturity.
 ## record of solvency and dividend payment
+- the investor should ensure the issuer of the bond has a long record of financial stability and should avoid those which do not have a history of success. NYSBs requires 10 years history of payments on issues from other states and 25 year history from municipalities.
+- investor should not take higher return for risk, instead they should pay a lower principal. For examples, when a municipal government issues new bonds at higher interest rates, because of the risk of default, the investor should be skeptical of such investments
+- strict quantitative tests would focus on population size, the revenues received and current liabilities
+- dividend record not conclusive evidence of financial strenth
+- balance sheet and income statement provide better clues about a company's ability to meet future coupon payments than historical dividend performance. 
+- if dividend is withheld or reduced to the common shareholders, the health of bond may be in jeopardy
 
 ## relation of earnings to interest requirements
 
