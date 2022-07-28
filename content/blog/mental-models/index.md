@@ -135,6 +135,7 @@ to understand is to know what to do
 you shall receive when you ask questions
 
 # References
+- https://www.youtube.com/playlist?list=PLI84Sf0aDgazRojpYTLTXFE6Iaf5bkYr_
 - https://home.mindvalley.com/quests/en/superbrain
 - https://arlobelshee.com/learning-faster-and-more-deeply/#more-171
 - https://www.visualcapitalist.com/12-ways-smarter-mental-models/
