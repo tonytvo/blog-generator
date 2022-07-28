@@ -241,17 +241,39 @@ tags: ["investing", "valueinvesting"]
 
 ## Unsound to sacrifice safety for yield
 - lack of safety is not compensated by a high dividend or coupon
+- no mathematical relationship between yield and risk: prices and yields often depend on popularity. Graham suggests that the public's familiarity with the issuing company and its ability to be quickly sold on the market is a considerable factor in the market price of bonds
+- the factor of cyclical risks: an insurance company spreads risk over a large field; the investor has only a small field and cannot afford a program entailing a small sample size with large risk
+- risk and yield are incommensurable. Graham mentions, yet again, that the analyst should not pay a par value for a risky bond that has a high yield. Instead, he should pay a considerable discount below the par value, therefore minimizing his risk of principal. 
+- reversal of customary procedure recommended: don't start with inspecting the safest fixed income issues on a list and work down. Instead, start with the security that represents a minimal threshold of safety and work up on the list. This way the analyst protects themselves from going deeper into the list - likely resulting in the purchase of an unsafe issue.
 
 ## definite standards of safety must be applied
-
+- Graham recommends the implementation of similar rules and regulations that savings banks use for fixed income investments, since they are required and obligated by law to minimize their expose to risk.
+- Graham recommends New York Savings Bank as the baseline, but the rules should be regarded loosely and amended if new metrics prove more useful and secure
 
 # bond investments criteria
 ## nature and location of the business
+- obligations of foreign governments
+  - Graham agreed with the decision to disallow the purchase of foreign bonds for the following reasons:
+    - the factor of political expediency
+    - the foreign trade argument
+    - the individual record argument: it is suggested some countries are more creditworthy than others. Graham argues that only Canada, Holland, and Switzerland demonstrated "unquestionable investing ratings" during his era
+    - two-fold objection to purchase foreign government bonds. Generally speaking, foreign bonds should be avoided for 2 reasons
+      - the basis for obtaining credit is fragile
+      - the past performance is unsatisfactory. Graham then provides Canada as the sole exception to his doubts
+- bonds of foreign corporations: in theory no company should do better than country in which it is located because the government could simply declare state ownership.
+      
 
 ## size of the business
+- small companies and small municipalities are vulnerable and their bonds should not be considered suitable for the conservative investor.
+- NYSB critera example. Municipal bonds required a population of 10000 in adjacent states and 30000 elsewhere; railroads had to have 500 miles of track and annual operating revenues of 10 million nominal dollars, etc...
+  - Graham agrees that the issuer should be of reasonable size, and he also suggests that the underlying theory of cash flow and ability to repay the holder of the security is more meaningful
+- industrial bonds and factor of size: Graham feels these bonds are safe if tested against strick standards. He recommends limiting selections to the six largest corporations in any particular industry.
+- large size alone no guarantee of safety, the size should not be applied to municipalities and utilities, but only to industries.
 
 ## terms of issue
-
+- NYSB only accept public utility bonds only when secured by mortgages. An exception is made for unsecured railroad and income bonds if earnings and dividend records meet severe stipulated rules. Graham argues that the company's ability to meet its obligations is the top consideration.
+- income bonds in weaker position than debentures. Debentures are required to make payments; where as income bonds are not required to make payments. As a result, Graham believes the mandatory coupon payment for a debenture provides less risk to the holder than an income bond.
+- standards of safety should not be relaxed because of early maturity. If 2 different bonds, a short term and a long term, are issued and secured by the same company. The risk is no different for either bond if the short-term issue can't be paid at maturity.
 ## record of solvency and dividend payment
 
 ## relation of earnings to interest requirements
