@@ -284,7 +284,10 @@ tags: ["investing", "valueinvesting"]
 
 ## relation of earnings to interest requirements
 
-## relation of earnings to interest requirements
+- safety of a bond can be evaluated by comparing the company's earnings to its interest obligations
+- total deduction or "Over-all" Method
+  - Graham suggests that all bonds are dependent on each other, he expects all issues to fail if the payment of one cannot be completed.
+  - coverage ratio = earnings / total interests on all issues
 
 ## relation of value of the property to funded debt
 
