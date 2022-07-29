@@ -101,10 +101,14 @@ tags: ["investing", "valueinvesting"]
 - [stable and understandable stock](https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-20/)
 
 ## rule 2: sustainable competitive advantage (moat)
+- find business that has sustainable competitive advantage
+  - higher profitability, higher return on capital, and large market share
 - the sustainable competitive advantage cannot be duplicated by competitors; hence the business will keep pouring money into the owners' pockets.
-  - For example, Coca-Cola has a great moat due to its enormous brand value
+  - For example, Coca-Cola has a great moat due to its enormous brand value, share of mind
   - Wal-Mart has a wide moat due to its cost structure where it can buy products with large volume from its suppliers at a cheaper price than its competitors.
-- Sample moats from different industries
+  - Apple has networks effect: the more people join apple community the more profit it made
+  - Geico has low cost when price significant to customers
+- Sample moats from different industries. High cost of switching to Samsung even iphone is more expensive
   - intangible assets such as brands and patents
     - Disney is a strong brand and almost everyone in the world recognizes it.
   - low cost
@@ -139,7 +143,7 @@ tags: ["investing", "valueinvesting"]
     - sustainable competitive advantage through innovation
     - competition between online and offline organizations
     - level of advertising expense
-    - lower prices, new products and increased service and common weapons of choice and they lead to lower profitability for companies.
+    - lower prices, new products and increased service and common weapons of choice and they l0ead to lower profitability for companies.
     - look for industry with few companies, high growth and low fixed costs
         
 
