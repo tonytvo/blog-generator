@@ -33,15 +33,16 @@ tags: ["investing"]
   - Does the current point in the cycle emphasize an aggressive or defensive portfolio stance?
   - These questions should help determine the tilt of a portfolio: more aggressive when the odds are in our favor and more defensive when the odds are against us.
 
-Nature of Cycles:Swings of Cycles
- - Cycles are a continuous swing around a midpoint, which is often a longer-term trend.
- - The swings follow a generic pattern of: a) recovery from the lows, b) rise past the midpoint to (extreme) highs, c) the new high, d) downward correction, e) fall past the midpoint to the low, f) the new low, g) recovery from the low, and h) back past the midpoint to another high.
- - Because cycles are influenced in the short term by people and other variables, it has no constant rate. The duration and speed of each section varies and inevitably causes the next.
- - Regression to the mean is the move back to the midpoint from the high and low. It’s the powerful self-correcting mechanism in all cycles.
- - But the force behind regression continues to exert itself, the momentum pushes the cycle past the midpoint to the next high or low.
- - Those who don’t understand cycles will be surprised by, and often contribute to, it. Those who do understand will find opportunities in it.
- - Extremes are not guaranteed for every swing, but cycles that reach extremes in one direction are often followed by an opposite extreme in the other direction.
- - The general pattern of a cycle matters, because the specific details at any point in a cycle will look different from similar points in the past.
+Nature of Cycles: Swings of Cycles
+  - ![swings of cycles](./nature-of-cycles.png)
+  - Cycles are a continuous swing around a midpoint, which is often a longer-term trend.
+  - The swings follow a generic pattern of: a) recovery from the lows, b) rise past the midpoint to (extreme) highs, c) the new high, d) downward correction, e) fall past the midpoint to the low, f) the new low, g) recovery from the low, and h) back past the midpoint to another high.
+  - Because cycles are influenced in the short term by people and other variables, it has no constant rate. The duration and speed of each section varies and inevitably causes the next.
+  - Regression to the mean is the move back to the midpoint from the high and low. It’s the powerful self-correcting mechanism in all cycles.
+  - But the force behind regression continues to exert itself, the momentum pushes the cycle past the midpoint to the next high or low.
+  - Those who don’t understand cycles will be surprised by, and often contribute to, it. Those who do understand will find opportunities in it.
+  - Extremes are not guaranteed for every swing, but cycles that reach extremes in one direction are often followed by an opposite extreme in the other direction.
+  - The general pattern of a cycle matters, because the specific details at any point in a cycle will look different from similar points in the past.
 
 
 Randomness makes recognizing the pattern in cycles more complicated and less predictable and dependable. The influence of people, their inconsistent behavior, emotions, and actions add to the randomness.
