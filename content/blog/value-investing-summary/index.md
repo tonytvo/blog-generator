@@ -530,6 +530,10 @@ once you adopt a value-investment strategy, any other investment behavior starts
 
 the key to life is to figure out who to be the batboy for.
 
+"financial markets, far from accurately reflecting all the available knowledge, always provide a distorted view of reality. This is the principle of fallibility. The degree of distortion may vary from time to time. Sometimes, it's quite insignificant, at other times, it is quite pronounced.
+
+"Every bubble has 2 components: an underlying trend that prevails in reality and a misconception relating to that trend. When a positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will be reinforced."
+
 # References
 - https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value.
 - https://prasadcapital.com/2013/03/25/book-summary-value-investing-from-graham-to-buffett-and-beyond/
