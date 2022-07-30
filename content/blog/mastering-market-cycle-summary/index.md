@@ -45,34 +45,31 @@ Nature of Cycles: Swings of Cycles
   - The general pattern of a cycle matters, because the specific details at any point in a cycle will look different from similar points in the past.
 
 
-Randomness makes recognizing the pattern in cycles more complicated and less predictable and dependable. The influence of people, their inconsistent behavior, emotions, and actions add to the randomness.
-The Economic Cycle:
-The long term economic cycle follows fundamental factors that produce a steady average growth rate over a longer secular trend.
-Factors include: population growth which impacts hours worked and GDP growth which is affected by demographic shifts, education, technology/innovation, automation, and globalization.
-Within the longer secular trend, are short term cycles too.
-"Societies rise and fall, and they speed up and slow down in terms of economic growth relative to each other. This underlying trend in growth clearly follows a long-term cycle, although the short-run ups and downs around it are more discernible and thus more readily discussed."
-The short term economic cycle is driven by changing variables within a population — the people. For instance, spending fluctuates based on the fear of unemployment. The lack of fear or the "wealth effect" can spur spending. It can create a self-fulfilling prophecy. If people (or companies) believe there’s a recession on the horizon, they spend less (companies hold off on new projects), and the economy inevitably slides into a recession.
-Most economic forecasts extrapolate the current trend because it’s safe (career risk) and sticks to the status quo. Those forecasts are likely already priced into the market and offer no performance benefit.
-"All these people see the same data, read the same material, and spend their time trying to guess what each other is going to say. [Their forecasts] will always be moderately right—and almost never of much use." — Milton Friedman
-Valuable forecasts are outliers that result in surprises that deviate from the trend dramatically. The downside is outliers rarely occur, are hard to predict, and usually wrong — thus can be costly.
-"We have two classes of forecasters: those who don’t know — and those who don’t know they don’t know." — John Kenneth Galbraith
-Inflation is a result of increasing demand for goods relative to supply, an increase in raw materials and labor costs, and/or when a currency tied to imports declines relative to a currency tied to exports.
-Central Banks have a mandate to control inflation and stimulate employment. The two often work in opposition – steps to stimulate one, contract the other.
-Keynesian economics: Keynes believed the government should step in to prop up a weak economy through spending/running a deficit but reduce spending/running a surplus in a strong economy.
-The Profit Cycle:
-Generally, the swings in the economy influence the rise and fall of corporate sales, which impacts profits.
-Commodity, raw material, and basic components see demand rise and fall with the economic cycle. Luxury goods, travel, cars (consumer discretionary), and homes do too.
-Basic necessities (consumer staples) like food and medicine are less responsive to the economic cycle. Consumers may trade down — buy cheaper, lower-cost brands in a recession versus expansion.
-Company profits follow a cycle similar to the economy but not all companies follow the same pattern.
-Higher sales do not guarantee higher profits.
-Two Types of Leverage:
-Operating Leverage: Most businesses have a combination of fixed and variable costs, meaning costs will fluctuate. So profits depend on the variability of revenues and costs (Profits = Revenues – Costs). Management has some control over profits by managing the variable costs (layoffs, store/factory closures) but it usually takes time and may increases costs in the short-run.
-Financial Leverage: Debt – cost is tied to interest payments, which rises and falls based on the amount of debt and/or interest rate being charged.
-A host of independent developments — management decisions, technology changes, regulations, taxation, geopolitical events, natural disasters, etc. — impact profits too, making it hard to predict.
-Investor Psychology (Human Nature Cycle):
-Changes in psychology affect the economic, profit, and market cycle.
-"The mood swings of the securities markets resemble the movement of a pendulum. Although the midpoint of its arc best describes the location of the pendulum "on average," it actually spends very little of its time there. Instead, it is almost always swinging toward or away from the extremes of its arc. But whenever the pendulum is near either extreme, it is inevitable that it will move back toward the midpoint sooner or later. In fact, it is the movement toward an extreme itself that supplies the energy for the swing back."
-The market pendulum swings from greed to fear, optimism to pessimism, risk-tolerant to risk-averse, overpriced to underpriced, and focused on the infinite future to the immediate present. An excess in one direction sets the stage for the swing back.
+- Randomness makes recognizing the pattern in cycles more complicated and less predictable and dependable. The influence of people, their inconsistent behavior, emotions, and actions add to the randomness.
+- The Economic Cycle:
+  - The long term economic cycle follows fundamental factors that produce a steady average growth rate over a longer secular trend.
+  - Factors include: population growth which impacts hours worked and GDP growth which is affected by demographic shifts, education, technology/innovation, automation, and globalization.
+  - Within the longer secular trend, are short term cycles too.
+  - The short term economic cycle is driven by changing variables within a population — the people. For instance, spending fluctuates based on the fear of unemployment. The lack of fear or the "wealth effect" can spur spending. It can create a self-fulfilling prophecy. If people (or companies) believe there’s a recession on the horizon, they spend less (companies hold off on new projects), and the economy inevitably slides into a recession.
+  - Most economic forecasts extrapolate the current trend because it’s safe (career risk) and sticks to the status quo. Those forecasts are likely already priced into the market and offer no performance benefit.
+  - Valuable forecasts are outliers that result in surprises that deviate from the trend dramatically. The downside is outliers rarely occur, are hard to predict, and usually wrong — thus can be costly.
+  - Inflation is a result of increasing demand for goods relative to supply, an increase in raw materials and labor costs, and/or when a currency tied to imports declines relative to a currency tied to exports.
+  - Central Banks have a mandate to control inflation and stimulate employment. The two often work in opposition – steps to stimulate one, contract the other.
+  - Keynesian economics: Keynes believed the government should step in to prop up a weak economy through spending/running a deficit but reduce spending/running a surplus in a strong economy.
+- The Profit Cycle:
+  - Generally, the swings in the economy influence the rise and fall of corporate sales, which impacts profits.
+  - Commodity, raw material, and basic components see demand rise and fall with the economic cycle. Luxury goods, travel, cars (consumer discretionary), and homes do too.
+  - Basic necessities (consumer staples) like food and medicine are less responsive to the economic cycle. Consumers may trade down — buy cheaper, lower-cost brands in a recession versus expansion.
+  - Company profits follow a cycle similar to the economy but not all companies follow the same pattern.
+  - Higher sales do not guarantee higher profits.
+  - Two Types of Leverage:
+    - Operating Leverage: Most businesses have a combination of fixed and variable costs, meaning costs will fluctuate. So profits depend on the variability of revenues and costs (Profits = Revenues – Costs). Management has some control over profits by managing the variable costs (layoffs, store/factory closures) but it usually takes time and may increases costs in the short-run.
+    - Financial Leverage: Debt – cost is tied to interest payments, which rises and falls based on the amount of debt and/or interest rate being charged.
+  - A host of independent developments — management decisions, technology changes, regulations, taxation, geopolitical events, natural disasters, etc. — impact profits too, making it hard to predict.
+
+- Investor Psychology (Human Nature Cycle):
+  - Changes in psychology affect the economic, profit, and market cycle.
+  - The market pendulum swings from greed to fear, optimism to pessimism, risk-tolerant to risk-averse, overpriced to underpriced, and focused on the infinite future to the immediate present. An excess in one direction sets the stage for the swing back.
 In addition, yearly market returns fluctuate across a wide range. In other words, earning the average market return in any year is rare. From 1970 to 2016, the return on the S&P 500 fell within 2% of its average only 3 times! In fact, investors are more likely to experience an extreme return than the average. The wide range of returns in any given year is a good example of investor psychology at work (business fundamentals don’t change that drastically from year to year).
 "This cycle in investors’ willingness to value the future is one of the most powerful cycles that exist. A simple metaphor relating to real estate helped me to understand this phenomenon: What’s an empty building worth? An empty building (a) has a replacement value, of course, but it (b) throws off no revenues and (c) costs money to own, in the form of taxes, insurance, minimum maintenance, interest payments and opportunity costs. In other words, it’s a cash drain. When investors are in a pessimistic mood and can’t see more than a few years out, they can only think about the negative cash flows and are unable to imagine a time when the building will be rented and profitable. But when the mood turns upward and interest in future potential runs high, investors envision it full of tenants, throwing off vast amounts of cash, and thus salable at a fancy price. Fluctuation in investors’ willingness to ascribe value to possible future developments represents a variation on the full-or-empty cycle. Its swings are enormously powerful and mustn’t be underestimated."
 All investors deal with emotion. The superior investor keeps their emotions in balance and takes an objective approach to investing.
@@ -175,6 +172,14 @@ Future cycles will continue to be driven by the collective emotions and decision
 "Most people understand that busts follow booms. Somewhat fewer grasp the fact that the busts are caused by the booms."
 
 "The greatest lessons regarding cycles are learned through experience…as in the adage ‘experience is what you got when you didn’t get what you wanted.'"
+
+"Societies rise and fall, and they speed up and slow down in terms of economic growth relative to each other. This underlying trend in growth clearly follows a long-term cycle, although the short-run ups and downs around it are more discernible and thus more readily discussed."
+
+"All these people see the same data, read the same material, and spend their time trying to guess what each other is going to say. [Their forecasts] will always be moderately right—and almost never of much use." — Milton Friedman
+
+"We have two classes of forecasters: those who don’t know — and those who don’t know they don’t know." — John Kenneth Galbraith
+
+"The mood swings of the securities markets resemble the movement of a pendulum. Although the midpoint of its arc best describes the location of the pendulum "on average," it actually spends very little of its time there. Instead, it is almost always swinging toward or away from the extremes of its arc. But whenever the pendulum is near either extreme, it is inevitable that it will move back toward the midpoint sooner or later. In fact, it is the movement toward an extreme itself that supplies the energy for the swing back."
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/mastering-the-market-cycle-by-howard-marks/)
