@@ -51,68 +51,64 @@ tags: ["investing", "valueinvesting"]
   - Find Inefficiencies: "The more a market is studied and followed and embraced and popularized, the less there should be bargains around for the asking." — Marks
   - Buy Cheap: "the essential question to ask about any potential investment should be ‘Is it cheap?'"
   - Markets are Cyclical: markets, the economy, etc. follow a pattern of cycles. Yet investors tend to expect the current trend to continue in a straight line. They fail to see the trend reverting.
-He avoids forecasters (they can’t predict the future), market timing, and fads (rarely cheap).
-Always ask: How much optimism is priced in?
-"If the market is precarious, you don’t have to know what the catalyst will be. You only have to know that there’s a vulnerability." — Marks
-Marks collects examples of "stupid deals" to keep track of the frequency of craziness, greed, lowering of standards, etc. in markets.
-"He asks himself questions such as Are investors appropriately skeptical and risk-averse or are they ignoring risks and happily paying up? Are valuations reasonable relative to historical standards? Are deal structures fair to investors? Is there too much faith in the future?"
-"I always look at things in terms of ‘Where’s the mistake? Is the mistake in buying or not buying?’ " — Marks
-"Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome."
-"Our performance doesn’t come from what we buy or sell. It comes from what we hold. So the main activity is holding, not buying and selling. I’ve always wondered if it wouldn’t enhance an organization to say, ‘We only trade on Thursdays.’ And the other four days of the week, all you can do is sit and think." — Marks
-"If your thinking is heavily colored by wishful thinking, then your probability assignments will be biased toward favorable… If you’re given to fear, then you’ll be biased toward the negative… No one is going to say, ‘This is my prediction and it’s probably wrong.’ But you must say, ‘This is my expectation and I have to be aware of the likelihood that it’s colored by my emotional bias.’ And you have to resist it. For me, that means not to chicken out when the going gets tough." — Marks
-Jean-Marie Eveillard
-Eveillard followed Ben Graham’s philosophy: minimize risk because the future is unpredictable.
-He took over the SoGen International mutual fund in 1979 (part of Société Générale). It had $15 million in assets. It was renamed the First Eagle Global Fund.
-He looked for a margin of safety of 30% to 40% and held over 100 stocks.
-On why he was diversified: "I’m too skeptical about my own skills and too worried that it could just blow up." — Eveillard
-The fund’s returns were great until the Dot-com bubble. The fund underperformed from 1997 to 1999 and 70% of its shareholders left. Evelliard stuck to his strategy despite the pressure from shareholders, bosses, and career risk. Société Générale sold the fund in Oct. 1999. Evelliard crushed it from 2000 to 2002.
-"To lag is to suffer. It becomes psychologically painful, but also financially painful… After one year, your shareholders are upset. After two years, they’re furious. After three years, they’re gone." and "It had gone on for so long that there were days when I thought I was an idiot. You do, in truth, start doubting yourself… Everybody seems to see the light. How come I don’t see it?" — Eveillard
-"To the extent that we’ve been successful over the decades, it’s due mostly to what we did not own. We owned no Japanese stocks in the late eighties. We owned no tech in the late nineties. And we didn’t own any financial stocks to speak of between 2000 and 2008." — Eveillard
-Matthew McLennan
-Eveillard retired in 2008 and passed control of the First Eagle Global Fund to Matthew McLennan.
-McLennan follows a similar strategy — looks for at least a 30% margin of safety and owns over 100 stocks in the funds.
-"Our goal is not to try to become rich quickly. It’s resilient wealth creation." — McLennan
-The goal directs every investment decision.
-On Risk: just because something has never happened, doesn’t mean it can’t happen. We must be prepared for the possibility.
-"We just want to acknowledge that there are things that may not play out so well in the future. You want to be structured to participate in the march of mankind, but to survive the dips along the way." — McLennan
-"I happen to believe that everything is on a path to fade. If you think of evolution, ninety-nine percent of species that have ever existed are extinct. And businesses are no exception." — McLennan
-"Businesses that were robust today won’t be robust in the future. Uncertainty is intrinsic to the system. It’s entropy — the second law of thermodynamics. Basically, things tend toward disorder over time, and it takes a lot of energy to keep structure and quality in place. So, philosophically, we have great respect for the fact that things are not structurally permanent in nature, that things fade." — McLennan
-Markets are biological. Businesses are born, evolve, and die. Investors should evolve (their thinking and strategies) along with it.
-McLennan builds his portfolio by eliminating anything that leads to mistakes — fads, countries with unstable political systems or a history of seizing corporate property, businesses with a high risk of tech disruption, excess leverage, complex financial statements, and questionable/adventurous management (he says no a lot). What’s left are businesses that tend to persist (and are generally boring) and avoid innovative disruptions.
-"What I observe in the world is that, if you can accept that stuff exogenous to you is in a state of flux, you can focus on your own endogenous equanimity. And what I see out there is most people doing the opposite. They’re trying to control that exogenous flux. They’re trying to predict. They’re trying to be positioned for it. And that causes a state of inner turmoil. So I think part of it is almost a very simple behavioral switch. It’s saying, am I philosophically willing to accept flux, complexity, and uncertainty, or not? And if you say, yes, I am, then I think it’s extremely freeing in terms of your ability to focus on your own equanimity." — McLennan
-Irving Kahn
-"Investing is about preserving more than anything. That must be your first thought, not looking for large gains. If you achieve only reasonable returns and suffer minimal losses, you will become a wealthy man and will surpass any gambler friends you may have. This is also a good way to cure your sleeping problems." — Kahn
-"Considering the downside is the single most important thing an investor must do. This task must be dealt with before any consideration can be made for gains. The problem is that people nowadays think they’re pretty smart because they can do something quite rapidly." — Kahn
-Joel Greenblatt
-Greenblatt started on Wall Street with a summer job at Bear Stearns. He made riskless arbitrage trades via options.
-Founded Gotham Capital with $7 million in assets. Averaged 50% per year over the first 10 years and averaged 40% annually over the first 20 years.
-Roughly 80% of the fund was in 6 to 8 positions. Many were spinoffs, restructures, companies emerging from bankruptcy, illiquid small caps.
-He purposely kept the fund small (all investor money was returned after 10 years).
-He looked for hidden value that nobody wanted.
-Investing has a complexity problem. It avoids simplicity. Be it in the number of investment options to choose from, the strategies available, MPT’s formulas and ratios, or behavior, people gravitate toward the complex over the simple.
-"Why is it so valuable to reduce investing to a few core principles? For a start, it forces us to think through what we truly believe."
-"I have a simple way of looking at things that makes sense to me and that I’m going to stick with through thick and thin. That’s it." — Greenblatt
-Investing (and life) should be a process of subtraction and simplification. Removing what’s unimportant and unnecessary to focus on the key principles.
-On Noise: "The way I look at it is, if I own a chain store in the Midwest, am I all of a sudden going to sell it for half of what it’s worth because something bad happened in Greece? I don’t think so! But that’s what you read in the newspaper, and that’s what everyone is looking at. If you have a context to say, ‘Well, does it matter or doesn’t it matter?’—it’s just very helpful." — Greenblatt
-"People are crazy and emotional. They buy and sell things in an emotional way, not in a logical way, and that’s the only reason why we have any opportunity.… So if you have a way to value businesses that’s disciplined and makes sense, you should be able to take advantage of other people’s emotions." — Greenblatt
-4 Valuation Techniques:
-Discounted Cash Flow: take the present value of estimated future earnings and compare to the company’s market cap.
-Relative Value: compare a company’s valuation to similar businesses.
-Acquisition Value: an estimate of what another company might pay for it.
-Liquidation Value: estimated worth if company is closed, assets are sold, debts are paid, and what’s left is distributed to shareholders.
-"I like calculating the odds. Consciously or unconsciously, I’m calculating the odds on every investment. What’s the upside? What’s the downside?… I don’t think you can be a good investor without thinking in that way." — Greenblatt
-"It’s easier to find bargains off the beaten path or in extraordinary situations that other people aren’t looking at." — Greenblatt
-"You size your positions based on how much risk you’re taking. I don’t buy more of the ones I can make the most money on. I buy more of the ones that I can’t lose money on." — Greenblatt
-"Pretty much everything we ever owned, we sold way too early. If you’re very cheap in buying, it’s hard to be as comfortable when something has doubled or tripled, even if it’s still good." — Greenblatt
-"One of the beauties of the pain that people have to take in underperformance is that, if it did not exist, everyone would do what we do." — Greenblatt
-The best strategy is the one you can stick to in good and bad times.
-Will Danoff
-Managed Fidelity Contrafund since 1990.
-His investment philosophy: "Stocks follow earnings." — Danoff
-He looks for companies that can grow earnings at a high rate over 5 years because stock price will follow it.
-"Do you want to win the game for shareholders and own great companies? Sometimes, to own a great company, you’ve got to pay a fair price." — Danoff
-"Will once said to me, falsely, ‘Look, I’m not that smart and there’s a lot of information out there. So when I look at a company, I just ask myself: ‘Are things getting better or are they getting worse?’ If they’re getting better, then I want to understand what’s going on.’ " — Bill Miller
-Bill Miller
+  - He avoids forecasters (they can’t predict the future), market timing, and fads (rarely cheap).
+  - Always ask: How much optimism is priced in?
+  - Marks collects examples of "stupid deals" to keep track of the frequency of craziness, greed, lowering of standards, etc. in markets.
+  - "He asks himself questions such as Are investors appropriately skeptical and risk-averse or are they ignoring risks and happily paying up? Are valuations reasonable relative to historical standards? Are deal structures fair to investors? Is there too much faith in the future?"
+  - "I always look at things in terms of ‘Where’s the mistake? Is the mistake in buying or not buying?’ " — Marks
+  - "Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome."
+  - "Our performance doesn’t come from what we buy or sell. It comes from what we hold. So the main activity is holding, not buying and selling. I’ve always wondered if it wouldn’t enhance an organization to say, ‘We only trade on Thursdays.’ And the other four days of the week, all you can do is sit and think." — Marks
+  - "If your thinking is heavily colored by wishful thinking, then your probability assignments will be biased toward favorable… If you’re given to fear, then you’ll be biased toward the negative… No one is going to say, ‘This is my prediction and it’s probably wrong.’ But you must say, ‘This is my expectation and I have to be aware of the likelihood that it’s colored by my emotional bias.’ And you have to resist it. For me, that means not to chicken out when the going gets tough." — Marks
+- **Jean-Marie Eveillard**
+  - Eveillard followed Ben Graham’s philosophy: minimize risk because the future is unpredictable.
+  - He took over the SoGen International mutual fund in 1979 (part of Société Générale). It had $15 million in assets. It was renamed the First Eagle Global Fund.
+  - He looked for a margin of safety of 30% to 40% and held over 100 stocks.
+  - On why he was diversified: "I’m too skeptical about my own skills and too worried that it could just blow up." — Eveillard
+  - The fund’s returns were great until the Dot-com bubble. The fund underperformed from 1997 to 1999 and 70% of its shareholders left. Evelliard stuck to his strategy despite the pressure from shareholders, bosses, and career risk. Société Générale sold the fund in Oct. 1999. Evelliard crushed it from 2000 to 2002.
+  - Eveillard retired in 2008 and passed control of the First Eagle Global Fund to Matthew McLennan.
+  - McLennan follows a similar strategy — looks for at least a 30% margin of safety and owns over 100 stocks in the funds.
+  - "Our goal is not to try to become rich quickly. It’s resilient wealth creation." — McLennan
+  - The goal directs every investment decision.
+  - On Risk: just because something has never happened, doesn’t mean it can’t happen. We must be prepared for the possibility.
+  - "We just want to acknowledge that there are things that may not play out so well in the future. You want to be structured to participate in the march of mankind, but to survive the dips along the way." — McLennan
+  - "I happen to believe that everything is on a path to fade. If you think of evolution, ninety-nine percent of species that have ever existed are extinct. And businesses are no exception." — McLennan
+  - "Businesses that were robust today won’t be robust in the future. Uncertainty is intrinsic to the system. It’s entropy — the second law of thermodynamics. Basically, things tend toward disorder over time, and it takes a lot of energy to keep structure and quality in place. So, philosophically, we have great respect for the fact that things are not structurally permanent in nature, that things fade." — McLennan
+  - Markets are biological. Businesses are born, evolve, and die. Investors should evolve (their thinking and strategies) along with it.
+  - McLennan builds his portfolio by eliminating anything that leads to mistakes — fads, countries with unstable political systems or a history of seizing corporate property, businesses with a high risk of tech disruption, excess leverage, complex financial statements, and questionable/adventurous management (he says no a lot). What’s left are businesses that tend to persist (and are generally boring) and avoid innovative disruptions.
+  - "What I observe in the world is that, if you can accept that stuff exogenous to you is in a state of flux, you can focus on your own endogenous equanimity. And what I see out there is most people doing the opposite. They’re trying to control that exogenous flux. They’re trying to predict. They’re trying to be positioned for it. And that causes a state of inner turmoil. So I think part of it is almost a very simple behavioral switch. It’s saying, am I philosophically willing to accept flux, complexity, and uncertainty, or not? And if you say, yes, I am, then I think it’s extremely freeing in terms of your ability to focus on your own equanimity." — McLennan
+- **Irving Kahn**
+  - "Investing is about preserving more than anything. That must be your first thought, not looking for large gains. If you achieve only reasonable returns and suffer minimal losses, you will become a wealthy man and will surpass any gambler friends you may have. This is also a good way to cure your sleeping problems." — Kahn
+  - "Considering the downside is the single most important thing an investor must do. This task must be dealt with before any consideration can be made for gains. The problem is that people nowadays think they’re pretty smart because they can do something quite rapidly." — Kahn
+- **Joel Greenblatt**
+  - Greenblatt started on Wall Street with a summer job at Bear Stearns. He made riskless arbitrage trades via options.
+  - Founded Gotham Capital with $7 million in assets. Averaged 50% per year over the first 10 years and averaged 40% annually over the first 20 years.
+  - Roughly 80% of the fund was in 6 to 8 positions. Many were spinoffs, restructures, companies emerging from bankruptcy, illiquid small caps.
+  - He purposely kept the fund small (all investor money was returned after 10 years).
+  - He looked for hidden value that nobody wanted.
+  - Investing has a complexity problem. It avoids simplicity. Be it in the number of investment options to choose from, the strategies available, MPT’s formulas and ratios, or behavior, people gravitate toward the complex over the simple.
+  - "Why is it so valuable to reduce investing to a few core principles? For a start, it forces us to think through what we truly believe."
+  - "I have a simple way of looking at things that makes sense to me and that I’m going to stick with through thick and thin. That’s it." — Greenblatt
+  - Investing (and life) should be a process of subtraction and simplification. Removing what’s unimportant and unnecessary to focus on the key principles.
+  - On Noise: "The way I look at it is, if I own a chain store in the Midwest, am I all of a sudden going to sell it for half of what it’s worth because something bad happened in Greece? I don’t think so! But that’s what you read in the newspaper, and that’s what everyone is looking at. If you have a context to say, ‘Well, does it matter or doesn’t it matter?’—it’s just very helpful." — Greenblatt
+  - "People are crazy and emotional. They buy and sell things in an emotional way, not in a logical way, and that’s the only reason why we have any opportunity.… So if you have a way to value businesses that’s disciplined and makes sense, you should be able to take advantage of other people’s emotions." — Greenblatt
+  - 4 Valuation Techniques:
+    - Discounted Cash Flow: take the present value of estimated future earnings and compare to the company’s market cap.
+    - Relative Value: compare a company’s valuation to similar businesses.
+    - Acquisition Value: an estimate of what another company might pay for it.
+    - Liquidation Value: estimated worth if company is closed, assets are sold, debts are paid, and what’s left is distributed to shareholders.
+  - "I like calculating the odds. Consciously or unconsciously, I’m calculating the odds on every investment. What’s the upside? What’s the downside?… I don’t think you can be a good investor without thinking in that way." — Greenblatt
+  - "It’s easier to find bargains off the beaten path or in extraordinary situations that other people aren’t looking at." — Greenblatt
+  - "You size your positions based on how much risk you’re taking. I don’t buy more of the ones -   I can make the most money on. I buy more of the ones that I can’t lose money on." — Greenblatt
+  - "Pretty much everything we ever owned, we sold way too early. If you’re very cheap in buying, it’s hard to be as comfortable when something has doubled or tripled, even if it’s still good." — Greenblatt
+  - "One of the beauties of the pain that people have to take in underperformance is that, if it did not exist, everyone would do what we do." — Greenblatt
+  - The best strategy is the one you can stick to in good and bad times.
+- **Will Danoff**
+  - Managed Fidelity Contrafund since 1990.
+  - His investment philosophy: "Stocks follow earnings." — Danoff
+  - He looks for companies that can grow earnings at a high rate over 5 years because stock price will follow it.
+  - "Do you want to win the game for shareholders and own great companies? Sometimes, to own a great company, you’ve got to pay a fair price." — Danoff
+  - "Will once said to me, falsely, ‘Look, I’m not that smart and there’s a lot of information out there. So when I look at a company, I just ask myself: ‘Are things getting better or are they getting worse?’ If they’re getting better, then I want to understand what’s going on.’ " — Bill Miller
+- **Bill Miller**
 "The world changes. This is the biggest problem in markets." — Miller
 "It’s all probabilities. There is no certainty." — Miller
 "I’m trying to get rid of the unnecessary parts of what I used to do… I don’t build models anymore. It’s just stupid. It doesn’t make any sense… For every company, there are a few key investment variables and the rest of the stuff is noise." — Miller
@@ -219,6 +215,20 @@ Rick Guerin tried to get rich faster than necessary. He was leveraged going into
 
 # Quotes
 
+"The world changes. This is the biggest problem in markets." — Miller
+
+"It’s all probabilities. There is no certainty." — Miller
+
+"I’m trying to get rid of the unnecessary parts of what I used to do… I don’t build models anymore. It’s just stupid. It doesn’t make any sense… For every company, there are a few key investment variables and the rest of the stuff is noise." — Miller
+
+"Do you want to win the game for shareholders and own great companies? Sometimes, to own a great company, you’ve got to pay a fair price." — Danoff
+
+"Will once said to me, falsely, ‘Look, I’m not that smart and there’s a lot of information out there. So when I look at a company, I just ask myself: ‘Are things getting better or are they getting worse?’ If they’re getting better, then I want to understand what’s going on.’ " — Bill Miller
+
+"People are crazy and emotional. They buy and sell things in an emotional way, not in a logical way, and that’s the only reason why we have any opportunity.… So if you have a way to value businesses that’s disciplined and makes sense, you should be able to take advantage of other people’s emotions." — Greenblatt
+
+"If the market is precarious, you don’t have to know what the catalyst will be. You only have to know that there’s a vulnerability." — Marks
+
 "Change is inevitable. The only constant is impermanence. We have to accommodate to the fact that the environment changes… We cannot expect to control our environment." — Marks
 
 "The only thing we can really count on in this uncertain world is human unreliability itself." — Garrett Harden
@@ -250,6 +260,29 @@ Rick Guerin tried to get rich faster than necessary. He was leveraged going into
 "It’s a human failing to even put your mind on a question of which stock market is going to go up or down. There’s never been anybody who knew that." — Templeton
 
 "I’m convinced that everything that’s important in investing is counterintuitive, and everything that’s obvious is wrong." — Marks
+
+"He asks himself questions such as Are investors appropriately skeptical and risk-averse or are they ignoring risks and happily paying up? Are valuations reasonable relative to historical standards? Are deal structures fair to investors? Is there too much faith in the future?"
+
+"I always look at things in terms of ‘Where’s the mistake? Is the mistake in buying or not buying?’ " — Marks
+
+"Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome."
+
+"Our performance doesn’t come from what we buy or sell. It comes from what we hold. So the main activity is holding, not buying and selling. I’ve always wondered if it wouldn’t enhance an organization to say, ‘We only trade on Thursdays.’ And the other four days of the week, all you can do is sit and think." — Marks
+
+"If your thinking is heavily colored by wishful thinking, then your probability assignments will be biased toward favorable… If you’re given to fear, then you’ll be biased toward the negative… No one is going to say, ‘This is my prediction and it’s probably wrong.’ But you must say, ‘This is my expectation and I have to be aware of the likelihood that it’s colored by my emotional bias.’ And you have to resist it. For me, that means not to chicken out when the going gets tough." — Marks
+
+"To lag is to suffer. It becomes psychologically painful, but also financially painful… After one year, your shareholders are upset. After two years, they’re furious. After three years, they’re gone." and "It had gone on for so long that there were days when I thought I was an idiot. You do, in truth, start doubting yourself… Everybody seems to see the light. How come I don’t see it?" — Eveillard
+
+"To the extent that we’ve been successful over the decades, it’s due mostly to what we did not own. We owned no Japanese stocks in the late eighties. We owned no tech in the late nineties. And we didn’t own any financial stocks to speak of between 2000 and 2008." — Eveillard
+Matthew McLennan
+
+"Why is it so valuable to reduce investing to a few core principles? For a start, it forces us to think through what we truly believe."
+
+"I have a simple way of looking at things that makes sense to me and that I’m going to stick with through thick and thin. That’s it." — Greenblatt
+
+"I like calculating the odds. Consciously or unconsciously, I’m calculating the odds on every investment. What’s the upside? What’s the downside?… I don’t think you can be a good investor without thinking in that way." — Greenblatt
+
+"It’s easier to find bargains off the beaten path or in extraordinary situations that other people aren’t looking at." — Greenblatt
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/richer-wiser-happier-by-william-green/)
