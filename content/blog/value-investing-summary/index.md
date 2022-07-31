@@ -4,24 +4,40 @@ date: "2022-02-5T22:12:03.284Z"
 description: "value investing summary"
 tags: ["investing", "valueinvesting"]
 ---
-# value investing
+# bruce greenwald's value investing
+
+## value investing process
 - ![value investing process](./value-investing-process.png)
 - circle of competence - "know what you know"
   - organize valuation components by reliability: most reliable -> least reliable
   - organize valuation components by underlying strategic assumption: no competitive advantage -> growing competitive advantage
 - "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress". Another way to think about is to focus on great company at fair price
 - the problem with the present value method is that it is a terminal value calculation as of today, and it does not avoid the problems with terminal calculation (terminal value is the value of a company's cash flows projected beyond the end of year 10, when the cash flow grows perpetually at a constant proportional rate)
-- reproduction cost of an asset is the most appropriate measure of its worth.
-  - it requires going beyond the balance sheet and diving deeper into the footnotes to make adjustments to find undiscovered value
-  - reproduction value looks at how much it will cost a competitor to purchase an asset required to run a competing company
-  - [asset reproduction value analysis](https://www.oldschoolvalue.com/stock-valuation/how-to-asset-reproduction-value-analysis/)
-- the second most reliable measure of a firm's intrinsic value is the value of its current earnings, properly adjusted. This value can be estimated with more certainty than future earnings or cash flows, and it is more relevant to today's values than are earnings in the past.
+
 - earnings power value technique
   - the value of assets a competitor will be required to have in order to achieve the same market value of incumbent company in the industry
   - earnings power value calculated based on current financial status where the resulting intrinsic value ignores business cycles
   - growth is usually ignored in this valuation technique
   - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
+
+## search strategy
+
+## valuation strategy
+- start with tangible assets
+  - it's the most reliable information.
+  - if the industry is not viable and the company going to get liquidated, you would want to see the valuation in liquidation and that is closely tied to assets.
+
+- reproduction cost of an asset is the most appropriate measure of its worth.
+  - if the industry to viable, then sooner or later the assets are going to be replaced, so you have to look at the costs of reproducing those assets as efficient as possible.
+  - [asset reproduction value analysis](https://www.oldschoolvalue.com/stock-valuation/how-to-asset-reproduction-value-analysis/)
+
+- the second most reliable measure of a firm's intrinsic value is the value of its current earnings, properly adjusted. This value can be estimated with more certainty than future earnings or cash flows, and it is more relevant to today's values than are earnings in the past.
+
+- Unless there is something to interfere with this process of entry, sooner or later the market value of the company will be driven down to the reproduction value of the assets. *Reversion to the Mean or the Uniformity of One Price*
+- If you have EPV in excess of reproduction value (AV) of the assets, there had better be something to interfere with the process of entry such as competitive advantage such as barriers of entry, etc...
+  - **then and only then you should worry about growth**
+  - You have to adjust for any accounting shenanigans that are going on, you have to adjust for the cyclical situation, for the tax situation that may be short-lived, for excess depreciation over the cost of maintenance capital expense (MCX). And really for anything else that is going on that is causing current earnings to deviate from long run sustainable earnings. So **valuation is calculated by a company’s long-run sustainable earnings multiplied by 1/cost of capital**.
 
 # Graham and Dodd's approach
 
