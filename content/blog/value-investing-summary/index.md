@@ -38,6 +38,13 @@ tags: ["investing", "valueinvesting"]
 - If you have EPV in excess of reproduction value (AV) of the assets, there had better be something to interfere with the process of entry such as competitive advantage such as barriers of entry, etc...
   - **then and only then you should worry about growth**
   - You have to adjust for any accounting shenanigans that are going on, you have to adjust for the cyclical situation, for the tax situation that may be short-lived, for excess depreciation over the cost of maintenance capital expense (MCX). And really for anything else that is going on that is causing current earnings to deviate from long run sustainable earnings. So **valuation is calculated by a company’s long-run sustainable earnings multiplied by 1/cost of capital**.
+- AV > EPV
+  - <???>
+- AV = EPV
+  - It tells a story of an industry that is in balance. It is exactly what you would expect to see if there were no barriers-to- entry.
+- Growth is relatively rarely valuable in the long run. **Growth at a competitive disadvantage has negative value**
+  - **The only case where growth has value is where the growth occurs behind the protection of an identifiable competitive advantage**.
+  - There is usually **stable market share** which is symptomatic of that last situation that means in the long run,the company will grow at the industry rate. Andin the long run, almost all industries grow at the rate of global GDP
 
 # Graham and Dodd's approach
 
