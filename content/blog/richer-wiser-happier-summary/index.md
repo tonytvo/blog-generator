@@ -109,37 +109,37 @@ tags: ["investing", "valueinvesting"]
   - "Do you want to win the game for shareholders and own great companies? Sometimes, to own a great company, you’ve got to pay a fair price." — Danoff
   - "Will once said to me, falsely, ‘Look, I’m not that smart and there’s a lot of information out there. So when I look at a company, I just ask myself: ‘Are things getting better or are they getting worse?’ If they’re getting better, then I want to understand what’s going on.’ " — Bill Miller
 - **Bill Miller**
-"The world changes. This is the biggest problem in markets." — Miller
-"It’s all probabilities. There is no certainty." — Miller
-"I’m trying to get rid of the unnecessary parts of what I used to do… I don’t build models anymore. It’s just stupid. It doesn’t make any sense… For every company, there are a few key investment variables and the rest of the stuff is noise." — Miller
-Nick Sleep & Qais Zakaria
-Started Nomad Investment Partnership in 2001 and retired in 2014. They charged a tiny flat fee to cover expenses, then 20% of the funds profits over a 6% return hurdle.
-Both worked at Marathon Asset Management prior to starting the firm.
-They started in "cigar butts" but quickly graduated to a concentrated portfolio of high-quality companies held for years (average holding period was about 7 years).
-No shorting, no leverage, no active trading.
-Information has a "shelf life." Most of it expires in a few days, weeks, or months. They looked for information with a long shelf life.
-They purposely detached themselves from day-to-day market action. Even placed their Bloomberg terminal in the most uncomfortable location, a short corner table without a chair, to limit its use.
- "We just read annual reports until we were blue in the face and visited every company possible until we were sick of it." — Sleep
-Questions:
-Where will the company be in 10 or 20 years?
-What’s management doing today to make that more likely to happen?
-What might stop that from happening?
-Is the company improving customer relations with "superior products, low prices, and efficient service?"
-Does management make sound capital allocation decisions to improve shareholder value?
-Does the company mistreat employees, suppliers, customers?
-Does the company do anything that could hurt its reputation?
-On Benefits of Quality Management: "If they’re thinking rationally and thinking about the long term, you can subcontract the capital allocation decisions to them. You don’t have to be buying and selling shares." — Sleep
-Scale Economies Shared Model:
-Companies that take advantage of economies of scale to grow revenue while lowering the cost of business only to share those cost savings with customers to further entrench their advantage over competitors.
-"Increased revenues begets scale savings begets lower costs begets lower prices begets increased revenues." — Sleep
-Costco is an example. It deferred profits for customer satisfaction/retention and long-term growth.
-Tend to be founder-led companies where the founder is obsessive about small details.
-Tend to prioritize the customer experience.
-Tend to be serial cost-cutters.
-Tend to be very long-term focused.
- "Relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com." — Jeff Bezos, 2005 Shareholder Letter
-"It’s all about deferred gratification. When you look at all the mistakes you make in life, private and professional, it’s almost always because you reached for some short-term fix or some short-term high… And that’s the overwhelming habit of people in the stock market." — Sleep
-Thomas Russo
+  - "The world changes. This is the biggest problem in markets." — Miller
+  - "It’s all probabilities. There is no certainty." — Miller
+  - "I’m trying to get rid of the unnecessary parts of what I used to do… I don’t build models anymore. It’s just stupid. It doesn’t make any sense… For every company, there are a few key investment variables and the rest of the stuff is noise." — Miller
+- **Nick Sleep & Qais Zakaria**
+  - Started Nomad Investment Partnership in 2001 and retired in 2014. They charged a tiny flat fee to cover expenses, then 20% of the funds profits over a 6% return hurdle.
+  - Both worked at Marathon Asset Management prior to starting the firm.
+  - They started in "cigar butts" but quickly graduated to a concentrated portfolio of high-quality companies held for years (average holding period was about 7 years).
+  - No shorting, no leverage, no active trading.
+  - Information has a "shelf life." Most of it expires in a few days, weeks, or months. They looked for information with a long shelf life.
+  - They purposely detached themselves from day-to-day market action. Even placed their Bloomberg terminal in the most uncomfortable location, a short corner table without a chair, to limit its use.
+   - "We just read annual reports until we were blue in the face and visited every company possible until we were sick of it." — Sleep
+  - Questions:
+    - Where will the company be in 10 or 20 years?
+    - What’s management doing today to make that more likely to happen?
+    - What might stop that from happening?
+    - Is the company improving customer relations with "superior products, low prices, and efficient service?"
+    - Does management make sound capital allocation decisions to improve shareholder value?
+    - Does the company mistreat employees, suppliers, customers?
+    - Does the company do anything that could hurt its reputation?
+  - On Benefits of Quality Management: "If they’re thinking rationally and thinking about the long term, you can subcontract the capital allocation decisions to them. You don’t have to be buying and selling shares." — Sleep
+  - Scale Economies Shared Model:
+    - Companies that take advantage of economies of scale to grow revenue while lowering the cost of business only to share those cost savings with customers to further entrench their advantage over competitors.
+    - "Increased revenues begets scale savings begets lower costs begets lower prices begets increased revenues." — Sleep
+    - Costco is an example. It deferred profits for customer satisfaction/retention and long-term growth.
+    - Tend to be founder-led companies where the founder is obsessive about small details.
+    - Tend to prioritize the customer experience.
+    - Tend to be serial cost-cutters.
+    - Tend to be very long-term focused.
+    - "Relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com." — Jeff Bezos, 2005 Shareholder Letter
+  - "It’s all about deferred gratification. When you look at all the mistakes you make in life, private and professional, it’s almost always because you reached for some short-term fix or some short-term high… And that’s the overwhelming habit of people in the stock market." — Sleep
+- **Thomas Russo**
 "I call myself a farmer. Wall Street is flooded with hunters — people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them." — Russo
 He looks for companies with the "capacity to suffer." They are built to survive tough times and outlast the competition.
 "Less jam today for more jam tomorrow, the three little piggies, etc, are childhood tales that inculcate thoughtful people with the message of deferred gratification. Society has, however, created endless reasons why decision makers mistakenly prefer more jam today even at the expense of jam tomorrow. Much investment opportunity arises from being able to take the other side of the short-termism bet. I have been blessed with investors who permit me to take the longer view." — Russo
