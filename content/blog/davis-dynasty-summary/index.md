@@ -1,6 +1,6 @@
 ---
 title: The Davis Dynasty by John Roth Child summary
-date: "2022-07-24T22:12:03.284Z"
+date: "2022-07-13T22:12:03.284Z"
 description: "The Davis Dynasty by John Roth Child summary"
 tags: ["valueinvesting", "investing"]
 ---

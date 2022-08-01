@@ -1,6 +1,6 @@
 ---
 title: The Money Game by Adam Smith summary
-date: "2022-07-24T22:12:03.284Z"
+date: "2022-08-01T22:12:03.284Z"
 description: "The Money Game by Adam Smith summary"
 tags: ["investing", "business"]
 ---

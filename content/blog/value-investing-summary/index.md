@@ -1,6 +1,6 @@
 ---
 title: value investing summary
-date: "2022-02-5T22:12:03.284Z"
+date: "2022-08-09T22:12:03.284Z"
 description: "value investing summary"
 tags: ["investing", "valueinvesting"]
 ---

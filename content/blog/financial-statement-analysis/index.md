@@ -1,6 +1,6 @@
 ---
 title: financial statement analysis
-date: "2022-02-5T22:12:03.284Z"
+date: "2022-02-15T22:12:03.284Z"
 description: "financial statement analysis"
 tags: ["investing", "valueinvesting"]
 ---

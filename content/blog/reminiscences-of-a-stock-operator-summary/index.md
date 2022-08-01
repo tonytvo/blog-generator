@@ -1,6 +1,6 @@
 ---
 title: Reminiscences of a Stock Operator by Edwin Lefevre Summary
-date: "2022-07-24T22:12:03.284Z"
+date: "2022-08-04T22:12:03.284Z"
 description: "Reminiscences of a Stock Operator by Edwin Lefevre Summary"
 tags: ["valueinvesting", "investing"]
 ---

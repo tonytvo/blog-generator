@@ -1,6 +1,6 @@
 ---
 title: Richer Wiser Happier by William Green summary
-date: "2022-07-29T22:12:03.284Z"
+date: "2022-08-05T22:12:03.284Z"
 description: "Richer Wiser Happier by William Green summary"
 tags: ["investing", "valueinvesting"]
 ---

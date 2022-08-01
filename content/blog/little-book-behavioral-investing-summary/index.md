@@ -1,6 +1,6 @@
 ---
 title: The Little Book of Behavioral Investing by James Montier summary
-date: "2022-07-29T22:12:03.284Z"
+date: "2022-07-18T22:12:03.284Z"
 description: "The Little Book of Behavioral Investing by James Montier summary"
 tags: ["investing", "valueinvesting"]
 ---

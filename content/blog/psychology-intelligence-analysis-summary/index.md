@@ -1,6 +1,6 @@
 ---
 title: Psychology of Intelligence Analysis by Richards summary
-date: "2022-07-29T22:12:03.284Z"
+date: "2022-07-28T22:12:03.284Z"
 description: "Psychology of Intelligence Analysis by Richards summary"
 tags: ["investing", "valueinvesting"]
 ---

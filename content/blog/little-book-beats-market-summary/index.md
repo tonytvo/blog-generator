@@ -1,6 +1,6 @@
 ---
 title: little book that beats the market by Joel Greenblatt Summary
-date: "2022-07-24T22:12:03.284Z"
+date: "2022-07-17T22:12:03.284Z"
 description: "little book that beats the market by Joel Greenblatt Summary"
 tags: ["valueinvesting", "investing"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Big Mistakes - The Best Investors and Their Worst Investments by Michael Batnick Summary
-date: "2022-07-24T22:12:03.284Z"
+date: "2022-07-11T22:12:03.284Z"
 description: "Big Mistakes - The Best Investors and Their Worst Investments by Michael Batnick Summary"
 tags: ["valueinvesting", "investing"]
 ---

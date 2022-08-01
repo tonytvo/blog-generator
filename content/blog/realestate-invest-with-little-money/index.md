@@ -1,6 +1,6 @@
 ---
 title: real estate invest with zero or little money down
-date: "2021-12-23T22:12:03.284Z"
+date: "2022-08-03T22:12:03.284Z"
 description: "real estate invest with zero or little money down"
 tags: ["realestateinvesting", "financialindependence"]
 ---

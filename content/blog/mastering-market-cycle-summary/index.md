@@ -1,6 +1,6 @@
 ---
 title: Mastering the Market Cycle by Howard Marks summary
-date: "2022-07-24T22:12:03.284Z"
+date: "2022-07-20T22:12:03.284Z"
 description: "Mastering the Market Cycle by Howard Marks summary"
 tags: ["investing"]
 ---

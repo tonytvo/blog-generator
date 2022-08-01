@@ -1,6 +1,6 @@
 ---
 title: Buffett Partnership Letters by Warren Buffett summary
-date: "2022-07-29T22:12:03.284Z"
+date: "2022-07-12T22:12:03.284Z"
 description: "Buffett Partnership Letters by Warren Buffett summary"
 tags: ["investing", "valueinvesting"]
 ---
