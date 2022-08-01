@@ -142,30 +142,30 @@ tags: ["investing", "valueinvesting"]
 - **Thomas Russo**
   - "I call myself a farmer. Wall Street is flooded with hunters — people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them." — Russo
   - He looks for companies with the "capacity to suffer." They are built to survive tough times and outlast the competition.
-"Less jam today for more jam tomorrow, the three little piggies, etc, are childhood tales that inculcate thoughtful people with the message of deferred gratification. Society has, however, created endless reasons why decision makers mistakenly prefer more jam today even at the expense of jam tomorrow. Much investment opportunity arises from being able to take the other side of the short-termism bet. I have been blessed with investors who permit me to take the longer view." — Russo
-Jeff Gundlach
-"If I assume that I’m wrong on this, what’s the consequence going to be?… Make your mistakes nonfatal. It’s so fundamental to longevity. And ultimately, that’s what success is in this business: longevity." — Gundlach
-Tom Gayner
-Gayner manages Markel’s investment portfolio since 1990.
-His goal is to find tiny habits repeated daily that lead to long-term success.
-"If you want the secret to great success, it’s just to make each day a little bit better than the day before. There are different ways you can go about doing that, but that’s the story… Just making progress over and over again is the critical part." Gayner
-"It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements." — Sir David Brailsford, coach of the British cycling team
-Returns, training, learning, etc., it all compounds!
-4 Principles:
-He looks for profitable companies with good ROC and little leverage.
-Quality management with integrity.
-The company can reinvest profits at a good rate of return.
-Can be bought at reasonable price.
-He wants compounding machines to hold "forever."
-"It’s been my experience that the richest people were those who found something good and held on to it. The people who seemed the least happy and the most frenzied and the least successful are those that are always chasing the next hot thing." — Gayner
-His portfolio is over 100 stocks with 66% in the top 20 positions.
-"You cannot control the outcome. You can only control the effort and the dedication and the giving of one hundred percent of yourself to the task at hand. And then whatever happens, happens." — Gayner
-Paul Lountzis
-"You need a maniacal focus to really be great at anything. Anyone who tells you that you can have everything all at once, you can’t. I mean, you don’t become Roger Federer by not playing tennis. It has to be consuming." — Lountzis
-All great investors, CEOs, athletes, etc. are practically fanatical about it (at the expense of other areas of their life). Fanaticism won’t guarantee success but being fanatical makes it easier to compete in a world of fanatics.
-He hoards information on the best in the business and investing world to read and reread. The repetition makes the lessons unforgettable.
-"You can’t mimic them because you’re not them. Learn it and adapt it and modify it into your own process." — Lountzis
-Charlie Munger
+  - "Less jam today for more jam tomorrow, the three little piggies, etc, are childhood tales that inculcate thoughtful people with the message of deferred gratification. Society has, however, created endless reasons why decision makers mistakenly prefer more jam today even at the expense of jam tomorrow. Much investment opportunity arises from being able to take the other side of the short-termism bet. I have been blessed with investors who permit me to take the longer view." — Russo
+- **Jeff Gundlach**
+  - "If I assume that I’m wrong on this, what’s the consequence going to be?… Make your mistakes nonfatal. It’s so fundamental to longevity. And ultimately, that’s what success is in this business: longevity." — Gundlach
+- **Tom Gayner**
+  - Gayner manages Markel’s investment portfolio since 1990.
+  - His goal is to find tiny habits repeated daily that lead to long-term success.
+  - "If you want the secret to great success, it’s just to make each day a little bit better than the day before. There are different ways you can go about doing that, but that’s the story… Just making progress over and over again is the critical part." Gayner
+  - "It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements." — Sir David Brailsford, coach of the British cycling team
+  - Returns, training, learning, etc., it all compounds!
+  - 4 Principles:
+    - He looks for profitable companies with good ROC and little leverage.
+    - Quality management with integrity.
+    - The company can reinvest profits at a good rate of return.
+    - Can be bought at reasonable price.
+  - He wants compounding machines to hold "forever."
+  - "It’s been my experience that the richest people were those who found something good and held on to it. The people who seemed the least happy and the most frenzied and the least successful are those that are always chasing the next hot thing." — Gayner
+  - His portfolio is over 100 stocks with 66% in the top 20 positions.
+  - "You cannot control the outcome. You can only control the effort and the dedication and the giving of one hundred percent of yourself to the task at hand. And then whatever happens, happens." — Gayner
+- **Paul Lountzis**
+  - "You need a maniacal focus to really be great at anything. Anyone who tells you that you can have everything all at once, you can’t. I mean, you don’t become Roger Federer by not playing tennis. It has to be consuming." — Lountzis
+  - All great investors, CEOs, athletes, etc. are practically fanatical about it (at the expense of other areas of their life). Fanaticism won’t guarantee success but being fanatical makes it easier to compete in a world of fanatics.
+  - He hoards information on the best in the business and investing world to read and reread. The repetition makes the lessons unforgettable.
+  - "You can’t mimic them because you’re not them. Learn it and adapt it and modify it into your own process." — Lountzis
+- **Charlie Munger**
 He constantly tries to avoid stupidity.
 "Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think." — Munger
 On Attacking Problems via Inversion: "It’s counterintuitive that you go at the problem backward. If you try and be smart, it’s difficult. If you just go around and identify all of the disasters and say, ‘What caused that?’ and try to avoid it, it turns out to be a very simple way to find opportunities and avoid troubles." — Munger
@@ -206,6 +206,13 @@ Templeton, Soros, and Buffett share "the willingness to be lonely, the willingne
 Rick Guerin tried to get rich faster than necessary. He was leveraged going into the 1973-74 crash, hit by margin calls, and forced to sell his shares in Berkshire Hathaway for less than they were worth (Buffett bought them).
 
 # Quotes
+
+"You need a maniacal focus to really be great at anything. Anyone who tells you that you can have everything all at once, you can’t. I mean, you don’t become Roger Federer by not playing tennis. It has to be consuming." — Lountzis
+
+"It’s been my experience that the richest people were those who found something good and held on to it. The people who seemed the least happy and the most frenzied and the least successful are those that are always chasing the next hot thing." — Gayner
+
+
+"You cannot control the outcome. You can only control the effort and the dedication and the giving of one hundred percent of yourself to the task at hand. And then whatever happens, happens." — Gayner
 
 "If you’re even a slightly above average investor who spends less than you earn, over a lifetime you cannot help but get very wealthy." — Buffett
 
@@ -293,6 +300,10 @@ Matthew McLennan
 "I like calculating the odds. Consciously or unconsciously, I’m calculating the odds on every investment. What’s the upside? What’s the downside?… I don’t think you can be a good investor without thinking in that way." — Greenblatt
 
 "It’s easier to find bargains off the beaten path or in extraordinary situations that other people aren’t looking at." — Greenblatt
+
+"If you want the secret to great success, it’s just to make each day a little bit better than the day before. There are different ways you can go about doing that, but that’s the story… Just making progress over and over again is the critical part." Gayner
+
+"It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements." — Sir David Brailsford, coach of the British cycling team
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/richer-wiser-happier-by-william-green/)
