@@ -108,22 +108,22 @@ tags: ["productivity", "communication", "health", "investment"]
 
 # Wealthy
 
-## pricing and silicone valley
+## pricing and the silicon valley
 - should not undervalue your product and not charge enough. By not charging enough for a product, you're only undercutting yourself. You're left with not enough money actually to market the product.
 - Know the value of what you are selling. Don't get greedy and aim for volume.
 
 ## say yes
-- when you're earlier in your career, the best strategy is to say 'yes' to everything, every little gig. You never know what the lottery tickets are.
+- when you're earlier in your career, the best strategy is to say 'yes' to every little gig. You never know what the lottery tickets are.
 - If you don't instinctively think, "HELL, YES, I WILL DO THAT," then say 'no.'
-- Once you've found your rhythm and have made progress, it's time to stop filling all of your time with menial and mediocre tasks.
+- Once you've found your rhythm and made progress, it's time to stop filling your time with menial and mediocre tasks.
 
 ## busy
-- being busy means a lack of priorities, so commit to things worth it and reject the rest.
+- being busy means lacking priorities, so commit to things worth it and reject the rest.
 - "Being busy is most often used as a guide for avoiding the few critically important but uncomfortable actions."
-- One way to deal with procrastination and business is to identify just ONE must-do task per day.
+- One way to deal with procrastination and business is to identify just ONE must-do daily task.
 
 ## don't be a dog
-- what if mindset, anything you do, anything you change, consider the possible results of that in one day, one week, one month, or one year. Always be thinking ahead and have a plan for success.
+- what if mindset, anything you do, anything you change, consider the possible results of that in one day, one week, one month, or one year? Always be thinking ahead and have a plan for success.
 
 ## Investing
 - obsession with not losing money. Before entering any business opportunity or investment, ask yourself what the downside is and how you can be protected against it.
@@ -134,23 +134,23 @@ tags: ["productivity", "communication", "health", "investment"]
   - start by exploring an idea emotionally, than do traditional due diligence using objective data.
   - When researching ideas emotionally, take the novel features and think about how they will impact users' emotions and play out over the long run.
 
-
 ## startups and making money
 - if you have set well-thought-out and intelligent rules, then FOLLOW THE RULES NO MATTER WHAT. You set the rules with intentions, don't break them when something tempting comes up.
 - Most startups will fail. So to cover your losses, you need to ensure that the successes are worth it.
 - When it comes to investing and angel investments, you must be 100% comfortable losing all of your money. Therefore, you should only gamble with an amount you can afford to lose.
 - Limit angel investment funds to 10-15% of your liquid assets. Nevermore.
 - When designing a product, you must be keen to use the product yourself. If it's not something you're interested in, avoid it.
+
 ## systems vs. goals
 - by focusing on 'systems' rather than 'goals,' you allow yourself to improve your skills and relationship without focusing too much on the outcome.
 - Develop and improve transferable skills.
 - Don't treat your systems as a binary pass/fail situation. Instead, consider systems as something that can have a snowball effect.
-- "if I've learned anything from podcasting, it's don't be afraid to do something you're not qualified to do."
+- "If I've learned anything from podcasting, it's don't be afraid to do something you're not qualified to do."
 
 ## the formula for success
 - either be the best at one specific thing or be very good (top 25%) at two or more items. The first option is almost impossible, which few people will ever achieve. But the second strategy is simple and something everyone is capable of.
 - Add public speaking as one of your two (or more) skills, combining being an excellent public speaker with any other skill, and you have the recipe for some pretty decent success.
-- "Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more "pretty goods" until no one else has your mix."
+"Capitalism rewards rare and valuable things. You make yourself rare by combining two or more "pretty goods" until no one else has your mix."
 
 ## just ask
 - in business, you have to get comfortable asking for things.
@@ -162,9 +162,9 @@ before releasing a product or service, exposing them to proper scrutiny is essen
 ## It's not what you know. It's what you do consistently.
 - Knowledge is redundant without consistent, purposeful action. A similar theme addressed by Peter Thiel is that education does not equate to learning. Thiel is more interested in what people learn rather than what educational credentials they are working on.
 - Zero to one questions:
-  - **the monopoly question**: are you starting with a significant share of a small market?
-  - **the secret question**: have you identified a unique opportunity that others don't see?
-  - **the distribution question**: do you have a way not just to create but deliver your product?
+  - **The monopoly question**: are you starting with a significant share of a small market?
+  - **The secret question**: have you identified a unique opportunity that others don't see?
+  - **The distribution question**: do you have a way not just to create but deliver your product?
 
 ## resilience
 - preparing for the worst conditions enables individuals to stand up when faced with failures and falls
