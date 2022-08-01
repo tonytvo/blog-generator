@@ -22,7 +22,12 @@ tags: ["investing", "valueinvesting"]
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
 
 ## search strategy
-
+- "every time you sell stock, someone else is buying that security. **One person on one side of the trade is always wrong**"
+- **You have to know what you know and what you don't know**
+  - not all value is measurable
+  - not all value is measure by you
+  - where do I have the advantage
+  - **great investors focus on specific opportunities in concentrated ways**
 ## valuation strategy
 - start with tangible assets
   - it's the most reliable information.
@@ -526,6 +531,10 @@ truth seeker
 # Interpretation of Financial Statements
 - [interpretation of financial statements summary](/financial-statement-analysis)
 
+# Questions
+- what is your default strategy when there is nothing to do?
+  - buy the market in an index fund vs cash?
+  - what does the absence of opportunity tell you
 
 # Stock Hedging Strategies
 ## low correlation alternatives

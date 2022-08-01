@@ -166,46 +166,62 @@ tags: ["investing", "valueinvesting"]
   - He hoards information on the best in the business and investing world to read and reread. The repetition makes the lessons unforgettable.
   - "You can’t mimic them because you’re not them. Learn it and adapt it and modify it into your own process." — Lountzis
 - **Charlie Munger**
-He constantly tries to avoid stupidity.
-"Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think." — Munger
-On Attacking Problems via Inversion: "It’s counterintuitive that you go at the problem backward. If you try and be smart, it’s difficult. If you just go around and identify all of the disasters and say, ‘What caused that?’ and try to avoid it, it turns out to be a very simple way to find opportunities and avoid troubles." — Munger
-The best way to avoid stupidity is to ask: How bad will this be? Instead of, How great will this be? Or about investing more broadly ask: what are all the stupid ways people lose money? Then don’t do those things.
-"Finding out what’s wrong and trying to avoid it is different from finding out what’s good and trying to get it. You have to do both, of course, in life. But this inversion of looking for the trouble and trying to avoid it keeps you out of a lot of messes… It’s a precaution. It’s like a checklist before you take off in an airplane." — Munger
-"A lot of people are so interested in reaching for the prize that they don’t even think about the stupidities that might prevent them from getting it." — Munger
-Munger collects examples of other people’s exceptionally stupid behavior. So can he learn from others’ mistakes.
-Common Errors:
-Listening to market predictions.
-Buying cyclicals at the top of the cycle or poor businesses at market tops.
-Being close-minded.
-Doing things because "other people do it."
-Rush to decisions.
-Ego, overconfidence, overoptimism.
-"I know I’ll perform better if I rub my nose in my mistakes. This is a wonderful trick to learn." — Munger
-On Incentives: "If you would persuade, appeal to interest and not to reason. This maxim is a wise guide to a great and simple precaution in life: Never, ever, think about something else when you should be thinking about the power of incentives." — Munger
-On Discovering Your Own Errors: "If Berkshire has made modest progress, a good deal of it is because Warren and I are very good at destroying our own best-loved ideas. Any year that you don’t destroy one of your best-loved ideas is probably a wasted year." — Munger
-A systematic process of studying counterarguments, taking a devil’s advocate approach, or writing premortems (assuming disaster) are ways to limit biases and improve decisions.
+  - He constantly tries to avoid stupidity.
+  - "Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think." — Munger
+  - On Attacking Problems via Inversion: "It’s counterintuitive that you go at the problem backward. If you try and be smart, it’s difficult. If you just go around and identify all of the disasters and say, ‘What caused that?’ and try to avoid it, it turns out to be a very simple way to find opportunities and avoid troubles." — Munger
+  - The best way to avoid stupidity is to ask: How bad will this be? Instead of, How great will this be? Or about investing more broadly ask: what are all the stupid ways people lose money? Then don’t do those things.
+  - "Finding out what’s wrong and trying to avoid it is different from finding out what’s good and trying to get it. You have to do both, of course, in life. But this inversion of looking for the trouble and trying to avoid it keeps you out of a lot of messes… It’s a precaution. It’s like a checklist before you take off in an airplane." — Munger
+  - "A lot of people are so interested in reaching for the prize that they don’t even think about the stupidities that might prevent them from getting it." — Munger
+  - Munger collects examples of other people’s exceptionally stupid behavior. So can he learn from others’ mistakes.
+  - Common Errors:
+    - Listening to market predictions.
+    - Buying cyclicals at the top of the cycle or poor businesses at market tops.
+    - Being close-minded.
+    - Doing things because "other people do it."
+    - Rush to decisions.
+    - Ego, overconfidence, overoptimism.
+    - "I know I’ll perform better if I rub my nose in my mistakes. This is a wonderful trick to learn." — Munger
+  - On Incentives: "If you would persuade, appeal to interest and not to reason. This maxim is a wise guide to a great and simple precaution in life: Never, ever, think about something else when you should be thinking about the power of incentives." — Munger
+  - On Discovering Your Own Errors: "If Berkshire has made modest progress, a good deal of it is because Warren and I are very good at destroying our own best-loved ideas. Any year that you don’t destroy one of your best-loved ideas is probably a wasted year." — Munger
+  - A systematic process of studying counterarguments, taking a devil’s advocate approach, or writing premortems (assuming disaster) are ways to limit biases and improve decisions.
 Lists of your biggest biases, emotional tendencies, and mistakes serve as a good checklist before making a decision.
-"If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with aplomb and grace. Don’t try to avoid it. It will come. In fact, I would say if it doesn’t come, you’re not being aggressive enough." — Munger
-"You have to be like a man standing with a spear next to a stream. Most of the time he’s doing nothing. When a fat juicy salmon swims by, the man spears it. Then he goes back to doing nothing. It may be six months before the next salmon goes by." — Munger
-Joel Tillinghast
-Manages Fidelity’s Low-Priced Stock Fund since 1989, outperforming by roughly 4% per year.
-He creates lists of things to avoid, "defensive principles and practices" that keep him focused and help outperformance.
-"Don’t pay too much. Don’t go for businesses that are prone to obsolescence and destruction. Don’t invest with crooks and idiots. Don’t invest in things you don’t understand." — Tillinghast
-He also avoids cyclicals, fads, heavy leverage, sales-y management, questionable accounting.
-He won’t talk publicly about his positions (makes it harder to change his mind).
-"If you want to be superior, that’s difficult. But what you won’t do is easier to control and more attainable… I’m not going to lose fifteen pounds. But saying no to doughnuts, that’s easy for me." — Tillinghast
-Ed Thorp
-"As far as gambling is concerned, if I don’t have an edge, I don’t play." — Thorp
-He heavily relied on the Kelly Criterion to size positions.
-Had a chance to invest in LTCM but passed because they were "taking too much risk… So the probability of their ruin appeared substantial to me."
-Peter Lynch
-"You get a lot of A’s and B’s in school. In the stock market, you get a lot of F’s. And if you’re right six or seven times out of ten, you’re very good." — Lynch
-"Learning to play poker or learning to play bridge, anything that teaches you to play the probabilities…would be better than all the books on the stock market." — Lynch
-Templeton, Soros, and Buffett share "the willingness to be lonely, the willingness to take a position that others don’t think is too bright. They have an inner conviction that a lot of people do not have."– Michael Lipper
-"A necessary characteristic of great investors is that they can’t be overly influenced by what other people think. The easiest way not to be overly influenced by what other people think is not to be that aware of what they think. If you don’t really notice that and don’t really care about what other people think, that will make it easier to be a great investor." — Chris Davis
-Rick Guerin tried to get rich faster than necessary. He was leveraged going into the 1973-74 crash, hit by margin calls, and forced to sell his shares in Berkshire Hathaway for less than they were worth (Buffett bought them).
+  - "If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with aplomb and grace. Don’t try to avoid it. It will come. In fact, I would say if it doesn’t come, you’re not being aggressive enough." — Munger
+  - "You have to be like a man standing with a spear next to a stream. Most of the time he’s doing nothing. When a fat juicy salmon swims by, the man spears it. Then he goes back to doing nothing. It may be six months before the next salmon goes by." — Munger
+- **Joel Tillinghast**
+  - Manages Fidelity’s Low-Priced Stock Fund since 1989, outperforming by roughly 4% per year.
+  - He creates lists of things to avoid, "defensive principles and practices" that keep him focused and help outperformance.
+  - "Don’t pay too much. Don’t go for businesses that are prone to obsolescence and destruction. Don’t invest with crooks and idiots. Don’t invest in things you don’t understand." — Tillinghast
+  - He also avoids cyclicals, fads, heavy leverage, sales-y management, questionable accounting.
+  - He won’t talk publicly about his positions (makes it harder to change his mind).
+  - "If you want to be superior, that’s difficult. But what you won’t do is easier to control and more attainable… I’m not going to lose fifteen pounds. But saying no to doughnuts, that’s easy for me." — Tillinghast
+- **Ed Thorp**
+  - "As far as gambling is concerned, if I don’t have an edge, I don’t play." — Thorp
+  - He heavily relied on the Kelly Criterion to size positions.
+  - Had a chance to invest in LTCM but passed because they were "taking too much risk… So the probability of their ruin appeared substantial to me."
+- **Peter Lynch**
+  - "You get a lot of A’s and B’s in school. In the stock market, you get a lot of F’s. And if you’re right six or seven times out of ten, you’re very good." — Lynch
+  - "Learning to play poker or learning to play bridge, anything that teaches you to play the probabilities…would be better than all the books on the stock market." — Lynch
+
+- Templeton, Soros, and Buffett share "the willingness to be lonely, the willingness to take a position that others don’t think is too bright. They have an inner conviction that a lot of people do not have."– Michael Lipper
+- "A necessary characteristic of great investors is that they can’t be overly influenced by what other people think. The easiest way not to be overly influenced by what other people think is not to be that aware of what they think. If you don’t really notice that and don’t really care about what other people think, that will make it easier to be a great investor." — Chris Davis
+- Rick Guerin tried to get rich faster than necessary. He was leveraged going into the 1973-74 crash, hit by margin calls, and forced to sell his shares in Berkshire Hathaway for less than they were worth (Buffett bought them).
 
 # Quotes
+
+"If you want to be superior, that’s difficult. But what you won’t do is easier to control and more attainable… I’m not going to lose fifteen pounds. But saying no to doughnuts, that’s easy for me." — Tillinghast
+
+"If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with aplomb and grace. Don’t try to avoid it. It will come. In fact, I would say if it doesn’t come, you’re not being aggressive enough." — Munger
+
+"You have to be like a man standing with a spear next to a stream. Most of the time he’s doing nothing. When a fat juicy salmon swims by, the man spears it. Then he goes back to doing nothing. It may be six months before the next salmon goes by." — Munger
+
+
+"I know I’ll perform better if I rub my nose in my mistakes. This is a wonderful trick to learn." — Munger
+
+"Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think." — Munger
+
+"Finding out what’s wrong and trying to avoid it is different from finding out what’s good and trying to get it. You have to do both, of course, in life. But this inversion of looking for the trouble and trying to avoid it keeps you out of a lot of messes… It’s a precaution. It’s like a checklist before you take off in an airplane." — Munger
+
+"A lot of people are so interested in reaching for the prize that they don’t even think about the stupidities that might prevent them from getting it." — Munger
 
 "You need a maniacal focus to really be great at anything. Anyone who tells you that you can have everything all at once, you can’t. I mean, you don’t become Roger Federer by not playing tennis. It has to be consuming." — Lountzis
 
