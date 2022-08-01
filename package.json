@@ -32,7 +32,11 @@
     "react-dom": "^18.1.0",
     "react-helmet": "^6.1.0",
     "typeface-merriweather": "1.1.13",
-    "typeface-montserrat": "1.1.13"
+    "typeface-montserrat": "1.1.13",
+    "source-map": "^0.8.0-beta.0"
+  },
+  "resolutions": {
+    "source-map": "^0.8.0-beta.0"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
