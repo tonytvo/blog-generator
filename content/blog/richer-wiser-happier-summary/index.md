@@ -140,8 +140,8 @@ tags: ["investing", "valueinvesting"]
     - "Relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com." — Jeff Bezos, 2005 Shareholder Letter
   - "It’s all about deferred gratification. When you look at all the mistakes you make in life, private and professional, it’s almost always because you reached for some short-term fix or some short-term high… And that’s the overwhelming habit of people in the stock market." — Sleep
 - **Thomas Russo**
-"I call myself a farmer. Wall Street is flooded with hunters — people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them." — Russo
-He looks for companies with the "capacity to suffer." They are built to survive tough times and outlast the competition.
+  - "I call myself a farmer. Wall Street is flooded with hunters — people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them." — Russo
+  - He looks for companies with the "capacity to suffer." They are built to survive tough times and outlast the competition.
 "Less jam today for more jam tomorrow, the three little piggies, etc, are childhood tales that inculcate thoughtful people with the message of deferred gratification. Society has, however, created endless reasons why decision makers mistakenly prefer more jam today even at the expense of jam tomorrow. Much investment opportunity arises from being able to take the other side of the short-termism bet. I have been blessed with investors who permit me to take the longer view." — Russo
 Jeff Gundlach
 "If I assume that I’m wrong on this, what’s the consequence going to be?… Make your mistakes nonfatal. It’s so fundamental to longevity. And ultimately, that’s what success is in this business: longevity." — Gundlach
@@ -204,16 +204,26 @@ Peter Lynch
 Templeton, Soros, and Buffett share "the willingness to be lonely, the willingness to take a position that others don’t think is too bright. They have an inner conviction that a lot of people do not have."– Michael Lipper
 "A necessary characteristic of great investors is that they can’t be overly influenced by what other people think. The easiest way not to be overly influenced by what other people think is not to be that aware of what they think. If you don’t really notice that and don’t really care about what other people think, that will make it easier to be a great investor." — Chris Davis
 Rick Guerin tried to get rich faster than necessary. He was leveraged going into the 1973-74 crash, hit by margin calls, and forced to sell his shares in Berkshire Hathaway for less than they were worth (Buffett bought them).
-"If you’re even a slightly above average investor who spends less than you earn, over a lifetime you cannot help but get very wealthy." — Buffett
-"You don’t have to swing at everything — you can wait for your pitch. The problem when you’re a money manager is that your fans keep yelling, ‘Swing, you bum!’" — Warren Buffett
-"We, and our judgment, and all mortal things go on flowing and rolling unceasingly. Thus nothing certain can be established about one thing by another, both the judging and the judged being in continual change." — Michel De Montaigne
-"The art of being wise is the art of knowing what to overlook." — William James
-"To attain knowledge, add things every day. To attain wisdom, subtract things every day." — Lao-tzu
-"Uncertainty compels diversification. Diversification is and always has been the first tenet of the Prudent Man Rule of Investing… In sub-Saharan Africa, for centuries, people believed cattle were the safest repository of wealth. That was until the great drought came along." — Barton Biggs
-"The stock market is a sadistic, contrary, changeable beast and nothing is forever." — Barton Biggs
-"The crucial question is whether the investor will, in fact, hold on. The problem is not in the market, but in ourselves, our perceptions, and our reactions to our perceptions. This is why it is so important for each client to develop a realistic knowledge of his own and/or his organization’s tolerance for market fluctuations…" — Charles Ellis
 
 # Quotes
+
+"If you’re even a slightly above average investor who spends less than you earn, over a lifetime you cannot help but get very wealthy." — Buffett
+
+"You don’t have to swing at everything — you can wait for your pitch. The problem when you’re a money manager is that your fans keep yelling, ‘Swing, you bum!’" — Warren Buffett
+
+"We, and our judgment, and all mortal things go on flowing and rolling unceasingly. Thus nothing certain can be established about one thing by another, both the judging and the judged being in continual change." — Michel De Montaigne
+
+"The art of being wise is the art of knowing what to overlook." — William James
+
+"To attain knowledge, add things every day. To attain wisdom, subtract things every day." — Lao-tzu
+
+"Uncertainty compels diversification. Diversification is and always has been the first tenet of the Prudent Man Rule of Investing… In sub-Saharan Africa, for centuries, people believed cattle were the safest repository of wealth. That was until the great drought came along." — Barton Biggs
+
+"The stock market is a sadistic, contrary, changeable beast and nothing is forever." — Barton Biggs
+
+"The crucial question is whether the investor will, in fact, hold on. The problem is not in the market, but in ourselves, our perceptions, and our reactions to our perceptions. This is why it is so important for each client to develop a realistic knowledge of his own and/or his organization’s tolerance for market fluctuations…" — Charles Ellis
+
+"I call myself a farmer. Wall Street is flooded with hunters — people who try to go out and find the big game. They fell it and bring it back, and there’s a huge feast and everything is fabulous, and then they look for the next big game. I plant seeds and then I spend all of my time cultivating them." — Russo
 
 "The world changes. This is the biggest problem in markets." — Miller
 
