@@ -13,7 +13,10 @@ tags: ["investing", "valueinvesting"]
   - organize valuation components by underlying strategic assumption: no competitive advantage -> growing competitive advantage
 - "The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress". Another way to think about is to focus on great company at fair price
 - the problem with the present value method is that it is a terminal value calculation as of today, and it does not avoid the problems with terminal calculation (terminal value is the value of a company's cash flows projected beyond the end of year 10, when the cash flow grows perpetually at a constant proportional rate)
-
+- discounted cash flows models problems
+  - companies grow at vastly different levels and rates
+  - **it is a rule for translating between the assumptions that you can make reliably about the future and the present day value of the security**
+  - **combining bad information with good information and you are not using assumptions you can make but you are also throwing away information that is on the balance sheet**
 - earnings power value technique
   - the value of assets a competitor will be required to have in order to achieve the same market value of incumbent company in the industry
   - earnings power value calculated based on current financial status where the resulting intrinsic value ignores business cycles
@@ -28,8 +31,42 @@ tags: ["investing", "valueinvesting"]
   - not all value is measure by you
   - where do I have the advantage
   - **great investors focus on specific opportunities in concentrated ways**
+- value investing rests on 3 key characteristics of financial markets
+  - emotionalism and short-term thinking rule market prices in the short-run
+  - financial assets do have underlying or fundamental economic values that are relatively stable and can be measured by diligent and disciplined investor. Price and value often diverge
+  - a strategy of buying when prices are 33% to 50% below the calculated intrinsic value will produce superior returns in the long-run. The size of the gap between price and value is the "margin of safety"
+- when you identify a statistical irregularity, you want to be able to explain it with an enduring rational to individual and institutional behavior.
+  - institutional bias
+    - herding: money managers do not want to stray too far from the performance of indexes or "me-too" manager will jump on bandwagon as other people buy and drive stocks up to high P/Es
+    - window-dressing: buy the best acting stocks near or before the end of quarter so you have more positive stocks to show investors
+    - block-busters: people will be overly focused on looking for next blockbuster stock like microsoft. You want to be on the other side of their trade.
+  - individual bias
+    - loss aversion: People will gamble to avoid a sure loss. People will take on more loss to avoid sure loss
+    - lotteries: people like to buy lottery tickets and get rich quick, that is why people love buying glamour stocks
+    - hindsight bias: people think they know what is going on. They don't remember what they really did.
+- set up a data collection and search strategy to find disappointing cheap stocks or where there is a temporary supply/demand imbalance. You want a less well informed, less rational person than you on the other side of the trade.
+- look at insiders
+  - who is buying and selling the stock, insiders, management, and investors.
+- **search criteria: where are the unreflective sellers**
+  - obscure: small caps, spin-offs, post bankruptcy, boring with low analyst coverage
+  - industry problems are your friend as long as you know the industry is viable.
+  - undesirable:
+    - financial distress, bankruptcy, low growth, low P/E, low M/B,
+    - boring is your friend
+    - industry problems (bad loans, regulatory threat, overcapacity)
+    - company problem (lawsuit, poor subsidiary performance, poor year)
+    - disappointing (long-term underperformance)
+    - other supply, demand imbalance - RTC dumping indiscriminately, eastern europe dumping privatization, index deletions.
+  - for large cap global stocks, you are in tough competition.
+    - you would like to be the only one seriously studying a particular security or one of a few people.
+  - **if you do nothing, but eliminate the high glamour growth stocks you get another one or two percent**
+    - **inherent institutional and individual biases create ongoing opportunities and glamour stocks (high growth high P/E)**
+- look for companies with sustainable competitive advantages
+  - **you want a management that understands the source of of the company's competitive advantage and will protect it and not tie it to competitive disadvantages or negative synergies in other segment the way Apple did**
+
 ## valuation strategy
-- start with tangible assets
+- is this industry viable or not?
+- view tangible assets at liquidation costs
   - it's the most reliable information.
   - if the industry is not viable and the company going to get liquidated, you would want to see the valuation in liquidation and that is closely tied to assets.
 
@@ -38,18 +75,42 @@ tags: ["investing", "valueinvesting"]
   - [asset reproduction value analysis](https://www.oldschoolvalue.com/stock-valuation/how-to-asset-reproduction-value-analysis/)
 
 - the second most reliable measure of a firm's intrinsic value is the value of its current earnings, properly adjusted. This value can be estimated with more certainty than future earnings or cash flows, and it is more relevant to today's values than are earnings in the past.
+  - earnings, if they are sustainable, are supported by assets or barriers to entry.
 
 - Unless there is something to interfere with this process of entry, sooner or later the market value of the company will be driven down to the reproduction value of the assets. *Reversion to the Mean or the Uniformity of One Price*
 - If you have EPV in excess of reproduction value (AV) of the assets, there had better be something to interfere with the process of entry such as competitive advantage such as barriers of entry, etc...
   - **then and only then you should worry about growth**
+    - **the only case where growth has value is where the growth occurs behind the protection of an identifiable competitive advantage**
+    - **growth only has value if it is a strong franchise**
   - You have to adjust for any accounting shenanigans that are going on, you have to adjust for the cyclical situation, for the tax situation that may be short-lived, for excess depreciation over the cost of maintenance capital expense (MCX). And really for anything else that is going on that is causing current earnings to deviate from long run sustainable earnings. So **valuation is calculated by a company’s long-run sustainable earnings multiplied by 1/cost of capital**.
 - AV > EPV
-  - <???>
+  - likely value lost due to poor management
 - AV = EPV
   - It tells a story of an industry that is in balance. It is exactly what you would expect to see if there were no barriers-to- entry.
+- accounts receivable can be valued at book value, although in liquidation, you will recover 90% to 95% of it.
+- good management always adds value to the assets not already embedded in the earnings. Bad management subtracts value from the assets.
+- growth is valued separately since growth is where all the uncertainty resides and you want to segregate that uncertainty from what you know.
 - Growth is relatively rarely valuable in the long run. **Growth at a competitive disadvantage has negative value**
   - **The only case where growth has value is where the growth occurs behind the protection of an identifiable competitive advantage**.
-  - There is usually **stable market share** which is symptomatic of that last situation that means in the long run,the company will grow at the industry rate. Andin the long run, almost all industries grow at the rate of global GDP
+  - There is usually **stable market share** which is symptomatic of that last situation that means in the long run,the company will grow at the industry rate. And in the long run, almost all industries grow at the rate of global GDP
+- value of growth
+  - verify the existence of a franchise
+  - identify the cash distributions in terms of dividends and buybacks
+  - don't overestimate growth once the company is out of its rapid growth phase.
+- **competitive analysis**
+  - Michael Porter's 5 forces that effect the operations
+  - the dominant force determining whether this is good business or not: entrants and expansion.
+  - the companies who have sustainable competitive advantages are the ones like MSFT and INTI, WMT, CISCO who focus on narrow segments on geographical space or product space and dominate those particular segments
+  - lower cost structure
+  - customer captivity due to habits, search costs or switching costs
+  - globalization and large, fast growth is the enemy of competitive advantage and profitability.
+  - your local infrastructure in relation to the size of the market will determine your regional economies of scale.
+
+## review process
+
+key issues, collateral evidence, personal biases
+
+## manage risk
 
 # Graham and Dodd's approach
 
@@ -535,6 +596,7 @@ truth seeker
 - what is your default strategy when there is nothing to do?
   - buy the market in an index fund vs cash?
   - what does the absence of opportunity tell you
+- why are you the only one seeing this opportunity?
 
 # Stock Hedging Strategies
 ## low correlation alternatives
