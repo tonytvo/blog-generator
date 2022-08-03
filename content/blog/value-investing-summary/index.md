@@ -23,7 +23,7 @@ tags: ["investing", "valueinvesting"]
   - growth is usually ignored in this valuation technique
   - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
-
+- Value investors consider the three sources of intrinsic value to be the reproduction cost of the company's assets, the current earnings power of any franchise, and the value of its earnings growth within that franchise. The most difficult aspect to value is the worth of future earnings growth
 ## search strategy
 - "every time you sell stock, someone else is buying that security. **One person on one side of the trade is always wrong**"
 - **You have to know what you know and what you don't know**
