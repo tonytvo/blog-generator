@@ -49,43 +49,49 @@ tags: ["investing", "business"]
 - By 1932, United Fruit stock had collapsed — $100/share in 1929 were trading at $10.25 in 1932. UF management was doing everything to lower costs, save their jobs, and it threatened the companies survival.
 - Zemurray led and won a proxy fight for control of United Fruit in 1933. He went door to door talking shareholders and collecting their votes to oust management. Time reported the meeting this way: "One day last summer Samuel ("Sam") Zemurray of New Orleans strode belligerently into a room at No. 1 Federal Street, Boston, where the directors of the potent, far-flung United Fruit Co. were holding a meeting. Down on the long table from his old enemy, President Victor Macomber Cutter, he flung a handful of proxies. Said he: "You’ve been fucking up this business long enough. I’m going to straighten it out.""
 - He would remake United Fruit in the image of Cuyamel by cutting out bureaucratic overlap and waste. He said, "I realized that the greatest mistake the United Fruit management had made was to assume it could run its activities in many tropical countries from an office on the 10th floor of a Boston office building… The management had tried to tell every executive in every country exactly what he must do and how he must do it. Executives on the spot were treated like messenger boys. I completely reversed that policy. I laid down what might be called a constitution for the company. This constitution provided for a maximum of home rule in the field. It was established as a fixed policy that if [a plantation manager] could not handle his difficulties reasonably satisfactorily, we would appoint some man who could." He sold ships, rented space in other ships, left fields farrow to control prices, diversified into other products like sugarcane, pineapples, and quinine trees.
-By 1933, sentiment on United Fruits stock was turning, the price was up to $26/share.
+- By 1933, sentiment on United Fruits stock was turning, the price was up to $26/share.
 Zemurray would lead the company until 1951. He sold all his shares of United Fruit upon retirement.
-Banana Facts:
-The banana tree is an herb, not a tree.
-It can grow up to 20 inches in a day in perfect conditions, up to 30 feet tall.
-It’s the largest plant without a woody trunk, that grows from a rhizome.
-The bananas — the fruit — come at the end of a cycle. It can bear fruit year round.
-Bananas are a type of berry.
-The trees only bear fruit (i.e. berries — bananas) in the tropics, with two exceptions — Iceland, on a volcano’s slope, and Israel, for a yet unknown reason.
-The rhizome, much like a potato, can be divided up and replanted to grow more banana trees.
-There are no seeds. To get more trees, you split the rhizome and replant each cutting. In that sense, each rhizome cutting is a clone of the primary tree.
-The rhizome cuttings — the cloning — are its great strength and weakness from a business perspective.
-Strength: cheap, low-cost production growth with total uniformity between plants.
-Weakness: highly susceptible to disease. Since every banana tree is a clone, if one tree is susceptible, all species of that type are susceptible. There’s also poor weather (natural disasters) to deal with.
-The Big Mike was the first species of banana to be imported on a mass scale and the first to be wiped out by disease.
-The Cavendish species is currently the mass import and also battling extinction.
-United Fruit Facts:
-Also known as El Pulpo, the Octopus, because its tentacles reached everywhere.
-Founded in 1885, as Boston Fruit, by Lorenzo Baker, Andrew Preston, and 10 other investors who put up about $1,500 each.
-By 1897, Boston Fruit had $4 million in assets and couldn’t keep up with demand.
-Boston Fruit turned bananas into a volume business. Low prices were key to sales and lack of supply risked higher prices — the only way to control prices was to get much bigger.
-By 1899 — the worst year for bananas — Boston Fruit controlled 75% of the market. And it wasn’t big enough. It needed to diversify across different regions to protect itself from a repeat of 1899.
-On March 30, 1899, United Fruit was born. Boston Fruit merged with Keith Minor’s Tropical Trading & Transport Company, giving the company $20 million, 212,349 acres across 6 countries, and 184,000 unsold shares to entice independent companies to join United Fruit. 27 small companies seized on the offer of security with United Fruit in the first 6 months.
-United Fruit purposely kept its ownership in the independent banana companies to 49%, to avoid anti-trust concerns.
-By 1908, it shipped 60% of all bananas to the US, 36 million stems.
-The first anti-trust lawsuit against United Fruit reached the Supreme Court in 1909 and failed. Too much of United Fruit’s business, being done overseas, couldn’t be judged by US law alone. The majority opinion in a nutshell: local law (non-US) allowed it so it wasn’t unlawful. Any other decision would have had an unknown ripple effect across multiple countries.
-By 1910, the company owned 115 ships (one of the largest navies in the world) that carried not only bananas but mail and cargo of Central America. The company had the power to control the region just by shutting down the ships.
-The 1929 merger with Cuyamel Fruit, gave United Fruit 68% market share.
-The company would hit its peak around 1940, under Zemurray’s leadership, with a workforce of 100,000.
-United Fruit orchestrated a successful coup (under Zemurray) in Guatemala, with the backing of the US government, in 1954. It triggered the beginning of the end for the company.
-"At the time of the coup, U.F. led its industry by every measure: in profits, market share, volume (and it wasn’t even close). Within a generation, it would trail Standard Fruit in nearly every category. The overthrow had all the ingredients of irony: meant to prevent the establishment of a Communist beachhead in the hemisphere, it would help create just such a beachhead in Cuba. Meant to make Guatemala friendly for the company, it would engender such hostility that the company was eventually forced to abandon the isthmus altogether."
-Antitrust laws hit the company again in 1958. The company lost. The agreed settlement would create a competitor at 1/3 the size of UF in Guatemala. UF would have to sell 33% of its assets to an independent company — Del Monte, #3 in market share, became the buyer.
-It dropped out of first place in market share within a few years and the company would spiral from there.
-"A corporation ages like a person. As the years go by and the founders die off, making way for the bureaucrats of the second and third generations, the ecstatic, risk-taking, just-for-the-hell-of-it spirit that built the company gives way to a comfortable middle age. Where the firm had been forward-looking and creative, it becomes self-conscious in the way of a man, pestering itself with dozens of questions before it can act. How will it look? What will they say? If the business is wealthy and strong, the executives who come to power in these later generations will be characterized by the worst kind of self-confidence: they think the money will always be there because it always has been."
-"The company brain is hardwired. Which is why a corporation, though conceivably immortal, tends to have a life span, tends to age and die. Unless remade by a new generation of pioneers—in which case it’s a different company—most corporations do not outlive the era of their first success. When the ideas and assumptions prevalent at the time of their founding go out of fashion, the company fades."
+- Banana Facts:
+  - The banana tree is an herb, not a tree.
+  - It can grow up to 20 inches in a day in perfect conditions, up to 30 feet tall.
+  - It’s the largest plant without a woody trunk, that grows from a rhizome.
+  - The bananas — the fruit — come at the end of a cycle. It can bear fruit year round.
+  - Bananas are a type of berry.
+  - The trees only bear fruit (i.e. berries — bananas) in the tropics, with two exceptions — Iceland, on a volcano’s slope, and Israel, for a yet unknown reason.
+  - The rhizome, much like a potato, can be divided up and replanted to grow more banana trees.
+  - There are no seeds. To get more trees, you split the rhizome and replant each cutting. In that sense, each rhizome cutting is a clone of the primary tree.
+  - The rhizome cuttings — the cloning — are its great strength and weakness from a business perspective.
+  - Strength: cheap, low-cost production growth with total uniformity between plants.
+  - Weakness: highly susceptible to disease. Since every banana tree is a clone, if one tree is susceptible, all species of that type are susceptible. There’s also poor weather (natural disasters) to deal with.
+  - The Big Mike was the first species of banana to be imported on a mass scale and the first to be wiped out by disease.
+  - The Cavendish species is currently the mass import and also battling extinction.
+- United Fruit Facts:
+  - Also known as El Pulpo, the Octopus, because its tentacles reached everywhere.
+  - Founded in 1885, as Boston Fruit, by Lorenzo Baker, Andrew Preston, and 10 other investors who put up about $1,500 each.
+  - By 1897, Boston Fruit had $4 million in assets and couldn’t keep up with demand.
+  - Boston Fruit turned bananas into a volume business. Low prices were key to sales and lack of supply risked higher prices — the only way to control prices was to get much bigger.
+  - By 1899 — the worst year for bananas — Boston Fruit controlled 75% of the market. And it wasn’t big enough. It needed to diversify across different regions to protect itself from a repeat of 1899.
+  - On March 30, 1899, United Fruit was born. Boston Fruit merged with Keith Minor’s Tropical Trading & Transport Company, giving the company $20 million, 212,349 acres across 6 countries, and 184,000 unsold shares to entice independent companies to join United Fruit. 27 small companies seized on the offer of security with United Fruit in the first 6 months.
+  - United Fruit purposely kept its ownership in the independent banana companies to 49%, to avoid anti-trust concerns.
+  - By 1908, it shipped 60% of all bananas to the US, 36 million stems.
+  - The first anti-trust lawsuit against United Fruit reached the Supreme Court in 1909 and failed. Too much of United Fruit’s business, being done overseas, couldn’t be judged by US law alone. The majority opinion in a nutshell: local law (non-US) allowed it so it wasn’t unlawful. Any other decision would have had an unknown ripple effect across multiple countries.
+  - By 1910, the company owned 115 ships (one of the largest navies in the world) that carried not only bananas but mail and cargo of Central America. The company had the power to control the region just by shutting down the ships.
+  - The 1929 merger with Cuyamel Fruit, gave United Fruit 68% market share.
+  - The company would hit its peak around 1940, under Zemurray’s leadership, with a workforce of 100,000.
+  - United Fruit orchestrated a successful coup (under Zemurray) in Guatemala, with the backing of the US government, in 1954. It triggered the beginning of the end for the company.
+  - "At the time of the coup, U.F. led its industry by every measure: in profits, market share, volume (and it wasn’t even close). Within a generation, it would trail Standard Fruit in nearly every category. The overthrow had all the ingredients of irony: meant to prevent the establishment of a Communist beachhead in the hemisphere, it would help create just such a beachhead in Cuba. Meant to make Guatemala friendly for the company, it would engender such hostility that the company was eventually forced to abandon the isthmus altogether."
+  - Antitrust laws hit the company again in 1958. The company lost. The agreed settlement would create a competitor at 1/3 the size of UF in Guatemala. UF would have to sell 33% of its assets to an independent company — Del Monte, #3 in market share, became the buyer.
+  - It dropped out of first place in market share within a few years and the company would spiral from there.
+- "A corporation ages like a person. As the years go by and the founders die off, making way for the bureaucrats of the second and third generations, the ecstatic, risk-taking, just-for-the-hell-of-it spirit that built the company gives way to a comfortable middle age. Where the firm had been forward-looking and creative, it becomes self-conscious in the way of a man, pestering itself with dozens of questions before it can act. How will it look? What will they say? If the business is wealthy and strong, the executives who come to power in these later generations will be characterized by the worst kind of self-confidence: they think the money will always be there because it always has been."
+- "The company brain is hardwired. Which is why a corporation, though conceivably immortal, tends to have a life span, tends to age and die. Unless remade by a new generation of pioneers—in which case it’s a different company—most corporations do not outlive the era of their first success. When the ideas and assumptions prevalent at the time of their founding go out of fashion, the company fades."
 
 # Quotes
+
+"A corporation ages like a person. As the years go by and the founders die off, making way for the bureaucrats of the second and third generations, the ecstatic, risk-taking, just-for-the-hell-of-it spirit that built the company gives way to a comfortable middle age. Where the firm had been forward-looking and creative, it becomes self-conscious in the way of a man, pestering itself with dozens of questions before it can act. How will it look? What will they say? If the business is wealthy and strong, the executives who come to power in these later generations will be characterized by the worst kind of self-confidence: they think the money will always be there because it always has been."
+
+"The company brain is hardwired. Which is why a corporation, though conceivably immortal, tends to have a life span, tends to age and die. Unless remade by a new generation of pioneers—in which case it’s a different company—most corporations do not outlive the era of their first success. When the ideas and assumptions prevalent at the time of their founding go out of fashion, the company fades."
+
+"At the time of the coup, U.F. led its industry by every measure: in profits, market share, volume (and it wasn’t even close). Within a generation, it would trail Standard Fruit in nearly every category. The overthrow had all the ingredients of irony: meant to prevent the establishment of a Communist beachhead in the hemisphere, it would help create just such a beachhead in Cuba. Meant to make Guatemala friendly for the company, it would engender such hostility that the company was eventually forced to abandon the isthmus altogether."
 
 "Zemurray had stumbled on a niche: ripes, overlooked at the bottom of the trade. It was logistics. Could he move the product faster than the product was ruined by time? This work was nothing but stress, the margins ridiculously small (like counterfeiting dollar bills), but it was a way in. Whereas the big fruit companies monopolized the upper precincts of the industry — you needed capital, railroads, and ships to operate in greens — the world of ripes was wide open."
 
