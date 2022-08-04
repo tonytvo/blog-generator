@@ -56,7 +56,7 @@ tags: ["valueinvesting", "investing"]
 
 “The key to maximizing returns is to maximize our chance at mean reversion. That means maximizing the margin of safety. We want the most undervalued stocks. And we want to make sure they survive to mean revert.”
 
-“Activists focus on excess cash because too much can hurt a company’s value.”
+Activists focus on excess cash because too much can hurt a company’s value.
 
 # References
 - https://novelinvestor.com/notes/the-acquirers-multiple-by-tobias-carlisle/
