@@ -54,7 +54,7 @@ tags: ["valueinvesting", "investing"]
 
 “The most surprising result of Buffett’s theory of value. Not all growth is good. Only businesses earning profits better than the rate required by the market should grow. Businesses with profits below that rate turn dollars in earnings into cents on the dollar in business value. The owner of the good business wants the business to reinvest and grow because that growth is profitable. The owner of the bad business wants all the earnings paid out because the growth destroys value. Alas, good business can’t absorb much extra capital without profits going down. And bad businesses need all earnings reinvested just to keep up with inflation. For a business to be worth more than its invested capital, it must maintain a profit greater than the market requires.”
 
-“The key to maximizing returns is to maximize our chance at mean reversion. That means maximizing the margin of safety. We want the most undervalued stocks. And we want to make sure they survive to mean revert.”
+The key to maximizing returns is to maximize our chance at mean reversion. That means maximizing the margin of safety. We want the most undervalued stocks. And we want to make sure they survive to mean revert.
 
 Activists focus on excess cash because too much can hurt a company’s value.
 
