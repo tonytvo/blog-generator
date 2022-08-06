@@ -234,7 +234,7 @@ taking a cold shower before bed can also help improve your sleep cycle.
 
 Even if you are predisposed to being overweight, you're not predestined to be fat.
 
-"For a long time, I've known that the key to getting started down the path of being remarkable in anything is to simply act to be remarkable"
+For a long time, I've known that the key to getting started down the path of being remarkable in anything is to simply act to be remarkable
 
 "magnesium and calcium are easiest to consume in pill form, and 500 milligrams of magnesium taken before bed will also improve sleep."
 
