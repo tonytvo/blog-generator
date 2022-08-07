@@ -13,8 +13,8 @@ tags: ["investing", "valueinvesting"]
 - "‘Fools,’ said Bismarck, ‘say they learn by experience. I prefer to profit by other people’s experience.'"
 - Learning from personal experience should come second to learning from the experience of others since there are thousands of years to draw from.
 - Polybius: "There are two roads to the reformation for mankind — one through misfortunes of their own, the other through the misfortunes of others; the former is the most unmistakable, the latter the less painful…the knowledge gained from the study of true history is the best of all educations for practical life."
-- What we often mistake as a leader’s moment of brilliance in victory (on the battlefield) is really do to a long-ago development, innovation, or change in practice for the better that is finally executed in battle. Or, in case of the loser, a deterioration in practice.
-- It’s important not to discount the role mood, morale, and emotional of the people plays in the cause of events.
+- What we often mistake as a leader’s moment of brilliance in victory (on the battlefield) is really due to a long-ago development, innovation, or change in practice for the better that is finally executed in battle. Or, in case of the loser, a deterioration in practice.
+- It’s important not to discount the role of mood, morale, and emotional of the people plays in the cause of events.
 - It’s human nature to paint people, including ourselves, in a better or worse light all time. History is filled with "leaders" willing to fudge their accounts of battle or write orders for false battles to save, maintain, or improve their reputations. They hide their faults. And if the leaders weren’t doing it, the possibility someone else — biased historians or subordinates looking to improve their position — did it for them.
 - "A sound rule of historical evidence is that while assertions should be treated with critical doubt, admissions are likely to be reliable. If there is one saying that embodies a general truth it is "No man is condemned save out of his own mouth." By applying this test we can go a long way toward a clear verdict on history and on history in the making."
 - Loyalty to the truth should be the ultimate goal of the historian and the reader.
@@ -45,7 +45,7 @@ tags: ["investing", "valueinvesting"]
 
 "A sound rule of historical evidence is that while assertions should be treated with critical doubt, admissions are likely to be reliable. If there is one saying that embodies a general truth it is "No man is condemned save out of his own mouth." By applying this test we can go a long way toward a clear verdict on history and on history in the making."
 
-"The most dangerous of all delusions are those that arise from the adulteration of history in the imagined interests of national and military morale. Although this lesson of experience has been the hardest earned, it remains the hardest to learn. Those who have suffered most show their eagerness to suffer more."
+The most dangerous of all delusions are those that arise from the adulteration of history in the imagined interests of national and military morale. Although this lesson of experience has been the hardest earned, it remains the hardest to learn. Those who have suffered most show their eagerness to suffer more.
 
 "The cause of most troubles can be traced to excess; the failure to check them to deficiency; their prevention lies in moderation."
 
