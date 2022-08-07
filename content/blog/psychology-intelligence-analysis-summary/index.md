@@ -9,8 +9,8 @@ tags: ["investing", "valueinvesting"]
 - The book is based on a collection of articles written by Heuer for the CIA to help analysts better understand how they process information involving uncertainty.
 - 3 Points (via Jack Davis in the Intro)
   - The human mind is not wired to handle uncertainty well.
-    - Knowing biases exist, even being warned about a bias, is little help in avoiding said biases.
-    - Processes can be created that help offset these biases while working through complex problems.
+   - Knowing biases exist, even being warned about a bias, is little help in avoiding said biases.
+   - Processes can be created that help offset these biases while working through complex problems.
 - Humans handle complexity terribly. So we developed shortcuts — simple rules of thumb or mental models — to help navigate complex information. The shortcuts work but within limits.
 - The shortcuts — mental models, etc. — often determine how we interpret and organize information.
 - Our education, culture, past experience, assumptions, preconceived ideas, etc. also impact how we process and interpret information.
