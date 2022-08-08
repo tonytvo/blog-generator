@@ -32,7 +32,7 @@ tags: ["investing", "valueinvesting"]
     - Becomes a bigger problem when information is sparse or nonexistent and new information trickles in — form the wrong conclusion early based on sparse info, don’t change your mind as new info rolls in…until it’s too late.
     - One solution is to try to withhold judgment as long as possible or as long as new information is coming in.
 - Our accuracy takes the biggest hit when dealing with highly complex, ambiguous situations.
-"Intelligence seeks to illuminate the unknown."
+- "Intelligence seeks to illuminate the unknown."
 - Our preconceptions make being objective practically impossible.
 
 - 3 Ways to Learn:
@@ -201,7 +201,7 @@ tags: ["investing", "valueinvesting"]
 
 "To get over this, my way is to divide half a sheet of paper by a line into two columns; writing over the one Pro, and over the other Con. Then, during three or four days of consideration, I put down under the different heads short hints of the different motives, that at different times occur to me, for or against the measure. When I have thus got them all together in one view, I endeavor to estimate their respective weights; and where I find two, one on each side, that seem equal, I strike them both out. If I find a reason pro equal to some two reasons con, I strike out the three…and thus proceeding I find at length where the balance lies; and if, after a day or two of further consideration, nothing new that is of importance occurs on either side, I come to a determination accordingly. And, though the weight of reasons cannot be taken with the precision of algebraic quantities, yet when each is thus considered, separately and comparatively, and the whole lies before me, I think I can judge better, and am less liable to make a rash step, and in fact I have found great advantage from this kind of equation." — Benjamin Franklin
 
-"Minds are like parachutes. They only function when they are open."
+Minds are like parachutes. They only function when they are open.
 
 "A new idea is the beginning, not the end, of the creative process."
 
