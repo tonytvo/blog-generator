@@ -89,7 +89,7 @@ tags: ["investing", "valueinvesting"]
 - Learning to make better decisions requires constant feedback. Assess past decisions by linking accuracy in a decision with variables used to come to the decision. This works when the outcomes can be easily tied to specific variables, like in blackjack. In complex systems, with hundreds or thousands of variables involved, this can be difficult to impossible.
 
 - Most analysis fails because we confuse signal for noise. Relevant information is discounted, misinterpreted, ignored, because of biases. Our biases limit how we view information.
-- How to Stay Objective:
+- **How to Stay Objective:**
   - Sensitivity Analysis — Question assumptions. Try to disprove them. Ask what would make your assumptions out of date? Has it already happened? What would make you change your mind? If you fail to come up with an answer then your mind isn’t open.
   - Identify Alternatives — Seek out people who disagree with you.
   - Avoid Mirror-Images — Don’t assume that others will think or behave in the same way as you. Avoid the "If I were so and so, they would do X, Y, and Z."
@@ -227,7 +227,7 @@ Minds are like parachutes. They only function when they are open.
 
 "Objectivity is gained by making assumptions explicit so that they may be examined and challenged, not by vain efforts to eliminate them from analysis."
 
-"The simultaneous evaluation of multiple, competing hypotheses permits a more systematic and objective analysis than is possible when an analyst focuses on a single, most-likely explanation or estimate."
+The simultaneous evaluation of multiple, competing hypotheses permits a more systematic and objective analysis than is possible when an analyst focuses on a single, most-likely explanation or estimate.
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/psychology-of-intelligence-analysis-by-richards-j-heuer-jr/)
