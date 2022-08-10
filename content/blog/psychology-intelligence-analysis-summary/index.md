@@ -5,32 +5,32 @@ description: "Psychology of Intelligence Analysis by Richards summary"
 tags: ["investing", "valueinvesting"]
 ---
 
-- Humans handle uncertainty poorly. Richard Heuer explains how inherent biases in our thought process work against us, that knowing about the biases is no help, but processes can be built to improve our critical thinking.
+- Humans handle uncertainty poorly. Richard Heuer explains how inherent biases in our thought process work against us, and that knowing about the biases is no help. Still, processes can be built to improve our critical thinking.
 - The book is based on a collection of articles written by Heuer for the CIA to help analysts better understand how they process information involving uncertainty.
 - 3 Points (via Jack Davis in the Intro)
   - The human mind is not wired to handle uncertainty well.
   - Knowing biases exist, even being warned about a bias, is little help in avoiding said biases.
   - Processes can be created that help offset these biases while working through complex problems.
-- Humans handle complexity terribly. So we developed shortcuts — simple rules of thumb or mental models — to help navigate complex information. The shortcuts work but within limits.
+- Humans handle complexity terribly. So we developed shortcuts — simple rules of thumb or mental models — to help navigate complex information. The shortcuts work but are within limits.
 - The shortcuts — mental models, etc. — often determine how we interpret and organize information.
-- Our education, culture, past experience, assumptions, preconceived ideas, etc. also impact how we process and interpret information.
+- Our education, culture, experience, assumptions, preconceived ideas, etc., impact how we process and interpret information.
 - Major paradigm shifts mean that those that know the most about a subject — the experts — have the most to unlearn.
 - 4 Principles of Perception:
   - "**We tend to perceive what we expect to perceive**. A corollary of this principle is that it takes more information, and more unambiguous information, to recognize an unexpected phenomenon than an expected one."
-    - An Experiment: A classic experiment showed how expectations influenced perception. Playing cards were altered so that some (not all) spades were red and hearts were blacks. Pictures of the cards were briefly flashed in front of test subjects. The subjects identified the unaltered cards quickly and accurately but the unaltered cards gave them trouble. Even after becoming aware that some spades were red and hearts black, their recognition was still slower than with the normal cards. It shows how expectations (of black spades and red hearts) can be so deeply embedded that it influences perception, despite knowing the data was manipulated.
-    - In other words, we’re so good at pattern recognition that we have a hard time recognizing when patterns have changed, and have a hard time unlearning the patterns once we know it’s changed. Expectations trick our subconscious mind to see what should be there, not what is there.
+    - An Experiment: A classic experiment showed how expectations influenced perception. Playing cards were altered so that some (not all) spades were red and hearts were black. Pictures of the cards were briefly flashed in front of test subjects. The subjects identified the unaltered cards quickly and accurately, but the unaltered cards gave them trouble. Even after becoming aware that some spades were red and hearts black, their recognition was still slower than with the normal cards. It shows how expectations (of black spades and red hearts) can be so deeply embedded that it influences perception, despite knowing the data was manipulated.
+    - In other words, we’re so good at pattern recognition that we have a hard time recognizing when patterns have changed and have a hard time unlearning the patterns once we know it’s changed. Expectations trick our subconscious into seeing what should be there, not what is there.
     - "People have no conceivable way of coping with the volume of stimuli that impinge upon their senses, or with the volume and complexity of the data they have to analyze, without some kind of simplifying preconceptions about what to expect, what is important, and what is related to what."
   - **"Mindsets tend to be quick to form but resistant to change."**
-    - Once we have a pattern in our head, it’s hard to unlearn it or replace it with new information.
+    - Once we have a pattern in our head, it’s hard to unlearn or replace it with new information.
   - **"New information is assimilated to existing images."**
-    - Slow or gradual change often goes unnoticed. Past experience can be a handicap.
+    - Slow or gradual change often goes unnoticed. Experience can be a handicap.
     - "One of the more difficult mental feats is to take a familiar body of data and reorganize it visually or mentally to perceive it from a different perspective."
-    - Once we’ve experienced something, like an event, in a particular way, we resist interpreting it any differently.
+    - Once we’ve experienced something, like an event, in a particular way, we resist interpreting it differently.
   - **"Initial exposure to blurred or ambiguous stimuli interferes with accurate perception even after more and better information becomes available."**
-    - An Experiment: People were shown pictures of everyday items. The pictures were initially shown out of focus but gradually brought into focus. Those who initially saw the images at the most out of focus had a harder time recognizing the items as the image become clearer than those who were initially shown a less out of focus image. Longer exposure to a blurred image also required a clearer image to recognize the item. In other words, people form an expectation of what something might be, confidence in their expectation grows with longer exposure, making changing our minds more difficult when faced with new information.
-    - "People form impressions on the basis of very little information, but once formed, they do not reject or change them unless they obtain rather solid evidence."
+    - An Experiment: People were shown pictures of everyday items. The pictures were initially shown out of focus but gradually brought into focus. Those who initially saw the images as the most out of focus had a harder time recognizing the items as the image became clearer than those who initially showed a less out-of-focus image. Longer exposure to a blurred image also required a clearer image to recognize the item. In other words, people form an expectation of what something might be, and confidence in their expectation grows with longer exposure, making changing our minds more difficult when faced with new information.
+    - "People form impressions based on very little information, but once formed, they do not reject or change them unless they obtain rather solid evidence."
     - Becomes a bigger problem when information is sparse or nonexistent and new information trickles in — form the wrong conclusion early based on sparse info, don’t change your mind as new info rolls in…until it’s too late.
-    - One solution is to try to withhold judgment as long as possible or as long as new information is coming in.
+    - One solution is to withhold judgment as long as possible or as long as new information comes in.
 - Our accuracy takes the biggest hit when dealing with highly complex, ambiguous situations.
 - "Intelligence seeks to illuminate the unknown."
 - Our preconceptions make being objective practically impossible.
