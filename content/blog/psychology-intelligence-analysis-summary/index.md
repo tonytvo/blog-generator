@@ -39,29 +39,31 @@ tags: ["investing", "valueinvesting"]
   - By Rote: frequent repetition until it can be repeated from memory.
   - By Assimilation: teaching new information by tying it to previously learned information.
   - By Mnemonic Device: a way of organizing information to make it easier to remember.
-- The best way to deal with complex problems is to externalize it. Write it out. Break the problem down into parts, then work through each individual part, while keeping sight of the whole problem.
-- Our memory is affected by the order we learn something, the amount of time we spend on something, the credibility of the information, and the importance of it when we learned it.
+- The best way to deal with complex problems is to externalize them. Write it out. Break the problem into parts, then work through each while keeping sight of the whole problem.
+- Our memory is affected by the order we learn something, the amount of time we spend on something, the credibility of the information, and the importance of it when we learn it.
 - Uncertainty means always dealing with incomplete knowledge.
+
 - How Analysts Generate and Evaluate Hypotheses:
   - Situational Logic:
-    - Start with known facts about the current situation, then identify the consequences.
+    - Start with facts about the current situation, then identify the consequences.
     - Deals with tracing cause-effect or means-ends relationships.
-    - Weakness: 1) Difficult to figure out how other people might think or behave because we assume they do so like us. 2) Fails to consider historical knowledge — how things played out in similar past events — because it only focuses on the current situation.
+    - Weakness: 1) It is difficult to figure out how other people might think or behave because we assume they do like us. 2) Fails to consider historical knowledge — how things played out in similar past events — because it only focuses on the current situation.
     - Situational logic is better for estimating short-term outcomes of events.
   - Applying Theory:
     - A theory is formed from many past examples that lead to similar outcomes. It states that given certain conditions, certain results will follow based on a reasonable probability.
     - A theory allows you to quickly separate signals from noise. It helps pick out the important points to a complex problem awash in massive amounts of information. It’s most handy in filtering out unimportant information.
     - Weakness: It often fails to identify time frames in the analysis. It may accidentally filter out important information.
   - Comparison:
-    - It compares the current situation to similar past events in order to understand possible outcomes. The past events help fill gaps where information is unavailable.
+    - It compares the current situation to similar past events to understand possible outcomes. The past events help fill gaps where information is unavailable.
     - Often relies on historical analogies.
     - Unlike a theory, it’s used when the comparison sample size is small.
     - Weakness: 
       - 1) A historical event might be so strong that it influences your view of the outcome from the start. Analysis of the current event will forecast a similar fate to the past event. 
-      - 2) It admits not only to a lack of current information to understand the present problem, but also a lack of historical precedent to understand it.
-      - 3) can lead to misusing historical events, by picking what your most familiar with, by picking the first similar historical event you come across, by lacking historical knowledge, and not researching further.
-    - It’s like dealing with a situation that’s happened once or twice before and the odds of a similar outcome is far from certain.
-    - Comparison is best used to highlight differences, not similarities, in the current problem as it relates to a past event, and not draw conclusions.
+      - 2) It admits to a lack of current information to understand the present problem and a lack of historical precedent.
+      - 3) can lead to misusing historical events by picking what you are most familiar with, by picking the first similar historical event you come across, by lacking historical knowledge, and not researching further.
+    - It’s like dealing with a situation that’s happened once or twice before, and the odds of a similar outcome are far from certain.
+    - Comparison is best used to highlight differences, not similarities, in the current problem as it relates to a past event and not conclude.
+
 - The goal of data/information analysis is to be as objective as possible. It turns out being objective is almost impossible.
 - Following the scientific method — present a theory, then seek to disprove it — leads to objectivity.
 - Less Optimal Decision-Making Strategies (via Alexander George):
