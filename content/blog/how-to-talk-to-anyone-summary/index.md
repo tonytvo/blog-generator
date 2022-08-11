@@ -31,6 +31,9 @@ tags: ["communication", "relationship"]
   - And a murky situation gets even murkier when alcohol is involved. The author believes that alcohol causes people to become myopic. Alcohol makes us disproportionately focus on short-term wants and forget about long-term consequences. Normally, we maintain a balance between the two.
 - There are some ways we can get better, and the best way to start is to stop making assumptions
 - **Humans are ill-equipped to understand strangers. We assume that people tell the truth, so we can’t detect lies. And we believe that we can judge strangers based on little, usually deceptive, information. The result of this misplaced confidence is that we don’t invest enough time and patience in truly listening to and understanding each other.**
+- evolutionary biologist Charles Darwin believed that similar, easily interpreted expressions – of joy, sadness, fear, surprise, and the like – were consistent for all peoples and cultures. In fact, these things actually are not consistent at all, which explains why people can’t accurately gauge strangers’ emotions or intent across – or even within – cultures
+- **Circumstances, Conditions and Context**
+  - Beyond your inability to read strangers’ emotions and your powerful bias to believe what they tell you, Gladwell affirms, you must face up to the additional problem of context. Where and when you meet a stranger, he emphasizes, matters.
 
 ## "Clever Hans, the Counting Horse"
 - In Europe during the halcyon years before World War I, "Clever Hans, the counting horse," was, without a doubt, the most talked-about sensation on the continent. A brilliant entertainer with a unique act, Hans could somehow supply accurate answers to math questions that audience members posed to him. He did so by quickly tapping out the correct answers to any problem – addition, subtraction, multiplication and division – with a hoof. The horse's owner, Herr von Osten, was always by his side while Hans performed these seemingly miraculous feats – but he never spoke to the horse or signaled to him in any way.
@@ -106,6 +109,12 @@ You cannot get ahead unless you know how to speak to people so they will want to
 "There are two kinds of people in this life: Those who walk into a room and say, 'Well, here I am!' And those who walk in and say, 'Ahh, there you are'."
 
 "No man would listen to you talk if he didn't know it was his turn next."
+
+If I can convince you of one thing in this book, let it be this: Strangers are not easy.
+
+When we confront a stranger we have to substitute an idea – a stereotype – for direct experience. And that stereotype is wrong all too often.
+
+We think we can easily see into the hearts of others based on the flimsiest of clues.
 
 # References
 - https://www.amazon.ca/How-Talk-Anyone-Success-Relationships/dp/B07232KF1C
