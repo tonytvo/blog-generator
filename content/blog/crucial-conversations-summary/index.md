@@ -31,7 +31,9 @@ Focus on what you really want to achieve in order to create a productive dialogu
 - The best way to get someone to listen to you is to listen to them first.
 - Reframing a difficult conversation is a great way to defuse it.
 - Pick your difficult conversations carefully. You won’t live long enough to have them all.
-
+- **Difficult conversations are often avoided because you fear the results. The “What Happened?”, Feelings and Identity Conversations can be transformed into Learning Conversations by focusing on curiosity, sharing feelings and refraining from blaming each other. Keeping these things in mind and telling a Third Story will help you and the person you’re talking to have a meaningful conversation**
+- **Pay attention to your inner voice.**
+  - Your inner voice is that little sound in your head that remarks on everything you hear, do and read. Sometimes that voice can grow in volume and overpower the voices of others. Instead of muting it, first, listen to it. This way you’ll discover your true thoughts and train yourself to listen more attentively to others.
 
 # "Crucial conversations" are needed when the outcome is important, when people disagree and when emotions are heated.
 - Crucial conversations are those everyday interactions that significantly affect your life. They differ from ordinary dialogues because the opinions of the participants vary, their emotions are high and the stakes are significant. The way you deal with these important discussions can have a positive or negative result and change the course of your life. Some examples of crucial conversations include breaking up or reconciling with a partner, giving your boss feedback or asking for a pay rise. Often, people shy away from such conversations or handle them poorly. The best way to deal with such situations is to face up to the conversation and handle it with skill.
@@ -135,7 +137,102 @@ Creating this "Pool of Shared Meaning" enables people to make better choices and
 - The third part is about "Identity," which is internal to each person. Are you right or wrong? Are you to blame? Do you deserve love?
 - If the conversation threatens your sense of self, shifting your stance to try to regain your balance is natural, even if it does not help the outcome of the conversation.
 
+# The Complete Truth?
+
+- When you experience conflict in the "what happened" part of a conversation, the battle is usually about whose version of the truth is actually true, who had better intentions and how to assign blame. These ideas are illogical. No one has access to the complete truth. No one can really know another’s intentions. Surmising just makes things worse.
+- In this subconversation, each side is certain that the other side is the problem. Worse still, the participants are equally sure that the other side’s position has no validity and must be abandoned. In reality, both sides have imperfect understandings of the issues, causes and events involved. If they stop to explore the information available, both sides can learn about the other’s perspective and reach an improved outcome. The key isn’t necessarily to synthesize the positions, but to embrace the ideas in both. Try to change your position to a more complex stance that is closer to reality. Even when you are certain you are right, remaining open-minded is worthwhile because the conversation is generally not really about the subject you are so sure that you have nailed.
+- Don’t believe that you understand someone else’s intentions. That is a trap. The other person often doesn’t understand his or her actions either. As you reflect on the intentions you ascribe to others, can you see a touch of self-justification in your judgment? Explaining your pure motives is also a mistake. Don’t assume that because the other person now understands that you meant well, the impact of your act no longer matters. You probably know what it is like to have your intentions impugned because someone is angry about the results. The fact that you did not intend your act to have a negative impact on the other person may teach you a lesson in how to treat others.
+- When you are part of a bad situation, you soon realize how you contributed to the mess. You wish you hadn’t, but you did. If you bring the wrong materials to a major presentation, blaming your assistant for packing the wrong stuff is easy, but don’t you deserve some blame too for not double and triple checking everything before such an important event?
+- Isn’t your real goal to make sure that this kind of mix-up doesn’t happen again? How will making others feel awful and resentful help you get it right next time? Instead, explore each person’s contribution to the problem and try to determine what each of you can do to ensure a better outcome in the future. This is not easy when feelings are running high and the embarrassment is fresh, so wait until you regain control of your emotions.
+- **Turn the “What Happened” Conversation into a Learning Conversation by focusing on curiosity, impact and contribution.**
+  - First, try to figure out where your opponent is coming from. Instead of, “How on earth can this person be so irrational?” think, “Wow, this person looks at the same situation and comes to completely different conclusions. I wonder what her perspective looks like. Does she know something I don’t? Or has she considered aspects I’ve not thought of?” This will steer you away from feeling offended and toward genuine interest when someone disagrees with your opinion
+  - Second, don’t assume the person you’re conversing with has bad intentions. Instead, focus on their actions
+  - Third, stop blaming others and start figuring out everyone’s contribution instead.
+    - Blaming someone else won’t solve anything – it’s a backward-looking tactic that focuses on judgment and incites resentment.
+    - Instead, sit down with the other person and try to work through the situation together. Try asking, “How did the two of us contribute to this mess?” followed by, “What can we both do to change the situation and move forward?”
+
+# use feelings constructively
+
+- Difficult conversations always involve feelings. That is why they are difficult. To avoid the discomfort of dealing with raging emotions and heated words, people block out their feelings. You may fool yourself into thinking you can find an objective emotional space. After all, you see yourself as the unbiased party in this argument, although you may be deceiving yourself. Inevitably, your emotions will break through this wall and compromise your "objectivity." Until you acknowledge your feelings, you will find it almost impossible to listen to the other person.
+
+- Knowing your emotional patterns is important. Even a good person can have inappropriate and destructive emotions. The other party also has emotions that you need to understand.
+Learn to find and comprehend the emotions behind the accusations, blame and judgments. Understand that you can negotiate with your feelings, that you can describe them without giving in to them. Don’t think that expressing your feelings is the same as dealing with them in a constructive way. Dealing with emotions is often what matters most at the end of difficult conversations.
+
+- **Improve the Feelings Conversation by exploring, negotiating and sharing your feelings**
+  - First, let’s find out what’s really happening deep down. You can do this by exploring your emotional footprint. This is your way of reacting emotionally, guided by what you consider ok to express and what you believe is better kept to yourself
+    - Ask yourself questions such as, “How did you learn to categorize some feelings as inappropriate?” “How did you handle feelings as a child?” and “Did your partner scold you for being ‘needy’ when you craved intimacy?”
+  - Next, you have to negotiate those feelings. Feelings aren’t constant – they change depending on our perceptions
+    - Like in the “What Happened?” Conversation, you need to focus on curiosity, impact and contribution.
+    - If you’re constantly arguing with your partner, it might be worthwhile to ask yourself, “Do I make assumptions about his intentions? Do I blame him and ignore my own impact?”
+    - After you address your assumptions, you’ll start to feel differently about the situation
+  - The last step is to share your feelings – both good and bad – in a thoughtful manner.
+    - If you just throw your pent-up emotions at the other person, you’ll make a difficult conversation worse. When it comes to correctly expressing yourself, you need to let both the good and the bad out.
+
+# Sense of Identity
+- You may avoid difficult conversations because you fear the other party’s response could undermine your sense of self in some critical way. Consider the existence of this fear as you think about the difficult conversations you have avoided in the past. Being afraid of hearing the other side challenge your competence, deny your sense that you are a good person, or, worse, assert that you are unworthy of appreciation or love, can lead to paralysis of shattering proportions.
+
+- Explore and understand your complex sense of identity more completely. As you try to determine how the conversation will affect the other party, realize that his or her identity is similarly complex. Give up trying to control other people’s responses, but prepare yourself for their reactions within a range of possibilities. If you can admit that you are imperfect, that your own intentions are mixed and complicated, and that your actions contributed to the problem, you will have taken a big step toward dealing with your identity.
+
+- **Focus on the intricacies of the Identity Conversation and refrain from controlling others’ reactions**
+  - you tend to judge yourself in absolute terms: competent or useless, mean or kind, capable or incapable of being loved. Absolute terms such as these are limiting because nothing’s black and white, and as a result, you can quickly get confused about your own identity
+  - Instead, reflect on the fact that your identity comprises of many components. Think about the different traits that you deem important – characteristics that you’re proud of and afraid of losing
+  - Once you figure out which parts of your identity you value the most, you can begin to build complexities
+  - Another way to enhance the Identity Conversation is by balancing yourself during the talk. To do so, give up the notion that you can control the other person’s reactions. Abandoning that thought makes it easier to focus and remain on course. You might think that if you say something in a particular way your partner won’t get angry. But the truth is you can never predict these reactions. Once you come to terms with that, unexpected reactions won’t be as unsettling
+
+# Choosing Your Conversation
+
+- You simply cannot engage in every difficult conversation that presents itself. You don’t have enough time and most of these confrontations simply aren’t worth the effort. So, how do you pick and choose? No hard and fast rules can help you here. Essentially, you must decide for yourself which difficult conversations are worth the trouble.
+
+- When you consider engaging someone in a difficult conversation, begin with the three sub-conversations – what happened, feelings and identity – and see if your purpose makes sense. If not, don’t pursue it. Ask yourself if the real conflict is personal or if you are trying to solve a temporary problem in a way that will have lingering consequences. Consider alternative methods of dealing with the issue. Perhaps you can do something to relieve the situation that provides a better result than you could get from a conversation.
+
+- One healthy response is simply to learn to let go. Your duty is to step in with your best efforts, not to make the world a better place. You have limitations and so does the other party. Don’t make everything personal. It isn’t always about you, who you are or what you have done. Learn the other party’s story. Express (without venting) your own view on the situation. Share your feelings by describing – not demonstrating – how you feel. Seek to work with the other party to solve the issue together.
+
+# The Third Story
+
+- Don’t jump into a difficult conversation with your eyes closed. This will agitate the other party, who will respond with his or her story and attack yours. Nothing gets heard, nothing gets accomplished and everyone gets upset. Instead, think about both sides and consider the other side’s story without rejecting it outright.
+
+- Now, imagine yourself as a third party who has to try to discern what is actually going on. What you hear as a mediator isn’t either party’s story, but a third story. Once someone recounts the third story, each side feels able to step back and explore the other’s personal account. Now, the participants can share their individual versions without feeling threatened or antagonistic. As you work through such conversations, notice that they aren’t about who is right or wrong; they are about differing information, priorities and perspectives.
+
+- If you can make the other person feel heard and understood, you will resolve a significant number of issues promptly because listening changes the conversation. Instead of resisting other people, you are affirming them and helping them deal with their concerns. If you practice really listening to others – with authentic curiosity – you will learn that it helps others listen to you. If you complain to a professional counselor that someone won’t listen to you, the counselor is likely to tell you to listen more so you can be heard.
+
+- Now you know to start a difficult conversation with the third story rather than stating your own claims. You know how to get other people to listen, by listening to them. Now that you are going to be heard, what do you say? Strive for authenticity rather than eloquence. Believe in your right to speak. If you fail to express yourself, you will not fulfill your objectives for the conversation. However, learning this skill takes time. Do not feel obligated to go beyond your level of comfort.
+Begin with the core issue, be sure your meaning is clear and don’t circle into the conversation. Don’t state your suppositions as final truths. As you talk about them, offer some context about why you believe them. Avoid language that turns your statements into extreme claims. The more you speak from your core, the stronger your conversation will be.
+
+- A good rule of thumb is to never start inside your own story. Your perspective is seldom a good starting point. This is because your story could threaten the self-image of the person you’re talking to
+
+- A Third Story is one told from the view of an impartial observer. It points out the difference between the tales of the two parties involved.
+
+# Everything Works Together
+- As you develop these skills, don’t expect other people to respond to a situation the way you would. Leading the conversation is up to you. Try reframing the discussion in various ways until you find a method that allows the other person to hear and participate. Use your listening skills early and often, and don’t give up.
+- Sometimes reframing and listening aren't enough. So try to work on clearing the air by naming the problem that is keeping you from communicating. This can become a distracting side discussion, but it may be useful if the central conversation has stalled. Once you are having an actual on-topic conversation, even if you can’t agree, you can work together to solve problems, discuss options and propose alternatives. Just don’t rush things or demand a quick solution. You're pursuing a good outcome, not trying to win a race.
+- Use these five principles to guide you as you prepare for your next difficult conversation:
+  - Start your preparation by thinking through the three conversations framework.
+  - Decide whether the conversation is really necessary by considering your purpose in dealing with the problem.
+  - Begin the conversation with the third story, not your story.
+  - Explore the other two stories: the other party’s and yours.
+  - Engage in problem-solving together.
+- If you follow these steps, your difficult conversations may still be challenging, but they will be easier and much more constructive.
+
+
 # Quotes
+
+"As the saying goes, ‘Life is just one damn thing after another.’ It is, of course. And now you have some skills to handle it."
+
+"Reframing means taking the essence of what the other person says and translating it into concepts that are more helpful."
+
+"Explaining your story is clearly a first step toward being understood. But don’t expect instant success."
+
+"There’s nothing wrong with not wanting to hurt someone, or wanting them to like you. Yet holding this as a purpose in the conversation leads to trouble."
+
+"Engaging in a difficult conversation without talking about feelings is like staging an opera without the music. You’ll get the plot but miss the point."
+
+"Sometimes what’s difficult about the situation has more to do with what’s going on inside you than what’s going on between you and the other person."
+
+"Understanding how we distort others’ intentions is crucial to untangling what happened between us."
+
+"Delivering a difficult message is like throwing a hand grenade. Coated with sugar, thrown hard or soft, a hand grenade is still going to do damage."
+
+"When we jump into conversations we typically begin inside our own story. We describe the problem from our own perspective and trigger just the kinds of reactions we hope to avoid."
 
 "When disagreement occurs, arguing may seem natural, even reasonable. But it’s not helpful."
 
