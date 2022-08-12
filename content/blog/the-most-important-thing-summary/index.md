@@ -254,7 +254,7 @@ A proper valuation, made with confidence, is the best defense against emotional 
 
 "Nothing is easier than self-deceit. For what each man wishes, that he also believes to be true." — Demosthenes
 
-"The biggest investing errors come not from factors that are informational or analytical, but from those that are psychological."
+The biggest investing errors come not from factors that are informational or analytical, but from those that are psychological.
 
 "Many of the mistakes I have made are the same ones that I had made before; they just look a little different each time—the same mistake slightly disguised." — Joel Greenblatt
 
