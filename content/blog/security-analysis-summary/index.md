@@ -155,6 +155,25 @@ True investments keep the principal safe and deliver an acceptable return. Any p
     - if the investors considers a rise in interest rates probable, he should not buy long-term low coupon bonds, no matter how strong the company. inversely, if an investor considers a drop in interest rates, he should buy long-term bonds that meet significant levels of safety.
 
 ## relation of value of the property to funded debt
+- the soundness of the bond rests on the ability of the issuing corporation to support its financial obligations, and much less on the potential value of its property for a lien. With that in mind, there is no purpose in devising a minimal pledged level of property value to support the bond.
+- **special types of obligations**
+  - **equipment obligations**:
+    - equipment trust certificates may be issued against specific items of use by the corporation, for instance, again, a car. Although these certificates promise safety at time of sale, the debtor may only receive 50% of what he expects.
+  - **collateral-trust bonds**
+    - these are bonds that are secured by common stock or other bonds, often of the same corporation.
+    - these bonds offer very little security if issued from the same corporation or subsidiary.
+  - **real estate bonds**
+    - the value of the property is often directly related to the success of the corporation.
+    - property values and earning power closely related. Graham forcefully cautions investor that this is not true for buildings that were erected for special purposes and manufacturing
+    - misleading character of appraisals
+    - abnormal rental used as basis of valuation
+    - debt based on excessive construction costs: over-valuation led to over-building which raised construction costs. When the market caught up, the loan against the expensive costs could not be supported.
+    - weakness of specialized buildings such as hospital or factory
+    - values based on initial rentals misleading: rentals obtained on a new building are higher that can be obtained for an old building. The duration of the bond issue needs to account for a declining premium for rent due to the age of the building
+    - suggested rules of procedure
+      - for single family dwellings, the lender should be sure the amount lent is not more than two thirds the value of the property as determined by the market assessment.
+      - the lender should fully understand the costs associated with constructing the property and not exceed the mortgage by 50%
+      - there should be conservatively structured income account that accounts for vacancies and a building that doesn't fetch the premium of a newly constructed property. This account should demonstrate quality coverage over the net income.
 
 ## relation of stock capitalization to funded debt
 
@@ -230,6 +249,7 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - have a diversified portfolio of common stocks
   - when recessions occur, the investor can still benefit in the common stock markets by 1) diversifying their portfolio, and 2) by adamantly rejecting common stocks trade for excessive premiums.
   - Graham says the investor cannot rely on historical earnings growth to provide safety and profit in the long haul. Specifically, he's talking about companies that are commonly referred to as "growth picks"
+
 - **individual growth as basis of sections**
   - use quantitative and qualitative factor to determine the value of common stocks similarly to the techniques for bonds.
   - what are growth companies?
@@ -261,8 +281,35 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 ## 1. Dividends
 - Before investing in a common stock, investigate both the firm’s dividend rate and its history of paying dividends. The dividend rate is important, because a dollar of surplus earnings is worth more to the investor when the company chooses to pay it as a dividend instead of reinvesting it in the business. Generally, companies that pay higher dividends have higher stock prices. However, management can suspend common-stock dividends at any time, so it is important to view the company’s dividend history as an indication, but not a guarantee, of future income.
 
-- Extraordinary stock dividends (stock splits), on the other hand, are largely illusory, because they give investors nothing they did not already own. An improvement on this practice is for companies to pay periodic stock dividends, representing a return to the shareholders of surplus earnings reinvested in the business.
+- **Extraordinary stock dividends** (stock splits), on the other hand, are largely illusory, because they give investors nothing they did not already own. An improvement on this practice is for companies to pay periodic stock dividends, representing a return to the shareholders of surplus earnings reinvested in the business.
+  - although stock dividends and stock splits create no real value for the holders, much speculation about the value of the companies after the division is likely to occur due to the cheaper price.
 
+- **periodic stock dividends**
+  - with a periodic stock dividend, the shareholder often receives a smller and reasonable stock dividend that adds value over time.
+  - company should not provide a periodic stock dividend if the amount exceeds the funds being retained in earnings. The dividend could eventually exceeded the company's ability to retain earnings power and the EPS slowly declined over a 10 year period, along with the market price.
+  - Graham suggests the dividend should be dispersed as a preferred share.
+    - it doesn't weaken the capital structure of the business like the common stock dividend.
+    - allows the company to retain earnings until a safe and manageable surplus is realized.
+    - this technique gives management flexibility and control to pay the dividend as long as they choose.
+    - once the retained earnings have been distributed, the obligation is no longer on the books once the preferred share is repurchased by the company.
+
+- Graham suggests that the market price of common stocks will perform similarly if management pays a healthy and sustainable dividend.
+- **established principle of withholding dividends**
+  - Graham claims that 2 companies with the same general business model and the same earnings will trade at different prices if the dividend policy is different. The market will value the company with the higher dividend more favorably.
+  - should a company pay a lower dividend in order to create stability for the owner with an assured payment, or should they pay a higher dividend and meet its obligation irregularly.
+
+- **the merits of "plowing back" earnings**
+  - there're 2 reasons retained earnings is beneficial to the stock holder.
+    - whatever good for the company was good for the shareholder.
+    - company that retained earnings had more agility to remain competitive in difficult markets.
+  - if a company sustains a favorable ROE over a long period of time, it means the management is properly investing the retained earnings and adding value to the shareholder.
+- **dividend policies arbitrary and sometimes selfishly determined**
+  - Graham suggests that many board members are executives and friends of executives with very large portion of shares. As a result, they might want to minimize their personal tax burden by receiving smaller dividends from the company.
+  - leadership may seek a larger and more impressive sized business, therefore, using retained earnings to full fill their pursuit of an ever growing business (which may or may not add more earnings)
+  - management may seek the opportunity to purchase outstanding shares at lower prices with the retained earnings.
+  - a management that pays a small dividend is able to pay excessive salaries to executives and top level employees.
+- **arbitrary control of dividend policy complicates analysis of common stocks**
+- **suggested principle for dividend payments**: Graham holds the strong opinion that a company should pay a large portion of their earnings to the shareholders. He says it's more important for the shareholder to receive non-standard (or inconsistent) dividend rates at a higher return, instead of a lower and more consistent dividend, which likely results in the company accumulating reserves that add little value.
 ## 2. Earnings
 
 - To analyze earnings, carefully study the company’s income statement. While earnings are undoubtedly important, security analysts have accorded them too much weight in calculating a company’s investment soundness. Management can manipulate a company’s earnings many ways. Therefore, always examine the firm’s income statement with a critical eye. For example, businesses can engineer nonrecurring charges and profits to produce a favorable earnings trend. A firm’s accountants also can generate perceived earnings by lowering or increasing the company’s reserves, or by reporting subsidiaries’ results in different ways. Companies can also present depreciation and amortization costs in a misleading manner.
