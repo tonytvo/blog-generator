@@ -24,6 +24,11 @@ tags: ["investing", "valueinvesting"]
   - [Earnings Power value (EPV) Stock valuation How-to](https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/)
   - As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.
 - Value investors consider the three sources of intrinsic value to be the reproduction cost of the company's assets, the current earnings power of any franchise, and the value of its earnings growth within that franchise. The most difficult aspect to value is the worth of future earnings growth
+- In its simples terms, value investing is the process of calculating the fundamental value of a security, comparing this value to the market price and buying if the value is sufficiently higher than the price to provide a cushion against risk. Value investors are not, repeat not:
+  - Technicians, who look only at price movement patterns, ignoring fundamental value.
+  - Macro-fundamental, or top-down investors, who try to read and predict the market’s response to broad economic events but do not usually scrutinize individual stocks.
+  - Price and earnings forecasters, who estimate future earnings based on various factors and buy when their estimate beats the market’s estimate, implied in the market price.
+- Value investing demands two virtues: humility and patience. Value investors have to know what they know and know what they don’t know. The best tend to specialize in one area and develop a real understanding of its economics, since a big, meaningful gap exists between "undervalued" and "cheap." Value investors have to wait until a real bargain comes along. When they find and buy it, they have to wait until the market recognizes the fundamental value and the market price adjusts. Both waits may be long
 ## search strategy
 - "every time you sell stock, someone else is buying that security. **One person on one side of the trade is always wrong**"
 - **You have to know what you know and what you don't know**
@@ -49,6 +54,7 @@ tags: ["investing", "valueinvesting"]
   - who is buying and selling the stock, insiders, management, and investors.
 - **search criteria: where are the unreflective sellers**
   - obscure: small caps, spin-offs, post bankruptcy, boring with low analyst coverage
+    - Since funds can’t own small stocks, analysts don’t cover them and the stocks stay obscure. Spin-offs may be small, unheralded and dumped, despite their merits. And, the market tends to ignore boring firms that chug along in monotonous mediocrity. When they do something new, no one may be looking (except the astute value investor)
   - industry problems are your friend as long as you know the industry is viable.
   - undesirable:
     - financial distress, bankruptcy, low growth, low P/E, low M/B,
@@ -66,16 +72,17 @@ tags: ["investing", "valueinvesting"]
 
 ## valuation strategy
 - is this industry viable or not?
-- view tangible assets at liquidation costs
+- view **tangible assets at liquidation costs**
   - it's the most reliable information.
   - if the industry is not viable and the company going to get liquidated, you would want to see the valuation in liquidation and that is closely tied to assets.
-
+  - Assets - Look at the balance sheet. Work from the top down. Some values have to be adjusted because accounting numbers are more accurate for some assets and liabilities than for others. What matters is the assets’ value if they were sold today. If an industry is on the path to extinction, its equipment and inventory may not have more than scrap value. If the industry will continue to exist, the proper value is the "reproduction value," the cost of replacing the asset. In general, items at the top of the balance sheet - cash, receivables, inventory - have values close to the book value. The book value is more questionable farther down the balance sheet. Usually it’s possible to come up with an estimate more reliable than an estimate of future earnings. The assets and liabilities are real, exist now and do have some value.
 - reproduction cost of an asset is the most appropriate measure of its worth.
   - if the industry to viable, then sooner or later the assets are going to be replaced, so you have to look at the costs of reproducing those assets as efficient as possible.
   - [asset reproduction value analysis](https://www.oldschoolvalue.com/stock-valuation/how-to-asset-reproduction-value-analysis/)
 
 - the second most reliable measure of a firm's intrinsic value is the value of its current earnings, properly adjusted. This value can be estimated with more certainty than future earnings or cash flows, and it is more relevant to today's values than are earnings in the past.
   - earnings, if they are sustainable, are supported by assets or barriers to entry.
+  - Cash flow - Benjamin Graham and David Dodd used the Earnings Power Value (EPV) formula to calculate the level of distributable cash flow that a company could reasonably sustain. The formula is: "EPV = Adjusted Earnings x 1/R, where R is the current cost of capital." Because companies often artificially inflate earnings by booking some costs as allegedly non-recurring, the savvy value investor researches the history, calculates the usual ratio of such charges to reported earnings and reduces current reported earnings appropriately. The investor may need to make a similar adjustment for depreciation and amortization, which can also misrepresent the real need to reinvest. Finally, the investor considers the business cycle, adjusting earnings based on whether the company is at its top or bottom. The EPV must be sustainable. For assurance that it is, look for sustaining strategic advantages like franchise value.
 
 - Unless there is something to interfere with this process of entry, sooner or later the market value of the company will be driven down to the reproduction value of the assets. *Reversion to the Mean or the Uniformity of One Price*
 - If you have EPV in excess of reproduction value (AV) of the assets, there had better be something to interfere with the process of entry such as competitive advantage such as barriers of entry, etc...
@@ -83,10 +90,16 @@ tags: ["investing", "valueinvesting"]
     - **the only case where growth has value is where the growth occurs behind the protection of an identifiable competitive advantage**
     - **growth only has value if it is a strong franchise**
   - You have to adjust for any accounting shenanigans that are going on, you have to adjust for the cyclical situation, for the tax situation that may be short-lived, for excess depreciation over the cost of maintenance capital expense (MCX). And really for anything else that is going on that is causing current earnings to deviate from long run sustainable earnings. So **valuation is calculated by a company’s long-run sustainable earnings multiplied by 1/cost of capital**.
+  - entry barriers: A franchise only has value when competitors can’t easily enter the market and take chunks of it away. Only a few things create real barriers to entry:
+    - Government - Licenses and other legally protected privileges, e.g. cable franchises.
+Costs 
+    - Expense creates a barrier if the incumbent has cost advantages no one can duplicate, especially patents or proprietary knowledge a competitor can’t match or buy. Economies of scale matter; if unit costs fall as more units are produced, a new entrant can’t match a high-volume leader (absent new technology or processes).
+    - Revenues - In rare cases, customers are so attached to a particular brand (think Coca-Cola) that it is very difficult for a new entrant to seduce them. Also, costly switching virtually traps customers, i.e., buyers of corporate software suites must also train staff and debug. Here, the cost of switching helps protect Microsoft’s franchise.
 - AV > EPV
-  - likely value lost due to poor management
-- AV = EPV
+  - Use the EPV as a guide to intrinsic value. Either management is doing a bad job (and could only be dislodged in a takeover) or the industry suffers from overcapacity (so increased value requires reduced capacity).
+- AV approximately equal to EPV
   - It tells a story of an industry that is in balance. It is exactly what you would expect to see if there were no barriers-to- entry.
+  - Management is probably mediocre and the firm lacks a competitive edge. To check, examine management’s returns and judge whether they are about average. Is the industry stable, or do competitors come and go? This kind of firm may be a good value investment if market price falls far enough below fundamental value for a margin of safety, but growth estimates are worthless.
 - accounts receivable can be valued at book value, although in liquidation, you will recover 90% to 95% of it.
 - good management always adds value to the assets not already embedded in the earnings. Bad management subtracts value from the assets.
 - growth is valued separately since growth is where all the uncertainty resides and you want to segregate that uncertainty from what you know.
@@ -112,29 +125,10 @@ key issues, collateral evidence, personal biases
 
 ## manage risk
 
-# Graham and Dodd's approach
+- Value investors control risk by specializing in situations that don’t correlate with the market, such as take-overs, spin-offs, arbitrage, bankruptcy and workouts. They double-check their conclusions by watching insiders or knowledgeable investors and by closely scrutinizing their calculations for errors. They use position limits to restrict how much they invest in any one stock or security. Or, like Warren Buffett, they buy whole companies.
 
-- Each of the elements in valuation — assets, earnings power, and growth — is useful in its own right, but the best insights into a firm’s value come from comparisons among them, especially the direct comparison between the asset value and the EPV.
-- If the EPV is substantially greater than the asset value, that difference is due to superior management or competitive advantages
-- don’t make investments into things that have a NPV of less than zero
-
-## value of assets
-- there should be no discount from the amount stated on the company's books for cash and marketable securities, provided the securities are short term or marked to the market. The same holds true for property, plant, and equipment
-- economic value of the assets is the reproduction costs of a new firm starting out in the same industry.
-  - we first find the current market prices for the securities. Then we must adjust the book value of the firm's accounts receivable and inventory up or down to get a more realistic reproduction costs
-- it is important to note that goodwill represents a prior blunder that must be ignored when calculating the intrinsic value of a company.
-- liabilities and equity are the sources of funds that support the assets, which are the uses to which those funds are put
-- there are 3 types of liabilities
-  - those that arise from the normal conduct of the business
-  - those that arise from past circumstances that are not pertinent to a new entrant
-  - the oustanding formal debt of the company.
-- when we start with the reprodution cost of the assets and then subtract the first 2 categories of liabilities, we are left with the asset value of the whole enterprise.
-- The defining character of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage, and, if so, how strong and sustainable it is
-
-## value of current earnings
-
-## value of profitable growth
-- Uncertainty regarding future growth is usually the main reason why value estimations based on present value calculations are so prone to error.
+# Security analysis by Benjamin Graham and David Dodd
+- [security analysis by Benjamin Graham and David Dodd summary](/security-analysis-summary/)
 
 # Buffet's principles and rules of value investing
 - the data and qualitative information from 10K and 10Q reports can be used to evaluate the following principles:
@@ -324,122 +318,6 @@ key issues, collateral evidence, personal biases
   - subtract the cost of capital gains tax from stock A
   - calculate whether stock A or B yields the highest expected annual return based on a given time frame.
 
-# Principles for selection of fixed-value investments
-
-- avoid compromising the assumed risk for an increased reward to minimize the loss of principal
-  - if risk is assumed, it should be in the form of paying a cheaper price (therefore lowering the principal required to acquire the security), instead of accepting a higher coupon or dividend.
-
-## safety not measured by Lien but by ability to pay
-- safety is measured by the ability of the issuer to meet obligations - not by contractual rights
-- in theory, if a business fails, the bond holder recovers his money from assets; but that often fails because:
-  - property values shrink when the business fails
-  - there is difficulty in establishing legal rights
-  - there are inherent delays in receivership
-- to avoid trouble is better seeking protection after it occurs
-- debt should bed assessed from the cashflow statement
-  - "good" debt is when company is using financed capital for an opportunity or expansion that might require a quick entry to the market
-  - "bad" debt is when the business is required to borrow in order to sustain operations.
-
-## obligation possibility should be assessed in terms of depression, not prosperity
-- bonds should be bought on their ability to withstand a depression or recession; relative safety is found in companies of a) dominant size, and b) substantial margin or earnings over bond interests.
-- presumption of safety based upon either the character of the industry or the mount of protection
-- investor should look for industries least likely to be affected by a depression.
-- investment practice recognizes importance of character of the industry. **historically some industries and public utilities have been more stable than others, and equally their degree of stability has altered with time**. This changing dynamic must be considered when assessing an organization's ability to continue meeting future payments on fixed income securities
-- depression performance as a test of merit.
-- various causes of bond collapses
-  - excessive funded debt of utilities: defaults were causes by over-extended debt, not by lack or earnings
-  - stability of railroad earnings overrated: such as diminished earnings a failure to recognize changes in transportation methods
-  - unavailability of sound bonds no excuse for buying poor ones. The investor should never be tempted by the lack of a good opportunity to venture into a poor one.
-- there are 2 incorrect theories:
-  - that issuing a bond is a statement of financial weakness
-  - bonds are only issued when companies cannot issue stock
-- proper theory of bond financing: A reasonable amount of funded debt is an advantage (typically rooted in the company's ability to take their product or service to market quickly). if the company need to issue debt to simply pay their bills and expenses, this is a signal that the bond is unsafe.
-- significance of the foregoing to the investor: whenever there is money available to invest, it is invested. when higher yielding securities disappear from the market place, analysts need to accept a lower yielding security to ensure the protection of principal instead of choosing more yield in a second rate issue.
-
-## Unsound to sacrifice safety for yield
-- lack of safety is not compensated by a high dividend or coupon
-- no mathematical relationship between yield and risk: prices and yields often depend on popularity. Graham suggests that the public's familiarity with the issuing company and its ability to be quickly sold on the market is a considerable factor in the market price of bonds
-- the factor of cyclical risks: an insurance company spreads risk over a large field; the investor has only a small field and cannot afford a program entailing a small sample size with large risk
-- risk and yield are incommensurable. Graham mentions, yet again, that the analyst should not pay a par value for a risky bond that has a high yield. Instead, he should pay a considerable discount below the par value, therefore minimizing his risk of principal. 
-- reversal of customary procedure recommended: don't start with inspecting the safest fixed income issues on a list and work down. Instead, start with the security that represents a minimal threshold of safety and work up on the list. This way the analyst protects themselves from going deeper into the list - likely resulting in the purchase of an unsafe issue.
-
-## definite standards of safety must be applied
-- Graham recommends the implementation of similar rules and regulations that savings banks use for fixed income investments, since they are required and obligated by law to minimize their expose to risk.
-- Graham recommends New York Savings Bank as the baseline, but the rules should be regarded loosely and amended if new metrics prove more useful and secure
-
-# bond investments criteria
-## nature and location of the business
-- obligations of foreign governments
-  - Graham agreed with the decision to disallow the purchase of foreign bonds for the following reasons:
-    - the factor of political expediency
-    - the foreign trade argument
-    - the individual record argument: it is suggested some countries are more creditworthy than others. Graham argues that only Canada, Holland, and Switzerland demonstrated "unquestionable investing ratings" during his era
-    - two-fold objection to purchase foreign government bonds. Generally speaking, foreign bonds should be avoided for 2 reasons
-      - the basis for obtaining credit is fragile
-      - the past performance is unsatisfactory. Graham then provides Canada as the sole exception to his doubts
-- bonds of foreign corporations: in theory no company should do better than country in which it is located because the government could simply declare state ownership.
-      
-
-## size of the business
-- small companies and small municipalities are vulnerable and their bonds should not be considered suitable for the conservative investor.
-- NYSB critera example. Municipal bonds required a population of 10000 in adjacent states and 30000 elsewhere; railroads had to have 500 miles of track and annual operating revenues of 10 million nominal dollars, etc...
-  - Graham agrees that the issuer should be of reasonable size, and he also suggests that the underlying theory of cash flow and ability to repay the holder of the security is more meaningful
-- industrial bonds and factor of size: Graham feels these bonds are safe if tested against strick standards. He recommends limiting selections to the six largest corporations in any particular industry.
-- large size alone no guarantee of safety, the size should not be applied to municipalities and utilities, but only to industries.
-
-## terms of issue
-- NYSB only accept public utility bonds only when secured by mortgages. An exception is made for unsecured railroad and income bonds if earnings and dividend records meet severe stipulated rules. Graham argues that the company's ability to meet its obligations is the top consideration.
-- income bonds in weaker position than debentures. Debentures are required to make payments; where as income bonds are not required to make payments. As a result, Graham believes the mandatory coupon payment for a debenture provides less risk to the holder than an income bond.
-- standards of safety should not be relaxed because of early maturity. If 2 different bonds, a short term and a long term, are issued and secured by the same company. The risk is no different for either bond if the short-term issue can't be paid at maturity.
-## record of solvency and dividend payment
-- the investor should ensure the issuer of the bond has a long record of financial stability and should avoid those which do not have a history of success. NYSBs requires 10 years history of payments on issues from other states and 25 year history from municipalities.
-- investor should not take higher return for risk, instead they should pay a lower principal. For examples, when a municipal government issues new bonds at higher interest rates, because of the risk of default, the investor should be skeptical of such investments
-- strict quantitative tests would focus on population size, the revenues received and current liabilities
-- dividend record not conclusive evidence of financial strenth
-- balance sheet and income statement provide better clues about a company's ability to meet future coupon payments than historical dividend performance. 
-- if dividend is withheld or reduced to the common shareholders, the health of bond may be in jeopardy
-
-## relation of earnings to interest requirements
-
-- safety of a bond can be evaluated by comparing the company's earnings to its interest obligations
-- total deduction or "Over-all" Method
-  - Graham suggests that all bonds are dependent on each other, he expects all issues to fail if the payment of one cannot be completed.
-  - coverage ratio = earnings / total interests on all issues
-- minimum requirements for earnings coverage. It's different for each industries.
-- period comprised by the earnings test. NYSB assesses the 5 previous years for determining the safety of an issue. Graham suggests that the most recent years are the most important
-- the relation of the coupon rate to earnings coverage
-  - effect of coupon rate on safety: good companies fetch lower interest rates compared to risky companies. This means that good credit produces better credit
-  - effect of rise interest rates on safety
-    - if the investors considers a rise in interest rates probable, he should not buy long-term low coupon bonds, no matter how strong the company. inversely, if an investor considers a drop in interest rates, he should buy long-term bonds that meet significant levels of safety.
-
-## relation of value of the property to funded debt
-
-## relation of stock capitalization to funded debt
-
-## special factors in bond analysis
-
-# Scope and Limits of Security Analysis
-- common obstacles to analyst
-  - inadequate or incorrect data
-  - uncertainties of future
-  - irrational behavior of the market
-  - "in the short term the market is a voting machine, but in the long term it tracks value"
-- 3 functions of analysis
-  - **Descriptive function** 
-    - collecting important facts and presenting them in an understandable manner. This would reveal:
-      - reveal strong and weak points
-      - make comparisons with similar issues
-      - appraise for future performance
-  - **Selective Function**
-    - express specific judgement, by determining whether an issue should be bought, held, sold, etc.
-    - common approach is to analyze company's ability to earn and make payments to the investor.
-    - Intrinsic value is the estimated valuation based on the analyst's opinion of the intrinsic worth of the security from different source of information such as assets, earnings, dividends, growth, management, etc...
-      - value of a business can be analyzed from the perspective of multiple earnings (P/E ratio, "earnings power"). It is cautioned that valuing a business solely from the earnings power is very risky and uncharacteristic of wise analyst.
-  - **Critical Function**
-    - "Analytical judgments are reached by applying standards to facts"
-    - should seek adequate protective provisions (margin of safety) in bonds and preferred stocks.
-    - must be alert to the misrepresentation by accountants and management bad practices.
-
 # Themes of value investing
 
 ## Focusing on the differences between investing and speculating
@@ -604,6 +482,8 @@ truth seeker
 ## options
 # Quotes
 
+"People remember the recent past better than the distant past, and they informally generalize from a few cases that are memorable rather than incorporate the full body of data into their analysis."
+
 "Be fearful when others are greedy and be greedy when others are fearful"
 
 "If you're analyzing an unstable business, then your analysis might be worthless"
@@ -627,6 +507,10 @@ the key to life is to figure out who to be the batboy for.
 "financial markets, far from accurately reflecting all the available knowledge, always provide a distorted view of reality. This is the principle of fallibility. The degree of distortion may vary from time to time. Sometimes, it's quite insignificant, at other times, it is quite pronounced.
 
 "Every bubble has 2 components: an underlying trend that prevails in reality and a misconception relating to that trend. When a positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will be reinforced."
+
+"Investing may not be neurosurgery, but it isn’t child’s play either."
+
+"To recall a piece of wisdom Warren Buffett frequently cites, if you have been in the poker game for thirty minutes and still don’t know who the patsy is, you can be pretty certain the patsy is you."
 
 # References
 - https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value.
