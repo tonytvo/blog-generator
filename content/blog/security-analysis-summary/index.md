@@ -359,9 +359,33 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - a corporation may buy back its own securities at less than par value; any gain made is non-recurring and should be recorded as such. This was a feature of depression years 1931-33
 
 ### extraordinary losses and other special items in the income account
+- as inventory losses are directly related to the conduct of the business, Graham suggests that it should not be treated as extraordinary
+- **manufactured earnings**:
+  - one example such as receivables and inventory written down to an artificially low "cost price", which in turn will lead to a manufactured higher profit in the year to come. This illustrates the most vicious type of accounting manipulation: taking sums out of surplus, and then reporting these same sums as income in the following years. The danger of this accounting method is the public is not likely to recognize it, and even the expert analyst might have a hard time detecting it.
+- **reserves for inventory loss**
+  - companies continuously set aside reserves to absorb losses on inventory before they occur. The implication is that the income statement does not always reflect inventory losses.
+- **other elements in inventory accounting**
+  - the standard procedure is to take inventory at the close of the year measured by the lowest of either cost price or market price. 
+  - last-in, first-out: measure the actual amount paid for the most recently acquired inventory. The theory behind this method is that a merchant's selling price is related mainly to the current replacement price or the recent cost of the article sold. This method may be useful to reduce income tax, if there is inventory fluctuation.
+  - the normal stock or basic-stock inventory method: a more radical method of minimizing fluctuations is the company must possess a certain physical stock of materials from year to year. This "permanent stock" would therefore keep the same value and not be imposed to any changes in price. In order to permit the base inventory to be carried at an unchanging figure on the balance sheet, the practice is to mark it down to a very low unit price, so low that it should never be necessary to reduce it further.
+- **idle-plant expense**: the cost of carrying non-operating properties is almost always charged against income, Graham suggests it should not. By doing so, it's misleading to the expenses of the company's core product or service. The analyst may properly consider idle-plant expense as belonging to a somewhat different from ordinary charges against operating income, as these expenses by nature are not part of the company's normal operations.
+  - in theory, these expenses should be temporary since the management can terminate these losses at any time by disposing of the property. therefore, if the company chose to spend the money, Graham does not deem it logical to consider these assets equivalent to a permanent liability.
+- **deferred charges**
+  - a business sometimes incurs expenses which are applicable to a number of years rather than a single 12-month period such as:
+    - organization expense (legal fees, etc...)
+    - moving expenses
+    - development expenses (for new products, processes, for opening up a mine, etc...)
+    - discount on obligations sold
+  - the company is allowed to spread these types of costs over an appropriate period of years (5 years is a customary period of time). It is entered upon balance sheets as a deferred charges, which is written off by annual charges against earnings.
+  - it is incorrect to write off these types of expenses in a single year, and against a 'surplus' as net income for coming years would be overstated, followed from the understated operating expenses.
+- **amortization of bond discount**
+  - the discount should be amortized over the life of the bond by an annual charge against earnings.
+  - the write-offs could be written against surplus to eliminate future annual deductions from earnings, and in that way to make the shares appear more valuable. This practice has aroused considerable criticism in recent years both from NYSE and from S.E.C
 
 ### misleading artifices in the income account. Earnings of subsidiaries
-
+- one method to distort reported earnings is to simply create earnings that don't exist, while hiding the accounting practices to the public. Graham suggests that one method to detect unsound accounting principles is to dig into tax calculations.
+- Graham provides examples of how parent company's can mislead shareholders when earnings are split among subsidiaries. Subsidiaries that are not consolidated are also prone to manipulation. One method is to let earnings accumulate in the subsidiary, and then pay special dividends to the parent company during poor years. Graham intelligently suggests that it's the duty of management to disclose the true earnings no matter circumstances and intentions.
+- if parent company has an unprofitable division, its losses must be shown as a deduction from normal earnings
 ### relation of depreciation and similar charges to earning power
 
 ### public utility depreciation policies
