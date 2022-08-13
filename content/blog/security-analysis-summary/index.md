@@ -176,7 +176,87 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 - Uncertainty regarding future growth is usually the main reason why value estimations based on present value calculations are so prone to error
 
-- Examine the following three crucial factors:
+## theory of common stock investment
+- investment in common stock is often speculative and analysis may be inconclusive and unsatisfactory.
+  - common stock are of basic importance and of enormous interest
+  - the owners of the common stock with to know their value
+  - human nature often masks logic behind an endless cycle of greed for profit.
+- **history of common stock analysis**: over the previous 30 years (from 1910-1940), common stocks have become more favored due to their substantial earnings and dividends. With more and more companies providing detailed financial information, investors have had statistical data to substantiate their investments. During 1927-1929, Graham says most investors neglected this analysis and simply purchased more common stock based on speculative greed for profit and prophecy
+- **analysis vitiated by 2 types of instability**: 
+  - Graham suggests 2 types of instability will destroy the analysis of common stock:
+    - instability of tangibles aspect
+    - an enormous importance placed on intangible aspects
+- a company's market price was generally stable and predictable if the companies had the following characteristics:
+  - the company paid a reasonable and consistent dividend
+  - earnings were stable and averaged a substantial margin over dividend
+  - each dollar of market price was backed by actual assets of equal value on the balance sheet - Or in other words, the book value was similar to the market price
+- **prewar (WW1) conception of investment in common stocks**
+  - prior to the world war, the analyst was primarily concerned with finding common stocks that paid consistent dividends and possessed stable earnings. In general, most emphasis was placed on past performance and little on future earnings growth.
+  - speculation characterized by emphasis on future prospects
+  - technique of investing in common stocks resembled that for bonds
+  - buying common stocks viewed as taking a share in a business
+    - if a businessman were going to purchase an entire company outright, he would likely start with the net worth of all the assets (or equity on the balance sheet), and then consider if the choice produced adequate earnings for the price. After looking at the earnings that the company produced, the investor would decide if he was willing to pay a premium or discount to that par value (or book value)
+
+## newer cannons of common stock investment
+
+- **the new era theory**
+  - during the roaring 1920's, there's idea that value of common stocks was completely dependent on what it will earn in the future. This new thesis had three supporting insights:
+    - the dividend holds little emphasis on the value
+    - the relationship between asset value and earnings power had little significance
+    - the past earnings were of little significant value except when signifying momentum in growth
+  - **cases for this changed viewpoint**
+    - in short, Graham thinks that the drastic change in common stock valuation stemmed from unpredictable results often seen from using historical data and the irresistible potential for profits that had occurred.
+    - in the early 1930's many liquidations occurred. These events often produced very little value for the fixed assets the companies had listed on their balance sheets. This experience also caused investors to abandon the emphasis on book value or net-work of assets.
+  - **attention shifted to the trend of earnings**
+  - **the common stocks as long term investments doctrine**
+    - few key points
+      - the value was based on what the common stock could earn in the future
+      - good common stocks have a rising earnings (or EPS)
+        - what it excludes is the idea that a price is associated with the earnings one can expect to receive
+      - relies on an improvement in the stock's future performance.
+      - therefore making the approach **speculative**.
+  - **new era investment equivalent to prewar speculation**
+  - **stocks regarded as attractive irrespective of their prices**: non-sense
+  - investment trusts came to resemble this new doctrine
+    - analysis abandoned by investment trusts. Graham voices his disgust for the professional investor who didn't safe guard the capital of their customers due to a lazy assessment of facts and risk analysis
+  - **a sound premise used to support an unsound conclusion**
+    - in 1924, a book by the name of common stocks as long-term investments, by edgar lawrence smith was published. the premise of the book is that common stocks outperform bonds because not all the earnings are paid to the owners as dividends. This retained earnings by the company makes the value of the common stock increase in market price. Although Graham agreed with the basic tenants of Edgar's thesis, he strongly disagrees with the exaggeration many investors took in their application of his ideas.
+  - **average vs trend of earnings**
+    - Graham suggests that earnings trends and earning averages are nothing more than speculative tools for analysts to predict future results. In fact, companies that have accelerated growth demonstrate an untapped market for more competitors.
+
+## three general approaches
+
+- **secular expansion as basis**
+  - have a diversified portfolio of common stocks
+  - when recessions occur, the investor can still benefit in the common stock markets by 1) diversifying their portfolio, and 2) by adamantly rejecting common stocks trade for excessive premiums.
+  - Graham says the investor cannot rely on historical earnings growth to provide safety and profit in the long haul. Specifically, he's talking about companies that are commonly referred to as "growth picks"
+- **individual growth as basis of sections**
+  - use quantitative and qualitative factor to determine the value of common stocks similarly to the techniques for bonds.
+  - what are growth companies?
+    - maybe a company whose earnings move forward from cycle to cycle.
+    - maybe company's earnings grow at a faster rate than the general market
+  - can investor identify them?
+    - no, typical investor can't realistically determine when and where the company's growth will eventually subside. As a result, there's a strong chance that the investor might select the stock "at the top of the earnings wave"
+  - does the price discount the potential growth?
+    - it's difficult to determine the price to pay for the future earnings that haven't been demonstrated yet.
+    - it's impossible to predict how much longer the earnings growth is going to take place. One thing almost everyone can agree is that high earnings growth (like 30%) is temporary and not sustainable.
+  - may such purchases be described as investment commitments
+    - can thorough analysis and thought go into the selection of the growth stock.
+      - maybe yes, as some growth investors do conduct themselves appropriately
+    - is the price paid for the investment something that a reasonable person would pay if they could buy the whole business?
+      - if a person is willing to pay more than 20% more for a common stock than he would for outright ownership of the entire business, the pick become speculative.
+  - utilize even more effort than bonds to assess the future outlook of common stocks
+
+- **selection based on margin of safety principle**
+  - factors complicating efforts to exploit general market swings
+    - index of leading stocks were selected and analyzed as a group (like the S&P 500). Also a base or normal value for the group of stocks could be determined by taking their average earnings and capitalizing them at the going long term interest rate (like the 10 or 30 year federal bond). This is where Graham tell analysts that the intrinsic value of stocks is directly tied to interest rates.
+      - this approach has 3 drawbacks
+        - first, the general market patterns may be anticipated, but the actual buying and selling points may still be chosen poorly.
+        - market behavior may change in the future and not response in the same manner as before
+        - this approach requires a very determined and vigilant individual because his actions will be the opposite of human psychology.
+  - the undervalued individual issue approach:
+    - likelihood of finding an individual common stock that possess the qualitative factors and the quantitative factors (compared to price) is rare. if this type of stock issue is found, Graham says it should be classified as an investment and not speculation.
+    - Graham says the most important way to view the purchase of a common stock is if the investor could purchase the entire business at once.
 
 ## 1. Dividends
 - Before investing in a common stock, investigate both the firm’s dividend rate and its history of paying dividends. The dividend rate is important, because a dollar of surplus earnings is worth more to the investor when the company chooses to pay it as a dividend instead of reinvesting it in the business. Generally, companies that pay higher dividends have higher stock prices. However, management can suspend common-stock dividends at any time, so it is important to view the company’s dividend history as an indication, but not a guarantee, of future income.
@@ -214,6 +294,35 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
 
 - Remember, however, that "analysis connotes the careful study of available facts with the attempt to draw conclusions therefrom based on established principles and sound logic. It is part of the scientific method. But in applying analysis to the field of securities, [you will] encounter the serious obstacle that investment is by nature not an exact science." Still, professional analysis is "not only useful, but indispensable."
+
+# Themes of value investing
+
+## Focusing on the differences between investing and speculating
+  - failure to distinguish one from another has led to tragedies.
+  - investments are bonds, outright purchases, permanent holding, for income, in safe securities.
+  - speculations are stocks, purchases on margin, for a "quick turn", for profit, in risky issues.
+  - specific standards have to be applied to give meaning to the term "safety"
+  - an investment operation promises the safety of the principal and a satisfactory return. Operations not meeting these requirements are speculative.
+  - an investment operation is one that can be justified on both qualitative and quantitative grounds.
+  - investment is founded on the past and present, speculation relies on the future to improve.
+  - for the investor, the future is to be guarded against rather than profit from.
+  - for the speculator, he anticipates the future will be better than the past.
+  - "intelligent speculation" is taking a measured risk that seems justified after analysis
+  - "unintelligent speculation" is taking a risk without adequate examination of the situation
+  - safety is measured in terms of the ability of the issuer to meet obligations
+    - that ability should be assessed in terms of depression, not prosperity
+  - lack of safety is not compensated by high dividends
+  - Avoiding trouble is better than seeking protection after it occurs.
+  - a sound investment must be able to withstand adversity. Enterprises that have withstood adversity may be favored by investors.
+  - investment for profit, where growth is generally expected, the price is rarely reasonable.
+  - the investor of small means may opt to step out of his role and become a speculator. He may also opt to regret his actions.
+## Analysis skills
+  - The term analysis indicates a scientific and methodical study of facts, which results in logical conclusions. But investment is not an exact science, and success derives in part from personal skills and chance.
+  - analytical judgments are reached by applying standards to facts
+  - analyst must preserve a sense of proportion, analyze what matters and ignore what trivial
+truth seeker
+- there are 3 types of variables used to rank stocks: fundamental, growth, and profitability.
+- the most common variables used to select stocks are those that relate the price of the shares to some fundamental company information: share price to earnings, share price to cash flow, share price to book value, share price to sales, or share price to dividends.
 
 # Quotes
 
