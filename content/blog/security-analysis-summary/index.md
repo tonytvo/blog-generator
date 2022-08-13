@@ -310,11 +310,73 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - a management that pays a small dividend is able to pay excessive salaries to executives and top level employees.
 - **arbitrary control of dividend policy complicates analysis of common stocks**
 - **suggested principle for dividend payments**: Graham holds the strong opinion that a company should pay a large portion of their earnings to the shareholders. He says it's more important for the shareholder to receive non-standard (or inconsistent) dividend rates at a higher return, instead of a lower and more consistent dividend, which likely results in the company accumulating reserves that add little value.
+
 ## 2. Earnings
 
 - To analyze earnings, carefully study the company’s income statement. While earnings are undoubtedly important, security analysts have accorded them too much weight in calculating a company’s investment soundness. Management can manipulate a company’s earnings many ways. Therefore, always examine the firm’s income statement with a critical eye. For example, businesses can engineer nonrecurring charges and profits to produce a favorable earnings trend. A firm’s accountants also can generate perceived earnings by lowering or increasing the company’s reserves, or by reporting subsidiaries’ results in different ways. Companies can also present depreciation and amortization costs in a misleading manner.
 
 - Investors must pay attention to more than current earnings. They should consider both the earnings trend and the long-term earnings average – preferably seven to ten years, putting more weight on the latter number. The analyst’s job is not predicting the future of a trend or intuiting possible price changes; it is making decisions based on facts.
+- analyst should combine the information from the balance sheet and income statement to garner the best valuation.
+- **disadvantages of sole emphasis on earning power**:
+  - earnings statement has more variability than the balance sheet and therefore changes the value of the business making it appear unstable, the income statement can be more misleading than the balance sheet.
+- **simplified statement of Wall Street's Method of appraising common stocks**
+  - price = Current Earnings Per Share (EPS) x Quality Coefficient
+  - how does quality coefficient is determined?
+    - probably by whole host of factors such as dividend rate, history, size and reputation of the business. Graham suspects all these factors are dwarfed by the real factor, which is earnings trend.
+- **earnings not only fluctuate but are subject to arbitrary determination**
+  - some of the techniques management can use to misrepresent earnings in the short term are the following
+    - through allocating items to surplus (on the balance sheet) instead of revenue
+    - through misrepresented amortization charges
+    - through an amendment of the capital structure
+    - through the use of large capital funds for items that don't pertain to the business
+- **significance of foregoing to the analyst**:
+  - in the end, the analyst should be able to answer 3 questions:
+    - what are the true earnings for the period studied?
+    - what indications does the earnings record carry as to the future earning power?
+    - what standards should be applied to the income statement to arrive at a reasonable valuation?
+- **criticism and restatement of the income account**
+  - the analyst will need to pay close attention to the ambiguous way the account rules can be applied
+    - non-recurrent profits and losses. This is a one-time or highly infrequent profit or loss.
+    - operations of subsidiaries and affiliates
+    - reserves
+- **general observations on the income account**
+  - accounting rules permit management a range of choices in recording non-recurrent and special items, selecting between income and surplus, such items may be:
+    - profit or loss on sale of fixed assets
+    - profit or loss on sale of marketable securities
+    - discount or premium on retirement of capital obligations
+    - proceeds of life insurance policies
+    - tax refunds and interest on refunds
+    - gain or loss from litigation
+    - extraordinary write down of inventory
+    - extraordinary write down of receivables
+    - cost of maintaining non-operating properties
+  - the above items must be separated from the ordinary operating results to indicate earning power clearly (what the company might be expected to earn if the business condition remained similar)
+- **non-recurrent items: profits or losses from sale of fixed assets**: these are not to be shown in current net income, they should appear in the surplus account
+- **profit from sale of marketable securities**
+  - must be separated from ordinary operating results
+  - methods used by investment trusts in reporting sale of marketable securities: over-all changes in principal value are the only measure of an investment trust's performance, and this cannot be equated with recorded earnings of an industrial corporation.
+- **profits through repurchase of senior securities at a discount**
+  - a corporation may buy back its own securities at less than par value; any gain made is non-recurring and should be recorded as such. This was a feature of depression years 1931-33
+
+### extraordinary losses and other special items in the income account
+
+### misleading artifices in the income account. Earnings of subsidiaries
+
+### relation of depreciation and similar charges to earning power
+
+### public utility depreciation policies
+
+### amortization charges from the investor's viewpoint
+
+### significance of earnings 
+
+### price-earnings ratios for common stocks. Adjustments for changes in capitalization
+
+### capitalization structure
+
+### low-priced common stocks. Analysis of the source of income.
+
+
 
 ## 3. Asset Value
 - To gauge asset value, inspect the business’s balance sheet. A firm’s book value per share equals the total value of its tangible assets divided by the number of shares outstanding. Wall Street has almost entirely superseded the importance of asset value with earnings. Although rules of thumb for the proper ratio of market price to book value vary, you still should investigate the underlying value of a business’s assets before investing.
@@ -337,10 +399,17 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - when we start with the reproduction cost of the assets and then subtract the first 2 categories of liabilities, we are left with the asset value of the whole enterprise.
 - The defining character of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage, and, if so, how strong and sustainable it is
 
+## discrepancies between price and value
+
+## comparative analysis of companies in the same field
+
+## market analysis and security analysis
+
 # The Relationship Between Owners and Managers
 - The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
 
 - Remember, however, that "analysis connotes the careful study of available facts with the attempt to draw conclusions therefrom based on established principles and sound logic. It is part of the scientific method. But in applying analysis to the field of securities, [you will] encounter the serious obstacle that investment is by nature not an exact science." Still, professional analysis is "not only useful, but indispensable."
+
 
 # Themes of value investing
 
