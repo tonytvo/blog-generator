@@ -5,17 +5,7 @@ description: "The Intelligent Asset Allocator by William Bernstein Summary"
 tags: ["investing", "assetallocation"]
 ---
 
-- In the long run of investing, you are compensated for taking risks
-  - Conversely, if you seek safety, your returns will be low
-
-- Experienced investors understand risk and reward are intertwined
-  - One of the easiest ways to spot investment fraud is the promise of excessive returns with low risk
-
-- One sign of a dangerously overbought market is a generalized underappreciation of the risks
-
-- Nonsystematic Risk – Risk that disappears with diversification
-
-- Systematic Risk – Risk that cannot be diversified away
+# take-aways
 
 - Stock are to be held for the long term.
 
@@ -23,66 +13,15 @@ tags: ["investing", "assetallocation"]
   - They don't appreciate the risks with stocks. And after they have suffered the inevitable loss, they sell.
     - No investor ever avoids loses at times, no matter how skilled
 
-- REIT's and Precious Metals stocks can have a place in a portfolio even if they have lower expected returns
-  - They are inflation hedges and likely to do well in an inflationary environment in which other stocks and bonds would be adversely affected
-
 - The best way to estimate future stock returns is the DDM (Dividend Discount Method)
   - Return = Dividend Yield + Dividend Growth Rate + Multiple Change
     - Dividend yield is the yield on the investment (Example – 2020 S+P 500 yield is 1.5%). The Dividend growth rate is historically 5%. And the Multiple change refers to the increase or decrease in the overall P/E ratio.
     - The Dividend yield and dividend growth rate is the fundamental return (easy to estimate). The Multiple change is the speculative return (impossible to estimate).
       - Benjamin Graham – "In the short run the stock market is a voting machine (speculative return), but in the long run, it is a weighing machine (fundamental return).
 
-- Do not expect high returns without high risk. Do not expect safety without correspondingly low returns
-
-- The longer a risky asset is held, the less chance of a poor result
-
 - Those who are ignorant of investment history are bound to repeat its mistakes
 
-- Dividing your portfolio between assets with uncorrelated results increases returns while decreasing risks. Most important concept in portfolio theory
-  - Two assets with positive returns should not have persistent highly negative correlations.
-    - Mixing assets with uncorrelated returns reduces risk. You can find these.
-      - In the long run though, meaningful negative (inverse) correlations are never seen. That would be too good to be true if they did.
-
-- The optimal Asset Allocation of the last 20 years is unlikely to look anything like the one for the next 20 years.
-  - The optimal AA can only be known in retrospect
-
-- Rebalancing increases long term portfolio performance
-  - It instills the investor with the discipline to buy low and sell high
-
-- If two assets have similar long term returns and risks are not perfectly correlated, then investing in a fixed rebalanced mix of the two not only reduces risks, but also actually increases return
-  - The excess return though is not obtained without rebalancing. It forces you to buy low and sell high to rebalance your asset allocation
-
-- Sticking by your AA policy through thick and thin I much more important than picking a "best" AA
-
-- But in real life risks, returns, and correlations of various assets fluctuate considerably over time
-
-- Real assets are almost always imperfectly correlated (Mostly positive) in real life (An above average return in one is somewhat more likely to be associated with an above-average return in the other)
-  - It is difficult to find 2 assets that are uncorrelated and it is practically impossible to find 3
-
-- Correlation coefficient ranges from -1 to +1
-  - Uncorrelated is 0
-  - inverse is -1
-  - Perfect is +1
-
 - In general, Bond durations of 6 months to 5 years are ideal for the risk dilution portion of the portfolio.
-
-- If you are unhappy with the degree of risk in the portfolio, you have 2 ways to reduce it
-  - Employ less risky individual assets (Not a good idea) – like adding large cap for small cap stocks, domestic for foreign stocks, utility for industrial stocks. It changes the dynamics of the portfolio
-  - Stick with your basic asset allocation and replace some of your entire stock AA with short term bonds. (Good idea)
-    - Risk Dilution – if you believe that you have arrived at an effective stock allocation, it is generally a better idea to employ risk dilution as this leaves the stock AA undisturbed
-      - A conservative risk adverse strategy will almost always involve at least a small amount of exposure to very risky individual assets
-
-- Recency bias – biggest mistake most experienced investors make
-  - We tend to extrapolate recent trends indefinitely into the future
-  - Try as hard as you can to identify the current financial wisdom so that you can ignore it
-    - In 2000, when the book was published, US was doing better than foreign stocks. What were the experts saying at that time?
-      - Stay at home for higher returns
-      - Buy only companies you know
-      - Diversify abroad at your own peril
-      - If you do diversify abroad, only do where you can drink the water
-  - Beware of recency and do not be overly impressed with the asset class returns over periods of less than 2-3 decades.
-
-- Foreign stocks belong in everyone portfolio. The primary benefit is to reduce standard deviation or risks
 
 - Something everyone knows isn't worth knowing
   - Identify the era's conventional wisdom and then ignore it
@@ -92,7 +31,6 @@ tags: ["investing", "assetallocation"]
   - Some managers spend lots of money researching macroeconomic, political, and market analysis to try to guess which assets will perform best in the future. And this is a fool's errand.
     - Why? The market has already priced this information into the current price
 
-- Periodically rebalance your portfolio back to your policy allocation. This will increase your long-term return and enhance investment discipline
 
 - Effective portfolio diversification can increase return while reducing risks. Achieving this benefit requires rebalancing the portfolio back to its target or "policy" AA. This is difficult to do and almost always involves moving against the market sentiment
 
@@ -114,37 +52,10 @@ tags: ["investing", "assetallocation"]
   - A distrust of "expert opinion" is one of the investors most useful tools
   - It also limits your exposure to only one market segment
 
-- AA The Three-Step Approach
-  - How many different asset classes do I want to own?
-  - How "conventional" of a portfolio do I want?
-  - How much risk can I and do I want to take?
-    - How much complexity can you tolerate and tracking error?
-    - The law of diminishing returns applies to asset classes. You get a diversification boost from the first several, after that, you are just amusing yourself
-
-- The more complex your AA, the more tracking error you will get vs the index (Like the S+P 500). You have to ask yourself how much will that bother you?
-  - Tracking error means that your portfolio will behave very differently than everyone else's
-  - If that bothers you, then you need a simpler portfolio. If it doesn't, then you can be more complex.
-    - Increasing the number of asset classes will improve diversification but will also increase your work and tracking error
-
 - It is impossible to forecast future optional portfolios by any technique
-
-- Your precise AA will depend on three factors
-  - Tolerance to tracking error
-  - Number of assets you wish to own
-  - Tolerance for risk
-
-- Two types of investors, those who don't know where the market is headed, and those who don't know that they don't know
-  - For all practical purposes there is no such thing as stock picking skill
-    - Those early high returns attract large number of investors who wind up with average returns (if they are lucky)
 
 - Mutual fund manager performance does not persist and the return on stock picking is zero
   - These managers ARE the market, so there is no way they can ALL perform above the mean
-
-- 4 Layers of Mutual Fund Costs
-  - Expense Ratio
-  - Commissions
-  - Bid-Ask Spreads
-  - Market-Impact Costs
 
 - Charles Ellis (an avid tennis player) first saw the data demonstrating a lack of money manger skill. And He thought, I have seen this before in tennis matches.
   - Most amateur tennis matches winning or losing was less a matter of skill and more of matter of playing conservatively and avoiding mistakes
@@ -158,17 +69,12 @@ tags: ["investing", "assetallocation"]
 
 - The only money made from newsletters is from the subscriptions, not from taking the advice
 
-- Do not rebalance too frequently. Let momentum work for you.
-  - This means to rebalance at most once per year
-
 - Money mangers do not exhibit consistent stock picking skill
 
 - Nobody can time the market
   - Because of the above 2 points, it is futile to select money mangers on the basis of past performance
     - Because of the above 3 points, the most rational way to invest in stocks is to use low cost passively managed index funds
-
-- Stocks outperform almost all other assets in the long run because you are buying a piece of our almost constantly growing economy
-  - But then investors make the mistake of thinking the most profitable stocks to own must be those of the most rapidly growing companies (Growth Stocks)
+  - If Nobel winners have tried and failed (Long-Term Capital Management), what chance do I have? And during a bear market, stocks usually decline much faster than they advance during a bull market. But you don't want to get out of the market then because you will miss the rally.
 
 - Long term returns are usually higher when valuations are cheap and lower when they are expensive
 
@@ -207,24 +113,11 @@ tags: ["investing", "assetallocation"]
     - Do not change your AA based on changes in economic, political conditions or analyst recommendations, that is a poor idea
       - In the authors opinion, overbalancing is likely to increase return if done correctly. But few investors have the nerve and discipline to rebalance and "overbalancing" requires even more of that nerve and discipline so few should try it.
 
-- The average investor suffers from overconfidence and thinks that they can beat the market, but this is a mathematical impossibility.
-  - The average investor must by definition obtain the market return minus expenses.
-
-- Investors suffer from recency bias.
-  - When prices fall, investors estimate of future returns goes lower too. This is irrational.
-  - Investors tend to overweight more recent data and underweight older data
-    - Most investors are "convex" traders in which they buy equities as they are rising and sell as they are falling.
-    - The opposite is a "concave" investor who buys as prices fall and sells as they rise
-      - In a world dominated by convex traders, it is an advantage to be a concave trader, and vice versa.
 
 - Human beings experience risk in the short term. This is because in nature, our ancestors had to focus on short term risks to survive.
   - Unfortunately, this is of less value in a modern society, specifically in the world of investing.
 
 - Vanguard and DFA are great choices for funds. Vanguard is owned by the shareholders.
-
-- ETFs
-  - Advantages – Can be traded throughout the day, do not generate capital gains taxes
-  - Disadvantages – Incur commissions and spreads
 
 - Dollar Cost Averaging (DCA) vs Lump Sum investing – from a purely financial point of view, it is usually better to put your money to work right away. However, if you are not used to owning risk assets, then it might be best to go slow and DCA your way into the market
   - DCA – Involves investing the same amount regularly in a given fund
@@ -232,29 +125,18 @@ tags: ["investing", "assetallocation"]
 
 - Value Averaging (VA) – Is another technique for investing in the market (read the book for more information on how to do it)
 
-- Rebalancing in your tax advantaged accounts every year or two should be ok
-
-- Try not to rebalance in your taxable accounts or do it as little as possible. Try to rebalance though buying because rebalancing triggers taxable events
-
 - Become familiar with the long-term history of the behavior of different classes of stocks and bonds
 
 - Portfolios behave differently than their constituent parts
 
 - A safe portfolio does not necessarily exclude very risky assets. Even the investor who seeks the safest possible portfolio will own some risky assets
 
-- For a given degree of risk, there is a portfolio that will deliver the most return
-
-- But this can only be known in retrospect
 
 - The investor's objective then is not to find the efficient frontier, rather the goal is to find a portfolio mix that will come reasonably close to the mark under a broad range of circumstances
 
 - Focus on the behavior of your whole portfolio, not its parts. Some will be doing very well or very bad at times
 
-- Recognize the benefits of rebalancing
-
 - The markets are smarter than you are
-
-- Very few money mangers beat the market over the long term
 
 - Do not run with the crowd
 
@@ -266,7 +148,135 @@ tags: ["investing", "assetallocation"]
 
 - Favor a "value" approach to investing
 
-- In the long run, it is very hard to beat a low-cost index fund
+# asset allocation
+
+- **When to change your asset allocation**
+  - 3 Reasons to change your AA
+    - Financial goal is well within reach
+    - You realize you will not need all your money during your lifetime
+    - You risk tolerance isn't what you thought it was
+  - Any AA changes should require deep thinking and even-handed judgement. Don't make changes during times of duress
+
+- Allocate our investments across multiple asset classes to reduce overall portfolio risk
+- Invest broadly within each class to eliminate the risk of owning any single security
+- Keep your costs down including taxes
+- Rebalance periodically
+
+- AA The Three-Step Approach
+  - How many different asset classes do I want to own?
+  - How "conventional" of a portfolio do I want?
+  - How much risk can I and do I want to take?
+    - How much complexity can you tolerate and tracking error?
+    - The law of diminishing returns applies to asset classes. You get a diversification boost from the first several, after that, you are just amusing yourself
+
+- The more complex your AA, the more tracking error you will get vs the index (Like the S+P 500). You have to ask yourself how much will that bother you?
+  - Tracking error means that your portfolio will behave very differently than everyone else's
+  - If that bothers you, then you need a simpler portfolio. If it doesn't, then you can be more complex.
+    - Increasing the number of asset classes will improve diversification but will also increase your work and tracking error
+
+- Your precise AA will depend on three factors
+  - Tolerance to tracking error
+  - Number of assets you wish to own
+  - Tolerance for risk
+
+- Dividing your portfolio between assets with uncorrelated results increases returns while decreasing risks. Most important concept in portfolio theory
+  - Two assets with positive returns should not have persistent highly negative correlations.
+    - Mixing assets with uncorrelated returns reduces risk. You can find these.
+      - In the long run though, meaningful negative (inverse) correlations are never seen. That would be too good to be true if they did.
+
+- The optimal Asset Allocation of the last 20 years is unlikely to look anything like the one for the next 20 years.
+  - The optimal AA can only be known in retrospect
+
+- Sticking by your AA policy through thick and thin I much more important than picking a "best" AA
+
+- A good idea is to decide on a static percentage of stocks, bonds, alternative investments that fit your needs and then maintain that allocation for a long, long, long time. Then rebalance as needed.
+
+# protect your wealth
+
+- As a nation, we are not saving enough in retirement accounts to make up for diminishing Social Security benefits and other traditional sources of income
+
+- 10% savings of pre-tax income is a good target for most people
+
+- We also have a fondness for seeing patterns where they don't exist. Stocks that have done well in the past are expected to continue to do well and stocks that have done poorly are expected to continue to do poorly
+
+- Avoid the temptation to follow the herd and invest in the hottest sectors or stocks.
+
+- Don't chase popular investment styles. Stick with your plan and give it time to work out
+
+- It is impossible to predict which type of fund will outperform any given year. Therefore, the best strategy is to hold a diversified portfolio that contains all types and stick with it
+
+- The more a mutual fund charges in fees, the lower the expected return
+
+- Take caution where you get financial advice, most of it is just salesmanship
+
+- Schools have spent lots of money and hours trying to figure out which active managed mutual fund managers are likely to outperform in the future. They discovered 2 facts
+  - Funds with low fees tend to outperform the market
+  - It is unreliable to assume that managers who have beaten the market in the past will continue to do so over the long term
+
+- On any given year, the index fund will be beat by many active managed funds. But in the long run, the index fund will be at the top
+
+- Reduce your estimated Social Security check at retirement by 60-70% and an increase of 5-7 years for retirement
+
+- Treat Social Security and defined pension plans as a separate account and don't use it in your equity/bond calculations
+
+- On the short term, it is nearly impossible to predict the movement of the stock market. But over the long term, the performance of the stock market is predictable because it follows the growth of the U.S. economy
+
+- Earnings Growth (Corporate Earnings or GDP) +Dividend (Yield)+Speculation (P/E ratio) = market return
+
+- In the short run, speculation creates the volatility in stock prices, but in the long term, economic growth is the real driver of returns. You can't guess what P/E ratio the market will assign in the future so don't try
+
+- It is impossible to forecast the movement of the inflation rate, but you can limit risk by purchasing short term bonds. They don't have the volatility of long-term bonds. You do get extra yield from long term bonds but it does not justify the added interest rate risk
+
+- Make sure your investments have a low correlation with each other or you don't get the benefits of diversification
+
+- Use a long-term strategic asset allocation or "buy and hold". No predictions needed.
+
+- A successful lifelong investment experience hinges on 3 critical steps
+  - Development of a prudent financial plan
+  - The full implementation of that plan
+  - The discipline to maintain that plan in good AND bad times
+
+- 6-12-month Emergency Fund recommended
+
+- Investing in the next hot item is very difficult to do
+
+- Picking a manager who can pick the next hot item is equally difficult to do
+
+- Do not select mutual funds on past performance. Past performance is not an indication of future results
+
+- T-Bills are "risk free" but can still lose money due to taxes and inflation. If their - purchasing power doesn't keep up
+
+- High volatility means erratic returns. Low volatility means more consistent returns
+
+- You cannot eliminate all risk from a portfolio but you can reduce it
+
+- You will lose money during some times. Don't try to market time your way out of it. You can't
+
+- Do NOT abandon your plan because you lose money. In the last 50 years the market is up 4 years for every 1 down
+
+- Owning several asset classes is better than owning a few
+
+- Choose asset classes that have positive real returns and lower correlation
+
+- You can select a good asset allocation but not a perfect one. Don't overanalyze
+
+- It is not possible to know which asset classes will perform well at any given time, therefore it is important to retain ALL asset classes in your portfolio at all times and to rebalance these annually.
+
+- Foreign stocks are great for US investors
+
+- They do not always move in correlation with the US market
+
+- They trade in foreign currency which is another diversifier
+
+- There is no known way to design a portfolio that is fully hedged against downturns while fully participating in the upswings
+
+- Look for mutual funds that have low expense ratios and no redemption fees
+
+- Prefer index mutual funds and ETF's
+
+- Stay away from high cost illiquid investments unless you really know what you are doing
+
+- You have to stay invested during all market conditions to benefit from the gains
 
 # Examples of various AA based on complexity
 - Level 1 AA
@@ -294,6 +304,316 @@ tags: ["investing", "assetallocation"]
       - Precious Metals Stocks, Natural Resources, Utilities
       - Specific nations equity or bonds
 
+# Risk, reward and correlation
+
+- In the long run of investing, you are compensated for taking risks
+  - Conversely, if you seek safety, your returns will be low
+
+- Experienced investors understand risk and reward are intertwined
+  - One of the easiest ways to spot investment fraud is the promise of excessive returns with low risk
+  - There are no risk-free investments
+  - Practitioners view risk as investment volatility
+  - Individuals view risk as losing money
+  - Investments with less risk of income disruptions have lower expected returns
+  - Portfolio risk cannot be eliminated but it can be controlled with an asset allocation strategy
+
+- Do not expect high returns without high risk. Do not expect safety without correspondingly low returns
+
+- The longer a risky asset is held, the less chance of a poor result
+
+- One sign of a dangerously overbought market is a generalized underappreciation of the risks
+
+- Nonsystematic Risk – Risk that disappears with diversification
+
+- Systematic Risk – Risk that cannot be diversified away
+
+- Real assets are almost always imperfectly correlated (Mostly positive) in real life (An above average return in one is somewhat more likely to be associated with an above-average return in the other)
+  - It is difficult to find 2 assets that are uncorrelated and it is practically impossible to find 3
+
+- Correlation coefficient ranges from -1 to +1
+  - Uncorrelated is 0
+  - inverse is -1
+  - Perfect is +1
+
+- Correlation is measured on a -1 to +1 scale
+  - +0.3 or greater is positive
+  - -0.3 or less is negative
+  - -0.3 to 0.3 is noncorrelated
+
+- If 2 investments move in the same direction at the same time, they have positive correlation. If they move in opposite directions, they have negative correlation.
+
+- You want investments that have lower correlation to each other
+
+- Don't purchase new investments that have a high positive correlation with investments you already have
+
+- Negative correlation is theoretically ideal when selecting investments but this doesn't occur in the real world. Typically, the best asset pairs you will find are noncorrelated
+
+- Correlations are dynamic, not static. And you can't guess when/how they will change. For example – The S+P 500 and Intermediate term treasury bonds have been between +0.49 to -0.42 correlated in the last 20 years (1990-2009). Average was 0 so they are noncorrelated
+
+- Correlation is not the only reason to invest. The security must also have a positive expected rate of return. It is basically impossible to find 2 negative correlated asset classes that both earn a positive rate of return. Noncorrelated is your best bet
+
+- During extreme volatility when you want low correlation among asset classes, positive correlation increases drastically across all classes. Especially during bear markets or disasters
+
+- For a given degree of risk, there is a portfolio that will deliver the most return. But this can only be known in retrospect
+- The perfect portfolio can only be known in retrospect. So, don't overanalyze
+
+- But in real life risks, returns, and correlations of various assets fluctuate considerably over time
+
+- Two types of investors, those who don't know where the market is headed, and those who don't know that they don't know
+  - For all practical purposes there is no such thing as stock picking skill
+    - Those early high returns attract large number of investors who wind up with average returns (if they are lucky)
+
+# rebalancing
+
+- Rebalancing is the most difficult because it forces you to sell what is going up and to buy what went down
+
+- Try to rebalance through changes in what you buy, try not to rebalance by selling assets
+
+- Rebalancing increases long term portfolio performance
+  - It instills the investor with the discipline to buy low and sell high
+
+- If two assets have similar long term returns and risks are not perfectly correlated, then investing in a fixed rebalanced mix of the two not only reduces risks, but also actually increases return
+  - The excess return though is not obtained without rebalancing. It forces you to buy low and sell high to rebalance your asset allocation
+
+- Rebalancing is based on a theory called regression to the mean. That is, there is a natural tendency in the marketplace for all broad asset classes to return close to their history risk profiles.
+
+- When you rebalance, you sell some of the winners to buy some of the losers. It may feel counterintuitive at first but it follows the logic to buy low and sell high
+
+- Calendar based rebalancing is a good idea. Pick a date and rebalance then. You are more likely to not procrastinate
+
+- Rebalancing only works if the investments in the portfolio don't act the same way. You want assets that don't correlate with each other
+
+- Rebalancing in your tax advantaged accounts every year or two should be ok
+
+- Try not to rebalance in your taxable accounts or do it as little as possible. Try to rebalance though buying because rebalancing triggers taxable events
+
+- Rebalance your portfolio at least 1 per year
+
+- Do not rebalance too frequently. Let momentum work for you.
+  - This means to rebalance at most once per year
+
+
+## Investment Pyramid – 5 levels
+
+- Base 1 – Cash accounts for living expenses
+  - Checking
+  - Savings
+  - Money Market
+  - Emergency Fund
+
+- 2 - Discretionary long-term liquid investments
+  - Mutual Funds
+  - ETF
+  - Bonds
+  - CD's
+  - Annuities
+
+- 3 – Discretionary long term illiquid assets
+  - Personal Home
+  - Properties
+  - Business
+  - Collectibles
+
+- 4 – Nondiscretionary assets
+  - Social Security
+  - Pension
+
+- Top 5 – Discretionary Speculative
+  - Commodities
+  - Individual Stocks
+
+# Equities
+
+- An investment in a total US stock market fund is a solid foundation on which to base a US stock market allocation. Total Index are heavily weighted toward large cap stocks
+
+- Take your age x 1.5 for your % AA to a TDF. Example. 40 x 1.5 = 60% allocation to TDF
+
+- Midcap indexes are highly correlated with total stock market indexes and are therefore a poor diversifier. You don't need them
+
+- 25% max dedicated toward factor tilts
+
+- If you want to tilt, above all, be patient and stick to your guns. Don't chase returns. Once you decide to tilt, you need to stick with that strategy and not bailout of it
+
+- The enemy of a good asset allocation is the quest for a perfect one. Fight the urge to be perfect
+
+- Study in 1992 By Fama and French – Performance of a broadly diversified US stock portfolio relied on 3 primary risks axis to determine its return. 95% accuracy as to what the portfolio would return
+  - Market risk or Beta – all portfolios move up or down in relation to the total stock market
+  - Percent of small cap in the portfolio by weight – small stocks have higher returns and do not always have correlation to the total stock market
+  - Percent of value orientation – value stocks have a higher return than growth and do not correlate with growth stocks
+
+- Small cap value index has outperformed growth with less standard deviation from 1979-2009
+  - Having a 50/50 value/growth index during this time added no return and increased standard deviation
+
+- Small cap stocks have higher expected returns but also higher standard deviation than large cap
+  - This occurs in foreign markets too
+
+- Small Cap value along with total stock market is a good choice in your portfolio
+
+- 4 Layers of Mutual Fund Costs
+  - Expense Ratio
+  - Commissions
+  - Bid-Ask Spreads
+  - Market-Impact Costs
+
+- ETFs
+  - Advantages – Can be traded throughout the day, do not generate capital gains taxes
+  - Disadvantages – Incur commissions and spreads
+
+- Stocks outperform almost all other assets in the long run because you are buying a piece of our almost constantly growing economy
+  - But then investors make the mistake of thinking the most profitable stocks to own must be those of the most rapidly growing companies (Growth Stocks)
+# International
+
+- International equity provides currency diversification
+
+- Global equity invests in both US and international. Not usually a good idea unless you have a very small amount of money want diversification from 1 fund
+
+- Good idea to have both US AND International equities in your portfolio at all times. You don't know which one will win. US won from 1970-2001 then International has won since
+
+- Canada's economy is weighted heavily toward finance, energy and basic materials. Canada has lots of natural resources and investing in them acts as a hedge against commodity prices
+
+- A permanent allocation to emerging market stocks is recommended. Emerging markets are very volatile. Recently Emerging markets have increased their correlation to US markets but this may or may not continue
+
+- Generally, the allocation to international stocks is about 30% of the equity portion of your portfolio
+
+- Independent studies prove the size and value premium (F+F study above) works in international stocks like it does with US. This means international small cap is a good idea too
+
+- Foreign stocks are subject to currency, political, trading, custody and regulatory risk. You must understand these risks. But they do provide diversification to a portfolio
+
+- Foreign stocks belong in everyone portfolio. The primary benefit is to reduce standard deviation or risks
+
+# Fixed Income
+
+- A diversified fixed income portfolio enhances return
+
+- Low-cost bond mutual funds are an ideal way to invest
+
+- Tax considerations may be an important element in fixed income when investing in a taxable account
+
+- Bond Structure
+  - Short – 3 years or less
+  - Intermediate – 4 to 9 years
+  - Long – 10+ years
+
+- Longer term bonds have higher interest rate risk. Longer maturity = higher rates. Opposite true
+
+- Lower quality bonds have higher credit risk. Lower credit rating = higher rates. Opposite true
+
+- High yield bonds have not only credit risks but the real danger that the issuers will default
+
+- Municipal bonds are a good choice for people in higher tax brackets in taxable accounts
+
+# REIT
+
+- Real estate is a separate asset class from stocks and bonds
+
+- REIT are a convenient way to invest in real estate
+
+- REITs have low correlation with stocks and bonds
+
+- Nearly all commercial lease contracts have a built-in inflation hedge. Therefore, REITs are a good inflation hedge
+
+- REITs are the simplest way to participate in the real estate market. They are also liquid
+
+- Index Equity REITs and ETFs are a good choice
+
+- REITs are divided into 3 categories
+  - Equity – Real estate properties. Most pure holding
+  - Mortgage REITs – do not own property, they finance property. Bond investment
+  - Hybrid – Hold both
+
+- 10% allocation to REIT is enough
+
+- Do not include home equity in your asset allocation models
+
+- Equity REITs are portfolios of apartments, hotels, malls, industrial buildings, and other rental property
+
+- REIT's and Precious Metals stocks can have a place in a portfolio even if they have lower expected returns
+  - They are inflation hedges and likely to do well in an inflationary environment in which other stocks and bonds would be adversely affected
+
+# Behavioral
+
+- Realistic expectations are important to investment planning
+
+- Market volatility is more predictable than market return
+
+- Investments with expected positive investment return and higher volatility have higher expected return
+
+- All investments have risk. Even T-Bills which is inflation risk. There is no risk-free investment
+
+- No more than 12 funds because it gets too complex with higher fees and diminishing returns
+
+- Do not change your percentage of equity/bond based on what you think the market will do. Once you select a ratio stick with it.
+
+- Most people can't stomach a 100% equity portfolio
+
+- A well-developed plan works only when the investor sticks to the plan through good and bad times
+
+- A sensible investment plan never fails an investor, the investor fails the plan
+
+- People tend to more optimistic about stocks after the market goes up and less after it goes down
+
+- Investors give too much weight to recent information
+
+- People tend to buy investments that have had a recent run-up in performance
+
+- Investors label investments good or bad depending of the price relative to where they bought it
+
+- People are reluctant to admit errors
+
+- Overconfident investors generally believe they have more knowledge and information than they actually do. Therefore, they tend to trade too much and underperform
+
+- Males tend to be overconfident
+
+- Females tend to do better at sticking to a long-term plan and usually perform better
+
+- Do not change your investment strategy during a bear market
+
+- If you can rebalance without hesitation even during bad markets, your risk tolerance is good
+
+- Investors tend to suffer from overconfidence
+
+- Many portfolio failures occur when investors take on too much risk
+
+- Recency bias – biggest mistake most experienced investors make
+  - We tend to extrapolate recent trends indefinitely into the future
+  - Try as hard as you can to identify the current financial wisdom so that you can ignore it
+    - In 2000, when the book was published, US was doing better than foreign stocks. What were the experts saying at that time?
+      - Stay at home for higher returns
+      - Buy only companies you know
+      - Diversify abroad at your own peril
+      - If you do diversify abroad, only do where you can drink the water
+  - Beware of recency and do not be overly impressed with the asset class returns over periods of less than 2-3 decades.
+
+- If you are unhappy with the degree of risk in the portfolio, you have 2 ways to reduce it
+  - Employ less risky individual assets (Not a good idea) – like adding large cap for small cap stocks, domestic for foreign stocks, utility for industrial stocks. It changes the dynamics of the portfolio
+  - Stick with your basic asset allocation and replace some of your entire stock AA with short term bonds. (Good idea)
+    - Risk Dilution – if you believe that you have arrived at an effective stock allocation, it is generally a better idea to employ risk dilution as this leaves the stock AA undisturbed
+      - A conservative risk adverse strategy will almost always involve at least a small amount of exposure to very risky individual assets
+
+- The average investor suffers from overconfidence and thinks that they can beat the market, but this is a mathematical impossibility.
+  - The average investor must by definition obtain the market return minus expenses.
+
+- Investors suffer from recency bias.
+  - When prices fall, investors estimate of future returns goes lower too. This is irrational.
+  - Investors tend to overweight more recent data and underweight older data
+    - Most investors are "convex" traders in which they buy equities as they are rising and sell as they are falling.
+    - The opposite is a "concave" investor who buys as prices fall and sells as they rise
+      - In a world dominated by convex traders, it is an advantage to be a concave trader, and vice versa.
+
+
+# Where to put your money
+
+- Tax Deferred
+  - Corportate bonds
+  - CD
+  - High turnover mutual funds
+  - REITs
+  - Commodities Funds
+
+- Taxable
+  - Low turnover equity funds
+  - ETFs
+  - Municipal bonds
 
 # Quotes
 
