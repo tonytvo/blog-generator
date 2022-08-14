@@ -416,7 +416,37 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 - **balance sheet-income account discrepancies**
   - prevalent in the case of mining and oil companies, is to mark up fixed assets and then fail to increase the correspondingly depreciation charges on the income statement. This is done to benefit from the higher valuation in their balance sheet, without accepting the burden of consequently higher depreciation charges against net income.
+
 - the vast majority of industrial companies follow the standard policy or charing an appropriate depreciation rate against each class of depreciable assets.
+
+- when the analyst knows that a company's depreciation policy differs from the standard, there is special reason to check the adequacy of the allowance. Comparison with a company in the same field may yield significant differences.
+
+- depreciation charges often an issue in mergers
+- concealed depreciation such as understate depreciation, hence overstating the earnings power.
+
+- **amortization charges of oil and mining companies**
+  - **depletion charges of mining companies**
+    - depletion represents the using up of capital assets by turning them into products for sale. It applies to companies producing metals, oil and gas, sulphur, timber, etc... As the holdings, or reserves, of these products are gradually exhausted, their value must gradually be written-off through charges against earnings.
+  - **independent calculation by investor necessary**: in mining, the investor must ordinarily compute his own depletion allowances for his share of the mining property.
+  - **depletion and similar charges in the oil industry:**
+    - in the oil industry depletion charges are closer related to the actual cost of doing business. Large oil producer normally spends substantial sums of capital each year on new leases and new wells. This is needed to make up for the shrinkage of reserves throughout continued production. In general, depletion charges are cash outlays for the purpose of maintaining reserves and production.
+    - Graham then provides an assessment of how some oil companies would misrepresent the actual life time of the asset by extending or shortening the depletion and depreciation of their assets. This was typically exercised so the company could control the market price through earnings manipulation.
+  - **the meaning of these variations to the analyst and the investor**
+    - analyst should seek to apply a uniform and reasonably conservative rate of amortization that reflects realities of fixed assets.
+      - depreciation on tangible assets. This should always be applied to cost - or to a figure substantially less than cost.
+      - intangible drilling costs. Capitalizing these costs, and then writing them off as oil is produced, is the preferable basis for comparative purposes and to supply a fair reflection of current earnings.
+      - property retirement and abandoned leases. A loss on property should be charged against the year's earnings, rather than gainst surplus.
+      - depletion of oil reserves. The proper principle here is that the analyst should allow for depletion based on the current market values of the oil.
+        - in the case of integrated oil companies, accept the company's depletion figure as the best available.
+        - in the case of companies that are solely or virtually oil producers, the analyst can compute what the market is paying for the total developed oil reserves.
+
+- **other types of amortization of capital assets**
+  - **leaseholds and leasehold improvements**
+    - if a lessee is renting a property at the large discount to the actual cost of owing the property - and the terms of the contract are over a long period of time - there maybe significant value to account for.
+    - oil lands are leased on a standard royalty basis, usually one-eighth of the production. Such leaseholds can be worth much more than the rental payments involved. If a company has paid money for a given leasehold, the cost is regarded as a capital investment that should be written off during the life of the lease. These charges are in reality part of the rent paid for the property, and must therefore be included in the current operating expense.
+    - when leased property is improved with assets fixed by the leese, the cost must be written down to nothing during the life of the lease. This is due to the landlord ultimately owning the property and the tethered asset when the lease expires. The annual expense for this purpose is called "amortization of leasehold improvements." Chain-store enterprises, and consequently the annual write-offs may be of significant importance in their income statements.
+  - **amortization of patent**: in theory, a patent should be dealt with the same way as a mining property; i.e, its cost to the investor should be written off against earnings during its remaining life.
+  - **amortization of goodwill**: in modern accounting. Goodwill is continually tested for impairment, but isn't amortized.
 
 ### public utility depreciation policies
 
