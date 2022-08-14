@@ -383,10 +383,40 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - the write-offs could be written against surplus to eliminate future annual deductions from earnings, and in that way to make the shares appear more valuable. This practice has aroused considerable criticism in recent years both from NYSE and from S.E.C
 
 ### misleading artifices in the income account. Earnings of subsidiaries
-- one method to distort reported earnings is to simply create earnings that don't exist, while hiding the accounting practices to the public. Graham suggests that one method to detect unsound accounting principles is to dig into tax calculations.
-- Graham provides examples of how parent company's can mislead shareholders when earnings are split among subsidiaries. Subsidiaries that are not consolidated are also prone to manipulation. One method is to let earnings accumulate in the subsidiary, and then pay special dividends to the parent company during poor years. Graham intelligently suggests that it's the duty of management to disclose the true earnings no matter circumstances and intentions.
 - if parent company has an unprofitable division, its losses must be shown as a deduction from normal earnings
+- **flagrant example of padded income accounts**: on rare occasions management would include earnings in the income statement that have no existence.
+- **balance sheet and income-tax checks upon the published earnings statements**
+  - to check upon the reliability of the published earnings is to look at the amount of federal income tax accrued. The taxable profit can be calculated from the income-tax accrual, and this profit compared in turn with the earnings reported to stockholders. The two figures should not necessarily be the same, since the tax laws may give rise to a number of divergences. However, the wide differences should be noted and made the subject of further inquiry.
+- one cannot make a quantitative deduction to allow unscrupulous management; the only way to deal with such situations is to avoid them.
+- **subsidiary companies and consolidated reports**
+  - consolidated reports occur when an enterprise controls one or more operational subsidiaries so that it can disclose companies financial reports as a 'group' or one entity.
+  - the important part for consolidation is to ensure nothing is counted twice, for example, the profit of the subsidiary.
+- **special dividends paid by subsidiaries**
+  - parent companies can supplement their earnings through special dividends paid by their subsidiaries. This can be very misleading to an analyst and they need to account for this in their evaluation process.
+- **broader significance of subsidiaries' losses**
+  - should a subsidiary's losses be represented on the parent company's earnings?
+  - should the analyst discount the value of parent company if they own an unprofitable interest in another company?
+  - it is clear from the standpoint of proper accounting that as long as a company continues to control an unprofitable division, it's losses must be shown as a deduction from normal earnings.
+  - if the amount involved is significant, the analyst should investigate whether or not the losses may be subject to early termination
+  - the analyst may consider all or part of subsidiary's losses equivalent to nonrecurring items.
+
 ### relation of depreciation and similar charges to earning power
+- **leading questions relative to depreciation**
+  - if a capital asset has a limited life, provisions must be made to write off the cost of the asset by charges against earnings distributed over the period of the assets life.
+  - three complications arise
+    - accounting rules may permit a value other than cost to acquire the asset as the basis for amortization charges.
+    - there are numerous ways company can execute their depreciation/amortization charges from the balance sheet to the income statement.
+    - sometimes account rules allow companies to make depreciation charges which don't represent the reality of assets depreciation over time. This makes the analysts job very difficult to assess capital expenditures.
+- **depreciation base other than cost**
+  - Graham suggests substitute the replacement value of all the fixed assets at a given date, while everything prior is depreciated according to current accounting standards.
+  - in most cases, companies don't place much interest in ensuring their depreciation charges are representative of their assets' ever-changing replacement costs.
+  
+- **mark-downs to reduce depreciation charges**
+  - Graham believes that excessive write-downs of fixed assets are inexcusable and should not be condoned by the accounting profession. Accountants should refuse to certify a report containing such mark-downs.
+
+- **balance sheet-income account discrepancies**
+  - prevalent in the case of mining and oil companies, is to mark up fixed assets and then fail to increase the correspondingly depreciation charges on the income statement. This is done to benefit from the higher valuation in their balance sheet, without accepting the burden of consequently higher depreciation charges against net income.
+- the vast majority of industrial companies follow the standard policy or charing an appropriate depreciation rate against each class of depreciable assets.
 
 ### public utility depreciation policies
 
