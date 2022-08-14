@@ -1,5 +1,5 @@
 ---
-title: Difficult Conversations by Joseph, Kerry, Ron, Al, Emily summary
+title: crucial conversations by Joseph, Kerry, Ron, Al, Emily summary
 date: "2022-07-25T22:12:03.284Z"
 description: "crucial conversations by Joseph, Kerry, Ron, Al, Emily summary"
 tags: ["communication", "relationship"]
@@ -8,36 +8,38 @@ tags: ["communication", "relationship"]
 # take-aways
 - "Crucial conversations" are needed when the outcome is important, when people disagree and when emotions are heated.
 - To excel at crucial conversations, you must master the art of engaging in dialogue.
-- To promote effective dialogue, make everyone feel safe in expressing what they really want to say.
-Focus on what you really want to achieve in order to create a productive dialogue.
+- To promote effective dialogue, make everyone feel safe expressing what they want to say.
+Focus on what you want to achieve to create a productive dialogue.
 - To elicit more information so you can make better decisions, create a "shared pool" of ideas and understandings.
-- Recognize a crucial conversation by noting certain physical, emotional and behavioral signs.
+- Recognize a crucial conversation by noting certain physical, emotional and behavioural signs.
 - Two essential mutual safety conditions for any dialogue are "purpose" and "respect."
   - Avoid making someone feel unsafe in a conversation by ensuring that they know you respect them as individuals.
 - Control your emotions in a dialogue to stay on task.
-- State what you want, explore what others need and move onward to action.
+- State what you want, explore what others need, and move on to action.
 - Use one of four decision-making methods: "command, consult, vote or consensus."
-- **Crucial conversations can often devolve into shouting matches. However, if you learn the right skills, you can master these dialogues and achieve optimal results from them, and in turn noticeably improve your personal and professional life.**
+- **Crucial conversations can often devolve into shouting matches. However, if you learn the right skills, you can master these dialogues and achieve optimal results from them, noticeably improving your personal and professional life.**
 - **focus on respect**
 - **it's okay to ask**
-  - When you feel your emotions flaring up, ask the other person if your interpretation of their behavior is right before freaking out
-- If you understand the subconversations that exist within a difficult conversation, you will be able to manage the issues more effectively.
+  - When you feel your emotions flaring up, ask the other person if your interpretation of their behaviour is right before freaking out
+- If you understand the subconversations within a difficult conversation, you will be able to manage the issues more effectively.
 - Never assume that you understand someone else’s motives.
 - Instead of trying to assign blame, consider how harnessing the associated anger will help you prevent a bad outcome in future.
 - Learn to see the "third story," the impartial account, rather than fighting over whose story is true.
 - Venting your feelings is not useful. Describing them carefully can be.
 - Don’t try to control other people’s responses.
-- You aren’t perfect and neither is anyone else.
+- You aren’t perfect, and neither is anyone else.
 - The best way to get someone to listen to you is to listen to them first.
 - Reframing a difficult conversation is a great way to defuse it.
 - Pick your difficult conversations carefully. You won’t live long enough to have them all.
 - **Difficult conversations are often avoided because you fear the results. The “What Happened?”, Feelings and Identity Conversations can be transformed into Learning Conversations by focusing on curiosity, sharing feelings and refraining from blaming each other. Keeping these things in mind and telling a Third Story will help you and the person you’re talking to have a meaningful conversation**
 - **Pay attention to your inner voice.**
-  - Your inner voice is that little sound in your head that remarks on everything you hear, do and read. Sometimes that voice can grow in volume and overpower the voices of others. Instead of muting it, first, listen to it. This way you’ll discover your true thoughts and train yourself to listen more attentively to others.
+  - Your inner voice is that little sound in your head that remarks on everything you hear, do and read. Sometimes that voice can grow in volume and overpower the voices of others. Instead of muting it, first, listen to it. This way, you’ll discover your true thoughts and train to listen more attentively to others.
+
 
 # "Crucial conversations" are needed when the outcome is important, when people disagree and when emotions are heated.
-- Crucial conversations are those everyday interactions that significantly affect your life. They differ from ordinary dialogues because the opinions of the participants vary, their emotions are high and the stakes are significant. The way you deal with these important discussions can have a positive or negative result and change the course of your life. Some examples of crucial conversations include breaking up or reconciling with a partner, giving your boss feedback or asking for a pay rise. Often, people shy away from such conversations or handle them poorly. The best way to deal with such situations is to face up to the conversation and handle it with skill.
-- Research with more than 20,000 people in hundreds of organizations showed that influential people – those who have successfully achieved their goals and built strong personal and professional relationships – develop an ability to handle crucial conversations effectively. They are skilled in discussing difficult, controversial, high-stakes topics. Cultivating that ability will improve your career prospects, your relationships and even your health. You will increase the level of productivity in your company, because you will be better equipped to deal with challenging working relationship topics.
+- Crucial conversations are those everyday interactions that significantly affect your life. They differ from ordinary dialogues because the participants' opinions vary, their emotions are high, and the stakes are significant. How you deal with these important discussions can have positive or negative results and change the course of your life. Some examples of crucial conversations include breaking up or reconciling with a partner, giving your boss feedback or asking for a pay rise. Often, people shy away from such conversations or handle them poorly. The best way to deal with such situations is to face and handle the conversation skillfully.
+- Research with more than 20,000 people in hundreds of organizations showed that influential people – those who have successfully achieved their goals and built strong personal and professional relationships – develop an ability to handle crucial conversations effectively. They are skilled in discussing difficult, controversial, high-stakes topics. Cultivating that ability will improve your career prospects, relationships and health. You will increase productivity in your company because you will be better equipped to deal with challenging working relationship topics.
+
 
 # To excel at crucial conversations, you must master the art of engaging in dialogue.
 
