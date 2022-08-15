@@ -449,6 +449,27 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - **amortization of goodwill**: in modern accounting. Goodwill is continually tested for impairment, but isn't amortized.
 
 ### public utility depreciation policies
+- inadequate depreciation revealed by transfer from surplus and reserves such as in the case of Brooklyn Union Gas.
+- **variety of depreciation policies**
+  - *Depreciation Proper*
+    - *Straight-line method*: each class of depreciable property is written down by equal annual charges during the period of its estimated life
+    - *sinking-fund method*: the effect of this method is to make the deductions somewhat smaller in the earlier years and correspondingly higher in the later years. This is because depreciation is assumed to earn interest until the property is retired.
+    - *the over-all method*: single annual percentage to the entire depreciable property account is used, instead of varying rates to different classes of assets. The object is to arrive at a simple approximation of the actual depreciation.
+  - *retirement reserve methods*
+    - the intention of a retirement reserve is to have funds available when an asset retires. Over any long period of time, proper depreciation and proper retirement allowances should yield the same results. In reality the majority of retirement reserve policies operate simply to understate the current loss of property value and thus to overstate the earnings. 
+    - various methods of calculating retirement reserves are:
+      - *percentage of gross*. this method would tend to approximate a regular depreciation rate if the percentage take were adequate. Generally this is not the case.
+      - *fixed rate per unit of product*. This method resembles the previous and is subject to the same criticism. Instead of a percentage of gross product, an example used is $2.7 in depreciation for every thousand kilowatt hours sold.
+      - *Over-all percentage of Gross for maintenance and depreciation combined*. By this method, the larger the amount spent for maintenance, the smaller the amount saved in a reserve for depreciation.
+      - *discretionary deductions*. The annual deduction is largely based on the judgement of the management. It might be the same or varying amount from year to year.
+    - **double accounting policies on depreciation.**
+      - regardless of what method is followed in the annual reports, practically every company follows the straight-line basis of depreciation in computing its income tax. As a result, the investor must determine whether the depreciation is representative of the linear or non-linear erosion that takes place on the value of the asset over time
+      - *Reasons for accepting, in general, the income tax base*. Graham presents 5 major reasons for accepting the income tax figure rather than the income statement as basis of depreciation:
+        - the straight-line basis follows a definite and logical accounting theory. If there is an excessive deduction, the Treasure Department wont' accept it.
+        - the inadequacy of the "retirement reserve" idea in general, has been shown by the necessity in many cases of making large transfers from surplus to support the retirement reserve.
+        - Since 1934, there has been an almost universal increase in the retirement allowances. This can be perceived as a strong indicator that past allowances were too small and therefore an overstatement of earnings.
+        - a number of state commissions and the federal commissions have now ordered companies within their jurisdictions to follow the income tax depreciation base.
+      - *instance when income tax basis should be rejected or questioned.* while Graham in general believes in accepting income tax basis, there may be times when figures in the annual report should be accepted, or even to seek a third basis.
 
 ### amortization charges from the investor's viewpoint
 
