@@ -488,7 +488,10 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - **stock watering reversed**. This manipulation of asset value by writing the book value up and down is interrelated with the value of the stock. This would inflate the stock prices by the higher book value of the fixed assets (known as *stock watering*)
 - **the purchases's amortization calculation**. Where the life of a mining property is limited, the investor's own calculation of amortization should be deducted from earnings. He can base this on three factors 1) the price paid for the mining property. 2) the earnings before depreciation and depletion 3) the minimum life of the mine, and alternatively, the probability of life.
 - **purchaser amortization of oil reserves**. depreciation and depletion charges per barrel are found by dividing the estimated remaining oil reserves into the net value of the properties on the books.
-- **purchaser's amortization of patents**. 
+- **purchaser's amortization of patents**. the question for investor is how much she is paying for the patent, when she buys the stock at a given price. This is the amount she must use for writing-off subsequent earnings.
+- *general rule*. In reality no single calculation shown above will represent stocks wholistically. For big companies it is even harder since they have a bulk of patents and intangible items.
+- *special cases*. In some special cases, when a company's business primarily consists of collecting royalties on a patent or a group of patents, some finite provisions can be made. This provision must be related to the price the investor paid for his interest in the patent, and not on the book value of the patent.
+
 ### significance of earnings 
 
 ### price-earnings ratios for common stocks. Adjustments for changes in capitalization
@@ -519,6 +522,12 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - the outstanding formal debt of the company.
 - when we start with the reproduction cost of the assets and then subtract the first 2 categories of liabilities, we are left with the asset value of the whole enterprise.
 - The defining character of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage, and, if so, how strong and sustainable it is
+
+### significance of book value
+
+### significance of current asset value
+
+### implications of liquidating value, stock holder-management relationships
 
 ## discrepancies between price and value
 
