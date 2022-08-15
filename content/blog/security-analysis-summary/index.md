@@ -473,6 +473,22 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ### amortization charges from the investor's viewpoint
 
+- **problem indicated by hypothetical example**
+  - typical market appraisals
+    - a company with a less valuable assets in terms of accounting is worth considerable more than the company with a higher value asset. This is done by a single gesture of writing down company C's assets to almost nothing immediately upon the purchase.
+  - *a more rational approach*. a more practical approach would be to include the fair value of the respective assets and add that to the cash holdings. The investor might consider which depreciation method that should be used.
+
+- **practical application of foregoing reasoning.** depreciation is not a cash outlay but deducted as an expense on the income statement. As a result, the company is reporting no income, yet the cash account continues to grow because displayed income is being off-set by depreciation charges.
+  - *how to determine the proper depreciation charge* the investor or the analyst must come up with an estimate for depreciation which aligns with the actual conditions of the business (based on the discoverable facts).
+  - *concept of expended depreciation*. The primary reason for reducing a company's depreciation charges is because it doesn't properly reflect the company's cash flow. In short, as an asset's life continues to get older, the value that it is listed for on the company's balance sheet will continue to decrease. As a result, an investor should see the value of tangible and intangible assets slowly decrease in value over time.
+  - *long-term depreciation a form of obsolescence*. for instance a plant may not be wearing out, but rather being obsolete due to changes in the industry and the status of the corporation. This risk is rather due to the investment and not accounting, hence it should be incorporated in the price and not in the depreciation, as it is a business risk. Therefore, the carrying value of asset should be adjusted accordingly. This value test for asset impairment should be conducted quarterly by the company's management.
+  - *application of foregoing in determining earning power*. for companies that are similar to a railroad, only the expended depreciation should be deducted from earnings due to maintenance, renewals and repair to a large degree.
+- **depreciation on apartment and office buildings**. In short, the asset can't be depreciated for more than the price that was paid to acquire it.
+- **inadequate allowance for depreciation**. Assets should not be written down in large amounts early in the assets life simply to make the earnings-power appear more abundant during the assets final years of life. This represents the true cash flow of the business.
+- **stock watering reversed**. This manipulation of asset value by writing the book value up and down is interrelated with the value of the stock. This would inflate the stock prices by the higher book value of the fixed assets (known as *stock watering*)
+- **the purchases's amortization calculation**. Where the life of a mining property is limited, the investor's own calculation of amortization should be deducted from earnings. He can base this on three factors 1) the price paid for the mining property. 2) the earnings before depreciation and depletion 3) the minimum life of the mine, and alternatively, the probability of life.
+- **purchaser amortization of oil reserves**. depreciation and depletion charges per barrel are found by dividing the estimated remaining oil reserves into the net value of the properties on the books.
+- **purchaser's amortization of patents**. 
 ### significance of earnings 
 
 ### price-earnings ratios for common stocks. Adjustments for changes in capitalization
