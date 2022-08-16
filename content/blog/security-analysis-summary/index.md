@@ -492,8 +492,19 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - *general rule*. In reality no single calculation shown above will represent stocks wholistically. For big companies it is even harder since they have a bulk of patents and intangible items.
 - *special cases*. In some special cases, when a company's business primarily consists of collecting royalties on a patent or a group of patents, some finite provisions can be made. This provision must be related to the price the investor paid for his interest in the patent, and not on the book value of the patent.
 
-### significance of earnings 
-
+### significance of earnings record
+- **concept of earning power**: which basically the average earnings per share, should be seen over a number of years. One should notice if the observed years are all surrounded by the average. This is preferred to very volatile earnings, as repeated occurrences are more impressive than a single occurrence.
+- **quantitative analysis should be supplemented by qualitative considerations:**
+  - *quantitative data is useful only to the extent that's supported by a qualitative survey of the enterprise*
+  - in steel company example, while current and past earnings are one thing, Graham aims to calculate 'normal earnings'. He suggests that national output of steel and the market position should be considered as part of a qualitative analysis. Reported earnings cannot be viewed without relative factors.
+- **current earnings should not be the primary basis of appraisal**
+  - current earnings governs the market price of common stock prices more than the long term average. While a private business might earn twice as much as their average years, their local market price would never be purchased based on the extraordinary year of earnings.
+  - the market price typically corresponds very closely to the earnings regardless of the abnormalities in earnings.
+  - As the speculative public shares vision with Wall Street it would seem logical to buy cheap stock at temporarily suppressed earnings and sell them at inflated levels created by the opposite effect.
+  - *the classical formula for "Beating the stock Market"*
+    - On Wall Street, the common assumption is that trends are likely to continue or persist regardless of qualitative circumstances. While the analyst, on occasion, can place pre-dominant weight on the recent earnings, rather than the average, pursuasive evidence has to be present.
+    - this strategy is not simple because the timing of the market is hard and the underlying values of stocks continuously change.
+  - **average vs trend of earnings**
 ### price-earnings ratios for common stocks. Adjustments for changes in capitalization
 
 ### capitalization structure
@@ -597,6 +608,8 @@ truth seeker
 "Whatever benefits a business benefits its owners, provided the benefit is not conferred upon the corporation at the expense of the stockholders."
 
 "Very frequently, the market’s appraisals are based on mob psychology, on faulty reasoning and on the most superficial examination of inadequate information."
+
+- *quantitative data is useful only to the extent that's supported by a qualitative survey of the enterprise*
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/buffett-partnership-letters-by-warren-buffett/)
