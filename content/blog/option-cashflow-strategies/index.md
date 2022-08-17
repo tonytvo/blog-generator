@@ -124,3 +124,4 @@ string of losses + poor money management = destroyed account
 - [Cashflow academy](https://thecashflowacademy.com/)
 - https://www.youtube.com/playlist?list=PLI84Sf0aDgaxUTCSluFK9z9ol9QniBwXW
 - https://www.youtube.com/watch?v=udIwj2xeO-Y&list=PLI84Sf0aDgawF4MWjqu2D7ma3Hp3yf6Id&ab_channel=TheSwedishInvestor
+- https://www.optionsplaybook.com/option-strategies/
