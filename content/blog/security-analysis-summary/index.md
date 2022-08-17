@@ -505,7 +505,60 @@ True investments keep the principal safe and deliver an acceptable return. Any p
     - On Wall Street, the common assumption is that trends are likely to continue or persist regardless of qualitative circumstances. While the analyst, on occasion, can place pre-dominant weight on the recent earnings, rather than the average, pursuasive evidence has to be present.
     - this strategy is not simple because the timing of the market is hard and the underlying values of stocks continuously change.
   - **average vs trend of earnings**
+    - *attitude of analyst where trends are upward.* If a qualitative study of company A is positive, which it often should be, the analyst should based future results on a conservative estimate of what the company are currently produce.
+    - *attitude of analyst where trends are downward*. the analyst must assign great weight to the unfavorable trend and the reasons why. However, one can't make hasty conclusions that this trend will persist either.
+  - **deficits a qualitative, not a quantitative factor**: when a company reports a deficit for the year, it is customary to calculate the amount in dollars per share or in relation to interest requirements. This is not a valid approach. Instead the attention of the analyst should be directed elsewhere.
+    - when an average is taken over a period that includes a number of deficits, some questions must arise as to whether or not the resultant figure is really indicative of the earning power. This is especially true if the company has volatile numbers.
+  - **intuition not a part of the analyst's stock in trade**: Unless there is a reason to think otherwise, the past record is accepted as a basis for judging the future.
+    - *analysis of the future should be penetrating rather than prophetic*. In short, the investor should not be reliant on the company's performance to improve in order to justify a premium price. Instead, the future results should be penetrating, with respect to the current capacity to earn and the price the market is trading the stock for.
+  - **large profits frequently transitory**: when capital flows into new industries, it may result in overcapacity and keen competition - dragging profits down for individual company's in the long-haul.
+
+
+### specific reasons for questioning and rejecting the past record
+
+- **rate of output and operating costs**
+  - when analyzing an individual company, each of the governing elements in the operating results must be studied for signs of unfavorable changes. Governing elements may vary, but if the analyst was assessing the general factors of a mining company, they might focus on areas like: (1) life of a mine, (2) annual output, (3) production costs and (4) selling price.
+  - if the future earnings had to be supported by higher cost, it would make the current facts speculative and much riskier.
+  - *freeport sulphur company*
+    - the learning point is that a high valuation based on future prospects is highly speculative. When the stock market moves away from sound sense and business experience, the common stock buyer will inevitable lose money
+  - **the future price of the product** 
+    - *change in status of low-cost producers*: when analyzing the individual company one must also look at the overall cost level, and in which direction it can be expected to change.the cost price will be a determinant for the selling price.
+  - **anomalous prices and the price relationships in the history of the I.R.T system:**
+    - the analysis not only showed that the current selling price was far above the value of the stock. It also showed that when there is an upper limit of earnings or value being fixed, there is usually a danger that the actual figure could be less.
+    - what happened afterwards for Interborough Rapid Transit System was that earnings indeed were non-recurrent and temporary. As earning power declined it ran quickly into severe financial problems.
+
 ### price-earnings ratios for common stocks. Adjustments for changes in capitalization
+
+- **exact appraisal impossible**:
+  - prior to the bull market of 1927-1929, a price of 10 times earnings was accepted standard for measuring common stock.
+  - also, the idea of basing the valuation on current earnings is absurd since earnings are constantly changing. Stock market prices are not carefully computed, but are the result of human reactions. The stock market is the voting machine rather than a weighing machine.
+
+- **limited functions of the analyst in the field stock price appraisal**
+  - as facts and human behavior change, the security analyst must not follow a general rule for his valuations, however, Graham proposes some limited functions:
+    - he may set-up a basis for conservative or investment valuation of common stocks, as distinguished from speculative valuations
+    - he may point out the significance of: (a) the capitalization structure; and (b) the source of income, as bearing upon the valuation of a given stock issue
+    - he may find unusual elements in the balance sheet which affect the implications of earnings picture.
+  - **a suggested basis of maximum appraisal for investment**: 
+    - the profits of the most recent year might be accepted as an indicator of future earnings, if (1) general business conditions in that year were not exceptionally good, (2) the company has shown an upward trend of earnings for some years past and (3) the investor's study of the industry leaves him confident about its continued growth
+    - note: a P/E of 20 equates to a 5% return - assuming earnings remain constant and are treated as free cash flow to the shareholder
+  - *higher prices may prevail for speculative commitments*: 
+  - *other5 requisites for common stocks of investment grade and a corollary thereof: * as 20 times average earnings is the upper limit, the purchase price for ordinary businesses should be substantially less. 12 or 12.5 times average earnings can be suggested as a necessary multiplier but not a sufficient condition.
+    - it must be emphasized that many other factors must be present, including the financial setup, not-unsatisfactory prospects and proper management.
+    - An attractive common-stock investment is an attractive speculation. This is true because, if a common stock can meet the demand of a conservative investor, then he gets full value for his money, plus satisfactory future prospects.
+  - **examples of speculative and investment common stocks**
+    - stocks sold at multiple considerably more than 20 times average earnings. In other words, they all require large future growth to justify the price.
+    - stocks are speculative not because of the average earnings, but the speculative element of the instability of earnings
+    - stocks that passes the quantitative tests of investment quality:
+      - earnings have been reasonably stable
+      - average earnings have satisfactory ratio to market price.
+      - financial setup is sufficiently conservative, and the working capital position is strong.
+  - **allowances for changes in capitalization**
+    - when dealing with past records of earnings on per-share basis, the analyst must adjust to changes in capitalization.
+  - **allowances for participating interests**
+    - when calculating earnings for the common shareholder, the participating interests must also be included. (participating interests is a new structure dividing income when it increases.)
+    - similar allowances must be made for the effect of management contracts
+  - **general rule**
+    - the intrinsic value of a common stock preceded by convertible securities cannot reasonably be appraised at a higher figure than would be justified all convertible securities were exercised in full. The same is the case if it is subject to dilution through the exercise of stock options, or through participating privileges enjoyed by other senior security
 
 ### capitalization structure
 
@@ -610,6 +663,8 @@ truth seeker
 "Very frequently, the market’s appraisals are based on mob psychology, on faulty reasoning and on the most superficial examination of inadequate information."
 
 - *quantitative data is useful only to the extent that's supported by a qualitative survey of the enterprise*
+
+- *the stock market is a voting machine rather than a weighing machine.*
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/buffett-partnership-letters-by-warren-buffett/)
