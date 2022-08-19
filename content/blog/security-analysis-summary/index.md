@@ -562,7 +562,9 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ### capitalization structure
 
-- **can the value of an enterprise be altered through arbitrage variations in capital structure?**
+- **principle of optimum capitalization structure**
+  - the optimum capitalization structure for any enterprise includes senior securities to the extent that they may be safely issued and bought for investment. the practical implication of this is that, under safe circumstances, no debt leads to an inefficient use of the shareholder's capital. On the other hand, too much debt leaves no room for an appropriate margin of safety, as the interest coverage ratio is very small and risky
+  - this safe environment may be composed both of a working capital of no less than the bond value and other conditions. Under such circumstances, a very conservative capitalization based only on the shareholders' equity would make the shareholders' dollars less productive.
 
 ### low-priced common stocks. Analysis of the source of income.
 
