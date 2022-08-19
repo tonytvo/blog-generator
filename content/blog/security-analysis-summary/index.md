@@ -562,6 +562,8 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ### capitalization structure
 
+- **can the value of an enterprise be altered through arbitrage variations in capital structure?**
+
 ### low-priced common stocks. Analysis of the source of income.
 
 
