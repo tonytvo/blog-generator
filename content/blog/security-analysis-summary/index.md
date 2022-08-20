@@ -566,6 +566,17 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - the optimum capitalization structure for any enterprise includes senior securities to the extent that they may be safely issued and bought for investment. the practical implication of this is that, under safe circumstances, no debt leads to an inefficient use of the shareholder's capital. On the other hand, too much debt leaves no room for an appropriate margin of safety, as the interest coverage ratio is very small and risky
   - this safe environment may be composed both of a working capital of no less than the bond value and other conditions. Under such circumstances, a very conservative capitalization based only on the shareholders' equity would make the shareholders' dollars less productive.
 
+- **corporate practices resulting in shortage of sound industrial bonds**
+  - investors generally prefer strongly funded corporation issued bonds as these offer a wider range of choices and make the sale of unsound bonds less likely.
+
+- **the factor of leverage is speculative capitalization structure**
+  - speculative capitalized enterprises can be sold at somewhat high prices during good markets. On the contrary, the same venture might be undervalued during a depression.
+  - the real advantage, however, lies in the fact that the stock can advance more than it can decline.
+
+- **speculative attractiveness of "shoestring" common stocks considered:**
+  - *practical aspects of foregoing:*
+    - senior capital for the company should be held in preferred shares rather than in bonds, as this would limit the risk of bankruptcy during bad times, permitting the common stockholder to wait for better times (preferred shares can omit dividend payments, while bonds in general are obliged to pay out coupon payments)
+
 ### low-priced common stocks. Analysis of the source of income.
 
 
