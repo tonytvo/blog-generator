@@ -190,14 +190,17 @@ key issues, collateral evidence, personal biases
   - For example, Coca-Cola has a great moat due to its enormous brand value, share of mind
   - Wal-Mart has a wide moat due to its cost structure where it can buy products with large volume from its suppliers at a cheaper price than its competitors.
   - Apple has networks effect: the more people join apple community the more profit it made
+    - A company enjoys a network effect advantage when the values of it’s product or service increases with the number of users. Network effect companies are often digital. Facebook, Google, eBay and Western Union are prime examples of such companies. Take Facebook as an example. The more users it has, the greater the reach it has with its ads, the more companies are willing to pay for its reach.
   - Geico has low cost when price significant to customers
 - Sample moats from different industries. High cost of switching to Samsung even iphone is more expensive
   - intangible assets such as brands and patents
-    - Disney is a strong brand and almost everyone in the world recognizes it.
+    - Examples of intangible asset advantages include: patents, brand reputation and government licences such as Disney. Tiffany & Co. is a prime example of a company with an excellent brand reputation. The company’s established brand name provides it with significant pricing power: a necklace from Tiffany & Co. could easily costs several thousand more than a necklace from a less well-known brand. Vanguard’s patented technique that avoids taxes on mutual funds has enabled it to charge significantly less management fees for its financial products while preventing incumbents from imitating it. Bond rating agencies are great examples of companies that have a significant regulatory advantage. Ratings agencies must be granted a “Nationally Recognized Statistical Ratings Organization” recognition before they can practice in the United States. This stringent regulatory requirement limits the playing field and allows ratings agencies to enjoy absurd profit margins (Moody’s was 50% according to the book).
   - low cost
     - Wal-Mart can buy at quantities and prices that competitors can't match.
+    - Cost advantages can stem from four sources: cheaper processes, better locations, unique assets and greater scale. Process based advantages are often less desirable because other companies might attempt to copy their process. These types of advantages are the most salient in industries where price plays a critical part in the customer’s purchasing decision. According to the author, Southwest Airlines had a process-based cost advantage moat in the airline industry. The company used only one type of jet, minimized ground time and rewarded employee thrift, which allowed them to charge less than their competitors. Southwest was an exception to the generalization that process-based moats are less desirable. Their thrift-centric process was so different from their competitor’s processes that it could not be du
   - high switching costs ("stickiness")
     - most people will not bother with the hassle of changing operating system such as Microsoft, because they do not want to re-learn the new system.
+    - Dorsey identifies three main flavours of switching costs — tight integration with a customer’s business, high monetary switching costs and high retraining costs. Oracle and Adobe are two companies in this category of companies. Oracle’s database systems are so heavily ingrained into their client’s businesses that it would be extremely costly for firms to replace them. Furthermore, replacing them could entail unwanted operational risks. Such tight integration with a customer’s business enables high retention rates, steady cash flows from customer annuities and a certain degree of pricing power for Oracle. Most digital designers have spent years mastering Adobe Photoshop. If a design firm were to force its designers to use a different image editing software it would incur a significant financial and timely retraining.
 - porter 5 forces
   - **barriers to entry**: advantages that existing, established companies have over new entrants. A firm will enter the industry it it forecasts that the potential reward for being in it is greater than the cost of overcoming the barriers and the retaliation that is likely to happen.
     - supply-side economies of scale: spread the fixed costs over a larger volume of units.
@@ -317,6 +320,8 @@ key issues, collateral evidence, personal biases
   - calculate the expected annual return for stocks A and B based on the current market prices
   - subtract the cost of capital gains tax from stock A
   - calculate whether stock A or B yields the highest expected annual return based on a given time frame.
+- The company has changed for the worse. Perhaps the company’s management has shifted their focus to an area where you believe to drive less growth than you would like.
+- there's other investment with better opportunity cost
 
 # Intelligent investor
 - defensive investor's portfolio should be well balanced, safe and very easy to manage.
