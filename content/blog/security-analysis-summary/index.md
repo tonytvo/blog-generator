@@ -579,6 +579,23 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ### low-priced common stocks. Analysis of the source of income.
 
+- **arithmetical advantage of low-priced issues**
+  - low priced stocks offer the advantage of being more likely to appreciate than decline. Securities are found to rise more readily from 10 to 40 than from 100-400, and because of this, the speculative public would rather buy into stocks of lower numerical value.
+
+- **some of the reasons most buyers of low-priced issues lose money:**
+  - public may be buying lowed-priced stocks for the bad financial conditions.
+  - high number of shares are issued, which combined are priced higher than the actual value.
+  - insiders's desire to dispose of their assets, sometimes resulting in rigorous efforts to persuade the unwary public to buy them.
+- **low price coupled with speculative capitalization**:
+  - speculatively capitalized enterprises, according to Graham's definition, are marked by relatively large amount of senior securities and a comparatively small issue of common stock. Although the common share in most cases is sold at a low price, this is not always the case, as long as the market value of common stock comprises only a small part of the enterprise value.
+- **large volume and high production cost equivalent to speculative capital structure**
+  - Graham shows how high production costs have the same effect as coupon payments for holders of senior securities. The simple effect is that the common stockholders have fewer earnings.
+  - *general principle derived*. It can be derived from example that when the price of copper increases, there will be a higher profit increase percentage-wise for the high-cost producer than for the low-cost producer. This will be reflected in the share price.
+
+- **sources of income**
+  - special phase: analysis must be conducted for the company based on the source of income from a specific asset, and not based on the general nature of the business.
+    - *northern pipe line company*: breaking down the sources of income for this company, it can be seen that a substantial part of the income comes from stable rental and interest earnings. This type of earnings must be evaluated based on the actual value of asset producing income. Income from bonds should also be valued on a higher basis, compared to the rather volatile pipeline business showing a negative trend.
+    - *tobacco products Corporation of Virginia*: this company was traded as a price-earnings of 10. All income came from 99-year lease given to a high-quality company that could meet the obligation without question. This made the source of income from Tobacco Products company of Virginia equivalent to a high-grade investment bond, and on this basis the company would be deemed undervalued.
 
 
 ## 3. Asset Value
@@ -603,6 +620,27 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - The defining character of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage, and, if so, how strong and sustainable it is
 
 ### significance of book value
+
+- balance sheet can provide the following guidance for the investor
+  - it shows how much capital is invested in the business
+  - it reveals the ease of stringency of the company's financial condition; i.e., the working-capital structure
+  - it provides an important check of validity of reported earnings
+  - it supplies the basis for analyzing the sources of income.
+- **computation of book value**
+  - (common stock + surplus items - intangiles) / number of shares outstanding
+- **treatment of preferred stock when calculating book value of common stock**
+  - in calculating the assets available for the common stock, the value of preferred stock must be subtracted. What Graham suggests is that we value preferred shares at par value plus back-end dividend payments and compare that to the market price. Whatever is highest (or most conservative) should be used.
+- **calculation of book value of preferred stock:**
+  - when calculating the book value of a preferred stock issue, it is treated as a common stock, as shown in the equation above, and junior issues are left out.
+- **current asset value and cash asset value**
+  - the current asset value of a stock consists of the current assets alone, minus all liabilities and claims ahead of the issue. It excludes not only the intangible assets but also fixed and miscellaneous assets (various assets of value not related to the business, such as coin collections and artwork) as well.
+  - the cash asset value of a stock consists of the cash assets alone, minus all liabilities and claims ahead of the issue. Cash assets, other than cash itself are defined as those directly equivalent to and held in place of cash (such as certificates of deposit, marketable securities at market value).
+- **practical significance of book value**
+  - the intention was to show the value of the business, but since it is far from reality, the carrying value (the number you can read from the balance sheet) has lost its significance. In most cases, the assets could not be sold at that value, and furthermore, the figure is not justified by the earnings.
+  - also, the practice of writing up the book value of the fixed property, or cutting it down to nothing in order to avoid depreciation charges has made the book value have questionable application.
+  - even though Graham is very skeptical about using book value, he still believes that the book value deserves at least a fleeting glance before buying or selling shares.
+  - a stock buyer should not that the value of the stock is completely related to the business in question, and what he gets from his money will be in terms of tangible resources. A business that sells at a premium does so because it earns large return compared to its capital. This large return attracts competition and generally speaking, it is not likely to continue indefinitely.
+  - Graham mentions that companies with high levels of intangibles might be less prone to competition, and that small companies in general are likely to show a more rapid rate of growth.
 
 ### significance of current asset value
 
