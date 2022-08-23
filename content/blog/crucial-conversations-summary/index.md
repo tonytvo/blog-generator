@@ -43,37 +43,38 @@ Focus on what you want to achieve to create a productive dialogue.
 
 # To excel at crucial conversations, you must master the art of engaging in dialogue.
 
-- At the heart of mastering crucial conversations is the ability to engage in dialogue. Essentially, this means you are able to open an interaction and converse freely with another person.
+- At the heart of mastering crucial conversations is the ability to engage in dialogue. Essentially, this means you can open interaction and converse freely with another person.
  
-- For example, a corporate vice president once had reservations about the CEO's wish to move to a new location. Others in the firm feared the move, but also were afraid to speak up. At a crucial meeting, the VP expressed his concerns in a quiet yet powerfully diplomatic way. The CEO then realized that he had been trying to force his opinion on others and gracefully backed down.
-- Since a successful conversation depends upon the participants providing information and sharing knowledge, sharing information actually leads to smarter decisions. Even the smartest people are more prone to making mistakes when they don’t have all the necessary information available to them.
+- For example, a corporate vice president once had reservations about the CEO's wish to move to a new location. Others in the firm feared the move but also were afraid to speak up. At a crucial meeting, the VP expressed his concerns in a quiet yet powerfully diplomatic way. The CEO then realized that he had been trying to force his opinion on others and gracefully backed down.
+
+- Since a successful conversation depends upon the participants providing information and sharing knowledge, sharing information leads to smarter decisions. Even the smartest people are more prone to making mistakes when they don’t have all the necessary information.
 
 # To elicit more information so you can make better decisions, create a "shared pool" of ideas and understandings.
 
-- When two or more people enter into a crucial conversation, they don’t share the same thoughts and opinions. Masters of dialogue create an atmosphere where everyone feels safe about adding his or her own views to the shared pool of ideas being expressed. Even if someone’s ideas seem wrong, step out of line with prevailing beliefs or provoke controversy, he or she should feel free to articulate them.
-Creating this "Pool of Shared Meaning" enables people to make better choices and decisions, since they have more accurate, relevant input and information. The process may take time, but the decision will be more valuable.
+- When two or more people enter a crucial conversation, they don’t share the same thoughts and opinions. Masters of dialogue create an atmosphere where everyone feels safe about adding his or her views to the shared pool of ideas being expressed. Even if someone’s ideas seem wrong, step out of line with prevailing beliefs or provoke controversy, he or she should feel free to articulate them.
+Creating this "Pool of Shared Meaning" enables people to make better choices and decisions since they have more accurate, relevant input and information. The process may take time, but the decision will be more valuable.
  
-- When people participate in shaping the meaning of an event, they are more willing to implement its outcome. They act faster and with more commitment. Building this pool of shared meaning by making it safe for others to open up and express themselves is the key to engaging in dialogue in a crucial conversation. Keep your own goals and interests in mind so you can guide the dialogue toward those goals, while also considering what others want.
+- When people participate in shaping the meaning of an event, they are more willing to implement its outcome. They act faster and with more commitment. Building this pool of shared meaning by making it safe for others to open up and express themselves is the key to engaging in dialogue in a crucial conversation. Keep your own goals and interests in mind so you can guide the dialogue toward those goals while also considering what others want.
 
-- Furthermore, people are more likely to fully commit to solutions resulting from an open dialogue where ideas and information are freely shared. When we can see how a solution has been distilled from the available ideas, we’re more likely to be convinced that it’s the best solution.
+- Furthermore, people are more likely to fully commit to solutions resulting from an open dialogue where ideas and information are freely shared. When we see how a solution has been distilled from the available ideas, we’re more likely to be convinced that it’s the best solution.
 
-- Conversely, we tend to resist decisions made without our consultation. In fact, we’re more likely to commit to ideas that we don’t agree with as long as we can participate in the discussion.
+- Conversely, we tend to resist decisions made without our consultation. We’re more likely to commit to ideas we don’t agree with as long as we can participate in the discussion.
 
-# To promote effective dialogue, make everyone feel safe in expressing what they really want to say.
+# To promote effective dialogue, make everyone feel safe in expressing what they want to say.
 
-- So how do you master the art of fruitful dialogue? The first step is to "take a long hard look at yourself" and your style of conversing. Then "start with heart." This means making sure you are engaging in a crucial conversation for all the right reasons and concentrating on your goals.
+- So, how do you master the art of fruitful dialogue? The first step is to "take a long hard look at yourself" and your conversational style. Then "start with the heart." This means ensuring you engage in a crucial conversation for all the right reasons and concentrating on your goals.
 
-# Focus on what you really want to achieve in order to create a productive dialogue.
+# Focus on what you want to achieve to create a productive dialogue.
 
-- Keep your focus in one of two ways: First, know exactly what you want. This centers your concentration on your goals. When you are engaged in a crucial conversation, you need to ask what you want for yourself, for others and for your relationship with the other parties in the discussion. Look to your personal code, your "North Star," for guidance.
+- Keep your focus in one of two ways: First, know exactly what you want. This centers your concentration on your goals. When you are engaged in a crucial conversation, you need to ask what you want for yourself, for others and your relationship with the other parties in the discussion. Look to your code, your "North Star," for guidance.
  
 - Second, avoid the "Sucker’s Choice" trap. This occurs when you think you can only choose between two bad options, A and B. However, a better choice, C, is usually available through dialogue if you focus on what you want to achieve.
 
-- In order to prevent yourself from becoming overly emotional, take a brief moment to focus on what it is you want to achieve from the dialogue. Ask yourself questions like: What is my aim here? What information do I want to ensure I clearly articulate to my conversational partner?
+- To prevent yourself from becoming overly emotional, take a brief moment to focus on what you want to achieve from the dialogue. Ask yourself questions like: What is my aim here? What information do I want to ensure I articulate to my conversational partner?
 
-- After having identified what you really want from the conversation, you can shift your focus to identifying what you really don’t want. In other words, what is the one thing you really want to avoid in a conversation? You’re liable to want to avoid walking away from it empty-handed ‒ otherwise you wouldn’t be engaging in a dialogue to begin with!
+- After identifying what you want from the conversation, you can shift your focus to identifying what you don’t want. In other words, what is the one thing you want to avoid in a conversation? You’re liable to want to avoid walking away from it empty-handed ‒ otherwise, you wouldn’t be engaging in a dialogue, to begin with!
 
-- For example, if you want to tell your partner something that might upset them, think: What do I actually want? What do I want to avoid? This simple exercise can help you rationally convey information and keep everyone calm, thus allowing you to say what needs to be said without risking a flying vase to the face.
+- For example, if you want to tell your partner something that might upset them, think: What do I want? What do I want to avoid? This simple exercise can help you rationally convey information and keep everyone calm, thus allowing you to say what needs to be said without risking a flying vase to the face.
 
 # Recognize a crucial conversation by noting certain physical, emotional and behavioral signs.
 
@@ -85,6 +86,7 @@ Creating this "Pool of Shared Meaning" enables people to make better choices and
 - people display telltale signs of aggression when they’re feeling unsafe in a conversation. In fact, these behaviors can typically be broken down into two categories: silent and violent
   - You can identify a silent reaction when people start to deliberately hide their opinions in a conversation. A good example of this is sarcasm, in which an opinion is deliberately (and obviously) hidden. For instance, someone might tell you, "Wow, what a flattering shirt! No one will ever think that it’s three sizes too small for you!"
   - You can identify a silent reaction when people start to deliberately hide their opinions in a conversation. A good example of this is sarcasm, in which an opinion is deliberately (and obviously) hidden. For instance, someone might tell you, "Wow, what a flattering shirt! No one will ever think that it’s three sizes too small for you!"
+
 # Two essential mutual safety conditions for any dialogue are "common purpose" and "mutual respect."
 - To have an effective dialogue, create an atmosphere where self-expression feels safe for you and the other party. Construct a sense of security when others fall silent or seem to be moving toward anger or violence. Once you see either condition developing, remove yourself from the conversation. Let tensions cool and try to return to a starting point of mutual concerns.
 - When everyone feels safe again, return to the issue at hand. Two major safety risks can occur, and they require different responses. The first is "mutual purpose," which can be a casualty of a crucial conversation if others believe you have "malicious intent," or think you want to harm them. Then they won’t trust your motives. In response, look for a united purpose so that others will be willing to listen to your concerns. For example, try to explain to your boss how his behavior may be hampering productivity. 
