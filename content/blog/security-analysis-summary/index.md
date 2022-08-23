@@ -644,6 +644,12 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ### significance of current asset value
 
+- Graham examines the following ideas:
+  - the current asset value is generally a rough index of liquidating value
+  - a large number of common stocks sell for less than their current asset value and therefore sell below the amount realizable in liquidation
+  - the phenomenon of many stocks selling persistently below their liquidating value is fundamentally illogical. It means that a serious error is being committed, either: (a) in the judgement of the stock market, (b) in the company's management policies, or (c) in the stockholders' attitude toward their property
+- **liquidating value**
+
 ### implications of liquidating value, stock holder-management relationships
 
 ## discrepancies between price and value
