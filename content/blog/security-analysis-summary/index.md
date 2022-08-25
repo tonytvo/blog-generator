@@ -648,7 +648,14 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - the current asset value is generally a rough index of liquidating value
   - a large number of common stocks sell for less than their current asset value and therefore sell below the amount realizable in liquidation
   - the phenomenon of many stocks selling persistently below their liquidating value is fundamentally illogical. It means that a serious error is being committed, either: (a) in the judgement of the stock market, (b) in the company's management policies, or (c) in the stockholders' attitude toward their property
+
 - **liquidating value**
+  - the liquidating value of an enterprise is the money the owners would receive, in theory, if they sold all assets and paid off all debt in the company. they might sell all or part of it to someone else, or they might turn the various kinds of assets into cash. Such liquidations are an everyday occurrence in the field of private business, but not for public companies.
+
+- **realizable value of assets varies with their character**
+  - in reality, a company's balance sheet does not provide exact information about liquidation value, but it does supply useful clues and hints. The first rule is that liabilities are real but the value of the assets must be questioned. This means that all true liabilities shown on the books must be deducted at their face amount. The value of the assets, however, must vary according to the character. Cash, for instance, is worth the carrying value, while inventory might only be worth 50-75% compared to the market price.
+  - *object of this calculation*: applying a general rule of thumb for a real-life company, it can ben seen that the stock was undervalued as it sold for less than the company's cash holding - even after deducting all liabilities. **The aim of using current asset value as a liquidation measure is not to find the exact liquidation number, but to establish a rough estimate.**
+
 
 ### implications of liquidating value, stock holder-management relationships
 
