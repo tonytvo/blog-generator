@@ -656,6 +656,26 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - in reality, a company's balance sheet does not provide exact information about liquidation value, but it does supply useful clues and hints. The first rule is that liabilities are real but the value of the assets must be questioned. This means that all true liabilities shown on the books must be deducted at their face amount. The value of the assets, however, must vary according to the character. Cash, for instance, is worth the carrying value, while inventory might only be worth 50-75% compared to the market price.
   - *object of this calculation*: applying a general rule of thumb for a real-life company, it can ben seen that the stock was undervalued as it sold for less than the company's cash holding - even after deducting all liabilities. **The aim of using current asset value as a liquidation measure is not to find the exact liquidation number, but to establish a rough estimate.**
 
+- **prevalence of stocks selling below liquidating value**
+  - at some time in 1932, over 40% of all industrial companies listed on NYSE were quoted at less than their net current assets. Also at that time, a considerable number actually sold for less than their cash asset value. That actually means that the owner would profit more by shutting the company down than selling equity on a going concern basis.
+  - one reason for the very low valuation is the high emphasis put on the income statement. A company with no current earnings will be considered highly negative by the stock market. The seller might not know she were disposing their interest in the company below liquidation value.
+
+- **local significance of this phenomenon**
+  - when a common stock sells persistently below its liquidating value, then either the price is too low or the company should be liquidated.
+  - 2 corollaries may be deducted from this principle:
+    - although, the low price offers an attractive opportunity to buy, such price should incite the stockholders to question whether it is in their interest to continue the business
+    - such a price should incite the management to take all proper steps to correct the obvious disparity between market quotation and intrinsic value, including a reconsideration of its own policies and frank justification to the stockholders of its decision to continue the business.
+  - there is a range of potential developments which may result in establishing a higher market price:
+    - the creation of earning power that moves in lock-step with the company's assets (for instance from a general improvement in the industry or a change in the company's operating policies)
+      - *general improvement in the industry*: when the textile business improved the share of pepperell increased more than eightfold in just 2 years
+      - *changes in operating policies*: new lines of products, new sales methods, and reorganizing phases of production
+    - a sale or merger, because some other concern is able to utilize the resources to better advantage and hence can pay at least liquidating value for the assets.
+      - white motor company was suffering heavy losses and was selling at a price lower than the liquidation value. The big cash holding was found interesting by an acquiring company, and the sales price was based on the current asset value.
+    - complete or partial liquidation
+      - *complete liquidation*: investors of mohawk mining company received 2.5 times the cost of shares when it was decided to completely liquidate the company. THe liquidation value proved to be identical with the current asset value, and could be directly derived from balance sheet.
+      - *partial liquidation*: sometimes an effective higher market value can be created by partially liquidating parts of the business and distributing that wealth out to the shareholders.
+
+- **discrimination required in selecting such issues**
 
 ### implications of liquidating value, stock holder-management relationships
 
