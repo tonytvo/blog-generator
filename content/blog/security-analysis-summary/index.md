@@ -676,6 +676,11 @@ True investments keep the principal safe and deliver an acceptable return. Any p
       - *partial liquidation*: sometimes an effective higher market value can be created by partially liquidating parts of the business and distributing that wealth out to the shareholders.
 
 - **discrimination required in selecting such issues**
+  - there is no doubt that stocks selling well below their liquidation value provides undervalued securities - and consequently profitable opportunities for purchase. Regardless, the securities analyst should exercise as much discrimination when selecting between the prospects.
+  - She can lean toward the five developments above (changes in operating policies, liquidation, etc...) if it is deemed that they may occur. Also, he can look at satisfactory current earnings and dividend, or a high average earning power in the past. The analyst will avoid companies that are losing current assets at a rapid rate and showing no sign of fixing the problem.
+- **bargain of this type**: common stocks that (1) are selling below their liquid asset value, (2) are apparently in no danger of dissipating these assets, and (3) have formerly shown a large earning power on the market price, may be said to belong to a class of investment bargains.
+- *common stock representing the entire business cannot be less safe than a bond having a claim to only a part thereof*
+  - the argument was that the company would have to pay coupon payments to the bond holders, while the dividend payments were unsecure. Here, Wall Street confuses the temporary consistency of income with the principle of safety. Dividends paid out to stockholders would not make the stock any safer. What is happening is that the stockholders turn over their own property. A rational stock owner would not surrender complete ownership for a limited claim and 5-6% returns on the investment.
 
 ### implications of liquidating value, stock holder-management relationships
 
