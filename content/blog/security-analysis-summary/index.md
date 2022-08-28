@@ -682,7 +682,6 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - *common stock representing the entire business cannot be less safe than a bond having a claim to only a part thereof*
   - the argument was that the company would have to pay coupon payments to the bond holders, while the dividend payments were unsecure. Here, Wall Street confuses the temporary consistency of income with the principle of safety. Dividends paid out to stockholders would not make the stock any safer. What is happening is that the stockholders turn over their own property. A rational stock owner would not surrender complete ownership for a limited claim and 5-6% returns on the investment.
 
-### implications of liquidating value, stock holder-management relationships
 
 ## discrepancies between price and value
 
@@ -694,6 +693,25 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
 
 - Remember, however, that "analysis connotes the careful study of available facts with the attempt to draw conclusions therefrom based on established principles and sound logic. It is part of the scientific method. But in applying analysis to the field of securities, [you will] encounter the serious obstacle that investment is by nature not an exact science." Still, professional analysis is "not only useful, but indispensable."
+
+- it is the stockholders who own the company; the officers are only paid employees. The directors are elected and virtually trustees, whose legal duty is to act solely on behalf of the business owners.
+
+## implications of liquidating value, stock holder-management relationships
+
+- **interests of stockholders and officers conflict at certain points**:
+  - in some situations, the management may explicitly have interests in conflict with those of the shareholders
+    - compensation to officers - salaries, bonuses, options to buy stock
+    - expansion of the business - involving the right to larger salaries and the acquisition of more power and prestige by the officers
+    - payment of dividends - should the money earned remain under the  control of the management or pass into the hands of the stockholders?
+    - continuance of the stockholders' investment in the company - should the business continue as before, although unprofitable, or should part of the capital be withdrawn, or should the business be would up completely.
+    - information to stockholders - should those in control be able to benefit through having information not generally given to stockholders?
+  - **wisdom of continuing the business should be considered**
+    - management, by definition, is reluctant to return capital to investors, even though the capital might be more useful there. The reason is resource scarcity. For example, to pay the bills when company has financial problems later.
+    - whether or not the business should continue is a decision for stockholders, not management. A logical reason to consider is when the market price is below the liquidation level. After all, that means that the market is wrong, or that the management is wrong in keeping the enterprise alive.
+  - **various possible moves for correcting market prices for shares:**
+    - if directors are convinced that continuation is preferable to liquidation, the reasons leading to this conclusion should be supplied. One solution to maintain the business and limit the risk for investors is a new dividend policy. The rate should be at least equivalent to the liquidation value to ensure that stockholders do not to suffer as a result of this decision to keep the business alive. A third option could be to distribute excess cash back to stockholders.
+  - liquidation of an unprofitable business with substantial assets is almost certain to realize more than the existing market price. The reason is that market prices are governed by earnings; the liquidation process is based on assets.
+  - *repurchase of share pro rata from shareholders:* if capital is no longer required, it can be advantageous to distribute it back through share buyback.
 
 
 # Themes of value investing
