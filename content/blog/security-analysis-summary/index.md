@@ -707,6 +707,8 @@ True investments keep the principal safe and deliver an acceptable return. Any p
         - for United states steel corporation, the effect of WWI is very clear, and has added a big sum to the earnings. The rate of earnings of hte investing capital has, however, declined in the last decade.
         - this raises the question of whether the end of the war turned the industry into a relatively unprofitable business, from a previously relatively prosperous one. It also raise the question whether it as due to the high reinvestment, which led to overcapacity and consequently lower return.
 
+## stock-option warrants
+
 ## discrepancies between price and value
 
 ## comparative analysis of companies in the same field
