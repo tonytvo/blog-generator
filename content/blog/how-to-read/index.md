@@ -21,26 +21,26 @@ tags: ["productivity", "learning"]
 
 # How we learn to read
 
-- there's difference between reading for understanding and reading for information
-  - lots of people confuse knowing the name of something with understanding. While great for exercising your memory, the regurgitation of facts without solid understanding and context gains you little in the real world.
+- there's a difference between reading for understanding and reading for information
+  - lots of people confuse knowing the name of something with understanding. While great for exercising your memory, regurgitating facts without solid understanding and context gains you little in the real world.
   - **anything easily digested is reading for information.**
 - [work required to have an opinion](https://fs.blog/the-work-required-to-have-an-opinion/)
 - if you're a knowledge worker, you're paid to use your brain, so it's in your best interest to make that brain as efficient as possible.
 - The number of pages you read is not as important as the fact you're enjoying it.
-- review the notes and highlight often with readwise.io
-- **skim a lot of books, read a few. Immediately re-read the best ones twice**
-  - when you lose interest give it 5 more pages. Then skim the next chapter. If you're still not interested, put it down. It's the authors job to keep your attention
+- review the notes and highlight them often with readwise.io
+- **skim a lot of books and read a few. Immediately re-read the best ones twice**
+  - when you lose interest, give it five more pages. Then skim the next chapter. If you're still not interested, put it down. It's the author's job to keep your attention
   - marking a book is indispensable to reading it
     - keep you awake, not merely conscious, but wide awake
-    - reading, if it is active, is thinking and thinking tends to express itself in words, spoken or written.
+    If it is active, reading is thinking and tends to express itself in words, spoken or written.
     - writing your reactions down helps you to remember the thoughts of the author
-    - literally an expression of your differences or your agreements with the author. It is the highest respect you can pay him.
-- pomodoro method
-  - optimal time for a task is 25 minutes, followed by a 5 minute break. Each 25-minute chunk is called a "Pomodoro"
+    - an expression of your differences or your agreements with the author. It is the highest respect you can pay him.
+- Pomodoro method
+  - optimal time for a task is 25 minutes, followed by a 5-minute break. Each 25-minute chunk is called a "Pomodoro."
 - **skip liberally: skip anything that doesn't interest you.**
   - skip, but do so intelligently
-    - return to it later at some point and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? very often, "our" beliefs are not our own
-    - this type of practice is how you create yourself instead of discovering yourself.
+    - return to it later and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? Very often, "our" beliefs are not our own
+    - This practice is how you create yourself instead of discovering yourself.
 
 
 # Finding more time to read
@@ -51,8 +51,8 @@ tags: ["productivity", "learning"]
     - avoid time shopping
     - avoid watching TV
     - combine reading with idle activities, waiting for a bus, waiting for a taxi, on the train, on the plane, waiting for your flight.
-    - **what I read depends on situation**
-      - if there's on few minutes, read something simple, rather disposable, easily digested.
+    - **what I read depends on the situation**
+      - if there are few minutes, read something simple, rather disposable, and easily digested.
       - early in the evening, around 8-9, read something without interruption
       - before going to bed, read something light or something requiring more thought so I can ponder an idea while I'm falling asleep.
       - when I'm not reading, I'm trying to think about what I have just read (like waiting in the checkout line at the grocery store)
