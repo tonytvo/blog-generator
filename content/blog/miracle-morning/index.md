@@ -194,14 +194,24 @@ tags: ["selfimprovement", "investing"]
 
 - You will never change your life until you change something you do daily. You see, success doesn’t just suddenly occur one day in someone’s life. For that matter, neither does failure. Each is a process. Every day of your life is merely preparation for the next. What you become is the result of what you do today. In other words . . .YOU ARE PREPARING FOR SOMETHING.
 
-- The most successful people in life are the ones who settle their critical issues early and manage them daily . The earlier you settle the critical issues in your life, the greater your potential for success.
-
 - When it comes to change, there are really only three kinds of people:
   - Those who don’t know what to do
   - Those who know what to do but don’t do it
   - Those who know what to do and follow-through
 
+- today is what's really matters.
+  - it's too late for yesterday and we can't depend on tomorrow
+  - 2 ingredients to make today great: decision and discipline
+    - The most successful people in life are the ones who settle (**make decisions**) their critical issues early and manage them daily . The earlier you settle the critical issues in your life, the greater your potential for success.
+    - discipline: the earlier we start, the greater the compound effect.
+    - knowing that you're doing your preparation for the future today, gives you the confidence that all will be alright tomorrow.
 # The 12 Daily Practices (Daily Dozen)
+
+- pick 2 strength areas and one weakness and work on them for 60 days then re-evaluate and move on to something new if you have made significant progress.
+- if the area still needs more work, remain focused on it for another 60 days.
+- never work on more than 3 at a time.
+- repeat the process until the daily become your second to nature.
+- **make your day a masterpiece**
 
 ## Attitude: Choose and display the right attitudes daily.
 
@@ -209,23 +219,29 @@ tags: ["selfimprovement", "investing"]
 
 - Your Attitude towards others often determines their attitude toward you.
 
-- Your attitude is a choice. If you desire to make your day a masterpiece, then you need to have a great attitude. If it’s not good now, you need to change it. Make the decision.
+- Your attitude is a choice. If you desire to **make your day a masterpiece**, then you need to have a great attitude. If it’s not good now, you need to change it. Make the decision.
 
-- Your attitude affects how you start and finish your work. Attitude itself is contagious so check to see how others respond to you. If you want a better day, you need to change your attitude. Focus on the possibility instead of the problem. Take responsibility for your attitude, change the bad areas of your attitude and think and talk like the person you want to become. To change your attitude, you need to:
-  - 1) Recognize that your attitude needs adjustment.
-  - 2) Find something positive in everything.
-  - 3) Find positive people.
-  - 4) Eliminate negative words in your vocabulary by saying "I can, I will, I will make time, absolutely."
+- test your attitude when you spend time with others
+  - do they walk away feeling better or worse?
+  - do you clear the air, giving them a fresh perspective and positive encouragement, or do they go away feeling gloomy
+
+- Your attitude affects how you start and finish your work. Attitude itself is contagious so check to see how others respond to you. If you want a better day, you need to change your attitude. Focus on the possibility instead of the problem. Take responsibility for your attitude, change the bad areas of your attitude and think and talk like the person you want to become. Once you've made a decision to have a positive attitude, it will not take care of itself. You need to attend to it daily by following these disciplines:
+  - begin each day with an attitude check and watch for red flags
+  - Recognize that your attitude needs adjustment.
+  - Find something positive in everything, even in the midst of difficult situations
+  - Eliminate negative words in your vocabulary by saying "I can, I will, I will make time, absolutely."
+  - express gratitude to others daily.
+  - Find positive people.
 
 ## Priorities: Determine and act on important priorities daily.
 
-- **VALUATE PRIORITIES DAILY**
+- **EVALUATE PRIORITIES DAILY**
 
 - Priorities don’t stay put; you have to revisit them every day. Why? Because conditions continually change. So do methods of getting things done. Your values, once defined, are going to be steady. You will be able to rely on them. But how you carry them out needs to be flexible.
 
 - According to a survey taken by Day-Timers, Inc., only one-third of American workers plan their daily schedules. And only 9 percent follow through and complete what they planned.6 If you want to be effective, you must be able to make the transition to planning.
 
-- What if you only had 6 months left to live? What would you do? Priorities is about focus and concentration. It is recognizing that time is our most precious commodity, not money. Eliminate the non-essentials. Ask for feedback, take personality tests and evaluate your personal experiences. Think of the Pareto Principle by focusing on the 20% to get an 80% return in life. Ask yourself:
+- What if you only had 6 months left to live? What would you do? Priorities is about focus and concentration. It is recognizing that time is our most precious commodity, not money. Eliminate the non-essentials. Ask for feedback, take personality tests and evaluate your personal experiences. Think of the Pareto Principle by focusing on the 20% to get an 80% return in life. priorities help you to eliminate the nonessentials in life, to leave things undone. Ask yourself:
   - 1) What is required of me?
   - 2) What gives me the greatest return?
   - 3) What gives me the greatest reward?
@@ -235,30 +251,42 @@ tags: ["selfimprovement", "investing"]
   - 2) Plan your time carefully.
   - 3) Follow your plan.
   - 4) Delegate whenever possible.
-  - 5) Spend your time wisely with others.
+  - 5) Spend/invest your time wisely with right people daily.
 
 ## Health: Know and follow healthy guidelines daily.
 
+- your health impacts you emotionally, spiritually and intellectually.
+
 - **If you make decisions that are bad for your health, it will affect other areas of your life**. Young people tend to spend their health for wealth. Get enough exercise and eat well. **To take take care of your health, you need to**:
   - 1) Have a purpose worth living for.
-  - 2) Do work you enjoy.
+  - 2) Do work you enjoy. so it won't wear you off.
   - 3) Find your own pace.
-  - 4) Accept your personal worth.
-  - 5) Laugh.
+    - if you take a life more slowly than your energy level is capable of, you can become lazy
+    - if you continually run at a pace faster than you are capable, you can burn out.
+  - 4) Accept your personal worth. Eat right and exercise.
+  - 5) Laugh. It helps handle stress.
 
 ## Family: Communicate with and care for my family daily.
 
+- family life has profound impacts on how you live, it molds your character and the character or your family members, since your family is the primary environment, it influences the choices to make and the habits you cultivate everyday.
+
+- while you can't do much about your ancestors, you can influence your descendants greatly.
+
 - When you have a strong family life, you receive the message that you are loved, cared for, and important. The positive intake of love, affection and respect... gives you inner resources to deal with life more successfully.
 
-- Family can be a source of stability and strength. But we often don’t give them enough of our time. **You can choose how long and how to spend time with them**. Put your family on your calendar first and don’t let them have the left overs in your schedule. Rewrite your own definition of success which is to be close and care for your family. Make them part of your non-negotiables in your schedule.
+- Family is safe-haven in storm. Family can be a source of stability and strength. But we often don’t give them enough of our time. **You can choose how long and how to spend time with them**. Put your family on your calendar first and don’t let them have the left overs in your schedule. Rewrite your own definition of success which is to be close and care for your family. Make them part of your non-negotiables in your schedule.
+  - create and maintain family traditions
+  - find ways to spend time together
+  - express appreciation for each other
+  - resolve conflict as quickly as possible.
 
 ## Thinking: Practice and develop good thinking daily.
 
 - Success doesn’t come by accident. People don’t repeatedly stumble into achievement and then figure it out afterward. Whether you’re a doctor, a businessperson, a carpenter, a teacher, or a parent, your level of success will increase dramatically if you place high value on thinking. The greater your thinking, the greater your potential.
 
-- Good thinking can increase all value and serve as assets. There are many types of thinking which includes: big picture thinking, focus thinking, creative thinking, realistic thinking, strategic thinking, possibility thinking, reflecting thinking, questioning popular thinking, shared thinking, unselfish thinking and bottom line thinking. You don’t need to be a master at all the thinking types but simply find people who can compensate the weak areas. **Everyday set aside a certain time to think, find thinking place and have a system. To think better, you need to**:
+- Good thinking can increase all value and serve as assets. There are many types of thinking which includes: big picture thinking, focus thinking, creative thinking, realistic thinking, strategic thinking, possibility thinking, reflecting thinking, questioning popular thinking, shared thinking, unselfish thinking and bottom line thinking. You don’t need to be a master at all the thinking types but simply find people who can compensate the weak areas. **Everyday set aside a certain time to think, find thinking place and have a system/process that works for you. To think better, you need to**:
   - 1) Focus on the positive.
-  - 2) Gather good input.
+  - 2) Gather good input, capture your thoughts
   - 3) Spend time with good thinkers.
 
 ## Commitment: Make and keep proper commitments daily.
@@ -267,7 +295,11 @@ tags: ["selfimprovement", "investing"]
 
 - In general, people approach daily commitment in one of two ways. They focus on the external or the internal. Those who focus on the external expect conditions to determine whether they keep their commitments. Because conditions are so transitory, their commitment level changes like the wind. In contrast, people who base their actions on the internal usually focus on their choices. Each choice is a crossroad, one that will either confirm or compromise their commitments.
 
-- Expect that commitment will be a struggle but it is worth it. Focus on your choices and stick with it. This requires hard work and dedication.
+- Expect that commitment will be a struggle but it is worth it. Focus on your choices and stick with it. This requires hard work and dedication. It help you going when life gets rough and the pain becomes great.
+
+- don't rely on talent alone, add a strong work ethic to it.
+
+- do what's right even when you don't feel like it.
 
 ## Finances: Earn and properly manage finances daily.
 
@@ -281,12 +313,22 @@ tags: ["selfimprovement", "investing"]
 
 - Materialism is not about possession—it’s an obsession. I’ve known materialistic people with no money and nonmaterialistic people who possess lots of money.
 
+- money is nothing but a tool that gives you options
+  - focus on your financial game plan so that everyday you have more not fewer options to earn.
+  - become a good earner
+  - don't compare yourself to others
+  - give as much as you can.
+  - be grateful for what you have.
+
 ## Faith: Deepen and live out my faith daily.
+
+- faith is trusting in advance what will only make sense in reverse.
 
 - This gives strength and reduces stress. Studies have shown that people with faith are less likely to fall ill compared to non-believers. Everyone has a faith including both religious people and Atheists.
   - 1) Embrace the value of faith.
   - 2) Put God in the picture.
   - 3) Explore and deepen faith.
+  - 4) associate with people of faith
 
 - Faith not only can help you through a crisis, it can help you to approach life after the hard times with a whole new perspective. It can help you adopt an outlook of hope and courage through faith to face reality.
 
@@ -309,7 +351,11 @@ tags: ["selfimprovement", "investing"]
   - People get emotionally low . . . encourage them.
   - People want to be associated with success . . . help them win.
 
-- You will get far in life if you like people because the likable person always wins. Refer to "How to Win Friends and Influence People" by Dale Carnegie. Place a high value on people, expect the best from them, learn to understand them, compliment them, listen to them, speak to their needs and encourage them to win.
+- You will get far in life if you like people because the likable person always wins. Refer to "How to Win Friends and Influence People" by Dale Carnegie. Place a high value on people, expect the best from them, learn to understand them, listen to people, compliment them, listen to them, speak to their needs and encourage them to win.
+  - give respect freely but expect to earn it from others.
+  - add value to others without expect to receive value in return.
+  - express love and appreciation often.
+  - don't carry emotional baggage
 
 ## Generosity: Plan for and model generosity daily.
 
@@ -317,17 +363,32 @@ tags: ["selfimprovement", "investing"]
 
 - People love givers rather than self centered people. Giving turns your focus outward, adds values to others and actually helps the giver. You usually feel good after giving. So give others your money, time, and energy. Make yourself valuable but also value others.
 
+- the purpose of life is not to win but to grow and share.
+
+- to plan for and model generosity daily
+  - don't wait for prosperity to become generous, change your heart.
+  - find a reason to give every day.
+  - find people to receive every day.
+
 ## Values: Embrace and practice good values daily.
 
 - Discrepancies between values and practices create chaos in a person’s life. If you talk your values but neglect to walk them, then you will continually undermine your integrity and credibility. And that will happen even if you are unaware of your behavior and are not doing it intentionally.
 
-- Values serve as an anchor, faithful friend and your north star. Many things in life will stand in the way of your values. **Everyday reflect and review your values**. Articulate and embrace your values everyday. **See how you can apply and practice your values**.
+- Values serve as an anchor, faithful friend and your north star. Many things in life will stand in the way of your values. 
+  - **Everyday reflect and review your values**. Articulate and embrace your values everyday.
+  - **See how you can apply and practice your values**. Compare your values to your practices daily.
+  - live out your values regardless of your feelings
+
+- values are the principles that guide your life. Your values are the deeply held beliefs that authentically describe your soul. They become a companion to you throughout your life and don't change.
 
 ## Growth: Desire and experience improvements daily.
 
 - Often the most difficult part of the upward climb of growth is putting into practice what you learn. Yet that is where the true value is. The final test of any learning is always application. If what you’re learning can be used in some way to help and improve you or others, then it is worth the effort.
 
-- We think that our bodies and minds will take care of itself automatically. We also think knowledge, information and experience are signs of growth. **But it’s about reflecting on experience and applying the knowledge learned**. This prevents stagnation in life. We also need to focus on internal change rather than external change. **Develop and follow a personal growth plan** by setting growth goals and putting yourself in an environment that supports growth. Keep asking yourself: **"what is my potential?**"
+- We think that our bodies and minds will take care of itself automatically. We also think knowledge, information and experience are signs of growth. **But it’s about reflecting on experience and applying the knowledge learned**. This prevents stagnation in life. We also need to focus on internal change rather than external change. 
+  - **Develop and follow a personal growth plan** by setting growth goals and putting yourself in an environment that supports growth. Keep asking yourself: **"what is my potential?**"
+  - document what you learn and apply it.
+  - learn to enjoy the journey.
 
 # Quotes
 
