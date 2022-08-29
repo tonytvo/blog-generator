@@ -285,9 +285,9 @@ tags: ["selfimprovement", "investing"]
 
 ## Thinking: Practice and develop good thinking daily.
 
-- Success doesn’t come by accident. People don’t repeatedly stumble into achievement and then figure it out afterward. Whether you’re a doctor, a businessperson, a carpenter, a teacher, or a parent, your level of success will increase dramatically if you place high value on thinking. The greater your thinking, the greater your potential.
+- Success doesn’t come by accident. People don’t repeatedly stumble into achievement and then figure it out afterward. Whether you’re a doctor, a businessperson, a carpenter, a teacher, or a parent, your level of success will increase dramatically if you place a high value on your thinking. The greater your thinking, the greater your potential.
 
-- Good thinking can increase all value and serve as assets. There are many types of thinking which includes: big picture thinking, focus thinking, creative thinking, realistic thinking, strategic thinking, possibility thinking, reflecting thinking, questioning popular thinking, shared thinking, unselfish thinking and bottom line thinking. You don’t need to be a master at all the thinking types but simply find people who can compensate the weak areas. **Everyday set aside a certain time to think, find thinking place and have a system/process that works for you. To think better, you need to**:
+- Good thinking can increase all value and serve as assets. There are many types of thinking which include: big-picture thinking, focus thinking, creative thinking, realistic thinking, strategic thinking, possibility thinking, reflecting thinking, questioning popular thinking, shared thinking, unselfish thinking and bottom-line thinking. You don’t need to be a master at all the thinking types but simply find people who can compensate for the weak areas. **every day, set aside a certain time to think, find a thinking place and have a system/process that works for you. To think better, you need to**:
   - 1) Focus on the positive.
   - 2) Gather good input, capture your thoughts
   - 3) Spend time with good thinkers.
@@ -296,28 +296,28 @@ tags: ["selfimprovement", "investing"]
 
 - Anyone who desires to achieve and become successful must be like a fine craftsman: committed to excellence. A great craftsman wants you to inspect his work, to look closely at its finest details. In contrast, sloppy people hide their work. And if anyone finds fault with it, shoddy workers find fault with their tools. Which are you most like? Excellence means doing your very best in everything, in every way. That kind of commitment will take you where halfhearted people will never go.
 
-- In general, people approach daily commitment in one of two ways. They focus on the external or the internal. Those who focus on the external expect conditions to determine whether they keep their commitments. Because conditions are so transitory, their commitment level changes like the wind. In contrast, people who base their actions on the internal usually focus on their choices. Each choice is a crossroad, one that will either confirm or compromise their commitments.
+- In general, people approach daily commitment in one of two ways. They focus on the external or the internal. Those who focus on the external expect conditions to determine whether they keep their commitments. Because conditions are so transitory, their commitment level changes like the wind. In contrast, people who base their actions on the internal usually focus on their choices. Each choice is a crossroad that will either confirm or compromise their commitments.
 
-- Expect that commitment will be a struggle but it is worth it. Focus on your choices and stick with it. This requires hard work and dedication. It help you going when life gets rough and the pain becomes great.
+- Expect that commitment will be a struggle, but it is worth it. Focus on your choices and stick with them. This requires hard work and dedication. It helps you go when life gets rough, and the pain becomes great.
 
-- don't rely on talent alone, add a strong work ethic to it.
+- don't rely on talent alone. Add a strong work ethic to it.
 
 - do what's right even when you don't feel like it.
 
 ## Finances: Earn and properly manage finances daily.
 
-- Recognize that money won’t necessarily make you happy. Debt itself will likely to make you unhappy as well. And having financial margin gives you more options. You need to learn how to make money, remain grateful and not compare yourself to others. *The author personally lives by this rule: 10% to church and charity, 80% to living expenses and 10% to investments*. **When it comes to finance, ask yourself**:
+- Recognize that money won’t necessarily make you happy. Debt itself will likely make you unhappy as well. And having a financial margin gives you more options. You need to learn how to make money, remain grateful and not compare yourself to others. *The author personally lives by this rule: 10% to church and charity, 80% to living expenses and 10% to investments*. **When it comes to financing, ask yourself**:
   - 1) Am I preoccupied with things?
   - 2) Am I envious of others?
-  - 3) Do I fight my personal values?
+  - 3) Do I fight for my values?
   - 4) Do I believe money will make me happy?
   - 5) Do I keep wanting more?
-  - If you answered yes to one of these, then you need to do soul searching. Materialism is an obsession and mindset.
+  - If you answered yes to one of these, you need to do soul searching. Materialism is an obsession and mindset.
 
 - Materialism is not about possession—it’s an obsession. I’ve known materialistic people with no money and nonmaterialistic people who possess lots of money.
 
 - money is nothing but a tool that gives you options
-  - focus on your financial game plan so that everyday you have more not fewer options to earn.
+  - focus on your financial game plan so that you have more, not fewer, options to earn every day.
   - become a good earner
   - don't compare yourself to others
   - give as much as you can.
@@ -327,15 +327,15 @@ tags: ["selfimprovement", "investing"]
 
 - faith is trusting in advance what will only make sense in reverse.
 
-- This gives strength and reduces stress. Studies have shown that people with faith are less likely to fall ill compared to non-believers. Everyone has a faith including both religious people and Atheists.
+- This gives strength and reduces stress. Studies have shown that people with faith are less likely to fall ill than non-believers. Everyone has faith, including both religious people and Atheists.
   - 1) Embrace the value of faith.
   - 2) Put God in the picture.
   - 3) Explore and deepen faith.
   - 4) associate with people of faith
 
-- Faith not only can help you through a crisis, it can help you to approach life after the hard times with a whole new perspective. It can help you adopt an outlook of hope and courage through faith to face reality.
+- Faith not only can help you through a crisis, but it can also help you to approach life after the hard times with a whole new perspective. It can help you adopt an outlook of hope and courage through faith to face reality.
 
- - In the past, many people hoped that science would provide all the answers to life’s questions. But science cannot do that. Ironically, what is embraced as scientific fact changes from generation to generation. Just look at the way scientists have viewed our solar system. Ptolemy believed the earth was at its center. Copernicus asserted that the sun was at its center and the planets moved in circular orbits around it. Kepler proved that the orbits were elliptical. Today, scientists no longer argue the structure of the solar system, but ideas about how it was formed change continually.
+ - In the past, many people hoped that science would provide all the answers to life’s questions. But science cannot do that. Ironically, what is embraced as scientific fact changes from generation to generation? Just look at the way scientists have viewed our solar system. Ptolemy believed the earth was at its center. Copernicus asserted that the sun was at its center, and the planets moved in circular orbits around it. Kepler proved that the orbits were elliptical. Today, scientists no longer argue about the solar system's structure, but ideas about how it was formed change continually.
 
 ## Relationships: Initiate and invest in solid relationships daily.
 
@@ -364,21 +364,21 @@ tags: ["selfimprovement", "investing"]
 
 - True generosity isn’t a function of income—it begins with the heart. It’s about serving others and looking for ways to add value to them. That’s the way to achieve significance in your life.
 
-- People love givers rather than self centered people. Giving turns your focus outward, adds values to others and actually helps the giver. You usually feel good after giving. So give others your money, time, and energy. Make yourself valuable but also value others.
+- People love givers rather than self-centred people. Giving turns your focus outward, adds value to others and helps the giver. You usually feel good after giving. So give others your money, time, and energy. Make yourself valuable but also value others.
 
 - the purpose of life is not to win but to grow and share.
 
 - to plan for and model generosity daily
-  - don't wait for prosperity to become generous, change your heart.
+  - don't wait for prosperity to become generous; change your heart.
   - find a reason to give every day.
   - find people to receive every day.
 
 ## Values: Embrace and practice good values daily.
 
-- Discrepancies between values and practices create chaos in a person’s life. If you talk your values but neglect to walk them, then you will continually undermine your integrity and credibility. And that will happen even if you are unaware of your behavior and are not doing it intentionally.
+- Discrepancies between values and practices create chaos in a person’s life. If you talk about your values but neglect to walk them, then you will continually undermine your integrity and credibility. And that will happen even if you are unaware of your behaviour and are not doing it intentionally.
 
 - Values serve as an anchor, faithful friend and your north star. Many things in life will stand in the way of your values. 
-  - **Everyday reflect and review your values**. Articulate and embrace your values everyday.
+  - **every day, reflect and review your values**. Articulate and embrace your values every day.
   - **See how you can apply and practice your values**. Compare your values to your practices daily.
   - live out your values regardless of your feelings
 
@@ -386,9 +386,9 @@ tags: ["selfimprovement", "investing"]
 
 ## Growth: Desire and experience improvements daily.
 
-- Often the most difficult part of the upward climb of growth is putting into practice what you learn. Yet that is where the true value is. The final test of any learning is always application. If what you’re learning can be used in some way to help and improve you or others, then it is worth the effort.
+- Often, the most difficult part of the upward growth climb is putting into practice what you learn. Yet that is where the true value is. The final test of any learning is always application. If what you’re learning can be used to help and improve you or others, then it is worth the effort.
 
-- We think that our bodies and minds will take care of itself automatically. We also think knowledge, information and experience are signs of growth. **But it’s about reflecting on experience and applying the knowledge learned**. This prevents stagnation in life. We also need to focus on internal change rather than external change. 
+- We think our bodies and minds will take care of themselves automatically. We also think knowledge, information and experience are signs of growth. **But it’s about reflecting on the experience and applying the knowledge learned**. This prevents stagnation in life. We also need to focus on internal change rather than external change. 
   - **Develop and follow a personal growth plan** by setting growth goals and putting yourself in an environment that supports growth. Keep asking yourself: **"what is my potential?**"
   - document what you learn and apply it.
   - learn to enjoy the journey.
