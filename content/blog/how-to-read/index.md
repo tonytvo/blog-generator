@@ -67,22 +67,22 @@ tags: ["productivity", "learning"]
   - inspectional reading allows us to look at the author's blueprint and evaluate the merits of a deeper reading experience.
   - 2 sub-types of inspectional reading
     - systematic skimming
-      - quick check of the book by
+      - a quick check of the book by
         - reading preface
         - studying the table of contents
         - checking the index
-        - reading inside jacket
+        - reading inside the jacket
       - give you sufficient knowledge to understand the chapters in the book, pivotal to the author's argument.
-      - skimming helps you reach to a decision point: Does this book deserve more of my time and attention? if not, you put it down.
+      - skimming helps you reach a decision point: Does this book deserve more of my time and attention? If not, you put it down.
     - superficial reading
-      - just read, don't ponder the argument, don't look things up, don't write in the margins.
+      - just read, don't ponder the argument, don't look things up, and don't write in the margins.
       - if you don't understand something, move on.
-      - now that you have better understanding of the book's contents and its structure, do you want to understand it?
+      - now that you understand the book's contents and structure better, do you want to understand it?
 
   ## Analytical reading
   - [use marginalia to converse with the author](https://fs.blog/marginalia/)
     - the broken fragments of thought that appear scribbled in the margins of books.
-    - these fragments help us connect ideas, translate jargon, and spur critical thinking.
+    - these fragments help us connect ideas, translate the jargon, and spur critical thinking.
   - 4 rules to analytical reading
     - classify the book according to kind and subject matter
     - state what the whole book is about with the utmost brevity
@@ -94,22 +94,22 @@ tags: ["productivity", "learning"]
 
   ## Syntopical reading
   - involves reading many books on the same subject and comparing and contrasting ideas, vocabulary, and arguments.
-  - identifying relevant passages, translating the terminology, framing and ordering the questions that need answering, defining the issues, and having a conversation with the responses.
+  - identifying relevant passages, translating the terminology, framing and ordering the questions that need answering, defining the issues, and conversing with the responses.
   - understand the subject and develop deep fluency
   - identifying and filling in your knowledge gaps.
   - 5 steps to syntopical reading
     - finding the relevant passages
       - find the right books and then the passages that are most relevant to filling your needs
     - bringing the author to terms
-      - identify the keywords and how they are used by the author. Each author has probably used different temrs and concepts to frame their argument.
+      - identify the keywords and how the author uses them. Each author has probably used different terms and concepts to frame their argument.
       - this is an exercise in translation and synthesis.
     - Getting the questions clear
-      - focus on the questions that you want to answered.
-      - it's important to frame the questions in such a way that all or most of the authors can be interpreted as providing answers.
+      - focus on the questions that you want to answer.
+      - it's important to frame the questions so that all or most authors can be interpreted as providing answers.
     - defining the issues
-      - ask clear question to which there are multiple answers.
-      - translated into your terms, must be ordered in relation to one another.
-      - understanding multiple perspectives within an issue helps you form an intelligent opinion.
+      - ask a clear question to which there are multiple answers.
+      - translated into your terms, must be ordered to one another.
+      - understanding multiple perspectives on an issue helps you form an intelligent opinion.
     - analyzing discussion
       - it's presumptuous to expect we will find a single unchallenged truth to any of our questions.
       - our answer is the conflict of opposing answers.
@@ -119,17 +119,17 @@ tags: ["productivity", "learning"]
 # 4 Questions must ask about any book
 
 ## what is the book as a whole?
-- you must try to discover the leading theme of the book, and how the author develops her theme in an orderly way by subdividing it into its essential subordinate themes or topics
+- you must try to discover the leading theme of the book and how the author develops her theme in an orderly way by subdividing it into its essential subordinate themes or topics
 
 ## what is being said in detail and how
 - you must try to discover the main ideas, assertions and arguments that constitute the author's particular message
 
 ## is the book true, in whole or part?
-- you cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you're obligated, if you are reading seriously, to make up your own mind. Knowing the author's mind is not enough.
+- you cannot answer this question until you have answered the first two. You have to know what is being said before you can decide whether it is true or not. When you understand a book, however, you're obligated to make up your mind if you are reading seriously. Knowing the author's mind is not enough.
 
 ## what of it?
 - if the book has given you information, you must ask about its significance. Why does the author think it is important to know these things?
-- Is it important to you to know them? and if the book has not only informed you, but also enlightened you, it is necessary to seek further enlightenment by asking.
+- Is it important to you to know them? And if the book has informed not only you but also enlightened you, it is necessary to seek further enlightenment by asking.
 
 # Note taking
 - listen with intent. Write notes in a way you can understand later
@@ -138,45 +138,45 @@ tags: ["productivity", "learning"]
   - I - identify what is most important in the context of your goal
   - P - prioritize the information that is most valuable for you.
 - use your own words whenever possible
--  handwriting triumphs typing because writing by hand requires you to exert more effort and process information immediately
--  use **capture and create**. Fold the paper into two columns. On left side, write down what you're capturing. On the right, write your impression of potential applications, i.e., the areas you can apply this.
+-  handwriting triumphs over typing because writing by hand requires you to exert more effort and process information immediately
+-  use **capture and create**. Fold the paper into two columns. On the left side, write down what you're capturing. On the right, write your impression of potential applications, i.e., the areas you can apply this.
 
   ## audio journal
-  - need to do more research in this
+  - need to do more research on this
 
   ## Blank sheet
-  - before you start reading a new book, take out a blank sheet of paper. write down what you know about the subject you're about to read - a mind map if you will
-  - after you're done a reading session, spend a few minutes adding to the map (I use a different color ink)
-  - before you start your next reading session, review the mind map(I use mind as a bookmark sometimes)
-  - put these mind maps in a binder, and periodically review them.
+  - Before reading a new book, take a blank sheet of paper. Write down what you know about the subject you're about to read - a mind map if you will
+  - after you're done a reading session, spend a few minutes adding to the map (I use a different colour ink)
+  - before you start your next reading session, review the mind map(I use mine as a bookmark sometimes)
+  - put these mind maps in a binder and periodically review them.
   - the blank sheet primes your brain for what you're about to read and shows you what you're learning
 
   ## conventional notes
   - you bought this thing, it's your property, you need to [write in the margins](https://fs.blog/marginalia/)
-  - at the end of each chapter write a few bullet points that summarize the main idea or specific points. Use your own words and not the authors. Try and connect it to something in your life - a memory or another idea. Also, make note any unanswered questions you had while reading.
-  - when you're done the book, put it down for a week
-  - pick up the book again and go through all your notes. In a lot of cases, reading your notes will be as good as reading the book again.
+  - at the end of each chapter, write a few bullet points that summarize the main idea or specific points. Use your own words and not the author's. Connect it to something in your life - a memory or another idea. Also, make note of any unanswered questions you had while reading.
+  - when you're done with the book, put it down for a week
+  - pick up the book again and go through all your notes. In many cases, reading your notes will be as good as reading the book again.
   - writing is the process by which we often discover we don't know what we're talking about.
    
 # Speed reading
 ## the 4,3,2,1 method
-- 10 minutes exercise
+- 10 minutes of exercise
 - set the timer for 4 minutes and open an easy-to-read book.
 - start reading at a comfortable pace while using your finger to underline the words as you read them.
-- when 4 minutes expires, mark the point at which you stopped
-- go back where you started and set a timer for 3 minutes, then 2 minutes, then 1 minute. Try to get to the same point you reached after 4 minutes.
+- when 4 minutes expire, mark the point at which you stopped
+- go back to where you started and set a timer for 3 minutes, then 2 minutes, then 1 minute. Try to get to the same point you reached after 4 minutes.
 
 # Problems
-- avoid regression where your eyes tend to go back and re-read certain words in a sentence.
-  - use pacer because attention follows movement. If you use your finger to guide your reading, you prevent your attention from jumping around the text.
-  - use finger as pacer when reading on physical book or the phone
-  - use the mouse as pacer when reading content on computer
+- avoid regression, where your eyes tend to go back and re-read certain words in a sentence.
+  - use a pacer because attention follows the movement. Using your finger to guide your reading prevents your attention from jumping around the text.
+  - use your finger as a pacer when reading a physical book or the phone
+  - use the mouse as a pacer when reading content on a computer
 - avoid subvocalization: saying words to yourself in your head as you read.
   - when you start reading, count 1, 2, 3, 4. This process will free your mind of the inner narrator.
   - it will train your mind to see words on the page like images. Turn what you're reading into a motion picture experience.
 - avoid word-by-word reading
-  - observe chunks of word at a single glance.
-  - practice expanding your vision to see groups of words, i.e.: image for groups of words
+  - observe chunks of words at a single glance.
+  - practice expanding your vision to see groups of words, i.e., images for groups of words
 that we try to understand
 
 # Quotes

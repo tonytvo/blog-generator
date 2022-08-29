@@ -19,7 +19,7 @@ tags: ["selfimprovement", "investing"]
   - Scribing. Writing enables you to document your insights as well as any areas of opportunity
 
 - How to create your affirmations:
-  - What You Really Want
+  - What You Want
   - Why You Want It
   - Whom You Are Committed To Being To Create It
   - What You’re Committed To Doing To Attain It
@@ -27,7 +27,7 @@ tags: ["selfimprovement", "investing"]
 
 - How to visualize:
   - Get Ready
-  - Visualize What You Really Want
+  - Visualize What You Want
   - Visualize Who You Need To Be and What You Need To Do
 
 - How to read:
@@ -40,28 +40,29 @@ tags: ["selfimprovement", "investing"]
   - Get a Journal
   - Decide what to write
 
-- Be intentional and aware of what you do everyday when it comes these 12 areas: your attitude, priorities, health, family, thinking, commitment, finances, faith, relationships, generosity, values and growth
+- Be intentional and aware of what you do every day when it comes to these 12 areas: your attitude, priorities, health, family, thinking, commitment, finances, faith, relationships, generosity, values and growth
 
-- We often want overnight success and want success without paying the price. We think success comes from luck, productivity, recognition, an event, or connections. **But the secret to success is based on what you do everyday**.
+- We often want overnight success and want success without paying the price. We think success comes from luck, productivity, recognition, an event, or connections. **But the secret to success is based on what you do every day**.
+
 
 # How to Wake Up To Your FULL Potential
 - To create the levels of personal, professional, and financial success you desire, you must first dedicate time each day to becoming the person you need to be, one who is qualified and capable of consistently attracting, creating, and sustaining the levels of success you want.
 
 - How you wake up each day and your morning routine (or lack thereof) dramatically affects your levels of success in every single area of your life.
 
-- The Miracle Morning is about recreating the experience of waking up feeling energized and excited, and doing it every-single-day of your life—for the rest of your life.
+- The Miracle Morning is about recreating the experience of waking up feeling energized and excited and doing it every day for the rest of your life.
 
-- **The 5-Step Snooze-Proof Wake Up Strategy**
+- **The 5-Step Snooze-Proof Wake-Up Strategy**
   - Set Your Intentions Before Bed. Create genuine excitement for the next morning every night before bed
-  - Move Your Alarm Clock Across The Room. This forces you to get out of bed and engage your body in movement. Motion creates energy, so when you get up and out of bed it naturally helps you wake up
+  - Move Your Alarm Clock Across The Room. This forces you to get out of bed and engage your body in movement. Motion creates energy, so when you get up and out of bed, it naturally helps you wake up
   - Brush Your Teeth. Go directly to the bathroom sink to brush your teeth and splash some warm (or cold) water on your face
-  - Drink a Full Glass of Water. Hydrate yourself first thing every morning. Fill a glass of water the night before so it’s already there for you in the morning
-  - Get Dressed or Jump In the Shower. Either get dressed in your exercise clothes, so you’re ready to leave your bedroom and immediately engage in your Miracle Morning, or jump in the shower
+  - Drink a Full Glass of Water. Hydrate yourself first thing every morning. Fill a glass of water the night before, so it’s already there for you in the morning
+  - Get Dressed or Jump In the Shower. Either get dressed in your exercise clothes so you’re ready to leave your bedroom and immediately engage in your Miracle Morning, or jump in the shower
 
-**Miracle Morning Bonus Wake Up Tips**
+- **Miracle Morning Bonus Wake-Up Tips**
 
-- Set a timer for your bedroom light. As your alarm goes off, the lights come on in the room. Or turn your light on first thing when your alarm goes off.
-- Set a timer for your bedroom heater. Keep a bedroom heater on an appliance timer set to go off 15 minutes before waking up so you’re not tempted to crawl back under the covers to avoid the cold
+  - Set a timer for your bedroom light. As your alarm goes off, the lights come on in the room. Or turn your light on first thing when your alarm goes off.
+  - Set a timer for your bedroom heater. Keep a bedroom heater on an appliance timer set to go off 15 minutes before waking up, so you’re not tempted to crawl back under the covers to avoid the cold
 
 # The Life S.A.V.E.R.S.: Six Practices Guaranteed To Save You From a Life of Unfulfilled Potential
 
@@ -79,22 +80,22 @@ tags: ["selfimprovement", "investing"]
 - **Miracle Morning Meditation:**
 
   - Prepare your mindset and set your expectations. Let go of your stresses and be fully present in this moment
-  - Find a quiet, comfortable place to sit. Sit up straight on the couch, on a chair, on the floor, or sit on a pillow, for added comfort
+  - Find a quiet, comfortable place to sit. Sit up straight on the couch, on a chair, on the floor, or sit on a pillow for added comfort
   - Sit upright, cross-legged. Close your eyes or can look down at the ground
-  - Begin by focusing on your breath, taking slow, deep breaths. In through the nose, out through the mouth, and be sure to breathe into your belly, rather than your chest
+  - Begin by focusing on your breath, taking slow, deep breaths. In through the nose, out through the mouth, and be sure to breathe into your belly rather than your chest
   - Now, start pacing your breath; in slowly on a count of 3 seconds, hold it in for 3 seconds, and then breathe out slowly on a count of 3 seconds
   - As you attempt to quiet your mind, thoughts will still come in to pay a visit. Simply acknowledge them, then let them go, always returning your focus to your breath
-  - If you have a constant influx of thoughts, it’s helpful to focus on a single word or a phrase and repeat it over and over again to yourself, as you inhale and exhale
+  - If you have a constant influx of thoughts, it’s helpful to focus on a single word or a phrase and repeat it over and over again to yourself as you inhale and exhale
 
 ## Life S.A.V.E.R.S. A is for Affirmations
 
-- Use affirmations to start **programming yourself** to be confident and successful in everything you do. With enough repetition, your subconscious mind will begin to believe what you tell it, act upon it, and eventually manifest it in your reality. 
+- Use affirmations to start **programming yourself** to be confident and successful in everything you do. With enough repetition, your subconscious mind will begin to believe what you tell, act upon it, and eventually manifest it in your reality. 
 
 - How to create your affirmations:
-  - **What You Really Want**. Begin with clarifying, in writing, what you really want—your ideal vision for yourself and your life—in each area
+  - **What You Want**. Begin with clarifying, in writing, what you want—your ideal vision for yourself and your life—in each area
   - **Why You Want It**. Being crystal clear on your deepest whys will give you an unstoppable purpose.
-  - **Whom You Are Committed To Being To Create It**. Get clear on who you need to be, are committed to being, in order to take your life, business, health, marriage, etc. to the next level and beyond
-  - **What You’re Committed To Doing To Attain It**. Specify the actions you will need to take on a consistent basis to make your vision for your ideal life. Include frequency (how often), quantity (how many), and precise time frames (what times you’ll begin and end your activities). Start small and take manageable steps
+  - **Whom You Are Committed To Being To Create It**. Get clear on who you need to be and are committed to being to take your life, business, health, marriage, etc., to the next level and beyond
+  - **What You’re Committed To Doing To Attain It**. Specify the actions you will need to take consistently to make your vision for your ideal life. Include frequency (how often), quantity (how many), and precise time frames (what times you’ll begin and end your activities). Start small and take manageable steps
   - **Add Inspirational Quotes and Philosophies**
 
 - How to upgrade your affirmations:
@@ -106,29 +107,29 @@ tags: ["selfimprovement", "investing"]
 
 ## Life S.A.V.E.R.S. V is for Visualization
 
-- Visualization is the process of imagining exactly what you want to achieve or attain, and then **mentally rehearsing** what you’ll need to do to achieve or attain it.
+- Visualization is the process of imagining exactly what you want to achieve or attain and then **mentally rehearsing** what you’ll need to do to achieve or attain it.
 
 - Directly after reading your affirmations—where you took the time to articulate and focus on your goals and who you need to be to take your life to the next level—is the prime time to visualize yourself living in alignment with your affirmations. Start with just five minutes of visualization.
 
 - 3 Simple Steps For Miracle Morning Visualization:
   - **Get Ready**. Sit up tall in a comfortable position. Breathe deeply. Close your eyes, clear your mind, and get ready to visualize
-  - **Visualize What You Really Want**. See yourself accomplishing what you set out to accomplish and how good it will feel to have followed through and achieved your goals
-  - **Visualize Who You Need To Be and What You Need To Do**. See yourself engaged in the positive actions you’ll need to do each day and make sure you see yourself enjoying the process
+  - **Visualize What You Want**. See yourself accomplishing what you set out to accomplish and how good it will feel to have followed through and achieved your goals
+  - **Visualize Who You Need To Be and What You Need To Do**. See yourself engaged in the positive actions you’ll need to do each day, and make sure you see yourself enjoying the process
 
 ## Life S.A.V.E.R.S. E is for Exercise
 
-- Morning exercise should be a staple in your daily rituals. When you exercise for even a few minutes every morning it significantly boosts your energy, enhances your health, improves self-confidence and emotional well-being, and enables you to think better and concentrate longer.
+- Morning exercise should be a staple in your daily rituals. Exercising for even a few minutes every morning significantly boosts your energy, enhances your health, improves self-confidence and emotional well-being, and enables you to think better and concentrate longer.
 
 ## Life S.A.V.E.R.S. R is for Reading
 
 - Reading is one of the most immediate methods for acquiring the knowledge, ideas, and strategies you need to achieve Level 10 success in any area of your life.
 
-- The key is to learn from the experts—those who have already done what you want to do. The fastest way to achieve everything you want is to **model successful people** who have already achieved it.
+- The key is to learn from the experts—those who have already done what you want. The fastest way to achieve everything you want is to **model successful people** who have already achieved it.
 
-- Make a commitment to read a **minimum of 10 pages per day**.
+- Commit to reading a **minimum of 10 pages per day**.
 
 - How to read:
-  - Begin with the end in mind. Ask yourself why you are reading that book—what do you want to gain from it—and keep that outcome in mind
+  - Begin with the end in mind. Ask yourself why you are reading that book—what you want to gain from it—and keep that outcome in mind
   - You can use your reading time to catch up on religious texts
   - Underline, circle, highlight, and take notes in the margins of books
   - Re-read good personal development books.
@@ -141,12 +142,12 @@ tags: ["selfimprovement", "investing"]
 
 - Scribing=Writing
 
-- Writing enables you to document your insights, ideas, breakthroughs, realizations, successes, and lessons learned, as well as any areas of opportunity, personal growth, or improvement.
+- Writing enables you to document your insights, ideas, breakthroughs, realizations, successes, lessons learned, and any areas of opportunity, personal growth, or improvement.
 
 - Effective Journaling:
   - **Choose a Format**. Decide upfront if you want to go with a traditional, physical lined journal or go digital, such as an online journal
   - **Get a Journal**. Get a nice and durable journal that you enjoy looking at
-  - **Decide What To Write**. can write about your goals, dreams, plans, family, commitments, lessons learned, and anything else that you feel you need to focus on in your life
+  - **Decide What To Write**. You can write about your goals, dreams, plans, family, commitments, lessons learned, and anything else that you feel you need to focus on in your life
 
 # The 6-Minute Miracle (For The Busy People)
 
@@ -159,23 +160,23 @@ tags: ["selfimprovement", "investing"]
 
 # How to Form Habits That Will Transform Your Life (In 30 Days)
 
-- Divide the 30-day time frame necessary to implement a positive new habit (or get rid of an old, negative habit) into three 10-day phases.
+- Divide the 30-day time frame necessary to implement a positive new habit (or eliminate an old, negative habit) into three 10-day phases.
 
 - **[Days 1-10] Phase One: Unbearable**
 
-  - The first 10 days of implementing any new habit, or ridding yourself of any old habit, can feel almost unbearable.
+  - The first ten days of implementing any new habit, or ridding yourself of any old habit, can feel almost unbearable.
 
-  - But this seemingly unbearable first 10 days is only "temporary." It only gets easier from here, and the reward is the ability to create everything you want for your life.
+  - But these seemingly unbearable first ten days are only "temporary." It only gets easier from here, and the reward is the ability to create everything you want for your life.
 
 - **[Days 11-20] Phase Two: Uncomfortable**
 
   - The 2nd 10-day phase is considerably easier but still requires discipline and commitment on your part.
 
-  - At this stage, it will still be tempting to fall back to your old behaviors. Stay committed.
+  - At this stage, falling back to your old behaviours will still be tempting. Stay committed.
 
 - **[Days 21-30] Phase Three: Unstoppable**
 
-  - The third 10-day phase is crucial to sustaining your new habit in the long term. The final 10 days are where you positively reinforce and associate pleasure with your new habit.
+  - The third 10-day phase is crucial to sustaining your new habit in the long term. The final ten days are when you positively reinforce and associate pleasure with your new habit.
 
   - Phase Three is also where the actual transformation occurs, as your new habit becomes part of your identity. It transcends the space between something you’re trying and who you’re becoming. You start to see yourself as someone who lives the habit.
 
@@ -190,32 +191,33 @@ tags: ["selfimprovement", "investing"]
 - We believe success comes from connections – So we network for it.
 - We believe success comes from recognition – So we strive for it.
 - We believe success is an event – So we schedule it.
-- The secret of your success is determined by your daily agenda. If you make a few key decisions and then manage them well in your daily agenda, you will succeed. You will never change your life until you change something you do daily.
+- The secret of your success is determined by your daily agenda. You will succeed if you make a few key decisions and then manage them well in your daily agenda. You will never change your life until you change something you do daily.
 
-- You will never change your life until you change something you do daily. You see, success doesn’t just suddenly occur one day in someone’s life. For that matter, neither does failure. Each is a process. Every day of your life is merely preparation for the next. What you become is the result of what you do today. In other words . . .YOU ARE PREPARING FOR SOMETHING.
+- You will never change your life until you change something you do daily. Success doesn’t just suddenly occur one day in someone’s life. For that matter, neither does failure. Each is a process. Every day of your life is merely preparation for the next. What you become is the result of what you do today. In other words . . .YOU ARE PREPARING FOR SOMETHING.
 
-- When it comes to change, there are really only three kinds of people:
+- When it comes to change, there are only three kinds of people:
   - Those who don’t know what to do
   - Those who know what to do but don’t do it
   - Those who know what to do and follow-through
 
-- today is what's really matters.
-  - it's too late for yesterday and we can't depend on tomorrow
+- today is what matters.
+  - it's too late for yesterday, and we can't depend on tomorrow
   - 2 ingredients to make today great: decision and discipline
-    - The most successful people in life are the ones who settle (**make decisions**) their critical issues early and manage them daily . The earlier you settle the critical issues in your life, the greater your potential for success.
+    - The most successful people in life are the ones who settle (**make decisions**) their critical issues early and manage them daily. The earlier you settle the critical issues in your life, the greater your potential for success.
     - discipline: the earlier we start, the greater the compound effect.
-    - knowing that you're doing your preparation for the future today, gives you the confidence that all will be alright tomorrow.
+    - knowing that you're doing your preparation for the future today gives you the confidence that all will be alright tomorrow.
+
 # The 12 Daily Practices (Daily Dozen)
 
-- pick 2 strength areas and one weakness and work on them for 60 days then re-evaluate and move on to something new if you have made significant progress.
-- if the area still needs more work, remain focused on it for another 60 days.
-- never work on more than 3 at a time.
-- repeat the process until the daily become your second to nature.
+- pick two strength areas and one weakness and work on them for 60 days, then re-evaluate and move on to something new if you have made significant progress.
+- if the area still needs more work, remain focused for another 60 days.
+- never work on more than three at a time.
+- repeat the process until the daily becomes second nature.
 - **make your day a masterpiece**
 
-## Attitude: Choose and display the right attitudes daily.
+## Attitude: Choose and display the right attitude daily.
 
-- Your Attitude at the beginning of a task affects its outcome more than anything else. When you approach a task—especially an important one you don’t relish—fix your mind on the facts, not on your feelings. Focus on the possibilities, not the problems. That will put your attitude on the right track. And if it starts on the right track, it’s more likely to end up at the right destination.
+- Your Attitude at the beginning of a task affects its outcome more than anything else. When you approach a task—especially an important one you don’t relish—fix your mind on the facts, not your feelings. Focus on the possibilities, not the problems. That will put your attitude on the right track. And if it starts on the right track, it will likely end up at the right destination.
 
 - Your Attitude towards others often determines their attitude toward you.
 
@@ -225,23 +227,24 @@ tags: ["selfimprovement", "investing"]
   - do they walk away feeling better or worse?
   - do you clear the air, giving them a fresh perspective and positive encouragement, or do they go away feeling gloomy
 
-- Your attitude affects how you start and finish your work. Attitude itself is contagious so check to see how others respond to you. If you want a better day, you need to change your attitude. Focus on the possibility instead of the problem. Take responsibility for your attitude, change the bad areas of your attitude and think and talk like the person you want to become. Once you've made a decision to have a positive attitude, it will not take care of itself. You need to attend to it daily by following these disciplines:
+- Your attitude affects how you start and finish your work. The attitude is contagious, so check to see how others respond to you. If you want a better day, you need to change your attitude. Focus on the possibility instead of the problem. Take responsibility for your attitude, change the bad areas of your attitude and think and talk like the person you want to become. Once you've decided to have a positive attitude, it will not take care of itself. You need to attend to it daily by following these disciplines:
   - begin each day with an attitude check and watch for red flags
   - Recognize that your attitude needs adjustment.
-  - Find something positive in everything, even in the midst of difficult situations
-  - Eliminate negative words in your vocabulary by saying "I can, I will, I will make time, absolutely."
+  - Find something positive in everything, even amid difficult situations
+  - Eliminate negative words in your vocabulary by saying, "I can, I will, I will make time."
   - express gratitude to others daily.
   - Find positive people.
+
 
 ## Priorities: Determine and act on important priorities daily.
 
 - **EVALUATE PRIORITIES DAILY**
 
-- Priorities don’t stay put; you have to revisit them every day. Why? Because conditions continually change. So do methods of getting things done. Your values, once defined, are going to be steady. You will be able to rely on them. But how you carry them out needs to be flexible.
+- Priorities don’t stay put; you must revisit them daily. Why? Because conditions continually change. So do methods of getting things done. Your values, once defined, are going to be steady. You will be able to rely on them. But how you carry them out needs to be flexible.
 
-- According to a survey taken by Day-Timers, Inc., only one-third of American workers plan their daily schedules. And only 9 percent follow through and complete what they planned.6 If you want to be effective, you must be able to make the transition to planning.
+- According to a survey by Day-Timers, Inc., only one-third of American workers plan their daily schedules. And only 9 percent follow through and complete what they planned.6 If you want to be effective, you must be able to transition to planning.
 
-- What if you only had 6 months left to live? What would you do? Priorities is about focus and concentration. It is recognizing that time is our most precious commodity, not money. Eliminate the non-essentials. Ask for feedback, take personality tests and evaluate your personal experiences. Think of the Pareto Principle by focusing on the 20% to get an 80% return in life. priorities help you to eliminate the nonessentials in life, to leave things undone. Ask yourself:
+- What if you only had six months left to live? What would you do? Priorities are about focus and concentration. It recognizes that time is our most precious commodity, not money. Eliminate the non-essentials. Ask for feedback, take personality tests and evaluate your personal experiences. Think of the Pareto Principle by focusing on the 20% to get an 80% return in life. Priorities help you eliminate the nonessentials in life and leave things undone. Ask yourself:
   - 1) What is required of me?
   - 2) What gives me the greatest return?
   - 3) What gives me the greatest reward?
@@ -251,30 +254,30 @@ tags: ["selfimprovement", "investing"]
   - 2) Plan your time carefully.
   - 3) Follow your plan.
   - 4) Delegate whenever possible.
-  - 5) Spend/invest your time wisely with right people daily.
+  - 5) Spend/invest your time wisely with the right people daily.
 
 ## Health: Know and follow healthy guidelines daily.
 
 - your health impacts you emotionally, spiritually and intellectually.
 
-- **If you make decisions that are bad for your health, it will affect other areas of your life**. Young people tend to spend their health for wealth. Get enough exercise and eat well. **To take take care of your health, you need to**:
+- **If you make bad decisions for your health, it will affect other areas of your life**. Young people tend to spend their health on wealth. Get enough exercise and eat well. **To take care of your health, you need to**:
   - 1) Have a purpose worth living for.
-  - 2) Do work you enjoy. so it won't wear you off.
+  - 2) Do work you enjoy. So it won't wear you off.
   - 3) Find your own pace.
-    - if you take a life more slowly than your energy level is capable of, you can become lazy
-    - if you continually run at a pace faster than you are capable, you can burn out.
-  - 4) Accept your personal worth. Eat right and exercise.
+    - if you take life more slowly than your energy level is capable of, you can become lazy
+    - if you continually run at a pace faster than you are capable of, you can burn out.
+  - 4) Accept your worth. Eat right and exercise.
   - 5) Laugh. It helps handle stress.
 
 ## Family: Communicate with and care for my family daily.
 
-- family life has profound impacts on how you live, it molds your character and the character or your family members, since your family is the primary environment, it influences the choices to make and the habits you cultivate everyday.
+- family life has a profound impact on how you live; it moulds your character and the character of your family members; since your family is the primary environment, it influences the choices to make and the habits you cultivate every day.
 
 - while you can't do much about your ancestors, you can influence your descendants greatly.
 
 - When you have a strong family life, you receive the message that you are loved, cared for, and important. The positive intake of love, affection and respect... gives you inner resources to deal with life more successfully.
 
-- Family is safe-haven in storm. Family can be a source of stability and strength. But we often don’t give them enough of our time. **You can choose how long and how to spend time with them**. Put your family on your calendar first and don’t let them have the left overs in your schedule. Rewrite your own definition of success which is to be close and care for your family. Make them part of your non-negotiables in your schedule.
+- Family is a haven in a storm. Family can be a source of stability and strength. But we often don’t give them enough of our time. **You can choose how long and how to spend time with them**. Put your family on your calendar first, and don’t let them have the leftovers in your schedule. Rewrite your definition of success: to be close and care for your family. Make them part of your non-negotiables in your schedule.
   - create and maintain family traditions
   - find ways to spend time together
   - express appreciation for each other
