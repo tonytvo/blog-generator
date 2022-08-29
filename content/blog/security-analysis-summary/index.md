@@ -682,6 +682,30 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 - *common stock representing the entire business cannot be less safe than a bond having a claim to only a part thereof*
   - the argument was that the company would have to pay coupon payments to the bond holders, while the dividend payments were unsecure. Here, Wall Street confuses the temporary consistency of income with the principle of safety. Dividends paid out to stockholders would not make the stock any safer. What is happening is that the stockholders turn over their own property. A rational stock owner would not surrender complete ownership for a limited claim and 5-6% returns on the investment.
 
+### balance sheet analysis conclusions
+
+  - common purpose of balance sheet analysis is not to find bargain investments, but to detect financial weaknesses.
+  - **working-capital position and debt maturities**
+    - **basic rules concerning working capital:** for the working-capital ratio, a minimum of $2 of current assets for $1 current liabilities was formerly as a standard for industrial companies.
+      - the second measure of financial strength is the "acid test", which requires that current assets - exclusive of inventories - should be at least equal to the current liabilities. Failing these tests would make the security speculative and higher risk.
+      - Archer-Daniels-Midland company is an exception to the rule. Even though it failed the acid test, this was not a call for concern. While payables increased (lowering both the working-capital ratio and the acid ratio, as inventory increased), it represented normal seasoned practice in the industry.
+    - **large bank debt frequently a sign of weaknesses**
+      - it is rare that weak financial positions are created only by accounts payable. Weak financial positions are almost always characterized by the presence of bank loans or other debts due within a short timeframe.
+    - **the danger of early maturing funded debt**: when a large bond issue is due in the near future, it can create serious financial problems, especially when operating results are unfavorable. Maturing funded debt is a frequent cause of insolvency, and can be identified from the balance sheet.
+  - **comparison of balance-sheets over a period of time**
+    - as a check-up on the reported earnings per share.
+    - to determine the effect of losses (or profits) on the company's financial position
+    - to trace the relationship between the company's resources and its earning power over a long period.
+    - **checking the effect of losses or profit on the company's financial position**
+      - *taking losses on inventories may strengthen financial position*: some losses are represented solely by a decline in the inventory account (which might only be worth 50-75%) of the carrying value)
+      - in fact, if the shrinkage in the inventory exceeds the losses, leading to an actual increase in cash or reduction in payables, it may then be proper to say that the company's financial position has been strengthened, even though it has been suffering losses.
+      - on the basis of liquidation value, the investor in Manhattan Shirt company would actually have increased the value during the depression as a result of the company turning assets into cash.
+      - *profits from inventory inflation*: in the event of high inflation, in terms of accounting, the inventory will increase in value.
+        - U.S. Rubber is an example of an increase in earnings, partly made from heavy expenditures on a plant and a dangerous expansion in inventory from 1919-1920, with high inflation. The investor, only looking at the increased reported earnings, would not have found this.
+    - **long-range study of earning power and resources**
+      - *the significance of foregoing figures*
+        - for United states steel corporation, the effect of WWI is very clear, and has added a big sum to the earnings. The rate of earnings of hte investing capital has, however, declined in the last decade.
+        - this raises the question of whether the end of the war turned the industry into a relatively unprofitable business, from a previously relatively prosperous one. It also raise the question whether it as due to the high reinvestment, which led to overcapacity and consequently lower return.
 
 ## discrepancies between price and value
 
