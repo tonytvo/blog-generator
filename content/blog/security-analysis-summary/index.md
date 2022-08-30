@@ -738,6 +738,16 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - as warrants give rights to buy stock at a given price level, when that pirce level is reached, earnings will be diluted for the common stockholder because they still must account for the cost to acquire the warrant
   - the original issue of common stock carrying warrants to buy additional stock does not give stockholders anything more than they would have without the warrant. Further, it violates an obvious rule of sound corporate financing. A properly managed business sells additional stock only when new capital is needed.
 
+- **cost of management: 3 items**
+  - buyers of stock at $34 per share were asked to pay for the management in 3 ways:
+    - the $3 difference between the price the investor paid and the price the company paid. While this money would go to the investment banker as an underwriter's fee, in reality that premium is paid in the belief that the management was worth the difference.
+    - The issue of the warrants had in effect taken value away from the common stockholder, of one-third of the appreciation.
+    - the salaries the officers were to receive plus additional taxes.
+    - the 3 items together may be said to absorb between 25 and 30% of the amount contributed by the public.
+- **position of investment banking firms in this connection**
+  - prior to the 1920's, the sale of stock to the public by reputable houses of issue was governed by 3 important principles:
+    - 
+
 ## discrepancies between price and value
 
 ## comparative analysis of companies in the same field
