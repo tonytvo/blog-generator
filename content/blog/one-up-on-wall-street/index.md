@@ -1,7 +1,7 @@
 ---
 title: one up on wall street by Peter Lynch summary
-date: "2022-07-25T22:12:03.284Z"
-description: "acquirer multiple by Tobias Carlisle summary"
+date: "2022-08-30T22:12:03.284Z"
+description: "one up on wall street by Peter Lynch summary"
 tags: ["valueinvesting", "investing"]
 ---
 
