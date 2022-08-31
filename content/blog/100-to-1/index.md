@@ -5,7 +5,92 @@ description: "100 to 1 by Thomas W. Phelps summary"
 tags: ["valueinvesting", "investing"]
 ---
 
-
+- Few ask too much from their investing – **have high goals for your returns**
+- **Fortunes are made by buying right and holding on**
+- 4 criteria for fast growing companies
+  - Small, sheer size militates against great growth
+  - Relatively unknown
+  - Unique product that would **do an essential job better, cheaper, and/or faster than before, or provide a new service with prospects of great and long-continued sales increases**
+  - It must have a strong, progressive, research-minded management
+- Take 13F direct investing list and make that universe – take the most appealing and do deep dives to truly understand
+- Except to learn from experience, one should never waste time looking back
+- **Stay with your investments as long as the companies are increasing their earnings**
+- **Who is talking often more important than what is being said** – never forget that people whose self-interest is diametrically opposed to your own are trying to persuade you to act every day. Try to identify people whose interests correspond with yours
+- **Timing not too important if find the right company**
+- Don’t have to buy small, murky stocks near the bottom to get a 100 bagger (IBM, Pfizer…)
+- Often more profitable to ignore the market and focus on stock selection
+- **Buy a good stock (earnings, good assets that people don’t think will earn) when nobody likes it**
+- **More important to be right than quick**
+- Buy right and hold on does not equal buy and forget – eternal vigilance
+- When any rule / formula substitutes thought, discard it
+- Must consider future size / revenues of potential 100 bagger
+  - 20% compounded over 50 years, a company must be 9,100 times as big at the end of the period as at the beginning
+  - Must evaluate the competitive status of the company not as it is today but as it will be six to eight years from now, when it is three or four times bigger
+- For new investments, must ask, “what are my chances of making 100 for one from here?”
+  - History is of no help, only correct assumptions about the future are relevant
+- **Ignore opinions but look at assumptions, nobody knows the future**
+- Can’t compare P/E or relative P/E between different sectors
+- The business of the stock market is to cash in on the future now
+- **Human nature one of the few constants in an ever changing world**
+- **Shooting where the rabbit was is one of the most common investing errors**
+- **The fact without the truth is false. Always connect**
+- Technical work only meant to supplement fundamental analysis – don’t rely on for when to trade
+- Relative multipliers measure expectations of a particular stock
+- **Do not let your memory trump your reason**
+- Ethical approach – never do business unless trust the other party. Is the company really improving people’s lives?
+  - Like attracts like, easy to “dress up a pig”
+  - Know-how is a competition reducer – the longer it takes to learn how to do what your company is doing, the fewer competitors will be around to do it for less. Diligence and integrity also vital
+  - Beware egonomics and an aging business getting comfortable / complacent
+- Buying power of a dollar is a measure of value, not a determinant
+- **Where to look for 100 baggers**
+  - Inventions which enable us to do things we have always wanted to do but could never do before (cars, airplane, TV, computer)
+  - New methods of new equipment for doing things we long have had to do but doing them easier, faster, or at less cost than before. Computers, earth moving machinery
+  - Processes or equipment to improve or maintain the quality of a service while reducing or eliminating the labor required to provide it (disposable syringes, frozen food, copiers  by Xerox)
+  - New and cheaper sources of energy such as oil replacing coal
+  - New methods of doing essential old jobs with less or no ecological damage
+  - Improved methods or equipment for recycling the materials, including water, required by civilized man instead of making mountains of waste and oceans of sewage
+  - New methods or equipment for delivering the morning newspapers…
+  - New methods or equipment for transporting people and goods on land without wheels
+- **4 categories with most 100 baggers**
+  - Advance primarily due to recovery from extremely depressed prices
+  - Advance primarily due to change in supply-demand ratio for a basic commodity
+  - Advance primarily due to great leverage in capital structure in long periods of expanding business and inflation
+  - Advance primarily due to the arithmetical result of reinvesting earnings at substantially higher than average rates of return on invested capital
+- In order to get a 100 bagger in 40 years means a CAGR of 12.2%
+- By the time the need / opportunity is clear it is already reflected in the price
+- None sold at a high P/E when right time to buy – got earnings and multiplier gains working for them
+- Sometimes worth selling to get into a better stock but after taxes, etc. it has to be much, much better
+- 5 reasons why going for 100  bagger not as risky as aiming for lower returns
+  - **Always a market for the best of anything – people will always pay up for quality**
+  - Buying for max long-term growth avoids the pitfall of underestimating other people
+  - Time is on your side with these great companies
+  - Anyone smart enough to make a better mouse trap will get noticed
+  - **Don’t buy a stock in hope that it will change, buy if you love it the way it is**
+- Good measure of success is calculating ratio of brokerage commission – net capital gain; both realized and unrealized
+- **Secret to success in 100 to 1 is to focus on earning power and  not price**
+- **Every sale should be seen as admitting an error, a missed opportunity**
+- **Time is an often overlooked element in value**
+- **Being right too soon just as painful as being wrong**
+- **Most important questions to answer when investing**
+  - How much will what I expect to happen increase the status quo value of the property I am thinking of buying?
+  - How long will this take?
+  - What is the present worth of the increase I expect?
+  - How much of the expected value increase is already in the price I shall have to pay?
+  - Is there enough difference between the value increase I expect and the expected increase I have to pay for now to give me a profit I am right and a margin for error if I am wrong
+- **Nothing is cheaper or dear, except in relation to what we get for our money**
+- **What makes a stock grow**
+  - Reinvesting earnings at a constant or rising rate of return on invested capital, above the average of around 9%
+  - Investing borrowed money to earn more than the cost of borrowing
+  - Acquiring other companies by exchange of stock at lower P/E ratios for companies acquired than for the company acquiring them
+  - Increasing sales without having to increase invested capital – companies operating far below capacity, new methods, increasing efficiency
+  - Discoveries of natural resources
+  - New inventions, processes, or formulas for filling human needs not previously met, doing essential old jobs better, faster and/or cheaper
+  - Contracts to operate facilities for others, usually governments
+  - Rising P/E Ratios
+- **Earnings power – competitive strength (like pricing power) and is what really matters**
+  - Two most important questions in buying great companies – how high and strong is the company’s moat; how good are the prospects for sales growth?
+- **P/E at time of purchase very important**
+- What mathematics cannot do, common sense often can
 
 # Quotes
 
