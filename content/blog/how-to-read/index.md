@@ -41,6 +41,7 @@ tags: ["productivity", "learning"]
   - skip, but do so intelligently
     - return to it later and ask yourself, "why did I skip this?" Did it offend you? Seem beneath you? Seem too difficult? And did you arrive at that by thinking it through, or is it a reflection of biases inherited from your parents and others? Very often, "our" beliefs are not our own
     - This practice is how you create yourself instead of discovering yourself.
+- **find your 100 favorites books and keep re-reading them**
 
 
 # Finding more time to read
