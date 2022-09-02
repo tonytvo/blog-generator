@@ -16,18 +16,38 @@ tags: ["investing", "valueinvesting"]
   - accrual accounting simply states that expenditures must be recorded when incurred and not when paid. Similarly, revenue must recorded when there is an outflow of services or goods, not when the payment is realized.
   - publicly traded companies are based on accrual accounting.
   - although accrual accounting might count funds that haven't actually been paid, it provides a clearer and realistic picture of the company's performance - especially for stock investors. A great way to account for any inconsistencies caused from accrual accounting is by thoroughly understanding the cash flow statement.
+
+# Income statement analysis
+- [income statement analysis](https://www.oldschoolvalue.com/stock-valuation/income-statement-analysis-walkthrough/)
+- [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
+- the income statement's sole purpose is to show a company's profitability over a given period of time.
+
 - **revenues from primary activities**
   - it's revenue received for the sale of company's primary product or service
 - **revenues from secondary activities**
   - such as interests from cash sitting in an interest-bearing savings account produce revenue
   - secondary activities are usually included in an income statement under the line titled net interest income. It is sometimes referred to as other income if it also includes other revenues not made from financial activities.
+
 - **gains**
   - such as gain (loss) on sale of assets
   - it's very important to understand that gains are not considered operating income. That is also why gains and losses are sometimes referred to as extraordinary income (expense)
-# Income statement analysis
-- [income statement analysis](https://www.oldschoolvalue.com/stock-valuation/income-statement-analysis-walkthrough/)
-- [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
-- the income statement's sole purpose is to show a company's profitability over a given period of time.
+
+- **expenses generated from primary activities** are only those expenses that occur from producing operating revenues. This is listed on the income statement as "Cost of Revenue"
+
+- **expenses generated from secondary activities**: if an expense is made by the business and it doesn't directly relate to the materials or labor used to make the primary product, it's considered an expense generated from secondary activities.
+  - such as sales and marketing expenses, research and development expenses, general and administrative expenses, other operating expenses.
+
+- **expenses from financial activities**
+  - it is disclosed as interest expenses, as they are not part of the daily business.
+
+- **losses**
+  - a loss doesn't relate directly to the primary activities of the company's product or service, nor is it a part of daily operations. It is extraordinary. Graham would caution his students to pay close attention to extraordinary items and try to assess their impact on a business, to mange and mitigate risk.
+  - a loss is also the result of a difference in the value an asset is listed for on the balance sheet and the proceeds received from the sale of that asset.
+
+- **revenue**
+  - this line is sometimes referred to as Sales or Turnover.
+  - revenue is simply the quantity of goods sold multiplied by the price of the product or service.
+  - As an informed investor, you might need more information regarding the generation of revenue - especially if the company has a deteriorating revenue stream. You could dig deeper into the 10K or 10Q, where you'll find a section titled Net Operating Revenues.
 
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
