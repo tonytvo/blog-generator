@@ -49,6 +49,23 @@ tags: ["investing", "valueinvesting"]
   - revenue is simply the quantity of goods sold multiplied by the price of the product or service.
   - As an informed investor, you might need more information regarding the generation of revenue - especially if the company has a deteriorating revenue stream. You could dig deeper into the 10K or 10Q, where you'll find a section titled Net Operating Revenues.
 
+- **cost of revenue**
+  - aka cost of sales, costs of goods sold and production costs
+  - It is the costs that are related to making the company's primary product or service.
+  - the emphasis is placed on the term direct costs; this is because these are costs that arise as a result of per unit sales rather than any other cost driver.
+  - an investor must have knowledge of the composition of the direct costs associated with the organization.
+  - the investor must pay close attention to the trends in the cost of revenue. If sales are constant and the cost of revenue continues to grow, a negative trend is developing.
+
+- **gross profit**
+  - aka margin or markup
+  - gross profit is simply the revenue generated from core products and services less the direct costs associated with the production of goods or delivery of service.
+  - gross profit in essence is a measure of the organization's efficiency - that is, the ability of the management to control its direct cost of revenue while simultaneously increasing sales.
+  - as an investor, you cannot compare the gross profit between 2 different industries. This often leads to misleading assumptions and doesn't provide relative framework to assess a company's performance.
+
+- **sales and marketing expense**
+  - sometimes it combined with Administration expenses and called SGA (selling, general and administration)
+  - advertisement is one of the greatest costs incurred by corporations today and is incorporated within the income statement. Moreover, you need to distribute your product to make it available to customers. This would lead to distribution costs, which would typically also included in the sales and marketing expense line.
+
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
