@@ -7,10 +7,27 @@ tags: ["investing", "valueinvesting"]
 
 # interpretation of financial statements
 - [interpretation of financial statements by Benjamin Graham and Warren Buffett](/interpretation-of-financial-statements/)
-
+- tracking how the money flows through a business is like watching a plumber determine where the leak is in a house. He starts at the source, where the water enters the main valve into the house (the net income), and he ends at the sink (the growing/decreasing equity and/or dividend). A well-managed profitable business will show a strong flow of cash through the plumbing of the accounts.
+- the accounting system is based on double entries. For every debit, there must be a credit.
+- **cash-based accounting**
+  - transaction is recorded only when cash is physically or digitally received into the bank account, not when the service or product is provided or received.
+  - this might be alright for "mom and pop"-style businesses, accounting laws do not allow for larger companies to conduct cash-based accounting. The reason for this is because it represents a low and delayed way of tracking revenues and expenses.
+- **accrual accounting**
+  - accrual accounting simply states that expenditures must be recorded when incurred and not when paid. Similarly, revenue must recorded when there is an outflow of services or goods, not when the payment is realized.
+  - publicly traded companies are based on accrual accounting.
+  - although accrual accounting might count funds that haven't actually been paid, it provides a clearer and realistic picture of the company's performance - especially for stock investors. A great way to account for any inconsistencies caused from accrual accounting is by thoroughly understanding the cash flow statement.
+- **revenues from primary activities**
+  - it's revenue received for the sale of company's primary product or service
+- **revenues from secondary activities**
+  - such as interests from cash sitting in an interest-bearing savings account produce revenue
+  - secondary activities are usually included in an income statement under the line titled net interest income. It is sometimes referred to as other income if it also includes other revenues not made from financial activities.
+- **gains**
+  - such as gain (loss) on sale of assets
+  - it's very important to understand that gains are not considered operating income. That is also why gains and losses are sometimes referred to as extraordinary income (expense)
 # Income statement analysis
 - [income statement analysis](https://www.oldschoolvalue.com/stock-valuation/income-statement-analysis-walkthrough/)
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
+- the income statement's sole purpose is to show a company's profitability over a given period of time.
 
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
