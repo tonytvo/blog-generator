@@ -1179,6 +1179,8 @@ The market ought to be irrelevant. If I could convince you of this one thing, I'
 
 The stock market is the one place where the high achiever is routinely show up. It’s easy to get an F here. If you buy futures and options and attempt to time the market, it’s easy to get all F’s…
 
+You'll never lose your job losing your client's money in an IBM
+
 # References
 - https://www.learninvest.ca/post/one-up-on-wall-street
 - https://sven-carlin-research-platform.teachable.com/courses/stock-market-investing/lectures/13222367
