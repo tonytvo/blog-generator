@@ -733,6 +733,8 @@ True investments keep the principal safe and deliver an acceptable return. Any p
   - *qualitative element*: since the value of a warrant will only materialize from an increase in earnings, the prospects of increased earnings would make the warrant more attractive than its stability, characterized as low-priced common stocks with speculative element.
   - *quantitative considerations: importance of low price*
     - Graham feels that an option warrant has speculative attractiveness only if it possesses all 3 desirable qualities: low price, long duration, and option price close to the market.
+  - substantial part of an enterprise's profits are distributed to operating managers, and that this is done without full disclosure. Stock option warrants have proven to be an excellent instrument for that purpose.
+
 
 - **dangerous device for diluting stock values.**
   - as warrants give rights to buy stock at a given price level, when that pirce level is reached, earnings will be diluted for the common stockholder because they still must account for the cost to acquire the warrant
@@ -744,9 +746,22 @@ True investments keep the principal safe and deliver an acceptable return. Any p
     - The issue of the warrants had in effect taken value away from the common stockholder, of one-third of the appreciation.
     - the salaries the officers were to receive plus additional taxes.
     - the 3 items together may be said to absorb between 25 and 30% of the amount contributed by the public.
-- **position of investment banking firms in this connection**
-  - prior to the 1920's, the sale of stock to the public by reputable houses of issue was governed by 3 important principles:
-    - 
+
+## corporate pyramiding
+
+- pyramiding in corporate finance is the creation of a speculative capital structure by means of a holding company or a series of holding companies. By such a construction, the organizers can control a large business with only little or no capital. Often the intention is to "cash in" speculative profits, and at the same time retain control.
+
+- **evils of corporate pyramiding**
+  - it results in the creation and sale to investors of large amounts of unsound senior securities
+  - the common stock of the governing holding companies is subject to deceptively rapid increases in earning power during favorable years, which can lead to disastrous public speculation.
+  - the position of control of someone who owns only little or no capital is bound to lead to irresponsible and unsound management
+  - it allows for deceiving accounting techniques in terms of indicated earnings, dividend return, and book value. This will again lead to speculation.
+
+- *overstatement of earnings:* holding companies can overstate their earnings power by valuing, at an artificially high prices, the stock dividends they receive from subsidiaries. Earning power can also be overstated using profits made from the sale of stock of subsidiary companies
+- *distortion of dividend return*: stock dividends can be paid out with a market value exceeding current earnings.
+- *exaggeration of book value*. The exaggeration of book value may occur in cases where a holding company owns most of the shares of subsidiary consequently making it possible to manipulate the small amount of stock remaining in the market.
+- **some holding companies not guilty of excessive pyramiding**
+  - legitimate reasons for their creation include: to permit unified and economical operations of separate units, to diversify investment and risk, and to gain certain technical advantages of flexibility and convenience. Any holding company should always be considered on its merits.
 
 ## discrepancies between price and value
 
