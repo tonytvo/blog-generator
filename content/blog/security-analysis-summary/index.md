@@ -765,7 +765,91 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ## discrepancies between price and value
 
+- **general procedure of the analyst**
+  - first method is to conduct a series of comparative analyses of industrial groups along the lines described in the previous chapter. Such studies will give a fair idea of the standard of usual characteristics of that industry.
+  - the second general method consists of scrutinizing corporate reports. A quick glance over hundreds of such reports may reveal between five and 10 that look interesting enough from the earnings or current asset standpoint.
+
+- **can cyclical swings of prices be exploited**
+  - one can setup criteria to give an objective opinion of the price level of the stock market, then trade accordingly. While Graham argues the practicality of such a procedure is low, and under the Great Depression would have made heavy demands upon human fortitude, he still finds the idea appealing. The reason is by looking into such a procedure, one is more likely to buy at attractive intrinsic value levels.
+
+- **opportunities in "secondary" or little-known issues**
+  - *the impermanence of leadership*: the composition of the market leader group varies greatly from year to year, especially in view of the recent shift of attention from past performance to assumed prospects.
+  - *opportunities in normal markets* during a period when the market in general shows no definite signs of being too low or too high, stocks can still be found cheap on a statistical basis. These stocks generally fall into 2 classes:
+    - those showing high current and average earnings in relation to market price
+    - those making a reasonably satisfactory exhibit of earnings and selling at a low price in relation to net-current asset value. These companies will most often not be large and well known.
+    - the main drawback of a small company is its vulnerability for loss of earning power. Larger companies will be less prone to this. The counter argument is that successful smaller companies can multiply in size more impressively than those already on enormous size.
+
+- **market behavior of standard and nonstandard issues**
+  - standard or leading issues almost always respond rapidly to changes in their reported profits - they tend to exaggerate the significance of year-to-year fluctuations in earnings
+  - the action of less familiar issues depends largely upon the attitude of the professional market operators towards them. If there is interest in the issue, legitimate as well as speculative, the price will respond in an extreme fashion.
+  - *relationship of the analyst to such situations* when the general market appears dangerously overvalued to the analyst, he must exercise caution when it comes to unfamiliar common stocks. The same applies when stocks appear to be bargains. A severe decline in the general market will affect all stock prices adversely, and the less familiar issues may prove especially vulnerable.
+
+- **market exaggerations ue to factors other than changes in earnings**
+  - *dividend changes* while there is no doubt that a dividend increase is a favorable development, a large increase in stock prices based solely on this is absurd.
+  - *mergers and segregations*: studies into whether mergers and acquisitions aid in increasing earning power have in general indicated that no such effect can be found. Instead, there is reason to believe that the personal element in corporate management often stands in the way of advantageous consolidations. In light of this fact, it is surprising that the stock market tends to react so positively to mergers and acquisitions in the short run.
+  - *litigation:* a lawsuit of any significance is highly disliked by the stock market, often to an extent that is out of proportion to the impact of the case in question. Developments of this kind may offer real opportunities to the analyst
+
+- **price-value discrepancies in receivership**: Graham argues that the analyst can invest in securities after such difficulties have arisen, because senior securities have been found to sell at too low prices. Cases of reorganization, and other situations where liquidation or sale to outside interest, ultimately result in a cash distributions that can produce attractive analytical opportunities
+
+- **price patterns produced by insolvency** certain price patterns tend to occur, especially if the receivership tends to take a long time. First, there is a tendency for the stock issue to sell too high, not only toward the bond issue, but also to their estimated value. For bond issues, the price typically declines over time, reaching the lowest point just before a reorganization plan is ready to be announced.
+
+- **opportunities in railroad trusteeships**: in the years following 1932 and the following year, a large part of the country's railroad mileage fell into the hands of the trustee. This provided the shrewd investors with interesting opportunities as it put pressure on the price levels of securities.
+
+- **vulnerability of unseasoned issues**
+  - if the earnings power is maintained, the unseasoned issue would also maintain the price, but even slight dissatisfactory development will lead to severe price decline.
+  - *unseasoned industrial issues rarely deserve an investment rating*: unseasoned industrial issues should only be bought on an admittedly speculative basis. This requires in turn that the market price be low enough to permit a substantial rise, typically below 70.
+- **discrepancies in comparative prices**: it is easier to determine whether issue A is better than issue B, than to determine whether issue A in its own right is a good investment.
+  - Graham gives 2 recommendations for selecting an issue to purchase (1) the issue to be bought is attractive in its own right or (2) there is a definite contractual relationship between the 2 issues in question
+  - for the first recommendation, a qualitative analysis must also be carried out, to evaluate the future earning power.
+- **discrepancies due to special supply and demand factors** this can be due to special and temporary factors. As an example, Graham mentiosn a high-grade railroad issue that became priced relatively differently due to a heavy volume sale of another series
+- **united states savings bonds offer similar opportunity** the disparity between US Government and corporate obligations has reappeared in recent years. In addition to their safety factor, there are also tax advantages, as well as the opportunity to liquidate in the market any any time, with no intermediate loss in the market, due to the spread.
+
 ## comparative analysis of companies in the same field
+
+- one fact that the analyst should be aware of when conducting his analysis is whether or not he is looking at a homogenous industry. Homogenous companies respond similarly to a change in business conditions. In this case, an industry comparison is considered more dependable.
+
+- it should be remembered, however, that a preferred stock is always less attractive, logically considered, than a common stock making the same showing.
+
+- most recent numbers would require more attention, and secondly, teh analyst should aim to learn as much as possible about the underlying reasons for the difference in performance.
+
+- as a general rule, the less homogeneous the industry, the more attention needs to be paid to the qualitative factors when making comparisons.
+
+- the analyst must consider qualitative factors and perhaps also allow for the lack of homogeneity. The technique of comparative analysis may facilitate his task, but he must still expect to be wrong from time to time. Still, with intelligence and prudence, he should yield better results than the guesses of typical stock buyer.
+
+- **observations on the railroad comparison**
+  - whether the average period should be seven years, shorter, or longer is an individual choice. In theory, it should be long enough to cover all cyclical fluctuations, but not so long that it includes data that are totally out of date.
+  - numbers to compare/look for:
+    - **capitalization**: fixed charges, effective debt (fixed charges multiplied by 22), preferred stock at market (number of shares x market price), common stock at market, total capitalization, ratio of effective debt to total capitalization, ratio of preferred stock to total capitalization, ratio of common stock to total capitalization
+    - **income account**: gross revenues, ratio of maintenance to gross, ratio of railway operating income (net after taxes) to gross, ratio of fixed charges to gross, ratio of balance for common to gross
+    - **calculations**: number of times fixed charges earned, I.P. number of times fixed charges plus preferred dividends earned, earned on common stock per share, earned on common stock % of market price, ratio of gross to aggregate market value of common stock, earned on preferred stock, per share, earned on preferred stock, % of market price, ratio of gross to aggregate market value of preferred stock, credit or debit to earnings for undistributed profit or loss of subsidiaries
+    - **seven-year average figures**
+      - earned on common stock per share, earned on common stock, % of current market price of common, earned on preferred stock per share, earned on preferred stock, % of current market price of preferred, number of times net deductions earned, number of times fixed charges earned, number of times net deductions plus preferred dividends earned, number of times fixed charges plus preferred dividends earned
+    - **dividends**
+      - dividend rate, yield on common and preferred
+    - **trend figure**
+      - earned per share on common stock each year for the past seven years. (Where necessary, earnings should be adjusted to present capitalization)
+
+ - **public utility comparison**
+   - variations in depreciation rates are equally as important as variations in the railroad maintenance ratios.
+
+ - **industrial comparison**
+   - net earnings must be corrected for any known distortion or omission. This includes undistributed earnings and losses of subsidiaries. Depreciation rates should only serve to locate vast discrepancies, and not be used for exact comparisons.
+   - **capitalization**: bonds at par, preferred stock at market value (number of shares x market price), common stock at market value, total capitalization, ratio of bonds to capitalization, ratio of aggregate market value of preferred to capitalization, ratio of aggrgate market value of common to capitalization.
+   - **income account**
+     - gross sales, depreciation, net available for bond interest, bond interest, preferred dividend requirements, balance for common, margin of profit (ratio of 10 to 8), % earned on total capitalization (ratio of 10 to 4)
+   - **calculations**
+     - number of times interest charges earned, I.P. number of times interest charges plus preferred dividends earned, earned on common, per share, earned on common % of market price, S.P. earned on preferred, per share, S.P. earned on preferred, % of market price, ratio of gross to aggregate market value of common, S.P. ratio of gross to aggregate market value of preferred.
+   - **seven year average**
+     - number of times interest charges earned, earned on common stock per share, earned on common stock, % of current market price.
+   - **trend figure**
+     - earned per share of common stock each year for past seven years (adjustments in number of shares outstanding to be made where necessary)
+     - dividend rate/dividend yield on common, preferred
+   - **balance sheet**
+     - cash assets, receivables (less reserves), inventories (less proper reserves), total current assets, total current liabilities, notes payable (including "bank loans" and bills payable"), net current assets, ratio of current assets to current liabilities, ratio of inventory to sales, ratio or receivables to sales, net tangible assets available for total capitalization, cash asset value of common per share (deducting all prior obligations), net current asset value of common per share (deducting all prior obligations), net tangible asset value of common per share (deducting all prior obligations)
+   - **supplementary data**
+     - physical output, number of units, receipts per unit, cost per unit, profit per unit, total capitalization per unit, common stock valuation per unit
+     - miscellaneous: for example, number of stores operated; sales per store, profit per store, ore reserves, life of mine at current (or average) rate of production.
+
 
 ## market analysis and security analysis
 
