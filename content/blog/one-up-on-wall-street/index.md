@@ -98,12 +98,13 @@ took a mistake that cost nothing and turned it into a mistake that cost plenty.
 investigation, but often they’re used to fortify snap judgments and wholesale taboos.
 - Unwritten rule: you’ll never lose your job, losing client money on IBM. Clients & bosses will ask what’s wrong with IBM? But if an investment in a small unknown company goes bad, they’ll ask, what’s wrong with you?
 - Discounting = Euphemism for pretending to have anticipated surprising results.
-- Getting the Most out of a Broker
+- A stock does not know that you own it
+
+## GETTING THE FACTS
+
+- ***Getting the Most out of a Broker***
   - You’re probably paying much higher commissions if you use a full service  broker. Make them sweat for their money if you use their services.
-  - If you use the broker as an advisor, then make him do the 2 minute dril
-
-
-## SCUTTLEBUTT
+  - If you use the broker as an advisor, then make him do the 2 minute drill, category of stock, recent growth in earnings, p/e ratio relative to historic levels, expansion plans, debt situation, insider buy, buying back share, etc...
 
 - ***Calling the Company***
   - Amateurs never call; professionals do so all the time. For specific questions, investor relations is a good source. In small companies, you may reach high placed executives when you call.
@@ -125,6 +126,12 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
   - Bad signs include fine antiques expensive furnishings, furniture, etc. 
   - Can also meet front office employees and investor relation representatives informally at annual meetings.
   - Calculate the net worth of company representatives based on shares held. If you can’t imagine how a representative got so rich, and could get richer if stock rises, chances are you may be right and share may truly be overpriced. Does that person ‘deserve’ to be so rich?
+
+- ***Balance Sheet:***
+  - Check cash and marketable securities in the current assets section. If together it exceeds long-term debt in the long-term liability section, it’s very favorable. No matter what happens, the company isn’t about to go out of business.  
+  - Assume other current assets including a/c receivable, inventories and other current assets are valuable enough to cover short term debt. 
+  - If long-term debt exceeds cash, the cash has been shrinking and debt has been growing, the company is in weak financial shape. 
+  - “Debt reduction is another sign of prosperity. When cash increases relative to debt, it’s an improving balance sheet. When it’s the other way around, it’s a deteriorating balance sheet.”
 
 - As a personal rule, once a month, Lynch held at least 1 personal conversation with a representative of each major industry group just in case business was starting to turnaround or there were new developments overlooked by Wall Street. This was an effective early warning system and in 2/10 cases he’d discover something important.
 
@@ -163,6 +170,12 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
   - Can also add 2 index funds, 1 each for S&P 500 (covers quality growth) and Russell 2000 (covers emerging growth).
   - Divide money equally between funds and also deploy new money equally. The sophisticated way to do it is to adjust the weight of the funds, putting Only the new money into sectors that’ve lagged When any fund does poorly, the natural temptation is to switch to a better fund. People, who switch, tend to lose patience at precisely the wrong time, jumping from a value fund to a growth fund, just as value is starting to wax and growth is starting to wane. 
   - In fact, when a value fund does better than its rivals in a bad year for value style, it’s not necessarily a cause for celebration. It maybe so, that the manager has used other styles to outperform in the short term, but such benefits will be fleeting. When value returns, he won’t be fully invested in it.
+  - stocks in general checklist
+    - The p/e ratio compare to similar companies within the same industry 
+    - Percentage of institutional ownership. The lower the better
+    - Insider buying & whether the company itself is buying back shares. Both are positive.
+    - Record of earnings growth and whether the earnings are sporadic or consistent. 
+    - Strong balance sheet or weak. Debt-to-equity ratio and cash position 
   - Picking a Winner
     - Don’t spend a lot of time over a fund’s past performance. Not to say you shouldn’t pick a fund with a good long term record, but it’s better to stick with a steady and consistent performer, vs, a fund whose performance moves in and out of best / worst performing lists. 
     - Check bear market performance. Some funds lose more, but regain more on rebound; some lose less & gain less; while some lose more & gain less. Avoid the third group.
@@ -171,7 +184,7 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
   - Convertible Funds: underrated way to enjoy the best of both worlds – high performance of secondary and small cap stocks + stability of bonds. Customarily, the conversion price is 20-25% higher than the market price. Investors are better off investing via funds, rather than directly. Buy convertible funds when the spread between convertible and corporate bonds is narrow (1.5-2%), and sell when it widens.
   - Closed End Funds: trade on exchanges, ∴ fluctuate like stocks – selling at a discount / premium to NAV. Look for opportunities during market sell offs. 
   - Country Funds: to succeed, you’ve to have patience and a contrarian bent. They arouse a desire for instant gratification. The best time to buy a closed end country fund is when it’s unpopular and trading at a 20-25% discount to NAV. Drawbacks include, a) higher fees and expenses, b) not just companies, currency must remain strong as well, and, c) government mustn’t ruin the party with extra taxes or regulations that hurt business. Check, a) whether the fund manager has worked there, knows people in companies and can follow their stories?, b) is information disclosure proper, or sketchy and misleading?
-- How Many Stocks Is Too Many? 
+- ***How Many Stocks Is Too Many?*** 
   - Best to own as many stocks as there are situations in which: 
     - You have an edge, and, 
     - You’ve uncovered an exciting prospect that passes all your tests.
@@ -190,7 +203,8 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
 
 - ***Favourable Company Attributes***
   - i) Sounds Dull, or Ridiculous – simple business with a boring name. More boring, the better. No analyst’s recommend such names.
-  - ii) Does Something Dull – boring name + boring business = keeps Wall street away. iii) Does Something Disagreeable – better than boring = boring + disagreeable. Makes people shrug/retch in disgust. 
+  - ii) Does Something Dull – boring name + boring business = keeps Wall street away. 
+  - iii) Does Something Disagreeable – better than boring = boring + disagreeable. Makes people shrug/retch in disgust. 
   - iv) It’s a Spinoff – have strong balance sheets and well prepared to succeed. 
     - Spinoffs are misunderstood and get little attention. 
     - New management can cut costs and take creative measures to improve earnings. Look for insider buying after 1-2 months.
@@ -209,11 +223,12 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
     - In general, insiders are net sellers. Insider selling ≠ automatic sign of trouble, and it’s silly to react to it. 
     - Many reasons for selling, but only 1 for buying – believe the stock is undervalued If price drops after insider buying, so much the better. 
   - xiii) Share Buy-backs – alternative uses for cash include: a) Dividend raise, b) new product development, c) start of new operations, and, d) M&A.
+  - xiv) The best place to start looking for the tenbagger is close to your home. You just need to keep your eyes and mind open. You come across many different companies at shopping malls, workplace, medical tests office, etc. You didn’t have to work at Kodak to know that the new generation of inexpensive, easy to use, high quality cameras will turn the photo industry around. Maybe you work at school and come across a company that is automating the attendance system at school and thus will save hundreds of teachers’ hours. That company is worth researching.
 
 - ***Stocks to Avoid***
   - i) Hot Stuff – Avoid the hottest stock in the hottest industry. If you aren’t clever at selling, you’ll soon see your profits turn to losses. High growth and hot industries attract smart competitors. 
   - ii) Next Something – when people tout a stock as the next IBM, it often marks the end of prosperity not only for the imitator, but also for the original. 
-  - iii) Diworseifications – instead of buybacks / dividends, a dedicated diworseifier seeks purchases that are a) overpriced, b) beyond the realm of understanding. 
+  - iii) Diworsifications – instead of buybacks / dividends, a dedicated diworsifier seeks purchases that are a) overpriced, b) beyond the realm of understanding. 
     - Every second decade, companies switch between diworseification and restructuring 
     - 1960’s was the greatest decade for diworseification, which ended in the crash of 1973/74 
     - Synergy (2+2=5): theory of putting together related businesses and making the whole thing work, which doesn’t always happen. A vigorous buyback is the purest synergy of all. 
@@ -223,6 +238,10 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
     - If prospects are so phenomenal, then it will be a fine investment next year as well. Wait till the company has established a record.
   - v) Beware the Middleman – company sells large % of sales (20-50%) to a single customer. Short of order cancellation, that customer has enormous leverage in getting cuts and concessions that reduce profits. 
   - vi) Beware the Stock with an Exciting Name – flashy name of a mediocre company attracts investors and gives them a false sense of security.
+
+- If you can’t predict future earnings, at least you can find out how a company plans to increase its earnings. Then you can check periodically to see if the plans are working out.
+
+- There are five basic ways a company can increase earnings: reduce cost; raise prices, expand into new markets; sell more of its products in the old markets or to old/existing customers; or revitalize, close, or otherwise dispose of a losing operation. 
 
 - With every company, there is something to worry about, but the question is, which worries are valid and which are not? There’s no such thing as a worry-free investment. The trick is to separate the valid worries from the idle worries, and then check the worries against the facts. The very existence of doubt creates the conditions for a big gain in the stock once the fears are put to rest.
 - The trick is to put your fears to rest by doing the research & checking facts – before the competition does. The stocks Lynch bought are the very stocks that others overlooked. The stock market demands convictions, as surely as it victimizes the unconvinced.
@@ -241,7 +260,34 @@ than one that can thrive in boom times, but is untested for bad times.
 of his earliest picks – when people wouldn’t look at a small restaurant company. If you look at 10 companies, you’ll find 1 that’s interesting, if you look at 20, you’ll find 2, or 10 in a 100. The person that turns over the most rocks wins the game – that was always Lynch’s philosophy. 
 - Rather than being on the defensive, buying stocks, and then thinking of new excuses for holding onto them (Wall Street style), Lynch stayed on the offensive, searching for better opportunities that were more undervalued than the ones already in the portfolio.
 - Rejecting a stock because the price has become 2-3-4x in the recent past can be a big mistake. Whether a million investors lost or made money on a stock has no bearing on what the future holds. Treat each potential investment as if it’d no history – the ‘be here now’ approach. Whatever occurred earlier is irrelevant. The important thing is whether the stock is cheap/expensive today, vs it’s earnings potential.
-- How to Rate a Savings & Loan (S&L) Company 
+
+- Look for small companies that are already profitable and have proven that their concept can be replicated. 
+
+- Be suspicious of companies with growth rates of 50 to 100 percent a year. 
+
+- Distrust diversifications, which usually turn out to be diworseifications. 
+
+- Long shots almost never pay off. 
+
+- It’s better to miss the first move in a stock and wait to see if a company’s plans are working out. 
+
+- People get incredibly valuable fundamental information from their jobs that may not reach the professionals for months or even years. 
+
+- Separate all stock tips from the tipper, even if the tipper is very smart, very rich, and his or her last tip went up. 
+
+- Some stock tips, especially from an expert in the field, may turn out to be quite valuable. However, people in the paper industry normally give out tips on drug stocks, and people in the health care field never run out of tips on the coming takeovers in the paper industry. 
+
+- Moderately fast growers (20 to 25 percent) in nongrowth industries are ideal investments. 
+
+- When purchasing depressed stocks in troubled companies, seek out the ones with the superior financial positions and avoid the ones with loads of bank debt. 
+
+- Companies that have no debt can’t go bankrupt. 
+
+- Devote at least an hour a week to investment research. Adding up your dividends and figuring out your gains and losses doesn’t count. 
+
+- When in doubt, tune in later. 
+
+- ***How to Rate a Savings & Loan (S&L) Company ***
   - Equity / Assets – measures financial strength and survivability. Higher the better. <5x = Danger, 5.5-6x = Average, > 7.5x = Preferred. 
   - Book Value – if high risk lending has been avoided, then assets and book value may accurately reflect net worth. Look for P/B < 1x.
   - PE – lower the better. If PE = 7x, and growth = 15%, that’s very promising, especially when S&P 500 PE = 23x. 
@@ -283,8 +329,11 @@ of his earliest picks – when people wouldn’t look at a small restaurant comp
   - Unlike stocks, houses are likely to be held by the same person for many years, vs a high churn rate in stocks.
   - You never get scared out of your house just because of price falls.
   - People spend months choosing a house, asking the right questions, but pick stocks in a few minutes.
+- 
 - **Do I Need the Money?**
   - Set aside cash for 2-3 years, as per your family budget.
+  - the money you want to invest in stocks should be truly surplus. For instance, if you're going to have to pay for a child's college education in 2 or 3 years, don't put that money into stocks.
+- 
 - **Do I Have the Personal Qualities?**
   - Patience
   - Self reliance
@@ -380,11 +429,12 @@ companies have big moves
   - Utility can’t beat Stalwart, if it’s not a Turnaround. No point in trading a Fast Grower as a Stalwart and selling for a 50% gain, vs, possible 10x.
 
 - Assuming you’ve taken the first step of doing proper research, spreading money among several categories is another way to minimize downside risk.
+- companies don't stay in the the same category forever. High growth companies cannot maintain the double digit growth forever. Fast growing companies will become stalwarts and slow growers and may go so far down that they become a turnaround candidate.
 
 ## 1) SLOW GROWERS
 
 - ***Traits***
-  - Usually large and aging companies, whose Growth rate = GNP Growth rate
+  - Usually large and aging companies, whose Growth rate = GNP (gross national product) Growth rate
   - When industries slow down, most companies lose momentum as well
   - Easy to spot using stock charts
   - Pay large and regular dividends
@@ -433,6 +483,7 @@ suspended dividend, & has in fact raised it during good and bad times, including
 
 - ***Traits***
   - Local edge is useful, since Wall Street ignores/overlooks valuable assets.
+  - business with assets whether it's cash, investments, properties, machines, etc...that is worth more than the price you will pay for the stocks.
 
 - ***Examples***
   - Railroads, TV stations, minerals, oil & gas, timber, newspapers, real estate, depreciation on assets that appreciate over time, patents, cash, subsidiary valuations, foreign owner priced cheaper than local subsidiary, tax loss carry forwards, goodwill amortization, brands, holding company / conglomerate discount, depreciated assets that don’t need maintenance capex but still produce FCF (rental equipment EPS = 0, but FCF =3)
@@ -461,8 +512,8 @@ are buying and the company has steady earnings. There is no debt to speak of.
   - If company isn’t going on a debt binge and reducing NAV
 
 - ***Sell When***
-  - Catalyst occurs – without raider/catalyst, you may sit for ages
-Management dilutes/diworseifies
+  - Catalyst occurs – without raider/catalyst, you may sit for ages.
+  - although the share sell at a discount to real market value, management has announced it will issue 10 percent more shares to help finance a diversification program
   - Institutional ownership rises to 60% from 25
   - Instead of a subsidiary selling for $100, it sells for $60 - calculated NAV maybe inflated
   - Tax rate deduction reduces value of tax loss carry forwards
@@ -485,7 +536,9 @@ Management dilutes/diworseifies
     - Possible to cut costs, raise prices and also capture market share in slow growth markets.
     - If you can find a company that can raise prices without losing customers, you’ve found a terrific investment.
 - ***Examples***
+  
   - Pharma, Tobacco, FMCG, Alcohol 
+  - people will continue to eat cornflakes during recession and thus Kellogg will grow steadily
 
 - ***People Examples***
   - Command good salaries and get predictable raises – mid level employees
@@ -505,6 +558,7 @@ control over sales & distribution after buying out many independent, regional di
   - Diversification – capital misallocation may reduce future earnings. Board of Directors’ is better off returning cash to shareholders.
   - Long Term Growth Rate – has company kept up with growth rate momentum in recent years? Is it slowing/speeding?
   - Long Term Holding – how did it fare during previous recessions / market correction?
+  - check for unrelated acquisitions that may reduce earnings in the future
 
 - ***Portfolio Allocation %***
   - 10-20% Allocation, in order to moderate risks in portfolio full of Fast Growers and Turnarounds.
@@ -519,7 +573,7 @@ control over sales & distribution after buying out many independent, regional di
   - Stalwarts with heavy institutional ownership and lots of Wall Street coverage, that have outperformed the market and are overpriced,
 are due for a rest or decline.
   - 10x not possible. If P>E, or, PE>Normal, sell and rotate. If Price gets ahead, but the story is still the same, sell and rotate.
-  - New products of last 2 years have mixed results & new testing products are >1 year from market launch
+  - New products of last 2 years have mixed results & new testing products are > 1 year away from market launch
   - PE = 15x, vs similar quality company from same industry at 11-12x PE
   - No Executive/CXO/Director has bought shares in last 1 year
   - Large division (>25% of sales) is vulnerable to an ongoing economic slump (housing, oil)
@@ -665,6 +719,7 @@ and, vice versa.
   - Competition: new entrants / added supply = dangerous development, because they may cut prices to capture market share.
   - Know your Cyclical: if you do, then you have an advantage in figuring things out and timing the cycles.
   - Balance Sheet: strong enough to survive the next downturn? Can it outlast competitors? Is capex on upgradation / expansion a cause for concern? How much of a drag is it on FCF? Is CF > Capex, even in bad years? Are plant & machinery in good shape?
+  - anticipate a shrinking p/e multiple over time as business recovers and investors look ahead to the end of the cycle when peak earnings are achieved
 
 - ***Portfolio Allocation %***
   - 10-20% Allocation
@@ -759,6 +814,7 @@ and, vice versa.
   - Last quarter same-store sales are down 3%, new store sales are disappointing, and the company is telling positive stories, vs, showing positive results. 
   - Top executives / employees leave to join a rival.
   - PE = 30x, but next 2 years’ growth rate = 15%. Therefore, PEG = 2x (very negative)
+  - Watch for the end of the second phase of rapid growth and/or when the company is entering into a mature phase
 
 - ***Examples***
 
@@ -837,6 +893,7 @@ surprise. The story may start at a certain point, with specific expectations, an
 “Aha” and you’ve got the answer. By the time you’ve got “Aha,” the stock quadruples. You’ve to take a little bit of risk.
 - You don’t need to make money on every stock pick. A 60% win rate can produce an enviable record. All you need for a lifetime of successful investing is a few big winners. The pluses from them will overwhelm minuses from stocks that don’t work out. If 7/10 stocks perform as expected be delighted. 6/10 = Be Thankful. 
 - Management ability might be important, but it’s quite difficult to assess. Instead, buy on a company’s prospects.
+
 - **Two Minute Drill**
   - After company classification and figuring out whether the PE is high / low vs immediate prospects, figure out the company’s “story”. 
   - Except possibly Asset Plays, something dynamic has to happen to keep earnings moving along. The more certain you are about what that something is, the easier it gets to follow the script. 
@@ -848,6 +905,9 @@ surprise. The story may start at a certain point, with specific expectations, an
 
 - ***The 6 Month Checkup***
   - A healthy portfolio requires a regular checkup – every 6 months.
+  - Merchandise is still attractive (it may involve checking the stores)
+  - With fast grower, ask yourself what will keep them growing, 
+  - What phase of growth the company is in: Start-up, expansion, maturity
   - Even with blue chips, buy and forget can result in wasted opportunities and huge losses. It happens to people who imagine that betting with blue chips relieves them of the need to pay attention. 
   - It’s not simply a matter of checking prices – you can’t assume anything. 
   - You’ve got to follow the stories and get the answer to 2 basic questions:
@@ -912,6 +972,7 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 
 - **There’s No Point Yo-Yo Ma To Play The Radio**
   - Don’t invest in treasuries via bond funds and pay extra fees & expenses.
+  - Warren Buffett’s admonition that people who can’t tolerate seeing their stocks lose 50 percent of their value shouldn’t own stocks also applies to stock funds.
 
 - **As Long As You’re Picking A Fund, You Might As Well Pick A Good One**
   - easier said than done. 75% of funds perform < market average. If a fund equals market returns, it’s in the top 25% of all funds. Why?
@@ -948,13 +1009,14 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 
 - **When Insiders Are Buying, It’s A Good Sign**
   - When several insiders are buying the stock at the same time, it's a positive.
-
+  
 - **In Business, Competition Is Never As Healthy As Total Domination**
   - As a place to invest, lousy industries are better than great industries anytime. In a lousy industry, one that’s growing slowly, if at all, the weak drop out and the survivors get a bigger market share. A company that can capture an ever increasing share of a stagnant market is better than one that has to protect a dwindling share of an exciting market.
   - Avoid hot stocks in hot industries. Great companies in cold, no growth industries are consistent big winners.
 
 - **All Else Being Equal, Invest In The Company With The Fewest Colour Photos In The Annual Report**
   - a thrifty company strives for efficiency in all areas.
+  - What you want to see on the balance sheet is at least twice as much equity as debt, and the more equity and the less debt the better.
 
 - **When Even The Analysts Are Bored, It’s Time To Start Buying**
   - The real bargains are in industries Wall Street ignores. Giant conglomerates have 50 analysts watching their every move. Being popular, they’re often bought up to silly PE’s. It is the whole phenomenon of the market buying what they are familiar with, rather than what is good.
@@ -965,6 +1027,8 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 
 - **Unless You’re A Short Seller Or A Poet Looking For A Wealthy Wife, It Never Pays To Be Pessimistic** 
   - Since Lynch always thought positively, and assumed that the economy would improve, he was always willing to invest in Cyclicals at their nadir. Just when it seems things can’t get any worse with Cyclicals, things begin to get better.
+  - The most important question to ask about a cyclical is whether the company’s balance sheet is strong enough to survive the next downturn.
+  - Before I invest in any S&L, I like to see that its equity assets ratio is at least 7.5
 
 - **Companies, Like People, Change Their Names Either Because They’ve Gotten Married, Or They’ve Been Involved In Some Fiasco That They Hope The Public Will Forget.**
 
@@ -1012,8 +1076,28 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 - **Among the major world markets, the US ranks 8th in total return over the past decade**
   - You can take advantage of faster-growing economies by investing some assets in an overseas fund with a good record.
 
+- **what's the bottom line?**
+  - If you think a company’s product is going to grow significantly, then the question is: what percentage of revenue or net income that product accounts for? For companies like Procter and Gamble, Pampers may be a fast growing product but it's impact on the company’s bottom may be too small. 
+
+- **Big Companies, Small Moves**
+  - The bigger the company, the harder it is to keep the percentage of growth constant or increasing.
 
 # Quotes
+
+If you don’t study any companies you have the same chance of success buying stocks as you do in a poker game if you bet without looking at your cards.
+Time is on your side when you own shares of superior companies. You can afford to be patient—even if you missed Wal-Mart in the first five years, it was a great stock to own in the next five years. Time is against you when you own options.
+
+If you study 10 companies, you’ll find 1 for which the story is better than expected. If you study 50, you’ll find 5. There are always pleasant surprises to be found in the stock market—companies whose achievements are being overlooked on Wall Street.
+
+Nobody can predict interest rates, the future direction of the economy, or the stock market. Dismiss all such forecasts and concentrate on what’s actually happening to the companies in which you’ve invested.
+
+There is always something to worry about. Avoid weekend thinking and ignore the latest dire predictions of newscasters. Sell a stock because the company’s fundamentals deteriorate, not because the sky is falling.
+
+In every industry and every region of the country, the observant amateur can find great growth companies long before the professionals have discovered them.ssss
+
+"Investing without research is like playing stud poker and never looking at the cards."
+
+“All you have to do is put as much effort into picking your stocks as you do in buying your groceries.” 
 
 “As I look back on it now, it's obvious that studying history and philosophy was much better preparation for the stock market than, say, studying statistics.”
 
@@ -1025,6 +1109,77 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 
 “To me, an investment is simply a gamble in which you’ve managed to tilt the odds in your favor.”
 
+“No wonder people make money in the real estate market and lose money in the stock market. They spend months choosing their houses, and minutes choosing their stocks. In fact, they spend more time shopping for a good microwave oven than shopping for a good investment.”
+
+“Only invest what you could afford to lose without that loss having any effect on your daily life in the foreseeable future.”
+
+"The good news I can tell you is that to be a great investor you don’t have to have a terrific IQ. If you’ve got 160 IQ, sell 30 points to somebody else because you won’t need it in investing. What you do need is the right temperament. You need to be able to detach yourself from the views of others or the opinions of others."  —Warren Buffett
+
+"It's important to be able to make decisions without complete or perfect information. Things are almost never clear on Wall Street, or when they are, then it's too late to profit from them. The scientific mind that needs to know all the data will be thwarted here."
+
+"Some have fancied themselves 'long-term investors,' but only until the next big drop (or tiny gain), at which point they quickly become short-term investors and sell out for huge losses or the occasional minuscule profit. It's easy to panic in this volatile business."
+
+“Obviously you don’t have to be able to predict the stock market to make money in stocks, or else I wouldn't have made any money.”
+
+The market ought to be irrelevant. If I could convince you of this one thing, I'd feel this book had done its job. And if you don't believe me, believe Warren Buffett. "As far as I'm concerned," Buffet has written, "the stock market doesn't exist. It is there only as a reference to see if anybody is offering to do anything foolish."
+
+"That's not to say that there isn't such a thing as an overvalued market, but there's no point worrying about it. The way you'll know when the market is overvalued is when you can't find a single company that's reasonably priced or that meets your other criteria for investment."
+
+"I don't believe in predicting markets. I believe in buying great companies—especially companies that are undervalued and/or underappreciated.... Pick the right stocks and the market will take care of itself.”
+
+“You’ll get your biggest moves in smaller companies. You don’t buy stock in a giant such as Coca-Cola expecting to quadruple your money in two years.”
+
+"Sure sign of slow grower is that it pays a generous and regular dividend. Companies pay generous dividends when they can't dream up new ways to use the money to expand the business."
+
+“If companies aren’t going anywhere fast, neither will the price of their stocks. If growth in earnings is what enriches a company, then what’s the sense of wasting time on sluggards.”
+
+“The perfect stock would be attached to the perfect company, and the perfect company has to be engaged in a perfectly simple business, and the perfectly simple business ought to have a perfectly boring name. The more boring it is, the better.”
+
+“I get even more excited when a company with a boring name also does something boring.”
+
+“A company that does boring things is almost as good as a company that has a boring name, and both together is terrific. Both together is guaranteed to keep the oxymorons away until finally good news compels them to buy in, thus sending the stock price even higher.”
+
+“Better than boring alone is a stock that’s boring and disgusting at the same time. Something that makes people shrug, retch, or turn away in disgust is ideal.”
+
+“...spinoffs normally have strong balance sheets and are well-prepared to succeed as independent entities. And once these companies are granted their independence, the new management, free to run its own show, can cut costs and take creative measures that improve the near-term and longer term companies.”
+
+“If you find a stock with little or no institutional ownership, you’ve found a potential winner. Find a company that no analyst has even visited, or that no analyst would admit to know about, and you have got a double winner.”
+
+“That’s where the biggest winners are developed.”
+
+“In a no-growth industry especially one that’s boring and upsets people, there’s no problem with competition. You don’t have to protect your flanks from potential rivals because nobody else is going to be interested. That gives you the leeway to continue to grow, to gain market share...“ 
+
+“There’s nothing thrilling about the thrilling high-growth industry, except watching the stocks go down. Carpets in the 1950s, electronics in the 1960s, computers in the 1980s, were all exciting high-growth industries, in which numerous major and minor companies unerringly failed to prosper for long.”
+
+“I always look for niches. The perfect company would have to have one.”
+
+“Drug companies and chemical companies have niches—products that no one else is allowed to make.”
+
+“Chemical companies have niches in pesticides and herbicides. It’s not any easier to get a poison approved than it is to get a cure approved.”
+
+“Brand names such as Robitussin or Tylenol, Coca-Cola or Marlboro, are almost as good as niches. It costs a fortune to develop public confidence in a soft drink or a cough medicine. The whole process takes years.”
+
+“I’d rather invest in a company that makes drugs, soft drinks, razor blades, or cigarettes than in a company that makes toys. In the toy industry, somebody can make a wonderful doll that every child has to have, but every child gets only one each.”
+
+“Why take chances on fickle purchases when there’s so much steady business round?”
+
+“Instead of investing in computer companies that struggle to survive in an endless price war, why not invest in a company that benefits from the price war.”
+
+“Instead of investing in a company that makes automatic scanners, why not invest in the supermarkets that install the scanners? If a scanner helps a supermarket company cut costs just three percent, that alone might double the company’s earnings.”
+
+“There’s no better tip-off to the probable success of a stock than that people in the company are putting their own money into it.”
+
+“When management owns stock, then rewarding the shareholders becomes a first priority, whereas when management simply collects a paycheck, then increasing salaries become a first priority”
+
+“There’s only one reason that insiders buy: They think the stock price is undervalued and will eventually go up.”
+
+“In the multibillion-dollar futures and options market, not a bit of money is put into constructive use. It doesn't finance anything, except the cars, planes and houses purchased by the brokers and the handful of winners. What we are witnessing here is a giant transfer payment from the unwary to the wary.”
+
+“The market, like individual stocks, can move in the opposite direction of the fundamentals over the short term.”
+
+The stock market is the one place where the high achiever is routinely show up. It’s easy to get an F here. If you buy futures and options and attempt to time the market, it’s easy to get all F’s…
+
 # References
 - https://www.learninvest.ca/post/one-up-on-wall-street
 - https://sven-carlin-research-platform.teachable.com/courses/stock-market-investing/lectures/13222367
+- https://www.ryandelaney.co/book-notes/beating-the-street-peter-lynch
