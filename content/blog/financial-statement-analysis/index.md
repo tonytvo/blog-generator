@@ -82,6 +82,11 @@ tags: ["investing", "valueinvesting"]
   - a summation of all the secondary expenses gives the investor an overview of how efficiently the company has allocated overhead costs.
 
 - **income from operations**
+  - aka earnings before interest and taxes (EBIT).
+  - compare this (income from operations) to the net interest income/expenses to gain an understanding of interest obligations (or debt payments).
+  - the basis of the organization is to produce goods and services in order to maximize profitability. Profitability will only be maximized when the business is able to control its operating expenses while maximizing its revenue. The operating income is in fact an indicator of efficiency, and the operating margin indicates the business's ability to generate a profit from a given level of sales.
+
+- **net interest income/expenses**
 
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
