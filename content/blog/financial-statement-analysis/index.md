@@ -66,6 +66,23 @@ tags: ["investing", "valueinvesting"]
   - sometimes it combined with Administration expenses and called SGA (selling, general and administration)
   - advertisement is one of the greatest costs incurred by corporations today and is incorporated within the income statement. Moreover, you need to distribute your product to make it available to customers. This would lead to distribution costs, which would typically also included in the sales and marketing expense line.
 
+- **research and development**
+  - cell phone companies, for example, must continuously innovate in order to remain competitive, and therefore have high research and development costs
+  - conversely, companies such as Coca-cola do not have extensive research and development costs; this is because they already have a sustainable advantage through a product that has been sold for decades.
+
+- **general and administrative expenses**
+  - the labor cost related to the operation of its machines is directly associated with production and therefore is a part of the cost of revenue.
+  - the salary of white-collar managers involved in running the company is not attributed to the cost of production - instead it attributable to an overhead expense that's rolled into the G&A (General and Administrative)
+  - corporations are likely to window-dress the general and administrative expenses shown in corporate income statements.
+- **other operating expenses**
+  - refer to all the overhead costs that cannot be categorized into the major lines the company has selected to represent such as management salaries, depreciation, rent, marketing, advertising costs, costs for research into news products, operating leases and IT, etc... Think of it as a catchall category for any miscellaneous expense reporting.
+
+- **operating expenses**
+  - summation of all secondary expenses which are incurred in the running of the business.
+  - a summation of all the secondary expenses gives the investor an overview of how efficiently the company has allocated overhead costs.
+
+- **income from operations**
+
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
