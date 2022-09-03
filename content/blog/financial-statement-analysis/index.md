@@ -88,6 +88,41 @@ tags: ["investing", "valueinvesting"]
 
 - **net interest income/expenses**
 
+  - aka financial items or other income/expenses
+  - the most appropriate name for this would be net interest income/expense, since this line is most influenced by financing impacts
+  - interest expense is simply the cost of servicing debt that is incurred by the organization when it takes on debt.
+  - companies use debt as a financing source, while keeping money in the bank to provide flexibility for their daily operations.
+  - company would need to setup a sunk account (on the balance sheet) in order to set aside money each year to payback the principal.
+  - remember that this line is not only financial items; it is also other revenue and expenses that are not part of the company's daily operations. It could be income generated from other resources like renting out certain area of property. It could also relate to multinational companies with widespread operations that are likely to be impacted by foreign exchange risk adjustments in an either positive or negative manner
+
+- **extraordinary income/expenses**
+  - extraordinary is something that is not part of the daily operations and cannot be predicted. For example, a loss incurred from a lawsuit is very hard to predict and can be categorized as one-time event, or maybe restructuring charges like closing down subsidiary, merge 2 divisions, personnel receiving severance pay.
+  - when you're trying to determine the true cash flow of a business, many investors exclude extraordinary income in their model. That said, many conservative analysts will include average extraordinary expenses (for example, the average annual expense over a five-year period)
+
+- **income taxes**
+  - tax is huge expense for any company, and just as you would rather invest in a company with an efficient R&D department, you would also rather invest in a company with a lower tax rate. You should look for the effective tax rate over time, and not a single snapshot in time. The important thing is understanding a company's tax trends. Look for consistencies - and when you don't find them, understand why.
+
+- **net income**
+  - aka profit for the year or net income from continued operations.
+
+- **gross profit margin ratio**
+  - gross profit margin ratio = gross profit / revenue
+  - indicate how efficient companies are at controlling the costs and a good starting point to compare with a competitor
+
+- **operating margin ratio**
+  - operating margin ratio = income from operations / revenue
+  - not only when the cost of revenue such as sugar and tin cans are sold, but also secondary expenses like administration, distribution and all the other costs related to Coca-Cola's daily business are deducted.
+
+- **net income margin ratio**
+  - net income margin ratio = net income / revenue
+  - this is the money that the investors made in profit compared to money the business collected for the sale of every product.
+  - trend analysis is the heart of understanding the prospects for future performance.
+
+- **interest coverage ratio**
+  - important ratio for minimizing the risk and it shows the reality of a company's ability to keep its head above water.
+  - interest coverage ratio = income from operations / interest expense
+  - as a rule of thumb, I like to see a stable interest coverage ratio of at least 5 times the operating income.
+
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
@@ -95,6 +130,41 @@ tags: ["investing", "valueinvesting"]
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
+- balance sheet is sectionalized into 3 major categories: the assets, the equity and the liabilities.
+
+- ***assets***
+  - assets are what the company owns
+  - assets can ben financed in 2 ways: with the company's money - this is called equity or with someone else's money - this is called liabilities.
+  - because assets are either financed by equity or liabilities, the 2 sides will always be equal. They will balance.
+  - *assets are something that is owned and expected to generate income for the company*
+  - 2 different categories of assets: the non-current and the current assets
+    - current asset can be defined as any asset which is likely to be converted into cash within a period of 1 year such as cash, inventory and receivables
+    - non-current assets are sometimes referred to as long-term assets. An organization simply includes those assets that have an expected ownership over a period exceeding 1 year and cannot immediately be converted into cash such as machines for production, buildings, cards, etc...
+    - the idea distinguishing various kinds of assets is to present to the reader a true and fair view of a company's financial condition that is also why the balance sheet is sometimes referred to as the statement of financial position.
+
+  - **cash and cash equivalents**
+    - aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and cash that is safely stored away in a bank account.
+    - cash equivalents are equal to having cash that is currently in a different form, for example, money market funds, saving deposits and deposit certificates.
+  
+  - **accounts receivables**
+    - aka receivables, net receivables. 
+    - most of a business's sales tend to be carried out on credit as opposed to cash. This payment in effect an asset for the company because it will be turned into cash at a later date. Typically, this would happen within 60-90 days. This also means that receivables, in reality are an interest-free loan provided from one company to another company.
+    - most often, it made up by the credit sales of goods and services,but it can also contain expected current payments such as interest on various securities.
+    - in short, this is money that is expected to flow into the company but is yet to be received.
+
+  - **inventory**
+    - typically inventory is subdivided into 3 categories: raw materials (such as sugar for coca-cola), work in progress (such as labor costs for managing machines), and finished goods (includes costs for packaging the products).
+
+  - **other current assets**
+    - any current assets that do not meet any of the 3 previous categories (may include property, plant and equipment available for sale, or any asset that is expected to be sold within the year)
+    - might also include derivatives that are designated as hedging instruments such as foreign currency contracts and commodity contracts (to minimize their risk and exposure to a flexible and unpredictable market).
+
+  - **prepaid expenses**
+    - a firm sometimes pays off some of its expenses before it actually incurs them (such as distribution rights in advance for 6 months in the case of coca-cola)
+    - the prepaid expenses tend to be the most iliquid item in the current assets category. Most likely the contractual terms would not allow Coca-Cola to ask for such a reversal of funds that have already been paid.
+    - that's why you'll find prepaid expenses listed at the very bottom of the current assets column; it's the "thickest" and most difficult to turn back into cash
+  - **total current assets**
+    - summation of all assets that you expect to turn into cash during the next 12 months.
 
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
