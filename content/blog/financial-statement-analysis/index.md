@@ -258,6 +258,45 @@ tags: ["investing", "valueinvesting"]
 - the price the company paid to buy back its own shares.
 - good indicator how much the company has been able to grow the owners' money. If a substantial growth in the treasury account had occurred during the period of assessment, it may drastically increase the book value growth - which potentially can be used to measure free cash flow.
 
+### return on equity
+- return on equity = net income / equity
+- gauge of a corporation's profitability and how efficiently it generates those profits. The higher the ROE, the better a company is at converting its equity financing into profits.
+- target ROE that is equal to or just above the average for the company's sector
+
+### return on assets
+  - return on assets = net income /total assets
+  - if you're buying a company with a low deb/equity ratio (like 0.50 or less), you can probably skip this calculation. On the other hand, if you're buying a company with a lot of debt, you'll probably want to use the ROA instead of the ROE.
+  - personally, I like to see a ROA of above 6%, but most importantly I want to see that my stock picks has better ROA than their competitors.
+
+### return on invested capital
+- a calculation used to assess a company's efficiency at allocating the capital under its control to profitable investments
+- a company is thought to be creating value if its ROIC exceeds its weighted average cost of capital (WACC)
+- ROIC = (net operating profit after tax)
+- it tells nothing about what segment of the business is generating value.
+- invested capital is the total amount of money raised by a company by issuing securities - which is the sum of the company's equity, debt and capital lease obligations. Invested capital is not a line item in the company's financial statement because debt, capital leases, and stockholder's equity are each listed separately on the balance sheet.
+
+### current ratio
+
+- current ratio = current assets / current liabilities
+- as investors, our threshold for a current ratio is that it should be above 1.0, or even 1.5 to be safe.
+- a current ratio of above 5 may also indicate bad money management, as cash could be put to better use elsewhere.
+- definitely want to be above 1 and prefer somewhere 1.5
+
+### inventory turnover ratio
+
+- inventory turnover ratio = cost of revenue / inventory
+- indicate how efficiently company can turn inventory into sales.
+- as a shareholder of Coca-Cola, I would prefer to have the inventory empty and filled 4 times instead of 2.15. 
+- In all circumstances, capital in inventory is expensive, and for products with a somewhat high duration, I would like to see an inventory turnover of 4 or above and would need to do more research to understand the industry standard.
+- note: it's very important to remember that this number is compared to an annual income statement. If you were working with a quarterly income statement, you would need to multiply the number by 4 in order to ascertain the prorated annual turnover rate.
+
+### accounts receivable turn over ratio
+
+### acid test ratio
+
+- acid test ratio a conservative approach to the current ratio. It is also called the skeptic liquidity measure.
+- Acid Test Ratio = (Current Assets - Inventory) / Current Liabilities
+
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
 - Some financial manipulations, or shenanigans, are benign and may not hurt anyone.
