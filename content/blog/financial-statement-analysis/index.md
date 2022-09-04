@@ -127,6 +127,15 @@ tags: ["investing", "valueinvesting"]
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
 
+## cash flow from operating activities
+
+- cash generated from operations reflects the ability of the organization to generate cash from its core business operations.
+- our starting point for the cash flow from operating activities is the net income (the bottom line on the income statement). 
+
+- **net income**
+  - so this is our starting point. This number from the bottom of income statement.
+  - from this point, we need to adjust for all non-cash items.
+
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
