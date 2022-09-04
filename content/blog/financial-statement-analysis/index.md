@@ -142,29 +142,43 @@ tags: ["investing", "valueinvesting"]
     - non-current assets are sometimes referred to as long-term assets. An organization simply includes those assets that have an expected ownership over a period exceeding 1 year and cannot immediately be converted into cash such as machines for production, buildings, cards, etc...
     - the idea distinguishing various kinds of assets is to present to the reader a true and fair view of a company's financial condition that is also why the balance sheet is sometimes referred to as the statement of financial position.
 
-  - **cash and cash equivalents**
-    - aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and cash that is safely stored away in a bank account.
-    - cash equivalents are equal to having cash that is currently in a different form, for example, money market funds, saving deposits and deposit certificates.
-  
-  - **accounts receivables**
-    - aka receivables, net receivables. 
-    - most of a business's sales tend to be carried out on credit as opposed to cash. This payment in effect an asset for the company because it will be turned into cash at a later date. Typically, this would happen within 60-90 days. This also means that receivables, in reality are an interest-free loan provided from one company to another company.
-    - most often, it made up by the credit sales of goods and services,but it can also contain expected current payments such as interest on various securities.
-    - in short, this is money that is expected to flow into the company but is yet to be received.
+## Current assets
+- **cash and cash equivalents**
+  - aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and cash that is safely stored away in a bank account.
+  - cash equivalents are equal to having cash that is currently in a different form, for example, money market funds, saving deposits and deposit certificates.
 
-  - **inventory**
-    - typically inventory is subdivided into 3 categories: raw materials (such as sugar for coca-cola), work in progress (such as labor costs for managing machines), and finished goods (includes costs for packaging the products).
+- **accounts receivables**
+  - aka receivables, net receivables. 
+  - most of a business's sales tend to be carried out on credit as opposed to cash. This payment in effect an asset for the company because it will be turned into cash at a later date. Typically, this would happen within 60-90 days. This also means that receivables, in reality are an interest-free loan provided from one company to another company.
+  - most often, it made up by the credit sales of goods and services,but it can also contain expected current payments such as interest on various securities.
+  - in short, this is money that is expected to flow into the company but is yet to be received.
 
-  - **other current assets**
-    - any current assets that do not meet any of the 3 previous categories (may include property, plant and equipment available for sale, or any asset that is expected to be sold within the year)
-    - might also include derivatives that are designated as hedging instruments such as foreign currency contracts and commodity contracts (to minimize their risk and exposure to a flexible and unpredictable market).
+- **inventory**
+  - typically inventory is subdivided into 3 categories: raw materials (such as sugar for coca-cola), work in progress (such as labor costs for managing machines), and finished goods (includes costs for packaging the products).
 
-  - **prepaid expenses**
-    - a firm sometimes pays off some of its expenses before it actually incurs them (such as distribution rights in advance for 6 months in the case of coca-cola)
-    - the prepaid expenses tend to be the most iliquid item in the current assets category. Most likely the contractual terms would not allow Coca-Cola to ask for such a reversal of funds that have already been paid.
-    - that's why you'll find prepaid expenses listed at the very bottom of the current assets column; it's the "thickest" and most difficult to turn back into cash
-  - **total current assets**
-    - summation of all assets that you expect to turn into cash during the next 12 months.
+- **other current assets**
+  - any current assets that do not meet any of the 3 previous categories (may include property, plant and equipment available for sale, or any asset that is expected to be sold within the year)
+  - might also include derivatives that are designated as hedging instruments such as foreign currency contracts and commodity contracts (to minimize their risk and exposure to a flexible and unpredictable market).
+
+- **prepaid expenses**
+  - a firm sometimes pays off some of its expenses before it actually incurs them (such as distribution rights in advance for 6 months in the case of coca-cola)
+  - the prepaid expenses tend to be the most iliquid item in the current assets category. Most likely the contractual terms would not allow Coca-Cola to ask for such a reversal of funds that have already been paid.
+  - that's why you'll find prepaid expenses listed at the very bottom of the current assets column; it's the "thickest" and most difficult to turn back into cash
+- **total current assets**
+  - summation of all assets that you expect to turn into cash during the next 12 months.
+
+## non-current assets
+- assets that will not turn into cash within the next 12 months
+
+- **non-current receivables**
+  - it is the money that is expected to be paid back, but not within the next 12 months.
+
+- **non-current investments**
+  - referred to as long-term investments.
+  - sometimes a company is involved in long-term investments in an attempt to generate income from non-operating assets.
+  - as an investor, you're right to question why a company should have long-term investments. You might argue that a company with a high number of investments would tend to concentrate less on core activities. That is typically a bad sign. Conversely, investments such as these might signify a diversification policy so earnings are maintained despite changes in external environments.
+
+- **property, plant, and equipment**
 
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
