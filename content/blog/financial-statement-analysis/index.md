@@ -291,11 +291,36 @@ tags: ["investing", "valueinvesting"]
 - note: it's very important to remember that this number is compared to an annual income statement. If you were working with a quarterly income statement, you would need to multiply the number by 4 in order to ascertain the prorated annual turnover rate.
 
 ### accounts receivable turn over ratio
+- accounts receivable turnover ratio = turn over / accounts receivables
+- turn over is actually the revenues of the business found on the income statement.
+- turn over days = 365 / accounts receivable turnover ratio.
+- this means that once Coca-Cola makes a sale, it typically takes x days for them to receive payment from their customer.
+- this is heavily dependent on the industry of the company and prefer the ratio around 5-7
+
+### accounts payable turn over ratio
+
+- accounts payable turnover ratio = cost of revenue / accounts payable
+- turn over days = 365 / accounts payable turn over ratio
+- this means that on average it takes Coca-Cola x days to replay their supplier.
+- a ratio of between 2 - 6 is typically a sign of an efficient company that is satisfying bargaining power and at the same time having no problem paying its obligations to suppliers.
 
 ### acid test ratio
 
 - acid test ratio a conservative approach to the current ratio. It is also called the skeptic liquidity measure.
 - Acid Test Ratio = (Current Assets - Inventory) / Current Liabilities
+
+### debt to equity ratio
+
+- debt-to-equity ratio = (long term debt + notes payable) / equity
+- long-term debt and notes payable include interest expenses that you need to pay on a regular basis.
+- it means that every time the shareholders own $100 in equity, they also owe $20.2 in debt that Coca-Cola is paying interest on (it's 20.2% debt-to-equity)
+- in general, Warrent Bufffet does not like to have debt to equity ratio of above 0.5
+
+### liabilities to equity ratio
+
+- liabilities to equity ratio = total liabilities / equity
+- with ratio of 47.2, it means that every time the shareholder has $100 in equity, the company would have to payout 47.2 at some point in the future. The liabilities include money Coca-Cola has borrowed from the bank and is paying interest on and is included just as much as the sugar that Coca-Cola has bought on credit from a supplier.
+- more conservative value investors like to look at this key ratio instead of the debt-to-equity ratio. They do like to distinguish between interest-bearing debt, which is the most expensive and interest-free liabilities such as accounts payable. As a rule of thumb, the liabilities to equity ratio should be below 0.8 to be considered low-risk
 
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
