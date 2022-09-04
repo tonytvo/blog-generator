@@ -1,492 +1,702 @@
 ---
-title: 48 Laws of Power by Robert Greene summary
+title: The Art of War by Sun Tzu summary
 date: "2022-09-04T22:12:03.284Z"
-description: "48 Laws of Power by Robert Greene summary"
+description: "The Art of War by Sun Tzu summary"
 tags: ["strategy"]
 ---
 
-# Never outshine the master.
+# take-aways
+
+- There is legend that this little book was Napoleon's key to success and his secret weapon.
+- Always remember, since ancient times, it has been known that..."the true object of war is peace."
+- If there is an ideal to aim for, it should be that of the strategic warrior, the man or woman who manages difficult situations and people through deft and intelligent maneuver.
+- Our successes and failures in life can be traced to how well or how badly we deal with the inevitable conflicts that confront us in society.
+- **Look at things as they are, not as your emotions color them.**
+- The only remedy is to be aware that the pull of emotion is inevitable, to notice it when it is happening, and to compensate for it. When you have success, be extra wary. When you are angry, take no action. When you are fearful, know you are going to exaggerate the dangers you face.
+- **Judge people by their actions.**
+- **Depend on your own arms.**
+- But true strategy is psychological--a matter of intelligence, not material force. Everything in life can be taken away from you and generally will be at some point.
+- Having superior strategies at your fingertips will give your maneuvers irresistible force. As Sun-tzu says, “Being unconquerable lies with yourself”.
+- **Worship Athena, not Ares.**
+  - Ares was the god of war in its direct and brutal form. The Greeks despised Ares and worshipped Athena, who always fought with the utmost intelligence and subtlety. Your interest in war is not the violence, the brutality, the waste of lives and resources, but the rationality and pragmatism it forces on us and the ideal of winning without bloodshed.
+- In war, strategy is the art of commanding the entire military operation. Tactics, on the other hand, is the skill of forming up the army for battle itself and dealing with the immediate needs of the battlefield.
+- To have the power that only strategy can bring, you must be able to **elevate yourself above the battlefield**, to focus on your long-term objectives, to craft an entire campaign, to get out of the reactive mode that so many battles in life lock you into.
+- Keeping your overall goals in mind, it becomes much easier to decide when to fight and when to walk away.
+- **Spiritualize your warfare.**
+- Every day you face battles--that is the reality for all creatures in their struggle to survive. But the greatest battle of all is with yourself--your weaknesses, your emotions, your lack of resolution in seeing things through to the end. You must declare unceasing war on yourself. As a warrior in life, you welcome combat and conflict as ways to prove yourself, to better your skills, to gain courage, confidence, and experience.
+
+
+# Laying Plans
+- The art of war is of vital importance to the state. It is a matter of life and death, a road either to safety or to ruin. Hence under no circumstances can it be neglected.
+- All warfare is based on deception. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
+- Hold out baits to entice the enemy. Feign disorder, and crush him. If he is secure at all points, be prepared for him. If he is in superior strength, evade him. If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant. If he is taking his ease, give him no rest. If his forces are united, separate them. Attack him where he is unprepared, appear where you are not expected.
+The general who wins a battle makes many calculations in his temple before the battle is fought. The general who loses a battle makes but few calculations beforehand.
+
+# The Sheathed Sword
+- To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.
+- There are three ways in which a sovereign can bring misfortune upon his army:
+  - By commanding the army to advance or retreat, being ignorant of the fact that it cannot obey.
+  - By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions that obtain in an army.
+  - By employing the officers of his army without discrimination, through ignorance of the military principle of adaptation to circumstances.
+
+- Thus we may know that there are five essentials for victory:
+  - He will win who knows when to fight and when not to fight.
+  - He will win who knows how to handle both superior and inferior forces.
+  - He will win whose army is animated by the same spirit throughout all its ranks.
+  - He will win who, prepared himself, waits to take the enemy unprepared.
+  - He will win who has the military capacity and is not interfered with by the sovereign.
+
+- **If you know the enemy and you know yourself, you need not fear the result of a hundred battles.**
+  - If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.
+  - If you know neither the enemy nor yourself, you will succumb in every battle.
+
+# Tactics
+- To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
+- The general who is skilled in defense hides in the most secret recesses of the earth; he who is skilled in attack flashes forth from the topmost heights of heaven.
+- Hence the skillful fighter puts himself into a position that makes defeat impossible and does not miss the moment for defeating the enemy.
+
+# Energy
+- Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.
+- In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.
+- Therefore the good fighter will be terrible in his onset, and prompt in his decision.
+- Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.
+
+# Weak Points & Strong
+- Appear at points that the enemy must hasten to defend; march swiftly to places where you are not expected.
+- The general that is skillful in attack whose opponent does not know what to defend; and he is skillful in defense whose opponent does not know what to attack.
+- In making tactical dispositions, the highest pitch you can attain is to conceal them;
+- Military tactics are like unto water; for water in its natural course runs away from high places and hastens downward. So in war, the way is to avoid what is strong and to strike at what is weak.
+- Water shapes its course according to the nature of the ground over which it flows; the soldier works out his victory in relation to the foe whom he is facing.
+- Therefore, just as water retains no constant shape, so in warfare there are no constant conditions.
+- He who can modify his tactics in relation to his opponent, and thereby succeed in winning, may be called a heaven-born captain.
+
+# Maneuvering
+- Without harmony in the state, no military expedition can be undertaken; without harmony in the army, no battle array can be formed.
+- An army without its baggage train is lost; without provisions it is lost; without bases of supply it is lost.
+Ponder and deliberate before you make a move. He will conquer who has learned the artifice of deviation. Such is the art of maneuvering.
+- In battle, a courageous spirit is everything.
+- A clever general, therefore, avoids and army when its spirit is keen, but attacks it when it is sluggish and inclined to return.
+- When you surround an enemy, leave an outlet free. This does not mean that the enemy is to be allowed to escape. The object is to make him believe that there is a road to safety, and thus prevent his fighting with the courage of despair.
+
+# Variation of Tactics
+- No town should be attacked which, if taken, cannot be held, or if left alone, will not cause any trouble.
+- In the wise leader's plans, considerations of advantage and of disadvantage will be blended together.
+- The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
+- There are five dangerous faults that may affect a general, of which the first two are: recklessness, which leads to destruction; and cowardice, which leads to capture.
+  - Next there is a delicacy of honor, which is sensitive to shame; and a hasty temper, which can be provoked by insults.
+  - The last of such faults is oversolicitude for his men, which exposes him to worry and trouble, for in the long run the troops will suffer more from the defeat, or at best, the prolongation fo the war, which will be the consequence.
+
+
+# The Army on the March
+- He who exercises no forethought but makes light of his opponents is sure to be captured by them.
+Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.
+- Peace proposals unaccompanied by a sworn covenant indicate a plot.
+- To begin by bluster, but afterward to take fright at the enemy's numbers, shows a supreme lack of intelligence.
+
+
+# Terrain
+- Sometimes an army is exposed to calamities, not arising from natural causes, but from faults for which the general is responsible. These are: flight; insubordination; collapse; ruin; disorganization; rout.
+- Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.
+- If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway toward victory. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway toward victory. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway toward victory.
+- If you know the enemy and you know yourself, your victory will not stand in doubt;
+
+
+# The Nine Situations
+- Rapidity is the essence of war. Take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.
+- Carefully study the well-being of your men, and do not overtax them.
+- Concentrate your energy and hoard your strength.
+- Keep your army continually on the move, and devise unfathomable plans.
+- You will not succeed unless your men have tenacity and unity of purpose, and above all, a spirit of sympathetic cooperation.
+- By altering his arrangements and changing his plans, the skillful general keeps the enemy without definite knowledge.
+- By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose.
+- Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose. If the enemy shows an inclination to advance, lure him on to do so; if he is anxious to retreat, delay on purpose that he may carry out his intention.
+
+
+# Attack by Fire
+- Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.
+
+## The Use of Spies
+- What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.
+- Having converted spies means getting hold of the enemy's spies and using them for our own purposes: by means of heavy bribes and liberal promises, detaching them from the enemy's service and inducing them to carry back false information as well as to spy in turn on their own countrymen.
+- There must be no more intimate relations in the whole army than those maintained by spies. No other relation should be more liberally rewarded. In no other relation should greater secrecy be preserved.
+- Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, the doorkeepers, and the sentries of the general in command. Our spies must be commissioned to ascertain these.
+- The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy. He not only brings information himself, but makes it possible to use the other kinds of spies to advantage. Hence it is essential that the converted spy be treated with the utmost liberality.
+- Spies are a most important element in war, because upon them depends an army's ability to move.
+
+# Part I: Self-Directed Warfare
+- To become a true strategist, you must become aware of the weakness and illness that can take hold of the mind. You must declare war on yourself to make yourself move forward.
+
+## Declare War on Your Enemies: The Polarity Strategy
+
+- Learn to identify your enemies, and then inwardly declare war.
+- Your enemies, like the opposite poles of a magnet, can fill you with purpose and direction.
+- The more clearly you define who you do not want to be, the clearer your own sense of identity.
+- See yourself as a fighter, surrounded by enemies. Constant battle keeps you strong and alert.
+- Do not be lured by the need to be liked: better to be respected, even feared.
+
+- **Keys to Warfare:**
+  - **Understand**: people tend to be vague and slippery because it is safer than outwardly committing to something. If you are the boss, they will mimic your ideas. Their agreement is often pure courtiership. Get them emotional; people are usually more sincere when they argue. If you pick an argument with someone and he keeps on mimicking your ideas, you may be dealing with a chameleon, a particularly dangerous type.
+  - A tough opponent will bring out the best in you.
+
+- **Reversal:**
+  - Always keep the search for and use of enemies under control. It is clarity you want, not paranoia. It is the downfall of many tyrants to see an enemy in everyone. They lose their grip on reality and become hopelessly embroiled in the emotions their paranoia churns up.
+
+## Do Not Fight the Last War: The Guerrilla-War-of-the-Mind Strategy
+- What most often weighs you down and brings you misery is the past, in the form of unnecessary attachments, repetitions of tired formulas, and the memory of old victories and defeats. You must consciously wage war against the past and force yourself to react to the present moment.
+- Never take it for granted that your past successes will continue into the future.
+
+- **Keys to Warfare**
+  - **Understand**: the greatest generals, the most creative strategists, stand out not because they have more knowledge but because they are able, when necessary, to drop their preconceived notions and focus intensely on the present moment. That is how creativity is sparked and opportunities are seized.
+  - It can be valuable to analyze what went wrong in the past, but it is far more important to develop the capacity to think in the moment. In that way you will make far fewer mistakes to analyze.
+  - The first step is simply to be aware of the process and of the need to fight it. The second is to adopt a few tactics that might help you to restore the mind's natural flow.
+  - **Reexamine all your cherished beliefs and principles.**
+  - Your only principle, similarly, should be to have no principles.
+  - **Erase the memory of the last war.**
+  - Attention to the details of the present is by far the best way to crowd out the past and forget the last war.
+  - **Keep the mind moving.**
+  - Superior strategists see things as they are. They are highly sensitive to dangers and opportunities.
+  - Great strategists do not act according to preconceived ideas; they respond to the moment, like children.
+  - **Absorb the spirit of the times.**
+  - Constantly adapt and change, and you will avoid the pitfalls of your previous wars. Just when people feel they know you, you will change.
+  - **Reverse course.**
+    - Sometimes you must reverse course, break free from the hold of the past. Do the opposite of what you would normally do in a given situation.
+  - Act in a novel manner in relationships to break up the dynamic.
+
+## Amidst the Turmoil of Events, Do Not Lose Your Presence of Mind: The Counterbalance Strategy
+- You must actively resist the emotional pull of the moment, maintaining your mental powers whatever the circumstances.
+- Make your mind tougher by exposing it to adversity. Learn to detach yourself.
+
+- **The Hyperaggressive Tactic**
+  - In moments of turmoil and trouble, you must force yourself to be more determined and aggressive. Any mistakes you make can be rectified with more aggression.
+
+- **The Detached-Buddha Tactic**
+  - Presence of mind is the ability to detach yourself and see the whole battlefield with clarity. What gives you that distance is preparation, mastering the details beforehand. Let people think your Buddha-like detachment comes from some mysterious source. The less they understand you, the better.
+
+- **Keys to Warfare**
+  - What makes your mind stronger, and more able to control your emotions, is internal discipline and toughness.
+  - No one can teach you this skill. It can only come through practice, experience, and even a little suffering.
+  - To toughen your mind:
+  - **Expose yourself to conflict.**
+  - It is better to confront your fears than to ignore them or tamp them down.
+  - The more conflicts and difficult situations you put yourself through, the more battle-tested your mind will be.
+  - **Be self-reliant.**
+  - Dependency makes you vulnerable to all kinds of emotions.
+  - We tend to overestimate other people’s abilities, and we tend to underestimate our own. Compensate for this by trusting yourself more, and others less.
+  - Remember, though, that being self-reliant does not mean burdening yourself with petty details.
+  - **Suffer fools gladly.**
+  - Your time and energy are limited, and you must learn how to preserve them.
+  - Instead, think of fools as you think of children, or pets, not important enough to affect your mental balance.
+  - **Crowd out feelings of panic by focusing on simple tasks.**
+  - **Unintimidate yourself.**
+  - See the person, not the myth. Imagine him or her as a child, as someone riddled with insecurities.
+  - **Develop your Fingerspitzengefuhl (fingertip feel).**
+  - Presence of mind depends not only on your mind's ability to come to your aid in difficult situations but also on the speed with which this happens.
+  - There are things you can do to help you respond faster and bring out that intuitive feel that all animals possess. Deep knowledge of the terrain will let you process information faster than your enemy, a tremendous advantage. Getting a feel for the spirit of men and material, thinking your way into them instead of looking at them from outside, will help to put you in a different frame of mind.
+  - Get your mind into the habit of making lightning-quick decisions, trusting your fingertip feel. Your mind will advance in a kind of mental blitzkrieg, moving past your opponents before they realize what has hit them.
+
+## Create a Sense of Urgency and Desperation: The Death-Ground Strategy
+- You are your own worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you are only half involved in what you do. The only way to change is through action and outside pressure. Put yourself in situations where you have too much at stake to waste time or resources--if you cannot afford to lose, you won't. Cut your ties to the past; enter unknown territory where you must depend on your wits and energy to see you through. Place yourself on "death ground," where your back is against the wall and you have to fight like hell to get out alive.
+
+- **The No-Return Tactic**
+  - In the back of your mind, you keep an escape route, a crutch, something to turn to if things go bad.
+  - You may see this fallback as a blessing, but it is in fact a curse. It divides you. Because you think you have options, you need involve yourself deeply enough in one thing to do it thoroughly, and you never quite get what you want. Sometimes you need to burn the ships.
+
+- **The Death-at-Your-Heels Tactic**
+  - You must think of death in order to embrace your limited days left. Make the most of them and live with a sense of urgency.
+
+- **Keys to Warfare**
+  - Put yourself in a comfortable situation, and we may grow bored or tired. Put yourself in a high-stakes situation, and the dynamic changes. You get a surge of energy, and your mind focuses.
+  - Use the following five actions to put yourself on a psychological death ground:
+  - **Stake everything on a single throw.**
+  - It is better to take on one daunting challenge than diffuse our efforts across many.
+  - **Act before you are ready.**
+  - Do this often and you will develop your ability to think and act fast.
+  - **Enter new waters.**
+  - Leave stale relationships and comfortable situations behind, and cut your ties to the past.
+  - **Make it “you against the world."**
+  - A fighting spirit needs a little edge, some anger and hatred to fuel it. Get aggressive and irritate and infuriate people directly.
+  - **Keep yourself restless and unsatisfied.**
+  - Make risk a constant practice; never let yourself settle down.
+  - Life has more meaning in the face of death.
+
+- **Reversal**
+  - Never attack enemies with nothing to lose.
+  - Conversely, attacking enemies when morale is low gives you the advantage.
+  - Always try to lower the other side’s sense of urgency.
+
+# Part II: Organizational (Team) Warfare
+
+- It is the structure of your army - the chain of command and the relationship of the parts to the whole - that will give your strategies force.
+- You must build speed and mobility into the structure of your army.
+- That means having a single authority on top, going soldiers a sense of the overall goal to be accomplished and the latitude to take action to meet that goal. It means motivating soldiers, creating an overall esprit du corps that gives momentum.
+- Before formulating a strategy or taking action, understand the structure of your group.
+
+## Avoid the Snares of GroupThink: The Command-and-Control Strategy
+- The problem in leading any group is that people inevitably have their own agendas. If you are too authoritarian, they will resent you and rebel in silent ways. If you are too easygoing, they will revert to their natural selfishness and you will lose control. You have to create a chain of command in which people do not feel constrained by your influence yet follow your lead.
+- Create a sense of participation, but do not fall into Groupthink.
+- A proper chain of command, and the control it brings you, is not an accident; it is your creation, a work of art that requires constant attention and care.
+
+- **Keys to Warfare**
+  - This is the game you must play: Do whatever you can to pressure unity of command. At the same time, hide your tracks. Work behind the scenes; make the group feel involved in your decisions.
+  - A critical step in creating an efficient chain of command is assembling a skilled team that shares your goals and values.
+  - In creating this team, you are looking for people who make up for your deficiencies, who have the skills you lack.
+  - Be careful in assembling this team that you are not seduced by expertise and intelligence. Character, the ability to work under you and with the rest of the team, and the capacity to accept responsibility and think independently are equally key.
+  - The single greatest risk to your chain of command comes from the political animals in the group. Try to weed them out before they arrive.
+  - Finally, pay attention to the orders themselves--their form as well as their substance. Vague orders are worthless.
+  - On the other hand, if your commands are too specific and too narrow, you will encourage people to behave like automatons and stop thinking for themselves--which they must do when the situation requires it. Erring in neither direction is an art.
+
+## Segment Your Forces: The Controlled-Chaos Strategy
+- Speed and adaptability are critical elements in war, and come from flexible organization.
+- Decentralize your army, segment into teams, and let go a little to gain mobility.
+- Give your different corps clear missions that fit your strategic goals, then let them accomplish them as they see fit.
+
+- **Keys to Warfare**
+  - The essence of strategy is not to carry out a brilliant plan that proceeds in steps; it is to put yourself in situations where you have more options than the enemy does.
+  - The key to the mission command is an overall group philosophy. This can be built around the cause you are fighting for or a belief in the evil of the enemy you face. It can also include the style of warfare--defensive, mobile, ruthlessly aggressive--that best suits it. You must bring the group together around this belief. Then, through training and creative exercises, you must deepen its hold on them, infuse it into their blood.
+
+## Transform Your War into a Crusade: Morale Strategies
+- The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Involve them in a cause, a crusade against a hated enemy. Make them see their survival as tied to the success of the army as a whole.
+- Lead from the front: let your soldiers see you in the trenches, making sacrifices for the cause.
+
+- **The Art of Man Management**
+  - To create the best group dynamic, follow as many of the following steps as possible:
+  - **Step 1: Unite your troops around a cause. Make them fight for an idea.**
+    - The cause can be anything you wish, but you should represent it as progressive: it fits the times, it is on the side of the future, so it is destined to succeed.
+  - **Step 2: Keep their bellies full.**
+    - People cannot stay motivated if their material needs go unmet.
+  - **Step 3: Lead from the front.**
+  - **Step 4: Concentrate their ch’i.**
+    - Idleness has a terrible effect on chi’i.
+    - Keep your soldiers busy, acting for a purpose, moving in a direction.
+  - **Step 6: Mix harshness and kindness.**
+    - The key to man management is a balance of punishment and reward.
+  - **Step 7: Build the group myth.**
+    - The armies with the highest morale are armies that have been tested in battle. Soldiers who have fought alongside one another through many campaigns forge a kind of group myth based on their past victories.
+    - To generate this myth, you must lead your troops into as many campaigns as you can. It is wise to start out with easy battles that they can win, building up their confidence.
+  - **Step 8: Be ruthless with grumblers.**
+    - Above all else, pay attention to your staff.
+    - Morale is contagious, and you, as leader, set the tone.
+    - If aiming at emotions, you must aim indirectly: get them to laugh or cry over something that seems unrelated to the issue at hand. Emotions are contagious - they bring people together and make them bond.
+
+# Part III: Defensive Warfare
+- To fight defensively, you must make the most of your resources, fighting with perfect economy and only battles that are necessary.
+- Second, you must know how and when to retreat, luring an aggressive enemy into an imprudent attack. Then, when exhausted, launch a vicious counterattack.
+- To fight this way, you must master the arts of deception.
+
+## Pick Your Battles Carefully: The Perfect-Economy Strategy
+- You must know your limits and pick your battles carefully.
+- Pyrrhic victories are much more common than you might think.
+- No person or group is completely weak or strong. You must make sure to assess and attack weaknesses.
+
+- **Keys to Warfare**
+  - Creativity gives you an edge over enemies dependent on technology; you will learn more, be more adaptable, and you will outsmart them.
+  - The next time you launch a campaign, try an experiment: think deeply about what you have first, then, let your plans and goals blossom.
+  - Do not mistake cheapness for perfect economy.
+  - Several tactics are key to fighting economically:
+  - The use of deception.
+  - Choosing opponents you can beat.
+  - Look for new opportunities and build momentum.
+
+- **Reversal**
+  - There is no value in fighting without economy, but it is always wise to make your opponent waste as many resources as possible.
+
+## Turn the Tables: The Counterattack Strategy
+- Moving first will often put you at a disadvantage: you are exposing your strategy and limiting your options.
+- Instead, let the other side move first, or bait opponents into rash attacks that will leave them in a weak position.
+- Playing weak and then catching them off guard with an attack is also a good tactic.
+- Make jujitsu your style in almost everything you do.
+
+- **Keys to Warfare**
+  - The first step in mastering the counterattack is to master yourself, and particularly the tendency to grow emotional in conflict.
+  - The key to the successful counterattack is staying calm while your opponent gets frustrated and irritable.
+  - Mirroring people - going back to them just what they give to you - is a powerful method of counterattack.
+  - In general, encouraging people to follow their natural direction, to give in to their greed or neuroses, will die you more control over them than active resistance will.
+  - The modern dilemma is that taking the offensive is unacceptable today--attack and your reputation will suffer, you will find yourself politically isolated, and you will create enemies and resistance. The counterattack is the answer. Let your enemy make the first move, then play the victim.
+
+## Create a Threatening Presence: Deterrence Strategies
+- The best way to fight off aggressors is to keep them from attacking you in the first place. To accomplish this you must create the impression of being more powerful than you are. Build up a reputation: You're a little crazy. Fighting you is not worth it. You take your enemies with you when you lose.
+- This art of deterrence rests on three basic facts about war and human nature: First, people are more likely to attack you if they see you as weak or vulnerable. Second, they cannot know for sure that you're weak; they depend on the signs you give out, through your behavior both present and past. Third, they are after easy victories, quick and bloodless. That is why they prey on the vulnerable and weak.
+- The following are five basic methods of deterrence and reverse intimidation. You can use them all in offensive warfare, but they are particularly effective in defence:
+  - **Surprise with a bold maneuver.**
+    - This will have two positive effects: First, they will tend to think your move is backed up by something real--they will not imagine you could be foolish enough to do something audacious just for effect. Second, they will start to see strengths and threats in you that they had not imagined.
+  - **Reverse the threat.**
+    - Turn the tables with a sudden move designed to scare them. Threaten something they value. You needn’t go too far, just inflict a little pain to indicate you are capable of worse.
+  - **Seem unpredictable and irrational.**
+    - In this instance you do something suggesting a slightly suicidal streak, as if you felt you had nothing to lose. You show that you are ready to take your enemies down with you, destroying their reputations in the process. (This is particularly effective with people who have a lot to lose themselves--powerful people with sterling reputations.)
+  - **Play on people's natural paranoia.**
+    - Instead of threatening your opponents openly, you take action that is indirect and designed to make them think. This might mean using a go-between to send them a message--to tell some disturbing story about what you are capable of. Or maybe you “inadvertently” let them spy on you, only to hear something that should give them cause for concern.
+  - **Establish a frightening reputation.**
+    - This reputation can be for any number of things: being difficult, stubborn, violent, ruthlessly efficient. Build up that image over the years and people will back off from you, treating you with respect and a little fear.
+
+## Trade Space for Time: The Nonengagement Strategy
+- Retreat in the face of a strong enemy is a sign not of weakness but of strength. By resisting the temptation to respond to an aggressor, you buy yourself valuable time--time to recover, to think, to gain perspective. Let your enemies advance; time is more important than space. By refusing to fight, you infuriate them and feed their arrogance. They will soon overextend themselves and start making mistakes.
+- **Keys to Warfare**
+- Your task as a strategist is simple: to see the differences between yourself and other people, to understand yourself, your side, and the enemy as well as you can, to get more perspective on events, to know things for what they are.
+
+
+# Part IV: Offensive Warfare
+- The greatest dangers in war, and in life, come from the unexpected: people do not respond the way you had thought they would, events mess up your plans and produce confusion, circumstances are overwhelming.
+- In strategy, the discrepancy between what you want to happen and what does happen is called friction.
+- The idea behind conventional offensive warfare is simple: by attacking the other side first, you create your own circumstances before friction can creep in.
+- To be successful at offensive warfare, you must plan in intense detail, thinking in terms of the whole campaign, not individual battles.
+
+
+## Lose Battles but Win the War: Grand Strategy
+- Grand strategy is the art of looking beyond the battle and calculating ahead. It requires focusing on the ultimate goal, and considering the politics and long-term consequences of what you do.
+- To become a grand strategist in life, you must follow the path of Alexander. First, clarify your life--decipher your own personal riddle--by determining what it is you are destined to achieve, the direction in which your skills and talents seem to push you. Visualize yourself fulfilling this destiny in glorious detail.
+- Ignore the conventional wisdom about what you should or should not be doing. It may make sense for some, but that does not mean it bears any relation to your own goals and destiny. You need to be patient enough to plot several steps ahead--to wage a campaign instead of fighting battles.
+- Your task as a grand strategist is to extend your vision in all directions--not only looking further into the future but also seeing more of the world around you, more than your enemy does.
+
+- **Keys to Warfare**
+  - The first step was to think beyond the immediate battle. Supposing you won victory, where would it leave you--better off or worse? To answer that question, the logical step was to think ahead, to the third and fourth battles on, which connected like links in a chain. The result was the concept of the campaign, in which the strategist sets a realistic goal and plots several steps ahead to get there.
+  - Grand strategy has four main principles. The more you can incorporate these principles into your plans, the better the results:
+  - **Focus on your greater goal, your destiny.**
+    - What have distinguished all history's grand strategists and can distinguish you, too, are specific, detailed, focused goals. Contemplate them day in and day out, and imagine how it will feel to reach them and what reaching them will look like. By a psychological law peculiar to humans, clearly visualizing them this way will turn into a self-fulfilling prophecy.
+    - Your goals must be rooted in reality. If they are simply beyond your means, essentially impossible for you to realize, you will grow discouraged, and discouragement can quickly escalate into a defeatist attitude. On the other hand, if your goals lack a certain dimension and grandeur, it can be hard to stay motivated. Do not be afraid to be bold.
+  - **Widen your perspective.**
+    - Grand strategy is a function of vision, of seeing further in time and space than the enemy does.
+    - Your task as a grand strategist is to force yourself to widen your view, to take in more of the world around you, to see things for what they are and for how they may play out in the future, not for how you wish them to be.
+  - **Severe the roots.**
+    - In a society dominated by appearances, the real source of a problem is sometimes hard to grasp. To work out a grand strategy against an enemy, you have to know what motivates him or is the source of his power - the roots.
+  - **Take the indirect route to your goal.**
+    - The greatest danger you face in strategy is losing the initiative and finding yourself constantly reacting to what the other side does. The solution, of course, is to plan ahead but also to plan subtly--to take the indirect route. Preventing your opponent from seeing the purpose of your actions gives you an enormous advantage.
+  - Whenever anything goes wrong, it is human nature to blame this person or that. Let other people engage in such stupidity, led around by their noses, seeing only what is immediately visible to the eye. You see things differently. When an action goes wrong--in business, in politics, in life--trace it back to the policy that inspired it in the first place. The goal was misguided.
+  - This means that you yourself are largely the agent of anything bad that happens to you. With more prudence, wiser policies, and greater vision, you could have avoided the danger. So when something goes wrong, look deep into yourself--not in an emotional way, to blame yourself or indulge your feelings of guilt, but to make sure that you start your next campaign with a firmer step and greater vision.
+
+## Know Your Enemy: The Intelligence Strategy
+- The target of your strategies should be less the army you face than the mind of the man or woman who runs it. If you understand how that mind works, you have the key to deceiving and controlling it.
+- Our natural tendency is to see other people as mere reflections of our own desires and values.
+- The best way to find the leader's weaknesses is not through spies but through the close embrace. Behind a friendly, even subservient front, you can observe your enemies, get them to open up and reveal themselves. Get inside their skin; think as they think. Once you discover their vulnerability--an uncontrollable temper, a weakness for the opposite sex, a gnawing insecurity--you have the material to destroy them.
+- **Keys to Warfare**
+  - The greatest power you could have in life would come neither from limitless resources nor even consummate skill in strategy. It would come from clear knowledge of those around you--the ability to read people like a book.
+  - In general, it is easier to observe people in action, particularly in moments of crisis. Those are the times when they either reveal their weakness or struggle so hard to disguise it that you can see through the mask.
+  - A warning: never rely on one spy, one source of information, no matter how good. You risk being played or getting slanted, one-sided information.
+  - Finally, the enemy you are dealing with is not an inanimate object that will simply respond in an expected manner to your strategies. Your enemies are constantly changing and adapting to what you are doing. Innovating and inventing on their own, they try to learn from their mistakes and from your successes. So your knowledge of the enemy cannot be static. Keep your intelligence up to date, and do not rely on the enemy's responding the same way twice.
+- **Reversal**
+  - Even as you work to know your enemies, you must make yourself as formless and difficult to read as possible. Since people really only have appearances to go on, they can be readily deceived. Act unpredictably now and then.
+
+## Overwhelm Resistance with Speed and Suddenness: The Blitzkrieg Strategy
+- In a world in which many people are indecisive and overly cautious, the use of speed will bring you untold power.
+- This strategy works best with a setup, a lull - your unexpected action catches your enemy off guard.
+- We live in a world in which speed is prized above almost all else, and acting faster than the other side has itself become the primary goal. But most often people are merely in a hurry, acting and reacting frantically to events, all of which makes them prone to error and wasting time in the long run. In order to separate yourself from the pack, to harness a speed that has devastating force, you must be organized and strategic. First, you prepare yourself before any action, scanning your enemy for weaknesses. Then you find a way to get your opponents to underestimate you, to lower their guard. When you strike unexpectedly, they will freeze up. When you hit again, it is from the side and out of nowhere. It is the unanticipated blow that makes the biggest impact.
+- **Keys to Warfare**
+  - Velocity creates a sense of vitality. Moving with speed means there is less time for you and your army to make mistakes. It also creates a bandwagon effect: more and more people admiring your boldness, will decide to join forces with you.
+  - This strategy can be particularly devastating for those who are particularly hesitant or afraid of making mistakes, or those who have divided leadership or internal cracks.
+- **Reversal**
+  - Appearing slow can be an advantage, particularly as a setup.
+  - In general, when facing a fast enemy, the only true defence is to be faster.
+
+
+## Control the Dynamic: Forcing Strategies
+- People are constantly struggling to control you--getting you to act in their interests, keeping the dynamic on their terms. The only way to get the upper hand is to make your play for control more intelligent and insidious.
+- Shift the conflict to terrain of your choice, altering the pace and stakes to suit you. Maneuver to control your opponents' minds, pushing their emotional buttons, and compelling them to make mistakes. If necessary, let them feel they are in control in order to get them to lower their guard.
+- **The Art of Ultimate Control**
+  - The superior strategist understands that it is impossible to control exactly how an enemy will respond to this move or that. To attempt to do so will only lead to frustration and exhaustion. There is too much in war and in life that is unpredictable. But if the strategist can control the mood and mind-set of his enemies, it does not matter exactly how they respond to his maneuvers. If he can make them frightened, panicky, overly aggressive, and angry, he controls the wider scope of their actions and can trap them mentally before cornering them physically.
+  - Control can be aggressive or passive. It can be an immediate push on the enemy, making him back up and lose the initiative. It can be playing possum, getting the enemy to lower his guard, or baiting him into a rash attack. The artist of control weaves both of these into a devastating pattern--hitting, backing off, baiting, overwhelming.
+  - There are four basic principles of the art:
+    - **Keep them on their heels.**
+      - Before the enemy makes a move, before the element of chance or the unexpected actions of your opponents can ruin your plans, you make an aggressive move to seize the initiative. You then keep up a relentless pressure, exploiting this momentary advantage to the fullest.
+    - **Shift the battlefield.**
+      - An enemy naturally wants to fight you on familiar terrain. Terrain in this sense means all of the details of the battle--the time and place, exactly what is being fought over, who is involved in the struggle, and so on. By subtly shifting your enemies into places and situations that are not familiar to them, you control the dynamic.
+    - **Compel mistakes.**
+      - Your enemies depend on executing a strategy that plays to their advantages, that has worked in the past. Your task is twofold: to fight the battle in such a way that they cannot bring their strength or strategy into play and to create such a level of frustration that they make mistakes in the process.
+    - **Assume passive control.**
+      - The ultimate form of domination is to make those on the other side think they are the ones in control. Believing they are in command, they are less likely to resist you or become defensive. You create this impression by moving with the energy of the other side, giving ground but slowly and subtly diverting them in the direction you desire. It is often the best way to control the overly aggressive and the passive-aggressive.
+      - To control the dynamic, you must be able to control yourself and your emotions. Getting angry and lashing out will only limit your options. And in conflict, fear is the most debilitating emotion of all.
+      - Before anything else you must lose your fear--of death, of the consequences of a bold maneuver, of other people's opinion of you. That single moment will suddenly open up vistas of possibilities. And in the end whichever side has more possibilities for positive action has greater control.
+
+
+## Hit Them Where it Hurts: The Center-of-Gravity Strategy
+- Everyone has a source of power on which he or she depends. When you look at your rivals, search below the surface for that source, the center of gravity that holds the entire structure together. That center can be their wealth, their popularity, a key position, a winning strategy. Hitting them there will inflict disproportionate pain. Find what the other side most cherishes and protects--that is where you must strike.
+- **Keys to Warfare**
+  - The key is analyzing the enemy force to determine its centers of gravity. In looking for those centers, it is crucial not to be misled by the intimidating or dazzling exterior, mistaking the outward appearance for what sets it in motion. You will probably have to take several steps, one by one, to uncover this ultimate power source, peeling away layer after layer.
+  - To find a group's center of gravity, you must understand its structure and the culture within which it operates. If your enemies are individuals, you must fathom their psychology, what makes them tick, the structure of their thinking and priorities.
+  - It is almost always strategically wise to disrupt your enemy's lines of communication; if the parts cannot communicate with the whole, chaos ensues.
+  - Your enemy's center of gravity can be something abstract, like a quality, concept, or aptitude on which he depends: his reputation, his capacity to deceive, his unpredictability. But such strengths become critical vulnerabilities if you can make them unattractive or unusable.
+
+
+## Defeat Them in Detail: The Divide-and-Conquer Strategy
+- When you look at your enemies, do not be intimidated by their appearance. Instead look at the parts that make up the whole. By separating the parts, sowing dissension and division from within, you can weaken and bring down even the most formidable foe.
+- In setting up your attack, work on their minds to create internal conflict. The joints are the weakest part of any structure.
+- The best way to make an enemy divide is to occupy the centre.
+- Think of battle or conflict as existing on a kind of chessboard. The chessboard's center can be physical--an actual place like Marathon--or more subtle and psychological: the levers of power within a group, the support of a critical ally, a troublemaker at the eye of the storm. Take the centre of the chessboard and the enemy will naturally break into parts, trying to hit you from more than one side.
+- To make people join you, separate them from their past. When you size up your targets, look for what connects them to the past, the source of their resistance to the new.
+- A joint is the weakest part of any structure. Break it and you divide people internally, making them vulnerable to suggestion and change. Divide their minds in order to conquer them.
+- **Keys to Warfare**
+  - The divide-and-conquer strategy has never been more effective than it is today: cut people off from their group--make them feel alienated, alone, and unprotected--and you weaken them enormously.
+  - Divide and rule is a powerful strategy for governing any group. It is based on a key principle: within any organization people naturally form smaller groups based on mutual self-interest--the primitive desire to find strength in numbers. These subgroups form power bases that, left unchecked, will threaten the organization as a whole.
+  - The solution is to divide to rule. To do so you must first establish yourself as the center of power; individuals must know they need to compete for your approval. There has to be more to be gained by pleasing the leader than by trying to form a power base within the group.
+  - The divide-and-rule strategy is invaluable in trying to influence people verbally. Start by seeming to take your opponents' side on some issue, occupying their flank. Once there, however, create doubt about some part of their argument, tweaking and diverting it a bit. This will lower their resistance and maybe create a little inner conflict about a cherished idea or belief. That conflict will weaken them, making them vulnerable to further suggestion and guidance.
+
+
+## Expose and Attack Your Opponent’s Soft Flank: The Turning Strategy
+- When you attack people directly, you stiffen their resistance and make your task that much harder. There is a better way: distract your opponents' attention to the front, then attack them from the side, where they least expect it.
+- Individuals often show their flank, signal their vulnerability, by its opposite, the front they show most visibly to the world.
+- Life is full of hostility--some of it overt, some clever and under-handed. Conflict is inevitable; you will never have total peace.
+- At all cost you must gain control of the impulse to fight your opponents directly. Instead occupy their flank. Disarm them and make them your ally; you can decide later whether to keep them on your side or to exact revenge. Taking the fight out of people through strategic acts of kindness, generosity, and charm will clear your path, helping you to save energy for the fights you cannot avoid.
+- **Keys to Warfare**
+  - The people who win true power in the difficult modern world are those who have learned indirection. They know the value of approaching at an angle, disguising their intentions, lowering the enemy's resistance, hitting the soft, exposed flank instead of butting horns. Rather than try to push or pull people, they coax them to turn in the direction they desire. This takes effort but pays dividends down the road in reduced conflict and greater results.
+  - The key to any flanking maneuver is to proceed in steps. Your initial move cannot reveal your intentions or true line of attack.
+  - When people present their ideas and arguments, they often censor themselves, trying to appear more conciliatory and flexible than is actually the case. If you attack them directly from the front, you end up not getting very far, because there isn't much there to aim at. Instead try to make them go further with their ideas, giving you a bigger target. Do this by standing back, seeming to go along, and baiting them into moving rashly ahead. (You can also make them emotional, pushing their buttons, getting them to say more than they had wanted to.) They will expose themselves on a weak salient, advancing an indefensible argument or position that will make them look ridiculous. The key is never to strike too early. Give your opponents time to hang themselves.
+  - The more subtle and indirect your maneuvers in life, the better.
+  - The ultimate evolution of strategy is toward more and more indirection. An opponent who cannot see where you are heading is at a severe disadvantage.
+
+
+## Envelop the Enemy: The Annihilation Strategy
+- People will use any kind of gap in your defenses to attack you or revenge themselves on you. So offer no gaps. The secret is to envelop your opponents--create relentless pressure on them from all sides, dominate their attention, and close off their access to the outside world. Make your attacks unpredictable to create a vaporous feeling of vulnerability. Finally, as you sense their weakening resolve, crush their willpower by tightening the noose. The best encirclements are psychological--you have surrounded their minds.
+
+- **Keys to Warfare**
+  - There are many ways to envelop your opponents, but perhaps the simplest is to put whatever strength or advantage you naturally have to maximum use in a strategy of enclosure.
+  - To envelop your enemies, you must use whatever you have in abundance. If you have a large army, use it to create the appearance that your forces are everywhere, an encircling pressure.
+  - **Remember: the power of envelopment is ultimately psychological. Making the other side feel vulnerable to attack on many sides is as good as enveloping them physically.**
+  - Often, in fact, less is more here: too many blows will give you a shape, a personality--something for the other side to respond to and develop a strategy to combat. Instead seem vaporous. Make your maneuvers impossible to anticipate.
+  - The best encirclements are those that prey on the enemy's preexisting, inherent vulnerabilities. Be attentive, then, to signs of arrogance, rashness, or other psychological weakness.
+  - The impetuous, violent, and arrogant are particularly easy to lure into the traps of envelopment strategies: play weak or dumb and they will charge ahead without stopping to think where they're going.
+
+- **Reversal**
+  - The danger of envelopment is that unless it is completely successful, it may leave you in a vulnerable position.
+
+
+## Maneuver Them Into Weakness: The Ripening-for-the-Sickle Strategy
+- No matter how strong you are, fighting endless battles with people is exhausting, costly, and unimaginative. Wise strategists generally prefer the art of maneuver: before the battle even begins, they find ways to put their opponents in positions of such weakness that victory is easy and quick. Bait enemies into taking positions that may seem alluring but are actually traps and blind alleys. If their position is strong, get them to abandon it by leading them on a wild-goose chase. Create dilemmas: devise maneuvers that give them a choice of ways to respond--all of them bad. Channel chaos and disorder in their direction. Confused, frustrated, and angry opponents are like ripe fruit on the bough: the slightest breeze will make them fall.
+
+- **Maneuver Warfare**
+  - In a society full of attrition fighters, you will gain an instant advantage by converting to maneuver. Your thought process will become more fluid, more on the side of life, and you will be able to thrive off the rigid, battle-obsessed tendencies of the people around you.
+  - The following are the four main principles of maneuver warfare:
+    - **Craft a plan with branches.**
+      - Maneuver warfare depends on planning, and the plan has to be right. Too rigid and you leave yourself no room to adjust to the inevitable chaos and friction of war; too loose and unforeseen events will confuse and overwhelm you. The perfect plan stems from a detailed analysis of the situation, which allows you to decide on the best direction to follow or the perfect position to occupy and suggests several effective options (branches) to take, depending on what the enemy throws at you.
+    - **Give yourself room to maneuver.**
+      - You cannot be mobile, you cannot maneuver freely, if you put yourself in cramped spaces or tie yourself down to positions that do not allow you to move. Consider the ability to move and keeping open more options than your enemy has as more important than holding territories or possessions. You want open space, not dead positions. This means not burdening yourself with commitments that will limit your options.
+    - **Give your enemy dilemmas, not problems.**
+      - Most of your opponents are likely to be clever and resourceful; if your maneuvers simply present them with a problem, they will inevitably solve it. But a dilemma is different: whatever they do, however they respond--retreat, advance, stay still--they are still in trouble. Make every option bad: if you maneuver quickly to a point, for instance, you can force your enemies either to fight before they are ready or to retreat. Try constantly to put them in positions that seem alluring but are traps.
+    - **Create maximum disorder.**
+      - Your enemy depends on being able to read you, to get some sense of your intentions. The goal of your maneuvers should be to make that impossible, to send the enemy on a wild-goose chase for meaningless information, to create ambiguity as to which way you are going to jump.
+      - If you meet the dynamic situations of life with plans that are rigid, if you think of only holding static positions, if you rely on technology to control any friction that comes your way, you are doomed: events will change faster than you can adjust to them, and chaos will enter your system.
+      - Use this strategy in the battles of daily life, letting people commit themselves to a position you can turn into a dead end. Never say you are strong, show you are, by making a contrast between yourself and your inconsistent or moderate opponents.
+      - The greatest power you can have in any conflict is the ability to confuse your opponent about your intentions.
+      - The goal of maneuver is to give you easy victories, which you do by luring opponents into leaving their fortified positions of strength for unfamiliar terrain where they must fight off balance.
+
+
+## Negotiate While Advancing: The Diplomatic-War Strategy
+- People will always try to take from you in negotiation what they could not get from you in battle or direct confrontation. They will even use appeals to fairness and morality as a cover to advance their position. Do not be taken in: negotiation is about maneuvering for power or placement, and you must always put yourself in the kind of strong position that makes it impossible for the other side to nibble away at you during your talks. Before and during negotiations, you must keep advancing, creating relentless pressure and compelling the other side to settle on your terms. The more you take, the more you can give back in meaningless concessions. Create a reputation for being tough and uncompromising, so that people are back on their heels before they even meet you.
+- Those who believe, against the evidence, that niceness breeds niceness in return are doomed to failure in any kind of negotiation, let alone in the game of life. People respond in a nice and conciliatory way only when it is in their interest and when they have to do so. Your goal is to create that imperative by making it painful for them to fight.
+- Sometimes in life you will find yourself holding the weak hand, the hand without any real leverage. At those times it is even more important to keep advancing. By demonstrating strength and resolve and maintaining the pressure, you cover up your weaknesses and gain footholds that will let you manufacture leverage for yourself.
+- **Understand**: if you are weak and ask for little, little is what you will get. But if you act strong, making firm, even outrageous demands, you will create the opposite impression: people will think that your confidence must be based on something real. You will earn respect, which in turn will translate into leverage. Once you are able to establish yourself in a stronger position, you can take this further by refusing to compromise, making it clear that you are willing to walk away from the table--an effective form of coercion. The other side may call your bluff, but you make sure there's a price to pay for this--bad publicity, for instance. And if in the end you do compromise a little, it will still be a lot less than the compromises they would have forced on you if they could.
+
+
+## Know How to End Things: The Exit Strategy
+- You are judged in this world by how well you bring things to an end. A messy or incomplete conclusion can reverberate for years to come, ruining your reputation in the process. The art of ending things well is knowing when to stop, never going so far that you exhaust yourself or create bitter enemies that embroil you in conflict in the future. It also entails ending on the right note, with energy and flair. It is not a question of simply winning the war but the way you win it, the way your victory sets you up for the next round. The height of strategic wisdom is to avoid all conflicts and entanglements from which there are no realistic exits.
+- The worst way to end anything--a war, a conflict, a relationship--is slowly and painfully. The costs of such an ending run deep: loss of self-confidence, unconscious avoidance of conflict the next time around, the bitterness and animosity left breeding--it is all an absurd waste of time. Before entering any action, you must calculate in precise terms your exit strategy. How exactly will the engagement end, and where it will leave you?
+- And if you do find you have made this mistake, you have only two rational solutions: either end the conflict as quickly as you can, with a strong, violent blow aimed to win, accepting the costs and knowing they are better than a slow and painful death, or cut your losses and quit without delay.
+
+- **Keys to Warfare**
+  - Endings in purely social relationships demand a sense of the culminating point as much as those in war.
+  - Overstaying your welcome, boring people with your presence, is the deepest failing: you should leave them wanting more of you, not less. You can accomplish this by bringing the conversation or encounter to an end a moment before the other side expects it. Leave too soon and you may seem timid or rude, but do your departure right, at the peak of enjoyment and liveliness (the culminating point), and you create a devastatingly positive afterglow.
+  - Since defeat is inevitable in life, you must master the art of losing well and strategically. First, think of your own mental outlook, how you absorb defeat psychologically. See it as a temporary setback, something to wake you up and teach you a lesson, and even as you lose, you end on a high note and with an edge: you are mentally prepared to go on the offensive in the next round.
+  - Second, you must see any defeat as a way to demonstrate something positive about yourself and your character to other people. This means standing tall, not showing signs of bitterness or becoming defensive.
+  - Third, if you see that defeat is inevitable, it is often best to go down swinging. That way you end on a high note even as you lose. This helps to rally the troops, giving them hope for the future.
+  - Planting the seeds of future victory in present defeat is strategic brilliance of the highest order.
+
+
+# Part V: Unconventional (Dirty) Warfare
+- Dirty war is political, deceptive, and supremely manipulative. Often the last recourse of the weak and desperate, it uses any means available to level the playing field.
+- The unconventional has its own logic that you must understand.
+- First, nothing stays new for long. Those who depend on novelty must constantly come up with some fresh idea that goes against the orthodoxies of the time.
+- Second, people who use unconventional methods are very hard to fight. The classic, direct route--the use of force and strength--does not work. You must use indirect methods to combat indirection, fight fire with fire, even at the cost of going dirty yourself. To try to stay clean out of a sense of morality is to risk defeat.
+
+
+## Weave a Seamless Blend of Fact and Fiction: Misperception Strategies
+- Since no creature can survive without the ability to see or sense what is going on around it, you must make it hard for your enemies to know what is going on around them, including what you are doing. Disturb their focus and you weaken their strategic powers. People's perceptions are filtered through their emotions; they tend to interpret the world according to what they want to see. Feed their expectations, manufacture a reality to match their desires, and they will fool themselves. The best deceptions are based on ambiguity, mixing fact and fiction so that the one cannot be disentangled from the other. Control people's perceptions of reality and you control them.
+- More than likely, your concept of deception is wrong. It does not entail elaborate illusions or all sorts of showy distractions. Deception should mirror reality.
+- Your false mirror must conform to people’s desires and expectations. It must incorporate things that are visibly true. It must seem somewhat banal, like life itself, and can have contradictions.
+- **Keys to Warfare**
+  - In essence, military deception is about subtly manipulating and distorting signs of our identity and purpose to control the enemy's vision of reality and get them to act on their misperceptions. It is the art of managing appearances, and it can create a decisive advantage for whichever side uses it better.
+  - To master this art, you must embrace its necessity and find creative pleasure in manipulating appearances-as if you were directing a film.
+  - The following are six main forms of military deception, each with its own advantage:
+    - **The false front.**
+      - This is the oldest form of military deception. It originally involved making the enemy believe that one was weaker than in fact was the case.
+      - The *appearance* of weakness often brings out people's aggressive side, making them drop strategy and prudence for an emotional and violent attack.
+      - Controlling the front you present to the world is the most critical deceptive skill.
+      - The best front here is weakness, which will make the other side feel superior to you, so that they either ignore you (and being ignored is very valuable at times) or are baited into an aggressive action at the wrong moment. Once it is too late, once they are committed, they can find out the hard way that you are not so weak after all.
+      - In the battles of daily life, making people think they are better than you are--smarter, stronger, more competent--is often wise.
+    - **The decoy attack.**
+      - The key to this tactic is that instead of relying on words or rumors or planted information, the army really moves. It makes a concrete action. The enemy forces cannot afford to guess whether a deception is in the works: if they guess wrong, the consequences are disastrous.
+      - The decoy attack is also a critical strategy in daily life, where you must retain the power to hide your intentions. To keep people from defending the points you want to attack, you must follow the military model and make real gestures toward a goal that does not interest you.
+    - Actions carry such weight and seem so real that people will naturally assume that is your real goal.
+    - **Camouflage.**
+      - The ability to blend into the environment is one of the most terrifying forms of military deception.
+      - The camouflage strategy can be applied to daily life in two ways. First, it is always good to be able to blend into the social landscape, to avoid calling attention to yourself unless you choose to do so. When you talk and act like everyone else, mimicking their belief systems, when you blend into the crowd, you make it impossible for people to read anything particular in your behavior. That gives you great room to move and plot without being noticed.
+      - Second, if you are preparing an attack of some sort and begin by blending into the environment, showing no sign of activity, your attack will seem to come out of nowhere, doubling its power.
+    - **The hypnotic pattern.**
+      - Human beings naturally tend to think in patterns.
+      - This mental habit offers excellent ground for deception. Deliberately create a pattern to make your enemies believe that your next action will follow true to form.
+    - **Planted information.**
+      - People are much more likely to believe something they see with their own eyes than something they are told. They are more likely to believe something they discover than something pushed at them. If you plant the false information you desire them to have--with third parties, in neutral territory--when they pick up the clues, they have the impression they are the ones discovering the truth. The more you can make them dig for their information, the more deeply they will delude themselves.
+      - No matter how good a liar you are, when you deceive, it is hard to be completely natural. Your tendency is to try so hard to seem natural and sincere that it stands out and can be read. That is why it is so effective to spread your deceptions through people whom you keep ignorant of the truth--people who believe the lie themselves.
+    - **Shadows within shadows.**
+      - Deceptive maneuvers are like shadows deliberately cast: the enemy responds to them as if they were solid and real, which in and of itself is a mistake. In a sophisticated, competitive world, however, both sides know the game, and the alert enemy will not necessarily grasp at the shadow you have thrown. So you have to take the art of deception to a level higher, casting shadows within shadows, making it impossible for your enemies to distinguish between fact and fiction.
+      - If you are trying to mislead your enemies, it is often better to concoct something ambiguous and hard to read, as opposed to an outright deception.
+      - By creating something that is simply ambiguous, though, by making everything blurry, there is no deception to uncover.
+
+- **Reversal**
+  - To be caught in a deception is dangerous. If you don’t know that your cover is blown, your enemies now have more information than you do and you become their tool.
+  - Always leave yourself an escape route, a cover story that can protect you if exposed.
+
+
+## Take the Line of Least Expectation: The Ordinary-Extraordinary Strategy
+- People expect your behavior to conform to known patterns and conventions. Your task as a strategist is to upset their expectations. Surprise them and chaos and unpredictability--which they try desperately to keep at bay--enter their world, and in the ensuing mental disturbance, their defenses are down and they are vulnerable. First, do something ordinary and conventional to fix their image of you, then hit them with the extraordinary. The terror is greater for being so sudden. Never rely on an unorthodox strategy that worked before--it is conventional the second time around. Sometimes the ordinary is extraordinary because it is unexpected.
+
+- **Unconventional Warfare**
+  - Unconventional warfare has four main principles, as gleaned from the great practitioners of the art.
+    - **Work outside the enemy’s experience.**
+      - Know your enemies well, then contrive a strategy that goes outside their experience.
+    - **Unfold the extraordinary out of the ordinary.**
+      - Fix your opponents’ expectations with some banal, ordinary maneuver, and then hit them with the extraordinary, a show of stunning force from an entirely new angle.
+    - **Act crazy like a fox.**
+      - Upon occasion, allow yourself to operate in a way that is deliberately irrational, to frighten people.
+      - As an alternative, act somewhat randomly. Randomness is disturbing to humans.
+    - **Keep the wheels in constant motion.**
+      - Make a point of breaking the habits you have developed, of acting in a way that is contrary to the way you acted in the past.
+      - When striving to create the extraordinary, always remember: what is crucial is the mental process, not the image or maneuver itself. What will truly shock and linger long in the mind are those works and ideas that grow out of the soil of the ordinary and banal, that are unexpected, that make us question and contest the very nature of the reality we see around us.
+
+## Occupy the Moral High Ground: The Righteous Strategy
+- In a political world, the cause you are fighting for must seem more just than the enemy's. Think of this as moral terrain that you and the other side are fighting over; by questioning your enemies' motives and making them appear evil, you can narrow their base of support and room to maneuver. Aim at the soft spots in their public image, exposing any hypocrisies on their part. Never assume that the justice of your cause is self-evident; publicize and promote it. When you yourself come under moral attack from a clever enemy, do not whine or get angry; fight fire with fire. If possible, position yourself as the underdog, the victim, the martyr. Learn to inflict guilt as a moral weapon.
+- **Understand**: you cannot win wars without public and political support, but people will balk at joining your side or cause unless it seems righteous and just.
+- You quote your enemies' own words back at them to make your attacks seem fair, almost disinterested. You create a moral taint that sticks to them like glue. Baiting them into a heavy-handed counterattack will win you even more public support.
+
+- **Keys to Warfare**
+  - When your enemies try to present themselves as more justified than you are, and therefore more moral, you must see this move for what it most often is: not a reflection of morality, of right and wrong, but a clever strategy, an exterior maneuver.
+  - You can recognize an exterior maneuver in a number of ways. First, the moral attack often comes out of left field, having nothing to do with what you imagine the conflict is about.
+  - Second, the attack is often ad hominem; rational argument is met with the emotional and personal. Your character, rather than the issue you are fighting over, becomes the ground of the debate.
+  - Appearances and reputation rule in today's world; letting the enemy frame these things to its liking is akin to letting it take the most favorable position on the battlefield.
+  - In working to spoil your enemy's moral reputation, do not be subtle. Make your language and distinctions of good and evil as strong as possible; speak in terms of black and white. It is hard to get people to fight for a gray area.
+  - Revealing your opponent's hypocrisies is perhaps the most lethal offensive weapon in the moral arsenal: people naturally hate hypocrites.
+  - This will work, however, only if the hypocrisy runs deep; it has to show up in their values.
+
+
+## Deny Them Targets: The Strategy of the Void
+- The feeling of emptiness or void--silence, isolation, nonengagement with others--is for most people intolerable. As a human weakness, that fear offers fertile ground for a powerful strategy: give your enemies no target to attack, be dangerous but elusive and invisible, then watch as they chase you into the void. This is the essence of guerrilla warfare. Instead of frontal battles, deliver irritating but damaging side attacks and pinprick bites. Frustrated at their inability to use their strength against your vaporous campaign, your opponents will grow irrational and exhausted. Make your guerrilla war part of a grand political cause--a people's war--that crests in an irresistible revolution.
+- The bigger your enemy, the better this strategy works: struggling to reach you, the oversize opponent presents juicy targets for you to hit.
+- **Keys to Warfare**
+  - The primary consideration should always be whether a guerrilla-style campaign is appropriate for the circumstances you are facing. It is especially effective, for instance, against an opponent who is aggressive yet clever.
+  - Having nothing to strike at neutralizes their cleverness, and their aggression becomes their downfall.
+  - It is interesting to note that this strategy works in love as well as in war and that here, too.
+  - This strategy of the void works wonders on those who are used to conventional warfare.
+  - Large bureaucracies are often perfect targets for a guerrilla strategy for the same reason: they are capable of responding only in the most orthodox manner.
+  - Once you have determined that a guerrilla war is appropriate, take a look at the army you will use. A large, conventional army is never suitable; fluidity and the ability to strike from many angles are what counts. The organizational model is the cell--a relatively small group of men and women, tight-knit, dedicated, self-motivated, and spread out. These cells should penetrate the enemy camp itself.
+  - You will win your guerrilla war in one of two ways. The first route is to increase the level of your attacks as your enemies deteriorate, then finish them off.
+  - The other method is by turning sheer exhaustion to your advantage: you just let the enemy give up, for the fight is no longer worth the aggravation. The latter way is the better one. It costs you less in resources, and it looks better: the enemy has fallen on his own sword.
+  - Remember: this war is psychological. It is more on the level of strategy than anything else that you give the enemy nothing to hold on to, nothing tangible to counter.
+
+
+## Seem to Work for the Interests of Others While Furthering Your Own: The Alliance Strategy
+- The best way to advance your cause with the minimum of effort and bloodshed is to create a constantly shifting network of alliances, getting others to compensate for your deficiencies, do your dirty work, fight your wars, spend energy pulling you forward. The art is in choosing those allies who fit the needs of the moment and fill the gaps in your power. Give them gifts, offer them friendship, help them in time of need--all to blind them to reality and put them under subtle obligation to you. At the same time, work to sow dissension in the alliances of others, weakening your enemies by isolating them. While forming convenient coalitions, keep yourself free of negative entanglements.
+- A common mistake is to think that the more allies we have, the better; but quality is more important than quantity.
+- **Understand**: the perfect allies are those who give you something you cannot get on your own. They have the resources you lack. They will do your dirty work for you or fight your battles.
+- No one can get far in life without allies. The trick, however, is to recognize the difference between false allies and real ones. A false alliance is created out of an immediate emotional need. It requires that you give up something essential about yourself and makes it impossible for you to make your own decisions. A true alliance is formed out of mutual self-interest, each side supplying what the other cannot get alone. It does not require you to fuse your own identity with that of a group or pay attention to everyone else's emotional needs. It allows you autonomy.
+- **Keys to Warfare**
+  - The first step is to understand that all of us constantly use other people to help and advance ourselves.
+  - There is no shame in this, no need to ever feel guilty. Nor should we take it personally when we realize that someone else is using us; using people is a human and social necessity.
+  - Next, with this understanding in mind, you must learn to make these necessary alliances strategic ones, aligning yourself with people who can give you something you cannot get on your own. This requires that you resist the temptation to let your decisions about alliances be governed by your emotions; your emotional needs are what your personal life is for, and you must leave them behind when you enter the arena of social battle.
+  - One of the best stratagems in the Alliance Game is to begin by seeming to help another person in some cause or fight, only for the purpose of furthering your own interests in the end.
+  - A variation on the Alliance Game is to play the mediator, the center around which other powers pivot. While remaining covertly autonomous, you make those around you fight for your allegiance.
+  - The brilliance of this variation is that merely by assuming a central position, you can wield tremendous power.
+  - A key component of the Alliance Game is the ability to manipulate other people's alliances and even destroy them, sowing dissension among your opponents so that they fight among themselves. Breaking your enemy's alliances is as good as making alliances yourself.
+  - Your focus here is on stirring up mistrust.
+
+
+## Give Your Rivals Enough Rope to Hang Themselves: The One-Upmanship Strategy
+Life's greatest dangers often come not from external enemies but from our supposed colleagues and friends, who pretend to work for the common cause while scheming to sabotage us and steal our ideas for their gain. Although, in the court in which you serve, you must maintain the appearance of consideration and civility, you also must learn to defeat these people. Work to instill doubts and insecurities in such rivals, getting them to think too much and act defensively. Bait them with subtle challenges that get under their skin, triggering an overreaction, an embarrassing mistake. The victory you are after is to isolate them. Make them hang themselves through their own self-destructive tendencies, leaving you blameless and clean.
+- **The Art of One-Upmanship**
+  - Throughout your life you will find yourself fighting on two fronts. First is the external front, your inevitable enemies--but second and less obvious is the internal front, your colleagues and fellow courtiers, many of whom will scheme against you, advancing their own agendas at your expense.
+  - **Understand**: internal warfare is by nature unconventional. Since people theoretically on the same side usually do their best to maintain the appearance of being team players working for the greater good, complaining about them or attacking them will only make you look bad and isolate you.
+  - You need to adopt a form of warfare suited to these nebulous yet dangerous battles, which go on every day. And the unconventional strategy that works best in this arena is the art of one-upmanship. Developed by history's savviest courtiers, it is based on two simple premises: first, your rivals harbor the seeds of their own self-destruction, and second, a rival who is made to feel defensive and inferior, however subtly, will tend to act defensive and inferior, to his or her detriment.
+  - When you sense you have colleagues who may prove dangerous--or are actually already plotting something--you must try first to gather intelligence on them. Look at their everyday behavior, their past actions, their mistakes, for signs of their flaws
+  - Begin by doing something to prick the underlying wound, creating doubt, insecurity, and anxiety. It might be an offhand comment or something that your victims sense as a challenge to their position within the court. Your goal is not to challenge them blatantly, though, but to get under their skin: they feel attacked but are not sure why or how. The result is a vague, troubling sensation. A feeling of inferiority creeps in.
+  - You then follow up with secondary actions that feed their doubts. Here it is often best to work covertly, getting other people, the media, or simple rumor to do the job for you. The endgame is deceptively simple: having piled up enough self-doubt to trigger a reaction, you stand back and let the target self-destruct. You must avoid the temptation to gloat or get in a last blow; at this point, in fact, it is best to act friendly, even offering dubious assistance and advice. Your targets' reaction will be an overreaction.
+  - The worst colleagues and comrades are often the ones with inflated egos, who think everything they do is right and worthy of praise. Subtle mockery and disguised parody are brilliant ways of one-upping these types.
+  - The easiest types to one-up are those who are rigid. Being rigid does not necessarily mean being humorless or charmless, but it does mean being intolerant of anything that breaks their code of acceptable behavior.
+
+
+## Take Small Bites: The Fait Accompli Strategy
+- If you seem too ambitious, you stir up resentment in other people; overt power grabs and sharp rises to the top are dangerous, creating envy, distrust, and suspicion. Often the best solution is to take small bites, swallow little territories, playing upon people's relatively short attention spans. Stay under the radar and they won't see your moves. And if they do, it may already be too late; the territory is yours, a fait accompli. You can always claim you acted out of self-defense. Before people realize it, you have accumulated an empire.
+- **Keys to Warfare**
+  - The truth is that most people are conservative by nature. Desperate to keep what they have, they dread the unforeseen consequences and situations that conflict inevitably brings. They hate confrontation and try to avoid it.
+  - The strategy works as follows: Suppose there is something you want or need for your security and power. Take it without discussion or warning and you give your enemies a choice, either to fight or to accept the loss and leave you alone. Is whatever you have taken, and your unilateral action in taking it, worth the bother, cost, and danger of waging war?
+  - The key to the fait accompli strategy is to act fast and without discussion. If you reveal your intentions before taking action, you will open yourself to a slew of criticisms, analyses, and questions.
+  - Finally, the use of the piecemeal strategy to disguise your aggressive intentions is invaluable in these political times, but in masking your manipulations you can never go too far. So when you take a bite, even a small one, make a show of acting out of self-defense. It also helps to appear as the underdog.
+  - In fact, it would be the height of wisdom to make your bite a little larger upon occasion and then giving back some of what you have taken. People see only your generosity and your limited actions, not the steadily increasing empire you are amassing.
+
+
+## Penetrate Their Minds: Communication Strategies
+- Communication is a kind of war, its field of battle the resistant and defensive minds of the people you want to influence. The goal is to advance, to penetrate their defenses and occupy their minds. Anything else is ineffective communication, self-indulgent talk. Learn to infiltrate your ideas behind enemy lines, sending messages through little details, luring people into coming to the conclusions you desire and into thinking they've gotten there by themselves. Some you can trick by cloaking your extraordinary ideas in ordinary forms; others, more resistant and dull, must be awoken with extreme language that bristles with newness. At all cost, avoid language that is static, preachy, and overly personal. Make your words a spark for action, not passive contemplation.
+- To communicate in a deep and real way, you must bring people back to their childhood, when they were less defensive and more impressed by sounds, images, actions, a world of preverbal communication. It requires speaking a kind of language composed of actions, all strategically designed to effect people's moods and emotions, what they can least control.
+- It is imperative in life's battles to be able to communicate your ideas to people, to be able to alter their behavior.
+- **Understand**: you may have brilliant ideas, the kind that could revolutionize the world, but unless you can express them effectively, they will have no force, no power to enter people's minds in a deep and lasting way. You must focus not on yourself or on the need you feel to express what you have to say but on your audience--as intently as a general focuses on the enemy he is strategizing to defeat. When dealing with people who are bored and have short attention spans, you must entertain them, sneaking your ideas in through the back door. With leaders you must be careful and indirect, perhaps using third parties to disguise the source of the ideas you are trying to spread. With the young your expression must be more violent. In general, your words must have movement, sweeping readers along, never calling attention to their own cleverness. You are not after personal expression, but power and influence. The less people consciously focus on the communicative form you have chosen, the less they realize how far your dangerous ideas are burrowing into their minds.
+- **Keys to Warfare**
+  - What you need to pay attention to is not simply the content of your communication but the form--the way you lead people to the conclusions you desire, rather than telling them the message in so many words. If you want people to change a bad habit, for example, much more effective than simply trying to persuade them to stop is to show them--perhaps by mirroring their bad behavior in some way--how annoying that habit feels to other people.
+  - If you want to communicate an important idea, you must not preach; instead make your readers or listeners connect the dots and come to the conclusion on their own.
+  - Silence, for instance, can be used to great effect: by keeping quiet, not responding, you say a lot; by not mentioning something that people expect you to talk about, you call attention to this ellipsis, make it communicate.
+  - In putting this strategy into practice, avoid the common mistake of straining to get people's attention by using a form that is shocking or strange. The attention you get this way will be superficial and short-lived. By using a form that alienates a wide public, you narrow your audience; you will end up preaching to the converted.
+
+- **Reversal**
+  - Even as you plan your communications to make them more consciously strategic, you must develop the reverse ability to decode the subtexts, hidden messages, and unconscious signals in what other people say. When people speak in vague generalities, for example, and use a lot of abstract terms like justice, morality, liberty, and so on, without really ever explaining the specifics of what they are talking about, they are almost always hiding something.
+  - Meanwhile people who use cutesy, colloquial language, brimming with cliches and slang, may be trying to distract you from the thinness of their ideas, trying to win you over not by the soundness of their arguments but by making you feel chummy and warm toward them.
+  - And people who use pretentious, flowery language, crammed with clever metaphors, are often more interested in the sound of their own voices than in reaching the audience with a genuine thought.
+
+
+## Destroy from Within: The Inner-Front Strategy
+- A war can only really be fought against an enemy who shows himself. By infiltrating your opponents' ranks, working from within to bring them down, you give them nothing to see or react against--the ultimate advantage. From within, you also learn their weaknesses and open up possibilities of sowing internal dissension. So hide your hostile intentions. To take something you want, do not fight those who have it, but rather join them--then either slowly make it your own or wait for the moment to stage a coup d'etat. No structure can stand for long when it rots from within.
+- **Keys to Warfare**
+  - The basic principle here is that it is easiest to topple a structure--a wall, a group, a defensive mind--from the inside out.
+  - A variation on the lotus strategy is to befriend your enemies, worming your way into their hearts and minds. As your targets' friend, you will naturally learn their needs and insecurities, the soft interior they try so hard to hide.
+  - For a more immediate effect, you can try a sudden act of kindness and generosity that gets people to lower their defenses--the Trojan Horse strategy.
+  - The main weakness in any conspiracy is usually human nature: the higher the number of people who are in on the plot, the higher the odds that someone will reveal it, whether deliberately or accidentally.
+  - There are a few precautions you can take. Keep the number of conspirators as small as possible. Involve them in the details of the plot only as necessary; the less they know, the less they have to blab. Revealing the schedule of your plan as late as possible before you all act will give them no time to back out. Then, once the plan is described, stick to it.
+  - Too few conspirators and you lack the strength to control the consequences; too many and the conspiracy will be exposed before it bears fruit..
+  - In destroying anything from within, you must be patient and resist the lure of large-scale, dramatic action.
+  - Finally, morale plays a crucial part in any war, and it is always wise to work to undermine the morale of the enemy troops.
+
+- **Reversal**
+- There are always likely to be disgruntled people in your own group who will be liable to turning against you from the inside. The worst mistake is to be paranoid, suspecting one and all and trying to monitor their every move. Your only real safeguard against conspiracies and saboteurs is to keep your troops satisfied, engaged in their work, and united by their cause.
+
+
+## Dominate While Seeming to Submit: The Passive-Aggression Strategy
+- Any attempt to bend people to your will is a form of aggression. And in a world where political considerations are paramount, the most effective form of aggression is the best-hidden one: aggression behind a compliant, even loving exterior. To follow the passive-aggressive strategy, you must seem to go along with people, offering no resistance. But actually you dominate the situation. You are noncommittal, even a little helpless, but that only means that everything revolves around you. Some people may sense what you are up to and get angry. Don't worry--just make sure you have disguised your aggression enough that you can deny it exists. Do it right and they will feel guilty for accusing you. Passive aggression is a popular strategy; you must learn how to defend yourself against the vast legions of passive-aggressive warriors who will assail you in your daily life.
+- **Keys to Warfare**
+  - We humans have a particular limitation to our reasoning powers that causes us endless problems: when we are thinking about someone or about something that has happened to us, we generally opt for the simplest, most easily digestible interpretation.
+  - An acquaintance is good or bad, nice or mean, his or her intentions noble or nefarious; an event is positive or negative, beneficial or harmful; we are happy or sad.
+  - The truth is that nothing in life is ever so simple. People are invariably a mix of good and bad qualities, strengths and weaknesses.
+  - This tendency of ours to judge things in simple terms explains why passive aggression is so devilishly effective as a strategy and why so many people use it--consciously and unconsciously.
+  - There are two kinds of passive aggression. The first is conscious strategy as practiced by Metternich. The second is a semiconscious or even unconscious behavior that people use all the time in the petty and not-so-petty matters of daily life.
+  - We are generally too lenient with this second variety.
+  - **Remember**: it is never wise to seem too eager for power, wealth, or fame. Your ambition may carry you to the top, but you will not be liked and will find your unpopularity a problem. Better to disguise your maneuvers for power: you do not want it but have found it forced upon you. Being passive and making others come to you is a brilliant form of aggression.
+  - Subtle acts of sabotage can work wonders in the passive-aggressive strategy because you can camouflage them under your friendly, compliant front.
+  - Passive aggression is so common in daily life that you have to know how to play defense as well as offense.First, you must understand why passive aggression has become so omnipresent.
+  - Most often their behavior is relatively harmless: perhaps they are chronically late, or make flattering comments that hide a sarcastic sting, or offer help but never follow through. These common tactics are best ignored; just let them wash over you as part of the current of modern life, and never take them personally. You have more important battles to fight.
+  - There are, however, stronger, more harmful versions of passive aggression, acts of sabotage that do real damage. A colleague is warm to your face but says things behind your back that cause you problems.
+  - To defeat the passive-aggressive warrior, you must first work on yourself. This means being acutely aware of the blame-shifting tactic as it happens. Squash any feelings of guilt it might begin to make you feel.
+  - Second, once you realize you are dealing with the dangerous variety, the smartest move is to disengage, at best to get the person out of your life, or at the least to not flare up and cause a scene, all of which plays into his hands.
+  - If it happens to be a partner in a relationship in which you cannot disengage, the only solution is to find a way to make the person feel comfortable in expressing any negative feelings toward you and encouraging it.
+  - The most effective counterstrategy with the passive-aggressive is often to be subtle and underhanded right back at them, neutralizing their powers. You can also try this with the less harmful types--the ones who are chronically late, for instance: giving them a taste of their own medicine may open their eyes to the irritating effects of their behavior.
+
+
+## Sow Uncertainty and Panic Through Acts of Terror: The Chain-Reaction Strategy
+- Terror is the ultimate way to paralyze a people's will to resist and destroy their ability to plan a strategic response. Such power is gained through sporadic acts of violence that create a constant feeling of threat, incubating a fear that spreads throughout the public sphere. The goal in a terror campaign is not battlefield victory but causing maximum chaos and provoking the other side into desperate overreaction. Melting invisibly into the population, tailoring their actions for the mass media, the strategists of terror create the illusion that they are everywhere and therefore that they are far more powerful than they really are. It is a war of nerves. The victims of terror must not succumb to fear or even anger; to plot the most effective counterstrategy, they must stay balanced. In the face of a terror campaign, one's rationality is the last line of defense.
+- **Understand**: we are all extremely susceptible to the emotions of those around us. It is often hard for us to perceive how deeply we are affected by the moods that can pass through a group. This is what makes the use of terror so effective and so dangerous: with a few well-timed acts of violence, a handful of assassins can spark all kinds of corrosive thoughts and uncertainties. The weakest members of the target group will succumb to the greatest fear, spreading rumors and anxieties that slowly overcome the rest. The strong may respond angrily and violently to the terror campaign, but that only shows how influenced they are by the panic; they are reacting rather than strategizing--a sign of weakness, not strength.
+- **Keys to Warfare**
+  - Although terror as a strategy can be employed by large armies and indeed whole states, it is most effectively practiced by those small in number. The reason is simple: the use of terror usually requires a willingness to kill innocent civilians in the name of a greater good and for a strategic purpose.
+  - Being so few in number, they cannot hope to wage a conventional war or even a guerrilla campaign. Terror is their strategy of last resort. Taking on a much larger enemy, they are often desperate, and they have a cause to which they are utterly committed.
+  - This asymmetry brings war to its ultimate extreme: the smallest number of people waging war against an enormous power, leveraging their smallness and desperation into a potent weapon. The dilemma that all terrorism presents, and the reason it attracts so many and is so potent, is that terrorists have a great deal less to lose than the armies arrayed against them, and a great deal to gain through terror.
+  - A violent temper or outlandish act, volcanic and startling, can also create the illusion of power, disguising actual weaknesses and insecurities.
+  - If you have to deal with a terroristic spouse or boss, it is best to fight back in a determined but dispassionate manner--the response such types least expect.
+  - To combat terrorism--classical or the new version on the horizon--it is always tempting to resort to a military solution, fighting violence with violence, showing the enemy that your will is not broken and that any future attacks on their part will come with a heavy price.
+  - The problem here is that terrorists by nature have much less to lose than you do. A counterstrike may hurt them but will not deter them; in fact, it may even embolden them and help them gain recruits.
+  - More valuable than military force here is solid intelligence, infiltration of the enemy ranks (working to find dissidents from within), and slowly and steadily drying up the money and resources on which the terrorist depends.
+  - At the same time, it is important to occupy the moral high ground. As the victim of the attack, you have the advantage here, but you may lose it if you counterattack aggressively.
 
-- Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite—inspire fear and insecurity. Make your masters appear more brilliant than they are and you will attain the heights of power.
-
-# Never put too much trust in friends, learn how to use enemies.
-
-- Friends often conceal things in order to avoid conflict; this can be dangerous.
-  - Keep friends for friendship, but work with the skilled and competent.
-  - Whenever you can, bury the hatchet with an enemy, and make a point of putting him in your service.
-  - Use enemies to define your cause more clearly to the public, even framing it as a struggle of good against evil.
-  - It is better off to know who and where your opponents are than to not know where your real enemies lie.
-
-# Conceal your intentions.
-
-- Use decoyed objects of desire and red herrings to throw people off the scent:
-  - If at any point in the deception you practice people have the slightest suspicions to your intentions, all is lost. Do not give them the chance to sense what you are up to: Throw them off the scent by dragging red herrings across the path. Use false sincerity, send ambiguous signals, set up misleading objects of desire. Unable to distinguish the genuine from the false, they cannot pick out your real goal.
-  - Hide your intentions not by closing up, but by talking endlessly about your desires and goals - just false ones.
-
-- Use smoke screens to disguise your actions:
-  - Deception is always the best strategy, but the best deceptions require a screen of smoke to distract people attention from your real purpose. The bland exterior—like the unreadable poker face—is often the perfect smoke screen, hiding your intentions behind the comfortable and familiar. If you lead the sucker down a familiar path, he won’t catch on when you lead him into a trap.
-  - A helpful or honest gesture can divert from a deception.
-  - Patterns will also help mask a deception.
-  - Often the key to deception is being bland and acting with humility.
-
-# Always say less than necessary.
-
-- Silence generally makes people uncomfortable - they will jump in and nervously fill the silence.
-- Generally saying less makes you appear more profound and mysterious.
-- Be particularly careful with sarcasm - rarely is it valuable.
-- Be careful with arousing suspicion or insecurity by being silent.  At times it is easier to blend by playing the jester.
-
-# So much depends on reputation - guard it with your life.
-
-- Work to establish a reputation of outstanding quality, whether generosity or honesty or cunning.
-- A good reputation can save you much - a lot of work is done in advance by your reputation.
-- Once established, always take the high road when attacked.
-
-# Court attention at all cost.
-- *Surround your name with the sensational and scandalous*
-  - Draw attention to yourself by creating an unforgettable, even controversial image. Court scandal. Do anything to make yourself seem larger than life and shine more brightly than those around you. Make no distinction between kinds of attention—notoriety of any sort will bring you power. Better to be slandered and attacked than ignored.
-  - At the beginning of your rise, spend all your energy on attracting attention.  The quality of attention is irrelevant.
-- *Create an air of mystery*
-  - In a world growing increasingly banal and familiar, what seems enigmatic instantly draws attention. Never make it too clear what you are doing or about to do. Do not show all your cards. An air of mystery heightens your presence; it also creates anticipation—everyone will be watching you to see what happens next. Use mystery to beguile, seduce, even frighten.
-  - Remember: Most people are upfront, can be read like an open book, take little care to control their words or image, and are hopelessly predictable. By simply holding back, keeping silent, occasionally uttering ambiguous phrases, deliberately appearing inconsistent, and acting odd in the subtlest of ways, you will emanate an aura of mystery.
-  - Do not let mystery turn to an air of deceit; it must always seem a game, playful, unthreatening.
-
-# Get others to do the work for you, but always take the credit.
-
-- You must secure the credit for yourself.
-- Learn to take advantage of others work to further your own cause.
-- Use the past, a vast storehouse of knowledge and wisdom.  Learn this and you will look like a genius.
-- Note: be sure to know when letting other people share the credit furthers your cause.
-
-# Make other people come to you - use bait if necessary.
-
-- The essence of power is keeping the initiative and forcing others to react, keeping them on the defensive.
-- Master your anger yet play on people’s natural tendency to react angrily when pushed and baited.
-
-# Win through your actions, never through argument.
-
-- When aiming for power, always look for the indirect route.
-- Verbal argument has one use: deception when covering tracks or caught in a lie.
-
-# Infection: avoid the unhappy and unlucky.
-
-- The most important person to avoid: the sufferer of chronic dissatisfaction.
-- Examine someone’s history to recognize these people: turbulence, a long line of broken relationships, etc.
-- The other side of infection is equally valid: there are those who attract happiness by their good cheer, natural buoyancy, and intelligence.
-- Use this rule to counteract your own undesirable or weak qualities.
-
-# Learn to keep people dependent on you.
-
-- Do not mistake independence for power; power requires a relationship.
-- To cultivate this: possess a talent and creative skill that simply cannot be replaced.
-
-# Use selective honesty and generosity to disarm your victim.
-
-- Learn to give before you take - an actual gift, a generous act, a kind favour, an “honest” admission - whatever it takes.
-- Selective honesty is best employed on your first encounter with someone.
-- A history of deceit will cause any act of generosity to be viewed with suspicion.  Counter by embracing your reputation for dishonesty openly.
-
-# When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.
-
-- Do not be subtle: you have valuable knowledge to share, you can make him rich, you can make him live longer and happier.
-- Train yourself to see inside other’s needs and interests and desires.
-- Distinguish differences among powerful people and figure out what makes them tick.  When they ooze greed, do not appeal to charity; when they want to look charitable and noble, do not appeal to their greed.
-
-# Pose as a friend, work as a spy.
-
-- During social gatherings and innocuous encounters, pay attention.  This is when people’s guards are down, and they will reveal things.
-- Give a false confession, and someone else will give you a real one.
-- Contradict others to stir them to emotion and lose control of their words.
-
-#  Crush your enemy totally.
-
-- Recognize that you will accumulate enemies who you cannot bring over to your side, and that to leave them any escape will mean you are never secure.  Crush them completely.
-
-# Use absence to increase respect and honour.
-
-- The truth of this law can most easily be appreciated in matters of love and seduction.
-- Another example of this law exists in economics - scarcity increases value.
-- Note: this law only applies once a certain level of power has been attained.  Leave too early and you do not increase respect, you are simply forgotten. Similarly, absence is only effective in love and seduction once you have surrounded the other with your image.
-- In the beginning, make yourself not scarce but omnipresent.
-
-# Keep others in suspended terror: cultivate an air of unpredictability.
-- Humans are creatures of habit with an insatiable need to see familiarity in other people’s actions. Your predictability gives them a sense of control. Turn the tables: Be deliberately unpredictable. Behavior that seems to have no consistency or purpose will keep them off-balance, and they will wear themselves out trying to explain your moves. Taken to an extreme, this strategy can intimidate and terrorize.
-- Unsettle those around you and keep the initiative by being unpredictable.
-- Predictability and patterns can be used as a tool when deceiving.
-
-# Do not build fortresses to protect yourself - isolation is dangerous.
-- The world is dangerous and enemies are everywhere—everyone has to protect themselves. A fortress seems the safest. But isolation exposes you to more dangers than it Protects you from—it cuts you off from valuable information, it makes you conspicuous and an easy target. Better to circulate among people, find allies, mingle. You are shielded from your enemies by the crowd.
-- Retreat to a fortress and you lose contact with your sources of power, and your knowledge of what is going on.
-- If you need time to think, then choose isolation as a last resort, and only in small doses.
-
-# Know who you’re dealing with - do not offend the wrong person.
-- Being able to recognize the type of person you’re dealing with is critical.  Here are the five most dangerous:
-  - **The Arrogant and Proud Man**: any perceived slight will invite vengeance.  Flee these people.
-  - **The Hopelessly Insecure Man**: similar to the proud man, but will take revenge in smaller bites over time.  Do not stay around him if you have harmed or deceived him.
-  - **Mr. Suspicion**: sees the worst in others and imagines that everyone is after him.  Easy to deceive - get him to turn on others.
-  - **The Serpent with a Long Memory**: if hurt, he will show no anger, but will calculate and wait. Recognize by his calculation and cunning in other areas of life - he is usually cold and unaffectionate.  Crush him completely or flee.
-  - **The Plain, Unassuming, and Often Unintelligent Man**: this man will not take the bait because he does not recognize it. Do not waste your resources trying to deceive him.  Have a test ready for a mark - a joke, a story. If reaction is literal, this is the type you are dealing with.
-  - **Never rely on instincts when judging someone; instead gather concrete knowledge.  Also never trust appearances.**
-
-# Do not commit to anyone.
-- It is the fool who always rushes to take sides. Do not commit to any side or cause but yourself. By maintaining your independence, you become the master of others—playing people against one another, making them pursue you.
-
-- Part 1: Do not commit to anyone, but be courted by all.
-  - Stay aloof and gain the power that comes from attention and frustrated desire.
-
-- Part 2: Do not commit to anyone - stay above the fray.
-  - Do not let others drag you into their fights.  Seem interested and supportive, but neutral.
-  - Staying neutral allows you to keep initiative, and take advantage of the situation when one side starts to lose.
-  - You only have so much time and energy - every moment wasted on affairs of others subtracts from your strength.
-  - Make sure to maintain emotional objectivity in the affairs of others.
-
-# Play a sucker to catch a sucker - seem dumber than your mark.
-- No one likes feeling stupider than the next person. The trick, then, is to make your victims feel smart—and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives.
-- Intelligence, taste and sophistication are all things you should downplay, or reassure others that they are more advanced than you.
-
-# Use the surrender tactic: transform weakness into power.
-- When you are weaker, never fight for honor’s sake; choose surrender instead. Surrender gives you time to recover, time to torment and irritate your conqueror, time to wait for his power to wane. Do not give him the satisfaction of fighting and defeating you—surrender first. By turning the other cheek you infuriate and unsettle him. Make surrender a tool of power.
-
-- The essence of the surrender tactic: inwardly you stay firm, but outwardly you bend.  Your enemy will be bewildered when properly executed, as they will be expecting retaliation.
-
-# Concentrate your forces.
-- Conserve your forces and energies by keeping them concentrated at their strongest point. You gain more by finding a rich mine and mining it deeper, than by flitting from one shallow mine to another—intensity defeats extensity every time. When looking for sources of power to elevate you, find the one key patron, the fat cow who will give you milk for a long time to come.
-- Concentrate on a single goal, a single task, and beat it into submission.
-- Note: when fighting a stronger enemy, you must be prepared to dissolve your forces and be elusive.
-
-# Play the perfect courtier.
-
-- **The Laws of Court Politics**
-  - **Avoid Ostentation**: modesty is always preferable.
-  - **Practice Nonchalance**: never appear to be working too hard; your talent must appear to flow naturally, with ease.  Showing your blood and toil is a form of ostentation.
-  - **Be Frugal with Flattery**: flatter indirectly by being modest.
-  - **Arrange to be Noticed**: pay attention to your appearance, and find a way to create a subtly distinctive style and image.
-  - **Alter Your Style and Language According to the Person You’re Dealing With**: acting the same with all will be seen as condescension by those below you, and offend those above you.
-  - **Never Be the Bearer of Bad News**: the messenger is always killed.  Bring only glad news.
-  - **Never Affect Friendliness and Intimacy with Your Master**: he does not want a friend for a subordinate.
-  - **Never Criticize Those Above You Directly**: err on the side of subtlety and gentleness.
-  - **Be Frugal in Asking Those Above You for Favours**: it is always better to earn your favours.  Do not ask for favours on another person’s behalf.
-  - **Never Joke About Appearances or Taste**
-  - **Do Not Be the Court Cynic**: express admiration for the good work of others.
-  - **Be Self-Observant**: you must train yourself to evaluate your own actions.
-  - **Master Your Emotions**
-  - **Fit the Spirit of the Times**: your spirit and way of thinking must keep up with the times, even if the times offend your sensibilities.
-  - **Be a Source of Pleasure**: if you cannot be the life of the party, at least obscure your less desirable qualities.‍
-
-# Re-create yourself.
-
-- The first step in the process of self-creation is being aware of yourself and taking control of your appearances and emotions.
-- The second step is the creation of a memorable character that compels attention and stands above the others on the stage.
-- Rhythm, timing and tempo over time also contribute greatly to the creation of a character.
-- Appreciate the importance of stage entrances and exits.
-
-# Keep your hands clean.
-
-- Part 1: Conceal your mistakes - have a scapegoat to take the blame.
-  - It is often wise to choose the most innocent victim possible as a sacrificial goat.  Be careful, however, not to create a martyr.
-  - A close associate is often the best choice - the “fall of the favourite”.
-
-- Part 2: Make use of the cat’s-paw.
-  - Use those around you to complete dirty tasks to hide your intentions and accomplish your goals while keeping your hands clean.
-  - An essential element in this strategy is concealing your goal.
-  - Devices like this are best for approaching those in power, or planting information.
-  - You may also offer yourself as the cat’s-paw to gain power.
-  - Note: you must be very careful in using this tactic, as being revealed would be disastrous.
-
-# Play on people’s need to believe to create a cult like following.
-
-- **How to create a cult in 5 easy steps:**
-  - **Keep It Vague, Keep it Simple**: use words to attract attention, with great enthusiasm.  Fancy titles for simple things are helpful, as are the use of numbers and the creation of new words for vague concepts.  All of these create the impression of specialized knowledge. People want to hear there is a simple solution to their problems.
-  - **Emphasize the Visual and the Sensual over the Intellectual**: Boredom and skepticism are two dangers you must counter.  The best way to do this is through theatre, creating a spectacle.  Appeal to all the senses, and use the exotic.
-  - **Borrow the Forms of Organized Religion to Structure the Group**: create rituals, organize followers into hierarchy, rank them in grades of sanctity, give them names and titles, ask them for sacrifices that fill your coffers and increase your power.  Talk and act like a prophet.
-  - **Disguise Your Source of Income**: make your wealth seem to come from the truth of your methods.
-  - **Set Up an Us-Versus-Them Dynamic**: first make sure your followers believe they are part of an exclusive club, unified by common goals.  Then, manufacture the notion of a devious enemy out to ruin you.
-  - People are not interested in the truth about change - that it requires hard work - but rather they are dying to believe something romantic, otherworldly.
-- The most effective cults mix religion with science.
-
-# Enter action with boldness.
-
-- **Some of the most pronounced psychological effects of boldness and timidity:**
-  - **The Bolder the Lie the Better**: the sheer audacity of a bold lie makes the story more credible, distracting from its inconsistencies.  When entering a negotiation, ask for the moon and you’ll be surprised how often you get it.
-  - **Lions Circle the Hesitant Prey**: everything depends on perception, and if on a first encounter you demonstrate a willingness to compromise, back down, and retreat, you will be pushed around without mercy.
-  - **Boldness Strikes Fear**; Fear Creates Authority: the bold move makes you seem larger and more powerful than you are.  If it comes suddenly, with stealth and swiftness, it inspires much more than fear - you will be intimidating, and people will be on the defensive in future.
-  - **Going Halfway with Half a Heart Digs the Deeper Grave**: if you enter action with less than total confidence, problems will cause you to grow confused rather than pushing through.
-  - **Hesitation Creates Gaps, Boldness Obliterates Them**: when you take time to think, you create a gap that allows others time to think as well.  Boldness leaves others no space to doubt and worry.
-  - **Audacity Separates You from the Herd**: the bold draw attention, and seem larger than life.  We cannot keep our eyes off the audacious.
-  - Most of us are timid.  We want to avoid tension and conflict and be liked by all.  We are terrified of consequences, what others might think of us, and the hostility we will stir up if we dare go beyond our usual place.
-  - You must practice and develop your boldness. The place to begin is in negotiations.  How often we ask too little.
-  - Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.
-
-# Plan all the way to the end.
-- The ending is everything. Plan all the way to it, taking into account all the possible consequences, obstacles, and twists of fortune that might reverse your hard work and give the glory to others. By planning to the end you will not be overwhelmed by circumstances and you will know when to stop. Gently guide fortune and help determine the future by thinking far ahead.
-- The ending is everything - it is the end of action that determines who gets the glory, the money, the prize.  Your conclusion must be crystal clear, and you must keep it constantly in mind.
-
-# Make your accomplishments seem effortless.
-- Some think exposure to how hard they work and practice demonstrates diligence and honesty, but really it just shows weakness.
-- Sprezzatura: the capacity to make the difficult seem easy.
-- What is understandable is not awe-inspiring.  The more mystery surrounds your actions, the more awesome your power seems.  
-- You appear to be the only one who can do what you do, and because you achieve accomplishments with grace and ease, people believe that you can always do more.
-
-# Control the options: get others to play with the cards you deal.
-
-- Withdrawal and disappearance are classic ways of controlling the options.  You give people a sense of how things will fall apart without you, and you offer them the choice: I stay away and you suffer, or I return under my conditions.
-- We actually find choices between a small number of alternatives more desirable than complete freedom of options.
-
-- **The following are among the most common forms of controlling the options:**
-  - **Color the Choices**: Propose multiple solutions, but present the preferred one in the best light compared to the others.  Excellent device for the insecure master.
-  - **Force the Resister**: This is a good technique to use on children and other willful people who enjoy doing the opposite of what you ask them to: Push them to choose what you want them to do by appearing to advocate the opposite.
-  - **Alter the Playing Field**: In this tactic your opponents know their hand is being forced, but it doesn’t matter. The technique is effective against those who resist at all costs.
-  - **The Shrinking Options**: A variation on this technique is to raise the price every time the buyer hesitates and another day goes by. This is an excellent negotiating ploy to use on the chronically indecisive, who will fall for the idea that they are getting a better deal today than if they wait till tomorrow.
-  - **The Weak Man on the Precipice**: He would describe all sorts of dangers, exaggerating them as much as possible, until the duke saw a yawning abyss in every direction except one: the one Retz was pushing him to take. This tactic is similar to "Color the Choices," but with the weak you have to be more aggressive. Work on their emotions—use fear and terror to propel them into action. Try reason and they will always find a way to procrastinate.
-  - **Brothers in Crime**: This is a classic con-artist technique: You attract your victims to some criminal scheme, creating a bond of blood and guilt between you. They participate in your deception, commit a crime (or think they do), and are easily manipulated. It is often wise to implicate in your deceptions the very person who can do you the most harm if you fail. Their involvement can be subtle—even a hint of their involvement will narrow their options and buy their silence.
-  - **The Horns of a Dilemma**: This is a classic trial lawyer’s technique: The lawyer leads the witnesses to decide between two possible explanations of an event, both of which poke a hole in their story. They have to answer the lawyer’s questions, but whatever they say they hurt themselves. The key to this move is to strike quickly: Deny the victim the time to think of an escape. As they wriggle between the horns of the dilemma, they dig their own grave.
-  - Controlling the options has one main purpose: to disguise yourself as the agent of power and punishment.
-
-# Play to people’s fantasies.
-- The truth is often avoided because it is ugly and unpleasant. Never appeal to truth and reality unless you are prepared for the anger that comes from disenchantment. Life is so harsh and distressing that people who can manufacture romance or conjure up fantasy are like oases in the desert: Everyone flocks to them. There is great power in tapping into the fantasies of the masses.
-
-- Never promise a gradual improvement through hard work; rather, promise the moon, the great and sudden transformation, the pot of gold.
-- The key to fantasy is distance - the distance has allure and promise, seems simple and problem free.  What you are offering, then, should be ungraspable. Never let it become oppressively familiar.
-
-# Discover each man’s thumbscrew.
-- **How to find weaknesses:**
-  - **Pay Attention to Gestures and Unconscious Signals**: everyday conversation is a great place to look.  Start by always seeming interested. Offer a revelation of your own if needed. Probe for suspected weaknesses indirectly.  Train your eyes for details.
-  - **Find the Helpless Child**: knowing about a childhood can often reveal weaknesses, or when they revert to acting like a child.
-  - **Look for Contrasts**: an overt trait often conceals its opposite. The shy crave attention, the uptight want adventure, etc.
-  - **Find the Weak Link**: find the person who will bend under pressure, or the one who pulls strings behind the scenes.
-  - **Fill the Void**: the two main emotional voids are insecurity and unhappiness.
-  - **Feed on Uncontrollable Emotions**: the uncontrollable emotion can be a paranoid fear or any base motive such as lust, greed, vanity or hatred.
-  - Always look for passions and obsessions that cannot be controlled.  The stronger the passion, the more vulnerable the person.
-  - People’s need for validation and recognition, their need to feel important, is the best kind of weakness to exploit.  To do so, all you need to do is find ways to make people feel better about their taste, their social standing, their intelligence.
-  - Timidity can be exploited by pushing them into bold actions that serve your needs while also making them dependent on you.
-
-# Be royal in your own fashion: act like a king to be treated like one.
-- How you carry yourself reflects what you think of yourself.
-- **Use The Strategy of the Crown** - if we believe we are destined for great things, our belief will radiate outward, just as a crown creates an aura around a king.
-- The trick is simple: be overcome by your self-belief.
-- This may separate you from people, but that’s the point.  You must always act with dignity, though this should not be confused with arrogance.
-- Dignity is the mask you assume that makes it as if nothing can affect you, and you have all the time in the world to respond.
-- There are other strategies to help:
-  - **The Columbus Strategy**: always make a bold demand.  Set your price high and do not waver.
-  - **The David and Goliath Strategy**: go after the highest person in the building.  This immediately puts you on the same plane as the chief executive you are attacking.
-  - **The Patron Strategy**: give a gift of some sort to those above you.
-
-# Master the art of timing.
-
-- **Three types of time and how to deal with them:**
-  - **Long Time**: be patient, control your emotions, and take advantage of opportunities when they arise.  You will gain long-term perspective and see further in the future.
-  - **Forced Time**: the trick in forcing time is to upset the timing of others - to make them hurry, make them wait, make them abandon their own pace.  Use the deadline, apply sudden pressure, change pace to use this.
-  - **End Time**: patience is useless unless combined with a willingness to act decisively at the right moment. Use speed to paralyze your opponents, cover any mistakes, and impress people with your aura of authority and finality.
-
-# Disdain things you cannot have: ignoring them is the best revenge.
-
-- Desire creates paradoxical effects: the more you want something, the more you chase after it, the more it eludes you.  You need to do the reverse: turn your back on what you want, show your contempt and disdain to create desire.
-- Instead of focusing attention on a problem, it is often better not to acknowledge it’s existence:
-- Sour-grapes approach: act as if something never really interested you in the first place.
-- When attacked, look away, answer sweetly, and show how little the attack concerns you.  
-- Treat it lightly if you have committed a blunder.
-- Note: make sure to show the above publicly, but to monitor the problem privately, making sure it is remedied.
-
-# Create compelling spectacles.
-
-- Words often go astray, but symbols and the visual strike with emotional power and immediacy.
-- Find an associate yourself with powerful images and symbols to gain power.
-- Most effective of all is a new combination - a fusion of images and symbols that have not been seen together before, but that clearly demonstrate your new idea, message, religion.
-
-# Think as you like but behave like others.
-
-- Flaunting your pleasure in alien ways of thinking and acting will reveal a different motive - to demonstrate your superiority over your fellows.
-- Wise and clever people learn early on that they can display conventional behavior and mouth conventional ideas without having to believe in them. The power these people gain from blending in is that of being left alone to have the thoughts they want to have, and to express them to the people they want to express them to, without suffering isolation or ostracism.
-- The only time it is worth standing out is when you already stand out—when you have achieved an unshakable position of power, and can display your difference from others as a sign of the distance between you.
-
-# Stir up waters to catch fish.
-
-- This is the essence of the Law: When the waters are still, your opponents have the time and space to plot actions that they will initiate and control. So stir the waters, force the fish to the surface, get them to act before they are ready, steal the initiative. The best way to do this is to play on uncontrollable emotions—pride, vanity, love, hate.
-- Angry people end up looking ridiculous.  It is comical how much they take personally, and more comical how they belief that outbursts signify power.
-- We should not repress our angry or emotional responses, but rather that realize in the social realm, and the game of power, nothing is personal.
-- Reveal an apparent weakness to lure your opponent into action.
-- In the face of someone angry, nothing is more infuriating than someone who keeps his cool while others are losing theirs.
-- Note: do not provoke those who are too powerful.
-- There are times when a burst of anger can do good, but it must be manufactured and under your control.
-
-# Despise the free lunch.
-
-- What is offered for free often has a psychological price tag - complicated feelings of obligation, compromises with quality, the insecurity those compromises bring, on and on.  By paying the full price, you keep your independence and room to maneuver.
-- Being open and flexible with money also teaches the value of strategic generosity.
-
-- **Avoid these people who fail to use money creatively and strategically, or turn their inflexibility to your advantage:**
-  - **The Greedy Fish**. The greedy fish take the human side out of money. Cold and ruthless, they see only the lifeless balance sheet; viewing others solely as either pawns or obstructions in their pursuit of wealth, they trample on people’s sentiments and alienate valuable allies. No one wants to work with the greedy fish, and over the years they end up isolated, which often proves their undoing. Easy to deceive with promise of money.
-  - **The Bargain Demon**. Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind. And this is exactly what Bargain Demons cannot do. Wasting valuable time digging for bargains, they worry endlessly about what they could have gotten elsewhere for a little less. Just avoid these types.
-  - **The Sadist**. Financial sadists play vicious power games with money as a way of asserting their power. They believe the money they give you allows them to abuse your time.  Accept a financial loss instead of getting entangled.
-  - **The Indiscriminate Giver**. These people give to everyone, and as a result no one feels special.  Appealing as a mark, but you will often feel burdened by their emotional need.
-  - Never let lust for money lure you from true power.  Make power your goal and money will find it’s way to you.
-  - Note: bait your deceptions with the possibility of easy money, and many will fall for it.
-
-# Avoid stepping into a great man’s shoes.
-
-- If you cannot start materially from ground zero - it would be foolish to renounce an inheritance- you can at least begin from ground zero psychologically.
-- Never let yourself be seen as following your predecessor’s path.  You must physically demonstrate your difference, by establishing a style and symbolism that set you apart.
-- Repeating actions will not re-create success, because circumstances never repeat themselves exactly.
-- Success and power make us lazy - you must reset psychologically to counter this laziness.
-
-# Strike the shepherd and the sheep will scatter.
-- Trouble can often be traced to a single strong individual —the stirrer, the arrogant underling, the poisoner of goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
-- In every group, power is concentrated in the hands of one or two people.
-- When troubles arise, find the source, and isolate them - physically, politically or psychologically.  Separate them from their power base.
-
-# Work on the hearts and minds of others.
-
-- Remember: The key to persuasion is softening people up and breaking them down, gently. Seduce them with a two-pronged approach: Work on their emotions and play on their intellectual weaknesses. Be alert to both what separates them from everyone else (their individual psychology) and what they share with everyone else (their basic emotional responses). Aim at the primary emotions—love, hate, jealousy. Once you move their emotions you have reduced their control, making them more vulnerable to persuasion.
-- Play on contrasts: push people to despair, then give them relief. If they expect pain and you give them pleasure, you win their hearts.
-- Symbolic gestures of self-sacrifice can win sympathy and goodwill.
-- The quickest way to secure people’s minds is by demonstrating, as simply as possible, how an action will benefit them.
-
-# Disarm and infuriate with the mirror effect.
-
-- **Mirror Effects can disturb or entrance others, giving you power to manipulate or seduce them.**
-- **There are four main Mirror effects:**
-  - **The Neutralizing Effect**: do what your enemies do, following their actions as best you can, and they are blinded.  A reverse version is the Shadow - shadow your opponents every move without them seeing you.
-  - **The Narcissus Effect**: look into the desires, values, tastes, spirit of others, and reflect it back to them.
-  - **The Moral Effect**: teach others by giving them a taste of their own medicine. They must realize you are doing to them the same thing they did to you.
-  - **The Hallucinatory Effect**: create a perfect copy of an object, a place, a person, that people take for the real thing, because it has the physical appearance of the real thing.
-  - Understand: Everyone is wrapped up in their own narcissistic shell. When you try to impose your own ego on them, a wall goes up, resistance is increased. By mirroring them, however, you seduce them into a kind of narcissistic rapture: They are gazing at a double of their own soul. This double is actually manufactured in its entirety by you. Once you have used the mirror to seduce them, you have great power over them.
-  - One way to create a mirror for someone is to teach them a lesson through an analogy, avoiding the reactionary increase in resistance you’d encounter if brought up directly.
-  - Note: avoid mirrored situations you don’t understand, as those involved will quickly see through it, and the mirrored situation will not live up to the original.
-
-# Preach the need for change, but never reform too much at once.
-
-- Borrow the weight and legitimacy from the past, however remote, to create a comforting and familiar presence.
-- Humans desire change in the abstract, or superficial change, but a change that upsets core habits and routines is deeply disturbing to them.
-- Understand: The fact that the past is dead and buried gives you the freedom to reinterpret it. To support your cause, tinker with the facts. The past is a text in which you can safely insert your own lines.
-- A simple gesture like using an old title, or keeping the same number for a group, will tie you to the past and support you with the authority of history.
-
-# Never appear too perfect.
-
-- Either dampen your brilliance occasionally, purposefully revealing a defect, weakness, or anxiety, or attributing your success to luck; or simply find yourself new friends. Never underestimate the power of envy.
-- The envy of the masses can be deflected quite easily - appear as one of them in style and values.  Never flaunt your wealth, and carefully conceal the degree to which it has bought influence. Make a display of deferring to others, as if they were more powerful than you.
-- Use envy to motivate you to greater heights.
-- Keep a wary eye for envy in those below you as you grow more successful.
-- Expect that those envious of you will work against you.
-- Emphasize luck, and do not adopt a false modesty that will be seen through.
-- Deflect envy of political power by not seeming ambitious.  
-- Disguise your power as a kind of self-sacrifice rather than a source of happiness for you.  Emphasize your troubles and you turn potential envy into a source of moral support (pity).
-- Beware signs of envy: excessive praise, hypercritical people, public slandering.
-- Note: once envy is present, it is sometimes best to display the utmost disdain for those who envy you.
-
-# Do not go past the mark you aimed for; in victory, learn when to stop.
-
-- Understand: In the realm of power, you must be guided by reason. To let a momentary thrill or an emotional victory influence or guide your moves will prove fatal. When you attain success, step back. Be cautious. When you gain victory, understand the part played by the particular circumstances of a situation, and never simply repeat the same actions again and again. History is littered with the ruins of victorious empires and the corpses of leaders who could not learn to stop and consolidate their gains.
-- The powerful vary their rhythms and patterns, change course, adapt to circumstance, and learn to improvise.  They control their emotions, and step back and come to a mental halt when they have attained success.
-- Good luck is more dangerous than bad luck, because it deludes you into thinking your own brilliance is the reason for your success.
-- Note: There are some who become more cautious than ever after a victory, which they see as just giving them more possessions to worry about and protect. Your caution after victory should never make you hesitate, or lose momentum, but rather act as a safeguard against rash action. On the other hand, momentum as a phenomenon is greatly overrated. You create your own successes, and if they follow one upon the other, it is your own doing. Belief in momentum will only make you emotional, less prone to act strategically, and more apt to repeat the same methods. Leave momentum for those who have nothing better to rely upon.
-
-# Assume formlessness.
-
-- The powerful are constantly creating form, and their power comes from the rapidity with which they can change.
-The first psychological requirement of formlessness is to train yourself to take nothing personally.  Never show any defensiveness.
-- When you find yourself in conflict with someone stronger and more rigid, allow them a momentary victory.  Seem to bow to their superiority. Then, by being formless, slowly insinuate yourself.
-- The need for formlessness becomes greater as we age, as we become more likely to become set in our ways and assume too rigid a form.  As you get older, you must rely even less on the past.
-- Remember: Formlessness is a tool. Never confuse it with a go-with-the-flow style, or with a religious resignation to the twists of fortune. You use formlessness, not because it creates inner harmony and peace, but because it will increase your power.
-- Finally, learning to adapt to each new circumstance means seeing events through your own eyes, and often ignoring the advice that people constantly peddle your way. It means that ultimately you must throw out the laws that others preach, and the books they write to tell you what to do, and the sage advice of the elder.
-- Note: when you do finally engage an enemy, hit them with a powerful, concentrated blow.
 
 # Quotes
-
-Be wary of friends—they will betray you more quickly, for they are easily aroused to envy. They also become spoiled and tyrannical. But hire a former enemy and he will be more loyal than a friend, because he has more to prove. In fact, you have more to fear from friends than from enemies. If you have no enemies, find a way to make them.
-
-Knowing about your rival is critical. Use spies to gather valuable information that will keep you a step ahead. Better still: Play the spy yourself. In polite social encounters, learn to probe. Ask indirect questions to get people to reveal their weaknesses and intentions. There is no occasion that is not an opportunity for artful spying.
-
-Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite—inspire fear and insecurity. Make your masters appear more brilliant than they are and you will attain the heights of power.
-
-Keep people off-balance and in the dark by never revealing the purpose behind your actions. If they have no clue what you are up to, they cannot prepare a defense. Guide them far enough down the wrong path, envelop them in enough smoke, and by the time they realize your intentions, it will be too late.
-
-When you are trying to impress people with words, the more you say, the more common you appear, and the less in control. Even if you are saying something banal, it will seem original if you make it vague, open-ended, and sphinxlike. Powerful people impress and intimidate by saying less. The more you say, the more likely you are to say something foolish.
-
-Reputation is the cornerstone of power. Through reputation alone you can intimidate and win; once it slips, however, you are vulnerable, and will be attacked on all sides. Make your reputation unassailable. Always be alert to potential attacks and thwart them before they happen. Meanwhile, learn to destroy your enemies by opening holes in their own reputations. Then stand aside and let public opinion hang them.
-
-Everything is judged by its appearance; what is unseen counts for nothing. Never let yourself get lost in the crowd, then, or buried in oblivion. Stand out. Be conspicuous, at all cost. Make yourself a magnet of attention by appearing larger, more colorful, more mysterious than the bland and timid masses.
-
-Use the wisdom, knowledge, and legwork of other people to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed. In the end your helpers will be forgotten and you will be remembered. Never do yourself what others can do for you.
-
-When you force the other person to act, you are the one in control. It is always better to make your opponent come to you, abandoning his own plans in the process. Lure him with fabulous gains—then attack. You hold the cards.
-
-Any momentary triumph you think you have gained through argument is really a Pyrrhic victory: The resentment and ill will you stir up is stronger and lasts longer than any momentary change of opinion. It is much more powerful to get others to agree with you through your actions, without saying a word. Demonstrate, do not explicate.
-
-You can die from someone else’s misery—emotional states are as infectious as diseases. You may feel you are helping the drowning man but you are only precipitating your own disaster. The unfortunate sometimes draw misfortune on themselves; they will also draw it on you. Associate with the happy and fortunate instead.
-
-To maintain your independence you must always be needed and wanted. The more you are relied on, the more freedom you have. Make people depend on you for their happiness and prosperity and you have nothing to fear. Never teach them enough so that they can do without you.
-
-One sincere and honest move will cover over dozens of dishonest ones. Open-hearted gestures of honesty and generosity bring down the guard of even the most suspicious people. Once your selective honesty opens a hole in their armor, you can deceive and manipulate them at will. A timely gift—a Trojan horse—will serve the same purpose.
-
-If you need to turn to an ally for help, do not bother to remind him of your past assistance and good deeds. He will find a way to ignore you. Instead, uncover something in your request, or in your alliance with him, that will benefit him, and emphasize it out of all proportion. He will respond enthusiastically when he sees something to be gained for himself.
-
-Knowing about your rival is critical. Use spies to gather valuable information that will keep you a step ahead. Better still: Play the spy yourself. In polite social encounters, learn to probe. Ask indirect questions to get people to reveal their weaknesses and intentions. There is no occasion that is not an opportunity for artful spying.
-
-All great leaders since Moses have known that a feared enemy must be crushed completely. (Sometimes they have learned this the hard way.) If one ember is left alight, no matter how dimly it smolders, a fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit.
-
-Too much circulation makes the price go down: The more you are seen and heard from, the more common you appear. If you are already established in a group, temporary withdrawal from it will make you more talked about, even more admired. You must learn when to leave. Create value through scarcity.
-
-Humans are creatures of habit with an insatiable need to see familiarity in other people’s actions. Your predictability gives them a sense of control. Turn the tables: Be deliberately unpredictable. Behavior that seems to have no consistency or purpose will keep them off-balance, and they will wear themselves out trying to explain your moves. Taken to an extreme, this strategy can intimidate and terrorize.
-
-The world is dangerous and enemies are everywhere—everyone has to protect themselves. A fortress seems the safest. But isolation exposes you to more dangers than it Protects you from—it cuts you off from valuable information, it makes you conspicuous and an easy target. Better to circulate among people, find allies, mingle. You are shielded from your enemies by the crowd.
-
-There are many different kinds of people in the world, and you can never assume that everyone will react to your strategies in the same way. Deceive or outmaneuver some people and they will spend the rest of their lives seeking revenge. They are wolves in lambs’ clothing. Choose your victims and opponents carefully, then—never of fend or deceive the wrong person.
-
-It is the fool who always rushes to take sides. Do not commit to any side or cause but yourself. By maintaining your independence, you become the master of others—playing people against one another, making them pursue you.
-
-No one likes feeling stupider than the next person. The trick, then, is to make your victims feel smart—and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives.
-
-When you are weaker, never fight for honor’s sake; choose surrender instead. Surrender gives you time to recover, time to torment and irritate your conqueror, time to wait for his power to wane. Do not give him the satisfaction of fighting and defeating you—surrender first. By turning the other cheek you infuriate and unsettle him. Make surrender a tool of power.
-
-Conserve your forces and energies by keeping them concentrated at their strongest point. You gain more by finding a rich mine and mining it deeper, than by flitting from one shallow mine to another—intensity defeats extensity every time. When looking for sources of power to elevate you, find the one key patron, the fat cow who will give you milk for a long time to come.
-
-The perfect courtier thrives in a world where everything revolves around power and political dexterity. He has mastered the art of indirection; he flatters, yields to superiors, and asserts power over others in the most oblique and graceful manner. Learn and apply the laws of courtiership and there will be no limit to how far you can rise in the court.
-
-Do not accept the roles that society foists on you. Re-create yourself by forging a new identity, one that commands attention and never bores the audience. Be the master of your own image rather than letting others define it for you. Incorporate dramatic devices into your public gestures and actions—your power will be enhanced and your character will seem larger than life.
-
-You must seem a paragon of civility and efficiency: Your hands are never soiled by mistakes and nasty deeds. Maintain such a spotless appearance by using others as scapegoats and cat’s-paws to disguise your involvement.
-
-People have an overwhelming desire to believe in something. Become the focal point of such desire by offering them a cause, a new faith to follow. Keep your words vague but full of promise ; emphasize enthusiasm over rationality and clear thinking. Give your new disciples rituals to perform, ask them to make sacrifices on your behalf. In the absence of organized religion and grand causes, your new belief system will bring you untold power.
-
-If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.
-
-The ending is everything. Plan all the way to it, taking into account all the possible consequences, obstacles, and twists of fortune that might reverse your hard work and give the glory to others. By planning to the end you will not be overwhelmed by circumstances and you will know when to stop. Gently guide fortune and help determine the future by thinking far ahead.
-
-The best deceptions are the ones that seem to give the other person a choice: Your victims feel they are in control, but are actually your puppets. Give people options that come out in your favor whichever one they choose. Force them to make choices between the lesser of two evils, both of which serve your purpose. Put them on the horns of a dilemma: They are gored wherever they turn.
-
-The truth is often avoided because it is ugly and unpleasant. Never appeal to truth and reality unless you are prepared for the anger that comes from disenchantment. Life is so harsh and distressing that people who can manufacture romance or conjure up fantasy are like oases in the desert: Everyone flocks to them. There is great power in tapping into the fantasies of the masses.
-
-Everyone has a weakness, a gap in the castle wall. That weakness is usually an insecurity, an uncontrollable emotion or need; it can also be a small secret pleasure. Either way, once found, it is a thumbscrew you can turn to your advantage.
-
-The way you carry yourself will often determine how you are treated: In the long run, appearing vulgar or common will make people disrespect you. For a king respects himself and inspires the same sentiment in others. By acting regally and confident of your powers, you make yourself seem destined to wear a crown.
-
-Never seem to be in a hurry-hurrying betrays a lack of control over yourself, and over time. Always seem patient, as if you know that everything will come to you eventually. Become a detective of the right moment; sniff out the spirit of the times, the trends that will carry you to power. Learn to stand back when the time is not yet ripe, and to strike fiercely when it has reached fruition.
-
-By acknowledging a petty problem you give it existence and credibility. The more attention you pay an enemy, the stronger you make him; and a small mistake is often made worse and more visible when you try to fix it. It is sometimes best to leave things alone. If there is something you want but cannot have, show contempt for it. The less interest you reveal, the more superior you seem.
-
-Striking imagery and grand symbolic gestures create the aura of power—everyone responds to them. Stage spectacles for those around you, then, full of arresting visuals and radiant symbols that heighten your presence. Dazzled by appearances, no one will notice what you are really doing.
-
-If you make a show of going against the times, flaunting your unconventional ideas and unorthodox ways, people will think that you only want attention and that you look down upon them. They will find a way to punish you for making them feel inferior. It is far safer to blend in and nurture the common touch. Share your originality only with tolerant friends and those who are sure to appreciate your uniqueness.
-
-Anger and emotion are strategically counterproductive. You must always stay calm and objective. But if you can make your enemies angry while staying calm yourself, you gain a decided advantage. Put your enemies off-balance: Find the chink in their vanity through which you can rattle them and you hold the strings.
-
-What is offered for free is dangerous-it usually involves either a trick or a hidden obligation. What has worth is worth paying for. By paying your own way you stay clear of gratitude, guilt, and deceit. It is also often wise to pay the full price—there is no cutting corners with excellence. Be lavish with your money and keep it circulating, for generosity is a sign and a magnet for power.
-
-What happens first always appears better and more original than what comes after. If you succeed a great man or have a famous parent, you will have to accomplish double their achievements to outshine them. Do not get lost in their shadow, or stuck in a past not of your own making: Establish your own name and identity by changing course. Slay the overbearing father, disparage his legacy, and gain power by shining in your own way.
-
-Trouble can often be traced to a single strong individual —the stirrer, the arrogant underling, the poisoner of goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
-
-Coercion creates a reaction that will eventually work against you. You must seduce others into wanting to move in your direction. A person you have seduced becomes your loyal pawn. And the way to seduce others is to operate on their individual psychologies and weaknesses. Soften up the resistant by working on their emotions, playing on what they hold dear and what they fear. Ignore the hearts and minds of others and they will grow to hate you.
-
-The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect.
-
-Everyone understands the need for change in the abstract, but on the day-to-day level people are creatures of habit. Too much innovation is traumatic, and will lead to revolt. If you are new to a position of power, or an outsider trying to build a power base, make a show of respecting the old way of doing things. If change is necessary, make it feel like a gentle improvement on the past.
-
-Appearing better than others is always dangerous, but most dangerous of all is to appear to have no faults or weaknesses. Envy creates silent enemies. It is smart to occasionally display defects, and admit to harmless vices, in order to deflect envy and appear more human and approachable. Only gods and the dead can seem perfect with impunity.
-
-The moment of victory is often the moment of greatest peril. In the heat of victory, arrogance and overconfidence can push you past the goal you had aimed for, and by going too far, you make more enemies than you defeat. Do not allow success to go to your head. There is no substitute for strategy and careful planning. Set a goal, and when you reach it, stop.
-
-By taking a shape, by having a visible plan, you open yourself to attack. Instead of taking a form for your enemy to grasp, keep yourself adaptable and on the move. Accept the fact that nothing is certain and no law is fixed. The best way to protect yourself is to be as fluid and formless as water; never bet on stability or lasting order. Everything changes.
-
 # References
-- https://www.grahammann.net/book-notes/48-laws-of-power-robert-greene
+- https://www.grahammann.net/book-notes/the-art-of-war-sun-tzu
+- https://www.grahammann.net/book-notes/the-33-strategies-of-war-robert-greene
