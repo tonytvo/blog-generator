@@ -248,6 +248,16 @@ tags: ["investing", "valueinvesting"]
 
 - additional paid in capital is therefore the difference between the proceeds for the issue of the stock subtracted by the par value.
 
+### retained earnings
+
+- the retained earnings are the sum of all the previous net incomes the company has produced.
+  - in case of Coca-Cola, the capital is re-employed by the company to create even more money in the future.
+
+### treasury stock
+
+- the price the company paid to buy back its own shares.
+- good indicator how much the company has been able to grow the owners' money. If a substantial growth in the treasury account had occurred during the period of assessment, it may drastically increase the book value growth - which potentially can be used to measure free cash flow.
+
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
 - Some financial manipulations, or shenanigans, are benign and may not hurt anyone.
