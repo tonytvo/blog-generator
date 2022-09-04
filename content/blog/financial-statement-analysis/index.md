@@ -195,7 +195,58 @@ tags: ["investing", "valueinvesting"]
 
 ## Liabilities
 
+### current liabilities
 
+- **accounts payable**
+  - sometimes referred to as payables, net payables, or trade payables. Since this account is primarily a category that summarizes what the business has bought on credit.
+  - for a company, it's very neat to have an interest-free loan in less than 12 months.
+
+- **notes payable**
+  - sometimes referred to as current borrowing or current financial debt. It represents how much of the outstanding short-term debts should be paid back to the issuer.
+- **accrued expenses**
+  - often, companies will incur expenses that are not yet paid for. For Coca-Cola, this could be expenses for employees' salaries, electricity bills, or basically any payment that is consumed but not yet paid.
+  - any portion of the bill that has not been paid at the balance sheet date would be classified as accrued expenses.
+- **taxes payable**
+  - in corporate accounting, company is responsible for withholding the taxes it owes - it doesn't happen automatically. Taxes payable is a holding pattern for a corporate taxes. This is the account where the company will list the money that they owe to the federal, state, or local government for the products or services they sell. Once the payment is made to the government from the cash account, you'll see a deduction in the taxes payable account and the tax payment will then be listed on the income statement.
+
+### non-current liabilities
+
+- sometimes non-current liabilities are referred to as long-term liabilities, which are anything the company expects to pay outside the 12-month timeframe.
+
+- **long-term debt**
+  - when Coca-Cola obtains loans, creditors have no influence on the daily operations. Daily business decisions are usually completely up to the management and shareholders
+  - perhaps, surprisingly, long-term debt does not always have to be paid back.
+    - for example, if you have a mortgage of $300000, there is actually no good reason to pay back your whole loan, especially if the interest rate is under the inflation rate. As long as you feel that you have sufficient equity in your home, then you should be fine using your money for something else. The bank is usually pleased to be receiving interest payments on your home, as long as you do not default on the payment.
+    - let's say that Coca-Cola takes on a little debt at an interest rate of 4%. As long as Coca-Cola can make a better return in the market and can control the risk, they may choose to delay the repayment of the principal to seek larger returns elsewhere. If the company decides to pay off the loan, it would be similar to getting a 4% return (accounting for inflation, it might even be as low as 1% effectively). An efficient company could probably get a better return by investing in new assets.
+    - look into interest coverage ratio and debt to equity ratio to gauge if the debt is under control.
+  
+  - **deferred tax**
+    - it can be listed as an asset or a liability depending on what year a particular item is being depreciated and what the company has decided to realize as a loss or gain.
+      - for example, a deferred tax occurs when there is a difference between the linear and accelerated depreciation approach. In essence, the tax liability corrects the amount of taxes a company should or shouldn't have paid.
+      - deferred tax is only applicable for the year of consideration.
+      - once this asset is realized onto the income statement, the amount listed on the balance sheet will disappear.
+  - **provisions**
+    - when a company sells on credit, they expect some of their customers to default from time to time. For this reason, companies have a provisions account where they continually put money aside to absorb these potential losses.
+    - the provisions account fluctuates from year to year and likely be adjusted continually.
+
+## equity
+
+- **when you own a share, you own a part of a real company**
+- Equity is a form of liability. It is what the company owes to the owners of the company
+- It is the shareholders of Coca-Cola who own all the company's assets.
+
+### share capital
+- aka capital stock, common stock, or paid-in capital
+- is used to keep track of common stock splits and common shares outstanding. 
+- when a company is originally started, the founder(s) place a certain amount of money into an equity account called *paid-in capital*
+- regardless of the initial designation of how much one share's par value is, the share capital account is a tracking tool for future splits and share growth/contraction.
+  - let's say company decide to issue 200 more shares after the initial issued 100 shares. Now, the shares might sell on the open market for $500, therefore, raising money for the company, but that doesn't preclude the company from tracking the new number of shares in the capital account. At the end of this action, there would be $200 in the capital account and 200 shares would be outstanding.
+  - let's say the company wanted to conduct a stock split. The company's intention is to reduce the market price of each share. The capital account would remain the same, but the par value per share would be half.
+- most capital accounts use a penny or less to represent each outstanding share.
+
+### additional paid-in capital
+
+- additional paid in capital is therefore the difference between the proceeds for the issue of the stock subtracted by the par value.
 
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
