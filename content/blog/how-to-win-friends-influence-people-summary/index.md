@@ -117,6 +117,10 @@ tags: ["productivity", "communication", "selfimprovement"]
 
 "A drop of honey can catch more flies than a gallon of gall"
 
+# todo
+- review https://www.grahammann.net/book-notes/how-to-win-friends-and-influence-people-in-the-digital-age-dale-carnegie
+
 # References
-https://fs.blog/how-to-win-friends-and-influence-people/
-https://www.samuelthomasdavies.com/book-summaries/self-help/how-to-win-friends-and-influence-people/
+- https://www.grahammann.net/book-notes/how-to-win-friends-and-influence-people-in-the-digital-age-dale-carnegie
+- https://fs.blog/how-to-win-friends-and-influence-people/
+- https://www.samuelthomasdavies.com/book-summaries/self-help/how-to-win-friends-and-influence-people/

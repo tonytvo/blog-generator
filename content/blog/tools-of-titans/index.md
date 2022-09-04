@@ -336,6 +336,9 @@ before releasing a product or service, exposing them to proper scrutiny is essen
   - what you were thinking
   - how you found your way back
 
+# todo
+
+- review https://www.grahammann.net/book-notes/tools-of-titans-tim-ferriss
 
 # Quotes
 

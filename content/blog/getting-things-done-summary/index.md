@@ -120,10 +120,14 @@ tags: ["productivity"]
   - day-specific actions: i.e. a shipment must be sent today
   - day-specific information: i.e. daughter’s birthday, office moves, etc…
 
+# todo
+- review grahamman notes
+
 # Quotes
 
 
 # Reference
+- https://www.grahammann.net/book-notes/getting-things-done-david-allen
 - https://blog.jbrains.ca/permalink/remind-yourself-to-schedule-x
 - https://blog.jbrains.ca/permalink/getting-started-with-getting-things-done
 - https://www.amazon.ca/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E

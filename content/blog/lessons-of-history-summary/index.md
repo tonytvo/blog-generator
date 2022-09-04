@@ -91,5 +91,9 @@ Science is neutral. It will kill or create, destroy or build.
 
 "We must remind ourselves again that history as usually written is quite different from history as usually lived: the historian records the exceptional because it is interesting — because it is exceptional."
 
+# todo
+- review grahammann notes
+
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/the-lessons-of-history-by-will-ariel-durant/)
+- https://www.grahammann.net/book-notes/the-lessons-of-history-will-ariel-durant
