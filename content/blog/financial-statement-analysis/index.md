@@ -132,17 +132,18 @@ tags: ["investing", "valueinvesting"]
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
 - balance sheet is sectionalized into 3 major categories: the assets, the equity and the liabilities.
 
-- ***assets***
-  - assets are what the company owns
-  - assets can ben financed in 2 ways: with the company's money - this is called equity or with someone else's money - this is called liabilities.
-  - because assets are either financed by equity or liabilities, the 2 sides will always be equal. They will balance.
-  - *assets are something that is owned and expected to generate income for the company*
-  - 2 different categories of assets: the non-current and the current assets
-    - current asset can be defined as any asset which is likely to be converted into cash within a period of 1 year such as cash, inventory and receivables
-    - non-current assets are sometimes referred to as long-term assets. An organization simply includes those assets that have an expected ownership over a period exceeding 1 year and cannot immediately be converted into cash such as machines for production, buildings, cards, etc...
-    - the idea distinguishing various kinds of assets is to present to the reader a true and fair view of a company's financial condition that is also why the balance sheet is sometimes referred to as the statement of financial position.
+## assets
 
-## Current assets
+- assets are what the company owns
+- assets can ben financed in 2 ways: with the company's money - this is called equity or with someone else's money - this is called liabilities.
+- because assets are either financed by equity or liabilities, the 2 sides will always be equal. They will balance.
+- *assets are something that is owned and expected to generate income for the company*
+- 2 different categories of assets: the non-current and the current assets
+  - current asset can be defined as any asset which is likely to be converted into cash within a period of 1 year such as cash, inventory and receivables
+  - non-current assets are sometimes referred to as long-term assets. An organization simply includes those assets that have an expected ownership over a period exceeding 1 year and cannot immediately be converted into cash such as machines for production, buildings, cards, etc...
+  - the idea distinguishing various kinds of assets is to present to the reader a true and fair view of a company's financial condition that is also why the balance sheet is sometimes referred to as the statement of financial position.
+
+### Current assets
 - **cash and cash equivalents**
   - aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and cash that is safely stored away in a bank account.
   - cash equivalents are equal to having cash that is currently in a different form, for example, money market funds, saving deposits and deposit certificates.
@@ -167,7 +168,7 @@ tags: ["investing", "valueinvesting"]
 - **total current assets**
   - summation of all assets that you expect to turn into cash during the next 12 months.
 
-## non-current assets
+### non-current assets
 - assets that will not turn into cash within the next 12 months
 
 - **non-current receivables**
@@ -179,6 +180,22 @@ tags: ["investing", "valueinvesting"]
   - as an investor, you're right to question why a company should have long-term investments. You might argue that a company with a high number of investments would tend to concentrate less on core activities. That is typically a bad sign. Conversely, investments such as these might signify a diversification policy so earnings are maintained despite changes in external environments.
 
 - **property, plant, and equipment**
+  - ranging from buildings to property and from manufacturing equipment to mere office furniture.
+  - very often, some of the largest expenses for a company relate to this category of assets. Tangible assets will often have to be replaced, and that's a very expensive bill that has to be paid
+    - think of a company like Hilton Resorts. They will constantly have building upgrades and interior remodeling expenses in order to remain competitive in their market. Ultimately, all bills end up being paid by the shareholders of the company. That is why we only want PE that can produce revenue, not PPE for the sake ow owning a lot of assets.
+
+- **patents, trademarks and other intangibles**
+  - companies with strong brand names and efficient research and development departments are likely to carry trademarks and patents.
+  - due to accounting law, a company can list all expenses from research and development as an intangible assets. This means that all the material and labor costs that Coca-Cola incurs in relation to producing the recipe can now be transformed into an asset. (it could also means that if Coca Cola has very inefficient personnel and high salaries, this would ultimately be transformed into a bigger asset). This process is called capitalization.
+  - capitalization is how intangibles like patents and trademarks are entered into the balance sheet.
+  - intangible assets lose value if it is deemed that they cannot generate income. When intangible assets are depreciated, it's called amortization.
+  - since patents and trademarks provide a durable competitive advantage for a company, it is a great source of risk reduction. Additionally, intangible assets are generally unaffected by inflation. This means that as time marches on, the value of patents and trademarks increase in nominal dollars automatically.
+- **goodwill**
+  - goodwill only occurs during the acquisition process; it is not something that the company can create by themselves
+
+## Liabilities
+
+
 
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
