@@ -14,11 +14,11 @@ tags: ["valueinvesting", "investing"]
   - “We should also heed the general lesson implicit in the injunction of Ben Franklin in Poor Richard’s Almanack: ‘If you would persuade, appeal to interest and not to reason.'”
   - “One of the most important consequences of incentive superpower is what I call ‘incentive-caused bias.’ A man has an acculturated nature making him a pretty decent fellow, and yet, driven both consciously and subconsciously by incentives, he drifts into immoral behavior in order to get what he wants, a result he facilitates by rationalizing his bad behavior.”
 
-- **Incentives & Perverse Incentives:**
-  - “As usual in human affairs, what determines the behavior are incentives for the decision maker … getting the incentives right is a very, very important lesson … Appeal to interest and not to reason if you want to change conclusions … Another thing to avoid is being subjected to perverse incentives. You don’t want to be in a perverse incentive system that’s rewarding you if you behave more and more foolishly, or worse and worse. Perverse incentives are so powerful as controllers of human cognition and human behavior that one should avoid their influence.”
+  - **Incentives & Perverse Incentives:**
+    - “As usual in human affairs, what determines the behavior are incentives for the decision maker … getting the incentives right is a very, very important lesson … Appeal to interest and not to reason if you want to change conclusions … Another thing to avoid is being subjected to perverse incentives. You don’t want to be in a perverse incentive system that’s rewarding you if you behave more and more foolishly, or worse and worse. Perverse incentives are so powerful as controllers of human cognition and human behavior that one should avoid their influence.”
 
-- **Incentive-Caused Bias:**
-  - “A natural cognitive drift toward the conclusion that what is good for the professional is good for the client and the wider civilization.”
+  - **Incentive-Caused Bias:**
+    - “A natural cognitive drift toward the conclusion that what is good for the professional is good for the client and the wider civilization.”
 
 - **Liking/Loving Tendency**
 “Man will generally strive, lifelong, for the affection and approval of many people not related to him.”
@@ -187,35 +187,49 @@ tags: ["valueinvesting", "investing"]
   - “To a man with only a hammer, every problem tends to look pretty much like a nail.”
 
 - **Five Ws:**
-“The five Ws—you had to tell who was going to do what, where, when, and why … If you always tell people why, they’ll understand it better, they’ll consider it more important, and they’ll be more likely to comply. Even if they don’t understand your reason, they’ll be more likely to comply.”
-Not Fooling Yourself:
-“It is, of course, irritating that extra care in thinking is not all good but also introduces extra error. But most good things have undesired ‘side effects,’ and thinking is no exception. The best defense is that of the best physicists, who systematically criticize themselves to an extreme degree, using a mindset described by Nobel laureate Richard Feynman as follows: ‘The first principle is that you must not fool yourself, and you’re the easiest person to fool.'”
-Disconfirming Evidence:
-“Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking … If you can get really good at destroying your own wrong ideas, that is a great gift.”
-Deserve What You Want:
-“The safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule. You want to deliver to the world what you would buy if you were on the other end.”
-Chauffeur Knowledge:
-“In this world I think we have two kinds of knowledge: One is Planck knowledge, that of the people who really know. They’ve paid the dues, they have the aptitude. Then we’ve got chauffeur knowledge. They have learned to prattle the talk. They may have a big head of hair. They often have fine timbre in their voices. They make a big impression. But in the end what they’ve got is chauffeur knowledge masquerading as real knowledge.”
-Unfairness:
-“Tolerating a little unfairness to some to get a greater fairness for all is a model I recommend to all of you.”
-Second-Order Thinking:
-“Consequences have consequences, and the consequences of the consequences have consequences, and so on.”
-Avoid Chemicals/Addiction:
-“While susceptibility varies, addiction can happen to any of us through a subtle process where the bonds of degradation are too light to be felt until they are too strong to be broken. And yet, I have yet to meet anyone, in over six decades of life, whose life was worsened by fear and avoidance of such a deceptive pathway to destruction.”
-Envy, Resentment, Revenge, & Self-Pity:
-“Generally speaking, envy, resentment, revenge and self-pity are disastrous modes of thought. Self-pity can get pretty close to paranoia. And paranoia is one of the very hardest things to reverse. You do not want to drift into self-pity … The best way to avoid envy, recognized by Aristotle, is to plainly deserve the success we get.”
-Unreliability:
-“Reliability is essential for progress in life and while quantum mechanics is unlearnable for a vast majority, reliability can be learned to great advantage by almost anyone.”
-Social Proof:
-“Another advantage of scale comes from psychology. The psychologists use the term ‘social proof.’ We are all influenced—subconsciously and, to some extent, consciously—by what we see others do and approve.”
-Pavlovian Association:
-“If people tell you what you really don’t want to hear—what’s unpleasant—there’s an almost automatic reaction of antipathy. You have to train yourself out of it.”
-Serpico Effects:
-“If enough people are profiting in a general social climate of doing wrong, then they’ll turn on you and become dangerous enemies if you try and blow the whistle.”
-Crowd Folly:
-“The tendency of humans, under some circumstances, to resemble lemmings, explains foolish thinking of brilliant men and much foolish behavior.”
-Reduce Material Needs:
-“Most people will see declining returns (due to inflation). One of the great defenses if you’re worried about inflation is not to have a lot of silly needs in your life—you don’t need a lot of material goods.”
+  - “The five Ws—you had to tell who was going to do what, where, when, and why … If you always tell people why, they’ll understand it better, they’ll consider it more important, and they’ll be more likely to comply. Even if they don’t understand your reason, they’ll be more likely to comply.”
+
+- **Not Fooling Yourself:**
+  - “It is, of course, irritating that extra care in thinking is not all good but also introduces extra error. But most good things have undesired ‘side effects,’ and thinking is no exception. The best defense is that of the best physicists, who systematically criticize themselves to an extreme degree, using a mindset described by Nobel laureate Richard Feynman as follows: ‘The first principle is that you must not fool yourself, and you’re the easiest person to fool.'”
+
+- **Disconfirming Evidence:**
+  - “Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking … If you can get really good at destroying your own wrong ideas, that is a great gift.”
+
+- **Deserve What You Want:**
+  - “The safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule. You want to deliver to the world what you would buy if you were on the other end.”
+
+- **Chauffeur Knowledge:**
+  - “In this world I think we have two kinds of knowledge: One is Planck knowledge, that of the people who really know. They’ve paid the dues, they have the aptitude. Then we’ve got chauffeur knowledge. They have learned to prattle the talk. They may have a big head of hair. They often have fine timbre in their voices. They make a big impression. But in the end what they’ve got is chauffeur knowledge masquerading as real knowledge.”
+
+- **Unfairness:**
+  - “Tolerating a little unfairness to some to get a greater fairness for all is a model I recommend to all of you.”
+
+- **Second-Order Thinking:**
+  - “Consequences have consequences, and the consequences of the consequences have consequences, and so on.”
+
+- **Avoid Chemicals/Addiction:**
+  - “While susceptibility varies, addiction can happen to any of us through a subtle process where the bonds of degradation are too light to be felt until they are too strong to be broken. And yet, I have yet to meet anyone, in over six decades of life, whose life was worsened by fear and avoidance of such a deceptive pathway to destruction.”
+
+- **Envy, Resentment, Revenge, & Self-Pity:**
+  - “Generally speaking, envy, resentment, revenge and self-pity are disastrous modes of thought. Self-pity can get pretty close to paranoia. And paranoia is one of the very hardest things to reverse. You do not want to drift into self-pity … The best way to avoid envy, recognized by Aristotle, is to plainly deserve the success we get.”
+
+- **Unreliability:**
+  - “Reliability is essential for progress in life and while quantum mechanics is unlearnable for a vast majority, reliability can be learned to great advantage by almost anyone.”
+
+- **Social Proof:**
+  - “Another advantage of scale comes from psychology. The psychologists use the term ‘social proof.’ We are all influenced—subconsciously and, to some extent, consciously—by what we see others do and approve.”
+
+- **Pavlovian Association:**
+  - “If people tell you what you really don’t want to hear—what’s unpleasant—there’s an almost automatic reaction of antipathy. You have to train yourself out of it.”
+
+- **Serpico Effects:**
+  - “If enough people are profiting in a general social climate of doing wrong, then they’ll turn on you and become dangerous enemies if you try and blow the whistle.”
+
+- **Crowd Folly:**
+  - “The tendency of humans, under some circumstances, to resemble lemmings, explains foolish thinking of brilliant men and much foolish behavior.”
+
+- **Reduce Material Needs:**
+- “Most people will see declining returns (due to inflation). One of the great defenses if you’re worried about inflation is not to have a lot of silly needs in your life—you don’t need a lot of material goods.”
 
 # charlie's checklist
 
