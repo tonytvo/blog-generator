@@ -287,7 +287,7 @@ of his earliest picks – when people wouldn’t look at a small restaurant comp
 
 - When in doubt, tune in later. 
 
-- ***How to Rate a Savings & Loan (S&L) Company ***
+- ***How to Rate a Savings & Loan (S&L) Company***
   - Equity / Assets – measures financial strength and survivability. Higher the better. <5x = Danger, 5.5-6x = Average, > 7.5x = Preferred. 
   - Book Value – if high risk lending has been avoided, then assets and book value may accurately reflect net worth. Look for P/B < 1x.
   - PE – lower the better. If PE = 7x, and growth = 15%, that’s very promising, especially when S&P 500 PE = 23x. 
