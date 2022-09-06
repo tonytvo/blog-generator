@@ -43,50 +43,50 @@ you’d cash out, then do it now & avoid the misery that is sure to come later.
 
 ## SILLIEST (AND MOST DANGEROUS) THINGS PEOPLE SAY ABOUT STOCK PRICES
 
-- *If It’s Gone Down This Much Already*, It Can’t Go Down Much More – only thing to keep in mind is the intrinsic value vs current price. As long as value stays high or improves, a falling price only helps to make it a better bargain.
+- *If It’s Gone Down This Much Already*, It Can’t Go Down Much More – the only thing to keep in mind is the intrinsic value vs current price. As long as the value stays high or improves, a falling price only helps to make it a better bargain.
 
 - *You Can Always Tell When A Stock Hits A Bottom*
-  - You must buy for a more sensible reason than the fact that a stock’s gone so far, it looks up to you.
-  - It’s a good idea to wait until the knife hits the ground, sticks, vibrates for a while, and settles down, before you grab it.
-  - But even so, you aren’t going to get the bottom price. What usually happens is that a stock sort of vibrates itself out before it starts up again. Generally, this takes 2-3 years, sometimes longer.
-  - Find charts of those companies that declined sharply, and then went sideways for a couple of years. If it’s gone sideways for some time, fundamentals are decent, & you can find something that’s new & positive in the company/ industry, then if you’re wrong, it’ll probably keep going sideways and you won’t lose much. But if you’re right, that stock is going north.
+  - You must buy for a more sensible reason than a stock’s gone so far. It looks up to you.
+  - It’s a good idea to wait until the knife hits the ground, sticks, vibrates for a while, and settles down before you grab it.
+  - But even so, you don’t get the bottom price. What usually happens is that a stock sort of vibrates itself out before it starts up again. Generally, this takes 2-3 years, sometimes longer.
+  - Find charts of those companies that declined sharply and then went sideways for a couple of years. If it’s gone sideways for some time, fundamentals are decent, & you can find something that’s new & positive in the company/ industry, then if you’re wrong, it’ll probably keep going sideways, and you won’t lose much. But if you’re right, that stock is going north.
 
 - *If It’s Gone This High Already, How Can It Possibly Go Higher?*
   - Multibaggers break these barriers, year after year. 
-  - Never able to predict which stocks will go up 10x, or, 5x. Stick with them as long as the story’s intact, hoping to be pleasantly surprised. The success of a company isn’t the surprise, but what the shares bring, often is.
-- *Its Only $3 A Share, What Can I Lose?*
-  - If it goes to 0, you still lose everything. A lousy cheap stock is as risky as a lousy expensive one.
-  - Short sellers usually buy nearer to the bottom than to the top. They wait until a company is so obviously floundering, that bankruptcy is inevitable.
+  - Never able to predict which stocks will go up 10x or 5x. Stick with them as long as the story’s intact, hoping to be pleasantly surprised. A company's success isn’t the surprise, but what the shares bring often is.
+- *It Only $3 A Share, What Can I Lose?*
+  - If it goes to 0, you still lose everything. A lousy cheap stock is as risky as a lousy, expensive one.
+  - Short sellers usually buy nearer to the bottom than to the top. They wait until a company is so obviously floundering that bankruptcy is inevitable.
 
-- *Eventually They Always Come Back*
-  - consider the 1000’s of companies that went bankrupt, or solvent ones who never recovered prosperity, or were bought out at prices far below their peak price.
+- *Eventually, They Always Come Back*
+  - consider the thousands of companies that went bankrupt or solvent ones that never recovered prosperity or were bought out at prices far below their peak price.
 
 - *It’s Always Darkest Before The Dawn*
-  - human tendency to believe that things that have gotten a little bad, can’t get worse.
+  - the human tendency to believe things that have gotten a little bad can’t get worse.
 
 - *When It Rebounds To $10, I’ll Sell*
-  - No downtrodden stock ever returns to the level at which you’ve decided to sell. This painful process may take a decade, and all this while you’ll tolerate an investment you don’t even like.
+  - No downtrodden stock ever returns to the level you’ve decided to sell. This painful process may take a decade, and all this while, you’ll tolerate an investment you don’t even like.
   - Unless you’re confident enough to buy more, you should be selling immediately.
 
 - *What, Me Worry? Conservative Stocks Don’t Fluctuate Much*
-  - Utilities can be as risky as Biotech, even riskier, because you aren’t aware of unknown changes.
+  - Utilities can be as risky as Biotech, even riskier because you aren’t aware of unknown changes.
 
 - *It’s Taking Too Long For Anything To Happen*
-  - If you give up because you’re waiting for something wonderful to happen, then something wonderful will happen the day after you sell. It takes remarkable patience to hold onto a stock that excites you, but which is ignored by everybody else. You begin to think others are right and you’re wrong.
+  - If you give up because you’re waiting for something wonderful to happen, then something wonderful will happen the day after you sell. It takes remarkable patience to hold onto a stock that excites you but which is ignored by everybody else. You begin to think others are right and you’re wrong.
   - Most of the money Lynch made was in the 3rd/4th year. If fundamentals are positive and whatever attracted you hasn’t changed, then sooner or later,
 patience will be rewarded.
 
 - *Look At All The Money I Lost, I Didn’t Buy It*
-  - You aren’t a cent poorer than you were – money lost via fictional missed opportunities and omission errors are simply self torture.
-  - This isn’t a productive attitude. It can only lead to total madness. o The worst part about such thinking, is that it leads people to try to play catch up by buying stocks they shouldn’t, if only to protect themselves, from losing more than they’ve already “lost”.
+  - You aren’t a cent poorer than you were – money lost via fictional missed opportunities and omission errors are self-torture.
+  - This isn’t a productive attitude. It can only lead to total madness. o The worst part about such thinking is that it leads people to try to catch up by buying stocks they shouldn’t if only to protect themselves from losing more than they’ve already “lost.”
 
-- *I Missed That One, I’ll Catch The Next One*
+- *I Missed That One; I’ll Catch The Next One*
   - The original good company at a high price is better than the next bargain. 
-  - Trouble is the next one rarely works. If you missed a great company that continued to go up, and then bought a mediocre one that went down, then you
+  - Trouble is the next one rarely works. If you missed a great company that continued to go up and then bought a mediocre one that went down, you
 took a mistake that cost nothing and turned it into a mistake that cost plenty.
 
-- *The Stocks Gone Up, So I Must Be Right...or...The Stocks Gone Down, So I Must Be Wrong*
-  - people confuse prices with prospects. Unless they’re short term traders who’re looking for 20% gains, the short term fanfare means nothing. Price movements after your purchase only tell you that there was someone willing to pay more/less, for the identical merchandise.
+- *The Stocks Gone Up, So I Must Be Right...or...The Stocks have Gone Down, So I Must Be Wrong*
+  - people confuse prices with prospects. The short-term fanfare means nothing unless they’re short-term traders looking for 20% gains. Price movements after your purchase only tell you that someone was willing to pay more/less for the identical merchandise.
 
 
 ## WALL STREET
