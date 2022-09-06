@@ -130,6 +130,8 @@ key issues, collateral evidence, personal biases
 # Security analysis by Benjamin Graham and David Dodd
 
 - [security analysis by Benjamin Graham and David Dodd summary](/security-analysis-summary/)
+- [Swedish investor search criteria](https://youtu.be/09MQaNsU_7E)
+- 
 
 # Buffet's principles and rules of value investing
 
