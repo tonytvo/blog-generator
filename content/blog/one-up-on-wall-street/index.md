@@ -91,51 +91,52 @@ took a mistake that cost nothing and turned it into a mistake that cost plenty.
 
 ## WALL STREET
 
-- Street Lag: a stock isn’t truly attractive until a number of large institutions have recognized its suitability and an equal number of analysts recommend it.
-- Don’t believe that professional management has brought new prudence, sophistication & intelligence to the market. These stock pickers are usually right, but only for the last 20% of a typical stock move. It’s that last 20% that they study for, clamour for, and then line up for – all the while with a sharp eye on the exits. The idea is to make a quick gain and then stampede out the door.
-- Small investors don’t have to fight this mob. They can calmly walk in the entrance when there’s a crowd at the exit, and walk out the exit, when there’s a crowd at the entrance.
-- The fund manager is looking for reasons “not” to buy exciting stocks, so that he can offer the proper excuses if these exciting stocks go up. Too small, no track record, non growth industry, union employees, unproven management, high competition – these maybe reasonable concerns that merit
-investigation, but often they’re used to fortify snap judgments and wholesale taboos.
-- Unwritten rule: you’ll never lose your job, losing client money on IBM. Clients & bosses will ask what’s wrong with IBM? But if an investment in a small unknown company goes bad, they’ll ask, what’s wrong with you?
+- Street Lag: a stock isn’t truly attractive until some large institutions have recognized its suitability and an equal number of analysts recommend it.
+- Don’t believe that professional management has brought new prudence, sophistication & intelligence to the market. These stock pickers are usually right, but only for the last 20% of a typical stock move. It’s that last 20% that they study for, clamour for, and then line up for – all the while with a sharp eye on the exits. The idea is to make a quick gain and stampede out the door.
+- Small investors don’t have to fight this mob. They can calmly walk in the entrance when there’s a crowd at the exit and walk out the exit when there’s a crowd at the entrance.
+- The fund manager is looking for reasons “not” to buy exciting stocks so that he can offer the proper excuses if these exciting stocks go up. Too small, no track record, non-growth industry, union employees, unproven management, high competition – these may be reasonable concerns that merit
+the investigation is often used to fortify snap judgments and wholesale taboos.
+- Unwritten rule: you’ll never lose your job, losing client money on IBM. Clients & bosses will ask what’s wrong with IBM. But if an investment in a small unknown company goes bad, they’ll ask, what’s wrong with you?
 - Discounting = Euphemism for pretending to have anticipated surprising results.
 - A stock does not know that you own it
+
 
 ## GETTING THE FACTS
 
 - ***Getting the Most out of a Broker***
-  - You’re probably paying much higher commissions if you use a full service  broker. Make them sweat for their money if you use their services.
-  - If you use the broker as an advisor, then make him do the 2 minute drill, category of stock, recent growth in earnings, p/e ratio relative to historic levels, expansion plans, debt situation, insider buy, buying back share, etc...
+  - You’re probably paying much higher commissions if you use a full-service broker. Make them sweat for their money if you use their services.
+  - If you use the broker as an advisor, make him do the 2-minute drill, category of stock, recent growth in earnings, p/e ratio relative to historic levels, expansion plans, debt situation, insider buy, buying back share, etc...
 
 - ***Calling the Company***
-  - Amateurs never call; professionals do so all the time. For specific questions, investor relations is a good source. In small companies, you may reach high placed executives when you call.
+  - Amateurs never call; professionals do so all the time. For specific questions, investor relation is a good source. In small companies, you may reach high-placed executives when you call.
   - Before calling, prepare questions. 
-  - Do small talk before slipping in serious questions wrt business conditions, plans, mood at the company, anything unusual in the recent quarter. Pepper questions with little bits of information, so the source thinks you’re prepared.
-  - What you really want is a reaction to whatever script you’ve been trying to develop. Does it make sense? Is it working? Enquire about inventories, product/project development, capacity utilization, prices, debt repayments, market share, expansion, asset values.
+  - Do small talk before asking serious questions about business conditions, plans, the mood at the company, or anything unusual in the recent quarter. Pepper questions with little information so the source thinks you’re prepared.
+  - What you want is a reaction to whatever script you’ve been trying to develop. Does it make sense? Is it working? Enquire about inventories, product/project development, capacity utilization, prices, debt repayments, market share, expansion, and asset values.
   - Don’t ask, Why is the share price falling? 
-  - Don’t ask about expected EPS directly. Indirect, subtle way to do is to ask about Wall Street EPS estimates.
-  - If your story line is well developed, then you’ll know what to ask. Even if you don’t have a script, simply ask:
+  - Don’t ask about expected EPS directly. An indirect, subtle way to do this is to ask about Wall Street EPS estimates.
+  - If your storyline is well-developed, you’ll know what to ask. Even if you don’t have a script, simply ask:
     - What are the positives this year?
     - What are the negatives?
-  - Sum up conversation as follows: 4 positives, 3 negatives.
-  - You’ll find something extraordinary in 1/10 calls. While calling depressed companies, 9 will confirm bad news, as expected, but 1 will give some cause for optimism, that isn’t generally perceived. The unexpected can be very profitable.
-- Always end discussion with: which competitor do you respect the most? Managements speak negatively about competition 95% of the time and it doesn’t
+  - Sum up a conversation as follows: 4 positives and three negatives.
+  - You’ll find something extraordinary in 1/10 calls. While calling depressed companies, nine will confirm bad news, as expected, but one will give some cause for optimism, which isn’t generally perceived. The unexpected can be very profitable.
+- Always end the discussion with: which competitor you respect the most? Managers speak negatively about competition 95% of the time, which doesn’t
 mean much. However, nothing is more bullish than a rival’s begrudging respect.
 
 - ***Visiting Headquarters***
-  - Get a feel for the place. When’s the last time an analyst visited? Longer the time period, better it is.
-  - Bad signs include fine antiques expensive furnishings, furniture, etc. 
-  - Can also meet front office employees and investor relation representatives informally at annual meetings.
-  - Calculate the net worth of company representatives based on shares held. If you can’t imagine how a representative got so rich, and could get richer if stock rises, chances are you may be right and share may truly be overpriced. Does that person ‘deserve’ to be so rich?
+  - Get a feel for the place. When was the last time an analyst visited? The longer the period, the better it is.
+  - Bad signs include fine antiques, expensive furnishings, furniture, etc. 
+  - Can also inform front office employees and investor relation representatives at annual meetings.
+  - Calculate the net worth of company representatives based on shares held. If you can’t imagine how a representative got so rich and could get richer if the stock rises, you may be right, and the share may truly be overpriced. Does that person ‘deserve’ to be so rich?
 
 - ***Balance Sheet:***
-  - Check cash and marketable securities in the current assets section. If together it exceeds long-term debt in the long-term liability section, it’s very favorable. No matter what happens, the company isn’t about to go out of business.  
-  - Assume other current assets including a/c receivable, inventories and other current assets are valuable enough to cover short term debt. 
-  - If long-term debt exceeds cash, the cash has been shrinking and debt has been growing, the company is in weak financial shape. 
+  - Check cash and marketable securities in the current assets section. If together it exceeds long-term debt in the long-term liability section, it’s very favourable. No matter what happens, the company isn’t about to go out of business.  
+  - Assume other current assets, including a/c receivable, inventories, and other current assets are valuable enough to cover the short-term debt. 
+  - If the long-term debt exceeds cash, the cash has been shrinking, and debt has been growing, the company is in weak financial shape. 
   - “Debt reduction is another sign of prosperity. When cash increases relative to debt, it’s an improving balance sheet. When it’s the other way around, it’s a deteriorating balance sheet.”
 
-- As a personal rule, once a month, Lynch held at least 1 personal conversation with a representative of each major industry group just in case business was starting to turnaround or there were new developments overlooked by Wall Street. This was an effective early warning system and in 2/10 cases he’d discover something important.
+- As a personal rule, once a month, Lynch held at least one personal conversation with a representative of each major industry group just in case business was starting to turn around, or Wall Street overlooked new developments. This was an effective early warning system, and in 2/10 cases, he’d discover something important.
 
-- Be careful to note the name of everyone you meet. After very contact, note the company, current price and a 1-2 line summary of the story you’d just heard. Every investor benefits from keeping such notes, without which, it’s easy to forget buying reasons
+- Be careful to note the name of everyone you meet. After every contact, note the company, current price and a 1-2 line summary of the story you’d just heard. Every investor benefits from keeping such notes, without which, it’s easy to forget buying reasons
 
 
 # DESIGNING A PORTFOLIO
