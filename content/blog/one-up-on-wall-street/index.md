@@ -141,63 +141,63 @@ mean much. However, nothing is more bullish than a rival’s begrudging respect.
 
 # DESIGNING A PORTFOLIO
 
-- Investing in bonds, money-markets, or CDs are all different forms of debt—for which one is paid interest. Historically debt instruments have recorded less than 5% gains. In bonds, you’re nothing more than the nearest source of spare change. When you lend money to somebody, the best you can hope for is to get it back, plus interest.
+- Investing in bonds, money markets, or CDs are different forms of debt—for which one pays interest. Historically debt instruments have recorded less than 5% gains. In bonds, you’re nothing more than the nearest source of spare change. When you lend money to somebody, the best you can hope for is to get it back, plus interest.
 
-- The portfolio design may change as you grow older. Younger investors, with a lifetime of earnings ahead of them can afford to take more chances on 10x opportunities, vs older investors who may want to live off dividends.
+- The portfolio design may change as you grow older. Younger investors, with a lifetime of earnings ahead of them, can afford to take more chances on 10x opportunities, vs older investors who may want to live off dividends.
 
 - ![peter lynch risk reward classification](./peter-lynch-risk-reward-classification.png)
 
-- Determine Stock : Bond Mix based on Growth : Income wants. Most people err on the side of income and short change growth. 
-  - Can hardly go wrong by making a full portfolio of companies that have raised dividends for 10-20 years in a row. 
-  - Stock allocation % depends on how much you can afford to invest in stocks, and how quickly you’re going to need to spend this money. Increase the stock % to the limits of your tolerance. 
+- Determine Stock: Bond Mix based on Growth: Income wants. Most people err on the side of income and short-change growth. 
+  - Can hardly go wrong by making a full portfolio of companies that have raised dividends for 10-20 years. 
+  - Stock allocation % depends on how much you can afford to invest in stocks and how quickly you will need to spend this money. Increase the stock % to the limits of your tolerance. 
   - In 50/50 portfolio, combined return = 4.5% (1.5% dividend + 7.5% 10 year bonds). Historically, stocks return 10% = 8% growth + 2% dividend yield. So portfolio growth in 50/50 mix = 4%, (8+0)/2, which is < Inflation. 
-  - It's incorrect to state that you can’t afford the loss in fixed income, because over the long term, growth more than makes up for any losses. But fear factor comes into play. 
-  - The person who uses stocks as a substitute for bonds not only must ride out the periodic corrections, but also must be prepared to sell shares, sometimes at depressed prices, to meet living expenses. This is especially difficult in the early stages, when a market setback could cause portfolio to drop below purchase price. Such worries of wiping out the capital keeps people in bonds, even when they’re aware of the long term wisdom of investing in stocks. 
-  - Assume that the day you go 100% into stocks, the market corrects 25%. You’d still equal bond returns, even if you imagine the most prolonged  disaster in modern finance – a 20 year severe recession, when earnings and dividends only grow at 4% instead of 8%. 
+  - It's incorrect to state that you can’t afford the loss in fixed income because, over the long term, growth more than makes up for any losses. But the fear factor comes into play. 
+  - The person who uses stocks as a substitute for bonds not only must ride out the periodic corrections but also must be prepared to sell shares, sometimes at depressed prices, to meet living expenses. This is especially difficult in the early stages when a market setback could cause portfolios to drop below the purchase price. Such worries of wiping out the capital keep people in bonds, even when they’re aware of the long-term wisdom of investing in stocks. 
+  - Assume that the day you go 100% into stocks, the market corrects 25%. You’d still equal bond returns, even if you imagine the most prolonged disaster in modern finance – a 20-year severe recession when earnings and dividends only grow at 4% instead of 8%. 
 - Bonds vs Bond Funds 
-  - 30 year T-bond is safe only if you get 30 years of low inflation. If inflation is >10%, then the bonds will lose 20-30% of their value. 
+  - 30-year T-bond is safe only if you get 30 years of low inflation. If inflation is >10%, the bonds will lose 20-30% of their value. 
   - Bonds are safer to buy in funds, only if they’re corporate / junk bonds, where diversification limits default risk. 
 - Stocks vs Stock Funds 
-  - The only way to benefit from funds is to keep owning it, just like owning a stock. This requires a strong will. For people who can be scared out of stocks, fund investments don’t solve the problem. 
-  - Buffett’s admonition that people who can’t tolerate seeing their stocks lose 50% of their value shouldn’t own stocks, also applies to funds. 
-  - During a correction, it’s a common occurrence for the best performing funds to decline > the average stock. To benefit, you’ve to stay invested. 
+  - The only way to benefit from funds is to keep owning it, just like owning a stock. This requires a strong will. Fund investments don't solve the problem for people who can be scared out of stocks. 
+  - Buffett’s admonition that people who can’t tolerate seeing their stocks lose 50% of their value shouldn’t own stocks also applies to funds. 
+  - During a correction, it’s common for the best-performing funds to decline > the average stock. To benefit, you’ve to stay invested. 
   - Distribute equity portfolio by buying several funds of varying styles and philosophies. Markets and conditions change, and one style of manager or fund won’t succeed in all seasons. 
     - i) Capital Appreciation: can buy all types of stocks and isn’t forced to adhere to any particular philosophy. 
     - ii) Value: Assets, not earnings, are the main attraction. 
-    - iii) Quality Growth: Mid-Large cap companies that are well established, expanding at a respectable and steady rate, increasing earnings at >15%. This cuts out cyclicals, slow growing blue chips and utilities. 
+    - iii) Quality Growth: Mid-Large cap companies that are well established, expanding at a respectable and steady rate, increasing earnings at >15%. This cuts out cyclical, slow-growing blue chips and utilities. 
     - iv) Emerging Growth: small caps 
-    - v) Special Situations: companies have nothing in common, except that something unique has occurred to change their prospects. 
-  - Anyone can create a stock portfolio by picking 1 fund from each of the above, and adding 1 more fund that invests in utilities / equity income fund, as a ballast for stormy markets. 
-  - Can also add 2 index funds, 1 each for S&P 500 (covers quality growth) and Russell 2000 (covers emerging growth).
-  - Divide money equally between funds and also deploy new money equally. The sophisticated way to do it is to adjust the weight of the funds, putting Only the new money into sectors that’ve lagged When any fund does poorly, the natural temptation is to switch to a better fund. People, who switch, tend to lose patience at precisely the wrong time, jumping from a value fund to a growth fund, just as value is starting to wax and growth is starting to wane. 
-  - In fact, when a value fund does better than its rivals in a bad year for value style, it’s not necessarily a cause for celebration. It maybe so, that the manager has used other styles to outperform in the short term, but such benefits will be fleeting. When value returns, he won’t be fully invested in it.
-  - stocks in general checklist
+    - v) Special Situations: companies have nothing in common except that something unique has occurred to change their prospects. 
+  - Anyone can create a stock portfolio by picking one fund from each of the above and adding one more fund that invests in utilities/equity income funds as ballast for stormy markets. 
+  - Can also add two index funds, one for S&P 500 (covers quality growth) and Russell 2000 (covers emerging growth).
+  - Divide money equally between funds and also deploy new money equally. The sophisticated way to do it is to adjust the weight of the funds, putting Only the new money into sectors that have lagged. When any fund does poorly, the natural temptation is to switch to a better fund. People, who switch, tend to lose patience at precisely the wrong time, jumping from a value fund to a growth fund just as value is starting to wax and growth is starting to wane. 
+  -when a value fund does better than its rivals in a bad year for value style, it’s not necessarily a cause for celebration. It may be so that the manager has used other styles to outperform in the short term, but such benefits will be fleeting. When value returns, he won’t be fully invested in it.
+  - stocks in the general checklist
     - The p/e ratio compare to similar companies within the same industry 
-    - Percentage of institutional ownership. The lower the better
+    - Percentage of institutional ownership. The lower, the better
     - Insider buying & whether the company itself is buying back shares. Both are positive.
     - Record of earnings growth and whether the earnings are sporadic or consistent. 
-    - Strong balance sheet or weak. Debt-to-equity ratio and cash position 
+    - Strong balance sheet or weak. The debt-to-equity ratio and cash position 
   - Picking a Winner
-    - Don’t spend a lot of time over a fund’s past performance. Not to say you shouldn’t pick a fund with a good long term record, but it’s better to stick with a steady and consistent performer, vs, a fund whose performance moves in and out of best / worst performing lists. 
-    - Check bear market performance. Some funds lose more, but regain more on rebound; some lose less & gain less; while some lose more & gain less. Avoid the third group.
-    - Forbes grades funds A-F, based on its performance in 2 preceding bear and bull markets. Funds that fare A/B in both situations get into the honour roll.
-  - Sector Funds: not recommended, unless you’ve special industry knowledge. 
-  - Convertible Funds: underrated way to enjoy the best of both worlds – high performance of secondary and small cap stocks + stability of bonds. Customarily, the conversion price is 20-25% higher than the market price. Investors are better off investing via funds, rather than directly. Buy convertible funds when the spread between convertible and corporate bonds is narrow (1.5-2%), and sell when it widens.
-  - Closed End Funds: trade on exchanges, ∴ fluctuate like stocks – selling at a discount / premium to NAV. Look for opportunities during market sell offs. 
-  - Country Funds: to succeed, you’ve to have patience and a contrarian bent. They arouse a desire for instant gratification. The best time to buy a closed end country fund is when it’s unpopular and trading at a 20-25% discount to NAV. Drawbacks include, a) higher fees and expenses, b) not just companies, currency must remain strong as well, and, c) government mustn’t ruin the party with extra taxes or regulations that hurt business. Check, a) whether the fund manager has worked there, knows people in companies and can follow their stories?, b) is information disclosure proper, or sketchy and misleading?
+    - Don’t spend much time on a fund’s past performance. Not to say you shouldn’t pick a fund with a good long-term record, but it’s better to stick with a steady and consistent performer, vs, a fund whose performance moves in and out of best / worst performing lists. 
+    - Check bear market performance. Some funds lose more but regain more on the rebound; some lose less & gain less; while some lose more & gain less. Avoid the third group.
+    - Forbes grades funds A-F, based on their performance in the 2 preceding bear and bull markets. Funds that fare A/B in both situations get into the honour roll.
+  - Sector Funds: not recommended unless you’ve special industry knowledge. 
+  - Convertible Funds: an underrated way to enjoy the best of both worlds – high performance of secondary and small-cap stocks + stability of bonds. Customarily, the conversion price is 20-25% higher than the market price. Investors are better off investing via funds rather than directly. Buy convertible funds when the spread between convertible and corporate bonds is narrow (1.5-2%), and sell when it widens.
+  - Closed-End Funds: trade on exchanges, ∴ fluctuate like stocks – selling at a discount/premium to NAV. Look for opportunities during market sell-offs. 
+  - Country Funds: to succeed, you must have patience and a contrarian bent. They arouse a desire for instant gratification. The best time to buy a closed-end country fund is when it’s unpopular and trading at a 20-25% discount to NAV. Drawbacks include a) higher fees and expenses, b) not just companies, the currency must remain strong, and c) government mustn’t ruin the party with extra taxes or regulations that hurt business. Check a) whether the fund manager has worked there, knows people in companies and can follow their stories?) is information disclosure proper, or sketchy and misleading?
 - ***How Many Stocks Is Too Many?*** 
   - Best to own as many stocks as there are situations in which: 
     - You have an edge, and, 
     - You’ve uncovered an exciting prospect that passes all your tests.
-  - It could be 1 stock or a dozen, there’s no use of diversifying into unknown companies just for the sake of diversity.
-  - However, it isn’t safe to own a single stock, because despite your best efforts, the one you choose maybe a victim of unforeseen circumstances. 
+  - It could be one stock or a dozen. There’s no use in diversifying into unknown companies just for diversity.
+  - However, it isn’t safe to own a single stock because, despite your best efforts, the one you choose may be a victim of unforeseen circumstances. 
   - In small portfolios. One can be comfortable holding 3-10 stocks. There are several possible benefits: 
     - The more stocks you own, the more likely that one of them will 10x. 
     - More stocks provide greater flexibility to rotate funds between them. This was an important part of Lynch’s strategy. Some people ascribe his success to having specialized in growth stocks, but that’s only partly accurate. He never put >30-40% into growth stocks. 
-  - Small investors can follow the Rule of 5 and limit portfolio to 5 stocks. If just 1 becomes 10x, and other 4 go nowhere, the portfolio becomes 3x. o You can have a paper portfolio, with 10- 15 stocks that you actively research, and own 5 or 6 that you judge to be attractive. This will be great practice, and you’ll learn what your strengths and weaknesses are, and in what areas of the economy you’ve better skills. 
-  - The practice of buy, sell & forget, in a long string of companies isn’t likely to succeed. Investors want to put their old stocks out of their minds, because it invokes a painful memory. With a stock you once owned, especially if it went up after selling, it’s human nature to avoid looking at its quote. You must train yourself to overcome this phobia. Think of investments not as discontinued events, but as continuing sagas, which need to be rechecked from time to time. Unless a company goes bankrupt, the story is never over. To keep up with old favourites, keep a large notebook in which you record important details from company reports & reasons why you decided to buy/hold the last time. 
-  - Don’t pick a new and different company, otherwise, you’ll end up with too many stocks and you won’t remember why you bought them. Getting involved with a manageable number of companies and confining your buy/sell to these is not a bad strategy. Inevitably, some gloomy scenario will cause a general retreat in the stock market, your old favourites will once again become bargains and you can add to your investment. 
-  - If all stocks went up at the same rate, there would be nothing left to buy and investors everywhere would be out of business. Fortunately, this is not the case. There’s always a laggard to fall back on once you’ve sold a stock that’s gotten ahead of itself. o Magellan owned 1400 stocks, of which, 50% of AUM was in the top 100 stocks, 2/3rd in top 200 and 1% spread over 500 secondary stocks that were monitored periodically, with the possibility of tuning in later. If something happened to a secondary stock to bolster confidence, it got promoted to a primary selection
+  - Small investors can follow the Rule of 5 and limit portfolios to 5 stocks. If just one becomes 10x, and the other four go nowhere, the portfolio becomes 3x. o You can have a paper portfolio with 10- 15 stocks that you actively research and own 5 or 6 that you judge to be attractive. This will be great practice; you’ll learn your strengths and weaknesses and in what areas of the economy you’ve better skills. 
+  - The practice of buying, selling & forget, in a long string of companies isn’t likely to succeed. Investors want to put their old stocks out of their minds because it invokes a painful memory. With a stock you once owned, especially if it went up after selling, it’s human nature to avoid looking at its quote. You must train yourself to overcome this phobia. Think of investments not as discontinued events but as continuing sagas, which need to be rechecked from time to time. Unless a company goes bankrupt, the story is never over. To keep up with old favourites, keep a large notebook in which you record important details from company reports & reasons why you decided to buy/hold the last time. 
+  - Don’t pick a new and different company. Otherwise, you’ll end up with too many stocks and won’t remember why you bought them. Getting involved with a manageable number of companies and confining your buy/sell to these is not a bad strategy. Inevitably, some gloomy scenario will cause a general retreat in the stock market, your old favourites will once again become bargains, and you can add to your investment. 
+  - If all stocks went up at the same rate, there would be nothing left to buy, and investors everywhere would be out of business. Fortunately, this is not the case. There’s always a laggard to fall back on once you’ve sold a stock that’s gotten ahead of itself. o Magellan owned 1400 stocks, of which 50% of AUM was in the top 100 stocks, 2/3rd in the top 200 and 1% spread over 500 secondary stocks that were monitored periodically, with the possibility of tuning in later. If something happened to a secondary stock to bolster confidence, it got promoted to a primary selection
 
 
 # STOCK PICKING
