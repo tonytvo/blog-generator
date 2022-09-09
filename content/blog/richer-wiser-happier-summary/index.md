@@ -296,7 +296,7 @@ Lists of your biggest biases, emotional tendencies, and mistakes serve as a good
 
 "He asks himself questions such as Are investors appropriately skeptical and risk-averse or are they ignoring risks and happily paying up? Are valuations reasonable relative to historical standards? Are deal structures fair to investors? Is there too much faith in the future?"
 
-"I always look at things in terms of ‘Where’s the mistake? Is the mistake in buying or not buying?’ " — Marks
+I always look at things in terms of ‘Where’s the mistake? Is the mistake in buying or not buying?’ — Marks
 
 "Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome."
 
