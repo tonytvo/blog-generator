@@ -7,6 +7,15 @@ tags: ["strategy", "bitcoin"]
 
 # take-aways
 
+- money was first used as a medium of exchange
+- gold became the basis for sound money
+- european governments devalued their currencies to fund their war efforts
+- gold-backed money was replaced by government-backed money after the first world-war
+- sound money is the basis for a functioning economy
+- unsound money leads to recessions and debt
+- bitcoin is unique in its scarcity
+- bitcoin could emerge as a new standard, though it faces challenges
+
 
 # Money served as an exchange medium at first
 
@@ -321,3 +330,5 @@ tags: ["strategy", "bitcoin"]
 
 # References
 - https://wisewords.blog/book-summaries/the-bitcoin-standard-book-summary/
+- https://www.hustleescape.com/book-summary-the-bitcoin-standard-by-saifedean-ammous/
+- https://highincomesource.com/the-bitcoin-standard-summary/
