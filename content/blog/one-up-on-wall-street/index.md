@@ -317,28 +317,28 @@ of his earliest picks – when people wouldn’t look at a small restaurant comp
     - i) About the market
     - ii) About how much you trust companies
     - iii) about whether you need to invest in stocks & what you expect from them
-    - iv) about whether you're a short, ore , long term investor
+    - iv) about whether you're a short or, long-term investor
     - v) about how you will react to sudden unexpected, and severe price drops.
-- Define your objectives and clarify your attitude beforehand (do I really think stocks are safer than bonds?). If you’re undecided and lack conviction,  then you’re a potential market victim who abandons all hope and reason at the worst moment & sells at a loss. 
+- Define your objectives and clarify your attitude beforehand (do I think stocks are safer than bonds?). If you’re undecided and lack conviction, you’re a potential market victim who abandons all hope and reason at the worst moment & sells at a loss. 
 
-- When you invest in stocks, you’ve to have a basic faith in human nature, capitalism, the country & in future prosperity in general
+- When you invest in stocks, you’ve to have a basic faith in human nature, capitalism, the country & future prosperity in general
 
 - **Do I Own a House?**
   - Before stocks, consider buying a house. It’s the one good investment decision that almost everyone makes.
-  - Unlike stocks, houses are likely to be held by the same person for many years, vs a high churn rate in stocks.
-  - You never get scared out of your house just because of price falls.
-  - People spend months choosing a house, asking the right questions, but pick stocks in a few minutes.
+  - Unlike stocks, houses are likely to be held by the same person for many years, vs a high stock churn rate.
+  - You never get scared out of your house because of price falls.
+  - People spend months choosing a house and asking the right questions but pick stocks in a few minutes.
 - 
 - **Do I Need the Money?**
-  - Set aside cash for 2-3 years, as per your family budget.
-  - the money you want to invest in stocks should be truly surplus. For instance, if you're going to have to pay for a child's college education in 2 or 3 years, don't put that money into stocks.
+  - Set aside cash for 2-3 years per your family budget.
+  - the money you want to invest in stocks should be truly surplus. For instance, if you have to pay for a child's college education in 2 or 3 years, don't put that money into stocks.
 - 
 - **Do I Have the Personal Qualities?**
   - Patience
-  - Self reliance
+  - Self-reliance
   - Common sense
   - Tolerance for pain
-  - Open mindedness
+  - Open-mindedness
   - Detachment
   - Persistence
   - Humility
@@ -347,42 +347,42 @@ of his earliest picks – when people wouldn’t look at a small restaurant comp
   - Willingness to admit mistakes
   - Ability to ignore general panic
   - Important to make decisions without complete or perfect information. Things are never clear. When they are, it’s too late to profit from them.
-  - It’s crucial to be able to resist your human nature & gut feelings. Only a rare investor doesn’t secretly harbour the belief that he can divine prices, despite the fact that most of us have been proven wrong again & again.
-  - When people discover they’re no good at sports, they give up, but when they discover they’re no good at stock picking they continue anyway. Be open mind to new ideas. If you don’t think you can beat the market, then buy mutual funds & save yourself extra work & money.
+  - It’s crucial to be able to resist your human nature & gut feelings. Only a rare investor doesn’t secretly harbour the belief that he can divine prices, even though most of us have been proven wrong again & again.
+  - When people discover they’re no good at sports, they give up, but when they discover they’re no good at stock picking, they continue anyway. Be open mind to new ideas. If you don’t think you can beat the market, then buy mutual funds & save yourself extra work & money.
 
 - **Dealing with Price Drops**
-  - The best time to buy stocks will always be the day you’ve convinced yourself you’ve found solid merchandise at a good price – same as at the mall.
-  - Perhaps there’s some poetic justice in the fact that that stocks that take you the farthest in the long run, give you the most bumps and bruises along the way.
-  - Small investors are capable of handling all sorts of markets, as long as they own good merchandise. After all, market crashes are only losses to people who took the losses. That isn’t the long term investor, it’s the margin player.
-  - There’s not a lot you can do when the market’s in a cascade. 1987 wasn’t analyzed very well. You’ve to put it in perspective. 1982, the market’s 777. By 1986, the market moves to 1700. Then it adds 1,000 points, reaching 2,700 by Aug ‘87. Then it falls 1,000 points in 2 months, 500 points the last day. So if the market went sideways at 1,700, no one would’ve worried, but it went up a 1,000 in 10 months & then down a 1,000 in 2 months, people said, “The world’s over.” It was the same price. So it was really a question of the market just kept going up and up and it just went to such an incredible high price, but people forget that it was basically unchanged for 1 year. It’d gone 1,000 points up, then 1,000 points down, and they only remember the down.
-  - You get recessions, you have market declines. If you don’t understand that’s going to happen, then you’re not ready – you won’t do well in the markets. If you go to Minnesota in January, you should know that it’s gonna be cold. You don’t panic when the thermometer falls <0.
-  - If you can summon the courage & presence of mind to buy during scary periods that occur every few years, when your stomach says sell, you’ll find
+  - The best time to buy stocks will always be the day you’ve convinced yourself you’ve found solid merchandise at a good price – the same as at the mall.
+  - Perhaps there’s some poetic justice in that stocks that take you the farthest, in the long run, give you the most bumps and bruises.
+  - Small investors can handle all sorts of markets as long as they own good merchandise. After all, market crashes are only losses to people who took the losses. That isn’t the long-term investor. It’s the margin player.
+  - There’s not much you can do when the market’s in a cascade. 1987 wasn’t analyzed very well. You’ve to put it in perspective. 1982, the market’s 777. By 1986, the market moves to 1700. Then it adds 1,000 points, reaching 2,700 by Aug ‘87. Then it falls 1,000 points in 2 months, 500 points on the last day. So if the market went sideways at 1,700, no one would’ve worried, but it went up 1,000 in 10 months & then down 1,000 in 2 months, and people said, “The world’s over.” It was the same price. So it was a question of the market just kept going up and up, and it just went to such an incredibly high price, but people forget that it was unchanged for one year. It’d gone 1,000 points up, then 1,000 points down, and they only remember the down.
+  - You get recessions, and you have market declines. If you don’t understand what's going to happen, you’re not ready – you won’t do well in the markets. If you go to Minnesota in January, you should know that it’s gonna be cold. You don’t panic when the thermometer falls <0.
+  - If you can summon the courage & presence of mind to buy during scary periods that occur every few years when your stomach says sell, you’ll find
 opportunities that you never thought you’d ever see again.
   - If you can’t convince yourself, “When I’m down 25%, I’m a buyer”, and banish forever the thought “When I’m down 25%, I’m a seller”, then you’ll never
 make a decent profit in stocks.
-  - Ultimate success or failure depends on your ability to ignore the worries of the world long enough to allow your investments to succeed. It isn’t the head, but the stomach that that determines the fate of the stock picker.
-  - The skittish investor, no matter how intelligent, is always susceptible to getting flushed out of the market by the brush beaters of the doom. Experience is always an expensive teacher.
-  - As the indices hit new records, many small companies may be ignored. That's not to say owning these laggards will protect you if the bottom drops out of the market. If that happens, the stocks that didn't go up will go down just as hard & fast as the stocks that did. Before the selling is over, companies that look cheap, get much cheaper.
+  - Ultimate success or failure depends on your ability to ignore the world's worries long enough to allow your investments to succeed. It isn’t the head but the stomach that determines the stock picker's fate.
+  - No matter how intelligent, the skittish investor is always susceptible to getting flushed out of the market by the brush beaters of the doom. Experience is always an expensive teacher.
+  - As the indices hit new records, many small companies may be ignored. That's not to say owning these laggards will protect you if the bottom drops out of the market. If that happens, the stocks that didn't go up will go down just as hard & fast as the stocks that did. Before the selling is over, companies that look cheap get much cheaper.
 
 - **The Even Bigger Picture**
   - It’s simple to tell yourself, “Gee, I guess I’ll ignore the bad news the next time the stock market is going down and pick up some bargains.” But since each crisis seems worst than the last, ignoring bad news gets harder.
-  - The best way to not get scared out of stocks is regular systematic investing. If you don’t buy with monthly discipline, you’ve got to find some way to keep the faith. Without faith, you may invest in a good fund, but you’ll sell at the point of maximum fear, ie, at the bottom.
-  - What sort of faith? Faith that the country will survive, that people will go to work, that the companies they work for will make money, faith that as old companies lose momentum, new exciting companies will emerge to take their place, faith that the country is a nation of hardworking and creative people.
-  - Whenever you’re concerned about the Current Big Picture, concentrate on the Even Bigger Picture. This tells us that over the last 70 years, stocks have returned 10.3%, vs, 4.8% for bonds. Despite all the great & minor calamities that occurred in the last century, stocks have rewarded 2x. Acting on this bit of information is more lucrative than acting on the opinions of commentators
-predicting the coming depression. o These 70 years have seen 40 scary declines of >10%, of which, 13 were >33%, including the 1929-33 selloff.
+  - Regular systematic investing is the best way to avoid getting scared out of stocks. If you don’t buy with monthly discipline, you’ve got to find some way to keep the faith. Without faith, you may invest in a good fund, but you’ll sell at the point of maximum fear, i.e., at the bottom.
+  - What sort of faith? Faith that the country will survive, that people will go to work, that the companies they work for will make money, that as old companies lose momentum, new exciting companies will emerge to take their place, and that the country is a nation of hardworking and creative people.
+  - Whenever you’re concerned about the Current Big Picture, concentrate on the Even Bigger Picture. This tells us that over the last 70 years, stocks have returned 10.3% vs 4.8% for bonds. Despite all the great & minor calamities that occurred in the last century, stocks have been rewarded 2x. Acting on this bit of information is more lucrative than acting on the opinions of commentators
+predicting the coming depression. o These 70 years have seen 40 scary declines of >10%, of which 13 were >33%, including the 1929-33 selloff.
   - Scare Proofing Drill – concentrate on the Even Bigger picture during scary periods, assuming that the worst wouldn’t happen, and then ask yourself,
-if it didn’t, what then? Things can only get better than they are. Investors attempt to prepare for total disaster by bailing out of their best investments is stupid: a) If total disaster strikes, cash in bank would be as useless as stocks. b) If it doesn’t strike (much more likely outcome), the cautious types have just become the reckless ones, selling their valuable assets for a pittance.
+if it didn’t, what then? Things can only get better than they are. Investors' attempt to prepare for total disaster by bailing out of their best investments is stupid: a) If total disaster strikes, cash in the bank would be as useless as stocks. b) If it doesn’t strike (much more likely outcome), the cautious types have just become reckless, selling their valuable assets for a pittance.
   - When you sell in desperation, you always sell cheap – you should ignore the market ups & downs. Even if the 1987 crash made you nervous about the
-market, you didn’t have to sell that day, or the next. You could’ve gradually reduced your stocks and come out ahead of the panic sellers.
+market, you didn’t have to sell that day or the next. You could’ve gradually reduced your stocks and come out ahead of the panic sellers.
 
 - **Watering the Weeds**
   - Some people automatically sell winners and hold onto the losers, which is about as sensible as pulling out flowers and watering the weeds. Others sell their losers and hold onto winners, which doesn’t work out much better.
-  - Both strategies fail because they’re tied to the current price movements as an indicator of a company’s value. Price tells us nothing about future prospects, and it occasionally moves in the opposite direction of fundamentals.
-  - A better strategy is to rotate in and out of stocks depending on what has happened to the price, as it relates to the story. Eg. If a Stalwart rises 40% and nothing wonderful has happened with the company to make you think that there are wonderful surprises ahead, replace it with another Stalwart you find attractive, that hasn’t gone up. In the same situation, if you didn’t want to sell all of it, you could sell some of it.
-  - A price drop in a good stock is only a tragedy, if you sell at that price and never buy more. A price drop is an opportunity to load up on bargains from among your worst performers and your laggards that show promise.
+  - Both strategies fail because they’re tied to the current price movements as an indicator of a company’s value. Price tells us nothing about prospects, and it occasionally moves in the opposite direction of fundamentals.
+  - A better strategy is to rotate in and out of stocks depending on what has happened to the price, as it relates to the story. E.g. If a Stalwart rises 40% and nothing wonderful has happened with the company to make you think that there are wonderful surprises ahead, replace it with another Stalwart you find attractive that hasn’t gone up. In the same situation, if you didn’t want to sell all of it, you could sell some of it.
+  - A price drop in a good stock is only a tragedy if you sell at that price and never buy more. A price drop is an opportunity to load up on bargains from among your worst performers and laggards that show promise.
   - How can someone complain after selling a stock at 5x? When you’ve found the right stock and bought it, all the evidence tells you it’s going higher, and everything is working in your favour, then it’s a shame if you sell a 25x for 5x.
 
-- Ignore others in favour of your own research. Investing ≠ surgery/hairdressing/plumbing. The smart money isn’t smart, and the dumb money isn’t as dumb as it thinks. It’s only dumb when it listens to the smart money.
+- Ignore others in favour of your research. Investing ≠ in surgery/hairdressing/plumbing. The smart money isn’t smart, and the dumb money isn’t as dumb as it thinks. It’s only dumb when it listens to smart money.
 
 - Inferiority complex causes investors to do 1 of 3 self-destructive things: 
   - i) Imitate the pros by buying “hot” stocks or trying to “catch the turn” in, say, IBM.
@@ -391,26 +391,26 @@ market, you didn’t have to sell that day, or the next. You could’ve graduall
 
 - **The Double Edge:**
   - Oil executive’s knowledge about his industry ≠ consumer knowledge about brands. What do you possibly know that other people don’t know a lot better? If nothing, then your edge is = 0.
-  - Professional’s edge is useful in knowing when and when not to buy companies that have been around a while, especially Cyclicals.
-  - On top of the professional’s edge is the consumer edge. This is helpful in picking out the winners from the newer and smaller fast growing companies,
+  - Professional’s edge is useful in knowing when and when not to buy companies that have been around for a while, especially Cyclicals.
+  - On top of the professional’s edge is the consumer's edge. This helps pick out the winners from the newer and smaller fast-growing companies,
 especially in retail.
 
-- True contrarian isn’t the one who takes the opposite view of a popular hot issue. The true contrarian waits for things to cool down & buys stocks that nobody cares about, especially those that make Wall Street yawn.
+- True contrarian does not take the opposite view of a popular hot issue. The true contrarian waits for things to cool down & buys stocks that nobody cares about, especially those that make Wall Street yawn.
 
-- Penultimate Preparedness: no matter how we arrive at the latest conclusion, we always seem to be preparing ourselves for the last thing that happened, vs, what’s going to happen next. This extrapolation is our way of making up for the fact that we didn’t see the last thing coming along in the first place.
+- Penultimate Preparedness: no matter how we arrive at the latest conclusion, we always seem to be preparing ourselves for the last thing that happened vs what’s going to happen next. This extrapolation is our way of making up for the fact that we didn’t see the last thing coming along in the first place.
 
-- Drumbeat Effect – a particularly ominous message is repeated over and over until it’s impossible to get away from it. Friends, relatives, brokers etc whisper in your ears. You might get the “congratulations, don’t be greedy” message, on a particular stock. Most of the drumbeat messages revolve around
+- Drumbeat Effect – a particularly ominous message is repeated repeatedly until it’s impossible to get away from it. Friends, relatives, brokers etc., whisper in your ears. You might get the “congratulations, don’t be greedy” message on a particular stock. Most of the drumbeat messages revolve around
 macroeconomic or political issues.
 
-- Biggest trouble with stock market advice is that good or bad, it stocks to your brain. Every single dumb idea you hear about stocks, will get into your brain. You can’t get it out of your head, and someday, sometime, you’ll find yourself reacting to it.
+- Biggest trouble with stock market advice is that good or bad, it stocks to your brain. Every dumb idea you hear about stocks will get into your brain. You can’t get it out of your head, and someday, sometime, you’ll find yourself reacting to it.
 
-- A stock doesn’t know that you own it. When Lynch ran Magellan, the market had 9 declines of >10% in 13 years. He had a perfect record, all 9 times, his fund went down. He didn’t spend any time predicting the economy, or the stock market – he spent all his time looking at companies.
+- A stock doesn’t know that you own it. When Lynch ran Magellan, the market had nine declines of >10% in 13 years. He had a perfect record. All nine times, his fund went down. He didn’t spend time predicting the economy or the stock market – he spent all his time looking at companies.
 
 - ‘Playing the Market’ has done more damage to investing than anyone can imagine. 
 
-- If you said you were an investment manager, people would just move onto the next topic. That was sort of the attitude in the ’60s and ’70s. As the market started to heat up, you’d say you were an investor, “That’s interesting. Are there any stocks you’re buying?” Then people would listen not avidly, but think about it. But then as the ’80s piled on, they started writing things down. So people would really take an interest, “What do you like?”
-And then it turned & the final page of the chapter would be you’d be at a party and everybody would be talking about stocks, & then people would recommend stocks. And not only that, but the stocks would go up over the next 3 months. So you’ve done the full cycle of speculation that people hate
-stocks; don’t want to hear anything about them; now they’re buying everything; & cabbies are giving stock tips. That was the cycle going through from the ’60s & early ’70s all the way to 1987.
+- If you said you were an investment manager, people would move on to the next topic. That was sort of the attitude in the ’60s and ’70s. As the market started to heat up, you’d say you were an investor, “That’s interesting. Are there any stocks you’re buying?” Then people would listen not avidly but think about it. But then, as the ’80s piled on, they started writing things down. So people would take an interest, “What do you like?”
+And then it turned & the final page of the chapter would be you’d be at a party, and everybody would be talking about stocks, & then people would recommend stocks. And not only that, but the stocks would go up over the next three months. So you’ve done the full cycle of speculation that people hate
+stocks; don’t want to hear anything about them; now they’re buying everything; & cabbies are giving stock tips. That was the cycle going through from the ’60s & early ’70s to 1987.
 
 - Gold is about sentiment & psychology, much more so than any other commodity.
 
