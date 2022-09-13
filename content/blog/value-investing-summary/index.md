@@ -289,7 +289,7 @@ key issues, collateral evidence, personal biases
 
 "We want the business to be one (a) that we understand; (b) with favorable long-term prospects; (c) operated by honest and competent people; (d) available at a very attractive price."
 
-"price is what you pay, value is what you get"
+price is what you pay, value is what you get
 
 once you adopt a value-investment strategy, any other investment behavior starts to seem like gambling.
 
