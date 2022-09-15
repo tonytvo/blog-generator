@@ -299,7 +299,7 @@ the key to life is to figure out who to be the batboy for.
 
 Every bubble has 2 components: an underlying trend that prevails in reality and a misconception relating to that trend. When a positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will be reinforced.
 
-"Investing may not be neurosurgery, but it isn’t child’s play either."
+Investing may not be neurosurgery, but it isn’t child’s play either.
 
 "To recall a piece of wisdom Warren Buffett frequently cites, if you have been in the poker game for thirty minutes and still don’t know who the patsy is, you can be pretty certain the patsy is you."
 
