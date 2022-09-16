@@ -281,7 +281,7 @@ key issues, collateral evidence, personal biases
 
 "In the short term the market is a voting machine, but in the long term it tracks value"
 
-"A good rule of thumb is to limit the cost of your transaction to no more than 1 percent of the amount of stock you’re buying. For example if a trade costs $9.99 to execute you should buy at least $1,000 worth of stock."
+A good rule of thumb is to limit the cost of your transaction to no more than 1 percent of the amount of stock you’re buying. For example if a trade costs $9.99 to execute you should buy at least $1,000 worth of stock.
 
 "The best predictor of a mutual fund’s future investment return is not the number of Morningstar stars it receives, but how low its expense ratio is."
 
