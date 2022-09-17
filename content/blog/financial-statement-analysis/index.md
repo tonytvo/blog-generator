@@ -130,11 +130,31 @@ tags: ["investing", "valueinvesting"]
 ## cash flow from operating activities
 
 - cash generated from operations reflects the ability of the organization to generate cash from its core business operations.
-- our starting point for the cash flow from operating activities is the net income (the bottom line on the income statement). 
+- our starting point for the cash flow from operating activities is the net income (the bottom line on the income statement).
+- **some line items within the income statement do not result in an inflow or outflow of cash and therefore must be added or deducted to the net income starting point of cashflow statement** 
+- the only cash flow that represents a stable and predictable earnings capacity is the one obtained from operating activities. The other 2 increases involve selling an asset (the house) and taking on debt (the car loan).
+- when you look at 5 years trend of company's cash flow statement, nothing spells trouble faster than a company that continually raises cash outside of the company's operating activities.
 
 - **net income**
   - so this is our starting point. This number from the bottom of income statement.
   - from this point, we need to adjust for all non-cash items.
+
+- **depreciation**
+  - also called depreciation and amortization. Other times, it is simply grouped into a line called non-cash items.
+  - depreciation is a non-cash item, which means that there is no cash spent. As such, you should add back the depreciation for the later years.
+  - depreciation is subtracted on the income statement, but added on the cash flow statement.
+- **other non-cash items**
+  - an example for Coca-Cola could be the income or expense from the exchange rate
+  - maybe extraordinary income and losses.
+- **deferred taxes**
+  - deferred taxes occur when there are temporary differences between the accounting value and tax value of assets.
+  - it has an impact on how much cash is going in and out of the company - and this is why deferred taxes are included in the cash flow statement.
+- **changes in working capital**
+  - working capital is about current assets and current liabilities needed to run the business's faily operations.
+    - if working capital is $-832. that means that $832 less is tied up in the daily operations of the business than the previous year.
+    - working capital is expensive, so we want to limit it.
+
+## cash generated from investing activities
 
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
