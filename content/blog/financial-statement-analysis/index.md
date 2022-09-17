@@ -156,6 +156,28 @@ tags: ["investing", "valueinvesting"]
 
 ## cash generated from investing activities
 
+- in contrast to the operating cash, we want the cash flow from investing activities to be negative.
+- an analysis of cash flow from investing activities reveals the growth strategy pursued by the corporation. Any cash outlay from investing activities has the long-term goal of increasing the company's future cash flow. In following years, the purchase of more assets should produce a larger operating cash flow, which in turn will pay for more investments at a later date.
+- **property, plant and equipment - net**
+  - this line is sometimes referred to as Capital expenditures, cap spending, or simply CAPEX.
+  - in general, you should be very cautious when you see positive number for this line. While cash may be nice to have today, companies may find themselves short-handed if the funds aren't used to purchase more valuable assets or service expensive debt.
+- **intangible assets - net**
+  - for example, Coca-Cola might patent a new soft drinks recipe.
+  - you will most likely find this line to be negative too.
+- **businesses - net**
+  - in general, Warren Buffett believes that companies should stick to their core activities. In the case of Coca-Cola, this means that the company should focus on the beverage industry and not buy businesses in other sectors.
+- **investments - net**
+  - Where managers typically get into trouble with the purchase of investments is when they cross the threshold of passive ownership and move into a controlling share of the business that they don't understand. It means that they company would be responsible for overall management.
+  - a stock issue should be treated the same way as a perpetuity loan (or never ending loan).
+  - by looking up a company's current P/BV ratio and its current ROW, you can get a general idea of the effective perpetuity interest rate the origianl shareholders are assuming for the issuance of the new stock.
+  - let's say you need to raise a million dollars for a new building, you could get the money from the bank at a 7.5% interest rate for 10 years, second, you could issue bonds at an 8.5% interest rate for 10 years. Third, you could issue more shares of the company to raise the money. Issuing more shares would lead to an effective interest rate of 5.22%. Now the caveat: issuing shares should be treated as perpetuity loan, wheareas the other choices would only last for 10 years.
+
+## cash generated from financing activities
+
+- included activities such as dividends, debt, issuances of stocks
+- **issuances of stock**
+  - when this is a positive number, that means the company has issued more common stock to raise money. If it was a negative number, that would mean the company bought back shares from the open market.
+
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
