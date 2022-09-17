@@ -853,6 +853,29 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ## market analysis and security analysis
 
+- **2 kinds of market analysis**
+  - first kind of market analysis makes predictions exclusively from the past actions of the stock market. (the market is its own best forecaster)
+    - *implication of the first type of market analysis*
+      - often called technical analysis.
+      - chart-reading cannot be a science
+      - it has not proved itself in the past to be a dependable method of making profits in the stock market.
+      - its theoretical basis rests upon faulty logic or else upon mere assertion.
+  - the other type of machanical forecasting is based on factors outside the market.
+- **disadvantages of market analysis as compared with security analysis**
+  - in market analysis there are no margins of safety; you are either right or wrong, and if you are wrong, you lose money.
+  - another disadvantage is that profits made by trading in the market are for the most part realized at the expense of others who are trying to do the same thing. The market analyst can therefore be hopeful of success only upon the assumption that he will be more clever or perhaps luckier than his competitors.
+- **phophesies based on near-term prospects.**
+  - the argument is that if the outlook favors increased earnings, the issue should be bought in the expectation that it will increase in price when the actual profit reported.
+  - Graham is skeptical of ability of the analyst to forecast the market behavior of individual issues over the near-term future. This does not matter if he bases his predictions on the technical position of the market, the general outlook for business, or the specific outlook for the individual companies.
+  - more satisfactory results are to be obtained  by confining the positive conclusions of the security analyst to these fields:
+    - the selection of standard senior issues that meet exacting safety tests.
+    - the discovery of senior issues that merit an investment rating, but also have opportunities for appreciation in value.
+    - the discovery of common stocks or speculative senior issues that appear to be selling at far less than their intrinsic value.
+    - the determination of definite price discrepancies between related securities for which situations may justify making exchanges or initiating hedging or arbitrage operations.
+
+- **summary of our views on investment policies**
+  - kjaskjakjskajskj
+
 # The Relationship Between Owners and Managers
 - The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
 
