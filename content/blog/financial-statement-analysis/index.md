@@ -168,20 +168,52 @@ tags: ["investing", "valueinvesting"]
   - in general, Warren Buffett believes that companies should stick to their core activities. In the case of Coca-Cola, this means that the company should focus on the beverage industry and not buy businesses in other sectors.
 - **investments - net**
   - Where managers typically get into trouble with the purchase of investments is when they cross the threshold of passive ownership and move into a controlling share of the business that they don't understand. It means that they company would be responsible for overall management.
-  - a stock issue should be treated the same way as a perpetuity loan (or never ending loan).
-  - by looking up a company's current P/BV ratio and its current ROW, you can get a general idea of the effective perpetuity interest rate the origianl shareholders are assuming for the issuance of the new stock.
-  - let's say you need to raise a million dollars for a new building, you could get the money from the bank at a 7.5% interest rate for 10 years, second, you could issue bonds at an 8.5% interest rate for 10 years. Third, you could issue more shares of the company to raise the money. Issuing more shares would lead to an effective interest rate of 5.22%. Now the caveat: issuing shares should be treated as perpetuity loan, wheareas the other choices would only last for 10 years.
-
+  
 ## cash generated from financing activities
 
 - included activities such as dividends, debt, issuances of stocks
 - **issuances of stock**
   - when this is a positive number, that means the company has issued more common stock to raise money. If it was a negative number, that would mean the company bought back shares from the open market.
+  - can sometimes be combined with the next line "purchase of stock for treasury"
+  - a stock issue should be treated the same way as a perpetuity loan (or never ending loan).
+  - by looking up a company's current P/BV ratio and its current ROE, you can get a general idea of the effective perpetuity interest rate the original shareholders are assuming for the issuance of the new stock.
+  - let's say you need to raise a million dollars for a new building, you could get the money from the bank at a 7.5% interest rate for 10 years, second, you could issue bonds at an 8.5% interest rate for 10 years. Third, you could issue more shares of the company to raise the money. Issuing more shares would lead to an effective interest rate of 5.22%. Now the caveat: issuing shares should be treated as perpetuity loan, wheareas the other choices would only last for 10 years.
+
+- **purchases of stock for treasury**
+  - when you find this line to be negative, it means that the company is buying back its own stocks. Once repurchased, the stock no longer has voting rights or entitlements to receiving dividend payments. It is said to be held in treasury.
+  - when a company is buying back shares, the existing shareholders will increase their relative ownership in the company. The key issue is that management bought back the share with the shareholders' existing money. In other words, the management in Coca-Cola increased your ownership with your own money. That is money that could be paid to you as a dividend, or money that the management could employ by investing in the new income-producing asset.
+  - since the company is using the owners' money to buy back shares, a share repurchase is only more profitable for the shareholder, at a reasonable price.
+- **payment of cash dividends**
+  - management prefers a share buy-back because they don't pay taxes on the disbursement and they retain capital in the company to make future acquisitions or purchases.
+  - if a company's payout ratio (dividend rate/EPS) is higher than 50%-60% the company might be inhibiting their ability over the long haul to pay owners and still meet the demands of the company's competition.
+
+- **issuances/payment of debt - net**
+  - the best way to raise capital is to make enough profit so the company doesn't need to borrow any money.
+  - if the debt-equity ratio exceeding 0.5, you'll probably want to understand how the company got there and what its doing to reduce its position.
+  - if this line is negative, that means the company is paying off its debts. If the number is positive, it means the company has taken on new debt (or issued bonds).
+  - **if you notice that a company's operating cash flow is negative and this issuance/payment of debt is positive, you're looking at a company that's in serious trouble.**
+
+- **free cash flow**
+  - free cash flow = operating cash flow + property, plant and equipment, net
+  - at a minimum, I would look at the 5 year average to try and determine the FCF for the intrinsic value calculation.
+  - the free cash flow can be paid out to the shareholders as dividends, it can be returned in the form of share buy-backs, and it can be used pay off the company's debt. Basically, it is cash that is flowing back to the shareholders in one way or the other.
+
+- **free cash flow to revenue ratio**
+  - free cash flow to revenue ratio = (operating cash flow + property plant and equipment net) / Revenue
+  - it means that every Coca-Cola sells soft drinks for $100, $13.2 will be available as cash for the shareholders.
+  - in general, you should be looking for companies that have a consistent free-cash-flow-to-revenue ratio of at least 5%
+
+- **investing cash flow to operating cash flow ratio**
+  - investing cash flow to operating cash flow ratio = investing cash flow / operating cash flow
+  - it means every time Coca-Cola makes $100 in cash from its operations, $53.3 in cash are spent on maintaining and investing in company's growth.
+  - in the short term, it should not be a problem with high investment ratios, indeed, in some years it might be over 100% if the investment possibilities are great.
+  - in the long run, Warren Buffett understands the importance of reinvesting capital into the business, but at the same time he firmly believes cash should be ultimately be returned to the shareholders in some profitable form.
 
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
 - balance sheet is sectionalized into 3 major categories: the assets, the equity and the liabilities.
+
 
 ## assets
 
