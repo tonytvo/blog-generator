@@ -874,7 +874,29 @@ True investments keep the principal safe and deliver an acceptable return. Any p
     - the determination of definite price discrepancies between related securities for which situations may justify making exchanges or initiating hedging or arbitrage operations.
 
 - **summary of our views on investment policies**
-  - kjaskjakjskajskj
+  - ***investor of small means***
+    - *investment for income*
+      - in 1940, United States Savings Bonds have safety and accumulated income.
+    - *investment for profit*
+      - 4 approaches are open to both the small and large investor
+        - purchase of representative common stocks when the market level is clearly low, as judged by objective, long-term standards. This policy requires patience and courage, and is by no means free from the possibility of grave miscalculation
+        - purchase of individual issues with special growth possibilities, when these can be obtained at reasonable prices in relation to actual accomplishment. The investor must remember that, when growth is generally expected, the price is rarely reasonable.
+        - purchase of well-secured privileged senior issues. A combination of adequate security with a promising conversion or similar right is a rare, but possible. A policy of careful selection in this field should bring good results, provided the investor has the patience and persistence needed to find her opportunities.
+        - purchase of securities welling well below intrinsic value. Intrinsic value takes into account not only past earnings and liquid asset values, but also future earning power, conservatively estimated. In other words, qualitative as well as quantitative elements.
+      - there is logic in the belief that unless a man is qualified to advise others professionally, he should not prescribe for himself.
+    - *speculation*
+      - buying stock in new or virtually new ventures. The odds are so strongly against him that he might as well throw three-quarters of the money out of the window and keep the rest in the bank.
+      - trading in the market: Graham believes that, regardless of preparation and method, success in trading is accidental and temporary, or else due to a highly uncommon talent.
+      - purchase of "growth stocks" at generous prices. the chances of individual success are much brighter here than in the other forms of speculation. That said, as it is considered speculation, this approach is still inherently dangerous.
+  - **the individual investor of large means**
+    - although he has obvious technical advantages over the small investor, he suffers from three specific handicaps
+      - the investor must not only consider United States Savings Bonds, but also the broader field of fixed-value investment. We believe that strict application of quantitative tests, plus reasonably good judgement in the qualitative area should yield a satisfactory end result.
+      - possible inflation is more serious to him than to the small investor. As stocks to some extend are inflation proof, they can ben held as a defensive measure.
+      - the size of her investment unit is more likely to induce the large investor to concentrate on popular and active issues.
+  - **investment by business corporations**
+    - it seems fairly evident that other types of investments by business enterprises, be they in bonds or stocks, can offer an appreciably higher return only at the risk of loss and criticism.
+  - **institutional investment**
+    - an institution that can manage to get along on the low income provided by high-grade, fixed value issues should confine its holdings to this field. It can be doubted if the better performance of common stock indexes over the past periods will, in itself, warrant the heavy responsibilities and the recurring uncertainties that are inseparable from a common-stock investment program.
 
 # The Relationship Between Owners and Managers
 - The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
