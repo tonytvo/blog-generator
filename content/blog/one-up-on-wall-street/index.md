@@ -416,31 +416,31 @@ stocks; don’t want to hear anything about them; now they’re buying everythin
 
 # STOCK CLASSIFICATION SYSTEM
 
-- First categorize a company by size. Large companies cannot be expected to grow as quickly as smaller companies. Big companies have small moves, small
+- First, categorize a company by size. Large companies cannot be expected to grow as quickly as smaller companies. Big companies have small moves, small
 companies have big moves 
 
-- Next, categorize a company by its “story” type. If you can’t figure out what story category a company is, then ask around.
+- Next, categorize a company by its “story” type. If you can’t figure out a company's story category, then ask around.
 
 - Categorizing stocks allows you to set the right expectations from an investment, guiding your future actions.
-  - Don’t hold onto a Stalwart after it’s 2x, hoping for 10x. If you buy a great Stalwart for a good price, you may forget about it for 20 years, but you can’t do so with a Cyclical.
+  - Don’t hold onto a Stalwart after it’s 2x. Hoping for 10x. If you buy a great Stalwart for a good price, you may forget about it for 20 years, but you can’t do so with a Cyclical.
 
-- The correct categorization also allows you to know the possible future trajectory of the company, providing an efficient checklist to gauge its performance.
-  - Utility can’t beat Stalwart, if it’s not a Turnaround. No point in trading a Fast Grower as a Stalwart and selling for a 50% gain, vs, possible 10x.
+- The correct categorization also lets you know the company's possible future trajectory, providing an efficient checklist to gauge its performance.
+  - Utility can’t beat Stalwart if it’s not a Turnaround. No point in trading a Fast Grower as a Stalwart and selling for a 50% gain vs a possible 10x.
 
 - Assuming you’ve taken the first step of doing proper research, spreading money among several categories is another way to minimize downside risk.
-- companies don't stay in the the same category forever. High growth companies cannot maintain the double digit growth forever. Fast growing companies will become stalwarts and slow growers and may go so far down that they become a turnaround candidate.
+- companies don't stay in the same category forever. High-growth companies cannot maintain double-digit growth forever. Fast-growing companies will become stalwarts and slow growers and may go so far down that they become turnaround candidates.
 
 ## 1) SLOW GROWERS
 
 - ***Traits***
-  - Usually large and aging companies, whose Growth rate = GNP (gross national product) Growth rate
+  - Usually large and aging companies, whose Growth rate = GNP (gross national product). Growth rate
   - When industries slow down, most companies lose momentum as well
   - Easy to spot using stock charts
   - Pay large and regular dividends
-  - Bladder theory of corporate finance: the more cash that builds up in the treasury, the greater the pressure to piss it away. Companies that don’t pay dividends, have a history of diworseification.
-  - Stocks that pay dividends are favoured vs stocks that don’t. Presence of dividend creates a floor price, keeping a stock from falling away during market crashes. If investors are certain that the high dividend yield will hold up, then they’ll buy for the dividend. This is one reason to buy Slow
-Growers and Stalwarts, since people flock to blue chips during panic.
-  - If a Slow Grower stops dividend, you’re stuck with a sluggish company with little going for it.
+  - Bladder theory of corporate finance: the more cash that builds up in the treasury, the greater the pressure to piss it away. Companies that don’t pay dividends have a history of diworseification.
+  - Stocks that pay dividends are favoured vs stocks that don’t. Dividends create a floor price, keeping stock from falling away during market crashes. Investors who know that the high dividend yield will hold up will buy for the dividend. This is one reason to buy Slow
+Growers and Stalwarts, since people flock to blue chips during the panic.
+  - If a Slow Grower stops dividends, you’re stuck with a sluggish company with little going for it.
 - ***Examples***
   - GE, Alcoa, Utilities, Dow Chemical
 
@@ -449,7 +449,7 @@ Growers and Stalwarts, since people flock to blue chips during panic.
 
 - ***PE Ratio***
   - Lowest levels, per PEG. Utilities = 7-9x
-  - Bargain hunting doesn’t make sense without growth or other catalyst
+  - Bargain hunting doesn’t make sense without growth or other catalysts
   - During bull market optimism, PE may expand to Fast Growers’ PE of 14-20x
   - Therefore, the only meaningful source of return = PE re-rating
 
@@ -457,23 +457,23 @@ Growers and Stalwarts, since people flock to blue chips during panic.
   - Reasons for interest?
   - What must happen for the company to succeed?
   - Pitfalls that stand in the path?
-  - Dividend Play = “For the past 10 years the company has increased earnings, offers an attractive dividend yield, it’s never reduced/
-suspended dividend, & has in fact raised it during good and bad times, including the last 3 recessions. As a phone utility, new cellular division may aid growth.”
+  - Dividend Play = “For the past ten years, the company has increased earnings, offers an attractive dividend yield, it’s never reduced/
+suspended dividend & has raised it during good and bad times, including the last three recessions. As a phone utility, the new cellular division may aid growth.”
 
 - ***Checklist***
   - Dividends: Check if always paid and raised.
-  - Low dividend payout ratio creates cushion, higher % is riskier.
+  - Low dividend payout ratio creates a cushion. A higher % is riskier.
 
 - ***Portfolio Allocation %***
   - 0% - NO Allocation, because without growth, the earnings & price aren’t going to move.
 
 - ***Risk/Reward***
-  - Low risk-Low gain, because Slow Growers aren’t expected to do much and are priced accordingly.
+  - Low risk-Low gain because Slow Growers aren’t expected to do much and are priced accordingly.
 
 - ***Sell When***
   - After 30-50% rise
-  - When fundamentals deteriorate, even if price has fallen:
-    - Lost market share for 2 Quarters and hires new advertising agency
+  - When fundamentals deteriorate, even if the price has fallen:
+    - Lost market share for 2 Quarters and hired a new advertising agency
     - No new products/R&D, indicating that the company is resting on its laurels
     - Diworseification (>2 recent unrelated M&A’s), excess leverage leaves no room for buybacks/dividend increase
     - Dividend yield isn’t high enough, even at a lower price
