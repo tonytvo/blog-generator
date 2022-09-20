@@ -233,7 +233,7 @@ For a long time, I've known that the key to getting started down the path of bei
 
 "make it conscious, make it a game, make it competitive, make it small and temporary."
 
-"We're what we do repeatedly"
+We're what we do repeatedly
 
 When in doubt, take 5
 
