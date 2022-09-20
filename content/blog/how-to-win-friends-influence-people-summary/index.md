@@ -149,20 +149,20 @@ tags: ["productivity", "communication", "selfimprovement"]
 
 - **Avoid Arguments**
   - Arguing with the other person will rarely get you anywhere; they usually end with each person more firmly convinced of his rightness. You may be right, dead right, but arguing is just as futile as if you were dead wrong.
-  - In the end you must value interdependence higher than independence and understand that deferential negotiation is more effective in the long run than a noncompliant crusade.
+  - In the end, you must value interdependence higher than independence and understand that deferential negotiation is more effective in the long run than a noncompliant crusade.
 
 - **Never Say, “You’re Wrong”**
   - “Negotiations become more productive,” concludes [Deepak] Malhotra, “when each party acknowledges that the other may have legitimate concerns."
-  - “Friendship that insists upon agreement on all matters is not worth the name,” exhorted Mahatma Gandhi. “Friendship to be real must ever sustain the weight of honest differences, however sharp they be."
+  - “Friendship that insists upon agreement on all matters is not worth the name,” exhorted Mahatma Gandhi. “Friendship to be real must ever sustain the weight of honest differences, however sharp they are."
   - “We talk because we know something,” explained corporate behavioural specialist Esther Jeles in a recent interview. “Or we think we know something. Or, in the workplace, because there is an expectation that we ’should’ know something."
-  - Yet by approaching a conversation with a blank slate, we take a humbler and more honest approach. We acknowledge the possibility that we may not know all the facts and that we may not in fact be the only one who is right. Better yet, we create the possibility for meaningful collaboration–the melting of thoughts, ideas, and experiences into something greater than the sum of two parties.
-  - Telling people they are wrong will only earn you enemies. Few people respond logically when they are told they are wrong; most respond emotionally and defensively because you are questioning their judgment. You shouldn’t just avoid the words “You’re wrong.” You can tell people they are wrong by a look or an intonation or a gesture, so you must guard against showing judgment in all of the ways that you communicate.
+  - Yet by approaching a conversation with a blank slate, we take a humbler and more honest approach. We acknowledge the possibility that we may not know all the facts and may not be the only one who is right. Better yet, we create the possibility for meaningful collaboration–the melting of thoughts, ideas, and experiences into something greater than the sum of two parties.
+  - Telling people they are wrong will only earn you enemies. Few people respond logically when told they are wrong; most respond emotionally and defensively because you question their judgment. You shouldn’t just avoid the words “You’re wrong.” You can tell people they are wrong by a look, an intonation, or a gesture, so you must guard against showing judgment in all the ways you communicate.
   - Always default to diplomacy. Admit that you may be wrong. Concede that the other person may be right. Be agreeable. Ask questions. And above all, consider the situation from the other’s perspective and show that person respect.
 
 - **Admit Faults Quickly and Emphatically**
   - If you’ve made a mistake, it is far better that you control the news being spread. Come clean quickly and convincingly.
-  - If we admit our faults immediately and emphatically, it is like shooting a full-page press release across the wires that confirms we genuinely care about the people we hurt, that we are humbled, and that we want to make things right. People rarely hold on to anger and disappointment when they can see that we view ourselves and the situation properly. We are much more forgiving of those who are willing to come clean right away.
-  - While we’d all like our pre-mistake lives back after a mistake has been made, we have to remember that no one changed the circumstances but us. It is not others’ duty to give us back the life we took from ourselves. Only we can get our life back. That always begins with admitting our faults quickly and emphatically.
+  - If we admit our faults immediately and emphatically, it is like shooting a full-page press release across the wires that confirms we genuinely care about the people we hurt, are humbled, and want to make things right. People rarely hold on to anger and disappointment when they see that we view ourselves and the situation properly. We are much more forgiving of those willing to come clean immediately.
+  - While we’d all like our pre-mistake lives back after a mistake, we must remember that no one changed the circumstances but us. It is not others’ duty to give back the life we took from ourselves. Only we can get our life back. That always begins with admitting our faults quickly and emphatically.
 
 - **Begin in a Friendly Way**
   - We are more inclined to agree with another person or see things from his perceptive when we have friendly feelings toward him.
@@ -171,25 +171,25 @@ tags: ["productivity", "communication", "selfimprovement"]
 
 - **Access Affinity**
   - Chris Brogan talking of the blizzard of business rather than communication snowfall:
-  - “Conversations and relationships are based on several touches. In the traditional marketing and communication world, people would use each touch to ask for something, to issue a call to action. This isn’t how social networks work…They are there to give you permission to reach someone who has opted into a relationship with you…It’s a snowfall. Every individual flake doesn’t mean a lot, but the body of work can change everything."
+  - “Conversations and relationships are based on several touches. In the traditional marketing and communication world, people would use each touch to ask for something, to issue a call to action. This isn’t how social networks work…They are there to permit you to reach someone who has opted into a relationship with you…It’s snowfall. Every individual flake doesn’t mean a lot, but the body of work can change everything."
 
 - **Surrender the Credit**
-  - While it’s easy to see why we want credit for successes for which we laboured, claiming the credit will never win you friends. It will also diminish your influence quicker than just about any other action.
-  - Either you can seek friendships with those who are already successful, or you can seek success for those who are already friends.
+  - While it’s easy to see why we want credit for successes we laboured, claiming the credit will never win you, friends. It will also diminish your influence quicker than just about any other action.
+  - Either you can seek friendships with those who are already successful, or you can seek success with those who are already friends.
 In the long run, no one but the originator remembers things such as whose idea it was, who spoke first, or who took the first risk. What people remember is magnanimity.
 
 - **Engage with Empathy**
   - “Cooperativeness in conversation,” wrote Gerald S. Nirenberg, “is achieved when you show that you consider the other person’s ideas and feelings as important as your own."
 
 - **Appeal to Noble Motives**
-  - While relational improvement and business productivity are centrepieces of our lives, their importance exists because we long to be people who make a difference. Tapping this noble motive in those you’d like to influence can therefore reap great rewards.
-  - To truly connect with people you must celebrate their inherent dignity. Appeal to noble motives and you can move the masses, and yourself along with them.
+  - While relational improvement and business productivity are centrepieces of our lives, their importance exists because we long to be people who make a difference. Tapping this noble motive in those you’d like to influence can reap great rewards.
+  - To truly connect with people, you must celebrate their inherent dignity. Appeal to noble motives, and you can move the masses and yourself along with them.
 
 - **Share Your Journey**
-  - More and more common–and commonly effective at building influential relationships–is the authentic intersection of personal and professional life. While this intersection will always have certain judicious boundaries, many of the historically businesslike boundaries have been lowered or removed altogether today because most people have come to remember that the short- and long-term success of all interactions–transactional or otherwise–rides on the depth of the relationship. The more a colleague, friend, or customer shares of your journey, the more you can accomplish together.
+  - More and more common–and commonly effective at building influential relationships–is the authentic intersection of personal and professional life. While this intersection will always have certain judicious boundaries, many of the historically businesslike boundaries have been lowered or removed altogether because most people have come to remember that all interactions- transactional or otherwise- ride on the short- and long-term success of all interactions–transactional or otherwise–rides on the depth of the relationship. The more a colleague, friend, or customer shares your journey, the more you can accomplish together.
 - **Throw Down a Challenge**
   - The only way to get the best out of yourself and others is to challenge and collide. While a life of permanent interpersonal pleasantries appears more comfortable and sounds more peaceful, a relationally complacent life is a fruitless life.
-  - It is also true, however, that the challenge itself is just as important as the response to it. Challenges that inspire and compel are very different from challenges that discourage and depress.
+  - It is also true, however, that the challenge itself is just as important as its response. Challenges that inspire and compel are very different from challenges that discourage and depress.
 
 
 # How to Lead Change Without Resistance or Resentment
