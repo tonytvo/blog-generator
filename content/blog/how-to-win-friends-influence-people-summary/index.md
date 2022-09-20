@@ -5,7 +5,11 @@ description: "how to win friends and influence people summary"
 tags: ["productivity", "communication", "selfimprovement"]
 ---
 
-# Principles
+# take-aways
+
+- The two highest levels of influence are achieved when (1) people follow you because of what you’ve done for them and (2) people follow you because of who you are.
+- Soft skills link hard skills to operational productivity, organizational synergy, and commercial relevance because all require sound human commitment.
+- There is no such thing as a neutral exchange. You leave someone either a little better or a little worse.
 - Fundamental techniques in dealing with people
   - Don't criticize, condemn or complain. This makes them defensive and justifies their actions. Instead, praising them lowers their defence, and they will be more receptive to your feedback.
   - give honest and sincere appreciation
@@ -40,11 +44,119 @@ tags: ["productivity", "communication", "selfimprovement"]
 - making people glad to do what you want. Encourage people to think about everyone else's perspective, have high expectations, and help people get what they want.
 
 
+# Essentials of Engagement
+
+- **Bury Your Boomerangs**
+  - Don’t criticize, condemn, or complain.
+  - The moment you use a medium to criticize, the subject of your criticism is compelled to defend. And when another is defensive, there is little you can say to break through the barriers he has raised. 
+  - In this way critical comments act like invisible boomerangs. They return on the thrower’s head.
+  - The simplest way is to focus on improving yourself instead of others.
+  - Shift your use of media from a spirit of exposé and objection to a spirit of encouragement and exhortation.
+  - Resist badmouthing as a differentiation strategy. Its long-term effect is far more harmful than helpful.
+  - Make your messages meaningful by removing your agenda. Above all, the recipients of every bit of your communication want value.
+  - Calm yourself before communicating to another. 
+
+- **Affirm What’s Good**
+  - Consider sending that same message to those you’d like to influence. Have you let them know just how valuable you think they are? There is great power in this simple principle, embodied regularly.
+  - We all have an innate, unquenchable desire to know we are valued, to know we matter.
+  - Emerson wrote, “Every man is entitled to be valued for his best moments."
+  - Which relationship is most strained in your life right now? What would it look like if you began focusing on that person’s best moments and sought to affirm them?
+  - Ultimately, gaining influence is about setting yourself apart, stepping to a higher plane in the mind and heart of another.
+  - We are all united by one single desire: to be valued by another.
+
+- **Connect with Core Desires**
+  - Influencing others is not a matter of outsmarting them. It is a matter of discerning what they truly want and offering it to them in a mutually beneficial package.
+  - So much of our digital communication is one-way that we come to believe we have limited opportunity to uncover another’s perspective.
+  - We are far more inclined to focus on how we can best broadcast our points from our own perspective, quickly, broadly, or both.
+  - It is easy to get so caught up in the fray that we forget what we are aiming for: connection, influence, agreement, collaboration.
+
+# Six Ways to Make a Lasting Impression
+
+- **Take Interest in Others’ Interests**
+  - Dogs know by some divine instinct that you can make more friends in minutes by becoming genuinely interested in other people than you can in months of trying to get other people interested in you.
+  - We gravitate to what feels real and lasting. We embrace those whose messaging offers mutual benefit.
+  - When you incorporate others’ interests into your own–not merely for the sake of clarifying your market or ascertaining your audience–you find that your interests are met in the process of helping others.
+  - Thoreau wrote, "Goodness is the only investment that never fails."
+  - The bottom line is that you must become genuinely interested in others before you can ever expect anyone to be interested in you.
+
+- **Smile**
+  - There is a simple reason for this phenomenon: when we smile, we are letting people know we are happy to be with them, happy to meet them, happy to be interacting with them. They in turn feel happier to be dealing with us.
+  - Outside of emoticons and emojis, there is only one medium in which you can convey a digital smile–your voice, whether it is written or spoken. How you write an email, the tone you use, and the words you choose are critical tools of friendliness and subsequent influence.
+  - Always begin and end the message on a positive note rather than on a pessimistic or detached one.
+  - Numerous studies have shown that the physical act of smiling, even while on a phone call, actually improves the tone in which your words are conveyed.
+
+- **Reign with Names**
+  - Instead of defaulting to hollow, truncated greetings such as “Hey” or “Hi,” default to a greeting that uses the person’s name.
+
+- **Listen Longer**
+  - Listening’s power, like that of smiling, is strong. When you listen well you not only make an instant impression, you also build a solid bridge for lasting connection. Who can resist being around a person who suspends his thoughts in order to value yours?
+
+- **Discuss What Matters to Them**
+  - When it comes to mattering to others, you must discuss what matters to them.
+  - You are ultimately building a community when you initiate interactions with what matters to others.
+  - Businesses call it a customer retention strategy, but it is best thought of as a lively, meaningful dialogue among a community of friends.
+
+- **Leave Others a Little Better**
+  - Small-picture thinking: the foundation of leaving others a little better.
+  - If our minds are focused only on big payoffs, we will overlook the small opportunities that make the biggest difference.
+  - Many people make the mistake of equating inspiration with implementation.
+  - The real key to winning friends and influencing people today, says Robbins, is “moving relationships from manipulative to meaningful. The only way you do that is by constantly adding meaning and value."
+  - Every single interaction with his spouse sent her one of two messages–that she was the most important person in the world to him or that she wasn’t. He’d sent the latter message far too often.
+  - Many ancient teachings converge to one thing: Don’t do to others what you wouldn’t want them to do to you.
+
+
+# How to Merit and Maintain Others’ Trust
+
+- **Avoid Arguments**
+  - Arguing with the other person will rarely get you anywhere; they usually end with each person more firmly convinced of his rightness. You may be right, dead right, but arguing is just as futile as if you were dead wrong.
+  - In the end you must value interdependence higher than independence and understand that deferential negotiation is more effective in the long run than a noncompliant crusade.
+
+- **Never Say, “You’re Wrong”**
+  - “Negotiations become more productive,” concludes [Deepak] Malhotra, “when each party acknowledges that the other may have legitimate concerns."
+  - “Friendship that insists upon agreement on all matters is not worth the name,” exhorted Mahatma Gandhi. “Friendship to be real must ever sustain the weight of honest differences, however sharp they be."
+  - “We talk because we know something,” explained corporate behavioural specialist Esther Jeles in a recent interview. “Or we think we know something. Or, in the workplace, because there is an expectation that we ’should’ know something."
+  - Yet by approaching a conversation with a blank slate, we take a humbler and more honest approach. We acknowledge the possibility that we may not know all the facts and that we may not in fact be the only one who is right. Better yet, we create the possibility for meaningful collaboration–the melting of thoughts, ideas, and experiences into something greater than the sum of two parties.
+  - Telling people they are wrong will only earn you enemies. Few people respond logically when they are told they are wrong; most respond emotionally and defensively because you are questioning their judgment. You shouldn’t just avoid the words “You’re wrong.” You can tell people they are wrong by a look or an intonation or a gesture, so you must guard against showing judgment in all of the ways that you communicate.
+  - Always default to diplomacy. Admit that you may be wrong. Concede that the other person may be right. Be agreeable. Ask questions. And above all, consider the situation from the other’s perspective and show that person respect.
+
+- **Admit Faults Quickly and Emphatically**
+  - If you’ve made a mistake, it is far better that you control the news being spread. Come clean quickly and convincingly.
+  - If we admit our faults immediately and emphatically, it is like shooting a full-page press release across the wires that confirms we genuinely care about the people we hurt, that we are humbled, and that we want to make things right. People rarely hold on to anger and disappointment when they can see that we view ourselves and the situation properly. We are much more forgiving of those who are willing to come clean right away.
+  - While we’d all like our pre-mistake lives back after a mistake has been made, we have to remember that no one changed the circumstances but us. It is not others’ duty to give us back the life we took from ourselves. Only we can get our life back. That always begins with admitting our faults quickly and emphatically.
+
+- **Begin in a Friendly Way**
+  - We are more inclined to agree with another person or see things from his perceptive when we have friendly feelings toward him.
+  - Where the initiation of interactions is concerned, no approach sets the tone more effectively than gentleness and affability, even if the other person is a source of pain, frustration, or anger.
+  - “I do not like that man,” Abraham Lincoln once said. “I must get to know him better."
+
+- **Access Affinity**
+  - Chris Brogan talking of the blizzard of business rather than communication snowfall:
+  - “Conversations and relationships are based on several touches. In the traditional marketing and communication world, people would use each touch to ask for something, to issue a call to action. This isn’t how social networks work…They are there to give you permission to reach someone who has opted into a relationship with you…It’s a snowfall. Every individual flake doesn’t mean a lot, but the body of work can change everything."
+
+- **Surrender the Credit**
+  - While it’s easy to see why we want credit for successes for which we laboured, claiming the credit will never win you friends. It will also diminish your influence quicker than just about any other action.
+  - Either you can seek friendships with those who are already successful, or you can seek success for those who are already friends.
+In the long run, no one but the originator remembers things such as whose idea it was, who spoke first, or who took the first risk. What people remember is magnanimity.
+
+- **Engage with Empathy**
+  - “Cooperativeness in conversation,” wrote Gerald S. Nirenberg, “is achieved when you show that you consider the other person’s ideas and feelings as important as your own."
+
+- **Appeal to Noble Motives**
+  - While relational improvement and business productivity are centrepieces of our lives, their importance exists because we long to be people who make a difference. Tapping this noble motive in those you’d like to influence can therefore reap great rewards.
+  - To truly connect with people you must celebrate their inherent dignity. Appeal to noble motives and you can move the masses, and yourself along with them.
+
+- **Share Your Journey**
+  - More and more common–and commonly effective at building influential relationships–is the authentic intersection of personal and professional life. While this intersection will always have certain judicious boundaries, many of the historically businesslike boundaries have been lowered or removed altogether today because most people have come to remember that the short- and long-term success of all interactions–transactional or otherwise–rides on the depth of the relationship. The more a colleague, friend, or customer shares of your journey, the more you can accomplish together.
+- **Throw Down a Challenge**
+  - The only way to get the best out of yourself and others is to challenge and collide. While a life of permanent interpersonal pleasantries appears more comfortable and sounds more peaceful, a relationally complacent life is a fruitless life.
+  - It is also true, however, that the challenge itself is just as important as the response to it. Challenges that inspire and compel are very different from challenges that discourage and depress.
+
+
 # How to Lead Change Without Resistance or Resentment
 
 - **begin on a positive note**
   - While a current relationship, whether between a company and its customers or between two individuals, might be strained or even in serious trouble, it does little good to start off a conversation on a negative note.
-  - Instead, begin a conversation with honest and genuine appreciation; the receiver will be more amenable to your ideas and less defensive or resistant.
+  - Instead, begin a conversation with honest and genuine appreciation, be specific; the receiver will be more amenable to your ideas and less defensive or resistant.
 
 - **Acknowledge Your Baggage**
   - It isn’t nearly so difficult to be open to a conversation that may include a discussion of your faults if the other person begins by humbly admitting that she too is far from impeccable.
@@ -85,6 +197,7 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Being encouraging requires a special attitude. When you look at another person, rather than seeing her faults, you need to be able to see her strengths and possibilities, what she is capable of.
   - Tell someone that you have total faith in his ability to accomplish a goal and encourage him by highlighting all of the skills he possesses that will help him along the way, and he will practice until the dawn comes in the window in order to excel.
   - Magnify improvement and you maximize others’ talents.
+  - praise the slightest improvement and praise every improvement.
 
 - **Give Others a Fine Reputation to Live Up To**
   - Coaches, mentors, leaders, and parents often find that people live up to our expectations of them, no matter how diminished those expectations are. If a man feels unimportant or disrespected, he will have little motivation for improving himself.
@@ -131,15 +244,12 @@ tags: ["productivity", "communication", "selfimprovement"]
   - postpone action to give both sides time to think through the problem.
 
 # How to give feedback
-- begin with praise and honest appreciation, be specific.
-- introduce the point of improvement
 - talk about your own related mistakes
 - call attention to people's mistakes indirectly
 - ask questions instead of giving orders
 - give the person a fine reputation to live up to. Act as though the trait were already one of his/her outstanding characteristics.
 - let the other people save face.
 - be "hearty in your approbation and lavish in your praise".
-- praise the slightest improvement and praise every improvement.
 - be specific with your compliments and don't give everyone the same compliments.
 - Use encouragement. Make the fault seem easy to correct.
 - frame the improvement in terms of the person's own interests.
