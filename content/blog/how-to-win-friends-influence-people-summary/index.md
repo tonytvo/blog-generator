@@ -112,16 +112,16 @@ tags: ["productivity", "communication", "selfimprovement"]
 
 # Six Ways to Make a Lasting Impression
 
-- **Take Interest in Others’ Interests**
-  - Dogs know by some divine instinct that you can make more friends in minutes by becoming genuinely interested in other people than you can in months of trying to get other people interested in you.
-  - We gravitate to what feels real and lasting. We embrace those whose messaging offers mutual benefit.
-  - When you incorporate others’ interests into your own–not merely for the sake of clarifying your market or ascertaining your audience–you find that your interests are met in the process of helping others.
+- **take an interest in Others’ Interests**
+  - Dogs know by some divine instinct that you can make more friends in minutes by becoming genuinely interested in other people than you can in months of trying to get others interested in you.
+  - We gravitate to what feels real and lasting. We embrace those whose messaging offers a mutual benefit.
+  - When you incorporate others’ interests into your own–not merely for clarifying your market or ascertaining your audience–you find that your interests are met in helping others.
   - Thoreau wrote, "Goodness is the only investment that never fails."
   - The bottom line is that you must become genuinely interested in others before you can ever expect anyone to be interested in you.
 
 - **Smile**
-  - There is a simple reason for this phenomenon: when we smile, we are letting people know we are happy to be with them, happy to meet them, happy to be interacting with them. They in turn feel happier to be dealing with us.
-  - Outside of emoticons and emojis, there is only one medium in which you can convey a digital smile–your voice, whether it is written or spoken. How you write an email, the tone you use, and the words you choose are critical tools of friendliness and subsequent influence.
+  - There is a simple reason for this phenomenon: when we smile, we are letting people know we are happy to be with them, happy to meet them, and happy to be interacting with them. They, in turn, feel happier to be dealing with us.
+  - Outside of emoticons and emojis, there is only one medium in which you can convey a digital smile–your voice, whether it is written or spoken. How you write an email, your tone, and your chosen words are critical tools of friendliness and subsequent influence.
   - Always begin and end the message on a positive note rather than on a pessimistic or detached one.
   - Numerous studies have shown that the physical act of smiling, even while on a phone call, actually improves the tone in which your words are conveyed.
 
@@ -129,10 +129,10 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Instead of defaulting to hollow, truncated greetings such as “Hey” or “Hi,” default to a greeting that uses the person’s name.
 
 - **Listen Longer**
-  - Listening’s power, like that of smiling, is strong. When you listen well you not only make an instant impression, you also build a solid bridge for lasting connection. Who can resist being around a person who suspends his thoughts in order to value yours?
+  - Listening’s power, like that of smiling, is strong. When you listen well, you make an instant impression and build a solid bridge for a lasting connection. Who can resist being around someone who suspends his thoughts to value yours?
 
 - **Discuss What Matters to Them**
-  - When it comes to mattering to others, you must discuss what matters to them.
+  - When it comes to others, you must discuss what matters to them.
   - You are ultimately building a community when you initiate interactions with what matters to others.
   - Businesses call it a customer retention strategy, but it is best thought of as a lively, meaningful dialogue among a community of friends.
 
@@ -140,9 +140,9 @@ tags: ["productivity", "communication", "selfimprovement"]
   - Small-picture thinking: the foundation of leaving others a little better.
   - If our minds are focused only on big payoffs, we will overlook the small opportunities that make the biggest difference.
   - Many people make the mistake of equating inspiration with implementation.
-  - The real key to winning friends and influencing people today, says Robbins, is “moving relationships from manipulative to meaningful. The only way you do that is by constantly adding meaning and value."
-  - Every single interaction with his spouse sent her one of two messages–that she was the most important person in the world to him or that she wasn’t. He’d sent the latter message far too often.
-  - Many ancient teachings converge to one thing: Don’t do to others what you wouldn’t want them to do to you.
+  - The real key to winning friends and influencing people today, says Robbins, is “moving relationships from manipulative to meaningful. You can only do that by constantly adding meaning and value."
+  - Every interaction with his spouse sent her one of two messages–that she was the most important person in the world to him or that she wasn’t. He’d sent the latter message far too often.
+  - Many ancient teachings converge on one thing: Don’t do to others what you wouldn’t want them to do to you.
 
 
 # How to Merit and Maintain Others’ Trust
