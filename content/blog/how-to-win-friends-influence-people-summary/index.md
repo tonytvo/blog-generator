@@ -49,26 +49,26 @@ tags: ["productivity", "communication", "selfimprovement"]
 - **Bury Your Boomerangs**
   - Don’t criticize, condemn, or complain.
   - The moment you use a medium to criticize, the subject of your criticism is compelled to defend. And when another is defensive, there is little you can say to break through the barriers he has raised. 
-  - In this way critical comments act like invisible boomerangs. They return on the thrower’s head.
+  - In this way, critical comments act like invisible boomerangs. They return to the thrower’s head.
   - The simplest way is to focus on improving yourself instead of others.
-  - Shift your use of media from a spirit of exposé and objection to a spirit of encouragement and exhortation.
+  - Shift your media use from an exposé and objection to a spirit of encouragement and exhortation.
   - Resist badmouthing as a differentiation strategy. Its long-term effect is far more harmful than helpful.
   - Make your messages meaningful by removing your agenda. Above all, the recipients of every bit of your communication want value.
-  - Calm yourself before communicating to another. 
+  - Calm yourself before communicating with another. 
 
 - **Affirm What’s Good**
   - Consider sending that same message to those you’d like to influence. Have you let them know just how valuable you think they are? There is great power in this simple principle, embodied regularly.
-  - We all have an innate, unquenchable desire to know we are valued, to know we matter.
+  - We all have an innate, unquenchable desire to know we are valued and matter.
   - Emerson wrote, “Every man is entitled to be valued for his best moments."
   - Which relationship is most strained in your life right now? What would it look like if you began focusing on that person’s best moments and sought to affirm them?
-  - Ultimately, gaining influence is about setting yourself apart, stepping to a higher plane in the mind and heart of another.
-  - We are all united by one single desire: to be valued by another.
+  - Ultimately, gaining influence is about setting yourself apart, stepping to a higher plane in mind and heart of another.
+  - We are all united by one desire to be valued by another.
 
 - **Connect with Core Desires**
   - Influencing others is not a matter of outsmarting them. It is a matter of discerning what they truly want and offering it to them in a mutually beneficial package.
-  - So much of our digital communication is one-way that we come to believe we have limited opportunity to uncover another’s perspective.
-  - We are far more inclined to focus on how we can best broadcast our points from our own perspective, quickly, broadly, or both.
-  - It is easy to get so caught up in the fray that we forget what we are aiming for: connection, influence, agreement, collaboration.
+  - So much of our digital communication is one way that we believe we have limited opportunity to uncover another’s perspective.
+  - We are far more inclined to focus on how we can best broadcast our points from our perspective, quickly, broadly, or both.
+  - It is easy to get so caught up in the fray that we forget what we aim for: connection, influence, agreement, and collaboration.
 
 - **How to approach arguments**
   - instead, approach with an open-minded view: "I may be wrong; I often am. And if I'm wrong, I want to change and be right. Let's discuss the facts."
@@ -104,10 +104,11 @@ tags: ["productivity", "communication", "selfimprovement"]
   - ask questions instead of giving orders
   - give the person a fine reputation to live up to. Act as though the trait were already one of his/her outstanding characteristics.
   - let the other people save face.
-  - be "hearty in your approbation and lavish in your praise".
-  - be specific with your compliments and don't give everyone the same compliments.
+  - be "hearty in your approbation and lavish in your praise."
+  - be specific with your compliments, and don't give everyone the same compliments.
   - Use encouragement. Make the fault seem easy to correct.
-  - frame the improvement in terms of the person's own interests.
+  - frame the improvement in terms of the person's interests.
+
 
 # Six Ways to Make a Lasting Impression
 
