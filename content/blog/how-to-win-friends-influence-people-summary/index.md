@@ -70,6 +70,45 @@ tags: ["productivity", "communication", "selfimprovement"]
   - We are far more inclined to focus on how we can best broadcast our points from our own perspective, quickly, broadly, or both.
   - It is easy to get so caught up in the fray that we forget what we are aiming for: connection, influence, agreement, collaboration.
 
+- **How to approach arguments**
+  - instead, approach with an open-minded view: "I may be wrong; I often am. And if I'm wrong, I want to change and be right. Let's discuss the facts."
+  - praise the other person for a trait that will help resolve the argument - like their patience, open-mindedness, fairness, and receptivity to new facts.
+  - understand that the other person has a valid view of the situation. Your job is to understand what led them to believe what they believe.
+  - express sympathy for their situation. "You have the absolute right to be upset. If I were in your shoes, I would be too"
+  - show respect for the other person's opinions. Never say, "You're wrong."
+    - listen first. Give your opponents a chance to talk through. Do NOT interrupt as they're speaking.
+  - ask people where they feel the problems are. Ask for their opinions on how best to proceed. Ask lots of questions instead of stating commands.
+  - the only way to get the best out of an argument is to avoid it.
+  - look for areas of agreement. Try to build bridges of understanding. Talk about common goals and what you agree on.
+  - let the other person feel that the idea is his or her.
+  - emphasize how your position serves the other person's interests and incentives.
+  - if you're wrong, admit it quickly and emphatically
+  - the only way to get the best out of an argument is to avoid it.
+  - anyone who takes the time to disagree with you is interested in the same things as you are. Think of them as people who want to help you.
+  - poop sandwich method
+    - bread: sincere appreciation
+    - poop: bad news
+    - bread: a compliment.
+  - how to keep a disagreement from being an argument
+    - Welcome the disagreement
+    - distrust your first instinctive impression
+    - control your thoughts/temper. You can measure a person by what makes him/her angry. Little people get angry over little things. Big people are undisturbed and keep cool
+    - listen first
+    - look for areas of agreement
+    - thanks your opponents sincerely for their interest
+    - postpone action to give both sides time to think through the problem.
+
+- **How to give feedback**
+  - talk about your own related mistakes
+  - call attention to people's mistakes indirectly
+  - ask questions instead of giving orders
+  - give the person a fine reputation to live up to. Act as though the trait were already one of his/her outstanding characteristics.
+  - let the other people save face.
+  - be "hearty in your approbation and lavish in your praise".
+  - be specific with your compliments and don't give everyone the same compliments.
+  - Use encouragement. Make the fault seem easy to correct.
+  - frame the improvement in terms of the person's own interests.
+
 # Six Ways to Make a Lasting Impression
 
 - **Take Interest in Others’ Interests**
@@ -215,45 +254,6 @@ In the long run, no one but the originator remembers things such as whose idea i
   - In digital time and space, with open access and frequent communication, the perfunctory principles of corporate activity have largely broken down and been replaced by the basic principles of human relations.
   - Your first task remains the business of humanity
 
-# How to approach arguments
-- instead, approach with an open-minded view: "I may be wrong; I often am. And if I'm wrong, I want to change and be right. Let's discuss the facts."
-- praise the other person for a trait that will help resolve the argument - like their patience, open-mindedness, fairness, and receptivity to new facts.
-- understand that the other person has a valid view of the situation. Your job is to understand what led them to believe what they believe.
-- express sympathy for their situation. "You have the absolute right to be upset. If I were in your shoes, I would be too"
-- show respect for the other person's opinions. Never say, "You're wrong."
-  - listen first. Give your opponents a chance to talk through. Do NOT interrupt as they're speaking.
-- ask people where they feel the problems are. Ask for their opinions on how best to proceed. Ask lots of questions instead of stating commands.
-- the only way to get the best out of an argument is to avoid it.
-- look for areas of agreement. Try to build bridges of understanding. Talk about common goals and what you agree on.
-- let the other person feel that the idea is his or her.
-- emphasize how your position serves the other person's interests and incentives.
-- if you're wrong, admit it quickly and emphatically
-- the only way to get the best out of an argument is to avoid it.
-- anyone who takes the time to disagree with you is interested in the same things as you are. Think of them as people who want to help you.
-- poop sandwich method
-  - bread: sincere appreciation
-  - poop: bad news
-  - bread: a compliment.
-- how to keep a disagreement from being an argument
-  - Welcome the disagreement
-  - distrust your first instinctive impression
-  - control your thoughts/temper. You can measure a person by what makes him/her angry. Little people get angry over little things. Big people are undisturbed and keep cool
-  - listen first
-  - look for areas of agreement
-  - thanks your opponents sincerely for their interest
-  - postpone action to give both sides time to think through the problem.
-
-# How to give feedback
-- talk about your own related mistakes
-- call attention to people's mistakes indirectly
-- ask questions instead of giving orders
-- give the person a fine reputation to live up to. Act as though the trait were already one of his/her outstanding characteristics.
-- let the other people save face.
-- be "hearty in your approbation and lavish in your praise".
-- be specific with your compliments and don't give everyone the same compliments.
-- Use encouragement. Make the fault seem easy to correct.
-- frame the improvement in terms of the person's own interests.
-
 # Quotes
 "Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person's precious pride, hurts his sense of importance, and arouses resentment. ... Any fool can criticize, condemn and complain - and most fools do. But it takes character and self-control to be understanding and forgiving"
 
@@ -281,8 +281,6 @@ In the long run, no one but the originator remembers things such as whose idea i
 
 "A drop of honey can catch more flies than a gallon of gall"
 
-# todo
-- review https://www.grahammann.net/book-notes/how-to-win-friends-and-influence-people-in-the-digital-age-dale-carnegie
 
 # References
 - https://www.grahammann.net/book-notes/how-to-win-friends-and-influence-people-in-the-digital-age-dale-carnegie
