@@ -481,41 +481,42 @@ suspended dividend & has raised it during good and bad times, including the last
 ## 2) ASSET PLAYS
 
 - ***Traits***
-  - Local edge is useful, since Wall Street ignores/overlooks valuable assets.
-  - business with assets whether it's cash, investments, properties, machines, etc...that is worth more than the price you will pay for the stocks.
+  - Local edge is useful since Wall Street ignores/overlooks valuable assets.
+  - business with assets, whether cash, investments, properties, machines, etc., is worth more than the price you will pay for the stocks.
 
 - ***Examples***
-  - Railroads, TV stations, minerals, oil & gas, timber, newspapers, real estate, depreciation on assets that appreciate over time, patents, cash, subsidiary valuations, foreign owner priced cheaper than local subsidiary, tax loss carry forwards, goodwill amortization, brands, holding company / conglomerate discount, depreciated assets that don’t need maintenance capex but still produce FCF (rental equipment EPS = 0, but FCF =3)
+  - Railroads, TV stations, minerals, oil & gas, timber, newspapers, real estate, depreciation on assets that appreciate over time, patents, cash, subsidiary valuations, foreign owner priced cheaper than a local subsidiary, tax loss carry forwards, goodwill amortization, brands, holding company/conglomerate discount, depreciated assets that don’t need maintenance capex but still produce FCF (rental equipment EPS = 0, but FCF =3)
 
 - ***People Examples***
   - Never do wells, trust fund men, squires, bon vivants
-  - Live off family fortunes but never labour – issue is what will be left after payments for travel, liquor, creditors etc.
+  - Live off family fortunes but never labour – the issue is what will be left after payments for travel, liquor, creditors etc.
 - ***PE Ratio***
-  - If 2-5x is the expected return, then entry point for P/NAV = 20-50%
+  - If 2-5x is the expected return, then the entry point for P/NAV = 20-50%
 - ***2 Minute Drill***
-  - What are the assets and what’s their worth?
-  - Stock = $8, but video cassette division = $4 and Real Estate = $7. That a bargain in itself and the rest of the company = ($3). Insiders
-are buying and the company has steady earnings. There is no debt to speak of.
+  - What are the assets, and what’s their worth?
+  - Stock = $8, but video cassette division = $4 and Real Estate = $7. That is a bargain, and the rest of the company = ($3). Insiders
+are buying, and the company has steady earnings. There is no debt to speak of.
 
 - ***Checklist***
   - NAV? Any hidden assets?
   - Debt – does leverage detract from asset value? Is new debt being added?
-  - Catalyst – how will value get unlocked? Raider / activist?
+  - Catalyst – how will value get unlocked? Raider/activist?
 
 - ***Portfolio Allocation %***
   - 0% - NO Allocation
 
 - ***Risk/Reward***
   - Low Risk – High Gain, IF you’re sure that NAV = 2-5x current price
-  - If wrong, you probably don’t lose much Hold
-  - If company isn’t going on a debt binge and reducing NAV
+  - If wrong, you probably don’t lose much
+  - If a company isn’t going on a debt binge and reducing NAV
 
 - ***Sell When***
   - Catalyst occurs – without raider/catalyst, you may sit for ages.
   - although the share sell at a discount to real market value, management has announced it will issue 10 percent more shares to help finance a diversification program
   - Institutional ownership rises to 60% from 25
-  - Instead of a subsidiary selling for $100, it sells for $60 - calculated NAV maybe inflated
-  - Tax rate deduction reduces value of tax loss carry forwards
+  - Instead of a subsidiary selling for $100, it sells for $60 - the calculated NAV may be inflated
+  - Tax rate deduction reduces the value of tax loss carry forwards
+  
 
 ## 3) STALWARTS
 
