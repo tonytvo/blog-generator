@@ -523,61 +523,62 @@ are buying, and the company has steady earnings. There is no debt to speak of.
 - ***Traits***
   - Growth rate = 2x GNP growth rate
   - Growth Rates: Slow Growers (1x GNP) < Stalwarts (2x GNP) < Fast Growers (20-25%)
-  - Fairly large sized companies
-  - You can profit, based on time and price of purchase. Long term return will be = bonds
+  - Fairly large-sized companies
+  - You can profit based on time and price of purchase. Long-term return will be = bonds
   - Good performers, but not stars – 50% return in 2 years is a delightful result. Sell more readily than Fast Growers.
-  - Good performers in good markets. Take 30- 50% returns, and then rotate money into another Stalwart.
+  - Good performers in good markets. Take 30- 50% returns, then rotate money into another Stalwart.
   - Operating performance of such defensives helps them survive recessions. No down quarter for 20-30 years.
-  - Offer good protection in hard times. Won’t go bankrupt, soon enough they’ll be reassessed, and their value will be restored.
-  - Don’t hold after 2x, hoping for 10x. Can hold for 20 years only if you bought a “Great” company at a “Good” price.
-  - Can hardly go wrong by making a full portfolio of companies that have raised dividends for 10-20 years in a row.
-  - Hidden assets like brands & patents grow larger, while the company punishes P&L EPS via amortization, R&D, branding etc. EPS will jump when these expenses stop, or, the new product hits the market.
-    - Due to these hidden assets and low maintenance capex, FCF > EPS.
-    - Possible to cut costs, raise prices and also capture market share in slow growth markets.
+  - Offer good protection in hard times. Won’t go bankrupt. Soon enough, they’ll be reassessed, and their value will be restored.
+  - Don’t hold after 2x. Hoping for 10x. It could hold for 20 years only if you bought a “Great” company at a “Good” price.
+  - Can hardly go wrong by making a full portfolio of companies that have raised dividends for 10-20 years.
+  - Hidden assets like brands & patents grow larger while the company punishes P&L EPS via amortization, R&D, branding etc. EPS will jump when these expenses stop, or the new product hits the market.
+    - Due to these hidden assets and low maintenance CAPEX, FCF > EPS.
+    - Possible to cut costs, raise prices and capture market share in slow-growth markets.
     - If you can find a company that can raise prices without losing customers, you’ve found a terrific investment.
 - ***Examples***
   
   - Pharma, Tobacco, FMCG, Alcohol 
-  - people will continue to eat cornflakes during recession and thus Kellogg will grow steadily
+  - people will continue to eat cornflakes during a recession, and thus Kellogg will grow steadily
 
 - ***People Examples***
-  - Command good salaries and get predictable raises – mid level employees
+  - Command good salaries and get predictable raises – mid-level employees
 
 - ***PE Ratio***
   - Average = 10-14x.
   - PEG <0.5-1x is fine, but 2x is expensive.
 
 - ***2 Minute Drill***
-  - Key issues are PE, recent price run-ups, and what, if anything is happening to accentuate growth rate?
-  - Coke is selling at the low end of its PE range. Stock hasn’t gone anywhere for 2 years, even though the company has improved in many
-ways. Sold 50% of Columbia Pictures. Diet drinks have dramatically sped up growth rate. Foreign sales are excellent. Has better
+  - Key issues are PE, recent price run-ups, and what, if anything, is happening to accentuate the growth rate.
+  - Coke is selling at the low end of its PE range. The stock hasn’t gone anywhere for two years, even though the company has improved in many
+ways. Sold 50% of Columbia Pictures. Diet drinks have dramatically sped up the growth rate. Foreign sales are excellent. Has better
 control over sales & distribution after buying out many independent, regional distributors. Thus, it may do better than people think.
 
 - ***Checklist***
   - Price = key issue, since these are big companies that aren’t likely to go out of business
-  - Diversification – capital misallocation may reduce future earnings. Board of Directors’ is better off returning cash to shareholders.
-  - Long Term Growth Rate – has company kept up with growth rate momentum in recent years? Is it slowing/speeding?
-  - Long Term Holding – how did it fare during previous recessions / market correction?
+  - Diversification – capital misallocation may reduce future earnings. The Board of Directors is better off returning cash to shareholders.
+  - Long-Term Growth Rate – has the company kept up with growth rate momentum in recent years? Is it slowing/speeding?
+  - Long-Term Holding – how did it fare during previous recessions/market corrections?
   - check for unrelated acquisitions that may reduce earnings in the future
 
 - ***Portfolio Allocation %***
-  - 10-20% Allocation, in order to moderate risks in portfolio full of Fast Growers and Turnarounds.
-  - Average 20% Allocation in a personal investor’s 10 stock portfolio.
+  - 10-20% Allocation to moderate risks in a portfolio full of Fast Growers and Turnarounds.
+  - Average 20% Allocation in a personal investor’s 10-stock portfolio.
 
 - ***Risk/Reward***
   - Low Risk – Moderate Gain.
-  - 2 year hold may give 50% upside vs 20% downside.
+  - 2-year holding may give a 50% upside vs 20% downside.
   - 6 rotations of 25-30% CAGR Stalwarts = 4-5x, or 1 big winner.
 
 - ***Sell When***
-  - Stalwarts with heavy institutional ownership and lots of Wall Street coverage, that have outperformed the market and are overpriced,
+  - Stalwarts with heavy institutional ownership and lots of Wall Street coverage that have outperformed the market and are overpriced,
 are due for a rest or decline.
-  - 10x not possible. If P>E, or, PE>Normal, sell and rotate. If Price gets ahead, but the story is still the same, sell and rotate.
-  - New products of last 2 years have mixed results & new testing products are > 1 year away from market launch
-  - PE = 15x, vs similar quality company from same industry at 11-12x PE
-  - No Executive/CXO/Director has bought shares in last 1 year
+  - 10x is not possible. If P>E or PE>Normal, sell and rotate. If Price gets ahead, but the story is still the same, sell and rotate.
+  - New products of the last two years have mixed results & new testing products are > 1 year away from market launch
+  - PE = 15x, vs similar quality company from the same industry at 11-12x PE
+  - No Executive/CXO/Director has bought shares in the last year
   - Large division (>25% of sales) is vulnerable to an ongoing economic slump (housing, oil)
-  - Growth rate is slowing down and though earnings have been maintained via cost cuts, there’s no further room left.
+  - Growth rate is slowing down, and though earnings have been maintained via cost cuts, there’s no further room left.
+
 
 ## 4) TURNAROUNDS
 
