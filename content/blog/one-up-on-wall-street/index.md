@@ -584,49 +584,49 @@ are due for a rest or decline.
 
 - ***Traits***
   - No growth, potential fatalities – a poorly managed company is a candidate for trouble
-  - Make up lost ground very quickly and performance isn’t related to market moves
-  - Can’t compile a list of failed Turnarounds, since their records get deleted after collapse
+  - Make up lost ground very quickly, and performance isn’t related to market moves
+  - Can’t compile a list of failed Turnarounds since their records get deleted after the collapse
   - Turnaround types: 
     - i) Bail Us Out Or Else: whole deal depends on a government bailout.
     - ii) Who Would’ve Thought: can lose money in utilities?
-    - iii) Unanticipated Problem: minor tragedy perceived to be worse, leading to major opportunity. Be patient. Keep up with news. Read it with dispassion. Stay away from tragedies where the outcome is immeasurable
+    - iii) Unanticipated Problem: minor tragedy perceived to be worse, leading to major opportunity. Be patient. Keep up with the news. Read it with dispassion. Stay away from tragedies where the outcome is immeasurable
     - iv) Good Company Inside a Bad one: possible bankruptcy spinoff. Look for institutional selling and insider buying. Did the parent strengthen the company’s balance sheet pre-spinoff?
-    - v) Restructuring: company divorseified earlier, now the loss making business is being sold off, costs cut etc.
+    - v) Restructuring: company diworseified earlier, and now the loss-making business is being sold off, costs cut etc.
   - How will earnings change?
     - i) Lower costs
     - ii) Higher prices
     - iii) Expansion into new markets
     - iv) Higher volume sold in old markets
-    - v) Changes in loss making operations
-  - Buy companies with superior financial condition. Young company + Heavy Debt = Higher Risk. Determine extent of leverage and what kind is it? Long term funded debt is preferable to Short/Medium term callable bank debt, which may trigger bankruptcy.
-  - Inventory growth > Sales growth = Red flag, & inventory growth is a bad sign. Depleting inventory means things maybe turning positive. High inventory build up overstates earnings - may mean that management is deferring losses by not marking down the
+    - v) Changes in loss-making operations
+  - Buy companies with superior financial conditions. Young company + Heavy Debt = Higher Risk. Determine the extent of leverage and what kind it is. Long-term funded debt is preferable to Short/Medium term callable bank debt, which may trigger bankruptcy.
+  - Inventory growth > Sales growth = Red flag, & inventory growth is a bad sign. Depleting inventory means things maybe turn positive. High inventory build-up overstates earnings - may mean that management is deferring losses by not marking down the
 unsold items & getting rid of them quickly.
-  - Asset/inventory values maybe inflated. Raw materials are liquidated better than finished goods. Check for pension liabilities and capitalized interest expense in asset values.
-  - Upswing favours Turnarounds > Normal companies. So look for low margin companies to succeed via operating leverage / high cost of production.
-  - If the industry is robust in general and the company’s business doesn’t do well, then one maybe pessimistic about its future.
-  - If the entire industry is in a slump & due for a rebound, & the company has strengthened its balance sheet and is close to the breakeven point, then it has the potential to do jumbo sales when the industry picks up.
-  - Name changes may happen due to M&A or some fiasco that they hope will be forgotten.
-  - Are Turnarounds obvious winners? In hindsight, yes, but a company doesn’t tell you to buy it. There’s always something to worry about. There are always respected investors who say that you’re wrong. You’veto know the story better than they do and have faith in what you know.
-  - For a stock to do better than expected, it has to be widely underestimated. Otherwise, it’d sell for a higher price to begin with. When
-the prevailing opinion is more negative than yours, you’ve to constantly check & re-check the facts, to assure yourself that you’re not
-being foolishly optimistic. The story keeps changing for better or worse, and you’ve to follow these changes and act accordingly.
-  - With Turnarounds, Wall Street will ignore changes. The Old company had made such a powerful impression that people can’t see
-the New one. Even if you don’t see it right away, you can still profit more than enough.
-  - Cyclicals with serious financial problems collapse into Turnarounds. Also, fast growers that divorseify & fall out of favour If Slow Grower = Turnaround, then it’s performance maybe > Stalwart/Fast Grower
+  - Asset/inventory values may be inflated. Raw materials are liquidated better than finished goods. Check for pension liabilities and capitalized interest expense in asset values.
+  - Upswing favours Turnarounds > Normal companies. So look for low-margin companies to succeed via operating leverage / high cost of production.
+  - If the industry is robust in general and the company’s business doesn’t do well, one may be pessimistic about its future.
+  - If the entire industry is in a slump & due for a rebound, & the company has strengthened its balance sheet and is close to the breakeven point, then it has the potential to make jumbo sales when the industry picks up.
+  - Name changes may happen due to M&A or some fiasco they hope will be forgotten.
+  - Are Turnarounds obvious winners? In hindsight, a company doesn’t tell you to buy it. There’s always something to worry about. There are always respected investors who say that you’re wrong. You must know the story better than they do and believe in what you know.
+  - For a stock to do better than expected, it has to be widely underestimated. Otherwise, it’d sell for a higher price, to begin with. When
+the prevailing opinion is more negative than yours, you’ve to constantly check & re-check the facts to assure yourself that you’re not
+being foolishly optimistic. The story keeps changing for better or worse, and you must follow these changes and act accordingly.
+  - With Turnarounds, Wall Street will ignore changes. The Old company had such a powerful impression that people couldn’t see
+the New one. Even if you don’t see it immediately, you can still profit more than enough.
+  - Cyclicals with serious financial problems collapse into Turnarounds. Also, fast growers diversify & fall out of favour. If Slow Grower = Turnaround, then its performance maybe > Stalwart/Fast Grower
   - Remind yourself of the Even Bigger Picture – that stocks in good companies are worth owning. What’s the worst that can happen?
-Recession turns into depression? Then interest rates will fall, competitors will falter etc. if things go right, how much can I earn? What’s the reward side of the equation? Take the industry which is surrounded by the most doom and gloom. If the fundamentals are positive, you’ll find some big winners.
+Does recession turn into depression? Then interest rates will fall, competitors will falter etc. if things go right, how much can I earn? What’s the reward side of the equation? Take the industry which is surrounded by the most doom and gloom. If the fundamentals are positive, you’ll find some big winners.
 
 - ***Examples***
   - Auto (Ford Chrysler), paper, airlines (Lockheed), steel, electronics, non-ferrous metals, real estate, oil & gas, retail, Penn Central, General Utilities, Con Edison, Toys R Us spinoff, Union Carbide, Goodyear.
-  - Record with troubled utilities is better than troubled companies in general, because of regulations. A utility may cancel dividends / declare bankruptcy, but if people depend on it, a way must be found to let it continue functioning. Regulation determines prices, profits, passing on costs to customers. Since the government has a vested interest in its survival, the odds are overwhelming that it will be allowed to overcome its problems.
+  - Record with troubled utilities is better than troubled companies because of regulations. A utility may cancel dividends / declare bankruptcy, but if people depend on it, a way must be found to let it continue functioning. Regulation determines prices, and profits, passing on costs to customers. Since the government has a vested interest in its survival, the odds are overwhelming that it will be allowed to overcome its problems.
   - Troubled Utility Cycle: 
-    - i) Disaster Strikes: some huge cost (fuel) can’t be passed along, or, because a huge asset is mothballed & removed from the base rate. Stock drops 40-80% in 1-2 years, horrifying people who view utilities as safe & stable investments. Soon, it starts trading at 20-30% P/B. Wall Street is worried about fatal damage – how long it takes to reverse this impression varies. 30% P/B implies bankruptcy, emergence from which may take upto 4 years.
-    - ii) Crisis Management: utility attempts to respond by cutting costs and capex. Dividend maybe decreased / eliminated. Begins to look as if the company will survive, but price doesn’t reflect the improved prospects. 
-    - iii) Financial Stabilization: cost cuts have succeeded, allowing it to operate on current revenues. Capital markets maybe unwilling to lend money for new projects & it’s still not earning money for owners, but survival isn’t in doubt. Prices recover to 60-70% P/B, 2x from stage (i), (ii) 
-    - iv) Recovery At Last: once again capable of earning and Wall Street has reason to expect improved earnings and the reinstatement of dividends. P/B = 1x. How things progress from here depends on, (a) reception from capital markets, because without capital, a utility cannot increase its base rates, and, (b) support from regulators’, ie, how many costs are allowed to be passed on? 
-  - One person’s distress is another man’s opportunity. You don’t need to rush into troubled utilities to make large profits. Can wait until the crisis has abated, doomsayers are proven wrong, and, still make 2-4x in short term. Buy on the omission of dividend
+    - i) Disaster Strikes: some huge cost (fuel) can’t be passed along because a huge asset is mothballed & removed from the base rate. Stock drops 40-80% in 1-2 years, horrifying people who view utilities as safe & stable investments. Soon, it starts trading at 20-30% P/B. Wall Street is worried about fatal damage – how long it takes to reverse this impression varies. 30% P/B implies bankruptcy, which may take up to 4 years.
+    - ii) Crisis Management: utility attempts to respond by cutting costs and CAPEX. Dividends may be decreased/eliminated. It looks like the company will survive, but the price doesn’t reflect the improved prospects. 
+    - iii) Financial Stabilization: cost cuts have succeeded, allowing it to operate on current revenues. Capital markets may be unwilling to lend money for new projects & it’s still not earning money for owners, but survival isn’t in doubt. Prices recover to 60-70% P/B, 2x from stage (i), (ii) 
+    - iv) Recovery At Last: once again capable of earning, Wall Street has reason to expect improved earnings and the reinstatement of dividends. P/B = 1x. How things progress from here depends on (a) reception from capital markets because without capital, a utility cannot increase its base rates, and (b) support from regulators’, i.e., how many costs are allowed to be passed on? 
+  - One person’s distress is another man’s opportunity. You don’t need to rush into troubled utilities to make large profits. Can wait until the crisis has abated, doomsayers are proven wrong, and still, make 2-4x in the short term. Buy on the omission of dividends
 & wait for the good news. Or buy when the first good news has arrived in stage (ii). 
-  - The problem that some people have is they think they’ve missed it if the stock falls to $4, then rebounds to $8. A troubled company has a long way to go and you’ve to forget that you’ve missed the bottom.
+  - The problem that some people have is they think they’ve missed it if the stock falls to $4, then rebounds to $8. A troubled company has a long way to go, and you must forget that you’ve missed the bottom.
 
 - ***People Examples***
   
@@ -634,14 +634,14 @@ Recession turns into depression? Then interest rates will fall, competitors will
 
 - ***2 Minute Drill***
 
-  - Has the company gone about improving its fortunes and is the plan working?
-  - General Mills has made great progress on diversification. Cut down from 11 to 2 businesses that are key and the company does best. Others were sold at good price and the cash was used for buybacks. 1 key business’ market share has improved from 7 to 25% and is coming up with new products. Earnings are up sharply.
+  - Has the company gone about improving its fortunes, and is the plan working?
+  - General Mills has made great progress on diversification. Cut down from 11 to 2 businesses that are key and the company does best. Others were sold at a good price, and the cash was used for buybacks. One key business’ market share has improved from 7 to 25%, and is coming up with new products. Earnings are up sharply.
 
 - ***Checklist***
 
-  - Plan – how will it turnaround? Sell loss making subsidiaries? Cut costs? What’s the impact of these actions? Is business coming back? New products?
-  - Survival – can it survive a raid by short term creditors? Check cash/debt position, capital structure, can it sustain more losses?
-  - Bottom Fishing – if it’s bankrupt already, then what’s left for owners? 
+  - Plan – how will it turn around? Sell loss-making subsidiaries? Cut costs? What’s the impact of these actions? Is business coming back? New products?
+  - Survival – can it survive a raid by short-term creditors? Check cash/debt position and capital structure. Can it sustain more losses?
+  - Bottom Fishing – if it’s bankrupt already, what’s left for owners? 
 
 - ***Portfolio Allocation %***
 
@@ -653,12 +653,12 @@ Recession turns into depression? Then interest rates will fall, competitors will
 
 - ***Sell When***
 
-  - After Turnaround is complete, trouble is over, everyone is aware of changed situation, & the company is re-classified as a Cyclical/Fast/Slow Grower etc. Stockholders aren’t embarrassed to own the shares anymore.
+  - After Turnaround is complete, trouble is over, everyone is aware of the changed situation, & the company is re-classified as a Cyclical/Fast/Slow Grower etc. Stockholders aren’t embarrassed to own the shares anymore.
   - Stock is judged to be a 2x, but not 5-10x 
-  - PE is inflated vs Earnings prospects, sell and rotate into juicier Turnaround opportunities, where Fundamentals are better than Price.
-  - Debt, which has declined for 5 consecutive quarters, rises again. Indicates increased chances of relapse.
+  - PE is inflated vs Earnings prospects. Sell and rotate into juicier Turnaround opportunities, where Fundamentals are better than Price.
+  - Debt, which has declined for five consecutive quarters, rises again. Indicates increased chances of relapse.
   - Inventory rise > 2x Sales increase. 
-  - >50% sales of the company’s strongest division’ come from some customer whose sales are slowing down.
+  - >50% of sales of the company’s strongest division’ come from some customers whose sales are slowing down.
 
 ## 5) CYCLICALS
    
