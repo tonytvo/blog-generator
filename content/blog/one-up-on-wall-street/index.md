@@ -663,63 +663,62 @@ Does recession turn into depression? Then interest rates will fall, competitors 
 ## 5) CYCLICALS
    
 - ***Traits***
-  - Sales and profits rise and fall in regular, if not completely regular fashion, as business expands and contracts.
-  - Timing is everything. Coming out of a recession into a vigorous economy, they flourish more than Stalwarts. In the opposite direction, they can lose >50% very quickly and may take years before another upswing.
-  - Most misunderstood type, and investors can lose money in stocks considered safe. Large Cyclicals are falsely classified as Stalwarts.
+  - Sales and profits rise and fall in regular, if not completely regular, fashion as the business expands and contracts.
+  - Timing is everything. Coming out of recession into a vigorous economy, they flourish more than Stalwarts. In the opposite direction, they can lose >50% very quickly and may take years before another upswing.
+  - Most misunderstood type, investors can lose money in safe stocks. Large Cyclicals are falsely classified as Stalwarts.
   - If a defensive Stalwart loses 50% in a slump, then Cyclicals may lose 80%. 
-  - It’s much easier to predict upswing, vs, a downturn, so one has to detect early signs of business changes. You get a working edge if you’re in the same industry – to be used to your advantage. Most important in Cyclicals.
+  - It’s much easier to predict an upswing, vs, a downturn, so one has to detect early signs of business changes. You get a working edge if you’re in the same industry – to be used to your advantage. Most important in Cyclicals.
   - Unreliable dividend payers. If they’ve financial problems, then they become potential Turnaround candidates.
-  - Inventory build-up = bad sign. Inventory growth > Sales growth = red flag. Inventory build-up with companies having fluctuating end product pricing causes larger problems.
-  - Monitor inventory to figure out business direction. If inventory is depleting in a depressed company, it’s the first evidence of a possible business turnaround.
+  - Inventory build-up = bad sign. Inventory growth > Sales growth = red flag. Inventory build-up with companies having fluctuating end-product pricing causes larger problems.
+  - Monitor inventory to figure out the business direction. If an inventory is depleting in a depressed company, it’s the first evidence of a possible business turnaround.
   - High Operating Profit Margin (OPM) = Lowest Cost producer, who’s got a better chance of survival if business conditions deteriorate.
-  - Upswing favours companies with Low OPM’s. Therefore, what you want to do is to Hold relatively High OPM companies for long term and play relatively Low OPM companies for successful Turnarounds / cycle turns. The best time to get involved with Cyclicals is when the economy is at its weakest, earnings are at their lowest, and public sentiment is at its bleakest. Even though Cyclicals have rebounded in the same way 8 times since WWII, buying them in the early stages of an economic recovery is never easy.
-  - Every recession brings out sceptics who doubt that we will ever come out of it, who predict a depression and the country going bankrupt. If there’s any time not to own Cyclicals, it’s in a depression. “This one is different,” is the doomsayer’s litany, and, in fact, every recession is different, but that doesn’t mean it’s going to ruin us.
-  - Whenever there was a recession, Lynch paid attention to them. Since he always thought positively and assumed that the economy will improve, he was willing to invest in Cyclicals at their nadir. Just when it seems it can’t get any worse, things begin to get better. A comeback of depressed Cyclicals
+  - Upswing favours companies with Low OPMs. Therefore, what you want to do is to Hold relatively High OPM companies for the long term and play relatively Low OPM companies for successful Turnarounds/cycle turns. The best time to get involved with Cyclicals is when the economy is at its weakest, earnings are at their lowest, and public sentiment is at its bleakest. Even though Cyclicals have rebounded in the same way eight times since WWII, buying them in the early stages of an economic recovery is never easy.
+  - Every recession brings out skeptics who doubt that we will ever come out of it, who predict depression and the country going bankrupt. If there’s any time not to own Cyclicals, it’s in a depression. “This one is different” is the doomsayer’s litany, and every recession is different, but that doesn’t mean it will ruin us.
+  - Whenever there was a recession, Lynch paid attention to them. Since he always thought positively and assumed that the economy would improve, he was willing to invest in Cyclicals at their nadir. Things begin to get better when it seems it can’t get any worse. A comeback of depressed Cyclicals
 with strong balance sheets is inevitable.
-  - Cyclicals lead the market higher at the end of a recession – how frequently today’s mountains turn into tomorrow’s molehills,
-and, vice versa.
-  - Cyclicals are like blackjack: stay in the game too long and it’s bound to take back all your profits. Things can go from good to worse very quickly and it’s important to get out at the right time.
-  - As business goes from lousy to mediocre, investors in Cyclicals can make money; as it goes from mediocre to good, they can make money; from good to excellent, they may make a little more money, though not as much as before. It’s when business goes from excellent back to good that investors begin to lose; from good to mediocre, they lose more; and from mediocre to lousy, they’re back where they started.
-  - So, you have to know where we are in the cycle. But it’s not quite as simple as it sounds. Investing in Cyclicals has become a game of anticipation, making it doubly hard to make money. Large institutions try to get a jump on competitors by buying Cyclicals before they’ve shown any signs of recovery.
-  - This can lead to false starts, when stock prices run up and then fall back with each contradictory statistic (we’re recovering, we’re not recovering) that is released.
-  - The principal danger is that you buy too early, then get discouraged, and, sell. To succeed, you’ve to have some way of tracking the fundamentals of the industry and the company. It’s perilous to invest without the working knowledge of the industry and its rhythms.
-  - Timing the cycle is only half the battle. Other half is picking companies that will gain Most from an upturn. If Industry pick = Right, but Company pick = Wrong, then you can lose money just as easily as if you were wrong about the industry.
+  - Cyclicals lead the market higher at the end of a recession – how frequently today’s mountains turn into tomorrow’s molehills, and vice versa.
+  - Cyclicals are like blackjack: stay in the game too long, and it’s bound to take back all your profits. Things can go from good to worse very quickly, and it’s important to get out at the right time.
+  - As business goes from lousy to mediocre, investors in Cyclicals can make money; as it goes from mediocre to good, they can make money; from good to excellent, they may make a little more money, though not as much as before. When a business goes from excellent back to good, investors begin to lose; from good to mediocre, they lose more; and from mediocre to lousy, they’re back where they started.
+  - So, you have to know where we are in the cycle. But it’s not quite as simple as it sounds. Investing in Cyclicals has become a game of anticipation, making it doubly hard to make money. Large institutions try to jump on competitors by buying Cyclicals before showing any signs of recovery.
+  - This can lead to false starts when stock prices run up and then fall back with each contradictory statistic (we’re recovering, we’re not recovering).
+  - The principal danger is that you buy too early, then get discouraged, and sell. To succeed, you’ve to have some way of tracking the fundamentals of the industry and the company. Investing is perilous without the working knowledge of the industry and its rhythms.
+  - Timing the cycle is only half the battle. The other half is picking companies that will gain the Most from an upturn. If Industry picks = Right, but Company pick = Wrong, you can lose money just as easily as if you were wrong about the industry.
   - If investing in a troubled industry, buy companies with staying power. Also, wait for signs of revival. Some troubled industries never came back.
-  - If you sell at 2x, you won’t get 10x. If the original story is intact or improving, stick around to see what happens and you’ll be amazed at the results.
+  - If you sell at 2x, you won’t get 10x. If the original story is intact or improving, stick around to see what happens, and you’ll be amazed at the results.
 
 - ***Examples***
   - Auto, airlines, steel, tyres, chemicals, aerospace & defence, non-ferrous metals, nursing, lodging, oil & gas 
-  - Autos: 3-4 up years, after 3-4 down years. Worse Slump = Better Recovery. An extra bad year brings longer and more sustainable upside. People will eventually replace their cars, even if put off for 1-2 years. 
-    - Units of pent up demand – compare Actual Sales vs Trend, ie, estimate of how many units should’ve been sold based on demographics, previous year sales, age of cars on road etc. 
-    - 1980-83 = sluggish economy + people saving up, therefore pent up demand = 7mm. 1984-89 boom, sales exceeded trendline by 7.8mm.
-    - After 4-5 years below trend, it takes another 4-5 years above trend, before the car market can catch upto itself. If you didn’t know this, you might sell your auto stocks too soon. After 1983, sales increased from 5mm to 12.3mm and you might sell fearing the boom was over. But if you follow the trend, you’d know the pent up demand was 7mm, which wasn’t exhausted until 1988, which was the year to sell your auto stocks, since pent up demand from early 80’s got used up. Even though 1989 was a good year, units sold fell by 1mm.
-    - If industry had 5 good years, it means it’s somewhere in the middle of the cycle. Can predict upturn, not downturn.
-    - Chrysler EPS for 1988, ’89, ’90 & ’91 was $4.7, $11.0, $0.3 & Loss, respectively. When your best case is worse than everyone’s worst case, worry that the stock is floating on fantasy.
-  - At one point, high yield Utilities were 10% of Magellan’s AUM. This usually happened when interest rates were declining and the economy was in a splutter. Therefore, treat Utilities as interest rate Cyclicals and time entry and exit accordingly. Can also treat Fannie / NBFC’s as interest rate Cyclicals benefitting from rate cuts.
-  - In the Gold Rush, people selling picks and shovels did better than the miners. During periods when mutual funds are popular, investing in the fund companies is more rewarding than putting money into their funds. When interest rates are falling, bond & equity funds attract most cash. Money market funds prosper when rates rise. 
-  - In US /Europe insurance companies, the rates go up months before earnings show any improvement. If you buy when the rates first begin to rise, you can make a lot of money. It’s not uncommon for a stock to become 2x after a rate increase and another 2x on the higher earnings that result from a rate increase.
+  - Autos: 3-4 up years, after 3-4 down years. Worse Slump = Better Recovery. An extra bad year brings a longer and more sustainable upside. People will eventually replace their cars, even if put off for 1-2 years. 
+    - Units of pent-up demand – compare Actual Sales vs Trend, i.e., an estimate of how many units should’ve been sold based on demographics, previous year sales, age of cars on the road etc. 
+    - 1980-83 = sluggish economy + people saving up, therefore pent up demand = 7mm. 1984-89 boom, sales exceeded the trendline by 7.8mm.
+    - After 4-5 years below trend, it takes another 4-5 years above trend before the car market can catch up to itself. You might sell your auto stocks too soon if you didn't know this. After 1983, sales increased from 5mm to 12.3mm, and you might sell, fearing the boom was over. But if you follow the trend, you’d know the pent-up demand was 7mm, which wasn’t exhausted until 1988, which was the year to sell your auto stocks since pent-up demand from the early ’80s got used up. Even though 1989 was a good year, units sold fell by 1mm.
+    - If the industry had five good years, it’s somewhere in the middle of the cycle. Can predict an upturn, not a downturn.
+    - Chrysler EPS for 1988, ’89, ’90 & ’91 was $4.7, $11.0, $0.3 & Loss, respectively. Worry that the stock is floating on fantasy when your best case is worse than everyone’s worst case.
+  - At one point, high yield Utilities were 10% of Magellan’s AUM. This usually happened when interest rates were declining, and the economy was in a splutter. Therefore, treat Utilities as interest rate Cyclicals and time entry and exit accordingly. It can also treat Fannie / NBFCs as interest rate Cyclicals benefitting from rate cuts.
+  - In the Gold Rush, people selling picks and shovels did better than the miners. When mutual funds are popular, investing in the fund companies is more rewarding than putting money into their funds. When interest rates are falling, bond & equity funds attract the most cash. Money market funds prosper when rates rise. 
+  - In US /Europe insurance companies, the rates go up months before earnings show any improvement. You can make a lot of money if you buy when the rates first begin to rise. It’s not uncommon for a stock to become 2x after a rate increase and another 2x on the higher earnings that result from a rate increase.
 
 - ***People Examples***
-  - Make all their money in short bursts, then try to budget it through long, unprofitable stretches. Farmers, resort employees, camp operators, writers, actors. Some may also become Fast Growers.
+  - Make all their money in short bursts, then try to budget it through long, unprofitable stretches. Farmers, resort employees, camp operators, writers, and actors. Some may also become Fast Growers.
 
 - ***PE Ratio***
   - Slow Growers (7-9x) < Cyclicals (7-20x) < Fast Growers (14-20x)
   - Assigning PE’s: Peak EPS (3-4x) < Decent EPS (5-8x) < Average EPS (8-10x)
-  - Stock Pattern: 1990 EPS = $6.5, Price Range = $23 - $36, PE Range = 3.6-5.5x. 1991 EPS = $3.9, Price drops to $26. PE = 6.7x, higher than previous year PE, that had higher EPS.
-  - With most stocks, a Low PE is regarded as a good thing, but not with Cyclicals. When Low, it’s usually a sign that they are at the end of a prosperous interlude.
+  - Stock Pattern: 1990 EPS = $6.5, Price Range = $23 - $36, PE Range = 3.6-5.5x. 1991 EPS = $3.9, Price drops to $26. PE = 6.7x, higher than the previous year's PE, which had higher EPS.
+  A Low PE is a good thing with most stocks but not with Cyclicals. When Low, it’s usually a sign that they are at the end of a prosperous interlude.
   - Unwary investors hold onto their shares since business is still good & the company continues to show higher earnings, but this will change soon. Smart investors sell their shares early to avoid the rush.
-  - When a large crowd begins to sell, the Price and PE drops, making a Cyclical more attractive to the uninitiated. This can be an expensive misconception. Soon, the economy will falter and earnings will decline at a  breathtaking speed. As more investors head for the exit, price will plummet. Buying Cyclicals after years of record earnings and when PE has hit a low point is a proven method to lose ~50% in a short time.
-  - Conversely, a High PE may be good news for a Cyclical. Often, it means that a company is passing through the worst of the doldrums and soon its business will improve, earnings will exceed expectations, and investors will start buying the stock.
+  - When a large crowd begins to sell, the Price and PE drop, making a Cyclical more attractive to the uninitiated. This can be an expensive misconception. Soon, the economy will falter, and earnings will decline at a  breathtaking speed. As more investors head for the exit, the price will plummet. Buying Cyclicals after years of record earnings and when PE has hit a low point is a proven method to lose ~50% in a short time.
+  - Conversely, a High PE may be good news for a Cyclical. Often, it means that a company is passing through the worst of the doldrums, and soon its business will improve, earnings will exceed expectations, and investors will start buying the stock.
 
 - ***2 Minute Drill***
   - Script revolves around business conditions, inventories and prices.
-  - There’s been a 3 year slump in autos but this year things have turned around. I know that because car sales are up across the board for the first time in recent memory. GM’s new models are selling well and in the last 18 months GM closed down 5 inefficient plants, cut 20% labour and earnings are about to turn higher.
+  - There’s been a 3-year slump in autos, but things have turned around this year. I know that because car sales are up for the first time in recent memory. GM’s new models are selling well, and in the last 18 months, GM closed down five inefficient plants, cut 20% of labour, and earnings are about to turn higher.
 
 - ***Checklist***
-  - Inventories: keep a close eye on inventory levels, changes, and, the supply & demand relationship.
-  - Competition: new entrants / added supply = dangerous development, because they may cut prices to capture market share.
-  - Know your Cyclical: if you do, then you have an advantage in figuring things out and timing the cycles.
-  - Balance Sheet: strong enough to survive the next downturn? Can it outlast competitors? Is capex on upgradation / expansion a cause for concern? How much of a drag is it on FCF? Is CF > Capex, even in bad years? Are plant & machinery in good shape?
+  - Inventories: keep a close eye on inventory levels, changes, and the supply & demand relationship.
+  - Competition: new entrants / added supply = dangerous development because they may cut prices to capture market share.
+  - Know your Cyclicals: if you do, you have an advantage in figuring things out and timing the cycles.
+  - Balance Sheet: strong enough to survive the next downturn? Can it outlast competitors? Is CAPEX on upgradation/expansion a cause for concern? How much of a drag is it on FCF? Is CF > Capex, even in bad years? Are plants & machinery in good shape?
   - anticipate a shrinking p/e multiple over time as business recovers and investors look ahead to the end of the cycle when peak earnings are achieved
 
 - ***Portfolio Allocation %***
@@ -731,12 +730,12 @@ and, vice versa.
   - Get out of situations where Price overtakes Fundamentals and rotate into Fundamentals > Price
 
 - ***Sell When***
-  - Understand strange rules to play game successfully, because Cyclicals are tricky. Sell towards the end of the cycle, but who knows when that is? Who even knows what cycles they’re talking about? Sometimes, the knowledgeable vanguard sells 1 year before any signs of decline, so price falls for no apparent reason.
-  - Whatever inspired you to buy after the last bust, will help clue you in that the latest boom is over. If you’d enough of an edge to buy in the first place, then you’ll notice changes in business and price.
-  - Company spends on new technological expansion, instead of cheaper expenditures on modernizing old plants. Sell when something has actually gone wrong. Rising costs, 100% utilization but spending on capacity expansion, labour asks for increased wages, which were cut in the previous bust etc.
-  - Final product demand slows down. Inventory builds up and the company can’t get rid of it. If storage is full of finished goods, you may already be late in selling.
-  - Falling commodity prices, Futures < Spot Price. Oil, steel prices turn lower much earlier than EPS impact.
-  - Strong competition for market share leads to price cuts. Company tries cost cuts but can’t compete against cheap imports.
+  - Understand strange rules to play the game successfully because Cyclicals are tricky. Sell towards the end of the cycle, but who knows when that is? Who even knows what cycles they’re talking about? Sometimes, the knowledgeable vanguard sells one year before any signs of decline, so the price falls for no apparent reason.
+  - Whatever inspired you to buy after the last bust will help convince you that the latest boom is over. If you have enough of an edge to buy in the first place, you’ll notice changes in business and price.
+  - The company spends on new technological expansion instead of cheaper expenditures on modernizing old plants. Sell when something has gone wrong. Rising costs, 100% utilization but spending on capacity expansion, labour asks for increased wages, which were cut in the previous bust etc.
+  - Final product demand slows down. Inventory builds up, and the company can’t get rid of it. If storage is full of finished goods, you may already be late in selling.
+  - Falling commodity prices, Futures < Spot Price. Oil and steel prices turn lower much earlier than the EPS impact.
+  - Strong competition for market share leads to price cuts. The company tries cost cuts but can’t compete against cheap imports.
 
 ## 6) FAST GROWERS
 
