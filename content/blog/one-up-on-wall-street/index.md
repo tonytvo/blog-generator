@@ -1175,7 +1175,7 @@ The market ought to be irrelevant. If I could convince you of this one thing, I'
 
 “In the multibillion-dollar futures and options market, not a bit of money is put into constructive use. It doesn't finance anything, except the cars, planes and houses purchased by the brokers and the handful of winners. What we are witnessing here is a giant transfer payment from the unwary to the wary.”
 
-“The market, like individual stocks, can move in the opposite direction of the fundamentals over the short term.”
+The market, like individual stocks, can move in the opposite direction of the fundamentals over the short term.
 
 The stock market is the one place where the high achiever is routinely show up. It’s easy to get an F here. If you buy futures and options and attempt to time the market, it’s easy to get all F’s…
 
