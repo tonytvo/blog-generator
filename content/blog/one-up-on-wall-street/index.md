@@ -880,50 +880,50 @@ surprise. The story may start at a certain point with specific expectations and 
 
 # RISK MANAGEMENT
 
-- Frankly, there’s no way to separate investing from gambling. Historically, stocks are regarded as investments or dismissed as gambling in routine and circular fashion, and, usually at the wrong time.
+- Frankly, there’s no way to separate investing from gambling. Historically, stocks are regarded as investments or dismissed as gambling in a routine and circular fashion, usually at the wrong time.
 - As long as people are willing to pay foolish prices for things, no plan is foolproof.
-- Once the unsettling fact of risk is accepted, we can separate gambling from investing not by the type of the activity but by the skill, dedication, and enterprise of the participant. 
-- To a veteran handicapper with the skill to stick to a system, betting on horses offers a relatively secure long term return. Meanwhile, to the rash and impetuous stock picker, an ‘investment” in stocks is no more reliable than throwing darts. 
-- An investment is simply a gamble in which you’ve managed to tilt the odds in your favour. The stock market = a 7 card stud poker game. 
-- You can never be certain what will happen, but each new corporate event is like turning up another card. As long as the cards suggest favourable odds of success, you stay in the game. Some “lucky stiffs” come out ahead regularly. They undertake to maximize their ROI by carefully calculating, and recalculating their chances as the hand unfolds. Consistent winners raise their bets as their position strengthens, and they exit the game when the odds are against them.
-- Meanwhile, consistent losers hang onto the bitter end of every pot, hoping for miracles and enjoying the thrill of defeat. In stud poker, as on Wall Street, miracles happen just often enough to keep the losers losing. 
-- Consistent winners also resign themselves to the fact that they’ll occasionally lose to miracles, even when they’ve a very strong hand. They accept their fate and go onto the next hand, confident that their basic method will reward them over time. 
-- Successful investors also accept periodic losses, setbacks & unexpected occurrences. Calamitous drops don’t scare them out of the game. They realize the stock market isn’t like chess, where the better position always wins. You’re never going to be right 9/10. This isn’t like pure science where you go
+- Once the unsettling fact of risk is accepted, we can separate gambling from investing not by the type of activity but by the participant's skill, dedication, and enterprise. 
+- To a veteran handicapper with the skill to stick to a system, betting on horses offers a relatively secure long-term return. Meanwhile, to the rash and impetuous stock picker, an ‘investment” in stocks is no more reliable than throwing darts. 
+- An investment is simply a gamble in which you’ve managed to tilt the odds in your favour. The stock market = is a 7-card stud poker game. 
+- You can never be certain what will happen, but each new corporate event is like turning up another card. You stay in the game if the cards suggest favourable odds of success. Some “lucky stiffs” come out ahead regularly. They undertake to maximize their ROI by carefully calculating and recalculating their chances as the hand unfolds. Consistent winners raise their bets as their position strengthens, and they exit the game when the odds are against them.
+- Meanwhile, consistent losers hang onto the bitter end of every pot, hoping for miracles and enjoying the thrill of defeat. In stud poker, as on Wall Street, miracles happen often enough to keep the losers losing. 
+- Consistent winners also resign themselves to the fact that they’ll occasionally lose to miracles, even when they have a very strong hand. They accept their fate and go on the next hand, confident that their basic method will reward them over time. 
+- Successful investors also accept periodic losses, setbacks & unexpected occurrences. Calamitous drops don’t scare them out of the game. They realize the stock market isn’t like chess, where the better position always wins. You’re never going to be right 9/10. This isn’t like pure science, where you go
 “Aha” and you’ve got the answer. By the time you’ve got “Aha,” the stock quadruples. You’ve to take a little bit of risk.
-- You don’t need to make money on every stock pick. A 60% win rate can produce an enviable record. All you need for a lifetime of successful investing is a few big winners. The pluses from them will overwhelm minuses from stocks that don’t work out. If 7/10 stocks perform as expected be delighted. 6/10 = Be Thankful. 
+- You don’t need to make money on every stock pick. A 60% win rate can produce an enviable record. You only need a few big winners for a lifetime of successful investing. Their pluses will overwhelm minuses from stocks that don’t work out. If 7/10 stocks perform as expected, be delighted. 6/10 = Be Thankful. 
 - Management ability might be important, but it’s quite difficult to assess. Instead, buy on a company’s prospects.
 
 - **Two Minute Drill**
-  - After company classification and figuring out whether the PE is high / low vs immediate prospects, figure out the company’s “story”. 
-  - Except possibly Asset Plays, something dynamic has to happen to keep earnings moving along. The more certain you are about what that something is, the easier it gets to follow the script. 
-- Be able to give a 2 minute monologue that covers the:
+  - After company classification and determining whether the PE is high/low vs immediate prospects, figure out the company’s “story.” 
+  - Except for possibly Asset Plays, something dynamic has to happen to keep earnings moving. The more certain you are about what that something is, the easier it gets to follow the script. 
+- Be able to give a 2-minute monologue that covers the following:
   - Reasons you’re interested in it
-  - - What has to happen for the company to succeed?
+  - What has to happen for the company to succeed?
   - The pitfalls that stand in its path
-- Once you’re able to tell the story such that even a child can understand it, then you have a proper grasp of the situation.
+- Once you can tell the story so that even a child can understand it, you have a proper grasp of the situation.
 
-- ***The 6 Month Checkup***
-  - A healthy portfolio requires a regular checkup – every 6 months.
+- ***The 6-Month Checkup***
+  - A healthy portfolio requires a regular checkup – every six months.
   - Merchandise is still attractive (it may involve checking the stores)
-  - With fast grower, ask yourself what will keep them growing, 
-  - What phase of growth the company is in: Start-up, expansion, maturity
+  - With fast growers, ask yourself what will keep them growing, 
+  - What phase of growth is the company in Start-up, expansion, maturity
   - Even with blue chips, buy and forget can result in wasted opportunities and huge losses. It happens to people who imagine that betting with blue chips relieves them of the need to pay attention. 
   - It’s not simply a matter of checking prices – you can’t assume anything. 
   - You’ve got to follow the stories and get the answer to 2 basic questions:
-    - i) Is the stock still attractively Priced,vs Earnings?
-    - ii) What’s happening to the company to make the Earnings go up?
+    - i) Is the stock still attractively Priced vs Earnings?
+    - ii) What’s happening to the company to increase earnings?
   - Answer – 3 possible conclusions:
-    - i) Story has gotten better = you might want to increase your investment.
+    - i) Story has improved = you might want to increase your investment.
     - ii) Story has gotten worse = you can decrease your investment.
     - iii) Story unchanged = you can either stick with your investment or put the money into another company with more exciting prospects.
 
 ![price earning comparison](./price-earning-comparison.png)
 
-- Silly to get bogged down in PE’s, but you don’t want to ignore them. Are PE’s of your stocks High/Low/ Fair, vs, industry norms? Is company selling at a premium or discount, vs peers? Track a company’s historical PE track record through several years to get a sense of its normal levels.
-- Quick way to tell if a stock is overpriced is to compare Price line vs Earnings line. Buy, when Price < Earnings. Sell, when Price >>> Earnings (dramatically higher).
-- Liquidity: avoiding wonderful small companies, because the stocks are thinly traded. In stocks, as in romance, ease of divorce isn’t a sound basis for commitment. If you’ve chosen wisely to begin with, you won’t want a divorce. And if you haven’t, you’re in a mess no matter what. If a company is a loser, you’ll lose money no matter how many shares it trades, and if it’s a winner, you can unwind profits leisurely. 
+- it's silly to get bogged down in PEs, but you don’t want to ignore them. Are PEs of your stocks High/Low/ Fair, vs, industry norms? Is the company selling at a premium or discount vs peers? Track a company’s historical PE track record through several years to get a sense of its normal levels.
+- Quick way to tell if a stock is overpriced is to compare the Price line vs the Earnings line. Buy when Price < Earnings. Sell when Price >>> Earnings (dramatically higher).
+- Liquidity: Avoid wonderful small companies because the stocks are thinly traded. In stocks, as in romance, ease of divorce isn’t a sound basis for commitment. If you’ve chosen wisely, you won’t want a divorce. And if you haven’t, you’re in a mess. If a company is a loser, you’ll lose money no matter how many shares it trades, and if it’s a winner, you can unwind profits leisurely. 
 - People who want to know how stocks fared ask - where did the Dow close? Lynch was interested in the Advance/Decline ratio. 
-- If the stock’s current price is < IPO price, the stock ‘maybe’ undervalued
+- If the stock’s current price is < IPO price, the stock ‘may be undervalued
 
 
 # PETER’S PRINCIPLES; and 25 GOLDEN RULES
