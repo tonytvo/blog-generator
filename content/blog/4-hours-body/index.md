@@ -108,13 +108,6 @@ Kimchi, Japanese natto, sauerkraut, mature fish, garlic, leeks, and chicory are 
   - Garlic extracts
 - intake these compounds daily before meals and bed.
 
-sperm, sex and orgasms
-<more content here>
-sex drive and testosterone
-<more content here>
-the 15-minute orgasm
-<more content here>
-
 # Sleep can be improved from multiple points of view
 - If it takes a long time to fall asleep, this is considered early insomnia. If you wake up several times during the night, intermediate insomnia.
 - Try not to drink liquor sooner than four hours before bed. A couple of glasses may help you nod off quicker.
