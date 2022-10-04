@@ -23,6 +23,7 @@ tags: ["investing", "dividendinvesting"]
 # References
 - [Shareholder Yield](./Shareholder-Yield.pdf)
 - [Dividend Growth Machine](./Dividend-Growth-Machine.pdf)
+- https://jsilva.blog/2020/07/20/get-rich-with-dividends-summary/
 - https://www.reading.guru/the-single-best-investment-by-lowell-miller/
 - https://www.reading.guru/dividend-growth-machine-by-nathan-winklepleck/
 - https://www.dividendgrowthinvestor.com/2014/03/how-to-be-successful-dividend-investor.html
