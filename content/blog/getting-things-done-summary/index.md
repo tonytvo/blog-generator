@@ -13,6 +13,7 @@ tags: ["productivity"]
 - avoid open loops and cognitive loads in mind to remember the open loops
 - reference system to retrieve information within 30 seconds or less
 - easy to access the visualization of the tasks in the inbox/today/next action lists, so it’s easier for you to take action
+- Pair this with [Tiago Forte's PARA system](https://fortelabs.co/blog/para/), start using [progressive summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
 
 # Getting Started
 
