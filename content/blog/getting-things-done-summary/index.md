@@ -126,6 +126,7 @@ tags: ["productivity"]
 
 # Quotes
 
+If it's on your mind, your mind isn't clear. Anything unfinished must be captured in a trusted system outside your mind.
 
 # Reference
 - https://www.grahammann.net/book-notes/getting-things-done-david-allen
