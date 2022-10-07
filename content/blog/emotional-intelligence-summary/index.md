@@ -410,7 +410,7 @@ replace "why is this happening to me" with "what is this trying to teach me?", e
 
 "Our own minds is what created fear and our own mind is the only thing that can smash through it"
 
-"Begin by asking yourself, "What emotion to I want to trigger in this situation?"
+Begin by asking yourself, "What emotion to I want to trigger in this situation?
 
 Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
 
