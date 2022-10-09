@@ -1,5 +1,5 @@
 ---
-title: refactoring effectively legacy code to patterns
+title: refactoring effectively legacy code to patterns - wip
 date: "2022-07-19T22:12:03.284Z"
 description: "refactoring effectively legacy code to patterns"
 tags: ["refactoring", "evolutionarydesign"]
