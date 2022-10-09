@@ -930,11 +930,11 @@ surprise. The story may start at a certain point with specific expectations and 
 
 - ***WHAT ADVICE WOULD I GIVE TO SOMEONE WITH $1MM TO INVEST? THE SAME I’D GIVE TO ANY INVESTOR: FIND YOUR EDGE AND PUT IT TO WORK BY ADHERING TO THE FOLLOWING RULES:***
 
-- **When Operas : Football Games :: 3:1, There’s Something Wrong With Your Life**
-  - Nobody at his deathbed said I wish I’d spent more time at the office.
-  - Lynch left home at 6 am, reaching office at 6:45. Working hours were 0930-2130. Work days were 16 hours long. Secret to success = visiting 400+ companies and reading 700+ annual reports, per year.
-  - Fidelity made all managers responsible for their own research. They couldn’t blame analysts anymore. Analysts, doing parallel independent research, couldn’t protect themselves by simply touting acceptable, worn out companies, for which they couldn’t get criticized. Thus, there was 2x investigation, vs a customary division of labour. 
-  - Formalized information swap sessions, where everyone presented their picks of the week in 1.5-3 minutes. 90 seconds is enough to tell a stock’s story. If you’ve to invest in a company, then you ought to be able to explain why, in language that a 5th grader could understand, & quickly enough so the 5th grader won’t get bored. To avoid undermining one another’s confidence, no feedback was allowed.
+- **When Operas: Football Games: 3:1, There’s Something Wrong With Your Life**
+  - Nobody on his deathbed said I wish I’d spent more time at the office.
+  - Lynch left home at 6 am, reaching the office at 6:45. Working hours were 0930-2130. Work days were 16 hours long. The secret to success = visiting 400+ companies and reading 700+ annual reports per year.
+  - Fidelity made all managers responsible for their research. They couldn’t blame analysts anymore. Analysts, doing parallel independent research, couldn’t protect themselves by simply touting acceptable, worn-out companies for which they couldn’t get criticized. Thus, there was 2x investigation vs a customary division of labour. 
+  - Formalized information swap sessions, where everyone presented their week's picks in 1.5-3 minutes. Ninety seconds is enough to tell a stock’s story. If you’ve to invest in a company, then you ought to be able to explain why, in language that a 5th grader could understand, & quickly enough so the 5th grader won’t get bored. To avoid undermining one another’s confidence, no feedback was allowed.
 
 - **Gentlemen Who Prefer Bonds, Don’t Know What They’re Missing**
   - Interest income may or may not beat inflation, but stocks will provide 5-6% real return. In the long run, a portfolio of well-chosen stocks/mutual funds will always outperform a bond portfolio or a money-market account. 
@@ -942,32 +942,32 @@ surprise. The story may start at a certain point with specific expectations and 
 
 - **Never Invest In Any Idea That You Can’t Illustrate With A Crayon**
   - St. Agnes Portfolio (class 7 students) 
-    - Simple stock picking methods are more rewarding than boutique techniques. 
+    - Simple stock-picking methods are more rewarding than boutique techniques. 
     - Teacher asks students to put >10 stocks in the portfolio. Kids aren’t allowed to buy any company unless they can explain what it does. 
     - 50% of stocks must provide a fairly good dividend. Good companies usually increase dividends each year.
     - It takes a long time to make money, but you can lose it in a short time. 
-    - Don’t buy a stock because it’s cheap, but because you know a lot about it. A cheap stock can always get cheaper. Someday it may rise again, but assuming that will happen = wishing ≠ investing.
+    - Don’t buy a stock because it’s cheap but because you know a lot about it. A cheap stock can always get cheaper. Someday it may rise again, but assuming that will happen = wishing ≠ investing.
     - Never fall in love with a stock; always have an open mind. Rule of 5 stocks, 1 = Great, 3 = OK, 1 = Really Bad. 
   - Better Investing (NAIC – National Association of Investors Corporation)
-    - Represents >10,000 stock picking clubs that invest on a regular timetable. This takes the guesswork out of where the market is headed, and doesn’t allow for the impulse decisions that spoil many nest eggs.
+    - Represents >10,000 stock-picking clubs that invest on a regular timetable. This takes the guesswork out of where the market is headed, and doesn’t allow for the impulse decisions that spoil many nest eggs.
     - An individual might be scared out of stocks and later regret it, but in the clubs, nothing can happen without a majority vote. Rule by committee isn’t a good thing, but in this case, it helps ensure that no foolish proposal to sell everything will be carried out.
     - Maxims, per NAIC Manual: 
       - Invest regularly.
       - Hold no more stocks than you can remain informed on.
-      - You want to see, a) Sales & EPS growing at an acceptable rate, and, b) stock price is reasonable.
-      - Understand the reasons for past sales growth to form a good judgment as to the likelihood of past growth rates continuing.
-      - Consider financial strength & debt structure to see if a few bad years can hinder the long term progress. Clubs meet once a month to discuss ideas and decide what to buy next. Each person is responsible for researching 1-2 companies and keeping tabs on latest developments.
-    - Mostly buy stocks in well managed growth companies with a history of prosperity and rising earnings.
-    - Rule of Five: NAIC advises portfolio with >5 stocks. 1 = will do better than you could’ve possibly imagined, and will surprise you with phenomenal
-return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and disappoint.
+      - You want to see a) Sales & EPS growing at an acceptable rate and b) a reasonable stock price.
+      - Understand the reasons for past sales growth to form a good judgment on the likelihood of past growth rates continuing.
+      - Consider financial strength & debt structure to see if a few bad years can hinder the long-term progress. Clubs meet monthly to discuss ideas and decide what to buy next. Each person is responsible for researching 1-2 companies and keeping tabs on the latest developments.
+    - Mostly buy stocks in well-managed growth companies with a history of prosperity and rising earnings.
+    - Rule of Five: NAIC advises a portfolio with >5 stocks. 1 = will do better than you could’ve possibly imagined and will surprise you with phenomenal
+return, 3 = will perform as expected, 1 = will run into unforeseen trouble and disappoint.
     - $1,000 invested each year on Jan 31, 1940, grew 334x over 52 years. 
     - Adding $1,00 annually on Jan 31, improved corpus to 3,554x, from a further $52,000 investments.
     - Adding another $1,000 every time market fell 10% (31 times), improved corpus further to 6,295x ($83,000).
 
 - **You Can’t See The Future Through A Rear View Mirror**
-  - Pessimism in 1990 reached a peak during the Iraq War. 1991 was the best year in 2 decades with S&P up 30%, Dow up 25%, small stocks up 60%. 
-  - Successful investors develop a disciplined approach that enables them to block out their own distress signals.
-  - Avoid weekend worrying & ignore the latest dire predictions because nobody can predict interest rates, the direction of the economy/market. Dismiss all such forecasts and concentrate on what's actually happening to the company. Sell a stock if fundamentals deteriorate, not because the sky is falling.
+  - Pessimism in 1990 reached a peak during the Iraq War. 1991 was the best year in 2 decades, with S&P up 30%, Dow up 25%, and small stocks up 60%. 
+  - Successful investors develop a disciplined approach that enables them to block out their distress signals.
+  - Avoid weekend worrying & ignore the latest dire predictions because nobody can predict interest rates and the direction of the economy/market. Dismiss all such forecasts and concentrate on what's happening to the company. Sell a stock if fundamentals deteriorate, not because the sky is falling.
 
 - **There’s No Point Yo-Yo Ma To Play The Radio**
   - Don’t invest in treasuries via bond funds and pay extra fees & expenses.
@@ -976,8 +976,8 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 - **As Long As You’re Picking A Fund, You Might As Well Pick A Good One**
   - easier said than done. 75% of funds perform < market average. If a fund equals market returns, it’s in the top 25% of all funds. Why?
   - Lousy stock pickers – throw darts instead
-  - Herd instinct produces camp followers. They pretend to pursue excellence, when actually, they’re closet indexers.
-  - Indexing popularity has created a selffulfilling prophecy. S&P stocks tend to represent large companies that did well recently, enjoying undue momentum.
+  - Herd instinct produces camp followers. They pretend to pursue excellence when actually, they’re closet indexers.
+  - Indexing popularity has created a self-fulfilling prophecy. S&P stocks tend to represent large companies that did well recently, enjoying undue momentum.
 
 - **The Extravagance Of Any Corporate Office Is Directly Proportional To Management’s Reluctance To Reward The Shareholders**
   - Great companies are thrifty, & maximize returns by running efficient operations.
@@ -995,53 +995,53 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
   - The number of really brilliant companies is finite, so when you do have one it’s better to buy more of it, than to go out to find something else.
 
 - **A Sure Cure For Taking A Stock For Granted, Is A Big Drop In Price**
-  - Sometimes good luck can mask bad skill. Like many people who invest with great initial success, Lynch had attained something of a God complex, thinking he was immune to the lumps and bumps of the market. The shocks of 1978 & 1987 provided the necessary kick in the pants to remind him of who the real boss is.
+  - Sometimes good luck can mask bad skills. Like many people who invest with great initial success, Lynch had attained something of a God complex, thinking he was immune to the lumps and bumps of the market. The shocks of 1978 & 1987 provided the necessary kick in the pants to remind him of who the real boss is.
 
 - **Never Bet On A Comeback When They’re Playing “Taps”**
-  - Taps is the name of a bugle tune played at military funerals. Don’t buy just because price has fallen. There’s no shame in losing money on a stock. Everybody does it. What is shameful is to hold onto a stock, or worse, to buy more, when the fundamentals are deteriorating.
+  - Taps is the name of a bugle tune played at military funerals. Don’t buy just because the price has fallen. There’s no shame in losing money on a stock. Everybody does it. What is shameful is to hold onto a stock, or worse, to buy more when the fundamentals are deteriorating.
 
 - **If You Like the Store, Chances Are You’ll Like the Stock**
 
-  - The very homogeneity of taste in food and fashion that makes for a dull culture, also makes fortunes for owners of retail and restaurant companies.
+  - The homogeneity of taste in food and fashion that makes for a dull culture also makes fortunes for owners of retail and restaurant companies.
   - Your edge is not something you get from Wall Street experts. It's what you already have. You can outperform experts if you use your edge by investing in companies or industries you already understand. 
   - In every industry and every region of the country, the observant amateur can find great growth companies long before the professionals have discovered them.
 
 - **When Insiders Are Buying, It’s A Good Sign**
-  - When several insiders are buying the stock at the same time, it's a positive.
+  - When several insiders buy the stock simultaneously, it's a positive.
   
 - **In Business, Competition Is Never As Healthy As Total Domination**
-  - As a place to invest, lousy industries are better than great industries anytime. In a lousy industry, one that’s growing slowly, if at all, the weak drop out and the survivors get a bigger market share. A company that can capture an ever increasing share of a stagnant market is better than one that has to protect a dwindling share of an exciting market.
-  - Avoid hot stocks in hot industries. Great companies in cold, no growth industries are consistent big winners.
+  - As a place to invest, lousy industries are better than great industries anytime. In a lousy industry that’s growing slowly, if at all, the weak drop out, and the survivors get a bigger market share. A company that can capture an ever-increasing share of a stagnant market is better than one that has to protect a dwindling share of an exciting market.
+  - Avoid hot stocks in hot industries. Great companies in the cold, no-growth industries are consistently big winners.
 
 - **All Else Being Equal, Invest In The Company With The Fewest Colour Photos In The Annual Report**
-  - a thrifty company strives for efficiency in all areas.
-  - What you want to see on the balance sheet is at least twice as much equity as debt, and the more equity and the less debt the better.
+  - a thrifty company that strives for efficiency in all areas.
+  - What you want to see on the balance sheet is at least twice as much equity as debt, and the more equity and the less debt, the better.
 
 - **When Even The Analysts Are Bored, It’s Time To Start Buying**
-  - The real bargains are in industries Wall Street ignores. Giant conglomerates have 50 analysts watching their every move. Being popular, they’re often bought up to silly PE’s. It is the whole phenomenon of the market buying what they are familiar with, rather than what is good.
+  - The real bargains are in industries Wall Street ignores. Giant conglomerates have 50 analysts watching their every move. Being popular, they’re often bought up to silly PEs. It is the whole phenomenon of the market buying what they are familiar with rather than what is good.
   - When investing in a troubled industry, buy companies with staying power. Also, wait to see signs of revival. Buggy whips & radio tubes were troubled industries that never came back.
   - Pay attention to facts, not forecasts. Ask yourself: What do I make if I'm right, and what could I lose if I'm wrong? Look for a risk-reward ratio of 3:1 or better.
-  - A stock-market decline is as routine as a winter Colorado blizzard. If prepared, it can't hurt you. A decline is a great chance to pick up bargains left behind by those who’re fleeing the storm in panic.
+  - A stock-market decline is as routine as a winter Colorado blizzard. If prepared, it can't hurt you. A decline is a great chance to pick up bargains left behind by those fleeing the storm in panic.
   - Long shots usually backfire or become "no shots." Don't buy "cheap" stocks just because they're cheap. Buy them because the fundamentals are improving.
 
 - **Unless You’re A Short Seller Or A Poet Looking For A Wealthy Wife, It Never Pays To Be Pessimistic** 
-  - Since Lynch always thought positively, and assumed that the economy would improve, he was always willing to invest in Cyclicals at their nadir. Just when it seems things can’t get any worse with Cyclicals, things begin to get better.
-  - The most important question to ask about a cyclical is whether the company’s balance sheet is strong enough to survive the next downturn.
+  - Since Lynch always thought positively and assumed that the economy would improve, he was always willing to invest in Cyclicals at their nadir. Things begin to get better when things can’t get any worse with Cyclicals.
+  - The most important question about a cyclical is whether the company’s balance sheet is strong enough to survive the next downturn.
   - Before I invest in any S&L, I like to see that its equity assets ratio is at least 7.5
 
 - **Companies, Like People, Change Their Names Either Because They’ve Gotten Married, Or They’ve Been Involved In Some Fiasco That They Hope The Public Will Forget.**
 
 - **Whenever The Queen Is Selling, Buy It** 
-  - In a democracy, investors vote & governments don’t want disgruntled investors who’ve lost money. The British learnt this in 1983, after 2 privatizations came out overpriced & prices dropped. Since then, the British have structured deals such that investors don’t lose money, at least in the short term.
+  - In a democracy, investors vote & governments don’t want disgruntled investors who’ve lost money. The British learnt this in 1983 after two privatizations came out overpriced & prices dropped. Since then, the British have structured deals, so investors don’t lose money, at least in the short term.
 
-- **Investing is fun, exciting and dangerous, if you don’t do any work** 
-  - Keep track of every stock’s story in a logbook. Note any new events & pay close attention to earnings. Is it a growth, value or cyclical play?
+- **Investing is fun, exciting and dangerous if you don’t do any work** 
+  - Keep track of every stock’s story in a logbook. Note any new events & pay close attention to earnings. Is it growth, value or cyclical play?
 
-- **Behind every stock is a company, find out what it's doing**
-  - Stocks do well for a reason and do poorly for a reason. Make sure you know the reasons. You have to know what you own, and why you own it. "This baby is a cinch to go up!" doesn't count.
+- **Behind every stock is a company. Find out what it's doing**
+  - Stocks do well for a reason and do poorly for a reason. Make sure you know the reasons. You have to know what you own and why you own it. "This baby is a cinch to go up!" doesn't count.
 
 - **Often, there is no correlation between the success of a company's operations and the success of its stock over a few months or even a few years.**
-  - In the long term, there is a 100% correlation between the success of the company and its stock – This disparity is the key to making money; it pays to be patient, and to own successful companies. The stocks that rewarded Lynch the most made their greatest gains in the 3rd or 4th year of ownership. A few took 10 years.
+  - In the long term, there is a 100% correlation between the success of the company and its stock – This disparity is the key to making money; it pays to be patient and to own successful companies. The stocks that rewarded Lynch the most made their greatest gains in the 3rd or 4th year of ownership. A few took ten years.
 
 - **Owning stocks is like having children** 
   - don't get involved with more than you can handle 
@@ -1050,24 +1050,24 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
 - **The biggest losses come from companies with poor balance sheets** 
   - Before risking money, check the balance sheet to see if the company is financially sound.
 
-- **With small companies, you’re better off to wait until they turn a profit before investing**
-  - Enter early -- but not too early. Think of investing in growth companies in terms of baseball. Try to join the game in the 3rd inning, because a company has proved itself by then. If you buy before the line-up is announced, you're taking unnecessary risks. There's plenty of time (10-15 years, at times) between the 3rd and the 7th innings, which is where the 10-50 baggers are made. If you buy in the late innings, you may be too late.
+- **With small companies, you’re better off waiting until they turn a profit before investing**
+  - Enter early -- but not too early. Think of investing in growth companies in terms of baseball. Try to join the game in the 3rd inning because a company has proved itself by then. You're taking unnecessary risks if you buy before the line-up is announced. There's plenty of time (10-15 years, at times) between the 3rd and the 7th innings, which is where the 10-50 baggers are made. If you buy in the late innings, you may be too late.
 
-- **If you invest $1,000, all you can lose is $1,000, but you stand to gain $10,000 or even $50,000, if you're patient**
+- **If you invest $1,000, all you can lose is $1,000, but you stand to gain $10,000 or even $50,000 if you're patient**
   - The average person can concentrate on a few good companies, while the fund manager is forced to diversify. By owning too many stocks, you lose this advantage of concentration. It only takes a handful of big winners to make a lifetime of investing worthwhile.
 
 - **Everyone has the brainpower to make money in stocks. Not everyone has the stomach** 
-  - If you are susceptible to selling everything in a panic, you ought to avoid stocks and stock mutual funds altogether.
+  - If you are susceptible to selling everything in a panic, you should avoid stocks and stock mutual funds altogether.
 
 - **If you have the stomach for stocks, but neither the time nor the inclination to do the homework, invest in equity mutual funds**
- - Here, it's a good idea to diversify. You should own a few different kinds of funds, with managers who pursue different styles of investing: growth, value, small companies, large companies, etc. Investing in six of the same kind of fund is not diversification.
+ - Here, it's a good idea to diversify. You should own a few different kinds of funds, with managers pursuing different investing styles: growth, value, small companies, large companies, etc. Investing in six of the same kind of fund is not diversification.
 
 - **If you don't study companies, you'll have the same success buying stocks as you do in poker when betting without looking at cards.**
 
 - **If you study 10 companies, you'll find 1 with bright prospects that aren’t reflected in the price - pleasant surprises are always to be found in the market - companies whose achievements are overlooked on Wall Street.**
 
 - **Time is on your side when you own shares of superior companies** 
-  - You can afford to be patient, even if you missed Wal-Mart in the first 5 years, it was a great stock to own in the next 5 years. Time is against you when you own options. Don't invest on margin, because a market drop can wipe you out.
+  - You can afford to be patient, even if you missed Walmart in the first five years. It was a great stock to own in the next five years. Time is against you when you own options. Don't invest in the margin because a market drop can wipe you out.
   
 - **The capital gains tax penalizes investors who switch too much**
   - If you've invested in funds that have done well, don't abandon them capriciously. Stick with them.
@@ -1076,10 +1076,10 @@ return, 3 = will perform as expected, 1 = will run into unforeseen trouble, and 
   - You can take advantage of faster-growing economies by investing some assets in an overseas fund with a good record.
 
 - **what's the bottom line?**
-  - If you think a company’s product is going to grow significantly, then the question is: what percentage of revenue or net income that product accounts for? For companies like Procter and Gamble, Pampers may be a fast growing product but it's impact on the company’s bottom may be too small. 
+  - If you think a company’s product is going to grow significantly, then the question is: what percentage of revenue or net income does that product accounts for? For companies like Procter and Gamble, Pampers may be a fast-growing product, but its impact on the company’s bottom may be too small. 
 
 - **Big Companies, Small Moves**
-  - The bigger the company, the harder it is to keep the percentage of growth constant or increasing.
+  - The bigger the company, the harder it is to keep the growth percentage constant or increasing.
 
 # Quotes
 
