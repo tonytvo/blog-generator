@@ -143,13 +143,23 @@ tags: ["productivity"]
 
 ## Reflect: 
 
-- step back and review the whole picture of your work and life.
-  - You should review your projects, next actions, and inbox once every week.
-  - This is critical for success.
+- What Is the Weekly Review?
+  - Very simply, the Weekly Review is whatever you need to do to get your head empty again and get oriented for the next couple of weeks. It’s going through the steps of workflow management—capturing, clarifying, organizing, and reviewing all your outstanding commitments, intentions, and inclinations—until you can honestly say, "I absolutely know right now everything I’m not doing but could be doing if I decided to."
+  - From a practical standpoint, here is the three-part drill that can get you there: get clear, get current, and get creative.
+    - Getting clear will ensure that all your collected stuff is processed.
+    - Getting current will ensure that all your orienting “maps" or lists are reviewed and up-to-date.
+    - The creative part happens to some degree automatically, as you get clear and current—you will naturally be generating ideas and perspectives that will be adding value to your thinking about work and life.
+  - use project template GTD Weekly review from Todoist
+
+
+- The Right Time and Place for the Review
+  - I recommend that you block out two hours (too long, may be 30 minutes?) early in the afternoon of your last workday for the review.
+
+- The "Bigger Picture" Reviews
+  - Yes, at some point you must clarify the larger outcomes, the long-term goals, the visions and principles that ultimately drive, test, and prioritize your decisions.
+  - What are your key goals and objectives in your work? What should you have in place a year or three years from now? How is your career going? Is this the lifestyle that is most fulfilling to you? Are you doing what you really want or need to do, from a deeper and longer-term perspective?
 
 - **regularly review the professional and personal todo list**
-- use project template GTD Weekly review from Todoist
-- maybe take 30 minutes to review?
 - daily review
 - use embedded widgets from Todoist on phone/browser, so the tasks in inbox/next action/today can easily be viewed and acted on.
 - identify and address your limiting criteria
@@ -158,25 +168,85 @@ tags: ["productivity"]
 - tasks that are hard to classify
   - “I just want to remember to have the option to do this task, but I’m OK if it waits five years.” Put it in Someday/Maybe or create a new project for it.
   - “I just need to decide whether to do it or not.” Set a reminder for “Decide when to do X,” or just put the damn thing on your calendar.
-- maybe, just **delete it, and it will come back if it is significant enough**
-- resolve the possible guilt about it. Put it out of your mind. You can do it either by deciding “I’m going to do it on a Specific date” or “I’m going to just put it in the list and I’m happy if I do it next week, next month, next year, or next decade.”
+  - maybe, just **delete it, and it will come back if it is significant enough**
+  - resolve the possible guilt about it. Put it out of your mind. You can do it either by deciding “I’m going to do it on a Specific date” or “I’m going to just put it in the list and I’m happy if I do it next week, next month, next year, or next decade.”
 - when reviewing the inbox
   - use Projects aggressively
   - if there are no projects fit for an item, delete it forever.
 
-
 ## Engage: 
 
-- you need to make choices about what actions to pursue next.
 - One model is to choose based on: context, time available, energy available, and priority.
+- The Six-Level Model for Reviewing Your Own Work
+  - The six levels of work may be thought of in terms of altitude, as in the floors of a building:
+  - Horizon 5: Life
+  - Horizon 4: Long-term visions
+  - Horizon 3: One- to two-year goals
+  - Horizon 2: Areas of focus and accountability
+  - Horizon 1: Current projects
+  - Ground: Current actions
+- It's recommended that you start at the Ground, get your action lists complete, and then work your way up.
 
 
-# todo
-- review grahamman notes
+# Getting Projects Under Control
+
+- You need to set up systems and tricks that get you to think about your projects and situations more frequently, more easily, and more in depth.
+- There are two types of projects, however, that deserve at least some sort of planning activity: (1) those that still have your attention even after you’ve determined their next actions, and (2) those about which potentially useful ideas and supportive detail just show up ad hoc.
+  - The first type—the projects that you know have other things about them that must be decided on and organized—will need a more detailed approach than just identifying a next action. For these you’ll need a more specific application of one or more of the other four phases of the natural planning model: purpose and principles, vision/outcome, brainstorming, and/or organizing.
+  - The second type—the projects for which ideas just show up, ad hoc, when you’re on a beach or in a car or in a meeting—need to have an appropriate place into which these associated ideas can be captured. Then they can reside there for later use as needed.
+- Tools matter for supporting project thinking. Some tips:
+  - Make sure you always have a method of capturing ideas and information on hand.
+  - Keep good writing tools around all the time.
+  - Have whiteboards around where you can.
+
+
+# power of key principles
+
+- **The Power of the Capturing Habit**
+  - When people with whom you interact notice that without fail you receive, process, and organize in an airtight manner the exchanges and agreements they have with you, they begin to trust you in a unique way.
+  - More significantly, you incorporate a level of self-confidence in your engagement with your world that money cannot buy.
+  - It noticeably enhances your mental well-being and improves the quality of your communications and relationships, both personally and professionally.
+
+  - **How Much Capturing is Required?**
+    - When will you know how much you have left in your head to capture? Only when there’s nothing left.
+    - When the only thing on your mind is the only thing on your mind, you’ll be “present," in your “zone," with no distinction between work and play.
+    - This doesn’t mean that your mind will be empty. If you’re conscious, your mind will always be focusing on something. But if it’s focusing on only one thing at a time, without distraction, you’ll be in your “zone."
+    - I suggest that you use your mind to think about things, rather than think of them.
+
+- **When a culture adopts "What’s the next action?" as a standard operating query, there’s an automatic increase in energy, productivity, clarity, and focus.**
+
+# The Path of GTD Mastery
+
+- **The Three Tiers of Mastery**
+  - 1 | Employing the fundamentals of managing workflow;
+  - 2 | Implementing a more elevated and integrated total life management system; and
+  - 3 | Leveraging skills to create clear space and get things done for an ever-expansive expression and manifestation.
+
+- **Mastering the Basics**
+  - Other basic practices, which, even if implemented initially, easily regress into incomplete, out-of-date, and therefore dysfunctional usage, include:
+  - Avoiding next-action decision making on "stuff to do"
+  - Fully utilizing the "Waiting For" category, such that every expected deliverable from others is inventoried and reviewed for follow-up in adequate timing
+  - Using Agenda lists to capture and manage communications with others
+  - Keeping a simple, easily accessible filing and reference system
+  - Keeping the calendar as pure "hard landscape" without undermining its trustworthiness with extraneous inputs
+  - Doing Weekly Reviews to keep one’s system functional and current
+
+- **Graduate Level–Integrated Life Management**
+  - a complete, current, and clear inventory of projects;
+  - a working map of one’s roles, accountabilities, and interests—personally and professionally;
+  - an integrated total life management system, custom tailored to one’s current needs and direction and utilized to dynamically steer out beyond the day-to-day; and
+  - challenges and surprises trigger your utilization of this methodology instead of throwing you out of it.
+
 
 # Quotes
 
 If it's on your mind, your mind isn't clear. Anything unfinished must be captured in a trusted system outside your mind.
+
+"The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into small, manageable tasks, and then starting on the first one."—Mark Twain
+
+"There are only two problems in life:
+(1) you know what you want, and you don’t know how to get it; and/or
+(2) you don’t know what you want."
 
 # Reference
 - https://www.grahammann.net/book-notes/getting-things-done-david-allen
