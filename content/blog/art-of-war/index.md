@@ -7,23 +7,23 @@ tags: ["strategy"]
 
 # take-aways
 
-- There is legend that this little book was Napoleon's key to success and his secret weapon.
-- Always remember, since ancient times, it has been known that..."the true object of war is peace."
-- If there is an ideal to aim for, it should be that of the strategic warrior, the man or woman who manages difficult situations and people through deft and intelligent maneuver.
+- There is a legend that this little book was Napoleon's key to success and his secret weapon.
+- Always remember, since ancient times, it has been known that..." the true object of war is peace."
+- If there is an ideal to aim for, it should be that of the strategic warrior, the man or woman who manages difficult situations and people through deft and intelligent maneuvers.
 - Our successes and failures in life can be traced to how well or how badly we deal with the inevitable conflicts that confront us in society.
-- **Look at things as they are, not as your emotions color them.**
-- The only remedy is to be aware that the pull of emotion is inevitable, to notice it when it is happening, and to compensate for it. When you have success, be extra wary. When you are angry, take no action. When you are fearful, know you are going to exaggerate the dangers you face.
+- **Look at things as they are, not as your emotions colour them.**
+- The only remedy is to be aware that the pull of emotion is inevitable, to notice it when it is happening, and to compensate for it. When you have success, be extra wary. When you are angry, take no action. When you are fearful, know you will exaggerate the dangers you face.
 - **Judge people by their actions.**
-- **Depend on your own arms.**
-- But true strategy is psychological--a matter of intelligence, not material force. Everything in life can be taken away from you and generally will be at some point.
-- Having superior strategies at your fingertips will give your maneuvers irresistible force. As Sun-tzu says, “Being unconquerable lies with yourself”.
+- **Depend on your arms.**
+- But the true strategy is psychological--a matter of intelligence, not material force. Everything in life can be taken away from you and generally will be at some point.
+- Having superior strategies at your fingertips will give your maneuvers irresistible force. As Sun-Tzu says, “Being unconquerable lies with yourself.”
 - **Worship Athena, not Ares.**
-  - Ares was the god of war in its direct and brutal form. The Greeks despised Ares and worshipped Athena, who always fought with the utmost intelligence and subtlety. Your interest in war is not the violence, the brutality, the waste of lives and resources, but the rationality and pragmatism it forces on us and the ideal of winning without bloodshed.
-- In war, strategy is the art of commanding the entire military operation. Tactics, on the other hand, is the skill of forming up the army for battle itself and dealing with the immediate needs of the battlefield.
-- To have the power that only strategy can bring, you must be able to **elevate yourself above the battlefield**, to focus on your long-term objectives, to craft an entire campaign, to get out of the reactive mode that so many battles in life lock you into.
+  - Ares was the god of war in its direct and brutal form. The Greeks despised Ares and worshipped Athena, who always fought with the utmost intelligence and subtlety. Your interest in war is not the violence, the brutality, or the waste of lives and resources, but the rationality and pragmatism it forces on us and the ideal of winning without bloodshed.
+- In war, strategy is the art of commanding the entire military operation. Tactics, on the other hand, is the skill of forming the army for the battle itself and dealing with the immediate needs of the battlefield.
+- To have the power that only strategy can bring, you must be able to **elevate yourself above the battlefield**, focus on your long-term objectives, craft an entire campaign, to get out of the reactive mode that so many battles in life lock you into.
 - Keeping your overall goals in mind, it becomes much easier to decide when to fight and when to walk away.
 - **Spiritualize your warfare.**
-- Every day you face battles--that is the reality for all creatures in their struggle to survive. But the greatest battle of all is with yourself--your weaknesses, your emotions, your lack of resolution in seeing things through to the end. You must declare unceasing war on yourself. As a warrior in life, you welcome combat and conflict as ways to prove yourself, to better your skills, to gain courage, confidence, and experience.
+- Every day, you face battles--that is the reality for all creatures in their struggle to survive. But the greatest battle of all is with yourself--your weaknesses, emotions, and lack of resolution in seeing things through to the end. You must declare unceasing war on yourself. As a warrior in life, you welcome combat and conflict as ways to prove yourself, to better your skills, and to gain courage, confidence, and experience.
 
 
 # Laying Plans
