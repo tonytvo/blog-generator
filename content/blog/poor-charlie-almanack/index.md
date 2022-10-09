@@ -304,6 +304,9 @@ tags: ["valueinvesting", "investing"]
   - Apply elementary multidisciplinary wisdom, never relying entirely upon others
   - Watch for combinations of factors - the Lollapalooza Effect
 
+#  todo
+- review more summary notes
+
 # Quotes
 
 the man who is in need of a new thinking tool, but hasn't yet acquired it, is already paying for it.

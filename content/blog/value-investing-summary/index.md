@@ -271,6 +271,10 @@ key issues, collateral evidence, personal biases
 ## low correlation alternatives
 ## Volatility Index (Fear) against stock market crash
 ## options
+
+# todo
+
+- review topics, references
 # Quotes
 
 "People remember the recent past better than the distant past, and they informally generalize from a few cases that are memorable rather than incorporate the full body of data into their analysis."
