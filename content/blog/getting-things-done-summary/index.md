@@ -189,10 +189,10 @@ tags: ["productivity"]
 
 # Getting Projects Under Control
 
-- You need to set up systems and tricks that get you to think about your projects and situations more frequently, more easily, and more in depth.
-- There are two types of projects, however, that deserve at least some sort of planning activity: (1) those that still have your attention even after you’ve determined their next actions, and (2) those about which potentially useful ideas and supportive detail just show up ad hoc.
-  - The first type—the projects that you know have other things about them that must be decided on and organized—will need a more detailed approach than just identifying a next action. For these you’ll need a more specific application of one or more of the other four phases of the natural planning model: purpose and principles, vision/outcome, brainstorming, and/or organizing.
-  - The second type—the projects for which ideas just show up, ad hoc, when you’re on a beach or in a car or in a meeting—need to have an appropriate place into which these associated ideas can be captured. Then they can reside there for later use as needed.
+- You need to set up systems and tricks that get you to think about your projects and situations more frequently, easily, and in depth.
+- There are two types of projects, however, that deserve at least some sort of planning activity: (1) those that still have your attention even after you’ve determined their next actions and (2) those about which potentially useful ideas and supportive detail just show up ad hoc.
+  - The first type—the projects you know have other things that must be decided on and organized—will need a more detailed approach than just identifying the next action. For these, you’ll need a more specific application of one or more of the other four phases of the natural planning model: purpose and principles, vision/outcome, brainstorming, and/or organizing.
+  - The second type—the projects for which ideas just show up, ad hoc, when you’re on a beach or in a car or at a meeting—need to have an appropriate place to capture these associated ideas. Then they can reside there for later use as needed.
 - Tools matter for supporting project thinking. Some tips:
   - Make sure you always have a method of capturing ideas and information on hand.
   - Keep good writing tools around all the time.
@@ -202,15 +202,15 @@ tags: ["productivity"]
 # power of key principles
 
 - **The Power of the Capturing Habit**
-  - When people with whom you interact notice that without fail you receive, process, and organize in an airtight manner the exchanges and agreements they have with you, they begin to trust you in a unique way.
-  - More significantly, you incorporate a level of self-confidence in your engagement with your world that money cannot buy.
+  - When people with whom you interact notice that without fail, you receive, process, and organize in an airtight manner the exchanges and agreements they have with you, they begin to trust you uniquely.
+  - More significantly, you incorporate self-confidence in your engagement with your world that money cannot buy.
   - It noticeably enhances your mental well-being and improves the quality of your communications and relationships, both personally and professionally.
 
   - **How Much Capturing is Required?**
     - When will you know how much you have left in your head to capture? Only when there’s nothing left.
     - When the only thing on your mind is the only thing on your mind, you’ll be “present," in your “zone," with no distinction between work and play.
     - This doesn’t mean that your mind will be empty. If you’re conscious, your mind will always be focusing on something. But if it’s focusing on only one thing at a time, without distraction, you’ll be in your “zone."
-    - I suggest that you use your mind to think about things, rather than think of them.
+    - I suggest you use your mind to think about things rather than think of them.
 
 - **When a culture adopts "What’s the next action?" as a standard operating query, there’s an automatic increase in energy, productivity, clarity, and focus.**
 
@@ -223,11 +223,11 @@ tags: ["productivity"]
 
 - **Mastering the Basics**
   - Other basic practices, which, even if implemented initially, easily regress into incomplete, out-of-date, and therefore dysfunctional usage, include:
-  - Avoiding next-action decision making on "stuff to do"
+  - Avoiding next-action decision-making on "stuff to do."
   - Fully utilizing the "Waiting For" category, such that every expected deliverable from others is inventoried and reviewed for follow-up in adequate timing
   - Using Agenda lists to capture and manage communications with others
   - Keeping a simple, easily accessible filing and reference system
-  - Keeping the calendar as pure "hard landscape" without undermining its trustworthiness with extraneous inputs
+  - Keeping the calendar a pure "hard landscape" without undermining its trustworthiness with extraneous inputs
   - Doing Weekly Reviews to keep one’s system functional and current
 
 - **Graduate Level–Integrated Life Management**
