@@ -1,5 +1,5 @@
 ---
-title: study group patterns summary
+title: study group patterns summary - wip
 date: "2021-12-27T22:12:03.284Z"
 description: "study group patterns summary"
 tags: ["productivity", "learning"]

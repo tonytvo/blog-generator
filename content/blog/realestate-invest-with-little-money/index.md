@@ -1,5 +1,5 @@
 ---
-title: real estate invest with zero or little money down
+title: real estate invest with zero or little money down - wip
 date: "2022-08-03T22:12:03.284Z"
 description: "real estate invest with zero or little money down"
 tags: ["realestateinvesting", "financialindependence"]
