@@ -1,5 +1,5 @@
 ---
-title: value investing summary
+title: value investing summary - wip
 date: "2022-08-09T22:12:03.284Z"
 description: "value investing summary"
 tags: ["investing", "valueinvesting"]
