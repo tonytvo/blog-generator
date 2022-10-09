@@ -218,7 +218,7 @@ tags: ["productivity"]
 
 - **The Three Tiers of Mastery**
   - 1 | Employing the fundamentals of managing workflow;
-  - 2 | Implementing a more elevated and integrated total life management system; and
+  - 2 | Implementing a more elevated and integrated total life management system
   - 3 | Leveraging skills to create clear space and get things done for an ever-expansive expression and manifestation.
 
 - **Mastering the Basics**
@@ -233,7 +233,7 @@ tags: ["productivity"]
 - **Graduate Level–Integrated Life Management**
   - a complete, current, and clear inventory of projects;
   - a working map of one’s roles, accountabilities, and interests—personally and professionally;
-  - an integrated total life management system, custom tailored to one’s current needs and direction and utilized to dynamically steer out beyond the day-to-day; and
+  - an integrated total life management system, custom tailored to one’s current needs and direction and utilized to dynamically steer out beyond the day-to-day
   - challenges and surprises trigger your utilization of this methodology instead of throwing you out of it.
 
 
