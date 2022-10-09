@@ -72,7 +72,7 @@ tags: ["productivity"]
 
 ## Clarify: 
 
-- be clear about what is required, and how it's going to get done.
+- be clear about what is required and how it will get done.
   - Is it actionable?
   - What's the next action?
   - Do it, delegate it, or defer it.
@@ -85,11 +85,11 @@ tags: ["productivity"]
 
 - make sure things are where you expect them to be.
 - For non-action items: trash, incubation, reference.
-  - For action items: add to project, a calendar, a list of reminders.
+  - For action items, add a calendar and a list of reminders to the project.
 
 - 7 primary types of things to keep track of
   - A Projects list
-    - **Projects: any desired result that can be accomplished within a year, that requires more than one action step.**
+    - **Projects: any desired result that can be accomplished within a year that requires more than one action step.**
     - You should have an index of projects where you capture relevant information and tasks.
     - For actions: they should go on a Next Actions list (not your calendar!).
     - **Keep a Single list of all current projects**
@@ -98,11 +98,10 @@ tags: ["productivity"]
   - Project support material
   
   - **Calendar actions and information**
-    - to keep calendar as the most trusted part of the todo system, use it to record the following kinds of information
+    - to keep the calendar as the most trusted part of the todo system, use it to record the following kinds of information
       - time-specific actions: i.e. appointments, reserved time for a certain activity
       - day-specific actions: i.e. a shipment must be sent today
-      - day-specific information: i.e. daughter’s birthday, office moves, etc…
-
+      - day-specific information: i.e. daughter’s birthday, office moves, etc.
   - **Next Actions lists**
     - apply the Todoist label next action on the task
     - **make sure each project has at least one task with a next-action label**
@@ -126,10 +125,10 @@ tags: ["productivity"]
 
 
 - **Get in-tray(s) (paper or digital) to empty every day or so**
-  - ![getting things done summary](./getting-things-done-summary.png)
+  - ![getting things done summary](https://tonytvo.github.io/static/717039c76fc5d69d83b689844cb5c678/0012b/getting-things-done-summary.png)
 
 - **Eisenhower-matrix**
-  - ![eisenhower-matrix](./eisen-hower-matrix.jpeg)
+  - ![eisenhower-matrix](https://tonytvo.github.io/static/4f27c81c484fa1cff0c631f0480998a0/efabe/eisen-hower-matrix.jpg)
 
 - The most common categories of action reminders:
   - Calls
@@ -144,20 +143,20 @@ tags: ["productivity"]
 ## Reflect: 
 
 - What Is the Weekly Review?
-  - Very simply, the Weekly Review is whatever you need to do to get your head empty again and get oriented for the next couple of weeks. It’s going through the steps of workflow management—capturing, clarifying, organizing, and reviewing all your outstanding commitments, intentions, and inclinations—until you can honestly say, "I absolutely know right now everything I’m not doing but could be doing if I decided to."
+  - Very simply, the Weekly Review is whatever you need to do to get your head empty again and get oriented for the next couple of weeks. It’s going through the steps of workflow management—capturing, clarifying, organizing, and reviewing all your outstanding commitments, intentions, and inclinations—until you can honestly say, "I know right now everything I’m not doing but could be doing if I decided to."
   - From a practical standpoint, here is the three-part drill that can get you there: get clear, get current, and get creative.
     - Getting clear will ensure that all your collected stuff is processed.
     - Getting current will ensure that all your orienting “maps" or lists are reviewed and up-to-date.
-    - The creative part happens to some degree automatically, as you get clear and current—you will naturally be generating ideas and perspectives that will be adding value to your thinking about work and life.
+    - The creative part happens to some degree automatically. As you get clear and current—you will naturally generate ideas and perspectives that add value to your thinking about work and life.
   - use project template GTD Weekly review from Todoist
 
 
 - The Right Time and Place for the Review
-  - I recommend that you block out two hours (too long, may be 30 minutes?) early in the afternoon of your last workday for the review.
+  - I recommend you block out two hours (too long, maybe 30 minutes?) early in the afternoon of your last workday for the review.
 
 - The "Bigger Picture" Reviews
-  - Yes, at some point you must clarify the larger outcomes, the long-term goals, the visions and principles that ultimately drive, test, and prioritize your decisions.
-  - What are your key goals and objectives in your work? What should you have in place a year or three years from now? How is your career going? Is this the lifestyle that is most fulfilling to you? Are you doing what you really want or need to do, from a deeper and longer-term perspective?
+  - Yes, at some point, you must clarify the larger outcomes, the long-term goals, the visions and principles that ultimately drive, test, and prioritize your decisions.
+  - What are your key goals and objectives in your work? What should you have in place a year or three years from now? How is your career going? Is this the lifestyle that is most fulfilling to you? Are you doing what you want or need to do from a deeper and longer-term perspective?
 
 - **regularly review the professional and personal todo list**
 - daily review
@@ -169,7 +168,7 @@ tags: ["productivity"]
   - “I just want to remember to have the option to do this task, but I’m OK if it waits five years.” Put it in Someday/Maybe or create a new project for it.
   - “I just need to decide whether to do it or not.” Set a reminder for “Decide when to do X,” or just put the damn thing on your calendar.
   - maybe, just **delete it, and it will come back if it is significant enough**
-  - resolve the possible guilt about it. Put it out of your mind. You can do it either by deciding “I’m going to do it on a Specific date” or “I’m going to just put it in the list and I’m happy if I do it next week, next month, next year, or next decade.”
+  - resolve the possible guilt about it. Put it out of your mind. You can do it either by deciding “I’m going to do it on a Specific date” or “I’m going just to put it in the list, and I’m happy if I do it next week, next month, next year, or next decade.”
 - when reviewing the inbox
   - use Projects aggressively
   - if there are no projects fit for an item, delete it forever.
@@ -177,7 +176,7 @@ tags: ["productivity"]
 ## Engage: 
 
 - One model is to choose based on: context, time available, energy available, and priority.
-- The Six-Level Model for Reviewing Your Own Work
+- The Six-Level Model for Reviewing Your Work
   - The six levels of work may be thought of in terms of altitude, as in the floors of a building:
   - Horizon 5: Life
   - Horizon 4: Long-term visions
@@ -185,7 +184,7 @@ tags: ["productivity"]
   - Horizon 2: Areas of focus and accountability
   - Horizon 1: Current projects
   - Ground: Current actions
-- It's recommended that you start at the Ground, get your action lists complete, and then work your way up.
+- It's recommended that you start at the Ground, complete your action lists, and work your way up.
 
 
 # Getting Projects Under Control
