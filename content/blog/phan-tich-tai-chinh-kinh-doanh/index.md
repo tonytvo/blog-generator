@@ -1,5 +1,5 @@
 ---
-title: phan tich tai chinh kinh doanh CGBA
+title: phan tich tai chinh kinh doanh CGBA - wip
 date: "2022-08-21T22:12:03.284Z"
 description: "phan tich tai chinh kinh doanh CGBA"
 tags: ["valueinvesting", "investing"]

@@ -1,5 +1,5 @@
 ---
-title: options cashflow strategies
+title: options cashflow strategies - wip
 date: "2022-05-22T23:46:37.121Z"
 description: "Notes on Necklace May 22th 2022"
 tags: ["financialindependence", "valueinvesting"]

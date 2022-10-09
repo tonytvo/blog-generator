@@ -1,7 +1,7 @@
 ---
-title: art of war by sun tzu summary
+title: 48 laws of power by Robert Greene summary
 date: "2022-07-25T22:12:03.284Z"
-description: "art of war by sun tzu summary"
+description: "48 laws of power by Robert Greene summary"
 tags: ["strategy"]
 ---
 

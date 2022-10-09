@@ -1,5 +1,5 @@
 ---
-title: deep work summary
+title: deep work summary by Cal Newport - wip
 date: "2021-12-01T22:12:03.284Z"
 description: "deep work summary"
 tags: ["productivity"]

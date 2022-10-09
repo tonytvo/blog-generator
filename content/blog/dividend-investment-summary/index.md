@@ -1,5 +1,5 @@
 ---
-title: dividend investment summary
+title: dividend investment by Marc Lichtenfeld summary - wip
 date: "2022-02-05T22:12:03.284Z"
 description: "dividend investment summary"
 tags: ["investing", "dividendinvesting"]

@@ -1,5 +1,5 @@
 ---
-title: Education of a value investor by Guy Spier summary
+title: Education of a value investor by Guy Spier summary - wip
 date: "2022-07-14T22:12:03.284Z"
 description: "Education of a value investor by Guy Spier summary"
 tags: ["investing", "valueinvesting"]

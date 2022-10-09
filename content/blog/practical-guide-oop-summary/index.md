@@ -1,5 +1,5 @@
 ---
-title: practical guide to object oriented design
+title: practical guide to object oriented design by Sandi Metz summary - wip
 date: "2021-12-31T22:12:03.284Z"
 description: "practical guide to object oriented design summary"
 tags: ["designpatterns", "oop"]

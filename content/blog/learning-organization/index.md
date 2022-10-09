@@ -1,5 +1,5 @@
 ---
-title: learning organization
+title: learning organization - wip
 date: "2021-12-27T22:12:03.284Z"
 description: "learning organization"
 tags: ["productivity", "learning"]

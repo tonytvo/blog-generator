@@ -1,5 +1,5 @@
 ---
-title: blue ocean strategy by Chan Kim summary
+title: blue ocean strategy by Chan Kim summary - wip
 date: "2022-09-08T22:12:03.284Z"
 description: "blue ocean strategy by Chan Kim summary"
 tags: ["strategy"]
