@@ -6,6 +6,8 @@ tags: ["valueinvesting", "investing"]
 ---
 
 
+# todo
+- review references
 
 # Quotes
 
