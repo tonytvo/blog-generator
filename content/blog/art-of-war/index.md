@@ -37,18 +37,18 @@ tags: ["strategy"]
 - To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.
 - There are three ways in which a sovereign can bring misfortune upon his army:
   - By commanding the army to advance or retreat, being ignorant of the fact that it cannot obey.
-  - By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions that obtain in an army.
+  - By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions in an army.
   - By employing the officers of his army without discrimination, through ignorance of the military principle of adaptation to circumstances.
 
-- Thus we may know that there are five essentials for victory:
-  - He will win who knows when to fight and when not to fight.
+- Thus, we may know that there are five essentials for victory:
+  - He will win who knows when to fight and when not to fight?
   - He will win who knows how to handle both superior and inferior forces.
   - He will win whose army is animated by the same spirit throughout all its ranks.
   - He will win who, prepared himself, waits to take the enemy unprepared.
   - He will win who has the military capacity and is not interfered with by the sovereign.
 
-- **If you know the enemy and you know yourself, you need not fear the result of a hundred battles.**
-  - If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.
+- **If you know the enemy and yourself, you need not fear the result of a hundred battles.**
+  - If you know yourself but not the enemy, for every victory gained, you will also suffer a defeat.
   - If you know neither the enemy nor yourself, you will succumb in every battle.
 
 # Tactics
