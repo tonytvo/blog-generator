@@ -52,9 +52,9 @@ tags: ["strategy"]
   - If you know neither the enemy nor yourself, you will succumb in every battle.
 
 # Tactics
-- To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
-- The general who is skilled in defense hides in the most secret recesses of the earth; he who is skilled in attack flashes forth from the topmost heights of heaven.
-- Hence the skillful fighter puts himself into a position that makes defeat impossible and does not miss the moment for defeating the enemy.
+- To secure ourselves against defeat lies in our own hands, but the enemy himself provides the opportunity of defeating the enemy.
+- The general skilled in defence hides in the most secret recesses of the earth; he skilled in attack flashes forth from the topmost heights of heaven.
+- Hence the skillful fighter puts himself into a position that makes defeat impossible and does not miss the moment to defeat the enemy.
 
 # Energy
 - Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.
