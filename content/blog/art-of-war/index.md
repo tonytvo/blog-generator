@@ -58,8 +58,8 @@ tags: ["strategy"]
 
 # Energy
 - Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.
-- In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.
-- Therefore the good fighter will be terrible in his onset, and prompt in his decision.
+- In all fighting, the direct method may be used for joining battle, but indirect methods will be needed to secure victory.
+- Therefore, the good fighter will be terrible in his onset and prompt in his decision.
 - Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.
 
 # Weak Points & Strong
