@@ -63,13 +63,13 @@ tags: ["strategy"]
 - Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.
 
 # Weak Points & Strong
-- Appear at points that the enemy must hasten to defend; march swiftly to places where you are not expected.
-- The general that is skillful in attack whose opponent does not know what to defend; and he is skillful in defense whose opponent does not know what to attack.
+- Appear at points the enemy must hasten to defend; march swiftly to places you are not expected.
+- The general that is skillful in attack whose opponent does not know what to defend; and he is skillful in defence whose opponent does not know what to attack.
 - In making tactical dispositions, the highest pitch you can attain is to conceal them;
-- Military tactics are like unto water; for water in its natural course runs away from high places and hastens downward. So in war, the way is to avoid what is strong and to strike at what is weak.
-- Water shapes its course according to the nature of the ground over which it flows; the soldier works out his victory in relation to the foe whom he is facing.
-- Therefore, just as water retains no constant shape, so in warfare there are no constant conditions.
-- He who can modify his tactics in relation to his opponent, and thereby succeed in winning, may be called a heaven-born captain.
+- Military tactics are like unto water, for water in its natural course runs away from high places and hastens downward. So in war, the way is to avoid what is strong and to strike at what is weak.
+- Water shapes its course according to the nature of the ground over which it flows; the soldier works out his victory against the foe he is facing.
+- Therefore, just as water retains no constant shape, so in warfare, there are no constant conditions.
+- He who can modify his tactics about his opponent, and thereby succeed in winning, may be called a heaven-born captain.
 
 # Maneuvering
 - Without harmony in the state, no military expedition can be undertaken; without harmony in the army, no battle array can be formed.
