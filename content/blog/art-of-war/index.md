@@ -80,12 +80,12 @@ Ponder and deliberate before you make a move. He will conquer those who have lea
 - When you surround an enemy, leave an outlet free. This does not mean that the enemy is to be allowed to escape. The object is to make him believe that there is a road to safety and thus prevent his fighting with the courage of despair.
 
 # Variation of Tactics
-- No town should be attacked which, if taken, cannot be held, or if left alone, will not cause any trouble.
-- In the wise leader's plans, considerations of advantage and of disadvantage will be blended together.
-- The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
-- There are five dangerous faults that may affect a general, of which the first two are: recklessness, which leads to destruction; and cowardice, which leads to capture.
-  - Next there is a delicacy of honor, which is sensitive to shame; and a hasty temper, which can be provoked by insults.
-  - The last of such faults is oversolicitude for his men, which exposes him to worry and trouble, for in the long run the troops will suffer more from the defeat, or at best, the prolongation fo the war, which will be the consequence.
+- No town should be attacked which, if taken, cannot be held or, if left alone, will not cause any trouble.
+- In the wise leader's plans, considerations of advantages and disadvantages will be blended.
+- The art of war teaches us to rely not on the likelihood of the enemy not coming but on our readiness to receive him, not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
+- Five dangerous faults may affect a general, of which the first two are: recklessness, which leads to destruction, and cowardice, which leads to capture.
+  - Next, there is a delicacy of honour, which is sensitive to shame, and a hasty temper, which insults can provoke.
+  - The last of such faults is over solicitude for his men, which exposes him to worry and trouble, for, in the long run, the troops will suffer more from the defeat, or at best, the prolongation of the war, which will be the consequence.
 
 
 # The Army on the March
