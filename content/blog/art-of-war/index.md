@@ -107,9 +107,9 @@ Humble words and increased preparations are signs that the enemy is about to adv
 - Carefully study the well-being of your men, and do not overtax them.
 - Concentrate your energy and hoard your strength.
 - Keep your army continually on the move, and devise unfathomable plans.
-- You will not succeed unless your men have tenacity and unity of purpose, and above all, a spirit of sympathetic cooperation.
+- You will not succeed unless your men have tenacity, unity of purpose, and a spirit of sympathetic cooperation.
 - By altering his arrangements and changing his plans, the skillful general keeps the enemy without definite knowledge.
-- By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose.
+- Shifting his camp and taking circuitous routes prevents the enemy from anticipating his purpose.
 - Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose. If the enemy shows an inclination to advance, lure him on to do so; if he is anxious to retreat, delay on purpose that he may carry out his intention.
 
 
