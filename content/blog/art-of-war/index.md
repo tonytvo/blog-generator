@@ -96,9 +96,9 @@ Humble words and increased preparations are signs that the enemy is about to adv
 
 
 # Terrain
-- Sometimes an army is exposed to calamities, not arising from natural causes, but from faults for which the general is responsible. These are: flight; insubordination; collapse; ruin; disorganization; rout.
-- Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.
-- If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway toward victory. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway toward victory. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway toward victory.
+- Sometimes, an army is exposed to calamities, not from natural causes, but from faults for which the general is responsible. These are: flight; insubordination; collapse; ruin; disorganization; rout.
+- Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your beloved sons, and they will stand by you even unto death.
+- If we know that our men are in a condition to attack but are unaware that the enemy is not open to attack, we have gone only halfway toward victory. If we know that the enemy is open to attack but are unaware that our men are not in a condition to attack, we have gone only halfway toward victory. If we know that the enemy is open to attack and that our men are in a condition to attack but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway toward victory.
 - If you know the enemy and you know yourself, your victory will not stand in doubt;
 
 
