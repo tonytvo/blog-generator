@@ -92,7 +92,7 @@ Ponder and deliberate before you make a move. He will conquer those who have lea
 - He who exercises no forethought but makes light of his opponents is sure to be captured by them.
 Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.
 - Peace proposals unaccompanied by a sworn covenant indicate a plot.
-- To begin by bluster, but afterward to take fright at the enemy's numbers, shows a supreme lack of intelligence.
+- To begin by blustering but afterward to take fright at the enemy's numbers shows a supreme lack of intelligence.
 
 
 # Terrain
