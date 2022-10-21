@@ -161,3 +161,4 @@ Example: Netflix
 
 # References
 - https://wisewords.blog/book-summaries/blue-ocean-strategy-book-summary/
+- https://profitworks.ca/blog/378-blue-ocean-strategy-formulation-the-strategy-canvas
