@@ -53,6 +53,7 @@ tags: ["strategy"]
   - This concept allows you to borrow the money against your cash value in the same way you would borrow from a bank. Additionally, you are also ensuring that your whole life insurance policy is earning dividends at the same time.
   - The primary purpose of IBC is to help you gain freedom in your finances, meaning you have complete control of your savings, and you are guaranteed that your money won’t decrease in value. Not to mention the tax-free benefits that come along with it. When you put everything on paper, you can understand why becoming your own banker is an appealing choice.
   - [Comprehensive guide to life insurance](https://wealthnation.io/blog/life-insurance-dividends/)
+  - [high early cash value, dividend-paying whole life insurance](https://www.youtube.com/watch?v=R6d8lJU2CkY)
 
 ## Creating Your Own Banking System Through Dividend-Paying Life Insurance
 
@@ -293,3 +294,4 @@ Wealth will reside somewhere. It is up to you where you want it to reside. With 
 - https://wealthnation.io/blog/becoming-your-own-banker-book-review/
 - https://wealthnation.io/blog/life-insurance-dividends/
 - https://livingwealth.com/summary-book-becoming-your-own-banker/
+- https://www.youtube.com/watch?v=R6d8lJU2CkY
