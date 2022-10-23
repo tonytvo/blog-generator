@@ -114,15 +114,15 @@ Humble words and increased preparations are signs that the enemy is about to adv
 
 
 # Attack by Fire
-- Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.
+- Move not unless you see an advantage; use not your troops unless something is gained; fight not unless the position is critical.
 
-## The Use of Spies
-- What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.
-- Having converted spies means getting hold of the enemy's spies and using them for our own purposes: by means of heavy bribes and liberal promises, detaching them from the enemy's service and inducing them to carry back false information as well as to spy in turn on their own countrymen.
-- There must be no more intimate relations in the whole army than those maintained by spies. No other relation should be more liberally rewarded. In no other relation should greater secrecy be preserved.
-- Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, the doorkeepers, and the sentries of the general in command. Our spies must be commissioned to ascertain these.
-- The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy. He not only brings information himself, but makes it possible to use the other kinds of spies to advantage. Hence it is essential that the converted spy be treated with the utmost liberality.
-- Spies are a most important element in war, because upon them depends an army's ability to move.
+# The Use of Spies
+- Foreknowledge enables the wise sovereign and the good general to strike and conquer and achieve things beyond the reach of ordinary men.
+- Having converted spies means getting hold of the enemy's spies and using them for our purposes: employing heavy bribes and liberal promises, detaching them from the enemy's service and inducing them to carry back false information and to spy in turn on their countrymen.
+- There must be no more intimate relations in the whole army than those maintained by spies. No other relation should be more liberally rewarded. In no other relation should greater secrecy be preserved?
+- Whether the object is to crush an army, storm a city, or assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, the doorkeepers, and the sentries of the general in command. Our spies must be commissioned to ascertain these.
+- The end and aim of spying in all its five varieties is knowledge of the enemy; this knowledge can only be derived from the converted spy in the first instance. He not only brings information himself but makes it possible to use the other kinds of spies to his advantage. Hence the converted spy must be treated with the utmost liberality.
+- Spies are a most important element in war because an army's ability to move depends upon them.
 
 # Part I: Self-Directed Warfare
 - To become a true strategist, you must become aware of the weakness and illness that can take hold of the mind. You must declare war on yourself to make yourself move forward.
