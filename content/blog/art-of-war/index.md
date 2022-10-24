@@ -125,22 +125,22 @@ Humble words and increased preparations are signs that the enemy is about to adv
 - Spies are a most important element in war because an army's ability to move depends upon them.
 
 # Part I: Self-Directed Warfare
-- To become a true strategist, you must become aware of the weakness and illness that can take hold of the mind. You must declare war on yourself to make yourself move forward.
+- To become a true strategist, you must become aware of the weakness and illnesses that can take hold of the mind. You must declare war on yourself to make yourself move forward.
 
 ## Declare War on Your Enemies: The Polarity Strategy
 
-- Learn to identify your enemies, and then inwardly declare war.
+- Learn to identify your enemies and then inwardly declare war.
 - Your enemies, like the opposite poles of a magnet, can fill you with purpose and direction.
-- The more clearly you define who you do not want to be, the clearer your own sense of identity.
-- See yourself as a fighter, surrounded by enemies. Constant battle keeps you strong and alert.
+- The more clearly you define who you do not want to be, the clearer your sense of identity.
+- See yourself as a fighter surrounded by enemies. The constant battle keeps you strong and alert.
 - Do not be lured by the need to be liked: better to be respected, even feared.
 
 - **Keys to Warfare:**
-  - **Understand**: people tend to be vague and slippery because it is safer than outwardly committing to something. If you are the boss, they will mimic your ideas. Their agreement is often pure courtiership. Get them emotional; people are usually more sincere when they argue. If you pick an argument with someone and he keeps on mimicking your ideas, you may be dealing with a chameleon, a particularly dangerous type.
+  - **Understand**: people tend to be vague and slippery because it is safer than outwardly committing to something. If you are the boss, they will mimic your ideas. Their agreement is often pure courtship. Get them emotional; people are usually more sincere when they argue. If you pick an argument with someone and he keeps mimicking your ideas, you may be dealing with a chameleon, a particularly dangerous type.
   - A tough opponent will bring out the best in you.
 
 - **Reversal:**
-  - Always keep the search for and use of enemies under control. It is clarity you want, not paranoia. It is the downfall of many tyrants to see an enemy in everyone. They lose their grip on reality and become hopelessly embroiled in the emotions their paranoia churns up.
+  - Always keep the search for and use of enemies under control. It is the clarity you want, not paranoia. It is the downfall of many tyrants to see an enemy in everyone. They lose their grip on reality and become hopelessly embroiled in the emotions their paranoia churns up.
 
 ## Do Not Fight the Last War: The Guerrilla-War-of-the-Mind Strategy
 - What most often weighs you down and brings you misery is the past, in the form of unnecessary attachments, repetitions of tired formulas, and the memory of old victories and defeats. You must consciously wage war against the past and force yourself to react to the present moment.
