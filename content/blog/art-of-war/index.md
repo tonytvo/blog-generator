@@ -74,7 +74,7 @@ tags: ["strategy"]
 # Maneuvering
 - Without harmony in the state, no military expedition can be undertaken; without harmony in the army, no battle array can be formed.
 - An army without its baggage train is lost; without provisions, it is lost; without bases of supply, it is lost.
-Ponder and deliberate before you make a move. He will conquer those who have learned the artifice of deviation. Such is the art of maneuvering.
+- Ponder and deliberate before you make a move. He will conquer those who have learned the artifice of deviation. Such is the art of maneuvering.
 - In battle, a courageous spirit is everything.
 - A clever general avoids an army when its spirit is keen but attacks it when it is sluggish and inclined to return.
 - When you surround an enemy, leave an outlet free. This does not mean that the enemy is to be allowed to escape. The object is to make him believe that there is a road to safety and thus prevent his fighting with the courage of despair.
