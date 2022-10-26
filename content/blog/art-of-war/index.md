@@ -144,23 +144,23 @@ tags: ["strategy"]
 
 ## Do Not Fight the Last War: The Guerrilla-War-of-the-Mind Strategy
 - What most often weighs you down and brings you misery is the past, in the form of unnecessary attachments, repetitions of tired formulas, and the memory of old victories and defeats. You must consciously wage war against the past and force yourself to react to the present moment.
-- Never take it for granted that your past successes will continue into the future.
+- Never take it for granted that your past successes will continue.
 
 - **Keys to Warfare**
-  - **Understand**: the greatest generals, the most creative strategists, stand out not because they have more knowledge but because they are able, when necessary, to drop their preconceived notions and focus intensely on the present moment. That is how creativity is sparked and opportunities are seized.
-  - It can be valuable to analyze what went wrong in the past, but it is far more important to develop the capacity to think in the moment. In that way you will make far fewer mistakes to analyze.
-  - The first step is simply to be aware of the process and of the need to fight it. The second is to adopt a few tactics that might help you to restore the mind's natural flow.
+  - **Understand**: the greatest generals, the most creative strategists, stand out not because they have more knowledge but because they are able, when necessary, to drop their preconceived notions and focus intensely on the present moment. That is how creativity is sparked, and opportunities are seized.
+  - It can be valuable to analyze what went wrong in the past, but it is far more important to develop the capacity to think at the moment. In that way, you will make far fewer mistakes to analyze.
+  - The first step is to be aware of the process and the need to fight it. The second is to adopt a few tactics that might help you to restore the mind's natural flow.
   - **Reexamine all your cherished beliefs and principles.**
   - Your only principle, similarly, should be to have no principles.
   - **Erase the memory of the last war.**
-  - Attention to the details of the present is by far the best way to crowd out the past and forget the last war.
+  - Attention to the present details is the best way to crowd out the past and forget the last war.
   - **Keep the mind moving.**
   - Superior strategists see things as they are. They are highly sensitive to dangers and opportunities.
   - Great strategists do not act according to preconceived ideas; they respond to the moment, like children.
   - **Absorb the spirit of the times.**
   - Constantly adapt and change, and you will avoid the pitfalls of your previous wars. Just when people feel they know you, you will change.
   - **Reverse course.**
-    - Sometimes you must reverse course, break free from the hold of the past. Do the opposite of what you would normally do in a given situation.
+    - Sometimes, you must reverse course and break free from the hold of the past. Do the opposite of what you would normally do in a given situation.
   - Act in a novel manner in relationships to break up the dynamic.
 
 ## Amidst the Turmoil of Events, Do Not Lose Your Presence of Mind: The Counterbalance Strategy
