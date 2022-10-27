@@ -15,7 +15,8 @@ tags: ["valueinvesting", "investing"]
 # Cost of capital
 - EBIT = [EBIT quy 1 2022] + [EBIT quy 2 2022] + [EBIT quy 3 2022] + [EBIT quy 4 2021]
   - EBIT = earnings before interests and tax = Loi nhuan Ke Toan Truoc
-  - per discussion, it seems like we should use EBITDA instead of EBIT here
+  - per discussion, it seems like we should use EBITDA instead of EBIT
+  - download bctc from cafef.vn (qui 1, qui 2, qui 3 2022 and qui 4 2021)
 
 # Questions
 
@@ -54,7 +55,9 @@ tags: ["valueinvesting", "investing"]
   - https://en.wikipedia.org/wiki/Charoen_Sirivadhanabhakdi
   - Koh Poh Tiong is the first legal representative, while Neo Gim Siong Bennett is the second legal representative of the enterprise
 - **how much impact decree 100 on SAB?**
-  - 
+- **what's other thoughts on SAB?**
+  - gross profit margin in 2021 -> 30.8%
+  - current ratio in 2021 -> 3.* -> inefficient in managing current assets/liabilities
 # Quotes
 
 
