@@ -54,3 +54,7 @@ tags: ["valueinvesting", "investing"]
 - https://content.acbs.com.vn/Files/Domains/ACBS/WFL-1585/220307094231-1015-1015000002.pdf
 - https://data.vdsc.com.vn/2022/09/vndirect-vnm-etf-co-the-loai-sab-va-thd-3358-999304.htm
 - https://www.slideshare.net/guest2a6f47ef/chin-lc-bi-hon-chnh
+- https://www.youtube.com/watch?v=UtOFRUxDi-g
+- https://www.youtube.com/watch?v=MR8m6AV5iK
+- https://www.youtube.com/watch?v=4XrWeSZO3qI
+- https://www.youtube.com/watch?v=r1GeHPBqmbY
