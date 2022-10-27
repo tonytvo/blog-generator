@@ -12,6 +12,11 @@ tags: ["valueinvesting", "investing"]
 - [dinh gia](./HPG-dinh-gia-202206-v2.0.xlsx)
 - [huong dan cgba](./Huong-dan-CGBA-Project.pdf)
 
+# Cost of capital
+- EBIT = [EBIT quy 1 2022] + [EBIT quy 2 2022] + [EBIT quy 3 2022] + [EBIT quy 4 2021]
+  - EBIT = earnings before interests and tax = Loi nhuan Ke Toan Truoc
+  - per discussion, it seems like we should use EBITDA instead of EBIT here
+
 # Questions
 
 - **what's SAB governance?**
@@ -21,6 +26,7 @@ tags: ["valueinvesting", "investing"]
 - **how much Thaibev pay to acquire SAB?**
   - https://vir.com.vn/the-15-biggest-ma-deals-2009-2018-61598.html. On December 18, 2017, Vietnam Beverage (49 per cent of which is owned by ThaiBev) won an auction to acquire more than 343.66 million Sabeco shares, equivalent to 53.59 per cent of the company’s stake, at VND320,000 ($14.16) per share. This brought the deal value to nearly $5 billion
   - apparently, ThaiBev looking to spin off Beer unit finance for the SAB acquisition recently. https://www.inside.beer/news/detail/singaporethailand-thaibev-revives-plan-for-an-ipo/
+  - ThaiBev said in order to implement the deal, ThaiBev and BeerCo Ltd, a 100 percent ThaiBev owned subsidiary, got six loans, totaling $5 billion
 - **did Thaibev pay too much for the acquisition?**
   - current price is around VND 190,000 compared to the acquire shares (VND 320,000)
   - https://www.ft.com/content/f3436820-1288-11ea-a7e6-62bf4f9e548a, ThaiBev potentially looking to buyers for SAB (potentially bud APAC)
@@ -44,6 +50,11 @@ tags: ["valueinvesting", "investing"]
 - **how was Sabeco managed before 2017?**
   - very bad, the number is often wrong and most of the managers has been misreprented (or sometimes wrong)
   - management has been trialed (Vo Huy Hoang, etc..., https://www.youtube.com/watch?v=e2THiGLF_FY)
+- **who is Charoen Sirivadhanabakdi?**
+  - https://en.wikipedia.org/wiki/Charoen_Sirivadhanabhakdi
+  - Koh Poh Tiong is the first legal representative, while Neo Gim Siong Bennett is the second legal representative of the enterprise
+- **how much impact decree 100 on SAB?**
+  - 
 # Quotes
 
 
