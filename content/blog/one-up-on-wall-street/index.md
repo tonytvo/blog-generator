@@ -1178,7 +1178,10 @@ The market, like individual stocks, can move in the opposite direction of the fu
 
 The stock market is the one place where the high achiever is routinely show up. It’s easy to get an F here. If you buy futures and options and attempt to time the market, it’s easy to get all F’s…
 
-You'll never lose your job losing your client's money in an IBM
+You'll never lose your job losing your client's money in an 
+
+“Another key element in portfolio management is curtailing the duration (the weighted average life) of one’s portfolio through exposure to investments with catalysts for the realization of underlying value. Catalytic events shift the outcome of investments from a reliance on future market multiples and macroeconomic developments (which are not at all under your control) to a dependence on your assessment of the outcomes, probabilities, and implications of announced or anticipated corporate events, including mergers and acquisitions, bond maturities, debt restructurings, bankruptcies, major corporate asset sales, spinoffs, and tender offers. No strategy can avoid all risk of loss. But we believe our approach should increase the likelihood of achieving sustainable gains with limited downside risk over the long- run. To put it differently, a portfolio of near infinite duration (such as an all equity portfolio without catalysts) can trade just about anywhere. With such exposures, if stock prices plummet, the odds go up that an investor will feel pressure to do the wrong thing and sell into market weakness. A limited duration portfolio, both because of the hopefully truncated downside in a bad market as well as the beneficial cash inflows (buying power) that catalysts usually generate, is hugely advantageous in navigating through turmoil.” Seth Klarman 
+
 
 # References
 - https://www.learninvest.ca/post/one-up-on-wall-street
