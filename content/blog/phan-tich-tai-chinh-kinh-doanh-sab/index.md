@@ -62,6 +62,8 @@ tags: ["valueinvesting", "investing"]
   - is there any plan to increase the market shares?
   - is there any plan to improve the export?
   - what's the plan to improve on-trade, off trade?
+- **what's the plan to implement ESOAP?**
+  - currently, the company has no plan for ESOAP. However, they mentioned they have the plan for that, not sure when?
 # Quotes
 
 
