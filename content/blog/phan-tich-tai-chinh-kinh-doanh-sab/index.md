@@ -58,6 +58,10 @@ tags: ["valueinvesting", "investing"]
 - **what's other thoughts on SAB?**
   - gross profit margin in 2021 -> 30.8%
   - current ratio in 2021 -> 3.* -> inefficient in managing current assets/liabilities
+- **what's the plans for earnings growth**?
+  - is there any plan to increase the market shares?
+  - is there any plan to improve the export?
+  - what's the plan to improve on-trade, off trade?
 # Quotes
 
 
