@@ -1,5 +1,5 @@
 ---
-title: becoming your own bank summary - wip
+title: becoming your own bank summary
 date: "2022-10-21T22:12:03.284Z"
 description: "blue ocean strategy by Chan Kim summary"
 tags: ["strategy"]
