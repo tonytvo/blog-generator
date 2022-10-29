@@ -1,6 +1,6 @@
 ---
 title: phan tich tai chinh kinh doanh CGBA TCB - wip
-date: "2022-08-21T22:12:03.284Z"
+date: "2022-10-21T22:12:03.284Z"
 description: "phan tich tai chinh kinh doanh CGBA TCB"
 tags: ["valueinvesting", "investing"]
 ---
