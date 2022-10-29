@@ -23,6 +23,7 @@ tags: ["valueinvesting", "investing"]
   - Ultimately, a richer language is essential to the skill of constructive criticism.
   - Decision makers are sometimes better able to imagine the voices of present gossipers and future critics than to hear the hesitant voice of their own doubts. They will make better choices when they trust their critics to be sophisticated and fair, and when they expect their decision to be judged by how it was made, not only by how it turned out.
 
+- ![summary of 2 systems](./summary-2-systems.png)
 # 2 Systems
 
 - **The Characters of the Story**
@@ -546,12 +547,31 @@ tags: ["valueinvesting", "investing"]
   - *Miswanting*: bad choices that arise from errors of affective forecasting; common example is the focusing illusion causing us overweight the effect of purchases on our future well-being.
 
 
-# todo
-- review references
-
 # Quotes
 
+"A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth. Authoritarian institutions and marketers have always known this fact."
 
+"Nothing in life is as important as you think it is, while you are thinking about it."
+
+"Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance."
+
+"If you care about being thought credible and intelligent, do not use complex language where simpler language will do."
+
+"Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed."
+
+"A single cockroach will completely wreck the appeal of a bowl of cherries, but a cherry will do nothing at all for a bowl of cockroaches."
+
+"The idea that the future is unpredictable is undermined every day by the [misleading] ease with which the past is explained."
+
+"The gorilla study illustrates two important facts about our minds: we can be blind to the obvious, and we are also blind to our blindness."
+
+"Mood evidently affects the operation of System 1: when we are uncomfortable and unhappy, we lose touch with our intuition."
+
+"This is the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution."
+
+"Many people are overconfident, prone to place too much faith in their intuitions. They apparently find cognitive effort at least mildly unpleasant and avoid it as much as possible."
+
+A remarkable aspect of your mental life is that you are rarely stumped. The normal state of your mind is that you have intuitive feelings and opinions about almost everything that comes your way.
 
 # References
 - https://theartofliving.com/thinking-fast-and-slow-summary/
