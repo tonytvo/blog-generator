@@ -1,5 +1,5 @@
 ---
-title: thinking fast and slow by Daniel Kahneman summary - wip
+title: thinking fast and slow by Daniel Kahneman summary
 date: "2022-08-30T22:12:03.284Z"
 description: "thinking fast and slow by Daniel Kahneman summary"
 tags: ["valueinvesting", "investing"]
