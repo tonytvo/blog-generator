@@ -196,22 +196,22 @@ tags: ["strategy"]
   - Get your mind into the habit of making lightning-quick decisions, trusting your fingertip feel. Your mind will advance in a mental blitzkrieg, moving past your opponents before they realize what has hit them.
 
 ## Create a Sense of Urgency and Desperation: The Death-Ground Strategy
-- You are your own worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you are only half involved in what you do. The only way to change is through action and outside pressure. Put yourself in situations where you have too much at stake to waste time or resources--if you cannot afford to lose, you won't. Cut your ties to the past; enter unknown territory where you must depend on your wits and energy to see you through. Place yourself on "death ground," where your back is against the wall and you have to fight like hell to get out alive.
+- You are your own worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you are only half involved in what you do. The only way to change is through action and outside pressure. Put yourself in situations where you have too much at stake to waste time or resources--if you cannot afford to lose, you won't. Cut your ties to the past; enter unknown territory where you must depend on your wits and energy to see you through. Place yourself on "death ground," where your back is against the wall, and you must fight like hell to get out alive.
 
 - **The No-Return Tactic**
   - In the back of your mind, you keep an escape route, a crutch, something to turn to if things go bad.
-  - You may see this fallback as a blessing, but it is in fact a curse. It divides you. Because you think you have options, you need involve yourself deeply enough in one thing to do it thoroughly, and you never quite get what you want. Sometimes you need to burn the ships.
+  - You may see this fallback as a blessing, but it is a curse. It divides you. Because you think you have options, you need to involve yourself deeply enough in one thing to do it thoroughly, and you never quite get what you want. Sometimes you need to burn the ships.
 
 - **The Death-at-Your-Heels Tactic**
-  - You must think of death in order to embrace your limited days left. Make the most of them and live with a sense of urgency.
+  - You must think of death to embrace your limited days left. Make the most of them and live with a sense of urgency.
 
 - **Keys to Warfare**
-  - Put yourself in a comfortable situation, and we may grow bored or tired. Put yourself in a high-stakes situation, and the dynamic changes. You get a surge of energy, and your mind focuses.
+  - Put yourself in a comfortable situation, and you may grow bored or tired. Put yourself in a high-stakes situation, and the dynamic changes. You get a surge of energy, and your mind focuses.
   - Use the following five actions to put yourself on a psychological death ground:
   - **Stake everything on a single throw.**
   - It is better to take on one daunting challenge than diffuse our efforts across many.
   - **Act before you are ready.**
-  - Do this often and you will develop your ability to think and act fast.
+  - Do this often, and you will develop your ability to think and act fast.
   - **Enter new waters.**
   - Leave stale relationships and comfortable situations behind, and cut your ties to the past.
   - **Make it “you against the world."**
@@ -221,7 +221,7 @@ tags: ["strategy"]
   - Life has more meaning in the face of death.
 
 - **Reversal**
-  - Never attack enemies with nothing to lose.
+  - Never attack enemies with anything to lose.
   - Conversely, attacking enemies when morale is low gives you the advantage.
   - Always try to lower the other side’s sense of urgency.
 
