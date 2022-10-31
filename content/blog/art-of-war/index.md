@@ -229,7 +229,7 @@ tags: ["strategy"]
 
 - It is the structure of your army - the chain of command and the relationship of the parts to the whole - that will give your strategies force.
 - You must build speed and mobility into the structure of your army.
-- That means having a single authority on top, going soldiers a sense of the overall goal to be accomplished and the latitude to take action to meet that goal. It means motivating soldiers, creating an overall esprit du corps that gives momentum.
+- That means having a single authority on top, going soldiers a sense of the overall goal to be accomplished and the latitude to take action to meet that goal. It means motivating soldiers, and creating an overall esprit du corps that gives momentum.
 - Before formulating a strategy or taking action, understand the structure of your group.
 
 ## Avoid the Snares of GroupThink: The Command-and-Control Strategy
