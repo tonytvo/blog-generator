@@ -233,18 +233,18 @@ tags: ["strategy"]
 - Before formulating a strategy or taking action, understand the structure of your group.
 
 ## Avoid the Snares of GroupThink: The Command-and-Control Strategy
-- The problem in leading any group is that people inevitably have their own agendas. If you are too authoritarian, they will resent you and rebel in silent ways. If you are too easygoing, they will revert to their natural selfishness and you will lose control. You have to create a chain of command in which people do not feel constrained by your influence yet follow your lead.
+- The problem in leading any group is that people inevitably have agendas. If you are too authoritarian, they will resent you and rebel silently. If you are too easygoing, they will revert to their natural selfishness, and you will lose control. You must create a chain of command in which people do not feel constrained by your influence but follow your lead.
 - Create a sense of participation, but do not fall into Groupthink.
 - A proper chain of command, and the control it brings you, is not an accident; it is your creation, a work of art that requires constant attention and care.
 
 - **Keys to Warfare**
   - This is the game you must play: Do whatever you can to pressure unity of command. At the same time, hide your tracks. Work behind the scenes; make the group feel involved in your decisions.
   - A critical step in creating an efficient chain of command is assembling a skilled team that shares your goals and values.
-  - In creating this team, you are looking for people who make up for your deficiencies, who have the skills you lack.
+  - In creating this team, you are looking for people who make up for your deficiencies and have the skills you lack.
   - Be careful in assembling this team that you are not seduced by expertise and intelligence. Character, the ability to work under you and with the rest of the team, and the capacity to accept responsibility and think independently are equally key.
   - The single greatest risk to your chain of command comes from the political animals in the group. Try to weed them out before they arrive.
-  - Finally, pay attention to the orders themselves--their form as well as their substance. Vague orders are worthless.
-  - On the other hand, if your commands are too specific and too narrow, you will encourage people to behave like automatons and stop thinking for themselves--which they must do when the situation requires it. Erring in neither direction is an art.
+  - Finally, pay attention to the orders themselves--their form and substance. Vague orders are worthless.
+  - On the other hand, if your commands are too specific and narrow, you will encourage people to behave like automatons and stop thinking for themselves--which they must do when the situation requires it. Erring in neither direction is an art.
 
 ## Segment Your Forces: The Controlled-Chaos Strategy
 - Speed and adaptability are critical elements in war, and come from flexible organization.
