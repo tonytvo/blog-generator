@@ -247,13 +247,13 @@ tags: ["strategy"]
   - On the other hand, if your commands are too specific and narrow, you will encourage people to behave like automatons and stop thinking for themselves--which they must do when the situation requires it. Erring in neither direction is an art.
 
 ## Segment Your Forces: The Controlled-Chaos Strategy
-- Speed and adaptability are critical elements in war, and come from flexible organization.
-- Decentralize your army, segment into teams, and let go a little to gain mobility.
+- Speed and adaptability are critical elements in war and come from a flexible organization.
+- Decentralize your army, segment it into teams, and let go a little to gain mobility.
 - Give your different corps clear missions that fit your strategic goals, then let them accomplish them as they see fit.
 
 - **Keys to Warfare**
-  - The essence of strategy is not to carry out a brilliant plan that proceeds in steps; it is to put yourself in situations where you have more options than the enemy does.
-  - The key to the mission command is an overall group philosophy. This can be built around the cause you are fighting for or a belief in the evil of the enemy you face. It can also include the style of warfare--defensive, mobile, ruthlessly aggressive--that best suits it. You must bring the group together around this belief. Then, through training and creative exercises, you must deepen its hold on them, infuse it into their blood.
+  - The essence of strategy is not to carry out a brilliant plan that proceeds in steps; it is to put yourself in situations where you have more options than the enemy.
+  - The key to the mission command is an overall group philosophy. This can be built around the cause you are fighting for or a belief in the evil of the enemy you face. It can also include the style of warfare--defensive, mobile, ruthlessly aggressive--that best suits it. You must bring the group together around this belief. Then, through training and creative exercises, you must deepen its hold on them and infuse it into their blood.
 
 ## Transform Your War into a Crusade: Morale Strategies
 - The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Involve them in a cause, a crusade against a hated enemy. Make them see their survival as tied to the success of the army as a whole.
