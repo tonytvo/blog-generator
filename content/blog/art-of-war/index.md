@@ -168,13 +168,13 @@ tags: ["strategy"]
 - Make your mind tougher by exposing it to adversity. Learn to detach yourself.
 
 - **The Hyperaggressive Tactic**
-  - In moments of turmoil and trouble, you must force yourself to be more determined and aggressive. Any mistakes you make can be rectified with more aggression.
+  - In turmoil and trouble, you must force yourself to be more determined and aggressive. Any mistakes you make can be rectified with more aggression.
 
 - **The Detached-Buddha Tactic**
-  - Presence of mind is the ability to detach yourself and see the whole battlefield with clarity. What gives you that distance is preparation, mastering the details beforehand. Let people think your Buddha-like detachment comes from some mysterious source. The less they understand you, the better.
+  - Presence of mind is the ability to detach yourself and see the battlefield with clarity. What gives you that distance is preparation, mastering the details beforehand. Let people think your Buddha-like detachment comes from some mysterious source. The less they understand you, the better.
 
 - **Keys to Warfare**
-  - What makes your mind stronger, and more able to control your emotions, is internal discipline and toughness.
+  - Internal discipline and toughness make your mind stronger and more able to control your emotions.
   - No one can teach you this skill. It can only come through practice, experience, and even a little suffering.
   - To toughen your mind:
   - **Expose yourself to conflict.**
@@ -182,18 +182,18 @@ tags: ["strategy"]
   - The more conflicts and difficult situations you put yourself through, the more battle-tested your mind will be.
   - **Be self-reliant.**
   - Dependency makes you vulnerable to all kinds of emotions.
-  - We tend to overestimate other people’s abilities, and we tend to underestimate our own. Compensate for this by trusting yourself more, and others less.
-  - Remember, though, that being self-reliant does not mean burdening yourself with petty details.
+  - We tend to overestimate other people’s abilities, and we tend to underestimate our own. Compensate for this by trusting yourself more and others less.
+  - Remember, being self-reliant does not mean burdening yourself with petty details.
   - **Suffer fools gladly.**
   - Your time and energy are limited, and you must learn how to preserve them.
-  - Instead, think of fools as you think of children, or pets, not important enough to affect your mental balance.
+  - Instead, think of fools as you think of children or pets, not important enough to affect your mental balance.
   - **Crowd out feelings of panic by focusing on simple tasks.**
   - **Unintimidate yourself.**
   - See the person, not the myth. Imagine him or her as a child, as someone riddled with insecurities.
   - **Develop your Fingerspitzengefuhl (fingertip feel).**
   - Presence of mind depends not only on your mind's ability to come to your aid in difficult situations but also on the speed with which this happens.
-  - There are things you can do to help you respond faster and bring out that intuitive feel that all animals possess. Deep knowledge of the terrain will let you process information faster than your enemy, a tremendous advantage. Getting a feel for the spirit of men and material, thinking your way into them instead of looking at them from outside, will help to put you in a different frame of mind.
-  - Get your mind into the habit of making lightning-quick decisions, trusting your fingertip feel. Your mind will advance in a kind of mental blitzkrieg, moving past your opponents before they realize what has hit them.
+  - There are things you can do to help you respond faster and bring out that intuitively feel that all animals possess. Deep knowledge of the terrain will let you process information faster than your enemy, a tremendous advantage. Getting a feel for the spirit of men and material, thinking your way into them instead of looking at them from outside, will help to put you in a different frame of mind.
+  - Get your mind into the habit of making lightning-quick decisions, trusting your fingertip feel. Your mind will advance in a mental blitzkrieg, moving past your opponents before they realize what has hit them.
 
 ## Create a Sense of Urgency and Desperation: The Death-Ground Strategy
 - You are your own worst enemy. You waste precious time dreaming of the future instead of engaging in the present. Since nothing seems urgent to you, you are only half involved in what you do. The only way to change is through action and outside pressure. Put yourself in situations where you have too much at stake to waste time or resources--if you cannot afford to lose, you won't. Cut your ties to the past; enter unknown territory where you must depend on your wits and energy to see you through. Place yourself on "death ground," where your back is against the wall and you have to fight like hell to get out alive.
