@@ -64,6 +64,15 @@ tags: ["valueinvesting", "investing"]
   - what's the plan to improve on-trade, off trade?
 - **what's the plan to implement ESOAP?**
   - currently, the company has no plan for ESOAP. However, they mentioned they have the plan for that, not sure when?
+- depreciation and amortization = khau hao va phan bo
+- capital spending = tien chi mua sam xay dung tai san co dinh = (accumulatd 2021 full year - accumulated 2021 quarter 3) + accumulated 2022 q3
+- interestg expense on debt = chi phi lai vay
+- EBITDA = EBIT + Depreciation + Interest Expense = loi nhuan ke toan truoc thue
+- cash and marketable securities = tien va cac khoan tuong duong tien + dau tu tai chinh ngan han?
+  - why plus dau tu tai chinh ngan han?
+- book value of debt = vay ngan han + vay va no thue tai chinh dai han
+  - why not total No phai tra -L line 300
+- check lai zoom 5?
 # Quotes
 
 
