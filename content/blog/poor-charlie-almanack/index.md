@@ -125,25 +125,38 @@ confusion of a complex investment problem into a clarified set of fundamentals. 
   - Guilt is caused by wanting to be consistent and reciprocate but also being pulled in the opposite direction by the reward super response tendency
 
 - **Influence-from-Mere-Association Tendency**
-“The most damaging miscalculations from mere association do not ordinarily come from advertisers and music providers. Some of the most important miscalculations come from what is accidentally associated with one’s past success, or one’s liking and loving, or one’s disliking and hating, which includes a natural hatred for bad news.”
-
-“People disagree about how much blindness should accompany the association called love. In Poor Richard’s Almanack Franklin counseled: ‘Keep your eyes wide open before marriage and half shut thereafter.’ Perhaps this ‘eyes-half-shut’ solution is about right, but I favor a tougher prescription: ‘See it like it is and love anyway.'”
-“The proper antidote to creating Persian Messenger Syndrome and its bad effects is to develop, through exercise of will, a habit of welcoming bad news.”
-“A final serious clump of bad thinking caused by mere association lies in the common use of classification stereotypes.”
+  - “The most damaging miscalculations from mere association do not ordinarily come from advertisers and music providers. Some of the most important miscalculations come from what is accidentally associated with one’s past success, or one’s liking and loving, or one’s disliking and hating, which includes a natural hatred for bad news.”
+  - “People disagree about how much blindness should accompany the association called love. In Poor Richard’s Almanack Franklin counseled: ‘Keep your eyes wide open before marriage and half shut thereafter.’ Perhaps this ‘eyes-half-shut’ solution is about right, but I favor a tougher prescription: ‘See it like it is and love anyway.'”
+  - “The proper antidote to creating Persian Messenger Syndrome and its bad effects is to develop, through exercise of will, a habit of welcoming bad news.”
+  - “A final serious clump of bad thinking caused by mere association lies in the common use of classification stereotypes.”
+  - We can be easily manipulated by mere association. It can be a group of people, the quality of a product, advertising, etc.
+  - "some of the most important miscalculations come from what is accidentally associated with one's past success, or one's liking and loving, or one's disliking and hating, which includes a natural hatred for bad news."
+  - Carefully examine each past success, looking for accidental, non-causative factors associated with the success that might mislead you to making correlative assumptions and look for dangerous aspects of the new undertaking that were not present when past success occurred
+  - Hating and disliking cause equally many miscalculations based on mere association
+    - Undervalue the competency and morals of people/businesses/products you dislike
+  - Must develop a habit of welcoming bad news in order to live in reality
+  - Be cautious of using classification stereotypes to judge others
 
 - **Simple, Pain-Avoiding Psychological Denial**
-“The reality is too painful to bear, so one distorts the facts until they become bearable.”
-
-“We all do that to some extent, often causing terrible problems. The tendency’s most extreme outcomes are usually mixed up with love, death, and chemical dependency.”
-“In chemical dependency, wherein morals usually break down horribly, addicted persons tend to believe that they remain in respectable condition, with respectable prospects. They thus display an extremely unrealistic denial of reality as they go deeper and deeper into deterioration.”
+  - “The reality is too painful to bear, so one distorts the facts until they become bearable.”
+  - “We all do that to some extent, often causing terrible problems. The tendency’s most extreme outcomes are usually mixed up with love, death, and chemical dependency.”
+  - “In chemical dependency, wherein morals usually break down horribly, addicted persons tend to believe that they remain in respectable condition, with respectable prospects. They thus display an extremely unrealistic denial of reality as they go deeper and deeper into deterioration.”
 
 - **Excessive Self-Regard Tendency**
-“We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side.”
+  - “We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side.”
+  - “Even man’s minor possessions tend to be overappraised. Once owned, they suddenly become worth more to him than he would pay if they were offered for sale to him and he didn’t already own them. There is a name in psychology for this overappraise-your-own-possessions phenomenon: the ‘endowment effect.’ And all man’s decisions are suddenly regarded by him as better than would have been the case just before he made them.”
+  - “Excessive Self-Regard Tendency diminishes the foolish bettor’s accuracy in appraising his relative degree of talent.”
+  - “There is a famous passage somewhere in Tolstoy that illuminates the power of Excessive Self-Regard Tendency. According to Tolstoy, the worst criminals don’t appraise themselves as all that bad. They come to believe either (1) that they didn’t commit their crimes or (2) that, considering the pressures and disadvantages of their lives, it is understandable and forgivable that they behaved as they did and became what they became.”
+  - “The best antidote to folly from an excess of self-regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and the value of your past and future activity. This isn’t easy to do well and won’t work perfectly, but it will work much better than simply letting psychological nature take its normal course.”
+  - We all think we’re above average. This is where overconfidence comes from. Also tend to over-appraise our belongings (endowment effect)
+    - If allow people to personalize anything (choose own numbers in the lottery, make own speculative bet) they will believe much more whole-heartedly that they will win
+  - The greatest type of pride should be taking pride in being trustworthy to avoid developing an ego
+  - Tend to like people more who are similar to ourselves and this leads to cliques
+  - Underweight face-to-face encounters and overweight an applicant's past record. **The past is the strongest indicator of future results**
+  - Fixable but unfixed bad performance is bad character and tends to create more of itself
+  - Do not give excuses, simply perform and behave as you should
+  - "Of all forms of pride, perhaps the most desirable is a justified pride in being trustworthy."
 
-“Even man’s minor possessions tend to be overappraised. Once owned, they suddenly become worth more to him than he would pay if they were offered for sale to him and he didn’t already own them. There is a name in psychology for this overappraise-your-own-possessions phenomenon: the ‘endowment effect.’ And all man’s decisions are suddenly regarded by him as better than would have been the case just before he made them.”
-“Excessive Self-Regard Tendency diminishes the foolish bettor’s accuracy in appraising his relative degree of talent.”
-“There is a famous passage somewhere in Tolstoy that illuminates the power of Excessive Self-Regard Tendency. According to Tolstoy, the worst criminals don’t appraise themselves as all that bad. They come to believe either (1) that they didn’t commit their crimes or (2) that, considering the pressures and disadvantages of their lives, it is understandable and forgivable that they behaved as they did and became what they became.”
-“The best antidote to folly from an excess of self-regard is to force yourself to be more objective when you are thinking about yourself, your family and friends, your property, and the value of your past and future activity. This isn’t easy to do well and won’t work perfectly, but it will work much better than simply letting psychological nature take its normal course.”
 
 - **Overoptimism Tendency**
 “Man displays not only Simple, Pain-Avoiding Psychological Denial but also an excess of optimism even when he is already doing well … an excess of optimism being the normal human condition, even when pain or the threat of pain is absent.”
