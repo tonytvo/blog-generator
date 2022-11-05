@@ -205,5 +205,9 @@ Greater Fool Game: buying a stock with the hopes a greater fool will quickly tak
 
 “Returns must always be examined in the context of risk.”
 
+# todo
+- review sven carlin summary
+
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/margin-of-safety-by-seth-klarman/)
+- [sven carlin summary](https://www.youtube.com/watch?v=TqCZDayTUi4&list=PLBmr55S1qNIUmEykffcKsp0Mtnc1GC7tP&index=1&t=0s)
