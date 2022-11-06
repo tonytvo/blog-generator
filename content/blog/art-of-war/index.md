@@ -256,7 +256,7 @@ tags: ["strategy"]
   - The key to the mission command is an overall group philosophy. This can be built around the cause you are fighting for or a belief in the evil of the enemy you face. It can also include the style of warfare--defensive, mobile, ruthlessly aggressive--that best suits it. You must bring the group together around this belief. Then, through training and creative exercises, you must deepen its hold on them and infuse it into their blood.
 
 ## Transform Your War into a Crusade: Morale Strategies
-- The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Involve them in a cause, a crusade against a hated enemy. Make them see their survival as tied to the success of the army as a whole.
+- The secret to motivating people and maintaining their morale is to get them to think less about themselves and more about the group. Involve them in a cause, a crusade against a hated enemy. Make them see their survival as tied to the army's success.
 - Lead from the front: let your soldiers see you in the trenches, making sacrifices for the cause.
 
 - **The Art of Man Management**
@@ -266,18 +266,19 @@ tags: ["strategy"]
   - **Step 2: Keep their bellies full.**
     - People cannot stay motivated if their material needs go unmet.
   - **Step 3: Lead from the front.**
-  - **Step 4: Concentrate their ch’i.**
+  - **Step 4: Concentrate on their ch’i.**
     - Idleness has a terrible effect on chi’i.
     - Keep your soldiers busy, acting for a purpose, moving in a direction.
   - **Step 6: Mix harshness and kindness.**
     - The key to man management is a balance of punishment and reward.
   - **Step 7: Build the group myth.**
-    - The armies with the highest morale are armies that have been tested in battle. Soldiers who have fought alongside one another through many campaigns forge a kind of group myth based on their past victories.
-    - To generate this myth, you must lead your troops into as many campaigns as you can. It is wise to start out with easy battles that they can win, building up their confidence.
+    - The armies with the highest morale have been tested in battle. Soldiers who have fought alongside one another through many campaigns forge a kind of group myth based on their past victories.
+    - To generate this myth, you must lead your troops into as many campaigns as possible. It is wise to start with easy battles they can win, building their confidence.
   - **Step 8: Be ruthless with grumblers.**
     - Above all else, pay attention to your staff.
-    - Morale is contagious, and you, as leader, set the tone.
-    - If aiming at emotions, you must aim indirectly: get them to laugh or cry over something that seems unrelated to the issue at hand. Emotions are contagious - they bring people together and make them bond.
+    - Morale is contagious, and you, as a leader, set the tone.
+    - If aiming at emotions, you must aim indirectly: get them to laugh or cry over something that seems unrelated to the issue. Emotions are contagious - they bring people together and make them bond.
+- 
 
 # Part III: Defensive Warfare
 - To fight defensively, you must make the most of your resources, fighting with perfect economy and only battles that are necessary.
