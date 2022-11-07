@@ -281,7 +281,7 @@ tags: ["strategy"]
 - 
 
 # Part III: Defensive Warfare
-- To fight defensively, you must make the most of your resources, fighting with perfect economy and only battles that are necessary.
+- To fight defensively, you must make the most of your resources, fighting with perfect economy and only necessary battles.
 - Second, you must know how and when to retreat, luring an aggressive enemy into an imprudent attack. Then, when exhausted, launch a vicious counterattack.
 - To fight this way, you must master the arts of deception.
 
