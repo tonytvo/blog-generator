@@ -159,17 +159,21 @@ confusion of a complex investment problem into a clarified set of fundamentals. 
 
 
 - **Overoptimism Tendency**
-“Man displays not only Simple, Pain-Avoiding Psychological Denial but also an excess of optimism even when he is already doing well … an excess of optimism being the normal human condition, even when pain or the threat of pain is absent.”
-
-“One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal, taught in my youth to high school sophomores.”
+  - “Man displays not only Simple, Pain-Avoiding Psychological Denial but also an excess of optimism even when he is already doing well … an excess of optimism being the normal human condition, even when pain or the threat of pain is absent.”
+  - “One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal, taught in my youth to high school sophomores.”
 
 - **Deprival-Superreaction Tendency**
-“I include the natural human reactions to both kinds of loss experience—the loss of the possessed reward and the loss of the almost-possessed reward—under one description, Deprival-Superreaction Tendency.”
+  - “I include the natural human reactions to both kinds of loss experience—the loss of the possessed reward and the loss of the almost-possessed reward—under one description, Deprival-Superreaction Tendency.”
 
-“The quantity of man’s pleasure from a ten-dollar gain does not exactly match the quantity of his displeasure from a ten-dollar loss. That is, the loss seems to hurt much more than the gain seems to help. Moreover, if a man almost gets something he greatly wants and has it jerked away from him at the last moment, he will react much as if he had long owned the reward and had it jerked away.”
-“In displaying Deprival-Superreaction Tendency, man frequently incurs disadvantage by misframing his problems. He will often compare what is near instead of what really matters.”
-“A man ordinarily reacts with irrational intensity to even a small loss, or threatened loss, of property, love, friendship, dominated territory, opportunity, status, or any other valued thing.”
-“It is almost everywhere the case that extremes of ideology are maintained with great intensity and with great antipathy to non-believers, causing extremes of cognitive dysfunction. This happens, I believe, because two psychological tendencies are usually acting concurrently toward this same sad result: (1) Inconsistency-Avoidance Tendency, plus (2) Deprival-Superreaction Tendency.”
+  - “The quantity of man’s pleasure from a ten-dollar gain does not exactly match the quantity of his displeasure from a ten-dollar loss. That is, the loss seems to hurt much more than the gain seems to help. Moreover, if a man almost gets something he greatly wants and has it jerked away from him at the last moment, he will react much as if he had long owned the reward and had it jerked away.”
+  - “In displaying Deprival-Superreaction Tendency, man frequently incurs disadvantage by misframing his problems. He will often compare what is near instead of what really matters.”
+  - “A man ordinarily reacts with irrational intensity to even a small loss, or threatened loss, of property, love, friendship, dominated territory, opportunity, status, or any other valued thing.”
+  - “It is almost everywhere the case that extremes of ideology are maintained with great intensity and with great antipathy to non-believers, causing extremes of cognitive dysfunction. This happens, I believe, because two psychological tendencies are usually acting concurrently toward this same sad result: (1) Inconsistency-Avoidance Tendency, plus (2) Deprival-Superreaction Tendency.”
+  - Loss aversion - having something taken away hurts more than being given something feels good
+    - Applies to things we already possess and those things we nearly possess
+    - Applies to property, love, friendship, territory, opportunity, status, anything that is valued
+  - One antidote to intense, deliberate maintenance of groupthink is an extreme culture of courtesy, kept in place despite ideological differences (Supreme Court) and the other is to deliberately bring in able and articulate disbelievers (devil's advocates)
+
 
 - **Social-Proof Tendency**
 “An automatic tendency to think and act as man sees others around him thinking and acting.”
