@@ -1,7 +1,7 @@
 ---
 title: phan tich tai chinh kinh doanh CGBA SAB - wip
 date: "2022-10-21T22:12:03.284Z"
-description: "phan tich tai chinh kinh doanh CGBA"
+description: "phan tich tai chinh kinh doanh CGBA SAB"
 tags: ["valueinvesting", "investing"]
 ---
 

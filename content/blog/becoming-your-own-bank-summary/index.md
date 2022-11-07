@@ -1,7 +1,7 @@
 ---
-title: becoming your own bank summary
+title: becoming your own bank by Nelson Nash summary
 date: "2022-10-21T22:12:03.284Z"
-description: "blue ocean strategy by Chan Kim summary"
+description: "becoming your own bank by Nelson Nash summary"
 tags: ["strategy"]
 ---
 
@@ -71,7 +71,7 @@ tags: ["strategy"]
 
 - There can be periods where expected earnings are lower; businesses would turn to stockholders in this case, but this does not work for life insurance. Instead, capital is added to counteract this. For example, if accountants report that they have collected $1.10 from someone’s policy but found they only needed 80 cents to deliver the benefit, then the directors would decide what to do with the 30 cents. Most would put a portion of this into a contingency fund for unexpected risk and distribute the remaining dividend. Distributing the dividend is not a taxable event. If the client used the dividend to purchase additional paid-up insurance, it would result in an “ever-increasing tax-deferred accumulation of cash values that support an ever-increasing death benefit”
 
-# human problems 
+# problems 
 
 - **understand parkinson's law**
   - Northcote Parkinson was a British essayist, lecturer, and economist who shared observations about human nature limitations. Some of these observations include:
@@ -111,6 +111,13 @@ tags: ["strategy"]
   - Nash compares this to the common potato. In the late 1500s, conquistadors of Spain were in South America looking for gold. They did not find gold but instead found potatoes. However, when potatoes were brought back to Europe, they were viewed as poisonous due to their scientific classification. However, over time they realized the value of the potato for consumption and medicinal means. A similar misunderstanding happened with the tomato plant as well. 
   - When choosing a plan to begin creating an entity with, it is best to select a close plan close to the Modified Endowment Contract (MEC) without crossing it. These are plans that are not treated as life insurance by the IRS. Therefore, these plans will be subject to taxation. 
   - For this reason, it is best to choose a plan in the middle of the scale (figure on pg. 70) and add [Paid-Up Additions](https://livingwealth.com/paid-up-additions-pua-explained/) to it. The base policy and the Paid-Up Additions will pay dividends that can be used to buy more Paid-Up Additions insurance. 
+- **problem with current banking system**
+  - Typical average young man is 29 years old and is making $28,500 per year after taxes — that is all he can spend. What does he do with the after-tax income? 20% is spent on transportation — 30% on housing — 45% on “living” (clothes, groceries, contributions to charitable causes, boat payments, casualty insurance on cars, vacations, etc.). Many of these items are financed by credit cards or bank notes. The balance is financed by paying cash for them — and thus, giving up interest that could be earned, otherwise. He is saving less than 5% of his after-tax income! (At the time of this writing he is saving absolutely nothing!) It is the first time in the history of America that this has happened. This scenario has all the ingredients for an impending disaster!
+  - The typical financing package for an automobile for this hypothetical person is $10,550 for 48 months with an interest rate of at least 8.5% and this produces a monthly payment of $260.00 per month. It is a fact that 95% of the cars that are traded in are not paid for. This means, at the end of 30 months, that 21% of every payment is interest – and this is a perpetual factor. It never seems to dawn on him that the volume of interest is the real issue, not the annual percentage rate.
+  - **This young man can qualify for a 30-year fixed-rate mortgage of about $93.000 at 7% APR with payments of $618.75 per month and closing costs of about $2,500.00. The problem is that within 5 years he will move to another city – maybe just move across town – or even refinance the mortgage. Something happens to a mortgage within 5 years. During the 60 months he has paid out $39,625, including closing costs but only $5,458 has gone to reduce the loan. This means that $34,167 has gone to interest and closing costs. Divide the amount paid out into the interest and closing costs and you find that 86% of every dollar paid out goes to the cost of financing! If he sells the house is less than 5 years, it is worse. This situation is also perpetual. He thinks he is buying a house, but all he is really doing is making the wheels of the banking business and the real estate business – in that order – turn. But, all the “financial experts”are advising him to indulge in this activity.**
+  - **Now, add up all the interest he is paying out and you find that 34.5% of every dollar paid out is interest. For the average All-American male this proportion never changes. Let’s assume that he is saving 10% of is disposable income (which he is not doing!). This would mean that we have a 3.45 to 1 ratio of interest paid out as compared to savings.**
+  - Everything you do in the financial world is compared with what everyone else is doing. In America, most folks are doing the equivalent of flying with a 345 mile per hour headwind. Isn’t it obvious, if you have a 345 mile per hour tailwind, that the difference between you and them is 690 miles per hour? In all three examples the capability of the airplane is the same — 100 miles per hour.
+  - Translate this example into the financial world and it is pretty obvious what is really going on. Many financial gurus are concentrating on encouraging people to “get out of debt” and that is a wonderful thing to do. In our airplane analogy that is the equivalent of flying with no headwind. But, I have yet to hear one of these folks recognize that the most profitable thing one can do is to create the perpetual “tailwind” to everything that you do financially. It seems that this thought never registers in their consciousness.
 
 # how to start building your own banking system
 
@@ -239,6 +246,25 @@ tags: ["strategy"]
 - **Modern western banks are a safer option**
   - This might be true in some cases. But if you tried using banks to access your capital, you most probably have found yourself in some kind of trouble and couldn’t access it in the desired way. Well, with IBC, that problem goes away – and guess what? It is a safer option when it comes to easy and secure access to the capital.
 
+# Examples
+
+## grocery
+
+- Nash looks at the process of getting into a business where you are a consumer and a seller at the same time. An excellent example of this is a grocery store because everyone consumes groceries, and everyone around you is a potential customer.
+
+- When you begin studying the grocery business, you find the things necessary to succeed in this field, including a good location, high-quality merchandise, attentive staff, fully stocked inventory, etc. All of this will cost a lot of money.
+
+- Once the operation is set up, the difference between the “front door” and “back door” helps determine how you will be living. For example, if you sell a can of peas for 60 cents at the front door, and replace it at the back door for 57 cents, then you must turn the inventory 15 times to break even; this is the interest you must pay on the money borrowed to set up the grocery operations. If you turn the inventory 17 times, you make a profit; if you turn it 20 times in a year, it can help pay for early retirement.
+
+- Next, Nelson asks you to imagine if you were a male, married with children, and your wife bought groceries at your store, would she take groceries from the front or back? Many admit that the wife would want to go out the back door instead. However, this type of behavior is theft and can encourage more theft amongst employees and customers.
+
+- Many believe that they can do whatever they want with their business. However, the ones that pay for this theft are the customers getting their merchandise from the front door, and your business will need to sell more products to make up the deficit. The more you make, the more the IRS will take from you; this is another reason people would want to go out the back door instead.
+
+- If there is a situation where the profits from the grocery sales are not subject to income taxes, one of the incentives to go out the back door is taken away. The only reason left is the human instinct to use the back door. However, you and your family (plus some others) are captive customers in this scenario. If you charge wholesale prices, you are not creating more proceeds for retirement income. Charging the retail price on the can of peas helps you buy more cans of peas to sell to other customers. If you continue to do this for an extended period, it will create a profit. This will also create more value and income when selling the business down the line.
+
+- When you sell your business many years later, you are in competition with others that have not obeyed these principles. He and his family members took goods out the back door. His record books will never look as good as yours. In fact, he will probably have gone out of business some years ago. Even if he is still around, can you guess which business will bring the better price? Yours! With the proceeds from the sale you can buy a huge annuity and have income deposited monthly directly to your bank account at retirement time.
+
+- Grocery stores are in the business of moving groceries to customers. When you sell something, you must replace the item to sell again. If you own the store don’t steal the peas. Banks are in the business of “renting money” to customers. When they lend money, they must get it back, with interest. If you own the bank don’t steal the money!
 
 # Quotes
 
@@ -283,6 +309,7 @@ Wealth will reside somewhere. It is up to you where you want it to reside. With 
 “Your need for finance, during your lifetime, exceeds your need for life insurance protection. If you solve your need for finance through life insurance cash values, you will end up with so much life insurance; you can’t get it past the underwriters. You will have to ensure every person in which you have an insurable interest” (pg. 158).
 
 # References
+- https://www.youtube.com/watch?v=FtqjARgA1I8
 - https://www.whitecoatinvestor.com/infinite-banking-bank-on-yourself/
 - https://medium.datadriveninvestor.com/infinite-banking-an-alternative-to-the-stock-market-3d3d64692d09
 - https://www.youtube.com/playlist?list=PLabDKeNku_F9SAigr3eelsoWhliOxmgkA
@@ -295,3 +322,4 @@ Wealth will reside somewhere. It is up to you where you want it to reside. With 
 - https://wealthnation.io/blog/life-insurance-dividends/
 - https://livingwealth.com/summary-book-becoming-your-own-banker/
 - https://www.youtube.com/watch?v=R6d8lJU2CkY
+- https://www.insuranceandestates.com/pros-and-cons-of-the-infinite-banking-concept/
