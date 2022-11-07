@@ -291,16 +291,16 @@ tags: ["strategy"]
 - No person or group is completely weak or strong. You must make sure to assess and attack weaknesses.
 
 - **Keys to Warfare**
-  - Creativity gives you an edge over enemies dependent on technology; you will learn more, be more adaptable, and you will outsmart them.
-  - The next time you launch a campaign, try an experiment: think deeply about what you have first, then, let your plans and goals blossom.
-  - Do not mistake cheapness for perfect economy.
+  - Creativity gives you an edge over enemies dependent on technology; you will learn more, be more adaptable, and outsmart them.
+  - The next time you launch a campaign, try an experiment: think deeply about what you have first, then let your plans and goals blossom.
+  - Do not mistake cheapness for the perfect economy.
   - Several tactics are key to fighting economically:
   - The use of deception.
   - Choosing opponents you can beat.
   - Look for new opportunities and build momentum.
 
 - **Reversal**
-  - There is no value in fighting without economy, but it is always wise to make your opponent waste as many resources as possible.
+  - There is no value in fighting without the economy, but it is always wise to make your opponent waste as many resources as possible.
 
 ## Turn the Tables: The Counterattack Strategy
 - Moving first will often put you at a disadvantage: you are exposing your strategy and limiting your options.
