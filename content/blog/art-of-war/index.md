@@ -331,9 +331,9 @@ tags: ["strategy"]
     - This reputation can be for any number of things: difficult, stubborn, violent, ruthlessly efficient. Build that image over the years, and people will back off you, treating you with respect and a little fear.
 
 ## Trade Space for Time: The Nonengagement Strategy
-- Retreat in the face of a strong enemy is a sign not of weakness but of strength. By resisting the temptation to respond to an aggressor, you buy yourself valuable time--time to recover, to think, to gain perspective. Let your enemies advance; time is more important than space. By refusing to fight, you infuriate them and feed their arrogance. They will soon overextend themselves and start making mistakes.
+- Retreat in the face of a strong enemy is a sign not of weakness but of strength. By resisting the temptation to respond to an aggressor, you buy yourself valuable time--time to recover, to think, and to gain perspective. Let your enemies advance; time is more important than space. By refusing to fight, you infuriate them and feed their arrogance. They will soon overextend themselves and start making mistakes.
 - **Keys to Warfare**
-- Your task as a strategist is simple: to see the differences between yourself and other people, to understand yourself, your side, and the enemy as well as you can, to get more perspective on events, to know things for what they are.
+- Your task as a strategist is simple: to see the differences between yourself and others, to understand yourself, your side, and the enemy as well as you can, to get more perspective on events, and to know things for what they are.
 
 
 # Part IV: Offensive Warfare
