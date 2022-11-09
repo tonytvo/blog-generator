@@ -304,15 +304,15 @@ tags: ["strategy"]
 
 ## Turn the Tables: The Counterattack Strategy
 - Moving first will often put you at a disadvantage: you are exposing your strategy and limiting your options.
-- Instead, let the other side move first, or bait opponents into rash attacks that will leave them in a weak position.
-- Playing weak and then catching them off guard with an attack is also a good tactic.
+- Instead, let the other side move first or bait opponents into rash attacks that will leave them weak.
+- Playing weak and catching them off guard with an attack is also a good tactic.
 - Make jujitsu your style in almost everything you do.
 
 - **Keys to Warfare**
-  - The first step in mastering the counterattack is to master yourself, and particularly the tendency to grow emotional in conflict.
-  - The key to the successful counterattack is staying calm while your opponent gets frustrated and irritable.
+  - The first step in mastering the counterattack is to master yourself, particularly the tendency to grow emotional in conflict.
+  - The key to a successful counterattack is staying calm while your opponent gets frustrated and irritable.
   - Mirroring people - going back to them just what they give to you - is a powerful method of counterattack.
-  - In general, encouraging people to follow their natural direction, to give in to their greed or neuroses, will die you more control over them than active resistance will.
+  - In general, encouraging people to follow their natural direction to give in to their greed or neuroses will die you more control over them than active resistance will.
   - The modern dilemma is that taking the offensive is unacceptable today--attack and your reputation will suffer, you will find yourself politically isolated, and you will create enemies and resistance. The counterattack is the answer. Let your enemy make the first move, then play the victim.
 
 ## Create a Threatening Presence: Deterrence Strategies
