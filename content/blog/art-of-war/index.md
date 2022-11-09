@@ -316,19 +316,19 @@ tags: ["strategy"]
   - The modern dilemma is that taking the offensive is unacceptable today--attack and your reputation will suffer, you will find yourself politically isolated, and you will create enemies and resistance. The counterattack is the answer. Let your enemy make the first move, then play the victim.
 
 ## Create a Threatening Presence: Deterrence Strategies
-- The best way to fight off aggressors is to keep them from attacking you in the first place. To accomplish this you must create the impression of being more powerful than you are. Build up a reputation: You're a little crazy. Fighting you is not worth it. You take your enemies with you when you lose.
-- This art of deterrence rests on three basic facts about war and human nature: First, people are more likely to attack you if they see you as weak or vulnerable. Second, they cannot know for sure that you're weak; they depend on the signs you give out, through your behavior both present and past. Third, they are after easy victories, quick and bloodless. That is why they prey on the vulnerable and weak.
+- The best way to fight off aggressors is to keep them from attacking you in the first place. To accomplish this, you must create the impression of being more powerful than you are. Build up a reputation: You're a little crazy. Fighting you is not worth it. You take your enemies with you when you lose.
+- This art of deterrence rests on three basic facts about war and human nature: First, people are more likely to attack you if they see you as weak or vulnerable. Second, they cannot know for sure that you're weak; they depend on the signs you give out through your present and past behaviour. Third, they are after easy victories, quick and bloodless. That is why they prey on the vulnerable and weak.
 - The following are five basic methods of deterrence and reverse intimidation. You can use them all in offensive warfare, but they are particularly effective in defence:
   - **Surprise with a bold maneuver.**
     - This will have two positive effects: First, they will tend to think your move is backed up by something real--they will not imagine you could be foolish enough to do something audacious just for effect. Second, they will start to see strengths and threats in you that they had not imagined.
   - **Reverse the threat.**
-    - Turn the tables with a sudden move designed to scare them. Threaten something they value. You needn’t go too far, just inflict a little pain to indicate you are capable of worse.
+    - Turn the tables with a sudden move designed to scare them. Threaten something they value. You needn’t go too far and inflict a little pain to indicate you can get worse.
   - **Seem unpredictable and irrational.**
-    - In this instance you do something suggesting a slightly suicidal streak, as if you felt you had nothing to lose. You show that you are ready to take your enemies down with you, destroying their reputations in the process. (This is particularly effective with people who have a lot to lose themselves--powerful people with sterling reputations.)
+    - In this instance, you do something suggesting a slightly suicidal streak, as if you felt you had nothing to lose. You show that you are ready to destroy your enemies' reputations. (This is particularly effective with people with a lot to lose themselves--powerful people with sterling reputations.)
   - **Play on people's natural paranoia.**
-    - Instead of threatening your opponents openly, you take action that is indirect and designed to make them think. This might mean using a go-between to send them a message--to tell some disturbing story about what you are capable of. Or maybe you “inadvertently” let them spy on you, only to hear something that should give them cause for concern.
+    - Instead of threatening your opponents openly, you take indirect action designed to make them think. This might mean using a go-between to send them a message--to tell some disturbing story about what you can do. Or maybe you “inadvertently” let them spy on you, only to hear something that should cause them concern.
   - **Establish a frightening reputation.**
-    - This reputation can be for any number of things: being difficult, stubborn, violent, ruthlessly efficient. Build up that image over the years and people will back off from you, treating you with respect and a little fear.
+    - This reputation can be for any number of things: difficult, stubborn, violent, ruthlessly efficient. Build that image over the years, and people will back off you, treating you with respect and a little fear.
 
 ## Trade Space for Time: The Nonengagement Strategy
 - Retreat in the face of a strong enemy is a sign not of weakness but of strength. By resisting the temptation to respond to an aggressor, you buy yourself valuable time--time to recover, to think, to gain perspective. Let your enemies advance; time is more important than space. By refusing to fight, you infuriate them and feed their arrogance. They will soon overextend themselves and start making mistakes.
