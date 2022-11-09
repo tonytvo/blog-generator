@@ -176,45 +176,50 @@ confusion of a complex investment problem into a clarified set of fundamentals. 
 
 
 - **Social-Proof Tendency**
-“An automatic tendency to think and act as man sees others around him thinking and acting.”
-
-“Triggering most readily occurs in the presence of puzzlement or stress, and particularly when both exist.”
-“Because both bad and good behavior are made contagious by Social-Proof Tendency, it is highly important that human societies (1) stop any bad behavior before it spreads and (2) foster and display all good behavior.”
-“In social proof, it is not only action by others that misleads but also their inaction. In the presence of doubt, inaction by others becomes social proof that inaction is the right course.”
-“Social-Proof Tendency often interacts in a perverse way with Envy/Jealousy and Deprival-Superreaction Tendency.”
+  - “An automatic tendency to think and act as man sees others around him thinking and acting.”
+  - “Triggering most readily occurs in the presence of puzzlement or stress, and particularly when both exist.”
+  - “Because both bad and good behavior are made contagious by Social-Proof Tendency, it is highly important that human societies (1) stop any bad behavior before it spreads and (2) foster and display all good behavior.”
+  - “**In social proof, it is not only action by others that misleads but also their inaction**. In the presence of doubt, inaction by others becomes social proof that inaction is the right course.”
+  - “Social-Proof Tendency often interacts in a perverse way with Envy/Jealousy and Deprival-Superreaction Tendency.”
+  - One of the most important skills you can foster is learning to ignore the examples of others when they are wrong
 
 - **Contrast-Misreaction Tendency**
-“Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: the contrast in what is seen is registered. And as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. The result is man’s Contrast-Misreaction Tendency.”
-
-“Contrast-Misreaction Tendency is routinely used to cause disadvantage for customers buying merchandise and services. To make an ordinary price seem low, the vendor will very frequently create a highly artificial price that is much higher than the price always sought, then advertise his standard price as a big reduction from his phony price.”
-“When a man’s steps are consecutively taken toward disaster, with each step being very small, the brain’s Contrast-Misreaction Tendency will often let the man go too far toward disaster to be able to avoid it. This happens because each step presents so small a contrast from his present position.”
+  - “Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: the contrast in what is seen is registered. And as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. What we see tends to be what we believe. The result is man’s Contrast-Misreaction Tendency.”
+  - “Contrast-Misreaction Tendency is routinely used to cause disadvantage for customers buying merchandise and services. To make an ordinary price seem low, the vendor will very frequently create a highly artificial price that is much higher than the price always sought, then advertise his standard price as a big reduction from his phony price.
+  - when something crappy is compared to something even crappier, it seems less crappy.
+  - “When a man’s steps are consecutively taken toward disaster, with each step being very small, the brain’s Contrast-Misreaction Tendency will often let the man go too far toward disaster to be able to avoid it. This happens because each step presents so small a contrast from his present position.”
 
 - **Stress-Influence Tendency**
-“Everyone recognizes that sudden stress, for instance from a threat, will cause a rush of adrenaline in the human body, prompting faster and more extreme reaction. And everyone who has taken Psych 101 knows that stress makes Social-Proof Tendency more powerful.”
-
-“In a phenomenon less well recognized but still widely known, light stress can slightly improve performance—say, in examinations—whereas heavy stress causes dysfunction.”
-“But few people know more about really heavy stress than that it can cause depression. For instance, most people know that an ‘acute stress depression’ makes thinking dysfunctional because it causes an extreme of pessimism, often extended in length and usually accompanied by activity-stopping fatigue.”
+  - “Everyone recognizes that sudden stress, for instance from a threat, will cause a rush of adrenaline in the human body, prompting faster and more extreme reaction. And everyone who has taken Psych 101 knows that stress makes Social-Proof Tendency more powerful.”
+  - “In a phenomenon less well recognized but still widely known, light stress can slightly improve performance—say, in examinations—whereas heavy stress causes dysfunction.”
+  - “But few people know more about really heavy stress than that it can cause depression. For instance, most people know that an ‘acute stress depression’ makes thinking dysfunctional because it causes an extreme of pessimism, often extended in length and usually accompanied by activity-stopping fatigue.”
+  - Pavlov found that he could classify dogs to predict how easily they would breakdown, the dogs hardest to break were also the hardest to return to pre-breakdown state, any dog could be broken and he couldn't reverse a breakdown without reimposing stress
 
 - **Availability-Misweighing Tendency**
-“Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it. And so the mind overweighs what is easily available and thus displays Availability-Misweighing Tendency.”
-
-“One consequence of this tendency is that extra-vivid evidence, being so memorable and thus more available in cognition, should often consciously be underweighed while less vivid evidence should be overweighed.”
-“The great algorithm to remember in dealing with this tendency is simple: An idea or a fact is not worth more merely because it is easily available to you.”
+  - “Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it. And so the mind overweighs what is easily available and thus displays Availability-Misweighing Tendency.”
+  - “One consequence of this tendency is that extra-vivid evidence, being so memorable and thus more available in cognition, should often consciously be underweighed while less vivid evidence should be overweighed.”
+  - “The great algorithm to remember in dealing with this tendency is simple: **An idea or a fact is not worth more merely because it is easily available to you.**”
+  - Checklists or a set of rules can help with this tendency.
+  - Embrace disconfirming evidence
+  - Surround yourself with people who are skeptical and who oppose your views
 
 - **Use-It-or-Lose-It Tendency**
-“All skills attenuate with disuse.”
-
-“Throughout his life, a wise man engages in practice of all his useful, rarely used skills, many of them outside his discipline, as a sort of duty to his better self. If he reduces the number of skills he practices and, therefore, the number of skills he retains, he will naturally drift into error from man with a hammer tendency.”
-“The hard rule of Use-It-or-Lose-It Tendency tempers its harshness for the diligent. If a skill is raised to fluency, instead of merely being crammed in briefly to enable one to pass some test, then the skill (1) will be lost more slowly and (2) will come back faster when refreshed with new learning. These are not minor advantages, and a wise man engaged in learning some important skill will not stop until he is really fluent in it.”
+  - “All skills attenuate with disuse.”
+  - “Throughout his life, a wise man engages in practice of all his useful, rarely used skills, many of them outside his discipline, as a sort of duty to his better self. If he reduces the number of skills he practices and, therefore, the number of skills he retains, he will naturally drift into error from man with a hammer tendency.”
+  - “The hard rule of Use-It-or-Lose-It Tendency tempers its harshness for the diligent. If a skill is raised to fluency, instead of merely being crammed in briefly to enable one to pass some test, then the skill (1) will be lost more slowly and (2) will come back faster when refreshed with new learning. These are not minor advantages, and a wise man engaged in learning some important skill will not stop until he is really fluent in it.”
+  - Consistently practice skills that you can't afford to lose
+  - Create checklists to routinely use
+  - If you truly understand the skill, instead of just cramming it in, you will lose it
+more slowly and it will come back quicker when refreshed
 
 - **Drug-Misinfluence Tendency**
-“This tendency’s destructive power is so widely known to be intense, with frequent tragic consequences for cognition and the outcome of life, that it needs no discussion here to supplement that previously given under Simple, Pain-Avoiding Psychological Denial.”
+  - “This tendency’s destructive power is so widely known to be intense, with frequent tragic consequences for cognition and the outcome of life, that it needs no discussion here to supplement that previously given under Simple, Pain-Avoiding Psychological Denial.”
+  - Avoid drugs at all costs
 
 - **Senescence-Misinfluence Tendency**
-“With advanced age, there comes a natural cognitive decay, differing among individuals in the earliness of its arrival and the speed of its progression.”
-
-“Practically no one is good at learning complex new skills when very old. But some people remain pretty good in maintaining intensely practiced old skills until late in life.”
-“Continuous thinking and learning, done with joy, can somewhat help delay what is inevitable.”
+  - “With advanced age, there comes a natural cognitive decay, differing among individuals in the earliness of its arrival and the speed of its progression.”
+  - “Practically no one is good at learning complex new skills when very old. But some people remain pretty good in maintaining intensely practiced old skills until late in life.”
+  - “Continuous thinking and learning, done with joy, can somewhat help delay what is inevitable.”
 
 - **Authority-Misinfluence Tendency**
 “Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man.”
