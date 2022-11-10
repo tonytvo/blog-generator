@@ -337,7 +337,7 @@ tags: ["strategy"]
 
 
 # Part IV: Offensive Warfare
-- The greatest dangers in war, and in life, come from the unexpected: people do not respond the way you had thought they would, events mess up your plans and produce confusion, circumstances are overwhelming.
+- The greatest dangers in war and life come from the unexpected: people do not respond the way you had thought they would, events mess up your plans and produce confusion, and circumstances are overwhelming.
 - In strategy, the discrepancy between what you want to happen and what does happen is called friction.
 - The idea behind conventional offensive warfare is simple: by attacking the other side first, you create your own circumstances before friction can creep in.
 - To be successful at offensive warfare, you must plan in intense detail, thinking in terms of the whole campaign, not individual battles.
