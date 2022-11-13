@@ -24,6 +24,13 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
   - too many R!!, is there better way make it smaller?
   - what're the languages that I want to use for most of my kata outside of java?
     - seems like typescript is a good one where I can leverage union types and functional libraries from the community
+  - what is monoid?
+    - *"A monad is a construction that, given an underlying type system, embeds a corresponding type system into it. This monadic type system preserves all significant aspects of the underlying type system while adding features particular to the monad."*
+    - looks like some Ring/Identiy theory
+    - monoids are good for reducing function arguments
+      - through currying
+      - or thinking of function parameters as pre-constructor applied
+    - https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html
 
 # References
 - https://blog.ninjaferret.co.uk/2015/06/05/Introducing-Functional-Calisthenics.html
