@@ -87,3 +87,12 @@ tags: ["valueinvesting", "investing"]
 - https://www.youtube.com/watch?v=MR8m6AV5iK
 - https://www.youtube.com/watch?v=4XrWeSZO3qI
 - https://www.youtube.com/watch?v=r1GeHPBqmbY
+- https://valueinvesting.substack.com/p/sabeco
+- https://www.sabeco.com.vn/en-US/media/company-news/en-agm-2022
+- https://vir.com.vn/sabeco-sitting-in-good-stead-for-2022-92845.html
+- https://foodnhotelvietnam.com/2022/04/12/sabeco-dat-ke-hoach-lai-gan-4-600-ty-dong/?lang=en
+- https://en.vietstock.vn/970-441558/brewing-up-change-with-modern-strategy.htm
+- https://www.reuters.com/article/us-heineken-vietnam-idUSKCN1T5321
+- https://www.just-drinks.com/analysis/the-battle-for-beer-dominance-in-vietnam-market-data/
+- https://cafef.vn/ve-tay-thaibev-doanh-thu-sabeco-ngay-cang-thut-lui-so-voi-heineken-thi-phan-lon-hon-nhung-lai-chi-bang-nua-2021081316423239.chn
+- https://e.theleader.vn/heineken-vietnam-reaped-hefty-profit-despite-still-modest-market-share-1537502321036.htm
