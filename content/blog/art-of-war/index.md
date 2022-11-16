@@ -368,15 +368,15 @@ tags: ["strategy"]
 
 ## Know Your Enemy: The Intelligence Strategy
 - The target of your strategies should be less the army you face than the mind of the man or woman who runs it. If you understand how that mind works, you have the key to deceiving and controlling it.
-- Our natural tendency is to see other people as mere reflections of our own desires and values.
-- The best way to find the leader's weaknesses is not through spies but through the close embrace. Behind a friendly, even subservient front, you can observe your enemies, get them to open up and reveal themselves. Get inside their skin; think as they think. Once you discover their vulnerability--an uncontrollable temper, a weakness for the opposite sex, a gnawing insecurity--you have the material to destroy them.
+- Our natural tendency is to see other people as mere reflections of our desires and values.
+- The best way to find the leader's weaknesses is not through spies but through a close embrace. Behind a friendly, even subservient front, you can observe your enemies and get them to open up and reveal themselves. Get inside their skin; think as they think. Once you discover their vulnerability--an uncontrollable temper, a weakness for the opposite sex, a gnawing insecurity--you have the material to destroy them.
 - **Keys to Warfare**
-  - The greatest power you could have in life would come neither from limitless resources nor even consummate skill in strategy. It would come from clear knowledge of those around you--the ability to read people like a book.
+  - The greatest power you could have in life would come neither from limitless resources nor even consummate skill in strategy. It would come from a clear knowledge of those around you--the ability to read people like a book.
   - In general, it is easier to observe people in action, particularly in moments of crisis. Those are the times when they either reveal their weakness or struggle so hard to disguise it that you can see through the mask.
   - A warning: never rely on one spy, one source of information, no matter how good. You risk being played or getting slanted, one-sided information.
-  - Finally, the enemy you are dealing with is not an inanimate object that will simply respond in an expected manner to your strategies. Your enemies are constantly changing and adapting to what you are doing. Innovating and inventing on their own, they try to learn from their mistakes and from your successes. So your knowledge of the enemy cannot be static. Keep your intelligence up to date, and do not rely on the enemy's responding the same way twice.
+  - Finally, the enemy you are dealing with is not an inanimate object that will respond expectedly to your strategies. Your enemies are constantly changing and adapting to what you are doing. Innovating and inventing on their own, they try to learn from their mistakes and your successes. So your knowledge of the enemy cannot be static. Keep your intelligence up to date, and do not rely on the enemy's responding the same way twice.
 - **Reversal**
-  - Even as you work to know your enemies, you must make yourself as formless and difficult to read as possible. Since people really only have appearances to go on, they can be readily deceived. Act unpredictably now and then.
+  - Even as you work to know your enemies, you must make yourself as formless and difficult to read as possible. Since people only have appearances to go on, they can be readily deceived. Act unpredictably now and then.
 
 ## Overwhelm Resistance with Speed and Suddenness: The Blitzkrieg Strategy
 - In a world in which many people are indecisive and overly cautious, the use of speed will bring you untold power.
