@@ -379,12 +379,12 @@ tags: ["strategy"]
   - Even as you work to know your enemies, you must make yourself as formless and difficult to read as possible. Since people only have appearances to go on, they can be readily deceived. Act unpredictably now and then.
 
 ## Overwhelm Resistance with Speed and Suddenness: The Blitzkrieg Strategy
-- In a world in which many people are indecisive and overly cautious, the use of speed will bring you untold power.
+- In a world where many people are indecisive and overly cautious, using speed will bring you untold power.
 - This strategy works best with a setup, a lull - your unexpected action catches your enemy off guard.
-- We live in a world in which speed is prized above almost all else, and acting faster than the other side has itself become the primary goal. But most often people are merely in a hurry, acting and reacting frantically to events, all of which makes them prone to error and wasting time in the long run. In order to separate yourself from the pack, to harness a speed that has devastating force, you must be organized and strategic. First, you prepare yourself before any action, scanning your enemy for weaknesses. Then you find a way to get your opponents to underestimate you, to lower their guard. When you strike unexpectedly, they will freeze up. When you hit again, it is from the side and out of nowhere. It is the unanticipated blow that makes the biggest impact.
+- We live in a world where speed is prized above almost all else and acting faster than the other side has become the primary goal. But most often, people are merely in a hurry, acting and reacting frantically to events, making them prone to error and wasting time in the long run. To separate yourself from the pack, to harness a speed that has devastating force, you must be organized and strategic. First, you prepare before any action, scanning your enemy for weaknesses. Then you find a way to get your opponents to underestimate you, to lower their guard. When you strike unexpectedly, they will freeze up. When you hit it again, it is from the side and out of nowhere. It is the unanticipated blow that makes the biggest impact.
 - **Keys to Warfare**
-  - Velocity creates a sense of vitality. Moving with speed means there is less time for you and your army to make mistakes. It also creates a bandwagon effect: more and more people admiring your boldness, will decide to join forces with you.
-  - This strategy can be particularly devastating for those who are particularly hesitant or afraid of making mistakes, or those who have divided leadership or internal cracks.
+  - Velocity creates a sense of vitality. Moving with speed means there is less time for you and your army to make mistakes. It also creates a bandwagon effect: more and more people admiring your boldness will decide to join forces with you.
+  - This strategy can be devastating for those who are hesitant or afraid of making mistakes or those who have divided leadership or internal cracks.
 - **Reversal**
   - Appearing slow can be an advantage, particularly as a setup.
   - In general, when facing a fast enemy, the only true defence is to be faster.
