@@ -14,7 +14,7 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
     - https://blog.ninjaferret.co.uk/2015/06/05/Introducing-Functional-Calisthenics.html
     - https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
   - fp-ts with state monoid is pretty crazy and pretty fun
-  - https://github.com/tonytvo/marsrover-kata/pull/1
+  - https://github.com/tonytvo/abc-kata/pull/1
 
 - Questions/thoughts
   - review objects cathestic, functional cathestic and arlo commit notation.
@@ -37,7 +37,7 @@ tags: ["evolutionarydesign", "tdd", "algorithm"]
   - it turns out that Blocks concept are helpful in keeping the rules and code in sync
   - as long as there one letter that can't be built/match with anyblock, return error instead of throw new error
   - state monoid seems to be keep repeating as a way to keep tracking of changing mutable state.
-  - state interface argument list seems to be switching back and forth, which is weird
+  - getting confuse between the finalState and Output of StateMonoid interface
   - https://dev.to/derp/state-monad-in-fp-ts-5c79
 
 # References
