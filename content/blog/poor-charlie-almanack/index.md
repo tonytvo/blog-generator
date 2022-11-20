@@ -182,6 +182,7 @@ confusion of a complex investment problem into a clarified set of fundamentals. 
   - “**In social proof, it is not only action by others that misleads but also their inaction**. In the presence of doubt, inaction by others becomes social proof that inaction is the right course.”
   - “Social-Proof Tendency often interacts in a perverse way with Envy/Jealousy and Deprival-Superreaction Tendency.”
   - One of the most important skills you can foster is learning to ignore the examples of others when they are wrong
+  - “Another advantage of scale comes from psychology. The psychologists use the term ‘social proof.’ We are all influenced—subconsciously and, to some extent, consciously—by what we see others do and approve.”
 
 - **Contrast-Misreaction Tendency**
   - “Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: the contrast in what is seen is registered. And as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. What we see tends to be what we believe. The result is man’s Contrast-Misreaction Tendency.”
@@ -222,34 +223,35 @@ more slowly and it will come back quicker when refreshed
   - “Continuous thinking and learning, done with joy, can somewhat help delay what is inevitable.”
 
 - **Authority-Misinfluence Tendency**
-“Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man.”
-
-“But automatic as most human reactions are, with the tendency to follow leaders being no exception, man is often destined to suffer greatly when the leader is wrong or when his leader’s ideas don’t get through properly in the bustle of life and are misunderstood. And so, we find much miscognition from man’s Authority-Misinfluence Tendency.”
+  - “Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man.”
+  - “But automatic as most human reactions are, with the tendency to follow leaders being no exception, man is often destined to suffer greatly when the leader is wrong or when his leader’s ideas don’t get through properly in the bustle of life and are misunderstood. And so, we find much miscognition from man’s Authority-Misinfluence Tendency.”
+  - Be careful who you put in power because they will be hard to remove and have a
+lot of influence over their followers
 
 - **Twaddle Tendency**
-“Man, as a social animal who has the gift of language, is born to prattle and to pour out twaddle that does much damage when serious work is being attempted.”
-
-“Some people produce copious amounts of twaddle and others very little.”
-“It’s a very important part of wise administration to keep prattling people, pouring out twaddle, far away from the serious work.”
+  - “Man, as a social animal who has the gift of language, is born to prattle and to pour out twaddle that does much damage when serious work is being attempted.”
+  - “Some people produce copious amounts of twaddle and others very little.”
+  - “It’s a very important part of wise administration to keep prattling people, pouring out twaddle, far away from the serious work.”
 
 - **Reason-Respecting Tendency**
-“There is in man, particularly one in an advanced culture, a natural love of accurate cognition and a joy in its exercise.”
-
-“This tendency has an obvious implication. It makes man especially prone to learn well when a would-be teacher gives correct reasons for what is taught, instead of simply laying out the desired belief ex cathedra with no reasons given. Few practices, therefore, are wiser than not only thinking through reasons before giving orders but also communicating these reasons to the recipient of the order.”
-“Unfortunately, Reason-Respecting Tendency is so strong that even a person’s giving of meaningless or incorrect reasons will increase compliance with his orders and requests.”
+  - “This tendency has an obvious implication. It makes man especially prone to learn well when a would-be teacher gives correct reasons for what is taught, instead of simply laying out the desired belief ex cathedra with no reasons given. Few practices, therefore, are wiser than not only thinking through reasons before giving orders but also communicating these reasons to the recipient of the order.”
+  - “Unfortunately, Reason-Respecting Tendency is so strong that even a person’s giving of meaningless or incorrect reasons will increase compliance with his orders and requests.”
+  - Few practices are wiser than not only thinking through reasons before giving orders but also communicating these reasons to the recipient of the order
+  - Must tell Who was to do What, Where, When and Why
+  - Continuously ask "Why?" of everything and everyone
+  - Reasons, even poor/meaningless reasons, will increase compliance in others
+  - Some people just want the answers, not the reasons or a better understanding.
 
 - **Lollapalooza Tendency**
-“The tendency to get extreme consequences from confluences of psychology tendencies acting in favor of a particular outcome.”
-
-“This tendency was not in any of the psychology texts I once examined, at least in any coherent fashion, yet it dominates life.
-
-“The most important thing to keep in mind is the idea that especially big forces often come out of these one hundred models. When several models combine, you get lollapalooza effects; this is when two, three, or four forces are all operating in the same direction. And, frequently, you don’t get simple addition. It’s often like a critical mass in physics where you get a nuclear explosion if you get to a certain point of mass—and you don’t get anything much worth seeing if you don’t reach the mass. Sometimes the forces just add like ordinary quantities and sometimes they combine on a breakpoint or critical-mass basis … Really big effects, lollapalooza effects, will often come only from large combinations of factors (factors which reinforce and greatly amplify each other).”
+  - “The tendency to get extreme consequences from confluences of psychology tendencies acting in favor of a particular outcome.”
+  - “This tendency was not in any of the psychology texts I once examined, at least in any coherent fashion, yet it dominates life.
+  - “The most important thing to keep in mind is the idea that especially big forces often come out of these one hundred models. When several models combine, you get lollapalooza effects; this is when two, three, or four forces are all operating in the same direction. And, frequently, you don’t get simple addition. It’s often like a critical mass in physics where you get a nuclear explosion if you get to a certain point of mass—and you don’t get anything much worth seeing if you don’t reach the mass. Sometimes the forces just add like ordinary quantities and sometimes they combine on a breakpoint or critical-mass basis … Really big effects, lollapalooza effects, will often come only from large combinations of factors (factors which reinforce and greatly amplify each other).”
 
 - **Inversion:**
-“‘Invert, always invert,’ Jacobi said. He knew that it is in the nature of things that many hard problems are best solved when they are addressed backward … It is not enough to think problems through forward. You must also think in reverse.”
+  - “‘Invert, always invert,’ Jacobi said. He knew that it is in the nature of things that many hard problems are best solved when they are addressed backward … It is not enough to think problems through forward. You must also think in reverse.”
 
 - **Circle of Competence:**
-“You have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence … Rise quite high in life by slowly developing a circle of competence—which results partly from what they were born with and partly from what they slowly develop through work … In effect, you’ve got to know what you know and what you don’t know. What could possibly be more useful in life than that?”
+  - “You have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction that you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence … Rise quite high in life by slowly developing a circle of competence—which results partly from what they were born with and partly from what they slowly develop through work … In effect, you’ve got to know what you know and what you don’t know. What could possibly be more useful in life than that?”
 
 - **Compound Interest:**
   - “Understanding both the power of compound interest and the difficulty of getting it is the heart and soul of understanding a lot of things.”
@@ -299,9 +301,6 @@ more slowly and it will come back quicker when refreshed
 - **Unreliability:**
   - “Reliability is essential for progress in life and while quantum mechanics is unlearnable for a vast majority, reliability can be learned to great advantage by almost anyone.”
 
-- **Social Proof:**
-  - “Another advantage of scale comes from psychology. The psychologists use the term ‘social proof.’ We are all influenced—subconsciously and, to some extent, consciously—by what we see others do and approve.”
-
 - **Pavlovian Association:**
   - “If people tell you what you really don’t want to hear—what’s unpleasant—there’s an almost automatic reaction of antipathy. You have to train yourself out of it.”
 
@@ -312,7 +311,7 @@ more slowly and it will come back quicker when refreshed
   - “The tendency of humans, under some circumstances, to resemble lemmings, explains foolish thinking of brilliant men and much foolish behavior.”
 
 - **Reduce Material Needs:**
-- “Most people will see declining returns (due to inflation). One of the great defenses if you’re worried about inflation is not to have a lot of silly needs in your life—you don’t need a lot of material goods.”
+  - “Most people will see declining returns (due to inflation). One of the great defenses if you’re worried about inflation is not to have a lot of silly needs in your life—you don’t need a lot of material goods.”
 
 # charlie's checklist
 
@@ -387,8 +386,136 @@ more slowly and it will come back quicker when refreshed
   - Apply elementary multidisciplinary wisdom, never relying entirely upon others
   - Watch for combinations of factors - the Lollapalooza Effect
 
-#  todo
-- review more summary notes
+# Charlie's talks
+
+- ***[Harvard School Commencement Speech 1986 - A Guide to Misery](https://www.scribd.com/document/110302239/Munger-Talk-at-Harvard-Westlake)***
+  - **Munger "inverts" as he often does** and instead of offering tips for a happy life, offers **sure fire ways to be miserable, namely - ingest chemicals, envy others, resent others, be unreliable, don't learn from others mistakes, give up after getting knocked down one, two or three times, do not look at problems backward (do not invert), do not look for evidence that disconfirms your beliefs, don't aim to minimize objectivity**.
+
+- ***[A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business](https://ritholtz.com/2012/02/a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment-management-business/)***
+  - **Can't simply know isolated facts, they must hang together on a "latticework" of theory** 
+  - Must have multiple mental models to draw upon in order to avoid the fallacy of "everything looking like a nail to the man who has a hammer."
+  - In investing, need the mental models of math, accounting, always communicate the why with yourself and others, engineering, biology/physiology, psychology (especially of misjudgment)
+  - **He uses a two track analysis - thinks of factors that really govern the interests involved as well as the subconscious influences**
+  - Microeconomics, advantages of scale are ungodly important (geometry, information advantage, social proof, specialization)
+  - As you get bigger though, you also get bureaucracy and other limiting factors, Pavlovian association (dislike those who being bad news)
+  - The absence of change is often the friend of investors (Wrigley's gum...)
+  - **You've got to figure out where you've got an edge. And you've got to play within your own circle of competence**
+  - "It's not given to human beings to have such talent that they can just know everything about everything all the time. But it is a given to human beings who work hard at it - who
+look and soft the world for a mispriced bet - that they can occasionally fine one. And the wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time they don't. It's just that simple."
+  - **Getting the incentives right is a very, very important lesson.**
+  - The trick is getting into better businesses since over the long term you will not make a return much different than what the underlying business earns. Recommends trying to find great businesses when they're still small - something he might do if he were young but BRK can't do that
+  - Management matters but if you have to bet on business momentum or the managers, bet
+on momentum
+  - Great companies that can raise prices but haven't, pricing power, are no brainers. For a while, Disney was an example of this
+  - How Warren and Charlie evaluate a possible acquisition - "We're light on financial yardsticks; we apply lots of subjective criteria. Can we trust management? Can it harm our reputation? What can go wrong? Do we understand the business? Does it require capital infusions to keep going? What is the expected cash flow? We don't expect linear growth; cyclically is fine as long as the price is appropriate."
+  - **In a career look for 3 things - don't sell anything you wouldn't buy yourself, don't work for anyone you don't respect or admire, work only with people you enjoy.**
+  - To cope with challenges - set expectations low, have a sense of humor, learn to live with change and adapt to it and surround yourself with the love of friends and family
+
+- [A Lesson on elementary, Worldly Wisdom, Revisited](https://jameslau88.com/2020/05/12/charlie-munger-on-worldly-wisdom-revisited-december-29-1997/)
+  - **Speaks again of the importance of learning and utilizing many different mental models in your decision making process**
+  - Heavy ideology is one of the most extreme distorters of human cognition
+  - Life is one damn relatedness after another - hence, the importance of utilizing many mental models
+  - **Psychology may be the most important mental model to grasp. The misery-caused mental misdirection and incentives should both be highlighted**
+  - **Must develop a mental model checklist**. Having this to rely upon will save you when others are losing their minds
+  - It's much better to let some things go uncompensated - to let life be hard - than to create systems that are easy to cheat.
+  - **If you want to change behavior you have to change motivations**
+  - We simply look for no brainers....we've succeeded by making the world easy for ourselves, not by solving hard problems.
+  - "I'm just trying to give you a method you can use to sift reality to obtain an occasional opportunity for rational reaction."
+  - Both Warren and I are very good at changing our prior conclusions. We work at developing that facility because, without it, disaster often comes
+  - **"I don't want you to think we have any way of learning or behaving so you won't make a lot of mistakes. I'm just saying that you can learn to make fewer mistakes than other people - and how to fix your mistakes faster when you do make them."**
+  - "In life you've got to know what you know and what you don't know. What could possibly be more useful in life than that?"
+  - **When you don't have any special competence, don't be afraid to say so**
+  - If you're forced to reach a bit in your thinking, the idea gets pounded in better
+  - What works best in most cases is to appeal to a man's interests
+  - The human mind is not constructed so that it works well without having reasons
+  - **Is there something you [Munger] are irrationally passionate about? - "yeah, I'm passionate about wisdom. I'm passionate about accuracy and some kinds of curiosity...I believe in the discipline of mastering the best that other people have figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart..."** 
+  - Aim to make human systems as cheating-proof as possible even if it leaves some human misery unfixed
+
+- [Practical Thought about practical thought](http://www.nasdaq.com/article/practical-thought-about-charlie-mungers-practical-thought-about-practical-thought-cm342375)
+  - **The first helpful notion is that it is usually best to simplify problems by deciding big "no-brainer" questions first**
+  - The importance of numerical fluency cannot be overemphasized
+  - Invert, always invert. Many problems cannot be solved thinking forward, you just approach them by thinking backwards. What must you avoid because you don't want it?
+  - The best and most practical wisdom is elementary academic wisdom but you must think in a multidisciplinary manner
+  - **Lollapalooza effects, very big effects, tend to only come from large combinations of factors**
+  - The best way to avoid envy, recognized by Aristotle, is to plainly deserve the success we get
+  - [the need for more multidisciplinary skills from prefessionals](https://100investmentbooksayear.wordpress.com/2014/11/19/review-charles-mungers-the-need-for-more-multidisciplinary-skills-from-professionals-educational-implications-1998/)
+  - Multidisciplinary approach helps alleviate incentive caused bias (what good for professional is not necessarily good for the client) and it gives you more tools to work with
+  - Uses pilot training as the gold standard for training multidisciplinary skills. It covers 6 elements - wide enough to cover practically everything useful in piloting, learned
+knowledge must reach practice based fluency, must be able to think in forward and reverse fashions, most important training gets the most time, checklist routines are mandatory, consistent and specific training to prevent atrophy
+  - Schools must interweave classes so that they combine multiple disciplines in their teachings to give students a more complete education
+  - **The fundamental organizing ethos - use and rank disciplines in order of fundamentals, master to rested fluency and routinely use the truly essential parts of chemistry, math, physics and engineering, must explain things in the simplest way (may not be the discipline you are most comfortable with), if step 3 doesn't work you must hypothesize and test to establish new principles**
+  - To be successful must take a simple idea and take it very seriously
+  - **Why are multidisciplinary skills important?**
+    - **They are able to bring together a number of ideas and perspectives from across different subjects, and therefore may be able to offer alternative ways of looking at issues or problems. This can help identify new, innovative solutions to particular situations.**
+  - **How can I improve my multidisciplinary skills?**
+    - Understand who does what and why. Members of a multidisciplinary team will have different qualifications, training, and methods of working. ...
+    - Learn from each other.
+    - Respect other points of view.
+    - Prevent power struggles.
+    - Cut the confusing jargon.
+    - Build a community within the workplace.
+    - Use the right communication tools.
+
+- [investment practices of leading charitable foundations - 1998](http://www.valuewalk.com/2014/06/vault-charlie-munger-institutional-funds-management/)
+  - **An excess of professionalism may hurt you horribly precisely because the careful procedures themselves often lead to overconfidence in their outcome**
+  - It is a law that half the population is below average yet 90% think themselves above it
+  - Biological creatures ordinarily prefer minimization in routine activities and don't like removals of long-enjoyed benefits
+  - Most good things have undesired side effects and thinking is no exception. Must be extremely self critical - you must not fool yourself and you are the easiest person to fool (Feynman)
+  - ***Pari-mutuel analogy to stock market*** - a horse (company) may clearly be a favorite but the odds (price) are such that decision in which horse to bet on (invest) is not so obvious
+  - [breakfast meeting of philanthropy round table](http://mungerisms.blogspot.com/2009/09/philanthropy-round-table.html)
+    - Has never tried to make a single dollar, ever, from foreseeing macroeconomic changes I think that one should recognize reality even when one doesn't like it, indeed, especially when one doesn't like it. Also, I think one should cheerfully endure paradox that one can't remove by good thinking
+    - Wealth effects have some disgusting effects on spending and aren't taken into account.
+    - Most foundations are unwise through failure to understand their own investment operations, related to a larger system
+    - It is paradoxical and disturbing to us that economists have long praised foolish spending as a necessary ingredient of a successful economy. Let us call foolish expenditures “foolexures”
+    - "Febezzlement" from excessive investment costs has significant macroeconomic effects
+  - Quant Tech thought experiment - never let improper accounting start (stock options should be accounted for as expenses)
+  - The social system is fair enough that almost all massive cheating ends in disgrace
+  - Standard accounting treatment for stock options is functionally equivalent to simpler types of promotional fraud
+  - **Moral - honesty is the best policy**
+
+- [Academic Economics: Strengths and Faults After Considering Interdisciplinary Needs](http://www.tilsonfunds.com/MungerUCSBspeech.pdf)
+  - Speaks about the weaknesses of economics and proposes a multidisciplinary focus instead
+  - "I also was born with a huge craving for synthesis. And when it didn't come easily, which was often, I would rag the problem, and then when I failed, I would put it aside, and I'd come back to it and rag it again."
+  - **You've got to know all the big ideas in all the disciplines more fundamental than your own**
+  - **Taking opportunity costs into consideration and understanding the nature of incentives are superpowers**
+  - Practically everyone overweighs the stuff that can be numbered because it yields to the statistical techniques they're taught in academia and don't mix in the hard to measure stuff that may be more important
+  - Use all knowledge plus extreme reductionism when possible
+  - **I'd rather be generally right than precisely wrong**
+  - Extreme success is likely to be caused by some combination of the following factors -extreme maximization or minimization of one or two variables (Costco and Nebraska furniture mart), adding success factors so that a bigger combination drives success and often in a nonlinear fashion, an extreme of good performance over many factors (Toyota and Les Schwab), catching and riding some big wave (oracle)
+  - **You must take into consideration second and third order consequences**
+  - All human systems are gamed - [Niederhoffering](http://en.wikipedia.org/wiki/Roy_Niederhoffer)
+    - Niederhoffer got to Harvard and didn't want to work very hard for A's. Noticed that the grad students who worked so hard always got A's in their classes, so he only signed up for the hardest grad student classes and of course earned all A's
+  - [Ricardo's law of comparative advantage](http://en.wikipedia.org/wiki/Comparative_advantage) is very important - even if can do all the work more cheaply, main focus should be on why you can make cheaper/better than anybody else
+  - The craving for perfect fairness causes a lot of terrible problems in system function. Some systems should be made deliberately unfair to individuals because they'll be fairer on average for all of us
+  - There is not enough attention placed on virtue and vice effects - set up the system so that it is hard to cheat
+  - It's a myth that once you've got some capital market, economic considerations demand that it has to be fast and efficient as a casino. It doesn't. After the south sea bubble, England didn't have publicly traded stocks and the economy did just fine
+  - **If you can get really good at destroying your own wrong ideas, that is a great gift**
+  - Trust is absolutely essential. "Ethical practices aren't good because they pay; they pay because they're good." - Elbert Gary
+
+- [USC Gould School of law commencement Address - 2007](https://www.youtube.com/watch?v=ohtvZ2qkdNA)
+  - The safest way to get what you want is to try to deserve what you want
+  - There is huge pleasure in life to be obtained from getting deserved trust
+  - There's no love so right as admiration based love and such love should include the instructive dead (stand on the shoulders of giants)
+  - The acquisition of wisdom is a moral duty. It's not something you do just to advance in life. You must be hooked on lifetime learning
+  - **"I feel that I'm not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition."**
+  - "Generally speaking, envy, resentment, revenge and self pity are disastrous modes of thought...self pity is always counterproductive. It's the wrong way to think. And when you avoid it you get s great advantage over everybody else..."
+  - You must eliminate the self serving bias and take it into account when dealing with others. Appeal to people's interest and not their reason, even when your motives are lofty
+  - Avoid perverse incentives and being around people you wouldn't want to be associated with
+  - **Aim to be working for people you admire**
+  - Engage in routines that help you maintain objectivity
+  - "If at all feasible, you want to maneuver yourself into doing something in which you have an intense interest."
+  - Use each terrible blow that life deals you in a constructive fashion
+  - In your life what you want to maximize is a seamless web of deserved trust
+
+- [The Psychology of Human Misjudgment](https://www.youtube.com/watch?v=u76Zs4ADyJA)
+  - Charlie's magnum opus on why we behave the way we do
+  - Very important to recognize patterns to determine how humans behave, both rationally and irrationally
+  - **"I sought good judgment mostly by collecting instances of bad judgment, then pondering ways to avoid such outcomes." Invert!**
+  - **Big problems in real life touch on many different realms - not enough to focus on just one discipline when many are interacting**. Must have many tools in the toolkit
+  - Cognition is ordinarily situation dependent so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area
+  - There will always be paradox - eliminate as much as possible and then manage as best as possible
+  - The object is to buy a non dividend paying stock that compounds for 30 years at 15% and pay only a single tax of 35% at the end of the period. That comes out to 13.4% annual rate of return
+  - Buffett is the stock picker and Munger is the doubter, the skeptic, the devils advocate, against whom Buffett tests his ideas
 
 # Quotes
 
