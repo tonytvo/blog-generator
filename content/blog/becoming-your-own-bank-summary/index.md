@@ -73,6 +73,7 @@ tags: ["strategy"]
 
 - [sun life cash value loan options](./sun-life-cash-value-loan-options.pdf)
   - it seems like accessing the policy's cash value using a collateral assignment is interesting
+- [6 ways to capture cash value life insurance](https://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp)
 
 # problems 
 
@@ -326,3 +327,6 @@ Wealth will reside somewhere. It is up to you where you want it to reside. With 
 - https://livingwealth.com/summary-book-becoming-your-own-banker/
 - https://www.youtube.com/watch?v=R6d8lJU2CkY
 - https://www.insuranceandestates.com/pros-and-cons-of-the-infinite-banking-concept/
+- [sun life cash value loan options](./sun-life-cash-value-loan-options.pdf)
+- [6 ways to capture cash value life insurance](https://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp)
+
