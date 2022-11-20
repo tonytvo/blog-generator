@@ -1,6 +1,6 @@
 ---
-title: poor charlie almanack by Charlie Munger summary - wip
-date: "2022-09-04T22:12:03.284Z"
+title: poor charlie almanack by Charlie Munger summary
+date: "2022-11-20T22:12:03.284Z"
 description: "poor charlie almanack by Charlie Munger summary"
 tags: ["valueinvesting", "investing"]
 ---
