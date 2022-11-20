@@ -71,6 +71,9 @@ tags: ["strategy"]
 
 - There can be periods where expected earnings are lower; businesses would turn to stockholders in this case, but this does not work for life insurance. Instead, capital is added to counteract this. For example, if accountants report that they have collected $1.10 from someone’s policy but found they only needed 80 cents to deliver the benefit, then the directors would decide what to do with the 30 cents. Most would put a portion of this into a contingency fund for unexpected risk and distribute the remaining dividend. Distributing the dividend is not a taxable event. If the client used the dividend to purchase additional paid-up insurance, it would result in an “ever-increasing tax-deferred accumulation of cash values that support an ever-increasing death benefit”
 
+- [sun life cash value loan options](./sun-life-cash-value-loan-options.pdf)
+  - it seems like accessing the policy's cash value using a collateral assignment is interesting
+
 # problems 
 
 - **understand parkinson's law**
