@@ -1,6 +1,6 @@
 ---
 title: Notes on Mars Rover Kata Nov 13h 2022
-date: "2022-11-22T23:46:37.121Z"
+date: "2022-11-13T23:46:37.121Z"
 description: "Notes on Mars Rover Kata Nov 13h 2022"
 tags: ["evolutionarydesign", "tdd", "algorithm"]
 ---
