@@ -410,12 +410,12 @@ tags: ["strategy"]
 
 
 ## Hit Them Where it Hurts: The Center-of-Gravity Strategy
-- Everyone has a source of power on which he or she depends. When you look at your rivals, search below the surface for that source, the center of gravity that holds the entire structure together. That center can be their wealth, their popularity, a key position, a winning strategy. Hitting them there will inflict disproportionate pain. Find what the other side most cherishes and protects--that is where you must strike.
+- Everyone has a source of power on which he or she depends. When you look at your rivals, search below the surface for that source, the center of gravity that holds the entire structure together. That center can be their wealth, popularity, key position, and winning strategy. Hitting them there will inflict disproportionate pain. Find what the other side most cherishes and protects--that is where you must strike.
 - **Keys to Warfare**
   - The key is analyzing the enemy force to determine its centers of gravity. In looking for those centers, it is crucial not to be misled by the intimidating or dazzling exterior, mistaking the outward appearance for what sets it in motion. You will probably have to take several steps, one by one, to uncover this ultimate power source, peeling away layer after layer.
-  - To find a group's center of gravity, you must understand its structure and the culture within which it operates. If your enemies are individuals, you must fathom their psychology, what makes them tick, the structure of their thinking and priorities.
+  - To find a group's center of gravity, you must understand its structure and the culture within which it operates. If your enemies are individuals, you must fathom their psychology, what makes them tick, and the structure of their thinking and priorities.
   - It is almost always strategically wise to disrupt your enemy's lines of communication; if the parts cannot communicate with the whole, chaos ensues.
-  - Your enemy's center of gravity can be something abstract, like a quality, concept, or aptitude on which he depends: his reputation, his capacity to deceive, his unpredictability. But such strengths become critical vulnerabilities if you can make them unattractive or unusable.
+  - Your enemy's center of gravity can be something abstract, like a quality, concept, or aptitude on which he depends: his reputation, capacity to deceive, or unpredictability. But such strengths become critical vulnerabilities if you can make them unattractive or unusable.
 
 
 ## Defeat Them in Detail: The Divide-and-Conquer Strategy
