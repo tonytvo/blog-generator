@@ -419,17 +419,17 @@ tags: ["strategy"]
 
 
 ## Defeat Them in Detail: The Divide-and-Conquer Strategy
-- When you look at your enemies, do not be intimidated by their appearance. Instead look at the parts that make up the whole. By separating the parts, sowing dissension and division from within, you can weaken and bring down even the most formidable foe.
+- When you look at your enemies, do not be intimidated by their appearance. Instead, look at the parts that make up the whole. Separating the parts, sowing dissension and division from within, you can weaken and bring down even the most formidable foe.
 - In setting up your attack, work on their minds to create internal conflict. The joints are the weakest part of any structure.
 - The best way to make an enemy divide is to occupy the centre.
-- Think of battle or conflict as existing on a kind of chessboard. The chessboard's center can be physical--an actual place like Marathon--or more subtle and psychological: the levers of power within a group, the support of a critical ally, a troublemaker at the eye of the storm. Take the centre of the chessboard and the enemy will naturally break into parts, trying to hit you from more than one side.
+- Think of battle or conflict as existing on a kind of chessboard. The chessboard's center can be physical--an actual place like Marathon--or more subtle and psychological: the levers of power within a group, the support of a critical ally, a troublemaker at the eye of the storm. Take the centre of the chessboard, and the enemy will naturally break into parts, trying to hit you from more than one side.
 - To make people join you, separate them from their past. When you size up your targets, look for what connects them to the past, the source of their resistance to the new.
-- A joint is the weakest part of any structure. Break it and you divide people internally, making them vulnerable to suggestion and change. Divide their minds in order to conquer them.
+- A joint is the weakest part of any structure. Break it, and you divide people internally, making them vulnerable to suggestions and change. Divide their minds to conquer them.
 - **Keys to Warfare**
-  - The divide-and-conquer strategy has never been more effective than it is today: cut people off from their group--make them feel alienated, alone, and unprotected--and you weaken them enormously.
-  - Divide and rule is a powerful strategy for governing any group. It is based on a key principle: within any organization people naturally form smaller groups based on mutual self-interest--the primitive desire to find strength in numbers. These subgroups form power bases that, left unchecked, will threaten the organization as a whole.
-  - The solution is to divide to rule. To do so you must first establish yourself as the center of power; individuals must know they need to compete for your approval. There has to be more to be gained by pleasing the leader than by trying to form a power base within the group.
-  - The divide-and-rule strategy is invaluable in trying to influence people verbally. Start by seeming to take your opponents' side on some issue, occupying their flank. Once there, however, create doubt about some part of their argument, tweaking and diverting it a bit. This will lower their resistance and maybe create a little inner conflict about a cherished idea or belief. That conflict will weaken them, making them vulnerable to further suggestion and guidance.
+  - The divide-and-conquer strategy has never been more effective than today: cut people off from their group--make them feel alienated, alone, and unprotected--and weaken them enormously.
+  - Divide and rule is a powerful strategy for governing any group. It is based on a key principle: within any organization, people naturally form smaller groups based on mutual self-interest--the primitive desire to find strength in numbers. These subgroups form power bases that, left unchecked, will threaten the organization.
+  - The solution is to divide to rule. To do so, you must establish yourself as the center of power; individuals must know they need to compete for your approval. There has to be more to be gained by pleasing the leader than by trying to form a power base within the group.
+  - The divide-and-rule strategy is invaluable in trying to influence people verbally. Start by taking your opponents' side on some issue, occupying their flank. Once there, however, create doubt about some part of their argument, tweaking and diverting it a bit. This will lower their resistance and maybe create a little inner conflict about a cherished idea or belief. That conflict will weaken them, making them vulnerable to further suggestions and guidance.
 
 
 ## Expose and Attack Your Opponent’s Soft Flank: The Turning Strategy
