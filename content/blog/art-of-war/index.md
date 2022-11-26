@@ -446,18 +446,18 @@ tags: ["strategy"]
 
 
 ## Envelop the Enemy: The Annihilation Strategy
-- People will use any kind of gap in your defenses to attack you or revenge themselves on you. So offer no gaps. The secret is to envelop your opponents--create relentless pressure on them from all sides, dominate their attention, and close off their access to the outside world. Make your attacks unpredictable to create a vaporous feeling of vulnerability. Finally, as you sense their weakening resolve, crush their willpower by tightening the noose. The best encirclements are psychological--you have surrounded their minds.
+- People will use any gap in your defences to attack you or avenge yourself. So offer no gaps. The secret is to envelop your opponents--create relentless pressure on them from all sides, dominate their attention, and close off their access to the outside world. Make your attacks unpredictable to create a vaporous feeling of vulnerability. Finally, as you sense their weakening resolve, crush their willpower by tightening the noose. The best encirclements are psychological--you have surrounded their minds.
 
 - **Keys to Warfare**
-  - There are many ways to envelop your opponents, but perhaps the simplest is to put whatever strength or advantage you naturally have to maximum use in a strategy of enclosure.
+  - There are many ways to envelop your opponents. Still, perhaps the simplest is to put whatever strength or advantage you naturally have to maximum use in a strategy of the enclosure.
   - To envelop your enemies, you must use whatever you have in abundance. If you have a large army, use it to create the appearance that your forces are everywhere, an encircling pressure.
-  - **Remember: the power of envelopment is ultimately psychological. Making the other side feel vulnerable to attack on many sides is as good as enveloping them physically.**
-  - Often, in fact, less is more here: too many blows will give you a shape, a personality--something for the other side to respond to and develop a strategy to combat. Instead seem vaporous. Make your maneuvers impossible to anticipate.
-  - The best encirclements are those that prey on the enemy's preexisting, inherent vulnerabilities. Be attentive, then, to signs of arrogance, rashness, or other psychological weakness.
-  - The impetuous, violent, and arrogant are particularly easy to lure into the traps of envelopment strategies: play weak or dumb and they will charge ahead without stopping to think where they're going.
+  - **Remember: the power of envelopment is ultimately psychological. Making the other side feel vulnerable to attack many sides is as good as enveloping them physically.**
+  - Often, less is more here: too many blows will give you a shape, a personality--something for the other side to respond to and develop a strategy to combat. Instead seem vaporous. Make your maneuvers impossible to anticipate.
+  - The best encirclements prey on the enemy's preexisting, inherent vulnerabilities. Be attentive to signs of arrogance, rashness, or other psychological weakness.
+  - The impetuous, violent, and arrogant are particularly easy to lure into the traps of envelopment strategies: play weak or dumb, and they will charge ahead without stopping to think about where they're going.
 
 - **Reversal**
-  - The danger of envelopment is that unless it is completely successful, it may leave you in a vulnerable position.
+  - The danger of envelopment is that it may leave you vulnerable unless it is completely successful.
 
 
 ## Maneuver Them Into Weakness: The Ripening-for-the-Sickle Strategy
