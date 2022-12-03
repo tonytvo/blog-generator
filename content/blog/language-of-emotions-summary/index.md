@@ -35,6 +35,26 @@ tags: ["emotionalintelligence"]
 
 - ***New vision of self***: When all of your elements are flowing and balanced, you develop a meta-intelligent, fifthelement personality and a fuller experience of what it is to be a whole and integrated person. A wonderful aspect of balancing your elements is that it is a fairly simple task once you realize that balance is a possibility. However, it can be challenging at first to reach this level of wholeness and integration.
 
+- Many of us use addictions and distractions to get through our days and deal with challenging aspects of our lives. Although these practices can help us take our minds off of things, they are not generally forthright ways to deal with troubling situations. As you gently observe your own addictive and avoidant tendencies, it can help to understand why you’re distracting yourself and what you’re avoiding:
+
+- One key to ending suffering is to fully understand the causes and dimensions of our suffering. When we regularly rely on addictions and distractions to deal with pain and suffering, we are actually stopping ourselves from forming a clear and precise picture of what our suffering is about. When we can instead feel our emotions and balance our internal elements
+
+- Empathically speaking, traumatic and dissociative behaviors are almost always contagious. Our disavowed (though never absent) empathic skills always alert us to traumatic behaviors and dissociation in other people…. As a species, we have been socialized to dissociate and distract ourselves from life as a matter of course, and as a result, most of us aren’t fully aware of how or why we dissociate.”
+
+- trauma responses
+  - repression, learn to traumatize themselves
+  - expression, traumatize others
+  - channel it from within an awakened psyche, to enter consciously, to dive into the emotions, the thoughts, the visions, and the sensations - and to turn the trauma on its ear.
+
+- stages of initiation
+  - stage one: separation from the known world. Disorganized removal from the known world - a sudden, shocking, and wholly unexpected end to normalcy.
+  - stage two: a brush with death.  It is the out of control moment of the assault - the beating, the yelling, the unwelcome touch that separates spirit from body, or the beginning of the operation.
+  - stage three: being welcomed as an initiated person. Sadly, in trauma, there is no welcoming back for trauma survivors.
+
+- When we can understand and work with our emotions in empathic and respectful ways, they can help us work through pain and trauma. Emotions are messages from deep within ourselves; they tell us what’s going on – and what we need to do – in any situation
+
+- Many of us have been taught that forgiveness is necessary before we can move on from painful or traumatic situations. We’ve also been taught that anger is toxic. Sadly, these ideas are only partially true, and they can actually slow down our healing. Anger and forgiveness can work beautifully together if we know how to honor them appropriately
+
 # gifts in your emotions
 
 - **ANGER: The Honorable Sentry**
@@ -145,6 +165,19 @@ tags: ["emotionalintelligence"]
 
 - What would it feel like to begin balancing your elements? Are there relationships that would have to change as you grow and develop into a fifth-element personality?
 
+- If you’re comfortable, share some of the ways you use addictions and distractions currently. What do these practices bring to your life? How do they support you? How do they hinder you?
+
+- If you’re comfortable, share some of the roots of your addictive or distracting behaviors. What are some of the ways you can shift these behaviors and start feeling the emotions hiding behind them?
+
+- Can you track Mr. Bunny through our culture? Are there shared practices, traditions, recreational activities, or accepted behaviors that are actually some form of Mr. Bunny?
+
+- If you feel comfortable sharing, what are the dissociative practices you might use to deal with trauma? If the group would like to explore this topic more deeply, you can discuss the rest of the chapter and, specifically,the three responses to trauma on pages 95-98, and the three stages of trauma and initiation on pages
+
+- If your group is comfortable, you can talk about any repetitive emotions that are trying to get your attention. What gifts and awareness are these emotions trying to bring to you?
+
+- Whether you’ve survived trauma or not, have you experienced the healthy, boundary-restoring aspects of your anger and the intuitive and instinctual aspects of your fear? 
+
+- What have you been told about forgiveness? Does your current concept of forgiveness include healthy anger, as it should? If not, how can you can responsibly channel your anger and work with forgiveness in a healthy and empathic way?
 # Quotes
 
 Emotions are necessary – even when they’re uncomfortable or socially inappropriate – because they are part of your psyche, a part of your neural network, a part of your socialization, and a part of your humanity
