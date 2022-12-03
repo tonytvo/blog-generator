@@ -55,32 +55,57 @@ tags: ["emotionalintelligence"]
 
 - Many of us have been taught that forgiveness is necessary before we can move on from painful or traumatic situations. We’ve also been taught that anger is toxic. Sadly, these ideas are only partially true, and they can actually slow down our healing. Anger and forgiveness can work beautifully together if we know how to honor them appropriately
 
+- ***getting grounded***
+
+  - Centering our attention in our bodies in the present moment is uncommon in our culture because so many modern people make distinct separations between the physical (or profane) world and the spiritual (or divine) realm... When you have proper grounded focus, you can direct flows in each of your elements, and you can learn to navigate those flows rather than being pushed around. When you can navigate, you won’t need to distract yourself or avoid your emotions, because you’ll be able to focus your attention properly
+
+  - Grounding is a form of running your life energy downward. It helps you connect to your qi source, which is located in your lower belly beneath your navel or in your solar plexus, and connects you to the earth. From there, your movement into deeper practice and strength flows naturally. 
+
+  - To ground yourself, breathe into your belly and imagine that you’re gathering warmth and light in your belly, and as you breathe out, imagine that your breath and light are moving down through your body and into your chair. 
+
+  - Grounding is the master skill in this process because it helps you focus yourself inside your body while you connect yourself to the earth. It helps you remain centered in the outer world by giving you a way to cleanse and stabilize yourself in the inner world. 
+
+  - Grounding is the opposite of dissociation. When you can ground your tension and any intense emotions, you won’t need to blast other people or repress everything. You’ll be able to figure out why you’re ungrounded and address it. 
+
+- Our culture supports distraction and dissociation at every possible turn; therefore, remaining centered and integrated can be rather difficult. In order to stay focused and grounded, you’ll need protection and definition; you’ll need a sacred place where you can work without interference, and you’ll need a strong and flexible boundary around yourself
+
+- Complaining consciously is a healthy way to become aware of, express, and release what’s going on inside of you – in safety and privacy. Conscious complaining is especially helpful in a life of striving, good works, and personal growth, where complaining is often considered less than saintly (this is a shame, because all by itself, a lack of permission to complain can cause unresolving repetitive mood states like worry, depression, and apathy)…. Conscious complaining gives a voice to your struggles, and in so doing, it restores your flow, your energy, your sense of humor, and your hope
+
+- As you work to balance your elements and engage with your emotions empathically, it’s important to have a practice for rejuvenating yourself. This practice helps you soothe yourself, take some quiet time to integrate the changes you’re making, and move forward refreshed. It’s important to rejuvenate yourself so that old behaviors won’t be able to reanimate themselves. When you clear a space in your psyche with contract burning, it’s important to refill yourself consciously. If you don’t consciously refill that empty space, it will be filled unconsciously, and you don’t want that!
+
+- [emotional vocabulary list](https://karlamclaren.com/wp-content/uploads/2021/11/Emotional-Vocabulary-and-Weasel-List.pdf)
+
 # gifts in your emotions
 
 - **ANGER: The Honorable Sentry**
   - ACTION REQUIRED: Anger arises to address threats to your voice, standpoint position, interpersonal boundaries, or self image.
   - GIFTS: Honor ~ Conviction ~ Healthy self esteem ~ Proper boundaries ~ Healthy detachment ~ Protection of yourself and others
   - THE INTERNAL QUESTIONS: What must be protected? What must be restored?
+  - DISCUSSION: Think about your relationship with your own anger. Is it healthy? Do you regularly express your anger, or do you more often repress it? Have you ever channeled your anger in a way that works for everyone?
 
 - **APATHY & BOREDOM: The Mask for Anger**
   - ACTION REQUIRED: Apathy is a protective mask for anger, and it arises in situations where you cannot or should not (probably) express your anger openly.
   - GIFTS: Detachment ~ Boundary-setting ~ Separation ~ Taking a time-out
   - THE INTERNAL QUESTIONS: What is being avoided? What must be made conscious?
+  - DISCUSSION: Do you feel apathetic or bored in any areas of your life? If so, think about how your apathy and boredom might be providing a protective mask for you.
 
 - **GUILT & SHAME: Restoring Integrity**
   - ACTION REQUIRED: Shame arises to moderate your behavior and make sure that you don’t hurt, embarrass, destabilize, or dehumanize yourself or others.
   - GIFTS: Atonement ~ Integrity ~ Self-respect ~ Behavioral change
   - THE INTERNAL QUESTIONS: Who has been hurt? What must be made right?
+  - DISCUSSION: Are there times when your shame feels repetitive or stuck? Is your shame authentic to you, or is it foreign shame that comes from authority figures, social training, toxic ideas, or the media? (The skill of Burning Contracts is a specific healing for foreign guilt and shame).
 
 - **HATRED: The Profound Mirror**
   - ACTION REQUIRED: Hatred arises in the presence of shadow material (things you cannot accept in yourself, and demonize in others). Shadow work helps you reintegrate and detoxify this material so that it no longer activates your hatred program.
   - GIFTS: Intense awareness ~ Piercing vision ~ Sudden evolution ~ Shadow work
   - THE INTERNAL QUESTIONS: What has fallen into my shadow? What must be reintegrated?
+  - DISCUSSION: If you feel comfortable, talk about some of your hatreds in the group. What do you think your hate targets say about the unlived and unconscious parts of you?
 
 - **FEAR: Intuition & Action**
   - ACTION REQUIRED: Fear arises to orient you to change, novelty, or possible physical hazards. Fear focuses on the present moment and your immediate surroundings.
-  - GIFTS: Intuition ~ Instinct ~ Focus ~ Clarity ~ Attentiveness ~ Readiness ~ Vigor
+  - GIFTS: Intuition ~ Instinct ~ Focus ~ Clarity ~ Attentiveness ~ Readiness ~ Vigor. Ability to react skillfully to stimuli
   - THE INTERNAL QUESTIONS: What action should be taken?
+  - DISCUSSION: What are your reactions to the things we’ve all been taught about fear? Have you ever heard any positive messages about fear? Think about times when your fear has worked well for you.
 
 - **WORRY & ANXIETY: Focus & Completion**
   - ACTION REQUIRED: Worry and anxiety arise to help you organize, plan for, and complete your tasks – both are related to fear, but they arise to help you orient to possible upcoming change, novelty, or hazard. Bonus: If you feel anxiety or worry, you’ll know that there is nothing to fear in the present moment!
@@ -91,11 +116,13 @@ tags: ["emotionalintelligence"]
   - ACTION REQUIRED: Confusion is a mask for fear and anxiety, and it arises when you are overwhelmed by change, novelty, or too many tasks. Confusion can be a lovely vacation from overwhelm.
   - GIFTS: Diffused awareness ~ Innocence ~ Malleability ~ Taking a time-out
   - THE INTERNAL QUESTIONS: What is my intention? What action should be taken?
+  - DISCUSSION: Are there situations or relationships in which you regularly feel confused or indecisive? How might your confusion be protecting you in these situations or relationships?
 
 - **JEALOUSY: Relational Radar**
   - ACTION REQUIRED: Jealousy arises when your connection to love, mate-retention, or loyalty is threatened.
   - GIFTS: Fairness ~ Commitment ~ Security ~ Connection ~ Loyalty
   - THE INTERNAL QUESTIONS: What has been betrayed? What must be healed and restored?
+  - DISCUSSION: What do your jealousy and envy tell you about what you may be missing, wanting, or needing in your life? Karla has said that a great question to ask jealousy and envy in order to help them focus on the entire situation and everyone’s needs is: “What would be fair?”
 
 - **ENVY: Interactional Radar**
   - ACTION REQUIRED: Envy arises when your connection to material security, resources, or recognition is threatened.
@@ -107,37 +134,50 @@ tags: ["emotionalintelligence"]
   - GIFTS: Sudden energy ~ Fixed attention ~ Absolute stillness ~ Healing from trauma
   - THE INTERNAL QUESTIONS (during the emergency): Just listen to your body – don’t think, just react. Your body is a survival expert, and it will keep you safe.
   - THE INTERNAL QUESTIONS (for PTSD): What has been frozen in time? What healing action must be taken?
+  - DISCUSSION: Panic and terror arise to literally save your life. Have there been times where you’ve experienced the lifesaving gifts of panic or terror? If you’d like to share with the group, please be careful to tell your story in a non-dramatic way so that you don’t overwhelm your group mates. For instance, don’t get into gory details – just note the traumatic incident (i.e., car crash, injury, betrayal), and focus on which of the three responses your panic selected to save your life: fight, flee, or freeze.
 
 - **SADNESS: The Water Bearer**
   - ACTION REQUIRED: Sadness arises when it’s time to let go of something that isn’t working anyway. If you can truly let go, relaxation and rejuvenation will surely follow.
   - GIFTS: Release ~ Fluidity ~ Grounding ~ Relaxation ~ Rejuvenation
   - THE INTERNAL QUESTIONS: What must be released? What must be rejuvenated?
+  - DISCUSSION: Do you welcome your sadness and give it the time it needs to ground you and help you let go of things that no longer serve you? Or do you try to avoid, repress, or rush through sadness – so that it never has the chance to bring relaxation and rejuvenation to you?
 
 - **GRIEF: The Deep River of the Soul**
   - ACTION REQUIRED: Grief arises when something has been lost irretrievably or when someone has died.
-  - GIFTS: Complete immersion in the river of all souls
+  - GIFTS: If you can’t move into your grief, you’ll only experience destabilization and dissociation in response to the shock of loss, injustice, inequity, and death, instead of being cleansed and renewed in the river of all souls
   - THE INTERNAL QUESTIONS: What must be mourned? What must be released completely?
+  - DISCUSSION: Grief is not openly supported by most people, except in funeral rituals. However, funerals can be stilted, shallow, or too rushed to allow people to grieve fully. As you think back to a recent death or loss, were you able to grieve fully? Or is your grief still lingering and waiting to support you in utterly letting go?
 
 - **SITUATIONAL DEPRESSION: Ingenious Stagnation**
   - ACTION REQUIRED: Situational depression arises when some aspect of your life is unworkable or dysfunctional; depression stops you for a vital reason.
   - GIFTS: The Ingenious Stop Sign of the Soul
   - THE INTERNAL QUESTIONS: Where has my energy gone? Why was it sent away?
     - Important note: Please study the different forms of depression on pages 328-330 in The Language of Emotions; many require therapeutic and/or medical intervention.
+  - DISCUSSION: Karla makes a distinction between situational depression and the more serious forms of depression (see pages 329-330). If you have worked with your own situational depression (which restricts your energy for important reasons), what did you find to be helpful? What didn’t work?
+
+- **SUICIDAL URGES**
+  - ACTION REQUIRED: when suicidal urges arise, it can mean that something integral to your identity (an idea, a behavior, a relationship, a job, etc.) has become intolerable and needs to end completely – to die. However, you don’t need to die. We need you here!.
+  - GIFTS: energy to wrench yourself bodily, emotionally, psychologically, and spiritually out of a situation that is killing you already
+  - THE INTERNAL STATEMENT: What idea or behavior must end now? What can no longer be tolerated in my soul?
+  - DISCUSSION: If you feel comfortable with the subject, share a situation in which you felt suicidal urges. Since you survived, what helped you? Were you able to identify the intolerable situation that needed to end?
 
 - **HAPPINESS: Anticipation & Possibility**
   - ACTION REQUIRED: Happiness arises to help you look forward to the future with hope and delight.
   - GIFTS: Merriment ~ Gaiety ~ Amusement ~ Hope ~ Delight ~ Wonder ~ Playfulness ~ Invigoration
   - THE INTERNAL STATEMENT: Thank you for this lively celebration!
+  - DISCUSSION: It’s difficult to achieve a balanced relationship with happiness in a culture that chases after it as if it’s a prize. Do you allow your happiness to flow and recede freely, in its own way and in its own time, or have you been taught to chase after it and never let it go? What is your relationship with your happiness? 
 
 - **CONTENTMENT: Pleasure & Appreciation**
   - ACTION REQUIRED: Contentment arises to help you look toward yourself with pride and satisfaction.
   - GIFTS: Enjoyment ~ Satisfaction ~ Self-esteem ~ Renewal ~ Confidence ~ Fulfillment
   - THE INTERNAL STATEMENT: Thank you for renewing my faith in myself!
+  - DISCUSSION: When was the last time you felt content with yourself? Do you allow yourself to feel and enjoy contentment when you’ve done well or accomplished something? If not, how can you give yourself more credit when it’s due? 
 
 - **JOY: Affinity & Communion**
   - ACTION REQUIRED: Joy arises to help you feel a blissful sense of expansiveness and connection to others, to ideas, or to experiences.
   - GIFTS: Expansion ~ Communion ~ Inspiration ~ Splendor ~ Radiance ~ Bliss
   - THE INTERNAL STATEMENT: Thank you for this radiant moment! Be aware: Extreme joy (exhilaration) is a state to approach with care, especially if it cycles with depression or sadness. Repetitive exhilaration or flights of giddy mania may be a sign of emotional dysregulation; please reach out for help.
+  - DISCUSSION: Have you ever become too attached to the experience of joy and tried to hold on to it or force it to arise in place of another emotion or experience? If so, how can you develop a more appropriate and empathic relationship with your joy?
 
 # Questions/Discussions/Exercises
 
@@ -178,7 +218,24 @@ tags: ["emotionalintelligence"]
 - Whether you’ve survived trauma or not, have you experienced the healthy, boundary-restoring aspects of your anger and the intuitive and instinctual aspects of your fear? 
 
 - What have you been told about forgiveness? Does your current concept of forgiveness include healthy anger, as it should? If not, how can you can responsibly channel your anger and work with forgiveness in a healthy and empathic way?
+
+- Have you experienced deep and lasting love – such as the healthy love of a parent and child, or the dedicated and adoring love of a pet? How is that type of love different from the volatility of romantic love and crushes?
+
+- Try out this practice as a group and share what it feels like to ground yourself. Is this grounded state natural for you, or does it feel very unusual?
+ 
+- Would you like to burn any of the old contracts you’ve made with yourself or others? Are there old behaviors that feel entrapping, or that you’d like to change? If you’ve already tried this practice on your own, share your experiences with the group.
+
+- Discuss the difference between Conscious Complaining and positive affirmations (see pages 149-151). If you’ve already tried this practice on your own, share your experiences with the group.
+
+- What rejuvenates you and brings you a sense of calm and renewal? Do you have any regular rejuvenation practices now?
+
+- Before delving into the emotions one by one, are there any emotions that you’d like to understand better or integrate more fully? Also, which emotions do you have a healthy relationship with right now?
+
+- Think about how often you use the word “stress” or “stressed out” to describe any number of emotions – and think about how you can begin to use the actual names of your real emotions. 
+
 # Quotes
+
+The primary rule of emotional flow is this: All emotions are true. All emotions tell the absolute truth, either about the specific situation that brought the emotion into play, or about some area of the psyche…. All emotions are true. This doesn’t mean that all emotions are right or that you should take their word for everything!... Some of your emotional reactions can display prejudices you didn’t know you had, while others can make you lust after things that would damage you; therefore, you don’t just follow your emotions like a fool…. Your task is to welcome that truth and support your emotional flow by bringing a full village of perspectives to each of your emotions.
 
 Emotions are necessary – even when they’re uncomfortable or socially inappropriate – because they are part of your psyche, a part of your neural network, a part of your socialization, and a part of your humanity
 
@@ -274,8 +331,6 @@ If your water element is overflowing, you should move into conscious expressive 
 If your fire element is raging or dampened, you should move into conscious spiritual or contemplative activity and make room for dreams, intuitions, and visions in your everyday life. Religious observance and meditation can be healing for some, but you’ll also find spiritual healing in nature walks, time spent with animals, children, and elders, and any time spent by a body of water. 
 
 When you can bring your emotional aspects, your intellectual gifts, your bodily skills and strengths, and your visionary spirit into respectful peer relationships, you’ll be able to dance in the realm of brilliance. When the five elements are in balance, a new element arises: nature, wood, or ether in various wisdom traditions. 
-
-The four elements are also balanced within your own personality. When you’re standing upright in the center of your four elements, you’re something and someone new. 
 
 When you live in an unbalanced quaternity, you’ll consistently forget to act or think or feel or dream. Your personality will be alternately flat or spiky, your ego will swing between utter dejection and utter inflation, and your self-esteem will careen wildly between ungrounded highs and unrealistic lows. But when you can access the grounding and balancing properties of each of your elements and intelligences, you’ll have a stable foundation and a home. 
 
@@ -432,17 +487,6 @@ When your emotions are in their free-flowing states, it’s a simple thing to wo
 
 
 When you can focus your attention on your body in the present moment, you’ll be able to navigate and deal with the flows in each of your elements. When you can ground yourself, you’ll be more capable and confident in the inner and outer worlds. 
-
-
-Grounding is a form of running your life energy downward. It helps you connect to your qi source, which is located in your lower belly beneath your navel or in your solar plexus, and connects you to the earth. From there, your movement into deeper practice and strength flows naturally. 
-
-
-To ground yourself, breathe into your belly and imagine that you’re gathering warmth and light in your belly, and as you breathe out, imagine that your breath and light are moving down through your body and into your chair. 
-
-
-Grounding is the master skill in this process because it helps you focus yourself inside your body while you connect yourself to the earth. It helps you remain centered in the outer world by giving you a way to cleanse and stabilize yourself in the inner world. 
-
-Grounding is the opposite of dissociation. When you can ground your tension and any intense emotions, you won’t need to blast other people or repress everything. You’ll be able to figure out why you’re ungrounded and address it. 
 
 
 The key to maintaining your focus is to accept distractions and avoidance behaviors as normal and necessary. When you can move between clear focus and diffused consciousness, you’ll have equal access to the center of your defined and grounded awareness and to the dreamy and ephemeral parts of your psyche. 
@@ -1000,7 +1044,6 @@ When you’re ready to work with your own suicidal urges, you should fire up you
 
 When a suicidal urge arises, it brings you the ferocity you need to rescue your soul from hell. Don’t repress your suicidal emotions – use them to destroy your contracts. 
 
-
 After channeling a suicidal urge, you’ll be in a very different place, and you may have a new soul assignment. The channeling of this urge always reconnects you to your dreams and your innate intelligences. With its blessing, you’ll have new information about which elements or intelligences need to be revitalized and integrated. 
 
 
@@ -1083,3 +1126,4 @@ As you continue your empathic work, you may become more aware of the suffering a
 - http://curioushealing.com/2014/07/the-language-of-emotions-by-karla-mclaren/
 - https://www.spiritualityandpractice.com/books/reviews/view/20020
 - https://www.scribd.com/book/571062577/Summary-of-Karla-McLaren-s-The-Language-of-Emotions
+- https://karlamclaren.com/wp-content/uploads/2021/11/Emotional-Vocabulary-and-Weasel-List.pdf
