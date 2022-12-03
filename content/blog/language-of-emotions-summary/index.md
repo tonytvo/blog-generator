@@ -83,11 +83,29 @@ tags: ["emotionalintelligence"]
   - THE INTERNAL QUESTIONS: What must be protected? What must be restored?
   - DISCUSSION: Think about your relationship with your own anger. Is it healthy? Do you regularly express your anger, or do you more often repress it? Have you ever channeled your anger in a way that works for everyone?
 
+  - When you personify anger, you’ll find that it is a mix between a stalwart castle guard and an ancient sage. Anger sets your boundaries by walking the perimeter of your soul and keeping an eye on you, the people around you, and your environment. 
+  - Anger is a vital and boundary-defining emotion. When you can instead channel this noble emotion properly, you’ll be able to maintain your boundary and protect the boundaries of others with honor. 
+  - When we drop our vital, anger-supported boundaries and ignore our individual needs and wishes, we become extremely vulnerable. When the psyche is unprotected, anger becomes necessary, and if anger is constantly pushed into the shadows, it can only erupt in shadowy ways.
+  - When you channel your anger properly, it will help you maintain your sense of self while protecting you and the people around you. When you go on a rampage, you dishonor everyone you encounter. 
+  - When you take hold of your anger and channel it properly, you allow your anger to arise when you’re attacked. You welcome the potent surge of indignation and honor the fact of the attack, instead of brushing it away with pseudospiritual gentility. 
+  - The Taoist saying The glory is not in never falling, but in rising every time you fall is especially valuable in understanding the honorable use of anger. When you can channel your angers, you won’t be invincible, but you’ll be able to see your fall clearly and rise again with honor and compassion. 
+  - When you are angry, you are honouring the person or situation that angers you. It’s difficult to honor something or someone that is unimportant to you. If you can use your anger to reset your boundary and burn your contracts with whatever has angered you, you’ll learn vital truths about the issues you need to face and the relationships you need to mend or honor. 
+  - When you’re done with the conflict, take some time to reground and refocus yourself. Anger releases a great deal of energy into your system, so it’s a good idea to refresh yourself and bring every part of you into the present moment, where you’re a different person than you were when the conflict began.
+  - It may seem contradictory, but habitually angry people are also deeply caring people because anger always stems from concern. When people in your life are habitually angry, bless them; they are feeling too much of the world for their comfort, and their boundaries are in tatters. 
+  - If you feel unpleasant aftereffects from your anger, just empathize with them. If your anger causes any unpleasant aftereffects, know that you may have a punishing connection with it. Burn these contracts with your anger, and your anger will be able to flow properly and become the healing force it was meant to be.
+
+
 - **APATHY & BOREDOM: The Mask for Anger**
   - ACTION REQUIRED: Apathy is a protective mask for anger, and it arises in situations where you cannot or should not (probably) express your anger openly.
   - GIFTS: Detachment ~ Boundary-setting ~ Separation ~ Taking a time-out
   - THE INTERNAL QUESTIONS: What is being avoided? What must be made conscious?
   - DISCUSSION: Do you feel apathetic or bored in any areas of your life? If so, think about how your apathy and boredom might be providing a protective mask for you.
+
+  - If you’re unable or unwilling to deal with your anger, you’ll fall into the masking state of apathy. Apathy is a state of dissociation, usually caused by being stuck in the wrong environment for your needs. It seeks distractions such as TV, fun food, new loves, travel, money, and shopping. 
+  - Apathy and boredom are two of the most common symptoms of the environment being too small for your soul. They are signs of a lack of boundaries and a need for change, but they are done in an ineffectual and distractible way. 
+  - We struggle against our natural depressions and anxieties with incredible amounts of boredom-relieving stimuli. We can’t stop to feel or dream because we have to keep moving. In response, we become highly distractible automatons. 
+  - It is important to distinguish between apathy that arises from your unwillingness to rest and apathy that arises from your inability to set boundaries and channel your anger appropriately. If you are filled with apathy right now, honor it, but feed it with a deeper version of what it wants. 
+  - Apathy is a difficult condition to deal with because it is often caused by people isolating themselves or throwing their energy away rather than setting boundaries properly. You can help honor apathy in others by modeling honorable engagement.
 
 - **GUILT & SHAME: Restoring Integrity**
   - ACTION REQUIRED: Shame arises to moderate your behavior and make sure that you don’t hurt, embarrass, destabilize, or dehumanize yourself or others.
@@ -95,11 +113,37 @@ tags: ["emotionalintelligence"]
   - THE INTERNAL QUESTIONS: Who has been hurt? What must be made right?
   - DISCUSSION: Are there times when your shame feels repetitive or stuck? Is your shame authentic to you, or is it foreign shame that comes from authority figures, social training, toxic ideas, or the media? (The skill of Burning Contracts is a specific healing for foreign guilt and shame).
 
+  - Guilt and shame are two of the most important emotions that help you mature into a well-regulated person. They help you understand yourself and your actions, and they help you honorably monitor your behavior, emotions, thoughts, and physical desires. 
+  - Guilt is the knowledge and acknowledgment of wrongdoing. It is a state of circumstance, and you are either guilty or not guilty in relation to the legal or moral code you value. You cannot feel guilty, because guilt is a concrete state, not an emotional one. Shame is the natural emotional consequence of guilt and wrongdoing. 
+  - When shame arises in response to your own authentic and addressable flaws or missteps, it flows appropriately. If you welcome your appropriate shame, you’ll stop yourself before you do something crazy, before you say the wrong thing, or before you enter into unhealthy behaviors or relationships. 
+  - When we don’t have a healthy connection to our own shame, we’re often coerced into embodying other people’s ideas of right and wrong. This can lead to an incoherent shame spiral, where we’re simultaneously drawn toward and repelled by shameful and forbidden behaviors. 
+  - When you can identify your authentic shame, you’ll be able to brighten and define your boundary, ground yourself firmly, call your intellect into the situation, and examine (and destroy) the contracts that are attached to any excessive or inauthentic shame you might carry. 
+  - When you can honor and welcome your shame, it will give you the strength you need to address your ill-considered behaviors and to throw off the foreign tyrannies that disrupt your authenticity. 
+  - When your shame arises in the presence of others, it’s important to stop, ground yourself, and focus on it. If you can openly welcome your shame, it will recede naturally and swiftly. 
+  - When you’re grounded and centered within your vibrant, shame-supported boundary, the heat and intensity that shame carries will give you the energy you need to shine a spotlight on your own behavior and examine your contracts with whatever has brought your shame forward. 
+  - When you’re channeling rapids-level manufactured or trapped shame, each of your skills will help you remain stable. Your grounding will help you release any shame trapped in your body or your psyche, your inner focus will give you a private place from which to operate when your whole being is aflame, and your ability to burn contracts will help you identify and release any trapped shame messages. 
+  - When you’re coming out of a shame spiral, it’s important to replace your old, shame-based titles and labels with empowering phrases. For instance, if your smoking bothers you, and your habitual phrase is I can’t stop smoking! I’ve tried a hundred times. I’m just an addict! you can change your words into forceful ones and assert, I won’t stop smoking! I refuse to. 
+  - If you don’t find a lot of shaming titles in your psyche, but you still struggle with repetitive shame, you may have boundary trouble. When your boundary is weak or unsuitably inflated, you may tend to enmesh with others simply because your personal boundary isn’t well-defined. 
+  - It’s important to help your children connect to their authentic shame in healthy ways. This can be done by letting them be involved in setting punishments for their misdeeds. When they can be involved in deciding upon their acts of contrition, they can connect to their shame in healthy ways. 
+  - We have all become so used to dealing with shame that we don’t even recognize it when it arises. It is so vital to the sanctity of the soul that when it is released, it will work unceasingly to expose inferiorities and restore integrity. 
+
 - **HATRED: The Profound Mirror**
   - ACTION REQUIRED: Hatred arises in the presence of shadow material (things you cannot accept in yourself, and demonize in others). Shadow work helps you reintegrate and detoxify this material so that it no longer activates your hatred program.
   - GIFTS: Intense awareness ~ Piercing vision ~ Sudden evolution ~ Shadow work
   - THE INTERNAL QUESTIONS: What has fallen into my shadow? What must be reintegrated?
   - DISCUSSION: If you feel comfortable, talk about some of your hatreds in the group. What do you think your hate targets say about the unlived and unconscious parts of you?
+
+  - Hatred is a natural and healthy emotion, but it can also be used to alert you to specific interior issues that hinder and endanger you. It is not mere dislike, which goes away when you separate yourself from people who behave badly. 
+  - The shadow is the portion of the psyche that we are not aware of, because we deny it. It holds our squelched impulses, our unfelt emotions, our unacceptable behaviors, and our unlived dreams. 
+  - You have the right to feel hatred. It is a sign that something is wrong with you if you can’t feel it. Hatred is a powerful tool that can help you move through difficult issues and catapult yourself into new levels of awareness. 
+  - When we express hatred, we fool ourselves into thinking that we’re completely separate from our hate targets. But in reality, we’re depending on them to live out parts of our own shadow. 
+  - When we project our material onto others, we lose our integrity, our honor, and our skills. When we project our shadow material onto others, we often can’t work with it in straightforward ways, so we project it. 
+  - When we find people who can really live out our unwanted material – our selfishness, our power, our arrogance, our brilliance, our ignorance, and our sexual appetites – there is a bacchanal in our souls. We are mesmerized and fascinated, and we can’t take our eyes off of them. 
+  - When we enforce these shadowy contracts with others, our boundaries are stripped, our focus is thrown outside of ourselves, and our villages are in complete disarray. We also dishonor our targets, whether we hate them or adore them, because we force them to become something other than human. 
+  - When you are in a hatred spiral with someone, you need a strong and disruptive emotion to separate yourself and rebuild your boundary from scratch. This is no time for gentleness; you need the big guns. So go ahead and flame on - it will heal your boundary, your behavior, and your relationships. 
+  - When you’ve burned a few contracts with your hate target, you’re ready to move on to the real work of understanding what makes your hate partner so odious. You may want to get a pen and paper, because if you can write out the qualities that make your hate partner so repugnant, you’ll gain tremendous clarity. 
+  - When you hate, your soul is ready to do some of the deepest work you’ll ever experience. Do yourself and everyone around you a favor: get into a conscious relationship with your hatred and your projections. Don’t repress your hatred, don’t explode with it, and don’t try to erase it by shellacking fraudulent acceptance on top of it.
+
 
 - **FEAR: Intuition & Action**
   - ACTION REQUIRED: Fear arises to orient you to change, novelty, or possible physical hazards. Fear focuses on the present moment and your immediate surroundings.
@@ -107,10 +151,32 @@ tags: ["emotionalintelligence"]
   - THE INTERNAL QUESTIONS: What action should be taken?
   - DISCUSSION: What are your reactions to the things we’ve all been taught about fear? Have you ever heard any positive messages about fear? Think about times when your fear has worked well for you.
 
+  - We don’t recognize fear as the innate ability to act, move, react, and change our behavior based on the input we receive. We call fear our horse sense, our gut instincts, our little birdie, or even our guardian angel. 
+  - When your emotional realm is healthy, your anger and fear work together to keep you safe and sound. However, when your emotional realm is unhealthy, this is almost exactly the way your anger and fear work together: when your boundary is decayed, ignored, and poorly maintained because you don’t honor your anger, your fears will have to become hypervigilant and overly activated just to keep you upright. 
+  - If you have no boundary, you’ll be unable to monitor your behavior or identify proper behavior in others, and you’ll be vulnerable most of the time. Without a strong boundary, you may experience amorphous anxieties, you may attack people verbally or physically, or accuse them of plotting against you. 
+  - When your flowing fear is allowed to take its secure and proper position inside your well-defined boundaries, it will bring you an instinctive sense of readiness, focus, calm, and vigor. In fact, you won’t seem fearful at all, just as you won't appear angry when you set your boundary properly. 
+  - Fear is not cowardice. It is the protective mechanism inside you that knows you’re not adequately prepared for whatever comes next. When you ask your fear the internal question, What action should be taken. your fear will tell you in no uncertain terms: Stand still. Run! Speak out. Remain silent. Duck! Fade into the background. Walk forcefully. Move quickly to the left. Look stupid. 
+  - When you can channel your fear properly, it will contribute a sense of self-preservation while it pushes you to study, prepare, and renew your understanding of courage as the capacity to live life on your own terms. 
+  - Fear is your body’s way of telling you that something is wrong. It helps you know when you’re about to take on a new job, a new love affair, or any new direction in your life. 
+  - To access your fear, you must ground and focus yourself inside your sacred space. When you have free access to your fear, you’ll tend to be calm and relaxed most of the time because your intuition will be fully activated, which means you’ll be able to avoid unnecessary dangers without much effort. 
+  - When you allow your fear to instruct your behavior, you may find yourself acting in unaccustomed ways. For example, you may fight back or deal with the situation when you’re actually very gentle. When your life is at stake, your fear will cause you to act in lifesaving ways that might never occur to you in a normal situation.
+  - When you can see your flashbacks as brilliant survival tools, they can become fun and comical. You can move from a broken-down victim position into a powerful survivor stance. Your fear can contribute an agile, resourceful, and humorous Jackie Chan stance that will help you see yourself in an entirely new light. 
+  - Fears of the future can be worked with in the same way. If you can preplay fearful events in your mind, you can prepare yourself for any number of win-win scenarios before they happen. Fear knows that this world is full of dangers and novel situations, and it wants to prepare you for them. 
+  - When dealing with fear in others, it is important to treat them not as weaklings or overly reactive beings, but as intuitive people whose instincts have become activated. If you can shift your attitude, you can help these people connect to their intuitive abilities. 
+  - When fear is welcomed and respected, it alerts people to danger or novelty, prepares them to act decisively, contributes the energy they need to complete whichever action works best in each situation, and then retreats to its watchful free-flowing state. 
+  - There are two types of anxiety. The first is a constant sense of dread, wariness, nervousness, and apprehension that arises when we’re clogged with rejected and dishonored fears. The second is a nagging sense of disturbance or distress when you have no precise information to grab hold of. 
+  - The intuitive and instinctual emotion of fear is a warning signal that needs to be listened to. It can save your life. Worry and anxieties are not always linked to physical danger, but they always try to get your attention for crucial reasons.
+
+
 - **WORRY & ANXIETY: Focus & Completion**
   - ACTION REQUIRED: Worry and anxiety arise to help you organize, plan for, and complete your tasks – both are related to fear, but they arise to help you orient to possible upcoming change, novelty, or hazard. Bonus: If you feel anxiety or worry, you’ll know that there is nothing to fear in the present moment!
   - GIFTS: Foresight ~ Focus ~ Conscience ~ Task-completion ~ Procrastination alert!
   - THE INTERNAL QUESTIONS: What triggered this feeling? What truly needs to be done?
+
+  - If you’re constantly anxious, pay attention to your grounding. Connecting yourself to the earth and off-loading your tension is a great way to calm and focus yourself so that you can feel safe. If you struggle with anxiety, you’ll often experience chemical disturbances due to an increase in adrenaline, cortisol, and related hormones. 
+  - When you’re coming out of an anxiety trance, your personal space can become small and puny in response to your lack of usable instincts. Pouring your anxiety into your personal space will help your body relax and heal itself, but it will also fill your personal space with enough energy to restore itself to its proper size. 
+  - When people are stuck in the territory of worry and anxiety, they are near their fears but not yet able to work with them consciously. To help them create sacred space for their anxieties, you can support them in tracking their way back to their true fears and their ability to act decisively.
+
 
 - **CONFUSION: The Mask for Fear**
   - ACTION REQUIRED: Confusion is a mask for fear and anxiety, and it arises when you are overwhelmed by change, novelty, or too many tasks. Confusion can be a lovely vacation from overwhelm.
@@ -118,16 +184,39 @@ tags: ["emotionalintelligence"]
   - THE INTERNAL QUESTIONS: What is my intention? What action should be taken?
   - DISCUSSION: Are there situations or relationships in which you regularly feel confused or indecisive? How might your confusion be protecting you in these situations or relationships?
 
+  - When you’re confused, you’ll find yourself dithering, changing your mind constantly, and being nearly unable to focus or ground yourself. Confusion is a form of dissociation that takes you out of commission when you’ve lost your way. It’s a bit like apathy, which is also a masking state. 
+  - When you’re confused, ask yourself what your intention is. Don’t focus on which direction you should go in, what choice you should make, or what thing you should do, but on what your intention is. Your confusion will stop you when you’re not following your instincts or your flowing fear. 
+  - When you’re confused, it’s important to understand that something aware inside you is working on your behalf. If you can stop yourself and reassess your position when your confusion arises, you’ll be able to connect to that awareness and find your way back to the center of your meaningful, whole life. 
+  - It can be difficult to help others honor their confusion, as you may be tempted to take an incorrect position as the knower of all things and the giver of all answers. Instead, help them honor their need for a time-out and support them in regaining their instincts, decisiveness, and ingenuity. 
+
 - **JEALOUSY: Relational Radar**
   - ACTION REQUIRED: Jealousy arises when your connection to love, mate-retention, or loyalty is threatened.
   - GIFTS: Fairness ~ Commitment ~ Security ~ Connection ~ Loyalty
   - THE INTERNAL QUESTIONS: What has been betrayed? What must be healed and restored?
   - DISCUSSION: What do your jealousy and envy tell you about what you may be missing, wanting, or needing in your life? Karla has said that a great question to ask jealousy and envy in order to help them focus on the entire situation and everyone’s needs is: “What would be fair?”
 
+  - Jealousy and envy are separate emotional states, but they both arise in response to unfaithfulness or deceit in an intimate relationship. They are a mixture of anger and fear, and they attempt to set or restore lost boundaries. 
+  - Jealousy is a combination of intuition and self-protection that arises in its mood state when your most important relationships are threatened. Intimacy and security in intimate relationships is extremely important to your health and well-being, so much so that you’ll feel physically threatened when you sense betrayal from your mate. 
+  - If your partner is unreliable, or your position as the primary focus of your partner is threatened, your jealousy will be a natural and healthy response. However, if you don’t listen to and honor your jealousy, it will tend to drag you into a feedback loop that can make your life uncomfortable. 
+  - Jealousy is a form of anger that you’ve been holding onto, and it’s time to let it go and channel it into your boundary. Channeling your jealousy into your boundary will help strengthen it, and then you can address your shock and diminishment with renewed strength. 
+  - When you’re done with your jealousy, thank it and let it know it’s welcome in the future to help you choose, maintain, and watch over the most important relationships in your life. 
+  - Jealousy is a common emotion, and while it may be difficult to deal with, it is not disordered. It is your job to restore your boundaries, intuition, and ability to choose devoted relationships, not to forever rid yourself of the healing force of jealousy. 
+  - If you can help people honor and listen to their jealousy, you’ll perform a great healing service. If you try to argue or shame people out of their jealousy, you’ll disable their instincts and their boundaries. 
+
+
 - **ENVY: Interactional Radar**
   - ACTION REQUIRED: Envy arises when your connection to material security, resources, or recognition is threatened.
   - GIFTS: Fairness ~ Security ~ Access to resources ~ Proper recognition ~ Self-preservation
   - THE INTERNAL QUESTIONS: What has been betrayed? What must be made right?
+
+  - Envy is similar to jealousy in that it is a mixture of boundary-restoring anger and intuitive fear. It alerts you to the risks to your position and security in your social group, but it does so in connection to the fair and equitable distribution of resources and recognition, rather than threats to your reproductive survival.
+  - Envy is a powerful emotion that can lead to the destruction of your boundaries, your intuition, and your effectiveness. It is easy to see why envy has such a bad reputation. 
+  - Envy, when properly honored and channeled, helps you understand social structures and work within them or leave them behind if you cannot work within them. It gives you the internal security and intuition you need to meet and respond to the many threats and sudden changes you’ll experience in your quest for resources. 
+  - When you can accept the intense anger inside envy and move it out of your body, you’ll be able to calm yourself enough to focus and access the intuition envy carries with it. When you can treat your behaviors as strategies, you’ll be able to explore and amend them in favor of newer strategies that may fit into your present-day social situation in more advantageous ways. 
+  - When you’re done with the exercise, bless your envy and place it in your emotional realm. It will give you the inner strength and awareness you need to observe and even celebrate the gains and recognitions of others while you nurture your own connections to resources, social support, and recognition. 
+  - If you are still stuck on envy, you may need to see a therapist. envy is a powerful emotion, and it can throw you into the rapids if you aren’t careful. It can also be caused by a childhood that twisted your envy into greed. 
+  - Envy is the emotion that arises in response to a threat to your social standing and resources. It can be difficult to work with, because it often goes along with shame, which many people have difficulty dealing with.
+
 
 - **PANIC AND TERROR: Frozen Fire**
   - ACTION REQUIRED: Panic and terror arise when your physical life is directly and immediately threatened. You have three choices: Fight, flee, or freeze.
@@ -136,17 +225,47 @@ tags: ["emotionalintelligence"]
   - THE INTERNAL QUESTIONS (for PTSD): What has been frozen in time? What healing action must be taken?
   - DISCUSSION: Panic and terror arise to literally save your life. Have there been times where you’ve experienced the lifesaving gifts of panic or terror? If you’d like to share with the group, please be careful to tell your story in a non-dramatic way so that you don’t overwhelm your group mates. For instance, don’t get into gory details – just note the traumatic incident (i.e., car crash, injury, betrayal), and focus on which of the three responses your panic selected to save your life: fight, flee, or freeze.
 
+  - Freezing is a response that helps us survive dangerous or traumatizing situations. It can dull our senses to excruciating pain, protect us from overwhelming stimuli, and present a corpselike demeanor to our attackers. However, in the aftermath of panic and terror, there’s so much activation that it’s difficult to revisit, renegotiate, and integrate the situation. 
+  - If you can’t track your panic attacks back to a trauma, it may be because we train ourselves to ignore and dissociate from our thoughts, emotions, dreams, and even our physical sensations. If you’re a sensitive person and you’ve become dissociated in response to this relentless assault, your psyche will need to revisit each instance of dissociation in order to help you reintegrate yourself and come back to life. 
+  - When your terror and panic are activated in response to trauma, they move forward to increase your adrenaline in case you have the chance to fight or flee at any time during your ordeal. They help you freeze and release heightened amounts of painkilling endorphins so you’ll be more likely to survive any injury.
+  - If you’re being treated for panic attacks, you should focus on your grounding skills so that you can release some of the activated energy that’s trapped in your body. You should also avoid stimulants, which will help you calm and heal your overworked adrenals. 
+  - When you’re in the territory of panic, you may have a lot of energy stored in your body. Before you enter a flashback, it’s helpful to pour this energy into your boundaries and your personal space. This helps you calm your body and revitalize your boundary. 
+  - After you’ve worked through a panic cycle, it’s important to refill yourself consciously. This will help your stasis tendencies refill you in the way they usually do, which is not always consciously. You must refill yourself consciously so that your movements into stasis are as conscious as your movements into change.
+
 - **SADNESS: The Water Bearer**
   - ACTION REQUIRED: Sadness arises when it’s time to let go of something that isn’t working anyway. If you can truly let go, relaxation and rejuvenation will surely follow.
   - GIFTS: Release ~ Fluidity ~ Grounding ~ Relaxation ~ Rejuvenation
   - THE INTERNAL QUESTIONS: What must be released? What must be rejuvenated?
   - DISCUSSION: Do you welcome your sadness and give it the time it needs to ground you and help you let go of things that no longer serve you? Or do you try to avoid, repress, or rush through sadness – so that it never has the chance to bring relaxation and rejuvenation to you?
 
+  - Sadness is your psyche’s water-bearer. It helps you slow down and feel your losses, and it helps you release what needs to be released. It helps you trust in the flow of time, in the surprising flow of vision and inspiration, and in the ebb and flow of human relationships. 
+  - When you move into the softened releasing posture of sadness, you can uncouple yourself from the ideas, situations, or people you’ve outgrown or whom you attached to with improper intent. Sadness moves forward to question your outdated or hollow attachments in a slow and persistent manner, and it asks you to release them back into the flow of life. 
+  - When your anger and your sadness are harmonized in your psyche, they can help you release outworn ideas or unworkable relationships while you restore your authentic purpose. When you release dead weight and restore yourself to a focused and upright position, you’ll feel rejuvenated and wiser. 
+  - Your anger will protect you from experiencing your sadness unless you’re safe enough to do so. Your anger knows that sadness is real soul-work, and it won’t allow you to move into it until you’re safe enough to do so. 
+  - When you can dance with your anger and sadness, you won’t second-guess or wrestle with any anger that arises in front of your sadness. You’ll realize that anger actually exists to strengthen you when your boundary and self-image are challenged. 
+  - People who lead with sadness are often children of raging or addicted parents. They have experienced firsthand the horrors committed in the name of anger, and as a result, they have completely dropped their anger. However, this is not a condition, but a choice. 
+  - People who lead with sadness often struggle with physical and emotional instability, cycling depressions and anxieties, unworkable relationships, and excruciating loneliness. They must realize that leading with their survival skills instead of their authentic emotions ensures that they will remain in survival mode. 
+  - The practice for sadness is simple: you just stop, drop into yourself, and set your boundary strongly as you ask the internal questions, What must be released. and What must be rejuvenated. Sadness brings incredible healing energies with it. 
+  - When you’re inflexible and desiccated, you need to bring flow and relaxation back to your life. When you’re tense and stagnant, you must move toward joy and happiness, which cannot and will not heal you. When you require deep relaxation and deep release, you must move honorably and meaningfully into sadness. 
+  - When we encounter sadness, we usually try to make the person around us smile. However, very few people are given the time or permission to feel truly sad. We dry their tears, hug them, and make jokes. 
+  - Sadness is a natural emotion that helps you deal with specific situations, and it helps you rejuvenate and renew before moving on. However, if you can ask your body to don the posture of despair, you’ll immediately feel the difference between it and sadness. 
+  - When your sadness is trapped, your mind and body will become clogged, and you’ll probably dissociate to get away from the whole mess. When you can break through despair and restore your flow, you’ll be able to live again.
+
+
 - **GRIEF: The Deep River of the Soul**
   - ACTION REQUIRED: Grief arises when something has been lost irretrievably or when someone has died.
   - GIFTS: If you can’t move into your grief, you’ll only experience destabilization and dissociation in response to the shock of loss, injustice, inequity, and death, instead of being cleansed and renewed in the river of all souls
   - THE INTERNAL QUESTIONS: What must be mourned? What must be released completely?
   - DISCUSSION: Grief is not openly supported by most people, except in funeral rituals. However, funerals can be stilted, shallow, or too rushed to allow people to grieve fully. As you think back to a recent death or loss, were you able to grieve fully? Or is your grief still lingering and waiting to support you in utterly letting go?
+
+  - Grief is a beautiful, languid, and powerful emotion that arises when death occurs. It drops you into the river of all souls, and it transports you to the deepest places when you have no choice but to let go. 
+  - Grief is the deep river of the soul, and it is the soul I mean when I say that grief is the deep river of the soul. It is the fully resourced village that incorporates and integrates our bodies, all of our emotions, all of our multiple intelligences, and all of our dreams and visions.
+  - We can’t escape our grief by numbing ourselves to pain and horror with violent entertainment. When we take off our armor and wade into the waters of grief, we’ll discover our sacred position in the dance of all souls.
+  - We humans have a great deal of primal wisdom about grief because there is a greater preponderance of primal wisdom inside our brains than there is intellectual information. We can access this wisdom through ritual. 
+  - When you move through your grief, you may feel a tremendous weight upon you. If you can remember that the movement required in grief is downward, you’ll understand the necessity of this heaviness, which anchors you and presses you into your body so that you can feel the weight and the depth of the situation. 
+  - If your grief is stuck simply because it is unfinished, walking yourself through the ritual practice for grief will help you complete your grieving process. Grieving takes its own time, and it won’t leave you until you perform your sacred tasks. 
+  - The first rule for creating sacred space for grief is not to rush in and pull the mourner out of the river. Grieving people need to be treated as sacred vessels through which the river of life is flowing in all its power and all its beauty.
+  - When your grieving process is complete, you should wrap up the shrine and transport your dead into the next world. Then, you should dismantle your shrine and place the photos and items in new configurations. Remember to include your ancestors in your life by talking or singing to them, asking them questions, or praying to them.
 
 - **SITUATIONAL DEPRESSION: Ingenious Stagnation**
   - ACTION REQUIRED: Situational depression arises when some aspect of your life is unworkable or dysfunctional; depression stops you for a vital reason.
@@ -155,11 +274,40 @@ tags: ["emotionalintelligence"]
     - Important note: Please study the different forms of depression on pages 328-330 in The Language of Emotions; many require therapeutic and/or medical intervention.
   - DISCUSSION: Karla makes a distinction between situational depression and the more serious forms of depression (see pages 329-330). If you have worked with your own situational depression (which restricts your energy for important reasons), what did you find to be helpful? What didn’t work?
 
+  - Depression is a constellation of emotions, postures, decisions, and health issues that erect what I call the brilliant stop sign of the soul. It is important to understand the difference between despair, which arises when your natural sadness has become blocked or trapped, and depression, which is a cyclical and unresolving movement through any number of blocked or overemphasized emotions. 
+  - untreated depressions can lead to brain damage, so it is important to get help. They can also lead to cycling anxieties, phobias, or OCD symptoms, which require a different form of treatment. 
+  - situational depression is the form of depression most of us experience. It is when we feel down and sad about specific events, but not about everything. It is easily treated with the depression practice in this chapter. 
+  - Situational depression is a rapids-level emotion that arises when we disconnect our elements and intelligences from one another. It is a protective and self-respecting response to the internal, familial, social, financial, and political decay and injustice we face every day. 
+  - I took 20 years to address my depression, and when I finally did, I was surprised to find that it wasn’t attacking me, but sending parts of my soul away to safety. I realized that my depression was simply trying to save my life. 
+  - Your soul’s task isn’t to erase your depression and keep walking; it is to understand your necessary movement into stagnation and address your depression as a peer instead of a combatant. Your sacred task is to end the war between your elements, clear away the rubble, and make a home that the children of your soul would want to come back to. 
+  - When you’re in a depression, it’s difficult to focus on anything because your depression sucks all your energy away. The first movement of depression is a postural change, and it’s important to listen to your depression and bow your head. In most cases, one or both of your airy logic and your fiery vision will tend to dominate, which will throw your earthy body and watery emotions into disarray. 
+  - When you can ground and integrate yourself, you’ll be able to differentiate between the many emotional states trapped inside your depression. You’ll be able to feel the difference between sadness and despair, between grief and world-weariness, between anxiety and healthy fear, and between apathy and an urge to suicide. 
+  - The key to coming out of a depressive spiral is to treat activity and rest as equally important things. If you’re depressed and inactive, you should begin exercising gently and work your way back to fitness. 
+  - Sleep is also important for your emotional and physical health, and many studies have shown that sleep disruptions and sleep deprivation contribute to depression and hormonal and chemical imbalances. 
+  - Depression is a result of an internal imbalance that diminishes your emotional agility and your ability to feel any emotion properly. It steps in when your intellect and your emotions are at each other’s throats, when you fly over your emotions and batter them with logic, or when your body trammels toward meeting its needs for food, sex, and more stuff without any emotional, spiritual, or logical considerations. 
+  - Depression is not caused by simply being unhappy, but by fighting an exhausting battle that impedes your ability to act conscientiously. If you were to simply add more happiness to your system, your actions would be damaging to you and everyone around you. 
+  - When you’re in the midst of depression, it’s hard to believe that anything can be done to help the world become a better place. But when you take your depression personally enough to get to work, you’ll begin to alleviate your own depression, and the trouble in our culture will begin to ease. 
+  - It is important to distinguish between depression that is actually stuck, and depression that isn’t quite through yet because you’ve still got imbalances to deal with. If you’re meeting your depression in as many ways as you can, but it just won’t move at all, see a doctor or therapist. 
+  - Depression is a serious and life-threatening illness, and it’s important to recognize that people with depression may not be able to handle your help. Remember to welcome your depression as a signal of imbalance in your separate elements and intelligences.
+
+
 - **SUICIDAL URGES**
   - ACTION REQUIRED: when suicidal urges arise, it can mean that something integral to your identity (an idea, a behavior, a relationship, a job, etc.) has become intolerable and needs to end completely – to die. However, you don’t need to die. We need you here!.
   - GIFTS: energy to wrench yourself bodily, emotionally, psychologically, and spiritually out of a situation that is killing you already
   - THE INTERNAL STATEMENT: What idea or behavior must end now? What can no longer be tolerated in my soul?
   - DISCUSSION: If you feel comfortable with the subject, share a situation in which you felt suicidal urges. Since you survived, what helped you? Were you able to identify the intolerable situation that needed to end?
+
+  - If you’ve turned to this chapter after gathering your skills in all the emotions leading up to this one, you’re ready to approach suicidal urges. They should only be approached when you’re comfortable inside your vibrantly blazing boundary and have access to therapeutic support. 
+  - The last resort of a soul in torment is to suicide, when your brain chemistry or untreated sleep disorders have thoroughly destabilized you. Suicidal urges arise when your fears have been overwhelmed, your angers have been crushed, your boundaries have been trampled, and you’ve been separated from your sadness and grief. 
+  - When you can dive into panic, you’ll find incredible power and limitless courage inside it. The same is true of the suicidal urge. When you ask prayerfully what must end and what can no longer be tolerated in your soul, the force inside your suicidal urge will help you perform some of the deepest soul-work you’ll ever experience. 
+  - Suicidal urges are not dangerous if you can channel them honorably. They can even comfort you with thoughts of escaping the cruelties of this world and falling into a never-ending sleep. However, the reality of suicide is a complete disaster. 
+  - Channeling suicidal urges is a complicated process that involves setting a strong boundary, focusing yourself, and then diving into the feelings you’ve been avoiding for so long. It can be a roller-coaster ride, but it gets easier after that. 
+  - I asked my suicidal urge to come forward, and I felt some darkness, some depression, and some sadness. I then projected dark colors, a watery blue sadness, and a gray depressed feeling into my personal space. 
+  - I had to prepare for the difficult stage work ahead of me by dealing with my suicidal urge. I learned that each of my emotions was trying to help me prepare for the stage work, and I understood them better as a result. 
+  - When you’re ready to work with your own suicidal urges, you should fire up your boundary and intensify your grounding. Suicidal urges travel with many trapped emotions and traumatic memories, so you should prepare yourself for their intensity by becoming proficient in each of your empathic skills. 
+  - When a suicidal urge arises, it brings you the ferocity you need to rescue your soul from hell. Don’t repress your suicidal emotions – use them to destroy your contracts. 
+  - After channeling a suicidal urge, you’ll be in a very different place, and you may have a new soul assignment. The channeling of this urge always reconnects you to your dreams and your innate intelligences. With its blessing, you’ll have new information about which elements or intelligences need to be revitalized and integrated. 
+  - It is important to understand that suicidal urges are not just literal wishes for death, but signs that something inside you is already threatening your life. Suicidal urges are the darkness before dawn, and it is important to let them have their kill in a sacred, empathic way.
 
 - **HAPPINESS: Anticipation & Possibility**
   - ACTION REQUIRED: Happiness arises to help you look forward to the future with hope and delight.
@@ -167,17 +315,32 @@ tags: ["emotionalintelligence"]
   - THE INTERNAL STATEMENT: Thank you for this lively celebration!
   - DISCUSSION: It’s difficult to achieve a balanced relationship with happiness in a culture that chases after it as if it’s a prize. Do you allow your happiness to flow and recede freely, in its own way and in its own time, or have you been taught to chase after it and never let it go? What is your relationship with your happiness? 
 
+  - Happiness is the most dangerous emotion, not in and of itself, but because of the way we behave in relation to it. We chase after it, sell our souls for it, and try to cement ourselves into its territory. This exploitation of happiness jeopardizes us because when we refuse to honor any emotion except happiness, our emotional landscapes become stagnant and unbalanced. 
+  - Happiness is a difficult emotion for many of us to grasp because it is often paired with the word idiot in some form or fashion. But happiness isn’t ignorance or foolishness; it holds our sense of wonder and anticipation of good things. 
+  - When happiness arises naturally, you should laugh, goof, smile, and dream. Then you should flow into your next task or emotion. If you try to imprison your happiness, you’ll spiral into a forced gaiety that will deaden your entire emotional realm. 
+  - The practice for all of the happiness-based emotions is simple and infinitely difficult: you acknowledge them, thank them, and then let them go completely. If you force your contentment to be your leading emotional state, you’ll lose your way in a split second.
+
+
 - **CONTENTMENT: Pleasure & Appreciation**
   - ACTION REQUIRED: Contentment arises to help you look toward yourself with pride and satisfaction.
   - GIFTS: Enjoyment ~ Satisfaction ~ Self-esteem ~ Renewal ~ Confidence ~ Fulfillment
   - THE INTERNAL STATEMENT: Thank you for renewing my faith in myself!
   - DISCUSSION: When was the last time you felt content with yourself? Do you allow yourself to feel and enjoy contentment when you’ve done well or accomplished something? If not, how can you give yourself more credit when it’s due? 
 
+  - Contentment is the act of meeting your own expectations and internal moral code, and it arises after an important goal has been accomplished. It comes forward in response to tangible actions and the mastery of clear-cut challenges.
+
 - **JOY: Affinity & Communion**
   - ACTION REQUIRED: Joy arises to help you feel a blissful sense of expansiveness and connection to others, to ideas, or to experiences.
   - GIFTS: Expansion ~ Communion ~ Inspiration ~ Splendor ~ Radiance ~ Bliss
   - THE INTERNAL STATEMENT: Thank you for this radiant moment! Be aware: Extreme joy (exhilaration) is a state to approach with care, especially if it cycles with depression or sadness. Repetitive exhilaration or flights of giddy mania may be a sign of emotional dysregulation; please reach out for help.
   - DISCUSSION: Have you ever become too attached to the experience of joy and tried to hold on to it or force it to arise in place of another emotion or experience? If so, how can you develop a more appropriate and empathic relationship with your joy?
+
+  - Joy is the trickiest and most dangerous of all the happiness-based emotions. It is treated as an orgasmic emotional state, which means that people spend a lot of time working toward it as a goal instead of living consciously and appropriately in relation to it. 
+  - Joy is a natural human emotion that arises after you’ve come to the end of a long and difficult path. It is not a magical gift from the cosmos, but an emotion that arises when you perform your rejuvenation practice. 
+  - You can use joy to rejuvenate yourself. It arises naturally when you’ve done honest and strenuous work to arrive at a place of communion with all parts of yourself and the world. Your grounding and integrating task when joy arises is to remind yourself that the hard work is just as beautiful and meaningful as the joy. 
+  - When you are around people who are imbued with happiness, contentment, or joy, do not interfere with them. Instead, simply enjoy them. This can be difficult if your own relationship with any of these emotions is skewed. 
+  - True happiness, contentment, and joy bring delight into your conscious awareness if you treat each one respectfully. If you try to paste a haunted smile onto your face and throw yourself into a nightmare of never-ending exhilaration, you’ll destabilize every part of yourself. 
+  - If you’ve been trying to stay in exhilaration, joy, or whatever they’re calling it this year, don’t be surprised if you’re completely unable to focus. Your healing practice for this territory is the same as the practice for people trapped in depression, because both exhilaration and depression spring from quaternal imbalance, emotional suppression, and avoidance behaviors.
 
 # Questions/Discussions/Exercises
 
@@ -291,6 +454,7 @@ We need to be able to identify our emotions, understand them, and begin to commu
 Empathy is a normal human skill that allows us to read the interior state, intentions, emotions, desires, and possible actions of other people or animals. It is one of the multiple kinds of intelligence we have. 
 
 Empaths are often thought of as being only logical and spatial, but these are not the only forms of intelligence. Empaths are also linguistic, bodily, and artistic. They are able to access all of their intelligences, but they may not receive direct instruction in regard to their emotions, interpersonal skills, or intrapersonal skills. 
+
 We were never taught how to identify our emotions or work with them effectively. We were instead taught to act out our anger and sadness, which would take us out of the normal school day and make us targets for the other kids. 
 
 The four-element theory is a way to understand the world that was developed to help us understand the emotions. It is not a scientific one, but it is a mythological and poetic framework that helps us understand the world. 
@@ -569,40 +733,12 @@ Maintaining flow in each of your elements isn’t a difficult or time-consuming 
 The emotions are a wonderful place to practice your empath skills. They are the source of our most powerful experiences, and they are also the source of our most repetitive behaviors. If an emotion just won’t respond to you, or if certain emotional states are repetitive and troubling, reach out for help. 
 
 
-When you personify anger, you’ll find that it is a mix between a stalwart castle guard and an ancient sage. Anger sets your boundaries by walking the perimeter of your soul and keeping an eye on you, the people around you, and your environment. 
-
-
-Anger is a vital and boundary-defining emotion. When you can instead channel this noble emotion properly, you’ll be able to maintain your boundary and protect the boundaries of others with honor. 
-
-
-When we drop our vital, anger-supported boundaries and ignore our individual needs and wishes, we become extremely vulnerable. When the psyche is unprotected, anger becomes necessary, and if anger is constantly pushed into the shadows, it can only erupt in shadowy ways. 
-
-
 It is not healthy to be utterly empathic with everyone you meet. Your emotions should flow in your own life, not in others’. If you maintain a constant, unwavering level of empathic receptivity without any balancing or cleansing practices, your life will become completely disordered. 
 
-
-When you channel your anger properly, it will help you maintain your sense of self while protecting you and the people around you. When you go on a rampage, you dishonor everyone you encounter. 
-
-
-When you take hold of your anger and channel it properly, you allow your anger to arise when you’re attacked. You welcome the potent surge of indignation and honor the fact of the attack, instead of brushing it away with pseudospiritual gentility. 
-
-
-The Taoist saying The glory is not in never falling, but in rising every time you fall is especially valuable in understanding the honorable use of anger. When you can channel your angers, you won’t be invincible, but you’ll be able to see your fall clearly and rise again with honor and compassion. 
-
-
-When you are angry, you are honouring the person or situation that angers you. It’s difficult to honor something or someone that is unimportant to you. If you can use your anger to reset your boundary and burn your contracts with whatever has angered you, you’ll learn vital truths about the issues you need to face and the relationships you need to mend or honor. 
-
-
-When you’re done with the conflict, take some time to reground and refocus yourself. Anger releases a great deal of energy into your system, so it’s a good idea to refresh yourself and bring every part of you into the present moment, where you’re a different person than you were when the conflict began. 
+ 
 
 
 When dealing with angry people, it’s important to remember that they need protection and not restoration. You should set your own boundary strongly before attempting to intervene. Don’t try to create boundaries for angry people or teach them in any way; interference will only degrade their boundaries further. 
-
-
-It may seem contradictory, but habitually angry people are also deeply caring people because anger always stems from concern. When people in your life are habitually angry, bless them; they are feeling too much of the world for their comfort, and their boundaries are in tatters. 
-
-
-If you feel unpleasant aftereffects from your anger, just empathize with them. If your anger causes any unpleasant aftereffects, know that you may have a punishing connection with it. Burn these contracts with your anger, and your anger will be able to flow properly and become the healing force it was meant to be. 
 
 
 Emotions are like the weather, they come and go. If you’re not able to deal with them, they will repeat themselves. If you’ve got unhealthy beliefs about your emotions, you know what to do: burn your contracts and move on. 
@@ -625,93 +761,10 @@ The empathic process of trauma healing does not come with maps or guidebooks. It
 When you’re ready, you’ll be able to perform this full-body movement to the third stage of initiation. Your first task is to create the sacred space in which that work can occur: channel your angers, rages, and furies into your boundary and into intensified grounding. 
 
 
-If you’re unable or unwilling to deal with your anger, you’ll fall into the masking state of apathy. Apathy is a state of dissociation, usually caused by being stuck in the wrong environment for your needs. It seeks distractions such as TV, fun food, new loves, travel, money, and shopping. 
-
-
-Apathy and boredom are two of the most common symptoms of the environment being too small for your soul. They are signs of a lack of boundaries and a need for change, but they are done in an ineffectual and distractible way. 
-
-
-We struggle against our natural depressions and anxieties with incredible amounts of boredom-relieving stimuli. We can’t stop to feel or dream because we have to keep moving. In response, we become highly distractible automatons. 
-
-
-It is important to distinguish between apathy that arises from your unwillingness to rest and apathy that arises from your inability to set boundaries and channel your anger appropriately. If you are filled with apathy right now, honor it, but feed it with a deeper version of what it wants. 
-
-
-Apathy is a difficult condition to deal with because it is often caused by people isolating themselves or throwing their energy away rather than setting boundaries properly. You can help honor apathy in others by modeling honorable engagement. 
-
-
-Guilt and shame are two of the most important emotions that help you mature into a well-regulated person. They help you understand yourself and your actions, and they help you honorably monitor your behavior, emotions, thoughts, and physical desires. 
-
-
-Guilt is the knowledge and acknowledgment of wrongdoing. It is a state of circumstance, and you are either guilty or not guilty in relation to the legal or moral code you value. You cannot feel guilty, because guilt is a concrete state, not an emotional one. Shame is the natural emotional consequence of guilt and wrongdoing. 
-
-
-When shame arises in response to your own authentic and addressable flaws or missteps, it flows appropriately. If you welcome your appropriate shame, you’ll stop yourself before you do something crazy, before you say the wrong thing, or before you enter into unhealthy behaviors or relationships. 
-
-
-When we don’t have a healthy connection to our own shame, we’re often coerced into embodying other people’s ideas of right and wrong. This can lead to an incoherent shame spiral, where we’re simultaneously drawn toward and repelled by shameful and forbidden behaviors. 
-
-
-When you can identify your authentic shame, you’ll be able to brighten and define your boundary, ground yourself firmly, call your intellect into the situation, and examine (and destroy) the contracts that are attached to any excessive or inauthentic shame you might carry. 
-
-
-When you can honor and welcome your shame, it will give you the strength you need to address your ill-considered behaviors and to throw off the foreign tyrannies that disrupt your authenticity. 
-
-
-When your shame arises in the presence of others, it’s important to stop, ground yourself, and focus on it. If you can openly welcome your shame, it will recede naturally and swiftly. 
-
-
-When you’re grounded and centered within your vibrant, shame-supported boundary, the heat and intensity that shame carries will give you the energy you need to shine a spotlight on your own behavior and examine your contracts with whatever has brought your shame forward. 
-
-
-When you’re channeling rapids-level manufactured or trapped shame, each of your skills will help you remain stable. Your grounding will help you release any shame trapped in your body or your psyche, your inner focus will give you a private place from which to operate when your whole being is aflame, and your ability to burn contracts will help you identify and release any trapped shame messages. 
-
-
-When you’re coming out of a shame spiral, it’s important to replace your old, shame-based titles and labels with empowering phrases. For instance, if your smoking bothers you, and your habitual phrase is I can’t stop smoking! I’ve tried a hundred times. I’m just an addict! you can change your words into forceful ones and assert, I won’t stop smoking! I refuse to. 
-
-
-If you don’t find a lot of shaming titles in your psyche, but you still struggle with repetitive shame, you may have boundary trouble. When your boundary is weak or unsuitably inflated, you may tend to enmesh with others simply because your personal boundary isn’t well-defined. 
-
-
-It’s important to help your children connect to their authentic shame in healthy ways. This can be done by letting them be involved in setting punishments for their misdeeds. When they can be involved in deciding upon their acts of contrition, they can connect to their shame in healthy ways. 
-
-
-We have all become so used to dealing with shame that we don’t even recognize it when it arises. It is so vital to the sanctity of the soul that when it is released, it will work unceasingly to expose inferiorities and restore integrity. 
-
-
 It is very easy to crumble in the face of this sort of turmoil, which is why skills, support, and sacred space are necessary. Your ability to ground and focus yourself will allow you to halt any distraction or dissociation you experience. 
 
 
 If you can welcome your shame, you can begin to identify the different forms it takes. Welcome your free-flowing ability to effortlessly support ethical behaviors in yourself and others. 
-
-
-Hatred is a natural and healthy emotion, but it can also be used to alert you to specific interior issues that hinder and endanger you. It is not mere dislike, which goes away when you separate yourself from people who behave badly. 
-
-The shadow is the portion of the psyche that we are not aware of, because we deny it. It holds our squelched impulses, our unfelt emotions, our unacceptable behaviors, and our unlived dreams. 
-
-
-You have the right to feel hatred. It is a sign that something is wrong with you if you can’t feel it. Hatred is a powerful tool that can help you move through difficult issues and catapult yourself into new levels of awareness. 
-
-
-When we express hatred, we fool ourselves into thinking that we’re completely separate from our hate targets. But in reality, we’re depending on them to live out parts of our own shadow. 
-
-
-When we project our material onto others, we lose our integrity, our honor, and our skills. When we project our shadow material onto others, we often can’t work with it in straightforward ways, so we project it. 
-
-
-When we find people who can really live out our unwanted material – our selfishness, our power, our arrogance, our brilliance, our ignorance, and our sexual appetites – there is a bacchanal in our souls. We are mesmerized and fascinated, and we can’t take our eyes off of them. 
-
-
-When we enforce these shadowy contracts with others, our boundaries are stripped, our focus is thrown outside of ourselves, and our villages are in complete disarray. We also dishonor our targets, whether we hate them or adore them, because we force them to become something other than human. 
-
-
-When you are in a hatred spiral with someone, you need a strong and disruptive emotion to separate yourself and rebuild your boundary from scratch. This is no time for gentleness; you need the big guns. So go ahead and flame on - it will heal your boundary, your behavior, and your relationships. 
-
-
-When you’ve burned a few contracts with your hate target, you’re ready to move on to the real work of understanding what makes your hate partner so odious. You may want to get a pen and paper, because if you can write out the qualities that make your hate partner so repugnant, you’ll gain tremendous clarity. 
-
-
-When you hate, your soul is ready to do some of the deepest work you’ll ever experience. Do yourself and everyone around you a favor: get into a conscious relationship with your hatred and your projections. Don’t repress your hatred, don’t explode with it, and don’t try to erase it by shellacking fraudulent acceptance on top of it. 
 
 
 If you’re still angry after you’ve performed your favorite rejuvenation practice, flip back to the practice for rage and fury in section entitled The Practice for Rage and Fury: The Only Way Out Is Through. 
@@ -741,136 +794,11 @@ When you’re driving and checking both rearview mirrors, easing out of the way 
 When you’re working at your office, answering phones, juggling schedules, and tracking down supplies or contractors, your entire being is engaged and focused. You’re scanning through significant amounts of information, altering your behavior in response to changing demands, and ensuring that your business will continue to thrive. 
 
 
-We don’t recognize fear as the innate ability to act, move, react, and change our behavior based on the input we receive. We call fear our horse sense, our gut instincts, our little birdie, or even our guardian angel. 
-
-
-When your emotional realm is healthy, your anger and fear work together to keep you safe and sound. However, when your emotional realm is unhealthy, this is almost exactly the way your anger and fear work together: when your boundary is decayed, ignored, and poorly maintained because you don’t honor your anger, your fears will have to become hypervigilant and overly activated just to keep you upright. 
-
-
-If you have no boundary, you’ll be unable to monitor your behavior or identify proper behavior in others, and you’ll be vulnerable most of the time. Without a strong boundary, you may experience amorphous anxieties, you may attack people verbally or physically, or accuse them of plotting against you. 
-
-
-When your flowing fear is allowed to take its secure and proper position inside your well-defined boundaries, it will bring you an instinctive sense of readiness, focus, calm, and vigor. In fact, you won’t seem fearful at all, just as you won't appear angry when you set your boundary properly. 
-
-
-Fear is not cowardice. It is the protective mechanism inside you that knows you’re not adequately prepared for whatever comes next. When you ask your fear the internal question, What action should be taken. your fear will tell you in no uncertain terms: Stand still. Run! Speak out. Remain silent. Duck! Fade into the background. Walk forcefully. Move quickly to the left. Look stupid. 
-
-
-When you can channel your fear properly, it will contribute a sense of self-preservation while it pushes you to study, prepare, and renew your understanding of courage as the capacity to live life on your own terms. 
-
-
-Fear is your body’s way of telling you that something is wrong. It helps you know when you’re about to take on a new job, a new love affair, or any new direction in your life. 
-
-
-To access your fear, you must ground and focus yourself inside your sacred space. When you have free access to your fear, you’ll tend to be calm and relaxed most of the time because your intuition will be fully activated, which means you’ll be able to avoid unnecessary dangers without much effort. 
-
-
-When you allow your fear to instruct your behavior, you may find yourself acting in unaccustomed ways. For example, you may fight back or deal with the situation when you’re actually very gentle. When your life is at stake, your fear will cause you to act in lifesaving ways that might never occur to you in a normal situation. 
-
-
 If you can’t or won’t integrate your frightening experiences, you’ll remain in a constant state of alarm and readiness: your adrenals will pump full-time, and you’ll find yourself jumping, starting, and striking out at everything. Your body won’t be able to relax, your sleep may become disturbed, and your eating habits may fall into disorder. 
 
 
-When you can see your flashbacks as brilliant survival tools, they can become fun and comical. You can move from a broken-down victim position into a powerful survivor stance. Your fear can contribute an agile, resourceful, and humorous Jackie Chan stance that will help you see yourself in an entirely new light. 
-
-
-Fears of the future can be worked with in the same way. If you can preplay fearful events in your mind, you can prepare yourself for any number of win-win scenarios before they happen. Fear knows that this world is full of dangers and novel situations, and it wants to prepare you for them. 
-
-
-When dealing with fear in others, it is important to treat them not as weaklings or overly reactive beings, but as intuitive people whose instincts have become activated. If you can shift your attitude, you can help these people connect to their intuitive abilities. 
-
-
-When fear is welcomed and respected, it alerts people to danger or novelty, prepares them to act decisively, contributes the energy they need to complete whichever action works best in each situation, and then retreats to its watchful free-flowing state. 
-
-
-There are two types of anxiety. The first is a constant sense of dread, wariness, nervousness, and apprehension that arises when we’re clogged with rejected and dishonored fears. The second is a nagging sense of disturbance or distress when you have no precise information to grab hold of. 
-
-
-The intuitive and instinctual emotion of fear is a warning signal that needs to be listened to. It can save your life. Worry and anxieties are not always linked to physical danger, but they always try to get your attention for crucial reasons. 
-
-
-If you’re constantly anxious, pay attention to your grounding. Connecting yourself to the earth and off-loading your tension is a great way to calm and focus yourself so that you can feel safe. If you struggle with anxiety, you’ll often experience chemical disturbances due to an increase in adrenaline, cortisol, and related hormones. 
-
-
-When you’re coming out of an anxiety trance, your personal space can become small and puny in response to your lack of usable instincts. Pouring your anxiety into your personal space will help your body relax and heal itself, but it will also fill your personal space with enough energy to restore itself to its proper size. 
-
-
-When people are stuck in the territory of worry and anxiety, they are near their fears but not yet able to work with them consciously. To help them create sacred space for their anxieties, you can support them in tracking their way back to their true fears and their ability to act decisively. 
-
-
-When you’re confused, you’ll find yourself dithering, changing your mind constantly, and being nearly unable to focus or ground yourself. Confusion is a form of dissociation that takes you out of commission when you’ve lost your way. It’s a bit like apathy, which is also a masking state. 
-
-
-When you’re confused, ask yourself what your intention is. Don’t focus on which direction you should go in, what choice you should make, or what thing you should do, but on what your intention is. Your confusion will stop you when you’re not following your instincts or your flowing fear. 
-
-
-When you’re confused, it’s important to understand that something aware inside you is working on your behalf. If you can stop yourself and reassess your position when your confusion arises, you’ll be able to connect to that awareness and find your way back to the center of your meaningful, whole life. 
-
-
-It can be difficult to help others honor their confusion, as you may be tempted to take an incorrect position as the knower of all things and the giver of all answers. Instead, help them honor their need for a time-out and support them in regaining their instincts, decisiveness, and ingenuity. 
-
-
-Jealousy and envy are separate emotional states, but they both arise in response to unfaithfulness or deceit in an intimate relationship. They are a mixture of anger and fear, and they attempt to set or restore lost boundaries. 
-
-
-Jealousy is a combination of intuition and self-protection that arises in its mood state when your most important relationships are threatened. Intimacy and security in intimate relationships is extremely important to your health and well-being, so much so that you’ll feel physically threatened when you sense betrayal from your mate. 
-
-
-If your partner is unreliable, or your position as the primary focus of your partner is threatened, your jealousy will be a natural and healthy response. However, if you don’t listen to and honor your jealousy, it will tend to drag you into a feedback loop that can make your life uncomfortable. 
-
-
-Jealousy is a form of anger that you’ve been holding onto, and it’s time to let it go and channel it into your boundary. Channeling your jealousy into your boundary will help strengthen it, and then you can address your shock and diminishment with renewed strength. 
-
-
-When you’re done with your jealousy, thank it and let it know it’s welcome in the future to help you choose, maintain, and watch over the most important relationships in your life. 
-
-
-Jealousy is a common emotion, and while it may be difficult to deal with, it is not disordered. It is your job to restore your boundaries, intuition, and ability to choose devoted relationships, not to forever rid yourself of the healing force of jealousy. 
-
-
-If you can help people honor and listen to their jealousy, you’ll perform a great healing service. If you try to argue or shame people out of their jealousy, you’ll disable their instincts and their boundaries. 
-
-
-Envy is similar to jealousy in that it is a mixture of boundary-restoring anger and intuitive fear. It alerts you to the risks to your position and security in your social group, but it does so in connection to the fair and equitable distribution of resources and recognition, rather than threats to your reproductive survival. 
-
-
-Envy is a powerful emotion that can lead to the destruction of your boundaries, your intuition, and your effectiveness. It is easy to see why envy has such a bad reputation. 
-
-
-Envy, when properly honored and channeled, helps you understand social structures and work within them or leave them behind if you cannot work within them. It gives you the internal security and intuition you need to meet and respond to the many threats and sudden changes you’ll experience in your quest for resources. 
-
-
-When you can accept the intense anger inside envy and move it out of your body, you’ll be able to calm yourself enough to focus and access the intuition envy carries with it. When you can treat your behaviors as strategies, you’ll be able to explore and amend them in favor of newer strategies that may fit into your present-day social situation in more advantageous ways. 
-
-
-When you’re done with the exercise, bless your envy and place it in your emotional realm. It will give you the inner strength and awareness you need to observe and even celebrate the gains and recognitions of others while you nurture your own connections to resources, social support, and recognition. 
-
-
-If you are still stuck on envy, you may need to see a therapist. envy is a powerful emotion, and it can throw you into the rapids if you aren’t careful. It can also be caused by a childhood that twisted your envy into greed. 
-
-
-Envy is the emotion that arises in response to a threat to your social standing and resources. It can be difficult to work with, because it often goes along with shame, which many people have difficulty dealing with. 
-
-
-Freezing is a response that helps us survive dangerous or traumatizing situations. It can dull our senses to excruciating pain, protect us from overwhelming stimuli, and present a corpselike demeanor to our attackers. However, in the aftermath of panic and terror, there’s so much activation that it’s difficult to revisit, renegotiate, and integrate the situation. 
-
-
-If you can’t track your panic attacks back to a trauma, it may be because we train ourselves to ignore and dissociate from our thoughts, emotions, dreams, and even our physical sensations. If you’re a sensitive person and you’ve become dissociated in response to this relentless assault, your psyche will need to revisit each instance of dissociation in order to help you reintegrate yourself and come back to life. 
-
-
-When your terror and panic are activated in response to trauma, they move forward to increase your adrenaline in case you have the chance to fight or flee at any time during your ordeal. They help you freeze and release heightened amounts of painkilling endorphins so you’ll be more likely to survive any injury. 
-
 
 When you’re reintegrated, you’ll be able to move, think, dream, sleep, feel, laugh, and love again not because you’ve eradicated all traces of trauma from your soul, but because you’re fully resourced and whole again. 
-
-
-If you’re being treated for panic attacks, you should focus on your grounding skills so that you can release some of the activated energy that’s trapped in your body. You should also avoid stimulants, which will help you calm and heal your overworked adrenals. 
-
-
-When you’re in the territory of panic, you may have a lot of energy stored in your body. Before you enter a flashback, it’s helpful to pour this energy into your boundaries and your personal space. This helps you calm your body and revitalize your boundary. 
-
-
-After you’ve worked through a panic cycle, it’s important to refill yourself consciously. This will help your stasis tendencies refill you in the way they usually do, which is not always consciously. You must refill yourself consciously so that your movements into stasis are as conscious as your movements into change. 
 
 
 You can help yourself heal and reintegrate by participating in yoga, qigong, and tai chi, as well as dancing, swimming, and sports. Martial arts and self-defense classes teach you the rules of engagement for physical conflicts, which can help you defend yourself in the future. 
@@ -882,42 +810,6 @@ I learned that physical movement can help heal trauma, as it allows the body to 
 If you’ve survived a trauma, be aware of your movement patterns and frozen or numbed areas in your body. Do not pathologize them or blame yourself for holding on to them. Sealing off painful or damaged areas is a very good coping mechanism because until you have skills, the pains you carry can seem overwhelming. 
 
 
-Sadness is your psyche’s water-bearer. It helps you slow down and feel your losses, and it helps you release what needs to be released. It helps you trust in the flow of time, in the surprising flow of vision and inspiration, and in the ebb and flow of human relationships. 
-
-
-When you move into the softened releasing posture of sadness, you can uncouple yourself from the ideas, situations, or people you’ve outgrown or whom you attached to with improper intent. Sadness moves forward to question your outdated or hollow attachments in a slow and persistent manner, and it asks you to release them back into the flow of life. 
-
-
-When your anger and your sadness are harmonized in your psyche, they can help you release outworn ideas or unworkable relationships while you restore your authentic purpose. When you release dead weight and restore yourself to a focused and upright position, you’ll feel rejuvenated and wiser. 
-
-
-Your anger will protect you from experiencing your sadness unless you’re safe enough to do so. Your anger knows that sadness is real soul-work, and it won’t allow you to move into it until you’re safe enough to do so. 
-
-
-When you can dance with your anger and sadness, you won’t second-guess or wrestle with any anger that arises in front of your sadness. You’ll realize that anger actually exists to strengthen you when your boundary and self-image are challenged. 
-
-
-People who lead with sadness are often children of raging or addicted parents. They have experienced firsthand the horrors committed in the name of anger, and as a result, they have completely dropped their anger. However, this is not a condition, but a choice. 
-
-
-People who lead with sadness often struggle with physical and emotional instability, cycling depressions and anxieties, unworkable relationships, and excruciating loneliness. They must realize that leading with their survival skills instead of their authentic emotions ensures that they will remain in survival mode. 
-
-
-The practice for sadness is simple: you just stop, drop into yourself, and set your boundary strongly as you ask the internal questions, What must be released. and What must be rejuvenated. Sadness brings incredible healing energies with it. 
-
-
-When you’re inflexible and desiccated, you need to bring flow and relaxation back to your life. When you’re tense and stagnant, you must move toward joy and happiness, which cannot and will not heal you. When you require deep relaxation and deep release, you must move honorably and meaningfully into sadness. 
-
-
-When we encounter sadness, we usually try to make the person around us smile. However, very few people are given the time or permission to feel truly sad. We dry their tears, hug them, and make jokes. 
-
-
-Sadness is a natural emotion that helps you deal with specific situations, and it helps you rejuvenate and renew before moving on. However, if you can ask your body to don the posture of despair, you’ll immediately feel the difference between it and sadness. 
-
-
-When your sadness is trapped, your mind and body will become clogged, and you’ll probably dissociate to get away from the whole mess. When you can break through despair and restore your flow, you’ll be able to live again. 
-
-
 When you channel despair, you’ll release a massive clog in your psyche. If you’re not grounded and centered, you may be knocked down by the sudden restoration of your flow, so make sure you ground and focus yourself before you begin. 
 
 
@@ -925,12 +817,6 @@ It can be extremely difficult to help people who are trapped in a cycle of despa
 
 
 Depression is a cyclical movement through any number of repetitive states, and it often incorporates despair, but it isn’t made of despair alone. Depression is a rich topic that will be explored in detail in chapter 22. 
-
-
-Grief is a beautiful, languid, and powerful emotion that arises when death occurs. It drops you into the river of all souls, and it transports you to the deepest places when you have no choice but to let go. 
-
-
-Grief is the deep river of the soul, and it is the soul I mean when I say that grief is the deep river of the soul. It is the fully resourced village that incorporates and integrates our bodies, all of our emotions, all of our multiple intelligences, and all of our dreams and visions. 
 
 
 I was always fascinated by death and horror, and I used them to further hone my dissociative skills. I didn’t grieve or mourn when my grandparents died because I was unable to get close to my body or my emotions to feel any loss. I never wailed or cried. 
@@ -942,13 +828,7 @@ If you’re a primarily intellectual person, and this talk of spirits and the ot
 When we don’t allow ourselves to grieve, we’re repeatedly traumatized by death. When we refuse to feel the pain of loss, we refuse to honor our connections. We trick ourselves into thinking that we can guard ourselves against all pain if we just refuse to grieve. 
 
 
-We can’t escape our grief by numbing ourselves to pain and horror with violent entertainment. When we take off our armor and wade into the waters of grief, we’ll discover our sacred position in the dance of all souls. 
-
-
 In indigenous wisdom traditions, it is known that if a culture doesn’t properly grieve their loved ones into their death journeys, they cannot properly welcome their children into their life journeys. 
-
-
-We humans have a great deal of primal wisdom about grief because there is a greater preponderance of primal wisdom inside our brains than there is intellectual information. We can access this wisdom through ritual. 
 
 
 Ritual exists to help us navigate and survive the necessary (and often wrenching) passages of our lives. Without ritual, we lose community and the sacred, as well as our ability to live, love, feel, and grieve. 
@@ -957,136 +837,15 @@ Ritual exists to help us navigate and survive the necessary (and often wrenching
 Your first task is to stay integrated by grounding and centering yourself instead of rushing off into distractions or dissociating completely. Your second task is to create a shrine for the dead or the loss so that you can create a container for your mourning and some delineation between this world and the next. 
 
 
-When you move through your grief, you may feel a tremendous weight upon you. If you can remember that the movement required in grief is downward, you’ll understand the necessity of this heaviness, which anchors you and presses you into your body so that you can feel the weight and the depth of the situation. 
-
-
-When your grieving process is complete, you should wrap up the shrine and transport your dead into the next world. Then, you should dismantle your shrine and place the photos and items in new configurations. Remember to include your ancestors in your life by talking or singing to them, asking them questions, or praying to them. 
-
-
-If your grief is stuck simply because it is unfinished, walking yourself through the ritual practice for grief will help you complete your grieving process. Grieving takes its own time, and it won’t leave you until you perform your sacred tasks. 
-
-
-The first rule for creating sacred space for grief is not to rush in and pull the mourner out of the river. Grieving people need to be treated as sacred vessels through which the river of life is flowing in all its power and all its beauty. 
-
-
 When the grieving is finished, move yourself and the mourner away from the shrine, and have something to eat or drink as a way to ground yourselves. 
 
-
-Depression is a constellation of emotions, postures, decisions, and health issues that erect what I call the brilliant stop sign of the soul. It is important to understand the difference between despair, which arises when your natural sadness has become blocked or trapped, and depression, which is a cyclical and unresolving movement through any number of blocked or overemphasized emotions. 
-
-
-untreated depressions can lead to brain damage, so it is important to get help. They can also lead to cycling anxieties, phobias, or OCD symptoms, which require a different form of treatment. 
-
-
-situational depression is the form of depression most of us experience. It is when we feel down and sad about specific events, but not about everything. It is easily treated with the depression practice in this chapter. 
-
-
-Situational depression is a rapids-level emotion that arises when we disconnect our elements and intelligences from one another. It is a protective and self-respecting response to the internal, familial, social, financial, and political decay and injustice we face every day. 
-
-
-I took 20 years to address my depression, and when I finally did, I was surprised to find that it wasn’t attacking me, but sending parts of my soul away to safety. I realized that my depression was simply trying to save my life. 
-
-
-Your soul’s task isn’t to erase your depression and keep walking; it is to understand your necessary movement into stagnation and address your depression as a peer instead of a combatant. Your sacred task is to end the war between your elements, clear away the rubble, and make a home that the children of your soul would want to come back to. 
-
-
-When you’re in a depression, it’s difficult to focus on anything because your depression sucks all your energy away. The first movement of depression is a postural change, and it’s important to listen to your depression and bow your head. In most cases, one or both of your airy logic and your fiery vision will tend to dominate, which will throw your earthy body and watery emotions into disarray. 
-
-
-When you can ground and integrate yourself, you’ll be able to differentiate between the many emotional states trapped inside your depression. You’ll be able to feel the difference between sadness and despair, between grief and world-weariness, between anxiety and healthy fear, and between apathy and an urge to suicide. 
-
-
-The key to coming out of a depressive spiral is to treat activity and rest as equally important things. If you’re depressed and inactive, you should begin exercising gently and work your way back to fitness. 
-
-
-Sleep is also important for your emotional and physical health, and many studies have shown that sleep disruptions and sleep deprivation contribute to depression and hormonal and chemical imbalances. 
-
-
 To stop distracted and addictive eating, you must first recognize your emotions. When your emotions are trapped and troubled, they need to be honored and channeled, not fed. 
-
-
-Depression is a result of an internal imbalance that diminishes your emotional agility and your ability to feel any emotion properly. It steps in when your intellect and your emotions are at each other’s throats, when you fly over your emotions and batter them with logic, or when your body trammels toward meeting its needs for food, sex, and more stuff without any emotional, spiritual, or logical considerations. 
-
-
-Depression is not caused by simply being unhappy, but by fighting an exhausting battle that impedes your ability to act conscientiously. If you were to simply add more happiness to your system, your actions would be damaging to you and everyone around you. 
-
-
-When you’re in the midst of depression, it’s hard to believe that anything can be done to help the world become a better place. But when you take your depression personally enough to get to work, you’ll begin to alleviate your own depression, and the trouble in our culture will begin to ease. 
-It is important to distinguish between depression that is actually stuck, and depression that isn’t quite through yet because you’ve still got imbalances to deal with. If you’re meeting your depression in as many ways as you can, but it just won’t move at all, see a doctor or therapist. 
-
-
-Depression is a serious and life-threatening illness, and it’s important to recognize that people with depression may not be able to handle your help. Remember to welcome your depression as a signal of imbalance in your separate elements and intelligences. 
-
-
-If you’ve turned to this chapter after gathering your skills in all the emotions leading up to this one, you’re ready to approach suicidal urges. They should only be approached when you’re comfortable inside your vibrantly blazing boundary and have access to therapeutic support. 
-
-
-The last resort of a soul in torment is to suicide, when your brain chemistry or untreated sleep disorders have thoroughly destabilized you. Suicidal urges arise when your fears have been overwhelmed, your angers have been crushed, your boundaries have been trampled, and you’ve been separated from your sadness and grief. 
-
-
-When you can dive into panic, you’ll find incredible power and limitless courage inside it. The same is true of the suicidal urge. When you ask prayerfully what must end and what can no longer be tolerated in your soul, the force inside your suicidal urge will help you perform some of the deepest soul-work you’ll ever experience. 
-
-
-Suicidal urges are not dangerous if you can channel them honorably. They can even comfort you with thoughts of escaping the cruelties of this world and falling into a never-ending sleep. However, the reality of suicide is a complete disaster. 
-
-
-Channeling suicidal urges is a complicated process that involves setting a strong boundary, focusing yourself, and then diving into the feelings you’ve been avoiding for so long. It can be a roller-coaster ride, but it gets easier after that. 
-
-
-I asked my suicidal urge to come forward, and I felt some darkness, some depression, and some sadness. I then projected dark colors, a watery blue sadness, and a gray depressed feeling into my personal space. 
-
-
-I had to prepare for the difficult stage work ahead of me by dealing with my suicidal urge. I learned that each of my emotions was trying to help me prepare for the stage work, and I understood them better as a result. 
-
-
-When you’re ready to work with your own suicidal urges, you should fire up your boundary and intensify your grounding. Suicidal urges travel with many trapped emotions and traumatic memories, so you should prepare yourself for their intensity by becoming proficient in each of your empathic skills. 
-
-
-When a suicidal urge arises, it brings you the ferocity you need to rescue your soul from hell. Don’t repress your suicidal emotions – use them to destroy your contracts. 
-
-After channeling a suicidal urge, you’ll be in a very different place, and you may have a new soul assignment. The channeling of this urge always reconnects you to your dreams and your innate intelligences. With its blessing, you’ll have new information about which elements or intelligences need to be revitalized and integrated. 
-
-
-It is important to understand that suicidal urges are not just literal wishes for death, but signs that something inside you is already threatening your life. Suicidal urges are the darkness before dawn, and it is important to let them have their kill in a sacred, empathic way. 
-
-
-Happiness is the most dangerous emotion, not in and of itself, but because of the way we behave in relation to it. We chase after it, sell our souls for it, and try to cement ourselves into its territory. This exploitation of happiness jeopardizes us because when we refuse to honor any emotion except happiness, our emotional landscapes become stagnant and unbalanced. 
-
-
-Happiness is a difficult emotion for many of us to grasp because it is often paired with the word idiot in some form or fashion. But happiness isn’t ignorance or foolishness; it holds our sense of wonder and anticipation of good things. 
 
 
 You came into this world trailing, as Robert Bly wrote in A Little Book on the Human Shadow, spontaneousities wonderfully preserved from our 150,000 years of tree life, angers well preserved from our 5,000 years of tribal life. You can save the world by allowing yourself to be happy, even slaphappy, while allowing equal time for the adult view, the depression, and the truth of the degradation all around you. 
 
 
-When happiness arises naturally, you should laugh, goof, smile, and dream. Then you should flow into your next task or emotion. If you try to imprison your happiness, you’ll spiral into a forced gaiety that will deaden your entire emotional realm. 
-
-
-Contentment is the act of meeting your own expectations and internal moral code, and it arises after an important goal has been accomplished. It comes forward in response to tangible actions and the mastery of clear-cut challenges. 
-
-
-The practice for all of the happiness-based emotions is simple and infinitely difficult: you acknowledge them, thank them, and then let them go completely. If you force your contentment to be your leading emotional state, you’ll lose your way in a split second. 
-
-
-Joy is the trickiest and most dangerous of all the happiness-based emotions. It is treated as an orgasmic emotional state, which means that people spend a lot of time working toward it as a goal instead of living consciously and appropriately in relation to it. 
-
-
-Joy is a natural human emotion that arises after you’ve come to the end of a long and difficult path. It is not a magical gift from the cosmos, but an emotion that arises when you perform your rejuvenation practice. 
-
-
-You can use joy to rejuvenate yourself. It arises naturally when you’ve done honest and strenuous work to arrive at a place of communion with all parts of yourself and the world. Your grounding and integrating task when joy arises is to remind yourself that the hard work is just as beautiful and meaningful as the joy. 
-
-
-When you are around people who are imbued with happiness, contentment, or joy, do not interfere with them. Instead, simply enjoy them. This can be difficult if your own relationship with any of these emotions is skewed. 
-
-
 Exhilaration, the fourth healthy form of happiness, is when you become not happy and silly, but skittish, delirious, and ungrounded. It is a clear sign of a rupture between your spirit and your body and a conflict between your emotions and your logical intellect. 
-
-
-True happiness, contentment, and joy bring delight into your conscious awareness if you treat each one respectfully. If you try to paste a haunted smile onto your face and throw yourself into a nightmare of never-ending exhilaration, you’ll destabilize every part of yourself. 
-
-
-If you’ve been trying to stay in exhilaration, joy, or whatever they’re calling it this year, don’t be surprised if you’re completely unable to focus. Your healing practice for this territory is the same as the practice for people trapped in depression, because both exhilaration and depression spring from quaternal imbalance, emotional suppression, and avoidance behaviors. 
 
 
 Exhilaration is an addictive and dissociative state, and it can’t be honored or supported in safe ways until the exhilarated person is ready to come back to earth. If you’re involved with people who adhere to exhilarated fire-only practices, you may have to protect yourself from them for your own health and well-being. 
