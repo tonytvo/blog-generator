@@ -1079,4 +1079,7 @@ When you work as an empath, you won’t become superior or invincible. You’ll 
 As you continue your empathic work, you may become more aware of the suffering around you and more involved in the journeys of the people in your life. This means that you are making the world around you safer for emotions and emotional awareness.
 
 # References
-- https://www.grahammann.net/book-notes/48-laws-of-power-robert-greene
+- https://karlamclaren.com/wp-content/uploads/2016/05/Language-of-Emotions-Reading-Guide.pdf
+- http://curioushealing.com/2014/07/the-language-of-emotions-by-karla-mclaren/
+- https://www.spiritualityandpractice.com/books/reviews/view/20020
+- https://www.scribd.com/book/571062577/Summary-of-Karla-McLaren-s-The-Language-of-Emotions
