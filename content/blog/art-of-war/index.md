@@ -503,9 +503,9 @@ tags: ["strategy"]
 
 # Part V: Unconventional (Dirty) Warfare
 - Dirty war is political, deceptive, and supremely manipulative. Often the last recourse of the weak and desperate, it uses any means available to level the playing field.
-- The unconventional has its own logic that you must understand.
+- The unconventional has its logic that you must understand.
 - First, nothing stays new for long. Those who depend on novelty must constantly come up with some fresh idea that goes against the orthodoxies of the time.
-- Second, people who use unconventional methods are very hard to fight. The classic, direct route--the use of force and strength--does not work. You must use indirect methods to combat indirection, fight fire with fire, even at the cost of going dirty yourself. To try to stay clean out of a sense of morality is to risk defeat.
+- Second, people who use unconventional methods are very hard to fight. The classic, direct route--the use of force and strength--does not work. You must use indirect methods to combat indirection, and fight fire with fire, even at the cost of going dirty yourself. To try to stay clean out of a sense of morality is to risk defeat.
 
 
 ## Weave a Seamless Blend of Fact and Fiction: Misperception Strategies
