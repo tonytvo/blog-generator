@@ -509,40 +509,40 @@ tags: ["strategy"]
 
 
 ## Weave a Seamless Blend of Fact and Fiction: Misperception Strategies
-- Since no creature can survive without the ability to see or sense what is going on around it, you must make it hard for your enemies to know what is going on around them, including what you are doing. Disturb their focus and you weaken their strategic powers. People's perceptions are filtered through their emotions; they tend to interpret the world according to what they want to see. Feed their expectations, manufacture a reality to match their desires, and they will fool themselves. The best deceptions are based on ambiguity, mixing fact and fiction so that the one cannot be disentangled from the other. Control people's perceptions of reality and you control them.
+- Since no creature can survive without the ability to see or sense what is happening around it, you must make it hard for your enemies to know what is happening around them, including what you are doing. Disturb their focus, and you weaken their strategic powers. People's perceptions are filtered through their emotions; they tend to interpret the world according to what they want to see. Feed their expectations, manufacture a reality to match their desires, and they will fool themselves. The best deceptions are based on ambiguity, mixing fact and fiction so that one cannot be disentangled from the other. Control people's perceptions of reality, and you control them.
 - More than likely, your concept of deception is wrong. It does not entail elaborate illusions or all sorts of showy distractions. Deception should mirror reality.
-- Your false mirror must conform to people’s desires and expectations. It must incorporate things that are visibly true. It must seem somewhat banal, like life itself, and can have contradictions.
+- Your false mirror must conform to people’s desires and expectations. It must incorporate visibly true things. It must seem somewhat banal, like life itself, and can have contradictions.
 - **Keys to Warfare**
-  - In essence, military deception is about subtly manipulating and distorting signs of our identity and purpose to control the enemy's vision of reality and get them to act on their misperceptions. It is the art of managing appearances, and it can create a decisive advantage for whichever side uses it better.
-  - To master this art, you must embrace its necessity and find creative pleasure in manipulating appearances-as if you were directing a film.
-  - The following are six main forms of military deception, each with its own advantage:
+  - In essence, military deception is about subtly manipulating and distorting signs of our identity and purpose to control the enemy's vision of reality and get them to act on their misperceptions. It is the art of managing appearances and can create a decisive advantage for whichever side uses it better.
+  - To master this art, you must embrace its necessity and find creative pleasure in manipulating appearances as if you were directing a film.
+  - The following are six main forms of military deception, each with its advantage:
     - **The false front.**
-      - This is the oldest form of military deception. It originally involved making the enemy believe that one was weaker than in fact was the case.
+      - This is the oldest form of military deception. It originally involved making the enemy believe that one was weaker than was the case.
       - The *appearance* of weakness often brings out people's aggressive side, making them drop strategy and prudence for an emotional and violent attack.
       - Controlling the front you present to the world is the most critical deceptive skill.
-      - The best front here is weakness, which will make the other side feel superior to you, so that they either ignore you (and being ignored is very valuable at times) or are baited into an aggressive action at the wrong moment. Once it is too late, once they are committed, they can find out the hard way that you are not so weak after all.
+      - The best front here is weakness, which will make the other side feel superior to you so that they either ignore you (and being ignored is very valuable at times) or are baited into an aggressive action at the wrong moment. Once it is too late, once they are committed, they can find out the hard way that you are not so weak after all.
       - In the battles of daily life, making people think they are better than you are--smarter, stronger, more competent--is often wise.
     - **The decoy attack.**
-      - The key to this tactic is that instead of relying on words or rumors or planted information, the army really moves. It makes a concrete action. The enemy forces cannot afford to guess whether a deception is in the works: if they guess wrong, the consequences are disastrous.
+      - The key to this tactic is that instead of relying on words, rumours, or planted information, the army moves. It makes a concrete action. The enemy forces cannot afford to guess whether deception is in the works: if they guess wrong, the consequences are disastrous.
       - The decoy attack is also a critical strategy in daily life, where you must retain the power to hide your intentions. To keep people from defending the points you want to attack, you must follow the military model and make real gestures toward a goal that does not interest you.
     - Actions carry such weight and seem so real that people will naturally assume that is your real goal.
     - **Camouflage.**
-      - The ability to blend into the environment is one of the most terrifying forms of military deception.
-      - The camouflage strategy can be applied to daily life in two ways. First, it is always good to be able to blend into the social landscape, to avoid calling attention to yourself unless you choose to do so. When you talk and act like everyone else, mimicking their belief systems, when you blend into the crowd, you make it impossible for people to read anything particular in your behavior. That gives you great room to move and plot without being noticed.
+      - The ability to blend into the environment is one of the terrifying forms of military deception.
+      - The camouflage strategy can be applied to daily life in two ways. First, blending into the social landscape is always good to avoid calling attention to yourself unless you choose to do so. When you talk and act like everyone else, mimicking their belief systems, when you blend into the crowd, you make it impossible for people to read anything particular in your behaviour. That gives you great room to move and plot without being noticed.
       - Second, if you are preparing an attack of some sort and begin by blending into the environment, showing no sign of activity, your attack will seem to come out of nowhere, doubling its power.
     - **The hypnotic pattern.**
       - Human beings naturally tend to think in patterns.
-      - This mental habit offers excellent ground for deception. Deliberately create a pattern to make your enemies believe that your next action will follow true to form.
+      - This mental habit offers excellent ground for deception. Deliberately create a pattern to make your enemies believe your next action will follow true to form.
     - **Planted information.**
-      - People are much more likely to believe something they see with their own eyes than something they are told. They are more likely to believe something they discover than something pushed at them. If you plant the false information you desire them to have--with third parties, in neutral territory--when they pick up the clues, they have the impression they are the ones discovering the truth. The more you can make them dig for their information, the more deeply they will delude themselves.
-      - No matter how good a liar you are, when you deceive, it is hard to be completely natural. Your tendency is to try so hard to seem natural and sincere that it stands out and can be read. That is why it is so effective to spread your deceptions through people whom you keep ignorant of the truth--people who believe the lie themselves.
+      - People are much more likely to believe something they see with their own eyes than they are told. They are more likely to believe something they discover than something pushed at them. If you plant the false information you desire them to have--with third parties, in the neutral territory--when they pick up the clues, they have the impression they are discovering the truth. The more you can make them dig for their information, the more deeply they will delude themselves.
+      - No matter how good a liar you are, it is hard to be completely natural when you deceive. You tend to try to seem natural and sincere so that it stands out and can be read. That is why it is so effective to spread your deceptions through people you keep ignorant of the truth--people who believe the lie themselves.
     - **Shadows within shadows.**
       - Deceptive maneuvers are like shadows deliberately cast: the enemy responds to them as if they were solid and real, which in and of itself is a mistake. In a sophisticated, competitive world, however, both sides know the game, and the alert enemy will not necessarily grasp at the shadow you have thrown. So you have to take the art of deception to a level higher, casting shadows within shadows, making it impossible for your enemies to distinguish between fact and fiction.
-      - If you are trying to mislead your enemies, it is often better to concoct something ambiguous and hard to read, as opposed to an outright deception.
-      - By creating something that is simply ambiguous, though, by making everything blurry, there is no deception to uncover.
+      - If you are trying to mislead your enemies, it is often better to concoct something ambiguous and hard to read than outright deception.
+      - By creating something that is simply ambiguous, by making everything blurry, there is no deception to uncover.
 
 - **Reversal**
-  - To be caught in a deception is dangerous. If you don’t know that your cover is blown, your enemies now have more information than you do and you become their tool.
+  - To be caught in deception is dangerous. If you don’t know that your cover is blown, your enemies now have more information than you do, and you become their tool.
   - Always leave yourself an escape route, a cover story that can protect you if exposed.
 
 
