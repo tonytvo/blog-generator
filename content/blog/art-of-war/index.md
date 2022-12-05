@@ -547,7 +547,7 @@ tags: ["strategy"]
 
 
 ## Take the Line of Least Expectation: The Ordinary-Extraordinary Strategy
-- People expect your behavior to conform to known patterns and conventions. Your task as a strategist is to upset their expectations. Surprise them and chaos and unpredictability--which they try desperately to keep at bay--enter their world, and in the ensuing mental disturbance, their defenses are down and they are vulnerable. First, do something ordinary and conventional to fix their image of you, then hit them with the extraordinary. The terror is greater for being so sudden. Never rely on an unorthodox strategy that worked before--it is conventional the second time around. Sometimes the ordinary is extraordinary because it is unexpected.
+- People expect your behaviour to conform to known patterns and conventions. Your task as a strategist is to upset their expectations. Surprise them and chaos and unpredictability--which they try desperately to keep at bay--enter their world. In the ensuing mental disturbance, their defences are down and they are vulnerable. First, do something ordinary and conventional to fix their image of you, then hit them with the extraordinary. The terror is greater for being so sudden. Never rely on an unorthodox strategy that worked before--it is conventional the second time around. Sometimes the ordinary is extraordinary because it is unexpected.
 
 - **Unconventional Warfare**
   - Unconventional warfare has four main principles, as gleaned from the great practitioners of the art.
@@ -559,8 +559,8 @@ tags: ["strategy"]
       - Upon occasion, allow yourself to operate in a way that is deliberately irrational, to frighten people.
       - As an alternative, act somewhat randomly. Randomness is disturbing to humans.
     - **Keep the wheels in constant motion.**
-      - Make a point of breaking the habits you have developed, of acting in a way that is contrary to the way you acted in the past.
-      - When striving to create the extraordinary, always remember: what is crucial is the mental process, not the image or maneuver itself. What will truly shock and linger long in the mind are those works and ideas that grow out of the soil of the ordinary and banal, that are unexpected, that make us question and contest the very nature of the reality we see around us.
+      - Make a point of breaking the habits you have developed, of acting in a way that is contrary to how you acted in the past.
+      - When striving to create the extraordinary, always remember: what is crucial is the mental process, not the image or maneuver itself. What will truly shock and linger long in our minds are those works and ideas that grow out of the soil of the ordinary and banal, that are unexpected, and that make us a question and contest the very nature of the reality we see around us.
 
 ## Occupy the Moral High Ground: The Righteous Strategy
 - In a political world, the cause you are fighting for must seem more just than the enemy's. Think of this as moral terrain that you and the other side are fighting over; by questioning your enemies' motives and making them appear evil, you can narrow their base of support and room to maneuver. Aim at the soft spots in their public image, exposing any hypocrisies on their part. Never assume that the justice of your cause is self-evident; publicize and promote it. When you yourself come under moral attack from a clever enemy, do not whine or get angry; fight fire with fire. If possible, position yourself as the underdog, the victim, the martyr. Learn to inflict guilt as a moral weapon.
