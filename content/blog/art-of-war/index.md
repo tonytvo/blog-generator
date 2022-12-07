@@ -578,17 +578,17 @@ tags: ["strategy"]
 
 
 ## Deny Them Targets: The Strategy of the Void
-- The feeling of emptiness or void--silence, isolation, nonengagement with others--is for most people intolerable. As a human weakness, that fear offers fertile ground for a powerful strategy: give your enemies no target to attack, be dangerous but elusive and invisible, then watch as they chase you into the void. This is the essence of guerrilla warfare. Instead of frontal battles, deliver irritating but damaging side attacks and pinprick bites. Frustrated at their inability to use their strength against your vaporous campaign, your opponents will grow irrational and exhausted. Make your guerrilla war part of a grand political cause--a people's war--that crests in an irresistible revolution.
+- The feeling of emptiness or void--silence, isolation, nonengagement with others--is, for most people, intolerable. As a human weakness, that fear offers fertile ground for a powerful strategy: give your enemies no target to attack, be dangerous but elusive and invisible, then watch as they chase you into the void. This is the essence of guerrilla warfare. Instead of frontal battles, deliver irritating but damaging side attacks and pinprick bites. Frustrated at their inability to use their strength against your vaporous campaign, your opponents will grow irrational and exhausted. Make your guerrilla war part of a grand political cause--a people's war--that crests in an irresistible revolution.
 - The bigger your enemy, the better this strategy works: struggling to reach you, the oversize opponent presents juicy targets for you to hit.
 - **Keys to Warfare**
-  - The primary consideration should always be whether a guerrilla-style campaign is appropriate for the circumstances you are facing. It is especially effective, for instance, against an opponent who is aggressive yet clever.
+  - The primary consideration should always be whether a guerrilla-style campaign is appropriate for your circumstances. It is especially effective, for instance, against an opponent who is aggressive yet clever.
   - Having nothing to strike at neutralizes their cleverness, and their aggression becomes their downfall.
-  - It is interesting to note that this strategy works in love as well as in war and that here, too.
+  - It is interesting to note that this strategy works in love and war and here, too.
   - This strategy of the void works wonders on those who are used to conventional warfare.
-  - Large bureaucracies are often perfect targets for a guerrilla strategy for the same reason: they are capable of responding only in the most orthodox manner.
-  - Once you have determined that a guerrilla war is appropriate, take a look at the army you will use. A large, conventional army is never suitable; fluidity and the ability to strike from many angles are what counts. The organizational model is the cell--a relatively small group of men and women, tight-knit, dedicated, self-motivated, and spread out. These cells should penetrate the enemy camp itself.
+  - Large bureaucracies are often perfect targets for a guerrilla strategy for the same reason: they can respond only in the most orthodox manner.
+  - Once you have determined that a guerrilla war is appropriate, look at the army you will use. A large, conventional army is never suitable; fluidity and the ability to strike from many angles are what counts. The organizational model is the cell--a relatively small group of men and women, tight-knit, dedicated, self-motivated, and spread out. These cells should penetrate the enemy camp itself.
   - You will win your guerrilla war in one of two ways. The first route is to increase the level of your attacks as your enemies deteriorate, then finish them off.
-  - The other method is by turning sheer exhaustion to your advantage: you just let the enemy give up, for the fight is no longer worth the aggravation. The latter way is the better one. It costs you less in resources, and it looks better: the enemy has fallen on his own sword.
+  - The other method is by turning sheer exhaustion to your advantage: you just let the enemy give up, for the fight is no longer worth the aggravation. The latter way is the better one. It costs you less in resources, and it looks better: the enemy has fallen on his sword.
   - Remember: this war is psychological. It is more on the level of strategy than anything else that you give the enemy nothing to hold on to, nothing tangible to counter.
 
 
