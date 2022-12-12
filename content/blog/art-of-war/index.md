@@ -649,19 +649,19 @@ Life's greatest dangers often come not from external enemies but from our suppos
 
 
 ## Destroy from Within: The Inner-Front Strategy
-- A war can only really be fought against an enemy who shows himself. By infiltrating your opponents' ranks, working from within to bring them down, you give them nothing to see or react against--the ultimate advantage. From within, you also learn their weaknesses and open up possibilities of sowing internal dissension. So hide your hostile intentions. To take something you want, do not fight those who have it, but rather join them--then either slowly make it your own or wait for the moment to stage a coup d'etat. No structure can stand for long when it rots from within.
+- A war can only be fought against an enemy who shows himself. By infiltrating your opponents' ranks, working from within to bring them down, you give them nothing to see or react against--the ultimate advantage. You also learn their weaknesses from within and open up possibilities of sowing internal dissension. So hide your hostile intentions. To take something you want, do not fight those who have it, but rather join them--then either slowly make it your own or wait for the moment to stage a coup d'etat. No structure can stand for long when it rots from within.
 - **Keys to Warfare**
   - The basic principle here is that it is easiest to topple a structure--a wall, a group, a defensive mind--from the inside out.
   - A variation on the lotus strategy is to befriend your enemies, worming your way into their hearts and minds. As your targets' friend, you will naturally learn their needs and insecurities, the soft interior they try so hard to hide.
-  - For a more immediate effect, you can try a sudden act of kindness and generosity that gets people to lower their defenses--the Trojan Horse strategy.
-  - The main weakness in any conspiracy is usually human nature: the higher the number of people who are in on the plot, the higher the odds that someone will reveal it, whether deliberately or accidentally.
+  - For a more immediate effect, you can try a sudden act of kindness and generosity that gets people to lower their defences--the Trojan Horse strategy.
+  - The main weakness in any conspiracy is usually human nature: the higher the number of people in on the plot, the higher the odds that someone will reveal it, whether deliberately or accidentally.
   - There are a few precautions you can take. Keep the number of conspirators as small as possible. Involve them in the details of the plot only as necessary; the less they know, the less they have to blab. Revealing the schedule of your plan as late as possible before you all act will give them no time to back out. Then, once the plan is described, stick to it.
   - Too few conspirators and you lack the strength to control the consequences; too many and the conspiracy will be exposed before it bears fruit..
   - In destroying anything from within, you must be patient and resist the lure of large-scale, dramatic action.
   - Finally, morale plays a crucial part in any war, and it is always wise to work to undermine the morale of the enemy troops.
 
 - **Reversal**
-- There are always likely to be disgruntled people in your own group who will be liable to turning against you from the inside. The worst mistake is to be paranoid, suspecting one and all and trying to monitor their every move. Your only real safeguard against conspiracies and saboteurs is to keep your troops satisfied, engaged in their work, and united by their cause.
+- There are always likely to be disgruntled people in your own group who will be liable to turn against you from the inside. The worst mistake is to be paranoid, suspecting one and all and trying to monitor their every move. Your only real safeguard against conspiracies and saboteurs is to keep your troops satisfied, engaged in their work, and united by their cause.
 
 
 ## Dominate While Seeming to Submit: The Passive-Aggression Strategy
