@@ -1,5 +1,5 @@
 ---
-title: Security Analysis By Benjamin Graham and David Dodd summary - wip
+title: Security Analysis By Benjamin Graham and David Dodd summary
 date: "2022-07-12T22:12:03.284Z"
 description: "Security Analysis By Benjamin Graham and David Dodd summary"
 tags: ["investing", "valueinvesting"]
@@ -177,7 +177,79 @@ True investments keep the principal safe and deliver an acceptable return. Any p
 
 ## relation of stock capitalization to funded debt
 
+- The amount of stock that follows all the different bond issued by a company (senior and junior issues combined), is always going to be the resources that remain after all debts are fullfilled.
+
+- **standards prescribed by the new york law** for the bonds of public utilities
+  - all combined mortgage debt will be less than 60% of the assessed property value
+  - capital stock (or the common stock and preferred stock combined) at book value will not be less than two thirds of mortgaged debt.
+
+- **equity test of doubtful merit in the case of utilities**
+  - Graham states that many of the figures used on the balance sheets were not reliable during his era. He feels the test should be used if the earnings of the company are unreliable. In such cases, the analyst may want to increase the standards fore test
+    - 75% of the property value
+- **importance of a real-value coverage behind a bond issue**
+  - Graham encourages the analyst to ensure the "going concern value" (or market price if the company could be sold as a whole unit) is substantially higher than the funded debt. He really challenges the analyst to look at the value of the business itself instead of the value of its individual pieces.
+
+- **shareholders' equity measured by market value of stock issues - a supplemental test**
+  - Graham states that a company that has a large market price compared to its total debt is far safer than a company that has a lower market price that closely resembles its total debt.
+
+- **minima for the stock-equity test**
+  - public utilities -> earnings should be 1.75 times the interest of the debt. Market price of stock should be at least 50% of the total debt
+  - railroads -> earnings should be 2 times the interest of the debt. Market price of stock should be 66% of the total debt
+  - industrials -> earnings should be 3 times for industrials. Market price of stock should be 100% of the total debt
+  - these tests were developed for determining the safety of a bond, not a common stock.
+
+- **income bonds equivalent to stock equity**
+  - since interest on income bonds (issues that aren't required to pay coupons) is not a fixed charge, it should not be included in the total charges on which coverage is calculated. Similarly, the principal amount of such bonds is not to be included in the total funded debt, instead it is to be compared with the stock equity.
+
+- **significance of unusually large stock-value ratio**
+  - the consideration of a bond's security is primarily based on its coverage ratio (earnings compared to fixed interest charges) and its ratio of stock value to total bonded debt.
+  - the coverage ratio provides the coverage of the coupon payment and the ratio of stock value to total bonded debt provides indicator whether the par value can be repaid. When either one of these ratios are uncharacteristically high while the other is low, it's possible that the issue is still safe.
+
+- **stock-value ratio for railroad and public utility companies.**
+  - applying a stock value ratio to railroads and public utility companies is difficult because of rental obligations and preferred stock of subsidiaries that rank before the parent company's bonds. Regardless of those difficulties, Graham states that close attention to the stock-value ratio would have prevented major mistakes by bond investors in 1935-1937
+
+- **stock-value test not to be modified to reflect changing market conditions**
+  - Analysts might be inclined to make the stock-value ratio adjustable with changing market conditions (because it uses the current market price). For example, during a bull market, market prices are higher but the total debt of a bond is fixed. Therefore a ratio of 2:1 should potentially be increased to 3:1 during growing market prices. Graham suggests practical application is too difficult to implement.
+
+- **summary of minimum quantitative requirements suggested for fixed-value investment**
+  - it's important to note that the following recommendations were from the 1930's
+  - size of the issuing organization: Municipal bonds should be from a local government with more than 10000 tax paying citizens. For businesses, they should produce annual gross revenues of $2 million for public utilities, $3 million for railroads, and $5 million for industrials
+  - interest coverage: this is the comparison of earnings to fixed debt obligations. The seven years average interest coverage for each of the following enterprises are 1.75 times the fixed debt for public utility bonds, 2 times for railroad bonds, 3 times for industrial bonds, 2 times for real estate bonds.
+  - value of property: the fair value of property should be more than 50% of the bond's par value
+  - market value of the stock issues: this is a comparison of the company's stock market price to its total bonded debt. The stock price should be at least 50% of a public utilities bonded debt, 66% of a railroad's bonded debt, and 100% of an industrial's bonded debt.
+
 ## special factors in bond analysis
+
+- Graham encourages investors to find companies with large levels of working capital because it displays a healthy organization that can meet future debt obligations.
+
+- **parent company only vs consolidated return**
+  - Graham identifies his deep distrust for the parent company's operational subsidiary relationship, with respect to how the income statement is reported. He briefly describes and shows on a chart how the coverage ratio is drastically different when the income statement is viewed from the consolidated report to the "parent company only" report.
+
+- **dividends on preferred stocks of subsidiaries**
+  - Graham provides an example where a parent company fails and goes into receivership. Prior to the failure, the parent company had a subsidiary that was paying a preferred share dividend. After the failure, the dividend was immediately discontinued. The event left the bond holder (debenture holder) of the parent company empty handed. The example demonstrates an importance for thoroughly understanding the prioritization of this structure and an importance for having a backed security.
+    - subsidiaries' bond interest
+    - subsidiaries' preferred dividends
+    - parent company's bond interest.
+  
+- **minority interest in common stock of subsidiaries.**
+  - the earnings of minority stock are usually deducted in the income statement after the parent company's bond interest, therefore, it does not reduce the margin of safety calculation. Graham suggests subtracting the minority interest before calculating the interest coverage for a more conservative estimate.
+  
+- **capitalization of fixed charges for railroads and utilities**
+  - For example, the railroad industry may lease their railroad cars from other businesses. These leases hold considerable fixed expenses on the company and ultimately impact the health of the bonds the company has issued.
+  - after identifying this concern, Graham recommends a rule of thumb for multiplying the fixed charges on the income statement by 22. This would provide capitalization of 4.5% on all the fixed charges. This was determined by taking the inverse of 22. It's important to note that interest rates for railroad debts during 1938 were 4.5%. Therefore, this technique could be applied to any industry where fixed charges have numerous variables.
+  - it would be important to adjust the capitalization rate based on the average rates for bonds in that industry.
+
+- **the working-capital factor in the analysis of industrial bonds**
+  - it's important that a company has excess current assets compared to current liabilities. This excess is called the working capital.
+
+- **3 requisites with respect to working capital**
+  - when assessing the working capital, Graham suggests 3 items should be evaluated
+    - the cash holdings are ample
+    - the ratio of current assets to current liabilities is strong
+    - the working capital bears a suitable proportion of funded debt.
+  - general rule of thumb is that current assets should be double the current liabilities.
+  - Graham challenges the industrial bond investor to find companies that have enough working capital to cover all the bonds issued.
+  - companies with large working capital should be favored ones without a large working capital.
 
 
 # Criteria for Purchasing Speculative Senior Securities
