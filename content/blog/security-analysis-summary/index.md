@@ -8,18 +8,18 @@ tags: ["investing", "valueinvesting"]
 # take-aways
 
 - When deciding whether to invest in a company, carefully analyze its soundness.
-True investments keep the principal safe and deliver an acceptable return. Any purchase that doesn’t is speculation.
+- True investments keep the principal safe and deliver an acceptable return. Any purchase that doesn’t is speculation.
 - Investors often profit by buying securities that are selling below their intrinsic value.
 - The three main classes of security are "investment bonds and preferred stocks," "speculative bonds and preferred stocks," and "common stocks."
-- An issuer’s financial strength and ability to pay determine its bonds’ safety.
+- An issuer’s financial strength and ability to pay to determine its bonds’ safety.
 - Preferred stocks should meet all the safety tests required of bonds.
-- You can profit from the purchase of some bonds and preferred stocks that do not qualify as investment grade if they are selling below their intrinsic value.
+- You can profit from purchasing some bonds and preferred stocks that do not qualify as investment grade if they sell below their intrinsic value.
 - Privileged issues have the safety of preferred stocks, but they also have the upside potential of common stocks.
 - Portfolio diversification can offset the variability of common stock prices.
-- As an investor you should evaluate common stocks based on dividends, earnings and asset values.
-- Each of the elements in valuation — assets, earnings power, and growth — is useful in its own right, but the best insights into a firm’s value come from comparisons among them, especially the direct comparison between the asset value and the EPV.
+- As an investor, you should evaluate common stocks based on dividends, earnings and asset values.
+- Each of the elements in valuation — assets, earnings power, and growth — is useful in its own right. Still, the best insights into a firm’s value come from comparisons among them, especially the direct comparison between the asset value and the EPV.
 - If the EPV is substantially greater than the asset value, that difference is due to superior management or competitive advantages
-- don’t make investments into things that have a NPV of less than zero
+- don’t make investments into things that have an NPV of less than zero
 
 
 # Scope and Limits of Security Analysis
