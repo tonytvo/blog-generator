@@ -1,21 +1,22 @@
 ---
-title: financial statement analysis
+title: Financial Statement Analysis A Practitioner Guide by Martin S. Fridson
 date: "2022-02-15T22:12:03.284Z"
-description: "financial statement analysis"
+description: "Financial Statement Analysis A Practitioner Guide by Martin S. Fridson"
 tags: ["investing", "valueinvesting"]
 ---
 
 # interpretation of financial statements
 - [interpretation of financial statements by Benjamin Graham and Warren Buffett](/interpretation-of-financial-statements/)
-- tracking how the money flows through a business is like watching a plumber determine where the leak is in a house. He starts at the source, where the water enters the main valve into the house (the net income), and he ends at the sink (the growing/decreasing equity and/or dividend). A well-managed profitable business will show a strong flow of cash through the plumbing of the accounts.
+
+- tracking how the money flows through a business is like watching a plumber determine where the leak is in a house. He starts at the source, where the water enters the main valve into the house (the net income), and ends at the sink (the growing/decreasing equity and/or dividend). A well-managed, profitable business will show a strong cash flow through the accounts' plumbing.
 - the accounting system is based on double entries. For every debit, there must be a credit.
 - **cash-based accounting**
   - transaction is recorded only when cash is physically or digitally received into the bank account, not when the service or product is provided or received.
-  - this might be alright for "mom and pop"-style businesses, accounting laws do not allow for larger companies to conduct cash-based accounting. The reason for this is because it represents a low and delayed way of tracking revenues and expenses.
+  - this might be alright for "mom and pop"-style businesses. Accounting laws do not allow larger companies to conduct cash-based accounting. This is because it represents a low and delayed way of tracking revenues and expenses.
 - **accrual accounting**
-  - accrual accounting simply states that expenditures must be recorded when incurred and not when paid. Similarly, revenue must recorded when there is an outflow of services or goods, not when the payment is realized.
+  - accrual accounting simply states that expenditures must be recorded when incurred and not when paid. Similarly, revenue must be recorded when services or goods outflow, not when the payment is realized.
   - publicly traded companies are based on accrual accounting.
-  - although accrual accounting might count funds that haven't actually been paid, it provides a clearer and realistic picture of the company's performance - especially for stock investors. A great way to account for any inconsistencies caused from accrual accounting is by thoroughly understanding the cash flow statement.
+  - although accrual accounting might count funds that haven't been paid, it provides a more precise and realistic picture of the company's performance - especially for stock investors. A great way to account for any inconsistencies caused by accrual accounting is by thoroughly understanding the cash flow statement.
 
 # Income statement analysis
 - [income statement analysis](https://www.oldschoolvalue.com/stock-valuation/income-statement-analysis-walkthrough/)
