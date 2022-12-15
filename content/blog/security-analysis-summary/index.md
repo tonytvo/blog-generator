@@ -28,8 +28,8 @@ tags: ["investing", "valueinvesting"]
 - common obstacles to analyst
   - inadequate or incorrect data
   - uncertainties of future
-  - irrational behavior of the market
-  - "in the short term the market is a voting machine, but in the long term it tracks value"
+  - irrational behaviour of the market
+  - "in the short term, market is a voting machine, but in the long term, it tracks value."
 
 - 3 functions of analysis
   - **Descriptive function** 
@@ -38,20 +38,20 @@ tags: ["investing", "valueinvesting"]
       - make comparisons with similar issues
       - appraise for future performance
   - **Selective Function**
-    - express specific judgement, by determining whether an issue should be bought, held, sold, etc.
-    - common approach is to analyze company's ability to earn and make payments to the investor.
-    - Intrinsic value is the estimated valuation based on the analyst's opinion of the intrinsic worth of the security from different source of information such as assets, earnings, dividends, growth, management, etc...
-      - value of a business can be analyzed from the perspective of multiple earnings (P/E ratio, "earnings power"). It is cautioned that valuing a business solely from the earnings power is very risky and uncharacteristic of wise analyst.
+    - express specific judgment by determining whether an issue should be bought, held, sold, etc.
+    - common approach is to analyze the company's ability to earn and make payments to the investor.
+    - Intrinsic value is the estimated valuation based on the analyst's opinion of the intrinsic worth of the security from different sources of information such as assets, earnings, dividends, growth, management, etc...
+      - the value of a business can be analyzed from the perspective of multiple earnings (P/E ratio, "earnings power"). It is cautioned that valuing a business solely from the earnings power is risky and uncharacteristic of wise analysts.
   - **Critical Function**
-    - "Analytical judgments are reached by applying standards to facts"
+    - "Analytical judgments are reached by applying standards to facts."
     - should seek adequate protective provisions (margin of safety) in bonds and preferred stocks.
-    - must be alert to the misrepresentation by accountants and management bad practices.
+    - must be alert to the misrepresentation by accountants and management's bad practices.
 
-- Market analysis, in contrast to security analysis, attempts to forecast prices of individual securities or the action of the whole market, without referring to underlying facts about individual companies. One type of market analysis, called technical analysis, refers only to past market values in order to predict future values. A second type of analysis refers to indices of economic activity outside the market that, presumably, have some influence over security prices. Neither of these kinds of market analysis has proven effective and both essentially promote speculation over reasoned, fact-based investment.
+- Market analysis, in contrast to security analysis, attempts to forecast prices of individual securities or the action of the whole market without referring to underlying facts about individual companies. One type of market analysis, called technical analysis, refers only to past market values to predict future values. The second type of analysis refers to indices of economic activity outside the market that, presumably, have some influence over security prices. Neither of these kinds of market analysis has proven effective, and both essentially promote speculation over reasoned, fact-based investment.
 
-- Intrinsic value is an important concept for security analysis. However, "intrinsic value is an elusive concept. In general terms, it is understood to be that value which is justified by the facts...the assets, earnings, dividends, definite prospects, as distinct...from market quotations established by artificial manipulation or distorted by psychological excess." Although investors cannot calculate an exact intrinsic value for a given security because so many variables are involved, careful examination can determine whether the price the market quotes is appropriate. Securities that meet stringent safety tests and appear to be selling well below their intrinsic value often can be profitable investments.
+- Intrinsic value is an important concept for security analysis. However, "intrinsic value is an elusive concept. In general terms, it is understood to be that value justified by the facts...the assets, earnings, dividends, definite prospects, as distinct...from market quotations established by artificial manipulation or distorted by psychological excess." Although investors cannot calculate an exact intrinsic value for a given security because so many variables are involved, a careful examination can determine whether the price the market quotes is appropriate. Securities that meet stringent safety tests and appear to be selling well below their intrinsic value can often be profitable investments.
 
-- Securities traditionally fall into two categories: stocks and bonds. This classification is inadequate, because it pays more attention to the form of the security than to its safety and purpose. The various types of securities may be more accurately classified into three groups, each of which has its own criteria for what constitutes a sound investment: fixed-value securities, including high-grade bonds and preferred stocks; variable-value senior securities, including speculative bonds and preferred stocks; and common stocks.
+- Securities traditionally fall into two categories: stocks and bonds. This classification is inadequate because it pays more attention to the form of security than to its safety and purpose. The various types of securities may be more accurately classified into three groups, each of which has its criteria for what constitutes a sound investment: fixed-value securities, including high-grade bonds and preferred stocks; variable-value senior securities, including speculative bonds and preferred stocks; and common stocks.
 
 # Criteria for Investing in Fixed-Value Securities
 - Bonds are not automatically safe investments because of their form. Rather, the soundness of a bond investment derives from the issuer’s ability to pay, which is, in turn, based on its financial strength. Therefore, the investor who is considering purchasing a bond should ask the following questions: Is the value of the company’s business more than the value of its debts? Can the company meet its financial obligations even in the worst-case scenario, such as a recession or depression?
