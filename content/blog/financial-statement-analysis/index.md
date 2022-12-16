@@ -21,108 +21,109 @@ tags: ["investing", "valueinvesting"]
 # Income statement analysis
 - [income statement analysis](https://www.oldschoolvalue.com/stock-valuation/income-statement-analysis-walkthrough/)
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
-- the income statement's sole purpose is to show a company's profitability over a given period of time.
+- the income statement's sole purpose is to show a company's profitability over a given period.
 
 - **revenues from primary activities**
-  - it's revenue received for the sale of company's primary product or service
+  - it's revenue received for the sale of the company's primary product or service
 - **revenues from secondary activities**
-  - such as interests from cash sitting in an interest-bearing savings account produce revenue
-  - secondary activities are usually included in an income statement under the line titled net interest income. It is sometimes referred to as other income if it also includes other revenues not made from financial activities.
+  - such as interests from cash sitting in interest-bearing savings accounts producing revenue
+  - secondary activities are usually included in an income statement under the net interest income line. It is sometimes referred to as other income if it also includes other revenues not made from financial activities.
 
 - **gains**
-  - such as gain (loss) on sale of assets
-  - it's very important to understand that gains are not considered operating income. That is also why gains and losses are sometimes referred to as extraordinary income (expense)
+  - such as gain (loss) on the sale of assets
+  - it's essential to understand that gains are not considered operating income. That is also why gains and losses are sometimes referred to as extraordinary income (expense)
 
-- **expenses generated from primary activities** are only those expenses that occur from producing operating revenues. This is listed on the income statement as "Cost of Revenue"
+- **expenses generated from primary activities** are only expenses from producing operating revenues. This is listed on the income statement as "Cost of Revenue"
 
-- **expenses generated from secondary activities**: if an expense is made by the business and it doesn't directly relate to the materials or labor used to make the primary product, it's considered an expense generated from secondary activities.
-  - such as sales and marketing expenses, research and development expenses, general and administrative expenses, other operating expenses.
+- **expenses generated from secondary activities**: if the business makes an expense and doesn't directly relate to the materials or labour used to make the primary product, it's considered an expense generated from secondary activities.
+  - such as sales and marketing expenses, research and development expenses, general and administrative expenses, and other operating expenses.
 
 - **expenses from financial activities**
   - it is disclosed as interest expenses, as they are not part of the daily business.
 
 - **losses**
-  - a loss doesn't relate directly to the primary activities of the company's product or service, nor is it a part of daily operations. It is extraordinary. Graham would caution his students to pay close attention to extraordinary items and try to assess their impact on a business, to mange and mitigate risk.
+  - a loss doesn't relate directly to the primary activities of the company's product or service, nor is it a part of daily operations. It is extraordinary. Graham would caution his students to pay close attention to extraordinary items and try to assess their impact on a business to manage and mitigate risk.
   - a loss is also the result of a difference in the value an asset is listed for on the balance sheet and the proceeds received from the sale of that asset.
 
 - **revenue**
   - this line is sometimes referred to as Sales or Turnover.
-  - revenue is simply the quantity of goods sold multiplied by the price of the product or service.
-  - As an informed investor, you might need more information regarding the generation of revenue - especially if the company has a deteriorating revenue stream. You could dig deeper into the 10K or 10Q, where you'll find a section titled Net Operating Revenues.
+  - revenue is simply the number of goods sold multiplied by the price of the product or service.
+  - As an informed investor, you might need more information regarding revenue generation - especially if the company has a deteriorating revenue stream. You could dig deeper into the 10K or 10Q, where you'll find a net operating revenues section.
 
 - **cost of revenue**
   - aka cost of sales, costs of goods sold and production costs
   - It is the costs that are related to making the company's primary product or service.
-  - the emphasis is placed on the term direct costs; this is because these are costs that arise as a result of per unit sales rather than any other cost driver.
-  - an investor must have knowledge of the composition of the direct costs associated with the organization.
+  - the emphasis is placed on direct costs because these arise due to per-unit sales rather than any other cost driver.
+  - an investor must know the composition of the direct costs associated with the organization.
   - the investor must pay close attention to the trends in the cost of revenue. If sales are constant and the cost of revenue continues to grow, a negative trend is developing.
 
 - **gross profit**
   - aka margin or markup
-  - gross profit is simply the revenue generated from core products and services less the direct costs associated with the production of goods or delivery of service.
-  - gross profit in essence is a measure of the organization's efficiency - that is, the ability of the management to control its direct cost of revenue while simultaneously increasing sales.
-  - as an investor, you cannot compare the gross profit between 2 different industries. This often leads to misleading assumptions and doesn't provide relative framework to assess a company's performance.
+  - gross profit is simply the revenue generated from core products and services less the direct costs associated with the production of goods or delivery of services.
+  - gross profit, in essence, is a measure of the organization's efficiency - that is, the ability of the management to control its direct cost of revenue while simultaneously increasing sales.
+  - as an investor, you cannot compare the gross profit between 2 different industries. This often leads to misleading assumptions and doesn't provide a relative framework to assess a company's performance.
 
 - **sales and marketing expense**
-  - sometimes it combined with Administration expenses and called SGA (selling, general and administration)
-  - advertisement is one of the greatest costs incurred by corporations today and is incorporated within the income statement. Moreover, you need to distribute your product to make it available to customers. This would lead to distribution costs, which would typically also included in the sales and marketing expense line.
+  - sometimes, it is combined with Administration expenses and called SGA (selling, general and administration)
+  - advertisement is one of the greatest costs incurred by corporations today and is incorporated within the income statement. Moreover, you need to distribute your product to make it available to customers. This would lead to distribution costs, typically included in the sales and marketing expense line.
 
 - **research and development**
-  - cell phone companies, for example, must continuously innovate in order to remain competitive, and therefore have high research and development costs
+  - cell phone companies, for example, must continuously innovate to remain competitive and therefore have high research and development costs
   - conversely, companies such as Coca-cola do not have extensive research and development costs; this is because they already have a sustainable advantage through a product that has been sold for decades.
 
 - **general and administrative expenses**
-  - the labor cost related to the operation of its machines is directly associated with production and therefore is a part of the cost of revenue.
-  - the salary of white-collar managers involved in running the company is not attributed to the cost of production - instead it attributable to an overhead expense that's rolled into the G&A (General and Administrative)
+  - the labour cost related to the operation of its machines is directly associated with production and therefore is a part of the cost of revenue.
+  - the salary of white-collar managers involved in running the company is not attributed to the cost of production - instead, it is attributable to an overhead expense that's rolled into the G&A (General and Administrative)
   - corporations are likely to window-dress the general and administrative expenses shown in corporate income statements.
 - **other operating expenses**
-  - refer to all the overhead costs that cannot be categorized into the major lines the company has selected to represent such as management salaries, depreciation, rent, marketing, advertising costs, costs for research into news products, operating leases and IT, etc... Think of it as a catchall category for any miscellaneous expense reporting.
+  - refer to all the overhead costs that cannot be categorized into the major lines the company has selected to represent, such as management salaries, depreciation, rent, marketing, advertising costs, costs for research into new products, operating leases and IT, etc... Think of it as a catchall category for any miscellaneous expense reporting.
 
 - **operating expenses**
-  - summation of all secondary expenses which are incurred in the running of the business.
+  - summation of all secondary expenses incurred in the business's running.
   - a summation of all the secondary expenses gives the investor an overview of how efficiently the company has allocated overhead costs.
 
 - **income from operations**
   - aka earnings before interest and taxes (EBIT).
   - compare this (income from operations) to the net interest income/expenses to gain an understanding of interest obligations (or debt payments).
-  - the basis of the organization is to produce goods and services in order to maximize profitability. Profitability will only be maximized when the business is able to control its operating expenses while maximizing its revenue. The operating income is in fact an indicator of efficiency, and the operating margin indicates the business's ability to generate a profit from a given level of sales.
+  - the basis of the organization is to produce goods and services to maximize profitability. Profitability will only be maximized when the business is able to control its operating expenses while maximizing its revenue. The operating income is an efficiency indicator, and the operating margin indicates the business's ability to generate a profit from a given level of sales.
 
 - **net interest income/expenses**
 
   - aka financial items or other income/expenses
-  - the most appropriate name for this would be net interest income/expense, since this line is most influenced by financing impacts
-  - interest expense is simply the cost of servicing debt that is incurred by the organization when it takes on debt.
-  - companies use debt as a financing source, while keeping money in the bank to provide flexibility for their daily operations.
-  - company would need to setup a sunk account (on the balance sheet) in order to set aside money each year to payback the principal.
-  - remember that this line is not only financial items; it is also other revenue and expenses that are not part of the company's daily operations. It could be income generated from other resources like renting out certain area of property. It could also relate to multinational companies with widespread operations that are likely to be impacted by foreign exchange risk adjustments in an either positive or negative manner
+  - the most appropriate name for this would be net interest income/expense since this line is most influenced by financing impacts
+  - interest expense is the cost of servicing debt incurred by the organization when it takes on debt.
+  - companies use debt as a financing source while keeping money in the bank to provide flexibility for their daily operations.
+  - the company would need to set up a sunk account (on the balance sheet) to set aside money each year to pay back the principal.
+  - remember that this line is not only financial items but also other revenue and expenses that are not part of the company's daily operations. It could be income generated from other resources like renting out specific areas of the property. It could also relate to multinational companies with widespread operations that are likely to be impacted by foreign exchange risk adjustments in either a positive or negative manner
 
 - **extraordinary income/expenses**
-  - extraordinary is something that is not part of the daily operations and cannot be predicted. For example, a loss incurred from a lawsuit is very hard to predict and can be categorized as one-time event, or maybe restructuring charges like closing down subsidiary, merge 2 divisions, personnel receiving severance pay.
-  - when you're trying to determine the true cash flow of a business, many investors exclude extraordinary income in their model. That said, many conservative analysts will include average extraordinary expenses (for example, the average annual expense over a five-year period)
+  - extraordinary is not part of the daily operations and cannot be predicted. For example, a loss incurred from a lawsuit is very hard to predict. It can be categorized as a one-time event or maybe restructuring charges like closing down a subsidiary, merging two divisions, or personnel receiving severance pay.
+  - When trying to determine a business's true cash flow, many investors exclude extraordinary income in their model. That said, many conservative analysts will include average extraordinary expenses (for example, the average annual expense over five years)
 
 - **income taxes**
-  - tax is huge expense for any company, and just as you would rather invest in a company with an efficient R&D department, you would also rather invest in a company with a lower tax rate. You should look for the effective tax rate over time, and not a single snapshot in time. The important thing is understanding a company's tax trends. Look for consistencies - and when you don't find them, understand why.
+  - tax is a huge expense for any company, and just as you would instead invest in a company with an efficient R&D department, you would also rather invest in a company with a lower tax rate. You should look for the effective tax rate over time and not a single snapshot in time. The important thing is understanding a company's tax trends. Look for consistencies - and when you don't find them, understand why.
 
 - **net income**
   - aka profit for the year or net income from continued operations.
 
 - **gross profit margin ratio**
   - gross profit margin ratio = gross profit / revenue
-  - indicate how efficient companies are at controlling the costs and a good starting point to compare with a competitor
+  - indicate how efficient companies are at controlling costs and a good starting point to compare with a competitor
 
 - **operating margin ratio**
-  - operating margin ratio = income from operations / revenue
-  - not only when the cost of revenue such as sugar and tin cans are sold, but also secondary expenses like administration, distribution and all the other costs related to Coca-Cola's daily business are deducted.
+  - operating margin ratio = income from operations/revenue
+  - not only when the cost of revenue, such as sugar and tin cans, are sold, but secondary expenses like administration, distribution and all the other costs related to Coca-Cola's daily business are deducted.
 
 - **net income margin ratio**
   - net income margin ratio = net income / revenue
-  - this is the money that the investors made in profit compared to money the business collected for the sale of every product.
+  - this is the money that the investors made in profit compared to the money the business collected for selling every product.
   - trend analysis is the heart of understanding the prospects for future performance.
 
 - **interest coverage ratio**
   - important ratio for minimizing the risk and it shows the reality of a company's ability to keep its head above water.
-  - interest coverage ratio = income from operations / interest expense
-  - as a rule of thumb, I like to see a stable interest coverage ratio of at least 5 times the operating income.
+  - interest coverage ratio = income from operations/interest expense
+  - as a rule of thumb, I like to see a stable interest coverage ratio of at least five times the operating income.
+
 
 # Cashflow statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/
