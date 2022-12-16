@@ -1,5 +1,5 @@
 ---
-title: Security Analysis By Benjamin Graham and David Dodd summary
+title: Security Analysis By Benjamin Graham and David Dodd summary - wip
 date: "2022-07-12T22:12:03.284Z"
 description: "Security Analysis By Benjamin Graham and David Dodd summary"
 tags: ["investing", "valueinvesting"]

@@ -1,5 +1,5 @@
 ---
-title: Financial Statement Analysis A Practitioner Guide by Martin S. Fridson
+title: Financial Statement Analysis A Practitioner Guide by Martin S. Fridson - wip
 date: "2022-02-15T22:12:03.284Z"
 description: "Financial Statement Analysis A Practitioner Guide by Martin S. Fridson"
 tags: ["investing", "valueinvesting"]
