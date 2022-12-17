@@ -64,48 +64,50 @@ tags: ["investing", "valueinvesting"]
 
 - Although many bonds and preferred stocks do not meet the requirements that would qualify them as investment grade, some issues in this category may be worth purchasing because they are selling at a discount to their intrinsic value. Investors must avoid issues that are selling at a discount for other reasons – for example, because the company is financially unsound.
 
+
 # Principles for selection of fixed-value investments
 
 - avoid compromising the assumed risk for an increased reward to minimize the loss of principal
-  - if risk is assumed, it should be in the form of paying a cheaper price (therefore lowering the principal required to acquire the security), instead of accepting a higher coupon or dividend.
+  - if the risk is assumed, it should be in the form of paying a lower price (therefore lowering the principal required to acquire the security) instead of accepting a higher coupon or dividend.
 
-## safety not measured by Lien but by ability to pay
+## safety is not measured by Lien but by the ability to pay
 - safety is measured by the ability of the issuer to meet obligations - not by contractual rights
-- in theory, if a business fails, the bond holder recovers his money from assets; but that often fails because:
+- in theory, if a business fails, the bondholder recovers his money from assets, but that often fails because:
   - property values shrink when the business fails
   - there is difficulty in establishing legal rights
   - there are inherent delays in receivership
-- to avoid trouble is better seeking protection after it occurs
+- to avoid trouble is better to seek protection after it occurs
 - debt should bed assessed from the cashflow statement
-  - "good" debt is when company is using financed capital for an opportunity or expansion that might require a quick entry to the market
-  - "bad" debt is when the business is required to borrow in order to sustain operations.
+  - "good" debt is when the company is using financed capital for an opportunity or expansion that might require a quick entry into the market
+  - "bad" debt is when the business is required to borrow to sustain operations.
 
 ## obligation possibility should be assessed in terms of depression, not prosperity
-- bonds should be bought on their ability to withstand a depression or recession; relative safety is found in companies of a) dominant size, and b) substantial margin or earnings over bond interests.
-- presumption of safety based upon either the character of the industry or the mount of protection
-- investor should look for industries least likely to be affected by a depression.
-- investment practice recognizes importance of character of the industry. **historically some industries and public utilities have been more stable than others, and equally their degree of stability has altered with time**. This changing dynamic must be considered when assessing an organization's ability to continue meeting future payments on fixed income securities
+- bonds should be bought on their ability to withstand a depression or recession; relative safety is found in companies of a) dominant size and b) substantial margin or earnings over bond interests.
+- presumption of safety based upon either the character of the industry or the amount of protection
+- Investors should look for industries least likely to be affected by depression.
+- investment practice recognizes the importance of the character of the industry. **historically, some industries and public utilities have been more stable than others, and equally, their degree of stability has altered with time**. This changing dynamic must be considered when assessing an organization's ability to continue meeting future payments on fixed-income securities
 - depression performance as a test of merit.
 - various causes of bond collapses
-  - excessive funded debt of utilities: defaults were causes by over-extended debt, not by lack or earnings
-  - stability of railroad earnings overrated: such as diminished earnings a failure to recognize changes in transportation methods
-  - unavailability of sound bonds no excuse for buying poor ones. The investor should never be tempted by the lack of a good opportunity to venture into a poor one.
-- there are 2 incorrect theories:
+  - the excessive funded debt of utilities: defaults were caused by over-extended debt, not by lack of earnings
+  - stability of railroad earnings overrated: such as diminished earnings and a failure to recognize changes in transportation methods
+  - unavailability of sound bonds is no excuse for buying poor ones. The investor should never be tempted by the lack of a good opportunity to venture into a poor one.
+- there are two incorrect theories:
   - that issuing a bond is a statement of financial weakness
   - bonds are only issued when companies cannot issue stock
-- proper theory of bond financing: A reasonable amount of funded debt is an advantage (typically rooted in the company's ability to take their product or service to market quickly). if the company need to issue debt to simply pay their bills and expenses, this is a signal that the bond is unsafe.
-- significance of the foregoing to the investor: whenever there is money available to invest, it is invested. when higher yielding securities disappear from the market place, analysts need to accept a lower yielding security to ensure the protection of principal instead of choosing more yield in a second rate issue.
+- proper theory of bond financing: A reasonable amount of funded debt is an advantage (typically rooted in the company's ability to quickly take their product or service to market). If the company needs to issue debt to pay its bills and expenses, this is a signal that the bond is unsafe.
+- the significance of the foregoing to the investor: whenever money is available, it is invested. When higher-yielding securities disappear from the market, analysts need to accept a lower-yielding security to ensure the protection of the principal instead of choosing more yield in a second-rate issue.
 
 ## Unsound to sacrifice safety for yield
 - lack of safety is not compensated by a high dividend or coupon
-- no mathematical relationship between yield and risk: prices and yields often depend on popularity. Graham suggests that the public's familiarity with the issuing company and its ability to be quickly sold on the market is a considerable factor in the market price of bonds
-- the factor of cyclical risks: an insurance company spreads risk over a large field; the investor has only a small field and cannot afford a program entailing a small sample size with large risk
-- risk and yield are incommensurable. Graham mentions, yet again, that the analyst should not pay a par value for a risky bond that has a high yield. Instead, he should pay a considerable discount below the par value, therefore minimizing his risk of principal. 
-- reversal of customary procedure recommended: don't start with inspecting the safest fixed income issues on a list and work down. Instead, start with the security that represents a minimal threshold of safety and work up on the list. This way the analyst protects themselves from going deeper into the list - likely resulting in the purchase of an unsafe issue.
+- no mathematical relationship between yield and risk: prices and yields often depend on popularity. Graham suggests that the public's familiarity with the issuing company and its ability to be quickly sold on the market is an essential factor in the market price of bonds
+- the factor of cyclical risks: an insurance company spreads the risk over a large field; the investor has only a small field and cannot afford a program entailing a small sample size with a significant risk
+- risk and yield are incommensurable. Graham mentions, yet again, that the analyst should not pay a par value for a risky bond that has a high yield. Instead, he should pay a considerable discount below the par value, minimizing his principal risk. 
+- a reversal of customary procedure is recommended: don't start with inspecting the safest fixed-income issues on a list and work down. Instead, start with the security that represents a minimum safety threshold and work up on the list. This way, the analyst protects themselves from going deeper into the list - likely resulting in the purchase of an unsafe issue.
 
 ## definite standards of safety must be applied
-- Graham recommends the implementation of similar rules and regulations that savings banks use for fixed income investments, since they are required and obligated by law to minimize their expose to risk.
+- Graham recommends implementing similar rules and regulations that savings banks use for fixed-income investments since they are required and obligated by law to minimize their risk exposure.
 - Graham recommends New York Savings Bank as the baseline, but the rules should be regarded loosely and amended if new metrics prove more useful and secure
+
 
 # bond investments criteria
 
