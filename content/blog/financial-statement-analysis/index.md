@@ -133,83 +133,84 @@ tags: ["investing", "valueinvesting"]
 
 - cash generated from operations reflects the ability of the organization to generate cash from its core business operations.
 - our starting point for the cash flow from operating activities is the net income (the bottom line on the income statement).
-- **some line items within the income statement do not result in an inflow or outflow of cash and therefore must be added or deducted to the net income starting point of cashflow statement** 
-- the only cash flow that represents a stable and predictable earnings capacity is the one obtained from operating activities. The other 2 increases involve selling an asset (the house) and taking on debt (the car loan).
-- when you look at 5 years trend of company's cash flow statement, nothing spells trouble faster than a company that continually raises cash outside of the company's operating activities.
+- **some line items within the income statement do not result in an inflow or outflow of cash and, therefore, must be added or deducted to the net income starting point of the cash flow statement** 
+- the only cash flow representing a stable and predictable earnings capacity is obtained from operating activities. The other two increases involve selling an asset (the house) and taking on debt (the car loan).
+- when you look at five years trend of a company's cash flow statement, nothing spells trouble faster than a company that continually raises cash outside of the company's operating activities.
 
 - **net income**
-  - so this is our starting point. This number from the bottom of income statement.
+  - so this is our starting point. This number is from the bottom of the income statement.
   - from this point, we need to adjust for all non-cash items.
 
 - **depreciation**
-  - also called depreciation and amortization. Other times, it is simply grouped into a line called non-cash items.
-  - depreciation is a non-cash item, which means that there is no cash spent. As such, you should add back the depreciation for the later years.
-  - depreciation is subtracted on the income statement, but added on the cash flow statement.
+  - also called depreciation and amortization. Other times, it is grouped into a line called non-cash items.
+  - depreciation is a non-cash item, meaning no cash is spent. As such, you should add back the depreciation for the later years.
+  - depreciation is subtracted from the income statement but added to the cash flow statement.
 - **other non-cash items**
   - an example for Coca-Cola could be the income or expense from the exchange rate
   - maybe extraordinary income and losses.
 - **deferred taxes**
   - deferred taxes occur when there are temporary differences between the accounting value and tax value of assets.
-  - it has an impact on how much cash is going in and out of the company - and this is why deferred taxes are included in the cash flow statement.
+  - it impacts how much cash is going in and out of the company - which is why deferred taxes are included in the cash flow statement.
 - **changes in working capital**
-  - working capital is about current assets and current liabilities needed to run the business's faily operations.
-    - if working capital is $-832. that means that $832 less is tied up in the daily operations of the business than the previous year.
+  - working capital is about current assets and liabilities needed to run the business's daily operations.
+    - if working capital is $-832, that means that $832 less is tied up in the business's daily operations than the previous year.
     - working capital is expensive, so we want to limit it.
 
 ## cash generated from investing activities
 
 - in contrast to the operating cash, we want the cash flow from investing activities to be negative.
-- an analysis of cash flow from investing activities reveals the growth strategy pursued by the corporation. Any cash outlay from investing activities has the long-term goal of increasing the company's future cash flow. In following years, the purchase of more assets should produce a larger operating cash flow, which in turn will pay for more investments at a later date.
+- an analysis of cash flow from investing activities reveals the growth strategy pursued by the corporation. Any cash outlay from investing activities has the long-term goal of increasing the company's future cash flow. In the following years, the purchase of more assets should produce a larger operating cash flow, which in turn will pay for more investments at a later date.
 - **property, plant and equipment - net**
   - this line is sometimes referred to as Capital expenditures, cap spending, or simply CAPEX.
-  - in general, you should be very cautious when you see positive number for this line. While cash may be nice to have today, companies may find themselves short-handed if the funds aren't used to purchase more valuable assets or service expensive debt.
+  - Generally, you should be cautious when you see a positive number for this line. While cash may be nice today, companies may find themselves short-handed if the funds aren't used to purchase more valuable assets or expensive service debt.
 - **intangible assets - net**
   - for example, Coca-Cola might patent a new soft drinks recipe.
   - you will most likely find this line to be negative too.
 - **businesses - net**
   - in general, Warren Buffett believes that companies should stick to their core activities. In the case of Coca-Cola, this means that the company should focus on the beverage industry and not buy businesses in other sectors.
 - **investments - net**
-  - Where managers typically get into trouble with the purchase of investments is when they cross the threshold of passive ownership and move into a controlling share of the business that they don't understand. It means that they company would be responsible for overall management.
+  - Managers typically get into trouble with purchasing investments when they cross the threshold of passive ownership and move into a controlling share of the business they don't understand. It means that the company would be responsible for overall management.
   
 ## cash generated from financing activities
 
 - included activities such as dividends, debt, issuances of stocks
 - **issuances of stock**
-  - when this is a positive number, that means the company has issued more common stock to raise money. If it was a negative number, that would mean the company bought back shares from the open market.
-  - can sometimes be combined with the next line "purchase of stock for treasury"
-  - a stock issue should be treated the same way as a perpetuity loan (or never ending loan).
+  - When this is a positive number, the company issues more common stock to raise money. When this is a negative number, The company buys back shares from the open market.
+  - can sometimes be combined with the following line "purchase of stock for the treasury."
+  - a stock issue should be treated the same way as a perpetuity loan (or never-ending loan).
   - by looking up a company's current P/BV ratio and its current ROE, you can get a general idea of the effective perpetuity interest rate the original shareholders are assuming for the issuance of the new stock.
-  - let's say you need to raise a million dollars for a new building, you could get the money from the bank at a 7.5% interest rate for 10 years, second, you could issue bonds at an 8.5% interest rate for 10 years. Third, you could issue more shares of the company to raise the money. Issuing more shares would lead to an effective interest rate of 5.22%. Now the caveat: issuing shares should be treated as perpetuity loan, wheareas the other choices would only last for 10 years.
+  - let's say you need to raise a million dollars for a new building. You could get the money from the bank at a 7.5% interest rate for ten years. Second, you could issue bonds at an 8.5% interest rate for ten years. Third, you could issue more company shares to raise money. Issuing more shares would lead to an effective interest rate of 5.22%. Now the caveat: issuing shares should be treated as a perpetuity loan, whereas the other choices would only last for ten years.
 
 - **purchases of stock for treasury**
-  - when you find this line to be negative, it means that the company is buying back its own stocks. Once repurchased, the stock no longer has voting rights or entitlements to receiving dividend payments. It is said to be held in treasury.
-  - when a company is buying back shares, the existing shareholders will increase their relative ownership in the company. The key issue is that management bought back the share with the shareholders' existing money. In other words, the management in Coca-Cola increased your ownership with your own money. That is money that could be paid to you as a dividend, or money that the management could employ by investing in the new income-producing asset.
-  - since the company is using the owners' money to buy back shares, a share repurchase is only more profitable for the shareholder, at a reasonable price.
+  - when you find this line to be negative, it means that the company is buying back its stocks. Once repurchased, the stock no longer has voting rights or entitlements to receive dividend payments. It is said to be held in treasury.
+  - when a company buys back shares, the existing shareholders will increase their relative ownership. The critical issue is that management bought back the share with the shareholders' existing money. In other words, the management of Coca-Cola increased your ownership with your own money. That money could be paid to you as a dividend, or the management could employ it by investing in the new income-producing asset.
+  - since the company uses the owners' money to buy back shares, a share repurchase is only more profitable for the shareholder at a reasonable price.
 - **payment of cash dividends**
-  - management prefers a share buy-back because they don't pay taxes on the disbursement and they retain capital in the company to make future acquisitions or purchases.
-  - if a company's payout ratio (dividend rate/EPS) is higher than 50%-60% the company might be inhibiting their ability over the long haul to pay owners and still meet the demands of the company's competition.
+  - management prefers a share buy-back because they don't pay taxes on the disbursement, and they retain capital in the company to make future acquisitions or purchases.
+  - if a company's payout ratio (dividend rate/EPS) is higher than 50%-60%, the company might be inhibiting their ability over the long haul to pay owners and still meet the demands of the company's competition.
 
-- **issuances/payment of debt - net**
-  - the best way to raise capital is to make enough profit so the company doesn't need to borrow any money.
-  - if the debt-equity ratio exceeding 0.5, you'll probably want to understand how the company got there and what its doing to reduce its position.
-  - if this line is negative, that means the company is paying off its debts. If the number is positive, it means the company has taken on new debt (or issued bonds).
-  - **if you notice that a company's operating cash flow is negative and this issuance/payment of debt is positive, you're looking at a company that's in serious trouble.**
+- **issuances/payment of a debt - net**
+  - the best way to raise capital is to make enough profit, so the company doesn't need to borrow any money.
+  - if the debt-equity ratio exceeds 0.5, you'll probably want to understand how the company got there and what it's doing to reduce its position.
+  - if this line is negative, the company is paying off its debts. The company has taken on new debt (or issued bonds) if the number is positive.
+  - **if you notice that a company's operating cash flow is negative and this issuance/payment of debt is positive, you're looking at a company in serious trouble.**
 
 - **free cash flow**
   - free cash flow = operating cash flow + property, plant and equipment, net
-  - at a minimum, I would look at the 5 year average to try and determine the FCF for the intrinsic value calculation.
-  - the free cash flow can be paid out to the shareholders as dividends, it can be returned in the form of share buy-backs, and it can be used pay off the company's debt. Basically, it is cash that is flowing back to the shareholders in one way or the other.
+  - at a minimum, I would look at the 5-year average to try and determine the FCF for the intrinsic value calculation.
+  - the free cash flow can be paid out to the shareholders as dividends, it can be returned in the form of share buy-backs, and it can be used to pay off the company's debt. It is cash that flows back to the shareholders in one way or the other.
 
 - **free cash flow to revenue ratio**
   - free cash flow to revenue ratio = (operating cash flow + property plant and equipment net) / Revenue
-  - it means that every Coca-Cola sells soft drinks for $100, $13.2 will be available as cash for the shareholders.
+  - it means that for every Coca-Cola that sells soft drinks for $100, $13.2 will be available as cash for the shareholders.
   - in general, you should be looking for companies that have a consistent free-cash-flow-to-revenue ratio of at least 5%
 
 - **investing cash flow to operating cash flow ratio**
   - investing cash flow to operating cash flow ratio = investing cash flow / operating cash flow
-  - it means every time Coca-Cola makes $100 in cash from its operations, $53.3 in cash are spent on maintaining and investing in company's growth.
-  - in the short term, it should not be a problem with high investment ratios, indeed, in some years it might be over 100% if the investment possibilities are great.
-  - in the long run, Warren Buffett understands the importance of reinvesting capital into the business, but at the same time he firmly believes cash should be ultimately be returned to the shareholders in some profitable form.
+  - it means every time Coca-Cola makes $100 in cash from its operations, $53.3 in cash is spent on maintaining and investing in the company's growth.
+  - in the short term, high investment ratios should not be a problem. Indeed, it might be over 100% in some years if the investment possibilities are great.
+  - in the long run, Warren Buffett understands the importance of reinvesting capital into the business. Still, at the same time, he firmly believes cash should ultimately be returned to the shareholders in some profitable form.
+
 
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
