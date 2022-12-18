@@ -215,41 +215,41 @@ tags: ["investing", "valueinvesting"]
 # balance sheet statement analysis
 - https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
-- balance sheet is sectionalized into 3 major categories: the assets, the equity and the liabilities.
+- the balance sheet is sectionalized into three major categories: the assets, the equity and the liabilities.
 
 
 ## assets
 
 - assets are what the company owns
-- assets can ben financed in 2 ways: with the company's money - this is called equity or with someone else's money - this is called liabilities.
-- because assets are either financed by equity or liabilities, the 2 sides will always be equal. They will balance.
+- assets can be financed in 2 ways: with the company's money, called equity, or with someone else's money, which is called liabilities.
+- because assets are financed by equity or liabilities, the two sides will always be equal. They will balance.
 - *assets are something that is owned and expected to generate income for the company*
 - 2 different categories of assets: the non-current and the current assets
   - current asset can be defined as any asset which is likely to be converted into cash within a period of 1 year such as cash, inventory and receivables
-  - non-current assets are sometimes referred to as long-term assets. An organization simply includes those assets that have an expected ownership over a period exceeding 1 year and cannot immediately be converted into cash such as machines for production, buildings, cards, etc...
-  - the idea distinguishing various kinds of assets is to present to the reader a true and fair view of a company's financial condition that is also why the balance sheet is sometimes referred to as the statement of financial position.
+  - non-current assets are sometimes referred to as long-term assets. An organization includes those assets that have an expected ownership over a period exceeding one year and cannot immediately be converted into cash, such as machines for production, buildings, cards, etc...
+  - the idea of distinguishing various kinds of assets is to present to the reader an accurate and fair view of a company's financial condition, which is also why the balance sheet is sometimes referred to as the statement of financial position.
 
 ### Current assets
 - **cash and cash equivalents**
-  - aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and cash that is safely stored away in a bank account.
+  - aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and safely stored in a bank account.
   - cash equivalents are equal to having cash that is currently in a different form, for example, money market funds, saving deposits and deposit certificates.
 
 - **accounts receivables**
   - aka receivables, net receivables. 
-  - most of a business's sales tend to be carried out on credit as opposed to cash. This payment in effect an asset for the company because it will be turned into cash at a later date. Typically, this would happen within 60-90 days. This also means that receivables, in reality are an interest-free loan provided from one company to another company.
-  - most often, it made up by the credit sales of goods and services,but it can also contain expected current payments such as interest on various securities.
+  - most of a business's sales tend to be carried out on credit instead of cash. This payment is an asset for the company because it will be turned into cash later. Typically, this would happen within 60-90 days. This also means that receivables, in reality, are interest-free loans provided from one company to another.
+  - most often, it is made up of the credit sales of goods and services, but it can also contain expected current payments such as interest on various securities.
   - in short, this is money that is expected to flow into the company but is yet to be received.
 
 - **inventory**
-  - typically inventory is subdivided into 3 categories: raw materials (such as sugar for coca-cola), work in progress (such as labor costs for managing machines), and finished goods (includes costs for packaging the products).
+  - typically, inventory is subdivided into three categories: raw materials (such as sugar for coca-cola), work in progress (such as labour costs for managing machines), and finished goods (includes costs for packaging the products).
 
 - **other current assets**
-  - any current assets that do not meet any of the 3 previous categories (may include property, plant and equipment available for sale, or any asset that is expected to be sold within the year)
-  - might also include derivatives that are designated as hedging instruments such as foreign currency contracts and commodity contracts (to minimize their risk and exposure to a flexible and unpredictable market).
+  - any current assets that do not meet any of the three previous categories (may include property, plant and equipment available for sale or any asset that is expected to be sold within the year)
+  - might also include derivatives designated as hedging instruments, such as foreign currency contracts and commodity contracts (to minimize risk and exposure to a flexible and unpredictable market).
 
 - **prepaid expenses**
   - a firm sometimes pays off some of its expenses before it actually incurs them (such as distribution rights in advance for 6 months in the case of coca-cola)
-  - the prepaid expenses tend to be the most iliquid item in the current assets category. Most likely the contractual terms would not allow Coca-Cola to ask for such a reversal of funds that have already been paid.
+  - the prepaid expenses tend to be the most illiquid item in the current assets category. Most likely the contractual terms would not allow Coca-Cola to ask for such a reversal of funds that have already been paid.
   - that's why you'll find prepaid expenses listed at the very bottom of the current assets column; it's the "thickest" and most difficult to turn back into cash
 - **total current assets**
   - summation of all assets that you expect to turn into cash during the next 12 months.
@@ -258,7 +258,7 @@ tags: ["investing", "valueinvesting"]
 - assets that will not turn into cash within the next 12 months
 
 - **non-current receivables**
-  - it is the money that is expected to be paid back, but not within the next 12 months.
+  - The money is expected to be paid back, but not within the next 12 months.
 
 - **non-current investments**
   - referred to as long-term investments.
@@ -266,16 +266,16 @@ tags: ["investing", "valueinvesting"]
   - as an investor, you're right to question why a company should have long-term investments. You might argue that a company with a high number of investments would tend to concentrate less on core activities. That is typically a bad sign. Conversely, investments such as these might signify a diversification policy so earnings are maintained despite changes in external environments.
 
 - **property, plant, and equipment**
-  - ranging from buildings to property and from manufacturing equipment to mere office furniture.
-  - very often, some of the largest expenses for a company relate to this category of assets. Tangible assets will often have to be replaced, and that's a very expensive bill that has to be paid
-    - think of a company like Hilton Resorts. They will constantly have building upgrades and interior remodeling expenses in order to remain competitive in their market. Ultimately, all bills end up being paid by the shareholders of the company. That is why we only want PE that can produce revenue, not PPE for the sake ow owning a lot of assets.
+  - ranging from buildings to property and manufacturing equipment to mere office furniture.
+  - very often, some of the largest expenses for a company are related to this category of assets. Tangible assets will often have to be replaced, and that's a very expensive bill that has to be paid
+    - think of a company like Hilton Resorts. They will constantly have building upgrades and interior remodelling expenses to remain competitive in their market. Ultimately, all bills end up being paid by the company's shareholders. That is why we only want PE that can produce revenue, not PPE, for owning a lot of assets.
 
 - **patents, trademarks and other intangibles**
   - companies with strong brand names and efficient research and development departments are likely to carry trademarks and patents.
-  - due to accounting law, a company can list all expenses from research and development as an intangible assets. This means that all the material and labor costs that Coca-Cola incurs in relation to producing the recipe can now be transformed into an asset. (it could also means that if Coca Cola has very inefficient personnel and high salaries, this would ultimately be transformed into a bigger asset). This process is called capitalization.
+  - due to accounting law, a company can list all expenses from research and development as an intangible asset. This means that all the material and labour costs Coca-Cola incurs to produce the recipe can now be transformed into an asset. (it could also mean that if Coca-Cola has inefficient personnel and high salaries, this would ultimately be transformed into a bigger asset). This process is called capitalization.
   - capitalization is how intangibles like patents and trademarks are entered into the balance sheet.
   - intangible assets lose value if it is deemed that they cannot generate income. When intangible assets are depreciated, it's called amortization.
-  - since patents and trademarks provide a durable competitive advantage for a company, it is a great source of risk reduction. Additionally, intangible assets are generally unaffected by inflation. This means that as time marches on, the value of patents and trademarks increase in nominal dollars automatically.
+  - since patents and trademarks provide a durable competitive advantage for a company, it is a great source of risk reduction. Additionally, intangible assets are generally unaffected by inflation. This means that as time marches on, the value of patents and trademarks increases in nominal dollars automatically.
 - **goodwill**
   - goodwill only occurs during the acquisition process; it is not something that the company can create by themselves
 
@@ -284,36 +284,36 @@ tags: ["investing", "valueinvesting"]
 ### current liabilities
 
 - **accounts payable**
-  - sometimes referred to as payables, net payables, or trade payables. Since this account is primarily a category that summarizes what the business has bought on credit.
+  - sometimes referred to as payables, net payables, or trade payables since this category primarily summarizes what the business has bought on credit.
   - for a company, it's very neat to have an interest-free loan in less than 12 months.
 
 - **notes payable**
-  - sometimes referred to as current borrowing or current financial debt. It represents how much of the outstanding short-term debts should be paid back to the issuer.
+  - sometimes referred to as current borrowing or the current financial debt. It represents how much outstanding short-term debt should be paid back to the issuer.
 - **accrued expenses**
-  - often, companies will incur expenses that are not yet paid for. For Coca-Cola, this could be expenses for employees' salaries, electricity bills, or basically any payment that is consumed but not yet paid.
+  - often, companies will incur expenses that are not yet paid for. For Coca-Cola, this could be expenses for employees' salaries, electricity bills, or any payment that is consumed but not yet paid.
   - any portion of the bill that has not been paid at the balance sheet date would be classified as accrued expenses.
 - **taxes payable**
-  - in corporate accounting, company is responsible for withholding the taxes it owes - it doesn't happen automatically. Taxes payable is a holding pattern for a corporate taxes. This is the account where the company will list the money that they owe to the federal, state, or local government for the products or services they sell. Once the payment is made to the government from the cash account, you'll see a deduction in the taxes payable account and the tax payment will then be listed on the income statement.
+  - in corporate accounting, the company is responsible for withholding the taxes it owes - it doesn't happen automatically. Taxes payable are a holding pattern for corporate taxes. This is the account where the company will list the money they owe to the federal, state, or local government for the products or services they sell. Once the payment is made to the government from the cash account, you'll see a deduction in the taxes payable account, and the tax payment will then be listed on the income statement.
 
 ### non-current liabilities
 
-- sometimes non-current liabilities are referred to as long-term liabilities, which are anything the company expects to pay outside the 12-month timeframe.
+- sometimes, non-current liabilities are referred to as long-term liabilities, which the company expects to pay outside the 12-month timeframe.
 
 - **long-term debt**
-  - when Coca-Cola obtains loans, creditors have no influence on the daily operations. Daily business decisions are usually completely up to the management and shareholders
+  - when Coca-Cola obtains loans, creditors do not influence the daily operations. Daily business decisions are usually entirely up to the management and shareholders
   - perhaps, surprisingly, long-term debt does not always have to be paid back.
-    - for example, if you have a mortgage of $300000, there is actually no good reason to pay back your whole loan, especially if the interest rate is under the inflation rate. As long as you feel that you have sufficient equity in your home, then you should be fine using your money for something else. The bank is usually pleased to be receiving interest payments on your home, as long as you do not default on the payment.
-    - let's say that Coca-Cola takes on a little debt at an interest rate of 4%. As long as Coca-Cola can make a better return in the market and can control the risk, they may choose to delay the repayment of the principal to seek larger returns elsewhere. If the company decides to pay off the loan, it would be similar to getting a 4% return (accounting for inflation, it might even be as low as 1% effectively). An efficient company could probably get a better return by investing in new assets.
-    - look into interest coverage ratio and debt to equity ratio to gauge if the debt is under control.
+    - for example, if you have a mortgage of $300000, there is no good reason to pay back your whole loan, especially if the interest rate is under the inflation rate. As long as you feel you have sufficient equity in your home, you should be fine using your money for something else. The bank is usually pleased to receive interest payments on your home if you do not default on the payment.
+    - let's say that Coca-Cola takes on a little debt at an interest rate of 4%. As long as Coca-Cola can make a better return in the market and control the risk, it may choose to delay the repayment of the principal to seek larger returns elsewhere. If the company decides to pay off the loan, it would be similar to getting a 4% return (accounting for inflation, it might even be as low as 1% effectively). An efficient company could probably get a better return by investing in new assets.
+    - look into the interest coverage and debt-to-equity ratios to gauge if the debt is controlled.
   
   - **deferred tax**
     - it can be listed as an asset or a liability depending on what year a particular item is being depreciated and what the company has decided to realize as a loss or gain.
       - for example, a deferred tax occurs when there is a difference between the linear and accelerated depreciation approach. In essence, the tax liability corrects the amount of taxes a company should or shouldn't have paid.
       - deferred tax is only applicable for the year of consideration.
-      - once this asset is realized onto the income statement, the amount listed on the balance sheet will disappear.
+      - once this asset is realized on the income statement, the amount listed on the balance sheet will disappear.
   - **provisions**
-    - when a company sells on credit, they expect some of their customers to default from time to time. For this reason, companies have a provisions account where they continually put money aside to absorb these potential losses.
-    - the provisions account fluctuates from year to year and likely be adjusted continually.
+    - when a company sells on credit, they expect some customers to default from time to time. For this reason, companies have a provisions account where they continually put money aside to absorb these potential losses.
+    - the provisions account fluctuates yearly and will likely be adjusted continually.
 
 ## equity
 
@@ -323,76 +323,76 @@ tags: ["investing", "valueinvesting"]
 
 ### share capital
 - aka capital stock, common stock, or paid-in capital
-- is used to keep track of common stock splits and common shares outstanding. 
+- is used to keep track of common stock splits and outstanding shares. 
 - when a company is originally started, the founder(s) place a certain amount of money into an equity account called *paid-in capital*
 - regardless of the initial designation of how much one share's par value is, the share capital account is a tracking tool for future splits and share growth/contraction.
-  - let's say company decide to issue 200 more shares after the initial issued 100 shares. Now, the shares might sell on the open market for $500, therefore, raising money for the company, but that doesn't preclude the company from tracking the new number of shares in the capital account. At the end of this action, there would be $200 in the capital account and 200 shares would be outstanding.
-  - let's say the company wanted to conduct a stock split. The company's intention is to reduce the market price of each share. The capital account would remain the same, but the par value per share would be half.
+  - let's say the company decided to issue 200 more shares after initially issuing 100. The shares might sell on the open market for $500, raising money for the company, but that doesn't preclude the company from tracking the new number of shares in the capital account. At the end of this action, there would be $200 in the capital account, and 200 shares would be outstanding.
+  - let's say the company wanted to conduct a stock split. The company intends to reduce the market price of each share. The capital account would remain the same, but the par value per share would be half.
 - most capital accounts use a penny or less to represent each outstanding share.
 
 ### additional paid-in capital
 
-- additional paid in capital is therefore the difference between the proceeds for the issue of the stock subtracted by the par value.
+- additional paid-in capital is, therefore, the difference between the proceeds for the stock issue subtracted by the par value.
 
 ### retained earnings
 
 - the retained earnings are the sum of all the previous net incomes the company has produced.
-  - in case of Coca-Cola, the capital is re-employed by the company to create even more money in the future.
+  - in the case of Coca-Cola, the capital is re-employed by the company to create even more money in the future.
 
 ### treasury stock
 
-- the price the company paid to buy back its own shares.
-- good indicator how much the company has been able to grow the owners' money. If a substantial growth in the treasury account had occurred during the period of assessment, it may drastically increase the book value growth - which potentially can be used to measure free cash flow.
+- the price the company paid to buy back its shares.
+- a good indicator of how much the company has been able to grow the owners' money. Suppose a substantial growth in the treasury account occurred during the assessment period. In that case, it may drastically increase the book value growth, which can be used to measure free cash flow.
 
 ### return on equity
 - return on equity = net income / equity
-- gauge of a corporation's profitability and how efficiently it generates those profits. The higher the ROE, the better a company is at converting its equity financing into profits.
+- a gauge of a corporation's profitability and how efficiently it generates those profits. The higher the ROE, the better a company is at converting its equity financing into profits.
 - target ROE that is equal to or just above the average for the company's sector
 
 ### return on assets
   - return on assets = net income /total assets
-  - if you're buying a company with a low deb/equity ratio (like 0.50 or less), you can probably skip this calculation. On the other hand, if you're buying a company with a lot of debt, you'll probably want to use the ROA instead of the ROE.
-  - personally, I like to see a ROA of above 6%, but most importantly I want to see that my stock picks has better ROA than their competitors.
+  - if you're buying a company with a low debt/equity ratio (like 0.50 or less), you can probably skip this calculation. On the other hand, if you're buying a company with a lot of debt, you'll probably want to use the ROA instead of the ROE.
+  - I like to see a ROA above 6%, but most importantly, I want to see that my stock picks have better ROA than their competitors.
 
 ### return on invested capital
 - a calculation used to assess a company's efficiency at allocating the capital under its control to profitable investments
 - a company is thought to be creating value if its ROIC exceeds its weighted average cost of capital (WACC)
 - ROIC = (net operating profit after tax)
 - it tells nothing about what segment of the business is generating value.
-- invested capital is the total amount of money raised by a company by issuing securities - which is the sum of the company's equity, debt and capital lease obligations. Invested capital is not a line item in the company's financial statement because debt, capital leases, and stockholder's equity are each listed separately on the balance sheet.
+- invested capital is the total amount of money a company raises by issuing securities - the sum of the company's equity, debt and capital lease obligations. Invested capital is not a line item in the company's financial statement because debt, capital leases, and stockholder's equity are each listed separately on the balance sheet.
 
 ### current ratio
 
 - current ratio = current assets / current liabilities
-- as investors, our threshold for a current ratio is that it should be above 1.0, or even 1.5 to be safe.
-- a current ratio of above 5 may also indicate bad money management, as cash could be put to better use elsewhere.
-- definitely want to be above 1 and prefer somewhere 1.5
+- as investors, our threshold for a current ratio is that it should be above 1.0 or even 1.5 to be safe.
+- a current ratio of above five may also indicate bad money management, as cash could be put to better use elsewhere.
+- want to be above one and prefer somewhere 1.5
 
 ### inventory turnover ratio
 
-- inventory turnover ratio = cost of revenue / inventory
-- indicate how efficiently company can turn inventory into sales.
+- inventory turnover ratio = cost of revenue/inventory
+- indicate how efficiently the company can turn inventory into sales.
 - as a shareholder of Coca-Cola, I would prefer to have the inventory empty and filled 4 times instead of 2.15. 
-- In all circumstances, capital in inventory is expensive, and for products with a somewhat high duration, I would like to see an inventory turnover of 4 or above and would need to do more research to understand the industry standard.
+- In all circumstances, capital in inventory is expensive, and for products with somewhat high duration, I would like to see an inventory turnover of 4 or above. I would need to do more research to understand the industry standard.
 - note: it's very important to remember that this number is compared to an annual income statement. If you were working with a quarterly income statement, you would need to multiply the number by 4 in order to ascertain the prorated annual turnover rate.
 
-### accounts receivable turn over ratio
+### accounts receivable turnover ratio
 - accounts receivable turnover ratio = turn over / accounts receivables
 - turn over is actually the revenues of the business found on the income statement.
-- turn over days = 365 / accounts receivable turnover ratio.
+- turnover days = 365 / accounts receivable turnover ratio.
 - this means that once Coca-Cola makes a sale, it typically takes x days for them to receive payment from their customer.
-- this is heavily dependent on the industry of the company and prefer the ratio around 5-7
+- this is heavily dependent on the industry of the company and prefers the ratio around 5-7
 
-### accounts payable turn over ratio
+### accounts payable turnover ratio
 
-- accounts payable turnover ratio = cost of revenue / accounts payable
-- turn over days = 365 / accounts payable turn over ratio
+- accounts payable turnover ratio = cost of revenue/accounts payable
+- turn over days = 365 / accounts payable turnover ratio
 - this means that on average it takes Coca-Cola x days to replay their supplier.
-- a ratio of between 2 - 6 is typically a sign of an efficient company that is satisfying bargaining power and at the same time having no problem paying its obligations to suppliers.
+- a ratio of between 2 - 6 is typically a sign of an efficient company that is satisfying bargaining power and, at the same time, having no problem paying its obligations to suppliers.
 
 ### acid test ratio
 
-- acid test ratio a conservative approach to the current ratio. It is also called the skeptic liquidity measure.
+- acid test ratio is a conservative approach to the current ratio. It is also called the skeptic liquidity measure.
 - Acid Test Ratio = (Current Assets - Inventory) / Current Liabilities
 
 ### debt to equity ratio
@@ -400,13 +400,14 @@ tags: ["investing", "valueinvesting"]
 - debt-to-equity ratio = (long term debt + notes payable) / equity
 - long-term debt and notes payable include interest expenses that you need to pay on a regular basis.
 - it means that every time the shareholders own $100 in equity, they also owe $20.2 in debt that Coca-Cola is paying interest on (it's 20.2% debt-to-equity)
-- in general, Warrent Bufffet does not like to have debt to equity ratio of above 0.5
+- in general, Warren Buffet does not like to have a debt-to-equity ratio of above 0.5
 
 ### liabilities to equity ratio
 
 - liabilities to equity ratio = total liabilities / equity
-- with ratio of 47.2, it means that every time the shareholder has $100 in equity, the company would have to payout 47.2 at some point in the future. The liabilities include money Coca-Cola has borrowed from the bank and is paying interest on and is included just as much as the sugar that Coca-Cola has bought on credit from a supplier.
+- with a ratio of 47.2, it means that every time the shareholder has $100 in equity, the company would have to pay out 47.2 at some point in the future. The liabilities include money Coca-Cola has borrowed from the bank and is paying interest on and is included just as much as the sugar that Coca-Cola has bought on credit from a supplier.
 - more conservative value investors like to look at this key ratio instead of the debt-to-equity ratio. They do like to distinguish between interest-bearing debt, which is the most expensive and interest-free liabilities such as accounts payable. As a rule of thumb, the liabilities to equity ratio should be below 0.8 to be considered low-risk
+
 
 # financial shenanigans
 - https://www.youtube.com/watch?v=Zg-led5YMlo&ab_channel=TheSwedishInvestor
