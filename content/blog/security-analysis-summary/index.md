@@ -117,141 +117,141 @@ tags: ["investing", "valueinvesting"]
     - the factor of political expediency
     - the foreign trade argument
     - the individual record argument: it is suggested some countries are more creditworthy than others. Graham argues that only Canada, Holland, and Switzerland demonstrated "unquestionable investing ratings" during his era
-    - two-fold objection to purchase foreign government bonds. Generally speaking, foreign bonds should be avoided for 2 reasons
+    - two-fold objection to purchasing foreign government bonds. Generally speaking, foreign bonds should be avoided for two reasons
       - the basis for obtaining credit is fragile
       - the past performance is unsatisfactory. Graham then provides Canada as the sole exception to his doubts
-- bonds of foreign corporations: in theory no company should do better than country in which it is located because the government could simply declare state ownership.
+- bonds of foreign corporations: in theory, no company should do better than the country it is located because the government could declare state ownership.
       
 
 ## size of the business
-- small companies and small municipalities are vulnerable and their bonds should not be considered suitable for the conservative investor.
-- NYSB critera example. Municipal bonds required a population of 10000 in adjacent states and 30000 elsewhere; railroads had to have 500 miles of track and annual operating revenues of 10 million nominal dollars, etc...
-  - Graham agrees that the issuer should be of reasonable size, and he also suggests that the underlying theory of cash flow and ability to repay the holder of the security is more meaningful
-- industrial bonds and factor of size: Graham feels these bonds are safe if tested against strick standards. He recommends limiting selections to the six largest corporations in any particular industry.
-- large size alone no guarantee of safety, the size should not be applied to municipalities and utilities, but only to industries.
+- small companies and municipalities are vulnerable, and their bonds should not be considered suitable for the conservative investor.
+- NYSB criteria example. Municipal bonds required a population of 10000 in adjacent states and 30000 elsewhere; railroads had to have 500 miles of track and annual operating revenues of 10 million nominal dollars, etc...
+  - Graham agrees that the issuer should be of reasonable size, and he also suggests that the underlying theory of cash flow and the ability to repay the holder of the security is more meaningful
+- industrial bonds and factor of size: Graham feels these bonds are safe if tested against strict standards. He recommends limiting selections to the six largest corporations in any particular industry.
+- large size alone, no guarantee of safety; the size should not be applied to municipalities and utilities but only to industries.
 
 ## terms of issue
-- NYSB only accept public utility bonds only when secured by mortgages. An exception is made for unsecured railroad and income bonds if earnings and dividend records meet severe stipulated rules. Graham argues that the company's ability to meet its obligations is the top consideration.
-- income bonds in weaker position than debentures. Debentures are required to make payments; where as income bonds are not required to make payments. As a result, Graham believes the mandatory coupon payment for a debenture provides less risk to the holder than an income bond.
-- standards of safety should not be relaxed because of early maturity. If 2 different bonds, a short term and a long term, are issued and secured by the same company. The risk is no different for either bond if the short-term issue can't be paid at maturity.
+- NYSB only accepts public utility bonds when secured by mortgages. An exception is made for unsecured railroad and income bonds if earnings and dividend records meet severe stipulated rules. Graham argues that the company's ability to meet its obligations is the top consideration.
+- income bonds in a weaker position than debentures. Debentures are required to make payments, whereas income bonds are not required. As a result, Graham believes the mandatory coupon payment for a debenture provides less risk to the holder than an income bond.
+- standards of safety should not be relaxed because of early maturity if the same company issued and secured two different short-term and long-term bonds. The risk is no different for either bond if the short-term issue can't be paid at maturity.
 
 ## record of solvency and dividend payment
-- the investor should ensure the issuer of the bond has a long record of financial stability and should avoid those which do not have a history of success. NYSBs requires 10 years history of payments on issues from other states and 25 year history from municipalities.
-- investor should not take higher return for risk, instead they should pay a lower principal. For examples, when a municipal government issues new bonds at higher interest rates, because of the risk of default, the investor should be skeptical of such investments
+- the investor should ensure the bond issuer has a long record of financial stability and avoid those without a history of success. NYSBs require ten years' history of payments on issues from other states and 25 years' history from municipalities.
+- Investors should not take higher returns for risk. Instead, they should pay a lower principal. For example, when a municipal government issues new bonds at higher interest rates because of the risk of default, the investor should be skeptical of such investments
 - strict quantitative tests would focus on population size, the revenues received and current liabilities
-- dividend record not conclusive evidence of financial strenth
+- dividend record not conclusive evidence of financial strength
 - balance sheet and income statement provide better clues about a company's ability to meet future coupon payments than historical dividend performance. 
-- if dividend is withheld or reduced to the common shareholders, the health of bond may be in jeopardy
+- if the dividend is withheld or reduced to the common shareholders, the health of the bond may be in jeopardy
 
 ## relation of earnings to interest requirements
 
-- safety of a bond can be evaluated by comparing the company's earnings to its interest obligations
-- total deduction or "Over-all" Method
-  - Graham suggests that all bonds are dependent on each other, he expects all issues to fail if the payment of one cannot be completed.
+- the safety of a bond can be evaluated by comparing the company's earnings to its interest obligations
+- total deduction or "Overall" Method
+  - Graham suggests that all bonds depend on each other. He expects all issues to fail if the payment of one cannot be completed.
   - coverage ratio = earnings / total interests on all issues
-- minimum requirements for earnings coverage. It's different for each industries.
-- period comprised by the earnings test. NYSB assesses the 5 previous years for determining the safety of an issue. Graham suggests that the most recent years are the most important
+- minimum requirements for earnings coverage. It's different for each industry.
+- period comprised of the earnings test. NYSB assesses the five previous years for determining the safety of an issue. Graham suggests that the most recent years are the most important
 - the relation of the coupon rate to earnings coverage
-  - effect of coupon rate on safety: good companies fetch lower interest rates compared to risky companies. This means that good credit produces better credit
-  - effect of rise interest rates on safety
-    - if the investors considers a rise in interest rates probable, he should not buy long-term low coupon bonds, no matter how strong the company. inversely, if an investor considers a drop in interest rates, he should buy long-term bonds that meet significant levels of safety.
+  - effect of coupon rate on safety: good companies fetch lower interest rates than risky companies. This means that good credit produces better credit
+  - effect of rising interest rates on safety
+    - if the investor considers a rise in interest rates probable, he should not buy long-term low-coupon bonds, no matter how strong the company is. Inversely, if an investor considers a drop in interest rates, he should buy long-term bonds that meet significant levels of safety.
 
-## relation of value of the property to funded debt
-- the soundness of the bond rests on the ability of the issuing corporation to support its financial obligations, and much less on the potential value of its property for a lien. With that in mind, there is no purpose in devising a minimal pledged level of property value to support the bond.
+## relation of the value of the property to funded debt
+- the soundness of the bond rests on the ability of the issuing corporation to support its financial obligations and much less on the potential value of its property for a lien. With that in mind, there is no purpose in devising a minimal pledged level of property value to support the bond.
 - **special types of obligations**
   - **equipment obligations**:
-    - equipment trust certificates may be issued against specific items of use by the corporation, for instance, again, a car. Although these certificates promise safety at time of sale, the debtor may only receive 50% of what he expects.
+    - equipment trust certificates may be issued against specific items of use by the corporation, for instance, again, a car. Although these certificates promise safety at the time of sale, the debtor may only receive 50% of what he expects.
   - **collateral-trust bonds**
-    - these are bonds that are secured by common stock or other bonds, often of the same corporation.
+    - these are bonds secured by common stock or other bonds, often of the same corporation.
     - these bonds offer very little security if issued from the same corporation or subsidiary.
   - **real estate bonds**
-    - the value of the property is often directly related to the success of the corporation.
-    - property values and earning power closely related. Graham forcefully cautions investor that this is not true for buildings that were erected for special purposes and manufacturing
-    - misleading character of appraisals
-    - abnormal rental used as basis of valuation
-    - debt based on excessive construction costs: over-valuation led to over-building which raised construction costs. When the market caught up, the loan against the expensive costs could not be supported.
-    - weakness of specialized buildings such as hospital or factory
-    - values based on initial rentals misleading: rentals obtained on a new building are higher that can be obtained for an old building. The duration of the bond issue needs to account for a declining premium for rent due to the age of the building
+    - the value of the property is often directly related to the corporation's success.
+    - property values and earning power are closely related. Graham forcefully cautions investors that this is not true for buildings that were erected for special purposes and manufacturing
+    - the misleading character of appraisals
+    - abnormal rental used as the basis of valuation
+    - debt based on excessive construction costs: over-valuation led to over-building, raising construction costs. When the market caught up, the loan against the expensive costs could not be supported.
+    - weakness of specialized buildings such as hospitals or factory
+    - values based on initial rentals misleading: rentals obtained on a new building are higher than can be obtained for an old building. The duration of the bond issue needs to account for a declining premium for rent due to the age of the building
     - suggested rules of procedure
-      - for single family dwellings, the lender should be sure the amount lent is not more than two thirds the value of the property as determined by the market assessment.
+      - for single-family dwellings, the lender should be sure the amount lent is not more than two-thirds the value of the property as determined by the market assessment.
       - the lender should fully understand the costs associated with constructing the property and not exceed the mortgage by 50%
-      - there should be conservatively structured income account that accounts for vacancies and a building that doesn't fetch the premium of a newly constructed property. This account should demonstrate quality coverage over the net income.
+      - there should be a conservatively structured income account that accounts for vacancies and a building that doesn't fetch the premium of a newly constructed property. This account should demonstrate quality coverage over the net income.
 
 ## relation of stock capitalization to funded debt
 
-- The amount of stock that follows all the different bond issued by a company (senior and junior issues combined), is always going to be the resources that remain after all debts are fullfilled.
+- The amount of stock that follows all the different bonds issued by a company (senior and junior issues combined) will always be the resources that remain after all debts are fulfilled.
 
 - **standards prescribed by the new york law** for the bonds of public utilities
   - all combined mortgage debt will be less than 60% of the assessed property value
-  - capital stock (or the common stock and preferred stock combined) at book value will not be less than two thirds of mortgaged debt.
+  - capital stock (or the common stock and preferred stock combined) at book value will not be less than two-thirds of mortgaged debt.
 
 - **equity test of doubtful merit in the case of utilities**
-  - Graham states that many of the figures used on the balance sheets were not reliable during his era. He feels the test should be used if the earnings of the company are unreliable. In such cases, the analyst may want to increase the standards fore test
+  - Graham states that many of the figures used on the balance sheets were unreliable during his era. He feels the test should be used if the company's earnings are unreliable. In such cases, the analyst may want to increase the standards for test
     - 75% of the property value
 - **importance of a real-value coverage behind a bond issue**
-  - Graham encourages the analyst to ensure the "going concern value" (or market price if the company could be sold as a whole unit) is substantially higher than the funded debt. He really challenges the analyst to look at the value of the business itself instead of the value of its individual pieces.
+  - Graham encourages the analyst to ensure the "going concern value" (or the market price if the company could be sold as a whole unit) is substantially higher than the funded debt. He challenges the analyst to look at the value of the business itself instead of its pieces.
 
-- **shareholders' equity measured by market value of stock issues - a supplemental test**
-  - Graham states that a company that has a large market price compared to its total debt is far safer than a company that has a lower market price that closely resembles its total debt.
+- **shareholders' equity measured by the market value of stock issues - a supplemental test**
+  - Graham states that a company with a large market price compared to its total debt is far safer than a company with a lower market price closely resembling its total debt.
 
 - **minima for the stock-equity test**
-  - public utilities -> earnings should be 1.75 times the interest of the debt. Market price of stock should be at least 50% of the total debt
-  - railroads -> earnings should be 2 times the interest of the debt. Market price of stock should be 66% of the total debt
-  - industrials -> earnings should be 3 times for industrials. Market price of stock should be 100% of the total debt
-  - these tests were developed for determining the safety of a bond, not a common stock.
+  - public utilities -> earnings should be 1.75 times the debt's interest. The market price of the stock should be at least 50% of the total debt
+  - railroads -> earnings should be two times the interest of the debt. The market price of the stock should be 66% of the total debt
+  - industrials -> earnings should be three times for industrials. The market price of the stock should be 100% of the total debt
+  - these tests were developed to determine a bond's safety, not common stock.
 
 - **income bonds equivalent to stock equity**
-  - since interest on income bonds (issues that aren't required to pay coupons) is not a fixed charge, it should not be included in the total charges on which coverage is calculated. Similarly, the principal amount of such bonds is not to be included in the total funded debt, instead it is to be compared with the stock equity.
+  - since interest on income bonds (issues that aren't required to pay coupons) is not a fixed charge, it should not be included in the total charges on which coverage is calculated. Similarly, the principal amount of such bonds is not to be included in the total funded debt. Instead, it is to be compared with the stock equity.
 
 - **significance of unusually large stock-value ratio**
-  - the consideration of a bond's security is primarily based on its coverage ratio (earnings compared to fixed interest charges) and its ratio of stock value to total bonded debt.
-  - the coverage ratio provides the coverage of the coupon payment and the ratio of stock value to total bonded debt provides indicator whether the par value can be repaid. When either one of these ratios are uncharacteristically high while the other is low, it's possible that the issue is still safe.
+  - the consideration of a bond's security is primarily based on its coverage ratio (earnings compared to fixed interest charges) and its stock value ratio to total bonded debt.
+  - the coverage ratio provides the coverage of the coupon payment, and the ratio of stock value to total bonded debt indicates whether the par value can be repaid. The issue may still be safe when either of these ratios is uncharacteristically high while the other is low.
 
 - **stock-value ratio for railroad and public utility companies.**
   - applying a stock value ratio to railroads and public utility companies is difficult because of rental obligations and preferred stock of subsidiaries that rank before the parent company's bonds. Regardless of those difficulties, Graham states that close attention to the stock-value ratio would have prevented major mistakes by bond investors in 1935-1937
 
 - **stock-value test not to be modified to reflect changing market conditions**
-  - Analysts might be inclined to make the stock-value ratio adjustable with changing market conditions (because it uses the current market price). For example, during a bull market, market prices are higher but the total debt of a bond is fixed. Therefore a ratio of 2:1 should potentially be increased to 3:1 during growing market prices. Graham suggests practical application is too difficult to implement.
+  - Analysts might be inclined to adjust the stock-value ratio with changing market conditions (because it uses the current market price). For example, during a bull market, market prices are higher, but the total debt of a bond is fixed. Therefore a ratio of 2:1 should potentially be increased to 3:1 during growing market prices. Graham suggests practical application is too challenging to implement.
 
-- **summary of minimum quantitative requirements suggested for fixed-value investment**
-  - it's important to note that the following recommendations were from the 1930's
-  - size of the issuing organization: Municipal bonds should be from a local government with more than 10000 tax paying citizens. For businesses, they should produce annual gross revenues of $2 million for public utilities, $3 million for railroads, and $5 million for industrials
-  - interest coverage: this is the comparison of earnings to fixed debt obligations. The seven years average interest coverage for each of the following enterprises are 1.75 times the fixed debt for public utility bonds, 2 times for railroad bonds, 3 times for industrial bonds, 2 times for real estate bonds.
-  - value of property: the fair value of property should be more than 50% of the bond's par value
-  - market value of the stock issues: this is a comparison of the company's stock market price to its total bonded debt. The stock price should be at least 50% of a public utilities bonded debt, 66% of a railroad's bonded debt, and 100% of an industrial's bonded debt.
+- **Summary of minimum quantitative requirements suggested for fixed-value investment**
+  - it's important to note that the following recommendations were from the 1930s
+  - the size of the issuing organization: Municipal bonds should be from a local government with more than 10000 tax-paying citizens. For businesses, they should produce annual gross revenues of $2 million for public utilities, $3 million for railroads, and $5 million for industrial
+  - interest coverage is the comparison of earnings to fixed debt obligations. The seven years average interest coverage for each of the following enterprises is 1.75 times the fixed debt for public utility bonds, two times for railroad bonds, three times for industrial bonds, and 2 times for real estate bonds.
+  - the value of the property: the fair value of the property should be more than 50% of the bond's par value
+  - the market value of the stock issues: This compares the company's stock market price to its total bonded debt. The stock price should be at least 50% of a public utilities bonded debt, 66% of a railroad's bonded debt, and 100% of an industrial's bonded debt.
 
 ## special factors in bond analysis
 
-- Graham encourages investors to find companies with large levels of working capital because it displays a healthy organization that can meet future debt obligations.
+- Graham encourages investors to find companies with large working capital because it displays a healthy organization that can meet future debt obligations.
 
 - **parent company only vs consolidated return**
-  - Graham identifies his deep distrust for the parent company's operational subsidiary relationship, with respect to how the income statement is reported. He briefly describes and shows on a chart how the coverage ratio is drastically different when the income statement is viewed from the consolidated report to the "parent company only" report.
+  - Graham identifies his deep distrust for the parent company's operational subsidiary relationship concerning how the income statement is reported. He briefly describes and shows on a chart how the coverage ratio is drastically different when the income statement is viewed from the consolidated report to the "parent company only" report.
 
 - **dividends on preferred stocks of subsidiaries**
-  - Graham provides an example where a parent company fails and goes into receivership. Prior to the failure, the parent company had a subsidiary that was paying a preferred share dividend. After the failure, the dividend was immediately discontinued. The event left the bond holder (debenture holder) of the parent company empty handed. The example demonstrates an importance for thoroughly understanding the prioritization of this structure and an importance for having a backed security.
+  - Graham provides an example where a parent company fails and goes into receivership. Before the failure, the parent company had a subsidiary paying a preferred share dividend. After the failure, the dividend was immediately discontinued. The event left the parent company's bondholder (debenture holder) empty-handed. The example demonstrates the importance of thoroughly understanding this structure's prioritization and having backed security.
     - subsidiaries' bond interest
     - subsidiaries' preferred dividends
     - parent company's bond interest.
   
-- **minority interest in common stock of subsidiaries.**
-  - the earnings of minority stock are usually deducted in the income statement after the parent company's bond interest, therefore, it does not reduce the margin of safety calculation. Graham suggests subtracting the minority interest before calculating the interest coverage for a more conservative estimate.
+- **minority interest in the common stock of subsidiaries.**
+  - the earnings of minority stock are usually deducted from the income statement after the parent company's bond interest. Therefore, it does not reduce the margin of safety calculation. Graham suggests subtracting the minority interest before calculating the interest coverage for a more conservative estimate.
   
 - **capitalization of fixed charges for railroads and utilities**
-  - For example, the railroad industry may lease their railroad cars from other businesses. These leases hold considerable fixed expenses on the company and ultimately impact the health of the bonds the company has issued.
-  - after identifying this concern, Graham recommends a rule of thumb for multiplying the fixed charges on the income statement by 22. This would provide capitalization of 4.5% on all the fixed charges. This was determined by taking the inverse of 22. It's important to note that interest rates for railroad debts during 1938 were 4.5%. Therefore, this technique could be applied to any industry where fixed charges have numerous variables.
+  - For example, the railroad industry may lease their cars from other businesses. These leases hold considerable fixed expenses on the company and ultimately impact the health of the bonds the company has issued.
+  - after identifying this concern, Graham recommends a rule of thumb for multiplying the fixed charges on the income statement by 22. This would provide a capitalization of 4.5% on all the fixed charges. This was determined by taking the inverse of 22. It's important to note that interest rates for railroad debts during 1938 were 4.5%. Therefore, this technique could be applied to any industry where fixed charges have numerous variables.
   - it would be important to adjust the capitalization rate based on the average rates for bonds in that industry.
 
-- **the working-capital factor in the analysis of industrial bonds**
-  - it's important that a company has excess current assets compared to current liabilities. This excess is called the working capital.
+- **The working-capital factor in the analysis of industrial bonds**
+  - it's important that a company has excess current assets compared to current liabilities. This excess is called working capital.
 
-- **3 requisites with respect to working capital**
-  - when assessing the working capital, Graham suggests 3 items should be evaluated
+- **3 requisites for working capital**
+  - when assessing the working capital, Graham suggests three items should be evaluated
     - the cash holdings are ample
     - the ratio of current assets to current liabilities is strong
     - the working capital bears a suitable proportion of funded debt.
-  - general rule of thumb is that current assets should be double the current liabilities.
-  - Graham challenges the industrial bond investor to find companies that have enough working capital to cover all the bonds issued.
-  - companies with large working capital should be favored ones without a large working capital.
+  - the general rule of thumb is that current assets should be double the current liabilities.
+  - Graham challenges the industrial bond investor to find companies with enough working capital to cover all the bonds issued.
+  - companies with large working capital should be favoured without significant working capital.
 
 
 # Criteria for Purchasing Speculative Senior Securities
