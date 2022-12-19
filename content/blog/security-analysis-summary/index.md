@@ -369,8 +369,8 @@ tags: ["investing", "valueinvesting"]
     - allows the company to retain earnings until a safe and manageable surplus is realized.
     - this technique gives management flexibility and control to pay the dividend as long as they choose.
     - once the retained earnings have been distributed, the obligation is no longer on the books once the company repurchases the preferred share.
+ - Graham suggests that the market price of common stocks will perform similarly if management pays a healthy and sustainable dividend.
 
-- Graham suggests that the market price of common stocks will perform similarly if management pays a healthy and sustainable dividend.
 - **established principle of withholding dividends**
   - Graham claims that two companies with the same general business model and the same earnings will trade at different prices if the dividend policy is different. The market will value the company with the higher dividend more favourably.
   - should a company pay a lower dividend to create stability for the owner with an assured payment, or should it pay a higher dividend and meet its obligation irregularly?
@@ -390,16 +390,16 @@ tags: ["investing", "valueinvesting"]
 
 ## 2. Earnings
 
-- To analyze earnings, carefully study the company’s income statement. While earnings are undoubtedly important, security analysts have accorded them too much weight in calculating a company’s investment soundness. Management can manipulate a company’s earnings many ways. Therefore, always examine the firm’s income statement with a critical eye. For example, businesses can engineer nonrecurring charges and profits to produce a favorable earnings trend. A firm’s accountants also can generate perceived earnings by lowering or increasing the company’s reserves, or by reporting subsidiaries’ results in different ways. Companies can also present depreciation and amortization costs in a misleading manner.
+- To analyze earnings, carefully study the company’s income statement. While earnings are undoubtedly important, security analysts have accorded them too much weight in calculating a company’s investment soundness. Management can manipulate a company’s earnings in many ways. Therefore, always examine the firm’s income statement with a critical eye. For example, businesses can engineer nonrecurring charges and profits to produce a favourable earnings trend. A firm’s accountants also can generate perceived earnings by lowering or increasing the company’s reserves or by reporting subsidiaries’ results in different ways. Companies can also misleadingly present depreciation and amortization costs.
 
 - Investors must pay attention to more than current earnings. They should consider both the earnings trend and the long-term earnings average – preferably seven to ten years, putting more weight on the latter number. The analyst’s job is not predicting the future of a trend or intuiting possible price changes; it is making decisions based on facts.
-- analyst should combine the information from the balance sheet and income statement to garner the best valuation.
+- Analysts should combine the information from the balance sheet and income statement to garner the best valuation.
 - **disadvantages of sole emphasis on earning power**:
-  - earnings statement has more variability than the balance sheet and therefore changes the value of the business making it appear unstable, the income statement can be more misleading than the balance sheet.
+  - earnings statement has more variability than the balance sheet and therefore changes the value of the business, making it appear unstable. The income statement can be more misleading than the balance sheet.
 - **simplified statement of Wall Street's Method of appraising common stocks**
   - price = Current Earnings Per Share (EPS) x Quality Coefficient
-  - how does quality coefficient is determined?
-    - probably by whole host of factors such as dividend rate, history, size and reputation of the business. Graham suspects all these factors are dwarfed by the real factor, which is earnings trend.
+  - how does the quality coefficient is determined?
+    - probably by a whole host of factors such as dividend rate, history, size and reputation of the business. Graham suspects all these factors are dwarfed by the real factor, which is the earnings trend.
 - **earnings not only fluctuate but are subject to arbitrary determination**
   - some of the techniques management can use to misrepresent earnings in the short term are the following
     - through allocating items to surplus (on the balance sheet) instead of revenue
@@ -407,7 +407,7 @@ tags: ["investing", "valueinvesting"]
     - through an amendment of the capital structure
     - through the use of large capital funds for items that don't pertain to the business
 - **significance of foregoing to the analyst**:
-  - in the end, the analyst should be able to answer 3 questions:
+  - in the end, the analyst should be able to answer three questions:
     - what are the true earnings for the period studied?
     - what indications does the earnings record carry as to the future earning power?
     - what standards should be applied to the income statement to arrive at a reasonable valuation?
@@ -417,242 +417,242 @@ tags: ["investing", "valueinvesting"]
     - operations of subsidiaries and affiliates
     - reserves
 - **general observations on the income account**
-  - accounting rules permit management a range of choices in recording non-recurrent and special items, selecting between income and surplus, such items may be:
+  - accounting rules permit management a range of choices in recording non-recurrent and special items, selecting between income and surplus. Such items may be:
     - profit or loss on sale of fixed assets
     - profit or loss on sale of marketable securities
-    - discount or premium on retirement of capital obligations
+    - discount or premium on the retirement of capital obligations
     - proceeds of life insurance policies
     - tax refunds and interest on refunds
     - gain or loss from litigation
-    - extraordinary write down of inventory
-    - extraordinary write down of receivables
-    - cost of maintaining non-operating properties
+    - extraordinary write-down of inventory
+    - extraordinary write-down of receivables
+    - the cost of maintaining non-operating properties
   - the above items must be separated from the ordinary operating results to indicate earning power clearly (what the company might be expected to earn if the business condition remained similar)
-- **non-recurrent items: profits or losses from sale of fixed assets**: these are not to be shown in current net income, they should appear in the surplus account
-- **profit from sale of marketable securities**
+- **non-recurrent items: profits or losses from the sale of fixed assets**: these are not to be shown in current net income. They should appear in the surplus account
+- **profit from the sale of marketable securities**
   - must be separated from ordinary operating results
-  - methods used by investment trusts in reporting sale of marketable securities: over-all changes in principal value are the only measure of an investment trust's performance, and this cannot be equated with recorded earnings of an industrial corporation.
-- **profits through repurchase of senior securities at a discount**
-  - a corporation may buy back its own securities at less than par value; any gain made is non-recurring and should be recorded as such. This was a feature of depression years 1931-33
+  - methods used by investment trusts in reporting the sale of marketable securities: overall changes in principal value are the only measure of an investment trust's performance, and this cannot be equated with recorded earnings of an industrial corporation.
+- **profits through the repurchase of senior securities at a discount**
+  - a corporation may buy back its securities at less than par value; any gain made is non-recurring and should be recorded as such. This was a feature of the depression years 1931-33
 
 ### extraordinary losses and other special items in the income account
-- as inventory losses are directly related to the conduct of the business, Graham suggests that it should not be treated as extraordinary
+- as inventory losses are directly related to the conduct of the business, Graham suggests that they should not be treated as extraordinary
 - **manufactured earnings**:
-  - one example such as receivables and inventory written down to an artificially low "cost price", which in turn will lead to a manufactured higher profit in the year to come. This illustrates the most vicious type of accounting manipulation: taking sums out of surplus, and then reporting these same sums as income in the following years. The danger of this accounting method is the public is not likely to recognize it, and even the expert analyst might have a hard time detecting it.
+  - one example such as receivables and inventory written down to an artificially low "cost price," which in turn will lead to a manufactured higher profit in the year to come. This illustrates the most vicious type of accounting manipulation: taking sums out of surplus and then reporting these same sums as income in the following years. The danger of this accounting method is that the public is not likely to recognize it, and even the expert analyst might have difficulty detecting it.
 - **reserves for inventory loss**
   - companies continuously set aside reserves to absorb losses on inventory before they occur. The implication is that the income statement does not always reflect inventory losses.
 - **other elements in inventory accounting**
-  - the standard procedure is to take inventory at the close of the year measured by the lowest of either cost price or market price. 
-  - last-in, first-out: measure the actual amount paid for the most recently acquired inventory. The theory behind this method is that a merchant's selling price is related mainly to the current replacement price or the recent cost of the article sold. This method may be useful to reduce income tax, if there is inventory fluctuation.
-  - the normal stock or basic-stock inventory method: a more radical method of minimizing fluctuations is the company must possess a certain physical stock of materials from year to year. This "permanent stock" would therefore keep the same value and not be imposed to any changes in price. In order to permit the base inventory to be carried at an unchanging figure on the balance sheet, the practice is to mark it down to a very low unit price, so low that it should never be necessary to reduce it further.
-- **idle-plant expense**: the cost of carrying non-operating properties is almost always charged against income, Graham suggests it should not. By doing so, it's misleading to the expenses of the company's core product or service. The analyst may properly consider idle-plant expense as belonging to a somewhat different from ordinary charges against operating income, as these expenses by nature are not part of the company's normal operations.
-  - in theory, these expenses should be temporary since the management can terminate these losses at any time by disposing of the property. therefore, if the company chose to spend the money, Graham does not deem it logical to consider these assets equivalent to a permanent liability.
+  - the standard procedure is to take inventory at the close of the year, measured by the lowest cost price or market price. 
+  - last-in, first-out: measure the amount paid for the most recently acquired inventory. The theory behind this method is that a merchant's selling price is related mainly to the current replacement price or the recent cost of the article sold. This method may be useful to reduce income tax if there is inventory fluctuation.
+  - the normal stock or basic-stock inventory method: a more radical method of minimizing fluctuations is the company must possess a certain physical stock of materials from year to year. This "permanent stock" would therefore keep the same value and not be imposed on price changes. To permit the base inventory to be carried at an unchanging figure on the balance sheet, the practice is to mark it down to a very low unit price, so low that it should never be necessary to reduce it further.
+- **idle-plant expense**: the cost of carrying non-operating properties is almost always charged against income. Graham suggests it should not. Doing so, it's misleading to the expenses of the company's core product or service. The analyst may properly consider the idle-plant expense as belonging somewhat different from ordinary charges against operating income, as these expenses, by nature, are not part of the company's normal operations.
+  - in theory, these expenses should be temporary since the management can terminate these losses at any time by disposing of the property. Therefore, if the company chose to spend the money, Graham does not deem it logical to consider these assets equivalent to a permanent liability.
 - **deferred charges**
-  - a business sometimes incurs expenses which are applicable to a number of years rather than a single 12-month period such as:
-    - organization expense (legal fees, etc...)
+  - a business sometimes incurs expenses which apply to a number of years rather than a single 12-month period, such as:
+    - organization expenses (legal fees, etc...)
     - moving expenses
-    - development expenses (for new products, processes, for opening up a mine, etc...)
+    - development expenses (for new products, processes, opening up a mine, etc...)
     - discount on obligations sold
-  - the company is allowed to spread these types of costs over an appropriate period of years (5 years is a customary period of time). It is entered upon balance sheets as a deferred charges, which is written off by annual charges against earnings.
-  - it is incorrect to write off these types of expenses in a single year, and against a 'surplus' as net income for coming years would be overstated, followed from the understated operating expenses.
+  - the company is allowed to spread these types of costs over an appropriate period of years (5 years is a customary period). It is entered upon balance sheets as deferred charges, which are written off by annual charges against earnings.
+  - it is incorrect to write off these types of expenses in a single year and against a 'surplus' as net income for coming years would be overstated, followed by the understated operating expenses.
 - **amortization of bond discount**
-  - the discount should be amortized over the life of the bond by an annual charge against earnings.
-  - the write-offs could be written against surplus to eliminate future annual deductions from earnings, and in that way to make the shares appear more valuable. This practice has aroused considerable criticism in recent years both from NYSE and from S.E.C
+  - the discount should be amortized over the bond's life by an annual charge against earnings.
+  - the write-offs could be written against surplus to eliminate future annual deductions from earnings and in that way, to make the shares appear more valuable. This practice has aroused considerable criticism in recent years both from NYSE and from S.E.C
 
 ### misleading artifices in the income account. Earnings of subsidiaries
-- if parent company has an unprofitable division, its losses must be shown as a deduction from normal earnings
-- **flagrant example of padded income accounts**: on rare occasions management would include earnings in the income statement that have no existence.
+- if the parent company has an unprofitable division, its losses must be shown as a deduction from normal earnings
+- **flagrant example of padded income accounts**: on rare occasions, management would include earnings in the income statement that have no existence.
 - **balance sheet and income-tax checks upon the published earnings statements**
-  - to check upon the reliability of the published earnings is to look at the amount of federal income tax accrued. The taxable profit can be calculated from the income-tax accrual, and this profit compared in turn with the earnings reported to stockholders. The two figures should not necessarily be the same, since the tax laws may give rise to a number of divergences. However, the wide differences should be noted and made the subject of further inquiry.
+  - to check upon the reliability of the published earnings is to look at the amount of federal income tax accrued. The taxable profit can be calculated from the income-tax accrual, which is compared in turn with the earnings reported to stockholders. The two figures should not necessarily be the same since the tax laws may give rise to some divergences. However, the wide differences should be noted and made the subject of further inquiry.
 - one cannot make a quantitative deduction to allow unscrupulous management; the only way to deal with such situations is to avoid them.
 - **subsidiary companies and consolidated reports**
-  - consolidated reports occur when an enterprise controls one or more operational subsidiaries so that it can disclose companies financial reports as a 'group' or one entity.
-  - the important part for consolidation is to ensure nothing is counted twice, for example, the profit of the subsidiary.
+  - consolidated reports occur when an enterprise controls one or more operational subsidiaries so that it can disclose companies' financial reports as a 'group' or one entity.
+  - the important part of consolidation is to ensure nothing is counted twice, for example, the subsidiary's profit.
 - **special dividends paid by subsidiaries**
-  - parent companies can supplement their earnings through special dividends paid by their subsidiaries. This can be very misleading to an analyst and they need to account for this in their evaluation process.
+  - parent companies can supplement their earnings through special dividends paid by their subsidiaries. This can be very misleading to an analyst, who needs to account for this in their evaluation process.
 - **broader significance of subsidiaries' losses**
   - should a subsidiary's losses be represented on the parent company's earnings?
-  - should the analyst discount the value of parent company if they own an unprofitable interest in another company?
-  - it is clear from the standpoint of proper accounting that as long as a company continues to control an unprofitable division, it's losses must be shown as a deduction from normal earnings.
+  - should the analyst discount the value of the parent company if they own an unprofitable interest in another company?
+  - it is clear from the standpoint of proper accounting that as long as a company continues to control an unprofitable division, its losses must be shown as a deduction from normal earnings.
   - if the amount involved is significant, the analyst should investigate whether or not the losses may be subject to early termination
-  - the analyst may consider all or part of subsidiary's losses equivalent to nonrecurring items.
+  - the analyst may consider all or part of the subsidiary's losses equivalent to nonrecurring items.
 
 ### relation of depreciation and similar charges to earning power
 - **leading questions relative to depreciation**
-  - if a capital asset has a limited life, provisions must be made to write off the cost of the asset by charges against earnings distributed over the period of the assets life.
+  - if a capital asset has a limited life, provisions must be made to write off the cost of the asset by charges against earnings distributed throughout the asset's life.
   - three complications arise
     - accounting rules may permit a value other than cost to acquire the asset as the basis for amortization charges.
-    - there are numerous ways company can execute their depreciation/amortization charges from the balance sheet to the income statement.
-    - sometimes account rules allow companies to make depreciation charges which don't represent the reality of assets depreciation over time. This makes the analysts job very difficult to assess capital expenditures.
+    - there are numerous ways a company can execute their depreciation/amortization charges from the balance sheet to the income statement.
+    - sometimes, account rules allow companies to make depreciation charges which don't represent the reality of assets depreciation over time. This makes the analysts' job very difficult to assess capital expenditures.
 - **depreciation base other than cost**
-  - Graham suggests substitute the replacement value of all the fixed assets at a given date, while everything prior is depreciated according to current accounting standards.
-  - in most cases, companies don't place much interest in ensuring their depreciation charges are representative of their assets' ever-changing replacement costs.
+  - Graham suggests substituting the replacement value of all the fixed assets at a given date while everything prior is depreciated according to current accounting standards.
+  - in most cases, companies don't place much interest in ensuring their depreciation charges represent their assets' ever-changing replacement costs.
   
 - **mark-downs to reduce depreciation charges**
   - Graham believes that excessive write-downs of fixed assets are inexcusable and should not be condoned by the accounting profession. Accountants should refuse to certify a report containing such mark-downs.
 
 - **balance sheet-income account discrepancies**
-  - prevalent in the case of mining and oil companies, is to mark up fixed assets and then fail to increase the correspondingly depreciation charges on the income statement. This is done to benefit from the higher valuation in their balance sheet, without accepting the burden of consequently higher depreciation charges against net income.
+  - prevalent in the case of mining and oil companies, it is to mark up fixed assets and then fail to increase the corresponding depreciation charges on the income statement. This is done to benefit from the higher valuation in their balance sheet without accepting the burden of consequently higher depreciation charges against net income.
 
 - the vast majority of industrial companies follow the standard policy or charing an appropriate depreciation rate against each class of depreciable assets.
 
-- when the analyst knows that a company's depreciation policy differs from the standard, there is special reason to check the adequacy of the allowance. Comparison with a company in the same field may yield significant differences.
+- when the analyst knows that a company's depreciation policy differs from the standard, there is a special reason to check the adequacy of the allowance. Comparison with a company in the same field may yield significant differences.
 
-- depreciation charges often an issue in mergers
-- concealed depreciation such as understate depreciation, hence overstating the earnings power.
+- depreciation charges are often an issue in mergers
+- concealed depreciation, such as understated depreciation, hence overstating the earnings power.
 
 - **amortization charges of oil and mining companies**
   - **depletion charges of mining companies**
-    - depletion represents the using up of capital assets by turning them into products for sale. It applies to companies producing metals, oil and gas, sulphur, timber, etc... As the holdings, or reserves, of these products are gradually exhausted, their value must gradually be written-off through charges against earnings.
-  - **independent calculation by investor necessary**: in mining, the investor must ordinarily compute his own depletion allowances for his share of the mining property.
+    - depletion represents using capital assets by turning them into products for sale. It applies to companies producing metals, oil and gas, sulphur, timber, etc... As the holdings, or reserves, of these products, are gradually exhausted, their value must gradually be written off through charges against earnings.
+  - **independent calculation by investor necessary**: in mining, the investor must ordinarily compute his depletion allowances for his share of the mining property.
   - **depletion and similar charges in the oil industry:**
-    - in the oil industry depletion charges are closer related to the actual cost of doing business. Large oil producer normally spends substantial sums of capital each year on new leases and new wells. This is needed to make up for the shrinkage of reserves throughout continued production. In general, depletion charges are cash outlays for the purpose of maintaining reserves and production.
-    - Graham then provides an assessment of how some oil companies would misrepresent the actual life time of the asset by extending or shortening the depletion and depreciation of their assets. This was typically exercised so the company could control the market price through earnings manipulation.
+    - in the oil industry, depletion charges are closer related to the actual cost of doing business. Large oil producers normally spend substantial sums of capital each year on new leases and wells. This is needed to make up for the shrinkage of reserves throughout continued production. In general, depletion charges are cash outlays to maintain reserves and production.
+    - Graham then provides an assessment of how some oil companies would misrepresent the actual lifetime of the asset by extending or shortening the depletion and depreciation of their assets. This was typically exercised so the company could control the market price through earnings manipulation.
   - **the meaning of these variations to the analyst and the investor**
-    - analyst should seek to apply a uniform and reasonably conservative rate of amortization that reflects realities of fixed assets.
-      - depreciation on tangible assets. This should always be applied to cost - or to a figure substantially less than cost.
-      - intangible drilling costs. Capitalizing these costs, and then writing them off as oil is produced, is the preferable basis for comparative purposes and to supply a fair reflection of current earnings.
-      - property retirement and abandoned leases. A loss on property should be charged against the year's earnings, rather than gainst surplus.
+    - analyst should seek to apply a uniform and reasonably conservative rate of amortization that reflects the realities of fixed assets.
+      - depreciation on tangible assets. This should always be applied to cost - or a figure substantially less than cost.
+      - intangible drilling costs. Capitalizing these costs and then writing them off as oil is produced is the preferable basis for comparative purposes and to supply a fair reflection of current earnings.
+      - property retirement and abandoned leases. A loss on the property should be charged against the year's earnings rather than against the surplus.
       - depletion of oil reserves. The proper principle here is that the analyst should allow for depletion based on the current market values of the oil.
         - in the case of integrated oil companies, accept the company's depletion figure as the best available.
-        - in the case of companies that are solely or virtually oil producers, the analyst can compute what the market is paying for the total developed oil reserves.
+        - In companies that are solely or virtually oil producers, the analyst can compute what the market is paying for the total developed oil reserves.
 
 - **other types of amortization of capital assets**
   - **leaseholds and leasehold improvements**
-    - if a lessee is renting a property at the large discount to the actual cost of owing the property - and the terms of the contract are over a long period of time - there maybe significant value to account for.
-    - oil lands are leased on a standard royalty basis, usually one-eighth of the production. Such leaseholds can be worth much more than the rental payments involved. If a company has paid money for a given leasehold, the cost is regarded as a capital investment that should be written off during the life of the lease. These charges are in reality part of the rent paid for the property, and must therefore be included in the current operating expense.
-    - when leased property is improved with assets fixed by the leese, the cost must be written down to nothing during the life of the lease. This is due to the landlord ultimately owning the property and the tethered asset when the lease expires. The annual expense for this purpose is called "amortization of leasehold improvements." Chain-store enterprises, and consequently the annual write-offs may be of significant importance in their income statements.
-  - **amortization of patent**: in theory, a patent should be dealt with the same way as a mining property; i.e, its cost to the investor should be written off against earnings during its remaining life.
-  - **amortization of goodwill**: in modern accounting. Goodwill is continually tested for impairment, but isn't amortized.
+    - if a lessee is renting a property at a large discount to the actual cost of owning the property - and the terms of the contract are over a long period - there may be significant value to account for.
+    - oil lands are leased on a standard royalty basis, usually one-eighth of the production. Such leaseholds can be worth much more than the rental payments involved. If a company has paid money for a given leasehold, the cost is regarded as a capital investment that should be written off during the life of the lease. These charges are part of the rent paid for the property and must therefore be included in the current operating expense.
+    - when the leased property is improved with assets fixed by the lease, the cost must be written down to nothing during the life of the lease. This is due to the landlord ultimately owning the property and the tethered asset when the lease expires. The annual expense for this purpose is called "amortization of leasehold improvements." Chain-store enterprises, and consequently, the annual write-offs may be of significant importance in their income statements.
+  - **amortization of patent**: in theory, a patent should be dealt with the same way as a mining property; i.e., its cost to the investor should be written off against earnings during its remaining life.
+  - **amortization of goodwill**: in modern accounting. Goodwill is continually tested for impairment but isn't amortized.
 
 ### public utility depreciation policies
-- inadequate depreciation revealed by transfer from surplus and reserves such as in the case of Brooklyn Union Gas.
+- inadequate depreciation revealed by transfer from surplus and reserves, such as in the case of Brooklyn Union Gas.
 - **variety of depreciation policies**
   - *Depreciation Proper*
     - *Straight-line method*: each class of depreciable property is written down by equal annual charges during the period of its estimated life
     - *sinking-fund method*: the effect of this method is to make the deductions somewhat smaller in the earlier years and correspondingly higher in the later years. This is because depreciation is assumed to earn interest until the property is retired.
-    - *the over-all method*: single annual percentage to the entire depreciable property account is used, instead of varying rates to different classes of assets. The object is to arrive at a simple approximation of the actual depreciation.
+    - *the overall method*: single annual percentage to the entire depreciable property account is used, instead of varying rates to different classes of assets. The object is to arrive at a simple approximation of the actual depreciation.
   - *retirement reserve methods*
-    - the intention of a retirement reserve is to have funds available when an asset retires. Over any long period of time, proper depreciation and proper retirement allowances should yield the same results. In reality the majority of retirement reserve policies operate simply to understate the current loss of property value and thus to overstate the earnings. 
+    - a retirement reserve intends to have funds available when an asset retires. Over any long period, proper depreciation and proper retirement allowances should yield the same results. In reality, the majority of retirement reserve policies operate simply to understate the current loss of property value and thus overstate the earnings. 
     - various methods of calculating retirement reserves are:
-      - *percentage of gross*. this method would tend to approximate a regular depreciation rate if the percentage take were adequate. Generally this is not the case.
-      - *fixed rate per unit of product*. This method resembles the previous and is subject to the same criticism. Instead of a percentage of gross product, an example used is $2.7 in depreciation for every thousand kilowatt hours sold.
-      - *Over-all percentage of Gross for maintenance and depreciation combined*. By this method, the larger the amount spent for maintenance, the smaller the amount saved in a reserve for depreciation.
+      - *percentage of gross*. this method would tend to approximate a regular depreciation rate if the percentage taken were adequate. Generally, this is not the case.
+      - *fixed rate per unit of product*. This method resembles the previous one and is subject to the same criticism. Instead of a percentage of gross product, an example used is $2.7 in depreciation for every thousand kilowatt-hours sold.
+      - *Overall percentage of Gross for maintenance and depreciation combined*. By this method, the larger the amount spent for maintenance, the smaller the amount saved in reserve for depreciation.
       - *discretionary deductions*. The annual deduction is largely based on the judgement of the management. It might be the same or varying amount from year to year.
     - **double accounting policies on depreciation.**
       - regardless of what method is followed in the annual reports, practically every company follows the straight-line basis of depreciation in computing its income tax. As a result, the investor must determine whether the depreciation is representative of the linear or non-linear erosion that takes place on the value of the asset over time
-      - *Reasons for accepting, in general, the income tax base*. Graham presents 5 major reasons for accepting the income tax figure rather than the income statement as basis of depreciation:
-        - the straight-line basis follows a definite and logical accounting theory. If there is an excessive deduction, the Treasure Department wont' accept it.
-        - the inadequacy of the "retirement reserve" idea in general, has been shown by the necessity in many cases of making large transfers from surplus to support the retirement reserve.
-        - Since 1934, there has been an almost universal increase in the retirement allowances. This can be perceived as a strong indicator that past allowances were too small and therefore an overstatement of earnings.
-        - a number of state commissions and the federal commissions have now ordered companies within their jurisdictions to follow the income tax depreciation base.
-      - *instance when income tax basis should be rejected or questioned.* while Graham in general believes in accepting income tax basis, there may be times when figures in the annual report should be accepted, or even to seek a third basis.
+      - *Reasons for accepting, in general, the income tax base*. Graham presents five major reasons for accepting the income tax figure rather than the income statement as the basis of depreciation:
+        - the straight-line basis follows a definite and logical accounting theory. If there is an excessive deduction, the Treasure Department won't' accept it.
+        - the inadequacy of the "retirement reserve" idea has been shown by the necessity in many cases of making large transfers from surplus to support the retirement reserve.
+        - Since 1934, there has been an almost universal increase in retirement allowances. This can be perceived as a strong indicator that past allowances were too small and, therefore an overstatement of earnings.
+        - some state commissions and federal commissions have now ordered companies within their jurisdictions to follow the income tax depreciation base.
+      - *instance when income tax basis should be rejected or questioned.* while Graham generally believes in accepting income tax basis, there may be times when figures in the annual report should be accepted, or even seek the third basis.
 
 ### amortization charges from the investor's viewpoint
 
 - **problem indicated by hypothetical example**
   - typical market appraisals
-    - a company with a less valuable assets in terms of accounting is worth considerable more than the company with a higher value asset. This is done by a single gesture of writing down company C's assets to almost nothing immediately upon the purchase.
-  - *a more rational approach*. a more practical approach would be to include the fair value of the respective assets and add that to the cash holdings. The investor might consider which depreciation method that should be used.
+    - a company with less valuable assets in terms of accounting is worth considerably more than a company with a higher value asset. This is done by a single gesture of writing down company C's assets to almost nothing immediately upon the purchase.
+  - *a more rational approach*. A more practical approach would be to include the fair value of the respective assets and add that to the cash holdings. The investor might consider which depreciation method should be used.
 
-- **practical application of foregoing reasoning.** depreciation is not a cash outlay but deducted as an expense on the income statement. As a result, the company is reporting no income, yet the cash account continues to grow because displayed income is being off-set by depreciation charges.
-  - *how to determine the proper depreciation charge* the investor or the analyst must come up with an estimate for depreciation which aligns with the actual conditions of the business (based on the discoverable facts).
-  - *concept of expended depreciation*. The primary reason for reducing a company's depreciation charges is because it doesn't properly reflect the company's cash flow. In short, as an asset's life continues to get older, the value that it is listed for on the company's balance sheet will continue to decrease. As a result, an investor should see the value of tangible and intangible assets slowly decrease in value over time.
-  - *long-term depreciation a form of obsolescence*. for instance a plant may not be wearing out, but rather being obsolete due to changes in the industry and the status of the corporation. This risk is rather due to the investment and not accounting, hence it should be incorporated in the price and not in the depreciation, as it is a business risk. Therefore, the carrying value of asset should be adjusted accordingly. This value test for asset impairment should be conducted quarterly by the company's management.
-  - *application of foregoing in determining earning power*. for companies that are similar to a railroad, only the expended depreciation should be deducted from earnings due to maintenance, renewals and repair to a large degree.
-- **depreciation on apartment and office buildings**. In short, the asset can't be depreciated for more than the price that was paid to acquire it.
-- **inadequate allowance for depreciation**. Assets should not be written down in large amounts early in the assets life simply to make the earnings-power appear more abundant during the assets final years of life. This represents the true cash flow of the business.
+- **practical application of foregoing reasoning.** depreciation is not a cash outlay but deducted as an expense on the income statement. As a result, the company reports no income, yet the cash account continues to grow because the displayed income is offset by depreciation charges.
+  - *How to determine the proper depreciation charge* the investor or the analyst must come up with an estimate for depreciation which aligns with the actual conditions of the business (based on the discoverable facts).
+  - *concept of expended depreciation*. The primary reason for reducing a company's depreciation charges is that it doesn't properly reflect the company's cash flow. In short, as an asset's life continues to get older, the value that it is listed on the company's balance sheet will continue to decrease. As a result, an investor should see the value of tangible and intangible assets slowly decrease over time.
+  - *long-term depreciation a form of obsolescence*. For instance, a plant may not be wearing out but rather being obsolete due to changes in the industry and the status of the corporation. This risk is rather due to the investment and not accounting. Hence it should be incorporated in the price and not in the depreciation, as it is a business risk. Therefore, the carrying value of the asset should be adjusted accordingly. The company's management should conduct this value test for asset impairment quarterly.
+  - *Application of foregoing in determining earning power*. For companies similar to a railroad, only the expended depreciation should be deducted from earnings due to maintenance, renewals and repair to a large degree.
+- **depreciation on apartment and office buildings**. In short, the asset can't be depreciated for more than the price paid to acquire it.
+- **inadequate allowance for depreciation**. Assets should not be written down in large amounts early in the assets' life to make the earnings power appear more abundant during the assets' final years of life. This represents the true cash flow of the business.
 - **stock watering reversed**. This manipulation of asset value by writing the book value up and down is interrelated with the value of the stock. This would inflate the stock prices by the higher book value of the fixed assets (known as *stock watering*)
-- **the purchases's amortization calculation**. Where the life of a mining property is limited, the investor's own calculation of amortization should be deducted from earnings. He can base this on three factors 1) the price paid for the mining property. 2) the earnings before depreciation and depletion 3) the minimum life of the mine, and alternatively, the probability of life.
-- **purchaser amortization of oil reserves**. depreciation and depletion charges per barrel are found by dividing the estimated remaining oil reserves into the net value of the properties on the books.
-- **purchaser's amortization of patents**. the question for investor is how much she is paying for the patent, when she buys the stock at a given price. This is the amount she must use for writing-off subsequent earnings.
-- *general rule*. In reality no single calculation shown above will represent stocks wholistically. For big companies it is even harder since they have a bulk of patents and intangible items.
-- *special cases*. In some special cases, when a company's business primarily consists of collecting royalties on a patent or a group of patents, some finite provisions can be made. This provision must be related to the price the investor paid for his interest in the patent, and not on the book value of the patent.
+- **The purchases' amortization calculation**. Where the life of a mining property is limited, the investor's calculation of amortization should be deducted from earnings. He can base this on three factors 1) the price paid for the mining property. 2) the earnings before depreciation and depletion 3) the minimum life of the mine, and alternatively, the probability of life.
+- **purchaser amortization of oil reserves**. Depreciation and depletion charges per barrel are found by dividing the estimated remaining oil reserves into the net value of the properties on the books.
+- **purchaser's amortization of patents**. The question for the investor is how much she is paying for the patent when she buys the stock at a given price. This is the amount she must use for writing-off subsequent earnings.
+- *general rule*. In reality, no single calculation shown above will represent stocks wholistically. For big companies, it is even harder since they have a bulk of patents and intangible items.
+- *special cases*. In some special cases, when a company's business primarily collects royalties on a patent or a group of patents, some finite provisions can be made. This provision must be related to the price the investor paid for his interest in the patent and not to the book value of the patent.
 
 ### significance of earnings record
-- **concept of earning power**: which basically the average earnings per share, should be seen over a number of years. One should notice if the observed years are all surrounded by the average. This is preferred to very volatile earnings, as repeated occurrences are more impressive than a single occurrence.
+- **concept of earning power**: the average earnings per share should be seen over several years. One should notice if the observed years are all surrounded by the average. This is preferred to very volatile earnings, as repeated occurrences are more impressive than a single occurrence.
 - **quantitative analysis should be supplemented by qualitative considerations:**
-  - *quantitative data is useful only to the extent that's supported by a qualitative survey of the enterprise*
-  - in steel company example, while current and past earnings are one thing, Graham aims to calculate 'normal earnings'. He suggests that national output of steel and the market position should be considered as part of a qualitative analysis. Reported earnings cannot be viewed without relative factors.
+  - *quantitative data is useful only to the extent that it's supported by a qualitative survey of the enterprise*
+  - in the steel company example, while current and past earnings are one thing, Graham aims to calculate 'normal earnings.' He suggests that the national steel output and the market position should be considered as part of a qualitative analysis. Reported earnings cannot be viewed without relative factors.
 - **current earnings should not be the primary basis of appraisal**
-  - current earnings governs the market price of common stock prices more than the long term average. While a private business might earn twice as much as their average years, their local market price would never be purchased based on the extraordinary year of earnings.
+  - current earnings govern the market price of common stock prices more than the long-term average. While private businesses might earn twice as much as their average years, their local market price would never be purchased based on the extraordinary earnings year.
   - the market price typically corresponds very closely to the earnings regardless of the abnormalities in earnings.
-  - As the speculative public shares vision with Wall Street it would seem logical to buy cheap stock at temporarily suppressed earnings and sell them at inflated levels created by the opposite effect.
-  - *the classical formula for "Beating the stock Market"*
-    - On Wall Street, the common assumption is that trends are likely to continue or persist regardless of qualitative circumstances. While the analyst, on occasion, can place pre-dominant weight on the recent earnings, rather than the average, pursuasive evidence has to be present.
-    - this strategy is not simple because the timing of the market is hard and the underlying values of stocks continuously change.
+  - As the speculative public shares its vision with Wall Street, it would seem logical to buy the cheap stock at temporarily suppressed earnings and sell them at inflated levels created by the opposite effect.
+  - *The classical formula for "Beating the Stock Market"*
+    - On Wall Street, the common assumption is that trends are likely to continue or persist regardless of qualitative circumstances. While the analyst, on occasion, can place pre-dominant weight on the recent earnings rather than the average, persuasive evidence has to be present.
+    - this strategy is not simple because the market timing is hard, and the underlying values of stocks continuously change.
   - **average vs trend of earnings**
-    - *attitude of analyst where trends are upward.* If a qualitative study of company A is positive, which it often should be, the analyst should based future results on a conservative estimate of what the company are currently produce.
-    - *attitude of analyst where trends are downward*. the analyst must assign great weight to the unfavorable trend and the reasons why. However, one can't make hasty conclusions that this trend will persist either.
-  - **deficits a qualitative, not a quantitative factor**: when a company reports a deficit for the year, it is customary to calculate the amount in dollars per share or in relation to interest requirements. This is not a valid approach. Instead the attention of the analyst should be directed elsewhere.
-    - when an average is taken over a period that includes a number of deficits, some questions must arise as to whether or not the resultant figure is really indicative of the earning power. This is especially true if the company has volatile numbers.
-  - **intuition not a part of the analyst's stock in trade**: Unless there is a reason to think otherwise, the past record is accepted as a basis for judging the future.
-    - *analysis of the future should be penetrating rather than prophetic*. In short, the investor should not be reliant on the company's performance to improve in order to justify a premium price. Instead, the future results should be penetrating, with respect to the current capacity to earn and the price the market is trading the stock for.
-  - **large profits frequently transitory**: when capital flows into new industries, it may result in overcapacity and keen competition - dragging profits down for individual company's in the long-haul.
+    - *attitude of analyst where trends are upward.* If a qualitative study of company A is positive, which it often should be, the analyst should base future results on a conservative estimate of what the company is currently producing.
+    - *attitude of analyst where trends are downward*. The analyst must assign great weight to the unfavourable trend and the reasons why. However, one can't make a hasty conclusion that this trend will persist either.
+  - **deficits a qualitative, not a quantitative factor**: when a company reports a deficit for the year, it is customary to calculate the amount in dollars per share or with interest requirements. This is not a valid approach. Instead, the attention of the analyst should be directed elsewhere.
+    - when an average is taken over a period that includes some deficits, some questions must arise as to whether or not the resultant figure is indicative of the earning power. This is especially true if the company has volatile numbers.
+  - **intuition not a part of the analyst's stock in trade**: Unless there is a reason to think otherwise, the record is accepted as a basis for judging the future.
+    - *analysis of the future should be penetrating rather than prophetic*. In short, the investor should not be reliant on the company's performance to improve to justify a premium price. Instead, the future results should be penetrated to the current capacity to earn and the price the market is trading the stock for.
+  - **large profits frequently transitory**: when capital flows into new industries, it may result in overcapacity and keen competition - dragging profits down for individual companies in the long haul.
 
 
-### specific reasons for questioning and rejecting the past record
+### specific reasons for questioning and rejecting the record
 
 - **rate of output and operating costs**
-  - when analyzing an individual company, each of the governing elements in the operating results must be studied for signs of unfavorable changes. Governing elements may vary, but if the analyst was assessing the general factors of a mining company, they might focus on areas like: (1) life of a mine, (2) annual output, (3) production costs and (4) selling price.
-  - if the future earnings had to be supported by higher cost, it would make the current facts speculative and much riskier.
+  - when analyzing an individual company, each governing element in the operating results must be studied for signs of unfavourable changes. Governing elements may vary, but if the analyst was assessing the general factors of a mining company, they might focus on areas like (1) the life of a mine, (2) annual output, (3) production costs and (4) selling price.
+  - if the future earnings had to be supported by higher costs, it would make the current facts speculative and much riskier.
   - *freeport sulphur company*
-    - the learning point is that a high valuation based on future prospects is highly speculative. When the stock market moves away from sound sense and business experience, the common stock buyer will inevitable lose money
+    - the learning point is that a high valuation based on prospects is highly speculative. When the stock market moves away from sound sense and business experience, the common stock buyer will inevitably lose money
   - **the future price of the product** 
-    - *change in status of low-cost producers*: when analyzing the individual company one must also look at the overall cost level, and in which direction it can be expected to change.the cost price will be a determinant for the selling price.
+    - *change in status of low-cost producers*: when analyzing the individual company, one must also look at the overall cost level and in which direction it can be expected to change. the cost price will be a determinant of the selling price.
   - **anomalous prices and the price relationships in the history of the I.R.T system:**
     - the analysis not only showed that the current selling price was far above the value of the stock. It also showed that when there is an upper limit of earnings or value being fixed, there is usually a danger that the actual figure could be less.
-    - what happened afterwards for Interborough Rapid Transit System was that earnings indeed were non-recurrent and temporary. As earning power declined it ran quickly into severe financial problems.
+    - what happened afterwards for Interborough Rapid Transit System was that earnings were non-recurrent and temporary. As earning power declined, it ran quickly into severe financial problems.
 
 ### price-earnings ratios for common stocks. Adjustments for changes in capitalization
 
 - **exact appraisal impossible**:
-  - prior to the bull market of 1927-1929, a price of 10 times earnings was accepted standard for measuring common stock.
-  - also, the idea of basing the valuation on current earnings is absurd since earnings are constantly changing. Stock market prices are not carefully computed, but are the result of human reactions. The stock market is the voting machine rather than a weighing machine.
+  - before the bull market of 1927-1929, a price of 10 times earnings was accepted standard for measuring common stock.
+  The idea of basing the valuation on current earnings is absurd since earnings are constantly changing. Stock market prices are not carefully computed but are the result of human reactions. A stock market is a voting machine rather than a weighing machine.
 
-- **limited functions of the analyst in the field stock price appraisal**
-  - as facts and human behavior change, the security analyst must not follow a general rule for his valuations, however, Graham proposes some limited functions:
-    - he may set-up a basis for conservative or investment valuation of common stocks, as distinguished from speculative valuations
-    - he may point out the significance of: (a) the capitalization structure; and (b) the source of income, as bearing upon the valuation of a given stock issue
-    - he may find unusual elements in the balance sheet which affect the implications of earnings picture.
+- **limited functions of the analyst in the field of stock price appraisal**
+  - as facts and human behaviour change, the security analyst must not follow a general rule for his valuations. However, Graham proposes some limited functions:
+    - he may set up a basis for conservative or investment valuation of common stocks, as distinguished from speculative valuations
+    - he may point out the significance of (a) the capitalization structure; and (b) the source of income, as bearing upon the valuation of a given stock issue
+    - he may find unusual elements in the balance sheet which affect the implications of the earnings picture.
   - **a suggested basis of maximum appraisal for investment**: 
-    - the profits of the most recent year might be accepted as an indicator of future earnings, if (1) general business conditions in that year were not exceptionally good, (2) the company has shown an upward trend of earnings for some years past and (3) the investor's study of the industry leaves him confident about its continued growth
-    - note: a P/E of 20 equates to a 5% return - assuming earnings remain constant and are treated as free cash flow to the shareholder
-  - *higher prices may prevail for speculative commitments*: 
-  - *other5 requisites for common stocks of investment grade and a corollary thereof: * as 20 times average earnings is the upper limit, the purchase price for ordinary businesses should be substantially less. 12 or 12.5 times average earnings can be suggested as a necessary multiplier but not a sufficient condition.
+    - the profits of the most recent year might be accepted as an indicator of future earnings if (1) general business conditions in that year were not exceptionally good, (2) the company has shown an upward trend of earnings for some years past and (3) the investor's study of the industry leaves him confident about its continued growth
+    - note: a P/E of 20 equates to a 5% return - assuming earnings remain constant and are treated as a free cash flow to the shareholder
+  - *Higher prices may prevail for speculative commitments*: 
+  - *other requisites for common stocks of investment grade and a corollary thereof: * as 20 times average earnings are the upper limit, the purchase price for ordinary businesses should be substantially less. 12 or 12.5 times average earnings can be considered a necessary multiplier but not a sufficient condition.
     - it must be emphasized that many other factors must be present, including the financial setup, not-unsatisfactory prospects and proper management.
-    - An attractive common-stock investment is an attractive speculation. This is true because, if a common stock can meet the demand of a conservative investor, then he gets full value for his money, plus satisfactory future prospects.
+    - An attractive common-stock investment is attractive speculation. This is true because if a common stock can meet the demand of a conservative investor, then he gets full value for his money, plus satisfactory prospects.
   - **examples of speculative and investment common stocks**
     - stocks sold at multiple considerably more than 20 times average earnings. In other words, they all require large future growth to justify the price.
     - stocks are speculative not because of the average earnings, but the speculative element of the instability of earnings
-    - stocks that passes the quantitative tests of investment quality:
+    - stocks that pass the quantitative tests of investment quality:
       - earnings have been reasonably stable
-      - average earnings have satisfactory ratio to market price.
+      - average earnings have a satisfactory ratio to market price.
       - financial setup is sufficiently conservative, and the working capital position is strong.
   - **allowances for changes in capitalization**
-    - when dealing with past records of earnings on per-share basis, the analyst must adjust to changes in capitalization.
+    - when dealing with records of earnings on a per-share basis, the analyst must adjust to changes in capitalization.
   - **allowances for participating interests**
     - when calculating earnings for the common shareholder, the participating interests must also be included. (participating interests is a new structure dividing income when it increases.)
     - similar allowances must be made for the effect of management contracts
   - **general rule**
-    - the intrinsic value of a common stock preceded by convertible securities cannot reasonably be appraised at a higher figure than would be justified all convertible securities were exercised in full. The same is the case if it is subject to dilution through the exercise of stock options, or through participating privileges enjoyed by other senior security
+    - the intrinsic value of a common stock preceded by convertible securities cannot reasonably be appraised at a higher figure than would be justified if all convertible securities were exercised in full. The same is the case if it is subject to dilution through the exercise of stock options or through participating privileges enjoyed by other senior security
 
 ### capitalization structure
 
 - **principle of optimum capitalization structure**
-  - the optimum capitalization structure for any enterprise includes senior securities to the extent that they may be safely issued and bought for investment. the practical implication of this is that, under safe circumstances, no debt leads to an inefficient use of the shareholder's capital. On the other hand, too much debt leaves no room for an appropriate margin of safety, as the interest coverage ratio is very small and risky
-  - this safe environment may be composed both of a working capital of no less than the bond value and other conditions. Under such circumstances, a very conservative capitalization based only on the shareholders' equity would make the shareholders' dollars less productive.
+  - the optimum capitalization structure for any enterprise includes senior securities to the extent that they may be safely issued and bought for investment. The practical implication is that, under safe circumstances, no debt leads to an inefficient use of the shareholder's capital. On the other hand, too much debt leaves no room for an appropriate margin of safety, as the interest coverage ratio is very small and risky
+  - this safe environment may be composed of working capital of no less than the bond value and other conditions. Under such circumstances, a very conservative capitalization based only on the shareholders' equity would make the shareholders' dollars less productive.
 
-- **corporate practices resulting in shortage of sound industrial bonds**
-  - investors generally prefer strongly funded corporation issued bonds as these offer a wider range of choices and make the sale of unsound bonds less likely.
+- **corporate practices resulting in a shortage of sound industrial bonds**
+  - investors generally prefer strongly funded corporation-issued bonds as these offer a wider range of choices and make the sale of unsound bonds less likely.
 
 - **the factor of leverage is speculative capitalization structure**
-  - speculative capitalized enterprises can be sold at somewhat high prices during good markets. On the contrary, the same venture might be undervalued during a depression.
+  - speculative capitalized enterprises can be sold at high prices during good markets. On the contrary, the same venture might be undervalued during a depression.
   - the real advantage, however, lies in the fact that the stock can advance more than it can decline.
 
 - **speculative attractiveness of "shoestring" common stocks considered:**
   - *practical aspects of foregoing:*
-    - senior capital for the company should be held in preferred shares rather than in bonds, as this would limit the risk of bankruptcy during bad times, permitting the common stockholder to wait for better times (preferred shares can omit dividend payments, while bonds in general are obliged to pay out coupon payments)
+    - senior capital for the company should be held in preferred shares rather than in bonds, as this would limit the risk of bankruptcy during bad times, permitting the common stockholder to wait for better times (preferred shares can omit dividend payments, while bonds, in general, are obliged to pay out coupon payments)
 
 ### low-priced common stocks. Analysis of the source of income.
 
@@ -660,19 +660,19 @@ tags: ["investing", "valueinvesting"]
   - low priced stocks offer the advantage of being more likely to appreciate than decline. Securities are found to rise more readily from 10 to 40 than from 100-400, and because of this, the speculative public would rather buy into stocks of lower numerical value.
 
 - **some of the reasons most buyers of low-priced issues lose money:**
-  - public may be buying lowed-priced stocks for the bad financial conditions.
-  - high number of shares are issued, which combined are priced higher than the actual value.
-  - insiders's desire to dispose of their assets, sometimes resulting in rigorous efforts to persuade the unwary public to buy them.
+  - the public may be buying lowed-priced stocks for the bad financial conditions.
+  - A high number of shares are issued, which are priced higher than the actual value.
+  - insiders' desire to dispose of their assets, sometimes resulting in rigorous efforts to persuade the unwary public to buy them.
 - **low price coupled with speculative capitalization**:
-  - speculatively capitalized enterprises, according to Graham's definition, are marked by relatively large amount of senior securities and a comparatively small issue of common stock. Although the common share in most cases is sold at a low price, this is not always the case, as long as the market value of common stock comprises only a small part of the enterprise value.
+  - speculatively capitalized enterprises, according to Graham's definition, are marked by relatively large amounts of senior securities and a comparatively small issue of common stock. Although the common share, in most cases, is sold at a low price, this is not always the case as long as the market value of common stock comprises only a small part of the enterprise value.
 - **large volume and high production cost equivalent to speculative capital structure**
   - Graham shows how high production costs have the same effect as coupon payments for holders of senior securities. The simple effect is that the common stockholders have fewer earnings.
-  - *general principle derived*. It can be derived from example that when the price of copper increases, there will be a higher profit increase percentage-wise for the high-cost producer than for the low-cost producer. This will be reflected in the share price.
+  - *general principle derived*. It can be derived from the example that when the price of copper increases, there will be a higher profit increase percentage-wise for the high-cost producer than for the low-cost producer. This will be reflected in the share price.
 
 - **sources of income**
-  - special phase: analysis must be conducted for the company based on the source of income from a specific asset, and not based on the general nature of the business.
-    - *northern pipe line company*: breaking down the sources of income for this company, it can be seen that a substantial part of the income comes from stable rental and interest earnings. This type of earnings must be evaluated based on the actual value of asset producing income. Income from bonds should also be valued on a higher basis, compared to the rather volatile pipeline business showing a negative trend.
-    - *tobacco products Corporation of Virginia*: this company was traded as a price-earnings of 10. All income came from 99-year lease given to a high-quality company that could meet the obligation without question. This made the source of income from Tobacco Products company of Virginia equivalent to a high-grade investment bond, and on this basis the company would be deemed undervalued.
+  - special phase: analysis must be conducted for the company based on the source of income from a specific asset and not on the business's general nature.
+    - *northern pipeline company*: breaking down the sources of income for this company, it can be seen that a substantial part of the income comes from the stable rental and interest earnings. This type of earnings must be evaluated based on the actual value of asset-producing income. Income from bonds should also be valued on a higher basis, compared to the rather volatile pipeline business showing a negative trend.
+    - *tobacco products Corporation of Virginia*: this company was traded with a price-earnings of 10. All income came from a 99-year lease given to a high-quality company that could meet the obligation without question. This made the source of income from Tobacco Products Company of Virginia equivalent to a high-grade investment bond, and on this basis, the company would be deemed undervalued.
 
 
 ## 3. Asset Value
