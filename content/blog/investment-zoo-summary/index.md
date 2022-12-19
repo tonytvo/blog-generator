@@ -1,6 +1,6 @@
 ---
 title: the investment zoo by stephen jarislowsky summary - wip
-date: "2022-07-25T22:12:03.284Z"
+date: "2022-12-19T22:12:03.284Z"
 description: "the investment zoo by stephen jarislowsky summary - wip"
 tags: ["valueinvesting", "investing"]
 ---

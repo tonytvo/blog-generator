@@ -1,6 +1,6 @@
 ---
 title: investing the templeton way by Lauren Templeton and Scott Phillips summary - wip
-date: "2022-07-25T22:12:03.284Z"
+date: "2022-12-19T22:12:03.284Z"
 description: "investing the templeton way by Lauren Templeton and Scott Phillips summary"
 tags: ["valueinvesting", "investing"]
 ---
