@@ -355,37 +355,38 @@ tags: ["investing", "valueinvesting"]
     - Graham says the most important way to view the purchase of common stock is if the investor could purchase the entire business at once.
 
 ## 1. Dividends
-- Before investing in a common stock, investigate both the firm’s dividend rate and its history of paying dividends. The dividend rate is important, because a dollar of surplus earnings is worth more to the investor when the company chooses to pay it as a dividend instead of reinvesting it in the business. Generally, companies that pay higher dividends have higher stock prices. However, management can suspend common-stock dividends at any time, so it is important to view the company’s dividend history as an indication, but not a guarantee, of future income.
 
-- **Extraordinary stock dividends** (stock splits), on the other hand, are largely illusory, because they give investors nothing they did not already own. An improvement on this practice is for companies to pay periodic stock dividends, representing a return to the shareholders of surplus earnings reinvested in the business.
-  - although stock dividends and stock splits create no real value for the holders, much speculation about the value of the companies after the division is likely to occur due to the cheaper price.
+- Before investing in a common stock, investigate the firm’s dividend rate and its history of paying dividends. The dividend rate is important because a dollar of surplus earnings is worth more to the investor when the company chooses to pay it as a dividend instead of reinvesting it in the business. Generally, companies that pay higher dividends have higher stock prices. However, management can suspend common-stock dividends at any time, so it is important to view the company’s dividend history as an indication, but not a guarantee, of future income.
+
+- **Extraordinary stock dividends** (stock splits), on the other hand, are largely illusory because they give investors nothing they did not already own. An improvement in this practice is for companies to pay periodic stock dividends, representing a return to the shareholders of surplus earnings reinvested in the business.
+  - although stock dividends and stock splits create no real value for the holders, much speculation about the value of the companies after the division is likely to occur due to the lower price.
 
 - **periodic stock dividends**
-  - with a periodic stock dividend, the shareholder often receives a smller and reasonable stock dividend that adds value over time.
-  - company should not provide a periodic stock dividend if the amount exceeds the funds being retained in earnings. The dividend could eventually exceeded the company's ability to retain earnings power and the EPS slowly declined over a 10 year period, along with the market price.
+  - with a periodic stock dividend, the shareholder often receives a smaller and more reasonable stock dividend that adds value over time.
+  - The company should not provide a periodic stock dividend if the amount exceeds the funds retained in earnings. The dividend could eventually exceed the company's ability to retain earnings power, and the EPS slowly declined over a 10-year period, along with the market price.
   - Graham suggests the dividend should be dispersed as a preferred share.
-    - it doesn't weaken the capital structure of the business like the common stock dividend.
+    - it doesn't weaken the business's capital structure like the common stock dividend.
     - allows the company to retain earnings until a safe and manageable surplus is realized.
     - this technique gives management flexibility and control to pay the dividend as long as they choose.
-    - once the retained earnings have been distributed, the obligation is no longer on the books once the preferred share is repurchased by the company.
+    - once the retained earnings have been distributed, the obligation is no longer on the books once the company repurchases the preferred share.
 
 - Graham suggests that the market price of common stocks will perform similarly if management pays a healthy and sustainable dividend.
 - **established principle of withholding dividends**
-  - Graham claims that 2 companies with the same general business model and the same earnings will trade at different prices if the dividend policy is different. The market will value the company with the higher dividend more favorably.
-  - should a company pay a lower dividend in order to create stability for the owner with an assured payment, or should they pay a higher dividend and meet its obligation irregularly.
+  - Graham claims that two companies with the same general business model and the same earnings will trade at different prices if the dividend policy is different. The market will value the company with the higher dividend more favourably.
+  - should a company pay a lower dividend to create stability for the owner with an assured payment, or should it pay a higher dividend and meet its obligation irregularly?
 
 - **the merits of "plowing back" earnings**
-  - there're 2 reasons retained earnings is beneficial to the stock holder.
-    - whatever good for the company was good for the shareholder.
-    - company that retained earnings had more agility to remain competitive in difficult markets.
-  - if a company sustains a favorable ROE over a long period of time, it means the management is properly investing the retained earnings and adding value to the shareholder.
+  - there're two reasons retained earnings are beneficial to the stockholder.
+    - whatever was good for the company was good for the shareholder.
+    - a company that retained earnings had more agility to remain competitive in difficult markets.
+  - if a company sustains a favourable ROE over a long period, it means the management is properly investing the retained earnings and adding value to the shareholder.
 - **dividend policies arbitrary and sometimes selfishly determined**
-  - Graham suggests that many board members are executives and friends of executives with very large portion of shares. As a result, they might want to minimize their personal tax burden by receiving smaller dividends from the company.
-  - leadership may seek a larger and more impressive sized business, therefore, using retained earnings to full fill their pursuit of an ever growing business (which may or may not add more earnings)
+  - Graham suggests that many board members are executives and friends of executives with very large portions of shares. As a result, they might want to minimize their tax burden by receiving smaller dividends from the company.
+  - leadership may seek a larger and more impressive sized business, therefore, using retained earnings to full fill their pursuit of an ever-growing business (which may or may not add more earnings)
   - management may seek the opportunity to purchase outstanding shares at lower prices with the retained earnings.
-  - a management that pays a small dividend is able to pay excessive salaries to executives and top level employees.
-- **arbitrary control of dividend policy complicates analysis of common stocks**
-- **suggested principle for dividend payments**: Graham holds the strong opinion that a company should pay a large portion of their earnings to the shareholders. He says it's more important for the shareholder to receive non-standard (or inconsistent) dividend rates at a higher return, instead of a lower and more consistent dividend, which likely results in the company accumulating reserves that add little value.
+  - management that pays a small dividend can pay excessive salaries to executives and top-level employees.
+- **arbitrary control of dividend policy complicates the analysis of common stocks**
+- **suggested principle for dividend payments**: Graham strongly believes that a company should pay a large portion of their earnings to the shareholders. He says it's more important for the shareholder to receive non-standard (or inconsistent) dividend rates at a higher return instead of a lower and more consistent dividend, which likely results in the company accumulating reserves that add little value.
 
 ## 2. Earnings
 
