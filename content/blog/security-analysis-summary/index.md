@@ -262,95 +262,97 @@ tags: ["investing", "valueinvesting"]
 
 - These issues combine senior security's increased safety and the common stock's possible price appreciation. However, as with bonds, the attractive form does not mean that all securities of this type are safe. Only a limited number of such issues meet investment-grade safety requirements; the remainder belongs to the same category as common-stock investments because they share that category’s speculative features. When evaluating privileged issues, consider the amount of the profit-sharing benefits per dollar invested, the proximity of the event that will trigger profit-sharing advantages and the duration of the privileges.
 
-# Criteria for Investing in Common Stocks
-- Common stocks, as a class, are much more speculative than senior issues. Yet they are important to the US financial system, and novice and expert investors alike eagerly follow their prices, so security analysts know how to deal with them. The false belief that common stocks were a good buy at any price – as long as the company’s earning trend was positive – partly fueled the crash of 1929. Clearly the practice of making common-stock investments safer deserves further analysis, because the possibility of significant price appreciation will always lure investors to this type of security.
 
-- Although the instability of common stock prices makes any given organization a dubious investment, portfolio diversification can offset this risk to some extent. Investors should subject their common stocks portfolios to thorough analysis.
+# Criteria for Investing in Common Stocks
+
+- Common stocks, as a class, are much more speculative than senior issues. Yet they are important to the US financial system, and novice and expert investors eagerly follow their prices, so security analysts know how to deal with them. The false belief that common stocks were a good buy at any price – as long as the company’s earning trend was positive – partly fueled the crash of 1929. Clearly, the practice of making common-stock investments safer deserves further analysis, because the possibility of significant price appreciation will always lure investors to this type of security.
+
+- Although the instability of common stock prices makes any given organization a dubious investment, portfolio diversification can somewhat offset this risk. Investors should subject their common stock portfolios to thorough analysis.
 
 - Uncertainty regarding future growth is usually the main reason why value estimations based on present value calculations are so prone to error
 
 ## theory of common stock investment
-- investment in common stock is often speculative and analysis may be inconclusive and unsatisfactory.
-  - common stock are of basic importance and of enormous interest
+- investment in common stock is often speculative, and analysis may be inconclusive and unsatisfactory.
+  - common stock is of basic importance and enormous interest
   - the owners of the common stock with to know their value
-  - human nature often masks logic behind an endless cycle of greed for profit.
-- **history of common stock analysis**: over the previous 30 years (from 1910-1940), common stocks have become more favored due to their substantial earnings and dividends. With more and more companies providing detailed financial information, investors have had statistical data to substantiate their investments. During 1927-1929, Graham says most investors neglected this analysis and simply purchased more common stock based on speculative greed for profit and prophecy
-- **analysis vitiated by 2 types of instability**: 
-  - Graham suggests 2 types of instability will destroy the analysis of common stock:
+  - human nature often masks the logic behind an endless cycle of greed for profit.
+- **history of common stock analysis**: over the previous 30 years (from 1910-1940), common stocks have become more favoured due to their substantial earnings and dividends. With more and more companies providing detailed financial information, investors have had statistical data to substantiate their investments. During 1927-1929, Graham says most investors neglected this analysis and purchased more common stock based on speculative greed for profit and prophecy
+- **analysis vitiated by two types of instability**: 
+  - Graham suggests two types of instability will destroy the analysis of common stock:
     - instability of tangibles aspect
-    - an enormous importance placed on intangible aspects
+    - enormous importance placed on intangible aspects
 - a company's market price was generally stable and predictable if the companies had the following characteristics:
   - the company paid a reasonable and consistent dividend
-  - earnings were stable and averaged a substantial margin over dividend
+  - earnings were stable and averaged a substantial margin over the dividend
   - each dollar of market price was backed by actual assets of equal value on the balance sheet - Or in other words, the book value was similar to the market price
 - **prewar (WW1) conception of investment in common stocks**
-  - prior to the world war, the analyst was primarily concerned with finding common stocks that paid consistent dividends and possessed stable earnings. In general, most emphasis was placed on past performance and little on future earnings growth.
-  - speculation characterized by emphasis on future prospects
-  - technique of investing in common stocks resembled that for bonds
-  - buying common stocks viewed as taking a share in a business
-    - if a businessman were going to purchase an entire company outright, he would likely start with the net worth of all the assets (or equity on the balance sheet), and then consider if the choice produced adequate earnings for the price. After looking at the earnings that the company produced, the investor would decide if he was willing to pay a premium or discount to that par value (or book value)
+  - before the world war, the analyst was primarily concerned with finding common stocks that paid consistent dividends and possessed stable earnings. Most emphases was placed on past performance and little on future earnings growth.
+  - speculation characterized by an emphasis on prospects
+  - the technique of investing in common stocks resembled that of bonds
+  - buying common stocks is viewed as taking a share in a business
+    - if a businessman were going to purchase an entire company outright, he would likely start with the net worth of all the assets (or equity on the balance sheet) and then consider if the choice produced adequate earnings for the price. After looking at the earnings that the company produced, the investor would decide if he was willing to pay a premium or discount to that par value (or book value)
 
 ## newer cannons of common stock investment
 
-- **the new era theory**
-  - during the roaring 1920's, there's idea that value of common stocks was completely dependent on what it will earn in the future. This new thesis had three supporting insights:
-    - the dividend holds little emphasis on the value
+- **The new era theory**
+  - during the roaring 1920s, there was the idea that the value of common stocks was completely dependent on what they will earn in the future. This new thesis had three supporting insights:
+    - the dividend holds a little emphasis on the value
     - the relationship between asset value and earnings power had little significance
     - the past earnings were of little significant value except when signifying momentum in growth
   - **cases for this changed viewpoint**
     - in short, Graham thinks that the drastic change in common stock valuation stemmed from unpredictable results often seen from using historical data and the irresistible potential for profits that had occurred.
-    - in the early 1930's many liquidations occurred. These events often produced very little value for the fixed assets the companies had listed on their balance sheets. This experience also caused investors to abandon the emphasis on book value or net-work of assets.
+    - in the early 1930s many liquidations occurred. These events often produced very little value for the companies' fixed assets listed on their balance sheets. This experience also caused investors to abandon the emphasis on book value or net work of assets.
   - **attention shifted to the trend of earnings**
-  - **the common stocks as long term investments doctrine**
+  - **the common stocks as long-term investments doctrine**
     - few key points
       - the value was based on what the common stock could earn in the future
-      - good common stocks have a rising earnings (or EPS)
+      - good common stocks have rising earnings (or EPS)
         - what it excludes is the idea that a price is associated with the earnings one can expect to receive
       - relies on an improvement in the stock's future performance.
-      - therefore making the approach **speculative**.
+      - therefore approaching **speculative**.
   - **new era investment equivalent to prewar speculation**
   - **stocks regarded as attractive irrespective of their prices**: non-sense
   - investment trusts came to resemble this new doctrine
-    - analysis abandoned by investment trusts. Graham voices his disgust for the professional investor who didn't safe guard the capital of their customers due to a lazy assessment of facts and risk analysis
+    - analysis abandoned by investment trusts. Graham voices his disgust for the professional investor who didn't safeguard the capital of their customers due to a lazy assessment of facts and risk analysis
   - **a sound premise used to support an unsound conclusion**
-    - in 1924, a book by the name of common stocks as long-term investments, by edgar lawrence smith was published. the premise of the book is that common stocks outperform bonds because not all the earnings are paid to the owners as dividends. This retained earnings by the company makes the value of the common stock increase in market price. Although Graham agreed with the basic tenants of Edgar's thesis, he strongly disagrees with the exaggeration many investors took in their application of his ideas.
+    - in 1924, a book by the name common stocks as long-term investments by Edgar Lawrence smith was published. The premise of the book is that common stocks outperform bonds because not all the earnings are paid to the owners as dividends. These retained earnings by the company make the value of the common stock increase in market price. Although Graham agreed with the basic tenants of Edgar's thesis, he strongly disagreed with the exaggeration many investors took in their application of his ideas.
   - **average vs trend of earnings**
-    - Graham suggests that earnings trends and earning averages are nothing more than speculative tools for analysts to predict future results. In fact, companies that have accelerated growth demonstrate an untapped market for more competitors.
+    - Graham suggests that earnings trends and earning averages are nothing more than speculative tools for analysts to predict future results. Companies that have accelerated growth demonstrate an untapped market for more competitors.
 
 ## three general approaches
 
 - **secular expansion as basis**
   - have a diversified portfolio of common stocks
-  - when recessions occur, the investor can still benefit in the common stock markets by 1) diversifying their portfolio, and 2) by adamantly rejecting common stocks trade for excessive premiums.
+  - when recessions occur, the investor can still benefit in the common stock markets by 1) diversifying their portfolio and 2) adamantly rejecting the common stock trade for excessive premiums.
   - Graham says the investor cannot rely on historical earnings growth to provide safety and profit in the long haul. Specifically, he's talking about companies that are commonly referred to as "growth picks"
 
-- **individual growth as basis of sections**
-  - use quantitative and qualitative factor to determine the value of common stocks similarly to the techniques for bonds.
+- **individual growth as the basis of sections**
+  - use quantitative and qualitative factors to determine the value of common stocks similar to the techniques for bonds.
   - what are growth companies?
     - maybe a company whose earnings move forward from cycle to cycle.
-    - maybe company's earnings grow at a faster rate than the general market
-  - can investor identify them?
-    - no, typical investor can't realistically determine when and where the company's growth will eventually subside. As a result, there's a strong chance that the investor might select the stock "at the top of the earnings wave"
+    - maybe the company's earnings grow at a faster rate than the general market
+  - Can investor identifies them?
+    - no, the typical investors can't really determine when and where the company's growth will eventually subside. As a result, there's a strong chance that the investor might select the stock "at the top of the earnings wave"
   - does the price discount the potential growth?
-    - it's difficult to determine the price to pay for the future earnings that haven't been demonstrated yet.
-    - it's impossible to predict how much longer the earnings growth is going to take place. One thing almost everyone can agree is that high earnings growth (like 30%) is temporary and not sustainable.
+    - it's difficult to determine the price to pay for future earnings that haven't been demonstrated yet.
+    - it's impossible to predict how much longer the earnings growth will take. One thing almost everyone can agree on is that high earnings growth (like 30%) is temporary and not sustainable.
   - may such purchases be described as investment commitments
-    - can thorough analysis and thought go into the selection of the growth stock.
+    - can thorough analysis and thought to go into the selection of the growth stock?
       - maybe yes, as some growth investors do conduct themselves appropriately
     - is the price paid for the investment something that a reasonable person would pay if they could buy the whole business?
-      - if a person is willing to pay more than 20% more for a common stock than he would for outright ownership of the entire business, the pick become speculative.
+      - if a person is willing to pay more than 20% more for a common stock than he would for outright ownership of the entire business, the pick becomes speculative.
   - utilize even more effort than bonds to assess the future outlook of common stocks
 
-- **selection based on margin of safety principle**
+- **selection based on the margin of safety principle**
   - factors complicating efforts to exploit general market swings
-    - index of leading stocks were selected and analyzed as a group (like the S&P 500). Also a base or normal value for the group of stocks could be determined by taking their average earnings and capitalizing them at the going long term interest rate (like the 10 or 30 year federal bond). This is where Graham tell analysts that the intrinsic value of stocks is directly tied to interest rates.
-      - this approach has 3 drawbacks
-        - first, the general market patterns may be anticipated, but the actual buying and selling points may still be chosen poorly.
-        - market behavior may change in the future and not response in the same manner as before
+    - index of leading stocks was selected and analyzed as a group (like the S&P 500). Also, a base or normal value for the group of stocks could be determined by taking their average earnings and capitalizing them at the going long-term interest rate (like the 10 or 30-year federal bond). This is where Graham tells analysts that the intrinsic value of stocks is directly tied to interest rates.
+      - this approach has three drawbacks
+        - first, the general market patterns may be anticipated, but the buying and selling points may still be chosen poorly.
+        - market behaviour may change in the future and not respond in the same manner as before
         - this approach requires a very determined and vigilant individual because his actions will be the opposite of human psychology.
   - the undervalued individual issue approach:
-    - likelihood of finding an individual common stock that possess the qualitative factors and the quantitative factors (compared to price) is rare. if this type of stock issue is found, Graham says it should be classified as an investment and not speculation.
-    - Graham says the most important way to view the purchase of a common stock is if the investor could purchase the entire business at once.
+    - the likelihood of finding an individual common stock that possesses the qualitative factors and the quantitative factors (compared to price) is rare. if this type of stock issue is found, Graham says it should be classified as an investment, not speculation.
+    - Graham says the most important way to view the purchase of common stock is if the investor could purchase the entire business at once.
 
 ## 1. Dividends
 - Before investing in a common stock, investigate both the firm’s dividend rate and its history of paying dividends. The dividend rate is important, because a dollar of surplus earnings is worth more to the investor when the company chooses to pay it as a dividend instead of reinvesting it in the business. Generally, companies that pay higher dividends have higher stock prices. However, management can suspend common-stock dividends at any time, so it is important to view the company’s dividend history as an indication, but not a guarantee, of future income.
