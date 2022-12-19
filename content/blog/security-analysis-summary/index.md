@@ -254,13 +254,13 @@ tags: ["investing", "valueinvesting"]
   - companies with large working capital should be favoured without significant working capital.
 
 
-# Criteria for Purchasing Speculative Senior Securities
+# Criteria for Purchasing Senior Speculative Securities
 - Some senior securities carry certain privileges that make them attractive purchases on a speculative basis, including:
-  - "Convertible issues" – In certain cases, investors can exchange convertible issues for common stock.
-  - "Participating issues" – Investors can receive part of any increased dividend that common stockholders earn.
-  - "Subscription-warrant issues" – These include option warrants to purchase common stock.
+  - "Convertible issues" – In some instances, investors can exchange convertible issues for common stock.
+  - "Participating issues" – Investors can receive part of any increased dividend common stockholders earn.
+  "Subscription-warrant issues" include option warrants to purchase common stock.
 
-- These issues combine the increased safety of a senior security and the possible price appreciation of common stock. However, as with bonds, the attractive form does not mean that all securities of this type are safe. Only a limited number of such issues meet investment-grade safety requirements; the remainder belong to the same category as common-stock investments, because they share that category’s speculative features. When evaluating privileged issues, consider the amount of the profit-sharing benefits per dollar invested, the proximity of the event that will trigger profit-sharing advantages and the duration of the privileges.
+- These issues combine senior security's increased safety and the common stock's possible price appreciation. However, as with bonds, the attractive form does not mean that all securities of this type are safe. Only a limited number of such issues meet investment-grade safety requirements; the remainder belongs to the same category as common-stock investments because they share that category’s speculative features. When evaluating privileged issues, consider the amount of the profit-sharing benefits per dollar invested, the proximity of the event that will trigger profit-sharing advantages and the duration of the privileges.
 
 # Criteria for Investing in Common Stocks
 - Common stocks, as a class, are much more speculative than senior issues. Yet they are important to the US financial system, and novice and expert investors alike eagerly follow their prices, so security analysts know how to deal with them. The false belief that common stocks were a good buy at any price – as long as the company’s earning trend was positive – partly fueled the crash of 1929. Clearly the practice of making common-stock investments safer deserves further analysis, because the possibility of significant price appreciation will always lure investors to this type of security.
