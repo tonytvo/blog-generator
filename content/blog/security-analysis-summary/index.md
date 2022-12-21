@@ -675,114 +675,117 @@ tags: ["investing", "valueinvesting"]
     - *tobacco products Corporation of Virginia*: this company was traded with a price-earnings of 10. All income came from a 99-year lease given to a high-quality company that could meet the obligation without question. This made the source of income from Tobacco Products Company of Virginia equivalent to a high-grade investment bond, and on this basis, the company would be deemed undervalued.
 
 
+**Criteria for investing in common stocks (cont.)**
+
 ## 3. Asset Value
 - To gauge asset value, inspect the business’s balance sheet. A firm’s book value per share equals the total value of its tangible assets divided by the number of shares outstanding. Wall Street has almost entirely superseded the importance of asset value with earnings. Although rules of thumb for the proper ratio of market price to book value vary, you still should investigate the underlying value of a business’s assets before investing.
 
-- The current-asset value – that is, current assets minus liabilities – is perhaps a more important number. It excludes both intangible assets and fixed assets and is, therefore, a rough approximation of the value of the company should it go in to liquidation. As a general rule, if a firm’s market price is below its liquidation value, the company has either been undervalued or it should be liquidated. Investors who can distinguish between the undervalued issues and the ones performing poorly due to fundamental unsoundness can realize a significant upside.
+- The current-asset value – that is, current assets minus liabilities – is perhaps a more significant number. It excludes both intangible and fixed assets and is, therefore, a rough approximation of the company's value should it go into liquidation. As a general rule, if a firm’s market price is below its liquidation value, the company has either been undervalued or should be liquidated. Investors who distinguish between the undervalued issues and those performing poorly due to fundamental unsoundness can realize a significant upside.
 
-- In addition, examine the balance sheet to make sure that the company has an adequate cash position, that its current assets (exclusive of inventories) at least equal its current liabilities, and that it does not have a large amount of debt maturing soon, which could create refinancing problems.
+- In addition, examine the balance sheet to make sure that the company has a good cash position, that its current assets (exclusive of inventories) at least equal its current liabilities, and that it does not have a large amount of debt maturing soon, which could create refinancing problems.
 
-- there should be no discount from the amount stated on the company's books for cash and marketable securities, provided the securities are short term or marked to the market. The same holds true for property, plant, and equipment
-- economic value of the assets is the reproduction costs of a new firm starting out in the same industry.
-  - we first find the current market prices for the securities. Then we must adjust the book value of the firm's accounts receivable and inventory up or down to get a more realistic reproduction costs
+- there should be no discount from the amount stated on the company's books for cash and marketable securities, provided the securities are short-term or marked to the market. The same holds for property, plant, and equipment
+- the economic value of the assets is the reproduction costs of a new firm starting in the same industry.
+  - we first find the current market prices for the securities. Then we must adjust the book value of the firm's accounts receivable and inventory up or down to get more realistic reproduction costs
 
-- it is important to note that goodwill represents a prior blunder that must be ignored when calculating the intrinsic value of a company.
+- it is important to note that goodwill represents a prior blunder that must be ignored when calculating a company's intrinsic value.
 
 - liabilities and equity are the sources of funds that support the assets, which are the uses to which those funds are put
-- there are 3 types of liabilities
+- there are three types of liabilities
   - those that arise from the normal conduct of the business
   - those that arise from past circumstances that are not pertinent to a new entrant
   - the outstanding formal debt of the company.
-- when we start with the reproduction cost of the assets and then subtract the first 2 categories of liabilities, we are left with the asset value of the whole enterprise.
-- The defining character of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage, and, if so, how strong and sustainable it is
+- when we start with the reproduction cost of the assets and then subtract the first two categories of liabilities, we are left with the asset value of the whole enterprise.
+- The defining characteristic of a franchise is that it enables a firm to earn more than it needs to pay for the investments that fund its assets. The intrinsic value of a firm is either the reproduction costs of the assets, which should equal the EPV or those assets plus the competitive advantages of the firm that underlie its franchise. The initial judgment that has to be made is whether the firm currently has a competitive advantage and, if so, how strong and sustainable it is
 
 ### significance of book value
 
 - balance sheet can provide the following guidance for the investor
   - it shows how much capital is invested in the business
   - it reveals the ease of stringency of the company's financial condition; i.e., the working-capital structure
-  - it provides an important check of validity of reported earnings
+  - it provides an important check of the validity of reported earnings
   - it supplies the basis for analyzing the sources of income.
 - **computation of book value**
-  - (common stock + surplus items - intangiles) / number of shares outstanding
+  - (common stock + surplus items - intangibles) / number of shares outstanding
 - **treatment of preferred stock when calculating book value of common stock**
-  - in calculating the assets available for the common stock, the value of preferred stock must be subtracted. What Graham suggests is that we value preferred shares at par value plus back-end dividend payments and compare that to the market price. Whatever is highest (or most conservative) should be used.
-- **calculation of book value of preferred stock:**
+  - in calculating the assets available for the common stock, the value of the preferred stock must be subtracted. Graham suggests we value preferred shares at par value plus back-end dividend payments and compare that to the market price. Whatever is highest (or most conservative) should be used.
+- **calculation of book value of the preferred stock:**
   - when calculating the book value of a preferred stock issue, it is treated as a common stock, as shown in the equation above, and junior issues are left out.
 - **current asset value and cash asset value**
-  - the current asset value of a stock consists of the current assets alone, minus all liabilities and claims ahead of the issue. It excludes not only the intangible assets but also fixed and miscellaneous assets (various assets of value not related to the business, such as coin collections and artwork) as well.
-  - the cash asset value of a stock consists of the cash assets alone, minus all liabilities and claims ahead of the issue. Cash assets, other than cash itself are defined as those directly equivalent to and held in place of cash (such as certificates of deposit, marketable securities at market value).
+  - the current asset value of a stock consists of the current assets alone, minus all liabilities and claims ahead of the issue. It excludes not only intangible assets but also fixed and miscellaneous assets (various assets of value not related to the business, such as coin collections and artwork).
+  - the cash asset value of a stock consists of the cash assets alone, minus all liabilities and claims ahead of the issue. Other than cash itself, cash assets are defined as those directly equivalent to and held in a place of cash (such as certificates of deposit, and marketable securities at market value).
 - **practical significance of book value**
-  - the intention was to show the value of the business, but since it is far from reality, the carrying value (the number you can read from the balance sheet) has lost its significance. In most cases, the assets could not be sold at that value, and furthermore, the figure is not justified by the earnings.
-  - also, the practice of writing up the book value of the fixed property, or cutting it down to nothing in order to avoid depreciation charges has made the book value have questionable application.
+  - the intention was to show the value of the business, but since it is far from reality, the carrying value (the number you can read from the balance sheet) has lost its significance. In most cases, the assets could not be sold at that value, and the earnings do not justify the figure.
+   - The practice of writing up the book value of the fixed property or cutting it down to nothing to avoid depreciation charges has made the book value have questionable application.
   - even though Graham is very skeptical about using book value, he still believes that the book value deserves at least a fleeting glance before buying or selling shares.
-  - a stock buyer should not that the value of the stock is completely related to the business in question, and what he gets from his money will be in terms of tangible resources. A business that sells at a premium does so because it earns large return compared to its capital. This large return attracts competition and generally speaking, it is not likely to continue indefinitely.
-  - Graham mentions that companies with high levels of intangibles might be less prone to competition, and that small companies in general are likely to show a more rapid rate of growth.
+  - a stock buyer should not know that the value of the stock is entirely related to the business in question, and what he gets from his money will be in tangible resources. A business that sells at a premium does so because it earns a large return compared to its capital. This large return attracts competition; generally speaking, it is not likely to continue indefinitely.
+  - Graham mentions that companies with high intangibles might be less prone to competition and that small companies, in general, are likely to show a more rapid growth rate.
 
 ### significance of current asset value
 
 - Graham examines the following ideas:
   - the current asset value is generally a rough index of liquidating value
   - a large number of common stocks sell for less than their current asset value and therefore sell below the amount realizable in liquidation
-  - the phenomenon of many stocks selling persistently below their liquidating value is fundamentally illogical. It means that a serious error is being committed, either: (a) in the judgement of the stock market, (b) in the company's management policies, or (c) in the stockholders' attitude toward their property
+  - the phenomenon of many stocks selling persistently below their liquidating value is fundamentally illogical. It means that a severe error is being committed, either: (a) in the judgement of the stock market, (b) in the company's management policies, or (c) in the stockholders' attitude toward their property
 
 - **liquidating value**
-  - the liquidating value of an enterprise is the money the owners would receive, in theory, if they sold all assets and paid off all debt in the company. they might sell all or part of it to someone else, or they might turn the various kinds of assets into cash. Such liquidations are an everyday occurrence in the field of private business, but not for public companies.
+  - the liquidating value of an enterprise is the money the owners would receive, in theory, if they sold all assets and paid off all debt in the company. They might sell all or part of it to someone else or turn the various assets into cash. Such liquidations are an everyday occurrence in private businesses but not for public companies.
 
 - **realizable value of assets varies with their character**
-  - in reality, a company's balance sheet does not provide exact information about liquidation value, but it does supply useful clues and hints. The first rule is that liabilities are real but the value of the assets must be questioned. This means that all true liabilities shown on the books must be deducted at their face amount. The value of the assets, however, must vary according to the character. Cash, for instance, is worth the carrying value, while inventory might only be worth 50-75% compared to the market price.
-  - *object of this calculation*: applying a general rule of thumb for a real-life company, it can ben seen that the stock was undervalued as it sold for less than the company's cash holding - even after deducting all liabilities. **The aim of using current asset value as a liquidation measure is not to find the exact liquidation number, but to establish a rough estimate.**
+  - in reality, a company's balance sheet does not provide exact information about liquidation value, but it does supply valuable clues and hints. The first rule is that liabilities are real, but the value of the assets must be questioned. All liabilities shown on the books must be deducted at their face amount. The value of the assets, however, must vary according to the character. Cash, for instance, is worth the carrying value, while inventory might only be worth 50-75% compared to the market price.
+  - *object of this calculation*: applying a general rule of thumb for a real-life company, it can be seen that the stock was undervalued as it sold for less than the company's cash holding - even after deducting all liabilities. **The aim of using current asset value as a liquidation measure is not to find the exact liquidation number but to establish a rough estimate.**
 
 - **prevalence of stocks selling below liquidating value**
-  - at some time in 1932, over 40% of all industrial companies listed on NYSE were quoted at less than their net current assets. Also at that time, a considerable number actually sold for less than their cash asset value. That actually means that the owner would profit more by shutting the company down than selling equity on a going concern basis.
-  - one reason for the very low valuation is the high emphasis put on the income statement. A company with no current earnings will be considered highly negative by the stock market. The seller might not know she were disposing their interest in the company below liquidation value.
+  - at some time in 1932, over 40% of all industrial companies listed on the NYSE were quoted at less than their net current assets. Also, at that time, a considerable number sold for less than their cash asset value. That means that the owner would profit more by shutting the company down than by selling equity on a going concern basis.
+  - one reason for the very low valuation is the high emphasis on the income statement. A company with no current earnings will be considered highly negative by the stock market. The seller might not know she was disposing of their interest in the company below liquidation value.
 
 - **local significance of this phenomenon**
-  - when a common stock sells persistently below its liquidating value, then either the price is too low or the company should be liquidated.
+  - when a common stock sells persistently below its liquidating value, either the price is too low, or the company should be liquidated.
   - 2 corollaries may be deducted from this principle:
-    - although, the low price offers an attractive opportunity to buy, such price should incite the stockholders to question whether it is in their interest to continue the business
-    - such a price should incite the management to take all proper steps to correct the obvious disparity between market quotation and intrinsic value, including a reconsideration of its own policies and frank justification to the stockholders of its decision to continue the business.
+    - although the low price offers an attractive opportunity to buy, such a price should incite the stockholders to question whether it is in their interest to continue the business
+    - such a price should incite the management to take all proper steps to correct the obvious disparity between market quotation and intrinsic value, including a reconsideration of its policies and frank justification to the stockholders of its decision to continue the business.
   - there is a range of potential developments which may result in establishing a higher market price:
-    - the creation of earning power that moves in lock-step with the company's assets (for instance from a general improvement in the industry or a change in the company's operating policies)
-      - *general improvement in the industry*: when the textile business improved the share of pepperell increased more than eightfold in just 2 years
+    - the creation of earning power that moves in lock-step with the company's assets (for instance, from a general improvement in the industry or a change in the company's operating policies)
+      - *general improvement in the industry*: when the textile business improved, the share of Pepperell increased more than eightfold in just two years
       - *changes in operating policies*: new lines of products, new sales methods, and reorganizing phases of production
-    - a sale or merger, because some other concern is able to utilize the resources to better advantage and hence can pay at least liquidating value for the assets.
-      - white motor company was suffering heavy losses and was selling at a price lower than the liquidation value. The big cash holding was found interesting by an acquiring company, and the sales price was based on the current asset value.
+    - a sale or merger, because some other concern can utilize the resources to better advantage and hence can pay at least liquidating value for the assets.
+      - the white motor company suffered heavy losses and sold at a lower price than the liquidation value. An acquiring company found the big cash holding interesting, and the sales price was based on the current asset value.
     - complete or partial liquidation
-      - *complete liquidation*: investors of mohawk mining company received 2.5 times the cost of shares when it was decided to completely liquidate the company. THe liquidation value proved to be identical with the current asset value, and could be directly derived from balance sheet.
-      - *partial liquidation*: sometimes an effective higher market value can be created by partially liquidating parts of the business and distributing that wealth out to the shareholders.
+      - *complete liquidation*: The investors of mohawk mining company received 2.5 times the cost of shares when it was decided to liquidate the company altogether. The liquidation value proved identical to the current asset value and could be directly derived from the balance sheet.
+      - *partial liquidation*: sometimes, an effective higher market value can be created by partially liquidating parts of the business and distributing that wealth out to the shareholders.
 
 - **discrimination required in selecting such issues**
-  - there is no doubt that stocks selling well below their liquidation value provides undervalued securities - and consequently profitable opportunities for purchase. Regardless, the securities analyst should exercise as much discrimination when selecting between the prospects.
-  - She can lean toward the five developments above (changes in operating policies, liquidation, etc...) if it is deemed that they may occur. Also, he can look at satisfactory current earnings and dividend, or a high average earning power in the past. The analyst will avoid companies that are losing current assets at a rapid rate and showing no sign of fixing the problem.
+  - there is no doubt that stocks selling well below their liquidation value provide undervalued securities - and consequently profitable opportunities for purchase. Regardless, the securities analyst should exercise as much discrimination when selecting between the prospects.
+  - She can lean toward the five developments above (changes in operating policies, liquidation, etc...) if it is deemed that they may occur. Also, he can look at satisfactory current earnings and dividends or a high average earning power in the past. The analyst will avoid companies that are losing current assets rapidly and showing no sign of fixing the problem.
 - **bargain of this type**: common stocks that (1) are selling below their liquid asset value, (2) are apparently in no danger of dissipating these assets, and (3) have formerly shown a large earning power on the market price, may be said to belong to a class of investment bargains.
 - *common stock representing the entire business cannot be less safe than a bond having a claim to only a part thereof*
-  - the argument was that the company would have to pay coupon payments to the bond holders, while the dividend payments were unsecure. Here, Wall Street confuses the temporary consistency of income with the principle of safety. Dividends paid out to stockholders would not make the stock any safer. What is happening is that the stockholders turn over their own property. A rational stock owner would not surrender complete ownership for a limited claim and 5-6% returns on the investment.
+  - the argument was that the company would have to pay coupon payments to the bond holders, while the dividend payments were unsecure. Here, Wall Street confuses the temporary consistency of income with the safety principle. Dividends paid out to stockholders would not make the stock any safer. What is happening is that the stockholders turn over their property. A rational stock owner would not surrender complete ownership for a limited claim and 5-6% returns on the investment.
 
 ### balance sheet analysis conclusions
 
-  - common purpose of balance sheet analysis is not to find bargain investments, but to detect financial weaknesses.
+  - the common purpose of balance sheet analysis is not to find bargain investments but to detect financial weaknesses.
   - **working-capital position and debt maturities**
-    - **basic rules concerning working capital:** for the working-capital ratio, a minimum of $2 of current assets for $1 current liabilities was formerly as a standard for industrial companies.
-      - the second measure of financial strength is the "acid test", which requires that current assets - exclusive of inventories - should be at least equal to the current liabilities. Failing these tests would make the security speculative and higher risk.
-      - Archer-Daniels-Midland company is an exception to the rule. Even though it failed the acid test, this was not a call for concern. While payables increased (lowering both the working-capital ratio and the acid ratio, as inventory increased), it represented normal seasoned practice in the industry.
-    - **large bank debt frequently a sign of weaknesses**
-      - it is rare that weak financial positions are created only by accounts payable. Weak financial positions are almost always characterized by the presence of bank loans or other debts due within a short timeframe.
-    - **the danger of early maturing funded debt**: when a large bond issue is due in the near future, it can create serious financial problems, especially when operating results are unfavorable. Maturing funded debt is a frequent cause of insolvency, and can be identified from the balance sheet.
-  - **comparison of balance-sheets over a period of time**
+    - **basic rules concerning working capital:** for the working-capital ratio, a minimum of $2 of current assets for $1 current liabilities was formerly a standard for industrial companies.
+      - the second measure of financial strength is the "acid test," which requires that current assets - exclusive of inventories - should be at least equal to the current liabilities. Failing these tests would make the security speculative and higher risk.
+      - Archer-Daniels-Midland company is an exception to the rule. Even though it failed the acid test, this was not a call for concern. While payables increased (lowering both the working-capital ratio and the acid ratio as inventory increased), it represented regular seasoned practice in the industry.
+    - **large bank debt is frequently a sign of weaknesses**
+      - it is rare that weak financial positions are created only by accounts payable. Weak financial positions are almost always characterized by bank loans or debts due within a short timeframe.
+    - **the danger of early maturing funded debt**: when a large bond issue is due soon, it can create serious financial problems, especially when operating results are unfavourable. Maturing funded debt is a frequent cause of insolvency and can be identified from the balance sheet.
+  - **comparison of balance sheets over a period of time**
     - as a check-up on the reported earnings per share.
     - to determine the effect of losses (or profits) on the company's financial position
-    - to trace the relationship between the company's resources and its earning power over a long period.
+    - to trace the relationship between the company's resources and earning power over a long period.
     - **checking the effect of losses or profit on the company's financial position**
       - *taking losses on inventories may strengthen financial position*: some losses are represented solely by a decline in the inventory account (which might only be worth 50-75%) of the carrying value)
-      - in fact, if the shrinkage in the inventory exceeds the losses, leading to an actual increase in cash or reduction in payables, it may then be proper to say that the company's financial position has been strengthened, even though it has been suffering losses.
-      - on the basis of liquidation value, the investor in Manhattan Shirt company would actually have increased the value during the depression as a result of the company turning assets into cash.
-      - *profits from inventory inflation*: in the event of high inflation, in terms of accounting, the inventory will increase in value.
-        - U.S. Rubber is an example of an increase in earnings, partly made from heavy expenditures on a plant and a dangerous expansion in inventory from 1919-1920, with high inflation. The investor, only looking at the increased reported earnings, would not have found this.
+      -, if the shrinkage in the inventory exceeds the losses, leading to an actual increase in cash or reduction in payables, it may be proper to say that the company's financial position has been strengthened, even though it has been suffering losses.
+      - based on liquidation value, the investor in Manhattan Shirt company would have increased the value during the depression due to the company turning assets into cash.
+      - *profits from inventory inflation*: in the event of high inflation, the inventory will increase in value in terms of accounting.
+        - U.S. Rubber is an example of an increase in earnings, partly made from heavy expenditures on a plant and a dangerous expansion in inventory from 1919-1920, with high inflation. Only looking at the increased reported earnings would the investor not have found this.
     - **long-range study of earning power and resources**
-      - *the significance of foregoing figures*
-        - for United states steel corporation, the effect of WWI is very clear, and has added a big sum to the earnings. The rate of earnings of hte investing capital has, however, declined in the last decade.
-        - this raises the question of whether the end of the war turned the industry into a relatively unprofitable business, from a previously relatively prosperous one. It also raise the question whether it as due to the high reinvestment, which led to overcapacity and consequently lower return.
+      - *The significance of the foregoing figures*
+        - for the United states steel corporation, the effect of WWI is noticeable and has added a hefty sum to the earnings. However, the rate of earnings of investment capital has declined in the last decade.
+        - this raises the question of whether the end of the war turned the industry into a relatively unprofitable business from a previously relatively prosperous one. It also raises the question of whether it is due to the high reinvestment, which led to overcapacity and, consequently, lower return.
+
 
 ## stock-option warrants
 
