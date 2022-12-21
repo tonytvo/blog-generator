@@ -775,7 +775,7 @@ tags: ["investing", "valueinvesting"]
     - to trace the relationship between the company's resources and earning power over a long period.
     - **checking the effect of losses or profit on the company's financial position**
       - *taking losses on inventories may strengthen financial position*: some losses are represented solely by a decline in the inventory account (which might only be worth 50-75%) of the carrying value)
-      -, if the shrinkage in the inventory exceeds the losses, leading to an actual increase in cash or reduction in payables, it may be proper to say that the company's financial position has been strengthened, even though it has been suffering losses.
+      - if the shrinkage in the inventory exceeds the losses, leading to an actual increase in cash or reduction in payables, it may be proper to say that the company's financial position has been strengthened, even though it has been suffering losses.
       - based on liquidation value, the investor in Manhattan Shirt company would have increased the value during the depression due to the company turning assets into cash.
       - *profits from inventory inflation*: in the event of high inflation, the inventory will increase in value in terms of accounting.
         - U.S. Rubber is an example of an increase in earnings, partly made from heavy expenditures on a plant and a dangerous expansion in inventory from 1919-1920, with high inflation. Only looking at the increased reported earnings would the investor not have found this.
