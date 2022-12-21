@@ -675,8 +675,6 @@ tags: ["investing", "valueinvesting"]
     - *tobacco products Corporation of Virginia*: this company was traded with a price-earnings of 10. All income came from a 99-year lease given to a high-quality company that could meet the obligation without question. This made the source of income from Tobacco Products Company of Virginia equivalent to a high-grade investment bond, and on this basis, the company would be deemed undervalued.
 
 
-**Criteria for investing in common stocks (cont.)**
-
 ## 3. Asset Value
 - To gauge asset value, inspect the business’s balance sheet. A firm’s book value per share equals the total value of its tangible assets divided by the number of shares outstanding. Wall Street has almost entirely superseded the importance of asset value with earnings. Although rules of thumb for the proper ratio of market price to book value vary, you still should investigate the underlying value of a business’s assets before investing.
 
