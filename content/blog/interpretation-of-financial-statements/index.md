@@ -7,59 +7,59 @@ tags: ["investing", "valueinvesting"]
 
 # interpretation of financial statements by Benjamin Graham
 
-- Published in 1937, Ben Graham covers the basics of accounting and financial statements. It’s a condensed guide on reading the balance sheet and income statement, explaining common metrics, and tips on how to determine the soundness of a company.
+- Published in 1937, Ben Graham covers the basics of accounting and financial statements. It’s a condensed guide on reading the balance sheet and income statement, explaining standard metrics, and providing tips on determining a company's soundness.
 
-- Financial statements offer a picture of a company’s financial soundness and operating results.
+- Financial statements show a company’s financial soundness and operating results.
 
-- The balance sheet shows how much a company owns (assets) and owes (liabilities) at a particular point in time. Assets and liabilities must balance out.
+- The balance sheet shows how much a company owns (assets) and owes (liabilities) at a particular time. Assets and liabilities must balance out.
   - Assets = property like plants and equipment, accounts receivable, cash, intangible assets like goodwill, etc.
-  - Liabilities = accounts payable, current debt, long term debt plus stockholder equity, etc.
-  - Intangible assets can be over-inflated or deflated depending on the company. The same is true for goodwill, and assets written down through depreciation.
+  - Liabilities = accounts payable, current debt, long-term debt plus stockholder equity, etc.
+  - Intangible assets can be over-inflated or deflated depending on the company. The same is true for goodwill and assets written down through depreciation.
 
-- A company’s size can be measured by its assets or sales, relative to the other companies in the industry.
+- A company’s size can be measured by its assets or sales relative to the other companies in the industry.
 
-- On small-cap investing: "Where the purchase is made for speculative profits, or long-term capital gains, it is not so essential to insist upon dominant size, for there are countless examples of smaller companies prospering more than larger ones. After all, the large companies themselves presented the best speculative opportunities while there were still comparatively small."
-- The term "watered stock" was given to companies that inflated their asset value, thus inflating book value, which was later written off with special charges against earnings. Graham’s offers U.S. Steel’s inflated $600 million value in assets.
-In other words, asset values on a balance sheet may or may not represent an accurate value of an asset.
+- On small-cap investing: "Where the purchase is made for speculative profits or long-term capital gains, it is not essential to insist upon the dominant size, for there are countless examples of smaller companies prospering more than larger ones. After all, the large companies themselves presented the best speculative opportunities while there were still comparatively small."
+- The term "watered stock" was given to companies that inflated their asset value, thus inflating book value, which was later written off with special charges against earnings. Graham offers U.S. Steel’s inflated $600 million worth of assets. In other words, asset values on a balance sheet may or may not represent an accurate value of an asset.
 
-- Depreciation, amortization, and depletion apply a normal wearing out or aging of building and equipment over its typical lifespan. It allows the cost of the asset to be charged off (the income statement) over a series of years.
+- Depreciation, amortization, and depletion apply a normal wearing out or aging of building and equipment over its typical lifespan. It allows the asset's cost to be charged off (the income statement) over several years.
 - Depletion is used in commodity businesses like mining or oil to account for resources taken out of the ground.
 - Current assets listed as "marketable securities" might be a place to unearth hidden value.
 Intangible assets can’t be accurately weighed or measured. Includes patents, trademarks, goodwill, etc.
 
-- There might be hidden value found in goodwill. If goodwill is written off, after a company has improved financially, it’s likely that goodwill is worth more than what is stated on the books.
-- The real value of intangible assets is more likely found in the income statement than the balance sheet. "It is the earning power of these intangibles rather than their balance sheet valuation, that really counts."
+- There might be hidden value found in goodwill. If goodwill is written off after a company has improved financially, it’s likely that goodwill is worth more than what is stated on the books.
+- The real value of intangible assets is more likely found in the income statement than the balance sheet. "The earning power of these intangibles rather than their balance sheet valuation counts."
 - Current assets are cash or assets that are easily converted into cash like receivables and inventory — and are shown in order of liquidity.
 - Current liabilities are debts incurred during normal business operations to be paid or maturing within one year.
 - Current Ratio = current assets/current liabilities. A high current ratio shows that the company will have no problem meeting short-term obligations.
 - More liquid current assets allow for a lower margin above current liabilities.
 - Working Capital (or Net Current Assets) = current assets – current liabilities.
 - An excess of Working Capital makes it easier for a company to run daily operations, grow the business, and meet emergency needs without taking on new financing. A lack of working capital means its harder to cover current liabilities and likely means forgoing business growth, with a worst-case scenario of bankruptcy.
-- Graham’s Net-Net Working Capital Strategy: "The working capital available for each share of common stock is an interesting figure in common stock analysis. The growth or decline of the working capital position over a period of years is also worthy of the investor’s attention."
+- Graham’s Net-Net Working Capital Strategy: "The working capital available for each share of common stock is an interesting figure in common stock analysis. Over the years, the growth or decline of the working capital position is also worthy of the investor’s attention."
 - Quick Ratio = (Current Assets – Inventory)/Current Liabilities
-- Inventory should be looked at in relation to other factors in order to assess how efficiently the company turns assets into profit — like turnover (turnover ratio = annual sales/inventory). Inventory turnover can be compared on a year to year basis.
+- Inventory should be looked at concerning other factors to assess how efficiently the company turns assets into profit — like turnover (turnover ratio = annual sales/inventory). Inventory turnover can be compared on a year-to-year basis.
 - Receivables can be looked at against sales and compared year to year. A large ratio of receivables to sales means the company may be at a higher risk of loss due to unpaid accounts. Also, watch for companies that allow long-term payment options.
-- Stocks selling below its cash value per share may be worth more than its valued by the market. Stockholders may benefit from an appreciation in price or distribution of cash.
-- "The most important individual item among the current liabilities is that of Notes Payable." If notes payable — accounts payable — is larger then cash and receivables the company may be too reliant on credit. When looked at over several years, if accounts payable grows faster than sales and profits, then its a sign of weakness.
-- Reserves is an all-encompassing term for money set aside to be used for a specific purpose.
-- Graham breaks reserves into 3 classes:
-  - Definite liabilities — for taxes, accident claims, legal settlements, customer refunds, etc. that are closer to current liabilities
-  - Offset against an asset — losses on receivables, decline in inventory may be an actual decline or set up to offset a future decline (if its a future decline, it may be a surplus).
-  - Actually a surplus — contingency reserves or money set aside for a future purpose that is more likely not used as intended but only if it gets transferred back to surplus.
+- Stocks selling below their cash value per share may be worth more than their value by the market. Stockholders may benefit from an appreciation in price or distribution of cash.
+- "The most important individual item among the current liabilities is that of Notes Payable." If notes payable — accounts payable — are larger than cash and receivables, the company may be too reliant on credit. Over several years, if accounts payable grows faster than sales and profits, it's a sign of weakness.
+- Reserve is an all-encompassing term for money to be used for a specific purpose.
+- Graham breaks reserves into three classes:
+  - Definite liabilities — for taxes, accident claims, legal settlements, customer refunds, etc., that are closer to current liabilities
+  - Offset against an asset — losses on receivables, decline in inventory may be an actual decline or set up to offset a future decline (if it's a future decline, it may be a surplus).
+  - a surplus — contingency reserves or money set aside for a future purpose that is more likely not used as intended but only if it gets transferred back to surplus.
 
-- Book value attempts to show the liquidation value of all the tangible assets, but in reality, the true liquidation value is more likely to be less than book value. The reason: inventory and fixed assets are likely to be sold at a significant loss.
+- Book value attempts to show the liquidation value of all the tangible assets, but the true liquidation value is more likely to be less than book value. The reason: inventory and fixed assets are likely to be sold at a significant loss.
 
 - Book Value = total assets – intangible assets – liabilities.
-- Book value may be overstated or understated depending on reserves that should be considered a surplus. Reserves considered a surplus should be added into book value to get a closer approximation of the true book value.
+- Book value may be overstated or understated depending on reserves that should be considered a surplus. Reserves considered a surplus should be added to book value to get a closer approximation of the true book value.
 - Net Current Asset Value (NCAV) = Current assets – liabilities and preferred stock. NCAV might be a good representation of liquidation value if current assets are a large portion of total assets. Stocks selling below NCAV may be extremely undervalued.
 
-- Earning Power = a company’s expected earnings over a period of future years.
+- Earning Power = a company’s expected earnings over future years.
 
-- Maintenance and depreciation may under- or overstate earnings.
+- Maintenance and depreciation may under or overstate earnings.
 - Average earnings over several years should easily cover interest and dividend payments.
-- Be aware of companies showing a trend in improved earnings. "However, before purchasing a common stock because of its favorable trend it is well to ask two questions: (a) How certain am I that this favorable trend will continue, and (b) How large a price am I paying in advance for the expected continuance of the trend?"
+- Be aware of companies showing a trend in improved earnings. "However, before purchasing a common stock because of its favourable trend, it is well to ask two questions: (a) How certain am I that this favourable trend will continue, and (b) How large a price am I paying in advance for the expected continuance of the trend?"
 
-- Future earnings estimates explain why two stocks with similar earnings per share can trade at vastly different P/E ratios. A low P/E stock has a low expected earnings growth priced in while a high P/E stock reflects a high expected earnings growth.
+- Future earnings estimates explain why two stocks with similar earnings per share can trade at vastly different P/E ratios. A low P/E stock has a low expected earnings growth priced in, while a high P/E stock reflects a high expected earnings growth.
+
 
 # Warren Buffett and the interpretation of financial statements
 
