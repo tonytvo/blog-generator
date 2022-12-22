@@ -83,9 +83,9 @@ Intangible assets can’t be accurately weighed or measured. Includes patents, t
 - avoid investing in companies with high expenses for research, depreciation and interest.
 - [Warrent Buffet interpretation of financial statements](https://www.oldschoolvalue.com/tutorial/this-is-how-buffett-interprets-financial-statements/)
 - [old school value durable competitive advantage financial statement analysis](./durable-competitive-financial-statements-analysis.xlsx)
-- https://www.youtube.com/watch?v=cRDcAeOJn7s&ab_channel=TheSwedishInvestor
-- https://www.youtube.com/watch?v=knaQgfxIi18&ab_channel=RV
-- https://www.youtube.com/watch?v=lBBXmim527A&ab_channel=TheSwedishInvestor
+- [interpretation of financial statement by benjamin graham](https://www.youtube.com/watch?v=cRDcAeOJn7s&ab_channel=TheSwedishInvestor)
+- [Warren Buffet and the analysis of financial statements](https://www.youtube.com/watch?v=knaQgfxIi18&ab_channel=RV)
+- [Warren Buffett and the interpretation of financial statements](https://www.youtube.com/watch?v=lBBXmim527A&ab_channel=TheSwedishInvestor)
 
 ## The Divergent Styles of Warren Buffett and His Mentor
 
