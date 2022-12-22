@@ -7,17 +7,17 @@ tags: ["investing", "assetallocation"]
 
 # take-aways
 
-- Stock are to be held for the long term.
+- Stock is to be held for the long term.
 
 - Individual investors are drawn into stocks during powerful bull markets
   - They don't appreciate the risks with stocks. And after they have suffered the inevitable loss, they sell.
-    - No investor ever avoids loses at times, no matter how skilled
+    - No investor ever avoids losses at times, no matter how skilled
 
 - The best way to estimate future stock returns is the DDM (Dividend Discount Method)
   - Return = Dividend Yield + Dividend Growth Rate + Multiple Change
-    - Dividend yield is the yield on the investment (Example – 2020 S+P 500 yield is 1.5%). The Dividend growth rate is historically 5%. And the Multiple change refers to the increase or decrease in the overall P/E ratio.
-    - The Dividend yield and dividend growth rate is the fundamental return (easy to estimate). The Multiple change is the speculative return (impossible to estimate).
-      - Benjamin Graham – "In the short run the stock market is a voting machine (speculative return), but in the long run, it is a weighing machine (fundamental return).
+    - Dividend yield is the yield on the investment (Example – 2020 S+P 500 yield is 1.5%). The Dividend growth rate is historically 5%. And Multiple changes refer to the increase or decrease in the overall P/E ratio.
+    - The Dividend yield and dividend growth rate is the fundamental return (easy to estimate). The Multiple changes are the speculative return (impossible to estimate).
+      - Benjamin Graham – "In the short run, a stock market is a voting machine (speculative return), but in the long run, it is a weighing machine (fundamental return).
 
 - Those who are ignorant of investment history are bound to repeat its mistakes
 
@@ -26,106 +26,106 @@ tags: ["investing", "assetallocation"]
 - Something everyone knows isn't worth knowing
   - Identify the era's conventional wisdom and then ignore it
 
-- Next year's efficient frontier portfolio (high return at low risk or decent returns with no risk) will be nowhere near last years.
+- Next year's efficient frontier portfolio (high return at low risk or decent returns with no risk) will be nowhere near last year's.
   - No one consistently times the market
-  - Some managers spend lots of money researching macroeconomic, political, and market analysis to try to guess which assets will perform best in the future. And this is a fool's errand.
+  - Some managers spend lots of money researching macroeconomic, political, and market analysis to determine which assets will perform best in the future. And this is a fool's errand.
     - Why? The market has already priced this information into the current price
 
 
-- Effective portfolio diversification can increase return while reducing risks. Achieving this benefit requires rebalancing the portfolio back to its target or "policy" AA. This is difficult to do and almost always involves moving against the market sentiment
+- Effective portfolio diversification can increase return while reducing risks. Achieving this benefit requires rebalancing the portfolio to its target or "policy" AA. This isn't easy to do and almost always involves moving against the market sentiment
 
-- Long term success in individual security selection and market timing is difficult to impossible
+- Long-term success in individual security selection and market timing is difficult to impossible
 
-- The future cannot be predicted, so therefore it is nearly impossible to specify in advance what the best asset allocation will be. Our job is to find an AA that will do reasonably well under a wide range of circumstances
+- The future cannot be predicted, so, therefore, it is nearly impossible to specify in advance what the best asset allocation will be. Our job is to find an AA that will do reasonably well under a wide range of circumstances
 
 - Sticking to your target AA through thick and thin is much more important than picking the right AA
 
-- An optimizer will heavily favor those assets with high historical or assumed returns. This is a problem because asset returns have a tendency to "mean revert".
-  - If you can predict the inputs to the optimizer well enough, then you didn't need an optimizer to begin with.
+- An optimizer will heavily favour those assets with high historical or assumed returns. This is a problem because asset returns tend to "mean revert."
+  - If you can predict the inputs to the optimizer well enough, then you didn't need an optimizer, to begin with.
   - Don't use an optimizer to try to develop an asset allocation. We can't predict returns, standard deviations, or correlations accurately enough. And if we could, we wouldn't need one anyway.
-    - And optimizing historic returns is a one-way ticket to the poor house
+    - And optimizing historical returns is a one-way ticket to the poor house
 
 - A well-diversified portfolio is not a free lunch. It does not come anywhere near eliminating risk. You will still suffer loss from time to time
 
-- Diversification not only reduces risks, but also gives a "rebalancing bonus" or extra return from rigorous rebalancing.
+- Diversification not only reduces risks but also gives a "rebalancing bonus" or extra return from rigorous rebalancing.
   - The benefit is also psychological because you are getting into the habit of buying low and selling high. Thus, profiting by moving in the opposite direction of the market
-  - A distrust of "expert opinion" is one of the investors most useful tools
+  - A distrust of "expert opinion" is one of the investors' most useful tools
   - It also limits your exposure to only one market segment
 
 - It is impossible to forecast future optional portfolios by any technique
 
-- Mutual fund manager performance does not persist and the return on stock picking is zero
+- Mutual fund manager performance does not persist, and the return on stock picking is zero
   - These managers ARE the market, so there is no way they can ALL perform above the mean
 
-- Charles Ellis (an avid tennis player) first saw the data demonstrating a lack of money manger skill. And He thought, I have seen this before in tennis matches.
-  - Most amateur tennis matches winning or losing was less a matter of skill and more of matter of playing conservatively and avoiding mistakes
-  - This applies to investors, those who simply buy and hold a diversified stock portfolio usually come out on top (Indexing).
-    - Success in both tennis and investing is less a matter of winning and more a matter of avoiding losing.
+- Charles Ellis (an avid tennis player) first saw the data demonstrating a lack of money management skills. And He thought I had seen this before in tennis matches.
+  - Most amateur tennis matches winning or losing was less a matter of skill and more of a matter of playing conservatively and avoiding mistakes
+  - This applies to investors who buy and hold a diversified stock portfolio and usually come out on top (Indexing).
+    - Success in tennis and investing is less a matter of winning and more a matter of avoiding losing.
       - The easiest way to lose is to trade excessively.
-      - The ultimate loss avoidance strategy is to simply buy and hold the entire market or to index
+      - The ultimate loss avoidance strategy is to buy and hold the entire market or to index
         - This reduces all the expenses associated with active management
 
 - Dunn's Law – When an asset class does relatively well, an index fund in that class does even better
 
 - The only money made from newsletters is from the subscriptions, not from taking the advice
 
-- Money mangers do not exhibit consistent stock picking skill
+- Money managers do not exhibit consistent stock-picking skill
 
 - Nobody can time the market
-  - Because of the above 2 points, it is futile to select money mangers on the basis of past performance
+  - Because of the above 2 points, it is futile to select money managers based on past performance
     - Because of the above 3 points, the most rational way to invest in stocks is to use low cost passively managed index funds
   - If Nobel winners have tried and failed (Long-Term Capital Management), what chance do I have? And during a bear market, stocks usually decline much faster than they advance during a bull market. But you don't want to get out of the market then because you will miss the rally.
 
-- Long term returns are usually higher when valuations are cheap and lower when they are expensive
+- Long-term returns are usually higher when valuations are cheap and lower when they are expensive
 
-- Paul Miller did the first study on cheap stocks called the Dow P/E strategy. He examined buying the 10 lowest P/E stocks in the Dow from 1936-1964 and discovered that the lowest P/E stocks (those everyone hates) actually outperformed the market and the highest P/E stocks (those everyone loves) greatly underperformed
+- Paul Miller did the first study on cheap stocks called the Dow P/E strategy. He examined buying the ten lowest P/E stocks in the Dow from 1936-1964 and discovered that the lowest P/E stocks (those everyone hates) outperformed the market, and the highest P/E stocks (those everyone loves) greatly underperformed
 
 - Dreman has observed that "value" stocks tend to fall less in price than "growth" stocks when earnings disappoint. Conversely, "value" stocks tend to rise more in price than "growth" stocks when earnings exceed expectations.
   - To put it another way, good companies are generally bad stocks, and bad companies are generally good stocks
 
-- It has puzzled academics EMH theorists why these value type strategies have worked so well for so long even after they were discovered. (The market should have arbitrated this away long ago). The reason the strategies still work is that cheap companies are dogs, and most people cannot bring themselves to buy them. This concept is very difficult for investors and money managers alike.
+- It has puzzled academics EMH theorists why these value-type strategies have worked so well for so long, even after they were discovered. (The market should have arbitrated this away long ago). The reason the strategies still work is that cheap companies are dogs, and most people cannot bring themselves to buy them. This concept is very difficult for investors and money managers alike.
 
-- The best explanation for value stocks can be found in Robert Haugen The New Finance: The Case Against Efficient Markets. In 1993 the highest 20% P/E stocks (Growth) had an average P/E of 42. Earnings yield was 2.36% or 1/42. The lowest 20% P/E stocks (Value) had a P/E of 12. Earnings yield was 8.38% or 1/12. So, if you bought growth stocks in 1993, you received $2.36 for every $100 invested. If you bought value stocks then, you received $8.38 in earnings for every $100 invested. That means growth stocks earnings have to grow 3x larger than value stocks just to break even. The growth stocks did have higher earnings than value, but not enough to catch up.
+- The best explanation for value stocks can be found in Robert Haugen's The New Finance: The Case Against Efficient Markets. In 1993 the highest 20% P/E stocks (Growth) had an average P/E of 42. The earnings yield was 2.36% or 1/42. The lowest 20% P/E stocks (Value) had a P/E of 12. The earnings yield was 8.38% or 1/12. So, if you bought growth stocks in 1993, you received $2.36 for every $100 invested. If you bought value stocks, you received $8.38 in earnings for every $100 invested. That means growth stocks' earnings have to grow 3x larger than value stocks to break even. The growth stocks did have higher earnings than value, but not enough to catch up.
 
-- Both the behavioral (people don't like buying bad companies) and increased risk (companies are not in great financial shape) explain value companies higher returns than growth.
+- The behavioural (people don't like buying bad companies) and increased risk (companies are not in great financial shape) explain value companies' higher returns than growth.
 
 - Value companies tend to do better than growth during bear markets
 
 - Dividend Discount Method (DDM) formulated by John Burr Williams in 1938 was formulated by a simple idea. Since all companies eventually go bankrupt, the value of a stock, bond or the entire market is simply the value of all its future dividends discounted to the present.
   - And since a dollar in the future is worth less than a dollar today, its value must be reduced or discounted to reflect the fact you won't receive it today.
     - The reduction is called the Discount Rate (DR)
-      - The DR is determined by the cost of money (Risk Free Rate) plus the risk to the lender
-        - Safer investments have a lower DR and risker investments a higher DR
-      - DR can also be thought of as the expected return of the asset
+      - The DR is determined by the cost of money (Risk-Free Rate) plus the risk to the lender
+        - Safer investments have a lower DR, and risker investments have a higher DR
+      - DR can also be thought of as the expected return on the asset
         - Lower risks = lower DR = Lower expected return/Higher Present Value
         - Higher risks = higher DR = Higher expected return/Lower Present Value
       - Formula – Reasonable Price = (Annual Dividend Amount)/(DR – Dividend Growth Rate)
-        - But you can make this formula say anything you want depending on your inputs. So be careful with this formula
+        - But you can make this formula say anything you want, depending on your inputs. So be careful with this formula
 
-- Dynamic asset allocation refers to the possibility of varying your policy allocation because of changing market conditions.
+- Dynamic asset allocation is the possibility of varying your policy allocation because of changing market conditions.
   - Only people who have mastered fixed asset allocation and the required rebalancing should consider dynamic asset allocation.
-  - He used to recommend changing your equity/bond AA based on conditions but that doesn't work anymore. Now he only recommends changing equity allocations
+  - He used to recommend changing your equity/bond AA based on conditions, but that doesn't work anymore. Now he only recommends changing equity allocations
 
-- When stocks get more expensive, their future returns are likely to be lower and when stocks are very cheap, future returns are likely to be higher.
+- When stocks get more expensive, their future returns are likely to be lower; when stocks are very cheap, future returns are likely to be higher.
   - Based on this, it is not a terrible idea to change your AA slightly in the opposite direction based on valuations, but not by much.
-    - When you rebalance your portfolio to maintain your target AA, you purchase more of an asset that has declined in price, and thus cheaper.
-      - When you actually increase the target portfolio weighting of an asset when its price declines and gets cheaper, you are simply rebalancing in a more vigorous form – you are "overbalancing"
-    - Do not change your AA based on changes in economic, political conditions or analyst recommendations, that is a poor idea
-      - In the authors opinion, overbalancing is likely to increase return if done correctly. But few investors have the nerve and discipline to rebalance and "overbalancing" requires even more of that nerve and discipline so few should try it.
+    - When you rebalance your portfolio to maintain your target AA, you purchase more of an asset that has declined in price and is thus cheaper.
+      - When you increase the target portfolio weighting of an asset when its price declines and gets cheaper, you are simply rebalancing in a more vigorous form – you are "overbalancing."
+    - Do not change your AA based on changes in economic or political conditions or analyst recommendations. That is a poor idea
+      - In the authors' opinion, overbalancing is likely to increase returns if done correctly. But few investors have the nerve and discipline to rebalance, and "overbalancing" requires even more of that nerve and discipline so few should try it.
 
 
-- Human beings experience risk in the short term. This is because in nature, our ancestors had to focus on short term risks to survive.
-  - Unfortunately, this is of less value in a modern society, specifically in the world of investing.
+- Human beings experience risk in the short term. This is because, in nature, our ancestors had to focus on short-term risks to survive.
+  - Unfortunately, this is of less value in modern society, specifically in investing.
 
-- Vanguard and DFA are great choices for funds. Vanguard is owned by the shareholders.
+- Vanguard and DFA are great choices for funds. The shareholders own Vanguard.
 
-- Dollar Cost Averaging (DCA) vs Lump Sum investing – from a purely financial point of view, it is usually better to put your money to work right away. However, if you are not used to owning risk assets, then it might be best to go slow and DCA your way into the market
-  - DCA – Involves investing the same amount regularly in a given fund
+- Dollar Cost Averaging (DCA) vs Lump Sum investing – from a purely financial point of view, it is usually better to put your money to work immediately. However, if you are not used to owning risk assets, then it might be best to go slow and DCA your way into the market
+  - DCA – involves investing the same amount regularly in a given fund
   - Do not underestimate the discipline that is sometimes necessary to carry out a successful DCA program.
 
 - Value Averaging (VA) – Is another technique for investing in the market (read the book for more information on how to do it)
 
-- Become familiar with the long-term history of the behavior of different classes of stocks and bonds
+- Become familiar with the long-term history of the behaviour of different classes of stocks and bonds
 
 - Portfolios behave differently than their constituent parts
 
@@ -134,7 +134,7 @@ tags: ["investing", "assetallocation"]
 
 - The investor's objective then is not to find the efficient frontier, rather the goal is to find a portfolio mix that will come reasonably close to the mark under a broad range of circumstances
 
-- Focus on the behavior of your whole portfolio, not its parts. Some will be doing very well or very bad at times
+- Focus on the behaviour of your whole portfolio, not its parts. Some will be doing very well or very badly at times
 
 - The markets are smarter than you are
 
@@ -142,11 +142,12 @@ tags: ["investing", "assetallocation"]
 
 - Keep an eye on market valuations
 
-- Changes in your policy AA should be made only in response to valuations changes, and in a direction opposite the market
+- Changes in your policy AA should be made only in response to valuations changes and in a direction opposite the market
 
 - Good companies are usually bad stocks; bad companies are usually good stocks
 
 - Favor a "value" approach to investing
+
 
 # asset allocation
 
