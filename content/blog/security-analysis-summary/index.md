@@ -1037,7 +1037,7 @@ truth seeker
 
 # Quotes
 
-"There is very little altruism in finance."
+There is very little altruism in finance.
 
 "The typical American stockholder is the most docile and apathetic animal in captivity. He never thinks of asserting his individual rights as owner of the business."
 

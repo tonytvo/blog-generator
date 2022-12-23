@@ -6,14 +6,15 @@ tags: ["strategy"]
 ---
 
 # take-aways
+
 - **The opportunity cost of money**
-  - This is the first principle we learn from the book, and it says that everything a person buys is financed – either by borrowing from a lender or using your own money – otherwise received on the funds.
-  - Nash further teaches us the concept of EVA (economic value added) – which proposes that you use your own funds as a cost of capital. By doing this, you stop paying interest to others and start saving money for yourself.
-  - Also, having in mind dividends — or how Nash defines them — a form of principal’s return can merely impact your success with IBC. The key is to understand the amount of money you would usually be paying other companies – and deliver it to yourself. That way, you ensure you’re not paying the interest to anyone but yourself.
+  - This is the first principle we learn from the book, which says that everything a person buys is financed – either by borrowing from a lender or using your own money – otherwise received on the funds.
+  - Nash further teaches us the concept of EVA (economic value added) – which proposes that you use your funds as a cost of capital. By doing this, you stop paying interest to others and start saving money for yourself.
+  - Also, having in mind dividends — or how Nash defines them — a form of principal’s return can merely impact your success with IBC. The key is to understand the amount of money you would usually be paying other companies – and deliver it to yourself. That way, you ensure you’re not paying the interest to anyone else.
 - **Borrower & Lander concept**
-  - One of the estimations is that it is required to implement IBC for at least five years to generate enough cash value to begin financing purchases. If the purchase is more prominent (for example, car or house), it will take even longer.
-  - If you are looking to establish IBC from the ground level and leave it to the next generations, you should know that this is a long-term investment and a project that will require the next generations to continue where you stopped. It takes 20 to 25 years for the average individual to fully assemble their own banking system that can finance everything using life insurance
-- **benefits of infinite banking concept**
+  - One of the estimations is that it is required to implement IBC for at least five years to generate enough cash value to begin financing purchases. It will take even longer if the purchase is more prominent (for example, a car or house).
+  - If you want to establish IBC from the ground level and leave it to the next generations, you should know that this is a long-term investment and a project that will require the next generations to continue where you stopped. It takes 20 to 25 years for the average individual to fully assemble their banking system that can finance everything using life insurance
+- **Benefits of infinite banking concept**
   - Being able to reduce your debt as you increase your savings
   - Building a college fund without sacrificing to do so
   - Easily creating an emergency fund
@@ -23,9 +24,10 @@ tags: ["strategy"]
   - Having a guaranteed tax-free death benefit
   - Having access to tax-free withdrawals, loans and growth
   - money growth
-    - it's important to remember that infinite banking concept is a capital accumulation strategy, which means that through your entire life - even when you're taking the loans, your cash value will be increasing.
+    - it's important to remember that the infinite banking concept is a capital accumulation strategy, which means that your cash value will be increasing throughout your life - even when you're taking loans.
   - savings
-    - We know that we all need a place for our savings – in this case, there is no better safety net than a whole life insurance policy. You know you are guaranteed for your life, you know that your beneficiaries will get the death benefit, and additionally, you know that while you are still alive, you can access your savings any time and manage them in the way you need.
+    - We all need a place for our savings – in this case, there is no better safety net than a whole life insurance policy. You know you are guaranteed your life, and your beneficiaries will get the death benefit. Additionally, you know that while you are still alive, you can access your savings anytime and manage them in the way you need.
+
 
 # becoming your own banker
 
