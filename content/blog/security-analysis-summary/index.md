@@ -836,7 +836,7 @@ tags: ["investing", "valueinvesting"]
   - the position of control of someone who owns only a little or no capital is bound to lead to irresponsible and unsound management
   - it allows for deceiving accounting techniques regarding indicated earnings, dividend return, and book value. This will again lead to speculation.
 
-*overstatement of earnings:* holding companies can overstate their earnings power by valuing the stock dividends they receive from subsidiaries at an artificially high price. Earning power can also be overstated using profits made from the sale of stock of subsidiary companies
+- *overstatement of earnings:* holding companies can overstate their earnings power by valuing the stock dividends they receive from subsidiaries at an artificially high price. Earning power can also be overstated using profits made from the sale of stock of subsidiary companies
 - *distortion of dividend return*: stock dividends can be paid out with a market value exceeding current earnings.
 - *exaggeration of book value*. The exaggeration of book value may occur in cases where a holding company owns most of the shares of a subsidiary, consequently making it possible to manipulate the small amount of stock remaining in the market.
 - **some holding companies not guilty of excessive pyramiding**
