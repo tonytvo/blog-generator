@@ -318,7 +318,7 @@ tags: ["investing", "assetallocation"]
   - Practitioners view risk as investment volatility
   - Individuals view risk as losing money
   - Investments with less risk of income disruptions have lower expected returns
-  - Portfolio risk cannot be eliminated but it can be controlled with an asset allocation strategy
+  - Portfolio risk cannot be eliminated, but it can be controlled with an asset allocation strategy
 
 - Do not expect high returns without high risk. Do not expect safety without correspondingly low returns
 
@@ -330,12 +330,12 @@ tags: ["investing", "assetallocation"]
 
 - Systematic Risk – Risk that cannot be diversified away
 
-- Real assets are almost always imperfectly correlated (Mostly positive) in real life (An above average return in one is somewhat more likely to be associated with an above-average return in the other)
-  - It is difficult to find 2 assets that are uncorrelated and it is practically impossible to find 3
+- Real assets are almost always imperfectly correlated (Mostly positive) in real life (An above-average return in one is somewhat more likely to be associated with an above-average return in the other)
+  - It is difficult to find two uncorrelated assets, and it is practically impossible to find 3
 
 - Correlation coefficient ranges from -1 to +1
   - Uncorrelated is 0
-  - inverse is -1
+  - the inverse is -1
   - Perfect is +1
 
 - Correlation is measured on a -1 to +1 scale
@@ -343,28 +343,29 @@ tags: ["investing", "assetallocation"]
   - -0.3 or less is negative
   - -0.3 to 0.3 is noncorrelated
 
-- If 2 investments move in the same direction at the same time, they have positive correlation. If they move in opposite directions, they have negative correlation.
+- If two investments move in the same direction simultaneously, they have a positive correlation. If they move in opposite directions, they have a negative correlation.
 
-- You want investments that have lower correlation to each other
+- You want investments that have a lower correlation to each other
 
 - Don't purchase new investments that have a high positive correlation with investments you already have
 
-- Negative correlation is theoretically ideal when selecting investments but this doesn't occur in the real world. Typically, the best asset pairs you will find are noncorrelated
+- Negative correlation is theoretically ideal when selecting investments, but this doesn't occur in the real world. Typically, the best asset pairs you will find are noncorrelated
 
-- Correlations are dynamic, not static. And you can't guess when/how they will change. For example – The S+P 500 and Intermediate term treasury bonds have been between +0.49 to -0.42 correlated in the last 20 years (1990-2009). Average was 0 so they are noncorrelated
+- Correlations are dynamic, not static. And you can't guess when/how they will change. For example – The S+P 500 and Intermediate-term treasury bonds have been between +0.49 to -0.42 correlated in the last 20 years (1990-2009). The average was 0, so they are noncorrelated
 
-- Correlation is not the only reason to invest. The security must also have a positive expected rate of return. It is basically impossible to find 2 negative correlated asset classes that both earn a positive rate of return. Noncorrelated is your best bet
+- Correlation is not the only reason to invest. The security must also have a positive expected rate of return. It is impossible to find two negatively correlated asset classes that both earn a positive rate of return. Noncorrelated is your best bet
 
-- During extreme volatility when you want low correlation among asset classes, positive correlation increases drastically across all classes. Especially during bear markets or disasters
+- During extreme volatility, when you want low correlation among asset classes, positive correlation increases drastically across all classes. Especially during bear markets or disasters
 
 - For a given degree of risk, there is a portfolio that will deliver the most return. But this can only be known in retrospect
 - The perfect portfolio can only be known in retrospect. So, don't overanalyze
 
-- But in real life risks, returns, and correlations of various assets fluctuate considerably over time
+- But in real life, risks, returns, and correlations of various assets fluctuate considerably over time
 
-- Two types of investors, those who don't know where the market is headed, and those who don't know that they don't know
-  - For all practical purposes there is no such thing as stock picking skill
-    - Those early high returns attract large number of investors who wind up with average returns (if they are lucky)
+- Two types of investors, those who don't know where the market is headed and those who don't know that they don't know
+  - For all practical purposes, there is no such thing as stock picking skill
+    - Those early high returns attract a large number of investors who wind up with average returns (if they are lucky)
+
 
 # rebalancing
 
