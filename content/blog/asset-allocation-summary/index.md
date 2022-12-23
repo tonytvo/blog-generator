@@ -369,32 +369,32 @@ tags: ["investing", "assetallocation"]
 
 # rebalancing
 
-- Rebalancing is the most difficult because it forces you to sell what is going up and to buy what went down
+- Rebalancing is the most difficult because it forces you to sell what is going up and buy what went down
 
 - Try to rebalance through changes in what you buy, try not to rebalance by selling assets
 
-- Rebalancing increases long term portfolio performance
+- Rebalancing increases long-term portfolio performance
   - It instills the investor with the discipline to buy low and sell high
 
-- If two assets have similar long term returns and risks are not perfectly correlated, then investing in a fixed rebalanced mix of the two not only reduces risks, but also actually increases return
-  - The excess return though is not obtained without rebalancing. It forces you to buy low and sell high to rebalance your asset allocation
+- If two assets have similar long-term returns and risks are not perfectly correlated, then investing in a fixed rebalanced mix of the two not only reduces risks but also actually increases return
+  - The excess return, though is not obtained without rebalancing. It forces you to buy low and sell high to rebalance your asset allocation
 
 - Rebalancing is based on a theory called regression to the mean. That is, there is a natural tendency in the marketplace for all broad asset classes to return close to their history risk profiles.
 
-- When you rebalance, you sell some of the winners to buy some of the losers. It may feel counterintuitive at first but it follows the logic to buy low and sell high
+- When you rebalance, you sell some of the winners to buy some of the losers. It may feel counterintuitive at first, but it follows the logic of buying low and selling high
 
-- Calendar based rebalancing is a good idea. Pick a date and rebalance then. You are more likely to not procrastinate
+- Calendar-based rebalancing is a good idea. Pick a date and rebalance it, then. You are more likely not to procrastinate
 
 - Rebalancing only works if the investments in the portfolio don't act the same way. You want assets that don't correlate with each other
 
-- Rebalancing in your tax advantaged accounts every year or two should be ok
+- Rebalancing in your tax-advantaged accounts every year or two should be ok
 
-- Try not to rebalance in your taxable accounts or do it as little as possible. Try to rebalance though buying because rebalancing triggers taxable events
+- Try not to rebalance your taxable accounts or do it as little as possible. Try to rebalance through buying because rebalancing triggers taxable events
 
 - Rebalance your portfolio at least 1 per year
 
 - Do not rebalance too frequently. Let momentum work for you.
-  - This means to rebalance at most once per year
+  - This means rebalancing at most once per year
 
 
 ## Investment Pyramid – 5 levels
