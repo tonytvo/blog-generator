@@ -787,43 +787,44 @@ tags: ["investing", "valueinvesting"]
 
 ## stock-option warrants
 
-- in the past, a stock-option warrant was something that was attached to a bond or a preferred stock, and carried privileges. It was not seen as an independent instrument and as an important part of the capitalization. Today, opinions are reversed, and it has even turned into a popular medium for speculators.
+- in the past, a stock-option warrant was attached to a bond or a preferred stock and carried privileges. It was not seen as an independent instrument or an important part of capitalization. Today, opinions are reversed, and it has even become a popular medium for speculators.
 
 - a (detachable) option warrant is a transferable right to buy stock. The right can be described in detail by the following information:
-  - (1) the kind of stock, (2) the amount, (3) the price, (4) the method of payment, (5) the duration of the privilege, and (6) anti dilution provisions.
-- type of stock covered by the privilege. Nearly all option warrants can be converted to common stock for the issuing company. Very few have rights that apply to preferred shares. Warrents have no right to receive interest, dividends or payments on account of principal, nor do they have the right to cash any vote.
+  - (1) the kind of stock, (2) the amount, (3) the price, (4) the method of payment, (5) the duration of the privilege, and (6) anti-dilution provisions.
+- the type of stock covered by the privilege. Nearly all option warrants can be converted to common stock for the issuing company. Very few have rights that apply to preferred shares. Warrants have no right to receive interest, dividends or payments on account of principal, nor do they have the right to cash any vote.
 
-- **resemblance to subscription "right"**: warrants are in many ways similar to the subscription rights issued by the corporation to stockholders in connection with the sale of additional stock. Differences occur, however, in terms of the exercised price and the time period. Subscription rights will typically always be exercised unless the stock price drops substantially, and it will generally happen within the 60 days that the rights typically run. Warrants, on the other hand, are seldom exercised in such a short period of time, as the stock purchase price is typically set higher than the current stock price at the time of issue. The duration is most often longer than a year.
+- **resemblance to subscription "right"**: warrants are in many ways similar to the subscription rights issued by the corporation to stockholders in connection with the sale of additional stock. Differences occur, however, in terms of the exercised price and the period. Subscription rights will typically always be exercised unless the stock price drops substantially, and it will generally happen within the 60 days that the rights typically run. Warrants, on the other hand, are seldom exercised in such a short period, as the stock purchase price is typically set higher than the current stock price at the time of issue. The duration is most often longer than a year.
 
-- **method of payment**. Most option warrants require payment of subscription price in cash.
+- **method of payment**. Most option warrants require payment of the subscription price in cash.
 
-- **basis of trading in warrants**: option warrants are bought and sold in the market in the same way as common stocks. The standard rule of a warrant is the right to buy one share of the stock.
+- **basis of trading in warrants**: option warrants are bought and sold in the market similarly to common stocks. The standard rule of a warrant is the right to buy one share of the stock.
 
 - **examples of warrants issued for various purposes**
   - attached to senior securities
   - as compensation to underwriters.
   - as compensation to promoters and management
-  - issued in a merger or reorganization plan, in exchange for other securities
+  - issued in a merger or reorganization plan in exchange for other securities
   - attached to an original issue of common stock
   - sold separately for cash.
 
 - **warrants as a vehicle of speculation**
-  - *qualitative element*: since the value of a warrant will only materialize from an increase in earnings, the prospects of increased earnings would make the warrant more attractive than its stability, characterized as low-priced common stocks with speculative element.
-  - *quantitative considerations: importance of low price*
-    - Graham feels that an option warrant has speculative attractiveness only if it possesses all 3 desirable qualities: low price, long duration, and option price close to the market.
-  - substantial part of an enterprise's profits are distributed to operating managers, and that this is done without full disclosure. Stock option warrants have proven to be an excellent instrument for that purpose.
+  - *qualitative element*: Since a warrant's value will only materialize from an increase in earnings, the prospects of increased earnings would make the warrant more attractive than its stability, characterized as low-priced common stocks with speculative elements.
+  - *quantitative considerations: the importance of low price*
+    - Graham feels that an option warrant has speculative attractiveness only if it possesses all three desirable qualities: low price, long duration, and option price close to the market.
+  - a substantial part of an enterprise's profits are distributed to operating managers, which is done without full disclosure. Stock options warrants have proven to be an excellent instrument for that purpose.
 
 
 - **dangerous device for diluting stock values.**
-  - as warrants give rights to buy stock at a given price level, when that pirce level is reached, earnings will be diluted for the common stockholder because they still must account for the cost to acquire the warrant
+  - as warrants give rights to buy the stock at a given price level when that price level is reached, earnings will be diluted for the common stockholder because they still must account for the cost to acquire the warrant
   - the original issue of common stock carrying warrants to buy additional stock does not give stockholders anything more than they would have without the warrant. Further, it violates an obvious rule of sound corporate financing. A properly managed business sells additional stock only when new capital is needed.
 
 - **cost of management: 3 items**
   - buyers of stock at $34 per share were asked to pay for the management in 3 ways:
-    - the $3 difference between the price the investor paid and the price the company paid. While this money would go to the investment banker as an underwriter's fee, in reality that premium is paid in the belief that the management was worth the difference.
-    - The issue of the warrants had in effect taken value away from the common stockholder, of one-third of the appreciation.
+    - the $3 difference between the price the investor paid and the company paid. While this money would go to the investment banker as an underwriter's fee, that premium is paid in the belief that the management was worth the difference.
+    - The issue of the warrants had taken value away from the common stockholder of one-third of the appreciation.
     - the salaries the officers were to receive plus additional taxes.
-    - the 3 items together may be said to absorb between 25 and 30% of the amount contributed by the public.
+    - the three items together may be said to absorb between 25 and 30% of the amount contributed by the public.
+
 
 ## corporate pyramiding
 
