@@ -199,9 +199,9 @@ tags: ["investing", "assetallocation"]
 
 - 10% savings of pre-tax income is a good target for most people
 
-- We also have a fondness for seeing patterns where they don't exist. Stocks that have done well in the past are expected to continue to do well and stocks that have done poorly are expected to continue to do poorly
+- We also have a fondness for seeing patterns where they don't exist. Stocks that have done well in the past are expected to continue to do well, and stocks that have done poorly are expected to continue to do poorly
 
-- Avoid the temptation to follow the herd and invest in the hottest sectors or stocks.
+- Avoid following the herd and investing in the hottest sectors or stocks.
 
 - Don't chase popular investment styles. Stick with your plan and give it time to work out
 
@@ -209,31 +209,31 @@ tags: ["investing", "assetallocation"]
 
 - The more a mutual fund charges in fees, the lower the expected return
 
-- Take caution where you get financial advice, most of it is just salesmanship
+- Take caution when you get financial advice. Most of it is just salesmanship
 
-- Schools have spent lots of money and hours trying to figure out which active managed mutual fund managers are likely to outperform in the future. They discovered 2 facts
+- Schools have spent lots of money and hours trying to figure out which actively managed mutual fund managers will likely outperform in the future. They discovered two facts
   - Funds with low fees tend to outperform the market
   - It is unreliable to assume that managers who have beaten the market in the past will continue to do so over the long term
 
-- On any given year, the index fund will be beat by many active managed funds. But in the long run, the index fund will be at the top
+- On any given year, many actively managed funds will beat the index fund. But in the long run, the index fund will be at the top
 
 - Reduce your estimated Social Security check at retirement by 60-70% and an increase of 5-7 years for retirement
 
-- Treat Social Security and defined pension plans as a separate account and don't use it in your equity/bond calculations
+- Treat Social Security and defined pension plans as a separate account and don't use them in your equity/bond calculations
 
-- On the short term, it is nearly impossible to predict the movement of the stock market. But over the long term, the performance of the stock market is predictable because it follows the growth of the U.S. economy
+- In the short term, it is nearly impossible to predict the movement of the stock market. But over the long term, the performance of the stock market is predictable because it follows the growth of the U.S. economy
 
 - Earnings Growth (Corporate Earnings or GDP) +Dividend (Yield)+Speculation (P/E ratio) = market return
 
-- In the short run, speculation creates the volatility in stock prices, but in the long term, economic growth is the real driver of returns. You can't guess what P/E ratio the market will assign in the future so don't try
+- In the short run, speculation creates volatility in stock prices, but economic growth is the real driver of returns in the long term. You can't guess what P/E ratio the market will assign in the future, so don't try
 
-- It is impossible to forecast the movement of the inflation rate, but you can limit risk by purchasing short term bonds. They don't have the volatility of long-term bonds. You do get extra yield from long term bonds but it does not justify the added interest rate risk
+- It is impossible to forecast the movement of the inflation rate, but you can limit risk by purchasing short-term bonds. They don't have the volatility of long-term bonds. You do get extra yield from long-term bonds, but it does not justify the added interest rate risk
 
-- Make sure your investments have a low correlation with each other or you don't get the benefits of diversification
+- Make sure your investments have a low correlation with each other, or you don't get the benefits of diversification
 
-- Use a long-term strategic asset allocation or "buy and hold". No predictions needed.
+- Use a long-term strategic asset allocation or "buy and hold." No predictions are needed.
 
-- A successful lifelong investment experience hinges on 3 critical steps
+- A successful lifelong investment experience hinges on three critical steps
   - Development of a prudent financial plan
   - The full implementation of that plan
   - The discipline to maintain that plan in good AND bad times
@@ -246,15 +246,15 @@ tags: ["investing", "assetallocation"]
 
 - Do not select mutual funds on past performance. Past performance is not an indication of future results
 
-- T-Bills are "risk free" but can still lose money due to taxes and inflation. If their - purchasing power doesn't keep up
+- T-Bills are "risk-free" but can still lose money due to taxes and inflation. If their - purchasing power doesn't keep up
 
 - High volatility means erratic returns. Low volatility means more consistent returns
 
-- You cannot eliminate all risk from a portfolio but you can reduce it
+- You cannot eliminate all risk from a portfolio, but you can reduce it
 
 - You will lose money during some times. Don't try to market time your way out of it. You can't
 
-- Do NOT abandon your plan because you lose money. In the last 50 years the market is up 4 years for every 1 down
+- Do NOT abandon your plan because you lose money. In the last 50 years, the market is up 4 years for every one down
 
 - Owning several asset classes is better than owning a few
 
@@ -262,23 +262,24 @@ tags: ["investing", "assetallocation"]
 
 - You can select a good asset allocation but not a perfect one. Don't overanalyze
 
-- It is not possible to know which asset classes will perform well at any given time, therefore it is important to retain ALL asset classes in your portfolio at all times and to rebalance these annually.
+- It is impossible to know which asset classes will perform well at any given time. Therefore, it is important to retain ALL asset classes in your portfolio at all times and to rebalance these annually.
 
 - Foreign stocks are great for US investors
 
 - They do not always move in correlation with the US market
 
-- They trade in foreign currency which is another diversifier
+- They trade in foreign currency, which is another diversifier
 
 - There is no known way to design a portfolio that is fully hedged against downturns while fully participating in the upswings
 
 - Look for mutual funds that have low expense ratios and no redemption fees
 
-- Prefer index mutual funds and ETF's
+- Prefer index mutual funds and ETFs
 
-- Stay away from high cost illiquid investments unless you really know what you are doing
+- Stay away from high-cost illiquid investments unless you know what you are doing
 
 - You have to stay invested during all market conditions to benefit from the gains
+
 
 # Examples of various AA based on complexity
 - Level 1 AA
