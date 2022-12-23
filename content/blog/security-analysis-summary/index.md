@@ -910,26 +910,26 @@ tags: ["investing", "valueinvesting"]
     - **trend figure**
       - earned per share on common stock each year for the past seven years. (Where necessary, earnings should be adjusted to present capitalization)
 
- - **public utility comparison**
-   - variations in depreciation rates are equally as important as in railroad maintenance ratios.
+- **public utility comparison**
+  - variations in depreciation rates are equally as important as in railroad maintenance ratios.
 
- - **industrial comparison**
-   - net earnings must be corrected for any known distortion or omission. This includes undistributed earnings and losses of subsidiaries. Depreciation rates should only serve to locate vast discrepancies, and not be used for exact comparisons.
-   - **capitalization**: bonds at par, preferred stock at market value (number of shares x market price), common stock at market value, total capitalization, the ratio of bonds to capitalization, the ratio of the aggregate market value of preferred to capitalization, the ratio of the aggregate market value of common to capitalization.
-   - **income account**
-     - gross sales, depreciation, net available for bond interest, bond interest, preferred dividend requirements, balance for common, margin of profit (ratio of 10 to 8), % earned on total capitalization (ratio of 10 to 4)
-   - **calculations**
-     - the number of times interest charges earned, I.P. number of times interest charges plus preferred dividends earned, earned on common, per share, earned on common % of market price, S.P. earned on preferred, per share, S.P. earned on preferred, % of market price, the ratio of gross to the aggregate market value of common, S.P. ratio of gross to the aggregate market value of preferred.
-   - **seven-year average**
-     - the number of times interest charges earned, earned on common stock per share, earned on common stock, % of the current market price.
-   - **trend figure**
-     - earned per share of common stock each year for the past seven years (adjustments in the number of shares outstanding to be made where necessary)
-     - dividend rate/dividend yield on common, preferred
-   - **balance sheet**
-     - cash assets, receivables (fewer reserves), inventories (less proper reserves), total current assets, total current liabilities, notes payable (including "bank loans" and bills payable"), net current assets, the ratio of current assets to current liabilities, ratio of inventory to sales, ratio or receivables to sales, net tangible assets available for total capitalization, cash asset value of common per share (deducting all prior obligations), the net current asset value of common per share (deducting all prior obligations), the net tangible asset value of common per share (deducting all prior obligations)
-   - **supplementary data**
-     - physical output, number of units, receipts per unit, cost per unit, profit per unit, total capitalization per unit, common stock valuation per unit
-     - miscellaneous: for example, number of stores operated, sales per store, profit per store, ore reserves, and the life of mine at the current (or average) production rate.
+- **industrial comparison**
+  - net earnings must be corrected for any known distortion or omission. This includes undistributed earnings and losses of subsidiaries. Depreciation rates should only serve to locate vast discrepancies, and not be used for exact comparisons.
+  - **capitalization**: bonds at par, preferred stock at market value (number of shares x market price), common stock at market value, total capitalization, the ratio of bonds to capitalization, the ratio of the aggregate market value of preferred to capitalization, the ratio of the aggregate market value of common to capitalization.
+  - **income account**
+   - gross sales, depreciation, net available for bond interest, bond interest, preferred dividend requirements, balance for common, margin of profit (ratio of 10 to 8), % earned on total capitalization (ratio of 10 to 4)
+  - **calculations**
+   - the number of times interest charges earned, I.P. number of times interest charges plus preferred dividends earned, earned on common, per share, earned on common % of market price, S.P. earned on preferred, per share, S.P. earned on preferred, % of market price, the ratio of gross to the aggregate market value of common, S.P. ratio of gross to the aggregate market value of preferred.
+  - **seven-year average**
+   - the number of times interest charges earned, earned on common stock per share, earned on common stock, % of the current market price.
+  - **trend figure**
+   - earned per share of common stock each year for the past seven years (adjustments in the number of shares outstanding to be made where necessary)
+   - dividend rate/dividend yield on common, preferred
+  - **balance sheet**
+   - cash assets, receivables (fewer reserves), inventories (less proper reserves), total current assets, total current liabilities, notes payable (including "bank loans" and bills payable"), net current assets, the ratio of current assets to current liabilities, ratio of inventory to sales, ratio or receivables to sales, net tangible assets available for total capitalization, cash asset value of common per share (deducting all prior obligations), the net current asset value of common per share (deducting all prior obligations), the net tangible asset value of common per share (deducting all prior obligations)
+  - **supplementary data**
+   - physical output, number of units, receipts per unit, cost per unit, profit per unit, total capitalization per unit, common stock valuation per unit
+   - miscellaneous: for example, number of stores operated, sales per store, profit per store, ore reserves, and the life of mine at the current (or average) production rate.
 
 
 ## market analysis and security analysis
