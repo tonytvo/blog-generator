@@ -155,12 +155,12 @@ tags: ["investing", "assetallocation"]
   - 3 Reasons to change your AA
     - Financial goal is well within reach
     - You realize you will not need all your money during your lifetime
-    - You risk tolerance isn't what you thought it was
+    - Your risk tolerance isn't what you thought it was
   - Any AA changes should require deep thinking and even-handed judgement. Don't make changes during times of duress
 
 - Allocate our investments across multiple asset classes to reduce overall portfolio risk
 - Invest broadly within each class to eliminate the risk of owning any single security
-- Keep your costs down including taxes
+- Keep your costs down, including taxes
 - Rebalance periodically
 
 - AA The Three-Step Approach
@@ -168,9 +168,9 @@ tags: ["investing", "assetallocation"]
   - How "conventional" of a portfolio do I want?
   - How much risk can I and do I want to take?
     - How much complexity can you tolerate and tracking error?
-    - The law of diminishing returns applies to asset classes. You get a diversification boost from the first several, after that, you are just amusing yourself
+    - The law of diminishing returns applies to asset classes. You get a diversification boost from the first several. After that, you are just amusing yourself
 
-- The more complex your AA, the more tracking error you will get vs the index (Like the S+P 500). You have to ask yourself how much will that bother you?
+- The more complex your AA, the more tracking error you will get vs the index (Like the S+P 500). Do you have to ask yourself how much that will bother you?
   - Tracking error means that your portfolio will behave very differently than everyone else's
   - If that bothers you, then you need a simpler portfolio. If it doesn't, then you can be more complex.
     - Increasing the number of asset classes will improve diversification but will also increase your work and tracking error
@@ -180,17 +180,18 @@ tags: ["investing", "assetallocation"]
   - Number of assets you wish to own
   - Tolerance for risk
 
-- Dividing your portfolio between assets with uncorrelated results increases returns while decreasing risks. Most important concept in portfolio theory
-  - Two assets with positive returns should not have persistent highly negative correlations.
+- Dividing your portfolio between assets with uncorrelated results increases returns while decreasing risks. A most important concept in portfolio theory
+  - Two assets with positive returns should not have persistent, highly negative correlations.
     - Mixing assets with uncorrelated returns reduces risk. You can find these.
-      - In the long run though, meaningful negative (inverse) correlations are never seen. That would be too good to be true if they did.
+      - In the long run, though, meaningful negative (inverse) correlations are never seen. That would be too good to be true if they did.
 
 - The optimal Asset Allocation of the last 20 years is unlikely to look anything like the one for the next 20 years.
   - The optimal AA can only be known in retrospect
 
 - Sticking by your AA policy through thick and thin I much more important than picking a "best" AA
 
-- A good idea is to decide on a static percentage of stocks, bonds, alternative investments that fit your needs and then maintain that allocation for a long, long, long time. Then rebalance as needed.
+- A good idea is to decide on a static percentage of stocks, bonds, and alternative investments that fit your needs and then maintain that allocation for a long, long, long time. Then rebalance as needed.
+
 
 # protect your wealth
 
