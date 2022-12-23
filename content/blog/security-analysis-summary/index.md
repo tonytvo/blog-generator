@@ -828,19 +828,20 @@ tags: ["investing", "valueinvesting"]
 
 ## corporate pyramiding
 
-- pyramiding in corporate finance is the creation of a speculative capital structure by means of a holding company or a series of holding companies. By such a construction, the organizers can control a large business with only little or no capital. Often the intention is to "cash in" speculative profits, and at the same time retain control.
+- pyramiding in corporate finance creates a speculative capital structure utilizing a holding company or a series of holding companies. The organizers can control a large business with little or no capital through such construction. Often the intention is to "cash in" speculative profits and, at the same time, retain control.
 
 - **evils of corporate pyramiding**
   - it results in the creation and sale to investors of large amounts of unsound senior securities
-  - the common stock of the governing holding companies is subject to deceptively rapid increases in earning power during favorable years, which can lead to disastrous public speculation.
-  - the position of control of someone who owns only little or no capital is bound to lead to irresponsible and unsound management
-  - it allows for deceiving accounting techniques in terms of indicated earnings, dividend return, and book value. This will again lead to speculation.
+  - the common stock of the governing holding companies is subject to deceptively rapid increases in earning power during favourable years, which can lead to disastrous public speculation.
+  - the position of control of someone who owns only a little or no capital is bound to lead to irresponsible and unsound management
+  - it allows for deceiving accounting techniques regarding indicated earnings, dividend return, and book value. This will again lead to speculation.
 
-- *overstatement of earnings:* holding companies can overstate their earnings power by valuing, at an artificially high prices, the stock dividends they receive from subsidiaries. Earning power can also be overstated using profits made from the sale of stock of subsidiary companies
+*overstatement of earnings:* holding companies can overstate their earnings power by valuing the stock dividends they receive from subsidiaries at an artificially high price. Earning power can also be overstated using profits made from the sale of stock of subsidiary companies
 - *distortion of dividend return*: stock dividends can be paid out with a market value exceeding current earnings.
-- *exaggeration of book value*. The exaggeration of book value may occur in cases where a holding company owns most of the shares of subsidiary consequently making it possible to manipulate the small amount of stock remaining in the market.
+- *exaggeration of book value*. The exaggeration of book value may occur in cases where a holding company owns most of the shares of a subsidiary, consequently making it possible to manipulate the small amount of stock remaining in the market.
 - **some holding companies not guilty of excessive pyramiding**
-  - legitimate reasons for their creation include: to permit unified and economical operations of separate units, to diversify investment and risk, and to gain certain technical advantages of flexibility and convenience. Any holding company should always be considered on its merits.
+  - legitimate reasons for their creation include: permitting unified and economical operations of separate units, diversifying investment and risk, and gaining certain technical advantages of flexibility and convenience. Any holding company should always be considered on its merits.
+
 
 ## discrepancies between price and value
 
