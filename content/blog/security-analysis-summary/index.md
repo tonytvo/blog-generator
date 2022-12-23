@@ -972,7 +972,7 @@ tags: ["investing", "valueinvesting"]
   - **The individual investor of large means**
     - although he has obvious technical advantages over the small investor, he suffers from three specific handicaps
       - the investor must not only consider United States Savings Bonds, but also the broader field of fixed-value investment. We believe that the strict application of quantitative tests, plus reasonably good judgement in the qualitative area should yield a satisfactory end result.
-      - possible inflation is more serious to him than to the small investor. As stocks to some extent are inflation-proof, they can ben held as a defensive measure.
+      - possible inflation is more serious to him than to the small investor. As stocks to some extent are inflation-proof, they can be held as a defensive measure.
       - the size of her investment unit is more likely to induce the large investor to concentrate on popular and active issues.
   - **investment by business corporations**
     - it seems fairly evident that other types of investments by business enterprises, be they in bonds or stocks, can offer an appreciably higher return only at the risk of loss and criticism.
