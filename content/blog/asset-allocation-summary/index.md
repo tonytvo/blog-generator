@@ -538,37 +538,38 @@ tags: ["investing", "assetallocation"]
 - REIT's and Precious Metals stocks can have a place in a portfolio even if they have lower expected returns
   - They are inflation hedges and likely to do well in an inflationary environment in which other stocks and bonds would be adversely affected
 
+
 # Behavioral
 
 - Realistic expectations are important to investment planning
 
-- Market volatility is more predictable than market return
+- Market volatility is more predictable than the market return
 
-- Investments with expected positive investment return and higher volatility have higher expected return
+- Investments with expected positive investment return and higher volatility have a higher expected return
 
 - All investments have risk. Even T-Bills which is inflation risk. There is no risk-free investment
 
 - No more than 12 funds because it gets too complex with higher fees and diminishing returns
 
-- Do not change your percentage of equity/bond based on what you think the market will do. Once you select a ratio stick with it.
+- Do not change your percentage of equity/bond based on what you think the market will do. Once you select a ratio, stick with it.
 
 - Most people can't stomach a 100% equity portfolio
 
 - A well-developed plan works only when the investor sticks to the plan through good and bad times
 
-- A sensible investment plan never fails an investor, the investor fails the plan
+- A sensible investment plan never fails an investor. The investor fails the plan
 
-- People tend to more optimistic about stocks after the market goes up and less after it goes down
+- People tend to be more optimistic about stocks after the market goes up and less after it goes down
 
 - Investors give too much weight to recent information
 
 - People tend to buy investments that have had a recent run-up in performance
 
-- Investors label investments good or bad depending of the price relative to where they bought it
+- Investors label investments good or bad depending on the price relative to where they bought it
 
 - People are reluctant to admit errors
 
-- Overconfident investors generally believe they have more knowledge and information than they actually do. Therefore, they tend to trade too much and underperform
+- Overconfident investors generally believe they have more knowledge and information than they do. Therefore, they tend to trade too much and underperform
 
 - Males tend to be overconfident
 
@@ -576,37 +577,37 @@ tags: ["investing", "assetallocation"]
 
 - Do not change your investment strategy during a bear market
 
-- If you can rebalance without hesitation even during bad markets, your risk tolerance is good
+- If you can rebalance without hesitation, even during bad markets, your risk tolerance is good
 
 - Investors tend to suffer from overconfidence
 
 - Many portfolio failures occur when investors take on too much risk
 
-- Recency bias – biggest mistake most experienced investors make
+- Recency bias – the biggest mistake most experienced investors make
   - We tend to extrapolate recent trends indefinitely into the future
   - Try as hard as you can to identify the current financial wisdom so that you can ignore it
-    - In 2000, when the book was published, US was doing better than foreign stocks. What were the experts saying at that time?
+    - In 2000, when the book was published, the US was doing better than foreign stocks. What were the experts saying at that time?
       - Stay at home for higher returns
       - Buy only companies you know
-      - Diversify abroad at your own peril
+      - Diversify abroad at your peril
       - If you do diversify abroad, only do where you can drink the water
-  - Beware of recency and do not be overly impressed with the asset class returns over periods of less than 2-3 decades.
+  - Beware of recency, and do not be overly impressed with the asset class returns over less than 2-3 decades.
 
-- If you are unhappy with the degree of risk in the portfolio, you have 2 ways to reduce it
-  - Employ less risky individual assets (Not a good idea) – like adding large cap for small cap stocks, domestic for foreign stocks, utility for industrial stocks. It changes the dynamics of the portfolio
-  - Stick with your basic asset allocation and replace some of your entire stock AA with short term bonds. (Good idea)
+- If you are unhappy with the degree of risk in the portfolio, you have two ways to reduce it
+  - Employ less risky individual assets (Not a good idea) – like adding a large cap for small-cap stocks, domestic for foreign stocks, and utility for industrial stocks. It changes the dynamics of the portfolio
+  - Stick with your basic asset allocation and replace some of your stock AA with short-term bonds. (Good idea)
     - Risk Dilution – if you believe that you have arrived at an effective stock allocation, it is generally a better idea to employ risk dilution as this leaves the stock AA undisturbed
-      - A conservative risk adverse strategy will almost always involve at least a small amount of exposure to very risky individual assets
+      - A conservative risk-averse strategy will almost always involve at least a small amount of exposure to very risky individual assets
 
-- The average investor suffers from overconfidence and thinks that they can beat the market, but this is a mathematical impossibility.
-  - The average investor must by definition obtain the market return minus expenses.
+- The average investor suffers from overconfidence and thinks they can beat the market, but this is a mathematical impossibility.
+  - The average investor must obtain the market return minus expenses.
 
 - Investors suffer from recency bias.
-  - When prices fall, investors estimate of future returns goes lower too. This is irrational.
+  - When prices fall, investors' estimate of future returns goes lower too. This is irrational.
   - Investors tend to overweight more recent data and underweight older data
-    - Most investors are "convex" traders in which they buy equities as they are rising and sell as they are falling.
+    - Most investors are "convex" traders who buy equities as they rise and sell as they fall.
     - The opposite is a "concave" investor who buys as prices fall and sells as they rise
-      - In a world dominated by convex traders, it is an advantage to be a concave trader, and vice versa.
+      - In a world dominated by convex traders, it is advantageous to be a concave trader and vice versa.
 
 
 # Where to put your money
