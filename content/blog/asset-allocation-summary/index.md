@@ -490,7 +490,7 @@ tags: ["investing", "assetallocation"]
 
 # Fixed Income
 
-- A diversified fixed income portfolio enhances return
+- A diversified fixed-income portfolio enhances return
 
 - Low-cost bond mutual funds are an ideal way to invest
 
@@ -505,9 +505,10 @@ tags: ["investing", "assetallocation"]
 
 - Lower quality bonds have higher credit risk. Lower credit rating = higher rates. Opposite true
 
-- High yield bonds have not only credit risks but the real danger that the issuers will default
+- High-yield bonds have not only credit risks but the real danger that the issuers will default
 
 - Municipal bonds are a good choice for people in higher tax brackets in taxable accounts
+
 
 # REIT
 
