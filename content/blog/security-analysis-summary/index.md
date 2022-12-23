@@ -935,19 +935,19 @@ tags: ["investing", "valueinvesting"]
 ## market analysis and security analysis
 
 - **2 kinds of market analysis**
-  - first kind of market analysis makes predictions exclusively from the past actions of the stock market. (the market is its own best forecaster)
+  - the first kind of market analysis makes predictions exclusively from the past actions of the stock market. (the market is its own best forecaster)
     - *implication of the first type of market analysis*
       - often called technical analysis.
       - chart-reading cannot be a science
       - it has not proved itself in the past to be a dependable method of making profits in the stock market.
       - its theoretical basis rests upon faulty logic or else upon mere assertion.
-  - the other type of machanical forecasting is based on factors outside the market.
+  - the other type of mechanical forecasting is based on factors outside the market.
 - **disadvantages of market analysis as compared with security analysis**
-  - in market analysis there are no margins of safety; you are either right or wrong, and if you are wrong, you lose money.
+  - in market analysis there are no margins of safety; you are either right or wrong and if you are wrong, you lose money.
   - another disadvantage is that profits made by trading in the market are for the most part realized at the expense of others who are trying to do the same thing. The market analyst can therefore be hopeful of success only upon the assumption that he will be more clever or perhaps luckier than his competitors.
-- **phophesies based on near-term prospects.**
-  - the argument is that if the outlook favors increased earnings, the issue should be bought in the expectation that it will increase in price when the actual profit reported.
-  - Graham is skeptical of ability of the analyst to forecast the market behavior of individual issues over the near-term future. This does not matter if he bases his predictions on the technical position of the market, the general outlook for business, or the specific outlook for the individual companies.
+- **prophesies based on near-term prospects.**
+  - the argument is that if the outlook favours increased earnings, the issue should be bought in the expectation that it will increase in price when the actual profit is reported.
+  - Graham is skeptical of the ability of the analyst to forecast the market behaviour of individual issues over the near-term future. This does not matter if he bases his predictions on the technical position of the market, the general outlook for business, or the specific outlook for individual companies.
   - more satisfactory results are to be obtained  by confining the positive conclusions of the security analyst to these fields:
     - the selection of standard senior issues that meet exacting safety tests.
     - the discovery of senior issues that merit an investment rating, but also have opportunities for appreciation in value.
@@ -960,24 +960,25 @@ tags: ["investing", "valueinvesting"]
       - in 1940, United States Savings Bonds have safety and accumulated income.
     - *investment for profit*
       - 4 approaches are open to both the small and large investor
-        - purchase of representative common stocks when the market level is clearly low, as judged by objective, long-term standards. This policy requires patience and courage, and is by no means free from the possibility of grave miscalculation
+        - purchase of representative common stocks when the market level is clearly low, as judged by objective, long-term standards. This policy requires patience and courage and is by no means free from the possibility of grave miscalculation
         - purchase of individual issues with special growth possibilities, when these can be obtained at reasonable prices in relation to actual accomplishment. The investor must remember that, when growth is generally expected, the price is rarely reasonable.
-        - purchase of well-secured privileged senior issues. A combination of adequate security with a promising conversion or similar right is a rare, but possible. A policy of careful selection in this field should bring good results, provided the investor has the patience and persistence needed to find her opportunities.
-        - purchase of securities welling well below intrinsic value. Intrinsic value takes into account not only past earnings and liquid asset values, but also future earning power, conservatively estimated. In other words, qualitative as well as quantitative elements.
+        - purchase of well-secured privileged senior issues. A combination of adequate security with a promising conversion or similar right is rare but possible. A policy of careful selection in this field should bring good results, provided the investor has the patience and persistence needed to find her opportunities.
+        - purchase of securities welling well below intrinsic value. Intrinsic value takes into account not only past earnings and liquid asset values but also future earning power, conservatively estimated. In other words, qualitative as well as quantitative elements.
       - there is logic in the belief that unless a man is qualified to advise others professionally, he should not prescribe for himself.
     - *speculation*
       - buying stock in new or virtually new ventures. The odds are so strongly against him that he might as well throw three-quarters of the money out of the window and keep the rest in the bank.
       - trading in the market: Graham believes that, regardless of preparation and method, success in trading is accidental and temporary, or else due to a highly uncommon talent.
       - purchase of "growth stocks" at generous prices. the chances of individual success are much brighter here than in the other forms of speculation. That said, as it is considered speculation, this approach is still inherently dangerous.
-  - **the individual investor of large means**
+  - **The individual investor of large means**
     - although he has obvious technical advantages over the small investor, he suffers from three specific handicaps
-      - the investor must not only consider United States Savings Bonds, but also the broader field of fixed-value investment. We believe that strict application of quantitative tests, plus reasonably good judgement in the qualitative area should yield a satisfactory end result.
-      - possible inflation is more serious to him than to the small investor. As stocks to some extend are inflation proof, they can ben held as a defensive measure.
+      - the investor must not only consider United States Savings Bonds, but also the broader field of fixed-value investment. We believe that the strict application of quantitative tests, plus reasonably good judgement in the qualitative area should yield a satisfactory end result.
+      - possible inflation is more serious to him than to the small investor. As stocks to some extent are inflation-proof, they can ben held as a defensive measure.
       - the size of her investment unit is more likely to induce the large investor to concentrate on popular and active issues.
   - **investment by business corporations**
     - it seems fairly evident that other types of investments by business enterprises, be they in bonds or stocks, can offer an appreciably higher return only at the risk of loss and criticism.
   - **institutional investment**
-    - an institution that can manage to get along on the low income provided by high-grade, fixed value issues should confine its holdings to this field. It can be doubted if the better performance of common stock indexes over the past periods will, in itself, warrant the heavy responsibilities and the recurring uncertainties that are inseparable from a common-stock investment program.
+    - an institution that can manage to get along on the low income provided by high-grade, fixed-value issues should confine its holdings to this field. It can be doubted if the better performance of common stock indexes over the past periods will, in itself, warrant the heavy responsibilities and the recurring uncertainties that are inseparable from a common-stock investment program.
+
 
 # The Relationship Between Owners and Managers
 - The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
