@@ -981,11 +981,11 @@ tags: ["investing", "valueinvesting"]
 
 
 # The Relationship Between Owners and Managers
-- The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and take these lessons into account when making investments.
+- The interests of shareholders and those of management do not always coincide. Most shareholders defer to the wisdom of management without demanding their rights as owners of the business. In the case of companies whose common stocks sell for less than the liquidating value, the shareholders may be best served by the liquidation of the company, but that would put management out of a job, so shareholders cannot depend on management to make the right decision. Investors need to educate themselves about management practices and consider these lessons when investing.
 
-- Remember, however, that "analysis connotes the careful study of available facts with the attempt to draw conclusions therefrom based on established principles and sound logic. It is part of the scientific method. But in applying analysis to the field of securities, [you will] encounter the serious obstacle that investment is by nature not an exact science." Still, professional analysis is "not only useful, but indispensable."
+- Remember, however, that "analysis connotes the careful study of available facts with the attempt to draw conclusions based on established principles and sound logic. It is part of the scientific method. But in applying analysis to the field of securities, [you will] encounter the serious obstacle that investment is by nature, not an exact science." Still, professional analysis is "not only useful but indispensable."
 
-- it is the stockholders who own the company; the officers are only paid employees. The directors are elected and virtually trustees, whose legal duty is to act solely on behalf of the business owners.
+- it is the stockholders who own the company; the officers are only paid, employees. The directors are elected and virtually trustees whose legal duty is to act solely on behalf of the business owners.
 
 ## implications of liquidating value, stock holder-management relationships
 
@@ -993,16 +993,16 @@ tags: ["investing", "valueinvesting"]
   - in some situations, the management may explicitly have interests in conflict with those of the shareholders
     - compensation to officers - salaries, bonuses, options to buy stock
     - expansion of the business - involving the right to larger salaries and the acquisition of more power and prestige by the officers
-    - payment of dividends - should the money earned remain under the  control of the management or pass into the hands of the stockholders?
-    - continuance of the stockholders' investment in the company - should the business continue as before, although unprofitable, or should part of the capital be withdrawn, or should the business be would up completely.
+    - payment of dividends - should the money earned remain under the control of the management or pass into the hands of the stockholders?
+    - continuance of the stockholders' investment in the company - should the business continue as before, although unprofitable, or should part of the capital be withdrawn, or should the business be wound up completely?
     - information to stockholders - should those in control be able to benefit through having information not generally given to stockholders?
   - **wisdom of continuing the business should be considered**
-    - management, by definition, is reluctant to return capital to investors, even though the capital might be more useful there. The reason is resource scarcity. For example, to pay the bills when company has financial problems later.
-    - whether or not the business should continue is a decision for stockholders, not management. A logical reason to consider is when the market price is below the liquidation level. After all, that means that the market is wrong, or that the management is wrong in keeping the enterprise alive.
+    - management, by definition, is reluctant to return capital to investors, even though the capital might be more useful there. The reason is resource scarcity. For example, to pay the bills when the company has financial problems later.
+    - whether or not the business should continue is a decision for stockholders, not management. A logical reason to consider this is when the market price is below the liquidation level. After all, that means that the market is wrong or the management is wrong in keeping the enterprise alive.
   - **various possible moves for correcting market prices for shares:**
-    - if directors are convinced that continuation is preferable to liquidation, the reasons leading to this conclusion should be supplied. One solution to maintain the business and limit the risk for investors is a new dividend policy. The rate should be at least equivalent to the liquidation value to ensure that stockholders do not to suffer as a result of this decision to keep the business alive. A third option could be to distribute excess cash back to stockholders.
-  - liquidation of an unprofitable business with substantial assets is almost certain to realize more than the existing market price. The reason is that market prices are governed by earnings; the liquidation process is based on assets.
-  - *repurchase of share pro rata from shareholders:* if capital is no longer required, it can be advantageous to distribute it back through share buyback.
+    - if directors are convinced that continuation is preferable to liquidation, the reasons leading to this conclusion should be supplied. A new dividend policy is one solution to maintain the business and limit the risk for investors. The rate should be equivalent to the liquidation value to ensure that stockholders do not suffer due to this decision to keep the business alive. A third option could be to distribute excess cash back to stockholders.
+  - liquidating an unprofitable business with substantial assets is almost certain to realize more than the existing market price. The reason is earnings govern that market prices; the liquidation process is based on assets.
+  - *repurchase of share pro rata from shareholders:* if capital is no longer required, it can be advantageous to distribute it back through a share buyback.
 
 
 # Themes of value investing
