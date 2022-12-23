@@ -1067,6 +1067,7 @@ truth seeker
 
 - *the stock market is a voting machine rather than a weighing machine.*
 
+
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/buffett-partnership-letters-by-warren-buffett/)
 - https://www.youtube.com/watch?v=jMuX_-hE7SQ&ab_channel=TheSwedishInvestor
