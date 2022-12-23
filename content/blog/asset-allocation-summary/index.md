@@ -613,7 +613,7 @@ tags: ["investing", "assetallocation"]
 # Where to put your money
 
 - Tax Deferred
-  - Corportate bonds
+  - Corporate bonds
   - CD
   - High turnover mutual funds
   - REITs
