@@ -471,9 +471,9 @@ tags: ["investing", "assetallocation"]
 
 - International equity provides currency diversification
 
-- Global equity invests in both US and international. Not usually a good idea unless you have a very small amount of money want diversification from 1 fund
+- Global equity invests in both US and internationally. Not usually a good idea unless you have a very small amount of money and want diversification from 1 fund
 
-- Good idea to have both US AND International equities in your portfolio at all times. You don't know which one will win. US won from 1970-2001 then International has won since
+- Good idea to have both US AND International equities in your portfolio at all times. You don't know which one will win. The US won from 1970-2001 then the International has won since
 
 - Canada's economy is weighted heavily toward finance, energy and basic materials. Canada has lots of natural resources and investing in them acts as a hedge against commodity prices
 
@@ -481,11 +481,12 @@ tags: ["investing", "assetallocation"]
 
 - Generally, the allocation to international stocks is about 30% of the equity portion of your portfolio
 
-- Independent studies prove the size and value premium (F+F study above) works in international stocks like it does with US. This means international small cap is a good idea too
+- Independent studies prove the size and value premium (F+F study above) works in international stocks as it does with the US. This means an international small cap is a good idea too
 
 - Foreign stocks are subject to currency, political, trading, custody and regulatory risk. You must understand these risks. But they do provide diversification to a portfolio
 
-- Foreign stocks belong in everyone portfolio. The primary benefit is to reduce standard deviation or risks
+- Foreign stocks belong in everyone's portfolio. The primary benefit is to reduce standard deviation or risks
+
 
 # Fixed Income
 
