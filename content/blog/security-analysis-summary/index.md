@@ -1010,29 +1010,30 @@ tags: ["investing", "valueinvesting"]
 ## Focusing on the differences between investing and speculating
   - failure to distinguish one from another has led to tragedies.
   - investments are bonds, outright purchases, permanent holding, for income, in safe securities.
-  - speculations are stocks, purchases on margin, for a "quick turn", for profit, in risky issues.
-  - specific standards have to be applied to give meaning to the term "safety"
+  - speculations are stocks, purchases on margin, for a "quick turn," for profit, in risky issues.
+  - specific standards have to be applied to give meaning to the term "safety."
   - an investment operation promises the safety of the principal and a satisfactory return. Operations not meeting these requirements are speculative.
-  - an investment operation is one that can be justified on both qualitative and quantitative grounds.
-  - investment is founded on the past and present, speculation relies on the future to improve.
-  - for the investor, the future is to be guarded against rather than profit from.
-  - for the speculator, he anticipates the future will be better than the past.
+  - an investment operation can be justified on both qualitative and quantitative grounds.
+  - investment is founded on the past and present, and speculation relies on the future to improve.
+  - for the investor, the future is to be guarded against rather than profited from.
+  - for the speculator, anticipates the future will be better than the past.
   - "intelligent speculation" is taking a measured risk that seems justified after analysis
   - "unintelligent speculation" is taking a risk without adequate examination of the situation
   - safety is measured in terms of the ability of the issuer to meet obligations
     - that ability should be assessed in terms of depression, not prosperity
-  - lack of safety is not compensated by high dividends
+  - high dividends do not compensate lack of safety
   - Avoiding trouble is better than seeking protection after it occurs.
-  - a sound investment must be able to withstand adversity. Enterprises that have withstood adversity may be favored by investors.
+  - a sound investment must be able to withstand adversity. Investors may favour enterprises that have withstood adversity.
   - investment for profit, where growth is generally expected, the price is rarely reasonable.
   - the investor of small means may opt to step out of his role and become a speculator. He may also opt to regret his actions.
 ## Analysis skills
-  - The term analysis indicates a scientific and methodical study of facts, which results in logical conclusions. But investment is not an exact science, and success derives in part from personal skills and chance.
+  - The term analysis indicates a scientific and systematic study of facts, which results in logical conclusions. But investment is not an exact science, and success derives partly from personal skills and chance.
   - analytical judgments are reached by applying standards to facts
   - analyst must preserve a sense of proportion, analyze what matters and ignore what trivial
 truth seeker
-- there are 3 types of variables used to rank stocks: fundamental, growth, and profitability.
-- the most common variables used to select stocks are those that relate the price of the shares to some fundamental company information: share price to earnings, share price to cash flow, share price to book value, share price to sales, or share price to dividends.
+- there are three variables used to rank stocks: fundamental, growth, and profitability.
+- the most common variables used to select stocks are those that relate the price of the shares to some essential company information: share price to earnings, share price to cash flow, share price to book value, share price to sales, or share price to dividends.
+
 
 # Quotes
 
