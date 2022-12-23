@@ -428,30 +428,30 @@ tags: ["investing", "assetallocation"]
 
 # Equities
 
-- An investment in a total US stock market fund is a solid foundation on which to base a US stock market allocation. Total Index are heavily weighted toward large cap stocks
+- An investment in a total US stock market fund is a solid foundation for a US stock market allocation. Total Index is heavily weighted toward large-cap stocks
 
 - Take your age x 1.5 for your % AA to a TDF. Example. 40 x 1.5 = 60% allocation to TDF
 
-- Midcap indexes are highly correlated with total stock market indexes and are therefore a poor diversifier. You don't need them
+- Midcap indexes are highly correlated with total stock market indexes and are, therefore, a poor diversifier. You don't need them
 
 - 25% max dedicated toward factor tilts
 
-- If you want to tilt, above all, be patient and stick to your guns. Don't chase returns. Once you decide to tilt, you need to stick with that strategy and not bailout of it
+- If you want to tilt, be patient and stick to your guns. Don't chase returns. Once you decide to tilt, you need to stick with that strategy and not bailout of it
 
 - The enemy of a good asset allocation is the quest for a perfect one. Fight the urge to be perfect
 
-- Study in 1992 By Fama and French – Performance of a broadly diversified US stock portfolio relied on 3 primary risks axis to determine its return. 95% accuracy as to what the portfolio would return
-  - Market risk or Beta – all portfolios move up or down in relation to the total stock market
-  - Percent of small cap in the portfolio by weight – small stocks have higher returns and do not always have correlation to the total stock market
+- Study in 1992 By Fama and French – Performance of a broadly diversified US stock portfolio relied on three primary risks axis to determine its return. 95% accuracy as to what the portfolio would return
+  - A market risk or Beta – all portfolios move up or down to the total stock market
+  - Percent of small cap in the portfolio by weight – small stocks have higher returns and do not always correlate with the total stock market
   - Percent of value orientation – value stocks have a higher return than growth and do not correlate with growth stocks
 
-- Small cap value index has outperformed growth with less standard deviation from 1979-2009
+- Small-cap value index has outperformed growth with less standard deviation from 1979-2009
   - Having a 50/50 value/growth index during this time added no return and increased standard deviation
 
-- Small cap stocks have higher expected returns but also higher standard deviation than large cap
+- Small-cap stocks have higher expected returns but also higher standard deviation than large-cap
   - This occurs in foreign markets too
 
-- Small Cap value along with total stock market is a good choice in your portfolio
+- Small Cap value, along with the total stock market, is a good choice in your portfolio
 
 - 4 Layers of Mutual Fund Costs
   - Expense Ratio
@@ -460,11 +460,13 @@ tags: ["investing", "assetallocation"]
   - Market-Impact Costs
 
 - ETFs
-  - Advantages – Can be traded throughout the day, do not generate capital gains taxes
+  - Advantages – Can be traded throughout the day, does not generate capital gains taxes
   - Disadvantages – Incur commissions and spreads
 
 - Stocks outperform almost all other assets in the long run because you are buying a piece of our almost constantly growing economy
   - But then investors make the mistake of thinking the most profitable stocks to own must be those of the most rapidly growing companies (Growth Stocks)
+
+
 # International
 
 - International equity provides currency diversification
