@@ -891,45 +891,45 @@ tags: ["investing", "valueinvesting"]
 
 - it should be remembered, however, that a preferred stock is always less attractive, logically considered, than a common stock making the same showing.
 
-- most recent numbers would require more attention, and secondly, teh analyst should aim to learn as much as possible about the underlying reasons for the difference in performance.
+- most recent numbers would require more attention, and secondly, the analyst should aim to learn as much as possible about the underlying reasons for the difference in performance.
 
-- as a general rule, the less homogeneous the industry, the more attention needs to be paid to the qualitative factors when making comparisons.
+- as a general rule, the less homogeneous the industry, the more attention must be paid to the qualitative factors when making comparisons.
 
-- the analyst must consider qualitative factors and perhaps also allow for the lack of homogeneity. The technique of comparative analysis may facilitate his task, but he must still expect to be wrong from time to time. Still, with intelligence and prudence, he should yield better results than the guesses of typical stock buyer.
+- the analyst must consider qualitative factors and perhaps also allow for the lack of homogeneity. The comparative analysis technique may facilitate his task, but he must still expect to be wrong from time to time. Still, with intelligence and prudence, he should yield better results than the guesses of typical stock buyers.
 
 - **observations on the railroad comparison**
-  - whether the average period should be seven years, shorter, or longer is an individual choice. In theory, it should be long enough to cover all cyclical fluctuations, but not so long that it includes data that are totally out of date.
+  - whether the average period should be seven years, shorter, or longer is an individual choice. In theory, it should be long enough to cover all cyclical fluctuations but not so long that it includes totally out-of-date data.
   - numbers to compare/look for:
-    - **capitalization**: fixed charges, effective debt (fixed charges multiplied by 22), preferred stock at market (number of shares x market price), common stock at market, total capitalization, ratio of effective debt to total capitalization, ratio of preferred stock to total capitalization, ratio of common stock to total capitalization
-    - **income account**: gross revenues, ratio of maintenance to gross, ratio of railway operating income (net after taxes) to gross, ratio of fixed charges to gross, ratio of balance for common to gross
-    - **calculations**: number of times fixed charges earned, I.P. number of times fixed charges plus preferred dividends earned, earned on common stock per share, earned on common stock % of market price, ratio of gross to aggregate market value of common stock, earned on preferred stock, per share, earned on preferred stock, % of market price, ratio of gross to aggregate market value of preferred stock, credit or debit to earnings for undistributed profit or loss of subsidiaries
+    - **capitalization**: fixed charges, effective debt (fixed charges multiplied by 22), preferred stock at the market (number of shares x market price), common stock at the market, total capitalization, the ratio of effective debt to total capitalization, the ratio of preferred stock to total capitalization, the ratio of common stock to total capitalization
+    - **income account**: gross revenues, the ratio of maintenance to gross, the ratio of railway operating income (net after taxes) to gross, the ratio of fixed charges to gross, the ratio of balance for common to gross
+    - **calculations**: number of times fixed charges earned, I.P. number of times fixed charges plus preferred dividends earned, earned on common stock per share, earned on common stock % of market price, the ratio of gross to the aggregate market value of the common stock, earned on preferred stock, per share, earned on preferred stock, % of market price, the ratio of gross to the aggregate market value of the preferred stock, credit or debit to earnings for undistributed profit or loss of subsidiaries
     - **seven-year average figures**
-      - earned on common stock per share, earned on common stock, % of current market price of common, earned on preferred stock per share, earned on preferred stock, % of current market price of preferred, number of times net deductions earned, number of times fixed charges earned, number of times net deductions plus preferred dividends earned, number of times fixed charges plus preferred dividends earned
+      - earned on common stock per share, earned on the common stock, % of the current market price of common, earned on preferred stock per share, earned on preferred stock, % of the current market price of preferred, number of times net deductions earned, number of times fixed charges earned, number of times net deductions plus preferred dividends earned, number of times fixed charges plus preferred dividends earned
     - **dividends**
-      - dividend rate, yield on common and preferred
+      - dividend rate, the yield on common and preferred
     - **trend figure**
       - earned per share on common stock each year for the past seven years. (Where necessary, earnings should be adjusted to present capitalization)
 
  - **public utility comparison**
-   - variations in depreciation rates are equally as important as variations in the railroad maintenance ratios.
+   - variations in depreciation rates are equally as important as in railroad maintenance ratios.
 
  - **industrial comparison**
    - net earnings must be corrected for any known distortion or omission. This includes undistributed earnings and losses of subsidiaries. Depreciation rates should only serve to locate vast discrepancies, and not be used for exact comparisons.
-   - **capitalization**: bonds at par, preferred stock at market value (number of shares x market price), common stock at market value, total capitalization, ratio of bonds to capitalization, ratio of aggregate market value of preferred to capitalization, ratio of aggrgate market value of common to capitalization.
+   - **capitalization**: bonds at par, preferred stock at market value (number of shares x market price), common stock at market value, total capitalization, the ratio of bonds to capitalization, the ratio of the aggregate market value of preferred to capitalization, the ratio of the aggregate market value of common to capitalization.
    - **income account**
      - gross sales, depreciation, net available for bond interest, bond interest, preferred dividend requirements, balance for common, margin of profit (ratio of 10 to 8), % earned on total capitalization (ratio of 10 to 4)
    - **calculations**
-     - number of times interest charges earned, I.P. number of times interest charges plus preferred dividends earned, earned on common, per share, earned on common % of market price, S.P. earned on preferred, per share, S.P. earned on preferred, % of market price, ratio of gross to aggregate market value of common, S.P. ratio of gross to aggregate market value of preferred.
-   - **seven year average**
-     - number of times interest charges earned, earned on common stock per share, earned on common stock, % of current market price.
+     - the number of times interest charges earned, I.P. number of times interest charges plus preferred dividends earned, earned on common, per share, earned on common % of market price, S.P. earned on preferred, per share, S.P. earned on preferred, % of market price, the ratio of gross to the aggregate market value of common, S.P. ratio of gross to the aggregate market value of preferred.
+   - **seven-year average**
+     - the number of times interest charges earned, earned on common stock per share, earned on common stock, % of the current market price.
    - **trend figure**
-     - earned per share of common stock each year for past seven years (adjustments in number of shares outstanding to be made where necessary)
+     - earned per share of common stock each year for the past seven years (adjustments in the number of shares outstanding to be made where necessary)
      - dividend rate/dividend yield on common, preferred
    - **balance sheet**
-     - cash assets, receivables (less reserves), inventories (less proper reserves), total current assets, total current liabilities, notes payable (including "bank loans" and bills payable"), net current assets, ratio of current assets to current liabilities, ratio of inventory to sales, ratio or receivables to sales, net tangible assets available for total capitalization, cash asset value of common per share (deducting all prior obligations), net current asset value of common per share (deducting all prior obligations), net tangible asset value of common per share (deducting all prior obligations)
+     - cash assets, receivables (fewer reserves), inventories (less proper reserves), total current assets, total current liabilities, notes payable (including "bank loans" and bills payable"), net current assets, the ratio of current assets to current liabilities, ratio of inventory to sales, ratio or receivables to sales, net tangible assets available for total capitalization, cash asset value of common per share (deducting all prior obligations), the net current asset value of common per share (deducting all prior obligations), the net tangible asset value of common per share (deducting all prior obligations)
    - **supplementary data**
      - physical output, number of units, receipts per unit, cost per unit, profit per unit, total capitalization per unit, common stock valuation per unit
-     - miscellaneous: for example, number of stores operated; sales per store, profit per store, ore reserves, life of mine at current (or average) rate of production.
+     - miscellaneous: for example, number of stores operated, sales per store, profit per store, ore reserves, and the life of mine at the current (or average) production rate.
 
 
 ## market analysis and security analysis
