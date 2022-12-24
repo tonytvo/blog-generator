@@ -160,7 +160,7 @@ tags: ["investing", "valueinvesting"]
 - the soundness of the bond rests on the ability of the issuing corporation to support its financial obligations and much less on the potential value of its property for a lien. With that in mind, there is no purpose in devising a minimal pledged level of property value to support the bond.
 - **special types of obligations**
   - **equipment obligations**:
-    - equipment trust certificates may be issued against specific items of use by the corporation, for instance, again, a car. Although these certificates promise safety at the time of sale, the debtor may only receive 50% of what he expects.
+    - equipment trust certificates may be issued against specific items of use by the corporation, for instance, against, a car. Although these certificates promise safety at the time of sale, the debtor may only receive 50% of what he expects.
   - **collateral-trust bonds**
     - these are bonds secured by common stock or other bonds, often of the same corporation.
     - these bonds offer very little security if issued from the same corporation or subsidiary.
