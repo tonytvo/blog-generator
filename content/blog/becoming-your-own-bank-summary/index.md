@@ -29,33 +29,34 @@ tags: ["strategy"]
     - We all need a place for our savings – in this case, there is no better safety net than a whole life insurance policy. You know you are guaranteed your life, and your beneficiaries will get the death benefit. Additionally, you know that while you are still alive, you can access your savings anytime and manage them in the way you need.
 
 
-# becoming your own banker
+# becoming your banker
 
-- Any type of transaction involves the flow of money, but where does that money come from? It comes from one pool of money managed mainly by banks, insurance companies, corporations, and a few individuals worldwide. The cash flows from the pool to help us meet our needs are primarily out of our control and back into the banking system.
+- Any transaction involves money flow, but where does that money come from? It comes from one pool of money managed mainly by banks, insurance companies, corporations, and a few individuals worldwide. The cash flows from the pool to help us meet our needs are primarily out of our control and back into the banking system.
 
-- The concept of infinite banking is about strategically using your whole life insurance policy from a mutual insurance company as a personal endless banking system. In other words, Infinite Banking is essentially being your own banker.
+- The concept of infinite banking is strategically using your whole life insurance policy from a mutual insurance company as a personal endless banking system. In other words, Infinite Banking is essentially being your banker.
 
-- It means that you can borrow the money using your policy’s cash value as long as you own a whole life insurance policy. By this logic, as long as you pay your premiums regularly (thus ensure you grow your cash value), you won’t need to borrow money from a bank ever again.
+- It means you can borrow the money using your policy’s cash value as long as you own a whole life insurance policy. By this logic, as long as you pay your premiums regularly (thus ensuring you grow your cash value), you won’t need to borrow money from a bank again.
 
-- The infinite banking concept works on a couple of principles. Your end goal should be to build the value of your own bank, which can be done by repeating the process of lending and repaying money stored in your cash value of a whole life insurance policy.
+- The infinite banking concept works on a couple of principles. Your end goal should be to build the value of your bank, which can be done by repeating the process of lending and repaying money stored in your cash value of a whole life insurance policy.
 
-- The Infinite banking concept has money benefits. Some of them include freeing yourself from banks and worrying about the loan rates and possibilities. If you like to be entirely in charge of your finances, the infinite banking concept will allow you just that – to become your own banker.
+- The Infinite banking concept has money benefits. Some include freeing yourself from banks and worrying about loan rates and possibilities. If you like to be entirely in charge of your finances, the infinite banking concept will allow you just that – to become your banker.
 
-- If you wondered what the infinite part of infinite banking relates to – it goes back to the whole life insurance payout. As you know, a whole life insurance policyholder is guaranteed a payout on their deathbed, as long as they’ve been paying the premiums regularly. That means that after the policy owner passes away, the beneficiaries will be given the payout and an opportunity to continue the infinite banking concept.
+- If you wondered what the infinite part of infinite banking relates to – it goes back to the whole life insurance payout. As you know, a whole life insurance policyholder is guaranteed a payout on their deathbed as long as they’ve been paying the premiums regularly. That means that after the policy owner passes away, the beneficiaries will be given the payout and an opportunity to continue the infinite banking concept.
 
 - You “finance” everything you buy. As a result, either you pay interest or lose out on the interest you could have earned.
 
-- Create an entity. An example of an entity would be a life insurance policy. These are always created to have value. The person who owns the policy has absolute control over how the money is lent and borrowed. The insurance company can only invest money if the policy owner does not use the money and pays interest instead. At the end of the year, the company analyses the policy’s value, and a dividend is declared, which cannot be taxed. “Dividend is then used to buy additional paid-up insurance at cost, then the result is continuous compounding of an ever-increasing base”
+- Create an entity. An example of an entity would be a life insurance policy. These are always created to have value. The person who owns the policy has absolute control over how the money is lent and borrowed. The insurance company can only invest money if the policy owner does not use the money and pays interest instead. At the end of the year, the company analyses the policy’s value, and a dividend is declared, which cannot be taxed. “Dividend is then used to buy additional paid-up insurance at cost. Then the result is continuous compounding of an ever-increasing base.”
 
 - **How does Infinite Banking Work**
-  - Infinite banking concept consists of:
+  - Infinite banking concept consists of the following:
     - Overfunding (with after-tax funds) a high cash value whole life insurance policy from a life insurance industry
     - Accumulation of Cash Value(tax-free) throughout the years you are a policyholder of your Whole Life insurance policy
-    - Tax-Free Loans taken out against your whole life insurance policy’s cash value to use for your financial expenses
-  - This concept allows you to borrow the money against your cash value in the same way you would borrow from a bank. Additionally, you are also ensuring that your whole life insurance policy is earning dividends at the same time.
-  - The primary purpose of IBC is to help you gain freedom in your finances, meaning you have complete control of your savings, and you are guaranteed that your money won’t decrease in value. Not to mention the tax-free benefits that come along with it. When you put everything on paper, you can understand why becoming your own banker is an appealing choice.
+    - Tax-Free Loans were taken out against your whole life insurance policy’s cash value to use for your financial expenses
+  - This concept allows you to borrow the money against your cash value like you would borrow from a bank. Additionally, you are also ensuring that your whole life insurance policy is earning dividends at the same time.
+  - The primary purpose of IBC is to help you gain freedom in your finances, meaning you have complete control of your savings and are guaranteed that your money won’t decrease in value. Not to mention the tax-free benefits that come along with it. When you put everything on paper, you can understand why becoming your own banker is appealing.
   - [Comprehensive guide to life insurance](https://wealthnation.io/blog/life-insurance-dividends/)
   - [high early cash value, dividend-paying whole life insurance](https://www.youtube.com/watch?v=R6d8lJU2CkY)
+
 
 ## Creating Your Own Banking System Through Dividend-Paying Life Insurance
 
