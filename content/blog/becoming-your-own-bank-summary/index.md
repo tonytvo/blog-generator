@@ -58,25 +58,26 @@ tags: ["strategy"]
   - [high early cash value, dividend-paying whole life insurance](https://www.youtube.com/watch?v=R6d8lJU2CkY)
 
 
-## Creating Your Own Banking System Through Dividend-Paying Life Insurance
+## Creating Your Banking System Through Dividend-Paying Life Insurance
 
 - First, he stresses that everyone is aware that they finance everything they buy; either the interest is paid to someone else, or you give up the interest you could have earned instead. 
 
 - He then explains the concept of Economic Value Added (EVA). EVA is the amount of profit left over after the cost of the company’s capital is deducted from the operating profit. Before this concept was introduced, companies were borrowing capital from banks and paying interest but treating their capital as having no value. Once this concept was understood, profitability increased. 
 
-- Creating a product begins with engineering, and the engineers of the life insurance companies are actuaries. They deal with the people that have been through a screening process for policies, work with a theoretical lifespan and provide that information to rate makers. These people determine what the company will need to charge the client to pay the death claim down the line. These matters are then turned over to lawyers to make contracts sold to clients. Finally, administration workers hold these matters all together.
+- Creating a product begins with engineering, and the engineers of the life insurance companies are actuaries. They deal with the people who have been through a policy screening process, work with a theoretical lifespan and provide that information to rate makers. These people determine what the company will need to charge the client to pay the death claim. These matters are then turned over to lawyers to make contracts sold to clients. Finally, administration workers hold these matters all together.
 
 - To make an insurance plan work, the policy owner makes payments, and the company uses that money to produce the benefits promised in the contract (e.g., by investing in real estate). However, the policy owner has total control over how the money in the policy is invested. Therefore, money can only be invested by the insurance company if the policy owner does not use the money and pays interest instead. If the owner does not do so, the company has access to an increasing pool of money.
 
-- Sometimes the policy owners die, and the money is given to them from this pool of money. However, policies are generally made to benefit the company. “That is because the cash value is guaranteed to ultimately reach the face amount of the policy by age 100 of the Insured. There is an ever-decreasing “net amount at risk” for the company” (pg. 37). 
+- Sometimes, the policy owners die, and the money is given to them from this pool of money. However, policies are generally made to benefit the company. “That is because the cash value is guaranteed to reach the face amount of the policy by the age of 100 of the Insured. There is an ever-decreasing “net amount at risk” for the company” (pg. 37). 
 
 - Essentially, the contracts are designed to do well no matter what. So once the dividend is declared, the policy can never lose value in the future.
 
-- There can be periods where expected earnings are lower; businesses would turn to stockholders in this case, but this does not work for life insurance. Instead, capital is added to counteract this. For example, if accountants report that they have collected $1.10 from someone’s policy but found they only needed 80 cents to deliver the benefit, then the directors would decide what to do with the 30 cents. Most would put a portion of this into a contingency fund for unexpected risk and distribute the remaining dividend. Distributing the dividend is not a taxable event. If the client used the dividend to purchase additional paid-up insurance, it would result in an “ever-increasing tax-deferred accumulation of cash values that support an ever-increasing death benefit”
+- There can be periods where expected earnings are lower; businesses would turn to stockholders in this case, but this does not work for life insurance. Instead, capital is added to counteract this. For example, if accountants report that they have collected $1.10 from someone’s policy but found they only needed 80 cents to deliver the benefit, then the directors would decide what to do with the 30 cents. Most would put a portion of this into a contingency fund for unexpected risk and distribute the remaining dividend. Distributing the dividend is not a taxable event. If the client used the dividend to purchase additional paid-up insurance, it would result in an “ever-increasing tax-deferred accumulation of cash values that support an ever-increasing death benefit.”
 
 - [sun life cash value loan options](./sun-life-cash-value-loan-options.pdf)
   - it seems like accessing the policy's cash value using a collateral assignment is interesting
 - [6 ways to capture cash value life insurance](https://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp)
+
 
 # problems 
 
