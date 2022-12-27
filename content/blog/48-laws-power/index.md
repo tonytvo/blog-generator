@@ -12,11 +12,12 @@ tags: ["strategy"]
 
 # Never put too much trust in friends, learn how to use enemies.
 
-- Friends often conceal things in order to avoid conflict; this can be dangerous.
+- Friends often conceal things to avoid conflict; this can be dangerous.
   - Keep friends for friendship, but work with the skilled and competent.
   - Whenever you can, bury the hatchet with an enemy, and make a point of putting him in your service.
   - Use enemies to define your cause more clearly to the public, even framing it as a struggle of good against evil.
-  - It is better off to know who and where your opponents are than to not know where your real enemies lie.
+  - It is better to know who and where your opponents are than not to know where your real enemies lie.
+
 
 # Conceal your intentions.
 
