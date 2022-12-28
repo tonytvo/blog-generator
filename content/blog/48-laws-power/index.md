@@ -18,18 +18,17 @@ tags: ["strategy"]
   - Use enemies to define your cause more clearly to the public, even framing it as a struggle of good against evil.
   - It is better to know who and where your opponents are than not to know where your real enemies lie.
 
-
 # Conceal your intentions.
 
 - Use decoyed objects of desire and red herrings to throw people off the scent:
-  - If at any point in the deception you practice people have the slightest suspicions to your intentions, all is lost. Do not give them the chance to sense what you are up to: Throw them off the scent by dragging red herrings across the path. Use false sincerity, send ambiguous signals, set up misleading objects of desire. Unable to distinguish the genuine from the false, they cannot pick out your real goal.
-  - Hide your intentions not by closing up, but by talking endlessly about your desires and goals - just false ones.
+  - If people have the slightest suspicions of your intentions at any point in the deception you practice, all is lost. Do not give them a chance to sense what you are up to: Throw them off the scent by dragging red herrings across the path. Use false sincerity, send ambiguous signals, and set up misleading objects of desire. Unable to distinguish the genuine from the false, they cannot pick your real goal.
+  - Hide your intentions not by closing up but by talking endlessly about your desires and goals - just false ones.
 
 - Use smoke screens to disguise your actions:
-  - Deception is always the best strategy, but the best deceptions require a screen of smoke to distract people attention from your real purpose. The bland exterior—like the unreadable poker face—is often the perfect smoke screen, hiding your intentions behind the comfortable and familiar. If you lead the sucker down a familiar path, he won’t catch on when you lead him into a trap.
+  - Deception is always the best strategy, but the best deceptions require a screen of smoke to distract people's attention from your real purpose. The bland exterior—like the unreadable poker face—is often the perfect smoke screen, hiding your intentions behind the comfortable and familiar. If you lead the sucker down a familiar path, he won’t catch on when you lead him into a trap.
   - A helpful or honest gesture can divert from a deception.
   - Patterns will also help mask a deception.
-  - Often the key to deception is being bland and acting with humility.
+  - Often, the key to deception is being bland and acting humble.
 
 # Always say less than necessary.
 
