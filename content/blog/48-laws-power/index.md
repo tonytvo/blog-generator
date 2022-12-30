@@ -8,7 +8,7 @@ tags: ["strategy"]
 
 # Never outshine the master.
 
-- Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite—inspire fear and insecurity. Make your masters appear more brilliant than they are and you will attain the heights of power.
+- Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents, or you might accomplish the opposite—inspire fear and insecurity. Make your masters appear more brilliant than they are, and you will attain the heights of power.
 
 # Never put too much trust in friends, learn how to use enemies.
 
