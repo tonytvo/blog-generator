@@ -43,13 +43,13 @@ tags: ["strategy"]
 - A good reputation can save you much - a lot of work is done in advance by your reputation.
 - Once established, always take the high road when attacked.
 
-# Court attention at all cost.
+# Court attention at all costs.
 - *Surround your name with the sensational and scandalous*
-  - Draw attention to yourself by creating an unforgettable, even controversial image. Court scandal. Do anything to make yourself seem larger than life and shine more brightly than those around you. Make no distinction between kinds of attention—notoriety of any sort will bring you power. Better to be slandered and attacked than ignored.
-  - At the beginning of your rise, spend all your energy on attracting attention.  The quality of attention is irrelevant.
+  - Draw attention to yourself by creating an unforgettable, even controversial, image—court scandal. Do anything to make yourself seem larger than life and shine more brightly than those around you. Make no distinction between kinds of attention—notoriety of any sort will bring you power. Better to be slandered and attacked than ignored.
+  - At the beginning of your rise, spend all your energy attracting attention.  The quality of attention is irrelevant.
 - *Create an air of mystery*
-  - In a world growing increasingly banal and familiar, what seems enigmatic instantly draws attention. Never make it too clear what you are doing or about to do. Do not show all your cards. An air of mystery heightens your presence; it also creates anticipation—everyone will be watching you to see what happens next. Use mystery to beguile, seduce, even frighten.
-  - Remember: Most people are upfront, can be read like an open book, take little care to control their words or image, and are hopelessly predictable. By simply holding back, keeping silent, occasionally uttering ambiguous phrases, deliberately appearing inconsistent, and acting odd in the subtlest of ways, you will emanate an aura of mystery.
+  - In an increasingly banal and familiar world, what seems enigmatic instantly draws attention. Never make it too clear what you are doing or about to do. Do not show all your cards. An air of mystery heightens your presence and creates anticipation—everyone will be watching you to see what happens next. Use mystery to beguile, seduce, and even frighten.
+  - Remember: Most people are upfront, can be read like an open book, take little care to control their words or image, and are hopelessly predictable. You will emanate an aura of mystery by simply holding back, keeping silent, occasionally uttering ambiguous phrases, deliberately appearing inconsistent, and acting odd in the subtlest of ways.
   - Do not let mystery turn to an air of deceit; it must always seem a game, playful, unthreatening.
 
 # Get others to do the work for you, but always take the credit.
