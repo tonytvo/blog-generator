@@ -131,11 +131,12 @@ tags: ["strategy"]
 # how to start building your own banking system
 
 - **Expanding the System to Accommodate All Income**
-  - When someone receives a payment, they will often deposit it into someone else’s bank. Even if you have your bank account, the institution lends your money to others, and the interest you pay means that the money will be gone forever.
+  - When someone receives a payment, they will often deposit it into someone else’s bank. Even if you have your bank account, the institution lends your money to others, and the interest you pay means the money will be gone forever.
   - Through infinite banking, the same process will occur, except the individual will make loans to themself and pay them back to the policy. It is the same payment as a banking institution, except it happens tax-free, and the interest never leaves the account.
-  - So far, Nash has looked at using the life insurance banking system to finance cars, but it can be used to finance most things. You can use the same process to finance comprehensive and collision insurance. To self-insure, you would have to determine how much more you need to put into life insurance policies to assume the risk. This can be determined by getting a quote from an auto insurer. If they quote $750 per year for a $500 deductible, you would pay your life insurance $1,000 for zero deductible. This can also be applied to a house mortgage. If enough money has been accumulated to pay off the mortgage, you can borrow and pay it off while making sure you pay the policies you would have been paying the mortgage company.
+  - So far, Nash has looked at using the life insurance banking system to finance cars, but it can be used to finance most things. You can use the same process to finance comprehensive and collision insurance. To self-insure, you must determine how much more you need to put into life insurance policies to assume the risk. This can be determined by getting a quote from an auto insurer. If they quote $750 annually for a $500 deductible, you will pay your life insurance $1,000 for zero deductible. This can also be applied to a house mortgage. If enough money has been accumulated to pay off the mortgage, you can borrow and pay it off while making sure you pay the policies you would have been paying the mortgage company.
 
 - [roadmap with milestone](https://www.lifeinsure.com/becoming-your-own-banker/)
+
 
 # equipment financing
 
