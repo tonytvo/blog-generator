@@ -55,7 +55,7 @@ tags: ["strategy"]
 # Get others to do the work for you, but always take the credit.
 
 - You must secure the credit for yourself.
-- Learn to take advantage of others work to further your own cause.
+- Learn to take advantage of others' work to further your own cause.
 - Use the past, a vast storehouse of knowledge and wisdom.  Learn this and you will look like a genius.
 - Note: be sure to know when letting other people share the credit furthers your cause.
 
