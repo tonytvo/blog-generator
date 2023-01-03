@@ -140,17 +140,18 @@ tags: ["strategy"]
 
 # equipment financing
 
-- Nash explains other examples where the individual can use the life insurance system to finance equipment for his logging business. This can be done by borrowing from the cash value within the policy. In each scenario, the individual must set up a loan repayment plan that equals or exceeds what the individual would be paying to the finance company he used in the past. Doing this enables more cash flow which becomes capital and can be lent to more people down the line.
+- Nash explains other examples where the individual can use the life insurance system to finance equipment for his logging business. This can be done by borrowing from the cash value within the policy. In each scenario, the individual must set up a loan repayment plan that equals or exceeds what the individual would be paying to the finance company he used in the past. Doing this enables more cash flow which becomes capital and can be lent to more people.
 
-- It is also essential that the individual does not finance from too little capital. To avoid this, it would be optimal for the individual to add additional policies to finance from. It is also important to continue to capitalize the policy for four years or longer.  
+- It is also essential that the individual does not finance from too little capital. To avoid this, it would be optimal for the individual to add additional policies to finance from. It is also important to continue to capitalize on the policy for four years or longer.  
 
-- Another strategy to improve the capital is to backdate the policy for six months. Pay the premium now, but ask the company to date the policy six months ago so that there will be less time before you can use the policy to cut out the finance companies from the business equation.
+- Another strategy to improve the capital is to backdate the policy for six months. Pay the premium now, but ask the company to date the policy six months ago so there will be less time before you can use the policy to cut out the finance companies from the business equation.
 
-- The next improvement would be self-insurance with comprehensive and collision damage. It is also advisable to self-insure for liability. By doing this, the individual would be making what the finance company and the casualty insurance company are making, all tax-free.
+- The next improvement would be self-insurance with comprehensive and collision damage. It is also advisable to self-insure for liability. By doing this, the individual would be making tax-free what the finance company and the casualty insurance company are making.
 
-- The individual would also benefit better from owning the policies himself, instead of putting it under the ownership of the company or corporation. The individual can purchase the trucks himself and lease them to the company.
+- The individual would also benefit better from owning the policies himself instead of putting them under the ownership of the company or corporation. The individual can purchase the trucks himself and lease them to the company.
 
-- All interest in these scenarios has been paid by withdrawing additional dividend credits. The system can further be improved by selling the equipment down the line. In the end, the individual in this example would have over $3,500,000 available at the age of 66. 
+- All interest in these scenarios has been paid by withdrawing additional dividend credits. The system can further be improved by selling the equipment down the line. In the end, the individual in this example would have over $3,500,000 available at age 66. 
+
 
 # capitalizing your system and implementation
 
