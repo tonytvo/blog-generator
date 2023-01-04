@@ -155,54 +155,55 @@ tags: ["strategy"]
 
 # capitalizing your system and implementation
 
-- A great way to get started is to find a consultant or coach familiar with the Infinite Banking Concept. They will be there to help mentor you in the process. It is also a good idea to organize or join a club of like-minded people that meets periodically to support each other in the process.
+- A great way to get started is to find a consultant or coach familiar with the Infinite Banking Concept. They will be there to help mentor you in the process. It is also a good idea to organize or join a club of like-minded people that meets periodically to support each other.
 
-- However, the most important thing you can do is get started as soon as possible. “The longer you wait, the more you have penalized yourself”
+- However, the most important thing you can do is get started as soon as possible. “The longer you wait, the more you have penalized yourself.”
 
 - **The Cost of Acquisition**
   - Many businesses realize that it is necessary to finance a business, but they do not address the cost of acquisition of finance. Unfortunately, it is often costly to do this.
   - Nash looks at the example in the book “Iacocca.” Lee Iacocca shared that he would not have gotten involved in Chrysler if he had known how bad off it was. To get out of it, he had to get a government-backed loan. To get this, he had to gather the highest-paid members of the company to persuade lobbyists. Months later, they had succeeded in doing so. 
 
-  - However, they only had the government back guaranteed. They also had to get the money from the bank and only was given one-third of the amount at a time. Then, when the next third was needed, they had to go through the same costly and time-consuming lobbying process.
+  - However, they only had the government's back guaranteed. They also had to get money from the bank and only was given one-third of the amount at a time. Then, when the next third was needed, they had to go through the same costly and time-consuming lobbying process.
 
-  - This example shows the cost of the acquisition of finance; the cost of finance in addition to this. The ones that paid for all the activity were Chrysler customers.
+  - This example shows the cost of the acquisition of finance, the cost of finance. The ones that paid for all the activity were Chrysler customers.
 
 - **“But, I Can Get a Higher Rate of Return”**
 
-  - When someone is introduced to the Infinite Banking Concept, many know that they can get a higher rate of return from a different investment. However, that is not the point of becoming your own banker. The focus is not on the investment yield. Instead, it is on how to finance things you buy with your own banking system.
+  - When someone is introduced to the Infinite Banking Concept, many know they can get a higher rate of return from a different investment. However, that is not the point of becoming your banker. The focus is not on the investment yield. Instead, it is on how to finance things you buy with your banking system.
 
   - Nash demonstrates this idea through the following example: 
 
-    - Investor “A” invests $100,000 for one year and earns 20 per cent. So the net yield would be $14,000.
+    - Investor “A” invests $100,000 for one year and earns 20 percent. So the net yield would be $14,000.
 
-    - Investor “B” builds cash values of $100,000 into a dividend-paying life insurance plan, then borrows from the system for eight per cent and makes the same investment. The net yield would be $8,400. However, this investor would also earn $8,000 from the banking system, so that the total yield would be $16,400. There will be a delay when first setting up the banking system, but it will be beneficial in the long run.
+    - Investor “B” builds cash values of $100,000 into a dividend-paying life insurance plan, then borrows from the system for eight percent and makes the same investment. The net yield would be $8,400. However, this investor would earn $8,000 from the banking system, so that the total yield would be $16,400. There will be a delay when first setting up the banking system, but it will be beneficial in the long run.
 
 - **A Different Look at the Monetary Value of a College Degree**
   - In this chapter, Nash looks at the value of a college degree. Growing up, he was told that getting a degree would offer more monetary value, but he suspects this may not be the case.  
 
-  - First, he looks at where the desire for everyone to get a college degree originated. He traces it back to World World II. Many students wanted to get their degrees because they feared that those returning from war would return to civilian life and ruin the economy. Therefore, getting a college degree became more of a necessity. Nonetheless, the cost to get one has risen past the economy’s inflation.
+  - First, he looks at where the desire for everyone to get a college degree originated. He traces it back to World World II. Many students wanted to get their degrees because they feared that those returning from war would return to civilian life and ruin the economy. Therefore, getting a college degree became more of a necessity. Nonetheless, the cost of getting one has risen past the economy’s inflation.
 
   - To look at a degree’s monetary value, Nash compares the cost of a degree to the importance of teaching a child to use dividend-paying whole life insurance.
 
-  - For his example, he assumed that the college degree would get $20,000 per year for four years. If you put the same amount into the high-premium policy, the dividends would be used to pay the base cost for the premium after four years. If that individual retired at 70, the plan’s cash value would be around $2,457,303, and $145,000 dividend credits could be withdrawn for retirement purposes. If the individual was insured to 85, they could have withdrawn a total of $2,175,000, and if they died that age, they could also get a death benefit of approximately $2,175,000.
+  - For his example, he assumed that the college degree would get $20,000 per year for four years. If you put the same amount into the high-premium policy, the dividends would be used to pay the base cost for the premium after four years. If that individual retired at 70, the plan’s cash value would be around $2,457,303, and $145,000 dividend credits could be withdrawn for retirement purposes. If the individual was insured to 85, they could have withdrawn a total of $2,175,000; if they died that age, they could also get a death benefit of approximately $2,175,000.
 
-  - Nash does not believe that a college degree would produce as high of a financial result. The insured individual could further benefit themselves by using the policies to finance cars and mortgages, and the like.
+  - Nash does not believe that a college degree would produce as high of a financial result. The insured individual could further benefit by using the policies to finance cars, mortgages, and the like.
 
-  - “So, in evaluating just the financial benefits of the college degree at a cost of $80,000 vs. putting that same $80,000 into high-premium whole life insurance, I don’t believe the degree is as valuable. As a matter of fact, the probability of the college-educated person ever learning the benefits of “banking” through the use of whole life insurance is not very good”.
+  - “So, in evaluating the financial benefits of the college degree at $80,000 vs. putting that same $80,000 into high-premium whole life insurance, I don’t believe the degree is as valuable. The probability of the college-educated person ever learning the benefits of “banking” through whole life insurance is not very good.”
 
   - Nash notes that this does not mean he is against higher education but believes being educated on using life insurance policies to your advantage will likely provide more value. 
 
 - **What if I am Uninsurable?**
 
-  - For some people, given various circumstances, they may not be insurable. Nash offers an alternative an individual could do instead to get the benefits of being his own banker while being uninsurable.
+  - For some people, it may not be insurable given various circumstances. Nash offers an alternative an individual could do instead to get the benefits of being his banker while being uninsurable.
 
-  - He provides the example of a 50-year-old father who cannot be insured. Yet, he has a 23-year-old daughter who is in excellent health. He puts $20,000 per year into a policy on her, $10,000 into the policy, and $10,000 into a Paid-Up Additions Rider.
+  - He provides the example of a 50-year-old father who cannot be insured. Yet, he has a 23-year-old daughter who is in excellent health. He puts $20,000 per year into a policy on her, $10,000, and $10,000 into a Paid-Up Additions Rider.
 
   - After 20 years, they decided to stop premium payments and draw out $28,500 per year in passive income from the cash values of the Paid-Up Additions. This is tax-free and equals the base cost for the policy.
 
   - After another 15 years, the father is 85, has taken out dividend additions, and wants to continue getting tax-free income. He can do this by switching to policy loans. If he dies at 85, he will receive $1,110,726, which will be given to his daughter.
 
-  - The policy is still there for the daughter to finance parts of her life. However, if she chooses not to, she would still be able to surrender the dividend additions in the amount of $150,000 for the rest of her life. If she dies at 90, this would mean she has received $3,150,000 in passive income and will be giving a $2,378,391 death benefit to future generations.
+  - The policy is still there for the daughter to finance parts of her life. However, if she chooses not to, she would still be able to surrender the dividend additions for $150,000 for the rest of her life. If she dies at 90, this would mean she has received $3,150,000 in passive income and will give future generations a $2,378,391 death benefit.
+
 
 # Debunking the myths about Infinite Banking
 
