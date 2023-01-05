@@ -73,7 +73,7 @@ tags: ["strategy"]
 
 - The most important person to avoid: the sufferer of chronic dissatisfaction.
 - Examine someone’s history to recognize these people: turbulence, a long line of broken relationships, etc.
-- The other side of infection is equally valid: there are those who attract happiness by their good cheer, natural buoyancy, and intelligence.
+- The other side of infection is equally valid: some attract happiness through good cheer, natural buoyancy, and intelligence.
 - Use this rule to counteract your own undesirable or weak qualities.
 
 # Learn to keep people dependent on you.
