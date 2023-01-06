@@ -79,7 +79,7 @@ tags: ["strategy"]
 # Learn to keep people dependent on you.
 
 - Do not mistake independence for power; power requires a relationship.
-- To cultivate this: possess a talent and creative skill that simply cannot be replaced.
+- To cultivate this: possess a talent and creative skill that cannot be replaced.
 
 # Use selective honesty and generosity to disarm your victim.
 
