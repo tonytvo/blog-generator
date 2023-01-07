@@ -85,7 +85,7 @@ tags: ["strategy"]
 
 - Learn to give before you take - an actual gift, a generous act, a kind favour, an “honest” admission - whatever it takes.
 - Selective honesty is best employed on your first encounter with someone.
-- A history of deceit will cause any act of generosity to be viewed with suspicion.  Counter by embracing your reputation for dishonesty openly.
+- A history of deceit will cause any act of generosity to be viewed with suspicion—counter by openly embracing your reputation for dishonesty.
 
 # When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.
 
