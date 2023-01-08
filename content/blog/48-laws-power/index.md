@@ -89,9 +89,9 @@ tags: ["strategy"]
 
 # When asking for help, appeal to people’s self-interest, never to their mercy or gratitude.
 
-- Do not be subtle: you have valuable knowledge to share, you can make him rich, you can make him live longer and happier.
-- Train yourself to see inside other’s needs and interests and desires.
-- Distinguish differences among powerful people and figure out what makes them tick.  When they ooze greed, do not appeal to charity; when they want to look charitable and noble, do not appeal to their greed.
+- Do not be subtle: you have valuable knowledge to share, you can make him rich, and you can make him live longer and happier.
+- Train yourself to see inside others’ needs and interests, and desires.
+- Distinguish differences among powerful people and figure out what makes them tick.  When they ooze greed, they do not appeal to charity; when they want to look charitable and noble. Do not appeal to their greed.
 
 # Pose as a friend, work as a spy.
 
