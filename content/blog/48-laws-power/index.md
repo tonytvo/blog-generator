@@ -111,7 +111,7 @@ tags: ["strategy"]
 - In the beginning, make yourself not scarce but omnipresent.
 
 # Keep others in suspended terror: cultivate an air of unpredictability.
-- Humans are creatures of habit with an insatiable need to see familiarity in other people’s actions. Your predictability gives them a sense of control. Turn the tables: Be deliberately unpredictable. Behavior that seems to have no consistency or purpose will keep them off-balance, and they will wear themselves out trying to explain your moves. Taken to an extreme, this strategy can intimidate and terrorize.
+- Humans are creatures of habit with an insatiable need to see familiarity in other people’s actions. Your predictability gives them a sense of control. Turn the tables: Be deliberately unpredictable. Behaviour that seems to have no consistency or purpose will keep them off-balance, and they will wear themselves out trying to explain your moves. Taken to an extreme, this strategy can intimidate and terrorize.
 - Unsettle those around you and keep the initiative by being unpredictable.
 - Predictability and patterns can be used as a tool when deceiving.
 
