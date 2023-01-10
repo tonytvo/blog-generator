@@ -116,8 +116,8 @@ tags: ["strategy"]
 - Predictability and patterns can be used as a tool when deceiving.
 
 # Do not build fortresses to protect yourself - isolation is dangerous.
-- The world is dangerous and enemies are everywhere—everyone has to protect themselves. A fortress seems the safest. But isolation exposes you to more dangers than it Protects you from—it cuts you off from valuable information, it makes you conspicuous and an easy target. Better to circulate among people, find allies, mingle. You are shielded from your enemies by the crowd.
-- Retreat to a fortress and you lose contact with your sources of power, and your knowledge of what is going on.
+- The world is dangerous and enemies are everywhere—everyone has to protect themselves. A fortress seems the safest. But isolation exposes you to more dangers than it Protects you from—it cuts you off from valuable information, and it makes you conspicuous and an easy target. Better to circulate among people, find allies, and mingle. You are shielded from your enemies by the crowd.
+- Retreat to a fortress and you lose contact with your sources of power and your knowledge of what is going on.
 - If you need time to think, then choose isolation as a last resort, and only in small doses.
 
 # Know who you’re dealing with - do not offend the wrong person.
