@@ -121,13 +121,13 @@ tags: ["strategy"]
 - If you need time to think, then choose isolation as a last resort, and only in small doses.
 
 # Know who you’re dealing with - do not offend the wrong person.
-- Being able to recognize the type of person you’re dealing with is critical.  Here are the five most dangerous:
+- Recognizing the type of person you’re dealing with is critical.  Here are the five most dangerous:
   - **The Arrogant and Proud Man**: any perceived slight will invite vengeance.  Flee these people.
   - **The Hopelessly Insecure Man**: similar to the proud man, but will take revenge in smaller bites over time.  Do not stay around him if you have harmed or deceived him.
-  - **Mr. Suspicion**: sees the worst in others and imagines that everyone is after him.  Easy to deceive - get him to turn on others.
-  - **The Serpent with a Long Memory**: if hurt, he will show no anger, but will calculate and wait. Recognize by his calculation and cunning in other areas of life - he is usually cold and unaffectionate.  Crush him completely or flee.
-  - **The Plain, Unassuming, and Often Unintelligent Man**: this man will not take the bait because he does not recognize it. Do not waste your resources trying to deceive him.  Have a test ready for a mark - a joke, a story. If reaction is literal, this is the type you are dealing with.
-  - **Never rely on instincts when judging someone; instead gather concrete knowledge.  Also never trust appearances.**
+  - **Mr. Suspicion**: sees the worst in others and imagines everyone is after him.  Easy to deceive - get him to turn on others.
+  - **The Serpent with a Long Memory**: if hurt, he will show no anger but will calculate and wait. Recognize by his calculation and cunning in other areas of life - he is usually cold and unaffectionate.  Crush him completely or flee.
+  - **The Plain, Unassuming, and Often Unintelligent Man**: this man will not take the bait because he does not recognize it. Do not waste your resources trying to deceive him.  Have a test ready for a mark - a joke, a story. If the reaction is literal, this is the type you are dealing with.
+  - **Never rely on instincts when judging someone; instead, gather factual knowledge.  Also never trust appearances.**
 
 # Do not commit to anyone.
 - It is the fool who always rushes to take sides. Do not commit to any side or cause but yourself. By maintaining your independence, you become the master of others—playing people against one another, making them pursue you.
