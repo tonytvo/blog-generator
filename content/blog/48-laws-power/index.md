@@ -138,7 +138,7 @@ tags: ["strategy"]
 - Part 2: Do not commit to anyone - stay above the fray.
   - Do not let others drag you into their fights.  Seem interested and supportive, but neutral.
   - Staying neutral allows you to keep initiative, and take advantage of the situation when one side starts to lose.
-  - You only have so much time and energy - every moment wasted on affairs of others subtracts from your strength.
+  - You only have so much time and energy - every moment wasted on the affairs of others subtracts from your strength.
   - Make sure to maintain emotional objectivity in the affairs of others.
 
 # Play a sucker to catch a sucker - seem dumber than your mark.
