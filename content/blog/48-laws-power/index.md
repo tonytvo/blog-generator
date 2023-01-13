@@ -143,12 +143,12 @@ tags: ["strategy"]
 
 # Play a sucker to catch a sucker - seem dumber than your mark.
 - No one likes feeling stupider than the next person. The trick, then, is to make your victims feel smart—and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives.
-- Intelligence, taste and sophistication are all things you should downplay, or reassure others that they are more advanced than you.
+- Intelligence, taste, and sophistication are all things you should downplay or reassure others that they are more advanced than you.
 
 # Use the surrender tactic: transform weakness into power.
-- When you are weaker, never fight for honor’s sake; choose surrender instead. Surrender gives you time to recover, time to torment and irritate your conqueror, time to wait for his power to wane. Do not give him the satisfaction of fighting and defeating you—surrender first. By turning the other cheek you infuriate and unsettle him. Make surrender a tool of power.
+- When you are weaker, never fight for honour’s sake; choose surrender instead. Surrender gives you time to recover, torment and irritate your conqueror, and wait for his power to wane. Do not give him the satisfaction of fighting and defeating you—surrender first. By turning the other cheek, you infuriate and unsettle him. Make surrender a tool of power.
 
-- The essence of the surrender tactic: inwardly you stay firm, but outwardly you bend.  Your enemy will be bewildered when properly executed, as they will be expecting retaliation.
+- The essence of the surrender tactic: inwardly, you stay firm, but outwardly you bend.  Your enemy will be bewildered when properly executed, as they will be expecting retaliation.
 
 # Concentrate your forces.
 - Conserve your forces and energies by keeping them concentrated at their strongest point. You gain more by finding a rich mine and mining it deeper, than by flitting from one shallow mine to another—intensity defeats extensity every time. When looking for sources of power to elevate you, find the one key patron, the fat cow who will give you milk for a long time to come.
