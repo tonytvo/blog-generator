@@ -162,14 +162,14 @@ tags: ["strategy"]
   - **Practice Nonchalance**: never appear to be working too hard; your talent must appear to flow naturally, with ease.  Showing your blood and toil is a form of ostentation.
   - **Be Frugal with Flattery**: flatter indirectly by being modest.
   - **Arrange to be Noticed**: pay attention to your appearance, and find a way to create a subtly distinctive style and image.
-  - **Alter Your Style and Language According to the Person You’re Dealing With**: acting the same with all will be seen as condescension by those below you, and offend those above you.
+  - **Alter Your Style and Language According to the Person You’re Dealing With**: acting the same with all will be seen as condescension by those below you and offend those above you.
   - **Never Be the Bearer of Bad News**: the messenger is always killed.  Bring only glad news.
   - **Never Affect Friendliness and Intimacy with Your Master**: he does not want a friend for a subordinate.
-  - **Never Criticize Those Above You Directly**: err on the side of subtlety and gentleness.
+  - **Never Criticize Those Above You Directly**: err on subtlety and gentleness.
   - **Be Frugal in Asking Those Above You for Favours**: it is always better to earn your favours.  Do not ask for favours on another person’s behalf.
   - **Never Joke About Appearances or Taste**
   - **Do Not Be the Court Cynic**: express admiration for the good work of others.
-  - **Be Self-Observant**: you must train yourself to evaluate your own actions.
+  - **Be Self-Observant**: you must train yourself to evaluate your actions.
   - **Master Your Emotions**
   - **Fit the Spirit of the Times**: your spirit and way of thinking must keep up with the times, even if the times offend your sensibilities.
   - **Be a Source of Pleasure**: if you cannot be the life of the party, at least obscure your less desirable qualities.‍
