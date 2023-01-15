@@ -190,8 +190,8 @@ tags: ["strategy"]
 - Part 2: Make use of the cat’s-paw.
   - Use those around you to complete dirty tasks to hide your intentions and accomplish your goals while keeping your hands clean.
   - An essential element in this strategy is concealing your goal.
-  - Devices like this are best for approaching those in power, or planting information.
-  - You may also offer yourself as the cat’s-paw to gain power.
+  - Devices like this are best for approaching those in power or planting information.
+  - You may also offer yourself as the cat’s paw to gain power.
   - Note: you must be very careful in using this tactic, as being revealed would be disastrous.
 
 # Play on people’s need to believe to create a cult like following.
