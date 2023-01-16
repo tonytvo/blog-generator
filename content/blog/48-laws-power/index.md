@@ -194,15 +194,15 @@ tags: ["strategy"]
   - You may also offer yourself as the cat’s paw to gain power.
   - Note: you must be very careful in using this tactic, as being revealed would be disastrous.
 
-# Play on people’s need to believe to create a cult like following.
+# Play on people’s need to believe in creating a cult-like following.
 
 - **How to create a cult in 5 easy steps:**
-  - **Keep It Vague, Keep it Simple**: use words to attract attention, with great enthusiasm.  Fancy titles for simple things are helpful, as are the use of numbers and the creation of new words for vague concepts.  All of these create the impression of specialized knowledge. People want to hear there is a simple solution to their problems.
+  - **Keep It Vague, Keep it Simple**: use words to attract attention with great enthusiasm.  Fancy titles for simple things are helpful, as are the use of numbers and the creation of new words for vague concepts.  All of these create the impression of specialized knowledge. People want to hear there is a simple solution to their problems.
   - **Emphasize the Visual and the Sensual over the Intellectual**: Boredom and skepticism are two dangers you must counter.  The best way to do this is through theatre, creating a spectacle.  Appeal to all the senses, and use the exotic.
-  - **Borrow the Forms of Organized Religion to Structure the Group**: create rituals, organize followers into hierarchy, rank them in grades of sanctity, give them names and titles, ask them for sacrifices that fill your coffers and increase your power.  Talk and act like a prophet.
+  - **Borrow the Forms of Organized Religion to Structure the Group**: create rituals, organize followers into a hierarchy, rank them in grades of sanctity, give them names and titles, and ask them for sacrifices that fill your coffers and increase your power.  Talk and act like a prophet.
   - **Disguise Your Source of Income**: make your wealth seem to come from the truth of your methods.
-  - **Set Up an Us-Versus-Them Dynamic**: first make sure your followers believe they are part of an exclusive club, unified by common goals.  Then, manufacture the notion of a devious enemy out to ruin you.
-  - People are not interested in the truth about change - that it requires hard work - but rather they are dying to believe something romantic, otherworldly.
+  - **Set Up an Us-Versus-Them Dynamic**: first, make sure your followers believe they are part of an exclusive club unified by common goals.  Then, manufacture the notion of a devious enemy out to ruin you.
+  - People are not interested in the truth about change - that it requires hard work - but rather, they are dying to believe something romantic, or otherworldly.
 - The most effective cults mix religion with science.
 
 # Enter action with boldness.
