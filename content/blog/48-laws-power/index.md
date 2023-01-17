@@ -208,14 +208,14 @@ tags: ["strategy"]
 # Enter action with boldness.
 
 - **Some of the most pronounced psychological effects of boldness and timidity:**
-  - **The Bolder the Lie the Better**: the sheer audacity of a bold lie makes the story more credible, distracting from its inconsistencies.  When entering a negotiation, ask for the moon and you’ll be surprised how often you get it.
-  - **Lions Circle the Hesitant Prey**: everything depends on perception, and if on a first encounter you demonstrate a willingness to compromise, back down, and retreat, you will be pushed around without mercy.
+  - **The Bolder the Lie, the Better**: the sheer audacity of a bold lie makes the story more credible, distracting from its inconsistencies.  When entering a negotiation, ask for the moon, and you’ll be surprised how often you get it.
+  - **Lions Circle the Hesitant Prey**: everything depends on perception, and if, on a first encounter, you demonstrate a willingness to compromise, back down, and retreat, you will be pushed around without mercy.
   - **Boldness Strikes Fear**; Fear Creates Authority: the bold move makes you seem larger and more powerful than you are.  If it comes suddenly, with stealth and swiftness, it inspires much more than fear - you will be intimidating, and people will be on the defensive in future.
-  - **Going Halfway with Half a Heart Digs the Deeper Grave**: if you enter action with less than total confidence, problems will cause you to grow confused rather than pushing through.
-  - **Hesitation Creates Gaps, Boldness Obliterates Them**: when you take time to think, you create a gap that allows others time to think as well.  Boldness leaves others no space to doubt and worry.
-  - **Audacity Separates You from the Herd**: the bold draw attention, and seem larger than life.  We cannot keep our eyes off the audacious.
+  - **Going Halfway with Half a Heart Digs the Deeper Grave**: if you enter action with less than total confidence, problems will cause you to grow confused rather than push through.
+  - **Hesitation Creates Gaps, Boldness Obliterates Them**: when you take time to think, you create a gap that allows others time to think.  Boldness leaves others no space to doubt and worry.
+  - **Audacity Separates You from the Herd**: the bold draws attention and seems larger than life.  We cannot keep our eyes off the audacious.
   - Most of us are timid.  We want to avoid tension and conflict and be liked by all.  We are terrified of consequences, what others might think of us, and the hostility we will stir up if we dare go beyond our usual place.
-  - You must practice and develop your boldness. The place to begin is in negotiations.  How often we ask too little.
+  - You must practice and develop your boldness. The place to begin is in negotiations.  How often do we ask too little?
   - Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.
 
 # Plan all the way to the end.
