@@ -219,8 +219,8 @@ tags: ["strategy"]
   - Remember: the problems created by an audacious move can be disguised, even remedied, by more and greater audacity.
 
 # Plan all the way to the end.
-- The ending is everything. Plan all the way to it, taking into account all the possible consequences, obstacles, and twists of fortune that might reverse your hard work and give the glory to others. By planning to the end you will not be overwhelmed by circumstances and you will know when to stop. Gently guide fortune and help determine the future by thinking far ahead.
-- The ending is everything - it is the end of action that determines who gets the glory, the money, the prize.  Your conclusion must be crystal clear, and you must keep it constantly in mind.
+- The ending is everything. Plan it, taking into account all the possible consequences, obstacles, and twists of fortune that might reverse your hard work and give glory to others. By planning to the end, you will not be overwhelmed by circumstances and will know when to stop. Gently guide fortune and help determine the future by thinking far ahead.
+- The ending is everything - the end of the action determines who gets the glory, the money, and the prize.  Your conclusion must be crystal clear, and you must keep it constantly in mind.
 
 # Make your accomplishments seem effortless.
 - Some think exposure to how hard they work and practice demonstrates diligence and honesty, but really it just shows weakness.
