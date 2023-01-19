@@ -223,10 +223,10 @@ tags: ["strategy"]
 - The ending is everything - the end of the action determines who gets the glory, the money, and the prize.  Your conclusion must be crystal clear, and you must keep it constantly in mind.
 
 # Make your accomplishments seem effortless.
-- Some think exposure to how hard they work and practice demonstrates diligence and honesty, but really it just shows weakness.
+- Some think exposure to how hard they work and practice demonstrates diligence and honesty, but it just shows weakness.
 - Sprezzatura: the capacity to make the difficult seem easy.
 - What is understandable is not awe-inspiring.  The more mystery surrounds your actions, the more awesome your power seems.  
-- You appear to be the only one who can do what you do, and because you achieve accomplishments with grace and ease, people believe that you can always do more.
+- You appear to be the only one who can do what you do, and because you achieve accomplishments with grace and ease, people believe you can always do more.
 
 # Control the options: get others to play with the cards you deal.
 
