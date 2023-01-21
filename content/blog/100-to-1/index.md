@@ -634,7 +634,7 @@ Much can never be foreseen or even imagined. The one way to benefit by it is to 
 
 To buy right requires vision and courage – faith that is evidence of things not seen, things not susceptible to mathematical proof.
 
-the stock market is a market of secondhand goods. The only reason you’re able to buy a share in a company is because somebody else didn’t want it.
+the stock market is a market of second-hand goods. The only reason you’re able to buy a share in a company is because somebody else didn’t want it.
 
 You can’t feel good because it’s up, and you can’t feel bad because it’s down. You just have to focus on the business
 
