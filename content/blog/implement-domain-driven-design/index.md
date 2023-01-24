@@ -364,16 +364,18 @@ review Distilled DDD from vaugh vernon
 review design DDD quickly
 
 # References
-https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf
-https://devopedia.org/domain-driven-design
-https://philippe.bourgau.net/categories/#squash-bduf-with-event-storming-series
-https://www.infoq.com/articles/ddd-contextmapping/
-https://dev.to/salah856/implementing-domain-driven-design-part-i-5a72
-https://github.com/leubedane/iddd-redbook-summary
-https://medium.com/@ruxijitianu/summary-of-the-domain-driven-design-concepts-9dd1a6f90091
-https://www.amazon.ca/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
-https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf
-https://devpath.pro/methodologies/book-review-domain-driven-design-quickly/
-https://medium.com/inato/an-introduction-to-domain-driven-design-386754392465
-https://github.com/ddd-crew/ddd-starter-modelling-process
-https://github.com/orgs/ddd-crew/repositories?type=all
+- https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf
+- https://devopedia.org/domain-driven-design
+- https://philippe.bourgau.net/categories/#squash-bduf-with-event-storming-series
+- https://www.infoq.com/articles/ddd-contextmapping/
+- https://dev.to/salah856/implementing-domain-driven-design-part-i-5a72
+- https://github.com/leubedane/iddd-redbook-summary
+- https://medium.com/@ruxijitianu/summary-of-the-domain-driven-design-concepts-9dd1a6f90091
+- https://www.amazon.ca/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+- https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf
+- https://devpath.pro/methodologies/book-review-domain-driven-design-quickly/
+- https://medium.com/inato/an-introduction-to-domain-driven-design-386754392465
+- https://github.com/ddd-crew/ddd-starter-modelling-process
+- https://github.com/orgs/ddd-crew/repositories?type=all
+- https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2
+- https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163
