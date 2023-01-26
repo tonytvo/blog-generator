@@ -277,6 +277,11 @@ declare a bounded context to have no connection to the others, allowing develope
 
 # [DD with legacy code](/ddd-with-legacy-code)
 
+# Exercises
+
+- https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2
+- https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163
+
 # Quotes
 "Sub-domain is a problem space concept, Bounded context is a solution space concept."
 
