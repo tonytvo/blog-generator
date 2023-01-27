@@ -281,6 +281,7 @@ declare a bounded context to have no connection to the others, allowing develope
 
 - https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2
 - https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163
+- https://github.com/ddd-crew/bounded-context-canvas
 
 # Quotes
 "Sub-domain is a problem space concept, Bounded context is a solution space concept."
@@ -384,3 +385,5 @@ review design DDD quickly
 - https://github.com/orgs/ddd-crew/repositories?type=all
 - https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2
 - https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163
+- https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps
+- https://www.youtube.com/watch?v=ekMPm78KFj0&t=1820s
