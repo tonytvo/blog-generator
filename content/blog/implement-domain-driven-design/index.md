@@ -282,6 +282,7 @@ declare a bounded context to have no connection to the others, allowing develope
 - https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2
 - https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163
 - https://github.com/ddd-crew/bounded-context-canvas
+- https://docs.google.com/forms/d/e/1FAIpQLSeXK2_TTCkPYwobNgDVn0DvZhShm_jO_8gg2Dtqk3HHxx6Wuw/viewform
 
 # Quotes
 "Sub-domain is a problem space concept, Bounded context is a solution space concept."
