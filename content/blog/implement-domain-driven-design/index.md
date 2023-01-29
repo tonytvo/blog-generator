@@ -388,3 +388,4 @@ review design DDD quickly
 - https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163
 - https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps
 - https://www.youtube.com/watch?v=ekMPm78KFj0&t=1820s
+- [visual collaboration tools](./visualcollaborationtools.pdf)
