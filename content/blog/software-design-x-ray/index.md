@@ -1,5 +1,5 @@
 ---
-title: software design x ray by Adam Tornhill summary
+title: software design x ray by Adam Tornhill summary wip
 date: "2023-02-19T22:12:03.284Z"
 description: "software design x-ray by Adam Tornhill summary"
 tags: ["softwaredevelopment", "agiletechnical"]
