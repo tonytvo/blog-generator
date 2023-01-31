@@ -14,6 +14,7 @@ tags: ["strategy"]
 - **Borrower & Lander concept**
   - One of the estimations is that it is required to implement IBC for at least five years to generate enough cash value to begin financing purchases. It will take even longer if the purchase is more prominent (for example, a car or house).
   - If you want to establish IBC from the ground level and leave it to the next generations, you should know that this is a long-term investment and a project that will require the next generations to continue where you stopped. It takes 20 to 25 years for the average individual to fully assemble their banking system that can finance everything using life insurance
+- R. Nelson Nash asks: "what if we demphasize the death benefit and focus more on the living benefit?" In other words, can a whole life policy be structured so that it has a minimal death benefit but we can stick a lot of cash into it to maximize the cash value and use the money while we are alive?
 - **Benefits of infinite banking concept**
   - Being able to reduce your debt as you increase your savings
   - Building a college fund without sacrificing to do so
@@ -58,7 +59,7 @@ tags: ["strategy"]
   - [high early cash value, dividend-paying whole life insurance](https://www.youtube.com/watch?v=R6d8lJU2CkY)
 
 
-## Creating Your Banking System Through Dividend-Paying Life Insurance
+## Creating Your Banking System Through Dividend-Paying Whole Life Insurance
 
 - First, he stresses that everyone is aware that they finance everything they buy; either the interest is paid to someone else, or you give up the interest you could have earned instead. 
 
@@ -205,34 +206,87 @@ tags: ["strategy"]
   - The policy is still there for the daughter to finance parts of her life. However, if she chooses not to, she would still be able to surrender the dividend additions for $150,000 for the rest of her life. If she dies at 90, this would mean she has received $3,150,000 in passive income and will give future generations a $2,378,391 death benefit.
 
 
-# Debunking the myths about Infinite Banking
+# Examples
 
-- **Term Insurance x Investment is a better option**
+## grocery
+
+- Nash looks at the process of getting into a business where you are a consumer and a seller at the same time. An excellent example of this is a grocery store because everyone consumes groceries, and everyone around you is a potential customer.
+
+- When you begin studying the grocery business, you find the things necessary to succeed in this field, including a good location, high-quality merchandise, attentive staff, fully stocked inventory, etc. All of this will cost a lot of money.
+
+- Once the operation is set up, the difference between the “front door” and “back door” helps determine how you will be living. For example, if you sell a can of peas for 60 cents at the front door, and replace it at the back door for 57 cents, then you must turn the inventory 15 times to break even; this is the interest you must pay on the money borrowed to set up the grocery operations. If you turn the inventory 17 times, you make a profit; if you turn it 20 times in a year, it can help pay for early retirement.
+
+- Next, Nelson asks you to imagine if you were a male, married with children, and your wife bought groceries at your store, would she take groceries from the front or back? Many admit that the wife would want to go out the back door instead. However, this type of behavior is theft and can encourage more theft amongst employees and customers.
+
+- Many believe that they can do whatever they want with their business. However, the ones that pay for this theft are the customers getting their merchandise from the front door, and your business will need to sell more products to make up the deficit. The more you make, the more the IRS will take from you; this is another reason people would want to go out the back door instead.
+
+- If there is a situation where the profits from the grocery sales are not subject to income taxes, one of the incentives to go out the back door is taken away. The only reason left is the human instinct to use the back door. However, you and your family (plus some others) are captive customers in this scenario. If you charge wholesale prices, you are not creating more proceeds for retirement income. Charging the retail price on the can of peas helps you buy more cans of peas to sell to other customers. If you continue to do this for an extended period, it will create a profit. This will also create more value and income when selling the business down the line.
+
+- When you sell your business many years later, you are in competition with others that have not obeyed these principles. He and his family members took goods out the back door. His record books will never look as good as yours. In fact, he will probably have gone out of business some years ago. Even if he is still around, can you guess which business will bring the better price? Yours! With the proceeds from the sale you can buy a huge annuity and have income deposited monthly directly to your bank account at retirement time.
+
+- Grocery stores are in the business of moving groceries to customers. When you sell something, you must replace the item to sell again. If you own the store don’t steal the peas. Banks are in the business of “renting money” to customers. When they lend money, they must get it back, with interest. If you own the bank don’t steal the money!
+
+# Questions
+
+- **what is the case for whole life insurance?**
+
+  - attributes of a theoretically perfect investment would include things such as safety (meaning the asset's price would not likely drop), liquidity (meaning the owner could turn the asset into its "fair" market value quickly if needed), high rate of return, tax advantages, a source of income (i.e, not merely appreciation in price), uncorrelation with the stock market, a hedge against price inflation, and protection from creditors in the event of bankruptcy
+
+  - gold is an excellent inflation hedge, but it does not provide a flow of income, its appreciation can be taxed as a capital gain, and the government has confiscated gold in the past. Real estate too is an inflation hedge, but it can be very illiquid and its value too can be quite volatile. And the stock market, through promising a high rate of return, also comes with the risk of massive short-term losses.
+
+  - becoming your own banker frees you from paying taxes while borrowing against your cash value from a whole life insurance policy
+
+- **does "buy term Insurance and invest the difference" is a better option**
+
   - When you compare term insurance with whole life insurance, you will find many differences. Of course, one of them will be the price you would have to pay for both of these policies. And in those calculations — at first glance — it seems like the most logical option to choose the cheaper one – a.k.a. Term insurance, and just invest the money you would save for not buying a whole life insurance policy.
-
-  - In theory, this sounds good. In practice, however, this doesn’t make much sense.
-
-  - If you take a more in-depth analysis and compare what amount of money you would save with term and whole life insurance, you will understand how vital the time component is. And when you compare term and whole life insurance, you know that the time is “on a whole life insurance’s side,” as it is up until your death.
 
   - What does this mean? It means that IBC and whole life insurance are not only about life insurance but are a mechanism for you to capitalize your cash value over the years – and with a whole life insurance policy, years equal to total years in your life.
 
-- **A self-directed IRA brings a higher rate of return**
-  - Although investing through IRA (Individual Retirement Account) is still a way to save and invest your money, some crucial differences need to be stated.
-  - For starters, investing and saving money are two different things – which are often standing in each others’ way. When we talk about using a self-directed IRA, we’re talking about an investing strategy, which is not a purpose of infinite banking concept or becoming your own banker.
+  - whole life insurance is more expensive than term life insurance. However, once term life insurance expired, it is very expensive to renew, while it's easier to maintained the whole insurance coverage or the dividends of the whole life participating dividend paying policy could pay for the premiums after certain periods (7-10 years).
 
+  - someone who ops for a 20 year term policy and invests the difference in a mutual fund composed of stocks and bonds may accumulate wealth at a faster rate, but he is taking on far more risk than the person building up a whole life policy.
+
+  - if whole life insurance is too expensive, term insurance could be started with first, and then can be converted to participating dividend paying whole life insurance later on.
+
+- **what about other tax qualified plans, such as my 401k could bring higher rate of returns?**
+  
   - IBC exists — as mentioned before — to help you take control over your finances and build your cash value over the years. That means that becoming your own banker is a capital accumulation strategy.
 
   - So the most critical question you should ask yourself right now is – how will I be using this asset? Because if you want to build your capital over the years and have more freedom over your finances – you will start implementing the infinite banking concept. On the other hand, if you plan to provide appreciation or cash flow, an investment strategy will be enough for you. But don’t expect to have a higher return rate using a self-directed IRA, as an investment strategy can never be compared to a capital accumulation strategy and the rate of return it has.
+
+  - similar to whole life participating paying dividend whole life insurance, tax qualified plans such as 401(k) enjoy tax advantages. However, it has restrictions such as when the money can be withdraw, the limit, the tax bracket at the time of withdraw, and when the money must be withdraw (to avoid penalties), which making these tax qualified plans far less liquid than the cash values of the whole life policy.
+
+  - we should be suspicious when the government offers a "solution" (i.e. tax qualified plans) to a problem that a government itself-created (i.e. high tax rates). The government could raid these 401(k)s for the reason that the Americans would be better off if the government assumed their volatile stock portfolios and instead guaranteed them retirement benefits down the road.
+
+- **wont' I get ripped off by the huge agent commission?**
+
+  - it is important to note that a whole life policy configured according to Nelson Nash's philosophy actually minimizes the proportion of the initial premium payments going to the agent commission. This is why it is important to obtain a whole life policy from an agent who truly understands and believes in the IBC mindsets; other agents would have a natural incentive to steer the client away from the proper configuration, and into a policy where the cash value's growth is stunted in the beginning.
+
+- **If you are interested in starting an IB policy, what should one look for in the insurance company?**
+
+  - First, you want this company to be a mutual or a mutual holding company [MHC] and NOT a stock company. Mutuals and MHC are designed so that profits go back to the policy holders as excess dividends. MHCs have a majority shareholder, where the company could be converted into a public corporation. There are smaller companies, but the Big 3 Mutuals are New York Life, Mass Mutual and Northwestern Mutual. Metlife is an example of a stock company, hence one I would avoid, because the dividends go to the shareholders, not the policyholders.
+
+  - you want the cash value to grow as if you never took a loan out, even if you did. This is called non-direct recognition. The company pays the same dividend rate on the total cash value you have in the policy to all policyholders. If the company does direct recognition, they will traditionally have 2 dividend rates, one for the cash that stays with the company, and a lesser rate (possibly 0%) for the money that you have taken out as a loan.
+
+  - look for an insurance agent that understands the IB concept. Make sure they are licensed in your state to personally write the policy for you and not his or her boss, who is licensed in all 50 states and they feed every policy through them. Also, make sure that the policy follows at a minimum the 1:3 rule - the death benefit of the term life rider is at least 3 times higher than the death benefit of the base whole life policy. Ensure that at least 75% of the total premium you can put in every year is going towards the PUAs (the turbo) versus the base policy.
+
+- **if too many people practice IBC, won't the government shut it down?**
+
+  - if millions of American households begin investing in large policies, they will raise quite an uproar if the politicians threaten to remove their special tax treatment. This is why it's crucial for practitioners to spread the word to their friends and families. It is also crucial for people to practice IBC responsibly and not cheating on their taxes in a complicated scheme involving whole life policies.
+
+- **what if the insurance company goes broke?**
+
+  - Even though whole life insurance guarantee cash surrender values at various ages of the policy, of course it is possible that the insurance company will poorly manage its assets and be unable to meet its contractual obligations. However, both state regulations and the entire tradition of life insurance make it a very conservative asset, relative to most others. Even if a particular company goes under, the rest of the industry will typically assume its operations to ensure that policy holders are made whole. It is in the interest of the industry to maintain the public's trust that "life insurance" is a very boring and bedrock institution.
+
+- **what about hyperinflation?**
+
+  - **"a person is not "investing" in whole life, but is rather headquartering his wealth in a whole life policy"**
 
 - **Investing in real estate brings a higher rate of return**
   - Many people choose the infinite banking concept to gain freedom and complete control over their finances. Now, can you imagine having that kind of control while investing in real estate, knowing that inflation could change your cash value almost over the night?
 
   - Luckily, becoming your own banker not only brings you higher safety, but it also gives you other advantages compared to real estate. Take taxes, for example – while with real estate come property taxes, becoming your own banker frees you from paying taxes while borrowing against your cash value from a whole life insurance policy. Now when you do the math, what brings you a higher rate of return?
 
-- **Diversified investments through a standard tax-qualified plan are a better option**
-  - But are they? A standard tax-qualified plan gives you security in a way that you know the exact percentage you will have to pay as a tax, no matter how diversified the investments are. But this comes with some limitations as well.
-
-  - If you find yourself accessing your savings before the age of 59.5, you will also find yourself paying 10% tax for doing that. That means that every time you want to use your own money, you will lose an additional 10%. Considering the uncertain factors around us and the fact that you probably will need to access your savings before the age of 59.5, this would mean that you would, from the start, agree on losing your own money.
 
 - **Building capital in a US dollar-denominated asset can be risky**
   - You might not feel comfortable with dividend-paying whole life insurance as it is a dollar-denominated asset. Although understanding your concerns, let’s just take a moment and remind ourselves that the US Dollar is the reserve currency of the world (meaning that the vast majority of international trade is denominated in dollars), so most probably – you are safe.
@@ -257,26 +311,6 @@ tags: ["strategy"]
 
 - **Modern western banks are a safer option**
   - This might be true in some cases. But if you tried using banks to access your capital, you most probably have found yourself in some kind of trouble and couldn’t access it in the desired way. Well, with IBC, that problem goes away – and guess what? It is a safer option when it comes to easy and secure access to the capital.
-
-# Examples
-
-## grocery
-
-- Nash looks at the process of getting into a business where you are a consumer and a seller at the same time. An excellent example of this is a grocery store because everyone consumes groceries, and everyone around you is a potential customer.
-
-- When you begin studying the grocery business, you find the things necessary to succeed in this field, including a good location, high-quality merchandise, attentive staff, fully stocked inventory, etc. All of this will cost a lot of money.
-
-- Once the operation is set up, the difference between the “front door” and “back door” helps determine how you will be living. For example, if you sell a can of peas for 60 cents at the front door, and replace it at the back door for 57 cents, then you must turn the inventory 15 times to break even; this is the interest you must pay on the money borrowed to set up the grocery operations. If you turn the inventory 17 times, you make a profit; if you turn it 20 times in a year, it can help pay for early retirement.
-
-- Next, Nelson asks you to imagine if you were a male, married with children, and your wife bought groceries at your store, would she take groceries from the front or back? Many admit that the wife would want to go out the back door instead. However, this type of behavior is theft and can encourage more theft amongst employees and customers.
-
-- Many believe that they can do whatever they want with their business. However, the ones that pay for this theft are the customers getting their merchandise from the front door, and your business will need to sell more products to make up the deficit. The more you make, the more the IRS will take from you; this is another reason people would want to go out the back door instead.
-
-- If there is a situation where the profits from the grocery sales are not subject to income taxes, one of the incentives to go out the back door is taken away. The only reason left is the human instinct to use the back door. However, you and your family (plus some others) are captive customers in this scenario. If you charge wholesale prices, you are not creating more proceeds for retirement income. Charging the retail price on the can of peas helps you buy more cans of peas to sell to other customers. If you continue to do this for an extended period, it will create a profit. This will also create more value and income when selling the business down the line.
-
-- When you sell your business many years later, you are in competition with others that have not obeyed these principles. He and his family members took goods out the back door. His record books will never look as good as yours. In fact, he will probably have gone out of business some years ago. Even if he is still around, can you guess which business will bring the better price? Yours! With the proceeds from the sale you can buy a huge annuity and have income deposited monthly directly to your bank account at retirement time.
-
-- Grocery stores are in the business of moving groceries to customers. When you sell something, you must replace the item to sell again. If you own the store don’t steal the peas. Banks are in the business of “renting money” to customers. When they lend money, they must get it back, with interest. If you own the bank don’t steal the money!
 
 # Quotes
 
