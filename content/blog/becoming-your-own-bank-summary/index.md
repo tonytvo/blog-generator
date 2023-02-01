@@ -11,10 +11,11 @@ tags: ["strategy"]
   - This is the first principle we learn from the book, which says that everything a person buys is financed – either by borrowing from a lender or using your own money – otherwise received on the funds.
   - Nash further teaches us the concept of EVA (economic value added) – which proposes that you use your funds as a cost of capital. By doing this, you stop paying interest to others and start saving money for yourself.
   - Also, having in mind dividends — or how Nash defines them — a form of principal’s return can merely impact your success with IBC. The key is to understand the amount of money you would usually be paying other companies – and deliver it to yourself. That way, you ensure you’re not paying the interest to anyone else.
-- **Borrower & Lander concept**
+- **Borrower & Lender concept**
   - One of the estimations is that it is required to implement IBC for at least five years to generate enough cash value to begin financing purchases. It will take even longer if the purchase is more prominent (for example, a car or house).
   - If you want to establish IBC from the ground level and leave it to the next generations, you should know that this is a long-term investment and a project that will require the next generations to continue where you stopped. It takes 20 to 25 years for the average individual to fully assemble their banking system that can finance everything using life insurance
 - R. Nelson Nash asks: "what if we demphasize the death benefit and focus more on the living benefit?" In other words, can a whole life policy be structured so that it has a minimal death benefit but we can stick a lot of cash into it to maximize the cash value and use the money while we are alive?
+- be dedicated for at least 7 years to maximize the compounding effect of the cash value
 - **Benefits of infinite banking concept**
   - Being able to reduce your debt as you increase your savings
   - Building a college fund without sacrificing to do so
@@ -280,37 +281,52 @@ tags: ["strategy"]
 
 - **what about hyperinflation?**
 
+  - you might not feel comfortable with dividend-paying whole life insurance as it is a dollar-denominated asset
+
+  - In case you want to have an exit strategy, that is always something you can do to increase your safety net. An additional thing that might be useful for you to know – if the comes to a devaluation of the US dollar, you can always ask a life insurance company to pay you your cash value (at a rate defined by the contract). In fact, if you still wanted to practice IBC, you might open up a new whole life policy once things had settled and people were more confident in their projections of long-term interest rates.
+
   - **"a person is not "investing" in whole life, but is rather headquartering his wealth in a whole life policy"**
 
-- **Investing in real estate brings a higher rate of return**
-  - Many people choose the infinite banking concept to gain freedom and complete control over their finances. Now, can you imagine having that kind of control while investing in real estate, knowing that inflation could change your cash value almost over the night?
+  - large increases in consumer prices will dilute the purchasing power of a contractually specified death benefit. On the other hand, large price inflation will also reduce the burden of future premium payments.
 
-  - Luckily, becoming your own banker not only brings you higher safety, but it also gives you other advantages compared to real estate. Take taxes, for example – while with real estate come property taxes, becoming your own banker frees you from paying taxes while borrowing against your cash value from a whole life insurance policy. Now when you do the math, what brings you a higher rate of return?
-
-
-- **Building capital in a US dollar-denominated asset can be risky**
-  - You might not feel comfortable with dividend-paying whole life insurance as it is a dollar-denominated asset. Although understanding your concerns, let’s just take a moment and remind ourselves that the US Dollar is the reserve currency of the world (meaning that the vast majority of international trade is denominated in dollars), so most probably – you are safe.
-
-  - In case you want to have an exit strategy, that is always something you can do to increase your safety net. An additional thing that might be useful for you to know – if the comes to a devaluation of the US dollar, you can always ask a life insurance company to pay you your cash value (at a rate defined by the contract).
 
 - **A policy loan is only an additional cost**
+
   - Getting a policy loan is a simple procedure with no limits or requirements – what is up to you is to let your bank know how much money they should direct to one of your accounts, and you will be able to use it.
 
   - It’s important to know that you are borrowing against your cash value by doing this, which means this is not a loan as we’re used to. From the insurance company’s perspective – this is an asset they are giving you, for which they expect you to pay your interest. This is the root of your cost for a policy loan.
 
   - On the other hand, the possibilities you have do make it worth it. Besides the fact that you can take the loan any time you want and in any amount you need, you also do not have to return it. And additionally, even though you’re borrowing, your compounding cash value continues to grow.
 
-- **With IBC, there is no banking system interfering**
-  - Fortunately, this is not true. We say fortunately because, even though IBC gives you freedom and control over your finances, you can still count on your bank to check your accounts and help with administrative work, which is a relief.
+- **why can't I 'bank' by borrowing against my house or other assets?**
 
-  - However, when you compare IBC to other possibilities, it is non-negotiable that by becoming your own banker, the level of your dependence on the banking system is the lowest possible.
+  - you can take the loan any time you want and in any amount you need, you also do not have to return it. And additionally, even though you’re borrowing, your compounding cash value continues to grow. 
+  - when someone request a policy loan on his whole life cash values, they don't ask the purpose, they don't run a credit check, and they don't care if the applicant has any income at all. They will grant the loan with a contractual rate of interest, and if the applicant decides to stop making payments, the outstanding balance will grow but the insurer will not object.
+  
+  - The bank doesn't really want to seize somebody's house or boat when he defaults on a loan. The bank would much rather get its money back in the form of checks in the mail, rather than in the form of an extremely illiquid asset.
+  - The insurance company, on the other hand, is quite content to let the balance on a policy loan roll over at interest, because it will instantly get its money back when the insured dies and the death benefit must be paid on the policy. At that point, the insurance company deducts the outstanding loan balance, with a simple keystroke as it were - no need to put a house up for auction, hoping to get a good price on it.
 
-- **I need a lot of knowledge to become my own banker**
-  - Well, this is not far from the truth. The thing is – if you want to be successful in managing your finances and enjoy the freedom IBC brings with itself, you need to know how to handle your finances.
-  - That means you will need to learn about an alternative view of money, cash flow, and capital. But don’t think of this as something impossible – becoming your own banker is real and possible for everyone who cares enough to learn. There are even many experts offering their knowledge for people who want to implement the infinite banking concept.
+- **what went wrong with my dividend-paying whole life policy?**
+  
+  - [reasons for losing term rider](https://www.wealthmanagement.com/insurance/what-went-wrong-my-dividend-paying-whole-life-policy)
+  - the original insurance contract was built with the base policy being actual whole life (WL), and the rider is term insurance. The idea is that the dividends on the base policy buy little bits of paid up instance every year. These are generally called paid-up additions, or PUAs. The PURs reduced the amount of the term.
+  
+  - it’s helpful to visualize this WL policy as three different policies: (1) the base WL policy, (2) the PUA policy and (3) the term policy. The base policy and the PUA policy each have their own cash value and death benefit. The cash value, as you understand it, is really the sum of the cash values of the two WL parts of the policy. Some ledgers differentiate this, and some don’t very well.
 
-- **Modern western banks are a safer option**
-  - This might be true in some cases. But if you tried using banks to access your capital, you most probably have found yourself in some kind of trouble and couldn’t access it in the desired way. Well, with IBC, that problem goes away – and guess what? It is a safer option when it comes to easy and secure access to the capital.
+  - Early in the life of the policies, the base policy earned dividends in excess of the term policy, and the extra went into the PUA policy. Later in life, the term premiums got more expensive than the dividend credited, so the cash value of the PUA policy was tapped to pay them until it was driven into the ground. With no PUAs to pay term premiums, the term portion lapsed
+
+- **what are the cons of the participating dividend paying whole life insurance?**
+  
+  - Costs - the costs are extremely high, but they are hidden into the premium of the policy. There is a reason why there is a big difference the first 3 years between the cash value available and what you put in. The costs are administrative costs, agent commission costs, reserves for the death benefit, etc. The premium does not change as long as the policy is in effect, so one can see by the increase of cash value that this becomes more efficient over time. When compared to a mutual fund, where the expenses are disclosed up front, as the asset base grows over time in the mutual fund, your costs get larger with each passing year.
+
+  - The Cash Value is technically not your money, but the insurance company's. You have first access to the cash value and dividends accumulated, but you have paid an annual premium to leverage your savings, and in return, have a death benefit on top of the cash value. The reason I can say this is one can request a loan to get to the cash value. You don't loan to yourself, but an outside company does. You do have the ability to pay back the loan on your time frame. How is the insurance company so confident that you will pay back the loan? There are 2 sure things in this life: Death and Taxes. Since we know the inevitable will happen to all of us, if there are any outstanding loans (which has a high collateral due to all the money put into the policy), the death benefit will be reduced accordingly to your heirs.
+
+- If you take out a loan from the insurance company at 6% and you get credited on your cash value balance for 5%, the agent may tell you the net cost of the loan is 1%. That's garbage. The cost of the loan is the cost, no matter where you take a loan from. **If you can get a car loan for 1.9% from a credit union, why would you want to pay 6%**? The agent may say to you, if you have a variable cash flow, that even though you are paying 6%, **you get to pay it back on your terms**, that is a fair statement. What's also fair is no credit checks are done, and all you need to do is sign one piece of paper to get the loan started. **However, if you are disciplined and pay your bills on time with no late fees, then always go with the cheapest loan option**
+
+- **The second concept is paying more interest than on your stated loan**. If you have been putting in the maximum allowed premium every year and take out a loan, the most you can pay is the loan plus the interest to the insurance company. That's it and nothing more. This is what Nelson Nash describes is a psychological trick. He says to pay all you can for 7 years and then you may start taking out loans. The dividends and cash value built up will help pay the premiums, and your loan you took out from the insurance company at 6% interest should be paid back at 10% interest.
+
+- Money that is in savings are dollars that you want to know will be there **liquid and guaranteed** without having the risk of the stock market or real estate market determining what the value should be at just the wrong time in your life. You have ultimate flexibility with the money, but **to think you will compound this money at 10-12% a year is not what these policies are designed to do**. I mentioned in the last article that the rate of return will be about **4.25% per year over 30 years, growing tax deferred and when structured properly, can be used for a tax-free retirement while still passing on a death benefit** to your heirs
+
 
 # Quotes
 
