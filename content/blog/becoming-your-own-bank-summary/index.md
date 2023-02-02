@@ -387,4 +387,5 @@ Wealth will reside somewhere. It is up to you where you want it to reside. With 
 - https://www.insuranceandestates.com/pros-and-cons-of-the-infinite-banking-concept/
 - [sun life cash value loan options](./sun-life-cash-value-loan-options.pdf)
 - [6 ways to capture cash value life insurance](https://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp)
+- https://seekingalpha.com/article/1002461-dividend-paying-whole-life-insurance-the-alternative-fixed-income-vehicle-part-5-of-5
 
