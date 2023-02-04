@@ -25,6 +25,8 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
   - communicate with kindness, intention, respect, and considerate
   - we're confusing on the sstring format
   - we all have our interpretation
+  - we have some difficulty to start up the gitpod from a person that's not the owner of the git repo
+  - at the end of refactor, I keep having the feeling that is so close, want to finish it off and getting sloppy and combine multiple small refactor together
 
   - 
 - a strategy I followed?
