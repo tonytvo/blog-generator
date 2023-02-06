@@ -303,10 +303,22 @@ declare a bounded context to have no connection to the others, allowing develope
 - **how to mange same model in different sub-systems?**
   - like user in participant? financial reporting? plan admin?
 
-- **what are the common domain concepts between tax and financial reporting?**
-
 - **Knowledge Crunching: How a team can accumulate, distill and apply domain knowledge to software development?**
-  - 12-15 (from "Ingredients of...")
+  - **Effective modelling is based on:**
+    - Binding model and implementation
+      - The implementation is strictly based on the model;
+    - Cultivating a language based on the model
+      - The model contains terms which are the base of a language common to both Domain Exerts and Developers;
+    - Developing a knowledge rich model
+      - The model must be more than a representation of data structures, it must contain all kinds of knowledge. It must contain ideas, data structures, objects, behaviours, enforced rules, etc.
+    - Distilling the model
+      - A model must contain all, but also only, the relevant knowledge. This means that as we gain knowledge about the domain, we add the relevant knowledge to the model, but we can and must also remove, from the model, the domain knowledge that we end up figuring out that is not relevant after all.
+    - Brainstorming and experimenting
+      - Brainstorming and experimentation meetings between domain experts and developers, where massive experimentation and discussion takes place, is what ends up providing a distilled and knowledge rich model.
+  - **The most productive teams are continuously learning about:**
+    - Technical knowledge
+    - Domain modeling knowledge
+    - Knowledge specific to the domain of the project
 
 - **Ubiquitous Language: How to bring about a clearer and more dynamic flow of domain knowledge throughout the project?**
   - 24-27 Example 27-30 Consequences 32-34
