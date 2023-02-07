@@ -321,6 +321,7 @@ declare a bounded context to have no connection to the others, allowing develope
     - Knowledge specific to the domain of the project
 
 - **Ubiquitous Language: How to bring about a clearer and more dynamic flow of domain knowledge throughout the project?**
+  - **The Ubiquitous Language will include the terms used to discuss the model and the high level principles and patterns incorporated into the model. It must be used as much as possible, among developers, domain experts and between both of them**.
   - 24-27 Example 27-30 Consequences 32-34
 
 - **How documents & diagrams can work for a project instead of just being work?**
