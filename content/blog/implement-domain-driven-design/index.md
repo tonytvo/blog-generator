@@ -322,7 +322,12 @@ declare a bounded context to have no connection to the others, allowing develope
 
 - **Ubiquitous Language: How to bring about a clearer and more dynamic flow of domain knowledge throughout the project?**
   - **The Ubiquitous Language will include the terms used to discuss the model and the high level principles and patterns incorporated into the model. It must be used as much as possible, among developers, domain experts and between both of them**.
-  - 24-27 Example 27-30 Consequences 32-34
+  - the terminology of day-to-day discussions is disconnected from the terminology embedded in the code (ultimately the most important of a software project). And even the same person uses different language in speech and in writing, so that the most incisive expressions of the domain often emerge in a transient form that is never captured in the code or even in writing.
+  - translation blunts communication and makes knowledge crunching anemic
+  - iron out difficulties by experimenting with alternative expressions, which reflect alternative models. Then refactor the code, renaming classes, methods, and modules to conform to the new model. Resolve confusion over terms in conversation, in just the way we come to agree on the meaning of ordinary words.
+  - domain experts should object to terms or structures that are awkward or inadequate to convey domain understanding; developers should watch for ambiguity or inconsistency that will trip up design.
+  - play with the model as you talk about the system. Describe scenarios out loud using the elements and interactions of the model, combining concepts in ways allowed by the model. Find easier ways to say what you need to say, and then take those new ideas back down to the diagrams and code.
+  - if sophisticated domain experts don't understand the model, there is something wrong with the model.
 
 - **How documents & diagrams can work for a project instead of just being work?**
   - It's important to know that diagrams do not need to have the full context of the model. The goal of the diagram is to explain the model and they should be as simple as possible. You should use diagram and documents to explain the model but they don't have to be a replica of the model. 
