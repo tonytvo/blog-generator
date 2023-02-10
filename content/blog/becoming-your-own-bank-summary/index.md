@@ -14,7 +14,7 @@ tags: ["strategy"]
 - **Borrower & Lender concept**
   - One of the estimations is that it is required to implement IBC for at least five years to generate enough cash value to begin financing purchases. It will take even longer if the purchase is more prominent (for example, a car or house).
   - If you want to establish IBC from the ground level and leave it to the next generations, you should know that this is a long-term investment and a project that will require the next generations to continue where you stopped. It takes 20 to 25 years for the average individual to fully assemble their banking system that can finance everything using life insurance
-- R. Nelson Nash asks: "what if we demphasize the death benefit and focus more on the living benefit?" In other words, can a whole life policy be structured so that it has a minimal death benefit but we can stick a lot of cash into it to maximize the cash value and use the money while we are alive?
+- R. Nelson Nash asks: "what if we deemphasize the death benefit and focus more on the living benefit?" In other words, can a whole life policy be structured so that it has a minimal death benefit but we can stick a lot of cash into it to maximize the cash value and use the money while we are alive?
 - be dedicated for at least 7 years to maximize the compounding effect of the cash value
 - **Benefits of infinite banking concept**
   - Being able to reduce your debt as you increase your savings
