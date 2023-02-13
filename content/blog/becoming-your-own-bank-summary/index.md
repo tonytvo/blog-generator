@@ -242,13 +242,13 @@ tags: ["strategy"]
 
   - When you compare term insurance with whole life insurance, you will find many differences. Of course, one of them will be the price you would have to pay for both of these policies. And in those calculations — at first glance — it seems like the most logical option to choose the cheaper one – a.k.a. Term insurance, and just invest the money you would save for not buying a whole life insurance policy.
 
-  - What does this mean? It means that IBC and whole life insurance are not only about life insurance but are a mechanism for you to capitalize your cash value over the years – and with a whole life insurance policy, years equal to total years in your life.
+  - What does this mean? It means that IBC and whole life insurance are not only about life insurance but are a mechanism for you to capitalize your cash value over the years – and with a whole life insurance policy, years equal to the total years in your life.
 
-  - whole life insurance is more expensive than term life insurance. However, once term life insurance expired, it is very expensive to renew, while it's easier to maintained the whole insurance coverage or the dividends of the whole life participating dividend paying policy could pay for the premiums after certain periods (7-10 years).
+  - whole life insurance is more expensive than term life insurance. However, once term life insurance expired, it is very expensive to renew, while it's easier to maintain the whole insurance coverage or the dividends of the whole life participating dividend paying policy could pay for the premiums after certain periods (7-10 years).
 
-  - someone who ops for a 20 year term policy and invests the difference in a mutual fund composed of stocks and bonds may accumulate wealth at a faster rate, but he is taking on far more risk than the person building up a whole life policy.
+  - someone who ops for a 20-year term policy and invests the difference in a mutual fund composed of stocks and bonds may accumulate wealth at a faster rate, but he is taking on far more risk than the person building up a whole life policy.
 
-  - if whole life insurance is too expensive, term insurance could be started with first, and then can be converted to participating dividend paying whole life insurance later on.
+  - if whole life insurance is too expensive, term insurance could be started first, and then can be converted to participating dividend-paying whole life insurance later on.
 
 - **what about other tax qualified plans, such as my 401k could bring higher rate of returns?**
   
