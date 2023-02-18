@@ -1,7 +1,7 @@
 ---
-title: Notes on coffee machine kata practice Feb 14th 2023
+title: Notes on coffee machine kata practice Feb 18th 2023
 date: "2023-02-18T23:46:37.121Z"
-description: "Notes coffee machine kata practice Feb 14th 2023"
+description: "Notes coffee machine kata practice Feb 18th 2023"
 tags: ["evolutionarydesign", "tdd", "refactoring"]
 ---
 
