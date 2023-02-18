@@ -6,23 +6,27 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
 ---
 
 # Questions
-- focus more on reading so we can understand more on what's needed
-- we have disagree on what th requiremnts looks like
-- we don't have to understand test fraework, we spend itme in the wrong direction
-- before we spend time on the task, we need to spened time on understanding the r3quiremnt
-- what's the rinput?
+- what's the right input?
 - how can we write tests wihtout writing the parser
-- we expect the string and then use some regex .. kind of like cucumber
-- we all made good points
-- communicate with kindness, intention, respect, and considerate
-- we're confusing on the sstring format
-- we all have our interpretation
 - which one is correct?
-- seems like we lean toward T:0:1 on the input intent? 
+  - seems like we lean toward T:0:1 on the input intent? 
 
 - What have you learned?
+  - this kata is very rich in term of domain/functional tibbits
+  - once I finish encapsulating drinks and ingredients, I started to realize couple other domain concepts like inventory, recipes, etc....
   - seems like introduce parameter is very helpful, keep surface to the top as much as possible
   - the better we are as introduce parameter, dependency, the more we can clear recognize the boundaries between different parts, like model, view controller
+  - focus more on reading so we can understand more on what's needed
+  - we have disagree on what th requiremnts looks like
+  - we don't have to understand test fraework, we spend itme in the wrong direction
+  - before we spend time on the task, we need to spened time on understanding the r3quiremnt
+  - we expect the string and then use some regex .. kind of like cucumber
+  - we all made good points
+  - communicate with kindness, intention, respect, and considerate
+  - we're confusing on the sstring format
+  - we all have our interpretation
+
+  - 
 - a strategy I followed?
   - functional calisthenics and object calisthenics
 - the steps I followed?
