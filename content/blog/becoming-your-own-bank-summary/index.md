@@ -250,15 +250,15 @@ tags: ["strategy"]
 
   - if whole life insurance is too expensive, term insurance could be started first, and then can be converted to participating dividend-paying whole life insurance later on.
 
-- **what about other tax qualified plans, such as my 401k could bring higher rate of returns?**
+- **what about other tax-qualified plans, such as my 401k could bring a higher rate of returns?**
   
   - IBC exists — as mentioned before — to help you take control over your finances and build your cash value over the years. That means that becoming your own banker is a capital accumulation strategy.
 
   - So the most critical question you should ask yourself right now is – how will I be using this asset? Because if you want to build your capital over the years and have more freedom over your finances – you will start implementing the infinite banking concept. On the other hand, if you plan to provide appreciation or cash flow, an investment strategy will be enough for you. But don’t expect to have a higher return rate using a self-directed IRA, as an investment strategy can never be compared to a capital accumulation strategy and the rate of return it has.
 
-  - similar to whole life participating paying dividend whole life insurance, tax qualified plans such as 401(k) enjoy tax advantages. However, it has restrictions such as when the money can be withdraw, the limit, the tax bracket at the time of withdraw, and when the money must be withdraw (to avoid penalties), which making these tax qualified plans far less liquid than the cash values of the whole life policy.
+  - similar to whole life participating paying dividend whole life insurance, tax-qualified plans such as 401(k) enjoy tax advantages. However, it has restrictions such as when the money can be withdrawn, the limit, the tax bracket at the time of withdrawal, and when the money must be withdrawn (to avoid penalties), which makes these tax-qualified plans far less liquid than the cash values of the whole life policy.
 
-  - we should be suspicious when the government offers a "solution" (i.e. tax qualified plans) to a problem that a government itself-created (i.e. high tax rates). The government could raid these 401(k)s for the reason that the Americans would be better off if the government assumed their volatile stock portfolios and instead guaranteed them retirement benefits down the road.
+  - we should be suspicious when the government offers a "solution" (i.e. tax-qualified plans) to a problem that the government itself created (i.e. high tax rates). The government could raid these 401(k)s for the reason that the Americans would be better off if the government assumed their volatile stock portfolios and instead guaranteed them retirement benefits down the road.
 
 - **wont' I get ripped off by the huge agent commission?**
 
