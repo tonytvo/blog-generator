@@ -237,6 +237,10 @@ tags: ["productivity"]
   - challenges and surprises trigger your utilization of this methodology instead of throwing you out of it.
 
 
+# Discipline of GTD in organizations
+
+- todo
+
 # Quotes
 
 If it's on your mind, your mind isn't clear. Anything unfinished must be captured in a trusted system outside your mind.
@@ -252,3 +256,10 @@ If it's on your mind, your mind isn't clear. Anything unfinished must be capture
 - https://blog.jbrains.ca/permalink/remind-yourself-to-schedule-x
 - https://blog.jbrains.ca/permalink/getting-started-with-getting-things-done
 - https://www.amazon.ca/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E
+- https://altfeldinc.com/pdfs/execution.pdf
+- https://www.slideshare.net/ChandraKopparapu/book-summary-of-execution-the-discipline-of-getting-things-done#:~:text=The%20book%20titled%20Execution%3A%20The,apart%20from%20those%20that%20fail.
+- https://wisewords.blog/book-summaries/execution-book-summary/
+- https://www.jfdperfsolutions.com/book-summary-execution-the-discipline-of-getting-things-done-by-bossidy-charan/
+- https://youexec.com/book-summaries/execution-the-discipline-of-getting-things-done
+- https://medium.com/swlh/execution-the-discipline-of-getting-things-done-book-summary-7529cae05982
+- https://paulminors.com/blog/execution-book-summary-pdf/
