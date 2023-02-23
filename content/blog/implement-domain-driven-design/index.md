@@ -24,8 +24,24 @@ Domain-Driven Design is an approach to the development of complex software in wh
 
 ## Bounded Context
 - Explicitly define the context within which a model applies.
+- multiple models are in play on any large project. Yet the code based on distinct models is combined, software becomes buggy, unreliable, and difficult to understand. Communications among team members confused. It is often unclear what context a model should not be applied.
 - **Explicitly set boundaries in team organization, usage within specific application parts, and physical manifestations such as code bases and database schemas.**
 - Apply continuous integration to keep the model concepts and terms strictly consistent within these bounds, but don't be distracted or confused by issues outside. 
+- **bounded context are not modules**
+  - modules organize the elements within one model
+  - the separate name spaces that modules create within a bounded context actually make it harder to spot accidental model fragmentation.
+
+- **recognizing splinters within a bounded context**.
+  - **Duplicate concepts**: The same concept is represented and implemented in more than one way. This means that when a concept changes, it has to be updated in several places, and the developers need to be aware of the several different ways of doing one same thing, as well as the subtle difference within them.
+  - **False cognates**: When two people are using the same term and they think they are talking about the same thing, but they are actually thinking of different things.
+
+- the internal consistency of a model, such that each term is unambiguous and no rules contradict, is called unification.
+  - **total unification of the domain model for a large system will not be feasible or cost-effective.**
+  - risks for unifying all the software in a large project under single model
+    - too many legacy replacement may be attempted at once
+    - large projects may bog down because the coordination overhead exceeds their abilities.
+    - applications with specialized requirements may have to use models that don't fully satisfy their needs, forcing them to put behavior elsewhere
+    - conversely, attempting to satisfy everyone with single model may lead to complex options that make the model difficult to use.
 
 ## Ubiquitous Language
 - **Use the model as the backbone of a language. Then, commit the team to exercise that language relentlessly in all communication within the team and in the code.**
