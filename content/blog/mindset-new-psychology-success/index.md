@@ -74,6 +74,10 @@ tags: ["parenting"]
     - When praising your children, praise effort and progress
     - Think about how you can demonstrate growth mindset to your children
 
+# Little Big Things
+
+- TODO
+
 # Quotes
 
 We like to think of our champions and idols as superheroes who were born different from us. We don’t like to think of them as relatively ordinary people who made themselves extraordinary.
@@ -142,3 +146,4 @@ People with the growth mindset in sports (as in pre-med chemistry) took charge o
 - https://www.samuelthomasdavies.com/book-summaries/psychology/mindset/
 - https://www.getstoryshots.com/books/mindset-summary/
 - https://www.deanbokhari.com/mindset-summary/
+- https://tompeters.com/docs/The_Little_BIG_Things_Compressed.pdf
