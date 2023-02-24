@@ -34,6 +34,9 @@ tags: ["productivity", "learning"]
 # [Learning Organization](/learning-organization)
 - [learning organization summary](/learning-organization)
 
+# Range: Why Generalists 
+- TODO????
+
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
@@ -127,3 +130,6 @@ you shall receive when you ask questions
 - https://www.sitrakaratsimba.com/limitless-upgrade-your-brain-learn-anything-faster-and-unlock-your-exceptional-life/
 - https://theartofliving.com/how-to-read-a-book-summary/
 - https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples
+- https://www.grahammann.net/book-notes/range-why-generalists-triumph-in-a-specialized-world-david-epstein
+- https://readingraphics.com/book-summary-range-why-generalists-triumph-in-a-specialized-world/#:~:text=In%20this%20book%2C%20David%20Epstein,successes%20in%20a%20complex%20world.
+- 
