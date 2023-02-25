@@ -178,11 +178,17 @@ many of the benefits of the declarative design are obtained once you have combin
 - Align the model with the consistent aspects of the domain that make it a viable area of knowledge in the first place.
 
 ## context map
-- to plot strategy, we need a realistic, large-scale view of model development extending across our project and others we integrate with.
-- Identify each model in play on the project and define its bounded context. This includes the implicit models of non-object-oriented subsystems.
-- Name each bounded context, and make the names part of the ubiquitous language
-- describe the point of contact between the models, outlining explicit translation for any communication. Highlighting any sharing, isolation mechanism, and levels of influence.
-- Map the existing terrain. Take up the transformations later.
+- we should not directly use functionality and data structures through different bounded contexts. The bounded contexts must be encapsulated, as independent as possible. To reach this goal, bounded contexts must communicate through abstractions (interfaces) and, if necessary, translation layers or even anti-corruption layers.
+To make the bounded contexts ecosystems explicitly clear, encapsulated, loosely coupled and high cohesive, we should:
+
+- Create a global view of all bounded contexts and their relations, using context maps, naming them and adding them to the ubiquitous language. 
+  - Identify the points of contact between bounded contexts, together with the used translations and abstractions. All developers must know the boundaries and to what context any given code unit belongs to.
+  - Personally, I find that having diagrams of the context maps hanging in the walls of the development offices is a great way of communicating the boundaries to the team, and keeping them in mind at all times. They should include their components, contact points, translator layers, and anti-corruption layers.
+  - Define teams organization to match the technical and conceptual bounded contexts we (want to) have in the project (Conway’s law).
+  - Personally I also find it natural and logic to explicitly define the bounded contexts as modules and sub-modules, in the project structure.
+  - Name each bounded context, and make the names part of the ubiquitous language
+  - describe the point of contact between the models, outlining explicit translation for any communication. Highlighting any sharing, isolation mechanism, and levels of influence.
+  - Map the existing terrain. Take up the transformations later.
 
 ## partnership
 - when teams in two contexts succeed or fail together, a cooperative relationship often emerges
@@ -201,13 +207,20 @@ where development failure in either of two contexts would result in delivery fai
 - when 2 teams are in an upstream-downstream relationship, where the upstream team may succeed independently of the fate of the downstream team, the needs of the downstream come to be addressed in a variety of ways with a wide range of consequences.
 - Establish a clear customer/supplier relationship between the two teams, meaning downstream priorities factor into upstream planning.
 - Negotiate and budget tasks for downstream requirements so that everyone understands the commitment and schedule
+- The customer needs are the priority while deciding the schedule of the supplier.
 - jointly developed automated acceptance tests and validate the expected interface from the upstream. Adding these tests to the upstream team's test suite, to be run as part of its continuous integration, will free the upstream team to make changes without fear of downstream side effects.
+- Crucial, for a customer/supplier relation to work, its that the involved teams work under the same management, who should be as hierarchically close as possible to the actual teams.
 
 ## conformist
 - similar to customer/supplier, but the upstream has no motivation to provide for the downstream team's need
 - to eliminate the complexity of translation between bounded contexts by slavishly adhering to the model of the upstream team.
 - Ubiquitous language with your upstream team will be shared.
 - Altruism may be sufficient to get them to share information with you.
+- **Abandon the supplier**:  In case there are better options or the added value of maintaining such relation is not worth it. [SEPARATE WAYS]
+- **Take full responsibility for translation**: If the supplier can not be abandoned but the technical quality is less than acceptable. [ANTI-CORRUPTION LAYER]
+- **Adopt the foreign model**: If the quality of the supplier is acceptable and compatible, we can fully adopt its model. [CONFORMIST]
+- The conformist approach can simplify integration enormously, as no translation nor anti-corruption layers would be needed, and it would provide the same ubiquitous language to both teams.
+
 
 ## anticorruption layer
 - Translation becomes more complex when control or communication is insufficient to pull off a shared kernel, partner, or customer/supplier relationship. As a result, the translation takes on a more defensive tone.
