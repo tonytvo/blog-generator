@@ -220,12 +220,25 @@ where development failure in either of two contexts would result in delivery fai
 - **Take full responsibility for translation**: If the supplier can not be abandoned but the technical quality is less than acceptable. [ANTI-CORRUPTION LAYER]
 - **Adopt the foreign model**: If the quality of the supplier is acceptable and compatible, we can fully adopt its model. [CONFORMIST]
 - The conformist approach can simplify integration enormously, as no translation nor anti-corruption layers would be needed, and it would provide the same ubiquitous language to both teams.
+- **Shared Kernel Vs Conformist**
+  - They both deal with a situation where two bounded contexts share part of the model. However, the shared kernel is appropriate only when the teams owning the modules can coordinate and collaborate tightly. When we have a situation where there is a customer/supplier frame, and collaboration is not possible, we need to use a conformist approach, or an Anti-Corruption layer.
 
+## anti-corruption layer
 
-## anticorruption layer
 - Translation becomes more complex when control or communication is insufficient to pull off a shared kernel, partner, or customer/supplier relationship. As a result, the translation takes on a more defensive tone.
 - As a downstream client, create an isolating layer to provide your system with the functionality of the upstream system in terms of your own domain model.
 - This layer talks to the other system through its existing interface, requiring little or no modification to the other system. Internally, the layer translates in one or both directions as necessary between the two models.
+- The Anti-Corruption layer is implemented using:
+  - **FACADE**
+    - An abstraction layer on top of a system API, as to limit and simplify the usage of the underlying API.
+  - **ADAPTER**
+    - Which allow us to connect to different subsystems/APIs through a stable interface, implemented by all adapters who connect to equivalent subsystems/APIs.
+  - **TRANSLATOR**
+    - A stateless object used by the adapters, and which belongs to a specific adapter. They hold the logic to perform the conversion of conceptual objects or Entities, from one subsystem to another.
+
+- Translation layer Vs Anti-corruption layer
+  - The translation layer is collaboratively maintained by the teams owning both bounded contexts.
+  - The anti-corruption layer is fully maintained by one of the team, the one owning the client module.
 
 ## open-host service
 - Where integration is one-off, this approach of inserting a translation layer for each external system avoids corruption of the models with a minimum cost.
@@ -239,7 +252,12 @@ where development failure in either of two contexts would result in delivery fai
 - Published language is often combined with open-host service.
 
 ## separate ways
-declare a bounded context to have no connection to the others, allowing developers to find simple, specialized solutions within this small scope.
+
+- declare a bounded context to have no connection to the others, allowing developers to find simple, specialized solutions within this small scope.
+- "*Integration is always expensive. Sometimes the benefit is small.*"
+- We should only integrate sub-systems if we really, REALLY, need to. We should, as much as possible, define bounded contexts that are completely independent, completely disconnected from other bounded contexts, and therefore have no need for integration.
+
+
 ## big ball of mud
 - well-defined context boundaries only emerge from intellectual choices and social forces (even though the people creating the systems may not always have been consciously aware of these causes at the time).
 - Draw a boundary around the entire mess and designate it as a big ball of mud. Do not try to apply sophisticated modelling within this context.
