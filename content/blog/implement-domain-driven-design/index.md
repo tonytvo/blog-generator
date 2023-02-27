@@ -482,7 +482,6 @@ review design DDD quickly
 - https://devopedia.org/domain-driven-design
 - https://philippe.bourgau.net/categories/#squash-bduf-with-event-storming-series
 - https://www.infoq.com/articles/ddd-contextmapping/
-- https://dev.to/salah856/implementing-domain-driven-design-part-i-5a72
 - https://github.com/leubedane/iddd-redbook-summary
 - https://medium.com/@ruxijitianu/summary-of-the-domain-driven-design-concepts-9dd1a6f90091
 - https://www.amazon.ca/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
