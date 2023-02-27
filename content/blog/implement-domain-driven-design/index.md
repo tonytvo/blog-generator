@@ -267,6 +267,47 @@ where development failure in either of two contexts would result in delivery fai
 - Distillation is the process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful
 - A model is a distillation of knowledge.
 
+## Integrating sub-modules
+
+- A large scale domain model is composed of smaller domain models.
+- However, the smaller domain models don’t even have to agree on their view of the global domain model. As long as they operate on their own, we can maintain their integrity.
+- It’s only when they need to integrate, that we might need to find common views on the models.
+
+- Several strategies can be used to integrate sub-models:
+
+  - Draw a Context Map of the **current** state of the model;
+  - Define the Bounded Contexts borders with the whole dev team;
+  - Guarantee that the Bounded Contexts borders and relation are known and understood by the whole dev team;
+  - We must carefully model **aiming at small or large Bounded Contexts** by considering their advantages:
+    - Advantages of large models:
+      - Its easier to understand one model than several models plus their mappings;
+      - There is no need for translation layers, which might be complex;
+      - One shared language eases communication.
+    - Advantages of small models:
+      - Needs less communication between developers working in the same model;
+      - Its easier to manage smaller code bases and teams;
+      - Smaller contexts are simpler, requiring less skills from the developers;
+      - Smaller models provide more flexibility to the global model.
+  - Identify and alienate what is not part of our bounded context. A good starting is to exclude **what can not change** and **what we do not need** in our bounded context;
+  - When **integrating external systems**, we can consider 3 patterns:
+    - SEPARATE WAYS: Only integrate if we really need to, otherwise keep them completely isolated;
+    - CONFORMIST: Fully adhere and rely on the external system model;
+    - ANTI-CORRUPTION LAYER: Completely isolate the two systems, allowing them to communicate through a middle-ware, requiring no changes to either system.
+  - When **integrating internal systems** (inside the same bounded context) we can:
+    - Use a SHARED KERNEL to split relatively independent functionality into separate bounded contexts.
+    - Set up CUSTOMER/SUPPLIER DEV TEAMS, if all the dependencies of the subsystems go in one direction;
+    - Go SEPARATE WAYS, if for some reason its not possible to integrate the sub-systems;
+    - Use a TRANSLATION LAYER, to connect both systems, which is maintained by the teams of both systems.
+  - Deployment of new versions must be carefully coordinated by the teams owning the bounded contexts that connect, and as such the Bounded Contexts boundaries must be defined with these issues in mind:
+    - Customer/Supplier structures must be tested together to prevent regressions;
+    - Long deployments must be managed carefully to minimize issues with data migration temporary inconsistencies;
+    - A Shared Kernel update must be tested and verified to satisfy all client systems to prevent regressions.
+  - In the end, like most architectural decisions, the decision of how to integrate the sub-models in our global model, relies on trade-offs.
+  - Here, in the extremes, we are trading off decoupled logic and management of that logic, for easier and faster integration of functionality.
+  - [decouple logic and simplicity trade off](./decoupling_vs_simplicity.png)
+
+
+
 ## core domain
 - to make a domain model an asset, the critical core of that model has to be sleek and fully leveraged to create application functionality.
 - Boil the model down. Define a core domain and provide a means of easily distinguishing it from the mass of supporting model and code.
