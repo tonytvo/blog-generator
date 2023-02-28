@@ -307,6 +307,68 @@ where development failure in either of two contexts would result in delivery fai
   - [decouple logic and simplicity trade off](./decoupling_vs_simplicity.png)
 
 
+## Refactoring Bounded Contexts ecosystem
+
+- When we already have a system in place and we want to refactor it, the first step is to identify the current situation. For this, we need to create a schema of the current configuration of the bounded contexts (sub-models) in our system.
+
+- From this clear view of the current situation, we can start breaking or merging contexts. While breaking up a bounded context is usually easy, merging them is usually quite difficult, as there can exist very different concepts and models. We will typically want to merge contexts when there is too much translation overhead or duplication.
+
+- **From SEPARATE WAYS to SHARED KERNEL**
+  - Define one of 3 strategies:
+    - Refactor one context into the other context model;
+    - Create a new context with the best pieces of each of the contexts;
+    - Create a completely new, deeper model, which can replace both the initial models.
+  - Create a small team with developers from both the initial teams;
+  - Define the new shared model:
+    - Decide the code to be shared, identifying overlaps/duplications in both initial models;
+    - Decide naming conventions;
+  - Create a basic test suite for the shared kernel, which will grow along with the implementation;
+  - Implement the new model, merging frequently and rethinking it when needed;
+    - Start simple, with code that is non-critical, duplicated in both contexts. Something being translated is a good choice;
+  - Integrate the original contexts with the new Shared Kernel;
+  - Remove any obsolete code (translation layers, etc.).
+
+- **From SHARED KERNEL to CONTINUOUS INTEGRATION**
+
+  - If the Shared Kernel continues to grow, maybe we should completely merge the Bounded Contexts. This, however, involves not only the code but also the teams structure, their work-flow and their language.
+
+    - Create the same work-flow in both teams;
+    - Set-up Continuous Integration in both teams;
+    - Circulate developers in both teams, as means to sharing and spreading knowledge;
+    - Distil each model individually;
+    - Start merging the core domain, doing it as fast as possible, prioritizing it above most new development, so we don’t lose the momentum. Beware not to leave out any specialized functionality needed by the users;
+    - As the Shared Kernel grows, increase the integration frequency until we have continuous integration;
+    - The goal is to, in the end, have one big team, or two small teams who circulate members and do continuous integration.
+
+- **Phasing out a legacy system**
+
+Phasing out a legacy system means, most of the times, replacing it for one or several newer systems.
+
+  - Identify a small piece of the legacy system that can be moved to one of the new systems;
+  - Identify additions needed in the Anti-Corruption layer;
+  - Implement
+  - Deploy
+  - Identify obsolete code in the Anti-Corruption layer and remove it;
+  - Identify obsolete code in the legacy system and, if possible, remove it.
+
+- **From OPEN HOST SERVICE to PUBLISHED LANGUAGE**
+
+Sometimes, when in an Open Host Service architecture, we will have several ad-hoc protocols specific to each communication situation. There is no common, standard communication protocol.
+
+As the need to integrate with more systems grows, the amount of communication specificities grows as well: Scalability and maintainability are at risk.
+
+Therefore we need a common, standard, communication Interchange Language that any system con use to communicate with our system, we need a published language:
+
+- If possible, use an industry standard language;
+- If its not possible to use an industry standard language, create your own:
+  - Start by making the core domain as clear as possible;
+  - Use the core domain as the base for the new interchange language;
+  - If possible, use a general purpose Interchange Language Syntax (XML, JSON) as a base for our new Interchange Language;
+  - Publish the language, making it known to all involved in the systems collaboration;
+  - Publish any architectural changes as well;
+  - Build translation layers for all collaborating systems;
+  - Switch to the new Interchange Language.
+
 
 ## core domain
 - to make a domain model an asset, the critical core of that model has to be sleek and fully leveraged to create application functionality.
