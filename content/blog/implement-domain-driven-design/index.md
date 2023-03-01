@@ -250,6 +250,7 @@ where development failure in either of two contexts would result in delivery fai
 - The translation between the models of two bounded contexts requires a common language.
 - Use a well-documented shared language to express the necessary domain information as a common communication medium, translating as essential into and out of that language.
 - Published language is often combined with open-host service.
+- data must flow through those Services, in some language they can all understand. This language is a textual representation of the data, its a Data Interchange Language. There are currently several examples of such languages, like XML or JSON, and there are even more specific languages based on base languages like the mentioned XML or JSON. For example, a widely used specific XML representation of pharmaceutical data.
 
 ## separate ways
 
