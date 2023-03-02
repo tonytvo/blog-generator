@@ -6,24 +6,25 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
 ---
 
 # Questions
+- github repo for this kata: https://github.com/tonytvo/coffee-machine-kata
 - what's the right input?
-- how can we write tests wihtout writing the parser
+- how can we write tests without writing the parser
 - which one is correct?
   - seems like we lean toward T:0:1 on the input intent? 
-
+- here's the PR I have on refactoring practice -> https://github.com/tonytvo/coffee-machine-kata/pull/1
 - What have you learned?
   - this kata is very rich in term of domain/functional tibbits
   - once I finish encapsulating drinks and ingredients, I started to realize couple other domain concepts like inventory, recipes, etc....
   - seems like introduce parameter is very helpful, keep surface to the top as much as possible
   - the better we are as introduce parameter, dependency, the more we can clear recognize the boundaries between different parts, like model, view controller
   - focus more on reading so we can understand more on what's needed
-  - we have disagree on what th requiremnts looks like
-  - we don't have to understand test fraework, we spend itme in the wrong direction
-  - before we spend time on the task, we need to spened time on understanding the r3quiremnt
+  - we have disagree on what th requirements looks like
+  - we don't have to understand test framework, we spend time in the wrong direction
+  - before we spend time on the task, we need to spent time on understanding the requirement
   - we expect the string and then use some regex .. kind of like cucumber
   - we all made good points
   - communicate with kindness, intention, respect, and considerate
-  - we're confusing on the sstring format
+  - we're confusing on the string format
   - we all have our interpretation
   - we have some difficulty to start up the gitpod from a person that's not the owner of the git repo
   - at the end of refactor, I keep having the feeling that is so close, want to finish it off and getting sloppy and combine multiple small refactor together
