@@ -18,7 +18,7 @@ tags: ["evolutionarydesign", "tdd", "refactoring"]
   - seems like introduce parameter is very helpful, keep surface to the top as much as possible
   - the better we are as introduce parameter, dependency, the more we can clear recognize the boundaries between different parts, like model, view controller
   - focus more on reading so we can understand more on what's needed
-  - we have disagree on what th requirements looks like
+  - we have disagreed on what the requirements looks like
   - we don't have to understand test framework, we spend time in the wrong direction
   - before we spend time on the task, we need to spent time on understanding the requirement
   - we expect the string and then use some regex .. kind of like cucumber
