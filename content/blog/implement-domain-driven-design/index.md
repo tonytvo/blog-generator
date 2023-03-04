@@ -288,8 +288,9 @@ where development failure in either of two contexts would result in delivery fai
     - Advantages of small models:
       - Needs less communication between developers working in the same model;
       - Its easier to manage smaller code bases and teams;
-      - Smaller contexts are simpler, requiring less skills from the developers;
+      - Smaller contexts are simpler, requiring less skills of versatile abstract models from the developers;
       - Smaller models provide more flexibility to the global model.
+      - continuous integration is easier with smaller teams and code bases.
   - Identify and alienate what is not part of our bounded context. A good starting is to exclude **what can not change** and **what we do not need** in our bounded context;
   - When **integrating external systems**, we can consider 3 patterns:
     - SEPARATE WAYS: Only integrate if we really need to, otherwise keep them completely isolated;
