@@ -331,32 +331,36 @@ declare a bounded context to have no connection to the others, allowing develope
   - True story: How model-driven design rescued a project and created unexpected opportunities. 193-203
   - How software experts can work with domain experts to explore and refine models. 207-210
   - Supple Design: How a system can become easier to extend and adapt rather than ossifying into legacy 243-245
-Overview of the rhythm of domain-driven design and how it allows for upside surprise opportunities to emerge.
-Introduction to three principles for applying domain-driven design to large projects and enterprises. 328-329
-Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs. 331-338
-How much integration do you need?
-How can you structure relationships between teams to get it? 341-371, (headings and bold)
-Whimsical, non-technical example 378-381
-Broad tradeoffs between context strategies Figure 14.13 (on p. 388)
-Distillation: How do you focus on your central problem and keep from drowning in a sea of side issues?
-400-405 A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components 410-412
-Reducing project risk by tackling the core domain early 413-414
-Crafting a domain vision statement 415-416
-Large-scale structure: How to make a sprawling system comprehensible and encourage consistency across subsystems?
-How to have structure without stifling development? 439-442, 444-446
-Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt 478(bottom)-479
-Putting the pieces together to develop a design strategy 490-497
-Tracking five real domain-driven design projects and their long-term outcomes. 500-505
-How to avoid common pitfalls of modeling in software development?
-How to bring business people and developers into an effective collaboration?
-How to bring rigor to the modeling process to help the system scale?
-How to apply modeling in a multi-team environment?
-How to focus design effort on high-value areas and avoid over-investing elsewhere?
-References
-https://herbertograca.com/2015/09/16/domain-driven-design-by-eric-evans-chap-3-binding-model-and-implementation/
-https://dev.to/ielgohary/domain-driven-design-by-eric-evans-part-i-5d8m
-https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD-Nontechnical-path-through-the-blue-book.pdf
+  - Overview of the rhythm of domain-driven design and how it allows for upside surprise opportunities to emerge.
+  - Introduction to three principles for applying domain-driven design to large projects and enterprises. 328-329
 
+- **Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs. 331-338**
+  - How much integration do you need?
+  - How can you structure relationships between teams to get it? 341-371, (headings and bold)
+  - Whimsical, non-technical example 378-381
+  - Broad tradeoffs between context strategies Figure 14.13 (on p. 388)
+
+- **Distillation: How do you focus on your central problem and keep from drowning in a sea of side issues?**
+  - 400-405 A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components 410-412
+  - Reducing project risk by tackling the core domain early 413-414
+  - Crafting a domain vision statement 415-416
+
+- **Large-scale structure: How to make a sprawling system comprehensible and encourage consistency across subsystems?**
+  - How to have structure without stifling development? 439-442, 444-446
+  - Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt 478(bottom)-479
+  - Putting the pieces together to develop a design strategy 490-497
+  - Tracking five real domain-driven design projects and their long-term outcomes. 500-505
+
+- **How to avoid common pitfalls of modeling in software development?**
+
+- **How to bring business people and developers into an effective collaboration?**
+
+- **How to bring rigor to the modeling process to help the system scale?**
+
+- **How to apply modeling in a multi-team environment?**
+
+- **How to focus design effort on high-value areas and avoid over-investing elsewhere?**
+  
 - **Knowledge crunching: How a team can accumulate, distill and apply domain knowledge to software development?**
 
 - 
@@ -472,3 +476,5 @@ review design DDD quickly
 - https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps
 - https://www.youtube.com/watch?v=ekMPm78KFj0&t=1820s
 - [visual collaboration tools](./visualcollaborationtools.pdf)
+- https://dev.to/ielgohary/domain-driven-design-by-eric-evans-part-i-5d8m
+- https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD-Nontechnical-path-through-the-blue-book.pdf
