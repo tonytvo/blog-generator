@@ -38,6 +38,7 @@ iron out difficulties by experimenting with alternative expressions, which refle
 
 
 # model-driven design
+
 - tightly relating the code to an underlying model gives the code meaning and makes the model relevant.
 - Design a portion of the software system to reflect the domain model literally so that the mapping is obvious.
 - Revisit the model and modify it to be implemented more naturally in software, even as you seek to make it reflect deeper insight into the domain
@@ -46,6 +47,25 @@ iron out difficulties by experimenting with alternative expressions, which refle
 - **Anyone responsible for changing code must learn to express a model through the code.**
 - Every developer must be involved in discussing the model and contact domain experts.
 - Those who contribute in different ways must consciously engage those who touch the code in a dynamic exchange of model ideas through the ubiquitous language.
+
+- A model can be very descriptive of the domain while being unrepresentable in code. If the implementation is not considered while building the model:
+
+  - The model can have objects and relations that cannot be stored in a database.
+  - Model will detail irrelevant subjects and ignore important subjects.
+  - Some discoveries about the domain might not be apparent without considering the implementation details.
+
+- **Design Model vs Analysis Model**
+  - There are 2 types of models:
+
+    - Analysis Model: Captures the fundamentals of the domain concepts in comprehensible, expressive way. (Focuses on the domain)
+    - Design Model: Specify a set of components that can be constructed using programming tools and correctly solves the problem. (Focuses on the implementation)
+  Model-Driven Design
+    - Model-Driven Design integrates both Analysis and Design models and it serves both purposes.
+
+- The underlying model of the system should be the same model shown to users. Otherwise, confusion will arise and the language will not be descriptive enough. Having different models can also cause unexpected behaviors to the users. An example to that is how Microsoft Internet Explorer modeled the bookmarks.
+
+  - For the user, "Favorites" was a list of URLs but to the actual implementation a "Favorite" is a file that contains a URL. This meant that URL names had to follow windows file naming restrictions. So if a user saved a URL and named it "AOT: 3" they will get an error stating that file names cannot contain special characters like ":" which is very confusing.
+
 
 ## layered architecture
 - isolate the expression of the domain model and the business logic, and eliminate any dependency on infrastructure, user interface, or even application reason that is not business logic. Concentrate all the code related to the domain model in one layer and isolate it from the user interface, application, and infrastructure code.
@@ -275,8 +295,71 @@ declare a bounded context to have no connection to the others, allowing develope
 - a pluggable component framework usually only comes into play after a few applications have already been implemented in the same domain.
 - Distill an abstract core of interfaces and interactions and create a framework that allows diverse implementations of those interfaces to be freely substituted. Likewise, it will enable any application to use those components, so long as it operates strictly through the interfaces of the abstract core.
 
-# [DD with legacy code](/ddd-with-legacy-code)
+# DDD with legacy code
+- [DDD with legacy code](/ddd-with-legacy-code)
 
+# Questions
+
+- **how to mange same model in different sub-systems?**
+  - like user in participant? financial reporting? plan admin?
+
+- **what are the common domain concepts between tax and financial reporting?**
+
+- **Knowledge Crunching: How a team can accumulate, distill and apply domain knowledge to software development?**
+  - 12-15 (from "Ingredients of...")
+
+- **Ubiquitous Language: How to bring about a clearer and more dynamic flow of domain knowledge throughout the project?**
+  - 24-27 Example 27-30 Consequences 32-34
+
+- **How documents & diagrams can work for a project instead of just being work?**
+  - It's important to know that diagrams do not need to have the full context of the model. The goal of the diagram is to explain the model and they should be as simple as possible. You should use diagram and documents to explain the model but they don't have to be a replica of the model. 
+  - a document should not do what the code already does well, which is to provide details
+  - a document must be involved in project activities
+  - light-weight architecture decision records?
+  - is the document written in the language people speak on the project? is it written in the language embedded in the code?
+  - if the terms explained in a design document don't start showing up in conversations and code, the document is not fullfilling its purpose.
+  - as the domain model comes to reflect the most relevant knowledge of the business applications become scenarios within that model, and the ubiquitous language can be used to describe such a scenario in terms that directly connect to the model driven design, as a result, specifications can be written more simply because they do not have to convey the business knowledge that lies behind the model.
+  - keeping documents minimal and focusing them on complementing code and conversation, documents can stay connected to the project.
+
+- **What is model driven design?**
+  - 35-40 How to make modeling relevant to the the goals of a software project:
+  - ModelDriven Design. 47-50?
+  - Why models matter to users?
+  - 57-59 The necessity of eliminating the distinction between modelers and programmers. 60-62
+
+- **What Constitutes a Useful Model-Driven Design and How to Go About Finding Such a Design?**
+  - True story: How model-driven design rescued a project and created unexpected opportunities. 193-203
+  - How software experts can work with domain experts to explore and refine models. 207-210
+  - Supple Design: How a system can become easier to extend and adapt rather than ossifying into legacy 243-245
+Overview of the rhythm of domain-driven design and how it allows for upside surprise opportunities to emerge.
+Introduction to three principles for applying domain-driven design to large projects and enterprises. 328-329
+Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs. 331-338
+How much integration do you need?
+How can you structure relationships between teams to get it? 341-371, (headings and bold)
+Whimsical, non-technical example 378-381
+Broad tradeoffs between context strategies Figure 14.13 (on p. 388)
+Distillation: How do you focus on your central problem and keep from drowning in a sea of side issues?
+400-405 A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components 410-412
+Reducing project risk by tackling the core domain early 413-414
+Crafting a domain vision statement 415-416
+Large-scale structure: How to make a sprawling system comprehensible and encourage consistency across subsystems?
+How to have structure without stifling development? 439-442, 444-446
+Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt 478(bottom)-479
+Putting the pieces together to develop a design strategy 490-497
+Tracking five real domain-driven design projects and their long-term outcomes. 500-505
+How to avoid common pitfalls of modeling in software development?
+How to bring business people and developers into an effective collaboration?
+How to bring rigor to the modeling process to help the system scale?
+How to apply modeling in a multi-team environment?
+How to focus design effort on high-value areas and avoid over-investing elsewhere?
+References
+https://herbertograca.com/2015/09/16/domain-driven-design-by-eric-evans-chap-3-binding-model-and-implementation/
+https://dev.to/ielgohary/domain-driven-design-by-eric-evans-part-i-5d8m
+https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD-Nontechnical-path-through-the-blue-book.pdf
+
+- **Knowledge crunching: How a team can accumulate, distill and apply domain knowledge to software development?**
+
+- 
 # Exercises
 
 - https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2
