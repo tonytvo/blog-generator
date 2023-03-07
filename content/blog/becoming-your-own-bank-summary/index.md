@@ -260,7 +260,7 @@ tags: ["strategy"]
 
   - we should be suspicious when the government offers a "solution" (i.e. tax-qualified plans) to a problem that the government itself created (i.e. high tax rates). The government could raid these 401(k)s for the reason that the Americans would be better off if the government assumed their volatile stock portfolios and instead guaranteed them retirement benefits down the road.
 
-- **wont' I get ripped off by the huge agent commission?**
+- **won't I get ripped off by the huge agent commission?**
 
   - it is important to note that a whole life policy configured according to Nelson Nash's philosophy actually minimizes the proportion of the initial premium payments going to the agent commission. This is why it is important to obtain a whole life policy from an agent who truly understands and believes in the IBC mindsets; other agents would have a natural incentive to steer the client away from the proper configuration, and into a policy where the cash value's growth is stunted in the beginning.
 
