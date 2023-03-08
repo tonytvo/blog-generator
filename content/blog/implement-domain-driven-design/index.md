@@ -338,7 +338,7 @@ where development failure in either of two contexts would result in delivery fai
     - Create the same work-flow in both teams;
     - Set-up Continuous Integration in both teams;
     - Circulate developers in both teams, as means to sharing and spreading knowledge;
-    - Distil each model individually;
+    - Distill each model individually;
     - Start merging the core domain, doing it as fast as possible, prioritizing it above most new development, so we don’t lose the momentum. Beware not to leave out any specialized functionality needed by the users;
     - As the Shared Kernel grows, increase the integration frequency until we have continuous integration;
     - The goal is to, in the end, have one big team, or two small teams who circulate members and do continuous integration.
@@ -371,6 +371,7 @@ Therefore we need a common, standard, communication Interchange Language that an
   - Publish any architectural changes as well;
   - Build translation layers for all collaborating systems;
   - Switch to the new Interchange Language.
+- the published language must be stable, yet you'll still need the freedom to change the host's model as you continue your relentless refactoring. Therefore, do not equate the interchange language and the model of the host. Keeping them close together will reduce the translation overhead.
 
 
 ## core domain
