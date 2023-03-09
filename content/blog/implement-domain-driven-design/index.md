@@ -264,6 +264,7 @@ where development failure in either of two contexts would result in delivery fai
 - well-defined context boundaries only emerge from intellectual choices and social forces (even though the people creating the systems may not always have been consciously aware of these causes at the time).
 - Draw a boundary around the entire mess and designate it as a big ball of mud. Do not try to apply sophisticated modelling within this context.
 - Be alert to the tendency for such systems to sprawl into other contexts.
+
 # Distillation for strategic design
 - how do you focus on your central problem and keep from drowning in a sea of side issues?
 - Distillation is the process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful
@@ -496,6 +497,13 @@ Therefore we need a common, standard, communication Interchange Language that an
   - keeping documents minimal and focusing them on complementing code and conversation, documents can stay connected to the project.
 
 - **What is model driven design?**
+  - a domain model is not a particular diagram, it is the idea that the diagram is intended to convey. It is not just the knowledge in a domain's expert's head. It is a rigorously organized and selective abstraction. 
+  - a model is a selectively simplified and consciously structured form of knowledge. An appropriate model makes sense of information and focuses it on a problem.
+  - The utility of a model in domain-driven design
+    - **the model and the heart of the design shape each other**. It is the intimate link between the model and the implementation that makes the model relevant and ensures that the analysis that went into it applies to the final products.
+    - **the model is the backbone of a language used by all team members**.
+    - The model is distilled knowledge
+
   - 35-40 How to make modeling relevant to the the goals of a software project:
   - ModelDriven Design. 47-50?
   - Why models matter to users?
