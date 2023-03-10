@@ -465,7 +465,7 @@ Therefore we need a common, standard, communication Interchange Language that an
     - Binding model and implementation
       - The implementation is strictly based on the model;
     - Cultivating a language based on the model
-      - The model contains terms which are the base of a language common to both Domain Exerts and Developers;
+      - The model contains terms which are the base of a language common to both Domain Experts and Developers;
     - Developing a knowledge rich model
       - The model must be more than a representation of data structures, it must contain all kinds of knowledge. It must contain ideas, data structures, objects, behaviours, enforced rules, etc.
     - Distilling the model
@@ -497,12 +497,16 @@ Therefore we need a common, standard, communication Interchange Language that an
   - keeping documents minimal and focusing them on complementing code and conversation, documents can stay connected to the project.
 
 - **What is model driven design?**
+  - contrasting 3 projects
+    - project 1 lacked domain model, or even common language on the project and were saddled with unstructured design. A year later, the team found itself bogged down unable to deliver the second version due to complexity in business logic.
+    - project 2 has incisive model, repeatedly refined and expressed in code, as the team gained new insight into the new domain, the model deepened. The quality of communication improved not only among developers, but also between developers and domain experts, and the design, far from imposing an ever heavier maintenance burden, became easier to modify and extend.
+    - project 3 involves teams with good tools and good understanding of business and it gave careful attention to modeling. But a poorly chosen separation of developer roles disconnected modeling from implementation, so that the design did not reflect the deep analysis that was going on. Repeated iteration produced no improvement in code, due to uneven skill levels among developers, who had no awareness of the informal body of style and technique for creating model-based objects that also function as practical running software. As months rolled by, development work became mired in complexity and the team lost its cohesive vision of the system.
   - a domain model is not a particular diagram, it is the idea that the diagram is intended to convey. It is not just the knowledge in a domain's expert's head. It is a rigorously organized and selective abstraction. 
   - a model is a selectively simplified and consciously structured form of knowledge. An appropriate model makes sense of information and focuses it on a problem.
   - The utility of a model in domain-driven design
     - **the model and the heart of the design shape each other**. It is the intimate link between the model and the implementation that makes the model relevant and ensures that the analysis that went into it applies to the final products.
     - **the model is the backbone of a language used by all team members**.
-    - The model is distilled knowledge
+    - The model is distilled knowledge: the model is the team's agreed upon way of structuring domain knowledge and distinguishing the elements of most interest. The model captures how we choose to think about the domain as we select terms, break down concepts, and relate them.
 
   - 35-40 How to make modeling relevant to the the goals of a software project:
   - ModelDriven Design. 47-50?
