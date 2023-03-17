@@ -1,9 +1,14 @@
 ---
-title: mindset new psychology of success by Carol summary
+title: mindset new psychology of success by Carol summary wip
 date: "2022-07-25T22:12:03.284Z"
 description: "mindset new psychology of success by Carol summary"
 tags: ["parenting"]
 ---
+
+# todo
+
+- update little big things
+- update readwise
 
 # take-aways
 - ![2 mindsets](./Carol-Dweck-Two-Mindsets.jpg)
