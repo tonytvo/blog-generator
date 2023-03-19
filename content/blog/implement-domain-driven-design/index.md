@@ -24,8 +24,24 @@ Domain-Driven Design is an approach to the development of complex software in wh
 
 ## Bounded Context
 - Explicitly define the context within which a model applies.
+- multiple models are in play on any large project. Yet the code based on distinct models is combined, software becomes buggy, unreliable, and difficult to understand. Communications among team members confused. It is often unclear what context a model should not be applied.
 - **Explicitly set boundaries in team organization, usage within specific application parts, and physical manifestations such as code bases and database schemas.**
 - Apply continuous integration to keep the model concepts and terms strictly consistent within these bounds, but don't be distracted or confused by issues outside. 
+- **bounded context are not modules**
+  - modules organize the elements within one model
+  - the separate name spaces that modules create within a bounded context actually make it harder to spot accidental model fragmentation.
+
+- **recognizing splinters within a bounded context**.
+  - **Duplicate concepts**: The same concept is represented and implemented in more than one way. This means that when a concept changes, it has to be updated in several places, and the developers need to be aware of the several different ways of doing one same thing, as well as the subtle difference within them.
+  - **False cognates**: When two people are using the same term and they think they are talking about the same thing, but they are actually thinking of different things.
+
+- the internal consistency of a model, such that each term is unambiguous and no rules contradict, is called unification.
+  - **total unification of the domain model for a large system will not be feasible or cost-effective.**
+  - risks for unifying all the software in a large project under single model
+    - too many legacy replacement may be attempted at once
+    - large projects may bog down because the coordination overhead exceeds their abilities.
+    - applications with specialized requirements may have to use models that don't fully satisfy their needs, forcing them to put behavior elsewhere
+    - conversely, attempting to satisfy everyone with single model may lead to complex options that make the model difficult to use.
 
 ## Ubiquitous Language
 - **Use the model as the backbone of a language. Then, commit the team to exercise that language relentlessly in all communication within the team and in the code.**
@@ -162,11 +178,17 @@ many of the benefits of the declarative design are obtained once you have combin
 - Align the model with the consistent aspects of the domain that make it a viable area of knowledge in the first place.
 
 ## context map
-- to plot strategy, we need a realistic, large-scale view of model development extending across our project and others we integrate with.
-- Identify each model in play on the project and define its bounded context. This includes the implicit models of non-object-oriented subsystems.
-- Name each bounded context, and make the names part of the ubiquitous language
-- describe the point of contact between the models, outlining explicit translation for any communication. Highlighting any sharing, isolation mechanism, and levels of influence.
-- Map the existing terrain. Take up the transformations later.
+- we should not directly use functionality and data structures through different bounded contexts. The bounded contexts must be encapsulated, as independent as possible. To reach this goal, bounded contexts must communicate through abstractions (interfaces) and, if necessary, translation layers or even anti-corruption layers.
+To make the bounded contexts ecosystems explicitly clear, encapsulated, loosely coupled and high cohesive, we should:
+
+- Create a global view of all bounded contexts and their relations, using context maps, naming them and adding them to the ubiquitous language. 
+  - Identify the points of contact between bounded contexts, together with the used translations and abstractions. All developers must know the boundaries and to what context any given code unit belongs to.
+  - Personally, I find that having diagrams of the context maps hanging in the walls of the development offices is a great way of communicating the boundaries to the team, and keeping them in mind at all times. They should include their components, contact points, translator layers, and anti-corruption layers.
+  - Define teams organization to match the technical and conceptual bounded contexts we (want to) have in the project (Conway’s law).
+  - Personally I also find it natural and logic to explicitly define the bounded contexts as modules and sub-modules, in the project structure.
+  - Name each bounded context, and make the names part of the ubiquitous language
+  - describe the point of contact between the models, outlining explicit translation for any communication. Highlighting any sharing, isolation mechanism, and levels of influence.
+  - Map the existing terrain. Take up the transformations later.
 
 ## partnership
 - when teams in two contexts succeed or fail together, a cooperative relationship often emerges
@@ -185,18 +207,38 @@ where development failure in either of two contexts would result in delivery fai
 - when 2 teams are in an upstream-downstream relationship, where the upstream team may succeed independently of the fate of the downstream team, the needs of the downstream come to be addressed in a variety of ways with a wide range of consequences.
 - Establish a clear customer/supplier relationship between the two teams, meaning downstream priorities factor into upstream planning.
 - Negotiate and budget tasks for downstream requirements so that everyone understands the commitment and schedule
+- The customer needs are the priority while deciding the schedule of the supplier.
 - jointly developed automated acceptance tests and validate the expected interface from the upstream. Adding these tests to the upstream team's test suite, to be run as part of its continuous integration, will free the upstream team to make changes without fear of downstream side effects.
+- Crucial, for a customer/supplier relation to work, its that the involved teams work under the same management, who should be as hierarchically close as possible to the actual teams.
 
 ## conformist
 - similar to customer/supplier, but the upstream has no motivation to provide for the downstream team's need
 - to eliminate the complexity of translation between bounded contexts by slavishly adhering to the model of the upstream team.
 - Ubiquitous language with your upstream team will be shared.
 - Altruism may be sufficient to get them to share information with you.
+- **Abandon the supplier**:  In case there are better options or the added value of maintaining such relation is not worth it. [SEPARATE WAYS]
+- **Take full responsibility for translation**: If the supplier can not be abandoned but the technical quality is less than acceptable. [ANTI-CORRUPTION LAYER]
+- **Adopt the foreign model**: If the quality of the supplier is acceptable and compatible, we can fully adopt its model. [CONFORMIST]
+- The conformist approach can simplify integration enormously, as no translation nor anti-corruption layers would be needed, and it would provide the same ubiquitous language to both teams.
+- **Shared Kernel Vs Conformist**
+  - They both deal with a situation where two bounded contexts share part of the model. However, the shared kernel is appropriate only when the teams owning the modules can coordinate and collaborate tightly. When we have a situation where there is a customer/supplier frame, and collaboration is not possible, we need to use a conformist approach, or an Anti-Corruption layer.
 
-## anticorruption layer
+## anti-corruption layer
+
 - Translation becomes more complex when control or communication is insufficient to pull off a shared kernel, partner, or customer/supplier relationship. As a result, the translation takes on a more defensive tone.
 - As a downstream client, create an isolating layer to provide your system with the functionality of the upstream system in terms of your own domain model.
 - This layer talks to the other system through its existing interface, requiring little or no modification to the other system. Internally, the layer translates in one or both directions as necessary between the two models.
+- The Anti-Corruption layer is implemented using:
+  - **FACADE**
+    - An abstraction layer on top of a system API, as to limit and simplify the usage of the underlying API.
+  - **ADAPTER**
+    - Which allow us to connect to different subsystems/APIs through a stable interface, implemented by all adapters who connect to equivalent subsystems/APIs.
+  - **TRANSLATOR**
+    - A stateless object used by the adapters, and which belongs to a specific adapter. They hold the logic to perform the conversion of conceptual objects or Entities, from one subsystem to another.
+
+- Translation layer Vs Anti-corruption layer
+  - The translation layer is collaboratively maintained by the teams owning both bounded contexts.
+  - The anti-corruption layer is fully maintained by one of the team, the one owning the client module.
 
 ## open-host service
 - Where integration is one-off, this approach of inserting a translation layer for each external system avoids corruption of the models with a minimum cost.
@@ -208,17 +250,130 @@ where development failure in either of two contexts would result in delivery fai
 - The translation between the models of two bounded contexts requires a common language.
 - Use a well-documented shared language to express the necessary domain information as a common communication medium, translating as essential into and out of that language.
 - Published language is often combined with open-host service.
+- data must flow through those Services, in some language they can all understand. This language is a textual representation of the data, its a Data Interchange Language. There are currently several examples of such languages, like XML or JSON, and there are even more specific languages based on base languages like the mentioned XML or JSON. For example, a widely used specific XML representation of pharmaceutical data.
+- direct translation to and from the existing domain models may not be a good solution. Those models may be overly complex or poorly factored. They are probably undocumented. If one is used as a data interchange language, it essentially become frozen and cannot respond to new development needs.
 
 ## separate ways
-declare a bounded context to have no connection to the others, allowing developers to find simple, specialized solutions within this small scope.
+
+- declare a bounded context to have no connection to the others, allowing developers to find simple, specialized solutions within this small scope.
+- "*Integration is always expensive. Sometimes the benefit is small.*"
+- We should only integrate sub-systems if we really, REALLY, need to. We should, as much as possible, define bounded contexts that are completely independent, completely disconnected from other bounded contexts, and therefore have no need for integration.
+
+
 ## big ball of mud
 - well-defined context boundaries only emerge from intellectual choices and social forces (even though the people creating the systems may not always have been consciously aware of these causes at the time).
 - Draw a boundary around the entire mess and designate it as a big ball of mud. Do not try to apply sophisticated modelling within this context.
 - Be alert to the tendency for such systems to sprawl into other contexts.
+
 # Distillation for strategic design
 - how do you focus on your central problem and keep from drowning in a sea of side issues?
 - Distillation is the process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful
 - A model is a distillation of knowledge.
+
+## Integrating sub-modules
+
+- A large scale domain model is composed of smaller domain models.
+- However, the smaller domain models don’t even have to agree on their view of the global domain model. As long as they operate on their own, we can maintain their integrity.
+- It’s only when they need to integrate, that we might need to find common views on the models.
+
+- Several strategies can be used to integrate sub-models:
+
+  - Draw a Context Map of the **current** state of the model;
+  - Define the Bounded Contexts borders with the whole dev team;
+  - Guarantee that the Bounded Contexts borders and relation are known and understood by the whole dev team;
+  - We must carefully model **aiming at small or large Bounded Contexts** by considering their advantages:
+    - Advantages of large models:
+      - Its easier to understand one model than several models plus their mappings;
+      - There is no need for translation layers, which might be complex;
+      - One shared language eases communication.
+    - Advantages of small models:
+      - Needs less communication between developers working in the same model;
+      - Its easier to manage smaller code bases and teams;
+      - Smaller contexts are simpler, requiring less skills of versatile abstract models from the developers;
+      - Smaller models provide more flexibility to the global model.
+      - continuous integration is easier with smaller teams and code bases.
+  - Identify and alienate what is not part of our bounded context. A good starting is to exclude **what can not change** and **what we do not need** in our bounded context;
+  - When **integrating external systems**, we can consider 3 patterns:
+    - SEPARATE WAYS: Only integrate if we really need to, otherwise keep them completely isolated;
+    - CONFORMIST: Fully adhere and rely on the external system model;
+    - ANTI-CORRUPTION LAYER: Completely isolate the two systems, allowing them to communicate through a middle-ware, requiring no changes to either system.
+  - When **integrating internal systems** (inside the same bounded context) we can:
+    - Use a SHARED KERNEL to split relatively independent functionality into separate bounded contexts.
+    - Set up CUSTOMER/SUPPLIER DEV TEAMS, if all the dependencies of the subsystems go in one direction;
+    - Go SEPARATE WAYS, if for some reason its not possible to integrate the sub-systems;
+    - Use a TRANSLATION LAYER, to connect both systems, which is maintained by the teams of both systems.
+  - Deployment of new versions must be carefully coordinated by the teams owning the bounded contexts that connect, and as such the Bounded Contexts boundaries must be defined with these issues in mind:
+    - Customer/Supplier structures must be tested together to prevent regressions;
+    - Long deployments must be managed carefully to minimize issues with data migration temporary inconsistencies;
+    - A Shared Kernel update must be tested and verified to satisfy all client systems to prevent regressions.
+  - In the end, like most architectural decisions, the decision of how to integrate the sub-models in our global model, relies on trade-offs.
+  - Here, in the extremes, we are trading off decoupled logic and management of that logic, for easier and faster integration of functionality.
+  - [decouple logic and simplicity trade off](./decoupling_vs_simplicity.png)
+
+
+## Refactoring Bounded Contexts ecosystem
+
+- When we already have a system in place and we want to refactor it, the first step is to identify the current situation. For this, we need to create a schema of the current configuration of the bounded contexts (sub-models) in our system.
+
+- From this clear view of the current situation, we can start breaking or merging contexts. While breaking up a bounded context is usually easy, merging them is usually quite difficult, as there can exist very different concepts and models. We will typically want to merge contexts when there is too much translation overhead or duplication.
+
+- **From SEPARATE WAYS to SHARED KERNEL**
+  - Define one of 3 strategies:
+    - Refactor one context into the other context model;
+    - Create a new context with the best pieces of each of the contexts;
+    - Create a completely new, deeper model, which can replace both the initial models.
+  - Create a small team with developers from both the initial teams;
+  - Define the new shared model:
+    - Decide the code to be shared, identifying overlaps/duplications in both initial models;
+    - Decide naming conventions;
+  - Create a basic test suite for the shared kernel, which will grow along with the implementation;
+  - Implement the new model, merging frequently and rethinking it when needed;
+    - Start simple, with code that is non-critical, duplicated in both contexts. Something being translated is a good choice;
+  - Integrate the original contexts with the new Shared Kernel;
+  - Remove any obsolete code (translation layers, etc.).
+
+- **From SHARED KERNEL to CONTINUOUS INTEGRATION**
+
+  - If the Shared Kernel continues to grow, maybe we should completely merge the Bounded Contexts. This, however, involves not only the code but also the teams structure, their work-flow and their language.
+
+    - Create the same work-flow in both teams;
+    - Set-up Continuous Integration in both teams;
+    - Circulate developers in both teams, as means to sharing and spreading knowledge;
+    - Distill each model individually;
+    - Start merging the core domain, doing it as fast as possible, prioritizing it above most new development, so we don’t lose the momentum. Beware not to leave out any specialized functionality needed by the users;
+    - As the Shared Kernel grows, increase the integration frequency until we have continuous integration;
+    - The goal is to, in the end, have one big team, or two small teams who circulate members and do continuous integration.
+
+- **Phasing out a legacy system**
+
+Phasing out a legacy system means, most of the times, replacing it for one or several newer systems.
+
+  - Identify a small piece of the legacy system that can be moved to one of the new systems;
+  - Identify additions needed in the Anti-Corruption layer;
+  - Implement
+  - Deploy
+  - Identify obsolete code in the Anti-Corruption layer and remove it;
+  - Identify obsolete code in the legacy system and, if possible, remove it.
+
+- **From OPEN HOST SERVICE to PUBLISHED LANGUAGE**
+
+Sometimes, when in an Open Host Service architecture, we will have several ad-hoc protocols specific to each communication situation. There is no common, standard communication protocol.
+
+As the need to integrate with more systems grows, the amount of communication specificities grows as well: Scalability and maintainability are at risk.
+
+Therefore we need a common, standard, communication Interchange Language that any system con use to communicate with our system, we need a published language:
+
+- If possible, use an industry standard language;
+- If its not possible to use an industry standard language, create your own:
+  - Start by making the core domain as clear as possible;
+  - Use the core domain as the base for the new interchange language;
+  - If possible, use a general purpose Interchange Language Syntax (XML, JSON) as a base for our new Interchange Language;
+  - Publish the language, making it known to all involved in the systems collaboration;
+  - Publish any architectural changes as well;
+  - Build translation layers for all collaborating systems;
+  - Switch to the new Interchange Language.
+- the published language must be stable, yet you'll still need the freedom to change the host's model as you continue your relentless refactoring. Therefore, do not equate the interchange language and the model of the host. Keeping them close together will reduce the translation overhead.
+
 
 ## core domain
 - to make a domain model an asset, the critical core of that model has to be sleek and fully leveraged to create application functionality.
@@ -310,7 +465,7 @@ declare a bounded context to have no connection to the others, allowing develope
     - Binding model and implementation
       - The implementation is strictly based on the model;
     - Cultivating a language based on the model
-      - The model contains terms which are the base of a language common to both Domain Exerts and Developers;
+      - The model contains terms which are the base of a language common to both Domain Experts and Developers;
     - Developing a knowledge rich model
       - The model must be more than a representation of data structures, it must contain all kinds of knowledge. It must contain ideas, data structures, objects, behaviours, enforced rules, etc.
     - Distilling the model
@@ -342,6 +497,17 @@ declare a bounded context to have no connection to the others, allowing develope
   - keeping documents minimal and focusing them on complementing code and conversation, documents can stay connected to the project.
 
 - **What is model driven design?**
+  - contrasting 3 projects
+    - project 1 lacked domain model, or even common language on the project and were saddled with unstructured design. A year later, the team found itself bogged down unable to deliver the second version due to complexity in business logic.
+    - project 2 has incisive model, repeatedly refined and expressed in code, as the team gained new insight into the new domain, the model deepened. The quality of communication improved not only among developers, but also between developers and domain experts, and the design, far from imposing an ever heavier maintenance burden, became easier to modify and extend.
+    - project 3 involves teams with good tools and good understanding of business and it gave careful attention to modeling. But a poorly chosen separation of developer roles disconnected modeling from implementation, so that the design did not reflect the deep analysis that was going on. Repeated iteration produced no improvement in code, due to uneven skill levels among developers, who had no awareness of the informal body of style and technique for creating model-based objects that also function as practical running software. As months rolled by, development work became mired in complexity and the team lost its cohesive vision of the system.
+  - a domain model is not a particular diagram, it is the idea that the diagram is intended to convey. It is not just the knowledge in a domain's expert's head. It is a rigorously organized and selective abstraction. 
+  - a model is a selectively simplified and consciously structured form of knowledge. An appropriate model makes sense of information and focuses it on a problem.
+  - The utility of a model in domain-driven design
+    - **the model and the heart of the design shape each other**. It is the intimate link between the model and the implementation that makes the model relevant and ensures that the analysis that went into it applies to the final products.
+    - **the model is the backbone of a language used by all team members**.
+    - The model is distilled knowledge: the model is the team's agreed upon way of structuring domain knowledge and distinguishing the elements of most interest. The model captures how we choose to think about the domain as we select terms, break down concepts, and relate them.
+
   - 35-40 How to make modeling relevant to the the goals of a software project:
   - ModelDriven Design. 47-50?
   - Why models matter to users?
@@ -497,3 +663,4 @@ review design DDD quickly
 - [visual collaboration tools](./visualcollaborationtools.pdf)
 - https://dev.to/ielgohary/domain-driven-design-by-eric-evans-part-i-5d8m
 - https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD-Nontechnical-path-through-the-blue-book.pdf
+- https://herbertograca.com/category/development/book-notes/domain-driven-design-by-eric-evans/
