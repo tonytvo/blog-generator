@@ -1,9 +1,16 @@
 ---
-title: getting to yes summary
+title: getting to yes summary wip
 date: "2021-12-23T22:12:03.284Z"
 description: "getting to yes summary"
 tags: ["productivity", "negotiation"]
 ---
+
+## todo
+
+- update summary for never split the difference by Chris Voss
+- update the readwise.io
+
+# take-aways
 
 Negotiation methods should be judged by three criteria
 - **It should produce a wise agreement if an agreement is possible**
@@ -98,7 +105,8 @@ Generally, the best way to deal with people's problems is to prevent them from a
 misunderstanding, even though you may be speaking directly and they may be hearing you, they may misinterpret what you say
 
 # References
-https://www.beyondintractability.org/bksum/fisher-getting
-https://readingraphics.com/book-summary-getting-to-yes/
-https://www.whatyouwilllearn.com/book/getting-to-yes/
-https://www.sage.exchange/post/getting-to-yes-summary
+- https://www.beyondintractability.org/bksum/fisher-getting
+- https://readingraphics.com/book-summary-getting-to-yes/
+- https://www.whatyouwilllearn.com/book/getting-to-yes/
+- https://www.sage.exchange/post/getting-to-yes-summary
+- https://www.grahammann.net/book-notes/never-split-the-difference-chris-voss
