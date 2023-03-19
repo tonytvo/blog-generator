@@ -38,3 +38,5 @@ tags: ["realestateinvesting", "financialindependence"]
 - https://www.scribd.com/book/556011288/Summary-of-Brandon-Turner-s-The-Book-on-Investing-In-Real-Estate-with-No-and-Low-Money-Down
 - https://www.youtube.com/watch?v=p7O-McTkKcE&ab_channel=CoachCarson
 - https://coachcarson.libsyn.com/how-i-bought-33-real-estate-deals-in-one-year-a-case-study
+- https://manassaloi.com/booksummaries/2017/07/24/no-money-down-turner.html
+- https://manassaloi.com/booksummaries/2020/12/30/capitalist-latka.html
