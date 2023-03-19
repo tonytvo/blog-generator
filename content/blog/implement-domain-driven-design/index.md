@@ -494,7 +494,7 @@ Therefore we need a common, standard, communication Interchange Language that an
   - is the document written in the language people speak on the project? is it written in the language embedded in the code?
   - if the terms explained in a design document don't start showing up in conversations and code, the document is not fullfilling its purpose.
   - as the domain model comes to reflect the most relevant knowledge of the business applications become scenarios within that model, and the ubiquitous language can be used to describe such a scenario in terms that directly connect to the model driven design, as a result, specifications can be written more simply because they do not have to convey the business knowledge that lies behind the model.
-  - keeping documents minimal and focusing them on complementing code and conversation, documents can stay connected to the project.
+  - keeping documents minimal and focusing them on complementing code and conversation, documents can stay connected to the project. Let the ubiquitous language and its evolution be your guide to choosing documents that live and get woven into the project's activity.
 
 - **What is model driven design?**
   - contrasting 3 projects
@@ -508,7 +508,7 @@ Therefore we need a common, standard, communication Interchange Language that an
     - **the model is the backbone of a language used by all team members**.
     - The model is distilled knowledge: the model is the team's agreed upon way of structuring domain knowledge and distinguishing the elements of most interest. The model captures how we choose to think about the domain as we select terms, break down concepts, and relate them.
 
-  - 35-40 How to make modeling relevant to the the goals of a software project:
+  - refer to the above questions on how documents and diagrams can help with model driven design
   - ModelDriven Design. 47-50?
   - Why models matter to users?
   - 57-59 The necessity of eliminating the distinction between modelers and programmers. 60-62
