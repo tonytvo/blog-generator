@@ -279,6 +279,10 @@ where development failure in either of two contexts would result in delivery fai
 - how do you focus on your central problem and keep from drowning in a sea of side issues?
 - Distillation is the process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful
 - A model is a distillation of knowledge.
+- Going through this distillation process has several benefits:
+  - Makes the overall design explicit and known;
+  - Distinguishes what is Core Domain from what is Generic Domain, reducing them to manageable sizes;
+  - Focus the software evolution (development and refactoring) in what is more relevant at a given moment.
 
 ## Integrating sub-modules
 
@@ -327,6 +331,11 @@ where development failure in either of two contexts would result in delivery fai
 
 - From this clear view of the current situation, we can start breaking or merging contexts. While breaking up a bounded context is usually easy, merging them is usually quite difficult, as there can exist very different concepts and models. We will typically want to merge contexts when there is too much translation overhead or duplication.
 
+- Eric Evans gives us two options:
+
+  - If in a “pain driven” refactoring, we need to find the root cause of the problem and start there, wherever that is.
+  - If in a “all out” refactoring, we need to start by refactoring the Core Domain into segregated Core Domains, Generic Subdomains and Cohesive Mechanisms.
+
 - **From SEPARATE WAYS to SHARED KERNEL**
   - Define one of 3 strategies:
     - Refactor one context into the other context model;
@@ -356,57 +365,80 @@ where development failure in either of two contexts would result in delivery fai
 
 - **Phasing out a legacy system**
 
-Phasing out a legacy system means, most of the times, replacing it for one or several newer systems.
+  - Phasing out a legacy system means, most of the times, replacing it for one or several newer systems.
 
-  - Identify a small piece of the legacy system that can be moved to one of the new systems;
-  - Identify additions needed in the Anti-Corruption layer;
-  - Implement
-  - Deploy
-  - Identify obsolete code in the Anti-Corruption layer and remove it;
-  - Identify obsolete code in the legacy system and, if possible, remove it.
+    - Identify a small piece of the legacy system that can be moved to one of the new systems;
+    - Identify additions needed in the Anti-Corruption layer;
+    - Implement
+    - Deploy
+    - Identify obsolete code in the Anti-Corruption layer and remove it;
+    - Identify obsolete code in the legacy system and, if possible, remove it.
 
 - **From OPEN HOST SERVICE to PUBLISHED LANGUAGE**
 
-Sometimes, when in an Open Host Service architecture, we will have several ad-hoc protocols specific to each communication situation. There is no common, standard communication protocol.
+  - Sometimes, when in an Open Host Service architecture, we will have several ad-hoc protocols specific to each communication situation. There is no common, standard communication protocol.
 
-As the need to integrate with more systems grows, the amount of communication specificities grows as well: Scalability and maintainability are at risk.
+  - As the need to integrate with more systems grows, the amount of communication specificities grows as well: Scalability and maintainability are at risk.
 
-Therefore we need a common, standard, communication Interchange Language that any system con use to communicate with our system, we need a published language:
+  - Therefore we need a common, standard, communication Interchange Language that any system con use to communicate with our system, we need a published language:
 
-- If possible, use an industry standard language;
-- If its not possible to use an industry standard language, create your own:
-  - Start by making the core domain as clear as possible;
-  - Use the core domain as the base for the new interchange language;
-  - If possible, use a general purpose Interchange Language Syntax (XML, JSON) as a base for our new Interchange Language;
-  - Publish the language, making it known to all involved in the systems collaboration;
-  - Publish any architectural changes as well;
-  - Build translation layers for all collaborating systems;
-  - Switch to the new Interchange Language.
-- the published language must be stable, yet you'll still need the freedom to change the host's model as you continue your relentless refactoring. Therefore, do not equate the interchange language and the model of the host. Keeping them close together will reduce the translation overhead.
+  - If possible, use an industry standard language;
+  - If its not possible to use an industry standard language, create your own:
+    - Start by making the core domain as clear as possible;
+    - Use the core domain as the base for the new interchange language;
+    - If possible, use a general purpose Interchange Language Syntax (XML, JSON) as a base for our new Interchange Language;
+    - Publish the language, making it known to all involved in the systems collaboration;
+    - Publish any architectural changes as well;
+    - Build translation layers for all collaborating systems;
+    - Switch to the new Interchange Language.
+  - the published language must be stable, yet you'll still need the freedom to change the host's model as you continue your relentless refactoring. Therefore, do not equate the interchange language and the model of the host. Keeping them close together will reduce the translation overhead.
 
 
-## core domain
+## Core Domain
+
 - to make a domain model an asset, the critical core of that model has to be sleek and fully leveraged to create application functionality.
 - Boil the model down. Define a core domain and provide a means of easily distinguishing it from the mass of supporting model and code.
 - **Bring the most valuable and specialized concepts into sharp relief. Make the core small.**
-- Apply top talent to the core domain, and recruit accordingly.
 - **Spend the effort in the core to find a deep model and develop a supple design - sufficient to fulfill the system's vision.**
+- Within the Domain, the Core Domain is the actual purpose of the application, is the reason of its existence, its why we started building it in the first place.
+- The distillation and definition of the core domain is crucial and it should drive human resources hiring and allocation, as well as the biggest design effort to create a supple and maintainable design:
+  - Hire developers that fit best with the Core Domain;
+  - Assign the best developers to the Core Domain;
+  - Try your best to keep the Core Domain the priority in suppleness and maintainability;
+  - Refactorings that most closely affect the Core Domain should have priority;
+- **The greatest value of custom software comes from the total control of the Core Domain**.
+  - Create long term relations with your best, most committed and interested domain experts;
+  - Create opportunities for our best technical experts to learn the Domain;
+  - Assign our best, most committed, interested and long term connected developers to develop and maintain the Core Domain;
+  - Use a well designed framework to save us from developing the most generic parts and leave us free to focus on the core.
+
 
 ## generic subdomains
 - some parts of the model add complexity without capturing or communicating specialized knowledge.
-- Identify cohesive subdomains that are not the motivation for your project, factor out generic models of these subdomains and place them in separate modules.
-- Leave no trace of your specialties in them.
-- once they have been separated, give their continuing development lower priority than the core domain, and avoid assigning your core developers to the tasks (because they will gain little domain knowledge from them)
-- also, consider off-the-shelf solutions or published models for these generic subdomains.
+- An example of a Generic Sub-Domain is “time-zones”. Although time-zones are needed, and maybe even crucial, they are not part of our main business.
+- We need to:
+  - Identify cohesive Sub-Domains that are not the main motivation of our project;
+  - Extract those Sub-Domains into cohesive and decoupled modules;
+  - Consider using existing solutions (community off-the-shelve solutions).
+  - Leave no trace of your specialties in them.
+  - once they have been separated, give their continuing development lower priority than the core domain, and avoid assigning your core developers to the tasks (because they will gain little domain knowledge from them)
+  - also, consider off-the-shelf solutions or published models for these generic subdomains.
 
 ## domain vision statement
 - the critical aspects of the domain model may span multiple bounded contexts, but by definition, these distinct models can't be structured to show their common focus.
 - Write a short description (about one page) of the core domain and the value it will bring, the "value proposition." ignore those aspects that do not distinguish this domain model from others.
 - Write this statement early and revise it as you gain new insight.
+- It can be derived from a Project Vision Statement, but it is more specific, it focus on the nature of the Domain Model, its value and differential.
+- It is a document that should be used through the whole development process, helping to guide resource allocation, guide modelling choices and educate team members.
+- This will help keep the team focus on what is really important in the project and the Domain at hand.
 
 ## highlighted core
 - a domain vision statement identifies the core domain in broad terms, but it leaves the identification of the specific core model elements up to the vagaries of individual interpretation. Unless there is an exceptionally high level of communication on the team, the vision statement alone will have little impact.
 - **The mental labour of constantly filtering the model to identify the essential parts absorbs concentration better spent on design thinking, and it requires comprehensive knowledge of the model. Therefore, the core domain must be made easier to see.**
+  - extensive formal documentation, using UML and other diagramming. For example, a digital document vault
+  - reduced and informal, but visible, documentation of concepts. For example, a context diagram, hand drawn, hanging on the office wall.
+  - light-weight architecture records.
+  - brief documents describing the Core Domain and the interactions between its elements. This document should be minimalistic, should not contain implementation details, on the contrary, it should focus on abstraction, broad strokes, the stable concepts.
 - **Write a brief document (3-7 sparse pages) describing the core domain and the primary interactions among core elements.**
 - Flag the elements of the core domain within the primary repository of the model without particularly trying to elucidate its role. Make it effortless for a developer to know what is in or out of the core.
 - Although the vision statement and highlighted core inform and guide, they do not modify the model or the code itself.
@@ -420,6 +452,20 @@ Therefore we need a common, standard, communication Interchange Language that an
 - The other elements of the domain can focus on expressing the problem ("what"), delegating the intricacies of the solution ("how") to the framework.
 - **Factoring out generic subdomains reduces clutter, and cohesive mechanisms serve to encapsulate complex operations. This leaves behind a more focused model, with fewer distractions that add no particular value to how users conduct their activities.**
 - You are unlikely to find good homes for everything in the domain model that is not core.
+- To help maintainability, simplicity and usability of the Domain classes, we should extract cohesive mechanisms sets into separate libraries which can then be used by the Domain objects, through interfaces, keeping these smaller, focused and more expressive.
+
+- The CORE DOMAIN and a GENERIC SUBDOMAIN formulate facts, rules or problems.
+
+- A COHESIVE MECHANISM resolves a rule as needed by the model, and can be used as a separate library.
+
+- An example of a COHESIVE MECHANISM is a graph traversal framework which, although being a generic programming theme with many possible algorithms, implements only the traversal algorithms needed by the Domain.
+
+- Another example can be a STATE MACHINE library, which is a generic cohesive concept who’s complexity can be kept away from the Domain and used through an intention revealing interface.
+
+- Yet another example can be a library to construct SPECIFICATION objects.
+- **Generic Subdomains Vs Cohesive Mechanisms**
+  - Both Generic Subdomains and Cohesive Mechanisms share the goal of responsibility segregation and keeping the Core Domain focused on what is more relevant in the domain.
+  - The difference is that the Generic Subdomain is still part of the Domain, although not as important as the Core Domain, and a Cohesive Mechanism is not part of the Domain at all, it is used by the Domain to solve a very generic problem, using a set of cohesive algorithms.
 
 ## The segregated core
 - approach to structurally marking off the core domain.
@@ -647,6 +693,14 @@ I never design a building before I've seen the site and met the people who will 
 the only important thing about design is how it relates to people.
 
 a design isn't finished until somebody is using it.
+
+Each of these techniques requires a successively greater commitment, but a knife gets sharper as its blade is ground finer. Successive distillation of a domain model produces an asset that gives the project speed, agility, and precision of execution.
+
+Creating distinctive software comes back to a stable team accumulating specialized knowledge and crunching it into a rich model
+
+Generic Subdomains reduce the clutter in the Core Domain, leaving it focused on what is more important.
+
+Cohesive Mechanisms are used to encapsulate complex operations used by the Domain.
 
 **still under constructions**
 **Next Steps:**
