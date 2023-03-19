@@ -78,13 +78,23 @@ iron out difficulties by experimenting with alternative expressions, which refle
   Model-Driven Design
     - Model-Driven Design integrates both Analysis and Design models and it serves both purposes.
 
+- if the design, or some central part of it, does not map to the domain model, that model is of little value, and the correctness of the software is suspect. At the same time, complex mappings between models and design functions are difficult to understand and, in practice, impossible to maintain as the design changes. A deadly divide opens between analysis and design so that insight gains in each of those activities does not feed into the other.
+
+- design a portion of software system to reflect the domain model in a very literal way, so that mapping is obvious. Revisit the model and modify it to be implemented more naturally in software, even as you seek to make it reflect deeper insight into the domain. Demand a single model that serves both purpose well, in addition to supporting a robust ubiquitous language.
+
+- draw from the model the terminology used in the design and the basic assignment of responsibilities. The code become the expression of the model, so a change to the code may be a change to the model. its effect must ripple through the rest of the project's activities accordingly.
+
+- To tie implementation slavishly to a model usually requires software development tools and languages that support a modeling paradigm, such as object-oriented programming.
+
 - The underlying model of the system should be the same model shown to users. Otherwise, confusion will arise and the language will not be descriptive enough. Having different models can also cause unexpected behaviors to the users. An example to that is how Microsoft Internet Explorer modeled the bookmarks.
 
   - For the user, "Favorites" was a list of URLs but to the actual implementation a "Favorite" is a file that contains a URL. This meant that URL names had to follow windows file naming restrictions. So if a user saved a URL and named it "AOT: 3" they will get an error stating that file names cannot contain special characters like ":" which is very confusing.
 
 - [model exploration whirlpool](https://www.domainlanguage.com/wp-content/uploads/2016/04/DDD_Model_Exploration_Whirlpool.png)
 
+- if the people who write the code do not feel responsible for the model, or don't understand how to make the model work for an application, then the model has nothing to do with the software. If developers don't realize that changing code changes the model, then their refactoring will weaken the model rather than strengthen it. Meanwhile, when a modeler is separated from the implementation process, he or she never acquires, or quickly loses, a feel for the constraints of implementation. The basic constraint of MODEL-DRIVEN-DESIGN - that the model supports an effective implementation and abstracts key domain knowledge - is half gone, and the resulting models will be impractical. Finally, the knowledge and skills of experienced designers won't be transferred to other developers if the division of labor prevents the kind of collaboration that conveys the subtleties of coding a MODEL-DRIVEN-DESIGN.
 
+- any technical person contributing to the model must spend some time touching the code, whatever primary role he or she plays on the project. Anyone responsible for changing the model must learn to express a model through the code. Every developer must be involved in some level of discussion about the model and have contact with domain experts. Those who contribute to different ways must consciously engage those who touch the code in a dynamic exchange of model ideas through the UBIQUITOUS LANGUAGE.
 ## layered architecture
 - isolate the expression of the domain model and the business logic, and eliminate any dependency on infrastructure, user interface, or even application reason that is not business logic. Concentrate all the code related to the domain model in one layer and isolate it from the user interface, application, and infrastructure code.
 - **The domain objects, free of the responsibility of displaying themselves, storing themselves, managing application tasks, and so forth, can be focused on expressing the domain model.**
@@ -508,10 +518,10 @@ Therefore we need a common, standard, communication Interchange Language that an
     - **the model is the backbone of a language used by all team members**.
     - The model is distilled knowledge: the model is the team's agreed upon way of structuring domain knowledge and distinguishing the elements of most interest. The model captures how we choose to think about the domain as we select terms, break down concepts, and relate them.
 
-  - refer to the above questions on how documents and diagrams can help with model driven design
-  - ModelDriven Design. 47-50?
-  - Why models matter to users?
-  - 57-59 The necessity of eliminating the distinction between modelers and programmers. 60-62
+  - refer to the "How documents & diagrams can work for a project instead of just being work?" question on how documents and diagrams can help with model driven design
+  - refer to [model driven design](#model-driven-design) 47-50?
+  - when a design is based on a model that reflects the basic concerns of the users and domain experts, the bones of the design can be revealed to the user to a greater extent than with other design approaches. Revealing the model gives the user more access to the potential of the software and yields consistent, predictable behaviors.
+
 
 - **What Constitutes a Useful Model-Driven Design and How to Go About Finding Such a Design?**
   - True story: How model-driven design rescued a project and created unexpected opportunities. 193-203
