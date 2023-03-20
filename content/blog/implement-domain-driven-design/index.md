@@ -283,6 +283,12 @@ where development failure in either of two contexts would result in delivery fai
   - Makes the overall design explicit and known;
   - Distinguishes what is Core Domain from what is Generic Domain, reducing them to manageable sizes;
   - Focus the software evolution (development and refactoring) in what is more relevant at a given moment.
+- strategic distillation of a domain model does all of the following:
+  - aids all team members in grasping the overall design of the system and how it fits together
+  - facilitates communication by identifying a core model of manageable size to enter the UBIQUITOUS LANGUAGE
+  - guides refactoring
+  - focuses work on areas of the model with the most value
+  - guides outsourcing, use of off-the-shelf components, and decisions about assignment.
 
 ## Integrating sub-modules
 
