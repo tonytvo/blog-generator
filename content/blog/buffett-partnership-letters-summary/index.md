@@ -1,9 +1,12 @@
 ---
-title: Buffett Partnership Letters by Warren Buffett summary
+title: Buffett Partnership Letters by Warren Buffett summary wip
 date: "2022-07-12T22:12:03.284Z"
 description: "Buffett Partnership Letters by Warren Buffett summary"
 tags: ["investing", "valueinvesting"]
 ---
+
+# todo
+- review https://manassaloi.com/booksummaries/2016/09/11/the-essays-warren-buffett.html
 
 - The Buffett Partnership Letters are classic reading for any value investor. Readers get an inside view of Warren Buffett’s investment philosophy — seeing where it did and did not evolve — early in his career.
 - From 1957 to 1968, the Buffett Partnership earned a 31.6% annual return (25.3% for limited partners), with no losing years, compared to 9.1% for the Dow.
@@ -333,3 +336,4 @@ tags: ["investing", "valueinvesting"]
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/buffett-partnership-letters-by-warren-buffett/)
 - https://www.youtube.com/watch?v=jMuX_-hE7SQ&ab_channel=TheSwedishInvestor
+- https://manassaloi.com/booksummaries/2016/09/11/the-essays-warren-buffett.html

@@ -571,7 +571,7 @@ where development failure in either of two contexts would result in delivery fai
     - The model is distilled knowledge: the model is the team's agreed upon way of structuring domain knowledge and distinguishing the elements of most interest. The model captures how we choose to think about the domain as we select terms, break down concepts, and relate them.
 
   - refer to the "How documents & diagrams can work for a project instead of just being work?" question on how documents and diagrams can help with model driven design
-  - refer to [model driven design](#model-driven-design) 47-50?
+  - refer to [model driven design](#model-driven-design)
   - when a design is based on a model that reflects the basic concerns of the users and domain experts, the bones of the design can be revealed to the user to a greater extent than with other design approaches. Revealing the model gives the user more access to the potential of the software and yields consistent, predictable behaviors.
 
 
