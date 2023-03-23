@@ -5,16 +5,14 @@ description: "Buffett Partnership Letters by Warren Buffett summary"
 tags: ["investing", "valueinvesting"]
 ---
 
-# todo
-- review https://manassaloi.com/booksummaries/2016/09/11/the-essays-warren-buffett.html
-
-- The Buffett Partnership Letters are classic reading for any value investor. Readers get an inside view of Warren Buffett’s investment philosophy — seeing where it did and did not evolve — early in his career.
+- Buffett thinks most markets are not purely efficient and that equating volatility (beta, shows how volatile the security is compared to the market) with risk is a gross distortion.
 - From 1957 to 1968, the Buffett Partnership earned a 31.6% annual return (25.3% for limited partners), with no losing years, compared to 9.1% for the Dow.
 - Buffett saw a satisfactory return as one that beat the Dow by 10% over the long term. And if he could not beat the Dow, it was best for the partners to invest through someone else.
 - His goal was to outperform in bear markets with average performance in bull markets — targeting a half percent decline for each 1% decline in the Dow. He constantly reminded the partners of it — tempered their expectations — every time he handily beat the Dow.
 - He favored a conservative approach, avoiding permanent capital loss.
 - 3 years is his minimum time needed to judge good performance (5 years is better), assuming the period saw both strong and weak markets.
 - "At all times, I attempt to have a portion of our portfolio in securities as least partially insulated from the behavior of the market, and this portion should increase as the market rises."
+- Three suggestions for investors from Buffett: First, beware of companies displaying weak accounting. If a company still does not expense options, or if its pension assumptions are fanciful, watch out. Second, unintelligible footnotes usually indicate untrustworthy management. If you can’t understand a footnote or other managerial explanation, it’s usually because the CEO doesn’t want you to. Finally, be suspicious of companies that trumpet earnings projections and growth expectations.
 - Buffett’s Fees: one-fourth of profits above 6% per year, with any year falling short of 6% in profits would be carried forward against future profits.
 - Indexes are tough competition to beat:
   - Buffett annually compared four of the largest mutual funds at the time against the Dow: "I present this data to indicate the Dow as an investment competitor is no pushover, and the great bulk of investment funds in the country are going to have difficulty in bettering, or perhaps even matching, its performance."
@@ -25,6 +23,7 @@ tags: ["investing", "valueinvesting"]
 - A conservative portfolio is measured by how well it performs in a bear market.
 - Good or bad performance should be measured against a benchmark(s), not by gains or losses in a year. Investors should objectively evaluate their performance against that benchmark.
 - "What I can and do promise is that: Our investments will be chosen on the basis of value, not popularity; that we will attempt to bring risk of permanent capital loss (not short-term quotational loss) to an absolute minimum by obtaining a wide margin of safety in each commitment and a diversity of commitments..."
+
 - Joys of Compounding:
   - Assume the voyage of Columbus had been underwritten with $30,000 in venture capital. Had the money been invested differently, say at 4% compounded annually to the present (i.e. 1962), Spain would have watched it grow to $2 trillion.
   - Assume Francis I of France paid $20,000 for Leonardo da Vinci’s Mona Lisa in 1540. Had he instead invested the money at 6% compounded annually (after-tax, of course), his estate would worth $1 quadrillion.
@@ -35,8 +34,7 @@ tags: ["investing", "valueinvesting"]
 - Investing is about probabilities and expectations which results can diverge from in the short term.
 - Position Sizing: He based it on the probability that an investment might result in worse relative performance to the Dow. Given two stocks with the same expected returns, the one with the lower probability of performing worse than the Dow gets the higher weighting in the portfolio. Overall weighting is determined by how tiny the probability can get. He was willing to go as high as 40% in any one position.
 - The beginning of 1967 was the first time Buffett complained about finding a lack of good opportunities. He questioned whether it was due to a change in the market environment, portfolio size, or more competition. He refused to invest outside his comfort zone, or chase the popular tech stock craze of the late ’60s.
-- By the end of 1967, Buffett said it was no longer possible for him to beat the Dow by 10% due to the late ’60s market behavior (he changed it to 5% over the Dow or 9%, whichever is lower). He saw a "distortion of a sound idea" — a shift in focus from long term performance to short term performance, leading to speculation in order to achieve the highest returns possible in the shortest amount of time. Buffett wasn’t willing to change his strategy to something he didn’t understand just to compete against the Go-Go funds. He would rather pass on the large, easy profits because of the risk of large capital losses that came with it.
-1967 was the first time he floated the possibility of retiring.
+- By the end of 1967, Buffett said it was no longer possible for him to beat the Dow by 10% due to the late ’60s market behavior (he changed it to 5% over the Dow or 9%, whichever is lower). He saw a "distortion of a sound idea" — a shift in focus from long term performance to short term performance, leading to speculation in order to achieve the highest returns possible in the shortest amount of time. Buffett wasn’t willing to change his strategy to something he didn’t understand just to compete against the Go-Go funds. He would rather pass on the large, easy profits because of the risk of large capital losses that came with it. 1967 was the first time he floated the possibility of retiring.
 - On Quantitative vs. Qualitative Analysis: both approaches can be used to make money. Investors who prefer one or the other, likely combine the two to some extent. Buffett considers himself of the quantitative type, but said his best ideas were qualitative — only when he had a "high probability insight." But those insights are rare. The quantitative side needs no insight — the numbers are either obvious or not.
 - Better to work with quality management that earn a decent return than chase a few percentage points higher returns by working with horrible management.
 - Recommended partners read The [Money Game](/money-game-summary) in 1968.
@@ -55,6 +53,7 @@ tags: ["investing", "valueinvesting"]
     - More concerned about buying at the right price then selling at the best price — squeezing the last penny out of a deal. He was happy selling below fair value.
     - Tend to move with the market — performing well in rising markets, poorly in declining markets.
     - In the 1964 letter, he split Generals into two groups: "Private Owner Basis" and "Relatively Undervalued." The "Private Owner Basis" were the typical Generals as described above. The "Relatively Undervalued" were securities selling cheap relative to other similar securities.
+  
   - Workouts (i.e. Special Situations):
     - Are dependent on a specific corporate action or event in order to profit, making it easier to predict when and how much could be earned, and the risk of it falling through.
     - Usually the result of corporate sales, spinoffs, mergers, liquidations, tenders, reorganizations, etc.
@@ -64,6 +63,7 @@ tags: ["investing", "valueinvesting"]
     - The second-largest portion of the portfolio.
     - Typically in 10-15 workouts at any time.
     - Buffett used borrowed money in workouts — a borrowing limit of 25% of the portfolio’s net worth — because of the higher degree of safety due to predictability of results and lower chance of short-term declines.
+  
   - Control Situations:
     - The activist role: Buy a controlling interest in a company or a large enough position to influence corporate policy (he would rather others did the work).
     - It requires a wide margin of safety and a large profit potential to be worthwhile.
@@ -72,6 +72,7 @@ tags: ["investing", "valueinvesting"]
     - It can insulate the portfolio from short-term market moves, like workouts.
     - Tend to move independently to the market.
     - Once controlled, market price was irrelevant. Operating performance of the business was all that mattered.
+
 - Mentioned Holdings:
   - Commonwealth Trust Co. (1958 Letter)
     - 10 to 20% position in the three partnerships at the time — at roughly 12% of outstanding shares.
@@ -79,6 +80,7 @@ tags: ["investing", "valueinvesting"]
     - A large bank owned 25.5% of outstanding shares, with the potential to merge.
     - Illiquid, inactive stock — only 300 shareholders with 2-3 trades per month.
     - Buffett eventually sold it for a profit — $80/share — because he found a (better) investment in a control situation.
+
 - Sanborn Map (1960 Letter)
   - 35% position in the portfolio
   - Buffett’s first attempt as an activist investor in a control situation.
@@ -88,6 +90,7 @@ tags: ["investing", "valueinvesting"]
   - In 1958, shares sold at $45/share, valuing the investment portfolio at 70 cents on the dollar and getting the map business free.
   - The goal was to separate the two, the portfolio from the map business, to realize the fair value of the portfolio and make the map business profitable again.
   - The board objected, instead offering to exchange Sanborn stock for the securities in the investment portfolio.
+
 - Dempster Mill Manufacturing Company (1961 Letter)
   - Started as a general but took control (70%) in 1961 — started buying shares five years prior, with an average price of $28/share.
   - Highly inactive market for the shares, only 15 shareholders.
@@ -99,6 +102,7 @@ tags: ["investing", "valueinvesting"]
   - Bottle exceeded expectations. He sold assets for cash and turned Dempster profitable.
   - Excess cash — from asset sales and profits — was invested in undervalued securities via a portfolio within Dempster. The portfolio was initially valued at $35/share — higher than the average purchase price of Dempster stock — plus the newly profitable business.
   - The business (minus the portfolio) was sold in 1963 at $80/share. The partnership retained control of the portfolio.
+
 - Berkshire Hathaway
   - Announced a controlling interest in the November 1965 letter.
   - Initially bought as a General.
@@ -107,12 +111,33 @@ tags: ["investing", "valueinvesting"]
   - Bought Illinois National Bank and Trust Co. through Berkshire in 1969.
   - Buffett had low expectations of the textile business in 1969. He was more enthusiastic about the insurance and bank businesses. He didn’t want to liquidate the textile business and put 1,100 people out of work (so long as the textile business earned a decent profit and did not need large additional amounts of capital).
 
+- **How Buffett and Charlie Munger run Berkshire**
+
+  - Buffett and Berkshire avoid making predictions and tell their managers to do the same. They think it is a bad managerial habit that too often leads managers to make up their financial reports.
+
+  - Buffett just gives a simple set of commands to his CEOs: to run their business as if (1) they are its sole owner, (2) it is the only asset they hold, and (3) they can never sell or merge it for a hundred years. This enables Berkshire CEOs to manage with a long-term horizon ahead of them, something alien to the CEOs of public companies whose short-term oriented shareholders obsess with meeting the latest quarterly earnings estimate. Short-term results matter, of course, but the Berkshire approach avoids any pressure to achieve them at the expense of strengthening long-term competitive advantages.
+  
+  - Stock splits are another common action in corporate America that Buffett points out disserve owner interests. Stock splits have three consequences: they increase transaction costs by promoting high share turnover; they attract shareholders with short-term, market-oriented views who unduly focus on stock market prices; and, as a result of both of those effects, they lead to prices that depart materially from intrinsic business value.
+  
+  - Intrinsic value: The discounted value of the cash that can be taken out of a business during its remaining life. Charlie and Berkshire are interested only in acquisitions that they believe will raise the per-share intrinsic value of Berkshire’s stock.
+  
+  - According to Buffett: Useful financial statements must enable a user to answer three basic questions about a business: approximately how much a company is worth, its likely ability to meet its future obligations, and how good a job its managers are doing in operating the business. Charlie and Buffett think that it is both deceptive and dangerous for CEOs to predict growth rates for their companies.
+
+  - “At Berkshire, we try to be as logical about compensation as about capital allocation. For example, we compensate Ralph Schey based upon the results of Scott Fetzer rather than those of Berkshire. What could make more sense, since he’s responsible for one operation but not the other? A cash bonus or a stock option tied to the fortunes of Berkshire would provide totally capricious rewards to Ralph. He could, for example, be hitting home runs at Scott Fetzer while Charlie and I rang up mistakes at Berkshire, thereby negating his efforts many times over. Conversely, why should option profits or bonuses be heaped upon Ralph if good things are occurring in other parts of Berkshire but Scott Fetzer is lagging?”
+  
+  - “Charlie and I believe that a CEO must not delegate risk control. It’s simply too important. If Berkshire ever gets in trouble, it will be my fault. It will not be because of misjudgments made by a Risk Committee or Chief Risk Officer.”
+
+  - “It has not been shareholders who have botched the operations of some of our country’s largest financial institutions. Yet they have borne the burden, with 90% or more of the value of their holdings wiped out in most cases of failure. The CEOs and directors of the failed companies, however, have largely gone unscathed. Their fortunes may have been diminished by the disasters they oversaw, but they still live in grand style. It is the behavior of these CEOs and directors that needs to be changed: If their institutions and the country are harmed by their recklessness, they should pay a heavy price-one not reimbursable by the companies”
+
+  - “Audit committees should unequivocally put auditors on the spot, making them understand they will become liable for major monetary penalties if they don’t come forth with what they know or suspect.”
+
 # Buffet's principles and rules of value investing
 - the data and qualitative information from 10K and 10Q reports can be used to evaluate the following principles:
   - Vigilant leadership
   - long-term prospects
   - stock stability
   - buy at attractive prices
+
 ## vigilant leadership
 - Sometimes, management focus more on optimizing their own pay rather than optimizing returns to the shareholders. In other cases, management may have the intention of maximizing the returns to the shareholders, but are taking high risks in doing so.
 - many managers simply want to grow their "empire" with the shareholders' retained earnings.
@@ -268,6 +293,7 @@ tags: ["investing", "valueinvesting"]
       - if yes, simply using the rate of inflation (2-3%) to protect your estimate from being too optimistic.
 
 ### buffet intrinsic value model
+
 - https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-21/
 - DCF model allowed you to estimate the company's value by discounting cash flows into perpetuity. The Buffet instrinsic value provide a finite solution and only summed the cash flows for a 10-year period.
 - DCF model use free cash flow, and Buffetts calculator use dividends plus book value growth.
@@ -332,6 +358,16 @@ tags: ["investing", "valueinvesting"]
 "The availability of a quotation for your business interest (stock) should always be an asset to be utilized if desired. If it gets silly enough in either direction, you take advantage of it. Its availability should never be turned into a liability whereby its periodic aberrations in turn formulate your judgments."
 
 "So the really big money tends to be made by investors who are right on qualitative decisions but, at least in my opinion, the more sure money tends to be made on the obvious quantitative decisions."
+
+“Not a dime of cash has left Berkshire for dividends share repurchases during the past 40 years. Instead, we have retained all of our earnings to strengthen our business, a reinforcement now running about $1 billion per month.”
+
+“ Our net worth has increased from $48 million to $157 billion during the last four decades. No other corporation has come to building its financial strength in this unrelenting way. By being so cautious in respect to leverage, we penalise our returns by a minor amount. Having loads of liquidity, though, lets us sleep well. Moreover, during the episodes of financial chaos that occasionally erupt in our economy, we will be equipped both financially and emotionally to play offense while others scramble for survival. That’s what allowed us to invest $15.6 billion in 25 days of panic following the Lehman bankruptcy in 2008.”
+
+“Investments that are denominated in a given currency include money-market funds, bonds, mortgages, bank deposits, and other instruments. Most of these currency-based investments are thought of as “safe.” In truth they are among the most dangerous of assets. Their beta may be zero, but their risk is huge. Over the past century these instruments have destroyed the purchasing power of investors in many countries, even as the holders continued to receive timely payments of interest and principal. This ugly result, moreover, will forever recur.”
+
+“Over time, the skill with which a company’s managers allocate capital has an enormous impact on the enterprise’s value."
+
+"what we’re looking for: (1) Large purchases, (2) Demonstrated consistent earning power (future projections are of no interest to us, nor are “turnaround” situations), (3) Businesses earning good returns on equity while employing little or no debt, (4) Management in place (we can’t supply it), (5) Simple businesses (if there’s lots of technology, we won’t understand it), (6) An offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).”
 
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/buffett-partnership-letters-by-warren-buffett/)
