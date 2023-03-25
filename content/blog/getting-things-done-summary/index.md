@@ -282,31 +282,32 @@ tags: ["productivity"]
 
   - Execution is a discipline, it’s a critical component of the strategy.
 The business leader is responsible for encouraging and promoting execution.
-Execution needs to be at the core of an organisations culture.
+Execution needs to be at the core of an organization's culture.
 Discipline
 
-  - Bossidy explains that you should think of execution as a process. Always be asking how and what, ask questions and remain accountable. Part of executing means that you need to be in a position to understand the business environment and the organisations capabilities. You need to be able to make assumptions and forecasts. Execution requires the ability to link strategy + operations + people who are going to execute the strategy. If these links aren’t clear and synchronised then the execution won’t be streamlined or effective. Therefore, Bossidy explains that there are three processes that are critical to effective execution: the people process, the strategy process, and the operations process.
+  - Bossidy explains that you should think of execution as a process. Always be asking how and what, ask questions and remain accountable. Part of executing means that you need to be in a position to understand the business environment and the organization's capabilities. You need to be able to make assumptions and forecasts. Execution requires the ability to link strategy + operations + people who are going to execute the strategy. If these links aren’t clear and synchronized then the execution won’t be streamlined or effective. Therefore, Bossidy explains that there are three processes that are critical to effective execution: the people process, the strategy process, and the operations process.
 
 ### Business leaders
 
 - Bossidy stresses the importance of having a great business leader who is totally committed to the company and has a clear understanding of the business and the current business environment. Without this commitment, a leader will not be in a position to execute strategies.
 
-- Bossidy explains that business leaders have three key roles when it comes to the execution. They must select the people who will also be managing the strategy and execution. The leader is responsible for setting the strategic direction and ensuring that everyone involved understands the goals. They are also in charge of coordinating operations. Bossidy stressed the importance of having the leader do these jobs, they are not something that should be delegated to a lower colleague.
+- Bossidy explains that business leaders have three key roles when it comes to execution. They must select the people who will also be managing the strategy and execution. The leader is responsible for setting the strategic direction and ensuring that everyone involved understands the goals. They are also in charge of coordinating operations. Bossidy stressed the importance of having the leader do these jobs, they are not something that should be delegated to a lower colleague.
 
 
 ### Culture
 
-- Bossidy, like many other authors, stressed the importance of culture within a business. Bossidy explains that execution needs to be a core part of this culture, it needs to be the norm and something that all employees understand. A leader who executes is someone who is constantly analysing the gap between the actual results and the desired results of any strategic plan. By learning from this gap they can take their knowledge onto the next project and make significant improvements.
+- Bossidy, like many other authors, stressed the importance of culture within a business. Bossidy explains that execution needs to be a core part of this culture, it needs to be the norm and something that all employees understand. A leader who executes is someone who is constantly analyzing the gap between the actual results and the desired results of any strategic plan. By learning from this gap they can take their knowledge onto the next project and make significant improvements.
 
-- Although Bossidy has pointed out that execution is the responsibility of senior leaders, it doesn’t mean that everyone in any organisation should practice the skills. By learning the skills of execution at any level, you will be making strides in advancing your career and eventually reaching that senior leadership role.
+- Although Bossidy has pointed out that execution is the responsibility of senior leaders, it doesn’t mean that everyone in any organization should practice the skills. By learning the skills of execution at any level, you will be making strides in advancing your career and eventually reaching that senior leadership role.
 
-- It’s the combination of people as individuals and as a collective that aid execution. If you can get everyone moving in the same direction and at the same time then successful execution is much more likely. Bossidy explains that any leader that lacks the discipline of execution, isn’t really a leader at all. They must strive to be rigorous and consistent with their actions and encourage all team members to practice the discipline of execution.
+- It’s the combination of people as individuals and as a collective that aids execution. If you can get everyone moving in the same direction and at the same time then successful execution is much more likely. Bossidy explains that any leader that lacks the discipline of execution, isn’t really a leader at all. They must strive to be rigorous and consistent with their actions and encourage all team members to practice the discipline of execution.
+
 
 ## THE BUILDING BLOCKS OF EXECUTION
 
 ### Building block one: seven essential behaviours of a leader
 
-- The first essential behaviour a leader needs it to know the people and the business. It’s so important that a leader is in touch with who they work with and the current business climate.
+- The first essential behaviour a leader needs is to know the people and the business. It’s so important that a leader is in touch with who they work with and the current business climate.
 
 - Realism is the second behaviour that a leader needs. Rather than avoiding the truth a great leader needs to embrace the truth. And if this means identifying and acknowledging weaknesses then be as real as possible.
 
@@ -315,19 +316,19 @@ Discipline
 - Being someone that always follows through is important for a leader, it means that people will believe what you say and take you seriously. Never be someone who has a lot to say but never puts anything into action.
 The fifth behaviour a leader must have is the ability to reward people. In doing so you encourage your team to work hard and achieve results. Consider bonuses, pay rises or stocks.
 
-- Pass on knowledge, always be expanding other peoples capabilities. Someone that you work with may be the leader one day so it’s important to share as much knowledge as possible.
+- Pass on knowledge, always expanding other people's capabilities. Someone that you work with may be the leader one day so it’s important to share as much knowledge as possible.
 
-- Leaders need to be strong characters who know themselves well. Accepting and acknowledging your own weaknesses and working to improve these is a great trait for a leader. It’s important that leaders are self-aware, have humility and are authentic.
+- Leaders need to be strong characters who know themselves well. Accepting and acknowledging your own weaknesses and working to improve these is a great traits for a leader. It’s important that leaders are self-aware, have humility and are authentic.
 
 ### Building block two: cultural change
 
-- Bossidy explains that companies often focus on changing their strategy and structures. But they fail to work on the people, the beliefs, and behaviours of those that they work with. He emphasises that cultural change is just as important (if not more) as strategy and structure.
+- Bossidy explains that companies often focus on changing their strategy and structures. But they fail to work on the people, beliefs, and behaviours of those that they work with. He emphasizes that cultural change is just as important (if not more) as strategy and structure.
 
-- Bossidy identifies that companies who make an effort to change their culture often fail because they don’t find the direct link between culture and business outcomes. When the changes are so disconnected, they are not likely to succeed. A business needs to understand the deep connections between company culture and business outcomes.
+- Bossidy identifies that companies that make an effort to change their culture often fail because they don’t find a direct link between culture and business outcomes. When the changes are so disconnected, they are not likely to succeed. A business needs to understand the deep connections between company culture and business outcomes.
 
-- **Change peoples behaviour**
+- **Change people's behaviour**
   
-  - By changing people’s behaviours, you are having a direct impact on the results they produce. So it’s important to ensure that the behavioural changes you encourage, promote a positive outcome. Bossidy explains that the first step is to clearly identify and communicate what results you are after. Then have a discussion about how those results are going to be reached. And finally, you reward people when the goals are reached. In the scenario where you and your team do not reach the end goal adequately, assess what happened and ask how can you learn for next time. It’s all about creating a culture of getting things done.
+  - By changing people’s behaviours, you are having a direct impact on the results they produce. So it’s important to ensure that the behavioural changes you encourage, promote a positive outcome. Bossidy explains that the first step is to clearly identify and communicate what results you are after. Then have a discussion about how those results are going to be reached. And finally, you reward people when their goals are reached. In the scenario where you and your team do not reach the end goal adequately, assess what happened and ask how can you learn for next time. It’s all about creating a culture of getting things done.
 
 - **Actions**
 
@@ -336,13 +337,13 @@ The fifth behaviour a leader must have is the ability to reward people. In doing
 
 ### Building block three: The job no leader should delegate
   
-  - Bossidy explains that there is one job that no leader should ever delegate, and that’s ensuring that the right people are in the right job. It’s absolutely critical that leaders fully understand the importance of having the right people in the right roles. After all, it’s the people that are responsible for generating the results and outcomes. These are the people that make decisions every day and take actions towards either success or failure.
+  - Bossidy explains that there is one job that no leader should ever delegate, and that’s ensuring that the right people are in the right job. It’s absolutely critical that leaders fully understand the importance of having the right people in the right roles. After all, it’s the people that are responsible for generating the results and outcomes. These are the people that make decisions every day and take actions toward either success or failure.
 
   - Bossidy explains that consistently successful businesses always have a leader who is dedicated to selecting the perfect people for the perfect roles. This isn’t a task that can be rushed or overlooked. It takes time and dedication when selecting the right employees but it is always going to be worth it.
 
   - **Development**
 
-    - Further to selecting the right people, Bossidy emphasises the importance of developing people within your company. Whether it be providing experiences, learning opportunities, feedback, coaching education or training. It is critical that everyone is always learning and developing. This encourages them to stay motivated, stay on track and better themselves and their work.
+    - Further to selecting the right people, Bossidy emphasizes the importance of developing people within your company. Whether it be providing experiences, learning opportunities, feedback, coaching education or training. It is critical that everyone is always learning and developing. This encourages them to stay motivated, stay on track and better themselves and their work.
 
 
 ## THE THREE CORE PROCESSES OF EXECUTION
@@ -359,7 +360,7 @@ The fifth behaviour a leader must have is the ability to reward people. In doing
     - A framework will be provided to identify and develop leadership.
     - You’ll establish a leadership pipeline.
 
-  - It’s important to create the links between the people and the strategy and operations. Establishing this link will encourage people to remain focused and motivated and will keep everyone accountable.
+  - It’s important to create links between the people and the strategy and operations. Establishing this link will encourage people to remain focused and motivated and will keep everyone accountable.
 
 ### Leaders and those that don’t perform
 
@@ -396,33 +397,33 @@ The fifth behaviour a leader must have is the ability to reward people. In doing
   - What are some obstacles preventing growth?
   - Identify the competition.
   - Is the strategy realistic?
-  - Does the strategy have realistic short term and long term milestones?
+  - Does the strategy have realistic short-term and long-term milestones?
   - Identify each milestone.
   - Are there any issues that the business will face?
   - How is the business going to make money as a result of this strategy?
   - Is the profit going to be sustainable?
 
-- Once the strategy has been finalised, the next step is to review it. Here’s what Bossidy recommends you consider for a review:
+- Once the strategy has been finalized, the next step is to review it. Here’s what Bossidy recommends you consider for a review:
 
   - Raise any questions you have.
   - Revisit questions that have been asked previously. Have these been adequately answered?
   - Does the team understand the competition completely?
-  - Does the organisation have the capability to carry this strategy out?
+  - Does the organization have the capability to carry this strategy out?
   - Is there a clearly defined focus?
   - Has the right idea been chosen?
   - Can you clearly identify the link between people and operations?
 
 ### The operations process
 
-- Bossidy’s operations process is all about linking the strategy to the people. As we’ve discussed, the strategy is designed to identify where the business is headed and how it’s getting there. The people process defines who is going to help the business get there. The final piece of the puzzle is the operation process, designed to define the road ahead, the path the people can follow.
+- Bossidy’s operations process is all about linking the strategy to the people. As we’ve discussed, the strategy is designed to identify where the business is headed and how it’s getting there. The people process defines who is going to help the business get there. The final piece of the puzzle is the operation process, designed to define the road ahead, and the path the people can follow.
 
 - Bossidy explains that an operating plan includes the path to reaching objectives including earnings, sales, margins, and cash flows. It also includes product launches, marketing plans, sales plans, manufacturing plans, and productivity plans.
 
-- Everyone involved needs to be responsible for constructing the operations process. This isn’t purely the job of a leader. Bossidy identifies synchronisation as a critical part of the execution process. It’s important to ensure that all parts of the organisation have a common understanding and know who is responsible for what. By having synchronisation within the organisation you are much more likely to execute the strategy and reach your goals.
+- Everyone involved needs to be responsible for constructing the operations process. This isn’t purely the job of a leader. Bossidy identifies synchronization as a critical part of the execution process. It’s important to ensure that all parts of the organization have a common understanding and know who is responsible for what. By having synchronization within the organization you are much more likely to execute the strategy and reach your goals.
 
 ### Defining the operations process
 
-- Setting realistic goals is the first step, and in order to do that, you need to make sound assumptions. Bossidy identifies this as a critical step and encourages you to spend time debating the assumptions. Once you’ve come to a clear conclusion, you can then move on to set realistic goals. The next step in the process is the building of the operations plan. You begin by setting targets. Followed by developing the action plans, short-term and long-term objectives. Also, spend time developing contingency plans. Finally, everyone needs to agree on the plan and ensure that it’s clear and straightforward. Bossidy encourages everyone to have follow-up measures in place to ensure that everyone is staying on track and working on the right steps and the right time. Keep accountability going throughout the process.
+- Setting realistic goals is the first step, and in order to do that, you need to make sound assumptions. Bossidy identifies this as a critical step and encourages you to spend time debating the assumptions. Once you’ve come to a clear conclusion, you can then move on to set realistic goals. The next step in the process is the building of the operations plan. You begin by setting targets. Followed by developing action plans, and short-term and long-term objectives. Also, spend time developing contingency plans. Finally, everyone needs to agree on the plan and ensure that it’s clear and straightforward. Bossidy encourages everyone to have follow-up measures in place to ensure that everyone is staying on track and working on the right steps and the right time. Keep accountability going throughout the process.
 
 
 # Quotes
