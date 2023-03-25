@@ -118,9 +118,9 @@ Generally, the best way to deal with people's problems is to prevent them from a
 
 # Don’t Feel Their Pain, Label It
 
-- Good negotiators identify and influence emotions. They can precisely label those of others, and their own.
+- Good negotiators identify and influence emotions. They can precisely label those of others and their own.
 - Empathy is paying attention to another human being, asking what they are feeling, and making a commitment to understanding their world.
-- Tactical empathy is understanding the feelings and mindset of another in the moment and also hearing what is behind those feelings so you increase your influence in all the moments that follow. It’s bringing our attention to both the emotional obstacles and the potential pathways to getting an agreement done.
+- Tactical empathy is understanding the feelings and mindset of another at the moment and also hearing what is behind those feelings so you increase your influence in all the moments that follow. It’s bringing our attention to both the emotional obstacles and the potential pathways to getting an agreement done.
 
 - Labeling is a way of validating someone’s emotion by acknowledging it. Give someone’s emotion a name and you show you identify with how that person feels.
 
@@ -131,18 +131,18 @@ Generally, the best way to deal with people's problems is to prevent them from a
   - It looks like . . .
   - Notice we said "It sounds like . . ." and not "I’m hearing that . . ." That’s because the word “I" gets people’s guard up.
 
-- The last rule of labeling is silence. Once you’ve thrown out a label, be quiet and listen.
+- The last rule of labelling is silence. Once you’ve thrown out a label, be quiet and listen.
 
 - Neutralize the Negative, Reinforce the Positive
 
-- Labeling is a tactic, not a strategy. How you use labeling will go a long way in determining your success.
-- That’s not to say that negative feelings should be ignored. That can be just as damaging. Instead, they should be teased out. Labeling is a helpful tactic in de-escalating angry confrontations, because it makes the person acknowledge their feelings rather than continuing to act out.
+- Labeling is a tactic, not a strategy. How you use labelling will go a long way in determining your success.
+- That’s not to say that negative feelings should be ignored. That can be just as damaging. Instead, they should be teased out. Labelling is a helpful tactic in de-escalating angry confrontations because it makes the person acknowledge their feelings rather than continuing to act out.
 - Try this the next time you have to apologize for a bone-headed mistake. Go right at it. The fastest and most efficient means of establishing a quick working relationship is to acknowledge the negative and diffuse it.
 - I’ve found the phrase "Look, I’m an asshole" to be an amazingly effective way to make problems go away.
 
 - Do An Accusation Audit
-  - In court, defense lawyers do this properly by mentioning everything their client is accused of, and all the weaknesses of their case, in the opening statement. They call this technique "taking the sting out."
-  - The first step of doing so is listing every terrible thing your counterpart could say about you, in what I call an accusation audit.
+  - In court, defence lawyers do this properly by mentioning everything their client is accused of, and all the weaknesses of their case, in the opening statement. They call this technique "taking the sting out."
+  - The first step in doing so is listing every terrible thing your counterpart could say about you, in what I call an accusation audit.
   - Performing an accusation audit in advance prepares you to head off negative dynamics before they take root. And because these accusations often sound exaggerated when said aloud, speaking them will encourage the other person to claim that quite the opposite is true.
 
 # Beware “Yes”–Master “No”
@@ -185,9 +185,9 @@ Generally, the best way to deal with people's problems is to prevent them from a
 
 - Key Lessons
 
-  - The moment you’ve convinced someone that you truly understand her dreams and feelings (the whole world that she inhabits), mental and behavioral change becomes possible, and the foundation for a breakthrough has been laid.
+  - The moment you’ve convinced someone that you truly understand her dreams and feelings (the whole world that she inhabits), mental and behavioural change becomes possible, and the foundation for a breakthrough has been laid.
   - Use these lessons to lay that foundation:
-Creating unconditional positive regard opens the door to changing thoughts and behaviors. Humans have an innate urge toward socially constructive behavior. The more a person feels understood, and positively affirmed in that understanding, the more likely that urge for constructive behavior will take hold.
+Creating unconditional positive regard opens the door to changing thoughts and behaviours. Humans have an innate urge toward socially constructive behaviour. The more a person feels understood, and positively affirmed in that understanding, the more likely that the urge for constructive behaviour will take hold.
   - "That’s right" is better than “yes." Strive for it. Reaching "that’s right" in a negotiation creates breakthroughs.
   - Use a summary to trigger a that’s right. The building blocks of a good summary are a label combined with paraphrasing. Identify, rearticulate, and emotionally affirm "the world according to . . ."
 
@@ -203,20 +203,20 @@ Creating unconditional positive regard opens the door to changing thoughts and b
   - Whether your deadline is real and absolute or merely a line in the sand, it can trick you into believing that doing a deal now is more important than getting a good deal.
   - What good negotiators do is force themselves to resist this urge and take advantage of it in others. It’s not so easy. Ask yourself: What is it about a deadline that causes pressure and anxiety? The answer is consequences; the perception of the loss we’ll incur in the future—"The deal is off!" our mind screams at us in some imaginary future scenario—should no resolution be achieved by a certain point in time.
   - “No deal is better than a bad deal."
-  - Increasing specificity on threats in any type of negotiations indicates getting closer to real consequences at a real specified time.
+  - Increasing specificity on threats in any type of negotiation indicates getting closer to real consequences at a real specified time.
 
 - **The F-Word: Why It’s So Powerful, When to Use It, and How**
 
   - The most powerful word in negotiations is “Fair." As human beings, we’re mightily swayed by how much we feel we have been respected. People comply with agreements if they feel they’ve been treated fairly and lash out if they don’t.
-  - In the Ultimatum Game, years of experience has shown me that most accepters will invariably reject any offer that is less than half of the proposer’s money. Once you get to a quarter of the proposer’s money you can forget it and the accepters are insulted.
+  - In the Ultimatum Game, years of experience have shown me that most accepters will invariably reject any offer that is less than half of the proposer’s money. Once you get to a quarter of the proposer’s money you can forget it and the accepters are insulted.
   - In fact, of the three ways that people drop this F-bomb, only one is positive.
   - The most common use is a judo-like defensive move that destabilizes the other side. This manipulation usually takes the form of something like, "We just want what’s fair."
   - Think back to the last time someone made this implicit accusation of unfairness to you, and I bet you’ll have to admit that it immediately triggered feelings of defensiveness and discomfort. These feelings are often subconscious and often lead to an irrational concession.
   - If you’re on the business end of this accusation, you need to realize that the other side might not be trying to pick your pocket; like my friend, they might just be overwhelmed by circumstance.
-  - The best response either way is to take a deep breath and restrain your desire to concede. Then say, "Okay, I apologize. Let’s stop everything and go back to where I started treating you unfairly and we’ll fix it."
+  - The best response, either way, is to take a deep breath and restrain your desire to concede. Then say, "Okay, I apologize. Let’s stop everything and go back to where I started treating you unfairly and we’ll fix it."
   - The second use of the F-bomb is more nefarious. In this one, your counterpart will basically accuse you of being dense or dishonest by saying, "We’ve given you a fair offer." It’s a terrible little jab meant to distract your attention and manipulate you into giving in.
   - If you find yourself in this situation, the best reaction is to simply mirror the “F" that has just been lobbed at you. “Fair?" you’d respond, pausing to let the word’s power do to them as it was intended to do to you. Follow that with a label: "It seems like you’re ready to provide the evidence that supports that," which alludes to opening their books or otherwise handing over information that will either contradict their claim to fairness or give you more data to work with than you had previously. Right away, you declaw the attack.
-  - The last use of the F-word is my favorite because it’s positive and constructive. It sets the stage for honest and empathetic negotiation.
+  - The last use of the F-word is my favourite because it’s positive and constructive. It sets the stage for honest and empathetic negotiation.
   - Here’s how I use it: Early on in a negotiation, I say, "I want you to feel like you are being treated fairly at all times. So please stop me at any time if you feel I’m being unfair, and we’ll address it."
   - It’s simple and clear and sets me up as an honest dealer.
 
@@ -224,7 +224,7 @@ Creating unconditional positive regard opens the door to changing thoughts and b
   - The theory argues that people are drawn to sure things over probabilities, even when the probability is a better choice.
   - That’s called the Certainty Effect. And people will take greater risks to avoid losses than to achieve gains. That’s called Loss Aversion.
   - The chance for loss incites more risk than the possibility of an equal gain.
-  - But first let me leave you with a crucial lesson about loss aversion: In a tough negotiation, it’s not enough to show the other party that you can deliver the thing they want.
+  - But first, let me leave you with a crucial lesson about loss aversion: In a tough negotiation, it’s not enough to show the other party that you can deliver the thing they want.
   - To get real leverage, you have to persuade them that they have something concrete to lose if the deal falls through.
 
 - **1. Anchor Their Emotions**
@@ -233,10 +233,10 @@ Creating unconditional positive regard opens the door to changing thoughts and b
 
 - **2. Let the Other Guy Go First…Most of the Time**
 
-  - Now, it’s clear that the benefits of anchoring emotions are great when it comes to bending your counterpart’s reality. But going first is not necessarily the best thing when it comes to negotiating price.
+  - Now, it’s clear that the benefits of anchoring emotions are great when it comes to bending your counterpart’s reality. But going first is not necessarily the best thing when it comes to negotiating the price.
 
   - That’s why I suggest you let the other side anchor monetary negotiations.
-The real issue is that neither side has perfect information going to the table. This often means you don’t know enough to open with confidence. That’s especially true anytime you don’t know the market value of what you are buying or selling, like with Jerry or Chandler.
+The real issue is that neither side has perfect information going to the table. This often means you don’t know enough to open up with confidence. That’s especially true anytime you don’t know the market value of what you are buying or selling, like with Jerry or Chandler.
 
   - By letting them anchor you also might get lucky: I’ve experienced many negotiations when the other party’s first offer was higher than the closing figure I had in mind.
   - That said, you’ve got to be careful when you let the other guy anchor. You have to prepare yourself psychically to withstand the first offer. If the other guy’s a pro, a shark, he’s going to go for an extreme anchor in order to bend your reality.
@@ -254,16 +254,16 @@ The real issue is that neither side has perfect information going to the table. 
 
 - **5. When You Do Talk Numbers, Use Odd Ones**
 
-  - The biggest thing to remember is that numbers that end in 0 inevitably feel like temporary placeholders, guesstimates that you can easily be negotiated off of. But anything you throw out that sounds less rounded—say, $37,263—feels like a figure that you came to as a result of thoughtful calculation. Such numbers feel serious and permanent to your counterpart, so use them to fortify your offers.
+  - The biggest thing to remember is that numbers that end in 0 inevitably feel like temporary placeholders, guesstimates that you can easily be negotiated off of. But anything you throw out that sounds less rounded—say, $37,263—feels like a figure that you came to as a result of the thoughtful calculation. Such numbers feel serious and permanent to your counterpart, so use them to fortify your offers.
 
-- **7. Surprise With a Gift**
+- **6. Surprise With a Gift**
 
   - You can get your counterpart into a mood of generosity by staking an extreme anchor and then, after their inevitable first rejection, offering them a wholly unrelated surprise gift.
-  - Unexpected conciliatory gestures like this are hugely effective because they introduce a dynamic called reciprocity; the other party feels the need to answer your generosity in kind. They will suddenly come up on their offer, or they’ll look to repay your kindness in the future. People feel obliged to repay debts of kindness.
+  - Unexpected conciliatory gestures like this are hugely effective because they introduce a dynamic called reciprocity; the other party feels the need to answer your generosity in kind. They will suddenly come up with their offer, or they’ll look to repay your kindness in the future. People feel obliged to repay debts of kindness.
 
 - **How to Negotiate a Better Salary**
 
-  - I break down the process into three parts that blend this chapter’s dynamics in a way that not only brings you better money, but convinces your boss to fight to get it for you.
+  - I break down the process into three parts that blend this chapter’s dynamics in a way that not only brings you better money but convinces your boss to fight to get it for you.
 
   - **Be Pleasantly Persistent on Nonsalary Terms**
 
@@ -271,11 +271,11 @@ The real issue is that neither side has perfect information going to the table. 
   
   - **Salary Terms Without Success Terms is Russian Roulette**
 
-    - Once you’ve negotiated a salary, make sure to define success for your position—as well as metrics for your next raise. That’s meaningful for you and free for your boss, much like giving me a magazine cover story was for the bar association. It gets you a planned raise and, by defining your success in relation to your boss’s supervision, it leads into the next step...
+    - Once you’ve negotiated a salary, make sure to define success for your position—as well as metrics for your next raise. That’s meaningful for you and free for your boss, much like giving me a magazine cover story was for the bar association. It gets you a planned raise, by defining your success in relation to your boss’s supervision, it leads to the next step...
 
   - **Spark Their Interest in Your Success and Gain an Unofficial Mentor**
 
-    - Remember the idea of figuring what the other side is really buying? Well, when you are selling yourself to a manager, sell yourself as more than a body for a job; sell yourself, and your success, as a way they can validate their own intelligence and broadcast it to the rest of the company. Make sure they know you’ll act as a flesh-and-blood argument for their importance. Once you’ve bent their reality to include you as their ambassador, they’ll have a stake in your success.
+    - Remember the idea of figuring out what the other side is really buying? Well, when you are selling yourself to a manager, sell yourself as more than a body for a job; sell yourself, and your success, as a way they can validate their own intelligence and broadcast it to the rest of the company. Make sure they know you’ll act as a flesh-and-blood argument for their importance. Once you’ve bent their reality to include you as their ambassador, they’ll have a stake in your success.
 
     - Ask: "What does it take to be successful here?"
 
@@ -292,7 +292,7 @@ The real issue is that neither side has perfect information going to the table. 
   - First off, calibrated questions avoid verbs or words like “can," “is," “are," “do," or “does." These are closed-ended questions that can be answered with a simple “yes" or a “no." Instead, they start with a list of words people know as reporter’s questions: “who," “what," “when," “where," “why," and “how." Those words inspire your counterpart to think and then speak expansively.
   - But let me cut the list even further: it’s best to start with “what," “how," and sometimes “why." Nothing else.
   - The only time you can use “why" successfully is when the defensiveness that is created supports the change you are trying to get them to see.
-  - You should use calibrated questions early and often, and there are a few that you will find that you will use in the beginning of nearly every negotiation. "What is the biggest challenge you face?" is one of those questions. It just gets the other side to teach you something about themselves, which is critical to any negotiation because all negotiation is an information-gathering process.
+  - You should use calibrated questions early and often, and there are a few that you will find that you will use at the beginning of nearly every negotiation. "What is the biggest challenge you face?" is one of those questions. It just gets the other side to teach you something about themselves, which is critical to any negotiation because all negotiation is an information-gathering process.
 
 - Here are some other great standbys that I use in almost every negotiation, depending on the situation:
 
@@ -313,8 +313,8 @@ The real issue is that neither side has perfect information going to the table. 
 
 - “Yes” is Nothing Without “How"
 
-  - Calibrated “How" questions are a surefire way to keep negotiations going. They put the pressure on your counterpart to come up with answers, and to contemplate your problems when making their demands.
-  - The trick to “How" questions is that, correctly used, they are gentle and graceful ways to say “No" and guide your counterpart to develop a better solution—your solution.
+  - Calibrated “How" questions are a surefire way to keep negotiations going. They put pressure on your counterpart to come up with answers, and to contemplate your problems when making their demands.
+  - The trick to “How" questions is that correctly used, they are gentle and graceful ways to say “No" and guide your counterpart to develop a better solution—your solution.
   - There are two key questions you can ask to push your counterparts to think they are defining success their way: "How will we know we’re on track?" and "How will we address things if we find we’re off track?"When they answer, you summarize their answers until you get a "That’s right." Then you’ll know they’ve bought in.
   - On the flip side, be wary of two telling signs that your counterpart doesn’t believe the idea is theirs. As I’ve noted, when they say, "You’re right," it’s often a good indicator they are not vested in what is being discussed. And when you push for implementation and they say, "I’ll try," you should get a sinking feeling in your stomach. Because this really means, "I plan to fail."
   - When you hear either of these, dive back in with calibrated “How" questions until they define the terms of successful implementation in their own voice. Follow up by summarizing what they have said to get a "That’s right."
@@ -343,8 +343,8 @@ The real issue is that neither side has perfect information going to the table. 
 
 - Pay Attention to Their Usage of Pronouns
 
-  - The use of pronouns by a counterpart can also help give you a feel for their actual importance in the decision and implementation chains on the other side of the table. The more in love they are with “I," “me," and “my" the less important they are.
-  - Conversely, the harder it is to get a first person pronoun out of a negotiator’s mouth, the more important they are.
+  - The use of pronouns by a counterpart can also help give you a feel for their actual importance in the decision and implementation chains on the other side of the table. The more in love, they are with “I," “me," and “my" the less important they are.
+  - Conversely, the harder it is to get a first-person pronoun out of a negotiator’s mouth, the more important they are.
 
 - How to Get Your Counterparts to Bid Against Themselves
 
@@ -353,9 +353,9 @@ The real issue is that neither side has perfect information going to the table. 
     - "How am I supposed to do that?"
   - After that, some version of "Your offer is very generous, I’m sorry, that just doesn’t work for me" is an elegant second way to say “No."
 
-  - Then you can use something like "I’m sorry but I’m afraid I just can’t do that." It’s a little more direct, and the "can’t do that" does great double duty. By expressing an inability to perform, it can trigger the other side’s empathy toward you.
+  - Then you can use something like "I’m sorry but I’m afraid I just can’t do that." It’s a little more direct, and the "can’t do that" does great double duty. Expressing an inability to perform, can trigger the other side’s empathy toward you.
 
-  - "I’m sorry, no" is a slightly more succinct version for the fourth “No." If delivered gently, it barely sounds negative at all.
+  - "I’m sorry, no" is a slightly more succinct version of the fourth “No." If delivered gently, it barely sounds negative at all.
 
   - If you have to go further, of course, “No" is the last and most direct way. Verbally, it should be delivered with a downward inflection and a tone of regard; it’s not meant to be "NO!"
 
@@ -363,10 +363,10 @@ The real issue is that neither side has perfect information going to the table. 
 
 # Bargain Hard
 
-- When push comes to shove—and it will—you’re going to find yourself sitting across the table from a bare-knuckle negotiator. After you’ve finished all the psychologically nuanced stuff—the labeling and mirroring and calibrating—you are going to have to hash out the brass tacks.
+- When push comes to shove—and it will—you’re going to find yourself sitting across the table from a bare-knuckle negotiator. After you’ve finished all the psychologically nuanced stuff—the labelling and mirroring and calibrating—you are going to have to hash out the brass tacks.
 - For most of us, that ain’t fun.
 - Top negotiators know, however, that conflict is often the path to great deals. And the best find ways to actually have fun engaging in it. Conflict brings out truth, creativity, and resolution. So the next time you find yourself face-to-face with a bare-knuckle bargainer, remember the lessons in this chapter.
-- Identify your counterpart’s negotiating style. Once you know whether they are Accommodator, Assertive, or Analyst, you’ll know the correct way to approach them.
+- Identify your counterpart’s negotiating style. Once you know whether they are Accommodators, Assertive, or Analysts, you’ll know the correct way to approach them.
 - Prepare, prepare, prepare. When the pressure is on, you don’t rise to the occasion; you fall to your highest level of preparation. So design an ambitious but legitimate goal and then game out the labels, calibrated questions, and responses you’ll use to get there. That way, once you’re at the bargaining table, you won’t have to wing it.
 - Get ready to take a punch. Kick-ass negotiators usually lead with an extreme anchor to knock you off your game. If you’re not ready, you’ll flee to your maximum without a fight. So prepare your dodging tactics to avoid getting sucked into the compromise trap.
 - Set boundaries, and learn to take a punch or punch back, without anger. The guy across the table is not the problem; the situation is.
@@ -374,10 +374,10 @@ The real issue is that neither side has perfect information going to the table. 
 
 # Find the Black Swan
 
-- What we don’t know can kill us or our deals. But uncovering it can totally change the course of a negotiation and bring us unexpected success.
+- What we don’t know can kill us or our deals. But uncovering it can totally change the course of negotiation and bring us unexpected success.
 - Finding the Black Swans—those powerful unknown unknowns—is intrinsically difficult, however, for the simple reason that we don’t know the questions to ask. Because we don’t know what the treasure is, we don’t know where to dig.
 - Here are some of the best techniques for flushing out the Black Swans—and exploiting them. Remember, your counterpart might not even know how important the information is, or even that they shouldn’t reveal it. So keep pushing, probing, and gathering information.
-- Let what you know—your known knowns—guide you but not blind you. Every case is new, so remain flexible and adaptable. Remember the Griffin bank crisis: no hostage-taker had killed a hostage on deadline, until he did.
+- Let what you know—your known knowns—guide you but not blind you. Every case is new, so remain flexible and adaptable. Remember the Griffin bank crisis: no hostage-taker had killed a hostage on deadline until he did.
 - Black Swans are leverage multipliers. Remember the three types of leverage: positive (the ability to give someone what they want); negative (the ability to hurt someone); and normative (using your counterpart’s norms to bring them around).
 - Work to understand the other side’s “religion." Digging into worldviews inherently implies moving beyond the negotiating table and into the life, emotional and otherwise, of your counterpart. That’s where Black Swans live.
 - Review everything you hear from your counterpart. You will not hear everything the first time, so double-check. Compare notes with team members. Use backup listeners whose job is to listen between the lines. They will hear things you miss.
