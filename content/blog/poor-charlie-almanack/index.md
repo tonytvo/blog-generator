@@ -518,6 +518,7 @@ knowledge must reach practice based fluency, must be able to think in forward an
   - Buffett is the stock picker and Munger is the doubter, the skeptic, the devils advocate, against whom Buffett tests his ideas
 
 # The Almanack of Naval Ravikant
+
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
 
 - Pick an industry where you can play long-term games with long-term people.  
