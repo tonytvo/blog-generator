@@ -1,14 +1,9 @@
 ---
-title: getting things done summary by David Allen wip
+title: getting things done summary by David Allen
 date: "2022-06-14T22:12:03.284Z"
 description: "getting things done summary by David Allen"
 tags: ["productivity"]
 ---
-
-## todo
-
-- update discipline GTD in organization
-- update readwise
 
 # key take-aways
 - trusted place I can easily find and look at to see additional/support information on any projects that are working on

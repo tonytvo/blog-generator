@@ -1,13 +1,9 @@
 ---
-title: getting to yes summary wip
+title: getting to yes summary
 date: "2021-12-23T22:12:03.284Z"
 description: "getting to yes summary"
 tags: ["productivity", "negotiation"]
 ---
-
-## todo
-
-- update the readwise.io
 
 # take-aways
 
