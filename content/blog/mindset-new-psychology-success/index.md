@@ -570,17 +570,13 @@ you—and it's a network, typically, with staying power; there's not so much vol
 of a client organization and develop a set of relationships with the real deal makers! (Hint: As in so many implementation issues, women are instinctively better at this than men.)
 (NB: Alternate formulation to "Suck down for success": "Success does not depend on 'the people you know in high places'—it depends on 'the people you know in low places.'")
 
-1.  Formula for Success: C(I) > C(E). I've long argued that the set of relationships inside
-your own company is almost as important as the relationships with external bill-paying
-customers. While it may not be a universal truth, it struck me as I talked to a GE group that sold
-big international projects that in many cases our Internal Customers/"C(I)" are in more important
+- **Formula for Success: C(I) > C(E).** I've long argued that the set of relationships inside your own company is almost as important as the relationships with external bill-paying
+customers. While it may not be a universal truth, it struck me as I talked to a GE group that sold big international projects that in many cases our Internal Customers/"C(I)" are in more important
 than our External Customers/"C(E)." That is: C(I) > C(E)
-In the GE case, to win with External Customers the systems salespeople typically want an "unfair
-share" (the words of one GE informant) of a host of insiders' time—engineers, the logistics team,
+  - In the GE case, to win with External Customers the systems salespeople typically want an "unfair share" (the words of one GE informant) of a host of insiders' time—engineers, the logistics team,
 lawyers and the all-important ("yes" or "no") risk-assessment staff.
-Bottom line: What ... PRECISELY (measure it!!) ... have you done lately (LAST 36 HOURS!)
-for your all-important "portfolio" of ... INTERNAL CUSTOMERS? I.e.: Do Not Let A Single
-Day Pass Without Doing Something Notable For Some Internal Customer.
+  - Bottom line: What ... PRECISELY (measure it!!) ... have you done lately (LAST 36 HOURS!) for your all-important "portfolio" of ... INTERNAL CUSTOMERS? I.e.: Do Not Let A Single Day Pass Without Doing Something Notable For Some Internal Customer.
+
 1.  How Does Your "Inside Game" Measure Up?
 Given: Cross-functional communication is such a universal problem that it could fairly be called
 enterprise "Problem #1."
