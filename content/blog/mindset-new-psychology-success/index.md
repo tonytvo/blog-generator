@@ -191,63 +191,35 @@ number, you should become a student of China and India. Both countries continue 
 
 ## OPPORTUNITY
 
-1.  Tough Times? Matchless Opportunity! The conventional wisdom is that tough times are
-a great opportunity to crowd out competitors suffering more than you are. I believe that tough
-times are mostly the ultimate test of character. Behaving decently when the yogurt hits the fan
-will be long remembered after the worst has passed.
-Instead of leaping to "grab our staggering competitor's customers," maybe we should react with
-great compassion toward that competitor—not by paying his bills, but by making it clear that we
-have neither the intention nor the desire to rip his customers out from under him (or her).
-Instead of "think positive," try ... "think thoughtful." Mindless optimism is just that—mindless.
-We must deal realistically with the crisis—and, arguably, exhibit a level of decency that knows
-no bounds. Such behavior is neither "positive" nor "negative." It is what it is: decent. Sneaky fact
-is, such a display of character is probably damn good for business when the comeback occurs—
-people have very long memories of thoughtful behavior!
-1.  Boring Is Beautiful! (Or at Least It Can Be.) Jim Penman started out mowing lawns.
-Now the Aussie-based company he started has over 2,500 franchisees doing "stuff" that busy
-people don'r have time to do—from walking dogs to installing security doors to cleaning carpets.
-Basement Systems, Inc., meanwhile, is a fast-growing, $60-million-plus Connecticut-based
-business.. Larry Janesky runs it. He'll dry out your basement. (See his, yes, best-selling book Dry
-Basement Science.) The basement thus becomes a stellar storage area, or a non-damp, non-moldy,
-non-illness-inducing family room, or a spare bedroom—whatever.
-7
-Message: For would-be entrepreneurs, there's more to life than Biotech and Internet start-ups and
-"boutique" financial planning businesses.
-1.  "Old" Rules. (Yes, Even in the "Age of the Internet.")
-"People turning 50 today have half their adult lives ahead of them."—Bill Novelli, 50+: Igniting
-a Revolution to Reinvent America
-Americans on average own 13 cars in a lifetime; 7 are bought after the age of 50.
-(How about deriving a "code" to remind you of "all this": 13/7/50.)
-People age ... 55 or older ... are ... more active ... in ... online finance, shopping, and entertainment
-... than those under 55 (Forrester Research).
-The "boomer-geezer" market is exploding around the world—and is ridiculously underserved.
-What an opportunity for the next 25 or so years—in fact, market opportunity #1. Mantra, by an
-old guy (me):
-We are the Aussies & Kiwis & Americans & Canadians. We are the Western Europeans &
-Japanese. We are the fastest-growing, the biggest, the wealthiest, the boldest, the most (yes)
-ambitious, the most experimental & exploratory, the most (self-)indulgent, the most difficult &
-demanding, the most service- & experience-obsessed, the most vigorous, the most healthconscious, the most female, the most profoundly important commercial market in the history of
-the world—and we will be the Center of your Universe for the next twenty-five years.
-We have arrived!
-1.  Build Green Now. (No Excuses!) Here is the impact of our buildings on energy
-consumption, CO2 emissions, and the like (from Green Building A to Z, by Jerry Yudelson):
-Share of total energy used by buildings: 39%
-Share of electricity used by buildings: 68%
-Share of carbon-dioxide emissions caused by buildings: 40%
-Share of raw materials used in buildings: 30%
-In terms of energy efficiency/independence and minimized climatic damage, curbing the likes of
-SUV use is of course controversial. "Green building" should not/need not be! The opportunity is
-huge, and the payback period is relatively short. A host of approaches have been proven. The
-process is motivating. And you can get started more or less tomorrow in old buildings as well as
-new.
+- **Tough Times? Matchless Opportunity!** The conventional wisdom is that tough times are
+a great opportunity to crowd out competitors suffering more than you are. I believe that tough times are mostly the ultimate test of character. Behaving decently when the yogurt hits the fan will be long remembered after the worst has passed.
+  - Instead of "think positive," try ... "think thoughtful." Mindless optimism is just that—mindless. We must deal realistically with the crisis—and, arguably, exhibit a level of decency that knows no bounds. Such behavior is neither "positive" nor "negative." It is what it is: decent. Sneaky fact is, such a display of character is probably damn good for business when the comeback occurs— people have very long memories of thoughtful behavior!
+- Boring Is Beautiful! (Or at Least It Can Be.) Jim Penman started out mowing lawns.
+Now the Aussie-based company he started has over 2,500 franchisees doing "stuff" that busy people don't have time to do—from walking dogs to installing security doors to cleaning carpets. 
+- Basement Systems, Inc., meanwhile, is a fast-growing, $60-million-plus Connecticut-based business.. Larry Janesky runs it. He'll dry out your basement. (See his, yes, best-selling book Dry Basement Science.) The basement thus becomes a stellar storage area, or a non-damp, non-moldy, non-illness-inducing family room, or a spare bedroom—whatever.
+- Message: For would-be entrepreneurs, there's more to life than Biotech and Internet start-ups and "boutique" financial planning businesses.
 
-1.  Bottom Line in Bad Times: Obsess Over the Top Line. Containing costs in tough times is
-imperative—especially given our relative sloppiness when markets were soaring. But assuming
-that cost-control-r-us is a bad mistake. Working to improve the distinction of our products and
-services is more important than ever. In the toughest of times, there's a lot of business left—and
-we want an "unfair" share of it, right?
-8
-RESILIENCE
+- **"Old" Rules. (Yes, Even in the "Age of the Internet.")**
+  - "People turning 50 today have half their adult lives ahead of them."—Bill Novelli, 50+: Igniting a Revolution to Reinvent America
+  - Americans on average own 13 cars in a lifetime; 7 are bought after the age of 50.
+(How about deriving a "code" to remind you of "all this": 13/7/50.)
+People age ... 55 or older ... are ... more active ... in ... online finance, shopping, and entertainment ... than those under 55 (Forrester Research).
+  - The "boomer-geezer" market is exploding around the world—and is ridiculously underserved. What an opportunity for the next 25 or so years—in fact, market opportunity #1. Mantra, by an old guy (me):
+  - We are the Aussies & Kiwis & Americans & Canadians. We are the Western Europeans &
+Japanese. We are the fastest-growing, the biggest, the wealthiest, the boldest, the most (yes) ambitious, the most experimental & exploratory, the most (self-)indulgent, the most difficult & demanding, the most service- & experience-obsessed, the most vigorous, the most healthconscious, the most female, the most profoundly important commercial market in the history of the world—and we will be the Center of your Universe for the next twenty-five years. We have arrived!
+
+- **Build Green Now. (No Excuses!)** Here is the impact of our buildings on energy
+consumption, CO2 emissions, and the like (from Green Building A to Z, by Jerry Yudelson):
+  - Share of total energy used by buildings: 39%
+  - Share of electricity used by buildings: 68%
+  - Share of carbon-dioxide emissions caused by buildings: 40%
+  - Share of raw materials used in buildings: 30%
+
+
+- **Bottom Line in Bad Times: Obsess Over the Top Line.** Containing costs in tough times is imperative—especially given our relative sloppiness when markets were soaring. But assuming that cost-control-r-us is a bad mistake. Working to improve the distinction of our products and services is more important than ever. In the toughest of times, there's a lot of business left—and we want an "unfair" share of it, right?
+
+## RESILIENCE
+
 1.  Swan Dive: A Guide to Getting On with Getting On. Nassim Nicholas Taleb's The Black
 Swan was an extraordinarily well-timed book. The black swan is an unpredictable event. If it's
 unpredictable, what, then, if anything, can we do about it? One answer is create "resilient
