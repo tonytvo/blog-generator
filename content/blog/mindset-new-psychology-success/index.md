@@ -128,6 +128,7 @@ success on a pretty big stage—New York City.)
 industry from the Japanese automotive onslaught.
   - I believe that "quality," like "Excellence," is one of those ... "I'll know it when I see it" ... words. So quantify quality all you want (please do!) ... but don't forget that quality is equally—nay, primarily—determined by something that is elusive, mysterious, indefinable. And ... in the eye of the beholder.
   - Bottom line: Give the "soft side" of quality the respect it deserves!
+
 - **Excellence Is** ...
   - Excellence is the best defense.
   Excellence is the best offense.
@@ -156,57 +157,40 @@ industry from the Japanese automotive onslaught.
 
 # CRISIS
 
-1. That Which Goeth Up and Up and Up Doth Not Goeth More Up and More Up and More
-Up Forever and Ever and Ever. The Great Recession was the byproduct of many factors—
-collectively the failure of commonsense to counter the bizarre projections of supposedly hypersmart people. Will it happen again? Of course, just in another form. If we could realize cyclicality
-is an immutable fact, regardless of measures to prevent it, we'd be a lot better off.
-If you/we want answers, we'd do no better than to ingest Vanguard Mutual Fund Group founder
-John Bogle's amazing book … Enough. Rather than try to provide a clever summary of the book,
-I'll let the chapter titles do the work for me. Here's a sample:
-"Too Much Cost, Not Enough Value"
-"Too Much Speculation, Not Enough Investment"
-"Too Much Complexity, Not Enough Simplicity"
-"Too Much Counting, Not Enough Trust"
-"Too Much Business Conduct, Not Enough Professional Conduct"
-"Too Much Salesmanship, Not Enough Stewardship"
-"Too Much Focus on Things, Not Enough Focus on Commitment"
-"Too Many Twenty-first Century Values, Not Enough Eighteenth-Century Values"
-"Too Much 'Success,' Not Enough Character"
-As to the overarching theme of the book, Mr. Bogle begins with this vignette: "At a party given
-by a billionaire on Shelter Island, Kurt Vonnegut informs his pal, Joseph Heller, that their host, a
-hedge fund manager, had made more money in a single day than Heller had earned from his
-wildly popular novel Catch-22 over its whole history. Heller responds, 'Yes, but I have something
-he will never have ...
-enough.'"
-Enough said.
-1.  Good Things (Especially in Bad Times?) Come in Threes. As the crisis unfolded, the
-troika of Paulson-Bernanke and Geithner worked together in unconventional ways (friction-free
-communication, try something quick and if it fails reverse course quickly) which hold important
-lessons for all crises:
-6
-(1) Concoct an authoritarian control group that numbers three. I am anti-authoritarian to the core,
-but there are rare exceptions to that rule.
-(2) "Over"-communicate. (!!!)
-(3) "Over"-communicate. (!!!)
-(4) Drop all pretense of formality.
-(5) Park egos at the door. (Boot egoists from the inner circle if they don't shape up very
+- **That Which Goeth Up and Up and Up Doth Not Goeth More Up and More Up and More
+Up Forever and Ever and Ever**. 
+- John Bogle's amazing book … Enough. Rather than try to provide a clever summary of the book,
+  - "Too Much Cost, Not Enough Value"
+  - "Too Much Speculation, Not Enough Investment"
+  - "Too Much Complexity, Not Enough Simplicity"
+  - "Too Much Counting, Not Enough Trust"
+  - "Too Much Business Conduct, Not Enough Professional Conduct"
+  - "Too Much Salesmanship, Not Enough Stewardship"
+  - "Too Much Focus on Things, Not Enough Focus on Commitment"
+  - "Too Many Twenty-first Century Values, Not Enough Eighteenth-Century Values"
+  - "Too Much 'Success,' Not Enough Character"
+- As to the overarching theme of the book, Mr. Bogle begins with this vignette: "At a party given by a billionaire on Shelter Island, Kurt Vonnegut informs his pal, Joseph Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, 'Yes, but I have something he will never have ... enough.'" Enough said.
+
+- **Good Things (Especially in Bad Times?) Come in Threes**. 
+  - As the crisis unfolded, the troika of Paulson-Bernanke and Geithner worked together in unconventional ways (friction-free communication, try something quick and if it fails reverse course quickly) which hold important
+  - lessons for all crises:
+  - (1) Concoct an authoritarian control group that numbers three. I am anti-authoritarian to the core, but there are rare exceptions to that rule.
+  - (2) "Over"-communicate. (!!!)
+  - (3) "Over"-communicate. (!!!)
+  - (4) Drop all pretense of formality.
+  - (5) Park egos at the door. (Boot egoists from the inner circle if they don't shape up very
  quickly.)
-(6) Ensure that the group is diverse.
-(7) Ensure that each member of the group has a Towering Competence—and is perceived
+  - (6) Ensure that the group is diverse.
+  - (7) Ensure that each member of the group has a Towering Competence—and is perceived
  as having such.
-(8) Each member must have widespread credibility.
-(9) Foster a predilection for ... rapid trial and error. First, that creates the perception that
- "they aren't dilly-dallyin'"—motion matters. Second, the cure is anything but sure—
- so one must get moving if for no other reason than to see what happens when the
- system is perturbed. Third, there must be a willingness to admit error and stop a failed
- experiment ASAP—rather than holding on as a way of not admitting the experiment
- was a bust.
-(10) Also "over"-communicate beyond the group.
-1.  Get China on Your Mind! Get India on Your Mind! Regardless of your rank and serial
-number, you should become a student of China and India. Both countries continue to grow at a
-remarkable pace—and together their population is about two-and-a-half billion. I'm not asking
-for the moon, but I am saying you'd best move up the learning curve to some extent.
-OPPORTUNITY
+  - (8) Each member must have widespread credibility.
+  - (9) Foster a predilection for ... rapid trial and error. First, that creates the perception that "they aren't dilly-dallyin'"—motion matters. Second, the cure is anything but sure—so one must get moving if for no other reason than to see what happens when the system is perturbed. Third, there must be a willingness to admit error and stop a failed experiment ASAP—rather than holding on as a way of not admitting the experiment was a bust.
+  - (10) Also "over"-communicate beyond the group.
+- **Get China on Your Mind! Get India on Your Mind!** Regardless of your rank and serial
+number, you should become a student of China and India. Both countries continue to grow at a remarkable pace—and together their population is about two-and-a-half billion. I'm not asking for the moon, but I am saying you'd best move up the learning curve to some extent.
+
+## OPPORTUNITY
+
 1.  Tough Times? Matchless Opportunity! The conventional wisdom is that tough times are
 a great opportunity to crowd out competitors suffering more than you are. I believe that tough
 times are mostly the ultimate test of character. Behaving decently when the yogurt hits the fan
