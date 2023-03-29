@@ -327,31 +327,18 @@ eight words or less, you don't have a position." My abbreviation is R.POV8, for 
 
 # OTHERS
 
-27. Kindness Is Free!
-"Three things in human life are important. The first is to be kind. The second is to be kind. And
-the third is to be kind."—Henry James
-An extensive 225-hospital, 140-thousand patient survey by Press Ganey identified 15 factors
-which shaped patient satisfaction. The startling results: "Not a single one of the top 15 sources of
-patient satisfaction had to do with the patient's health outcome. All 15, in effect, were related to
-the quality of the patient's interactions with hospital staff—and employee satisfaction among staff
-members." The key, at an even deeper level, according to a patient-centrism experts at top-ranked
-Griffith Hospital:
-"There is a misconception that supportive interactions require more staff or more time and are
-therefore more costly. Although labor costs are a substantial part of any hospital budget, the
-interactions themselves add nothing to the budget.
-"Kindness is free.
-"Listening to patients or answering their questions costs nothing. It could be argued that negative
-interactions—alienating patients, being unresponsive to their needs, or limiting their sense of
-control—can be very costly. Angry, frustrated, or frightened patients may be combative,
-withdrawn, and less cooperative—requiring far more time than it would have taken to interact
-with them initially in a positive way."
-This has become a centerpiece of my work. In the commercial sphere I encompass it with an
-equation:
-K = R = P.
-Kindness = Repeat business = Profit.
-That is, among other things, kindness is the ultimate "hard" variable affecting the bottom line.
-13
-28. Civil! Civil! Civil!
+- **Kindness Is Free!**
+
+  - "Three things in human life are important. The first is to be kind. The second is to be kind. And the third is to be kind."—Henry James
+  - "There is a misconception that supportive interactions require more staff or more time and are therefore more costly. Although labor costs are a substantial part of any hospital budget, the interactions themselves add nothing to the budget.
+  - "Kindness is free."
+  - "Listening to patients or answering their questions costs nothing. It could be argued that negative interactions—alienating patients, being unresponsive to their needs, or limiting their sense of control—can be very costly. Angry, frustrated, or frightened patients may be combative, withdrawn, and less cooperative—requiring far more time than it would have taken to interact with them initially in a positive way."
+  - This has become a centerpiece of my work. In the commercial sphere I encompass it with an equation:
+    - K = R = P. : Kindness = Repeat business = Profit.
+  - That is, among other things, kindness is the ultimate "hard" variable affecting the bottom line.
+
+- **Civil! Civil! Civil!**
+
 "For many years literature was my life ... One day, while lecturing on the Divine Comedy, I
 looked at my students and realized that I wanted them to be kind human beings more than I
 wanted them to know about Dante. I told them that if they knew everything about Dante and then
@@ -363,18 +350,18 @@ Washington had produced from a list of 110 items encompassing civil behavior ori
 by French Jesuits in 1595.(E.g.: #1 - Every action done in company ought to be done with some
 sign of respect to those that are present.) Washington's proper & gracious behavior was a key
 success factor throughout his life. Again, to me, "civil" strikes me as a stunning profitenhancement tool. (Among other things.)
-29. Listen to Ann—and "Act Accordingly." The late Texas governor Ann Richards tells us
+1.  Listen to Ann—and "Act Accordingly." The late Texas governor Ann Richards tells us
 that despite ire, or even fury, at a service mixup, you must remember that the frontline person you
 are dealing with is the … only person on earth … who can help you. Act accordingly—i.e. with
 reverence! It's great advice! It works!
-30. "Being There" (Or: How I Learned First Principles from My Grandfather's Last Rites.)
+1.  "Being There" (Or: How I Learned First Principles from My Grandfather's Last Rites.)
 "You can make more friends in two months by becoming interested in other people than you can
 in two years by trying to get other people interested in you."—Dale Carnegie, How to Win
 Friends and Influence People
 My grandfather ran a little country store in a little town in Virginia. Thousands—literally—
 attended his funeral. He had been helpmate to virtually everyone in the community over the
 years. That turnout sent an unforgettable message to me.
-31. Appreciating the Great Battle: A Case for Consideration
+1.  Appreciating the Great Battle: A Case for Consideration
 "Be kind, for everyone you meet is fighting a great battle."—Plato
 This is not a plea to be soft. (Though it's certainly the decent way to behave.) It's a plea
 concerning the value of trying to understand the pressures and cross-pressures on every (very
@@ -390,7 +377,7 @@ You have to understand that not only your business situation changes, but the pe
 working with aren't the same day to day. Someone is sick. Someone is having a wedding. [You
 must] gauge the mood, the thinking level of the team that day."
 14
-32. Thoughtfulness Is Free (or Close Thereto)
+1.  Thoughtfulness Is Free (or Close Thereto)
 Thoughtfulness is key to customer retention.
 Thoughtfulness is key to employee recruitment and satisfaction.
 Thoughtfulness is key to brand perception.
@@ -405,7 +392,7 @@ So think about thoughtfulness, think about adding "Thoughtfulness in all we do" 
 company's) (or agency's) values statement. As to the day-to-day "work of thoughtfulness," I call
 it: "The Practice of Dogmatic Thoughtfulness."
 CONNECTION
-33. Only Connect ...
+1.  Only Connect ...
 "Only connect"—E.M. Forster, Howard's End
 The business of business is relationships.
 The essence of effective business is effective relationships.
@@ -414,7 +401,7 @@ Return On Investment in Relationships.
 Moreover, we can manage and actually measure R.O.I.R.-related activity more accurately than
 we can manage and measure standard "financial" R.O.I. Lying with statistics is relatively easy.
 Lying about the state of relationships is nigh on impossible.
-34. They Liked Ike (Because Ike Liked Them) General Dwight David Eisenhower did the
+1.  They Liked Ike (Because Ike Liked Them) General Dwight David Eisenhower did the
 impossible. No, not the successful and history-changing D-Day landing per se. Nor the
 subsequent march to Germany. His "impossible dream"—come true—was to keep the Yanks and
 the Brits from annihilating each other long enough to hit the beach and get on with the real job at
@@ -425,7 +412,7 @@ above all, through the development of friendships."
 That is, Ike, with his easy demeanor, was a master friend-maker. This doesn't come naturally to
 many of us. One suggestion: Revisit Dale Carnegie's classic How to Win Friends & Influence
 People—named by NPR as one of the top three business books of the 20th century.
-35. Always Make It Personal. I break all the rules, and "waste" a lot of time at the outset of a
+1.  Always Make It Personal. I break all the rules, and "waste" a lot of time at the outset of a
 speech. What I'm working on is ... connecting. I'm going to perhaps give my audience 
 15
 uncomfortable advice (that's why I was invited); to have a chance of succeeding, I must be on the
@@ -438,7 +425,7 @@ We hereby swear to use the word "us" until we are blue in the face. (Words matte
 We hereby swear to use the word "partner" until we are blue in the face. (Words matter! A lot!)
 We hereby swear to use the word "team" until we are blue in the face. (Words matter! A lot!)
 We agree, right?
-36. Commit "Acts of Deliberate Relationship Enhancement" As boss of Goldman Sachs,
+1.  Commit "Acts of Deliberate Relationship Enhancement" As boss of Goldman Sachs,
 Hank Paulson religiously called "60 CEOs in the first week [of the year] to wish them happy New
 Year." It was at some level a "trick" or "tactic." But I, who have a similar ritual, find it to be the
 greatest of pleasures as well. I call these sorts of purposeful activities "ADREs." Or: Acts of
@@ -447,7 +434,7 @@ Action: Call (C-A-L-L!) (NOT EMAIL!) 25-50 people ... IN THE NEXT FIVE DAYS ... 
 thank them for their support in the last 90 days or six months!
 ATTITUDE
 
-37. Put the "Eye-Sparkle Factor" on Your Menu. I gave a lecture in Switzerland on "talent
+1.  Put the "Eye-Sparkle Factor" on Your Menu. I gave a lecture in Switzerland on "talent
 selection"—and the use of "unconventional" (emotional, mostly) measures for so doing. At a
 break I had an exchange with a youthful participant, who wondered aloud why I would go on and
 on and on ... and then on ... about the likes of "vivacity":
@@ -467,7 +454,7 @@ must convince others to spend money to support their research. For IS/IT bosses 
 succeed if users become enthusiasts. And for those "betting the farm" on the restaurant of their
 dreams. 
 16
-38. Pleasant, Caring, Engaged—at 6 A.M.! There's a bistro I frequent near my Boston house.
+1.  Pleasant, Caring, Engaged—at 6 A.M.! There's a bistro I frequent near my Boston house.
 The coffee is available at 6A.M. And for years I went there—as much for the woman who had
 first-shift duty. She wasn't "a babe". And her style would not be described as "chirpy." But she
 seemed to enjoy what she did, and when we'd exchange a few pleasant sentences. She was:
@@ -476,13 +463,13 @@ Caring.
 Engaged.
 I strongly urge you to put those three blockbuster traits at or near the top of the list in the hiring
 manual—for every job.
-39. Hire "Cheerful"—Or: That Damned AV Guy! I was in a foul mood before a speech—a
+1.  Hire "Cheerful"—Or: That Damned AV Guy! I was in a foul mood before a speech—a
 disastrous state of affairs. At the AV check, the guy in charge was in great humor. Despite
 myself, I was infected. Attitude is contagious. A happy camper creates a happy camp. And
 someone in a foul mood can befoul an entire battalion in a flash. Again, in hiring, promoting,
 evaluating—pay close attention to these "soft" factors which in actual fact are the ultimate
 "HARD" factors!
-40. Which "Flag" Are You Waving? At a road construction stop, one flagman was of good
+1.  Which "Flag" Are You Waving? At a road construction stop, one flagman was of good
 spirits, per my reading of his face; and the other was emanating bad vibes. The job ain't great, but
 I was reminded of Dr. King's declaration, one of the few I've committed to memory:
 "If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted,
@@ -498,7 +485,7 @@ Today?
 Right now?
 PERFORMANCE
 
-41. It's Show Time! All the Time!
+1.  It's Show Time! All the Time!
 "It's always show time"—David D'Alessandro, Career Warfare
 I could not agree more. "Show time" for me =
 Every speech!
@@ -517,7 +504,7 @@ And so on.
 And on.
 "Show time" is a state of mind, an encompassing approach to life. It deserves careful attention—
 age 23 or 63, commander-in-chief or squad-leading corporal.
-42. Work on Your First Impressions. First impressions are your and my personal-career keys,
+1.  Work on Your First Impressions. First impressions are your and my personal-career keys,
 and the keys to the likes of a company's customer service report card. We both get that. (Of
 course.) And yet I feel quite sure that we need constant reminding, reminding not just of the
 Power of First Impressions, but that there is a full-blown ... Science and Art of the Construction
@@ -532,7 +519,7 @@ serious about the title—and totally serious about a formal job assignment.)
 NB: For you and me as individuals, Fox News über-spin doctor Roger Ailes says all I/you/we
 have is ... 7 SECONDS ... to make a first impression. Yikes! (On the other hand, package-goods
 marketers have but 1/3rd of a second to produce consumer impact.)
-43. Work on Your "Last Impressions." Beginnings and endings overwhelm our memory of a
+1.  Work on Your "Last Impressions." Beginnings and endings overwhelm our memory of a
 thing. Their importance demands far more than casual concern. I call the whole shebang EEM
 (Emotional Experience Management—sorry, I enjoy conjuring up these acronyms). And working
 on the parting garners PEASS/Planned Exit Atmospherics Strategy & Story. Commerce Bank, the
@@ -544,7 +531,7 @@ want anything to "go wrong" at the Experience Exit Stage. But more important, we
 PLANNED EXIT ATMOSPHERICS STRATEGY& STORY that's ... MEMORABLE,
 COMPELLING, EMOTIONAL, that goes "AGGRESSIVELY RIGHT," not "not wrong."
 Beginnings-Endings = Strategic opportunity.
-44. Work on Your Presentation Skills (Or: 17 Minutes Can Change the World!) Barack
+1.  Work on Your Presentation Skills (Or: 17 Minutes Can Change the World!) Barack
 Obama moved from obscurity to the Big Tent with a 17-minute speech at the 2004 Democratic
 National Convention. While the stakes are much lower for you or me, the cost or benefit of
 presentation skills is nonetheless enormous within our local context.
