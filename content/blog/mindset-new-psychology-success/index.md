@@ -337,81 +337,46 @@ eight words or less, you don't have a position." My abbreviation is R.POV8, for 
     - K = R = P. : Kindness = Repeat business = Profit.
   - That is, among other things, kindness is the ultimate "hard" variable affecting the bottom line.
 
-- **Civil! Civil! Civil!**
+- **Listen to Ann—and "Act Accordingly."** The late Texas governor Ann Richards tells us
+that despite ire, or even fury, at a service mixup, you must remember that the frontline person you are dealing with is the … only person on earth … who can help you. Act accordingly—i.e. with reverence! It's great advice! It works!
 
-"For many years literature was my life ... One day, while lecturing on the Divine Comedy, I
-looked at my students and realized that I wanted them to be kind human beings more than I
-wanted them to know about Dante. I told them that if they knew everything about Dante and then
-went out and treated an elderly lady on the bus unkindly, I'd feel that I had failed as a teacher."—
-P.M. Forni, Choosing Civility: The Twenty-five Rules of Considerate Conduct
-It's a variation on the theme above: civil behavior. I was influenced by a description of a book
-called Rules of Civility & Decent Behavior in Company and Conversation that George
-Washington had produced from a list of 110 items encompassing civil behavior originally created
-by French Jesuits in 1595.(E.g.: #1 - Every action done in company ought to be done with some
-sign of respect to those that are present.) Washington's proper & gracious behavior was a key
-success factor throughout his life. Again, to me, "civil" strikes me as a stunning profitenhancement tool. (Among other things.)
-1.  Listen to Ann—and "Act Accordingly." The late Texas governor Ann Richards tells us
-that despite ire, or even fury, at a service mixup, you must remember that the frontline person you
-are dealing with is the … only person on earth … who can help you. Act accordingly—i.e. with
-reverence! It's great advice! It works!
-1.  "Being There" (Or: How I Learned First Principles from My Grandfather's Last Rites.)
-"You can make more friends in two months by becoming interested in other people than you can
-in two years by trying to get other people interested in you."—Dale Carnegie, How to Win
-Friends and Influence People
-My grandfather ran a little country store in a little town in Virginia. Thousands—literally—
-attended his funeral. He had been helpmate to virtually everyone in the community over the
-years. That turnout sent an unforgettable message to me.
-1.  Appreciating the Great Battle: A Case for Consideration
-"Be kind, for everyone you meet is fighting a great battle."—Plato
-This is not a plea to be soft. (Though it's certainly the decent way to behave.) It's a plea
-concerning the value of trying to understand the pressures and cross-pressures on every (very
-different) person you deal with—in fact about 98% of what's going on with them is hidden from
-view..
-"I'm not paid to be a shrink" is a commonplace from the mouth of managers. It's, well,
-unspeakably stupid. Of course you're paid to be a shrink—if, that is, you're interested in
-implementation. Every day at work you field a different team—depending on the state of
-individuals' stresses and strains at the moment. Sports coaches, the good ones at least, get this. So
-should you.
-Mike Krzyzewski ("Coach K"), coach of the Duke basketball team: "Things don't stay the same.
-You have to understand that not only your business situation changes, but the people you're
-working with aren't the same day to day. Someone is sick. Someone is having a wedding. [You
-must] gauge the mood, the thinking level of the team that day."
-14
-1.  Thoughtfulness Is Free (or Close Thereto)
-Thoughtfulness is key to customer retention.
-Thoughtfulness is key to employee recruitment and satisfaction.
-Thoughtfulness is key to brand perception.
-Thoughtfulness is key to your ability to look in the mirror—and tell your kids about your job.
-"Thoughtfulness is free."
-Thoughtfulness is key to speeding things up—it reduces friction.
-Thoughtfulness is key to Business Issue #1, cross-functional communication—XF communication
-is 98% a matter of social factors.
-Thoughtfulness is key to transparency and even cost containment—it abets rather than stifles
-truth-telling.
-So think about thoughtfulness, think about adding "Thoughtfulness in all we do" to your unit's (or
-company's) (or agency's) values statement. As to the day-to-day "work of thoughtfulness," I call
-it: "The Practice of Dogmatic Thoughtfulness."
-CONNECTION
-1.  Only Connect ...
-"Only connect"—E.M. Forster, Howard's End
-The business of business is relationships.
-The essence of effective business is effective relationships.
-The "R.O.I." (Return on Investment) that truly matters is ... R.O.I.R.
-Return On Investment in Relationships.
-Moreover, we can manage and actually measure R.O.I.R.-related activity more accurately than
-we can manage and measure standard "financial" R.O.I. Lying with statistics is relatively easy.
-Lying about the state of relationships is nigh on impossible.
-1.  They Liked Ike (Because Ike Liked Them) General Dwight David Eisenhower did the
+- **"Being There" (Or: How I Learned First Principles from My Grandfather's Last Rites.)**
+  - "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you."—Dale Carnegie, How to Win Friends and Influence People
+  - My grandfather ran a little country store in a little town in Virginia. Thousands—literally—attended his funeral. He had been helpmate to virtually everyone in the community over the years. That turnout sent an unforgettable message to me.
+
+- **Appreciating the Great Battle: A Case for Consideration**
+
+  - "Be kind, for everyone you meet is fighting a great battle."—Plato
+
+  - You have to understand that not only your business situation changes, but the people you're working with aren't the same day to day. Someone is sick. Someone is having a wedding. [You must] gauge the mood, the thinking level of the team that day."
+
+- **Thoughtfulness Is Free (or Close Thereto)**
+  - Thoughtfulness is key to customer retention.
+  - Thoughtfulness is key to employee recruitment and satisfaction.
+  - Thoughtfulness is key to brand perception.
+  - Thoughtfulness is key to your ability to look in the mirror—and tell your kids about your job.
+  - "Thoughtfulness is free."
+  - Thoughtfulness is key to speeding things up—it reduces friction.
+  - Thoughtfulness is key to Business Issue #1, cross-functional communication—XF communication is 98% a matter of social factors.
+  - Thoughtfulness is key to transparency and even cost containment—it abets rather than stifles truth-telling.
+  - So think about thoughtfulness, think about adding "Thoughtfulness in all we do" to your unit's (or company's) (or agency's) values statement. As to the day-to-day "work of thoughtfulness," I call it: "The Practice of Dogmatic Thoughtfulness."
+
+## CONNECTION
+
+- **Only Connect ...**
+  - The business of business is relationships.
+  - The essence of effective business is effective relationships.
+  - The "R.O.I." (Return on Investment) that truly matters is ... R.O.I.R.: Return On Investment in Relationships.
+  - Moreover, we can manage and actually measure R.O.I.R.-related activity more accurately than
+  - we can manage and measure standard "financial" R.O.I. Lying with statistics is relatively easy. Lying about the state of relationships is nigh on impossible.
+
+- **They Liked Ike (Because Ike Liked Them)** General Dwight David Eisenhower did the
 impossible. No, not the successful and history-changing D-Day landing per se. Nor the
 subsequent march to Germany. His "impossible dream"—come true—was to keep the Yanks and
-the Brits from annihilating each other long enough to hit the beach and get on with the real job at
-hand!
-Turns out General Eisenhower, most keen professional observers agree, had a "secret," which he
-in fact understood: "Allied commands depend on mutual confidence; this confidence is gained,
-above all, through the development of friendships."
-That is, Ike, with his easy demeanor, was a master friend-maker. This doesn't come naturally to
-many of us. One suggestion: Revisit Dale Carnegie's classic How to Win Friends & Influence
-People—named by NPR as one of the top three business books of the 20th century.
+the Brits from annihilating each other long enough to hit the beach and get on with the real job at hand!
+  - Turns out General Eisenhower, most keen professional observers agree, had a "secret," which he in fact understood: "Allied commands depend on mutual confidence; this confidence is gained, above all, through the development of friendships."
+  - That is, Ike, with his easy demeanor, was a master friend-maker. This doesn't come naturally to many of us. One suggestion: Revisit Dale Carnegie's classic How to Win Friends & Influence People—named by NPR as one of the top three business books of the 20th century.
+
 1.  Always Make It Personal. I break all the rules, and "waste" a lot of time at the outset of a
 speech. What I'm working on is ... connecting. I'm going to perhaps give my audience 
 15
