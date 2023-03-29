@@ -222,9 +222,11 @@ consumption, CO2 emissions, and the like (from Green Building A to Z, by Jerry Y
 
 - **Swan Dive: A Guide to Getting On with Getting On**. Nassim Nicholas Taleb's The Black
 Swan was an extraordinarily well-timed book. The black swan is an unpredictable event. If it's unpredictable, what, then, if anything, can we do about it? One answer is create "resilient enterprises" staffed with people in all positions who have exhibited a disposition for resilience. While we can hardly afford "redundant everything," policies and processes and projects and training aimed at increased resilience are very much possible—e.g., Microsoft helped employees equip their home offices when it appeared the swine flu might restrict the # of folks working in standard offices for a lengthy period.
+
 - **Lifetime Employment Is Dead. Your Career Is Not.** Electricians and plumbers and
 carpenters and the couple running the 17-table Italian restaurant on Main Street, your "ordinary" neighbors and the majority of us, have never in their wildest dreams imagined "lifetime employment." Well, neither should you or I as time marches/sprints on. The best/only defense is
-- (1) work of great distinction and (2) networks that are both wide and deep. The ability to "think like an entrepreneur" is in fact widely distributed—the new immigrant single-mom with no college education, working two or so jobs, "gets it"—how about you?
+  - (1) work of great distinction and (2) networks that are both wide and deep. The ability to "think like an entrepreneur" is in fact widely distributed—the new immigrant single-mom with no college education, working two or so jobs, "gets it"—how about you?
+
 - **"Failure"—Celebrate It!** Whoever tries the most stuff wins. (All you need to know in
 life.) Hence, it is axiomatic that whoever fails the most wins—truly. Hence failures must not just be "tolerated;" they must, in effect, be encouraged—and, yes, celebrated.
   - Wisdom:
@@ -233,153 +235,98 @@ life.) Hence, it is axiomatic that whoever fails the most wins—truly. Hence fa
     - "Success is going from failure to failure without losing enthusiasm."—Winston Churchill
     - "Whoever Makes the Most Mistakes Wins"—book title, Richard Farson and Ralph Keyes
     - "If people tell me they skied all day and never fell down, I tell them to try a different mountain."—Michael Bloomberg
+
 - **The World's Worst Advice (Please Ignore It)** "Relentless" may be my favorite word in
 "success literature." Hence, "Know when to hold 'em and know when to fold 'em" is 99% wrongheaded. Most of us won't end up in the history books, but those who do—every bloody one of them—did not know when to fold 'em!
   - Bottom line: "There's a time to hold 'em and a time to keep on holdin' 'em—if you really really really care."
 
 ## Forty-Six "Secrets" and "Strategies" for Dealing with the Severe Downturn of 2007++
 
-Developed for a seminar in Finland, these "secrets" are in fact anything but:
-(1) You come to work earlier.
-(2) You leave work later.
-(3) You work harder.
-(4) You may well work for less; and, if so, you adapt to the untoward circumstances with
- a smile—even if it kills you inside.
-(5) You volunteer to do more.
-(6) You dig deep, deeper, deepest—and always bring a good attitude to work.
-(7) You fake it if your good attitude flags.
-(8) You literally practice your "stage face" in the mirror each morning, and in the loo
- mid-morning.
-(9) You give new meaning to the idea and intensive practice of "visible management."
-(10) You take better than usual care of yourself and encourage others to do the same—
- physical well-being significantly impacts mental well-being and response to stress.
-(11) You shrug off shit that flows downhill in your direction—buy a shovel or a "pre-
- worn" raincoat on eBay.
-(12) You try to forget about the "good old days"—nostalgia is self-destructive. (And
- boring.)
-(13) You buck yourself up with the thought that "this too shall pass," but then remind
- yourself that it might not pass anytime soon; and so you rededicate yourself to
- making the absolute best of what you have now—character is determined, virtually
- in full, by one's reaction to adverse circumstances.
-(14) You work the phones and then work the phones some more—and stay in touch with,
- and on the mind of, positively everyone.
-(15) You frequently invent breaks from routine, including "weird" ones—"change-ups"
- prevent wallowing in despair and bring a fresh perspective.
-(16) You eschew all forms of personal excess.
-(17) You simplify.
-(18) You sweat the details as never before.
-(19) You sweat the details as never before.
-(20) You sweat the details as never before.
-(21) You raise to the sky and maintain—at all costs—the Standards of Excellence by
- which you unfailingly and unflinchingly evaluate your own performance.
-(22) You are maniacal when it comes to responding to even the slightest screw-up.
-(23) You find ways to be around young people and to keep young people around—they
- are less likely to be members of the "sky is falling" school. (Naïveté can be a
- blessing.)
-(24) You learn new tricks of your trade.
-(25) You pass old tricks of the trade on to others—mentoring matters now more than
- ever.
-(26) You invest heavily in your Internet-Web2.0-Twitter-Facebook-"cloud"-computing
- skills.
-(27) You remind yourself, daily, that this is not just something to be "gotten through"—it
- is the Final Exam of Competence, of Character, and, even if you're not a boss, of
- Leadership. (People often make great leaps in a short period during difficult times.)
-(28) You network like a demon.
-10
-(29) You network like a demon inside the company—get to know more of the folks who
- "do the real work," and who can be your most dependable allies when it comes to
- getting things done seamlessly and fast.
-(30) You network like a demon outside the company—get to know more of the folks
- "down the line," who "do the real work" in vendor-customer outfits. (They can
- become, and will become, your most avid allies and champions.)
-(31) You offer thanks to others by the truckload if good things happen—and take the heat
- if bad things happen.
-(32) You behave kindly, but you don't sugarcoat or hide the truth—humans are
- startlingly resilient, and rumors are the real spirit-killers.
-(33) You treat small successes as if they were World Cup victories—and celebrate and
- commend people accordingly.
-(34) You shrug off the losses (ignoring what's going on in your tummy), and get back on
- the horse and immediately try again.
-(35) You avoid negative people to the extent you can—pollution kills.
-(36) You read the riot act to the gloom-sprayers, once avoiding them becomes
- impossible. (Gloom is the ultimate "weapon of mass destruction" in tough times.)
-(37) You give new meaning to the word "thoughtful."
-(38) You don't put limits on the budget for flowers—"bright and colorful" works
- marvels.
-(39) You redouble and re-triple your efforts to "walk in your customer's shoes."
- (Especially if the shoes smell.)
-(40) You mind your manners—and accept others' lack of manners in the face of their
- strains.
-(41) You are kind to all mankind.
-(42) You keep your shoes shined.
-(43) You leave the blame game at the office door.
-(44) You call out, in no uncertain terms, those who continue to play the "office politics"
- game.
-(45) You become a paragon of personal accountability.
-(46) And then you pray.
+- Developed for a seminar in Finland, these "secrets" are in fact anything but:
+  - (1) You come to work earlier.
+  - (2) You leave work later.
+  - (3) You work harder.
+  - (4) You may well work for less; and, if so, you adapt to the untoward circumstances with a smile—even if it kills you inside.
+  - (5) You volunteer to do more.
+  - (6) You dig deep, deeper, deepest—and always bring a good attitude to work.
+  - (7) You fake it if your good attitude flags.
+  - (8) You literally practice your "stage face" in the mirror each morning, and in the mid-morning.
+  - (9) You give new meaning to the idea and intensive practice of "visible management."
+  - (10) You take better than usual care of yourself and encourage others to do the same—physical well-being significantly impacts mental well-being and response to stress.
+  - (11) You shrug off shit that flows downhill in your direction—buy a shovel or a "pre-worn" raincoat on eBay.
+  - (12) You try to forget about the "good old days"—nostalgia is self-destructive. (And boring.)
+  - (13) You buck yourself up with the thought that "this too shall pass," but then remind yourself that it might not pass anytime soon; and so you rededicate yourself to making the absolute best of what you have now—character is determined, virtually in full, by one's reaction to adverse circumstances.
+  - (14) You work the phones and then work the phones some more—and stay in touch with, and on the mind of, positively everyone.
+  - (15) You frequently invent breaks from routine, including "weird" ones—"change-ups" prevent wallowing in despair and bring a fresh perspective.
+  - (16) You eschew all forms of personal excess.
+  - (17) You simplify.
+  - (18) You sweat the details as never before.
+  - (19) You sweat the details as never before.
+  - (20) You sweat the details as never before.
+  - (21) You raise to the sky and maintain—at all costs—the Standards of Excellence by which you unfailingly and unflinchingly evaluate your own performance.
+  - (22) You are maniacal when it comes to responding to even the slightest screw-up.
+  - (23) You find ways to be around young people and to keep young people around—they are less likely to be members of the "sky is falling" school. (Naïveté can be a blessing.)
+  - (24) You learn new tricks of your trade.
+  - (25) You pass old tricks of the trade on to others—mentoring matters now more than ever.
+  - (26) You invest heavily in your Internet-Web2.0-Twitter-Facebook-"cloud"-computing skills.
+  - (27) You remind yourself, daily, that this is not just something to be "gotten through"—it is the Final Exam of Competence, of Character, and, even if you're not a boss, of Leadership. (People often make great leaps in a short period during difficult times.)
+  - (28) You network like a demon.
+  - (29) You network like a demon inside the company—get to know more of the folks who "do the real work," and who can be your most dependable allies when it comes to getting things done seamlessly and fast.
+  - (30) You network like a demon outside the company—get to know more of the folks "down the line," who "do the real work" in vendor-customer outfits. (They can become, and will become, your most avid allies and champions.)
+  - (31) You offer thanks to others by the truckload if good things happen—and take the heat if bad things happen.
+  - (32) You behave kindly, but you don't sugarcoat or hide the truth—humans are startlingly resilient, and rumors are the real spirit-killers.
+  - (33) You treat small successes as if they were World Cup victories—and celebrate and commend people accordingly.
+  - (34) You shrug off the losses (ignoring what's going on in your tummy), and get back on the horse and immediately try again.
+  - (35) You avoid negative people to the extent you can—pollution kills.
+  - (36) You read the riot act to the gloom-sprayers, once avoiding them becomes impossible. (Gloom is the ultimate "weapon of mass destruction" in tough times.)
+  - (37) You give new meaning to the word "thoughtful."
+  - (38) You don't put limits on the budget for flowers—"bright and colorful" works marvels.
+  - (39) You redouble and re-triple your efforts to "walk in your customer's shoes." (Especially if the shoes smell.)
+  - (40) You mind your manners—and accept others' lack of manners in the face of their strains.
+  - (41) You are kind to all mankind.
+  - (42) You keep your shoes shined.
+  - (43) You leave the blame game at the office door.
+  - (44) You call out, in no uncertain terms, those who continue to play the "office politics" game.
+  - (45) You become a paragon of personal accountability.
+  - (46) And then you pray.
 
+## SELF
 
-
-
-
-
-
-
-
-
-
-
-
- 
-11
-SELF
-1.  You Are Your Product—Develop It.
-"The last of human freedoms—the ability to choose one's attitude in a given set of
+- **You Are Your Product—Develop It.**
+  - "The last of human freedoms—the ability to choose one's attitude in a given set of
 circumstances." —Viktor Frankl, psychologist and Holocaust survivor, on concentration camps
-"You must be the change you wish to see in the world."—Gandhi
-All you have for sure is your … attitude. So: Work on it, including, yes, your smile (the
-smile/warmth was a huge part of Nelson Mandela's success); and shape it. Why:
-Energy begets energy.
-Wow begets Wow.
-Optimism begets Optimism.
-Honesty begets honesty.
-Caring begets caring.
-Listening begets engagement.
-Message: LBUAA/Leadership By Unilateral Attitude Adjustment.
-1.  Job One: Amuse Yourself! You must stay fresh and energized. (If you want to transmit
-freshness and energy to others—see immediately above.) Hence you must—and most don't in the
-heat of day-to-day affairs—somehow or other find the time/make the time to re-tool yourself. It's
-one of my hardest personal tasks—but, perhaps, my most important task.
-1.  Fitness Power = Staying Power. I'm not playing "health nut" here. I'm playing "attitude
-nut." Fact is, if you're fit you feel better about yourself which adds to your resilience (especially
-important in tough times) and is indirectly transmitted to others.
-1.  Mental Gymnastics, Urgency of. Unless your mind is jerked around, stood upside down,
-shocked, etc.—you are not growing. If you can't say, a couple of times a week, "I had my mind
-twisted like a pretzel today," you are sliding down a slippery slope to stale thinking and staleness
-in general. (Both mind & body must be fit and stretched!)
-1.  You Are Your Story! So Work on It!
-"A key—perhaps the key—to leadership is the effective communication of a story."—Howard
-Gardner, Leading Minds: An Anatomy of Leadership
-He/she who has the best/most compelling/most resonant story wins:
-In life!
-In business!
-In front of the jury!
-In front of the congregation!
-Few things are more important to moving mountains (or even anthills) than storytelling. You
-must be an emergent and compelling story—and you must mainly communicate through stories
-to kindle change. 
-12
-Your schedule—TODAY—is a short story with a beginning, narrative, end, and memory that
-lingers on. Your current project is ... an unfolding story about making something better, exciting
-users, etc. Your organization's raison d'être, and hence its effectiveness, is a story.
-FYI: Developing effective storytelling skills is hard work! (But worth it X10.)
-1.  Develop Your R.POV8—ASAP! Seth Godin says: "If you can't describe your position in
-eight words or less, you don't have a position." My abbreviation is R.POV8, for Remarkable
-Point Of View in 8 words or less. In my own case, I beat Seth's requirement by 7! Took us a
-year+ to "get it right" for the Tom Peters organization—we ended up with a RED (Pantone #032)
-Exclamation Mark. Fits my last 30 years perfectly—thanks, Seth!
+  - "You must be the change you wish to see in the world."—Gandhi
+  - All you have for sure is your … attitude. So: Work on it, including, yes, your smile (the smile/warmth was a huge part of Nelson Mandela's success); and shape it. Why:
+    - Energy begets energy.
+    - Wow begets Wow.
+    - Optimism begets Optimism.
+    - Honesty begets honesty.
+    - Caring begets caring.
+    - Listening begets engagement.
 
-OTHERS
+- **Job One: Amuse Yourself!** You must stay fresh and energized. (If you want to transmit freshness and energy to others—see immediately above.) Hence you must—and most don't in the heat of day-to-day affairs—somehow or other find the time/make the time to re-tool yourself. It's one of my hardest personal tasks—but, perhaps, my most important task.
+
+- **Fitness Power = Staying Power**. I'm not playing "health nut" here. I'm playing "attitude nut." Fact is, if you're fit you feel better about yourself which adds to your resilience (especially important in tough times) and is indirectly transmitted to others.
+
+- **Mental Gymnastics, Urgency of**. Unless your mind is jerked around, stood upside down, shocked, etc.—you are not growing. If you can't say, a couple of times a week, "I had my mind twisted like a pretzel today," you are sliding down a slippery slope to stale thinking and staleness in general. (Both mind & body must be fit and stretched!)
+
+- **You Are Your Story! So Work on It!**
+
+  - "A key—perhaps the key—to leadership is the effective communication of a story."—Howard Gardner, Leading Minds: An Anatomy of Leadership
+  - He/she who has the best/most compelling/most resonant story wins:
+    - In life!
+    - In business!
+    - In front of the jury!
+    - In front of the congregation!
+  - Few things are more important to moving mountains (or even anthills) than storytelling. You must be an emergent and compelling story—and you must mainly communicate through stories to kindle change. 
+
+  - Your schedule—TODAY—is a short story with a beginning, narrative, end, and memory that lingers on. Your current project is ... an unfolding story about making something better, exciting users, etc. Your organization's raison d'être, and hence its effectiveness, is a story.
+
+- **Develop Your R.POV8—ASAP!** Seth Godin says: "If you can't describe your position in
+eight words or less, you don't have a position." My abbreviation is R.POV8, for Remarkable Point Of View in 8 words or less. In my own case, I beat Seth's requirement by 7! Took us a year+ to "get it right" for the Tom Peters organization—we ended up with a RED (Pantone #032) Exclamation Mark. Fits my last 30 years perfectly—thanks, Seth!
+
+# OTHERS
+
 27. Kindness Is Free!
 "Three things in human life are important. The first is to be kind. The second is to be kind. And
 the third is to be kind."—Henry James
