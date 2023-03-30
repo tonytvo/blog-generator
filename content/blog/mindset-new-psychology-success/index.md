@@ -425,22 +425,12 @@ spirits, per my reading of his face; and the other was emanating bad vibes. The 
     - And on.
     - "Show time" is a state of mind, an encompassing approach to life. It deserves careful attention—age 23 or 63, commander-in-chief or squad-leading corporal.
 
-1.  Work on Your First Impressions. First impressions are your and my personal-career keys,
-and the keys to the likes of a company's customer service report card. We both get that. (Of
-course.) And yet I feel quite sure that we need constant reminding, reminding not just of the
-Power of First Impressions, but that there is a full-blown ... Science and Art of the Construction
-and Execution and Maintenance of Fantastic Beginnings. That is, like so many things in The
-Little BIG Things, it's "obvious"—but to pull it off with power and aplomb, one must become a
-serious student of the phenomenon—and practice as you would practice gymnastics. I've long had
-as my mantra: "Perception is all there is." It may irritate you, especially if you, like me, are an
-engineer by training and disposition—but the fact is the "packaging" is almost as important as the
+- **Work on Your First Impressions**. First impressions are your and my personal-career keys, and the keys to the likes of a company's customer service report card. We both get that. (Of course.) And yet I feel quite sure that we need constant reminding, reminding not just of the Power of First Impressions, but that there is a full-blown ... Science and Art of the Construction and Execution and Maintenance of Fantastic Beginnings. That is, like so many things in The Little BIG Things, it's "obvious"—but to pull it off with power and aplomb, one must become a serious student of the phenomenon—and practice as you would practice gymnastics. I've long had as my mantra: "Perception is all there is." It may irritate you, especially if you, like me, are an engineer by training and disposition—but the fact is the "packaging" is almost as important as the
 content.
-NB: For company leaders, how about CFIO, or Chief First Impressions Officer? (I'm more or less
-serious about the title—and totally serious about a formal job assignment.)
-NB: For you and me as individuals, Fox News über-spin doctor Roger Ailes says all I/you/we
-have is ... 7 SECONDS ... to make a first impression. Yikes! (On the other hand, package-goods
-marketers have but 1/3rd of a second to produce consumer impact.)
-1.  Work on Your "Last Impressions." Beginnings and endings overwhelm our memory of a
+  - NB: For company leaders, how about CFIO, or Chief First Impressions Officer? (I'm more or less serious about the title—and totally serious about a formal job assignment.)
+  - NB: For you and me as individuals, Fox News über-spin doctor Roger Ailes says all I/you/we have is ... 7 SECONDS ... to make a first impression. Yikes! (On the other hand, package-goods marketers have but 1/3rd of a second to produce consumer impact.)
+
+- **Work on Your "Last Impressions."** Beginnings and endings overwhelm our memory of a
 thing. Their importance demands far more than casual concern. I call the whole shebang EEM
 (Emotional Experience Management—sorry, I enjoy conjuring up these acronyms). And working
 on the parting garners PEASS/Planned Exit Atmospherics Strategy & Story. Commerce Bank, the
