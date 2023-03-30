@@ -409,25 +409,22 @@ spirits, per my reading of his face; and the other was emanating bad vibes. The 
 
 ## PERFORMANCE
 
-1.  It's Show Time! All the Time!
-"It's always show time"—David D'Alessandro, Career Warfare
-I could not agree more. "Show time" for me =
-Every speech!
-Every PowerPoint presentation!
-Every individual slide!
-Every CLIENT phone call!
-17
-EVERY INTERCHANGE WITH A "FOURTH-LEVEL" CLIENT "ADMIN ASSISTANT"
-(who may make a negative—or positive!—comment to her boss's boss—who signs my check!—
-about an off-the-cuff comment I hastily made).
-EVERY EMPLOYEE INTERACTION ... especially when I'm stressed and/or grouchy.
-Every Post at tompeters.com!
-Every Tweet at Twitter!
-Every TEN-SECOND EYE CONTACT with someone who asks me to sign a book!
-And so on.
-And on.
-"Show time" is a state of mind, an encompassing approach to life. It deserves careful attention—
-age 23 or 63, commander-in-chief or squad-leading corporal.
+- **It's Show Time! All the Time!**
+  - "It's always show time"—David D'Alessandro, Career Warfare
+  - I could not agree more. "Show time" for me =
+    - Every speech!
+    - Every PowerPoint presentation!
+    - Every individual slide!
+    - Every CLIENT phone call!
+    - EVERY INTERCHANGE WITH A "FOURTH-LEVEL" CLIENT "ADMIN ASSISTANT" (who may make a negative—or positive!—comment to her boss's boss—who signs my check!—about an off-the-cuff comment I hastily made).
+    - EVERY EMPLOYEE INTERACTION ... especially when I'm stressed and/or grouchy.
+    - Every Post at tompeters.com!
+    - Every Tweet at Twitter!
+    - Every TEN-SECOND EYE CONTACT with someone who asks me to sign a book!
+    - And so on.
+    - And on.
+    - "Show time" is a state of mind, an encompassing approach to life. It deserves careful attention—age 23 or 63, commander-in-chief or squad-leading corporal.
+
 1.  Work on Your First Impressions. First impressions are your and my personal-career keys,
 and the keys to the likes of a company's customer service report card. We both get that. (Of
 course.) And yet I feel quite sure that we need constant reminding, reminding not just of the
