@@ -377,78 +377,37 @@ the Brits from annihilating each other long enough to hit the beach and get on w
   - Turns out General Eisenhower, most keen professional observers agree, had a "secret," which he in fact understood: "Allied commands depend on mutual confidence; this confidence is gained, above all, through the development of friendships."
   - That is, Ike, with his easy demeanor, was a master friend-maker. This doesn't come naturally to many of us. One suggestion: Revisit Dale Carnegie's classic How to Win Friends & Influence People—named by NPR as one of the top three business books of the 20th century.
 
-1.  Always Make It Personal. I break all the rules, and "waste" a lot of time at the outset of a
-speech. What I'm working on is ... connecting. I'm going to perhaps give my audience 
-15
-uncomfortable advice (that's why I was invited); to have a chance of succeeding, I must be on the
-audience's side. I sometimes call it "'We' power."
-Taught by my 1st boss at McKinsey 35 years ago, I'm faithful to "we" to this day. I religiously use
-"We" and "Us" when working with Clients—and a team of wild horses could not elicit "I" or
-"You." While it may be a trick of sorts, it is also a Fundamental Value concerning groups on joint
-ventures in quest of better understanding and harmonious relationships. So:
-We hereby swear to use the word "us" until we are blue in the face. (Words matter! A lot!)
-We hereby swear to use the word "partner" until we are blue in the face. (Words matter! A lot!)
-We hereby swear to use the word "team" until we are blue in the face. (Words matter! A lot!)
-We agree, right?
-1.  Commit "Acts of Deliberate Relationship Enhancement" As boss of Goldman Sachs,
-Hank Paulson religiously called "60 CEOs in the first week [of the year] to wish them happy New
-Year." It was at some level a "trick" or "tactic." But I, who have a similar ritual, find it to be the
-greatest of pleasures as well. I call these sorts of purposeful activities "ADREs." Or: Acts of
-Deliberate Relationship Enhancement.
+- **Always Make It Personal**. I break all the rules, and "waste" a lot of time at the outset of a speech. What I'm working on is ... connecting. I'm going to perhaps give my audience uncomfortable advice (that's why I was invited); to have a chance of succeeding, I must be on the audience's side. I sometimes call it "'We' power." Taught by my 1st boss at McKinsey 35 years ago, I'm faithful to "we" to this day. I religiously use "We" and "Us" when working with Clients—and a team of wild horses could not elicit "I" or "You." While it may be a trick of sorts, it is also a Fundamental Value concerning groups on joint ventures in quest of better understanding and harmonious relationships. So:
+  - We hereby swear to use the word "us" until we are blue in the face. (Words matter! A lot!)
+  - We hereby swear to use the word "partner" until we are blue in the face. (Words matter! A lot!)
+  - We hereby swear to use the word "team" until we are blue in the face. (Words matter! A lot!)
+  - We agree, right?
+
+- **Commit "Acts of Deliberate Relationship Enhancement"** As boss of Goldman Sachs,
+Hank Paulson religiously called "60 CEOs in the first week [of the year] to wish them happy New Year." It was at some level a "trick" or "tactic." But I, who have a similar ritual, find it to be the greatest of pleasures as well. I call these sorts of purposeful activities "ADREs." Or: Acts of Deliberate Relationship Enhancement.
 Action: Call (C-A-L-L!) (NOT EMAIL!) 25-50 people ... IN THE NEXT FIVE DAYS ... to
 thank them for their support in the last 90 days or six months!
-ATTITUDE
 
-1.  Put the "Eye-Sparkle Factor" on Your Menu. I gave a lecture in Switzerland on "talent
-selection"—and the use of "unconventional" (emotional, mostly) measures for so doing. At a
-break I had an exchange with a youthful participant, who wondered aloud why I would go on and
-on and on ... and then on ... about the likes of "vivacity":
-"Suppose you and I were opening the restaurant of our dreams," I said to her. "We'd both put in
-$75,000 ... effectively, our life's savings. We were 'betting the farm.' We were dead certain we had
-a great idea, and we'd bargained our way into a very good location—and through our networking
-even lassoed a terrific chef. Now the time had come to hire 'the others'—e.g., waiters and
-waitresses and busboys. Numerous applicants had satisfactory 'restaurant experience.' But
-several didn't. One young woman (man) in particular was a rank amateur—but had the most
-compelling 'sparkle' in her/his eye. The sort about which we Americans say 'lit up the room.' How
-would that 'sparkle' that 'lit up the room' rank in our hire-no hire consideration? Remember,
-we've bet our entire stake on the restaurant."
-She reluctantly agreed, lesser Swiss emotionalism not withstanding, that the "sparkle" pretty
-much ruled.
-Message: So-called "soft factors"—which are the true "hard factors"—rule! For scientists who
-must convince others to spend money to support their research. For IS/IT bosses who only
-succeed if users become enthusiasts. And for those "betting the farm" on the restaurant of their
-dreams. 
-16
-1.  Pleasant, Caring, Engaged—at 6 A.M.! There's a bistro I frequent near my Boston house.
-The coffee is available at 6A.M. And for years I went there—as much for the woman who had
-first-shift duty. She wasn't "a babe". And her style would not be described as "chirpy." But she
-seemed to enjoy what she did, and when we'd exchange a few pleasant sentences. She was:
-Pleasant.
-Caring.
-Engaged.
-I strongly urge you to put those three blockbuster traits at or near the top of the list in the hiring
-manual—for every job.
-1.  Hire "Cheerful"—Or: That Damned AV Guy! I was in a foul mood before a speech—a
-disastrous state of affairs. At the AV check, the guy in charge was in great humor. Despite
-myself, I was infected. Attitude is contagious. A happy camper creates a happy camp. And
-someone in a foul mood can befoul an entire battalion in a flash. Again, in hiring, promoting,
-evaluating—pay close attention to these "soft" factors which in actual fact are the ultimate
-"HARD" factors!
-1.  Which "Flag" Are You Waving? At a road construction stop, one flagman was of good
-spirits, per my reading of his face; and the other was emanating bad vibes. The job ain't great, but
-I was reminded of Dr. King's declaration, one of the few I've committed to memory:
-"If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted,
-or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that
-all the hosts of heaven and earth will pause to say, here lived a great street sweeper who did his
-job well."
-This (to me at least) doesn't mean one shouldn't aspire to more than a flagman's job—but it does
-mean that we can literally … CHANGE THE WORLD AND CHANGE OUR
-SURROUNDINGS … by a unilateral effort to bring a certain attitude to what we do.
-Are you Flagman #2?
-Or Dr. King's street sweeper?
-Today?
-Right now?
-PERFORMANCE
+## ATTITUDE
+
+- **Put the "Eye-Sparkle Factor" on Your Menu**.
+  - Message: So-called "soft factors"—which are the true "hard factors"—rule! For scientists who must convince others to spend money to support their research. For IS/IT bosses who only succeed if users become enthusiasts. And for those "betting the farm" on the restaurant of their dreams. 
+
+- **Pleasant, Caring, Engaged—at 6 A.M.!** There's a bistro I frequent near my Boston house. The coffee is available at 6A.M. And for years I went there—as much for the woman who had first-shift duty. She wasn't "a babe". And her style would not be described as "chirpy." But she seemed to enjoy what she did, and when we'd exchange a few pleasant sentences. She was:
+  - Pleasant.
+  - Caring.
+  - Engaged.
+  - I strongly urge you to put those three blockbuster traits at or near the top of the list in the hiring manual—for every job.
+
+- **Hire "Cheerful"—Or: That Damned AV Guy!** I was in a foul mood before a speech—a
+disastrous state of affairs. At the AV check, the guy in charge was in great humor. Despite myself, I was infected. Attitude is contagious. A happy camper creates a happy camp. And someone in a foul mood can befoul an entire battalion in a flash. Again, in hiring, promoting, evaluating—pay close attention to these "soft" factors which in actual fact are the ultimate "HARD" factors!
+
+- **Which "Flag" Are You Waving?** At a road construction stop, one flagman was of good
+spirits, per my reading of his face; and the other was emanating bad vibes. The job ain't great, but I was reminded of Dr. King's declaration, one of the few I've committed to memory:
+  - "If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, here lived a great street sweeper who did his job well."
+  - This (to me at least) doesn't mean one shouldn't aspire to more than a flagman's job—but it does mean that we can literally … CHANGE THE WORLD AND CHANGE OUR SURROUNDINGS … by a unilateral effort to bring a certain attitude to what we do.
+
+## PERFORMANCE
 
 1.  It's Show Time! All the Time!
 "It's always show time"—David D'Alessandro, Career Warfare
