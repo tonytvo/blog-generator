@@ -427,39 +427,22 @@ spirits, per my reading of his face; and the other was emanating bad vibes. The 
 
 - **Work on Your First Impressions**. First impressions are your and my personal-career keys, and the keys to the likes of a company's customer service report card. We both get that. (Of course.) And yet I feel quite sure that we need constant reminding, reminding not just of the Power of First Impressions, but that there is a full-blown ... Science and Art of the Construction and Execution and Maintenance of Fantastic Beginnings. That is, like so many things in The Little BIG Things, it's "obvious"—but to pull it off with power and aplomb, one must become a serious student of the phenomenon—and practice as you would practice gymnastics. I've long had as my mantra: "Perception is all there is." It may irritate you, especially if you, like me, are an engineer by training and disposition—but the fact is the "packaging" is almost as important as the
 content.
-  - NB: For company leaders, how about CFIO, or Chief First Impressions Officer? (I'm more or less serious about the title—and totally serious about a formal job assignment.)
-  - NB: For you and me as individuals, Fox News über-spin doctor Roger Ailes says all I/you/we have is ... 7 SECONDS ... to make a first impression. Yikes! (On the other hand, package-goods marketers have but 1/3rd of a second to produce consumer impact.)
+
 
 - **Work on Your "Last Impressions."** Beginnings and endings overwhelm our memory of a
-thing. Their importance demands far more than casual concern. I call the whole shebang EEM
-(Emotional Experience Management—sorry, I enjoy conjuring up these acronyms). And working
-on the parting garners PEASS/Planned Exit Atmospherics Strategy & Story. Commerce Bank, the
-East Coast retail-banking superstar was bought by Toronto Dominion; but in its independent
-glory, one tactic was to be religiously open 15 minutes before the opening bell and open for
-another 15 minutes after the closing bell—gotta love it (and it worked like magic).
-Big message: It's not nearly enough to avoid last impression "screw-ups." Of course we don't
-want anything to "go wrong" at the Experience Exit Stage. But more important, we want a ...
-PLANNED EXIT ATMOSPHERICS STRATEGY& STORY that's ... MEMORABLE,
-COMPELLING, EMOTIONAL, that goes "AGGRESSIVELY RIGHT," not "not wrong."
-Beginnings-Endings = Strategic opportunity.
-1.  Work on Your Presentation Skills (Or: 17 Minutes Can Change the World!) Barack
+thing. Their importance demands far more than casual concern. I call the whole shebang EEM (Emotional Experience Management—sorry, I enjoy conjuring up these acronyms). And working on the parting garners PEASS/Planned Exit Atmospherics Strategy & Story. Commerce Bank, the East Coast retail-banking superstar was bought by Toronto Dominion; but in its independent glory, one tactic was to be religiously open 15 minutes before the opening bell and open for another 15 minutes after the closing bell—gotta love it (and it worked like magic).
+- Big message: It's not nearly enough to avoid last impression "screw-ups." Of course we don't want anything to "go wrong" at the Experience Exit Stage. But more important, we want a ... PLANNED EXIT ATMOSPHERICS STRATEGY& STORY that's ... MEMORABLE, COMPELLING, EMOTIONAL, that goes "AGGRESSIVELY RIGHT," not "not wrong."
+- Beginnings-Endings = Strategic opportunity.
+
+- **Work on Your Presentation Skills (Or: 17 Minutes Can Change the World!)** Barack
 Obama moved from obscurity to the Big Tent with a 17-minute speech at the 2004 Democratic
-National Convention. While the stakes are much lower for you or me, the cost or benefit of
-presentation skills is nonetheless enormous within our local context.
-18
-My obsession with bugging others about primacy of top-tier presentation skills started late, after I
-sat at dinner, in 2007, next to a "Top 25" exec at a Fortune 25 company, an outfit known for its
-"just the facts" approach to decision making. We were chatting about this, that, and the other, and
-at one point he said to me, out of the blue, "I work like hell developing guys for the top, and say
-I've got four guys who've performed well and could move up. I'll swear, two or three, or
-sometimes all four, will drop off the track as a direct result of lousy presentation skills."
-I know this chap well, and he's a naturally reticent genius engineer whose speaking skills were
-marginal until he applied, over a period of years, his matchless willpower—and brute force—to
-training/improving himself.
+National Convention. While the stakes are much lower for you or me, the cost or benefit of presentation skills is nonetheless enormous within our local context.
+  - My obsession with bugging others about primacy of top-tier presentation skills started late, after I sat at dinner, in 2007, next to a "Top 25" exec at a Fortune 25 company, an outfit known for its "just the facts" approach to decision making. We were chatting about this, that, and the other, and at one point he said to me, out of the blue, "I work like hell developing guys for the top, and say I've got four guys who've performed well and could move up. I'll swear, two or three, or sometimes all four, will drop off the track as a direct result of lousy presentation skills."
+  - I know this chap well, and he's a naturally reticent genius engineer whose speaking skills were marginal until he applied, over a period of years, his matchless willpower—and brute force—to training/improving himself.
 
-WORK
+## WORK
 
-45. On Being a "Professional." Think "professional," and what words come to mind? Doctor.
+1.  On Being a "Professional." Think "professional," and what words come to mind? Doctor.
 Lawyer. School teacher. Musician. Ballplayer. Six Sigma quality guru. Cloud-computing
 consultant. JIT inventory management expert. These sorts of professionals share certain
 characteristics such as: student of their craft, dedicated to a "calling," pursuing constant
@@ -476,7 +459,7 @@ required to achieve mastery in painting or molecular biology. Most of us take mo
 enumerated immediately above "seriously." But few of us are determined to achieve no-bull ...
 "professionalism" ... around these and like topics, which are the true bedrock of enterprise
 effectiveness.
-46. "Everything Passes Through Finance." (And So Should You.) While one can joke
+1.  "Everything Passes Through Finance." (And So Should You.) While one can joke
 about finance ("Those guys have a one-word vocabulary, 'No'"), the fact is that the "finance guys"
 play a determining role in all but the tiniest projects. Face up to it—and do something about it.
 Study, make pals, seek a temp assignment in finance, whatever—the dividends will be
@@ -485,14 +468,14 @@ Everything passes through Finance.
 Their business is your business.
 Stop pissing and moaning about their world.
 Invest in appreciation of their world.
-47. What's on the Agenda? Why Don't You Decide? There are a bunch of "lousy" or
+1.  What's on the Agenda? Why Don't You Decide? There are a bunch of "lousy" or
 "trivial" tasks that are neither lousy nor trivial. Agenda creator and official notetaker are perhaps
 first among equals. Using avenues like this to manipulate the power nodes within an 
 19
 organizational system can be extraordinarily useful—and can happen early in one's career. (James
 Madison to a significant degree shaped the Constitution because he was the convention's official
 scribe—is that a good enough example for you?)
-48. We Are All in Sales. Period.
+1.  We Are All in Sales. Period.
 "Everyone lives by selling something."—Robert Louis Stevenson
 A successful TV producer saw his work rejected again and again. While accidentally viewing a
 late-night advertorial on some topic such as "How to get rich in real estate," it dawned on him
@@ -503,7 +486,7 @@ The "bottom line" is or should be obvious: Literally every one of us needs to fo
 our sales skills—many will end up echoing the record of my TV industry pal.
 INITIATIVE
 
-49. Make That "Three-Minute Call"! Today! Now! Yes it is all—as in all—about
+1.  Make That "Three-Minute Call"! Today! Now! Yes it is all—as in all—about
 relationships. And ever so many are off track or under-nourished—at any point in time. One very
 big part of the problem-opportunity comes in the form of what I call "the all-important threeminute call." That is, address the problem early, before the tipping point, with what amounts to no
 more than a smidgen of effort—and avoid immeasurable pain down the pike.
@@ -520,7 +503,7 @@ Little BIG Things, is "working at it." That is, I'd argue that "making the three
 least as worthy of study and practice as learning to play a piano or build a fine cabinet: Nations
 rise or fall, battles are won or lost, based on (1) not making the call, or (2) making the call
 occasionally, or (3) making the call routinely, as a matter of habit, and with abiding skill.
-50. Show Up! (It's a Start) Woody Allen famously said that "Eighty percent of success is
+1.  Show Up! (It's a Start) Woody Allen famously said that "Eighty percent of success is
 showing up." It's a good laugh line—and unchallengeable. It's true for me and you—and true in
 circumstances of the greatest import. In 1787 in the U.S., delegates came to Philadelphia to draft
 our enduring, as it turned out, Constitution. The smallest of all the states, Delaware, may have
@@ -530,14 +513,14 @@ members volunteered to do every damn thing imaginable—and in the end it paid o
 20
 Hence I conclude that "Woody's strategy" works in an office of five people—and when the fate of
 a nation is at stake. As I said … Big Time.
-51. Get Up Earlier Than the Next (in This Case) Gal. I was flying to Boston from London
+1.  Get Up Earlier Than the Next (in This Case) Gal. I was flying to Boston from London
 on a Saturday morning. It was a seven-hour flight. A professional woman was sitting in front of
 me. I duly swear, she did not look up once during the entire flight. She produced more on her
 laptop in those seven hours than I do in a week. Or a month.
 There's something to say for out-working "the other guy"—or woman. In short, I would give both
 my right and left arms to have the woman described above on my side—and, God help me, not on
 the other side!
-52. Make an Insane Public Effort. The late sports super-agent Mark McCormack (once voted
+1.  Make an Insane Public Effort. The late sports super-agent Mark McCormack (once voted
 the most powerful man in sports) once condoned and even certified one of my own crazy habits.
 He said there are times, not necessarily infrequent, when it is wise-imperative to travel 5,000
 miles for a 5-minute meeting. It was a tactic I started using in 1974, when I was a junior White
@@ -548,7 +531,7 @@ effort" almost always breaks a logjam—and not infrequently leads to a solution
 The key word here is … "insane."
 LEADERSHIP
 
-53. To Lead Is to Help Others Succeed.
+1.  To Lead Is to Help Others Succeed.
 "The role of the director is to create a space where the actors and actresses can become more
 than they've ever been before, more than they've dreamed of being."—Robert Altman, Oscar
 acceptance speech
@@ -561,7 +544,7 @@ customers, happy stockholders, happy communities.
 To start the ball rolling, change every performance review into a two-part process, the first in
 which there is a rigorous evaluation of the employee—and the second of which is a rigorous
 review of your own efforts to help that employee forward.
-54. At Their Service. Leadership is a "service business." Robert Greenleaf gave us the concept
+1.  At Their Service. Leadership is a "service business." Robert Greenleaf gave us the concept
 of "servant leadership"—it's one of those "pretty much all you need to know" ideas. My take:
  (1) Organizations exist to serve. Period.
  (2) Leaders exist to serve their people. Period.
@@ -571,7 +554,7 @@ Use the word "Serve." (That's what you do.)
 Use the word "Service." (That's what you provide.)
 Use the word "Servant." (That's what you are.)
 The unadorned word "service" is beauty encapsulated.
-55. Have You "Hosted" Any Good Employees Lately? Consider the leader's primary job to
+1.  Have You "Hosted" Any Good Employees Lately? Consider the leader's primary job to
 be a host to her or his employees. That's the way Jan Gunnarsson and Olle Blohm put it in
 Hostmanship: The Art of Making People Feel Welcome.
 Gunnarsson and Blohm based this universal (as they—and I—see it) idea on their experience
@@ -588,7 +571,7 @@ when you are ready to ask, 'Would you prefer to stay at a hotel where the staff 
 where management has made customers its highest priority?'"
 Your call, but I'd call it "putting first things first"—and it applies as much in the 7-person
 purchasing department as in the retail establishment.
-56. A Sacred Trust. As I see it, anyone who takes on any leadership job, minor or major,
+1.  A Sacred Trust. As I see it, anyone who takes on any leadership job, minor or major,
 assumes no less than a ... Sacred Trust. I know that's extreme language. But I stand by it. This
 sacred trust is all about what organizations are all about: the professional (and, to some extent,
 personal) development of people. Sure, the boss's job is to "get the job done," and done
@@ -598,7 +581,7 @@ Consider this as the translation of "sacred trust" into a plank in your core-val
 are committed to the measurable growth of each and every member of our staff. We aspire to
 have every staff member say, of their stay here, 'That was a remarkable period of my
 development.'"
-57. Rat Psych Rules! Or: Deploying Positive Reinforcement's Incredible Potency. You can
+1.  Rat Psych Rules! Or: Deploying Positive Reinforcement's Incredible Potency. You can
 overdo anything—including positive reinforcement. It's just that in 9 out of 10 cases (more like
 99 in 100) we "underdo" positive reinforcement—and usually overdo negative reinforcement. I,
 like Mark Twain, "can live for months on a compliment" or a small act of encouragement. This is
@@ -619,14 +602,14 @@ considered him a failure and told him so. After reading the captain's letter, he
 congratulate his son and tell him how proud he was of him. 'Captain, I can't thank you enough,'
 said the young man. For the first time in his life, he felt loved and encouraged by his father."
 WORDS
-58. "What Do You Think?" Our colleague Dave Wheeler said, in a Comment at
+1.  "What Do You Think?" Our colleague Dave Wheeler said, in a Comment at
 tompeters.com: "The four most important words in management are ... 'What do you think?'" I
 agree! And the old engineer in me screams: Quantify! So: How many times today did you "use
 the four words"? I.e., exactly how many times did you utter: "What do you think?"
 Maybe go so far as to put this idea in the formal "values statement":
 "We obsessively ask 'What do you think?'—We understand that we rise or fall on the engagement
 and intelligence and constant contributions of 100% of us."
-59. "Thank You"
+1.  "Thank You"
 "The deepest human need is the need to be appreciated."—William James, premier American
 psychologist
 "You shouldn't be looking for people slipping up, you should be looking for all the good things
@@ -638,7 +621,7 @@ gain a place of honor in the values statement: "We habitually express appreciati
 another's efforts—because we do in fact consciously appreciate everyone's 'ordinary' 'daily'
 contributions, let alone the extraordinary ones." Or words to that effect …
 
-60. "I'm Sorry."
+1.  "I'm Sorry."
 Message: THIS IS A BIG DEAL. THIS IS "STRATEGIC."
 "I regard apologizing as the most magical, healing, restorative gesture human beings can make.
 It is the centerpiece of my work with executives who want to get better."—Marshall Goldsmith,
@@ -665,10 +648,10 @@ the heft of:
 Bonus: Often as not, an Effective Apology is far more than a "bullet dodged." That is, not only is
 a problem cleared up, but also the cock-up brilliantly and overwhelmingly and unequivocally
 atoned for solidifies a relationship—and carries it forward.
-61. Words of Truth—from a Fiction Writer
+1.  Words of Truth—from a Fiction Writer
 "Why not just tell the truth?"—Raymond Carver, premier American short-story writer
 NETWORKING
-62. One Line of Code: The Shortest Distance Between "Critic" and "Champion"
+1.  One Line of Code: The Shortest Distance Between "Critic" and "Champion"
 "They" say that complex software implementations fall short of promised effectiveness almost all
 the time. "They" add that the problem is rarely the software; it's almost always less-thanenthusiastic down-the-line users.
 I have the answer (which an Aussie CIO gave me): One line of code!
@@ -686,7 +669,7 @@ DIRECTLY ... BECAUSE OF ERIK!
 In 4.2 out of 5 cases, Erik flips from thorn in your side to fellow champion! Suddenly the whole
 damn thing is "Erik's project"! In Erik's mind, the whole thing would have collapsed without his
 precious, save-your-ass input!
-63. "Suck Down" for Success. Forget "sucking up"—it's a low-odds strategy. If you are
+1.  "Suck Down" for Success. Forget "sucking up"—it's a low-odds strategy. If you are
 willing to invest the time, and it takes time, "sucking down" is a high-odds affair—to paraphrase
 the immortal robber Willy Sutton on why he chose to knock off banks, "It's where the money is."
 (Oh is it ever!) In addition to the plain fact that "down there" is where the real work is done,
@@ -702,7 +685,7 @@ of a client organization and develop a set of relationships with the real deal m
 so many implementation issues, women are instinctively better at this than men.)
 (NB: Alternate formulation to "Suck down for success": "Success does not depend on 'the people
 you know in high places'—it depends on 'the people you know in low places.'")
-64. Formula for Success: C(I) > C(E). I've long argued that the set of relationships inside
+1.  Formula for Success: C(I) > C(E). I've long argued that the set of relationships inside
 your own company is almost as important as the relationships with external bill-paying
 customers. While it may not be a universal truth, it struck me as I talked to a GE group that sold
 big international projects that in many cases our Internal Customers/"C(I)" are in more important
@@ -713,7 +696,7 @@ lawyers and the all-important ("yes" or "no") risk-assessment staff.
 Bottom line: What ... PRECISELY (measure it!!) ... have you done lately (LAST 36 HOURS!)
 for your all-important "portfolio" of ... INTERNAL CUSTOMERS? I.e.: Do Not Let A Single
 Day Pass Without Doing Something Notable For Some Internal Customer.
-65. How Does Your "Inside Game" Measure Up?
+1.  How Does Your "Inside Game" Measure Up?
 Given: Cross-functional communication is such a universal problem that it could fairly be called
 enterprise "Problem #1."
 Solution (one more part thereof): All staff departments ought to/should/must quickly install firstrate internal customer satisfaction measurement systems—with tough up and down incentives. In
@@ -728,7 +711,7 @@ incentives for staff departments were based primarily on quantitative measures o
 customers' satisfaction—the staff department exec called this Internal Customer Satisfaction
 System "my principal strategic initiative."
 LUNCH
-66. Across the Board: Cross-Functional Collaboration Is Issue #1—in a 6-person logistics
+1.  Across the Board: Cross-Functional Collaboration Is Issue #1—in a 6-person logistics
 sub-department, a 12-table restaurant, an auto dealership. Therefore going after this issue daily is
 a Monster Opportunity. Want great cross-functional cooperation-opportunity maximization, or
 XFX/Cross-functional Excellence?
@@ -745,7 +728,7 @@ key external customer.
 Answer: Do not bad mouth ... "the damned accountants," "the damned HR guy." Ever.
 Answer: Twenty more things like this that boil down to establishing and maintaining and
 enhancing social-human bonds with "the 'thems,'" as I label it.
-67. Getting Along and Going to Lunch: Solving the Cross-Functional Cooperation Problem
+1.  Getting Along and Going to Lunch: Solving the Cross-Functional Cooperation Problem
 There's a lot more to say about cross-functional integration, but I want this one to stand by itself.
 Do lunch!
 Consider each workday lunch an "at bat." Four workweeks at five days each adds up to about 20
@@ -788,7 +771,7 @@ Show up!
 And about 20 more like these ….
 YES
 
-68. Just Say Yes!—Or: A Lesson from My Mother-in-Law My wife Susan and I, on short
+1.  Just Say Yes!—Or: A Lesson from My Mother-in-Law My wife Susan and I, on short
 notice, invited her mom to come down from New Canaan CT and join us for a Midtown
 Manhattan dinner. She said "No." I've known her for a long time. If she's anything, she's self
 certain. I.e., "No" = No.
@@ -801,7 +784,7 @@ spend time with people of all ages. And third, say 'Yes.'" She added that indeed
 intended to drive down from Connecticut. But she remembered her friend and determinedly
 decided to say …
 "Yes."
-69. For the Sheer Glorious 24/7 Fun of It! Richard Branson's idea of fun is going head to
+1.  For the Sheer Glorious 24/7 Fun of It! Richard Branson's idea of fun is going head to
 head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his
 wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by
 a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip
@@ -816,7 +799,7 @@ This is strategic: As boss, do your darnedest to "make it fun," "make it a ride 
 "make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like
 Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
 NO
-70. "To Don'ts" Are More Important Than "To-Dos" My friend Dennis is a prominent
+1.  "To Don'ts" Are More Important Than "To-Dos" My friend Dennis is a prominent
 educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll
 out his program across the country. Suddenly, he was required to turn his innovative ideas into a
 system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10
@@ -832,7 +815,7 @@ standard, among them.) But you probably can't work on "to-don't" alone—you nee
 board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the
 woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be
 spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
-71. Some Things Worth Doing Are Worth Doing Not Particularly Well. The reminder
+1.  Some Things Worth Doing Are Worth Doing Not Particularly Well. The reminder
 came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I
 cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I
 went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at 
