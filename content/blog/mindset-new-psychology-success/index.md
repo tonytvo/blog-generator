@@ -577,21 +577,13 @@ than our External Customers/"C(E)." That is: C(I) > C(E)
 lawyers and the all-important ("yes" or "no") risk-assessment staff.
   - Bottom line: What ... PRECISELY (measure it!!) ... have you done lately (LAST 36 HOURS!) for your all-important "portfolio" of ... INTERNAL CUSTOMERS? I.e.: Do Not Let A Single Day Pass Without Doing Something Notable For Some Internal Customer.
 
-1.  How Does Your "Inside Game" Measure Up?
-Given: Cross-functional communication is such a universal problem that it could fairly be called
-enterprise "Problem #1."
-Solution (one more part thereof): All staff departments ought to/should/must quickly install firstrate internal customer satisfaction measurement systems—with tough up and down incentives. In
-my experience, it is the rare staff department that measures (internal) customer satisfaction
-religiously—and the ever more rare internal unit that ties substantial rewards and penalties to
-such measurements. That must change!
-25
-Case: I met the boss of Staff Services at a large Italian bank. He was fanatic about "customer"
-satisfaction for his departments' internal customers. In his scheme, each staff department's
-internal "customers" themselves devised the measures; and the primary dollars and cents (Euro)
-incentives for staff departments were based primarily on quantitative measures of their internal
-customers' satisfaction—the staff department exec called this Internal Customer Satisfaction
-System "my principal strategic initiative."
-LUNCH
+- **How Does Your "Inside Game" Measure Up?**
+  - Given: Cross-functional communication is such a universal problem that it could fairly be called enterprise "Problem #1."
+  - Solution (one more part thereof): All staff departments ought to/should/must quickly install firstrate internal customer satisfaction measurement systems—with tough up and down incentives. In my experience, it is the rare staff department that measures (internal) customer satisfaction religiously—and the ever more rare internal unit that ties substantial rewards and penalties to such measurements. That must change!
+  - Case: I met the boss of Staff Services at a large Italian bank. He was fanatic about "customer" satisfaction for his departments' internal customers. In his scheme, each staff department's internal "customers" themselves devised the measures; and the primary dollars and cents (Euro) incentives for staff departments were based primarily on quantitative measures of their internal customers' satisfaction—the staff department exec called this Internal Customer Satisfaction System "my principal strategic initiative."
+
+## LUNCH
+
 1.  Across the Board: Cross-Functional Collaboration Is Issue #1—in a 6-person logistics
 sub-department, a 12-table restaurant, an auto dealership. Therefore going after this issue daily is
 a Monster Opportunity. Want great cross-functional cooperation-opportunity maximization, or
