@@ -584,23 +584,17 @@ lawyers and the all-important ("yes" or "no") risk-assessment staff.
 
 ## LUNCH
 
-1.  Across the Board: Cross-Functional Collaboration Is Issue #1—in a 6-person logistics
-sub-department, a 12-table restaurant, an auto dealership. Therefore going after this issue daily is
-a Monster Opportunity. Want great cross-functional cooperation-opportunity maximization, or
-XFX/Cross-functional Excellence?
-Answer: Make friends in other functions! (Purposefully.)
-Answer: Go to lunch with people in other functions!! Frequently!!
-Answer: Ask peers in other functions for some references so you can become conversant in their
-world. (Big deal: You'll find it interesting—and it's a helluva sign of ... GIVE-A-DAMN-ism.)
-Answer: Invite counterparts in other functions to your meetings. Religiously. Ask them to present
-"cool stuff" from "their world" to your group. (B-I-G deal; useful and respectful.)
-Answer: Present counterparts in other functions awards for service to your group—hold an "AllStar Supporters [from other groups] Banquet."
-Answer: When someone in another function asks for assistance, respond with even more alacrity
-than you would if it were the person in the cubicle next to yours—or more than you would for a
-key external customer.
-Answer: Do not bad mouth ... "the damned accountants," "the damned HR guy." Ever.
-Answer: Twenty more things like this that boil down to establishing and maintaining and
-enhancing social-human bonds with "the 'thems,'" as I label it.
+- **Across the Board: Cross-Functional Collaboration Is Issue #1**—in a 6-person logistics sub-department, a 12-table restaurant, an auto dealership. Therefore going after this issue daily is
+a Monster Opportunity. Want great cross-functional cooperation-opportunity maximization, or XFX/Cross-functional Excellence?
+  - Answer: Make friends in other functions! (Purposefully.)
+  - Answer: Go to lunch with people in other functions!! Frequently!!
+  - Answer: Ask peers in other functions for some references so you can become conversant in their world. (Big deal: You'll find it interesting—and it's a helluva sign of ... GIVE-A-DAMN-ism.)
+  - Answer: Invite counterparts in other functions to your meetings. Religiously. Ask them to present "cool stuff" from "their world" to your group. (B-I-G deal; useful and respectful.)
+  - Answer: Present counterparts in other functions awards for service to your group—hold an "AllStar Supporters [from other groups] Banquet."
+  - Answer: When someone in another function asks for assistance, respond with even more alacrity than you would if it were the person in the cubicle next to yours—or more than you would for a key external customer.
+  - Answer: Do not bad mouth ... "the damned accountants," "the damned HR guy." Ever.
+  - Answer: Twenty more things like this that boil down to establishing and maintaining and enhancing social-human bonds with "the 'thems,'" as I label it.
+
 1.  Getting Along and Going to Lunch: Solving the Cross-Functional Cooperation Problem
 There's a lot more to say about cross-functional integration, but I want this one to stand by itself.
 Do lunch!
