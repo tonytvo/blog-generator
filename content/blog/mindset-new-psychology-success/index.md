@@ -595,22 +595,19 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
   - Answer: Do not bad mouth ... "the damned accountants," "the damned HR guy." Ever.
   - Answer: Twenty more things like this that boil down to establishing and maintaining and enhancing social-human bonds with "the 'thems,'" as I label it.
 
-1.  Getting Along and Going to Lunch: Solving the Cross-Functional Cooperation Problem
-There's a lot more to say about cross-functional integration, but I want this one to stand by itself.
-Do lunch!
-Consider each workday lunch an "at bat." Four workweeks at five days each adds up to about 20
-"at bats" each month.
-20 opportunities to start New Relationships;
-20 opportunities to nurture or extend Old Relationships;
-20 opportunities to patch up Frayed Relationships;
-20 opportunities to "Take a Freak to Lunch"—and learn something new;
-20 opportunities to test an idea with a potential Recruit-Alliance Partner;
-20 opportunities to get to know someone in Another Function;
-20 opportunities to ... PURSUE or MAKE A SALE ... to gain a Convert-Champion for your idea
-or project.
-Each lunch gone is gone for good. 20 per month. 240 per year. To a Major League Baseball
-Player, EACH AT BAT is Precious. To a "determined-to-build-a-matchless-network-and-collectcool-outsiders-and-useful-allies" ... EACH LUNCH is Precious.
-26
+- **Getting Along and Going to Lunch: Solving the Cross-Functional Cooperation Problem**
+  - There's a lot more to say about cross-functional integration, but I want this one to stand by itself.
+  - **Do lunch!**
+  - Consider each workday lunch an "at bat." Four workweeks at five days each adds up to about 20 "at bats" each month.
+    - 20 opportunities to start New Relationships;
+    - 20 opportunities to nurture or extend Old Relationships;
+    - 20 opportunities to patch up Frayed Relationships;
+    - 20 opportunities to "Take a Freak to Lunch"—and learn something new;
+    - 20 opportunities to test an idea with a potential Recruit-Alliance Partner;
+    - 20 opportunities to get to know someone in Another Function;
+    - 20 opportunities to ... PURSUE or MAKE A SALE ... to gain a Convert-Champion for your idea or project.
+  - Each lunch gone is gone for good. 20 per month. 240 per year. To a Major League Baseball Player, EACH AT BAT is Precious. To a "determined-to-build-a-matchless-network-and-collectcool-outsiders-and-useful-allies" ... EACH LUNCH is Precious.
+
 SPECIAL SECTION: "THE EQUATIONS": An Engineer's View of the ... Secrets of
 Effective Implementation
 Engineers live for mathematical and/or algebraic representation of any and all things. Hence, I, an
