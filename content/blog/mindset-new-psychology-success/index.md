@@ -608,32 +608,25 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
     - 20 opportunities to ... PURSUE or MAKE A SALE ... to gain a Convert-Champion for your idea or project.
   - Each lunch gone is gone for good. 20 per month. 240 per year. To a Major League Baseball Player, EACH AT BAT is Precious. To a "determined-to-build-a-matchless-network-and-collectcool-outsiders-and-useful-allies" ... EACH LUNCH is Precious.
 
-SPECIAL SECTION: "THE EQUATIONS": An Engineer's View of the ... Secrets of
-Effective Implementation
-Engineers live for mathematical and/or algebraic representation of any and all things. Hence, I, an
-unrepentant engineer, offer this set of "equations" aimed at helping you, engineer or not, boost
-your odds of success at implementing damn near anything.
-Success at GTD/Getting Things Done Is a Function of ...
-S = ƒ(#&DR; -2L, -3L, -4L, I&E)
-Success is a function of: Number and depth of relationships 2, 3, and 4 levels down inside and
-outside the organization.
-S = ƒ(SD>SU)
-"Sucking down" is more important than "sucking up"—the idea is to have the entire "underbelly"
-of the organization working for you.
-S = ƒ(#non-FF, #non-FL)
-Number of friends, number of lunches with people not in my function—e.g., "#non-FF' is number
-of friends not in my function.
-S = ƒ(#FF)
-Number of friends in the finance organization.
-S = ƒ(#EODD3MC)
-Number of end-of-the-day difficult (you'd rather avoid) "3-minute calls" that soothe raw feelings,
-mend fences, etc.
-S = ƒ(#TYsT)
-Number of "thank you"s today, number of thank you notes sent today.
-S = ƒ(SU)
-Show up!
-And about 20 more like these ….
-YES
+## "THE EQUATIONS": An Engineer's View of the ... Secrets of Effective Implementation
+- Engineers live for mathematical and/or algebraic representation of any and all things. Hence, I, an unrepentant engineer, offer this set of "equations" aimed at helping you, engineer or not, boost your odds of success at implementing damn near anything.
+- Success at GTD/Getting Things Done Is a Function of ...
+  - S = ƒ(#&DR; -2L, -3L, -4L, I&E)
+    - Success is a function of: Number and depth of relationships 2, 3, and 4 levels down inside and outside the organization.
+  - S = ƒ(SD>SU)
+    - "Sucking down" is more important than "sucking up"—the idea is to have the entire "underbelly" of the organization working for you.
+  - S = ƒ(#non-FF, #non-FL)
+    - Number of friends, number of lunches with people not in my function—e.g., "#non-FF' is number of friends not in my function.
+  - S = ƒ(#FF)
+    - Number of friends in the finance organization.
+  - S = ƒ(#EODD3MC)
+    - Number of end-of-the-day difficult (you'd rather avoid) "3-minute calls" that soothe raw feelings, mend fences, etc.
+  - S = ƒ(#TYsT)
+    - Number of "thank you"s today, number of thank you notes sent today.
+  - S = ƒ(SU)
+    - Show up! And about 20 more like these ….
+
+## YES
 
 1.  Just Say Yes!—Or: A Lesson from My Mother-in-Law My wife Susan and I, on short
 notice, invited her mom to come down from New Canaan CT and join us for a Midtown
