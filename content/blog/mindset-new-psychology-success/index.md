@@ -628,19 +628,10 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
 
 ## YES
 
-1.  Just Say Yes!—Or: A Lesson from My Mother-in-Law My wife Susan and I, on short
-notice, invited her mom to come down from New Canaan CT and join us for a Midtown
-Manhattan dinner. She said "No." I've known her for a long time. If she's anything, she's self
-certain. I.e., "No" = No.
-When we arrived in town from Vermont, we were therefore nonplussed to find a message from
-Joan, saying, "I'll be arriving at 7." We obviously asked her why she'd changed her mind.
-"I decided to say 'Yes.'" She recalled a friend who'd had a vigorous life into her 90s. "She said she
-had three 'secrets': First, surround yourself with good books on any and every topic. Second, 
-27
-spend time with people of all ages. And third, say 'Yes.'" She added that indeed she had not
-intended to drive down from Connecticut. But she remembered her friend and determinedly
-decided to say …
-"Yes."
+- **Just Say Yes!—Or: A Lesson from My Mother-in-Law** My wife Susan and I, on short notice, invited her mom to come down from New Canaan CT and join us for a Midtown Manhattan dinner. She said "No." I've known her for a long time. If she's anything, she's self certain. I.e., "No" = No.
+  - When we arrived in town from Vermont, we were therefore nonplussed to find a message from Joan, saying, "I'll be arriving at 7." We obviously asked her why she'd changed her mind.
+  - "I decided to say 'Yes.'" She recalled a friend who'd had a vigorous life into her 90s. "She said she had three 'secrets': First, surround yourself with good books on any and every topic. Second,  spend time with people of all ages. And third, say 'Yes.'" She added that indeed she had not intended to drive down from Connecticut. But she remembered her friend and determinedly decided to say … "Yes."
+
 1.  For the Sheer Glorious 24/7 Fun of It! Richard Branson's idea of fun is going head to
 head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his
 wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by
