@@ -188,6 +188,16 @@ many of the benefits of the declarative design are obtained once you have combin
 - Observe the axes of change and stability through successive refactorings, and look for underlying conceptual contours that explain these shearing patterns.
 - Align the model with the consistent aspects of the domain that make it a viable area of knowledge in the first place.
 
+## continuous integration
+
+- **when a number of people are working in the same BOUNDED CONTEXT, there is a strong tendency for the model to fragment. The bigger the team, the bigger the problem, but as few as 3 or 4 people can encounter serious problems. Yet breaking down the system into ever-smaller CONTEXTs eventually loses a valuable level of integration coherency.**
+
+- CONTINUOUS INTEGRATION means that all work within the context is being merged and made consistent frequently enough that when splinters happen they are caught and corrected quickly. CONTINUOUS INTEGRATION operates at 2 levels: 
+  - the integration of model concepts 
+  - and the integration of the implementation.
+
+- institute a process of merging all code and other implementation artifacts frequently, with automated tests to flag fragmentation quickly. Relentlessly exercise the UBIQUITOUS LANGUAGE to hammer out a shared view of the model as the concepts evolve in different people's head.
+
 ## context map
 - we should not directly use functionality and data structures through different bounded contexts. The bounded contexts must be encapsulated, as independent as possible. To reach this goal, bounded contexts must communicate through abstractions (interfaces) and, if necessary, translation layers or even anti-corruption layers.
 To make the bounded contexts ecosystems explicitly clear, encapsulated, loosely coupled and high cohesive, we should:
@@ -639,6 +649,7 @@ where development failure in either of two contexts would result in delivery fai
           - the design does not express the team's current understanding of the domain
           - important concepts are implicit in the design (and you see a way to make them explicit)
           - you see an opportunity to make some important part of the design suppler.
+
   - What are the three principles for applying domain-driven design to large projects and enterprises?
     - strategic design principles must guide design decision to reduce the interdependence of parts and improve clarity without losing critical interoperability and synergy. They must focus the model to capture the conceptual core of the system, the "vision" of the system. And *they must do all this without bogging the project down*. To help accomplish these goals, there are 3 board theme, context, distillation, and large-scale structures
     - **context**: a successful model, large or small, has to be logically consistent throughout, without contradictory or overlapping definitions. By explicitly defining the BOUNDED CONTEXT within which a model applies and then, when necessary, defining its relationship with other contexts, the modeler can avoid bastardizing the model.
@@ -646,9 +657,9 @@ where development failure in either of two contexts would result in delivery fai
     - **large scale structure**: In a very complex model, you may not see the forest for the trees. Some system-wide design elements and patterns can help. Some such structure can bring a uniformity to the design and accelerates development and improve integration.
     - these 3 principles, useful separately but particularly powerful taken together, help to produce good designs, even in a sprawling system that no one completely understands. Large scale structure brings consistency to disparate parts to help those parts mesh. Structure and distillation make the complex relationships between parts comprehensible while keeping the big picture in iew. BOUNDED CONTEXTS allow work to proceed in different parts without corrupting the model or unintentionally fragmenting it. Adding these concepts to the team's UBIQUITOUS LANGUAGE helps developers work out their own solutions.
 
-- **Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs. 331-338**
+- **Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs.**
   - [model integrity patterns](./model-integrity-patterns.png)
-  - How much integration do you need?
+  - [refer to bounded context](#bounded-context)
   - How can you structure relationships between teams to get it? 341-371, (headings and bold)
   - Whimsical, non-technical example 378-381
   - Broad tradeoffs between context strategies Figure 14.13 (on p. 388)
