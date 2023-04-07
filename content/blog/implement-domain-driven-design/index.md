@@ -228,6 +228,9 @@ public Itinerary route(Specification spec){
   - describe the point of contact between the models, outlining explicit translation for any communication. Highlighting any sharing, isolation mechanism, and levels of influence.
   - Map the existing terrain. Take up the transformations later.
   - everyone has to know where the boundaries lie, and be able to recognize the CONTEXT of any piece of code or any situation.
+- how to keep track what modules belong to what contexts?
+  - maybe naming conventions?
+- working the CONTEXT MAP into discussions is essentials if the names are to enter the UBIQUITOUS LANGUAGE. Don't say, "George team's stuff is changing, so we're going to have to change our stuff that talks to it" Say instead, "The Transport Network model is changing, so we're going to have to change the translator for Booking context."
 
 ## partnership
 - when teams in two contexts succeed or fail together, a cooperative relationship often emerges
@@ -241,6 +244,9 @@ where development failure in either of two contexts would result in delivery fai
 - Within this boundary, include this subset of the model, the subset of code or the database design associated with that part of the model.
 - This explicitly shared stuff has a special status and shouldn't be changed without consultation with the other team.
 - When functional integration is limited, the overhead of continuous integration of a significant context may be deemed too high. This may especially be true when the team does not have the skill or the political organization to maintain continuous integration or when a single team is simply too big and unwieldy.
+- uncoordinated teams working on closely related applications can go racing forward for a while, but what they produce may not fit together. They can end up spending more on translation layers and retrofitting than they would have on CONTINUOUS INTEGRATION in the first place, meanwhile duplicating efforts and lose benefits of common UBIQUITOUS LANGUAGE.
+- integrate a functional system frequently, but somewhat less often than the pace of CONTINUOUS INTEGRATION within the teams. At these integrations, run the tests of both teams.
+- SHARED KERNEL is often CORE DOMAIN, some set of GENERIC SUB-DOMAINS or both, but it can be any part of the model that is needed by both team. The goal is to reduce duplication (but not to eliminate it, as would be the case if there were just one BOUNDED CONTEXT), and make the integration between the two sub-systems relatively easy.
 
 ## customer/supplier development
 - when 2 teams are in an upstream-downstream relationship, where the upstream team may succeed independently of the fate of the downstream team, the needs of the downstream come to be addressed in a variety of ways with a wide range of consequences.
@@ -265,11 +271,17 @@ where development failure in either of two contexts would result in delivery fai
 ## anti-corruption layer
 
 - Translation becomes more complex when control or communication is insufficient to pull off a shared kernel, partner, or customer/supplier relationship. As a result, the translation takes on a more defensive tone.
+- when a new system being built that must have a large interface with another, the difficulty of relating the 2 models can eventually overwhelm the intent of the new model altogether, causing it to be modified to resemble the other system's model, in an adhoc fashion. The models of legacy systems are usually weak, and even the exception that is well developed may not fit the needs of the current project. Yet there is lot of value in integration, and sometimes, it is an absolute requirements.
+- create an isolating layer to provide clients with functionality in terms of their own domain model. The layer talks to the other system through its existing interface, requiring little or no modification to the other system. Internally, the layer translates in both directions as necessary between 2 models.
+- **Design interface of the ANTICORRUPTION LAYER**
+  - the public interface of the ANTICORRUPTION LAYER usually appears as set of services, although occasionally it can take the form of ENTITY.
+  - building a whole new layer responsible for the translation between the semantics of the two systems gives us an opportunity to reabstract the other system's behavior and offer its services and information to our system consistently with our model. 
 - As a downstream client, create an isolating layer to provide your system with the functionality of the upstream system in terms of your own domain model.
 - This layer talks to the other system through its existing interface, requiring little or no modification to the other system. Internally, the layer translates in one or both directions as necessary between the two models.
+- functionality an be added to the anticorruption layer if it is specific to the relationship of the 2 subsystems. An audit trail for use of the external system or trace logic for debugging the calls to other interface are 2 examples features.
 - The Anti-Corruption layer is implemented using:
   - **FACADE**
-    - An abstraction layer on top of a system API, as to limit and simplify the usage of the underlying API.
+    - An abstraction layer on top of a system API, as to limit and simplify the usage of the underlying API. Facade belongs in the BOUNDED CONTEXT of the other system.
   - **ADAPTER**
     - Which allow us to connect to different subsystems/APIs through a stable interface, implemented by all adapters who connect to equivalent subsystems/APIs.
   - **TRANSLATOR**
@@ -677,7 +689,15 @@ where development failure in either of two contexts would result in delivery fai
 
 - **Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs.**
   - [model integrity patterns](./model-integrity-patterns.png)
-  - [refer to bounded context](#bounded-context)
+  - [bounded context](#bounded-context)
+  - [continuous integration](#continuous-integration)
+  - [context map](#shared-kernel)
+  - [customer supplier development](#customersupplier-development)
+  - [conformist](#conformist)
+  - [anticorruption layer](#anti-corruption-layer)
+  - [separate ways](#separate-ways)
+  - [open host service](#open-host-service)
+  - [published language](#published-language)
   - How can you structure relationships between teams to get it? 341-371, (headings and bold)
   - Whimsical, non-technical example 378-381
   - Broad tradeoffs between context strategies Figure 14.13 (on p. 388)
