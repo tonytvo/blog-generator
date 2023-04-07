@@ -202,6 +202,23 @@ many of the benefits of the declarative design are obtained once you have combin
 - we should not directly use functionality and data structures through different bounded contexts. The bounded contexts must be encapsulated, as independent as possible. To reach this goal, bounded contexts must communicate through abstractions (interfaces) and, if necessary, translation layers or even anti-corruption layers.
 To make the bounded contexts ecosystems explicitly clear, encapsulated, loosely coupled and high cohesive, we should:
 
+- **people on other teams won't be very aware of the CONTEXT bounds and will unknowingly make changes that blur the edges or complicate the interconnections. When connections must be made between different contexts, they tend to bleed into each other.**
+
+- [translator example](./translator-example-route-network.png)
+```java
+public Itinerary route(Specification spec){
+  BookingNetworkTranslator translator = new List constraintLocations BookingNetworkTranslator();
+  translator.convert(spec);
+  //... get access to NetworkTraversalService
+  List pathNodes = traversalService.findPath(constraintLocations);
+  Itinerary itinerary = translator.convert(pathNodes);
+}
+```
+  - translator objects need to be maintained by both teams.
+
+- testing at CONTEXT boundaries
+  - contacts points with other BOUNDED CONTEXTS are particular important to test. Test help compensate for the subtleties of translation and the lower level of communication that typically exists at the boundaries. They can act as valuable early earning systems, especially reassure in cases where you depend on the details of models you don't control
+
 - Create a global view of all bounded contexts and their relations, using context maps, naming them and adding them to the ubiquitous language. 
   - Identify the points of contact between bounded contexts, together with the used translations and abstractions. All developers must know the boundaries and to what context any given code unit belongs to.
   - Personally, I find that having diagrams of the context maps hanging in the walls of the development offices is a great way of communicating the boundaries to the team, and keeping them in mind at all times. They should include their components, contact points, translator layers, and anti-corruption layers.
@@ -210,6 +227,7 @@ To make the bounded contexts ecosystems explicitly clear, encapsulated, loosely 
   - Name each bounded context, and make the names part of the ubiquitous language
   - describe the point of contact between the models, outlining explicit translation for any communication. Highlighting any sharing, isolation mechanism, and levels of influence.
   - Map the existing terrain. Take up the transformations later.
+  - everyone has to know where the boundaries lie, and be able to recognize the CONTEXT of any piece of code or any situation.
 
 ## partnership
 - when teams in two contexts succeed or fail together, a cooperative relationship often emerges
