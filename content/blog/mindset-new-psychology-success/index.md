@@ -442,23 +442,13 @@ National Convention. While the stakes are much lower for you or me, the cost or 
 
 ## WORK
 
-1.  On Being a "Professional." Think "professional," and what words come to mind? Doctor.
-Lawyer. School teacher. Musician. Ballplayer. Six Sigma quality guru. Cloud-computing
-consultant. JIT inventory management expert. These sorts of professionals share certain
-characteristics such as: student of their craft, dedicated to a "calling," pursuing constant
-improvement, master of a defined body of knowledge. My effort in many sections of the book is
-to expand, or even re-define, the idea of "professional" to include several bedrock areas of
-behavior, the effective practice of which determines success or failure in getting things done. For
+- ** On Being a "Professional."** Think "professional," and what words come to mind? Doctor. Lawyer. School teacher. Musician. Ballplayer. Six Sigma quality guru. Cloud-computing consultant. JIT inventory management expert. These sorts of professionals share certain characteristics such as: student of their craft, dedicated to a "calling," pursuing constant improvement, master of a defined body of knowledge, the effective practice of which determines success or failure in getting things done. For
 example:
-• Saying "Thank you" (Mastering the Practice of Appreciation)
-• Apologizing (Repairing frayed relationships)
-• Listening (Hearing and Absorbing others' views)
-• Achieving peace and prosperity among warring organizational tribes (turning crossfunctional integration into Strategic Weapon #1)
-Each of these items can be studied and can be mastered—with about as much practice as is
-required to achieve mastery in painting or molecular biology. Most of us take most of the things
-enumerated immediately above "seriously." But few of us are determined to achieve no-bull ...
-"professionalism" ... around these and like topics, which are the true bedrock of enterprise
-effectiveness.
+  - Saying "Thank you" (Mastering the Practice of Appreciation)
+  - Apologizing (Repairing frayed relationships)
+  - Listening (Hearing and Absorbing others' views)
+  - Achieving peace and prosperity among warring organizational tribes (turning crossfunctional integration into Strategic Weapon #1)
+
 1.  "Everything Passes Through Finance." (And So Should You.) While one can joke
 about finance ("Those guys have a one-word vocabulary, 'No'"), the fact is that the "finance guys"
 play a determining role in all but the tiniest projects. Face up to it—and do something about it.
