@@ -330,6 +330,7 @@ where development failure in either of two contexts would result in delivery fai
   - guides refactoring
   - focuses work on areas of the model with the most value
   - guides outsourcing, use of off-the-shelf components, and decisions about assignment.
+- [navigation map for strategic distillation map](./strategic-distillation-navigation-map.png)
 
 ## Integrating sub-modules
 
@@ -443,11 +444,14 @@ where development failure in either of two contexts would result in delivery fai
 
 ## Core Domain
 
-- to make a domain model an asset, the critical core of that model has to be sleek and fully leveraged to create application functionality.
+- to make a domain model an asset, the critical core (the real business asset) of that model has to be sleek and fully leveraged to create application functionality.
 - Boil the model down. Define a core domain and provide a means of easily distinguishing it from the mass of supporting model and code.
 - **Bring the most valuable and specialized concepts into sharp relief. Make the core small.**
-- **Spend the effort in the core to find a deep model and develop a supple design - sufficient to fulfill the system's vision.**
-- Within the Domain, the Core Domain is the actual purpose of the application, is the reason of its existence, its why we started building it in the first place.
+- **Spend the effort in the core to find a deep model and develop a supple design - sufficient to fulfill the system's vision. Justify investment in any other party by how it supports the distilled CORE**
+- **The harsh reality is that not all parts of the design are going to be equally refined. Priorities must be set. To make the domain model an asset, the model's critical core has to be sleek and fully leveraged to create application functionality. But scarce, highly skilled developers tend to gravitate to technical infrastructure or neatly definable domain problems that can be understood without specialized domain knowledge.**
+  - such parts of the system seem interesting to computer scientists, and are perceived to build transferable professional skills and provide better resume material. The specialized core, that part of the model that really differentiates the application and makes it a business asset, typically ends up being put together by less skilled developers who work with DBA(s) to create a data schema and then code feature-by-feature without drawing on any conceptual power in the model at all.
+- Within the Domain, the Core Domain (the real business asset) is the actual purpose of the application, is the reason of its existence, its why we started building it in the first place.
+- In shipping application, the CORE could be the model of how cargoes are consolidated for shipping, how liability is transferred when containers change hands, or how a particular container is routed on various transports to reach its destination.
 - The distillation and definition of the core domain is crucial and it should drive human resources hiring and allocation, as well as the biggest design effort to create a supple and maintainable design:
   - Hire developers that fit best with the Core Domain;
   - Assign the best developers to the Core Domain;
@@ -458,6 +462,10 @@ where development failure in either of two contexts would result in delivery fai
   - Create opportunities for our best technical experts to learn the Domain;
   - Assign our best, most committed, interested and long term connected developers to develop and maintain the Core Domain;
   - Use a well designed framework to save us from developing the most generic parts and leave us free to focus on the core.
+  - a well designed framework may be able to provide high-level abstractions that you can specialize for your use. It may save you from developing the more generic parts and leave you free to concentrate on your CORE, however, cautious the followings:
+    - you are losing an essential software asset. Back off restrictive frameworks in your CORE DOMAIN
+    - the area treated by the framework is not as pivotal as you thought. Redraw the boundaries of the CORE DOMAIN to the truly distinctive part of the model
+    - you don't have special needs in your CORE DOMAIN. Consider a lower-risk solution, such as purchasing software to integrate with your applications
 
 
 ## generic subdomains
@@ -478,6 +486,8 @@ where development failure in either of two contexts would result in delivery fai
 - It can be derived from a Project Vision Statement, but it is more specific, it focus on the nature of the Domain Model, its value and differential.
 - It is a document that should be used through the whole development process, helping to guide resource allocation, guide modelling choices and educate team members.
 - This will help keep the team focus on what is really important in the project and the Domain at hand.
+- [domain vision example 1](./domain-vision-example-1.png)
+- [domain vision example 2](./domain-vision-example-2.png)
 
 ## highlighted core
 - a domain vision statement identifies the core domain in broad terms, but it leaves the identification of the specific core model elements up to the vagaries of individual interpretation. Unless there is an exceptionally high level of communication on the team, the vision statement alone will have little impact.
@@ -698,14 +708,16 @@ where development failure in either of two contexts would result in delivery fai
   - [separate ways](#separate-ways)
   - [open host service](#open-host-service)
   - [published language](#published-language)
-  - How can you structure relationships between teams to get it? 341-371, (headings and bold)
-  - Whimsical, non-technical example 378-381
-  - Broad tradeoffs between context strategies Figure 14.13 (on p. 388)
+  - unifying multiple models almost always means creating a new model.
+  - By explicitly defining a context within which each model applies, you can maintain the integrity of each and clearly see the implication of any particular interface you want to create between the two.
+  - [context strategies trade-off](./decoupling_vs_simplicity.png)
 
 - **Distillation: How do you focus on your central problem and keep from drowning in a sea of side issues?**
+  - [distillation for strategic design](#distillation-for-strategic-design)
+  - [core domain](#core-domain)
   - 400-405 A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components 410-412
   - Reducing project risk by tackling the core domain early 413-414
-  - Crafting a domain vision statement 415-416
+  - [domain vision statement](#domain-vision-statement)
 
 - **Large-scale structure: How to make a sprawling system comprehensible and encourage consistency across subsystems?**
   - How to have structure without stifling development? 439-442, 444-446
