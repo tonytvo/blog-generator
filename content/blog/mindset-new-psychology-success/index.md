@@ -449,32 +449,23 @@ example:
   - Listening (Hearing and Absorbing others' views)
   - Achieving peace and prosperity among warring organizational tribes (turning crossfunctional integration into Strategic Weapon #1)
 
-1.  "Everything Passes Through Finance." (And So Should You.) While one can joke
-about finance ("Those guys have a one-word vocabulary, 'No'"), the fact is that the "finance guys"
-play a determining role in all but the tiniest projects. Face up to it—and do something about it.
-Study, make pals, seek a temp assignment in finance, whatever—the dividends will be
+- **"Everything Passes Through Finance." (And So Should You.)** While one can joke
+about finance ("Those guys have a one-word vocabulary, 'No'"), the fact is that the "finance guys" play a determining role in all but the tiniest projects. Face up to it—and do something about it. Study, make pals, seek a temp assignment in finance, whatever—the dividends will be
 stratospheric. Bottom line:
-Everything passes through Finance.
-Their business is your business.
-Stop pissing and moaning about their world.
-Invest in appreciation of their world.
-1.  What's on the Agenda? Why Don't You Decide? There are a bunch of "lousy" or
-"trivial" tasks that are neither lousy nor trivial. Agenda creator and official notetaker are perhaps
-first among equals. Using avenues like this to manipulate the power nodes within an 
-19
-organizational system can be extraordinarily useful—and can happen early in one's career. (James
-Madison to a significant degree shaped the Constitution because he was the convention's official
-scribe—is that a good enough example for you?)
-1.  We Are All in Sales. Period.
-"Everyone lives by selling something."—Robert Louis Stevenson
-A successful TV producer saw his work rejected again and again. While accidentally viewing a
-late-night advertorial on some topic such as "How to get rich in real estate," it dawned on him
-that his sales skills stunk. He turned his formidable skills to learning the sales trade—reading and
-reading, attending a dozen all-day sales seminars, etc. In relatively short order, he reports, his
-losing streak became a winning streak—and now he sits near the top of the TV-world food chain.
-The "bottom line" is or should be obvious: Literally every one of us needs to formally sharpen
+  - Everything passes through Finance.
+  - Their business is your business.
+  - Stop pissing and moaning about their world.
+  - Invest in appreciation of their world.
+
+- **What's on the Agenda? Why Don't You Decide?** There are a bunch of "lousy" or
+"trivial" tasks that are neither lousy nor trivial. Agenda creator and official notetaker are perhaps first among equals. Using avenues like this to manipulate the power nodes within an organizational system can be extraordinarily useful—and can happen early in one's career. (James Madison to a significant degree shaped the Constitution because he was the convention's official scribe—is that a good enough example for you?)
+
+- **We Are All in Sales. Period.**
+  - *"Everyone lives by selling something."—Robert Louis Stevenson*
+  - A successful TV producer saw his work rejected again and again. While accidentally viewing a late-night advertorial on some topic such as "How to get rich in real estate," it dawned on him that his sales skills stunk. He turned his formidable skills to learning the sales trade—reading and reading, attending a dozen all-day sales seminars, etc. In relatively short order, he reports, his losing streak became a winning streak—and now he sits near the top of the TV-world food chain. The "bottom line" is or should be obvious: Literally every one of us needs to formally sharpen
 our sales skills—many will end up echoing the record of my TV industry pal.
-INITIATIVE
+
+## INITIATIVE
 
 1.  Make That "Three-Minute Call"! Today! Now! Yes it is all—as in all—about
 relationships. And ever so many are off track or under-nourished—at any point in time. One very
