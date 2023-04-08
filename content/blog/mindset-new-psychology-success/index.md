@@ -519,24 +519,15 @@ overdo anything—including positive reinforcement. It's just that in 9 out of 1
 
 ## WORDS
 
-1.  "What Do You Think?" Our colleague Dave Wheeler said, in a Comment at
-tompeters.com: "The four most important words in management are ... 'What do you think?'" I
-agree! And the old engineer in me screams: Quantify! So: How many times today did you "use
-the four words"? I.e., exactly how many times did you utter: "What do you think?"
-Maybe go so far as to put this idea in the formal "values statement":
-"We obsessively ask 'What do you think?'—We understand that we rise or fall on the engagement
-and intelligence and constant contributions of 100% of us."
-1.  "Thank You"
-"The deepest human need is the need to be appreciated."—William James, premier American
-psychologist
-"You shouldn't be looking for people slipping up, you should be looking for all the good things
-people do and praising those."—Richard Branson
-There's no overestimating the power of appreciation—and yet its application is usually stingy at
-best. Hence, as in so many of these "discussions of the obvious," this is a genuine skill to be
-practiced, mastered and applied. And, again, please think about it, perhaps "Thank you" ought to
-gain a place of honor in the values statement: "We habitually express appreciation for one
-another's efforts—because we do in fact consciously appreciate everyone's 'ordinary' 'daily'
-contributions, let alone the extraordinary ones." Or words to that effect …
+- **"What Do You Think?"** Our colleague Dave Wheeler said, in a Comment at
+tompeters.com: "The four most important words in management are ... 'What do you think?'" I agree! And the old engineer in me screams: Quantify! So: How many times today did you "use the four words"? I.e., exactly how many times did you utter: "What do you think?" 
+  - Maybe go so far as to put this idea in the formal "values statement":
+  - "We obsessively ask 'What do you think?'—We understand that we rise or fall on the engagement and intelligence and constant contributions of 100% of us."
+
+- **"Thank You"**
+  - "The deepest human need is the need to be appreciated."—William James, premier American psychologist
+  - "You shouldn't be looking for people slipping up, you should be looking for all the good things people do and praising those."—Richard Branson
+  - There's no overestimating the power of appreciation—and yet its application is usually stingy at best. Hence, as in so many of these "discussions of the obvious," this is a genuine skill to be practiced, mastered and applied. And, again, please think about it, perhaps "Thank you" ought to gain a place of honor in the values statement: "We habitually express appreciation for one another's efforts—because we do in fact consciously appreciate everyone's 'ordinary' 'daily' contributions, let alone the extraordinary ones." Or words to that effect …
 
 1.  "I'm Sorry."
 Message: THIS IS A BIG DEAL. THIS IS "STRATEGIC."
