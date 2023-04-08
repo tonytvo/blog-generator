@@ -90,7 +90,7 @@ iron out difficulties by experimenting with alternative expressions, which refle
 
   - For the user, "Favorites" was a list of URLs but to the actual implementation a "Favorite" is a file that contains a URL. This meant that URL names had to follow windows file naming restrictions. So if a user saved a URL and named it "AOT: 3" they will get an error stating that file names cannot contain special characters like ":" which is very confusing.
 
-- [model exploration whirlpool](https://www.domainlanguage.com/wp-content/uploads/2016/04/DDD_Model_Exploration_Whirlpool.png)
+- ![model exploration whirlpool](https://www.domainlanguage.com/wp-content/uploads/2016/04/DDD_Model_Exploration_Whirlpool.png)
 
 - if the people who write the code do not feel responsible for the model, or don't understand how to make the model work for an application, then the model has nothing to do with the software. If developers don't realize that changing code changes the model, then their refactoring will weaken the model rather than strengthen it. Meanwhile, when a modeler is separated from the implementation process, he or she never acquires, or quickly loses, a feel for the constraints of implementation. The basic constraint of MODEL-DRIVEN-DESIGN - that the model supports an effective implementation and abstracts key domain knowledge - is half gone, and the resulting models will be impractical. Finally, the knowledge and skills of experienced designers won't be transferred to other developers if the division of labor prevents the kind of collaboration that conveys the subtleties of coding a MODEL-DRIVEN-DESIGN.
 
@@ -134,7 +134,7 @@ iron out difficulties by experimenting with alternative expressions, which refle
 ## aggregates
 - **it challenging to guarantee the consistency of changes to objects in a model with complex associations.**
 - Cluster the entities and value objects into aggregates and define boundaries around each.
-- **Choose one entity to be the root of each sum, and allow external objects to hold references to the source only (regarding internal members passed out for use within a single operation only.**
+- **Choose one entity to be the root of each sum, and allow external objects to hold references to the source only (regarding internal members passed out for use within a single operation only).**
 - define properties and invariants for the aggregate as a whole and give enforcement responsibility to the root or some designated framework mechanism
 - Use the exact aggregate boundaries to govern transactions and distribution
 within an aggregate edge, apply consistency rules synchronously. Across borders, handle updates asynchronously
@@ -161,7 +161,7 @@ keep an aggregate together on one server. Allow different sums to be distributed
 - The effects of its code must be transparently obvious, so the consequences of a change will be easy to anticipate.
 - **Making behaviour obvious**
 - **reduces the cost of change**
-- [supple design overview](./supple-design-overview.png)
+- ![supple design overview](./supple-design-overview.png)
   
 ## intention-revealing interfaces
 - **name classes and operations to describe their effect and purpose, without reference to how they do what they promise.**
@@ -204,7 +204,7 @@ To make the bounded contexts ecosystems explicitly clear, encapsulated, loosely 
 
 - **people on other teams won't be very aware of the CONTEXT bounds and will unknowingly make changes that blur the edges or complicate the interconnections. When connections must be made between different contexts, they tend to bleed into each other.**
 
-- [translator example](./translator-example-route-network.png)
+- ![translator example](./translator-example-route-network.png)
 ```java
 public Itinerary route(Specification spec){
   BookingNetworkTranslator translator = new List constraintLocations BookingNetworkTranslator();
@@ -330,7 +330,7 @@ where development failure in either of two contexts would result in delivery fai
   - guides refactoring
   - focuses work on areas of the model with the most value
   - guides outsourcing, use of off-the-shelf components, and decisions about assignment.
-- [navigation map for strategic distillation map](./strategic-distillation-navigation-map.png)
+- ![navigation map for strategic distillation map](./strategic-distillation-navigation-map.png)
 
 ## Integrating sub-modules
 
@@ -370,7 +370,7 @@ where development failure in either of two contexts would result in delivery fai
     - A Shared Kernel update must be tested and verified to satisfy all client systems to prevent regressions.
   - In the end, like most architectural decisions, the decision of how to integrate the sub-models in our global model, relies on trade-offs.
   - Here, in the extremes, we are trading off decoupled logic and management of that logic, for easier and faster integration of functionality.
-  - [decouple logic and simplicity trade off](./decoupling_vs_simplicity.png)
+  - ![decouple logic and simplicity trade off](./decoupling_vs_simplicity.png)
 
 
 ## Refactoring Bounded Contexts ecosystem
@@ -486,8 +486,8 @@ where development failure in either of two contexts would result in delivery fai
 - It can be derived from a Project Vision Statement, but it is more specific, it focus on the nature of the Domain Model, its value and differential.
 - It is a document that should be used through the whole development process, helping to guide resource allocation, guide modelling choices and educate team members.
 - This will help keep the team focus on what is really important in the project and the Domain at hand.
-- [domain vision example 1](./domain-vision-example-1.png)
-- [domain vision example 2](./domain-vision-example-2.png)
+- ![domain vision example 1](./domain-vision-example-1.png)
+- ![domain vision example 2](./domain-vision-example-2.png)
 
 ## highlighted core
 - a domain vision statement identifies the core domain in broad terms, but it leaves the identification of the specific core model elements up to the vagaries of individual interpretation. Unless there is an exceptionally high level of communication on the team, the vision statement alone will have little impact.
@@ -639,25 +639,25 @@ where development failure in either of two contexts would result in delivery fai
 
 - **What Constitutes a Useful Model-Driven Design and How to Go About Finding Such a Design?**
   - True story: How model-driven design rescued a project and created unexpected opportunities.
-    - [original modesl](./original-models.png)
+    - ![original models](./original-models.png)
     - model incrementally changed to solve problems. Loan Adjustments track departures from the share a lender originally agreed to in the Facility.
-      - [model-incrementally-changed](./incrementally-model-changed.png)
+      - ![model-incrementally-changed](./incrementally-model-changed.png)
       - refinements of this kind allowed the team to keep up as the rules of various transactions became clearer. But complexity was increasing, and we did not seem to be converging quickly onto really solid functionality.
       - deeper model
-        - [abstract-model-of-shares](./abstract-model-of-shares.png)
+        - ![abstract-model-of-shares](./abstract-model-of-shares.png)
         - The **Loan Investment** had disappeared, and at this point we realized that "loan investment" was not a banking term. In fact, the business experts had told us a number of times that they didn't understand it. They had deferred to our software knowledge and assumed it was useful to the technical design. Actually, we had created it based on our incomplete understanding of the domain.
         - suddenly, on the basis of this new way of looking at the domain, we could run through every scenario we had ever encountered relatively effortlessly, much more simply than ever before. And our model diagrams made perfect sense to the business experts, who had often indicated that the diagrams were "too technical" for them. Even just sketching on a whiteboard, we could see that our most persistent rounding problems would be pulled out by the roots, allowing us to scrap some of the complicated rounding code.
         - it takes about 3 weeks to refactor to the new model without enough tests. Luckily, the project manager can take the heat and manage through the unstable political situation.
         - **Share Pie** became the unifying theme of the whole application. Marketing people used it to explain the features to prospective customers. Those prospects and customers immediately grasped it and used it to discuss features. It truly became part of the UBIQUITOUS LANGUAGE because it got to the heart of what loan syndication is about.
         - To set the stage for a breakthrough, concentrate on knowledge crunching andn cultivating a robust UBIQUITOUS LANGUAGE. Probe for important domain concepts and make them explicit in the model. Refine the design to be suppler. Distill the model. Push on these more predictable levers, which crease clarity, usually a precursor of breakthroughs.
         - dont't hold back from modest improvements, which gradually deepen the model, even if confined within the same general conceptual framework. Don't be paralyzed by looking too far forward. Just be watchful for the opportunity.
-        - [another model breakthrough where contrains on transactions could be expressed with easy precision](./another-model-breakthrough-contrains-transactions.png)
+        - ![another model breakthrough where contrains on transactions could be expressed with easy precision](./another-model-breakthrough-contrains-transactions.png)
 
   - How software experts can work with domain experts to explore and refine models. 207-210
     - **many transformations of domain models and the corresponding code happen when developers recognize a concept that has been hinted at in discussion or present implicitly in the design, and they then represent it explicitly in the model with one or more objects or relationships.**
     - **listen to the language the domain experts use. Are there terms that succinctly state something complicated? Are they correcting your word choice (perhaps diplomatically)? do the puzzled looks on their faces go away when you use a particular phrase? These are hints of a concept that might benefit the model.**
-    - [original cargo design with database](./original-cargo-design-with-database.png)
-    - [after cargo design with routing service](./after-cargo-design-with-routing-service.png)
+    - ![original cargo design with database](./original-cargo-design-with-database.png)
+    - ![after cargo design with routing service](./after-cargo-design-with-routing-service.png)
     - benefits of refactoring to the explicit Itinerary object:
       - Defining the interface of the **routing service** more expressively
       - decoupling the **routing service** from the booking database tables
@@ -677,7 +677,7 @@ where development failure in either of two contexts would result in delivery fai
         - related rules appear in multiple objects, forcing duplication or inheritance between objects that are not otherwise family
         - a lot of design and requirements conversation revolves around the constraints, but in the implementation, they are hidden away in procedural code.
       - when the constraints are obscuring the object's basic responsibility, or when the constraint is prominent in the domain yet not prominent in the model, you can factor it out into an explicit object or even model it as a set of objects and relationships.
-    - [supple design overview](./supple-design-overview.png)
+    - ![supple design overview](./supple-design-overview.png)
     - [supple design](#supple-design)
   
   - Overview of the rhythm of domain-driven design and how it allows for upside surprise opportunities to emerge.
