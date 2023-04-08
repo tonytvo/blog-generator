@@ -715,7 +715,9 @@ where development failure in either of two contexts would result in delivery fai
 - **Distillation: How do you focus on your central problem and keep from drowning in a sea of side issues?**
   - [distillation for strategic design](#distillation-for-strategic-design)
   - [core domain](#core-domain)
-  - 400-405 A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components 410-412
+  - A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components 410-412
+    - [tale of 2 timezone trade off](./tale-of-2-time-zone.png)
+    - we technical people tend to enjoy definable problem like timezone conversion, and we can easily justify spending our time on them, but disciplined look at priorities usually point to the CORE DOMAIN 
   - Reducing project risk by tackling the core domain early 413-414
   - [domain vision statement](#domain-vision-statement)
 
