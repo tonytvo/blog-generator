@@ -709,7 +709,7 @@ where development failure in either of two contexts would result in delivery fai
     - these 3 principles, useful separately but particularly powerful taken together, help to produce good designs, even in a sprawling system that no one completely understands. Large scale structure brings consistency to disparate parts to help those parts mesh. Structure and distillation make the complex relationships between parts comprehensible while keeping the big picture in iew. BOUNDED CONTEXTS allow work to proceed in different parts without corrupting the model or unintentionally fragmenting it. Adding these concepts to the team's UBIQUITOUS LANGUAGE helps developers work out their own solutions.
 
 - **Bounded Context: Strategies for dealing with the inevitability of multiple viewpoints and conflicting needs.**
-  - [model integrity patterns](./model-integrity-patterns.png)
+  - ![model integrity patterns](./model-integrity-patterns.png)
   - [bounded context](#bounded-context)
   - [continuous integration](#continuous-integration)
   - [context map](#shared-kernel)
@@ -721,13 +721,13 @@ where development failure in either of two contexts would result in delivery fai
   - [published language](#published-language)
   - unifying multiple models almost always means creating a new model.
   - By explicitly defining a context within which each model applies, you can maintain the integrity of each and clearly see the implication of any particular interface you want to create between the two.
-  - [context strategies trade-off](./decoupling_vs_simplicity.png)
+  - ![context strategies trade-off](./decoupling_vs_simplicity.png)
 
 - **Distillation: How do you focus on your central problem and keep from drowning in a sea of side issues?**
   - [distillation for strategic design](#distillation-for-strategic-design)
   - [core domain](#core-domain)
   - A Tale of Two Time Zones: A right way and a wrong way to deploy your people to tackle essential supporting components
-    - [tale of 2 timezone trade off](./tale-of-2-time-zone.png)
+    - ![tale of 2 timezone trade off](./tale-of-2-time-zone.png)
     - we technical people tend to enjoy definable problem like timezone conversion, and we can easily justify spending our time on them, but disciplined look at priorities usually point to the CORE DOMAIN 
   - Reducing project risk by tackling the core domain early 413-414
     - **generic doesn't mean reusable**
