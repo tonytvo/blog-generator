@@ -529,36 +529,28 @@ tompeters.com: "The four most important words in management are ... 'What do you
   - "You shouldn't be looking for people slipping up, you should be looking for all the good things people do and praising those."—Richard Branson
   - There's no overestimating the power of appreciation—and yet its application is usually stingy at best. Hence, as in so many of these "discussions of the obvious," this is a genuine skill to be practiced, mastered and applied. And, again, please think about it, perhaps "Thank you" ought to gain a place of honor in the values statement: "We habitually express appreciation for one another's efforts—because we do in fact consciously appreciate everyone's 'ordinary' 'daily' contributions, let alone the extraordinary ones." Or words to that effect …
 
-1.  "I'm Sorry."
-Message: THIS IS A BIG DEAL. THIS IS "STRATEGIC."
-"I regard apologizing as the most magical, healing, restorative gesture human beings can make.
-It is the centerpiece of my work with executives who want to get better."—Marshall Goldsmith,
-What Got You Here Won't Get You There: How Successful People Become Even More Successful
-(Goldsmith is perhaps the world's most prominent executive coach.)
-23
-Repeat: "centerpiece of my work with executives who want to get better."
-Like Goldsmith, I believe that a genuine apology (and there's a lot to write, which space here does
-not permit, about "genuine") is of the utmost personal and strategic importance—and, indeed,
-worthy of using the label "magical."
-As I have become convinced of the power (personal, professional, magical) of apology, I have
-actually accumulated a small library of books on the topic—yes, there is such a library available
-on apology per se. One is left with an encompassing sense of the extraordinary power of the ...
-Art of Apology ... rightfully considered. I believe we are talking about, in practical business
-terms, a ... "matchless strategic lever." In the arsenal of what really matters when it comes to
-getting things done/execution/ implementation, there are few—if any—"power tools" that have
-the heft of:
-"I apologize."
-"I'm sorry."
-"I'm to blame."
-"Simply put, I screwed up."
-"I bear full responsibility for this f***-up."
-"I blew it. Period."
-Bonus: Often as not, an Effective Apology is far more than a "bullet dodged." That is, not only is
-a problem cleared up, but also the cock-up brilliantly and overwhelmingly and unequivocally
-atoned for solidifies a relationship—and carries it forward.
-1.  Words of Truth—from a Fiction Writer
-"Why not just tell the truth?"—Raymond Carver, premier American short-story writer
-NETWORKING
+- **"I'm Sorry."**
+  - Message: THIS IS A BIG DEAL. THIS IS "STRATEGIC."
+  - "I regard apologizing as the most magical, healing, restorative gesture human beings can make. It is the centerpiece of my work with executives who want to get better."—Marshall Goldsmith, What Got You Here Won't Get You There: How Successful People Become Even More Successful (Goldsmith is perhaps the world's most prominent executive coach.)
+
+  - Repeat: "centerpiece of my work with executives who want to get better."
+  - Like Goldsmith, I believe that a genuine apology (and there's a lot to write, which space here does not permit, about "genuine") is of the utmost personal and strategic importance—and, indeed, worthy of using the label "magical."
+  
+  - As I have become convinced of the power (personal, professional, magical) of apology, I have actually accumulated a small library of books on the topic—yes, there is such a library available on apology per se. One is left with an encompassing sense of the extraordinary power of the ... Art of Apology ... rightfully considered. I believe we are talking about, in practical business terms, a ... "matchless strategic lever." In the arsenal of what really matters when it comes to getting things done/execution/ implementation, there are few—if any—"power tools" that have the heft of:
+    - "I apologize."
+    - "I'm sorry."
+    - "I'm to blame."
+    - "Simply put, I screwed up."
+    - "I bear full responsibility for this f***-up."
+    - "I blew it. Period."
+  - Bonus: Often as not, an Effective Apology is far more than a "bullet dodged." That is, not only is a problem cleared up, but also the cock-up brilliantly and overwhelmingly and unequivocally atoned for solidifies a relationship—and carries it forward.
+
+- **Words of Truth—from a Fiction Writer**
+
+  - "Why not just tell the truth?"—Raymond Carver, premier American short-story writer
+
+## NETWORKING
+
 1.  One Line of Code: The Shortest Distance Between "Critic" and "Champion"
 "They" say that complex software implementations fall short of promised effectiveness almost all
 the time. "They" add that the problem is rarely the software; it's almost always less-thanenthusiastic down-the-line users.
