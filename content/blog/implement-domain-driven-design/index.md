@@ -536,11 +536,22 @@ where development failure in either of two contexts would result in delivery fai
 - Place this abstract model in its own module, while the specialized, detailed implementation classes are left in their own modules defined by the subdomain.
 
 # large scale structure for strategic design
+
+- *layers would outline their story of the system*
+
+- in a large system without any overarching principle that allows to be interpreted in terms of their role in patterns that span the whole design, developers cannot see the forest for the trees.
+
 - A "large-scale structure" is a language that lets you discuss and understand the system in broad strokes. A set of high-level concepts or rules, or both, establishes a pattern of design for an entire system.
+
 - **Devise a pattern of rules or roles and relationships that will span the entire system and allow some understanding of each part's place in the whole-even without detailed knowledge of the part's responsibility.**
+
+- [some patterns of large scale structure](./some-patterns-large-scale-structure.png)
+
 ## evolving order
+
 - Architectures can straitjacket a project with up-front design assumptions and take too much power away from the developers/designers of particular application parts. Soon, developers/designers of specific details of the applications will dumb down the application to fit the structure, or they will subvert it and have no structure, bringing back the problems of uncoordinated development.
 - Let this large-scale conceptual structure evolve with the application, possibly changing to a completely different type of structure along the way. Don't constraint the detailed design and model decisions that must be made with thorough knowledge.
+- unlike the CONTEXT MAP, a large-scale structure is optional. One should be imposed when costs and benefits favor it, and when a fitting structure is found.
 - The large-scale structure should be applied when a structure can be found that dramatically clarifies the system without forcing unnatural constraints on model development. Because an ill-fitting structure is worse than none, it is best not to shoot for comprehensiveness but rather to find a minimal set that solves the emerging problem. Less is more.
 
 ## system metaphor
@@ -734,7 +745,8 @@ where development failure in either of two contexts would result in delivery fai
   - [domain vision statement](#domain-vision-statement)
 
 - **Large-scale structure: How to make a sprawling system comprehensible and encourage consistency across subsystems?**
-  - How to have structure without stifling development? 439-442, 444-446
+  - [large scale structure for strategic design](#large-scale-structure-for-strategic-design)
+  - [evolving order](#evolving-order)
   - Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt 478(bottom)-479
   - Putting the pieces together to develop a design strategy 490-497
   - Tracking five real domain-driven design projects and their long-term outcomes. 500-505
@@ -748,8 +760,7 @@ where development failure in either of two contexts would result in delivery fai
 - **How to apply modeling in a multi-team environment?**
 
 - **How to focus design effort on high-value areas and avoid over-investing elsewhere?**
-  
-- **Knowledge crunching: How a team can accumulate, distill and apply domain knowledge to software development?**
+
 
 - 
 # Exercises
