@@ -487,77 +487,38 @@ the most powerful man in sports) once condoned and even certified one of my own 
 
 ## LEADERSHIP
 
-1.  To Lead Is to Help Others Succeed.
-"The role of the director is to create a space where the actors and actresses can become more
-than they've ever been before, more than they've dreamed of being."—Robert Altman, Oscar
-acceptance speech
-"No matter what the situation, the great manager's first response is always to think about the
-individual concerned and how things can be arranged to help that individual experience
-success."—Marcus Buckingham, The One Thing You Need to Know
-The "business" of leaders at all levels is to help those in their charge develop beyond their
-dreams—which in turn almost automatically leads to "all that other stuff," such as happy
-customers, happy stockholders, happy communities.
-To start the ball rolling, change every performance review into a two-part process, the first in
-which there is a rigorous evaluation of the employee—and the second of which is a rigorous
-review of your own efforts to help that employee forward.
-1.  At Their Service. Leadership is a "service business." Robert Greenleaf gave us the concept
-of "servant leadership"—it's one of those "pretty much all you need to know" ideas. My take:
- (1) Organizations exist to serve. Period.
- (2) Leaders exist to serve their people. Period.
- (3) A team well-served by its leader will be inclined to pursue Excellence.
-21
-Use the word "Serve." (That's what you do.)
-Use the word "Service." (That's what you provide.)
-Use the word "Servant." (That's what you are.)
-The unadorned word "service" is beauty encapsulated.
-1.  Have You "Hosted" Any Good Employees Lately? Consider the leader's primary job to
+- **To Lead Is to Help Others Succeed.**
+  - "The role of the director is to create a space where the actors and actresses can become more than they've ever been before, more than they've dreamed of being."—Robert Altman, Oscar acceptance speech
+  - "No matter what the situation, the great manager's first response is always to think about the individual concerned and how things can be arranged to help that individual experience success."—Marcus Buckingham, The One Thing You Need to Know The "business" of leaders at all levels is to help those in their charge develop beyond their dreams—which in turn almost automatically leads to "all that other stuff," such as happy customers, happy stockholders, happy communities.
+  - To start the ball rolling, change every performance review into a two-part process, the first in which there is a rigorous evaluation of the employee—and the second of which is a rigorous review of your own efforts to help that employee forward.
+
+- **At Their Service**. Leadership is a "service business." Robert Greenleaf gave us the concept of "servant leadership"—it's one of those "pretty much all you need to know" ideas. My take:
+  - (1) Organizations exist to serve. Period.
+  - (2) Leaders exist to serve their people. Period.
+  - (3) A team well-served by its leader will be inclined to pursue Excellence.
+  - Use the word "Serve." (That's what you do.)
+  - Use the word "Service." (That's what you provide.)
+  - Use the word "Servant." (That's what you are.)
+  - The unadorned word "service" is beauty encapsulated.
+
+- **Have You "Hosted" Any Good Employees Lately?** Consider the leader's primary job to
 be a host to her or his employees. That's the way Jan Gunnarsson and Olle Blohm put it in
-Hostmanship: The Art of Making People Feel Welcome.
-Gunnarsson and Blohm based this universal (as they—and I—see it) idea on their experience
-owning/running a hotel. Here's the core idea:
-"We went through the hotel and made a ... 'consideration renovation.' Instead of redoing
-bathrooms, dining rooms, and guest rooms, we gave employees new uniforms, bought flowers and
-fruit, and changed colors. Our focus was totally on the staff. They were the ones we wanted to
-make happy. We wanted them to wake up every morning excited about a new day at work."
-"The path to a hostmanship culture paradoxically does not go through the guest. In fact it
-wouldn't be totally wrong to say that the guest has nothing to do with it. True hostmanship
-leaders focus on their employees. What drives exceptionalism is finding the right people and
-getting them to love their work and see it as a passion. ... The guest comes into the picture only
-when you are ready to ask, 'Would you prefer to stay at a hotel where the staff love their work or
-where management has made customers its highest priority?'"
-Your call, but I'd call it "putting first things first"—and it applies as much in the 7-person
-purchasing department as in the retail establishment.
-1.  A Sacred Trust. As I see it, anyone who takes on any leadership job, minor or major,
-assumes no less than a ... Sacred Trust. I know that's extreme language. But I stand by it. This
-sacred trust is all about what organizations are all about: the professional (and, to some extent,
-personal) development of people. Sure, the boss's job is to "get the job done," and done
-effectively. But "boss-hood" primarily entails an abiding responsibility for the people under your
-charge. (It's circular, of course: Turned-on people do turned-on work. Q.E.D.)
-Consider this as the translation of "sacred trust" into a plank in your core-values statement: "We
-are committed to the measurable growth of each and every member of our staff. We aspire to
-have every staff member say, of their stay here, 'That was a remarkable period of my
-development.'"
-1.  Rat Psych Rules! Or: Deploying Positive Reinforcement's Incredible Potency. You can
-overdo anything—including positive reinforcement. It's just that in 9 out of 10 cases (more like
-99 in 100) we "underdo" positive reinforcement—and usually overdo negative reinforcement. I,
-like Mark Twain, "can live for months on a compliment" or a small act of encouragement. This is
-one powerful tool!
-Consider the following, drawn from the recent book Barack, Inc.: Winning Business Lessons from
-the Obama Campaign, by Rick Faulk and Barry Libert:
-22
-"[Retired United States Navy] Captain Mike Abrashoff knows the importance of saying 'thank
-you.' In his first book, It's Your Ship, he relates how he sent letters to the parents of his crew
-members on the guided-missile destroyer USS Benfold ... Putting himself in those parents' shoes,
-he imagined how happy they would be to hear from the Commanding Officer that their sons and
-daughters were doing well. And he figured that those parents would, in turn, call their children to
-tell them how proud they were of them.
-"Abrashoff debated whether to send a letter to the parents of one young man who wasn't really
-star material. Weighing the sailor's progress, he decided to go ahead. A couple of weeks later, the
-sailor appeared at his door, tears streaming down his face. It seems the kid's father had always
-considered him a failure and told him so. After reading the captain's letter, he called to
-congratulate his son and tell him how proud he was of him. 'Captain, I can't thank you enough,'
-said the young man. For the first time in his life, he felt loved and encouraged by his father."
-WORDS
+Hostmanship: The Art of Making People Feel Welcome. Gunnarsson and Blohm based this universal (as they—and I—see it) idea on their experience owning/running a hotel. Here's the core idea:
+  - "We went through the hotel and made a ... 'consideration renovation.' Instead of redoing bathrooms, dining rooms, and guest rooms, we gave employees new uniforms, bought flowers and fruit, and changed colors. Our focus was totally on the staff. They were the ones we wanted to make happy. We wanted them to wake up every morning excited about a new day at work."
+  - "The path to a hostmanship culture paradoxically does not go through the guest. In fact it wouldn't be totally wrong to say that the guest has nothing to do with it. True hostmanship leaders focus on their employees. What drives exceptionalism is finding the right people and getting them to love their work and see it as a passion. ... The guest comes into the picture only when you are ready to ask, 'Would you prefer to stay at a hotel where the staff love their work or where management has made customers its highest priority?'"
+  - Your call, but I'd call it "putting first things first"—and it applies as much in the 7-person purchasing department as in the retail establishment.
+
+- **A Sacred Trust**. As I see it, anyone who takes on any leadership job, minor or major, assumes no less than a ... Sacred Trust. I know that's extreme language. But I stand by it. This sacred trust is all about what organizations are all about: the professional (and, to some extent, personal) development of people. Sure, the boss's job is to "get the job done," and done effectively. But "boss-hood" primarily entails an abiding responsibility for the people under your charge. (It's circular, of course: Turned-on people do turned-on work. Q.E.D.)
+  - Consider this as the translation of "sacred trust" into a plank in your core-values statement: "We are committed to the measurable growth of each and every member of our staff. We aspire to have every staff member say, of their stay here, 'That was a remarkable period of my development.'"
+
+- **Rat Psych Rules! Or: Deploying Positive Reinforcement's Incredible Potency.** You can
+overdo anything—including positive reinforcement. It's just that in 9 out of 10 cases (more like 99 in 100) we "underdo" positive reinforcement—and usually overdo negative reinforcement. I, like Mark Twain, "can live for months on a compliment" or a small act of encouragement. This is one powerful tool!
+  - Consider the following, drawn from the recent book Barack, Inc.: Winning Business Lessons from the Obama Campaign, by Rick Faulk and Barry Libert:
+  - "[Retired United States Navy] Captain Mike Abrashoff knows the importance of saying 'thank you.' In his first book, It's Your Ship, he relates how he sent letters to the parents of his crew members on the guided-missile destroyer USS Benfold ... Putting himself in those parents' shoes, he imagined how happy they would be to hear from the Commanding Officer that their sons and daughters were doing well. And he figured that those parents would, in turn, call their children to tell them how proud they were of them.
+  - "Abrashoff debated whether to send a letter to the parents of one young man who wasn't really star material. Weighing the sailor's progress, he decided to go ahead. A couple of weeks later, the sailor appeared at his door, tears streaming down his face. It seems the kid's father had always considered him a failure and told him so. After reading the captain's letter, he called to congratulate his son and tell him how proud he was of him. 'Captain, I can't thank you enough,' said the young man. For the first time in his life, he felt loved and encouraged by his father."
+
+## WORDS
+
 1.  "What Do You Think?" Our colleague Dave Wheeler said, in a Comment at
 tompeters.com: "The four most important words in management are ... 'What do you think?'" I
 agree! And the old engineer in me screams: Quantify! So: How many times today did you "use
