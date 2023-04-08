@@ -576,6 +576,48 @@ where development failure in either of two contexts would result in delivery fai
 - a pluggable component framework usually only comes into play after a few applications have already been implemented in the same domain.
 - Distill an abstract core of interfaces and interactions and create a framework that allows diverse implementations of those interfaces to be freely substituted. Likewise, it will enable any application to use those components, so long as it operates strictly through the interfaces of the abstract core.
 
+
+# Project assessment
+- Draw a context map. Can you draw consistent one, or are there ambiguous situations?
+- Establish or refine the Ubiquitous Language. is it rich enough to help development?
+- is the CORE DOMAIN identified? is there a DOMAIN VISION STATEMENT? Can you write one?
+- Is the technology of the project work for or against a MODEL DRIVEN DESIGN?
+- Assess the team developers skills to match them to the project complexity
+- Are the developers knowledgeable about the domain? Are they interested in the domain?
+
+# Who sets the strategy?
+
+- **Ivory tower architect**
+  - This is an organizational style that has an architect which analyses the project at hand and determines the strategy before the project starts to be developed. This fits with the waterfall project management style but goes against the DDD approach, based in an Agile methodology and evolving architecture.
+
+- **Emergent structure from application development**
+
+  - Typically, in a team doing Extreme Programming, the architectural structure emerges from the development process itself. However, the global design may become inconsistent. In order to keep the global architecture design consistent, it is a good practise to have a strategic design leadership (also hands-on developer), as a role played by one or several of the team developers.
+
+- **Customer focused architecture team**
+  - This is a team of architects who is there to serve, to help the development teams by collaborating, experimenting, distillating the domain with the developers.
+  - Eric Evans gives us 6 guidelines for this collaboration:
+    - **Decisions must reach the entire team**
+      - This can achieved by having an architecture team with official authority to formalize rules, or it can be achieved by having the strategy come out of the application development team;
+    - **The decision process must absorb feedback**
+      - The architecture decision makers need to receive, accept and respond to the development team feedback. This can be achieved through collaboration, and it is a good practise to rotate the architects through the development teams;
+    - **The plan must allow evolution**
+      - It’s good to have some higher level design rules, but we must be flexible and allow them to change/evolve as needed.
+      - EVOLVING ORDER emphasize ongoing change to the large-scale structure in response to deepening insight.
+    - **Architecture teams must not absorb all good designers**
+      - It is essential to have good designers in all application teams:
+        - In the architecture teams, so that a good design is created
+        - In the development teams, so that the design is properly implemented
+      - It is essential to have domain knowledge in all application teams:
+        - In the Architecture teams so that the design created matches the domain
+        - In the development teams so that the domain is well reflected in the implementation
+  - **Strategic design requires minimalism and humility**
+      - We need to not get carried away when creating an architectural design. Over engineering a system will in fact bring more problems than solutions. We need to keep it simple and be humble when our great design idea is found to be, in fact, counter productive.
+  - Objects are specialists, developers are generalists
+  - Developers, in the other hand, should be application generalists, with knowledge about architecture, development and domain.
+  - beware of technical frameworks that interfere with expressive implementation of the domain model and easy change
+  - Alexander and his colleagues advocated for a set of principles for all community members to apply to every act of piecemeal growth, so that "organic" order emerges, well adapted to circumstances.
+
 # DDD with legacy code
 - [DDD with legacy code](/ddd-with-legacy-code)
 
@@ -653,7 +695,7 @@ where development failure in either of two contexts would result in delivery fai
         - dont't hold back from modest improvements, which gradually deepen the model, even if confined within the same general conceptual framework. Don't be paralyzed by looking too far forward. Just be watchful for the opportunity.
         - ![another model breakthrough where contrains on transactions could be expressed with easy precision](./another-model-breakthrough-contrains-transactions.png)
 
-  - How software experts can work with domain experts to explore and refine models. 207-210
+  - How software experts can work with domain experts to explore and refine models.
     - **many transformations of domain models and the corresponding code happen when developers recognize a concept that has been hinted at in discussion or present implicitly in the design, and they then represent it explicitly in the model with one or more objects or relationships.**
     - **listen to the language the domain experts use. Are there terms that succinctly state something complicated? Are they correcting your word choice (perhaps diplomatically)? do the puzzled looks on their faces go away when you use a particular phrase? These are hints of a concept that might benefit the model.**
     - ![original cargo design with database](./original-cargo-design-with-database.png)
@@ -748,7 +790,7 @@ where development failure in either of two contexts would result in delivery fai
   - [large scale structure for strategic design](#large-scale-structure-for-strategic-design)
   - [evolving order](#evolving-order)
   - Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt 478(bottom)-479
-  - Putting the pieces together to develop a design strategy 490-497
+  - [who sets the strategy](#who-sets-the-strategy)
   - Tracking five real domain-driven design projects and their long-term outcomes. 500-505
 
 - **How to avoid common pitfalls of modeling in software development?**
@@ -858,6 +900,11 @@ Creating distinctive software comes back to a stable team accumulating specializ
 Generic Subdomains reduce the clutter in the Core Domain, leaving it focused on what is more important.
 
 Cohesive Mechanisms are used to encapsulate complex operations used by the Domain.
+
+Realizing that your best idea is likely to get in somebody’s way takes humility
+
+The essence of good object design is to give each object a clear and narrow responsibility and to reduce interdependency to an absolute minimum
+
 
 **still under constructions**
 **Next Steps:**
