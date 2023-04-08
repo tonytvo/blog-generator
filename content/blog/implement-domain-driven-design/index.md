@@ -789,9 +789,14 @@ where development failure in either of two contexts would result in delivery fai
 - **Large-scale structure: How to make a sprawling system comprehensible and encourage consistency across subsystems?**
   - [large scale structure for strategic design](#large-scale-structure-for-strategic-design)
   - [evolving order](#evolving-order)
-  - Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt 478(bottom)-479
+  - Several specific techniques for large-scale structure are discussed, but are skipped in this tour. Non-technical example of how a large-scale structure allowed thousands of people to contribute to the AIDS Memorial Quilt
+    - few simple rules provide large-scale structure for the AIDS Memorial Quilt, leaving the details to individual contributor. Notice how the rules focus on the overall mission (memorizing people who have died of AIDS), the features of the component that make integration practical, and the ability to handle the quilt in larger sections.
   - [who sets the strategy](#who-sets-the-strategy)
-  - Tracking five real domain-driven design projects and their long-term outcomes. 500-505
+  - Tracking five real domain-driven design projects and their long-term outcomes.
+    - PCB design software
+    - loan software
+    - shipping examples
+    - Evant
 
 - **How to avoid common pitfalls of modeling in software development?**
 
