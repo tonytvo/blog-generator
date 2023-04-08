@@ -545,7 +545,7 @@ where development failure in either of two contexts would result in delivery fai
 
 - **Devise a pattern of rules or roles and relationships that will span the entire system and allow some understanding of each part's place in the whole-even without detailed knowledge of the part's responsibility.**
 
-- [some patterns of large scale structure](./some-patterns-large-scale-structure.png)
+- ![some patterns of large scale structure](./some-patterns-large-scale-structure.png)
 
 ## evolving order
 
@@ -669,7 +669,7 @@ where development failure in either of two contexts would result in delivery fai
       - the place to dig is the most awkward part of your design. The place where procedures are doing complicated things that are hard to explain. The place where every new requirements seems to add complexity
       - If you are lucky, the domain experts may enjoy playing with ideas and experimenting with the model. If you are not that lucky, you and your fellow developers will have to come up with the ideas, using the domain expert as a validator, watching for discomfort or recognition on this or her face.
   
-  - Supple Design: How a system can become easier to extend and adapt rather than ossifying into legacy 243-245
+  - Supple Design: How a system can become easier to extend and adapt rather than ossifying into legacy?
     - **explicit constraints**
       - factoring constraint into its own method allows us to give it an intention-revealing name that makes the constraint explicit in our design.
       - here's some warning signs that a constraint is distorting the design of its host object.
