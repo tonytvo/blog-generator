@@ -561,14 +561,9 @@ line of code … which deals with ... one ... of Erik's issues.
   - Nine out of 10 of Erik's issues are still not addressed ...but ... you changed ... SOMETHING ... DIRECTLY ... BECAUSE OF ERIK!
   - In 4.2 out of 5 cases, Erik flips from thorn in your side to fellow champion! Suddenly the whole damn thing is "Erik's project"! In Erik's mind, the whole thing would have collapsed without his precious, save-your-ass input!
 
-- **"Suck Down" for Success.** Forget "sucking up"—it's a low-odds strategy. If you are willing to invest the time, and it takes time, "sucking down" is a high-odds affair—to paraphrase
-the immortal robber Willy Sutton on why he chose to knock off banks, "It's where the money is." (Oh is it ever!) In addition to the plain fact that "down there" is where the real work is done,
-indirectly, where the deal is effectively done, the folks a couple of levels "down" ["down" always in quotes—"'down' is the real 'up'" is the anthem here] are typically bowled over by your time and
-attention—we all crave being taken seriously. Hence, the next thing you know (after a lot of work) you've got a network to die for in the bowels of the customer organization working for
-you—and it's a network, typically, with staying power; there's not so much volatility "down there."
-  - As always, the point is not "catch as catch can" or "a good idea." It's about a well thought-out scheme, in fact, no less than a "way of life"—a measured, systematic effort to penetrate the ranks
-of a client organization and develop a set of relationships with the real deal makers! (Hint: As in so many implementation issues, women are instinctively better at this than men.)
-(NB: Alternate formulation to "Suck down for success": "Success does not depend on 'the people you know in high places'—it depends on 'the people you know in low places.'")
+- **"Suck Down" for Success.** Forget "sucking up"—it's a low-odds strategy. If you are willing to invest the time, and it takes time, "sucking down" is a high-odds affair—to paraphrase the immortal robber Willy Sutton on why he chose to knock off banks, "It's where the money is." (Oh is it ever!) In addition to the plain fact that "down there" is where the real work is done, indirectly, where the deal is effectively done, the folks a couple of levels "down" ["down" always in quotes—"'down' is the real 'up'" is the anthem here] are typically bowled over by your time and attention—we all crave being taken seriously. Hence, the next thing you know (after a lot of work) you've got a network to die for in the bowels of the customer organization working for you—and it's a network, typically, with staying power; there's not so much volatility "down there."
+  - As always, the point is not "catch as catch can" or "a good idea." It's about a well thought-out scheme, in fact, no less than a "way of life"—a measured, systematic effort to penetrate the ranks of a client organization and develop a set of relationships with the real deal makers! (Hint: As in so many implementation issues, women are instinctively better at this than men.)
+  - (NB: Alternate formulation to "Suck down for success": "Success does not depend on 'the people you know in high places'—it depends on 'the people you know in low places.'")
 
 - **Formula for Success: C(I) > C(E).** I've long argued that the set of relationships inside your own company is almost as important as the relationships with external bill-paying
 customers. While it may not be a universal truth, it struck me as I talked to a GE group that sold big international projects that in many cases our Internal Customers/"C(I)" are in more important
@@ -632,21 +627,11 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
   - When we arrived in town from Vermont, we were therefore nonplussed to find a message from Joan, saying, "I'll be arriving at 7." We obviously asked her why she'd changed her mind.
   - "I decided to say 'Yes.'" She recalled a friend who'd had a vigorous life into her 90s. "She said she had three 'secrets': First, surround yourself with good books on any and every topic. Second,  spend time with people of all ages. And third, say 'Yes.'" She added that indeed she had not intended to drive down from Connecticut. But she remembered her friend and determinedly decided to say … "Yes."
 
-1.  For the Sheer Glorious 24/7 Fun of It! Richard Branson's idea of fun is going head to
-head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his
-wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by
-a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip
-alternative." Branson is his brand, he enjoys nutty stunts that personify the brand's "hipness."
-I'm not Branson by a long, long shot; but I understand the guiding impulse. The only reason that I
-take on new stuff, and keep accumulating frequent flyer miles, has long been the unadulterated
-pleasure I get from always marching "the other way"—and in particular storming after those I
-think have let us down—from numbers-obsessed execs to the healthcare industry's lack of rigor
-as measured by hundreds of thousands of preventable annual deaths in the U.S. alone.
-My advice?
-This is strategic: As boss, do your darnedest to "make it fun," "make it a ride to remember,"
-"make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like
-Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
-NO
+- **For the Sheer Glorious 24/7 Fun of It!** Richard Branson's idea of fun is going head to head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip alternative." Branson is his brand, he enjoys nutty stunts that personify the brand's "hipness."
+  - I'm not Branson by a long, long shot; but I understand the guiding impulse. The only reason that I take on new stuff, and keep accumulating frequent flyer miles, has long been the unadulterated pleasure I get from always marching "the other way"—and in particular storming after those I think have let us down—from numbers-obsessed execs to the healthcare industry's lack of rigor as measured by hundreds of thousands of preventable annual deaths in the U.S. alone.
+  - *This is strategic:* As boss, do your darnedest to "make it fun," "make it a ride to remember," "make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
+
+## NO
 1.  "To Don'ts" Are More Important Than "To-Dos" My friend Dennis is a prominent
 educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll
 out his program across the country. Suddenly, he was required to turn his innovative ideas into a
