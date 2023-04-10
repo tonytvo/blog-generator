@@ -632,23 +632,13 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
   - *This is strategic:* As boss, do your darnedest to "make it fun," "make it a ride to remember," "make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
 
 ## NO
-1.  "To Don'ts" Are More Important Than "To-Dos" My friend Dennis is a prominent
-educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll
-out his program across the country. Suddenly, he was required to turn his innovative ideas into a
-system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10
-ideas a minute—moreover, all 10 are usually good ideas. And so his talented staff ran around
-madly working on exciting this or exciting that. But now he had that "low variation" system to
-run—and things promised to be different. I attended a meeting of his advisory Committee at a
-critical moment. The Chairman had been CEO of an enormous firm. I will always remember a
-single line that emerged from the fellow's mouth:
-"Dennis, you need a 'to-don't' list."
-In simple language: What you decide not to do is probably more important that what you decide
-to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold
-standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding
-board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the
-woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be
-spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
-1.  Some Things Worth Doing Are Worth Doing Not Particularly Well. The reminder
+
+- **"To Don'ts" Are More Important Than "To-Dos"** My friend Dennis is a prominent
+educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll out his program across the country. Suddenly, he was required to turn his innovative ideas into a system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10 ideas a minute—moreover, all 10 are usually good ideas. And so his talented staff ran around madly working on exciting this or exciting that. But now he had that "low variation" system to run—and things promised to be different. I attended a meeting of his advisory Committee at a critical moment. The Chairman had been CEO of an enormous firm. I will always remember a single line that emerged from the fellow's mouth:
+  - *"Dennis, you need a 'to-don't' list."*
+- In simple language: What you decide not to do is probably more important that what you decide to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
+
+- Some Things Worth Doing Are Worth Doing Not Particularly Well. The reminder
 came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I
 cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I
 went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at 
