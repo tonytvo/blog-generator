@@ -638,31 +638,24 @@ educator. A few years ago he received a huge $$$ grant—and he was given the op
   - *"Dennis, you need a 'to-don't' list."*
 - In simple language: What you decide not to do is probably more important that what you decide to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
 
-- Some Things Worth Doing Are Worth Doing Not Particularly Well. The reminder
-came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I
-cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I
-went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at 
-28
-myself. The pan was sanitary and "clean enough," plus I really didn't need to treat the effort like a
-speech to Fortune 50 CEOs.
+- **Some Things Worth Doing Are Worth Doing Not Particularly Well.** The reminder
+came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at myself. The pan was sanitary and "clean enough," plus I really didn't need to treat the effort like a speech to Fortune 50 CEOs.
 The micro-event (I did stop) reminded me of the Greater Truth. In a world (personal,
-professional) of limited resources (time, in this instance, time in most instances) and priorities of
-the utmost importance (to you and me at any rate), there's a lot of "stuff" that must be done—but
-for which "good enough" is in fact good enough. For some of us making the distinction is easier
-said than done—and the cost for not figuring out the difference is high.
+professional) of limited resources (time, in this instance, time in most instances) and priorities of the utmost importance (to you and me at any rate), there's a lot of "stuff" that must be done—but for which "good enough" is in fact good enough. For some of us making the distinction is easier said than done—and the cost for not figuring out the difference is high.
 
-CUSTOMERS
-72. It's 11 A.M.—Have You Called a Customer Today?
-Stop.
-Now.
-Call a Customer.
-Out of the Blue.
-"How can I help?"
-"Have we delivered on every promise, implicit as well as explicit?"
-Listen and take copious notes.
-Follow-up instantly on at least one "little" thing.
-Repeat. 48-hours hence.
-Hint: This applies to 100% of us.
+## CUSTOMERS
+
+- **It's 11 A.M.—Have You Called a Customer Today?**
+
+- Call a Customer.
+- Out of the Blue.
+- "How can I help?"
+- "Have we delivered on every promise, implicit as well as explicit?"
+- Listen and take copious notes.
+- Follow-up instantly on at least one "little" thing.
+- Repeat. 48-hours hence.
+- Hint: This applies to 100% of us.
+
 73. There's Nothing But Nothing Cooler Than an Angry Customer!
 "The problem is almost never the problem. The problem is invariably the response to the
 problem."—anon.
