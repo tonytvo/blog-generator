@@ -647,34 +647,28 @@ professional) of limited resources (time, in this instance, time in most instanc
 
 - **It's 11 A.M.—Have You Called a Customer Today?**
 
-- Call a Customer.
-- Out of the Blue.
-- "How can I help?"
-- "Have we delivered on every promise, implicit as well as explicit?"
-- Listen and take copious notes.
-- Follow-up instantly on at least one "little" thing.
-- Repeat. 48-hours hence.
-- Hint: This applies to 100% of us.
+  - Call a Customer.
+  - Out of the Blue.
+  - "How can I help?"
+  - "Have we delivered on every promise, implicit as well as explicit?"
+  - Listen and take copious notes.
+  - Follow-up instantly on at least one "little" thing.
+  - Repeat. 48-hours hence.
+  - Hint: This applies to 100% of us.
 
-73. There's Nothing But Nothing Cooler Than an Angry Customer!
-"The problem is almost never the problem. The problem is invariably the response to the
-problem."—anon.
-Bizarre but true: Our most loyal customers are ones who had a problem with us ... and then
-marveled when we went the Extra Ten Miles at the Speed of Light to fix it!
-Business opportunity No.1* = Irate customers converted into fans. (*Yes, No.1.)
-So ... are you on the active prowl for customer problems to fix? Rules:
-Make "over"-reacting to problems a keystone in the corporate culture, a plank in the Corporate
-Values statement. ("We respond to customers with passion and rapidity and resources in ways
-that stun-amaze-overwhelm those customers 100.00% of the time.")
-Reward (BIG TIME.) those who unearth ... and report ... customer problems.
-"Over"-connect: let the customer know ASAP (!!), and update constantly—even if there is
-absolutely nothing to report.
-29
-Ensure that there are devoted resources at the ready to respond to problems. (No matter how good
-your systems, there will be problems—be staffed adequately, and then some, to respond at
-lightening speed.)
-Repeat: Business opportunity No.1 = Irate customers converted into outspoken fans.
-74. What We Have Here Is a Failure to Over-Communicate. I was flying home from Mexico
+- **There's Nothing But Nothing Cooler Than an Angry Customer!**
+
+  - "The problem is almost never the problem. The problem is invariably the response to the
+  problem."—anon. Bizarre but true: Our most loyal customers are ones who had a problem with us ... and then marveled when we went the Extra Ten Miles at the Speed of Light to fix it!
+  - **Business opportunity No.1* = Irate customers converted into outspoken fans. (*Yes, No.1.)**
+  - So ... are you on the active prowl for customer problems to fix? Rules: 
+    - Make "over"-reacting to problems a keystone in the corporate culture, a plank in the Corporate Values statement. ("We respond to customers with passion and rapidity and resources in ways that stun-amaze-overwhelm those customers 100.00% of the time.")
+    - Reward (BIG TIME.) those who unearth ... and report ... customer problems.
+    - "Over"-connect: let the customer know ASAP (!!), and update constantly—even if there is absolutely nothing to report.
+
+  - Ensure that there are devoted resources at the ready to respond to problems. (No matter how good your systems, there will be problems—be staffed adequately, and then some, to respond at lightening speed.)
+
+- What We Have Here Is a Failure to Over-Communicate. I was flying home from Mexico
 City to Boston, on Delta, via Atlanta. The ATL-BOS leg was delayed about 75 minutes: Never
 once did waiting area personnel or the pilot provide any explanation whatsoever. I do not
 exaggerate. Not one bloody, frigging word.
