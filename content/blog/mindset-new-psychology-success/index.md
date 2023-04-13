@@ -668,20 +668,13 @@ professional) of limited resources (time, in this instance, time in most instanc
 
   - Ensure that there are devoted resources at the ready to respond to problems. (No matter how good your systems, there will be problems—be staffed adequately, and then some, to respond at lightening speed.)
 
-- What We Have Here Is a Failure to Over-Communicate. I was flying home from Mexico
-City to Boston, on Delta, via Atlanta. The ATL-BOS leg was delayed about 75 minutes: Never
-once did waiting area personnel or the pilot provide any explanation whatsoever. I do not
-exaggerate. Not one bloody, frigging word.
-No, this is not really news in "airline service sucks significantly land." Nonetheless, it serves as a
-not-quite-friendly alarm bell to all of us in any and every circumstance, signaling the ... Insanely
-Important Value of Keeping People Informed/Over-informed 100.00% of the Time.
-We can almost all deal quite well with shit—we all/almost all deal very poorly with uncertainty.
-Tell me it'll probably be a 90-minute delay because the pilot is in the bar popping Tequila shots—
-and I'm fine. (More or less.) Total Silence? I'm on edge, pissed off as hell.
-(Play back the last 24 or 48 hours. Is there an instance where you have failed to Fully Inform a
-Client, or other stakeholder, of a delay, wee or grand, or glitch? If your answer is "nope, all is
-well"—you are a dunce.)
-75. Be "Entwined" with Your Client Came across, stuck in a book, the torn-out cover story
+- **What We Have Here Is a Failure to Over-Communicate.** I was flying home from Mexico
+City to Boston, on Delta, via Atlanta. The ATL-BOS leg was delayed about 75 minutes: Never once did waiting area personnel or the pilot provide any explanation whatsoever. I do not exaggerate. Not one bloody, frigging word.
+  - No, this is not really news in "airline service sucks significantly land." Nonetheless, it serves as a not-quite-friendly alarm bell to all of us in any and every circumstance, signaling the ... Insanely Important Value of Keeping People Informed/Over-informed 100.00% of the Time.
+  - We can almost all deal quite well with shit—we all/almost all deal very poorly with uncertainty. Tell me it'll probably be a 90-minute delay because the pilot is in the bar popping Tequila shots— and I'm fine. (More or less.) Total Silence? I'm on edge, pissed off as hell.
+  - (Play back the last 24 or 48 hours. Is there an instance where you have failed to Fully Inform a Client, or other stakeholder, of a delay, wee or grand, or glitch? If your answer is "nope, all is well"—you are a dunce.)
+
+- Be "Entwined" with Your Client Came across, stuck in a book, the torn-out cover story
 from Time, 25 October 2004, "The God Gene." There was a quiz therein, "How Spiritual Are
 You?" I imagined, as a not particularly "religious person," I'd be in the lower quartile. But to my
 surprise, I scored 15/20—"highly spiritual, a real mystic."
