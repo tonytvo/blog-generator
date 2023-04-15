@@ -467,163 +467,90 @@ our sales skills—many will end up echoing the record of my TV industry pal.
 
 ## INITIATIVE
 
-- **Make That "Three-Minute Call"! Today! Now!** Yes it is all—as in all—about relationships. And ever so many are off track or under-nourished—at any point in time. One very
-big part of the problem-opportunity comes in the form of what I call "the all-important threeminute call." That is, address the problem early, before the tipping point, with what amounts to no
-more than a smidgen of effort—and avoid immeasurable pain down the pike.
-  - In short, a three-minute call made today (NOW!) to deal with a "slightly" bruised ego or a "minor" misunderstanding can go a long way toward helping you avoid a trip to divorce court,
-the loss of a billion-dollar Client (lots of evidence for this), or an employee lawsuit tomorrow. 
-  - And it can be and usually is, even more powerful than it seems. In 9 of 10 cases, the call goes far,far better than you anticipated it would. (The fact that you took the initiative accounts for a lot.)
-Not only does "the call" help "deal with" a thorny problem, but surprisingly often it launches a new and positive trajectory for a fraying relationship.
-  - The issue, of course is the will to "just do it"—which at times means swallowing your pride andseems to be much tougher for boys than girls. Part of the answer, my frequent answer in The
-Little BIG Things, is "working at it." That is, I'd argue that "making the three-minute call" is at least as worthy of study and practice as learning to play a piano or build a fine cabinet: Nations
-rise or fall, battles are won or lost, based on (1) not making the call, or (2) making the call occasionally, or (3) making the call routinely, as a matter of habit, and with abiding skill.
+- **Make That "Three-Minute Call"! Today! Now!** Yes it is all—as in all—about
+relationships. And ever so many are off track or under-nourished—at any point in time. One very big part of the problem-opportunity comes in the form of what I call "the all-important threeminute call." That is, address the problem early, before the tipping point, with what amounts to no more than a smidgen of effort—and avoid immeasurable pain down the pike.
 
-- **Show Up! (It's a Start)** Woody Allen famously said that "Eighty percent of success is showing up." It's a good laugh line—and unchallengeable. It's true for me and you—and true in
-circumstances of the greatest import. In 1787 in the U.S., delegates came to Philadelphia to draft our enduring, as it turned out, Constitution. The smallest of all the states, Delaware, may have
-greater influence than any other state. They took the effort seriously (some, such as New York,
-didn't). Delaware sent a big delegation, they showed up every day (most others didn't) and
-members volunteered to do every damn thing imaginable—and in the end it paid off, big time. 
-20
-Hence I conclude that "Woody's strategy" works in an office of five people—and when the fate of
-a nation is at stake. As I said … Big Time.
-1.  Get Up Earlier Than the Next (in This Case) Gal. I was flying to Boston from London
-on a Saturday morning. It was a seven-hour flight. A professional woman was sitting in front of
-me. I duly swear, she did not look up once during the entire flight. She produced more on her
-laptop in those seven hours than I do in a week. Or a month.
-There's something to say for out-working "the other guy"—or woman. In short, I would give both
-my right and left arms to have the woman described above on my side—and, God help me, not on
-the other side!
-1.  Make an Insane Public Effort. The late sports super-agent Mark McCormack (once voted
-the most powerful man in sports) once condoned and even certified one of my own crazy habits.
-He said there are times, not necessarily infrequent, when it is wise-imperative to travel 5,000
-miles for a 5-minute meeting. It was a tactic I started using in 1974, when I was a junior White
-House staffer working on drug abuse issues. And the power and effectiveness thereof are literally
-beyond measure. You can get a lot done in a short meeting when it's clear that you've killed
-yourself to be there; but it's overwhelmingly psychological. The power of making an "insane
-effort" almost always breaks a logjam—and not infrequently leads to a solution on the spot.
-The key word here is … "insane."
-LEADERSHIP
+- In short, a three-minute call made today (NOW!) to deal with a "slightly" bruised ego or a "minor" misunderstanding can go a long way toward helping you avoid a trip to divorce court, the loss of a billion-dollar Client (lots of evidence for this), or an employee lawsuit tomorrow.
 
-1.  To Lead Is to Help Others Succeed.
-"The role of the director is to create a space where the actors and actresses can become more
-than they've ever been before, more than they've dreamed of being."—Robert Altman, Oscar
-acceptance speech
-"No matter what the situation, the great manager's first response is always to think about the
-individual concerned and how things can be arranged to help that individual experience
-success."—Marcus Buckingham, The One Thing You Need to Know
-The "business" of leaders at all levels is to help those in their charge develop beyond their
-dreams—which in turn almost automatically leads to "all that other stuff," such as happy
-customers, happy stockholders, happy communities.
-To start the ball rolling, change every performance review into a two-part process, the first in
-which there is a rigorous evaluation of the employee—and the second of which is a rigorous
-review of your own efforts to help that employee forward.
-1.  At Their Service. Leadership is a "service business." Robert Greenleaf gave us the concept
-of "servant leadership"—it's one of those "pretty much all you need to know" ideas. My take:
- (1) Organizations exist to serve. Period.
- (2) Leaders exist to serve their people. Period.
- (3) A team well-served by its leader will be inclined to pursue Excellence.
-21
-Use the word "Serve." (That's what you do.)
-Use the word "Service." (That's what you provide.)
-Use the word "Servant." (That's what you are.)
-The unadorned word "service" is beauty encapsulated.
-1.  Have You "Hosted" Any Good Employees Lately? Consider the leader's primary job to
+- The issue, of course is the will to "just do it"—which at times means swallowing your pride and seems to be much tougher for boys than girls. Part of the answer, my frequent answer in The Little BIG Things, is "working at it." That is, I'd argue that "making the three-minute call" is at least as worthy of study and practice as learning to play a piano or build a fine cabinet: Nations rise or fall, battles are won or lost, based on (1) not making the call, or (2) making the call occasionally, or (3) making the call routinely, as a matter of habit, and with abiding skill.
+
+- **Show Up! (It's a Start)** Woody Allen famously said that "Eighty percent of success is showing up." It's a good laugh line—and unchallengeable. It's true for me and you—and true in circumstances of the greatest import. In 1787 in the U.S., delegates came to Philadelphia to draft our enduring, as it turned out, Constitution. The smallest of all the states, Delaware, may have greater influence than any other state. They took the effort seriously (some, such as New York, didn't). Delaware sent a big delegation, they showed up every day (most others didn't) and members volunteered to do every damn thing imaginable—and in the end it paid off, big time. 
+
+  - Hence I conclude that "Woody's strategy" works in an office of five people—and when the fate of a nation is at stake. As I said … Big Time.
+
+- **Get Up Earlier Than the Next (in This Case) Gal**. I was flying to Boston from London
+on a Saturday morning. It was a seven-hour flight. A professional woman was sitting in front of me. I duly swear, she did not look up once during the entire flight. She produced more on her laptop in those seven hours than I do in a week. Or a month.
+  - There's something to say for out-working "the other guy"—or woman. In short, I would give both my right and left arms to have the woman described above on my side—and, God help me, not on the other side!
+
+- Make an Insane Public Effort. The late sports super-agent Mark McCormack (once voted
+the most powerful man in sports) once condoned and even certified one of my own crazy habits. He said there are times, not necessarily infrequent, when it is wise-imperative to travel 5,000 miles for a 5-minute meeting. It was a tactic I started using in 1974, when I was a junior White House staffer working on drug abuse issues. And the power and effectiveness thereof are literally beyond measure. You can get a lot done in a short meeting when it's clear that you've killed yourself to be there; but it's overwhelmingly psychological. The power of making an "insane effort" almost always breaks a logjam—and not infrequently leads to a solution on the spot. The key word here is … "insane."
+
+## LEADERSHIP
+
+- **To Lead Is to Help Others Succeed.**
+  - "The role of the director is to create a space where the actors and actresses can become more than they've ever been before, more than they've dreamed of being."—Robert Altman, Oscar acceptance speech
+  - "No matter what the situation, the great manager's first response is always to think about the individual concerned and how things can be arranged to help that individual experience success."—Marcus Buckingham, The One Thing You Need to Know The "business" of leaders at all levels is to help those in their charge develop beyond their dreams—which in turn almost automatically leads to "all that other stuff," such as happy customers, happy stockholders, happy communities.
+  - To start the ball rolling, change every performance review into a two-part process, the first in which there is a rigorous evaluation of the employee—and the second of which is a rigorous review of your own efforts to help that employee forward.
+
+- **At Their Service**. Leadership is a "service business." Robert Greenleaf gave us the concept of "servant leadership"—it's one of those "pretty much all you need to know" ideas. My take:
+  - (1) Organizations exist to serve. Period.
+  - (2) Leaders exist to serve their people. Period.
+  - (3) A team well-served by its leader will be inclined to pursue Excellence.
+  - Use the word "Serve." (That's what you do.)
+  - Use the word "Service." (That's what you provide.)
+  - Use the word "Servant." (That's what you are.)
+  - The unadorned word "service" is beauty encapsulated.
+
+- **Have You "Hosted" Any Good Employees Lately?** Consider the leader's primary job to
 be a host to her or his employees. That's the way Jan Gunnarsson and Olle Blohm put it in
-Hostmanship: The Art of Making People Feel Welcome.
-Gunnarsson and Blohm based this universal (as they—and I—see it) idea on their experience
-owning/running a hotel. Here's the core idea:
-"We went through the hotel and made a ... 'consideration renovation.' Instead of redoing
-bathrooms, dining rooms, and guest rooms, we gave employees new uniforms, bought flowers and
-fruit, and changed colors. Our focus was totally on the staff. They were the ones we wanted to
-make happy. We wanted them to wake up every morning excited about a new day at work."
-"The path to a hostmanship culture paradoxically does not go through the guest. In fact it
-wouldn't be totally wrong to say that the guest has nothing to do with it. True hostmanship
-leaders focus on their employees. What drives exceptionalism is finding the right people and
-getting them to love their work and see it as a passion. ... The guest comes into the picture only
-when you are ready to ask, 'Would you prefer to stay at a hotel where the staff love their work or
-where management has made customers its highest priority?'"
-Your call, but I'd call it "putting first things first"—and it applies as much in the 7-person
-purchasing department as in the retail establishment.
-1.  A Sacred Trust. As I see it, anyone who takes on any leadership job, minor or major,
-assumes no less than a ... Sacred Trust. I know that's extreme language. But I stand by it. This
-sacred trust is all about what organizations are all about: the professional (and, to some extent,
-personal) development of people. Sure, the boss's job is to "get the job done," and done
-effectively. But "boss-hood" primarily entails an abiding responsibility for the people under your
-charge. (It's circular, of course: Turned-on people do turned-on work. Q.E.D.)
-Consider this as the translation of "sacred trust" into a plank in your core-values statement: "We
-are committed to the measurable growth of each and every member of our staff. We aspire to
-have every staff member say, of their stay here, 'That was a remarkable period of my
-development.'"
-1.  Rat Psych Rules! Or: Deploying Positive Reinforcement's Incredible Potency. You can
-overdo anything—including positive reinforcement. It's just that in 9 out of 10 cases (more like
-99 in 100) we "underdo" positive reinforcement—and usually overdo negative reinforcement. I,
-like Mark Twain, "can live for months on a compliment" or a small act of encouragement. This is
-one powerful tool!
-Consider the following, drawn from the recent book Barack, Inc.: Winning Business Lessons from
-the Obama Campaign, by Rick Faulk and Barry Libert:
-22
-"[Retired United States Navy] Captain Mike Abrashoff knows the importance of saying 'thank
-you.' In his first book, It's Your Ship, he relates how he sent letters to the parents of his crew
-members on the guided-missile destroyer USS Benfold ... Putting himself in those parents' shoes,
-he imagined how happy they would be to hear from the Commanding Officer that their sons and
-daughters were doing well. And he figured that those parents would, in turn, call their children to
-tell them how proud they were of them.
-"Abrashoff debated whether to send a letter to the parents of one young man who wasn't really
-star material. Weighing the sailor's progress, he decided to go ahead. A couple of weeks later, the
-sailor appeared at his door, tears streaming down his face. It seems the kid's father had always
-considered him a failure and told him so. After reading the captain's letter, he called to
-congratulate his son and tell him how proud he was of him. 'Captain, I can't thank you enough,'
-said the young man. For the first time in his life, he felt loved and encouraged by his father."
-WORDS
-1.  "What Do You Think?" Our colleague Dave Wheeler said, in a Comment at
-tompeters.com: "The four most important words in management are ... 'What do you think?'" I
-agree! And the old engineer in me screams: Quantify! So: How many times today did you "use
-the four words"? I.e., exactly how many times did you utter: "What do you think?"
-Maybe go so far as to put this idea in the formal "values statement":
-"We obsessively ask 'What do you think?'—We understand that we rise or fall on the engagement
-and intelligence and constant contributions of 100% of us."
-1.  "Thank You"
-"The deepest human need is the need to be appreciated."—William James, premier American
-psychologist
-"You shouldn't be looking for people slipping up, you should be looking for all the good things
-people do and praising those."—Richard Branson
-There's no overestimating the power of appreciation—and yet its application is usually stingy at
-best. Hence, as in so many of these "discussions of the obvious," this is a genuine skill to be
-practiced, mastered and applied. And, again, please think about it, perhaps "Thank you" ought to
-gain a place of honor in the values statement: "We habitually express appreciation for one
-another's efforts—because we do in fact consciously appreciate everyone's 'ordinary' 'daily'
-contributions, let alone the extraordinary ones." Or words to that effect …
+Hostmanship: The Art of Making People Feel Welcome. Gunnarsson and Blohm based this universal (as they—and I—see it) idea on their experience owning/running a hotel. Here's the core idea:
+  - "We went through the hotel and made a ... 'consideration renovation.' Instead of redoing bathrooms, dining rooms, and guest rooms, we gave employees new uniforms, bought flowers and fruit, and changed colors. Our focus was totally on the staff. They were the ones we wanted to make happy. We wanted them to wake up every morning excited about a new day at work."
+  - "The path to a hostmanship culture paradoxically does not go through the guest. In fact it wouldn't be totally wrong to say that the guest has nothing to do with it. True hostmanship leaders focus on their employees. What drives exceptionalism is finding the right people and getting them to love their work and see it as a passion. ... The guest comes into the picture only when you are ready to ask, 'Would you prefer to stay at a hotel where the staff love their work or where management has made customers its highest priority?'"
+  - Your call, but I'd call it "putting first things first"—and it applies as much in the 7-person purchasing department as in the retail establishment.
 
-1.  "I'm Sorry."
-Message: THIS IS A BIG DEAL. THIS IS "STRATEGIC."
-"I regard apologizing as the most magical, healing, restorative gesture human beings can make.
-It is the centerpiece of my work with executives who want to get better."—Marshall Goldsmith,
-What Got You Here Won't Get You There: How Successful People Become Even More Successful
-(Goldsmith is perhaps the world's most prominent executive coach.)
-23
-Repeat: "centerpiece of my work with executives who want to get better."
-Like Goldsmith, I believe that a genuine apology (and there's a lot to write, which space here does
-not permit, about "genuine") is of the utmost personal and strategic importance—and, indeed,
-worthy of using the label "magical."
-As I have become convinced of the power (personal, professional, magical) of apology, I have
-actually accumulated a small library of books on the topic—yes, there is such a library available
-on apology per se. One is left with an encompassing sense of the extraordinary power of the ...
-Art of Apology ... rightfully considered. I believe we are talking about, in practical business
-terms, a ... "matchless strategic lever." In the arsenal of what really matters when it comes to
-getting things done/execution/ implementation, there are few—if any—"power tools" that have
-the heft of:
-"I apologize."
-"I'm sorry."
-"I'm to blame."
-"Simply put, I screwed up."
-"I bear full responsibility for this f***-up."
-"I blew it. Period."
-Bonus: Often as not, an Effective Apology is far more than a "bullet dodged." That is, not only is
-a problem cleared up, but also the cock-up brilliantly and overwhelmingly and unequivocally
-atoned for solidifies a relationship—and carries it forward.
-1.  Words of Truth—from a Fiction Writer
-"Why not just tell the truth?"—Raymond Carver, premier American short-story writer
-NETWORKING
+- **A Sacred Trust**. As I see it, anyone who takes on any leadership job, minor or major, assumes no less than a ... Sacred Trust. I know that's extreme language. But I stand by it. This sacred trust is all about what organizations are all about: the professional (and, to some extent, personal) development of people. Sure, the boss's job is to "get the job done," and done effectively. But "boss-hood" primarily entails an abiding responsibility for the people under your charge. (It's circular, of course: Turned-on people do turned-on work. Q.E.D.)
+  - Consider this as the translation of "sacred trust" into a plank in your core-values statement: "We are committed to the measurable growth of each and every member of our staff. We aspire to have every staff member say, of their stay here, 'That was a remarkable period of my development.'"
+
+- **Rat Psych Rules! Or: Deploying Positive Reinforcement's Incredible Potency.** You can
+overdo anything—including positive reinforcement. It's just that in 9 out of 10 cases (more like 99 in 100) we "underdo" positive reinforcement—and usually overdo negative reinforcement. I, like Mark Twain, "can live for months on a compliment" or a small act of encouragement. This is one powerful tool!
+  - Consider the following, drawn from the recent book Barack, Inc.: Winning Business Lessons from the Obama Campaign, by Rick Faulk and Barry Libert:
+  - "[Retired United States Navy] Captain Mike Abrashoff knows the importance of saying 'thank you.' In his first book, It's Your Ship, he relates how he sent letters to the parents of his crew members on the guided-missile destroyer USS Benfold ... Putting himself in those parents' shoes, he imagined how happy they would be to hear from the Commanding Officer that their sons and daughters were doing well. And he figured that those parents would, in turn, call their children to tell them how proud they were of them.
+  - "Abrashoff debated whether to send a letter to the parents of one young man who wasn't really star material. Weighing the sailor's progress, he decided to go ahead. A couple of weeks later, the sailor appeared at his door, tears streaming down his face. It seems the kid's father had always considered him a failure and told him so. After reading the captain's letter, he called to congratulate his son and tell him how proud he was of him. 'Captain, I can't thank you enough,' said the young man. For the first time in his life, he felt loved and encouraged by his father."
+
+## WORDS
+
+- **"What Do You Think?"** Our colleague Dave Wheeler said, in a Comment at
+tompeters.com: "The four most important words in management are ... 'What do you think?'" I agree! And the old engineer in me screams: Quantify! So: How many times today did you "use the four words"? I.e., exactly how many times did you utter: "What do you think?" 
+  - Maybe go so far as to put this idea in the formal "values statement":
+  - "We obsessively ask 'What do you think?'—We understand that we rise or fall on the engagement and intelligence and constant contributions of 100% of us."
+
+- **"Thank You"**
+  - "The deepest human need is the need to be appreciated."—William James, premier American psychologist
+  - "You shouldn't be looking for people slipping up, you should be looking for all the good things people do and praising those."—Richard Branson
+  - There's no overestimating the power of appreciation—and yet its application is usually stingy at best. Hence, as in so many of these "discussions of the obvious," this is a genuine skill to be practiced, mastered and applied. And, again, please think about it, perhaps "Thank you" ought to gain a place of honor in the values statement: "We habitually express appreciation for one another's efforts—because we do in fact consciously appreciate everyone's 'ordinary' 'daily' contributions, let alone the extraordinary ones." Or words to that effect …
+
+- **"I'm Sorry."**
+  - Message: THIS IS A BIG DEAL. THIS IS "STRATEGIC."
+  - "I regard apologizing as the most magical, healing, restorative gesture human beings can make. It is the centerpiece of my work with executives who want to get better."—Marshall Goldsmith, What Got You Here Won't Get You There: How Successful People Become Even More Successful (Goldsmith is perhaps the world's most prominent executive coach.)
+
+  - Repeat: "centerpiece of my work with executives who want to get better."
+  - Like Goldsmith, I believe that a genuine apology (and there's a lot to write, which space here does not permit, about "genuine") is of the utmost personal and strategic importance—and, indeed, worthy of using the label "magical."
+  
+  - As I have become convinced of the power (personal, professional, magical) of apology, I have actually accumulated a small library of books on the topic—yes, there is such a library available on apology per se. One is left with an encompassing sense of the extraordinary power of the ... Art of Apology ... rightfully considered. I believe we are talking about, in practical business terms, a ... "matchless strategic lever." In the arsenal of what really matters when it comes to getting things done/execution/ implementation, there are few—if any—"power tools" that have the heft of:
+    - "I apologize."
+    - "I'm sorry."
+    - "I'm to blame."
+    - "Simply put, I screwed up."
+    - "I bear full responsibility for this f***-up."
+    - "I blew it. Period."
+  - Bonus: Often as not, an Effective Apology is far more than a "bullet dodged." That is, not only is a problem cleared up, but also the cock-up brilliantly and overwhelmingly and unequivocally atoned for solidifies a relationship—and carries it forward.
+
+- **Words of Truth—from a Fiction Writer**
+
+  - "Why not just tell the truth?"—Raymond Carver, premier American short-story writer
+
+## NETWORKING
+
 1.  One Line of Code: The Shortest Distance Between "Critic" and "Champion"
 "They" say that complex software implementations fall short of promised effectiveness almost all
 the time. "They" add that the problem is rarely the software; it's almost always less-thanenthusiastic down-the-line users.
