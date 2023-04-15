@@ -551,25 +551,17 @@ tompeters.com: "The four most important words in management are ... 'What do you
 
 ## NETWORKING
 
-1.  One Line of Code: The Shortest Distance Between "Critic" and "Champion"
-"They" say that complex software implementations fall short of promised effectiveness almost all
-the time. "They" add that the problem is rarely the software; it's almost always less-thanenthusiastic down-the-line users.
-I have the answer (which an Aussie CIO gave me): One line of code!
-You're in IT.
-The software you've got on offer will change the world!
-But implementation will take place far from home. What's the success secret? If you're wise, it's
-sales; you hit the road and ... sell sell sell ... would-be users ... retail ... one at a time. You sit
-down with, say, Erik H. in marketing. He listens to your pitch, agrees on the importance of the
-project—but—has a host of concerns. You listen, you go home; and, in effect, you alter ... one
+- **One Line of Code: The Shortest Distance Between "Critic" and "Champion"**
+  - "They" say that complex software implementations fall short of promised effectiveness almost all the time. "They" add that the problem is rarely the software; it's almost always less-thanenthusiastic down-the-line users. 
+  - I have the answer (which an Aussie CIO gave me): One line of code!
+  - You're in IT. The software you've got on offer will change the world!
+  - But implementation will take place far from home. What's the success secret? If you're wise, it's sales; you hit the road and ... sell sell sell ... would-be users ... retail ... one at a time. You sit
+down with, say, Erik H. in marketing. He listens to your pitch, agrees on the importance of the project—but—has a host of concerns. You listen, you go home; and, in effect, you alter ... one
 line of code … which deals with ... one ... of Erik's issues.
-Bingo!
-24
-Nine out of 10 of Erik's issues are still not addressed ...but ... you changed ... SOMETHING ...
-DIRECTLY ... BECAUSE OF ERIK!
-In 4.2 out of 5 cases, Erik flips from thorn in your side to fellow champion! Suddenly the whole
-damn thing is "Erik's project"! In Erik's mind, the whole thing would have collapsed without his
-precious, save-your-ass input!
-1.  "Suck Down" for Success. Forget "sucking up"—it's a low-odds strategy. If you are
+  - Nine out of 10 of Erik's issues are still not addressed ...but ... you changed ... SOMETHING ... DIRECTLY ... BECAUSE OF ERIK!
+  - In 4.2 out of 5 cases, Erik flips from thorn in your side to fellow champion! Suddenly the whole damn thing is "Erik's project"! In Erik's mind, the whole thing would have collapsed without his precious, save-your-ass input!
+
+- **"Suck Down" for Success.** Forget "sucking up"—it's a low-odds strategy. If you are
 willing to invest the time, and it takes time, "sucking down" is a high-odds affair—to paraphrase
 the immortal robber Willy Sutton on why he chose to knock off banks, "It's where the money is."
 (Oh is it ever!) In addition to the plain fact that "down there" is where the real work is done,
