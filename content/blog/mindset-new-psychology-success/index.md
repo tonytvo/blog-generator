@@ -467,27 +467,19 @@ our sales skills—many will end up echoing the record of my TV industry pal.
 
 ## INITIATIVE
 
-1.  Make That "Three-Minute Call"! Today! Now! Yes it is all—as in all—about
-relationships. And ever so many are off track or under-nourished—at any point in time. One very
+- **Make That "Three-Minute Call"! Today! Now!** Yes it is all—as in all—about relationships. And ever so many are off track or under-nourished—at any point in time. One very
 big part of the problem-opportunity comes in the form of what I call "the all-important threeminute call." That is, address the problem early, before the tipping point, with what amounts to no
 more than a smidgen of effort—and avoid immeasurable pain down the pike.
-In short, a three-minute call made today (NOW!) to deal with a "slightly" bruised ego or a
-"minor" misunderstanding can go a long way toward helping you avoid a trip to divorce court,
-the loss of a billion-dollar Client (lots of evidence for this), or an employee lawsuit tomorrow.
-And it can be and usually is, even more powerful than it seems. In 9 of 10 cases, the call goes far,
-far better than you anticipated it would. (The fact that you took the initiative accounts for a lot.)
-Not only does "the call" help "deal with" a thorny problem, but surprisingly often it launches a
-new and positive trajectory for a fraying relationship.
-The issue, of course is the will to "just do it"—which at times means swallowing your pride and
-seems to be much tougher for boys than girls. Part of the answer, my frequent answer in The
-Little BIG Things, is "working at it." That is, I'd argue that "making the three-minute call" is at
-least as worthy of study and practice as learning to play a piano or build a fine cabinet: Nations
-rise or fall, battles are won or lost, based on (1) not making the call, or (2) making the call
-occasionally, or (3) making the call routinely, as a matter of habit, and with abiding skill.
-1.  Show Up! (It's a Start) Woody Allen famously said that "Eighty percent of success is
-showing up." It's a good laugh line—and unchallengeable. It's true for me and you—and true in
-circumstances of the greatest import. In 1787 in the U.S., delegates came to Philadelphia to draft
-our enduring, as it turned out, Constitution. The smallest of all the states, Delaware, may have
+  - In short, a three-minute call made today (NOW!) to deal with a "slightly" bruised ego or a "minor" misunderstanding can go a long way toward helping you avoid a trip to divorce court,
+the loss of a billion-dollar Client (lots of evidence for this), or an employee lawsuit tomorrow. 
+  - And it can be and usually is, even more powerful than it seems. In 9 of 10 cases, the call goes far,far better than you anticipated it would. (The fact that you took the initiative accounts for a lot.)
+Not only does "the call" help "deal with" a thorny problem, but surprisingly often it launches a new and positive trajectory for a fraying relationship.
+  - The issue, of course is the will to "just do it"—which at times means swallowing your pride andseems to be much tougher for boys than girls. Part of the answer, my frequent answer in The
+Little BIG Things, is "working at it." That is, I'd argue that "making the three-minute call" is at least as worthy of study and practice as learning to play a piano or build a fine cabinet: Nations
+rise or fall, battles are won or lost, based on (1) not making the call, or (2) making the call occasionally, or (3) making the call routinely, as a matter of habit, and with abiding skill.
+
+- **Show Up! (It's a Start)** Woody Allen famously said that "Eighty percent of success is showing up." It's a good laugh line—and unchallengeable. It's true for me and you—and true in
+circumstances of the greatest import. In 1787 in the U.S., delegates came to Philadelphia to draft our enduring, as it turned out, Constitution. The smallest of all the states, Delaware, may have
 greater influence than any other state. They took the effort seriously (some, such as New York,
 didn't). Delaware sent a big delegation, they showed up every day (most others didn't) and
 members volunteered to do every damn thing imaginable—and in the end it paid off, big time. 
