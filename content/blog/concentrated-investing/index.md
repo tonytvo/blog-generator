@@ -1,5 +1,5 @@
 ---
-title: Concentrated Investing by Benello, Van Biema Carlisle summary
+title: Concentrated Investing by Benello Van Biema Carlisle summary
 date: "2022-07-25T22:12:03.284Z"
 description: "Concentrated Investing by Benello, Van Biema Carlisle summary"
 tags: ["valueinvesting", "investing"]
