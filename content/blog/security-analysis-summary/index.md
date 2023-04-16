@@ -1,5 +1,5 @@
 ---
-title: Security Analysis By Benjamin Graham and David Dodd summary - wip
+title: Security Analysis By Benjamin Graham and David Dodd summary
 date: "2022-07-12T22:12:03.284Z"
 description: "Security Analysis By Benjamin Graham and David Dodd summary"
 tags: ["investing", "valueinvesting"]
@@ -1026,6 +1026,7 @@ tags: ["investing", "valueinvesting"]
   - a sound investment must be able to withstand adversity. Investors may favour enterprises that have withstood adversity.
   - investment for profit, where growth is generally expected, the price is rarely reasonable.
   - the investor of small means may opt to step out of his role and become a speculator. He may also opt to regret his actions.
+
 ## Analysis skills
   - The term analysis indicates a scientific and systematic study of facts, which results in logical conclusions. But investment is not an exact science, and success derives partly from personal skills and chance.
   - analytical judgments are reached by applying standards to facts
