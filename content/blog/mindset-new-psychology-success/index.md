@@ -674,28 +674,17 @@ City to Boston, on Delta, via Atlanta. The ATL-BOS leg was delayed about 75 minu
   - We can almost all deal quite well with shit—we all/almost all deal very poorly with uncertainty. Tell me it'll probably be a 90-minute delay because the pilot is in the bar popping Tequila shots— and I'm fine. (More or less.) Total Silence? I'm on edge, pissed off as hell.
   - (Play back the last 24 or 48 hours. Is there an instance where you have failed to Fully Inform a Client, or other stakeholder, of a delay, wee or grand, or glitch? If your answer is "nope, all is well"—you are a dunce.)
 
-- Be "Entwined" with Your Client Came across, stuck in a book, the torn-out cover story
-from Time, 25 October 2004, "The God Gene." There was a quiz therein, "How Spiritual Are
-You?" I imagined, as a not particularly "religious person," I'd be in the lower quartile. But to my
+- **Be "Entwined" with Your Client** 
+  - Came across, stuck in a book, the torn-out cover story from Time, 25 October 2004, "The God Gene." There was a quiz therein, "How Spiritual Are You?" I imagined, as a not particularly "religious person," I'd be in the lower quartile. But to my
 surprise, I scored 15/20—"highly spiritual, a real mystic."
-Here's Question #1, to which I instantly answered "Yes": "I often feel so connected to the people
-around me that it is as if there is no separation between us."
-Of course!
-That's what my "speaking career" is all about!!
-That's how I make a difference!!
-No-Zero-Nada-Zip degrees of separation!!
-So: Are you "one with your clients"—effectively "spiritually" entwined with those clients? Do
-you truly "get them"?
-Richard Branson does.
-Bill Marriott does.
-Sam Walton did.
-Anita Roddick did.
-Lee Iacocca does/did.
-(Would you buy a car from this man?)
-Rick Wagoner—former GM boss—did not.
-(Would you buy a car from this man?)
-30
-ACTION
+  - Here's Question #1, to which I instantly answered "Yes": "I often feel so connected to the people around me that it is as if there is no separation between us."
+  - Of course!
+    - That's what my "speaking career" is all about!!
+    - That's how I make a difference!!
+    - No-Zero-Nada-Zip degrees of separation!!
+  - So: Are you "one with your clients"—effectively "spiritually" entwined with those clients? Do you truly "get them"?
+
+## ACTION
 
 76. "Trying My Damnedest!" Wrong Answer! Long story, but as a junior officer (U.S.
 Navy) in Vietnam, I once answered a general with, in part, "I'm doing my best." He erupted, a
