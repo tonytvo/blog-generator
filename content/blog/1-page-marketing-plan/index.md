@@ -2,22 +2,22 @@
 title: 1 page marketing plan by Allan Dib summary
 date: "2022-09-04T22:12:03.284Z"
 description: "1 page marketing plan by Allan Dib summary"
-tags: ["valueinvesting", "investing"]
+tags: ["marketing", "investing"]
 ---
 # take-aways
 
 - It’s very common for small businesses never to grow past the point at which they generate just enough profit for the owner(s) to make a modest living.
 - Professionals have plans, and those plans are based on high-leverage activities.
 - By far the biggest leverage point in any business is marketing.
-- Marketing is the strategy you use for getting your ideal target market to know you, like you and trust you enough to become a customer.
+- Marketing is the strategy you use for getting your ideal target market to know you, like you, and trust you enough to become a customer.
 - All the stuff you usually associate with marketing are tactics.
 - Strategy is the big-picture planning you do prior to the tactics.
 - Strategy without tactics leads to paralysis by analysis.
-- Tactics without strategy leads to the “bright shiny object syndrome.”
+- Tactics without strategy lead to the “bright shiny object syndrome.”
 - Do NOT mimic large businesses.
 - Direct response marketing is what you should be doing as a small business.
 - Direct response marketing is designed to evoke an immediate response and compel prospects to take some specific action.
-Trackable, measurable, uses compelling copy, includes multi-step, short-term follow-up, incorporates maintenance follow-up of unconverted leads.
+Trackable, measurable, use compelling copy, includes multi-step, short-term follow-up, incorporates maintenance follow-up of unconverted leads.
 - Remember, it’s all about implementation. I’ll reiterate— **knowing and not doing is the same as not knowing.**
 - In my experience, I’ve found that entrepreneurs fail to implement for one of the following three reasons:
 - **Paralysis by analysis**: they keep trying to learn more or get stuck chasing the latest bright shiny object in the hope that they’ll get everything perfect the first time around.
@@ -27,7 +27,7 @@ Trackable, measurable, uses compelling copy, includes multi-step, short-term fol
 - **Time is Not Money**
   - As entrepreneurs, we only get paid for bringing value to the market— not for time.
   - Put simply entrepreneurs work in the results economy, whereas most other people work in the time and effort economy.
-  - The more times we create value by getting, retaining and satisfying a customer, the more we get paid. Unfortunately, many business owners get distracted “playing business.” Playing business is when you do peripheral activities that don’t really create much value. Some examples of “playing business” include things like constantly checking email and endless, nonsense meetings that have no real point or agenda.
+  - The more times we create value by getting, retaining, and satisfying a customer, the more we get paid. Unfortunately, many business owners get distracted “playing business.” Playing business is when you do peripheral activities that don’t really create much value. Some examples of “playing business” include things like constantly checking email and endless, nonsense meetings that have no real point or agenda.
   - Instead of playing business, you must do business. Winning in business requires you to have a relentless focus on the activities that deliver value.
 - **Your Transition from Business Owner to Marketer**
   - Remember, **no one knows how good your products or services are until after the sale. Before they buy, they only know how good your marketing is. Put simply, the best marketer wins every time.**
@@ -39,87 +39,44 @@ Trackable, measurable, uses compelling copy, includes multi-step, short-term fol
 
 ## Selecting Your Target Market
 - You must be extremely focused on one niche here.
-- Goal of ad is for prospects to say “hey, that’s for me”.
-- Dominate one niche, then move to the next. Never do all at once.
-- Use PVP index to find ideal target market.
+- Goal of an ad is for prospects to say “Hey, that’s for me”.
+- Dominate one niche, then move to the next. Never do it all at once.
+- Use the PVP index to find the ideal target market.
 - Be as specific as possible.
 - Create an avatar for your target customer.
 
 ## Crafting Your Message
 - One ad, one objective.
-- If something in the ad isn’t helping you achieve that objective, you should get rid of it (including things like company name/logo)
+- If something in the ad isn’t helping you achieve that objective, you should get rid of it (including things like the company name/logo)
 - Rather than try and sell directly, just get prospects to indicate interest.
-- Develop a unique selling proposition (USP): entire goal of USP is to answer question about why someone should buy from you rather than from nearest competitor.
+- Develop a unique selling proposition (USP): entire goal of USP is to answer questions about why someone should buy from you rather than from the nearest competitor.
 - Avoid things like “quality” and “great service”.
 - You know you’re marketing your business as a commodity when prospects start the conversation by asking you about price.
 - Two questions you must ask yourself:
   - Why should they buy?
   - Why should they buy from me?
-- The uniqueness can come from the way it’s packaged, delivered, supported or even sold.
+- The uniqueness can come from the way it’s packaged, delivered, supported, or even sold.
 - **When you confuse them, you lose them.**
 - Create your elevator pitch:
 - You know [problem]? Well, what we do is [solution]. In fact, [proof].
 - **Purchasing is done with emotions and justified with logic after the fact.**
 - Avoid boring, “professional” sounding copy, and use emotional, strong sales copy with compelling calls to action.
 - People love authenticity, personality, and opinion. Even if they don’t agree with you, they’ll respect you for being real and open.
-- Take advantage of this by adding video to your website featuring you.
+- Take advantage of this by adding a video to your website featuring you.
 - Address “elephants in the room” - things all your customers think about but no one wants to bring up.
 - Use “the enemy in common” in your copy.
-- Here’s my take on naming— if you need to explain the name, to me that’s an automatic fail. The **title should equal content.**
+- Here’s my take on naming— if you need to explain the name, to me that’s an automatic fail. The **title should equal the content.**
 - **Always choose clarity over cleverness.**
 
 
 ## Reaching Prospects with Advertising Media
 - Hire experts that specialize in whatever media you decide is right for your campaign.
 - You must know customer acquisition cost and lifetime value to track marketing success.
-- A successful marketing campaign has three elements: market, message and media - you must hit all three for a successful campaign.
+- A successful marketing campaign has three elements: market, message, and media - you must hit all three for a successful campaign.
 - Try and own your own marketing resources: build an email list, a website, a blog, etc.
 - Email marketing tips: don’t spam, be human, use a commercial system, give them value, and automate.
 - Snail mail is a great way to complement email.
 - Try and have at least 5 different sources of new leads and customers, and try and make them paid media (reliable and forces your to focus on ROI).
-
-
-# Act II: The “During” Phase
-- In this phase, you’re dealing with leads, people who know you and have indicated interest in what you offer by responding to your marketing message.  Here you’ll capture them into a database, nurture them with regular value-add information and convert them into paying customers. The goal here is to get them to buy for the first time.
-
-
-## Capturing Leads
-- When interested leads respond to your ads, you put them in a database so you can build value for them, position yourself as an authority and create a relationship built on trust.
-- Why do some businesses get a constant flow of leads and prospects while others struggle to get any? The answer is the same as the answer to our personal flight dilemma— infrastructure. Some businesses have built a marketing infrastructure that constantly brings in new leads, follows them up, nurtures and converts them into raving fan customers.
-- To build a system, we need to think it through from start to end.  We need to understand how it works and what resources we’ll need to run it.
-- You want all leads and customer interactions to end up in your CRM.
-
-
-## Nurturing Leads
-- In marketing, **the money is in the follow-up.**
-- Immediately after you’ve captured a lead, they should go into your system, where repeated contacts are made over time.
-- Contact does not mean obnoxiously trying to pester leads into buying. You build a relationship, giving them value in advance of them buying anything from you, building trust and demonstrating authority in your field of expertise in the process.
-- Now that you have a database of high-probability prospects, **your job is to market to them until they buy or die.**
-- **Instead of being a pest, I advocate becoming a welcome guest**. Send your high-probability prospects a continuous stream of value until they’re ready to buy.
-- A “shock and awe package” is one of the best ways to be mind-blowingly amazing. A shock and awe package is essentially a physical box that you mail or deliver to prospects full of unique, benefit-laden assets related to your business and industry.
-- One of the commonalities amongst high-growth businesses is that they focus heavily on marketing and make a lot of offers. Some of these offers end up being misses and some end up being hits.
-- Could it really be that simple? Making more compelling and more frequent offers? The short answer is, yes.
-- Develop a marketing calendar for all your marketing activities, and assign someone responsibility.  Ideally hire or outsource.
-- In addition to scheduled activities, think about event-triggered activities.
-- A rule of thumb I like to use is **if someone else can do it 80% as good as you can, then you should delegate it.**
-
-
-## Sales Conversion
-- By the time you get prospects to the point of sales conversion, they should already be pre-framed, pre-motivated and pre-interested and essentially asking to buy from you. If you have to convince them or put on the hard sell, then you likely need to improve your lead nurturing process.
-- Once you’ve reached a level of competence, **the real profit comes from the way you market yourself.**
-- Resolve to stop positioning yourself as a commodity and competing solely on price. The result to your bottom line will be phenomenal.
-- Instead, you need to move towards the model of “educate, educate, educate.” With education, you build trust.
-- You must stop selling and start educating, consulting and advising prospects about the benefits your products and services deliver compared to each and every competitor in your category.
-- **This would be a good time to share with you my definition of an entrepreneur: “someone who solves people’s problems at a profit.”**
-- Bottom line, don’t let them think you are in sales for one second.
-- Consultative, advisory selling is the most cost-effective, the most enduring, the most impactful and the most powerful marketing strategy a business owner could ever devise.
-- Pricing strategies:
-  - Offer just a “standard” and “premium” option (priced about +50% but offering 2x+ value).
-  - Offer unlimited variation of your product/service.
-  - Add ultra-high-ticket item.
-  - Resist urge to discount.
-  - Invite them to try before buying.
-  - Make payment easy, and if possible offer payment plans.
 
 
 # Act III: The “After” Phase
