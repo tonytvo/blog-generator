@@ -155,7 +155,7 @@ industry from the Japanese automotive onslaught.
   EXCELLENCE is not an "aspiration."
   EXCELLENCE is the next five minutes.
 
-# CRISIS
+## CRISIS
 
 - **That Which Goeth Up and Up and Up Doth Not Goeth More Up and More Up and More
 Up Forever and Ever and Ever**. 
@@ -609,6 +609,7 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
   - Each lunch gone is gone for good. 20 per month. 240 per year. To a Major League Baseball Player, EACH AT BAT is Precious. To a "determined-to-build-a-matchless-network-and-collectcool-outsiders-and-useful-allies" ... EACH LUNCH is Precious.
 
 ## "THE EQUATIONS": An Engineer's View of the ... Secrets of Effective Implementation
+
 - Engineers live for mathematical and/or algebraic representation of any and all things. Hence, I, an unrepentant engineer, offer this set of "equations" aimed at helping you, engineer or not, boost your odds of success at implementing damn near anything.
 - Success at GTD/Getting Things Done Is a Function of ...
   - S = ƒ(#&DR; -2L, -3L, -4L, I&E)
@@ -632,51 +633,23 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
   - When we arrived in town from Vermont, we were therefore nonplussed to find a message from Joan, saying, "I'll be arriving at 7." We obviously asked her why she'd changed her mind.
   - "I decided to say 'Yes.'" She recalled a friend who'd had a vigorous life into her 90s. "She said she had three 'secrets': First, surround yourself with good books on any and every topic. Second,  spend time with people of all ages. And third, say 'Yes.'" She added that indeed she had not intended to drive down from Connecticut. But she remembered her friend and determinedly decided to say … "Yes."
 
-1.  For the Sheer Glorious 24/7 Fun of It! Richard Branson's idea of fun is going head to
-head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his
-wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by
-a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip
+- **For the Sheer Glorious 24/7 Fun of It!** Richard Branson's idea of fun is going head to head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his
+wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip
 alternative." Branson is his brand, he enjoys nutty stunts that personify the brand's "hipness."
-I'm not Branson by a long, long shot; but I understand the guiding impulse. The only reason that I
-take on new stuff, and keep accumulating frequent flyer miles, has long been the unadulterated
-pleasure I get from always marching "the other way"—and in particular storming after those I
-think have let us down—from numbers-obsessed execs to the healthcare industry's lack of rigor
-as measured by hundreds of thousands of preventable annual deaths in the U.S. alone.
-My advice?
-This is strategic: As boss, do your darnedest to "make it fun," "make it a ride to remember,"
-"make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like
-Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
-NO
-1.  "To Don'ts" Are More Important Than "To-Dos" My friend Dennis is a prominent
-educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll
-out his program across the country. Suddenly, he was required to turn his innovative ideas into a
-system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10
-ideas a minute—moreover, all 10 are usually good ideas. And so his talented staff ran around
-madly working on exciting this or exciting that. But now he had that "low variation" system to
-run—and things promised to be different. I attended a meeting of his advisory Committee at a
-critical moment. The Chairman had been CEO of an enormous firm. I will always remember a
-single line that emerged from the fellow's mouth:
-"Dennis, you need a 'to-don't' list."
-In simple language: What you decide not to do is probably more important that what you decide
-to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold
-standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding
-board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the
-woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be
-spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
-1.  Some Things Worth Doing Are Worth Doing Not Particularly Well. The reminder
-came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I
-cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I
-went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at 
-28
-myself. The pan was sanitary and "clean enough," plus I really didn't need to treat the effort like a
-speech to Fortune 50 CEOs.
-The micro-event (I did stop) reminded me of the Greater Truth. In a world (personal,
-professional) of limited resources (time, in this instance, time in most instances) and priorities of
-the utmost importance (to you and me at any rate), there's a lot of "stuff" that must be done—but
-for which "good enough" is in fact good enough. For some of us making the distinction is easier
-said than done—and the cost for not figuring out the difference is high.
+  - This is strategic: As boss, do your darnedest to "make it fun," "make it a ride to remember," "make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
 
-CUSTOMERS
+## NO
+
+- **"To Don'ts" Are More Important Than "To-Dos"** My friend Dennis is a prominent educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll out his program across the country. Suddenly, he was required to turn his innovative ideas into a system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10 ideas a minute—moreover, all 10 are usually good ideas. And so his talented staff ran around madly working on exciting this or exciting that. But now he had that "low variation" system to run—and things promised to be different. I attended a meeting of his advisory Committee at a critical moment. The Chairman had been CEO of an enormous firm. I will always remember a single line that emerged from the fellow's mouth:
+  - *"Dennis, you need a 'to-don't' list."*
+
+  - In simple language: What you decide not to do is probably more important that what you decide to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
+
+- **Some Things Worth Doing Are Worth Doing Not Particularly Well**. The reminder came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at  myself. The pan was sanitary and "clean enough," plus I really didn't need to treat the effort like a speech to Fortune 50 CEOs.
+  - The micro-event (I did stop) reminded me of the Greater Truth. In a world (personal, professional) of limited resources (time, in this instance, time in most instances) and priorities of the utmost importance (to you and me at any rate), there's a lot of "stuff" that must be done—but for which "good enough" is in fact good enough. For some of us making the distinction is easier said than done—and the cost for not figuring out the difference is high.
+
+## CUSTOMERS
+
 72. It's 11 A.M.—Have You Called a Customer Today?
 Stop.
 Now.
