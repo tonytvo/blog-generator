@@ -687,21 +687,12 @@ surprise, I scored 15/20—"highly spiritual, a real mystic."
 
 ## ACTION
 
-76. "Trying My Damnedest!" Wrong Answer! Long story, but as a junior officer (U.S.
-Navy) in Vietnam, I once answered a general with, in part, "I'm doing my best." He erupted, a
-true Vesuvius. It is not enough, he said with an icy stare, to do one's best [in taking care of my
-sailors], I must do it, period. [A parallel Churchill quote goes like this: "It is not enough to do
-your best—you must succeed in doing what is necessary."] All I can say, 43 years later, is that the
-lesson took.
-Consider: "A man approached J.P. Morgan, held up an envelope, and said, 'Sir, in my hand I hold
-a guaranteed formula for success, which I will gladly sell you for $25,000.'
-'Sir,' J.P. Morgan replied, 'I do not know what is in the envelope; however, if you show it to me,
-and I like it, I give you my word a as gentleman that I will pay you what you ask.' The man
-agreed to the terms, and handed over the envelope. J.P. Morgan opened it, and extracted a single
-sheet of paper. He gave it one look, a mere glance, then handed the piece of paper back to the
-gent. And paid him the agreed-upon $25,000. The contents of the note:
-"1. Every morning, write a list of the things that need to be done that day.
-"2. Do them."
+- **"Trying My Damnedest!" Wrong Answer!** Long story, but as a junior officer (U.S. Navy) in Vietnam, I once answered a general with, in part, "I'm doing my best." He erupted, a true Vesuvius. It is not enough, he said with an icy stare, to do one's best [in taking care of my sailors], I must do it, period. [A parallel Churchill quote goes like this: "It is not enough to do your best—you must succeed in doing what is necessary."] All I can say, 43 years later, is that the lesson took.
+  - Consider: "A man approached J.P. Morgan, held up an envelope, and said, 'Sir, in my hand I hold a guaranteed formula for success, which I will gladly sell you for $25,000.'
+'Sir,' J.P. Morgan replied, 'I do not know what is in the envelope; however, if you show it to me, and I like it, I give you my word a as gentleman that I will pay you what you ask.' The man agreed to the terms, and handed over the envelope. J.P. Morgan opened it, and extracted a single sheet of paper. He gave it one look, a mere glance, then handed the piece of paper back to the gent. And paid him the agreed-upon $25,000. The contents of the note:
+  - *"1. Every morning, write a list of the things that need to be done that day.*
+  - *"2. Do them."*
+
 77. Captain "Day" and Captain "Night": A Tale of Two Deployments and Two
 Suggestions. As a combat engineer (Seabee) in Vietnam, I made two deployments and had two
 commanding officers, or COs. To this day, I call them "day" and "night." My first CO, Dick
