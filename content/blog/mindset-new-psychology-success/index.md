@@ -561,14 +561,9 @@ line of code … which deals with ... one ... of Erik's issues.
   - Nine out of 10 of Erik's issues are still not addressed ...but ... you changed ... SOMETHING ... DIRECTLY ... BECAUSE OF ERIK!
   - In 4.2 out of 5 cases, Erik flips from thorn in your side to fellow champion! Suddenly the whole damn thing is "Erik's project"! In Erik's mind, the whole thing would have collapsed without his precious, save-your-ass input!
 
-- **"Suck Down" for Success.** Forget "sucking up"—it's a low-odds strategy. If you are willing to invest the time, and it takes time, "sucking down" is a high-odds affair—to paraphrase
-the immortal robber Willy Sutton on why he chose to knock off banks, "It's where the money is." (Oh is it ever!) In addition to the plain fact that "down there" is where the real work is done,
-indirectly, where the deal is effectively done, the folks a couple of levels "down" ["down" always in quotes—"'down' is the real 'up'" is the anthem here] are typically bowled over by your time and
-attention—we all crave being taken seriously. Hence, the next thing you know (after a lot of work) you've got a network to die for in the bowels of the customer organization working for
-you—and it's a network, typically, with staying power; there's not so much volatility "down there."
-  - As always, the point is not "catch as catch can" or "a good idea." It's about a well thought-out scheme, in fact, no less than a "way of life"—a measured, systematic effort to penetrate the ranks
-of a client organization and develop a set of relationships with the real deal makers! (Hint: As in so many implementation issues, women are instinctively better at this than men.)
-(NB: Alternate formulation to "Suck down for success": "Success does not depend on 'the people you know in high places'—it depends on 'the people you know in low places.'")
+- **"Suck Down" for Success.** Forget "sucking up"—it's a low-odds strategy. If you are willing to invest the time, and it takes time, "sucking down" is a high-odds affair—to paraphrase the immortal robber Willy Sutton on why he chose to knock off banks, "It's where the money is." (Oh is it ever!) In addition to the plain fact that "down there" is where the real work is done, indirectly, where the deal is effectively done, the folks a couple of levels "down" ["down" always in quotes—"'down' is the real 'up'" is the anthem here] are typically bowled over by your time and attention—we all crave being taken seriously. Hence, the next thing you know (after a lot of work) you've got a network to die for in the bowels of the customer organization working for you—and it's a network, typically, with staying power; there's not so much volatility "down there."
+  - As always, the point is not "catch as catch can" or "a good idea." It's about a well thought-out scheme, in fact, no less than a "way of life"—a measured, systematic effort to penetrate the ranks of a client organization and develop a set of relationships with the real deal makers! (Hint: As in so many implementation issues, women are instinctively better at this than men.)
+  - (NB: Alternate formulation to "Suck down for success": "Success does not depend on 'the people you know in high places'—it depends on 'the people you know in low places.'")
 
 - **Formula for Success: C(I) > C(E).** I've long argued that the set of relationships inside your own company is almost as important as the relationships with external bill-paying
 customers. While it may not be a universal truth, it struck me as I talked to a GE group that sold big international projects that in many cases our Internal Customers/"C(I)" are in more important
@@ -633,87 +628,64 @@ a Monster Opportunity. Want great cross-functional cooperation-opportunity maxim
   - When we arrived in town from Vermont, we were therefore nonplussed to find a message from Joan, saying, "I'll be arriving at 7." We obviously asked her why she'd changed her mind.
   - "I decided to say 'Yes.'" She recalled a friend who'd had a vigorous life into her 90s. "She said she had three 'secrets': First, surround yourself with good books on any and every topic. Second,  spend time with people of all ages. And third, say 'Yes.'" She added that indeed she had not intended to drive down from Connecticut. But she remembered her friend and determinedly decided to say … "Yes."
 
-- **For the Sheer Glorious 24/7 Fun of It!** Richard Branson's idea of fun is going head to head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his
-wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip
-alternative." Branson is his brand, he enjoys nutty stunts that personify the brand's "hipness."
-  - This is strategic: As boss, do your darnedest to "make it fun," "make it a ride to remember," "make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
+- **For the Sheer Glorious 24/7 Fun of It!** Richard Branson's idea of fun is going head to head in the ring with someone who has him by a jillion pounds. As Michael Specter wrote in his wonderful New Yorker profile ("Branson's Luck"), "Branson likes to enter a market controlled by a giant ... British Airways, say, or Coke or Murdoch. Then he presents himself as the hip alternative." Branson is his brand, he enjoys nutty stunts that personify the brand's "hipness."
+  - I'm not Branson by a long, long shot; but I understand the guiding impulse. The only reason that I take on new stuff, and keep accumulating frequent flyer miles, has long been the unadulterated pleasure I get from always marching "the other way"—and in particular storming after those I think have let us down—from numbers-obsessed execs to the healthcare industry's lack of rigor as measured by hundreds of thousands of preventable annual deaths in the U.S. alone.
+  - *This is strategic:* As boss, do your darnedest to "make it fun," "make it a ride to remember," "make it a bloody ball"! Though you don't need to do round-the-world balloon escapades like Branson, your Job #1, or at least Job #2, is to in fact ... "make it fun/cool."
 
 ## NO
 
-- **"To Don'ts" Are More Important Than "To-Dos"** My friend Dennis is a prominent educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll out his program across the country. Suddenly, he was required to turn his innovative ideas into a system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10 ideas a minute—moreover, all 10 are usually good ideas. And so his talented staff ran around madly working on exciting this or exciting that. But now he had that "low variation" system to run—and things promised to be different. I attended a meeting of his advisory Committee at a critical moment. The Chairman had been CEO of an enormous firm. I will always remember a single line that emerged from the fellow's mouth:
+- **"To Don'ts" Are More Important Than "To-Dos"** My friend Dennis is a prominent
+educator. A few years ago he received a huge $$$ grant—and he was given the opportunity to roll out his program across the country. Suddenly, he was required to turn his innovative ideas into a system that could be replicated by "ordinary people." Dennis is "one of those people" who has 10 ideas a minute—moreover, all 10 are usually good ideas. And so his talented staff ran around madly working on exciting this or exciting that. But now he had that "low variation" system to run—and things promised to be different. I attended a meeting of his advisory Committee at a critical moment. The Chairman had been CEO of an enormous firm. I will always remember a single line that emerged from the fellow's mouth:
   - *"Dennis, you need a 'to-don't' list."*
+- In simple language: What you decide not to do is probably more important that what you decide to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
 
-  - In simple language: What you decide not to do is probably more important that what you decide to do. (A lot of smart-wise people agree on this, super-coach Marshall Goldsmith, the gold standard, among them.) But you probably can't work on "to-don't" alone—you need a sounding board/mentor/advisor/nag you trust to act as a Drill Sergeant who will frog-march you to the woodshed when you stray and start doing those time-draining "to don'ts." (Said advisor could be spouse, professional coach, other, need not be expert in your world, and must be totally trusted.)
-
-- **Some Things Worth Doing Are Worth Doing Not Particularly Well**. The reminder came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at  myself. The pan was sanitary and "clean enough," plus I really didn't need to treat the effort like a speech to Fortune 50 CEOs.
-  - The micro-event (I did stop) reminded me of the Greater Truth. In a world (personal, professional) of limited resources (time, in this instance, time in most instances) and priorities of the utmost importance (to you and me at any rate), there's a lot of "stuff" that must be done—but for which "good enough" is in fact good enough. For some of us making the distinction is easier said than done—and the cost for not figuring out the difference is high.
+- **Some Things Worth Doing Are Worth Doing Not Particularly Well.** The reminder
+came one night as I was doing dishes. I was dealing with a particularly resistant old baking pan. I cleaned up the food residue—it was fully sanitary. But there was some crusty crap left, which I went after with a vengeance—but somewhat unsuccessfully. At one point I started laughing at myself. The pan was sanitary and "clean enough," plus I really didn't need to treat the effort like a speech to Fortune 50 CEOs.
+The micro-event (I did stop) reminded me of the Greater Truth. In a world (personal,
+professional) of limited resources (time, in this instance, time in most instances) and priorities of the utmost importance (to you and me at any rate), there's a lot of "stuff" that must be done—but for which "good enough" is in fact good enough. For some of us making the distinction is easier said than done—and the cost for not figuring out the difference is high.
 
 ## CUSTOMERS
 
-72. It's 11 A.M.—Have You Called a Customer Today?
-Stop.
-Now.
-Call a Customer.
-Out of the Blue.
-"How can I help?"
-"Have we delivered on every promise, implicit as well as explicit?"
-Listen and take copious notes.
-Follow-up instantly on at least one "little" thing.
-Repeat. 48-hours hence.
-Hint: This applies to 100% of us.
-73. There's Nothing But Nothing Cooler Than an Angry Customer!
-"The problem is almost never the problem. The problem is invariably the response to the
-problem."—anon.
-Bizarre but true: Our most loyal customers are ones who had a problem with us ... and then
-marveled when we went the Extra Ten Miles at the Speed of Light to fix it!
-Business opportunity No.1* = Irate customers converted into fans. (*Yes, No.1.)
-So ... are you on the active prowl for customer problems to fix? Rules:
-Make "over"-reacting to problems a keystone in the corporate culture, a plank in the Corporate
-Values statement. ("We respond to customers with passion and rapidity and resources in ways
-that stun-amaze-overwhelm those customers 100.00% of the time.")
-Reward (BIG TIME.) those who unearth ... and report ... customer problems.
-"Over"-connect: let the customer know ASAP (!!), and update constantly—even if there is
-absolutely nothing to report.
-29
-Ensure that there are devoted resources at the ready to respond to problems. (No matter how good
-your systems, there will be problems—be staffed adequately, and then some, to respond at
-lightening speed.)
-Repeat: Business opportunity No.1 = Irate customers converted into outspoken fans.
-74. What We Have Here Is a Failure to Over-Communicate. I was flying home from Mexico
-City to Boston, on Delta, via Atlanta. The ATL-BOS leg was delayed about 75 minutes: Never
-once did waiting area personnel or the pilot provide any explanation whatsoever. I do not
-exaggerate. Not one bloody, frigging word.
-No, this is not really news in "airline service sucks significantly land." Nonetheless, it serves as a
-not-quite-friendly alarm bell to all of us in any and every circumstance, signaling the ... Insanely
-Important Value of Keeping People Informed/Over-informed 100.00% of the Time.
-We can almost all deal quite well with shit—we all/almost all deal very poorly with uncertainty.
-Tell me it'll probably be a 90-minute delay because the pilot is in the bar popping Tequila shots—
-and I'm fine. (More or less.) Total Silence? I'm on edge, pissed off as hell.
-(Play back the last 24 or 48 hours. Is there an instance where you have failed to Fully Inform a
-Client, or other stakeholder, of a delay, wee or grand, or glitch? If your answer is "nope, all is
-well"—you are a dunce.)
-75. Be "Entwined" with Your Client Came across, stuck in a book, the torn-out cover story
-from Time, 25 October 2004, "The God Gene." There was a quiz therein, "How Spiritual Are
-You?" I imagined, as a not particularly "religious person," I'd be in the lower quartile. But to my
+- **It's 11 A.M.—Have You Called a Customer Today?**
+
+  - Call a Customer.
+  - Out of the Blue.
+  - "How can I help?"
+  - "Have we delivered on every promise, implicit as well as explicit?"
+  - Listen and take copious notes.
+  - Follow-up instantly on at least one "little" thing.
+  - Repeat. 48-hours hence.
+  - Hint: This applies to 100% of us.
+
+- **There's Nothing But Nothing Cooler Than an Angry Customer!**
+
+  - "The problem is almost never the problem. The problem is invariably the response to the
+  problem."—anon. Bizarre but true: Our most loyal customers are ones who had a problem with us ... and then marveled when we went the Extra Ten Miles at the Speed of Light to fix it!
+  - **Business opportunity No.1* = Irate customers converted into outspoken fans. (*Yes, No.1.)**
+  - So ... are you on the active prowl for customer problems to fix? Rules: 
+    - Make "over"-reacting to problems a keystone in the corporate culture, a plank in the Corporate Values statement. ("We respond to customers with passion and rapidity and resources in ways that stun-amaze-overwhelm those customers 100.00% of the time.")
+    - Reward (BIG TIME.) those who unearth ... and report ... customer problems.
+    - "Over"-connect: let the customer know ASAP (!!), and update constantly—even if there is absolutely nothing to report.
+
+  - Ensure that there are devoted resources at the ready to respond to problems. (No matter how good your systems, there will be problems—be staffed adequately, and then some, to respond at lightening speed.)
+
+- **What We Have Here Is a Failure to Over-Communicate.** I was flying home from Mexico
+City to Boston, on Delta, via Atlanta. The ATL-BOS leg was delayed about 75 minutes: Never once did waiting area personnel or the pilot provide any explanation whatsoever. I do not exaggerate. Not one bloody, frigging word.
+  - No, this is not really news in "airline service sucks significantly land." Nonetheless, it serves as a not-quite-friendly alarm bell to all of us in any and every circumstance, signaling the ... Insanely Important Value of Keeping People Informed/Over-informed 100.00% of the Time.
+  - We can almost all deal quite well with shit—we all/almost all deal very poorly with uncertainty. Tell me it'll probably be a 90-minute delay because the pilot is in the bar popping Tequila shots— and I'm fine. (More or less.) Total Silence? I'm on edge, pissed off as hell.
+  - (Play back the last 24 or 48 hours. Is there an instance where you have failed to Fully Inform a Client, or other stakeholder, of a delay, wee or grand, or glitch? If your answer is "nope, all is well"—you are a dunce.)
+
+- **Be "Entwined" with Your Client** 
+  - Came across, stuck in a book, the torn-out cover story from Time, 25 October 2004, "The God Gene." There was a quiz therein, "How Spiritual Are You?" I imagined, as a not particularly "religious person," I'd be in the lower quartile. But to my
 surprise, I scored 15/20—"highly spiritual, a real mystic."
-Here's Question #1, to which I instantly answered "Yes": "I often feel so connected to the people
-around me that it is as if there is no separation between us."
-Of course!
-That's what my "speaking career" is all about!!
-That's how I make a difference!!
-No-Zero-Nada-Zip degrees of separation!!
-So: Are you "one with your clients"—effectively "spiritually" entwined with those clients? Do
-you truly "get them"?
-Richard Branson does.
-Bill Marriott does.
-Sam Walton did.
-Anita Roddick did.
-Lee Iacocca does/did.
-(Would you buy a car from this man?)
-Rick Wagoner—former GM boss—did not.
-(Would you buy a car from this man?)
-30
-ACTION
+  - Here's Question #1, to which I instantly answered "Yes": "I often feel so connected to the people around me that it is as if there is no separation between us."
+  - Of course!
+    - That's what my "speaking career" is all about!!
+    - That's how I make a difference!!
+    - No-Zero-Nada-Zip degrees of separation!!
+  - So: Are you "one with your clients"—effectively "spiritually" entwined with those clients? Do you truly "get them"?
+
+## ACTION
 
 76. "Trying My Damnedest!" Wrong Answer! Long story, but as a junior officer (U.S.
 Navy) in Vietnam, I once answered a general with, in part, "I'm doing my best." He erupted, a

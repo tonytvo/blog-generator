@@ -1,6 +1,6 @@
 ---
 title: The Intelligent Asset Allocator by William Bernstein Summary
-date: "2022-02-5T22:12:03.284Z"
+date: "2022-02-05T22:12:03.284Z"
 description: "The Intelligent Asset Allocator by William Bernstein Summary"
 tags: ["investing", "assetallocation"]
 ---
