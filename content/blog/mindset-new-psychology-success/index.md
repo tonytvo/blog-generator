@@ -693,23 +693,13 @@ surprise, I scored 15/20—"highly spiritual, a real mystic."
   - *"1. Every morning, write a list of the things that need to be done that day.*
   - *"2. Do them."*
 
-77. Captain "Day" and Captain "Night": A Tale of Two Deployments and Two
-Suggestions. As a combat engineer (Seabee) in Vietnam, I made two deployments and had two
-commanding officers, or COs. To this day, I call them "day" and "night." My first CO, Dick
-Anderson (CAPTAIN Anderson!), was "day." Our job was to build stuff—roads, bridges, camps,
-gun emplacements, etc.—mostly for the U.S. Marine Corps. Captain Andy's approach could be
-summarized in three words, subsequently made immortal by Nike; namely, "Just do it." Above
-all, Captain Andy wanted no damned excuses. The upshot was that we got a lot of work done, and
+- **Captain "Day" and Captain "Night": A Tale of Two Deployments and Two
+Suggestions.** As a combat engineer (Seabee) in Vietnam, I made two deployments and had two commanding officers, or COs. To this day, I call them "day" and "night." My first CO, Dick Anderson (CAPTAIN Anderson!), was "day." Our job was to build stuff—roads, bridges, camps,
+gun emplacements, etc.—mostly for the U.S. Marine Corps. Captain Andy's approach could be summarized in three words, subsequently made immortal by Nike; namely, "Just do it." Above all, Captain Andy wanted no damned excuses. The upshot was that we got a lot of work done, and
 done well, in short order.
-Deployment #2 brought Captain "Night," whose name shall not be mentioned. He had a different
-style of "leadership" entirely. It's often called "by the book." He was a stickler for the formalities.
-I sometimes thought and think that he was more interested in typo-free reports of jobs not yet
-done than hell-and-high-water-completed construction. I had a crappy time, as did pretty much
-the whole set of junior officers; and our track record in getting things done for our customers was
-less than sterling.
-Between the two, I had pretty much all I needed for a successful management career. When faced
-with a thorny issue, I try to follow Captain Andy's rules—and avoid the approach of Capt. Night
-at all costs.
+  - Deployment #2 brought Captain "Night," whose name shall not be mentioned. He had a different style of "leadership" entirely. It's often called "by the book." He was a stickler for the formalities. I sometimes thought and think that he was more interested in typo-free reports of jobs not yet done than hell-and-high-water-completed construction. I had a crappy time, as did pretty much the whole set of junior officers; and our track record in getting things done for our customers was less than sterling. 
+  - Between the two, I had pretty much all I needed for a successful management career. When faced with a thorny issue, I try to follow Captain Andy's rules—and avoid the approach of Capt. Night at all costs.
+
 78. If You Want To Find Oil, You Must Drill Wells. Right after publishing In Search of
 Excellence, I received a nice note in the mail accompanied by an inscribed book: The Hunters by
 John Masters, a successful Canadian Oil & Gas wildcatter. Here is the excerpt I underlined 25
