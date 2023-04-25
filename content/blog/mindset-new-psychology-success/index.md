@@ -700,27 +700,18 @@ done well, in short order.
   - Deployment #2 brought Captain "Night," whose name shall not be mentioned. He had a different style of "leadership" entirely. It's often called "by the book." He was a stickler for the formalities. I sometimes thought and think that he was more interested in typo-free reports of jobs not yet done than hell-and-high-water-completed construction. I had a crappy time, as did pretty much the whole set of junior officers; and our track record in getting things done for our customers was less than sterling. 
   - Between the two, I had pretty much all I needed for a successful management career. When faced with a thorny issue, I try to follow Captain Andy's rules—and avoid the approach of Capt. Night at all costs.
 
-78. If You Want To Find Oil, You Must Drill Wells. Right after publishing In Search of
-Excellence, I received a nice note in the mail accompanied by an inscribed book: The Hunters by
-John Masters, a successful Canadian Oil & Gas wildcatter. Here is the excerpt I underlined 25
+- **If You Want To Find Oil, You Must Drill Wells.** Right after publishing In *Search of Excellence*, I received a nice note in the mail accompanied by an inscribed book: The Hunters by John Masters, a successful Canadian Oil & Gas wildcatter. Here is the excerpt I underlined 25
 years ago, and have battered seminar participants with ever since:
-"This is so simple it sounds stupid, but it is amazing how few oil people really understand that
-you only find oil if you drill wells. You may think you're finding it when you're drawing maps and
-studying logs, but you have to drill."
-31
-Message: YOU HAVE TO DRILL!
-I sometimes, and not in jest, call "it" "the only thing I've learned 'for sure' in the last 44 years."
-Namely, She or he who tries the most stuff ... wins! Naturally I've collected a ton of supporting
-quotes to support my bias for a "bias for action." A few of my favorites:
-"We have a strategic plan. It's called doing things." —Herb Kelleher, founder, Southwest
-Airlines
-"READY. FIRE. AIM."—Ross Perot (and others)
-"Blame no one.
-"Expect nothing.
-"Do something."
-—Locker room sign posted by football coach Bill Parcells
-"You miss 100 percent of the shots you never take."—Wayne Gretzky
-CHANGE
+  - "This is so simple it sounds stupid, but it is amazing how few oil people really understand that you only find oil if you drill wells. You may think you're finding it when you're drawing maps and studying logs, but you have to drill."
+
+  - Message: YOU HAVE TO DRILL!
+    - I sometimes, and not in jest, call "it" "the only thing I've learned 'for sure' in the last 44 years." Namely, She or he who tries the most stuff ... wins! Naturally I've collected a ton of supporting quotes to support my bias for a "bias for action." A few of my favorites:
+"We have a strategic plan. It's called doing things." —Herb Kelleher, founder, Southwest Airlines
+  - "READY. FIRE. AIM."—Ross Perot (and others)
+  - "Blame no one.", Expect nothing, "Do something." —Locker room sign posted by football coach Bill Parcells
+  - "You miss 100 percent of the shots you never take."—Wayne Gretzky
+
+## CHANGE
 
 79. Zen and the Art of Achieving Change Where It Already Exists.
 "Some people look for things that went wrong and try to fix them. I look for things
