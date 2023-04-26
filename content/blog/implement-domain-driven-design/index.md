@@ -695,7 +695,7 @@ where development failure in either of two contexts would result in delivery fai
         - dont't hold back from modest improvements, which gradually deepen the model, even if confined within the same general conceptual framework. Don't be paralyzed by looking too far forward. Just be watchful for the opportunity.
         - ![another model breakthrough where contrains on transactions could be expressed with easy precision](./another-model-breakthrough-contrains-transactions.png)
 
-  - How software experts can work with domain experts to explore and refine models.
+  - How software experts can work with domain experts to explore and refine models?
     - **many transformations of domain models and the corresponding code happen when developers recognize a concept that has been hinted at in discussion or present implicitly in the design, and they then represent it explicitly in the model with one or more objects or relationships.**
     - **listen to the language the domain experts use. Are there terms that succinctly state something complicated? Are they correcting your word choice (perhaps diplomatically)? do the puzzled looks on their faces go away when you use a particular phrase? These are hints of a concept that might benefit the model.**
     - ![original cargo design with database](./original-cargo-design-with-database.png)
@@ -710,6 +710,15 @@ where development failure in either of two contexts would result in delivery fai
     - **scrutinize awkwardness**
       - the place to dig is the most awkward part of your design. The place where procedures are doing complicated things that are hard to explain. The place where every new requirements seems to add complexity
       - If you are lucky, the domain experts may enjoy playing with ideas and experimenting with the model. If you are not that lucky, you and your fellow developers will have to come up with the ideas, using the domain expert as a validator, watching for discomfort or recognition on this or her face.
+    - **business rules often do not fit the responsibility of any of the obvious ENTITIES OR VALUE OBJECTS, their variety and combinations can overwhelm the basic meaning of the domain object. But moving the rules out of the domain layer is even worse, since the domain code no longer express the model. Logic programming provides the concept of separate, combinable, rule objects called "predicates", but full implementation of this object is cumbersome. It is also so general that it doesn't communicate  intent as much as more specialized designs**
+    - **create explicit predicate-like VALUE object for specialized purposes. A SPECIFICATION is a predicate that determines if an object does or does not satisfy some criteria**
+    - **Contemplate contradictions**
+      - Different domain experts can have different views on a particular part of the domain, according to their knowledge and experience.
+      - Most of the times, the contradictions are merely terminology differences and misunderstandings, however sometimes there is an actual clash of ideas.
+      - Either way, when we find a contradiction, we need to clarify it with the domain experts.
+    - read the book on the domain
+    - **try, try again**
+      - All the knowledge crunching is interactive, it doesn’t happen in one go. It involves a lot of experimentation, a lot of trial and error. It takes time, but it deepens the model, it makes the model reflect what is indeed needed and, in the long run, it ends up being faster.
   
   - Supple Design: How a system can become easier to extend and adapt rather than ossifying into legacy?
     - **explicit constraints**
@@ -719,6 +728,11 @@ where development failure in either of two contexts would result in delivery fai
         - related rules appear in multiple objects, forcing duplication or inheritance between objects that are not otherwise family
         - a lot of design and requirements conversation revolves around the constraints, but in the implementation, they are hidden away in procedural code.
       - when the constraints are obscuring the object's basic responsibility, or when the constraint is prominent in the domain yet not prominent in the model, you can factor it out into an explicit object or even model it as a set of objects and relationships.
+    - For this, the **SPECIFICATION Design Pattern** comes up: **A class who’s only purpose is to evaluate if a specific condition/predicate/business rule is met**
+      - Eric Evans identifies 3 situations where we should use a Specification pattern:
+        - **Validation**: Validate if an object fulfills some need or is ready for some purpose;
+        - **Selection**: To select an object from an hydrated collection by cycling through all elements and filtering them or by using a query language like SQL, although in this case we should put the actual SQL outside of the Specification class, in a Repository.
+        - **Generation**: Specify what object to create to fit some need. This means we can pass a Specification into a Factory and have it decide what object to instantiate, and how.
     - ![supple design overview](./supple-design-overview.png)
     - [supple design](#supple-design)
   
@@ -909,6 +923,8 @@ Cohesive Mechanisms are used to encapsulate complex operations used by the Domai
 Realizing that your best idea is likely to get in somebody’s way takes humility
 
 The essence of good object design is to give each object a clear and narrow responsibility and to reduce interdependency to an absolute minimum
+
+A named thing we can discuss
 
 
 **still under constructions**
