@@ -713,29 +713,17 @@ years ago, and have battered seminar participants with ever since:
 
 ## CHANGE
 
-79. Zen and the Art of Achieving Change Where It Already Exists.
-"Some people look for things that went wrong and try to fix them. I look for things
-that went right and try to build on them."—Bob Stone/Mr. ReGo/VP Al Gore's point
-man for "reinventing government"
-"Somewhere in your organization, groups of people are already doing things differently and
-better. To create lasting change, find these areas of positive deviance and fan the flames."—
-Richard Tanner Pascale & Jerry Sternin, "Your Company's Secret Change Agents," Harvard
-Business Review
-Bob Stone was a Zen master, a Sumo wrestler—a Master of Indirection. He knew he could not
-force change on the Federal bureaucracy; even the President rarely succeeds by frontal assault.
-But he also knew there were astonishingly effective, renegade Civil Servants at work in the
-underbelly of the system—plying their effective-but-scorned trade as far from the light as
-possible. The trick was to discover their existence and induce them to "come out" and serve as
-visible role models/"benchmarks" to their more timid peers.
-Message:
-(1) Comb the underground for "troublemakers" who are creating and living tomorrow
- today.
-(2) Anoint them as Public Paragons of the New Deal-to-Be.
-(3) Encourage others to visit them and observe palpable models of new ways of doing
- business.
-(4) Applaud the Nouveau Copycats of the First Round Pioneers—and grow the Renegade
- Brigade as rapidly as possible.
-32
+- **Zen and the Art of Achieving Change Where It Already Exists.**
+
+  - "Some people look for things that went wrong and try to fix them. I look for things that went right and try to build on them."—Bob Stone/Mr. ReGo/VP Al Gore's point man for "reinventing government" 
+  - "Somewhere in your organization, groups of people are already doing things differently and better. To create lasting change, find these areas of positive deviance and fan the flames."— Richard Tanner Pascale & Jerry Sternin, "Your Company's Secret Change Agents," Harvard Business Review
+  - Bob Stone was a Zen master, a Sumo wrestler—a Master of Indirection. He knew he could not force change on the Federal bureaucracy; even the President rarely succeeds by frontal assault. But he also knew there were astonishingly effective, renegade Civil Servants at work in the underbelly of the system—plying their effective-but-scorned trade as far from the light as possible. The trick was to discover their existence and induce them to "come out" and serve as visible role models/"benchmarks" to their more timid peers.
+  - Message:
+    - (1) Comb the underground for "troublemakers" who are creating and living tomorrow  today.
+    - (2) Anoint them as Public Paragons of the New Deal-to-Be.
+    - (3) Encourage others to visit them and observe palpable models of new ways of doing  business.
+    - (4) Applaud the Nouveau Copycats of the First Round Pioneers—and grow the Renegade Brigade as rapidly as possible.
+
 80. The Way of the Demo. Change in "big" places is mostly a result of showing off "demos"
 from modest-sized "cool" places! (This happens also to be true with individual change.) You've
 got a great new software solution to a purchasing conundrum. You need a test bed. At a meeting,
