@@ -724,23 +724,12 @@ years ago, and have battered seminar participants with ever since:
     - (3) Encourage others to visit them and observe palpable models of new ways of doing  business.
     - (4) Applaud the Nouveau Copycats of the First Round Pioneers—and grow the Renegade Brigade as rapidly as possible.
 
-80. The Way of the Demo. Change in "big" places is mostly a result of showing off "demos"
-from modest-sized "cool" places! (This happens also to be true with individual change.) You've
-got a great new software solution to a purchasing conundrum. You need a test bed. At a meeting,
-you get into a private discussion with the on-the-make General Manager of a small division of
-BigCo in Ireland; she thinks your new software is off-the-charts good, and is keen to get a jump
-on others by becoming an early adopter. Once she's done her bit, you can say to the slugabed bigdivision General Managers, "Why don't you go and look at what the Irish have done with this—it
-changed their world."
-To succeed with "new stuff," you must find ... Kindred Spirits ... those who will ... Play with You
-(and your "cool stuff") ... which in turn provides you with ... "Demos" ... that you can Tout Far &
-Wide.
-I call "it": THE WAY OF THE DEMO. And I will boldly state: Selling-by-demo is the singlebest way to accelerate acceptance of a novel (=scary) idea.
-NO DEMO.
-NO DEAL.
-PERIOD.
-(I used the example of internal sales—precisely the same approach works wonders in external
-sales. Message: Do not, except in rare circumstances start by making presentations to "the big
-guys.")
+- **The Way of the Demo.** Change in "big" places is mostly a result of showing off "demos" from modest-sized "cool" places! (This happens also to be true with individual change.) You've got a great new software solution to a purchasing conundrum. You need a test bed. At a meeting, you get into a private discussion with the on-the-make General Manager of a small division of BigCo in Ireland; she thinks your new software is off-the-charts good, and is keen to get a jump on others by becoming an early adopter. Once she's done her bit, you can say to the slugabed bigdivision General Managers, "Why don't you go and look at what the Irish have done with this—it changed their world."
+  - To succeed with "new stuff," you must find ... Kindred Spirits ... those who will ... Play with You (and your "cool stuff") ... which in turn provides you with ... "Demos" ... that you can Tout Far & Wide.
+  - I call "it": THE WAY OF THE DEMO. And I will boldly state: Selling-by-demo is the singlebest way to accelerate acceptance of a novel (=scary) idea.
+  - NO DEMO. NO DEAL. PERIOD.
+    - (I used the example of internal sales—precisely the same approach works wonders in external sales. Message: Do not, except in rare circumstances start by making presentations to "the big guys.")
+
 81. Big Change—All at Once! I am an avowed incrementalist—even if the eventual aim is
 stratospherically high. That is, get going ASAP—and quickly experiment your way toward/to
 success. But when my wife and I had a Grand Idea in 2008 for a landscaping project that would
