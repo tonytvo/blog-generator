@@ -84,71 +84,71 @@ Trackable, measurable, use compelling copy, includes multi-step, short-term foll
 
 
 ## Delivering a World-Class Experience
-- One of the things that separates extraordinary businesses from ordinary ones is that they lead tribes, tribes of raving fans— not just customers.
+- One thing that separates extraordinary businesses from ordinary ones is that they lead tribes, tribes of raving fans— not just customers.
 - Here are a few of the qualities of these extraordinary businesses that become tribe leaders:
   - They continually focus on wowing their customers, which turns them into raving fans
   - They create and foster lifetime relationships
   - They make it easy and fun to deal with them
-  - They create a sense of theater around their products and services
+  - They create a sense of theatre around their products and services
   - They have systems so that they can reliably and consistently deliver a great experience
 - Do anything other than stay a boring commodity - be innovative in every aspect of your business.
-- Become a major voice of value to your customers.
-- **One of the major distinctions between successful entrepreneurs and “wantrepreneurs” is that successful entrepreneurs are predominantly content creators whereas wantrepreneurs are predominantly content consumers**. Even more than just content creators, successful entrepreneurs are often prolific content creators.
+- Become a significant voice of value to your customers.
+- **One of the significant distinctions between successful entrepreneurs and “wantrepreneurs” is that successful entrepreneurs are predominantly content creators, whereas wantrepreneurs are predominantly content consumers**. Even more than just content creators, successful entrepreneurs are often prolific content creators.
 - **Tell your audience about all the effort that goes into delivering your product or service.**
 - The fact is, **no one cares about your logo, company name or some dubious claim about being the leader in your industry.**
-- They want to know about what your product will do for them, and your backstory is essential to this.
+- They want to know what your product will do for them, and your backstory is essential.
 - **Products Make You Money, Systems Make You a Fortune**
   - The most valuable business systems are those which are replicable. If your business relies on a genius or superstar talent at the center of it, then it will be difficult or impossible to replicate.
   - **Systems allow mere mortals to run an extraordinary business.**
-  - There are four main types of business systems you need to create, regardless of what type of business you’re in. You’re almost guaranteed to make a fortune, if you can create scalable and replicable systems in these four areas of your business:
+  - There are four main types of business systems you need to create, regardless of what type of business you’re in. You’re almost guaranteed to make a fortune if you can create scalable and replicable systems in these four areas of your business:
     - **Marketing system**: generate a consistent flow of leads into the business
     - **Sales system**: lead nurturing, follow-up and conversion
     - **Fulfillment system**: the actual thing you do in exchange for the customer’s money
     - **Administration system**: accounts, reception, human resources and so on; support of all the other business functions
-  - If you went overseas for six months, when you came back would your business be in better or worse shape than when you left it? Would you even have a business to come back to?
-  - One of the best tools you can use in building business systems is checklists.
+  - If you went overseas for six months when you returned, would your business be in better or worse shape than when you left it? Would you even have a business to come back to?
+  - One of the best tools to build business systems is checklists.
   - To recap, it’s essentially a three-step process:
     - Identify all the roles in your business
     - Define what tasks each role performs
     - Create checklists for properly completing these tasks
-  - Now scaling becomes super easy - just add people.
+  - Now scaling becomes super easy - add people.
   - Think carefully about how you want to exit - you’ll rarely make as much money running a business as you will selling one.
 
 
 ## Increasing Customer Lifetime Value
 - The real profit comes from figuring out how to sell more to existing customers.  Five ways to do this:
-- Raise prices (make sure to explain why, explain benefits, or grandfather)
-- Upsell (if they buy primary expensive product, add on smaller items)
+- Raise prices (make sure to explain why, explain benefits or grandfather)
+- Upsell (if they buy the expensive primary product, add on smaller items)
 - Ascension (move customers to higher tier products)
-- Frequency (increasing frequency at which they buy)
+- Frequency (increasing the frequency at which they buy)
 - Some numbers you need to track:
   - **Leads**: calculate the number of new leads that come into your business
   - **Conversion rate**: calculate the percentage of leads you converted into paying customers.
-  - **Average transaction value**: know the average dollar amount that customers spend with you.
+  - **Average transaction value**: know the average amount customers spend with you.
   - **Break-even point**: identify the dollar amount you need to make to keep your doors open.
 - Key metrics to track in subscription business:
   - Monthly recurring revenue
   - Churn rate
   - Customer lifetime value
 - Focus on your “Tribe” customers: 
-  - **The Tribe**: this set of customers are raving fans, supporters and cheerleaders who promote your business and are actively conspiring for your success.
+  - **The Tribe**: this set of customers are raving fans, supporters and cheerleaders promoting your business and actively conspiring for your success.
   - Fire the rest.
 - Another way to categorize customers is using Net Promoter Score (NPS) - positive scores are good, >+50 is excellent
   - The Net Promoter Score is calculated based on responses to a single question, “How likely is it that you would recommend our company/ product/ service to a friend or colleague?”
 
 
 ## Orchestrating and Stimulating Referrals
-- This brings us to **one of the best strategies for getting what you want in business and indeed in life— just ask.**
-- Ask for referrals from customers for whom you’ve delivered a good result, and/or make it known during the sales or on boarding process you expect them to give you referrals.
-- Be specific in your requests for referrals (who you ask and what kind of referral you want to receive).
-- Try and find other complementary businesses that your customer deals with before they deal with you and form partnerships or lead exchanges.
+- This brings us to **one of the best strategies for getting what you want in business and, indeed, in life— ask.**
+- Ask for referrals from customers for whom you’ve delivered a good result, and/or make it known during the sales or onboarding process you expect them to give you referrals.
+- Be specific in your referral requests (who you ask and what kind of referral you want to receive).
+- Try and find other complementary businesses your customer deals with before they deal with you and form partnerships or lead exchanges.
 - Giving a gift card or voucher is a great way to do this.
 - **Building Your Brand**
   - Think of your business as a person. What attributes make up its personality?
   - What’s its name?
   - What does it wear? (i.e., design)
   - How does it communicate? (i.e., positioning)
-  - What are its core values and what does it stand for? (i.e., brand promise)
+  - What are its core values, and what does it stand for? (i.e., brand promise)
   - Who does it associate with? (i.e., target market) Is it well-known? (i.e., brand awareness)
   - When all is said and done, branding is something you do after someone has bought from you rather than something you do to induce them to buy from you.
 
