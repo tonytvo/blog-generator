@@ -730,39 +730,17 @@ years ago, and have battered seminar participants with ever since:
   - NO DEMO. NO DEAL. PERIOD.
     - (I used the example of internal sales—precisely the same approach works wonders in external sales. Message: Do not, except in rare circumstances start by making presentations to "the big guys.")
 
-81. Big Change—All at Once! I am an avowed incrementalist—even if the eventual aim is
-stratospherically high. That is, get going ASAP—and quickly experiment your way toward/to
-success. But when my wife and I had a Grand Idea in 2008 for a landscaping project that would
-change the look and feel of our Farm in Tinmouth VT, we decided, more or less, to ... do it all at
-once. There has been pain from biting off more than we could readily chew, but the story to this
-point has the mark of a real success far beyond our initial imaginings.
-The power of "getting going on everything at once" with but a sliver of a master plan (a couple of
-"napkin" sketches) was that we could envision from the outset the vague outline of what was
-going to (more or less) end up happening—thence we could adjust like crazy, improvise
-constantly, destroy and create using the entire palette, and dramatically reshape the overall
-work, and even the overall concept, as we went along. Which, of course, means we didn't really
-reject my beloved Rapid Experimentation Method—we just did it on and amidst a Grand Platform
+- **Big Change—All at Once!** I am an avowed incrementalist—even if the eventual aim is stratospherically high. That is, get going ASAP—and quickly experiment your way toward/to success. But when my wife and I had a Grand Idea in 2008 for a landscaping project that would change the look and feel of our Farm in Tinmouth VT, we decided, more or less, to ... do it all at once. There has been pain from biting off more than we could readily chew, but the story to this point has the mark of a real success far beyond our initial imaginings.
+  - The power of "getting going on everything at once" with but a sliver of a master plan (a couple of "napkin" sketches) was that we could envision from the outset the vague outline of what was going to (more or less) end up happening—thence we could adjust like crazy, improvise
+constantly, destroy and create using the entire palette, and dramatically reshape the overall work, and even the overall concept, as we went along. Which, of course, means we didn't really reject my beloved Rapid Experimentation Method—we just did it on and amidst a Grand Platform
 called "everything is in motion and up for grabs."
-I'm not sure I'd do things, big things, this way in every instance, but I do think there are times
-when such an "all at once" approach is merited—when you have a Big Idea but need to be living
-"in the middle of it," with all ends loose ends, to figure out what it means.
-82. Big Change—in a Short Time. The story goes that General George Patton turned around a
-bedraggled U.S. Army in North Africa in a matter of a few weeks upon taking charge in 1943.
-(Some say a few days.) Upon taking over a new command, Admiral Lord Nelson would change
-the attitude of an entire fleet in ... less than a week. The CEO of a giant transportation company
-completely upended line officers' responsibility and authority and accountability (increased by an
-order of magnitude) almost "overnight"—literally everyone, including a couple of "hopeless
-bureaucrats," bitched and moaned and rose to the occasion—performance spurted more or less
+  - I'm not sure I'd do things, big things, this way in every instance, but I do think there are times when such an "all at once" approach is merited—when you have a Big Idea but need to be living "in the middle of it," with all ends loose ends, to figure out what it means.
+82. Big Change—in a Short Time. The story goes that General George Patton turned around a bedraggled U.S. Army in North Africa in a matter of a few weeks upon taking charge in 1943. (Some say a few days.) Upon taking over a new command, Admiral Lord Nelson would change
+the attitude of an entire fleet in ... less than a week. The CEO of a giant transportation company completely upended line officers' responsibility and authority and accountability (increased by an order of magnitude) almost "overnight"—literally everyone, including a couple of "hopeless bureaucrats," bitched and moaned and rose to the occasion—performance spurted more or less
 instantly, and then kept going.
-33
-Several expert analysts argue from extensive anecdotal evidence that "big change" is actually
-"easier" than small change. Mostly because it's far easier to get people excited about a Big Hairy
-Audacious Goal (Jim Collins's felicitous term) than "incremental improvement:" also big, quick
-change cuts off escape routes.
-My "bottom line" after lots of thought and observation: Change will take precisely as long as you
-think it will. The "arrogance of absurdly high expectations" can pay off in very short order if
-you've got the nerve to go for it and the deep-rooted (messianic) belief that ... "There's utterly no
-reason why we can't do this in a month!"
+  - Several expert analysts argue from extensive anecdotal evidence that "big change" is actually "easier" than small change. Mostly because it's far easier to get people excited about a Big Hairy Audacious Goal (Jim Collins's felicitous term) than "incremental improvement:" also big, quick change cuts off escape routes. My "bottom line" after lots of thought and observation: Change will take precisely as long as you
+think it will. The "arrogance of absurdly high expectations" can pay off in very short order if you've got the nerve to go for it and the deep-rooted (messianic) belief that ... "There's utterly no reason why we can't do this in a month!"
+
 83. Clever? Never!
 "The art of war does not require complicated maneuvers; the simplest are the best, and common
 sense is fundamental. From which one might wonder how it is generals make blunders; it is
