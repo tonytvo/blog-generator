@@ -735,26 +735,18 @@ years ago, and have battered seminar participants with ever since:
 constantly, destroy and create using the entire palette, and dramatically reshape the overall work, and even the overall concept, as we went along. Which, of course, means we didn't really reject my beloved Rapid Experimentation Method—we just did it on and amidst a Grand Platform
 called "everything is in motion and up for grabs."
   - I'm not sure I'd do things, big things, this way in every instance, but I do think there are times when such an "all at once" approach is merited—when you have a Big Idea but need to be living "in the middle of it," with all ends loose ends, to figure out what it means.
-82. Big Change—in a Short Time. The story goes that General George Patton turned around a bedraggled U.S. Army in North Africa in a matter of a few weeks upon taking charge in 1943. (Some say a few days.) Upon taking over a new command, Admiral Lord Nelson would change
+
+- **Big Change—in a Short Time.** The story goes that General George Patton turned around a bedraggled U.S. Army in North Africa in a matter of a few weeks upon taking charge in 1943. (Some say a few days.) Upon taking over a new command, Admiral Lord Nelson would change
 the attitude of an entire fleet in ... less than a week. The CEO of a giant transportation company completely upended line officers' responsibility and authority and accountability (increased by an order of magnitude) almost "overnight"—literally everyone, including a couple of "hopeless bureaucrats," bitched and moaned and rose to the occasion—performance spurted more or less
 instantly, and then kept going.
   - Several expert analysts argue from extensive anecdotal evidence that "big change" is actually "easier" than small change. Mostly because it's far easier to get people excited about a Big Hairy Audacious Goal (Jim Collins's felicitous term) than "incremental improvement:" also big, quick change cuts off escape routes. My "bottom line" after lots of thought and observation: Change will take precisely as long as you
 think it will. The "arrogance of absurdly high expectations" can pay off in very short order if you've got the nerve to go for it and the deep-rooted (messianic) belief that ... "There's utterly no reason why we can't do this in a month!"
 
-83. Clever? Never!
-"The art of war does not require complicated maneuvers; the simplest are the best, and common
-sense is fundamental. From which one might wonder how it is generals make blunders; it is
-because they try to be clever."—Napoleon
-I make every effort to read new business strategy books and articles. In 90 percent of cases, I can
-dismiss neither the author's thought process nor his or her evidence—but I am always taken aback
-by the abundance of "clever" and the absence of any discussion or consideration of the ability to
-implement the suggestions made or implied. There is total silence around the subject. For
-example, I did a quick analysis of the Index of one "famous" strategy tome circa 2007—words
-like "people" and "customer" and "leadership" and "implementation" and "execution" were
-literally missing.
-(NB: I gave some thought to not including any commentary in #83, just letting Napoleon's quote
-stand alone on the page. I dearly do not want to dilute in any way the power and clarity and
-simplicity of his words.)
+- **Clever? Never!**
+"The art of war does not require complicated maneuvers; the simplest are the best, and common sense is fundamental. From which one might wonder how it is generals make blunders; it is because they try to be clever."—Napoleon
+  - I make every effort to read new business strategy books and articles. In 90 percent of cases, I can dismiss neither the author's thought process nor his or her evidence—but I am always taken aback by the abundance of "clever" and the absence of any discussion or consideration of the ability to implement the suggestions made or implied. There is total silence around the subject. For example, I did a quick analysis of the Index of one "famous" strategy tome circa 2007—words like "people" and "customer" and "leadership" and "implementation" and "execution" were literally missing.
+  - (NB: I gave some thought to not including any commentary in #83, just letting Napoleon's quote stand alone on the page. I dearly do not want to dilute in any way the power and clarity and simplicity of his words.)
+
 SPECIAL SECTION: You, Me, and Charlie Wilson's War
 George Crile's Charlie Wilson's War, the tale of the defeat of the Soviet Union in Afghanistan
 (which led directly to its subsequent unraveling), is quite simply the most extraordinary nonfiction potboiler I have ever read. And, perhaps surprisingly, it has lessons for you and me from
