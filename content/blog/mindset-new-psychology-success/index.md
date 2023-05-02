@@ -747,57 +747,25 @@ think it will. The "arrogance of absurdly high expectations" can pay off in very
   - I make every effort to read new business strategy books and articles. In 90 percent of cases, I can dismiss neither the author's thought process nor his or her evidence—but I am always taken aback by the abundance of "clever" and the absence of any discussion or consideration of the ability to implement the suggestions made or implied. There is total silence around the subject. For example, I did a quick analysis of the Index of one "famous" strategy tome circa 2007—words like "people" and "customer" and "leadership" and "implementation" and "execution" were literally missing.
   - (NB: I gave some thought to not including any commentary in #83, just letting Napoleon's quote stand alone on the page. I dearly do not want to dilute in any way the power and clarity and simplicity of his words.)
 
-SPECIAL SECTION: You, Me, and Charlie Wilson's War
-George Crile's Charlie Wilson's War, the tale of the defeat of the Soviet Union in Afghanistan
-(which led directly to its subsequent unraveling), is quite simply the most extraordinary nonfiction potboiler I have ever read. And, perhaps surprisingly, it has lessons for you and me from
-Congressman Wilson and his CIA cohort, Gust Avrakotos:
-(1) Make friends with the ... "Invisible 95%." Gust Avrakotos apparently knew every "top floor"
-CIA executive secretary by name—and had helped many of them sort out personal or
-professional problems. The folks in the mailroom and in the bowels of the computer operations
-affairs were also the subject of Gust's intense and affectionate attentions. In effect, you could say
-that Gust was Commander-in-Chief of the "Invisible 95%" of the Agency—which allowed him to
-make extraordinary things happen despite furious resistance from his bosses and bosses' bosses
-sitting atop a very rigid organization.
-34
- (2) Create a Networker-Doer Partnership. Congressman Wilson had the networking part down,
-but he needed help with the doing. Conversely, if you are the doer, then you must find the
-politician-networker.
-(3) Carefully manage the BOF/Balance Of Favors. Practice potlatch—giving so much help to so
-many people on so many occasions (purposeful overkill!) that there is little issue about their
-supporting you when the (rare!) time comes to call in the chits.
-(4) Follow the money! "Anybody with a brain can figure out that if they can get on the Defense
-subcommittee, that's where they ought to be—because that's where the money is."—Charlie
-Wilson
-(5) Found material. (And found people.) Don't reinvent the wheel. It costs too much, takes too
-much time, requires too much bureaucratic hassle, and is too hard to implement—you've got
-enough problems already.
-(6) The enemy of my enemy is my friend. Hold your nose—and get the job done with some
-thorns in your side at your side.
-(7) Real, Visible Passion! Create graphic evidence of the source of your passion. Wilson's passion
-about his beliefs were visibly magnified by tactics he shamelessly employed to make it
-personal—and to make sure that others knew it was personal. For example, on every visit to the
-refugee camps, Wilson donated blood on the spot.
-(8) Passion as Deterrence. Passion suggests exhausting "staying power"—"I might as well not
-waste energy or chits blocking him, he's not going away and he'll hound me and absorb my time
-till hell freezes over."
-(9) Cut red tape. "What we did in one month with Charlie would have taken us nine years to
-accomplish."—Gust Avrakotos
-(10) Create a small, insanely committed "band of brothers-sisters" to act as mostly invisible
-orchestrators.
-(11) Keep the Long Haul in Mind, Too. Passion for today's action is paramount—but always,
-always, always think consciously about ... Network Investment for the future.
-(12) The Game Ain't Over Until the Fat Lady Sings. "They" (lots of "theys") call it the Law of
-Unintended Consequences. In this instance, after the Russians had withdrawn from Afghanistan,
-the U.S. once again returned to benign neglect of the region—the result was, indirectly, 9/11,
-orchestrated from Afghanistan by some of the people we had supported a decade earlier.
-In Honor of Charlie and Gust and Their Ilk:
-"The reasonable man adapts himself to the world; the unreasonable one persists in trying to
-adapt the world to himself. Therefore all progress depends on the unreasonable man." —G.B.
-Shaw, Man and Superman: The Revolutionist's Handbook
-"Whenever anything is being accomplished, it is being done, I have learned, by a monomaniac
-with a mission."—Peter Drucker
-35
-PASSION
+- SPECIAL SECTION: You, Me, and Charlie Wilson's War 
+  - George Crile's Charlie Wilson's War, the tale of the defeat of the Soviet Union in Afghanistan (which led directly to its subsequent unraveling), is quite simply the most extraordinary nonfiction potboiler I have ever read. And, perhaps surprisingly, it has lessons for you and me from Congressman Wilson and his CIA cohort, Gust Avrakotos:
+  - (1) Make friends with the ... "Invisible 95%." Gust Avrakotos apparently knew every "top floor"
+CIA executive secretary by name—and had helped many of them sort out personal or professional problems. The folks in the mailroom and in the bowels of the computer operations affairs were also the subject of Gust's intense and affectionate attentions. In effect, you could say that Gust was Commander-in-Chief of the "Invisible 95%" of the Agency—which allowed him to make extraordinary things happen despite furious resistance from his bosses and bosses' bosses sitting atop a very rigid organization.
+  - (2) Create a Networker-Doer Partnership. Congressman Wilson had the networking part down, but he needed help with the doing. Conversely, if you are the doer, then you must find the politician-networker.
+  - (3) Carefully manage the BOF/Balance Of Favors. Practice potlatch—giving so much help to so many people on so many occasions (purposeful overkill!) that there is little issue about their supporting you when the (rare!) time comes to call in the chits.
+  - (4) Follow the money! "Anybody with a brain can figure out that if they can get on the Defense subcommittee, that's where they ought to be—because that's where the money is."—Charlie Wilson
+  - (5) Found material. (And found people.) Don't reinvent the wheel. It costs too much, takes too much time, requires too much bureaucratic hassle, and is too hard to implement—you've got enough problems already.
+  - (6) The enemy of my enemy is my friend. Hold your nose—and get the job done with some thorns in your side at your side.
+  - (7) Real, Visible Passion! Create graphic evidence of the source of your passion. Wilson's passion about his beliefs were visibly magnified by tactics he shamelessly employed to make it personal—and to make sure that others knew it was personal. For example, on every visit to the refugee camps, Wilson donated blood on the spot.
+  - (8) Passion as Deterrence. Passion suggests exhausting "staying power"—"I might as well not waste energy or chits blocking him, he's not going away and he'll hound me and absorb my time till hell freezes over."
+  - (9) Cut red tape. "What we did in one month with Charlie would have taken us nine years to accomplish."—Gust Avrakotos
+  - (10) Create a small, insanely committed "band of brothers-sisters" to act as mostly invisible orchestrators.
+  - (11) Keep the Long Haul in Mind, Too. Passion for today's action is paramount—but always, always, always think consciously about ... Network Investment for the future.
+  - (12) The Game Ain't Over Until the Fat Lady Sings. "They" (lots of "theys") call it the Law of Unintended Consequences. In this instance, after the Russians had withdrawn from Afghanistan, the U.S. once again returned to benign neglect of the region—the result was, indirectly, 9/11, orchestrated from Afghanistan by some of the people we had supported a decade earlier.
+  - In Honor of Charlie and Gust and Their Ilk:
+    - "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." —G.B. Shaw, Man and Superman: The Revolutionist's Handbook "Whenever anything is being accomplished, it is being done, I have learned, by a monomaniac with a mission."—Peter Drucker
+
+## PASSION
 
 84. I Second That Emotion! Ever heard of a success story featuring a
 ... dispassionate symphony conductor?
