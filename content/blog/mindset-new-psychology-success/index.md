@@ -767,22 +767,22 @@ CIA executive secretary by name—and had helped many of them sort out personal 
 
 ## PASSION
 
-84. I Second That Emotion! Ever heard of a success story featuring a
-... dispassionate symphony conductor?
-... bored painter?
-... apathetic self-made billionaire?
-... 9 to 5 entrepreneur?
-"Great leaders move us. They ignite our passion and inspire the best in us. When we try to
-explain why they are so effective, we speak of strategy, vision or powerful ideas. But the reality is
-much more primal: Great leadership works through the emotions."—Daniel Goleman, The New
+- **I Second That Emotion!** 
+  - Ever heard of a success story featuring a
+    - ... dispassionate symphony conductor?
+    - ... bored painter?
+    - ... apathetic self-made billionaire?
+    - ... 9 to 5 entrepreneur?
+  - "Great leaders move us. They ignite our passion and inspire the best in us. When we try to explain why they are so effective, we speak of strategy, vision or powerful ideas. But the reality is much more primal: Great leadership works through the emotions."—Daniel Goleman, The New
 Leaders
-Acknowledge emotion.
-Hire for emotion.
-Evaluate for emotion.
-Promote for emotion.
-Lead by emotion.
-(Follow by emotion.)
-"Sell" emotion.
+  - *Acknowledge* emotion.
+  - *Hire* for emotion.
+  - *Evaluate* for emotion.
+  - *Promote* for emotion.
+  - *Lead* by emotion.
+  - (Follow by emotion.)
+  - *"Sell"* emotion.
+
 85. One Rule! Much Gold! Enterprise, public or private, small or enormous, is all about
 humanity—about humans serving humans, about human growth and community. That's obvious,
 or should be. But it's always worth a reminder—far more than usual as we reflect on the
