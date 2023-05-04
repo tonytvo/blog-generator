@@ -783,19 +783,12 @@ Leaders
   - (Follow by emotion.)
   - *"Sell"* emotion.
 
-85. One Rule! Much Gold! Enterprise, public or private, small or enormous, is all about
-humanity—about humans serving humans, about human growth and community. That's obvious,
-or should be. But it's always worth a reminder—far more than usual as we reflect on the
-thoughtless shenanigans that delivered to us the worst financial crisis in 75 years.
-Thinking deeply about these fundamentals reminded me of my old friend, the late John
-McConnell, founder of Worthington Steel. A pragmatist to a fault, as befits an Ohioan born and
-bred, John believed that growth and profitability flowed from fairness and trust. In fact, he went
+- **One Rule! Much Gold!** Enterprise, public or private, small or enormous, is all about humanity—about humans serving humans, about human growth and community. That's obvious, or should be. But it's always worth a reminder—far more than usual as we reflect on the thoughtless shenanigans that delivered to us the worst financial crisis in 75 years.
+  - Thinking deeply about these fundamentals reminded me of my old friend, the late John McConnell, founder of Worthington Steel. A pragmatist to a fault, as befits an Ohioan born and bred, John believed that growth and profitability flowed from fairness and trust. In fact, he went
 further, and insisted that the Golden Rule makes for a complete "policy manual"!
-As far as I'm concerned, he was on to something, and Worthington's continuing success in very
-tough times in a very tough industry is testimony to the validity of McConnell's "simple" beliefs,
-lived for decades with a passion by a cast of thousands.
-The icing on the cake and the irrefutable challenge, courtesy Dr. Frank Crane: "The Golden Rule
-is of no use to you whatsoever unless you realize that it is your move."
+  - As far as I'm concerned, he was on to something, and Worthington's continuing success in very tough times in a very tough industry is testimony to the validity of McConnell's "simple" beliefs, lived for decades with a passion by a cast of thousands.
+  - The icing on the cake and the irrefutable challenge, courtesy Dr. Frank Crane: "The Golden Rule is of no use to you whatsoever unless you realize that it is your move."
+
 86. Seize the Moments. Business ("life," too, of course) rises or falls on the nature and
 character and lingering memory of what the legendary airline (SAS) boss, Jan Carlzon, called
 "moments of truth"—those fleeting fragments of true human contact that quite literally define our
