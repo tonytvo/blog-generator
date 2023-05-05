@@ -789,17 +789,13 @@ further, and insisted that the Golden Rule makes for a complete "policy manual"!
   - As far as I'm concerned, he was on to something, and Worthington's continuing success in very tough times in a very tough industry is testimony to the validity of McConnell's "simple" beliefs, lived for decades with a passion by a cast of thousands.
   - The icing on the cake and the irrefutable challenge, courtesy Dr. Frank Crane: "The Golden Rule is of no use to you whatsoever unless you realize that it is your move."
 
-86. Seize the Moments. Business ("life," too, of course) rises or falls on the nature and
-character and lingering memory of what the legendary airline (SAS) boss, Jan Carlzon, called
-"moments of truth"—those fleeting fragments of true human contact that quite literally define our
+- **Seize the Moments.** Business ("life," too, of course) rises or falls on the nature and character and lingering memory of what the legendary airline (SAS) boss, Jan Carlzon, called "moments of truth"—those fleeting fragments of true human contact that quite literally define our
 enterprise's Spirit & Excellence—or lack thereof.
-Thus our goal, perhaps our primary goal, in every flavor and every size of business, is to
-"MTMMOT"—Manage To Memorable Moments Of Truth. Every decision—about hiring, firing,
-supervision, training, systems development, lobby décor, etc.—should be designed for and
-brought immediately and directly to bear on the "production" of Memorable Moments of Truth.
-Perhaps we need a … Manager of Memorable Moments of Truth? (Seriously!)
-36
-PRESENCE
+  - Thus our goal, perhaps our primary goal, in every flavor and every size of business, is to "MTMMOT"—Manage To Memorable Moments Of Truth. Every decision—about hiring, firing, supervision, training, systems development, lobby décor, etc.—should be designed for and
+brought immediately and directly to bear on the "production" of Memorable Moments of Truth. Perhaps we need a … Manager of Memorable Moments of Truth? (Seriously!)
+
+## PRESENCE
+
 87. Managing by Wandering Around—It's All Around You! Back in 1982, as my In Search
 of Excellence coauthor Bob Waterman and I were preparing in our Manhattan hotel room for our
 brief appearance on the Today show to talk about "the book," we got into a tussle. Turns out we
