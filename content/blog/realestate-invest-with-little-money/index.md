@@ -5,9 +5,28 @@ description: "real estate invest with zero or little money down"
 tags: ["realestateinvesting", "financialindependence"]
 ---
 
-- an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of homeownership.
-- You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
-- small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate constant monthly income.
+# owner occupied investment properties
+  - an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of homeownership.
+  - You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
+  - small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate constant monthly income.
+
+# partnerships
+
+# home equity loans/lines of credit
+
+# strategies for using hard money
+
+# raising private money to fund your deals
+
+# lease options
+
+# seller financing
+
+# realestate wholesaling
+
+# creative combinations
+
+
 - FHA loan is a government backed loan that allows you to purchase property. However, it also has its share of problems, such as the Mortgage insurance premium that can really add up and the fact that you can have only 1 FHA loan at a time.
   - 203k loan (renovation loan in canada) is a subset of the FHA program and allows the borrower to borrow money to pay for cosmetic repairs such as paint and carpet.
   - the biggest difference between a regular 203k loan and a streamlined one is the extent of the rehab. The streamlined one can be used for smaller cosmetic problems, like painting, carpet, and smells, whereas the regular one can be used for structural changes, like moving walls or building additions.
@@ -28,6 +47,35 @@ tags: ["realestateinvesting", "financialindependence"]
 - another strategy is to refinancing your load through the bank after the repairs.
 - another option is to get a business line of credit from a commercial bank or portfolio lender. This allows you to access the equity in your properties.
 - by using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction.
+
+- These are four of the primary rules and advisory limits of creative real estate investing. These have been passed down from one established investor to another with the goal of keeping aspiring investors from crashing and burning. 
+  - When investing creatively, you need to find even better deals than those who invest normally. Let me explain what I mean. Let’s say a certain home is worth $100,000. A traditional investor might pay $100,000 for that home, put a 30% down payment ($30,000) on the property, and make a nice return on investment from the cash flow (the extra money left after all the expenses are paid).However, if I were to purchase that same house for $60,000 because I took the extra steps necessary to get a great deal, which of us is in the better position? The traditional investor, who has $30,000 of their cash tied up in their property and no real equity, or me, who has nothing invested but owes less?Because of the deal I obtained, I have far greater potential for profit and for a better return on investment than the normal investor, but less of my cash is at risk because I have no cash invested at all.However, what if I decided to be just a “normal” investor and pay full price for that $100,000 property, with no money down? Most likely, my mortgage payment would be so high that good cash flow would be out of reach, and I would not have the equity necessary to be able to sell the property. In this case, the “good” investor would be in a better position because they owed only $70,000. Hopefully, you are following my argument here… creative investing means you must invest in incredible deals, or it’s simply not worth doing
+  - When investing creatively, you must be extremely conservative. I’m not talking politics here; I’m talking about planning for the future. This means assuming the worst when buying property. Take as a given that taxes will go up, your unit will sit vacant for a certain percentage of each year (higher than the average for your area), repairs will be numerous and expensive, and you will need to evict deadbeat tenants. Plan for these costs and only buy property that proves to still be a good deal even after a conservative estimate
+  - Creative finance requires sacrifice. Remember my definition of creative finance: the ability to trade cash for creativity. Notice there is a trade-off involved—one you need to accept. Most of the methods I’ve used to acquire real estate, I didn’t learn from a book. Instead, I discovered the methods at 4:00 a.m. after an eight-hour brainstorming session with my wife, my pen, and my paper, desperately trying to figure out the missing puzzle piece that would enable me to close a deal. This is often the trade. It requires jumping through a lot of mental hoops, numerous conversations with others, and the ability to ask for help. Creative real estate investing is a puzzle that takes real mental (and sometimes physical) effort to put together. If you want easy, then stick with a job, a sizable down payment, and average returns. There is nothing wrong with that, and I’d have chosen the same if I’d had enough money and income when I started. But I didn’t, so I chose creativity. I chose to sacrifice. Will you? 
+  - Creative finance does not mean investing without a cushion. A wise man and mentor once told me, “You can go broke buying good deals.” Even though you need to get killer good deals if you are going to invest with no or little money down, you still need to understand that bad stuff happens. Murphy will show up on your doorstep and start knocking. He might even move his whole family in. Therefore, maintaining a financial cushion to deal with problems is imperative. You don’t need $50,000 in the bank to buy a small rental house, but you do need to be able to weather the storms that will come, relative to the size of the property you are buying and that property’s risk for loss.For example, if you needed to evict a tenant, could you handle several months of lost rent, more than $2,000 in eviction costs, and several thousands of dollars to repair the property? What if you had to do this twice in the same year? These are important questions you must be able to answer, or at least discuss. These questions do have answers, so hang in there and keep your brain turning.I can’t tell you exactly how much money you’ll need to save, because that depends largely on a number of factors, including the following:The strength of your target real estate marketYour ability to manage effectivelyYou ability and desire to repair things yourself, if neededHow difficult and lengthy evictions are in your state. How good your credit is. How much cash flow you can getThe average purchase price of your target propertiesThe niche you enterThe strategy you useAnd a whole lot more
+
+- The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
+
+- Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
+
+- Creative investing is about shifting the source of any needed cash, depending on the strategy
+
+- An owner-occupied investment property is real estate that has been purchased as an investment but that also doubles as a primary residence for the investor. In other words, the property is both your home and an investment property
+
+- In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.• Homeowners get lower, fixed interest rates.• Homeowners can qualify with lower credit scores.• Homeowners are often given the first option to buy foreclosures (especially HUD homes, which are properties that have been foreclosed upon by the U.S. Department of Housing and Urban Development).• Homeowners can often negotiate better deals with sellers. You can consider a single-family home an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later
+
+- Equity is the difference between what you owe on your property and what it could sell for. For example, if you owe $50,000 on your home and it is worth $150,000, you have approximately $100,000 in equity. A home equity loan is a loan you can take out from a lender that is secured by the equity in your home. In other words, if you don’t pay the loan back, the lender can take your personal home and resell it to pay the debt. A home equity loan is also known as a “second mortgage,” because it is generally subservient to your primary mortgage. This means that in the case of a foreclosure, the primary mortgage would get paid off first, followed by the second. Before we get too deep into how to use a home equity loan, let’s talk about the difference between the two types of equity products:1. Home Equity Loan – A home equity loan is a mortgage product wherein all funds are disbursed at the beginning of the loan, with a definitive term length and equal monthly payments. For example, you may take out a $50,000 home equity loan at 3.75% payable for 15 years. The payment would be roughly $363 per month for the entire 15 years, or until you paid the loan off. You might think of a home equity loan as similar to a car loan or a normal home mortgage. These loans can have either a fixed (unchanging) interest rate or one that is variable (subject to change with the economy). 2. Home Equity Line of Credit – A home equity line of credit, or HELOC, is similar to a home equity loan, but even though you are allowed to borrow a predetermined amount of money, that money is not necessarily dispersed at the start of the loan. Instead, it is available for you to borrow and pay back with flexibility. If this is a bit confusing for you, don’t worry. Let me give you a really simple analogy: think of it like a credit card. You can borrow money, up to a certain amount, and pay it back at will, though you are required to make at least a minimum payment each month based on the amount you have used. The minimum payment is often simply just the interest that accrued during that month, but some lines of credit require a higher payment than just the interest. For example, you may have a $50,000 limit on your home equity line of credit, but you only use $20,000 of it. If your interest rate on the line of credit is 10%, your monthly interest payment would be $166.67 ($20,000 x 10% / 12). If you paid only the interest each month, your loan balance would never go down, because you would never be paying back the principal. A HELOC typically has a variable interest rate, though fixed rate versions are available
+
+- As the name would imply, a home equity loan or line of credit will require you to have equity to qualify. Therefore, let’s take a few minutes to explore what equity is and why it matters. As mentioned earlier, equity is the difference between what you currently owe on your home and the fair market value of that home. For example, if you owe $50,000 on a home whose current value is $80,000, you have approximately $30,000 in equity (not including the costs required to sell the property if you wanted to)
+
+- When determining your ability to obtain a home equity line of credit, the most important number to clearly understand is known as “loan to value,” or LTV. The LTV is a percentage that shows the ratio between what you owe and what the property is worth. The higher the percentage, the less equity you have
+
+- This calculation will give you a percentage, which is your LTV. So, revisiting the example I just used, if you owed $50,000 on a home worth $80,000, the calculations would look likeLTV = $50,000 / $80,000 = 62.5%
+
+- Today, lenders have learned from the mistakes of the past, and the days of getting 125% LTV loans and lines of credit are gone. More typically, the highest you’ll probably see is around 90% LTV, but even that may be difficult to find. In other words, if your home is currently worth $100,000, the bank will likely cap the total amount you can borrow across all loans at $90,000. So, if you have a first mortgage with a balance of $70,000, and the lender will allow you to borrow 90% (or $90,000 total), you could potentially obtain a loan or line of credit for a maximum of $20,000.Keep in mind that as with nearly all loans, you will need to meet certain credit and income minimums to obtain the lending, and rates and terms will differ based on your LTV, debt, credit, income, and other factors. You may have a ton of equity in your property, but if you are rocking a 520 credit score, obtaining a home equity loan or line of credit will be nearly impossible. Be sure to shop around to various banks when considering a home equity line of credit. In my small town, rates can vary by as much as 10% between banks. I feel sorry for all those people who are paying 13.5% at X Bank while I’m paying just 3.5% at Y Bank. Don’t be like them. Get out there, make some phone calls, and shop around to get the best rate possible on your home equity loan or line of credit
+
+- Screen well! Screening your tenant is one of the most important steps you can take to ensure a positive landlording experience, especially with a lease option sandwich. Although tenant-screening practices are beyond the scope of this book, the most important things you can do are as follows: • Always run a background check on your tenant. Look for evictions, criminal activities, etc.• Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.• Look for stability. A tenant who moves every six months without reason is probably not a great candidate.• Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
+
 
 # rules of the new rich
 
@@ -336,29 +384,111 @@ tags: ["realestateinvesting", "financialindependence"]
 
 
 # finding deals (off-market)
-  - working it backwards
-    - Deals - i.e: 24 deals (2/month)
-    - Budget - $24,000/year ($1,000/deal)
-    - Offers - 5 offers to get 1 deal 24 deals x 5 offers = 120 offers or 10/month
-    - Appointments - 8 appointments for 5 offers 8 ÷ 5 = 1.6 appt/offer … 120 offers x 1.6 = 192 appointments or 16/mo
-    - Leads 
-      - 4 leads / appointment
-      - 192 appt. x 4 = 768 leads / year - or -64 leads / month (32 leads = 1 deal)
-    - Lead Campaigns
-      - Lead Generation Campaigns -> of Leads/month -> Cost/month
-      - Radio Ad -> 9 -> $300
-      - Newspaper Ads -> 2 -> $250
-      - Direct Mail - Owners w/ equity (890/mo) -> 8 -> $668
-      - Direct Mail - Tax Sale (700/year) -> 3 -> $525
-      - Direct Mail - Expired Listings (120/mo) -> 6 -> $90
-      - Direct Mail - Preforeclosure (120/mo) -> 6 -> $90
-      - Car Sign -> 3 -> $0
-      - Pole/Yard Signs -> 5 -> $10
-      - Birddog System - Vacant Houses -> 15 -> $150
-      - Referrals (newsletter, network, business cards) -> 10 -> $75
-      - Total: 67 $2,158
-    
-    - Next Actions 
+
+- **working it backwards**
+  - Deals - i.e: 24 deals (2/month)
+  - Budget - $24,000/year ($1,000/deal)
+  - Offers - 5 offers to get 1 deal 24 deals x 5 offers = 120 offers or 10/month
+  - Appointments - 8 appointments for 5 offers 8 ÷ 5 = 1.6 appt/offer … 120 offers x 1.6 = 192 appointments or 16/mo
+  - Leads 
+    - 4 leads / appointment
+    - 192 appt. x 4 = 768 leads / year - or -64 leads / month (32 leads = 1 deal)
+  - Lead Campaigns
+    - Lead Generation Campaigns -> of Leads/month -> Cost/month
+    - **Radio Ad** -> 9 -> $300
+    - Newspaper Ads -> 2 -> $250
+    - **Direct Mail - Owners w/ equity (890/mo)** -> 8 -> $668
+    - Direct Mail - Tax Sale (700/year) -> 3 -> $525
+    - Direct Mail - Expired Listings (120/mo) -> 6 -> $90
+    - Direct Mail - Preforeclosure (120/mo) -> 6 -> $90
+    - Car Sign -> 3 -> $0
+    - Pole/Yard Signs -> 5 -> $10
+    - **Birddog System - Vacant Houses** -> 15 -> $150
+    - **Referrals (newsletter, network, business cards)** -> 10 -> $75
+    - Total: 67 $2,158
+  
+  - Next Actions 
+  - Diversity of lead generation!
+  -  What works today, might not tomorrow
+     -  Ex: Newspaper ads
+     - Ex: Direct Mail - absentee owner
+     - Ex: Signs
+  - Referral prospecting =
+    -  High leverage
+    -  Resilient performance
+    -  Farm system
+    -  Worth focusing on long-term!!
+
+- **Driving For Dollars**
+  - Pick a target neighborhood
+  - Schedule drive or walk
+  - Look for (1) vacants (2) Fixer-uppers (3) Legal proceedings
+  - Reach out to the owner! (1) call (2) mail (3) neighbors
+  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+
+- **MLS**
+  - Find a real estate agent
+  - Get automated leads in your target area
+  - Be FIRST (minutes or hours! Not days) or LAST (persistence & follow-up)
+
+- **Networking Groups**
+
+  - Find deals by networking and telling other investors what you want to buy!
+    - Look for formal groups like a REIA (Real Estate Investing Association)
+      i. Google “Real estate investing club + [your city]”
+    - Look for informal groups and meetups
+    - Find online forums (ex: BiggerPockets Local Forums) or Facebook Groups
+
+- **Professional Outreach**
+
+  - Reach out to and network with real estate agents (residential & commercial), attorneys, CPAs, insurance agents, financial advisors, and more. Let them know how you can help.
+
+- **Wholesalers**
+  - Get on wholesaler lists (meet at local meetups!) and get to know wholesalers personally
+
+- **Direct Mail**
+
+  - MANY different campaigns and lists you can mail to. A simple one to start is filter a list by:
+    - Location
+    - Property type
+    - Length of time owned (5+ years)
+
+  - Send personal mailers expressing your interest in buying their house. Follow-up!
+  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+
+- **Website**
+  - Use for (1) organic leads over time (2) landing page for paid ads or direct mail (3) Credibility
+  - Recommended Tool: Investor Carrot Websites - https://www.coachcarson.com/investorcarrot
+
+- **Ads**
+
+  - Pay to get your house buying service in front of other people:
+    - Pay Per Click (PPC) - like Google, YouTube, Facebook
+    - Classified ads - Craiglist and newspapers
+  - Locally focused advertising - Nextdoor.com, talk radio/podcasts, etc
+
+- **Cold calling**
+  - Old fashioned, takes time, but still inexpensive and sometimes effective!
+    a. Ads online or signs - For Rent or FSBO (For Sale By Owner)
+
+-  **Signs**
+  - “I Buy Houses + Fast Cash + Your Phone Number” - Relatively inexpensive yet effective.
+    a. Yard signs - at your rentals, flips, home
+    b. Car signs - magnetic or vinyl lettering
+    c. Bandit signs - at intersections or telephone poles (likely illegal in most municipalities!)
+
+-  **Auctions**
+  - Auctions can be a good source of deals if you’re patient and persistent.
+    a. Auction companies - google the auction companies in your area and get on their list
+    b. Search and regularly follow online auction websites like: Xome.com, Hubzu.com, Auction.com, Homesteps.com, Homepath.com, HudsonandMarshall.com, ten-x.com, HUDHomeStore.com, MobileHomeParkStore.com
+
+-  **Word of Mouth (to your world!)**
+  - Tell EVERYONE that you buy properties. Don’t be too embarrassed to make money! Creative ideas to spread the word?
+    a. All your emails - P.S. I'm always on the lookout for houses or apartments that may need some TLC. I buy all types in any condition. Do you know of a house that needs a new owner to bring it back to life? Know a landlord who doesn't want to be? Did somebody you know inherit a house they don't want? Call or email me anytime.
+    b. T-shirts that say “I Buy Real Estate”
+    c. Social media
+    d. Business cars
+    e. Small talk
 
 # Quotes
 
@@ -484,3 +614,4 @@ Ironic given Facebook copying Snapchat’s stories sent Snap into a bit of a dea
 - https://medium.com/@kwharrison13/how-to-be-a-capitalist-without-any-capital-book-review-quotes-a8767fe1f3d7
 - https://summaries.com/blog/how-to-be-a-capitalist-without-any-capital
 - https://www.ricklindquist.com/notes/how-to-be-a-capitalist-without-any-capital
+- https://www.coachcarson.com/rental-retirement-strategy/
