@@ -28,10 +28,451 @@ tags: ["realestateinvesting", "financialindependence"]
 - another strategy is to refinancing your load through the bank after the repairs.
 - another option is to get a business line of credit from a commercial bank or portfolio lender. This allows you to access the equity in your properties.
 - by using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction.
-- 
+
+# rules of the new rich
+
+- **4 old rules to break**
+  - Focus on becoming an expert at one thing. 
+  - Come up with a remarkable idea. 
+  - Set goals and work toward them. 
+  - Give customers what they want.
+
+## 4 new rules to implement
+
+- **RULE 1: Don’t Focus on One Thing.**
+
+  - Avoid a single point of failure.
+  - Don’t build your wealth around one thing ⇒  if it doesn’t work out, you’re destroyed, and you have to start again from scratch. (Note to self: This happened to me at PeopleKeep.)
+  - Ignore the conventional wisdom that says it’s impossible to multitask.
+  - The two biggest factors in success are timing and luck ⇒ You can’t control either, but you can increase the likelihood you get lucky / have the right timing ⇒ by taking more chances. (I.e. fail more.)
+  - Focusing on one thing also limits multiplier opportunities ⇒ Multiplying is when you find the patterns that link different things and then leverage those connections so each individual thing is more effective than it would be on its own ⇒ net net, get multiple ventures going and then pull out the patterns that link them. (E.g. Elon Musk with his multiple ventures).
+
+  - **Three-focus rule**
+    - Try Nathan’s three-focus rule: always pursue three new opportunities at the same time.
+    - Once a venture is up and running, set it on autopilot so it only takes a few hours per week or month ⇒ this approach has a few benefits:
+      - It increases your chances for good luck and good timing
+      - When you fail more, you accelerate your learning
+        - (Example: Thomas Edison ran thousands of experiments ⇒ one could argue he got lucky with the light bulb.)
+
+    - Three projects at once does not = 3x the work ⇒ Instead, focus 80% of your time on one project (the one that brings in the most money or has the most potential to) and split the remaining 20%  of your time between the two remaining ventures (this requires launching them on a smaller scale or picking more passive projects) 
+    - (Don’t try to launch three huge new projects at once ⇒ you’ll likely fail at all of them).
+    - 80/20 approach = ~3-4 days a week on the one 80 percent idea and 1-2 days on the two 20% projects.
+
+    - The three-focus rule lets you: 
+      - Test ideas (swing, miss, learn)
+      - Multiply them (find and capitalize on patterns)
+      - Use learnings to launch new ventures (discover what else is in demand)
+
+- **RULE 2: Copy Your Competitors.**
+
+  - You have to copy your competitors ⇒ do it now.
+  - Copying doesn’t have to be cutthroat ⇒ sometimes copying is just research ⇒ you’re seeing what works and what doesn’t, which reduces your risk ⇒ Sometimes you’ll want to copy, sometimes you’ll want to do the exact opposite
+  - When you copy competitors, you’re really looking for the patterns that lead to success.
+  - Helpful copying tools:
+    - Manufactured products ⇒ Online marketplaces ⇒ you can quickly see what works and what doesn’t.
+    - Services ⇒ Freelance sites ⇒ look at how people list their services
+    - Digital / info products ⇒ Patreon-like sites ⇒ look at how much people are earning / what’s working.
+
+
+- **RULE 3: Quit Setting Goals—They’re Keeping You Broke.**
+
+  - If you focus on a goal, the second you achieve it, there’s nothing left to achieve.
+  - Instead, focus on building a system that produces what you want out of life ⇒ Systems make the rich richer (goals make the poor poorer) ⇒ they pump out more, faster, as you refine them (with less input from you).
+  - Systems = the processes that get you the result of a goal, repeatedly. Systems scale.
+  - One framework = set audacious goals, then forget them and focus on creating a system to produce the outcome you want repeatedly.
+  - To build a system, you must focus on the minutiae for a period of time ⇒ obsessing over the details is the only way you can forget about them ⇒ you have to know the details, to automate them.
+  - “Systems thinking requires you to give up making money today in exchange for taking the time, energy, and sweat equity to set up systems that will do the work for you in the future.” ⇒ “It’s a lot of up-front work, and that’s the problem for most people. They prefer the short-term win.”
+  - Focus on building systems for the things that take most of your time ⇒ To do this, you must become aware of where your time is going ⇒ document it.
+  - System leverage ⇒ If you have a clear system, it can be done faster and cheaper by somebody else (or something else).
+
+  - Become aware of your system blind spots:
+    - Material Blindness ⇒ where do the materials come from?
+    - Time Blindness ⇒ how long does it actually take?
+    - Start/End Blindness ⇒ when does the system actually start and when does it end?
+
+  - Anatomy of a system:
+    - Inputs: What do you have to feed the system to make it work?
+    - Outputs: What does your system produce for you once it’s set up?
+    - Procedures (I added this): How do you turn the input into the output?
+    - Feedback loops: Can you improve the procedures?
+    - Stocks: Stocks are whatever assets pile up inside the system that then get used to generate an output.
+
+  - How to build a system:
+    - Review every possible detail of what needs to be done
+    - Document the steps
+    - Minimize the steps
+    - Automate as many steps as possible with software
+    - For the remaining steps, hire someone to complete them (job description = the remaining steps)
+
+  - A few best practices:
+    - Make sure some of your output is profit that you can use to add inputs and improve procedures based on feedback loops.
+    - Review outputs for additional cash flow opportunities (i.e. can your unused outputs be an input for something or someone else? ⇒ one person’s trash is another person’s treasure).
+    - Focus most of your time and money on building the systems that have a direct correlation to additional cash flow.
+    - Kill systems when they’re no longer necessary / don’t help you generate cash.
+    - “When looking for human talent to replace yourself in a system, try many mini-projects as tests” ⇒ projects > resume.
+    - Find human talent on sites like Fiverr, Toptal, Upwork.
+
+  - Top 7 books on systems (according to Nathan):
+    - Thinking in Systems by Donella Meadows simplifies what makes any system work and how to build your own. 
+    - Mastering the Rockefeller Habits by Verne Harnish is the easiest blueprint to follow to clearly define what outputs you want in your business — the first step to figuring out the process and inputs.
+    - Business Adventures by John Brooks highlights CEOs and companies that created the most shareholder value over their tenure. You’ll start to notice business models and their underlying systems that will set you up for success.
+    - The Outsiders by William N. Thorndike Jr. is a collection of eight stories from eight CEOs who set up systems that provided the highest capital returns in history. 
+    - Thing Explainer by Randall Munroe visually diagrams how things work using only one thousand of the most commonly used words in the English language (forces simplification and makes pattern recognition easier). 
+    - McDonald’s: Behind the Arches by John F. Love helps dissect one of the most replicated, valuable systems ever built: the burger stand. No matter what industry you’re in, you’re guaranteed to learn systems tidbits.
+    - The 4-Hour Workweek by Timothy Ferriss will help you find ways to systematize your business and your life to save time, energy, and money.
+
+- **RULE 4: Sell Pickaxes to Gold Miners.**
+  - Let others blaze the untraveled trail and then walk in and capitalize on their hard work ⇒ this is what happened during the gold rush.
+  - Gold miners went west ⇒ they needed pickaxes ⇒ others traveled west just to sell pickaxes to them (after the path was de-risked)
+  - Today, this means supporting the players going after a hot market ⇒ Example: Venture capitals need data. (Nathan is capitalizing on this)
+  - Think of the pickaxes as the submerged portion of an iceberg ⇒ It’s bigger, it’s underwater, and people can’t see.
+  - Ways to discover pickax ideas:
+    - Sell add-ons for popular items (e.g. iPhone cases)
+    - Help consumers track their obsessions (e.g. collector card tracking)
+    - Look at App marketplaces (e.g. Salesforce’s app store)
+    - Leverage online learning platforms (e.g. Hot courses on Udemy)
+    - Eavesdrop on the influencers (What are top bloggers/influencers talking about?)
+    - Look at what’s trending on crowdfunding sites (What’s hot on Kickstarter?)
+    - Scan directories (What products are most popular Patreo /  ProductHunt / Stack.G2)
+    - Study history (What patterns from the past can you apply today?)
+
+  - In a nutshell:
+    - Validate the ideas that others say they want (tip of the iceberg)
+    - Start building the pick axes (submerged part of iceberg) or sell add-ons (expand the iceberg)
+
+  - Other ideas:
+    - Buy pickaxe companies instead of building them (especially ones that have liabilities you can solve for)
+    - Develop expertise you don’t have exposure to by interviewing people in the space (it requires a strong vision / perusation to get the interviews ⇒ “My show will have a million downloads by X date.”)
+
+# The New Rich Toolbox
+
+- **Create unfair advantages with persuasion and negotiation, even when you don't have to**
+  - Use persuasion ⇒ persuade others to do things that free up your time.
+  - Use emotion (specifically, fear) to persuade ⇒ emotions drive most purchases, and fear is the strongest ⇒ when we fear, we’ll do anything to address the worry.
+  - Don’t use reason to persuade ⇒ people today are less rational and more emotional than ever ⇒ Tell a story that taps into fear (“This [pain point] could happen to you.”) ⇒ Then, sell the vitamin.
+  
+  - **Seven fear principles for persuasion:**
+    - *Fear of missing out*
+      - “Don’t miss out on this big company I’m building. Get in early.”
+      - “There are only ten tickets left, buy today before they’re all out”
+      - “Buy today before prices go up.”
+    - *Fear of the unknown*
+      - We spend tons of money triggered by what-if thinking.
+      - “Heading out on that beach vacation? Don’t forget Tylenol in your pocket to make sure headaches don’t ruin your trip.”
+    - *Fear for your life*
+      - Stem cell storage, avalanche gear
+      - “Hey, if you ever get cancer, we can use your stored stem cells to grow new, clean cells outside of your body and then use them to help you heal.”
+    - *Fear for your health*
+      - Health care
+      - “What if you have a health emergency?”
+    - *Fear of losing freedom*
+      - Productivity market ⇒ we want our time back
+    - *Fear of loneliness*
+      - Social networks, dating apps, pets, makeup
+      - “Don’t end up alone”
+    - *Fear of failure*
+      - Coaching services, online courses, books, college, lawyers
+      - “Avoid mistakes by...”
+  - Ideally, you can tap into multiple fears 
+  - Negotiate when you don’t have to ⇒ one of the reasons you lose negotiations is when you fear you’re going to lose (avoid this if you can).
+  - A few ideas to create leverage in negotiation:
+    - Create doubt (“I’m going to have trouble hitting the rent payment this month. Is there anything you can do to help me.”)
+    - Don’t shut down opportunities; let them play out (“What are you thinking?”)
+
+
+- **Dream in Decades → Think in Years → Work in Weeks → Live in Days**
+  - Dream in decades ⇒ Set audacious goals for the decade. (Visualize where you want to be in ten years, what your business, life, and home will look like ⇒ feel the success.)
+  - Think in years ⇒ Break your audacious goals into systems. (Think about the systems you need to set up to accomplish your dreams.)
+  - Work in weeks ⇒ Break your systems into projects. (What do you need to build to create new systems and what do you need to do to keep existing systems running.)
+  - Live in days ⇒ Make sure your daily work feeds your projects. (Focus on the big stuff first and eliminate distractions)
+  - Measure two things:
+    - Your bank account
+    - How good you feel
+  - If your bank account is going up and you feel good, you’re winning.
+  - Avoid context switching ⇒ when you switch tasks, it takes five to ten minutes to re-engage with the thing you were doing beforehand.
+  - Instead, using time batching ⇒ dedicate blocks of time (at least three hours) to one task or project.
+  - Eliminate distractions by making it hard for them to take over (e.g. put your phone in another room; block social media sites, etc.)
+
+- **Hidden money**
+
+  - You have way more hidden money than you think.
+  - Keep your expenses as low as possible (where can you cut right now?)
+  - Turn your liability into assets (e.g. leverage the sharing economy.)
+  - Simplify your wardrobe (e.g. wear the same thing every day.)
+  - Ask for tips (e.g. create a patreon page)
+
+- **Act wealthy**
+  - When you give off the perception of success, more success finds you.
+
+- **Buying businesses**
+
+  - A company that needs daily attention is not one that you’re going to buy ⇒ “Invest in businesses any idiot could run because someday one will.” —Peter Lynch
+  - If a deal or company looks too complicated, it’s not worth your energy.
+  - All you need to know to buy a company is its financials, its infrastructure, and its reach.
+  - You don’t need cash to buy a company but you do need cash to get things set up.
+  - Only pursue businesses that have a natural unfair advantage, e.g.:
+    - Digital over brick-and-mortar.
+    - No employees.
+    - Already-established user base.
+    - Have a monopoly over a distribution channel ⇒ (e.g. category dominance Apple app store, review category dominance on G2)
+
+  - Free apps and web extensions are good buys for beginners ⇒ They hit all of these criteria and you can usually get them for little money because the owners aren’t making substantial income off them.
+  - One 3-step framework Nathan uses:
+    - Buy free digital properties with a big user base.
+    - Hire a developer to put up a paywall that appears after someone uses the product a certain number of times.
+    - Reinvest the revenue back into the company as needed. 
+
+  - Find companies to buy on app stores and review sites ⇒ look for companies that haven’t been updated for a while.
+  - 4 steps to buy a business:
+    - Inquiry ⇒ “Hey, are you interested in selling X company?” 
+    - Offer and Negotiations ⇒ go back and forth until you agree on a sale price. 
+    - Letter of Intent (LOI) ⇒ this can be as simple as a quick email outlining your terms
+    - Due Diligence ⇒ sign an NDA (non-disclosure agreement) and then review their systems and finances. If things aren’t as expected, renegotiate or walk away.
+
+  - During due diligence, you’ll want to find out:
+    - How they acquire and retain customers
+    - How much time they spend on the business
+    - Whether they have any financial or legal liabilities
+
+  - Payment terms are not the same thing as sales price ⇒ you can pay the sales price upfront or over time or even use clawbacks.
+
+  - A few tactics to juice a business after you buy it:
+    - Double pricing. Do this the moment you take over a company — only for addicted users. If the product was free, start charging. If pricing was already established, double it. As consumers we love “free,” but we also believe that we get what we pay for. And we’re willing to pay for something that brings us value.
+    - Focus on getting current customers to pay more. Step 1 is about scaling your prices for new customers. But you can double your business without adding a single new customer by getting your current user base to pay you more, or to buy more from you.
+    - “Reduce your land and accelerate your expand.”
+      - “Our job is to land as fast as we can in the smallest thing that we can and then expand,” says Medina. “The phrase we have here is ‘make them a customer.’ The moment you make them a customer the magic shows up.”
+      - “If you keep that user active and successful, you’re going to retain them forever.”
+
+    - Optimize SEO. The options for search engine optimization (SEO) tools are endless but you can optimize your SEO for free, so make this a focus as soon as a company is yours.
+    - “If you want to spike your SEO beyond organic content I recommend using SEMrush. It’s the platform I use and understand despite knowing very little about SEO. It’s a great tool for beginners to get an edge.”
+
+    - Change where your payment pop-up shows. If you don’t have a pay wall yet, you already know you should add one. But also make sure you’re adding it in the right spot. Tying payments to usage metrics is such an effective approach because the more someone uses something, the more likely they are to get addicted to it, or rely on its utility, and be willing to pay.
+    - Understand the actions that turn leads into customers. For a brick-and-mortar store, you always want customers to walk to the back of the store. That action gets them to see more products and potentially pick things up off end caps. It’s why the most alluring section in the store — the sale rack — is always at the back. Digital properties also need customers to do certain things to become sticky. Facebook knows they need to get you to add seven new friends in the first seven days for you to get addicted to the platform. Dashlane, a password management app, knows that free users are most likely to turn into paying customers if they do two things within the first five hours of installing the app: add ten or more passwords, and install the app on at least two devices. So Dashlane CEO Emmanuel Schalit and his team doubled down on getting new users to do these things with as little effort as possible.
+
+    - Launch an affiliate program or partner network. This incentivizes others to help you drive sales by giving them a cut of revenue for customers they send your way. The most important thing about an affiliate program is to make sure you set up an offer that other people are likely to then sell through to their audience — 30 percent of the sale price is a motivating number, for example. Once you have that structure set up you can decide whether you want to use software to manage the program. I use Ambassador.
+
+  - The average net worth of people under thirty-five years old in the United States is $4,138 (Source).
+
+  - The best way to find off-the-beaten-path investments is to source them yourself ⇒ pay attention to the companies or entrepreneurs you encounter in your everyday life.
+
+  - When a business looks hot to you, and you have money with which to experiment, introduce yourself to the owner. Tell them you’re looking to invest in a business and see if they bite. At worst they’ll say no and you make a new friend.
+
+  - People or companies with big email lists are unconventional opportunities ⇒ How you find people with big lists will depend on your industry. (See Paved.com for one example.)
+
+- **Copying competitors**
+
+  - Winners don’t have new ideas; they copy competitors and add a unique angle.
+  - Find an idea to copy:
+    - Look at crowdfunding sites: Kickstarter.com, Indiegogo.com, Pozible.com, Ulule.com, and Fundable.com.
+    - Look at tool directories: Siftery.com (now part of G2), BuiltWith.com
+    - Search social media groups: LinkedIn, Facebook, Slack
+    - Listen to podcasts
+  - Reverse engineer:
+    - *Find out where they get their referral traffic* via SimilarWeb.com and go make friends with the CEOs/authors of those blogs/websites.
+    - *Find out what search terms they rank for* via Ahrefs or App Annie and start ranking for those terms
+    - *Find out how their product or service works via online research, free trials, and demos.*
+    - *Find out where their product or service tool is weak via review sites like G2 Crowd.*
+
+  - The best products rarely win; the best distribution often wins.
+
+  - 4-step process for copying and improving on competitive offerings: 
+    - Find a hot industry
+    - Figure out why leaders are leading
+    - Build your own version
+    - Attack their distribution channels
+  
+  - tools to look into
+    - Snappr.co
+    - ClaimCompass.eu and AirHelp.com.
+    - FundedToday.com
+    - Flightfox.com and have their experts figure out the most efficient and most luxurious way to fly you around the world. I paid $50 for the service, and they ended up basically handing me a $4,800 check.
+    - According to WalletHub (https://WalletHub.com/edu/states-with-the-highest-and-lowest-property-taxes/11585/), the states with the lowest real estate taxes are:
+    - Use a site like Revestor.com to see cash flow opportunities in your area.
+    - Use www.SlackList.info to find Slack lists in any industry.
+    - Ahrefs is a tool that tells you which Google searches make your competitors pop up. Going to https://Ahrefs.com
+    - ActiveCampaign, a company that I use for specific email marketing campaigns (Aweber is what I use for everything else)
+
+- **Multiplying your business**
+
+  - *Multiplying* = finding the patterns that link different projects and then use those connections to make more money ⇒ 1 + 1 = 3.
+
+  - A few multiplier ideas:
+    - Expand your offering ⇒ Ask customers what else they buy to solve the problem you solve and buy, partner, or build that product.
+    - Match your outputs from one project with your inputs from another
+    - Drive down expenses / pool them across ventures
+
+- **Selling your business**
+
+  - Timing is everything.
+  - “If a company is truly passive and making you money, hold it. If it takes your time with no end in sight, sell.... If numbers are flat or declining, sell.”
+  - Rule of thumb: If selling will get money in your pocket now that would otherwise take you 3+ years to earn, take the deal.
+
+  - A few ways to find buyers:
+
+    - *Email competitors* and say “I really need to sell the business to take care of some personal stuff. Want to chat?” ⇒ Negotiate after the initial offer
+
+    - Use social media and say “Hey, everyone, I really need to sell the business to take care of some personal stuff. Let me know if you or anyone you know might want to chat.” ⇒ this is best for sub-$10K revenue per month businesses
+
+    - Reach out to top distributors ⇒ offer to sell them the whole company.
+
+  - You can always say no to offers.
+
+- **invest in realestate**
+
+  - “Door knocking gets me better prices, but it also uncovers details that online listings can never capture, and that owners and real estate agents may fight like hell to keep from you.”
+  - “As far as scouting locations, I only buy within ten miles of a college (I currently own in Austin near the University of Texas and in Blacksburg near Virginia Tech) because students keep those rental markets nearly recession proof. A quick way to confirm this is by researching whether a town’s rental rates and property values dipped in 2008. Just Google “property data” + 2008 + the city or county in which you’re looking to buy. Browse the results until you find the Property Search Map.”
+  - “Real estate agents have access to deals via their multiple listing service (MLS). Because agents want to represent you when you buy, their goal is to help you find a deal. So ask your agent: “Can you add my email to your MLS for any multifamily deals that come on the market anywhere in the county?” When listings come in, you’ll automatically see the data, which will include rental information.”
+  - “So aside from door knocking, target pocket listings. These are properties that a real estate agent knows are for sale, or might soon be for sale, that aren’t listed on the MLS. That means the public hasn’t had the chance to see them and spoil your chances at a sweet deal.”
+  - “You can get a more realistic sense of what a unit is worth, and whether it will make you money after expenses, by searching public records. Every county in the United States posts property records in its online tax portal. The particulars vary from county to county, but you can usually find your county’s tax portal by doing a Google search for “Your County Name + Your State + parcel ID.” My first deal was in Blacksburg, Virginia (Montgomery County), so I searched “Montgomery County VA parcel ID.”
+  - “Once you have the owner’s contact info, invite them to coffee and see if they’d be willing to sell. Offer 100x what they are making on rent per month. If their unit makes them $2K per month, offer $200K.”
+  - "If the worst-case scenario does not generate cash flow (monthly income greater than $0), do not do the deal. This is called “stress testing” a deal.”
+
+  - Step 1: Find a great deal. Go to a real estate agent in your market and ask them for direct access to their “Back-end MLS.” They’ll put your email in their system and anytime a new deal comes on the market, you’ll get an email. 
+  - Step 2: Figure out how much money you can make. Peek at these deals every now and then and compare the selling price to the rental income. The MLS will have rental income listed if it exists. Look for deals where rent makes up at least 1 percent of the total deal value. If the sale price is $200K, you’re looking at a good deal if rents add up to about $2K. 
+  - Step 3: Finance the deal with no money down. Minimize the cash you need. The largest chunk of cash you pay in a real estate deal is the down payment. If you’re living in the place you’re buying, expect to put 5 percent down. If you’re renting, expect to put down 20 percent. Our next step details how to get out of paying this money down.
+  - Step 4: Manage your property without spending time. Find the property management company you want to use to manage your unit after the purchase. Your business is worth about 10 percent of rental income per month. If you make $2K in monthly rent, the property management company will take $200 per month or $2,400 per year. If you intend to hold the property for life, let’s say fifty years, that money starts to add up. Ask your property management company to write you a $4,800 check (two years of property management fees); otherwise tell them you won’t do the deal and they’ll miss out on a lifetime of 10 percent of your rental income. 
+  - Step 5: Close the deal. Sit back and collect your monthly payment. In my example that’s $500/month.”
+
+
+
 # finding deals (off-market)
+  - working it backwards
+    - Deals - i.e: 24 deals (2/month)
+    - Budget - $24,000/year ($1,000/deal)
+    - Offers - 5 offers to get 1 deal 24 deals x 5 offers = 120 offers or 10/month
+    - Appointments - 8 appointments for 5 offers 8 ÷ 5 = 1.6 appt/offer … 120 offers x 1.6 = 192 appointments or 16/mo
+    - Leads 
+      - 4 leads / appointment
+      - 192 appt. x 4 = 768 leads / year - or -64 leads / month (32 leads = 1 deal)
+    - Lead Campaigns
+      - Lead Generation Campaigns -> of Leads/month -> Cost/month
+      - Radio Ad -> 9 -> $300
+      - Newspaper Ads -> 2 -> $250
+      - Direct Mail - Owners w/ equity (890/mo) -> 8 -> $668
+      - Direct Mail - Tax Sale (700/year) -> 3 -> $525
+      - Direct Mail - Expired Listings (120/mo) -> 6 -> $90
+      - Direct Mail - Preforeclosure (120/mo) -> 6 -> $90
+      - Car Sign -> 3 -> $0
+      - Pole/Yard Signs -> 5 -> $10
+      - Birddog System - Vacant Houses -> 15 -> $150
+      - Referrals (newsletter, network, business cards) -> 10 -> $75
+      - Total: 67 $2,158
+    
+    - Next Actions 
 
 # Quotes
+
+“Pay attention to what’s blowing up today. If weekly food delivery is big, don’t try to compete with HelloFresh and Blue Apron. Rather, figure out the infrastructure that those businesses rely on and offer it to them.”
+
+“Joining the New Rich has only two requirements: a desire for more free time to do what you want while making money on your terms, and ambition. I can’t teach ambition, so you’ll need to bring your own.”
+
+“The key is to analyze a business and pinpoint a need it’s not meeting for its customers — and then meet that need yourself.”
+
+“However you start out, my only rule is that you’re always pursuing three new opportunities at the same time. Once a venture is up and running, you’re going to set it on autopilot so it only takes an hour or two of your time per month.”
+
+“That’s why the rules of baseball allow three chances to swing at a good pitch. The same goes for your business ventures. Sometimes you’ll miss those good balls because you’re not looking; or you’ll have other life emergencies that keep you from calculating that perfect swing. It’s OK to miss, but it’s important that you actually swing at those good balls.”
+
+“Another big reason it’s so important to swing at those good balls is that when you swing and miss, you get to diagnose why you missed. Any venture you attempt and then shut down accelerates your learning. Swinging at each good opportunity sets you up to learn three times faster than if you’d never tried.”
+
+“You won’t have time to work on three huge, time-consuming projects at once. So focus 80 percent of your time on one project — the one that brings in the most money or that has the potential to be your biggest earner. Split the other 20 percent of your time between the two remaining ventures.”
+
+“I’m an investor in a hostel where I live in Austin, Texas. One thing I’m betting on is that as we move into the next four or five years, people are going to hate the idea of paying rent. They’ll much rather pay a monthly subscription fee to live anywhere they want in the world. If I want to tap into that demand, I’ll have to own hostels in multiple cities around the world. People will pay me one fee of, say, $1K per month and they can choose to stay in whichever one of my properties they want, whenever they want. They’ll have location freedom.”
+
+“That’s essentially what you’re doing when you’re copying — you’re looking for the patterns that got your competitors to the top. Then you’re using that information to match or beat them. When you do this, you’re essentially getting a free business lesson. If you don’t copy these free lessons, you’ll have to do what those with less knowledge do: pay to learn the lessons yourself.”
+
+““I’ve always thought that each person invented himself . . . that we are each a figment of our own imagination. The problem is, most people have no imagination.” — David Geffen
+
+“Imagine how your life would change if you didn’t buy these items unless you could actually afford to buy one every day. This is a good rule to use, and it’s also why most goals are so dangerous. When a goal is small enough to seem doable, even if it’s hard, you focus on the win and never put effort into mastering the process that will get you that result plus more (over and over again).”
+
+“Systems thinking requires you to give up making money today in exchange for taking the time, energy, and sweat equity to set up systems that will do the work for you in the future. It’s a lot of up-front work, and that’s the problem for most people. They prefer the short-term win. They need the instant gratification.”
+
+“Build systems around the things that take up most of your time. Sadly, most people don’t even know what those things are. How many of us are constantly busy but can’t look back on our day and say what we did? It’s all a blur. If that’s you (and even if it’s not), spend a week documenting what you’re doing. This kind of awareness forces you to be reflective and intentional, not reactive to whatever thing is in front of you.”
+
+“This is the essence of systems leverage. If you have a clear system, it can be done faster and cheaper by somebody (or even something) other than you.”
+
+“Getting your system set up is more important than deciding you want to make $1M per year. That’s because once you have the bones of your system set up, the way you crank up production is by changing your inputs and outputs, better managing your stocks, and creating feedback loops that give you a true unfair advantage against your competitors.”
+
+“Think about all of your expenses right now. Now go negotiate all of them down using hard and soft power (hard: “I’m canceling my account unless you give me a $100/month discount”; soft: “I’m trying to save money and it would mean a lot if you could decrease monthly payments for two months until the business regains its footing”).”
+
+“a tool called Acuity that lets the CEOs pick a time from my calendar. No need for a middle person to deal with scheduling. Immediately after the interview happens Acuity sends the CEO an email to thank them and let them know when the interview will go live.”
+
+“Make sure the systems you’re spending most of your time and money on scaling have a direct correlation to additional cash flow, whether that’s downloads that translate to sponsor dollars, website impressions that convert to an increase in your average cart checkout size, if you’re an e-commerce brand, or a system for marketing the newspaper that drives more people to your brick-and-mortar location.”
+
+“People often get stuck working on systems that suck up their time but don’t bring in cash. It’s so tempting to lie to yourself because a system feels good when it isn’t actually accomplishing anything. So be hyperintentional about where you’re spending your time and ruthlessly kill any systems that don’t have a direct correlation to growing your bank account.”
+
+“I came up with a very simple “Decision System” I filter these kinds of purchases through. It saves me energy every time this sort of purchase comes up, and its simplicity gives it a very high utility value. If, with my current monthly income stream, I couldn’t afford to purchase one of these things every day, I don’t buy it. Simple as that. That’s the rule. For cars, houses, vacations, dinners, everything.”
+
+“That’s the beauty of what I call “selling pickaxes to gold miners.” You let the gold miners do all the work and then siphon profits off the market they’ve created. This works in B2B selling and on the consumer side, too. So while everyone’s spending money on fidget spinners, you might sell the “Fidget Spinner Sticker Kit.” While Amazon pulls a profit from third-party sellers, you might create an inventory-tracking program for those sellers. Pickaxes are hiding behind every popular marketplace. They can be hard to spot at first, but the more you start thinking this way, the more they’ll show themselves to you.”
+
+“Study the greats to find history’s lucrative patterns. Read biographies of successful businesspeople and identify the behaviors and strategies that got them to the top. You can also turn to documentaries — like American Genius and The Men Who Built America — to learn how pioneers built businesses.”
+
+“Whatever your business or industry, remember that the gold mine is the hot trend. That’s the part of the iceberg above the water that everyone sees and wants. The pickax is the part of the iceberg below the water — the part nobody can see but that the hot trend relies on to function.”
+
+“Victor Levitin created CrazyLister in 2013 in response to sellers’ frustration over the complicated process of posting items on eBay.”
+
+“There’s rarely a magic bullet for immersing yourself in a new industry — but Toptal is pretty close. You can know nothing about a particular business area, but post your project on Toptal and they will recommend experts for you to work with. So let’s say you want to develop an app that helps salons book appointments more efficiently. You can post that exact sentence on Toptal and they’ll help you find mobile developers. It’s that simple.”
+
+“That’s a big blind spot for people. They shut down opportunities they’re not interested in rather than letting the conversation play out. But remember, your best analysis is done when you have people’s best and final offers in hand, whether that’s employees you want to recruit, CEOs you’re trying to sell your company to, or customers you’re trying to sell a product to. You want to be as close to the finish line as possible before you decide on anything so that you have the best and most accurate data possible. Do this even if you don’t want the deal. Remember, your best position in a negotiation is when you don’t need it to work out. Your upper-hand approach may get you terms so good that you’ll change your mind.”
+
+“Most people, though, won’t accomplish anything. They’ll get charged up by a project’s potential, obsess over their to-do lists, then feel paralyzed by the enormity of it all. Or at best, they’ll get through 10 percent of what needs to be done before they quit.”
+
+“Every time you switch tasks it takes five to ten minutes to reengage with the thing you were doing beforehand. If you switch tasks ten times during the day, that’s one hundred minutes, or almost two hours of productivity you lose every day.”
+
+“Men acquire a particular quality by constantly acting a certain way.” — Aristotle
+
+““Invest in businesses any idiot could run because someday one will.” — Peter Lynch
+
+“Employees are usually an organization’s biggest expense, so I avoid business models that rely on them. Digital products are perfect for this because you can tap the huge talent pool of freelancers on Toptal.com, Freelancer.com, Fiverr.com, etc., to do the work you need on a project basis. When the work is done you put the product on autopilot and print money until you decide to do another update (then tweak, test, and back on autopilot).”
+
+“You don’t want to spend time building an audience from scratch, or learn the hard way that there is no audience for your product.”
+
+“So, my basic strategy, step-by-step: Buy free digital properties with a big user base. Hire a Toptal developer to put up a pay wall that appears after someone uses the product a certain number of times. Reinvest the revenue back into the company as needed. Also use the income from this business to buy other companies (and to fill my pockets!).”
+
+“When I discovered Mail2Cloud it had already been in the Chrome Web Store for five years. It was rated as a top recommendation in the store’s Productivity category and had more than two thousand five-star reviews.”
+
+“It was no Google, but Mail2Cloud clearly had a solid spot in a specific distribution channel — the Chrome Web Store’s Productivity corner. Mail2Cloud’s user data on ChromeBeat.com also showed that it had been consistently adding one hundred new users every day for the last four years.That was enough information to make me want to keep exploring.”
+
+“Start searching: Browse sites like AppAnnie.com, the Chrome Web Store, the Salesforce AppExchange, the Intuit App Center, or the Apple App Store for the top mobile apps in different industries and categories. See what companies rank high on G2 Crowd. Search CrunchBase.com for companies that raised capital but haven’t gotten new funding in the last three years. They’re probably failing, and you’re likely to get them for a great deal. I have several friends who have bought companies for $30K or less after those companies raised at least $10M in start-up capital. I don’t recommend that beginners do this, but if you build up the experience to take on this kind of acquisition, always make sure you can identify the reason the company is failing and whether it’s something you can easily turn around.”
+
+“When searching for apps or Chrome extensions I go entirely by reviews, number of users, and the date the software was last updated. If reviews and users are high and the last update was more than a few months ago, I consider it a prospect.”
+
+“Once I take over a company I run it through my playbook to get it operating at top efficiency.”
+
+“Starting a company from the ground up teaches you what’s needed to run one well. I recommend that before you buy a business, try starting one yourself just so you can learn. If you never obsess over creating a system that kills inefficiencies and generates cash flow you won’t know how to recognize one when you see it in another company. It also helps you appreciate what you’re getting when you do buy one. These companies already have systems set up. They already have customers. You’re just running tweaks on them.”
+
+“Buying is also much more of a beginner’s game than investing. It sounds counterintuitive, but you need more cash in hand to invest in a business than you do to buy one. CEOs won’t waste time talking to someone offering a $1K investment in their company. They want at least six figures. Even very small businesses need a good chunk of cash before they’ll consider forking over equity. Ming’s Yummy Thai Food, a two-person operation, needed $6K for my investment to have a meaningful impact on their cash flow. Firehouse Hostel needed $11K. By comparison, you can buy a company for very little money, or no money at all, if you find a motivated seller. So focus on buying companies if you’re just starting out. As you keep doing it, you’ll eventually start writing investment checks with the extra cash flow. One revenue stream spawns another. Exactly what you want.”
+
+“The smarter thing to do, and what I do when I’m interested in making a larger investment in a company, is ask to see their numbers. I need them to show me at least a three- or four-year financial history before I consider investing. Anything less is too risky. And if they don’t have a structure for reporting that lets me look at their historical financials and see growth, I’m out. I also need to have confidence that once I put money in, I’ll get updated financial reports every month. If that doesn’t exist I stay away from the investment.”
+
+“One of my key strategies is to look for a business that is making a big monthly payment on something. If I can pay for that thing up front, erasing the payment, it frees up their cash. I’ll then tie my return to the growth of the business, which I know I can help drive with my distribution channels.”
+
+“How you find people with big lists will depend on your industry. I’m in software, so I’d go to sites like G2Crowd.com or Siftery.com and see who has the most users. Obviously if they have a lot of users they have those users’ email addresses. Then I’d do cold outreach to those companies. Paved.com and Sponsored.tech are two more outlets for access to big email lists.”
+
+“In terms of finding people who’d want to buy access to lists, listen to podcasts and notice who is sponsoring them. Those same people are looking to pay for additional exposure. Also Google keywords associated with your industry, or whatever the list is about that you’re brokering a deal with. Notice who is running ads for that thing, then reach out to them and say: Hey, I noticed you’re spending money on Google ads. You might get a better return if you spend some money with me and email this list, which is catered to the same keywords that you’re running on Google.”
+
+Ironic given Facebook copying Snapchat’s stories sent Snap into a bit of a death spiral — “People are going to copy your product if you build great stuff. Just because Yahoo has a search box doesn’t make it Google.” — Evan Spiegel
+
+“Have you seen those sections at the bottom of major blogs that showcase sponsored content, or “related posts”? Companies like Outbrain and Taboola have dominated this space for years, but it didn’t stop John Lemp at Revcontent from throwing his weight into the competition. In 2017, Revcontent processed $184M of ad spend through its platform, collecting 25 percent of that as revenue. This is a prime example in which a big thinker ignored the conventional wisdom that “you must have a new idea!” Instead, he went right after business models already proven and is now chipping away at their lead.”
+
+“BuiltWith.com is a site that will tell you what technologies other websites use. In other words, it lets you see what pickaxes the gold miners are using. If you were interested in the e-commerce space, it’d be valuable to know who currently has how much market share. You can then reverse engineer why the winners are winning and losers are losing to increase your chances of success in the same space. Go to BuiltWith.com and click TOOLS in the dropdown to start exploring trends.”
+
+“SimilarWeb is a tool that tells you where websites get most of their traffic from. If I wanted to build a competitor to Todoist.com, I’d go to SimilarWeb, type in “Todoist.com,” and this report would generate: I immediately learn that the majority of Todoist.com traffic comes from LifeHacker.com and Ifttt.com. Go make friends with the CEOs/authors of those blogs/websites. It’s a double whammy to persuade those people to write about your new tool while at the same time hurting your competitors’ traffic.”
+
+“Use App Annie if you’re trying to study a market in the mobile app space. For example, if I were analyzing the document signing space, I might explore how HelloSign ranks so well in the App Store. Going to App Annie and searching “HelloSign” creates this word cloud that tells me what people search in the App Store to find HelloSign.”
+
+“Post a job and let Toptal recruiters go find you development talent. I used Balsamiq.com to wireframe different user flows for the new tool, which helps my developer better guess how much time (and money!) a project might take”
+
+“The reason I much prefer using a site like Toptal to build my initial prototype is twofold: You keep 100 percent equity in your company. You don’t increase your fixed monthly expenses as you would if you hired an employee. Also, you don’t have to worry about health coverage, birthdays, or office parties (which usually waste time).”
+
+“Once you’re done using Toptal to build your minimum viable product, you want to start figuring out ways to attack your competitors. Read their support forum if they have one and see what their most requested features are that don’t exist yet. I call this the “support-driven business launch guide.” You can literally launch a business based on the intel you find here.”
+
+“There’s a specific way to do this to get the information you want: immediately after one of your customers checks out, ask them what other products they buy that are similar. You can do this whether you have one hundred, one thousand, or three customers. Just send them an email asking: “What other tools have you bought to help you X?”
+
+“Look at which customers have paid you the most historically, then figure out why they paid you the most and introduce pricing tiers around that data. Don’t make decisions based on your gut alone, which is sometimes right but often wrong. You want gut + data.”
+
+“If you’re spending all your time running a company, it’s preventing you from generating other revenue streams. A lot of people lie to themselves about this. They think a project is passive when it actually eats tons of their time. If a company is truly passive and making you money, hold it. If it takes your time with no end in sight, sell.”
+
+“I was obsessed with Jim Collins’s mantra: Good is the enemy of great. And I wanted big-time “great.” I knew I had to get out of Heyo and free up my time so I could do the deals I’m doing now, which are making me millions. It was the right move.”
 
 
 # References
@@ -40,3 +481,6 @@ tags: ["realestateinvesting", "financialindependence"]
 - https://coachcarson.libsyn.com/how-i-bought-33-real-estate-deals-in-one-year-a-case-study
 - https://manassaloi.com/booksummaries/2017/07/24/no-money-down-turner.html
 - https://manassaloi.com/booksummaries/2020/12/30/capitalist-latka.html
+- https://medium.com/@kwharrison13/how-to-be-a-capitalist-without-any-capital-book-review-quotes-a8767fe1f3d7
+- https://summaries.com/blog/how-to-be-a-capitalist-without-any-capital
+- https://www.ricklindquist.com/notes/how-to-be-a-capitalist-without-any-capital
