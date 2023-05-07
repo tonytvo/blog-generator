@@ -19,12 +19,36 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # owner occupied investment properties
 
-- todo review multifamily millionaire volume 1, chapter 15
+- The small multifamily house hack entails adding a unit to a single-family home, which is legal in most locations. The added unit can be used for either vacation or rental purposes. 
+ 
+- House hacking is a great way to get started in multifamily investing, especially for those who don’t have a lot of capital to put down. Because of the low down payment, you can get a loan for up to 97 percent of a property's appraised value. 
+ 
+- House hacking works in any market, and with a duplex, triplex, or fourplex, you’re giving yourself landlord training wheels. 
+ 
+- House hacking helps you build the systems, skills, and confidence needed to build a generational fortune by renting out houses. 
+ 
+- To start, you'll need to determine your maximum purchase price and your expected cash flow. You'll need to make some adjustments to those numbers once you move out and the property is yours alone. 
+ 
+- After analyzing the deal, you'll be able to run the numbers and compare them to a traditional multifamily investment. You'll need to include property management fees and increase your repair budget if necessary, but the final cash flow and cash-on-cash return should still meet your requirements. 
+ 
+- House hacking is the first and most important step towards becoming financially free. It entails modifying a property to make it suitable for rental. This entails installing new plumbing, wiring, and 
+amenities like closets and pantries. 
+ 
+- One of the downfalls of house hacking is that it limits the number of times you can do it. Because you are limited to only one FHA loan at a time, you'll need to refinance your properties as soon as you obtain more cash, which takes time. 
+ 
+- If you have a partner, try to change their mindset about real estate investment by sharing your vision and emotions, and by watching media that motivates you both. 
+ 
+- It is a serious crime to lie on your mortgage application. If caught, you could end up in jail with Beatrice and Bruno, the names of the two inmates who share a cell. 
+ 
+- Treating your tenant-neighbors like friends instead of business partners is a big no-no. Make them follow the same processes and systems as any other tenant, and this will help you maintain a professional relationship with them. 
+ 
+- The first steps in house hacking are the same as for any other kind of multifamily investment: educate yourself about what you want, establish your cash-flow capacity, and find a lender to give you a loan. 
+ 
+- The author advises to look at the numbers twice: first, assuming you'll be living in one of the units and collecting no rent, and second, after you've moved out, to see if they still make financial sense.
 
 - an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of home-ownership.
 
 - You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
-- small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate constant monthly income.
 
 - The first guideline is to invest in properties that even after a conservative estimate, still prove to be good investments. This implies you must be conservative when investing. 
   
@@ -68,8 +92,101 @@ Housing and Urban Development (HUD) that insures loans made by banks. Before the
 
 # BRRRR
 
-- review multifamily millionaire volume 1, chapter 17
-- review multifamily millionaire volume 2, chapter 19
+- After graduating from law school, the author attempted to be a house flipper, but was unsuccessful because the market had crashed. He then tried to find a way to pay off his high-interest credit cards by renting out his property. 
+ 
+- The BRRRR method involves buying a house with short-term money, renovating it, renting it, refinancing it, and repeating the process until you have a large portfolio of cash-flowing properties. 
+ 
+- The BRRRR method relies on one fundamental principle: increasing the value of a property through renovation. You need to save as much as possible while keeping your costs as low as possible in order to increase the value of your property. 
+ 
+- To calculate the maximum amount a property could possibly be worth when it's renovated, start by figuring out what the property is worth when it's not renovated. This is called the after-repair-value. After the property has been renovated, its ARV will be significantly higher. 
+ 
+- After getting a feel for the area, the next step is to get the asking price of the house. If it falls with- in your price range, you can start negotiating with the seller. 
+ 
+- **ARV x LTV from Lneder = Total All-in Costs**
+- **[Total All-in costs] - [refinance closing costs] - [rehab costs] - [initial closing costs] = [Maximum Purchase Price, MaPP]**
+
+- The Four-Square Method allows you to quickly calculate the pure cash flow and cash-on-cash return of a property, after taking into account the purchase price, rehab costs, and the amount of money you put in, as well as the amount you get out. 
+  - you will need to analyze for pure cash flow in 3 different ways to accommodate the 3 distinct phases of BRRRR investment:
+    - **rehab**: during this phase, you may have tenants in some of the units, or maybe all of the units were cleared and you're 100% vacant. During this time, you'll want to know how much cash flow you're earning, or losing, each month.
+    - **post-rehab/pre-refinance**: when you've rented the property out but are still using the short-term money. This period of time, known as the seasoning period, should last twelve months at most, so don't panic if the returns don't look promising right away: They are just temporary! But it's still good to know what you can expect during this period and make sure you're prepared.
+    - **post-refinance:** how is this property going to performance in the long run (after the refianace into long-term money). Specially, we pay close attention to CoC return, pure cash flow, and annualized total return for each year following the rehab.
+  - ![4 square method](./four-square-method.png)
+ 
+- By refinancing a property and pulling out most of the money, you generate an infinite return on your investment because you're making cash flow while having little to nothing invested in the deal. 
+ 
+- The other advantage of the BRRRR approach is that it allows you to build a portfolio using low or no down payments. This allows you to acquire more properties and ultimately refinance them for a higher ARV, which allows you to recuperate the money you invested in them. 
+ 
+- The traditional investment involves putting down a large down payment, while the BRRRR investment does not. The traditional investment has a total loan amount of $240,000, while the BRRRR investment has a total loan amount of $240,000. Both have the same final amount, because all variables are equal, but the BRRRR investment has greater equity since it utilizes the property's ARV to calculate the loan. 
+ 
+- The BRRRR method allows you to reuse the same money to invest in multiple properties, which permits you to expand your portfolio much faster. 
+ 
+- Replacing the appliances and the water heater when you refinance a property is a good way to increase your cash flow. Replacing the flooring when you replace the appliances and the water heater is a great way to reduce your time spent on maintenance, which in turn allows you to spend more time on the important tasks at hand. 
+ 
+- Equity is the difference between what your property is worth and what you currently owe on it. The more equity you have, the wealthier you appear on paper. With each property you buy, your net worth increases by leaps and bounds. 
+ 
+- The BRRRR method is effective at all different scales, from single-family houses to large apartment complexes. It can also work with self-storage, senior housing, and low-income housing. 
+ 
+- Because BRRRR is riskier than other types of investing, you must be well prepared for the process. You'll need to learn how to buy, rehab, and manage rental properties, and you'll need to be able to refinance and get your money back. 
+  - Lenders can give you pre-approved loans before you start a BRRRR, so you can be certain that you will be able to refinance the house after you finish it. 
+  - To stay on budget, follow these four steps: 1) Fully understand the work required to achieve the final result and create a detailed scope of work that covers everything, 2) always include a whoops/ 
+overages line item in your budget, 3) get quality contractors to do the work, or do it yourself, and 4) hold your contractor accountable for the quality of work. 
+  - The after-repair-value, or ARV, is the most important metric when doing a BRRRR investment. The refinance amount is based on the ARV, and most banks will lend between 70 and 80 percent of the new value. If the appraisal on your BRRRR comes in low, your new loan will be low. 
+    - base ARV estimate on good data (talk to a local real estate agent for comps)
+    - consider challenging the appraisal for refinance if it is low. Provide the appraisal proofs on the rehab works (before after pictures), list all of the rehab works for the appraiser
+  - Before refinancing a property, make sure to talk with several lenders to determine their seasoning requirements, and be prepared to account for the time between when you buy and refinance a property.
+    - when you BRRRR a small multifamily property, traditional residential lenders typically require a period of time between when you guy the property and when you refinance it. This period of time is known as seasoning and can affect your math, so it's important to understand how seasoning works and factor it into your plans. Seasoning is typically six months long but can be as long as twelve months for some lenders. This means you may have to continue paying the higher rates on whatever short-term financing you used for the first six to twelve months, which can affect cash flow in the first year.
+ 
+- The BRRRR method entails buying a property with short-term money, rehabbing it, and renting it. Repeat the process as you build your portfolio.
+
+- Every real estate investor is striving to increase the amount of money they make. The key to achieving this is to find ways to increase the property's income, lower its expenses, or both. 
+ 
+- The potential for adding value to a multifamily property is through any changes that will either increase the revenue a property is generating or decrease the expenses it is incurring. 
+ 
+- Increasing the property’s NOI by $100,000 results in a $2 million increase in value. This can be accomplished by adding value through renovations, creating a more desirable environment for tenants, or increasing the property’s rent. 
+ 
+- The most effective way to increase the value of a multifamily property is to reposition it and up- grade the units. This requires more work and risk than some of the simpler methods discussed in the book, but it can also provide exceptional returns. 
+ 
+- Repositioning a property entails making improvements that tenants are willing to pay for. The first step is to understand the market dynamics in the area where the property is located. After that, 
+obtain as many comparable properties as possible, study their pricing details, and make necessary adjustments. 
+ 
+- Identifying ways to improve the appearance of a property is an important step in positioning it to obtain the best rents. The most effective way to achieve this is by means of repairs and replacements that are easy on the eyes, such as fresh paint and landscaping. 
+  - a good property management firm should be able to help with an initial assessment. Special attention should be given to all major components, such as roofs, windows, doors, sewer lines, roads, and parking areas.
+ 
+- Landscaping, painting, and cleaning are some of the first things that need to be done when a property is taken care of, as they have a significant impact on the appearance of a property. Landscaping should be done to add value to a property, not to make it look good. 
+ 
+- When relocating a property, make sure the parking, roads, and sidewalks are in good shape. If not, make the necessary repairs. This will help with tenant retention when rents rise. 
+ 
+- The front door is extremely important in establishing the right first impression. It sets the tone for the rest of the house. If a prospective tenant sees a door with a broken handle, peeling paint, and a door that doesn’t lock, they’ll probably think the house is unsafe. 
+ 
+- Having cameras at the entrance and strategically placed around the office creates a safe and secure impression to tenants. 
+ 
+- The lobby of a building is like the lobby of a car dealership: it is where you display the lifestyle the customer can have if they purchase the car. 
+ 
+- Finishes such as paint, flooring, and furniture can add a lot of value to a property. Investing in these upgrades is a good way to improve the appearance of a property and make it stand out from the competition. 
+ 
+- Unit upgrades should be approached with caution, since they can be very expensive. The best way to handle them is to identify what upgrades are needed for a specific property, how much they will cost, and whether they are worth it based on the income they generate. 
+ 
+- A well-planned model unit is a crucial part of any upgrade plan. The model unit should have all the upgrade finishes that are included in your upgrade template, and should be meticulously designed and furnished. 
+ 
+- When repositioning a property, the first thing to consider is what baseline amenities are necessary to meet tenant expectations. After that, focus on adding specific, targeted amenities that meet your tenants’ needs. 
+  - playground/play area, library, pet-washing station, gym/fitness area, walking/running path, community room or clubhouse, outdoor kitchen or grilling area, garages, security fence and gated access, bike racks/storagbe, mail room with package lockers, recycling center, game room, dog park, pool, video intercom, community wi-fi, private, covered parking, doorman or security guard, online portal for payments & work orders, electric car charing stations, valet trash service.
+ 
+- Creating a sense of community among the tenants can also help improve the desirability of a property. 
+ 
+- Renaming a property can help improve its reputation, and getting positive reviews online can help with that as well. 
+  - put up promotional signs and advertise the property as "under new ownership" and "newly renovated"
+  - offer referral bonuses to tenants to encourage them to talk about all the improvements
+  - chronicle the property's transformation on social media with plenty of videos and before-and-after photos
+  - host a series of open houses. You can also invite community leaders and press for private tour.
+  - the best time to get reviews are at move-in and after a successfully completed work order
+ 
+- Increasing the value of a property through the addition of new amenities or units is an excellent way to raise the return on investment. A smart multifamily investor will look for ways to add value 
+to a property, which can be done through the incremental increase in rents. 
+ 
+- The best way to add value to a property is to increase its rent by implementing a good strategy such as increasing the number of units or improving the quality of the units. 
+ 
+- The author was able to close on the property, but was informed that a couple of the contractors were going to place liens on the building. The attorney that handled the transaction explained to 
+him that this was a result of the seller not being able to pay the contractors.
 
 # partnerships
 
