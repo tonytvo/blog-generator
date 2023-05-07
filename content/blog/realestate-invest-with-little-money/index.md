@@ -6,14 +6,92 @@ tags: ["realestateinvesting", "financialindependence"]
 ---
 
 # owner occupied investment properties
-  - an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of homeownership.
-  - You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
-  - small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate constant monthly income.
+
+- an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of homeownership.
+- You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
+- small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate constant monthly income.
+
+- The first guideline is to invest in properties that even after a conservative estimate, still prove to be good investments. This implies you must be conservative when investing. 
+  
+- owner-occupied investment property can be one of the cheapest ways to get started investing in real estate, as you won’t need to spend money on advertising or marketing the property.
+
+- An owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of home-ownership. 
+  
+- Many people treat their homes as if they were investments, when in reality, they are massive  liabilities that deplete your finances. You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later. 
+ 
+- Another form of real estate investment that can be done by an individual is the small multifamily home. Multifamily homes can be bought and rehabbed to rent out. 
+ 
+- small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the  same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate a constant monthly income. 
+ 
+- The decision as to which type of property to buy comes down to your lifestyle: whether you have a large family or not. If you do, you may want to go for a multifamily property. 
+ 
+- There are low money down lending opportunities that exist for homeowners that simply do not  exist for the typical real estate investor. By taking advantage of these opportunities, you can start building your rental portfolio with very little out-of-pocket cash and get started sooner than you may have imagined. 
+ 
+- The Federal Housing Administration (FHA) is a federal agency under the Department of 
+Housing and Urban Development (HUD) that insures loans made by banks. Before the late 2007 real estate market crash, FHA loans were rarely used because almost anyone could qualify for a mortgage with little or no money down. 
+ 
+- The Federal Housing Administration (FHA) is a federal agency created in 1934 to help with the shortage of housing following the Great Depression. The FHA provides low interest loans to qualified buyers. 
+ 
+- The FHA loan is a government-backed loan that allows you to purchase property. However, it also has its share of problems, such as the Mortgage Insurance Premium that can really add up and the fact that you can have only one FHA loan at a time. 
+ 
+- The Federal Housing Administration (FHA) is a government agency that insures loans provided by banks and other financial institutions. FHA loans are not insured by the government as much as conventional loans, but they are still insured. 
+ 
+- The FHA loan is another government insured loan that allows the borrower to borrow money to buy a home. The 203k loan is a subset of the FHA program and allows the borrower to borrow money to pay for cosmetic repairs such as paint and carpet. 
+ 
+- The biggest difference between a regular 203k loan and a streamlined one is the extent of the rehab. The streamlined one can be used for smaller cosmetic problems, like painting, carpet, and smells, whereas the regular one can be used for structural changes, like moving walls or building additions. 
+ 
+- The biggest disadvantage of the 203k loan is that it entails even more red tape than the regular FHA loan, and rehabs are riskier since they are subject to the MIP. 
+ 
+- The 203k loan is a great tool for first-time investors who purchase fixer-upper houses. The key is to use it correctly, which requires finding a property with basic cosmetic issues that can be acquired for far below value and with the potential for quick appreciation after purchase. 
+ 
+- The U. S. Department of Veterans Affairs (VA) provides financing for veterans and their families. Like the Federal Housing Administration, the VA offers insured loans that protect a portion of the lender's investment in case of default. 
+ 
+- The U. S. Department of Agriculture (USDA) offers one that works very similarly to the FHA and VA loan programs. The USDA Rural Development Single Family Housing Guaranteed Loan Program is commonly referred to as the USDA loan. 
+ 
+- In canada, CMHC is equivalent to FHA loan
 
 # partnerships
 
+- As a way to get started investing in real estate without a large amount of money, partnerships can  be a great option. This chapter covers partnerships and explains a few ways you can use them to invest in real estate without a large amount of money. 
+  
+- Your brand consists of yourself and your product. They are two sides of the same coin, and you need both to develop your real estate brand. 
+ 
+- Your personal brand is built through three primary areas: reputation, knowledge, and experience. People can smell that guy coming from a mile away. Never pretend to know more than you do, but use your gaps in knowledge as motivation to grow. 
+ 
+Your BRRRR approach requires you to develop a strong and consistent product, which is your service. You need to make sure your service is excellent, and it needs to be worth selling. People need to trust your brand, and they will only do so if the quality and profitability of the product you represent is trustworthy. 
+ 
+- If you build yourself into a trustworthy brand, the money will follow. When real estate investing becomes your passion, you will find that you can't help but talk about it. In turn, the people you talk to about it will talk to their friends about you. 
+ 
+- There are four different ways you can work with a Bob, and all of them involve giving up a portion of your profit to the investor, but obtaining a greater share in return. The first is an equity partnership, the second is a down payment equity partnership, the third is a private lending partnership, and the fourth is a credit partnership. 
+ 
+- Before partnering with someone, you must speak with a CPA and a lawyer who specializes in this kind of thing. Even something as simple as having your partner put in money at the wrong step can cost you thousands of dollars in taxes. 
+ 
+- While partnerships can be beneficial when it comes to growing your business, they also have their disadvantages. The main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well. 
+ 
+- When you rely on someone else, setting expectations as to how something should be done is easy. However, when your partner doesn’t live up to your expectations, it’s easy to grow bitter and blame him or her. One thing you can do to curtail this is to consistently underpromise and overdeliver.
+ 
+- When you are the sole proprietor of a business, taxes and accounting are much simpler than when you have partners. The more partners you have, however, the more complicated the bookwork becomes and the more time-consuming and costly tax season becomes. 
+
 # home equity loans/lines of credit
 
+- A home equity line of credit, or HELOC, is similar to a home equity loan, but even though you are allowed to borrow a predetermined amount of money, that money is not necessarily dispersed at the start of the loan. It’s available for you to borrow and pay back with flexibility. 
+ 
+- Home equity loans are a great way to get extra money when you need it the most. They generally have low interest rates, and the only risk you take is if your house's value decreases. 
+ 
+- A home equity loan or line of credit requires that you have equity in your home. The difference between what you owe on your home and its fair market value is known as equity. Lenders calculate this figure as a percentage known as loan to value. 
+ 
+- The best LTV for a home equity loan is generally around 75%. Anything higher than that is usually considered a HELOC, which stands for home equity loan. With a home equity line of credit, the interest rate is generally tied to the Prime Rate. 
+ 
+- Another strategy for using your home's equity to invest in real estate is by refinancing the loan through the bank after the repairs are made and the seasoning period is over. This allows you to pay off the home equity loan, which frees up your residence home equity to be reinvested. 
+ 
+- The second option is to get a business line of credit from a commercial bank or a portfolio lender. This allows you to access the equity in your properties, which is substantial in some cases. 
+  
+#- Overleveraging can be dangerous because it restricts your choices. If you don't plan on selling, and you have a fixed rate mortgage, being underwater may not be a big deal to you, because your payment won't change. However, overleveraging does remove options, and having options is critical to success in real estate. 
+ 
+- By using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction. 
+ 
+- The third danger of home equity loans and lines of credit is their potential for an adjustable rate. This is when you must conduct a Worst Case Scenario Analysis. 
+ 
 # strategies for using hard money
 
 # raising private money to fund your deals
