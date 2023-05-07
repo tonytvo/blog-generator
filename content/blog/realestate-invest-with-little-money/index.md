@@ -190,7 +190,24 @@ him that this was a result of the seller not being able to pay the contractors.
 
 # partnerships
 
-- review multifamily millionaire volume 1, chapter 16
+- The more deals you can handle with the available tools, the bigger the projects you’ll be able to tackle, and the faster your wealth will grow. The same applies to financing. 
+ 
+- the author needed to find a way to buy a triplex which was cash-flow positive despite not having the money to fund the down payment. He came up with the brilliant idea of partnering with a wealthy friend who was willing to front him the money to buy the property. 
+ 
+- A partnership is a special type of business structure that allows individuals to pool their money and resources together to buy a property. In a partnership, each partner contributes an agreed-upon  percentage of the profits, and each partner is legally liable for the debts of the other partners. 
+ 
+- The Deal Delta is a concept introduced by Br. Jason Hartman in his book How to Invest in Real Estate: The Ultimate Beginner’s Guide to Getting Started. It requires three things to work: knowledge, hustle, and money. You only need two of the three to start a real estate investment. The third, money, you must acquire by partnering with someone who has it. 
+ 
+- The key to finding partners is to start networking now, even if you don’t have a deal yet. You never know who might have $100,000 lying around just waiting for an opportunity like yours. 
+ 
+- When trying to find people to invest with, focus on demonstrating the four K's: knowledge, integrity, tactics, and experience. The most important one is knowledge, since you need to be able to explain how you plan to make money. 
+ 
+- If you must begin raising money from partners, start with people who don't care as much about your real estate investing experience since they know your character from other parts of your life. You can borrow someone's expertise by hiring a more experienced investor, or you can demonstrate your own abilities by creating a PowerPoint presentation or an investor packet that outlines your qualifications and the specifics of the deal. 
+ 
+- Money partnerships can be either equity or debt, depending on the preferences of the partners. Always check with your partners to discover what kind of partnership they prefer. 
+ 
+- Finding a financial partner is another way to get into real estate investing. You'll need to demonstrate that you have the Knowledge, Integrity, and Tactic to pull off a deal, as well as the Experience 
+to justify their risk.
 
 - investing in real estate with partners to avoid large amount of money upfront
 
@@ -269,8 +286,70 @@ him that this was a result of the seller not being able to pay the contractors.
 
 # raising private money to fund your deals
 
-- review multifamily millionaire volume 2, chapter 3
-- review multifamily millionaire volume 2, chapter 4
+- The best thing about attending a meetup or a mastermind group is that you meet other investors. 
+ 
+- One way to get started investing in real estate is through the multifamily rental business, by way of syndication. This involves raising capital by selling equity or debt to passive investors, who contribute cash and entrust you with their money in exchange for a share of the profits and the tax benefits of depreciation. 
+ 
+- The most common misconception about syndication is that it is overly complicated, requires extensive paperwork, and is best left to legal experts. But in reality, it is not your job to understand every law and regulation, but to put the pieces of the syndication puzzle together. 
+ 
+- The structure of a syndication is different from that of a limited partnership or corporation. There are two types of partners in a syndication: general partners who organize the deal and oversee the  entire process, and limited partners who contribute money to close and execute the plan. In return, they receive a share of the profits and tax benefits associated with the investment property's depreciation. 
+ 
+- The main goal of a real estate investment partnership is to raise money to buy or build a property. The process of raising capital involves distributing a percentage of the total partnership equity to the investor who brought the capital into the partnership. 
+ 
+- It is important to distinguish between capital raiseers and issuers. A capital raiser is a person or company that raises capital for a project, while an issuer is the entity that is raising capital. 
+ 
+- Lenders are not personally liable for the actions of the borrower, as long as they follow the terms of the loan. This makes them very suitable for investors looking to put their money into real estate. 
+ 
+- There are several ways to raise capital other than through an IPO, such as through an RBO, a REIT, a REIT-I, a PIPE, a BRRRR, a VCT, or a C corp. The most appropriate method for you to raise capital depends on your objectives and the availability of suitable investment opportunities. 
+ 
+- A syndication under Rule 506(b) allows you to raise an unlimited amount of money, provided that you don't publicize the offering or solicit investors. You must, however, have a reasonable belief that the investor is accredited. 
+ 
+- Cash-only deals can be problematic because they require more work from the investor, who may be less willing to invest if they don’t have the money right away. 
+ 
+- 506(c) offerings are restricted to accredited investors, but have several advantages over 506(b)s, such as the ability to advertise or generally solicit the offering publicly, which can help you reach 
+new investors and raise more capital. 
+ 
+- The Regulation A (Reg A) is a little more complicated and less used than the other options, but it has the advantage of being able to market the offering broadly to nonaccredited investors. The only caveat is that you must file a statement with the SEC for review and approval before going ahead with the offering. 
+ 
+- While you can advertise your fund and accept investments from non-accredited investors, their investments are limited to 10 percent of their annual income or net worth, whichever is greater. 
+ 
+- The main fees that a general partner in a syndication will charge are the acquisition fee, the finance/refi-nance fee, the asset management fee, and the disposition fee. 
+ 
+- As an alternative to individual projects, syndicates allow you to raise money for several projects at once. The advantages of a fund are the same as for individual projects, but the fund also diversifies single-asset risk for the LPs. 
+ 
+- You will need to prepare a summary of the investment that you are making. This should include an overview of the property and the market, a summary of financial information, your exit strategy, and the team you are putting together. 
+ 
+- The Private Placement Memorandum is a comprehensive document that details the risks involved in your deal, as well as provide a wide array of information and disclosures to prospective investors. The PPM should be drafted by a qualified securities attorney to ensure compliance and protect you from liability. 
+ 
+- The main difference between a flip and a rental is that in the former case, the investor acquires an asset, sells it, and then pockets the profits. With a rental, the investor rents an asset, retains  control of it, and then pockets the profits. 
+ 
+- The author was planning to convert the project to market-rate housing, but was informed that the contract had been extended by 20 years. He had to terminate the purchase agreement.
+
+- Private capital refers to the money that is provided to you by private individuals or firms that want to invest their money. It is used to buy investment property or fund a business. 
+ 
+- The first step in raising capital is to overcome your fear of sales, which stems from your lack of confidence. You will need to understand what motivates investors to lend or invest in order to secure money. 
+ 
+- The first step towards raising private capital is to find investors who are willing to preserve and generate wealth through real estate. You won't know who's interested in your offer until you start 
+discussing real estate and letting people know about the opportunities that exist thanks to your diligence and drive. 
+ 
+- The first place to look for potential lenders is within your inner circle of contacts. Once you've established trust with them, you can begin expanding your circle of contacts to people who will trust you with their money. 
+ 
+- Before you approach anyone about investing in your deal, explain your situation and explain how the investment will work. If they seem interested, ask if they would like to go through a sample deal with you to see what it looks like, and if so, how can you help them. 
+ 
+- When raising capital, the most common question from prospective investors is whether you are investing your own money and how much. You must be prepared to answer this question or else risk losing the deal. 
+ 
+- Keeping a record of your conversations with potential investors is crucial. There are numerous CRM solutions available to help you with this, such as AppFolio, Investor Management Services, and SyndicationPro. 
+ 
+- When raising money for a multifamily property, working with a private equity firm can be advan- tageous. These are the large investors who have the capital to fund the acquisition of large apartment buildings. However, they also have considerable power, and can force you to make changes to your plans if they so choose. 
+ 
+- If you can't or don't want to raise capital yourself, you have four options: start smaller, look for alternative financing methods, partner with someone who is well suited to raise capital, or hire or 
+contract someone who will do so on your behalf. 
+ 
+- It is crucial to secure sound legal advice both before and throughout the fundraising process, as you are entering a complex regulatory environment. 
+ 
+- Raising private capital is a delicate balance between being approachable and not being a sell-out. It's crucial to have a positive relationship with your investors. 
+ 
+- The author was planning on buying a property that was under a Housing Assistance Payments contract, otherwise known as a HAP contract. However, he ran into issues with the government, who were going to have to approve the contract extension he was working on.
 
 - Private money is money provided by nonprofessional lenders to fund your real estate deals. It can be used for short-term or long-term investments, and the rates and terms will depend on the lender and the property. 
  
@@ -489,8 +568,52 @@ shortly after. The buyer then uses the funds to purchase another property.
 
 # making an offer that sticks
 
-- review multifamily millionaire volume 1, chapter 18
-- review multifamily millionaire volume 2, chapter 15
+- After you find the perfect property, the process of making an offer is relatively simple. The offer should include the price you are willing to pay, the method of payment, the closing date, the closing 
+costs, and any contingencies. 
+ 
+- When a property is listed by a real estate agent, it is referred to as an on-market property. To make an offer, you will need a real estate agent to handle most of the paperwork and details. 
+ 
+- The agent is typically paid by the seller, while you, as the buyer, pay the agent. As such, you'll need to prepare your own PSA if the property isn't listed by an agent. 
+ 
+- When competing with other bidders, do everything in your power to stand out from the crowd. Shorten the period between your offer and the closing date, waive the inspections, reduce or waive your financing contingency, and provide proof of funds. 
+ 
+- Re-offering is when you start looking for another property and trying to buy it again. It is not a sign that you should lower your expectations or the quality of the property, but it is a sign that the  first offer was not enough. 
+ 
+- Auctions end with a bid which means the successful bidder has to pay the price the seller sets. If a seller does not respond to your bid, it does not necessarily mean that they will never respond to you. It could just mean that they don’t like your price. 
+ 
+- Following are some tips that will help you get better offers: send multiple offers, be patient, and don’t get discouraged if a deal doesn’t work out.
+
+- When a property is listed with a brokerage, an LOI must be signed by all parties involved before any money changes hands. This includes the buyer, the lender, and the seller. 
+ 
+- The process of competitive bidding entails brokers meeting with sellers to review all of the offers they have received. The strongest ones are then presented to the seller, who has a set period of time 
+to decide which buyer they want to work with the most. 
+ 
+- It is also important to realize that other investors might be willing to pay more for a property than you are, since they are also investing in it. Do not let these considerations affect your valuation. 
+
+- Timing is important when it comes to buying a house. If you can get a letter of intent signed before the competition, you may be able to get a property at an attractive price and achieve better re- 
+turns. 
+ 
+- Another trick you can use to get a better deal is by extending the timeline. If the seller seems unfazed by other prospective buyers, you have the opportunity to negotiate more freely. Non-monetary 
+items such as retaining the current staff or not changing the property’s name can also help win you a better deal. 
+ 
+- The key to good underwriting is remaining objective and detached. You'll obtain the best bargains if you can keep your emotions in check and not get attached to a property. If you're funding the deal entirely by yourself, you may agree to less attractive terms or buy other properties instead. 
+ 
+- The letter of intent is a legally non-binding document between the buyer and the seller that outlines the general terms of a prospective property sale. It's a good idea to get one from a lawyer or real estate agent. The high-level terms should be included in the letter. 
+ 
+- You should include a personal message to the seller in the form of an email, or a video link if the seller does not have access to email. Make it easy for the seller to like you, and you increase the 
+chances of your offer being accepted. 
+ 
+- The stronger your offer, the greater the chance it will be accepted. You can demonstrate your ability to close by providing a large deposit, shortening the timelines for any contingencies, all-cash offers, and limited-liability companies. 
+ 
+- the fifth rule is to raise your offer if the first four are not working. If the first four don’t bring you the results you want, try upping your offer. 
+ 
+- Once the seller signs the LOI, the next step is to have your attorney draft a PSA. The PSA should incorporate the terms of the LOI and should include a detailed list of provisions to protect both parties' interests. 
+ 
+- If you do not get the offer, do not be discouraged. You will lose out on far more deals than you will win, or else you are doing something wrong. Regardless of the outcome, it is worth building a foundation with the broker. 
+ 
+- When a property comes on the market, it is essential to understand the timelines and process the seller will follow for receiving, evaluating, and responding to offers. When there is no call for offers or offers will be evaluated on a rolling basis, speed is of the essence. 
+ 
+- As he was underwriting the deal, the author began to feel conflicted. On one hand, he wanted to make sure the property was worth investing in; on the other, he didn’t want to let his emotions get involved. He eventually made an offer regardless.
 
 # due diligence
 
