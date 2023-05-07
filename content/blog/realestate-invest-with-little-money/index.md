@@ -190,8 +190,6 @@ him that this was a result of the seller not being able to pay the contractors.
 
 # partnerships
 
-- The more deals you can handle with the available tools, the bigger the projects you’ll be able to tackle, and the faster your wealth will grow. The same applies to financing. 
- 
 - the author needed to find a way to buy a triplex which was cash-flow positive despite not having the money to fund the down payment. He came up with the brilliant idea of partnering with a wealthy friend who was willing to front him the money to buy the property. 
  
 - A partnership is a special type of business structure that allows individuals to pool their money and resources together to buy a property. In a partnership, each partner contributes an agreed-upon  percentage of the profits, and each partner is legally liable for the debts of the other partners. 
@@ -231,6 +229,7 @@ to justify their risk.
 
 - the main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well
 
+- it will be hard to find a partner unless you can demonstrate you can fly a KITE: the knowledge to pull off the deal, the Integrity to uphold your side of partnership, the Tactics to make the deal work, and the experience needed to justify their risk. 
 
 # home equity loans/lines of credit
 
@@ -617,17 +616,160 @@ chances of your offer being accepted.
 
 # due diligence
 
-- review multifamily millionaire volume 1, chapter 19
-- review multifamily millionaire volume 2, chapter 16
+- Every state has their own specific way of closing a real estate deal, and the process varies from state to state. 
+ 
+- It is important to have an inspection done on the property you are about to buy. The purpose of the inspection is to inform you of any problems that may need to be fixed, and to give an accurate assessment of how much it would cost to do so. 
+ 
+- Some buyers discover serious problems during a home inspection, and in that case, they must either abandon the deal or renegotiate with the sellers to address the problem. Retreating is the practice of renegotiating a deal after discovering something during the due diligence process. 
+ 
+- It is the buyer's responsibility to review all the financial information provided by the seller, such as the rent roll, the income and expense report, and the tax return. 
+ 
+- You will check the seller's tax returns to be sure that the income and expenses being reported to you are accurate. You will also need to review any third-party contracts pertaining to laundry machines, cable TV, internet, security systems, landscaping, and more. 
+ 
+- Before you sign a lease or buy a multifamily property, you should always have the tenant fill out an estoppel certificate, which documents the details of their lease. The certificate should include the names and addresses of all individuals living in the unit, as well as their rent, security deposit, and any pets. 
+ 
+- check the area is either zoned for multifamily use or the property has been grandfathered in to allow for this use.
+
+- Before buying a property, make sure there are no outstanding permits with the local government. You can do this by visiting the local building department and explaining to them that you plan to buy the property and want to see what outstanding permits or infractions may cause you issues. 
+ 
+ - Getting a loan on a property entails having the lender covered by insurance. This is to protect both the lender and the property owner in case of claim or lawsuit. 
+ 
+- Remember to set up your automatic mortgage payments during the pre-approval stage or right after you close on a property. This will help you avoid missing payments and negatively affecting your credit score. 
+ 
+- Before signing the lease, you should inform the tenants that you will be sending them a letter regarding how to pay their rent, and that you will be handling the rent collection. 
+ 
+- At the end of the process, you’ll receive your keys and know that all the paperwork has been recorded with the county government. You’ll feel like you climbed a mountain. 
+  
+- The first step in the due diligence phase is to complete any remaining underwriting tasks. These include checking for building permits, apartment condition reports from previous tenants, and so on. They generally require little additional capital, and if you find a major problem you can usually salvage the deal by paying for repairs. 
+ 
+- During underwriting, you should have reviewed the property's income and expense statements, including their T-12 and the last three years' worth of statements. You'll want to get an updated T-12 during due diligence to make sure nothing has changed significantly. 
+ 
+- To conduct a lease audit, you'll need copies of all the leases. Make sure you have a copy for every unit shown as occupied on the rent roll. 
+ 
+- The walkthrough is an important step in the due diligence process. During the inspection, the investor should check every nook and cranny of the property, from the common areas to the individual units. The investor should also take note of any issues he or she encounters during the inspection. 
+ 
+- A market survey or market report will evaluate the property's rental market, and may include information such as rents, class, and amenities. It is recommended to conduct a full market survey or hire a consulting firm to do so. 
+ 
+- Some important due diligence steps are driven by the lender and must be completed by 
+lender-approved vendors. These include the property condition assessment, environmental site assessment, appraisal, survey, and title report. Not all lenders require them. 
+ 
+- A Physical Condition Analysis, or PCA, is a thorough inspection of a property’s systems, conducted by a commercial contractor, and used by lenders to determine the property’s condition. The report will indicate any long-term repair issues and the cost of required work. 
+ 
+- You will conduct a full due diligence check on each property, which may include contacting local authorities to ask about recent criminal activity, getting a copy of the property's title insurance and survey, and checking for any outstanding permits or licenses. 
+  
+- The author acquired a 126-unit apartment complex for $5 million, despite the fact that the property was appraised at $2 million less. The property was bought for $5 million and financed for $4.7 million, which allowed the buyer to avoid a prepayment penalty.
+
+- Your due diligence as the buyer begins to wind down is to work with your attorney to prepare closing documents and line everything up. The lender’s attorney usually produces a closing checklist that needs to be addressed in order to close, with notations on which party is responsible for each item. 
+ 
+ - Deeds are the main written documents that transfer ownership. A deed must be signed and notarized, and meet a host of other legal requirements that vary by state. 
+ 
+- As part of your due diligence, you should have a title search done to make sure there are no outstanding liens or encumbrances on the property. Furthermore, you should purchase title insurance to protect yourself in case anything goes wrong with the title. 
+ 
+- Lenders do not always require a title insurance, but it is a good idea to have one anyway. The title insurance protects the buyer in case there are any claims against the property in the future. 
+ 
+- A third party, such as a title insurance agent or a lender, may conduct a Uniform Commercial Code search on the property to make sure there are no outstanding loans or financial agreements against it. 
+ 
+- When a buyer acquires a large multifamily property, they are usually acquiring more than just the land and the physical structures. They are generally acquiring a variety of personal property, such as vehicles, lawn care and snow removal equipment, maintenance and repair inventory, office equipment, and tools. 
+ 
+- This is the nine-digit number that identifies your business to the IRS. You will need this after you have formed your business. -> The articles of organization and all the necessary amendments will be prepared by your attorney and sent to the attorneys of the buyer and seller. They will be reviewed and accepted. 
+ 
+- The closing statement is a list of all the payments and expenses associated with buying a home. It is customary for the buyer to pay for their own legal fees, and they are responsible for lenders’ expenses. 
+ 
+- The first step is to determine what the taxing jurisdictions are, the fiscal year, and when taxes were due. The second step is to check the tax receipts and confirm that taxes were actually paid in full and for what time period. The third step is to prorate the taxes paid, and the fourth is to make any necessary adjustments to the settlement statement.
+ 
+- The second is calculating how much rent the property is actually worth, which involves 
+multiplying the monthly rent by the number of days in the month. This is called prorating the rent. You should make sure the PSA clarifies who is responsible for collecting past-due rent, and whether the seller or buyer is responsible for collecting it. 
+ 
+- Security deposits should always be transferred to the buyer in full at closing. Be sure to check the list of security deposits against the results of your lease audit before confirming the transfer on the settlement statement. 
+ 
+- The closing is the final step in the BRRRR process. It involves finalizing all the legal documents, paying all the bills, and transferring all the title to your name.
+
+- Between the legal work, lender requests, and capital raising, the weeks preceding closing can be hectic. It's crucial to go over all the documents one last time before signing them. 
+ 
+- The closing process varies from one deal to the next, but generally involves a title search, a walkthrough, and the signing of closing documents. It is crucial to have a strong team working with you to look out for your interests. 
+ 
+- The biggest challenge the investors faced was convincing the lender to allow them to assume the mortgage on the property, with a principal balance of $4.7 million. It took them four months to do so.
+
 
 # getting crystal clear on your criteria
 
-- review multifamily millionaire volume 1, chapter 3
-- review multifamily millionaire volume 2, chapter 1
+- When you know what you want, it becomes easier to spot it when you see it. For example, when looking for a new car, having clarity about your requirements will help you avoid wasting time on duds, allowing you to spend more time on deals that meet your requirements. 
+ 
+- Becoming a subject-matter expert in a particular area helps you secure better deals. It also allows you to be the go-to person for others in your network who are looking for advice on that particular topic.
+ 
+- The RAS is a part of your brain that determines what’s important, based on what you believe is important. It allows you to take in only the necessary information. 
+ 
+- Focus on one area at a time and you will see your success grow exponentially. Don’t spread yourself too thin by trying to invest in too many things, because you will only slow down and won’t gain the skills, knowledge, and experience you need to become a successful investor. 
+ 
+- A good leader will have clear goals for their team and be able to align them towards a common mission. 
+ 
+- Having clearly defined goals makes it easier for others to help you. For example, when asking for real estate agents, ask for those who can provide you with deals within a specified price range. 
+ 
+- You should start your Core Four Count by establishing your Cash Flow Core. This will help you decide which investments to make and which ones to avoid. 
+ 
+- Podcasts are a great resource for hearing about what other investors are doing and how they did it. After hearing many success stories, you will be more inclined to try out new strategies and approaches. 
+ 
+- Having conversations with like-minded investors allows you to discover the constraints and opportunities of your location. By gathering this information, you can better prepare your financial plan and buy right. 
+ 
+- Before getting into multifamily property, you must determine what type of deals you want to pursue. This will help you develop your crystal clear criteria, or CCC.
+
+- When it comes to multifamily investing, narrowing down your focus to specific properties and areas helps you immensely. After all, there are hundreds of thousands of multifamily properties for sale, and you wouldn’t want to waste your time evaluating them all. 
+ 
+- Having a solid understanding of the multifamily market will allow you to establish credibility with brokers, lenders, and investors. 
+ 
+- The first step in defining your investment criteria is to do a self-evaluation. You'll want to consider your skill set, access to capital, location, knowledge and experience, risk tolerance, and personal preferences. 
+ 
+- The Multifamily world is extremely competitive. The larger you go, the stronger the competition. Based on your assessment, challenge yourself to identify potential strengths and weaknesses. What are you better at than other investors. What are you willing to do that other investors aren't. Think about both your current strengths and weaknesses. 
+ 
+- The first parameter that you should consider when selecting a market for your multifamily investment is the geographic market. The advantages of investing in a primary market, as opposed to a secondary or tertiary market, include access to more deals, familiarity with local government officials, and a greater likelihood of success. 
+ 
+- The factors that affect the desirability of a location include crime rates, demographics, and the local economy. These factors vary from city to city. 
+ 
+- Multifamily housing comes in many different forms, and while there are no industry-wide standards, the types that are most common for investors to purchase are high-rise, garden-style, manufactured home parks, student housing, and senior housing. 
+ 
+- There are five classes of multifamily buildings, from the best quality to the least. The best ones are Class A and Class B, which are located in major cities. They have the best finishes, the newest buildings, and the highest rents. Class C and D buildings are usually in less desirable locations, but they also have the greatest potential to add value through renovations. 
+ 
+- The amount of money you have to spend on a house is called the cap rate. It is calculated by dividing the purchase price by the square footage of the property. 
+
+- The underwriting criteria that you set for yourself are strictly internal metrics. You would not share these with a broker or any other party helping you find a deal. However, if raising capital, you would inform your investors about your financial targets. 
+ 
+- The first step in the BRRRR method is to define your investment criteria, which includes the type of property you want to buy, its location, class, age, price, and target returns. 
+ 
+- The author acquired a multifamily property that met all the requirements of an excellent investment: it was a Class C property with more than 100 units, located in a good location, and it had bad management.
 
 # property type (CCC No. 1)
 
-- multifamily millionaire volume 1, chapter 4
+- Shopping for a ring is a difficult task, and the same is true when choosing which type of investment to make. The five-point crystal-clear criteria helps narrow down the options. 
+ 
+- There are many different multifamily property types available. Some of the more common ones include duplexes, triplexes, and apartment buildings. 
+ 
+- A side-by-side multifamily property has several units that are separated by only one wall. Because of this, tenants do not have to worry about their ceiling or flooring sharing space with another tenant, which eliminates noise complaints. 
+ 
+- A multifamily property with a shared staircase between the units is known as an up-and-down property. They are mainly found in duplexes, but not uncommon in triplexes and fourplexes as well. 
+ 
+ 
+- Cottages, like side-by-side houses, are stand-alone houses that do not share any walls with their neighbors, which makes them feel more like single family homes and less like apartments. This attracts higher-quality tenants. 
+ 
+- A monster house is a single family home that has been renovated to include multiple unique units within the structure. The primary characteristic of a monster house is that it was not originally intended to be a multi-family property, but is now being used as such. 
+ 
+- If you buy a property that was once a single family house but is now a multifamily dwelling, it will be considered non-conforming and therefore illegal. This is the worst type of property to own as a rental.
+ 
+- Permits are not just a way for the government to extort more money from you. They are a safeguard to ensure that the work done on a property is up to code and safe. Buying properties that do not have permits for the additions or remodeling that has already been done is risky, and could cause problems if you try to resell the property someday. 
+ 
+- One major drawback of buying a big house is the inability to obtain conventional financing due to zoning issues. Even if the property has been renovated and you're getting a good deal, if it's an illegal multifamily property, you won't be able to obtain a loan. 
+ 
+- Avoid legal hassles by avoiding illegal rentals. 
+ 
+- The third way to acquire a property is to buy an illegal, nonconforming property and make it legal. This requires the least amount of work and money, but also has the highest risk. 
+ 
+- Small apartments, known as starter apartments, can be good investments. They usually have low rents and are perfect for first-time tenants who live alone. They also require constant maintenance because of their age and lack of modern features. 
+ 
+- Garden apartments are a type of multifamily property that feature greenery all around the building. They are typically located in suburban areas. 
+ 
+- Accessory dwelling units, also known as ADUs, are secondary homes that are built in addition to a single-family house. They can be standalone structures or converted areas of the main house, such as a basement or attic. 
+ 
+- The author's personal favorite type of multifamily property is the side-by-side duplex. Whenever he searches for such properties online, he clicks through to learn more. 
+
 
 # choosing your location (CCC No. 2)
 
