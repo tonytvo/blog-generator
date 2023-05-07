@@ -773,20 +773,157 @@ multiplying the monthly rent by the number of days in the month. This is called 
 
 # choosing your location (CCC No. 2)
 
-- multifamily millionaire volume 1, chapter 5
+- The second step in the CCC method is to narrow down your choices to local or long-distance. This requires a significant amount of research and knowledge about the local real estate market. 
+ 
+- When you invest locally, you're right there with the action. It's easy to visit a property and check it out, but is that what you want. Or would you rather have someone else do that for you. 
+ 
+- The last benefit of investing long distance is that it gives you the opportunity to invest in numerous markets, which in turn allows you to benefit from the strengths of each one. 
+ 
+- Local investors have the advantage of being able to interact with the property managers and other stakeholders in the community, which can help them get deals done. 
+ 
+- The author’s first endeavor into long-distance investing was disastrous, as he failed to give his properties the time and attention they needed to succeed. 
+ 
+- It's important to understand that cash flow and appreciation are not mutually exclusive. If you buy a small multifamily property, you can get both high cash flow and high value. 
+ 
+- Do not buy a property if it will lose money. Cash flow is king even in an appreciating market. The question is, how little cash flow are you willing to accept. 
+ 
+- When it comes to the likelihood of appreciation, the simple fact is that expensive markets generally have high appreciation potential while cash-flow-friendly markets generally have low appreciation potential. 
+ 
+- The classes of neighborhoods are A, B, C, and D. You should be able to tell which class a neighborhood is just by looking at it. In addition, you should be able to tell from the neighborhood's appearance whether it's experiencing a revitalization or a decline. 
+ 
+- It's also important to avoid areas with a high crime rate or that are on the rise, especially if you will be traveling by foot. You can easily research such areas using the internet. 
+ 
+- The quality of the school district is also important, especially if you are investing in smaller units that don't attract tenants with children. 
+ 
+- The price of real estate and the rents that can be charged to tenants are based on supply and demand. The more people who want to live in a specific location and the less housing available, the higher the cost of rent. This is why places like California, Hawaii, and New York City have such high rents. 
+ 
+- It is possible to buy a property in a different state and rent it out. This is called long-distance investing.
 
 # property condition (CCC No. 3)
 
-- multifamily millionaire volume 1, chapter 6
+- The author bought a house that was infested with bedbugs. He decided to evict everyone and do a full restoration, including a new roof, siding, and renovation of all the units. Six months after the tenants left, one of them returned and began squatting. 
+ 
+- While most would prefer to buy a new, pristine property, this is not a perfect world, and not all properties are suitable for investment. You will have to make a choice between higher or lower returns, and the higher the risk, the greater the profit. 
+ 
+- Purchasing in poor condition not only allows you to add value to a property, but it also allows you to perform major renovations that would otherwise need to be done in the future. 
+ 
+- Don’t assume that rehabbing a property makes it a good deal. If you don't know your numbers, you might end up overpaying. 
+ 
+When you rehab a property, you can often get a higher-than-average rental rate. After all, tenants prefer a nice, clean unit to an older and uglier one. However, in a Class A neighborhood, tenants expect a Class A product, so don't expect to get above-average rent. 
+ 
+- Banks are in business to make money. The number one priority of a bank is to maintain a positive balance, which is achieved through making loans. Every bank makes decisions regarding the funding of its loans based on one factor: risk. 
+ 
+- Having a rehab done can be a very frustrating experience, especially if you’re not equipped to handle such a task. However, you can minimize the damage by creating a system that allows you to keep a check on the progress and identify any issues before they become big problems. 
+ 
+- The process of estimating the cost of a rehab is called estimating rehab costs. It entails multiplying the estimates of the various items in a rehab by their respective costs. 
+ 
+- It is important to keep in mind that rehabs take longer and cost more than anticipated, so plan accordingly and budget conservatively. 
+ 
+- A cosmetic fixer is a rehab that only requires a facelift. These can be extremely lucrative because they don’t require much effort or money, but they do require perfect cosmetic condition, which scares away investors looking for a perfect passive investment property. 
+ 
+- Investing in fixer-uppers entails taking on a project that entails improving the condition of a property, as most banks will not lend on a property that is in poor shape.
 
 # price range (CCC No. 4)
 
-- multifamily millionaire volume 1, chapter 7
+- By identifying your budget, you can more easily filter out the offers you receive. Your budget allows you to purchase a property, not rent it. 
+ 
+- The first step in determining your spending limit is to figure out how you’ll be financing the property. This means you'll need to know what down payment banks and lenders require. 
+ 
+- The most you can put down on a house with a traditional loan is $160,000. It's just math. If you have less cash, there are alternative methods to purchase property, such as the BRRRR method or partnerships that allow for more creative financing. 
+ 
 
 # profitability and analysis (CCC No. 5)
 
-- multifamily millionaire volume 1, chapter 8
-- review multifamily millionaire volume 2, chapter 14
+- The final piece of the CCC puzzle is establishing hard and fast rules about what makes a good deal. This allows you to get excited about the right deal and avoid getting carried away by anything less than ideal. 
+ 
+- The first metric that you should look at when evaluating a deal is its cash flow. Cash flow is the most important metric for BRRRR investors. It is the amount of money that a property generates after paying for its expenses, such as the mortgage, taxes, and insurance. 
+ 
+- Your target cash flow per unit is calculated by taking your total cash flow and dividing it by the number of units. 
+ 
+- To analyze a deal, you need to use the Four-Square Method. This is a simple four-step process that determines a property's cash flow and cash-on-cash return. 
+ 
+- The first box in the Four-Square Method is the income box. This means you need to know exactly how much money the property will generate. This might include rent, plus any other sources of revenue, such as laundry machines, storage rentals, or parking. 
+ 
+- Even if you're buying a property with existing tenants, you may not be able to immediately increase the rents because the tenants may have signed a lease (a legal document that defines how much their rent is for a set period of time). It is best to check with the tenants to see if they are willing to renew their lease at the new rate. 
+ 
+- The last step is to calculate the total monthly income. This will be the final figure that you enter in Box 1 of your cash flow statement. 
+ 
+- The second step in BRRRR is to identify the specific expenses of a property, so you know if it’s worth buying or not. 
+ 
+- To determine your cash flow, identify what utilities you are responsible for paying as the landlord, such as water, electricity, and heat. Then factor in the costs of these utilities. 
+ 
+- If you come across a property with any of these costs, you can usually eliminate them after taking ownership by paying for them yourself. 
+ 
+- Ask the agent or the current owner about the maintenance costs of a property. These costs may include snow removal and landscaping. 
+ 
+- Knowing the current tax situation is crucial, as it may change suddenly if you buy a property. Some counties reassess the value of a property when it's sold, which can dramatically raise the amount you'll be paying in taxes. 
+ 
+- Rental property insurance protects the building and landlord-owned items from damage, and can help cover a tenant's lost rent if the property is damaged and unusable. 
+ 
+- To determine the monthly payment for a property, you need to know: the loan amount, the interest rate, and the term of the loan. 
+ 
+- The more vacant periods a property has, the more money it loses.
+
+- Vacancy rates of at least two units in a fourplex can be expected to be around 7. 6 percent in 2019, which means that the fourplex would have been empty for the past two years, on average, every month. 
+ 
+- The total pure cash flow of a property is the monthly rent, minus the monthly expenses, such as mortgage payments, insurance, and property taxes. 
+ 
+- The amount of money you set aside to cover repairs is based on a number of factors, such as the condition of the building, the age of the units, and the area in which the property is located. The algorithm presented here helps you arrive at a reasonable number. 
+ 
+- Capital expenditures are investments that improve the value of a property. They include replacing appliances, windows, and roofs, as well as adding new features to a property, such as a swimming pool. 
+ 
+- The sad truth is that this is the way many real estate investors operate. They buy a property that is expected to generate a positive cash flow, but instead are continually losing money due to ongoing CapEx. 
+ 
+- The Multifamily Capital Expenditure Budget Algorithm, or MCEBA, is a tool that allows you to figure out how much money you should set aside for capital expenditures in a multifamily property. It takes into account the amount of units in a property, and the age of the units, to give you an idea of the amount of money you should be setting aside. 
+ 
+- In the Four-Square Method, you estimate the monthly income and expenses, and then determine your monthly cash flow. 
+ 
+- A property’s cash flow is determined by four factors: the rent, the expenses, the down payment, and the property’s cash-on-cash return. 
+ 
+- The Cash on Cash Return looks at your cash flow after you've paid for the property, including any closing costs and repair costs. 
+ 
+- The cash-flow percentage that a property will provide is dependent on the local market 
+conditions. If you're investing in a market with low growth and low appreciation, your cash flow will most likely be low as well. 
+ 
+- Always look at both cash flow and capital gain when buying a property. By setting a minimum purchase price for both cash flow and capital gain, you make sure that you’re not simply buying cash flow with a large down payment. 
+ 
+ - Do not let your emotions get in the way when investing in real estate. The most important thing when investing in real estate is to understand the numbers, which means you have to be able to separate your emotions from the numbers.
+
+- The Park Place Apartments property was bought for $1. 2 million, and its after-repair-value, or ARV, was $2.3 million. The investors would be paying $1.6 million for the property, and its after-repair-value, or ARV, was $2. 
+ 
+- The first step in the BRRRR method is to calculate your debt service coverage ratio, or DSCR. You should aim to have a DSCR of 1.2 or higher. 
+ 
+- Bridge loans are used to finance projects that require high amounts of capital, such as heavy equipment rentals or large-scale renovations. Bridge loans increase the cost of borrowing but can reduce the amount of capital you need to close, avoid prepayment penalties, and boost your returns. 
+ 
+- The BRRRR method entails making a down payment on a property that is as large as possible, while staying within your means and the means of the lender. The down payment should be large enough to cover the rehab cost and the property's fair market value. 
+ 
+- The goal of property valuation is to establish a property's worth, which is used to determine how much money you can borrow against the property. There are several valuation methods, the most common of which is the direct capitalization approach. 
+ 
+- The capitalization rate is the rate at which a property’s net operating income is valued by investors. It is used to compare the profitability of one investment to another. 
+ 
+- To calculate the property’s value at disposition, or reversion value, you first need to calculate the property’s net operating income in the final year of ownership. Then, you need to determine the current market cap rate by contacting brokers, appraisers, property managers, or other investors, or conduct market research. 
+ 
+- To calculate the selling price of a property, divide the NOI by the exit cap rate. To calculate the transaction costs, divide the closing costs by the sales price. 
+ 
+- The cash-on-cash return is the percentage return earned on the cash that goes into the project. It is one of the most commonly used target returns by investors. 
+ 
+- The COGS are calculated by dividing the total cash flow of a property by the number of years the investor plans to hold the property. The resulting number is the amount of money the investor will get back each year. The target CoC for investors is between 6 and 12 percent, depending on their risk tolerance. 
+ 
+- The calculation of the CoCo rate is based on the total amount of equity invested at the end of each period. You must calculate the annual return based on how much equity remains invested at the end of each year, since you may receive a capital return, such as a cash-out refinance, that returns equity. 
+ 
+- The AAR is a measure of the average return over the entire holding period, and is calculated by adding up all the individual annual return rates of your investment and dividing by the number of years you anticipate holding the property. 
+ 
+- The internal rate of return is the annualized rate of return on an investment. It is calculated by taking the net present value of a future cash flow and dividing it by the initial amount. 
+ 
+- The internal rate of return is the interest rate at which the project's cash flows equal the initial investment. It is a measure of the efficiency of a project's financing. The higher the IRR, the more efficient the financing. 
+ 
+- The last step in the BRRRR method is to conduct a stress test on the entire project, which involves checking how the project will perform if some of your key assumptions were incorrect. This allows you to identify any weaknesses in your underwriting and correct them before moving forward. 
+ 
+- The author advises being conservative when underwriting a property, especially when doing so for the first time. However, he also advises that people should be aggressive, especially when they don’t have much experience. 
+ 
+- It is important to underwrite a property as thoroughly as possible before signing a contract, but you do not want to over-analyze a deal. There are times when you must make judgments based on your experience, and those times call for flexibility rather than rigidity. 
+ 
+- The author acquired the Apartments at Madison Barracks, which was in terrible condition. The building needed repairs, and the land needed work as well. However, it had a lot of potential, and the apartments were merged, which allowed the team to increase its capacity by 12 percent.
 
 # multifamily millionaire model
 
