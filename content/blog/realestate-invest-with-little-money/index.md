@@ -5,9 +5,20 @@ description: "real estate invest with zero or little money down"
 tags: ["realestateinvesting", "financialindependence"]
 ---
 
+# take-aways
+
+- These are four of the primary rules and advisory limits of creative real estate investing. These have been passed down from one established investor to another with the goal of keeping aspiring investors from crashing and burning. 
+  - When investing creatively, you need to find even better deals than those who invest normally. Let me explain what I mean. Let’s say a certain home is worth $100,000. A traditional investor might pay $100,000 for that home, put a 30% down payment ($30,000) on the property, and make a nice return on investment from the cash flow (the extra money left after all the expenses are paid).However, if I were to purchase that same house for $60,000 because I took the extra steps necessary to get a great deal, which of us is in the better position? The traditional investor, who has $30,000 of their cash tied up in their property and no real equity, or me, who has nothing invested but owes less?Because of the deal I obtained, I have far greater potential for profit and for a better return on investment than the normal investor, but less of my cash is at risk because I have no cash invested at all.However, what if I decided to be just a “normal” investor and pay full price for that $100,000 property, with no money down? Most likely, my mortgage payment would be so high that good cash flow would be out of reach, and I would not have the equity necessary to be able to sell the property. In this case, the “good” investor would be in a better position because they owed only $70,000. Hopefully, you are following my argument here… creative investing means you must invest in incredible deals, or it’s simply not worth doing
+  - When investing creatively, you must be extremely conservative. I’m not talking politics here; I’m talking about planning for the future. This means assuming the worst when buying property. Take as a given that taxes will go up, your unit will sit vacant for a certain percentage of each year (higher than the average for your area), repairs will be numerous and expensive, and you will need to evict deadbeat tenants. Plan for these costs and only buy property that proves to still be a good deal even after a conservative estimate
+  - Creative finance requires sacrifice. Remember my definition of creative finance: the ability to trade cash for creativity. Notice there is a trade-off involved—one you need to accept. Most of the methods I’ve used to acquire real estate, I didn’t learn from a book. Instead, I discovered the methods at 4:00 a.m. after an eight-hour brainstorming session with my wife, my pen, and my paper, desperately trying to figure out the missing puzzle piece that would enable me to close a deal. This is often the trade. It requires jumping through a lot of mental hoops, numerous conversations with others, and the ability to ask for help. Creative real estate investing is a puzzle that takes real mental (and sometimes physical) effort to put together. If you want easy, then stick with a job, a sizable down payment, and average returns. There is nothing wrong with that, and I’d have chosen the same if I’d had enough money and income when I started. But I didn’t, so I chose creativity. I chose to sacrifice. Will you? 
+  - Creative finance does not mean investing without a cushion. A wise man and mentor once told me, “You can go broke buying good deals.” Even though you need to get killer good deals if you are going to invest with no or little money down, you still need to understand that bad stuff happens. Murphy will show up on your doorstep and start knocking. He might even move his whole family in. Therefore, maintaining a financial cushion to deal with problems is imperative. You don’t need $50,000 in the bank to buy a small rental house, but you do need to be able to weather the storms that will come, relative to the size of the property you are buying and that property’s risk for loss.For example, if you needed to evict a tenant, could you handle several months of lost rent, more than $2,000 in eviction costs, and several thousands of dollars to repair the property? What if you had to do this twice in the same year? These are important questions you must be able to answer, or at least discuss. These questions do have answers, so hang in there and keep your brain turning.I can’t tell you exactly how much money you’ll need to save, because that depends largely on a number of factors, including the following:The strength of your target real estate marketYour ability to manage effectivelyYou ability and desire to repair things yourself, if neededHow difficult and lengthy evictions are in your state. How good your credit is. How much cash flow you can getThe average purchase price of your target propertiesThe niche you enterThe strategy you useAnd a whole lot more
+
+- The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
+
 # owner occupied investment properties
 
-- an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of homeownership.
+- an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of home-ownership.
+
 - You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
 - small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate constant monthly income.
 
@@ -26,7 +37,7 @@ tags: ["realestateinvesting", "financialindependence"]
 - The decision as to which type of property to buy comes down to your lifestyle: whether you have a large family or not. If you do, you may want to go for a multifamily property. 
  
 - There are low money down lending opportunities that exist for homeowners that simply do not  exist for the typical real estate investor. By taking advantage of these opportunities, you can start building your rental portfolio with very little out-of-pocket cash and get started sooner than you may have imagined. 
- 
+
 - The Federal Housing Administration (FHA) is a federal agency under the Department of 
 Housing and Urban Development (HUD) that insures loans made by banks. Before the late 2007 real estate market crash, FHA loans were rarely used because almost anyone could qualify for a mortgage with little or no money down. 
  
@@ -86,61 +97,11 @@ Your BRRRR approach requires you to develop a strong and consistent product, whi
  
 - The second option is to get a business line of credit from a commercial bank or a portfolio lender. This allows you to access the equity in your properties, which is substantial in some cases. 
   
-#- Overleveraging can be dangerous because it restricts your choices. If you don't plan on selling, and you have a fixed rate mortgage, being underwater may not be a big deal to you, because your payment won't change. However, overleveraging does remove options, and having options is critical to success in real estate. 
+- Overleveraging can be dangerous because it restricts your choices. If you don't plan on selling, and you have a fixed rate mortgage, being underwater may not be a big deal to you, because your payment won't change. However, overleveraging does remove options, and having options is critical to success in real estate. 
  
 - By using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction. 
  
 - The third danger of home equity loans and lines of credit is their potential for an adjustable rate. This is when you must conduct a Worst Case Scenario Analysis. 
- 
-# strategies for using hard money
-
-# raising private money to fund your deals
-
-# lease options
-
-# seller financing
-
-# realestate wholesaling
-
-# creative combinations
-
-
-- FHA loan is a government backed loan that allows you to purchase property. However, it also has its share of problems, such as the Mortgage insurance premium that can really add up and the fact that you can have only 1 FHA loan at a time.
-  - 203k loan (renovation loan in canada) is a subset of the FHA program and allows the borrower to borrow money to pay for cosmetic repairs such as paint and carpet.
-  - the biggest difference between a regular 203k loan and a streamlined one is the extent of the rehab. The streamlined one can be used for smaller cosmetic problems, like painting, carpet, and smells, whereas the regular one can be used for structural changes, like moving walls or building additions.
-- investing in real estate with partners to avoid large amount of money upfront
-- your brand consists of yourself and your product.
-  - your personal brand is built through 3 primary areas: reputation, knowledge, and experience. Use your gaps in knowledge as motivation to grow
-  - your BRRR approach requires you to develop a strong and consistent product.
-- there are 4 different ways you can partner
-  - equity partnership
-  - down payment equity partnership
-  - private lending partnership
-  - credit partnership
-- before partnering with someone, you must speak with a CPA and a lawyer who specializes in this kind of thing.
-- the main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well
-- home equity loan or line of credit can be used/borrowed to invest in real estate. 
-  - it generally has low interest rates, which is generally tied to the prime rate, but the interest rates are adjustable and high during inflation period, which is another risk to take into account
-  - another risk you take is if you house's value decreases.
-- another strategy is to refinancing your load through the bank after the repairs.
-- another option is to get a business line of credit from a commercial bank or portfolio lender. This allows you to access the equity in your properties.
-- by using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction.
-
-- These are four of the primary rules and advisory limits of creative real estate investing. These have been passed down from one established investor to another with the goal of keeping aspiring investors from crashing and burning. 
-  - When investing creatively, you need to find even better deals than those who invest normally. Let me explain what I mean. Let’s say a certain home is worth $100,000. A traditional investor might pay $100,000 for that home, put a 30% down payment ($30,000) on the property, and make a nice return on investment from the cash flow (the extra money left after all the expenses are paid).However, if I were to purchase that same house for $60,000 because I took the extra steps necessary to get a great deal, which of us is in the better position? The traditional investor, who has $30,000 of their cash tied up in their property and no real equity, or me, who has nothing invested but owes less?Because of the deal I obtained, I have far greater potential for profit and for a better return on investment than the normal investor, but less of my cash is at risk because I have no cash invested at all.However, what if I decided to be just a “normal” investor and pay full price for that $100,000 property, with no money down? Most likely, my mortgage payment would be so high that good cash flow would be out of reach, and I would not have the equity necessary to be able to sell the property. In this case, the “good” investor would be in a better position because they owed only $70,000. Hopefully, you are following my argument here… creative investing means you must invest in incredible deals, or it’s simply not worth doing
-  - When investing creatively, you must be extremely conservative. I’m not talking politics here; I’m talking about planning for the future. This means assuming the worst when buying property. Take as a given that taxes will go up, your unit will sit vacant for a certain percentage of each year (higher than the average for your area), repairs will be numerous and expensive, and you will need to evict deadbeat tenants. Plan for these costs and only buy property that proves to still be a good deal even after a conservative estimate
-  - Creative finance requires sacrifice. Remember my definition of creative finance: the ability to trade cash for creativity. Notice there is a trade-off involved—one you need to accept. Most of the methods I’ve used to acquire real estate, I didn’t learn from a book. Instead, I discovered the methods at 4:00 a.m. after an eight-hour brainstorming session with my wife, my pen, and my paper, desperately trying to figure out the missing puzzle piece that would enable me to close a deal. This is often the trade. It requires jumping through a lot of mental hoops, numerous conversations with others, and the ability to ask for help. Creative real estate investing is a puzzle that takes real mental (and sometimes physical) effort to put together. If you want easy, then stick with a job, a sizable down payment, and average returns. There is nothing wrong with that, and I’d have chosen the same if I’d had enough money and income when I started. But I didn’t, so I chose creativity. I chose to sacrifice. Will you? 
-  - Creative finance does not mean investing without a cushion. A wise man and mentor once told me, “You can go broke buying good deals.” Even though you need to get killer good deals if you are going to invest with no or little money down, you still need to understand that bad stuff happens. Murphy will show up on your doorstep and start knocking. He might even move his whole family in. Therefore, maintaining a financial cushion to deal with problems is imperative. You don’t need $50,000 in the bank to buy a small rental house, but you do need to be able to weather the storms that will come, relative to the size of the property you are buying and that property’s risk for loss.For example, if you needed to evict a tenant, could you handle several months of lost rent, more than $2,000 in eviction costs, and several thousands of dollars to repair the property? What if you had to do this twice in the same year? These are important questions you must be able to answer, or at least discuss. These questions do have answers, so hang in there and keep your brain turning.I can’t tell you exactly how much money you’ll need to save, because that depends largely on a number of factors, including the following:The strength of your target real estate marketYour ability to manage effectivelyYou ability and desire to repair things yourself, if neededHow difficult and lengthy evictions are in your state. How good your credit is. How much cash flow you can getThe average purchase price of your target propertiesThe niche you enterThe strategy you useAnd a whole lot more
-
-- The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
-
-- Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
-
-- Creative investing is about shifting the source of any needed cash, depending on the strategy
-
-- An owner-occupied investment property is real estate that has been purchased as an investment but that also doubles as a primary residence for the investor. In other words, the property is both your home and an investment property
-
-- In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.• Homeowners get lower, fixed interest rates.• Homeowners can qualify with lower credit scores.• Homeowners are often given the first option to buy foreclosures (especially HUD homes, which are properties that have been foreclosed upon by the U.S. Department of Housing and Urban Development).• Homeowners can often negotiate better deals with sellers. You can consider a single-family home an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later
 
 - Equity is the difference between what you owe on your property and what it could sell for. For example, if you owe $50,000 on your home and it is worth $150,000, you have approximately $100,000 in equity. A home equity loan is a loan you can take out from a lender that is secured by the equity in your home. In other words, if you don’t pay the loan back, the lender can take your personal home and resell it to pay the debt. A home equity loan is also known as a “second mortgage,” because it is generally subservient to your primary mortgage. This means that in the case of a foreclosure, the primary mortgage would get paid off first, followed by the second. Before we get too deep into how to use a home equity loan, let’s talk about the difference between the two types of equity products:1. Home Equity Loan – A home equity loan is a mortgage product wherein all funds are disbursed at the beginning of the loan, with a definitive term length and equal monthly payments. For example, you may take out a $50,000 home equity loan at 3.75% payable for 15 years. The payment would be roughly $363 per month for the entire 15 years, or until you paid the loan off. You might think of a home equity loan as similar to a car loan or a normal home mortgage. These loans can have either a fixed (unchanging) interest rate or one that is variable (subject to change with the economy). 2. Home Equity Line of Credit – A home equity line of credit, or HELOC, is similar to a home equity loan, but even though you are allowed to borrow a predetermined amount of money, that money is not necessarily dispersed at the start of the loan. Instead, it is available for you to borrow and pay back with flexibility. If this is a bit confusing for you, don’t worry. Let me give you a really simple analogy: think of it like a credit card. You can borrow money, up to a certain amount, and pay it back at will, though you are required to make at least a minimum payment each month based on the amount you have used. The minimum payment is often simply just the interest that accrued during that month, but some lines of credit require a higher payment than just the interest. For example, you may have a $50,000 limit on your home equity line of credit, but you only use $20,000 of it. If your interest rate on the line of credit is 10%, your monthly interest payment would be $166.67 ($20,000 x 10% / 12). If you paid only the interest each month, your loan balance would never go down, because you would never be paying back the principal. A HELOC typically has a variable interest rate, though fixed rate versions are available
 
@@ -151,6 +112,153 @@ Your BRRRR approach requires you to develop a strong and consistent product, whi
 - This calculation will give you a percentage, which is your LTV. So, revisiting the example I just used, if you owed $50,000 on a home worth $80,000, the calculations would look likeLTV = $50,000 / $80,000 = 62.5%
 
 - Today, lenders have learned from the mistakes of the past, and the days of getting 125% LTV loans and lines of credit are gone. More typically, the highest you’ll probably see is around 90% LTV, but even that may be difficult to find. In other words, if your home is currently worth $100,000, the bank will likely cap the total amount you can borrow across all loans at $90,000. So, if you have a first mortgage with a balance of $70,000, and the lender will allow you to borrow 90% (or $90,000 total), you could potentially obtain a loan or line of credit for a maximum of $20,000.Keep in mind that as with nearly all loans, you will need to meet certain credit and income minimums to obtain the lending, and rates and terms will differ based on your LTV, debt, credit, income, and other factors. You may have a ton of equity in your property, but if you are rocking a 520 credit score, obtaining a home equity loan or line of credit will be nearly impossible. Be sure to shop around to various banks when considering a home equity line of credit. In my small town, rates can vary by as much as 10% between banks. I feel sorry for all those people who are paying 13.5% at X Bank while I’m paying just 3.5% at Y Bank. Don’t be like them. Get out there, make some phone calls, and shop around to get the best rate possible on your home equity loan or line of credit
+
+# strategies for using hard money
+
+- Hard money is financing that is obtained from private individuals or businesses for the purpose of real estate investments. It is typically short-term, high interest, and based on the strength of the deal. 
+ 
+- Lenders that provide hard money loans are often referred to as hard money lenders. These loans are not insured by the Federal Housing Administration (FHA), which is why they’re referred to as hard money. Lenders that provide these loans may be difficult to locate, but BiggerPockets. com has a directory of hard money lenders for you to contact. 
+ 
+- Hard money loans are provided by banks and other lending institutions, and they are meant for investors who want to buy property and fix it up, and then sell it at a profit. Hard money loans have low interest rates and no down payments. 
+ 
+- Many investors see the benefit of using hard money when flipping a house, but what about landlords and buy-and-hold investors. Should they ignore hard money. Buy-and-hold investors can definitely take advantage of certain strategies for using hard money in the right situations. 
+ 
+- After the market collapsed in 2008, the author was unable to sell his house. With the help of a hard money lender, he was able to pay off the lender in full and refinanced the home through a conventional bank, obtaining an 80 percent loan to value. 
+ 
+- The amount of money you will need to cover the purchase price and repairs varies from lender to lender, and the amount you are given to draw after the purchase is made also varies. Lenders want to feel as though they will win no matter what, which is why they give out draws to ensure they are covered in case of a default. 
+ 
+- If the lender will not fund the entire price, you have a few options: refusing to buy the property, borrowing money from another source, such as a partnership, equity line, or credit cards, or using your creativity to come up with other options. 
+ 
+- Hard money loans are high risk, high cost loans that provide short term solutions to borrowers that need large amounts of money fast. Because of this, hard money loans are best used as a temporary solution when other conventional loans have dried up. 
+
+- The hard-money-to-refinance strategy involves using hard money to buy a property, renovate it, and then refinance it. However, this may not be possible if you cannot obtain a loan.
+
+# raising private money to fund your deals
+
+- Private money is money provided by nonprofessional lenders to fund your real estate deals. It can be used for short-term or long-term investments, and the rates and terms will depend on the lender and the property. 
+ 
+- Private money raising involves finding lenders who are willing to provide you with funds for your property investments. It is important to impress them with your personal brand and the strength of the deal. 
+ 
+- Private money lenders are accessible if you search for them. Private money lenders are not insured by the government, and can therefore be rather risky, but they can also be very profitable. 
+ 
+- Searching public records for lenders is a great way to find willing lenders. Although you can locate these people through the methods mentioned above, you can also take a more direct approach and locate them through public records. 
+ 
+- Networking is the process of building relationships with people to obtain business. You are not a salesman asking for money; you are a businessperson holding an opportunity. 
+ 
+- Networking is a crucial element in any real estate investor’s arsenal, and it can open up doors to many new clients and opportunities. 
+ 
+- Explain to the lender that these are investments, not sure bets, and that there is risk involved with any investment. However, as long as the lender gets their money back plus interest, they will make money. Furthermore, they will have a lien on the property that gives them full legal rights to seize the property if you break the agreement. 
+ 
+- Sharing your numbers with a potential lender helps build trust, especially if you have done your research and shown them the numbers. 
+ 
+- Getting a private lender to agree to work with you on a deal is hard, since they are usually extremely conservative and only want to work with people they can trust. Once they commit, have them sign an agreement in writing. 
+ 
+- Private money lenders can be a great resource for investors who don't want to rely on banks or other institutional lenders. However, not all private money lenders are created equal, and it is important to do your due diligence before contracting with any of them. 
+ 
+- Private money lenders, also known as bank lenders or institutional lenders, provide loans to individuals or companies that would not qualify for a conventional bank loan. Lenders provide loans from $25,000 to millions of dollars, and charge interest rates between 10% and 25%. 
+ 
+- Private money is used in three different ways: borrowed in the form of a private money loan, pooled in the form of a blind pool, and invested in the form of a one-off. 
+ 
+- The author calls the assets in a blind pool real estate, but defines it as no direct security, as there is in the case of a Loan. This implies that loans are not securities, but investments into the funds are. 
+ 
+- The author likes to use a limited partnership to raise money for real estate investment because it is flexible and easy to manage. The investor is the owner of the company, and the manager is the general partner. 
+ 
+- Having a full-time employee to recruit investors is a great strategy, but be prepared to offer different funds with richer profit shares to attract more investors. Some investors don't care about the return, they just want a larger share. 
+ 
+- Private investors are a great source of capital for a rehabber as they are willing to invest their money in a project with the expectation of getting it back after a year with a 10 to 15 percent return. They are also willing to loan money to other investors, which helps expand the pool of money available for purchase. 
+ 
+- The biggest legal issue you may face when raising private money is soliciting for money, which is publicly asking for it. The laws surrounding this have become extremely strict in the past 80 years, and there are still a lot of gray areas that you must be aware of. 
+ 
+- Although using private money is a good approach to buy property, it has its risks, and it is not suitable for everyone. It requires a great deal of networking and dealing with personalities, and the rates may be higher than those you would get with a conventional bank.
+
+# lease options
+
+- A lease option is a legal agreement between a property owner and a tenant that stipulates that the tenant has the exclusive right to purchase the property at a specified date. The tenant does not have to buy the property, but they cannot sell it to anyone else during the specified period. 
+ 
+- A lease option is a type of real estate investment that involves the purchase of a property with the intent of renting it out. The investor leases the property from the owner, who grants them the exclusive right to buy the property at a predetermined price within a certain period of time. 
+ 
+- There are many benefits that a lease option provides to both the landlord and the tenant, and it's a great way for the tenant to get started in the real estate business while keeping a constant rental property. 
+ 
+- A lease option is a type of real estate investment that involves buying the option to buy a piece of real estate for a set period of time. The investor decides how long they want the option to last, and once that time is up, they either buy the property or let it go. 
+ 
+- The lease option is a way for the investor to offer tenants the chance to purchase the property after a set period of time for a specified price. The investor acts as the lessor, and collects the option fee from the buyer. 
+ 
+- Lease option is similar to the traditional option in which the investor leases the property from the owner and then rents it out. However, in this case, the investor leases the property from the wholesaler instead of the owner, and then sells the lease to the property owner. 
+ 
+- The lease option sandwich is a type of investment strategy that involves two separate 
+transactions on both sides of the deal. The first is the lease option, which is when the investor purchases a property from the current owner and leases it out. The second is the purchase of the house from the renter, which is completed after five years. 
+ 
+- The lease option is another way for the investor to purchase a property without having to put in much effort, as the investor only has to lease the property from the owner, and not buy it. 
+ 
+- The more time you have on your contract, the more options you have. It is also important to let the owner know what you’re doing so that no one is surprised. 
+ 
+- Treat your lease option agreements as a chance to create a win-win-win scenario and help others get what they want as well. Use your power for good, not evil. This means only entering a lease option with tenants who could very reasonably obtain a loan within several years, without charging an exorbitant option fee. 
+ 
+- The fourth strategy is known as a master lease option. It works similarly to a lease option in that there's a lease, a lessor, a lessee, and an option fee. However, with an MLO, the lessee generally pays all the expenses associated with the property, including taxes, insurance, and any maintenance concerns.
+
+- Another problem that could arise is major repairs being required after the tenant has moved out, which the landlord is responsible for. This is something to keep in mind. 
+ 
+- The author has found that the lease option is a flexible way for investors to buy property, especially if they are just starting out. It gives them the ability to purchase a home and then tailor it to their liking without having to pay for a full home renovation. 
+
+# seller financing
+
+- what are percentages of mortgage free homes in Canada and US?
+
+- The term seller financed refers to a property where the seller provides the financing. This can be done through a bank, a private lender, or even the seller themselves. The seller obtains a great interest rate on their money, while the buyer does not have to deal with a bank and pays just 5K for the property. 
+ 
+- Seller financing is another way for you to purchase a home, but it comes with risks such as the due-on-sale clause which gives the bank the right to demand full payment of the loan if the property is sold. This clause makes sense, as otherwise the bank would be liable for any unpaid balances after a sale. 
+
+- only use seller financing when sellers owns the home free and clear (i.e: when sellers has no loans on the property)
+ 
+- There are many benefits to using seller financing, such as the fact that you aren't required to put down as much money, since the seller is covering the rest. You also avoid having to deal with banks, which can make the difference between a deal and no deal for many people. 
+ 
+- Some sellers choose to sell via seller financing rather than just getting cashed out because they want monthly income, better ROI, or to avoid paying taxes. 
+ 
+- The fourth reason to consider seller financing is if you can't otherwise sell the property. This might be the case if it's in terrible shape, or if you're trying to unload a property that is not worth much. 
+ 
+- Another creative use of seller financing is to allow the seller to finance just part of the deal, with a traditional lender financing the remainder. This can be done with a second mortgage, but you need to inquire about lender policies before attempting it. 
+ 
+- You can use seller financing to purchase properties, especially if you are able to get a loan from a lender. This allows you to purchase a property at a lower price than what it’s worth, and then refinance it for what it’s worth plus the amount of the loan. 
+ 
+- Although seller financing can be a great option for both parties, it comes with risks and dangers. 
+This section will discuss the three most common concerns associated with seller financing, as well 
+as provide tips on how to overcome them. 
+ 
+#9 
+ 
+The author recommends that investors learn to be experts at wholesaling as it is one of the most 
+popular methods for newbies to get into real estate investing. It takes a significant amount of time 
+and effort to learn how to be a successful wholesaler.
+
+# realestate wholesaling
+
+# creative combinations
+
+
+- investing in real estate with partners to avoid large amount of money upfront
+- your brand consists of yourself and your product.
+  - your personal brand is built through 3 primary areas: reputation, knowledge, and experience. Use your gaps in knowledge as motivation to grow
+  - your BRRR approach requires you to develop a strong and consistent product.
+
+- the main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well
+- home equity loan or line of credit can be used/borrowed to invest in real estate. 
+  - it generally has low interest rates, which is generally tied to the prime rate, but the interest rates are adjustable and high during inflation period, which is another risk to take into account
+  - another risk you take is if you house's value decreases.
+- another strategy is to refinancing your load through the bank after the repairs.
+- another option is to get a business line of credit from a commercial bank or portfolio lender. This allows you to access the equity in your properties.
+- by using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction.
+
+
+
+
+
+- Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
+
+- Creative investing is about shifting the source of any needed cash, depending on the strategy
+
+- In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.• Homeowners get lower, fixed interest rates.• Homeowners can qualify with lower credit scores.• Homeowners are often given the first option to buy foreclosures (especially HUD homes, which are properties that have been foreclosed upon by the U.S. Department of Housing and Urban Development).• Homeowners can often negotiate better deals with sellers. You can consider a single-family home an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later
+
+
 
 - Screen well! Screening your tenant is one of the most important steps you can take to ensure a positive landlording experience, especially with a lease option sandwich. Although tenant-screening practices are beyond the scope of this book, the most important things you can do are as follows: • Always run a background check on your tenant. Look for evictions, criminal activities, etc.• Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.• Look for stability. A tenant who moves every six months without reason is probably not a great candidate.• Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
 
