@@ -172,6 +172,13 @@ tags: ["valueinvesting", "investing", "passiveinvesting"]
   - Does a company have depth? Can it absorb the loss of a key employee?
   - Even if the company has policies and processes, how do they ensure they are being followed?
 
+
+# todo
+- review multifamily millionaire volume 1, chapter 20
+- review multifamily millionaire volume 1, chapter 21
+- review multifamily millionaire volume 2, chapter 18
+- review multifamily millionaire volume 2, chapter 20
+
 # Quotes
 
 "A property manager’s job is to add value for the property owner. Think about that for a moment. Do all property managers see their job that way? Probably not.

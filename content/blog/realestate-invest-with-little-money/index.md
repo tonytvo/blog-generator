@@ -15,7 +15,11 @@ tags: ["realestateinvesting", "financialindependence"]
 
 - The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
 
+- In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.• Homeowners get lower, fixed interest rates.• Homeowners can qualify with lower credit scores.• Homeowners are often given the first option to buy foreclosures (especially HUD homes, which are properties that have been foreclosed upon by the U.S. Department of Housing and Urban Development).• Homeowners can often negotiate better deals with sellers. You can consider a single-family home an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later
+
 # owner occupied investment properties
+
+- todo review multifamily millionaire volume 1, chapter 15
 
 - an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of home-ownership.
 
@@ -61,15 +65,23 @@ Housing and Urban Development (HUD) that insures loans made by banks. Before the
  
 - In canada, CMHC is equivalent to FHA loan
 
+
+# BRRRR
+
+- review multifamily millionaire volume 1, chapter 17
+- review multifamily millionaire volume 2, chapter 19
+
 # partnerships
 
-- As a way to get started investing in real estate without a large amount of money, partnerships can  be a great option. This chapter covers partnerships and explains a few ways you can use them to invest in real estate without a large amount of money. 
-  
+- review multifamily millionaire volume 1, chapter 16
+
+- investing in real estate with partners to avoid large amount of money upfront
+
 - Your brand consists of yourself and your product. They are two sides of the same coin, and you need both to develop your real estate brand. 
  
 - Your personal brand is built through three primary areas: reputation, knowledge, and experience. People can smell that guy coming from a mile away. Never pretend to know more than you do, but use your gaps in knowledge as motivation to grow. 
  
-Your BRRRR approach requires you to develop a strong and consistent product, which is your service. You need to make sure your service is excellent, and it needs to be worth selling. People need to trust your brand, and they will only do so if the quality and profitability of the product you represent is trustworthy. 
+- Your BRRRR approach requires you to develop a strong and consistent product, which is your service. You need to make sure your service is excellent, and it needs to be worth selling. People need to trust your brand, and they will only do so if the quality and profitability of the product you represent is trustworthy. 
  
 - If you build yourself into a trustworthy brand, the money will follow. When real estate investing becomes your passion, you will find that you can't help but talk about it. In turn, the people you talk to about it will talk to their friends about you. 
  
@@ -83,11 +95,16 @@ Your BRRRR approach requires you to develop a strong and consistent product, whi
  
 - When you are the sole proprietor of a business, taxes and accounting are much simpler than when you have partners. The more partners you have, however, the more complicated the bookwork becomes and the more time-consuming and costly tax season becomes. 
 
+- the main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well
+
+
 # home equity loans/lines of credit
 
 - A home equity line of credit, or HELOC, is similar to a home equity loan, but even though you are allowed to borrow a predetermined amount of money, that money is not necessarily dispersed at the start of the loan. It’s available for you to borrow and pay back with flexibility. 
  
-- Home equity loans are a great way to get extra money when you need it the most. They generally have low interest rates, and the only risk you take is if your house's value decreases. 
+- Home equity loans are a great way to get extra money when you need it the most. 
+  - They generally have low interest rates, which is generally tied to the prime rate, but the interest rates are adjustable and high during inflation period
+  - another risk you take is if your house's value decreases. 
  
 - A home equity loan or line of credit requires that you have equity in your home. The difference between what you owe on your home and its fair market value is known as equity. Lenders calculate this figure as a percentage known as loan to value. 
  
@@ -134,6 +151,9 @@ Your BRRRR approach requires you to develop a strong and consistent product, whi
 - The hard-money-to-refinance strategy involves using hard money to buy a property, renovate it, and then refinance it. However, this may not be possible if you cannot obtain a loan.
 
 # raising private money to fund your deals
+
+- review multifamily millionaire volume 2, chapter 3
+- review multifamily millionaire volume 2, chapter 4
 
 - Private money is money provided by nonprofessional lenders to fund your real estate deals. It can be used for short-term or long-term investments, and the rates and terms will depend on the lender and the property. 
  
@@ -185,8 +205,7 @@ Your BRRRR approach requires you to develop a strong and consistent product, whi
  
 - Lease option is similar to the traditional option in which the investor leases the property from the owner and then rents it out. However, in this case, the investor leases the property from the wholesaler instead of the owner, and then sells the lease to the property owner. 
  
-- The lease option sandwich is a type of investment strategy that involves two separate 
-transactions on both sides of the deal. The first is the lease option, which is when the investor purchases a property from the current owner and leases it out. The second is the purchase of the house from the renter, which is completed after five years. 
+- The lease option sandwich is a type of investment strategy that involves two separate transactions on both sides of the deal. The first is the lease option, which is when the investor purchases a property from the current owner and leases it out. The second is the purchase of the house from the renter, which is completed after five years. 
  
 - The lease option is another way for the investor to purchase a property without having to put in much effort, as the investor only has to lease the property from the owner, and not buy it. 
  
@@ -194,74 +213,331 @@ transactions on both sides of the deal. The first is the lease option, which is 
  
 - Treat your lease option agreements as a chance to create a win-win-win scenario and help others get what they want as well. Use your power for good, not evil. This means only entering a lease option with tenants who could very reasonably obtain a loan within several years, without charging an exorbitant option fee. 
  
-- The fourth strategy is known as a master lease option. It works similarly to a lease option in that there's a lease, a lessor, a lessee, and an option fee. However, with an MLO, the lessee generally pays all the expenses associated with the property, including taxes, insurance, and any maintenance concerns.
+- The fourth strategy is known as a master lease option. It works similarly to a lease option in that there's a lease, a lessor, a lessee, and an option fee. However, with an MLO (master lease option), the lessee generally pays all the expenses associated with the property, including taxes, insurance, and any maintenance concerns - and then sublets the property out to tenants who then live in the property
 
-- Another problem that could arise is major repairs being required after the tenant has moved out, which the landlord is responsible for. This is something to keep in mind. 
+- Another problem that could arise is major repairs being required after the tenant has moved out, which the landlord is responsible for. This is something to keep in mind.
+  - one suggestion is to pay for a home warranty on the property (or have the tenants pay for one) at the start of the lease option, one that covers all major maintenance problems on the home.
  
 - The author has found that the lease option is a flexible way for investors to buy property, especially if they are just starting out. It gives them the ability to purchase a home and then tailor it to their liking without having to pay for a full home renovation. 
 
 # seller financing
 
-- what are percentages of mortgage free homes in Canada and US?
-
 - The term seller financed refers to a property where the seller provides the financing. This can be done through a bank, a private lender, or even the seller themselves. The seller obtains a great interest rate on their money, while the buyer does not have to deal with a bank and pays just 5K for the property. 
  
 - Seller financing is another way for you to purchase a home, but it comes with risks such as the due-on-sale clause which gives the bank the right to demand full payment of the loan if the property is sold. This clause makes sense, as otherwise the bank would be liable for any unpaid balances after a sale. 
-
-- only use seller financing when sellers owns the home free and clear (i.e: when sellers has no loans on the property)
  
 - There are many benefits to using seller financing, such as the fact that you aren't required to put down as much money, since the seller is covering the rest. You also avoid having to deal with banks, which can make the difference between a deal and no deal for many people. 
+  - sometimes, the condition of a property may be too poor to allow you to use traditional financing. In these cases, seller financing can give the buyer a chance to own the property, begin fixing it up, and possibly refinance into a more traditional form of financing down the road.
+  - chances are your seller financed deal will not end up on your credit report. This can make obtaining other loans and mortgages in the future much easier.
  
-- Some sellers choose to sell via seller financing rather than just getting cashed out because they want monthly income, better ROI, or to avoid paying taxes. 
+- Some sellers choose to sell via seller financing rather than just getting cashed out because they want monthly income, better ROI, or to avoid paying taxes.
+  - seller financing can help spread out most of those tax payments over the life of the loan on the seller financed property. the IRS has special tax rules for installment sales, so the seller may need to pay only a small portion of that tax bill each year while the loan is being paid off. Be sure to talk to a CPA for more details on this.
  
-- The fourth reason to consider seller financing is if you can't otherwise sell the property. This might be the case if it's in terrible shape, or if you're trying to unload a property that is not worth much. 
+- The fourth reason to consider seller financing is if you can't otherwise sell the property. This might be the case if it's in terrible shape, or if you're trying to unload a property that is not worth much and without needing to fix it up first.
  
 - Another creative use of seller financing is to allow the seller to finance just part of the deal, with a traditional lender financing the remainder. This can be done with a second mortgage, but you need to inquire about lender policies before attempting it. 
  
 - You can use seller financing to purchase properties, especially if you are able to get a loan from a lender. This allows you to purchase a property at a lower price than what it’s worth, and then refinance it for what it’s worth plus the amount of the loan. 
  
-- Although seller financing can be a great option for both parties, it comes with risks and dangers. 
-This section will discuss the three most common concerns associated with seller financing, as well 
-as provide tips on how to overcome them. 
+- ways to find seller-financed deals
+  - ask the question "do you need to be 100% cashed out, or are you able to provide any seller financing?"
+  - look for keywords - when scanning the MLS, Craigslist, and other sources for finding properties, keep an eye out for phrases such as "owner will carry", "owc", flexible terms, seller financing, and "motivated" as well as any other indication that the seller is open to a conversation about seller financing
+  - direct mail - you can purchase lists of homeowners that specify how much equity the homeowner has in their property.
  
-#9 
- 
-The author recommends that investors learn to be experts at wholesaling as it is one of the most 
-popular methods for newbies to get into real estate investing. It takes a significant amount of time 
-and effort to learn how to be a successful wholesaler.
+- risks of seller financing
+  - due-on-sale clause - only use seller financing when sellers owns the home free and clear (i.e: when sellers has no loans on the property)
+  - higher interest rates than traditional mortgages from banks
+  - fewer potential properties - what are percentages of mortgage free homes in Canada and US?
 
 # realestate wholesaling
 
+- A wholesaler is the middleman who connects the retailer to the product source, collecting a fee for doing so. A wholesaler is trained to market for those good deals, negotiate the best discount, 
+put together a solid contract, and then sell at a markup to someone else who is not trained or prepared to do this. 
+ 
+- Wholesaling, at its core, is about solving problems. It's not about stealing, because that would be unethical. It's about solving people's problems and helping them. 
+ 
+- Yes, you can start wholesaling without any money by simply advertising properties and collecting offers. But to become a successful wholesaler, you'll need to invest time and money into marketing. 
+A great deal is the foundation. 
+ 
+- The first two strategies consist of driving around an area and mailing to property owners, and the latter consists of using direct mail. 
+ 
+- The five main ways to find clients are: 1) networking with other investors, 2) advertising in local newspapers, 3) setting up an online profile, 4) using online marketing tools, and 5) placing signs in 
+public places. 
+ 
+- knocking down walls that get in the way, 3) accepting the fact that you won’t be able to get every house, 4) using the MLS, 5) leveraging others, and 6) empowering others. 
+ 
+- The first step to becoming a successful wholesaler is to find great deals. The old adage of you make your money when you buy is true for the wholesaler. So how do you know what a great deal is. It all comes down to the math. 
+ 
+- To determine the price you should offer a seller, you need to know what the average ARV of the homes in your area are. To do so, you can use websites and mobile apps that provide that information. 
+ 
+- The appraised value, or ARV, of a property is determined by comparing it to other similar homes that have recently sold. The appraiser adds or subtracts values based on the differences between the subject property and the comps. 
+ 
+- The most common method for wholesalers to estimate the property’s ARV is by using square footage. To do this, you need to know the price per square foot for each of the comps. The subject property’s ARV can then be estimated by averaging the price per square foot of the three comps. 
+ 
+- The first step to finding a good agent is determining if they are honest and reliable. After all, you'll be spending a lot of time with them, so it is important to feel comfortable with them. You can do this by checking their past sales figures and the prices they got for their clients. 
+ 
+- The 70% rule states that a property’s ARV should be about 70% of what it will appraise for when it’s ready to be sold. This allows for a certain amount of leeway when negotiating with tenants. 
+ 
+- The 70% rule states that you should pay no more than 70% of a property’s ARV, minus any repairs. A wholesaler also needs to subtract their fees from that number. 
+ 
+- Calculate the ARV of a property by multiplying its worth by a percentage. The percentage is determined by using a comparable property as a basis. The more similar the properties, the higher the percentage. After you determine the ARV, you can determine an offer price by subtracting the cost of repairs and your desired wholesaler fee. 
+ 
+- The 70% rule states that for every $100,000 a property is worth, the investor will spend $70,000 in costs, such as closing costs, agent fees, and rehab costs. However, this rule does not apply to every situation and can be modified for more expensive or cheaper homes. 
+ 
+- The second method is known as the Fixed Cost Method. With this method, you take the total costs of the house, such as holding costs, utilities, and closing expenses, and divide them among the number of units you are buying. The resulting number is known as the fixed costs. With this method, you can calculate your maximum allowable offer by subtracting your fixed costs from your appraised value. 
+ 
+- The Fixed Cost Method involves multiplying the dollar amount of the fixed costs by the number of times the property is expected to be purchased. This allows you to calculate the maximum amount you are willing to spend on a property. 
+ 
+- The 70% rule of thumb can be a good indicator of value when used in certain markets, but it should only be used as a guideline and not as a hard and fast rule. It's best to use the fixed cost method to be sure you are making the right offer. 
+ 
+- Before calculating the cost of rehabbing a property, estimate the amount it will cost to fix each part of the house, such as the living room if it has dog urine odor. Do not forget to include the price of replacing any damaged or stolen items. 
+ 
+- The final stage of prepping a rehab involves estimating the rehab costs for each category, or room in the house. This involves breaking down the house into its component parts, and figuring out how much each part will cost to replace or repair. 
+ 
+- When dealing with cash buyers, do your best to estimate the rehab costs and come up with a ballpark figure. Don’t spend countless hours trying to get it exactly right, since you won’t. 
+ 
+- After several deals, you will be able to look at a property and within minutes offer a ballpark fig- ure to your cash buyer. So don’t sweat it too much at the beginning - just follow the six-step process I outlined, and you’ll do just fine. 
+ 
+- A wholesaler's job of finding deals is much more difficult than that of a buy-and-hold investor or a house flipper. A wholesaler is therefore competing not only against retail buyers, but also against every other investor out there, and is at a disadvantage because they need to get the properties for even lower prices. 
+ 
+- After meeting with a motivated seller and determining the ARV of the property, the repair costs, and your maximum allowable offer, you must now present your offer to the seller. However, this might be the area where you need the most practice. 
+ 
+- There are many negotiating techniques you can use to get what you want in real estate. The most important thing is to be persistent and not give up until you get what you want. 
+ 
+- Once you have agreed with the seller on a price, you and the seller should sign the contract. A contract is a legal document that states the terms agreed upon by both parties in the transaction. 
+ 
+- The earnest money is a deposit paid to the seller to show your good faith to complete the con- tract as promised. It is customary for the amount of the earnest money to be minimal, such as $1,000. 
+ 
+- After finding a deal, the next step is to secure the contract from the seller. This is done by having the contract reviewed and signed by both parties. The last stage is to get the property into the hands of a cash buyer. 
+ 
+- A cash buyer is any person or business that can buy your wholesale deal from you without needing to use traditional financing. In other words, they do not need to run to the bank and wait six weeks for a loan to close. 
+ 
+- Having a cash buyer list is extremely important, but don’t make it your top priority. Focus on wholesaling, and you’ll have no problem finding cash buyers.
+
+- interviewing all potential cash buyers and asking questions such as:
+  - how many deals have you purchased in the past six months?
+  - how quickly can you close?
+  - are you working with other wholesalers?
+  - what kind of properties (specifically) are you looking for?
+  - what kind of LTV are you looking for?
+  - what kind of property condition will you accept?
+
+- strategies for finding cash buyers 
+  - BiggerPockets. com is a good place to look for cash buyers. There are more than 200,000 members on BiggerPockets. com, many of whom are looking to buy real estate. 
+  - landlords on craigslist - not all these landlords/property owners will be cash buyers, but most investors with enough knowledge to buy multiple properties could probably also pull off a cash deal.
+  - real estate clubs
+  - real estate agents - if you can build a solid relationship with an agent, they can easily supply you with a list of all recent cash sales in any nearby location.
+  - online lead capture - if you have a website, you can easily setup a "lead capture form" that allows potential cash buyers to submit their name and contact information if they'd like to be added to your buyers list. You can drive traffic to your webpage through social media, online or traditional advertising, your biggerpockets profile, or good old cragslist.
+  - public record - your local public's record's office has information about every sale in your area.
+    - local title company can provide you a list of properties that have sold without a mortgage lien.
+  - craigslist ads - a simple subject line that states "wholesale realestate deals at 70% ARV"
+  - courthouse steps - anyone bidding on a property at the courthouse is a cash buyer. Get to these auctions early and stike up some conversations, hand out business cards, and create some long-lasting business relationships
+  - hard money lenders - good source of referrals to cash buyers.
+  - listsource.com - list for potential motivated sellers. Search for properties purchased within a specific period of time and focus on absentee owners who didn't record a deed of trust.
+ 
+- The best way to find a cash buyer is to simply notify everyone you know that you are selling your house, and then wait for offers to roll in. 
+ 
+- When dealing with a cash buyer, prepare a packet of information that outlines the deal. This includes the address and details, the financial outlook, the condition and repairs needed, and a bid from a contractor. Photos of the property, inside and out. Comparable sales for the neighborhood to justify your assumed ARV.
+ 
+- After finding a suitable cash buyer, you must transfer the contract to them. This can be done by providing a non-refundable fee to your buyer. 
+ 
+- A wholesale deal can be put together in many different ways, and the method you use will depend on the transaction, your state laws, and other circumstances. For this reason, I want to give you a thorough overview of the different strategies for putting together a wholesale deal. 
+ 
+- The three most common wholesaling techniques are simultaneous closing, back-to-back closing, and double closing. The first involves closing the deal simultaneously with the buyer and the seller. The second involves closing the deal with the buyer after the seller. The third involves closing the deal with the seller after the buyer. 
+ 
+- The two techniques involve physically going to another room at the title company (or attorney's office), and immediately selling the property to a buyer, often within just minutes. The difference between the two techniques lies in the way the deal is funded. 
+ 
+- A simultaneous closing is when the end buyer uses their cash to fund both the purchase and the sale. In other words, the end buyer's cash will fund your purchase, and then that same cash will be used to pay you for the property. 
+ 
+- The back-to-back closing is a method used by wholesalers to purchase a property. The funds are provided by the buyer, who uses them to buy the property and then sells it back to the wholesaler 
+shortly after. The buyer then uses the funds to purchase another property. 
+ 
+- The closing process involves the title company or attorney who closed the deal issuing a check for you, usually on the day of closing. You are not required to deposit this check into your bank account and can instead use it to continue growing your real estate investment business.
+
 # creative combinations
 
-
-- investing in real estate with partners to avoid large amount of money upfront
-- your brand consists of yourself and your product.
-  - your personal brand is built through 3 primary areas: reputation, knowledge, and experience. Use your gaps in knowledge as motivation to grow
-  - your BRRR approach requires you to develop a strong and consistent product.
-
-- the main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well
-- home equity loan or line of credit can be used/borrowed to invest in real estate. 
-  - it generally has low interest rates, which is generally tied to the prime rate, but the interest rates are adjustable and high during inflation period, which is another risk to take into account
-  - another risk you take is if you house's value decreases.
-- another strategy is to refinancing your load through the bank after the repairs.
-- another option is to get a business line of credit from a commercial bank or portfolio lender. This allows you to access the equity in your properties.
-- by using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction.
-
-
-
-
-
-- Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
+- Jillian found a deal on a fourplex that she can buy for $80,000. The fourplex needs $20,000 in repairs, but Jillian has no money to fund them, so she comes up with a partnership with her family friend Grant. Grant finances the entire $20,000 repair bill and holding costs, while Jillian finances the rehab, takes care of the bills, and manages the property manager for the life of the partnership. 
+ 
+- Roland acquired a 12-unit apartment complex for $1,000 per month in rent, with a debt-to-income ratio of 25%. After paying the monthly mortgage, he was left with $4,200 in cash flow. He was able to gather $50,000 from the bank by providing a 15% down payment and a 75% loan to value. 
+ 
+- After saving up a down payment, which for this example is $5,600, the author was able to buy a house that needed some work, fix it up, and sell it for a profit. 
+ 
+- There are many different techniques and strategies that you can use to acquire properties with little to no money down, and many of them have been discussed in this book. The most important thing is to never give up and to continue learning, as the real estate market constantly evolves.
 
 - Creative investing is about shifting the source of any needed cash, depending on the strategy
 
-- In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.• Homeowners get lower, fixed interest rates.• Homeowners can qualify with lower credit scores.• Homeowners are often given the first option to buy foreclosures (especially HUD homes, which are properties that have been foreclosed upon by the U.S. Department of Housing and Urban Development).• Homeowners can often negotiate better deals with sellers. You can consider a single-family home an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later
-
-
+- Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
 
 - Screen well! Screening your tenant is one of the most important steps you can take to ensure a positive landlording experience, especially with a lease option sandwich. Although tenant-screening practices are beyond the scope of this book, the most important things you can do are as follows: • Always run a background check on your tenant. Look for evictions, criminal activities, etc.• Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.• Look for stability. A tenant who moves every six months without reason is probably not a great candidate.• Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
 
+# making an offer that sticks
+
+- review multifamily millionaire volume 1, chapter 18
+- review multifamily millionaire volume 2, chapter 15
+
+# due diligence
+
+- review multifamily millionaire volume 1, chapter 19
+- review multifamily millionaire volume 2, chapter 16
+
+# getting crystal clear on your criteria
+
+- review multifamily millionaire volume 1, chapter 3
+- review multifamily millionaire volume 2, chapter 1
+
+# property type (CCC No. 1)
+
+- multifamily millionaire volume 1, chapter 4
+
+# choosing your location (CCC No. 2)
+
+- multifamily millionaire volume 1, chapter 5
+
+# property condition (CCC No. 3)
+
+- multifamily millionaire volume 1, chapter 6
+
+# price range (CCC No. 4)
+
+- multifamily millionaire volume 1, chapter 7
+
+# profitability and analysis (CCC No. 5)
+
+- multifamily millionaire volume 1, chapter 8
+- review multifamily millionaire volume 2, chapter 14
+
+# multifamily millionaire model
+
+- multifamily millionaire volume 1, chapter 9
+- review multifamily millionaire volume 2, building your team
+- review multifamily millionaire volume 2, chapter 22
+- review multifamily millionaire volume 2, chapter 2
+
+# strategy for finding great deals
+
+- multifamily millionaire volume 1, chapter 10
+- review multifamily millionaire volume 2, chapter 9
+- review multifamily millionaire volume 2, chapter 10
+- review multifamily millionaire volume 2, chapter 21
+
+# underwriting
+
+- review multifamily millionaire volume 2, chapter 11
+- review multifamily millionaire volume 2, chapter 12
+- review multifamily millionaire volume 2, chapter 13
+
+# finding small multifamily deals on-market
+
+- multifamily millionaire volume 1, chapter 11
+
+# finding deals (off-market)
+
+- todo multifamily millionaire volume 1, chapter 12
+
+- **working it backwards**
+  - Deals - i.e: 24 deals (2/month)
+  - Budget - $24,000/year ($1,000/deal)
+  - Offers - 5 offers to get 1 deal 24 deals x 5 offers = 120 offers or 10/month
+  - Appointments - 8 appointments for 5 offers 8 ÷ 5 = 1.6 appt/offer … 120 offers x 1.6 = 192 appointments or 16/mo
+  - Leads 
+    - 4 leads / appointment
+    - 192 appt. x 4 = 768 leads / year - or -64 leads / month (32 leads = 1 deal)
+  - Lead Campaigns
+    - Lead Generation Campaigns -> of Leads/month -> Cost/month
+    - **Radio Ad** -> 9 -> $300
+    - Newspaper Ads -> 2 -> $250
+    - **Direct Mail - Owners w/ equity (890/mo)** -> 8 -> $668
+    - Direct Mail - Tax Sale (700/year) -> 3 -> $525
+    - Direct Mail - Expired Listings (120/mo) -> 6 -> $90
+    - Direct Mail - Preforeclosure (120/mo) -> 6 -> $90
+    - Car Sign -> 3 -> $0
+    - Pole/Yard Signs -> 5 -> $10
+    - **Birddog System - Vacant Houses** -> 15 -> $150
+    - **Referrals (newsletter, network, business cards)** -> 10 -> $75
+    - Total: 67 $2,158
+  
+  - Next Actions 
+  - Diversity of lead generation!
+  -  What works today, might not tomorrow
+     -  Ex: Newspaper ads
+     - Ex: Direct Mail - absentee owner
+     - Ex: Signs
+  - Referral prospecting =
+    -  High leverage
+    -  Resilient performance
+    -  Farm system
+    -  Worth focusing on long-term!!
+
+- **Driving For Dollars**
+  - Pick a target neighborhood
+  - Schedule drive or walk
+  - Look for (1) vacants (2) Fixer-uppers (3) Legal proceedings
+  - Reach out to the owner! (1) call (2) mail (3) neighbors
+  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+
+- **MLS**
+  - Find a real estate agent
+  - Get automated leads in your target area
+  - Be FIRST (minutes or hours! Not days) or LAST (persistence & follow-up)
+
+- **Networking Groups**
+
+  - Find deals by networking and telling other investors what you want to buy!
+    - Look for formal groups like a REIA (Real Estate Investing Association)
+      i. Google “Real estate investing club + [your city]”
+    - Look for informal groups and meetups
+    - Find online forums (ex: BiggerPockets Local Forums) or Facebook Groups
+
+- **Professional Outreach**
+
+  - Reach out to and network with real estate agents (residential & commercial), attorneys, CPAs, insurance agents, financial advisors, and more. Let them know how you can help.
+
+- **Wholesalers**
+  - Get on wholesaler lists (meet at local meetups!) and get to know wholesalers personally
+
+- **Direct Mail**
+
+  - MANY different campaigns and lists you can mail to. A simple one to start is filter a list by:
+    - Location
+    - Property type
+    - Length of time owned (5+ years)
+
+  - Send personal mailers expressing your interest in buying their house. Follow-up!
+  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+
+- **Website**
+  - Use for (1) organic leads over time (2) landing page for paid ads or direct mail (3) Credibility
+  - Recommended Tool: Investor Carrot Websites - https://www.coachcarson.com/investorcarrot
+
+- **Ads**
+
+  - Pay to get your house buying service in front of other people:
+    - Pay Per Click (PPC) - like Google, YouTube, Facebook
+    - Classified ads - Craiglist and newspapers
+  - Locally focused advertising - Nextdoor.com, talk radio/podcasts, etc
+
+- **Cold calling**
+  - Old fashioned, takes time, but still inexpensive and sometimes effective!
+    a. Ads online or signs - For Rent or FSBO (For Sale By Owner)
+
+-  **Signs**
+  - “I Buy Houses + Fast Cash + Your Phone Number” - Relatively inexpensive yet effective.
+    a. Yard signs - at your rentals, flips, home
+    b. Car signs - magnetic or vinyl lettering
+    c. Bandit signs - at intersections or telephone poles (likely illegal in most municipalities!)
+
+-  **Auctions**
+  - Auctions can be a good source of deals if you’re patient and persistent.
+    a. Auction companies - google the auction companies in your area and get on their list
+    b. Search and regularly follow online auction websites like: Xome.com, Hubzu.com, Auction.com, Homesteps.com, Homepath.com, HudsonandMarshall.com, ten-x.com, HUDHomeStore.com, MobileHomeParkStore.com
+
+-  **Word of Mouth (to your world!)**
+  - Tell EVERYONE that you buy properties. Don’t be too embarrassed to make money! Creative ideas to spread the word?
+    a. All your emails - P.S. I'm always on the lookout for houses or apartments that may need some TLC. I buy all types in any condition. Do you know of a house that needs a new owner to bring it back to life? Know a landlord who doesn't want to be? Did somebody you know inherit a house they don't want? Call or email me anytime.
+    b. T-shirts that say “I Buy Real Estate”
+    c. Social media
+    d. Business cars
+    e. Small talk
 
 # rules of the new rich
 
@@ -567,114 +843,6 @@ and effort to learn how to be a successful wholesaler.
   - Step 4: Manage your property without spending time. Find the property management company you want to use to manage your unit after the purchase. Your business is worth about 10 percent of rental income per month. If you make $2K in monthly rent, the property management company will take $200 per month or $2,400 per year. If you intend to hold the property for life, let’s say fifty years, that money starts to add up. Ask your property management company to write you a $4,800 check (two years of property management fees); otherwise tell them you won’t do the deal and they’ll miss out on a lifetime of 10 percent of your rental income. 
   - Step 5: Close the deal. Sit back and collect your monthly payment. In my example that’s $500/month.”
 
-
-
-# finding deals (off-market)
-
-- **working it backwards**
-  - Deals - i.e: 24 deals (2/month)
-  - Budget - $24,000/year ($1,000/deal)
-  - Offers - 5 offers to get 1 deal 24 deals x 5 offers = 120 offers or 10/month
-  - Appointments - 8 appointments for 5 offers 8 ÷ 5 = 1.6 appt/offer … 120 offers x 1.6 = 192 appointments or 16/mo
-  - Leads 
-    - 4 leads / appointment
-    - 192 appt. x 4 = 768 leads / year - or -64 leads / month (32 leads = 1 deal)
-  - Lead Campaigns
-    - Lead Generation Campaigns -> of Leads/month -> Cost/month
-    - **Radio Ad** -> 9 -> $300
-    - Newspaper Ads -> 2 -> $250
-    - **Direct Mail - Owners w/ equity (890/mo)** -> 8 -> $668
-    - Direct Mail - Tax Sale (700/year) -> 3 -> $525
-    - Direct Mail - Expired Listings (120/mo) -> 6 -> $90
-    - Direct Mail - Preforeclosure (120/mo) -> 6 -> $90
-    - Car Sign -> 3 -> $0
-    - Pole/Yard Signs -> 5 -> $10
-    - **Birddog System - Vacant Houses** -> 15 -> $150
-    - **Referrals (newsletter, network, business cards)** -> 10 -> $75
-    - Total: 67 $2,158
-  
-  - Next Actions 
-  - Diversity of lead generation!
-  -  What works today, might not tomorrow
-     -  Ex: Newspaper ads
-     - Ex: Direct Mail - absentee owner
-     - Ex: Signs
-  - Referral prospecting =
-    -  High leverage
-    -  Resilient performance
-    -  Farm system
-    -  Worth focusing on long-term!!
-
-- **Driving For Dollars**
-  - Pick a target neighborhood
-  - Schedule drive or walk
-  - Look for (1) vacants (2) Fixer-uppers (3) Legal proceedings
-  - Reach out to the owner! (1) call (2) mail (3) neighbors
-  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
-
-- **MLS**
-  - Find a real estate agent
-  - Get automated leads in your target area
-  - Be FIRST (minutes or hours! Not days) or LAST (persistence & follow-up)
-
-- **Networking Groups**
-
-  - Find deals by networking and telling other investors what you want to buy!
-    - Look for formal groups like a REIA (Real Estate Investing Association)
-      i. Google “Real estate investing club + [your city]”
-    - Look for informal groups and meetups
-    - Find online forums (ex: BiggerPockets Local Forums) or Facebook Groups
-
-- **Professional Outreach**
-
-  - Reach out to and network with real estate agents (residential & commercial), attorneys, CPAs, insurance agents, financial advisors, and more. Let them know how you can help.
-
-- **Wholesalers**
-  - Get on wholesaler lists (meet at local meetups!) and get to know wholesalers personally
-
-- **Direct Mail**
-
-  - MANY different campaigns and lists you can mail to. A simple one to start is filter a list by:
-    - Location
-    - Property type
-    - Length of time owned (5+ years)
-
-  - Send personal mailers expressing your interest in buying their house. Follow-up!
-  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
-
-- **Website**
-  - Use for (1) organic leads over time (2) landing page for paid ads or direct mail (3) Credibility
-  - Recommended Tool: Investor Carrot Websites - https://www.coachcarson.com/investorcarrot
-
-- **Ads**
-
-  - Pay to get your house buying service in front of other people:
-    - Pay Per Click (PPC) - like Google, YouTube, Facebook
-    - Classified ads - Craiglist and newspapers
-  - Locally focused advertising - Nextdoor.com, talk radio/podcasts, etc
-
-- **Cold calling**
-  - Old fashioned, takes time, but still inexpensive and sometimes effective!
-    a. Ads online or signs - For Rent or FSBO (For Sale By Owner)
-
--  **Signs**
-  - “I Buy Houses + Fast Cash + Your Phone Number” - Relatively inexpensive yet effective.
-    a. Yard signs - at your rentals, flips, home
-    b. Car signs - magnetic or vinyl lettering
-    c. Bandit signs - at intersections or telephone poles (likely illegal in most municipalities!)
-
--  **Auctions**
-  - Auctions can be a good source of deals if you’re patient and persistent.
-    a. Auction companies - google the auction companies in your area and get on their list
-    b. Search and regularly follow online auction websites like: Xome.com, Hubzu.com, Auction.com, Homesteps.com, Homepath.com, HudsonandMarshall.com, ten-x.com, HUDHomeStore.com, MobileHomeParkStore.com
-
--  **Word of Mouth (to your world!)**
-  - Tell EVERYONE that you buy properties. Don’t be too embarrassed to make money! Creative ideas to spread the word?
-    a. All your emails - P.S. I'm always on the lookout for houses or apartments that may need some TLC. I buy all types in any condition. Do you know of a house that needs a new owner to bring it back to life? Know a landlord who doesn't want to be? Did somebody you know inherit a house they don't want? Call or email me anytime.
-    b. T-shirts that say “I Buy Real Estate”
-    c. Social media
-    d. Business cars
-    e. Small talk
 
 # Quotes
 
