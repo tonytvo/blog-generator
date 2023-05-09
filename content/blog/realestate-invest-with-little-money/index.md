@@ -1027,11 +1027,88 @@ assessments.
 
 # strategy for finding great deals
 
-- multifamily millionaire volume 1, chapter 10
-- review multifamily millionaire volume 2, chapter 9
-- review multifamily millionaire volume 2, chapter 10
-- review multifamily millionaire volume 2, chapter 21
+- Everything is a funnel. If you’re a regular listener to The BiggerPockets Podcast, you’ve probably heard the host, Brian, say this phrase numerous times. It is the fundamental truth that drives nearly everything successful in life. 
+ 
+- The good thing about the top of the funnel is that it weeds out the bad leads immediately, saving you time and resources. However, it does not give you much information on the quality of the leads you’re getting. 
+ 
+- Rejections are an important part of the business. Every no is one step closer to a yes. If you can improve your offer every time, you’ll find success. 
+ 
+- The LAPS funnel allows you to track your progress and see where you may need to improve your process. It also shows you what your goals should be at each stage.
 
+- The most essential thing to do to reach your investing goals is to find a great deal. The more time and resources you invest into it, the greater the return. 
+ 
+- Working with multiple brokers helps you gather as much information as possible on the 
+multifamily business, as each one will have different connections and sources. 
+ 
+- As you get to know more about your target market, pay close attention to which multifamily brokers are most active there. The ones you should be targeting first are the ones that are getting most of the listings. 
+ 
+- Pocket listings are deals that a broker has an agreement to sell a property but is not advertising publicly. Because these deals are not widely known, they do not receive as much competition, which in turn allows them to receive a lower price. 
+ 
+- Some sellers will accept offers from multiple brokers, which can provide you with more choice and flexibility when choosing a real estate agent. However, this also increases the risk of missing out on better offers since no broker has complete knowledge of other offers. 
+ 
+- There are many advantages to conducting business with off-market sellers. Some of the biggest pros are that the prices are sometimes below market value, that working directly with the seller eliminates the brokerage fee, and that some sellers may be in a hurry to get rid of their property. 
+ 
+- Because there are so many large multifamily properties for sale, competition to buy them is fierce. Brokers are constantly trying to get listing agreements, and other buyers are constantly trying to buy off-market. 
+ 
+- The larger the multifamily property, the less likely it will be listed by a residential broker or show up on the Multiple Listing Service. However, there are exceptions, especially for properties with fewer than forty units. 
+ 
+- Keep an eye out for multifamily properties being auctioned off. These are typically old buildings that have been foreclosed on by the bank. Because of the time constraints imposed by the law, these auctions are generally limited to cash buyers or buyers with the ability to obtain large amounts of cash quickly. 
+ 
+- The author and his team at Open Door Capital prioritized their deal flow by screening potential investments based on their likelihood to succeed. This allowed them to funnel the most promising prospects through the underwriting process quickly, which in turn allowed them to keep their deal flow high. 
+ 
+- The first step in the due diligence process is to filter your leads. You should only take the time to underwrite those that pass your screening process. 
+ 
+- Investment criteria are kept fairly straightforward so that they can be applied to a large number of deals. The best way to screen a deal is with a checklist of criteria that you feel will help you evaluate the quality or suitability of the investment. 
+ 
+- The objective of the screening process is to identify the factors that would allow you to prioritize a deal or know immediately that the deal is not worth pursuing. These factors are based on your specific investment strategy. 
+ 
+- You will want to determine what you can and can’t live with in a rental property, as not all things that matter to you may matter to someone else. This will help you avoid wasting time on properties that won’t work out. 
+ 
+- Step 2 involves taking all the screening criteria and assigning a subjective value to each one. Some will be more important than others, and some will not be deal breakers. After all the factors have been weighed, you’ll have to decide whether the deal is worth investing more time into. 
+ 
+- After the preliminary due diligence of a property, you can calculate a rough valuation of it. This involves taking the current rent roll and annualizing it, then subtracting any expenses that are not typical for a property of that class and condition. 
+ 
+- The financial analysis should match the investor's investment strategy. If you're buying a stabilized property, the analysis will center more on the property's current value. If you're planning to do a significant value-add project, you'll be more concerned with what you can pay today compared to what the property's value will be after the upgrade is complete. 
+ 
+- It is also important to keep in touch with the person who brought you the deal, as this will help you in the future when you are working with other investors. 
+ 
+- As a multifamily investor, Murray was constantly on the lookout for opportunities to buy properties that met his investment criteria and were at a reasonable price. One day, he saw an ad for Apartments at Madison Barracks, which was soon to be auctioned off. The property had suffered from water damage, resulting in a poor condition, and was being sold by the previous owner. 
+ 
+- The constant fearmongering by pundits can make it hard for investors to maintain objectivity. Regardless of where the economy is in terms of cycles, tenants will eventually stop paying, notes will be called, and everything will go to hell. 
+ 
+- It is impossible to know for sure when real estate values will decline, but it is inevitable that they will. The only question is when. Be prepared for a market correction by investing selectively and getting your finances in order. For examples, having over 35% equity and 6 months expense reserves for each property
+ 
+- To better prepare yourself for any potential downturn, you must first conduct an assessment of your risk exposure. Your degree of exposure will determine what actions you should take. 
+ 
+- Cash flow is the most important metric for measuring the risk of a deal. It protects you from losing a property in bad times, thus allowing you to hold on until you accumulate wealth in good times. 
+ 
+- To asses your vulnerability, you must calculate your Debt Service Coverage Ratio, which is also known as your Debt Coverage Ratio. This measures the amount of money you have available to pay your debts versus how much you owe in debt. 
+ 
+- To objectively asses the quality and diversity of the cash flows your properties are generating, you must consider things like the type and class of the assets, the stability of the income and expenses, and the location. 
+ 
+- The next step in assessing your level of risk is to evaluate your portfolio's debt. Debt instruments that are subject to future interest rates should be avoided wherever possible. 
+ 
+- After completing your self-assessment, you should evaluate your portfolio’s DSCR and decide whether you’re comfortable with it or not. Most investors desire a DSCR of around 1.3 to 1.5. 
+ 
+- One way to reduce your risk is to refinance your debt. Refinancing your debts can be done in several ways, such as improving the terms or refinancing them entirely. The objective is to lengthen the terms of your debts and lower their interest rates as much as possible. 
+ 
+- make your future debt payment as low and predictable as you can for the longest period possible. Here are some red flags to watch out for
+  - debt with high interest rates (relative to current rates)
+  - any variable-rate debt
+  - fixed rate schedule to expire in the next 3 to 5 years.
+  - bridge debt (or any other short-term debt instrument)
+  - balloon payments
+  - full-recourse debt that could be refinanced into non-recourse debt
+  - amortization periods that are shorter than what's available through a refinance.
+
+- Refinancing a property entails adding more debt to the equation, and should be done only if the investor feels they can handle the increased risk. Refinancing should not be done to increase cash flow, but rather to improve the position in case of a market correction. 
+ 
+- To reduce your risk, increase your cash flow as much as possible. To make your properties more recession-resistant, increase their value by adding value through renovation or by purchasing properties that already have value-added projects completed. 
+ 
+- It is better to be a buyer during uncertain times, as most of your competitors will prefer to stay on the sidelines. While risk is inevitable, if you can secure the right property with the right financing, it can be significantly mitigated. 
+ 
+- Selling underperforming or risky properties is another way to reduce your risk (dragging down your portfolio DSCR). It is best to only sell when the property is not generating cash flow, and only when you have the capital to replace it. 
+ 
 # underwriting
 
 - review multifamily millionaire volume 2, chapter 11
