@@ -1117,9 +1117,99 @@ multifamily business, as each one will have different connections and sources.
 
 # finding small multifamily deals on-market
 
-- multifamily millionaire volume 1, chapter 11
+- The second step, finding the right deals, is to search for them off-market or via a Multiple Listing Service. 
+ 
+- The most efficient way to discover available properties is via portals such as Zillow, Realtor.com, Redfin, Trulia, or BiggerPockets. com. These portals let you view properties listed by local real estate companies. 
+ 
+- To help you choose the best agent for your needs, you must ask seven questions:
+
+- OnFire agents.
+  - **organized** - a great agent should have a reliable system in place to handle the entire transaction - from searching deals to scheduling appointments, to making offers, negotiating, and closing.
+  - **networked** - Your agent should be able to connect you with lenders, property managers, contractors, title companies, attorneys, and more. They should also have a broad network of connections with other agents that they can use to assist you in locating the best deals.
+    - agent has lived, worked in the area long enough to give you the best deals and connect you with other great team members. 
+  - **focused on you** - A great agent is one who is focused on delivering you a property that meets your budget and requirements, not just something that makes them money. 
+  - **investment-savvy** - Finding a great real estate agent is as important as finding a good real estate investor. A great agent will know what you care about and will help you with that, rather than just giving their own opinion. That doesn't mean your agent must own their own rental properties. However, at the minimum, an agent should be familiar with with the property and location concerns that matter to investors.
+  - **responsive** - Great agents are responsive, can answer questions via text, and can show you properties the same day they’re listed, or at least within a few days. 
+  - **experienced** - The first step in finding an OnFire agent is to create a list of agents in your area. Then, you begin interviewing them to find the ideal one. 
+    - The top of your funnel is occupied by agents who are in the process of renting out their own properties.
+    - referrals agents from friends and family
+    - check out the biggerpockets agent directory
+    - cold call brokerages: call them up and simply ask: "who are the top 3 realestate agents in your office in terms of purchase volume
+    - monitor active listings: oftentimes a handful of agents will account for a disproportionately large percentage of rental properties coming to the market. Schedule a viewing for one of their listing.
+
+- The biggest issue with the MLS is that it's so easy to access. When you can just go onto Realtor. com or Redfin and search for houses, good deals are harder to find. However, there are still deals to be had via the MLS. 
+ 
+- The longer a property stays on the market, the more likely it will fall into a state of disrepair, and the cheaper the property will go. This is why it's crucial to keep an eye out for properties that have been listed for a long time, as this allows you to make more affordable offers. 
+
+- The MLS is a great place to find deals, but keep in mind that you'll usually end up losing them. Your best bet is to be persistent and check the MLS daily, trying to find a property that nobody else has seen.
+
+- setup automatic alerts that meet your criteria like number of units, property types, price range and more. 
+ 
+- typically 90% of deals pursued are lost. Offering $400k on $500k fourplex that's been on market for 60 days is completely reasonable.
+
+- look for hidden potential
+  - Rehabbing a property, adding bedrooms, and converting extra space into additional units can all increase the property’s worth and rental rates.
+  - understanding what market rents are and comparing them to what you find in properties listed on the MLS
+  - shift utility responsibility
+  - change strategy: is the property currently being operated at its highest and best use?
+  - Hidden deals can be found on the Multiple Listing Service, or MLS. Look out for mistakes in square footage, number of bedrooms, and so on, and then investigate the possibilities.
+  - add income sources: adding coin operated laundry machines and adding rentable storage space for current tenants or other residents in the neighborhood. You can also add vending machine, charge on-going "pet rent" or pet fees, charge extra for garage stall and more. 
+ 
+- The MLS has very few listings for properties with five or more units. This is because the MLS was designed to be used for residential properties, and commercial properties with more than four units are handled differently by commercial brokers. 
+ 
+- As you grow and expand your portfolio, you may find that not having a real estate license becomes an advantage, as many agents and brokers would rather deal with investors. 
+ 
+- it's important to ask around to find out who the top players are for your particular niche. 
 
 # finding deals (off-market)
+
+- The author explains the six strategies for buying off-market, which are: check for bank owned properties, look for properties that are not advertised on the MLS, look for properties that are for sale by owner, check for foreclosures, buy properties that are already renovated, buy properties that are not in good condition, and buy properties that are not in working order. 
+ 
+- Search for and identify multifamily properties. They usually have many doors and cars in the driveway. Then, search for and identify the owners of all the properties you’ve spotted. 
+ 
+ 
+ 
+#9 
+ 
+Finding good deals can also be done by talking to local landlords, who in most cases are also 
+investors. 
+ 
+#10 
+ 
+Property managers, who are familiar with the condition of their clients’ properties, can be a great 
+source of leads for buying small multifamily properties. 
+ 
+#11 
+ 
+Wholesalers are individuals who do all the legwork required to locate off market deals and then 
+connect you with them - for a fee. They get a property under contract by signing a purchase and sale 
+agreement with the seller, then add their fee to what they paid for it. 
+ 
+#12 
+ 
+If you can't find a good wholesaler in your area, consider building your own by recruiting 
+enthusiastic real estate investors to work for you. 
+ 
+#13 
+ 
+The LoopNet website is a great resource for commercial real estate investors. It allows you to 
+browse through the thousands of commercial properties available and perform due diligence before 
+making an offer. 
+ 
+#14 
+ 
+Facebook is a great place to look for off-market deals. Searching for off market will bring up 
+Facebook groups where individuals post ads for items they want to sell or give away. 
+ 
+#15
+The third and final way to find deals is through the classified ads website Craigslist. com. Posting 
+an ad in the For Rent section of Craigslist can be done by owners of small multifamily buildings 
+who would like to rent out a portion of their units. 
+ 
+ 
+The key to finding off-market deals is having a consistent method for gathering leads, performing 
+due diligence, and making offers. 
+ 
 
 - todo multifamily millionaire volume 1, chapter 12
 
@@ -1185,6 +1275,9 @@ multifamily business, as each one will have different connections and sources.
   - Get on wholesaler lists (meet at local meetups!) and get to know wholesalers personally
 
 - **Direct Mail**
+  - Direct mail is the process of sending a large volume of mail, usually postcards or letters, to potential sellers with the intention of having a small percentage of them call you with the desire to sell. 
+ 
+  - The secret to effective direct mail is to find a list of individuals who may be in a position to buy a property, and then mail them an offer they can’t refuse. The most effective lists are those that are highly specific, such as people who own multifamily properties or who owe more than they are worth. 
 
   - MANY different campaigns and lists you can mail to. A simple one to start is filter a list by:
     - Location
@@ -1192,6 +1285,12 @@ multifamily business, as each one will have different connections and sources.
     - Length of time owned (5+ years)
 
   - Send personal mailers expressing your interest in buying their house. Follow-up!
+  - The fourth lever is the mailing list. You will need to decide what type of direct mail you want to send: postcards or letters. Some investors swear by postcards because they are cheaper to buy, print, and mail. Others swear by letters because they tend to generate a higher response rate. 
+ 
+  - The most effective way to get in touch with investors is through direct mail. Write your message, choose a design, and send your mail out. 
+ 
+  - Mailing is the final step in the BRRRR method. It can take many tries to secure a sale, so be prepared to keep mailing until you get a positive result.
+  
   - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
 
 - **Website**
