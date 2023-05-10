@@ -153,14 +153,14 @@ Trackable, measurable, use compelling copy, includes multi-step, short-term foll
   - When all is said and done, branding is something you do after someone has bought from you rather than something you do to induce them to buy from you.
 
 
-# The Law of Leadership: It’s better to be first than it is to be better.
+# The Law of Leadership: It’s better to be first than to be better.
 
-- The basic issue in marketing is creating a category you can be first in. It’s the law of leadership: It’s better to be first than it is to be better. It’s much easier to get into the mind first than to try to convince someone you have a better product than the one that did get there first.
+- The fundamental issue in marketing is creating a category you can be first in. It’s the law of leadership: It’s better to be first than better. It’s much easier to get into the mind first than to convince someone you have a better product than the one that did get there first.
 - Not every first is going to become successful, however. Timing is an issue — your first could be too late.
 - Some firsts are just bad ideas that will never go anywhere.
-- The law of leadership applies to any product, any brand, any category.
-- If you’re introducing the first brand in a new category, you should always try to select a name that can work generically.
-- Unfortunately, benchmarking doesn’t work. Regardless of reality, people perceive the first product into the mind as superior. Marketing is a battle of perceptions, not products.
+- The law of leadership applies to any product, brand, and category.
+- If introducing the first brand in a new category, you should always try to select a name that can work generically.
+- Unfortunately, benchmarking doesn’t work. Regardless of reality, people perceive the first product in their minds as superior. Marketing is a battle of perceptions, not products.
 
 # The Law of the Category: If you can’t be first in a category, set up a new category you can be first in.
 
