@@ -164,8 +164,9 @@ Trackable, measurable, use compelling copy, includes multi-step, short-term foll
 
 # The Law of the Category: If you can’t be first in a category, set up a new category you can be first in.
 
-- When you launch a new product, the first question to ask yourself is not “How is this new product better than the competition? “but “First what? “In other words, what category is this new product first in?
+- When you launch a new product, the first question to ask yourself is not “How is this new product better than the competition? “but “First, what? “In other words, what category is this new product first in?
 - This is counter to classic marketing thinking, which is brand oriented: How do I get people to prefer my brand? Forget the brand. Think categories. Prospects are on the defensive when it comes to brands. Everyone talks about why their brand is better. But prospects have an open mind when it comes to categories. Everyone is interested in what’s new. Few people are interested in what’s better.
+
 
 # The Law of the Mind: It’s better to be first in the mind than it is to be first in the marketplace.
 
