@@ -1,7 +1,7 @@
 ---
-title: Implementing domain driven design by vaugh vernon summary - wip
+title: domain driven design by Eric Evans summary
 date: "2021-12-20T22:12:03.284Z"
-description: "Summary for domain driven design"
+description: "domain driven design by Eric Evans summary"
 tags: ["domaindrivendesign", "evolutionarydesign"]
 ---
 
