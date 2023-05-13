@@ -164,29 +164,80 @@ keep an aggregate together on one server. Allow different sums to be distributed
 - ![supple design overview](./supple-design-overview.png)
   
 ## intention-revealing interfaces
+- if a developer must consider the implementation of a component in order to use it, the value of encapsulation is lost. If someone other than the original developer must infer the purpose of an object or operation based on its implementation, that new developer may infer a purpose that the operation or class fulfills only by chance. If that was not the intent, the code may work for the moment, but the conceptual basis of the design will have been corrupted, and the 2 developers will be working at cross purposes.
+
 - **name classes and operations to describe their effect and purpose, without reference to how they do what they promise.**
 - This relieves the client developer of the need to understand the internals.
 - **These names should conform to the ubiquitous language so that team members can quickly infer their meaning.**
 - **Before creating it, write a test for behaviour to force your thinking into client developer mode.**
   
 ## assertions
+- when the side effects of operations are only defined implicitly by their implementation, designs with a lot of delegation become a table of cause and effect. The only way to understand a program is to trace execution through branching paths. The value of encapsulation is lost. The necessity of tracing concrete execution defeats abstraction.
 - state post-conditions of operations and invariants of classes and aggregates with assertions
 - **if assertions cannot be coded directly in your programming language, write automated unit tests for them.**
 - Write them into documentation or diagrams to fit the project's development process style.
+- seek models with coherent sets of concepts, which lead a developer to infer the intended ASSERTIONS, accelerating the learning curve and reducing the risk of contradictory code.
+
+## side effect free functions
+- the developer calling an operation must understand its implementation and the implementation of all its delegations in order to anticipate the result. The usefulness of any abstraction of interfaces is limited if the developers are forced to pierce the veil. Without safely predictable abstractions, the developers must limit the combinatory explosion, placing a low ceiling on the richness of behavior that is feasible to build.
+- place as much the logic of the program as possible into functions, operations that return results with no observable side effects. Strictly sepregate commands (methods that result in modifications to observable state) into very simple operations that do not return domain information. Further control side effects by moving complex logic into VALUE OBJECTS when a concept fitting the responsibility presents itself.
+
+## standalone classes
+- even within a MODULE, the difficulty of interpreting a design increases wildly as dependencies are added. This adds to mental overload, limiting the design complexity a developer can handle. Implicit concepts contribute to this load even more than explicit references.
+- Low coupling is fundamental to object design. When you can, go all the way. Eliminate all other concepts from the picture. Then the class will be completely self-contained and can be studied and understood alone. Every such self-contained class significantly eases the burden of understanding a MODULE.
 
 ## closure of operations (not very clear to me yet)
 - where it fits, define a function whose return type is the same as its arguments
-- if the implementer has a state used in the computation. The implementer is a compelling operation argument, so the argument(s) and the return value should be the same type as the implementer.???
-- Such an operation is closed under the set of instances of that type.
-- A closed operation provides a high-level interface without introducing any dependency on other concepts.???
+- if the implementer has a state used in the computation. The implementer is a compelling operation argument, so the argument(s) and the return value should be the same type as the implementer.Such an operation is closed under the set of instances of that type.
+- A closed operation provides a high-level interface without introducing any dependency on other concepts.
 
 ## declarative design
-many of the benefits of the declarative design are obtained once you have combinable elements that communicate their meaning and have characterized or apparent effects or no observable effects at all
+- many of the benefits of the declarative design are obtained once you have combinable elements that communicate their meaning and have characterized or apparent effects or no observable effects at all
+- problems with declarative design
+  - a declaration language not expressive enough to do everything needed, but a framework that makes it very difficult to extend the software beyond the automated portion.
+  - code-generation techniques that cripple the iterative cycle by merging generated code into hand-written code in a way that makes regeneration very destructive.
 
 ## conceptual contours
+- when elements of a model or design are embedded in a monolithic construct, their functionality gets duplicated. The external interface doesn't say everything a client might care about. Their meaning is hard to understand, because different concepts are mixed together.
+- On the other hand, breaking down classes and methods can pointlessly complicate the client, forcing client objects to understand how tiny pieces fit together. Worse, a concept can be lost completely.
+- with each decision, ask yourself, "Is this an expedient based on a particular set of relationships in the current model and code, or does it echo some contour of the underlying domain?"
 - decompose design elements (operations, interfaces, classes, and aggregates) into cohesive units, considering your intuition of the essential divisions in the domain.
 - Observe the axes of change and stability through successive refactorings, and look for underlying conceptual contours that explain these shearing patterns.
 - Align the model with the consistent aspects of the domain that make it a viable area of knowledge in the first place.
+- INTENTION-REVEALING INTERFACES allow clients to present objects as units of meaning rather than just mechanisms. SIDE-EFFECT-FREE FUNCTIONS, and ASSERTIONS make it safe to use those units and make complex combinations. The emergence of CONCEPTUAL CONTOURS stabilizes parts of the model and also makes the units more intuitive to use and combine.
+
+## supple design strategies
+  - carve off subdomains
+    - you may see a part of the model that can be viewed as specialized math; separate that.
+    - your application enforces complex rules, restricting state changes; pull this out into a separate model or simple framework that lets you declare the rules.
+    - with each such step, not only is the new module clean, but also the part left behind is smaller and clearer
+    - part of what's left is written in declarative style, a declaration in terms of special math or validation framework
+    - it's more useful to make a big impact on one area, making a part of design really supple, than to spread your efforts thin.
+  - draw on established formalisms, when you can
+    - you can often use and adapt conceptual systems that are long established in your domain or others, some of which have been refined and distilled over centurties.
+    - many business applications involve accounting, for example. Accounting defines a well-developed set of ENTITIES and rules that make for an easy adaptation to deep model and a supple design.
+
+## integrating the patterns: Shares Math
+- seperate commands and side-effect free functions
+  - the `distributePaymentPrincipal()` method does dangerous thing: it calculates the shares for distribution and also modifies the loan.
+```
+Map distribution = aLoan.calculatePrincipalPaymentShares(paymentAmount)
+aLoan.applyPrincipalPaymentShares(distribution)
+```
+- *make implicit concept explicit*
+  - most of the rules and calculation about shares don't apply to single shares, but to groups of them. There are missing concepts: shares are related to each other as parts of making up a whole. The **Share Pie** represents the total distribution of a specific **Loan**. It is an ENTITY whose entity is local within the AGGREGATE of the **Loan**. The actual distribution calculations can be delegated to the **Share Pie**
+
+- certain characteristics of the **SharePie** design make for this easy recombination and communication in the code
+  - complex logic is encapsulated in specialized VALUE OBJECTS with SIDE-EFFECT FREE FUNCTIONS. 
+  - none of the **SharePie** methods cause any change to any existing object. This allows us to use ``plus(), minus(), and prorated()`` freely in intermediate calculations, combining them, expecting them to do what their names suggest, and nothing more.
+
+- *State-modifying operations are simple and characterized with ASSERTIONS*. The high-level abstractions of Shares Math allow invariants of transactions to be written concisely in a declarative style. For example, the deviation is the actual pie minus the Loan amount prorates based on the Facility's SharePie.
+
+- *model concepts are decoupled; operations entable a minimum of other types*. Some methods on SharePie exhibit CLOSURE OF OPERATIONS (the methods to add or subtract are closed under **SharePie**)
+
+- *familiar formalism makes the protocol easy to grasp*. A wholly original protocol for manipulating shares could have been devised based on financial terminology. In principle, it could have been made supple. But it would have had 2 disadvantages. First, it would have to be invented, a difficult and uncertain task. Second, it would have to be learned by each person who dealt with it. People who see SharesMath recognize a system they already know, and because the design has been kept carefully consistent with the rules of arithmetic, those people are not misled.
+
+- pulling out the part of problem that corresponded to the formalism of math, we arrived at a supple design for Shares that further distills the core **Loan** and **Facility** methods
 
 ## continuous integration
 
@@ -933,6 +984,7 @@ review Distilled DDD from vaugh vernon
 review design DDD quickly
 
 # References
+- https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery/
 - https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf
 - https://devopedia.org/domain-driven-design
 - https://philippe.bourgau.net/categories/#squash-bduf-with-event-storming-series
