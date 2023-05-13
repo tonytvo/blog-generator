@@ -1,7 +1,7 @@
 ---
-title: real estate invest with zero or little money down - wip
+title: real estate invest with zero or little money down summary by Brandon Turner
 date: "2022-08-03T22:12:03.284Z"
-description: "real estate invest with zero or little money down"
+description: "real estate invest with zero or little money down by Brandon Turner"
 tags: ["realestateinvesting", "financialindependence"]
 ---
 
