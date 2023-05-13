@@ -1111,9 +1111,113 @@ multifamily business, as each one will have different connections and sources.
  
 # underwriting
 
-- review multifamily millionaire volume 2, chapter 11
-- review multifamily millionaire volume 2, chapter 12
-- review multifamily millionaire volume 2, chapter 13
+- The final stage of a deal is to underwrite it. This entails thoroughly screening the property, the team behind it, and the investors who will be financing it. It is important to avoid retrading a deal, which can severely damage your reputation. The underwriting process should make such occurrences unnecessary. 
+ 
+- When buying a multi-unit property, buyers are expected to have done their research and know what they are getting themselves into. As a result, they will make their offers based on a hard deposit, which is non-refundable. 
+ 
+- The underwriting process involves obtaining information about a property which is crucial for making an informed lending decision. The information provided in the underwriting stage is usually limited, so verify everything. 
+ 
+- Obtain as much information about the property as possible before making an offer. This will help you with your underwriting and valuation, as well as assist with the purchase negotiations. 
+ 
+- The location of a property is one of the most important factors when buying a house. It is important to look at the local economy, as well as the area's desirability, when making your decision. 
+ 
+- The best way to get a feel for a neighborhood is by visiting it in person. You can gather intelligence on the area by speaking to local residents, checking out the crime rate, and taking note of any unusual activity. 
+ 
+- The role of a property manager is to assist you in the underwriting process by providing you with market data and information about comparable properties, as well as helping you secure quotes from contractors and vendors. 
+ 
+- It's easy for investors to get carried away with the excitement of a new project, forgetting that the information they gather is meant for other investors. The more information you send out, the more value you add. 
+ 
+- The underwriting process involves identifying ways to add value to a property, such as increasing its rent or generating ancillary income. This involves brainstorming value-added strategies, and deciding whether they are suitable for the property being purchased. 
+ 
+- Having a good model is crucial for underwriting a multifamily property. The model should project the future cash flows of the property, and allow you to calculate a purchase price. 
+ 
+- Selecting the right deal and paying the appropriate price is crucial to determine your success in real estate investing. The quality of your underwriting can affect your credibility and reputation. 
+ 
+- Because the author was able to connect with the property’s owner, he was able to determine that the owner was willing to sell. He was able to acquire the property for $5 million, which was $1 million less than what he had paid for it thirteen years ago. 
+ 
+- The author acquired the property and started working on it. He figured out that the property was in distress, but there was also a lot of potential. He would need to underwrite the deal carefully.
+
+- Income verification is not difficult, but it requires a lot of work. It is crucial to understand the process, as it is the basis of every good investment. 
+ 
+- The income section of the rehabbing spreadsheet allows you to compare the property’s current and projected income. You can then use this data to determine if the property is worth rehabbing or not. 
+ 
+- The first step in calculating the ARV of a multifamily property is to determine the gross potential rent, which is the maximum amount of money the property can generate. The GPR is calculated by multiplying the average rent of all units in a property by the number of units. 
+ 
+- The Gross Rent Ratio, or GPR, is the most important number in the BRRRR approach and is calculated by dividing the gross rent by the total square footage. 
+ 
+- The ideal situation is to collect data from at least three or four comparable rentals, and then average the prices for each unit type, both monthly and on a per square foot basis. 
+ 
+- After collecting the data on the subject property, you can now calculate the average rent for each unit type. You can then use this data to determine a rough estimate for the property. 
+ 
+- Eliminating long-term lease liability (LTL) is a great way to add value to a property, but it is not recommended to eliminate LTL immediately after buying a property if it’s occupied by tenants who may be on fixed incomes. It may cause more harm than good. 
+ 
+- Vacancy loss occurs when the physical occupancy of a property drops below 100 percent. It is calculated by adding up the rental value of the vacant units. 
+ 
+- When underwriting a new property acquisition, assume a vacancy rate of 5 percent and a gross income of at least 75 percent of the rent to cover the vacancy loss. 
+ 
+- The average collection loss for each apartment unit is $92 a year. Collection losses are higher for lower-class properties and those in distress. 
+ 
+- It is important to understand what concessions your tenants are receiving when they move in, as these may affect your calculations. Common examples include reduced rents or free months of rent. 
+ 
+- Sometimes multifamily properties will repurpose units for non-revenue-generating purposes, such as model units and storage units. Such units should be counted as non-revenue generating until they are inhabitable again. 
+ 
+- Other sources of income include utility reimbursements, pet fees, laundry, administrative fees, late fees, and the rental or sale of various items and services. Some of these can be substantial, and it's not uncommon for the various fees a property charges to generate 5 percent of its total revenue. 
+ 
+- It is important to come up with a budget before undertaking any major renovations. You should enlist the help of a professional property manager or contractor to help prepare the budget. 
+ 
+- Once you have the budget, you need to project how the value-add changes are going to affect the property's income going forward. If the change is going to be implemented incrementally, you'll need to decide on a feasible timeline and determine the net financial impact for each year. 
+ 
+- The final step is to check the comps, which will show you what rents you can expect once the rehab is finished. Be aware that increasing your projections beyond a reasonable amount may lead to overpaying for the property, which in turn may lead to tenants demanding higher rent increases in the future. 
+ 
+- The Park Place Apartments example shows how to calculate and project a property’s T-12 income. The numbers used in this example are for illustration only and cannot be applied to every situation. It is best to work with your own rental property manager to get an accurate projection. 
+ 
+- It is impossible to predict future real estate values and rents. This is why it is important to rely on your best judgment when estimating them. 
+ 
+- The underwriting process involves analyzing the properties’ rent rolls and identifying comparable properties and market rents. The gross potential rent is then calculated and the effective rental income is determined. 
+ 
+- The author was able to get in touch with the property manager, who was managing the property from afar, and was able to get an idea of the current situation. He was able to get in touch with the previous tenants, who all seemed to love the place and were willing to share their experiences. 
+ 
+- The author wanted to see every vacant unit as well as at least one unit per floor plan, so he could conduct an effective underwriting process.
+
+- The first step when analyzing historical expenses is to look at the actual numbers. Then, group similar items into standard categories such as salaries, insurance, property taxes, and so on. 
+ 
+- When reviewing a property's historical financials, divide the numbers by the number of units to obtain an average price per unit. Then, categorize expenses by the type of expense and normalize them to compare to other investments. 
+ 
+- To get an idea of what typical expenses are for a property, you can consult with the property manager or ask the seller about any unusual expenses. After you’ve gathered this information, compare it to the prices of other similar rentals in the area. If the prices seem unusually low, this could be an indicator that the property is undervalued. 
+ 
+- Some financials will include interest expense or capital expenditure, both of which can throw off your valuation and should be removed from your underwriting. If a property is listed with an experienced broker, you're unlikely to find these line items on the financials. 
+ 
+- There are many factors that can influence the overall expenses of a multifamily property, such as the local cost of living, climate, weather, age of the property, size of the property, type of tenants, utilities, and so on. 
+ 
+- It is important to understand that the numbers in the following table are averages, and not norms, and should only be used as a starting point for your estimate. 
+ 
+- The average multifamily property requires between one and two full-time employees for every forty-five to fifty units, at a salary of $45,000 to $50,000. Multifamily properties also require a considerable amount of payroll expenses, which total about 18 percent of gross pay. 
+ 
+= the amount of insurance coverage a property gets is based on the lenders’ requirements, and can vary considerably. 
+ 
+- It is important to understand that tax rates can fluctuate, and when calculating a property’s future tax liability, you must consider both the property’s actual taxes and the increased taxes from a re-assessment. 
+ 
+- Search for the combined mill rate and assessment ratio of the area you’re buying in, as this will help you figure out the property tax you’ll be paying. 
+ 
+- It is best to avoid using industry averages when dealing with utility costs, as this can sometimes be inaccurate. Get in touch with the property manager and get the specific figures for the building you are analyzing. 
+ 
+- The management fee of a property is usually tied to the project’s gross income and can vary depending on the market and the size of the building. For example, for Park Place Apartments, the management fee is set at 3. 5 percent. 
+ 
+- On average, contract services cost $200 to $400 per unit per year. If both payroll and contract service expenses are high, there may be issues that need to be resolved. 
+ 
+- The expenses related to repair and maintenance are highly dependent on the age and condition of the property, and can vary from $300 to $700 per unit per year. An analysis of historical repair and maintenance expenses can help you gauge where on this spectrum you may fall. 
+ 
+- Unit turns are the second part of the BRRRR formula, and they consist of replacing a property’s units with new ones. Unit turns are usually done after rental losses have been reduced, in order to increase the rent the property can command. 
+ 
+- Replacement reserves are a requirement set by lenders and should be budgeted for during underwriting. They are calculated based on the results of a property condition assessment. 
+ 
+- The expense ratio is a metric that indicates how efficiently a property is operating. It is a broad indicator of how much a property costs to maintain. 
+ 
+- After analyzing the numbers, you will be able to see how your numbers compare to each other and to the numbers you generated before. You will be able to compare your projections with actuals, and see where there are large differences. This will help you identify problems that you can 
+solve as an investor. 
+ 
+- The author toured the property with the property manager. While inspecting the property, they came across issues such as a historical property tax expense that was lower than what was indicated on the real property tax report they downloaded from the county’s website, as well as unsustainably low maintenance and labor expenses.
+
 
 # finding small multifamily deals on-market
 
@@ -1163,56 +1267,8 @@ multifamily business, as each one will have different connections and sources.
 
 # finding deals (off-market)
 
-- The author explains the six strategies for buying off-market, which are: check for bank owned properties, look for properties that are not advertised on the MLS, look for properties that are for sale by owner, check for foreclosures, buy properties that are already renovated, buy properties that are not in good condition, and buy properties that are not in working order. 
+- The key to finding off-market deals is having a consistent method for gathering leads, performing due diligence, and making offers. 
  
-- Search for and identify multifamily properties. They usually have many doors and cars in the driveway. Then, search for and identify the owners of all the properties you’ve spotted. 
- 
- 
- 
-#9 
- 
-Finding good deals can also be done by talking to local landlords, who in most cases are also 
-investors. 
- 
-#10 
- 
-Property managers, who are familiar with the condition of their clients’ properties, can be a great 
-source of leads for buying small multifamily properties. 
- 
-#11 
- 
-Wholesalers are individuals who do all the legwork required to locate off market deals and then 
-connect you with them - for a fee. They get a property under contract by signing a purchase and sale 
-agreement with the seller, then add their fee to what they paid for it. 
- 
-#12 
- 
-If you can't find a good wholesaler in your area, consider building your own by recruiting 
-enthusiastic real estate investors to work for you. 
- 
-#13 
- 
-The LoopNet website is a great resource for commercial real estate investors. It allows you to 
-browse through the thousands of commercial properties available and perform due diligence before 
-making an offer. 
- 
-#14 
- 
-Facebook is a great place to look for off-market deals. Searching for off market will bring up 
-Facebook groups where individuals post ads for items they want to sell or give away. 
- 
-#15
-The third and final way to find deals is through the classified ads website Craigslist. com. Posting 
-an ad in the For Rent section of Craigslist can be done by owners of small multifamily buildings 
-who would like to rent out a portion of their units. 
- 
- 
-The key to finding off-market deals is having a consistent method for gathering leads, performing 
-due diligence, and making offers. 
- 
-
-- todo multifamily millionaire volume 1, chapter 12
-
 - **working it backwards**
   - Deals - i.e: 24 deals (2/month)
   - Budget - $24,000/year ($1,000/deal)
@@ -1273,6 +1329,8 @@ due diligence, and making offers.
 
 - **Wholesalers**
   - Get on wholesaler lists (meet at local meetups!) and get to know wholesalers personally
+  - Wholesalers are individuals who do all the legwork required to locate off market deals and then connect you with them - for a fee. They get a property under contract by signing a purchase and sale agreement with the seller, then add their fee to what they paid for it. 
+  - If you can't find a good wholesaler in your area, consider building your own by recruiting enthusiastic real estate investors to work for you.
 
 - **Direct Mail**
   - Direct mail is the process of sending a large volume of mail, usually postcards or letters, to potential sellers with the intention of having a small percentage of them call you with the desire to sell. 
@@ -1326,6 +1384,21 @@ due diligence, and making offers.
     c. Social media
     d. Business cars
     e. Small talk
+
+- **others**
+  - The author explains the six strategies for buying off-market, which are: check for bank owned properties, look for properties that are not advertised on the MLS, look for properties that are for sale by owner, check for foreclosures, buy properties that are already renovated, buy properties that are not in good condition, and buy properties that are not in working order. 
+   
+  - Search for and identify multifamily properties. They usually have many doors and cars in the driveway. Then, search for and identify the owners of all the properties you’ve spotted. 
+   
+  - Finding good deals can also be done by talking to local landlords, who in most cases are also investors. 
+   
+  - Property managers, who are familiar with the condition of their clients’ properties, can be a great source of leads for buying small multifamily properties. 
+
+  - The LoopNet website is a great resource for commercial real estate investors. It allows you to browse through the thousands of commercial properties available and perform due diligence before making an offer. 
+   
+  - Facebook is a great place to look for off-market deals. Searching for off market will bring up Facebook groups where individuals post ads for items they want to sell or give away. 
+   
+  - The third and final way to find deals is through the classified ads website Craigslist. com. Posting an ad in the For Rent section of Craigslist can be done by owners of small multifamily buildings who would like to rent out a portion of their units.
 
 # rules of the new rich
 
