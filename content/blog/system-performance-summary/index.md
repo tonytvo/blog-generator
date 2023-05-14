@@ -41,8 +41,6 @@ tags: ["evolutionarydesign", "systemperformance"]
   - system performance from brendan gregg
   - java performance from Scott Oaks
   - [Thinking in Systems](https://www.amazon.ca/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
-
-- maybe/optional
   - site reliability engineering book
   - database reliability engineering book
   - practical monitoring from mike Julian
