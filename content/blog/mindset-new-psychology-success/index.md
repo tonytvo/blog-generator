@@ -796,25 +796,13 @@ brought immediately and directly to bear on the "production" of Memorable Moment
 
 ## PRESENCE
 
-87. Managing by Wandering Around—It's All Around You! Back in 1982, as my In Search
-of Excellence coauthor Bob Waterman and I were preparing in our Manhattan hotel room for our
-brief appearance on the Today show to talk about "the book," we got into a tussle. Turns out we
-both most loved the same thing in Search—and both wanted to utter the word/words on national
-TV. We flipped a coin, Bob won—and I'm still frustrated almost three decades later! The
-bragging rights at stake?
-MBWA or "Managing By Wandering Around," a concept we learned about from what was, in
-1979 when we began our research, a much smaller, more intimate Hewlett-Packard.
-For me, MBWA has become a metaphor for the manager's/leader's #1 priority: Staying in touch.
-I am a MBWA zealot.
-I swear by MBWA.
-In any and all circumstances.
-It is indeed leadership's sine qua non.
-(I ran into a senior healthcare exec who'd attended a big-league leadership seminar. The
-prominent instructor asked the group, "Who is your #1 enemy?" Answers, no surprise, included
-"competitors," "execs who play politics," "clunky systems," "thoughtless regulations." "No," the
-instructor snapped, "it's your desk—getting stuck behind your desk and slowly, or not-so-slowly,
-losing touch." Amen!)
-88. All Senses! Or Nonsense! I swear I can hear him. The successful community bank CEO.
+- **Managing by Wandering Around—It's All Around You!** Back in 1982, as my In Search
+of Excellence coauthor Bob Waterman and I were preparing in our Manhattan hotel room for our brief appearance on the Today show to talk about "the book," we got into a tussle. Turns out we both most loved the same thing in Search—and both wanted to utter the word/words on national TV. We flipped a coin, Bob won—and I'm still frustrated almost three decades later! The bragging rights at stake?
+  - MBWA or "Managing By Wandering Around," a concept we learned about from what was, in
+1979 when we began our research, a much smaller, more intimate Hewlett-Packard. For me, MBWA has become a metaphor for the manager's/leader's #1 priority: Staying in touch.
+  - (I ran into a senior healthcare exec who'd attended a big-league leadership seminar. The prominent instructor asked the group, "Who is your #1 enemy?" Answers, no surprise, included "competitors," "execs who play politics," "clunky systems," "thoughtless regulations." "No," the instructor snapped, "it's your desk—getting stuck behind your desk and slowly, or not-so-slowly, losing touch." Amen!)
+
+- All Senses! Or Nonsense! I swear I can hear him. The successful community bank CEO.
 But, actually, it was two decades ago. The topic, at one of my seminars, was MBWA. Or Close to
 the Customer. No matter. I remember his translation from his world, circa, say, 1986, to what I
 had been discussing:
