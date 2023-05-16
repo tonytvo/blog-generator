@@ -802,114 +802,38 @@ of Excellence coauthor Bob Waterman and I were preparing in our Manhattan hotel 
 1979 when we began our research, a much smaller, more intimate Hewlett-Packard. For me, MBWA has become a metaphor for the manager's/leader's #1 priority: Staying in touch.
   - (I ran into a senior healthcare exec who'd attended a big-league leadership seminar. The prominent instructor asked the group, "Who is your #1 enemy?" Answers, no surprise, included "competitors," "execs who play politics," "clunky systems," "thoughtless regulations." "No," the instructor snapped, "it's your desk—getting stuck behind your desk and slowly, or not-so-slowly, losing touch." Amen!)
 
-- All Senses! Or Nonsense! I swear I can hear him. The successful community bank CEO.
-But, actually, it was two decades ago. The topic, at one of my seminars, was MBWA. Or Close to
-the Customer. No matter. I remember his translation from his world, circa, say, 1986, to what I
-had been discussing:
-"Tom, let me give you the definition of a good lending officer. On Sunday, after church, driving
-the family home, he takes a little detour past a distribution center he's lent money to. Doesn't go
-in, barely slows down, just takes a look, tidiness, external maintenance, whatever, takes it in with
-all his senses. That's all."
-And that was it.
-In touch.
-All senses.
-Fleeting but "real."
-Have I just explained the alpha through omega of the financial meltdown? Of course not! But we
-could have used a few more "all-senses" "drive-bys" in the world of mortgage banking. And in a
-few of the CDS shops, not to mention Mr. Madoff's shop, too!
-"In touch"—literally and figuratively—matters. A lot.
-89. Leave Your Wallet (or Pocketbook) at Home. I recently forgot to take my wallet with me
-on a grocery trip. It was only after I got to the grocery store—22 miles from home—that I
-discovered my mistake. Luckily, I had a secret cash stash in the glove compartment, just for this 
-37
-sort of eventuality. Boy, did I ever decimate that (not-so-small) stash in my 5 or 6 stops around
-town!
-So what?
-I, undoubtedly like you, typically pay for stuff with plastic or keystrokes. There is many an
-"ouch" in the process. But the credit-card "ouch" is a far cry from peeling off $138 at the grocery
-store, $47 to fill a ... Subaru, $78 at one of my "ordinary" stops at the bookstore, and more, more,
-more at a couple of other shops—e.g., $68 for fresh fish for four. One's sense of the true cost of
-living goes up by an order of magnitude. The bigger point is obvious, if elusive—more than ever,
-companies of all sizes have to bring reality home in some high-impact way. Not that "work as a
-clerk for a day" silliness—which is mostly a charade, albeit a well-meaning one—but something
-more realistic.
-Pay for your groceries with cash next time.
-Your car repair, too.
-The office supply bill? Ditto.
-By hook or by crook ... drag realism in the office door.
-90. Get Down from Your Pedestal—and Beware the Sound of Laughter! In his
-autobiography, General Norman Schwarzkopf reveals, hardly central to his story but perhaps
-worth a moment, that he simply cannot tell a joke effectively. Forgets stuff. Timing off. Screws
-up the punchline. Etc. But then a funny thing happened when he got promoted to General. The
-moment he pinned a ... STAR ... on his collar he apparently became hilarious—associates start
-laughing uproariously at his jokes, botched or not.
-The message is clear, and it's one for all who manage, not just General Officers: Beware
-underlings who laugh at your jokes. Writ large, as is my habit: Once you become a boss you will
-never hear the unadulterated truth again! (Keyword: Never.) And that's almost as true for a 20-
-year-old shift boss in a Dunkin' Donuts in Littlesville as for a senior middle manager or business
-owner or General S.
-91. Big Plan? No, Small Steps (Steps on the Ground) In The White Man's Burden: Why the
-West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good, nation-building expert
-William Easterly laments, "The West spent $2.3 trillion on foreign aid over the last five decades
-and still has not managed to get 12-cent medicines to children to prevent half of all malaria
-deaths. The West spent $2.3 trillion and still has not managed to get three dollars to each new
-mother to prevent five million child deaths."
-Easterly is the arch enemy of the Big Plan (his capital letters, not mine—for once) and the fan of
-practical activities of "Searchers" (his cap "S") who learn the ins and outs of the culture, politics,
-and local conditions "on the ground" in order to use local levers, and get those 12-cent medicines
-to community members. He writes:
-"In foreign aid, Planners announce good intentions but don't motivate anyone to carry them out;
-Searchers find things that work and get some reward. Planners raise expectations but take no
-responsibility for meeting them; Searchers accept responsibility for their actions; Planners
-determine what to supply; Searchers find out what is in demand. Planners apply global
-blueprints; Searchers adapt to local conditions. Planners at the top lack knowledge of the
-bottom; Searchers find out what the reality is at the bottom. Planners never hear whether the 
-38
-planned recipients got what they needed; Searchers find out if the customer is satisfied. ... A
-Planner thinks he already knows the answers; he thinks of poverty as a technical engineering
-problem that his answers will solve. A Searcher admits he doesn't know the answers in advance;
-he believes that poverty is a complicated tangle of political, social, historical, institutional, and
-technological factors; he hopes to find answers to individual problems only by trial and error and
-experimentation. A Planner believes outsiders know enough to impose solutions; a Searcher
-believes only insiders have enough knowledge to find solutions, and that most solutions must be
-homegrown."
-Herewith, a sampling of the "lessons" I've extracted from William Easterly:
-Lesson: Show up! Stay! "Boots on the ground," "permanently," at the loci of implementation. (No
-long "home leaves" if possible—"in this with you" is the message that must be sent.)
-Lesson: Invest in ceaseless study of conditions "on the ground"—social and political and
-historical and systemic.
-Lesson: Talk to the "locals."
-Lesson: Listen to the "locals." (And listen.) (With perceived patience!) (And listen.) (And listen.)
-(And listen.) (And listen.) (And listen.) (And listen.) (With perceived patience!) (And listen.)
-Lesson: Respect the "locals."
-Lesson: Empathize with the "locals."
-And on it goes with 10 or 20 more in The Little BIG Things …
-Lesson: To summarize the summary:
-Show up!
-Listen!
-Hear!
-Respect!
-Empathize!
-Skip the Grand Theorems!
-Dive in and Try and Try and Adjust and Try Again and Plagiarize from Extant Experiments ...
-until You're Blue in the Face!
-Move at an appropriate pace, not a headline-grabbing pace!
-Honor the local politics as your life's blood—regardless of attendant frustration!
-Get the community's women heavily involved. (THIS IS HUGE—AND I EMPHASIZE IT
-ACCORDINGLY IN THE BOOK.)
-NB:
-"Local politics"—"the last 95%"!
-Make that "the last 98%"!
-Politics: Love it—or go home!* ** ***
-*Hint: This applies ... everywhere!
-**No "politics," no progress!
-***Period.
-NB: Probably not many reading this book work for NGOs or other agencies delivering aid. But
-100% of us are in the full-time business of ... GTD/Getting Things Done. Simply put, Easterly's
-book is perhaps the best tract I've read on the topic of implementation-getting things done. There
-is a ridiculously small library of books on implementation per se—which is a scandal.
-39
-TALENT
+l- **Big Plan? No, Small Steps (Steps on the Ground)** In The White Man's Burden: Why the
+West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good, nation-building expert William Easterly laments, "The West spent $2.3 trillion on foreign aid over the last five decades and still has not managed to get 12-cent medicines to children to prevent half of all malaria deaths. The West spent $2.3 trillion and still has not managed to get three dollars to each new mother to prevent five million child deaths."
+Easterly is the arch enemy of the Big Plan (his capital letters, not mine—for once) and the fan of practical activities of "Searchers" (his cap "S") who learn the ins and outs of the culture, politics, and local conditions "on the ground" in order to use local levers, and get those 12-cent medicines to community members. He writes:
+  - "In foreign aid, Planners announce good intentions but don't motivate anyone to carry them out; Searchers find things that work and get some reward. Planners raise expectations but take no responsibility for meeting them; Searchers accept responsibility for their actions; Planners determine what to supply; Searchers find out what is in demand. Planners apply global blueprints; Searchers adapt to local conditions. Planners at the top lack knowledge of the bottom; Searchers find out what the reality is at the bottom. Planners never hear whether the planned recipients got what they needed; Searchers find out if the customer is satisfied. ... A Planner thinks he already knows the answers; he thinks of poverty as a technical engineering problem that his answers will solve. A Searcher admits he doesn't know the answers in advance; he believes that poverty is a complicated tangle of political, social, historical, institutional, and technological factors; he hopes to find answers to individual problems only by trial and error and experimentation. A Planner believes outsiders know enough to impose solutions; a Searcher believes only insiders have enough knowledge to find solutions, and that most solutions must be homegrown."
+
+  - Herewith, a sampling of the "lessons" I've extracted from William Easterly:
+    - Lesson: Show up! Stay! "Boots on the ground," "permanently," at the loci of implementation. (No long "home leaves" if possible—"in this with you" is the message that must be sent.)
+    - Lesson: Invest in ceaseless study of conditions "on the ground"—social and political and historical and systemic.
+    - Lesson: Talk to the "locals."
+    - Lesson: Listen to the "locals." (And listen.) (With perceived patience!) (And listen.) (And listen.) (And listen.) (And listen.) (And listen.) (And listen.) (With perceived patience!) (And listen.)
+    - Lesson: Respect the "locals."
+    - Lesson: Empathize with the "locals." And on it goes with 10 or 20 more in The Little BIG Things …
+    - Lesson: To summarize the summary:
+      - Show up!
+      - Listen!
+      - Hear!
+      - Respect!
+      - Empathize!
+      - Skip the Grand Theorems!
+      - Dive in and Try and Try and Adjust and Try Again and Plagiarize from Extant Experiments ... until You're Blue in the Face!
+      - Move at an appropriate pace, not a headline-grabbing pace!
+      - Honor the local politics as your life's blood—regardless of attendant frustration! 
+      - Get the community's women heavily involved. (THIS IS HUGE—AND I EMPHASIZE IT ACCORDINGLY IN THE BOOK.)
+
+  - "Local politics"—"the last 95%"!
+  - Make that "the last 98%"!
+  - Politics: Love it—or go home!* ** ***
+  - *Hint: This applies ... everywhere!
+  - **No "politics," no progress!
+  - ***Period.
+
+## TALENT
 
 92. Hiring: Do You Approach It with Unabashed Fanaticism?
 "Hiring is the most important aspect of business—and yet remains woefully misunderstood."—
