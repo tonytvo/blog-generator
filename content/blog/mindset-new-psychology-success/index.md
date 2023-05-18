@@ -835,18 +835,12 @@ Easterly is the arch enemy of the Big Plan (his capital letters, not mine—for 
 
 ## TALENT
 
-92. Hiring: Do You Approach It with Unabashed Fanaticism?
-"Hiring is the most important aspect of business—and yet remains woefully misunderstood."—
-Geoff Smart and Randy Street, Who: The A Method for Hiring
-"Development can help great people become even better—but if I had a dollar to spend, I'd spend
-...70 cents ... getting the right person in the door."— Paul Russell, Director of Leadership &
-Development, Google
-We are seriously concerned with hiring, no doubt of it. But ... do we treat it ... strategically ... as
-the "most important aspect of business"—4-person auto body shop or Siemens? My constant
-refrain concerning such topics: Are we ... "professional students of" ... hiring??? As I see it
-(again!): Effective hiring = Effective offshore motorboat racing = A craft, a profession with a
-body of knowledge to be mastered.
-(FYI, give Geoff Smart and Randy Street's Who: The A Method for Hiring a try.)
+- **Hiring: Do You Approach It with Unabashed Fanaticism?**
+  - "Hiring is the most important aspect of business—and yet remains woefully misunderstood."—Geoff Smart and Randy Street, Who: The A Method for Hiring
+  - "Development can help great people become even better—but if I had a dollar to spend, I'd spend...70 cents ... getting the right person in the door."— Paul Russell, Director of Leadership & Development, Google
+  - We are seriously concerned with hiring, no doubt of it. But ... do we treat it ... strategically ... as the "most important aspect of business"—4-person auto body shop or Siemens? My constant refrain concerning such topics: Are we ... "professional students of" ... hiring??? As I see it (again!): Effective hiring = Effective offshore motorboat racing = A craft, a profession with a body of knowledge to be mastered.
+  - (FYI, give Geoff Smart and Randy Street's Who: The A Method for Hiring a try.)
+
 93. Promotion: Are You Building a "Two Per Year" Legacy? Suppose you hold one of
 your organization's top jobs for five years, about average. Suppose, and this is typically about
 right, that you have two key promotion decisions per year. Then it stands to reason that just ten
