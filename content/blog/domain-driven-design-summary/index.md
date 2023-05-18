@@ -1005,3 +1005,4 @@ review design DDD quickly
 - https://dev.to/ielgohary/domain-driven-design-by-eric-evans-part-i-5d8m
 - https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD-Nontechnical-path-through-the-blue-book.pdf
 - https://herbertograca.com/category/development/book-notes/domain-driven-design-by-eric-evans/
+- https://github.com/ardalis/DDD-NoDuplicates/tree/master
