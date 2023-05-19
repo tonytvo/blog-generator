@@ -841,19 +841,11 @@ Easterly is the arch enemy of the Big Plan (his capital letters, not mine—for 
   - We are seriously concerned with hiring, no doubt of it. But ... do we treat it ... strategically ... as the "most important aspect of business"—4-person auto body shop or Siemens? My constant refrain concerning such topics: Are we ... "professional students of" ... hiring??? As I see it (again!): Effective hiring = Effective offshore motorboat racing = A craft, a profession with a body of knowledge to be mastered.
   - (FYI, give Geoff Smart and Randy Street's Who: The A Method for Hiring a try.)
 
-93. Promotion: Are You Building a "Two Per Year" Legacy? Suppose you hold one of
-your organization's top jobs for five years, about average. Suppose, and this is typically about
-right, that you have two key promotion decisions per year. Then it stands to reason that just ten
-decisions in five years determine (not "contribute to," but "determine") your legacy!
-Once more, I'm hardly accusing you of being a slacker. I have ... ZERO ... doubt about the
-seriousness with which you attend promotion decisions. But once more I am asking: Do you give
-the promotion decision, if you are, say, BigCo CEO, exactly the same attention you give a major
-acquisition? That's the level of importance in terms of impact—hence it's a pretty decent
-yardstick of "attention deserved." Most of us, obviously, are not "CEO of BigCo," but the idea is
-precisely the same in any boss selection process.
-Promotion decision?
-Fanaticism rules!
-94. Development: Are You Finding and Cultivating First-Rate First-Line Supervisors?
+- Promotion: Are You Building a "Two Per Year" Legacy? Suppose you hold one of
+your organization's top jobs for five years, about average. Suppose, and this is typically about right, that you have two key promotion decisions per year. Then it stands to reason that just ten decisions in five years determine (not "contribute to," but "determine") your legacy!
+  - Once more, I'm hardly accusing you of being a slacker. I have ... ZERO ... doubt about the seriousness with which you attend promotion decisions. But once more I am asking: Do you give the promotion decision, if you are, say, BigCo CEO, exactly the same attention you give a major acquisition? That's the level of importance in terms of impact—hence it's a pretty decent yardstick of "attention deserved." Most of us, obviously, are not "CEO of BigCo," but the idea is precisely the same in any boss selection process.
+
+- Development: Are You Finding and Cultivating First-Rate First-Line Supervisors?
 Success in the marketplace is a great thing!
 Top quality products you can be proud of are great things!
 Integrity and transparency are great things!
