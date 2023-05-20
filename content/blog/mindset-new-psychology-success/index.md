@@ -845,41 +845,30 @@ Easterly is the arch enemy of the Big Plan (his capital letters, not mine—for 
 your organization's top jobs for five years, about average. Suppose, and this is typically about right, that you have two key promotion decisions per year. Then it stands to reason that just ten decisions in five years determine (not "contribute to," but "determine") your legacy!
   - Once more, I'm hardly accusing you of being a slacker. I have ... ZERO ... doubt about the seriousness with which you attend promotion decisions. But once more I am asking: Do you give the promotion decision, if you are, say, BigCo CEO, exactly the same attention you give a major acquisition? That's the level of importance in terms of impact—hence it's a pretty decent yardstick of "attention deserved." Most of us, obviously, are not "CEO of BigCo," but the idea is precisely the same in any boss selection process.
 
-- Development: Are You Finding and Cultivating First-Rate First-Line Supervisors?
-Success in the marketplace is a great thing!
-Top quality products you can be proud of are great things!
-Integrity and transparency are great things!
-But none of the three is the principal determinant of worker satisfaction. That honor goes, hands
-down, to ... whether or not the employee gets along with/works well with his or her first-line
-supervisor! So, for example:
-(1) Are you, Big Boss, a ... f-o-r-m-a-l student of front-line supervisor behavioral excellence?*
-(*Yes, again, damn it, this sort of thing can be formally studied.)
-(2) Do you spend ... gobs and gobs (and then more and more gobs and gobs) of time ... selecting
-the first-line supervisors?
-40
-(3) Do you have the ... best training program in the industry (best = best) for first-line
-supervisors?
-(4) Do you Formally & Rigorously ... mentor ... first-line supervisors?
-(5) Are you willing, pain notwithstanding, to ... leave a first-line supervisor slot open ... until you
-can fill the slot with somebody spectacular? (And are you willing to use some word like ...
-"spectacular" ... in judging applicants for the job?)
-I am, again, absolutely ... not ... suggesting that you aren't serious about first-line supervisor
-selection, care, and feeding. I absolutely ... am ... suggesting, in pretty much no uncertain terms,
-that you probably don't take it as seriously as you might if you saw it as precisely what it is ... a
-first-order ... strategic ... decision.
-Fact (unequivocal): The single most significant/#1 determinant of your outfit's product-service
-quality and productivity is the quality of your "portfolio" of first-line supervisors.
-Summary: The last three items (#92, #93, #94) constitute HR's "Big Three"/the "Talent Trio":
-(1) Hiring = Most important business decisions.
-(2) Two promotion decisions per year = Legacy.
-(3) First-line supervisors = Keystone to employee morale and satisfaction and
- productivity.
-Followed in each instance by my "Big Two" queries:
-(1) Are you an avid student of the three issues/opportunities?
-(2) Do you spend an appropriate (that is, "insane") amount of time on these three issuesopportunities-strategic watersheds?
-To stretch a little further:
-Hiring + Two promotions/year + First-line supervisor development = Business strategy +
-Personal leadership effectiveness.
+- **Development: Are You Finding and Cultivating First-Rate First-Line Supervisors?**
+  - Success in the marketplace is a great thing!
+  - Top quality products you can be proud of are great things!
+  - Integrity and transparency are great things!
+
+  - But none of the three is the principal determinant of worker satisfaction. That honor goes, hands down, to ... whether or not the employee gets along with/works well with his or her first-linec supervisor! So, for example:
+    - (1) Are you, Big Boss, a ... f-o-r-m-a-l student of front-line supervisor behavioral excellence?*
+    - (2) Do you spend ... gobs and gobs (and then more and more gobs and gobs) of time ... selecting the first-line supervisors?
+    - (3) Do you have the ... best training program in the industry (best = best) for first-line supervisors?
+    - (4) Do you Formally & Rigorously ... mentor ... first-line supervisors?
+    - (5) Are you willing, pain notwithstanding, to ... leave a first-line supervisor slot open ... until you can fill the slot with somebody spectacular? (And are you willing to use some word like ... "spectacular" ... in judging applicants for the job?)
+  -I am, again, absolutely ... not ... suggesting that you aren't serious about first-line supervisor selection, care, and feeding. I absolutely ... am ... suggesting, in pretty much no uncertain terms, that you probably don't take it as seriously as you might if you saw it as precisely what it is ... a first-order ... strategic ... decision.
+  - Fact (unequivocal): The single most significant/#1 determinant of your outfit's product-service quality and productivity is the quality of your "portfolio" of first-line supervisors.
+  - Summary: The last three items (#92, #93, #94) constitute HR's "Big Three"/the "Talent Trio":
+    - (1) Hiring = Most important business decisions.
+    - (2) Two promotion decisions per year = Legacy.
+    - (3) First-line supervisors = Keystone to employee morale and satisfaction and productivity.
+  - Followed in each instance by my "Big Two" queries:
+    - (1) Are you an avid student of the three issues/opportunities?
+    - (2) Do you spend an appropriate (that is, "insane") amount of time on these three issues opportunities-strategic watersheds?
+
+  - To stretch a little further:
+    - Hiring + Two promotions/year + First-line supervisor development = Business strategy + Personal leadership effectiveness.
+
 95. People Who Develop People: What's Your Track Record? In New Delhi in the spring
 of 2009, I had a senior General Officer in the Indian Army in the front row of the meeting room. I
 don't recall the details, but evaluating senior officers for promotion came up. I ventured, boldly,
