@@ -869,28 +869,11 @@ your organization's top jobs for five years, about average. Suppose, and this is
   - To stretch a little further:
     - Hiring + Two promotions/year + First-line supervisor development = Business strategy + Personal leadership effectiveness.
 
-95. People Who Develop People: What's Your Track Record? In New Delhi in the spring
-of 2009, I had a senior General Officer in the Indian Army in the front row of the meeting room. I
-don't recall the details, but evaluating senior officers for promotion came up. I ventured, boldly,
-that there "was ... one ... issue [in the promotion evaluation] that stood head and shoulders above
-the rest." Namely: What is this candidate's track record—in exacting detail—in developing
-people. Though hardly locked in concrete, I posited that "the ONE question" might go something
-like this:
-"In the last year [3 years, say, duration of the current assignment], name the 3 people whose
-growth you've most contributed to. Please explain in significant detail where each was at the
-beginning of the year, where he or she is today, and where each is heading in the next 12 and 24
-and 60 months. Please explain in detail your development strategy in each case. Please tell me
-your biggest development disappointment this past year—looking back, could you or would you
-have done anything differently? Please tell me about your greatest development triumph—and
-disaster—in the last ten years. What are the 'three big things' you've learned about 'people
-development' along the way?"
-41
-For starters, give yourself a soul-searching/soul-searing exam:
-Please list.
-5 people.
-Whose development you have contributed to.
-Directly & Profoundly.
-In the last 24 months.
+- **People Who Develop People: What's Your Track Record?** In New Delhi in the spring
+of 2009, I had a senior General Officer in the Indian Army in the front row of the meeting room. I don't recall the details, but evaluating senior officers for promotion came up. I ventured, boldly, that there "was ... one ... issue [in the promotion evaluation] that stood head and shoulders above the rest." Namely: What is this candidate's track record—in exacting detail—in developing people. Though hardly locked in concrete, I posited that "the ONE question" might go something like this:
+  - "In the last year [3 years, say, duration of the current assignment], name the 3 people whose growth you've most contributed to. Please explain in significant detail where each was at the beginning of the year, where he or she is today, and where each is heading in the next 12 and 24 and 60 months. Please explain in detail your development strategy in each case. Please tell me your biggest development disappointment this past year—looking back, could you or would you have done anything differently? Please tell me about your greatest development triumph—and disaster—in the last ten years. What are the 'three big things' you've learned about 'people development' along the way?"
+  - For starters, give yourself a soul-searching/soul-searing exam:
+    - Please list. 5 people. Whose development you have contributed to. Directly & Profoundly. In the last 24 months.
 
 
 
