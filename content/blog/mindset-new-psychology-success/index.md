@@ -885,16 +885,10 @@ of 2009, I had a senior General Officer in the Indian Army in the front row of t
 - **Up with People! As in: Increase Your People Budget**. 
   - So here's my dogmatic suggestion: When you've absolutely, positively, unequivocally locked down your budget for the next year, I beg you to pick the lock. Please, please, please: Cut the projected capital expenditures by 15 percent. And: Redirect those savings to the people budget (recruiting, training, perks, pay, extra staffing, whatever) ... penny for penny or million for million!
 
-98. Cherish the Last Two-Percenters. Simply put, one cannot overestimate the value of ...
-"the last two-percenter." That person who, at 2 a.m., takes one final look at the presentation to the
-Board tomorrow, and discovers that two key numbers are transposed on the footnote on Slide
-47—and then looks "one [more] last time" when she returns at 5:45 a.m. The carpenter who,
-though technically "finished," adds one final touch that alters the character of the cabinet he's
-spent two weeks building, and then hauls the piece back to his shop for a significant (to him)
-revision. Etc.
-Sometimes we call the last two-percenter a "pain in the ass." True, but no one (LITERALLY NO
-ONE!) is of greater importance to the success of what we do. Recognize and reward the "pain in
-the ass" "last two-percenter" as if she were the Ultimate Gift from The Gods. She is!
+- **Cherish the Last Two-Percenters**. Simply put, one cannot overestimate the value of ... "the last two-percenter." That person who, at 2 a.m., takes one final look at the presentation to the Board tomorrow, and discovers that two key numbers are transposed on the footnote on Slide
+47—and then looks "one [more] last time" when she returns at 5:45 a.m. The carpenter who, though technically "finished," adds one final touch that alters the character of the cabinet he's spent two weeks building, and then hauls the piece back to his shop for a significant (to him)
+revision. Etc. Sometimes we call the last two-percenter a "pain in the ass." True, but no one (LITERALLY NO ONE!) is of greater importance to the success of what we do. Recognize and reward the "pain in the ass" "last two-percenter" as if she were the Ultimate Gift from The Gods. She is!
+
 99. The Excitement Axiom—and the People Corollary.
 Axiom: Only Excited People can excite customers over the long haul—i.e., again & again.
 Corollary: To cause our colleagues to be Excited we must put—and keep—the maintenance of
