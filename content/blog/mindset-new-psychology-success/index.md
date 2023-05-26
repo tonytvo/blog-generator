@@ -889,30 +889,23 @@ of 2009, I had a senior General Officer in the Indian Army in the front row of t
 47—and then looks "one [more] last time" when she returns at 5:45 a.m. The carpenter who, though technically "finished," adds one final touch that alters the character of the cabinet he's spent two weeks building, and then hauls the piece back to his shop for a significant (to him)
 revision. Etc. Sometimes we call the last two-percenter a "pain in the ass." True, but no one (LITERALLY NO ONE!) is of greater importance to the success of what we do. Recognize and reward the "pain in the ass" "last two-percenter" as if she were the Ultimate Gift from The Gods. She is!
 
-99. The Excitement Axiom—and the People Corollary.
-Axiom: Only Excited People can excite customers over the long haul—i.e., again & again.
-Corollary: To cause our colleagues to be Excited we must put—and keep—the maintenance of
-their well-being and their opportunity structure at the Top of our agenda.
-Which must necessarily mean that ...
-(1) the employee who serves the paying customer is for the leader, in fact, her primary customer;
-(2) hence the paying customer actually comes second.
-(Which is what Southwest founder Herb Kelleher, RE/MAX founder Dave Liniger, and former
-Rosenbluth International boss Hal Rosenbluth, among others, would say. I have learned at their
-feet and cribbed directly from all three of them.)
-Bottom line:
-Want to put the customer first?
-Then put the customer second!
-43
-Pledge of Enterprise Allegiance: I hereby promise to ...
-First and Foremost
-Cherish and Excite the People
-Who in Turn Have the Opportunity to
-Cherish and Excite the Customer
-And Induce the Customer to Recommend Us to Others
-Which is the Premier Path to Growth and Profitability.
-Forever and Ever,
-Amen.
-GENDER
+- **The Excitement Axiom—and the People Corollary.**
+  - Axiom: Only Excited People can excite customers over the long haul—i.e., again & again. 
+  - Corollary: To cause our colleagues to be Excited we must put—and keep—the maintenance of their well-being and their opportunity structure at the Top of our agenda. Which must necessarily mean that ...
+    - (1) the employee who serves the paying customer is for the leader, in fact, her primary customer;
+    - (2) hence the paying customer actually comes second.
+  - (Which is what Southwest founder Herb Kelleher, RE/MAX founder Dave Liniger, and former Rosenbluth International boss Hal Rosenbluth, among others, would say. I have learned at their feet and cribbed directly from all three of them.)
+  - Bottom line:
+    - Want to put the customer first?
+    - Then put the customer second!
+  - Pledge of Enterprise Allegiance: I hereby promise to ...
+    - First and Foremost
+    - Cherish and Excite the People
+    - Who in Turn Have the Opportunity to Cherish and Excite the Customer
+    - And Induce the Customer to Recommend Us to Others Which is the Premier Path to Growth and Profitability. Forever and Ever, Amen.
+
+## GENDER
+
 100. Pronoun Power!—Or: The Customer Is a "She."
 
 "Forget China, India and the Internet: Economic Growth Is Driven by Women."—Headline, the
