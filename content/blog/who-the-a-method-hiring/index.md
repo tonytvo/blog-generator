@@ -111,6 +111,118 @@ tags: ["recruiting", "hr"]
     - Objectify your annual review system
     - Allow you to rate your team annually as part of a talent review process.
 
+## hiring guidelines
+
+- The following are guidelines; there are no “silver bullets” for any of these areas.
+
+- **Interview Process**
+  - **Don’t be generic** – focus on behaviors that are smart, humble, and hungry
+  - **Debrief each interview as a team** – have one interviewer debrief the next so he/she can cover new ground or dig deeper
+  - **Consider group interviews** – some people are different one-on-one than in a group
+  - **Make interviews non-traditional** – have them accompany you on an errand to see how they behave in an atypical setting
+  - **Ask questions more than once** – this is helpful especially if you didn’t get a satisfactory answer
+  - **Ask what others would say** – “How would your colleagues describe your work ethic?”
+  - **Ask candidates to do some real work** – how do they perform in situations like what they’ll be doing if hired?
+  - **Don’t ignore hunches** – you can’t have complete confidence, but explore nagging doubts about humility, hunger, and smarts
+  - **Scare people with sincerity** – tell them if they’re not hungry, smart, and humble they will dislike working for your company
+
+- **Interview Questions**
+  - **Humble**
+    - Tell me about the most important accomplishments of your career (look for I vs we)
+    - What was the most embarrassing moment in your career? Or the biggest failure?
+    - How did you handle it?
+    - What is your greatest weakness? (What would you change about yourself?)
+    - How do you handle apologies, giving or accepting?
+    - Tell me about someone who is better than you in an area of interest
+
+  - **Hungry**
+    - What’s the hardest you’ve ever worked on something?
+    - What do you like to do when not at work?
+    - Did you work hard when you were a teenager?
+    - What kinds of hours do you work?
+
+  - **Smart**
+    - How would you describe your personality?
+    - What do you do that others may find annoying?
+    - What kind of people annoy you the most? How do you handle it?
+    - Describe a time you demonstrated empathy with a teammate
+
+- **Candidate References**
+  - Put the reference provider at ease – the reference isn’t going to tank the candidate; go beyond good/bad employee; would they thrive at your company?
+  - Look for specifics – ask for adjectives that describe the candidate
+  - Focus on areas of doubt – look for specifics here
+  - Pay attention to references that don’t respond – references that aren’t enthusiastic may not want to speak up
+  - Ask what others would say about them
+
+## Assessing Current Employees
+
+- There are three outcomes:
+  - 1. Confirming the employee is a team player
+  - 2. Helping the employee improve to become one
+  - 3. Deciding to move the employee out
+
+- Assessing people can help you figure out what he/she needs to work on. As a manager, if you can’t decide if an employee has the will or ability to improve, keep working (i.e., err on the side of caution). If you know for sure, have the courage to act.
+
+- **Manager assessment of others (looking for yeses)**
+  - Humble
+    - Does he genuinely compliment/praise teammates without hesitation?
+    - Does she easily admit when she makes a mistake?
+    - Is he willing to take on lower-level work for the good of the team?
+    - Does she gladly share credit for team accomplishments?
+    - Does he readily acknowledge his weaknesses?
+    - Does she offer and receive apologies graciously?
+
+    - Hungry
+      - Does he do more than what is required in his own job?
+      - Does she have passion for the “mission” of the team?
+      - Does he feel a sense of personal responsibility for the overall success of the team?
+      - Is she willing to contribute to and think about work outside of office hours?
+      - Does she look for opportunities to contribute outside her area of responsibility?
+      - Is he willing and eager to take on tedious and challenging tasks whenever necessary?
+
+    - Smart
+      - Does he seem to know what teammates are feeling during meetings and interactions?
+      - Does she show empathy to others on the team?
+      - Does he demonstrate an interest in the lives of teammates?
+      - Is she an attentive listener?
+      - Is he aware of how his words and actions impact others on the team?
+      - Is she good at adjusting her behavior and style to fit the nature of a conversation?
+
+- **Employee self-assessment** (remind them this is about improvement, not punishment; value honesty)
+
+- Scale: 3 = Usually, 2 = Sometimes, 1 = Rarely
+
+- **Humble**
+  - My teammates would say:
+  - __ I compliment or praise them without hesitation.
+  - __ I easily admit to my mistakes.
+  - __ I am willing to take on lower-level work for the good of the team.
+  - __ I gladly share credit for team accomplishments.
+  - __ I readily acknowledge my weaknesses.
+  - __ I offer and receive apologies graciously.
+  - ____ TOTAL
+
+- **Hungry**
+  - My teammates would say:
+  - __ I do more than what is required in my own job.
+  - __ I have passion for the “mission” of the team.
+  - __ I feel a sense of personal responsibility for the overall success of the team.
+  - __ I’m willing to contribute to and think about work outside of office hours.
+  - __ I look for opportunities to contribute outside my area of responsibility.
+  - __ I’m willing and eager to take on tedious and challenging tasks whenever necessary.
+  - ____ TOTAL
+
+- **Smart**
+  - My teammates would say:
+  - __ I seem to know what teammates are feeling during meetings and interactions.
+  - __ I show empathy to others on the team.
+  - __ I demonstrate an interest in the lives of teammates.
+  - __ I’m an attentive listener.
+  - __ I’m aware of how my words and actions impact others on the team.
+  - __ I’m good at adjusting my behavior and style to fit the nature of a conversation.
+
+- (An alternative, less intrusive approach for self-assessment is to have the person rank the virtues from strongest to weakest.)
+
 # The Three Virtues
 
 - **Humble**
@@ -134,169 +246,45 @@ tags: ["recruiting", "hr"]
 
 - ![team player categories](./team-player-categories.png)
 
-No virtues
-These individuals likely don’t get past an initial interview.
-One virtue
- Humble only: The Pawn – pleasant, but don’t have the drive to get things done or build effective
-relationships. They survive on teams that value harmony over performance.
- Hungry only: The Bulldozer – determined to get things done, but focused on themselves and
-with little concern for others. They survive on teams the place a premium on results alone.
- Smart only: The Charmer – entertaining and likable, but have no interest in their colleagues or
-the team’s well-being. They survive in situations where their social skills sway others.
+- No virtues
+  - These individuals likely don’t get past an initial interview.
 
-Two virtues
- Humble/Hungry: The Accidental Mess-maker – their lack of understanding of how their actions
-and words are received leads to interpersonal problems. This is the least dangerous, as there are
-no bad intentions and these individuals usually take corrective feedback easily.
- Humble/Smart: The Loveable Slacker – only do what’s asked. Because they’re personable,
-leaders often avoid confronting or removing them.
- Hungry/Smart: The Skillful Politician – they work hard, but only if it benefits them. They are
-adept at portraying themselves as humble, so managers may pick up on the damage after it’s
-too late.
-The aforementioned classifications apply to people who are significantly lacking in a particular area (or
-areas). Each of the three virtues is a spectrum.
-Application
-The following are guidelines; there are no “silver bullets” for any of these areas.
-Hiring
- Interview Process
-o Don’t be generic – focus on behaviors that are smart, humble, and hungry
-o Debrief each interview as a team – have one interviewer debrief the next so he/she can
-cover new ground or dig deeper
-o Consider group interviews – some people are different one-on-one than in a group
-o Make interviews non-traditional – have them accompany you on an errand to see how
-they behave in an atypical setting
-o Ask questions more than once – this is helpful especially if you didn’t get a satisfactory
-answer
-o Ask what others would say – “How would your colleagues describe your work ethic?”
-o Ask candidates to do some real work – how do they perform in situations like what
-they’ll be doing if hired?
-o Don’t ignore hunches – you can’t have complete confidence, but explore nagging
-doubts about humility, hunger, and smarts
-o Scare people with sincerity – tell them if they’re not hungry, smart, and humble they
-will dislike working for your company
- Interview Questions
-o Humble
- Tell me about the most important accomplishments of your career (look for I vs
-we)
- What was the most embarrassing moment in your career? Or the biggest
-failure?
- How did you handle it?
- What is your greatest weakness? (What would you change about yourself?)
- How do you handle apologies, giving or accepting?
+- One virtue
+  - Humble only: **The Pawn** – pleasant, but don’t have the drive to get things done or build effective relationships. They survive on teams that value harmony over performance.
+  - Hungry only: **The Bulldozer** – determined to get things done, but focused on themselves and with little concern for others. They survive on teams the place a premium on results alone.
+  - Smart only: **The Charmer** – entertaining and likable, but have no interest in their colleagues or the team’s well-being. They survive in situations where their social skills sway others.
 
-Tell me about someone who is better than you in an area of interest
-o Hungry
- What’s the hardest you’ve ever worked on something?
- What do you like to do when not at work?
- Did you work hard when you were a teenager?
- What kinds of hours do you work?
-o Smart
- How would you describe your personality?
- What do you do that others may find annoying?
- What kind of people annoy you the most? How do you handle it?
- Describe a time you demonstrated empathy with a teammate
- Candidate References
-o Put the reference provider at ease – the reference isn’t going to tank the candidate; go
-beyond good/bad employee; would they thrive at your company?
-o Look for specifics – ask for adjectives that describe the candidate
-o Focus on areas of doubt – look for specifics here
-o Pay attention to references that don’t respond – references that aren’t enthusiastic
-may not want to speak up
-o Ask what others would say about them
-Assessing Current Employees
-There are three outcomes:
-1. Confirming the employee is a team player
-2. Helping the employee improve to become one
-3. Deciding to move the employee out
-Assessing people can help you figure out what he/she needs to work on. As a manager, if you can’t
-decide if an employee has the will or ability to improve, keep working (i.e., err on the side of caution). If
-you know for sure, have the courage to act.
-Manager assessment of others (looking for yeses)
- Humble
-o Does he genuinely compliment/praise teammates without hesitation?
-o Does she easily admit when she makes a mistake?
-o Is he willing to take on lower-level work for the good of the team?
-o Does she gladly share credit for team accomplishments?
-o Does he readily acknowledge his weaknesses?
-o Does she offer and receive apologies graciously?
- Hungry
-o Does he do more than what is required in his own job?
-o Does she have passion for the “mission” of the team?
+- Two virtues
+  - Humble/Hungry: **The Accidental Mess-maker** – their lack of understanding of how their actions and words are received leads to interpersonal problems. This is the least dangerous, as there are no bad intentions and these individuals usually take corrective feedback easily.
+  - Humble/Smart: **The Loveable Slacker** – only do what’s asked. Because they’re personable, leaders often avoid confronting or removing them.
+  - Hungry/Smart: **The Skillful Politician** – they work hard, but only if it benefits them. They are adept at portraying themselves as humble, so managers may pick up on the damage after it’s too late.
 
-Does he feel a sense of personal responsibility for the overall success of the team?
-o Is she willing to contribute to and think about work outside of office hours?
-o Does she look for opportunities to contribute outside her area of responsibility?
-o Is he willing and eager to take on tedious and challenging tasks whenever necessary?
- Smart
-o Does he seem to know what teammates are feeling during meetings and interactions?
-o Does she show empathy to others on the team?
-o Does he demonstrate an interest in the lives of teammates?
-o Is she an attentive listener?
-o Is he aware of how his words and actions impact others on the team?
-o Is she good at adjusting her behavior and style to fit the nature of a conversation?
-Employee self-assessment (remind them this is about improvement, not punishment; value honesty)
-Scale: 3 = Usually, 2 = Sometimes, 1 = Rarely
-Humble
-My teammates would say:
-__ I compliment or praise them without hesitation.
-__ I easily admit to my mistakes.
-__ I am willing to take on lower-level work for the good of the team.
-__ I gladly share credit for team accomplishments.
-__ I readily acknowledge my weaknesses.
-__ I offer and receive apologies graciously.
-____ TOTAL
-Hungry
-My teammates would say:
-__ I do more than what is required in my own job.
-__ I have passion for the “mission” of the team.
-__ I feel a sense of personal responsibility for the overall success of the team.
-__ I’m willing to contribute to and think about work outside of office hours.
-__ I look for opportunities to contribute outside my area of responsibility.
+- The aforementioned classifications apply to people who are significantly lacking in a particular area (or areas). Each of the three virtues is a spectrum.
 
-__ I’m willing and eager to take on tedious and challenging tasks whenever necessary.
-____ TOTAL
-Smart
-My teammates would say:
-__ I seem to know what teammates are feeling during meetings and interactions.
-__ I show empathy to others on the team.
-__ I demonstrate an interest in the lives of teammates.
-__ I’m an attentive listener.
-__ I’m aware of how my words and actions impact others on the team.
-__ I’m good at adjusting my behavior and style to fit the nature of a conversation.
-(An alternative, less intrusive approach for self-assessment is to have the person rank the virtues from
-strongest to weakest.)
-Developing employees who are lacking in one or more virtues
-Managers need to keep reminding people when they need improvement. It’s easy to stop doing so
-because it’s uncomfortable to not see progress.
-Ideal team players need development, too. This comes in the form of coaches from others who are
-stronger in certain areas.
-Developing humility
- Identify the root causes of the insecurity
- Exposure therapy (i.e., they practice the very behaviors they struggle with)
- Leader modeling
-Developing hunger
- “Plenty of people who lack hunger would like nothing more than to be fully engaged and more
-productive in their work.”
- Connect the person to the importance of the work being done; find passion for the mission and
-the team
- Set clear expectations; set targets/goals, and also clarify the behaviors you want from them
- Don’t wait too long to give feedback
- Praise publicly for work on this virtue
- Leader modeling
+- **Developing employees who are lacking in one or more virtues**
+  - Managers need to keep reminding people when they need improvement. It’s easy to stop doing so because it’s uncomfortable to not see progress.
+  - Ideal team players need development, too. This comes in the form of coaches from others who are stronger in certain areas.
 
-Developing smarts
- Be brutally honest (e.g., “Bob, this is the part of the meeting where you thank Karen for helping
-you” or “I’m saying this because I want you to know… I’m kind of upset about my family
-situation and was hoping you’d acknowledge that.”)
-Embedding the model into an organization’s culture
- Be explicit and bold – leaders should tell (in an appropriate way) everyone they interact with
-they expect humility, hunger, and smarts. Don’t be cheesy about it, but be serious enough to
-put it out there with confidence and integrity.
- Catch and revere – the point of praise is not only to reinforce the behavior in someone, but also
-to reinforce it in everyone else. “Hey, that’s a fantastic example of hunger. We can all try to be
-more like that.”
- Detect and address – if you see behavior that violates the values, let the person know they’re
-out of line; be tactful and use good judgment
+  - **Developing humility**
+    - Identify the root causes of the insecurity
+    - Exposure therapy (i.e., they practice the very behaviors they struggle with)
+    - Leader modeling
+
+  - **Developing hunger**
+    - “Plenty of people who lack hunger would like nothing more than to be fully engaged and more productive in their work.”
+    - Connect the person to the importance of the work being done; find passion for the mission and the team
+    - Set clear expectations; set targets/goals, and also clarify the behaviors you want from them
+    - Don’t wait too long to give feedback
+    - Praise publicly for work on this virtue
+    - Leader modeling
+
+  - **Developing smarts**
+    - Be brutally honest (e.g., “Bob, this is the part of the meeting where you thank Karen for helping you” or “I’m saying this because I want you to know… I’m kind of upset about my family situation and was hoping you’d acknowledge that.”)
+
+- **Embedding the model into an organization’s culture**
+  - Be explicit and bold – leaders should tell (in an appropriate way) everyone they interact with they expect humility, hunger, and smarts. Don’t be cheesy about it, but be serious enough to put it out there with confidence and integrity.
+  - Catch and revere – the point of praise is not only to reinforce the behavior in someone, but also to reinforce it in everyone else. “Hey, that’s a fantastic example of hunger. We can all try to be more like that.”
+  - Detect and address – if you see behavior that violates the values, let the person know they’re out of line; be tactful and use good judgment
 
 # Source: Generating a Flow of A Players
 - Talent pools rarely contain the most vital and energetic candidates,
