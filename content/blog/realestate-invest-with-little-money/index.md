@@ -737,6 +737,29 @@ multiplying the monthly rent by the number of days in the month. This is called 
  
 - The author acquired a multifamily property that met all the requirements of an excellent investment: it was a Class C property with more than 100 units, located in a good location, and it had bad management.
 
+- what's A, B, C neighborhood
+  - A or especially A+ is the built in the last five or ten years. It’s the shiny stuff downtown, high-rises on the water. You’re going to pay $2500-$3000 a month for it. B is more of your working class, solid job, people that maybe could buy a house but just choose not to. It’s got a pool, it’s got a fitness center. It’s a clean property but maybe it’s 20 years old or 30 years old. C, that’s property that maybe were built in the ‘70s or ‘80s or even ‘60s. More lower to moderate income people who probably can’t get a house. They’re renters for life.
+
+- one possible set of criterias:
+  - does median income support the rent you want? (income at least 30% of rent)
+    - City-Data.com and RichBlocksPoorBlocks.com
+    - less than 15% of the population to be under the poverty level.
+  - is population growth positive?
+    - Generally, we want to see the population growth that exceeds the national average. So over the last ten years, the national average was like 9.7%. If that town that we’re in is growing faster than that, that’s generally a good sign.
+  - is it flood zones?
+    - go to FEMA website, pull up the flood zone maps, and make sure we’re not in a flood zone
+  - what's the crime rate in the neighborhood?
+    - heat maps from Trulia
+  - is it built after 1970s 1980s?
+  - what's the cash flow on the property?
+  - what's the small cosmetics value add opportunities on the property?
+    - what's the landscape looks like?
+    - can it be painted?
+    - can I replace the floor with vinyl flooring?
+  - is the roof flat?
+  - is the property currently self-managed?
+  - no mixed use and high rises, preferred garden-style, single or 2 story apartment complexes
+
 # property type (CCC No. 1)
 
 - Shopping for a ring is a difficult task, and the same is true when choosing which type of investment to make. The five-point crystal-clear criteria helps narrow down the options. 
