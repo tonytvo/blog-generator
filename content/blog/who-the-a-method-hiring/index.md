@@ -1,6 +1,6 @@
 ---
 title: who the a method for hiring by geoff smart and randy street summary
-date: "2022-09-04T22:12:03.284Z"
+date: "2023-05-28T22:12:03.284Z"
 description: "who the a method for hiring by geoff smart and randy street summary"
 tags: ["recruiting", "hr"]
 ---
