@@ -33,7 +33,7 @@ tags: ["recruiting", "hr"]
   - 7. The Chatterbox: Although enjoyable, this method does nothing to help you make a good decision.
   - 8. The Psychological and Personality Tester: These types of tests are not recommended as they are not predictive of success on the job.
   - 9. The Aptitude Tester: They can help determine whether the candidate has the right aptitude for the job but they should never be the sole determinant in a hiring decision.
-  - 10.  The Fortune Teller: Some interviewers like to ask their candidates to look into the future regarding the job at hand by asking hypothetical questions:
+  - 10. The Fortune Teller: Some interviewers like to ask their candidates to look into the future regarding the job at hand by asking hypothetical questions:
   - At the bottom line, all these voodoo hiring methods share an assumption that it’s easy to assess a person.
 
 - **What is an A Player?**
@@ -48,6 +48,45 @@ tags: ["recruiting", "hr"]
     - 2. Source. Finding great people is getting harder, but it is not impossible. Systematic sourcing before you have slots to fill ensures you have high-quality candidates waiting when you need them.
     - 3. Select. Selecting talent in the A Method involves a series of structured interviews that allow you to gather the relevant facts about a person so you can rate your scorecard and make an informed hiring decision. These structured interviews break the voodoo hiring spell.
     - 4. Sell. Once you identify people you want on your team through selection, you need to persuade them to join. Selling the right way ensures you avoid the biggest pitfalls that cause the very people you want the most to take their talents elsewhere. It also protects you from the biggest heartbreak of all— losing the perfect candidate at the eleventh hour.
+
+# The Three Virtues
+
+- **Humble**
+  - “Great team players lack excessive ego or concerns about status. They are quick to point out the contributions of others and slow to seek attention for their own. They share credit, emphasize team over self, and define success collectively rather than individually. It is no great surprise,then, that humility is the single greatest and most indispensable attribute of being a team player.”
+  - Some leaders see arrogance in an employee and don’t confront it, often citing that person’s individual contributions as an excuse.
+  - Two types of people that lack humility
+    - Overly arrogant people – boast and soak up attention
+    - Those who lack self-confidence – they downplay their own worth (which looks like humility); from C.S. Lewis, “Humility isn’t thinking less of yourself, but thinking of yourself less.”
+
+- **Hungry**
+  - “Hungry people are always looking for more. More things to do. More to learn. More responsibility to take on. Hungry people almost never have to be pushed by a manager to work harder because they are self-motivated and diligent. They are constantly thinking about the next step and the next opportunity. And they loathe the idea that they might be slackers.”
+  - The hunger needs to be healthy (manageable and sustainable commitment, and going above and beyond when required), otherwise it dominates your life.
+  - Job candidates can falsely appear hungry during standard interviews to impress others. 
+
+- **Smart**
+  - “…not about intellectual capacity. In the context of a team, smart simply refers to a person’s common sense about people. It has everything to do with the ability to be interpersonally appropriate and aware. Smart people tend to know what is happening in a group situation and how to deal with others in the most effective way. They ask good questions, listen to what others are saying, and stay engaged in conversations intently.”
+
+- These virtues are not permanent characteristics; they are maintained and developed through life experiences and personal choices. When team members are strong in these three areas, they enable teamwork by making it relatively easy for members to overcome the absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. People without all three require significantly more time, attention, and patience from their managers.
+
+## team player categories
+
+- ![team player categories](./team-player-categories.png)
+
+- No virtues
+  - These individuals likely don’t get past an initial interview.
+
+- One virtue
+  - Humble only: **The Pawn** – pleasant, but don’t have the drive to get things done or build effective relationships. They survive on teams that value harmony over performance.
+  - Hungry only: **The Bulldozer** – determined to get things done, but focused on themselves and with little concern for others. They survive on teams the place a premium on results alone.
+  - Smart only: **The Charmer** – entertaining and likable, but have no interest in their colleagues or the team’s well-being. They survive in situations where their social skills sway others.
+
+- Two virtues
+  - Humble/Hungry: **The Accidental Mess-maker** – their lack of understanding of how their actions and words are received leads to interpersonal problems. This is the least dangerous, as there are no bad intentions and these individuals usually take corrective feedback easily.
+  - Humble/Smart: **The Loveable Slacker** – only do what’s asked. Because they’re personable, leaders often avoid confronting or removing them.
+  - Hungry/Smart: **The Skillful Politician** – they work hard, but only if it benefits them. They are adept at portraying themselves as humble, so managers may pick up on the damage after it’s too late.
+
+- The aforementioned classifications apply to people who are significantly lacking in a particular area (or areas). Each of the three virtues is a spectrum.
+
 
 # Scorecard: A Blueprint for Success
 
@@ -194,92 +233,55 @@ tags: ["recruiting", "hr"]
 
 - **Humble**
   - My teammates would say:
-  - __ I compliment or praise them without hesitation.
-  - __ I easily admit to my mistakes.
-  - __ I am willing to take on lower-level work for the good of the team.
-  - __ I gladly share credit for team accomplishments.
-  - __ I readily acknowledge my weaknesses.
-  - __ I offer and receive apologies graciously.
-  - ____ TOTAL
+    - __ I compliment or praise them without hesitation.
+    - __ I easily admit to my mistakes.
+    - __ I am willing to take on lower-level work for the good of the team.
+    - __ I gladly share credit for team accomplishments.
+    - __ I readily acknowledge my weaknesses.
+    - __ I offer and receive apologies graciously.
+    - ____ TOTAL
 
 - **Hungry**
   - My teammates would say:
-  - __ I do more than what is required in my own job.
-  - __ I have passion for the “mission” of the team.
-  - __ I feel a sense of personal responsibility for the overall success of the team.
-  - __ I’m willing to contribute to and think about work outside of office hours.
-  - __ I look for opportunities to contribute outside my area of responsibility.
-  - __ I’m willing and eager to take on tedious and challenging tasks whenever necessary.
-  - ____ TOTAL
+    - __ I do more than what is required in my own job.
+    - __ I have passion for the “mission” of the team.
+    - __ I feel a sense of personal responsibility for the overall success of the team.
+    - __ I’m willing to contribute to and think about work outside of office hours.
+    - __ I look for opportunities to contribute outside my area of responsibility.
+    - __ I’m willing and eager to take on tedious and challenging tasks whenever necessary.
+    - ____ TOTAL
 
 - **Smart**
   - My teammates would say:
-  - __ I seem to know what teammates are feeling during meetings and interactions.
-  - __ I show empathy to others on the team.
-  - __ I demonstrate an interest in the lives of teammates.
-  - __ I’m an attentive listener.
-  - __ I’m aware of how my words and actions impact others on the team.
-  - __ I’m good at adjusting my behavior and style to fit the nature of a conversation.
+    - __ I seem to know what teammates are feeling during meetings and interactions.
+    - __ I show empathy to others on the team.
+    - __ I demonstrate an interest in the lives of teammates.
+    - __ I’m an attentive listener.
+    - __ I’m aware of how my words and actions impact others on the team.
+    - __ I’m good at adjusting my behavior and style to fit the nature of a conversation.
 
 - (An alternative, less intrusive approach for self-assessment is to have the person rank the virtues from strongest to weakest.)
 
-# The Three Virtues
+## Developing employees who are lacking in one or more virtues**
 
-- **Humble**
-  - “Great team players lack excessive ego or concerns about status. They are quick to point out the contributions of others and slow to seek attention for their own. They share credit, emphasize team over self, and define success collectively rather than individually. It is no great surprise,then, that humility is the single greatest and most indispensable attribute of being a team player.”
-  - Some leaders see arrogance in an employee and don’t confront it, often citing that person’s individual contributions as an excuse.
-  - Two types of people that lack humility
-    - Overly arrogant people – boast and soak up attention
-    - Those who lack self-confidence – they downplay their own worth (which looks like humility); from C.S. Lewis, “Humility isn’t thinking less of yourself, but thinking of yourself less.”
+- Managers need to keep reminding people when they need improvement. It’s easy to stop doing so because it’s uncomfortable to not see progress.
+- Ideal team players need development, too. This comes in the form of coaches from others who are stronger in certain areas.
 
-- **Hungry**
-  - “Hungry people are always looking for more. More things to do. More to learn. More responsibility to take on. Hungry people almost never have to be pushed by a manager to work harder because they are self-motivated and diligent. They are constantly thinking about the next step and the next opportunity. And they loathe the idea that they might be slackers.”
-  - The hunger needs to be healthy (manageable and sustainable commitment, and going above and beyond when required), otherwise it dominates your life.
-  - Job candidates can falsely appear hungry during standard interviews to impress others. 
+- **Developing humility**
+  - Identify the root causes of the insecurity
+  - Exposure therapy (i.e., they practice the very behaviors they struggle with)
+  - Leader modeling
 
-- **Smart**
-  - “…not about intellectual capacity. In the context of a team, smart simply refers to a person’s common sense about people. It has everything to do with the ability to be interpersonally appropriate and aware. Smart people tend to know what is happening in a group situation and how to deal with others in the most effective way. They ask good questions, listen to what others are saying, and stay engaged in conversations intently.”
+- **Developing hunger**
+  - “Plenty of people who lack hunger would like nothing more than to be fully engaged and more productive in their work.”
+  - Connect the person to the importance of the work being done; find passion for the mission and the team
+  - Set clear expectations; set targets/goals, and also clarify the behaviors you want from them
+  - Don’t wait too long to give feedback
+  - Praise publicly for work on this virtue
+  - Leader modeling
 
-- These virtues are not permanent characteristics; they are maintained and developed through life experiences and personal choices. When team members are strong in these three areas, they enable teamwork by making it relatively easy for members to overcome the absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. People without all three require significantly more time, attention, and patience from their managers.
-
-## team player categories
-
-- ![team player categories](./team-player-categories.png)
-
-- No virtues
-  - These individuals likely don’t get past an initial interview.
-
-- One virtue
-  - Humble only: **The Pawn** – pleasant, but don’t have the drive to get things done or build effective relationships. They survive on teams that value harmony over performance.
-  - Hungry only: **The Bulldozer** – determined to get things done, but focused on themselves and with little concern for others. They survive on teams the place a premium on results alone.
-  - Smart only: **The Charmer** – entertaining and likable, but have no interest in their colleagues or the team’s well-being. They survive in situations where their social skills sway others.
-
-- Two virtues
-  - Humble/Hungry: **The Accidental Mess-maker** – their lack of understanding of how their actions and words are received leads to interpersonal problems. This is the least dangerous, as there are no bad intentions and these individuals usually take corrective feedback easily.
-  - Humble/Smart: **The Loveable Slacker** – only do what’s asked. Because they’re personable, leaders often avoid confronting or removing them.
-  - Hungry/Smart: **The Skillful Politician** – they work hard, but only if it benefits them. They are adept at portraying themselves as humble, so managers may pick up on the damage after it’s too late.
-
-- The aforementioned classifications apply to people who are significantly lacking in a particular area (or areas). Each of the three virtues is a spectrum.
-
-- **Developing employees who are lacking in one or more virtues**
-  - Managers need to keep reminding people when they need improvement. It’s easy to stop doing so because it’s uncomfortable to not see progress.
-  - Ideal team players need development, too. This comes in the form of coaches from others who are stronger in certain areas.
-
-  - **Developing humility**
-    - Identify the root causes of the insecurity
-    - Exposure therapy (i.e., they practice the very behaviors they struggle with)
-    - Leader modeling
-
-  - **Developing hunger**
-    - “Plenty of people who lack hunger would like nothing more than to be fully engaged and more productive in their work.”
-    - Connect the person to the importance of the work being done; find passion for the mission and the team
-    - Set clear expectations; set targets/goals, and also clarify the behaviors you want from them
-    - Don’t wait too long to give feedback
-    - Praise publicly for work on this virtue
-    - Leader modeling
-
-  - **Developing smarts**
-    - Be brutally honest (e.g., “Bob, this is the part of the meeting where you thank Karen for helping you” or “I’m saying this because I want you to know… I’m kind of upset about my family situation and was hoping you’d acknowledge that.”)
+- **Developing smarts**
+  - Be brutally honest (e.g., “Bob, this is the part of the meeting where you thank Karen for helping you” or “I’m saying this because I want you to know… I’m kind of upset about my family situation and was hoping you’d acknowledge that.”)
 
 - **Embedding the model into an organization’s culture**
   - Be explicit and bold – leaders should tell (in an appropriate way) everyone they interact with they expect humility, hunger, and smarts. Don’t be cheesy about it, but be serious enough to put it out there with confidence and integrity.
@@ -287,6 +289,7 @@ tags: ["recruiting", "hr"]
   - Detect and address – if you see behavior that violates the values, let the person know they’re out of line; be tactful and use good judgment
 
 # Source: Generating a Flow of A Players
+
 - Talent pools rarely contain the most vital and energetic candidates,
 - Of all the ways to source candidates, the number one method is to ask for referrals from your personal and professional networks. It is the single most effective way to find potential A players.
 
