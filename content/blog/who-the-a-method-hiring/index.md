@@ -74,28 +74,28 @@ tags: ["recruiting", "hr"]
 - **Critical Competencies for A Players**
   - *Efficiency*. Able to produce significant output with minimal wasted effort.
   - *Honesty/integrity*. Does not cut corners ethically. Earns trust and maintains confidences. Does what is right, not just what is politically expedient. Speaks plainly and truthfully.
-  - Organization and planning. Plans, organizes, schedules, and budgets in an efficient, productive manner. Focuses on key priorities.
-  - Aggressiveness. Moves quickly and takes a forceful stand without being overly abrasive.
-  - Follow-through on commitments. Lives up to verbal and written agreements, regardless of personal cost.
-  - Intelligence. Learns quickly. Demonstrates ability to quickly and proficiently understand and absorb new information.
-  - Analytical skills. Able to structure and process qualitative or quantitative data and draw insightful conclusions from it. Exhibits a probing mind and achieves penetrating insights.
-  - Attention to detail. Does not let important details slip through the cracks or derail a project.
-  - Persistence. Demonstrates tenacity and willingness to go the distance to get something done.
-  - Proactivity. Acts without being told what to do. Brings new ideas to the company.
-  - Ability to hire A Players (for managers). Sources, selects, and sells A Players to join a company.
-  - Ability to develop people (for managers). Coaches people in their current roles to improve performance, and prepare them for future roles.
-  - Flexibility/adaptability. Adjusts quickly to changing priorities and conditions. Copes effectively with complexity and change.
-  - Calm under pressure. Maintains stable performance when under heavy pressure or stress.
-  - Strategic thinking/ visioning. Able to see and communicate the big picture in an inspiring way. Determines opportunities and threats through comprehensive analysis of current and future trends.
-  - Creativity/innovation. Generates new and innovative approaches to problems.
-  - Enthusiasm. Exhibits passion and excitement over work. Has a can-do attitude.
-  - Work ethic. Possesses a strong willingness to work hard and sometimes long hours to get the job done. Has a track record of working hard.
-  - High standards. Expects personal performance and team performance to be nothing short of the best.
-  - Listening skills. Lets others speak and seeks to understand their viewpoints.
-  - Openness to criticism and ideas. Often solicits feedback and reacts calmly to criticism or negative feedback.
-  - Communication. Speaks and writes clearly and articulately without being overly verbose or talkative. Maintains this standard in all forms of written communication, including e-mail. 
-  - Teamwork. Reaches out to peers and cooperates with supervisors to establish an overall collaborative working relationship.
-  - Persuasion. Able to convince others to pursue a course of action.
+  - *Organization and planning*. Plans, organizes, schedules, and budgets in an efficient, productive manner. Focuses on key priorities.
+  - *Aggressiveness*. Moves quickly and takes a forceful stand without being overly abrasive.
+  - *Follow-through on commitments*. Lives up to verbal and written agreements, regardless of personal cost.
+  - *Intelligence. Learns quickly*. Demonstrates ability to quickly and proficiently understand and absorb new information.
+  - *Analytical skills*. Able to structure and process qualitative or quantitative data and draw insightful conclusions from it. Exhibits a probing mind and achieves penetrating insights.
+  - *Attention to detail*. Does not let important details slip through the cracks or derail a project.
+  - *Persistence*. Demonstrates tenacity and willingness to go the distance to get something done.
+  - *Proactivity*. Acts without being told what to do. Brings new ideas to the company.
+  - *Ability to hire A Players (for managers)*. Sources, selects, and sells A Players to join a company.
+  - *Ability to develop people (for managers)*. Coaches people in their current roles to improve performance, and prepare them for future roles.
+  - *Flexibility/adaptability*. Adjusts quickly to changing priorities and conditions. Copes effectively with complexity and change.
+  - *Calm under pressure*. Maintains stable performance when under heavy pressure or stress.
+  - *Strategic thinking/visioning*. Able to see and communicate the big picture in an inspiring way. Determines opportunities and threats through comprehensive analysis of current and future trends.
+  - *Creativity/innovation*. Generates new and innovative approaches to problems.
+  - *Enthusiasm*. Exhibits passion and excitement over work. Has a can-do attitude.
+  - *Work ethic*. Possesses a strong willingness to work hard and sometimes long hours to get the job done. Has a track record of working hard.
+  - *High standards*. Expects personal performance and team performance to be nothing short of the best.
+  - *Listening skills*. Lets others speak and seeks to understand their viewpoints.
+  - *Openness to criticism and ideas*. Often solicits feedback and reacts calmly to criticism or negative feedback.
+  - *Communication*. Speaks and writes clearly and articulately without being overly verbose or talkative. Maintains this standard in all forms of written communication, including e-mail. 
+  - *Teamwork*. Reaches out to peers and cooperates with supervisors to establish an overall collaborative working relationship.
+  - *Persuasion*. Able to convince others to pursue a course of action.
 
 - **Cultural Competencies: Ensuring Organizational Fit**
   - Competencies work at two levels. They define the skills and behaviors required for a job, and they reflect the broader demands of your organizational culture. Job competencies are generally easier to list, but cultural fit is just as important.
