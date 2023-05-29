@@ -605,3 +605,6 @@ const loginClient = LoginClient.createNull(
 - https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
 - https://martinfowler.com/articles/domain-oriented-observability.html
 - http://www.growing-object-oriented-software.com/code.html
+- [practical testing pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [agile testing condensed](https://leanpub.com/agiletesting-condensed)
+- [mocks aresn't stubs](https://martinfowler.com/articles/mocksArentStubs.html)
