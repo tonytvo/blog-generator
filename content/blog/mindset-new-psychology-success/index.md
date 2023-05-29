@@ -882,28 +882,9 @@ of 2009, I had a senior General Officer in the Indian Army in the front row of t
 
   - This applies to 100% of people in the workforce. As in a football team or symphony orchestra, there are no "bit players." This applies in every industry and for every price-point strategy therein. In Brazil, Magazine Luiza, the country's Wal*Mart, is invariably near the top of the "Best Companies to Work For" list, just as Wegmans, the regional grocer, and the Container Store are at the head of the pack, peers of Google and Amgen, on the American "Best" list. This applies to companies of all sizes—from microscopic to humongous. This applies in good times—and especially in bad times. Engaged workers and an unwavering commitment to Excellence from those workers are not the whole story—but they are the bedrock upon which all else is built.
 
-97. Up with People! As in: Increase Your People Budget. There's a convenience store near
-me. They undertook what I'd guess was a $500,000 physical renovation.
-Bravo!
-Except ...
-The staff attitude, previously crappy, is as crappy as ever. And it's all the more obviously crappy
-in what's now a great-looking space. Frankly, I feel the owners pretty much pissed away the
-$500,000! That is: I'll trade a paint job for a terrific attitude any day!
-42
-It calls to mind a Very Big Issue. It's so easy to get caught up with the capital budget. The capital
-expenditure:
-It's "permanent"!
-You can take pictures of the result!
-It doesn't take sick days!
-The people budget, on the other hand, is ...
-All about intangibles.
-"Soft stuff."
-No photo ops to speak of.
-So here's my dogmatic suggestion: When you've absolutely, positively, unequivocally locked
-down your budget for the next year, I beg you to pick the lock. Please, please, please: Cut the
-projected capital expenditures by 15 percent. And: Redirect those savings to the people budget
-(recruiting, training, perks, pay, extra staffing, whatever) ... penny for penny or million for
-million!
+- **Up with People! As in: Increase Your People Budget**. 
+  - So here's my dogmatic suggestion: When you've absolutely, positively, unequivocally locked down your budget for the next year, I beg you to pick the lock. Please, please, please: Cut the projected capital expenditures by 15 percent. And: Redirect those savings to the people budget (recruiting, training, perks, pay, extra staffing, whatever) ... penny for penny or million for million!
+
 98. Cherish the Last Two-Percenters. Simply put, one cannot overestimate the value of ...
 "the last two-percenter." That person who, at 2 a.m., takes one final look at the presentation to the
 Board tomorrow, and discovers that two key numbers are transposed on the footnote on Slide
