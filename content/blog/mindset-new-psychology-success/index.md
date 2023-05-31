@@ -876,33 +876,12 @@ of 2009, I had a senior General Officer in the Indian Army in the front row of t
     - Please list. 5 people. Whose development you have contributed to. Directly & Profoundly. In the last 24 months.
 
 
+## PEOPLE
 
-PEOPLE
+- **It's All About ... the Quality of the Workforce**. The formulation that follows came from a speech I gave in Shanghai in the spring of 2009. I was part of a program that included renowned consultants, economists, etc. I began by saying, "In the next several hours you will hear many prescriptions for dealing with today's shaky times—and preparing for China's future. Many of those prescriptions will involve the role of the government in manipulating economic levers, the sorts of help that big firms and SMEs will need, etc. I will doubtless find myself in agreement with many, probably most, of the suggestions made." But then I added that my role was to simplify, to boldly and perhaps foolhardily assert that, regardless of economic levers pulled, there was in fact only ... One Thing that Really Mattered in the long run to the health of the enterprise—and, indeed, the economy as a whole: the quality and character of the work force. (And, concomitantly, the unstinting "24/7" devotion of enterprise leaders to developing each and every member of that work force.)
 
-96. It's All About ... the Quality of the Workforce. The formulation that follows came from a
-speech I gave in Shanghai in the spring of 2009. I was part of a program that included renowned
-consultants, economists, etc. I began by saying, "In the next several hours you will hear many
-prescriptions for dealing with today's shaky times—and preparing for China's future. Many of
-those prescriptions will involve the role of the government in manipulating economic levers, the
-sorts of help that big firms and SMEs will need, etc. I will doubtless find myself in agreement
-with many, probably most, of the suggestions made." But then I added that my role was to
-simplify, to boldly and perhaps foolhardily assert that, regardless of economic levers pulled, there
-was in fact only ... One Thing that Really Mattered in the long run to the health of the
-enterprise—and, indeed, the economy as a whole: the quality and character of the work force.
-(And, concomitantly, the unstinting "24/7" devotion of enterprise leaders to developing each and
-every member of that work force.)
-This applies throughout the world—in America and Brazil and Lithuania and Estonia and Korea.
-And in China, as it pursues a future obviously more and more dependent on incorporating
-intellectual capital and creativity into its economic portfolio (already China bridles at being
-assigned a role as "the world's workshop"). This applies to 100% of people in the workforce. As
-in a football team or symphony orchestra, there are no "bit players." This applies in every
-industry and for every price-point strategy therein. In Brazil, Magazine Luiza, the country's
-Wal*Mart, is invariably near the top of the "Best Companies to Work For" list, just as Wegmans,
-the regional grocer, and the Container Store are at the head of the pack, peers of Google and
-Amgen, on the American "Best" list. This applies to companies of all sizes—from microscopic to
-humongous. This applies in good times—and especially in bad times. Engaged workers and an
-unwavering commitment to Excellence from those workers are not the whole story—but they are
-the bedrock upon which all else is built.
+  - This applies to 100% of people in the workforce. As in a football team or symphony orchestra, there are no "bit players." This applies in every industry and for every price-point strategy therein. In Brazil, Magazine Luiza, the country's Wal*Mart, is invariably near the top of the "Best Companies to Work For" list, just as Wegmans, the regional grocer, and the Container Store are at the head of the pack, peers of Google and Amgen, on the American "Best" list. This applies to companies of all sizes—from microscopic to humongous. This applies in good times—and especially in bad times. Engaged workers and an unwavering commitment to Excellence from those workers are not the whole story—but they are the bedrock upon which all else is built.
+
 97. Up with People! As in: Increase Your People Budget. There's a convenience store near
 me. They undertook what I'd guess was a $500,000 physical renovation.
 Bravo!
