@@ -72,13 +72,11 @@ tags: ["valueinvesting", "investing"]
 
 - =Consider a business with $100 invested in it. Say it earns a 20 percent return on its capital in one year. A 20 percent return implies $20 in earnings. But the key to a really great idea would be a business that could then take that $20 and reinvest it alongside the original $100 and earn a 20 percent return again and again and again.
 
-- Charlie Munger, vice chairman of Berkshire Hathaway said, Over the long term, it’s hard for a stock to earn a much better return than the business which underlies it earns. If the business earns 6% on capital over 40 years and you hold it for that 40 years, you’re not going to make much different than a 6% return—even if you originally buy it at a huge discount.
-
-Conversely, if a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you’ll end up with a fine result.
+- Charlie Munger, vice chairman of Berkshire Hathaway said, Over the long term, it’s hard for a stock to earn a much better return than the business which underlies it earns. If the business earns 6% on capital over 40 years and you hold it for that 40 years, you’re not going to make much different than a 6% return—even if you originally buy it at a huge discount. Conversely, if a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you’ll end up with a fine result.
 
 - It’s not the ROE only factor because high-ROE companies can still be lousy investments .
 
-## REINVESTMENT+CONSISTENT HIGH ROE/,ROCE
+## REINVESTMENT+CONSISTENT HIGH ROE/ROCE
 
 - I would instead emphasize looking for high returns on capital and the ability to reinvest and produce high returns for years and years
 
@@ -86,8 +84,7 @@ Conversely, if a business earns 18% on capital over 20 or 30 years, even if you 
 that it has to reinvest. And that reduces the rate of return
 
 - Consistent ROE shows management’s skill to reinvest as explained below
-  - Say we have a business with $100 million in equity, and we make a $20 million profit. That’s a 20 percent ROE. There is no dividend. If we took that $20 million at the end of the year and just put it in the bank, we’d earn, say, 2 percent interest on that money. But the rest of the business would
-continue to earn a 20 percent ROE. “That 20 percent ROE will actually come down to about 17 percent in the first year and then 15 percent as the cash earning a 2 percent return blends in with the business earning a 20 percent return,”
+  - Say we have a business with $100 million in equity, and we make a $20 million profit. That’s a 20 percent ROE. There is no dividend. If we took that $20 million at the end of the year and just put it in the bank, we’d earn, say, 2 percent interest on that money. But the rest of the business would continue to earn a 20 percent ROE. “That 20 percent ROE will actually come down to about 17 percent in the first year and then 15 percent as the cash earning a 2 percent return blends in with the business earning a 20 percent return,”
   - “So when you see a company that has an ROE of 20 percent year after year, somebody is taking the profit at the end of the year and recycling back in the business so that ROE can stay right where it is.”
 
 - A lot of people don’t appreciate how important the ability to reinvest those profits and earn a high ROE is.
@@ -170,8 +167,7 @@ about earnings power. A company can report a fall in earnings, but its longer-te
   - RoCE
   - Book value build up
 
-- Failure to distinguish between short term earnings fluctuations and basic changes in earnings power accounts for much over trading, [and]
-many lost opportunities to make 100 for one in the stock market.”
+- Failure to distinguish between short term earnings fluctuations and basic changes in earnings power accounts for much over trading, [and] many lost opportunities to make 100 for one in the stock market.”
 
 - So, how do you separate the ephemeral (short term) earnings setback from the real thing? Well, there is no substitute for knowing the business you’ve invested in. If you don’t understand what you own, it’s impossible to make a wise choice
 
@@ -204,14 +200,13 @@ many lost opportunities to make 100 for one in the stock market.”
 
 - I say lower multiples “preferred” because you can’t draw hard rules about any of this stuff. There are times when even 50 times earnings is a bargain. You have to balance the price you pay against other factors.
 
-- One way to look at it is by using something called the PEG ratio,” Goodman suggests. “The PEG ratio is simply the (P/E Ratio)/(Annual
-EPS Growth Rate). If earnings grow 20%, for example, then a P/E of 20 is justified. Anything too far above 1x could be too expensive.”
+- One way to look at it is by using something called the PEG ratio,” Goodman suggests. “The PEG ratio is simply the (P/E Ratio)/(Annual EPS Growth Rate). If earnings grow 20%, for example, then a P/E of 20 is justified. Anything too far above 1x could be too expensive.”
 
 - Don't overpay for growth
 
 - It might seem with 100-baggers that you don’t have to worry about the price you pay. But a simple mental experiment shows this isn’t quite right.
 
-- Truly big return comes when you have both earnings growth and a rising multiple. Ideally, you’d have both working for you.I call these two factors—growth in earnings and a higher multiple on those earnings—the “twin engines” of 100-baggers
+- Truly big return comes when you have both earnings growth and a rising multiple. Ideally, you’d have both working for you. I call these two factors—growth in earnings and a higher multiple on those earnings—the “twin engines” of 100-baggers
 
 - **P/E at time of purchase very important**
 - PE vs simple earnings increase
@@ -249,14 +244,13 @@ EPS Growth Rate). If earnings grow 20%, for example, then a P/E of 20 is justifi
 
 - **It is vitally important that the high rate of return be protected by a “gate” making entry into the business difficult if not impossible. .. Just be sure the gate is strong and high.**
 
-## SMALLER COMPANIES PREFERRED(<7000 cr)
+## SMALLER COMPANIES PREFERRED ( < 100 million revenue)
 
-- The median sales of 100 baggers companies @ $170 million(1200cr)
+- The median sales of 100 baggers companies @ $170 million
 
-- On the other hand, you shouldn’t assume you need to dive into microcaps and buy 25-cent stocks.
-It is not like you have to search microcaps for 100 baggers
+- On the other hand, you shouldn’t assume you need to dive into microcaps and buy 25-cent stocks. It is not like you have to search microcaps for 100 baggers
 
-- As a general rule, I suggest focusing on companies with market caps of less than $1 billion (<7000cr mcap).
+- As a general rule, I suggest focusing on companies with market caps of less than $1 billion.
 
 - Not a necessity (remember, smaller companies “preferred”), but staying below such a deck will make for a more fruitful search than staying above it.
 
@@ -375,16 +369,15 @@ It is not like you have to search microcaps for 100 baggers
 
 
 - ***IGNORE MACRO***
-
-- There is a world of noise out there. The financial media is particularly bad. Every day, something important happens, or so they would have
-you believe. 
-  - They narrate every twist in the market.
-  - They cover every Fed meeting.
-  - They document the endless stream of economic data and reports.
-  - They give a platform for an unending parade of pundits.
-  - Everybody wants to try to call the market, or
-  - They predict where interest rates will go or
-  - They predict the price of oil or whatever.
+  - There is a world of noise out there. The financial media is particularly bad. Every day, something important happens, or so they would have
+  you believe. 
+    - They narrate every twist in the market.
+    - They cover every Fed meeting.
+    - They document the endless stream of economic data and reports.
+    - They give a platform for an unending parade of pundits.
+    - Everybody wants to try to call the market, or
+    - They predict where interest rates will go or
+    - They predict the price of oil or whatever.
 
 - ***MARKET CRASH-HUGE OPPORTUNITY***
   - 2008 like disasters create “easier” opportunities to make hundredfold returns
@@ -411,22 +404,18 @@ you believe.
 
 - If the company had paid dividends, the story would be quite different. Say it paid out one-third of its earnings. It would then take 15 years to quadruple its capital, not 10. And in 33 years, it would be up 23-fold, instead of being a 100-bagger.
 
-- Obviously,” Phelps concludes, “dividends are an expensive luxury for an investor seeking maximum growth. If you must have income, don’t expect your financial doctor to match the capital gains that might have been obtainable without dividends. When you buy a cow to milk, don’t plan to
-race her against your neighbor’s horse.”
-
+- Obviously,” Phelps concludes, “dividends are an expensive luxury for an investor seeking maximum growth. If you must have income, don’t expect your financial doctor to match the capital gains that might have been obtainable without dividends. When you buy a cow to milk, don’t plan to race her against your neighbor’s horse.”
 
 
 ## BUYBACK
 
 - When you find a company that drives its shares outstanding lower over time and seems to have a knack for buying at good prices, you should take a deeper look. You may have found a candidate for a 100-bagger
 
-- In a slow- to no-growth
-economy, this tactic is becoming a more important driver of earnings-per share growth.
+- In a slow- to no-growth economy, this tactic is becoming a more important driver of earnings-per share growth.
 
 - Buyback criteria
   - Company should have available funds—cash plus sensible borrowing capacity—beyond the near-term needs of the business and
   - second, finds its stock selling in the market below its intrinsic value, conservatively calculated.
-
 
 
 ## HOLD STOCK FOR LONG TERM
@@ -435,9 +424,7 @@ economy, this tactic is becoming a more important driver of earnings-per share g
 
 - A more likely journey will take 20–25 years for 100 baggers
 
-- If you buy a stock that returns about 20 percent annually for 25 years, you’ll get your 100-bagger. But if you sell in year 20, you’ll get “only”
-about 40 to 1—before taxes. The last five years will more than double your overall return (assuming the annual return is constant). So, you must wait.
-This is not to discourage you. You can earn great returns in less than 20 years. But I want to get you to think big.
+- If you buy a stock that returns about 20 percent annually for 25 years, you’ll get your 100-bagger. But if you sell in year 20, you’ll get “only” about 40 to 1—before taxes. The last five years will more than double your overall return (assuming the annual return is constant). So, you must wait. This is not to discourage you. You can earn great returns in less than 20 years. But I want to get you to think big.
 
 - ***BUY BUT DONT FORGET***
 
