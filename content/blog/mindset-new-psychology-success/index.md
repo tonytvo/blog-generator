@@ -906,28 +906,13 @@ revision. Etc. Sometimes we call the last two-percenter a "pain in the ass." Tru
 
 ## GENDER
 
-100. Pronoun Power!—Or: The Customer Is a "She."
+- **Pronoun Power!—Or: The Customer Is a "She."**
 
-"Forget China, India and the Internet: Economic Growth Is Driven by Women."—Headline, the
-Economist
-"One thing is certain: Women's rise to power, which is linked to the increase in wealth per capita,
-is happening in all domains and at all levels of society. Women are no longer content to provide
-efficient labor or to be consumers. ... With rising budgets and more autonomy to spend, this is
-just the beginning. The phenomenon will only grow as girls prove to be more successful than boys
-in the school system. For a number of observers, we have already entered the age of
-'womenomics,' the economy as thought out and practiced by a woman."—Aude Zieseniss de
-Thuin, founder of the Women's Forum for the Economy and Society, rated one of the top five
-global forums by the Financial Times
-Hey, g-u-y-s:
-If women are your/our primary customers (they usually are, commercial as well as consumer
-goods in the U.S.), knock off the likes of football analogies. If women are your/our primary
-customers, always (ALWAYS!) refer to the generic customer as ... "she." There's obviously lots
-and lots and lots more to this issue—it's been an obsession of mine since 1996. But ... language
-matters.
-"She."
-Starting.
-Now.
-Period.
+  - "Forget China, India and the Internet: Economic Growth Is Driven by Women."—Headline, the Economist
+  - "One thing is certain: Women's rise to power, which is linked to the increase in wealth per capita, is happening in all domains and at all levels of society. Women are no longer content to provide efficient labor or to be consumers. ... With rising budgets and more autonomy to spend, this is just the beginning. The phenomenon will only grow as girls prove to be more successful than boys in the school system. For a number of observers, we have already entered the age of 'womenomics,' the economy as thought out and practiced by a woman."—Aude Zieseniss de Thuin, founder of the Women's Forum for the Economy and Society, rated one of the top five global forums by the Financial Times
+  - Hey, g-u-y-s:
+    - If women are your/our primary customers (they usually are, commercial as well as consumer goods in the U.S.), knock off the likes of football analogies. If women are your/our primary customers, always (ALWAYS!) refer to the generic customer as ... "she." There's obviously lots and lots and lots more to this issue—it's been an obsession of mine since 1996. But ... language matters.
+
 101. Women Lead! (Can Men Learn to Be Good Sports About It?) A main message of The
 Little BIG Things deals with the-"soft"-stuff-that-is-really-the-"hard"-stuff that underpins
 organization and individual effectiveness. Fact is, a lot of "this stuff" (e.g., primacy of
