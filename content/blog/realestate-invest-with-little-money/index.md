@@ -751,6 +751,8 @@ multiplying the monthly rent by the number of days in the month. This is called 
   - what's the crime rate in the neighborhood?
     - heat maps from Trulia
   - is it built after 1970s 1980s?
+  - can the pipes be repaired or need to be replaced?
+    - i.e.: Polybutylene pipes should be replaced because they can't be repaired. Their average lifespan is 10 to 15 years. If you have polybutylene pipes in your home, then you should replace them before they break.
   - what's the cash flow on the property?
   - what's the small cosmetics value add opportunities on the property?
     - what's the landscape looks like?
