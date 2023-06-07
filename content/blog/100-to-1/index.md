@@ -70,7 +70,7 @@ tags: ["valueinvesting", "investing"]
 
 - It’s so important it’s worth repeating again: you need a business with a high return on capital with the ability to reinvest and earn that high return on capital for years and years.
 
-- =Consider a business with $100 invested in it. Say it earns a 20 percent return on its capital in one year. A 20 percent return implies $20 in earnings. But the key to a really great idea would be a business that could then take that $20 and reinvest it alongside the original $100 and earn a 20 percent return again and again and again.
+- Consider a business with $100 invested in it. Say it earns a 20 percent return on its capital in one year. A 20 percent return implies $20 in earnings. But the key to a really great idea would be a business that could then take that $20 and reinvest it alongside the original $100 and earn a 20 percent return again and again and again.
 
 - Charlie Munger, vice chairman of Berkshire Hathaway said, Over the long term, it’s hard for a stock to earn a much better return than the business which underlies it earns. If the business earns 6% on capital over 40 years and you hold it for that 40 years, you’re not going to make much different than a 6% return—even if you originally buy it at a huge discount. Conversely, if a business earns 18% on capital over 20 or 30 years, even if you pay an expensive looking price, you’ll end up with a fine result.
 
@@ -80,8 +80,7 @@ tags: ["valueinvesting", "investing"]
 
 - I would instead emphasize looking for high returns on capital and the ability to reinvest and produce high returns for years and years
 
-- However, we should prefer a company that can reinvest all of its earnings at a high clip. If it pays a dividend, that’s less capital
-that it has to reinvest. And that reduces the rate of return
+- However, we should prefer a company that can reinvest all of its earnings at a high clip. If it pays a dividend, that’s less capital that it has to reinvest. And that reduces the rate of return
 
 - Consistent ROE shows management’s skill to reinvest as explained below
   - Say we have a business with $100 million in equity, and we make a $20 million profit. That’s a 20 percent ROE. There is no dividend. If we took that $20 million at the end of the year and just put it in the bank, we’d earn, say, 2 percent interest on that money. But the rest of the business would continue to earn a 20 percent ROE. “That 20 percent ROE will actually come down to about 17 percent in the first year and then 15 percent as the cash earning a 2 percent return blends in with the business earning a 20 percent return,”
@@ -153,8 +152,7 @@ that it has to reinvest. And that reduces the rate of return
 
 - You may miss 100 baggers if u dislike short term fluctuation with intact fundaments
 
-- Don’t get lost following earnings per share on a quarterly basis. Even one year may not be long enough to judge. It is more important to think
-about earnings power. A company can report a fall in earnings, but its longer-term earnings power could be unaffected
+- Don’t get lost following earnings per share on a quarterly basis. Even one year may not be long enough to judge. It is more important to think about earnings power. A company can report a fall in earnings, but its longer-term earnings power could be unaffected
 
 - **Earnings power – competitive strength (like pricing power) and is what really matters**
   - Two most important questions in buying great companies – how high and strong is the company’s moat; how good are the prospects for sales growth?
@@ -213,6 +211,7 @@ about earnings power. A company can report a fall in earnings, but its longer-te
   - For a stock to grow 100 times on increased earnings if the PE is same.
   - If a PE grew 4x, the company would only have to increase earnings 25x.
   - The same is also a double edged sword when PE falls, in fact it is much worse as if the PE halves, the earnings have to double just to keep the prices constant.
+
 - Fallacies in using the PE independently:
   - Earnings are not as easily comparable as prices. In many ways purely comparing earnings is like comparing cows vs horses.
   - Quality and composition of earnings are vital in drawing effective comparisons by using the PE.
@@ -238,7 +237,7 @@ about earnings power. A company can report a fall in earnings, but its longer-te
   - Entry barrier
   - Biggest company in small market
 
-- Look for financial statements. Specifically, the higher the gross margin relative to the competitiors, the better.
+- Look for financial statements. Specifically, the higher the gross margin relative to the competitors, the better.
 
 - Moat, even a narrow moat, is a necessity for 100 baggers
 
@@ -369,8 +368,7 @@ about earnings power. A company can report a fall in earnings, but its longer-te
 
 
 - ***IGNORE MACRO***
-  - There is a world of noise out there. The financial media is particularly bad. Every day, something important happens, or so they would have
-  you believe. 
+  - There is a world of noise out there. The financial media is particularly bad. Every day, something important happens, or so they would have you believe. 
     - They narrate every twist in the market.
     - They cover every Fed meeting.
     - They document the endless stream of economic data and reports.
@@ -466,8 +464,7 @@ often easy
 
 
 - ***COFFEE CAN PORTFOLIO***
-  - You take some portion of your money and create a “coffee-can portfolio.” What you put in it, you commit to holding for 10 years. That’s it. At the end of 10 years, you see what you have. Coffee-can experience
-says you will have found at least one big winner in there.
+  - You take some portion of your money and create a “coffee-can portfolio.” What you put in it, you commit to holding for 10 years. That’s it. At the end of 10 years, you see what you have. Coffee-can experience says you will have found at least one big winner in there.
   - Of course, investing in the buy-and-hold manner means sometimes you will be hit with a nasty loss.
   - But that is why you own a portfolio of stocks. To me, investing in stocks is interesting only because you can make so much on a single stock
   - Coffee-can theory says you’ll have done better this way than if you had tried to more actively manage your stocks.
@@ -526,12 +523,9 @@ says you will have found at least one big winner in there.
 
 - Mr. Lynch has taught us - ‘’Far more money has been lost by investors preparing for corrections, or trying to anticipate corrections, than has been lost in corrections themselves
 
-- Phelps also stands against market timing. He told me about how
-he predicted various bear markets in his career. “Yet I would have been
-much better off if instead of correctly forecasting a bear market, I had focused my attention through the decline on finding stocks that would turn $10,000 into a million dollars.”
+- Phelps also stands against market timing. He told me about how he predicted various bear markets in his career. “Yet I would have been much better off if instead of correctly forecasting a bear market, I had focused my attention through the decline on finding stocks that would turn $10,000 into a million dollars.”
 
-- Because of his bearishness, he missed opportunities that went on to deliver 100 to 1. “Bear market smoke gets in one’s eyes,” he said, and it
-blinds us to buying opportunities if we are too intent on market timing
+- Because of his bearishness, he missed opportunities that went on to deliver 100 to 1. “Bear market smoke gets in one’s eyes,” he said, and it blinds us to buying opportunities if we are too intent on market timing
 
 - **Timing not too important if find the right company**
 
@@ -550,8 +544,7 @@ blinds us to buying opportunities if we are too intent on market timing
 
   - **Lawyers**
     - Lawyers “make it difficult for investors to make good decisions.” They represent the interests of their clients—the people who pay them—not investors. 
-    - “‘Prestigious’ law firms are a surprisingly effective fig leaf,” Block said. They are great at writing indecipherable prose. And the attorney–client
-privilege “hides innumerable acts of corporate wrongdoing.”
+    - “‘Prestigious’ law firms are a surprisingly effective fig leaf,” Block said. They are great at writing indecipherable prose. And the attorney–client privilege “hides innumerable acts of corporate wrongdoing.”
 
   - **Auditors**
     - “Auditors are completely misunderstood,” Block said. Again, they represent the interest of their clients—the people who pay them. I’m reminded of the old saying “Whose bread I eat, his song I sing.”
@@ -564,8 +557,7 @@ privilege “hides innumerable acts of corporate wrongdoing.”
   - If you don’t know this by now, here it is: don’t look to research put out by investment banks or brokerage houses as a source of advice on where you should invest.
 
 - **Market-Research Firms**
-  - This one was interesting because you often see “market research” quoted from the likes of Frost & Sullivan and iResearch. Block said companies
-hire these firms and often give them the research to get the report they want. Market research is there to add legitimacy to management’s claims. It’s not to help you make a good decision.
+  - This one was interesting because you often see “market research” quoted from the likes of Frost & Sullivan and iResearch. Block said companies hire these firms and often give them the research to get the report they want. Market research is there to add legitimacy to management’s claims. It’s not to help you make a good decision.
   - Distrust market research. Look for more objective sources of information, such as actual sales data and trends.
 
 
