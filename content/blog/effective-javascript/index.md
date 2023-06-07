@@ -132,7 +132,8 @@ for (myvariable in object) {
 
 ### Functions
 * A function literal defines a function value
-* More details in [Chapter 4](#functions)
+* More details in [functions](#functions)
+* [higher order function examples](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_19.js)
 
 
 ## <a name="objects"/> Objects
@@ -466,6 +467,7 @@ functionName (initialArguments); //initial call to the function
 * If an object is created as a result of a function and assigned to myObject, myObject continues to share access to the variables in the functions that created it (actual variables, not copies)
 	* It has access to _the context in which it was created_ - this is _closure_
 	* This includes later on, even if _the outer function has completed its execution and returned_, when the inner function is called, it will still have **access to all the variables it had access to at the time it was defined** (i.e. the variables that were _in context_ when the inner function was defined)
+* [closures examples](https://github.com/nickaigi/effective-javascript/blob/master/chapter_2/item_11.js)
 
 ### Callbacks
 
