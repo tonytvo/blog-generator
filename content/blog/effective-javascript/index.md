@@ -133,8 +133,22 @@ for (myvariable in object) {
 ### Functions
 * A function literal defines a function value
 * More details in [functions](#functions)
-* [higher order function examples](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_19.js)
-
+* [higher order function examples](./higher-order-function.js)
+* [variadic function](./variadic-function.js)
+* [iterator protocol](./iterator-protocol.js)
+* [currying](./currying.js)
+* [avoid relying on toString method of functions](./tostring.js)
+* [Avoid nonstandard stack inspection properties](./avoid-nonstandard-stack-inspection-properties.js)
+* [Store methods on Prototypes](./store-methods-on-prototypes.js)
+* [avoid reckless monkey-patching](avoid-reckless-monkey-patching.js)
+* [lightweight Dictionaries from direct instances of 'object'](./lightweight-dictionaries-instances-object.js)
+* [use 'hasOwnProperty' to protect against prototype pollution](./use-hasownproperty-to-protect-against-prototype-pollution.js)
+* [Prefer arrays to dictionaries for ordered collections](prefer-arrays-to-dict-for-ordered-collections.s)
+* [never-add-enumerable-properties-to-object-prototype'](never-add-enumerable-properties-to-object-prototype.js)
+* [prefer iteration methods to loops](prefer-iteration-methods-to-loops.js)
+* [Reuse generic array methods on array-like objects](reuse-generic-array-methods-on-array-like-objects.js)
+* [Avoid unnescessary state](avoid-state.js)
+* [Method Chaining](method-chaining.js)
 
 ## <a name="objects"/> Objects
 
@@ -193,7 +207,7 @@ var today = {
 	* If the property *does note exist* anywhere in the chain, it will return _undefined_
 * A new property is _immediately visible_ to all of the objects below it in the chain once created
 
-More details in [Chapter 6](#arrays)
+More details in [arrays](#arrays)
 
 ### Reflection
 
@@ -467,7 +481,7 @@ functionName (initialArguments); //initial call to the function
 * If an object is created as a result of a function and assigned to myObject, myObject continues to share access to the variables in the functions that created it (actual variables, not copies)
 	* It has access to _the context in which it was created_ - this is _closure_
 	* This includes later on, even if _the outer function has completed its execution and returned_, when the inner function is called, it will still have **access to all the variables it had access to at the time it was defined** (i.e. the variables that were _in context_ when the inner function was defined)
-* [closures examples](https://github.com/nickaigi/effective-javascript/blob/master/chapter_2/item_11.js)
+* [closures examples](./closures-samples.js)
 
 ### Callbacks
 
