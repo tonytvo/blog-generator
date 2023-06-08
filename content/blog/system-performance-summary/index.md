@@ -45,7 +45,33 @@ tags: ["evolutionarydesign", "systemperformance"]
   - database reliability engineering book
   - practical monitoring from mike Julian
   - observability engineering
-  
+
+# observability
+
+- https://github.com/keyvanakbary/learning-notes/blob/master/books/distributed-systems-observability.md
+- https://github.com/LauraBeatris/observability-notebook/
+- https://hoangdinhquang.me/practical-monitoring/
+
+# systems performance
+
+- https://oliver-hu.medium.com/systems-performance-reading-notes-chapter-6-cpu-d70627188b85
+- https://oliver-hu.medium.com/systems-performance-reading-notes-chapter-7-memory-6e87ac8fcfdd
+- https://oliver-hu.medium.com/system-performance-chapter-8-file-system-7322f82fbc7c
+- https://lrita.github.io/images/posts/linux/Percona2016_LinuxSystemsPerf.pdf
+- https://www.brendangregg.com/USEmethod/use-rosetta.html
+- https://www.brendangregg.com/linuxperf.html
+- https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux
+
+# site reliability engineer
+
+- https://github.com/s905060/site-reliability-engineer-handbook
+- https://dev.to/bitmaybewise/series/21343
+- https://danluu.com/google-sre-book/
+
+# designing data intensive applications
+
+- https://elvischidera.com/2022-01-20-designing-data-intensive-applications
+- https://danlebrero.com/2021/09/01/designing-data-intensive-applications-summary/
 
 
 # References

@@ -40,6 +40,7 @@ something can be clarified, improved on or have an example added to it.
 * [Beautiful Features](#beautiful-features)
 * [the Awful Parts](#awful-parts)
 * [the Bad Parts](#bad-parts)
+* [effective javascript](#effective-javascript)
 * [JSLint](#jslint)
 
 
@@ -66,6 +67,7 @@ Always use // for comments, even multi-line ones to avoid having to escape `/*` 
 * There is a single, 64-bit floating point number type.
 * `NaN` (Not-a-Number) is not equal to any value (including itself) and is essentially an **illegal number value**, but _typeOf(NaN)===number is true_
 * Use `isNaN(number)` to check for NaNs
+* [understanding javascript floating point number](./floating-point-number.js)
 
 Number methods are discussed in [methods](#methods).
 
@@ -139,14 +141,8 @@ for (myvariable in object) {
 * [currying](./currying.js)
 * [avoid relying on toString method of functions](./tostring.js)
 * [Avoid nonstandard stack inspection properties](./avoid-nonstandard-stack-inspection-properties.js)
-* [Store methods on Prototypes](./store-methods-on-prototypes.js)
 * [avoid reckless monkey-patching](avoid-reckless-monkey-patching.js)
 * [lightweight Dictionaries from direct instances of 'object'](./lightweight-dictionaries-instances-object.js)
-* [use 'hasOwnProperty' to protect against prototype pollution](./use-hasownproperty-to-protect-against-prototype-pollution.js)
-* [Prefer arrays to dictionaries for ordered collections](prefer-arrays-to-dict-for-ordered-collections.s)
-* [never-add-enumerable-properties-to-object-prototype'](never-add-enumerable-properties-to-object-prototype.js)
-* [prefer iteration methods to loops](prefer-iteration-methods-to-loops.js)
-* [Reuse generic array methods on array-like objects](reuse-generic-array-methods-on-array-like-objects.js)
 * [Avoid unnescessary state](avoid-state.js)
 * [Method Chaining](method-chaining.js)
 
@@ -206,6 +202,9 @@ var today = {
 * If an object does not have a property you ask it for, it will **keep looking up the prototype chain until it finds it**
 	* If the property *does note exist* anywhere in the chain, it will return _undefined_
 * A new property is _immediately visible_ to all of the objects below it in the chain once created
+* [Store methods on Prototypes](./store-methods-on-prototypes.js)
+* [use 'hasOwnProperty' to protect against prototype pollution](./use-hasownproperty-to-protect-against-prototype-pollution.js)
+* [never-add-enumerable-properties-to-object-prototype'](never-add-enumerable-properties-to-object-prototype.js)
 
 More details in [arrays](#arrays)
 
@@ -657,6 +656,11 @@ Javascript only has **array-like objects** which are slower than 'real' arrays.
 **Retrieval and updating** of properties works the **same as with an object _except with integer property names_**.
 
 Arrays have their **own literal format** and their own set of methods ([Methods](#methods)).
+
+* [Prefer arrays to dictionaries for ordered collections](prefer-arrays-to-dict-for-ordered-collections.s)
+* [prefer iteration methods to loops](prefer-iteration-methods-to-loops.js)
+* [Reuse generic array methods on array-like objects](reuse-generic-array-methods-on-array-like-objects.js)
+
 
 ### Array Literals
 
@@ -1193,6 +1197,20 @@ Functions that are intended to be used with `new` (conventionally starting with 
 **void**:
 In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is hugely confusing and not helpful. **Don't use it**.
 
+## <a name="effective-javascript"/> effective javascript
+
+* [beware of implicit coercions](beware-of-implicit-coercions.js)
+* [prefer primitives to Object Wrappers](prefer-primitives-to-obj-wrapper.js)
+* [avoid using == with mixed types](avoid-using-==-with-mixed-types.js)
+* [learn the limits of Semicolon insertion](learn-the-limits-of-semicolon-insertion.js)
+* [understand variable hoisting](variable-hoisting.js)
+* [use immediately invoked function expression](immediately-invoked-function-expression.js)
+* [unportable scoping of named function expressions](unportable-scoping-of-named-function-expressions.js)
+* [unportable scoping of block-local function declarations](unportable-scope-block-local-func-declare.js)
+* [avoid creating local functions with eval](avoid-creating-local-functions-with-eval.js)
+* [prefer indirect  'eval' to direct 'eval'](prefer-indirect-to-direct-eval.js)
+* [minimize Use of the Global object](minimize-global-object.js)
+* [understand the difference between function, method, constructor calls](function-vs-method-vsconstructor.js)
 
 ## <a name="jslint"/> JSLint
 
