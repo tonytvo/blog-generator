@@ -36,15 +36,15 @@ something can be clarified, improved on or have an example added to it.
 * [Arrays](#arrays)
 * [Regular Expressions](#regular-expressions)
 * [Methods](#methods)
-* [Style](#javascriptstyle)
+* [Style](#javascript-style)
 * [Beautiful Features](#beautiful-features)
 * [the Awful Parts](#awful-parts)
 * [the Bad Parts](#bad-parts)
 * [effective javascript](#effective-javascript)
 * [JSLint](#jslint)
 
+## Good Parts
 
-## <a name="good-parts"/> Good Parts
 > Most programming languages contain good parts and bad parts. I discovered that I could be a better programmer by using only the good parts and avoiding the bad parts. After all, how can you build something good out of bad parts?
 
 The best parts of Javascript include:
@@ -58,7 +58,7 @@ The worst parts include global variables - there is a common _global object_ nam
 Javascript has a _class free_ object makeup, relying instead on objects inheriting properties directly from other objects - this is **prototypal inheritance**.
 
 
-## <a name="grammar"/> Grammar
+## Grammar
 
 Always use // for comments, even multi-line ones to avoid having to escape `/*` characters.
 
@@ -146,7 +146,7 @@ for (myvariable in object) {
 * [Avoid unnescessary state](avoid-state.js)
 * [Method Chaining](method-chaining.js)
 
-## <a name="objects"/> Objects
+## Objects
 
 Javascript simple types:
 * numbers _(has object-like methods but they are immutable)_
@@ -269,7 +269,7 @@ MYAPP.today = {
 * Note: **Most [Javascript MVCs](https://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/) these days (2014) will take care of wrapping your app for you**
 
 
-## <a name="functions"/> Functions
+## Functions
 > The best thing about JavaScript is its implementation of functions.
 
 ### Function Objects
@@ -291,7 +291,6 @@ function name (parameterA, parameterB){
 	statements;
 }
 ```
-<a name="nestedFunctions"/>
 * Functions can be nested within functions and the inner function can access all the parameters of the outer function as well as its own
 
 ### Invocation
@@ -494,7 +493,7 @@ send_request_asynchronously(request, function(response){     //function being pa
 });
 ```
 
-### <a name="Module"/> Module
+### Module
 
 * A module is a function or object whose contents can be used, but its state and implementation are hidden
 * It is essentially using function scope and closures keep the variables and functions contained within as private as well as binding them to a non-global object - **whilst still being accessible**
@@ -568,7 +567,7 @@ var memoizer = function (memo, fundamental) {
 ```
 
 
-## <a name="inheritance"/> Inheritance
+## Inheritance
 >Javascript is a prototypal language, which means that objects inherit directly from other objects
 
 Main benefit of inheritance is **code reuse** - you only have to specify differences.
@@ -640,7 +639,7 @@ var cat = function (spec) {
 }
 ```
 * Requires less effort and gives **better encapsulation** and **information hiding** than the pseudoclassical pattern, as well as **access to super methods** (see page 54 of book for super method example)
-* <a name="DurableObject"/> An **object** created using the functional pattern _and_ making **no use of `this` or `that`** is a _durable object_ and cannot be compromised by attackers
+* An **object** created using the functional pattern _and_ making **no use of `this` or `that`** is a _durable object_ and cannot be compromised by attackers
 	* Briefly also discussed in [Module](#Module) section above
 * If you do want something to have access to the object's private properties and methods, you pass it the `that` bundle (i.e. your 'container of secrets')
 
@@ -649,7 +648,7 @@ var cat = function (spec) {
 	* For example, you can create a function that provides the object it is passed with a number of methods (which are defined in this function), where each method is a part that is added to the object
 
 
-## <a name="arrays"/> Arrays
+## Arrays
 
 Javascript only has **array-like objects** which are slower than 'real' arrays.
 
@@ -727,7 +726,7 @@ Array.method('reduce', function (parameters){
 	* page 63 gives a method for this and for explicitly setting cell values so as not to have an empty matrix
 
 
-## <a name="regular-expressions"/> Regular Expressions
+## Regular Expressions
 > A _regular expression_ is the specification of the syntax of a simple language
 
 Used with `regexp.exec`, `regexp.test`, `string.match`, `string.replace`, `string.search` and `string.split` to interact with string (more in [Methods](#methods))
@@ -819,7 +818,7 @@ In `"into".match(/in|int/);`, the _in_ will be a match so it doesn't even look a
 
 A _regexp sequence_ is made up of one or more regexp [factors](#Factors). If there are no quantifiers after the factor (like `?`, `*` or `+`), the factor will be **matched one time**.
 
-#### <a name="Factors"/> Regexp Factor
+#### Regexp Factor
 
 > A _regexp factor_ can be a character, a parenthesized group, a character class, or an escape sequence.
 
@@ -848,12 +847,12 @@ As well as escaping special characters in regexp factors, the backslash has addi
 #### Regexp Group
 
 Four kinds of groups:
-* <a name="Capturing"/> **Capturing:** `(...)` where each group is captured into the `result` array - the first capturing group in the regexp goes into `result[1]`, the second into `result[2]` and so on
-* <a name="Noncapturing"/> **Noncapturing** `(?:...)` where the text is matched, but not captured and saved anywhere, making is _slightly faster_ than a capturing group (has no bearing on numbering of capturing groups)
+* **Capturing:** `(...)` where each group is captured into the `result` array - the first capturing group in the regexp goes into `result[1]`, the second into `result[2]` and so on
+* **Noncapturing** `(?:...)` where the text is matched, but not captured and saved anywhere, making is _slightly faster_ than a capturing group (has no bearing on numbering of capturing groups)
 * _Positive lookahead_, a **bad** part: `(?=...)` acts like a noncapturing group except after the match is made, it goes back to where text started
 * _Negative lookahead_, a **bad** part: `(?!...)` is like a positive lookahead but only matches if there is no match with what is in it
 
-#### <a name="RegexpClass"/> Regexp Class
+#### Regexp Class
 
 * Conveniently and easily specifies one of a set of characters using square brackets `[]`, for example vowels: `[aeiou]`
 * Can shorten specification of all 32 ASCII special characters to **[!-\/:-@\[-\`{-˜]** (note that the \` in this piece of code is a back-tick)
@@ -875,7 +874,7 @@ A _quantifier_ at the end of a factor indicates how many times the factor should
 **Prefer to use 'zero or more' or 'one or more' matching over the 'zero or one' matching** - i.e. prefer _greedy_ matching over _lazy_ matching
 
 
-## <a name="methods"/> Methods
+## Methods
 
 ### Arrays
 
@@ -1049,7 +1048,7 @@ Produces a **new string** from a series of numbers.
 _NB. You're calling the prototype here, not replacing 'String' with your own variable._
 
 
-## <a name="javascriptstyle"/> Style
+## javascript Style
 > JavaScripts's loose typing and excessive error tolerance provide little compile-time assurance of our programs' quality, so to compensate, we should code with strict discipline.
 
 * We should **avoid** the _bad parts_ of JavaScript, but also the **useful parts that can be occasionally dangerous**
@@ -1066,7 +1065,7 @@ _NB. You're calling the prototype here, not replacing 'String' with your own var
 > I use a single global variable to contain an application or library. Every object has its own namespace, so it is easy to use objects to organize my code. Use of closure provides further information hiding, increasing the strength of my modules.
 
 
-## <a name="beautiful-features"/> Beautiful Features
+## Beautiful Features
 
 Each feature you add to something has a lot of different costs (documentation costs, specification, design, testing and development costs) and these are often not properly accounted for.
 > Features that offer value to a minority of users impose a cost on all users
@@ -1074,7 +1073,7 @@ Each feature you add to something has a lot of different costs (documentation co
 > We cope with the complexity of feature-driven design by finding and sticking with the good parts. For example, microwaves do a ton of different things, but most people just use one setting, the timer and the clock. So why not design with just the good parts?
 
 
-## <a name="awful-parts"/> the Awful Parts
+## Awful Parts
 
 **Need to know what all the pitfalls are with these parts.**
 
@@ -1091,7 +1090,7 @@ Although JavaScript has block _syntax_ (i.e. is written in blocks) like a lot of
 
 Variables should all be declared at the top of the function and not littered throughout the block.
 
-### <a name="SemicolonInsertion"/> Semicolon Insertion
+### Semicolon Insertion
 Attempts to correct faulty programs by automatically inserting semicolons. **Do not depend on this** as it can hide underlying issues.
 
 Also ensure opening curly braces ({) are on the first line of a statement, otherwise semicolons will be erroneously inserted and cause problems:
@@ -1165,7 +1164,7 @@ JavaScript objects inherit members from the prototype chain so they are _never t
 
 To test for membership without prototype chain involvement, use the `hasOwnProperty` method or limit your results (for example, to specific types like number so you know you're not dragging in object members from up the prototype for example if that's what's causing the problem).
 
-## <a name="bad-parts"/> the Bad Parts
+## Bad Parts
 
 **Avoid these altogether**
 
@@ -1191,13 +1190,13 @@ To use JavaScript well, important to understand that **functions are values**.
 **Typed wrappers:**
 **Don't use `new Boolean` or `new String` or `new Number`**, it's completely unnecessary. Also avoid `new Object` and `new Array` and use `{}` and `[]` instead.
 
-**<a name="new"/>`new` operator:**
+**`new` operator:**
 Functions that are intended to be used with `new` (conventionally starting with a capital letter) should be avoided (don't define them) as they can cause all kinds of issues and complex bugs which are difficult to catch.
 
 **void**:
 In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is hugely confusing and not helpful. **Don't use it**.
 
-## <a name="effective-javascript"/> effective javascript
+## effective javascript
 
 * [beware of implicit coercions](beware-of-implicit-coercions.js)
 * [prefer primitives to Object Wrappers](prefer-primitives-to-obj-wrapper.js)
@@ -1211,11 +1210,11 @@ In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is
 * [prefer indirect  'eval' to direct 'eval'](prefer-indirect-to-direct-eval.js)
 * [minimize Use of the Global object](minimize-global-object.js)
 * [understand the difference between function, method, constructor calls](function-vs-method-vsconstructor.js)
-* [item 20](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_20.js)
-* [item 23](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_23.js)
-* [item 24](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_24.js)
-* [item 25](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_25.js)
-* [item 27](https://github.com/nickaigi/effective-javascript/blob/master/chapter_3/item_27.js)
+* [use 'call' to call methods with a custom receiver](call-methods-with-custom-receiver.js)
+* [never-modify-arguments-object](never-modify-arguments-object.js)
+* [use a variable to save a reference to 'arguments'](save-reference-to-arguments.js)
+* [use bind to extract methods with a fixed receiver](use-bind-extract-methods-fixed-receiver.js)
+* [prefer closures to strings for encapsulating code](prefer-closures-to-strings.js)
 * [item 30](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_30.js)
 * [item 31](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_31.js)
 * [item 33](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_33.js)
@@ -1246,7 +1245,7 @@ In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is
 
 
 
-## <a name="jslint"/> JSLint
+## JSLint
 
 JSLint is a **code quality tool** for JavaScript which checks your syntax.
 
