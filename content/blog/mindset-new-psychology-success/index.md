@@ -913,47 +913,14 @@ revision. Etc. Sometimes we call the last two-percenter a "pain in the ass." Tru
   - Hey, g-u-y-s:
     - If women are your/our primary customers (they usually are, commercial as well as consumer goods in the U.S.), knock off the likes of football analogies. If women are your/our primary customers, always (ALWAYS!) refer to the generic customer as ... "she." There's obviously lots and lots and lots more to this issue—it's been an obsession of mine since 1996. But ... language matters.
 
-101. Women Lead! (Can Men Learn to Be Good Sports About It?) A main message of The
-Little BIG Things deals with the-"soft"-stuff-that-is-really-the-"hard"-stuff that underpins
-organization and individual effectiveness. Fact is, a lot of "this stuff" (e.g., primacy of
-relationship development) comes pretty naturally to most women—and is Big News and a
-struggle to most males. Hence, I wonder sometimes, mostly as I toss and turn in bed, if this book,
-and its ilk, have much or any relevance to women. Or do some-many-most-damn near all women
-readers laugh themselves silly as, one more time, I treat the obvious as the un-obvious? (E.g.,
-"Listening is a ... Very Good Thing.") Consider just one compelling example, from "Gender 
-44
-Experiments Surprise Even the Experts," a chapter sub-title in Leadership and the Sexes: Using
+- **Women Lead! (Can Men Learn to Be Good Sports About It?)** A main message of The Little BIG Things deals with the-"soft"-stuff-that-is-really-the-"hard"-stuff that underpins organization and individual effectiveness. Fact is, a lot of "this stuff" (e.g., primacy of relationship development) comes pretty naturally to most women—and is Big News and a struggle to most males. Hence, I wonder sometimes, mostly as I toss and turn in bed, if this book, and its ilk, have much or any relevance to women. Or do some-many-most-damn near all women readers laugh themselves silly as, one more time, I treat the obvious as the un-obvious? (E.g., "Listening is a ... Very Good Thing.") Consider just one compelling example, from "Gender Experiments Surprise Even the Experts," a chapter sub-title in Leadership and the Sexes: Using
 Gender Science to Create Success in Business, by Michael Gurian and Barbara Annis:
-"In the 1990s, the Canadian Broadcasting Corporation/CBC created a short film that recorded an
-experiment in leadership styles between women and men. CBC didn't tell the participants the
-objective of the work they would do that day; the director simply divided the male and female
-leaders into two teams, and gave those team leaders the same directions: build an adventure
-camp. The teams were set up in a somewhat militaristic style at first, including team members
-wearing uniforms, but also with the caveat in place that the teams could alter their style and
-method as they wished as long as they met the outcome in time.
-"Leader one immediately created a rank-and-file hierarchy and gave orders, even going so far as
-to assert authority by challenging members on whether they had polished their shoes. Leader two
-did not have the 'troops' line up and be inspected, but instead met with the other team members in
-a circle, asking 'How are we doing? Are we ready?' 'Anything else we should do?' 'Do you think
-they'll test us on whether we've polished our shoes?' Instead of giving orders, leader two was
-touching team members on the arm to reassure them.
-"As part of the program, CBC arranged for corporate commentators to watch the teams prepare.
-Initially the commentators (mostly men) were not impressed by the leadership style of leader two;
-the second team wasn't 'under control,' members weren't lined up, and they 'lacked order' (or so
-it seemed). The commentators predicted that team two would not successfully complete the task.
-Yet, when the project was completed, team two had built an impressive adventure camp as good
-as team one's, with some aspects that were judged as better.
-"When de-briefing their observations, the commentators noticed that when team one was building
-the structures for the camp, there had been discord regarding who was in charge and who had
-completed which job and who hadn't. Team one exhibited a lack of communication during the
-process of completion that created problems (for example, 'Wasn't someone else supposed to do
-this?') Team two, on the other hand, took longer to do certain things, but because of its emphasis
-on communication and collaboration during the enactment of the task (such as 'Let's try this' and
-'What do you think about that?'), the team met the goal of building the adventure camp in its own
-positive way, and on time."
-Interesting, eh?
-Lessons to learn: Many & Profound.
-Over to you.
+  - "In the 1990s, the Canadian Broadcasting Corporation/CBC created a short film that recorded an experiment in leadership styles between women and men. CBC didn't tell the participants the objective of the work they would do that day; the director simply divided the male and female
+leaders into two teams, and gave those team leaders the same directions: build an adventure camp. The teams were set up in a somewhat militaristic style at first, including team members wearing uniforms, but also with the caveat in place that the teams could alter their style and method as they wished as long as they met the outcome in time.
+  - "Leader one immediately created a rank-and-file hierarchy and gave orders, even going so far as to assert authority by challenging members on whether they had polished their shoes. Leader two did not have the 'troops' line up and be inspected, but instead met with the other team members in a circle, asking 'How are we doing? Are we ready?' 'Anything else we should do?' 'Do you think they'll test us on whether we've polished our shoes?' Instead of giving orders, leader two was touching team members on the arm to reassure them. 
+  - "As part of the program, CBC arranged for corporate commentators to watch the teams prepare. Initially the commentators (mostly men) were not impressed by the leadership style of leader two; the second team wasn't 'under control,' members weren't lined up, and they 'lacked order' (or so it seemed). The commentators predicted that team two would not successfully complete the task. Yet, when the project was completed, team two had built an impressive adventure camp as good as team one's, with some aspects that were judged as better.
+  - "When de-briefing their observations, the commentators noticed that when team one was building the structures for the camp, there had been discord regarding who was in charge and who had completed which job and who hadn't. Team one exhibited a lack of communication during the process of completion that created problems (for example, 'Wasn't someone else supposed to do this?') Team two, on the other hand, took longer to do certain things, but because of its emphasis on communication and collaboration during the enactment of the task (such as 'Let's try this' and 'What do you think about that?'), the team met the goal of building the adventure camp in its own positive way, and on time."
+
 102. Men, "Get the Facts": Women Are Different. I love the writer Anita Shreve. I recently
 read her superb The Weight of Water. Few writers—and virtually no male writers, as I see it—
 deal so lucidly or movingly or in such depth, with life's painful tangles of relationships. Simple
