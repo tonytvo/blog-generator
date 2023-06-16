@@ -921,37 +921,16 @@ leaders into two teams, and gave those team leaders the same directions: build a
   - "As part of the program, CBC arranged for corporate commentators to watch the teams prepare. Initially the commentators (mostly men) were not impressed by the leadership style of leader two; the second team wasn't 'under control,' members weren't lined up, and they 'lacked order' (or so it seemed). The commentators predicted that team two would not successfully complete the task. Yet, when the project was completed, team two had built an impressive adventure camp as good as team one's, with some aspects that were judged as better.
   - "When de-briefing their observations, the commentators noticed that when team one was building the structures for the camp, there had been discord regarding who was in charge and who had completed which job and who hadn't. Team one exhibited a lack of communication during the process of completion that created problems (for example, 'Wasn't someone else supposed to do this?') Team two, on the other hand, took longer to do certain things, but because of its emphasis on communication and collaboration during the enactment of the task (such as 'Let's try this' and 'What do you think about that?'), the team met the goal of building the adventure camp in its own positive way, and on time."
 
-102. Men, "Get the Facts": Women Are Different. I love the writer Anita Shreve. I recently
-read her superb The Weight of Water. Few writers—and virtually no male writers, as I see it—
-deal so lucidly or movingly or in such depth, with life's painful tangles of relationships. Simple
-fact: Women by and large instinctively appreciate complex, inchoate sets of human relationships.
-Men are more or less clueless. (Research, including recent neurobiological research, increasingly
-supports this dichotomy.) Translating this into the emotion-driven, all-important-these-days
-world of design, I have by and large concluded, after 1.5 decades of study and writing and
-contemplation:
-MEN CANNOT EFFECTIVELY DESIGN PRODUCTS-SERVICES-EXPERIENCES FOR
-WOMEN.
-MEN CANNOT EFFECTIVELY SELL OR MARKET TO WOMEN.
-MEN WHO DISAGREE WITH THIS ARE DELUSIONAL.
-45
-I can't change that, hard as I may try. But I can do ... something (and so can you):
-I PLEDGE ... THAT I WILL NEVER ENGAGE IN ANY SORT OF DISCUSSION OF
-PRODUCTS-SERVICES-EXPERIENCES THAT INCLUDE WOMEN AS CUSTOMERSCLIENTS, UNLESS ONE THIRD OR MORE OF THOSE PRESENT AND IN POSITIONS OF
-AUTHORITY ARE WOMEN.
-I PLEDGE ... THAT I WILL WORK TIRELESSLY TO ENSURE THAT WOMEN'S VIEWS
-ARE HEARD FIRST & LAST AND ARE CLEARLY INCORPORATED IN A
-COMMANDING WAY IN ANY AND ALL ACTION PLANS INVOLVING THE
-DEVELOPMENT AND MARKETING OF OUR PRODUCTS AND SERVICES.
-I FURTHER PLEDGE ... THAT I WILL BECOME A "PIONEER" IN GETTING WOMENCENTRIC VIEWS CLEARLY INTO THE MAINSTREAM—AND WILL WORK
-TIRELESSLY TO ENSURE THAT WOMEN'S REPRESENTATION IN ANY AND ALL
-LEADERSHIP POSITIONS IS AT LEAST CONSISTENT WITH THE SHAPE OF THE
-MARKETS WE SERVE OR WISH TO SERVE.
-(I'm not asking you to follow this slavishly—obviously there's no reason to think you would. And
-I know I've become a radical on this topic—not as a matter of social justice, but instead for
-reasons economic, namely the enormity of the opportunity and the fact that so few "get it"
-"strategically" and thus "leave so much on the table." On the other hand, I think it'd be hard to
-dispute a more or less "pledge" that's more or less like what you see here. Your call, obviously—
-why not discuss it with colleagues?)
+- **Men, "Get the Facts": Women Are Different**. I love the writer Anita Shreve. I recently read her superb The Weight of Water. Few writers—and virtually no male writers, as I see it— deal so lucidly or movingly or in such depth, with life's painful tangles of relationships. Simple fact: Women by and large instinctively appreciate complex, inchoate sets of human relationships. Men are more or less clueless. (Research, including recent neurobiological research, increasingly supports this dichotomy.) Translating this into the emotion-driven, all-important-these-days
+world of design, I have by and large concluded, after 1.5 decades of study and writing and contemplation:
+  - MEN CANNOT EFFECTIVELY DESIGN PRODUCTS-SERVICES-EXPERIENCES FOR WOMEN.
+  - MEN CANNOT EFFECTIVELY SELL OR MARKET TO WOMEN.
+  - MEN WHO DISAGREE WITH THIS ARE DELUSIONAL.
+  - I can't change that, hard as I may try. But I can do ... something (and so can you):
+    - I PLEDGE ... THAT I WILL NEVER ENGAGE IN ANY SORT OF DISCUSSION OF PRODUCTS-SERVICES-EXPERIENCES THAT INCLUDE WOMEN AS CUSTOMERS CLIENTS, UNLESS ONE THIRD OR MORE OF THOSE PRESENT AND IN POSITIONS OF AUTHORITY ARE WOMEN.
+    - I PLEDGE ... THAT I WILL WORK TIRELESSLY TO ENSURE THAT WOMEN'S VIEWS ARE HEARD FIRST & LAST AND ARE CLEARLY INCORPORATED IN A COMMANDING WAY IN ANY AND ALL ACTION PLANS INVOLVING THE DEVELOPMENT AND MARKETING OF OUR PRODUCTS AND SERVICES.
+    - I FURTHER PLEDGE ... THAT I WILL BECOME A "PIONEER" IN GETTING WOMENCENTRIC VIEWS CLEARLY INTO THE MAINSTREAM—AND WILL WORK TIRELESSLY TO ENSURE THAT WOMEN'S REPRESENTATION IN ANY AND ALL LEADERSHIP POSITIONS IS AT LEAST CONSISTENT WITH THE SHAPE OF THE MARKETS WE SERVE OR WISH TO SERVE.
+
 103. Dressed for Success? Or: What the History of the Women's Suffrage Movement
 Taught Me About Innovation. I cross-dressed for the first time on March 31, 2007. I went to
 a local (Dorset VT) costume party, and tried valiantly to represent Elizabeth Cady Stanton,
