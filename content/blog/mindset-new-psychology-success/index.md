@@ -931,41 +931,15 @@ world of design, I have by and large concluded, after 1.5 decades of study and w
     - I PLEDGE ... THAT I WILL WORK TIRELESSLY TO ENSURE THAT WOMEN'S VIEWS ARE HEARD FIRST & LAST AND ARE CLEARLY INCORPORATED IN A COMMANDING WAY IN ANY AND ALL ACTION PLANS INVOLVING THE DEVELOPMENT AND MARKETING OF OUR PRODUCTS AND SERVICES.
     - I FURTHER PLEDGE ... THAT I WILL BECOME A "PIONEER" IN GETTING WOMENCENTRIC VIEWS CLEARLY INTO THE MAINSTREAM—AND WILL WORK TIRELESSLY TO ENSURE THAT WOMEN'S REPRESENTATION IN ANY AND ALL LEADERSHIP POSITIONS IS AT LEAST CONSISTENT WITH THE SHAPE OF THE MARKETS WE SERVE OR WISH TO SERVE.
 
-103. Dressed for Success? Or: What the History of the Women's Suffrage Movement
-Taught Me About Innovation. I cross-dressed for the first time on March 31, 2007. I went to
-a local (Dorset VT) costume party, and tried valiantly to represent Elizabeth Cady Stanton,
-rightfully called the Mother of the American Women's Rights/Women's Suffrage Movement. I
-was shamefaced as I prepared to play Ms. Stanton-for-an-evening—shamed, after almost fifteen
-years of loudly and doggedly championing change to women's still diminished role in business
-and government, that I was almost totally ignorant of the astounding history of the American
-Women's Rights Movement. This story describes a personal journey (mine) away from ignorance,
-a journey that was, well, a blast—and, I believe, important. (I now speak noisily for far greater
-attention to the history of the women's movement—still woefully skimpy; a condition not
-corrected to this day.) I also dwell on this story because innovation, including social innovation,
-is the "business" theme nearest and dearest to my professional heart—and the most important
-business issue of this and, frankly, every era. It is my longstanding argument that all innovation is
-irrational, non-linear, and anything but the product of plans and focus groups; it is instead about
-anger to the point of rage that eventually boils over (from suffrage to the personal computer); "a
-little band of brothers" (whoops, the five Great Sisters of Seneca Falls and a slew of successors);
-willingness to suffer vicious smear attacks and unspeakable opprobrium of both a professional
-and personal nature, passion (!!!); relentlessness(!!!—72 years, 1 month and 7 days—from lunch
-at Seneca Falls on July 13, 1848 through 909 (!!) political campaigns to ratification of the 19th
-Amendment by Tennessee, the 36th state to do so, courtesy a 49-47 vote on August 18, 1920);
-resilience to deal with setback upon setback upon setback.
-All the above made the sacrifice of wearing a wig and a long dress for five hours, in honor of
-Elizabeth Cady Stanton, seem like small beer! My hero, Ms. Stanton, per Elisabeth Griffith, In
-Her Own Right: The Life of Elizabeth Cady Stanton:
-46
-"She was defeated again and again and again, but she continued the struggle with passionate
-impatience."
-"She had survived her husband, outlived most of her enemies, and exhausted her allies. Her mind
-remained alert, her mood optimistic, and her manner combative." [ECS 80th birthday celebration,
-attended by 6,000 people]
-Lessons? I've got just one:
-A record of 1 win and 908 losses [a "batting average" of .001 in 909 political campaigns] is just
-fine & dandy—and more than good enough for the Hall of Fame—if the cause is worth the effort
-and pain and personal opprobrium!
-INNOVATION
+- **Dressed for Success? Or: What the History of the Women's Suffrage Movement Taught Me About Innovation**
+  - The Life of Elizabeth Cady Stanton:
+    - *"She was defeated again and again and again, but she continued the struggle with passionate impatience."*
+    - *"She had survived her husband, outlived most of her enemies, and exhausted her allies. Her mind remained alert, her mood optimistic, and her manner combative." [ECS 80th birthday celebration, attended by 6,000 people]*
+  - Lessons? I've got just one:
+    - **A record of 1 win and 908 losses [a "batting average" of .001 in 909 political campaigns] is just fine & dandy—and more than good enough for the Hall of Fame—if the cause is worth the effort and pain and personal opprobrium!**
+
+## INNOVATION
+
 104. The Audacity of ... Research!
 In good times and bad. There are lots of sexy innovation strategies—I've championed many of
 them. But there's also good, old-fashioned spending on R&D—and protecting-the-hell-out-of
