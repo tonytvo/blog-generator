@@ -940,33 +940,24 @@ world of design, I have by and large concluded, after 1.5 decades of study and w
 
 ## INNOVATION
 
-104. The Audacity of ... Research!
-In good times and bad. There are lots of sexy innovation strategies—I've championed many of
-them. But there's also good, old-fashioned spending on R&D—and protecting-the-hell-out-of
-R&D in tough times.
-In big firms and small. Aggressive R&D is not just the provenance of the big company. In fact, it
-is arguably more important to the 2-person Professional Service Firm than the lumbering giant.
-In every department. AGGRESSIVE R&D IS AS IMPORTANT IN FINANCE and
-PURCHASING and HR and LOGISTICS as in IT or NEW PRODUCT DEVELOPMENT!!!
-Throughout the "supply chain!" Having vendors, suppliers, customers, etc., that are top-quartile
-in R&D spending in their industries is of the utmost importance.
-In Systems! Innovative systems are as important as innovative products.
-By giving everyone "play" money—think "Micro-R&D." Giving everyone in the organization the
-opportunity to get their hands on a few bucks (and a mentor) in order to play around (right term)
-with a new idea is essential.
-By thinking "Venture Capital." Internal VC funds can run to billions of $$$ at an Intel, but the
-animating idea is to cast a wide, speculative net for potential investments. This could mean, for a
-restaurant owner, the likes of a $10,000 scholarship for a star-in-the-making chef to attend a topflight cooking course in France.
-By reaching out to universities. Associations, large and small, with research universities are an
-important part of the innovative enterprise's R&D strategy.
-105. Adhocracy—Love It or Leave It. In my experience, most truly innovative projects
+- **The Audacity of ... Research!**
+  - *In good times and bad*. There are lots of sexy innovation strategies—I've championed many of them. But there's also good, old-fashioned spending on R&D—and protecting-the-hell-out-of R&D in tough times.
+  - *In big firms and small*. Aggressive R&D is not just the provenance of the big company. In fact, it is arguably more important to the 2-person Professional Service Firm than the lumbering giant.
+  - *In every department*. AGGRESSIVE R&D IS AS IMPORTANT IN FINANCE and PURCHASING and HR and LOGISTICS as in IT or NEW PRODUCT DEVELOPMENT!!!
+  - *Throughout the "supply chain!"* Having vendors, suppliers, customers, etc., that are top-quartile in R&D spending in their industries is of the utmost importance.
+  - *In Systems*! Innovative systems are as important as innovative products.
+  - *By giving everyone "play" money—think "Micro-R&D."* Giving everyone in the organization the opportunity to get their hands on a few bucks (and a mentor) in order to play around (right term) with a new idea is essential.
+  - *By thinking "Venture Capital."* Internal VC funds can run to billions of $$$ at an Intel, but the animating idea is to cast a wide, speculative net for potential investments. This could mean, for a restaurant owner, the likes of a $10,000 scholarship for a star-in-the-making chef to attend a topflight cooking course in France.
+  - *By reaching out to universities*. Associations, large and small, with research universities are an important part of the innovative enterprise's R&D strategy.
+
+1.   Adhocracy—Love It or Leave It. In my experience, most truly innovative projects
 invent themselves, as opposed to being the product of a formal planning process; and their
 growth, too, is mostly organic, and constantly punctuated by odd twists and turns. An effective
 culture of innovation, then, is largely ad hoc—which drives many traditional senior managers 
 47
 crazy. To them, "adhocracy" is little better than "mobocracy." But if they can't "get it," they don't
 belong.
-106. Beyond Excellence: The "Berserk Standard."
+1.   Beyond Excellence: The "Berserk Standard."
 Amazon has changed the world.
 eBay has changed the world.
 Craigslist has changed the world—put about a zillion nails in the coffins of newspapers, among
@@ -980,7 +971,7 @@ There is more than one way to skin a cat—even a thoroughly modern cat.
 Message: Never get seriously underway on a project of any sort until you've surfaced a couple of
 ideas that score perfect 10s, or at least 8s, on what I call … The Berserk Scale—e.g. 14,000 or
 20,000 vs. 30.
-107. Out of the Shadows: Skunkworks, Revisited. Lockheed invented the term "Skunk
+1.   Out of the Shadows: Skunkworks, Revisited. Lockheed invented the term "Skunk
 Works"—a small unit born in 1943 and based in Burbank, CA, that used a totally unconventional
 approach to developing essential military aircraft such as the famous SR-71 Blackbird spy plane,
 a pillar of our Cold War tactical package, in record time at minimum cost with maximum
@@ -997,7 +988,7 @@ have used these units to great—yes, earth-shattering—advantage.) The idea as
 was picked up by numerous companies-e.g., a Pitney Bowes unit rented an unused restaurant
 about 12 miles from HQ, and a little team-of-more-or-less-freaks cobbled together a remarkable
 product in a few weeks.
-108. S.A.V. (No, It's Not a Kind of Truck.)
+1.   S.A.V. (No, It's Not a Kind of Truck.)
 
 "If I had said 'yes' to all the projects I turned down and 'no' to all the ones I took, it would have
 worked out about the same."—David Picker, movie studio exec, quoted in William Goldman's
