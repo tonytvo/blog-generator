@@ -950,13 +950,9 @@ world of design, I have by and large concluded, after 1.5 decades of study and w
   - *By thinking "Venture Capital."* Internal VC funds can run to billions of $$$ at an Intel, but the animating idea is to cast a wide, speculative net for potential investments. This could mean, for a restaurant owner, the likes of a $10,000 scholarship for a star-in-the-making chef to attend a topflight cooking course in France.
   - *By reaching out to universities*. Associations, large and small, with research universities are an important part of the innovative enterprise's R&D strategy.
 
-1.   Adhocracy—Love It or Leave It. In my experience, most truly innovative projects
-invent themselves, as opposed to being the product of a formal planning process; and their
-growth, too, is mostly organic, and constantly punctuated by odd twists and turns. An effective
-culture of innovation, then, is largely ad hoc—which drives many traditional senior managers 
-47
-crazy. To them, "adhocracy" is little better than "mobocracy." But if they can't "get it," they don't
-belong.
+- **Adhocracy—Love It or Leave It**. In my experience, most truly innovative projects invent themselves, as opposed to being the product of a formal planning process; and their growth, too, is mostly organic, and constantly punctuated by odd twists and turns. An effective
+culture of innovation, then, is largely ad hoc—which drives many traditional senior managers crazy. To them, "adhocracy" is little better than "mobocracy." But if they can't "get it," they don't belong.
+
 1.   Beyond Excellence: The "Berserk Standard."
 Amazon has changed the world.
 eBay has changed the world.
