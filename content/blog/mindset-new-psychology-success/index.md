@@ -953,20 +953,16 @@ world of design, I have by and large concluded, after 1.5 decades of study and w
 - **Adhocracy—Love It or Leave It**. In my experience, most truly innovative projects invent themselves, as opposed to being the product of a formal planning process; and their growth, too, is mostly organic, and constantly punctuated by odd twists and turns. An effective
 culture of innovation, then, is largely ad hoc—which drives many traditional senior managers crazy. To them, "adhocracy" is little better than "mobocracy." But if they can't "get it," they don't belong.
 
-1.   Beyond Excellence: The "Berserk Standard."
-Amazon has changed the world.
-eBay has changed the world.
-Craigslist has changed the world—put about a zillion nails in the coffins of newspapers, among
-many other Richter 8.0+ things. Craigslist has more traffic than Amazon or eBay; though a
-private company, Craigslist has a projected market capitalization numbering in the billions of
-dollars.
-Amazon has 20,000 employees.
-eBay has 16,000 employees.
-Craigslist has ... 30 employees.
-There is more than one way to skin a cat—even a thoroughly modern cat.
-Message: Never get seriously underway on a project of any sort until you've surfaced a couple of
-ideas that score perfect 10s, or at least 8s, on what I call … The Berserk Scale—e.g. 14,000 or
-20,000 vs. 30.
+- **Beyond Excellence: The "Berserk Standard."**
+  - Amazon has changed the world.
+  - eBay has changed the world.
+  - Craigslist has changed the world—put about a zillion nails in the coffins of newspapers, among many other Richter 8.0+ things. Craigslist has more traffic than Amazon or eBay; though a private company, Craigslist has a projected market capitalization numbering in the billions of dollars.
+  - Amazon has 20,000 employees.
+  - eBay has 16,000 employees.
+  - Craigslist has ... 30 employees.
+  - There is more than one way to skin a cat—even a thoroughly modern cat. 
+  - Message: Never get seriously underway on a project of any sort until you've surfaced a couple of ideas that score perfect 10s, or at least 8s, on what I call … The Berserk Scale—e.g. 14,000 or 20,000 vs. 30.
+
 1.   Out of the Shadows: Skunkworks, Revisited. Lockheed invented the term "Skunk
 Works"—a small unit born in 1943 and based in Burbank, CA, that used a totally unconventional
 approach to developing essential military aircraft such as the famous SR-71 Blackbird spy plane,
