@@ -963,23 +963,9 @@ culture of innovation, then, is largely ad hoc—which drives many traditional s
   - There is more than one way to skin a cat—even a thoroughly modern cat. 
   - Message: Never get seriously underway on a project of any sort until you've surfaced a couple of ideas that score perfect 10s, or at least 8s, on what I call … The Berserk Scale—e.g. 14,000 or 20,000 vs. 30.
 
-1.   Out of the Shadows: Skunkworks, Revisited. Lockheed invented the term "Skunk
-Works"—a small unit born in 1943 and based in Burbank, CA, that used a totally unconventional
-approach to developing essential military aircraft such as the famous SR-71 Blackbird spy plane,
-a pillar of our Cold War tactical package, in record time at minimum cost with maximum
-innovation executed by an astonishingly small group of astonishingly motivated people. (Their 1st
-project was the XP80, the 1st tactical jet fighter—75 guys, 143 days start to prototype.) I came
-across the Skunk Works in the early 1980s—and immediately fell madly in love. I had long been
-convinced that "normal pathways" would not yield innovation at Big Companies. And I was on
-the lookout for byways—places that stunk to the reigning bureaucrats. And Skunk Works, or
-Skunkworks as I prefer, filled the bill perfectly.
-So the generic "Skunk Works idea" is a "band of brothers and sisters," contrarian in nature and
-determined to do it their own way, who live in the netherworld, who stink-up-the-central-culture
-as they pursue what they believe is an earth-shattering dream. (Companies like Xerox and Apple
-have used these units to great—yes, earth-shattering—advantage.) The idea as we packaged it
-was picked up by numerous companies-e.g., a Pitney Bowes unit rented an unused restaurant
-about 12 miles from HQ, and a little team-of-more-or-less-freaks cobbled together a remarkable
-product in a few weeks.
+- **Out of the Shadows: Skunkworks, Revisited**. Lockheed invented the term "Skunk Works"—a small unit born in 1943 and based in Burbank, CA, that used a totally unconventional approach to developing essential military aircraft such as the famous SR-71 Blackbird spy plane, a pillar of our Cold War tactical package, in record time at minimum cost with maximum innovation executed by an astonishingly small group of astonishingly motivated people. (Their 1st project was the XP80, the 1st tactical jet fighter—75 guys, 143 days start to prototype.) I came across the Skunk Works in the early 1980s—and immediately fell madly in love. I had long been convinced that "normal pathways" would not yield innovation at Big Companies. And I was on the lookout for byways—places that stunk to the reigning bureaucrats. And Skunk Works, or Skunkworks as I prefer, filled the bill perfectly.
+  - So the generic "Skunk Works idea" is a "band of brothers and sisters," contrarian in nature and determined to do it their own way, who live in the netherworld, who stink-up-the-central-culture as they pursue what they believe is an earth-shattering dream. (Companies like Xerox and Apple have used these units to great—yes, earth-shattering—advantage.) The idea as we packaged it was picked up by numerous companies-e.g., a Pitney Bowes unit rented an unused restaurant about 12 miles from HQ, and a little team-of-more-or-less-freaks cobbled together a remarkable product in a few weeks.
+
 1.   S.A.V. (No, It's Not a Kind of Truck.)
 
 "If I had said 'yes' to all the projects I turned down and 'no' to all the ones I took, it would have
