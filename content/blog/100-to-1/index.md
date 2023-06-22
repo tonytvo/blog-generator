@@ -449,7 +449,7 @@ tags: ["valueinvesting", "investing"]
   - JUST HOLD ON GOOD QUALITY STOCKS IS EVERYMAN’S REPLICABLE APPROACH .
   - Very few people are successful traders while there is long list of successful investors
   - In the markets, you can find all kinds of crazy success stories, such as the improbable traders of Market Wizards fame—including Jim Rogers,
-Paul Tudor Jones and Michael Steinhardt—. These never interested me, for many reasons, but one big reason is they struck me as freakish. The gains were enormous, but the process was not replicable—certainly not by the everyman.
+  - Paul Tudor Jones and Michael Steinhardt—. These never interested me, for many reasons, but one big reason is they struck me as freakish. The gains were enormous, but the process was not replicable—certainly not by the everyman.
   - You’ve also seen how ordinary people can achieve the lofty returns of 100-bagger dom by simply holding onto good stocks. You don’t have to have an MBA or work at a hedge fund.
   - It seems so simple, but few actually ever achieve it by holding for years
   - To make money in stocks, you need to have vision to see them, courage to buy them and patience to hold them. Patience is the rarest of the three.
@@ -457,8 +457,7 @@ Paul Tudor Jones and Michael Steinhardt—. These never interested me, for many 
 
 - ***DIGEST VOLATILITY (UPS N DOWNS)***
   - The biggest hurdle to making 100 times your money in a stock—or even just tripling it—may be the ability to stomach the ups and downs and hold on.
-  - The problem isn’t only that we’re impatient. It’s that the ride is not
-often easy
+  - The problem isn’t only that we’re impatient. It’s that the ride is not often easy
   - Netflix, which has been a 60-bagger since 2002, lost 25 percent of its value in a single day—four times! On its worst day, it fell 41 percent. And there was a four-month stretch where it dropped 80 percent
   - Apple from its IPO in 1980 through 2012 was a 225-bagger. But... Those who held on had to suffer through a peak-to-trough loss of 80 percent—twice! The big move from 2008 came after a 60 percent drawdown. And there were several 40 percent drops. Many big winners suffered similar awful losses along the way
 
@@ -478,7 +477,7 @@ often easy
 ## WHEN TO SELL
 
 - Sometimes worth selling to get into a better stock but after taxes, etc. it has to be much, much better
-- 
+
 - ***YOU SHOULD BE RELUCTANT SELLER***
 
   - If you are hunting for 100-baggers, you must learn to sit on your ass. Buy right and sit tight.
@@ -491,7 +490,7 @@ often easy
 
     - You’ve made a mistake in original purchase
 
-    - The stock no longer meets your investment criteria(change in fundaments)
+    - The stock no longer meets your investment criteria (change in fundaments)
 
     - Better opportunity
 
@@ -535,7 +534,7 @@ often easy
 
 - **MANAGEMENT**
 
-  - Reading conference-call transcripts is better than listening to them(visiting them).
+  - Reading conference-call transcripts is better than listening to them (visiting them).
   - In summary, it is “best to keep management at a distance.
 
   - **On Boards**
