@@ -966,22 +966,15 @@ culture of innovation, then, is largely ad hoc—which drives many traditional s
 - **Out of the Shadows: Skunkworks, Revisited**. Lockheed invented the term "Skunk Works"—a small unit born in 1943 and based in Burbank, CA, that used a totally unconventional approach to developing essential military aircraft such as the famous SR-71 Blackbird spy plane, a pillar of our Cold War tactical package, in record time at minimum cost with maximum innovation executed by an astonishingly small group of astonishingly motivated people. (Their 1st project was the XP80, the 1st tactical jet fighter—75 guys, 143 days start to prototype.) I came across the Skunk Works in the early 1980s—and immediately fell madly in love. I had long been convinced that "normal pathways" would not yield innovation at Big Companies. And I was on the lookout for byways—places that stunk to the reigning bureaucrats. And Skunk Works, or Skunkworks as I prefer, filled the bill perfectly.
   - So the generic "Skunk Works idea" is a "band of brothers and sisters," contrarian in nature and determined to do it their own way, who live in the netherworld, who stink-up-the-central-culture as they pursue what they believe is an earth-shattering dream. (Companies like Xerox and Apple have used these units to great—yes, earth-shattering—advantage.) The idea as we packaged it was picked up by numerous companies-e.g., a Pitney Bowes unit rented an unused restaurant about 12 miles from HQ, and a little team-of-more-or-less-freaks cobbled together a remarkable product in a few weeks.
 
-1.   S.A.V. (No, It's Not a Kind of Truck.)
+- **S.A.V. (No, It's Not a Kind of Truck.)**
 
-"If I had said 'yes' to all the projects I turned down and 'no' to all the ones I took, it would have
-worked out about the same."—David Picker, movie studio exec, quoted in William Goldman's
-classic Adventures in the Screen Trade (cited by Caltech physics professor and author Leonard
-Mlodinow in The Drunkard's Walk: How Randomness Rules Our Lives)
-"Ever notice that 'What the hell' is always the right decision?"—a shrewd observation, attributed
-to an unknown Hollywood scriptwriter 
-48
-If, as I fervently believe ... Randomness Rules Our Lives ... then your ... only (logical) ... defense
-is-must be taking refuge in the message of the so-called "law of large numbers"—that is, any
-success follows from tryin' enough stuff so that the odds of doin' something right tilt your way.
-Ultimate & Perhaps Only "Sure-fire" Winning Formula:
-S.A.V.*
-*Screw Around Vigorously.
-109. What Have You Prototyped Lately?
+  - "If I had said 'yes' to all the projects I turned down and 'no' to all the ones I took, it would have worked out about the same."—David Picker, movie studio exec, quoted in William Goldman's
+classic Adventures in the Screen Trade (cited by Caltech physics professor and author Leonard Mlodinow in The Drunkard's Walk: How Randomness Rules Our Lives) 
+  - "Ever notice that 'What the hell' is always the right decision?"—a shrewd observation, attributed to an unknown Hollywood scriptwriter If, as I fervently believe ... Randomness Rules Our Lives ... then your ... only (logical) ... defense is-must be taking refuge in the message of the so-called "law of large numbers"—that is, any success follows from tryin' enough stuff so that the odds of doin' something right tilt your way.
+  - Ultimate & Perhaps Only "Sure-fire" Winning Formula:
+    - S.A.V. = Screw Around Vigorously.
+
+1.   What Have You Prototyped Lately?
 "Effective prototyping may be the most valuable core competence an innovative organization can
 hope to have."—Michael Schrage
 "You can't be a serious innovator unless and until you are ready, willing and able to seriously
@@ -994,7 +987,7 @@ minutes ... to make a wee, concrete step forward toward solving a problem or cre
 opportunity. My colleagues and I call this the ... "Quick Prototype Attitude." MIT's Michael
 Schrage tells us that innovation ... is ... the reaction to a prototype. To move forward, you must
 have some eighth-baked thing to talk about and shoot at and tinker with ... ASAP.
-110. Hell Hath No Fury: Celebrate "Disturbers of the Peace."
+1.   Hell Hath No Fury: Celebrate "Disturbers of the Peace."
 "What drove Trippe? A fury that the future was always being hijacked by people with smaller
 ideas—by his first partners who did not want to expand airmail routes; by nations that protected
 flag carriers with subsidies; by elitists who regarded flight, like luxury liners, as a privilege to be
@@ -1011,7 +1004,7 @@ of these Powerful Guardians of Yesterday, and come out the other end in tact, sh
 pumped up 100.00% of the time, and equipped with very thick skin indeed—that is, really truly
 pissed off with the way things are.
 49
-111. The Innovation10: What We Know So Far ... Libraries are full of books written about
+1.   The Innovation10: What We Know So Far ... Libraries are full of books written about
 innovation. Nonetheless, I felt a pressing need here to devote an item to summarizing my four
 decades of noodling on this subject:
 (1) Try it. Repeat. Repeat. Repeat. He who tries the most stuff wins.
@@ -1038,7 +1031,7 @@ innovation. If you are assessing a 26-year-old candidate and there are no cases-
 mischievousness about innovative organizations—not fun & games, but pleasure in sticking a
 finger in convention's eye, especially one or more of our own conventions.
 LISTENING
-112. Now Hear This! Listening Is the Ultimate "Core Competence."
+1.   Now Hear This! Listening Is the Ultimate "Core Competence."
 Listening* is ...
 (*And when you read "listening," please substitute "OBSESSION with listening.)
 Listening is ... the ultimate mark of Respect.
@@ -1092,7 +1085,7 @@ If you agree, what are you going to do about it ... at your NEXT meeting?
 If you agree, what are you going to do about it ... by the end of the DAY?
 If you agree, what are you going to do about it ... in the next 30 DAYS?
 If you agree, what are you going to do about it ... in the next 12 MONTHS?
-113. Are You an "18-Second Manager"?
+1.   Are You an "18-Second Manager"?
 "He [Christopher] had learned when he was still very young that if he kept quiet, the other
 person would eventually fill the silence: 'Everyone has a story to tell, if only you have the
 patience to wait for it and not get in the way of it.'"—Charles McCarry, Christopher's Ghosts, on
@@ -1107,7 +1100,7 @@ as among docs.
 So ...
 Stop.
 Quit bloody interrupting.
-114. Get the Story.
+1.   Get the Story.
 "It was much later that I realized Dad's secret. He gained respect by giving it. He talked and
 listened to the fourth-grade kids in Spring Valley who shined shoes the same way he talked and
 listened to a bishop or a college president. He was seriously interested in who you were and what
