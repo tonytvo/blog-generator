@@ -1051,21 +1051,10 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
   - If you agree, what are you going to do about it ... in the next 30 DAYS?
   - If you agree, what are you going to do about it ... in the next 12 MONTHS?
 
-1.   Are You an "18-Second Manager"?
-"He [Christopher] had learned when he was still very young that if he kept quiet, the other
-person would eventually fill the silence: 'Everyone has a story to tell, if only you have the
-patience to wait for it and not get in the way of it.'"—Charles McCarry, Christopher's Ghosts, on
-the protagonist, Paul Christopher, a CIA field officer
-In How Doctors Think, Dr. Jerome Groopman reports that ... the best source of evidence ... on a
-patient's malady is ... the patient. Then he trundles out research demonstrating that docs interrupt
-their patients, on average, 18 seconds after the patient starts speaking. I cannot point to equivalent
-research (though it's doubtless out there), but I will bet you a beer, or a 6-pack, or a case, or a Bud 
-51
-truck's full of brew that there are, per capita, as many "18-second interrupters" among managers
-as among docs.
-So ...
-Stop.
-Quit bloody interrupting.
+- **Are You an "18-Second Manager"?**
+- In How Doctors Think, Dr. Jerome Groopman reports that ... the best source of evidence ... on a patient's malady is ... the patient. Then he trundles out research demonstrating that docs interrupt their patients, on average, 18 seconds after the patient starts speaking. I cannot point to equivalent research (though it's doubtless out there), but I will bet you a beer, or a 6-pack, or a case, or a Bud  truck's full of brew that there are, per capita, as many "18-second interrupters" among managers as among docs.
+- So ... Stop. Quit bloody interrupting.
+
 1.   Get the Story.
 "It was much later that I realized Dad's secret. He gained respect by giving it. He talked and
 listened to the fourth-grade kids in Spring Valley who shined shoes the same way he talked and
