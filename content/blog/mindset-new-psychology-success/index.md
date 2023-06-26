@@ -1055,15 +1055,13 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
 - In How Doctors Think, Dr. Jerome Groopman reports that ... the best source of evidence ... on a patient's malady is ... the patient. Then he trundles out research demonstrating that docs interrupt their patients, on average, 18 seconds after the patient starts speaking. I cannot point to equivalent research (though it's doubtless out there), but I will bet you a beer, or a 6-pack, or a case, or a Bud  truck's full of brew that there are, per capita, as many "18-second interrupters" among managers as among docs.
 - So ... Stop. Quit bloody interrupting.
 
-1.   Get the Story.
-"It was much later that I realized Dad's secret. He gained respect by giving it. He talked and
-listened to the fourth-grade kids in Spring Valley who shined shoes the same way he talked and
-listened to a bishop or a college president. He was seriously interested in who you were and what
-you had to say."—From Respect by Harvard professor Sara Lawrence-Lightfoot
-Everybody has a story!
-It's your job-opportunity ... as consultant, boss, project-peer, whatever ... to get it!
-"Get it" as in extract it—and as in understand it and hence understand, a bit, the storyteller.
-SPECIAL SECTION: Quotations 34
+- **Get the Story.**
+
+- "It was much later that I realized Dad's secret. He gained respect by giving it. He talked and listened to the fourth-grade kids in Spring Valley who shined shoes the same way he talked and listened to a bishop or a college president. He was seriously interested in who you were and what you had to say."—From Respect by Harvard professor Sara Lawrence-Lightfoot
+- Everybody has a story!
+- It's your job-opportunity ... as consultant, boss, project-peer, whatever ... to get it! "Get it" as in extract it—and as in understand it and hence understand, a bit, the storyteller.
+
+- **SPECIAL SECTION: Quotations 34**
 
 A few of my favorites from the set:
 "Ph.D. in leadership. Short course: Make a short list of all things done to you that you abhorred.
@@ -1091,7 +1089,7 @@ preserved piece, but to skid across the line broadside, thoroughly used up, worn
 shouting ... 'GERONIMO!'"—Bill McKenna, professional motorcycle racer
 CURIOSITY
 
-115. If You Have to Ask ... Then Ask (and Ask and Ask.)
+1.   If You Have to Ask ... Then Ask (and Ask and Ask.)
 "I don't invest in anything I don't understand."—Warren Buffett
 One translation:
 "I shall lead the league in Asking Dumb Questions."
@@ -1103,7 +1101,7 @@ One translation:
 little more slowly?'"
 "I shall evaluate others in part on their skill and persistence at ... Asking Dumb Questions."
 "We shall hire in part on perceived or measured Instinctive Curiosity." (For every slot.)
-116. Reward DNK (Do Not Know) Bosses and "brilliant" staffers are very prone to falling
+1.   Reward DNK (Do Not Know) Bosses and "brilliant" staffers are very prone to falling
 into the trap of not admitting when they don't know the answer or have trouble with the concept.
 (CEOs pocketing $75,000,000 bonuses didn't grock the Super-derivatives served up by their U.
 Chicago math Ph.D.s—welcome to Recessionus Gargantuas.) The boss thinks "I'm supposed to
@@ -1117,7 +1115,7 @@ and should, make it positive ... and praiseworthy ... for anyone to say "DNK" wh
 he/she/you/me DNK. Publicly cheer the person who admits—in front of a boss—that he or she
 "does not know" the facts here, or the answer to this or that. In fact, you might make a game (a
 serious game!) out of identifying the "DNKs" regarding any analysis or proposed action.
-117. Work the Watercooler—Or: Are You Gossiping Enough? The human brain is about
+1.   Work the Watercooler—Or: Are You Gossiping Enough? The human brain is about
 nine times bigger, on a body-size-adjusted basis, than that of mammals in general. The reason is
 fascinating—and mostly counterintuitive. We are, of course, a long way from being the strongest
 of the species. So how did we win out over the Truly Big Dudes? Answer: Not by intellectual
