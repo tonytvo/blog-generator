@@ -1063,31 +1063,17 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
 
 - **SPECIAL SECTION: Quotations 34**
 
-A few of my favorites from the set:
-"Ph.D. in leadership. Short course: Make a short list of all things done to you that you abhorred.
-Don't do them to others. Ever. Make another list of things done to you that you loved. Do them to
-others. Always."—Dee Hock, founder, Visa
-"ARE YOU BEING REASONABLE? Most people are reasonable; that's why they only do
-reasonably well."—Paul Arden, Whatever You Think Think the Opposite
-"The one thing you need to know about sustained individual success: Discover what you don't like
-doing and stop doing it."—Marcus Buckingham, The One Thing You Need to Know
-"I can't tell you how many times we passed up hotshots for guys we thought were better people,
-and watched our guys do a lot better than the big names, not just in the classroom, but on the
-field—and, naturally, after they graduated, too. Again and again, the blue chips faded out, and
-our little up-and-comers clawed their way to all-conference and All-America teams."—Legendary
-football coach Bo Schembechler, "Recruit for Character," from Bo's Lasting Lessons
-"The most successful people are those who are good at plan B."—James Yorke, mathematician,
-on chaos theory, in The New Scientist
-"Stay Hungry. Stay Foolish."—Steve Jobs, Apple
-"You are the storyteller of your own life, and you can create your own legend or not."—Isabel
-Allende
-"Nothing is so contagious as enthusiasm."—Samuel Taylor Coleridge
-52
-"A man without a smiling face must not open a shop."—Chinese proverb
-"Life is not a journey to the grave with the intention of arriving safely in one pretty and well
-preserved piece, but to skid across the line broadside, thoroughly used up, worn out, leaking oil,
-shouting ... 'GERONIMO!'"—Bill McKenna, professional motorcycle racer
-CURIOSITY
+  - "Ph.D. in leadership. Short course: Make a short list of all things done to you that you abhorred. Don't do them to others. Ever. Make another list of things done to you that you loved. Do them to others. Always."—Dee Hock, founder, Visa
+  - "The one thing you need to know about sustained individual success: Discover what you don't like doing and stop doing it."—Marcus Buckingham, The One Thing You Need to Know
+  - "I can't tell you how many times we passed up hotshots for guys we thought were better people, and watched our guys do a lot better than the big names, not just in the classroom, but on the field—and, naturally, after they graduated, too. Again and again, the blue chips faded out, and our little up-and-comers clawed their way to all-conference and All-America teams."—Legendary football coach Bo Schembechler, "Recruit for Character," from Bo's Lasting Lessons
+  - "The most successful people are those who are good at plan B."—James Yorke, mathematician, on chaos theory, in The New Scientist
+  - "Stay Hungry. Stay Foolish."—Steve Jobs, Apple
+  - "You are the storyteller of your own life, and you can create your own legend or not "—Isabel Allende
+  - "Nothing is so contagious as enthusiasm."—Samuel Taylor Coleridge
+  - "A man without a smiling face must not open a shop."—Chinese proverb
+  - "Life is not a journey to the grave with the intention of arriving safely in one pretty and well preserved piece, but to skid across the line broadside, thoroughly used up, worn out, leaking oil, shouting ... 'GERONIMO!'"—Bill McKenna, professional motorcycle racer
+
+## CURIOSITY
 
 1.   If You Have to Ask ... Then Ask (and Ask and Ask.)
 "I don't invest in anything I don't understand."—Warren Buffett
