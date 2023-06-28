@@ -979,50 +979,25 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
   - "Effective prototyping may be the most valuable core competence an innovative organization can hope to have."—Michael Schrage
   - Fact: There is ... ALWAYS ... something ... some little thing ... you can start/do in the next ... 30 minutes ... to make a wee, concrete step forward toward solving a problem or creating a new opportunity. My colleagues and I call this the ... "Quick Prototype Attitude." MIT's Michael Schrage tells us that innovation ... is ... the reaction to a prototype. To move forward, you must have some eighth-baked thing to talk about and shoot at and tinker with ... ASAP.
 
-1.   Hell Hath No Fury: Celebrate "Disturbers of the Peace."
-"What drove Trippe? A fury that the future was always being hijacked by people with smaller
-ideas—by his first partners who did not want to expand airmail routes; by nations that protected
-flag carriers with subsidies; by elitists who regarded flight, like luxury liners, as a privilege to be
-enjoyed only by the few; by cartel operators who rigged prices. The democratization he effected
-was as real as Henry Ford's." —Harold Evans, on legendary PanAm boss Juan Trippe
-I believe that the Mother of [Almost] All Innovation is ... FURY. Abiding anger at the way things
-are... coupled with an "irrational" (statistically inappropriate) determination to beat back the
-innumerable protectors of the status quo and find and implement a better way.
-An innovator's life, almost regardless of the size of the innovation (people fight the small ones
-about as tenaciously as the large ones), is pure hell. All guardians of the status quo are her
-enemies. That includes about 100 percent of her bosses, appointed stalwart custodians of "the
-way we do things around here." Why is fury required? Simple: In order to survive the onslaught
-of these Powerful Guardians of Yesterday, and come out the other end in tact, she has to be really
-pumped up 100.00% of the time, and equipped with very thick skin indeed—that is, really truly
-pissed off with the way things are.
-49
-1.   The Innovation10: What We Know So Far ... Libraries are full of books written about
-innovation. Nonetheless, I felt a pressing need here to devote an item to summarizing my four
-decades of noodling on this subject:
-(1) Try it. Repeat. Repeat. Repeat. He who tries the most stuff wins.
-(2) Prototype it. A particular form of trying—some model of some part of "it" that everybody
-quickly has an opportunity shoot at.
-(3) Celebrate failure. Keyword: CELEBRATE. Not "tolerate," but "celebrate"—if "most tries"
-are king, then "most failures" are necessarily crown prince.
-(4) Hang Out Axiom. Every "hang out" decision is an innovation decision: Yes. Or: No. That is,
-hang out with interesting, get more interesting. Hang out with ordinary, get more ordinary.
-(5) Diversity. That is, diversity on any damned dimension imaginable. In any and every situation.
-More variety = Higher odds of success!
-(6) Parallel Universe. Frequently the resistance to change is so strenuous that one must, in effect,
-give up on normal channels. So create a pretty-damn-separate "new world" (new folks, new
-location, new attitude, etc., etc.)—a parallel universe.
-(7) XFX/Cross-functional Excellence. Ninety percent (95 percent?) of innovation requires
-working across functional borders, so Border Bashing/X-border Love is key to innovation
-success.
-(8) R&D Equality. "Research" is not the exclusive provenance of the new product folks. Every
-department needs a well-funded, highly regarded R&D activity; the clear expectation is that every
-unit/function will be as well-known for its innovation record as for its execution of standard tasks.
-(9) Hire and promote innovators. The best test of innovation potential is ... a track record in
-innovation. If you are assessing a 26-year-old candidate and there are no cases-of-innovationworth-bragging-about in his past—then don't expect much in the future.
-(10) Fun! Innovating is about breaking the rules—often our rules. There is a certain
-mischievousness about innovative organizations—not fun & games, but pleasure in sticking a
-finger in convention's eye, especially one or more of our own conventions.
-LISTENING
+- **Hell Hath No Fury: Celebrate "Disturbers of the Peace."**
+  - "What drove Trippe? A fury that the future was always being hijacked by people with smaller ideas—by his first partners who did not want to expand airmail routes; by nations that protected flag carriers with subsidies; by elitists who regarded flight, like luxury liners, as a privilege to be enjoyed only by the few; by cartel operators who rigged prices. The democratization he effected was as real as Henry Ford's." —Harold Evans, on legendary PanAm boss Juan Trippe
+  - I believe that the Mother of [Almost] All Innovation is ... FURY. Abiding anger at the way things are... coupled with an "irrational" (statistically inappropriate) determination to beat back the innumerable protectors of the status quo and find and implement a better way. 
+  - An innovator's life, almost regardless of the size of the innovation (people fight the small ones about as tenaciously as the large ones), is pure hell. All guardians of the status quo are her enemies. That includes about 100 percent of her bosses, appointed stalwart custodians of "the way we do things around here." Why is fury required? Simple: In order to survive the onslaught of these Powerful Guardians of Yesterday, and come out the other end in tact, she has to be really pumped up 100.00% of the time, and equipped with very thick skin indeed—that is, really truly pissed off with the way things are.
+
+- **The Innovation10: What We Know So Far** ... Libraries are full of books written about innovation. Nonetheless, I felt a pressing need here to devote an item to summarizing my four decades of noodling on this subject:
+  - (1) *Try it. Repeat. Repeat. Repeat*. He who tries the most stuff wins.
+  - (2) *Prototype it*. A particular form of trying—some model of some part of "it" that everybody quickly has an opportunity shoot at.
+  - (3) *Celebrate failure*. Keyword: CELEBRATE. Not "tolerate," but "celebrate"—if "most tries" are king, then "most failures" are necessarily crown prince.
+  - (4) *Hang Out Axiom*. Every "hang out" decision is an innovation decision: Yes. Or: No. That is, hang out with interesting, get more interesting. Hang out with ordinary, get more ordinary.
+  - (5) *Diversity*. That is, diversity on any damned dimension imaginable. In any and every situation. More variety = Higher odds of success!
+  - (6) *Parallel Universe*. Frequently the resistance to change is so strenuous that one must, in effect, give up on normal channels. So create a pretty-damn-separate "new world" (new folks, new location, new attitude, etc., etc.)—a parallel universe.
+  - (7) *XFX/Cross-functional Excellence*. Ninety percent (95 percent?) of innovation requires working across functional borders, so Border Bashing/X-border Love is key to innovation success.
+  - (8) *R&D Equality*. "Research" is not the exclusive provenance of the new product folks. Every department needs a well-funded, highly regarded R&D activity; the clear expectation is that every unit/function will be as well-known for its innovation record as for its execution of standard tasks.
+  - (9) *Hire and promote innovators*. The best test of innovation potential is ... a track record in innovation. If you are assessing a 26-year-old candidate and there are no cases-of-innovationworth-bragging-about in his past—then don't expect much in the future.
+  - (10) *Fun!* Innovating is about breaking the rules—often our rules. There is a certain mischievousness about innovative organizations—not fun & games, but pleasure in sticking a finger in convention's eye, especially one or more of our own conventions.
+
+## LISTENING
+
 1.   Now Hear This! Listening Is the Ultimate "Core Competence."
 Listening* is ...
 (*And when you read "listening," please substitute "OBSESSION with listening.)
