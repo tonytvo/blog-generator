@@ -1075,18 +1075,21 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
 
 ## CURIOSITY
 
-1.   If You Have to Ask ... Then Ask (and Ask and Ask.)
-"I don't invest in anything I don't understand."—Warren Buffett
-One translation:
-"I shall lead the league in Asking Dumb Questions."
-"I shall become Questioner-in-Chief."
-"I shall become 'Dumb Question'-er-in-Chief."
-"I shall fill in no blanks—I'll ask until I 'get it' well enough to repeat it."
-"I shall persist until I 'get it,' regardless of how dense it may make me appear at the time."
-"I shall fight my ever-so-deep-seated instincts, and repeatedly say, 'Could you say that again, a
-little more slowly?'"
-"I shall evaluate others in part on their skill and persistence at ... Asking Dumb Questions."
-"We shall hire in part on perceived or measured Instinctive Curiosity." (For every slot.)
+- **If You Have to Ask ... Then Ask (and Ask and Ask.)**
+
+- "I don't invest in anything I don't understand."—Warren Buffett
+
+- One translation:
+
+  - *"I shall lead the league in Asking Dumb Questions."*
+  - *"I shall become Questioner-in-Chief."*
+  - *"I shall become 'Dumb Question'-er-in-Chief."*
+  - *"I shall fill in no blanks—I'll ask until I 'get it' well enough to repeat it."*
+  - *"I shall persist until I 'get it,' regardless of how dense it may make me appear at the time."*
+  - *"I shall fight my ever-so-deep-seated instincts, and repeatedly say, 'Could you say that again, a little more slowly?'"*
+  - *"I shall evaluate others in part on their skill and persistence at ... Asking Dumb Questions."*
+  - *"We shall hire in part on perceived or measured Instinctive Curiosity." (For every slot.)*
+
 1.   Reward DNK (Do Not Know) Bosses and "brilliant" staffers are very prone to falling
 into the trap of not admitting when they don't know the answer or have trouble with the concept.
 (CEOs pocketing $75,000,000 bonuses didn't grock the Super-derivatives served up by their U.
