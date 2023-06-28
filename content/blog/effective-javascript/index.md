@@ -1,6 +1,6 @@
 ---
 title: Effective JavaScript by David Herman summary
-date: "2023-07-7T22:12:03.284Z"
+date: "2023-06-24T22:12:03.284Z"
 description: "Effective JavaScript by David Herman summary"
 tags: ["softwaredevelopment", "programming"]
 ---

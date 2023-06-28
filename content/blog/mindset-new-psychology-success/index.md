@@ -974,19 +974,11 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
   - Ultimate & Perhaps Only "Sure-fire" Winning Formula:
     - S.A.V. = Screw Around Vigorously.
 
-1.   What Have You Prototyped Lately?
-"Effective prototyping may be the most valuable core competence an innovative organization can
-hope to have."—Michael Schrage
-"You can't be a serious innovator unless and until you are ready, willing and able to seriously
-play. 'Serious play' is not an oxymoron; it is the essence of innovation."—Michael Schrage,
-Serious Play
-Don't let yourself get stuck!
-(What a silly statement.)
-Fact: There is ... ALWAYS ... something ... some little thing ... you can start/do in the next ... 30
-minutes ... to make a wee, concrete step forward toward solving a problem or creating a new
-opportunity. My colleagues and I call this the ... "Quick Prototype Attitude." MIT's Michael
-Schrage tells us that innovation ... is ... the reaction to a prototype. To move forward, you must
-have some eighth-baked thing to talk about and shoot at and tinker with ... ASAP.
+- **What Have You Prototyped Lately?**
+
+  - "Effective prototyping may be the most valuable core competence an innovative organization can hope to have."—Michael Schrage
+  - Fact: There is ... ALWAYS ... something ... some little thing ... you can start/do in the next ... 30 minutes ... to make a wee, concrete step forward toward solving a problem or creating a new opportunity. My colleagues and I call this the ... "Quick Prototype Attitude." MIT's Michael Schrage tells us that innovation ... is ... the reaction to a prototype. To move forward, you must have some eighth-baked thing to talk about and shoot at and tinker with ... ASAP.
+
 1.   Hell Hath No Fury: Celebrate "Disturbers of the Peace."
 "What drove Trippe? A fury that the future was always being hijacked by people with smaller
 ideas—by his first partners who did not want to expand airmail routes; by nations that protected

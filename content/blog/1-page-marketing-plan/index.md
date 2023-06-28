@@ -174,15 +174,15 @@ Trackable, measurable, use compelling copy, includes multi-step, short-term foll
 - Once a mind is made up, it rarely, if ever, changes. The single most wasteful thing you can do in marketing is try to change a mind.
 The reason you blast instead of worm is that people don’t like to change their minds. Once they perceive you one way, that’s it.
 
-# The Law of Perception Marketing: Marketing is not a battle of products, it’s a battle of perception.
+# The Law of Perception Marketing: Marketing is not a battle of products. It’s a battle of perception.
 
-- It’s an illusion. There is no objective reality. There are no facts. There are no best products. All that exists in the world of marketing are perceptions in the minds of the customer or prospect. The perception is the reality. Everything else is an illusion.
-- What some marketing people see as the natural laws of marketing are based on a flawed premise that the product is the hero of the marketing program and that you’ll win or lose based on the merits of the product. Which is why the natural, logical way to market a product is invariably wrong.
-- Only by studying how perceptions are formed in the mind and focusing your marketing programs on those perceptions can you overcome your basically incorrect marketing instincts.
-- Truth is nothing more or less than one expert’s perception. And who is the expert? It’s someone who is perceived to be an expert in the mind of somebody else.
-- Changing a prospect’s mind is another matter. Minds of customers or prospects are very difficult to change. With a modicum of experience in a product category, a consumer assumes that he or she is right.
+- It’s an illusion. There is no objective reality. There are no facts. There are no best products. All that exists in the marketing world are perceptions in the minds of the customer or prospect. The perception is the reality. Everything else is an illusion.
+- What some marketing people see as the natural laws of marketing are based on a flawed premise that the product is the hero of the marketing program and that you’ll win or lose based on the product's merits. The natural, logical way to market a product is invariably wrong.
+- Only by studying how perceptions are formed in mind and focusing your marketing programs on those perceptions can you overcome your incorrect marketing instincts.
+- Truth is nothing more or less than one expert’s perception. And who is the expert? It’s someone who is perceived to be an expert in somebody else's mind.
+- Changing a prospect’s mind is another matter. The minds of customers or prospects are tough to change. With a modicum of experience in a product category, a consumer assumes that he or she is right.
 - Marketing is a battle of perceptions, not products. Marketing is the process of dealing with those perceptions.
-- What makes the battle even more difficult is that customers frequently make buying decisions based on second-hand perceptions. Instead of using their own perceptions, they base their buying decisions on someone else’s perception of reality. This is the “everybody knows“ principle.
+- The battle is even more difficult because customers frequently make buying decisions based on second-hand perceptions. Instead of using their perceptions, they found their buying decisions on someone else’s perception of reality. This is the “everybody knows“ principle.
 - Marketing is not a battle of products. It’s a battle of perceptions.
 
 # The Law of Focus: The most powerful concept in marketing is owning a word in the prospect’s mind.
