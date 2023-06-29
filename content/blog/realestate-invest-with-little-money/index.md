@@ -58,19 +58,11 @@ tags: ["realestateinvesting", "financialindependence"]
  
 - The author advises to look at the numbers twice: first, assuming you'll be living in one of the units and collecting no rent, and second, after you've moved out, to see if they still make financial sense.
 
-- an owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of home-ownership.
-
 - You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
 
-- The first guideline is to invest in properties that even after a conservative estimate, still prove to be good investments. This implies you must be conservative when investing. 
-  
 - owner-occupied investment property can be one of the cheapest ways to get started investing in real estate, as you won’t need to spend money on advertising or marketing the property.
 
-- An owner-occupied investment property is a home that has been purchased as an investment but that also functions as a primary residence for the investor. Because America loves homeowners, investing in real estate that doubles as a home satisfies the country's love of home-ownership. 
-  
 - Many people treat their homes as if they were investments, when in reality, they are massive  liabilities that deplete your finances. You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later. 
- 
-- Another form of real estate investment that can be done by an individual is the small multifamily home. Multifamily homes can be bought and rehabbed to rent out. 
  
 - small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the  same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate a constant monthly income. 
  
@@ -78,14 +70,9 @@ tags: ["realestateinvesting", "financialindependence"]
  
 - There are low money down lending opportunities that exist for homeowners that simply do not  exist for the typical real estate investor. By taking advantage of these opportunities, you can start building your rental portfolio with very little out-of-pocket cash and get started sooner than you may have imagined. 
 
-- The Federal Housing Administration (FHA) is a federal agency under the Department of 
-Housing and Urban Development (HUD) that insures loans made by banks. Before the late 2007 real estate market crash, FHA loans were rarely used because almost anyone could qualify for a mortgage with little or no money down. 
- 
-- The Federal Housing Administration (FHA) is a federal agency created in 1934 to help with the shortage of housing following the Great Depression. The FHA provides low interest loans to qualified buyers. 
+- The Federal Housing Administration (FHA) is a federal agency created in 1934 to help with the shortage of housing following the Great  Depression. The FHA provides low interest loans to qualified buyers. 
  
 - The FHA loan is a government-backed loan that allows you to purchase property. However, it also has its share of problems, such as the Mortgage Insurance Premium that can really add up and the fact that you can have only one FHA loan at a time. 
- 
-- The Federal Housing Administration (FHA) is a government agency that insures loans provided by banks and other financial institutions. FHA loans are not insured by the government as much as conventional loans, but they are still insured. 
  
 - The FHA loan is another government insured loan that allows the borrower to borrow money to buy a home. The 203k loan is a subset of the FHA program and allows the borrower to borrow money to pay for cosmetic repairs such as paint and carpet. 
  
@@ -114,7 +101,7 @@ Housing and Urban Development (HUD) that insures loans made by banks. Before the
  
 - After getting a feel for the area, the next step is to get the asking price of the house. If it falls with- in your price range, you can start negotiating with the seller. 
  
-- **ARV x LTV from Lneder = Total All-in Costs**
+- **ARV x LTV from Lender = Total All-in Costs**
 - **[Total All-in costs] - [refinance closing costs] - [rehab costs] - [initial closing costs] = [Maximum Purchase Price, MaPP]**
 
 - The Four-Square Method allows you to quickly calculate the pure cash flow and cash-on-cash return of a property, after taking into account the purchase price, rehab costs, and the amount of money you put in, as well as the amount you get out. 
@@ -130,8 +117,6 @@ Housing and Urban Development (HUD) that insures loans made by banks. Before the
  
 - The traditional investment involves putting down a large down payment, while the BRRRR investment does not. The traditional investment has a total loan amount of $240,000, while the BRRRR investment has a total loan amount of $240,000. Both have the same final amount, because all variables are equal, but the BRRRR investment has greater equity since it utilizes the property's ARV to calculate the loan. 
  
-- The BRRRR method allows you to reuse the same money to invest in multiple properties, which permits you to expand your portfolio much faster. 
- 
 - Replacing the appliances and the water heater when you refinance a property is a good way to increase your cash flow. Replacing the flooring when you replace the appliances and the water heater is a great way to reduce your time spent on maintenance, which in turn allows you to spend more time on the important tasks at hand. 
  
 - Equity is the difference between what your property is worth and what you currently owe on it. The more equity you have, the wealthier you appear on paper. With each property you buy, your net worth increases by leaps and bounds. 
@@ -140,8 +125,11 @@ Housing and Urban Development (HUD) that insures loans made by banks. Before the
  
 - Because BRRRR is riskier than other types of investing, you must be well prepared for the process. You'll need to learn how to buy, rehab, and manage rental properties, and you'll need to be able to refinance and get your money back. 
   - Lenders can give you pre-approved loans before you start a BRRRR, so you can be certain that you will be able to refinance the house after you finish it. 
-  - To stay on budget, follow these four steps: 1) Fully understand the work required to achieve the final result and create a detailed scope of work that covers everything, 2) always include a whoops/ 
-overages line item in your budget, 3) get quality contractors to do the work, or do it yourself, and 4) hold your contractor accountable for the quality of work. 
+  - To stay on budget, follow these four steps:
+    - 1) Fully understand the work required to achieve the final result and create a detailed scope of work that covers everything,
+    - 2) always include a whoops/overages line item in your budget,
+    - 3) get quality contractors to do the work, or do it yourself, and 
+    - 4) hold your contractor accountable for the quality of work.
   - The after-repair-value, or ARV, is the most important metric when doing a BRRRR investment. The refinance amount is based on the ARV, and most banks will lend between 70 and 80 percent of the new value. If the appraisal on your BRRRR comes in low, your new loan will be low. 
     - base ARV estimate on good data (talk to a local real estate agent for comps)
     - consider challenging the appraisal for refinance if it is low. Provide the appraisal proofs on the rehab works (before after pictures), list all of the rehab works for the appraiser
