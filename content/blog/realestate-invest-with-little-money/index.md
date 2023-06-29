@@ -134,7 +134,7 @@ tags: ["realestateinvesting", "financialindependence"]
     - base ARV estimate on good data (talk to a local real estate agent for comps)
     - consider challenging the appraisal for refinance if it is low. Provide the appraisal proofs on the rehab works (before after pictures), list all of the rehab works for the appraiser
   - Before refinancing a property, make sure to talk with several lenders to determine their seasoning requirements, and be prepared to account for the time between when you buy and refinance a property.
-    - when you BRRRR a small multifamily property, traditional residential lenders typically require a period of time between when you guy the property and when you refinance it. This period of time is known as seasoning and can affect your math, so it's important to understand how seasoning works and factor it into your plans. Seasoning is typically six months long but can be as long as twelve months for some lenders. This means you may have to continue paying the higher rates on whatever short-term financing you used for the first six to twelve months, which can affect cash flow in the first year.
+    - when you BRRRR a small multifamily property, traditional residential lenders typically require a period of time between when you buy the property and when you refinance it. This period of time is known as seasoning and can affect your math, so it's important to understand how seasoning works and factor it into your plans. Seasoning is typically six months long but can be as long as twelve months for some lenders. This means you may have to continue paying the higher rates on whatever short-term financing you used for the first six to twelve months, which can affect cash flow in the first year.
  
 - The BRRRR method entails buying a property with short-term money, rehabbing it, and renting it. Repeat the process as you build your portfolio.
 
@@ -146,8 +146,7 @@ tags: ["realestateinvesting", "financialindependence"]
  
 - The most effective way to increase the value of a multifamily property is to reposition it and up- grade the units. This requires more work and risk than some of the simpler methods discussed in the book, but it can also provide exceptional returns. 
  
-- Repositioning a property entails making improvements that tenants are willing to pay for. The first step is to understand the market dynamics in the area where the property is located. After that, 
-obtain as many comparable properties as possible, study their pricing details, and make necessary adjustments. 
+- Repositioning a property entails making improvements that tenants are willing to pay for. The first step is to understand the market dynamics in the area where the property is located. After that, obtain as many comparable properties as possible, study their pricing details, and make necessary adjustments. 
  
 - Identifying ways to improve the appearance of a property is an important step in positioning it to obtain the best rents. The most effective way to achieve this is by means of repairs and replacements that are easy on the eyes, such as fresh paint and landscaping. 
   - a good property management firm should be able to help with an initial assessment. Special attention should be given to all major components, such as roofs, windows, doors, sewer lines, roads, and parking areas.
@@ -180,13 +179,9 @@ obtain as many comparable properties as possible, study their pricing details, a
   - host a series of open houses. You can also invite community leaders and press for private tour.
   - the best time to get reviews are at move-in and after a successfully completed work order
  
-- Increasing the value of a property through the addition of new amenities or units is an excellent way to raise the return on investment. A smart multifamily investor will look for ways to add value 
-to a property, which can be done through the incremental increase in rents. 
- 
 - The best way to add value to a property is to increase its rent by implementing a good strategy such as increasing the number of units or improving the quality of the units. 
  
-- The author was able to close on the property, but was informed that a couple of the contractors were going to place liens on the building. The attorney that handled the transaction explained to 
-him that this was a result of the seller not being able to pay the contractors.
+- The author was able to close on the property, but was informed that a couple of the contractors were going to place liens on the building. The attorney that handled the transaction explained to him that this was a result of the seller not being able to pay the contractors.
 
 # partnerships
 
@@ -203,9 +198,8 @@ him that this was a result of the seller not being able to pay the contractors.
 - If you must begin raising money from partners, start with people who don't care as much about your real estate investing experience since they know your character from other parts of your life. You can borrow someone's expertise by hiring a more experienced investor, or you can demonstrate your own abilities by creating a PowerPoint presentation or an investor packet that outlines your qualifications and the specifics of the deal. 
  
 - Money partnerships can be either equity or debt, depending on the preferences of the partners. Always check with your partners to discover what kind of partnership they prefer. 
- 
-- Finding a financial partner is another way to get into real estate investing. You'll need to demonstrate that you have the Knowledge, Integrity, and Tactic to pull off a deal, as well as the Experience 
-to justify their risk.
+
+- it will be hard to find a partner unless you can demonstrate you can fly a KITE: the knowledge to pull off the deal, the Integrity to uphold your side of partnership, the Tactics to make the deal work, and the experience needed to justify their risk. 
 
 - investing in real estate with partners to avoid large amount of money upfront
 
@@ -226,10 +220,6 @@ to justify their risk.
 - When you rely on someone else, setting expectations as to how something should be done is easy. However, when your partner doesn’t live up to your expectations, it’s easy to grow bitter and blame him or her. One thing you can do to curtail this is to consistently underpromise and overdeliver.
  
 - When you are the sole proprietor of a business, taxes and accounting are much simpler than when you have partners. The more partners you have, however, the more complicated the bookwork becomes and the more time-consuming and costly tax season becomes. 
-
-- the main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well
-
-- it will be hard to find a partner unless you can demonstrate you can fly a KITE: the knowledge to pull off the deal, the Integrity to uphold your side of partnership, the Tactics to make the deal work, and the experience needed to justify their risk. 
 
 # home equity loans/lines of credit
 
@@ -257,10 +247,6 @@ to justify their risk.
 
 - As the name would imply, a home equity loan or line of credit will require you to have equity to qualify. Therefore, let’s take a few minutes to explore what equity is and why it matters. As mentioned earlier, equity is the difference between what you currently owe on your home and the fair market value of that home. For example, if you owe $50,000 on a home whose current value is $80,000, you have approximately $30,000 in equity (not including the costs required to sell the property if you wanted to)
 
-- When determining your ability to obtain a home equity line of credit, the most important number to clearly understand is known as “loan to value,” or LTV. The LTV is a percentage that shows the ratio between what you owe and what the property is worth. The higher the percentage, the less equity you have
-
-- This calculation will give you a percentage, which is your LTV. So, revisiting the example I just used, if you owed $50,000 on a home worth $80,000, the calculations would look likeLTV = $50,000 / $80,000 = 62.5%
-
 - Today, lenders have learned from the mistakes of the past, and the days of getting 125% LTV loans and lines of credit are gone. More typically, the highest you’ll probably see is around 90% LTV, but even that may be difficult to find. In other words, if your home is currently worth $100,000, the bank will likely cap the total amount you can borrow across all loans at $90,000. So, if you have a first mortgage with a balance of $70,000, and the lender will allow you to borrow 90% (or $90,000 total), you could potentially obtain a loan or line of credit for a maximum of $20,000.Keep in mind that as with nearly all loans, you will need to meet certain credit and income minimums to obtain the lending, and rates and terms will differ based on your LTV, debt, credit, income, and other factors. You may have a ton of equity in your property, but if you are rocking a 520 credit score, obtaining a home equity loan or line of credit will be nearly impossible. Be sure to shop around to various banks when considering a home equity line of credit. In my small town, rates can vary by as much as 10% between banks. I feel sorry for all those people who are paying 13.5% at X Bank while I’m paying just 3.5% at Y Bank. Don’t be like them. Get out there, make some phone calls, and shop around to get the best rate possible on your home equity loan or line of credit
 
 # strategies for using hard money
@@ -270,8 +256,6 @@ to justify their risk.
 - Lenders that provide hard money loans are often referred to as hard money lenders. These loans are not insured by the Federal Housing Administration (FHA), which is why they’re referred to as hard money. Lenders that provide these loans may be difficult to locate, but BiggerPockets. com has a directory of hard money lenders for you to contact. 
  
 - Hard money loans are provided by banks and other lending institutions, and they are meant for investors who want to buy property and fix it up, and then sell it at a profit. Hard money loans have low interest rates and no down payments. 
- 
-- Many investors see the benefit of using hard money when flipping a house, but what about landlords and buy-and-hold investors. Should they ignore hard money. Buy-and-hold investors can definitely take advantage of certain strategies for using hard money in the right situations. 
  
 - After the market collapsed in 2008, the author was unable to sell his house. With the help of a hard money lender, he was able to pay off the lender in full and refinanced the home through a conventional bank, obtaining an 80 percent loan to value. 
  
@@ -305,8 +289,7 @@ to justify their risk.
  
 - Cash-only deals can be problematic because they require more work from the investor, who may be less willing to invest if they don’t have the money right away. 
  
-- 506(c) offerings are restricted to accredited investors, but have several advantages over 506(b)s, such as the ability to advertise or generally solicit the offering publicly, which can help you reach 
-new investors and raise more capital. 
+- 506(c) offerings are restricted to accredited investors, but have several advantages over 506(b)s, such as the ability to advertise or generally solicit the offering publicly, which can help you reach  new investors and raise more capital. 
  
 - The Regulation A (Reg A) is a little more complicated and less used than the other options, but it has the advantage of being able to market the offering broadly to nonaccredited investors. The only caveat is that you must file a statement with the SEC for review and approval before going ahead with the offering. 
  
@@ -322,14 +305,9 @@ new investors and raise more capital.
  
 - The main difference between a flip and a rental is that in the former case, the investor acquires an asset, sells it, and then pockets the profits. With a rental, the investor rents an asset, retains  control of it, and then pockets the profits. 
  
-- The author was planning to convert the project to market-rate housing, but was informed that the contract had been extended by 20 years. He had to terminate the purchase agreement.
-
-- Private capital refers to the money that is provided to you by private individuals or firms that want to invest their money. It is used to buy investment property or fund a business. 
- 
 - The first step in raising capital is to overcome your fear of sales, which stems from your lack of confidence. You will need to understand what motivates investors to lend or invest in order to secure money. 
  
-- The first step towards raising private capital is to find investors who are willing to preserve and generate wealth through real estate. You won't know who's interested in your offer until you start 
-discussing real estate and letting people know about the opportunities that exist thanks to your diligence and drive. 
+- The first step towards raising private capital is to find investors who are willing to preserve and generate wealth through real estate. You won't know who's interested in your offer until you start discussing real estate and letting people know about the opportunities that exist thanks to your diligence and drive. 
  
 - The first place to look for potential lenders is within your inner circle of contacts. Once you've established trust with them, you can begin expanding your circle of contacts to people who will trust you with their money. 
  
@@ -339,10 +317,9 @@ discussing real estate and letting people know about the opportunities that exis
  
 - Keeping a record of your conversations with potential investors is crucial. There are numerous CRM solutions available to help you with this, such as AppFolio, Investor Management Services, and SyndicationPro. 
  
-- When raising money for a multifamily property, working with a private equity firm can be advan- tageous. These are the large investors who have the capital to fund the acquisition of large apartment buildings. However, they also have considerable power, and can force you to make changes to your plans if they so choose. 
+- When raising money for a multifamily property, working with a private equity firm can be advantageous. These are the large investors who have the capital to fund the acquisition of large apartment buildings. However, they also have considerable power, and can force you to make changes to your plans if they so choose. 
  
-- If you can't or don't want to raise capital yourself, you have four options: start smaller, look for alternative financing methods, partner with someone who is well suited to raise capital, or hire or 
-contract someone who will do so on your behalf. 
+- If you can't or don't want to raise capital yourself, you have four options: start smaller, look for alternative financing methods, partner with someone who is well suited to raise capital, or hire or contract someone who will do so on your behalf. 
  
 - It is crucial to secure sound legal advice both before and throughout the fundraising process, as you are entering a complex regulatory environment. 
  
