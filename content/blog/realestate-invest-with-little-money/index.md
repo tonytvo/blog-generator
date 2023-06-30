@@ -419,20 +419,24 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # realestate wholesaling
 
-- A wholesaler is the middleman who connects the retailer to the product source, collecting a fee for doing so. A wholesaler is trained to market for those good deals, negotiate the best discount, 
-put together a solid contract, and then sell at a markup to someone else who is not trained or prepared to do this. 
+- A wholesaler is the middleman who connects the retailer to the product source, collecting a fee for doing so. A wholesaler is trained to market for those good deals, negotiate the best discount, put together a solid contract, and then sell at a markup to someone else who is not trained or prepared to do this. 
  
-- Wholesaling, at its core, is about solving problems. It's not about stealing, because that would be unethical. It's about solving people's problems and helping them. 
+- Yes, you can start wholesaling without any money by simply advertising properties and collecting offers. But to become a successful wholesaler, you'll need to invest time and money into marketing.
  
-- Yes, you can start wholesaling without any money by simply advertising properties and collecting offers. But to become a successful wholesaler, you'll need to invest time and money into marketing. 
-A great deal is the foundation. 
+- The first two strategies consist of driving around an area and mailing to property owners, and the latter consists of using direct mail.
+
+- The five main ways to find clients are: 
+  - 1) networking with other investors,
+  - 2) advertising in local newspapers, 
+  - 3) setting up an online profile, 
+  - 4) using online marketing tools, and
+  - 5) placing signs in public places. 
  
-- The first two strategies consist of driving around an area and mailing to property owners, and the latter consists of using direct mail. 
- 
-- The five main ways to find clients are: 1) networking with other investors, 2) advertising in local newspapers, 3) setting up an online profile, 4) using online marketing tools, and 5) placing signs in 
-public places. 
- 
-- knocking down walls that get in the way, 3) accepting the fact that you won’t be able to get every house, 4) using the MLS, 5) leveraging others, and 6) empowering others. 
+- knocking down walls that get in the way, 
+  - 1) accepting the fact that you won’t be able to get every house, 
+  - 2) using the MLS, 
+  - 3) leveraging others, and 
+  - 4) empowering others. 
  
 - The first step to becoming a successful wholesaler is to find great deals. The old adage of you make your money when you buy is true for the wholesaler. So how do you know what a great deal is. It all comes down to the math. 
  
@@ -446,11 +450,7 @@ public places.
  
 - The 70% rule states that a property’s ARV should be about 70% of what it will appraise for when it’s ready to be sold. This allows for a certain amount of leeway when negotiating with tenants. 
  
-- The 70% rule states that you should pay no more than 70% of a property’s ARV, minus any repairs. A wholesaler also needs to subtract their fees from that number. 
- 
 - Calculate the ARV of a property by multiplying its worth by a percentage. The percentage is determined by using a comparable property as a basis. The more similar the properties, the higher the percentage. After you determine the ARV, you can determine an offer price by subtracting the cost of repairs and your desired wholesaler fee. 
- 
-- The 70% rule states that for every $100,000 a property is worth, the investor will spend $70,000 in costs, such as closing costs, agent fees, and rehab costs. However, this rule does not apply to every situation and can be modified for more expensive or cheaper homes. 
  
 - The second method is known as the Fixed Cost Method. With this method, you take the total costs of the house, such as holding costs, utilities, and closing expenses, and divide them among the number of units you are buying. The resulting number is known as the fixed costs. With this method, you can calculate your maximum allowable offer by subtracting your fixed costs from your appraised value. 
  
@@ -464,13 +464,7 @@ public places.
  
 - When dealing with cash buyers, do your best to estimate the rehab costs and come up with a ballpark figure. Don’t spend countless hours trying to get it exactly right, since you won’t. 
  
-- After several deals, you will be able to look at a property and within minutes offer a ballpark fig- ure to your cash buyer. So don’t sweat it too much at the beginning - just follow the six-step process I outlined, and you’ll do just fine. 
- 
 - A wholesaler's job of finding deals is much more difficult than that of a buy-and-hold investor or a house flipper. A wholesaler is therefore competing not only against retail buyers, but also against every other investor out there, and is at a disadvantage because they need to get the properties for even lower prices. 
- 
-- After meeting with a motivated seller and determining the ARV of the property, the repair costs, and your maximum allowable offer, you must now present your offer to the seller. However, this might be the area where you need the most practice. 
- 
-- There are many negotiating techniques you can use to get what you want in real estate. The most important thing is to be persistent and not give up until you get what you want. 
  
 - Once you have agreed with the seller on a price, you and the seller should sign the contract. A contract is a legal document that states the terms agreed upon by both parties in the transaction. 
  
@@ -509,16 +503,13 @@ public places.
  
 - After finding a suitable cash buyer, you must transfer the contract to them. This can be done by providing a non-refundable fee to your buyer. 
  
-- A wholesale deal can be put together in many different ways, and the method you use will depend on the transaction, your state laws, and other circumstances. For this reason, I want to give you a thorough overview of the different strategies for putting together a wholesale deal. 
- 
 - The three most common wholesaling techniques are simultaneous closing, back-to-back closing, and double closing. The first involves closing the deal simultaneously with the buyer and the seller. The second involves closing the deal with the buyer after the seller. The third involves closing the deal with the seller after the buyer. 
  
 - The two techniques involve physically going to another room at the title company (or attorney's office), and immediately selling the property to a buyer, often within just minutes. The difference between the two techniques lies in the way the deal is funded. 
  
 - A simultaneous closing is when the end buyer uses their cash to fund both the purchase and the sale. In other words, the end buyer's cash will fund your purchase, and then that same cash will be used to pay you for the property. 
  
-- The back-to-back closing is a method used by wholesalers to purchase a property. The funds are provided by the buyer, who uses them to buy the property and then sells it back to the wholesaler 
-shortly after. The buyer then uses the funds to purchase another property. 
+- The back-to-back closing is a method used by wholesalers to purchase a property. The funds are provided by the buyer, who uses them to buy the property and then sells it back to the wholesaler shortly after. The buyer then uses the funds to purchase another property. 
  
 - The closing process involves the title company or attorney who closed the deal issuing a check for you, usually on the day of closing. You are not required to deposit this check into your bank account and can instead use it to continue growing your real estate investment business.
 
@@ -530,18 +521,17 @@ shortly after. The buyer then uses the funds to purchase another property.
  
 - After saving up a down payment, which for this example is $5,600, the author was able to buy a house that needed some work, fix it up, and sell it for a profit. 
  
-- There are many different techniques and strategies that you can use to acquire properties with little to no money down, and many of them have been discussed in this book. The most important thing is to never give up and to continue learning, as the real estate market constantly evolves.
-
-- Creative investing is about shifting the source of any needed cash, depending on the strategy
-
 - Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
 
-- Screen well! Screening your tenant is one of the most important steps you can take to ensure a positive landlording experience, especially with a lease option sandwich. Although tenant-screening practices are beyond the scope of this book, the most important things you can do are as follows: • Always run a background check on your tenant. Look for evictions, criminal activities, etc.• Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.• Look for stability. A tenant who moves every six months without reason is probably not a great candidate.• Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
+- Screen well! Screening your tenant is one of the most important steps you can take to ensure a positive landlording experience, especially with a lease option sandwich. Although tenant-screening practices are beyond the scope of this book, the most important things you can do are as follows: 
+  - Always run a background check on your tenant. Look for evictions, criminal activities, etc.
+  - Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.
+  - Look for stability. A tenant who moves every six months without reason is probably not a great candidate.
+  - Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
 
 # making an offer that sticks
 
-- After you find the perfect property, the process of making an offer is relatively simple. The offer should include the price you are willing to pay, the method of payment, the closing date, the closing 
-costs, and any contingencies. 
+- After you find the perfect property, the process of making an offer is relatively simple. The offer should include the price you are willing to pay, the method of payment, the closing date, the closing costs, and any contingencies. 
  
 - When a property is listed by a real estate agent, it is referred to as an on-market property. To make an offer, you will need a real estate agent to handle most of the paperwork and details. 
  
@@ -557,23 +547,19 @@ costs, and any contingencies.
 
 - When a property is listed with a brokerage, an LOI must be signed by all parties involved before any money changes hands. This includes the buyer, the lender, and the seller. 
  
-- The process of competitive bidding entails brokers meeting with sellers to review all of the offers they have received. The strongest ones are then presented to the seller, who has a set period of time 
-to decide which buyer they want to work with the most. 
+- The process of competitive bidding entails brokers meeting with sellers to review all of the offers they have received. The strongest ones are then presented to the seller, who has a set period of time to decide which buyer they want to work with the most. 
  
 - It is also important to realize that other investors might be willing to pay more for a property than you are, since they are also investing in it. Do not let these considerations affect your valuation. 
 
-- Timing is important when it comes to buying a house. If you can get a letter of intent signed before the competition, you may be able to get a property at an attractive price and achieve better re- 
-turns. 
+- Timing is important when it comes to buying a house. If you can get a letter of intent signed before the competition, you may be able to get a property at an attractive price and achieve better returns. 
  
-- Another trick you can use to get a better deal is by extending the timeline. If the seller seems unfazed by other prospective buyers, you have the opportunity to negotiate more freely. Non-monetary 
-items such as retaining the current staff or not changing the property’s name can also help win you a better deal. 
+- Another trick you can use to get a better deal is by extending the timeline. If the seller seems unfazed by other prospective buyers, you have the opportunity to negotiate more freely. Non-monetary items such as retaining the current staff or not changing the property’s name can also help win you a better deal. 
  
 - The key to good underwriting is remaining objective and detached. You'll obtain the best bargains if you can keep your emotions in check and not get attached to a property. If you're funding the deal entirely by yourself, you may agree to less attractive terms or buy other properties instead. 
  
 - The letter of intent is a legally non-binding document between the buyer and the seller that outlines the general terms of a prospective property sale. It's a good idea to get one from a lawyer or real estate agent. The high-level terms should be included in the letter. 
  
-- You should include a personal message to the seller in the form of an email, or a video link if the seller does not have access to email. Make it easy for the seller to like you, and you increase the 
-chances of your offer being accepted. 
+- You should include a personal message to the seller in the form of an email, or a video link if the seller does not have access to email. Make it easy for the seller to like you, and you increase the chances of your offer being accepted. 
  
 - The stronger your offer, the greater the chance it will be accepted. You can demonstrate your ability to close by providing a large deposit, shortening the timelines for any contingencies, all-cash offers, and limited-liability companies. 
  
@@ -585,7 +571,6 @@ chances of your offer being accepted.
  
 - When a property comes on the market, it is essential to understand the timelines and process the seller will follow for receiving, evaluating, and responding to offers. When there is no call for offers or offers will be evaluated on a rolling basis, speed is of the essence. 
  
-- As he was underwriting the deal, the author began to feel conflicted. On one hand, he wanted to make sure the property was worth investing in; on the other, he didn’t want to let his emotions get involved. He eventually made an offer regardless.
 
 # due diligence
 
