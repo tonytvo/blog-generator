@@ -91,6 +91,8 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # BRRRR
 
+- [BRRRR check list](./brrrr-checklist.pdf)
+
 - After graduating from law school, the author attempted to be a house flipper, but was unsuccessful because the market had crashed. He then tried to find a way to pay off his high-interest credit cards by renting out his property. 
  
 - The BRRRR method involves buying a house with short-term money, renovating it, renting it, refinancing it, and repeating the process until you have a large portfolio of cash-flowing properties. 
@@ -369,8 +371,6 @@ tags: ["realestateinvesting", "financialindependence"]
  
 - A lease option is a type of real estate investment that involves the purchase of a property with the intent of renting it out. The investor leases the property from the owner, who grants them the exclusive right to buy the property at a predetermined price within a certain period of time. 
  
-- There are many benefits that a lease option provides to both the landlord and the tenant, and it's a great way for the tenant to get started in the real estate business while keeping a constant rental property. 
- 
 - A lease option is a type of real estate investment that involves buying the option to buy a piece of real estate for a set period of time. The investor decides how long they want the option to last, and once that time is up, they either buy the property or let it go. 
  
 - The lease option is a way for the investor to offer tenants the chance to purchase the property after a set period of time for a specified price. The investor acts as the lessor, and collects the option fee from the buyer. 
@@ -378,8 +378,6 @@ tags: ["realestateinvesting", "financialindependence"]
 - Lease option is similar to the traditional option in which the investor leases the property from the owner and then rents it out. However, in this case, the investor leases the property from the wholesaler instead of the owner, and then sells the lease to the property owner. 
  
 - The lease option sandwich is a type of investment strategy that involves two separate transactions on both sides of the deal. The first is the lease option, which is when the investor purchases a property from the current owner and leases it out. The second is the purchase of the house from the renter, which is completed after five years. 
- 
-- The lease option is another way for the investor to purchase a property without having to put in much effort, as the investor only has to lease the property from the owner, and not buy it. 
  
 - The more time you have on your contract, the more options you have. It is also important to let the owner know what you’re doing so that no one is surprised. 
  
@@ -390,8 +388,6 @@ tags: ["realestateinvesting", "financialindependence"]
 - Another problem that could arise is major repairs being required after the tenant has moved out, which the landlord is responsible for. This is something to keep in mind.
   - one suggestion is to pay for a home warranty on the property (or have the tenants pay for one) at the start of the lease option, one that covers all major maintenance problems on the home.
  
-- The author has found that the lease option is a flexible way for investors to buy property, especially if they are just starting out. It gives them the ability to purchase a home and then tailor it to their liking without having to pay for a full home renovation. 
-
 # seller financing
 
 - The term seller financed refers to a property where the seller provides the financing. This can be done through a bank, a private lender, or even the seller themselves. The seller obtains a great interest rate on their money, while the buyer does not have to deal with a bank and pays just 5K for the property. 
