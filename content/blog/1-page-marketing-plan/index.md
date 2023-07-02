@@ -185,29 +185,29 @@ The reason you blast instead of worm is that people don’t like to change their
 - The battle is even more difficult because customers frequently make buying decisions based on second-hand perceptions. Instead of using their perceptions, they found their buying decisions on someone else’s perception of reality. This is the “everybody knows“ principle.
 - Marketing is not a battle of products. It’s a battle of perceptions.
 
-# The Law of Focus: The most powerful concept in marketing is owning a word in the prospect’s mind.
+# The Law of Focus: The most powerful concept in marketing owns a word in the prospect’s mind.
 
-- A company can become incredibly successful if it can find a way to own a word in the mind of the prospect. Not a complicated word. Not an invented one. The simple words are best, words taken right out of the dictionary.
+- A company can become incredibly successful if it can find a way to own a word in the prospect's mind. Not a complicated word. Not an invented one. The simple words are best, words taken right out of the dictionary.
 - This is the law of focus. You “burn" your way into the mind by narrowing the focus to a single word or concept. It’s the ultimate marketing sacrifice.
-- In a way, the law of leadership — it’s better to be first than to be better — enables the first brand or company to own a word in the mind of the prospect. But the word the leader owns is so simple that it’s invisible.
+- In a way, the law of leadership — it’s better to be first than to be better — enables the first brand or company to own a word in the prospect's mind. But the word the leader owns is so simple that it’s invisible.
 - The leader owns the word that stands for the category.
 - An astute leader will go one step further to solidify its position.
-- If you’re not a leader, then your word has to have a narrow focus. Even more important, however, your word has to be “available “in your category. No one else can have a lock on it.
-- The most effective words are simple and benefit oriented. No matter how complicated the product, no matter how complicated the needs of the market, it’s always better to focus on one word or benefit rather than two or three or four.
-- Also, there’s the halo effect. If you strongly establish one benefit, the prospect is likely to give you a lot of other benefits, too. A “thicker“ spaghetti sauce implies quality, nourishing ingredients, value, and so on. A “safer“ car implies better design and engineering.
-- Words come in different varieties. They can be benefit related (cavity prevention), service related (home delivery), audience related (younger people), or sales related (preferred brand).
+- If you’re not a leader, your word must have a narrow focus. Even more important, however, your word has to be “available “in your category. No one else can have a lock on it.
+- The most effective words are simple and benefit-oriented. No matter how complicated the product is or the market's needs, it’s always better to focus on one word or benefit rather than two or three or four.
+- Also, there’s the halo effect. If you firmly establish one benefit, the prospect is likely to give you a lot of other benefits, too. A “thicker“ spaghetti sauce implies quality, nourishing ingredients, value, etc. A “safer“ car implies better design and engineering.
+- Words come in different varieties. They can be benefit-related (cavity prevention), service-related (home delivery), audience-related (younger people), or sales-related (preferred brand).
 - Although we’ve been touting that words stick in the mind, nothing lasts forever. There comes a time when a company must change words. It’s not an easy task.
-- What won’t work in marketing is leaving your own word in search of a word owned by others.
-- The essence of marketing is narrowing the focus. You become stronger when you reduce the scope of your operations. You can’t stand for something if you chase after everything.
+- What won’t work in marketing is leaving your word in search of a word owned by others.
+- The essence of marketing is narrowing the focus. You become more potent when you reduce the scope of your operations. You can’t stand for something if you chase after everything.
 - You can’t narrow the focus with quality or any other idea that doesn’t have proponents for the opposite point of view.
-- When you develop your word to focus on, be prepared to fend off the lawyers. They want to trademark everything you publish. The trick is to get others to use your word. (To be a leader you have to have followers.)
-- Once you have your word, you have to go out of your way to protect it in the marketplace.
+- When you develop your word to focus on, be prepared to fend off the lawyers. They want to trademark everything you publish. The trick is to get others to use your word. (To be a leader, you have to have followers.)
+- Once you have your word, you must go out of your way to protect it in the marketplace.
 
 # The Law of Exclusivity: Two companies cannot own the same word in the prospect’s mind.
 
-- When a competitor owns a word or position in the prospect’s mind, it is futile to attempt to own the same word.
-- Despite the disaster stories, many companies continue to violate the law of exclusivity. You can’t change people’s minds once they are made up. In fact, what you often do is reinforce your competitor’s position by making its concept more important.
-- What often leads marketers down this booby-trapped lane is that wonderful stuff called research.
+- When a competitor owns a word or position in the prospect’s mind, attempting to own the same word is futile.
+- Despite the disaster stories, many companies violate the exclusivity law. You can’t change people’s minds once they are made up. In fact, you often reinforce your competitor’s position by making its concept more critical.
+- What often leads marketers down this booby-trapped lane is that beautiful stuff called research.
 
 # The Law of the Ladder: The strategy to use depends on which rung you occupy on the ladder.
 
