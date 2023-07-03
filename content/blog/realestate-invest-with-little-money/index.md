@@ -387,7 +387,10 @@ tags: ["realestateinvesting", "financialindependence"]
 
 - Another problem that could arise is major repairs being required after the tenant has moved out, which the landlord is responsible for. This is something to keep in mind.
   - one suggestion is to pay for a home warranty on the property (or have the tenants pay for one) at the start of the lease option, one that covers all major maintenance problems on the home.
- 
+
+- be careful with lease option acquisition where you don't have control when the owner take back the property and you have no control on it.
+  - the depreciation can't be leveraged on lease option acquisition.
+
 # seller financing
 
 - The term seller financed refers to a property where the seller provides the financing. This can be done through a bank, a private lender, or even the seller themselves. The seller obtains a great interest rate on their money, while the buyer does not have to deal with a bank and pays just 5K for the property. 
@@ -416,6 +419,24 @@ tags: ["realestateinvesting", "financialindependence"]
   - due-on-sale clause - only use seller financing when sellers owns the home free and clear (i.e: when sellers has no loans on the property)
   - higher interest rates than traditional mortgages from banks
   - fewer potential properties - what are percentages of mortgage free homes in Canada and US?
+  - seller can call balloon payment on the properties. It may be a good opportunity to reduce the balloon the payment (over 30% of the balloon payment) if the seller wants to get the balloon earlier
+    - For example, follow the scripts: "we don't have the cash that's why we setup the deal that way? but in case we could return the balloon payment, how much cash you want to walk away today?"
+
+- Jerry Norton suggests 2 step process
+  - first make a low all-cash offer, perhaps 60 percent of the value of the home, to see if the seller is in a position to sell for a discount. Remember the phrases "all-cash" and "close quickly" for this.
+  - next Jerry would tell you to counter with creative finance. In many cases, the seller will counter back with a higher price, whatever they see on Zillow. Counter back that you are willing to pay more if the seller will accept a creative finance solution. This way, you can find out what is most important to the seller: Do they want less money now or more money later? Generally, this depends on their situation. Did they inherit the house? Is there a divorce underway? Or do they have time to use creative finance, which will earn them more money overall?
+
+- **subject-to**
+  - sub-to is short for "subject to existing finance". Rather than buying the property and paying off the existing loan, the investor takes over the existing loan payments that are already in place. The seller can walk from the property knowing the payments are being made, insurance is taken care of, and there are no additional hassles or further responsibilities to consider.
+  - **structure a sub-to deal**
+    - first determine the existing loan terms
+      - this includes the principal balance, the interest rate, the monthly payment amount, and whether there is a balloon or early due date to pay off the loan. To find out, simply ask the homeowner to provide the most recent mortgage statement or have them get a payoff letter from the lender.
+    - determine the equity. (previous owner owes - what's the property worth)
+    - decide on your exit strategy
+      - either flip the deal or keep it as long-term rental.
+    - discover any out of pocket expenses that may play into the deal, such as overdue property taxes on the home.
+    - figure out if you need to put any cash in the seller's pocket
+    - get an attorney of title company to wrap up the paperwork.
 
 # realestate wholesaling
 
@@ -515,6 +536,11 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # creative combinations
 
+- search for the pain point
+  - For example, seller got an unpermitted addition, doesn't make much money from the home, tired of dealing with tenants after many years.
+
+- ask question: "What do you need to walk away with?"
+
 - Jillian found a deal on a fourplex that she can buy for $80,000. The fourplex needs $20,000 in repairs, but Jillian has no money to fund them, so she comes up with a partnership with her family friend Grant. Grant finances the entire $20,000 repair bill and holding costs, while Jillian finances the rehab, takes care of the bills, and manages the property manager for the life of the partnership. 
  
 - Roland acquired a 12-unit apartment complex for $1,000 per month in rent, with a debt-to-income ratio of 25%. After paying the monthly mortgage, he was left with $4,200 in cash flow. He was able to gather $50,000 from the bank by providing a 15% down payment and a 75% loan to value. 
@@ -528,6 +554,11 @@ tags: ["realestateinvesting", "financialindependence"]
   - Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.
   - Look for stability. A tenant who moves every six months without reason is probably not a great candidate.
   - Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
+
+- subject-to means the sellers has some pain and sellers finance means the sellers has something to gain
+
+- hybrid offers
+  - combination of subject-to and seller-finance. For examples, subject to portion of the house to take advantage of mortgage payment with low interest rates, then setup consultant contract where the remaining payment can be counted as expense to the buyer, and the buyer can spread out the tax in multiple years. Even better if the sellers setup the consultant contract in country with low taxes, to leverage lower tax brackets.
 
 # making an offer that sticks
 
@@ -1801,6 +1832,8 @@ Ironic given Facebook copying Snapchat’s stories sent Snap into a bit of a dea
 “If you’re spending all your time running a company, it’s preventing you from generating other revenue streams. A lot of people lie to themselves about this. They think a project is passive when it actually eats tons of their time. If a company is truly passive and making you money, hold it. If it takes your time with no end in sight, sell.”
 
 “I was obsessed with Jim Collins’s mantra: Good is the enemy of great. And I wanted big-time “great.” I knew I had to get out of Heyo and free up my time so I could do the deals I’m doing now, which are making me millions. It was the right move.”
+
+the deal is not done until the deal is done. Follow up, follow up, About 20-30 percent of deals fall through. You can be there to close when no one else can
 
 
 # References
