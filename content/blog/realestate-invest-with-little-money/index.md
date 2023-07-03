@@ -426,18 +426,6 @@ tags: ["realestateinvesting", "financialindependence"]
   - first make a low all-cash offer, perhaps 60 percent of the value of the home, to see if the seller is in a position to sell for a discount. Remember the phrases "all-cash" and "close quickly" for this.
   - next Jerry would tell you to counter with creative finance. In many cases, the seller will counter back with a higher price, whatever they see on Zillow. Counter back that you are willing to pay more if the seller will accept a creative finance solution. This way, you can find out what is most important to the seller: Do they want less money now or more money later? Generally, this depends on their situation. Did they inherit the house? Is there a divorce underway? Or do they have time to use creative finance, which will earn them more money overall?
 
-- **subject-to**
-  - sub-to is short for "subject to existing finance". Rather than buying the property and paying off the existing loan, the investor takes over the existing loan payments that are already in place. The seller can walk from the property knowing the payments are being made, insurance is taken care of, and there are no additional hassles or further responsibilities to consider.
-  - **structure a sub-to deal**
-    - first determine the existing loan terms
-      - this includes the principal balance, the interest rate, the monthly payment amount, and whether there is a balloon or early due date to pay off the loan. To find out, simply ask the homeowner to provide the most recent mortgage statement or have them get a payoff letter from the lender.
-    - determine the equity. (previous owner owes - what's the property worth)
-    - decide on your exit strategy
-      - either flip the deal or keep it as long-term rental.
-    - discover any out of pocket expenses that may play into the deal, such as overdue property taxes on the home.
-    - figure out if you need to put any cash in the seller's pocket
-    - get an attorney of title company to wrap up the paperwork.
-
 # realestate wholesaling
 
 - A wholesaler is the middleman who connects the retailer to the product source, collecting a fee for doing so. A wholesaler is trained to market for those good deals, negotiate the best discount, put together a solid contract, and then sell at a markup to someone else who is not trained or prepared to do this. 
@@ -555,13 +543,35 @@ tags: ["realestateinvesting", "financialindependence"]
   - Look for stability. A tenant who moves every six months without reason is probably not a great candidate.
   - Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
 
+- **executory contracts**
+  - similar to selling financing except you don't get the legal title of the property until after you've met the terms and paid off the full balance. As you make payments on the land contract, you will have what's called the equitable title to the property. This keeps the owner from selling the property to someone else or even putting the property on a lien.
+  - to protect your equitable title, file with your city or county a memorandum of land contract to put the public on notice of your interest in the property.
+
 - **subject-to means the sellers has some pain and sellers finance means the sellers has something to gain**
+
+- **subject-to**
+  - sub-to is short for "subject to existing finance". Rather than buying the property and paying off the existing loan, the investor takes over the existing loan payments that are already in place. The seller can walk from the property knowing the payments are being made, insurance is taken care of, and there are no additional hassles or further responsibilities to consider.
+  - typical place to look for sub-to is the expired listing
+  - **structure a sub-to deal**
+    - first determine the existing loan terms
+      - this includes the principal balance, the interest rate, the monthly payment amount, and whether there is a balloon or early due date to pay off the loan. To find out, simply ask the homeowner to provide the most recent mortgage statement or have them get a payoff letter from the lender.
+    - determine the equity. (previous owner owes - what's the property worth)
+    - decide on your exit strategy
+      - either flip the deal or keep it as long-term rental.
+    - discover any out of pocket expenses that may play into the deal, such as overdue property taxes on the home.
+    - figure out if you need to put any cash in the seller's pocket
+    - get an attorney of title company to wrap up the paperwork.
 
 - hybrid offers
   - combination of subject-to and seller-finance. For examples, subject to portion of the house to take advantage of mortgage payment with low interest rates, then setup consultant contract where the remaining payment can be counted as expense to the buyer, and the buyer can spread out the tax in multiple years. Even better if the sellers setup the consultant contract in country with low taxes, to leverage lower tax brackets.
 
 - **morby method**
-  - ???
+  - there're usually 3 reasons why a seller won't agree to seller finance
+    - the seller don't understand how it benefits them because the buyer have done a poor job telling them the story of how it works
+    - the seller really need the money right now, be it for a surgery of their daughter's wedding or something else
+    - they aren't motivated to sell the house in the first place.
+  - one possible option is to get the normal DSR loan for 50% of the cost and seller finance for the remaining 50% of the cost.
+  - acquisition people think these sellers are greedy, but in reality, these sellers are just trying to solve a problem in their life. They've often got some sort of baggage, and the only solution they have is the equity in their house. if you don't know this going in, you don't understand why they won't budget on their tactic. That's why you need to be willing to show up with a solution. If you're negotiating against what someone believes is their single tool to solve an emotional problem, your negotiations will fail. Find the bunnies. Re-home their problems.
 
 # making an offer that sticks
 
@@ -798,8 +808,6 @@ multiplying the monthly rent by the number of days in the month. This is called 
  
 - Local investors have the advantage of being able to interact with the property managers and other stakeholders in the community, which can help them get deals done. 
  
-- The author’s first endeavor into long-distance investing was disastrous, as he failed to give his properties the time and attention they needed to succeed. 
- 
 - It's important to understand that cash flow and appreciation are not mutually exclusive. If you buy a small multifamily property, you can get both high cash flow and high value. 
  
 - Do not buy a property if it will lose money. Cash flow is king even in an appreciating market. The question is, how little cash flow are you willing to accept. 
@@ -814,8 +822,6 @@ multiplying the monthly rent by the number of days in the month. This is called 
  
 - The price of real estate and the rents that can be charged to tenants are based on supply and demand. The more people who want to live in a specific location and the less housing available, the higher the cost of rent. This is why places like California, Hawaii, and New York City have such high rents. 
  
-- It is possible to buy a property in a different state and rent it out. This is called long-distance investing.
-
 # property condition (CCC No. 3)
 
 - The author bought a house that was infested with bedbugs. He decided to evict everyone and do a full restoration, including a new roof, siding, and renovation of all the units. Six months after the tenants left, one of them returned and began squatting. 
@@ -825,8 +831,8 @@ multiplying the monthly rent by the number of days in the month. This is called 
 - Purchasing in poor condition not only allows you to add value to a property, but it also allows you to perform major renovations that would otherwise need to be done in the future. 
  
 - Don’t assume that rehabbing a property makes it a good deal. If you don't know your numbers, you might end up overpaying. 
- 
-When you rehab a property, you can often get a higher-than-average rental rate. After all, tenants prefer a nice, clean unit to an older and uglier one. However, in a Class A neighborhood, tenants expect a Class A product, so don't expect to get above-average rent. 
+
+- When you rehab a property, you can often get a higher-than-average rental rate. After all, tenants prefer a nice, clean unit to an older and uglier one. However, in a Class A neighborhood, tenants expect a Class A product, so don't expect to get above-average rent. 
  
 - Banks are in business to make money. The number one priority of a bank is to maintain a positive balance, which is achieved through making loans. Every bank makes decisions regarding the funding of its loans based on one factor: risk. 
  
@@ -851,8 +857,6 @@ When you rehab a property, you can often get a higher-than-average rental rate. 
 
 # profitability and analysis (CCC No. 5)
 
-- The final piece of the CCC puzzle is establishing hard and fast rules about what makes a good deal. This allows you to get excited about the right deal and avoid getting carried away by anything less than ideal. 
- 
 - The first metric that you should look at when evaluating a deal is its cash flow. Cash flow is the most important metric for BRRRR investors. It is the amount of money that a property generates after paying for its expenses, such as the mortgage, taxes, and insurance. 
  
 - Your target cash flow per unit is calculated by taking your total cash flow and dividing it by the number of units. 
@@ -869,19 +873,15 @@ When you rehab a property, you can often get a higher-than-average rental rate. 
  
 - To determine your cash flow, identify what utilities you are responsible for paying as the landlord, such as water, electricity, and heat. Then factor in the costs of these utilities. 
  
-- If you come across a property with any of these costs, you can usually eliminate them after taking ownership by paying for them yourself. 
- 
 - Ask the agent or the current owner about the maintenance costs of a property. These costs may include snow removal and landscaping. 
  
 - Knowing the current tax situation is crucial, as it may change suddenly if you buy a property. Some counties reassess the value of a property when it's sold, which can dramatically raise the amount you'll be paying in taxes. 
  
 - Rental property insurance protects the building and landlord-owned items from damage, and can help cover a tenant's lost rent if the property is damaged and unusable. 
  
-- To determine the monthly payment for a property, you need to know: the loan amount, the interest rate, and the term of the loan. 
- 
 - The more vacant periods a property has, the more money it loses.
 
-- Vacancy rates of at least two units in a fourplex can be expected to be around 7. 6 percent in 2019, which means that the fourplex would have been empty for the past two years, on average, every month. 
+- Vacancy rates of at least two units in a fourplex can be expected to be around 7.6 percent in 2019, which means that the fourplex would have been empty for the past two years, on average, every month. 
  
 - The total pure cash flow of a property is the monthly rent, minus the monthly expenses, such as mortgage payments, insurance, and property taxes. 
  
@@ -889,24 +889,21 @@ When you rehab a property, you can often get a higher-than-average rental rate. 
  
 - Capital expenditures are investments that improve the value of a property. They include replacing appliances, windows, and roofs, as well as adding new features to a property, such as a swimming pool. 
  
-- The sad truth is that this is the way many real estate investors operate. They buy a property that is expected to generate a positive cash flow, but instead are continually losing money due to ongoing CapEx. 
+- The sad truth is way many real estate investors buy a property that is expected to generate a positive cash flow, but instead are continually losing money due to ongoing CapEx. 
  
 - The Multifamily Capital Expenditure Budget Algorithm, or MCEBA, is a tool that allows you to figure out how much money you should set aside for capital expenditures in a multifamily property. It takes into account the amount of units in a property, and the age of the units, to give you an idea of the amount of money you should be setting aside. 
- 
-- In the Four-Square Method, you estimate the monthly income and expenses, and then determine your monthly cash flow. 
  
 - A property’s cash flow is determined by four factors: the rent, the expenses, the down payment, and the property’s cash-on-cash return. 
  
 - The Cash on Cash Return looks at your cash flow after you've paid for the property, including any closing costs and repair costs. 
  
-- The cash-flow percentage that a property will provide is dependent on the local market 
-conditions. If you're investing in a market with low growth and low appreciation, your cash flow will most likely be low as well. 
+- The cash-flow percentage that a property will provide is dependent on the local market conditions. If you're investing in a market with low growth and low appreciation, your cash flow will most likely be low as well. 
  
 - Always look at both cash flow and capital gain when buying a property. By setting a minimum purchase price for both cash flow and capital gain, you make sure that you’re not simply buying cash flow with a large down payment. 
  
  - Do not let your emotions get in the way when investing in real estate. The most important thing when investing in real estate is to understand the numbers, which means you have to be able to separate your emotions from the numbers.
 
-- The Park Place Apartments property was bought for $1. 2 million, and its after-repair-value, or ARV, was $2.3 million. The investors would be paying $1.6 million for the property, and its after-repair-value, or ARV, was $2. 
+- The Park Place Apartments property was bought for $1.2 million, and its after-repair-value, or ARV, was $2.3 million. The investors would be paying $1.6 million for the property, and its after-repair-value, or ARV, was $2. 
  
 - The first step in the BRRRR method is to calculate your debt service coverage ratio, or DSCR. You should aim to have a DSCR of 1.2 or higher. 
  
@@ -938,8 +935,6 @@ conditions. If you're investing in a market with low growth and low appreciation
  
 - The author advises being conservative when underwriting a property, especially when doing so for the first time. However, he also advises that people should be aggressive, especially when they don’t have much experience. 
  
-- It is important to underwrite a property as thoroughly as possible before signing a contract, but you do not want to over-analyze a deal. There are times when you must make judgments based on your experience, and those times call for flexibility rather than rigidity. 
- 
 - The author acquired the Apartments at Madison Barracks, which was in terrible condition. The building needed repairs, and the land needed work as well. However, it had a lot of potential, and the apartments were merged, which allowed the team to increase its capacity by 12 percent.
 
 # multifamily millionaire model
@@ -950,16 +945,11 @@ conditions. If you're investing in a market with low growth and low appreciation
  
 - To better evaluate a commercial real estate investment, we need to calculate the return on investment. This is simply the amount of profit we make compared to the amount we paid to buy and run the business.
 
-- Your NOI is the profit you make after paying the expenses associated with running your 
-business. It is calculated by taking your revenue and subtracting your expenses. 
+- Your NOI is the profit you make after paying the expenses associated with running your business. It is calculated by taking your revenue and subtracting your expenses. 
  
-To determine the value of a single-family house, you compare it to what other similar houses in the same area have sold for, while to determine the value of a commercial building, you compare it to what other commercial buildings of a similar asset class in the same area have sold for. 
- 
-- It’s important to understand NOI, because it is the main source of income after paying the mortgage and other bills. 
+- To determine the value of a single-family house, you compare it to what other similar houses in the same area have sold for, while to determine the value of a commercial building, you compare it to what other commercial buildings of a similar asset class in the same area have sold for. 
  
 - By increasing the rent, you can increase your monthly income by adding more units. The total income from all the units combined is known as the Gross Rental Income. 
- 
-- Cap rate is a metric used to show the ratio between a property's current monthly income and its current value. It shows how much money a property can generate if its expenses were reduced to zero.
  
 - The NOI of a property is the amount of money that the property makes in a year, divided by the total amount that it costs to operate the property. The NOI is used to calculate the value of a commercial property. 
  
@@ -997,15 +987,12 @@ To determine the value of a single-family house, you compare it to what other si
  
 - Relationships are hard work, and you have to go out of your way to meet people. As you build these relationships, you must constantly assess and reassess them to determine if a partnership is right for you. 
  
-- Another method to choose your business partners is to use personality tests and skill 
-assessments. 
+- Another method to choose your business partners is to use personality tests and skill assessments. 
  
 - It is important to recognize your weaknesses and leverage the strengths of others, whether those people are employees, third parties, or partners. 
  
 - The author and his team inherited a project in disarray. The property management company they were working with had stripped the office bare. The former employees had stolen everything.
 
-- The two types of capital that are used to fund a deal are debt and equity. Debt is placed at the bottom of the pyramid, while equity is placed at the top. 
- 
 - The largest debt is usually found at the bottom of the capital structure in the first position, which is secured by the property. The first lender would get paid before any other creditor in the capital structure. 
  
 - The first is to contribute all the cash yourself. The second is to do a joint venture with other investors. The third is to syndicate the deal. 
