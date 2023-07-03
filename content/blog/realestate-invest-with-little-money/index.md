@@ -555,10 +555,13 @@ tags: ["realestateinvesting", "financialindependence"]
   - Look for stability. A tenant who moves every six months without reason is probably not a great candidate.
   - Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
 
-- subject-to means the sellers has some pain and sellers finance means the sellers has something to gain
+- **subject-to means the sellers has some pain and sellers finance means the sellers has something to gain**
 
 - hybrid offers
   - combination of subject-to and seller-finance. For examples, subject to portion of the house to take advantage of mortgage payment with low interest rates, then setup consultant contract where the remaining payment can be counted as expense to the buyer, and the buyer can spread out the tax in multiple years. Even better if the sellers setup the consultant contract in country with low taxes, to leverage lower tax brackets.
+
+- **morby method**
+  - ???
 
 # making an offer that sticks
 
@@ -1834,7 +1837,6 @@ Ironic given Facebook copying Snapchat’s stories sent Snap into a bit of a dea
 “I was obsessed with Jim Collins’s mantra: Good is the enemy of great. And I wanted big-time “great.” I knew I had to get out of Heyo and free up my time so I could do the deals I’m doing now, which are making me millions. It was the right move.”
 
 the deal is not done until the deal is done. Follow up, follow up, About 20-30 percent of deals fall through. You can be there to close when no one else can
-
 
 # References
 - https://www.scribd.com/book/556011288/Summary-of-Brandon-Turner-s-The-Book-on-Investing-In-Real-Estate-with-No-and-Low-Money-Down
