@@ -209,18 +209,18 @@ The reason you blast instead of worm is that people don’t like to change their
 - Despite the disaster stories, many companies violate the exclusivity law. You can’t change people’s minds once they are made up. In fact, you often reinforce your competitor’s position by making its concept more critical.
 - What often leads marketers down this booby-trapped lane is that beautiful stuff called research.
 
-# The Law of the Ladder: The strategy to use depends on which rung you occupy on the ladder.
+# The Law of the Ladder: The strategy depends on which rung you occupy on the ladder.
 
-- While being first into the prospect’s mind ought to be your primary marketing objective, the battle isn’t lost if you fail in this endeavor. There are strategies to use for No. 2 and No. 3 brands.
-- All products are not created equal. There’s a hierarchy in the mind that prospects use in making decisions. For each category, there is a product ladder in the mind. On each rung is a brand name.
-- Your marketing strategy should depend on how soon you got into the mind and consequently which rung of the ladder you occupy. The higher the better, of course.
+- While being first in the prospect’s mind should be your primary marketing objective, the battle isn’t lost if you fail. There are strategies to use for No. 2 and No. 3 brands.
+- All products are not created equal. There’s a hierarchy in the mind that prospects use in making decisions. For each category, there is a product ladder in mind. On each rung is a brand name.
+- Your marketing strategy should depend on how soon you got into the mind and which rung of the ladder you occupy. The higher the better, of course.
 - What about your product’s ladder in the prospect’s mind? How many rungs are there on your ladder? It depends on whether your product is a high-interest or a low-interest product.
-- Products you use every day (cigarettes, cola, beer, toothpaste, cereal) tend to be high-interest products with many rungs on their ladders.
-- Products that are purchased infrequently (furniture, lawn mowers, luggage) usually have few rungs on their ladders.
+- Products you use daily (cigarettes, cola, beer, toothpaste, cereal) are high-interest products with many rungs on their ladders.
+- Products purchased infrequently (furniture, lawnmowers, luggage) usually have few rungs on their ladders.
 - Products that involve a great deal of personal pride (automobiles, watches, cameras) are also high-interest products with many rungs on their ladders even though they are purchased infrequently.
-- There’s a relationship between market share and your position on the ladder in the prospect’s mind. You tend to have twice the market share of the brand below you and half the market share of the brand above you.
+- There’s a relationship between market share and your position on the ladder in the prospect’s mind. You tend to have twice the brand's market share below you and half the market share above you.
 - What’s the maximum number of rungs on a ladder? There seems to be a rule of seven in the prospect’s mind. Ask someone to name all the brands he or she remembers in a given category. Rarely will anyone name more than seven. And that’s for a high-interest category.
-- The ladder is a simple, but powerful, analogy that can help you deal with the critical issues in marketing. Before starting any marketing program, ask yourself the following questions: Where are we on the ladder in the prospect’s mind? On the top rung? On the second rung? Or maybe we’re not on the ladder at all.
+- The ladder is a simple, but powerful, analogy that can help you deal with the critical issues in marketing. Before starting any marketing program, ask yourself: Where are we on the ladder in the prospect’s mind? On the top rung? On the second rung? Or maybe we’re not on the ladder at all.
 - Then make sure your program deals realistically with your position on the ladder. More on how to do this later.
 
 # The Law of Duality: In the long run, every market becomes a two-horse race.
