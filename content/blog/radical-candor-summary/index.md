@@ -421,247 +421,179 @@ tags: ["leadership"]
       - Walk, don’t sit. When you’re walking, the emotions are less on display. Walking and looking in the same direction often feels more collaborative than sitting across a table and staring each other down.
 
 # Guidance: Ideas for getting/giving/encouraging praise and criticism
-• In order to build a culture of Radically Candid guidance you need to get, give, and encourage both
-praise and criticism.
-Soliciting Impromptu Guidance
-Embrace the discomfort
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-18
-• When you are the boss people really do not want to criticize you or to tell you what they really think.
-• Here are some tips / techniques Scott has seen work to get the conversation flowing:
-o You are the exception to the “criticize in private” rule of thumb.
-o You also set an ideal for the team as a whole: everyone should embrace criticism that helps us
-do our jobs better.
-o The bigger your team, the harder it is for people to get on your calendar.
-o Airing it in public has another benefit as well: it saves you from having to hear the same thing
-over and over.
-o Have a go - to question.
-o “What could I do or stop doing that would make it easier to work with me?”
-• Prepare scenarios in advance and commit to sticking with the conversation until you have a genuine
-response.
-• Another way to embrace the discomfort is to point out when people’s body language is at odds with
-what they’re saying.
-• Listen with the intent to understand, not to respond.
-• Listen to and clarify the criticism — but don’t debate it.
-• Remind yourself going in that no matter how unfair the criticism, your first job is to listen with the
-intent to understand, not to defend yourself.
-Reward criticism to get more of it.
-• You have to reward the candor if you want to get more of it.
-• In some cases, of course, you may disagree with the criticism. It’s here that your Radical Candor skills
-become essential.
-• First, find something in the criticism you can agree with, to signal that you’re open to criticism. Then,
-check for understanding — repeat what you heard back to the person to make sure you got it.
-Gauge the guidance you get.
-Orange Box
-• Make it not just safe but natural to criticize you.
-• Employees won’t feel free if you don’t take specific actions to ensure that it’s not just safe but
-expected to make suggestions and complaints. You have to organize a system.
-• Put an orange box with a slit on the top in a high - traffic area so that people could drop questions or
-feedback into it. At his all - hands meeting he’d reach into the box and answer off the cuff.
-Management “Fix - It” Weeks
-• Instead of a chance to work on new and exciting ideas people usually don’t have time to get to, it’s a
-chance to fix old and annoying problems that have been bothering people for months.
-Giving Impromptu Guidance
-• If you don’t lead by example, the people on your team are unlikely to guide each other.
-• Be humble - start with being humble because it’s absolutely essential when delivering both praise and
-criticism.
-• A huge part of what makes giving guidance so valuable is that misperceptions on both sides of the
-equation get corrected.
-Here are some techniques:
-• Situation, behavior, impact. 
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-19
-o Describe three things when giving feedback: 1) the situation you saw, 2) the behavior (i.e..,
-what the person did, either good or bad), and 3) the impact you observed. This helps you avoid
-making judgments about the person’s intelligence, common sense, innate goodness, or other
-personal attributes.
-o Situation, behavior, and impact applies to praise as well as to criticism.
-o To give praise to people properly. Use these three touchstones as well.
-• Left - hand column.
-o Think of a conversation you had that was frustrating. Take out a clean sheet of paper and draw
-a line down the middle. Write down what you actually said in the right - hand column. Write
-down what you thought in the left - hand column. Now think about when the conversation
-went sideways.
-• “Ontological Humility.”
-o The idea is that when you are mindful that your subjective experience is not objective truth, it
-can help you challenge others in a way that invites a reciprocal challenge.
-• Be helpful
-o To find a way to help them clarify the challenge they’re facing — that clarity is a gift that will
-enable them to move forward. Here are some tips and reminders:
-• Stating your intention to be helpful can lower defenses.
-o Show, don’t tell.
-o By explicitly describing what was good or what was bad, you are helping a person do more of
-what’s good and less of what’s bad — and to see the difference.
-o Finding help is better than offering it yourself.
-• Guidance is a gift, not a whip or a carrot.
-o Think about times that guidance has been most helpful to you and offer it in that spirit.
-o Give feedback immediately
-o If you wait too long to give guidance, everything about it gets harder.
-o It’s much more effective and less burdensome to just say it right away!
-o Say it in 2 – 3 minutes between meetings.
-• Reiterate impromptu guidance
-o Truly this is something you can squeeze in between meetings in three minutes or less. If you
-give it right away in between meetings, you will not only save yourself a subsequent meeting
-but also deliver the guidance in less time than it would take you to schedule the subsequent
-meeting. And the quality of your guidance will be much better.
-o Keep slack time in your calendar or be willing to be late.
-o Don’t “save up” guidance for a 1: 1 or a performance review.
-o Don’t let the formal processes — the 1: 1 meeting, annual or biannual performance reviews, or
-employee happiness surveys — take over. They are meant to reinforce, not substitute, what we
-do every day.
-• Guidance has a short half - life.
-o Unspoken criticism explodes like a dirty bomb.
-o Remaining silent at work for too long about something that angers or frustrates you makes it
-more likely that you will eventually blow up in a way that makes you look irrational, harms your
-relationship, or both.
-o Avoid black holes.
-o Be sure to let people know immediately how their work is being received.
-o In person (if possible)
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-20
-o The clarity of your guidance gets measured at the other person’s ear, not at your mouth. That’s
-why it’s best to deliver guidance in person. You won’t really know if the other person
-understood what you were saying if you can’t see the reaction.
-o Unfortunately, giving guidance in person is not always possible. When that is the case, here are
-some things to keep in mind: Immediate vs. in person.
-• Hierarchy of modes.
-o A video call, if you have high - speed internet access, is second best.
-o Multiple modes.
-o Praise people at a public all - hands meeting.
-o Following up in person at a 1: 1 carried more emotional weight and following up with an email
-to the whole team carried more lasting weight.
-• Do’s and don’ts.
-o If you must criticize or correct somebody over email, do not Reply All.
-o Being in a remote office is hard.
-o It’s really important to have quick, frequent interactions.
-o Praise in public, criticize in private
-o Public praise tends to lend more weight to the praise, and it encourages others to emulate
-whatever was great.
-o Corrections, factual observations, disagreements, and debates are different from criticism.
-o Adapt to an individual’s preferences.
-o When you’re praising people, your goal is to let them know what they did well as clearly as
-possible and in the way that will make them feel best — not the way you’d like to hear it.
-• Group learning.
-o To encourage public criticism so that everyone learns from one another’s mistakes, let it be self
-- reported.
-o Don’t personalize -avoid personalizing but accept it when people take what you say personally.
-o The “fundamental attribution error” will harm the effectiveness of your guidance.
-o Use situation, behavior, impact, or the left - hand column techniques to be humble and to avoid
-personalizing.
-o Say “that’s wrong” not “you’re wrong.”
-o When an argument is about an issue, keep it about the issue. Personalizing unnecessarily will
-only make the issue harder to resolve.
-o The phrase “don’t take it personally” is worse than useless.
-o Don’t personalize even when it really is personal.
-Gauge Your Impromptu Guidance, Get A Baseline, Track Your Improvements
-• One of the most effective ways to become more Radically Candid is to explain the framework to your
-team and then ask them to gauge your guidance each week. Track your progress over time.
-• The most important thing is figuring out how others experience your guidance. Listen to how they feel
-about the guidance you’re giving them. Help them understand that when you’re challenging them it’s
-because you care about not just their professional growth but them as human beings.
-Being Radically Candid with Your Boss
-• If you are not in a position of authority, I do recommend that you try being Radically Candid — but
-proceed with caution. It is not your moral obligation to criticize your boss if it will cost you your job.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-21
-• Once you start rolling out Radical Candor with your team and seeing good results, explain what you’re
-doing and why to your boss. Give your boss a chance to challenge you but assume good intent.
-• You can approach Radical Candor with your boss in much the same way you did with your team. Start
-by asking for guidance before you give it.
-• Here is a slight modification if you’re talking to your boss instead of your employee — ask permission
-to give guidance.
-• When offering guidance to your boss, use the same tips above: be helpful, humble, do it immediately
-and in person, praise in public (if it doesn’t look like kissing up), criticize in private, and don’t
-personalize.
-• Radical Candor may be harder for men managing women.
-• Criticism is a gift, and you need to give it in equal measure to your male and female direct reports.
-• Gender politics is another factor that makes it harder for some men to be Radically Candid with
-women.
-• Gender bias makes it difficult for women to be Radically Candid with both men and women. One
-common bias woman often fall prey to: the “Abrasive Trap.”
-• When bias plays out over a whole organization, the impact on female leadership is profound.
-• The context of gender politics and gender bias is becoming untouchable — to everyone’s detriment. It
-doesn’t have to be this way.
-• Scott has a few thoughts on how individuals can take action to cool things down where they work on a
-daily basis.
-o Men: don’t “pull punches” with women - become aware of how the woman feels about your
-guidance; just ask her. Ask her to gauge your praise and criticism.
-o Women: demand criticism. Do whatever it takes to drag a candid assessment out of your male
-colleagues or boss.
-• Men and women: things to think about when you feel a woman is being “too aggressive”:
-o Switch genders.Imagine a man on your team doing exactly the same thing the woman did. Now,
-how would you react? If you’d react differently, you’re about to fall into the trap.
-o Be more specific.
-o Don’t use gendered language. Notice the words you use.
-o Never just say, “Be more likeable.”
-• Things to think about if you’re a woman who’s being told, “You’re abrasive.”
-o Never stop challenging directly.
-o Care personally — but kill the angel in the office.
-o The competence / likeability research has not concluded that you weren’t out of line.
-Remember: it is possible that you have been obnoxious.
-o Just because it’s wrong to kiss up and kick down doesn’t mean it’s right to do the opposite.
-o Don’t write men off.
-Formal Performance Reviews
-• No surprises.
-• Don’t rely on your unilateral judgment.
-• Solicit feedback on yourself first.
-• Write it down.
-• Taking the time to articulate your thinking on paper beforehand can spare you the awkwardness of
-having to backpedal in the middle of a review, or after you’ve delivered it.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-22
-• Make a conscious decision about when to give the written review. There is no right timing here. Some
-people are much better able to have a productive conversation if they already know the substance of
-the review.
-• No matter how you decide to deliver the review, commit to being Radically Candid — and to being sure
-that what you have to say has been fully understood by the other person.
-• Schedule at least fifty minutes in person, and don’t do reviews back - to - back.
-• Spend half the time looking back (diagnosis), half the time looking forward (plan).
-• Schedule regular check - ins to assess how the plan is working.
-• Deliver the rating / compensation news after the performance review.
-Prevent Backstabbing
-• Never let one person on your team talk to you about another behind their back.
-• Instead, insist that they talk directly to each other, without you. Hopefully, they’ll work it out. But if
-they can’t, offer to have a three - way conversation, ideally in person but at worst on the phone.
-Peer Guidance
-• GOOD guidance should happen in a conversation, in person.
-• It’s important that you, as the leader, encourage your team to take the time to talk to one another.
-• Peer gauging. Another good way to get people talking to each other is to explain the Radical Candor
-framework to your team. Explain how you ask your team to gauge the guidance you give them, so that
-you can improve your guidance. Encourage them to gauge their peer guidance. Having a shared
+
+- In order to build a culture of Radically Candid guidance you need to get, give, and encourage both praise and criticism.
+
+- **Soliciting Impromptu Guidance** 
+  - **Embrace the discomfort**
+  - When you are the boss people really do not want to criticize you or to tell you what they really think.
+  - Here are some tips / techniques Scott has seen work to get the conversation flowing:
+  - You are the exception to the “criticize in private” rule of thumb.
+  - You also set an ideal for the team as a whole: everyone should embrace criticism that helps us do our jobs better.
+  - The bigger your team, the harder it is for people to get on your calendar.
+  - Airing it in public has another benefit as well: it saves you from having to hear the same thing over and over.
+  - Have a go - to question.
+  - “What could I do or stop doing that would make it easier to work with me?”
+  - Prepare scenarios in advance and commit to sticking with the conversation until you have a genuine response.
+  - Another way to embrace the discomfort is to point out when people’s body language is at odds with what they’re saying.
+  - Listen with the intent to understand, not to respond.
+  - Listen to and clarify the criticism — but don’t debate it.
+  - Remind yourself going in that no matter how unfair the criticism, your first job is to listen with the intent to understand, not to defend yourself.
+
+  - **Reward criticism to get more of it.**
+  - You have to reward the candor if you want to get more of it.
+  - In some cases, of course, you may disagree with the criticism. It’s here that your Radical Candor skills become essential.
+  - First, find something in the criticism you can agree with, to signal that you’re open to criticism. Then, check for understanding — repeat what you heard back to the person to make sure you got it.
+
+  - **Gauge the guidance you get.**
+
+- **Orange Box**
+  - Make it not just safe but natural to criticize you.
+  - Employees won’t feel free if you don’t take specific actions to ensure that it’s not just safe but expected to make suggestions and complaints. You have to organize a system.
+  - Put an orange box with a slit on the top in a high - traffic area so that people could drop questions or feedback into it. At his all - hands meeting he’d reach into the box and answer off the cuff.
+
+- **Management “Fix - It” Weeks**
+  - Instead of a chance to work on new and exciting ideas people usually don’t have time to get to, it’s a chance to fix old and annoying problems that have been bothering people for months.
+
+- **Giving Impromptu Guidance**
+- If you don’t lead by example, the people on your team are unlikely to guide each other.
+- Be humble - start with being humble because it’s absolutely essential when delivering both praise and criticism.
+- A huge part of what makes giving guidance so valuable is that misperceptions on both sides of the equation get corrected.
+- Here are some techniques:
+  - *Situation, behavior, impact.*
+    - Describe three things when giving feedback: 1) the situation you saw, 2) the behavior (i.e.., what the person did, either good or bad), and 3) the impact you observed. This helps you avoid making judgments about the person’s intelligence, common sense, innate goodness, or other personal attributes.
+    - Situation, behavior, and impact applies to praise as well as to criticism.
+    - To give praise to people properly. Use these three touchstones as well.
+  - *Left - hand column.*
+    - Think of a conversation you had that was frustrating. Take out a clean sheet of paper and draw a line down the middle. Write down what you actually said in the right - hand column. Write down what you thought in the left - hand column. Now think about when the conversation went sideways.
+  - *“Ontological Humility.”*
+    - The idea is that when you are mindful that your subjective experience is not objective truth, it can help you challenge others in a way that invites a reciprocal challenge.
+  - *Be helpful*
+    - To find a way to help them clarify the challenge they’re facing — that clarity is a gift that will enable them to move forward. Here are some tips and reminders:
+  - *Stating your intention to be helpful can lower defenses.*
+    - Show, don’t tell.
+    - By explicitly describing what was good or what was bad, you are helping a person do more of what’s good and less of what’s bad — and to see the difference.
+    - Finding help is better than offering it yourself.
+  - *Guidance is a gift, not a whip or a carrot.*
+    - Think about times that guidance has been most helpful to you and offer it in that spirit.
+    - Give feedback immediately
+    - If you wait too long to give guidance, everything about it gets harder.
+    - It’s much more effective and less burdensome to just say it right away!
+    - Say it in 2 – 3 minutes between meetings.
+  - *Reiterate impromptu guidance*
+    - Truly this is something you can squeeze in between meetings in three minutes or less. If you give it right away in between meetings, you will not only save yourself a subsequent meeting but also deliver the guidance in less time than it would take you to schedule the subsequent meeting. And the quality of your guidance will be much better.
+    - Keep slack time in your calendar or be willing to be late.
+    - Don’t “save up” guidance for a 1: 1 or a performance review.
+    - Don’t let the formal processes — the 1: 1 meeting, annual or biannual performance reviews, or employee happiness surveys — take over. They are meant to reinforce, not substitute, what we do every day.
+  - *Guidance has a short half - life.*
+    - Unspoken criticism explodes like a dirty bomb.
+    - Remaining silent at work for too long about something that angers or frustrates you makes it more likely that you will eventually blow up in a way that makes you look irrational, harms your relationship, or both.
+    - Avoid black holes.
+    - Be sure to let people know immediately how their work is being received.
+    - In person (if possible)
+    - The clarity of your guidance gets measured at the other person’s ear, not at your mouth. That’s why it’s best to deliver guidance in person. You won’t really know if the other person understood what you were saying if you can’t see the reaction.
+    - Unfortunately, giving guidance in person is not always possible. When that is the case, here are
+    some things to keep in mind: Immediate vs. in person.
+  - *Hierarchy of modes.*
+    - A video call, if you have high - speed internet access, is second best.
+    - Multiple modes.
+    - Praise people at a public all - hands meeting.
+    - Following up in person at a 1: 1 carried more emotional weight and following up with an email to the whole team carried more lasting weight.
+  - *Do’s and don’ts.*
+    - If you must criticize or correct somebody over email, do not Reply All.
+    - Being in a remote office is hard.
+    - It’s really important to have quick, frequent interactions.
+    - Praise in public, criticize in private
+    - Public praise tends to lend more weight to the praise, and it encourages others to emulate whatever was great.
+    - Corrections, factual observations, disagreements, and debates are different from criticism.
+    - Adapt to an individual’s preferences.
+    - When you’re praising people, your goal is to let them know what they did well as clearly as possible and in the way that will make them feel best — not the way you’d like to hear it.
+- *Group learning.*
+  - To encourage public criticism so that everyone learns from one another’s mistakes, let it be self - reported.
+  - Don’t personalize -avoid personalizing but accept it when people take what you say personally.
+  - The “fundamental attribution error” will harm the effectiveness of your guidance.
+  - Use situation, behavior, impact, or the left - hand column techniques to be humble and to avoid personalizing.
+  - Say “that’s wrong” not “you’re wrong.”
+  - When an argument is about an issue, keep it about the issue. Personalizing unnecessarily will only make the issue harder to resolve.
+  - The phrase “don’t take it personally” is worse than useless.
+  - Don’t personalize even when it really is personal.
+
+- **Gauge Your Impromptu Guidance, Get A Baseline, Track Your Improvements**
+  - One of the most effective ways to become more Radically Candid is to explain the framework to your team and then ask them to gauge your guidance each week. Track your progress over time.
+  - The most important thing is figuring out how others experience your guidance. Listen to how they feel about the guidance you’re giving them. Help them understand that when you’re challenging them it’s because you care about not just their professional growth but them as human beings.
+
+- **Being Radically Candid with Your Boss**
+  - If you are not in a position of authority, I do recommend that you try being Radically Candid — but proceed with caution. It is not your moral obligation to criticize your boss if it will cost you your job.
+  - Once you start rolling out Radical Candor with your team and seeing good results, explain what you’re doing and why to your boss. Give your boss a chance to challenge you but assume good intent.
+  - You can approach Radical Candor with your boss in much the same way you did with your team. Start by asking for guidance before you give it.
+  - Here is a slight modification if you’re talking to your boss instead of your employee — ask permission to give guidance.
+  - When offering guidance to your boss, use the same tips above: be helpful, humble, do it immediately and in person, praise in public (if it doesn’t look like kissing up), criticize in private, and don’t personalize.
+  - Radical Candor may be harder for men managing women.
+  - Criticism is a gift, and you need to give it in equal measure to your male and female direct reports.
+  - Gender politics is another factor that makes it harder for some men to be Radically Candid with women.
+  - Gender bias makes it difficult for women to be Radically Candid with both men and women. One common bias woman often fall prey to: the “Abrasive Trap.”
+  - When bias plays out over a whole organization, the impact on female leadership is profound.
+  - The context of gender politics and gender bias is becoming untouchable — to everyone’s detriment. It doesn’t have to be this way.
+  - Scott has a few thoughts on how individuals can take action to cool things down where they work on a daily basis.
+    - Men: don’t “pull punches” with women - become aware of how the woman feels about your
+    guidance; just ask her. Ask her to gauge your praise and criticism.
+    - Women: demand criticism. Do whatever it takes to drag a candid assessment out of your male colleagues or boss.
+  - Men and women: things to think about when you feel a woman is being “too aggressive”:
+    - Switch genders.Imagine a man on your team doing exactly the same thing the woman did. Now,
+    how would you react? If you’d react differently, you’re about to fall into the trap.
+    - Be more specific.
+    - Don’t use gendered language. Notice the words you use.
+    - Never just say, “Be more likeable.”
+  - Things to think about if you’re a woman who’s being told, “You’re abrasive.”
+    - Never stop challenging directly.
+    - Care personally — but kill the angel in the office.
+    - The competence / likeability research has not concluded that you weren’t out of line. Remember: it is possible that you have been obnoxious.
+    - Just because it’s wrong to kiss up and kick down doesn’t mean it’s right to do the opposite.
+    - Don’t write men off.
+
+- **Formal Performance Reviews**
+  - No surprises.
+  - Don’t rely on your unilateral judgment.
+  - Solicit feedback on yourself first.
+  - Write it down.
+  - Taking the time to articulate your thinking on paper beforehand can spare you the awkwardness of having to backpedal in the middle of a review, or after you’ve delivered it.
+  - Make a conscious decision about when to give the written review. There is no right timing here. Some people are much better able to have a productive conversation if they already know the substance of the review.
+  - No matter how you decide to deliver the review, commit to being Radically Candid — and to being sure that what you have to say has been fully understood by the other person.
+  - Schedule at least fifty minutes in person, and don’t do reviews back - to - back.
+  - Spend half the time looking back (diagnosis), half the time looking forward (plan).
+  - Schedule regular check - ins to assess how the plan is working.
+  - Deliver the rating / compensation news after the performance review.
+
+- **Prevent Backstabbing**
+  - Never let one person on your team talk to you about another behind their back.
+  - Instead, insist that they talk directly to each other, without you. Hopefully, they’ll work it out. But if they can’t, offer to have a three - way conversation, ideally in person but at worst on the phone.
+
+- **Peer Guidance**
+- GOOD guidance should happen in a conversation, in person.
+- It’s important that you, as the leader, encourage your team to take the time to talk to one another.
+- Peer gauging. Another good way to get people talking to each other is to explain the Radical Candor framework to your team. Explain how you ask your team to gauge the guidance you give them, so that you can improve your guidance. Encourage them to gauge their peer guidance. Having a shared
 vocabulary will help your culture move toward Radical Candor.
-Speaking Truth To “Power”
-“Skip level meetings.”
-• They need to happen only once a year to be effective. This involves meeting with the people who work
-for your direct reports, without your direct reports in the room, and ask what they could do or stop
-doing to be better bosses.
-• The rationale for skip level meetings is that most people are very reluctant to criticize their boss.
-• The intent of these sessions is to be supportive of the managers who report to you, not to undermine
-them.
-• Here are a few rules of thumb for conducting them.
-o Explain it. Show it. Explain it again. Explain to each of your direct reports that you have two
-goals: 1) to help each of them become better bosses and 2) to make sure people on their team
-feel comfortable giving them feedback directly.
-o Never have a skip level meeting without prior consent of your direct report.
-o More importantly, never have skip level meetings for some of the people who work for you but
-not others. It must be clear that this is a routine process undertaken for anyone who has direct
-reports
-o Ensure the meeting is “not for attribution.” In other words, everything of import will be shared
-with their boss, but not who said it.
-o Take notes and project them. It is important to take the notes yourself, rather than asking
-somebody else to do it. First, it shows you are listening and engaged. Second, it’s a great way to
-learn when you misunderstand something.
-o Kick - start the conversation. “What is your manager doing well?” Then, “What could your
-manager be doing better?”
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-23
-o Prioritize issues.
-o Share notes right after the meeting.
-o Ensure that you direct make and communicate changes.
-o Have these meetings once a year for each of your direct reports.
-o The key to success when implementing any of these suggestions is to return to core principles,
-rather than following step - by - step instructions.
-Chapter 7: Team: Techniques for avoiding boredom and burnout
+
+- **Speaking Truth To “Power”**
+  - *“Skip level meetings.”*
+  - They need to happen only once a year to be effective. This involves meeting with the people who work for your direct reports, without your direct reports in the room, and ask what they could do or stop doing to be better bosses.
+  - The rationale for skip level meetings is that most people are very reluctant to criticize their boss.
+  - The intent of these sessions is to be supportive of the managers who report to you, not to undermine them.
+  - Here are a few rules of thumb for conducting them.
+    - Explain it. Show it. Explain it again. Explain to each of your direct reports that you have two goals: 1) to help each of them become better bosses and 2) to make sure people on their team feel comfortable giving them feedback directly.
+    - Never have a skip level meeting without prior consent of your direct report.
+    - More importantly, never have skip level meetings for some of the people who work for you but not others. It must be clear that this is a routine process undertaken for anyone who has direct reports
+    - Ensure the meeting is “not for attribution.” In other words, everything of import will be shared
+    with their boss, but not who said it.
+    - Take notes and project them. It is important to take the notes yourself, rather than asking somebody else to do it. First, it shows you are listening and engaged. Second, it’s a great way to learn when you misunderstand something.
+    - Kick - start the conversation. “What is your manager doing well?” Then, “What could your manager be doing better?”
+    - Prioritize issues.
+    - Share notes right after the meeting.
+    - Ensure that you direct make and communicate changes.
+    - Have these meetings once a year for each of your direct reports.
+    - The key to success when implementing any of these suggestions is to return to core principles, rather than following step - by - step instructions.
+
+# Team: Techniques for avoiding boredom and burnout
 • Ideally, you want everyone on your team to achieve exceptional results. But you don’t want 100
 percent of them to be gunning for the next job — or to be content with their current role.
 • Instead you want a balance, so that you have both people who push for change and those who offer
@@ -699,8 +631,6 @@ conversation.
 o When you understand what motivates a person and why, you’re much better able to
 understand their dreams.
 • The second conversation: dreams
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-24
 o The second conversation moves from understanding what motivates people to understanding
 the person’s dreams — what they want to achieve at the apex of their career, how they
 imagine life at its best to feel.
@@ -745,8 +675,6 @@ Don’t be an “easy grader” or a “hard grader”
 • When your part of a broader team, it’s important to have a shared understanding of what exceptional
 work is, what good work is, and what bad work is.
 • If you are a manager of managers, find a simple way to keep everyone on the same page.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-25
 Ensure fairness by level
 • Ensuring fairness across levels both cultivates growth throughout the organization and avoids
 unnecessary resentment. Too often, the people who have the most senior roles are given the highest
@@ -790,8 +718,6 @@ performing well. Tolerating bad work is unfair to the people doing excellent wor
 o Think hard about how to do it in a way that will make it easiest on them – even if it makes it
 harder on you, or if you have to take some risks.
 • Follow up
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-26
 o Email them about a month after you’ve fired them to check in. Keep your ear to the ground
 about jobs that they might be well suited for. In any case, reach out.
 Promotions
@@ -825,7 +751,8 @@ area of expertise. You might acknowledge their mastery by putting the person in 
 others the skill.
 Public presentations
 • Give people on your team who focus on tasks that are important but under-recognized or misunderstood an opportunity to explain their work to their colleagues.
-Chapter 8: Results: Things you can do to get stuff done together – faster
+
+# Results: Things you can do to get stuff done together – faster
 • The ultimate goal of Radical Candor is to achieve results collaboratively that you could never achieve.
 With Radical Candor the team has a developed self-correcting quality whereby most problems are
 solved before you are even aware of them.
