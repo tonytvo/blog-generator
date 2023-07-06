@@ -1,6 +1,6 @@
 ---
 title: radical candor by Kim Scott summary wip
-date: "2023-05-14T22:12:03.284Z"
+date: "2023-07-14T22:12:03.284Z"
 description: "radical candor by Kim Scott summary summary"
 tags: ["leadership"]
 ---
@@ -16,6 +16,16 @@ tags: ["leadership"]
   - 1. Create a culture of Compassionate Candor
   - 2. Build a cohesive team
   - 3. Achieve results collaboratively
+- In trying to be “nice” or helpful, some people become doormats who say yes to every request.
+- Always saying yes to others means you’ll have little time for yourself.
+- When you constantly say yes to everyone else, you are constantly saying no to yourself.
+- Always saying yes is habitual “learned behavior.”
+- Being able to say no is an essential life skill.
+- You can learn how to say no and how to be more assertive – which is not the same as being aggressive.
+- “People pleasers” can’t stand rejection; the idea of saying no fills them with dread.
+- Successful people know how to say no.
+- You aren’t responsible for other people’s negative feelings when you turn them down.
+- The more often you say no now, the less often you’ll have to say in the future.
 
 # Build Radically Candid Relationships: Bringing your whole self to work
 
@@ -236,281 +246,181 @@ tags: ["leadership"]
 
 # Drive Results Collaboratively: Telling people what to do doesn’t work
 
-• The ultimate goal of Radical Candor is to achieve collaboratively what you could never achieve
-individually, and to do that, you need to care about the people you’re working with.
-• If you want your team to achieve something bigger than you could achieve alone, take the time to
-incorporate their thinking into yours, and yours into theirs.
-• Don’t let your focus on results get in the way of caring about the people you work with.
-• Telling people what to do didn’t work at Google. At a time when they were obviously in need of big
-changes, it had seemed like it was the fastest way forward, but it wasn’t. First, because Scott didn’t
-involve her team in decision - making; She just made the decisions herself. Second, because even after
-making them she didn’t take the time to explain why or to persuade the team she’d made good
-decisions. So, instead of executing on decisions they didn’t agree with or even understand, her team
-dissolved, and she wasn’t going to improve their results until she rebuilt it.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-12
-Telling People What to Do Didn’t Work for Steve Jobs Either
-• Steve often demonstrated that he was willing — eager, even — to change his mind when he was
-proven wrong. But this rarely played out in a gracious “You were right, the mistake was mine” manner.
-• The relentless focus on challenging himself and those around him to “get it” right rather than to “be”
-right was part of what drove Apple’s breathtaking ability to execute so well.
-The Art of Getting Stuff Done Without Telling People What to Do
-• Avoid the impulse to dive right in, you have to first lay the groundwork for collaboration.
-• First, you have to listen to the ideas that people on your team have and create a culture in which they
-listen to each other. Next, you have to create space in which ideas can be sharpened and clarified, to
-make sure these ideas don’t get crushed before everyone fully understands their potential usefulness.
-Just because an idea is easy to understand doesn’t mean it’s a good one.
-• Next, you have to debate ideas and test them more rigorously. Then you need to decide — quickly, but
-not too quickly. Since not everyone will have been involved in the listen - clarify - debate - decide part
-of the cycle for every idea, the next step is to bring the broader team along. You have to persuade
-those who weren’t involved in a decision that it was a good one, so that everyone can execute it
-effectively. Then, having executed, you have to learn from the results, whether or not you did the right
-thing, and start the whole process over again.
-Listen
-• You have to find a way to listen that fits your personal style, and then create a culture in which
-everyone listens to each other, so that all the burden of listening doesn’t fall on you.
-Quiet listening
-• Spend at least ten minutes in every one - on - one meeting listening silently, without reacting in any
-way.
-• By doing so, people were much more likely to say what they really thought — even if it wasn’t what
-Scott was hoping to hear — when she was careful not to show what she thought.
-• There are real advantages to quiet listening, but it also has a downside. When you’re the boss and
-people don’t know what you think, they waste a lot of time trying to guess.
-• If you’re a quiet listener, then, you need to take steps to reassure those made uncomfortable by your
-style.
-Loud listening
-• If quiet listening involves being silent to give people room to talk, loud listening is about saying things
-intended to get a reaction out of them.
-• Loud listening — stating a point of view strongly — offers a quick way to expose opposing points of
-view or flaws in reasoning. It also prevents people from wasting a lot of time trying to figure out what
-the boss thinks. Assuming that you are surrounded with people who don’t hesitate to challenge what
-you say, stating it clearly can be the fastest way to get to the best answer.
-• Perhaps most important is to stick to the style that feels most natural to you. Try to strengthen your
-awareness of how your style makes your colleagues feel and work on improving that dynamic. Figure
-out how to listen to give the quiet ones a voice without weirding out their louder colleagues.
-Create a culture of listening
-• It’s hard enough to get yourself to listen to your team members and let them know you are listening;
-getting them to listen to one another is even harder. The keys are:
-1) have a simple system for employees to use to generate ideas and voice complaints,
-2) make sure that at least some of the issues raised are quickly addressed, and 
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-13
-1) regularly offer explanations as to why the other issues aren’t being addressed. This system
-should not merely empower anyone to point out things that could be better but also enable
-others to help fix those things or make changes.
-• Sometimes creating a culture of listening is simply a matter of managing meetings the right way,
-constantly figure out new ways to “give the quiet ones a voice.”
-Clarify
-• Once you’ve created a culture of listening, the next step is to push yourself and your direct reports to
-understand and convey thoughts and ideas more clearly.
-• Taking the moments to help clarify the ideas will save you time in the long run. Take the time to help
-your direct reports explain what they mean, so that they can do something about fixing the problem or
-pursuing the opportunity rather than just complaining about it.
-• It’s not just important to understand new ideas clearly; it’s equally important, and often more difficult,
-to understand the people to whom your team will have to explain the ideas clearly.
-• Be clear in your own mind.
-Create a safe space to nurture new ideas
-• Part of your job as the boss is to help people think through their ideas before submitting them to the
-rough - and - tumble of debate.
-• There’s a lot of research demonstrating that when companies help people develop new ideas by
-creating the space and time to clarify their thinking, innovation flourishes.
-• Brainstorming sessions are often used to surface and clarify new ideas. These sessions are not just
-random conversations where nobody is allowed to say anything negative, though.
-• A good brainstorming session distinguishes between the two without killing too many good ideas or
-wasting too much time on the bad ones.
-Be clear to others
-• Make thoughts / ideas drop - dead easy for others to comprehend.
-• You’ll be heard more accurately if you take the time to understand the people you are talking to.
-• When you are listening to people on your team, take on the responsibility to understand — to actually
-listen — rather than putting the burden to communicate onto them. But when you are helping them
-prepare to explain their ideas to others — whether they are peers or cross - functional colleagues or
-executives — it’s your job to push your direct reports, and yourself, to do a better job.
-• You need to push them to communicate with such precision and clarity that it’s impossible not to grasp
-their argument.
-Debate - The rock tumbler
-• Once you’ve spent all that time clarifying an idea — getting it really clear in your own mind and making
-it easy for others to understand — it’s tempting to feel like you’re done. Not so fast! The point of
-spending all that time in clarification mode was just to get the idea ready for a debate.
-• If you skip the debate phase, you’ll make worse decisions, you’ll be unable to persuade everyone who
-needs to execute, and you’ll ultimately slow down or grind to a halt. You’ve got to make sure that they
-happen, and that there is a culture of debate on your team.
-Keep the conversation focused on ideas not egos
-• Make sure that individual egos and self - interest don’t get in the way of an objective quest for the best
-answer. Nothing is a bigger time - sucker or blocker to getting it right than ego.
-Create an obligation to dissent
-Pause for emotion / exhaustion
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-14
-• There are times when people are just too tired, burnt out, or emotionally charged up to engage in
-productive debate. It’s crucial to be aware of these moments, because they rarely lead to good
-outcomes. Your job is to intervene and call a time - out.
-Use humor and have fun
-• The spirit with which a debate is launched often determines the tenor of what follows.
-• In some cases, it might be simple humor or opening the meeting with a good self - effacing story. What
-you say is less important than the tone it conveys, and the mood it sets for what follows.
-• Finally, it’s important to be aware that not everyone enjoys debate. Some people find the very act of
-debate aggressive and / or threatening.
-Be clear when the debate will end
-• One of the reasons that people find debate stressful or annoying is that often half the room expects a
-decision at the end of the meeting and the other half wants to keep arguing in a follow - up meeting.
-One way to avoid this tension is to separate debate meetings and decision meetings.
-• Don’t grab a decision just because the debate has gotten painful It’s tempting to end debates and
-make a decision too soon when a debate becomes too painful.
-Decide
-• Push decisions into the facts, or pull the facts into the decisions, but keep ego out.
-• Unfortunately, most cultures tend to favor either the most senior people or the people with the kinds
-of personalities that insist on sitting around the table. The bad decisions that result is among the
-biggest drivers of organizational mediocrity and employee dissatisfaction. That is why kick - ass bosses
-often do not decide themselves, but rather create a clear decision - making process that empowers
-people closest to the facts to make as many decisions as possible. Not only does that result in better
-decisions, it results in better morale.
-• The decider should get facts, not recommendations.
-Persuade
-• You’ve managed to drive your team to a decision, but there are still people who don’t agree with it —
-the same people who will be responsible for helping to implement it. If you’re working efficiently, not
-everybody on your team is involved in every step of the listen - clarify - debate - decide process for
-everything — just the relevant people. Now that a decision has been reached, it’s time to get more
-people on board. This isn’t easy, and it’s vital to get it right.
-• Expecting others to execute on a decision without being persuaded that it’s the right thing to do is a
-recipe for terrible results.
-• To help you be more persuasive, and to teach the “deciders” on your team to be more persuasive,
-think about the following:
-Emotion
-• The listener’s emotions, not the speaker’s. if you fail to take into account your listener’s emotions, too,
-you won’t be persuasive.
-Credibility
-• Demonstrate expertise and humility
-• Credibility is one of those things that is hard to articulate but you know it when you see it. Part of it is
-obviously knowing your subject and demonstrating a track record of sound decisions. But it also
-requires a third component — humility — which is sometimes in short supply.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-15
-Logic
-• Show your work. Sometimes, the logic may seem self - evident to you, so you fail to share it with
-others. When you know something deeply, it’s hard to remember that others don’t.
-Execute
-• Minimize the collaboration tax. As the boss, part of your job is to take a lot of the “collaboration tax”
-on yourself so that your team can spend more time executing. The responsibilities you have as a boss
-take up a tremendous amount of time.
-• One of the hardest things about being a boss is balancing these responsibilities with the work you need
-to do personally in your area of expertise.
-• Here are the three things Scott learned about getting this balance right: Don’t waste your team’s time;
-Keep the “dirt under your fingernails”; and Block time to execute.
-• Keep the “dirt under your fingernails” - Even though the burden of the collaboration tax falls on you as
-the boss, the tax shouldn’t be 100 percent. In order to be a good partner to the people on your team
-you need to stay connected to the actual work that is being done — not just by observing others
-executing but by executing yourself.
-• You need to learn to toggle between leading and executing personally.
-• Block time to execute - Often, execution is a solitary task. We use calendars mostly for collaborative
-tasks — to schedule meetings, etc. One of your jobs as a manager is to make sure that collaborative
-tasks don’t consume so much of your time or your team’s time that there’s no time to execute
-whatever plan has been decided on and accepted.
-Learn
-• It’s obvious that good bosses learn from mistakes and successes alike and keep improving. And yet,
-denial is actually the more common reaction to imperfect execution than learning.
-• There were two enormous pressures -
-1. To quit learning.
-2. Pressure to be consistent
-• Burnout - Sometimes we’re overwhelmed by our work and personal lives, and these are the moments
-when it is hardest to learn from our results and to start the whole cycle over again.
-Part 2: Tools and Techniques
-Part 2 of this book will describe some tools and techniques you can use to put the ideas from Part 1 into place
-immediately.
-Chapter 5: Relationships: An approach to establishing trust with your direct reports
-• While it is commonly taught to maximize shareholder value, Scott learned that too much emphasis on
-shareholder value actually destroys value, as well as morale.
-• You can’t fulfill your responsibilities without good relationships, but the way in which you fulfill your
-responsibilities is integral to relationships. They’re built from the outside in and the inside out.
-Stay Centered – you can’t give a damn about others if you don’t give a damn about yourself.
-• Managers who create a stable foundation for themselves are invariably more effective at building
-teams on which people can do the best work of their lives.
-Work-life integration
-• Be relentlessly insistent on bringing your fullest and best self to work – and taking it back home again.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-16
-• Figure out your “recipe” to stay centered and stick to it. It’s even more important to focus on making
-time for whatever keeps you centered when you are stressed and busy than when things are calm.
-• Put the things you need to do for yourself on your calendar, just as you would an important meeting.
-Show up for yourself
-• Don’t blow off those meetings with yourself!
-Free at Work
-• When everyone on your team is able to bring the best of what they’ve got mentally, emotionally, and
-physically to their work, they are more fulfilled in their jobs, they work better with one another, and
-the team gets better results. You can’t get that out of people with power, authority, or control.
-• If you can build a trusting relationship with people so they feel free at work, then they’re more likely to
-do the best work of their lives. But you’re not “getting it out of them”; you’re creating conditions for
-them to bring it out of themselves.
-• Google has an extreme approach to hiring but it gives people a sense of fairness and autonomy simply
-by reducing the odds that any individual can be at the mercy of a single person.
-• The first rule of building the kind of relationship with the people that will make them feel free at work
-is to lay down unilateral authority. Look for places where you can let go some of the traditional sources
-of a boss’s control, thereby signaling to your direct reports that you want them to be more
-autonomous.
-Mastering the Art of Socializing at Work
-• Mostly you get to know the people you work with on the job, every day, as an integrated part of the
-work rhythm, not at the annual holiday party. Spending time with people from work in a more relaxed
-setting, without the pressure of work deadlines, can be a good way to build relationships. For the most
-part, it’s better to use the time after work to keep yourself centered than to socialize with work
-colleagues.
-Even non-mandatory events can feel mandatory
-• The social pressure will drag some people into situations they’d rather avoid.
-• Sometimes the greatest gift you can give your team is to let them go home.
-Booze
-• A drink or two can be a social lubricant. But it can also backfire, and badly.
-Respect Boundaries
-• Building radically candid relationships requires you to walk a fine line between respecting other
-people’s boundaries and encouraging them to bring their whole selves to work. You’ll need to
-negotiate boundaries with each person you work with. And you’ve got to respect these boundaries
-while also getting to know the people you work with better over time, in order to build the best
-relationships of your career.
-Building trust
-• Probably the most important thing you can do to build trust is to spend a little time alone with each of
-your direct reports on a regular basis. Let your direct reports set the agenda for your 1:1s and then
-asking questions is a good way to begin building trust.
-• The way you ask for criticism and react when you get it goes a long way toward building trust or
-destroying it.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-17
-Sharing Values
-• Your values are what keep you centered. Many people feel that their personal values are a deeply
-private set of beliefs that they don’t want to discuss with colleagues. An exercise that requires people
-to talk publicly about their values may drive a wedge rather than help people find what they have in
-common. Live your values.
-Demonstrating openness
-• You do need to respect other people’s values when they do share them with you.
-• It’s crucial to remind people that an important part of Radically Candid relationships is opening
-yourself to the possibility of connecting with people who have different worldviews or whose lives
-involve behavior you don’t understand or that may even conflict with a core belief of yours.
-• The work is the bond everybody on a team does share, and the most productive way to strengthen the
-bond is by learning how to work together in ways that benefit everyone involved.
-Physical space
-• Interesting fact: to be most effective at optimizing the flow of chemicals oxytocin and serotonin, which
-boost mood and promote bonding, hold a hug for at least six seconds.
-• To show that you “care personally” with your hugs, you have to obey the “platinum rule.” This means,
-figure out what makes the other person comfortable, and do that. If most people on your team are
-comfortable with hugs (in appropriate circumstances), and others are not, you need to figure out a way
-to make sure that they don’t feel excluded from all those hugs they don’t want. Use your words!
-Recognizing your own emotions
-• Everyone notices what kind of mood the boss is in. They have to. It’s adaptive. You can’t successfully
-hide how you feel from people who work closely with you. The best you can do is own up to how you
-feel so others don’t feel your mood is their fault.
-• If you have a truly terrible emotional upset in your life, stay home for a day. Mental-health days should
-be taken more seriously than they are.
-Master your reactions to others’ emotions
-• All people, including the people who report to you, are responsible for their own emotional lives. Do
-not try to prevent, control, or manage other people’s emotions.
-• To react with compassion:
-o Acknowledge emotions
-o Ask questions
-o Adding your guilt to other people’s difficult emotions doesn’t make them feel better
-o Telling people how to feel will backfire
-o If you really can’t handle emotional outbursts, forgive yourself
-o Keep tissues a short walk from your desk
-o Keep some closed bottles of water at your desk
-o Walk, don’t sit. When you’re walking, the emotions are less on display. Walking and looking in
-the same direction often feels more collaborative than sitting across a table and staring each
-other down.
-Chapter 6: Guidance: Ideas for getting/giving/encouraging praise and criticism
+- The ultimate goal of Radical Candor is to achieve collaboratively what you could never achieve individually, and to do that, you need to care about the people you’re working with.
+- If you want your team to achieve something bigger than you could achieve alone, take the time to incorporate their thinking into yours, and yours into theirs.
+- Don’t let your focus on results get in the way of caring about the people you work with.
+- Telling people what to do didn’t work at Google. At a time when they were obviously in need of big changes, it had seemed like it was the fastest way forward, but it wasn’t. First, because Scott didn’t involve her team in decision - making; She just made the decisions herself. Second, because even after making them she didn’t take the time to explain why or to persuade the team she’d made good decisions. So, instead of executing on decisions they didn’t agree with or even understand, her team dissolved, and she wasn’t going to improve their results until she rebuilt it.
+
+- **Telling People What to Do Didn’t Work for Steve Jobs Either**
+  - Steve often demonstrated that he was willing — eager, even — to change his mind when he was proven wrong. But this rarely played out in a gracious “You were right, the mistake was mine” manner.
+  - The relentless focus on challenging himself and those around him to “get it” right rather than to “be” right was part of what drove Apple’s breathtaking ability to execute so well.
+
+- **The Art of Getting Stuff Done Without Telling People What to Do**
+  - Avoid the impulse to dive right in, you have to first lay the groundwork for collaboration.
+  - First, you have to listen to the ideas that people on your team have and create a culture in which they listen to each other. Next, you have to create space in which ideas can be sharpened and clarified, to make sure these ideas don’t get crushed before everyone fully understands their potential usefulness. Just because an idea is easy to understand doesn’t mean it’s a good one.
+  - Next, you have to debate ideas and test them more rigorously. Then you need to decide — quickly, but
+  not too quickly. Since not everyone will have been involved in the listen - clarify - debate - decide part of the cycle for every idea, the next step is to bring the broader team along. You have to persuade those who weren’t involved in a decision that it was a good one, so that everyone can execute it effectively. Then, having executed, you have to learn from the results, whether or not you did the right thing, and start the whole process over again.
+
+- **Listen**
+  - You have to find a way to listen that fits your personal style, and then create a culture in which everyone listens to each other, so that all the burden of listening doesn’t fall on you. 
+
+  - *Quiet listening*
+    - Spend at least ten minutes in every one - on - one meeting listening silently, without reacting in any way.
+    - By doing so, people were much more likely to say what they really thought — even if it wasn’t what Scott was hoping to hear — when she was careful not to show what she thought.
+    - There are real advantages to quiet listening, but it also has a downside. When you’re the boss and people don’t know what you think, they waste a lot of time trying to guess.
+    - If you’re a quiet listener, then, you need to take steps to reassure those made uncomfortable by your style.
+
+  - *Loud listening*
+    - If quiet listening involves being silent to give people room to talk, loud listening is about saying things intended to get a reaction out of them.
+    - Loud listening — stating a point of view strongly — offers a quick way to expose opposing points of view or flaws in reasoning. It also prevents people from wasting a lot of time trying to figure out what the boss thinks. Assuming that you are surrounded with people who don’t hesitate to challenge what you say, stating it clearly can be the fastest way to get to the best answer.
+    - Perhaps most important is to stick to the style that feels most natural to you. Try to strengthen your awareness of how your style makes your colleagues feel and work on improving that dynamic. Figure out how to listen to give the quiet ones a voice without weirding out their louder colleagues.
+  - *Create a culture of listening*
+    - It’s hard enough to get yourself to listen to your team members and let them know you are listening; getting them to listen to one another is even harder. The keys are:
+    - 1) have a simple system for employees to use to generate ideas and voice complaints,
+    - 2) make sure that at least some of the issues raised are quickly addressed, and 
+    - 3) regularly offer explanations as to why the other issues aren’t being addressed. This system should not merely empower anyone to point out things that could be better but also enable others to help fix those things or make changes.
+    - Sometimes creating a culture of listening is simply a matter of managing meetings the right way, constantly figure out new ways to “give the quiet ones a voice.”
+
+- **Clarify**
+  - Once you’ve created a culture of listening, the next step is to push yourself and your direct reports to understand and convey thoughts and ideas more clearly.
+  - Taking the moments to help clarify the ideas will save you time in the long run. Take the time to help your direct reports explain what they mean, so that they can do something about fixing the problem or pursuing the opportunity rather than just complaining about it.
+  - It’s not just important to understand new ideas clearly; it’s equally important, and often more difficult, to understand the people to whom your team will have to explain the ideas clearly.
+  - Be clear in your own mind.
+
+  - *Create a safe space to nurture new ideas*
+    - Part of your job as the boss is to help people think through their ideas before submitting them to the rough - and - tumble of debate.
+    - There’s a lot of research demonstrating that when companies help people develop new ideas by creating the space and time to clarify their thinking, innovation flourishes.
+    - Brainstorming sessions are often used to surface and clarify new ideas. These sessions are not just random conversations where nobody is allowed to say anything negative, though.
+    - A good brainstorming session distinguishes between the two without killing too many good ideas or wasting too much time on the bad ones.
+
+  - *Be clear to others*
+    - Make thoughts / ideas drop - dead easy for others to comprehend.
+    - You’ll be heard more accurately if you take the time to understand the people you are talking to.
+    - When you are listening to people on your team, take on the responsibility to understand — to actually listen — rather than putting the burden to communicate onto them. But when you are helping them prepare to explain their ideas to others — whether they are peers or cross - functional colleagues or executives — it’s your job to push your direct reports, and yourself, to do a better job.
+    - You need to push them to communicate with such precision and clarity that it’s impossible not to grasp their argument.
+
+- **Debate** - The rock tumbler
+  - Once you’ve spent all that time clarifying an idea — getting it really clear in your own mind and making it easy for others to understand — it’s tempting to feel like you’re done. Not so fast! The point of spending all that time in clarification mode was just to get the idea ready for a debate.
+  - If you skip the debate phase, you’ll make worse decisions, you’ll be unable to persuade everyone who needs to execute, and you’ll ultimately slow down or grind to a halt. You’ve got to make sure that they happen, and that there is a culture of debate on your team. 
+
+  - *Keep the conversation focused on ideas not egos*
+    - Make sure that individual egos and self - interest don’t get in the way of an objective quest for the best answer. Nothing is a bigger time - sucker or blocker to getting it right than ego.
+
+  - *Create an obligation to dissent. Pause for emotion / exhaustion*
+    - There are times when people are just too tired, burnt out, or emotionally charged up to engage in productive debate. It’s crucial to be aware of these moments, because they rarely lead to good outcomes. Your job is to intervene and call a time - out.
+
+  - *Use humor and have fun*
+    - The spirit with which a debate is launched often determines the tenor of what follows.
+    - In some cases, it might be simple humor or opening the meeting with a good self - effacing story. What you say is less important than the tone it conveys, and the mood it sets for what follows.
+    - Finally, it’s important to be aware that not everyone enjoys debate. Some people find the very act of debate aggressive and / or threatening.
+
+  - *Be clear when the debate will end*
+    - One of the reasons that people find debate stressful or annoying is that often half the room expects a decision at the end of the meeting and the other half wants to keep arguing in a follow - up meeting. One way to avoid this tension is to separate debate meetings and decision meetings.
+    - Don’t grab a decision just because the debate has gotten painful It’s tempting to end debates and make a decision too soon when a debate becomes too painful.
+
+- **Decide**
+  - Push decisions into the facts, or pull the facts into the decisions, but keep ego out.
+  - Unfortunately, most cultures tend to favor either the most senior people or the people with the kinds of personalities that insist on sitting around the table. The bad decisions that result is among the biggest drivers of organizational mediocrity and employee dissatisfaction. That is why kick - ass bosses often do not decide themselves, but rather create a clear decision - making process that empowers people closest to the facts to make as many decisions as possible. Not only does that result in better decisions, it results in better morale.
+  - The decider should get facts, not recommendations.
+
+- **Persuade**
+  - You’ve managed to drive your team to a decision, but there are still people who don’t agree with it — the same people who will be responsible for helping to implement it. If you’re working efficiently, not everybody on your team is involved in every step of the listen - clarify - debate - decide process for everything — just the relevant people. Now that a decision has been reached, it’s time to get more people on board. This isn’t easy, and it’s vital to get it right.
+  - Expecting others to execute on a decision without being persuaded that it’s the right thing to do is a recipe for terrible results.
+  - To help you be more persuasive, and to teach the “deciders” on your team to be more persuasive, think about the following:
+
+  - *Emotion*
+    - The listener’s emotions, not the speaker’s. if you fail to take into account your listener’s emotions, too, you won’t be persuasive.
+
+  - *Credibility*
+    - Demonstrate expertise and humility
+    - Credibility is one of those things that is hard to articulate but you know it when you see it. Part of it is obviously knowing your subject and demonstrating a track record of sound decisions. But it also requires a third component — humility — which is sometimes in short supply.
+
+  - *Logic*
+    - Show your work. Sometimes, the logic may seem self - evident to you, so you fail to share it with others. When you know something deeply, it’s hard to remember that others don’t.
+
+- **Execute**
+  - Minimize the collaboration tax. As the boss, part of your job is to take a lot of the “collaboration tax” on yourself so that your team can spend more time executing. The responsibilities you have as a boss take up a tremendous amount of time.
+  - One of the hardest things about being a boss is balancing these responsibilities with the work you need to do personally in your area of expertise.
+  - Here are the three things Scott learned about getting this balance right: Don’t waste your team’s time; Keep the “dirt under your fingernails”; and Block time to execute.
+  - *Keep the “dirt under your fingernails”* - Even though the burden of the collaboration tax falls on you as the boss, the tax shouldn’t be 100 percent. In order to be a good partner to the people on your team you need to stay connected to the actual work that is being done — not just by observing others executing but by executing yourself.
+  - You need to learn to toggle between leading and executing personally.
+  - *Block time to execute* - Often, execution is a solitary task. We use calendars mostly for collaborative tasks — to schedule meetings, etc. One of your jobs as a manager is to make sure that collaborative tasks don’t consume so much of your time or your team’s time that there’s no time to execute whatever plan has been decided on and accepted.
+
+- **Learn**
+  - It’s obvious that good bosses learn from mistakes and successes alike and keep improving. And yet, denial is actually the more common reaction to imperfect execution than learning.
+  - There were two enormous pressures -
+    - 1. To quit learning.
+    - 2. Pressure to be consistent
+  - Burnout - Sometimes we’re overwhelmed by our work and personal lives, and these are the moments when it is hardest to learn from our results and to start the whole cycle over again.
+
+# Relationships: An approach to establishing trust with your direct reports
+
+- While it is commonly taught to maximize shareholder value, Scott learned that too much emphasis on shareholder value actually destroys value, as well as morale.
+- You can’t fulfill your responsibilities without good relationships, but the way in which you fulfill your responsibilities is integral to relationships. They’re built from the outside in and the inside out.
+
+- **Stay Centered** – you can’t give a damn about others if you don’t give a damn about yourself.
+  - Managers who create a stable foundation for themselves are invariably more effective at building teams on which people can do the best work of their lives.
+
+- *Work-life integration*
+  - Be relentlessly insistent on bringing your fullest and best self to work – and taking it back home again.
+  - Figure out your “recipe” to stay centered and stick to it. It’s even more important to focus on making time for whatever keeps you centered when you are stressed and busy than when things are calm.
+  - Put the things you need to do for yourself on your calendar, just as you would an important meeting. 
+
+- *Show up for yourself*
+  - Don’t blow off those meetings with yourself!
+
+- **Free at Work**
+  - When everyone on your team is able to bring the best of what they’ve got mentally, emotionally, and physically to their work, they are more fulfilled in their jobs, they work better with one another, and the team gets better results. You can’t get that out of people with power, authority, or control.
+  - If you can build a trusting relationship with people so they feel free at work, then they’re more likely to do the best work of their lives. But you’re not “getting it out of them”; you’re creating conditions for them to bring it out of themselves.
+  - Google has an extreme approach to hiring but it gives people a sense of fairness and autonomy simply by reducing the odds that any individual can be at the mercy of a single person.
+  - The first rule of building the kind of relationship with the people that will make them feel free at work is to lay down unilateral authority. Look for places where you can let go some of the traditional sources of a boss’s control, thereby signaling to your direct reports that you want them to be more autonomous.
+
+- **Mastering the Art of Socializing at Work**
+  - Mostly you get to know the people you work with on the job, every day, as an integrated part of the work rhythm, not at the annual holiday party. Spending time with people from work in a more relaxed setting, without the pressure of work deadlines, can be a good way to build relationships. For the most part, it’s better to use the time after work to keep yourself centered than to socialize with work colleagues.
+
+  - *Even non-mandatory events can feel mandatory*
+    - The social pressure will drag some people into situations they’d rather avoid.
+    - Sometimes the greatest gift you can give your team is to let them go home.
+
+  - *Booze*
+    - A drink or two can be a social lubricant. But it can also backfire, and badly.
+
+- **Respect Boundaries**
+  - Building radically candid relationships requires you to walk a fine line between respecting other people’s boundaries and encouraging them to bring their whole selves to work. You’ll need to negotiate boundaries with each person you work with. And you’ve got to respect these boundaries while also getting to know the people you work with better over time, in order to build the best relationships of your career.
+
+  - *Building trust*
+    - Probably the most important thing you can do to build trust is to spend a little time alone with each of your direct reports on a regular basis. Let your direct reports set the agenda for your 1:1s and then asking questions is a good way to begin building trust.
+    - The way you ask for criticism and react when you get it goes a long way toward building trust or destroying it.
+
+  - *Sharing Values*
+    - Your values are what keep you centered. Many people feel that their personal values are a deeply private set of beliefs that they don’t want to discuss with colleagues. An exercise that requires people to talk publicly about their values may drive a wedge rather than help people find what they have in common. Live your values.
+
+  - *Demonstrating openness*
+    - You do need to respect other people’s values when they do share them with you.
+    - It’s crucial to remind people that an important part of Radically Candid relationships is opening yourself to the possibility of connecting with people who have different worldviews or whose lives involve behavior you don’t understand or that may even conflict with a core belief of yours.
+    - The work is the bond everybody on a team does share, and the most productive way to strengthen the bond is by learning how to work together in ways that benefit everyone involved.
+
+  - *Physical space*
+    - Interesting fact: to be most effective at optimizing the flow of chemicals oxytocin and serotonin, which boost mood and promote bonding, hold a hug for at least six seconds.
+    - To show that you “care personally” with your hugs, you have to obey the “platinum rule.” This means, figure out what makes the other person comfortable, and do that. If most people on your team are comfortable with hugs (in appropriate circumstances), and others are not, you need to figure out a way to make sure that they don’t feel excluded from all those hugs they don’t want. Use your words!
+
+  - *Recognizing your own emotions*
+    - Everyone notices what kind of mood the boss is in. They have to. It’s adaptive. You can’t successfully hide how you feel from people who work closely with you. The best you can do is own up to how you feel so others don’t feel your mood is their fault.
+    - If you have a truly terrible emotional upset in your life, stay home for a day. Mental-health days should be taken more seriously than they are.
+
+  - *Master your reactions to others’ emotions*
+    - All people, including the people who report to you, are responsible for their own emotional lives. Do not try to prevent, control, or manage other people’s emotions.
+    - To react with compassion:
+      - Acknowledge emotions
+      - Ask questions
+      - Adding your guilt to other people’s difficult emotions doesn’t make them feel better
+      - Telling people how to feel will backfire
+      - If you really can’t handle emotional outbursts, forgive yourself
+      - Keep tissues a short walk from your desk
+      - Keep some closed bottles of water at your desk
+      - Walk, don’t sit. When you’re walking, the emotions are less on display. Walking and looking in the same direction often feels more collaborative than sitting across a table and staring each other down.
+
+# Guidance: Ideas for getting/giving/encouraging praise and criticism
 • In order to build a culture of Radically Candid guidance you need to get, give, and encourage both
 praise and criticism.
 Soliciting Impromptu Guidance
@@ -1020,6 +930,96 @@ DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
 29
 1. Scott’s description of ‘superstars’ vs ‘rock stars’ — and what this means when it comes to managing
 team growth.
+
+# why you need the art of saying no
+
+Are You a “Go-To Person”?
+Here’s a common dilemma: A friend asks you for help, and you comply. The 10 to 15 minutes of your time that your friend requested turns out to be closer to an hour. You feel good about helping, but you also feel bad: You could have used that time on important work that needed completing. Now, you’re further behind. And you might feel like a chump.
+
+“Saying no to people is one of the most important skills you can develop. It frees you to pursue your own interests, both personal and professional.”
+
+Soon afterward, another friend makes a similar request and, being “nice,” you lose another hour away from your work. Now, you’re even further behind. Unfortunately, this often becomes a pattern. In an effort to be kind, you assume the put-upon role of the go-to person who always does favors for others. As a result, you may end up resenting the people who ask you for a hand. And you may be angry at yourself for giving up time you needed for yourself. Here’s a simple truth: Every time you say yes to someone else, you say no to yourself. Fortunately, there’s a productive way to get out of this predicament: Learn how to say no with poise, grace and tact – and without guilt.
+
+Protect Your Time
+If you don’t guard your time and your priorities, no one else will. Take care of your own business before you take care of anyone else’s. Failure to do so is self-defeating. If you spend most of your time helping others and not attending to your own needs, you will become tired, cranky and dejected. Then you won’t be able to help anyone, including yourself. The basic rule of self-preservation is to take care of yourself first. Once you do, then you can help others within reason and never to your detriment, at least not without thinking it through.
+
+Assertiveness
+Taking care of yourself first requires assertiveness, which demands developing self-confidence and self-esteem. You must be able to express what you want from life and then go get it. You must speak up for yourself when necessary and do as you think best. When you are assertive, you feel free to live as you wish without needing other people’s endorsements.
+
+“Saying yes is an ingrained habit for many of us. It’s something we learn to do over a long period of time. The longer we do it, the more entrenched the habit becomes until it’s instinctive.”
+
+Assertiveness calls for forthright communication. As you learn to say no, you become more assertive. “No” will become a magic word that can change your life for the good. Assertive people aren’t aggressive. Being assertive means speaking your mind, not unpleasantly, but without fear of consequences. Being aggressive means you are belligerent, hostile, opinionated and threatening. Assertive people are respectful and never talk over others. Aggressive people feel as if they must dominate meetings from start to finish. They act as if they’re the only people in the room with good ideas. In group settings, they try to outtalk everyone else. Assertive people are considerate, but they don’t allow themselves to be pushed around.
+
+- **The Power of No**
+“No” is a little word that carries tremendous power. This is one reason many people hate to say – or are afraid to say – no. When they do summon the courage to turn someone down, they often offer apologies and excuses. They practically beg forgiveness.
+
+“It’s unsurprising that we often say yes when we know we should say no. It’s an instinctive response born of our longing for other people’s approval.”
+
+Most children learn to be nice to others as the basis of their value systems. They want others to see them as helpful and caring; they demonstrate goodness by being nice. Saying yes becomes an important quality in this approach to life. When these kids become adults, many of them become virtual yes machines – saying yes to everyone about everything.
+
+“The best way to help people over the long run is to ensure your needs are met first.”
+
+Some individuals become inveterate people pleasers. You’re a people pleaser if you’re afraid to speak up, feel you must always put on a happy face, act chipper when you’re down, avoid conflict, see yourself as selfish when you do anything for yourself, have weak “personal boundaries” and believe that only other people’s happiness matters. People pleasers can’t take rejection; the idea of saying no fills them with dread.
+
+- **“Learned Behavior”**
+
+The tendency to say yes often becomes second nature or a strong habit, making it a learned behavior. When someone asks you for a favor, you don’t even think about the request, but instead automatically and instantaneously agree. You can unlearn this learned behavior. Start small. Instead of immediately acquiescing to a request, purposely pause for a few seconds and consider what the other person is asking you to do. This pause lets you short-circuit your knee-jerk habit of saying yes. Next, think about what prompts you to want to say yes to a particular request: validation? Approval? Low self-esteem? Realize that saying yes all the time is a habit you must work hard to break.
+
+# Why You Can’t Say No
+
+People have trouble saying no for numerous reasons:
+
+To “avoid offending people”: Often people give in to avoid upsetting someone. Don’t fear to say no, but always say it with respect toward the other person. When you treat a person who is asking you for favor with respect, you’ve done everything you can or should do. This knowledge can liberate you from feeling guilty.
+To “avoid disappointing people”: When you feel you’ve let someone down by saying no, remorse can soon follow. Remember that feeling remorseful for standing up for yourself isn’t appropriate. It’s not your job to protect others from disappointment when you decline their requests.
+To “avoid seeming selfish”: Often, people adopt a constant yes attitude because they don’t want others to think of them as selfish. If you consistently place the needs of others ahead of your own, your life will suffer.
+To “help others”: People like to feel good about themselves. One of the best ways is to assist others, but that’s short-sighted. Your time, money and attention are limited. Be selective in how you give away your assets.
+To build up “low self-esteem”: People who lack self-esteem often mistakenly believe their time has less value than that of other people. When you say no, your self-esteem can actually increase.
+To get “others to like us”: You think that when you say no to others, they’ll like you less. In fact, they’ll like you more and will respect you more, too.
+To “appear valuable”: Everyone wants to feel appreciated. But don’t succumb to the rush of helping others to the point that you undermine your own needs. You are valuable to others when you help them, but don’t put your life on hold to assist others.
+To avoid “missing out on opportunities”: Do you fear saying no to important people, like your boss? Do you worry that if you don’t do what the boss wants, he or she won’t think of you when other opportunities appear? Are you in danger of wasting your time doing something inconsequential for your manager to get a future chance to do something consequential for yourself? Instead, do consequential things to get on the path to being offered even more consequential things.
+To avoid “emotional bullying”: Bullies won’t let up until you agree to do what they want. Their heavy-handed tactics – yelling, threatening, swearing – are all forms of manipulation. See them for what they are and say no firmly and clearly to short-circuit a bully’s power.
+To prevent “conflict”: Sometimes conflict is impossible to avoid and harmony seems impossible to achieve. Be brave enough to embrace conflict to protect yourself. When you say yes to duck a confrontation, you only confirm the notion that your feelings matter least.
+
+# Saying No Without Feeling Like a Jerk
+
+Reflect on how always saying yes might affect you negatively. Use these strategies to break your yes habit:
+
+“Be direct”: When people ask you for favors that you don’t want to do, come right out and say no without excuses or equivocation. Be straightforward and honest.
+“Don’t stall for time”: Stalling merely strings out the requester and makes you seem indecisive. Stalling is disrespectful. Saying no right away is more respectful than delaying.
+“Replace ‘no’ with another word”: You can communicate the idea of no without using the actual word. Soften the blow with different phrasing, for example, “I’d like to help you, but I’m swamped with this project right now.”
+“Resist the urge to offer excuses”: Invented excuses seldom fool anyone – for example, “I can’t help you move tomorrow because I threw out my back.” Making up excuses diminishes you and fuels your fear of conflict. Instead, simply say no. Honesty is the best policy.
+“Take ownership of your decision”: When someone asks you to do something and you say “I can’t,” almost always, truth be told, you could. Saying “I can’t” is a cop-out. Take charge of your life and your decisions. If you prefer, when you say no, you can add a reason – a true one.
+“Ask the requester to follow up later”: It’s not a stall when you ask the person making the request to check back when you’ve had time to consider it. This is a perfectly reasonable response and places the pressure where it should be – on the requester.
+“Avoid lying about your availability”: Are you in charge of your life, or is the requester in charge of your life? You call the shots in your life. At least, you should. This means you don’t have to lie if you don’t want to do something. And you don’t have to feel responsible for other people’s negative reactions. Their reactions characterize them and have nothing to do with you.
+“Offer an alternative strategy”: If possible, never leave a requester hanging. If you can’t or won’t do what he or she wants, suggest a different option – perhaps by recommending someone else.
+“Describe your lack of bandwidth”: A great way to say no is to detail the activities in your busy schedule to demonstrate that you really don’t have time to help out.
+“Be resolute”: Pushy requesters hate to take no for an answer, but don’t waver under their pressure. If you do, an aggressive requester will bore in and won’t give you peace until you relent. Give the situation back to the requester by saying, for example, “Sharon, I know you dislike hearing no and are inclined to persist. But I’m not going to change my mind.”
+“Be courteous”: Never be rude to a requester, even a rude one. Incivility on your part can come back to bite you later. You can be both courteous and assertive.
+“Say no by category”: You may have additional expertise outside of your immediate job description. Create a blanket rule – and make sure everyone knows about it – that you can’t help anyone in that extra area. That way you don’t have to turn down any specific personal requests.
+Say No Less Often
+When you always consent to put others’ needs ahead of your own – five minutes here, an hour there, two hours somewhere else – you throw away your most limited commodity: your precious time. Once you give away your time, you’ll never get it back. Those five minutes often turn into 45 minutes, and those two hours often turn into most of the day. If you’re the kind of person who will help out one or two people by donating your time, you probably also lend a hand to numerous other people on a regular basis. You may end up spending a good deal of your productive hours helping other people meet their goals and never meeting your own.
+
+“Self-care isn’t selfish. It’s necessary. The problem is [that] if you’re constantly saying yes to other people, putting their priorities ahead of your own, you won’t have the time or energy to care for yourself.”
+
+This is a recipe for personal disaster. You need a different way to operate “to turn down requests, invitations, favors…without feeling guilty.” Knowing how to say no gracefully and actually doing it are two different things. The first few times you stand up for yourself won’t easy. But over time and with regular practice, saying no with confidence and without excuses will get much easier.
+
+“If you don’t prioritize your life, someone else will.” (essentialism advocate Greg McKeown)
+
+To become an expert at saying no, start out with little refusals and work your way up to big ones. For example, tell the server at a restaurant, “No, I don’t want dessert, thanks.” Once you’re comfortable with the little noes, move to medium-size noes and eventually to big noes. As you do, you’ll notice a new dynamic when you’re interacting with your friends and associates: They’ll stop bothering you with their constant requests for your time. As you become better at saying no, you’ll have to say it much less often.
+
+# How to say no
+
+- **How To Say No To Your Extended Family**
+- **How To Say No To Your Spouse**
+- **How To Say No To Your Children**
+- **How To Say No To Your Friends**
+- **How To Say No To Your Neighbors**
+- **How To Say No To Your Coworkers**
+- **How To Say No To Your Boss**
+- **How To Say No To Your Clients**
+- **How To Say No To Strangers**
+- **How To Say No To Yourself**
+
 
 # Quotes
 
