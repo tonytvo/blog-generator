@@ -781,79 +781,102 @@ projects, and then learning from their results.
 
 # why you need the art of saying no
 
-Are You a “Go-To Person”?
-Here’s a common dilemma: A friend asks you for help, and you comply. The 10 to 15 minutes of your time that your friend requested turns out to be closer to an hour. You feel good about helping, but you also feel bad: You could have used that time on important work that needed completing. Now, you’re further behind. And you might feel like a chump.
+- **Are You a “Go-To Person”?**
 
-“Saying no to people is one of the most important skills you can develop. It frees you to pursue your own interests, both personal and professional.”
+  - Here’s a common dilemma: A friend asks you for help, and you comply. The 10 to 15 minutes of your time that your friend requested turns out to be closer to an hour. You feel good about helping, but you also feel bad: You could have used that time on important work that needed completing. Now, you’re further behind. And you might feel like a chump.
 
-Soon afterward, another friend makes a similar request and, being “nice,” you lose another hour away from your work. Now, you’re even further behind. Unfortunately, this often becomes a pattern. In an effort to be kind, you assume the put-upon role of the go-to person who always does favors for others. As a result, you may end up resenting the people who ask you for a hand. And you may be angry at yourself for giving up time you needed for yourself. Here’s a simple truth: Every time you say yes to someone else, you say no to yourself. Fortunately, there’s a productive way to get out of this predicament: Learn how to say no with poise, grace and tact – and without guilt.
+  - “Saying no to people is one of the most important skills you can develop. It frees you to pursue your own interests, both personal and professional.”
 
-Protect Your Time
-If you don’t guard your time and your priorities, no one else will. Take care of your own business before you take care of anyone else’s. Failure to do so is self-defeating. If you spend most of your time helping others and not attending to your own needs, you will become tired, cranky and dejected. Then you won’t be able to help anyone, including yourself. The basic rule of self-preservation is to take care of yourself first. Once you do, then you can help others within reason and never to your detriment, at least not without thinking it through.
+  - Soon afterward, another friend makes a similar request and, being “nice,” you lose another hour away from your work. Now, you’re even further behind. Unfortunately, this often becomes a pattern. In an effort to be kind, you assume the put-upon role of the go-to person who always does favors for others. As a result, you may end up resenting the people who ask you for a hand. And you may be angry at yourself for giving up time you needed for yourself. Here’s a simple truth: **Every time you say yes to someone else, you say no to yourself**. Fortunately, there’s a productive way to get out of this predicament: Learn how to say no with poise, grace and tact – and without guilt.
 
-Assertiveness
-Taking care of yourself first requires assertiveness, which demands developing self-confidence and self-esteem. You must be able to express what you want from life and then go get it. You must speak up for yourself when necessary and do as you think best. When you are assertive, you feel free to live as you wish without needing other people’s endorsements.
+- **Protect Your Time**
 
-“Saying yes is an ingrained habit for many of us. It’s something we learn to do over a long period of time. The longer we do it, the more entrenched the habit becomes until it’s instinctive.”
+  - If you don’t guard your time and your priorities, no one else will. Take care of your own business before you take care of anyone else’s. Failure to do so is self-defeating. If you spend most of your time helping others and not attending to your own needs, you will become tired, cranky and dejected. Then you won’t be able to help anyone, including yourself. The basic rule of self-preservation is to take care of yourself first. Once you do, then you can help others within reason and never to your detriment, at least not without thinking it through.
 
-Assertiveness calls for forthright communication. As you learn to say no, you become more assertive. “No” will become a magic word that can change your life for the good. Assertive people aren’t aggressive. Being assertive means speaking your mind, not unpleasantly, but without fear of consequences. Being aggressive means you are belligerent, hostile, opinionated and threatening. Assertive people are respectful and never talk over others. Aggressive people feel as if they must dominate meetings from start to finish. They act as if they’re the only people in the room with good ideas. In group settings, they try to outtalk everyone else. Assertive people are considerate, but they don’t allow themselves to be pushed around.
+- **Assertiveness**
+  - Taking care of yourself first requires assertiveness, which demands developing self-confidence and self-esteem. You must be able to express what you want from life and then go get it. You must speak up for yourself when necessary and do as you think best. When you are assertive, you feel free to live as you wish without needing other people’s endorsements.
+
+  - > “Saying yes is an ingrained habit for many of us. It’s something we learn to do over a long period of time. The longer we do it, the more entrenched the habit becomes until it’s instinctive.”
+
+  - Assertiveness calls for forthright communication. As you learn to say no, you become more assertive. “No” will become a magic word that can change your life for the good. Assertive people aren’t aggressive. Being assertive means speaking your mind, not unpleasantly, but without fear of consequences. Being aggressive means you are belligerent, hostile, opinionated and threatening. Assertive people are respectful and never talk over others. Aggressive people feel as if they must dominate meetings from start to finish. They act as if they’re the only people in the room with good ideas. In group settings, they try to outtalk everyone else. Assertive people are considerate, but they don’t allow themselves to be pushed around.
 
 - **The Power of No**
-“No” is a little word that carries tremendous power. This is one reason many people hate to say – or are afraid to say – no. When they do summon the courage to turn someone down, they often offer apologies and excuses. They practically beg forgiveness.
+  - “No” is a little word that carries tremendous power. This is one reason many people hate to say – or are afraid to say – no. When they do summon the courage to turn someone down, they often offer apologies and excuses. They practically beg forgiveness.
 
-“It’s unsurprising that we often say yes when we know we should say no. It’s an instinctive response born of our longing for other people’s approval.”
+  - > “It’s unsurprising that we often say yes when we know we should say no. It’s an instinctive response born of our longing for other people’s approval.”
 
-Most children learn to be nice to others as the basis of their value systems. They want others to see them as helpful and caring; they demonstrate goodness by being nice. Saying yes becomes an important quality in this approach to life. When these kids become adults, many of them become virtual yes machines – saying yes to everyone about everything.
+  - Most children learn to be nice to others as the basis of their value systems. They want others to see them as helpful and caring; they demonstrate goodness by being nice. Saying yes becomes an important quality in this approach to life. When these kids become adults, many of them become virtual yes machines – saying yes to everyone about everything.
 
-“The best way to help people over the long run is to ensure your needs are met first.”
+  - > “The best way to help people over the long run is to ensure your needs are met first.”
 
-Some individuals become inveterate people pleasers. You’re a people pleaser if you’re afraid to speak up, feel you must always put on a happy face, act chipper when you’re down, avoid conflict, see yourself as selfish when you do anything for yourself, have weak “personal boundaries” and believe that only other people’s happiness matters. People pleasers can’t take rejection; the idea of saying no fills them with dread.
+  - Some individuals become inveterate people pleasers. You’re a people pleaser if you’re afraid to speak up, feel you must always put on a happy face, act chipper when you’re down, avoid conflict, see yourself as selfish when you do anything for yourself, have weak “personal boundaries” and believe that only other people’s happiness matters. People pleasers can’t take rejection; the idea of saying no fills them with dread.
 
 - **“Learned Behavior”**
 
-The tendency to say yes often becomes second nature or a strong habit, making it a learned behavior. When someone asks you for a favor, you don’t even think about the request, but instead automatically and instantaneously agree. You can unlearn this learned behavior. Start small. Instead of immediately acquiescing to a request, purposely pause for a few seconds and consider what the other person is asking you to do. This pause lets you short-circuit your knee-jerk habit of saying yes. Next, think about what prompts you to want to say yes to a particular request: validation? Approval? Low self-esteem? Realize that saying yes all the time is a habit you must work hard to break.
+  - The tendency to say yes often becomes second nature or a strong habit, making it a learned behavior. When someone asks you for a favor, you don’t even think about the request, but instead automatically and instantaneously agree. You can unlearn this learned behavior. Start small. Instead of immediately acquiescing to a request, purposely pause for a few seconds and consider what the other person is asking you to do. This pause lets you short-circuit your knee-jerk habit of saying yes. Next, think about what prompts you to want to say yes to a particular request: validation? Approval? Low self-esteem? Realize that saying yes all the time is a habit you must work hard to break.
 
 # Why You Can’t Say No
 
 People have trouble saying no for numerous reasons:
 
-To “avoid offending people”: Often people give in to avoid upsetting someone. Don’t fear to say no, but always say it with respect toward the other person. When you treat a person who is asking you for favor with respect, you’ve done everything you can or should do. This knowledge can liberate you from feeling guilty.
-To “avoid disappointing people”: When you feel you’ve let someone down by saying no, remorse can soon follow. Remember that feeling remorseful for standing up for yourself isn’t appropriate. It’s not your job to protect others from disappointment when you decline their requests.
-To “avoid seeming selfish”: Often, people adopt a constant yes attitude because they don’t want others to think of them as selfish. If you consistently place the needs of others ahead of your own, your life will suffer.
-To “help others”: People like to feel good about themselves. One of the best ways is to assist others, but that’s short-sighted. Your time, money and attention are limited. Be selective in how you give away your assets.
-To build up “low self-esteem”: People who lack self-esteem often mistakenly believe their time has less value than that of other people. When you say no, your self-esteem can actually increase.
-To get “others to like us”: You think that when you say no to others, they’ll like you less. In fact, they’ll like you more and will respect you more, too.
-To “appear valuable”: Everyone wants to feel appreciated. But don’t succumb to the rush of helping others to the point that you undermine your own needs. You are valuable to others when you help them, but don’t put your life on hold to assist others.
-To avoid “missing out on opportunities”: Do you fear saying no to important people, like your boss? Do you worry that if you don’t do what the boss wants, he or she won’t think of you when other opportunities appear? Are you in danger of wasting your time doing something inconsequential for your manager to get a future chance to do something consequential for yourself? Instead, do consequential things to get on the path to being offered even more consequential things.
-To avoid “emotional bullying”: Bullies won’t let up until you agree to do what they want. Their heavy-handed tactics – yelling, threatening, swearing – are all forms of manipulation. See them for what they are and say no firmly and clearly to short-circuit a bully’s power.
-To prevent “conflict”: Sometimes conflict is impossible to avoid and harmony seems impossible to achieve. Be brave enough to embrace conflict to protect yourself. When you say yes to duck a confrontation, you only confirm the notion that your feelings matter least.
+- **To “avoid offending people”**: Often people give in to avoid upsetting someone. Don’t fear to say no, but always say it with respect toward the other person. When you treat a person who is asking you for favor with respect, you’ve done everything you can or should do. This knowledge can liberate you from feeling guilty.
+
+- **To “avoid disappointing people”**: When you feel you’ve let someone down by saying no, remorse can soon follow. Remember that feeling remorseful for standing up for yourself isn’t appropriate. It’s not your job to protect others from disappointment when you decline their requests.
+
+- **To “avoid seeming selfish”**: Often, people adopt a constant yes attitude because they don’t want others to think of them as selfish. If you consistently place the needs of others ahead of your own, your life will suffer.
+
+- **To “help others”**: People like to feel good about themselves. One of the best ways is to assist others, but that’s short-sighted. Your time, money and attention are limited. Be selective in how you give away your assets.
+
+- **To build up “low self-esteem”**: People who lack self-esteem often mistakenly believe their time has less value than that of other people. When you say no, your self-esteem can actually increase.
+
+- **To get “others to like us”**: You think that when you say no to others, they’ll like you less. In fact, they’ll like you more and will respect you more, too.
+
+- **To “appear valuable”**: Everyone wants to feel appreciated. But don’t succumb to the rush of helping others to the point that you undermine your own needs. You are valuable to others when you help them, but don’t put your life on hold to assist others.
+
+- **To avoid “missing out on opportunities”**: Do you fear saying no to important people, like your boss? Do you worry that if you don’t do what the boss wants, he or she won’t think of you when other opportunities appear? Are you in danger of wasting your time doing something inconsequential for your manager to get a future chance to do something consequential for yourself? Instead, do consequential things to get on the path to being offered even more consequential things.
+
+- **To avoid “emotional bullying”**: Bullies won’t let up until you agree to do what they want. Their heavy-handed tactics – yelling, threatening, swearing – are all forms of manipulation. See them for what they are and say no firmly and clearly to short-circuit a bully’s power.
+
+- **To prevent “conflict”**: Sometimes conflict is impossible to avoid and harmony seems impossible to achieve. Be brave enough to embrace conflict to protect yourself. When you say yes to duck a confrontation, you only confirm the notion that your feelings matter least.
 
 # Saying No Without Feeling Like a Jerk
 
 Reflect on how always saying yes might affect you negatively. Use these strategies to break your yes habit:
 
-“Be direct”: When people ask you for favors that you don’t want to do, come right out and say no without excuses or equivocation. Be straightforward and honest.
-“Don’t stall for time”: Stalling merely strings out the requester and makes you seem indecisive. Stalling is disrespectful. Saying no right away is more respectful than delaying.
+- **“Be direct”**: When people ask you for favors that you don’t want to do, come right out and say no without excuses or equivocation. Be straightforward and honest.
+
+- **“Don’t stall for time”**: Stalling merely strings out the requester and makes you seem indecisive. Stalling is disrespectful. Saying no right away is more respectful than delaying.
 “Replace ‘no’ with another word”: You can communicate the idea of no without using the actual word. Soften the blow with different phrasing, for example, “I’d like to help you, but I’m swamped with this project right now.”
-“Resist the urge to offer excuses”: Invented excuses seldom fool anyone – for example, “I can’t help you move tomorrow because I threw out my back.” Making up excuses diminishes you and fuels your fear of conflict. Instead, simply say no. Honesty is the best policy.
-“Take ownership of your decision”: When someone asks you to do something and you say “I can’t,” almost always, truth be told, you could. Saying “I can’t” is a cop-out. Take charge of your life and your decisions. If you prefer, when you say no, you can add a reason – a true one.
-“Ask the requester to follow up later”: It’s not a stall when you ask the person making the request to check back when you’ve had time to consider it. This is a perfectly reasonable response and places the pressure where it should be – on the requester.
-“Avoid lying about your availability”: Are you in charge of your life, or is the requester in charge of your life? You call the shots in your life. At least, you should. This means you don’t have to lie if you don’t want to do something. And you don’t have to feel responsible for other people’s negative reactions. Their reactions characterize them and have nothing to do with you.
-“Offer an alternative strategy”: If possible, never leave a requester hanging. If you can’t or won’t do what he or she wants, suggest a different option – perhaps by recommending someone else.
-“Describe your lack of bandwidth”: A great way to say no is to detail the activities in your busy schedule to demonstrate that you really don’t have time to help out.
-“Be resolute”: Pushy requesters hate to take no for an answer, but don’t waver under their pressure. If you do, an aggressive requester will bore in and won’t give you peace until you relent. Give the situation back to the requester by saying, for example, “Sharon, I know you dislike hearing no and are inclined to persist. But I’m not going to change my mind.”
-“Be courteous”: Never be rude to a requester, even a rude one. Incivility on your part can come back to bite you later. You can be both courteous and assertive.
-“Say no by category”: You may have additional expertise outside of your immediate job description. Create a blanket rule – and make sure everyone knows about it – that you can’t help anyone in that extra area. That way you don’t have to turn down any specific personal requests.
-Say No Less Often
-When you always consent to put others’ needs ahead of your own – five minutes here, an hour there, two hours somewhere else – you throw away your most limited commodity: your precious time. Once you give away your time, you’ll never get it back. Those five minutes often turn into 45 minutes, and those two hours often turn into most of the day. If you’re the kind of person who will help out one or two people by donating your time, you probably also lend a hand to numerous other people on a regular basis. You may end up spending a good deal of your productive hours helping other people meet their goals and never meeting your own.
 
-“Self-care isn’t selfish. It’s necessary. The problem is [that] if you’re constantly saying yes to other people, putting their priorities ahead of your own, you won’t have the time or energy to care for yourself.”
+- **“Resist the urge to offer excuses”**: Invented excuses seldom fool anyone – for example, “I can’t help you move tomorrow because I threw out my back.” Making up excuses diminishes you and fuels your fear of conflict. Instead, simply say no. Honesty is the best policy.
 
-This is a recipe for personal disaster. You need a different way to operate “to turn down requests, invitations, favors…without feeling guilty.” Knowing how to say no gracefully and actually doing it are two different things. The first few times you stand up for yourself won’t easy. But over time and with regular practice, saying no with confidence and without excuses will get much easier.
+- **“Take ownership of your decision”**: When someone asks you to do something and you say “I can’t,” almost always, truth be told, you could. Saying “I can’t” is a cop-out. Take charge of your life and your decisions. If you prefer, when you say no, you can add a reason – a true one.
 
-“If you don’t prioritize your life, someone else will.” (essentialism advocate Greg McKeown)
+- **“Ask the requester to follow up later”**: It’s not a stall when you ask the person making the request to check back when you’ve had time to consider it. This is a perfectly reasonable response and places the pressure where it should be – on the requester.
 
-To become an expert at saying no, start out with little refusals and work your way up to big ones. For example, tell the server at a restaurant, “No, I don’t want dessert, thanks.” Once you’re comfortable with the little noes, move to medium-size noes and eventually to big noes. As you do, you’ll notice a new dynamic when you’re interacting with your friends and associates: They’ll stop bothering you with their constant requests for your time. As you become better at saying no, you’ll have to say it much less often.
+- **“Avoid lying about your availability”**: Are you in charge of your life, or is the requester in charge of your life? You call the shots in your life. At least, you should. This means you don’t have to lie if you don’t want to do something. And you don’t have to feel responsible for other people’s negative reactions. Their reactions characterize them and have nothing to do with you.
+
+- **“Offer an alternative strategy”**: If possible, never leave a requester hanging. If you can’t or won’t do what he or she wants, suggest a different option – perhaps by recommending someone else.
+
+- **“Describe your lack of bandwidth”**: A great way to say no is to detail the activities in your busy schedule to demonstrate that you really don’t have time to help out.
+
+- **“Be resolute”**: Pushy requesters hate to take no for an answer, but don’t waver under their pressure. If you do, an aggressive requester will bore in and won’t give you peace until you relent. Give the situation back to the requester by saying, for example, “Sharon, I know you dislike hearing no and are inclined to persist. But I’m not going to change my mind.”
+
+- **“Be courteous”**: Never be rude to a requester, even a rude one. Incivility on your part can come back to bite you later. You can be both courteous and assertive.
+
+- **“Say no by category”**: You may have additional expertise outside of your immediate job description. Create a blanket rule – and make sure everyone knows about it – that you can’t help anyone in that extra area. That way you don’t have to turn down any specific personal requests.
+
+# Say No Less Often
+
+- When you always consent to put others’ needs ahead of your own – five minutes here, an hour there, two hours somewhere else – you throw away your most limited commodity: your precious time. Once you give away your time, you’ll never get it back. Those five minutes often turn into 45 minutes, and those two hours often turn into most of the day. If you’re the kind of person who will help out one or two people by donating your time, you probably also lend a hand to numerous other people on a regular basis. You may end up spending a good deal of your productive hours helping other people meet their goals and never meeting your own.
+
+- > “Self-care isn’t selfish. It’s necessary. The problem is [that] if you’re constantly saying yes to other people, putting their priorities ahead of your own, you won’t have the time or energy to care for yourself.”
+
+- This is a recipe for personal disaster. You need a different way to operate “to turn down requests, invitations, favors…without feeling guilty.” Knowing how to say no gracefully and actually doing it are two different things. The first few times you stand up for yourself won’t easy. But over time and with regular practice, saying no with confidence and without excuses will get much easier.
+
+- > “If you don’t prioritize your life, someone else will.” (essentialism advocate Greg McKeown)
+
+- To become an expert at saying no, start out with little refusals and work your way up to big ones. For example, tell the server at a restaurant, “No, I don’t want dessert, thanks.” Once you’re comfortable with the little noes, move to medium-size noes and eventually to big noes. As you do, you’ll notice a new dynamic when you’re interacting with your friends and associates: They’ll stop bothering you with their constant requests for your time. As you become better at saying no, you’ll have to say it much less often.
 
 # How to say no
 
@@ -871,6 +894,15 @@ To become an expert at saying no, start out with little refusals and work your w
 
 # Quotes
 
+“Saying no to people is one of the most important skills you can develop. It frees you to pursue your own interests, both personal and professional.”
+
+“It’s unsurprising that we often say yes when we know we should say no. It’s an instinctive response born of our longing for other people’s approval.”
+
+“If you don’t prioritize your life, someone else will.” (essentialism advocate Greg McKeown)
+
+“Self-care isn’t selfish. It’s necessary. The problem is [that] if you’re constantly saying yes to other people, putting their priorities ahead of your own, you won’t have the time or energy to care for yourself.”
+
+“The best way to help people over the long run is to ensure your needs are met first.”
 
 # References
 - https://www.grahammann.net/book-notes/radical-candor-kim-scott
