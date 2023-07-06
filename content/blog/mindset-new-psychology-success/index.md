@@ -998,60 +998,59 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
 
 ## LISTENING
 
-1.   Now Hear This! Listening Is the Ultimate "Core Competence."
-Listening* is ...
-(*And when you read "listening," please substitute "OBSESSION with listening.)
-Listening is ... the ultimate mark of Respect.
-Listening is ... the heart and soul of Engagement.
-Listening is ... the heart and soul of Kindness.
-Listening is ... the heart and soul of Thoughtfulness.
-Listening is ... the basis for true Collaboration.
-Listening is ... the basis for true Partnership.
-Listening is ... a Team Sport.
-Listening is ... a Developable Individual Skill.*
-(*Though women are far better at it than men.)
-Listening is ... the basis for Community.
-Listening is ... the bedrock of Joint Ventures that work.
-Listening is ... the bedrock of Joint Ventures that last.
-Listening is ... the core of effective Cross-functional Communication*
-(*Which is in turn Attribute #1 of organizational effectiveness.*)
-50
-Listening is ... the engine of superior EXECUTION.
-Listening is ... the key to making the Sale.
-Listening is ... the key to Keeping the Customer's Business.
-Listening is ... the engine of Network development.
-Listening is ... the engine of Network maintenance.
-Listening is ... the engine of Network expansion.
-Listening is ... Learning.
-Listening is ...the sine qua non of Renewal.
-Listening is ...the sine qua non of Creativity.
-Listening is ...the sine qua non of Innovation.
-Listening is ... the core of taking Diverse opinions aboard.
-Listening is ... Strategy.
-Listening is ... Source #1 of "Value-added."
-Listening is ... Differentiator #1.
-Listening is ... Profitable.*
-(*The "R.O.I." from listening is higher than from any other single activity.)
-Listening underpins ... Commitment to EXCELLENCE.
-Do you agree with the above?
-If you agree, shouldn't listening be ... a Core Value?
-If you agree, shouldn't listening be ... perhaps Core Value #1?*
-(* "We are Effective Listeners—we treat Listening EXCELLENCE as the Centerpiece of our
-Commitment to Respect and Engagement and Community and Growth"—or some such.)
-If you agree, shouldn't listening be ... a Core Competence?
-If you agree, shouldn't listening be ... Core Competence #1?
-If you agree, shouldn't listening be ... an explicit "agenda item" at every Meeting?
-If you agree, shouldn't listening be ... our Strategy—per se? (Listening = Strategy.)
-If you agree, shouldn't listening be ... the #1 skill we look for in Hiring (for every job)?
-If you agree, shouldn't listening be ... the #1 attribute we examine in our Evaluations?
-If you agree, shouldn't listening be ... the #1 skill we look for in Promotion decisions?
-If you agree, shouldn't listening be ... the #1 Training priority at every stage of everyone's
-career—from Day #1 to Day LAST?
-If you agree, what are you going to do about it ... in the next 30 MINUTES?
-If you agree, what are you going to do about it ... at your NEXT meeting?
-If you agree, what are you going to do about it ... by the end of the DAY?
-If you agree, what are you going to do about it ... in the next 30 DAYS?
-If you agree, what are you going to do about it ... in the next 12 MONTHS?
+- **Now Hear This! Listening Is the Ultimate "Core Competence."**
+  - Listening* is ...
+  ``- (*And when you read "listening," please substitute "OBSESSION with listening.)
+  - Listening is ... the ultimate mark of Respect.
+  - Listening is ... the heart and soul of Engagement.
+  - Listening is ... the heart and soul of Kindness.
+  - Listening is ... the heart and soul of Thoughtfulness.
+  - Listening is ... the basis for true Collaboration.
+  - Listening is ... the basis for true Partnership.
+  - Listening is ... a Team Sport.
+  - Listening is ... a Developable Individual Skill.*
+  - (*Though women are far better at it than men.)
+  - Listening is ... the basis for Community.
+  - Listening is ... the bedrock of Joint Ventures that work.
+  - Listening is ... the bedrock of Joint Ventures that last.
+  - Listening is ... the core of effective Cross-functional Communication*
+  - (*Which is in turn Attribute #1 of organizational effectiveness.*)
+  - Listening is ... the engine of superior EXECUTION.
+  - Listening is ... the key to making the Sale.
+  - Listening is ... the key to Keeping the Customer's Business.
+  - Listening is ... the engine of Network development.
+  - Listening is ... the engine of Network maintenance.
+  - Listening is ... the engine of Network expansion.
+  - Listening is ... Learning.
+  - Listening is ...the sine qua non of Renewal.
+  - Listening is ...the sine qua non of Creativity.
+  - Listening is ...the sine qua non of Innovation.
+  - Listening is ... the core of taking Diverse opinions aboard.
+  - Listening is ... Strategy.
+  - Listening is ... Source #1 of "Value-added."
+  - Listening is ... Differentiator #1.
+  - Listening is ... Profitable.*
+  - (*The "R.O.I." from listening is higher than from any other single activity.)
+  - Listening underpins ... Commitment to EXCELLENCE.
+
+- Do you agree with the above?
+  - If you agree, shouldn't listening be ... a Core Value?
+  - If you agree, shouldn't listening be ... perhaps Core Value #1?*
+  - (*"We are Effective Listeners—we treat Listening EXCELLENCE as the Centerpiece of our Commitment to Respect and Engagement and Community and Growth"—or some such.*)
+  - If you agree, shouldn't listening be ... a Core Competence?
+  - If you agree, shouldn't listening be ... Core Competence #1?
+  - If you agree, shouldn't listening be ... an explicit "agenda item" at every Meeting?
+  - If you agree, shouldn't listening be ... our Strategy—per se? (Listening = Strategy.)
+  - If you agree, shouldn't listening be ... the #1 skill we look for in Hiring (for every job)?
+  - If you agree, shouldn't listening be ... the #1 attribute we examine in our Evaluations?
+  - If you agree, shouldn't listening be ... the #1 skill we look for in Promotion decisions?
+  - If you agree, shouldn't listening be ... the #1 Training priority at every stage of everyone's career—from Day #1 to Day LAST?
+  - If you agree, what are you going to do about it ... in the next 30 MINUTES?
+  - If you agree, what are you going to do about it ... at your NEXT meeting?
+  - If you agree, what are you going to do about it ... by the end of the DAY?
+  - If you agree, what are you going to do about it ... in the next 30 DAYS?
+  - If you agree, what are you going to do about it ... in the next 12 MONTHS?
+
 1.   Are You an "18-Second Manager"?
 "He [Christopher] had learned when he was still very young that if he kept quiet, the other
 person would eventually fill the silence: 'Everyone has a story to tell, if only you have the
