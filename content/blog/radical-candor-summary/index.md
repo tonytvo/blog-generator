@@ -594,269 +594,190 @@ vocabulary will help your culture move toward Radical Candor.
     - The key to success when implementing any of these suggestions is to return to core principles, rather than following step - by - step instructions.
 
 # Team: Techniques for avoiding boredom and burnout
-• Ideally, you want everyone on your team to achieve exceptional results. But you don’t want 100
-percent of them to be gunning for the next job — or to be content with their current role.
-• Instead you want a balance, so that you have both people who push for change and those who offer
-stability. And to understand what motivates the different people you work with; you need to have
-Radically Candid relationships with each.
-Career Conversations
-• Understand people’s motivations and ambitions to help them take a step in the direction of their
-dreams.
-• You should have these conversations with each person who reports directly to you. They are your
-single biggest opportunity to move up on the “care personally” axis of the Radical Candor framework.
-• Russ Laraway developed a particularly effective approach during a difficult period at Google. Russ held
-an off - site and taught his managers how to talk to their direct reports not just about their career goals
-or how to get promoted but also about their life stories and dreams. He taught every manager on his
-team to have a succession of three forty - five - minute conversations with each direct report over the
-course of three to six weeks.
-• Conversation one: life story.
-o The first conversation is designed to learn what motivates each person who reports directly to
-you. Focus on changes that people have made and to understand why they made those choices.
-Values often get revealed in moments of change.
-o You’re not looking for definitive answers; you’re just trying to get to know people a little better
-and understand what they care about.
-1. Most people are happy to have this conversation, as long as it takes place in an
-environment of trust and respect. If part of your job is to care personally, you have to
-get to know people personally.
-1. There may be times when you touch on something that is too personal. If a person
-signals discomfort at a question, you have to respect that.
-o The reason to pull these motivations out of a life story rather than to discuss them abstractly is
-that it’s so easy to misunderstand abstractions.
-o Just this first of the three conversations will have a big impact. First, you’ve done more in forty -
-five minutes to get to know each person who reports to you than you could do in any other
-way. You’ve done something to show you care, and — invariably, after a conversation like that
-— you do care more. Next, you’re already better equipped to figure out what kinds of
-opportunities would be helpful for each person. Finally, you’re more prepared for the next
-conversation.
-o When you understand what motivates a person and why, you’re much better able to
-understand their dreams.
-• The second conversation: dreams
-o The second conversation moves from understanding what motivates people to understanding
-the person’s dreams — what they want to achieve at the apex of their career, how they
-imagine life at its best to feel.
-o Giving space for people to talk about dreams allows bosses to help people find opportunities
-that can move them in the direction of those dreams. This makes work more satisfying and
-more meaningful and ultimately improves retention.
-o you begin these conversations with, “What do you want the pinnacle of your career to look
-like?”
-o Encourage people to come up with three to five different dreams for the future. This allows
-employees to include the dream they think you want to hear as well as those that are far closer
-to their hearts.
-o It will become very obvious what new skills the person needs to acquire. Now, your job as the
-boss is to help them think about how they can acquire those skills: what are the projects you
-can put them on, whom can you introduce them to, what are the options for education?
-o The final part of Russ’s second conversation involves making sure that the person’s dreams are
-aligned with the values they have expressed.
-• Conversation three: eighteen - month plan
-o Make a list of how the person’s role can change to help them learn the skills needed to achieve
-each dream; whom they can learn from; and classes they could take or books they could read.
-o Then, next to each item, note who does what by when — and make sure you have some action
-items. Helping people clarify values and dreams and then aligning them as closely as possible
-with their current work will invariably make your team stronger.
-Growth Management
-• Figure out who needs what types of opportunities, and how you’re going to provide them.
-• These efforts have moved you way up on the “care personally” dimension of Radical Candor. Now it’s
-time to move over on the “challenge directly” dimension.
-• Once a year, you need to put together a growth - management plan for each person on your team.
-Take a look across your whole team and make sure that you understand how each individual’s
-aspirations and growth trajectory is lining up with the collective needs of the team.
-• The first step is to identify your rock stars and superstars.
-• Next, identify the people on your team who are doing good, but not exceptional, work.
-• Identify the people who are performing poorly but whom you believe should do much better, either
-because they are demonstrating signs that they can improve or because their skills and ambitions
-suggest improvement is possible.
-• Finally — and this is usually the hardest part — identify the people who are not doing good work and
-not getting any better.
-• Write growth plans: Next, come up with a three - to five - bullet - point growth plan for each person.
-Make sure that you have projects or opportunities that will stretch the superstars. Make sure that
-you’re giving the rock stars what they need to be productive. Think of ways to push people who are
-doing good work to do exceptional work.
-Don’t be an “easy grader” or a “hard grader”
-• When your part of a broader team, it’s important to have a shared understanding of what exceptional
-work is, what good work is, and what bad work is.
-• If you are a manager of managers, find a simple way to keep everyone on the same page.
-Ensure fairness by level
-• Ensuring fairness across levels both cultivates growth throughout the organization and avoids
-unnecessary resentment. Too often, the people who have the most senior roles are given the highest
-ratings when in fact they are surfing on the productivity of the people working for them.
-Hiring: Your Mentality and Your Process
-Process
-• Your hiring process is important; it’s a vital part of building a great team. When you are growing really
-fast, you’ll wind up spending a lot of your time hiring.
-• Here are some simple things you can do to make sure you’re hiring the right people:
-o Job description: define team “fit” as rigorously as you define “skills” to minimize bias.
-o Try to describe your culture in three to four words.
-o Be disciplined about interviewing for those things.
-o The written job description should then go to all interviewers, so they know precisely what they
-are interviewing for.
-o Blind skills assessments can also minimize bias.
-o Use the same interview committee for multiple candidates, to allow for meaningful
-comparisons.
-• Four people is about the right size for an interview committee.
-Firing - A Necessary Evil
-• Firing people is not easy, either emotionally or legally. At companies where it’s too easy to fire people,
-bad/unfair firing decisions get made, with the result that even people who are great at their jobs start
-to get spooked. When people feel that kind of fear, they start to avoid taking risks. They learn less,
-they grow less, and they innovate less.
-• Firing people is hard, and it ought to be hard.
-• Tips:
-Don’t wait too long
-• Here are four very good reasons to push yourself to identify underperformance early:
-1. To be fair to the person who is failing. If you identify a problem early, you give the person time to
-address it. You also reduce the shock if they can’t or won’t address it and you wind up having to fire
-the person.
-1. To be fair to your company. If you identify and address problems early enough, you dramatically
-reduce the risk of being sued or the chance that you’ll have to keep them on the payroll for months
-of painful legal documentation.
-1. To be fair to yourself. When you give someone a good rating one quarter and fire them the next,
-word gets around, and it undermines trust with everyone else. Not to mention that you risk being
-sued by the employee.
-1. Most importantly, you want to address underperformance early to be fair to the people who are
-performing well. Tolerating bad work is unfair to the people doing excellent work.
-• Don’t make the decision unilaterally
-• Give a damn
-o Think hard about how to do it in a way that will make it easiest on them – even if it makes it
-harder on you, or if you have to take some risks.
-• Follow up
-o Email them about a month after you’ve fired them to check in. Keep your ear to the ground
-about jobs that they might be well suited for. In any case, reach out.
-Promotions
-• Be fair. Few things can create a sense of injustice on a team like having a boss who promotes people
-much faster than the manager sitting in the next office. Yet a few managers get together to make sure
+- Ideally, you want everyone on your team to achieve exceptional results. But you don’t want 100 percent of them to be gunning for the next job — or to be content with their current role.
+- Instead you want a balance, so that you have both people who push for change and those who offer stability. And to understand what motivates the different people you work with; you need to have Radically Candid relationships with each.
+
+- **Career Conversations**
+  - Understand people’s motivations and ambitions to help them take a step in the direction of their dreams.
+  - You should have these conversations with each person who reports directly to you. They are your single biggest opportunity to move up on the “care personally” axis of the Radical Candor framework.
+  - Russ Laraway developed a particularly effective approach during a difficult period at Google. Russ held an off - site and taught his managers how to talk to their direct reports not just about their career goals or how to get promoted but also about their life stories and dreams. He taught every manager on his team to have a succession of three forty - five - minute conversations with each direct report over the
+  course of three to six weeks.
+  - Conversation one: life story.
+    - The first conversation is designed to learn what motivates each person who reports directly to you. Focus on changes that people have made and to understand why they made those choices. Values often get revealed in moments of change.
+    - You’re not looking for definitive answers; you’re just trying to get to know people a little better and understand what they care about.
+      - 1. Most people are happy to have this conversation, as long as it takes place in an environment of trust and respect. If part of your job is to care personally, you have to get to know people personally.
+      - 2. There may be times when you touch on something that is too personal. If a person signals discomfort at a question, you have to respect that.
+    - The reason to pull these motivations out of a life story rather than to discuss them abstractly is that it’s so easy to misunderstand abstractions.
+    - Just this first of the three conversations will have a big impact. First, you’ve done more in forty - five minutes to get to know each person who reports to you than you could do in any other way. You’ve done something to show you care, and — invariably, after a conversation like that — you do care more. Next, you’re already better equipped to figure out what kinds of opportunities would be helpful for each person. Finally, you’re more prepared for the next conversation.
+    - When you understand what motivates a person and why, you’re much better able to understand their dreams.
+  - The second conversation: dreams
+    - The second conversation moves from understanding what motivates people to understanding the person’s dreams — what they want to achieve at the apex of their career, how they imagine life at its best to feel.
+    - Giving space for people to talk about dreams allows bosses to help people find opportunities that can move them in the direction of those dreams. This makes work more satisfying and more meaningful and ultimately improves retention.
+    - you begin these conversations with, “What do you want the pinnacle of your career to look like?”
+    - Encourage people to come up with three to five different dreams for the future. This allows employees to include the dream they think you want to hear as well as those that are far closer to their hearts.
+    - It will become very obvious what new skills the person needs to acquire. Now, your job as the boss is to help them think about how they can acquire those skills: what are the projects you can put them on, whom can you introduce them to, what are the options for education?
+    - The final part of Russ’s second conversation involves making sure that the person’s dreams are aligned with the values they have expressed.
+
+  - Conversation three: eighteen - month plan
+    - Make a list of how the person’s role can change to help them learn the skills needed to achieve each dream; whom they can learn from; and classes they could take or books they could read.
+    - Then, next to each item, note who does what by when — and make sure you have some action items. Helping people clarify values and dreams and then aligning them as closely as possible with their current work will invariably make your team stronger.
+
+- **Growth Management**
+  - Figure out who needs what types of opportunities, and how you’re going to provide them.
+  - These efforts have moved you way up on the “care personally” dimension of Radical Candor. Now it’s time to move over on the “challenge directly” dimension.
+  - Once a year, you need to put together a growth - management plan for each person on your team. Take a look across your whole team and make sure that you understand how each individual’s aspirations and growth trajectory is lining up with the collective needs of the team.
+  - The first step is to identify your rock stars and superstars.
+  - Next, identify the people on your team who are doing good, but not exceptional, work.
+  - Identify the people who are performing poorly but whom you believe should do much better, either because they are demonstrating signs that they can improve or because their skills and ambitions suggest improvement is possible.
+  - Finally — and this is usually the hardest part — identify the people who are not doing good work and not getting any better.
+  - Write growth plans: Next, come up with a three - to five - bullet - point growth plan for each person. Make sure that you have projects or opportunities that will stretch the superstars. Make sure that
+  you’re giving the rock stars what they need to be productive. Think of ways to push people who are doing good work to do exceptional work. 
+
+  - *Don’t be an “easy grader” or a “hard grader”*
+    - When your part of a broader team, it’s important to have a shared understanding of what exceptional work is, what good work is, and what bad work is.
+    - If you are a manager of managers, find a simple way to keep everyone on the same page. 
+
+  - *Ensure fairness by level*
+    - Ensuring fairness across levels both cultivates growth throughout the organization and avoids unnecessary resentment. Too often, the people who have the most senior roles are given the highest
+    ratings when in fact they are surfing on the productivity of the people working for them. 
+
+- **Hiring: Your Mentality and Your Process**
+  - *Process*
+    - Your hiring process is important; it’s a vital part of building a great team. When you are growing really fast, you’ll wind up spending a lot of your time hiring.
+    - Here are some simple things you can do to make sure you’re hiring the right people:
+    - Job description: define team “fit” as rigorously as you define “skills” to minimize bias.
+    - Try to describe your culture in three to four words.
+    - Be disciplined about interviewing for those things.
+    - The written job description should then go to all interviewers, so they know precisely what they are interviewing for.
+    - Blind skills assessments can also minimize bias.
+    - Use the same interview committee for multiple candidates, to allow for meaningful comparisons.
+  - Four people is about the right size for an interview committee.
+
+- **Firing - A Necessary Evil**
+- Firing people is not easy, either emotionally or legally. At companies where it’s too easy to fire people, bad/unfair firing decisions get made, with the result that even people who are great at their jobs start to get spooked. When people feel that kind of fear, they start to avoid taking risks. They learn less, they grow less, and they innovate less.
+- Firing people is hard, and it ought to be hard.
+- Tips:
+  - *Don’t wait too long*
+- Here are four very good reasons to push yourself to identify underperformance early:
+  - 1. To be fair to the person who is failing. If you identify a problem early, you give the person time to address it. You also reduce the shock if they can’t or won’t address it and you wind up having to fire
+  the person.
+  - 2. To be fair to your company. If you identify and address problems early enough, you dramatically reduce the risk of being sued or the chance that you’ll have to keep them on the payroll for months of painful legal documentation.
+  - 3. To be fair to yourself. When you give someone a good rating one quarter and fire them the next, word gets around, and it undermines trust with everyone else. Not to mention that you risk being sued by the employee.
+  - 4. Most importantly, you want to address underperformance early to be fair to the people who are performing well. Tolerating bad work is unfair to the people doing excellent work.
+- *Don’t make the decision unilaterally*
+- *Give a damn*
+  - Think hard about how to do it in a way that will make it easiest on them – even if it makes it harder on you, or if you have to take some risks.
+
+- *Follow up*
+  - Email them about a month after you’ve fired them to check in. Keep your ear to the ground about jobs that they might be well suited for. In any case, reach out.
+
+- **Promotions**
+- Be fair. Few things can create a sense of injustice on a team like having a boss who promotes people much faster than the manager sitting in the next office. Yet a few managers get together to make sure
 their promotions are fair, and the politics can get ugly quickly.
-• Tips to prevent politics:
-o Prepare
-o Ask everyone on your team to send a list of people they are planning to promote, together with
-a justification
-o Manage the time carefully, and don’t let arguments go too long. Go through all the promotions
-by level, senior to last.
-o Get enough sleep the day before, exercise that morning, and eat a good breakfast.
-o When it’s all done, acknowledge how hard these conversations are
-Reward Your Rockstar’s
-• Don’t give all the glory to the superstars.
-• Avoid promotion/status obsession
-o Announcing promotions breeds unhealthy competition for wrong things: documentation of
-status rather than development of skill.
-o If a promotion changes a role, then announce it.
-o Focus of the work the person is doing, not on the status they have achieved in the company for
-doing it.
-Say “thank you”
-• A thank you goes beyond praise. Praise expresses admiration for great work. A thank you expresses
-personal gratitude. In the case of a thank-you, you are explaining not just why the work matters, but
-why it matters to you.
-• Do it in person and do it in writing.
-Gurus
-• Another great way to highlight how great people are at a job is to acknowledge them as gurus in their
-area of expertise. You might acknowledge their mastery by putting the person in charge of teaching
-others the skill.
-Public presentations
-• Give people on your team who focus on tasks that are important but under-recognized or misunderstood an opportunity to explain their work to their colleagues.
+- Tips to prevent politics:
+  - Prepare
+  - Ask everyone on your team to send a list of people they are planning to promote, together with a justification
+  - Manage the time carefully, and don’t let arguments go too long. Go through all the promotions by level, senior to last.
+  - Get enough sleep the day before, exercise that morning, and eat a good breakfast.
+  - When it’s all done, acknowledge how hard these conversations are
+
+- **Reward Your Rockstar’s**
+  - Don’t give all the glory to the superstars.
+  - Avoid promotion/status obsession
+    - Announcing promotions breeds unhealthy competition for wrong things: documentation of status rather than development of skill.
+    - If a promotion changes a role, then announce it.
+    - Focus of the work the person is doing, not on the status they have achieved in the company for doing it.
+
+  - *Say “thank you”*
+    - A thank you goes beyond praise. Praise expresses admiration for great work. A thank you expresses personal gratitude. In the case of a thank-you, you are explaining not just why the work matters, but why it matters to you.
+    - Do it in person and do it in writing.
+
+  - *Gurus*
+    - Another great way to highlight how great people are at a job is to acknowledge them as gurus in their area of expertise. You might acknowledge their mastery by putting the person in charge of teaching
+  others the skill.
+
+  - *Public presentations*
+    - Give people on your team who focus on tasks that are important but under-recognized or misunderstood an opportunity to explain their work to their colleagues.
 
 # Results: Things you can do to get stuff done together – faster
-• The ultimate goal of Radical Candor is to achieve results collaboratively that you could never achieve.
-With Radical Candor the team has a developed self-correcting quality whereby most problems are
-solved before you are even aware of them.
-• Your role will be to encourage that process of listening, clarifying, debating, deciding, persuading, and
-executing to the point that it’s almost as if your team shares one mind when it comes to completing
+
+- The ultimate goal of Radical Candor is to achieve results collaboratively that you could never achieve. With Radical Candor the team has a developed self-correcting quality whereby most problems are solved before you are even aware of them.
+- Your role will be to encourage that process of listening, clarifying, debating, deciding, persuading, and executing to the point that it’s almost as if your team shares one mind when it comes to completing
 projects, and then learning from their results.
-• One of your most important responsibilities to keep everything moving smoothly is to decide who
-needs to communicate with whom and how frequently. This means meetings.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-27
-• Every meeting comes with a significant cost-time, so it is important to minimize the duration,
-frequency, and number of people required to attend.
-1:1 Conversations: The most important is the one with your direct reports.
-• Employees set the agenda. Your direct report’s agenda, not yours.
-• This is your best opportunity to really listen, to the people on your team to make sure you understand
-their perspective on what is and isn’t working.
-• These meetings provide an opportunity to get to know your direct reports, to move up on the “care
-personally” dimension.
-• Understand what is blocking them.
-• To make sure you and each of your reports are getting the most out of your 1:1s:
-o Your Mindset
-o Frequency –50 minutes a week. Limit the number of direct reports you have as a natural
-bottleneck.
-o Show up!
-• Examples of some good follow-up questions:
-o Why
-o How can I help
-o What wakes you up at night
-o What are you not working on that you don’t want to to/ do want to, work on?
-• Encourage new ideas
-• Signs you’ll get from 1:1s that you’re failing as a boss:
-o Cancellations
-o Updates with just info that could be emailed
-o Good news only
-o No criticism
-Staff Meetings
-• Review metrics, study hall updates, and identify (but do not make) key decisions.
-• An effective staff meeting has three goals: It reviews how things have gone the previous week, allows
-people to share important updates, and forces the team to clarify the most important decisions and
-debated for the coming week.
-• Agenda:
-o Learn: review key metrics (20 min)
-o Listen: put updates I aa shared document (15 min)
-o Clarify: Identify key decisions & debates (30 min)
-Think Time
-• Block time to think, and hold that time sacred
-“Big Debate” Meetings
-• Lower the tension by making it clear that you are debating, not deciding When everyone knows that
-the meeting will end in no decision, this source of tension is eliminated.
-• They allow you to slow down key decisions when appropriate.
-• They foster a larger culture of debate.
-• The goal of debate is to work together to come up with the best answer.
-“Big Decision” Meetings
-• Push decisions into the facts, pull facts into the decisions, and keep egos at bay.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-28
-• It can be hard to know when to stop debating and start deciding. Two separate meetings make it
-explicit when you are debating and when you are deciding,
-All-hands Meetings
-• Bring others along.
-• As your team grows a regular all-hands meeting can really help to get broad buy-in on the decisions
-being made, and also learn about dissent.
-• These meetings usually include two parts: presentations to persuade people that the company is
-making good decisions and headed in the right direction, and Q & As conducted so leaders can hear
-dissent and address it head on.
-• When handled well, the answers the leaders give to the questions, which are often quite challenging,
-are usually more persuasive than the presentations.
-Execution Time
-• Fight meeting proliferation. Make sure your team has time to execute.
-• Schedule time to execute.
-Kanban Boards
-• Make activity and workflows visible. To do/in progress/ and done.
-• You can quickly identify bottlenecks and drive personal accountability.
-• Measuring activities and visualizing workflows will push you and your team to make sur you really
-understand how what you all do drives success- or doesn’t.
-• Measuring activities will also create more respect between teams.
-• Measuring activities and displaying them publicly also tends to lead to ratings and promotions that
-more consistently reward top performers and are less prone to create biases.
-Walk Around
-• Learn about small problems to prevent big ones.
-• Management by walking around is a tried and true technique. If nothing is beneath your attention,
-then others will pay attention to details as well.
-• When you show that you care about small things that contribute to customer happiness or the quality
-of life on your team, suddenly everybody cares more about them, and some of the big things start
-working better too.
-Be Conscious of Culture
-• “Culture eats strategy for lunch”. A team’s culture has an enormous impact on its results, and a
-leader’s personality has a huge impact on a team’s culture. Who you are as a human being impacts
-your culture enormously.
-• People are listening. Like it or not you’re under the microscope.
-• Debate and decide explicitly. Don’t let things that pervert your culture “just happen”.
-• Clarify. Be vigilant about clarifying what you are communicating.
-• Persuade. Pay attention to the small things.
-• Execute: Action should reflect your culture.
-Recommendation: Required reading for the most successful organizations, Radical Candor has raised the bar
-for management practices worldwide. There are three main contributions to management in Radical Candor,
-contributions that I haven’t seen anywhere else:
-1. The description of ‘radical candor’ — what it looks like, what it isn’t, how to start practicing it, and how
-to avoid common gotchas.
-1. Russ Laraway’s recipe for rapidly building trust in a team.
-DrFrumi@ScaleUpAdvisors.biz www.ScaleUpAdvisors.com
-29
-1. Scott’s description of ‘superstars’ vs ‘rock stars’ — and what this means when it comes to managing
-team growth.
+- One of your most important responsibilities to keep everything moving smoothly is to decide who needs to communicate with whom and how frequently. This means meetings.
+- Every meeting comes with a significant cost-time, so it is important to minimize the duration, frequency, and number of people required to attend.
+- **1:1 Conversations:** The most important is the one with your direct reports.
+- Employees set the agenda. Your direct report’s agenda, not yours.
+- This is your best opportunity to really listen, to the people on your team to make sure you understand their perspective on what is and isn’t working.
+- These meetings provide an opportunity to get to know your direct reports, to move up on the “care personally” dimension.
+- Understand what is blocking them.
+- To make sure you and each of your reports are getting the most out of your 1:1s:
+  - Your Mindset
+  - Frequency –50 minutes a week. Limit the number of direct reports you have as a natural bottleneck.
+  - Show up!
+- Examples of some good follow-up questions:
+  - Why
+  - How can I help
+  - What wakes you up at night
+  - What are you not working on that you don’t want to to/ do want to, work on?
+- Encourage new ideas
+  - Signs you’ll get from 1:1s that you’re failing as a boss:
+  - Cancellations
+  - Updates with just info that could be emailed
+  - Good news only
+  - No criticism
+
+- **Staff Meetings**
+  - Review metrics, study hall updates, and identify (but do not make) key decisions.
+  - An effective staff meeting has three goals: It reviews how things have gone the previous week, allows people to share important updates, and forces the team to clarify the most important decisions and debated for the coming week.
+  - Agenda:
+    - Learn: review key metrics (20 min)
+    - Listen: put updates I aa shared document (15 min)
+    - Clarify: Identify key decisions & debates (30 min)
+- **Think Time**
+  - Block time to think, and hold that time sacred
+
+- **“Big Debate” Meetings**
+  - Lower the tension by making it clear that you are debating, not deciding When everyone knows that the meeting will end in no decision, this source of tension is eliminated.
+  - They allow you to slow down key decisions when appropriate.
+  - They foster a larger culture of debate.
+  - The goal of debate is to work together to come up with the best answer.
+
+- **“Big Decision” Meetings**
+  - Push decisions into the facts, pull facts into the decisions, and keep egos at bay.
+  - It can be hard to know when to stop debating and start deciding. Two separate meetings make it explicit when you are debating and when you are deciding,
+
+- **All-hands Meetings**
+  - Bring others along.
+  - As your team grows a regular all-hands meeting can really help to get broad buy-in on the decisions being made, and also learn about dissent.
+  - These meetings usually include two parts: presentations to persuade people that the company is making good decisions and headed in the right direction, and Q & As conducted so leaders can hear
+  dissent and address it head on.
+  - When handled well, the answers the leaders give to the questions, which are often quite challenging, are usually more persuasive than the presentations.
+
+- **Execution Time**
+  - Fight meeting proliferation. Make sure your team has time to execute.
+  - Schedule time to execute.
+
+- **Kanban Boards**
+- Make activity and workflows visible. To do/in progress/ and done.
+- You can quickly identify bottlenecks and drive personal accountability.
+- Measuring activities and visualizing workflows will push you and your team to make sur you really understand how what you all do drives success- or doesn’t.
+- Measuring activities will also create more respect between teams.
+- Measuring activities and displaying them publicly also tends to lead to ratings and promotions that more consistently reward top performers and are less prone to create biases.
+
+- **Walk Around**
+- Learn about small problems to prevent big ones.
+- Management by walking around is a tried and true technique. If nothing is beneath your attention, then others will pay attention to details as well.
+- When you show that you care about small things that contribute to customer happiness or the quality of life on your team, suddenly everybody cares more about them, and some of the big things start working better too.
+
+- **Be Conscious of Culture**
+- “Culture eats strategy for lunch”. A team’s culture has an enormous impact on its results, and a leader’s personality has a huge impact on a team’s culture. Who you are as a human being impacts your culture enormously.
+- People are listening. Like it or not you’re under the microscope.
+- Debate and decide explicitly. Don’t let things that pervert your culture “just happen”.
+- Clarify. Be vigilant about clarifying what you are communicating.
+- Persuade. Pay attention to the small things.
+- Execute: Action should reflect your culture.
+
 
 # why you need the art of saying no
 
