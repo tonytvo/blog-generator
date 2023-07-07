@@ -882,12 +882,53 @@ Reflect on how always saying yes might affect you negatively. Use these strategi
 
 - **How To Say No To Your Extended Family**
 - **How To Say No To Your Spouse**
+  - boundaries help us to better understand our loved ones. They encourage us to see our spouses and partners as unique individuals with unique feelings, passions, and interests. They make it easier to identify our loved ones' needs. To that end, they discourage us from using guilt or manipulation to get what we desire.
+  - this notion of personal boundaries works in both directions. When you set boundaries with your significant other, you convey your individuality, dislikes, opinions, and personal convictions. Maintaining these boundaries - that is, acting in accordance with your convictions - inspires respect.
+  - respect lessens the urge to use emotional bullying or manipulation. When you say no, your spouse or partner won't consider your response arbitrary. He or she will be inclined to assume your decision is well-reasoned, and accept it at face value.
+  - given the above, the first step toward learning to say no to your spouse is to identify your dislikes, opinions, and convictions. Then, establish boundaries that reflect them.
+  - > as you know, I hate working on cars. But I'll be happy to take it to the shop for you
+  - > thanks for asking me. But I'd rather not go. I don't enjoy those types of converts. 
+  - saying no to your spouse or partner in situations where you harbor strong opinions is empowering. Moreover, when you act according to your convictions, you strengthen the mutual bond of respect that connects the two of you.
 - **How To Say No To Your Children**
+  - saying no to kids is about setting clear boundaries. It's about articulating what you'll allow them to do and what you don't allow them to do, and setting their expectations accordingly.
+  - children have a tendency to test the rigidity of their parents' rules. Util they learn otherwise, a simple "no" is actually a "maybe" They presume there's a chance their parents will capitulate.
+  - they key is teaching them that you'll stand your ground once you've made a decision. A "no" will remain a "no" regardless of the tactics they employ in an attempt to change your mind.
+  - **negotiating an early "no"**
+    - > If I finish my chores, complete my homework, and take the dog for a walk, can I spend the night at Sarah's?
+      - this negotiating tactic shows the child understands the positive effect of meeting her responsibilities -> worth considering.
+    - > if you don't let me spend the night at Sarah's, I'm not going to do my chores
+      - this is nothing more than a thread, should immediately be dismissed.
+    - if you're receptive to negotiation, it's important that you only entertain positive arrangements. It encourages integrity and good character, and at the same time discourages impulsiveness.
+    - saying no to your kids is a matter of setting expectations and standing your ground. Once your kids realize that "no" really means "no," you'll face less manipulative behavior.
+
 - **How To Say No To Your Friends**
 - **How To Say No To Your Neighbors**
 - **How To Say No To Your Coworkers**
+  - asking requestors to follow up at a later time is a greaty way to gauge the urgency of a coworker's request.
+  - suggesting other coworkers who are more knowledgable and better qualified than you benefits you and the requestor. The requestor is given a more valuable resource to leverage while you're able to save time and resume your focus on your own work.
+  - rejecting requests by category gives you a hassle-free way to say no to coworkers. It's consistent with skill specialization in the workplace.
+  - the manner in which you turn down coworkers' requests is important. Don't make excuses. Don't invent reasons to decline requests. Be genuine and graceful, and own your decision.
+  - > Thanks for asking me, Sharon. I appreciate your confidence in me. But I don't want to break away from my own projects
+  - > I'm unskilled in that area, and therefore won't be much help to you. So I'm going to say no.
+  - There's no need to apologize. Nor is there a need to be evasive. Simply state your intention as clearly as possible. And take ownership of your decision by saying "I don't" or "I won't" instead of saying "I can't"
+
 - **How To Say No To Your Boss**
+  - there's value in communicating your limits. You'll not only manage your stress levels, but you'll also avoid being stretched too thin. The last thing you want is to take on new projects for which you have no time. Doing so is a recipe for frustration and failure.
+  - when responding to your boss, be forthright about your current workload and resulting lack of availability. Explain that you wouldn't be able to do a good job on the new project given everything else that's on your plate. If you're already working under pending deadlines, mention them.
+  - ask questions regarding to new project. When is it due? What does it involve? What skills are required? Will you need to coordinate activities among a group of participants?
+  - ask your boss to reprioritize your workload. Suggest postponing an existing project that's on your plate so you can devote your time and attention to the new project.
+  - if none of your current projects and tasks can be rescheduled, ask whether the new project can be postponed. For example, you might tell your boss that you'll have more bandwidth in 5 days, after you've completed your current deliverables.
+
 - **How To Say No To Your Clients**
+  - regcognize that turning down a client's project isn't a negative reflection of your service or professionalism. On the contrary, it shows that you know your limits and have a solid sense regarding how you want to run your business.
+  - second, provide a legitimate reason for declining the request.
+    - for example, you might say
+      - > I'm going to pass on this project because I don't have the resources (or skills) to do a good job for you.
+      - > I will be on vacation next month, so I don't have time to work on this for you
+    - reasons validate your decisions. A client who understands why you're turning down her request is more likely to forgive you for doing so.
+  - third, offer an alternative. if your lack of availability is preventing you from taking on a project, suggest a deadline that's further down the road. Or if you lack the skill set required to complete the project, refer your client to someone you trust who possesses the necessary skills. If you're simply not interested in the project, suggest a qualified peer who might be willing to take it on in your stead.
+  - by saying no to clients, you'll be setting the expectation that you will occasionally say no.
+
 - **How To Say No To Strangers**
 - **How To Say No To Yourself**
 
