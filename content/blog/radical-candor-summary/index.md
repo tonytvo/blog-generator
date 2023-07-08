@@ -70,8 +70,7 @@ tags: ["leadership"]
 
 - **Challenge Directly: The Second Dimension**
 
-  - Challenging others and encouraging them to challenge you helps build trusting relationships because it
-  shows 
+  - Challenging others and encouraging them to challenge you helps build trusting relationships because it shows 
     - 1 ) you care enough to point out both the things that aren’t going well and those that are and that
     - 2 ) you are willing to admit when you’re wrong and that you are committed to fixing mistakes that you or others have made . But because challenging often involves disagreeing or saying no, this approach embraces conflict rather than avoiding it.
 
@@ -81,6 +80,7 @@ tags: ["leadership"]
   - It’s not Radical Candor if you don’t show that you care personally.
   - Radical Candor is also not an invitation to nitpick. Do it only for things that really matter.
   - Radical Candor is not about schmoozing, nor is it about endless extroversion that exhausts the introverts on your team or wears you out if you happen to be the introvert.
+  - A good rule of thumb for any relationship is to leave three unimportant things unsaid each day.
 
 - **Radical Candor Is Universally Human, But Interpersonally and Culturally Relative**
   -  Radical Candor is not a personality type or a talent or a cultural judgment. Radical Candor works only if the other person understands that your efforts at caring personally and challenging directly are delivered in good faith.
@@ -881,6 +881,12 @@ Reflect on how always saying yes might affect you negatively. Use these strategi
 # How to say no
 
 - **How To Say No To Your Extended Family**
+  - one method is to creat rules regarding what you're willing to help with and what you're not willing to help with. For example, does your cousin regularly ask you to run errands for him? If so, create a "no errands" rule. Does your uncle frequently ask you to help him fix his vehicle? If so, create a "no auto repair" rule.
+  - another tactic is to create rules concerning *when* you'll help. For example, decree that you'll be available to help your relatives on Saturday afternoons. The rest of the week is reserved for you, your spouse, and children.
+  - you can also force persistent and manipulative relatives to leave messages. For example, when they call you for help, let their calls roll to voicemail. When they email you, let some time pass before you reply. When they text you, resist the temptation to respond immediately.
+    - this tactic discourages urgent requests, if you cousin knows that it takes you a few days to return his calls or emails, he'll be less likely to approach you with requests that demand immediate action.
+  - These measures are designed to reset your extended family's expectations of you. Your relatives might be offended in the beginning. They may even show signs of hostility. But with time and consistency, they'll learn that you're not the pushover they've come to expect.
+
 - **How To Say No To Your Spouse**
   - boundaries help us to better understand our loved ones. They encourage us to see our spouses and partners as unique individuals with unique feelings, passions, and interests. They make it easier to identify our loved ones' needs. To that end, they discourage us from using guilt or manipulation to get what we desire.
   - this notion of personal boundaries works in both directions. When you set boundaries with your significant other, you convey your individuality, dislikes, opinions, and personal convictions. Maintaining these boundaries - that is, acting in accordance with your convictions - inspires respect.
@@ -931,6 +937,15 @@ Reflect on how always saying yes might affect you negatively. Use these strategi
 
 - **How To Say No To Strangers**
 - **How To Say No To Yourself**
+  - think of the various temptations you might encounter, and how making an "I don't" statement can help you to say no. These statements are a declaration of what you choose not to do
+    - > I don't eat donuts
+    - > I don't like leaving chores undone. Can we get together tomorrow?
+    - > I don't skip visits to the gym
+    - > I don't spend money frivolously
+    - > I don't gossip
+  - - > I don't dawdle when there's work to be done
+  - when you give in to temptations, you become a slave to your impulses. The resulting short-term gratification often comes at the expense of long-term fulfillment.
+  - when you *resist* temptations with declarative statements that begin with *"I don't..."* you become the architect of a life built upon healthy intentions.
 
 
 # Quotes
