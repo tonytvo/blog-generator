@@ -76,60 +76,204 @@ tags: ["valueinvesting", "investing"]
   - **what don't I see**
     - what I don't see is what costs me money
   - Buffet's respond to $20 dollar bet:
-    - if ""
+    - "If I stood here and hit a thousand golf balls, the likelihood that any of them would go in the hole is very remote. Maybe if I hit 10K golf balls I might get lucky and one would go in; but, you're not offering 10K - 1 odds. I know it's a small amount of money and that I could easily affort it, but it's bad odds. **Stupid in small things, stupid in big things**"
+  - We would be better off if we spent some quality Thinking Time differentiating the facts from our emotions and fantasies.
 
-- Consider 2nd-Order Consequences-Clarify the risks and the possibility/cost of being wrong.
-- Create the Machine-Create the executable plan and identify the resources (people and money) required to solve the real (core) problem and make forward progress.
+- **Consider 2nd-Order Consequences** - Clarify the risks and the possibility/cost of being wrong.
+  - - We only have a choice about the decision we are about to make, not the consequences. An important decision that does not identify the possible risks as well as the probability and costs of failure is a decision with a high likelihood of creating drama. The problem with drama is that it always costs money.
+  - I use the following 3 questions as one of my litmus tests to help me think before I act:
+    - **what's the upside**?
+    - **what is the downside**? what could go wrong? we rarely an do this one by ourselves because we're irrationally emotional and optimistic about the thing we are deciding about.
+    - **can I live with the downside**? 
+  - Risks don't cease to exist just because you ignore them, and neither do facts. An honest assessment of what could go wrong, the probability of it going off the rails, and the cost in the event of failure are fundamental to minimizing your dumb tax.
+  - Thinking about 2nd-order consequences minimizes the probability of a double bogey. Mistakes are inevitable, but double bogeys are usually avoidable.
+
+- **Create the Machine** - Create the executable plan and identify the resources (people and money) required to solve the real (core) problem and make forward progress.
+  - Shoes that don't fit are not a bargain at any price. A good idea that can't be executed is a bad idea.
+  . Ultimately, the problem gets addressed or solved as a result of a machine that will move me from Point A (where I am) to Point B (where I want to go). The expectation is that the new machine will produce an output that improves my situation, closes the gap, and moves me closer to the desired outcome.
+  - Regardless of the change, management must shift priorities if the new solution has a shot at being effective. Changes in priorities are always accompanied by changes in the allocation of resources. The vast majority of solutions (machines) fail to produce the anticipated outcomes because management is unclear about the required shifts in focus, human capital, and money.
+  - Measurement is THE key to sustainability and a culture of accountability.
+  - finding the dash of paprika (tiny mistake) that is ruining your pie requires careful thinking and close observation.
+
+# THINKING TIME: THE PROCESS
+- Designing a Thinking Time process that works for you will be no different than figuring out any other ritual you want to create. The time of day, the best location, and the optimum duration are all discovered through practice and experimentation until you have created a Thinking Time process that best supports your outcomes. The key here is to obsess about obtaining the outcomes and not about finding the perfect process!
+
+- step by step process/structure for each Thinking Time sessions
+  - great thinking time session requires a great question as the launching pad. Prior to my thinking time session, I will create and write down a question(s) I want to think about.
+    - create 3 to 5 questions that focus on a common thread or concern.
+    - sometimes, during actual thinking time session, change only 1 or 2 words in a querstion to see if I can get a different insight into the issue I'm thinking about. 
+      - For example, the original question might be: "Who is my target market?", might change this to "Who as my target market", I could tweak this question to: "Who is my competition's target market" that question could easily change to: "If I was starting again today, what market would I target?" I could add this question: "If I wanted to double my sales, what market would I target" This might morph into: "Why aren't my sales double what they are right now in the market I am currently targeting?"
+      - optimizing for possibilities (more questions, more possibilities) not completion
+    - clear calendar for 60 minutes, which will enable me to think for about three-quarters of an hour and then evaluate/sort the solutions and ideas I identified in the last 15 minutes or so
+    - 3 possible scenarios for Thinking Time questions
+      - create new question
+      - revisit a prior question that could use additional thought.
+      - use an answer from prior Thinking Time session as the basis for refining/fleshing out/changing the original question and searching for additional possible choices or variations on the theme.
+    - for most of the questions, one Thinking Time session is insufficient, 
+      - it's hard to focus more than about 40 minutes
+      - usually think about same question in multiple Thinking Time sessions (2-3 is not uncommon) before finding out elegant answer that is worthy of execution.
+    - close the door, turn off the phones, and eliminate all noise and visual distractions. I sit in my chair (which does not face my computer or a window, where too many distractions and temptations pop up), question, pen, and big chief tablet in hand
+    - set a timer on my computer alerts me when my Thinking Time has expired and keeps me from fidgeting and looking at my watch.
+    - right before I start, I sip my water, scratch what itches, go to the bathroom, clear my throat, and then sit perfectly still. I have found over the years that my body has the power to derail my thinking and break my concentration. To optimize the thinking process, I must lose touch with my body so that my train of concentration is totally uninterrupted. During my Thinking Time, I'm totally motionless except for my right hand, which is recording my thoughts.
+    - this is a creative process and not intended to be filtered or judged. If I hit a blank or gap in which nothing is flowing (or my mind starts wandering), I will silently re-ask myself the question I'm working on during the particular session. I might also silently ask myself,
+      - what else could it be?
+      - what could I do that would make this problem worse?
+      - how would my competition solve this problem?
+      - if I got fired and a new CEO took over, what decision would she make?
+    - I remind myself that I'm looking for ideas and possibilities, not perfection and absolutes. I attempt to avoid judging my ideas. The more judgment I have about an idea during the actual Thinking Time process, the less creative and more prejudiced I tend to be.
+    - remarkably, I have found my better ideas tend to emerge during a pattern known as the "third third" The first third of my ideas on any given day are typically the obvious ones. The second third are variations on the first third. But the last third tends to be the most robust and frequently are where the juice is found.
+    - At the conclusions of 40-45 minutes of Thinking Time. I will always take at least 15-20 mins to read what I have written and capture the best ideas I have uncovered (usually no more than 3)
+    - the key is to connect the dots, not just collect more dots. I have a separate file in which I keep my best ideas, insights, and distinctions. These ideas can become the basis for a future Thinking Time session or might need to marinate for a few days.
+
+- Fundamentally, Thinking Time is a structured process that enables me to minimize the risks, identify the opportunities, and maximize the results. That is a pretty high return for a very low-cost investment.
+
+# MMM... KOOL-AID
+
+- Learning doesn't happen until something changes.
+- Business is complex and the future is unknown. Tactical solutions, simplistic formulas, and generalized answers tend to cripple rather than enhance success. No one has all the answers and nobody can predict the future, including me. Whatever you do, don't drink my Kool-Aid, either. On the other hand, don't ignore what I'm saying. Do some independent thinking for a change. Just because someone has written a book doesn't mean he knows what he's talking about. The same holds true for me.
+- Be careful who you take advice from. Are they really an expert, or just someone with an opinion and a publisher? be suspicious of one size fits all solutions. Your situation is likely to be unique and require some serious brainpower to sort out the core problems and possible solutions. Be distrustful of advisors who predict the future
+- consultants have a recipe, masters have a cookbook
+- **Thinking Time**
+  - where are we compromising by looking for the door marked "WOW!"?
+  - what shortcuts are we attempting to take that are nto really shortcuts but rather mirages of greed, laziness, or impatience?
+  - what skills do I need to master to attain the success I want?
+  - realistically, how much additional time and practice are required for me to attain my outcome?
+  - who can I hire as a coach or mentor to help guide me and hold me accountable?
+  - where do I need to practice to improve my game and thus deserve the success I want?
+  - where do we need to pick up the level of intensity in how we are playing this game?
 
 
+# THE 4 HATS OF BUSINESS
 
-- Stupid in small things, stupid in big things.
-- We only have a choice about the decision we are about to make, not the consequences. An important decision that does not identify the possible risks as well as the probability and costs of failure is a decision with a high likelihood of creating drama. The problem with drama is that it always costs money.
-- Risks don't cease to exist just because you ignore them, and neither do facts. An honest assessment of what could go wrong, the probability of it going off the rails, and the cost in the event of failure are fundamental to minimizing your dumb tax.
-- Thinking about 2nd-order consequences minimizes the probability of a double bogey. Mistakes are inevitable, but double bogeys are usually avoidable.
-- Shoes that don't fit are not a bargain at any price. A good idea that can't be executed is a bad idea.
+- If your dream is to become rich in business, then mastering business skills is compulsory. Notice I did not say, "Improving your product or becoming a better plumber is compulsory." There's a big difference between winning the gold medal as the best plumber in the world
+(artistic and operational achievement) and winning the gold medal of making $1,000,000/year of bottom line profit as the Owner of a plumbing business (business success).
+- Believing passion and operational excellence will trump business skills and risk assessment is a guaranteed prescription for a breathtaking dumb tax.
+- The victim mentality of the what-you-see-is-what-you-get worldview is the perfect excuse to let you off the hook for taking responsibility for your business's outcomes and results. Don't let it. If you want business success, then learn the necessary business skills and tools. There
+is no such thing as a rich victim.
 
-. Ultimately, the problem gets addressed or solved as
-a result of a machine that will move me from Point
-A (where I am) to Point B (where I want to go). The
-expectation is that the new machine will produce an
-output that improves my situation, closes the gap, and
-moves me closer to the desired outcome.
-• Regardless of the change, management must shift
-priorities if the new solution has a shot at being effective.
-Changes in priorities are always accompanied by changes
-in the allocation of resources. The vast majority of
-solutions (machines) fail to produce the anticipated
-outcomes because management is unclear about the
-required shifts in focus, human capital, and money.
-• Measurement is THE key to sustainability and a culture
-of accountability.
-THINKING TIME: THE PROCESS
-• Designing a Thinking Time process that works for you
-will be no different than figuring out any other ritual you
-want to create. The time of day, the best location, and the
-optimum duration are all discovered through practice
-and experimentation until you have created a Thinking
-Time process that best supports your outcomes. The key
-here is to obsess about obtaining the outcomes and not
-about finding the perfect process!
-• Fundamentally, Thinking Time is a structured process
-that enables me to minimize the risks, identify the
-opportunities, and maximize the results. That is a pretty
-high return for a very low-cost investment.
-MMM... KOOL-AID
-• Learning doesn't happen until something changes.
-• Business is complex and the future is unknown. Tactical
-solutions, simplistic formulas, and generalized answers
-tend to cripple rather than enhance success. No one
-has all the answers and nobody can predict the future,
-including me. Whatever you do, don't drink my Kool-Aid,
-either. On the other hand, don't ignore what I'm saying.
-Do some independent thinking for a change. Just because
-someone has written a book doesn't mean he knows what
-he's talking about. The same holds true for me.
-• Be careful who you take advice from. Are they really an
-expert, or just someone with an opinion and a publisher?
+- For the success of every business there are 4 different roles that must be played or present: Artist (Creator), Operator (Technician), Owner (Business), and Board (Investor)
+
+- Every new business always starts with the artist/creator hat or the operator/technician hat. For the former you are usually passionate about a new idea and you feel very pumped to take it to the world, while the latter usually has a skill and wants to showcase it to the world.
+
+- the primary crisis of most start-ups and small businesses is usually cash, traction, or operational structure, any one of which causes the Owner (Business) and Board (investor) roles to be ignored.
+
+- The honest truth is that as the business grows the required skills to hone are the skills to run a business which include; talent management, reading financial statements, creating dashboards, allocating resources, measuring outcomes, leveraging, delegating duties etc. These skills and many more are the skills needed to take the business from the artistic and operator mindset to the mindset of a business owner, where the business really grows.
+
+- Note that these four hats are always needed at different times throughout the life cycle of any business. You use/wear them as the need arises in your business and it allows you see he business from different angles/sides and make better informed business decisions.
+
+- Having a hat for each role equips you to think about your business as a whole rather than just a set of discrete activities that must be performed –Keith Cunningham
+
+- Never allow these Hats (Artist, Operator, Business Owner, Investor) to define who you are or your ability. Its just a way of thinking that you switch to when needed.
+
+- These hats are interchangeable at will but require different mindsets and skills that must be brought to bear in running your business.
+
+- [4 hats of business](./4-hats-business.png)
+
+- **Artistic Hat:**
+  - He has a creative mindset and would always want to make changes to the product or service.
+  - They fall into the trap that the better they get at their craft, the better they are accepted in the market place and therefore more money.
+  - Companies like Mcdonalds have long left the artistic hat, in other words the taste of the burger has remained the same but the system of producing the burger has constant improvement among other things.
+  - Unfortunately, growth and control work inversely. The more growth you desire, the less control you can have (and vice versa).
+
+
+- **Operator Hat**
+
+  - These people are enormous hard workers and they believe in adding value through time and  effort.
+  - They believe that the harder you work, the more money they make, which isn't totally true.
+  - They are crisis leaders who apply tactics rather than strategy.
+  - Fire fighters instead of fire preventers
+  - They don’t run the business; rather the business runs them,
+  - more often than not, when operator-drive business fail, it is because the operator has died of exhaustion.
+
+- **Business Owner Hat**
+
+- They are usually engaged and involved in the planning, execution, measurement, and  corrections necessary to proactively lead and manage the business and employees.
+- An owner puts systems and structures in place to keep the company afloat.
+- They focus on leverage to grow the business and are brutal about dashboards because it helps with measurements, accountability, meeting deadlines and delivering results. They use the above to run the business end of the business.
+- They also use the power of delegation to allocate resources where needed to grow the business.
+- Usually the CEO that takes this role
+
+- **Board (Investor) Hat**
+
+  - This is similar to the Business owners mind set and focuses more on strategy and growth.
+  - the key attributes are the abilities to question, probe, think sequentially, substitute rational thought for emotion, anticipate crisis, predict 2nd-order consequences, and identify risks.
+  - The majority of dumb taxes incurred are a direct result of having only one voice in the conversation when the original decision was made. Adding experienced, wise, thoughtful, trustworthy voices to the conversation exposes risks, curtails faulty assumptions, and minimizes stupid.
+  - a board of directors serves as a coach/trusted advisor to the CEO. How members of the board think and what they think about is something every CEO/Owner should emulate, whether or not they have a formal Board. The vast majority of large, successful companies added a board of directors early in their trajectory. Filling this vital role is an integral part of the journey that must be traveled to avoid misguided, overly enthusiastic, irrational lurches that create dub tax and slow value creation and growth.
+  -Its usually filled by a group of people that are not involved in the day to day activities of the business but rather have an outside-in look into the business.
+
+  - Their purpose is to expose pit falls and curtail faulty assumptions and steer the company away from making costly mistakes.
+
+  - According to Keith Cunningham, The single best business decision you will ever make is to intentionally work with a peer group on a regular basis to question assumptions, ask hard questions (the kind you hope nobody will ask), alert you to icebergs, raise the bar, and push and hold you accountable.
+
+
+- In summary. The Artist creates it, the Operator does it, the Business owner leads the team and the investor protects the business and keeps it alive,
+
+- **Thinking Time**
+  - if my business could talk, what would it say?
+  - which hat has been my comfort zone and which hats are not getting worn often enough? For that matter, which hats do I not even own, and how can I acquire them?
+  - what, specifically, have I been ignoring about my business, and what specially needs to be corrected?
+  - what skills or tools do I need to learn (or who do I need to hire) to help me overcome the obvious obstacles that are restricting my growth, sales and profitability?
+  - what ares of my business could be delegated (or outsourced) to someone else (who is competent and has execution intelligence) to free me up to do the things that would add the most value?
+  - Artist Hat: What needs to be created?
+  - Operator Hat: What needs to be done ...today?
+  - Owner Hat: What needs to be structured? Measured? Planned? Delegated?
+  - Board Hat: What could go wrong? How can I mitigate the probability of that risk occurring and, if it does occur, reduce the cost?
+
+# CULTURE IS KING (YOU GET WHAT YOU TOLERATE)
+
+- The key to a great culture is creating and fostering a never-ending conversation about the "rules of the game." The rules define the boundaries or guardrails so that everyone knows exactly how to act, how to communicate, and how to treat each other. Culture, not a value statement, is the key to high performance and becoming the employer of choice. (Enron's Value
+Statement was Respect, Integrity, Communication, Excellence. A plaque on the wall is not a substitute for culture, and neither are nap rooms.)
+- Anyone who says customers are #1 has lost their mind! Employees are #1. Employees are the source of all value creation. Culture (not jelly beans in the kitchen) is the source for engaged, turned-on employees. Show me a disinterested employee and I'll show you a lousy culture, a weak leader, and a poor customer experience.
+- When you're about to initiate a cultural shift, be aware of these three common culture saboteurs:
+  - Iceberg #1: Deciding to change the culture within your business is not an initiative for the weak of heart or uncommitted. Creating and sustaining a world-class culture is an ongoing but immensely rewarding initiative. It lowe4rs turnover, improves efficiency, and makes the business a good place to work.
+  - Iceberg #2: There is always at least one person on a team who thinks he is immune to the culture transformation conversation.
+  - Iceberg #3: An unenforced rule is not a rule; it's a suggestion.
+- The reason we hesitate to have the hard conversations is because we don't care enough. If you truly cared enough, you would say what needs to be said. After all, how else are they going to improve and maximize their potential? Let me remind you that nothing can change until the unsaid is spoken.
+
+- In order to understand what culture is, let’s begin with what it’s not:
+  - It’s not a mission, value, or vision statement plaques we hang up on our company wall.
+  - The coddling of employees; e.g nap rooms, concierge to pick up the dry cleaned clothes of the employees, stocking the kitchen with red bull, spa coupons for employees,
+  - Sad to say that the above DOES NOT drive culture, it rather drives an entitlement mentality in your employees.
+
+- Culture is result-oriented…getting stuff done is at the core of any organization’s culture. It’s the guard rails or guiding principles by which everyone must live by. It is ingrained in the heart and soul of the business (employees and employers). It is woven into the very fabric of the organization.
+
+- In Keith’s words “Culture is how we treat each other, how we talk to each other, whether or not we trust each other, and how we handle conflict. Culture is about accountability, measuring, a bias for urgency, a focus on solutions, calling it tight—saying what needs to be said—being kind and generous, acknowledging one another, and expressing appreciation.
+
+- Craig's list ads
+  - > *If you can commit and live with the following principles, then you are the type of person who will be successful and help our company thrive. If you feel this level of engagement is not right for you or that you're not willing or able to participate with us at this level, we're not a good fit for you*
+  - > Our expectation is that you will take the steps necessary to do what you say you are going to do and be accountable for your actions. In other words, live "Above the line"
+  - > We understand that not every person is ready for this level of performance, and we appreciate the honesty of those who decide this is not the right place for them. On the other hand, you would make an ideal candidate to join our company if you're willing to commit the following Above the line principles
+    - > Accountability: See it, Own it, Solve it, Do it
+    - > Become part of the solution
+    - > respect for others and their feelings
+    - > act now
+    - > *ask the question: "what else can I do"?*
+    - > "ask the questions: "What coaching do you have for me?" and "what can I do better?"
+    - > *personal ownership and pride*
+    - > *reject average*
+    - > "show others that you care"
+- **Thinking Time**
+  - what is the culture we have now? (Make a list of how people act and treat each other... both good and bad.)
+  - what is the culture we want to create? (make a list.)
+  - if this were the worst, most toxic place on the planet to work, what would the culture look like? (Make a list so you can start thinking about the opposites)
+  - what would the culture look like if we were to become the "employer of choice"?
+  - what are the culture deficiencies in our business that are preventing us from being high-performance vbs high-maintenance?
+  - what are the beliefs employees must have to construct our new vision of how we treat each other and work together?
+  - what are the specific rituals we can create which will help reinforce and memorialize our new culture?
+  - what are the difficult conversations I need to have to reset our culture and create high-performance team?
+  - what are the simple rules of the game we must adopt to create a culture in which our people are truly engaged, committed to excellence, and do their best work?
+
+# GENERALIZATIONS KILL CLARITY
+. Generalizations kill clarity. Clarity equals power. Power is
+the ability to act. Whenever there is weak, ineffective, or
+no action, it is usually a result of a lack of clarity and/or
+accountability. (A Board of Directors is great at filling this
+role.)
+• Glossy and fluffy are always safe (and always produce
+mediocrity). Specifics and accountability require courage.
+A plan without specificity of deliverables and dates is a
+fantasy. Accountability should never be feared; it is the
+mother of great.
 
 # Quotes
 
