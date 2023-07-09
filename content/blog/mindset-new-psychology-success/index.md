@@ -1171,188 +1171,68 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
 - **Time Off for Smart Behavior**. Hustle rules. But the very same times that call for speedspeed-speed also call for exceptional creativity, and that doesn't always match up with 90-hour workweeks—especially back-to-back-to-back 90-hour weeks. So, in the course of the day, week, year, figure out how to take a pause—even a 2-minute "right breathing" break, like I do—that refreshes.
   - And take it. (This is of the utmost importance. Believe it.)
 
+
 - **Time Out for ... Daydreaming!**
   - "Most managers spend a great deal of time thinking about what they plan to do, but relatively little time thinking about what they plan not to do. ... As a result, they become so caught up in fighting the fires of the moment that they cannot really attend to the long-term threats and risks facing the organization. So the premier soft skill of leadership the hard way is to cultivate the perspective of Marcus Aurelius: avoid busyness, free up your time, stay focused on what really matters. Let me put it bluntly: every leader should routinely keep a substantial portion of his or her time—I would say as much as 50 percent—unscheduled. Only when you have substantial 'slop' in your schedule—unscheduled time—will you have the space to reflect on what you are doing, learn from experience, and recover from your inevitable mistakes. Leaders without such free time end up tackling issues only when there is an immediate or visible problem. Managers' typical response to my argument about free time is, 'That's all well and good, but there are things I have to do.' Yet we waste so much time in unproductive activity—it takes an enormous effort on the part of the leader to keep free time for the truly important things."
   - The chapter's second mind-ripping idea is labeled "The Discipline of Daydreaming": "Nearly every major decision of my business career was, to some degree, the result of daydreaming. ... To be sure, in every case I had to collect a lot of data, do detailed analysis, and make a data-based argument to convince superiors, colleagues and business partners. But that all came later. In the beginning, there was the daydream. By daydreaming, I mean loose, unstructured thinking with no particular goal in mind. ... In fact, I think daydreaming is a distinctive mode of cognition especially well suited to the complex, 'fuzzy' problems that characterize a more turbulent business environment. ... Daydreaming is an effective way of coping with complexity. When a problem has a high degree of complexity, the level of detail can be overwhelming. The more one focuses on the details, the more one risks being lost in them. ... Every child knows how to daydream. But many, perhaps most, lose the capacity as they grow up. ..."
-1.   Master the Art of Milestoning. My latest trip from VT to MA (173.6 mi) got me
-thinking of something else besides pit stops. I was running late, and noting my progress via
-odometer and various landmarks and highway markers. As my mood went up and down I realized
-(re-realized?) the power of manageable goals in every form of activity:
-(1) Milestones are all-important, no matter how trivial or repetitive the task.
-(2) "Milestoning" is a real art for reasons psychological, as much as or more than for reasons of
-"substance."
-(3) Truly trivial milestones are often meaningless, even if they are "accomplishments" of a sort
-and "milestones" of a sort—scoring the eyedrop's distance from the Dorset turn to the Stratton
-turn is no big deal and not really a motivator.
-(4) "Milestone power" is variable. E.g., at the beginning or near the end of a task, the apparently
-trivial can indeed seem utterly grand. "Well, I've done something"—that's what I feel seconds
-after 4 a.m. when I make it to the immediate end of the farm road that starts at our house, thus
-putting behind me the first click, or 0.7 miles, in numbing reality a scant 0.4 percent of the whole.
-(5) There is a definite sweetspot ... "the perfect milestone." The 13 miles from home to Dorset, or
-the 12 miles from Gill to Erving, is a winner—substantial enough to matter, to merit a pumped
-fist at 4:23 a.m., and to constitute "progress of note."
-(6) There is a fine line between "trivial" on the one end and "daunting" on the other. (A 27-mile
-stretch, if thought of that way, is downright discouraging: "Dear God, these 27 miles of Route 2
-are frigging endless.")
-Action: Become a "milestone activist." Use milestoning, for instance, on every project, large or
-small, as a matter of routine, but do so with the greatest care, as only partially explained above—
-that is, become a Milestone Professional as well as a Milestone Activist. These project landmarks,
-the establishment and celebration thereof, can have an enormous impact on the energy and
-motivation of a team.
-DESIGN
 
-1.   Design Is ... Everywhere!
-"Everything is design."—from Richard Farson, The Power of Design: A Force for Transforming
-Everything
-"Design" means the string of gorgeous products from Apple or OXO or Herman Miller or John
-Deere. But it applies equally to the "presentation" of the training course you are about to deliver.
-And "design mindfulness" is at the heart of the new purchasing process about to be unveiled—in
-a 20-person organization. And it's the soul of the reception area in a 3-person accountancy; and
-the very heart of the Formal Reports that same accountancy delivers. Hence, if you are serious
-about design, among other things:
-57
-(1) It becomes part of every (e-v-e-r-y) project, tiny to grand, in every (e-v-e-r-y)
- department.
-(2) Every project has a formal "design advocate."
- (3) Everyone is encouraged through example to become "design minded." (And
- it's part of their formal evaluation.) (Everyone = General management to
- housekeeping at the hotel, Managing Partner to receptionist at the
- accountancy or consultancy.)
-(4) Design is always considered on five dimensions: (a) usability, (b) simplicity,
- (c) aesthetics, (d) "Cool"/"Wow"/"Gaspworthy," and (5) EXCELLENCE.
-(5) Every work space is a living example of Excellence in design—it sings "our
- song."
-(6) Design EXCELLENCE applies to every business process as much as to every
- product.
-(7) Design per se is explicitly addressed in every written work plan.
-(8) While design is not always "free," design-mindedness is not a cost item—and
- EXCELLENCE in design applies at least as much at the "low end" as at the
- luxury end of a market.
-(9) Design Reviews are part of all project reviews.
-(10) If you are a/the Big Boss, there should be a ... Chief Design Officer ... who
- lives in the "power corridor" with the Chief Financial Officer, Chief
- Marketing Officer, etc. (If you are a "little boss," there should be an
- appointed "design champion" whose collateral duty is to represent the
- "design view" in all the unit's work product.)
-(11) "Design-mindfulness" or "EXCELLENCE in design" should (must!) be part
- of the organization's Core Values Statement.
-(12) Design per se should be directly and indirectly part of all training programs.
-1.   Is It "Lickable"? Steve Jobs says that the definition of a superbly designed product is
-one you ... "want to lick." BMW advertised a new model car as ... Radically Thrilling.
-Economists agree that inducing people to re-open their wallets is a major part of the cure to the
-recession. And I claim it all boils down to the right kind of hammer. A hammer you ... want to
-lick. A hammer that is ... radically thrilling. And a hammer that ... induces you to make an
-expenditure that you hadn't intended to make. That is, my Tuf-E-Nuf hammer. This gorgeous
-little hammer, actually the ... Tuf-E-Nuf Mini Striker Stubby Claw Hammer ... is a true
-innovation, even an earth-shattering innovation. (By my lights.) The head looks like and has the
-heft of a regular heavy hammer. But the full-diameter handle is only five inches long, half the
-normal length. And the grip is great, up to the standard of the easy-to-hold OXO kitchen tool line.
-The net result is the ability to maneuver in tight spots while retaining almost all the power of a
-full-size hammer—and, as a bonus, owning a piece of sculptural art! I ended up buying six of the
-bloody things for Christmas presents last year—including, Christmas spirit be damned, one as a
-present to myself, which I use as a paperweight or bookend when not whacking nails!
-So:
-Great design rules!
-Innovation is king!
-Functionality scores!
-Lickability and Radically Thrilling are the standards worth shooting for!
- (And ... there is more to design—and life—than iPods and iPhones!)
-58
-1.   Design Sign: Can You Get There from Here? The closest I've come to being late to a
-speech was attributable to ... lousy directions. It was at a big convention center—it ran for blocks
-and blocks. The driver and I puzzled at the directions—and the client's cell phone was not
-receiving. I finally picked a place, got out, and started hunting. Literally 25 minutes later, fit to be
-tied, I made it to my destination. It got me thinking: Directions, signs, manuals are life's blood, in
-this case and more or less in general. And most directions-signs-manuals are, well ... pathetic.
-But, these guides (directions-signs-manuals) ought to be ... Works of Art (damn it). ... Plusses
-rather than Minuses ... Full-scale Members of the "Value-added" Package. They should top the
-charts on dimensions such as these:
-Clear!
-Simple!
-Engaging!
-Beautiful!
-And: Breathtaking! (Why not?)
-1.   Love + Hate = Design Power. Design is all about ... emotion. Moreover, it's not about
-"liking" something—or "disliking" it. Design's ... awesome power ... comes precisely from the
-fact that it is about unvarnished emotion, about ... LOVE. And ... HATE.
-I LOVE LOVE LOVE the simplicity of the controls on my Black & Decker coffeemaker. One
-switch: ON. Or: OFF.
-I HATE HATE HATE (HATE HATE) the THREE devices it takes to control my satellite TV and
-DVD player.
-That's design.
-Love!
-Hate!
-Ultimate power tool!
-(Applies to … absolutely everything!)
+- **Master the Art of Milestoning**. 
+  - My latest trip from VT to MA (173.6 mi) got me thinking of something else besides pit stops. I was running late, and noting my progress via odometer and various landmarks and highway markers. As my mood went up and down I realized (re-realized?) the power of manageable goals in every form of activity:
+    - (1) Milestones are all-important, no matter how trivial or repetitive the task.
+    - (2) "Milestoning" is a real art for reasons psychological, as much as or more than for reasons of "substance."
+    - (3) Truly trivial milestones are often meaningless, even if they are "accomplishments" of a sort and "milestones" of a sort—scoring the eyedrop's distance from the Dorset turn to the Stratton turn is no big deal and not really a motivator.
+    - (4) "Milestone power" is variable. E.g., at the beginning or near the end of a task, the apparently trivial can indeed seem utterly grand. "Well, I've done something"—that's what I feel seconds after 4 a.m. when I make it to the immediate end of the farm road that starts at our house, thus putting behind me the first click, or 0.7 miles, in numbing reality a scant 0.4 percent of the whole.
+    - (5) There is a definite sweetspot ... "the perfect milestone." The 13 miles from home to Dorset, or the 12 miles from Gill to Erving, is a winner—substantial enough to matter, to merit a pumped fist at 4:23 a.m., and to constitute "progress of note."
+    - (6) There is a fine line between "trivial" on the one end and "daunting" on the other. (A 27-mile stretch, if thought of that way, is downright discouraging: "Dear God, these 27 miles of Route 2 are frigging endless.") Action: Become a "milestone activist." Use milestoning, for instance, on every project, large or small, as a matter of routine, but do so with the greatest care, as only partially explained above— that is, become a Milestone Professional as well as a Milestone Activist. These project landmarks, the establishment and celebration thereof, can have an enormous impact on the energy and motivation of a team.
 
-DETAILS
+## DESIGN
 
-131. The Case of the Two-cent Candy Years ago, I wrote about a retail store in the Palo Alto
-environs, a good one, which had a box of two-cent candies at the checkout. I remembered that
-"little" parting gesture of the two-cent candy as a symbol of all that is Excellent at that store.
-Dozens upon dozens of people—from retailers to bankers to plumbing supply house owners—
-who have attended seminars of mine have come up to remind me, sometimes 15 or 20 years later,
-of "the two-cent candy story," and to tell me how it had a sizeable impact on how they did
-business, metaphorically and in fact, how they had become "fanatic 2-centers."
-Translation: Ask yourself ... NOW: What is my (personal, department, project, restaurant, law
-firm) "Two-cent Candy" score? Does every part of the process of working with us/me include
-two-cent candies? Do we, as a group, "think two-cent candies"?
-Operationalizing: Make "two-centing it" part and parcel of "the way we do business around here."
-Don't go light on the so-called "substance"—but do remember that ... perception is reality ... and
-perception is shaped by two-cent candies as much as by that so-called "hard substance." (This is a 
-59
-particularly Brilliant Idea for a recession. You doubtless don't maximize "Two-cent
-Opportunities"—and what opportunities they are. And they only, in effect, cost 2-cents!)
-132. If The Envelope Doesn't Fit, Forget It! Stanford, beloved (and I mean it) Stanford, sent
-me a snail-mail questionnaire in prep for my MBA reunion. I took some pains to fill it out. When
-I got ready to mail it, I discovered that it didn't fit into the envelope they'd enclosed—I tore the
-questionnaire up and tossed it in the recycle bin. (Ever wonder what's wrong with MBA
-programs? Lack of attention to envelopes!) (Ever wonder why so many small businesses fail?
-Lack of attention to envelopes!)
-133. It's All About the Mud It's "mud season" in Vermont as I write and as we all too
-appropriately call it. Cars, and trucks in particular, look like flying mud balls. While on a
-(muddy!) speed walk, I passed through the parking lot of the Equinox Hotel, which was in the
-midst of a massive renovation. The primary contractor was Bread Loaf Construction, out of
-Middlebury. Bread Loaf folks must not be as smart as I think; that is, they apparently didn't know
-it's mud season. Every contractor's truck in the parking lot—and the FedEx and UPS trucks, too—
-confirmed the "mud ball" image I just suggested. Except for Bread Loaf's. There were two BL
-pickups in the lot. Both, in BL tradition, painted fire engine red. And neither—and I do not
-exaggerate—had the tiniest apparent trace of dirt or mud or even dust.
-Later in the afternoon, I was having a long interview with a top dog at the ad agency
-TBWA/Chiat/Day, and, not surprisingly, the topic turned to branding. Out of my mouth, startling
-me, popped, "Branding is a squeaky-sparkly clean bright red contractor's truck in mud season in
-Vermont." We nattered on about the fact that branding is about, well ... Everything. Nothing,
-absolutely nothing, is irrelevant to individual branding—or the branding of a construction
-company in VT, or Susan Axelrod Accountants, or Megacorp, Inc. So, right now:
-Check the reception desk.
-Check the reception area.
-Check the bathroom.
-Check your last Client email.
-Check 10 "little things."
-Right now.
-Is each one Excellent?
-Does each one confirm & extend & broadcast your "brand promise"?
-(Remember, a very BIG thing: You are in absolute control here! There are things you cannot
-make happen, to be sure; but you, no matter how "junior," or no matter what the state of the
-economy, can project Brand Excellence via a thousand "atmospherics" that in the end
-overwhelmingly determine Client-Employee perception.)
-134. Think Billboard Sign. "We Care." "We Don't Care." I was walking through a giant
-mall—visiting a renowned retailer's space. Usually, they're one of the best, poster practitioners of
-"experience" design & marketing.
-But ... THE PLACE WAS A MESS. To me the space ... SCREAMED ... "We Don't Care."
-There's a lot to Great Retailing, or great whatever. But very near or at the head of the line is: "WE
-CARE!" And it starts with "look and feel." (To be fair, in the case under discussion, it was a
-Saturday two or three weeks before Christmas. DOESN'T MATTER! In fact, the greater the
-confusion, the more the attention to "I care" matters-and stands out.)
-60
-We care.
-We don't care.
-(Take your pick.)
-(No in-between.)
-(Really ... no in between. Think about it.)
-GRUNGE
+- **Design Is ... Everywhere!**
 
-135. The Enemy Within—Or: There Is No Cost Higher Than the Cost of Rigidity. In his
+  - "Design" means the string of gorgeous products from Apple or OXO or Herman Miller or John Deere. But it applies equally to the "presentation" of the training course you are about to deliver. And "design mindfulness" is at the heart of the new purchasing process about to be unveiled—in a 20-person organization. And it's the soul of the reception area in a 3-person accountancy; and the very heart of the Formal Reports that same accountancy delivers. Hence, if you are serious about design, among other things:
+    - (1) It becomes part of every (e-v-e-r-y) project, tiny to grand, in every (e-v-e-r-y)  department.
+    - (2) Every project has a formal "design advocate."
+     - (3) Everyone is encouraged through example to become "design minded." (And  it's part of their formal evaluation.) (Everyone = General management to  housekeeping at the hotel, Managing Partner to receptionist at the  accountancy or consultancy.)
+    - (4) Design is always considered on five dimensions: (a) usability, (b) simplicity, (c) aesthetics, (d) "Cool"/"Wow"/"Gaspworthy," and (5) EXCELLENCE.
+    - (5) Every work space is a living example of Excellence in design—it sings "our  song."
+    - (6) Design EXCELLENCE applies to every business process as much as to every  product.
+    - (7) Design per se is explicitly addressed in every written work plan.
+    - (8) While design is not always "free," design-mindedness is not a cost item—and  EXCELLENCE in design applies at least as much at the "low end" as at the  luxury end of a market.
+    - (9) Design Reviews are part of all project reviews.
+    - (10) If you are a/the Big Boss, there should be a ... Chief Design Officer ... who  lives in the "power corridor" with the Chief Financial Officer, Chief  Marketing Officer, etc. (If you are a "little boss," there should be an  appointed "design champion" whose collateral duty is to represent the  "design view" in all the unit's work product.)
+    - (11) "Design-mindfulness" or "EXCELLENCE in design" should (must!) be part  of the organization's Core Values Statement.
+    - (12) Design per se should be directly and indirectly part of all training programs.
+
+- **Is It "Lickable"?**
+  - Steve Jobs says that the definition of a superbly designed product is one you ... "want to lick." BMW advertised a new model car as ... Radically Thrilling. Economists agree that inducing people to re-open their wallets is a major part of the cure to the recession. And I claim it all boils down to the right kind of hammer. A hammer you ... want to lick. A hammer that is ... radically thrilling. And a hammer that ... induces you to make an expenditure that you hadn't intended to make. That is, my Tuf-E-Nuf hammer. This gorgeous little hammer, actually the ... Tuf-E-Nuf Mini Striker Stubby Claw Hammer ... is a true innovation, even an earth-shattering innovation. (By my lights.) The head looks like and has the heft of a regular heavy hammer. But the full-diameter handle is only five inches long, half the normal length. And the grip is great, up to the standard of the easy-to-hold OXO kitchen tool line. The net result is the ability to maneuver in tight spots while retaining almost all the power of a full-size hammer—and, as a bonus, owning a piece of sculptural art! I ended up buying six of the bloody things for Christmas presents last year—including, Christmas spirit be damned, one as a present to myself, which I use as a paperweight or bookend when not whacking nails!
+  - So:
+    - Great design rules!
+    - Innovation is king!
+    - Functionality scores!
+    - Lickability and Radically Thrilling are the standards worth shooting for!
+    - (And ... there is more to design—and life—than iPods and iPhones!)
+
+- **Love + Hate = Design Power**. 
+  - Design is all about ... emotion. Moreover, it's not about "liking" something—or "disliking" it. Design's ... awesome power ... comes precisely from the fact that it is about unvarnished emotion, about ... LOVE. And ... HATE.
+  - I LOVE LOVE LOVE the simplicity of the controls on my Black & Decker coffeemaker. One switch: ON. Or: OFF. I HATE HATE HATE (HATE HATE) the THREE devices it takes to control my satellite TV and DVD player.
+  - That's design.
+    - Love!
+    - Hate!
+    - Ultimate power tool!
+    - (Applies to … absolutely everything!)
+
+## DETAILS
+
+- **Think Billboard Sign. "We Care." "We Don't Care."** I was walking through a giant mall—visiting a renowned retailer's space. Usually, they're one of the best, poster practitioners of "experience" design & marketing. But ... THE PLACE WAS A MESS. To me the space ... SCREAMED ... "We Don't Care." There's a lot to Great Retailing, or great whatever. But very near or at the head of the line is: "WE CARE!" And it starts with "look and feel." (To be fair, in the case under discussion, it was a Saturday two or three weeks before Christmas. DOESN'T MATTER! In fact, the greater the confusion, the more the attention to "I care" matters-and stands out.)
+  - We care.
+  - We don't care.
+  - (Take your pick.)
+  - (No in-between.)
+  - (Really ... no in between. Think about it.)
+
+## GRUNGE
+
+1.   The Enemy Within—Or: There Is No Cost Higher Than the Cost of Rigidity. In his
 June 2, 2009, New York Times column, "The Quagmire Ahead," David Brooks begins his
 assessment of the GM fiasco by citing an internal memo written in ... 1988 ... by EVP Elmer
 Johnson: "We have vastly underestimated how deeply ingrained are the organizational and
@@ -1367,7 +1247,7 @@ Honda didn't do in GM.
 Nissan didn't do in GM.
 We have met the enemy.
 He is, indeed, us.
-136. Become a Decentralization Dervish!
+1.   Become a Decentralization Dervish!
 Child rearing.
 Delegating.
 Organization structure.
@@ -1387,7 +1267,7 @@ rigidity-fighting should be an explicit part of everyone's evaluation. Every sys
 bsed" every couple of years. And, of course, you'll need to appoint Anti-ICD Police (please use
 the term) ... armed ... and dangerous ... and authorized/encouraged to Act.
 Start … today.
-137. Play the ... Great Grunge Removal Game! Commerce Bank (now owned by Toronto
+1.   Play the ... Great Grunge Removal Game! Commerce Bank (now owned by Toronto
 Dominion) more or less revolutionized retail banking on the East Coast. For one thing, among
 ever so many, computer terminals in the branches have a ... red button ... on the keyboard. When
 you (teller) run into any self(bank)-created roadblock to serving the customer ... you push the red
@@ -1404,7 +1284,7 @@ growth" in check or even reversed—and headed, of course, by the CGRO/Chief Gru
 Officer.
 Get on with this ... today!
 Grunge Grows ... 60/60/24/7/365.
-138. The 1% Drill: Clearing Away a World of "Slop" in Just 45 Minutes. I co-presented
+1.   The 1% Drill: Clearing Away a World of "Slop" in Just 45 Minutes. I co-presented
 an all-day in-company seminar in the UK several years ago. At about 2 p.m. the principal
 presenter called an abrupt halt to proceedings, and said, "I want to make sure I earn out my full
 fee today, and then some. We're going to stop and do a 45-minute exercise." He explained that
@@ -1415,7 +1295,7 @@ had each group report in public for 2 or 3 minutes—this public recitation, he 
 odds of execution; it also provided others with ideas. Indeed the groups readily identified their 1
 percent and reported accordingly—there was actually no bitching.
 1%? No small thing, regardless of business size.
-139. Goal: To Make "Common Sense" More Common. A lot of the giant financialeconomic mess we're in can be chalked up to a failure of common sense, often by the so-called
+1.   Goal: To Make "Common Sense" More Common. A lot of the giant financialeconomic mess we're in can be chalked up to a failure of common sense, often by the so-called
 best of the best and brightest of the bright, egging each other on with a series of implicit "I dare
 yous." We are all, in fact, "insiders" in our own worlds—and we all too often lose touch with
 reality to a lesser or greater extent. There are a host of things one can do to deal with this, but in
