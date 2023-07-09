@@ -241,17 +241,17 @@ Statement was Respect, Integrity, Communication, Excellence. A plaque on the wal
 
 - Craig's list ads
   - > *If you can commit and live with the following principles, then you are the type of person who will be successful and help our company thrive. If you feel this level of engagement is not right for you or that you're not willing or able to participate with us at this level, we're not a good fit for you*
-  - > Our expectation is that you will take the steps necessary to do what you say you are going to do and be accountable for your actions. In other words, live "Above the line"
-  - > We understand that not every person is ready for this level of performance, and we appreciate the honesty of those who decide this is not the right place for them. On the other hand, you would make an ideal candidate to join our company if you're willing to commit the following Above the line principles
-    - > Accountability: See it, Own it, Solve it, Do it
-    - > Become part of the solution
-    - > respect for others and their feelings
-    - > act now
+  - > *Our expectation is that you will take the steps necessary to do what you say you are going to do and be accountable for your actions. In other words, live "Above the line"*
+  - > *We understand that not every person is ready for this level of performance, and we appreciate the honesty of those who decide this is not the right place for them. On the other hand, you would make an ideal candidate to join our company if you're willing to commit the following Above the line principles*
+    - > *Accountability: See it, Own it, Solve it, Do it*
+    - > *Become part of the solution*
+    - > *respect for others and their feelings*
+    - > *act now*
     - > *ask the question: "what else can I do"?*
-    - > "ask the questions: "What coaching do you have for me?" and "what can I do better?"
+    - > *"ask the questions: "What coaching do you have for me?" and "what can I do better?"*
     - > *personal ownership and pride*
     - > *reject average*
-    - > "show others that you care"
+    - > *"show others that you care"*
 - **Thinking Time**
   - what is the culture we have now? (Make a list of how people act and treat each other... both good and bad.)
   - what is the culture we want to create? (make a list.)
@@ -264,16 +264,25 @@ Statement was Respect, Integrity, Communication, Excellence. A plaque on the wal
   - what are the simple rules of the game we must adopt to create a culture in which our people are truly engaged, committed to excellence, and do their best work?
 
 # GENERALIZATIONS KILL CLARITY
-. Generalizations kill clarity. Clarity equals power. Power is
-the ability to act. Whenever there is weak, ineffective, or
-no action, it is usually a result of a lack of clarity and/or
-accountability. (A Board of Directors is great at filling this
-role.)
-• Glossy and fluffy are always safe (and always produce
-mediocrity). Specifics and accountability require courage.
-A plan without specificity of deliverables and dates is a
-fantasy. Accountability should never be feared; it is the
-mother of great.
+- Generalizations kill clarity. Clarity equals power. Power is the ability to act. Whenever there is weak, ineffective, or no action, it is usually a result of a lack of clarity and/or
+accountability. (A Board of Directors is great at filling this role.)
+- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and  accountability require courage. A plan without specificity of deliverables and dates is a
+fantasy. Accountability should never be feared; it is the mother of great.
+- *Here are the specific, measurable steps I'm taken (broken down by week) and the milestones, timelines, resources, and personal calendar time I am committing to reach $2000000 in revenue this next quarter. These are the names of each lead in our funnel. This is who and how many I will call on this quarter. Here is the conversion percentage I will achieve. This is the monetary value of each transaction. Here ar the exact things I will do and the specific results I will generate to make certain we achieve our $2000000 target. I'll be reporting on these three specific measurable things (A, B, C) next week, and you should hold me accountable for achieving all 3*
+- the key questions to ask in preparing to create your plan always start with how, what or who
+  - how will we achieve this outcome?
+  - what specific activities are required to be performed?
+  - who is going to perform them?
+  - what are our standards of performance?
+  - what are the critical drivers that must be consistently executed to achieve this outcome?
+  - how frequently must these critical activities be measured and reported to be successful?
+  - who owns this outcome?
+- **Thinking Time**
+  - how do I need to rework our plans and budgets to make them granular and measurable?
+  - what is the specific recipe I need to create to make certain the outcome we have stated is achieved?
+  - what are the specific activities and milestones we must hit in order to stay on track with our stated deliverables?
+  - who, specifically is accountable and responsible for achieving each outcome?
+  - what are the dashboards I need to create to make sure we're measuring the critical drivers and making corrections based on our performance?
 
 # Quotes
 
