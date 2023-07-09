@@ -264,6 +264,7 @@ Statement was Respect, Integrity, Communication, Excellence. A plaque on the wal
   - what are the simple rules of the game we must adopt to create a culture in which our people are truly engaged, committed to excellence, and do their best work?
 
 # GENERALIZATIONS KILL CLARITY
+
 - Generalizations kill clarity. Clarity equals power. Power is the ability to act. Whenever there is weak, ineffective, or no action, it is usually a result of a lack of clarity and/or
 accountability. (A Board of Directors is great at filling this role.)
 - Glossy and fluffy are always safe (and always produce mediocrity). Specifics and  accountability require courage. A plan without specificity of deliverables and dates is a
@@ -323,7 +324,7 @@ fantasy. Accountability should never be feared; it is the mother of great.
     - onboard effectively
     - measure consistently
     - coach continuously.
-- **build the organization chart/structure:** This cannot be overemphasized. It’s one of the differences between good companies and great companies. People or personnel must operate within a structure also known as the organizational chart. A structure gives support and provides protection to your business. Most importantly, the structure must be outcomes/result oriented instead of roles, titles, or names. In other words, every role must have tasks, outcomes, and deliverables that are assigned to people, and excuses for non or underperformance are not allowed.
+- **build the organization chart/structure:** This cannot be overemphasized. It’s one of the differences between good companies and great companies. People or personnel must operate within a structure also known as the organizational chart. A structure gives support and provides protection to your business. Most importantly, the structure must be outcomes/result oriented instead of roles, titles, or names. In other words, every role must have tasks, outcomes, and deliverables that are assigned to people, and excuses for non or under-performance are not allowed.
 
 - **Create a culture:** Culture is a way of life. As a CEO, whatever you put in place as a culture will run into the fabric of your business. You must show that you are accountable, you care, and have a deep desire for success. You cannot have a culture that is not practiced. A culture that is not upheld is a mere vision or mission plaque that you hang on the wall.
   - how people talk to each other and treat one another is the essence of culture.
@@ -398,12 +399,12 @@ fantasy. Accountability should never be feared; it is the mother of great.
   - Secondary locations always decline the fastest (and most) and take the longest to return.
   - New projects must be based on current demand and not future growth. •You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, you will also have far less overhead.
   - Too many deals consume time and draw attention away from the really good ones.
-  -It takes three good deals to make up for one bad deal.
-  -When a bad deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad and the good ones are now mediocre or troubled as a result of a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
-  -Holding off on adjusting the price or overhead based on the belief the market will rebound quickly is irrational.
+  - It takes three good deals to make up for one bad deal.
+  - When a bad deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad and the good ones are now mediocre or troubled as a result of a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
+  - Holding off on adjusting the price or overhead based on the belief the market will rebound quickly is irrational.
 
 - **Financing**
-  -Debt gives the illusion of wealth. True wealth is assets, cash flow, and manageable (minimal) debt.
+  - Debt gives the illusion of wealth. True wealth is assets, cash flow, and manageable (minimal) debt.
   - Excessive debt and hope are the root of all financial crises. You can never ignore risks or suspend doubt.
   - Doing a marginal deal just because the money is available is stupid. Bankers typically can't assess the market risks either.
   - Take your personal guarantee seriously. You only bring two things to the table: cash and your guarantee, neither of which has an unlimited supply.
@@ -448,62 +449,85 @@ fantasy. Accountability should never be feared; it is the mother of great.
 
 # ORDINARY THINGS, CONSISTENTLY DONE, PRODUCE EXTRAORDINARY RESULTS!
 
-Ordinary things, consistently done, produce extraordinary results! Think about the discipline of consistently reviewing your prior month's financial statements by the 10th of every month. In a matter of a quarter or two, the insights and optics harvested will change the priorities and decision making in your business.
+- Ordinary things, consistently done, produce extraordinary results! Think about the discipline of consistently reviewing your prior month's financial statements by the 10th of every month. In a matter of a quarter or two, the insights and optics harvested will change the priorities and decision making in your business.
 
-1.    To get good at doing stuff, you must be ready to practice, be prepared to make a lot of mistakes. As a matter of fact, the faster you make the mistake and correct it the better for you. SO FAIL FAST.
+- To get good at doing stuff, you must be ready to practice, be prepared to make a lot of mistakes. As a matter of fact, the faster you make the mistake and correct it the better for you. **SO FAIL FAST**.
 
-2.    It’s not just practice that makes perfect, but the deliberate intensity of your practice will determine the speed of your progress.
+- It’s not just practice that makes perfect, but the deliberate intensity of your practice will determine the speed of your progress.
 
-3.    In Keith’s words “ordinary things done consistently will produce extraordinary results.
+- In Keith’s words “ordinary things done consistently will produce extraordinary results.
 
-4.    A lot of wrong decisions are made on the premise of instant gratification…you expect a big deal to make the change on your financial distress instead of working your way out of the distress which takes time. The good thing about working your way out of the distress is that you will likely not make that mistake again, thereby giving you a success path.
+- A lot of wrong decisions are made on the premise of instant gratification…you expect a big deal to make the change on your financial distress instead of working your way out of the distress which takes time. The good thing about working your way out of the distress is that you will likely not make that mistake again, thereby giving you a success path.
 
-5.    Managing expectation is an essential element of business success. When not managed well you are likely to kill your dreams.
+- Managing expectation is an essential element of business success. When not managed well you are likely to kill your dreams.
+
+- **Thinking Time**
+  - Trying to figure out how to immediately solve a problem in one fell swoop is stupid. I might not have the final "Holy Grail" solution to all my problems, but what are five things I can do immediately to improve my situation?
+  - Where am I inconsistently executing the right thing?
+  - Where am I not practicing with the level of intensity I know I am capable of?
+  - Where are we practicing but not correcting or getting the coaching that would give us insights about what we can do better? • Where am I consistently executing the wrong thing?
+  - Where have I allowed the need for instant gratification to become a substitute for picking up the business end of a shovel and consistently breaking a sweat?
+  - What are three outcomes we previously set but have abandoned because of unrealistic expectations or inconsistent execution? Should any of these outcomes be resuscitated and reprioritized with the accompanying realistic plans, resources, and time frames?
+  - What are three bad habits/business practices we have tolerated that are undermining our results?
+  - What are the decisions I must make and
+  -he hard conversations I must have to break these bad habits once and for all?
+  - How will I adjust my behavior to create the success/outcomes I envision?
 
 # O BABY!
-. Start with what customers want. Start with their needs, desires, and pain. Start with the gap between the solutions being offered by the competition and where they (the customers) are frustrated.
 
-In this chapter, Keith describes a story where he interrogates his wife on how he can be of better husband to her. Most importantly, what she wants/desires in a relationship. He starts with what she wanted in a relationship and she replies “I want to be Loved and Adored”. This was her goal. Then he went on to ask her “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” For almost an hour and a half he kept on writing the answers to that question. He wondered why she wanted all this but iis what she wanted. Period. Even though he didn’t have the passion for it, he was ready to do everything he could make it happen. He even asked what happens if he forgets, she smiled and said I will remind you.
+- Start with what customers want. Start with their needs, desires, and pain. Start with the gap between the solutions being offered by the competition and where they (the customers) are frustrated.
 
+- In this chapter, Keith describes a story where he interrogates his wife on how he can be of better husband to her. Most importantly, what she wants/desires in a relationship. He starts with what she wanted in a relationship and she replies “I want to be Loved and Adored”. This was her goal. Then he went on to ask her “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” For almost an hour and a half he kept on writing the answers to that question. He wondered why she wanted all this but iis what she wanted. Period. Even though he didn’t have the passion for it, he was ready to do everything he could make it happen. He even asked what happens if he forgets, she smiled and said I will remind you.
 
+- Let’s pause here and think for a moment and analyze the story.
+  - He asked her for her goal, and she verbalized it.  
+  - He then asked her what success means to her by asking “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” Her.e he wanted her to verbalize what she actually wanted in plain language.
+  - He was also committed to make it happen even though he didn’t have the passion for it.
+  - As a business owner, you must always find out what the customer wants. You are in business because of the customer. The mistake most people make is to create the product and then look for the customer. Here you find out what their pain points, needs and most importantly what success means to them?
+  - Once you have gotten their needs and pain points, the next thing is to find a solution that meets their need and their success proposition
+  - Finally, your service/product delivery must be out of this world and exceptional. If this is not done well, you will jeopardize all the hard work you have put in the creation of the product. You are likely not to come back to a restaurant that had crappy service no matter how good the food tastes.
 
-Let’s pause here and think for a moment and analyze the story.
+- principles to attract customers and gain significant traction in any business
+  - **FOWTW:**: find out what they want. This is anticipating problems, identifying pain points, and discovering needs. what do customer want?
+  - **GAGI:** go and get it. build solutions for the problem/pain/need identified. Can I get them what they want?
+  - **GITT:** give it to them. This is how you deliver a solution... the experience and execution. how do I deliver to them?
 
-1.     He asked her for her goal, and she verbalized it.  
+- To conclude, I would like to borrow these words from Peter Drucker that says when the marketing is done right, selling becomes unnecessary. And his definition of marketing? Finding out what customers want.
 
-2.    He then asked her what success means to her by asking “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” Here he wanted her to verbalize what she actually wanted in plain language.
-
-3.    He was also committed to make it happen even though he didn’t have the passion for it.
-
-4.    As a business owner, you must always find out what the customer wants. You are in business because of the customer. The mistake most people make is to create the product and then look for the customer. Here you find out what their pain points, needs and most importantly what success means to them?
-
-5.    Once you have gotten their needs and pain points, the next thing is to find a solution that meets their need and their success proposition
-
-6. Finally, your service/product delivery must be out of this world and exceptional. If this is not done well, you will jeopardize all the hard work you have put in the creation of the product. You are likely not to come back to a restaurant that had crappy service no matter how good the food tastes.
-
-7. To conclude, I would like to borrow these words from Peter Drucker that says when the marketing is done right, selling becomes unnecessary.
-
-
+- **Thinking Time**
+  - What do our customers want and how do I know that this is the right answer?
+  - What is the solution I need to design to meet their needs and address their pain? 
+  - Do I have the ability (skill sets and resources) to successfully build this solution?
+  - How will I deliver it to them?
+  - What is the experience these customers want?
+  - What exactly is the gap between where customers are frustrated and what the competition is doing?
+  - Where can we find pockets of target customers who are frustrated with our competition?
+  - Where is the competition weak or deficient in delivering the outcomes, solutions, and value the market demands?
+  - What should we be doing to communicate to potential customers that we are the aspirin for their pain?
+  - What are the three primary problems (pains) my target market has?
+  - Where have I substituted my judgment for what I want to deliver for what the customers actually want to receive?
+  - How could I check in with our customers?
 
 # HELP ME UNDERSTAND
 
-. When my effort to help you get better exceeds your effort to get better, this stops working for both of us.
+- When my effort to help you get better exceeds your effort to get better, this stops working for both of us.
 
-“Fix the problem and not the blame” is a statement that stands out for me and is also synonymous to treating the symptoms instead of treating the problem. Most times as business owners we tend to fall into the trap of managing instead of coaching. Leaders coach while managing usually takes the form of a sheriff.
+- “Fix the problem and not the blame” is a statement that stands out for me and is also synonymous to treating the symptoms instead of treating the problem. Most times as business owners we tend to fall into the trap of managing instead of coaching. Leaders coach while managing usually takes the form of a sheriff.
 
-A coach sets the rules/guard rails and then guides you to your success while a sheriff sets the same rules and reprimands/punishes you for unmet expectations.
+- A coach sets the rules/guard rails and then guides you to your success while a sheriff sets the same rules and reprimands/punishes you for unmet expectations.
 
- Leaders usually have employees that have ownership of the jobs and understand that doing the work means keeping the job, while employees of a manager usually operate from fear of being punished.
+- Leaders usually have employees that have ownership of the jobs and understand that doing the work means keeping the job, while employees of a manager usually operate from fear of being punished.
 
-Leaders always make sure that there is communication such that the employees have a clear understanding of their job specification, understand their different tasks and if there is a grey area, they immediately call for help to get it solved.
+- Leaders always make sure that there is communication such that the employees have a clear understanding of their job specification, understand their different tasks and if there is a grey area, they immediately call for help to get it solved.
 
-Employees under a leader will comply as a result of ownership, communication and accountability while the employees under a manager are compliant as a result of fear
+- Employees under a leader will comply as a result of ownership, communication and accountability while the employees under a manager are compliant as a result of fear
 
-Leaders reprimand when needed while it is the first line of action for managers.
+- Leaders reprimand when needed while it is the first line of action for managers.
 
-Leaders have high performance teams because there is accountability, measurement and ownership, while managers have high maintenance teams that are working out of fear of being reprimanded/punished if they make mistakes.
+- Leaders have high performance teams because there is accountability, measurement and ownership, while managers have high maintenance teams that are working out of fear of being reprimanded/punished if they make mistakes.
 
-Finally, in the words of Keith Cunningham, “the two most important phrases used by leaders are: Help me understand and What do you recommend?
+- Finally, in the words of Keith Cunningham, “the two most important phrases used by leaders are: Help me understand and What do you recommend?
+
 
 # Quotes
 
