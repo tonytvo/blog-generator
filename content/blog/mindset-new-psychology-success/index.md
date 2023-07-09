@@ -1090,166 +1090,91 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
   - *"I shall evaluate others in part on their skill and persistence at ... Asking Dumb Questions."*
   - *"We shall hire in part on perceived or measured Instinctive Curiosity." (For every slot.)*
 
-1.   Reward DNK (Do Not Know) Bosses and "brilliant" staffers are very prone to falling
-into the trap of not admitting when they don't know the answer or have trouble with the concept.
-(CEOs pocketing $75,000,000 bonuses didn't grock the Super-derivatives served up by their U.
-Chicago math Ph.D.s—welcome to Recessionus Gargantuas.) The boss thinks "I'm supposed to
-know that"—and is loath to admit that he doesn't. He rarely lies outright, but he is very inclined to
-obfuscate his ignorance. So, too, those "brilliant" staffers who are paid large sums to be brilliant,
-not to not know.
-Fact is, we should not only readily (gleefully?—"that's what I hired you for") admit when we do
-not know something, but also actively seek out things we do not know, or "DNKs." Perhaps start
-meetings by asking, "What are our DNKs here?" (And end the meeting the same way.) We can,
-and should, make it positive ... and praiseworthy ... for anyone to say "DNK" when
-he/she/you/me DNK. Publicly cheer the person who admits—in front of a boss—that he or she
-"does not know" the facts here, or the answer to this or that. In fact, you might make a game (a
-serious game!) out of identifying the "DNKs" regarding any analysis or proposed action.
-1.   Work the Watercooler—Or: Are You Gossiping Enough? The human brain is about
-nine times bigger, on a body-size-adjusted basis, than that of mammals in general. The reason is
-fascinating—and mostly counterintuitive. We are, of course, a long way from being the strongest
-of the species. So how did we win out over the Truly Big Dudes? Answer: Not by intellectual
-skill at calculating warhead (spear) trajectories, but by joining together in groups and outwitting
-and out-organizing the brutes. And what brought these groups of humans together? A brain that
-grew to accommodate: Gossip! As British evolutionary psychologist Robin Dunbar puts it, our
-brains expanded almost entirely to store social information. This "relationship stuff" allowed us to 
-53
-manufacture the "social glue" that would underpin co-habiting in sizeable bands; by developing
-social cohesion skills, we improved or maximized what we now call "organizational
-effectiveness" ... and became Kings and Queens of the jungle and beyond.
-My point here is to suggest that anyone, as so many (esp. males) do, who dismisses or diminishes
-"relationship stuff" and "communication stuff"—and in particular "political stuff"—as "the soft
-stuff" is not only an ignorant damn fool, but also denying the essence of what it means to be
-human.
+- **Reward DNK (Do Not Know**) 
+  - Fact is, we should not only readily (gleefully?—"that's what I hired you for") admit when we do not know something, but also actively seek out things we do not know, or "DNKs." Perhaps start meetings by asking, "What are our DNKs here?" (And end the meeting the same way.) We can, and should, make it positive ... and praiseworthy ... for anyone to say "DNK" when he/she/you/me DNK. Publicly cheer the person who admits—in front of a boss—that he or she "does not know" the facts here, or the answer to this or that. In fact, you might make a game (a serious game!) out of identifying the "DNKs" regarding any analysis or proposed action.
 
+- **Work the Watercooler—Or: Are You Gossiping Enough?** 
+  - The human brain is about nine times bigger, on a body-size-adjusted basis, than that of mammals in general. The reason is fascinating—and mostly counterintuitive. We are, of course, a long way from being the strongest of the species. So how did we win out over the Truly Big Dudes? Answer: Not by intellectual skill at calculating warhead (spear) trajectories, but by joining together in groups and outwitting and out-organizing the brutes. And what brought these groups of humans together? A brain that grew to accommodate: Gossip! As British evolutionary psychologist Robin Dunbar puts it, our brains expanded almost entirely to store social information. This "relationship stuff" allowed us to manufacture the "social glue" that would underpin co-habiting in sizeable bands; by developing social cohesion skills, we improved or maximized what we now call "organizational effectiveness" ... and became Kings and Queens of the jungle and beyond.
 
-LEARNING
+  - My point here is to suggest that anyone, as so many (esp. males) do, who dismisses or diminishes "relationship stuff" and "communication stuff"—and in particular "political stuff"—as "the soft stuff" is not only an ignorant damn fool, but also denying the essence of what it means to be human.
 
-118. Making the Grade: Lifelong Learning Is a Mission Statement Must. In our rapidly
-gyrating world, learning-for-life is no longer an option; it's a professional life (or death)
-necessity—as more and more are beginning to realize. This is true of you age 16 or 26 or 46 or
-66—and God knows it's true of my great pal, The Little BIG Things' dedicatee, Warren Bennis,
-voracious in the depth and breadth of his quest for knowledge at 85!
-I'll go so far as to say that an explicit focus on "life-long learning" for everyone on board could
-well be the most sustainable advantage an organization of any flavor can have. Hence, I hereby
-strongly suggest that ... "An unstinting commitment by every one of us to accelerated lifelong
-learning" ... or some close kin be made a formal part of your mission-values statement. It
-deserves to be right up there in the stratosphere with the likes of superior quality and profitability.
-119. Out-Study 'Em! I loved this line from New York Times columnist Tom Friedman: "When
-I was growing up, my parents used to say to me: 'Finish your dinner—people in China are
-starving.' I, by contrast, find myself wanting to say to my daughters: 'Finish your homework—
-people in China and India are starving for your job.'" Tennis or finance or engineering or
-bartending ... this "simple" lesson bears repeating.
-Age 26: Study!
-Age 46: Study!
-Age 66 (me): Study!
-120. Out-Read 'Em!
-Read!
-Read Wide!
-Surprise Yourself With Your Reading Picks!
-Read Deep!
-Read Often!
-Out-READ the "Competition"!
-Take Notes!
-Summarize!
-Share With Others What You Read!
-Read!
-Read!
-Read!
-54
-121. Out-Write 'Em! Ulysses S. Grant was likely America's most effective general. He had
-many skills—and lucid writing, interestingly, ranked near the top. His orders to his generals
-before battles were masterpieces of clarity and brevity. Writing matters ... on the battlefield at
-Vicksburg as well as in the boardroom.
-So: Work your ass off … on your writing, from Tweets to emails to Blog Posts to letters to your
-Mum—each is an opportunity. (Re Tweets, I'm amazed at how much you can learn to pack in,
-with some clarity++, in 140 characters.)
-122. Now Enrolling: "The People's MBA." I have long been a vociferous critic of the
-MBA—such criticism was the de facto point of In Search of Excellence. Bob Waterman and I,
-though both engineers (Waterman in Mining, me in Civil) and both Stanford MBAs and both
-McKinsey consultants (the latter a Mecca of cold-blooded business analysis), lamented business's
-abiding emphasis on the numbers and its accompanying de facto and de jure de-emphasis of the
-so-called "soft" "people stuff." Now, with tongue only slightly in cheek, I hereby offer the core
-courses in my prospective MBA curriculum, without comment:
-*Managing People I, II, III
-*Servant Leadership I, II
-*Execution I, II, III
-*Creating a "Try it now" environment/Celebrating Failure
-*Maximizing R.O.I.R. (Return On Investment in Relationships)
-*Value-added through XFX/Cross-functional EXCELLENCE/"Sucking down,"
- the Art of "Lower"-level Networking
-*Value-added by converting all "Departments" into PSFs/Professional Service
- Firms/Centers of Excellence with Astounding Value-Added
-*Sales I, II
-*Service EXCELLENCE
-*Creating INCREDIBLE Customer Experiences
-*Accounting I, II (Yes, the numbers are important.)
-*Accountability I, II
-*Calendar Mastery/Time Management
-*MBWA I, II [Managing By Wandering Around]
-*Nurturing and Harvesting Curiosity
-*Design-as-Strategy
-*Giving Great Presentations I, II
-*Active Strategic Listening I, II (III?)
-*Civility/"Thank you"-Recognition/Thoughtfulness/Decency/Respect/
- Apology-as-Strategy
-*Knowing Oneself
-*EXCELLENCE as Aspiration/EXCELLENCE as Standard for Behavioral
- Evaluation/EXCELLENCE Everywhere/EXCELLENCE All the Time.
-And, enumerated in The Little BIG Things, are a ton of contrarian electives as well. While I admit
-that the tongue is within range of cheek, the spirit encompassed by the above is deadly serious.
-As to practicalities, at least consider these sensibilities when you are designing your training
-curriculum.
-55
-TIME
+## LEARNING
 
-123. It Might Be Later Than You Think.
-A "couple of minutes" late is ... LATE.
-Five minutes late is ... LATE.
-One-point-three minutes late is ... LATE.
-LATE is ... LATE.
-PERIOD.
-(It matters.)
-(NB: A boss being late for a meeting with an employee is worse than an employee being late for a
-meeting with his/her boss,)
-124. Time Off for Smart Behavior. Hustle rules. But the very same times that call for speedspeed-speed also call for exceptional creativity, and that doesn't always match up with 90-hour
-workweeks—especially back-to-back-to-back 90-hour weeks. So, in the course of the day, week,
-year, figure out how to take a pause—even a 2-minute "right breathing" break, like I do—that
-refreshes.
-And take it.
-(This is of the utmost importance. Believe it.)
-125. Time Out for ... Daydreaming! Dov Frohman is a pioneer in the semiconductor industry.
-Among (many) other things, he started Intel Israel and was significantly responsible for the
-growth of Israel's potent high-tech sector. With Robert Howard, he presented us with a truly
-original book on leadership, Leadership the Hard Way: Why Leadership Can't Be Taught—and
-How You Can Learn It Anyway. In a chapter titled "The Soft Skills of Hard Leadership," Frohman
-astonishes as he insists that the leader-manager must free up no less than 50 percent of his-her
-time from routine tasks:
-"Most managers spend a great deal of time thinking about what they plan to do, but relatively
-little time thinking about what they plan not to do. ... As a result, they become so caught up in
-fighting the fires of the moment that they cannot really attend to the long-term threats and risks
-facing the organization. So the premier soft skill of leadership the hard way is to cultivate the
-perspective of Marcus Aurelius: avoid busyness, free up your time, stay focused on what really
-matters. Let me put it bluntly: every leader should routinely keep a substantial portion of his or
-her time—I would say as much as 50 percent—unscheduled. Only when you have substantial
-'slop' in your schedule—unscheduled time—will you have the space to reflect on what you are
-doing, learn from experience, and recover from your inevitable mistakes. Leaders without such
-free time end up tackling issues only when there is an immediate or visible problem. Managers'
-typical response to my argument about free time is, 'That's all well and good, but there are things
-I have to do.' Yet we waste so much time in unproductive activity—it takes an enormous effort on
-the part of the leader to keep free time for the truly important things."
-The chapter's second mind-ripping idea is labeled "The Discipline of Daydreaming": "Nearly
-every major decision of my business career was, to some degree, the result of daydreaming. ... To
-be sure, in every case I had to collect a lot of data, do detailed analysis, and make a data-based
-argument to convince superiors, colleagues and business partners. But that all came later. In the
-beginning, there was the daydream. By daydreaming, I mean loose, unstructured thinking with no 
-56
-particular goal in mind. ... In fact, I think daydreaming is a distinctive mode of cognition
-especially well suited to the complex, 'fuzzy' problems that characterize a more turbulent business
-environment. ... Daydreaming is an effective way of coping with complexity. When a problem has
-a high degree of complexity, the level of detail can be overwhelming. The more one focuses on the
-details, the more one risks being lost in them. ... Every child knows how to daydream. But many,
-perhaps most, lose the capacity as they grow up. ..."
-126. Master the Art of Milestoning. My latest trip from VT to MA (173.6 mi) got me
+- **Making the Grade: Lifelong Learning Is a Mission Statement Must**. 
+  - In our rapidly gyrating world, learning-for-life is no longer an option; it's a professional life (or death) necessity—as more and more are beginning to realize. This is true of you age 16 or 26 or 46 or 66—and God knows it's true of my great pal, The Little BIG Things' dedicatee, Warren Bennis, voracious in the depth and breadth of his quest for knowledge at 85!
+  - I'll go so far as to say that an explicit focus on "life-long learning" for everyone on board could well be the most sustainable advantage an organization of any flavor can have. Hence, I hereby strongly suggest that ... "An unstinting commitment by every one of us to accelerated lifelong learning" ... or some close kin be made a formal part of your mission-values statement. It deserves to be right up there in the stratosphere with the likes of superior quality and profitability.
+
+- **Out-Study 'Em!** 
+  - I loved this line from New York Times columnist Tom Friedman: "When I was growing up, my parents used to say to me: 'Finish your dinner—people in China are starving.' I, by contrast, find myself wanting to say to my daughters: 'Finish your homework— people in China and India are starving for your job.'" Tennis or finance or engineering or bartending ... this "simple" lesson bears repeating.
+  - Age 26: Study!
+  - Age 46: Study!
+  - Age 66 (me): Study!
+
+- **Out-Read 'Em!**
+  - Read!
+  - Read Wide!
+  - Surprise Yourself With Your Reading Picks!
+  - Read Deep!
+  - Read Often!
+  - Out-READ the "Competition"!
+  - Take Notes!
+  - Summarize!
+  - Share With Others What You Read!
+  - Read!
+  - Read!
+  - Read!
+
+- **Out-Write 'Em!** 
+  - Ulysses S. Grant was likely America's most effective general. He had many skills—and lucid writing, interestingly, ranked near the top. His orders to his generals before battles were masterpieces of clarity and brevity. Writing matters ... on the battlefield at Vicksburg as well as in the boardroom.
+  - So: Work your ass off … on your writing, from Tweets to emails to Blog Posts to letters to your Mum—each is an opportunity. (Re Tweets, I'm amazed at how much you can learn to pack in, with some clarity++, in 140 characters.)
+
+- **Now Enrolling: "The People's MBA."** 
+  - I have long been a vociferous critic of the MBA—such criticism was the de facto point of In Search of Excellence. Bob Waterman and I, though both engineers (Waterman in Mining, me in Civil) and both Stanford MBAs and both McKinsey consultants (the latter a Mecca of cold-blooded business analysis), lamented business's abiding emphasis on the numbers and its accompanying de facto and de jure de-emphasis of the so-called "soft" "people stuff." Now, with tongue only slightly in cheek, I hereby offer the core courses in my prospective MBA curriculum, without comment:
+    - *Managing People I, II, III
+    - *Servant Leadership I, II
+    - *Execution I, II, III
+    - *Creating a "Try it now" environment/Celebrating Failure
+    - *Maximizing R.O.I.R. (Return On Investment in Relationships)
+    - *Value-added through XFX/Cross-functional EXCELLENCE/"Sucking down,"
+    - the Art of "Lower"-level Networking
+    - *Value-added by converting all "Departments" into PSFs/Professional Service
+      - Firms/Centers of Excellence with Astounding Value-Added
+    - *Sales I, II
+    - *Service EXCELLENCE
+    - *Creating INCREDIBLE Customer Experiences
+    - *Accounting I, II (Yes, the numbers are important.)
+    - *Accountability I, II
+    - *Calendar Mastery/Time Management
+    - *MBWA I, II [Managing By Wandering Around]
+    - *Nurturing and Harvesting Curiosity
+    - *Design-as-Strategy
+    - *Giving Great Presentations I, II
+    - *Active Strategic Listening I, II (III?)
+    - *Civility/"Thank you"-Recognition/Thoughtfulness/Decency/Respect/
+    - Apology-as-Strategy
+    - *Knowing Oneself
+    - *EXCELLENCE as Aspiration/EXCELLENCE as Standard for Behavioral
+    - Evaluation/EXCELLENCE Everywhere/EXCELLENCE All the Time.
+  - And, enumerated in The Little BIG Things, are a ton of contrarian electives as well. While I admit that the tongue is within range of cheek, the spirit encompassed by the above is deadly serious. As to practicalities, at least consider these sensibilities when you are designing your training curriculum.
+
+## TIME
+
+- **It Might Be Later Than You Think**.
+  - A "couple of minutes" late is ... LATE.
+  - Five minutes late is ... LATE.
+  - One-point-three minutes late is ... LATE.
+  - LATE is ... LATE.
+  - PERIOD.
+  - (It matters.)
+  - (NB: A boss being late for a meeting with an employee is worse than an employee being late for a meeting with his/her boss,)
+
+- **Time Off for Smart Behavior**. Hustle rules. But the very same times that call for speedspeed-speed also call for exceptional creativity, and that doesn't always match up with 90-hour workweeks—especially back-to-back-to-back 90-hour weeks. So, in the course of the day, week, year, figure out how to take a pause—even a 2-minute "right breathing" break, like I do—that refreshes.
+  - And take it. (This is of the utmost importance. Believe it.)
+
+- **Time Out for ... Daydreaming!**
+  - "Most managers spend a great deal of time thinking about what they plan to do, but relatively little time thinking about what they plan not to do. ... As a result, they become so caught up in fighting the fires of the moment that they cannot really attend to the long-term threats and risks facing the organization. So the premier soft skill of leadership the hard way is to cultivate the perspective of Marcus Aurelius: avoid busyness, free up your time, stay focused on what really matters. Let me put it bluntly: every leader should routinely keep a substantial portion of his or her time—I would say as much as 50 percent—unscheduled. Only when you have substantial 'slop' in your schedule—unscheduled time—will you have the space to reflect on what you are doing, learn from experience, and recover from your inevitable mistakes. Leaders without such free time end up tackling issues only when there is an immediate or visible problem. Managers' typical response to my argument about free time is, 'That's all well and good, but there are things I have to do.' Yet we waste so much time in unproductive activity—it takes an enormous effort on the part of the leader to keep free time for the truly important things."
+  - The chapter's second mind-ripping idea is labeled "The Discipline of Daydreaming": "Nearly every major decision of my business career was, to some degree, the result of daydreaming. ... To be sure, in every case I had to collect a lot of data, do detailed analysis, and make a data-based argument to convince superiors, colleagues and business partners. But that all came later. In the beginning, there was the daydream. By daydreaming, I mean loose, unstructured thinking with no particular goal in mind. ... In fact, I think daydreaming is a distinctive mode of cognition especially well suited to the complex, 'fuzzy' problems that characterize a more turbulent business environment. ... Daydreaming is an effective way of coping with complexity. When a problem has a high degree of complexity, the level of detail can be overwhelming. The more one focuses on the details, the more one risks being lost in them. ... Every child knows how to daydream. But many, perhaps most, lose the capacity as they grow up. ..."
+1.   Master the Art of Milestoning. My latest trip from VT to MA (173.6 mi) got me
 thinking of something else besides pit stops. I was running late, and noting my progress via
 odometer and various landmarks and highway markers. As my mood went up and down I realized
 (re-realized?) the power of manageable goals in every form of activity:
@@ -1276,7 +1201,7 @@ the establishment and celebration thereof, can have an enormous impact on the en
 motivation of a team.
 DESIGN
 
-127. Design Is ... Everywhere!
+1.   Design Is ... Everywhere!
 "Everything is design."—from Richard Farson, The Power of Design: A Force for Transforming
 Everything
 "Design" means the string of gorgeous products from Apple or OXO or Herman Miller or John
@@ -1312,7 +1237,7 @@ about design, among other things:
 (11) "Design-mindfulness" or "EXCELLENCE in design" should (must!) be part
  of the organization's Core Values Statement.
 (12) Design per se should be directly and indirectly part of all training programs.
-128. Is It "Lickable"? Steve Jobs says that the definition of a superbly designed product is
+1.   Is It "Lickable"? Steve Jobs says that the definition of a superbly designed product is
 one you ... "want to lick." BMW advertised a new model car as ... Radically Thrilling.
 Economists agree that inducing people to re-open their wallets is a major part of the cure to the
 recession. And I claim it all boils down to the right kind of hammer. A hammer you ... want to
@@ -1333,7 +1258,7 @@ Functionality scores!
 Lickability and Radically Thrilling are the standards worth shooting for!
  (And ... there is more to design—and life—than iPods and iPhones!)
 58
-129. Design Sign: Can You Get There from Here? The closest I've come to being late to a
+1.   Design Sign: Can You Get There from Here? The closest I've come to being late to a
 speech was attributable to ... lousy directions. It was at a big convention center—it ran for blocks
 and blocks. The driver and I puzzled at the directions—and the client's cell phone was not
 receiving. I finally picked a place, got out, and started hunting. Literally 25 minutes later, fit to be
@@ -1347,7 +1272,7 @@ Simple!
 Engaging!
 Beautiful!
 And: Breathtaking! (Why not?)
-130. Love + Hate = Design Power. Design is all about ... emotion. Moreover, it's not about
+1.   Love + Hate = Design Power. Design is all about ... emotion. Moreover, it's not about
 "liking" something—or "disliking" it. Design's ... awesome power ... comes precisely from the
 fact that it is about unvarnished emotion, about ... LOVE. And ... HATE.
 I LOVE LOVE LOVE the simplicity of the controls on my Black & Decker coffeemaker. One
