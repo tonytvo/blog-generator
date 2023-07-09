@@ -1232,473 +1232,167 @@ classic Adventures in the Screen Trade (cited by Caltech physics professor and a
 
 ## GRUNGE
 
-1.   The Enemy Within—Or: There Is No Cost Higher Than the Cost of Rigidity. In his
-June 2, 2009, New York Times column, "The Quagmire Ahead," David Brooks begins his
-assessment of the GM fiasco by citing an internal memo written in ... 1988 ... by EVP Elmer
-Johnson: "We have vastly underestimated how deeply ingrained are the organizational and
-cultural rigidities that hamper our ability to execute."
-Business schools, the always helpful whipping boys in my rants, focus on the "cool" FMS troika.
-(Finance-Marketing-Strategy.) And yet it is the internal organizational "stuff," mostly MIA or
-very secondary in B.Schools (not sexy enough), that trip companies up. Not "bad strategy," but ...
-"rigidities" ... that impede the ability to ... "execute" or innovate in a timely fashion ... are the
-culprits behind shoddy performance in 9 out of 9.01 cases.
-Toyota didn't do in GM.
-Honda didn't do in GM.
-Nissan didn't do in GM.
-We have met the enemy.
-He is, indeed, us.
-1.   Become a Decentralization Dervish!
-Child rearing.
-Delegating.
-Organization structure.
-Governance in general.
-In many ways, the primary issue in all these cases boils down to the classic JeffersonianHamiltonian debate on centralization vs. decentralization. (I call the centralizationdecentralization debate ... "the all-important first 100 percent." That is, it's pretty much the whole
-ballgame!)
-True, you will never get "it"/the centralization-decentralization balance right (nation, child
-rearing, your 27-person unit). But ... I bet you (I guarantee!) that ... you will s-l-o-w-l-y get it
-wrong. That is, unless ... fanatically (right word) ... managed, there is an inexorable movement
-toward centralization. I call it ... ICD/ Inherent Centralist Drift. As an ordained Bishop in the
-High Church of Decentralization, I humbly suggest that creeping centralization, or ICD, is the
-cause of the lion's share of corporate collapses!
-Hence I suggest maintaining constant (every day!) vigilance so as to limit and in fact reverse the
-proliferation of originally-sound-procedures-collectively-become-bureaucratic-cancer. Effective
-rigidity-fighting should be an explicit part of everyone's evaluation. Every system should be "zer-
-61
-bsed" every couple of years. And, of course, you'll need to appoint Anti-ICD Police (please use
-the term) ... armed ... and dangerous ... and authorized/encouraged to Act.
-Start … today.
-1.   Play the ... Great Grunge Removal Game! Commerce Bank (now owned by Toronto
-Dominion) more or less revolutionized retail banking on the East Coast. For one thing, among
-ever so many, computer terminals in the branches have a ... red button ... on the keyboard. When
-you (teller) run into any self(bank)-created roadblock to serving the customer ... you push the red
-button. The impediment you discovered will be noted and formally addressed—and if action is
-taken, and it often is, you'll get a financial reward for having unearthed Grunge of any sort that
-gets between the customer and an excellent service experience.
-My point-suggestion here is that you invent your flavor of highly visible Red Buttons for your 3-
-person department, your 9-person temporary project team, your 17-table restaurant, or your 235-
-person division. That is, mimic Commerce Bank by creating formal processes for Identifying
-Grunge and Removing Grunge and getting everyone in on the ... Great Grunge Removal Game.
-Think of it at an even higher level of abstraction as a "Strategic" "Grunge Removal Culture," a
-full-blown philosophy supported by a formal infrastructure to try to keep the "inevitable grunge
-growth" in check or even reversed—and headed, of course, by the CGRO/Chief Grunge Removal
-Officer.
-Get on with this ... today!
-Grunge Grows ... 60/60/24/7/365.
-1.   The 1% Drill: Clearing Away a World of "Slop" in Just 45 Minutes. I co-presented
-an all-day in-company seminar in the UK several years ago. At about 2 p.m. the principal
-presenter called an abrupt halt to proceedings, and said, "I want to make sure I earn out my full
-fee today, and then some. We're going to stop and do a 45-minute exercise." He explained that
-any operation can at any time cut 1% of its budget. (We all have flab, regardless of
-circumstances—not many 6 percent BMIs around.) The leader then broke the group up by
-function. He gave the sub-groups 30 minutes on the dot to identify their team's 1 percent. Then he
-had each group report in public for 2 or 3 minutes—this public recitation, he told me, raised the
-odds of execution; it also provided others with ideas. Indeed the groups readily identified their 1
-percent and reported accordingly—there was actually no bitching.
-1%? No small thing, regardless of business size.
-1.   Goal: To Make "Common Sense" More Common. A lot of the giant financialeconomic mess we're in can be chalked up to a failure of common sense, often by the so-called
-best of the best and brightest of the bright, egging each other on with a series of implicit "I dare
-yous." We are all, in fact, "insiders" in our own worlds—and we all too often lose touch with
-reality to a lesser or greater extent. There are a host of things one can do to deal with this, but in
-this instance I only want to suggest routinely running proposals or budgets, or whatever, by a
-"Common Sense Ombudsman." Said ombudsman could be a spouse or a neighbor who owns a
-restaurant or the down-to-earth woman running the distribution center in South Podunk who you
-chatted with at the management meeting in Orlando last year. (It absolutely cannot be someone in
-your own unit—even a "contrarian" someone; even the so-called contrarian abides by 90 percent
-of "the way we do things around here.")
-62
-Presumably you've got three or four projects running as we speak. Call your friend Jack, who
-runs finance at the local Ford dealership. Offer him box seat tickets to next week's Royals game if
-he'll spend a couple of hours reviewing your project-planning docs in the next few days. Repeat
-this process—routinely! obsessively!—with different Jacks and Janes and Annes and Rogers. The
-price of the baseball or concert box seats will be trivial in comparison to value added and pratfalls
-avoided.
+- **Become a Decentralization Dervish!**
+  - Child rearing.
+  - Delegating.
+  - Organization structure.
+  - Governance in general.
+  - In many ways, the primary issue in all these cases boils down to the classic JeffersonianHamiltonian debate on centralization vs. decentralization. (I call the centralizationdecentralization debate ... "the all-important first 100 percent." That is, it's pretty much the whole ballgame!) True, you will never get "it"/the centralization-decentralization balance right (nation, child rearing, your 27-person unit). But ... I bet you (I guarantee!) that ... you will s-l-o-w-l-y get it
+  wrong. That is, unless ... fanatically (right word) ... managed, there is an inexorable movement toward centralization. I call it ... ICD/ Inherent Centralist Drift. As an ordained Bishop in the High Church of Decentralization, I humbly suggest that creeping centralization, or ICD, is the cause of the lion's share of corporate collapses!
+  - Hence I suggest maintaining constant (every day!) vigilance so as to limit and in fact reverse the proliferation of originally-sound-procedures-collectively-become-bureaucratic-cancer. Effective
+  rigidity-fighting should be an explicit part of everyone's evaluation. Every system should be "zer-bsed" every couple of years. And, of course, you'll need to appoint Anti-ICD Police (please use the term) ... armed ... and dangerous ... and authorized/encouraged to Act.
+  - Start … today.
+
+- **Play the ... Great Grunge Removal Game!**
+  - Commerce Bank (now owned by Toronto Dominion) more or less revolutionized retail banking on the East Coast. For one thing, among ever so many, computer terminals in the branches have a ... red button ... on the keyboard. When you (teller) run into any self(bank)-created roadblock to serving the customer ... you push the red button. The impediment you discovered will be noted and formally addressed—and if action is
+  taken, and it often is, you'll get a financial reward for having unearthed Grunge of any sort that gets between the customer and an excellent service experience.
+  - My point-suggestion here is that you invent your flavor of highly visible Red Buttons for your 3-person department, your 9-person temporary project team, your 17-table restaurant, or your 235- person division. That is, mimic Commerce Bank by creating formal processes for Identifying Grunge and Removing Grunge and getting everyone in on the ... Great Grunge Removal Game. Think of it at an even higher level of abstraction as a "Strategic" "Grunge Removal Culture," a full-blown philosophy supported by a formal infrastructure to try to keep the "inevitable grunge growth" in check or even reversed—and headed, of course, by the CGRO/Chief Grunge Removal Officer.
+
+- **The 1% Drill: Clearing Away a World of "Slop" in Just 45 Minutes.** 
+  - I co-presented an all-day in-company seminar in the UK several years ago. At about 2 p.m. the principal presenter called an abrupt halt to proceedings, and said, "I want to make sure I earn out my full fee today, and then some. We're going to stop and do a 45-minute exercise." He explained that any operation can at any time cut 1% of its budget. (We all have flab, regardless of circumstances—not many 6 percent BMIs around.) The leader then broke the group up by function. He gave the sub-groups 30 minutes on the dot to identify their team's 1 percent. Then he had each group report in public for 2 or 3 minutes—this public recitation, he told me, raised the odds of execution; it also provided others with ideas. Indeed the groups readily identified their 1 percent and reported accordingly—there was actually no bitching.
+  - 1%? No small thing, regardless of business size.
+
+- **Goal: To Make "Common Sense" More Common**.
+  - A lot of the giant financialeconomic mess we're in can be chalked up to a failure of common sense, often by the so-called best of the best and brightest of the bright, egging each other on with a series of implicit "I dare yous." We are all, in fact, "insiders" in our own worlds—and we all too often lose touch with reality to a lesser or greater extent. There are a host of things one can do to deal with this, but in this instance I only want to suggest routinely running proposals or budgets, or whatever, by a
+  "Common Sense Ombudsman." Said ombudsman could be a spouse or a neighbor who owns a restaurant or the down-to-earth woman running the distribution center in South Podunk who you chatted with at the management meeting in Orlando last year. (It absolutely cannot be someone in your own unit—even a "contrarian" someone; even the so-called contrarian abides by 90 percent of "the way we do things around here.")
+
+  - Presumably you've got three or four projects running as we speak. Call your friend Jack, who runs finance at the local Ford dealership. Offer him box seat tickets to next week's Royals game if he'll spend a couple of hours reviewing your project-planning docs in the next few days. Repeat this process—routinely! obsessively!—with different Jacks and Janes and Annes and Rogers. The price of the baseball or concert box seats will be trivial in comparison to value added and pratfalls
+  avoided.
 
 
-ENTERPRISE
+## ENTERPRISE
 
-140. An Organization Is "People Serving People." (Period!) A challenging trip to Siberia to
-give an all-day seminar got me thinking about the fundamentals of organizing and organizations.
-I surprised myself when the definition of "enterprise at its best" that follows emerged from my
-keyboard:
-An emotional, vital, innovative, joyful, creative, entrepreneurial endeavor that maximizes
-individuals' growth and elicits maximum concerted human potential in the wholehearted service
-of others.* (*Employees, Customers, Suppliers, Communities, Owners, Temporary Partners.)
-On the one hand, this definition is pretty high-stepping. Idealistic beyond the realm of common
-sense. But examine it ... one word at a time. Conjure up the word's opposite, and consider the
-possibilities:
-Do we want an emotionless organization—or an exciting one? (That's a practical enough
-question, eh?)
-Do we want a joyless organization—is joy "impractical" in the World of Work? (Since said world
-is where we spend the bulk of our conscious hours as adults, I'd hope the possibility of Joy is not
-pie-in-the-sky.)
-And so on.
-I have used this formulation 100 times now, literally in every corner of the globe, from Seattle to
-Shanghai to Riyadh to Estonia to Luanda. And to my delight, most of the people at my seminars
-sign up for the "Siberia option." Not "sign up" in the sense of taking a blood oath, but in the sense
-of agreeing that when you examine the words ... ONE AT A TIME ...and when you do conjure up
-the opposite of each word, you are likely to agree that while it is indeed a towering aspiration, it
-is not to be dismissed, either.
-Organizations exist to serve.
-The true bottom line: People serving people.
-If membership in your club (organization) is not aimed at "mind-blowing" development for each
-staff member and "window rattling" service for each customer and other extended family
-member, then ... just what the hell is the point?
-141. The PSF Mandate: "Work Worth Paying For." At the beginning of 2008, a
-BusinessWeek cover story reported that Schlumberger may well take over the world: "THE
-GIANT STALKING BIG OIL: How Schlumberger Is Rewriting the Rules of the Energy Game."
-In short, Schlumberger knows how to create and run oilfields on a turnkey basis. As China and
-Russia, among others, make their move in energy, state-run companies are eclipsing the major 
-63
-independents. Aiding these new players, at the center of the Schlumberger "empire," is a
-relatively new outfit, reminiscent of IBM's enormous Global Services unit (these days, Global
-Services = IBM) and UPS Logistics' teams, which run entire supply chains for enormous
-companies. The Schlumberger version is called IPM, for Integrated Project Management. It lives
-in a nondescript building near Gatwick Airport, and its chief says it will do "just about anything
-an oilfield owner would want, from drilling to production."
-As I see it, Schlumberger is transforming itself pell-mell into what may become the biggest and
-most powerful "PSF" (Professional Service Firm) in history. Moreover, paths like this, from IBM
-and UPS and Schlumberger, are open to many firms. Think Best Buy's "Geek Squads," the
-mobile service units that are Best Buy's competitive advantage in electronics retailing; or the
-"PSF" components of many giant GE "industrial" units, which produce well over 50 percent of
-the units' revenues; even the likes of MasterCard are getting into the act—MasterCard Advisors
-are running entire payment systems activities for some of their clients, penetrating ever more
-deeply into the heart of the Clients' operations.
-In view of all this, one of my "Top 5" Tom Rants is urging every "department" in an organization
-to re-conceive itself as a turnkey-service, de facto or de jure profit-making "PSF." And, likewise,
-I urge companies of all flavors to consider aiming to grow through "PSF-ing"—more or less
+- **An Organization Is "People Serving People." (Period!)**
+- *An emotional, vital, innovative, joyful, creative, entrepreneurial endeavor that maximizes individuals' growth and elicits maximum concerted human potential in the wholehearted service of others.* (*Employees, Customers, Suppliers, Communities, Owners, Temporary Partners.)*
+- On the one hand, this definition is pretty high-stepping. Idealistic beyond the realm of common sense. But examine it ... one word at a time. Conjure up the word's opposite, and consider the possibilities:
+- *Do we want an emotionless organization—or an exciting one? (That's a practical enough
+question, eh?)*
+- *Do we want a joyless organization—is joy "impractical" in the World of Work? (Since said world is where we spend the bulk of our conscious hours as adults, I'd hope the possibility of Joy is not pie-in-the-sky.)*
+- I have used this formulation 100 times now, literally in every corner of the globe, from Seattle to Shanghai to Riyadh to Estonia to Luanda. And to my delight, most of the people at my seminars sign up for the "Siberia option." Not "sign up" in the sense of taking a blood oath, but in the sense of agreeing that when you examine the words ... ONE AT A TIME ...and when you do conjure up the opposite of each word, you are likely to agree that while it is indeed a towering aspiration, it is not to be dismissed, either.
+- *Organizations exist to serve*.
+- The true bottom line: *People serving people*.
+- If membership in your club (organization) is not aimed at "mind-blowing" development for each staff member and "window rattling" service for each customer and other extended family member, then ... just what the hell is the point?
+
+- **The PSF Mandate: "Work Worth Paying For."**
+- At the beginning of 2008, a BusinessWeek cover story reported that Schlumberger may well take over the world: "THE GIANT STALKING BIG OIL: How Schlumberger Is Rewriting the Rules of the Energy Game." In short, Schlumberger knows how to create and run oilfields on a turnkey basis. As China and Russia, among others, make their move in energy, state-run companies are eclipsing the major independents. Aiding these new players, at the center of the Schlumberger "empire," is a relatively new outfit, reminiscent of IBM's enormous Global Services unit (these days, Global Services = IBM) and UPS Logistics' teams, which run entire supply chains for enormous companies. The Schlumberger version is called IPM, for Integrated Project Management. It lives
+in a nondescript building near Gatwick Airport, and its chief says it will do "just about anything an oilfield owner would want, from drilling to production."
+- As I see it, Schlumberger is transforming itself pell-mell into what may become the biggest and most powerful "PSF" (Professional Service Firm) in history. Moreover, paths like this, from IBM and UPS and Schlumberger, are open to many firms. Think Best Buy's "Geek Squads," the mobile service units that are Best Buy's competitive advantage in electronics retailing; or the "PSF" components of many giant GE "industrial" units, which produce well over 50 percent of the units' revenues; even the likes of MasterCard are getting into the act—MasterCard Advisors are running entire payment systems activities for some of their clients, penetrating ever more deeply into the heart of the Clients' operations.
+- In view of all this, one of my "Top 5" Tom Rants is urging every "department" in an organization to re-conceive itself as a turnkey-service, de facto or de jure profit-making "PSF." And, likewise, I urge companies of all flavors to consider aiming to grow through "PSF-ing"—more or less
 along the lines of the Schlumberger-IBM-UPS-GE-MasterCard transformations. In short, I
-believe the "Professional Service Firm Idea" is central to many firms', including or especially
-small ones, potential to differentiate themselves in today's and tomorrow's increasingly
-competitive environment. In particular, these "PSFs" can offer differentiated services limited only
-by their imagination—who would have thought that the "Geek Squads" would have led the way
-to re-positioning giant Best Buy?
-142. Don't Let the "Enemy" Rule Your Life.
-"Obsessing about your competitors, trying to match or best their offerings, spending time each
-day wanting to know what they are doing, and/or measuring your company against them—these
-activities have no great or winning outcome. Instead you are simply prohibiting your company
-from finding its own way to be truly meaningful to its Clients, staff and prospects. You block your
-company from finding its own identity and engaging with the people who pay the bills. ... Your
-competitors have never paid your bills and they never will."—Howard Mann, Your Business
-Brickyard: Getting Back to the Basics to Make Your Business More Fun to Run
-Mr. Mann in turn quotes Mike McCue, former VP/Technology at Netscape: "At Netscape the
-competition with Microsoft was so severe, we'd wake up in the morning thinking about how we
-were going to deal with them instead of how we would build something great for our customers.
-What I realize now is that you can never, ever take your eye off the customer. Even in the face of
-massive competition, don't think about the competition. Literally don't think about them."
-Don't let the "enemy" rule your life. Try your damnedest to follow the exact advice of Mr.
-McCue: "Literally don't think about them." Far, far easier said than done, no doubt, but selfawareness is a start:
-We ... are the problem.
-They are ... not ... the problem.
-We have one source only of Excellence: Us.
-64
-143. Love Your Competitors. At the top of my business priority list is a desire for my overall
-market to grow by leaps and bounds! Sure, as the number of people giving speeches and seminars
-and writing books and blogging and tweeting on similar topics has leapt, my "market share" has
-gone w-a-y down. (It was about 100 percent after In Search of Excellence, when I was more or
-less the only public "management guru.") But my revenue has soared in the process—the "smaller
-share of a much bigger pie" axiom.
-Moreover, I want (am desperate that) my competitors to do terrific work! If they do, the "guru"
-industry's stock as a whole, which is sometimes wobbly, will rise. In short, I want my competitors
-to thrive.
-Does all this suggest an altruistic streak? Perhaps. But mostly not. To begin with, I think that
-when one badmouths or attempts to diminish one's competitors in any way or tries to limit their
-activities, the "word gets around." And one develops a reputation as prickly and egocentric—and,
-well, as a selfish jerk.
-More important: I think (I know!) the only effective long-term defense against the competition
-(think Apple versus its stalwart competitors) is to do better and unique work—and to earn and to
-retain the custom of those who are interested in the things I worry about.
-"Win" with a remarkably better product.
-"Win" with deeper relationships.
-"Win" when your industry is prospering and has a good reputation.
-Build up your competitors!!
-Build up your entire industry!!
-SPECIAL SECTION: The Top 50 "Have-Yous"
-While waiting in the Albany airport to board a Southwest Airlines flight to Reagan one morning, I
-happened across the latest Harvard Business Review, on the cover of which was a bright yellow
-"lead article" sticker. On it were the words "Mapping your competitive position." It triggered a
-furious negative "Tom reaction," as my wife calls it. Of course I believe you should worry about
-your "competitive position." But instead of obsessing on competitive position and other
-abstractions, as the B.Schools and consultants would invariably have us do, I instead wondered
-about some "practical stuff," which I believe is far, far more important to the short- and longterm "strategic" health of the enterprise, tiny or enormous. Hence, rather than an emphasis on
-competitive maps or looking for a "blue ocean" (empty space, per the popular book Blue Ocean
-Strategy), I urge you to pay attention to my Top 50 "Have Yous." The underlying hypothesis, of
-course, is that if you proactively do the "small" stuff below, your "competitive position" will
-improve so much that mapping will become a secondary issue!
-1. Have you in the last 10 days … visited a customer?
-2. Have you called a customer … TODAY?
-3. Have you in the last 60-90 days … had a seminar in which several folks from the customer's
-operation (different levels, different functions) interacted, via facilitator, with various of your
-folks?
-4. Have you thanked a front-line employee for a small act of helpfulness … in the last three days?
-5. Have you thanked a front-line employee for a small act of helpfulness … in the
-last three hours?
-65
-6. Have you thanked a frontline employee for carrying around a great attitude … today?
-7. Have you in the last week recognized—publicly—one of your folks for a small act of crossfunctional co-operation?
-8. Have you in the last week recognized—publicly—one of "their" folks (another function) for a
-small act of cross-functional co-operation?
-9. Have you invited in the last month a leader of another function to your weekly team priorities
-meeting?
-10. Have you personally in the last week-month called-visited an internal or external customer to
-sort out, inquire, or apologize for some little or big thing that went awry?
-11. Have you in the last two days had a chat with someone (a couple of levels down?) about
-specific deadlines concerning a project's next steps?
-12. Have you in the last two days had a chat with someone (a couple of levels down?) about
-specific deadlines concerning a project's next steps … and what specifically you can do to remove
-a hurdle? ("Ninety percent of what we call management consists of making it difficult for people
-to get things done."—Peter Drucker.)
-13. Have you celebrated in the last week a "small" (or large!) milestone reached? (I.e., are you a
-milestone-celebration fanatic?)
-14. Have you in the last week or month revised some estimate in the "wrong" direction and
-apologized for making a lousy estimate? (Somehow you must publicly reward the telling/tellers
-of difficult truths.)
-15. Have you installed in your tenure a very comprehensive customer satisfaction scheme for all
-internal customers? (With major consequences for hitting or missing the mark.)
-16. Have you in the last six months had a week-long, visible, very intensive visit-"tour" of
-external customers?
-17. Have you in the last 60 days called an abrupt halt to a meeting and "ordered" everyone to get
-out of the office, and "into the field" and in the next eight hours, after asking those involved,
-fixed (f-i-x-e-d!) a nagging "small" problem through practical action?
-18. Have you in the last week had a rather thorough discussion of a "cool design thing" someone
-has come across—away from your industry or function—at a Web site, in a product or its
-packaging?
-19. Have you in the last two weeks had an informal meeting—at least an hour long—with a
-frontline employee to discuss "things we do right," "things we do wrong"—and what it would
-take to meet their mid- to long-term aspirations?
-20. Have you had in the last 60 days had a general meeting to discuss "things we do wrong" …
-that we can fix in the next fourteen days?
-21. Have you had in the last year a one-day, intense offsite with each of your internal
-customers—followed by a big celebration of "things gone right"?
-22. Have you in the last week pushed someone to do some family thing that you fear might be
-overwhelmed by deadline pressure?
-23. Have you learned the names of the children of everyone who reports to you? (If not, you have
-60 days to fix it.)
-24. Have you taken in the last month/2-weeks an interesting-weird outsider to lunch?
-25. Have you in the last month invited an interesting-weird outsider to sit in on an
-important meeting?
-26. Have you in the last three days discussed something interesting, beyond your industry, that
-you ran across in a meeting, reading, etc?
-27. Have you in the last 24 hours injected into a meeting "I ran across this interesting idea in
-[strange place]"?
-28. Have you in the last two weeks asked someone to report on something, anything, that
-constitutes an act of brilliant service rendered in a "trivial" situation—restaurant, car wash, etc?
-(And then discussed the relevance to your work.)
-66
-29. Have you in the last 30 days examined in detail (hour by hour) your calendar to evaluate the
-degree "time actually spent" mirrors your "espoused priorities"?
-30. Have you in the last two months had a presentation to the group by a "weird" outsider?
-31. Have you in the last two months had a presentation to the group by a customer, internal
-customer, vendor featuring "working folks" 3 or 4 levels down in the vendor organization?
-32. Have you in the last two months had a presentation to the group of a cool, beyond-ourindustry ideas by two of your folks?
-33. Have you at every meeting today (and forever more) re-directed the conversation to the
-practicalities of implementation concerning some issue before the group?
-34. Have you at every meeting today (and forever more) had an end-of-meeting discussion on
-"action items to be dealt with in the next 4, 48 hours"? (And then made this list public—and
-followed up in 48 hours.) And made sure everyone has at least one such item.)
-35. Have you had a discussion in the last six months about what it would take to get recognition
-in local-regional-national poll of "best places to work"?
-36. Have you in the last month approved a cool-different training course for one of your folks?
-37. Have you in the last month taught a front-line training course?
-38. Have you in the last week discussed the idea of Excellence? (What it means, how to get
-there.)
-39. Have you in the last week discussed the idea of "Wow"? (What it means, how to inject it into
-an ongoing "routine" project.)
-40. Have you in the last 45 days assessed some major process in terms of the details of the
-"experience," as well as results, it provides to its external or internal customers?
-41. Have you in the last month had one of your folks attend a meeting you were supposed to go to
-which gives them unusual exposure to senior folks?
-42. Have you in the last 60 (30?) days sat with a trusted friend or "coach" to discuss your
-"management style"—and its long- and short-term impact on the group?
-43. Have you in the last three days considered a professional relationship that was a little rocky
-and made a call to the person involved to discuss issues and smooth the waters? (Taking the
-"blame," fully deserved or not, for letting the thing-issue fester.)
-44. Have you in the last … two hours … stopped by someone's (two-levels "down") officeworkspace for 5 minutes to ask "What do you think?" about an issue that arose at a more or less
-just completed meeting? (And then stuck around for 10 or so minutes to listen while visibly
-taking notes.)
-45. Have you … in the last day … looked around you to assess whether the diversity pretty
-accurately maps the diversity of the market being served? (And …)
-46. Have you in the last day at some meeting gone out of your way to make sure that a normally
-reticent person was engaged in a conversation—and then thanked him or her, perhaps privately,
-for their contribution?
-47. Have you during your tenure instituted very public (visible) presentations of unit
-performance?
-48. Have you in the last four months had a session specifically aimed at checking on the
-"corporate culture" and the degree we are true to it—with all presentations by relatively junior
-folks, including front-line folks? (And with a determined effort to keep the conversation restricted
-to "real world" "small" cases—not theory.)
-49. Have you in the last six months talked about the Internal Brand Promise?
-50. Have you in the last year had a full-day off site to talk about individual (and group)
-aspirations?
-67
-RE-IMAGINING
+believe the "Professional Service Firm Idea" is central to many firms', including or especially small ones, potential to differentiate themselves in today's and tomorrow's increasingly competitive environment. In particular, these "PSFs" can offer differentiated services limited only by their imagination—who would have thought that the "Geek Squads" would have led the way to re-positioning giant Best Buy?
 
-144. Create a "Cathedral"! (If Not, What?) I was asked to keynote the first major
-conference, organized by the Australian Institute of Management, honoring the life's work of
-Peter Drucker. I felt an enormous responsibility—and allowed my imagination to soar on the
-topic of organizing fundamentals. I began with a barebones definition:
-Organizations should be ... no less than cathedrals in which the full and awesome power of the
-Imagination and Spirit and native Entrepreneurial flair of diverse individuals is unleashed in
-passionate pursuit of ... Excellence.
-"Cathedral/s" is a Big Word. My usage is not intended to be religious in any formal sense—hence
-the lowercase "c." But, in terms of human potential (quasi-religious?), I do see all effective
-organizations as driven ... first and foremost ... by an Unstinting Commitment to Members'
-Growth.
-A classroom in a primary school should ... obviously ... be such a "cathedral." But so, too, an
-accounting or training department. No doubt of it: Organizations must effectively serve their
-external customers to survive, let alone thrive. But my line-of-logic is, at least to me, crystal clear
-and admits no alternatives: The odds of the external customer being served effectively and in a
-way that binds them to your organization is a direct function of such service being provided by
-those [employees] who are themselves Engaged in a Vigorous Quest for Growth and Excellence.
-NB: This challenge—organization as cathedral devoted to human development—is simply
-gargantuan, and one I thought about a lot before issuing. And by now I've tested the idea all over
-the world—from Dubai to New Delhi to Helsinki to Joinville, Brazil, to San Antonio. In sit-down
-discussions there is agreement that "If not this, what?" is, in fact, a sane question—at least worthy
-of serious conversation. I am wholeheartedly convinced that something like this makes
-commercial sense. (And, I repeat, if not, what's the alternative?)
-145. Enable Dreams. (If Not, What?) Matthew Kelly's parable-based The Dream Manager is
-not ordinarily my kind of book. But Kelly's premise got to me—and it has become a centerpiece
-of my work. The idea is simple: Everyone has a dream! And if we can help him and her fulfill
-those dreams then he and she will be more engaged human beings—which will, practically
-speaking, pay off for the organization as it strives to serve its customers.
-Kelly writes: "A company's purpose is to become the-best-version-of-itself. But an organization
-can only become the-best-version-of-itself to the extent that the people who drive that
-organization are striving to become better-versions-of-themselves." When you ponder that, it is
-both obvious and profound: "We," the team, is only as good as the engagement of and
-commitment to personal growth and achievement and Excellence by each and every individual.
-(Obvious in football and dance—why not groceries and the accounting office?) "The question is,"
-Kelly continues, "What is an employee's purpose? Most would say, 'to help the company achieve
-its purpose'—but they would be wrong. [Ponder, slowly, again.] That is certainly part of the
-employee's role, but an employee's primary purpose is to become the-best-version-of-himself or
-herself." As stated, the book title is Dream Manager. In fact, Kelly asserts that explicitly helping
-people achieve their dreams—directly business-related or not—is a, or even the, primary task a
-boss has. The boss, to both serve her customer or get things done in general, becomes a "dream
-enabler"—e.g., works with the 28-year-old maintenance man from Ghana to achieve his dream of
-a junior college degree. To repeat the chain of logic: If that 28-year-old feels wholly supported in 
-68
-his personal-growth dream, odds of his aspiring to do and doing his maintenance-man job with
-Excellence are very high.
-So ... are you?
-That is, are you (explicitly) a "dream enabler"?
-Subsequent to the publication of The Little BIG Things, I translated the ideas of the last two
-items—cathedrals, dream-enabling—into what I call "The Manager's Oath":
-Our goal is to serve our customers brilliantly and profitably over the long haul.
-Serving our customers brilliantly and profitably over the long haul is a product of brilliantly
-serving over the long haul the people who serve the customer.
-Hence, our job as leaders—the alpha and the omega and everything in between—is abetting the
-sustained growth and success and engagement and enthusiasm and commitment to Excellence of
-those, one at a time, who directly or indirectly serve the ultimate customer.
-We—leaders of every stripe—are in the "Human Growth and Development and Success and
-Aspiration to Excellence" business.
-"We" [leaders-organization] only grow when "they" [each and every one of our colleagues] are
-growing.
-"We" [leaders-organization] only succeed when "they" [each and every one of our colleagues]
-are succeeding.
-"We" [leaders-organization] only energetically march toward Excellence when "they" [each and
-every one of our colleagues] are energetically marching toward Excellence.
-Period.
-146. Launch "Project Ray." I very rarely "dedicate" a presentation. But a while back I
-launched a presentation with a PowerPoint slide that read ... "For Ray." Susan and I had just
-watched the movie Ray on DVD. And, in short: Ray Charles is the embodiment of the Spirit of
-Re-imagining!
-Time and time again he chose to Invent & Go His Own Way, to spit in the face of the sure thing,
-the assured cash flow, the powerful advisors ... and instead march in the brand new musical
-direction his Spirit willed him to march. To be sure, the movie is an extraordinary story of
-overcoming adversity, from blindness to racism to drugs to fame itself. But for me it was, above
-all, a ... Matchless Tribute to the Power & Glory of Gutsy, Lonely Re-imaginings!
-Watch Ray. Consider starting a "Ray File" ... or a "Re-imaginings File." The "problem" is so easy
-to state. We're already scoring 12-hour days—and keeping up is a nightmare. There's no "extra
-time" for ... Project Ray! However (trust me on this one): Odds are high, very high, that if you
-could project forward 10 years, you'd wonder why the hell there was no ... Project Ray 2010.
-(Time flies.)
-(Believe it.)
-69
-WOW
-147. Realism? Not On My Watch! We recently finished a summer building project on our
-Vermont farm. We did our levelheaded best to budget it correctly—getting contractors to rework
-estimates and redesigning accordingly. All that said, it looks like the carefully considered $40,000
-project will come in at about $70,000. (Uhm, or so.)
-I decided to do a little casual research at a dinner party, asking several people about their
-homebrew projects. Three questions:
-(1) How did you do vs. budget for projects completed a couple of years ago?
-(2) If you'd known the real price tag when you started, would you have gone ahead?
-(3) In hindsight, was the eventual price tag worth it?
-To Q1, the answer ranged from about 5 percent over plan (if you can believe it—I'm skeptical) to
-5 times plan (which I do believe). As to Q2, four of the six I queried said "no way" would they
-have started if they'd known what they were getting into—the other two were on the fence.
-Concerning Q3, after-the-fact satisfaction, five said, in effect, "Yes! We'd do it again"—all five of
-those five "yups" were dogmatic. And one said "Maybe, maybe not."
-It's obviously dangerous to generalize from such a tiny sample and trivial topic, but my reading of
-history, business, and in general, says this phenomenon is as ordinary as it gets. Furthermore, in
-the back of one's mind, one damn well knows that the price tag will likely be far in excess of
-what's planned. And my point? Yes, you'd better have a superb number-crunching CFO, but if
-you let him-her rule the roost, there won't be much left to roost on. Of course I know it's
-"Damned if you do, damned if you don't." On the other hand ...
-Progress (ALL PROGRESS) clearly hinges on illusion and delusion!
-Cherish your dreamers!
-Master "dreamer nurturing."
-(And also have a top-drawer CFO.)
-148. If No WOW, Then ... No Go.
-Does "it" Pop?
-Does "it" Sparkle?"
-Does "it" make you Grin?
-Is "it" ... WOW?
-If "it" (grand or mundane) isn't WOW ... re-do it!
-Or don't do it!
-This is ... Your Day.
-Not "their" day.
-(I own no rose-colored glasses. Few 66-year-olds do. I have crappy days—and crappy months.
-But I am unable, in anything I do, to be satisfied with less than the aspiration of an 8 on the 1-to10 WOW-o-meter. That's as true for the brushcutting micro-project I do most every day in the
-summer on my Vermont farm as it is for the speeches-for-profit ... and this book. Why not
-WOW-as-"ordinary"-goal?)
-70
-149. What Makes You So Special?—Or: "Only" Beats "Best." I guarantee that any
-reader—from anywhere, in any business—can learn something from this book: Retail Superstars:
-Inside the 25 Best Independent Stores in America, by retail guru George Whalin. These are stores
-that, literally, give new meaning to the word "special"—and "Gaspworthy" & "WOW"! That
-personify one of my "Top 10 Favorite Quotes," from Jerry Garcia (The Grateful Dead): "You
-don't want to be merely the best of the best. You want to be the only ones who do what you do."
-We start, naturally (!), in Fairfield, Ohio, home to Jungle Jim's International Market. The
-adventure in "shoppertainment," as Jungle Jim's call it, begins in the parking lot and goes on to
-1,600 cheeses and, yes, 1,400 varieties of hot sauce—not to mention 12,000 wines priced from $8
-to $8,000 a bottle; all this is brought to you by 4,000 vendors from around the world. Like
-virtually all the stores in this book, customers flock to the doors from every corner of the globe.
-And on it goes from there …
-These stores demonstrate-prove so many things:
-You can create a worldwide attraction and thrive as an independent in the Age of the Big Box
-retailer!
-You can do anything!
-You can be from anywhere!
-You can make any-damn-thing ... bizarrely-amazingly-stupendously-special!
-Yes, regardless of your speciality or business unit, I will indeed … GUARANTEE … that you
-can learn from this book.
-150. Is It "Gaspworthy"? Will your plan for addressing today's "mundane" task make others
-"gasp" at its audacity? As an alumni of McKinsey and Co., I received an email from the firm in
-2004 about its response to the tsunami in Southeast Asia. I read it, nodded, and cast it aside. (But
-did not "delete" for some unknown reason.) I returned to it a few hours later—and was moved to
-send McKinsey's managing partner an email. I said that the response was "perfectly adequate,"
-but I added that business has a tawdry rep those/these days, and that McKinsey is viewed far and
-wide as the home of the premier Counselors to Global Top Management; so, I chided, I saw it as
-a missed opportunity in that McKinsey's response failed to ... "make me gasp by its audacity."
-Forget McKinsey. The Bigger Point is that in our "responses" to tragedy and opportunity alike,
-"good enough" is a tawdry way to pass through life. How about, instead, as aspiration, my
-cobbled-together term ... "gaspworthy"? So, does your response to today's principal "chore"
-qualify for a ... Medal of Certified Gaspworthiness?
-(Surely, you say, I live in the land of make believe. There's a lot of stuff that just needs doing—
-and need not produce a "gasp." I acknowledge that's apparently true, and indeed the default state
-of nature. Yet The Little BIG Things is mostly dedicated to the idea of little things that aren't in
-fact little at all—so-called "little things" that are in actual fact "gaspworthy.")
-151. Extremism in the Defense of WOW Is No Vice. Corporations are falling like dominoes.
-Chief executives are getting the axe at a record pace. Why? Incremental solutions in
-discontinuous times seldom if ever work. The axiom applies to a great enterprise and to a tiny
-two-person accountancy alike. And to me. And to you. Take a look at Tomorrow's Calendar.
-Today's, for that matter. Find and underscore something—anything—on that calendar that 
-71
-represents a small step towards something extreme. Something big. Something monumental.
-(And worry like hell if there's nothing!)
-Extremism in politics stinks.
-Extremism in business is a necessity.
-NOW
-152. Welcome to the Age of Metabolic Management. We all know the fabled race eventually
+- **Don't Let the "Enemy" Rule Your Life.**
+  - "Obsessing about your competitors, trying to match or best their offerings, spending time each day wanting to know what they are doing, and/or measuring your company against them—these activities have no great or winning outcome. Instead you are simply prohibiting your company from finding its own way to be truly meaningful to its Clients, staff and prospects. You block your company from finding its own identity and engaging with the people who pay the bills. ... Your competitors have never paid your bills and they never will."—Howard Mann, Your Business Brickyard: Getting Back to the Basics to Make Your Business More Fun to Run
+  - Mr. Mann in turn quotes Mike McCue, former VP/Technology at Netscape: "At Netscape the
+  competition with Microsoft was so severe, we'd wake up in the morning thinking about how we were going to deal with them instead of how we would build something great for our customers. What I realize now is that you can never, ever take your eye off the customer. Even in the face of massive competition, don't think about the competition. Literally don't think about them." Don't let the "enemy" rule your life. Try your damnedest to follow the exact advice of Mr. McCue: "Literally don't think about them." Far, far easier said than done, no doubt, but selfawareness is a start:
+  - We ... are the problem.
+  - They are ... not ... the problem.
+  - We have one source only of Excellence: Us.
+
+- **Love Your Competitors.** 
+  - At the top of my business priority list is a desire for my overall market to grow by leaps and bounds! Sure, as the number of people giving speeches and seminars and writing books and blogging and tweeting on similar topics has leapt, my "market share" has
+  gone w-a-y down. (It was about 100 percent after In Search of Excellence, when I was more or less the only public "management guru.") But my revenue has soared in the process—the "smaller share of a much bigger pie" axiom.
+  - Moreover, I want (am desperate that) my competitors to do terrific work! If they do, the "guru" industry's stock as a whole, which is sometimes wobbly, will rise. In short, I want my competitors to thrive.
+  - Does all this suggest an altruistic streak? Perhaps. But mostly not. To begin with, I think that when one badmouths or attempts to diminish one's competitors in any way or tries to limit their activities, the "word gets around." And one develops a reputation as prickly and egocentric—and, well, as a selfish jerk.
+  - More important: *I think (I know!) the only effective long-term defense against the competition (think Apple versus its stalwart competitors) is to do better and unique work—and to earn and to retain the custom of those who are interested in the things I worry about.*
+  - "Win" with a remarkably better product.
+  - "Win" with deeper relationships.
+  - "Win" when your industry is prospering and has a good reputation.
+  - Build up your competitors!!
+  - Build up your entire industry!!
+
+- **SPECIAL SECTION: The Top 50 "Have-Yous"**
+
+- *While waiting in the Albany airport to board a Southwest Airlines flight to Reagan one morning, I happened across the latest Harvard Business Review, on the cover of which was a bright yellow "lead article" sticker. On it were the words "Mapping your competitive position." It triggered a furious negative "Tom reaction," as my wife calls it. Of course I believe you should worry about your "competitive position." But instead of obsessing on competitive position and other abstractions, as the B.Schools and consultants would invariably have us do, I instead wondered about some "practical stuff," which I believe is far, far more important to the short- and longterm "strategic" health of the enterprise, tiny or enormous. Hence, rather than an emphasis on competitive maps or looking for a "blue ocean" (empty space, per the popular book Blue Ocean Strategy), I urge you to pay attention to my Top 50 "Have Yous." The underlying hypothesis, of course, is that if you proactively do the "small" stuff below, your "competitive position" will improve so much that mapping will become a secondary issue!*
+
+  - Have you in the last 10 days … visited a customer?
+  - Have you called a customer … TODAY?
+  - Have you in the last 60-90 days … had a seminar in which several folks from the customer's operation (different levels, different functions) interacted, via facilitator, with various of your folks?
+  - Have you thanked a front-line employee for a small act of helpfulness … in the last three days?
+  - Have you thanked a front-line employee for a small act of helpfulness … in the
+  - t three hours?
+  - Have you thanked a frontline employee for carrying around a great attitude … today?
+  - Have you in the last week recognized—publicly—one of your folks for a small act of crossfunctional co-operation?
+  - Have you in the last week recognized—publicly—one of "their" folks (another function) for a small act of cross-functional co-operation?
+  - Have you invited in the last month a leader of another function to your weekly team priorities meeting?
+  -  Have you personally in the last week-month called-visited an internal or external customer to sort out, inquire, or apologize for some little or big thing that went awry?
+  -  Have you in the last two days had a chat with someone (a couple of levels down?) about specific deadlines concerning a project's next steps?
+  -  Have you in the last two days had a chat with someone (a couple of levels down?) about specific deadlines concerning a project's next steps … and what specifically you can do to remove a hurdle? ("Ninety percent of what we call management consists of making it difficult for people to get things done."—Peter Drucker.)
+  -  Have you celebrated in the last week a "small" (or large!) milestone reached? (I.e., are you a milestone-celebration fanatic?)
+  -  Have you in the last week or month revised some estimate in the "wrong" direction and
+  - logized for making a lousy estimate? (Somehow you must publicly reward the telling/tellers of difficult truths.)
+  -  Have you installed in your tenure a very comprehensive customer satisfaction scheme for all internal customers? (With major consequences for hitting or missing the mark.)
+  -  Have you in the last six months had a week-long, visible, very intensive visit-"tour" of external customers?
+  -  Have you in the last 60 days called an abrupt halt to a meeting and "ordered" everyone to get out of the office, and "into the field" and in the next eight hours, after asking those involved, fixed (f-i-x-e-d!) a nagging "small" problem through practical action?
+  -  Have you in the last week had a rather thorough discussion of a "cool design thing" someone has come across—away from your industry or function—at a Web site, in a product or its packaging?
+  -  Have you in the last two weeks had an informal meeting—at least an hour long—with a
+  - ntline employee to discuss "things we do right," "things we do wrong"—and what it would take to meet their mid- to long-term aspirations?
+  -  Have you had in the last 60 days had a general meeting to discuss "things we do wrong" … that we can fix in the next fourteen days?
+  -  Have you had in the last year a one-day, intense offsite with each of your internal
+  - tomers—followed by a big celebration of "things gone right"?
+  -  Have you in the last week pushed someone to do some family thing that you fear might be overwhelmed by deadline pressure?
+  -  Have you learned the names of the children of everyone who reports to you? (If not, you have 60 days to fix it.)
+  -  Have you taken in the last month/2-weeks an interesting-weird outsider to lunch?
+  -  Have you in the last month invited an interesting-weird outsider to sit in on an
+  - ortant meeting?
+  -  Have you in the last three days discussed something interesting, beyond your industry, that you ran across in a meeting, reading, etc?
+  -  Have you in the last 24 hours injected into a meeting "I ran across this interesting idea in [strange place]"?
+  -  Have you in the last two weeks asked someone to report on something, anything, that
+  - stitutes an act of brilliant service rendered in a "trivial" situation—restaurant, car wash, etc? (And then discussed the relevance to your work.)
+  -  Have you in the last 30 days examined in detail (hour by hour) your calendar to evaluate the
+  - ree "time actually spent" mirrors your "espoused priorities"?
+  -  Have you in the last two months had a presentation to the group by a "weird" outsider?
+  -  Have you in the last two months had a presentation to the group by a customer, internal customer, vendor featuring "working folks" 3 or 4 levels down in the vendor organization?
+  -  Have you in the last two months had a presentation to the group of a cool, beyond-ourindustry ideas by two of your folks?
+  -  Have you at every meeting today (and forever more) re-directed the conversation to the practicalities of implementation concerning some issue before the group?
+  -  Have you at every meeting today (and forever more) had an end-of-meeting discussion on "action items to be dealt with in the next 4, 48 hours"? (And then made this list public—and followed up in 48 hours.) And made sure everyone has at least one such item.)
+  -  Have you had a discussion in the last six months about what it would take to get recognition in local-regional-national poll of "best places to work"?
+  -  Have you in the last month approved a cool-different training course for one of your folks?
+  -  Have you in the last month taught a front-line training course?
+  -  Have you in the last week discussed the idea of Excellence? (What it means, how to get there.)
+  -  Have you in the last week discussed the idea of "Wow"? (What it means, how to inject it into an ongoing "routine" project.)
+  -  Have you in the last 45 days assessed some major process in terms of the details of the "experience," as well as results, it provides to its external or internal customers?
+  -  Have you in the last month had one of your folks attend a meeting you were supposed to go to which gives them unusual exposure to senior folks?
+  -  Have you in the last 60 (30?) days sat with a trusted friend or "coach" to discuss your "management style"—and its long- and short-term impact on the group?
+  -  Have you in the last three days considered a professional relationship that was a little rocky and made a call to the person involved to discuss issues and smooth the waters? (Taking the "blame," fully deserved or not, for letting the thing-issue fester.)
+  -  Have you in the last … two hours … stopped by someone's (two-levels "down") officeworkspace for 5 minutes to ask "What do you think?" about an issue that arose at a more or less just completed meeting? (And then stuck around for 10 or so minutes to listen while visibly taking notes.)
+  -  Have you … in the last day … looked around you to assess whether the diversity pretty
+  - urately maps the diversity of the market being served? (And …)
+  -  Have you in the last day at some meeting gone out of your way to make sure that a normally reticent person was engaged in a conversation—and then thanked him or her, perhaps privately, for their contribution?
+  -  Have you during your tenure instituted very public (visible) presentations of unit
+  - formance?
+  -  Have you in the last four months had a session specifically aimed at checking on the
+  - rporate culture" and the degree we are true to it—with all presentations by relatively junior folks, including front-line folks? (And with a determined effort to keep the conversation restricted to "real world" "small" cases—not theory.)
+  -  Have you in the last six months talked about the Internal Brand Promise?
+  -  Have you in the last year had a full-day off site to talk about individual (and group) aspirations?
+  
+## RE-IMAGINING
+
+- **Create a "Cathedral"! (If Not, What?)**
+  - *Organizations should be ... no less than cathedrals in which the full and awesome power of the Imagination and Spirit and native Entrepreneurial flair of diverse individuals is unleashed in passionate pursuit of ... Excellence.*
+  - "Cathedral/s" is a Big Word. My usage is not intended to be religious in any formal sense—hence the lowercase "c." But, in terms of human potential (quasi-religious?), I do see all effective organizations as driven ... first and foremost ... by an Unstinting Commitment to Members' Growth.
+  - A classroom in a primary school should ... obviously ... be such a "cathedral." But so, too, an accounting or training department. No doubt of it: Organizations must effectively serve their external customers to survive, let alone thrive. But my line-of-logic is, at least to me, crystal clear and admits no alternatives: *The odds of the external customer being served effectively and in a way that binds them to your organization is a direct function of such service being provided by those [employees] who are themselves Engaged in a Vigorous Quest for Growth and Excellence.*
+  - NB: This challenge—organization as cathedral devoted to human development—is simply
+  gargantuan, and one I thought about a lot before issuing. And by now I've tested the idea all over the world—from Dubai to New Delhi to Helsinki to Joinville, Brazil, to San Antonio. In sit-down discussions there is agreement that "If not this, what?" is, in fact, a sane question—at least worthy of serious conversation. I am wholeheartedly convinced that something like this makes commercial sense. (And, I repeat, if not, what's the alternative?)
+
+- **Enable Dreams. (If Not, What?)**
+- Matthew Kelly's parable-based The Dream Manager is not ordinarily my kind of book. But Kelly's premise got to me—and it has become a centerpiece of my work. The idea is simple: *Everyone has a dream!* And if we can help him and her fulfill those dreams then he and she will be more engaged human beings—which will, practically speaking, pay off for the organization as it strives to serve its customers.
+- Kelly writes: *"A company's purpose is to become the-best-version-of-itself. But an organization can only become the-best-version-of-itself to the extent that the people who drive that organization are striving to become better-versions-of-themselves."* When you ponder that, it is both obvious and profound: "We," the team, is only as good as the engagement of and commitment to personal growth and achievement and Excellence by each and every individual. (Obvious in football and dance—why not groceries and the accounting office?) "The question is," Kelly continues, *"What is an employee's purpose? Most would say, 'to help the company achieve its purpose'—but they would be wrong. [Ponder, slowly, again.] That is certainly part of the employee's role, but an employee's primary purpose is to become the-best-version-of-himself or herself."* As stated, the book title is Dream Manager. In fact, Kelly asserts that explicitly helping
+people achieve their dreams—directly business-related or not—is a, or even the, primary task a boss has. The boss, to both serve her customer or get things done in general, becomes a "dream enabler"—e.g., works with the 28-year-old maintenance man from Ghana to achieve his dream of a junior college degree. To repeat the chain of logic: If that 28-year-old feels wholly supported in  his personal-growth dream, odds of his aspiring to do and doing his maintenance-man job with Excellence are very high.
+- So ... are you?
+- That is, are you (explicitly) a "dream enabler"?
+- Subsequent to the publication of The Little BIG Things, I translated the ideas of the last two items—cathedrals, dream-enabling—into what I call "The Manager's Oath":
+
+  - *Our goal is to serve our customers brilliantly and profitably over the long haul.*
+  - *Serving our customers brilliantly and profitably over the long haul is a product of brilliantly serving over the long haul the people who serve the customer.*
+  - *Hence, our job as leaders—the alpha and the omega and everything in between—is abetting the sustained growth and success and engagement and enthusiasm and commitment to Excellence of those, one at a time, who directly or indirectly serve the ultimate customer.*
+  - *We—leaders of every stripe—are in the "Human Growth and Development and Success and Aspiration to Excellence" business.*
+  - *"We" [leaders-organization] only grow when "they" [each and every one of our colleagues] are growing.*
+  - *"We" [leaders-organization] only succeed when "they" [each and every one of our colleagues] are succeeding.*
+  - *"We" [leaders-organization] only energetically march toward Excellence when "they" [each and every one of our colleagues] are energetically marching toward Excellence.*
+
+## NOW
+1.   Welcome to the Age of Metabolic Management. We all know the fabled race eventually
 goes to the Tortoise. Well, times change. Google-speed or Alibaba-speed is the new limit (until
 the record is broken, which it will be soon enough), and we are now officially living in the Age of
 the Hare. As Larry Light, McDonald's Global Chief Marketing Officer, put it in Advertising Age:
@@ -1717,7 +1411,7 @@ reduction in the time it takes to do X or Y or Z. (Bold targets inspire—and ar
 possible on the speed front. In fact, I suggest something like never accepting a "speed up"
 suggestion of less than 50%.)
 Etc. …
-153. Walls of "Yesterday." Walls of "Tomorrow."
+1.   Walls of "Yesterday." Walls of "Tomorrow."
 What do your walls look like?
 Do they look like "yesterday"?
 Or do they look like "tomorrow"?
@@ -1730,7 +1424,7 @@ in the last 30 days. Etc. Etc.
 in general. He felt the product line he inherited was un-scintillating, and wanted the affect of the
 place to reflect work in progress, not icons of yesteryear.)
 72
-154. Pissing Away Your Life: Like It or Not, Work Is Life! Some say I use words like
+1.   Pissing Away Your Life: Like It or Not, Work Is Life! Some say I use words like
 "Wow" too much. "You damn well can't," they say, "turn every 'day at the office' into some
 'Adventure in EXCELLENCE.'"
 Well, "they" have a point—to a point.
@@ -1745,7 +1439,7 @@ to 9.25 hours.
 Which is to say, you are spending, Monday through Friday, about 9.75/15ths ... or roughly twothirds ... of your usable hours at work. Which in turn means ... If you piss away your work time,
 you're pissing away well over half your "conscious" "life."
 IMPACT
-155. Forget Longevity—Think "Dramatic Frenzy." I occasionally speed-walk while
+1.   Forget Longevity—Think "Dramatic Frenzy." I occasionally speed-walk while
 listening to one or another of the Reverend Martin Luther King Jr.'s speeches. One of the most
 extraordinary took place in Memphis, immediately before Dr. King was assassinated. In it, he
 anticipates the tragic event:
@@ -1776,7 +1470,7 @@ Silicon Valley, is a series of such explosions—many, many duds and a few, like
 Netscape or Google, that change the world. "Long-term" success? If I thought of myself as
 choosing, in the early '90s, a working future based on retrospective knowledge, I'd put in the
 years of, say, 1994–1998 at Netscape over any damned alternate you can name!
-156. How About Replacing Your "Wish It Were" List with a "Do It Now" List?
+1.   How About Replacing Your "Wish It Were" List with a "Do It Now" List?
 "I can't wait until Spring."
 "I can't wait until Football season!"
 "I can't wait until I've finished preparing this damn presentation."
@@ -1797,61 +1491,61 @@ inherently sustainable.
 1. "Thank you." Minimum several times a day. Measure it.
 2. "Thank you" to everyone even peripherally involved in some activity—especially
  those "deep in the hierarchy."
-3. Smile. Work on it.
-4. Apologize. Even if "they" are "mostly" to blame.
-5. Jump all over (eventually release) those who play the "blame game."
-6. Hire enthusiasm.
-7. Low enthusiasm. No hire. Any job.
-8. Hire optimists. Everywhere. ("Positive outlook on life," not mindless optimism.)
-9. Hiring: Would you like to go to lunch with him-her? 100% of jobs.
-10. Hire for good manners.
-11. Do not reject "trouble makers"—that is, those who are uncomfortable with the status
+1. Smile. Work on it.
+2. Apologize. Even if "they" are "mostly" to blame.
+3. Jump all over (eventually release) those who play the "blame game."
+4. Hire enthusiasm.
+5. Low enthusiasm. No hire. Any job.
+6. Hire optimists. Everywhere. ("Positive outlook on life," not mindless optimism.)
+7. Hiring: Would you like to go to lunch with him-her? 100% of jobs.
+8.  Hire for good manners.
+9.  Do not reject "trouble makers"—that is, those who are uncomfortable with the status
  quo. (Source of … ALL … innovation.)
-12. Hire for demonstrated resilience.
-13. Overwhelming/dis-proportionate response to even the smallest screwups.
-14. Become a student of all you will meet with. Big time.
-15. Hang out with interesting new people. Measure it. (You = Those you hang out with.)
+1.  Hire for demonstrated resilience.
+2.  Overwhelming/dis-proportionate response to even the smallest screwups.
+3.  Become a student of all you will meet with. Big time.
+4.  Hang out with interesting new people. Measure it. (You = Those you hang out with.)
 74
-16. Lunch with folks in other functions. Measure it. (220 opportunities/year.)
-17. Listen. Hear. Become a serious "professional"/student of listening-hearing.
-18. Work on everyone's listening skills. Practice.
-19. Become a student of information extraction-interviewing.
-20. Become a professional/student of presentation giving.
-21. Incredible care in 1st line supervisor selection and development. Measure it.
-22. World's best training for 1st line supervisors.
-23. Construct small leadership opportunities for junior people within days of starting on
+1.  Lunch with folks in other functions. Measure it. (220 opportunities/year.)
+2.  Listen. Hear. Become a serious "professional"/student of listening-hearing.
+3.  Work on everyone's listening skills. Practice.
+4.  Become a student of information extraction-interviewing.
+5.  Become a professional/student of presentation giving.
+6.  Incredible care in 1st line supervisor selection and development. Measure it.
+7.  World's best training for 1st line supervisors.
+8.  Construct small leadership opportunities for junior people within days of starting on
  the job.
-24. Insane care in all promotion decisions.
-25. Promote "people people" for all managerial jobs. Finance-logistics-R&D as much as,
+1.  Insane care in all promotion decisions.
+2.  Promote "people people" for all managerial jobs. Finance-logistics-R&D as much as,
  say, sales.
-26. Hire-promote for demonstrated curiosity. Check their past commitment to continuous
+1.  Hire-promote for demonstrated curiosity. Check their past commitment to continuous
  learning.
-27. Small "d" diversity. Rich mixes for any and all teams.
-28. Hire women. Roughly 50% women on exec team. (Or more, depending on market.)
-29. Exec team "looks like" customer population, actual and desired.
-30. Focus on creating products for and selling to women.
-31. Focus on creating products for and selling to boomers-geezers.
-32. Work on first and last impressions. (100% contacts = "WOW" experiences.)
-33. Walls display tomorrow's aspirations, not yesterday's accomplishments.
-34. Simplify systems. Constantly. (Not "systems," but "beautiful systems"!)
-35. Insist that almost all material be covered by a 1-page summary. Absolutely no longer.
-36. Practice decency.
-37. Add "We are thoughtful in all we do" to corporate values list—#1 force for
+1.  Small "d" diversity. Rich mixes for any and all teams.
+2.  Hire women. Roughly 50% women on exec team. (Or more, depending on market.)
+3.  Exec team "looks like" customer population, actual and desired.
+4.  Focus on creating products for and selling to women.
+5.  Focus on creating products for and selling to boomers-geezers.
+6.  Work on first and last impressions. (100% contacts = "WOW" experiences.)
+7.  Walls display tomorrow's aspirations, not yesterday's accomplishments.
+8.  Simplify systems. Constantly. (Not "systems," but "beautiful systems"!)
+9.  Insist that almost all material be covered by a 1-page summary. Absolutely no longer.
+10. Practice decency.
+11. Add "We are thoughtful in all we do" to corporate values list—#1 force for
  customer loyalty, employee satisfaction.
-38. Make headlong employee growth (for all) a formal part of values set. Above
+1.  Make headlong employee growth (for all) a formal part of values set. Above
  customer satisfaction. Steal from RE/MAX: "We are a life success company."
-39. Flowers.
-40. Celebrate "small wins." Often. Perhaps a "small win of the day."
-41. Manage your calendar religiously: Does it accurately reflect your espoused priorities?
+1.  Flowers.
+2.  Celebrate "small wins." Often. Perhaps a "small win of the day."
+3.  Manage your calendar religiously: Does it accurately reflect your espoused priorities?
  Use a "calendar friend" who's not very friendly to help you with this.
-42. Review your calendar: Work assiduously and mercilessly on your "To don'ts."
-43. Bosses: Formally cultivate one advisor whose role is to tell you the truth.
-44. Commit to Excellence.
-45. Talk up Excellence.
-46. Put "Excellence in all we do" in the values set.
-47. Measure everyone on demonstrated commitment to Excellence.
+1.  Review your calendar: Work assiduously and mercilessly on your "To don'ts."
+2.  Bosses: Formally cultivate one advisor whose role is to tell you the truth.
+3.  Commit to Excellence.
+4.  Talk up Excellence.
+5.  Put "Excellence in all we do" in the values set.
+6.  Measure everyone on demonstrated commitment to Excellence.
 SUCCESS
-157. The "3H Model" of Success.
+1.   The "3H Model" of Success.
 The 3H's:
 Howard.
 Hilton.
@@ -1882,7 +1576,7 @@ Bottom line from the 3Hs:
 (2) Sweat the details! (Hilton)
 (3) People first! (Herb)
 Pretty close to an "all you need to know" recitation.
-158. A 5-Word, 5-Point "Complete" "Excellence Manifesto." Here goes, my "summary of
+1.   A 5-Word, 5-Point "Complete" "Excellence Manifesto." Here goes, my "summary of
 everything" ... in five words:
 Cause.
 Space.
@@ -1902,46 +1596,46 @@ Excellence: Our ultimate aim is always ... Excellence. Nothing less. In our trea
 another. In the products and services we develop. In our relationships with customers-vendorscommunity.
 "How are you doing" I: How are you doing on each point in general?
 "How are you doing" II: How have you done on each of the five ... TODAY?
-159. The Full Nelson—Or: 13 Lessons on "Navigating" Excellence. Lord Horatio Nelson,
+1.   The Full Nelson—Or: 13 Lessons on "Navigating" Excellence. Lord Horatio Nelson,
 an old Navy man and avid student of naval history, to me epitomizes Excellence. And, near the
 200th anniversary of his singular victory at Trafalgar, I happened upon a new biography (I've
 probably ingested a dozen over the years), Andrew Lambert's Nelson: Britannia's God of War.
 From it, I extracted 13 lessons that I contend are mostly applicable to you and me:
 1. Simple scheme. Nelson's orders of battle were paragons of simplicity and clarity—he was a
 damn good writer among other things. (Doable for you or me? Yes.)
-2. Soaring/Bold/Noble Purpose! Nelson pursued total victory. Many of his peers were willing,
+1. Soaring/Bold/Noble Purpose! Nelson pursued total victory. Many of his peers were willing,
 essentially, to rate surviving as victory enough. (Doable for you or me? Yes.)
-3. Engage others. Nelson made his captains full partners in the process as he devised plans—
+1. Engage others. Nelson made his captains full partners in the process as he devised plans—
 unheard of in those days. (Doable for you or me? Yes.)
-4. Find great talent, at any age, let it soar! Nelson gave his best captains, young or old, far more
+1. Find great talent, at any age, let it soar! Nelson gave his best captains, young or old, far more
 leeway than his counterpart admirals—and he eschewed seniority as primary measure of assigned
 responsibility. (Doable for you or me? Yes.)
-5. Lead by Love! The sailors, every biographer agrees, loved Nelson, and he them. (Last clause in
+1. Lead by Love! The sailors, every biographer agrees, loved Nelson, and he them. (Last clause in
 the sentence is crucial.) His concern for their well-being, regardless of the rough nature of the
 sailor's life in those days, was legendary. (Doable for you or me? Yes.)
-6. Seize the Moment! Nelson's sixth sense about enemy weakness was remarkable. He would skip
+1. Seize the Moment! Nelson's sixth sense about enemy weakness was remarkable. He would skip
 to "Plan B" in a flash if merited by changing circumstances. (Doable for you or me? Yes. More or
 less—"good instincts" are the indirect product of insanely hard work.)
-7. Vigor! His energy was palpable! (Doable for you or me? Yes. Mostly. Low energy folks aren't
+1. Vigor! His energy was palpable! (Doable for you or me? Yes. Mostly. Low energy folks aren't
 picks for leadership positions—or any other positions, for that matter.)
-8. Master your craft. Nelson was the best damn sailor in the Navy—sailors and officers
+1. Master your craft. Nelson was the best damn sailor in the Navy—sailors and officers
 appreciated that beyond measure. (Doable for you or me? Yes. Damn it. We are not all created
 equal—but often "the best" is not the one who tops the charts on raw talent.)
-9. Work harder-harder-harder than the next person. No explanation needed. (Doable for you or
+1. Work harder-harder-harder than the next person. No explanation needed. (Doable for you or
 me? Yes.)
-10. Show the way, walk the talk, exude confidence! Start a Passion Epidemic! Nelson led from
+1.  Show the way, walk the talk, exude confidence! Start a Passion Epidemic! Nelson led from
 the front—visible, in full dress uniform as the cannons roared. (Doable for you or me? Yes.)
-11. Change the rules: Create your own game! Nelson always took the initiative—thus forcing
+1.  Change the rules: Create your own game! Nelson always took the initiative—thus forcing
 rivals, from the beginning and throughout maneuvering at battle, to be in a full-time reactive
 mode. (Doable for you or me? Yes.)
-12. Luck! Believe it! Always necessary! Not "desirable"—but necessary. (Doable for you or me?
+1.  Luck! Believe it! Always necessary! Not "desirable"—but necessary. (Doable for you or me?
 Anybody can get lucky—and preparedness ups the odds of getting lucky. But, truthfully, lucky is
 lucky.)
-13. Be determined to come out on top, come hell or/and high water! Lambert:
+1.  Be determined to come out on top, come hell or/and high water! Lambert:
 "Other Admirals were more frightened of losing than anxious to win." This last is a big deal—it
 belongs as either #1 or #13. (Doable for you or me? Yes.)
 77
-160. A Cheat Sheet for Tough Times. (and Other Times, Too.) Amid all of the advice "out
+1.   A Cheat Sheet for Tough Times. (and Other Times, Too.) Amid all of the advice "out
 there" on dealing with difficult circumstances, how do you ... boil it all down? Some thoughts:
 (1) Be conscious in the Zen sense. Carefully consider, far more than you normally might,
 how you project: Does your "energetic" approach, for example, look more like panic? Is
@@ -1964,7 +1658,7 @@ physical sharpness is insanely important to mental evenness.
 (9) Underscore "EXCELLENCE in every transaction"! (Now, more than ever!)
 "BIG"
 
-161. Retirement Sucks. My college fraternity brothers have a wonderful ritual: an annual
+1.   Retirement Sucks. My college fraternity brothers have a wonderful ritual: an annual
 newsletter that we all contribute to. A few years back (I was 62 at the time), I vented about the
 topic of "retirement": "You've all doubtless heard the Churchill yarn. The old man was transiting
 the Atlantic by ship. An aide made a mental calculation and turned to WSC, 'Sir Winston, I've
@@ -1977,7 +1671,7 @@ take part in the Universal Dialogue about the Meaning of Work & Life & National 
 "PUT SIMPLY, 'RETIREMENT' TO ME MEANS BEING DRAGGED OFF A STAGE AND
 SLIPPED INTO A SIMPLE PINE BOX INSCRIBED WITH THESE WORDS: 'HE GAVE A
 SHIT.'"
-162. Think Legacy!
+1.   Think Legacy!
 
 "My life is my message."—Gandhi
 LEGACY!
