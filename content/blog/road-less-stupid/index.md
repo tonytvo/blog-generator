@@ -909,7 +909,63 @@ I don't see the problem or the need to shift strategies?
 
 # THE APOLOGY
 
-.If the culture in your business is to change, then it will start with you apologizing to your employees.
+- If the culture in your business is to change, then it will start with you apologizing to your employees.
+
+```
+I owe you an apology. I did not do my job. I have allowed my lack of courage and desire to keep the peace to get in the way of being a leader. I tolerated the status quo and mediocrity because I didn't want to have the hard conversations. I mistakenly believed it was more important to keep the peace than to have the courage required to lead.
+I admire and respect you, but I have let my admiration for you cloud my
+judgment and my willingness to say what needs to be said. Candidly, I have probably functioned in a friend and peer role and not in an Owner and leader role. I elevated being liked over being successful. I have been more in love with the tranquility than I have with our outcomes.
+One of the transitions all successful businesses must navigate is from mom- and-pop free-for-all (let's all pitch in and get it done) to a more professional, disciplined management kind of structure. I made the mistake of giving people big titles and extensive latitude in the erroneous belief that this would produce an outcome-driven, results-oriented organization in which people were accountable for their results. I was wrong.
+What I need to do is what every sustainably successful organization in the history of mankind has done, and that is to transition from being a company of ideas, fire drills, drama, and fuzziness to a company of outcomes, standards, accountability, and results.
+
+The truth of the matter is we can have the best vision and mission statement in the world, but if no one has a clue as to how that translates to
+  - an obstacle we must overcome
+  - an outcome we are striving to achieve
+  - an executable plan
+  - a set of critical driver activities
+  - a standard of excellence
+  - a dashboard that gives us optics .accountability and ownership
+
+then we have no shot at accomplishing that mission or delivering on those values.
+
+If no one knows exactly where we are and exactly what we are trying to accomplish, we will not understand the problem we are trying to solve or the gap we are trying to close. If we don't have clarity of exactly what the obstacle is we are attempting to overcome, how do we prioritize resources or build a machine that allows us to get from here to there?
+
+If you look at an F-16 fighter jet, the sophistication of the dials and dashboards is breathtaking. Why is that? Because an F-16 is a high-performance machine. If a mistake is made in an F-16, someone is likely to die. Compare that to a tricycle, a low-performance machine. It has no cockpit or dashboard. It does not go very fast and takes a ton of manual effort to get from here to there. If a mistake is made on a tricycle, the worst that happens is a scab on your knee.
+
+The higher the performance or the faster you want to go, the greater the need for a cockpit of dials and dashboards. The greater the need for precise measurements, standards, structure, and accountability.
+
+Pilots of high-performance machines do not fly by the seat of their pants. Yet I have tolerated a culture of "hand crank" tricycle performance, which helps explain why we are not achieving our full potential for our stakeholders. We have high maintenance and I am optimizing for high performance.
+
+Here is where I need your help. What I want us to do is identify the obstacles that are in our way, design the strategy and build the machine that will allow us to overcome these obstacles, prioritize and thoughtfully allocate the resources required, measure our results against the standards we have set, and hold everyone accountable for their part of the process.
+
+We will have three rules of the game:
+1. Rule #1: Do the right thing.
+  a. Have a plan, work the plan.
+  b. Measure your results.
+  c. Be accountable-see it; own it; solve it; do it.
+2. Rule #2. Do the best you can.
+  a. Turn problems into opportunities.
+  b. Add value by becoming part of the solution.
+  c. Act with a sense of urgency... Do it now! 
+  d. Ask the question: "What else can I do?" 
+  e. Ask for coaching: "What can I do better?" f. Reject average and "good enough." 
+  g. Learn, correct, improve, and grow.
+3. Rule #3: Show others that you care. 
+  a. Show respect.
+  b. Say: "Please. Thank you. You're welcome. I'm sorry." 
+  c. Show and express appreciation.
+  d. Have each other's back ("I got you!").
+  e. Engage as a team.
+
+If we do these things and play by these rules we will close the gap. Not only will we close the gap, we will build a high-performance team.
+So, here is the question you each need to answer: "Do I want to be a part of helping me create this team?"
+``` 
+
+- **Thinking Time**
+  - I know that making the decision to give the apology speech is just the beginning. What are the specific follow-on initiatives I need to consistently execute to ensure that the speech sticks?
+  - What are the rituals I must create to help us reinforce and follow through on this message?
+  - Where do I need to get clarity about the opportunities we must create to continue the dialog and messaging about the culture we are creating?
+  - How can I instill the ownership of these rules in my employees so that they become the guardians of our culture?
 
 # HOW AM I GOING TO PLAY THE SECOND HALF?
 
