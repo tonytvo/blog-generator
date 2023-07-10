@@ -522,12 +522,55 @@ fantasy. Accountability should never be feared; it is the mother of great.
 
 - Employees under a leader will comply as a result of ownership, communication and accountability while the employees under a manager are compliant as a result of fear
 
-- Leaders reprimand when needed while it is the first line of action for managers.
-
 - Leaders have high performance teams because there is accountability, measurement and ownership, while managers have high maintenance teams that are working out of fear of being reprimanded/punished if they make mistakes.
 
 - Finally, in the words of Keith Cunningham, “the two most important phrases used by leaders are: Help me understand and What do you recommend?
 
+- sample conversations
+
+```
+Patty, I think I owe you an apology. Apparently we have done a poor job of
+- Communicating what we want.
+- Making sure you own the cleanliness of the lobby.
+- Explaining why it is so important it be done a certain way.
+- Providing you with the training you need for how to keep it clean.
+- Tolerating what you have done in the past without giving you the appropriate coaching on how to do it better.
+
+I am very sorry.
+
+What we expect is for the lobby to be kept clean and tidy, which means the floors are continuously monitored, swept, and mopped, the loose newspapers are thrown out, and the customers' seats in the waiting area are clean and organized. This is not happening on a consistent basis and is obviously not happening right now.
+I am confused. Help me understand why I am seeing a mess in our lobby this morning. I know we have discussed this with you several times in the past, yet here it is again. Is the problem that
+- You don't understand what we want? 
+- You haven't been adequately trained?
+- You just don't care what the lobby looks like despite this being a critical part of your job?
+- We just got slammed with a bunch of customers and there hasn't been time to clean this up yet?
+- You don't understand the importance of this job and doing it the way we expect it to be done?
+- You don't own your job and are unaware of the consequences of not doing the job you were hired to do?
+
+Help me understand why this problem doesn't get fixed and stay fixed.
+```
+
+```
+Patty, you have a job here. To keep your job, you must do the work. The job and the work, hand go in hand. It has now reached the point that it feels like we are begging you to do the work, which makes no sense because you never have to beg me for your paycheck. Neither one of us wants to beg, and neither of us should have to. You are a smart woman; you understand what we expect. But, for some reason it isn't getting done consistently.
+Here is what I know: When my effort to help you get better exceeds your effort to get better, this stops working for both of us.
+It seems to me the problem might have something to do with what you believe. For this to continue to be a topic of conversation, maybe you hear what we want but mistakenly believe what we are requesting is optional. Perhaps you believe we are just kidding when we tell you keeping the lobby picked up and clean is part of your job. You might believe we will not notice or, if we do notice, maybe you believe we will not say anything. You might believe you can avoid doing your job and we will pay you anyway, or even give you a raise for not doing your job. Maybe you believe that you can keep your job but not do the work.
+Help me understand what you believe about this.
+```
+- **Thinking Time**
+
+  - Where have I done a poor job of posting the speed limit (explicitly stating expectations, deliverables, and outcomes)?
+  - Who are the people in my organization that seem to require repeat conversations about the same issue?
+  - What is the "belief coaching" they need to get clarity around the correct beliefs that will enable them to do and keep their job?
+  - What is the deliverable that is missing?
+  -hat is the outcome I want that isn't being delivered?
+  - Where am I frustrated because an employee is not performing at the standard I expect (and set)?
+  - Is the problem that I haven't set a clear standard?
+  - Is the problem a lack of specificity about what I want it to look like? A lack of training? A lack of consistent coaching (calling it tight) when the problem arises? A lack of understanding about why this is important and why it needs to be done correctly every time?
+  - Where have I created (or tolerated) a culture of mediocrity, an absence of
+ accountability, a fear of saying what needs to be said, and an inattention to results, measurements, and periodic correction? 
+  - What is the belief my employees must have for this problem to persist and what belief needs to be substituted for my employee to excel?
+  - Who needs to get an apology from me? 
+  - What is the coaching I need to deliver to make sure the problem gets fixed and stays that way?
 
 # Quotes
 
