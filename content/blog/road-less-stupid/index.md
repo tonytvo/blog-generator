@@ -578,6 +578,71 @@ Help me understand what you believe about this.
   - Who needs to get an apology from me? 
   - What is the coaching I need to deliver to make sure the problem gets fixed and stays that way?
 
+# OPPORTUNITY WITHOUT STRUCTURE IS...
+
+. Opportunity without structure is chaos.
+. No leverage, no long-term growth. The inevitable result is chaos and a gravitational pull toward the urgent. Leverage is the bridge that transitions the Owner of a business from Operator mode to Owner mode.
+. The price of entrepreneurial success is discipline and structure.
+MANN GULCH
+. When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old "right" way might seem like a good idea, but it can frequently be deadly.
+• New circumstances always require new skills and tools, fresh training, innovative solutions, superior team members. The alternative (relying on past answers) is often a prescription for suffering and failure to survive.
+. Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.
+
+# DREAMS AND DEMAND
+. When it comes to goals, far too much emphasis is placed on visualizing Oz and not enough on designing and constructing the yellow brick road. Goals are not plans. Goals are ideas, and few things are dumber than executing on an idea with no plan or planning.
+• About the stupidest thing management can do is to announce some lofty goal for the year ("Our revenue target is $6,000,000 this year.") without any thought about the working plan to attain it.
+. One of the hardest parts of designing the journey is being sober about reality and painstakingly honest about your current situation. Psychiatric hospitals are filled with people who are delusional about reality.
+.My life works to the degree I keep my commitments.
+• Don't let your obsession with the dream get in the way of 
+noticing the
+
+﻿
+
+demand. Or as my friends on Wall Street say, "When the duck quacks, feed it."
+
+# THE BIG 8
+.Leaders inspire...Managers control. To be successful in business, we need both.
+.Without a dashboard, you get a story. Dashboards tell you what you need to know, not what you want to believe.
+Without coaching and consequences, good intentions and "the best I can" will become the excuse du jour. Without coaching and consequences, critical drivers and outcomes will become suggestions, not standards.
+If they [your employees] create it [the plan], they own it.
+. You cannot babysit your way to high performance and accountability.
+• Information is simply data that has been organized, which is the role of a dashboard. I need knowledge, not more information.
+
+# SOMETHING FOR NOTHING... SERIOUSLY?
+.Never buy anything from someone who is out of breath.
+• Passive anything is a bad idea and ultimately unworkable because it requires us to fall into the trap of thinking there is a way to do nothing
+and still get what we want or to maintain what we have by being inactive. No part of your life or business works that way.
+
+# THE ONLY CONSTANT IN BUSINESS IS...
+. The only constant in business is change.
+. The reason companies lose relevance, go broke, or fade into the sunset is because they continue to grow, but fail to evolve. They rely on the wrong questions and old answers. Great questions, an open mind, flexibility, and a healthy dose of paranoia are your best friends in business. No business is safe: 435 of the Fortune 500 (87%) from 1955 are now gone... disappeared... kaput. The business environment kept on changing requiring a different set of answers-and they didn't come up with a better question. Stupid!
+
+# EVERYTHING COUNTS
+. When I see this kind of poor performance on a consistent basis, it can only be a result of one of four things:
+. Incompetent and uncaring employees (This is a hiring and culture issue.)
+.A lack of training
+. No measurements or accountability
+.A lack of supervision
+.A discount for future services as compensation for poor performance
+on past services is analogous to getting salmonella at a restaurant and the restaurant owner offering me a free dessert the next time I eat there. I already got sick from this ill-conceived trip, and your idea of helping me get over the food poisoning is to offer a token discount on my next trip?
+
+# THE 3 PILLARS OF SUCCESS
+• We make promises to ourselves, but we break them with alarming regularity. For some reason, promises we make to ourselves are less sacred than the promises we make to others. Having an accountability partner who will hold you to your commitments is a key ingredient to making sustainable progress and for success. Someone who will tell you the truth; someone who will not buy into your cheap excuses for why you fell off the wagon or didn't get the job done; someone to tell you "no."
+.The higher you go or the better you want to get, the greater the requirement to have someone in your life who will hold you accountable and tell you the truth.
+
+# THE ADVANTAGE OF BEING SMALL
+.The only things "small" has going for it are flexibility and intimacy of relationships.
+• Survival requires more curiosity and less arrogance; more humility and less need to be right; better questions and fewer answers. SIMPLIFYING GROWTH
+. The reason we gravitate to a tactical answer is because we are hardwired to get busy... to do something... to take action. The illusion we live with is that being active is synonymous with being productive. Dumb!
+. Who do I want to buy from me?
+. What must happen to cause them to buy?
+. What must happen to keep them coming back?
+• What could happen to cause them not to buy?
+
+# THE BATHROBE THEORY OF BUSINESS: WHEN A GOOD IDEA ISN'T
+. In our desire for certainty, a map, and familiar landmarks, we tend to look for patterns that will tell us a story and provide an illusion of safety. An inability or unwillingness to distinguish between the story and the facts, however, has caused more than a few bankruptcies.
+• Business is not a bathrobe. One size does not fit all. Different problems in different environments for different people at different stages of development require different solutions. Never ask an encyclopedia salesman if you need an encyclopedia. He has the kind of one-size-fits all mentality that will wreck your business
+
 # Importance of capital allocation
 
 - The 8 CEOs studied in the book far outperformed the S&P 500 over a 20-30 year period and this is attributed to their capital allocation strategies. All CEOs are investors AND managers, but the ‘investors’ part is typically ignored. As Buffett says, capital allocation is one of the most important tasks of a CEO, yet almost none of the people who rise to be CEOs are trained for it. They rise to the top based on their engineering, marketing, sales or other skills. This is analogous to a master musician being promoted to being Chairman of the Federal Reserve.
