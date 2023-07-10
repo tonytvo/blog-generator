@@ -5,6 +5,12 @@ description: "The Road Less Stupid Advice from the Chairman of the Board by Keit
 tags: ["valueinvesting", "investing"]
 ---
 
+# key take-aways
+
+- Act boldly when you see a difference between value and price.
+When your stock is low, buy it back. When it is high, use it raise debt or buy other companies.
+- The best defense against revenue lumpiness is a constant vigilance on costs.
+- “When you see something that you like, make a very large bet.” 
 
 # THE DREADED DUMB TAX
 - It turns out that the key to getting rich (and staying that way) is to avoid doing stupid things. I don't need to do more smart things. I just need to do fewer dumb things. I need to avoid making emotional decisions and swinging at bad pitches. I need to think!
@@ -572,7 +578,105 @@ Help me understand what you believe about this.
   - Who needs to get an apology from me? 
   - What is the coaching I need to deliver to make sure the problem gets fixed and stays that way?
 
+# Importance of capital allocation
+
+- The 8 CEOs studied in the book far outperformed the S&P 500 over a 20-30 year period and this is attributed to their capital allocation strategies. All CEOs are investors AND managers, but the ‘investors’ part is typically ignored. As Buffett says, capital allocation is one of the most important tasks of a CEO, yet almost none of the people who rise to be CEOs are trained for it. They rise to the top based on their engineering, marketing, sales or other skills. This is analogous to a master musician being promoted to being Chairman of the Federal Reserve.
+
+- **The capital allocation toolkit**
+  - Ways to deploy capital:
+    - Invest in existing operations
+    - Acquire other businesses
+    - Pay down debt
+    - Issue dividends
+    - Repurchase stock
+  - Ways to raise capital:
+    - Tap internal cash flow
+    - Issue debt
+    - Raise Equity
+
+  - Together, these 8 mechanisms form a tool-kit. Long-term returns provided by a company to its shareholders will depend heavily on how the CEO uses these 8 options. Companies with identical operating results and different approaches to allocating capital will lead to different outcomes for shareholders.
+
+# Themes common to all the eight outsiders
+
+- **Free cash-flow, not earnings:** Pay attention not to earnings, but cash-flow. Quarterly earnings reports are a distraction. This shapes company decisions including accounting policies.
+- **Clever buy/sell of own stock:** Buy-back own company’s stock aggressively when it is running low and attractively priced. Use the stock to finance acquisitions or get cheap debt when the stock price runs high. Stock repurchases are a more tax-efficient method of returning capital to shareholders than dividends, which are taxed twice (corporate and individual level).
+- **Fly under the radar:** Wall Street and the press are a distraction, ignore them. Great CEOs (as measured by return delivered in multiples over S&P 500) also avoid frequent magazine covers, interviews etc and fly under the radar.
+- **Anorexic HQ:** Run decentralized operations, with rigorous budget monitoring. Headquarters should be ‘anorexic’, with only enough staff as absolutely needed to support the general managers of the various business units. The GMs are given utmost authority and autonomy.
+- **Traits as an investor:**
+  - **Concentration:** “Be comfortable with concentration and buy only a few things that you understand well.”
+  - **Patience:** Be willing to wait long periods of time  (while the market complains about your inactivity), often a decade or more, for the right opportunity to emerge.
+  - **Boldness:** Each of the 8 CEOs made at least one acquisition or more that exceeded 25% of their firm’s enterprise value.
+  - **Frugality & Tax Minimization**
+- **Focus on ‘value per share’:** Do not shy away from shrinking the company if that is the best move. Most of corporate America focuses on growth, these 8 CEOs focused on increasing ‘value per share’.
+- **Individualistic thinking:** “Cut through the glare of peer activity and conventional wisdom to see the core economic reality and act accordingly.”
+- **To sum it up, their advantage relative to their peers was one of temperament, not intellect.**
+
+# Capital Cities Broadcasting –  Tom Murphy and Dan Burke
+
+- Sign of a well-run great company: Diaspora are all over the industry. For Capital Cities, the alumni went to Disney (Bob Iger, CEO), Pulitzer (CEO). Dan Burke’s son Steve was COO of Comcast, followed by CEO of NBCUniversal.
+- Bought ABC, when it was 4 times bigger than Capital Cities. Warren Buffett helped finance the deal in exchange for a 25% stake in the combined company.
+- Most companies fall into the trap of a ‘prosperity blinded indifference to unnecessary costs’. CC executives remained focused on the core businesses.
+- Simple cycle that Tom Murphy used, which most people fail to remember or apply:
+  - Look for attractive economic characteristics in a business or undertaking
+  - Use whatever leverage you can apply to get that attractive business
+  - Once you have it, improve operations.
+  - Use the cash flow from the improved operations to pay down debt.
+  - Rinse and repeat.
+- The above practice today is known as a ‘roll-up‘. Many companies collapsed under the burden of bad roll-up debt – they acquired too rapidly and did not integrate and improve operations well.
+- Tom Murphy finally sold to Disney for an extraordinary $19 billion.
+- *“Paint the two sides facing the road, leaving the other two sides untouched.”* – Murphy when asked to touch up a building for the advertisers who visited it.
+- Be frugal, but invest heavily where it is needed – every one of CC’s TV stations led in its region, because they invested heavily in the news talent and technology.
+- What employees and general managers said about CC – *“the system corrupts you with so much authority and autonomy that you cannot imagine leaving.”*
+- Tom Murphy spent years developing relationships with the owners of desirable properties, and worked very hard to become a  preferred buyer.
+
+# Teledyne
+
+- While Teledyne’s own stock ran at P/E multiples in the 20-50 ranges, CEO Henry Singleton never bought companies with a P/E multiple higher than 12.
+- Great investors are able to sell high and buy low: Teledyne’s stock issuances happened at P/E multiples of ~25 and buybacks at around ~8.
+- Singleton, like Buffett designed an organization that allowed him to focus on capital allocations, not operations. Both viewed themselves primarily as investors, not managers.
+
+# General Dynamics – Bill Anders, Nick Chabraja
+
+- Bill Anders, CEO, had been the lunar module pilot on Apollo 8. *“After orbiting the moon, mundane business problems did not faze him.”*
+- Anders’ turn-around strategy to exit all businesses with low returns, commodity businesses and ones which it did not know well. He systematically shrunk the company in an era where CEOs prided on size and growth.
+- Warren Buffett bought 16% of General Dynamics in 1992 after two years of observing Anders’ work.
+- Nick Chabraja, a successor, sold almost one-third of company stock to acquire GulfStream when GD was trading at 23 P/E multiples (history, was 16). This was counter-intuitive as such massive stock selling hadn’t happened before. **The best capital allocators are opportunistic, practical and flexible. They are not bounded by strategy or ideology.** Nick sold the stock at its highest P/E and got a company that provided almost 50% of the combined company’s cash flow.
+
+# TeleCommunications Inc – John Malone
+
+- **Ditch Wall Street’s metrics:** John Malone at Tele-communications Inc was among the first to realize that the first among the cable operators to hit high scale would be able to lower programming costs and create a virtuous loop (higher subscribers, move leverage with content programming costs, lower costs imply more ability to buy subscribers..). This scaling would come at the expense at EPS, which was the holy grail of Wall Street.
+- It pays better to be a technology “settler” rather than a “pioneer” in traditional industries like cable – John Malone waited for other companies to test out the merits of a new technology before investing in it.
+- Comcast took until mid-1980s to realize this and switch from EPS-focused to growth-focused approach.
+- John Malone introduced the concept of EBITDA (earnings before interest, taxes, depreciation and amortization).
+
+# General Cinema – Dick Smith
+
+- Learnings from Dick Smith – recognize the strong, underlying demographic trends of your generation (sub-urban theatres would be beneficial in the 1960s) and then go after them trying to gain an advantage over others (used lease financing to expand theatres faster rather than buying land like everyone else was).
+- He repeated the same act with the beverage bottling businesses – recognizing that they would grow in the coming decade (1970s) and creatively growing them (financing via a sale/leaseback of the manufacturing facilities).
+- Be opportunistic and willing to make sizeable bets when the circumstances warrant it (the HBJ acquisition was 62% of General Cinema’s value at that time, but it was an attractive bet since they were buying a business at 6 times its cash flow. They would later sell it for 11 times the cash flow).
+- “It is remarkable how much value can be created by a small group of highly talented people.” – Spoken by a media investor about the General Cinema team.
+
+# Washington Post – Katharine Graham
+
+- A rigorous and cautious capital expenditure approval process meant Washington Post avoided expensive investments in new technology printing plants until her competitors had vetted it.
+- Stringent acquisition criteria – acquisitions needed to earn a 11 percent return without leverage over a ten-year period.
+- Being part of the insider circles help – Buffett was friends with both Katharine and Tom Murphy of CC, so when FCC rules forced CC to divest some of its stations, the Washington Post got to take an exclusive look at the deal and they bought it.
+
+# Berkshire Hathaway – Warren Buffett
+
+- Until age 35, Warren Buffett ran a non-descript investment partnership out of Omaha. He did a ‘hostile takeover’ of Berkshire Hathaway, a 100-year-old but undifferentiated/unremarkable textile company based in MA.
+- Charlie Munger – *“Berkshire’s long-term success stems from its ability to generate funds at 3% and invest them at 13%.“*
+- Advantage of being an outsider CEO (Buffett was an investment manager before Berkshire – he did not hesitate to divest the textile holdings when he did not see growth and good returns in the textile business) – **you are not wedded to a particular business or industry.** It is easier for you to exit businesses/industries with low returns and concentrate on those which are likely to meet their investment targets.
+- *“Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks.“*
+- Buffett’s portfolio management philosophy: a high degree of concentration and extremely long holding periods.
+- Warren Buffett to students – your investments results will improve if, at the beginning of your careers, you are handed a 20 hole punch-card symbolizing the total number of investments you can make in your investing lifetimes.
+“Institutional Imperative” – this is the big-company/CEO equivalent of ‘teenage peer pressure.’ Buffett scorns this.
+- *“Be greedy when others are fearful, and fearful when others are greedy.”*
+
+
 # Quotes
+
+“Be greedy when others are fearful, and fearful when others are greedy.”
 
 Operators react and sweat. Owners think and plan
 
@@ -581,6 +685,10 @@ Operators react and sweat. Owners think and plan
 The key to defining the root problem is discovering the obstacle (it resides in the gap) that is impeding your progress from here to there. It is the obstacle that is the problem, not the dissatisfaction with your current circumstances!
 
 “Mistakes are not a sin unless it is not admitted. Until you admitted and take responsibility, it will be hard to learn the lesson and move forward. More importantly, you might not be able to foresee when that mistake wants to happen and you will definitely fall into the same trap and make a worse mistake.
+
+You are right not because others agree with you, but because your facts and reasoning are sound.” – Benjamin Graham
+
+“Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks.“
 
 # References
 
