@@ -583,10 +583,55 @@ Help me understand what you believe about this.
 . Opportunity without structure is chaos.
 . No leverage, no long-term growth. The inevitable result is chaos and a gravitational pull toward the urgent. Leverage is the bridge that transitions the Owner of a business from Operator mode to Owner mode.
 . The price of entrepreneurial success is discipline and structure.
-MANN GULCH
+Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new
+
+problem using solutions for the old problem. Chances are, those old solutions
+
+for the previous problem are useless.”
+
+
+
+Mann Gulch is a canyon characterized by steep hills of inclinations close to 90 degrees. In other words, it was a feat to climb out of that canyon. On August 5, 1945 there was huge fire that gut the canyon and all firefighters except three died in the fire. On investigation, all the dead fire fighters had all their tools and their heavy backpacks on. Now, every fire fighter is trained to always carry his back pack containing his tools even when escaping a fire. It is this rule they followed that cost them their life. The main problem was not how to put out the fire but how to escape and survive.
+
+
+
+These three men realized that this standing rule to carry all the tools and backpack wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
+
+
+
+One of the three men called Dodge used a technique called “escape fire” used by Indians when faced with similar challenges. Sometimes the solution you seek is not in what you have been taught by the books but by reason of expanding your horizon and a willingness to constantly improve yourself.
+
+These three noticed that the problem had mutated and they needed to think outside the box to survive.
+
+To end this, I would like to borrow a statement form Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly.
+
+
+# MANN GULCH
 . When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old "right" way might seem like a good idea, but it can frequently be deadly.
 • New circumstances always require new skills and tools, fresh training, innovative solutions, superior team members. The alternative (relying on past answers) is often a prescription for suffering and failure to survive.
 . Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.
+
+Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new
+
+problem using solutions for the old problem. Chances are, those old solutions
+
+for the previous problem are useless.”
+
+
+
+Mann Gulch is a canyon characterized by steep hills of inclinations close to 90 degrees. In other words, it was a feat to climb out of that canyon. On August 5, 1945 there was huge fire that gut the canyon and all firefighters except three died in the fire. On investigation, all the dead fire fighters had all their tools and their heavy backpacks on. Now, every fire fighter is trained to always carry his back pack containing his tools even when escaping a fire. It is this rule they followed that cost them their life. The main problem was not how to put out the fire but how to escape and survive.
+
+
+
+These three men realized that this standing rule to carry all the tools and backpack wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
+
+
+
+One of the three men called Dodge used a technique called “escape fire” used by Indians when faced with similar challenges. Sometimes the solution you seek is not in what you have been taught by the books but by reason of expanding your horizon and a willingness to constantly improve yourself.
+
+These three noticed that the problem had mutated and they needed to think outside the box to survive.
+
+To end this, I would like to borrow a statement form Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly.
 
 # DREAMS AND DEMAND
 . When it comes to goals, far too much emphasis is placed on visualizing Oz and not enough on designing and constructing the yellow brick road. Goals are not plans. Goals are ideas, and few things are dumber than executing on an idea with no plan or planning.
