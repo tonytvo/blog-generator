@@ -969,8 +969,18 @@ So, here is the question you each need to answer: "Do I want to be a part of hel
 
 # HOW AM I GOING TO PLAY THE SECOND HALF?
 
-.The key to mastering the art of living starts with defining your vision of excellence!
-.There is a big difference between success and excellence. Success is getting there. Excellence is staying there.
+- The key to mastering the art of living starts with defining your vision of excellence!
+- There is a big difference between success and excellence. Success is getting there. Excellence is staying there.
+- James Michener (a seriously great author) had an equally insightful thought about this.
+  - *The Master in the art of living makes little distinction between his work and his play, his labor and his leisure, his mind and his body, his information and his recreation, his love and his religion. He hardly knows which is which. He simply pursues his vision of excellence at whatever he does, leaving others to decide whether he is working or playing. To him he's always doing both.*
+
+- **Thinking Time**
+  - What is my vision of excellence?
+  - Where is my level of engagement and intensity of focus inconsistent with that vision and the outcomes I desire?
+  - What needs to happen for me to be one of the top ten experts in my field?
+  - Where am I dabbling (doing just enough to get by) and what needs to be done about it?
+  - If my vision of excellence is mastery, what needs to change and how would I live my life?
+  - Where have I focused on success (getting there) and am missing the distinction of excellence (staying there)?
 
 # EXECUTION
 .The success of all strategies ultimately depends on execution. You can have the greatest strategy in the world, but if the strategy is not consistently executed, it will fail. The obvious corollary is that a poor strategy perfectly executed will also fail.
