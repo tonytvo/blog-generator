@@ -1392,317 +1392,144 @@ people achieve their dreams—directly business-related or not—is a, or even t
   - *"We" [leaders-organization] only energetically march toward Excellence when "they" [each and every one of our colleagues] are energetically marching toward Excellence.*
 
 ## NOW
-1.   Welcome to the Age of Metabolic Management. We all know the fabled race eventually
-goes to the Tortoise. Well, times change. Google-speed or Alibaba-speed is the new limit (until
-the record is broken, which it will be soon enough), and we are now officially living in the Age of
-the Hare. As Larry Light, McDonald's Global Chief Marketing Officer, put it in Advertising Age:
-"Today, you own ideas for about an hour and a half."
-My "moniker" for dealing with and thriving in the Age of the Hare is ... Metabolic Management.
-I believe it's one of the boss's ... prime tasks ... to Purposefully and Consciously and Perpetually
-work on Accelerating the Corporate (project team, etc.) Metabolism. Some thoughts:
-• Exhibit personal urgency ... hourly-daily-consciously.
-• Hire for it. (My car dealer pal Carl Sewell said he looks for antsy people "who literally
-can't sit still" during an interview. One well-known headhunter takes candidates to lunch
-in the city—and frowns if they don't jaywalk.)
-• Promote it.
-• Reward it. ("Speed Demon of the Week" recognition at the Monday Morning Huddle.)
-• Set aggressive targets—forget "incrementalism," go after a 75% or 95% or 98%
-reduction in the time it takes to do X or Y or Z. (Bold targets inspire—and are indeed
-possible on the speed front. In fact, I suggest something like never accepting a "speed up"
-suggestion of less than 50%.)
-Etc. …
-1.   Walls of "Yesterday." Walls of "Tomorrow."
-What do your walls look like?
-Do they look like "yesterday"?
-Or do they look like "tomorrow"?
-Yesterday = Plaques from past awards and group pictures from past parties. Etc. Etc.
-Tomorrow = Work-in-Progress pictures for ongoing projects. Interesting press clips on new
-products just launched. Customers landed or vendors signed up in the last 30 days. Six new hires
-in the last 30 days. Etc. Etc.
-(This idea is de facto stolen from Steve Jobs. When he returned to Apple from the wilderness in
-1997, one of his first acts was to remove all traces of old glory from his office and Apple facilities
-in general. He felt the product line he inherited was un-scintillating, and wanted the affect of the
-place to reflect work in progress, not icons of yesteryear.)
-72
-1.   Pissing Away Your Life: Like It or Not, Work Is Life! Some say I use words like
-"Wow" too much. "You damn well can't," they say, "turn every 'day at the office' into some
-'Adventure in EXCELLENCE.'"
-Well, "they" have a point—to a point.
-But it ain't much of a point.
-Let me be crude, rude, and short but not sweet: By the time you're nearing 30, let's say, the stayup-every-night-'til-2 a.m. era is pretty much behind you. So, let's say you awaken on average at
-6:30 a.m. ... and turn in around 11 p.m. (More or less.) That's 16.5 waking hours—call it 17. You
-just plain lose, say, two hours a day—a little over one hour on your 2-way commute, and 45
-minutes on whatever. So now we're at 15 "usable" hours.
-Suppose your ordinary workday is 8:15 a.m. to 5:30 p.m.—that seems about right to me. (I'm not
-citing research here, other than years and years of casual observation.) So the work day amounts
-to 9.25 hours.
-Which is to say, you are spending, Monday through Friday, about 9.75/15ths ... or roughly twothirds ... of your usable hours at work. Which in turn means ... If you piss away your work time,
-you're pissing away well over half your "conscious" "life."
-IMPACT
-1.   Forget Longevity—Think "Dramatic Frenzy." I occasionally speed-walk while
-listening to one or another of the Reverend Martin Luther King Jr.'s speeches. One of the most
-extraordinary took place in Memphis, immediately before Dr. King was assassinated. In it, he
-anticipates the tragic event:
-"Well, I don't know what will happen now. We've got some difficult days ahead. But it doesn't
-matter with me now. Because I've been on the mountain-top. And I don't mind. Like anybody, I
-would like to live a long life. Longevity has its place, but I'm not concerned about that now. I just
-want to do God's will. And He's allowed me to go up the mountain. And I've looked over. And I've
-seen the Promised Land. I may not get there with you. But I want you to know tonight, that we, as
-a people, will get to the Promised Land. And I'm happy, tonight. I'm not worried about anything.
-I'm not fearing any man. Mine eyes have seen the glory of the coming of the Lord."
-I get chills ... again ... as I write this. I am loath to trivialize Dr. King's remarks in any way, but I
-do want to make a "business" point: "Longevity has its place, but I'm not concerned about that
-now ..."
-I simply don't buy "built to last" in any way, shape or form—and this passage reinforced my
-abiding belief. "Built to Impact" is/has been/will be my Rallying Cry. Dr. King changed the
-world—and died at 39. To continue the trivializing, here's my business translation of Dr. King's
-words: I've often said that Netscape is/was my favorite company in recent years—it was born,
-changed the world and died, at about age 6. Kjell Nordström and Jonas Ridderstråle make this
-point particularly well in Funky Business: "But what if [former head of strategic planning at
-Royal Dutch Shell] Arie De Geus is wrong in suggesting, in The Living Company, that firms
-should aspire to live forever? Greatness is fleeting and, for corporations, it will become ever more
-fleeting. The ultimate aim of a business organization, an artist, an athlete, or a stockbroker may 
-73
-be to ... explode in a dramatic frenzy of value creation during a short space of time, rather than
-live forever."
-Progress, to my mind, and doubtless significantly influenced by a quarter-century's residence in
-Silicon Valley, is a series of such explosions—many, many duds and a few, like Apple or
-Netscape or Google, that change the world. "Long-term" success? If I thought of myself as
-choosing, in the early '90s, a working future based on retrospective knowledge, I'd put in the
-years of, say, 1994–1998 at Netscape over any damned alternate you can name!
-1.   How About Replacing Your "Wish It Were" List with a "Do It Now" List?
-"I can't wait until Spring."
-"I can't wait until Football season!"
-"I can't wait until I've finished preparing this damn presentation."
-"I can't wait until So-and-So makes up his mind, so that we can get moving."
-One does, reasonably, wish the surgery were over, that final exams were past, that their daughter
-would get back from Iraq. Nonetheless, and I'm no Zen practitioner, the goal, as in the goal, is
-always, as in always, to make the absolute most of the moment—because, to state the obvious but
-often ignored-in-practice truism, the moment, this moment, is the only-damn-thing we ever have.
-So: How are you going to get past the "wish-it-weres," and make the next, yes, meeting, the next
-15 minutes special, and fully participate therein? (PLEASE ASK YOURSELF THAT
-QUESTION. RIGHT NOW.)
-SPECIAL SECTION: The Heart of Business Strategy
-We usually think of business strategy as some sort of aspirational market positioning statement.
-Doubtless that's part of it. But I believe that the number one "strategic strength" is excellence in
-execution and systemic relationships (i.e., with everyone we come in contact with). Hence I offer,
-in shorthand form here, the following 47 pieces of advice in creating a winning "strategy" that is
-inherently sustainable.
-1. "Thank you." Minimum several times a day. Measure it.
-2. "Thank you" to everyone even peripherally involved in some activity—especially
- those "deep in the hierarchy."
-1. Smile. Work on it.
-2. Apologize. Even if "they" are "mostly" to blame.
-3. Jump all over (eventually release) those who play the "blame game."
-4. Hire enthusiasm.
-5. Low enthusiasm. No hire. Any job.
-6. Hire optimists. Everywhere. ("Positive outlook on life," not mindless optimism.)
-7. Hiring: Would you like to go to lunch with him-her? 100% of jobs.
-8.  Hire for good manners.
-9.  Do not reject "trouble makers"—that is, those who are uncomfortable with the status
- quo. (Source of … ALL … innovation.)
-1.  Hire for demonstrated resilience.
-2.  Overwhelming/dis-proportionate response to even the smallest screwups.
-3.  Become a student of all you will meet with. Big time.
-4.  Hang out with interesting new people. Measure it. (You = Those you hang out with.)
-74
-1.  Lunch with folks in other functions. Measure it. (220 opportunities/year.)
-2.  Listen. Hear. Become a serious "professional"/student of listening-hearing.
-3.  Work on everyone's listening skills. Practice.
-4.  Become a student of information extraction-interviewing.
-5.  Become a professional/student of presentation giving.
-6.  Incredible care in 1st line supervisor selection and development. Measure it.
-7.  World's best training for 1st line supervisors.
-8.  Construct small leadership opportunities for junior people within days of starting on
- the job.
-1.  Insane care in all promotion decisions.
-2.  Promote "people people" for all managerial jobs. Finance-logistics-R&D as much as,
- say, sales.
-1.  Hire-promote for demonstrated curiosity. Check their past commitment to continuous
- learning.
-1.  Small "d" diversity. Rich mixes for any and all teams.
-2.  Hire women. Roughly 50% women on exec team. (Or more, depending on market.)
-3.  Exec team "looks like" customer population, actual and desired.
-4.  Focus on creating products for and selling to women.
-5.  Focus on creating products for and selling to boomers-geezers.
-6.  Work on first and last impressions. (100% contacts = "WOW" experiences.)
-7.  Walls display tomorrow's aspirations, not yesterday's accomplishments.
-8.  Simplify systems. Constantly. (Not "systems," but "beautiful systems"!)
-9.  Insist that almost all material be covered by a 1-page summary. Absolutely no longer.
-10. Practice decency.
-11. Add "We are thoughtful in all we do" to corporate values list—#1 force for
- customer loyalty, employee satisfaction.
-1.  Make headlong employee growth (for all) a formal part of values set. Above
- customer satisfaction. Steal from RE/MAX: "We are a life success company."
-1.  Flowers.
-2.  Celebrate "small wins." Often. Perhaps a "small win of the day."
-3.  Manage your calendar religiously: Does it accurately reflect your espoused priorities?
- Use a "calendar friend" who's not very friendly to help you with this.
-1.  Review your calendar: Work assiduously and mercilessly on your "To don'ts."
-2.  Bosses: Formally cultivate one advisor whose role is to tell you the truth.
-3.  Commit to Excellence.
-4.  Talk up Excellence.
-5.  Put "Excellence in all we do" in the values set.
-6.  Measure everyone on demonstrated commitment to Excellence.
-SUCCESS
-1.   The "3H Model" of Success.
-The 3H's:
-Howard.
-Hilton.
-Herb.
-75
-(1) Starbucks has hit a rough patch, but as "they" say, we should all have Howard Schultz's
-problems—a guy who took a cup of java and grew a business of over 10,000 iconic shops
-worldwide. There is no doubt that to run an international show as big as Starbucks is quite a
-chore, and the staff is tops, and there's data by the ton. Yet the boss, Mr. Schultz, aims (and
-usually succeeds) to visit—hold on to your hat—25 shops per week. He believes you've gotta see
-the real deal up close with all your senses (after all, Starbucks sells an all-senses "experience") to
-know the score.
-(2) If there's ever been a more prominent and successful hotelier than Conrad Hilton, I'd like to
-know who it is. One Hilton anecdote: The story goes that at the conclusion of a gala honoring his
-career, Mr. Hilton was finally called to the podium to "share his success secrets." He made his
-way to the front of the house, and intoned ... "Remember to tuck the shower curtain inside the
-bathtub." And that was it, and back he went to his seat.
-(3) In 2009, American Airlines and the Southwest Airlines held their annual meetings on the
-same day in Dallas, headquarters to both. APA, the Allied Pilots Association, picketed
-American's meeting. The Southwest meeting marked founder Herb Kelleher's retirement after 37
-years. Like Mr. Hilton, Herb was asked to reveal his full set of secrets, and, like Mr. Hilton, he
-severely limited his remarks: "You have to treat your employees like customers." (Whoops, I
-forgot to mention that on the same day the APA picketed American, Southwest's pilots' union
-paid a small fortune to take out full-page ads in the likes of USA Today thanking Herb for his
-years of service—and support of the union and its pilots. Quite a contrast, eh?)
-Bottom line from the 3Hs:
-(1) Stay in touch! (Howard)
-(2) Sweat the details! (Hilton)
-(3) People first! (Herb)
-Pretty close to an "all you need to know" recitation.
-1.   A 5-Word, 5-Point "Complete" "Excellence Manifesto." Here goes, my "summary of
-everything" ... in five words:
-Cause.
-Space.
-Decency.
-Service.
-Excellence.
-Cause: An objective worthy of our commitment. An aim that supersedes the need for an alarm
-clock and that we can brag about to our friends, our family, and our mirror.
-Space: Room to roam. Constant and insistent encouragement for taking the initiative. An
-expectation that everyone will perceive herself or himself as a Change Agent-Entrepreneur.
-Decency: Thoughtfulness to a fault in everything we do. Fairness to a fault in everything we do.
-Sky-high respect for every person with whom we come in contact.
-Service: We unfailingly aim to "be of service." Our leaders at all levels are "in service" to their
-staff. Each staff member is "in service" to her or his peers and internal and external customers.
-76
-Excellence: Our ultimate aim is always ... Excellence. Nothing less. In our treatment of one
-another. In the products and services we develop. In our relationships with customers-vendorscommunity.
-"How are you doing" I: How are you doing on each point in general?
-"How are you doing" II: How have you done on each of the five ... TODAY?
-1.   The Full Nelson—Or: 13 Lessons on "Navigating" Excellence. Lord Horatio Nelson,
-an old Navy man and avid student of naval history, to me epitomizes Excellence. And, near the
-200th anniversary of his singular victory at Trafalgar, I happened upon a new biography (I've
-probably ingested a dozen over the years), Andrew Lambert's Nelson: Britannia's God of War.
-From it, I extracted 13 lessons that I contend are mostly applicable to you and me:
-1. Simple scheme. Nelson's orders of battle were paragons of simplicity and clarity—he was a
-damn good writer among other things. (Doable for you or me? Yes.)
-1. Soaring/Bold/Noble Purpose! Nelson pursued total victory. Many of his peers were willing,
-essentially, to rate surviving as victory enough. (Doable for you or me? Yes.)
-1. Engage others. Nelson made his captains full partners in the process as he devised plans—
-unheard of in those days. (Doable for you or me? Yes.)
-1. Find great talent, at any age, let it soar! Nelson gave his best captains, young or old, far more
-leeway than his counterpart admirals—and he eschewed seniority as primary measure of assigned
-responsibility. (Doable for you or me? Yes.)
-1. Lead by Love! The sailors, every biographer agrees, loved Nelson, and he them. (Last clause in
-the sentence is crucial.) His concern for their well-being, regardless of the rough nature of the
-sailor's life in those days, was legendary. (Doable for you or me? Yes.)
-1. Seize the Moment! Nelson's sixth sense about enemy weakness was remarkable. He would skip
-to "Plan B" in a flash if merited by changing circumstances. (Doable for you or me? Yes. More or
-less—"good instincts" are the indirect product of insanely hard work.)
-1. Vigor! His energy was palpable! (Doable for you or me? Yes. Mostly. Low energy folks aren't
-picks for leadership positions—or any other positions, for that matter.)
-1. Master your craft. Nelson was the best damn sailor in the Navy—sailors and officers
-appreciated that beyond measure. (Doable for you or me? Yes. Damn it. We are not all created
-equal—but often "the best" is not the one who tops the charts on raw talent.)
-1. Work harder-harder-harder than the next person. No explanation needed. (Doable for you or
-me? Yes.)
-1.  Show the way, walk the talk, exude confidence! Start a Passion Epidemic! Nelson led from
-the front—visible, in full dress uniform as the cannons roared. (Doable for you or me? Yes.)
-1.  Change the rules: Create your own game! Nelson always took the initiative—thus forcing
-rivals, from the beginning and throughout maneuvering at battle, to be in a full-time reactive
-mode. (Doable for you or me? Yes.)
-1.  Luck! Believe it! Always necessary! Not "desirable"—but necessary. (Doable for you or me?
-Anybody can get lucky—and preparedness ups the odds of getting lucky. But, truthfully, lucky is
-lucky.)
-1.  Be determined to come out on top, come hell or/and high water! Lambert:
-"Other Admirals were more frightened of losing than anxious to win." This last is a big deal—it
-belongs as either #1 or #13. (Doable for you or me? Yes.)
-77
-1.   A Cheat Sheet for Tough Times. (and Other Times, Too.) Amid all of the advice "out
-there" on dealing with difficult circumstances, how do you ... boil it all down? Some thoughts:
-(1) Be conscious in the Zen sense. Carefully consider, far more than you normally might,
-how you project: Does your "energetic" approach, for example, look more like panic? Is
-your smile in place—nothing is amusing about tough economic times, but a permanently
-grim demeanor, even if it's merited, is a guaranteed de-motivator. Etc.
-(2) Meet ... daily, first thing ... with your leadership team—to discuss whatever, check
-assumptions. Perhaps meet again late afternoon. Meetings max 30 minutes, maybe 15.
-(3) If you are a "big boss," use a 100-percent trusted, private sounding board—check in
-daily, whether you "need to" ... or not.
-(4) Concoct scenarios by the bushel, test 'em, play with 'em, short-term, long-term, sane,
-insane. (Not necessarily a formal exercise—but a constant "playful" exercise.)
-(5) MBWA (Manage by Wandering Around). Wander. Sample attitudes. Visible but not
-frenzied. But visible ... visible ... visible.
-(6) Work the phones, chat up experts, non-experts, customers, vendors. Seek enormous
-diversity of opinion. (NB: Big bosses invariably spend too much time with "experts"!
-Expert = Blinders = Particularly bad in uncertain/ambiguous times.)
-(7) "Over"communicate!!!!!
-(8) Exercise—encourage your leadership team to double up on their physical exercise;
-physical sharpness is insanely important to mental evenness.
-(9) Underscore "EXCELLENCE in every transaction"! (Now, more than ever!)
-"BIG"
 
-1.   Retirement Sucks. My college fraternity brothers have a wonderful ritual: an annual
-newsletter that we all contribute to. A few years back (I was 62 at the time), I vented about the
-topic of "retirement": "You've all doubtless heard the Churchill yarn. The old man was transiting
-the Atlantic by ship. An aide made a mental calculation and turned to WSC, 'Sir Winston, I've
-calculated how much brandy you've drunk. It comes to about here,' he said, pointing to a spot
-about halfway up the wall of the cavernous ballroom in which they were seated. WSC leaned in
-toward the chap, pointed to his de facto marker on the wall, and purportedly said, 'So little time,
-so much to do.'
-"I am often tired (I'm 62, not 22), but I Love & Appreciate the Opportunities I've been granted to
-take part in the Universal Dialogue about the Meaning of Work & Life & National Purpose.
-"PUT SIMPLY, 'RETIREMENT' TO ME MEANS BEING DRAGGED OFF A STAGE AND
-SLIPPED INTO A SIMPLE PINE BOX INSCRIBED WITH THESE WORDS: 'HE GAVE A
-SHIT.'"
-1.   Think Legacy!
+- **Welcome to the Age of Metabolic Management.**
+  - My "moniker" for dealing with and thriving in the Age of the Hare is ... Metabolic Management.
+  - I believe it's one of the boss's ... prime tasks ... to Purposefully and Consciously and Perpetually work on  Accelerating the Corporate (project team, etc.) Metabolism. Some thoughts:
+  - Exhibit personal urgency ... hourly-daily-consciously.
+  - Hire for it. (My car dealer pal Carl Sewell said he looks for antsy people "who literally can't sit still" during an interview. One well-known headhunter takes candidates to lunch
+  in the city—and frowns if they don't jaywalk.)
+  - Promote it.
+  - Reward it. ("Speed Demon of the Week" recognition at the Monday Morning Huddle.)
+  - Set aggressive targets—forget "incrementalism," go after a 75% or 95% or 98% reduction in the time it takes to do X or Y or Z. (Bold targets inspire—and are indeed possible on the speed front. In fact, I suggest something like never accepting a "speed up" suggestion of less than 50%.)
 
-"My life is my message."—Gandhi
-LEGACY!
-It can be a beautiful word!
-(Why I mattered.)
-(What I left behind that lasted.)
-78
-But I urge you also to think of it as a continuous goal. Consider your current assignment as head
-of a 7-person branch in an IS/IT department. (Or whatever.) Suppose you move on in 6 or 12 or
-18 (or 21) months: WHAT ... ONE SENTENCE ... WILL SUMMARIZE YOUR "TERM"?
-Real bedrock: I believe a Single Day can have as much of a "legacy" as a lifetime. In fact, that
-had better be the case! Why? Because this day ... stretching out before me ... is filled (at the
-moment) with limitless opportunities ... and it is ... ALL I HAVE!
-Right?
-Just another day?
-Hardly!
-THIS IS ... IT!
-163. Don't Forget Why You're Here! Peggy Noonan, "A Life's Lesson," on the astounding
-response to the passing of Tim Russert, the Wall Street Journal, June 21-22, 2008:
-"In a way, the world is a great liar. It shows you it worships and admires money, but at the end of
-the day it doesn't. It says it adores fame and celebrity, but it doesn't, not really. The world
-admires, and wants to hold on to, and not lose, goodness. It admires virtue. At the end it gives its
-greatest tributes to generosity, honesty, courage, mercy, talents well used, talents that, brought
-into the world, make it better. That's what it really admires. That's what we talk about in eulogies,
-because that's what's important. We don't say, 'The thing about Joe was he was rich!' We say, if
-we can, 'The thing about Joe was he took good care of people.'"
-I wish you a long life, but if tragedy were to have struck you yesterday, what do you think "they"
-might say at your memorial service? This maudlin question is not to be dwelt on "24/7," but it is
-worth considering on an irregularly regular basis.
-Amen.
-And good luck.
+- **Walls of "Yesterday." Walls of "Tomorrow."**
+  - What do your walls look like?
+  - Do they look like "yesterday"?
+  - Or do they look like "tomorrow"?
+  - *Yesterday* = Plaques from past awards and group pictures from past parties. Etc. Etc.
+  - *Tomorrow* = Work-in-Progress pictures for ongoing projects. Interesting press clips on new products just launched. Customers landed or vendors signed up in the last 30 days. Six new hires
+  in the last 30 days.
+  - (This idea is de facto stolen from Steve Jobs. When he returned to Apple from the wilderness in 1997, one of his first acts was to remove all traces of old glory from his office and Apple facilities in general. He felt the product line he  inherited was un-scintillating, and wanted the affect of the
+  place to reflect work in progress, not icons of yesteryear.)
+
+  - **Pissing Away Your Life: Like It or Not, Work Is Life!** Some - Let me be crude, rude, and short but not sweet: By the time you're nearing 30, let's say, the stayup-every-night-'til-2 a.m. era is pretty much behind you. So, let's say you awaken on average at 6:30 a.m. ... and turn in around 11 p.m. (More or less.) That's 16.5 waking hours—call it 17. You just plain lose, say, two hours a day—a little over one hour on your 2-way commute, and 45 minutes on whatever. So now we're at 15 "usable" hours.
+  - Suppose your ordinary workday is 8:15 a.m. to 5:30 p.m.—that seems about right to me. (I'm not citing research here, other than years and years of casual observation.) So the work day amounts to 9.25 hours. 
+  - Which is to say, you are spending, Monday through Friday, about 9.75/15ths ... or roughly twothirds ... of your usable hours at work. Which in turn means ... If you piss away your work time, you're pissing away well over half your "conscious" "life."
+
+## SPECIAL SECTION: The Heart of Business Strategy
+
+- *We usually think of business strategy as some sort of aspirational market positioning statement. Doubtless that's part of it. But I believe that the number one "strategic strength" is excellence in execution and systemic relationships (i.e., with everyone we come in contact with). Hence I offer, in shorthand form here, the following 47 pieces of advice in creating a winning "strategy" that is inherently sustainable.*
+
+  - "Thank you." Minimum several times a day. Measure it.
+  - "Thank you" to everyone even peripherally involved in some activity—especially those "deep in the hierarchy."
+  - Smile. Work on it.
+  - Apologize. Even if "they" are "mostly" to blame.
+  - Jump all over (eventually release) those who play the "blame game."
+  - Hire enthusiasm.
+  - Low enthusiasm. No hire. Any job.
+  - Hire optimists. Everywhere. ("Positive outlook on life," not mindless optimism.)
+  - Hiring: Would you like to go to lunch with him-her? 100% of jobs.
+  - Hire for good manners.
+  - Do not reject "trouble makers"—that is, those who are uncomfortable with the status quo. (Source of … ALL … innovation.)
+  - Hire for demonstrated resilience.
+  - Overwhelming/dis-proportionate response to even the smallest screwups.
+  - Become a student of all you will meet with. Big time.
+  - Hang out with interesting new people. Measure it. (You = Those you hang out with.)
+  - Lunch with folks in other functions. Measure it. (220 opportunities/year.)
+  - Listen. Hear. Become a serious "professional"/student of listening-hearing.
+  - Work on everyone's listening skills. Practice.
+  - Become a student of information extraction-interviewing.
+  - Become a professional/student of presentation giving.
+  - Incredible care in 1st line supervisor selection and development. Measure it.
+  - World's best training for 1st line supervisors.
+  - Construct small leadership opportunities for junior people within days of starting on the job.
+  - Insane care in all promotion decisions.
+  - Promote "people people" for all managerial jobs. Finance-logistics-R&D as much as, say, sales.
+  - Hire-promote for demonstrated curiosity. Check their past commitment to continuous learning.
+  - Small "d" diversity. Rich mixes for any and all teams.
+  - Hire women. Roughly 50% women on exec team. (Or more, depending on market.)
+  - Exec team "looks like" customer population, actual and desired.
+  - Focus on creating products for and selling to women.
+  - Focus on creating products for and selling to boomers-geezers.
+  - Work on first and last impressions. (100% contacts = "WOW" experiences.)
+  - Walls display tomorrow's aspirations, not yesterday's accomplishments.
+  - Simplify systems. Constantly. (Not "systems," but "beautiful systems"!)
+  - Insist that almost all material be covered by a 1-page summary. Absolutely no longer.
+  - Practice decency.
+  - Add "We are thoughtful in all we do" to corporate values list—#1 force for customer loyalty, employee satisfaction.
+  - Make headlong employee growth (for all) a formal part of values set. Above customer satisfaction. Steal from RE/MAX: "We are a life success company."
+  - Flowers.
+  - Celebrate "small wins." Often. Perhaps a "small win of the day."
+  - Manage your calendar religiously: Does it accurately reflect your espoused priorities? use a "calendar friend" who's not very friendly to help you with this.
+  - Review your calendar: Work assiduously and mercilessly on your "To don'ts."
+  - Bosses: Formally cultivate one advisor whose role is to tell you the truth.
+  - Commit to Excellence.
+  - Talk up Excellence.
+  - Put "Excellence in all we do" in the values set.
+  - Measure everyone on demonstrated commitment to Excellence.
+
+## SUCCESS
+
+- **A 5-Word, 5-Point "Complete" "Excellence Manifesto."** 
+  - Here goes, my "summary of everything" ... in five words: Cause.
+  Space. Decency. Service. Excellence.
+  - *Cause:* An objective worthy of our commitment. An aim that supersedes the need for an alarm clock and that we can brag about to our friends, our family, and our mirror.
+  - *Space:* Room to roam. Constant and insistent encouragement for taking the initiative. An expectation that everyone will perceive herself or himself as a Change Agent-Entrepreneur.
+  - *Decency:* Thoughtfulness to a fault in everything we do. Fairness to a fault in everything we do. Sky-high respect for every person with whom we come in contact.
+  - *Service:* We unfailingly aim to "be of service." Our leaders at all levels are "in service" to their staff. Each staff member is "in service" to her or his peers and internal and external customers.
+  - *Excellence:* Our ultimate aim is always ... Excellence. Nothing less. In our treatment of one another. In the products and services we develop. In our relationships with customers-vendorscommunity.
+  - "How are you doing" I: How are you doing on each point in general?
+  - "How are you doing" II: How have you done on each of the five ... TODAY?
+
+  - **The Full Nelson—Or: 13 Lessons on "Navigating" Excellence.** - Lord Horatio Nelson, an old Navy man and avid student of naval history, to me epitomizes Excellence. And, near the 200th anniversary of his singular victory at Trafalgar, I happened upon a new biography (I've probably ingested a dozen over the years), Andrew Lambert's Nelson: Britannia's God of War. From it, I extracted 13 lessons that I contend are mostly applicable to you and me:
+  -  *Simple scheme.* Nelson's orders of battle were paragons of simplicity and clarity—he was a damn good writer among other things. (Doable for you or me? Yes.)
+  - *Soaring/Bold/Noble Purpose!* Nelson pursued total victory. Many of his peers were willing, sentially, to rate surviving as victory enough. (Doable for you or me? Yes.)
+  - *Engage others.* Nelson made his captains full partners in the process as he devised plans — heard of in those days. (Doable for you or me? Yes.)
+  - *Find great talent, at any age*, let it soar! Nelson gave his best captains, young or old, far more leeway than his counterpart admirals—and he eschewed seniority as primary measure of assigned responsibility. (Doable for you or me? Yes.)
+  - *Lead by Love!* The sailors, every biographer agrees, loved Nelson, and he them. (Last clause in the sentence is crucial.) His concern for their well-being, regardless of the rough nature of the sailor's life in those days, was legendary. (Doable for you or me? Yes.)
+  - *Seize the Moment!* Nelson's sixth sense about enemy weakness was remarkable. He would skip to "Plan B" in a flash if merited by changing circumstances. (Doable for you or me? Yes. More or less—"good instincts" are the indirect product of insanely hard work.)
+  - *Vigor!* His energy was palpable! (Doable for you or me? Yes. Mostly. Low energy folks aren't picks for leadership positions—or any other positions, for that matter.)
+  - *Master your craft.* Nelson was the best damn sailor in the Navy—sailors and officers appreciated that beyond measure. (Doable for you or me? Yes. Damn it. We are not all created equal—but often "the best" is not the one who tops the charts on raw talent.)
+  - *Work harder-harder-harder* than the next person. No explanation needed. (Doable for you or me? Yes.)
+  - *Show the way, walk the talk, exude confidence! Start a Passion Epidemic!* Nelson led from the front—visible, in full dress uniform as the cannons roared. (Doable for you or me? Yes.)
+  - *Change the rules:* Create your own game! Nelson always took the initiative—thus forcing rivals, from the beginning and throughout maneuvering at battle, to be in a full-time reactive mode. (Doable for you or me? Yes.)
+  - *Luck!* Believe it! Always necessary! Not "desirable"—but necessary. (Doable for you or me?
+  - ybody can get lucky—and preparedness ups the odds of getting lucky. But, truthfully, lucky is lucky.)
+  - *Be determined to come out on top, come hell or/and high water!* Lambert: other Admirals were more frightened of losing than anxious to win." This last is a big deal—it belongs as either #1 or #13. (Doable for you or me? Yes.)
+
+- **A Cheat Sheet for Tough Times. (and Other Times, Too.)** Amid all of the advice "out there" on dealing with difficult circumstances, how do you ... boil it all down? Some thoughts:
+  - (1) Be conscious in the Zen sense. Carefully consider, far more than you normally might, how you project: Does your "energetic" approach, for example, look more like panic? Is
+  your smile in place—nothing is amusing about tough economic times, but a permanently grim demeanor, even if it's merited, is a guaranteed de-motivator. Etc.
+  - (2) Meet ... daily, first thing ... with your leadership team—to discuss whatever, check assumptions. Perhaps meet again late afternoon. Meetings max 30 minutes, maybe 15.
+  - (3) If you are a "big boss," use a 100-percent trusted, private sounding board—check in daily, whether you "need to" ... or not.
+  - (4) Concoct scenarios by the bushel, test 'em, play with 'em, short-term, long-term, sane, insane. (Not necessarily a formal exercise—but a constant "playful" exercise.)
+  - (5) MBWA (Manage by Wandering Around). Wander. Sample attitudes. Visible but not frenzied. But visible ... visible ... visible.
+  - (6) Work the phones, chat up experts, non-experts, customers, vendors. Seek enormous diversity of opinion. (NB: Big bosses invariably spend too much time with "experts"! Expert = Blinders = Particularly bad in uncertain/ambiguous times.)
+  - (7) "Over"communicate!!!!!
+  - (8) Exercise—encourage your leadership team to double up on their physical exercise; physical sharpness is insanely important to mental evenness.
+  - (9) Underscore "EXCELLENCE in every transaction"! (Now, more than ever!)
+
+## "BIG"
+
+- **Think Legacy!**
+
+  - "My life is my message."—Gandhi
+  - LEGACY!
+  - It can be a beautiful word!
+  - (Why I mattered.)
+  - (What I left behind that lasted.)
+
+  - But I urge you also to think of it as a continuous goal. Consider your current assignment as head of a 7-person branch in an IS/IT department. (Or whatever.) Suppose you move on in 6 or 12 or 18 (or 21) months: WHAT ... ONE SENTENCE ... WILL SUMMARIZE YOUR "TERM"?
+  - Real bedrock: I believe a Single Day can have as much of a "legacy" as a lifetime. In fact, that had better be the case! Why? Because this day ... stretching out before me ... is filled (at the moment) with limitless opportunities ... and it is ... - 
+
+- **Don't Forget Why You're Here!** Peggy Noonan, "A Life's Lesson," on the astounding response to the passing of Tim Russert, the Wall Street Journal, June 21-22, 2008:
+  - "In a way, the world is a great liar. It shows you it worships and admires money, but at the end of the day it doesn't. It says it adores fame and celebrity, but it doesn't, not really. The world admires, and wants to hold on to, and not lose, goodness. It admires virtue. At the end it gives its greatest tributes to generosity, honesty, courage, mercy, talents well used, talents that, brought into the world, make it better. That's what it really admires. That's what we talk about in eulogies, because that's what's important. We don't say, 'The thing about Joe was he was rich!' We say, if we can, 'The thing about Joe was he took good care of people.'"
+  - I wish you a long life, but if tragedy were to have struck you yesterday, what do you think "they"
+  might say at your memorial service? This maudlin question is not to be dwelt on "24/7," but it is
+  worth considering on an irregularly regular basis.
+  - Amen.
+  - And good luck.
 
 # Quotes
 
