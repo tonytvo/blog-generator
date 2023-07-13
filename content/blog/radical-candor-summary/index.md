@@ -1,7 +1,7 @@
 ---
-title: radical candor by Kim Scott summary wip
+title: radical candor by Kim Scott summary
 date: "2023-07-14T22:12:03.284Z"
-description: "radical candor by Kim Scott summary summary"
+description: "radical candor by Kim Scott summary"
 tags: ["leadership"]
 ---
 
@@ -908,7 +908,17 @@ Reflect on how always saying yes might affect you negatively. Use these strategi
     - saying no to your kids is a matter of setting expectations and standing your ground. Once your kids realize that "no" really means "no," you'll face less manipulative behavior.
 
 - **How To Say No To Your Friends**
+  - First, realize that you owe it to yourself to make time for your own responsibilities and interests. No one will respect your time more than you. So you must remain vigilant, reminding yourself that saying yes to one thing requires saying no to something else. Being a good friend doesn't obligate you to put your friends' priorities ahead of your own.
+  - Second, don't wait until you're frustrated with your friend to say no. Don't consent to request after request, becoming increasingly bitter and resentful that you're being taken for granted, and then proclaim "NO!" in a rage.
+  - Third, remind yourself that friend's dismay and anger upon hearing you say no isn't your problem. As long as you turn him or her down graciously, sincerely, and with respect, you've done your part.
+  - Fourth, start setting boundaries. If you have a friend who typically reacts poorly when you say no, take him or her aside and discuss the matter. Inform him or her of your feelings, limits, and personal convictions. Be honest with him or her. Explain how catering to others' needs before your own, particularly given your workload and personal responsibilities, is exhausting and upsetting to you.
+  - A true friend will understand your misgivings and respect your boundaries.
+  - Encourage your friends to come to you in the future when they need help. After all, helping friends strengthens the trust and rapport you share with them. It's deeply rewarding to help friends in their times of need.
+  - But make clear that you won't always be able to say yes. There will be times that you'll have to say no. But when you do so, it's always for good reasons - reasons you expect your friends to acknowledge and respect.
+
 - **How To Say No To Your Neighbors**
+  - you shouldn't feel guilty putting your priorities ahead of theirs. You're in charge of your time, energy, money and labor. It's important that you use these limited resources judiciously to care for yourself and those in your charge. You're the only one who can be relied upon to do it.
+
 - **How To Say No To Your Coworkers**
   - asking requestors to follow up at a later time is a greaty way to gauge the urgency of a coworker's request.
   - suggesting other coworkers who are more knowledgable and better qualified than you benefits you and the requestor. The requestor is given a more valuable resource to leverage while you're able to save time and resume your focus on your own work.
@@ -936,6 +946,21 @@ Reflect on how always saying yes might affect you negatively. Use these strategi
   - by saying no to clients, you'll be setting the expectation that you will occasionally say no.
 
 - **How To Say No To Strangers**
+
+  - First, think about where your obligations begin and end when it comes to strangers. This self- analysis should take into account your values and convictions. Note that this is a personal matter. You'll inevitably feel differently than other people.
+  For example, many people feel obligated to give money to panhandlers. Others believe that doing so is morally questionable. Your ability to say no to panhandlers will depend, in part, on where you stand on the matter.
+    - The goal isn't to conform to others' standards. Remember, you don't need other people's approval. Rather, the goal is for you to identify your standards, and align your decisions so they're consistent with them. If you feel it's wrong to give money to panhandlers, you'll find it easier to say no since refusing is in harmony with your convictions.
+
+  - Second, don't be afraid to say you're uncomfortable with a stranger's request. For example, suppose you're relaxing at a park. A stranger approaches you and asks you to watch his dog for 30 minutes while he runs an errand. You can say:
+    - I don't know you or your dog. I'm uncomfortable watching him because doing so makes me liable if he bites someone."
+
+  - Third, employ Bonus Strategy #4: Say No By Category. Create a rule that precludes participating in certain activities. If a stranger you for help, and your consent would violate this rule, say no and state your reason.
+    - For example, let's say you've stopped by Starbucks for a cup of coffee. You're leaving the venue and heading for your vehicle when you're stopped by a stranger. He asks you to give him a ride to the train station. Saying no is easy if you've decided beforehand to reject all such requests. You can respond:
+      - "I have a rule that I don't give rides to strangers."
+      - That is all that's required. If the requestor tries to convince you to consent (e.g. "C'mon, I'm a trustworthy guy!"), simply refer again to your rule and stick to your decision.
+
+  - None of the above is to suggest that you should avoid helping strangers. To be sure, there's joy in doing nice things for people who are unfamiliar to us. But for reasons related to your safety, personal convictions, or lack of resources, saying no is often the better response.
+
 - **How To Say No To Yourself**
   - think of the various temptations you might encounter, and how making an "I don't" statement can help you to say no. These statements are a declaration of what you choose not to do
     - > I don't eat donuts
