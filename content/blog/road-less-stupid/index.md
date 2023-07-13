@@ -983,11 +983,30 @@ So, here is the question you each need to answer: "Do I want to be a part of hel
   - Where have I focused on success (getting there) and am missing the distinction of excellence (staying there)?
 
 # EXECUTION
-.The success of all strategies ultimately depends on execution. You can have the greatest strategy in the world, but if the strategy is not consistently executed, it will fail. The obvious corollary is that a poor strategy perfectly executed will also fail.
+
+- The success of all strategies ultimately depends on execution. You can have the greatest strategy in the world, but if the strategy is not consistently executed, it will fail. The obvious corollary is that a poor strategy perfectly executed will also fail.
 
 - Time is the enemy of choices. The shorter the time, the fewer the choices.
-. Start where you are. Don't let perfect get in the way of possible. Or as my dad used to tell me, "Shiny shoes don't help you walk any faster." I'll say this a different way: the goal is not to get the anchor all the way back into the boat. To make forward progress, we only need to get it a quarter of an inch off the bottom.
-. A good idea for you could be a bad idea for me. It depends on our respective ability, resources, and willingness to consistently execute.
+- Start where you are. Don't let perfect get in the way of possible. Or as my dad used to tell me, "Shiny shoes don't help you walk any faster." I'll say this a different way: the goal is not to get the anchor all the way back into the boat. To make forward progress, we only need to get it a quarter of an inch off the bottom.
+- prior to selecting any solution to a situation in need of improvement, check your assumptions about:
+  - what am I really capable of doing?
+  - what am I willing to do?
+  - is this solution congruent with our existing (or easily acquired) skills, resources and level of commitment?
+- A good idea for you could be a bad idea for me. It depends on our respective ability, resources, and willingness to consistently execute.
+
+- **Thinking Time**
+- What is the problem I am trying to solve? (Not the symptom. THE problem! Go brush up on Core Discipline of Thinking #2.)
+- What is the obstacle or challenge that is preventing me from being where I want to be and achieving what I want to achieve?
+- Is the strategy we currently have not working because it is a strategy we are not consistently executing on, or is it a bad strategy? 
+- How much of my lack of progress is a result of a lack of consistent execution?
+- Where have I built a strategy that we simply cannot (or will not) execute?
+- What can I do today to improve my situation?
+- What are the existing (or easily acquired) resources, strengths, and underutilized assets at my disposal?
+- What would I do if I only had $1,000 to spend on a solution? $10,000? $1,000,000?
+- Where have I let a lack of resources become the roadblock for my resourcefulness?
+- How could I solve this problem by suspending some of the "rules" (as I know them) and fighting a guerrilla war?
+- What great "strategies" have I hatched in the past that are viable but are not getting executed?
+
 
 # STRATEGIC GROWTH
 
