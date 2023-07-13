@@ -580,58 +580,47 @@ Help me understand what you believe about this.
 
 # OPPORTUNITY WITHOUT STRUCTURE IS...
 
-. Opportunity without structure is chaos.
-. No leverage, no long-term growth. The inevitable result is chaos and a gravitational pull toward the urgent. Leverage is the bridge that transitions the Owner of a business from Operator mode to Owner mode.
-. The price of entrepreneurial success is discipline and structure.
-Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new
+- Opportunity without structure is chaos.
+- No leverage, no long-term growth. The inevitable result is chaos and a gravitational pull toward the urgent. Leverage is the bridge that transitions the Owner of a business from Operator mode to Owner mode.
+- The price of entrepreneurial success is discipline and structure. Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.”
+- Keith Cunningham defines Structure as designing, planning, and constructing the skeleton of the business so there is a foundation and support configuration to enable the business to profitably take advantage of the opportunities available.
+- your business needs that structure to give it foundation, support and most importantly sustainable growth.
+- It stems from your core values, core focus and culture as the foundation and then the structure is built. It includes hiring right, to putting systems and processes in place, designing the machine (solution) or even the engine of the machine. Anything that puts some form of order and allows things to run smoothly is what makes up structure.
+- Structure is what transcends you from working in your business to working on your business. It gives you the leverage to have a bird’s eye view of the business. In other words, it takes you from being an operator in the business to a business owner. It is structure that give you that leverage. Without it comes excess fatigue and frustration that in turn affects your customers and then takes your business on a steady decline.
+- To end this, I would like to borrow Keith’s words that says: “Success is not an accident. Sustainable business success requires leverage, and one of the most critical forms of leverage available to a business Owner is the leverage of structure.”
 
-problem using solutions for the old problem. Chances are, those old solutions
-
-for the previous problem are useless.”
-
-
-
-Mann Gulch is a canyon characterized by steep hills of inclinations close to 90 degrees. In other words, it was a feat to climb out of that canyon. On August 5, 1945 there was huge fire that gut the canyon and all firefighters except three died in the fire. On investigation, all the dead fire fighters had all their tools and their heavy backpacks on. Now, every fire fighter is trained to always carry his back pack containing his tools even when escaping a fire. It is this rule they followed that cost them their life. The main problem was not how to put out the fire but how to escape and survive.
-
-
-
-These three men realized that this standing rule to carry all the tools and backpack wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
-
-
-
-One of the three men called Dodge used a technique called “escape fire” used by Indians when faced with similar challenges. Sometimes the solution you seek is not in what you have been taught by the books but by reason of expanding your horizon and a willingness to constantly improve yourself.
-
-These three noticed that the problem had mutated and they needed to think outside the box to survive.
-
-To end this, I would like to borrow a statement form Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly.
-
+- **Thinking Time**
+  - What is the structure we need to create the progress I want?
+  - What are the missing structural components required to produce consistent execution on our critical drivers?
+  - When I look at my business, where are the opportunities for me to tighten up structure, processes, and efficiency of what gets done?
+  - Where do we have disorganization, inconsistent execution, slippage, and chaos?
+  - What are the obvious choke points in my business that continue to strangle the smooth operational flow of serving customers and supporting the back office?
+  - What specifically needs to happen to put some structure into place to address the turmoil?
+  - Is there an opportunity to hire someone (even part-time) to help fill some of our gaps or to support us in getting a process in place?
+  - What needs to happen to the workflow, back office, accounting, and support processes so my business functions smoothly and efficiently?
+  - Where is the structure of my calendar slipping that is preventing me from taking consistent action on my major initiatives?
 
 # MANN GULCH
-. When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old "right" way might seem like a good idea, but it can frequently be deadly.
-• New circumstances always require new skills and tools, fresh training, innovative solutions, superior team members. The alternative (relying on past answers) is often a prescription for suffering and failure to survive.
-. Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.
+- When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old "right" way might seem like a good idea, but it can frequently be deadly.
+- New circumstances always require new skills and tools, fresh training, innovative solutions, superior team members. The alternative (relying on past answers) is often a prescription for suffering and failure to survive.
+- Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.
+- These three men realized that this standing rule to carry all the tools and backpack wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
+- One of the three men called Dodge used a technique called “escape fire” used by Indians when faced with similar challenges. Sometimes the solution you seek is not in what you have been taught by the books but by reason of expanding your horizon and a willingness to constantly improve yourself.
+- These three noticed that the problem had mutated and they needed to think outside the box to survive.
+- To end this, I would like to borrow a statement form Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly."
 
-Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new
-
-problem using solutions for the old problem. Chances are, those old solutions
-
-for the previous problem are useless.”
-
-
-
-Mann Gulch is a canyon characterized by steep hills of inclinations close to 90 degrees. In other words, it was a feat to climb out of that canyon. On August 5, 1945 there was huge fire that gut the canyon and all firefighters except three died in the fire. On investigation, all the dead fire fighters had all their tools and their heavy backpacks on. Now, every fire fighter is trained to always carry his back pack containing his tools even when escaping a fire. It is this rule they followed that cost them their life. The main problem was not how to put out the fire but how to escape and survive.
-
-
-
-These three men realized that this standing rule to carry all the tools and backpack wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
-
-
-
-One of the three men called Dodge used a technique called “escape fire” used by Indians when faced with similar challenges. Sometimes the solution you seek is not in what you have been taught by the books but by reason of expanding your horizon and a willingness to constantly improve yourself.
-
-These three noticed that the problem had mutated and they needed to think outside the box to survive.
-
-To end this, I would like to borrow a statement form Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly.
+- **Thinking Time**
+  - What is the real problem I am facing and exactly how is this problem different from the one I thought I had? Or used to have? • What are the poleaxes, shovels, and backpacks I've been lugging around that are no longer useful in helping me solve my immediate problem?
+  - What are the tired, worn-out strategies and plans that are no longer supporting us to solve the problem we face?
+  - What are the existing models of behavior we need to drop because they no longer work?
+  - What existing knowledge, training, or experience needs to be abandoned?
+  - What are the new, fresh ideas and solutions we need to create to get us past this
+  problem and back on track to our desired outcomes?
+  - Survivors and successful people are always learning, innovating, and adjusting. If
+  this statement is true, what do we need to learn and where do we need to adjust our performance to succeed?
+  - Who around me is screaming an alternative solution, but I am ignoring them because
+I don't see the problem or the need to shift strategies?
+  - Under the broad heading "What got me here won't get me there," who do I need on my team, who is excess baggage slowing me down, and what do we need to start doing differently?
 
 # DREAMS AND DEMAND
 . When it comes to goals, far too much emphasis is placed on visualizing Oz and not enough on designing and constructing the yellow brick road. Goals are not plans. Goals are ideas, and few things are dumber than executing on an idea with no plan or planning.
@@ -799,6 +788,10 @@ The key to defining the root problem is discovering the obstacle (it resides in 
 You are right not because others agree with you, but because your facts and reasoning are sound.” – Benjamin Graham
 
 “Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks.“
+
+“Success is not an accident. Sustainable business success requires leverage, and one of the most critical forms of leverage available to a business Owner is the leverage of structure.”
+
+“When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly."
 
 # References
 
