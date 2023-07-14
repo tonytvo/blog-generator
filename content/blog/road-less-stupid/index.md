@@ -995,32 +995,89 @@ So, here is the question you each need to answer: "Do I want to be a part of hel
 - A good idea for you could be a bad idea for me. It depends on our respective ability, resources, and willingness to consistently execute.
 
 - **Thinking Time**
-- What is the problem I am trying to solve? (Not the symptom. THE problem! Go brush up on Core Discipline of Thinking #2.)
-- What is the obstacle or challenge that is preventing me from being where I want to be and achieving what I want to achieve?
-- Is the strategy we currently have not working because it is a strategy we are not consistently executing on, or is it a bad strategy? 
-- How much of my lack of progress is a result of a lack of consistent execution?
-- Where have I built a strategy that we simply cannot (or will not) execute?
-- What can I do today to improve my situation?
-- What are the existing (or easily acquired) resources, strengths, and underutilized assets at my disposal?
-- What would I do if I only had $1,000 to spend on a solution? $10,000? $1,000,000?
-- Where have I let a lack of resources become the roadblock for my resourcefulness?
-- How could I solve this problem by suspending some of the "rules" (as I know them) and fighting a guerrilla war?
-- What great "strategies" have I hatched in the past that are viable but are not getting executed?
-
+  - What is the problem I am trying to solve? (Not the symptom. THE problem! Go brush up on Core Discipline of Thinking #2.)
+  - What is the obstacle or challenge that is preventing me from being where I want to be and achieving what I want to achieve?
+  - Is the strategy we currently have not working because it is a strategy we are not consistently executing on, or is it a bad strategy? 
+  - How much of my lack of progress is a result of a lack of consistent execution?
+  - Where have I built a strategy that we simply cannot (or will not) execute?
+  - What can I do today to improve my situation?
+  - What are the existing (or easily acquired) resources, strengths, and underutilized assets at my disposal?
+  - What would I do if I only had $1,000 to spend on a solution? $10,000? $1,000,000?
+  - Where have I let a lack of resources become the roadblock for my resourcefulness?
+  - How could I solve this problem by suspending some of the "rules" (as I know them) and fighting a guerrilla war?
+  - What great "strategies" have I hatched in the past that are viable but are not getting executed?
 
 # STRATEGIC GROWTH
 
-•Understanding Point A and Point B gives you clarity about the gap you are dealing with. Clarifying the gap is critical because residing in this gap is the obstacle that is preventing forward progress from here to there. All obstacles are in the gap between where you are and where you want to be. If you cannot identify a gap, the obstacle isn't even on your radar.
-•You can't create a strategy or prioritize your resources until you have clarity on the opportunity and the obstacles preventing progress toward the attainment of that opportunity (outcome).
-• A strategy is the idea about what needs to happen to overcome the obstacle preventing forward progress. Without clarity about the core
+- Understanding Point A and Point B gives you clarity about the gap you are dealing with. Clarifying the gap is critical because residing in this gap is the obstacle that is preventing forward progress from here to there. All obstacles are in the gap between where you are and where you want to be. If you cannot identify a gap, the obstacle isn't even on your radar.
+- You can't create a strategy or prioritize your resources until you have clarity on the opportunity and the obstacles preventing progress toward the attainment of that opportunity (outcome).
+- A strategy is the idea about what needs to happen to overcome the obstacle preventing forward progress. Without clarity about the core
 problem (the obstacle), a plan (the specific action steps required to implement the strategy) is a waste of time.
-.This "buy a bigger bullhorn, find a taller mountain, and scream it at the top of your lungs" approach is a poor substitute for a razor-sharp focus on market segments and on discovering the true pain/problem your product or service solves.
-•We want to minimize the brain damage of becoming a "me too" business with no meaningful competitive promise and, therefore, an inability to articulate a valid reason for the customer to make the switch from a competitor to you. I will remind you that differentiation is not a promise.
-•You are running two businesses simultaneously: the one that is providing revenue today and the one that will generate revenue tomorrow. It is highly unlikely they are the same business. .Sustained success requires strategy. And strategy requires .clarity on the obstacle or problem;
-- a plan to overcome the obstacle;
-- a structure for the allocation of resources;
-• prioritization of time and activities; and - an analysis of risk.
-Marketing is about getting people to notice what you do. Execution is about doing something people will notice. Never assume it is all one and none of the other. Strategic growth requires both!
+- "stragetic growth" implies a willingness to realistically think through the existing internal assets and external needcs/pain that could define an opportunity for leveraged growth.
+- the concept of strategic growth is in sharp contrast to:
+  - **"Brute force growth** - which Proctor & Gamble and the remainder of the fortune 500 engage in. They have massive resources: time, money, consultants, and employees.
+  - **"Hopium" growth** - which counts on getting lucky and finding a few customers who buy, but never really quite understanding which market segment they represent or why those folks are buying. These customers tend to be very transient and are at high risk of being lured away by the competition.
+  - **"Tactical" growth** - which subscribes to the theory that increasing the size of the funnel, adding two new salespeople, doubling the conversion percentage, rebuilding the website, and initiating a social media campaign (all tactics) are the one-size-fits-all answer to all growth and revenue problems.
+  -** "Throw it against the wall and maybe something will stick" growth** - which relies on the erroneous belief that if you just turn on the faucet, hot water will eventually come out.
+- Strategic growth relies on a simple formula:
+  - **Internal Strengths + External Needs = Opportunity**
+  - Internal strengths require you to think, analyze, and question. 
+  - External needs force you to ask, probe, and listen.
+  - Opportunity is only available with structure.
+
+- Though this formula is not complicated, the execution of these steps to attain meaningful results is VERY intense and difficult, which is why business success is so elusive.
+  - **Step One:** The formula for strategic growth starts with internal strengths because no one has the time, money, or expertise to solve every problem the market faces. Without a realistic assessment of our internal leveragable assets, I might have the skills to create great software products but end up selling cheeseburgers because I found a pocket of people who were hungry. I probably know nothing about cheeseburgers and restaurants, but here I am because I didn't start my thinking process with what I know and am good at so I ended up where I didn't plan on landing.
+  - Knowing your strengths and assets is key to strategic growth. A thorough review of your underutilized assets and points of leverage is the critical jumping-off point for designing a strategic growth initiative.
+  - **Step Two:** You must perform a thorough assessment of the marketplace, the external environment, and the competition. It is critical to realize that the market is not one huge mass but rather a collection of small, sometimes tiny groups of people who have a common, but specific, problem (need/pain). Chances are there is a common denominator for penetrating this target market cost-effectively. They probably have a similar definition of success,
+    - We are all aware that you can do the right thing at the wrong time; consequently, paying careful attention to the environment is equally critical in the external assessment process.
+    - Knowing the competition-particularly where the gaps are between what your competitors are doing and where their customers are frustrated-is vital to strategic growth. (The chapter "O Baby!" vividly illustrates this point.) Knowing precisely what the competition is good at and why customers are currently buying from them is a must in researching your strategic growth opportunities.
+    - We want to minimize the brain damage of becoming a "me too" business with no meaningful competitive promise and, therefore, an inability to articulate a valid reason for the customer to make the switch from a competitor to you. I will remind you that differentiation is not a promise.
+  - **Step Three:** Integrating your internal leveragable strengths with the reality of the external needs/pains/gaps in the market defines the opportunity you should consider pursuing. Part of this analysis requires you to think in terms of buyer segments (niche) and the common denominators these segments will possess.
+    - The opportunity will also give you optics about the level of investment required to pursue a given segment. To make any new opportunity financially successful will require a certain organizational structure and leadership as well as specific skill sets and expertise. You will possibly need to augment your team or incur certain risks to turn this possible opportunity into reality. Clarity on what you are good at (and can leverage) plus clarity on the needs of the target customers and the competition that is currently servicing them equals clarity about the opportunity to strategically grow your business with minimum wasted motion, resources, and dumb tax.
+    - Of equal value is an acute understanding of where the market is going. In effect, you are running two businesses simultaneously: the one that is providing revenue today and the one that will generate revenue tomorrow. It is highly unlikely they are the same business. The difference will be what happens externally to cause the transition and what you do internally to respond.
+
+- This "buy a bigger bullhorn, find a taller mountain, and scream it at the top of your lungs" approach is a poor substitute for a razor-sharp focus on market segments and on discovering the true pain/problem your product or service solves.
+
+- Sustained success requires strategy. And strategy requires 
+  - clarity on the obstacle or problem;
+  - a plan to overcome the obstacle;
+  - a structure for the allocation of resources;
+  - prioritization of time and activities; and - an analysis of risk.
+
+- Marketing is about getting people to notice what you do. Execution is about doing something people will notice. Never assume it is all one and none of the other. Strategic growth requires both!
+
+- **Thinking Time**
+  - **Internal Strengths (Under-leveraged Assets)**
+    - What special or core skills, expertise, knowledge, strengths, and competencies do we have?
+    - Do we have any special or leveragable relationships or alliances in our customer list or network of contacts and associates that could influence (or give us access to) groups of potential target buyers?
+    - What are the key alliances, testimonials, or "influencer" relationships we have (or could develop) that would influence potential buyers? 
+    - Competitively, why do customers buy from us? Why isn't this strength sufficient to cause more potential buyers to stop doing business with our competition and to start doing business with us? 
+    - What is the key positioning statement or compelling promise of our brand?
+    - What is the excess capacity we currently have or excess resources we currently enjoy that are underutilized?
+  - **External Needs (Environment-Competition-Pain)**
+    - Different buyers have different outcomes, priorities, and definitions of "success." Since we cannot be strong everywhere, what is the niche I need to focus on that has a problem/pain I can solve?
+    - What are the primary pains/problems within this market?
+    - What is this market most afraid of or frustrated about?
+    - Where is this group of customers frustrated by the gap between what they want and what the competition is delivering?
+    - What specific problem do they need to have solved?
+    - What is the primary gain this target market wants to get?
+    - People buy products to meet a need. What is their motivating need? •Where is our competition weak or deficient in delivering the outcomes and value ("success proposition") this target market demands?
+    - Who are the decision makers, and what is the best way to access and communicate with them?
+    - Are there any unique circumstances or market segments that would require special communication or decision-making considerations?
+    -  Are there any attractive market segments I could penetrate by finding a large group of potential customers that have a common problem and are already in close proximity? (In other words, under the theory that birds of a feather flock together, if I am selling running socks, can I access the local running club or get an endorsement from the National Joggers Association?)
+
+  - **Opportunity**
+    -  Based on our internal leveragable strengths and the external competitive environment, what are the specific ripe market segments we have identified as an ideal target customer?
+    - How is this target different from our current customer base? .What are the additional resources (money, manpower, skill sets, marketing, and expertise) we need to acquire to successfully get traction with or penetrate this market segment?
+    - Does our organizational chart have some holes/upgrades that need to be filled in light of this new strategic opportunity?
+    - What risks does this new opportunity represent? What could go wrong? How much capital needs to be invested to adequately fund this opportunity? Can I live with the consequences should these risks occur?
+    - What is the clear positioning statement and compelling promise that must be communicated to the target market segment?
+    - What are the specific communication channels required to successfully reach the decision makers?
+    - What are the core activities that must be prioritized to ensure the success of this growth initiative?
+    - What are the noncore activities that need to be eliminated or deprioritized?
+    - What are the clear strategic priorities (projects) that must be implemented this quarter?
+    - What are we optimizing for?
+    - What are the specific numerical targets this new initiative is projected to achieve?
 
 # SYSTEMS VS. FLEXIBILITY
 .Systems foster the illusion of "safe."
