@@ -628,7 +628,7 @@ tags: ["realestateinvesting", "financialindependence"]
     - not making that much money from the house
     - been dealing with tenants for years.
 
-- **build in exit strategies**
+- **built-in exit strategies**
   
   - **wrap exit strategies**
     - First, you can take a property subject-to or seller finance or a hybrid model or an agreement for sale, and you can sell those as a wrap. You're wrapper initial terms with your own terms (higher interest rates, higher price, higher down payment)
@@ -636,6 +636,46 @@ tags: ["realestateinvesting", "financialindependence"]
     - your purchase agreement should give you 30-90 days to find a buyer, assuming you're in position where you can't maintain the property or don't want that hassle for this particular deal.
     - you can make money from higher down payment, from higher interest rates (higher cashflow), from financing to another buyer.
     - the best part: you still make monthly cash flow even though you no longer own the property, and you don't get involved with maintaining/operating the house
+  
+  - **lease option exit strategies**
+    - initial deal is 145000 mortgage as seller subject-to deal.
+    - advertise the deal on marketplace and some bandit signs (cheap, handwritten signs placed around tow) to find a lease option tenant buyer. They agreed to pay $185000 (it is calculated based on after-repair value (ARV) of $165000 and then the appreciation value over 5 years) for the property with an option fee of $10000, a lease payment of $1350, plus a five-year option to buy.
+    - from the seller's perspective, she gets positive cash flow of $513 monthly ($1350 - $837), plus she get the ownership of the property and the tax benefits of the property.
+    - why would the buyer want to lease the property for an extended period of time, in this case, 5 years.
+      - the tenant likely has been paying rent for some time and they've moved due to any number of reasons: community, work, their kid's school and so on.
+      - with the lease option, the tenant can lock in that rate even though it's more expensive the first year.
+      - the lease option tenant buyer have an option to buy, they can save some money and they have the option to buy after 5 years.
+      - or maybe the tenants couldn't borrow the mortgage
+    - does $10000 option fee get refunded if they choose not to buy? No
+    - will that $10K option fee go toward the overall purchase price? No. It's only meant to secure the option to buy
+    - do the payments of $1350 to toward the purchase price? it depends on the tenant perspective and the buyer
+    - like any of the exit strategies, the overall goal is cash flow, but you need to decide what works best for you, the seller, and the buyer when you're making these types of deals. Solve problems, create value. Try to be fair with everybody, and look for situations where everybody walks away content with the deal.
+  
+  - **sub-tail exit strategies and novation agreements**
+    - subject-to-retail. You get to own the property temporarily, then flip it on the retail market.
+    - you're going to see a lot of novation agreements, which is the process where the original contract is extinguished and replaced with another contract and a third party.
+    - typically, you can talk the owner in to subject-to (or keep the debt in place for the remainder of the flip) to avoid all of the lender fees and you only need to raise private money for the renovation.
+    - what's the difference between sub-tail and a novation agreement?
+      - on a sub-tail, you close escrow and take ownership of the property. The seller gets their money up front and they're no longer attached to teh deal. On a novation agreement, everybody gets paid at the end. The real difference is whether you want to be the owner of the property.
+
+  - **traditional rental exit strategies**
+    - subject-to, seller finance, hybrid wraps, lease options, agreement for sale.
+    - prefer SRRR (sub-to, rehab, rent, repeat) compared to BRRR (buy, rehab, rent, refinance)
+    - you must consider vacant months and any additional marketing you have to do to get a renter
+    - You're going to have to worry about these properties all the time. Renters trash houses and there's possibility of frequent turnover, evictions, and other headaches.
+  
+  - **group home exit strategies**
+    - "group home" is general term for assisted living and behavioral health homes.
+    - it's more complicated/bureaucratic with government oversight or that require a full-time staff or nurses.
+    - these homes can be bought subject-to and reach out CBI (community bridges, Inc) or PIR (partners in recovery) help you fill these homes with those in need (mental needs, physical needs).
+      - they will not only tell you where to start and how to run this business, but they'll also recommend other group home business owners whom you might be able to wholesale to if you decide not to manage the home yourself.
+  
+  - **vacation rental exit strategies**
+    - it's easy to oversaturate a market and there's always the possibility of something like COVID-19 pandemic happening and leaving your with pile of mortgages and little income.
+    - if you don't want to deal with customers, you can find an airbnb experts and you can pay her a certain amounts per home per month to handles everything.
+    - the first rule of doing an airbnb is to base everything on the rental rate. If you can't cash flow at the rental rate, you shouldn't take on the property.
+    - the second rule is that you need to have capital. You have to market and furnish and maintain the property. 
+    - third, you should get a partner. Work with someone who knows what they're doing because the airbnb model can be a lot of work, if you can get someone to manage the property and share the profits with, then that's a good situation. Then you don't have to work on assigning cleaners, responding when the Wi-Fi goes out, and all those other little pesky tasks.
 
 - It is important to have an inspection done on the property you are about to buy. The purpose of the inspection is to inform you of any problems that may need to be fixed, and to give an accurate assessment of how much it would cost to do so. 
  
