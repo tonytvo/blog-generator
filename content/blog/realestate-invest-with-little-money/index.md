@@ -618,8 +618,25 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # due diligence
 
-- Every state has their own specific way of closing a real estate deal, and the process varies from state to state. 
- 
+- **why are sellers open to creative finance?**
+  - sellers can spread the tax costs over multiple years
+  - sellers can collect steady income monthly (like a bank)
+  - what's the walk away money that sellers want
+  - with seller financing, depending on terms (down payment, interest rates), the seller can get the higher price for the house
+  - sellers has some pain points such as:
+    - unpermitted addition
+    - not making that much money from the house
+    - been dealing with tenants for years.
+
+- **build in exit strategies**
+  
+  - **wrap exit strategies**
+    - First, you can take a property subject-to or seller finance or a hybrid model or an agreement for sale, and you can sell those as a wrap. You're wrapper initial terms with your own terms (higher interest rates, higher price, higher down payment)
+    - you can't use a wrap for a lease option or a novation agreement or a note, because you don't own the property. You can only wrap a deal when you own the deal.
+    - your purchase agreement should give you 30-90 days to find a buyer, assuming you're in position where you can't maintain the property or don't want that hassle for this particular deal.
+    - you can make money from higher down payment, from higher interest rates (higher cashflow), from financing to another buyer.
+    - the best part: you still make monthly cash flow even though you no longer own the property, and you don't get involved with maintaining/operating the house
+
 - It is important to have an inspection done on the property you are about to buy. The purpose of the inspection is to inform you of any problems that may need to be fixed, and to give an accurate assessment of how much it would cost to do so. 
  
 - Some buyers discover serious problems during a home inspection, and in that case, they must either abandon the deal or renegotiate with the sellers to address the problem. Retreating is the practice of renegotiating a deal after discovering something during the due diligence process. 
