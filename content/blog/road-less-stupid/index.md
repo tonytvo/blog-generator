@@ -870,6 +870,219 @@ I don't see the problem or the need to shift strategies?
   - Where is our business in pain (or what are the bottlenecks/choke points) and, based on this answer, what needs to be done to alleviate this pain?
   - What have we been doing or thinking that we need to stop or change in order to accelerate our growth and profits?
 
+# YOU, INC.
+
+. You cannot have financial freedom without financial discipline. .Every rich person I know has a job to do at the company they work for. And every one of these successful people "owns" their job. Sometimes the job they own is for a company they own and sometimes the job they own is for a business controlled by others. Either way, they have taken ownership of their work-the work performed and the outcomes produced. The job, like everything else in their life, is an extension of their identity and the narrative they have created about who they are and how they will perform their work.
+• Great business owners aren't born with business knowledge. The successful ones studied, practiced, and mastered the art and science of business leadership, leverage, planning, and measurement. If you happen to have "business Owner" as one of the jobs you need to perform, you will need to learn the skills of business ownership in addition to the skills of your profession.
+.If YOU, Inc. were a publicly held company with stockholders, would your stock price be rising, falling, or treading water?
+
+# KEEPING THE LUG NUTS TIGHT
+
+.Systems are wonderful for creating consistency but rarely result in excellence.
+.Keeping the lug nuts tight is a cultural issue, not a systems problem. A culture that loses focus on training, has an unwillingness to measure, and has an aversion to holding people accountable will always result in lost productivity and loose lug nuts.
+
+# THE APOLOGY
+
+.If the culture in your business is to change, then it will start with you apologizing to your employees.
+
+# HOW AM I GOING TO PLAY THE SECOND HALF?
+
+.The key to mastering the art of living starts with defining your vision of excellence!
+.There is a big difference between success and excellence. Success is getting there. Excellence is staying there.
+
+# EXECUTION
+.The success of all strategies ultimately depends on execution. You can have the greatest strategy in the world, but if the strategy is not consistently executed, it will fail. The obvious corollary is that a poor strategy perfectly executed will also fail.
+
+- Time is the enemy of choices. The shorter the time, the fewer the choices.
+. Start where you are. Don't let perfect get in the way of possible. Or as my dad used to tell me, "Shiny shoes don't help you walk any faster." I'll say this a different way: the goal is not to get the anchor all the way back into the boat. To make forward progress, we only need to get it a quarter of an inch off the bottom.
+. A good idea for you could be a bad idea for me. It depends on our respective ability, resources, and willingness to consistently execute.
+
+# STRATEGIC GROWTH
+
+•Understanding Point A and Point B gives you clarity about the gap you are dealing with. Clarifying the gap is critical because residing in this gap is the obstacle that is preventing forward progress from here to there. All obstacles are in the gap between where you are and where you want to be. If you cannot identify a gap, the obstacle isn't even on your radar.
+•You can't create a strategy or prioritize your resources until you have clarity on the opportunity and the obstacles preventing progress toward the attainment of that opportunity (outcome).
+• A strategy is the idea about what needs to happen to overcome the obstacle preventing forward progress. Without clarity about the core
+problem (the obstacle), a plan (the specific action steps required to implement the strategy) is a waste of time.
+.This "buy a bigger bullhorn, find a taller mountain, and scream it at the top of your lungs" approach is a poor substitute for a razor-sharp focus on market segments and on discovering the true pain/problem your product or service solves.
+•We want to minimize the brain damage of becoming a "me too" business with no meaningful competitive promise and, therefore, an inability to articulate a valid reason for the customer to make the switch from a competitor to you. I will remind you that differentiation is not a promise.
+•You are running two businesses simultaneously: the one that is providing revenue today and the one that will generate revenue tomorrow. It is highly unlikely they are the same business. .Sustained success requires strategy. And strategy requires .clarity on the obstacle or problem;
+- a plan to overcome the obstacle;
+- a structure for the allocation of resources;
+• prioritization of time and activities; and - an analysis of risk.
+Marketing is about getting people to notice what you do. Execution is about doing something people will notice. Never assume it is all one and none of the other. Strategic growth requires both!
+
+# SYSTEMS VS. FLEXIBILITY
+.Systems foster the illusion of "safe."
+. When the environment changes, which it seems to be doing with ever- greater frequency and severity, the old way of doing things is a killer. . Correlation is not causation. God is love. Love is blind. Ray Charles is blind... but that doesn't make Ray Charles God.
+• Systems are great at draining an organization of passion and flexibility. Use them carefully or you will pay a very heavy dumb tax. Besides, how can you deliver exceptional service if you are unwilling to make exceptions? Who do you know that doesn't want to be the exception to all the stupid rules and policies we are forced to deal with on a daily basis? I rest my case.
+
+# CORRECTING THE BUSINESS MODEL
+- I suspect you are like me and most other business owners I know who have decided to grow our businesses in an attempt to become more successful. And, like me, you have occasionally experienced less profitability and cash flow as a result of that flurry of activity. Outgrowing your business model is usually visible when your machine starts to rattle or inefficiencies pop up, resulting in smaller bottom line profits and more drama. That's a sure sign you have a business model problem, not a marketing challenge.
+
+# INDIGESTION (1 + 1 = 2)
+. Hand-crank businesses (low leverage, no machine) consume resources and are difficult to profitably scale.
+.Everything requires maintenance to avoid decomposition and decay. •Most businesses die of indigestion, not starvation. Pouring gasoline into a hand crank does not produce progress; it starts fires.
+
+# IF YOU WANT TO GROW...
+.The mistake most of us make in the hope of boosting sales is to keep flogging our products to new markets using new communication and messaging tactics.
+.The only way you can describe the difference between you and everybody else who wants their business is to have a granular understanding of what your competitors do and how what you do is meaningfully different. You must be able to tell a customer: "This is what we do and here is why this is important and unique. Other venders do not do this; they do that. If you want that, you should buy from them. If you want this, you should buy from us."
+• Value created but not delivered is of no value. Value delivered but not perceived is of no value. In other words, it does no good to wink at a pretty girl with the lights out... you're the only one who knows what you did. If you want to get noticed, turn the lights on.
+
+
+•Honing your conversion technique or initiating a social media and SEO strategy is not the same as clarity about:
+.what customers (current and potential) want;
+.what they are afraid of;
+.how they define success;
+- how we message the difference that makes the difference; and ⚫ what solution must be designed, promised, and delivered to exceed their expectations and meet their definition of success. As Peter Drucker insightfully suggested, "The customer rarely buys what the business thinks it is selling."
+•Few growth strategies are more powerful than giving the customer certainty of success.
+
+# ON VS. IN
+. The problem is NOT that they are in their business, however; rather, the problem is that they have not learned the critical business skills required to make the shift from "Operator" to "Owner." They haven't learned how to prioritize, allocate resources, hire, delegate, leverage, create a culture, read financial statements, create processes, build the structure, and install dashboards, accountability, and critical drivers. It's not that they don't want to; it's that no one ever taught them how. .The moment you "disengage" from your business, you have shifted
+from "Owner" to "Investor," and now there needs to be someone else in the business to run things.
+
+# NOT ALL RISKS ARE CREATED EQUAL
+• Not all progress is measured by ground gained. Sometimes progress is measured by losses avoided.
+. The key to avoiding losses is minimizing risk. The prerequisite to minimizing risk is identifying and understanding it in all its forms.
+. When you think about what could go wrong, you dramatically increase the odds of creating something that will go right.
+
+# THE TRIANGLE OF DEATH
+. The customer has the only vote on whether or not that promise was delivered.
+. The power of designing your success proposition is that it will not only communicate to the target market your promise but also dictate the internal priorities and skill sets you must master to deliver that promise.
+. It's hard to be the low-cost provider if you are not the low-cost producer! (Or, as one of my mentors told me forty years ago, "Price is only important when quality is an insufficient substitute.")
+. It is rare (if not impossible) to find a business that delivers the highest
+
+quality, in the shortest period of time, at the lowest price, and has a world-class customer experience process.
+•You can't be important everywhere, so be important where it counts.
+
+# MOMMAS LOVE THEIR BABIES
+•You and your customers are in a relationship. Relationships tend to work best when the focus is on meeting the needs of the other party,
+not our own.
+•You can have a crappy product and still become über successful. It's not about the product!
+• Your success will have very little to do with what you do and everything to do with how you do it. Never, ever forget that.
+. Instead of falling in love with our products, we would all be more successful if we fell in love with our customers and their outcomes!
+
+# PRIORITIZING GROWTH STRATEGIES
+• It makes no sense to try to get more when you are not optimizing what you've already got. I'll repeat that: It. Makes. No. Sense.
+.The genius of a great business is a maniacal focus on the customer and his outcomes, frustrations, and success.
+• Sustainable growth requires two things: keeping the customers you've got, and adding new ones.
+• Mastery = Practicing the right thing in an effort to get better. When the training stops, so does the progress. Candidly, I have found that I am not talented or smart enough to be unprepared.
+Increasing revenue and sabotaging profits is a formula for poor.
+. Optimize before you maximize.
+.Getting big is the result of success. Success is not the result of getting big. One of your jobs is to carefully consider the various strategies available to you for growing your business. Lurching for the "more leads" lever is rarely the best or most effective alternative. •Developing a strategy to grow revenue is important, but growing revenue without growing profits and cash flow is dumb. Successful businesses have figured out how to do both.
+
+# CREATING ENTERPRISE VALUE
+. A business that is exitable at the highest possible value has an Owner that obsessed about the predictability and sustainability of the future stream of earnings.
+•Regardless of the decision to sell or not, the path to maximizing the enterprise value and creating exitability remains the same: Grow the earnings and control risks.
+.The things that can go wrong are the things that jeopardize the enterprise value and exitability.
+• Do not confuse sustainability with stability. Volatility is not synonymous with risk.
+. Regardless of your firefighting expertise, knowing where the gasoline is stored prior to the fire is critical to preventing the building from exploding in the event of an ill-conceived match.
+Minimizing the internal and external risks and how these risks impact the predictability and sustainability of your future stream of earning is critical to the value of your business and your ultimate exitability as an Owner.
+
+# IT'S NOT ABOUT THE PLAN
+• The value of planning is the clarity of being able to explain your strategy and blueprint to increase your level of financial success in the current environment, which is very different from being able to explain how the current environment has impacted your level of financial success. One is planning and the other is a justification.
+• You are executing on an idea if there is no plan, which never ends well. A flurry of tactical activities to move the needle is the formula for drama and chaos.
+. If you cannot get clarity on the plan to achieve the outcome, change the outcome. Even with a plan, you probably will not hit the bull's-eye, but at least you will not end up in a graveyard.
+
+# MY BIGGEST PROBLEM IS...
+- Everyone wants to go to heaven, no one wants to die. There is no success without sacrifice.
+. Being addicted to learning is critical to success... but so is being addicted to the business end of a shovel. Problems deferred are problems magnified.
+
+# OPTIONS ANALYSIS MATRIX
+•All choices require a trade-off and sacrifice. You can have almost anything you want... you just can't have everything you want.
+• The key to successful options analysis is to actually see your choices in a comparative format. Trying to weigh the pros and cons of each choice in your head is a fool's game that inevitably leads to a dumb (inferior) choice.
+
+# CAUSE AND EFFECT
+. Whenever the effect is missing, so is the cause. Execute and manage the cause and the effect will take care of itself.
+.The hard part is not envisioning the outcome or setting the goal. It's figuring out what needs to change and consistently executed to reach this outcome. If you know what needs to change and get executed, you know what needs to be measured. These are your critical drivers. Execute on the critical drivers and close the gap.
+
+# WHAT GETS MEASURED IS...
+• What gets measured is what gets done. What gets measured is
+what gets managed. What gets measured and reported can improve exponentially.
+
+# THE GREAT QUESTION
+• All activities consume resources. You can't shift priorities without simultaneously shifting resources.
+. We tend to default into thinking that lots of things are important and that narrowing our priorities down to just a few is impossible or unrealistic, given all the stuff that needs attention. Let me assure you it's not. My rule is: Start fewer things, finish more things.
+.The great question is: "What am I optimizing for? In other words, what is the one major that, if accomplished, would have the most significant impact on my business?"
+
+# ADVICE FROM THE CHAIRMAN OF THE BOARD
+.It turns out that the key to getting rich is to avoid doing stupid things. The vast majority of dumb tax in both of our lives is a direct result of emotional and optimistic decisions.
+• Operators react and sweat. Owners think and plan.
+.If the Owner of the team made his decisions by first sitting through a pep rally from a motivational coach, we would have a very enthusiastic Owner with no money. No exceptions. Owners and members of a Board of Directors do not work themselves into an emotional frenzy prior to a Board meeting. Ever!
+. Skepticism and thinking are your best friends when sitting in the Owner's box.
+. Every business is just one bad decision away from a financial disaster. .Doubling the horsepower of the engine in your car or substituting rocket fuel for your unleaded gas will not enable the car to go two times faster. Scaling mediocrity produces bigger piles of mediocrity, not success. Always optimize first.
+. Growth is what you say "yes" to. Success is what you say "no" to. The hardest thing in business is figuring out what to say "no" to. Warren Buffett said it best: "The difference between successful people and very successful people is that very successful people say no to almost everything."
+. Scaling a hand-crank process does not result in more bottom line profits. It results in more "crankers."
+.The first step in self-delusion is denial. Where are we running with scissors?
+•Risks and facts don't cease to exist just because I ignore them, and thinking that risk is under control is the greatest risk there is.
+• As CEO, your job is to carefully and selectively prioritize the few key strategies and initiatives that will optimize the financial performance of the business while simultaneously leveraging the resources available. Prioritize the things that aren't in place but, if they were, would make the biggest difference to the business.
+. Courage is a key ingredient for leadership. In fact, every failure of leadership has at its root a lack of courage.
+⚫A Board of Directors knows that a plan that requires you to dodge all the bullets to be successful is not a plan; it's a hallucination.
+• Business is an intellectual sport. We make the mistake of believing we can somehow get rich or become successful by
+- being passionate enough;
+wanting it desperately enough;
+• visualizing it long enough;
+- believing that we are entitled enough;
+.being talented enough; and/or working hard enough.
+It doesn't work that way. Passion and desire might produce a willingness to persist, but they do not teach the skills and tools to create the success. The advice (and book) Do What You Love, The Money Will Follow is as stupid as it is destructive. This is analogous to saying, "Eat What You Want and Be Skinny."
+• Investing is about the future, and the future is unknown (by everyone). Believing with all your heart, staring in the mirror, telling yourself how special you are, and mustering all the certainty you can access
+that the future is a sure thing do not cause it to be so... ever. Do not make the mistake of confusing certainty with clarity; they are two different things!
+- Here is the real "secret": The chance of success goes up when you think, plan, consistently execute the right things, and worry about the possibility of loss.
+
+# ONE LAST THING
+
+• Pleasure is about stimulating the senses. Happiness is found by being grateful for what I've got. Success is getting what I want. Fulfillment is giving what I've got.
+
+# INVITATION TO A BOARD OF DIRECTORS
+
+## KEYS TO THE VAULT
+
+The following is a sample invitation sent to business owners and CEOs to join our Board of Directors.
+
+Making the critical decision to work on the business end of your business for the next year, to really dig into your business and think about where and how you want to drive it going forward, is significant. Having me and a group of smart people support you in your thinking/planning process so that you can get better optics, question assumptions, create robust choices, make great decisions, avoid the "dumb tax," execute consistently, and have the accountability required to make sustainable progress will result in significant insights, solutions, stabilization, and growth.
+
+### OUTCOMES AND BENEFITS
+
+Here is the truth: If you want to go somewhere you have never been, it is a great idea to have a guide. "Pin the Tail on the Donkey" (trial and error) is a stupid way to try to become successful at anything.
+
+Think about the following: What costs me money is "What Don't I See?" What none of us can see are our assumptions about our "good" ideas. We tend to be astonishingly optimistic in our thinking and plans. The initial optimism and subsequent problems are closely linked. The culprit is not having enough wise voices in the conversation.
+
+When I look at the majority of my problems, the common denominator was having only one voice in my head when the decision was made... mine. The truth is, adding additional voices to the conversation (advice, counsel, best practices, tough questions, optics, insights, and wisdom from other smart people) is mandatory if we expect to achieve our full potential and maximize our results. Without the advice and additional voices, we commit the most fatal of mistakes going the wrong direction enthusiastically.
+
+We both have had the experience of getting stuck, being confused and uncertain about which decision must be made or what direction to take to best optimize our results. One of the outcomes of a Board is to provide clarity and act as a sounding board for its members. Too many entrepreneurs and business owners rely on the formula of "My Idea My Experience." Unfortunately, this formula is a prescription for disaster. Everyone needs the benefit of fresh insights and the best practices of other business people who bring new perspectives and ideas to our problems.
+
+A sustainably successful business requires an additional set of discriminating eyes to help identify the risks and 2nd-order consequences of our decisions and plans. We need optics and insights to identify areas where
+
+we could be structured differently or restructured and streamlined so we can grow and optimize our results. My view is that all of us need as many ideas as possible about the challenges we are facing. In fact, my experience is this: The best way to have a great idea is to have a lot of ideas and then to pick the best one. I intend to contribute to both.
+As you may or may not know, I have extensive and significant experience in doing this kind of work, most of which involves $3 million to $150 million/ year businesses. I have been the CEO and/or founder as well as the hired-gun turnaround expert for numerous (>20) businesses in multiple industries, so I am confident about the impact I will have on your business decisions.
+
+One of the major keys to my success has been to surround myself with advisors who not only watch for obstacles, icebergs, detours, or looming problems but also tell me the truth and hold me accountable. Making plans and annual budgets is one thing, but the best business owners in the world are fanatics at measuring and accountability. If you don't want to measure, you don't want to be held accountable.
+
+One of the problems we all have in business is that since we created the machine we currently have, it is often difficult for us to see how to tweak or rebuild or reinvent our machine without the help of an outsider's perspective so that we can produce superior results. Further, environmental changes (the economy, competition, consumer preferences, regulations, etc.) can create states of disequilibrium that require an outside perspective to identify root problems/solutions that are virtually impossible for the Creator to see. Finally, every business has slippage, meaning that over time things just kind
+of evolve. One day you wake up and look at what you have created and decide this isn't exactly what you intended, so a change is required.
+
+All business owners and entrepreneurs have a common problem: how to build a qualified group of advisors who will help counsel, watch, direct, set strategic direction, monitor execution, and progress toward the objectives and goals of the business as well as generate new ideas to build, grow, market, expand, and diversify their businesses. What most entrepreneurs end up with is either no advisors or a couple of local, well-known successful businesspeople who, if you're lucky, agree to attend a couple of meetings per year to approve the minutes from the last meeting, the annual budgets, the new bank financing, the stock option plan, the officers' annual compensation plan, and then adjourn, eat lunch, and play some golf. Not exactly what I need when I'm trying to run and optimize my businesses.
+
+Participating in a peer group setting and working on other people's business problems is a great way to get clear on issues and ideas that will support you and your business. Our Board of Directors is designed to be your business advisors. I believe the most powerful business decision I ever made was to intentionally work with a peer group for advice, optics, and accountability.
+
+### PROCESS
+
+At each Board meeting, each member (15 people/Board) will have an opportunity to present his or her business and its situation, opportunities, issues, and problems. Your Board, acting in an advisory capacity, will help you identify, evaluate, and resolve outstanding issues and problems, generate new ideas and solutions, avoid doing something stupid (the dreaded dumb tax), as well as hold you accountable for your plan as the year progresses. I will act as the moderator and Chairman for these discussions as well as be an active participant in all the discussions.
+
+Your Board will evaluate your numbers, your business plans, your marketing, your niche, and your team as well as help you identify new markets and growth opportunities. Nothing with respect to your business and its success will be off-limits. We will advise you on what we see that might be obstacles to your future growth and how you could significantly accelerate your progress and profits. We will ask you tough questions and get you to look at the most fundamental issues of your business.
+
+### A WORD OF CAUTION
+
+Obviously, this type of meeting is designed for people who are interested in dramatically increasing the size and efficiency of their business while simultaneously avoiding disaster. People who are not yet in business, need massive psychological counseling, are trying to figure out what to do with their life, or are interested in being "passive" are not candidates for the Board. This is not a seminar but rather a working business meeting in which we facilitate the discussion, growth, and sustainable optimization of each member's business.
+
+You will be expected to take your participation very seriously. You will be expected to prepare and circulate an agenda and progress report for each meeting just like you would for any other critical business meeting. You will be expected to contribute to each of your fellow members' discussions and to be active and thought-provoking in your participation. You will be expected to call it tight and say what needs to be said. I repeat: This is not a seminar. It is a business meeting at the highest level, so do not expect to be passive, to be spoon-fed, or to attend unprepared.
+
+The Board of Directors is not for the faint of heart, the "toe dippers," or the undecided. If you know you require highly discriminating advice and counsel on an extremely personal and customized basis; if you want to dramatically grow your business and develop new strategies and execution techniques; if you know there are solutions to your problems but you don't know which one is the best track for you and your business; if you need to generate new ideas and strategies; and if you know that being held accountable is THE key to your success; then the Board of Directors is the perfect opportunity!
+
+I know of no better way to maximize and optimize the financial results of your business than to surround yourself with a Board who will ask that you step up and play at the highest level for one year.
+
+Thank you again for your commitment to yourself and your growth and for your trust and confidence in me! I have been through this process numerous times with other people, so you will be in very good hands.
+
+I look forward to working with you at the highest level.
 
 # Importance of capital allocation
 
