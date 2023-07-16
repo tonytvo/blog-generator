@@ -761,34 +761,115 @@ I don't see the problem or the need to shift strategies?
   - Where do we need to improve our execution so that we are more competitive in the marketplace?
 
 # THE ONLY CONSTANT IN BUSINESS IS...
-. The only constant in business is change.
-. The reason companies lose relevance, go broke, or fade into the sunset is because they continue to grow, but fail to evolve. They rely on the wrong questions and old answers. Great questions, an open mind, flexibility, and a healthy dose of paranoia are your best friends in business. No business is safe: 435 of the Fortune 500 (87%) from 1955 are now gone... disappeared... kaput. The business environment kept on changing requiring a different set of answers-and they didn't come up with a better question. Stupid!
+- The only constant in business is change.
+- The reason companies lose relevance, go broke, or fade into the sunset is because they continue to grow, but fail to evolve. They rely on the wrong questions and old answers. Great questions, an open mind, flexibility, and a healthy dose of paranoia are your best friends in business. No business is safe: 435 of the Fortune 500 (87%) from 1955 are now gone... disappeared... kaput. The business environment kept on changing requiring a different set of answers-and they didn't come up with a better question. Stupid!
+
+- **Thinking Time**
+  - Where has the environment in which we've been operating
+  (economic, technology, regulatory, competition, customer
+  preferences, employees, cultural) changed over the last few years?
+  - How are customers' expectations different today than they were two or five years ago?
+  - What will customers' expectations be twelve months from now? . Where has our expertise (relevance) as a company lagged or stagnated in the last thirty-six months?
+  - What skills or personnel do we need to add to excel at what we do, shift our direction, and optimize our bottom line?
+  - What is happening competitively that could change what we sell, how it is sold, the price we charge, and where/how/what we message? • Are we learning, training, and evolving as fast as things are changing?
+  - Based on the answer to the questions above, what do we need to learn, who do we need to hire, what do we need to change to remain relevant and competitive?
 
 # EVERYTHING COUNTS
-. When I see this kind of poor performance on a consistent basis, it can only be a result of one of four things:
-. Incompetent and uncaring employees (This is a hiring and culture issue.)
-.A lack of training
-. No measurements or accountability
-.A lack of supervision
-.A discount for future services as compensation for poor performance
-on past services is analogous to getting salmonella at a restaurant and the restaurant owner offering me a free dessert the next time I eat there. I already got sick from this ill-conceived trip, and your idea of helping me get over the food poisoning is to offer a token discount on my next trip?
+- When I see this kind of poor performance on a consistent basis, it can only be a result of one of four things:
+  - Incompetent and uncaring employees (This is a hiring and culture issue.)
+  - A lack of training
+  - No measurements or accountability
+  - A lack of supervision
+  - A discount for future services as compensation for poor performance on past services is analogous to getting salmonella at a restaurant and the restaurant owner offering me a free dessert the next time I eat there. I already got sick from this ill-conceived trip, and your idea of helping me get over the food poisoning is to offer a token discount on my next trip?
+
+- **Thinking Time**
+  - In the last year, how many people tried us and never came back? .How much did that lack of repeat business cost us in incremental revenue and profitability?
+  - If everything counts and nothing is neutral, where are we missing the mark on delivering on our promise and meeting our customers' expectations?
+  - How can I be certain that our team is performing to our standards? • How can I make sure we are consistently executing and meeting our customers' expectations?
+  - What is our commitment to training and how can I be sure the training we offer is getting the traction and implementation I expect? . What can cause our customers to not come back and what are we doing as a management team to prevent customer defection?
+  - What can we do to get the honest assessment from our customers about their experience so that we can minimize the likelihood of a customer firing us because of substandard performance?
+  - What are our "cold eggs and untoasted English muffin" that are sabotaging our customers' experience? NOW... Go Think! You will thank me later.
+
 
 # THE 3 PILLARS OF SUCCESS
-• We make promises to ourselves, but we break them with alarming regularity. For some reason, promises we make to ourselves are less sacred than the promises we make to others. Having an accountability partner who will hold you to your commitments is a key ingredient to making sustainable progress and for success. Someone who will tell you the truth; someone who will not buy into your cheap excuses for why you fell off the wagon or didn't get the job done; someone to tell you "no."
-.The higher you go or the better you want to get, the greater the requirement to have someone in your life who will hold you accountable and tell you the truth.
+
+- 1. **Write down your major outcomes every day.** You will notice I did not use the word "goals." In our culture, a goal has become synonymous with a wish. "I wish my profits were $10,000/month higher. Oh, I'll make that my new goal." I do not think we need to get better at goal setting. I think we need to get better at setting nonnegotiable standards. Writing and rewriting your most significant outcomes (major objectives, not "To Do" list items) forces you to focus on the most critical things that need to be worked on and accomplished. It's a tragedy to major in minor things.
+- 2. **Plan your day before it starts.** This simply means you sit down with your calendar and think about the most critical action items you must knock out today. Make sure your calendar reflects your priorities every day. Progress is not built by doing something huge but rather by consistently doing ordinary things.
+- 3. **Be accountable to someone for your plans, commitments, and results**. Having an accountability partner who will hold you to your commitments is a key ingredient to making sustainable progress and for success. Someone who will tell you the truth; someone who will not buy into your cheap excuses for why you fell off the wagon or didn't get the job done; someone to tell you "no."
+
+- The higher you go or the better you want to get, the greater the requirement to have someone in your life who will hold you accountable and tell you the truth.
+
+- **Thinking Time**
+  - What are the one or two major outcomes and deliverables I am prepared to commit to achieving this quarter? This year?
+  - What are the business outcomes and results I am prepared to make nonnegotiable?
+  - What would prevent me from finding an extra five minutes every morning (before I turn on my computer) to write down my major outcomes and plan my day before it starts? How could I create a ritual for this so that I didn't miss for ninety days?
+  - What are the specific priorities and executables I must focus on and get on my calendar to create the momentum and results I have planned?
+  - I know that guardrails and rules help me avoid feeding every kitty scratching at my screen door. What are the most frequent reasons my calendar gets hijacked, and what guardrails do I need to build to keep these intruders from sabotaging my day?
+  - Who have I given permission to tell me the truth and hold me accountable?
+  - How frequently will I check in with this person?
+  - Am I willing to tell this person the truth so that he has the
+  opportunity to coach me?
+  - Am I ready to play this game to win, or do I want to keep dabbling... hoping to get lucky? What does that look like, specifically?
+
 
 # THE ADVANTAGE OF BEING SMALL
-.The only things "small" has going for it are flexibility and intimacy of relationships.
-• Survival requires more curiosity and less arrogance; more humility and less need to be right; better questions and fewer answers. SIMPLIFYING GROWTH
-. The reason we gravitate to a tactical answer is because we are hardwired to get busy... to do something... to take action. The illusion we live with is that being active is synonymous with being productive. Dumb!
-. Who do I want to buy from me?
-. What must happen to cause them to buy?
-. What must happen to keep them coming back?
-• What could happen to cause them not to buy?
+  - The only things "small" has going for it are flexibility and intimacy of relationships.
+  - Survival requires more curiosity and less arrogance; more humility and less need to be right; better questions and fewer answers. 
+
+- Be careful, though. Small destroys its only competitive advantage by attempting to emulate the big guys when it comes to these areas:
+  - **Establish committees** - The unwilling appoint the unfit to do the unnecessary.
+  - **Govern by consensus** - Always produces mediocrity.
+  - **Create standardized systems to ensure compliance and uniformity** - Drains excitement and flexibility. ("Systems vs. Flexibility" has lots on this topic if you're interested-and you should be.)
+  - **Abdicate decision making to accommodate the lowest common denominator** - Compromise is the enemy of excellence.
+  - **Optimize for safe and no ripples** - Promotes the status quo. 
+  - **Attempt to grow by casually pleasing the masses instead of deeply pleasing the niche** - Homogenizes your product, service, and brand to the point they will be indistinguishable from everyone else's.
+  - **Design "paint by number," standardized, year-end annual employee evaluations forms and processes** - Misses the point of coaching the performance and potential of your employees.
+  - **Allow HR to decide whom we hire and how we onboard, communicate, manage, compensate, and lead our employees** - Institutionalizes the relationship by turning employees into cogs in a machine.
+  - **Optimize for standardization** - Forfeits relationships and intimacy. 
+  - **Lower standards out of fear of hurting someone's feelings** - Destroys culture and creates mediocrity.
+
+- **Thinking Time**
+  - Where have I allowed my business to abandon the advantages of being small?
+  - Where have I encouraged/tolerated systems and standardization as a substitute for intimacy and relationship?
+  - Where could I inject some flexibility back into how we are doing business?
+  - Where do I sense a shift in the market that I have been afraid to investigate because of an irrational fear that it might disrupt what we are currently doing?
+  - What are the things we should be doing if I weren't so afraid of losing?
+  - How can I test these ideas in a small way so that in case it is a bad idea, it doesn't torpedo the mother ship?
+  - What assumptions am I making about the current environment and my competition that, if wrong, would cause me significant economic distress?
+  - What is the competitive advantage we have relied on to attract and retain customers? What could erode or undermine this advantage? • Knowing what I know about my business, if I decided to compete with myself, what would I do to put a major dent in my company? • Where am I hanging on to strategies and solutions that were great answers in a different environment?
+  - What question do I need to ask to discover our vulnerability to a changing environment?
+  - What do we need to measure to have optics about what is changing?
+
+# SIMPLIFYING GROWTH
+
+- The reason we gravitate to a tactical answer is because we are hardwired to get busy... to do something... to take action. The illusion we live with is that being active is synonymous with being productive. Dumb!
+
+- **Thinking Time**
+  - Who do I want to buy from me?
+  - What must happen to cause them to buy?
+  - What must happen to keep them coming back?
+  - What could happen to cause them not to buy?
 
 # THE BATHROBE THEORY OF BUSINESS: WHEN A GOOD IDEA ISN'T
-. In our desire for certainty, a map, and familiar landmarks, we tend to look for patterns that will tell us a story and provide an illusion of safety. An inability or unwillingness to distinguish between the story and the facts, however, has caused more than a few bankruptcies.
-• Business is not a bathrobe. One size does not fit all. Different problems in different environments for different people at different stages of development require different solutions. Never ask an encyclopedia salesman if you need an encyclopedia. He has the kind of one-size-fits all mentality that will wreck your business
+
+- In our desire for certainty, a map, and familiar landmarks, we tend to look for patterns that will tell us a story and provide an illusion of safety. An inability or unwillingness to distinguish between the story and the facts, however, has caused more than a few bankruptcies.
+
+- Business is not a bathrobe. One size does not fit all. Different problems in different environments for different people at different stages of development require different solutions. Never ask an encyclopedia salesman if you need an encyclopedia. He has the kind of one-size-fits all mentality that will wreck your business
+
+- **Thinking Time**
+  - Where are we relying on the story and not the facts?
+  - Where have we been "sold" (or are currently implementing) a solution for the problem that isn't?
+  - What solutions are we currently executing that are no longer relevant, given the shift in the environment over the last three to five years? (For a tragic real-world illustration of this mistake, read the chapter "Mann Gulch.")
+  - Where have we made the fatal mistake of attempting to move away from our problems instead of fixing them?
+  - Where are we relying on "experts" to sell us solutions instead of first identifying the core problem that needs to be solved?
+  - Where are we throwing resources at the problem instead of resourcefulness?
+  - What solution have we created that is not working because we don't have the skill set, experience, or bandwidth to successfully execute? . What are the obvious problems we are experiencing and what needs to be done about them?
+  - What opportunities in front of me require additional knowledge or new skills?
+  - What are those skills and where can I best acquire them?
+  - Where are the life-threatening problems we are experiencing and what needs to be done to course-correct, fix them, or reduce the risks ASAP?
+  - Where is our business in pain (or what are the bottlenecks/choke points) and, based on this answer, what needs to be done to alleviate this pain?
+  - What have we been doing or thinking that we need to stop or change in order to accelerate our growth and profits?
+
 
 # Importance of capital allocation
 
