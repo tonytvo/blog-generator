@@ -638,33 +638,23 @@ I don't see the problem or the need to shift strategies?
     - Often the goal setter compares her business to her friends' or competitors' to decide what goal to set, or she finds what's wrong and fantasizes about what the business would be like if she was there and not here. In other words, this type of goal setting makes where she is bad (wrong) and what she wants good (right). Being critical or judgmental about your current conditions is a guaranteed way to create massive unhappiness. What I am suggesting is that a dose of gratitude be injected into the process, because everything is not "bad" We all have a long list of things to be grateful for. Never say, "It can't get any worse," because it can get a lot worse. I love H. Ross Perot's definition of an entrepreneur: "Someone who is grateful for the progress that has been made and simultaneously dissatisfied with the rate they are making it."
     - We know that having clarity on both Point A and Point B is critical to success. We also know that overcoming some obstacle that is preventing attainment of this outcome is fundamental to success. Amazon has been particularly adept at walking this fine line with its willingness to invest, make mistakes, learn, and adjust to match the demand in the market.
 
-﻿
+  - Take a look at where you are in your life today. Chances are these three things are true:
+    1. Where you are today is beyond your wildest dreams compared to what you thought was possible when you were eighteen years old.
+    2. The route you took to get here was totally unpredictable from your vantage point as an eighteen-year-old.
+    3. The path that got you here was anything but linear or planned. If your life even remotely resembles mine, your path to this point is the most convoluted and tortuous route imaginable. Yet, here I am!
 
-much you love what you have created. The market wants a problem solved or a gap filled. When they tell you what that is, create that! (See both "Mommas Love Their Babies" and "O Baby!" for practical guidelines about attracting and retaining customers.)
-The balance between the founder's dreams and the market's demand is delicate because abandoning the dream prematurely to pursue the next new shiny penny is dumb. Most things take longer to accomplish than originally estimated. On the other hand, hanging on long after the fat lady has cleared her throat is suicidal.
-The key is to be aware of opportunities that present themselves along the way which might not look the way you originally envisioned but are a superior path from here to there.
-Most exceptionally successful people probably ended up in the vicinity of where they thought they were going, but the path (or product) that got them there was circuitous. They achieved their success by remaining nimble, inquisitive, and responsive to the opportunities that came their way even when those opportunities were not what they expected (or originally planned).
-Take a look at where you are in your life today. Chances are these three things are true:
-1. Where you are today is beyond your wildest dreams compared to what you thought was possible when you were eighteen years old.
-2. The route you took to get here was totally unpredictable from your vantage point as an eighteen-year-old.
-3. The path that got you here was anything but linear or planned. If your life even remotely resembles mine, your path to this point is the most convoluted and tortuous route imaginable. Yet, here I am!
-How did you get here? It certainly wasn't massive expertise in goal setting, as important as that might be to you. It was a willingness to create, engage with the market, learn from your mistakes, and be responsive to opportunities after the journey started vs. obsessively grinding on the original dream. It was allowing for the possibility of something different from the original form you envisioned.
-Thinking Time
-. When I think about the outcomes (goals) we have set for the coming quarter or year, where do I need to get clarity about my starting point in terms of environment, resources, competition, etc.?
-. Who can I ask to help me think through our reality so that I minimize the likelihood of tricking myself about our starting point or current capabilities?
-. What is the specific path/plan we have designed to move us from here to there, and what additional color or specificity do I need to add to this path to make it executable?
-
-﻿
-
-. What would it take to transition our plans from "shoulds" (wouldn't it be nice if...) to "musts" (failure is not an option)?
-• What are the hard decisions and actions I have been postponing in the irrational hope I can "goal" it away?
-• What are the nonnegotiable standards we must establish?
-• What am I tolerating in my business that is sabotaging my results or
-that is incongruent with my standards?
-• How do we build in the accountability required for the critical driver standards and outcomes we have committed to achieving?
-. What is the specificity I need to add to our plan so that everyone on the team has a clear, measurable metric (target) they are shooting for? • What are the specific causes I must identify that will enable the effect I want to happen?
-• What have we done well and what am I grateful for?
-• What are the unexpected opportunities that are being presented that might move us in the direction we want but don't look the way we thought they would look? (Where is there a gaggle of quacking ducks?)
+- **Thinking Time**
+  - When I think about the outcomes (goals) we have set for the coming quarter or year, where do I need to get clarity about my starting point in terms of environment, resources, competition, etc.?
+  - Who can I ask to help me think through our reality so that I minimize the likelihood of tricking myself about our starting point or current capabilities?
+  - What is the specific path/plan we have designed to move us from here to there, and what additional color or specificity do I need to add to this path to make it executable?
+  - What would it take to transition our plans from "shoulds" (wouldn't it be nice if...) to "musts" (failure is not an option)?
+  - What are the hard decisions and actions I have been postponing in the irrational hope I can "goal" it away?
+  - What are the nonnegotiable standards we must establish?
+  - What am I tolerating in my business that is sabotaging my results or that is incongruent with my standards?
+  - How do we build in the accountability required for the critical driver standards and outcomes we have committed to achieving?
+  - What is the specificity I need to add to our plan so that everyone on the team has a clear, measurable metric (target) they are shooting for? • What are the specific causes I must identify that will enable the effect I want to happen?
+  - What have we done well and what am I grateful for?
+  - What are the unexpected opportunities that are being presented that might move us in the direction we want but don't look the way we thought they would look? (Where is there a gaggle of quacking ducks?)
 
 
 # THE BIG 8
