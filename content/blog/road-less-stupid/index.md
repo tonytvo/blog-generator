@@ -1080,9 +1080,32 @@ problem (the obstacle), a plan (the specific action steps required to implement 
     - What are the specific numerical targets this new initiative is projected to achieve?
 
 # SYSTEMS VS. FLEXIBILITY
-.Systems foster the illusion of "safe."
-. When the environment changes, which it seems to be doing with ever- greater frequency and severity, the old way of doing things is a killer. . Correlation is not causation. God is love. Love is blind. Ray Charles is blind... but that doesn't make Ray Charles God.
-• Systems are great at draining an organization of passion and flexibility. Use them carefully or you will pay a very heavy dumb tax. Besides, how can you deliver exceptional service if you are unwilling to make exceptions? Who do you know that doesn't want to be the exception to all the stupid rules and policies we are forced to deal with on a daily basis? I rest my case.
+
+- Systems foster the illusion of "safe."
+- When the environment changes, which it seems to be doing with ever-greater frequency and severity, the old way of doing things is a killer. 
+- Correlation is not causation. God is love. Love is blind. Ray Charles is blind... but that doesn't make Ray Charles God.
+- Systems are great at draining an organization of passion and flexibility. Use them carefully or you will pay a very heavy dumb tax. Besides, how can you deliver exceptional service if you are unwilling to make exceptions? Who do you know that doesn't want to be the exception to all the stupid rules and policies we are forced to deal with on a daily basis? I rest my case.
+
+- When systems get overcooked or put on steroids, the result is painful for customers and employees alike and, ultimately, profits. You know this is true because you have experienced it:
+  - red tape
+  - not my job
+  - limited flexibility
+  - zero passion
+  - no curiosity or proactive learning
+  - the intensity of a sloth
+
+- **Thinking Time**
+  - Where have I allowed "our process" and way of doing things to become more important than the customer?
+  - If I honestly assess the attitude of my employees, where have I let the system be more important than their spirit?
+  - Where have I allowed a reliance on systems and perks to be a substitute for culture?
+  - Where have I allowed a reliance on systems to be a substitute for learning and education?
+  - Where do we need to start making exceptions to be exceptional? • How do we need to change our processes or systems so that we're more  customer-centric?
+  - Where have we allowed an internal focus on systems replace an external focus on our customers' needs and convenience? 
+  - Where could I give my employees an opportunity to grow, learn, and contribute their ideas so they would engage in their work at a deeper level?
+  - Where could I allow our employees to be self-directed and in greater control of their processes and outcomes?
+  - Where have we relied on policy manuals to be a substitute for training and trust?
+  - Where am I letting the need to do it "my way" or the "right way" get in the way of meeting my employees' needs and my customers' expectations?
+  - Where have we stopped learning and grown calcified because of a system that either needs to be abandoned or seriously tweaked? 
 
 # CORRECTING THE BUSINESS MODEL
 - I suspect you are like me and most other business owners I know who have decided to grow our businesses in an attempt to become more successful. And, like me, you have occasionally experienced less profitability and cash flow as a result of that flurry of activity. Outgrowing your business model is usually visible when your machine starts to rattle or inefficiencies pop up, resulting in smaller bottom line profits and more drama. That's a sure sign you have a business model problem, not a marketing challenge.
