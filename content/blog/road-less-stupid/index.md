@@ -1108,7 +1108,25 @@ problem (the obstacle), a plan (the specific action steps required to implement 
   - Where have we stopped learning and grown calcified because of a system that either needs to be abandoned or seriously tweaked? 
 
 # CORRECTING THE BUSINESS MODEL
+
+- A business model asks five questions:
+  1. How many resources (time-effort-money) have to be invested? 
+  2. Over what period of time?
+  3. To produce what volume of revenue?
+  4. Is that revenue adequate to cover the costs of creating and servicing that revenue stream with enough left over to justify the effort and risk?
+  5. Are the investors (who allocated the resources in #1 above) provided with a superior return on their investment in the desired time frame?
+
 - I suspect you are like me and most other business owners I know who have decided to grow our businesses in an attempt to become more successful. And, like me, you have occasionally experienced less profitability and cash flow as a result of that flurry of activity. Outgrowing your business model is usually visible when your machine starts to rattle or inefficiencies pop up, resulting in smaller bottom line profits and more drama. That's a sure sign you have a business model problem, not a marketing challenge.
+
+- **Thinking Time**
+  - Why isn't my business more profitable on the amount of sales I am currently producing?
+  - Where are we incurring costs that do not support either keeping the customers we've got or getting new ones?
+  - Where is the investment I am making excessive for the returns I am achieving?
+  - What must happen to reduce the investment and simultaneously increase the returns?
+  - Is it possible I need to tweak my business model by redesigning the machine?
+  - Knowing what I now know, if I could start with a blank piece of paper, what machine would I design and how would I run this business?
+  - If my Board of Directors fired me and brought in a new CEO, what changes would she make?
+
 
 # INDIGESTION (1 + 1 = 2)
 . Hand-crank businesses (low leverage, no machine) consume resources and are difficult to profitably scale.
