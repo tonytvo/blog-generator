@@ -1129,8 +1129,17 @@ problem (the obstacle), a plan (the specific action steps required to implement 
 
 
 # INDIGESTION (1 + 1 = 2)
-. Hand-crank businesses (low leverage, no machine) consume resources and are difficult to profitably scale.
-.Everything requires maintenance to avoid decomposition and decay. •Most businesses die of indigestion, not starvation. Pouring gasoline into a hand crank does not produce progress; it starts fires.
+- Hand-crank businesses (low leverage, no machine) consume resources and are difficult to profitably scale.
+- Everything requires maintenance to avoid decomposition and decay.
+- Most businesses die of indigestion, not starvation. Pouring gasoline into a hand crank does not produce progress; it starts fires.
+
+- **Thinking Time**
+  - When I look back at the last few years, where have we made the mistake of adding new without simultaneously protecting the old? What lessons do I need to learn?
+  - Where have I mistakenly assumed that our existing projects are self- sustaining and require little or no ongoing attention?
+  - What needs to happen to cause our "old" strategies to continue to perform at the current pace with less manual hand crank and adult supervision?
+  - What assumptions have I made about the continuity of our existing revenue stream if we shift our focus to this new opportunity?
+  - What processes, people, training, engine, or dashboards do I need to implement to ensure stability of the execution and results of business while we spin up the new thing?
+  - Where is our foundation wobbly or unstable in light of the growth we would like to drive?
 
 # IF YOU WANT TO GROW...
 .The mistake most of us make in the hope of boosting sales is to keep flogging our products to new markets using new communication and messaging tactics.
