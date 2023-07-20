@@ -1142,17 +1142,56 @@ problem (the obstacle), a plan (the specific action steps required to implement 
   - Where is our foundation wobbly or unstable in light of the growth we would like to drive?
 
 # IF YOU WANT TO GROW...
-.The mistake most of us make in the hope of boosting sales is to keep flogging our products to new markets using new communication and messaging tactics.
-.The only way you can describe the difference between you and everybody else who wants their business is to have a granular understanding of what your competitors do and how what you do is meaningfully different. You must be able to tell a customer: "This is what we do and here is why this is important and unique. Other venders do not do this; they do that. If you want that, you should buy from them. If you want this, you should buy from us."
-• Value created but not delivered is of no value. Value delivered but not perceived is of no value. In other words, it does no good to wink at a pretty girl with the lights out... you're the only one who knows what you did. If you want to get noticed, turn the lights on.
 
+- Potential customers in your target market who are familiar with your business but still have not bought from you are generally rejecting your solution for one of four reasons.
+  1. **Risk:** Target customers do not buy if they perceive a risk of failure or have a fear that your solution will not work for them. If they doubt that your product or service will work as effectively or efficiently as the product they are currently buying or that something could go wrong, they will not make the switch.
+  2. **Friction:** Sometimes potential customers do not buy because the brain damage associated with switching is too great. They look at all the friction costs that would be incurred and resources consumed in the set-up, retraining, installation, adoption, de-installation, breaking old habits, and implementation of new procedures and processes and realize the pain of the change is not worth the gain. Minimizing friction costs is a critical driver for growth.
+  3. **The Difference That Makes the Difference:** Confused customers rarely buy. If a potential customer does not have a clear understanding of what you can do for them that is meaningful/important and is not available elsewhere, they are unlikely to make the switch.
+  - Here is the key: The only way you can describe the difference between you and everybody else who wants their business is to have a granular understanding of what your competitors do and how what you do is meaningfully different. You must be able to tell a customer: "This is what we do and here is why this is important and unique. Other venders do not do this; they do that. If you want that, you should buy from them. If you want this, you should buy from us." (The ominously titled chapter "The Triangle of Death" underscores the risk of failing to communicate this message. You might also take a look at "Simplifying Growth" for additional thoughts on this subject.)
+  4. **Success Proposition:** Here it is on a bumper sticker: Value created but not delivered is of no value. Value delivered but not perceived is of no value. In other words, it does no good to wink at a pretty girl with the lights out...you're the only one who knows what you did. If you want to get noticed, turn the lights on.
 
-•Honing your conversion technique or initiating a social media and SEO strategy is not the same as clarity about:
-.what customers (current and potential) want;
-.what they are afraid of;
-.how they define success;
-- how we message the difference that makes the difference; and ⚫ what solution must be designed, promised, and delivered to exceed their expectations and meet their definition of success. As Peter Drucker insightfully suggested, "The customer rarely buys what the business thinks it is selling."
-•Few growth strategies are more powerful than giving the customer certainty of success.
+- People say no for a reason. Figuring out that reason is a major key to growing the top line. You and your sales team need to continually ask the questions "Why were we not a fit?" and "Why was someone else a better fit?"
+- Here's a hint: Honing your conversion technique or initiating a social media and SEO strategy is not the same as clarity about:
+  - what customers (current and potential) want;
+  - what they are afraid of;
+  - how they define success;
+  - how we message the difference that makes the difference; and .what solution must be designed, promised, and delivered to exceed their expectations and meet their definition of success.
+
+- As Peter Drucker insightfully suggested, "The customer rarely buys what the business thinks it is selling."
+Here it is on a bumper sticker: Few growth strategies are more powerful than giving the customer certainty of success.
+
+- The mistake most of us make in the hope of boosting sales is to keep flogging our products to new markets using new communication and messaging tactics.
+- Value created but not delivered is of no value. Value delivered but not perceived is of no value. In other words, it does no good to wink at a pretty girl with the lights out... you're the only one who knows what you did. If you want to get noticed, turn the lights on.
+
+- **Thinking Time**
+  - **General**
+    - Why aren't my sales 2X bigger than they are today (really)?
+    - Competitively, why do customers buy from us?
+    - What could happen to cause a potential customer to not buy from me?
+    - What can I do to eliminate these issues?
+
+  - **Risk**
+    - What is my competition messaging or doing that is causing my ideal target customer to do business with them and not with me?
+    - What specific risks, concerns, or fears do potential customers perceive that might be blocking their willingness to do business with me? . If I am asking a customer to stop doing business with someone else and to start doing business with us, what are the risks they are imagining in making this switch?
+
+  - **Friction**
+    - What are the specific friction points that cause customers to hesitate or decline doing business with us?
+    - How might these friction points be mitigated or addressed?
+    - What is the frictionless, compelling promise we should make? Is this promise clear, unique, and strong enough to cause them to switch to us?
+
+  - **The Difference That Makes the Difference**
+    - What is the DIFFERENCE that makes the DIFFERENCE to the unsold target buyer?
+    - Is this difference the difference that makes the difference...or is it something else?
+    - What is the one thing that would be the difference that makes the difference for our target market and cause these people to immediately understand why this difference is important and meaningful?
+    - Is the message (promise) we are delivering to potential clients clear on the solution we offer that the competition cannot or does not offer?
+    - How does this message need to be communicated more effectively?
+
+  - **Success Proposition**
+    - How (specifically) does the unsold buyer define "success"?
+    - Competitively, does the value we are delivering to the client exceed the price we are charging? How do we know? What needs to happen to be sure?
+    - What expectations do our target customers have?
+    - How do we meet these expectations more effectively than our competition?
+    - what much happen to meet/exceed the customers' expectations and cause them to experience certainty of success?
 
 # ON VS. IN
 . The problem is NOT that they are in their business, however; rather, the problem is that they have not learned the critical business skills required to make the shift from "Operator" to "Owner." They haven't learned how to prioritize, allocate resources, hire, delegate, leverage, create a culture, read financial statements, create processes, build the structure, and install dashboards, accountability, and critical drivers. It's not that they don't want to; it's that no one ever taught them how. .The moment you "disengage" from your business, you have shifted
