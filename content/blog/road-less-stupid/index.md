@@ -1194,8 +1194,20 @@ Here it is on a bumper sticker: Few growth strategies are more powerful than giv
     - what much happen to meet/exceed the customers' expectations and cause them to experience certainty of success?
 
 # ON VS. IN
-. The problem is NOT that they are in their business, however; rather, the problem is that they have not learned the critical business skills required to make the shift from "Operator" to "Owner." They haven't learned how to prioritize, allocate resources, hire, delegate, leverage, create a culture, read financial statements, create processes, build the structure, and install dashboards, accountability, and critical drivers. It's not that they don't want to; it's that no one ever taught them how. .The moment you "disengage" from your business, you have shifted
-from "Owner" to "Investor," and now there needs to be someone else in the business to run things.
+
+- The problem is NOT that they are in their business, however; rather, the problem is that they have not learned the critical business skills required to make the shift from "Operator" to "Owner." They haven't learned how to prioritize, allocate resources, hire, delegate, leverage, create a culture, read financial statements, create processes, build the structure, and install dashboards, accountability, and critical drivers. It's not that they don't want to; it's that no one ever taught them how. .The moment you "disengage" from your business, you have shifted
+
+- from "Owner" to "Investor," and now there needs to be someone else in the business to run things.
+
+- **Thinking Time**
+  - If I only had ... I could spend more time running my business instead of replacing the spark plugs and pumping the gas. 
+  - If I only could ... , I would have more time to run the business end of my business and make more money.
+  - Where am I confusing activity and sweat with productivity?
+  - What are the biggest time sucks and choke points that are preventing me from allocating an additional five hours per week to running the business end of my business?
+  - Knowing the choke points and having the funds to do something about it are two different problems. What are some creative (inexpensive) solutions that would move me in the right direction and alleviate some of the pain?
+  - What am I currently doing that should/could be outsourced or leveraged to someone else (even part-time) who actually enjoys and is good at the thing that is bogging me down, which would then free me up to do more of the critical, value-add, business Owner activities?
+  - What critical projects are languishing because I simply don't have the time to allocate to them and get them off the ground?
+  - What could I do in the next week that would improve this situation? • How can I prioritize my calendar to find an additional thirty minutes per day to chip away on the high-value projects?
 
 # NOT ALL RISKS ARE CREATED EQUAL
 • Not all progress is measured by ground gained. Sometimes progress is measured by losses avoided.
