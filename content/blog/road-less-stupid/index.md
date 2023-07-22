@@ -1210,9 +1210,68 @@ Here it is on a bumper sticker: Few growth strategies are more powerful than giv
   - What could I do in the next week that would improve this situation? • How can I prioritize my calendar to find an additional thirty minutes per day to chip away on the high-value projects?
 
 # NOT ALL RISKS ARE CREATED EQUAL
-• Not all progress is measured by ground gained. Sometimes progress is measured by losses avoided.
-. The key to avoiding losses is minimizing risk. The prerequisite to minimizing risk is identifying and understanding it in all its forms.
-. When you think about what could go wrong, you dramatically increase the odds of creating something that will go right.
+
+- Not all progress is measured by ground gained. Sometimes progress is measured by losses avoided.
+- The key to avoiding losses is minimizing risk. The prerequisite to minimizing risk is identifying and understanding it in all its forms.
+- Losses are the result of one of two things:
+  - **Something happening that wasn't supposed to happen.**
+  - **Something that was predicted to happen didn't happen.**
+
+- These are called risks. And all risks have three moving parts:
+  1. The probability of the risk occurring;
+  2. The cost if it does occur; and
+  3. The manageability or controllability of the risk identified.
+
+- When you think about what could go wrong, you dramatically increase the odds of creating something that will go right.
+## RISK ASSESSMENT TOOL
+
+- **Step #1**
+  - Make a complete list of all the risks specific to your situation, business, or investment. Think about all the things that could go wrong. For the purposes of this exercise, it does little good to think about the .01% stuff, like a terrorist attack while you are at the Super Bowl next year-the probability of which is pretty low. But it would make sense to think about someone hacking into your computers with ransomware. Brainstorming, creativity, suspension of beliefs, and brutal honesty are crucial to this exercise.
+  - A great way to do Step #1 is to write a "pre-mortem." You know that a postmortem is an autopsy to determine how the patient died. A pre-mortem is used before you make a decision to anticipate problems and their likelihood.
+  - ![risk assessment list](./risk-assessment-list.png)
+
+- **Step #2**
+  - Go back to the top of the list of risks you enumerated in Step #1. Using your best estimate, assign a probability of occurrence next to each risk and record this probability in the column marked Step #2.
+  - The probability of occurrence is expressed in a percentage. For example, if one of the risks you have identified is that interest rates will go up to at least 7% in the next three years, and you think the probability of that happening is 40%, then in column 2, next to that risk, write down "40%."
+  - For this exercise, do not worry about risks that have less than a 2% probability of occurring. These are remote risks. And, while they might occur, we have bigger fish to fry than the bottom 2%.
+  - After you have made an educated, realistic guesstimate about the probability of each risk occurring, highlight the Top 10 highest-probability risks (the ones with the highest estimated percentage). The Top 10 will be the ones for you to focus on for the remainder of this Risk Assessment exercise, because they are the ones that are most likely to happen.
+
+- **Step #3**
+  - For each Top 10 risk (only the Top 10), decide if the financial cost of that risk (should it occur) is low [1-3], medium [4-7], or high [8–10]. Then, using your best estimate, assign an estimated cost of occurrence numerical ranking (low, medium, or high) next to each Top 10 risk and record this numerical estimate (1-10) in the column marked Step #3.
+  - A low-cost risk [1-3] is analogous to having a piece of sand in your shoe. It irritates and is not much fun to deal with, but you can still walk and function at 90% capacity.
+  - A medium-cost risk [4-7] is like having a broken leg. Walking is impossible for the short term, but you are still mobile and can function, albeit at a much slower pace and with much greater effort than before you broke your leg. With a medium-cost risk, the incapacitation is for a limited period of time, but the limp is noticeable and changes the way you play the game.
+  - A high-cost risk [8–10] is a total game changer or even death. If this risk occurs, it is a major disruption to the business, a train wreck, or worst case- bankruptcy. At a bare minimum, a high-cost risk is paralysis that will require years of physical therapy to overcome.
+
+- **Step #4**
+  - For each Top 10 risk (only the Top 10), decide if the risk is controllable [1- 3], manageable [4-7], or uncontrollable [8–10]. Using your best realistic guess, assign an estimated manageability of occurrence numerical ranking (low, medium, or high) next to each Top 10 risk and record this numerical estimate (1-10) in the column marked Step #4.
+  - Controllable risks [1-3] are extremely rare because there is very little we can totally control, especially if there is risk attached to it. (I cannot control whether or not I am in an automobile accident, but I can control how fast I'm driving, if I'm wearing a seat belt, or if I'm texting while I drive.)
+  - Manageable risks [4-7] are risks I don't have complete total control over but I can influence or manage the likelihood of them happening or the cost if they do happen. I might not be able to control whether or not my best salesperson decides to leave for another job, but I can certainly influence her decision-making process with the compensation package, title, administrative support, culture, and feelings of importance and contribution to the business.
+  - Uncontrollable risks [8-10] are things like the economy, the price of oil, government regulations, interest rates, and the competition.
+
+  - Now draw the Risk Assessment bubble chart on the following page.
+    - ![risk assessment bubble](./risk-assessment-bubble.png)
+    - ![risk assessment bubble sample](./risk-assessment-bubble-sample.png)
+
+- Identifying and understanding each risk and the three moving parts of each risk-probability, cost, manageability is a primary job of any leader. Once identified, our job is threefold:
+  1. Shrink each circle by looking for ways to reduce the probability that each risk occurs.
+  2. Move each circle down the vertical axis by thinking about ways to mitigate the cost of the risk should it occur.
+  3. Move each circle toward the left by thinking about ways to control or manage the occurrence of the risk.
+
+- Taking risks is mandatory for progress. Nothing happens without taking a risk. The goal is not to eliminate risks (although that is always a pleasant fantasy) but rather to identify and understand them by questioning our assumptions, thinking through 2nd-order consequences, planning for problems, and minimizing/mitigating the costs and probability.
+The high value from this risk assessment thinking comes in the creation of asymmetrical returns in which the risks of a bad outcome are minimized and the upside return is maximized (thus minimizing the dreaded dumb tax). Let me leave you with this serious warning: If two or three fairly high-probability risks [7-10] are clustered in the upper right-hand corner of the bubble chart, run! Howard Marks (one of the world's most successful investors and the author of The Most Important Thing) said it best: "It is more important to ensure survival under negative outcomes than it is to predict maximum returns under favorable ones."
+
+- **Thinking Time**
+  - If I am truly serious about building a first-class defense and creating sustainable financial success, what are the Top 10 highest-probability risks I am facing right now?
+  - What is the probability of each risk occurring?
+  - What is the financial cost of each risk if it does occur?
+  - How controllable, manageable, or uncontrollable is each risk?
+  - What can I do to minimize the probability and cost and increase my ability to control or manage the occurrence of each risk?
+  - Where are we relying on a "dodge all the bullets" mentality to create our success?
+  - What assumptions have I made about these risks that are wishful thinking and simply untrue?
+  - How strong is our defense and what can I do to improve our odds? 
+  - Where have we suspended disbelief and ignored skepticism by telling ourselves a story that begins with, "We are different and the rules don't apply to us because..."?
+  - What are the 2nd- and 3rd-order consequences of my current plans and initiatives?
+  - Where have I let greed and optimism infect our assumptions about the future to the point that I am not identifying or minimizing our risks?
 
 # THE TRIANGLE OF DEATH
 . The customer has the only vote on whether or not that promise was delivered.
