@@ -872,14 +872,40 @@ I don't see the problem or the need to shift strategies?
 
 # YOU, INC.
 
-. You cannot have financial freedom without financial discipline. .Every rich person I know has a job to do at the company they work for. And every one of these successful people "owns" their job. Sometimes the job they own is for a company they own and sometimes the job they own is for a business controlled by others. Either way, they have taken ownership of their work-the work performed and the outcomes produced. The job, like everything else in their life, is an extension of their identity and the narrative they have created about who they are and how they will perform their work.
-• Great business owners aren't born with business knowledge. The successful ones studied, practiced, and mastered the art and science of business leadership, leverage, planning, and measurement. If you happen to have "business Owner" as one of the jobs you need to perform, you will need to learn the skills of business ownership in addition to the skills of your profession.
-.If YOU, Inc. were a publicly held company with stockholders, would your stock price be rising, falling, or treading water?
+- You cannot have financial freedom without financial discipline. 
+- Every rich person I know has a job to do at the company they work for. And every one of these successful people "owns" their job. Sometimes the job they own is for a company they own and sometimes the job they own is for a business controlled by others. Either way, they have taken ownership of their work-the work performed and the outcomes produced. The job, like everything else in their life, is an extension of their identity and the narrative they have created about who they are and how they will perform their work.
+- Great business owners aren't born with business knowledge. The successful ones studied, practiced, and mastered the art and science of business leadership, leverage, planning, and measurement. If you happen to have "business Owner" as one of the jobs you need to perform, you will need to learn the skills of business ownership in addition to the skills of your profession.
+- If YOU, Inc. were a publicly held company with stockholders, would your stock price be rising, falling, or treading water?
+- if I had a Board of Directors, would they give me a raise or would they fire me?
+
+- **Thinking Time**
+  - Where has the "job" mentality of comfort zone, path of least resistance, and "do the least expecting the most❞ crept into my thinking and performance?
+  - Where are the growth opportunities that I have been postponing because they require extra effort or are outside my comfort zone?
+  - What business skills do I need to learn so that I can create the leverage required to be a successful Owner? Who can I learn them from?
+  - How important is learning this business stuff and how fast do I need to learn it?
+  - Who do I have on my team that is performing at a level of "just enough to get by" instead of really stretching and going for the gold medal?
+  - How do I define excellence? Why shouldn't that standard be the standard I work toward regardless of my ownership percentage?
+  - If I had a Board of Directors, where do I need to pick up my game to deserve the raise (incremental profits) I am seeking?
+
 
 # KEEPING THE LUG NUTS TIGHT
 
-.Systems are wonderful for creating consistency but rarely result in excellence.
-.Keeping the lug nuts tight is a cultural issue, not a systems problem. A culture that loses focus on training, has an unwillingness to measure, and has an aversion to holding people accountable will always result in lost productivity and loose lug nuts.
+- without regular attention and maintenance, progress decays, advancement slows, and success erodes. This problem of natural deterioration is compounded by trhe well-known adage "success breeds complacency"
+- Systems are wonderful for creating consistency but rarely result in excellence.
+- Keeping the lug nuts tight is a cultural issue, not a systems problem. 
+  - A culture that loses focus on training, has an unwillingness to measure, and has an aversion to holding people accountable will always result in lost productivity and loose lug nuts.
+  - if integrity is at the core of an organization's culture, the lug nuts will stay tight. Most organizations think of integrity as ethics or truthfulness. I would like to offer an alternative definition: Integrity is doing what you said you would do or cleaning it up.
+
+- **Thinking Time**
+  - When I look back several years, what has changed (either internally or externally in the environment) that is impacting my results?
+  - What must I do to confront this issue, fix it, and keep it fixed?
+  - What are the internal pressures or changes that are impacting my ability to keep the lug nuts tight?
+  - Where do the lug nuts tend to get loose when we are stressed or near capacity?
+  - What problems are we repeatedly solving (or are remaining unsolved)?
+  - Where (exactly) has the culture of training, accountability, and integrity been sabotaged by an obsession with fixing the problems vs. keeping the problems fixed?
+  - In our quest for size and speed, what are the changes that have caused the foundation to crack and the fundamentals to erode?
+  - What changes must I make to our culture if these problems are to be fixed once and for all?
+  -I know there is a big difference between doing and done. What needs to be finished?
 
 # THE APOLOGY
 
