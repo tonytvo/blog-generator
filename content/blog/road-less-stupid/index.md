@@ -102,36 +102,38 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - finding the dash of paprika (a tiny mistake) ruining your pie requires careful thinking and close observation.
 
 # THINKING TIME: THE PROCESS
-- Designing a Thinking Time process that works for you will be no different than figuring out any other ritual you want to create. The time of day, the best location, and the optimum duration are all discovered through practice and experimentation until you have created a Thinking Time process that best supports your outcomes. The key here is to obsess about obtaining the outcomes and not about finding the perfect process!
 
-- step by step process/structure for each Thinking Time sessions
-  - great thinking time session requires a great question as the launching pad. Prior to my thinking time session, I will create and write down a question(s) I want to think about.
-    - create 3 to 5 questions that focus on a common thread or concern.
-    - sometimes, during actual thinking time session, change only 1 or 2 words in a querstion to see if I can get a different insight into the issue I'm thinking about. 
-      - For example, the original question might be: "Who is my target market?", might change this to "Who as my target market", I could tweak this question to: "Who is my competition's target market" that question could easily change to: "If I was starting again today, what market would I target?" I could add this question: "If I wanted to double my sales, what market would I target" This might morph into: "Why aren't my sales double what they are right now in the market I am currently targeting?"
-      - optimizing for possibilities (more questions, more possibilities) not completion
+- Designing a Thinking Time process that works for you will be no different than figuring out any other ritual you want to create. The time of day, the best location, and the optimum duration are all discovered through practice and experimentation until you have created a Thinking Time process that best supports your outcomes. The key here is to obsess about obtaining the outcomes and not finding the perfect process!
+
+- step-by-step process/structure for each Thinking Time session
+  - great thinking time session requires a great question as the launching pad. Before my thinking time session, I will create and write down a question(s) I want to consider.
+    - create 3 to 5 questions focusing on a common thread or concern.
+    - sometimes, during actual thinking time sessions, I change only 1 or 2 words in a question to see if I can get a different insight into the issue I'm thinking about. 
+      - For example, the original question might be: "Who is my target market?", I might change this to "Who is my target market", I could tweak this question to: "Who is my competition's target market" That question could easily change to: "If I was starting again today, what market would I target?" I could add this question: "If I wanted to double my sales, what market would I target" This might morph into: "Why aren't my sales double what they are right now in the market I am currently targeting?"
+      - optimizing for possibilities (more questions, more possibilities), not completion
     - clear calendar for 60 minutes, which will enable me to think for about three-quarters of an hour and then evaluate/sort the solutions and ideas I identified in the last 15 minutes or so
     - 3 possible scenarios for Thinking Time questions
-      - create new question
+      - create a new question
       - revisit a prior question that could use additional thought.
-      - use an answer from prior Thinking Time session as the basis for refining/fleshing out/changing the original question and searching for additional possible choices or variations on the theme.
+      - use an answer from a prior Thinking Time session as the basis for refining/fleshing out/changing the original question and searching for additional possible choices or variations on the theme.
     - for most of the questions, one Thinking Time session is insufficient, 
-      - it's hard to focus more than about 40 minutes
-      - usually think about same question in multiple Thinking Time sessions (2-3 is not uncommon) before finding out elegant answer that is worthy of execution.
+      - it's hard to focus for more than about 40 minutes
+      - usually think about the same question in multiple Thinking Time sessions (2-3 is not uncommon) before finding the elegant answer worthy of execution.
     - close the door, turn off the phones, and eliminate all noise and visual distractions. I sit in my chair (which does not face my computer or a window, where too many distractions and temptations pop up), question, pen, and big chief tablet in hand
     - set a timer on my computer alerts me when my Thinking Time has expired and keeps me from fidgeting and looking at my watch.
-    - right before I start, I sip my water, scratch what itches, go to the bathroom, clear my throat, and then sit perfectly still. I have found over the years that my body has the power to derail my thinking and break my concentration. To optimize the thinking process, I must lose touch with my body so that my train of concentration is totally uninterrupted. During my Thinking Time, I'm totally motionless except for my right hand, which is recording my thoughts.
+    - right before I start, I sip my water, scratch what itches, go to the bathroom, clear my throat, and sit perfectly still. I have found over the years that my body can derail my thinking and break my concentration. To optimize the thinking process, I must lose touch with my body so that my train of concentration is uninterrupted. During my Thinking Time, I'm motionless except for my right hand, which records my thoughts.
     - this is a creative process and not intended to be filtered or judged. If I hit a blank or gap in which nothing is flowing (or my mind starts wandering), I will silently re-ask myself the question I'm working on during the particular session. I might also silently ask myself,
       - what else could it be?
       - what could I do that would make this problem worse?
       - how would my competition solve this problem?
       - if I got fired and a new CEO took over, what decision would she make?
-    - I remind myself that I'm looking for ideas and possibilities, not perfection and absolutes. I attempt to avoid judging my ideas. The more judgment I have about an idea during the actual Thinking Time process, the less creative and more prejudiced I tend to be.
-    - remarkably, I have found my better ideas tend to emerge during a pattern known as the "third third" The first third of my ideas on any given day are typically the obvious ones. The second third are variations on the first third. But the last third tends to be the most robust and frequently are where the juice is found.
-    - At the conclusions of 40-45 minutes of Thinking Time. I will always take at least 15-20 mins to read what I have written and capture the best ideas I have uncovered (usually no more than 3)
+    - I remind myself that I'm looking for ideas and possibilities, not perfection and absolutes. I attempt to avoid judging my ideas. The more judgment I have about an idea during the Thinking Time process, the less creative and more prejudiced I tend to be.
+    - remarkably, I have found my better ideas tend to emerge during a pattern known as the "third third" The first third of my ideas on any given day are typically the obvious ones. The second third is a variation of the first third. But the last third tends to be the most robust and frequently where the juice is found.
+    - After 40-45 minutes of Thinking Time. I will always take at least 15-20 mins to read what I have written and capture the best ideas I have uncovered (usually no more than 3)
     - the key is to connect the dots, not just collect more dots. I have a separate file in which I keep my best ideas, insights, and distinctions. These ideas can become the basis for a future Thinking Time session or might need to marinate for a few days.
 
-- Fundamentally, Thinking Time is a structured process that enables me to minimize the risks, identify the opportunities, and maximize the results. That is a pretty high return for a very low-cost investment.
+- Fundamentally, Thinking Time is a structured process that enables me to minimize risks, identify opportunities, and maximize results. That is a pretty high return for a very low-cost investment.
+
 
 # MMM... KOOL-AID
 
