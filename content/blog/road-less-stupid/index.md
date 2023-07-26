@@ -153,79 +153,78 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 
 # THE 4 HATS OF BUSINESS
 
-- If your dream is to become rich in business, then mastering business skills is compulsory. Notice I did not say, "Improving your product or becoming a better plumber is compulsory." There's a big difference between winning the gold medal as the best plumber in the world
-(artistic and operational achievement) and winning the gold medal of making $1,000,000/year of bottom line profit as the Owner of a plumbing business (business success).
+- Mastering business skills is compulsory if your dream is to become rich in business. I did not say, "Improving your product or becoming a better plumber is compulsory." There's a big difference between winning the gold medal as the best plumber in the world
+(artistic and operational achievement) and winning the gold medal for making $1,000,000/year of bottom-line profit as the plumbing business owner (business success).
 - Believing passion and operational excellence will trump business skills and risk assessment is a guaranteed prescription for a breathtaking dumb tax.
-- The victim mentality of the what-you-see-is-what-you-get worldview is the perfect excuse to let you off the hook for taking responsibility for your business's outcomes and results. Don't let it. If you want business success, then learn the necessary business skills and tools. There
-is no such thing as a rich victim.
+- The victim mentality of the what-you-see-is-what-you-get worldview is the perfect excuse to let you off the hook for taking responsibility for your business's outcomes and results. Don't let it. If you want business success, learn the necessary business skills and tools. There is no such thing as a wealthy victim.
 
-- For the success of every business there are 4 different roles that must be played or present: Artist (Creator), Operator (Technician), Owner (Business), and Board (Investor)
+- For the success of every business four different roles must be played or present: Artist (Creator), Operator (Technician), Owner (Business), and Board (Investor)
 
-- Every new business always starts with the artist/creator hat or the operator/technician hat. For the former you are usually passionate about a new idea and you feel very pumped to take it to the world, while the latter usually has a skill and wants to showcase it to the world.
+- Every new business always starts with the artist/creator or operator/technician hat. For the former, you are usually passionate about a new idea and feel pumped to take it to the world, while the latter usually has a skill and wants to showcase it to the world.
 
 - the primary crisis of most start-ups and small businesses is usually cash, traction, or operational structure, any one of which causes the Owner (Business) and Board (investor) roles to be ignored.
 
-- The honest truth is that as the business grows the required skills to hone are the skills to run a business which include; talent management, reading financial statements, creating dashboards, allocating resources, measuring outcomes, leveraging, delegating duties etc. These skills and many more are the skills needed to take the business from the artistic and operator mindset to the mindset of a business owner, where the business really grows.
+- The truth is that as the business grows the required skills to hone are the skills to run a business which include; talent management, reading financial statements, creating dashboards, allocating resources, measuring outcomes, leveraging, delegating duties etc. These skills and many more are needed to take the business from the artistic and operator mindset to the mindset of a business owner, where the business grows.
 
-- Note that these four hats are always needed at different times throughout the life cycle of any business. You use/wear them as the need arises in your business and it allows you see he business from different angles/sides and make better informed business decisions.
+- Note that these four hats are always needed at different times throughout the life cycle of any business. Your use/wear them as the need arises in your business allows you to see the business from different angles/sides and make better-informed business decisions.
 
 - Having a hat for each role equips you to think about your business as a whole rather than just a set of discrete activities that must be performed –Keith Cunningham
 
-- Never allow these Hats (Artist, Operator, Business Owner, Investor) to define who you are or your ability. Its just a way of thinking that you switch to when needed.
+- Never allow these Hats (Artist, Operator, Business Owner, Investor) to define who you are or your ability. It's just a way of thinking that you switch to when needed.
 
 - These hats are interchangeable at will but require different mindsets and skills that must be brought to bear in running your business.
 
 - [4 hats of business](./4-hats-business.png)
 
 - **Artistic Hat:**
-  - He has a creative mindset and would always want to make changes to the product or service.
-  - They fall into the trap that the better they get at their craft, the better they are accepted in the market place and therefore more money.
-  - Companies like Mcdonalds have long left the artistic hat, in other words the taste of the burger has remained the same but the system of producing the burger has constant improvement among other things.
+  - He has a creative mindset and would always want to change the product or service.
+  - They fall into the trap that the better they get at their craft, the better they are accepted in the marketplace and therefore more money.
+  - Companies like Mcdonald's have long left the artistic hat, in other words, the taste of the burger has remained the same but the system of producing the burger has constant improvement among other things.
   - Unfortunately, growth and control work inversely. The more growth you desire, the less control you can have (and vice versa).
 
 
 - **Operator Hat**
 
-  - These people are enormous hard workers and they believe in adding value through time and  effort.
-  - They believe that the harder you work, the more money they make, which isn't totally true.
+  - These people are enormous hard workers who believe in adding value through time and effort.
+  - They believe that the harder you work, the more money they make, which isn't true.
   - They are crisis leaders who apply tactics rather than strategy.
-  - Fire fighters instead of fire preventers
+  - Firefighters instead of fire preventers
   - They don’t run the business; rather the business runs them,
-  - more often than not, when operator-drive business fail, it is because the operator has died of exhaustion.
+  - more often than not, when the operator-drive business fails, it is because the operator has died of exhaustion.
 
 - **Business Owner Hat**
 
-- They are usually engaged and involved in the planning, execution, measurement, and  corrections necessary to proactively lead and manage the business and employees.
+- They are usually involved in the planning, execution, measurement, and corrections necessary to lead and manage the business and employees proactively.
 - An owner puts systems and structures in place to keep the company afloat.
 - They focus on leverage to grow the business and are brutal about dashboards because it helps with measurements, accountability, meeting deadlines and delivering results. They use the above to run the business end of the business.
 - They also use the power of delegation to allocate resources where needed to grow the business.
-- Usually the CEO that takes this role
+- Usually, the CEO that takes this role
 
 - **Board (Investor) Hat**
 
-  - This is similar to the Business owners mind set and focuses more on strategy and growth.
+  - This is similar to the Business owner's mindset and focuses more on strategy and growth.
   - the key attributes are the abilities to question, probe, think sequentially, substitute rational thought for emotion, anticipate crisis, predict 2nd-order consequences, and identify risks.
-  - The majority of dumb taxes incurred are a direct result of having only one voice in the conversation when the original decision was made. Adding experienced, wise, thoughtful, trustworthy voices to the conversation exposes risks, curtails faulty assumptions, and minimizes stupid.
-  - a board of directors serves as a coach/trusted advisor to the CEO. How members of the board think and what they think about is something every CEO/Owner should emulate, whether or not they have a formal Board. The vast majority of large, successful companies added a board of directors early in their trajectory. Filling this vital role is an integral part of the journey that must be traveled to avoid misguided, overly enthusiastic, irrational lurches that create dub tax and slow value creation and growth.
-  - Its usually filled by a group of people that are not involved in the day to day activities of the business but rather have an outside-in look into the business.
+  - The majority of dumb taxes incurred directly result from having only one voice in the conversation when the original decision was made. Adding experienced, wise, thoughtful, trustworthy voices to the conversation exposes risks, curtails faulty assumptions, and minimizes stupid.
+  - a board of directors serves as the CEO's coach/trusted advisor. How members of the board think and what they think about is something every CEO/Owner should emulate, whether or not they have a formal Board. Most significant, successful companies added a board of directors early in their trajectory. Filling this vital role is an integral part of the journey that must be travelled to avoid misguided, overly enthusiastic, irrational lurches that create dub tax and slow value creation and growth.
+  - It's usually filled by a group of people that are not involved in the business's day-to-day activities but rather have an outside-in look into the business.
 
-  - Their purpose is to expose pit falls and curtail faulty assumptions and steer the company away from making costly mistakes.
+  - Their purpose is to expose pitfalls, curtail faulty assumptions, and steer the company from making costly mistakes.
 
-  - According to Keith Cunningham, The single best business decision you will ever make is to intentionally work with a peer group on a regular basis to question assumptions, ask hard questions (the kind you hope nobody will ask), alert you to icebergs, raise the bar, and push and hold you accountable.
-
+  - According to Keith Cunningham, The single best business decision you will ever make is to intentionally work with a peer group regularly to question assumptions, ask hard questions (the kind you hope nobody will ask), alert you to icebergs, raise the bar, and push and hold you accountable.
 
 - In summary. The Artist creates it, the Operator does it, the Business owner leads the team and the investor protects the business and keeps it alive,
 
 - **Thinking Time**
   - if my business could talk, what would it say?
-  - which hat has been my comfort zone and which hats are not getting worn often enough? For that matter, which hats do I not even own, and how can I acquire them?
-  - what, specifically, have I been ignoring about my business, and what specially needs to be corrected?
-  - what skills or tools do I need to learn (or who do I need to hire) to help me overcome the obvious obstacles that are restricting my growth, sales and profitability?
-  - what ares of my business could be delegated (or outsourced) to someone else (who is competent and has execution intelligence) to free me up to do the things that would add the most value?
+  - which hat has been my comfort zone and which are not getting worn often enough? For that matter, which hats do I not even own, and how can I acquire them?
+  - what, specifically, have I been ignoring about my business, and what needs to be corrected?
+  - what skills or tools do I need to learn (or who do I need to hire) to help me overcome the obstacles restricting my growth, sales and profitability?
+  - what areas of my business could be delegated (or outsourced) to someone else (who is competent and has execution intelligence) to free me up to do the things that would add the most value?
   - Artist Hat: What needs to be created?
   - Operator Hat: What needs to be done ...today?
   - Owner Hat: What needs to be structured? Measured? Planned? Delegated?
-  - Board Hat: What could go wrong? How can I mitigate the probability of that risk occurring and, if it does occur, reduce the cost?
+  - Board Hat: What could go wrong? How can I mitigate the probability of that risk occurring and reduce the cost if it does occur?
+
 
 # CULTURE IS KING (YOU GET WHAT YOU TOLERATE)
 
