@@ -1274,20 +1274,48 @@ The high value from this risk assessment thinking comes in the creation of asymm
   - Where have I let greed and optimism infect our assumptions about the future to the point that I am not identifying or minimizing our risks?
 
 # THE TRIANGLE OF DEATH
-. The customer has the only vote on whether or not that promise was delivered.
-. The power of designing your success proposition is that it will not only communicate to the target market your promise but also dictate the internal priorities and skill sets you must master to deliver that promise.
-. It's hard to be the low-cost provider if you are not the low-cost producer! (Or, as one of my mentors told me forty years ago, "Price is only important when quality is an insufficient substitute.")
-. It is rare (if not impossible) to find a business that delivers the highest
+- the core of any business strategy is the promise, made to the customer of how the business will deliver a unique mix of products, services and customer experiences. The customer has the only vote on whether or not that promise was delivered.
+- The power of designing your success proposition is that it will not only communicate to the target market your promise but also dictate the internal priorities and skill sets you must master to deliver that promise.
+- there are 3 primary success propositions:
+  - **operational excellence:** (home depot, walmart, mcdonald's) The internal focus is on costs, speed, and or quantity of selection It's hard to be the low-cost provider if you are not the low-cost producer! (Or, as one of my mentors told me forty years ago, "Price is only important when quality is an insufficient substitute.")
+  - **Customer Intimacy** (IBM, Nordstrom, the neighborhood drugstore) The internal focus is on both the quality of the relationship with the customer and exceptional customer experience (service).
+  - **Product Leadership** (Intel, Apple, Tesla) The internal focus is on innovation, functionality, features, and the overall design and performance of the product.
 
-quality, in the shortest period of time, at the lowest price, and has a world-class customer experience process.
-•You can't be important everywhere, so be important where it counts.
-
+- It is rare (if not impossible) to find a business that delivers the highest quality, in the shortest period of time, at the lowest price, and has a world-class customer experience process.
+- You can't be important everywhere, so be important where it counts.
+- **Thinking time**
+  - Who is our target market? (This question can never be addressed too frequently.) • What is our promise to them?
+  - How is our promise differentiated from our competition?
+  - How do I know this promise is being successfully delivered?
+  - Why isn't this differentiation (strength) sufficient to cause more potential customers to stop doing business with our competition and to start doing business with us?
+  - Where have we let our focus drift from the core (primary) competitive advantage that we have?
+  - Is this core difference between the competition and us significant enough to cause potential customers to start using us? If not, what is?
+  - Where have we done a poor job of giving the customer the ammunition to justify using us instead of our competition?
+  - Where is our messaging weak, ineffective, or simply nonexistent about our core strength (the difference that makes the difference)?
+  - How does my target customer define success?
+  - Where are our internal priorities and operational focus misaligned with the promise we have made to our customers? • Which internal priorities do we need to strengthen to be able to successfully deliver on our promise to customers?
+  - Where are we internally prioritizing (optimizing) for something we have not promised?
+  - Where do our team, dashboards, critical drivers, compensation structure, training, hiring and culture need work so that we are more successful on the execution of the internal processes required to deliver on the success proposition we have promised.
 # MOMMAS LOVE THEIR BABIES
-•You and your customers are in a relationship. Relationships tend to work best when the focus is on meeting the needs of the other party,
-not our own.
-•You can have a crappy product and still become über successful. It's not about the product!
-• Your success will have very little to do with what you do and everything to do with how you do it. Never, ever forget that.
-. Instead of falling in love with our products, we would all be more successful if we fell in love with our customers and their outcomes!
+
+- Entrepreneurs are the mothers of their ideas and products. They tend to love their idea and become obsessed with the product. Inevitably the entrepreneur will speak about this new project or idea in terms of being "my passion."
+  - This creates two related problems. First, the market does not care how much you love your idea or how passionate you are about it. Your customers do not spend money on your product just because it happens to be your life's purpose. Customers want to get out of pain, avoid a pain, or create a gain, and either you can do that "better" or more efficiently than the competition or you can't.
+  - Second, obsessing about your product or your passion is an internal focus. Optimizing for passion and product perfection instead of customer needs and demand is a classic business mistake. If your intention is to generate sales and make money with your product, then an obsession with the customer is mandatory. Think about it this way: You and your customers are in a relationship. *Relationships tend to work best when the focus is on meeting the needs of the other party, not our own.*
+
+- What does my business need to be successful? Does it need structure, better teammates, less drama, fewer expenses, more cash in the bank, less accounts receivable? One of my favorite questions to ask is this: "If my business could talk, what would it say?"
+- You can have a crappy product and still become über successful. It's not about the product!
+- Your success will have very little to do with **what** you do and everything to do with **how** you do it. Never, ever forget that.
+- Instead of falling in love with our products, we would all be more successful if we fell in love with our customers and their outcomes!
+- "if the marketing is done right, selling becomes unnecessary." marketing is defined as figuring out the red-hot, searing pain and offering a product or service that solves that problem. Aspirin sells itself.
+
+- **Thinking Time**
+  - Where have we let an obsession with our passion get in the way of an outward focus
+  of finding the group of customers who have a problem I can solve?
+  - Why are customers buying this product or service and what is really most important to them?
+  - Where is the red-hot, searing pain or frustration in the market, and what are we doing to address that problem?
+  - What needs to happen to cause our target market to discriminate in our favor (really!)?
+  - When I really look at how my competition is doing what it is doing to capture market share, what do we need to change to compete more effectively?
+  - Where do we need to carve out a niche or control some real estate in consumers' mind about our message, promise, and our results?
 
 # PRIORITIZING GROWTH STRATEGIES
 • It makes no sense to try to get more when you are not optimizing what you've already got. I'll repeat that: It. Makes. No. Sense.
@@ -1296,7 +1324,8 @@ not our own.
 • Mastery = Practicing the right thing in an effort to get better. When the training stops, so does the progress. Candidly, I have found that I am not talented or smart enough to be unprepared.
 Increasing revenue and sabotaging profits is a formula for poor.
 . Optimize before you maximize.
-.Getting big is the result of success. Success is not the result of getting big. One of your jobs is to carefully consider the various strategies available to you for growing your business. Lurching for the "more leads" lever is rarely the best or most effective alternative. •Developing a strategy to grow revenue is important, but growing revenue without growing profits and cash flow is dumb. Successful businesses have figured out how to do both.
+.Getting big is the result of success. Success is not the result of getting big. One of your jobs is to carefully consider the various strategies available to you for growing your business. Lurching for the "more leads" lever is rarely the best or most effective alternative. 
+- Developing a strategy to grow revenue is important, but growing revenue without growing profits and cash flow is dumb. Successful businesses have figured out how to do both.
 
 # CREATING ENTERPRISE VALUE
 . A business that is exitable at the highest possible value has an Owner that obsessed about the predictability and sustainability of the future stream of earnings.
