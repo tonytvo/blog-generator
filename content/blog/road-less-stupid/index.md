@@ -138,15 +138,15 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 # MMM... KOOL-AID
 
 - Learning doesn't happen until something changes.
-- Business is complex and the future is unknown. Tactical solutions, simplistic formulas, and generalized answers tend to cripple rather than enhance success. No one has all the answers and nobody can predict the future, including me. Whatever you do, don't drink my Kool-Aid, either. On the other hand, don't ignore what I'm saying. Do some independent thinking for a change. Just because someone has written a book doesn't mean he knows what he's talking about. The same holds true for me.
-- Be careful who you take advice from. Are they really an expert, or just someone with an opinion and a publisher? be suspicious of one size fits all solutions. Your situation is likely to be unique and require some serious brainpower to sort out the core problems and possible solutions. Be distrustful of advisors who predict the future
+- Business is complex, and the future is unknown. Tactical solutions, simplistic formulas, and generalized answers tend to cripple rather than enhance success. No one has all the answers, and nobody can predict the future, including me. Whatever you do, don't drink my Kool-Aid, either. On the other hand, don't ignore what I'm saying. Do some independent thinking for a change. Just because someone has written a book doesn't mean he knows what he's talking about. The same holds for me.
+- Be careful who you take advice from. Are they an expert, or just someone with an opinion and a publisher? Be suspicious of one size fits all solutions. Your situation will likely be unique and require serious brainpower to sort out the core problems and possible solutions. Be distrustful of advisors who predict the future
 - consultants have a recipe, masters have a cookbook
 - **Thinking Time**
   - where are we compromising by looking for the door marked "WOW!"?
-  - what shortcuts are we attempting to take that are nto really shortcuts but rather mirages of greed, laziness, or impatience?
+  - what shortcuts are we attempting to take that are not shortcuts but mirages of greed, laziness, or impatience?
   - what skills do I need to master to attain the success I want?
-  - realistically, how much additional time and practice are required for me to attain my outcome?
-  - who can I hire as a coach or mentor to help guide me and hold me accountable?
+  - realistically, how much additional time and practice are required to attain my outcome?
+  - who can I hire as a coach or mentor to help guide and hold me accountable?
   - where do I need to practice to improve my game and thus deserve the success I want?
   - where do we need to pick up the level of intensity in how we are playing this game?
 
