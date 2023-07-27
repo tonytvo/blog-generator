@@ -21,6 +21,14 @@ tags: ["productivity", "learning"]
 
 # How we learn to read
 
+- Before you read a nonfiction book, it’s important to do a picture walk of a chapter. Look at:
+  - Pictures, diagrams, and any images.
+  - Bold and italicized words.
+  - Section headings
+  - Summaries.
+  - Questions at the end of the chapter.
+  - Doing a picture walk of a chapter before you read it gives you the helicopter view of what the chapter is about. When I train leaders, I advise them to preview the entire book before they read. The focus is not on one chapter at a time, but on the entire book. In the book, you’re advised to zone out to solve a problem. This is consistent with the information on problem-solving and creativity models
+
 - there's a difference between reading for understanding and reading for information
   - lots of people confuse knowing the name of something with understanding. While great for exercising your memory, regurgitating facts without solid understanding and context gains you little in the real world.
   - **anything easily digested is reading for information.**
@@ -179,6 +187,32 @@ tags: ["productivity", "learning"]
   - observe chunks of words at a single glance.
   - practice expanding your vision to see groups of words, i.e., images for groups of words
 that we try to understand
+
+# 3 Steps to Powerful Reading
+- Picture walk: This is previewing a chapter before you read it to get a lay of the land.
+- Read with care.
+- Active recall.
+
+- **Active Recall**
+  - This is where you pull key ideas from your mind. Take a couple of minutes to recall the information you’re trying to learn. This is one way you can move something from short-term memory into long-term memory. And even recalling the information in different physical environments can help your brain grasp it better.
+
+- **Illusions of Competence**
+  - The best way to learn is to recall.
+  - Reduce the number of highlights. Try to understand the main idea first and then highlight. Highlighting or underlining can also lead to this illusion of learning.
+  - Notes and helpful words are great. Tests yourself.
+  - You can master a new subject by interleaving (jumping between different problems/situations, using different tools/strategies)problems/situations, use different techniques/strategies)
+
+- **Sleep**
+  - Getting enough sleep is important to learning. Sleep:
+    - Cleans toxic products in your brain.
+    - Erases the less important parts of memories.
+    - Strengthens areas you need or want to remember.
+
+  - Concentrate intently during the day when learning. The brain changes when you learn. Practice what you learn, so you do not forget. Space your practice to remember longer.
+
+  - Neurons are throughout your body and not just your brain. When you learn something new, practice and get enough sleep. You grow new dendritic spines and synaptic links. The more you do this, the more it happens.
+
+  - I love this — practice makes it permanent. Space out your learning to allow time to sleep on it after practice. When you learn something new, practice active recall to solidify learning. Build on what you already learned. Each subject you study, give it your full attention. To learn a new subject, after you finish your reading each day, take 10 minutes to recall what you read that day.
 
 # Quotes
 

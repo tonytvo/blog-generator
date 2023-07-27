@@ -1,7 +1,7 @@
 ---
-title: learning knowledge
+title: learning memory
 date: "2021-12-27T22:12:03.284Z"
-description: "learning knowledge"
+description: "learning memory"
 tags: ["productivity", "learning"]
 ---
 
@@ -184,7 +184,51 @@ tags: ["productivity", "learning"]
   - schedule your activities
   - [blank sheet](#blank-sheet) technique
   - [conventional notes](#conventional-notes) technique
+  - You put in and take out information out of your long-term memory. Is the information a fact or a picture? The brain has to decide where to put information in the long-term memory. You can work to develop a great memory.
+    - Facts are harder to store in the long-term memory.
+    - Facts are often abstract, so it’s hard to picture, so it’s hard to picture them.
+    - Picture information is easier to remember.
+    - Figure out how you can convert a fact into a picture to remember it.
+  - Use the information you want to remember to make a song.
+  - Make up metaphors to remember the information. Tie it to what you know already
+  - Imagine that you’re the object or idea that you’re learning and trying to remember. Write about it.
+  - Associate numbers with well-known shapes and characters. What stories can you create to remember?
+  - Use sleep to anchor the new ideas you’re learning.
+  - Choose an object to explain what you’re learning.
   
+## Two Ideas Behind Linking
+- How to make brain links:
+  - Deliberate Practice
+  - Interleaving
+
+- **Deliberate Practice**
+  - When you practice enough, you build brain-links.
+  - It is important to learn new things and not just practice what you already know.
+  - Deliberate practice – focus on the harder stuff.
+
+- **Interleaving**
+  - Practice choosing between techniques and items.
+  - Practice different aspects and techniques of a skill you are trying to learn.
+
+- **Making a Set of Brain-Links**
+
+  - Focus
+    - Focus is important for memorizing
+    - Concentrate to form new brain-links
+  - Active Practice
+    - Practice what you’re learning.
+    - Try new techniques.
+    - Get feedback in case you need to correct something.
+
+  - Practice a new skill over several days.
+    - Go to bed early.
+    - Get enough sleep.
+    - Helps to form new synaptic brain-links.
+
+  - Practice with interleaving solving problems. At first it will be hard, then it gets easier. Use active recall to create brain-links. Don’t memorize solutions. Look at problems and learn how to create brain-links.
+
+  - Scramble the hints to develop order in your writing. This allows you to build writing links to pull good writing from your mind.
+
   ## memory principles
   - first or primacy
   - last or recency
@@ -302,7 +346,6 @@ tags: ["productivity", "learning"]
 - learn new things
   - neuroplasticity (connections in your brain) can be instigated through learning new things
 - reduce your stress through yoga, meditation, or massages.
-
 
 # Quotes
 
