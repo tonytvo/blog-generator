@@ -39,6 +39,27 @@ tags: ["productivity", "learning"]
 
 # learning how to learn
 
+## the problem when you follow your passion
+
+- I realized that by only following my passion, I didn’t have many choices.” Barbara Oakley
+
+- Learning How to Learn opens with the story of the author, Barbara Oakley. She makes a confession about how she sucked at math. She was so bad, that she stopped learning and focused solely on the subjects she enjoyed. Fast-forward a couple of years in the future, and she got a degree in computer science – and you need a lot of math to get such a degree.
+
+- If we only concentrate on subjects we like. We do get better, yes. But if we go a bit off track. If we go outside our comfort zone. We can improve much faster. Broaden our passions and open ourselves to many other wonderful opportunities.
+
+- The main thing that stands in your way. The main hurdle that prevents you from understanding hard subjects. Is your ability to learn.
+
+- If you improve your learning skills, you can greatly improve your life.
+
+- Commonly, we convince ourselves that we can’t learn something. “It’s not our thing,” we say. “It’s too hard for me.”
+
+- But not the subject is hard, we simply don’t know how to learn. We don’t know how to approach different and difficult subjects.
+
+- When you acquire new mental learning tools. Understand how to approach a subject. You can learn anything, even if you failed at it many times before.
+
+- That’s exactly what the book teaches us. How to get better at learning, so we can conquer new territories and expand our knowledge map.
+
+
 ## Focused Mode vs Diffuse Mode
 
 - The brain works in a focused and diffuse mode. Sometimes it’s focused and other times when it wanders. Both modes are necessary to learn effectively. You can be in only one mode at a time. You can change your brain through learning. Diffuse mode uses a different part of the brain than when you’re focused. You can make connections between ideas when your brain is in diffuse mode. When you’re focused, you make trails in your brain. When you first learn a subject, you lay trails in your brain.
@@ -132,6 +153,40 @@ Picture
 - Gestures can also help you to anchor the meaning of new words.
 
 
+## Observe How You Learn
+
+- Another key component of getting better is getting better at watching yourself how you study.
+
+- It’s one thing to read a book. Try a couple of techniques from the book and call it a day.
+
+- It’s quite another to do the above and sit down at the end of the same day to observe what you did best and what can be further improved.
+
+- An adventurous idea from the book is to get comfortable at the end of the day. Grab a notebook, and try to answer a couple of questions. These for example:
+  - What new did you learn today?
+  - How did your learning go?
+  - Was there something you did especially well?
+  - Anything you might have done better?
+  - What made a difference in your learning that day?
+  - At what time did I stop learning?
+  - Even if you no longer consider yourself a student. You can change the questions a bit.
+
+- Analyze your working day… What went well? What didn’t? What can you improve? What do you have control over?
+
+- The main idea is to regularly reflect on your days. Try to spot patterns. With these insights, make some changes and start observing again.
+
+- Few ideas from the authors that can help you further improve:
+
+  - **Study in different places:** It might seem odd, but studying in one particular place can interfere with your memory. If you always study in, say, the library, your attention octopus gets used to this. So, the material you’ve learned in the library can “come out” only if you visit the library. If you acquire new information in a variety of places, your attentional octopus, as said in the book, “ends up getting used to finding things in your long-term memory locker regardless of where you’re studying.”
+  - **Try different materials:** Some people prefer to learn by watching videos, others by reading text. Third, for example, might want to attend seminars. We all have our preferred learning style. However, according to studies mentioned in the book, relying on one medium to learn is not the best way to learn. It’s much better to mix sources. Watch a video, yes, but also read.
+  - **Set quitting time:** Scheduling time to stop studying or stop working – depending on your stage in life. Is the best thing you can do for yourself. When you have a firm schedule, you know that you have from here to hear to study, you will better concentrate.
+
+- **Actionable Notes:**
+  - **Use metaphors:** When you are learning something new. Or when you are trying to explain something you know to others, use metaphors. Metaphors help you get new things faster. You connect the new information to something you already know. This way, you reuse previously created paths in your brain. By doing so, you learn faster and you remember for longer. So, when you are confronted with a complex idea, try to find something similar you already know. Something to relate the new concept to. And if a metaphor is no longer useful, replace it with a new one.
+  - **Active recall:** Good learning requires three main components: learning, practice, and sleep. The more you do these three, the stronger the connections between the neurons inside your brain will become. But usually, we try to cheat. We try to learn everything in one day and think that this will be enough for strong foundations. The best way to ensure that your building blocks remain in your head, is by doing an active recall. If you study for a test, or if you simply want to ensure that your current knowledge will remain intact, you need to schedule active recall sessions. For instance, you learn a new concept on Monday. On Tuesday, review your main points. On Wednesday, recite or write down the main components of the new idea without looking at your notes. On Friday, try to do the same. The more you practice, the less you’ll have to look at your notes. Thus, the stronger the foundations.
+  - **Memory palace technique:** The memory palace is probably the oldest technique for remembering things. Used by the famous Roman writer Cicero for his speeches, the memory palace will help you recall long complicated subjects more easily. The basics of this tool are the following: You imagine a place you know well. For example, your house. Once you have a mental picture of your house, take the information you want to remember and place it in objects around your house. The goal is to cut the big piece of info into chunks and place these smaller chunks in different things. A piece of info on a picture. Another piece on your shelf. One more on the dining table. Then, imagine silly situations. Once the setting is complete, picture yourself walking around your house and interacting with the objects you put information inside in some sort of order. If you want to remember a grocery list, you can imagine the bottle of milk as a 6-foot-tall bottle that talks, and the carton of eggs as 6 children that are holding hands.
+  - **Avoid rut think:** A counterintuitive way to improve in one field is learning about a completely different field. Not an adjacent field, but something in a far away spectrum. Why is that? Well, as we get better in one field, our internal pathways cement. We get better at doing a particular task, but if there is a slight deviation, we’ll be clueless about what to do. Our thinking becomes less flexible. To mix things up, to get better at what you’re passionate about. It’s much wiser to learn a bit about something completely different. This will introduce new ideas and help you avoid what is called “rut think”.
+  - **Thinking fast and slow:** If your attention octopus hasn’t grown many hands. You’ll have a hard time quickly remembering things. You’ll have to “run” to the locker every time you need to remember something. All of this makes you a slow thinker. But slow doesn’t equal bad. Actually, the authors mentioned that slow thinkers can come up with some original ideas. Here’s why: When you think fast, you rush to the solution without thinking a lot about the details. And while you do (probably) give a correct answer, you prevent yourself from coming up with a better answer. Conversely, slow thinkers “hike” towards the solution. By doing so, they see all the possible options and can come up with quite better solutions. So, don’t feel bad if you think kind of slowly. Use it to your advantage.
+
 # Quotes
 
 "Marking a book is literally an experience of your differences or agreements with the author. It is the highest respect you can pay him"
@@ -207,6 +262,20 @@ to understand is to know what to do
 "the key to better comprehension is asking better questions"
 
 you shall receive when you ask questions
+
+“It’s easy to believe that you should only concentrate on subjects that come easily for you. But my story reveals that you can do well in subjects you don’t even like. The truth is, it’s okay to follow your passions. But I also found that broadening my passions opened many wonderful opportunities. Learning new subjects I didn’t think I could do turned out to be an adventure!” Barbara Oakley
+
+“The neuron-aliens are like friends who become better friends because they talk a lot… Researchers often use the phrase “Neurons that fire together, wire together.” You can think of the “wiring together” as creating a set of brain-links. Learning something new means creating new or stronger links in your brain. A new set of brain-links!” Barbara Oakley
+
+“The fact that trails in your brain can change and grow is called neuroplasticity. (It’s pronounced “new-row-plas-TI-sity.”) This fancy word just means that your neurons are like clay you can mold. That is, your neurons can change. This is why you can change!” Barbara Oakley
+
+“In any case, your octopus can get tired. It can hold on to information for just a little while—maybe ten to fifteen seconds. Then the information begins to slip away unless you concentrate or repeat it to hold it in mind.” Barbara Oakley
+
+“Basically, Nelson tells himself corny visual jokes that help him remember. You’ll be amazed by how easy it is to remember things when you have a goofy way of remembering them. And it’s fun making them up!” Barbara Oakley
+
+“You create and strengthen sets of brain-links through deliberate practice. That’s focused, repeated work on the more difficult parts of a concept. Don’t waste much time on the easy stuff that you already know.” Barbara Oakley
+
+“Everybody’s different. That’s why it’s important to become your own personal learning scientist. You can see what works best in your learning. Think like a scientist and start looking for patterns in what works and what doesn’t work for you.” Barbara Oakley
 
 
 # References
