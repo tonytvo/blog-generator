@@ -44,6 +44,7 @@ Domain-Driven Design is an approach to the development of complex software in wh
     - conversely, attempting to satisfy everyone with single model may lead to complex options that make the model difficult to use.
 
 ## Ubiquitous Language
+
 - **Use the model as the backbone of a language. Then, commit the team to exercise that language relentlessly in all communication within the team and in the code.**
 - Use the same language in diagrams, writing, and speech within a bounded context.
 - Recognize that a change in the language is a change to the model
@@ -95,19 +96,51 @@ iron out difficulties by experimenting with alternative expressions, which refle
 - if the people who write the code do not feel responsible for the model, or don't understand how to make the model work for an application, then the model has nothing to do with the software. If developers don't realize that changing code changes the model, then their refactoring will weaken the model rather than strengthen it. Meanwhile, when a modeler is separated from the implementation process, he or she never acquires, or quickly loses, a feel for the constraints of implementation. The basic constraint of MODEL-DRIVEN-DESIGN - that the model supports an effective implementation and abstracts key domain knowledge - is half gone, and the resulting models will be impractical. Finally, the knowledge and skills of experienced designers won't be transferred to other developers if the division of labor prevents the kind of collaboration that conveys the subtleties of coding a MODEL-DRIVEN-DESIGN.
 
 - any technical person contributing to the model must spend some time touching the code, whatever primary role he or she plays on the project. Anyone responsible for changing the model must learn to express a model through the code. Every developer must be involved in some level of discussion about the model and have contact with domain experts. Those who contribute to different ways must consciously engage those who touch the code in a dynamic exchange of model ideas through the UBIQUITOUS LANGUAGE.
+
+- Although a MODEL-DRIVEN DESIGN does not have to be object oriented, it does depend on having an expressive implementation of the model constructs, be they objects, rules, or workflows. If the available tool does not facilitate that expressiveness, reconsider the choice of tools. An unexpressive implementation negates the advantage of the extra paradigm.
+
+- Here are four rules of thumb for mixing non-object elements into a predominantly object-oriented system:
+  - Don't fight the implementation paradigm. There's always another way to think about a domain. Find model concepts that fit the paradigm.
+  - Lean on the ubiquitous language. Even when there is no rigorous connection between tools, very consistent use of language can keep parts of the design from diverging.
+  - Don't get hung up on UML. Sometimes the fixation on a tool, such as UML diagramming, leads people to distort the model to make it fit what can easily be drawn. For example, UML does have some features for representing constraints, but they are not always sufficient. Some other style of drawing (perhaps conventional for the other paradigm), or simple English descriptions, are better than tortuous adaptation of a drawing style intended for a certain view of objects.
+  - Be skeptical. Is the tool really pulling its weight? Just because you have some rules, that doesn't necessarily mean you need the overhead of a rules engine. Rules can be expressed as objects, perhaps a little less neatly; multiple paradigms complicate matters enormously.
+
 ## layered architecture
+
 - isolate the expression of the domain model and the business logic, and eliminate any dependency on infrastructure, user interface, or even application reason that is not business logic. Concentrate all the code related to the domain model in one layer and isolate it from the user interface, application, and infrastructure code.
 - **The domain objects, free of the responsibility of displaying themselves, storing themselves, managing application tasks, and so forth, can be focused on expressing the domain model.**
 - This allows a model to evolve to be rich enough and clear enough to capture essential business knowledge and put it to work.
 
+## associations
+
+- *for every traversable association in the model, there is a mechanism in the software with the same properties*
+
+- An association between objects can be compared at a DB level as the connections between two tables that represent objects. It can be seen at OOP level as an object that contains another object, or collection of objects, as one of its properties.
+
+- A pragmatic rule, to maintain code simple and maintainable, is to not create nor keep dead code (code that is not used). Associations are reflected, in the implementation of the domain, by code. Therefore it makes total sense to keep associations to the minimum required by the domain. This means that although a bidirectional association might make sense in a generic context, if in our specific domain it only makes sense as a unidirectional association, we must not waste time and resources to create unnecessary code. It does not reflect the model and increases complexity and maintainability costs. Basically it bloats the application.
+
+- Associations can be reduced in three ways:
+  - **Imposing a unidirectional association**
+    - For example: We can say that a country had many presidents, and that a president was president of a specific country. This reflects a bidirectional association, however if in our specific domain we always think in terms of “this country had this set of presidents” and never in terms of “this person was president of that country”, we must not create the code to support the second direction, therefore imposing a unidirectional association;
+  - **Adding a qualifier (filter)**
+    - For example: If in the previous unidirectional association we realize that in our specific domain it only makes sense to query about a country president by providing a date, and knowing that at a specific date there is only one president, then we can reduce the association from unidirectional 1-n to unidirectional 1-1. Thus again creating a better reflection of the domain and simplifying the implementation;
+  - **Eliminating non essential associations**
+    - If an association is of no use in our specific domain at hand, it must be completely removed;
+
 ## entities
+
 - When an object is distinguished by its identity rather than its attributes, make this primary to its definition in the model.
 - **Keep the class definition simple and focused on life cycle continuity and identity.**
 - Define a means of distinguishing each object regardless of its form or history
 - be alert to requirements that call for matching objects by attributes.
-- Define an operator that is guaranteed unique. This means of identification may come from the outside, or it may be an arbitrary identifier created by and for the system. Still, it must correspond to the identity distinctions in the model.
+- Define an operator that is guaranteed unique (even if distributed, even when objects are archived). This means of identification may come from the outside, or it may be an arbitrary identifier created by and for the system. Still, it must correspond to the identity distinctions in the model.
 - aka reference objects
+- **Entities are objects that represent something relevant in the domain model. They exist on their own right, they can not be swapped by another object with the same data, they are crucial in the domain logic.**
+- **An entity must not have logic that handles objects they do not own.**
+
 ## value objects
+
+- value objects have no conceptual identity. These objects describe some characteristic of a thing. **If we think value objects as just the absence of identity, we haven't added much to our toolbox or vocabulary. In fact, these objects have characteristics of their own and their own significance to the model. These are the objects that describe things**
 - when you care only about the attributes and logic of an element of the model, classify it as a value object.
 - Make it express the meaning of the attributes it conveys and give it related functionality.
 - **Treat the value object as immutable. Make all operations side-effect-free functions that don't depend on any mutable state.**
@@ -115,23 +148,55 @@ iron out difficulties by experimenting with alternative expressions, which refle
 
 ![entities vs value in different context](./entities-vs-value-diff-context.png)
 
+- special cases: when to allow mutability
+  - if the VALUE changes frequently
+  - if object creation or deletion is expensive
+  - if replacement (rather than modification) will disturb clustering
+  - if there is not much sharing VALUES, or if such sharing is forgone to improve clustering or for some other technical reason
+  - VALUE's implementation is to be mutable, then it must not be shared. Whether you will be sharing or not, design VALUE OBJECTS as immutable when you can.
 
 ## domain events
+
 - model information about activity in the domain as a series of discrete events. Represent each event as a domain event object.
 - These are distinct from system events that reflect activity within the software itself. However, a system event is often associated with a domain event, either as part of a response to the domain event or to carry information about the domain event into the system.
 - **Ignore irrelevant domain activity while making explicit the events that the domain experts want to track or be notified of or associated with state change in the other model objects.**
 
 ## services
+
+- **some concepts from the domain aren't natural to model as objects. Forcing the required domain functionality to be the responsibility of an ENTITY or VALUE either distorts the definition of a model-based object or adds meaningless artificial objects**
 - when a significant transformation process in the domain is not a natural responsibility of an entity or value object, add an operation to the model as a standalone interface declared as a service.
 - Define a service contract, a set of assertions about interactions with the service. State these assertions in the ubiquitous language of a specific bounded context.
 - Give the service a name, which also becomes a ubiquitous language.
+- a good SERVICE has 3 characteristics
+  - the operation relates to a domain concept that is not a natural part of an ENTITY or VALUE OBJECT
+  - the interface is defined in terms of other lements of the domain model
+  - the operation **is stateless, meaning it does not hold a state that alters its behaviour.** Therefore it could, and should, be a singleton;
+
+- [partitioning services into layers](./partitioning-services-into-layers.png)
+- The differences between a domain service and an application services are subtle but critical:
+  - Domain services are very granular where as application services are a facade purposed with providing an API.
+  - Domain services contain domain logic that can’t naturally be placed in an entity or value object whereas application services orchestrate the execution of domain logic and don’t themselves implement any domain logic.
+  - Domain service methods can have other domain elements as operands and return values whereas application services operate upon trivial operands such as identity values and primitive data structures.
+  - Application services declare dependencies on infrastructural services required to execute domain logic.
+  - Command handlers are a flavor of application services which focus on handling a single command typically in a CQRS architecture.
+
+- can a domain service be injected into an entity?
+  - I personally distinct two types of domain services: pure (isolated) and impure (non-isolated). The former is closed under entities and value objects and doesn’t depend on the external world. AtmService is an example of an impure domain service.
+  - Injection of an impure domain service into entities breaks the isolation, so I’d recommend against it. On the other hand, a pure domain service doesn’t do any harm, so it’s totally fine to refer to them from your entities and value objects.
 
 ## modules
+
 - concepts should be divided into modules.
-- Choose modules that tell the story of the system and contain a cohesive set of ideas. Give the modules the names that become part of the ubiquitous language. Modules are part of the model, and their names should reflect insight into the domain.
+- Choose modules that tell the story of the system and contain a cohesive set of ideas. This often yields low coupling between MODULES, but if it doesn't, look for a way to change the model to disentangle the concepts, or search for an overlooked concept that might be the basis of a MODULE that would bring the elements together in a meaningful way. 
+- Give the modules the names that become part of the ubiquitous language. Modules are part of the model, and their names should reflect insight into the domain.
 - Seek low coupling in the sense of concepts that can be understood and reasoned about independently. Then, refine the model until it partitions according to high-level domain concepts and decouples the corresponding code.
+- **everyone use modules, but few treat them as full-fledged part of the model. Code gets broken down into all sorts of categories, from aspects of the technical architecture to developers' work assignments. Even developers who refactor a lot tend to content themselves with MODULES conceived early in the project**
+- MODULES are a communication mechanism. The meaning of the objects being partitioned needs to drive the choice of MODULES. When you place some classes together in a MODULE, you are telling the next developer who looks at your design to think about them together. If your model is telling a story, the MODULES are chapters. "Now let's talk about the 'customer's module', you might say to a business expert, and the context is set for your conversation.
+- **unless there is a real intention to distribute code on different servers, keep all the code that implements a single conceptual object in the same MODULE, if not the same object**
+- **use packaging to separate the domain layer from other code. Otherwise, leave as much freedom as possible to the domain developers to package the domain objects in ways that support their model and design choices.**
 
 ## aggregates
+
 - **it challenging to guarantee the consistency of changes to objects in a model with complex associations.**
 - Cluster the entities and value objects into aggregates and define boundaries around each.
 - **Choose one entity to be the root of each sum, and allow external objects to hold references to the source only (regarding internal members passed out for use within a single operation only).**
