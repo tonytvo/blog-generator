@@ -228,46 +228,48 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 
 # CULTURE IS KING (YOU GET WHAT YOU TOLERATE)
 
-- The key to a great culture is creating and fostering a never-ending conversation about the "rules of the game." The rules define the boundaries or guardrails so that everyone knows exactly how to act, how to communicate, and how to treat each other. Culture, not a value statement, is the key to high performance and becoming the employer of choice. (Enron's Value Statement was Respect, Integrity, Communication, Excellence. A plaque on the wall is not a substitute for culture, and neither are nap rooms.)
+- The key to a great culture is creating and fostering a never-ending conversation about the "rules of the game." The rules define the boundaries or guardrails so that everyone knows precisely how to act, communicate, and treat each other. Culture, not a value statement, is the key to high performance and becoming the employer of choice. (Enron's Value Statement was Respect, Integrity, Communication, and Excellence. A plaque on the wall is not a substitute for culture, nor are nap rooms.)
 - Anyone who says customers are #1 has lost their mind! Employees are #1. Employees are the source of all value creation. Culture (not jelly beans in the kitchen) is the source for engaged, turned-on employees. Show me a disinterested employee and I'll show you a lousy culture, a weak leader, and a poor customer experience.
 - When you're about to initiate a cultural shift, be aware of these three common culture saboteurs:
-  - Iceberg #1: Deciding to change the culture within your business is not an initiative for the weak of heart or uncommitted. Creating and sustaining a world-class culture is an ongoing but immensely rewarding initiative. It lowe4rs turnover, improves efficiency, and makes the business a good place to work.
+  - Iceberg #1: Deciding to change the culture within your business is not an initiative for the weak of heart or uncommitted. Creating and sustaining a world-class culture is an ongoing but immensely rewarding initiative. It lowers turnover, improves efficiency, and makes the business a pleasing workplace.
   - Iceberg #2: There is always at least one person on a team who thinks he is immune to the culture transformation conversation.
   - Iceberg #3: An unenforced rule is not a rule; it's a suggestion.
-- The reason we hesitate to have the hard conversations is because we don't care enough. If you truly cared enough, you would say what needs to be said. After all, how else are they going to improve and maximize their potential? Let me remind you that nothing can change until the unsaid is spoken.
+- We hesitate to have hard conversations because we don't care enough. If you truly cared enough, you would say what needs to be said. After all, how else will they improve and maximize their potential? Let me remind you that nothing can change until the unsaid is spoken.
 
-- In order to understand what culture is, let’s begin with what it’s not:
-  - It’s not a mission, value, or vision statement plaques we hang up on our company wall.
-  - The coddling of employees; e.g nap rooms, concierge to pick up the dry cleaned clothes of the employees, stocking the kitchen with red bull, spa coupons for employees,
-  - Sad to say that the above DOES NOT drive culture, it rather drives an entitlement mentality in your employees.
+- To understand what culture is, let’s begin with what it’s not:
+  - It’s not a mission, value, or vision statement plaque we hang on our company wall.
+  - The coddling of employees; e.g. nap rooms, concierge to pick up the dry cleaned clothes of the employees, stocking the kitchen with red bull, spa coupons for employees,
+  - Sad to say that the above DOES NOT drive culture, it instead drives an entitlement mentality in your employees.
 
 - Culture is result-oriented…getting stuff done is at the core of any organization’s culture. It’s the guard rails or guiding principles by which everyone must live by. It is ingrained in the heart and soul of the business (employees and employers). It is woven into the very fabric of the organization.
 
 - In Keith’s words “Culture is how we treat each other, how we talk to each other, whether or not we trust each other, and how we handle conflict. Culture is about accountability, measuring, a bias for urgency, a focus on solutions, calling it tight—saying what needs to be said—being kind and generous, acknowledging one another, and expressing appreciation.
 
-- Craig's list ads
-  - > *If you can commit and live with the following principles, then you are the type of person who will be successful and help our company thrive. If you feel this level of engagement is not right for you or that you're not willing or able to participate with us at this level, we're not a good fit for you*
-  - > *Our expectation is that you will take the steps necessary to do what you say you are going to do and be accountable for your actions. In other words, live "Above the line"*
-  - > *We understand that not every person is ready for this level of performance, and we appreciate the honesty of those who decide this is not the right place for them. On the other hand, you would make an ideal candidate to join our company if you're willing to commit the following Above the line principles*
-    - > *Accountability: See it, Own it, Solve it, Do it*
+- Craig's list of ads
+  - > *If you can commit and live with the following principles, then you will be successful and help our company thrive. If you feel this level of engagement is not suitable for you or that you're not willing or able to participate with us at this level, we're not a good fit for you*
+  - > *we expect that you will take the steps necessary to do what you say you will do and be accountable for your actions. In other words, live "Above the line"*
+  - > *We understand that not every person is ready for this level of performance, and we appreciate the honesty of those who decide this is not the right place for them. On the other hand, you would make an ideal candidate to join our company if you're willing to commit to the following Above the line principles*
+    - > *Accountability: See it Own it, Solve it, Do it*
     - > *Become part of the solution*
     - > *respect for others and their feelings*
     - > *act now*
-    - > *ask the question: "what else can I do"?*
-    - > *"ask the questions: "What coaching do you have for me?" and "what can I do better?"*
+    - > *ask the question: "What else can I do"?*
+    - > *"Ask the questions: "What coaching do you have for me?" and "What can I do better?"*
     - > *personal ownership and pride*
     - > *reject average*
-    - > *"show others that you care"*
+    - > *"Show others that you care"*
+
 - **Thinking Time**
   - what is the culture we have now? (Make a list of how people act and treat each other... both good and bad.)
   - what is the culture we want to create? (make a list.)
   - if this were the worst, most toxic place on the planet to work, what would the culture look like? (Make a list so you can start thinking about the opposites)
-  - what would the culture look like if we were to become the "employer of choice"?
-  - what are the culture deficiencies in our business that are preventing us from being high-performance vbs high-maintenance?
+  - what would the culture look like if we became the "employer of choice"?
+  - what are the cultural deficiencies in our business that are preventing us from being high-performance vs high-maintenance?
   - what are the beliefs employees must have to construct our new vision of how we treat each other and work together?
-  - what are the specific rituals we can create which will help reinforce and memorialize our new culture?
-  - what are the difficult conversations I need to have to reset our culture and create high-performance team?
-  - what are the simple rules of the game we must adopt to create a culture in which our people are truly engaged, committed to excellence, and do their best work?
+  - what specific rituals can we create that will help reinforce and memorialize our new culture?
+  - what are the difficult conversations I need to have to reset our culture and create a high-performance team?
+  - what are the simple rules of the game we must adopt to create a culture where our people are genuinely engaged, committed to excellence, and do their best work?
+
 
 # GENERALIZATIONS KILL CLARITY
 
