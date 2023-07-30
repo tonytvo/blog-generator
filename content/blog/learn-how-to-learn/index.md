@@ -23,7 +23,7 @@ tags: ["productivity", "learning"]
 - [Study group patterns summary](/study-group-patterns-summary)
 
 # Learning knowledge
-- [learning knowledge summary](/learning-knowledge)
+- [learning memory summary](/learning-memory)
 
 # How to Read
 - [How to Read](/how-to-read)

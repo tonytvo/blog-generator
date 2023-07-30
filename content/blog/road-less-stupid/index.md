@@ -1318,14 +1318,120 @@ The high value from this risk assessment thinking comes in the creation of asymm
   - Where do we need to carve out a niche or control some real estate in consumers' mind about our message, promise, and our results?
 
 # PRIORITIZING GROWTH STRATEGIES
-• It makes no sense to try to get more when you are not optimizing what you've already got. I'll repeat that: It. Makes. No. Sense.
-.The genius of a great business is a maniacal focus on the customer and his outcomes, frustrations, and success.
-• Sustainable growth requires two things: keeping the customers you've got, and adding new ones.
-• Mastery = Practicing the right thing in an effort to get better. When the training stops, so does the progress. Candidly, I have found that I am not talented or smart enough to be unprepared.
-Increasing revenue and sabotaging profits is a formula for poor.
-. Optimize before you maximize.
-.Getting big is the result of success. Success is not the result of getting big. One of your jobs is to carefully consider the various strategies available to you for growing your business. Lurching for the "more leads" lever is rarely the best or most effective alternative. 
-- Developing a strategy to grow revenue is important, but growing revenue without growing profits and cash flow is dumb. Successful businesses have figured out how to do both.
+- [growth funnel](./growth-funnel.png)
+
+1. **Keep More Customers:** Business owners are notorious for falling in love with their products and the genius of their ideas. The product does not have the money, though. The product does not care who owns it. The customer has the money. The customer has a specific problem and unmet needs that she wants addressed. She is searching for a solution and someone to do business with that will meet or even exceed her expectations. The primary key to growth is to fall in love with the customer, not the product. (See "Mommas Love Their Babies" if you need more convincing.)
+  - The most common reason businesses fail to grow is not that they aren't adding enough new customers; it's that they aren't keeping the customers they've got.
+  - Don't believe me? Ask yourself this question: "How big would my business be if I still had every customer who ever tried me?"
+  - If your growth initiatives are exclusively focused on how to get new customers to try you, you are not focused on meeting and exceeding your current customers' needs and expectations. Adding a new customer is great if you simultaneously keep all your existing customers. But adding a new customer and losing an existing customer is a strategy for treading water and getting tired.
+  - Keeping customers can be boiled down to three things:
+    - a. **FOWTW - Find Out What They Want.** Customers do not really care about what you want to sell them, nor do they care how much you love your product. Customers care about having their needs met. The customer gets to define success. We make a mistake when we assume that the genius of our product and our "passion" for our idea are THE most important things. **The genius of a great business is a maniacal focus on the customer and his outcomes, frustrations, and success.** Steve Jobs said it best: "One of the things I've always found is that you've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to try to sell it."
+    b. **GAGI - Go and Get It**. After you are clear about the pain, frustration, needs, and expectations of your customers, your job as a business Owner is to find the pain reliever (solution) that meets their outcomes and definition of success. This means designing a solution that specifically addresses your target market's problem in a way that is meaningfully different from what is currently available.
+    c. **GITT - Give It to Them.** It does no good to find out what customers want, to go and get it, and then not to deliver it to them. GITT is really about the "how" you do it, not the "what" you do. You can give someone a great tasting meal, but an inattentive waiter (or an overly attentive one who interrupts your conversations) will spoil the evening. Alternatively, you can receive an average meal, but the service, atmosphere, and ambiance are so outstanding, the evening is a stupendous success.
+
+2. **Increase Referrals and Repeats:** Here's a question for you: Name me one business that could survive a year without any referrals or repeat business. It's hard to do. I have found that most business owners get so excited about adding new customers they fail to appreciate and show the love to their existing ones. Why offer discounts only to people who have never tried you before? The customers that have been paying our bills for the last ten years are the ones we should be bending over backwards to take care of.
+    - **Sustainable growth requires two things: keeping the customers you've got, and adding new ones.**
+    - A great growth question that will help you get clarity on this idea is this: **"How would you run your business if 100% of your future growth was by referral and repeat business only?"** 
+
+3. **Define and Enhance Certainty of Success:** The clichés "add more value" and "value proposition" are incredibly overused by marketing experts to describe what your business should deliver to your customers and, thereby, differentiate yourself from your competition. I think about this concept a different way . . . **a “success proposition.” What has to happen to give your customers certainty of success?**
+    - Your customers get to define success, not you. They don't really care about what you want to sell them or how excited you are about your product. At the end of the transaction, they just want to be able to say, "Yes!!! That's exactly what I wanted and I loved it... I'll be back!" The fundamental success proposition question you should design your business around, especially if you are interested in growth, is: "What has to happen so the customer will say 'I'd have to be crazy to do business with someone else!"?"
+
+4. Enhance/Train the Sales Process: Most amateurs in business, especially in sales, attempt to "wing it" when it comes to the sales process and presentation. This is a truly bad idea because you will always produce inconsistent results and have no clue what is causing them.
+     - The best people in the world at sales and sales training have a formula, a script, a process, or a recipe they use. They rehearse and practice that process... repeatedly. They rehearse simulated sales processes, ask the toughest questions, raise the worst objections, and then design answers and responses to all of them.
+     - **Mastery = Practicing the right thing in an effort to get better. When the training stops, so does the progress. Candidly, I have found that I am not talented or smart enough to be unprepared.**
+     - Attempting to get more leads before training or retraining on the sales process is likely to result in wasted money and burnt leads.
+
+5. Increase Conversion Percentage: Obviously, if you get the same number of leads but do a better, more consistent job of closing them, your sales will increase. We know we want to increase the number of customers we have. The low-hanging fruit solution is to increase the closing percentage. If you are currently closing 25% of your leads, a 5% increase in your close ratio is the equivalent of increasing your leads by 20%. (Increasing your conversion or closing ratio is dependent on the training idea outlined immediately above in #4.)
+
+6. **Increase Transaction Size:** Sometimes we have multiple products or services that can be packaged together. When the price of the package is less than the total of the à la carte prices, customers perceive a deal and tend to buy the bigger (higher-priced) package. This is the McDonald's theme of "Do you want fries with that?"
+  - Perhaps you can offer a high-margin, low-cost "bonus” of an ancillary product or service, which would enable you to increase your overall price to the customer but incur relatively minor increases in your expenses.
+  - **Increasing revenue and sabotaging profits is a formula for poor.**
+  - The central idea is to design a package that will, for example, increase revenue by 10% and increase profits by 15%. Sometimes the transaction value can be increased with something as simple as a modest price increase. If you have a 10% profit margin, a 2% price increase will have the same bottom line impact on profits as a 20% increase in revenue.
+
+7. **Increase Frequency:** Many successful businesses increase the frequency of customer purchase by helping the customer see the value of shopping exclusively with them. A rewards or frequent buyer program is often used for this purpose. Southwest Airlines does not expect you to fly more frequently as a result of their frequent flyer program, but they are incentivizing you to fly with them when you book those next tickets. Loyalty is very powerful because it drives repeat business. Repeat business does not have the usual customer acquisition costs and, therefore, is much more profitable.
+
+8. **Increase Leads/Drive Traffic:** You will immediately notice that this link in the Growth Funnel chain is last on the list. The reason is because it is usually the highest-hanging fruit and consequently the most difficult to attain. In most circumstances, the first seven strategies to impact the top line should be executed and optimized prior to allocating resources to drive the number of leads. 
+  - **Optimize before you maximize.**
+  - No one likes to hear this message, because designing websites, writing advertising copy, devising PR campaigns, and creating social media strategies are way more fun and exciting than working on sales scripts, referrals, and repeat business.
+  - When the time is right to work on increasing leads and driving traffic, it is critical to optimize for quality, not quantity. We do not need more eyeballs or visitors to our website; we need to reach our target market with a compelling message.
+  - Getting big is the result of success. Success is not the result of getting big. One of your jobs is to carefully consider the various strategies available to you for growing your business. Lurching for the "more leads" lever is rarely the best or most effective alternative.
+  - A word of caution: Developing a strategy to grow revenue is important, but growing revenue without growing profits and cash flow is dumb. Successful businesses have figured out how to do both. ("Correcting the Business Model" describes the nuts and bolts of this process.)
+
+- **Thinking Time**
+
+  - **Keep More Customers**
+    - Why do people buy from me in the first place? What value do they seek? Expect? Hope for?
+    - What is their TRUE pain/problem/frustration?
+    - What is the compelling promise of our brand?
+    - Is the message (promise) I am delivering to customers clear on what we can do for them that the competition cannot or does not do?
+    - What must happen to cause a customer to buy from me?
+    - What must happen to keep a customer coming back?
+    - Does the value we are delivering to the client exceed the price we are charging? How do we know?
+    - What changes do I need to make to my business to ensure my continued relevance to my customers?
+  - **Increase Referrals and Repeats**
+    - What percentage of our business comes from repeat customers? Is that percentage growing? By how much?
+    - What are we doing to ensure that customers will come back for seconds?
+    - What could we do (that we are not currently doing) to cause our customers to want a second helping of what we are serving?
+    - How can we get them to come back more frequently?
+    - How would I run my business if 100% of my future growth was by referral and repeat customers only?
+    - What promise do we make to our customers?
+    - Where do we need to realign our internal operations to consistently deliver on this promise?
+    - What can I do to delight and amaze my customers?
+    - What can I do to cause my customers to become addicted to buying from me?
+  - **Define and Enhance Certainty of Success**
+    - What is my "success proposition"?
+    - What does my ideal customer consider "success"?
+    - What are we doing to give our customers "certainty of success"? What else do we need to do?
+    - What are we doing to meet their expectations?
+    - What expectations do my customers have that we are not meeting?
+    - What expectations have I set for my customers, and how are these different from the expectations I am delivering?
+  - **What can I do to cause my customers to say "I would have to be crazy to do business with someone else"?**
+    - Where have we compromised on the trade-offs necessary for my business to deliver on our success proposition?
+    - Where have we compromised or homogenized our niche by blurring our uniqueness in an attempt to grow?
+    - What are the activities we perform that are not aligned with each other? Where are we producing a result that is inconsistent with our message?
+    - What needs to happen for all my employees to know exactly what our success proposition is? . What are the specific activities each person must consistently perform to deliver this success proposition?
+    - Where does my dashboard need to be rebuilt to make sure I am measuring and monitoring this performance?
+    - Where does my compensation structure need to be adjusted to reward performance that delivers on our success proposition?
+  - **Enhance/Train the Sales Process**
+    - What is our existing script and process to enroll new customers?
+    - What is our current internal sales training process?
+    - What does a first-class training process look like?
+    - What is the curriculum we need to teach and train in order for our staff to be more effective at initiating and closing a sale?
+    - What books, videos, manuals, and audio training does our sales team have in their library, and how are these resources getting reviewed and mastered?
+    - How can we create a "best practices" process in which our team shares the best ideas and methodologies we discover?
+  - **Increase Conversion Percentage**
+    - What is our current conversion percentage, what is the target conversion percentage, and what must happen to close this gap?
+    - What training process do we need to create to increase the likelihood that prospective customers start doing business with us? (Also see the many questions in "If You Want to Grow..." on risk, friction, the difference that makes the difference, and certainty of success.)
+  - **Increase Transaction Value**
+    - If the formula Value = Benefits + Price is true, what must I do to dramatically increase a customer's perception of value?
+    - What high-margin product can be bundled with our current product offering that would increase the retail price to the customer and yield an asymmetrical profit margin increase? . Is it possible to increase my retail price by 2 to 5% and retain our current customer base?(Coca-Cola sells 2 billion units per day. A 1-penny increase in price yields an incremental $20 million/day bottom line profit. Not too shabby!)
+    - How have we educated our customers about the value of what we do? What needs to happen differently?
+
+  - **Increase Frequency**
+    - What might a loyalty or rewards program for our frequent buyers look like that would cause us to become our customers' preferred vendor?
+    - What is our niche/specialization/area of excellence, and how can we more effectively communicate this distinction?
+
+  - **Increase Leads/Drive Traffic**
+    - Who is my target market?
+    - Who can I create an alliance with that also touches or influences this target?
+    - Where can we find pockets of target customers who are frustrated with our competition?
+    - What are we doing to communicate to them that we are the solution they are looking for?
+    - What is my competition doing that is causing my ideal target customer to do business with them and not with me?
+    - What is my compelling message to this audience?
+    - What is the promise of our brand and what must happen to consistently deliver on this promise?
+    - What do I do for customers that no one else does?
+    - What can I do for customers that no one else does?
+    - What should we do for customers that no one else does?
+    - Do my ideal customers REALLY care about these differences?
+    - What is my reputation? What am I known for? What is my claim to fame?
+    - How do customers think and talk about my business?
+    - How would I like for them to talk about my business?
+    - What must change for them to talk about me that way?
+    - What must they be convinced of to start buying from me?
+    - Why aren't my ideal customers using me now?
+    - What is the message I need to communicate to cause my target customers to engage with us?
+    - What are the best communication channels available to communicate this message?
+
 
 # CREATING ENTERPRISE VALUE
 . A business that is exitable at the highest possible value has an Owner that obsessed about the predictability and sustainability of the future stream of earnings.
