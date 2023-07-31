@@ -205,7 +205,7 @@ is no such thing as a rich victim.
   - the key attributes are the abilities to question, probe, think sequentially, substitute rational thought for emotion, anticipate crisis, predict 2nd-order consequences, and identify risks.
   - The majority of dumb taxes incurred are a direct result of having only one voice in the conversation when the original decision was made. Adding experienced, wise, thoughtful, trustworthy voices to the conversation exposes risks, curtails faulty assumptions, and minimizes stupid.
   - a board of directors serves as a coach/trusted advisor to the CEO. How members of the board think and what they think about is something every CEO/Owner should emulate, whether or not they have a formal Board. The vast majority of large, successful companies added a board of directors early in their trajectory. Filling this vital role is an integral part of the journey that must be traveled to avoid misguided, overly enthusiastic, irrational lurches that create dub tax and slow value creation and growth.
-  -Its usually filled by a group of people that are not involved in the day to day activities of the business but rather have an outside-in look into the business.
+  - Its usually filled by a group of people that are not involved in the day to day activities of the business but rather have an outside-in look into the business.
 
   - Their purpose is to expose pit falls and curtail faulty assumptions and steer the company away from making costly mistakes.
 
@@ -227,8 +227,7 @@ is no such thing as a rich victim.
 
 # CULTURE IS KING (YOU GET WHAT YOU TOLERATE)
 
-- The key to a great culture is creating and fostering a never-ending conversation about the "rules of the game." The rules define the boundaries or guardrails so that everyone knows exactly how to act, how to communicate, and how to treat each other. Culture, not a value statement, is the key to high performance and becoming the employer of choice. (Enron's Value
-Statement was Respect, Integrity, Communication, Excellence. A plaque on the wall is not a substitute for culture, and neither are nap rooms.)
+- The key to a great culture is creating and fostering a never-ending conversation about the "rules of the game." The rules define the boundaries or guardrails so that everyone knows exactly how to act, how to communicate, and how to treat each other. Culture, not a value statement, is the key to high performance and becoming the employer of choice. (Enron's Value Statement was Respect, Integrity, Communication, Excellence. A plaque on the wall is not a substitute for culture, and neither are nap rooms.)
 - Anyone who says customers are #1 has lost their mind! Employees are #1. Employees are the source of all value creation. Culture (not jelly beans in the kitchen) is the source for engaged, turned-on employees. Show me a disinterested employee and I'll show you a lousy culture, a weak leader, and a poor customer experience.
 - When you're about to initiate a cultural shift, be aware of these three common culture saboteurs:
   - Iceberg #1: Deciding to change the culture within your business is not an initiative for the weak of heart or uncommitted. Creating and sustaining a world-class culture is an ongoing but immensely rewarding initiative. It lowe4rs turnover, improves efficiency, and makes the business a good place to work.
@@ -271,10 +270,8 @@ Statement was Respect, Integrity, Communication, Excellence. A plaque on the wal
 
 # GENERALIZATIONS KILL CLARITY
 
-- Generalizations kill clarity. Clarity equals power. Power is the ability to act. Whenever there is weak, ineffective, or no action, it is usually a result of a lack of clarity and/or
-accountability. (A Board of Directors is great at filling this role.)
-- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and  accountability require courage. A plan without specificity of deliverables and dates is a
-fantasy. Accountability should never be feared; it is the mother of great.
+- Generalizations kill clarity. Clarity equals power. Power is the ability to act. Whenever there is weak, ineffective, or no action, it is usually a result of a lack of clarity and/or accountability. (A Board of Directors is great at filling this role.)
+- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and  accountability require courage. A plan without specificity of deliverables and dates is a fantasy. Accountability should never be feared; it is the mother of great.
 - *Here are the specific, measurable steps I'm taken (broken down by week) and the milestones, timelines, resources, and personal calendar time I am committing to reach $2000000 in revenue this next quarter. These are the names of each lead in our funnel. This is who and how many I will call on this quarter. Here is the conversion percentage I will achieve. This is the monetary value of each transaction. Here ar the exact things I will do and the specific results I will generate to make certain we achieve our $2000000 target. I'll be reporting on these three specific measurable things (A, B, C) next week, and you should hold me accountable for achieving all 3*
 - the key questions to ask in preparing to create your plan always start with how, what or who
   - how will we achieve this outcome?
@@ -449,8 +446,7 @@ fantasy. Accountability should never be feared; it is the mother of great.
 - **Thinking Time**
   - As I look back at my most significant losses, stupidest decisions, and biggest mistakes, what are the fifty most important lessons I have learned?
   - Where am I making some of these same mistakes again?
-  - Based on prior lessons learned, what do I need to change
-  (immediately) to avoid the dreaded dumb tax?
+  - Based on prior lessons learned, what do I need to change (immediately) to avoid the dreaded dumb tax?
   - What are the rules and disciplines I will put in place to minimize the likelihood of repeating my mistakes?
 
 # ORDINARY THINGS, CONSISTENTLY DONE, PRODUCE EXTRAORDINARY RESULTS!
@@ -476,7 +472,7 @@ fantasy. Accountability should never be feared; it is the mother of great.
   - What are three outcomes we previously set but have abandoned because of unrealistic expectations or inconsistent execution? Should any of these outcomes be resuscitated and reprioritized with the accompanying realistic plans, resources, and time frames?
   - What are three bad habits/business practices we have tolerated that are undermining our results?
   - What are the decisions I must make and
-  -he hard conversations I must have to break these bad habits once and for all?
+  - the hard conversations I must have to break these bad habits once and for all?
   - How will I adjust my behavior to create the success/outcomes I envision?
 
 # O BABY!
@@ -568,12 +564,11 @@ Help me understand what you believe about this.
   - Who are the people in my organization that seem to require repeat conversations about the same issue?
   - What is the "belief coaching" they need to get clarity around the correct beliefs that will enable them to do and keep their job?
   - What is the deliverable that is missing?
-  -hat is the outcome I want that isn't being delivered?
+  - what is the outcome I want that isn't being delivered?
   - Where am I frustrated because an employee is not performing at the standard I expect (and set)?
   - Is the problem that I haven't set a clear standard?
   - Is the problem a lack of specificity about what I want it to look like? A lack of training? A lack of consistent coaching (calling it tight) when the problem arises? A lack of understanding about why this is important and why it needs to be done correctly every time?
-  - Where have I created (or tolerated) a culture of mediocrity, an absence of
- accountability, a fear of saying what needs to be said, and an inattention to results, measurements, and periodic correction? 
+  - Where have I created (or tolerated) a culture of mediocrity, an absence of accountability, a fear of saying what needs to be said, and an inattention to results, measurements, and periodic correction? 
   - What is the belief my employees must have for this problem to persist and what belief needs to be substituted for my employee to excel?
   - Who needs to get an apology from me? 
   - What is the coaching I need to deliver to make sure the problem gets fixed and stays that way?
@@ -616,10 +611,8 @@ Help me understand what you believe about this.
   - What existing knowledge, training, or experience needs to be abandoned?
   - What are the new, fresh ideas and solutions we need to create to get us past this
   problem and back on track to our desired outcomes?
-  - Survivors and successful people are always learning, innovating, and adjusting. If
-  this statement is true, what do we need to learn and where do we need to adjust our performance to succeed?
-  - Who around me is screaming an alternative solution, but I am ignoring them because
-I don't see the problem or the need to shift strategies?
+  - Survivors and successful people are always learning, innovating, and adjusting. If this statement is true, what do we need to learn and where do we need to adjust our performance to succeed?
+  - Who around me is screaming an alternative solution, but I am ignoring them because I don't see the problem or the need to shift strategies?
   - Under the broad heading "What got me here won't get me there," who do I need on my team, who is excess baggage slowing me down, and what do we need to start doing differently?
 
 # DREAMS AND DEMAND
@@ -627,8 +620,7 @@ I don't see the problem or the need to shift strategies?
   - About the stupidest thing management can do is to announce some lofty goal for the year ("Our revenue target is $6,000,000 this year.") without any thought about the working plan to attain it.
   - One of the hardest parts of designing the journey is being sober about reality and painstakingly honest about your current situation. Psychiatric hospitals are filled with people who are delusional about reality.
   - my life works to the degree I keep my commitments.
-  - Don't let your obsession with the dream get in the way of 
-  noticing the demand. Or as my friends on Wall Street say, "When the duck quacks, feed it."
+  - Don't let your obsession with the dream get in the way of noticing the demand. Or as my friends on Wall Street say, "When the duck quacks, feed it."
   - Being aware of the most common misconceptions and goal setting mistakes will help you avoid these pitfalls and minimize the likelihood of sabotaging the attainment of your desired outcomes.
     - The goal setter's focus is exclusively on the goal (Point B). Rarely is consideration given to the reality of where you are (Point A). In fact, one of the hardest parts of designing the journey is being sober about reality and painstakingly honest about your current situation.
     - The goal is typically little more than wishful thinking. So, we chant the magic goal-setting words with the expectation that this psychobabble verbal wizardry will create the desired outcome, even though there is no specific path, metrics, or specific, executable plan to achieve it. By tracking your effort you will immediately know whether your goals are really goals or simply fantasies.
@@ -639,9 +631,9 @@ I don't see the problem or the need to shift strategies?
     - We know that having clarity on both Point A and Point B is critical to success. We also know that overcoming some obstacle that is preventing attainment of this outcome is fundamental to success. Amazon has been particularly adept at walking this fine line with its willingness to invest, make mistakes, learn, and adjust to match the demand in the market.
 
   - Take a look at where you are in your life today. Chances are these three things are true:
-    1. Where you are today is beyond your wildest dreams compared to what you thought was possible when you were eighteen years old.
-    2. The route you took to get here was totally unpredictable from your vantage point as an eighteen-year-old.
-    3. The path that got you here was anything but linear or planned. If your life even remotely resembles mine, your path to this point is the most convoluted and tortuous route imaginable. Yet, here I am!
+    - 1. Where you are today is beyond your wildest dreams compared to what you thought was possible when you were eighteen years old.
+    - 2. The route you took to get here was totally unpredictable from your vantage point as an eighteen-year-old.
+    - 3. The path that got you here was anything but linear or planned. If your life even remotely resembles mine, your path to this point is the most convoluted and tortuous route imaginable. Yet, here I am!
 
 - **Thinking Time**
   - When I think about the outcomes (goals) we have set for the coming quarter or year, where do I need to get clarity about my starting point in terms of environment, resources, competition, etc.?
@@ -765,8 +757,7 @@ I don't see the problem or the need to shift strategies?
 - The reason companies lose relevance, go broke, or fade into the sunset is because they continue to grow, but fail to evolve. They rely on the wrong questions and old answers. Great questions, an open mind, flexibility, and a healthy dose of paranoia are your best friends in business. No business is safe: 435 of the Fortune 500 (87%) from 1955 are now gone... disappeared... kaput. The business environment kept on changing requiring a different set of answers-and they didn't come up with a better question. Stupid!
 
 - **Thinking Time**
-  - Where has the environment in which we've been operating
-  (economic, technology, regulatory, competition, customer
+  - Where has the environment in which we've been operating (economic, technology, regulatory, competition, customer
   preferences, employees, cultural) changed over the last few years?
   - How are customers' expectations different today than they were two or five years ago?
   - What will customers' expectations be twelve months from now? . Where has our expertise (relevance) as a company lagged or stagnated in the last thirty-six months?
@@ -807,8 +798,7 @@ I don't see the problem or the need to shift strategies?
   - I know that guardrails and rules help me avoid feeding every kitty scratching at my screen door. What are the most frequent reasons my calendar gets hijacked, and what guardrails do I need to build to keep these intruders from sabotaging my day?
   - Who have I given permission to tell me the truth and hold me accountable?
   - How frequently will I check in with this person?
-  - Am I willing to tell this person the truth so that he has the
-  opportunity to coach me?
+  - Am I willing to tell this person the truth so that he has the opportunity to coach me?
   - Am I ready to play this game to win, or do I want to keep dabbling... hoping to get lucky? What does that look like, specifically?
 
 
@@ -905,7 +895,7 @@ I don't see the problem or the need to shift strategies?
   - Where (exactly) has the culture of training, accountability, and integrity been sabotaged by an obsession with fixing the problems vs. keeping the problems fixed?
   - In our quest for size and speed, what are the changes that have caused the foundation to crack and the fundamentals to erode?
   - What changes must I make to our culture if these problems are to be fixed once and for all?
-  -I know there is a big difference between doing and done. What needs to be finished?
+  - I know there is a big difference between doing and done. What needs to be finished?
 
 # THE APOLOGY
 
@@ -1011,14 +1001,13 @@ So, here is the question you each need to answer: "Do I want to be a part of hel
 
 - Understanding Point A and Point B gives you clarity about the gap you are dealing with. Clarifying the gap is critical because residing in this gap is the obstacle that is preventing forward progress from here to there. All obstacles are in the gap between where you are and where you want to be. If you cannot identify a gap, the obstacle isn't even on your radar.
 - You can't create a strategy or prioritize your resources until you have clarity on the opportunity and the obstacles preventing progress toward the attainment of that opportunity (outcome).
-- A strategy is the idea about what needs to happen to overcome the obstacle preventing forward progress. Without clarity about the core
-problem (the obstacle), a plan (the specific action steps required to implement the strategy) is a waste of time.
+- A strategy is the idea about what needs to happen to overcome the obstacle preventing forward progress. Without clarity about the core problem (the obstacle), a plan (the specific action steps required to implement the strategy) is a waste of time.
 - "stragetic growth" implies a willingness to realistically think through the existing internal assets and external needcs/pain that could define an opportunity for leveraged growth.
 - the concept of strategic growth is in sharp contrast to:
   - **"Brute force growth** - which Proctor & Gamble and the remainder of the fortune 500 engage in. They have massive resources: time, money, consultants, and employees.
   - **"Hopium" growth** - which counts on getting lucky and finding a few customers who buy, but never really quite understanding which market segment they represent or why those folks are buying. These customers tend to be very transient and are at high risk of being lured away by the competition.
   - **"Tactical" growth** - which subscribes to the theory that increasing the size of the funnel, adding two new salespeople, doubling the conversion percentage, rebuilding the website, and initiating a social media campaign (all tactics) are the one-size-fits-all answer to all growth and revenue problems.
-  -** "Throw it against the wall and maybe something will stick" growth** - which relies on the erroneous belief that if you just turn on the faucet, hot water will eventually come out.
+  - **"Throw it against the wall and maybe something will stick" growth** - which relies on the erroneous belief that if you just turn on the faucet, hot water will eventually come out.
 - Strategic growth relies on a simple formula:
   - **Internal Strengths + External Needs = Opportunity**
   - Internal strengths require you to think, analyze, and question. 
@@ -1110,11 +1099,11 @@ problem (the obstacle), a plan (the specific action steps required to implement 
 # CORRECTING THE BUSINESS MODEL
 
 - A business model asks five questions:
-  1. How many resources (time-effort-money) have to be invested? 
-  2. Over what period of time?
-  3. To produce what volume of revenue?
-  4. Is that revenue adequate to cover the costs of creating and servicing that revenue stream with enough left over to justify the effort and risk?
-  5. Are the investors (who allocated the resources in #1 above) provided with a superior return on their investment in the desired time frame?
+  - 1. How many resources (time-effort-money) have to be invested? 
+  - 2. Over what period of time?
+  - 3. To produce what volume of revenue?
+  - 4. Is that revenue adequate to cover the costs of creating and servicing that revenue stream with enough left over to justify the effort and risk?
+  - 5. Are the investors (who allocated the resources in #1 above) provided with a superior return on their investment in the desired time frame?
 
 - I suspect you are like me and most other business owners I know who have decided to grow our businesses in an attempt to become more successful. And, like me, you have occasionally experienced less profitability and cash flow as a result of that flurry of activity. Outgrowing your business model is usually visible when your machine starts to rattle or inefficiencies pop up, resulting in smaller bottom line profits and more drama. That's a sure sign you have a business model problem, not a marketing challenge.
 
@@ -1309,8 +1298,7 @@ The high value from this risk assessment thinking comes in the creation of asymm
 - "if the marketing is done right, selling becomes unnecessary." marketing is defined as figuring out the red-hot, searing pain and offering a product or service that solves that problem. Aspirin sells itself.
 
 - **Thinking Time**
-  - Where have we let an obsession with our passion get in the way of an outward focus
-  of finding the group of customers who have a problem I can solve?
+  - Where have we let an obsession with our passion get in the way of an outward focus of finding the group of customers who have a problem I can solve?
   - Why are customers buying this product or service and what is really most important to them?
   - Where is the red-hot, searing pain or frustration in the market, and what are we doing to address that problem?
   - What needs to happen to cause our target market to discriminate in our favor (really!)?
@@ -1320,7 +1308,7 @@ The high value from this risk assessment thinking comes in the creation of asymm
 # PRIORITIZING GROWTH STRATEGIES
 - [growth funnel](./growth-funnel.png)
 
-1. **Keep More Customers:** Business owners are notorious for falling in love with their products and the genius of their ideas. The product does not have the money, though. The product does not care who owns it. The customer has the money. The customer has a specific problem and unmet needs that she wants addressed. She is searching for a solution and someone to do business with that will meet or even exceed her expectations. The primary key to growth is to fall in love with the customer, not the product. (See "Mommas Love Their Babies" if you need more convincing.)
+- 1. **Keep More Customers:** Business owners are notorious for falling in love with their products and the genius of their ideas. The product does not have the money, though. The product does not care who owns it. The customer has the money. The customer has a specific problem and unmet needs that she wants addressed. She is searching for a solution and someone to do business with that will meet or even exceed her expectations. The primary key to growth is to fall in love with the customer, not the product. (See "Mommas Love Their Babies" if you need more convincing.)
   - The most common reason businesses fail to grow is not that they aren't adding enough new customers; it's that they aren't keeping the customers they've got.
   - Don't believe me? Ask yourself this question: "How big would my business be if I still had every customer who ever tried me?"
   - If your growth initiatives are exclusively focused on how to get new customers to try you, you are not focused on meeting and exceeding your current customers' needs and expectations. Adding a new customer is great if you simultaneously keep all your existing customers. But adding a new customer and losing an existing customer is a strategy for treading water and getting tired.
@@ -1329,28 +1317,28 @@ The high value from this risk assessment thinking comes in the creation of asymm
     b. **GAGI - Go and Get It**. After you are clear about the pain, frustration, needs, and expectations of your customers, your job as a business Owner is to find the pain reliever (solution) that meets their outcomes and definition of success. This means designing a solution that specifically addresses your target market's problem in a way that is meaningfully different from what is currently available.
     c. **GITT - Give It to Them.** It does no good to find out what customers want, to go and get it, and then not to deliver it to them. GITT is really about the "how" you do it, not the "what" you do. You can give someone a great tasting meal, but an inattentive waiter (or an overly attentive one who interrupts your conversations) will spoil the evening. Alternatively, you can receive an average meal, but the service, atmosphere, and ambiance are so outstanding, the evening is a stupendous success.
 
-2. **Increase Referrals and Repeats:** Here's a question for you: Name me one business that could survive a year without any referrals or repeat business. It's hard to do. I have found that most business owners get so excited about adding new customers they fail to appreciate and show the love to their existing ones. Why offer discounts only to people who have never tried you before? The customers that have been paying our bills for the last ten years are the ones we should be bending over backwards to take care of.
+- 2. **Increase Referrals and Repeats:** Here's a question for you: Name me one business that could survive a year without any referrals or repeat business. It's hard to do. I have found that most business owners get so excited about adding new customers they fail to appreciate and show the love to their existing ones. Why offer discounts only to people who have never tried you before? The customers that have been paying our bills for the last ten years are the ones we should be bending over backwards to take care of.
     - **Sustainable growth requires two things: keeping the customers you've got, and adding new ones.**
     - A great growth question that will help you get clarity on this idea is this: **"How would you run your business if 100% of your future growth was by referral and repeat business only?"** 
 
-3. **Define and Enhance Certainty of Success:** The clichés "add more value" and "value proposition" are incredibly overused by marketing experts to describe what your business should deliver to your customers and, thereby, differentiate yourself from your competition. I think about this concept a different way . . . **a “success proposition.” What has to happen to give your customers certainty of success?**
-    - Your customers get to define success, not you. They don't really care about what you want to sell them or how excited you are about your product. At the end of the transaction, they just want to be able to say, "Yes!!! That's exactly what I wanted and I loved it... I'll be back!" The fundamental success proposition question you should design your business around, especially if you are interested in growth, is: "What has to happen so the customer will say 'I'd have to be crazy to do business with someone else!"?"
+- 3. **Define and Enhance Certainty of Success:** The clichés "add more value" and "value proposition" are incredibly overused by marketing experts to describe what your business should deliver to your customers and, thereby, differentiate yourself from your competition. I think about this concept a different way . . . **a “success proposition.” What has to happen to give your customers certainty of success?**
+  - Your customers get to define success, not you. They don't really care about what you want to sell them or how excited you are about your product. At the end of the transaction, they just want to be able to say, "Yes!!! That's exactly what I wanted and I loved it... I'll be back!" The fundamental success proposition question you should design your business around, especially if you are interested in growth, is: "What has to happen so the customer will say 'I'd have to be crazy to do business with someone else!"?"
 
-4. Enhance/Train the Sales Process: Most amateurs in business, especially in sales, attempt to "wing it" when it comes to the sales process and presentation. This is a truly bad idea because you will always produce inconsistent results and have no clue what is causing them.
-     - The best people in the world at sales and sales training have a formula, a script, a process, or a recipe they use. They rehearse and practice that process... repeatedly. They rehearse simulated sales processes, ask the toughest questions, raise the worst objections, and then design answers and responses to all of them.
-     - **Mastery = Practicing the right thing in an effort to get better. When the training stops, so does the progress. Candidly, I have found that I am not talented or smart enough to be unprepared.**
-     - Attempting to get more leads before training or retraining on the sales process is likely to result in wasted money and burnt leads.
+- 4. Enhance/Train the Sales Process: Most amateurs in business, especially in sales, attempt to "wing it" when it comes to the sales process and presentation. This is a truly bad idea because you will always produce inconsistent results and have no clue what is causing them.
+  - The best people in the world at sales and sales training have a formula, a script, a process, or a recipe they use. They rehearse and practice that process... repeatedly. They rehearse simulated sales processes, ask the toughest questions, raise the worst objections, and then design answers and responses to all of them.
+  - **Mastery = Practicing the right thing in an effort to get better. When the training stops, so does the progress. Candidly, I have found that I am not talented or smart enough to be unprepared.**
+  - Attempting to get more leads before training or retraining on the sales process is likely to result in wasted money and burnt leads.
 
-5. Increase Conversion Percentage: Obviously, if you get the same number of leads but do a better, more consistent job of closing them, your sales will increase. We know we want to increase the number of customers we have. The low-hanging fruit solution is to increase the closing percentage. If you are currently closing 25% of your leads, a 5% increase in your close ratio is the equivalent of increasing your leads by 20%. (Increasing your conversion or closing ratio is dependent on the training idea outlined immediately above in #4.)
+- 5. Increase Conversion Percentage: Obviously, if you get the same number of leads but do a better, more consistent job of closing them, your sales will increase. We know we want to increase the number of customers we have. The low-hanging fruit solution is to increase the closing percentage. If you are currently closing 25% of your leads, a 5% increase in your close ratio is the equivalent of increasing your leads by 20%. (Increasing your conversion or closing ratio is dependent on the training idea outlined immediately above in #4.)
 
-6. **Increase Transaction Size:** Sometimes we have multiple products or services that can be packaged together. When the price of the package is less than the total of the à la carte prices, customers perceive a deal and tend to buy the bigger (higher-priced) package. This is the McDonald's theme of "Do you want fries with that?"
+- 6. **Increase Transaction Size:** Sometimes we have multiple products or services that can be packaged together. When the price of the package is less than the total of the à la carte prices, customers perceive a deal and tend to buy the bigger (higher-priced) package. This is the McDonald's theme of "Do you want fries with that?"
   - Perhaps you can offer a high-margin, low-cost "bonus” of an ancillary product or service, which would enable you to increase your overall price to the customer but incur relatively minor increases in your expenses.
   - **Increasing revenue and sabotaging profits is a formula for poor.**
   - The central idea is to design a package that will, for example, increase revenue by 10% and increase profits by 15%. Sometimes the transaction value can be increased with something as simple as a modest price increase. If you have a 10% profit margin, a 2% price increase will have the same bottom line impact on profits as a 20% increase in revenue.
 
-7. **Increase Frequency:** Many successful businesses increase the frequency of customer purchase by helping the customer see the value of shopping exclusively with them. A rewards or frequent buyer program is often used for this purpose. Southwest Airlines does not expect you to fly more frequently as a result of their frequent flyer program, but they are incentivizing you to fly with them when you book those next tickets. Loyalty is very powerful because it drives repeat business. Repeat business does not have the usual customer acquisition costs and, therefore, is much more profitable.
+- 7. **Increase Frequency:** Many successful businesses increase the frequency of customer purchase by helping the customer see the value of shopping exclusively with them. A rewards or frequent buyer program is often used for this purpose. Southwest Airlines does not expect you to fly more frequently as a result of their frequent flyer program, but they are incentivizing you to fly with them when you book those next tickets. Loyalty is very powerful because it drives repeat business. Repeat business does not have the usual customer acquisition costs and, therefore, is much more profitable.
 
-8. **Increase Leads/Drive Traffic:** You will immediately notice that this link in the Growth Funnel chain is last on the list. The reason is because it is usually the highest-hanging fruit and consequently the most difficult to attain. In most circumstances, the first seven strategies to impact the top line should be executed and optimized prior to allocating resources to drive the number of leads. 
+- 8. **Increase Leads/Drive Traffic:** You will immediately notice that this link in the Growth Funnel chain is last on the list. The reason is because it is usually the highest-hanging fruit and consequently the most difficult to attain. In most circumstances, the first seven strategies to impact the top line should be executed and optimized prior to allocating resources to drive the number of leads. 
   - **Optimize before you maximize.**
   - No one likes to hear this message, because designing websites, writing advertising copy, devising PR campaigns, and creating social media strategies are way more fun and exciting than working on sales scripts, referrals, and repeat business.
   - When the time is right to work on increasing leads and driving traffic, it is critical to optimize for quality, not quantity. We do not need more eyeballs or visitors to our website; we need to reach our target market with a compelling message.
@@ -1447,15 +1435,16 @@ Picture this. Suppose your business produced $1,000,000/year of earnings. And as
 - Some risks are identifiable by studying a business's financial statements, which is what my CFO Scoreboard® (available at http://www .CFOScoreboard.com) is designed to do. Some risks are embedded in the structure or framework of the business and are hard to identify by looking only at the numbers. Other risks are environmental (e.g., the economy) and are, by their very nature, uncontrollable, but that doesn't necessarily mean they are unmanageable.
 
 - The following is a description of the six critical "non-financial statement" risks an Owner and his management team must address (and continue to monitor) to increase the predictability and sustainability of the future stream of earnings and thus maximize the enterprise value and exitability of the business.
-  1. Concentration Risk: A business that produces $50,000,000 of profits is not necessarily a healthy or even an exitable business. If it has 10,000 customers and one of those customers accounts for 75% of its revenue and profits, this business is in serious jeopardy of failing. This is called concentration risk, and it happens when the business is too reliant on any one customer, supplier, distribution channel, account receivable, referral source, strategic partner, IT, employee, or Owner. Another way of describing concentration risk is single- point-of-failure risk, meaning that if only one thing goes wrong, Humpty Dumpty can hit the concrete.
+  - 1. Concentration Risk: A business that produces $50,000,000 of profits is not necessarily a healthy or even an exitable business. If it has 10,000 customers and one of those customers accounts for 75% of its revenue and profits, this business is in serious jeopardy of failing. This is called concentration risk, and it happens when the business is too reliant on any one customer, supplier, distribution channel, account receivable, referral source, strategic partner, IT, employee, or Owner. Another way of describing concentration risk is single- point-of-failure risk, meaning that if only one thing goes wrong, Humpty Dumpty can hit the concrete.
      - Buyers are uncomfortable with concentration risks and therefore ratchet the purchase price down or simply pass on buying your business. For the majority of small businesses, the Owner is the most significant single-point-of-failure risk, which explains their low exit valuations and difficulty in selling.
-  2. Sustainability Risks: Buyers of businesses are buying the future stream of earnings. Any risk that could disrupt those future earnings impacts the sustainability of the business and therefore minimizes the enterprise value. The greater the risk (or the greater the number of risks), the less the value.
+  - 2. Sustainability Risks: Buyers of businesses are buying the future stream of earnings. Any risk that could disrupt those future earnings impacts the sustainability of the business and therefore minimizes the enterprise value. The greater the risk (or the greater the number of risks), the less the value.
      - What could disrupt the future stream of earnings? This question goes to the heart of risk analysis and is an extremely important question for all owners to think about. Earnings are a result of revenues minus expenses, so the question I am really asking is: "What could cause revenues to tumble or expenses to soar?" This is a simple question, but it requires serious thought and candor. A business that lacks a clear, sustainable path to profitability is a business that is difficult to exit at any price. Hint: **Do not confuse sustainability with stability. Volatility is not synonymous with risk.**
-  3. Business Model Risks: A business model is the structure of how a business makes money and reveals whether or not the amount made is adequate to compensate the investors for the risks they take. Embedded within this definition are lots of unseen but vital assumptions about the target market, pricing, competition, quality of products, distribution channels, performance guarantees, asset acquisitions, resource allocation, staffing requirements, capital structure... and the list goes on.
+  - 3. Business Model Risks: A business model is the structure of how a business makes money and reveals whether or not the amount made is adequate to compensate the investors for the risks they take. Embedded within this definition are lots of unseen but vital assumptions about the target market, pricing, competition, quality of products, distribution channels, performance guarantees, asset acquisitions, resource allocation, staffing requirements, capital structure... and the list goes on.
      - All business models are subject to both internal and external pressures, which will require you to bend and sometimes break your own model to remain competitive and relevant in the marketplace. You and I both know of businesses that relied on a page-one Google ranking for their primary marketing. The instant Google changed its algorithms, the ranking and the customers vaporized. Google can be risky, too.
      - Understanding the threats to and weaknesses of your business model is imperative to creating a sustainable and exitable business.
-  4. External Risks: All businesses operate in an environment and are therefore subject to external risks. Something can always go wrong, and often these bad things are not only external to the business but also things we have zero control over. External risks might include your competition, a hatchet job by the crew of 60 Minutes, a regulatory change, China's GDP slowing down, interest rates skyrocketing, or a repeat of the 2008 economic meltdown. Some of these risks might be manageable, but most are probably uncontrollable. Whether the risk is internal or external, manageable or uncontrollable, it is vital that you identify these risks early on and keep your eye on them.
-  5. Leverage Risk: Adding debt to any financial structure adds risk. When businesses borrow money, the underlying emotion is optimism. More often than not, the money is originally borrowed to facilitate some growth opportunity the management team has identified. And, rather than give up equity, and thereby spread the risk (and the upside if it works), we get greedy.
+  - 4. External Risks: All businesses operate in an environment and are therefore subject to external risks. Something can always go wrong, and often these bad things are not only external to the business but also things we have zero control over. External risks might include your competition, a hatchet job by the crew of 60 Minutes, a regulatory change, China's GDP slowing down, interest rates skyrocketing, or a repeat of the 2008 economic meltdown. Some of these risks might be manageable, but most are probably uncontrollable. Whether the risk is internal or external, manageable or uncontrollable, it is vital that you identify these risks early on and keep your eye on them.
+
+  - 5. Leverage Risk: Adding debt to any financial structure adds risk. When businesses borrow money, the underlying emotion is optimism. More often than not, the money is originally borrowed to facilitate some growth opportunity the management team has identified. And, rather than give up equity, and thereby spread the risk (and the upside if it works), we get greedy.
      - The belief is that this money can be borrowed and deployed with returns that will meet certain size and timing assumptions. When those assumptions turn out to be wrong and the profits are delayed or less than anticipated, the burden of that excessive optimism comes home to roost.
      - Too much debt stresses cash and cash flow, which ultimately endangers the viability of the business. Interest payments must be made. Loans must be repaid. Covenants must be met. When interest payments, loan repayments, and covenants are missed, management spends its time in workout meetings with the lender instead of running and growing the business. If the debt is severe enough, the existence of the business is threatened. Understanding the debt structure, interest rates, debt maturities, debt service requirements and capabilities, and robustness of lender relationships is crucial for all business owners. Making sure there are adequate cash reserves to fund future debt repayment obligations is mandatory.
      - To help me avoid excessive optimism, over-leveraging, and the dreaded dumb tax, I use a simple formula I call the Power of 3.
@@ -1463,7 +1452,7 @@ Picture this. Suppose your business produced $1,000,000/year of earnings. And as
         b. What's the downside? (We rarely think this one through, because we ignore risks.)
         c. Can I live with the downside? (Only the pros ask this question, which is why they are rich.)
   
-  6. Excess Capacity Risk: Like all machines, businesses are comprised of integrated parts. It does no good to have an engine that can go 300 mph if the suspension can only handle 100 mph. The extra 200 mph of horsepower under the hood are a waste. Similarly, every business has underutilized assets or excess production capability that can be made more productive, outsourced, or eliminated from the business's cost or capital structure. Examples might include staff, inventory, excessive receivables, production capability, knowledge, strategic relationships, expertise, office or warehouse space, alliances, etc.
+  - 6. Excess Capacity Risk: Like all machines, businesses are comprised of integrated parts. It does no good to have an engine that can go 300 mph if the suspension can only handle 100 mph. The extra 200 mph of horsepower under the hood are a waste. Similarly, every business has underutilized assets or excess production capability that can be made more productive, outsourced, or eliminated from the business's cost or capital structure. Examples might include staff, inventory, excessive receivables, production capability, knowledge, strategic relationships, expertise, office or warehouse space, alliances, etc.
      - A key component of running the business end of your business is correctly identifying where the business should allocate its resources. If resources are idle or lacking in productivity, a great business Owner will strike immediately and remedy this waste.
      - The myth that entrepreneurs are risk-takers is misguided. The entrepreneurs you read about in the Wall Street Journal and Forbes magazine have taken calculated risks. They understood what could go wrong, had a "Plan B," and managed their business to minimize the probability and cost in the event of a mistake.
 
@@ -1500,9 +1489,10 @@ Picture this. Suppose your business produced $1,000,000/year of earnings. And as
   - studying the consumer/target market's unfulfilled needs and frustrations and identifying the exact problem these specific consumers/target market want solved;
 
 - Business owners make three big mistakes when it comes to planning:
-  1. The most common mistake is substituting a description of the destination for a road map —a plan of exactly and specifically how we are going to get from Point A to Point B.
-  2. The second most common mistake is falling in love with the dream-the destination itself. An obsession with the dream obscures your ability to see whether or not there's a demand for it.
-  3. The third most common mistake is creating a ten-year plan, which is crazy. It is never really a plan but rather an idea. . . a dream... wishful thinking (which usually takes the form of projected hockey-stick growth and profits based on quadrupling customers on a compound basis with no thought to how that magic trick is performed). The reality is that too many things are happening way too fast with too many competitors and changes in the environment to predict future financial performance that far in advance. Most business owners I know would be better off with a ten-year commitment than a ten-year “plan.”
+  - 1. The most common mistake is substituting a description of the destination for a road map —a plan of exactly and specifically how we are going to get from Point A to Point B.
+  - 2. The second most common mistake is falling in love with the dream-the destination itself. An obsession with the dream obscures your ability to see whether or not there's a demand for it.
+  - 3. The third most common mistake is creating a ten-year plan, which is crazy. It is never really a plan but rather an idea. . . a dream... wishful thinking (which usually takes the form of projected hockey-stick growth and profits based on quadrupling customers on a compound basis with no thought to how that magic trick is performed). The reality is that too many things are happening way too fast with too many competitors and changes in the environment to predict future financial performance that far in advance. Most business owners I know would be better off with a ten-year commitment than a ten-year “plan.”
+
 - The value of planning is the clarity of being able to explain your strategy and blueprint to increase your level of financial success in the current environment, which is very different from being able to explain how the current environment has impacted your level of financial success. One is planning and the other is a justification.
 - Here are some problems with no planning:
   - You are in a constant state of reacting to the problem du jour... Whack-a-Mole. If you are reacting, you're too late... and tired.
@@ -1724,7 +1714,8 @@ It does no good to measure and then fail to communicate your findings to the app
   - ask for advice;
   - admit mistakes and errors in judgment;
   - make the difficult decisions and have the hard conversations;
-  - listen with the intent to understand, not the intent to justify or reply; ⚫ initiate change; and
+  - listen with the intent to understand, not the intent to justify or reply; 
+  - initiate change; and
   - face reality.
 
 - I lacked courage forty years ago with my first Board of Directors. I was afraid to ask for advice because I erroneously believed that exposing my doubts and anxieties were signs of incompetence. But I had it all wrong. The Board meetings weren't all about me. They were all about the business. And it was crucial that anything and everything that could possibly have an impact on the life, the survival of the business needed to be brought to the table. I've since realized these truths about the necessity of communicating with a Board:
