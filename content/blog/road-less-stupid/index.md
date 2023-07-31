@@ -1434,157 +1434,343 @@ The high value from this risk assessment thinking comes in the creation of asymm
 
 
 # CREATING ENTERPRISE VALUE
-. A business that is exitable at the highest possible value has an Owner that obsessed about the predictability and sustainability of the future stream of earnings.
-•Regardless of the decision to sell or not, the path to maximizing the enterprise value and creating exitability remains the same: Grow the earnings and control risks.
-.The things that can go wrong are the things that jeopardize the enterprise value and exitability.
-• Do not confuse sustainability with stability. Volatility is not synonymous with risk.
-. Regardless of your firefighting expertise, knowing where the gasoline is stored prior to the fire is critical to preventing the building from exploding in the event of an ill-conceived match.
-Minimizing the internal and external risks and how these risks impact the predictability and sustainability of your future stream of earning is critical to the value of your business and your ultimate exitability as an Owner.
+
+
+- A business that is exitable at the highest possible value has an Owner that obsessed about the predictability and sustainability of the future stream of earnings.
+
+- The biggest problem with an exit is that, after the sale, you have a ton of cash and no cash flow. So, now you must invest this cash someplace (usually someplace you know very little about) to receive a return, and few returns can match the cash flow of the business you just sold.
+Picture this. Suppose your business produced $1,000,000/year of earnings. And assume businesses in your industry are typically valued at four times the earnings because the industry has a higher- than-average predictability and sustainability of future earnings. And imagine that your specific business was unusually attractive and, therefore, commanded a premium multiple of five times earnings. You sell the business, receive $5.0 million cash (assuming your buyer is a cash buyer-an extremely unlikely assumption when dealing with smaller businesses), and now you pay taxes of 20%. Let's assume the taxes are $1.0 million. You now have a remaining balance of $4.0 million that needs to be invested and somehow receive a $1,000,000 annual return (that's a 25% annual rate of return) to match what you were making before.
+
+- Regardless of the decision to sell or not, the path to maximizing the enterprise value and creating exitability remains the same: Grow the earnings and control risks.
+
+- The things that can go wrong are the things that jeopardize the enterprise value and exitability.
+- Some risks are identifiable by studying a business's financial statements, which is what my CFO Scoreboard® (available at http://www .CFOScoreboard.com) is designed to do. Some risks are embedded in the structure or framework of the business and are hard to identify by looking only at the numbers. Other risks are environmental (e.g., the economy) and are, by their very nature, uncontrollable, but that doesn't necessarily mean they are unmanageable.
+
+- The following is a description of the six critical "non-financial statement" risks an Owner and his management team must address (and continue to monitor) to increase the predictability and sustainability of the future stream of earnings and thus maximize the enterprise value and exitability of the business.
+  1. Concentration Risk: A business that produces $50,000,000 of profits is not necessarily a healthy or even an exitable business. If it has 10,000 customers and one of those customers accounts for 75% of its revenue and profits, this business is in serious jeopardy of failing. This is called concentration risk, and it happens when the business is too reliant on any one customer, supplier, distribution channel, account receivable, referral source, strategic partner, IT, employee, or Owner. Another way of describing concentration risk is single- point-of-failure risk, meaning that if only one thing goes wrong, Humpty Dumpty can hit the concrete.
+     - Buyers are uncomfortable with concentration risks and therefore ratchet the purchase price down or simply pass on buying your business. For the majority of small businesses, the Owner is the most significant single-point-of-failure risk, which explains their low exit valuations and difficulty in selling.
+  2. Sustainability Risks: Buyers of businesses are buying the future stream of earnings. Any risk that could disrupt those future earnings impacts the sustainability of the business and therefore minimizes the enterprise value. The greater the risk (or the greater the number of risks), the less the value.
+     - What could disrupt the future stream of earnings? This question goes to the heart of risk analysis and is an extremely important question for all owners to think about. Earnings are a result of revenues minus expenses, so the question I am really asking is: "What could cause revenues to tumble or expenses to soar?" This is a simple question, but it requires serious thought and candor. A business that lacks a clear, sustainable path to profitability is a business that is difficult to exit at any price. Hint: **Do not confuse sustainability with stability. Volatility is not synonymous with risk.**
+  3. Business Model Risks: A business model is the structure of how a business makes money and reveals whether or not the amount made is adequate to compensate the investors for the risks they take. Embedded within this definition are lots of unseen but vital assumptions about the target market, pricing, competition, quality of products, distribution channels, performance guarantees, asset acquisitions, resource allocation, staffing requirements, capital structure... and the list goes on.
+     - All business models are subject to both internal and external pressures, which will require you to bend and sometimes break your own model to remain competitive and relevant in the marketplace. You and I both know of businesses that relied on a page-one Google ranking for their primary marketing. The instant Google changed its algorithms, the ranking and the customers vaporized. Google can be risky, too.
+     - Understanding the threats to and weaknesses of your business model is imperative to creating a sustainable and exitable business.
+  4. External Risks: All businesses operate in an environment and are therefore subject to external risks. Something can always go wrong, and often these bad things are not only external to the business but also things we have zero control over. External risks might include your competition, a hatchet job by the crew of 60 Minutes, a regulatory change, China's GDP slowing down, interest rates skyrocketing, or a repeat of the 2008 economic meltdown. Some of these risks might be manageable, but most are probably uncontrollable. Whether the risk is internal or external, manageable or uncontrollable, it is vital that you identify these risks early on and keep your eye on them.
+  5. Leverage Risk: Adding debt to any financial structure adds risk. When businesses borrow money, the underlying emotion is optimism. More often than not, the money is originally borrowed to facilitate some growth opportunity the management team has identified. And, rather than give up equity, and thereby spread the risk (and the upside if it works), we get greedy.
+     - The belief is that this money can be borrowed and deployed with returns that will meet certain size and timing assumptions. When those assumptions turn out to be wrong and the profits are delayed or less than anticipated, the burden of that excessive optimism comes home to roost.
+     - Too much debt stresses cash and cash flow, which ultimately endangers the viability of the business. Interest payments must be made. Loans must be repaid. Covenants must be met. When interest payments, loan repayments, and covenants are missed, management spends its time in workout meetings with the lender instead of running and growing the business. If the debt is severe enough, the existence of the business is threatened. Understanding the debt structure, interest rates, debt maturities, debt service requirements and capabilities, and robustness of lender relationships is crucial for all business owners. Making sure there are adequate cash reserves to fund future debt repayment obligations is mandatory.
+     - To help me avoid excessive optimism, over-leveraging, and the dreaded dumb tax, I use a simple formula I call the Power of 3.
+        a. What's the upside? (I am pretty good at this one, and so are you.)
+        b. What's the downside? (We rarely think this one through, because we ignore risks.)
+        c. Can I live with the downside? (Only the pros ask this question, which is why they are rich.)
+  
+  6. Excess Capacity Risk: Like all machines, businesses are comprised of integrated parts. It does no good to have an engine that can go 300 mph if the suspension can only handle 100 mph. The extra 200 mph of horsepower under the hood are a waste. Similarly, every business has underutilized assets or excess production capability that can be made more productive, outsourced, or eliminated from the business's cost or capital structure. Examples might include staff, inventory, excessive receivables, production capability, knowledge, strategic relationships, expertise, office or warehouse space, alliances, etc.
+     - A key component of running the business end of your business is correctly identifying where the business should allocate its resources. If resources are idle or lacking in productivity, a great business Owner will strike immediately and remedy this waste.
+     - The myth that entrepreneurs are risk-takers is misguided. The entrepreneurs you read about in the Wall Street Journal and Forbes magazine have taken calculated risks. They understood what could go wrong, had a "Plan B," and managed their business to minimize the probability and cost in the event of a mistake.
+
+- Minimizing the internal and external risks and how these risks impact the predictability and sustainability of your future stream of earning is critical to the value of your business and your ultimate exitability as an Owner.
+
+- **Thinking Time**
+  - What are the concentration risks in our business?
+  - Where are we exposed if we lose a key person or relationship?
+  - What could disrupt our revenue, customer acquisition, repeat business, or referrals? (Chipotle restaurants and Blue Bell Ice Cream thought this wasn't a risk... until it was.)
+  - What could cause our expenses to dramatically escalate?
+  - Where are the risks in our business model structure?
+  - What assumptions are we making about the continuity of our business structure and source(s) of revenue?
+  - What are the external risks that we are exposed to and how might we best inoculate ourselves from catching whatever “dis-ease” might break out?
+  - Where have we been overly optimistic with our capital structure and debt load?
+  - What is the plan if our revenues and cash flow take a 25% hit?
+  - How much do I need in dry powder (cash reserves) to be able to weather a six- to twelve- month storm?
+  - Where is the excess capacity in our business? How do we make our "assets" more productive or eliminate some waste/redundancy?
+  - What really needs to happen to improve the exitability of my business?
+  - What are the three primary initiatives I must focus on as CEO to maximize the enterprise value?
+  - If someone offered me an opportunity to buy my business, what price would I pay? . What can I do to increase that number by 50% in the next twelve months?
+
 
 # IT'S NOT ABOUT THE PLAN
-• The value of planning is the clarity of being able to explain your strategy and blueprint to increase your level of financial success in the current environment, which is very different from being able to explain how the current environment has impacted your level of financial success. One is planning and the other is a justification.
-• You are executing on an idea if there is no plan, which never ends well. A flurry of tactical activities to move the needle is the formula for drama and chaos.
-. If you cannot get clarity on the plan to achieve the outcome, change the outcome. Even with a plan, you probably will not hit the bull's-eye, but at least you will not end up in a graveyard.
+
+- I love what Dwight D. Eisenhower said on this subject: “In preparing for battle, I have always found that plans are useless, but planning is indispensable.”
+- The reality is that a plan is a series of assumptions about future events and anticipated activities, which is why plans rarely come off without a hitch. We can't know the future. Either the environment shifts or the activities performed were faulty or inadequate. Our assumptions about both are invariably wrong, and therefore the results ultimately produced are different than anticipated. So, why do it? Because the value is not in the plan. The value is in the planning.
+- Being intimate with how all the pieces are interconnected and which levers drive specific results is the key to knowing what to adjust when things get off course or delayed. Among the host of issues critical to planning are:
+  - understanding your current situation;
+  - describing the clear outcome desired;
+  - defining the specific obstacles preventing the attainment of this outcome;
+  - designing and anticipating the various activities to be performed;
+  - knowing the environment you are operating in;
+  - evaluating the competition's strengths and weaknesses;
+  - studying the consumer/target market's unfulfilled needs and frustrations and identifying the exact problem these specific consumers/target market want solved;
+
+- Business owners make three big mistakes when it comes to planning:
+  1. The most common mistake is substituting a description of the destination for a road map —a plan of exactly and specifically how we are going to get from Point A to Point B.
+  2. The second most common mistake is falling in love with the dream-the destination itself. An obsession with the dream obscures your ability to see whether or not there's a demand for it.
+  3. The third most common mistake is creating a ten-year plan, which is crazy. It is never really a plan but rather an idea. . . a dream... wishful thinking (which usually takes the form of projected hockey-stick growth and profits based on quadrupling customers on a compound basis with no thought to how that magic trick is performed). The reality is that too many things are happening way too fast with too many competitors and changes in the environment to predict future financial performance that far in advance. Most business owners I know would be better off with a ten-year commitment than a ten-year “plan.”
+- The value of planning is the clarity of being able to explain your strategy and blueprint to increase your level of financial success in the current environment, which is very different from being able to explain how the current environment has impacted your level of financial success. One is planning and the other is a justification.
+- Here are some problems with no planning:
+  - You are in a constant state of reacting to the problem du jour... Whack-a-Mole. If you are reacting, you're too late... and tired.
+  - Like Christopher Columbus, you will not know where you are going, where you are when you get there, or where you have been when it's over.
+  - You have nothing to flicker against to measure your progress, or to measure the changes in the environment and what needs to be adjusted to get back on track.
+  - This is where budgets enter the conversation. A budget is simply a set of assumptions about the timing and execution of certain activities performed in a certain environment and translating these activities into financial assumptions. The primary reason why all large successful businesses have budgets is to give the management team optics about how the company is performing in comparison to how it was projected to perform. Using these optics, management can now make the necessary course corrections to get back on track.
+  - You do not know your resource and critical driver interdependencies to be able to make the midcourse correction adjustments necessary to navigate the inevitable storms, detours, roadblocks, and punches in the nose.
+  - You are executing on an idea if there is no plan, which never ends well. A flurry of tactical activities to move the needle is the formula for drama and chaos.
+
+- Edward Deming (the godfather of quality and process management) put it this way: "If you can't describe the plan or the process to achieve that plan, you don't know what you are doing." Smart man. 
+- If you cannot get clarity on the plan to achieve the outcome, change the outcome. Even with a plan, you probably will not hit the bull's-eye, but at least you will not end up in a graveyard.
+
+- **Thinking Time**
+  - Am I currently executing an idea or a plan? If it is an idea, what does the plan need to look like?
+  - Where have I let my ideas become a substitute for my quarterly and annual plans?
+  - Since a plan is always executable, do I know which actions to perform next week, next month, next quarter to move the needle toward my outcome?
+  - Does my team know what they are supposed to be doing to help us get from here to there? If so, what is that... specifically?
+  - Where are my current results deviating from my plan and what are the critical driver performance metrics that must be monitored in light of this variance?
+  - How does my budget vs. actual financial comparison stack up?
+  - Were there some faulty assumptions in my current plan? Where?
+  - Was I overly optimistic about the time frames? Where?
+  - Has the environment changed and thereby rendered my original plan obsolete? If so, where and what needs to be done about it?
+  - Was the original plan a good one and the problem is a lack of consistent execution? If so, where?
+  - Where is the gap between my plan and our results a reflection of a mediocre team or weak players?
+  - Is the team sound but the problem is a lousy culture or a lack of training? Where?
+  - Maybe the training is good, but the problem is that no one is measuring the critical drivers and taking immediate corrective action? If so, where?
+  - How do I know which of these might be true and what needs to happen to correct this situation?
+
 
 # MY BIGGEST PROBLEM IS...
+
+- Over the last twenty-five years of advising, coaching, and teaching business owners around the world, I've heard this complaint thousands of times: "My biggest problem is I don't know what I don't know." My response is always the same. "While not knowing what you don't know might be a problem, I seriously doubt it's your biggest problem. A far bigger problem is that you don't do what you do know." We tend to always be on the lookout for some new, hot idea that will get us from Point A to Point B quicker and easier, with less effort and sweat.
+- When you stop to think about it, what gets us into trouble and causes most of our problems (and dumb tax) is our genetic coding to look for the easiest path to success. Our biggest problems are a result of a never-ending quest to find the path of least resistance instead of a commitment to do whatever it takes to achieve the desired outcome. You can't commit if you are still looking, and most of us are looking for the easier way. We seem to be addicted to "keeping our options open"... to find a way that is less painful or requires less sacrifice... a way that enables us to be passive and still be rich. 
 - Everyone wants to go to heaven, no one wants to die. There is no success without sacrifice.
-. Being addicted to learning is critical to success... but so is being addicted to the business end of a shovel. Problems deferred are problems magnified.
+- The reality is that most of us would be much farther along if we simply asked ourselves the question, "What can I do today to improve my situation?" and then picked up the shovel and started digging where we are while simultaneously learning new skills and tools. 
+- *I read two or three books a week and have for almost thirty years. I attend seminars and listen to audiotapes constantly. My personal library is immense.*
+- But I have also learned that education without execution (i.e., getting things done) is "shelf help." If I don't apply the techniques, strategies, and distinctions I am learning, I will make no forward progress. To achieve my outcomes, I need to get started by doing something. I need to break a sweat. You will find the same principle is true about this book: read it and do the work.
+- Being addicted to learning is critical to success... but so is being addicted to the business end of a shovel. Problems deferred are problems magnified.
+
+- **Thinking Time**
+  - What decisions have I been postponing in the irrational hope that the problem will somehow resolve itself?
+  - I am aware there is one primary decision in my business that I have been avoiding, and that this decision is the thing that is holding me back. What do I intend to do about it?
+  - What is the decision I know I need to make?
+  - What am I tolerating in my business that is sabotaging my results or that is incongruent with my standards?
+  - Where am I stuck?
+  - What have we done in the past that has worked in solving this problem?
+  - What is my largest competitor doing to address this issue?
+  - What do I already know that I should be doing but I am not executing... or not executing on a consistent basis?
+  - Where am I paralyzed because I am looking for an easier answer instead of doing what I know?
+  - Where have I allowed the need for perfect to get in the way of possible?
+  - What could I do today to improve my situation?
+  - If what I know is insufficient to making forward progress, what new strategies and skills do I need to learn, who do I need to learn them from, what books do I need to read, or what courses do I need to take?
+  - Where is my shovel and why am I not using it?
 
 # OPTIONS ANALYSIS MATRIX
-•All choices require a trade-off and sacrifice. You can have almost anything you want... you just can't have everything you want.
-• The key to successful options analysis is to actually see your choices in a comparative format. Trying to weigh the pros and cons of each choice in your head is a fool's game that inevitably leads to a dumb (inferior) choice.
+- All choices require a trade-off and sacrifice. You can have almost anything you want... you just can't have everything you want.
+- The key to successful options analysis is to actually see your choices in a comparative format. Trying to weigh the pros and cons of each choice in your head is a fool's game that inevitably leads to a dumb (inferior) choice.
+- you'll get the highest value from completing the options analysis matrix if you concentrate on these 3 factors:
+  - clarity about what you're optimizing for
+  - brutal honesty
+  - critical thinking
+- [options analysis matrix](./options-analysis-matrix.png)
+
+- A word of caution: Simply summing the totals to give you certainty or a precise formula or a course of action is stupid. Not all the input factors can be equally weighted. Instead, use the Options Analysis Matrix as it was intended—a tool to support your thinking about the viability and relative attractiveness of the various options available to you and your business.
+
+- **Thinking Time**
+  - What major outcome am I optimizing for? (Specificity is my friend.)
+  - What are the various options I have created or found?
+  - For each of the options I have created:
+    - What is the estimated amount of time between now and the attainment of the outcome?
+    - How many hours (or what percentage of my time) would be required?
+    - How much money (investment) would be required?
+    - Which current activities would be reduced or stopped to be able to add this option to our execution agenda? (What must be sacrificed?)
+    - Do we have the expertise and execution intelligence (competence) to successfully perform the tasks required?
+    - What is the probability of failure? (If this option fails, what is the financial and lost opportunity cost?)
+    - Is the price of failure worth the risk?
+    - If this option succeeds, what is the monetary payoff?
+    - When (date or lapsed time from today) will we receive the payoff from executing on this option?
+  - In evaluating all the various input and output factors about each option and comparing these various data points, which option appears to be the most viable and attractive?
+  - Are there any input categories (variables) that deserve to be weighted differently that might skew my analysis and thinking?
+
 
 # CAUSE AND EFFECT
-. Whenever the effect is missing, so is the cause. Execute and manage the cause and the effect will take care of itself.
-.The hard part is not envisioning the outcome or setting the goal. It's figuring out what needs to change and consistently executed to reach this outcome. If you know what needs to change and get executed, you know what needs to be measured. These are your critical drivers. Execute on the critical drivers and close the gap.
+
+- **Whenever the effect is missing, so is the cause. Execute and manage the cause and the effect will take care of itself.**
+- So, whatever it is you want in your life, check to see if the cause is in place to produce the desired effect. If it is, then it's just a matter of time and consistent, daily execution until you see the effects show up.
+
+- Remember, cause and effect are not necessarily closely linked in time. It might take thousands of hours of practice to produce certain results. Other results can be produced in much less time. It depends on the outcome and the quality/intensity of the practice.
+- The key to success is consistency of execution on the right things at the right time. Consistently executing the wrong things will not deliver the outcomes you want. Inconsistently executing the right things will also fail to deliver the desired end result. And few things are more common than doing the right thing at the wrong time. A lot of variables, right?
+- Measuring and monitoring your critical driver activities gives you the ability to understand what is happening in your business before seeing the financial statements at the end of the month, quarter, or year. They are an early warning system that illuminates where you might be veering slightly off course and gives you enough information so you can do something about it before the situation becomes a problem.
+- The hard part is not envisioning the outcome or setting the goal. It's figuring out what needs to change and consistently executed to reach this outcome. If you know what needs to change and get executed, you know what needs to be measured. These are your critical drivers. Execute on the critical drivers and close the gap.
+
+- **Thinking Time**
+  - What are the outcomes (effects) I want that are still undelivered?
+  - If my outcomes are missing or the gap is not closing, what are the causes that are missing? • Is the problem that we are inconsistently executing on the right things? If so, how do we tighten this up?
+  - I need to reexamine my desired outcomes (goals) from the viewpoint of cause and effect. Has my progress or momentum stalled because I am not seeing instantaneous results?
+  - Where am I running the wrong direction enthusiastically?
+  - Is there an obstacle in my way that requires a new solution and different execution? . What is stopping me from doing my job?
+  - How would the person I want to be do the thing I am about to do?
+  - What is my level of intensity and will this level of engagement produce my desired effects? What am I executing that used to work but is not the right strategy in this environment? What do I need to stop doing and what do I need to start doing?
+  - When I have a bad month financially, what are the three to five things that should have happened that didn't happen? What are the three to five things that did happen that shouldn't have happened? These are my critical drivers.
+  - What needs to change to create the outcome/standard we have set and what will I measure to ensure consistent performance on these critical drivers?
+  - What is the specific measurable standard of performance we need to achieve for each critical driver to ensure we are moving toward the desired outcome (effect)?
 
 # WHAT GETS MEASURED IS...
-• What gets measured is what gets done. What gets measured is
-what gets managed. What gets measured and reported can improve exponentially.
+
+- Serena Williams, Jordan Spieth, and Warren Buffett have one thing in common: They are measuring freaks.
+- Measuring is the primary, fundamental tool used by all pros and experts to excel and win the game. Here's why:
+  - It focuses management's attention on what's important.
+  - It monitors performance to ensure improvement.
+  - It highlights the gaps (weaknesses) in performance between where you are and where you expected to be so that the appropriate area gets the remedial action.
+  - It forces you to face reality and see what needs to be changed, corrected, or improved.
+
+- Here are a few tricks to effective measuring:
+  - Have a standard (outcome) to strive for.
+  - Have a standard to use as a comparison tool to see where you are vs. where you want to be.
+  - Measure and monitor the trends. Are things getting better or worse and do you know why? Measure the critical drivers, not the trivial many. Measuring more things is not useful. Measuring the right things is.
+  - Frequency is key. Stepping on the bathroom scales every 10 minutes is stupid. So is stepping on the scales only once each year. Different drivers will require different frequencies. Balance sheets are monitored monthly, but cash is frequently measured daily. Profits are also measured monthly, but revenue is often measured daily too.
+It does no good to measure and then fail to communicate your findings to the appropriate people. Often this requires having a hard conversation. That's okay, because nothing can change until the unsaid is spoken.
+
+- **What gets measured is what gets done.**
+- **What gets measured is what gets managed.**
+- **What gets measured and reported can improve exponentially.**
+
+- **Thinking Time**
+  - Where are my results weakest? What keeps me up at night and what am I measuring to identify the problems and improve the situation?
+  - What are the three to five critical drivers I need to measure to ensure the progress I want?
+  - What is the standard (specifically) of each critical driver and are these standards clearly communicated to the person responsible for achieving them?
+  - What are the hard conversations I need to have based on the results we are getting, so we can correct and improve?
+  - Based on our measuring, what is the training needed to raise our performance and improve our results? (After all, if they can train a polar bear to ride a tricycle, how hard can it be to train my people to do their job?)
+  - Where (exactly) is our consistency of execution deficient and what needs to be done about that problem?
+  - What is the dashboard I need to create so that my measuring, critical drivers, and standards are all in one place and easy for me to digest?
+  - Based on the optics I receive from my measuring and dashboards, where have we settled for mediocre and average instead of demanding excellence?
+  - What (specifically) needs to change to hit our standards and produce excellence?
+
 
 # THE GREAT QUESTION
-• All activities consume resources. You can't shift priorities without simultaneously shifting resources.
-. We tend to default into thinking that lots of things are important and that narrowing our priorities down to just a few is impossible or unrealistic, given all the stuff that needs attention. Let me assure you it's not. My rule is: Start fewer things, finish more things.
-.The great question is: "What am I optimizing for? In other words, what is the one major that, if accomplished, would have the most significant impact on my business?"
+
+- It is so easy to major in minor things. We have a tendency to find and work on the projects we can easily or quickly get knocked out instead of the harder, more impactful projects that will require much more time and effort but will yield significantly greater long-term dividends. 
+- The "easy," quick-fix projects make us feel like we are doing something, even if what we are doing is not particularly additive or productive. More often than not, these quickie and urgent projects are reactionary and tactical vs. anticipatory and strategic.
+- No wonder we're tired; we are reacting to the environment instead of planning and creating it. It does no good to touch a thousand different things each quarter if none of them move.
+- **All activities consume resources. You can't shift priorities without simultaneously shifting resources.**
+- Without prioritization of the outcomes there is no prioritization of activities; therefore, resources get consumed in a frantic attempt to do everything instead of the most meaningful thing. Mismanaging this relationship between priorities and resources has filled many business graveyards. Multitasking is stupid at the CEO/Owner/Board level of a business.
+- In my Board of Directors, our tradition is to plan and think in terms of one "major" and two or three "minors" for the upcoming quarter. A major priority is a very important outcome or project that is being elevated off our To-Do list and will now receive enough calendar time, bandwidth, and resources to make measurable progress. It is the thing that, if focused on and accomplished, would have the greatest significant impact on the business in the coming ninety days. A minor is important (not as important as a major), but still qualifies for elevated time, focus, and attention.
+- My experience has been that figuring out the most important outcome or project is actually one of the hardest parts of this exercise. We tend to default into thinking that lots of things are important and that narrowing our priorities down to just a few is impossible or unrealistic, given all the stuff that needs attention. Let me assure you it's not. **My rule is: Start fewer things, finish more things.**
+- Remember this critical distinction when you are setting priorities (and shifting resources accordingly): Vague, glossy majors or minors are useless. "I will improve the revenues in the next quarter" is a meaningless statement, because there are no metrics or specifics attached to it that show how the outcome will be achieved.
+- The great question is: “What am I optimizing for?" In other words, what is the one major that, if accomplished, would have the most significant impact on my business?
+
+- **Thinking Time**
+  - What am I optimizing for?
+  - What one meaningful, specific outcome, if I achieved it, would have a significant positive impact on my business?
+  - What are the specific obstacles standing in my way of making measurable progress on this outcome?
+  - What specific activities must I prioritize to make measurable progress toward this outcome?
+  - What resources would need to be acquired or reconfigured to move the needle on this priority?
+  - What are the three most significant things I could do this week that would kick the can and close the gap by moving me closer to my major priority?
+  - What are three things I would need to stop doing to make room for this major priority? How do I regain control of my calendar and minimize the "got-a-minute" interruptions that are sabotaging my time?
+  - How much time should I spend thinking about what I need to prioritize and spend time on? . If I am raising my standards by prioritizing my majors, activities, and deliverables, how might I enroll my senior leadership team in this process as well? (You will be stunned by their accountability and the progress people can make when they have clarity about their majors and minors and what they are optimizing for.)
+
 
 # ADVICE FROM THE CHAIRMAN OF THE BOARD
 
 - It turns out that the key to getting rich is to avoid doing stupid things. The vast majority of dumb tax in both of our lives is a direct result of emotional and optimistic decisions.
-The key point I have made in each chapter is the importance of getting clarity by asking really good questions. The questions at the end of each chapter have been designed to force you to really think for a change instead of emotionally reacting and defaulting to the most obvious "best idea" available in the moment.
-Here it is on a bumper sticker: Operators react and sweat. Owners think and plan.
-The player on the field in a football game must get psychologically jacked up and mentally erase any doubts about the ultimate domination by his team over the opponent. Mental belief and optimism are critical to high performance on the gridiron.
-The pregame and halftime locker room pep talks are designed to get the players into a "peak state" so they will perform at the highest level. In a football game, the players are the doers, the performers, and they must get amped up to excel at their job. Igniting this excitement and passion is a critical ingredient to ensure their success on the field. An Operator of a business is fueled by this same exuberance, hubris, and extreme confidence.
-The Owner of the football team, however, should never be one of the people sitting in the locker room listening to the halftime pep talk in an effort to decide whether or not to add fifteen new luxury box suites to the stadium next year.
-The Owner of the team must be strategic (not emotionally tactical) in his thinking. He must consider the overall game plan, the key personnel on the bench, and who is injured or has recently struggled to perform, as well as the weaknesses on the opponent's bench.
-The Owner must mentally plan for an astonishing number of hypothetical what-if scenarios that might arise during the game. And this doesn't include the stadium naming rights, the number of
-season tickets sold, whether the cash flow of the business is sufficient to meet payroll this month, how much money is being returned to the investors for the risk they took, and all the things that could go wrong that would eat his leg off.
-If the Owner of the team made his decisions by first sitting through a pep rally from a motivational coach, we would have a very enthusiastic Owner with no money. No exceptions. Owners and members of a Board of Directors do not work themselves into an emotional frenzy prior to a Board meeting. Ever!
-Most business owners and entrepreneurs experience a major shock when confronted with the advice and counsel of a true Board of Directors. A Board does not care how optimistic you are or how much you believe in yourself or whether or not your product is your passion or life's purpose. A great Board knows that exciting stories, inclusion on the list of Inc. 500 fastest-growing companies, first-mover advantage, Entrepreneur of the Year awards, and projected hockey stick returns are the breakfast of the membership director of a fraternity, not a seasoned CEO. Check your medals and your ego at the door. Business is personal, but not emotional.
-At the Owner and Board levels, success is not contingent on excessive enthusiasm on the field but rather by the quality of the planning, preparation, risk assessment, and risk mitigation strategies. Thinking about 2nd-order consequences and unrealistic assumptions is mandatory. Skepticism and thinking are your best friends when sitting in the Owner's box. (See "The 5 Core Disciplines of Thinking," especially Core Discipline #4-Consider the 2nd-Order Consequences.)
-Andy Grove, founder and former CEO and Chairman of Intel, said it best: "Only the paranoid survive."
-Here is the distinction:
-When a group of operators get together, it's called a convention. You will have a great time, everyone will yuk it up, party all night, give each other awards, plaques, and standing ovations for being so successful. This stuff might massage your ego and make you feel good, but none of it will make you rich. Attempting to make a business decision while wearing the Artist or Operator hat will result in stupid (see "The 4 Hats of Business").
-When a group of business owners get together, it's called a Board meeting. The goal of a Board is to help you think through the risks and possible 2nd-order consequences, thereby minimizing the likelihood of you doing something stupid.
-Every great Board of Directors knows that
-. The single most toxic poison in business is excessive emotion. Emotions and intellect work inversely. As I said at the start of The Road Less Stupid, when emotion goes up, intellect goes down.
+- **Operators react and sweat. Owners think and plan.**
+- The player on the field in a football game must get psychologically jacked up and mentally erase any doubts about the ultimate domination by his team over the opponent. Mental belief and optimism are critical to high performance on the gridiron.
+- The pregame and halftime locker room pep talks are designed to get the players into a "peak state" so they will perform at the highest level. In a football game, the players are the doers, the performers, and they must get amped up to excel at their job. Igniting this excitement and passion is a critical ingredient to ensure their success on the field. An Operator of a business is fueled by this same exuberance, hubris, and extreme confidence.
+- The Owner of the football team, however, should never be one of the people sitting in the locker room listening to the halftime pep talk in an effort to decide whether or not to add fifteen new luxury box suites to the stadium next year.
+- The Owner of the team must be strategic (not emotionally tactical) in his thinking. He must consider the overall game plan, the key personnel on the bench, and who is injured or has recently struggled to perform, as well as the weaknesses on the opponent's bench.
+- The Owner must mentally plan for an astonishing number of hypothetical what-if scenarios that might arise during the game. And this doesn't include the stadium naming rights, the number of season tickets sold, whether the cash flow of the business is sufficient to meet payroll this month, how much money is being returned to the investors for the risk they took, and all the things that could go wrong that would eat his leg off.
+- If the Owner of the team made his decisions by first sitting through a pep rally from a motivational coach, we would have a very enthusiastic Owner with no money. No exceptions. Owners and members of a Board of Directors do not work themselves into an emotional frenzy prior to a Board meeting. Ever!
+- Most business owners and entrepreneurs experience a major shock when confronted with the advice and counsel of a true Board of Directors. A Board does not care how optimistic you are or how much you believe in yourself or whether or not your product is your passion or life's purpose. A great Board knows that exciting stories, inclusion on the list of Inc. 500 fastest-growing companies, first-mover advantage, Entrepreneur of the Year awards, and projected hockey stick returns are the breakfast of the membership director of a fraternity, not a seasoned CEO. Check your medals and your ego at the door. Business is personal, but not emotional.
+- At the Owner and Board levels, success is not contingent on excessive enthusiasm on the field but rather by the quality of the planning, preparation, risk assessment, and risk mitigation strategies. Thinking about 2nd-order consequences and unrealistic assumptions is mandatory. Skepticism and thinking are your best friends when sitting in the Owner's box.
+- Here is the distinction:
+  - When a group of operators get together, it's called a convention. You will have a great time, everyone will yuk it up, party all night, give each other awards, plaques, and standing ovations for being so successful. This stuff might massage your ego and make you feel good, but none of it will make you rich. Attempting to make a business decision while wearing the Artist or Operator hat will result in stupid (see "The 4 Hats of Business").
+  - When a group of business owners get together, it's called a Board meeting. The goal of a Board is to help you think through the risks and possible 2nd-order consequences, thereby minimizing the likelihood of you doing something stupid.
+- The single most toxic poison in business is excessive emotion. Emotions and intellect work inversely. As I said at the start of The Road Less Stupid, when emotion goes up, intellect goes down.
 
-. Every business is just one bad decision away from a financial disaster. Look no farther than Lehman Brothers: 130 years old; $1.4 trillion in assets; gone in 90 days because of one stupid decision... and numerous unexamined assumptions.
-. Over the long term, the amount of net worth on the balance sheet or money in the bank is determined more by the number and size of the losses incurred and less by the number or size of the winners hit. There is always uncertainty and, therefore, risks. In business, an addiction to certainty is rarely your friend. Assessing and controlling risk (which is paramount to financial success) is only possible by thinking through key risk related questions:
-. What are the risks we are facing? Really!
-• What is the probability of these risks occurring?
-• How costly are these risks should they occur?
-• How can we control or mitigate the probability or the cost?
-. Where have we substituted optimism for risk assessment in our business and thinking? . What assumptions have I made about our future that might not be true, and if they ultimately proved to be untrue, what contingency plans do I need to develop today to ensure survival if I am wrong?
-. Where have I let my emotions and need for more interfere with my judgment?
-What we achieved in the past is a poor predictor of what we will achieve in the future. I am certain Netscape, Atari, AltaVista, Polaroid, and JC Penny would agree with me that the rules and the environment are always changing. People who are impressed with their prior success or who crave fame and applause rarely make the changes required to be relevant in the future. Leadership requires humility. No humility, no learning.
-A great Board will not agree with you so that you will feel good, nor are they willing to become one of your groupie fans sitting in the stands enthusiastically cheering you on in the misguided belief that if they would just cheer louder, you will win the game.
-A wall of accolades for past success and pictures with famous people are wonderful for the ego (I call this the "I love me... look how great I am" wall), but they do nothing to put money into your pocket or drive sustainable business success. Use a Thinking Time session or two in deep thought about the future and where you are being lulled to sleep by past success:
-• Where have I extrapolated past performance as a predictor for future results?
-. Where have we confused applause for past performance with future financial success?
-• Where have we allowed our past success to lull us into believing we are bulletproof?
-. What business decisions do we need to make to ensure our future viability?
-. Given the current marketplace landscape, which part of our business needs to be reinvented? • Where are our results diminishing even though we are still doing what we used to? In light of this assessment, what needs to change?
-Being aggressive with expansion is always risky, especially when a stable foundation is not in place, the management team is not solid, or you are relying on the capital structure (excessive debt) to produce the returns required. Doubling the horsepower of the engine in your car or substituting rocket fuel for your unleaded gas will not enable the car to go two times faster. Scaling mediocrity produces bigger piles of mediocrity, not success. Always optimize first.
-All business owners want to grow, but few have the discipline to create a sound platform for that growth prior to pouring in the jet fuel. Contrary to popular opinion, the solution to the vast majority of business problems has little to do with the size of the top line.
-Here it is on a bumper sticker: Growth is what you say "yes" to. Success is what you say “no” to. The hardest thing in business is figuring out what to say "no" to. Warren Buffett said it best: "The difference between successful people and very successful people is that very successful people say no to almost everything."
-Expanding prematurely is a prescription for disaster, especially if the expansion is funded by excessive debt. Leverage magnifies the results but does nothing to change the fundamental risk characteristics of the investment.
-One final point on this: Scaling a hand-crank process does not result in more bottom-line profits. It results in more "crankers." Scaling when the lug nuts on a Formula One race car are not tight or there's not a process/culture to keep them tight results in wrecks, not success. Automating, systematizing, or scaling weakness is the foundation for misery and failure. Before you stomp on the gas, think through the following questions to make sure the chassis, springs, and shocks can withstand the torque:
-. When I take a hard look at my expansion and growth plans, do we have a base that is rock- solid, or are we relying on a rising tide and calm waters?
-• Does my team have the bandwidth required to continue to do the job they are currently doing plus handle the incremental growth and new customers I am projecting? (See "Indigestion (1+12)" for more on this issue.)
-. Where have I allowed our enthusiasm for our ideas to be a substitute for a solid, executable plan?
+- Every business is just one bad decision away from a financial disaster. Look no farther than Lehman Brothers: 130 years old; $1.4 trillion in assets; gone in 90 days because of one stupid decision... and numerous unexamined assumptions.
+- Over the long term, the amount of net worth on the balance sheet or money in the bank is determined more by the number and size of the losses incurred and less by the number or size of the winners hit. There is always uncertainty and, therefore, risks. In business, an addiction to certainty is rarely your friend. Assessing and controlling risk (which is paramount to financial success) is only possible by thinking through key risk related questions:
+  - What are the risks we are facing? Really!
+  - What is the probability of these risks occurring?
+  - How costly are these risks should they occur?
+  - How can we control or mitigate the probability or the cost?
+  - Where have we substituted optimism for risk assessment in our business and thinking? . What assumptions have I made about our future that might not be true, and if they ultimately proved to be untrue, what contingency plans do I need to develop today to ensure survival if I am wrong?
+  - Where have I let my emotions and need for more interfere with my judgment?
 
+- What we achieved in the past is a poor predictor of what we will achieve in the future. I am certain Netscape, Atari, AltaVista, Polaroid, and JC Penny would agree with me that the rules and the environment are always changing. People who are impressed with their prior success or who crave fame and applause rarely make the changes required to be relevant in the future. Leadership requires humility. No humility, no learning.
 
-. The first step in self-delusion is denial. Where are we running with scissors? (My observations in "Creating Enterprise Value" are particularly germane in this regard.)
-. Risks and facts don't cease to exist just because I ignore them, and thinking that risk is under control is the greatest risk there is. Risk analysis requires extreme humility (overconfidence is the enemy) and the courage to admit not knowing what you don't know. What are the Top 10 risks we are facing and what can we do to mitigate the cost or probability of each risk identified? ("Not All Risks Are Created Equal" takes a thorough look at accessing and managing risk.)
-We all have limited resources. It is impossible to attempt to do everything we think of or take advantage of every opportunity that presents itself. As CEO, your job is to carefully and selectively prioritize the few key strategies and initiatives that will optimize the financial performance of the business while simultaneously leveraging the resources available. Prioritize the things that aren't in place but, if they were, would make the biggest difference to the business. (Both "The Great Question" and "A CEO Should Never Delegate..." gave you solid advice about how, when, and what to prioritize.)
-• What are we optimizing for?
-. What is my major outcome?
-. Where have we spread ourselves too thin by attempting to do too much?
-• Which activities or initiatives need to be stopped or paused so that we can concentrate on the most critical strategies and stabilize/grow our business?
-• What are the underutilized resources in my business and how can I best put those resources (strengths) to work?
-It takes courage and trust for a CEO to engage with a Board of Directors. Sometimes even great CEOs will be tempted to sugarcoat or disguise the issues in an attempt to appear capable and strong. Courage is a key ingredient for leadership. In fact, every failure of leadership has at its root a lack of courage. Courage to
-- say what needs to be said;
-- ask for advice;
-- admit mistakes and errors in judgment;
-- make the difficult decisions and have the hard conversations;
-- listen with the intent to understand, not the intent to justify or reply; ⚫ initiate change; and
-- face reality.
-I lacked courage forty years ago with my first Board of Directors. I was afraid to ask for advice because I erroneously believed that exposing my doubts and anxieties were signs of incompetence. But I had it all wrong. The Board meetings weren't all about me. They were all about the business. And it was crucial that anything and everything that could possibly have an impact on the life, the survival of the business needed to be brought to the table. I've since realized these truths about the necessity of communicating with a Board:
-• A Board of Directors is neither a cheerleader nor a critic. Board members are "partners" and collaborators in designing success. A Board acts as an advisor and counselor for a CEO. Board members poke, ask questions, and prod as they look for icebergs, unexamined assumptions, and wishful thinking.
-- A Board never thinks about opportunities without simultaneously thinking about the risks, probabilities, downsides, costs, and trade-offs associated with those opportunities.
-• A Board knows that what kills the business is not missing an opportunity but rather unseen risks. Boards think in terms of 2nd-order consequences and ensuring survival (in the event things turn ugly) rather than a financial bonanza if everything goes as planned). (Reread Core Discipline #4-Consider 2nd-Order Consequences in "The 5 Core Disciplines of Thinking" to appreciate the importance of this point.)
-A Board of Directors knows that a plan that requires you to dodge all the bullets to be successful is not a plan; it's a hallucination.
-Use these Thinking Time questions to get greater clarity about some decisions you need to make for your business:
-. Who do I have around me that I can count on to question my assumptions and ask me the tough questions?
-. Who will tell me what I don't want to hear?
-. Who on my team will tell me "no"?
-. Where are we relying on a perfect environment or flawless execution to create the success we are predicting?
+- Use a Thinking Time session or two in deep thought about the future and where you are being lulled to sleep by past success:
+  - Where have I extrapolated past performance as a predictor for future results?
+  - Where have we confused applause for past performance with future financial success?
+  - Where have we allowed our past success to lull us into believing we are bulletproof?
+  - What business decisions do we need to make to ensure our future viability?
+  - Given the current marketplace landscape, which part of our business needs to be reinvented?
+  - Where are our results diminishing even though we are still doing what we used to? In light of this assessment, what needs to change?
 
-. Where am I allowing a lack of courage to dictate my decisions?
-I have found in my forty-five-year business career that the majority of my mistakes (losses) were a result of unexamined assumptions and tolerating an inferior team/culture that did not execute consistently. I sometimes relied too heavily on the brilliance of my idea. I did not pay close enough attention to the risks, which created even more risk because I went all in when I should have folded or checked.
-I erroneously believed that the higher the risk, the higher the reward, which is just plain stupid. The correct statement is this: The higher the risk, the greater the likelihood of a loss, not a reward.
-I mistook luck for skill and extrapolated my past performance as an accurate predictor of my future success. I did not surround myself with smart people who were strong enough to disagree with me. My fatal flaw was the illusion that I am somehow special and could beat the odds with my sheer determination, sweat, and brainpower. Dumb!
-Here it is on a bumper sticker: Business is an intellectual sport. We make the mistake of believing we can somehow get rich or become successful by
-- being passionate enough;
-- wanting it desperately enough;
-- visualizing it long enough;
-- believing that we are entitled enough;
-- being talented enough; and/or
-- working hard enough.
-It doesn't work that way. Passion and desire might produce a willingness to persist, but they do not
-teach the skills and tools to create the success. The advice (and book) Do What You Love and the Money Will Follow is as stupid as it is destructive. This is analogous to saying, "Eat What You Want and Be Skinny."
-Doing what you love might make you feel fulfilled. It might make a great hobby or pastime. You might feel energized and excited. You might make a huge contribution, but simply loving to do something will not create business or financial success.
-On the other hand, hating what you do is not a prescription for success either. Don't miss my point here: I am not arguing for or against being passionate about what you do; I am just pointing out that passion alone is not the one-trick pony for business success.
-Sustainably successful business Owners play the game with their heads, not their emotions. It's chess, not checkers.
-Investing is about the future, and the future is unknown (by everyone). Believing with all your heart, staring in the mirror, telling yourself how special you are, and mustering all the certainty you can access that the future is a sure thing do not cause it to be so... ever. Do not make the mistake of confusing certainty with clarity; they are two different things!
-The people who sustainably win at business excel at sorting out and managing the risks. They do not have their lips securely attached to their own exhaust pipes to keep themselves jacked up emotionally on hopium, excitement, and a naive conviction that if they are just certain enough, they can achieve their dreams through sheer willpower, passion, and belief.
-Here is the real "secret": The chance of success goes up when you think, plan, consistently execute the right things, and worry about the possibility of loss.
+- Being aggressive with expansion is always risky, especially when a stable foundation is not in place, the management team is not solid, or you are relying on the capital structure (excessive debt) to produce the returns required. Doubling the horsepower of the engine in your car or substituting rocket fuel for your unleaded gas will not enable the car to go two times faster. Scaling mediocrity produces bigger piles of mediocrity, not success. Always optimize first.
 
-• Operators react and sweat. Owners think and plan.
-.If the Owner of the team made his decisions by first sitting through a pep rally from a motivational coach, we would have a very enthusiastic Owner with no money. No exceptions. Owners and members of a Board of Directors do not work themselves into an emotional frenzy prior to a Board meeting. Ever!
-. Skepticism and thinking are your best friends when sitting in the Owner's box.
-. Every business is just one bad decision away from a financial disaster. .Doubling the horsepower of the engine in your car or substituting rocket fuel for your unleaded gas will not enable the car to go two times faster. Scaling mediocrity produces bigger piles of mediocrity, not success. Always optimize first.
-. Growth is what you say "yes" to. Success is what you say "no" to. The hardest thing in business is figuring out what to say "no" to. Warren Buffett said it best: "The difference between successful people and very successful people is that very successful people say no to almost everything."
-. Scaling a hand-crank process does not result in more bottom line profits. It results in more "crankers."
-.The first step in self-delusion is denial. Where are we running with scissors?
-•Risks and facts don't cease to exist just because I ignore them, and thinking that risk is under control is the greatest risk there is.
-• As CEO, your job is to carefully and selectively prioritize the few key strategies and initiatives that will optimize the financial performance of the business while simultaneously leveraging the resources available. Prioritize the things that aren't in place but, if they were, would make the biggest difference to the business.
-. Courage is a key ingredient for leadership. In fact, every failure of leadership has at its root a lack of courage.
-⚫A Board of Directors knows that a plan that requires you to dodge all the bullets to be successful is not a plan; it's a hallucination.
-• Business is an intellectual sport. We make the mistake of believing we can somehow get rich or become successful by
-- being passionate enough;
-wanting it desperately enough;
-• visualizing it long enough;
-- believing that we are entitled enough;
-.being talented enough; and/or working hard enough.
-It doesn't work that way. Passion and desire might produce a willingness to persist, but they do not teach the skills and tools to create the success. The advice (and book) Do What You Love, The Money Will Follow is as stupid as it is destructive. This is analogous to saying, "Eat What You Want and Be Skinny."
-• Investing is about the future, and the future is unknown (by everyone). Believing with all your heart, staring in the mirror, telling yourself how special you are, and mustering all the certainty you can access
-that the future is a sure thing do not cause it to be so... ever. Do not make the mistake of confusing certainty with clarity; they are two different things!
-- Here is the real "secret": The chance of success goes up when you think, plan, consistently execute the right things, and worry about the possibility of loss.
+- All business owners want to grow, but few have the discipline to create a sound platform for that growth prior to pouring in the jet fuel. Contrary to popular opinion, the solution to the vast majority of business problems has little to do with the size of the top line.
+
+- **Growth is what you say "yes" to. Success is what you say “no” to. The hardest thing in business is figuring out what to say "no" to. Warren Buffett said it best: "The difference between successful people and very successful people is that very successful people say no to almost everything."**
+
+- Expanding prematurely is a prescription for disaster, especially if the expansion is funded by excessive debt. Leverage magnifies the results but does nothing to change the fundamental risk characteristics of the investment.
+- One final point on this: Scaling a hand-crank process does not result in more bottom-line profits. It results in more "crankers." Scaling when the lug nuts on a Formula One race car are not tight or there's not a process/culture to keep them tight results in wrecks, not success. Automating, systematizing, or scaling weakness is the foundation for misery and failure. Before you stomp on the gas, think through the following questions to make sure the chassis, springs, and shocks can withstand the torque:
+  - When I take a hard look at my expansion and growth plans, do we have a base that is rock- solid, or are we relying on a rising tide and calm waters?
+  - Does my team have the bandwidth required to continue to do the job they are currently doing plus handle the incremental growth and new customers I am projecting? (See "Indigestion (1+12)" for more on this issue.)
+  - Where have I allowed our enthusiasm for our ideas to be a substitute for a solid, executable plan?
+  - The first step in self-delusion is denial. Where are we running with scissors? (My observations in "Creating Enterprise Value" are particularly germane in this regard.)
+  - Risks and facts don't cease to exist just because I ignore them, and thinking that risk is under control is the greatest risk there is. Risk analysis requires extreme humility (overconfidence is the enemy) and the courage to admit not knowing what you don't know. What are the Top 10 risks we are facing and what can we do to mitigate the cost or probability of each risk identified? ("Not All Risks Are Created Equal" takes a thorough look at accessing and managing risk.)
+
+- We all have limited resources. It is impossible to attempt to do everything we think of or take advantage of every opportunity that presents itself. As CEO, your job is to carefully and selectively prioritize the few key strategies and initiatives that will optimize the financial performance of the business while simultaneously leveraging the resources available. Prioritize the things that aren't in place but, if they were, would make the biggest difference to the business. (Both "The Great Question" and "A CEO Should Never Delegate..." gave you solid advice about how, when, and what to prioritize.)
+  - What are we optimizing for?
+  - What is my major outcome?
+  - Where have we spread ourselves too thin by attempting to do too much?
+  - Which activities or initiatives need to be stopped or paused so that we can concentrate on the most critical strategies and stabilize/grow our business?
+  - What are the underutilized resources in my business and how can I best put those resources (strengths) to work?
+
+- It takes courage and trust for a CEO to engage with a Board of Directors. Sometimes even great CEOs will be tempted to sugarcoat or disguise the issues in an attempt to appear capable and strong. Courage is a key ingredient for leadership. In fact, every failure of leadership has at its root a lack of courage. Courage to
+  - say what needs to be said;
+  - ask for advice;
+  - admit mistakes and errors in judgment;
+  - make the difficult decisions and have the hard conversations;
+  - listen with the intent to understand, not the intent to justify or reply; ⚫ initiate change; and
+  - face reality.
+
+- I lacked courage forty years ago with my first Board of Directors. I was afraid to ask for advice because I erroneously believed that exposing my doubts and anxieties were signs of incompetence. But I had it all wrong. The Board meetings weren't all about me. They were all about the business. And it was crucial that anything and everything that could possibly have an impact on the life, the survival of the business needed to be brought to the table. I've since realized these truths about the necessity of communicating with a Board:
+  - A Board of Directors is neither a cheerleader nor a critic. Board members are "partners" and collaborators in designing success. A Board acts as an advisor and counselor for a CEO. Board members poke, ask questions, and prod as they look for icebergs, unexamined assumptions, and wishful thinking.
+  - A Board never thinks about opportunities without simultaneously thinking about the risks, probabilities, downsides, costs, and trade-offs associated with those opportunities.
+  - A Board knows that what kills the business is not missing an opportunity but rather unseen risks. Boards think in terms of 2nd-order consequences and ensuring survival (in the event things turn ugly) rather than a financial bonanza if everything goes as planned). (Reread Core Discipline #4-Consider 2nd-Order Consequences in "The 5 Core Disciplines of Thinking" to appreciate the importance of this point.)
+  - A Board of Directors knows that a plan that requires you to dodge all the bullets to be successful is not a plan; it's a hallucination.
+
+- Use these Thinking Time questions to get greater clarity about some decisions you need to make for your business:
+  - Who do I have around me that I can count on to question my assumptions and ask me the tough questions?
+  - Who will tell me what I don't want to hear?
+  - Who on my team will tell me "no"?
+  - Where are we relying on a perfect environment or flawless execution to create the success we are predicting?
+  - Where am I allowing a lack of courage to dictate my decisions?
+
+- I have found in my forty-five-year business career that the majority of my mistakes (losses) were a result of unexamined assumptions and tolerating an inferior team/culture that did not execute consistently. I sometimes relied too heavily on the brilliance of my idea. I did not pay close enough attention to the risks, which created even more risk because I went all in when I should have folded or checked.
+
+- I erroneously believed that the higher the risk, the higher the reward, which is just plain stupid. The correct statement is this: The higher the risk, the greater the likelihood of a loss, not a reward.
+- I mistook luck for skill and extrapolated my past performance as an accurate predictor of my future success. I did not surround myself with smart people who were strong enough to disagree with me. My fatal flaw was the illusion that I am somehow special and could beat the odds with my sheer determination, sweat, and brainpower. Dumb!
+- Business is an intellectual sport. We make the mistake of believing we can somehow get rich or become successful by
+  - being passionate enough;
+  - wanting it desperately enough;
+  - visualizing it long enough;
+  - believing that we are entitled enough;
+  - being talented enough; and/or
+  - working hard enough.
+
+- It doesn't work that way. Passion and desire might produce a willingness to persist, but they do not teach the skills and tools to create the success. The advice (and book) Do What You Love and the Money Will Follow is as stupid as it is destructive. This is analogous to saying, "Eat What You Want and Be Skinny."
+
+- Doing what you love might make you feel fulfilled. It might make a great hobby or pastime. You might feel energized and excited. You might make a huge contribution, but simply loving to do something will not create business or financial success.
+
+- On the other hand, hating what you do is not a prescription for success either. Don't miss my point here: I am not arguing for or against being passionate about what you do; I am just pointing out that passion alone is not the one-trick pony for business success.
+
+- **Sustainably successful business Owners play the game with their heads, not their emotions. It's chess, not checkers.**
+
+- The people who sustainably win at business excel at sorting out and managing the risks. They do not have their lips securely attached to their own exhaust pipes to keep themselves jacked up emotionally on hopium, excitement, and a naive conviction that if they are just certain enough, they can achieve their dreams through sheer willpower, passion, and belief.
+
+- Here is the real "secret": **The chance of success goes up when you think, plan, consistently execute the right things, and worry about the possibility of loss.**
 
 # ONE LAST THING
 
 - Pleasure is about stimulating the senses. Happiness is found by being grateful for what I've got. Success is getting what I want. Fulfillment is giving what I've got.
+- at the end of my life, I will only ask 3 questions:
+  - is the world a better place because of me?
+  - who loved me and who did I love?
+  - was my life congruent with my beliefs? (which is the ultimate definition of integrity)
 
 # INVITATION TO A BOARD OF DIRECTORS
 
@@ -1637,6 +1823,96 @@ I know of no better way to maximize and optimize the financial results of your b
 Thank you again for your commitment to yourself and your growth and for your trust and confidence in me! I have been through this process numerous times with other people, so you will be in very good hands.
 
 I look forward to working with you at the highest level.
+
+# CEO SCORECARD
+
+- The beauty of this kind of specificity and clarity is the opportunity it provides to coach performance and identify needed corrections.
+- Create and lead our business so we are the "employer of choice" while maintaining the desired profitability targets. We are a company who puts employees before customers. Employees are acknowledged and appreciated. Customers are served and appreciated... and they consistently appreciate and acknowledge our commitment to excellence. We set standards, measure critical drivers, hold each other accountable, and have candid  conversations. In all matters, we have three basic rules:
+  - 1. Do the right thing.
+  - 2. Do the best we can.
+  - 3. Show others that we care.
+
+## OUTCOMES
+  - 1. **Financial**
+    - a. Attain Gross Revenue of:
+    - b. $ [ ] by December 2017 (1 year)
+    - c. $ [ ] by December 2019 (3 years)
+    - d. $ [ ] by December 2021 (5 years)
+    - e. Attain [ ] % Gross Margin by December 2017.
+    - f. Attain [ ] % EBITDA by December 2017.
+    - g. Attain [ ] % of Cash Flow from Operations by December 2017.
+    - h. A/R below [ ] days in 2017
+    - i. Debt reduction of at least $[ ] in 2017
+
+  - 2. **Create and maintain a company that is proud of and protects its culture** of respect, integrity, intelligence, and productivity: a culture that is based on trust, appreciation, candor, excellence, and improvement.
+    - a. Customer Satisfaction is at least 4.5 out of 5 by December 2017. 
+    - b. Employee Satisfaction is at least 4.0 out of 5 by December 2017.
+    - c. Every employee receives at least quarterly coaching on their specific results.
+    - d. All employees above XXX level use the monthly or weekly "Managing by Objectives," or "MBO," process.
+    - e. Net Promoter Score "NPS" is 75% by December 2017.
+    - f. Employee turnover (they quit) is <5% in 2017.
+    - g. We should never be surprised when an employee quits and they should never be surprised when their employment is terminated.
+
+  - 3. **Create and maintain an outcomes-based organization filled with A players** who are self-driven and want to be held accountable and rewarded for achieving outcomes and results. Comprised of people with a high internal emotional need to succeed, a commitment to growth, and a desire to improve.
+    - a. 85% of all personnel are true A players, as measured by their performance against their standards and their cultural fit.
+    - b. 15% are B players being coached/trained into A players and have a specific, personalized path to attain A-player status.
+    - c. 0% C/D players
+    - d. A specific onboarding plan for every new hire, regardless of the position
+    - e. 100% of personnel have and maintain a scorecard.
+    - f. 100% of personnel have a dashboard that monitors performance of critical drivers.
+    - g. 100% of personnel have compensation packages that include base salary and personal performance bonuses.
+    - h. 100% of raises, bonuses, commissions, and promotions are based upon attainment of outcomes, results, and standards.
+    - i. 100% of all hiring selections and promotions are evaluated and selected using the Topgrading process. (You must read Who by Geoff Smart for more about this interviewing and hiring methodology.)
+
+  - 4. **Create and maintain an organization committed to excellence and growth** by providing opportunities for learning and training to improve the skills of their current position, begin learning skills for advancement or cross training, and improve each person's overall mental wellness.
+    - a. All employees receive monthly or quarterly training of at least 5 hours per quarter; 20 hours per year is the minimum. Training can be either internal or external . . . either job-specific or general improvement. More is better.
+    - b. All employees are to "read" at least one assigned book per quarter... to be discussed at one of the training meetings.
+    - c. All employees' specific work and processes are documented so that a new person could take over this position and know what to do or where to look to learn how to do it.
+    - d. All employees are trained to backfill another position in the event of a sudden loss of an employee. Redundancy of expertise is critical when we do not have the money for bench strength. This level of redundancy would keep us out of the emergency room and functioning, but it does not need to be designed to perfection or permanence. Duct tape is good until a permanent solution is found.
+
+## COMPETENCIES: THE SKILLS AND BEHAVIORS REQUIRED FOR THE JOB
+- **Focus the company on outcomes and results.**
+  - Establish clear and concise outcomes for the company and maintain an outcomes-based organization chart. Establish clear links between the company's outcomes and an individual's outcomes and results. Make sure each employee understands how they contribute to the company's mission, outcomes, and results. Ensure that each leader, manager, and staff member has an outcomes-based scorecard that maps to the company's outcomes and results. Plan and run meetings based on outcomes and results. Help design briefings, reports, agendas, and meeting materials that are focused on outcomes and results. Avoid allocating time to discussions of subjects such as activities, busyness, or hours worked.
+
+- **Be strategic in your thinking and tactical in your actions.**
+  - Being clear on the problem, obstacle, or gap to be bridged is critical, since solving the problem that isn't is a waste of time and resources (and, to be candid, irritates me). Developing a specific plan to overcome this obstacle is critical; otherwise, we run the risk of running the wrong direction enthusiastically. Finally, being tactical in your actions puts rubber on the road and facilitates forward progress.
+
+- **Always be willing to ask the question "What can I do today to improve our situation?"**
+  - Do not let perfect get in the way of possible. You might not have the final answer, but you can find two or three things to do to improve our current position. When in doubt, do these two or three things.
+  - **Preserve relationships.**
+    - It really is a small world, and what comes around goes around.
+  - **Be good at being both kind and driven.**
+    - Address everyone with kindness and consideration regardless of the topic at hand, even if the topic is missed expectations or poor performance. Demonstrate the ability to remain focused on outcomes and results while doing so in a manner that is attractive to our leaders, managers, and staff. Run and participate in meetings in a manner that elicits input from everyone. React to input and ideas in a way that makes people glad they spoke up and leads them to speak again. Make it clear to everyone around you that you actively desire input, new ideas, and feedback and that it will be used to actually make the company better.
+
+  - **Be a master at delegation, and do not abdicate your leadership.**
+    - Be efficient and effective by delegating an outcome or result rather than an activity or a task. Ensure that the person clearly understands the outcome and the time frame in which the result is expected. Determine if the person responsible for delivering an outcome understands how to produce the result by working closely with them to develop their achievement plan. Provide coaching or training if needed and conduct periodic progress sessions. Stay close to the delegated task and remain part of the success of its achievement. Work with the person so they understand and accept the reasoning behind the delegated outcome and why they received it. It is important that they understand this even if they disagree with being the recipient of the delegated outcome.
+  - **Be physically present and involved.**
+    - Get out of your office and spend face time with our staff. Get out of your office and spend face time physically with our customers. Make it a scheduled, embedded part of your calendar.
+  - **Attract, hire, develop, and retain only A players.**
+    - Build our organization with A players. Demonstrate that you have proven ways to identify A-player talent and that you can teach this skill to other leaders. Demonstrate the ability to hire these A players into our company and how you can help them develop both personally and professionally. Show that you know how to retain this level of talent within our organization.
+  - **Thrive in a competitive market.**
+    - Understand the competition as well as the marketplace (environment). Both change frequently. Understand our customers' pains to avoid and gains to get criteria and how our business intersects with these vectors. Understand and proactively act on the risks, friction points, differences that make the difference, and success proposition criteria of both our existing customers as well as our marketplace.
+  - **Think**. 
+    - Spend at least X hours per week in Thinking Time sessions with a high- quality question. While some of these questions will be tactical, the majority should be strategic and be based on bottlenecks, gaps in performance, leverage, underutilized assets, priorities, direction, and asset allocation.
+  - **Be successful and comfortable in a small business.**
+    - Be comfortable acting on the old motto "No challenge is too large and yet no task is too small." Be comfortable working in a small, tight-knit family of people all carrying multiple, simultaneous responsibilities. Demonstrate your understanding of the fact that you need these people far more than they need you.
+
+  - **Make us better by learning lessons.**
+    - Make the company better with each event. We have the ability to learn from each success and failure. When an A player joins us, let's learn why, and when an A player leaves, let's learn why they made this decision. When a strategy works, let's learn why; and when strategies fail, let's figure out what went wrong and how we can avoid this mistake in the future. Create and oversee a company improvement initiative with expected results and actions as well as periodic follow-ups.
+
+  - **Leave your ego out.**
+    - Your success will not be based on being right, righteous, or smart. Your success is measured by producing results, regardless of the source of the idea that produced them. Be humble and give the team the credit. After all, you are merely pointing the flashlight; they are doing all the digging.
+
+  - **Be intelligent.**
+    - Learn fast and demonstrate the ability to quickly and proficiently understand and absorb new information. Be able to structure and process qualitative or quantitative data and draw insightful conclusions from it.
+
+  - **Focus on your outcomes and results-produce.**
+    - Clearly understand the outcomes and standards expected of you and your position. Commit to your outcomes, establish clear work plans (MBOs) to achieve each outcome, and measure yourself as well as your team. Know at all times if you are meeting your commitments, attaining your outcomes, and producing the value expected of you. Get and stay organized. Get and stay focused on your outcomes. Prioritize and operate with a major objective as the goal line. Be proactive and pay attention to detail. Avoid interesting activities (shiny pennies) that distract you from your outcomes.
+
+  - **Be flexible and adaptable.**
+  - ___ is a small business that is growing fast and expanding into new markets. Outcomes, standards, responsibilities, approaches, methodologies, and strategies will change from time to time-sometimes with your consent and approval; sometimes without. Be able to adjust quickly to changing priorities and conditions and be able to cope effectively with complexity and change.
+  - **Always invest in learning, growing, and improving yourself.**
+    - Never be good enough. Never be smart enough. Never know all there is to know about leading, attracting new business, servicing our customers, or building the team. Demonstrate a continuous desire to learn by reading books (I read two to three per week), watching videos, attending seminars, and going to formal training. Be willing to spend your own money and your personal time in addition to the company's. Demonstrate that you are participating in your own development, your own success, and your own growth. Visibly bring back what you learn to the company and teach others. Help others grow with you.
 
 # Importance of capital allocation
 
@@ -1733,95 +2009,6 @@ I look forward to working with you at the highest level.
 “Institutional Imperative” – this is the big-company/CEO equivalent of ‘teenage peer pressure.’ Buffett scorns this.
 - *“Be greedy when others are fearful, and fearful when others are greedy.”*
 
-# CEO SCORECARD
-
-- The beauty of this kind of specificity and clarity is the opportunity it provides to coach performance and identify needed corrections.
-- Create and lead our business so we are the "employer of choice" while maintaining the desired profitability targets. We are a company who puts employees before customers. Employees are acknowledged and appreciated. Customers are served and appreciated... and they consistently appreciate and acknowledge our commitment to excellence. We set standards, measure critical drivers, hold each other accountable, and have candid  conversations. In all matters, we have three basic rules:
-  - 1. Do the right thing.
-  - 2. Do the best we can.
-  - 3. Show others that we care.
-
-## OUTCOMES
-  - 1. **Financial**
-    - a. Attain Gross Revenue of:
-    - b. $ [ ] by December 2017 (1 year)
-    - c. $ [ ] by December 2019 (3 years)
-    - d. $ [ ] by December 2021 (5 years)
-    - e. Attain [ ] % Gross Margin by December 2017.
-    - f. Attain [ ] % EBITDA by December 2017.
-    - g. Attain [ ] % of Cash Flow from Operations by December 2017.
-    - h. A/R below [ ] days in 2017
-    - i. Debt reduction of at least $[ ] in 2017
-
-  - 2. **Create and maintain a company that is proud of and protects its culture** of respect, integrity, intelligence, and productivity: a culture that is based on trust, appreciation, candor, excellence, and improvement.
-    - a. Customer Satisfaction is at least 4.5 out of 5 by December 2017. 
-    - b. Employee Satisfaction is at least 4.0 out of 5 by December 2017.
-    - c. Every employee receives at least quarterly coaching on their specific results.
-    - d. All employees above XXX level use the monthly or weekly "Managing by Objectives," or "MBO," process.
-    - e. Net Promoter Score "NPS" is 75% by December 2017.
-    - f. Employee turnover (they quit) is <5% in 2017.
-    - g. We should never be surprised when an employee quits and they should never be surprised when their employment is terminated.
-
-  - 3. **Create and maintain an outcomes-based organization filled with A players** who are self-driven and want to be held accountable and rewarded for achieving outcomes and results. Comprised of people with a high internal emotional need to succeed, a commitment to growth, and a desire to improve.
-    - a. 85% of all personnel are true A players, as measured by their performance against their standards and their cultural fit.
-    - b. 15% are B players being coached/trained into A players and have a specific, personalized path to attain A-player status.
-    - c. 0% C/D players
-    - d. A specific onboarding plan for every new hire, regardless of the position
-    - e. 100% of personnel have and maintain a scorecard.
-    - f. 100% of personnel have a dashboard that monitors performance of critical drivers.
-    - g. 100% of personnel have compensation packages that include base salary and personal performance bonuses.
-    - h. 100% of raises, bonuses, commissions, and promotions are based upon attainment of outcomes, results, and standards.
-    - i. 100% of all hiring selections and promotions are evaluated and selected using the Topgrading process. (You must read Who by Geoff Smart for more about this interviewing and hiring methodology.)
-
-  - 4. **Create and maintain an organization committed to excellence and growth** by providing opportunities for learning and training to improve the skills of their current position, begin learning skills for advancement or cross training, and improve each person's overall mental wellness.
-    - a. All employees receive monthly or quarterly training of at least 5 hours per quarter; 20 hours per year is the minimum. Training can be either internal or external . . . either job-specific or general improvement. More is better.
-    - b. All employees are to "read" at least one assigned book per quarter... to be discussed at one of the training meetings.
-    - c. All employees' specific work and processes are documented so that a new person could take over this position and know what to do or where to look to learn how to do it.
-    - d. All employees are trained to backfill another position in the event of a sudden loss of an employee. Redundancy of expertise is critical when we do not have the money for bench strength. This level of redundancy would keep us out of the emergency room and functioning, but it does not need to be designed to perfection or permanence. Duct tape is good until a permanent solution is found.
-
-## COMPETENCIES: THE SKILLS AND BEHAVIORS REQUIRED FOR THE JOB
-- **Focus the company on outcomes and results.**
-  - Establish clear and concise outcomes for the company and maintain an outcomes-based organization chart. Establish clear links between the company's outcomes and an individual's outcomes and results. Make sure each employee understands how they contribute to the company's mission, outcomes, and results. Ensure that each leader, manager, and staff member has an outcomes-based scorecard that maps to the company's outcomes and results. Plan and run meetings based on outcomes and results. Help design briefings, reports, agendas, and meeting materials that are focused on outcomes and results. Avoid allocating time to discussions of subjects such as activities, busyness, or hours worked.
-
-- **Be strategic in your thinking and tactical in your actions.**
-  - Being clear on the problem, obstacle, or gap to be bridged is critical, since solving the problem that isn't is a waste of time and resources (and, to be candid, irritates me). Developing a specific plan to overcome this obstacle is critical; otherwise, we run the risk of running the wrong direction enthusiastically. Finally, being tactical in your actions puts rubber on the road and facilitates forward progress.
-
-- **Always be willing to ask the question "What can I do today to improve our situation?"**
-  - Do not let perfect get in the way of possible. You might not have the final answer, but you can find two or three things to do to improve our current position. When in doubt, do these two or three things.
-  - **Preserve relationships.**
-    - It really is a small world, and what comes around goes around.
-  - **Be good at being both kind and driven.**
-    - Address everyone with kindness and consideration regardless of the topic at hand, even if the topic is missed expectations or poor performance. Demonstrate the ability to remain focused on outcomes and results while doing so in a manner that is attractive to our leaders, managers, and staff. Run and participate in meetings in a manner that elicits input from everyone. React to input and ideas in a way that makes people glad they spoke up and leads them to speak again. Make it clear to everyone around you that you actively desire input, new ideas, and feedback and that it will be used to actually make the company better.
-
-  - **Be a master at delegation, and do not abdicate your leadership.**
-    - Be efficient and effective by delegating an outcome or result rather than an activity or a task. Ensure that the person clearly understands the outcome and the time frame in which the result is expected. Determine if the person responsible for delivering an outcome understands how to produce the result by working closely with them to develop their achievement plan. Provide coaching or training if needed and conduct periodic progress sessions. Stay close to the delegated task and remain part of the success of its achievement. Work with the person so they understand and accept the reasoning behind the delegated outcome and why they received it. It is important that they understand this even if they disagree with being the recipient of the delegated outcome.
-  - **Be physically present and involved.**
-    - Get out of your office and spend face time with our staff. Get out of your office and spend face time physically with our customers. Make it a scheduled, embedded part of your calendar.
-  - **Attract, hire, develop, and retain only A players.**
-    - Build our organization with A players. Demonstrate that you have proven ways to identify A-player talent and that you can teach this skill to other leaders. Demonstrate the ability to hire these A players into our company and how you can help them develop both personally and professionally. Show that you know how to retain this level of talent within our organization.
-  - **Thrive in a competitive market.**
-    - Understand the competition as well as the marketplace (environment). Both change frequently. Understand our customers' pains to avoid and gains to get criteria and how our business intersects with these vectors. Understand and proactively act on the risks, friction points, differences that make the difference, and success proposition criteria of both our existing customers as well as our marketplace.
-  - **Think**. 
-    - Spend at least X hours per week in Thinking Time sessions with a high- quality question. While some of these questions will be tactical, the majority should be strategic and be based on bottlenecks, gaps in performance, leverage, underutilized assets, priorities, direction, and asset allocation.
-  - **Be successful and comfortable in a small business.**
-    - Be comfortable acting on the old motto "No challenge is too large and yet no task is too small." Be comfortable working in a small, tight-knit family of people all carrying multiple, simultaneous responsibilities. Demonstrate your understanding of the fact that you need these people far more than they need you.
-
-  - **Make us better by learning lessons.**
-    - Make the company better with each event. We have the ability to learn from each success and failure. When an A player joins us, let's learn why, and when an A player leaves, let's learn why they made this decision. When a strategy works, let's learn why; and when strategies fail, let's figure out what went wrong and how we can avoid this mistake in the future. Create and oversee a company improvement initiative with expected results and actions as well as periodic follow-ups.
-
-  - **Leave your ego out.**
-    - Your success will not be based on being right, righteous, or smart. Your success is measured by producing results, regardless of the source of the idea that produced them. Be humble and give the team the credit. After all, you are merely pointing the flashlight; they are doing all the digging.
-
-  - **Be intelligent.**
-    - Learn fast and demonstrate the ability to quickly and proficiently understand and absorb new information. Be able to structure and process qualitative or quantitative data and draw insightful conclusions from it.
-
-  - **Focus on your outcomes and results-produce.**
-    - Clearly understand the outcomes and standards expected of you and your position. Commit to your outcomes, establish clear work plans (MBOs) to achieve each outcome, and measure yourself as well as your team. Know at all times if you are meeting your commitments, attaining your outcomes, and producing the value expected of you. Get and stay organized. Get and stay focused on your outcomes. Prioritize and operate with a major objective as the goal line. Be proactive and pay attention to detail. Avoid interesting activities (shiny pennies) that distract you from your outcomes.
-
-  - **Be flexible and adaptable.**
-  - ___ is a small business that is growing fast and expanding into new markets. Outcomes, standards, responsibilities, approaches, methodologies, and strategies will change from time to time-sometimes with your consent and approval; sometimes without. Be able to adjust quickly to changing priorities and conditions and be able to cope effectively with complexity and change.
-  - **Always invest in learning, growing, and improving yourself.**
-    - Never be good enough. Never be smart enough. Never know all there is to know about leading, attracting new business, servicing our customers, or building the team. Demonstrate a continuous desire to learn by reading books (I read two to three per week), watching videos, attending seminars, and going to formal training. Be willing to spend your own money and your personal time in addition to the company's. Demonstrate that you are participating in your own development, your own success, and your own growth. Visibly bring back what you learn to the company and teach others. Help others grow with you.
 
 # Quotes
 
