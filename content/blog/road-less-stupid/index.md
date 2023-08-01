@@ -274,9 +274,9 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 # GENERALIZATIONS KILL CLARITY
 
 - Generalizations kill clarity. Clarity equals power. Power is the ability to act. Whenever there is weak, ineffective, or no action, it is usually a result of a lack of clarity and/or accountability. (A Board of Directors is great at filling this role.)
-- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and  accountability require courage. A plan without specificity of deliverables and dates is a fantasy. Accountability should never be feared; it is the mother of great.
-- *Here are the specific, measurable steps I'm taken (broken down by week) and the milestones, timelines, resources, and personal calendar time I am committing to reach $2000000 in revenue this next quarter. These are the names of each lead in our funnel. This is who and how many I will call on this quarter. Here is the conversion percentage I will achieve. This is the monetary value of each transaction. Here ar the exact things I will do and the specific results I will generate to make certain we achieve our $2000000 target. I'll be reporting on these three specific measurable things (A, B, C) next week, and you should hold me accountable for achieving all 3*
-- the key questions to ask in preparing to create your plan always start with how, what or who
+- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and accountability require courage. A plan without specificity of deliverables and dates is a fantasy. Accountability should never be feared; it is the mother of great.
+- *Here are the specific, measurable steps I'm taking (broken down by week) and the milestones, timelines, resources, and personal calendar time I am committing to reach $2000000 in revenue this next quarter. These are the names of each lead in our funnel. This is who and how many I will call on this quarter. Here is the conversion percentage I will achieve. This is the monetary value of each transaction. Here are the exact things I will do and the specific results I will generate to make certain we achieve our $2000000 target. I'll be reporting on these three specific measurable things (A, B, C) next week, and you should hold me accountable for achieving all 3*
+- the key questions to ask in preparing to create your plan always start with how what or who
   - how will we achieve this outcome?
   - what specific activities are required to be performed?
   - who is going to perform them?
@@ -284,12 +284,14 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - what are the critical drivers that must be consistently executed to achieve this outcome?
   - how frequently must these critical activities be measured and reported to be successful?
   - who owns this outcome?
+
 - **Thinking Time**
   - how do I need to rework our plans and budgets to make them granular and measurable?
   - what is the specific recipe I need to create to make certain the outcome we have stated is achieved?
   - what are the specific activities and milestones we must hit in order to stay on track with our stated deliverables?
   - who, specifically is accountable and responsible for achieving each outcome?
   - what are the dashboards I need to create to make sure we're measuring the critical drivers and making corrections based on our performance?
+
 
 # A CEO SHOULD NEVER DELEGATE..
 
