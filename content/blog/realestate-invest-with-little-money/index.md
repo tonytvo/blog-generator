@@ -271,52 +271,162 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # raising private money to fund your deals
 
-- The best thing about attending a meetup or a mastermind group is that you meet other investors. 
+- **Prerequisites before you start raising money**
+  - **Get educated**
+    - **The Real Estate Transaction**: Who is involved? Order of operations. Learn the jargon.  
+    - **Negotiation**: Be creative. Solve problems. Prepare more than the other side.
+    - **Accounting & Finance**: Know your numbers. Measure twice, cut once. Learn how to create a ProForma from scratch. 
+
+  - **Develop a track record**
+    - Get some transactions under your belt. As a realtor, wholesaler, or investor. Become known as a “closer”. 
  
-- One way to get started investing in real estate is through the multifamily rental business, by way of syndication. This involves raising capital by selling equity or debt to passive investors, who contribute cash and entrust you with their money in exchange for a share of the profits and the tax benefits of depreciation. 
+  - **Take personal inventory** - (time, money, skills, goals, your "why")
+    - **Self-Awareness**: Be honest about what you bring to the table. Partner with people whose skill set is complementary. 
+
+  - **create a business plan**- (strategy, market analysis, team)
+    - Don’t just analyze a property, analyze the market. What’s the value add plan? What’s the exit plan? Who is on your team? Who is doing what?
+    - When presenting deals to potential cash providers, under-promise and over-deliver. After closing on a deal, make sure to over-communicate with your cash providers and fellow investors.
+
+- **cash source**
+  - **Retirement Accounts**
+    - People who used to have a high-paying job with a reputable company that most likely had a 401(k) program-even better if there was a company match. These people can't work for that company anymore.
+    - The self-employed, like doctors, attorneys, CPAs, and others who don't work for a big company but may have their own IRA program in-house Those who have retired from the workforce but worked for a good company in the past
+  - **Real Estate Equity**
+    - People who have lived in their house for more than fifteen years
+    - Homeowners who purchased between 2009 and 2011
+    - Anyone with a vacation home
+    - Businesses that own the buildings they occupy
+  - **Cash**
+    - Those who live well below their means
+    - High-income W-2 earners
+    - People who seem to already be investing in passive-income-producing assets
+    - Recent recipients of an inheritance
+
+- **where to find cash**
+  - ![cash provider pyramid](./cash-provider-pyramid.png)
+  - **Tier 1 – Core Group:** People who already know, like, and trust you. 
+    - **making your master list**
+      - Step No. 1 - Write down the following headers:
+        - Friends
+        - Family
+        - Neighbors/neighborhood (this includes stores and restaurants you always go to) . Coworkers
+        - College/graduate school alumni Groups and organizations you are member of, such as:
+          - Business networking organizations 
+          - Volunteer/philanthropic groups 
+          - Religious groups
+          - Social groups
+          - Real estate organizations
+      - Step No. 2 - I want you to think about people in each of these groups who may fit the profile to be a Cash Provider for your business. Who would be a good source of IRA investment capital? Who may own their home free and clear? Who are the big savers in each of these circles? Write down the names of the people you aren't comfortable approaching right now because as you grow, you can circle back to them.
+      - Step No. 3 - For each column, write down the person's name, the suspected source of capital, and any pertinent notes you have on why they would be a good source. Go through all your contacts. Your family, classmates from the past, the owner of the restaurant you like to go to- everyone. You probably know more people than you think you do. You may want to try surfing your social media contacts to jog your memory.
+
+  - **Tier 2 – Referrals:** Ask each existing cash provider if they can refer two investors that might be interested in becoming a cash provider for you.
+    - organize your contacts and create a process for staying in touch consistent with these individuals
+    - 😨 **Conquer Fear of Asking For Money:** These people are not investing as a favor to you. This is an opportunity for them. 
+      - You can help them build their wealth while you build your business. In today’s investment world, where the value of a stock can drop 20% because of one tweet, they need you!
+
+    - 📰 **Create a Newsletter:** 
+      - Send a brief update about once per month highlighting case studies, pipeline, new opportunities, and most importantly tips and tricks of the trade. Become a resource. 
+
+    - 📒 **Create a Track Record Document:** 
+      - Share the details of past projects. 
+      - Try to have before and after pictures and a summary of the financials for each project.
+
+  - **Tier 3 – Taking it Public:** Social Media, Podcasting, Real Estate Investment Association Meetings, etc.
+    - The best thing about attending a meetup or a mastermind group is that you meet other investors. 
+    - finding lenders via public records (such as county public records)
+    - finding lenders online
+      - do your due diligence before using the lenders from the websites.
+    - expanding your network
+    - 🤔 **Become a Thought Leader**: 
+      - Build a megaphone.
+        - repost real estate articles to medium, biggerpockets, reddit
+        - guest spots on real estate related podcast, youtube channels 
+      - Broadcast your thoughts on business, share success stories, and caution investors through lessons learned over time. 
+      - Start your own (or be a guest on a) YouTube channel, podcast, blog. 
+      - You can also try to speak at an event. 
+    - other outlet to broadcast yourself such as blog, podcast
+    - speaking opportunities
+    - crowd funding
+    - private equity fund and equity brokers
+
+  - **syndication**
+    - One way to get started investing in real estate is through the multifamily rental business, by way of syndication. This involves raising capital by selling equity or debt to passive investors, who contribute cash and entrust you with their money in exchange for a share of the profits and the tax benefits of depreciation. 
  
-- The most common misconception about syndication is that it is overly complicated, requires extensive paperwork, and is best left to legal experts. But in reality, it is not your job to understand every law and regulation, but to put the pieces of the syndication puzzle together. 
+    - The most common misconception about syndication is that it is overly complicated, requires extensive paperwork, and is best left to legal experts. But in reality, it is not your job to understand every law and regulation, but to put the pieces of the syndication puzzle together. 
  
-- The structure of a syndication is different from that of a limited partnership or corporation. There are two types of partners in a syndication: general partners who organize the deal and oversee the  entire process, and limited partners who contribute money to close and execute the plan. In return, they receive a share of the profits and tax benefits associated with the investment property's depreciation. 
+    - The structure of a syndication is different from that of a limited partnership or corporation. There are two types of partners in a syndication: general partners who organize the deal and oversee the  entire process, and limited partners who contribute money to close and execute the plan. In return, they receive a share of the profits and tax benefits associated with the investment property's depreciation. 
  
-- The main goal of a real estate investment partnership is to raise money to buy or build a property. The process of raising capital involves distributing a percentage of the total partnership equity to the investor who brought the capital into the partnership. 
- 
-- It is important to distinguish between capital raiseers and issuers. A capital raiser is a person or company that raises capital for a project, while an issuer is the entity that is raising capital. 
- 
-- Lenders are not personally liable for the actions of the borrower, as long as they follow the terms of the loan. This makes them very suitable for investors looking to put their money into real estate. 
- 
+    - It is important to distinguish between capital raiseers and issuers. A capital raiser is a person or company that raises capital for a project, while an issuer is the entity that is raising capital.
+    - A syndication under Rule 506(b) allows you to raise an unlimited amount of money, provided that you don't publicize the offering or solicit investors. You must, however, have a reasonable belief that the investor is accredited. 
+    - The main fees that a general partner in a syndication will charge are the acquisition fee, the finance/refinance fee, the asset management fee, and the disposition fee. 
+   - As an alternative to individual projects, syndicates allow you to raise money for several projects at once. The advantages of a fund are the same as for individual projects, but the fund also diversifies single-asset risk for the LPs. 
+
+- **How to turn potential into reality**
+  - Most common cash provider questions:
+    - How/when am I going to get my money back? - (SDIRA - will be deposited into your SDIRA at end of term, with interest. Reg loan - in bank account with interest. at end of term defined)
+    - What are the risks? housing crash (we use 75% before ARV rule to value deals). tenant not paying (experienced property manager, share screens that we use to screen tenants and a track record. Also a worst case scenario plan)
+    - How much of your own money are you putting in? 
+    - What if I need my money back? 
+      - real estate isn't liquid, define loan terms in the promissory note, when the term is up. alternatively they can have someone else buy their note. Make sure they aren't investing every last dime they own. 
+    - How does this affect my income taxes? - they will get 1099 from us for the interest on the loan, and a K-1 for a partnership deal. Educate on capital gains, find ways for them to beat taxes.
+
+- **How to structure the private loan deal**
+  - Deciding the terms of the loan: 
+    - Who is lending the money and where is it coming from?
+    - What's the deal? - 
+    - How quickly do I need to close? 
+    - How much construction is involves? 
+      - need timeline, want to negotiate a construction draw program with lender to lower interest.
+      - Construction draw program: 
+        - Basically just a tiered investment based on milestones reached on the project vs just 1 big lump sum in the beginning. 
+        - money should be available on short notice, within a week. 
+        - mitigates risk for the cash provider 
+  
+  - **Private loan pitfalls:**
+    - loan origination points and fees for renewal - 1 point = 1% of loan principal. renewal fee is usually .5-1% if you don't pay back on time. 
+    - monthly payments on fix and flips - eat into cash flow, avoid
+    - prepayment penalties and guaranteed minimums - fee if you sell or refinance a property before a certain date, always avoid. Guaranteed minimum returns aren't bad idea to sweeten deal for investors & give them a floor. 
+  
+  - Documents for setting up a private loan:
+    - Promissory Note - defines interest, maturity date, alt fees, etc. Defines what happens if late repayment, default. Original copy held by cash provider, copy held by deal provider. Collect original copy at the end with the words "paid in full" on it. 
+    - Mortgage security document (deed of trust) - Document creates a lien (investor claim) on the property. Means that property owner cannot resell or refinance property without lenders permission. Lender can begin foreclosure if promissory note loan defaults. 
+    - Personal Guarantee - holds borrower personally liable for loan. 
+    - Deed in lieu of foreclosure - Means that ownership of the property immediately goes to lender if the loan goes into default.
+
+- 📊 **The Pitch Meeting:** 
+  - Face-to-Face is always best. A Zoom call is a close second. A phone call should be the last resort. 
+  - Do NOT ask someone for a substantial amount of money through email or text, unless you’re sure the answer is unequivocally going to be, “Yes!” 
+  - We have two ears and one mouth for a reason. Listen more, talk less. Seek first to understand, then be understood.
+  - Let them tell you if they’re more likely to be a debt investor or equity investor. Understand their goals and the “why” behind their investment thesis. 
+
+  - Buzzwords for Private Money Lenders: Income & Security.
+  - Buzzwords for Equity Investors: Tax Benefits, Alternatives Investments, [Generational] Wealth-Building.
+  - **Be prepared to answer the following questions:**
+    - When do I get my money back?
+    - What are the risks?
+    - How much of your own money are you putting into this deal?
+    - What if I need my money back sooner?
+    - How will this affect my income taxes?
+    - What are the logistics?
+
+  - **Be prepared to share the following data:**
+    - Personal / Business Goals
+    - Why you’re doing this
+    - Track Record
+    - Deal Analysis
+    - You will need to prepare a summary of the investment that you are making. This should include an overview of the property and the market, a summary of financial information, your exit strategy, and the team you are putting together. 
+    - What’s in it For Them?
+    - When raising capital, the most common question from prospective investors is whether you are investing your own money and how much. You must be prepared to answer this question or else risk losing the deal. 
+
+
 - There are several ways to raise capital other than through an IPO, such as through an RBO, a REIT, a REIT-I, a PIPE, a BRRRR, a VCT, or a C corp. The most appropriate method for you to raise capital depends on your objectives and the availability of suitable investment opportunities. 
- 
-- A syndication under Rule 506(b) allows you to raise an unlimited amount of money, provided that you don't publicize the offering or solicit investors. You must, however, have a reasonable belief that the investor is accredited. 
  
 - Cash-only deals can be problematic because they require more work from the investor, who may be less willing to invest if they don’t have the money right away. 
  
 - 506(c) offerings are restricted to accredited investors, but have several advantages over 506(b)s, such as the ability to advertise or generally solicit the offering publicly, which can help you reach  new investors and raise more capital. 
- 
-- The Regulation A (Reg A) is a little more complicated and less used than the other options, but it has the advantage of being able to market the offering broadly to nonaccredited investors. The only caveat is that you must file a statement with the SEC for review and approval before going ahead with the offering. 
- 
-- While you can advertise your fund and accept investments from non-accredited investors, their investments are limited to 10 percent of their annual income or net worth, whichever is greater. 
- 
-- The main fees that a general partner in a syndication will charge are the acquisition fee, the finance/refi-nance fee, the asset management fee, and the disposition fee. 
- 
-- As an alternative to individual projects, syndicates allow you to raise money for several projects at once. The advantages of a fund are the same as for individual projects, but the fund also diversifies single-asset risk for the LPs. 
- 
-- You will need to prepare a summary of the investment that you are making. This should include an overview of the property and the market, a summary of financial information, your exit strategy, and the team you are putting together. 
- 
+  
 - The Private Placement Memorandum is a comprehensive document that details the risks involved in your deal, as well as provide a wide array of information and disclosures to prospective investors. The PPM should be drafted by a qualified securities attorney to ensure compliance and protect you from liability. 
- 
-- The main difference between a flip and a rental is that in the former case, the investor acquires an asset, sells it, and then pockets the profits. With a rental, the investor rents an asset, retains  control of it, and then pockets the profits. 
- 
-- The first step in raising capital is to overcome your fear of sales, which stems from your lack of confidence. You will need to understand what motivates investors to lend or invest in order to secure money. 
- 
-- The first step towards raising private capital is to find investors who are willing to preserve and generate wealth through real estate. You won't know who's interested in your offer until you start discussing real estate and letting people know about the opportunities that exist thanks to your diligence and drive. 
- 
-- The first place to look for potential lenders is within your inner circle of contacts. Once you've established trust with them, you can begin expanding your circle of contacts to people who will trust you with their money. 
- 
-- Before you approach anyone about investing in your deal, explain your situation and explain how the investment will work. If they seem interested, ask if they would like to go through a sample deal with you to see what it looks like, and if so, how can you help them. 
- 
-- When raising capital, the most common question from prospective investors is whether you are investing your own money and how much. You must be prepared to answer this question or else risk losing the deal. 
- 
+      
 - Keeping a record of your conversations with potential investors is crucial. There are numerous CRM solutions available to help you with this, such as AppFolio, Investor Management Services, and SyndicationPro. 
  
 - When raising money for a multifamily property, working with a private equity firm can be advantageous. These are the large investors who have the capital to fund the acquisition of large apartment buildings. However, they also have considerable power, and can force you to make changes to your plans if they so choose. 
@@ -327,41 +437,25 @@ tags: ["realestateinvesting", "financialindependence"]
  
 - Raising private capital is a delicate balance between being approachable and not being a sell-out. It's crucial to have a positive relationship with your investors. 
  
-- The author was planning on buying a property that was under a Housing Assistance Payments contract, otherwise known as a HAP contract. However, he ran into issues with the government, who were going to have to approve the contract extension he was working on.
-
-- Private money is money provided by nonprofessional lenders to fund your real estate deals. It can be used for short-term or long-term investments, and the rates and terms will depend on the lender and the property. 
- 
-- Private money raising involves finding lenders who are willing to provide you with funds for your property investments. It is important to impress them with your personal brand and the strength of the deal. 
- 
-- Private money lenders are accessible if you search for them. Private money lenders are not insured by the government, and can therefore be rather risky, but they can also be very profitable. 
- 
-- Searching public records for lenders is a great way to find willing lenders. Although you can locate these people through the methods mentioned above, you can also take a more direct approach and locate them through public records. 
- 
+ - Private money lenders are accessible if you search for them. Private money lenders are not insured by the government, and can therefore be rather risky, but they can also be very profitable. 
+  
 - Networking is the process of building relationships with people to obtain business. You are not a salesman asking for money; you are a businessperson holding an opportunity. 
  
 - Networking is a crucial element in any real estate investor’s arsenal, and it can open up doors to many new clients and opportunities. 
  
 - Explain to the lender that these are investments, not sure bets, and that there is risk involved with any investment. However, as long as the lender gets their money back plus interest, they will make money. Furthermore, they will have a lien on the property that gives them full legal rights to seize the property if you break the agreement. 
  
-- Sharing your numbers with a potential lender helps build trust, especially if you have done your research and shown them the numbers. 
- 
 - Getting a private lender to agree to work with you on a deal is hard, since they are usually extremely conservative and only want to work with people they can trust. Once they commit, have them sign an agreement in writing. 
- 
-- Private money lenders can be a great resource for investors who don't want to rely on banks or other institutional lenders. However, not all private money lenders are created equal, and it is important to do your due diligence before contracting with any of them. 
  
 - Private money lenders, also known as bank lenders or institutional lenders, provide loans to individuals or companies that would not qualify for a conventional bank loan. Lenders provide loans from $25,000 to millions of dollars, and charge interest rates between 10% and 25%. 
  
 - Private money is used in three different ways: borrowed in the form of a private money loan, pooled in the form of a blind pool, and invested in the form of a one-off. 
  
-- The author calls the assets in a blind pool real estate, but defines it as no direct security, as there is in the case of a Loan. This implies that loans are not securities, but investments into the funds are. 
- 
-- The author likes to use a limited partnership to raise money for real estate investment because it is flexible and easy to manage. The investor is the owner of the company, and the manager is the general partner. 
+ - The author likes to use a limited partnership to raise money for real estate investment because it is flexible and easy to manage. The investor is the owner of the company, and the manager is the general partner. 
  
 - Having a full-time employee to recruit investors is a great strategy, but be prepared to offer different funds with richer profit shares to attract more investors. Some investors don't care about the return, they just want a larger share. 
  
 - Private investors are a great source of capital for a rehabber as they are willing to invest their money in a project with the expectation of getting it back after a year with a 10 to 15 percent return. They are also willing to loan money to other investors, which helps expand the pool of money available for purchase. 
- 
-- The biggest legal issue you may face when raising private money is soliciting for money, which is publicly asking for it. The laws surrounding this have become extremely strict in the past 80 years, and there are still a lot of gray areas that you must be aware of. 
  
 - Although using private money is a good approach to buy property, it has its risks, and it is not suitable for everyone. It requires a great deal of networking and dealing with personalities, and the rates may be higher than those you would get with a conventional bank.
 
@@ -1916,3 +2010,5 @@ the deal is not done until the deal is done. Follow up, follow up, About 20-30 p
 - https://summaries.com/blog/how-to-be-a-capitalist-without-any-capital
 - https://www.ricklindquist.com/notes/how-to-be-a-capitalist-without-any-capital
 - https://www.coachcarson.com/rental-retirement-strategy/
+- https://www.sunshak.com/raising-private-capital/
+- https://www.rickcarabba.com/book-notes/raising-private-capital
