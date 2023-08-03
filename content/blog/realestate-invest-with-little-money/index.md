@@ -24,6 +24,11 @@ tags: ["realestateinvesting", "financialindependence"]
 
 - The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
 
+- what would you do if you were stripped of all of your assets and only have $100 to start over?
+  - spend the money on dozen of doughnuts, then go to a Goodwill store and buy a bike.
+  - then I would buy over to a title company or closing attorney and ask for a free list of pre-foreclosure homes. I'd use the last bit of money for a burner phone and then get to work knocking on doors, collecting leads, and making calls.
+  - I would knock on at least 20 doors a day. After about a hundred doors, I would get a contract. Once I found out the seller's situation. I could do wholesale, creative finance, subject-to, or lease option.
+
 - In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.
   - Homeowners get lower, fixed interest rates.
   - Homeowners can qualify with lower credit scores.
@@ -1465,11 +1470,19 @@ solve as an investor.
   - Look for (1) vacants (2) Fixer-uppers (3) Legal proceedings
   - Reach out to the owner! (1) call (2) mail (3) neighbors
   - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+  - looking for sign of distress
+    - junk in the yard
+    - broken down cars
+    - busted windows
+    - overgrown weed
+    - old roof
 
 - **MLS**
   - Find a real estate agent
   - Get automated leads in your target area
   - Be FIRST (minutes or hours! Not days) or LAST (persistence & follow-up)
+  - **expired listings within 60-90 days on multiple list service (MLS)**
+    - the home either not worth what they want or they had an equity situation where they couldn't get what they needed to get out of the deal.
 
 - **Networking Groups**
 
@@ -1521,6 +1534,7 @@ solve as an investor.
 - **Cold calling**
   - Old fashioned, takes time, but still inexpensive and sometimes effective!
     a. Ads online or signs - For Rent or FSBO (For Sale By Owner)
+  - maybe, [start virtual](https://startvirtual.com/) and [easybutton](https://easybuttonleads.com/) for lead generation
 
 -  **Signs**
   - “I Buy Houses + Fast Cash + Your Phone Number” - Relatively inexpensive yet effective.
@@ -1577,7 +1591,20 @@ solve as an investor.
   - I really think the key is understanding you’re in a competition. Somebody else wants to buy that house. Somebody else wants to get that client, somebody else wants to land that deal. And when you’re too busy, whatever you’re doing, expecting that the other person sort of needs to work around your schedule, you lose them. And it’s really just understanding that our default mode as human beings is to be narcissists
   - you give somebody 12 hours and if your closing ratios say 20%, it cuts in half after 12 hours, and it’s another half after another 12 hours. So if you got back to them in 24 hours and you normally could close 20%, your chance of closing are 10%, like it goes down significantly, so on and so forth. So **speed to lead** is extremely important to make sure that you’re able to close. It’s that instant gratification, and they want answers now. I want to be able to at least get the questions answered and schedule that appointment to get on the phone if they’re not available right away. But we want to get on those calls as fast as possible.
 
-
+- **when to escalate**
+  - **timing**: "are you interested in selling your house in the next 60-90 days. If they say yes, move onto price
+  - **price:** "what are you trying to accomplish or walk away with?"
+    - in a perfect world, what price would you be looking for?
+    - unlisted/off the market sellers often says, "I haven't thought much about it", or "I need to talk to my wife/husband". Continue foward saying "Great, I will give you a few days to talk it over and let's touch base next week"
+  - **motivation:**
+    - why are they interested in selling the house?
+    - why they're willing to sell to cash buyer rather than work with a realtor or sell FSBO (for sale by owner)
+  - **condition**
+    - want to see what the seller thinks about the property
+      - is there a tenant in the property?
+      - does the owner live in the property? and if there's a situation of escrow before someone can move out?
+      - is there hoarder situation requires extra cleaning costs?
+  - The general escalation flow involves a cold caller discussing timing, price, motivation, and condition of the home. This first call confirms the seller's name, the address, the callback number, an email, whether they're working with a Realtor or not, the year the house was built, how long they've had the property, and the occupancy status, then answers questions like roof condition, HVAC condition, size, square footage, time frame, motivation to sell, and asking price. Some of this can be found online, but you want to confirm as much as possible because online data is not always correct. It sounds like a lot, but a VA can handle all of this in a five- to ten-minute phone call. Once this has been done, a cold lead can become a warm lead or it can move to another section of the pipeline.
 
 # rules of the new rich
 
