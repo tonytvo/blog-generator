@@ -293,38 +293,38 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - what are the dashboards I need to create to make sure we're measuring the critical drivers and making corrections based on our performance?
 
 
-# A CEO SHOULD NEVER DELEGATE..
+# A CEO SHOULD NEVER DELEGATE...
 
-- Business success is highly dependent on who you hire and who you don't fire.
+- Business success highly depends on whom you hire and don't fire.
 - Motivation is for amateurs. Pros never need motivating. 
-- Show me a lousy culture and I will show you a lousy CEO.
-- The key is the clarity on the obstacle and consistency of disciplined execution on the critical drivers. Consistency requires measurement. Discipline requires standards. Execution requires resources.
+- Show me a lousy culture, and I will show you a lousy CEO.
+- The key is clarity on the obstacle and consistency of disciplined execution on the critical drivers. Consistency requires measurement. Discipline requires standards. Execution requires resources.
 
-- There are 7 yardsticks that a CEO must be judged by to consistently produce quality results:
+- There are seven yardsticks that a CEO must be judged by to produce quality results consistently:
 
-- **Clearly define Point A and Point B**: Most CEOs or leaders are every good in articulating where they are going to (Point B) or what you might call the vision. Its funny how most CEOs give a stunning presentation of the future they don’t have 100% control of but find it hard to determine where they are now (Part A); their present state. I honestly think that its only natural to know where we are going to after you know where you are.
+- **Clearly define Point A and Point B**: Most CEOs or leaders are very good at articulating where they are going to (Point B) or what you might call the vision. It's funny how most CEOs give a stunning presentation of the future they don't have 100% control of but find it hard to determine where they are now (Part A); their present state. It's only natural to know where we are going after knowing where you are.
 
-- **"Determine the obstacle”** This is only gotten when there is a clear definition of point A and point B. This obstacle is also known as the gap. This is the reason why you haven’t attained or achieve point B. At this stage you must separate the problem from the symptom and focus on the real problems.
+- **"Determine the obstacle"** This is only gotten when there is a clear definition of points A and B. This obstacle is also known as the gap. This is the reason why you haven't attained or achieved point B. At this stage, you must separate the problem from the symptom and focus on the real issues.
 
-- **Design the plan/machine:** After you have clearly defined point A and B, the obstacle or gap, then the next thing is to build a machine that will address the problems above. At this stage , the CEO can delegate at this stage or get his team members to be part of this so that they can also own it and run with it.
+- **Design the plan/machine:** After clearly defining points A and B, the obstacle or gap, the next thing is to build a machine to address the problems above. The CEO can delegate at this stage or get his team members to be part of this so they can also own and run with it.
 
-- **Allocate resources:** Once you determine the solution/machine to be used, the next thing is to allocate the adequate resources to make the machine work. 
-  - Just like Keith Cunningham said “A shift in priorities without a simultaneous shift in resource allocation is delusional. Anytime we announce new initiatives or change priorities, it requires a change in how we are allocating our resources (team, time, and money) must be allocated in such a way that permits the business to stay afloat while trying to birth and execute this new initiative or idea with this new machine. It also requires that we do less of one thing to allow us to do more of something else. None of us has the ability to keep adding without curtailing or stopping something else."
-  - Keith Cunningham says it perfectly “In other words, the CEO must plan tomorrow’s breakfast while continuing to cook tonight’s dinner.” This is very tricky and requires a good amount of skill to adequately execute this; you must know the effect of the reduction of resources in order to increase it for another task.
+- **Allocate resources:** Once you determine the solution/machine to be used, the next thing is to allocate adequate resources to make the machine work. 
+  - As Keith Cunningham said, "A shift in priorities without a simultaneous shift in resource allocation is delusional. Anytime we announce new initiatives or change priorities, it requires a change in how we are allocating our resources (team, time, and money) must be allocated in such a way that permits the business to stay afloat while trying to birth and execute this new initiative or idea with this new machine. It also requires that we do less of one thing to allow us to do more of something else. None of us can keep adding without curtailing or stopping something else."
+  - Keith Cunningham says it perfectly "In other words, the CEO must plan tomorrow's breakfast while continuing to cook tonight's dinner." This is very tricky and requires much skill to execute adequately; you must know how to reduce resources to increase it for another task.
 
 
-- **Team players:** This is so crucial to the workings of the machine. Machines don’t operate themselves, they need people to run it. The quality of the output of the machine is directly proportional to the quality of the team players. So it's very important that everyone on your team brings their A-game to bear on the task at hand. Mediocrity should never have a place in your team. The watchword here is “ Mastery”. Just like Keith Cunningham said “Said another way, business success is highly dependent on whom you hire and whom you don’t fire.
+- **Team players:** This is so crucial to the workings of the machine. Machines don't operate themselves; they need people to run them. The quality of the machine's output is directly proportional to the quality of the team players. So everyone on your team must bring their A-game to bear on the task. Mediocrity should never have a place in your team. The watchword here is "Mastery." Like Keith Cunningham said, "Said another way, business success is highly dependent on whom you hire and don't fire.
 
   - Here are some tips to distinguish A players include:
     - They have a scoreboard that helps them with measurements. They will not play if they can't see the scoreboard
     - They love healthy competition.
     - They love accountability.
     - they have the technical chops to do the job. This is not their first rodeo. They have been there, done that, and they are technically very good at what they do.
-    - They are humble enough to ask for coaching. The 3 most important questions an employee can ask are
+    - They are humble enough to ask for coaching. The three most important questions an employee can ask are
       - what else can I do
       - where can I get better?
-      - what do I need to do or learn so that I continue to grow?
-    - They are good at what they do and always seek to get better.
+      - what do I need to do or learn to continue to grow?
+    - They are good at what they do and consistently seek to improve.
     - They see opportunities, while others see problems.
   - rules for hiring and retaining A players are
     - interview rigorously
@@ -332,20 +332,21 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
     - onboard effectively
     - measure consistently
     - coach continuously.
-- **build the organization chart/structure:** This cannot be overemphasized. It’s one of the differences between good companies and great companies. People or personnel must operate within a structure also known as the organizational chart. A structure gives support and provides protection to your business. Most importantly, the structure must be outcomes/result oriented instead of roles, titles, or names. In other words, every role must have tasks, outcomes, and deliverables that are assigned to people, and excuses for non or under-performance are not allowed.
+- **Build the organization chart/structure:** This must be emphasized. It's one of the differences between good companies and great companies. People or personnel must operate within a structure known as the organizational chart. A structure gives support and protects your business. Most importantly, the structure must be outcomes/result oriented instead of roles, titles, or names. In other words, every role must have tasks, outcomes, and deliverables that are assigned to people, and excuses for non or under-performance are not allowed.
 
 - **Create a culture:** Culture is a way of life. As a CEO, whatever you put in place as a culture will run into the fabric of your business. You must show that you are accountable, you care, and have a deep desire for success. You cannot have a culture that is not practiced. A culture that is not upheld is a mere vision or mission plaque that you hang on the wall.
-  - how people talk to each other and treat one another is the essence of culture.
+  - how people talk to and treat one another is the essence of culture.
 
 - **Thinking Time**
-  - in light of 7 fundamental jobs of a CEO, where have I dropped the ball and what do I need to do differently to cause us to get better
-  - as I'm thinking about the next 100 days and what I will do differently, what are the things, I must do less of to make room for the things I need to do more of?
+  - in light of 7 fundamental jobs of a CEO, where have I dropped the ball, and what do I need to do differently to cause us to get better
+  - as I'm thinking about the next 100 days and what I will do differently, what are the things I must do less to make room for what I need to do more of?
   - if my team represents my leverage, what do I need to do or say to ensure their success?
-  - starting and perfection are rarely simultaneous. What are the 3 things I could begin doing that would get me 80% of the way there?
-  - what is the disipline I need to adopt to create the outcomes I want?
-  - what is my specific measurable plan to improve our results?
-  - where have I abdicated my responsibilities as a CEO and what do I need to do about it?
+  - starting and perfection are rarely simultaneous. What three things could I begin doing that would get me 80% of the way there?
+  - what discipline do I need to adopt to create the desired outcomes?
+  - what is my specific, measurable plan to improve our results?
+  - where have I abdicated my responsibilities as a CEO, and what do I need to do about it?
   - where have I optimized for easy instead of outcomes?
+
 
 # A CRISIS IS A TERRIBLE THING TO WASTE
 
