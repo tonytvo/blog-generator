@@ -348,7 +348,7 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - where have I optimized for easy instead of outcomes?
 
 
-# A CRISIS IS A TERRIBLE THING TO WASTE
+# A CRISIS IS A TERRIBLE THING TO WASTE.
 
 - The best time to learn the lessons (and avoid the dreaded dumb tax) is prior to making the mistake in the first place.
 - Making mistakes is inevitable; admitting them and learning the lesson is optional. I love what Dr. Buckminster Fuller said about this: "A mistake is not a sin unless it is not admitted."
