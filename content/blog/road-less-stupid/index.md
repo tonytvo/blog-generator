@@ -358,17 +358,17 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 ## Log of Lessons Learned
 
 - **Strategy**
-  - A lack of rules, skepticism, and discipline caused every  mistake we made.
-  - Emotions, when mixed with unbridled greed and easy access to capital, produce economic disasters.
+  - A lack of rules, skepticism, and discipline caused every mistake we made.
+  - Emotions produce economic disasters when mixed with unbridled greed and easy access to capital.
   - Financial engineering and incremental debt do not turn a bad deal into a good one.
   - Raw land eats three meals per day.
-  - Catching a big wave is not the same as being a good swimmer.
-  - There is no way to correct without divorcing the story and marrying the truth. Facts do not cease to exist just because you ignore them. A good market tends to hide mistakes. Nothing takes the place of being actively engaged in the running of your business and being thoughtful (as well as skeptical) about the future.
+  - Catching a big wave is different from being a good swimmer.
+  - There is no way to correct without divorcing the story and marrying the truth. Facts do not cease to exist just because you ignore them. A good market tends to hide mistakes. Nothing takes the place of being actively engaged in running your business and being thoughtful (as well as skeptical) about the future.
   - Last week's marketing report has absolutely nothing to do with where the market is headed, what the economy is doing, or what the demand will be next year.
   - How you run your business during the good times is the only true predictor of how well your business will cope with the bad times. 
   - You must keep a conservative strategy during the good times because you generally don't know you're in bad times until it's too late.
-  - No team has ever won the game with an "offense only" strategy. Great teams, the ones who win championship rings, all have fantastic defenses. They think about prevention, protection, and risks.
-  - Not all progress is measured by ground gained; sometimes progress is measured by losses avoided.
+  - No team has ever won a game with an "offence only" strategy. Great teams, the ones who win championship rings, all have fantastic defences. They think about prevention, protection, and risks.
+  - Not all progress is measured by ground gained; sometimes, progress is measured by losses avoided.
   - Speed kills. True wealth is built slowly. Speed and greed necessitate aggressive leverage and increase the odds of catastrophe. It is better to go slower and avoid the do-overs.
   - Our desire for growth and size was based on ego and greed, not strategy and wealth.
   - The successful people we admire are not the ones who made it. We admire the ones who kept it.
@@ -379,65 +379,65 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - Litigation is expensive, time-consuming, and to be avoided.
   - The best way to avoid losses and to stay financially healthy is to "sell too soon." The old real estate maxim "In the history of the world, the seller is always wrong" is outrageously stupid when you run out of cash!
   - Don't fall into the trap of believing you can sell it for a higher price tomorrow. The future is unknown (and unknowable) and fraught with risk.
-  - In the future, I would rather miss an opportunity than lose capital. .Never buy something because you think you might need it someday. .Keep working all your alternatives until something closes. It hasn't closed until the money is in the bank.
-  - Success does not make you invincible or bulletproof. What success does best is make you complacent and egotistical, which by themselves are sufficient to create disaster.
-  - The euphoria of a hot market usually results in ignoring marketplace fundamentals. Prudently gathering and evaluating market-based economic information is the only prescription for avoiding the mistake of smoking your own exhaust.
+  - I would rather miss an opportunity than lose capital in the future. Never buy something because you think you might need it someday. Keep working on all your alternatives until something closes. It hasn't closed until the money is in the bank.
+  - Success does not make you invincible or bulletproof. What success does best is make you complacent and egotistical, which are sufficient to create disaster.
+  - The euphoria of a hot market usually results in ignoring marketplace fundamentals. Gathering and evaluating market-based economic information is the only prescription for avoiding the mistake of smoking your exhaust.
   - Never delay taking corrective action once the problem has been recognized. Hoping for better conditions in the future so the problem will solve itself is a fool's game. Procrastination magnifies problems. •Failure to recognize reality is delusional. You might be smarter and better than your competition, but when the market shifts, you're still broke. Don't confuse intellect with economic reality.
   - Never rely on only your consultant's recommendations. If you don't understand it, don't do it.
-  - We did not narrow our focus when we knew times were getting worse. This was due to two things: (1) The distraction of our prior track record, and (2) An unwillingness to assess the risks of being wrong.
+  - We did not narrow our focus when we knew times were getting worse. This was due to two things: (1) The distraction of our prior track record and (2) An unwillingness to assess the risks of being wrong.
   - A small percentage of a large number is a large number.
   - Any fool can make money in the good times.
   - The question should never be, "Should I pursue this opportunity?" The right questions are:
   - If I pursue this opportunity, how much time, resources, effort, and investment are required?
   - Is this in my wheelhouse (core competence)?
   - What could go wrong?
-  - What are the returns if I am right and the costs if I am wrong? . Can I live with being wrong?
-  - The greater the past success, the greater the likelihood of the Superman fantasy. A lack of cash or cash flow is Kryptonite and it kills all superheroes. Always be skeptical and keep some powder dry.
+  - What are the returns if I am right and the costs if I am wrong? Can I live with being wrong?
+  - The more significant the past success, the greater the likelihood of the Superman fantasy. A lack of cash or cash flow is Kryptonite, and it kills all superheroes. Always be skeptical and keep some powder dry.
 
 - **Deals**
   - Doing a deal to keep the staff busy is stupid. Do not do marginal deals.
-  - A bad economy doesn't create financial problems; it just reveals them.
+  - A bad economy doesn't create financial problems but reveals them.
 
   - Almost everything takes longer than you think it will and costs more than originally budgeted. Plan for delays and bumps.
-  - Just because prices have gone up the last several years doesn't mean they can't go down 30% next year.
+  - Just because prices have increased in the last several years doesn't mean they can't go down 30% next year.
   - The easiest sale is to an employee or a consultant.
-  - When the market is bad, there are NO buyers... at any price.
-  - Delaying the decision to sell today because last year's prices were higher or because the anticipated profits originally projected were greater is stupid. The market doesn't care about either.
+  - When the market is terrible, there are NO buyers... at any price.
+  - Delaying the decision to sell today because last year's prices were higher or because the anticipated profits originally projected were greater is stupid. The market doesn't care about it, either.
   - Do not follow the market down. Make deep cuts quickly.
   - Don't let what your competition is doing influence your decisions. You can't erect a fence to keep the competition out. Besides, they do stupid things sometimes too.
   - Secondary locations always decline the fastest (and most) and take the longest to return.
-  - New projects must be based on current demand and not future growth. •You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, you will also have far less overhead.
-  - Too many deals consume time and draw attention away from the really good ones.
-  - It takes three good deals to make up for one bad deal.
-  - When a bad deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad and the good ones are now mediocre or troubled as a result of a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
-  - Holding off on adjusting the price or overhead based on the belief the market will rebound quickly is irrational.
+  - New projects must be based on current demand rather than future growth. •You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, but you will also have far less overhead.
+  - Too many deals consume time and draw attention away from the good ones.
+  - It takes three good deals to make up for one lousy deal.
+  - When a lousy deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad, and the good ones are now mediocre or troubled due to a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
+  - Holding off on adjusting the price or overhead based on the belief that the market will rebound quickly is irrational.
 
 - **Financing**
   - Debt gives the illusion of wealth. True wealth is assets, cash flow, and manageable (minimal) debt.
   - Excessive debt and hope are the root of all financial crises. You can never ignore risks or suspend doubt.
   - Doing a marginal deal just because the money is available is stupid. Bankers typically can't assess the market risks either.
   - Take your personal guarantee seriously. You only bring two things to the table: cash and your guarantee, neither of which has an unlimited supply.
-  - Don't rely on future price increases to make a deal work. .Never finance long-term assets with short-term debt.
+  - Don't rely on future price increases to make a deal work. Never finance long-term assets with short-term debt.
   - We covered a lot of mistakes with access to an abundance of money and easy credit.
   - Too much money makes you stupid. Just because you can doesn't mean you should.
   - Stretching to do a deal by horsing the numbers in a spreadsheet is usually a sign of ego and rarely a good idea.
 
 - **Personnel**
-  - Bench strength is critical. Find the best people and compensate them VERY well. It saves money in the long run.
+  - Bench strength is critical. Please find the best people and compensate them very well. It saves money in the long run.
   - The tougher the times, the better the people you need. There is no way to survive a bad market with weak people.
   - Adding/keeping mediocre people weakens the organization, which dilutes your results.
   - Always be upgrading your talent and never be afraid to pay them what they need to make.
   - Every hire we make should raise the average.
   - One superstar 7-footer is far more valuable than ten 5-footers. Weak people beget weak results.
-  - Never wait to address personnel issues or substandard performance. Employees are either doing a great job or they aren't. If they aren't, take action. My job isn't to babysit or beg people to do their jobs.
+  - Always address personnel issues or substandard performance. Employees are either doing a great job, or they aren't. If they aren't, take action. My job isn't to babysit or beg people to do their jobs.
   - The cost of tolerating an incapable or misplaced employee is far greater than the discomfort of having a tough conversation and speedy termination.
-  - A culture rooted in past successes, growth at all costs, and aggressive bonus structures will produce employees who don't think, who aren't skeptical, and who ignore risks.
+  - A culture rooted in past successes, growth at all costs, and aggressive bonus structures will produce employees who don't think, aren't skeptical, and ignore risks.
 
 - **Overhead**
 
-  - Stay lean even if you can afford to get fat. Keep overhead low! •Watch your cash VERY closely. Ask yourself, "Do I really need this? Will this help me make more money?" Once the money is spent, it's gone forever.
-  - Get really sober (medieval) on what needs to happen to your cost structure to produce the profits you want vs. the revenue you hope to get.
-  - Each line item of your financials should be scrutinized on a continuous basis to make sure the money is being spent in a productive and prudent way.
+  - Stay lean even if you can afford to get fat. Keep overhead low! •Watch your cash very closely. Ask yourself, "Do I really need this? Will this help me make more money?" Once the money is spent, it's gone forever.
+  - Get sober (medieval) on what needs to happen to your cost structure to produce the profits you want vs. the revenue you hope to get.
+  - Each line item of your financials should be scrutinized continuously to ensure the money is being spent in a productive and prudent way.
   - Conserve cash, especially during the good times. Spending money to look like a big deal is not the same as being a big deal.
   - When you're out of cash, you're out of business. Cash is truly KING.
   - When the market shifts, you can't cut overhead fast enough.
@@ -445,7 +445,7 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - Cut overhead early and hard. Pride and hubris kept us from cutting our overhead in a timely manner.
   - Fancy offices, hot cars, lots of staff, and high overhead are signs of significance, not success.
   - Knowing your numbers-what it costs to run each aspect of your business and having timely information are critical to success.
-  - Focus on the costs of doing business and not just the revenue potential. 
+  - Focus on the business costs and not just the revenue potential. 
   - Paying for overhead we don't need to support revenue we don't have is stupid.
   - Contract out as much of the work as possible. Keep overhead low and variable.
 
@@ -453,7 +453,7 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - As I look back at my most significant losses, stupidest decisions, and biggest mistakes, what are the fifty most important lessons I have learned?
   - Where am I making some of these same mistakes again?
   - Based on prior lessons learned, what do I need to change (immediately) to avoid the dreaded dumb tax?
-  - What are the rules and disciplines I will put in place to minimize the likelihood of repeating my mistakes?
+  - What rules and disciplines will I put in place to minimize the likelihood of repeating my mistakes?
 
 # ORDINARY THINGS, CONSISTENTLY DONE, PRODUCE EXTRAORDINARY RESULTS!
 
