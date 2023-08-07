@@ -26,7 +26,7 @@ tags: ["realestateinvesting", "financialindependence"]
 
 - what would you do if you were stripped of all of your assets and only have $100 to start over?
   - spend the money on dozen of doughnuts, then go to a Goodwill store and buy a bike.
-  - then I would buy over to a title company or closing attorney and ask for a free list of pre-foreclosure homes. I'd use the last bit of money for a burner phone and then get to work knocking on doors, collecting leads, and making calls.
+  - then I would bike over to a title company or closing attorney and ask for a free list of pre-foreclosure homes. I'd use the last bit of money for a burner phone and then get to work knocking on doors, collecting leads, and making calls.
   - I would knock on at least 20 doors a day. After about a hundred doors, I would get a contract. Once I found out the seller's situation. I could do wholesale, creative finance, subject-to, or lease option.
 
 - In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.
@@ -1088,11 +1088,31 @@ multiplying the monthly rent by the number of days in the month. This is called 
  
 - The internal rate of return is the interest rate at which the project's cash flows equal the initial investment. It is a measure of the efficiency of a project's financing. The higher the IRR, the more efficient the financing. 
  
-- The last step in the BRRRR method is to conduct a stress test on the entire project, which involves checking how the project will perform if some of your key assumptions were incorrect. This allows you to identify any weaknesses in your underwriting and correct them before moving forward. 
- 
-- The author advises being conservative when underwriting a property, especially when doing so for the first time. However, he also advises that people should be aggressive, especially when they don’t have much experience. 
- 
-- The author acquired the Apartments at Madison Barracks, which was in terrible condition. The building needed repairs, and the land needed work as well. However, it had a lot of potential, and the apartments were merged, which allowed the team to increase its capacity by 12 percent.
+- The last step in the BRRRR method is to conduct a stress test on the entire project, which involves checking how the project will perform if some of your key assumptions were incorrect. This allows you to identify any weaknesses in your underwriting and correct them before moving forward.
+
+- **asking better questions**
+  - creative finance investors often haven't asked enough about their sellers. they are more focus on closing the deals than they are on figuring out what the situation is for the seller.
+  - typically the questions is asked about house price, year built, vacancy rate, seller's motivation, etc... Sometimes, the sellers will give you these information on the first call, most of the times, they won't. People are naturally a little closed off, especially when talking to strangers on the phone. The longer you talk the more information you likely to gather.
+  - "catch me up to speed with everything". This is for the seller to present information so I can figure out whether I can help them.
+  - it's possible for the seller to say the exact opposite of what they told previously simply because they put up walls during a phone conversations; those walls tend to come down when you're face to face with a person
+
+- **common questions sellers ask**
+  - is it risky to have multiple loans?
+    - it doesn't matter if you have 2 loans, it matters if you're responsible for those loans
+  - what happens if the creative finance investors stop payment and the loan is still in the seller's name"
+    - that would be the best thing that could happen to the seller, as the seller would get the house back, even after the investor paid for the arrears, paid closing costs and put some cash in the pockets of the sellers.
+    - the seller and buyer will sign a piece of paper called a performance deed if the buyer don't perform or the investor is 30 days behind, the seller automatically get the deed back.
+  - is subject-to legal?
+    - yes, it's legal
+  - what happens if the market crash? where the investor owe the bank more than what the house worth?
+    - the investor don't buy the house based on the value of the house, but based on the cash flow it represents.
+    - the thing about 2008 (great financial crisis) is that even though the market crashed, the rental rates went up. The rental rates in the country haven't gone down in 30 years.
+  - what if the investor die or get abducted by aliens?
+    - the answer for this is performance deed again
+  - can the seller buy the house back from the investor?
+    - rarely, but most people don't want it back when the times come
+  - if the investor buy the house, can the seller stay in the house and rent it from the investor/buyer?
+    - no, because the rent is typically will be higher so the investor/buyer can make profit 
 
 # multifamily millionaire model
 
@@ -1188,6 +1208,19 @@ multiplying the monthly rent by the number of days in the month. This is called 
 
 # strategy for finding great deals
 
+- search for deals on MLS that has the following keywords:
+  - "cash only", "property sold as is", "bring all offers", "no reasonable offer refused"
+
+- try to get on the phone with the seller, you will discover all sorts of situations. The seller could be:
+  - moving out of the area.
+  - dealing with a life-changing moment, like the death of a loved one or a divorce.
+  - a tired landlord, and the property has been sitting vacant or they just no longer want to deal with the maintenance.
+  - wanting to downsize or move to a warmer climate
+  - just not wanting to do all the work required to make the home livable or rentable.
+  - threatened with a foreclosure
+  - wanting to get rid of a property they inherited and don't want.
+  - trying to invest elsewhere.
+
 - Everything is a funnel. If you’re a regular listener to The BiggerPockets Podcast, you’ve probably heard the host, Brian, say this phrase numerous times. It is the fundamental truth that drives nearly everything successful in life. 
  
 - The good thing about the top of the funnel is that it weeds out the bad leads immediately, saving you time and resources. However, it does not give you much information on the quality of the leads you’re getting. 
@@ -1273,16 +1306,34 @@ multifamily business, as each one will have different connections and sources.
 # underwriting
 
 - The final stage of a deal is to underwrite it. This entails thoroughly screening the property, the team behind it, and the investors who will be financing it. It is important to avoid retrading a deal, which can severely damage your reputation. The underwriting process should make such occurrences unnecessary. 
- 
+
+- step by step underwriting
+  - gather up all the information you need to see if you can make this deal work. This includes: 
+    - the ARV, the mortgage balance, the PITI, the rent rate, whether or not there is cashflow, ask yourself if the entry fee is a deal killer or not (outrageous down payment)
+    - The underwriting process involves obtaining information about a property which is crucial for making an informed lending decision. The information provided in the underwriting stage is usually limited, so verify everything. 
+    - Obtain as much information about the property as possible before making an offer. This will help you with your underwriting and valuation, as well as assist with the purchase negotiations.
+    - The location of a property is one of the most important factors when buying a house. It is important to look at the local economy, as well as the area's desirability, when making your decision. 
+    - The best way to get a feel for a neighborhood is by visiting it in person. You can gather intelligence on the area by speaking to local residents, checking out the crime rate, and taking note of any unusual activity. 
+    - The income section of the rehabbing spreadsheet allows you to compare the property’s current and projected income. You can then use this data to determine if the property is worth rehabbing or not. 
+    - The first step in calculating the ARV of a multifamily property is to determine the gross potential rent, which is the maximum amount of money the property can generate. The GPR is calculated by multiplying the average rent of all units in a property by the number of units. 
+    - The Gross Rent Ratio, or GPR, is the most important number in the BRRRR approach and is calculated by dividing the gross rent by the total square footage.
+  - analyze the entry fees
+    - the entry fee is made up of 7 parts (cash to the seller, the arrears/late payment/liens, the cost of acquisition, the closing costs, the renovation costs). is there any wiggle rooms in the entry fee?
+  - consider your exit strategy
+    - can you wholesale the deal?
+    - is it better as buy and hold?
+    - should you look for a homestead buyer (meaning a non-investor who wants to live in the house)
+    - is wholesale still an option with paying more in a seller finance deal
+    - wraps
+    - lease options
+    - sub-tail (sub-to, then sell retail)
+    - SRRR (seller-finance, renovate, refinance, repeat)
+    - vacation rentals (airbnb, vrbo, etc...)
+    - group homes
+    - corporate rentals 
+
+
 - When buying a multi-unit property, buyers are expected to have done their research and know what they are getting themselves into. As a result, they will make their offers based on a hard deposit, which is non-refundable. 
- 
-- The underwriting process involves obtaining information about a property which is crucial for making an informed lending decision. The information provided in the underwriting stage is usually limited, so verify everything. 
- 
-- Obtain as much information about the property as possible before making an offer. This will help you with your underwriting and valuation, as well as assist with the purchase negotiations. 
- 
-- The location of a property is one of the most important factors when buying a house. It is important to look at the local economy, as well as the area's desirability, when making your decision. 
- 
-- The best way to get a feel for a neighborhood is by visiting it in person. You can gather intelligence on the area by speaking to local residents, checking out the crime rate, and taking note of any unusual activity. 
  
 - The role of a property manager is to assist you in the underwriting process by providing you with market data and information about comparable properties, as well as helping you secure quotes from contractors and vendors. 
  
@@ -1297,14 +1348,6 @@ multifamily business, as each one will have different connections and sources.
 - Because the author was able to connect with the property’s owner, he was able to determine that the owner was willing to sell. He was able to acquire the property for $5 million, which was $1 million less than what he had paid for it thirteen years ago. 
  
 - The author acquired the property and started working on it. He figured out that the property was in distress, but there was also a lot of potential. He would need to underwrite the deal carefully.
-
-- Income verification is not difficult, but it requires a lot of work. It is crucial to understand the process, as it is the basis of every good investment. 
- 
-- The income section of the rehabbing spreadsheet allows you to compare the property’s current and projected income. You can then use this data to determine if the property is worth rehabbing or not. 
- 
-- The first step in calculating the ARV of a multifamily property is to determine the gross potential rent, which is the maximum amount of money the property can generate. The GPR is calculated by multiplying the average rent of all units in a property by the number of units. 
- 
-- The Gross Rent Ratio, or GPR, is the most important number in the BRRRR approach and is calculated by dividing the gross rent by the total square footage. 
  
 - The ideal situation is to collect data from at least three or four comparable rentals, and then average the prices for each unit type, both monthly and on a per square foot basis. 
  
@@ -1330,7 +1373,7 @@ multifamily business, as each one will have different connections and sources.
  
 - The final step is to check the comps, which will show you what rents you can expect once the rehab is finished. Be aware that increasing your projections beyond a reasonable amount may lead to overpaying for the property, which in turn may lead to tenants demanding higher rent increases in the future. 
  
-- The Park Place Apartments example shows how to calculate and project a property’s T-12 income. The numbers used in this example are for illustration only and cannot be applied to every situation. It is best to work with your own rental property manager to get an accurate projection. 
+- work with your own rental property manager to get an accurate projection. 
  
 - It is impossible to predict future real estate values and rents. This is why it is important to rely on your best judgment when estimating them. 
  
@@ -1349,12 +1392,10 @@ multifamily business, as each one will have different connections and sources.
 - Some financials will include interest expense or capital expenditure, both of which can throw off your valuation and should be removed from your underwriting. If a property is listed with an experienced broker, you're unlikely to find these line items on the financials. 
  
 - There are many factors that can influence the overall expenses of a multifamily property, such as the local cost of living, climate, weather, age of the property, size of the property, type of tenants, utilities, and so on. 
- 
-- It is important to understand that the numbers in the following table are averages, and not norms, and should only be used as a starting point for your estimate. 
- 
+  
 - The average multifamily property requires between one and two full-time employees for every forty-five to fifty units, at a salary of $45,000 to $50,000. Multifamily properties also require a considerable amount of payroll expenses, which total about 18 percent of gross pay. 
  
-= the amount of insurance coverage a property gets is based on the lenders’ requirements, and can vary considerably. 
+- the amount of insurance coverage a property gets is based on the lenders’ requirements, and can vary considerably. 
  
 - It is important to understand that tax rates can fluctuate, and when calculating a property’s future tax liability, you must consider both the property’s actual taxes and the increased taxes from a re-assessment. 
  
@@ -1372,13 +1413,25 @@ multifamily business, as each one will have different connections and sources.
  
 - Replacement reserves are a requirement set by lenders and should be budgeted for during underwriting. They are calculated based on the results of a property condition assessment. 
  
-- The expense ratio is a metric that indicates how efficiently a property is operating. It is a broad indicator of how much a property costs to maintain. 
+- The expense ratio is a metric that indicates how efficiently a property is operating. It is a broad indicator of how much a property costs to maintain.  
  
-- After analyzing the numbers, you will be able to see how your numbers compare to each other and to the numbers you generated before. You will be able to compare your projections with actuals, and see where there are large differences. This will help you identify problems that you can 
-solve as an investor. 
- 
-- The author toured the property with the property manager. While inspecting the property, they came across issues such as a historical property tax expense that was lower than what was indicated on the real property tax report they downloaded from the county’s website, as well as unsustainably low maintenance and labor expenses.
+- for comping tools, zillow sites, batchleads suite of products, biggerpocket rent estimator, propstream, zillow
 
+- when you're comping a property, you need to know the sale price on the properties you are using as comparisons for your subject property. The sale price is either disclosed publicly or can be accessed through MLS or third party program.
+
+- comping as 3 tier
+  - tier 1: look at date sold and the distance from the subject property. The date sold should be within 6 months ago for the same type of property. The distance should be the same subdivision or within 1 mile radius.
+    - don't compare between gated and non-gated community
+  - tier 2: look at interior square footage, parking, year built, bed and path count, and general condition. 
+  - tier 3: proximity to roads, lot size, pool, and build type.
+
+- manual comping
+  - know your subject property
+  - find the ARC comp and how much it sold for.
+  - adjust for differences
+  - confirm the ARV comp through other recent solds
+  - confirm with pending and under contract comps
+  - confirm active comps
 
 # finding small multifamily deals on-market
 
