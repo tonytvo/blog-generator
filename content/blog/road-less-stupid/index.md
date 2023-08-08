@@ -457,29 +457,31 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 
 # ORDINARY THINGS, CONSISTENTLY DONE, PRODUCE EXTRAORDINARY RESULTS!
 
-- Ordinary things, consistently done, produce extraordinary results! Think about the discipline of consistently reviewing your prior month's financial statements by the 10th of every month. In a matter of a quarter or two, the insights and optics harvested will change the priorities and decision making in your business.
+- Ordinary things, consistently done, produce extraordinary results! Think about the discipline of consistently reviewing your prior month's financial statements by the 10th of every month. In a quarter or two, the insights and optics harvested will change the priorities and decision-making in your business.
 
-- To get good at doing stuff, you must be ready to practice, be prepared to make a lot of mistakes. As a matter of fact, the faster you make the mistake and correct it the better for you. **SO FAIL FAST**.
+- To get good at doing stuff, you must be ready to practice and be prepared to make many mistakes. The faster you make the mistake and correct it the better for you. **SO FAIL FAST**.
 
 - It’s not just practice that makes perfect, but the deliberate intensity of your practice will determine the speed of your progress.
 
-- In Keith’s words “ordinary things done consistently will produce extraordinary results.
+- In Keith’s words “Ordinary things done consistently will produce extraordinary results.
 
-- A lot of wrong decisions are made on the premise of instant gratification…you expect a big deal to make the change on your financial distress instead of working your way out of the distress which takes time. The good thing about working your way out of the distress is that you will likely not make that mistake again, thereby giving you a success path.
+- A lot of wrong decisions are made on the premise of instant gratification…you expect a big deal to make the change on your financial distress instead of working your way out of the distress which takes time. The good thing about working your way out of the distress is that you will likely not make that mistake again, thereby giving you a successful path.
 
-- Managing expectation is an essential element of business success. When not managed well you are likely to kill your dreams.
+- Managing expectations is an essential element of business success. When not managed well you are likely to kill your dreams.
 
 - **Thinking Time**
-  - Trying to figure out how to immediately solve a problem in one fell swoop is stupid. I might not have the final "Holy Grail" solution to all my problems, but what are five things I can do immediately to improve my situation?
+  - Trying to figure out how to solve a problem in one fell swoop immediately is stupid. I might not have the final "Holy Grail" solution to all my problems, but what are five things I can do immediately to improve my situation?
   - Where am I inconsistently executing the right thing?
   - Where am I not practicing with the level of intensity I know I am capable of?
-  - Where are we practicing but not correcting or getting the coaching that would give us insights about what we can do better? • Where am I consistently executing the wrong thing?
+  - Where are we practicing but not correcting or getting the coaching to give us insights about what we can do better? 
+  - Where am I consistently executing the wrong thing?
   - Where have I allowed the need for instant gratification to become a substitute for picking up the business end of a shovel and consistently breaking a sweat?
-  - What are three outcomes we previously set but have abandoned because of unrealistic expectations or inconsistent execution? Should any of these outcomes be resuscitated and reprioritized with the accompanying realistic plans, resources, and time frames?
-  - What are three bad habits/business practices we have tolerated that are undermining our results?
+  - What are three outcomes we previously set but have abandoned because of unrealistic expectations or inconsistent execution? Should these outcomes be resuscitated and reprioritized with realistic plans, resources, and time frames?
+  - What are three bad habits/business practices we have tolerated undermining our results?
   - What are the decisions I must make and
   - the hard conversations I must have to break these bad habits once and for all?
-  - How will I adjust my behavior to create the success/outcomes I envision?
+  - How will I adjust my behaviour to create the success/outcomes I envision?
+
 
 # O BABY!
 
