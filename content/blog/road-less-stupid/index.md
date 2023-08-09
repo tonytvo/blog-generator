@@ -485,38 +485,39 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 
 # O BABY!
 
-- Start with what customers want. Start with their needs, desires, and pain. Start with the gap between the solutions being offered by the competition and where they (the customers) are frustrated.
+- Start with what customers want. Start with their needs, desires, and pain. Start with the gap between the solutions the competition offers and where they (the customers) are frustrated.
 
-- In this chapter, Keith describes a story where he interrogates his wife on how he can be of better husband to her. Most importantly, what she wants/desires in a relationship. He starts with what she wanted in a relationship and she replies “I want to be Loved and Adored”. This was her goal. Then he went on to ask her “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” For almost an hour and a half he kept on writing the answers to that question. He wondered why she wanted all this but iis what she wanted. Period. Even though he didn’t have the passion for it, he was ready to do everything he could make it happen. He even asked what happens if he forgets, she smiled and said I will remind you.
+- In this chapter, Keith describes a story where he interrogates his wife on how to be a better husband to her. Most importantly, what she wants/desires in a relationship, he starts with what she wants in a relationship and she replies “I want to be Loved and Adored.” This was her goal. Then he asked her “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” He kept writing the answers to that question for almost an hour and a half. He wondered why she wanted all this, but it was what she wanted. Period. Even though he didn’t have the passion for it, he was ready to do everything he could to make it happen. He even asked what happens if he forgets, she smiled and said I will remind you.
 
 - Let’s pause here and think for a moment and analyze the story.
   - He asked her for her goal, and she verbalized it.  
-  - He then asked her what success means to her by asking “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” Her.e he wanted her to verbalize what she actually wanted in plain language.
-  - He was also committed to make it happen even though he didn’t have the passion for it.
-  - As a business owner, you must always find out what the customer wants. You are in business because of the customer. The mistake most people make is to create the product and then look for the customer. Here you find out what their pain points, needs and most importantly what success means to them?
+  - He then asked her what success means by asking “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” Here, he wanted her to verbalize what she wanted in plain language.
+  - He was also committed to making it happen even though he didn’t have the passion for it.
+  - As a business owner, you must always determine what the customer wants. You are in business because of the customer. Most people make the mistake of creating the product and then looking for the customer. Here, you find out their pain points, needs and most importantly what success means to them.
   - Once you have gotten their needs and pain points, the next thing is to find a solution that meets their need and their success proposition
-  - Finally, your service/product delivery must be out of this world and exceptional. If this is not done well, you will jeopardize all the hard work you have put in the creation of the product. You are likely not to come back to a restaurant that had crappy service no matter how good the food tastes.
+  - Finally, your service/product delivery must be out of this world and exceptional. If this is not done well, you will jeopardize all the hard work you have put into creating the product. You are likely not to return to a restaurant with crappy service no matter how good the food tastes.
 
 - principles to attract customers and gain significant traction in any business
-  - **FOWTW:**: find out what they want. This is anticipating problems, identifying pain points, and discovering needs. what do customer want?
-  - **GAGI:** go and get it. build solutions for the problem/pain/need identified. Can I get them what they want?
-  - **GITT:** give it to them. This is how you deliver a solution... the experience and execution. how do I deliver to them?
+  - **FOWTW:**: Find out what they want. This is anticipating problems, identifying pain points, and discovering needs. What do customers want?
+  - **GAGI:** Go and get it. Build solutions for the problem/pain/need identified. Can I get them what they want?
+  - **GITT:** Give it to them. This is how you deliver a solution... the experience and execution. How do I deliver to them?
 
-- To conclude, I would like to borrow these words from Peter Drucker that says when the marketing is done right, selling becomes unnecessary. And his definition of marketing? Finding out what customers want.
+- To conclude, I would like to borrow these words from Peter Drucker, who says that selling becomes unnecessary when marketing is done right. And his definition of marketing? Finding out what customers want.
 
 - **Thinking Time**
-  - What do our customers want and how do I know that this is the right answer?
-  - What is the solution I need to design to meet their needs and address their pain? 
-  - Do I have the ability (skill sets and resources) to successfully build this solution?
+  - What do our customers want and how do I know this is the right answer?
+  - What solution must I design to meet their needs and address their pain? 
+  - Do I have the ability (skill sets and resources) to build this solution successfully?
   - How will I deliver it to them?
   - What is the experience these customers want?
-  - What exactly is the gap between where customers are frustrated and what the competition is doing?
-  - Where can we find pockets of target customers who are frustrated with our competition?
+  - What is the gap between where customers are frustrated and what the competition is doing?
+  - Where can we find pockets of target customers frustrated with our competition?
   - Where is the competition weak or deficient in delivering the outcomes, solutions, and value the market demands?
-  - What should we be doing to communicate to potential customers that we are the aspirin for their pain?
-  - What are the three primary problems (pains) my target market has?
-  - Where have I substituted my judgment for what I want to deliver for what the customers actually want to receive?
+  - What should we do to tell potential customers we are the aspirin for their pain?
+  - What are my target market's three primary problems (pains)?
+  - Where have I substituted my judgment for what I want to deliver for what the customers want to receive?
   - How could I check in with our customers?
+
 
 # HELP ME UNDERSTAND
 
