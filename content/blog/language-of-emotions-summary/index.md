@@ -73,7 +73,7 @@ tags: ["emotionalintelligence"]
 
 - As you work to balance your elements and engage with your emotions empathically, it’s important to have a practice for rejuvenating yourself. This practice helps you soothe yourself, take some quiet time to integrate the changes you’re making, and move forward refreshed. It’s important to rejuvenate yourself so that old behaviors won’t be able to reanimate themselves. When you clear a space in your psyche with contract burning, it’s important to refill yourself consciously. If you don’t consciously refill that empty space, it will be filled unconsciously, and you don’t want that!
 
-- [emotional vocabulary list](https://karlamclaren.com/wp-content/uploads/2021/11/Emotional-Vocabulary-and-Weasel-List.pdf)
+- [emotional vocabulary list](https://karlamclaren.com/wp-content/uploads/2023/07/Emotional-Vocabulary-List.pdf)
 
 # gifts in your emotions
 
@@ -885,4 +885,4 @@ As you continue your empathic work, you may become more aware of the suffering a
 - http://curioushealing.com/2014/07/the-language-of-emotions-by-karla-mclaren/
 - https://www.spiritualityandpractice.com/books/reviews/view/20020
 - https://www.scribd.com/book/571062577/Summary-of-Karla-McLaren-s-The-Language-of-Emotions
-- https://karlamclaren.com/wp-content/uploads/2021/11/Emotional-Vocabulary-and-Weasel-List.pdf
+- https://karlamclaren.com/wp-content/uploads/2023/07/Emotional-Vocabulary-List.pdf
