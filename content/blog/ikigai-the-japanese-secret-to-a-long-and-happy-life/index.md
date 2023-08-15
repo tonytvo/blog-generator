@@ -121,7 +121,7 @@ tags: ["life", "living"]
   - “Existential crisis, on the other hand, is typical of modern societies in which people do what they are told to do, or what others do, rather than what they want to do. They often try to fill the gap between what is expected of them and what they want for themselves with economic power or physical pleasure, or by numbing their senses.”
   - “Those who give up the things they love doing and do well lose their purpose in life. That’s why it’s so important to keep doing things of value, making progress, bringing beauty or utility to others, helping out, and shaping the world around you, even after your ‘official’ professional activity has ended.”
 
-- **Spending quality time with family and friends is almost universal among those who live longest **
+- **Spending quality time with family and friends is almost universal among those who live longest**
 - Stress is not just a bad feeling, it’s actually a biochemical reaction in our bodies. Being stressed floods our bodies with chemicals including adrenalin and glucocorticoids.
 - **What most people don’t know is these chemicals are actually DANGEROUS to our health over the long-term!** They increase our risk of diabetes, high blood pressure, and even hurt our immune and reproductive systems.
 
