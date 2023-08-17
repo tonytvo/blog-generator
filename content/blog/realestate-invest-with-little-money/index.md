@@ -546,6 +546,8 @@ tags: ["realestateinvesting", "financialindependence"]
   - 3) leveraging others, and 
   - 4) empowering others. 
  
+- before finding wholesale deals, you need to find the buyer first, as the buyer would be able to tell if the deal is a good deal or not.
+
 - The first step to becoming a successful wholesaler is to find great deals. The old adage of you make your money when you buy is true for the wholesaler. So how do you know what a great deal is. It all comes down to the math. 
  
 - To determine the price you should offer a seller, you need to know what the average ARV of the homes in your area are. To do so, you can use websites and mobile apps that provide that information. 
