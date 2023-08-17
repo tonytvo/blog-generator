@@ -406,7 +406,8 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - Do not follow the market down. Make deep cuts quickly.
   - Don't let what your competition is doing influence your decisions. You can't erect a fence to keep the competition out. Besides, they do stupid things sometimes too.
   - Secondary locations always decline the fastest (and most) and take the longest to return.
-  - New projects must be based on current demand rather than future growth. •You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, but you will also have far less overhead.
+  - New projects must be based on current demand rather than future growth. 
+  - You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, but you will also have far less overhead.
   - Too many deals consume time and draw attention away from the good ones.
   - It takes three good deals to make up for one lousy deal.
   - When a lousy deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad, and the good ones are now mediocre or troubled due to a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
