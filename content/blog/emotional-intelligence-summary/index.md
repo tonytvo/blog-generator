@@ -171,7 +171,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - Avoid caffeine after noon.
 
 ### Focus Your Attention on Your Freedoms
-- Take accountability for what is within your rea of responsibility rather than focusing on what you can't control.
+- Take accountability for what is within your area of responsibility rather than focusing on what you can't control.
 
 ### Stay Synchronized
 - When your emotions get the best of you, force your attention away from your emotions and on to the task at hand
