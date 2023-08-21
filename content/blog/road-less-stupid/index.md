@@ -590,20 +590,20 @@ Help me understand what you believe about this.
 - The price of entrepreneurial success is discipline and structure. Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.”
 - Keith Cunningham defines Structure as designing, planning, and constructing the skeleton of the business so there is a foundation and support configuration to enable the business to profitably take advantage of the opportunities available.
 - your business needs that structure to give it foundation, support and most importantly sustainable growth.
-- It stems from your core values, core focus and culture as the foundation and then the structure is built. It includes hiring right, to putting systems and processes in place, designing the machine (solution) or even the engine of the machine. Anything that puts some form of order and allows things to run smoothly is what makes up structure.
-- Structure is what transcends you from working in your business to working on your business. It gives you the leverage to have a bird’s eye view of the business. In other words, it takes you from being an operator in the business to a business owner. It is structure that give you that leverage. Without it comes excess fatigue and frustration that in turn affects your customers and then takes your business on a steady decline.
-- To end this, I would like to borrow Keith’s words that says: “Success is not an accident. Sustainable business success requires leverage, and one of the most critical forms of leverage available to a business Owner is the leverage of structure.”
+- It stems from your core values, core focus and culture as the foundation and then the structure is built. It includes hiring right, putting systems and processes in place, designing the machine (solution) or even the engine of the machine. Anything that puts some form of order and allows things to run smoothly is what makes up structure.
+- Structure is what transcends you from working in your business to working on your business. It gives you the leverage to have a bird’s eye view of the business. In other words, it takes you from being an operator in the business to a business owner. It is a structure that gives you that leverage. Without it comes excess fatigue and frustration that in turn affects your customers and then takes your business on a steady decline.
+- To end this, I would like to borrow Keith’s words that say: “Success is not an accident. Sustainable business success requires leverage, and one of the most critical forms of leverage available to a business Owner is the leverage of structure.”
 
 - **Thinking Time**
   - What is the structure we need to create the progress I want?
   - What are the missing structural components required to produce consistent execution on our critical drivers?
-  - When I look at my business, where are the opportunities for me to tighten up structure, processes, and efficiency of what gets done?
+  - When I look at my business, where are the opportunities for me to tighten up the structure, processes, and efficiency of what gets done?
   - Where do we have disorganization, inconsistent execution, slippage, and chaos?
   - What are the obvious choke points in my business that continue to strangle the smooth operational flow of serving customers and supporting the back office?
   - What specifically needs to happen to put some structure into place to address the turmoil?
   - Is there an opportunity to hire someone (even part-time) to help fill some of our gaps or to support us in getting a process in place?
   - What needs to happen to the workflow, back office, accounting, and support processes so my business functions smoothly and efficiently?
-  - Where is the structure of my calendar slipping that is preventing me from taking consistent action on my major initiatives?
+  - Where is the structure of my calendar slipping preventing me from taking consistent action on my significant initiatives?
 
 # MANN GULCH
 - When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old "right" way might seem like a good idea, but it can frequently be deadly.
