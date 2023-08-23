@@ -647,7 +647,8 @@ Help me understand what you believe about this.
   - What are the nonnegotiable standards we must establish?
   - What am I tolerating in my business that is sabotaging my results or that is incongruent with my standards?
   - How do we build in the accountability required for the critical driver standards and outcomes we have committed to achieving?
-  - What is the specificity I need to add to our plan so that everyone on the team has a clear, measurable metric (target) they are shooting for? • What are the specific causes I must identify that will enable the effect I want to happen?
+  - What is the specificity I need to add to our plan so that everyone on the team has a clear, measurable metric (target) they are shooting for? 
+  - What are the specific causes I must identify that will enable the effect I want to happen?
   - What have we done well and what am I grateful for?
   - What are the unexpected opportunities that are being presented that might move us in the direction we want but don't look the way we thought they would look? (Where is there a gaggle of quacking ducks?)
 
