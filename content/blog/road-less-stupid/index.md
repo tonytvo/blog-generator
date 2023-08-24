@@ -616,7 +616,8 @@ Help me understand what you believe about this.
 - To end this, I would like to borrow a statement from Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly."
 
 - **Thinking Time**
-  - What is the real problem I am facing and exactly how is this problem different from the one I thought I had? Or used to have? • What are the poleaxes, shovels, and backpacks I've been lugging around that are no longer useful in helping me solve my immediate problem?
+  - What is the real problem I am facing and exactly how is this problem different from the one I thought I had? Or used to have? 
+  - What are the poleaxes, shovels, and backpacks I've been lugging around that are no longer useful in helping me solve my immediate problem?
   - What are the tired, worn-out strategies and plans that are no longer supporting us to solve the problem we face?
   - What are the existing models of behaviour we need to drop because they no longer work?
   - What existing knowledge, training, or experience needs to be abandoned?
