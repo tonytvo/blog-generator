@@ -382,7 +382,8 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - I would rather miss an opportunity than lose capital in the future. Never buy something because you think you might need it someday. Keep working on all your alternatives until something closes. It hasn't closed until the money is in the bank.
   - Success does not make you invincible or bulletproof. What success does best is make you complacent and egotistical, which are sufficient to create disaster.
   - The euphoria of a hot market usually results in ignoring marketplace fundamentals. Gathering and evaluating market-based economic information is the only prescription for avoiding the mistake of smoking your exhaust.
-  - Never delay taking corrective action once the problem has been recognized. Hoping for better conditions in the future so the problem will solve itself is a fool's game. Procrastination magnifies problems. •Failure to recognize reality is delusional. You might be smarter and better than your competition, but when the market shifts, you're still broke. Don't confuse intellect with economic reality.
+  - Never delay taking corrective action once the problem has been recognized. Hoping for better conditions in the future so the problem will solve itself is a fool's game. Procrastination magnifies problems. 
+  - Failure to recognize reality is delusional. You might be smarter and better than your competition, but when the market shifts, you're still broke. Don't confuse intellect with economic reality.
   - Never rely on only your consultant's recommendations. If you don't understand it, don't do it.
   - We did not narrow our focus when we knew times were getting worse. This was due to two things: (1) The distraction of our prior track record and (2) An unwillingness to assess the risks of being wrong.
   - A small percentage of a large number is a large number.
@@ -436,7 +437,8 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 
 - **Overhead**
 
-  - Stay lean even if you can afford to get fat. Keep overhead low! •Watch your cash very closely. Ask yourself, "Do I really need this? Will this help me make more money?" Once the money is spent, it's gone forever.
+  - Stay lean even if you can afford to get fat. Keep overhead low! 
+  - Watch your cash very closely. Ask yourself, "Do I really need this? Will this help me make more money?" Once the money is spent, it's gone forever.
   - Get sober (medieval) on what needs to happen to your cost structure to produce the profits you want vs. the revenue you hope to get.
   - Each line item of your financials should be scrutinized continuously to ensure the money is being spent in a productive and prudent way.
   - Conserve cash, especially during the good times. Spending money to look like a big deal is not the same as being a big deal.
@@ -728,7 +730,8 @@ Help me understand what you believe about this.
     - Is part of the problem with my team a reflection of the culture I have created or tolerated? What are the changes I must make to our culture and how am I going to do that? (See both "Culture Is King (You Get What You Tolerate)" and "The Apology" for practical guidance on this topic.)
 
   - **Critical Drivers**
-    - I know that what gets measured is what gets managed, so what are the three to five critical activities that must be performed and measured on a regular basis to ensure significant progress toward my standards and outcomes? (The chapter "Cause and Effect" will be extremely useful for you to reread in thinking about critical drivers.) • What are the specific measurable standards of performance I have for each critical driver activity?
+    - I know that what gets measured is what gets managed, so what are the three to five critical activities that must be performed and measured on a regular basis to ensure significant progress toward my standards and outcomes? (The chapter "Cause and Effect" will be extremely useful for you to reread in thinking about critical drivers.) 
+    - What are the specific measurable standards of performance I have for each critical driver activity?
     - I know that anyone who doesn't want to measure doesn't want to be held accountable, so what accountability metrics do I need to establish to assess our actual performance against our standards?
 
   - **Dashboards/Measuring**
@@ -776,7 +779,8 @@ Help me understand what you believe about this.
   - How are customers' expectations different today than they were two or five years ago?
   - What will customers' expectations be twelve months from now? . Where has our expertise (relevance) as a company lagged or stagnated in the last thirty-six months?
   - What skills or personnel do we need to add to excel at what we do, shift our direction, and optimize our bottom line?
-  - What is happening competitively that could change what we sell, how it is sold, the price we charge, and where/how/what we message? • Are we learning, training, and evolving as fast as things are changing?
+  - What is happening competitively that could change what we sell, how it is sold, the price we charge, and where/how/what we message? 
+  - Are we learning, training, and evolving as fast as things are changing?
   - Based on the answer to the questions above, what do we need to learn, who do we need to hire, what do we need to change to remain relevant and competitive?
 
 # EVERYTHING COUNTS
@@ -790,7 +794,8 @@ Help me understand what you believe about this.
 - **Thinking Time**
   - In the last year, how many people tried us and never came back? .How much did that lack of repeat business cost us in incremental revenue and profitability?
   - If everything counts and nothing is neutral, where are we missing the mark on delivering on our promise and meeting our customers' expectations?
-  - How can I be certain that our team is performing to our standards? • How can I make sure we are consistently executing and meeting our customers' expectations?
+  - How can I be certain that our team is performing to our standards? 
+  - How can I make sure we are consistently executing and meeting our customers' expectations?
   - What is our commitment to training and how can I be sure the training we offer is getting the traction and implementation I expect? . What can cause our customers to not come back and what are we doing as a management team to prevent customer defection?
   - What can we do to get the honest assessment from our customers about their experience so that we can minimize the likelihood of a customer firing us because of substandard performance?
   - What are our "cold eggs and untoasted English muffin" that are sabotaging our customers' experience? NOW... Go Think! You will thank me later.
@@ -840,7 +845,9 @@ Help me understand what you believe about this.
   - What are the things we should be doing if I weren't so afraid of losing?
   - How can I test these ideas in a small way so that in case it is a bad idea, it doesn't torpedo the mother ship?
   - What assumptions am I making about the current environment and my competition that, if wrong, would cause me significant economic distress?
-  - What is the competitive advantage we have relied on to attract and retain customers? What could erode or undermine this advantage? • Knowing what I know about my business, if I decided to compete with myself, what would I do to put a major dent in my company? • Where am I hanging on to strategies and solutions that were great answers in a different environment?
+  - What is the competitive advantage we have relied on to attract and retain customers? What could erode or undermine this advantage? 
+  - Knowing what I know about my business, if I decided to compete with myself, what would I do to put a major dent in my company? 
+  - Where am I hanging on to strategies and solutions that were great answers in a different environment?
   - What question do I need to ask to discover our vulnerability to a changing environment?
   - What do we need to measure to have optics about what is changing?
 
@@ -1064,7 +1071,8 @@ So, here is the question you each need to answer: "Do I want to be a part of hel
     - Where is this group of customers frustrated by the gap between what they want and what the competition is delivering?
     - What specific problem do they need to have solved?
     - What is the primary gain this target market wants to get?
-    - People buy products to meet a need. What is their motivating need? •Where is our competition weak or deficient in delivering the outcomes and value ("success proposition") this target market demands?
+    - People buy products to meet a need. What is their motivating need? 
+    - Where is our competition weak or deficient in delivering the outcomes and value ("success proposition") this target market demands?
     - Who are the decision makers, and what is the best way to access and communicate with them?
     - Are there any unique circumstances or market segments that would require special communication or decision-making considerations?
     -  Are there any attractive market segments I could penetrate by finding a large group of potential customers that have a common problem and are already in close proximity? (In other words, under the theory that birds of a feather flock together, if I am selling running socks, can I access the local running club or get an endorsement from the National Joggers Association?)
@@ -1102,7 +1110,8 @@ So, here is the question you each need to answer: "Do I want to be a part of hel
   - If I honestly assess the attitude of my employees, where have I let the system be more important than their spirit?
   - Where have I allowed a reliance on systems and perks to be a substitute for culture?
   - Where have I allowed a reliance on systems to be a substitute for learning and education?
-  - Where do we need to start making exceptions to be exceptional? • How do we need to change our processes or systems so that we're more  customer-centric?
+  - Where do we need to start making exceptions to be exceptional? 
+  - How do we need to change our processes or systems so that we're more  customer-centric?
   - Where have we allowed an internal focus on systems replace an external focus on our customers' needs and convenience? 
   - Where could I give my employees an opportunity to grow, learn, and contribute their ideas so they would engage in their work at a deeper level?
   - Where could I allow our employees to be self-directed and in greater control of their processes and outcomes?
@@ -1210,7 +1219,8 @@ Here it is on a bumper sticker: Few growth strategies are more powerful than giv
   - Knowing the choke points and having the funds to do something about it are two different problems. What are some creative (inexpensive) solutions that would move me in the right direction and alleviate some of the pain?
   - What am I currently doing that should/could be outsourced or leveraged to someone else (even part-time) who actually enjoys and is good at the thing that is bogging me down, which would then free me up to do more of the critical, value-add, business Owner activities?
   - What critical projects are languishing because I simply don't have the time to allocate to them and get them off the ground?
-  - What could I do in the next week that would improve this situation? • How can I prioritize my calendar to find an additional thirty minutes per day to chip away on the high-value projects?
+  - What could I do in the next week that would improve this situation? 
+  - How can I prioritize my calendar to find an additional thirty minutes per day to chip away on the high-value projects?
 
 # NOT ALL RISKS ARE CREATED EQUAL
 
@@ -1287,7 +1297,8 @@ The high value from this risk assessment thinking comes in the creation of asymm
 - It is rare (if not impossible) to find a business that delivers the highest quality, in the shortest period of time, at the lowest price, and has a world-class customer experience process.
 - You can't be important everywhere, so be important where it counts.
 - **Thinking time**
-  - Who is our target market? (This question can never be addressed too frequently.) • What is our promise to them?
+  - Who is our target market? (This question can never be addressed too frequently.) 
+  - What is our promise to them?
   - How is our promise differentiated from our competition?
   - How do I know this promise is being successfully delivered?
   - Why isn't this differentiation (strength) sufficient to cause more potential customers to stop doing business with our competition and to start doing business with us?
@@ -1296,7 +1307,8 @@ The high value from this risk assessment thinking comes in the creation of asymm
   - Where have we done a poor job of giving the customer the ammunition to justify using us instead of our competition?
   - Where is our messaging weak, ineffective, or simply nonexistent about our core strength (the difference that makes the difference)?
   - How does my target customer define success?
-  - Where are our internal priorities and operational focus misaligned with the promise we have made to our customers? • Which internal priorities do we need to strengthen to be able to successfully deliver on our promise to customers?
+  - Where are our internal priorities and operational focus misaligned with the promise we have made to our customers? 
+  - Which internal priorities do we need to strengthen to be able to successfully deliver on our promise to customers?
   - Where are we internally prioritizing (optimizing) for something we have not promised?
   - Where do our team, dashboards, critical drivers, compensation structure, training, hiring and culture need work so that we are more successful on the execution of the internal processes required to deliver on the success proposition we have promised.
 # MOMMAS LOVE THEIR BABIES
@@ -1601,7 +1613,8 @@ Picture this. Suppose your business produced $1,000,000/year of earnings. And as
 
 - **Thinking Time**
   - What are the outcomes (effects) I want that are still undelivered?
-  - If my outcomes are missing or the gap is not closing, what are the causes that are missing? • Is the problem that we are inconsistently executing on the right things? If so, how do we tighten this up?
+  - If my outcomes are missing or the gap is not closing, what are the causes that are missing? 
+  - Is the problem that we are inconsistently executing on the right things? If so, how do we tighten this up?
   - I need to reexamine my desired outcomes (goals) from the viewpoint of cause and effect. Has my progress or momentum stalled because I am not seeing instantaneous results?
   - Where am I running the wrong direction enthusiastically?
   - Is there an obstacle in my way that requires a new solution and different execution? . What is stopping me from doing my job?
