@@ -676,7 +676,7 @@ Help me understand what you believe about this.
 
 - **What**
   - 1. The specific measurable outcomes (or standards) you—as Owner/ CEO/leader-have prioritized for the business.
-  - 2. The primary obstacle that is prohibiting the forward progress from Point A (where you are) to Point B (where you would like to be). Clarity on this "gap" is critical to understanding the problem and converting the problem into an opportunity.
+  - 2. The primary obstacle is prohibiting the forward progress from Point A (where you are) to Point B (where you would like to be). Clarity on this "gap" is critical to understanding the problem and converting the problem into an opportunity.
 
 - **How**
   - The plan or strategy your team has created (with your adult supervision and input) to overcome this obstacle. The plan will also describe the resources required to execute the plan as well as the timelines, including milestones (interim targets) and delivery dates. 
@@ -685,11 +685,11 @@ Help me understand what you believe about this.
   - The critical drivers and standards that must be executed, measured, and analyzed to ensure the accurate and timely delivery of the outcomes. Critical drivers are the "causes" that, when consistently executed, produce the desired "effects."
   - The great dashboards that display your critical driver results in a format that allows you and your team to have immediate optics. Regular comparison of the actual critical driver results produced against the benchmark standards established (and the trend line of these results) is critical to understanding where the opportunities are to adjust and correct the execution. 
     - Without a dashboard, you get a story. Dashboards tell you what you need to know, not what you want to believe. Regular analysis is mandatory to establish reasons for the progress (or lack thereof) toward the stated outcomes and benchmark standards. Without the analysis, we have more data and information, but no knowledge about what to do differently.
-  - The regular, candid (sometimes difficult, many complimentary) accountability and coaching conversations with the team members to make the necessary corrections and adjustments. Without coaching and consequences, good intentions and "the best I can" will become the excuse du jour. Without coaching and consequences, critical drivers and outcomes will become suggestions, not standards.
+  - Regular, candid (sometimes difficult, many complimentary) accountability and coaching conversations with the team members to make the necessary corrections and adjustments. Without coaching and consequences, good intentions and "the best I can" will become the excuse du jour. Without coaching and consequences, critical drivers and outcomes will become suggestions, not standards.
 
 - **Thinking Time**
   - **General**
-    - Where (exactly) have we fallen short on the Big 8 and what (exactly) do I need to do to create the accountability and culture of high performance?
+    - Where (exactly) have we fallen short on the Big 8 and what (exactly) do I need to do to create accountability and a culture of high performance?
     - When I honestly evaluate our current progress, how much of my frustration is attributable to a miss on the Big 8 process? Where are the misses and what needs to be done now?
 
   - **Outcomes**
