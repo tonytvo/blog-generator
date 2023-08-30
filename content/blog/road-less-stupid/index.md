@@ -753,12 +753,12 @@ Help me understand what you believe about this.
 # SOMETHING FOR NOTHING... SERIOUSLY?
 - Never buy anything from someone who is out of breath.
 - Passive anything is a bad idea and ultimately unworkable because it requires us to fall into the trap of thinking there is a way to do nothing and still get what we want or to maintain what we have by being inactive. No part of your life or business works that way.
-- **everything requires effort and maintenance.** There is not passive path to success at anything, especially finances and wealth.
+- **Everything requires effort and maintenance.** There is no passive path to success at anything, especially finances and wealth.
 
 - **Thinking Time**
   - Where am I looking for the path of doing the least or the door marked "something for nothing" to create the success I want?
   - Under the banner of doing the work required to deserve the success I desire, what needs to be done?
-  - To achieve the success I desire, what effort and expertise are required? .Where are the sources of leverage I can capitalize on that would increase my production, revenue, or profits?
+  - To achieve the success I desire, what effort and expertise are required? Where are the sources of leverage I can capitalize on that would increase my production, revenue, or profits?
   - What do I need to learn, or who do I need to hire, to help us create and sustain the profitability we are capable of producing?
   - When I look at my competitors who are bigger and better than I am, what leverage did they create or what resources were acquired to attain that level of success?
   - What have we done in the past that worked?
@@ -766,8 +766,9 @@ Help me understand what you believe about this.
   - What ideas have we had in the past where we dabbled and didn't fully commit or didn't execute with enough intensity or consistency?
   - What have I been procrastinating on doing that would help us get traction on this project?
   - Where have I been active but not productive?
-  - What leverage do I need to enable me to create better results by utilizing someone else's time, money, brains, network, or skills?
+  - What leverage do I need to enable me to create better results by utilizing someone else's time, money, brain, network, or skills?
   - Where do we need to improve our execution so that we are more competitive in the marketplace?
+
 
 # THE ONLY CONSTANT IN BUSINESS IS...
 - The only constant in business is change.
