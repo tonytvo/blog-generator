@@ -778,11 +778,12 @@ Help me understand what you believe about this.
   - Where has the environment in which we've been operating (economic, technology, regulatory, competition, customer
   preferences, employees, cultural) changed over the last few years?
   - How are customers' expectations different today than they were two or five years ago?
-  - What will customers' expectations be twelve months from now? . Where has our expertise (relevance) as a company lagged or stagnated in the last thirty-six months?
+  - What will customers' expectations be twelve months from now? Where has our expertise (relevance) as a company lagged or stagnated in the last thirty-six months?
   - What skills or personnel do we need to add to excel at what we do, shift our direction, and optimize our bottom line?
   - What is happening competitively that could change what we sell, how it is sold, the price we charge, and where/how/what we message? 
   - Are we learning, training, and evolving as fast as things are changing?
   - Based on the answer to the questions above, what do we need to learn, who do we need to hire, what do we need to change to remain relevant and competitive?
+
 
 # EVERYTHING COUNTS
 - When I see this kind of poor performance on a consistent basis, it can only be a result of one of four things:
