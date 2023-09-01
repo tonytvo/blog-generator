@@ -791,29 +791,29 @@ Help me understand what you believe about this.
   - A lack of training
   - No measurements or accountability
   - A lack of supervision
-  - A discount for future services as compensation for poor performance on past services is analogous to getting salmonella at a restaurant and the restaurant owner offering me a free dessert the next time I eat there. I already got sick from this ill-conceived trip, and your idea of helping me get over the food poisoning is to offer a token discount on my next trip?
+  - A discount for future services as compensation for poor performance on past services is analogous to getting salmonella at a restaurant and the restaurant owner offering me a free dessert the next time I eat there. I already got sick from this ill-conceived trip, and your idea of helping me get over the food poisoning is to offer a token discount on my next trip.
 
 - **Thinking Time**
-  - In the last year, how many people tried us and never came back? .How much did that lack of repeat business cost us in incremental revenue and profitability?
+  - In the last year, how many people tried us and never came back? How much did that lack of repeat business cost us in incremental revenue and profitability?
   - If everything counts and nothing is neutral, where are we missing the mark on delivering on our promise and meeting our customers' expectations?
   - How can I be certain that our team is performing to our standards? 
   - How can I make sure we are consistently executing and meeting our customers' expectations?
-  - What is our commitment to training and how can I be sure the training we offer is getting the traction and implementation I expect? . What can cause our customers to not come back and what are we doing as a management team to prevent customer defection?
-  - What can we do to get the honest assessment from our customers about their experience so that we can minimize the likelihood of a customer firing us because of substandard performance?
-  - What are our "cold eggs and untoasted English muffin" that are sabotaging our customers' experience? NOW... Go Think! You will thank me later.
+  - What is our commitment to training and how can I be sure the training we offer is getting the traction and implementation I expect? What can cause our customers to not come back and what are we doing as a management team to prevent customer defection?
+  - What can we do to get an honest assessment from our customers about their experience so that we can minimize the likelihood of a customer firing us because of substandard performance?
+  - What are our "cold eggs and untoasted English muffins" that are sabotaging our customers' experience? NOW... Go Think! You will thank me later.
 
 
 # THE 3 PILLARS OF SUCCESS
 
-- 1. **Write down your major outcomes every day.** You will notice I did not use the word "goals." In our culture, a goal has become synonymous with a wish. "I wish my profits were $10,000/month higher. Oh, I'll make that my new goal." I do not think we need to get better at goal setting. I think we need to get better at setting nonnegotiable standards. Writing and rewriting your most significant outcomes (major objectives, not "To Do" list items) forces you to focus on the most critical things that need to be worked on and accomplished. It's a tragedy to major in minor things.
+- 1. **Write down your major outcomes every day.** You will notice I did not use the word "goals." In our culture, a goal has become synonymous with a wish. "I wish my profits were $10,000/month higher. Oh, I'll make that my new goal." I do not think we need to get better at goal setting. I think we need to get better at setting non-negotiable standards. Writing and rewriting your most significant outcomes (major objectives, not "To Do" list items) forces you to focus on the most critical things that need to be worked on and accomplished. It's a tragedy to major in minor things.
 - 2. **Plan your day before it starts.** This simply means you sit down with your calendar and think about the most critical action items you must knock out today. Make sure your calendar reflects your priorities every day. Progress is not built by doing something huge but rather by consistently doing ordinary things.
-- 3. **Be accountable to someone for your plans, commitments, and results**. Having an accountability partner who will hold you to your commitments is a key ingredient to making sustainable progress and for success. Someone who will tell you the truth; someone who will not buy into your cheap excuses for why you fell off the wagon or didn't get the job done; someone to tell you "no."
+- 3. **Be accountable to someone for your plans, commitments, and results**. Having an accountability partner who will hold you to your commitments is a key ingredient to making sustainable progress and success. Someone who will tell you the truth; someone who will not buy into your cheap excuses for why you fell off the wagon or didn't get the job done; someone to tell you "no."
 
 - The higher you go or the better you want to get, the greater the requirement to have someone in your life who will hold you accountable and tell you the truth.
 
 - **Thinking Time**
   - What are the one or two major outcomes and deliverables I am prepared to commit to achieving this quarter? This year?
-  - What are the business outcomes and results I am prepared to make nonnegotiable?
+  - What are the business outcomes and results I am prepared to make non-negotiable?
   - What would prevent me from finding an extra five minutes every morning (before I turn on my computer) to write down my major outcomes and plan my day before it starts? How could I create a ritual for this so that I didn't miss for ninety days?
   - What are the specific priorities and executables I must focus on and get on my calendar to create the momentum and results I have planned?
   - I know that guardrails and rules help me avoid feeding every kitty scratching at my screen door. What are the most frequent reasons my calendar gets hijacked, and what guardrails do I need to build to keep these intruders from sabotaging my day?
