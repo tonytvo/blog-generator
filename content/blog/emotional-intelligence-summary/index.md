@@ -28,7 +28,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - the power of pause: pausing after someone's answered a question or said something (for dramatic effect) to encourage them to draw upon their subconscious mind and bring deeper thoughts/feelings to the conversation.
 - Identify our own beliefs and values
 - "Our minds are what created fear, and our mind is the only thing that can smash through it."
-- Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
+- Ask yourself: 'Do I want to change this? Why do I want to change this? What stands to happen if I don't change this?'
 - accepting that something is going to happen and that the only thing we can control is how we choose to respond is where EI comes in.
 
 # Empathy
@@ -171,7 +171,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - Avoid caffeine after noon.
 
 ### Focus Your Attention on Your Freedoms
-- Take accountability for what is within your rea of responsibility rather than focusing on what you can't control.
+- Take accountability for what is within your area of responsibility rather than focusing on what you can't control.
 
 ### Stay Synchronized
 - When your emotions get the best of you, force your attention away from your emotions and on to the task at hand
@@ -412,7 +412,7 @@ replace "why is this happening to me" with "what is this trying to teach me?", e
 
 Begin by asking yourself, "What emotion to I want to trigger in this situation?
 
-Ask yourself: 'Do I want to change this? Why do I want to change this?' What stands to happen if I don't change this? What stands to happen if I don't change this?'
+Ask yourself: 'Do I want to change this? Why do I want to change this?  What stands to happen if I don't change this?'
 
 Accepting that something is going to happen and that the only thing we can control is how we choose to respond is where EI comes in
 

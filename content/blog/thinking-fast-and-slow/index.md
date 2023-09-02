@@ -24,6 +24,12 @@ tags: ["valueinvesting", "investing"]
   - Decision makers are sometimes better able to imagine the voices of present gossipers and future critics than to hear the hesitant voice of their own doubts. They will make better choices when they trust their critics to be sophisticated and fair, and when they expect their decision to be judged by how it was made, not only by how it turned out.
 
 - ![summary of 2 systems](./summary-2-systems.png)
+- how much do we know?
+- what did our brains evolve to do?
+- **Most of us think we know more than we actually do. We think this because we ignore complexity and believe that our brain, like a computer, is designed to store information. This isn’t the case. Rather, our brains evolved to work with other brains and to engage in collaborative activities. Indeed, it’s our ability to divide cognitive labor and share intentionality that’s led to our species’s success. So, when thinking about intelligence, we should take into account people’s collaborative aptitude, and we’d do well to encourage more collaboration – not just in school, but in society as a whole.**
+- **Don’t let the illusion of explanatory depth drain your bank account.**
+
+
 # 2 Systems
 
 - **The Characters of the Story**
@@ -546,6 +552,190 @@ tags: ["valueinvesting", "investing"]
   - **Nothing in life is as important as you think it is when you are thinking about it.**
   - *Miswanting*: bad choices that arise from errors of affective forecasting; common example is the focusing illusion causing us overweight the effect of purchases on our future well-being.
 
+# The community of knowledge
+
+- Fernbach and Sloman suggests that we’re successful as individuals and communities for several reasons. Firstly, we live with knowledge around us. This includes our bodies, the environment and other people. Secondly, individuals within a community can divide cognitive labor and specialise. Thirdly, individuals are able to skills and knowledge. These factors enable more effective coordination and collaboration within and between communities.
+
+## Thinking as collective action
+
+- Unlike computers, we are unable to hold vast amounts of information. We select only the most useful or available information to guide our decisions. Our limited capacity means we rely on a community of knowledge within our minds, the environment and other people to function. To Fernbach and Sloman, human thought is a product of the community, where people are like bees and society our beehive. Our intelligence is contained in the collective mind and not the individual brain.
+
+- To emphasise the point, our knowledge as individuals are intertwined with the knowledge of others. Since our beliefs and attitudes are shaped by communities, there becomes a tendency for us to associate with one prescription or another. We tend to let the group think for us because it is difficult to reject the opinions of our peers. As such, we don’t always evaluate the merit of every belief or attitude shared.
+
+- It takes a lot of expertise to understand the complexities of an argument. Society would be less polarised if we understood the communal nature of knowledge better. It helps to know where the limitations of ourselves and others begin and end. This can help us to determine our beliefs, values and biases with more perspective.
+
+# The knowledge illusion
+
+- Individuals cannot know or master everything. Instead, we rely on abstract knowledge to make decisions. Sometimes this includes drawing upon vague and under-analysed associations to provide high-level links between objects.
+
+## Illusion of understanding
+
+- Since our brains are not equipped to understand every event or discipline, we apply prior generalisations to new situations to act and make decisions. Our capacity to function in new environments depends on the regularities of the world and our understanding of these regularities.
+
+- People are typically more ignorant than they think they are (much like the Dunning-Kruger effect). This illusion of understanding exists because we often fail to draw a distinction between the knowledge of the individual and the community. This can lead to overconfidence and not knowing that we do not know. 
+
+## Illusion of explanatory depth
+
+- Our illusion of understanding often hides how shallow our understanding of causal mechanisms are across subjects. The authors give a striking example in their three-part questionnaire. To paraphrase them – For any everyday object (e.g. zipper, bicycle, kettle and toilet), ask yourself or someone these three questions in order:
+  - On a scale of 1-10, how well do you understand how it works?
+  - Can you explain to us in as much detail as possible about how it works?
+  - Now, on a scale of 1-10, how well do you understand how it works? 
+
+- This assessment can show our preconceived illusion of explanatory depth. Our self-assessment scores in the third question is often lower than the self-assessment score of the first. Like the illusion of knowledge, we can also suffer from an illusion of comprehension. We sometimes confuse understanding with recognition or familiarity.
+
+# Evolution’s endowment
+
+- The human mind evolved abilities to take actions to better enable our survival. Remembering vast amounts of information was not helpful to our evolution. As our brains developed in complexity, we got better at responding to more abstract environmental cues and new situations. Furthermore, unnecessary details are counterproductive to effective and efficient action if a broad understanding suffices. This is why our attention and memory systems are sometimes limited and fallible. We may have evolved a different set of logic if it was conducive to our evolution and survival as a species.
+
+
+## First we overestimate, next we ignore
+
+- Humans use causal logic to reach conclusions and project into the future. We share similarities with computers in that we undertake complex tasks by combining simpler sets of skills and knowledge together. However, the illusion of explanatory depth means we often overestimate the extent and quality of our causal reasoning.
+
+- We acquire information slowly and spend only a small fraction of our lives deliberating. Doing otherwise would leave us unable to handle systems that are too complex, chaotic or fractal in nature. The illusion of understanding means we tend manage complexity by ignoring it. Likewise, we ignore alternative explanations when we’re unable to retrofit it into our pre-existing model of understanding.
+
+## Hierarchies of thought and processes
+
+- Fernbach and Sloman highlight how we construct our models of the world from a tiny set of observations. This is possible because our world usually conforms to generally consistent principles. We can also think of the brain as one part of a larger processing system. It combines with the body and the external environment (an outside memory store) to remember, reason and interact.
+
+- Complex behaviours emerge when individual systems can interact or coordinate with each other. Multiple cognitive systems that work together may give rise to a group intelligence that exceeds the capability of any one individual. This is the case with bees, ants and humans. The growth in our collective intelligence for example can be attributed to the growing size and complexity of our social groups.
+
+- **The human brain didn’t evolve to store information and the world is extremely complex**.
+  - Throughout the 1960s and 1970s, the predominant theory among cognitive scientists was that the brain was basically a sort of organic computer.
+  - in the 1980s, a pioneering cognitive scientist named Thomas Landauer turned this model on its head. Landauer figured that, if the brain’s main job was to carry out computer-like functions – things like storing and processing information – then it would be informative to estimate the size of human knowledge in computational terms. Hi experiments proves an important point: our brains, unlike computers, are not designed to function primarily as repositories of knowledge because there is, quite simply, too much of it. The world is an infinitely complex place. For example, did you know that there’s not a person alive who understands all there is to know about modern airplanes? They’re simply far too complicated, and understanding them completely requires a team of specialists.
+  - This raises yet another tricky question: what did our brains evolve to do?
+
+- **The human brain evolved for action, and diagnostic reasoning may be what differentiates us from other animals.**
+  - What’s the difference between a Venus flytrap and a jellyfish? Sure, one lives on land, traps bugs and is capable of photosynthesis, while the other floats around in the water, has tentacles and looks bizarre – but what makes them fundamentally different?
+    - Well, one of them is capable of action, and the other is not. This difference is profound, because the ability of organisms to act on and interact with their environment is what led to the evolution of the brain.
+  - the more neurons an animal has, the more complex the actions it’s capable of.
+  - Humans possess billions of neurons. We can travel to space and compose concertos. But we evolved such complex brains for the same reason that jellyfish evolved their rudimentary system of neurons: to enable effective action.
+  - So if all brains evolved to assist action, what (besides billions more neurons) differentiates humans from other, less neuronally endowed animals? Well, one answer might be our ability to engage in causal reasoning.
+  - Not only can we reason forward, predicting how today’s actions may shape tomorrow’s events; we can also reason backward, explaining how today’s affairs may have been caused by yesterday’s actions. This is called diagnostic reasoning, and although we’re by no means perfect at it, our ability to do it is arguably what sets us apart from other sentient creatures.
+
+- When trying to answer a question or solve a problem, people engage in one of two kinds of reasoning. Either they use **intuition**, or they use **deliberation**.
+  - We use intuition all the time because it’s sufficient for day-to-day purposes. But when things get more complicated – when we have to draw a bicycle rather than just ride it, for example – intuition breaks down.
+  - if you paused before shouting out the answer and were able to work out the correct answer, then you might be one of those rare creatures: a person who favors deliberation over intuition.
+  - Such people are highly reflective and, unlike most of us, yearn for detail. They are also less likely to exhibit any illusion of explanatory depth. It’s not that they know more; it’s that they’re aware of how little they know. They’re probably no better than most people at drawing a bicycle, but they know that they can’t do it.
+  - Intuitions are subjective – they are yours alone. Deliberations, on the other hand, require engagement with a community of fellow knowledge possessors. Even if you deliberate in solitude, you’ll converse with yourself as though talking to someone else. This is just one of the many ways that we externalize internal thought processes to assist cognition.
+
+- **We think with our bodies and the world around us.**
+  - You may not be a philosopher (most people aren’t), but you’re probably familiar with René Descartes’s famous words, Cogito, ergo sum: “I think, therefore I am.” Descartes believed that our ability to think, not our physical body, is what determines our identity, and that engaging in thought is distinct from physical activities.
+  - This Cartesian emphasis on the preeminence of thought contributed to a faulty assumption made by early cognitive scientists, namely that thought is carried out in the mind alone.
+  - As we learn more about the mind, however, it appears that, when thinking, we also employ our bodies and the world around us, using them as tools to assist our everyday calculations and cogitations.
+  - In general, we assume that the world will continue to behave as it always has. We assume that the sun will rise and that what goes up must come down. This enables us to store a great deal of information in the world. You don’t need to remember every particular detail of your living room because, in order to remind yourself what’s there, you only need to take a look.
+  - We also use the world to help us make complex computations, rather than conducting them in our head.
+  - We also use our bodies and physical actions to aid thought. This is called embodiment, and its proponents assert that thought is not an entirely abstract process that plays out inside your head.
+  - For example, children learning to count almost always use their fingers. And adults almost always find it easier to do math problems and spell words with the help of pen and paper.
+  - Along similar lines, our emotions function as a sort of memory bank. We don’t need to memorize a long list of substances that we ought to avoid touching or consuming, for example, because we simply feel disgust when we encounter a puddle of fetid water or a pile of feces. In this way, physical or emotional responses fill in for knowledge.
+
+# Knowledge and intentionality
+
+- Our ability to distribute and share knowledge and intentionality allows us to pursue common goals collaboratively. This ability, combined with our capacity to communicate arbitrarily complex ideas through language, helps us to store and transfer knowledge between generations. Fernbach suggests that this is what separates us from artificial intelligence and most other biological species.
+
+- **Our success as a species is the result of collective intelligence and the ability to collaborate.**
+  - Have you ever wondered how our brains got so big? Why did we, unlike all other animals, evolve intelligence so sophisticated that it enabled us to outsmart and prey on larger, fiercer creatures, like mammoths and bison?
+  - Well, the most compelling theory is called the social brain hypothesis.  
+  - It essentially argues that big brains are the result of communal living. Living with one another and collaborating on certain projects (such as hunting mammoths) exerted new mental demands on our ancestors – demands that they then evolved to meet.
+  - When Homo sapiens first emerged, their brains were already quite complex; living in groups, however, made us expert collaborators. And it was this collaborative ability that led to the development of another crucial skill: the division of cognitive labor.
+  - *division of cognitive labor* is possible because of shared intentionality. Each worker can collaborate with all the others because everyone shares the same intention: building a house.
+  - Humanity’s greatest accomplishments, from smartphones to space exploration, are the result of these two abilities: the division of cognitive labor and shared intentionality.
+
+## Cumulative cultures
+
+- A cumulative culture can form with the transmission of knowledge, division of labour and model for cooperation. The division of cognitive labour (through language, memory, attention, etc.) enables specialisation and greater individual contributions. But individuals tend to overestimate their personal contributions because individual and group thinking are interconnected and difficult to delineate. People sometimes feel knowledgeable simply because the knowledge exists within their community.
+
+
+## Superficiality
+
+- Very little of what we understand occurs through direct observation or sensory experience. Most of what we know comes from what we are told and understand superficially. This usually suffices because communities can divide cognitive labour and responsibilities. A corollary of all this is the automation paradox. As we become more dependent on technology and automated systems, our ability to navigate new situations diminishes if or when such systems fail.
+
+- **Machines can’t share intentionality and it’s unlikely that a superintelligence will emerge.**
+  - Technology has become so advanced that we treat it more like a living organism than the tool it really is.
+  - People have evolved to use tools. We naturally use objects as though they were extensions of our bodies. When you write with a pen, for instance, you’re aware of the pressure of the nib on the paper, not the pressure of your fingers on the pen. But technology isn’t like most tools.
+  - Indeed, it’s so complex that it seems lifelike; our phones talk to us and our laptops automatically install mysterious updates. And technology’s lifelike quality fools us into thinking that it, like other people, can share our intentions.
+
+  - More worrisome is our over-reliance on machines that, though sophisticated, aren’t actually very bright.
+
+- **We can avoid groupthink by thinking causally and politicians simplify matters by appealing to sacred values.**
+  - The horrors of the twentieth century have baffled historians and social scientists for decades. How could so many normal citizens support dictators such as Joseph Stalin, Mao Zedong and Adolf Hitler – men whose policies and politics led to the deaths of millions of innocent people?
+  - Well, one reason is groupthink, a term used by the social psychologist Irving Janis. Groupthink is the tendency of communities (or a sufficient majority of their members) to uncritically arrive at a consensus on a particular issue. When everyone around you believes the same thing, it’s difficult to believe something else. This is what happened in Soviet Russia, Nazi Germany and Communist China – and, clearly, its effects can be catastrophic.
+  - So how can we avoid falling victim to groupthink ourselves?
+  - One way is to fully understand the policies promoted by modern-day politicians – or, at the very least, to know how little you understand about them.
+  - So promoting causal understanding may be a way to bridge political divides; however, there are some beliefs that no amount of causal explanation can dislodge.
+  - Take abortion. Pro-lifers don’t really consider the effects of antiabortion laws. They simply believe that killing a human fetus is wrong. With similar intractableness, pro-choicers believe that women should have the final say in what happens to their bodies.
+  - Such beliefs are based on sacred values, which are all but impossible to alter. There’s nothing wrong with that, but beware: politicians often use the language of sacred values to promote policies that deserve closer scrutiny.
+  - A drawn-out speech about the complex geopolitical effects of placing sanctions on Iran is unlikely to win votes. So politicians simplify matters, using a barrage of bromides about shared values to distract voters from actual policy.
+
+## Redefining intelligence
+
+- Intelligence is not necessarily a personal attribute, or one marked by academic success. In a community of knowledge, it is how much an individual contributes to a group’s success. Teams with complementary skills are more likely to divide and use cognitive labour successfully than teams with homogeneous skills. For this reason, education is not purely about the development of intellectual independence. It is also learning about what we don’t know, where we fit within our community of knowledge, and how to separate accurate statements from garbage and noise.
+
+- neither Martin Luther King nor Albert Eistein worked alone. Each benefited from a rich network of collaborators. And each stood on the shoulders of the hard-working individuals who’d come before.
+
+- We forget this because the whole story is far too complex for most of us to remember in great detail. Their names function as a sort of shorthand.
+
+- This leads to a problem, however. Most of us begin to believe the simplified story – that a small cohort of individual geniuses are responsible for history’s great deeds and discoveries.
+
+- Remember, we didn’t evolve to be repositories of knowledge. Nor did we evolve to work in a vacuum. As has already been argued, we evolved to divide cognitive labor and collaborate.
+
+- A new definition of smart would take these abilities into account. So, rather than merely measuring a person’s IQ, we ought to assess her ability to contribute to group tasks.
+
+- We should also encourage collaborative abilities in school by eschewing lectures and introducing hands-on activities.
+
+- Most people’s view of education is quite limited. Attending school isn’t all about memorizing facts. After graduation, one shouldn’t necessarily possess more knowledge than one’s undergraduate self. What one should possess is the ability to engage in collaborative enterprises.
+
+- The purpose of education isn’t only to pass on knowledge; it’s also to remind people of their ignorance. After all, once you’re aware of how little you know, you’ll be much more likely to seek help from the community of knowledge possessors that you’re a part of.
+
+- That’s not only an invaluable skill. It also shows that you understand something we should all keep in mind: we never think alone.
+
+# Knowledge, science and faith
+
+- Science involves the development of justifiable conclusions, whether through direct observation or inference. However, scientific progress is often built upon prior conclusions held by authority inside the community of knowledge. The authors cite empirical studies to describe how scientific attitudes are often shaped by a combination of cultural and contextual factors that are difficult to change. This is easy to see as well in scientific history (think Galileo).
+
+- Again, the authors highlight how personal beliefs and reasoning are often interconnected with the beliefs, cultural values and identities of our communities. As social creatures, it is difficult to be perfectly rational or scientific in every mode of process and reasoning.
+
+- Furthermore, since we often don’t know enough to analyse the consequences of new policy or science, we have little choice but to depend on the views of people we trust. This relies on faith that others are telling the truth. However, this faith is different to that of religious faith due to the power and threat of verification.
+
+- Fernbach and Sloman suggests that it is this distinction or social pressure that incentivises scientists to pursue truth-seeking within their community of knowledge. This ‘incentive’, in combination with the process of falsification, allows us to advance the frontiers of knowledge in an adaptive process, even if we stumble with errors and mistaken beliefs along the way.
+
+- **Fear of new developments can lead to anti-scientific sentiment, which is hard to reverse.**
+  - The geneticist Walter Bodmer proposed that people fear new technologies because they don’t understand them. This idea, that people distrust what they don’t understand, is called the deficit model. Bodmer proposed that the easiest way to allay groundless fears would be to fill the deficit by helping people become better informed.
+  - But despite countless educational initiatives, this approach hasn’t worked. When it’s explained to people that introducing a pig gene into an orange tree won’t make that tree’s oranges strange or pig-like – and that, in fact, it would help the tree resist citrus greening disease – they still harbor strong negative beliefs about GMOs.
+  - A major reason for this is that we tend to construct faulty causal models.
+
+## Reinforcing illusion
+
+- Bertrand Russell once said that “the opinions that are held with passion are always those for which no good ground exists”. Surrounding ourselves with like-minded people can reinforce our opinions and beliefs. They can accentuate our illusion of knowledge and comprehension. It’s why we sometimes hold strong opinions without a detailed understanding.
+
+- Since we rely on simple causal models and our community of knowledge, our beliefs and confidence often go untested. An illusion of knowledge means we’re less likely to check and update our understanding. The power of culture and social proof can make beliefs difficult to change, even in the face of new evidence.
+
+- The illusion of knowledge implies that a swath of knowledge can make us feel like experts. When we feel and talk like an expert, and join a community of knowledge that agrees, the herd mentality that emerges can be dangerous. Such attitudes are often mutually reinforcing.
+
+## Focus on the how
+
+- To correct this, people should be open to the idea that their community of knowledge can be incorrect. This is difficult since it can challenge our identity and values. Sloman cites empirical studies that found that asking people to explain their positions causally can encourage more moderate positions upon reflection. This is because causal explanations require the person explain the link between their position and the subject or outcome. In other words, focusing on the ‘how’ requires us to confront gaps in our knowledge, and potentially shatter the illusion of knowledge.
+
+## Explanation foes and fiends
+
+- Policies are often supported or rejected on moral conclusions with little causal analysis. We don’t consider the nuances of policy, only whether our values are reflected. We do this because it simplifies the decision-making process. This behavior helps to explain why political discourse and media is shallow.
+
+- We substitute analysis with generalisations and values because our memory and capacity for reasoning is grossly finite. It explains why we lionize or demonize individuals (fairly or unfairly). This is evident in the way we think about political groups, large companies and scientific achievements. We also find it easier to simplify history than to understand the complex role of community and contingency.
+
+- Fernbach and Sloman suggest that most people are ‘explanation foes’. They don’t like too much or too little explanatory detail. By contrast, very few people are ‘explanation fiends’. These people prefer to understand as much relevant information as possible before deciding. Both explanation foes and fiends have their strengths and weaknesses.
+
+# Making smarter decisions
+
+- Given our limitations as individual learners and analysts, we should structure our environments and processes in ways that are more conducive to effective decision making. The distinction here is the focus on ‘environment’ and ‘process’ than the person itself. Fernbach and Sloman offer four recommendations:
+
+  - **Reduce complexity**: We should understand how much complexity we can tolerate and scale our information accordingly.
+  - **Simple decision rules**: It is often difficult to educate ourselves on complex matters in a timely, consistent and considered manner. We should develop decision rules with short and clear rationales to navigate and check our processes.
+  - **Just-in-time education**: The authors argue that we can improve our retention and application of information by learning (or revising) it just as we need it.
+  - **Check our understanding**: We should be aware of our tendency to be explanation foes. While we cannot consume every possible detail for decision making, we should endeavor to know enough. Knowing what we don’t know can help us to fill in our gaps, minimise intellectual arrogance and make better decisions.
+
+# Inevitability of ignorance
+
+- To end on a quasi-hopeful note, Ferman and Sloman suggest that ignorance is perhaps inevitable. It is the natural state of humanity. There is simply too much complexity in this universe for any one individual to fully understand. As such, we do what we know and ignore what we have little conception of. Ignorance shapes our lives because we have little awareness of what is truly possible. At the same time, it is the illusion of knowledge that gives some people the self-confidence to pursue new and risky frontiers. Perhaps some illusions are necessary for the development and progress of civilisation itself.
 
 # Quotes
 
@@ -578,3 +768,5 @@ A remarkable aspect of your mental life is that you are rarely stumped. The norm
 - https://investorship.com/summary-of-thinking-fast-slow/
 - https://www.wilselby.com/2020/11/thinking-fast-and-slow-summary-and-insights/
 - https://www.grahammann.net/book-notes/thinking-fast-and-slow-daniel-kahneman
+- https://lifeclub.org/books/the-knowledge-illusion-steven-sloman-philip-fernbach-review-summary
+- https://athenarium.com/the-knowledge-illusion-fernbach-sloman/

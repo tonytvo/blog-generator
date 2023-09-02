@@ -274,9 +274,9 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 # GENERALIZATIONS KILL CLARITY
 
 - Generalizations kill clarity. Clarity equals power. Power is the ability to act. Whenever there is weak, ineffective, or no action, it is usually a result of a lack of clarity and/or accountability. (A Board of Directors is great at filling this role.)
-- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and  accountability require courage. A plan without specificity of deliverables and dates is a fantasy. Accountability should never be feared; it is the mother of great.
-- *Here are the specific, measurable steps I'm taken (broken down by week) and the milestones, timelines, resources, and personal calendar time I am committing to reach $2000000 in revenue this next quarter. These are the names of each lead in our funnel. This is who and how many I will call on this quarter. Here is the conversion percentage I will achieve. This is the monetary value of each transaction. Here ar the exact things I will do and the specific results I will generate to make certain we achieve our $2000000 target. I'll be reporting on these three specific measurable things (A, B, C) next week, and you should hold me accountable for achieving all 3*
-- the key questions to ask in preparing to create your plan always start with how, what or who
+- Glossy and fluffy are always safe (and always produce mediocrity). Specifics and accountability require courage. A plan without specificity of deliverables and dates is a fantasy. Accountability should never be feared; it is the mother of great.
+- *Here are the specific, measurable steps I'm taking (broken down by week) and the milestones, timelines, resources, and personal calendar time I am committing to reach $2000000 in revenue this next quarter. These are the names of each lead in our funnel. This is who and how many I will call on this quarter. Here is the conversion percentage I will achieve. This is the monetary value of each transaction. Here are the exact things I will do and the specific results I will generate to make certain we achieve our $2000000 target. I'll be reporting on these three specific measurable things (A, B, C) next week, and you should hold me accountable for achieving all 3*
+- the key questions to ask in preparing to create your plan always start with how what or who
   - how will we achieve this outcome?
   - what specific activities are required to be performed?
   - who is going to perform them?
@@ -284,6 +284,7 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - what are the critical drivers that must be consistently executed to achieve this outcome?
   - how frequently must these critical activities be measured and reported to be successful?
   - who owns this outcome?
+
 - **Thinking Time**
   - how do I need to rework our plans and budgets to make them granular and measurable?
   - what is the specific recipe I need to create to make certain the outcome we have stated is achieved?
@@ -291,38 +292,39 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - who, specifically is accountable and responsible for achieving each outcome?
   - what are the dashboards I need to create to make sure we're measuring the critical drivers and making corrections based on our performance?
 
-# A CEO SHOULD NEVER DELEGATE..
 
-- Business success is highly dependent on who you hire and who you don't fire.
+# A CEO SHOULD NEVER DELEGATE...
+
+- Business success highly depends on whom you hire and don't fire.
 - Motivation is for amateurs. Pros never need motivating. 
-- Show me a lousy culture and I will show you a lousy CEO.
-- The key is the clarity on the obstacle and consistency of disciplined execution on the critical drivers. Consistency requires measurement. Discipline requires standards. Execution requires resources.
+- Show me a lousy culture, and I will show you a lousy CEO.
+- The key is clarity on the obstacle and consistency of disciplined execution on the critical drivers. Consistency requires measurement. Discipline requires standards. Execution requires resources.
 
-- There are 7 yardsticks that a CEO must be judged by to consistently produce quality results:
+- There are seven yardsticks that a CEO must be judged by to produce quality results consistently:
 
-- **Clearly define Point A and Point B**: Most CEOs or leaders are every good in articulating where they are going to (Point B) or what you might call the vision. Its funny how most CEOs give a stunning presentation of the future they don’t have 100% control of but find it hard to determine where they are now (Part A); their present state. I honestly think that its only natural to know where we are going to after you know where you are.
+- **Clearly define Point A and Point B**: Most CEOs or leaders are very good at articulating where they are going to (Point B) or what you might call the vision. It's funny how most CEOs give a stunning presentation of the future they don't have 100% control of but find it hard to determine where they are now (Part A); their present state. It's only natural to know where we are going after knowing where you are.
 
-- **"Determine the obstacle”** This is only gotten when there is a clear definition of point A and point B. This obstacle is also known as the gap. This is the reason why you haven’t attained or achieve point B. At this stage you must separate the problem from the symptom and focus on the real problems.
+- **"Determine the obstacle"** This is only gotten when there is a clear definition of points A and B. This obstacle is also known as the gap. This is the reason why you haven't attained or achieved point B. At this stage, you must separate the problem from the symptom and focus on the real issues.
 
-- **Design the plan/machine:** After you have clearly defined point A and B, the obstacle or gap, then the next thing is to build a machine that will address the problems above. At this stage , the CEO can delegate at this stage or get his team members to be part of this so that they can also own it and run with it.
+- **Design the plan/machine:** After clearly defining points A and B, the obstacle or gap, the next thing is to build a machine to address the problems above. The CEO can delegate at this stage or get his team members to be part of this so they can also own and run with it.
 
-- **Allocate resources:** Once you determine the solution/machine to be used, the next thing is to allocate the adequate resources to make the machine work. 
-  - Just like Keith Cunningham said “A shift in priorities without a simultaneous shift in resource allocation is delusional. Anytime we announce new initiatives or change priorities, it requires a change in how we are allocating our resources (team, time, and money) must be allocated in such a way that permits the business to stay afloat while trying to birth and execute this new initiative or idea with this new machine. It also requires that we do less of one thing to allow us to do more of something else. None of us has the ability to keep adding without curtailing or stopping something else."
-  - Keith Cunningham says it perfectly “In other words, the CEO must plan tomorrow’s breakfast while continuing to cook tonight’s dinner.” This is very tricky and requires a good amount of skill to adequately execute this; you must know the effect of the reduction of resources in order to increase it for another task.
+- **Allocate resources:** Once you determine the solution/machine to be used, the next thing is to allocate adequate resources to make the machine work. 
+  - As Keith Cunningham said, "A shift in priorities without a simultaneous shift in resource allocation is delusional. Anytime we announce new initiatives or change priorities, it requires a change in how we are allocating our resources (team, time, and money) must be allocated in such a way that permits the business to stay afloat while trying to birth and execute this new initiative or idea with this new machine. It also requires that we do less of one thing to allow us to do more of something else. None of us can keep adding without curtailing or stopping something else."
+  - Keith Cunningham says it perfectly "In other words, the CEO must plan tomorrow's breakfast while continuing to cook tonight's dinner." This is very tricky and requires much skill to execute adequately; you must know how to reduce resources to increase it for another task.
 
 
-- **Team players:** This is so crucial to the workings of the machine. Machines don’t operate themselves, they need people to run it. The quality of the output of the machine is directly proportional to the quality of the team players. So it's very important that everyone on your team brings their A-game to bear on the task at hand. Mediocrity should never have a place in your team. The watchword here is “ Mastery”. Just like Keith Cunningham said “Said another way, business success is highly dependent on whom you hire and whom you don’t fire.
+- **Team players:** This is so crucial to the workings of the machine. Machines don't operate themselves; they need people to run them. The quality of the machine's output is directly proportional to the quality of the team players. So everyone on your team must bring their A-game to bear on the task. Mediocrity should never have a place in your team. The watchword here is "Mastery." Like Keith Cunningham said, "Said another way, business success is highly dependent on whom you hire and don't fire.
 
   - Here are some tips to distinguish A players include:
     - They have a scoreboard that helps them with measurements. They will not play if they can't see the scoreboard
     - They love healthy competition.
     - They love accountability.
     - they have the technical chops to do the job. This is not their first rodeo. They have been there, done that, and they are technically very good at what they do.
-    - They are humble enough to ask for coaching. The 3 most important questions an employee can ask are
+    - They are humble enough to ask for coaching. The three most important questions an employee can ask are
       - what else can I do
       - where can I get better?
-      - what do I need to do or learn so that I continue to grow?
-    - They are good at what they do and always seek to get better.
+      - what do I need to do or learn to continue to grow?
+    - They are good at what they do and consistently seek to improve.
     - They see opportunities, while others see problems.
   - rules for hiring and retaining A players are
     - interview rigorously
@@ -330,22 +332,23 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
     - onboard effectively
     - measure consistently
     - coach continuously.
-- **build the organization chart/structure:** This cannot be overemphasized. It’s one of the differences between good companies and great companies. People or personnel must operate within a structure also known as the organizational chart. A structure gives support and provides protection to your business. Most importantly, the structure must be outcomes/result oriented instead of roles, titles, or names. In other words, every role must have tasks, outcomes, and deliverables that are assigned to people, and excuses for non or under-performance are not allowed.
+- **Build the organization chart/structure:** This must be emphasized. It's one of the differences between good companies and great companies. People or personnel must operate within a structure known as the organizational chart. A structure gives support and protects your business. Most importantly, the structure must be outcomes/result oriented instead of roles, titles, or names. In other words, every role must have tasks, outcomes, and deliverables that are assigned to people, and excuses for non or under-performance are not allowed.
 
 - **Create a culture:** Culture is a way of life. As a CEO, whatever you put in place as a culture will run into the fabric of your business. You must show that you are accountable, you care, and have a deep desire for success. You cannot have a culture that is not practiced. A culture that is not upheld is a mere vision or mission plaque that you hang on the wall.
-  - how people talk to each other and treat one another is the essence of culture.
+  - how people talk to and treat one another is the essence of culture.
 
 - **Thinking Time**
-  - in light of 7 fundamental jobs of a CEO, where have I dropped the ball and what do I need to do differently to cause us to get better
-  - as I'm thinking about the next 100 days and what I will do differently, what are the things, I must do less of to make room for the things I need to do more of?
+  - in light of 7 fundamental jobs of a CEO, where have I dropped the ball, and what do I need to do differently to cause us to get better
+  - as I'm thinking about the next 100 days and what I will do differently, what are the things I must do less to make room for what I need to do more of?
   - if my team represents my leverage, what do I need to do or say to ensure their success?
-  - starting and perfection are rarely simultaneous. What are the 3 things I could begin doing that would get me 80% of the way there?
-  - what is the disipline I need to adopt to create the outcomes I want?
-  - what is my specific measurable plan to improve our results?
-  - where have I abdicated my responsibilities as a CEO and what do I need to do about it?
+  - starting and perfection are rarely simultaneous. What three things could I begin doing that would get me 80% of the way there?
+  - what discipline do I need to adopt to create the desired outcomes?
+  - what is my specific, measurable plan to improve our results?
+  - where have I abdicated my responsibilities as a CEO, and what do I need to do about it?
   - where have I optimized for easy instead of outcomes?
 
-# A CRISIS IS A TERRIBLE THING TO WASTE
+
+# A CRISIS IS A TERRIBLE THING TO WASTE.
 
 - The best time to learn the lessons (and avoid the dreaded dumb tax) is prior to making the mistake in the first place.
 - Making mistakes is inevitable; admitting them and learning the lesson is optional. I love what Dr. Buckminster Fuller said about this: "A mistake is not a sin unless it is not admitted."
@@ -355,17 +358,17 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
 ## Log of Lessons Learned
 
 - **Strategy**
-  - A lack of rules, skepticism, and discipline caused every  mistake we made.
-  - Emotions, when mixed with unbridled greed and easy access to capital, produce economic disasters.
+  - A lack of rules, skepticism, and discipline caused every mistake we made.
+  - Emotions produce economic disasters when mixed with unbridled greed and easy access to capital.
   - Financial engineering and incremental debt do not turn a bad deal into a good one.
   - Raw land eats three meals per day.
-  - Catching a big wave is not the same as being a good swimmer.
-  - There is no way to correct without divorcing the story and marrying the truth. Facts do not cease to exist just because you ignore them. A good market tends to hide mistakes. Nothing takes the place of being actively engaged in the running of your business and being thoughtful (as well as skeptical) about the future.
+  - Catching a big wave is different from being a good swimmer.
+  - There is no way to correct without divorcing the story and marrying the truth. Facts do not cease to exist just because you ignore them. A good market tends to hide mistakes. Nothing takes the place of being actively engaged in running your business and being thoughtful (as well as skeptical) about the future.
   - Last week's marketing report has absolutely nothing to do with where the market is headed, what the economy is doing, or what the demand will be next year.
   - How you run your business during the good times is the only true predictor of how well your business will cope with the bad times. 
   - You must keep a conservative strategy during the good times because you generally don't know you're in bad times until it's too late.
-  - No team has ever won the game with an "offense only" strategy. Great teams, the ones who win championship rings, all have fantastic defenses. They think about prevention, protection, and risks.
-  - Not all progress is measured by ground gained; sometimes progress is measured by losses avoided.
+  - No team has ever won a game with an "offence only" strategy. Great teams, the ones who win championship rings, all have fantastic defences. They think about prevention, protection, and risks.
+  - Not all progress is measured by ground gained; sometimes, progress is measured by losses avoided.
   - Speed kills. True wealth is built slowly. Speed and greed necessitate aggressive leverage and increase the odds of catastrophe. It is better to go slower and avoid the do-overs.
   - Our desire for growth and size was based on ego and greed, not strategy and wealth.
   - The successful people we admire are not the ones who made it. We admire the ones who kept it.
@@ -376,65 +379,66 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - Litigation is expensive, time-consuming, and to be avoided.
   - The best way to avoid losses and to stay financially healthy is to "sell too soon." The old real estate maxim "In the history of the world, the seller is always wrong" is outrageously stupid when you run out of cash!
   - Don't fall into the trap of believing you can sell it for a higher price tomorrow. The future is unknown (and unknowable) and fraught with risk.
-  - In the future, I would rather miss an opportunity than lose capital. .Never buy something because you think you might need it someday. .Keep working all your alternatives until something closes. It hasn't closed until the money is in the bank.
-  - Success does not make you invincible or bulletproof. What success does best is make you complacent and egotistical, which by themselves are sufficient to create disaster.
-  - The euphoria of a hot market usually results in ignoring marketplace fundamentals. Prudently gathering and evaluating market-based economic information is the only prescription for avoiding the mistake of smoking your own exhaust.
+  - I would rather miss an opportunity than lose capital in the future. Never buy something because you think you might need it someday. Keep working on all your alternatives until something closes. It hasn't closed until the money is in the bank.
+  - Success does not make you invincible or bulletproof. What success does best is make you complacent and egotistical, which are sufficient to create disaster.
+  - The euphoria of a hot market usually results in ignoring marketplace fundamentals. Gathering and evaluating market-based economic information is the only prescription for avoiding the mistake of smoking your exhaust.
   - Never delay taking corrective action once the problem has been recognized. Hoping for better conditions in the future so the problem will solve itself is a fool's game. Procrastination magnifies problems. •Failure to recognize reality is delusional. You might be smarter and better than your competition, but when the market shifts, you're still broke. Don't confuse intellect with economic reality.
   - Never rely on only your consultant's recommendations. If you don't understand it, don't do it.
-  - We did not narrow our focus when we knew times were getting worse. This was due to two things: (1) The distraction of our prior track record, and (2) An unwillingness to assess the risks of being wrong.
+  - We did not narrow our focus when we knew times were getting worse. This was due to two things: (1) The distraction of our prior track record and (2) An unwillingness to assess the risks of being wrong.
   - A small percentage of a large number is a large number.
   - Any fool can make money in the good times.
   - The question should never be, "Should I pursue this opportunity?" The right questions are:
   - If I pursue this opportunity, how much time, resources, effort, and investment are required?
   - Is this in my wheelhouse (core competence)?
   - What could go wrong?
-  - What are the returns if I am right and the costs if I am wrong? . Can I live with being wrong?
-  - The greater the past success, the greater the likelihood of the Superman fantasy. A lack of cash or cash flow is Kryptonite and it kills all superheroes. Always be skeptical and keep some powder dry.
+  - What are the returns if I am right and the costs if I am wrong? Can I live with being wrong?
+  - The more significant the past success, the greater the likelihood of the Superman fantasy. A lack of cash or cash flow is Kryptonite, and it kills all superheroes. Always be skeptical and keep some powder dry.
 
 - **Deals**
   - Doing a deal to keep the staff busy is stupid. Do not do marginal deals.
-  - A bad economy doesn't create financial problems; it just reveals them.
+  - A bad economy doesn't create financial problems but reveals them.
 
   - Almost everything takes longer than you think it will and costs more than originally budgeted. Plan for delays and bumps.
-  - Just because prices have gone up the last several years doesn't mean they can't go down 30% next year.
+  - Just because prices have increased in the last several years doesn't mean they can't go down 30% next year.
   - The easiest sale is to an employee or a consultant.
-  - When the market is bad, there are NO buyers... at any price.
-  - Delaying the decision to sell today because last year's prices were higher or because the anticipated profits originally projected were greater is stupid. The market doesn't care about either.
+  - When the market is terrible, there are NO buyers... at any price.
+  - Delaying the decision to sell today because last year's prices were higher or because the anticipated profits originally projected were greater is stupid. The market doesn't care about it, either.
   - Do not follow the market down. Make deep cuts quickly.
   - Don't let what your competition is doing influence your decisions. You can't erect a fence to keep the competition out. Besides, they do stupid things sometimes too.
   - Secondary locations always decline the fastest (and most) and take the longest to return.
-  - New projects must be based on current demand and not future growth. •You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, you will also have far less overhead.
-  - Too many deals consume time and draw attention away from the really good ones.
-  - It takes three good deals to make up for one bad deal.
-  - When a bad deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad and the good ones are now mediocre or troubled as a result of a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
-  - Holding off on adjusting the price or overhead based on the belief the market will rebound quickly is irrational.
+  - New projects must be based on current demand rather than future growth. 
+  - You do not have to swing at every pitch that is thrown. Do fewer, better deals. Not only will you optimize the results of the superior deals, but you will also have far less overhead.
+  - Too many deals consume time and draw attention away from the good ones.
+  - It takes three good deals to make up for one lousy deal.
+  - When a lousy deal surfaces, 90% of management's time is siphoned off from the rest of the business to deal with the problems it generates. The result: The bad one is still bad, and the good ones are now mediocre or troubled due to a lack of attention. Ninety percent of management's time should be spent on nurturing the good ones. Easy to say, hard to do.
+  - Holding off on adjusting the price or overhead based on the belief that the market will rebound quickly is irrational.
 
 - **Financing**
   - Debt gives the illusion of wealth. True wealth is assets, cash flow, and manageable (minimal) debt.
   - Excessive debt and hope are the root of all financial crises. You can never ignore risks or suspend doubt.
   - Doing a marginal deal just because the money is available is stupid. Bankers typically can't assess the market risks either.
   - Take your personal guarantee seriously. You only bring two things to the table: cash and your guarantee, neither of which has an unlimited supply.
-  - Don't rely on future price increases to make a deal work. .Never finance long-term assets with short-term debt.
+  - Don't rely on future price increases to make a deal work. Never finance long-term assets with short-term debt.
   - We covered a lot of mistakes with access to an abundance of money and easy credit.
   - Too much money makes you stupid. Just because you can doesn't mean you should.
   - Stretching to do a deal by horsing the numbers in a spreadsheet is usually a sign of ego and rarely a good idea.
 
 - **Personnel**
-  - Bench strength is critical. Find the best people and compensate them VERY well. It saves money in the long run.
+  - Bench strength is critical. Please find the best people and compensate them very well. It saves money in the long run.
   - The tougher the times, the better the people you need. There is no way to survive a bad market with weak people.
   - Adding/keeping mediocre people weakens the organization, which dilutes your results.
   - Always be upgrading your talent and never be afraid to pay them what they need to make.
   - Every hire we make should raise the average.
   - One superstar 7-footer is far more valuable than ten 5-footers. Weak people beget weak results.
-  - Never wait to address personnel issues or substandard performance. Employees are either doing a great job or they aren't. If they aren't, take action. My job isn't to babysit or beg people to do their jobs.
+  - Always address personnel issues or substandard performance. Employees are either doing a great job, or they aren't. If they aren't, take action. My job isn't to babysit or beg people to do their jobs.
   - The cost of tolerating an incapable or misplaced employee is far greater than the discomfort of having a tough conversation and speedy termination.
-  - A culture rooted in past successes, growth at all costs, and aggressive bonus structures will produce employees who don't think, who aren't skeptical, and who ignore risks.
+  - A culture rooted in past successes, growth at all costs, and aggressive bonus structures will produce employees who don't think, aren't skeptical, and ignore risks.
 
 - **Overhead**
 
-  - Stay lean even if you can afford to get fat. Keep overhead low! •Watch your cash VERY closely. Ask yourself, "Do I really need this? Will this help me make more money?" Once the money is spent, it's gone forever.
-  - Get really sober (medieval) on what needs to happen to your cost structure to produce the profits you want vs. the revenue you hope to get.
-  - Each line item of your financials should be scrutinized on a continuous basis to make sure the money is being spent in a productive and prudent way.
+  - Stay lean even if you can afford to get fat. Keep overhead low! •Watch your cash very closely. Ask yourself, "Do I really need this? Will this help me make more money?" Once the money is spent, it's gone forever.
+  - Get sober (medieval) on what needs to happen to your cost structure to produce the profits you want vs. the revenue you hope to get.
+  - Each line item of your financials should be scrutinized continuously to ensure the money is being spent in a productive and prudent way.
   - Conserve cash, especially during the good times. Spending money to look like a big deal is not the same as being a big deal.
   - When you're out of cash, you're out of business. Cash is truly KING.
   - When the market shifts, you can't cut overhead fast enough.
@@ -442,7 +446,7 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - Cut overhead early and hard. Pride and hubris kept us from cutting our overhead in a timely manner.
   - Fancy offices, hot cars, lots of staff, and high overhead are signs of significance, not success.
   - Knowing your numbers-what it costs to run each aspect of your business and having timely information are critical to success.
-  - Focus on the costs of doing business and not just the revenue potential. 
+  - Focus on the business costs and not just the revenue potential. 
   - Paying for overhead we don't need to support revenue we don't have is stupid.
   - Contract out as much of the work as possible. Keep overhead low and variable.
 
@@ -450,131 +454,134 @@ When your stock is low, buy it back. When it is high, use it raise debt or buy o
   - As I look back at my most significant losses, stupidest decisions, and biggest mistakes, what are the fifty most important lessons I have learned?
   - Where am I making some of these same mistakes again?
   - Based on prior lessons learned, what do I need to change (immediately) to avoid the dreaded dumb tax?
-  - What are the rules and disciplines I will put in place to minimize the likelihood of repeating my mistakes?
+  - What rules and disciplines will I put in place to minimize the likelihood of repeating my mistakes?
 
 # ORDINARY THINGS, CONSISTENTLY DONE, PRODUCE EXTRAORDINARY RESULTS!
 
-- Ordinary things, consistently done, produce extraordinary results! Think about the discipline of consistently reviewing your prior month's financial statements by the 10th of every month. In a matter of a quarter or two, the insights and optics harvested will change the priorities and decision making in your business.
+- Ordinary things, consistently done, produce extraordinary results! Think about the discipline of consistently reviewing your prior month's financial statements by the 10th of every month. In a quarter or two, the insights and optics harvested will change the priorities and decision-making in your business.
 
-- To get good at doing stuff, you must be ready to practice, be prepared to make a lot of mistakes. As a matter of fact, the faster you make the mistake and correct it the better for you. **SO FAIL FAST**.
+- To get good at doing stuff, you must be ready to practice and be prepared to make many mistakes. The faster you make the mistake and correct it the better for you. **SO FAIL FAST**.
 
 - It’s not just practice that makes perfect, but the deliberate intensity of your practice will determine the speed of your progress.
 
-- In Keith’s words “ordinary things done consistently will produce extraordinary results.
+- In Keith’s words “Ordinary things done consistently will produce extraordinary results.
 
-- A lot of wrong decisions are made on the premise of instant gratification…you expect a big deal to make the change on your financial distress instead of working your way out of the distress which takes time. The good thing about working your way out of the distress is that you will likely not make that mistake again, thereby giving you a success path.
+- A lot of wrong decisions are made on the premise of instant gratification…you expect a big deal to make the change on your financial distress instead of working your way out of the distress which takes time. The good thing about working your way out of the distress is that you will likely not make that mistake again, thereby giving you a successful path.
 
-- Managing expectation is an essential element of business success. When not managed well you are likely to kill your dreams.
+- Managing expectations is an essential element of business success. When not managed well you are likely to kill your dreams.
 
 - **Thinking Time**
-  - Trying to figure out how to immediately solve a problem in one fell swoop is stupid. I might not have the final "Holy Grail" solution to all my problems, but what are five things I can do immediately to improve my situation?
+  - Trying to figure out how to solve a problem in one fell swoop immediately is stupid. I might not have the final "Holy Grail" solution to all my problems, but what are five things I can do immediately to improve my situation?
   - Where am I inconsistently executing the right thing?
   - Where am I not practicing with the level of intensity I know I am capable of?
-  - Where are we practicing but not correcting or getting the coaching that would give us insights about what we can do better? • Where am I consistently executing the wrong thing?
+  - Where are we practicing but not correcting or getting the coaching to give us insights about what we can do better? 
+  - Where am I consistently executing the wrong thing?
   - Where have I allowed the need for instant gratification to become a substitute for picking up the business end of a shovel and consistently breaking a sweat?
-  - What are three outcomes we previously set but have abandoned because of unrealistic expectations or inconsistent execution? Should any of these outcomes be resuscitated and reprioritized with the accompanying realistic plans, resources, and time frames?
-  - What are three bad habits/business practices we have tolerated that are undermining our results?
+  - What are three outcomes we previously set but have abandoned because of unrealistic expectations or inconsistent execution? Should these outcomes be resuscitated and reprioritized with realistic plans, resources, and time frames?
+  - What are three bad habits/business practices we have tolerated undermining our results?
   - What are the decisions I must make and
   - the hard conversations I must have to break these bad habits once and for all?
-  - How will I adjust my behavior to create the success/outcomes I envision?
+  - How will I adjust my behaviour to create the success/outcomes I envision?
+
 
 # O BABY!
 
-- Start with what customers want. Start with their needs, desires, and pain. Start with the gap between the solutions being offered by the competition and where they (the customers) are frustrated.
+- Start with what customers want. Start with their needs, desires, and pain. Start with the gap between the solutions the competition offers and where they (the customers) are frustrated.
 
-- In this chapter, Keith describes a story where he interrogates his wife on how he can be of better husband to her. Most importantly, what she wants/desires in a relationship. He starts with what she wanted in a relationship and she replies “I want to be Loved and Adored”. This was her goal. Then he went on to ask her “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” For almost an hour and a half he kept on writing the answers to that question. He wondered why she wanted all this but iis what she wanted. Period. Even though he didn’t have the passion for it, he was ready to do everything he could make it happen. He even asked what happens if he forgets, she smiled and said I will remind you.
+- In this chapter, Keith describes a story where he interrogates his wife on how to be a better husband to her. Most importantly, what she wants/desires in a relationship, he starts with what she wants in a relationship and she replies “I want to be Loved and Adored.” This was her goal. Then he asked her “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” He kept writing the answers to that question for almost an hour and a half. He wondered why she wanted all this, but it was what she wanted. Period. Even though he didn’t have the passion for it, he was ready to do everything he could to make it happen. He even asked what happens if he forgets, she smiled and said I will remind you.
 
 - Let’s pause here and think for a moment and analyze the story.
   - He asked her for her goal, and she verbalized it.  
-  - He then asked her what success means to her by asking “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” Her.e he wanted her to verbalize what she actually wanted in plain language.
-  - He was also committed to make it happen even though he didn’t have the passion for it.
-  - As a business owner, you must always find out what the customer wants. You are in business because of the customer. The mistake most people make is to create the product and then look for the customer. Here you find out what their pain points, needs and most importantly what success means to them?
+  - He then asked her what success means by asking “Now, tell me everything that needs to happen and exactly what it would look like for you to feel loved and adored.” Here, he wanted her to verbalize what she wanted in plain language.
+  - He was also committed to making it happen even though he didn’t have the passion for it.
+  - As a business owner, you must always determine what the customer wants. You are in business because of the customer. Most people make the mistake of creating the product and then looking for the customer. Here, you find out their pain points, needs and most importantly what success means to them.
   - Once you have gotten their needs and pain points, the next thing is to find a solution that meets their need and their success proposition
-  - Finally, your service/product delivery must be out of this world and exceptional. If this is not done well, you will jeopardize all the hard work you have put in the creation of the product. You are likely not to come back to a restaurant that had crappy service no matter how good the food tastes.
+  - Finally, your service/product delivery must be out of this world and exceptional. If this is not done well, you will jeopardize all the hard work you have put into creating the product. You are likely not to return to a restaurant with crappy service no matter how good the food tastes.
 
 - principles to attract customers and gain significant traction in any business
-  - **FOWTW:**: find out what they want. This is anticipating problems, identifying pain points, and discovering needs. what do customer want?
-  - **GAGI:** go and get it. build solutions for the problem/pain/need identified. Can I get them what they want?
-  - **GITT:** give it to them. This is how you deliver a solution... the experience and execution. how do I deliver to them?
+  - **FOWTW:**: Find out what they want. This is anticipating problems, identifying pain points, and discovering needs. What do customers want?
+  - **GAGI:** Go and get it. Build solutions for the problem/pain/need identified. Can I get them what they want?
+  - **GITT:** Give it to them. This is how you deliver a solution... the experience and execution. How do I deliver to them?
 
-- To conclude, I would like to borrow these words from Peter Drucker that says when the marketing is done right, selling becomes unnecessary. And his definition of marketing? Finding out what customers want.
+- To conclude, I would like to borrow these words from Peter Drucker, who says that selling becomes unnecessary when marketing is done right. And his definition of marketing? Finding out what customers want.
 
 - **Thinking Time**
-  - What do our customers want and how do I know that this is the right answer?
-  - What is the solution I need to design to meet their needs and address their pain? 
-  - Do I have the ability (skill sets and resources) to successfully build this solution?
+  - What do our customers want and how do I know this is the right answer?
+  - What solution must I design to meet their needs and address their pain? 
+  - Do I have the ability (skill sets and resources) to build this solution successfully?
   - How will I deliver it to them?
   - What is the experience these customers want?
-  - What exactly is the gap between where customers are frustrated and what the competition is doing?
-  - Where can we find pockets of target customers who are frustrated with our competition?
+  - What is the gap between where customers are frustrated and what the competition is doing?
+  - Where can we find pockets of target customers frustrated with our competition?
   - Where is the competition weak or deficient in delivering the outcomes, solutions, and value the market demands?
-  - What should we be doing to communicate to potential customers that we are the aspirin for their pain?
-  - What are the three primary problems (pains) my target market has?
-  - Where have I substituted my judgment for what I want to deliver for what the customers actually want to receive?
+  - What should we do to tell potential customers we are the aspirin for their pain?
+  - What are my target market's three primary problems (pains)?
+  - Where have I substituted my judgment for what I want to deliver for what the customers want to receive?
   - How could I check in with our customers?
+
 
 # HELP ME UNDERSTAND
 
 - When my effort to help you get better exceeds your effort to get better, this stops working for both of us.
 
-- “Fix the problem and not the blame” is a statement that stands out for me and is also synonymous to treating the symptoms instead of treating the problem. Most times as business owners we tend to fall into the trap of managing instead of coaching. Leaders coach while managing usually takes the form of a sheriff.
+- “Fix the problem and not the blame” is a statement that stands out for me and is also synonymous with treating the symptoms instead of treating the problem. As business owners, we tend to fall into the trap of managing instead of coaching. Leaders coach while managing usually takes the form of a sheriff.
 
 - A coach sets the rules/guard rails and then guides you to your success while a sheriff sets the same rules and reprimands/punishes you for unmet expectations.
 
-- Leaders usually have employees that have ownership of the jobs and understand that doing the work means keeping the job, while employees of a manager usually operate from fear of being punished.
+- Leaders usually have employees who have ownership of the jobs and understand that doing the work means keeping the job. In contrast, employees of a manager usually operate from fear of being punished.
 
-- Leaders always make sure that there is communication such that the employees have a clear understanding of their job specification, understand their different tasks and if there is a grey area, they immediately call for help to get it solved.
+- Leaders always ensure that there is communication such that the employees clearly understand their job specifications and different tasks. If there is a grey area, they immediately call for help to solve it.
 
 - Employees under a leader will comply as a result of ownership, communication and accountability while the employees under a manager are compliant as a result of fear
 
-- Leaders have high performance teams because there is accountability, measurement and ownership, while managers have high maintenance teams that are working out of fear of being reprimanded/punished if they make mistakes.
+- Leaders have high-performance teams because there is accountability, measurement and ownership. In contrast, managers have high-maintenance teams working out of fear of being reprimanded/punished if they make mistakes.
 
 - Finally, in the words of Keith Cunningham, “the two most important phrases used by leaders are: Help me understand and What do you recommend?
 
 - sample conversations
 
 ```
-Patty, I think I owe you an apology. Apparently we have done a poor job of
+Patty, I think I owe you an apology. We have done a poor job of
 - Communicating what we want.
-- Making sure you own the cleanliness of the lobby.
-- Explaining why it is so important it be done a certain way.
+- Make sure you own the cleanliness of the lobby.
+- Explaining why it is so vital to be done a certain way.
 - Providing you with the training you need for how to keep it clean.
 - Tolerating what you have done in the past without giving you the appropriate coaching on how to do it better.
 
 I am very sorry.
 
-What we expect is for the lobby to be kept clean and tidy, which means the floors are continuously monitored, swept, and mopped, the loose newspapers are thrown out, and the customers' seats in the waiting area are clean and organized. This is not happening on a consistent basis and is obviously not happening right now.
-I am confused. Help me understand why I am seeing a mess in our lobby this morning. I know we have discussed this with you several times in the past, yet here it is again. Is the problem that
+We expect the lobby to be kept clean and tidy, which means the floors are continuously monitored, swept, and mopped, the loose newspapers are thrown out, and the customers' seats in the waiting area are clean and organized. This is not happening consistently and is not happening right now.
+I am confused. Help me understand why I am seeing a mess in our lobby this morning. We have discussed this with you several times, yet here it is again. Is the problem that
 - You don't understand what we want? 
 - You haven't been adequately trained?
-- You just don't care what the lobby looks like despite this being a critical part of your job?
-- We just got slammed with a bunch of customers and there hasn't been time to clean this up yet?
-- You don't understand the importance of this job and doing it the way we expect it to be done?
+- You don't care what the lobby looks like despite this being a critical part of your job?
+- We just got slammed with many customers, and there hasn't been time to clean this up yet.
+- You don't understand the importance of this job and doing it how we expect it to be done?
 - You don't own your job and are unaware of the consequences of not doing the job you were hired to do?
 
 Help me understand why this problem doesn't get fixed and stay fixed.
 ```
 
 ```
-Patty, you have a job here. To keep your job, you must do the work. The job and the work, hand go in hand. It has now reached the point that it feels like we are begging you to do the work, which makes no sense because you never have to beg me for your paycheck. Neither one of us wants to beg, and neither of us should have to. You are a smart woman; you understand what we expect. But, for some reason it isn't getting done consistently.
+Patty, you have a job here. To keep your job, you must do the work. The job and the work, go hand in hand. It has now reached the point that it feels like we are begging you to do the work, which makes no sense because you never have to beg me for your paycheck. Neither of us wants to beg, and neither should have to. You are an intelligent woman; you understand what we expect. But, for some reason, it isn't getting done consistently.
 Here is what I know: When my effort to help you get better exceeds your effort to get better, this stops working for both of us.
-It seems to me the problem might have something to do with what you believe. For this to continue to be a topic of conversation, maybe you hear what we want but mistakenly believe what we are requesting is optional. Perhaps you believe we are just kidding when we tell you keeping the lobby picked up and clean is part of your job. You might believe we will not notice or, if we do notice, maybe you believe we will not say anything. You might believe you can avoid doing your job and we will pay you anyway, or even give you a raise for not doing your job. Maybe you believe that you can keep your job but not do the work.
+It seems the problem might have something to do with what you believe. For this to continue to be a topic of conversation, maybe you hear what we want but mistakenly believe what we are requesting is optional. Perhaps you believe we are just kidding when we tell you keeping the lobby picked up, and clean is part of your job. You might believe we will not notice or, if we do notice, maybe you believe we will not say anything. You might believe you can avoid doing your job and we will pay you anyway, or even raise you for not doing your job. Maybe you believe that you can keep your job but not do the work.
 Help me understand what you believe about this.
 ```
 - **Thinking Time**
 
-  - Where have I done a poor job of posting the speed limit (explicitly stating expectations, deliverables, and outcomes)?
+  - Where have I posted the speed limit poorly (explicitly stating expectations, deliverables, and outcomes)?
   - Who are the people in my organization that seem to require repeat conversations about the same issue?
-  - What is the "belief coaching" they need to get clarity around the correct beliefs that will enable them to do and keep their job?
+  - What is the "belief coaching" they need to clarify the correct beliefs that will enable them to do and keep their job?
   - What is the deliverable that is missing?
-  - what is the outcome I want that isn't being delivered?
+  - What is the outcome I want that isn't being delivered?
   - Where am I frustrated because an employee is not performing at the standard I expect (and set)?
   - Is the problem that I haven't set a clear standard?
   - Is the problem a lack of specificity about what I want it to look like? A lack of training? A lack of consistent coaching (calling it tight) when the problem arises? A lack of understanding about why this is important and why it needs to be done correctly every time?
   - Where have I created (or tolerated) a culture of mediocrity, an absence of accountability, a fear of saying what needs to be said, and an inattention to results, measurements, and periodic correction? 
-  - What is the belief my employees must have for this problem to persist and what belief needs to be substituted for my employee to excel?
+  - What belief must my employees have for this problem to persist and what belief needs to be substituted for my employee to excel?
   - Who needs to get an apology from me? 
-  - What is the coaching I need to deliver to make sure the problem gets fixed and stays that way?
+  - What coaching do I need to deliver to ensure the problem gets fixed and stays that way?
 
 # OPPORTUNITY WITHOUT STRUCTURE IS...
 
@@ -583,74 +590,76 @@ Help me understand what you believe about this.
 - The price of entrepreneurial success is discipline and structure. Keith Cunningham put it very well, “Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.”
 - Keith Cunningham defines Structure as designing, planning, and constructing the skeleton of the business so there is a foundation and support configuration to enable the business to profitably take advantage of the opportunities available.
 - your business needs that structure to give it foundation, support and most importantly sustainable growth.
-- It stems from your core values, core focus and culture as the foundation and then the structure is built. It includes hiring right, to putting systems and processes in place, designing the machine (solution) or even the engine of the machine. Anything that puts some form of order and allows things to run smoothly is what makes up structure.
-- Structure is what transcends you from working in your business to working on your business. It gives you the leverage to have a bird’s eye view of the business. In other words, it takes you from being an operator in the business to a business owner. It is structure that give you that leverage. Without it comes excess fatigue and frustration that in turn affects your customers and then takes your business on a steady decline.
-- To end this, I would like to borrow Keith’s words that says: “Success is not an accident. Sustainable business success requires leverage, and one of the most critical forms of leverage available to a business Owner is the leverage of structure.”
+- It stems from your core values, core focus and culture as the foundation and then the structure is built. It includes hiring right, putting systems and processes in place, designing the machine (solution) or even the engine of the machine. Anything that puts some form of order and allows things to run smoothly is what makes up structure.
+- Structure is what transcends you from working in your business to working on your business. It gives you the leverage to have a bird’s eye view of the business. In other words, it takes you from being an operator in the business to a business owner. It is a structure that gives you that leverage. Without it comes excess fatigue and frustration that in turn affects your customers and then takes your business on a steady decline.
+- To end this, I would like to borrow Keith’s words that say: “Success is not an accident. Sustainable business success requires leverage, and one of the most critical forms of leverage available to a business Owner is the leverage of structure.”
 
 - **Thinking Time**
   - What is the structure we need to create the progress I want?
   - What are the missing structural components required to produce consistent execution on our critical drivers?
-  - When I look at my business, where are the opportunities for me to tighten up structure, processes, and efficiency of what gets done?
+  - When I look at my business, where are the opportunities for me to tighten up the structure, processes, and efficiency of what gets done?
   - Where do we have disorganization, inconsistent execution, slippage, and chaos?
   - What are the obvious choke points in my business that continue to strangle the smooth operational flow of serving customers and supporting the back office?
   - What specifically needs to happen to put some structure into place to address the turmoil?
   - Is there an opportunity to hire someone (even part-time) to help fill some of our gaps or to support us in getting a process in place?
   - What needs to happen to the workflow, back office, accounting, and support processes so my business functions smoothly and efficiently?
-  - Where is the structure of my calendar slipping that is preventing me from taking consistent action on my major initiatives?
+  - Where is the structure of my calendar slipping preventing me from taking consistent action on my significant initiatives?
 
 # MANN GULCH
+
 - When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old "right" way might seem like a good idea, but it can frequently be deadly.
-- New circumstances always require new skills and tools, fresh training, innovative solutions, superior team members. The alternative (relying on past answers) is often a prescription for suffering and failure to survive.
+- New circumstances always require new skills and tools, fresh training, innovative solutions, and superior team members. The alternative (relying on past answers) is often a prescription for suffering and failure to survive.
 - Sometimes the problem we started out to solve mutates. If we miss the shift, we will try to solve the new problem using solutions for the old problem. Chances are, those old solutions for the previous problem are useless.
-- These three men realized that this standing rule to carry all the tools and backpack wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
+- These three men realized that this standing rule to carry all the tools and backpacks wouldn’t keep them alive, but would rather meet their death if they didn’t think of another solution.
 - One of the three men called Dodge used a technique called “escape fire” used by Indians when faced with similar challenges. Sometimes the solution you seek is not in what you have been taught by the books but by reason of expanding your horizon and a willingness to constantly improve yourself.
 - These three noticed that the problem had mutated and they needed to think outside the box to survive.
-- To end this, I would like to borrow a statement form Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly."
+- To end this, I would like to borrow a statement from Keith “When the environment radically changes and you are confronted with moments of uncertainty and danger, clinging to the old “right” way might seem like a good idea, but it can frequently be deadly."
 
 - **Thinking Time**
   - What is the real problem I am facing and exactly how is this problem different from the one I thought I had? Or used to have? • What are the poleaxes, shovels, and backpacks I've been lugging around that are no longer useful in helping me solve my immediate problem?
   - What are the tired, worn-out strategies and plans that are no longer supporting us to solve the problem we face?
-  - What are the existing models of behavior we need to drop because they no longer work?
+  - What are the existing models of behaviour we need to drop because they no longer work?
   - What existing knowledge, training, or experience needs to be abandoned?
   - What are the new, fresh ideas and solutions we need to create to get us past this
   problem and back on track to our desired outcomes?
   - Survivors and successful people are always learning, innovating, and adjusting. If this statement is true, what do we need to learn and where do we need to adjust our performance to succeed?
-  - Who around me is screaming an alternative solution, but I am ignoring them because I don't see the problem or the need to shift strategies?
+  - Who around me is screaming for an alternative solution, but I am ignoring them because I don't see the problem or the need to shift strategies?
   - Under the broad heading "What got me here won't get me there," who do I need on my team, who is excess baggage slowing me down, and what do we need to start doing differently?
 
+
 # DREAMS AND DEMAND
-  - When it comes to goals, far too much emphasis is placed on visualizing Oz and not enough on designing and constructing the yellow brick road. Goals are not plans. Goals are ideas, and few things are dumber than executing on an idea with no plan or planning.
-  - About the stupidest thing management can do is to announce some lofty goal for the year ("Our revenue target is $6,000,000 this year.") without any thought about the working plan to attain it.
+  - When it comes to goals, far too much emphasis is placed on visualizing Oz and not enough on designing and constructing the yellow brick road. Goals are not plans. Goals are ideas; few things are dumber than executing an idea without strategy or planning.
+  - The stupidest thing management can do is to announce some lofty goal for the year ("Our revenue target is $6,000,000 this year.") without any thought about the working plan to attain it.
   - One of the hardest parts of designing the journey is being sober about reality and painstakingly honest about your current situation. Psychiatric hospitals are filled with people who are delusional about reality.
   - my life works to the degree I keep my commitments.
-  - Don't let your obsession with the dream get in the way of noticing the demand. Or as my friends on Wall Street say, "When the duck quacks, feed it."
-  - Being aware of the most common misconceptions and goal setting mistakes will help you avoid these pitfalls and minimize the likelihood of sabotaging the attainment of your desired outcomes.
-    - The goal setter's focus is exclusively on the goal (Point B). Rarely is consideration given to the reality of where you are (Point A). In fact, one of the hardest parts of designing the journey is being sober about reality and painstakingly honest about your current situation.
-    - The goal is typically little more than wishful thinking. So, we chant the magic goal-setting words with the expectation that this psychobabble verbal wizardry will create the desired outcome, even though there is no specific path, metrics, or specific, executable plan to achieve it. By tracking your effort you will immediately know whether your goals are really goals or simply fantasies.
-    - The goal is not structured as a nonnegotiable but rather as a hope. We would all be better off if we had fewer goals and more standards. If the thing you want is important enough to set as a goal, why not make its attainment a nonnegotiable standard (a "must") instead of a desirable aspiration (a "should"-thank you, Tony Robbins). When you boil it down, a should means doing the best you can; a must means doing whatever it takes. Said a different way: You get what you tolerate. .The vast majority of my goal-setting friends stumble at the beginning of the process because of a desire to dabble rather than burn the ships and commit. The emotional tug of continuing the search for an easier path or an early exit is hard to resist. My life works to the degree I keep my commitments.
-    - The goal setter rarely has accountability on either the execution of the critical drivers required to move toward the goal or the ultimate attainment of it. This explains why the typical goal setter makes the same goals year after year. No one to hold them accountable.
-    - Goal setters tend to fall in love with the goal instead of falling in love with the things that need to be done to accomplish the goal. In other words, they fall in love with the effect (goal) instead of the cause (critical drivers). If the critical driver for goal achievement were to want it bad enough or to visualize rays of sunshine emanating from your head, the human race would be rich, in a loving relationship and in great physical shape.
-    - Often the goal setter compares her business to her friends' or competitors' to decide what goal to set, or she finds what's wrong and fantasizes about what the business would be like if she was there and not here. In other words, this type of goal setting makes where she is bad (wrong) and what she wants good (right). Being critical or judgmental about your current conditions is a guaranteed way to create massive unhappiness. What I am suggesting is that a dose of gratitude be injected into the process, because everything is not "bad" We all have a long list of things to be grateful for. Never say, "It can't get any worse," because it can get a lot worse. I love H. Ross Perot's definition of an entrepreneur: "Someone who is grateful for the progress that has been made and simultaneously dissatisfied with the rate they are making it."
-    - We know that having clarity on both Point A and Point B is critical to success. We also know that overcoming some obstacle that is preventing attainment of this outcome is fundamental to success. Amazon has been particularly adept at walking this fine line with its willingness to invest, make mistakes, learn, and adjust to match the demand in the market.
+  - Don't let your obsession with the dream get in the way of noticing the demand. Or, as my friends on Wall Street say, "When the duck quacks, feed it."
+  - Being aware of the most common misconceptions and goal-setting mistakes will help you avoid these pitfalls and minimize the likelihood of sabotaging the attainment of your desired outcomes.
+    - The goal setter focuses exclusively on the goal (Point B). Rarely is consideration given to the reality of where you are (Point A). One of the hardest parts of designing the journey is being sober about reality and painstakingly honest about your current situation.
+    - The goal is typically little more than wishful thinking. So, we chant the magic goal-setting words with the expectation that this psychobabble verbal wizardry will create the desired outcome, even though there is no specific path, metrics, or specific, executable plan to achieve it. You will immediately know whether your goals are goals or simply fantasies by tracking your effort.
+    - The goal is not structured as a nonnegotiable but rather as a hope. We would all be better off having fewer goals and more standards. If the thing you want is important enough to set as a goal, why not make its attainment a nonnegotiable standard (a "must") instead of a desirable aspiration (a "should"-thank you, Tony Robbins)? When you boil it down, a should means doing your best; a must means doing whatever it takes. Said a different way: You get what you tolerate. Most of my goal-setting friends stumble at the beginning of the process because of a desire to dabble rather than burn the ships and commit. The emotional tug of continuing searching for an easier path or an early exit is hard to resist. My life works to the degree I keep my commitments.
+    - The goal setter rarely has accountability on either the execution of the critical drivers required to move toward the goal or the ultimate attainment of it. This explains why the typical goal-setter makes the same goals year after year. No one to hold them accountable.
+    - Goal setters tend to fall in love with the goal instead of falling in love with the things that need to be done to accomplish the goal. In other words, they fall in love with the effect (goal) instead of the cause (critical drivers). If the critical driver for goal achievement were to want it bad enough or to visualize rays of sunshine emanating from your head, the human race would be rich, in a loving relationship and great physical shape.
+    - Often, the goal setter compares her business to her friends' or competitors' to decide what goal to set, or she finds what's wrong and fantasizes about what the business would be like if she was there and not here. In other words, this type of goal setting makes what she wants bad (wrong) and good (right). Being critical or judgmental about your current conditions is guaranteed to create massive unhappiness. I suggest that gratitude be injected into the process because everything is not "bad." We all have a long list of things to be grateful for. Never say, "It can't get any worse," because it can worsen. I love H. Ross Perot defines an entrepreneur as "Someone who is grateful for the progress that has been made and simultaneously dissatisfied with the rate they are making it."
+    - We know that clarity on points A and B is critical to success. We also know that overcoming some obstacles preventing the attainment of this outcome is fundamental to success. Amazon has been particularly adept at walking this fine line with its willingness to invest, make mistakes, learn, and adjust to match the demand in the market.
 
   - Take a look at where you are in your life today. Chances are these three things are true:
-    - 1. Where you are today is beyond your wildest dreams compared to what you thought was possible when you were eighteen years old.
-    - 2. The route you took to get here was totally unpredictable from your vantage point as an eighteen-year-old.
+    - 1. Where you are today is beyond your wildest dreams compared to what you thought was possible when you were eighteen.
+    - 2. The route you took to get here was unpredictable from your vantage point as an eighteen-year-old.
     - 3. The path that got you here was anything but linear or planned. If your life even remotely resembles mine, your path to this point is the most convoluted and tortuous route imaginable. Yet, here I am!
 
 - **Thinking Time**
-  - When I think about the outcomes (goals) we have set for the coming quarter or year, where do I need to get clarity about my starting point in terms of environment, resources, competition, etc.?
-  - Who can I ask to help me think through our reality so that I minimize the likelihood of tricking myself about our starting point or current capabilities?
-  - What is the specific path/plan we have designed to move us from here to there, and what additional color or specificity do I need to add to this path to make it executable?
+  - When I think about the outcomes (goals) we have set for the coming quarter or year, where do I need clarity about my starting point regarding environment, resources, competition, etc.?
+  - Who can I ask to help me think through our reality to minimize the likelihood of tricking myself about our starting point or current capabilities?
+  - What is the specific path/plan we have designed to move us from here to there, and what additional colour or specificity do I need to add to this path to make it executable?
   - What would it take to transition our plans from "shoulds" (wouldn't it be nice if...) to "musts" (failure is not an option)?
   - What are the hard decisions and actions I have been postponing in the irrational hope I can "goal" it away?
-  - What are the nonnegotiable standards we must establish?
-  - What am I tolerating in my business that is sabotaging my results or that is incongruent with my standards?
+  - What are the non-negotiable standards we must establish?
+  - What am I tolerating in my business that is sabotaging my results or incongruent with my standards?
   - How do we build in the accountability required for the critical driver standards and outcomes we have committed to achieving?
-  - What is the specificity I need to add to our plan so that everyone on the team has a clear, measurable metric (target) they are shooting for? 
+  - What specificity do I need to add to our plan so everyone on the team has a clear, measurable metric (target) they are shooting for?
   - What are the specific causes I must identify that will enable the effect I want to happen?
-  - What have we done well and what am I grateful for?
-  - What are the unexpected opportunities that are being presented that might move us in the direction we want but don't look the way we thought they would look? (Where is there a gaggle of quacking ducks?)
+  - What have we done well, and what am I grateful for?
+  - What unexpected opportunities are being presented that might move us in the direction we want but don't look the way we thought they would look? (Where is there a gaggle of quacking ducks?)
 
 
 # THE BIG 8

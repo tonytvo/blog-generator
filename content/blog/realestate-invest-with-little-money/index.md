@@ -24,6 +24,11 @@ tags: ["realestateinvesting", "financialindependence"]
 
 - The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
 
+- what would you do if you were stripped of all of your assets and only have $100 to start over?
+  - spend the money on dozen of doughnuts, then go to a Goodwill store and buy a bike.
+  - then I would bike over to a title company or closing attorney and ask for a free list of pre-foreclosure homes. I'd use the last bit of money for a burner phone and then get to work knocking on doors, collecting leads, and making calls.
+  - I would knock on at least 20 doors a day. After about a hundred doors, I would get a contract. Once I found out the seller's situation. I could do wholesale, creative finance, subject-to, or lease option.
+
 - In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.
   - Homeowners get lower, fixed interest rates.
   - Homeowners can qualify with lower credit scores.
@@ -271,52 +276,162 @@ tags: ["realestateinvesting", "financialindependence"]
 
 # raising private money to fund your deals
 
-- The best thing about attending a meetup or a mastermind group is that you meet other investors. 
+- **Prerequisites before you start raising money**
+  - **Get educated**
+    - **The Real Estate Transaction**: Who is involved? Order of operations. Learn the jargon.  
+    - **Negotiation**: Be creative. Solve problems. Prepare more than the other side.
+    - **Accounting & Finance**: Know your numbers. Measure twice, cut once. Learn how to create a ProForma from scratch. 
+
+  - **Develop a track record**
+    - Get some transactions under your belt. As a realtor, wholesaler, or investor. Become known as a “closer”. 
  
-- One way to get started investing in real estate is through the multifamily rental business, by way of syndication. This involves raising capital by selling equity or debt to passive investors, who contribute cash and entrust you with their money in exchange for a share of the profits and the tax benefits of depreciation. 
+  - **Take personal inventory** - (time, money, skills, goals, your "why")
+    - **Self-Awareness**: Be honest about what you bring to the table. Partner with people whose skill set is complementary. 
+
+  - **create a business plan**- (strategy, market analysis, team)
+    - Don’t just analyze a property, analyze the market. What’s the value add plan? What’s the exit plan? Who is on your team? Who is doing what?
+    - When presenting deals to potential cash providers, under-promise and over-deliver. After closing on a deal, make sure to over-communicate with your cash providers and fellow investors.
+
+- **cash source**
+  - **Retirement Accounts**
+    - People who used to have a high-paying job with a reputable company that most likely had a 401(k) program-even better if there was a company match. These people can't work for that company anymore.
+    - The self-employed, like doctors, attorneys, CPAs, and others who don't work for a big company but may have their own IRA program in-house Those who have retired from the workforce but worked for a good company in the past
+  - **Real Estate Equity**
+    - People who have lived in their house for more than fifteen years
+    - Homeowners who purchased between 2009 and 2011
+    - Anyone with a vacation home
+    - Businesses that own the buildings they occupy
+  - **Cash**
+    - Those who live well below their means
+    - High-income W-2 earners
+    - People who seem to already be investing in passive-income-producing assets
+    - Recent recipients of an inheritance
+
+- **where to find cash**
+  - ![cash provider pyramid](./cash-provider-pyramid.png)
+  - **Tier 1 – Core Group:** People who already know, like, and trust you. 
+    - **making your master list**
+      - Step No. 1 - Write down the following headers:
+        - Friends
+        - Family
+        - Neighbors/neighborhood (this includes stores and restaurants you always go to) . Coworkers
+        - College/graduate school alumni Groups and organizations you are member of, such as:
+          - Business networking organizations 
+          - Volunteer/philanthropic groups 
+          - Religious groups
+          - Social groups
+          - Real estate organizations
+      - Step No. 2 - I want you to think about people in each of these groups who may fit the profile to be a Cash Provider for your business. Who would be a good source of IRA investment capital? Who may own their home free and clear? Who are the big savers in each of these circles? Write down the names of the people you aren't comfortable approaching right now because as you grow, you can circle back to them.
+      - Step No. 3 - For each column, write down the person's name, the suspected source of capital, and any pertinent notes you have on why they would be a good source. Go through all your contacts. Your family, classmates from the past, the owner of the restaurant you like to go to- everyone. You probably know more people than you think you do. You may want to try surfing your social media contacts to jog your memory.
+
+  - **Tier 2 – Referrals:** Ask each existing cash provider if they can refer two investors that might be interested in becoming a cash provider for you.
+    - organize your contacts and create a process for staying in touch consistent with these individuals
+    - 😨 **Conquer Fear of Asking For Money:** These people are not investing as a favor to you. This is an opportunity for them. 
+      - You can help them build their wealth while you build your business. In today’s investment world, where the value of a stock can drop 20% because of one tweet, they need you!
+
+    - 📰 **Create a Newsletter:** 
+      - Send a brief update about once per month highlighting case studies, pipeline, new opportunities, and most importantly tips and tricks of the trade. Become a resource. 
+
+    - 📒 **Create a Track Record Document:** 
+      - Share the details of past projects. 
+      - Try to have before and after pictures and a summary of the financials for each project.
+
+  - **Tier 3 – Taking it Public:** Social Media, Podcasting, Real Estate Investment Association Meetings, etc.
+    - The best thing about attending a meetup or a mastermind group is that you meet other investors. 
+    - finding lenders via public records (such as county public records)
+    - finding lenders online
+      - do your due diligence before using the lenders from the websites.
+    - expanding your network
+    - 🤔 **Become a Thought Leader**: 
+      - Build a megaphone.
+        - repost real estate articles to medium, biggerpockets, reddit
+        - guest spots on real estate related podcast, youtube channels 
+      - Broadcast your thoughts on business, share success stories, and caution investors through lessons learned over time. 
+      - Start your own (or be a guest on a) YouTube channel, podcast, blog. 
+      - You can also try to speak at an event. 
+    - other outlet to broadcast yourself such as blog, podcast
+    - speaking opportunities
+    - crowd funding
+    - private equity fund and equity brokers
+
+  - **syndication**
+    - One way to get started investing in real estate is through the multifamily rental business, by way of syndication. This involves raising capital by selling equity or debt to passive investors, who contribute cash and entrust you with their money in exchange for a share of the profits and the tax benefits of depreciation. 
  
-- The most common misconception about syndication is that it is overly complicated, requires extensive paperwork, and is best left to legal experts. But in reality, it is not your job to understand every law and regulation, but to put the pieces of the syndication puzzle together. 
+    - The most common misconception about syndication is that it is overly complicated, requires extensive paperwork, and is best left to legal experts. But in reality, it is not your job to understand every law and regulation, but to put the pieces of the syndication puzzle together. 
  
-- The structure of a syndication is different from that of a limited partnership or corporation. There are two types of partners in a syndication: general partners who organize the deal and oversee the  entire process, and limited partners who contribute money to close and execute the plan. In return, they receive a share of the profits and tax benefits associated with the investment property's depreciation. 
+    - The structure of a syndication is different from that of a limited partnership or corporation. There are two types of partners in a syndication: general partners who organize the deal and oversee the  entire process, and limited partners who contribute money to close and execute the plan. In return, they receive a share of the profits and tax benefits associated with the investment property's depreciation. 
  
-- The main goal of a real estate investment partnership is to raise money to buy or build a property. The process of raising capital involves distributing a percentage of the total partnership equity to the investor who brought the capital into the partnership. 
- 
-- It is important to distinguish between capital raiseers and issuers. A capital raiser is a person or company that raises capital for a project, while an issuer is the entity that is raising capital. 
- 
-- Lenders are not personally liable for the actions of the borrower, as long as they follow the terms of the loan. This makes them very suitable for investors looking to put their money into real estate. 
- 
+    - It is important to distinguish between capital raiseers and issuers. A capital raiser is a person or company that raises capital for a project, while an issuer is the entity that is raising capital.
+    - A syndication under Rule 506(b) allows you to raise an unlimited amount of money, provided that you don't publicize the offering or solicit investors. You must, however, have a reasonable belief that the investor is accredited. 
+    - The main fees that a general partner in a syndication will charge are the acquisition fee, the finance/refinance fee, the asset management fee, and the disposition fee. 
+   - As an alternative to individual projects, syndicates allow you to raise money for several projects at once. The advantages of a fund are the same as for individual projects, but the fund also diversifies single-asset risk for the LPs. 
+
+- **How to turn potential into reality**
+  - Most common cash provider questions:
+    - How/when am I going to get my money back? - (SDIRA - will be deposited into your SDIRA at end of term, with interest. Reg loan - in bank account with interest. at end of term defined)
+    - What are the risks? housing crash (we use 75% before ARV rule to value deals). tenant not paying (experienced property manager, share screens that we use to screen tenants and a track record. Also a worst case scenario plan)
+    - How much of your own money are you putting in? 
+    - What if I need my money back? 
+      - real estate isn't liquid, define loan terms in the promissory note, when the term is up. alternatively they can have someone else buy their note. Make sure they aren't investing every last dime they own. 
+    - How does this affect my income taxes? - they will get 1099 from us for the interest on the loan, and a K-1 for a partnership deal. Educate on capital gains, find ways for them to beat taxes.
+
+- **How to structure the private loan deal**
+  - Deciding the terms of the loan: 
+    - Who is lending the money and where is it coming from?
+    - What's the deal? - 
+    - How quickly do I need to close? 
+    - How much construction is involves? 
+      - need timeline, want to negotiate a construction draw program with lender to lower interest.
+      - Construction draw program: 
+        - Basically just a tiered investment based on milestones reached on the project vs just 1 big lump sum in the beginning. 
+        - money should be available on short notice, within a week. 
+        - mitigates risk for the cash provider 
+  
+  - **Private loan pitfalls:**
+    - loan origination points and fees for renewal - 1 point = 1% of loan principal. renewal fee is usually .5-1% if you don't pay back on time. 
+    - monthly payments on fix and flips - eat into cash flow, avoid
+    - prepayment penalties and guaranteed minimums - fee if you sell or refinance a property before a certain date, always avoid. Guaranteed minimum returns aren't bad idea to sweeten deal for investors & give them a floor. 
+  
+  - Documents for setting up a private loan:
+    - Promissory Note - defines interest, maturity date, alt fees, etc. Defines what happens if late repayment, default. Original copy held by cash provider, copy held by deal provider. Collect original copy at the end with the words "paid in full" on it. 
+    - Mortgage security document (deed of trust) - Document creates a lien (investor claim) on the property. Means that property owner cannot resell or refinance property without lenders permission. Lender can begin foreclosure if promissory note loan defaults. 
+    - Personal Guarantee - holds borrower personally liable for loan. 
+    - Deed in lieu of foreclosure - Means that ownership of the property immediately goes to lender if the loan goes into default.
+
+- 📊 **The Pitch Meeting:** 
+  - Face-to-Face is always best. A Zoom call is a close second. A phone call should be the last resort. 
+  - Do NOT ask someone for a substantial amount of money through email or text, unless you’re sure the answer is unequivocally going to be, “Yes!” 
+  - We have two ears and one mouth for a reason. Listen more, talk less. Seek first to understand, then be understood.
+  - Let them tell you if they’re more likely to be a debt investor or equity investor. Understand their goals and the “why” behind their investment thesis. 
+
+  - Buzzwords for Private Money Lenders: Income & Security.
+  - Buzzwords for Equity Investors: Tax Benefits, Alternatives Investments, [Generational] Wealth-Building.
+  - **Be prepared to answer the following questions:**
+    - When do I get my money back?
+    - What are the risks?
+    - How much of your own money are you putting into this deal?
+    - What if I need my money back sooner?
+    - How will this affect my income taxes?
+    - What are the logistics?
+
+  - **Be prepared to share the following data:**
+    - Personal / Business Goals
+    - Why you’re doing this
+    - Track Record
+    - Deal Analysis
+    - You will need to prepare a summary of the investment that you are making. This should include an overview of the property and the market, a summary of financial information, your exit strategy, and the team you are putting together. 
+    - What’s in it For Them?
+    - When raising capital, the most common question from prospective investors is whether you are investing your own money and how much. You must be prepared to answer this question or else risk losing the deal. 
+
+
 - There are several ways to raise capital other than through an IPO, such as through an RBO, a REIT, a REIT-I, a PIPE, a BRRRR, a VCT, or a C corp. The most appropriate method for you to raise capital depends on your objectives and the availability of suitable investment opportunities. 
- 
-- A syndication under Rule 506(b) allows you to raise an unlimited amount of money, provided that you don't publicize the offering or solicit investors. You must, however, have a reasonable belief that the investor is accredited. 
  
 - Cash-only deals can be problematic because they require more work from the investor, who may be less willing to invest if they don’t have the money right away. 
  
 - 506(c) offerings are restricted to accredited investors, but have several advantages over 506(b)s, such as the ability to advertise or generally solicit the offering publicly, which can help you reach  new investors and raise more capital. 
- 
-- The Regulation A (Reg A) is a little more complicated and less used than the other options, but it has the advantage of being able to market the offering broadly to nonaccredited investors. The only caveat is that you must file a statement with the SEC for review and approval before going ahead with the offering. 
- 
-- While you can advertise your fund and accept investments from non-accredited investors, their investments are limited to 10 percent of their annual income or net worth, whichever is greater. 
- 
-- The main fees that a general partner in a syndication will charge are the acquisition fee, the finance/refi-nance fee, the asset management fee, and the disposition fee. 
- 
-- As an alternative to individual projects, syndicates allow you to raise money for several projects at once. The advantages of a fund are the same as for individual projects, but the fund also diversifies single-asset risk for the LPs. 
- 
-- You will need to prepare a summary of the investment that you are making. This should include an overview of the property and the market, a summary of financial information, your exit strategy, and the team you are putting together. 
- 
+  
 - The Private Placement Memorandum is a comprehensive document that details the risks involved in your deal, as well as provide a wide array of information and disclosures to prospective investors. The PPM should be drafted by a qualified securities attorney to ensure compliance and protect you from liability. 
- 
-- The main difference between a flip and a rental is that in the former case, the investor acquires an asset, sells it, and then pockets the profits. With a rental, the investor rents an asset, retains  control of it, and then pockets the profits. 
- 
-- The first step in raising capital is to overcome your fear of sales, which stems from your lack of confidence. You will need to understand what motivates investors to lend or invest in order to secure money. 
- 
-- The first step towards raising private capital is to find investors who are willing to preserve and generate wealth through real estate. You won't know who's interested in your offer until you start discussing real estate and letting people know about the opportunities that exist thanks to your diligence and drive. 
- 
-- The first place to look for potential lenders is within your inner circle of contacts. Once you've established trust with them, you can begin expanding your circle of contacts to people who will trust you with their money. 
- 
-- Before you approach anyone about investing in your deal, explain your situation and explain how the investment will work. If they seem interested, ask if they would like to go through a sample deal with you to see what it looks like, and if so, how can you help them. 
- 
-- When raising capital, the most common question from prospective investors is whether you are investing your own money and how much. You must be prepared to answer this question or else risk losing the deal. 
- 
+      
 - Keeping a record of your conversations with potential investors is crucial. There are numerous CRM solutions available to help you with this, such as AppFolio, Investor Management Services, and SyndicationPro. 
  
 - When raising money for a multifamily property, working with a private equity firm can be advantageous. These are the large investors who have the capital to fund the acquisition of large apartment buildings. However, they also have considerable power, and can force you to make changes to your plans if they so choose. 
@@ -327,41 +442,25 @@ tags: ["realestateinvesting", "financialindependence"]
  
 - Raising private capital is a delicate balance between being approachable and not being a sell-out. It's crucial to have a positive relationship with your investors. 
  
-- The author was planning on buying a property that was under a Housing Assistance Payments contract, otherwise known as a HAP contract. However, he ran into issues with the government, who were going to have to approve the contract extension he was working on.
-
-- Private money is money provided by nonprofessional lenders to fund your real estate deals. It can be used for short-term or long-term investments, and the rates and terms will depend on the lender and the property. 
- 
-- Private money raising involves finding lenders who are willing to provide you with funds for your property investments. It is important to impress them with your personal brand and the strength of the deal. 
- 
-- Private money lenders are accessible if you search for them. Private money lenders are not insured by the government, and can therefore be rather risky, but they can also be very profitable. 
- 
-- Searching public records for lenders is a great way to find willing lenders. Although you can locate these people through the methods mentioned above, you can also take a more direct approach and locate them through public records. 
- 
+ - Private money lenders are accessible if you search for them. Private money lenders are not insured by the government, and can therefore be rather risky, but they can also be very profitable. 
+  
 - Networking is the process of building relationships with people to obtain business. You are not a salesman asking for money; you are a businessperson holding an opportunity. 
  
 - Networking is a crucial element in any real estate investor’s arsenal, and it can open up doors to many new clients and opportunities. 
  
 - Explain to the lender that these are investments, not sure bets, and that there is risk involved with any investment. However, as long as the lender gets their money back plus interest, they will make money. Furthermore, they will have a lien on the property that gives them full legal rights to seize the property if you break the agreement. 
  
-- Sharing your numbers with a potential lender helps build trust, especially if you have done your research and shown them the numbers. 
- 
 - Getting a private lender to agree to work with you on a deal is hard, since they are usually extremely conservative and only want to work with people they can trust. Once they commit, have them sign an agreement in writing. 
- 
-- Private money lenders can be a great resource for investors who don't want to rely on banks or other institutional lenders. However, not all private money lenders are created equal, and it is important to do your due diligence before contracting with any of them. 
  
 - Private money lenders, also known as bank lenders or institutional lenders, provide loans to individuals or companies that would not qualify for a conventional bank loan. Lenders provide loans from $25,000 to millions of dollars, and charge interest rates between 10% and 25%. 
  
 - Private money is used in three different ways: borrowed in the form of a private money loan, pooled in the form of a blind pool, and invested in the form of a one-off. 
  
-- The author calls the assets in a blind pool real estate, but defines it as no direct security, as there is in the case of a Loan. This implies that loans are not securities, but investments into the funds are. 
- 
-- The author likes to use a limited partnership to raise money for real estate investment because it is flexible and easy to manage. The investor is the owner of the company, and the manager is the general partner. 
+ - The author likes to use a limited partnership to raise money for real estate investment because it is flexible and easy to manage. The investor is the owner of the company, and the manager is the general partner. 
  
 - Having a full-time employee to recruit investors is a great strategy, but be prepared to offer different funds with richer profit shares to attract more investors. Some investors don't care about the return, they just want a larger share. 
  
 - Private investors are a great source of capital for a rehabber as they are willing to invest their money in a project with the expectation of getting it back after a year with a 10 to 15 percent return. They are also willing to loan money to other investors, which helps expand the pool of money available for purchase. 
- 
-- The biggest legal issue you may face when raising private money is soliciting for money, which is publicly asking for it. The laws surrounding this have become extremely strict in the past 80 years, and there are still a lot of gray areas that you must be aware of. 
  
 - Although using private money is a good approach to buy property, it has its risks, and it is not suitable for everyone. It requires a great deal of networking and dealing with personalities, and the rates may be higher than those you would get with a conventional bank.
 
@@ -447,6 +546,8 @@ tags: ["realestateinvesting", "financialindependence"]
   - 3) leveraging others, and 
   - 4) empowering others. 
  
+- before finding wholesale deals, you need to find the buyer first, as the buyer would be able to tell if the deal is a good deal or not.
+
 - The first step to becoming a successful wholesaler is to find great deals. The old adage of you make your money when you buy is true for the wholesaler. So how do you know what a great deal is. It all comes down to the math. 
  
 - To determine the price you should offer a seller, you need to know what the average ARV of the homes in your area are. To do so, you can use websites and mobile apps that provide that information. 
@@ -989,11 +1090,31 @@ multiplying the monthly rent by the number of days in the month. This is called 
  
 - The internal rate of return is the interest rate at which the project's cash flows equal the initial investment. It is a measure of the efficiency of a project's financing. The higher the IRR, the more efficient the financing. 
  
-- The last step in the BRRRR method is to conduct a stress test on the entire project, which involves checking how the project will perform if some of your key assumptions were incorrect. This allows you to identify any weaknesses in your underwriting and correct them before moving forward. 
- 
-- The author advises being conservative when underwriting a property, especially when doing so for the first time. However, he also advises that people should be aggressive, especially when they don’t have much experience. 
- 
-- The author acquired the Apartments at Madison Barracks, which was in terrible condition. The building needed repairs, and the land needed work as well. However, it had a lot of potential, and the apartments were merged, which allowed the team to increase its capacity by 12 percent.
+- The last step in the BRRRR method is to conduct a stress test on the entire project, which involves checking how the project will perform if some of your key assumptions were incorrect. This allows you to identify any weaknesses in your underwriting and correct them before moving forward.
+
+- **asking better questions**
+  - creative finance investors often haven't asked enough about their sellers. they are more focus on closing the deals than they are on figuring out what the situation is for the seller.
+  - typically the questions is asked about house price, year built, vacancy rate, seller's motivation, etc... Sometimes, the sellers will give you these information on the first call, most of the times, they won't. People are naturally a little closed off, especially when talking to strangers on the phone. The longer you talk the more information you likely to gather.
+  - "catch me up to speed with everything". This is for the seller to present information so I can figure out whether I can help them.
+  - it's possible for the seller to say the exact opposite of what they told previously simply because they put up walls during a phone conversations; those walls tend to come down when you're face to face with a person
+
+- **common questions sellers ask**
+  - is it risky to have multiple loans?
+    - it doesn't matter if you have 2 loans, it matters if you're responsible for those loans
+  - what happens if the creative finance investors stop payment and the loan is still in the seller's name"
+    - that would be the best thing that could happen to the seller, as the seller would get the house back, even after the investor paid for the arrears, paid closing costs and put some cash in the pockets of the sellers.
+    - the seller and buyer will sign a piece of paper called a performance deed if the buyer don't perform or the investor is 30 days behind, the seller automatically get the deed back.
+  - is subject-to legal?
+    - yes, it's legal
+  - what happens if the market crash? where the investor owe the bank more than what the house worth?
+    - the investor don't buy the house based on the value of the house, but based on the cash flow it represents.
+    - the thing about 2008 (great financial crisis) is that even though the market crashed, the rental rates went up. The rental rates in the country haven't gone down in 30 years.
+  - what if the investor die or get abducted by aliens?
+    - the answer for this is performance deed again
+  - can the seller buy the house back from the investor?
+    - rarely, but most people don't want it back when the times come
+  - if the investor buy the house, can the seller stay in the house and rent it from the investor/buyer?
+    - no, because the rent is typically will be higher so the investor/buyer can make profit 
 
 # multifamily millionaire model
 
@@ -1089,6 +1210,19 @@ multiplying the monthly rent by the number of days in the month. This is called 
 
 # strategy for finding great deals
 
+- search for deals on MLS that has the following keywords:
+  - "cash only", "property sold as is", "bring all offers", "no reasonable offer refused"
+
+- try to get on the phone with the seller, you will discover all sorts of situations. The seller could be:
+  - moving out of the area.
+  - dealing with a life-changing moment, like the death of a loved one or a divorce.
+  - a tired landlord, and the property has been sitting vacant or they just no longer want to deal with the maintenance.
+  - wanting to downsize or move to a warmer climate
+  - just not wanting to do all the work required to make the home livable or rentable.
+  - threatened with a foreclosure
+  - wanting to get rid of a property they inherited and don't want.
+  - trying to invest elsewhere.
+
 - Everything is a funnel. If you’re a regular listener to The BiggerPockets Podcast, you’ve probably heard the host, Brian, say this phrase numerous times. It is the fundamental truth that drives nearly everything successful in life. 
  
 - The good thing about the top of the funnel is that it weeds out the bad leads immediately, saving you time and resources. However, it does not give you much information on the quality of the leads you’re getting. 
@@ -1174,16 +1308,34 @@ multifamily business, as each one will have different connections and sources.
 # underwriting
 
 - The final stage of a deal is to underwrite it. This entails thoroughly screening the property, the team behind it, and the investors who will be financing it. It is important to avoid retrading a deal, which can severely damage your reputation. The underwriting process should make such occurrences unnecessary. 
- 
+
+- step by step underwriting
+  - gather up all the information you need to see if you can make this deal work. This includes: 
+    - the ARV, the mortgage balance, the PITI, the rent rate, whether or not there is cashflow, ask yourself if the entry fee is a deal killer or not (outrageous down payment)
+    - The underwriting process involves obtaining information about a property which is crucial for making an informed lending decision. The information provided in the underwriting stage is usually limited, so verify everything. 
+    - Obtain as much information about the property as possible before making an offer. This will help you with your underwriting and valuation, as well as assist with the purchase negotiations.
+    - The location of a property is one of the most important factors when buying a house. It is important to look at the local economy, as well as the area's desirability, when making your decision. 
+    - The best way to get a feel for a neighborhood is by visiting it in person. You can gather intelligence on the area by speaking to local residents, checking out the crime rate, and taking note of any unusual activity. 
+    - The income section of the rehabbing spreadsheet allows you to compare the property’s current and projected income. You can then use this data to determine if the property is worth rehabbing or not. 
+    - The first step in calculating the ARV of a multifamily property is to determine the gross potential rent, which is the maximum amount of money the property can generate. The GPR is calculated by multiplying the average rent of all units in a property by the number of units. 
+    - The Gross Rent Ratio, or GPR, is the most important number in the BRRRR approach and is calculated by dividing the gross rent by the total square footage.
+  - analyze the entry fees
+    - the entry fee is made up of 7 parts (cash to the seller, the arrears/late payment/liens, the cost of acquisition, the closing costs, the renovation costs). is there any wiggle rooms in the entry fee?
+  - consider your exit strategy
+    - can you wholesale the deal?
+    - is it better as buy and hold?
+    - should you look for a homestead buyer (meaning a non-investor who wants to live in the house)
+    - is wholesale still an option with paying more in a seller finance deal
+    - wraps
+    - lease options
+    - sub-tail (sub-to, then sell retail)
+    - SRRR (seller-finance, renovate, refinance, repeat)
+    - vacation rentals (airbnb, vrbo, etc...)
+    - group homes
+    - corporate rentals 
+
+
 - When buying a multi-unit property, buyers are expected to have done their research and know what they are getting themselves into. As a result, they will make their offers based on a hard deposit, which is non-refundable. 
- 
-- The underwriting process involves obtaining information about a property which is crucial for making an informed lending decision. The information provided in the underwriting stage is usually limited, so verify everything. 
- 
-- Obtain as much information about the property as possible before making an offer. This will help you with your underwriting and valuation, as well as assist with the purchase negotiations. 
- 
-- The location of a property is one of the most important factors when buying a house. It is important to look at the local economy, as well as the area's desirability, when making your decision. 
- 
-- The best way to get a feel for a neighborhood is by visiting it in person. You can gather intelligence on the area by speaking to local residents, checking out the crime rate, and taking note of any unusual activity. 
  
 - The role of a property manager is to assist you in the underwriting process by providing you with market data and information about comparable properties, as well as helping you secure quotes from contractors and vendors. 
  
@@ -1198,14 +1350,6 @@ multifamily business, as each one will have different connections and sources.
 - Because the author was able to connect with the property’s owner, he was able to determine that the owner was willing to sell. He was able to acquire the property for $5 million, which was $1 million less than what he had paid for it thirteen years ago. 
  
 - The author acquired the property and started working on it. He figured out that the property was in distress, but there was also a lot of potential. He would need to underwrite the deal carefully.
-
-- Income verification is not difficult, but it requires a lot of work. It is crucial to understand the process, as it is the basis of every good investment. 
- 
-- The income section of the rehabbing spreadsheet allows you to compare the property’s current and projected income. You can then use this data to determine if the property is worth rehabbing or not. 
- 
-- The first step in calculating the ARV of a multifamily property is to determine the gross potential rent, which is the maximum amount of money the property can generate. The GPR is calculated by multiplying the average rent of all units in a property by the number of units. 
- 
-- The Gross Rent Ratio, or GPR, is the most important number in the BRRRR approach and is calculated by dividing the gross rent by the total square footage. 
  
 - The ideal situation is to collect data from at least three or four comparable rentals, and then average the prices for each unit type, both monthly and on a per square foot basis. 
  
@@ -1231,7 +1375,7 @@ multifamily business, as each one will have different connections and sources.
  
 - The final step is to check the comps, which will show you what rents you can expect once the rehab is finished. Be aware that increasing your projections beyond a reasonable amount may lead to overpaying for the property, which in turn may lead to tenants demanding higher rent increases in the future. 
  
-- The Park Place Apartments example shows how to calculate and project a property’s T-12 income. The numbers used in this example are for illustration only and cannot be applied to every situation. It is best to work with your own rental property manager to get an accurate projection. 
+- work with your own rental property manager to get an accurate projection. 
  
 - It is impossible to predict future real estate values and rents. This is why it is important to rely on your best judgment when estimating them. 
  
@@ -1250,12 +1394,10 @@ multifamily business, as each one will have different connections and sources.
 - Some financials will include interest expense or capital expenditure, both of which can throw off your valuation and should be removed from your underwriting. If a property is listed with an experienced broker, you're unlikely to find these line items on the financials. 
  
 - There are many factors that can influence the overall expenses of a multifamily property, such as the local cost of living, climate, weather, age of the property, size of the property, type of tenants, utilities, and so on. 
- 
-- It is important to understand that the numbers in the following table are averages, and not norms, and should only be used as a starting point for your estimate. 
- 
+  
 - The average multifamily property requires between one and two full-time employees for every forty-five to fifty units, at a salary of $45,000 to $50,000. Multifamily properties also require a considerable amount of payroll expenses, which total about 18 percent of gross pay. 
  
-= the amount of insurance coverage a property gets is based on the lenders’ requirements, and can vary considerably. 
+- the amount of insurance coverage a property gets is based on the lenders’ requirements, and can vary considerably. 
  
 - It is important to understand that tax rates can fluctuate, and when calculating a property’s future tax liability, you must consider both the property’s actual taxes and the increased taxes from a re-assessment. 
  
@@ -1273,13 +1415,25 @@ multifamily business, as each one will have different connections and sources.
  
 - Replacement reserves are a requirement set by lenders and should be budgeted for during underwriting. They are calculated based on the results of a property condition assessment. 
  
-- The expense ratio is a metric that indicates how efficiently a property is operating. It is a broad indicator of how much a property costs to maintain. 
+- The expense ratio is a metric that indicates how efficiently a property is operating. It is a broad indicator of how much a property costs to maintain.  
  
-- After analyzing the numbers, you will be able to see how your numbers compare to each other and to the numbers you generated before. You will be able to compare your projections with actuals, and see where there are large differences. This will help you identify problems that you can 
-solve as an investor. 
- 
-- The author toured the property with the property manager. While inspecting the property, they came across issues such as a historical property tax expense that was lower than what was indicated on the real property tax report they downloaded from the county’s website, as well as unsustainably low maintenance and labor expenses.
+- for comping tools, zillow sites, batchleads suite of products, biggerpocket rent estimator, propstream, zillow
 
+- when you're comping a property, you need to know the sale price on the properties you are using as comparisons for your subject property. The sale price is either disclosed publicly or can be accessed through MLS or third party program.
+
+- comping as 3 tier
+  - tier 1: look at date sold and the distance from the subject property. The date sold should be within 6 months ago for the same type of property. The distance should be the same subdivision or within 1 mile radius.
+    - don't compare between gated and non-gated community
+  - tier 2: look at interior square footage, parking, year built, bed and path count, and general condition. 
+  - tier 3: proximity to roads, lot size, pool, and build type.
+
+- manual comping
+  - know your subject property
+  - find the ARC comp and how much it sold for.
+  - adjust for differences
+  - confirm the ARV comp through other recent solds
+  - confirm with pending and under contract comps
+  - confirm active comps
 
 # finding small multifamily deals on-market
 
@@ -1371,11 +1525,19 @@ solve as an investor.
   - Look for (1) vacants (2) Fixer-uppers (3) Legal proceedings
   - Reach out to the owner! (1) call (2) mail (3) neighbors
   - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+  - looking for sign of distress
+    - junk in the yard
+    - broken down cars
+    - busted windows
+    - overgrown weed
+    - old roof
 
 - **MLS**
   - Find a real estate agent
   - Get automated leads in your target area
   - Be FIRST (minutes or hours! Not days) or LAST (persistence & follow-up)
+  - **expired listings within 60-90 days on multiple list service (MLS)**
+    - the home either not worth what they want or they had an equity situation where they couldn't get what they needed to get out of the deal.
 
 - **Networking Groups**
 
@@ -1427,6 +1589,7 @@ solve as an investor.
 - **Cold calling**
   - Old fashioned, takes time, but still inexpensive and sometimes effective!
     a. Ads online or signs - For Rent or FSBO (For Sale By Owner)
+  - maybe, [start virtual](https://startvirtual.com/) and [easybutton](https://easybuttonleads.com/) for lead generation
 
 -  **Signs**
   - “I Buy Houses + Fast Cash + Your Phone Number” - Relatively inexpensive yet effective.
@@ -1483,7 +1646,20 @@ solve as an investor.
   - I really think the key is understanding you’re in a competition. Somebody else wants to buy that house. Somebody else wants to get that client, somebody else wants to land that deal. And when you’re too busy, whatever you’re doing, expecting that the other person sort of needs to work around your schedule, you lose them. And it’s really just understanding that our default mode as human beings is to be narcissists
   - you give somebody 12 hours and if your closing ratios say 20%, it cuts in half after 12 hours, and it’s another half after another 12 hours. So if you got back to them in 24 hours and you normally could close 20%, your chance of closing are 10%, like it goes down significantly, so on and so forth. So **speed to lead** is extremely important to make sure that you’re able to close. It’s that instant gratification, and they want answers now. I want to be able to at least get the questions answered and schedule that appointment to get on the phone if they’re not available right away. But we want to get on those calls as fast as possible.
 
-
+- **when to escalate**
+  - **timing**: "are you interested in selling your house in the next 60-90 days. If they say yes, move onto price
+  - **price:** "what are you trying to accomplish or walk away with?"
+    - in a perfect world, what price would you be looking for?
+    - unlisted/off the market sellers often says, "I haven't thought much about it", or "I need to talk to my wife/husband". Continue foward saying "Great, I will give you a few days to talk it over and let's touch base next week"
+  - **motivation:**
+    - why are they interested in selling the house?
+    - why they're willing to sell to cash buyer rather than work with a realtor or sell FSBO (for sale by owner)
+  - **condition**
+    - want to see what the seller thinks about the property
+      - is there a tenant in the property?
+      - does the owner live in the property? and if there's a situation of escrow before someone can move out?
+      - is there hoarder situation requires extra cleaning costs?
+  - The general escalation flow involves a cold caller discussing timing, price, motivation, and condition of the home. This first call confirms the seller's name, the address, the callback number, an email, whether they're working with a Realtor or not, the year the house was built, how long they've had the property, and the occupancy status, then answers questions like roof condition, HVAC condition, size, square footage, time frame, motivation to sell, and asking price. Some of this can be found online, but you want to confirm as much as possible because online data is not always correct. It sounds like a lot, but a VA can handle all of this in a five- to ten-minute phone call. Once this has been done, a cold lead can become a warm lead or it can move to another section of the pipeline.
 
 # rules of the new rich
 
@@ -1916,3 +2092,5 @@ the deal is not done until the deal is done. Follow up, follow up, About 20-30 p
 - https://summaries.com/blog/how-to-be-a-capitalist-without-any-capital
 - https://www.ricklindquist.com/notes/how-to-be-a-capitalist-without-any-capital
 - https://www.coachcarson.com/rental-retirement-strategy/
+- https://www.sunshak.com/raising-private-capital/
+- https://www.rickcarabba.com/book-notes/raising-private-capital
