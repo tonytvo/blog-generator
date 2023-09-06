@@ -16,6 +16,8 @@ tags: ["family", "emotion"]
 - how do you unconditionally love your children?
 - how did your parents discipline you? is that the way you would recommend I discipline my children?
 - what makes your family truly unique compared to other families?
+- what special heirlooms - photos, bibles, or other memorabilia - have been passed down in your family?
+- what was your proudest moment as a parent?
 
 # Quotes
 
