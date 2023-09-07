@@ -18,6 +18,9 @@ tags: ["family", "emotion"]
 - what makes your family truly unique compared to other families?
 - what special heirlooms - photos, bibles, or other memorabilia - have been passed down in your family?
 - what was your proudest moment as a parent?
+- what is your fondest memory of your family?
+- if you had to do it all over again, would you changed the raised your family? how?
+- what did you find most difficult about raising children?
 
 # Quotes
 
