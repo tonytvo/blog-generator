@@ -24,6 +24,8 @@ tags: ["family", "emotion"]
 - what major illnesses or health problems affected your family?
 - who were you especially close to in the family? why?
 - what family traditions were most important to you?
+- briefly tell one or more of our family's best stories or tall tales
+- what was the best advice your parents gave you?
 
 # Quotes
 
