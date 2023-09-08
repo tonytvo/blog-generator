@@ -21,6 +21,7 @@ tags: ["family", "emotion"]
 - what is your fondest memory of your family?
 - if you had to do it all over again, would you changed the raised your family? how?
 - what did you find most difficult about raising children?
+- what major illnesses or health problems affected your family?
 
 # Quotes
 
