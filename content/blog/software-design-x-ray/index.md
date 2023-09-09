@@ -209,42 +209,51 @@ How do we know if a software design is any good?**
 
 # Work with Large Codebases and Organizations
 
-Work at an architectural level to gain insights into the system as a whole.
-Spot Your System’s Tipping Point
-Use social code analysis to make sense of large-scale systems by
-Breaking them down into subsystems
-Large systems become even more complex once we add the social dimension
-As a project grows beyond 12 or 15 developers :
-Coordination, motivation and communication issues tend to cause a significant cost overhead.
-Know if a specific part of the code is a coordination bottleneck
-The scale of a codebase has to be reflected in both the organization of people and the architecture of the system.
-Divide and Conquer with Architectural Hotspots
-Identify your architectural boundaries: 
-Sometimes those boundaries are documented 
-If not, you need to reverse-engineer those boundaries, and a good starting point is to base them on the folder structure of the codebase.
-Run a hotspot analysis on an architectural level : 
-Identify the subsystems with the most development effort
-Visualize the complexity trend of a whole architectural component.
-Analyze the files in each architectural hotspot : 
-Focus on individual files
-Our analysis scope is smaller since we focus on one subsystem at a time
-Always remember that just because some code is a hotspot, that doesn’t necessarily mean it’s a problem. 
-A hotspot means 
-We’ve identified a part of the code that requires our attention 
-Since it attracts many changes
-The more often something is changed
-The more important it is that the corresponding code is of 
-High quality so 
-all those changes are simple and low risk
-Analyze subsystems
-Size alone may be problematic
-Large files are likely to contain many different responsibilities and be hard to navigate
-Complexity trends of the code
-Prioritize Function Hotspots and Code Clones
-Launch X-Ray on
-Have a prioritized list of refactoring candidates
-There are no hard rules, but with a heuristic you want to inspect the top 10 hotspots in your subsystem.
-Fight the Normalization of Deviance
+- Work at an architectural level to gain insights into the system as a whole.
+
+- **Spot Your System’s Tipping Point**
+  - Use social code analysis to make sense of large-scale systems by Breaking them down into subsystems
+  - Large systems become even more complex once we add the social dimension
+    - As a project grows beyond 12 or 15 developers :
+      - **Coordination, motivation and communication issues tend to cause a significant cost overhead.**
+  - Know if a specific part of the code is a coordination bottleneck
+
+> - The scale of a codebase has to be reflected in both the organization of people and the architecture of the system.
+
+- **Divide and Conquer with Architectural Hotspots**
+  - *Identify your architectural boundaries:*
+    - Sometimes those boundaries are documented 
+    - If not, you need to reverse-engineer those boundaries, and a good starting point is to ***base them on the folder structure of the codebase.***
+  - *Run a hotspot analysis on an architectural level:*
+    - Identify the subsystems with the most development effort
+    - Visualize the complexity trend of a whole architectural component.
+  - *Analyze the files in each architectural hotspot:* 
+    - Focus on individual files
+    - Our analysis scope is smaller since we focus on one subsystem at a time
+    - [hotspot analysis](./hotspot-analysis.png)
+
+>  - Always remember that just because some code is a hotspot, that doesn’t necessarily mean it’s a problem. 
+  - A hotspot means 
+    - We’ve identified a part of the code that requires our attention 
+    - Since it attracts many changes
+  - **The more often something is changed**
+    - **The more important it is that the corresponding code is of **
+      - High quality so 
+      - all those changes are simple and low risk
+
+  - **Analyze subsystems**
+    - Size alone may be problematic
+      - Large files are likely to contain many different responsibilities and be hard to navigate
+    - Complexity trends of the code
+
+  - **Prioritize Function Hotspots and Code Clones**
+    - Launch X-Ray on
+      - Have a prioritized list of refactoring candidates
+      - [refactoring candidates](./refactor-candidates.png)
+
+>  - There are no hard rules, but with a heuristic you want to inspect the top 10 hotspots in your subsystem.
+
+- **Fight the Normalization of Deviance**
 Each time you accept a risk, the deviations become the new normal. (see Challenger Launch study by sociologist Diane Vaughan)
 We have plenty of normalization of deviance in software development :
 Inherit a file with 15,000 lines of code
