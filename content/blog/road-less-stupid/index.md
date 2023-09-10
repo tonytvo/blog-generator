@@ -830,8 +830,8 @@ Help me understand what you believe about this.
 - Be careful, though. Small destroys its only competitive advantage by attempting to emulate the big guys when it comes to these areas:
   - **Establish committees** - The unwilling appoint the unfit to do the unnecessary.
   - **Govern by consensus** - Always produces mediocrity.
-  - **Create standardized systems to ensure compliance and uniformity** - Drains excitement and flexibility. ("Systems vs. Flexibility" has lots on this topic if you're interested-and you should be.)
-  - **Abdicate decision making to accommodate the lowest common denominator** - Compromise is the enemy of excellence.
+  - **Create standardized systems to ensure compliance and uniformity** - Drains excitement and flexibility. ("Systems vs. Flexibility" has a lot on this topic. If you're interested, you should be.)
+  - **Abdicate decision-making to accommodate the lowest common denominator** - Compromise is the enemy of excellence.
   - **Optimize for safe and no ripples** - Promotes the status quo. 
   - **Attempt to grow by casually pleasing the masses instead of deeply pleasing the niche** - Homogenizes your product, service, and brand to the point they will be indistinguishable from everyone else's.
   - **Design "paint by number," standardized, year-end annual employee evaluations forms and processes** - Misses the point of coaching the performance and potential of your employees.
@@ -841,17 +841,17 @@ Help me understand what you believe about this.
 
 - **Thinking Time**
   - Where have I allowed my business to abandon the advantages of being small?
-  - Where have I encouraged/tolerated systems and standardization as a substitute for intimacy and relationship?
-  - Where could I inject some flexibility back into how we are doing business?
+  - Where have I encouraged/tolerated systems and standardization as a substitute for intimacy and relationships?
+  - Where could I inject some flexibility into how we do business?
   - Where do I sense a shift in the market that I have been afraid to investigate because of an irrational fear that it might disrupt what we are currently doing?
-  - What are the things we should be doing if I weren't so afraid of losing?
-  - How can I test these ideas in a small way so that in case it is a bad idea, it doesn't torpedo the mother ship?
+  - What would we be doing if I weren't so afraid of losing?
+  - How can I test these ideas in a small way so that if it is a bad idea, it doesn't torpedo the mother ship?
   - What assumptions am I making about the current environment and my competition that, if wrong, would cause me significant economic distress?
-  - What is the competitive advantage we have relied on to attract and retain customers? What could erode or undermine this advantage? 
-  - Knowing what I know about my business, if I decided to compete with myself, what would I do to put a major dent in my company? 
+  - What competitive advantage have we relied on to attract and retain customers? What could erode or undermine this advantage? 
+  - Knowing what I know about my business, what would I do to put a significant dent in my company if I decided to compete with myself? 
   - Where am I hanging on to strategies and solutions that were great answers in a different environment?
-  - What question do I need to ask to discover our vulnerability to a changing environment?
-  - What do we need to measure to have optics about what is changing?
+  - What question must I ask to discover our vulnerability to a changing environment?
+  - What must we measure to have optics about what is changing?
 
 # SIMPLIFYING GROWTH
 
