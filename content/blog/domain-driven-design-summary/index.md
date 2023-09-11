@@ -201,9 +201,17 @@ iron out difficulties by experimenting with alternative expressions, which refle
 - Cluster the entities and value objects into aggregates and define boundaries around each.
 - **Choose one entity to be the root of each sum, and allow external objects to hold references to the source only (regarding internal members passed out for use within a single operation only).**
 - define properties and invariants for the aggregate as a whole and give enforcement responsibility to the root or some designated framework mechanism
-- Use the exact aggregate boundaries to govern transactions and distribution
-within an aggregate edge, apply consistency rules synchronously. Across borders, handle updates asynchronously
-keep an aggregate together on one server. Allow different sums to be distributed among nodes.
+- Use the exact aggregate boundaries to govern transactions and distribution within an aggregate edge, apply consistency rules synchronously. Across borders, handle updates asynchronously keep an aggregate together on one server. Allow different sums to be distributed among nodes.
+- Hold several objects in a root object and can control their creation, manipulation, query and deletion
+- Aggregates are entities that own other entities or association objects.
+- Ownership can be, for example, when in a web-shop we have a product, lets say a t-shirt, who has variants, lets say combinations of colours and sizes. There is one product with several variants. It makes no sense for one of those variants to be attached to another product, nor to exit without a product. Also, if we delete a product, we must delete its variants.
+- Another example would be a customer nationality. The nationality is an association between a customer and a country. In this case, the customer doesn’t own the country entity, but it owns the relation object.It would not make sense to delete a customer and keep the connection between that customer (that does not exist any more) and the country. So if we delete a customer, we also need to delete its associations.
+- Rules when using aggregates:
+  - The root entity has global identity;
+  - The root entity is ultimately responsible for the objects it owns;
+  - The owned objects can only be reached through the aggregate root;
+  - The owned objects can be used by external objects, but these can not keep references to them;
+  - When deleting an aggregate, all owned objects must be deleted as well.
 
 ## Repositories
 - query access to sums expressed in the ubiquitous language.
@@ -212,12 +220,42 @@ keep an aggregate together on one server. Allow different sums to be distributed
   - Provide methods to add and remove objects, encapsulating the actual insertion or removal of data in the data store.
   - **Provide methods that select objects based on criteria meaningful to domain experts. For example, return fully instantiated objects or collections of objects whose attribute values meet the requirements, thereby encapsulating the actual storage and query technology, or return proxies that give the illusion of fully instantiated aggregates lazily.**
 - **Provide repositories only for aggregate roots that actually need direct access. Keep application logic focused on the model, delegating all object storage and access to the repositories.**
+- We can get objects either by creation (new or reconstructed), or by trasversal of an object that holds a reference to the object we want to get.
+
+- Although it might be handy to have all objects connected so we can always get an object by traversal, this involves creating and maintaining many artificial associations between objects, associations that are not part of the model (hence artificial). This practise should be avoided.
+
+- From the principles discussed before we can establish, about querying for objects:
+  - We don’t need to concern ourselves with transient objects, typically value objects. It wouldn’t make sense to search for something without identity, thus irrelevant;
+  - We don’t need to query for objects that are more suited to be found by traversal of associations. For example, finding an object internal to an aggregate, should only be done through the root of the aggregate. Therefore mostly only the aggregate roots need to be searchable;
+  - Mostly we only need to have query capabilities for entities (aggregate roots or otherwise). Nevertheless, very occasionally we might need to query for value objects or enumerated values.
+
+- Therefore we should:
+  - Create a repository for each type of object that needs global querying access, namely the entities, aggregate roots or not, but not for the internal objects of an aggregate;
+  - In a repository, create a global known interface to encapsulate insertion or removal of data;
+  - Add in the repository the specific methods to retrieve fully instantiated objects or collection of objects.
+
+- There are several advantages to using repositories:
+  - Provide a simple way to retrieve persisted objects;
+  - Decouple application and domain logic from the persistence technology;
+  - Makes testing easier by giving a way to provide  a predetermined object or collection of objects to the logic we want to test.
+  - **abstracting the querying from the application and domain logics**
+
+- When designing the DB we should keep the DB model close to the Domain model and, if necessary:
+  - Sacrifice of DB normalization in favour of performance, for example have non-atomic fields in order to have less DB queries;
+  - Sacrifice of DB normalization in favour of simpler object mapping to the domain model.
 
 ## factories
 - shift the responsibility for creating instances of complex objects and aggregates to a separate object, which may itself have no responsibility in the domain model but is still part of the domain design.
 - Provide an interface that encapsulates all complex assemblies and does not require the client to reference the concrete classes of the instantiated objects.
 - **Create an entire aggregate as a piece, enforcing its invariants.**
 - Create complex value objects like a piece, possibly after assembling the elements with a builder.
+- Factories should be used when the construction of an object or aggregate is compolex. For example when, after creating the raw object, we still need to set its internal properties in order to have it usable, or when we need to create an aggregate owned objects, or when we are not sure of exactly what concrete object class we need and have to put in place some logic to make that decision.
+- Using factories is about separating logic and the SRP, by leaving object creation to a specialized class.
+
+- There are mainly 3 types of factories:
+  - Factory method: A common usage is to have a factory method inside an aggregate root, so it can build its owned objects. An example would be to have, in a service class, a method to build the query class it uses, or a method to create an empty instance of the model it manipulates;
+  - Abstract factory class: Used when we need to decide what concrete subtype of object the client needs. The factory class would encapsulate both the decision logic and creation logic, or outsource the creation logic to a builder class;
+  - Builder class: Used when there is complex logic needed to build an object or full aggregate. This is different from the factory method in that the manufactured object does not belong to the manufacturer, and its different from the abstract factory in that it does not have logic to decide what concrete class to build, it always builds the same class.
 
 # Supple design
 - Supple design complements the deep modelling
