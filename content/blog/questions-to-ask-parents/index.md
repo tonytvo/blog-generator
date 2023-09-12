@@ -7,6 +7,25 @@ tags: ["family", "emotion"]
 # Questions
 
 - what is something (an event) from your childhood that has affected you the most?
+- who were your childhood heroes?
+- what was your neighborhood like growing up?
+- as a child, what did you want to be when you grew up?
+- what was the most mischievous thing you did as a youngster?
+- how did you pull yourself out of ruts during tough times in your childhood?
+- how did you handle peer pressure when you were growing up?
+- how has society changed since you were a youth?
+- what are your views on alcohol and drugs? were these things a part of your youth? how would you counsel me about using them?
+- when was a time you got in trouble for lying? what happened? what did you learn from experience?
+- what are the greatest hardships you endured as a child?
+- have you ever taken a stand against what your friends wanted to do, or did you follow the crowd? what would you have done differently?
+- what things should I stand up for and when should I stay quiet?
+- describe a time when you had the show courage in your youth?
+- what do you know now that you wish you'd known when you were young?
+- how did you get through hard times with bullies at school?
+- what kind of child were you (happy, moody, popular, loner, different)?
+- what positive or negative events in your youth affected you later as an adult?
+
+
 - what did you find the most rewarding about being parent?
 - what advice would you give me about being good parent?
 - what special proverbs have been passed down in your family about how to make it in life or how to have peace of mind?
