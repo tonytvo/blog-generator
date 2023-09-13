@@ -1080,12 +1080,6 @@ The essence of good object design is to give each object a clear and narrow resp
 
 A named thing we can discuss
 
-
-**still under constructions**
-**Next Steps:**
-review Distilled DDD from vaugh vernon
-review design DDD quickly
-
 # References
 - https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery/
 - https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf
