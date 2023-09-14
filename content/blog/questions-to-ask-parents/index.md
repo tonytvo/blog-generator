@@ -6,6 +6,7 @@ tags: ["family", "emotion"]
 ---
 # Questions
 
+- what is something (an event) from your childhood that has affected you the most?
 - what did you find the most rewarding about being parent?
 - what advice would you give me about being good parent?
 - what special proverbs have been passed down in your family about how to make it in life or how to have peace of mind?
@@ -43,6 +44,120 @@ tags: ["family", "emotion"]
 - for dad: were there miscarriages or troubles with childbirth? if so, how did you help mom during this difficult time?
 - what advice would you give me for being a good sister or brother?
 - who was your favorite sibling when you were growing up? did you ever fight?
+- what are your views on marriage?
+- what advice would you give a newlywed couple?
+- if you're married, what do you value about the relationship that you share with your spouse now?
+- what advice would you give a grandchild on his or her wedding day?
+- when did you know you were in love?
+- when was your first kiss? with whom?
+- who was your first date? what did you do?
+- what does being in love mean to you?
+- what was your wedding day like?
+- if you could have done anything differently on your wedding day, what would it have been?
+- how did you keep your relationships alive with your spouse while we were growing up? if you are divorced, how did you get along while raising us?
+- what qualities and traditions make a good marriage?
+- what have you learned about being married?
+- if you have been divorced, what did you learn from that experience?
+- during times of trouble in your life, who did you talk to about them? how did those people help you?
+- have you ever had a crush on or been in love with someone that didn't return your affections? How did you deal with rejection?
+- have there been situations in your marriage where you gave in, in order to let your spouse be right? how did that affect the relationship?
+- did you fight a lot with your spouse? how did you resolve your fights?
+- what qualities should I look for in a mate?
+- what are your views on divorce?
+- what are your views on separation?
+- do you believe marriage can last forever? why or why not?
+- describe your marriage proposal. Was your significant other surprised?
+- who could you trust and depend on during your life? How did these individuals help you?
+- when did you decide to marry?
+- how do you feel about the idea of soul mates? Do you feel that there are many people out there who would have made you happy?
+- what are your views on premarital sex?
+- how many times have you been engaged or come close to getting engaged?
+- what are your views on marrying someone of another faith?
+- what are your views on marrying someone with a different cultural upbringing?
+- how involved were your parents in your marriage? did you ever feel they were interfering?
+- do you believe it is okay for people to live together before getting married? why or why not?
+- have you ever been in love with someone who later broke up with you? how did you handle the situation?
+- how old were you when your parents allowed you to begin dating?
+- what advice would you give about how to ask someone out on a date?
+- what kinds of books do you like to read?
+- who had the most positive influence on your life? what did that person do?
+- who helped you to develop your talents? what did they do to help you?
+- who is your favorite philosopher, teacher, or writer? why is he or she your favorite?
+- what person or book best expresses your philosophy on life?
+- what were the hardest choices you had to make in life?
+- has a public speaker ever made a big impression on you? if so, who was it and what was his or her message?
+- what principle has changed the direction of your life?
+- how do you feel about the choices you made in your life? what good choices did you make? do you have any regrets about your choices?
+- what movie has most inspired you? why?
+- what kind of music inspired or lifted you up when you felt down?
+- if you were ever to write a book, what would it be about?
+- what kind of friend were you to others?
+- what books have you read that you enjoyed or that helped shape your life? would you recommend that I read them?
+- what television shows did you watch? why?
+- where have you traveled? what are your favorite places to visit?
+- where in the world would you recommend I visit before I die? why?
+- did anyone ever hurt you so much that it altered the course of your life? how did you overcome your hurt?
+- what motivates you?
+- what are your greatest abilities or talents? describe a time when you used your talents.
+- what is the most fun and interesting thing you have done in your life that you feel I should experience?
+- how are you creative? what kind of things do you make?
+- what good deeds have you done?
+- how have you handled people that have wronged you in life?
+- have you ever met anyone famous? who?
+- which parent taught you the most in life? what did you learn from him or her?
+- what family event in your life has most affected the way you look at life? describe how it affected you and your family.
+- if you were writing the story of your life, how would you divide it into chapters?
+- what are the most important lessons you want to pass on to your children?
+- do you have any regrets? what are they?
+- who were your best friends? how have they shaped you?
+- what conferences or workshops have influenced your life?
+- did you have any addictions? how did they influence your outlook on life?
+- who would you say had more influence in your life: your significant other, your family, or your friends? why is that?
+- what are your favorite sayings or expressions?
+- have you ever lost a loved one? what happened?
+- what world events had the most impact on you while you were growing up? did any of them personally affect your family?
+- how is the world today different from when you were a child?
+- what would you consider the most important inventions that have been made during your lifetime?
+- what wars have been fought during your lifetime? how did you feel about them?
+- how did you feel about 9/11? where were you when this happened?
+- how did you feel about the Gulf War? what are your opinions about it?
+- what are your views on voting? have you ever held an office?
+- who is your favorite US president? how do you feel about the office of the US president?
+- have you ever witnessed any extraordinary events? what were they?
+- what natural disasters - hurricanes, tornadoes, floods, and so on, have you survived?
+- how did the civil rights movement or the woman's liberation movement affect your family?
+- how has war affected you and your family? which was affected you most: WWII, the Korean War, Vietnam, Gulf War?
+- have you been politically active during your lifetime? what political party have you voted for?
+- which presidents have you voted for?
+- what events or trends in the media have you disliked the most? why?
+- how do you feel about racial and religious prejudice?
+- have you ever dedicated yourself to a cause? which one?
+- which charities did you contribute to and why?
+- which scientific discoveries or advances have interested you the most?
+- how do you view the world today? has it stayed the same, become more evil, or become better?
+- if you could change a world event that has happened, which one would it be and why?
+- were you involved in your community? what community projects have you done?
+- what do you think was the most historically significant event of your lifetime? how did it affect you?
+- what do you feel are the most important problems facing our country?
+- if you could reverse the discovery of something for the good of mankind, what would you pick?
+- if you could name the most worthy cause, compared to all others, what would it be and why?
+- what is your view on abortion?
+- how do you feel about same-sex marriages and homosexuality?
+- has the economy ever impacted your parents or you personally?
+- what clubs or groups did you belong to? why?
+- what do you love about the country you live in?
+- what do you love about the city or town you live in now?
+- what or who has influenced your political views?
+- have you ever killed anyone during war? what is your view on killing?
+- what is your view on having weapons? did you ever own a gun or weapon?
+- name 3 people you admire from history. why do you admire them?
+- what have been the 3 biggest news events during your lifetime?
+- if you won a million dollars, what would you do with the money?
+- have you ever held an elected office in government or at a club? what was it?
+- what social movements, civil rights, women's rights, peace movements, environmental movements, have you participated in?
+- with what historical figure would you like to spend time if given a chance? why?
+- how do you feel about the world's preoccupation with thinness and beauty?
+- how do you feel about what is viewed on television now compared to when you were growing up?
 
 # Quotes
 
