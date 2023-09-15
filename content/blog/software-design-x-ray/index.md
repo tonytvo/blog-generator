@@ -144,58 +144,71 @@ How do we know if a software design is any good?**
 
 - **Pay Off Your Technical Debt**
   - Refactoring code that’s under heavy development, perhaps even shared between multiple teams, adds another dimension to the problem.
-  - Follow the Principle of Proximity
+  - **Follow the Principle of Proximity**
     - Proximity focuses on How well organized your code is with respect to Readability and change
     - Proximity implies that **functions that are changed together are moved closer together**. Proximity is a design principle
     - Proximity principle is a refactoring technique that uses feedback from how our code evolves :
-By ordering our functions and methods according to our change patterns 
-We communicate information that isn’t expressible in programming-language syntax
-Automate Proximity Recommendations
-A proximity refactoring serves as a mental note that the two functions belong together.
-Refactor Congested Code with the Splinter Pattern
-Splinter pattern provides a structured way to break up hotspots into 
-Manageable pieces that can be divided among several developers to work on
-Parallel Development Is at Conflict with Refactoring
-Our refactoring goal conflicts with the short-term evolution of the overall system
-Most organizations just cannot afford to pause ongoing work 
-so that we can refactor in a safe, development-free vacuum
-The splinter pattern resolves this dilemma by recognizing that refactoring a hotspot is an iterative process
-In a splinter refactoring you 
-Won’t even improve the code quality as such
-BUT rather transform the code to a structure where multiple people can work together in parallel toward the overall refactoring goal.
-Split a Hotspot File Along Its Responsibilities
-The intent of the splinter pattern is to break a hotspot into smaller parts along its responsibilities while maintaining the original API for a transient period.
-Keep the original method signatures and replace the method bodies with a simple delegation to the extracted modules.
-Steps behind an iterative splinter refactoring :
-Ensure your tests cover the splinter candidate : have an adequate test suite
-Identify the behaviors inside your hotspot :  look at the names of the methods inside the hotspot / identify code that forms groups of behaviors
-Refactor for proximity : form groups of functions with related behavior inside the larger file, based on the behaviors you identified earlier
-Extract a new module for the behavior with the most development activity : use X-Ray
-Delegate to the new module. Replace the body of the original methods with delegations to your new module
-Perform the necessary regression tests to ensure you haven’t altered the behavior of the system
-Select the next behavior to refactor and start over at step 4
-Consequences of Splinters
-The hotspot now acts as a facade that maintains the original API
-The Curse of a Successful System
-Much code decay isn’t due to incompetence but rather is owed to the success of an evolving product.
-The Principles of Code Age
-Stabilize Code by Age :
-Organize our code by its age
-Turn stable packages into libraries
-Move and refactor code we fail to stabilize
-Related advantages
-Promotes long-term memory models of code : Stable packages serve as chunks that remain valid over time, which means our expectations of a piece of code won’t be broken
-Lessens cognitive load since there’s less active code : The more code you manage to stabilize, the less knowledge you need to keep in your head
-Prioritizes test suites to shorten lead times : Identify which parts of the software you can safely skip test runs
-3 generations of code
-Dan North claims that we want our code to be either :
-very recent 
-Or old
-The kind of code that’s hard to understand lies in between these two extremes
-Ebbinghaus forgetting curve
-To retain the information we need to repeat it, and with each repetition we’re able to improve our performance by remembering more.
-Each time we revisit mid-aged code we need to relearn its inner workings, which comes at a cost of both time and effort.
-Part II - Work with Large Codebases and Organizations
+      - By ordering our functions and methods according to our change patterns 
+      - **We communicate information that isn’t expressible in programming-language syntax**
+  - **Automate Proximity Recommendations**
+    - A proximity refactoring serves as a mental note that the two functions belong together.
+
+- **Refactor Congested Code with the Splinter Pattern**
+  - Splinter pattern provides a structured way to break up hotspots into manageable pieces that can be divided among several developers to work on
+
+- **Parallel Development Is at Conflict with Refactoring**
+  - Our refactoring goal conflicts with the short-term evolution of the overall system
+    - Most organizations just cannot afford to pause ongoing work so that we can refactor in a safe, development-free vacuum
+  - The splinter pattern resolves this dilemma by recognizing that refactoring a hotspot is an iterative process
+    - In a splinter refactoring you 
+      - Won’t even improve the code quality as such
+      - BUT rather **transform the code to a structure where multiple people can work together in parallel toward the overall refactoring goal.**
+
+- **Split a Hotspot File Along Its Responsibilities**
+
+> The intent of the splinter pattern is to break a hotspot into smaller parts along its responsibilities while maintaining the original API for a transient period.
+
+  - Keep the original method signatures and replace the method bodies with a simple delegation to the extracted modules.
+  - Steps behind an iterative splinter refactoring :
+    - *Ensure your tests cover the splinter candidate:* have an adequate test suite
+    - *Identify the behaviors inside your hotspot:*  look at the names of the methods inside the hotspot / identify code that forms groups of behaviors
+    - *Refactor for proximity:* form groups of functions with related behavior inside the larger file, based on the behaviors you identified earlier
+    - *Extract a new module* for the behavior with the most development activity : use X-Ray
+    - *Delegate to the new module.* Replace the body of the original methods with delegations to your new module
+    - *Perform the necessary regression tests to ensure you haven’t altered the behavior of the system*
+    - *Select the next behavior to refactor and start over at step 4*
+
+- **Consequences of Splinters**
+  - The hotspot now acts as a facade that maintains the original API
+
+- **The Curse of a Successful System**
+
+> *Much code decay isn’t due to incompetence but rather is owed to the success of an evolving product.*
+
+- **The Principles of Code Age**
+  - Stabilize Code by Age :
+    - Organize our code by its age
+    - Turn stable packages into libraries
+    - Move and refactor code we fail to stabilize
+
+  - **Related advantages**
+    - *Promotes long-term memory models of code:* Stable packages serve as chunks that remain valid over time, which means our expectations of a piece of code won’t be broken
+    - *Lessens cognitive load since there’s less active code:* The more code you manage to stabilize, the less knowledge you need to keep in your head
+    - *Prioritizes test suites to shorten lead times:* Identify which parts of the software you can safely skip test runs
+
+  - **3 generations of code**
+    - Dan North claims that we want our code to be either :
+      - very recent 
+      - Or old
+      - The kind of code that’s hard to understand lies in between these two extremes
+
+  - **Ebbinghaus forgetting curve**
+    - To retain the information we need to repeat it, and with each repetition we’re able to improve our performance by remembering more.
+    - Each time we revisit mid-aged code we need to relearn its inner workings, which comes at a cost of both time and effort.
+
+
+# Work with Large Codebases and Organizations
+
 Work at an architectural level to gain insights into the system as a whole.
 Spot Your System’s Tipping Point
 Use social code analysis to make sense of large-scale systems by
