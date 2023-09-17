@@ -103,6 +103,8 @@ Generally, the best way to deal with people's problems is to prevent them from a
 - Our body language affects how we are perceived and how our conversations will go. Exude enthusiasm, comfort, warmth and acceptance. Put a smile on your face.
 - Inflecting upward = inviting a response/unsure.
 - Inflecting downward = self-assured, confident.
+- create relax environments
+  - like don't start and sit across/straight from the counter part, sit 45 degree angle from the counter part
 - To mirror, just repeat the last three words (or the most important 1-3 words) of what someone has just said.
 - How to Disagree Without Being Disagreeable
   - Use the late-night FM DJ voice.
