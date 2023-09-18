@@ -24,6 +24,8 @@ tags: ["family", "emotion"]
 - how did you get through hard times with bullies at school?
 - what kind of child were you (happy, moody, popular, loner, different)?
 - what positive or negative events in your youth affected you later as an adult?
+- what did you do for fun when you were a teenager?
+- did you hae any hobbies or special interests when you were a kid? how were you introduced to them?
 
 
 - what did you find the most rewarding about being parent?
