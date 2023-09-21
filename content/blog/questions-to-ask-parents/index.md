@@ -28,6 +28,7 @@ tags: ["family", "emotion"]
 - did you hae any hobbies or special interests when you were a kid? how were you introduced to them?
 - what were your dreams as a teenager? what did you want to do with your life?
 - what would you teach a child about gambling? do you believe in gambling?
+- did you ever break the law as a youth? or come close? what did you learn from it?
 
 
 - what did you find the most rewarding about being parent?
