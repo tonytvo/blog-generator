@@ -29,6 +29,7 @@ tags: ["family", "emotion"]
 - what were your dreams as a teenager? what did you want to do with your life?
 - what would you teach a child about gambling? do you believe in gambling?
 - did you ever break the law as a youth? or come close? what did you learn from it?
+- name a time when you got in a lot of trouble with your parents and were grounded. What did you learn from that experience?
 
 
 - what did you find the most rewarding about being parent?
