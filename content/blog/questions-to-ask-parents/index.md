@@ -32,6 +32,7 @@ tags: ["family", "emotion"]
 - name a time when you got in a lot of trouble with your parents and were grounded. What did you learn from that experience?
 - what qualities and characteristics make a true friend?
 - how did you go about selecting your friends in high school?
+- was there ever a time in your life when you lost your self-esteem? what did you do to rebuild it?
 
 
 - what did you find the most rewarding about being parent?
