@@ -34,6 +34,7 @@ tags: ["family", "emotion"]
 - how did you go about selecting your friends in high school?
 - was there ever a time in your life when you lost your self-esteem? what did you do to rebuild it?
 - what things bring you the most pleasure now as compared to when you were a youth?
+- what things frighten you now as compared to when you were a youth?
 
 
 - what did you find the most rewarding about being parent?
