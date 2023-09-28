@@ -35,6 +35,7 @@ tags: ["family", "emotion"]
 - was there ever a time in your life when you lost your self-esteem? what did you do to rebuild it?
 - what things bring you the most pleasure now as compared to when you were a youth?
 - what things frighten you now as compared to when you were a youth?
+- what three things did you consider becoming when deciding on college or a career?
 
 
 - what did you find the most rewarding about being parent?
