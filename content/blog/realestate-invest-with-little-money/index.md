@@ -722,7 +722,14 @@ tags: ["realestateinvesting", "financialindependence"]
 
 - **why are sellers open to creative finance?**
   - sellers can spread the tax costs over multiple years
+  - sellers has job loss, can no longer afford payments (higher interest)
+  - sellers wouldn't need to pay realtor fees
+  - sellers have low equity in the house
+    - sellers does not have enough equity to pay realtor
+    - early mortgage termination penalties
+    - value of the properties is less than the mortgages
   - sellers can collect steady income monthly (like a bank)
+  - seller wouldn't have to pay mortgage penalties
   - what's the walk away money that sellers want
   - with seller financing, depending on terms (down payment, interest rates), the seller can get the higher price for the house
   - sellers has some pain points such as:
@@ -1210,6 +1217,19 @@ multiplying the monthly rent by the number of days in the month. This is called 
 
 # strategy for finding great deals
 
+- what to look for?
+  - search tired/accidental landlords
+  - for-sale by owner (FSBO)
+  - low fee listing sites (homefree, 2% realty, comfree)
+  - expired listing
+  - look for newer built homes
+  - check purchase history (honestdoor)
+  - crappy rental listings
+    - indicate tired/accidental landords
+  - look for rental listings with listing logos in corner of pictures (means it was on-sale and then now it is rented)
+
+- **don't sell the solution before you singe a light on the problem.**
+
 - search for deals on MLS that has the following keywords:
   - "cash only", "property sold as is", "bring all offers", "no reasonable offer refused"
 
@@ -1223,16 +1243,26 @@ multiplying the monthly rent by the number of days in the month. This is called 
   - wanting to get rid of a property they inherited and don't want.
   - trying to invest elsewhere.
 
-- Everything is a funnel. If you’re a regular listener to The BiggerPockets Podcast, you’ve probably heard the host, Brian, say this phrase numerous times. It is the fundamental truth that drives nearly everything successful in life. 
- 
-- The good thing about the top of the funnel is that it weeds out the bad leads immediately, saving you time and resources. However, it does not give you much information on the quality of the leads you’re getting. 
- 
-- Rejections are an important part of the business. Every no is one step closer to a yes. If you can improve your offer every time, you’ll find success. 
- 
-- The LAPS funnel allows you to track your progress and see where you may need to improve your process. It also shows you what your goals should be at each stage.
+- **develop a marketing strategy**
 
-- The most essential thing to do to reach your investing goals is to find a great deal. The more time and resources you invest into it, the greater the return. 
- 
+  - Everything is a funnel. If you’re a regular listener to The BiggerPockets Podcast, you’ve probably heard the host, Brian, say this phrase numerous times. It is the fundamental truth that drives nearly everything successful in life. 
+  - The good thing about the top of the funnel is that it weeds out the bad leads immediately, saving you time and resources. However, it does not give you much information on the quality of the leads you’re getting. 
+  - build a funnel to attract sellers with problem
+  - cold call
+  - The LAPS funnel allows you to track your progress and see where you may need to improve your process. It also shows you what your goals should be at each stage.
+  - The author and his team at Open Door Capital prioritized their deal flow by screening potential investments based on their likelihood to succeed. This allowed them to funnel the most promising prospects through the underwriting process quickly, which in turn allowed them to keep their deal flow high. 
+
+- **develop procedure for screening leads**
+  - check honestdoor to see when they bought it and for how much
+  - develop a small friendly script to get information
+    - how long have you owned the property?
+    - why are you looking to sell?
+    - when are you looking to close?
+    - would I be able to come look tonight?
+    - how motivated are the sellers?
+    - you should never leave your desk/family unless you know it's a good lead.
+  - The first step in the due diligence process is to filter your leads. You should only take the time to underwrite those that pass your screening process.
+
 - Working with multiple brokers helps you gather as much information as possible on the 
 multifamily business, as each one will have different connections and sources. 
  
@@ -1249,10 +1279,6 @@ multifamily business, as each one will have different connections and sources.
 - The larger the multifamily property, the less likely it will be listed by a residential broker or show up on the Multiple Listing Service. However, there are exceptions, especially for properties with fewer than forty units. 
  
 - Keep an eye out for multifamily properties being auctioned off. These are typically old buildings that have been foreclosed on by the bank. Because of the time constraints imposed by the law, these auctions are generally limited to cash buyers or buyers with the ability to obtain large amounts of cash quickly. 
- 
-- The author and his team at Open Door Capital prioritized their deal flow by screening potential investments based on their likelihood to succeed. This allowed them to funnel the most promising prospects through the underwriting process quickly, which in turn allowed them to keep their deal flow high. 
- 
-- The first step in the due diligence process is to filter your leads. You should only take the time to underwrite those that pass your screening process. 
  
 - Investment criteria are kept fairly straightforward so that they can be applied to a large number of deals. The best way to screen a deal is with a checklist of criteria that you feel will help you evaluate the quality or suitability of the investment. 
  
@@ -1506,7 +1532,6 @@ multifamily business, as each one will have different connections and sources.
     - **Birddog System - Vacant Houses** -> 15 -> $150
     - **Referrals (newsletter, network, business cards)** -> 10 -> $75
     - Total: 67 $2,158
-  
   - Next Actions 
   - Diversity of lead generation!
   -  What works today, might not tomorrow
@@ -1624,6 +1649,7 @@ multifamily business, as each one will have different connections and sources.
   - Facebook is a great place to look for off-market deals. Searching for off market will bring up Facebook groups where individuals post ads for items they want to sell or give away. 
    
   - The third and final way to find deals is through the classified ads website Craigslist. com. Posting an ad in the For Rent section of Craigslist can be done by owners of small multifamily buildings who would like to rent out a portion of their units.
+
 
 - **social media**
   - on facebook, search for communities, groups, the mom groups, the garage sale groups, people, conversations in the local area, such as Houston, Calgary, etc, I’m going to type in Houston. Then join the groups, and make posts in the groups, 
