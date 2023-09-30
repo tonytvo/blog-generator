@@ -37,6 +37,7 @@ tags: ["family", "emotion"]
 - what things frighten you now as compared to when you were a youth?
 - what three things did you consider becoming when deciding on college or a career?
 - are you happy with the profession you chose? why or why not?
+- did you go to college? if so, where, and what made you choose that school?
 
 
 - what did you find the most rewarding about being parent?
