@@ -39,6 +39,7 @@ tags: ["family", "emotion"]
 - are you happy with the profession you chose? why or why not?
 - did you go to college? if so, where, and what made you choose that school?
 - what tips you give for getting a job?
+- what advice would you give about doing well in my profession?
 
 
 - what did you find the most rewarding about being parent?
