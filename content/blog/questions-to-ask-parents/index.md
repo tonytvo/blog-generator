@@ -41,6 +41,7 @@ tags: ["family", "emotion"]
 - what tips you give for getting a job?
 - what advice would you give about doing well in my profession?
 - how would you describe success in the workplace?
+- what insight can you share with me about working well with others?
 
 
 - what did you find the most rewarding about being parent?
