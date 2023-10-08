@@ -6,6 +6,7 @@ tags: ["communication", "relationship"]
 ---
 
 # take-aways
+
 - Successful people are not always the smartest, most attractive or best educated.
 - Often, they succeed because they know how to get along well.
 - People respond to each other on a subconscious level. Research indicates that "as many as 10,000 units of information flow per second" between individuals.
@@ -105,170 +106,121 @@ tags: ["communication", "relationship"]
   - **"Chance encounters are for chitchat"** – You have been trying to schedule an appointment to speak to the boss about increasing your salary for weeks. But don't bring it up when you run into them in a checkout line. If you do, you'll never get the raise.
 
 ## Planned Communication – and Presentation – Makes All the Difference
+
 You cannot get ahead unless you know how to speak to people so they will want to listen. Fortunately, learning this skill is within anyone's grasp. Study how successful people accomplish this important goal – and then do what they do. It's really as simple as that.
 
-introduction we need to talk communication is a bit like love it's
-what makes the world go round but nobody really knows how it works
-communication is something natural something every day even yet most of us
-have only a vague notion of the rules that govern it day in day out we ask
-questions read explain right listen argue discuss or hold our tongues
-but only a few of us have the necessary tools to improve the way we communicate
-or to understand how we're being communicated with this was the starting point for our
-exploration of communication Theory for this book we delved into some of the
-most important communication theories assess their relevance condense them simplify them in the form of
-diagrams and applied them to modern day challenges we also enhance them with practical tips
-and methods the result 44 up to date approaches for dealing with eternal
-problems from relationships to job interviews fake news to the filter bubble effect small talk to the annual
-presentation this book is actually an exhibition which came about as follows the Museum
-of Communication in Bern Switzerland contacted us and asked if we could explain the most important
-theories in communication history in diagrams until 2030 you can experience this book
-live in the museum job and career 
+## six principles of persuasion
 
-1. six principles of persuasion
+- **reciprocity** this is basically the old biblical principle due unto others as you would have them do unto you.
+  - put into action: the right order is important, offer something first then ask for what you want 
+  - t’s possible to use this principle of reciprocity by doing favors for others, helping people, publicly praising others and generally working in such a way as to build up a bank of social obligations owed to you. Each of these obligations will be settled at some point, probably to your advantage. Of course, if you’re too over the top with this type of behavior, it will cease to work.
 
-1 reciprocity this is basically the
-old biblical principle due unto others as you would have them do unto you put into
-action if you want to get something give something the right order is important offer
-something first then ask for what you want 
-2. Authority we tend to follow the
-advice of experts we have more Trust in a doctor who is wearing a white coat
-and displaying diplomas on them wall put into action in your area of expertise
-find out what the white coat is 
+- **Authority** we tend to follow the advice of experts. We have more Trust in a doctor who is wearing a white coat and displaying diplomas on their wall.
+  - building trust and credibility is very important, but that it’s also possible to build some of that sense of authority through the recommendations and good words of others. It may be worth asking others to recommend you, or recommending others so that they feel a social obligation to recommend you in return.
 
-3 consistency we look up to people
-who are consistent in their words and behaviors put into action stick to one message
-don't follow every trend be the consistent one people will remember you for that
-for consensus we are hurt people we do what others do
-this is called social proof put into action if you want someone to
-do something show others doing it people who bought this book also bought
+- **consistency** we look up to people who are consistent in their words and behaviors.
+  - From a persuasion and influence perspective, this means that if I can convince you to act in a minor way in relation to something, then you’ll think of yourself as that type of person and be more likely to act in that way again in the future. You’ll also be more likely to increase your actions in that direction,
 
-5. scarcity we all want that which is rare and we are all afraid to lose what
-we have put into action it might not be enough to talk about the benefits of your offer
-you also need to point out what people will lose if they fail to act this also holds true if people
-face change they are usually scared of what they might lose therefore it's good to tell them what
-they will lose if they fail to move 
+- **consensus** Humans are social by nature and generally feel that it’s important to conform to the norms of a social group. This means that when it comes to decision making, we often look around us to see what others are doing, before making our mind up.
 
-6. liking this is the most universal
-principle people prefer to say yes to people they like but who do we like
-according to sealdini there are three factors we like people who are similar
-to us we like people who compliment us we like people who cooperate with us
-towards a common goal get in the habit of helping people out and don't say
-no big deal say of course it's what Partners do for each
-other label what happened in active partnership Robert cialdini
+- **scarcity** 
+  - we all want that which is rare and we are all afraid to lose what we have 
+  - put into action it might not be enough to talk about the benefits of your offer you also need to point out what people will lose if they fail to act. This also holds true if people face change they are usually scared of what they might lose therefore it's good to tell them what they will lose if they fail to move 
+  - The less of something there is, the more people tend to want it. This holds true for experiences as well as for material products.
+  - From a persuasion and influence perspective this means that to increase interest in your product or service, you may benefit from reducing its availability (or at least creating a sense of scarcity).
 
-two rules of meetings why meetings take so long it is one of the great Mysteries
-of the modern world of work why are needing so exhausting and why do they
-take so long 
+- **liking** this is the most universal principle people prefer to say yes to people they like but who do we like?
+  - according to sealdini there are three factors 
+    - we like people who are similar to us
+    - we like people who compliment us 
+    - we like people who cooperate with us towards a common goal 
+  - get in the habit of helping people out and don't say no big deal say of course
+  - you simply need to become liked by those around you and those you are looking to persuade or influence. You can do this by cooperating with others, by paying others genuine compliments and by identifying similarities and building relationships. They key here, though, is that you need to build these relationships and garner this “liking” before you try and influence others. If you try and become liked once you’ve started your efforts to influence, then those efforts will fail.
 
-according to Seth Godin there are only three kinds of meetings
-information a meeting in which the participants are informed about something whether they like it or not
-discussion a meeting which aims to give input or direction or to receive feedback
-permission a meeting in which one side proposes something in the hope that the other says yes but has the
-right and the power to say no what often makes meetings frustrating is the fact that different people
-might think it's a different kind of meeting here are some tips to make meetings run more smoothly the 15-minute
-rule Parkinson's law states that work expands so as to fill the time available for
-it's completion and not according to how complex it really is there for it
-makes sense to limit the time of meetings incidentally studies show that the
-attention span of the average person is between 10 and 18 minutes ideally you
-should use a timer when it rings the meeting is over immediately
+## two rules of meetings why meetings take so long
 
-the question rule there are three types of question that you can ask in a meeting 
-first comprehension questions 
-second questions to support the process for example to make sure that everyone has
-really understood everything and is talking about the same thing and 
-third questions that show how much you know in order to underscore your own position or challenge another person
-all three types of question are legitimate but they should not be mixed first come comprehension questions
-then questions about the process then debate questions the standing rule in many companies
-meetings are held with everybody standing up because it leads to decisions being reached more
-quickly see point one at Washington University studies showed that when they
-are standing people react more readily with enthusiasm whereas when they are sitting they
-tend towards skepticism the smartphone rule no smartphones during the meeting
-notes should be made by hand even the White House supposedly followed this
-rule under Barack Obama if you want to call a family meeting just turn off the Wi-Fi router and wait
-in the room where it is located 
+- according to Seth Godin there are only three kinds of meetings 
+  - information a meeting in which the participants are informed about something whether they like it or not
+  - discussion a meeting which aims to give input or direction or to receive feedback
+  - permission a meeting in which one side proposes something in the hope that the other says yes 
 
-3. boss talk how to talk to your team
+- what often makes meetings frustrating is the fact that different people might think it's a different kind of meeting
 
-The question is how do you communicate properly with your employees with your team
-obviously there can't be a universal answer every person every situation every company every
-relationship is different at the same time we all know that we should speak to our
-team the way we would like to be spoken to considerately directly clearly
-we've translated these adverbs into 
-rules one don't criticize
-this might sound a bit too easy going and of course you have to evaluate
-the work of your employees that's your job but go easy on the criticism
-only start deconstructing if you're prepared to help with the rebuilding keep using we
-especially when your team has lost 
-2. give praise but not too much
-go easy on the compliments otherwise they lose their effect if you
-celebrate behavior that you expect you are lowering standards whatever
-you do don't give praise simply to please 
+- here are some tips to make meetings run more smoothly the 15-minute rule
+  - Parkinson's law states that work expands so as to fill the time available for it's completion and not according to how complex it really is there for 
+    - it makes sense to limit the time of meetings incidentally studies show that the attention span of the average person is between 10 and 18 minutes ideally you should use a timer when it rings the meeting is over immediately
 
-three practice what you preach
-nothing Rings more Hollow than words that aren't backed up by Deeds if
-punctuality and friendliness are important to you then be punctual and friendly
-set the pace demonstrate values establish the tone but pick your battles only set standards
-that are important to you or that you consider to be generally important
-you ought to be good at upholding standards that are important to you and if there are standards that you regard
-as important but find hard to uphold then you need to learn them yourself
-share this with your employees nobody can be good at everything
-as a leader get used to the idea that you are primarily responsible for the supply of energy
-in other words motivating advising stabilizing providing momentum and letting others
-shine four the salami tactic how to carry through every idea meetings
-are known to reveal a person's character generally speaking there are four personality types and
-meetings one the silent type says nothing is thereby usually proven right and always
-thinks he or she knows better two the opportunist is enthusiastic about every suggestion especially those
-made or favored by the boss 3. the master of the obvious announces
-the obvious with great conviction as if he or she had just thought it up
+- the question rule there are three types of question that you can ask in a meeting 
+  - first comprehension questions 
+  - second questions to support the process for example to make sure that everyone has really understood everything and is talking about the same thing and 
+  - third questions that show how much you know in order to underscore your own position or challenge another person
 
-4. the naysayers purpose in life seems to be to pull apart other people's
-suggestions so how can you get a suggestion past these hellhounds a particularly
-effective method seems to be the salami tactic do not put your suggestion
-forward all in one go but serve it in small easily digestible slices Instead
-This portioning method has two advantages first the fear of a huge task
-or bold idea is reduced second a measured presentation allows the other
-participants to explore the idea themselves and think it through further and above all this tactic does not allow
-the other participants to recognize your overarching intention this makes it harder to fight against it
-if there are ideological riffs it is better to take small isolated steps than
-concentrate on the matter at hand not on the intended outcome and what do you do if
-someone tries to Salama you simply ask is that everything
-keep on asking until everything is on the table only then start negotiating setting one slice of salami
-off against the slice of your own the origin of the term is unclear some sources say that in Hungary
-Salama tactica was the name given to the gradual takeover of Power by the
-Communist Party disassemble a truck into many small parts and a child can carry it
-five theory of rhetoric how to make a good speech in his definitive work rhetoric
-Aristotle wrote that a good speaker has to have three things under control the
-argument logos the presentation ethos and the audience pathos
-this may sound pompous but it is just as valid today as in ancient times
-in Aristotle's day there were only three different types of rhetoric the
-first was judicial rhetoric which dealt primarily with past events then there
-was epideactic rhetoric which typically celebrated a person in the present a
-typical example is a eulogy which Aristotle wrote addresses the mourners
-rather than the Dead and finally there was deliberative rhetoric such as political oratory in which the
-speaker attempted to persuade the audience to carry out a certain action in the near future
-Aristotle and later the Roman Cicero and quintillion established a
-complex five-point plan for writing brilliant speeches which essentially boils down to this you should put all
-the aces that you want to play up here sleeve in advance good preparation in other words is
-everything Aristotle considered rhetoric not as a tool to convince the audience but as an
-art form to help present a persuasive argument this was the end too which the speakers
-should employ rhetoric because people with good ideas are often purse speakers he provided
-them with a toolbox full of rhetorical resources so Aristotle was in fact the first
-person to prepare academics for their TED talks and Keynotes below are six rhetorical tools
-1. anaphora repetition of a word or phrase typical in political speeches I
-demand Justice I demand understanding I demand
-two inversion reversing the usual word order such as an infinite is his
-sorrow instead of his sorrow is infinite 3. irony saying one thing when you
-really mean the opposite egi really enjoyed being stuck in that traffic jam
-4. rhetorical questions questions that make a statement EG would you like shiny
-glossy hair five analogies comparisons he stood there like a dying duck in a
-thunderstorm banal or he was as confused as a comma at the end of a sentence creative
-6. antithesis a contrasting thought to produce tension EG he was
-beautiful strong and unhappy in practice the same applies to presentations as to
-speeches read through your text aloud several times one full sheet of A4 is about four minutes of
-presentation remember to integrate pauses look at your audience
-breathe deeply a good speech is one that induces the listeners to change their minds while
-giving them the feeling that this change of opinion is their own decision 6. storytelling how to make the most
-boring lecture exciting why do all fairy tales begin with the phrase once upon a time
+  - all three types of question are legitimate but they should not be mixed, first come comprehension questions, then questions about the process then debate questions 
+
+- the standing rule in many companies meetings are held with everybody standing up because it leads to decisions being reached more quickly, Washington University studies showed that when they are standing people react more readily with enthusiasm whereas when they are sitting they tend towards skepticism
+- smartphone rule: no smartphones during the meeting
+  - notes should be made by hand even the White House supposedly followed this rule under Barack Obama 
+
+- if you want to call a family meeting just turn off the Wi-Fi router and wait in the room where it is located 
+
+## boss talk how to talk to your team
+
+- rules one don't criticize
+  - this might sound a bit too easy going and of course you have to evaluate the work of your employees that's your job but go easy on the criticism
+  - only start deconstructing if you're prepared to help with the rebuilding 
+  - keep using "we" especially when your team has lost 
+
+- give praise but not too much
+  - go easy on the compliments otherwise they lose their effect 
+  - if you celebrate behavior that you expect you are lowering standards 
+  - whatever you do don't give praise simply to please 
+
+- three practice what you preach
+  - pick your battles only set standards that are important to you or that you consider to be generally important you ought to be good at upholding standards that are important to you 
+  - and if there are standards that you regard as important but find hard to uphold then you need to learn them yourself share this with your employees nobody can be good at everything
+  - as a leader get used to the idea that you are primarily responsible for the supply of energy, in other words motivating advising stabilizing providing momentum and letting others shine 
+
+## four the salami tactic how to carry through every idea 
+
+- meetings are known to reveal a person's character generally speaking there are four personality types and meetings 
+  - one the silent type says nothing is thereby usually proven right and always thinks he or she knows better 
+  - two the opportunist is enthusiastic about every suggestion especially those made or favored by the boss 
+  - the master of the obvious announces the obvious with great conviction as if he or she had just thought it up
+  - the naysayers and their purpose in life seems to be to pull apart other people's suggestions 
+  
+- how can you get a suggestion past these hellhounds 
+  - the salami tactic: do not put your suggestion forward all in one go but serve it in small easily digestible slices Instead
+    - This portioning method has two advantages first the fear of a huge task or bold idea is reduced second a measured presentation allows the other participants to explore the idea themselves and think it through further and above all this tactic does not allow the other participants to recognize your overarching intention this makes it harder to fight against it
+    - if there are ideological riffs, it is better to take small isolated steps than concentrate on the matter at hand not on the intended outcome 
+    - and what do you do if someone tries to Salama, you simply ask is that everything keep on asking until everything is on the table only then start negotiating 
+
+## five theory of rhetoric how to make a good speech in his definitive work rhetoric
+
+- Aristotle wrote that a good speaker has to have three things under control the argument logos the presentation ethos and the audience pathos
+- in Aristotle's day there were only three different types of rhetoric 
+  - the first was judicial rhetoric which dealt primarily with past events then there was epideactic rhetoric which typically celebrated a person in the present a typical example is a eulogy which Aristotle wrote addresses the mourners rather than the Dead and finally there was deliberative rhetoric such as political oratory in which the speaker attempted to persuade the audience to carry out a certain action in the near future
+
+- Aristotle and later the Roman Cicero and quintillion established a complex five-point plan for writing brilliant speeches which essentially boils down to this 
+  - everything Aristotle considered rhetoric not as a tool to convince the audience but as an art form to help present a persuasive argument
+- below are six rhetorical tools
+  - **anaphora repetition** of a word or phrase typical in political speeches 
+    - i.e.: I demand Justice I demand understanding I demand 
+    - two inversion reversing the usual word order such as an infinite is his
+sorrow instead of his sorrow is infinite 
+    - irony saying one thing when you really mean the opposite, i.e: really enjoyed being stuck in that traffic jam
+  - **rhetorical questions** questions that make a statement
+    - i.e.: would you like shiny glossy hair 
+    - i.e.: he stood there like a dying duck in a thunderstorm banal or he was as confused as a comma at the end of a sentence creative
+  - **antithesis** a contrasting thought to produce tension, i.e.: he was beautiful strong and unhappy
+  - read through your text aloud several times 
+    - one full sheet of A4 is about four minutes of presentation
+  - remember to integrate pauses look at your audience
+  - breathe deeply 
+  - a good speech is one that induces the listeners to change their minds while giving them the feeling that this change of opinion is their own decision 
+
+## storytelling how to make the most boring lecture exciting
+
+why do all fairy tales begin with the phrase once upon a time
 the answer is relevant for anyone who gives presentations according to the social linguist William labov if we
 weave hard facts into narrative patterns associations with well-known fairy tales are evoked in our memories
 which remind us of the pleasure of listening to them with the consequence
@@ -501,7 +453,7 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
 enter every conversation assuming that you have something to learn people forget what they talked about
 with you but not how they felt in your presence we have two ears and only one mouth so
 that we can listen twice as much as we speak Epictetus
-15. the iceberg model what happens below the surface one of the most frequently cited and
+1.  the iceberg model what happens below the surface one of the most frequently cited and
 simplest but also most inscrutable of all communication theories is the iceberg Theory
 Sigmund Freud the founder of psychoanalysis believed that human behavior is governed Above All by the
 unconscious like an iceberg where only the tip protrudes from the water
@@ -523,7 +475,7 @@ of the iceberg the better we can understand the person's words and actions
 the best way to lower the water line of your opponent or partner is to show more of yourself
 if you for example want someone to admit something start by talking honestly
 about your own mistakes fear and hope are alike underneath Richard Ford
-16. the spiral of Silence why we don't dare State our opinion let
+1.  the spiral of Silence why we don't dare State our opinion let
 us assume that you have a five hour train ride ahead of you and in your crowded compartment of person starts
 talking about tightening the asylum laws would you like to talk to this person or
 not this is the railway test which the German social scientist Elizabeth
@@ -536,7 +488,7 @@ six points of which the last two are arguably the most important
 one most people have a fear of isolation and observe the behavior of others
 to assess which opinions will be accepted or rejected We Fear isolation
 more than being wrong wrote Alexis de Taco in the 19th century
-2. we exert pressure on each other we pull a face roll our eyes or turn
+1. we exert pressure on each other we pull a face roll our eyes or turn
 away when someone says something that does not comply with the prevailing opinion 3. fear of isolation and a
 pressure to conform occur unconsciously we do not think about the extent to which we
 are Guided by public opinion four we tend to conceal our opinion if we think that it will expose us to group
@@ -546,7 +498,7 @@ a group it is unlikely that a spiral of silence will begin six the number of peo
 opinion is not necessarily significant a minority opinion can appear to be a
 majority opinion if it's proponents appear confident enough and represent their opinion in public
 forcefully we become quieter if we believe that we are in the minority
-17. the speech act Theory how words can trigger actions you can do an incredible
+1.  the speech act Theory how words can trigger actions you can do an incredible
 amount with words how to do things with words is also the name of the well-known book
 by the British philosopher J L Austin from 1962 in which he
 substantiated language Theory he argued that in day-to-day life we distinguish between doing and
@@ -656,7 +608,7 @@ ourselves it will always take two to tango 4. human communication makes use of
 analog and digital modalities in Watson's terms digital means verbally
 and analog means non-verbally in other words eye rolling a smug smile ambiguous
 intonation if the two levels do not correlate then we're not on the same page
-5. communication is symmetric or complementary relationships between partners are
+1. communication is symmetric or complementary relationships between partners are
 either symmetrical equal or complementary unequal symmetric means
 that we talk at a level in the relationship complementary means that there is a kind of hierarchy
 for example between teacher and pupil if we do not agree whether the
@@ -683,7 +635,7 @@ cannot answer with yes or no two the questions require no prior knowledge in oth
 right or wrong answers only honest ones three they are questions that Center on
 your counterpart rather than on you we all admire people who give good answers but we admire those who ask
 good questions even more the people we remember most are the ones who really listen
-24. non-violent communication why we find it difficult to be friendly
+1.  non-violent communication why we find it difficult to be friendly
 psychologists generally agree that conflicts need to be dealt with but the question is how the American
 psychologist Marshall B Rosenberg 1934-2015 developed the idea of
 non-violent communication based on the premise that it's not what you say but how you say it he distinguishes between
@@ -737,7 +689,7 @@ what wonderful weather we can refrain from cooperation
 that's called opting out if you say my lips are sealed this implies you know
 something but won't talk about it and this will end all communication
 only say what is true and important and express it clearly and simply
-26. the expectancy violations Theory how much distance we keep from other people
+1.  the expectancy violations Theory how much distance we keep from other people
 perhaps you know the feeling you're sitting in the cinema the film hasn't started yet the auditorium is barely a
 third full and several rows are completely empty someone comes in looks around walks past
 the empty seats and sits down right next to you the feeling that you now have is
@@ -769,7 +721,7 @@ Schultz fonthan his communication Square does not count as a
 theory in the narrower sense but it breaks down the many pitfalls of communication in a clear away then
 other approaches according to Thun every message has four layers
 1. content what I am informing myself about 2. appeal what I want to achieve
-3. relationship my relationship to the receiver 4. self-disclosure what I show of myself
+2. relationship my relationship to the receiver 4. self-disclosure what I show of myself
 our example contains the content layer the traffic light is green the appeal
 layer come on drive an allusion to the relationship the passenger wants to help
 the driver and the self-disclosure layer the passenger is probably in a hurry
