@@ -171,7 +171,7 @@ tags: ["communication", "relationship"]
   - if you celebrate behavior that you expect you are lowering standards 
   - whatever you do don't give praise simply to please 
 
-- three practice what you preach
+- practice what you preach
   - pick your battles only set standards that are important to you or that you consider to be generally important you ought to be good at upholding standards that are important to you 
   - and if there are standards that you regard as important but find hard to uphold then you need to learn them yourself share this with your employees nobody can be good at everything
   - as a leader get used to the idea that you are primarily responsible for the supply of energy, in other words motivating advising stabilizing providing momentum and letting others shine 
@@ -186,9 +186,11 @@ tags: ["communication", "relationship"]
   
 - how can you get a suggestion past these hellhounds 
   - the salami tactic: do not put your suggestion forward all in one go but serve it in small easily digestible slices Instead
-    - This portioning method has two advantages first the fear of a huge task or bold idea is reduced second a measured presentation allows the other participants to explore the idea themselves and think it through further and above all this tactic does not allow the other participants to recognize your overarching intention this makes it harder to fight against it
+    - This portioning method has two advantages first the fear of a huge task or bold idea is reduced, second a measured presentation allows the other participants to explore the idea themselves and think it through further and above all this tactic does not allow the other participants to recognize your overarching intention. This makes it harder to fight against it
     - if there are ideological riffs, it is better to take small isolated steps than concentrate on the matter at hand not on the intended outcome 
-    - and what do you do if someone tries to Salama, you simply ask is that everything keep on asking until everything is on the table only then start negotiating 
+    - and what do you do if someone tries to Salama
+      - you simply ask "is that everything" 
+      - keep on asking until everything is on the table only then start negotiating 
 
 ## five theory of rhetoric how to make a good speech in his definitive work rhetoric
 
@@ -201,17 +203,16 @@ tags: ["communication", "relationship"]
 - below are six rhetorical tools
   - **anaphora repetition** of a word or phrase typical in political speeches 
     - i.e.: I demand Justice I demand understanding I demand 
-    - two inversion reversing the usual word order such as an infinite is his
-sorrow instead of his sorrow is infinite 
-    - irony saying one thing when you really mean the opposite, i.e: really enjoyed being stuck in that traffic jam
+    - **inversion** reversing the usual word order such as an "infinite is his sorrow" instead of his sorrow is infinite 
+  - **irony** saying one thing when you really mean the opposite, i.e: really enjoyed being stuck in that traffic jam
   - **rhetorical questions** questions that make a statement
-    - i.e.: would you like shiny glossy hair 
-    - i.e.: he stood there like a dying duck in a thunderstorm banal or he was as confused as a comma at the end of a sentence creative
+    - i.e.: would you like shiny glossy hair?
+  - **analogies** (comparison)
+    - i.e.: he stood there like a dying duck in a thunderstorm (banal) or he was as confused as a comma at the end of a sentence (creative)
   - **antithesis** a contrasting thought to produce tension, i.e.: he was beautiful strong and unhappy
   - read through your text aloud several times 
     - one full sheet of A4 is about four minutes of presentation
-  - remember to integrate pauses look at your audience
-  - breathe deeply 
+  - remember to integrate pauses look at your audience, breathe deeply.
   - a good speech is one that induces the listeners to change their minds while giving them the feeling that this change of opinion is their own decision 
 
 ## storytelling how to make the most boring lecture exciting
