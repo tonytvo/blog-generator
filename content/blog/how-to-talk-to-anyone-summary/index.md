@@ -105,10 +105,6 @@ tags: ["communication", "relationship"]
   - **"Savor the favour"** – If someone offers to do a good deed on your behalf, wait a little before you try to collect it.
   - **"Chance encounters are for chitchat"** – You have been trying to schedule an appointment to speak to the boss about increasing your salary for weeks. But don't bring it up when you run into them in a checkout line. If you do, you'll never get the raise.
 
-## Planned Communication – and Presentation – Makes All the Difference
-
-You cannot get ahead unless you know how to speak to people so they will want to listen. Fortunately, learning this skill is within anyone's grasp. Study how successful people accomplish this important goal – and then do what they do. It's really as simple as that.
-
 ## six principles of persuasion
 
 - **reciprocity** this is basically the old biblical principle due unto others as you would have them do unto you.
@@ -220,164 +216,81 @@ sorrow instead of his sorrow is infinite
 
 ## storytelling how to make the most boring lecture exciting
 
-why do all fairy tales begin with the phrase once upon a time
-the answer is relevant for anyone who gives presentations according to the social linguist William labov if we
-weave hard facts into narrative patterns associations with well-known fairy tales are evoked in our memories
-which remind us of the pleasure of listening to them with the consequence
-that our attention span increases classic fairy tales follow a particular sequence
-abstract how does it begin Once Upon a Time orientation whose slash where slash when
-a king and queen had a daughter complicating action the problem to be
-solved but all around the castle a hedge of thorns started to grow
-resolution solution then he stooped and kissed Sleeping Beauty and
-she opened her eyes for the first time in many many years evaluation what results from it and they
-lived happily ever after Coda what remains and the moral of the story
-a lecture should be structured along the same lines the idea is not new
-Aristotle see theory of rhetoric was already aware of the importance of emotion and speech making
-and in 1984 the communication researcher Walter Fisher came up with a radical
-thesis people do not want logical arguments they want good stories
-our life is not an Excel spreadsheet it is a story with ups and downs
-Fisher's idea is summed up in his famous narrative Paradigm which represents a
-break with classical rhetoric we do not evaluate a story on the basis of arguments but on the basis of how much
-we trust or believe in the story can I identify with the subject or the people and its coherence does the story
-make sense Chris Anderson the inventor of Ted says something similar about the
-three rules for a perfect Ted Talk one don't talk about a concept eh deficiency
-or a product talk about an idea two focus on just one idea
-three talk about the idea in such a way that people will want to tell others about
-it the next time you have to say something in front of other people start your
-talk with this sentence let me tell you a short story or on the way
-here something strange happened to me 7. principal negotiation
-how to reach an agreement negotiation is the Fine Art of finding a solution to an apparently impossible
-situation one of the best known negotiating methods principled negotiation is based on the book getting
-to yes by Roger Fisher and William L Yuri let's break down this strategy and
-apply it to real life think about a complex situation negotiating your
-salary with your boss pocket money with your children a ransom demanded by
-a blackmailer and try to apply the following principles to the situation
-thing not person do not be distracted by whether you like the other person or not
-similarities not differences don't think I am in the weaker or stronger
-negotiating position ask yourself what does the other person need from me do we have common interests
-good enough not perfect you should not be aiming for the maximum possible
-because Perfection is like the Unicorn it's rumored to exist but nobody has
-ever seen it so alongside your desired outcome to the negotiation have a plan be prepared
-before negotiations even start this is called the batna principle best
-alternative to a negotiated agreement it offers the best alternative when an
-agreement can't be reached there are two schools of thought when it comes to negotiation the first
-believes that you have to negotiate hard and conquer the other side it's not enough to win someone has to lose
-the other recommends negotiating softly in order not to put a strain on the relationship
-principal negotiation falls into the second camp and recommends Cooperative negotiation negotiating
-properly means that everyone gets more than they originally hoped for you must never try to make all the money
-that's in a deal let the other fellow make some money too because if
-you have a reputation for always making all the money you won't have many deals
-J Paul Getty eight the feedback method how to criticize
-feedback is one of the most sensitive processes in communication it is easy to hurt people with criticism
-but false Compliments are also unhelpful harsh criticism damages our self-esteem
-and can lead us to make unwise choices but flowery compliments often
-make us too complacent as for the person giving the feedback most people are prone to being
-critical as it gives them a feeling of superiority they feel like they need to
-Crush bad or weird ideas feedback can be analyzed along two axes
-it can be negative or positive and constructive or destructive
-so this gives us four different types of feedback 1. no negative destructive feedback you
-are simply told the idea is bad without being given an explanation or offered an alternative
-while this can be at times an effective feedback that seldom changes the
-behavior of the receiver two no because negative constructive
-feedback you are told you are wrong and then you are presented with the correct answer
-this is how Old School teaching works three yeah but positive destructive
-feedback most managers have sooner or later heard about the importance of giving positive feedback
-so they start off by saying something positive about your idea just to deconstructed afterwards and offer a
-contrary opinion the idea is good but for yes and the appreciative response
-tried to find the one thing in The Proposal that works and build on that
-this goes back to appreciative inquiry a method attributed to an American David cooperider that
-involves concentrating on the strengths positive attributes and potential
-of a company or a person rather than weaknesses according to this
-Theory focusing too strongly on the flaws of an idea or project stifles the
-open and positive approach that is essential for good working practices careful of course we sometimes have to
-deliver crystal clear or even harsh feedback but the point is people learn better if
-they are offered constructive feedback we know this from brainstorming sessions
-where the flow and fun increase the more positive The Exchange collaboration it
-seems dies when the response is negative and ideas are killed before they are
-explored whenever you are about to give feedback ask yourself how can I make
-this idea better rather than why is this idea bad nine groupthink what happens when
-everyone has the same opinion for a long time it was common knowledge that group decision making was
-better than individual decision making even today we often celebrate
-collaborations consensual decisions and teamwork however as early as 1972 a Yale
-psychologist Irving Janus pointed out in a spectacular radical paper that
-sometimes also groups make very bad decisions Janus had studied such debacles as Pearl
-Harbor or the Vietnam War and what he found was that these groups had rejected critical opinions
-and outside information in the warmth of a like-minded group people reassure themselves that they are right that
-their analysis is superior to that of Outsiders that there consensus is a sign of the strength of
-the group when in fact they have been looking only for evidence that confirmed their objectives
-and any doubts in the room where silence because if everyone seems enthusiastic and
-agrees with the plan we will feel reluctant to speak up even if we have
-serious doubts this by the way seems to be one of the governing principles of
-Donald Trump's leadership strategy surround yourself with yes Sears Janice called the phenomenon
-that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion group think
-if this happens the group is at risk of making very poor decisions
-and even more if many people are too sure of the same thing they become radical and imprudent
-researchers have observed this phenomenon among jury members the greater the consensus the harsher the
-judgment and the sure the jury is that its verdict is correct when does groupthink occur typically
-when there is High group cohesiveness high pressure to make a good decision
-strong persuasive directive leadership how can we avoid groupthink Janna
-suggested several steps for preventing groupthink here are two great recommendations if you are the leader of
-a team one give a high priority to airing objections and doubts
-in other words encourage all group members to speak their mind even and especially if
-the opinion is unpopular two divide your team into two informed
-competing teams to study the same problem compare results
-when all think alike no one is thinking Walter lippman 10. the power method
-when the Force is with you most theories in this book argue that good communication has to do with
-cooperation but in reality it's sometimes a different story it is no
-coincidence that the book The 48 Laws of Power a compilation of classic
-power strategies by the American author Robert Greene was a bestseller borrowing
-from this book here are some negotiating strategies that won't make you popular but might help you come
-out on top warning even if you prefer to convince people with good
-arguments rather than by mean tactics you should know these tricks because they are bound to be used
-against you never argue hesitantly if you are unsure about something try
-not to show it to others doubt and hesitation will only dilute
-your arguments with for and against formulations your adversary will see an
-opportunity to pounce so only speak up when you're sure you want to follow through your argument and
-stand your ground even if your plan is flawed we forgive bold people
-their mistakes but have no confidence and doubters talk less
-counter-intuitively you should not try to convince the other person by talking a lot the more you talk the more
-interchangeable and ordinary your arguments seem every Triumph that you achieve through words is in
-reality appearic Victory because nobody likes to be argued into a corner act
-ignorant we tend to be dazzled by intelligence and charisma try the opposite make your
-adversary feel clever he or she will be flattered and become inattentive when your opponent's guard
-drops you can attack acting stupid is one of the oldest stratagems around
-as they say in China masquerade as a pig to kill the Tiger give up if you can't convince somebody
-reassess your own situation what will it cost me if I give up now a smiling
-confession of your own defeat comes a cross says more self-assured than sullenness
-and what's more the less interests you show the less satisfied your adversary will feel
-oysters open completely when the moon is full and when the crab sees when it throws a piece of stone or
-seaweed into it and the oyster cannot close again so that it serves the crab for
-meat such is the fate of him who opens his mouth too much and thereby puts
-himself at the mercy of the listener Leonardo da Vinci 11. Intercultural communication
-how to negotiate abroad there was once a fin who loved his wife so much that he
-almost told her it's a joke and yet not a joke because many Finns are indeed
-introverted taciturn people anyone who has come into contact with other cultures knows that
-stereotypes and prejudices can't always be trusted the Scots are Frugal the
-Swiss are punctual the fins are introverted but that they do often contain
-a germ of Truth or to put it another way you might say that while many
-cliches are true the more you get to know a culture the more black end white turns to Gray
-in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more
-apparent in the way we communicate then in what we communicate what is required is so-called
-Intercultural communication the term was coined by the Dutch social psychologist geared hofsteed while its
-most famous proponent is the British linguist Richard D Lewis
-in his classic book when cultures collide 2005 he defines three main cultural
-types the linear active the multi-active and the reactive 1. the linear active who include most of
-Western Europe and the USA talk about as much as they listen have fairly restrained body language
-are polite but direct like to deal in facts and place value on the written
-word they don't do two things at once two the multi-active such as
-Mediterraneans or Saudi Arabians are loquacious gesticulate a lot are
-emotional juggle with facts place value on the spoken word and do many things at
-the same time three the reactive such as the Japanese Chinese and Koreans speak less and
-try to get their counterpart to speak first they have very subtle body language are courteous and indirect are
-non-confrontational and place value on face-to-face communication
-but contrary to what our schematic categorization might suggest there are no pure alignments only spectrums
-Indians for example are hybrid they are both reactive and multi-active
-Canada is on the borderline between linear active and reactive linear active
-if you are intrigued by the questions what when how many
-multi-active if you are intrigued by how people communicate and relate to each other
-reactive if you're convinced by who says it and their experience and Authority
-self and knowledge 12. self-talk how to DARE motivate ourselves
-there are two kinds of self-talk the first is the unself-conscious Babbling of little children as they play or the
+- Aristotle see theory of rhetoric was already aware of the importance of emotion and speech making and in 1984 the communication researcher Walter Fisher came up with a radical thesis people do not want logical arguments they want good stories
+- our life is not an Excel spreadsheet it is a story with ups and downs Fisher's idea is summed up in his famous narrative Paradigm which represents a break with classical rhetoric we do not evaluate a story on the basis of arguments but on the basis of how much we trust or believe in the story can I identify with the subject or the people and its coherence, does the story make sense.
+- Chris Anderson the inventor of Ted says something similar about the three rules for a perfect Ted Talk 
+  - one don't talk about a concept or deficiency or a product, talk about an idea
+  - two focus on just one idea
+  - three talk about the idea in such a way that people will want to tell others about it the next time you have to say something in front of other people 
+  - start your talk with this sentence: let me tell you a short story or on the way here something strange happened to me 
+
+## principal negotiation how to reach an agreement 
+
+- negotiation is the Fine Art of finding a solution to an apparently impossible situation 
+- one of the best known negotiating methods principled negotiation is based on the book getting to yes by Roger Fisher and William L Yuri 
+- let's break down this strategy and apply it to real life
+- think about a complex situation negotiating your salary with your boss pocket money with your children a ransom demanded by a blackmailer and try to apply the following principles to the situation
+  - thing not person do not be distracted by whether you like the other person or not
+  - similarities not differences don't think I am in the weaker or stronger
+    - negotiating position ask yourself what does the other person need from me do we have common interests
+  - good enough not perfect you should not be aiming for the maximum possible, because Perfection is like the Unicorn it's rumored to exist but nobody has ever seen it 
+  - have a plan, be prepared before negotiations even start this is called the batna principle best alternative to a negotiated agreement it offers the best alternative when an agreement can't be reached 
+  - there are two schools of thought when it comes to negotiation 
+    - the first believes that you have to negotiate hard and conquer the other side it's not enough to win someone has to lose the other recommends negotiating softly in order not to put a strain on the relationship
+    - principal negotiation falls into the second camp and recommends Cooperative negotiation negotiating properly means that everyone gets more than they originally hoped for you must never try to make all the money that's in a deal let the other fellow make some money too because if you have a reputation for always making all the money, you won't have many deals
+
+## the feedback method how to criticize
+
+- feedback is one of the most sensitive processes in communication, it is easy to hurt people with criticism but false Compliments are also unhelpful harsh criticism damages our self-esteem and can lead us to make unwise choices but flowery compliments often make us too complacent as for the person giving the feedback most people are prone to being critical as it gives them a feeling of superiority they feel like they need to
+- Crush bad or weird ideas feedback can be analyzed along two axes it can be negative or positive and constructive or destructive
+so this gives us four different types of feedback 
+  - no negative destructive feedback you are simply told the idea is bad without being given an explanation or offered an alternative while this can be at times an effective feedback that seldom changes the behavior of the receiver 
+  - no because negative constructive feedback you are told you are wrong and then you are presented with the correct answer this is how Old School teaching works 
+  - yeah but positive destructive feedback most managers have sooner or later heard about the importance of giving positive feedback so they start off by saying something positive about your idea just to deconstructed afterwards and offer a contrary opinion
+  - for "yes and" the appreciative response tried to find the one thing in The Proposal that works and build on that 
+    - this goes back to appreciative inquiry a method attributed to an American David cooperider that involves concentrating on the strengths positive attributes and potential of a company or a person rather than weaknesses according to this Theory focusing too strongly on the flaws of an idea or project stifles the open and positive approach that is essential for good working practices careful of course we sometimes have to deliver crystal clear or even harsh feedback but the point is people learn better if they are offered constructive feedback we know this from brainstorming sessions where the flow and fun increase the more positive The Exchange collaboration it seems dies when the response is negative and ideas are killed before they are explored whenever you are about to give feedback ask yourself how can I make this idea better rather than why is this idea bad 
+
+##  groupthink what happens when everyone has the same opinion
+
+- for a long time it was common knowledge that group decision making was better than individual decision making even today we often celebrate
+collaborations consensual decisions and teamwork however as early as 1972 a Yale psychologist Irving Janus pointed out in a spectacular radical paper that sometimes also groups make very bad decisions 
+  - Janus had studied such debacles as Pearl Harbor or the Vietnam War and what he found was that these groups had rejected critical opinions and outside information in the warmth of a like-minded group people reassure themselves that they are right that their analysis is superior to that of Outsiders that there consensus is a sign of the strength of the group when in fact they have been looking only for evidence that confirmed their objectives and any doubts in the room where silence because if everyone seems enthusiastic and agrees with the plan we will feel reluctant to speak up even if we have serious doubts this by the way seems to be one of the governing principles of Donald Trump's leadership strategy surround yourself with yes Sears 
+- Janice called the phenomenon that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion group think if this happens the group is at risk of making very poor decisions and even more if many people are too sure of the same thing they become radical and imprudent
+  - researchers have observed this phenomenon among jury members: the greater the consensus the harsher the judgment and the surer the jury is that its verdict is correct 
+- groupthink occur typically when there is High group cohesiveness high pressure to make a good decision strong persuasive directive leadership 
+- how can we avoid groupthink 
+  - Janna suggested several steps for preventing groupthink here are two great recommendations if you are the leader of a team one give a high priority to airing objections and doubts in other words encourage all group members to speak their mind even and especially if the opinion is unpopular two divide your team into two informed competing teams to study the same problem compare results when all think alike no one is thinking Walter lippman 
+
+## the power method when the Force is with you
+
+- warning even if you prefer to convince people with good arguments rather than by mean tactics you should know these tricks because they are bound to be used against you
+- never argue hesitantly if you are unsure about something try not to show it to others doubt and hesitation will only dilute your arguments, your adversary will see an opportunity to pounce
+- so only speak up when you're sure you want to follow through your argument and stand your ground even if your plan is flawed 
+- you should not try to convince the other person by talking a lot 
+- the more you talk, the more interchangeable and ordinary your arguments seem 
+- every Triumph that you achieve through words is in reality appear Victory because nobody likes to be argued into a corner
+- act ignorant: we tend to be dazzled by intelligence and charisma, try the opposite make your adversary feel clever he or she will be flattered and become inattentive when your opponent's guard drops you can attack
+  - acting stupid is one of the oldest stratagems around as they say in China masquerade as a pig to kill the Tiger 
+- give up if you can't convince somebody, reassess your own situation 
+  - what will it cost me if I give up now 
+  - a smiling confession of your own defeat comes a cross says more self-assured than sullenness and what's more the less interests you show the less satisfied your adversary will feel
+
+## Intercultural communication how to negotiate abroad
+
+- the more you get to know a culture the more black and white turns to Gray
+- in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more apparent in the way we communicate then in what we communicate what is required is so-called Intercultural communication the term was coined by the Dutch social psychologist geared hofsteed while its most famous proponent is the British linguist Richard D Lewis in his classic book when cultures collide 2005 he defines three main cultural types: the linear active, the multi-active and the reactive 
+  - 1. the linear active who include most of Western Europe and the USA talk about as much as they listen have fairly restrained body language
+are polite but direct like to deal in facts and place value on the written word they don't do two things at once 
+  - 2. the multi-active such as Mediterraneans or Saudi Arabians are loquacious gesticulate a lot are emotional juggle with facts, place value on the spoken word and do many things at the same time 
+  - 3. the reactive such as the Japanese Chinese and Koreans speak less and try to get their counterpart to speak first they have very subtle body language
+    - are courteous and indirect 
+    - are non-confrontational and place value on face-to-face communication but contrary to what our schematic categorization might suggest there are no pure alignments only spectrums Indians for example are hybrid they are both reactive and multi-active
+- Canada is on the borderline between linear active and reactive linear active
+- reactive if you're convinced by who says it and their experience and Authority self and knowledge 
+
+## self-talk how to DARE motivate ourselves
+
+- there are two kinds of self-talk the first is the unself-conscious Babbling of little children as they play or the
 thinking aloud of contestants in TV shows such as Who Wants to Be a Millionaire
 these types of inner monologue were called egocentric speech by the developmental psychologist Gene Piaget
 he believed they were a sign of cognitive immaturity today we know that
@@ -396,10 +309,13 @@ about freeing yourself from a cycle of negative thinking for example if you say
 I'll never manage it ask yourself instead what can I do in order to manage it in a nutshell self-talk serves
 two different functions first concentration and second motivation
 talking to myself is the only way I can be sure of intelligent conversation
-Edmund Blackadder 13. active listening how we are not
-always all ears paradoxically in our age of constant communication the raw material of
-conversation has actually disappeared listening genuine real listening is a
-rare commodity and a great gift because you are giving to the person you are
+Edmund Blackadder 
+
+## active listening 
+
+- how we are not always all ears paradoxically in our age of constant communication 
+- the raw material of conversation has actually disappeared 
+- listening genuine real listening is a rare commodity and a great gift because you are giving to the person you are
 listening to your most valuable asset your attention here are a few suggestions of how to do
 it right based on the communication technique active listening devised by Carl Rogers and
 Richard Farson in 1957 listen don't talk as the cartoon here suggests resist
@@ -422,7 +338,9 @@ instead take the conversation back to an exciting important part of the story ea
 said that take the person away from the smooth surface to deeper levels how was it for you when you or encourage
 the person to keep talking by simply asking and what happen next
 the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an
-analyst might a land de botan 14. small talk
+analyst might a land de botan 
+
+## small talk
 how to start a conversation with strangers small talk is actually something very
 big those who manage to Star day conversation with strangers break the
 ice and treat them like friends have the world at their feet see spruce's questionnaire but it's incredibly
