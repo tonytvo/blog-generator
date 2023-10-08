@@ -217,13 +217,22 @@ tags: ["communication", "relationship"]
 
 ## storytelling how to make the most boring lecture exciting
 
+- classic fairly tales follow a particular sequence:
+  - **abstract**: how does it begin? ("once upon a time...")
+  - **orientation:** who/where/when? (" A king and queen had a daughter")
+  - **complicating action:** the problem to be solved ("but all around castle, a hedge of thorns started to grow...")
+  - **resolution:** solution ("then he stopped and kissed the sleeping beauty. And she opened her eyes....")
+  - **evaluation:** what results from it? ("And they lived happily ever after")
+  - **coda:** what remains ("And the moral of the story...")
+
 - Aristotle see theory of rhetoric was already aware of the importance of emotion and speech making and in 1984 the communication researcher Walter Fisher came up with a radical thesis people do not want logical arguments they want good stories
-- our life is not an Excel spreadsheet it is a story with ups and downs Fisher's idea is summed up in his famous narrative Paradigm which represents a break with classical rhetoric we do not evaluate a story on the basis of arguments but on the basis of how much we trust or believe in the story can I identify with the subject or the people and its coherence, does the story make sense.
+- our life is not an Excel spreadsheet it is a story with ups and downs
+- Fisher's idea is summed up in his famous narrative Paradigm which represents a break with classical rhetoric we do not evaluate a story on the basis of arguments but on the basis of how much we trust or believe in the story (can I identify with the subject or the people) and its coherence (does the story make sense.)
 - Chris Anderson the inventor of Ted says something similar about the three rules for a perfect Ted Talk 
-  - one don't talk about a concept or deficiency or a product, talk about an idea
-  - two focus on just one idea
-  - three talk about the idea in such a way that people will want to tell others about it the next time you have to say something in front of other people 
-  - start your talk with this sentence: let me tell you a short story or on the way here something strange happened to me 
+  - 1. don't talk about a concept or deficiency or a product, talk about an idea
+  - 2. focus on just one idea
+  - 3. talk about the idea in such a way that people will want to tell others about it 
+  - the next time you have to say something in front of other people start your talk with this sentence: let me tell you a short story or on the way here something strange happened to me 
 
 ## principal negotiation how to reach an agreement 
 
