@@ -107,8 +107,8 @@ tags: ["communication", "relationship"]
 
 ## six principles of persuasion
 
-- **reciprocity** this is basically the old biblical principle due unto others as you would have them do unto you.
-  - put into action: the right order is important, offer something first then ask for what you want 
+- **reciprocity** this is basically the old biblical principle *do unto others as you would have them do unto you.*
+  - put into action: if you want to get something, give something. the right order is important: offer something first then ask for what you want 
   - t’s possible to use this principle of reciprocity by doing favors for others, helping people, publicly praising others and generally working in such a way as to build up a bank of social obligations owed to you. Each of these obligations will be settled at some point, probably to your advantage. Of course, if you’re too over the top with this type of behavior, it will cease to work.
 
 - **Authority** we tend to follow the advice of experts. We have more Trust in a doctor who is wearing a white coat and displaying diplomas on their wall.
@@ -116,8 +116,10 @@ tags: ["communication", "relationship"]
 
 - **consistency** we look up to people who are consistent in their words and behaviors.
   - From a persuasion and influence perspective, this means that if I can convince you to act in a minor way in relation to something, then you’ll think of yourself as that type of person and be more likely to act in that way again in the future. You’ll also be more likely to increase your actions in that direction,
+  - *put into action*: don't follow every trend. Be the consistent one, people will remember you for that.
 
 - **consensus** Humans are social by nature and generally feel that it’s important to conform to the norms of a social group. This means that when it comes to decision making, we often look around us to see what others are doing, before making our mind up.
+  - *put into action:* if you want someone to do something, show others doing it ("People who brought this book also brough...")
 
 - **scarcity** 
   - we all want that which is rare and we are all afraid to lose what we have 
@@ -130,7 +132,7 @@ tags: ["communication", "relationship"]
     - we like people who are similar to us
     - we like people who compliment us 
     - we like people who cooperate with us towards a common goal 
-  - get in the habit of helping people out and don't say no big deal say of course
+  - "get in the habit of helping people out and don't say no big deal say of course; it's what partners do for each other' - label what happened an act of partnership"
   - you simply need to become liked by those around you and those you are looking to persuade or influence. You can do this by cooperating with others, by paying others genuine compliments and by identifying similarities and building relationships. They key here, though, is that you need to build these relationships and garner this “liking” before you try and influence others. If you try and become liked once you’ve started your efforts to influence, then those efforts will fail.
 
 ## two rules of meetings why meetings take so long
@@ -138,13 +140,12 @@ tags: ["communication", "relationship"]
 - according to Seth Godin there are only three kinds of meetings 
   - information a meeting in which the participants are informed about something whether they like it or not
   - discussion a meeting which aims to give input or direction or to receive feedback
-  - permission a meeting in which one side proposes something in the hope that the other says yes 
+  - permission a meeting in which one side proposes something in the hope that the other says yes (but has the right and the power to say no)
 
 - what often makes meetings frustrating is the fact that different people might think it's a different kind of meeting
 
 - here are some tips to make meetings run more smoothly the 15-minute rule
-  - Parkinson's law states that work expands so as to fill the time available for it's completion and not according to how complex it really is there for 
-    - it makes sense to limit the time of meetings incidentally studies show that the attention span of the average person is between 10 and 18 minutes ideally you should use a timer when it rings the meeting is over immediately
+  - Parkinson's law states that *work expands so as to fill the time available for it's completion* and not according to how complex it really is there for it makes sense to limit the time of meetings incidentally studies show that the attention span of the average person is between 10 and 18 minutes ideally you should use a timer when it rings the meeting is over immediately
 
 - the question rule there are three types of question that you can ask in a meeting 
   - first comprehension questions 
@@ -155,8 +156,7 @@ tags: ["communication", "relationship"]
 
 - the standing rule in many companies meetings are held with everybody standing up because it leads to decisions being reached more quickly, Washington University studies showed that when they are standing people react more readily with enthusiasm whereas when they are sitting they tend towards skepticism
 - smartphone rule: no smartphones during the meeting
-  - notes should be made by hand even the White House supposedly followed this rule under Barack Obama 
-
+- notes should be made by hand.
 - if you want to call a family meeting just turn off the Wi-Fi router and wait in the room where it is located 
 
 ## boss talk how to talk to your team
