@@ -44,21 +44,6 @@ tags: ["communication", "relationship"]
 
 - The public insisted that investigators form another commission. Members organized a second test in which the questioner whispered questions in Hans's ear so no one else could hear. This time, Hans could not answer even a single question correctly. Instead of being brilliant, the horse was revealed as a dummkopf! Can you guess how the commission's members proved Hans was a fraud? Von Osten had taught the horse to read the audience members' "body-language signals." As Hans tapped his hoof, people in the audience would exhibit clear signs of tension – straining forward, holding their breath – until the horse reached the correct number. Then they would all relax, at which point von Osten had taught Hans to stop tapping immediately. Hans was "clever" – but not because he was a math genius or geography expert. He simply knew how to take cues for his actions from the subtle responses of the people around him. "Know your audience" is one of the primary rules of effective communications. Hans, the horse, was able to learn this important lesson. Can you?
 
-## Teach Yourself to Become Charming and Attractive
-- The most accomplished public speakers, actors, politicians and salespeople were not born charismatic. They worked hard to learn how to speak effectively, be appealing, and charm and persuade others. How did they achieve their goals? The answer is simple: They each applied certain remarkably helpful rules of personal communication and, thus, developed themselves into winning and attractive personalities. Yes, such rules exist. Furthermore, they are easy to learn and employ. You can use these secrets and tricks to re-create yourself almost magically into a person of great charm and poise and someone everyone will admire and want to be near.
-
-## "How to Intrigue Everyone Without Saying a Word"
-- First impressions are the most lasting. "The way you look and the way you move" provide 80% of the information people use to form their initial impressions of you. To make sure people get an overwhelmingly positive impression when they first meet you, use the following tips:
-  - **Smile slowly** – Don't smile as soon as you meet someone. People will assume that you do this with everyone. Instead, wait a second or two, look long and deep at the person you are meeting, then smile big. This brief delay signals that you are not smiling because it is socially desirable, but because you see something special in this particular person that you really like.
-  - **"Sticky eyes"** – Show people that you truly can't take your eyes off of them. Maintain perfect eye contact while you speak with them.
-  - **"The big baby pivot"** – When you meet someone, pivot directly toward him or her with a "total-body turn," flash a genuine smile, and show the undivided and very special attention you would give to a young child who has just crawled up into your lap.
-
-## "How to Know What to Say After You Say, 'Hi'"
-- Many people, including senior executives, motivational speakers and great performers, hate to make small talk. But it is an art that you can easily muster if you follow these tactics:
-  - **The "mood match"** – Don't speak with someone else until you first sample his or her mood. Once you have, ensure that your opening words "match that mood." This is particularly important for salespeople.
-  - **"Wear a 'whatzit'"** – Starting a conversation with a stranger is not easy. One way to get the ball rolling is to wear something distinctive that he or she is sure to comment upon – a novel tie-tack, a piece of antique jewelry, or a special lapel pin or button.
-  - **The "swivelling spotlight"** – People love to speak about themselves. Imagine a giant spotlight that rotates to light up your counterpart. Keep the spotlight – and focus – on that person and not yourself. He or she will think you are great for doing so.
-
 ## "How to Talk Like a VIP"
 - You can always recognize important people by the commanding, intelligent way they speak. They have confidence, choose the proper words, and don't use clichés. Follow their lead:
   - **"Kill the quick 'me too!'"** – To impress, avoid immediately matching someone else's account of a personal experience or preference – say, a love of sailing – with your own story. Let your shared interest come out gracefully during the conversation.
@@ -349,36 +334,43 @@ tags: ["communication", "relationship"]
 
 ## small talk - how to start a conversation with strangers 
 
-small talk is actually something very
-big those who manage to Star day conversation with strangers break the
-ice and treat them like friends have the world at their feet see spruce's questionnaire but it's incredibly
-difficult there has been little serious Research into the art of small talk and
-there are few reliable theories but nonetheless here are some practical tips ask for advice
-people love giving advice so start your small talk with the request for
-advice I want to buy a smartphone or a cocktail or a book but I can't
-decide which one most people will happily open up then thank them for
-the tip and the other person will feel like a fireman who has successfully extinguished a fire
-the psychology behind this if you ask for advice you create intimacy intimacy makes rejection
-difficult therefore if you want to influence someone it is a good idea to ask that
-person for advice first ask a second question we often ask something and then wait for
-the other person to ask something back this is not a conversation
-instead use the old reporter trick and ask a second question if you just asked where did you grow up
-then a good follow-up question might be how has that place shaped you don't ask what do you
-do for a living there are two kinds of people those who like to talk about their job and go
-on and on about it and those who are ashamed of their job hate it or don't have one the latter are reluctant to
-talk about this topic the author Gretchen Rubin suggests this simple but powerful tweak to the usual
-what do you do for a living job question what's keeping you busy these
-days now the other person can choose what to talk about don't start a conversation about things
-that interest you most people like to talk about themselves this leads to us not listening any more
-but simply waiting for our turn to speak but a conversation is not a PowerPoint
-presentation don't pitch your topics rather be the one person
-in the group who is interested in the other person's topics as Bill Nye put
-it everyone you'll ever meet knows something that you don't listen the way people deal with you depends on
-how you present yourself arrogant worldly wise or dull posturing brings out the same behavior in your
-counterpart the Supreme rule when making small talk comes from the radio host Celeste Hedley
-enter every conversation assuming that you have something to learn people forget what they talked about
-with you but not how they felt in your presence we have two ears and only one mouth so
-that we can listen twice as much as we speak Epictetus
+- ![small talk](./small-talk.png)
+
+- **ask for advice**
+  - people love giving advice so start your small talk with the request for advice "I want to buy a smartphone or a cocktail or a book but I can't decide which one". Most people will happily open up then thank them for the tip and the other person will feel like a fireman who has successfully extinguished a fire
+  - the psychology behind this if you ask for advice you create intimacy intimacy makes rejection difficult
+
+- **ask a second question**
+  - we often ask something and then wait for the other person to ask something back this is not a conversation instead use the old reporter trick and ask a second question if you just asked "where did you grow up?" then a good follow-up question might be "how has that place shaped you" 
+
+- don't ask what do you do for a living?
+  - there are two kinds of people those who like to talk about their job and go on and on about it and those who are ashamed of their job hate it or don't have one the latter are reluctant to talk about this topic the author Gretchen Rubin suggests this simple but powerful tweak to the usual "what do you do for a living?" job question: "what's keeping you busy these days" now the other person can choose what to talk about 
+
+- **don't start a conversation about things that interest you**
+  - most people like to talk about themselves this leads to us not listening any more but simply waiting for our turn to speak but a conversation is not a PowerPoint presentation don't pitch your topics rather be the one person in the group who is interested in the other person's topics as Bill Nye put it everyone you'll ever meet knows something that you don't 
+
+- **listen** 
+  - the way people deal with you depends on how you present yourself: arrogant, worldly wise or dull posturing brings out the same behavior in your
+counterpart the Supreme rule when making small talk comes from the radio host Celeste Hedley **enter every conversation assuming that you have something to learn** 
+  - **people forget what they talked about with you but not how they felt in your presence **
+  - **we have two ears and only one mouth so that we can listen twice as much as we speak Epictetus**
+
+
+### Teach Yourself to Become Charming and Attractive
+
+- The most accomplished public speakers, actors, politicians and salespeople were not born charismatic. They worked hard to learn how to speak effectively, be appealing, and charm and persuade others. How did they achieve their goals? The answer is simple: They each applied certain remarkably helpful rules of personal communication and, thus, developed themselves into winning and attractive personalities. Yes, such rules exist. Furthermore, they are easy to learn and employ. You can use these secrets and tricks to re-create yourself almost magically into a person of great charm and poise and someone everyone will admire and want to be near.
+
+### "How to Intrigue Everyone Without Saying a Word"
+- First impressions are the most lasting. "The way you look and the way you move" provide 80% of the information people use to form their initial impressions of you. To make sure people get an overwhelmingly positive impression when they first meet you, use the following tips:
+  - **Smile slowly** – Don't smile as soon as you meet someone. People will assume that you do this with everyone. Instead, wait a second or two, look long and deep at the person you are meeting, then smile big. This brief delay signals that you are not smiling because it is socially desirable, but because you see something special in this particular person that you really like.
+  - **"Sticky eyes"** – Show people that you truly can't take your eyes off of them. Maintain perfect eye contact while you speak with them.
+  - **"The big baby pivot"** – When you meet someone, pivot directly toward him or her with a "total-body turn," flash a genuine smile, and show the undivided and very special attention you would give to a young child who has just crawled up into your lap.
+
+### "How to Know What to Say After You Say, 'Hi'"
+- Many people, including senior executives, motivational speakers and great performers, hate to make small talk. But it is an art that you can easily muster if you follow these tactics:
+  - **The "mood match"** – Don't speak with someone else until you first sample his or her mood. Once you have, ensure that your opening words "match that mood." This is particularly important for salespeople.
+  - **"Wear a 'whatzit'"** – Starting a conversation with a stranger is not easy. One way to get the ball rolling is to wear something distinctive that he or she is sure to comment upon – a novel tie-tack, a piece of antique jewelry, or a special lapel pin or button.
+  - **The "swivelling spotlight"** – People love to speak about themselves. Imagine a giant spotlight that rotates to light up your counterpart. Keep the spotlight – and focus – on that person and not yourself. He or she will think you are great for doing so.
 
 ## the iceberg model - what happens below the surface
 one of the most frequently cited and simplest but also most inscrutable of all communication theories is the iceberg Theory
