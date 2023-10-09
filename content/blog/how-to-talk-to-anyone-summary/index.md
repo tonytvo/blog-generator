@@ -238,120 +238,118 @@ tags: ["communication", "relationship"]
 
 - negotiation is the Fine Art of finding a solution to an apparently impossible situation 
 - one of the best known negotiating methods principled negotiation is based on the book getting to yes by Roger Fisher and William L Yuri 
-- let's break down this strategy and apply it to real life
 - think about a complex situation negotiating your salary with your boss pocket money with your children a ransom demanded by a blackmailer and try to apply the following principles to the situation
-  - thing not person do not be distracted by whether you like the other person or not
-  - similarities not differences don't think I am in the weaker or stronger
-    - negotiating position ask yourself what does the other person need from me do we have common interests
+  - **thing not person** do not be distracted by whether you like the other person or not
+  - **similarities, not differences** don't think I am in the weaker (or stronger) negotiating position ask yourself *what does the other person need from me*? *do we have common interests*?
   - good enough not perfect you should not be aiming for the maximum possible, because Perfection is like the Unicorn it's rumored to exist but nobody has ever seen it 
-  - have a plan, be prepared before negotiations even start this is called the batna principle best alternative to a negotiated agreement it offers the best alternative when an agreement can't be reached 
+  - have a plan B prepared before negotiations even start. This is called the BATNA principle (best alternative to a negotiated agreement) it offers the best alternative when an agreement can't be reached 
   - there are two schools of thought when it comes to negotiation 
-    - the first believes that you have to negotiate hard and conquer the other side it's not enough to win someone has to lose the other recommends negotiating softly in order not to put a strain on the relationship
-    - principal negotiation falls into the second camp and recommends Cooperative negotiation negotiating properly means that everyone gets more than they originally hoped for you must never try to make all the money that's in a deal let the other fellow make some money too because if you have a reputation for always making all the money, you won't have many deals
+    - the first believes that you have to negotiate "hard" and "conquer" the other side (it's not enough to win someone has to lose) the other recommends negotiating softly in order not to put a strain on the relationship
+    - principal negotiation falls into the second camp and recommends Cooperative negotiation. Negotiating properly means that everyone gets more than they originally hoped for 
+    - you must never try to make all the money that's in a deal let the other fellow make some money too because if you have a reputation for always making all the money, you won't have many deals
 
 ## the feedback method how to criticize
 
-- feedback is one of the most sensitive processes in communication, it is easy to hurt people with criticism but false Compliments are also unhelpful harsh criticism damages our self-esteem and can lead us to make unwise choices but flowery compliments often make us too complacent as for the person giving the feedback most people are prone to being critical as it gives them a feeling of superiority they feel like they need to
-- Crush bad or weird ideas feedback can be analyzed along two axes it can be negative or positive and constructive or destructive
-so this gives us four different types of feedback 
-  - no negative destructive feedback you are simply told the idea is bad without being given an explanation or offered an alternative while this can be at times an effective feedback that seldom changes the behavior of the receiver 
-  - no because negative constructive feedback you are told you are wrong and then you are presented with the correct answer this is how Old School teaching works 
-  - yeah but positive destructive feedback most managers have sooner or later heard about the importance of giving positive feedback so they start off by saying something positive about your idea just to deconstructed afterwards and offer a contrary opinion
-  - for "yes and" the appreciative response tried to find the one thing in The Proposal that works and build on that 
-    - this goes back to appreciative inquiry a method attributed to an American David cooperider that involves concentrating on the strengths positive attributes and potential of a company or a person rather than weaknesses according to this Theory focusing too strongly on the flaws of an idea or project stifles the open and positive approach that is essential for good working practices careful of course we sometimes have to deliver crystal clear or even harsh feedback but the point is people learn better if they are offered constructive feedback we know this from brainstorming sessions where the flow and fun increase the more positive The Exchange collaboration it seems dies when the response is negative and ideas are killed before they are explored whenever you are about to give feedback ask yourself how can I make this idea better rather than why is this idea bad 
+- feedback is one of the most sensitive processes in communication, it is easy to hurt people with criticism but false Compliments are also unhelpful harsh criticism damages our self-esteem and can lead us to make unwise choices but flowery compliments often make us too complacent 
+- as for the person giving the feedback most people are prone to being critical as it gives them a feeling of superiority they feel like they need to crush bad or weird ideas 
+- feedback can be analyzed along two axes it can be negative or positive and constructive or destructive. So this gives us four different types of feedback 
+  - **"no" - negative destructive feedback** you are simply told the idea is bad without being given an explanation or offered an alternative while this can be at times an effective feedback that seldom changes the behavior of the receiver 
+  - **"no because..." - negative constructive feedback** you are told you are wrong and then you are presented with the correct answer this is how Old School teaching works 
+  - **"yeah, but..." - positive destructive feedback** most managers have sooner or later heard about the importance of giving positive feedback so they start off by saying something positive about your idea just to deconstructed afterwards and offer a contrary opinion ("the idea is good, but...")
+  - "**yes and..." - the appreciative response** tried to find the one thing in The Proposal that works and build on that 
+    - this goes back to appreciative inquiry a method attributed to an American David cooperider that involves concentrating on the strengths positive attributes and potential of a company or a person rather than weaknesses according to this Theory focusing too strongly on the flaws of an idea or project stifles the open and positive approach that is essential for good working practices
+
+- *careful* of course we sometimes have to deliver crystal clear or even harsh feedback but the point is people learn better if they are offered constructive feedback. We know this from brainstorming sessions where the flow and fun increase, the more positive The Exchange.
+  - collaboration it seems dies when the response is negative and ideas are killed before they are explored
+
+- **whenever you are about to give feedback ask yourself how can I make this idea better rather than why is this idea bad **
 
 ##  groupthink what happens when everyone has the same opinion
 
-- for a long time it was common knowledge that group decision making was better than individual decision making even today we often celebrate
-collaborations consensual decisions and teamwork however as early as 1972 a Yale psychologist Irving Janus pointed out in a spectacular radical paper that sometimes also groups make very bad decisions 
-  - Janus had studied such debacles as Pearl Harbor or the Vietnam War and what he found was that these groups had rejected critical opinions and outside information in the warmth of a like-minded group people reassure themselves that they are right that their analysis is superior to that of Outsiders that there consensus is a sign of the strength of the group when in fact they have been looking only for evidence that confirmed their objectives and any doubts in the room where silence because if everyone seems enthusiastic and agrees with the plan we will feel reluctant to speak up even if we have serious doubts this by the way seems to be one of the governing principles of Donald Trump's leadership strategy surround yourself with yes Sears 
-- Janice called the phenomenon that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion group think if this happens the group is at risk of making very poor decisions and even more if many people are too sure of the same thing they become radical and imprudent
+- Janice called the phenomenon that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion "group think". if this happens the group is at risk of making very poor decisions and even more if many people are too sure of the same thing they become radical and imprudent
   - researchers have observed this phenomenon among jury members: the greater the consensus the harsher the judgment and the surer the jury is that its verdict is correct 
-- groupthink occur typically when there is High group cohesiveness high pressure to make a good decision strong persuasive directive leadership 
+- groupthink occur typically when there is
+  - High group cohesiveness 
+  - high pressure to make a good decision
+  - strong persuasive directive leadership 
 - how can we avoid groupthink 
-  - Janna suggested several steps for preventing groupthink here are two great recommendations if you are the leader of a team one give a high priority to airing objections and doubts in other words encourage all group members to speak their mind even and especially if the opinion is unpopular two divide your team into two informed competing teams to study the same problem compare results when all think alike no one is thinking Walter lippman 
+  - "give a high priority to airing objections and doubts" in other words encourage all group members to speak their mind even and especially if the opinion is unpopular 
+  - divide your team into two informed competing teams to study the same problem compare results 
+  - **when all think alike no one is thinking - Walter lippman **
 
 ## the power method when the Force is with you
 
 - warning even if you prefer to convince people with good arguments rather than by mean tactics you should know these tricks because they are bound to be used against you
-- never argue hesitantly if you are unsure about something try not to show it to others doubt and hesitation will only dilute your arguments, your adversary will see an opportunity to pounce
+- **never argue hesitantly**
+  - if you are unsure about something try not to show it to others. Doubt and hesitation will only dilute your arguments, your adversary will see an opportunity to pounce
 - so only speak up when you're sure you want to follow through your argument and stand your ground even if your plan is flawed 
-- you should not try to convince the other person by talking a lot 
-- the more you talk, the more interchangeable and ordinary your arguments seem 
-- every Triumph that you achieve through words is in reality appear Victory because nobody likes to be argued into a corner
-- act ignorant: we tend to be dazzled by intelligence and charisma, try the opposite make your adversary feel clever he or she will be flattered and become inattentive when your opponent's guard drops you can attack
+- we forgive bold people their mistakes, but have no confidence in doubters.
+
+- **talk less**
+  - you should not try to convince the other person by talking a lot 
+  - the more you talk, the more interchangeable and ordinary your arguments seem 
+  - every Triumph that you achieve through words is in reality a pyrrhic Victory, because nobody likes to be argued into a corner
+
+- **act ignorant**
+  - we tend to be dazzled by intelligence and charisma, try the opposite: make your adversary feel clever he or she will be flattered and become inattentive. When your opponent's guard drops you can attack
   - acting stupid is one of the oldest stratagems around as they say in China masquerade as a pig to kill the Tiger 
-- give up if you can't convince somebody, reassess your own situation 
-  - what will it cost me if I give up now 
-  - a smiling confession of your own defeat comes a cross says more self-assured than sullenness and what's more the less interests you show the less satisfied your adversary will feel
+
+- **give up** 
+  - if you can't convince somebody, reassess your own situation: what will it cost me if I give up now 
+  - a smiling confession of your own defeat comes across as more self-assured than sullenness and what's more the less interests you show, the less satisfied your adversary will feel
 
 ## Intercultural communication how to negotiate abroad
 
 - the more you get to know a culture the more black and white turns to Gray
-- in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more apparent in the way we communicate then in what we communicate what is required is so-called Intercultural communication the term was coined by the Dutch social psychologist geared hofsteed while its most famous proponent is the British linguist Richard D Lewis in his classic book when cultures collide 2005 he defines three main cultural types: the linear active, the multi-active and the reactive 
-  - 1. the linear active who include most of Western Europe and the USA talk about as much as they listen have fairly restrained body language
-are polite but direct like to deal in facts and place value on the written word they don't do two things at once 
-  - 2. the multi-active such as Mediterraneans or Saudi Arabians are loquacious gesticulate a lot are emotional juggle with facts, place value on the spoken word and do many things at the same time 
-  - 3. the reactive such as the Japanese Chinese and Koreans speak less and try to get their counterpart to speak first they have very subtle body language
+- in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more apparent in the way we communicate then in what we communicate. 
+- three main cultural types: the linear active, the multi-active and the reactive 
+  - 1. **the linear active** who include most of Western Europe and the USA talk about as much as they listen, have fairly restrained body language, are polite but direct like to deal in facts, and place value on the written word. They don't do two things at once 
+  - 2. **the multi-active** such as Mediterraneans or Saudi Arabians are loquacious, gesticulate a lot, are emotional, juggle with facts, place value on the spoken word and do many things at the same time.
+  - 3. **the reactive** such as the Japanese Chinese and Koreans speak less and try to get their counterpart to speak first they have very subtle body language
     - are courteous and indirect 
-    - are non-confrontational and place value on face-to-face communication but contrary to what our schematic categorization might suggest there are no pure alignments only spectrums Indians for example are hybrid they are both reactive and multi-active
-- Canada is on the borderline between linear active and reactive linear active
-- reactive if you're convinced by who says it and their experience and Authority self and knowledge 
+    - are non-confrontational and place value on face-to-face communication
+- but contrary to what our schematic categorization might suggest there are no pure alignments, only spectrums. Indians for example are hybrid they are both reactive and multi-active. Canada is on the borderline between linear active and reactive
+- **linear active: if you're intrigued by the questions "what? when? how many?**
+- **multi-active**: if you're intrigued by "how" people communicate and relate to each other
+- **reactive** if you're convinced by who says it and their experience and authority
 
-## self-talk how to DARE motivate ourselves
+## self-talk how to (de)motivate ourselves
 
-- there are two kinds of self-talk the first is the unself-conscious Babbling of little children as they play or the
-thinking aloud of contestants in TV shows such as Who Wants to Be a Millionaire
-these types of inner monologue were called egocentric speech by the developmental psychologist Gene Piaget
-he believed they were a sign of cognitive immaturity today we know that
-thinking aloud is an excellent method for ordering our thoughts and improving concentration
-the second type of self-talk is the inner dialogue we comment on our
-own behavior in a similar way to a sports commentator reporting on events during a football match the only
-difference being that the footballers can't hear the comments whereas we constantly
-have our internal moderator in our year in the field of psychology this is
-considered to be a healthy form of self-evaluation however a distinction is made between
-positive and negative self-talk negative self-talk typically contains one of these thoughts
-generalization I have already been left twice people will always leave
-me rash conclusions why doesn't she call I think she doesn't like me
-self-blame I should have done differently or I'm a bad father positive self-talk is about breaking
-through the above negative patterns of thought it's not about convincing yourself that life is great but rather
-about freeing yourself from a cycle of negative thinking for example if you say
-I'll never manage it ask yourself instead what can I do in order to manage it in a nutshell self-talk serves
-two different functions first concentration and second motivation
-talking to myself is the only way I can be sure of intelligent conversation
-Edmund Blackadder 
+- there are two kinds of self-talk
+  - the first is the unself-conscious Babbling of little children as they play or the thinking aloud of contestants in TV shows such as Who Wants to Be a Millionaire? These types of inner monologue were called "egocentric speech" by the developmental psychologist Gene Piaget. he believed they were a **sign of cognitive immaturity**. Today we know that thinking aloud is an excellent method for ordering our thoughts and improving concentration
+  - the second type of self-talk is the inner dialogue we comment on our own behavior in a similar way to a sports commentator reporting on events during a football match the only difference being that the footballers can't hear the comments, whereas we constantly have our internal moderator in our year. In the field of psychology this is considered to be a healthy form of self-evaluation. However a distinction is made between positive and negative self-talk 
+- negative self-talk typically contains one of these thoughts
+  - **generalization**: I have already been left twice people will always leave me
+  - **rash conclusions:** why doesn't she call I think she doesn't like me
+  - **self-blame:** I should have done differently or I'm a bad father
+- positive self-talk is about breaking through the above negative patterns of thought it's not about convincing yourself that life is great but rather about freeing yourself from a cycle of negative thinking for example if you say "I'll never manage it," ask yourself instead: "what can I do in order to manage it?"
+- in a nutshell self-talk serves two different functions first concentration and second motivation
+- *talking to myself is the only way I can be sure of intelligent conversation - Edmund Blackadder *
 
-## active listening 
+## active listening how we are (not always) all ears 
+- paradoxically in our age of constant communication the raw material of conversation has actually disappeared: listening. Genuine real listening is a rare commodity and a great gift, because you are giving to the person you are listening to your most valuable asset your attention 
 
-- how we are not always all ears paradoxically in our age of constant communication 
-- the raw material of conversation has actually disappeared 
-- listening genuine real listening is a rare commodity and a great gift because you are giving to the person you are
-listening to your most valuable asset your attention here are a few suggestions of how to do
-it right based on the communication technique active listening devised by Carl Rogers and
-Richard Farson in 1957 listen don't talk as the cartoon here suggests resist
-talking about yourself or as the radio host Celeste Hadley put it brilliantly
-in a tedx speech if they're talking about having lost a family member don't
-start talking about the time you lost a family member if they're talking about the trouble they're having at
-work don't tell them about how much you hate your job it's not the same
-it's never the same all experiences are individual and more importantly
-it's not about you don't finish the other persons some people have a tendency of
-impatiently finishing the sentence or thought of the person they are talking to although very slow thinking end
-talking can be irritating don't interrupt even if you think it might show empathy your body language says a lot
-look the other person in the eye but don't stare not but only a few
-want to agree with what they are saying or show that you have understood something important
-notice the little things listen out for details and what they are saying and pick up on these later
-this makes it easier to ask questions you mentioned that you spent a lot of
-time as a child at your Grandmother's what kind of relationship did you have with her and it lets the other person
-know that you were really listening be a friend not a judge
-resist the impulse of giving the other person advice unless of course they specifically ask for it
-instead take the conversation back to an exciting important part of the story earlier you
-said that take the person away from the smooth surface to deeper levels how was it for you when you or encourage
-the person to keep talking by simply asking and what happen next
-the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an
-analyst might a land de botan 
+- **listen don't talk** 
+  - the radio host Celeste Hadley put "it brilliantly in a tedx speech if they're talking about having lost a family member don't start talking about the time you lost a family member if they're talking about the trouble they're having at work don't tell them about how much you hate your job it's not the same it's never the same all experiences are individual and more importantly **it's not about you**
 
-## small talk
-how to start a conversation with strangers small talk is actually something very
+- **don't finish the other persons...** 
+  - some people have a tendency of impatiently finishing the sentence or thought of the person they are talking to. Although very slow thinking and talking can be irritating don't interrupt even if you think it might show empathy
+
+- **your body language says a lot**
+  - look the other person in the eye but don't stare. Nod - but only if you want to agree with what they are saying or show that you have understood something important
+
+- **notice the little things** 
+  - listen out for details and what they are saying and pick up on these later. This makes it easier to ask questions ("you mentioned that you spent a lot of time as a child at your Grandmother's what kind of relationship did you have with her?"). And it lets the other person know that you were really listening 
+
+- **be a friend not a judge**
+  - resist the impulse of giving the other person advice - unless of course they specifically ask for it. instead, take the conversation back to an exciting important part of the story: "Earlier, you said that..." 
+  - take the person away from the smooth surface to deeper levels: "how was it for you when you...?" or encourage the person to keep talking by simply asking: "and what happen next?"
+
+- **the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an analyst might - Alain de bottan **
+
+## small talk - how to start a conversation with strangers 
+
+small talk is actually something very
 big those who manage to Star day conversation with strangers break the
 ice and treat them like friends have the world at their feet see spruce's questionnaire but it's incredibly
 difficult there has been little serious Research into the art of small talk and
@@ -381,8 +379,9 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
 enter every conversation assuming that you have something to learn people forget what they talked about
 with you but not how they felt in your presence we have two ears and only one mouth so
 that we can listen twice as much as we speak Epictetus
-1.  the iceberg model what happens below the surface one of the most frequently cited and
-simplest but also most inscrutable of all communication theories is the iceberg Theory
+
+## the iceberg model - what happens below the surface
+one of the most frequently cited and simplest but also most inscrutable of all communication theories is the iceberg Theory
 Sigmund Freud the founder of psychoanalysis believed that human behavior is governed Above All by the
 unconscious like an iceberg where only the tip protrudes from the water
 while the usually much bigger end mostly invisible part is below the surface
@@ -403,8 +402,10 @@ of the iceberg the better we can understand the person's words and actions
 the best way to lower the water line of your opponent or partner is to show more of yourself
 if you for example want someone to admit something start by talking honestly
 about your own mistakes fear and hope are alike underneath Richard Ford
-1.  the spiral of Silence why we don't dare State our opinion let
-us assume that you have a five hour train ride ahead of you and in your crowded compartment of person starts
+
+## the spiral of Silence why we don't dare State our opinion 
+
+let us assume that you have a five hour train ride ahead of you and in your crowded compartment of person starts
 talking about tightening the asylum laws would you like to talk to this person or
 not this is the railway test which the German social scientist Elizabeth
 Noelle Newman used to examine who sticks up for their opinion in public and who doesn't
@@ -426,8 +427,10 @@ a group it is unlikely that a spiral of silence will begin six the number of peo
 opinion is not necessarily significant a minority opinion can appear to be a
 majority opinion if it's proponents appear confident enough and represent their opinion in public
 forcefully we become quieter if we believe that we are in the minority
-1.  the speech act Theory how words can trigger actions you can do an incredible
-amount with words how to do things with words is also the name of the well-known book
+
+## the speech act Theory - how words can trigger actions
+
+you can do an incredible amount with words how to do things with words is also the name of the well-known book
 by the British philosopher J L Austin from 1962 in which he
 substantiated language Theory he argued that in day-to-day life we distinguish between doing and
 talking but that there is in fact no difference speaking is also an action
@@ -447,8 +450,11 @@ words but spoken by a vikr the sentence has weight and effect it is illitutionar
 and seals the marriage and with a bit of luck it is also prolecutionary if the married couple
 stick to their vows and Future the sentence of the vicar thereby triggers subsequent
 actions the speed check Theory explained in two sentences what do we do when
-we speak what impact do we have when we speak 18. the social judgment Theory which of
-our opinions never change a question that continues to preoccupy researchers into communication is
+we speak what impact do we have when we speak 
+
+## the social judgment Theory which of our opinions never change
+
+a question that continues to preoccupy researchers into communication is
 this when do people allow themselves to be persuaded about something and when
 not why is it that some of our attitudes are deeply ingrained and not up for
 discussion EG allegiance to a particular football club Huawei change others at
@@ -468,8 +474,10 @@ affected by a murder we might feel vengeful towards the perpetrator and change o
 briefly the stronger our anchor our firm position on an issue the harder it is
 to be persuaded by a different opinion the stronger you pull at another person's anchor the stronger their
 resistance how can you can succeed anyway see six principles of persuasion Dot
-if you can't change your mind then you're not using it 19. the story Matrix
-how to apologize properly so that the other person forgives and forgets
+if you can't change your mind then you're not using it 
+
+## the story Matrix - how to apologize properly so that the other person forgives and forgets
+
 apologizing is one of the most difficult interpersonal communication situations
 a few years ago a team of researchers from Ohio State University tackled this issue and played
 through a variety of approaches we translate their findings into strategies
@@ -492,7 +500,10 @@ likes to Grant absolution change yourself even the most honest apology is
 worthless if you repeat the same mistake three times making an apology is above all a
 commitment to making a change in an offer to make amends when it comes to apologies keep in mind there
 are only two ways you can apologize begrudgingly or sincerely
-choose the latter 20. White Lies how to answer the question how do I look
+choose the latter 
+
+## White Lies - how to answer the question how do I look
+
 the truth is all people lie in certain situations such as when we are under
 pressure have to justify ourselves or want to make a good impression we
 tend more towards fibbing and telling Tales than when we feel relaxed and self-secure but from an ethical point of
@@ -513,8 +524,13 @@ for red lie no one benefits this is the lowest form of lying
 saying something with complete awareness that the other person knows the statement to be false even if you
 sometimes end up also inflicting damage on yourself the largest audience
 ever to witness in inauguration if you tell the truth you don't have to
-remember anything Mark Twain love and friendship 22. what's the ex-axium theory how
-relationships fail an axiom is a valid truth that needs no proof at the end of
+remember anything Mark Twain love and friendship 
+
+## the six-word rule - how to sum up a whole life in six words
+
+## watzlawick's axiom theory - how relationships fail 
+
+an axiom is a valid truth that needs no proof at the end of
 the 1960s the communication theorist Paul waslowick together with other
 researchers came up with five axioms to explain how interpersonal communication
 especially in relationships fails one you cannot not communicate a man
@@ -542,8 +558,11 @@ that we talk at a level in the relationship complementary means that there is a 
 for example between teacher and pupil if we do not agree whether the
 communication is complementary or symmetrical it becomes problematic
 everyone hears what you say friends listen to what you say best friends
-listen to what you don't say 23 proves questionnaire how to ask good
-questions in the late 19th century light conversation or small talk in modern
+listen to what you don't say 
+
+## proust's questionnaire how to ask good questions
+
+in the late 19th century light conversation or small talk in modern
 English see Small Talk was crucial to the success of an evening being refined was not about saying the
 right thing without having to think to hard nor was it about getting the other person to laugh at one's Charming
 witty remarks instead the ideal neighbor at a dinner party was the one
@@ -563,7 +582,9 @@ cannot answer with yes or no two the questions require no prior knowledge in oth
 right or wrong answers only honest ones three they are questions that Center on
 your counterpart rather than on you we all admire people who give good answers but we admire those who ask
 good questions even more the people we remember most are the ones who really listen
-1.  non-violent communication why we find it difficult to be friendly
+
+## non-violent communication why we find it difficult to be friendly
+
 psychologists generally agree that conflicts need to be dealt with but the question is how the American
 psychologist Marshall B Rosenberg 1934-2015 developed the idea of
 non-violent communication based on the premise that it's not what you say but how you say it he distinguishes between
@@ -588,8 +609,11 @@ round we are by Nature prone to pass judgment and what's more it is
 easier to blame someone else than to think about why something happened the essence of normal communication we
 all like to be right the essence of non-violent communication we are
 better off if we resolve a dispute then if we win it or in the words of Marshall Rosenberg
-would you rather be right or happy 25. The Cooperative principle
-how we should express ourselves in order to be understood people's three biggest fears loving
+would you rather be right or happy 
+
+## The Cooperative principle - how we should express ourselves in order to be understood 
+
+people's three biggest fears loving
 someone without being loved in return searching for friends and not finding any saying something and not being
 understood there is no solution to the first two for the third there is at
 least the principle the British philosopher Paul Grice 1913-88 dedicated his life to this
@@ -617,7 +641,9 @@ what wonderful weather we can refrain from cooperation
 that's called opting out if you say my lips are sealed this implies you know
 something but won't talk about it and this will end all communication
 only say what is true and important and express it clearly and simply
-1.  the expectancy violations Theory how much distance we keep from other people
+
+## the expectancy violations Theory how much distance we keep from other people
+
 perhaps you know the feeling you're sitting in the cinema the film hasn't started yet the auditorium is barely a
 third full and several rows are completely empty someone comes in looks around walks past
 the empty seats and sits down right next to you the feeling that you now have is
@@ -641,9 +667,11 @@ of smartphones and social media is for many a strong sign of divided attention a
 the distance we keep is also influenced by cultural and situational norms
 different distance rules apply to dancing in a club and studying in a Library
 in Switzerland people greet one another with three little kisses in the USA this would be regarded as too
-close for comfort When in Rome do as the Romans do 27. Schultz Fawn thun's communication
-model why we should talk to each other about how we talk to each other it's an archetypal misunderstanding a
-couple are sitting in a car in the traffic lights turn green without the driver noticing the passenger says it's
+close for comfort When in Rome do as the Romans do 
+
+## Schultz von thun's communication model - why we should talk to each other about how we talk to each other
+
+it's an archetypal misunderstanding a couple are sitting in a car in the traffic lights turn green without the driver noticing the passenger says it's
 green the driver replies testily am I driving or you this example comes from Friday man
 Schultz fonthan his communication Square does not count as a
 theory in the narrower sense but it breaks down the many pitfalls of communication in a clear away then
@@ -667,7 +695,9 @@ because good communication occurs when intention end understanding are in harmon
 what is thought is not always said what is said is not always heard what is
 heard is not always understood what is understood is not always agreed
 what is agreed is not always done what is done is not always done again
-comrade Lorenz 28 Game Theory why it's worth talking to each other
+comrade Lorenz 
+
+## Game Theory - why it's worth talking to each other
 the 20th century was the century of mass murder two world wars took place within a
 period of 30 years in between there was some lousy diplomacy the logic of this period was
 the clever side never gives an end comes out on top to when you have to take action not
@@ -688,8 +718,11 @@ both have to do with communication you have to decide whether a everyone or B no
 gets a gift but this super simple Game Theory solution can only be
 achieved if both sides go along with the plan and if they make a binding agreement to stick to it two complex
 actions that people find hard to carry out meeting jaw to jaw is better than War
-Winston Churchill 29 second order observation
-how your therapist talks to you what does your therapist do when talking to you
+Winston Churchill 
+
+## second order observation - how your therapist talks to you
+
+what does your therapist do when talking to you
 he or she makes a so-called second order observation A first order Observer sees
 the world as it appears to him or her the world is simply there the second order Observer however
 ascribes what the first order Observer sees to how it is seen important we cannot observe
@@ -710,7 +743,10 @@ them move and then refurbish it despite the fact that most people constantly thi
 impossible to observe yourself while doing or thinking something we can
 only train ourselves to be more aware of moments when we act or think according to old and bad habits but in
 order to recognize these patterns we need a second Observer we can't see that we are seeing
-something 30. transactional analysis which ID used to communicate
+something 
+
+## transactional analysis - which I do you use to communicate
+
 here are two of the greatest interpreters of human communication Sigmund Freud
 1856-1939 the founder of psychoanalysis believed that hidden pleasures and fears
 from our childhood are the motivation behind our communication problems the psychiatrist Eric Byrne
@@ -735,8 +771,11 @@ if we react in an offended way or respond defiantly we are in child mode if we w
 up rationally and realize that our proposal was no good we are in the adult mode
 but if we argue morally that the others are wrong because we are right we are in parent mode
 if communication does not work you should ask yourself what state am I and
-at the moment paronygo adult ego or child ego 31 parenting tips
-how to talk to Children even if you don't have any of your own if you've ever asked a child how was
+at the moment paronygo adult ego or child ego 
+
+## parenting tips - how to talk to Children even if you don't have any of your own
+
+if you've ever asked a child how was
 school today or tried to explain to a toddler that it shouldn't feed washing
 powder to the cat you know that good communication can be more complicated than algebra so here are
 some tips from parenting experts be a role model actions speak louder than words
@@ -759,8 +798,10 @@ don't run ask questions that can be answered how was school today is as
 difficult for your child to answer as it would be for you to answer how was marched to April 2014 for you adults
 with children once two these rules of communication apply to all ages it is
 easier to build strong children than to repair broken men Frederick Douglass
-32 lesbree de lascalia when we think of the best arguments the term laspre de la
-Scalia staircase wit refers to opinions and ideas that we express with clear polished
+
+## l'essprit de l'escalier - when we think of the best arguments 
+
+the term laspre de la Scalia staircase wit refers to opinions and ideas that we express with clear polished
 pithiness and which always occur to us too late afterwards when we slowly descend the
 stairs we are suddenly much smarter than before this is how William Lewis hertzler
 described the term in his best seller de trepenwitz do well gestured staircase
@@ -781,7 +822,10 @@ answer might not be any clever but it comes across as weightier three dot not so
 you're not in an interview but sitting in the pub With Friends for DOT keep in mind that although being
 quick-witted can be impressive in it interview it is seldom required in most jobs
 Nothing in life is as important as you think it is while you are thinking about it Daniel Kahneman
-words and meanings 33 the framing effect what kind of image we have of the world
+words and meanings 
+
+## the framing effect what kind of image we have of the world
+
 in communication there is a fundamental rule how something is set in by whom the narrative context or frame
 determines how something is understood to take one example if a sensational
 piece of news is printed in a reputable newspaper we are more inclined to
@@ -805,8 +849,11 @@ tend to choose the yogurt advertised is almost fat-free because the frame for th
 a fat free healthier product the bottom line is we seldom make rational
 choices there are no objective or authentic messages everything that is being
 communicated is always framed and if you want to decode a message try
-to understand the frame 34. mcluhan's media Theory
-why the medium is the message the Canadian media scholar Marshall mcluhan
+to understand the frame 
+
+## mcluhan's media Theory - why the medium is the message
+
+the Canadian media scholar Marshall mcluhan
 1911-80 who generally shunned the Limelight became the world's most talked about intellectual in
 1967 this was because he had summed up the media Revolution the transition from
 print to TV in a single sentence the medium is the message
@@ -832,7 +879,9 @@ because as a conservative Catholic he was opposed to the media developments he
 described the news doesn't change us the medium does take a minute and make a
 list the five things that have changed in your behavior since using a smartphone
 now ask yourself what changes do you regret and finally what would it take to undo them
-35 the efomo phenomenon what happens if you don't look at your smartphone
+
+## the FOMO phenomenon - what happens if you don't look at your smartphone
+
 the internet has multiplied the number of ways in which we communicate while we still communicate one to one in
 a personal email for example we now also often communicate one to many EG in a Facebook post store
 WhatsApp group message one of the most important elements of online communication is
@@ -854,8 +903,11 @@ our smartphone but all this does is make us feel even worse
 smartphones act like an accelerant when it comes to fomo and thereby corroborate
 fifty-year-old mcluhan's media Theory the medium is the message in the 20th century I think therefore I
 am no longer applies but rather others are thinking of me therefore I am Peter
-sloted 36 laswell's communication model
-how to recognize fake news the term fake news has become ubiquitous
+sloted 
+
+## lasswell's communication model - how to recognize fake news
+
+the term fake news has become ubiquitous
 in recent years but what is fake news basically it is an aggressive way to
 influence people but fake or not all news is influencing
 something which the inventor of public relations Edward L Bernays took full
@@ -890,8 +942,11 @@ people with what effect with the effect analysis we ask how did the audience
 react what does this tell us about the sender Laswell was concerned with the effects
 of mass media but his message also applies to interpersonal
 communication his formula is a simple way to sharpen your senses for propaganda
-wherever it's coming from 37 the uses and gratifications Theory
-what we want when we're online what makes screens so attractive was the question already being asked by
+wherever it's coming from 
+
+## the uses and gratifications Theory - what we want when we're online
+
+what makes screens so attractive was the question already being asked by
 researchers in the early days of television in 1960 the sociologist elahu
 Katz claim to have the answer his uses and gratifications theory was
 radically different from other media effect theories he believed that media consumption was
@@ -911,8 +966,11 @@ reality everyone is familiar with this Behavior we immerse ourselves
 in a film a game or the internet and forget about ourselves it is important to notice that according
 to this Theory media do not force us into anything we decide for ourselves
 what we want to use when I die I want my Tombstone to say free Wi-Fi so people will visit
-more often 38. the encoding slash decoding model
-how messages can be understood differently a small but significant question is what
+more often 
+
+## the encoding slash decoding model - how messages can be understood differently 
+
+a small but significant question is what
 I can hear the same as what you are saying every child that has ever played Chinese Whispers knows the answer
 not always one of the greatest communication theorists Stuart Hall 1932-2014
 was of the same opinion in fact he took the idea further he
@@ -939,7 +997,9 @@ meaning three negotiated a combination of the two a message is more than just wh
 it changes depending on how it is understood let's put this into practice if you are
 a leader always make your team repeat to you how they have understood your message
 that is by the way the reason why co-pilots Always repeat what they just heard the pilot say
-39 visual communication how we interpret science
+
+## visual communication - how we interpret signs
+
 when we want to communicate something we use signs words gestures
 facial expressions formulas symbols or traffic signs that the other person
 has to translate into meaning semiotics is the study of science it is
@@ -961,8 +1021,11 @@ Muller she makes sin important point about the design of signs and symbols they 
 complex but need to be comprehensible otherwise there can be no communication
 most people understand complicated matter better through images than in words
 we remember pictures better than text and are more likely to recognize patterns and images than in
-sentences 40. euphemisms how we obfuscate with
-language speaking in euphemisms is a form of linguistic whitewashing governments
+sentences 
+
+## euphemisms - how we obfuscate with language
+
+speaking in euphemisms is a form of linguistic whitewashing governments
 prefer to speak of enhanced interrogation methods rather than torture
 the company's spokesman will not say that staff are being dismissed but that the company is
 restructuring products are a bargain not cheap if we tell a lie we are simply
@@ -979,8 +1042,10 @@ wants to get a particular message across downsizing suggests the sort of
 inevitability to making a company somewhat Cozier in size without mentioning job cuts
 euphemisms are the mother tongue of manipulation as a rule of thumb if
 someone doesn't use straight language don't act straight away pause before acting
-41 sophism how you can explain practically anything with spurious
-correlations in ancient Greece debate was Central to the forming of opinions
+
+## sophism - how you can explain practically anything with spurious correlations
+
+in ancient Greece debate was Central to the forming of opinions
 a distinction between good and bad reasoning was made good reasoning aims to convince but it
 also lets itself be convinced simply put it is the search for truth
 bad reasoning has no interest in the truth it is simply about wanting to be
@@ -1009,8 +1074,11 @@ causation just because two variables have a statistical relationship with each o
 does not mean that one is responsible for the other for instance ice cream sales and forest fires are
 correlated because both occur more often in the summer heat but there is no causation you don't set
 a patch of the Montana brush on fire when you buy a pint of Haagen-Dazs
-Nate silver 42 the cultivation Theory how the media
-corroborates our opinions one of the most frequently cited communication theories is George
+Nate silver 
+
+## the cultivation Theory how the media corroborates our opinions
+
+one of the most frequently cited communication theories is George
 gerbner's cultivation Theory from 1976 which claims that people who watch a lot
 of Television are more likely to cultivate the belief that reality corresponds with what they are seeing on
 TV he argued that watching a lot of Television changes our perception of
@@ -1041,8 +1109,11 @@ complexity viewers are regarded as passive and easy to manipulate if you are
 interested in the opposite view take a look at the encoding slash decoding model
 if you like apples and spend hours watching a TV program about pairs you won't suddenly prefer pairs
 afterwards but if you already like pears and spend hours watching a program about
-pairs you will like pears even more afterwards 43 the standpoint Theory what opinion
-has to do with power everyone has a voice but not everyone is heard
+pairs you will like pears even more afterwards 
+
+## the standpoint Theory what opinion has to do with power
+
+everyone has a voice but not everyone is heard
 the voices that Prevail are called hegemonic the creation of hegemony has little to do with
 democracy and everything to do with power it is not a question of who has
 something legitimate or important to say but always of who has sufficient resources and influence in a society to
@@ -1073,8 +1144,11 @@ opinion ask yourself what other points of view were excluded so that yours could
 if you want to make sure that every voice in the room is heard you can ask your team not to express their opinion
 about a given topic but rather brainstorm different possible opinions
 that way sooner or later even though unheard voices will appear on the flip chart and once they are up there they
-can be discussed conclusion 44. the peak and Rule what we remember
-from a conversation here's a question how do we know if a presentation a job interview or a
+can be discussed conclusion 
+
+## the peak and Rule what we remember from a conversation 
+
+here's a question how do we know if a presentation a job interview or a
 date went well we usually have a good hunch but do we really know
 assessing a date would involve some pretty complicated number crunching we'd have to
 calculate how we felt how the other person felt what we had expected and
