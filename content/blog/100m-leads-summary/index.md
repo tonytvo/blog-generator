@@ -7,26 +7,25 @@ tags: ["sale", "business"]
 
 # Grand Slam Offers
 
-In Chapter 2 of $100M Offers, Alex Hormozi introduces the concept of the “Grand Slam Offer.” Travis Jones states that the secret to sales is to “Make people an offer so good they would feel stupid saying no.”
+- Travis Jones states that the secret to sales is to **“Make people an offer so good they would feel stupid saying no.”**
 
-Further, to have a business, we need to help our prospects find a solution and make them an offer they can’t refuse:
+- Further, to have a business, we need to help our prospects find a solution and make them an offer they can’t refuse:
 
-Offer – “the goods and services you agree to provide, how you accept payment, and the terms of the agreement”
+- **Offer** – “the goods and services you agree to provide, how you accept payment, and the terms of the agreement”
 
-Offers start the process of customer acquisition and earning money, and they can range from nothing to a grand slam:
+- Offers start the process of customer acquisition and earning money, and they can range from nothing to a grand slam:
+  - **No offer?** No business. No life.
+  - **Bad offer?** Negative profit. No business. Miserable life.
+  - **Decent offer?** No profit. Stagnating business. Stagnating life.
+  - **Good offer?** Some profit. Okay business. Okay life.
+  - **Grand Slam Offer?** Fantastic profit. Insane business. Freedom.
 
-No offer? No business. No life.
-Bad offer? Negative profit. No business. Miserable life.
-Decent offer? No profit. Stagnating business. Stagnating life.
-Good offer? Some profit. Okay business. Okay life.
-Grand Slam Offer? Fantastic profit. Insane business. Freedom.
-There are two significant issues that most entrepreneurs face:
-
-Not Enough Clients
-Not Enough Cash or excess profit at the end of the month
-Buy $100M Offers On Amazon
+- There are two significant issues that most entrepreneurs face:
+  - **Not Enough Clients**
+  - **Not Enough Cash** or excess profit at the end of the month
 
 # The Commodity Problem
+
 In Chapter 3 of $100M Offers, Alex Hormozi illustrates the fundamental problem with commoditization and how Grand Slam Offers solves that. You are either growing or dying, as maintenance is a myth. Therefore, you need to be growing with three simple things:
 
 Get More Customers
