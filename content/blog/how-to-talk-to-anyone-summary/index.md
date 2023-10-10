@@ -57,12 +57,6 @@ tags: ["communication", "relationship"]
   - **Hit their "hot buttons"** – Each professional group has provocative issues – for example, doctors get feisty about their relationships with hospitals. Find out these issues, then mention them to spice up your exchanges.
   - **"Read their rags"** – The best way to gain inside knowledge about a specific field is to read the trade journals that report on it. An hour or two in the library can improve your conversational prowess.
 
-## "How to Sound Like You're Peas in a Pod"
-- Generally, people are more comfortable with those with similar values or interests. Your job is to provoke "sensations of similarity" in the thoughts of those you want to get to know:
-  - **"Join the movement"** – Does your conversational partner make herky-jerky movements or languid and graceful ones? Subtly match that person's movements to make him, or her feel more comfortable with you on a subliminal basis. But don't go overboard, or you are almost sure to offend.
-  - **"Echoing"** – What special words and phrases does your conversational partner use to describe something? "Echo" your partner and use those words yourself.
-  - **"The premature 'we'"** – When you pepper your sentences with the word "we," you establish a subconscious bond with other people involved.
-
 ## "How to Differentiate the Power of Praise from the Folly of Flattery"
 - Back in the 1930s, Dale Carnegie extolled the virtues of praise in his classic bestseller How to Win Friends and Influence People. The power of praise is just as strong today, but praise that does not appear genuine is certain to backfire, so proceed carefully using these helpers:
   - **"Grapevine glory"** – To praise someone without seeming to be an apple-polisher, speak highly of that person, but not directly to him or her. Instead, voice your compliment to that person's closest friend or associate. Rest assured that the message will get delivered.
@@ -372,101 +366,52 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
   - **"Wear a 'whatzit'"** – Starting a conversation with a stranger is not easy. One way to get the ball rolling is to wear something distinctive that he or she is sure to comment upon – a novel tie-tack, a piece of antique jewelry, or a special lapel pin or button.
   - **The "swivelling spotlight"** – People love to speak about themselves. Imagine a giant spotlight that rotates to light up your counterpart. Keep the spotlight – and focus – on that person and not yourself. He or she will think you are great for doing so.
 
+### "How to Sound Like You're Peas in a Pod"
+
+- Generally, people are more comfortable with those with similar values or interests. Your job is to provoke "sensations of similarity" in the thoughts of those you want to get to know:
+  - **"Join the movement"** – Does your conversational partner make herky-jerky movements or languid and graceful ones? Subtly match that person's movements to make him, or her feel more comfortable with you on a subliminal basis. But don't go overboard, or you are almost sure to offend.
+  - **"Echoing"** – What special words and phrases does your conversational partner use to describe something? "Echo" your partner and use those words yourself.
+  - **"The premature 'we'"** – When you pepper your sentences with the word "we," you establish a subconscious bond with other people involved.
+
+
 ## the iceberg model - what happens below the surface
-one of the most frequently cited and simplest but also most inscrutable of all communication theories is the iceberg Theory
-Sigmund Freud the founder of psychoanalysis believed that human behavior is governed Above All by the
-unconscious like an iceberg where only the tip protrudes from the water
-while the usually much bigger end mostly invisible part is below the surface
-at this point it should be mention that we do not know for sure who came up with this brilliant
-metaphor it certainly wasn't Freud some say it was Hemingway who in the 1930s
-claimed that an author does not have to explicitly reveal the deeper meaning of a story see the six-word rule it is
-sufficient if like an iceberg only a tenth is visible above water
-if we apply this rule to communication we could say that divisible conscious part of a discussion is the
-factual level what we say or what we talk about while the unconscious part is
-the interpersonal level how we say it and what we really mean see lasswell's communication model
-and what's the exaxium theory this means we can control the factual
-level we can select our words consciously but our gestures facial expression and tone of voice will betray
-our unconscious secret hopes repressed conflicts traumatic experiences base motives and animal
-instincts and appeal to the other person's unconscious the interpersonal
-level decides how we will be perceived and how we perceive others the more we know about another person's
-values patterns of behavior motives in other words the more we see
-of the iceberg the better we can understand the person's words and actions
-the best way to lower the water line of your opponent or partner is to show more of yourself
-if you for example want someone to admit something start by talking honestly
-about your own mistakes fear and hope are alike underneath Richard Ford
+
+- we could say that divisible conscious part of a discussion is the **factual level** (what we say or what we talk about) while the **unconscious part** is the interpersonal level (how we say it and what we really mean) see [lasswells communication model](#lasswells-communication-model---how-to-recognize-fake-news) and [what's the exaxium theory](#watzlawicks-axiom-theory---how-relationships-fail) this means we can control the factual, level we can select our words consciously but our gestures facial expression and tone of voice will betray our unconscious secret hopes, repressed conflicts, traumatic experiences ,base motives, and animal instincts, and appeal to the other person's unconscious. The interpersonal level decides how we will be perceived and how we perceive others 
+- the more we know about another person's values patterns of behavior motives in other words the more we see of the iceberg the better we can understand the person's words and actions. 
+- The best way to lower the water line of your opponent or partner is to show more of yourself if you for example want someone to admit something start by talking honestly about your own mistakes 
+- **fear and hope are alike underneath - Richard Ford**
 
 ## the spiral of Silence why we don't dare State our opinion 
 
-let us assume that you have a five hour train ride ahead of you and in your crowded compartment of person starts
-talking about tightening the asylum laws would you like to talk to this person or
-not this is the railway test which the German social scientist Elizabeth
-Noelle Newman used to examine who sticks up for their opinion in public and who doesn't
-her hypothesis the willingness of people to voice there opinion in public dwindles in situations
-where they believe that the majority opinion is different from their own in other words we do not like to be of a
-different opinion to others if we notice that the group majority has a different opinion to ours we remain
-silent this phenomenon is called the spiral of silence and can be explained by these
-six points of which the last two are arguably the most important
-one most people have a fear of isolation and observe the behavior of others
-to assess which opinions will be accepted or rejected We Fear isolation
-more than being wrong wrote Alexis de Taco in the 19th century
-1. we exert pressure on each other we pull a face roll our eyes or turn
-away when someone says something that does not comply with the prevailing opinion 3. fear of isolation and a
-pressure to conform occur unconsciously we do not think about the extent to which we
-are Guided by public opinion four we tend to conceal our opinion if we think that it will expose us to group
-pressure if we feel public support however we tend to express our
-opinion loudly and clearly 5. if consensus on a subject prevails in
-a group it is unlikely that a spiral of silence will begin six the number of people who share an
-opinion is not necessarily significant a minority opinion can appear to be a
-majority opinion if it's proponents appear confident enough and represent their opinion in public
-forcefully we become quieter if we believe that we are in the minority
+- German social scientist Elisabeth Noelle-Neumann hypothesis: the willingness of people to voice there opinion in public dwindles in situations where they believe that the majority opinion is different from their own. in other words we do not like to be of a different opinion to others if we notice that the group majority has a different opinion to ours we remain silent this phenomenon is called the spiral of silence and can be explained by these six points of which the last two are arguably the most important:
+- most people have a fear of isolation and observe the behavior of others to assess which opinions will be accepted or rejected We Fear isolation more than being wrong wrote Alexis de Taco in the 19th century
+- we exert pressure on each other we pull a face roll our eyes or turn away when someone says something that does not comply with the prevailing opinion
+- fear of isolation and a pressure to conform occur unconsciously we do not think about the extent to which we are Guided by public opinion 
+- we tend to conceal our opinion if we think that it will expose us to group pressure. If we feel public support, however, we tend to express our opinion loudly and clearly
+- if consensus on a subject prevails in a group, it is unlikely that a spiral of silence will begin
+- the number of people who share an opinion is not necessarily significant a minority opinion can appear to be a majority opinion if it's proponents appear confident enough and represent their opinion in public forcefully 
+
+- **we become quieter if we believe that we are in the minority**
 
 ## the speech act Theory - how words can trigger actions
 
-you can do an incredible amount with words how to do things with words is also the name of the well-known book
-by the British philosopher J L Austin from 1962 in which he
-substantiated language Theory he argued that in day-to-day life we distinguish between doing and
-talking but that there is in fact no difference speaking is also an action
-his thesis sentences have a propositional meaning this is the information
-contained in the sentence which can be true or false but sentences also
-have an elocutionary meaning this means that we are doing something when we speak including something
-essential doing something insane something examples include requests warnings
-threats recommendations such an elocution can succeed or fail
-for example if you don't take the speaker seriously the act of speaking
-has failed then there is a third dimension the persecution
-here it is about the extent to which whatever was said has consequences so
-whether the person being addressed acts on what is said or has a change of mind because of it doing
-something by saying something let's take an example if you say to a couple who happen to be
-sitting next to you I hereby declare you husband and wife then the proposition
-is the same as what a vicar would say at a marriage ceremony in a church the difference the sentence is just
-words but spoken by a vikr the sentence has weight and effect it is illitutionary
-and seals the marriage and with a bit of luck it is also prolecutionary if the married couple
-stick to their vows and Future the sentence of the vicar thereby triggers subsequent
-actions the speed check Theory explained in two sentences what do we do when
-we speak what impact do we have when we speak 
+- in day-to-day life we distinguish between doing and talking but there is in fact no difference. speaking is also an action.
+- The Thesis: sentences have a propositional meaning (this is the information contained in the sentence), which can be "true" or "false" but sentences also have an elocutionary meaning. This means that we are doing something when we speak including something essential ("doing something in saying something"). Examples include requests, warnings, threats, recommendations. Such an elocution can succeed or fail - 
+for example if you don't take the speaker seriously, the act of speaking has failed. Then there is a third dimension the persecution. Here it is about the extent to which whatever was said has consequences - so whether the person being addressed acts on what is said or has a change of mind because of it ("doing something by saying something")
 
-## the social judgment Theory which of our opinions never change
+- The speech Act Theory explained in two sentences "what do we do when we speak" and "what impact do we have when we speak?"
 
-a question that continues to preoccupy researchers into communication is
-this when do people allow themselves to be persuaded about something and when
-not why is it that some of our attitudes are deeply ingrained and not up for
-discussion EG allegiance to a particular football club Huawei change others at
-the drop of a hat favorite TV series for example an explanation is offered by the social
-judgment Theory according to this Theory there are three factors that play a role
-in persuading us to change our opinion one The Anchor Point this is
-our basic preferred attitude this attitude is hard to budge and we are unlikely to
-change it regardless of what information we are given so for example if we were to discover
-that the players of our favorite football team were manipulating games we might be shocked but it wouldn't put an
-end to our long love affair 2. room for maneuver here it is about which alternative attitudes we find
-acceptable regardless of Our Own these are attitudes that we can except without having to hoist our
-anchor this approach can lead to a change of opinion in the long term
-three ego involvement the most complicated part what does our ego have
-to say take the death penalty for example which clearly contradicts the Anchor Point
-human rights leaving little room for maneuver but it is conceivable that if we were personally
-affected by a murder we might feel vengeful towards the perpetrator and change our mind at least
-briefly the stronger our anchor our firm position on an issue the harder it is
-to be persuaded by a different opinion the stronger you pull at another person's anchor the stronger their
-resistance how can you can succeed anyway see six principles of persuasion Dot
-if you can't change your mind then you're not using it 
+## the social judgment Theory - which of our opinions never change
+
+- a question that continues to preoccupy researchers into communication is this **when do people allow themselves to be persuaded about something? and when not?** **why is it that some of our attitudes are deeply ingrained and not up for discussion?** (e.g.: allegiance to a particular football club) **while we change others at the drop of a hat?** (favorite TV series for example )
+- an explanation is offered by the **social judgment Theory** according to this Theory there are three factors that play a role in persuading us to change our opinion 
+  - **The Anchor Point** this is our basic preferred attitude this attitude is hard to budge and we are unlikely to change it regardless of what information we are given so for example if we were to discover that the players of our favorite football team were manipulating games we might be shocked but it wouldn't put an end to our long love affair 
+  - **room for maneuver** here it is about which alternative attitudes we find acceptable regardless of Our Own. These are attitudes that we can accept without having to hoist our anchor. This approach can lead to a change of opinion in the long term
+  - **ego involvement** the most complicated part what does our ego have to say? take the death penalty for example which clearly contradicts the Anchor Point "human rights", leaving little room for maneuver. But it is conceivable that if we were personally affected by a murder we might feel vengeful towards the perpetrator and change our mind at least briefly 
+
+- the stronger our anchor, i.e., our firm position on an issue, the harder it is to be persuaded by a different opinion. The stronger you pull at another person's anchor the stronger their resistance. (How can you can succeed anyway [see six principles of persuasion](#six-principles-of-persuasion))
+
+- **if you can't change your mind, then you're not using it **
 
 ## the story Matrix - how to apologize properly so that the other person forgives and forgets
 
