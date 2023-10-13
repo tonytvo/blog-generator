@@ -45,6 +45,7 @@ tags: ["family", "emotion"]
 - how did you like school? what were your favorite subjects?
 - what are your views on work ethic?
 - what was your first job in high school? did you like it? why or why not?
+- what was the worst job you ever had? why?
 
 
 
