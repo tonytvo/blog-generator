@@ -415,55 +415,40 @@ for example if you don't take the speaker seriously, the act of speaking has fai
 
 ## the story Matrix - how to apologize properly so that the other person forgives and forgets
 
-apologizing is one of the most difficult interpersonal communication situations
-a few years ago a team of researchers from Ohio State University tackled this issue and played
-through a variety of approaches we translate their findings into strategies
-use I sentences apologizing means taking on full responsibility for something
-sentences like I'm sorry that your feelings were hurt or I'm sorry that you're so
-angry should be avoided because what you're implying is it doesn't have anything to do with me that your
-feelings are hurt say it like it is I'm sorry that I hurt your feelings
-according to the research a person is most likely to forgive and forget if you
-admit full responsibility for what you did don't justify your actions
-it is a natural reflex to try to justify your own actions but also an idiotic one because a
-justification is an effective denial of the apology the following sentences are particularly
-counterproductive come on it wasn't that bad or I can help it the injured
-person will be more inclined to forgive if you come up with a reason rather than a justification try to
-explain your action without being defensive most effective of all iron
-explanation and an admission of guilt combined avoid but sentences an apology in which
-the word but crops up is almost never understood as an apology but as an excuse
-avoid at all costs don't ask for forgiveness asking for forgiveness is rarely
-effective according to the research you can spare yourself to bother nobody
-likes to Grant absolution change yourself even the most honest apology is
-worthless if you repeat the same mistake three times making an apology is above all a
-commitment to making a change in an offer to make amends when it comes to apologies keep in mind there
-are only two ways you can apologize begrudgingly or sincerely
-choose the latter 
+- **use I sentences**
+  - apologizing means taking on full responsibility for something sentences like I'm sorry that your feelings were hurt or I'm sorry that you're so angry should be avoided because what you're implying is it doesn't have anything to do with me that your feelings are hurt say it like it is I'm sorry that I hurt your feelings. According to the research a person is most likely to forgive and forget if you admit full responsibility for what you did 
+
+- **don't justify your actions**
+  - it is a natural reflex to try to justify your own actions but also an idiotic one. Because a justification is an effective denial of the apology the following sentences are particularly counterproductive: **"come on it wasn't that bad"** or **"I can't help it"** the injured person will be more inclined to forgive if you come up with a reason rather than a justification try to explain your action without being defensive. Most effective of all iron explanation and an admission of guilt combined
+
+- **avoid but sentences**
+  - an apology in which the word but crops up is almost never understood as an apology but as an excuse
+avoid at all costs
+
+- don't ask for forgiveness 
+  - asking for forgiveness is rarely effective. Nobody likes to Grant absolution
+- **change yourself**
+  - even the most honest apology is worthless if you repeat the same mistake three times. Making an apology is above all a commitment to making a change in an offer to make amends 
+
+- **when it comes to apologies keep in mind there are only two ways you can apologize begrudgingly or sincerely, choose the latter**
 
 ## White Lies - how to answer the question how do I look
 
-the truth is all people lie in certain situations such as when we are under
-pressure have to justify ourselves or want to make a good impression we
-tend more towards fibbing and telling Tales than when we feel relaxed and self-secure but from an ethical point of
-view not every lie is bad you might for example lie in order to protect someone
-in communication Theory lies fall into two categories do I benefit from the lie or does the
-person I lied to benefit this results in four different outcomes one white lie only the person lied to
-benefits this is a fine selfless lion which you risk potential loss to help
-someone out here you typically put yourself in the position of the person and for example Defender
-existence of Santa Claus and the knowledge that the LIE will be exposed in due time
-this altruistic lie gives us a good feeling 2. gray lie both the liar and the person
-lied to benefit you've lost weight gray lies are often part of cultural
-norms in many situations when you ask how are you you expect a
-lie in response thank you things are great three black lie only the liar benefits
-although you are guilty you reject all accusations no I didn't take the money
-it is often also a bold promise a proactive lie if I am elected
-I will never raise taxes here bare-faced lying is used to your own advantage
-for red lie no one benefits this is the lowest form of lying
-saying something with complete awareness that the other person knows the statement to be false even if you
-sometimes end up also inflicting damage on yourself the largest audience
-ever to witness in inauguration if you tell the truth you don't have to
-remember anything Mark Twain love and friendship 
+- the truth is, all people lie. In certain situations - such as when we are under pressure, have to justify ourselves, or want to make a good impression - we tend more towards fibbing and telling Tales than when we feel relaxed and self-secure. But, from an ethical point of view not every lie is bad. You might for example lie in order to protect someone. In communication Theory lies fall into two categories: "do I benefit from the lie" or "does the person I lied to benefit?" This results in four different outcomes 
+- **white lie - only the person lied to benefits** this is a fine selfless lie which you risk potential loss to help someone out here you typically put yourself in the position of the person and for example Defender existence of Santa Claus and the knowledge that the LIE will be exposed in due time this altruistic lie gives us a good feeling 
+- **gray lie both the liar and the person lied to benefit** "you've lost weight" gray lies are often part of cultural norms. In many situations when you ask "how are you?" you expect a lie in response "thank you things are great"
+- **black lie only the liar benefits** although you are guilty you reject all accusations: "no I didn't take the money" it is often also a bold promise a proactive lie if "I am elected I will never raise taxes..." Here bare-faced lying is used to your own advantage
+- **red lie no one benefits** saying something with complete awareness that the other person knows the statement to be false, even if you
+sometimes end up also inflicting damage on yourself the "largest audience ever to witness in inauguration"
+- **if you tell the truth you don't have to remember anything - Mark Twain**
 
 ## the six-word rule - how to sum up a whole life in six words
+
+- Hemmingway wrote novel in 6 words: "For sale, baby shoes, never worn"
+- "Can you tell your life story in six words?"
+- George Saunders summed life up beautifully: "started small, grew, peaked, shrunk, vanished"
+- The six word rule is not a rejection of sprawling, convoluted sentences or endless digressions, but before writing (or speaking), you should ask yourself these questions: what do I really want to say and can I say it more succinctly?
+- **if it's important, keep it short**
 
 ## watzlawick's axiom theory - how relationships fail 
 
