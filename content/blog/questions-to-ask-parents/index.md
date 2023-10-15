@@ -46,7 +46,8 @@ tags: ["family", "emotion"]
 - what are your views on work ethic?
 - what was your first job in high school? did you like it? why or why not?
 - what was the worst job you ever had? why?
-
+- have you ever been fired from or quit a job? what happened?
+- what was the most rewarding job you ever had? why was it rewarding?
 
 
 
