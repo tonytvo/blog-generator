@@ -48,14 +48,12 @@ tags: ["family", "emotion"]
 - what was the worst job you ever had? why?
 - have you ever been fired from or quit a job? what happened?
 - what was the most rewarding job you ever had? why was it rewarding?
-
-
-
-
-
-
-
-
+- what awards have you received in school or at work?
+- if money wasn't an object, what career would you have chosen? why?
+- how do you feel about women going to college and getting a career?
+- what degrees have you earned?
+- as a youth, did you participate in Boy Scouts, Girl Scouts, or other organizations? What did you like best about them?
+- as a teenager, were you rebellious? if so, why? how did your parents try to guide you?
 
 
 - what did you find the most rewarding about being parent?
