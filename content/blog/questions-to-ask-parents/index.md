@@ -208,6 +208,10 @@ tags: ["family", "emotion"]
 - how do you feel about the world's preoccupation with thinness and beauty?
 - how do you feel about what is viewed on television now compared to when you were growing up?
 
+- do you hae a philosophy on life? What's your best piece of advice?
+
+
+
 # Quotes
 
 
