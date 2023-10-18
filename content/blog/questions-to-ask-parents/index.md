@@ -208,7 +208,13 @@ tags: ["family", "emotion"]
 - how do you feel about the world's preoccupation with thinness and beauty?
 - how do you feel about what is viewed on television now compared to when you were growing up?
 
-- do you hae a philosophy on life? What's your best piece of advice?
+- do you have a philosophy on life? What's your best piece of advice?
+- what was your religion growing up? what church, if any, did you attend?
+- what does jesus christ mean to you? if you're not christian, what deity is important to you and why?
+- what have been turning points in your spiritual life?
+- do you believe in God. If so, how did you come to believe in Him?
+- what you have done to build your faith in God?
+- what do you feel is the purpose of life?
 
 
 
