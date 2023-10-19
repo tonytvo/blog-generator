@@ -271,6 +271,8 @@ tags: ["family", "emotion"]
 - how do you feel about growing older? what have been the best and worst things?
 - do you feel I'm a good father or mother to my children? how would you counsel me to be better?
 - what is the most important thing you recommend I do or experience in my life that you did or did not get to do?
+- is there anything you have wanted to say to me but never have? what is it?
+- 
 
 # Quotes
 
