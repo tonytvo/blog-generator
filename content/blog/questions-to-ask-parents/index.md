@@ -215,10 +215,67 @@ tags: ["family", "emotion"]
 - do you believe in God. If so, how did you come to believe in Him?
 - what you have done to build your faith in God?
 - what do you feel is the purpose of life?
+- what makes a good person in your eyes? what makes a bad person?
+- what do you believe happens to our souls when we die?
+- are you afraid of dying? what will you miss the most? what are you afraid of?
+- has your faith ever been tested? what did you do? did it destroy or build your testimony?
+- when was a time that you went out of your way to help a person? what did you do?
+- what is a motto that you have lived your life by?
+- is there a scripture, poem, or saying that is most meaningful to you? if so, what is it and why?
+- have you ever felt that you had a special calling or mission in life? what was it?
+- do you believe in ghosts and spirits? why or why not?
+- do you believe in heaven? how do you envision it?
+- have you ever received an answer to a prayer? how did it change your life or faith?
+- why do you have a testimony of your religion?
+- what lessons have you learned from helping others?
+- what do you treasure most about your religion?
+- what three important things that you've learned from religion do you want to pass on to your children?
+- what is the difference between being alive and truly living?
+- if god could grant you one favor, what would it be? why?
+- do you believe in guardian angels? do you feel your loved ones who have passed away look over you? if so, how did you come to believe this?
+- if you had to name the most important thing that has happened to your spiritual life, what would it be and why?
+- if you could pick the most sacred spot that you have ever seen in this world, where would it be? why?
+- if you had to make a case for the existence of God, what would you say?
+- if you could have done one thing in life to make you more of a spiritual person, what would it have been? why didn't you do that thing?
+- is there anything in life that you wish you could undo?
+- if you could name the most spiritual person you have ever encountered in your life, who would that be and how has he or she affected you?
+- when have you felt the most spiritual in your life?
+- with so many important things in a person's life, is spirituality an important quality for a person to work on? why or why not?
+- do you believe in the law of attraction - that god brings people into your life to help you achieve your goals if you live worthily? why or why not?
+- do you believe in karma, what goes around comes around? why or why not?
+- when was a time that you had to ask forgiveness of another person? what happened?
+- how do you feel about predestination? do you feel we make life up as we go along?
+- has someone hurt you in the past that you still carry a grudge about? what happened?
+- have you ever changed religions? why did you switch?
+- describe a time when your prayers were answered
+- was there ever a time in your life that someone went above and beyond to do something kind for you? what did they do?
+- do you believe in miracles? what miracles have occurred in your life?
+- has there ever been a time in your life that you were moved by the spirit to do something? what did you do?
+- did you say family prayers with your parents when you were growing up? why or why not?
+- where do you go to relax and renew yourself? what things do you do to unwind?
+- have you ever had a paranormal experience? what happened?
+- do you believe we're not alone in the universe? do you believe in extraterrestrial life? why?
 
-
+- do you still have goals and dreams for me? what are they? have they changed as I have grown up?
+- if I could do only one thing really well in life, what would you want that to be?
+- were there times that I disappointed you? what would you have had me do differently?
+- how do you think we're alike? how do you think we're different?
+- what part of our relationship do you wish we could have improved?
+- how do you want me to remember you?
+- what do you imagine your funeral to be like?
+- what have I done has made you proud?
+- what is the one thing you want people to remember about you?
+- what makes you most proud of your gender? what makes you not proud?
+- what is the one thing you want me to be better at than you are?
+- if you could go back to any age and relive it, which would it be and why?
+- how do you feel about growing older? what have been the best and worst things?
+- do you feel I'm a good father or mother to my children? how would you counsel me to be better?
+- what is the most important thing you recommend I do or experience in my life that you did or did not get to do?
 
 # Quotes
 
+the unexamined life is not worth living - socrates
+
+to the questions of your life, you're the answer. To the problems of your life, you are the solution - jo coudert
 
 # References
