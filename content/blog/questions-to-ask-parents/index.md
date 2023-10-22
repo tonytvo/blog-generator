@@ -32,6 +32,7 @@ tags: ["family", "emotion"]
 - name a time when you got in a lot of trouble with your parents and were grounded. What did you learn from that experience?
 - what qualities and characteristics make a true friend?
 - how did you go about selecting your friends in high school?
+- who was your first love?
 - was there ever a time in your life when you lost your self-esteem? what did you do to rebuild it?
 - what things bring you the most pleasure now as compared to when you were a youth?
 - what things frighten you now as compared to when you were a youth?
@@ -54,6 +55,9 @@ tags: ["family", "emotion"]
 - what degrees have you earned?
 - as a youth, did you participate in Boy Scouts, Girl Scouts, or other organizations? What did you like best about them?
 - as a teenager, were you rebellious? if so, why? how did your parents try to guide you?
+- who has been your best friend?
+- what makes a real friend?
+- is it possible to be a complete adult without suffering hardship, adversity, or danger?
 
 
 - what did you find the most rewarding about being parent?
@@ -74,6 +78,7 @@ tags: ["family", "emotion"]
 - what major illnesses or health problems affected your family?
 - who were you especially close to in the family? why?
 - what family traditions were most important to you?
+- do you find yourself saying the same things to me that your parents said to you?
 - briefly tell one or more of our family's best stories or tall tales
 - what was the best advice your parents gave you?
 - what did you love most about your father? least? why?
@@ -86,6 +91,9 @@ tags: ["family", "emotion"]
 - how did you balance your work life and your family life?
 - what is important to you when raising children?
 - what do you wish you would have asked your parents?
+- how did you deal with your mom/dad's death?
+- have you ever regretted having children?
+- how does a dad/mom get through his/her children's adolescence?
 - what has having children taught you in life?
 - if you could write a message to your children and grandchildren and put it in a time capsule for them to read twenty years from now, what would you write to them?
 - what family secrets about relatives have you not told me?
@@ -93,6 +101,9 @@ tags: ["family", "emotion"]
 - for dad: were there miscarriages or troubles with childbirth? if so, how did you help mom during this difficult time?
 - what advice would you give me for being a good sister or brother?
 - who was your favorite sibling when you were growing up? did you ever fight?
+- what did you want me to be when I grew up?
+
+
 - what are your views on marriage?
 - what advice would you give a newlywed couple?
 - if you're married, what do you value about the relationship that you share with your spouse now?
@@ -105,6 +116,8 @@ tags: ["family", "emotion"]
 - if you could have done anything differently on your wedding day, what would it have been?
 - how did you keep your relationships alive with your spouse while we were growing up? if you are divorced, how did you get along while raising us?
 - what qualities and traditions make a good marriage?
+- should marriage really mean forever?
+- can a man a a woman find lasting happiness?
 - what have you learned about being married?
 - if you have been divorced, what did you learn from that experience?
 - during times of trouble in your life, who did you talk to about them? how did those people help you?
@@ -128,6 +141,8 @@ tags: ["family", "emotion"]
 - have you ever been in love with someone who later broke up with you? how did you handle the situation?
 - how old were you when your parents allowed you to begin dating?
 - what advice would you give about how to ask someone out on a date?
+
+
 - what kinds of books do you like to read?
 - who had the most positive influence on your life? what did that person do?
 - who helped you to develop your talents? what did they do to help you?
@@ -138,10 +153,12 @@ tags: ["family", "emotion"]
 - what principle has changed the direction of your life?
 - how do you feel about the choices you made in your life? what good choices did you make? do you have any regrets about your choices?
 - what movie has most inspired you? why?
+- what's your favorite movie?
 - what kind of music inspired or lifted you up when you felt down?
 - if you were ever to write a book, what would it be about?
 - what kind of friend were you to others?
 - what books have you read that you enjoyed or that helped shape your life? would you recommend that I read them?
+- what's your favorite book? why?
 - what television shows did you watch? why?
 - where have you traveled? what are your favorite places to visit?
 - where in the world would you recommend I visit before I die? why?
@@ -157,17 +174,30 @@ tags: ["family", "emotion"]
 - what family event in your life has most affected the way you look at life? describe how it affected you and your family.
 - if you were writing the story of your life, how would you divide it into chapters?
 - what are the most important lessons you want to pass on to your children?
-- do you have any regrets? what are they?
+- what's the best part of having a child?
+- what did you feel the first time you cradled me in your arms?
+- do you have any regrets? what are they? what's the biggest?
 - who were your best friends? how have they shaped you?
 - what conferences or workshops have influenced your life?
 - did you have any addictions? how did they influence your outlook on life?
 - who would you say had more influence in your life: your significant other, your family, or your friends? why is that?
 - what are your favorite sayings or expressions?
 - have you ever lost a loved one? what happened?
+- should I strive to be happy, or strive to be successful?
+- how will I know when I'm successful?
+- how would you feel if I wanted to be an artist or poet?
+- what's the biggest mistake you've ever made? what can I learn from it?
+- are sports important? how?
+- which is more important to study? art or science?
+- what should I do when someone wrongs me?
+- in a world of compromises, how do I keep true to myself?
+
+
 - what world events had the most impact on you while you were growing up? did any of them personally affect your family?
 - how is the world today different from when you were a child?
 - what would you consider the most important inventions that have been made during your lifetime?
 - what wars have been fought during your lifetime? how did you feel about them?
+- did you have to kill anyone in the war? do you ever think about those experiences?
 - how did you feel about 9/11? where were you when this happened?
 - how did you feel about the Gulf War? what are your opinions about it?
 - what are your views on voting? have you ever held an office?
@@ -194,7 +224,7 @@ tags: ["family", "emotion"]
 - how do you feel about same-sex marriages and homosexuality?
 - has the economy ever impacted your parents or you personally?
 - what clubs or groups did you belong to? why?
-- what do you love about the country you live in?
+- what do you love about the country you live in? what do you love most?
 - what do you love about the city or town you live in now?
 - what or who has influenced your political views?
 - have you ever killed anyone during war? what is your view on killing?
@@ -207,6 +237,12 @@ tags: ["family", "emotion"]
 - with what historical figure would you like to spend time if given a chance? why?
 - how do you feel about the world's preoccupation with thinness and beauty?
 - how do you feel about what is viewed on television now compared to when you were growing up?
+- how should I deal with hard times?
+- what's the biggest risk you've ever taken?
+- how will I know when a risk is worth taking?
+- what's the most important thing to remember about money?
+- what would your advice be if I were drafted to go to war?
+
 
 - do you have a philosophy on life? What's your best piece of advice?
 - what was your religion growing up? what church, if any, did you attend?
@@ -214,10 +250,13 @@ tags: ["family", "emotion"]
 - what have been turning points in your spiritual life?
 - do you believe in God. If so, how did you come to believe in Him?
 - what you have done to build your faith in God?
+- what does god mean to you?
 - what do you feel is the purpose of life?
-- what makes a good person in your eyes? what makes a bad person?
+- what makes a good person in your eyes? what makes a bad person? - what's the mark of a good person?
 - what do you believe happens to our souls when we die?
 - are you afraid of dying? what will you miss the most? what are you afraid of?
+- do you ever think about death?
+- what do you believe happens when we die?
 - has your faith ever been tested? what did you do? did it destroy or build your testimony?
 - when was a time that you went out of your way to help a person? what did you do?
 - what is a motto that you have lived your life by?
@@ -256,7 +295,9 @@ tags: ["family", "emotion"]
 - have you ever had a paranormal experience? what happened?
 - do you believe we're not alone in the universe? do you believe in extraterrestrial life? why?
 
+
 - do you still have goals and dreams for me? what are they? have they changed as I have grown up?
+- how hard should I pursue my dreams?
 - if I could do only one thing really well in life, what would you want that to be?
 - were there times that I disappointed you? what would you have had me do differently?
 - how do you think we're alike? how do you think we're different?
@@ -270,14 +311,49 @@ tags: ["family", "emotion"]
 - if you could go back to any age and relive it, which would it be and why?
 - how do you feel about growing older? what have been the best and worst things?
 - do you feel I'm a good father or mother to my children? how would you counsel me to be better?
+- what makes a good dad/mom?
+- what makes a good son/daughter?
 - what is the most important thing you recommend I do or experience in my life that you did or did not get to do?
 - is there anything you have wanted to say to me but never have? what is it?
-- 
+- how important has physical appearance been to your life?
+- what would you have done differently if no one had been there to judge you?
+- if you were to write your own epitaph, what would it say?
+- if you could have avoided knowing about something in your life, what would it be?
+- what was the happiest time of your life? what was your happiest teenage day?
+- what was the saddest time or your life?
+- how would you describe your life overall - difficult, easy, happy, sad, lucky, unlucky, satisfying, unsatisfying? why?
+- in your opinion, what matters most in this life?
+- how did you feel when I was born?
+- what's the most embarrassing thing that you have done or that has happened to you?
+- how much do you love me? my siblings?
+- have you ever had something awful happen in your life that made you feel like giving up? what kept you from giving up?
+- what grudges do you wish that you would have let go of earlier?
+- what is the most memorable phone call, card, or present you ever received?
+- how have you stayed the same during your life? how have you changed?
+- what is your typical day like now? how is it different than in the past? is it better?
+- how should people prepare for their senior years? is there anything you would have done differently?
+- if you live another thirty years, what will you do with your life?
+- what is your favorite part of your retirement years?
+- what things have given you the most pleasure or satisfaction in life?
+- how have your children made you proud?
+- what is the wisest decision you have made in your life?
+- what did you always want to do but never had the chance?
+- what's your own golden rule?
+- what was the worst decision of your life?
+- life is unpredictable - what's the best way to handle its surprises?
+- is my life already determined or am I in control of my destiny?
+- how has your life changed since retirement?
+- if you could change one thing about yourself physically, what would it be?
+- if you could change one thing about yourself mentally, what would it be?
+- if you could change one thing about yourself spiritually, what would it be?
+- if you could change one thing about yourself emotionally, what would it be?
 
 # Quotes
 
 the unexamined life is not worth living - socrates
 
 to the questions of your life, you're the answer. To the problems of your life, you are the solution - jo coudert
+
+time is a powerful river of passing events; no sooner is one thing brought to sight than it is swept away and another takes its place - and this, too, will be swept away
 
 # References
