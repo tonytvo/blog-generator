@@ -455,55 +455,38 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 an axiom is a valid truth that needs no proof at the end of
 the 1960s the communication theorist Paul waslowick together with other
 researchers came up with five axioms to explain how interpersonal communication
-especially in relationships fails one you cannot not communicate a man
-comes home sits down stares into space and is silent his wife
-looks at him and asks him how he is he says nothing and yet he communicates
-something it is immediately clear that something must have happened
-even if you say nothing you are saying something 2. all communication has a relationship
-aspect and a Content aspect the content aspect is what we say the relationship aspect includes how we
-say things but also who says something see Schultz fontans communication model
-who says something and how it is said always way heavier than what is said if we are
-offended by a complete stranger it affects us less than if our partner offends us
-also keep in mind Albert Moravian seven percent 38 percent 55 rule if we are
-talking to someone about our feelings this is the impact our words tone of voice and body language
-have our words are seven percent our tone of voice 38 and our body
-language 55 responsible for whether that person likes us three communication is always about
-cause and effect a woman is annoyed because her partner is grumbling the man is
-grumbling because the woman is annoyed in other words we sell them quarrel with
-ourselves it will always take two to tango 4. human communication makes use of
-analog and digital modalities in Watson's terms digital means verbally
-and analog means non-verbally in other words eye rolling a smug smile ambiguous
-intonation if the two levels do not correlate then we're not on the same page
-1. communication is symmetric or complementary relationships between partners are
-either symmetrical equal or complementary unequal symmetric means
-that we talk at a level in the relationship complementary means that there is a kind of hierarchy
-for example between teacher and pupil if we do not agree whether the
-communication is complementary or symmetrical it becomes problematic
-everyone hears what you say friends listen to what you say best friends
-listen to what you don't say 
+especially in relationships fails 
+- **you cannot not communicate a man**
+  - comes home sits down stares into space and is silent his wife looks at him and asks him how he is he says nothing and yet he communicates something it is immediately clear that something must have happened even if you say nothing you are saying something 
+
+- **all communication has a relationship aspect and a Content aspect**
+  - the content aspect is *what we say*, the relationship aspect *includes how we say things* but also *who says something* [see Schultz fontans communication model](#schultz-von-thuns-communication-model---why-we-should-talk-to-each-other-about-how-we-talk-to-each-other), **who says something and how it is said always way heavier than what is said**. *if we are offended by a complete stranger it affects us less than if our partner offends us*
+  - also keep in mind Albert Moravian **7% 38% 55% rule**, if we are talking to someone about our feelings this is the impact our words, tone of voice and body language have: **our words are 7% our tone of voice 38% and our body language 55% responsible for whether that person likes us**
+
+- **communication is always about cause and effect**
+  - a woman is annoyed because her partner is grumbling the man is grumbling because the woman is annoyed in other words we sell them quarrel with ourselves, **it will always take two to tango** 
+
+- **human communication makes use of analog and digital modalities**
+  - in Watson's terms digital means verbally and analog means non-verbally, in other words eye rolling, a smug smile, ambiguous intonation. If the two levels do not correlate then we're not on the same page
+
+- **communication is symmetric or complementary**
+  - relationships between partners are either symmetrical (equal) or complementary (unequal)
+  - symmetric means that we talk at eye level (in the relationship) in the relationship complementary means that there is a kind of hierarchy (for example between teacher and pupil). If we do not agree whether the communication is complementary or symmetrical it becomes problematic
+
+- **everyone hears what you say friends listen to what you say best friends listen to what you don't say** 
 
 ## proust's questionnaire how to ask good questions
 
-in the late 19th century light conversation or small talk in modern
-English see Small Talk was crucial to the success of an evening being refined was not about saying the
-right thing without having to think to hard nor was it about getting the other person to laugh at one's Charming
-witty remarks instead the ideal neighbor at a dinner party was the one
-who had mastered the Fine Art of asking questions the explanation for this
-is simple and truthful and can be summed up with this rule we do not
-appreciate those who are brilliant but those who make us feel brilliant but because it is extremely difficult to ask
-the right question in the right situation a small crib sheet soon circulated around European salons
-it consisted of questions that seemed innocent but which beared the soul such
-as who would you prefer to be how would you like to die and which characteristics do you most
-appreciate in a man the author of The questionnaire remains unknown to this
-day in 1885 Marcel pruz then only 13 years old answered the
-questionnaire at his friend Antoinette for his birthday party in 1924 for his son published proof
-sensors since then it has been known as prust's questionnaire the fact that he didn't
-invent it but simply filled it in speaks in favor of the charm of the above rule
-proof's questions have three key qualities one they are open questions that you
-cannot answer with yes or no two the questions require no prior knowledge in other words there are no
-right or wrong answers only honest ones three they are questions that Center on
-your counterpart rather than on you we all admire people who give good answers but we admire those who ask
-good questions even more the people we remember most are the ones who really listen
+- ![proust questionaire](./proust-questionaire.png)
+
+- the explanation for this is simple and truthful and can be summed up with this rule: we do not appreciate those who are brilliant but those who make us feel brilliant but because 
+- it is extremely difficult to ask the right question in the right situation a small crib sheet soon circulated around European salons it consisted of questions that seemed innocent but which beared the soul such as *who would you prefer to be?* *how would you like to die?* and *which characteristics do you most appreciate in a man?*
+- Proust's questions have three key qualities
+  - they are open questions that you  cannot answer with yes or no
+  - the questions require no prior knowledge, in other words there are no right or wrong answers only honest ones 
+  - three they are questions that Center on your counterpart rather than on you.
+
+- *we all admire people who give good answers but we admire those who ask good questions even more. The people we remember most are the ones who really listen*
 
 ## non-violent communication why we find it difficult to be friendly
 
@@ -1110,6 +1093,10 @@ If I can convince you of one thing in this book, let it be this: Strangers are n
 When we confront a stranger we have to substitute an idea – a stereotype – for direct experience. And that stereotype is wrong all too often.
 
 We think we can easily see into the hearts of others based on the flimsiest of clues.
+
+everyone hears what you say friends listen to what you say best friends listen to what you don't say
+
+we all admire people who give good answers but we admire those who ask good questions even more. The people we remember most are the ones who really listen
 
 # References
 - https://www.amazon.ca/How-Talk-Anyone-Success-Relationships/dp/B07232KF1C
