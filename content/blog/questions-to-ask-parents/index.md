@@ -6,6 +6,12 @@ tags: ["family", "emotion"]
 ---
 # Questions
 
+- what should it mean when someone says, "I love you?"
+
+
+
+
+
 - what is something (an event) from your childhood that has affected you the most?
 - who were your childhood heroes?
 - what was your neighborhood like growing up?
