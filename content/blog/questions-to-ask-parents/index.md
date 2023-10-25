@@ -7,15 +7,13 @@ tags: ["family", "emotion"]
 # Questions
 
 - what should it mean when someone says, "I love you?"
-
-
-
-
+- is mankind born good or bad?
 
 - what is something (an event) from your childhood that has affected you the most?
 - who were your childhood heroes?
 - what was your neighborhood like growing up?
 - as a child, what did you want to be when you grew up?
+- what did you want me to be when I grew up?
 - what was the most mischievous thing you did as a youngster?
 - how did you pull yourself out of ruts during tough times in your childhood?
 - how did you handle peer pressure when you were growing up?
@@ -81,6 +79,7 @@ tags: ["family", "emotion"]
 - what is your fondest memory of your family?
 - if you had to do it all over again, would you changed the raised your family? how?
 - what did you find most difficult about raising children?
+- what's the biggest differences between raising sons and daughters?
 - what major illnesses or health problems affected your family?
 - who were you especially close to in the family? why?
 - what family traditions were most important to you?
@@ -107,7 +106,6 @@ tags: ["family", "emotion"]
 - for dad: were there miscarriages or troubles with childbirth? if so, how did you help mom during this difficult time?
 - what advice would you give me for being a good sister or brother?
 - who was your favorite sibling when you were growing up? did you ever fight?
-- what did you want me to be when I grew up?
 
 
 - what are your views on marriage?
@@ -183,7 +181,7 @@ tags: ["family", "emotion"]
 - what's the best part of having a child?
 - what did you feel the first time you cradled me in your arms?
 - do you have any regrets? what are they? what's the biggest?
-- who were your best friends? how have they shaped you?
+- who were or has been your best friends? how have they shaped you?
 - what conferences or workshops have influenced your life?
 - did you have any addictions? how did they influence your outlook on life?
 - who would you say had more influence in your life: your significant other, your family, or your friends? why is that?
@@ -258,7 +256,7 @@ tags: ["family", "emotion"]
 - what you have done to build your faith in God?
 - what does god mean to you?
 - what do you feel is the purpose of life?
-- what makes a good person in your eyes? what makes a bad person? - what's the mark of a good person?
+- what makes a good person in your eyes? what makes a bad person? what's the mark of a good person?
 - what do you believe happens to our souls when we die?
 - are you afraid of dying? what will you miss the most? what are you afraid of?
 - do you ever think about death?
