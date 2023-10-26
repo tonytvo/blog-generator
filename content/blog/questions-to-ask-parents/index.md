@@ -8,6 +8,13 @@ tags: ["family", "emotion"]
 
 - what should it mean when someone says, "I love you?"
 - is mankind born good or bad?
+- what's your most vivid memory of your mom and dad?
+- how do I know when I've found the right place to put down roots?
+- what's the biggest difference between my world and the world you grew up on
+- what were the key events that changed your life?
+- where would you most like to visit in the world? why? (location 229 of 561, 32%)
+
+
 
 - what is something (an event) from your childhood that has affected you the most?
 - who were your childhood heroes?
