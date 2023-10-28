@@ -17,6 +17,9 @@ tags: ["family", "emotion"]
 - how did it feel to get me go to make my own life?
 - how can I make each of my children feel as if they're the most special?
 - how do I become my own person rather than the man society says I should be?
+- who do you admire the most? why?
+- have you found it possible to forgive people who wronged you?
+- how will I know when to keep quiet and when to speak my mind?
 
 
 - what is something (an event) from your childhood that has affected you the most?
