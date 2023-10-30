@@ -20,6 +20,8 @@ tags: ["family", "emotion"]
 - who do you admire the most? why?
 - have you found it possible to forgive people who wronged you?
 - how will I know when to keep quiet and when to speak my mind?
+- what do you think has been your greatest achievement?
+- if you could go back and change one event in your life, what would it be and how would you change it?
 
 
 - what is something (an event) from your childhood that has affected you the most?
