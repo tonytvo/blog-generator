@@ -6,22 +6,26 @@ tags: ["family", "emotion"]
 ---
 # Questions
 
-- what should it mean when someone says, "I love you?"
-- is mankind born good or bad?
-- what's your most vivid memory of your mom and dad?
-- how do I know when I've found the right place to put down roots?
-- what's the biggest difference between my world and the world you grew up on
-- what were the key events that changed your life?
-- where would you most like to visit in the world? why? (location 229 of 561, 32%)
-- what's the good part about getting older?
-- how did it feel to get me go to make my own life?
-- how can I make each of my children feel as if they're the most special?
-- how do I become my own person rather than the man society says I should be?
-- who do you admire the most? why?
-- have you found it possible to forgive people who wronged you?
-- how will I know when to keep quiet and when to speak my mind?
-- what do you think has been your greatest achievement?
-- if you could go back and change one event in your life, what would it be and how would you change it?
+- todo: still need to group with existing questions (or remove if existed)
+  - what should it mean when someone says, "I love you?"
+  - is mankind born good or bad?
+  - what's your most vivid memory of your mom and dad?
+  - how do I know when I've found the right place to put down roots?
+  - what's the biggest difference between my world and the world you grew up on
+  - what were the key events that changed your life?
+  - where would you most like to visit in the world? why? (location 229 of 561, 32%)
+  - what's the good part about getting older?
+  - how did it feel to get me go to make my own life?
+  - how can I make each of my children feel as if they're the most special?
+  - how do I become my own person rather than the man society says I should be?
+  - who do you admire the most? why?
+  - have you found it possible to forgive people who wronged you?
+  - how will I know when to keep quiet and when to speak my mind?
+  - what do you think has been your greatest achievement?
+  - if you could go back and change one event in your life, what would it be and how would you change it?
+  - is it better to be self-reliant or to develop a network of friends to call upon for help?
+  - do you think you're a contented man?
+  - what should I do when I'm angry with my children?
 
 
 - what is something (an event) from your childhood that has affected you the most?
