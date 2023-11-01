@@ -26,6 +26,8 @@ tags: ["family", "emotion"]
   - is it better to be self-reliant or to develop a network of friends to call upon for help?
   - do you think you're a contented man?
   - what should I do when I'm angry with my children?
+  - what did you like the most, and least, about your parents?
+  - have you ever carried a long-term grudge against someone why?
 
 
 - what is something (an event) from your childhood that has affected you the most?
