@@ -28,6 +28,7 @@ tags: ["family", "emotion"]
   - what should I do when I'm angry with my children?
   - what did you like the most, and least, about your parents?
   - have you ever carried a long-term grudge against someone why?
+  - have you ever had to do something that took a lot of courage? what happened?
 
 
 - what is something (an event) from your childhood that has affected you the most?
