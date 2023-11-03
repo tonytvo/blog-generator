@@ -29,6 +29,9 @@ tags: ["family", "emotion"]
   - what did you like the most, and least, about your parents?
   - have you ever carried a long-term grudge against someone why?
   - have you ever had to do something that took a lot of courage? what happened?
+  - what was the funniest thing you ever saw your children do?
+  - can you remember your parents laughing? what was the cause?
+  - what do you wish you'd asked your parents?
 
 
 - what is something (an event) from your childhood that has affected you the most?
