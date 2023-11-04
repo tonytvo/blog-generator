@@ -32,6 +32,9 @@ tags: ["family", "emotion"]
   - what was the funniest thing you ever saw your children do?
   - can you remember your parents laughing? what was the cause?
   - what do you wish you'd asked your parents?
+  - do you think you spent too much time at work when we were young?
+  - do you think you were too strict with your children?
+  - did you and mom carefully plan how to raise us, or did you improvise?
 
 
 - what is something (an event) from your childhood that has affected you the most?
