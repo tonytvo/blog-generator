@@ -35,6 +35,8 @@ tags: ["family", "emotion"]
   - do you think you spent too much time at work when we were young?
   - do you think you were too strict with your children?
   - did you and mom carefully plan how to raise us, or did you improvise?
+  - if you could change one thing about me what would it be?
+  - what do you remember about my character as a young child?
 
 
 - what is something (an event) from your childhood that has affected you the most?
