@@ -40,6 +40,9 @@ tags: ["family", "emotion"]
   - what's your favorite song of all time?
   - what or who does it remind you of?
   - what's the best time of life for a man/woman?
+  - what has been your proudest day as parent?
+  - looking back through your parent, grant-parents, and so on, what characteristic do we all share?
+  - what you have learned from being a parent?
 
 
 - what is something (an event) from your childhood that has affected you the most?
