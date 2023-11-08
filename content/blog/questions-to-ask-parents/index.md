@@ -43,6 +43,8 @@ tags: ["family", "emotion"]
   - what has been your proudest day as parent?
   - looking back through your parent, grant-parents, and so on, what characteristic do we all share?
   - what you have learned from being a parent?
+  - have you kept secrets from mom/dad during your marriage? to protect you or her?
+  - have you ever faced total despair? what did you do?
 
 
 - what is something (an event) from your childhood that has affected you the most?
