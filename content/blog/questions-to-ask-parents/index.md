@@ -45,6 +45,9 @@ tags: ["family", "emotion"]
   - what you have learned from being a parent?
   - have you kept secrets from mom/dad during your marriage? to protect you or her?
   - have you ever faced total despair? what did you do?
+  - what are your guiding principles for doing business?
+  - what were parties like when you were a young man/woman?
+  - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
 
 
 - what is something (an event) from your childhood that has affected you the most?
