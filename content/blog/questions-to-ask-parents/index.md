@@ -48,6 +48,9 @@ tags: ["family", "emotion"]
   - what are your guiding principles for doing business?
   - what were parties like when you were a young man/woman?
   - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
+  - how is my style of parenthood different from yours?
+  - what do you think has been the number one cause of arguments?
+  - what makes a good son/daughter?
 
 
 - what is something (an event) from your childhood that has affected you the most?
