@@ -13,7 +13,7 @@ tags: ["family", "emotion"]
   - how do I know when I've found the right place to put down roots?
   - what's the biggest difference between my world and the world you grew up on
   - what were the key events that changed your life?
-  - where would you most like to visit in the world? why? (location 229 of 561, 32%)
+  - where would you most like to visit in the world? why?
   - what's the good part about getting older?
   - how did it feel to get me go to make my own life?
   - how can I make each of my children feel as if they're the most special?
@@ -50,7 +50,7 @@ tags: ["family", "emotion"]
   - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
   - how is my style of parenthood different from yours?
   - what do you think has been the number one cause of arguments?
-  - what makes a good son/daughter?
+  - what makes a good son/daughter? (location 322 of 562, 42%)
 
 
 - what is something (an event) from your childhood that has affected you the most?
