@@ -13,7 +13,9 @@ tags: ["family", "emotion"]
 - what's the biggest difference between my world and the world you grew up on
 - what were the key events that changed your life?
 - where would you most like to visit in the world? why? (location 229 of 561, 32%)
-
+- what's the good part about getting older?
+- how did it feel to get me go to make my own life?
+- how can I make each of my children feel as if they're the most special?
 
 
 - what is something (an event) from your childhood that has affected you the most?
