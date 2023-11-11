@@ -490,31 +490,24 @@ especially in relationships fails
 
 ## non-violent communication why we find it difficult to be friendly
 
-psychologists generally agree that conflicts need to be dealt with but the question is how the American
-psychologist Marshall B Rosenberg 1934-2015 developed the idea of
-non-violent communication based on the premise that it's not what you say but how you say it he distinguishes between
-speaking snappishly language of the Jackal and speaking from the heart language of the giraffe
-giraffes have the biggest heart of any land animal this may sound like mumbo jumbo but it
-comes closer to reality then most management jargon the language of the Jackal causes the
-speaker to feel Superior and the person being addressed to feel bad typical examples of Jackal language
-analysis that's wrong because criticism the mistake you made was that
-you interpretations you do that because appraisals your smart slash lazy you're
-right slash wrong threats if you don't do it immediately I'll have to
-according to Rosenberg statements like these are desires and disguise because we have not learned to ask for
-something politely or to express our wishes constructively we resort to aggressive language
-and aggression leads to counter-aggression or submissive subjugation giraffe language on the other hand works
-like this observe without evaluating you always look out of the window when I want to
-talk to you acknowledge and Define your own or others feelings I'm worried
-acknowledge needs and take them seriously I want to know how you are doing
-Express clear and achievable objectives based on these needs please tell me what you need so that we can talk
-about it but why is it so difficult to be friendly often we ourselves are the problem
-take the so-called attribution error if we arrive late there was a lot of traffic
-if others arrive late they set off too late or for people with a negative frame of mind the other way
-round we are by Nature prone to pass judgment and what's more it is
-easier to blame someone else than to think about why something happened the essence of normal communication we
-all like to be right the essence of non-violent communication we are
-better off if we resolve a dispute then if we win it or in the words of Marshall Rosenberg
-would you rather be right or happy 
+- language of the Jackal causes the speaker to feel Superior and the person being addressed to feel bad typical examples of Jackal language:
+  - **analysis** "that's wrong because..."
+  - **criticism**: the mistake you made was that you...
+  - **interpretations** you do that because...
+  - **appraisals** your smart/lazy, you're right/wrong...
+  - **threats** if you don't do it immediately I'll have to...
+
+- according to Rosenberg statements like these are **"desires and disguise"** because we have not learned to ask for something politely or to express our wishes constructively we resort to aggressive language and aggression leads to counter-aggression or submissive subjugation 
+
+- giraffe language on the other hand works like this:
+  - observe without evaluating: "you always look out of the window when I want to talk to you"
+  - acknowledge and Define your own or others feelings: "I'm worried"
+  - acknowledge needs and take them seriously: "I want to know how you are doing"
+  - Express clear and achievable objectives based on these needs: "please tell me what you need so that we can talk about it"
+
+- we are by Nature prone to pass judgment, and what's more, it is easier to blame someone else than to think about *why something happened*
+
+- the essence of normal communication we all like to be right the essence of non-violent communication we are better off if we resolve a dispute then if we win it or in the words of Marshall Rosenberg: *would you rather be right... or happy...?*
 
 ## The Cooperative principle - how we should express ourselves in order to be understood 
 
@@ -1097,6 +1090,8 @@ We think we can easily see into the hearts of others based on the flimsiest of c
 everyone hears what you say friends listen to what you say best friends listen to what you don't say
 
 we all admire people who give good answers but we admire those who ask good questions even more. The people we remember most are the ones who really listen
+
+the essence of normal communication we all like to be right the essence of non-violent communication we are better off if we resolve a dispute then if we win it or in the words of Marshall Rosenberg: *would you rather be right... or happy...?*
 
 # References
 - https://www.amazon.ca/How-Talk-Anyone-Success-Relationships/dp/B07232KF1C
