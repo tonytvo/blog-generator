@@ -124,6 +124,7 @@ tags: ["family", "emotion"]
 - what qualities and characteristics make a true friend?
 - how did you go about selecting your friends in high school?
 - who was your first love?
+- what should it mean when someone says, "I love you?"
 - was there ever a time in your life when you lost your self-esteem? what did you do to rebuild it?
 - what things bring you the most pleasure now as compared to when you were a youth?
 - what things frighten you now as compared to when you were a youth?
