@@ -7,8 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what should it mean when someone says, "I love you?"
-  - is mankind born good or bad?
   - what's your most vivid memory of your mom and dad?
   - how do I know when I've found the right place to put down roots?
   - what's the biggest difference between my world and the world you grew up on
@@ -311,6 +309,7 @@ tags: ["family", "emotion"]
 - what do you think was the most historically significant event of your lifetime? how did it affect you?
 - what do you feel are the most important problems facing our country?
 - if you could reverse the discovery of something for the good of mankind, what would you pick?
+- is mankind born good or bad?
 - if you could name the most worthy cause, compared to all others, what would it be and why?
 - what is your view on abortion?
 - how do you feel about same-sex marriages and homosexuality?
