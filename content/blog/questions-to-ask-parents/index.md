@@ -7,10 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what's your most vivid memory of your mom and dad?
-  - how do I know when I've found the right place to put down roots?
-  - what's the biggest difference between my world and the world you grew up on
-  - what were the key events that changed your life?
   - where would you most like to visit in the world? why?
   - what's the good part about getting older?
   - how did it feel to get me go to make my own life?
@@ -148,6 +144,7 @@ tags: ["family", "emotion"]
 - who has been your best friend?
 - what makes a real friend?
 - is it possible to be a complete adult without suffering hardship, adversity, or danger?
+- how do I know when I've found the right place to put down roots?
 
 
 - what did you find the most rewarding about being parent?
@@ -207,7 +204,7 @@ tags: ["family", "emotion"]
 - how did you keep your relationships alive with your spouse while we were growing up? if you are divorced, how did you get along while raising us?
 - what qualities and traditions make a good marriage?
 - should marriage really mean forever?
-- can a man a a woman find lasting happiness?
+- can a man or a woman find lasting happiness?
 - what have you learned about being married?
 - if you have been divorced, what did you learn from that experience?
 - during times of trouble in your life, who did you talk to about them? how did those people help you?
