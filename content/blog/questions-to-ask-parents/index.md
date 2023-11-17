@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what's the good part about getting older?
   - how did it feel to get me go to make my own life?
   - how can I make each of my children feel as if they're the most special?
   - how do I become my own person rather than the man society says I should be?
