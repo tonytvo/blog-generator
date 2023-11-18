@@ -7,7 +7,7 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - how did it feel to get me go to make my own life?
+  
   - how can I make each of my children feel as if they're the most special?
   - how do I become my own person rather than the man society says I should be?
   - who do you admire the most? why?
@@ -276,6 +276,7 @@ tags: ["family", "emotion"]
 - which is more important to study? art or science?
 - what should I do when someone wrongs me?
 - in a world of compromises, how do I keep true to myself?
+- how did it feel to get me go to make my own life?
 
 
 - what world events had the most impact on you while you were growing up? did any of them personally affect your family?
