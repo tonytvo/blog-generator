@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - how do I become my own person rather than the man society says I should be?
   - who do you admire the most? why?
   - have you found it possible to forgive people who wronged you?
   - how will I know when to keep quiet and when to speak my mind?
@@ -186,6 +185,7 @@ tags: ["family", "emotion"]
 - what advice would you give me for being a good sister or brother?
 - who was your favorite sibling when you were growing up? did you ever fight?
 - how can I make each of my children feel as if they're the most special?
+- how do I become my own person rather than the man society says I should be?
 
 
 - what are your views on marriage?
