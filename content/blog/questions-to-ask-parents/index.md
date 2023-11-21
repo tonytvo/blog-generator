@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - who do you admire the most? why?
   - have you found it possible to forgive people who wronged you?
   - how will I know when to keep quiet and when to speak my mind?
   - what do you think has been your greatest achievement?
@@ -328,6 +327,7 @@ tags: ["family", "emotion"]
 - how will I know when a risk is worth taking?
 - what's the most important thing to remember about money?
 - what would your advice be if I were drafted to go to war?
+- who do you admire the most? why?
 
 
 - do you have a philosophy on life? What's your best piece of advice?
