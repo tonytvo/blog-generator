@@ -7,8 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - have you found it possible to forgive people who wronged you?
-  - how will I know when to keep quiet and when to speak my mind?
   - what do you think has been your greatest achievement?
   - if you could go back and change one event in your life, what would it be and how would you change it?
   - is it better to be self-reliant or to develop a network of friends to call upon for help?
@@ -98,6 +96,7 @@ tags: ["family", "emotion"]
 - what are the greatest hardships you endured as a child?
 - have you ever taken a stand against what your friends wanted to do, or did you follow the crowd? what would you have done differently?
 - what things should I stand up for and when should I stay quiet?
+- how will I know when to keep quiet and when to speak my mind?
 - describe a time when you had the show courage in your youth?
 - what do you know now that you wish you'd known when you were young?
 - how did you get through hard times with bullies at school?
@@ -252,6 +251,7 @@ tags: ["family", "emotion"]
 - how are you creative? what kind of things do you make?
 - what good deeds have you done?
 - how have you handled people that have wronged you in life?
+- have you found it possible to forgive people who wronged you?
 - have you ever met anyone famous? who?
 - which parent taught you the most in life? what did you learn from him or her?
 - what family event in your life has most affected the way you look at life? describe how it affected you and your family.
@@ -272,7 +272,6 @@ tags: ["family", "emotion"]
 - what's the biggest mistake you've ever made? what can I learn from it?
 - are sports important? how?
 - which is more important to study? art or science?
-- what should I do when someone wrongs me?
 - in a world of compromises, how do I keep true to myself?
 - how did it feel to get me go to make my own life?
 
