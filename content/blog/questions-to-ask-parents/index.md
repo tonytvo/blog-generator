@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what do you think has been your greatest achievement?
   - if you could go back and change one event in your life, what would it be and how would you change it?
   - is it better to be self-reliant or to develop a network of friends to call upon for help?
   - do you think you're a contented man?
@@ -327,6 +326,7 @@ tags: ["family", "emotion"]
 - what's the most important thing to remember about money?
 - what would your advice be if I were drafted to go to war?
 - who do you admire the most? why?
+- what do you think has been your greatest achievement?
 
 
 - do you have a philosophy on life? What's your best piece of advice?
