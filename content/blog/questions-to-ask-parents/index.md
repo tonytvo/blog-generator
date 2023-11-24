@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - if you could go back and change one event in your life, what would it be and how would you change it?
   - is it better to be self-reliant or to develop a network of friends to call upon for help?
   - do you think you're a contented man?
   - what should I do when I'm angry with my children?
@@ -297,6 +296,7 @@ tags: ["family", "emotion"]
 - which scientific discoveries or advances have interested you the most?
 - how do you view the world today? has it stayed the same, become more evil, or become better?
 - if you could change a world event that has happened, which one would it be and why?
+- if you could go back and change one event in your life, what would it be and how would you change it?
 - were you involved in your community? what community projects have you done?
 - what do you think was the most historically significant event of your lifetime? how did it affect you?
 - what do you feel are the most important problems facing our country?
