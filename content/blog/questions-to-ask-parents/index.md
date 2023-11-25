@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - do you think you're a contented man?
   - what should I do when I'm angry with my children?
   - what did you like the most, and least, about your parents?
   - have you ever carried a long-term grudge against someone why?
@@ -135,6 +134,7 @@ tags: ["family", "emotion"]
 - who has been your best friend?
 - what makes a real friend?
 - is it possible to be a complete adult without suffering hardship, adversity, or danger?
+- do you think you're a contented man/woman?
 - how do I know when I've found the right place to put down roots?
 
 
