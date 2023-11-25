@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - is it better to be self-reliant or to develop a network of friends to call upon for help?
   - do you think you're a contented man?
   - what should I do when I'm angry with my children?
   - what did you like the most, and least, about your parents?
@@ -93,6 +92,7 @@ tags: ["family", "emotion"]
 - when was a time you got in trouble for lying? what happened? what did you learn from experience?
 - what are the greatest hardships you endured as a child?
 - have you ever taken a stand against what your friends wanted to do, or did you follow the crowd? what would you have done differently?
+- is it better to be self-reliant or to develop a network of friends to call upon for help?
 - what things should I stand up for and when should I stay quiet?
 - how will I know when to keep quiet and when to speak my mind?
 - describe a time when you had the show courage in your youth?
