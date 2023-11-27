@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what did you like the most, and least, about your parents?
   - have you ever carried a long-term grudge against someone why?
   - have you ever had to do something that took a lot of courage? what happened?
   - what was the funniest thing you ever saw your children do?
@@ -182,6 +181,7 @@ tags: ["family", "emotion"]
 - how can I make each of my children feel as if they're the most special?
 - how do I become my own person rather than the man society says I should be?
 - what should I do when I'm angry with my children?
+- what did you like the most, and least, about your parents?
 
 
 - what are your views on marriage?
