@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - have you ever carried a long-term grudge against someone why?
   - have you ever had to do something that took a lot of courage? what happened?
   - what was the funniest thing you ever saw your children do?
   - can you remember your parents laughing? what was the cause?
