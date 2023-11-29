@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - have you ever had to do something that took a lot of courage? what happened?
   - what was the funniest thing you ever saw your children do?
   - can you remember your parents laughing? what was the cause?
   - what do you wish you'd asked your parents?
@@ -92,6 +91,7 @@ tags: ["family", "emotion"]
 - what things should I stand up for and when should I stay quiet?
 - how will I know when to keep quiet and when to speak my mind?
 - describe a time when you had the show courage in your youth?
+- have you ever had to do something that took a lot of courage? what happened?
 - what do you know now that you wish you'd known when you were young?
 - how did you get through hard times with bullies at school?
 - what kind of child were you (happy, moody, popular, loner, different)?
