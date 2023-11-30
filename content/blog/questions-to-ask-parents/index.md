@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what was the funniest thing you ever saw your children do?
   - can you remember your parents laughing? what was the cause?
   - what do you wish you'd asked your parents?
   - do you think you spent too much time at work when we were young?
@@ -181,6 +180,7 @@ tags: ["family", "emotion"]
 - how do I become my own person rather than the man society says I should be?
 - what should I do when I'm angry with my children?
 - what did you like the most, and least, about your parents?
+- what was the funniest thing you ever saw your children do?
 
 
 - what are your views on marriage?
