@@ -51,6 +51,49 @@ tags: ["family", "emotion"]
   - how is my style of parenthood different from yours?
   - what do you think has been the number one cause of arguments?
   - what makes a good son/daughter? (location 322 of 562, 42%)
+  - do you fear more for a son or a daughter as they face the outside world?
+  - how have you wanted your children to think of you?
+  - did  you ever feel complete anger and frustration at your children? how did you deal with it?
+  - how does a role of a dad and a mom differ?
+  - what would you change about your style of fathering/mothering?
+  - how did you and mom keep your relationship alive while raising a family?
+  - did you enjoy being single?
+  - who first broke your heart? what happened?
+  - what makes you proud to be a man/woman?
+  - does a man "love" differently than a woman?
+  - is there such a thing as a "right" war?
+  - all things considered, would you rather have grown up in your world or in today's world?
+  - did being a dad/mom come naturally?
+  - what causes racial or religious prejudice?
+  - what makes a good spouse?
+  - are you frightened of anything now?
+  - if there anything you've always wanted to ask me?
+  - how old do you feel today?
+  - should I live with my mistakes or always try to cut my losses and make a clean start?
+  - did you parents have favorites? did you?
+  - if you were a young man today, would you have a family again?
+  - define family.
+  - define a life well lived.
+  - what's the best part of having a daughter?
+  - when I was born, what was your dream for me?
+  - what are the vital ingredients of a strong marriage?
+  - what's your favorite memory of spending time with me?
+  - what did you worry about most as I was growing up?
+  - how did you meet mom/dad?
+  - where did you go on your first date?
+  - how long did  you know each other before you got married?
+  - what was your wedding day like?
+  - what would you do if something happened to mom/dad?
+  - what did  you always want to do with your kids but never had the chance?
+  - were you ever tempted to just walk away from your family responsibilities?
+  - how have you remotivated yourself when faced with bad times?
+  - what was the greatest gift your parents gave you? have you tried to install the same lessons in your children? do you think you succeeded?
+  - should I try to retain an idealistic worldview or adopt a more pragmatic view?
+  - when did you get your first car? what model was it?
+  - did you go as far academically as you wanted?
+  - what was your happiest school day?
+  - what was your first job?
+  - when you were growing up, did you hope to be a father/mother someday?
 
 
 - what is something (an event) from your childhood that has affected you the most?
