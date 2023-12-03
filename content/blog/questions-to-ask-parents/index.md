@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what do you wish you'd asked your parents?
   - do you think you spent too much time at work when we were young?
   - do you think you were too strict with your children?
   - did you and mom carefully plan how to raise us, or did you improvise?
