@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - do you think you were too strict with your children?
   - did you and mom carefully plan how to raise us, or did you improvise?
   - if you could change one thing about me what would it be?
   - what do you remember about my character as a young child?
@@ -180,6 +179,7 @@ tags: ["family", "emotion"]
 - what should I do when I'm angry with my children?
 - what did you like the most, and least, about your parents?
 - what was the funniest thing you ever saw your children do?
+- do you think you were too strict with your children?
 
 
 - what are your views on marriage?
