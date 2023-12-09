@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what do you remember about my character as a young child?
   - what's your favorite song of all time?
   - what or who does it remind you of?
   - what's the best time of life for a man/woman?
@@ -180,6 +179,7 @@ tags: ["family", "emotion"]
 - did you and mom carefully plan how to raise us, or did you improvise?
 - do you think you were too strict with your children?
 - if you could change one thing about me what would it be?
+- what do you remember about my character as a young child?
 
 
 
