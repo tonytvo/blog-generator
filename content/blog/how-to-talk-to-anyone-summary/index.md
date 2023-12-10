@@ -521,7 +521,7 @@ especially in relationships fails
   - **maximum of manner avoid ambiguity vagueness verbosity and volatility and stick to a logical argument**
 
 - if we follow these maxims then as a general rule we will be understood but what happens if we don't follow them which is the case in most of our conversations
-  - we can violate the maxims without being noticed that's called "lying" ("did you wreck the car?" "no I didn't" - although you did 
+  - we can violate the maxims without being noticed that's called "lying" ("did you wreck the car?" "no I didn't") - although you did 
   - we can violate the maxims deliberately by saying something else but Expecting The Listener to understand the message correctly that's called "flouting" (a typical form is irony you look out of the window to see the storm intensify you then turn to your friend and say what wonderful weather)
   - we can refrain from cooperation that's called "opting out" (if you say "my lips are sealed", this implies you know something but won't talk about it and this will end all communication)
 - **only say what is true and important and express it clearly and simply**

@@ -1,6 +1,6 @@
 ---
 title: 100M dollar leads by Alex Hormozi summary wip
-date: "2023-10-10T22:12:03.284Z"
+date: "2023-12-11T22:12:03.284Z"
 description: "100M dollar leads by Alex Hormozi summary"
 tags: ["sale", "business"]
 ---
