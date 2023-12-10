@@ -511,34 +511,20 @@ especially in relationships fails
 
 ## The Cooperative principle - how we should express ourselves in order to be understood 
 
-people's three biggest fears loving
-someone without being loved in return searching for friends and not finding any saying something and not being
-understood there is no solution to the first two for the third there is at
-least the principle the British philosopher Paul Grice 1913-88 dedicated his life to this
-problem and in 1975 finally formulated the so-called Cooperative principle a
-basic rule for effective communication make your conversational contributions
-such as is required at the stage at which it occurs by the accepted purpose or direction of the talk
-Exchange in which you are engaged you might be thinking that Grace could have done with
-some language training himself but let's take a closer look at what the cooperative
-principle is actually all about according to Grice speaker and listener
-want two and have to behave cooperatively this means that one person wants to be
-understood the other to understand in order for this to work Grace proposed for conversational maxims
-one maxim of quantity say enough for your counterpart to understand but don't
-say too much or you will cause confusion two maximum quality tell the truth don't
-speculate don't dupe the person into believing something different three maximum of relevance don't say
-anything irrelevant don't change the subject for maximum of manner avoid ambiguity
-vagueness verbosity and volatility and stick to a logical argument
-if we follow these maxims then as a general rule we will be understood
-but what happens if we don't follow them which is the case in most of our conversations
-we can violate the maxims without being noticed that's called lying did you
-wreck the car no I didn't although you did we can violate the maxims
-deliberately by saying something else but Expecting The Listener to understand the message correctly
-that's called flouting a typical form is irony you
-look out of the window to see the storm intensify you then turn to your friend and say
-what wonderful weather we can refrain from cooperation
-that's called opting out if you say my lips are sealed this implies you know
-something but won't talk about it and this will end all communication
-only say what is true and important and express it clearly and simply
+- people's three biggest fears loving someone without being loved in return; searching for friends and not finding any; saying something and not being understood
+- British philosopher Paul Grice 1913-88 dedicated his life to the third problem and in 1975 finally formulated the so-called Cooperative principle a basic rule for effective communication:
+  - "make your conversational contributions such as is required at the stage at which it occurs by the accepted purpose or direction of the talk exchange in which you are engaged"
+- Grace proposed 4 conversational maxims
+  - **maxim of quantity: say enough for your counterpart to understand but don't say too much or you will cause confusion**
+  - **maximum quality tell the truth don't speculate don't dupe the person into believing something different**
+  - **maximum of relevance don't say anything irrelevant don't change the subject**
+  - **maximum of manner avoid ambiguity vagueness verbosity and volatility and stick to a logical argument**
+
+- if we follow these maxims then as a general rule we will be understood but what happens if we don't follow them which is the case in most of our conversations
+  - we can violate the maxims without being noticed that's called "lying" ("did you wreck the car?" "no I didn't" - although you did 
+  - we can violate the maxims deliberately by saying something else but Expecting The Listener to understand the message correctly that's called "flouting" (a typical form is irony you look out of the window to see the storm intensify you then turn to your friend and say what wonderful weather)
+  - we can refrain from cooperation that's called "opting out" (if you say "my lips are sealed", this implies you know something but won't talk about it and this will end all communication)
+- **only say what is true and important and express it clearly and simply**
 
 ## the expectancy violations Theory how much distance we keep from other people
 
