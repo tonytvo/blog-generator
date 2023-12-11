@@ -7,8 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what or who does it remind you of?
-  - what's the best time of life for a man/woman?
   - what has been your proudest day as parent?
   - looking back through your parent, grant-parents, and so on, what characteristic do we all share?
   - what you have learned from being a parent?
@@ -179,7 +177,7 @@ tags: ["family", "emotion"]
 - do you think you were too strict with your children?
 - if you could change one thing about me what would it be?
 - what do you remember about my character as a young child?
-
+- what's the best time of life for a man/woman?
 
 
 - what are your views on marriage?
