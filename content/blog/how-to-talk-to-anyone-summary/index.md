@@ -528,81 +528,30 @@ especially in relationships fails
 
 ## the expectancy violations Theory how much distance we keep from other people
 
-perhaps you know the feeling you're sitting in the cinema the film hasn't started yet the auditorium is barely a
-third full and several rows are completely empty someone comes in looks around walks past
-the empty seats and sits down right next to you the feeling that you now have is
-called expectancy violation you expected something different that the person would find an empty seat not
-one right next to you in 1985 the American Judy burgoon
-developed the expectancy violations Theory which analyzes how our expectations of
-another person affect the way we respond to unanticipated violations of these expectations or social norms
-according to burgoon the following rules apply in the Western World with regard to keeping our distance
-one intimate space Elbow Room up to 50 centimeters within this space we expect
-to be touched by the other person it is reserved for close family lovers
-and pets 2. personal space 50 to 120
-centimeters the typical distance we keep from somebody we are talking to
-three social space 120 to 360 centimeters
-the distance we keep from people we do not know with whom we do not communicate but
-whom we have nothing against four public space 360 centimeters or
-more this distance is best explained if we ask ourselves which people do we avoid
-of course it is not only about distance but also about physical and I contact
-if someone turns away from us while we are speaking it violates our expectations of the conversation
-this is most easily observed in romantic relationships where the usage
-of smartphones and social media is for many a strong sign of divided attention and a source for trouble
-the distance we keep is also influenced by cultural and situational norms
-different distance rules apply to dancing in a club and studying in a Library
-in Switzerland people greet one another with three little kisses in the USA this would be regarded as too
-close for comfort When in Rome do as the Romans do 
+- according to burgoon the following rules apply in the Western World with regard to keeping our distance
+  - **intimate space (Elbow Room)** up to 20 inches. within this space we expect to be touched by the other person it is reserved for close family lovers and pets 
+  - **personal space** 20-50 inches. The typical distance we keep from somebody we are talking to
+  - **social space** 40-140 inches. The distance we keep from people we do not know, with whom we do not communicate but whom we have nothing against
+  - **public space** 140 inches or more. This distance is best explained if we ask ourselves which people do we avoid?
+
+- of course it is not only about distance but also about physical and I contact. if someone turns away from us while we are speaking it violates our expectations of the conversation. this is most easily observed in romantic relationships where the usage of smartphones and social media is for many a strong sign of divided attention and a source for trouble
+
+- the distance we keep is also influenced by cultural and situational norms. Different distance rules apply to dancing in a club and studying in a Library. In Switzerland, people greet one another with three little kisses, in the USA, this would be regarded as too close for comfort
+
+- *When in Rome do as the Romans do*
 
 ## Schultz von thun's communication model - why we should talk to each other about how we talk to each other
 
-it's an archetypal misunderstanding a couple are sitting in a car in the traffic lights turn green without the driver noticing the passenger says it's
-green the driver replies testily am I driving or you this example comes from Friday man
-Schultz fonthan his communication Square does not count as a
-theory in the narrower sense but it breaks down the many pitfalls of communication in a clear away then
-other approaches according to Thun every message has four layers
-1. content what I am informing myself about 2. appeal what I want to achieve
-2. relationship my relationship to the receiver 4. self-disclosure what I show of myself
-our example contains the content layer the traffic light is green the appeal
-layer come on drive an allusion to the relationship the passenger wants to help
-the driver and the self-disclosure layer the passenger is probably in a hurry
-these are the four facets of the senders message the person receiving the message in this
-case the driver does so with his own four years on the content layer the traffic light
-is green the two people are still in agreement but the driver interprets the
-appeal come on Drive differently I.E why are you so slow and finds this
-insulting he reacts accordingly am I driving or you we encounter this kind of flawed
-communication all the time hey what's this in the soup if you don't like it eat bread
-when will you be ready stop hassling me the way we understand messages is
-determined by the sender's end receiver's previous history the context the tone and many other nonverbal
-signals how can we solve misunderstandings by talking to each other
-about how to talk to each other in other words by practicing meta communication
-because good communication occurs when intention end understanding are in harmony
-what is thought is not always said what is said is not always heard what is
-heard is not always understood what is understood is not always agreed
-what is agreed is not always done what is done is not always done again
-comrade Lorenz 
+- according to Thun every message has four layers:
+  - **content** what I am informing myself about 
+  - **appeal** what I want to achieve
+  - **relationship** my relationship to the receiver
+  - **self-disclosure** what I show of myself
 
-## Game Theory - why it's worth talking to each other
-the 20th century was the century of mass murder two world wars took place within a
-period of 30 years in between there was some lousy diplomacy the logic of this period was
-the clever side never gives an end comes out on top to when you have to take action not
-negotiate Europe was in Ruins by the time the game was over
-during this period John Von Neumann a mathematician an Oscar Morgenstern an economist developed their
-famous game theory this Theory examines conflicts in which the result for all participants depends on
-decisions made by others as in negotiations game theory is based on the observation
-that people in conflicts behave in the same way as they would when playing a board game they want to win but do so by
-sticking to the rules of the game otherwise it won't work how do you win
-but still follow the rules the solution by approaching and talking
-to each other or in the words of game theorists by cooperating
-let's take a simple example at some point most adults decide not to give
-each other Christmas presents anymore the pressure to consume is annoying and in any case what do you
-give a person who has everything but typically some people still do buy a present even if they agreed not to
-the person who gets the gift but didn't give one in return now has a bad conscience the person who gave but
-didn't receive is disappointed the results conflict there are only two logical Solutions and
-both have to do with communication you have to decide whether a everyone or B nobody
-gets a gift but this super simple Game Theory solution can only be
-achieved if both sides go along with the plan and if they make a binding agreement to stick to it two complex
-actions that people find hard to carry out meeting jaw to jaw is better than War
-Winston Churchill 
+- the way we understand messages is determined by the sender's end receiver's previous history, the context, the tone and many other nonverbal
+signals. How can we solve misunderstandings? by talking to each other about how to talk to each other, in other words, by practicing "meta communication." Because good communication occurs when intention end understanding are in harmony
+
+- what is thought is not always said; what is said is not always heard; what is heard is not always understood; what is understood is not always agreed; what is agreed is not always done; what is done is not always done again - Konrad Lorenz 
 
 ## second order observation - how your therapist talks to you
 
