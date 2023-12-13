@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what has been your proudest day as parent?
   - looking back through your parent, grant-parents, and so on, what characteristic do we all share?
   - what you have learned from being a parent?
   - have you kept secrets from mom/dad during your marriage? to protect you or her?
