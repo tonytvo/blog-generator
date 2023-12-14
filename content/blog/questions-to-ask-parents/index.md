@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - looking back through your parent, grant-parents, and so on, what characteristic do we all share?
   - what you have learned from being a parent?
   - have you kept secrets from mom/dad during your marriage? to protect you or her?
   - have you ever faced total despair? what did you do?
@@ -123,6 +122,7 @@ tags: ["family", "emotion"]
 - how do I know when I've found the right place to put down roots?
 - can you remember your parents laughing? what was the cause?
 - do you think you spent too much time at work when we were young?
+- looking back through your parent, grant-parents, and so on, what characteristic do we all share?
 
 
 - what did you find the most rewarding about being parent?
