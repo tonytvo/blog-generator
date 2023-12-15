@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what you have learned from being a parent?
   - have you kept secrets from mom/dad during your marriage? to protect you or her?
   - have you ever faced total despair? what did you do?
   - what are your guiding principles for doing business?
@@ -126,6 +125,7 @@ tags: ["family", "emotion"]
 
 
 - what did you find the most rewarding about being parent?
+- what you have learned from being a parent?
 - what advice would you give me about being good parent?
 - what special proverbs have been passed down in your family about how to make it in life or how to have peace of mind?
 - of all the things you learned from your parents, which do you feel the most valuable?
