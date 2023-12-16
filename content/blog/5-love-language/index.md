@@ -1,5 +1,5 @@
 ---
-title: The 5 Love Languages by Gary Chapman summary wip
+title: The 5 Love Languages by Gary Chapman summary
 date: "2023-12-10T22:12:03.284Z"
 description: "The 5 Love Languages by Gary Chapman summary"
 tags: ["emotionalintelligence", "family"]
