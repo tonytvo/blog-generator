@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - have you kept secrets from mom/dad during your marriage? to protect you or her?
   - have you ever faced total despair? what did you do?
   - what are your guiding principles for doing business?
   - what were parties like when you were a young man/woman?
@@ -216,6 +215,7 @@ tags: ["family", "emotion"]
 - have you ever been in love with someone who later broke up with you? how did you handle the situation?
 - how old were you when your parents allowed you to begin dating?
 - what advice would you give about how to ask someone out on a date?
+- have you kept secrets from mom/dad during your marriage? to protect you or her?
 
 
 - what kinds of books do you like to read?
