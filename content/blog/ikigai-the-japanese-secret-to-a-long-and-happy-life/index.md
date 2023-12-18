@@ -7,7 +7,7 @@ tags: ["life", "living"]
 
 # take-aways
 
-- The authors define ikigai and the rules of ikigai—they conducted a total of one hundred interviews in Ogimi, Okinawa to try to understand the longevity secrets of centenarians and supercentenarians.
+- The authors define ikigai and the rules of ikigai - they conducted a total of one hundred interviews in Ogimi, Okinawa to try to understand the longevity secrets of centenarians and supercentenarians.
 - “What do Japanese artisans, engineers, Zen philosophy, and cuisine have in common? Simplicity and attention to detail.”
 - ![ikigai chart](./Sloww-Ikigai-Chart.jpg)
 - Man’s search for meaning is the primary motivation in his life.
@@ -15,12 +15,16 @@ tags: ["life", "living"]
 - The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.
 - We should not ask, “What is the meaning of Life?” It is Life that poses the problem and asks the question of us. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.
 - In the past, nothing is irretrievably lost but everything irrevocably stored.
-- You can find ikigai or life purpose by asking: 1. What do you love? 2. What can you be great at? and 3. What will the world pay you for? The psychologist Viktor Frankl survived the WW2 Nazi concentration camps, where he learned the critical importance of finding life meaning. Usually we feel connected to something bigger by serving other people through our relationships or professional calling.
+- You can find ikigai or life purpose by asking: 
+  - 1. What do you love? 
+  - 2. What can you be great at? 
+  - 3. What will the world pay you for?
+-  The psychologist Viktor Frankl survived the WW2 Nazi concentration camps, where he learned the critical importance of finding life meaning. Usually we feel connected to something bigger by serving other people through our relationships or professional calling.
 - We all have activities that put us into a state of flow, when hours fly by like minutes. These are a strong hint of what our ikigai is. Remember the activity must be challenging enough, have a clear target, and you must have singular focus. It’s better to focus on our processes and keep improving them daily.
 - Strong social connections provide ikigai, lower stress, and help people live longer and happier lives. In Ogimi, elders meet with friends daily, to chat, laugh, drink tea, or play games. In community groups, they celebrate birthdays, festivals, and religious rituals.
 - The longest-living people tend to engage in continuous active movement, but not hard strenuous exercise. It’s part of their daily routine, such as walking to the store or maintaining a garden. Many practice traditions that combine movement with breathing, like tai chi.
 - People in Japan are more likely to keep working part-time even into old age, as a way of giving to society and keeping active, mentally and physically. Contributing utility or beauty to those around us keeps our life feeling meaningful, not endless leisure time.
-- Some tools for handling life’s obstacles… Ichi-go ichi-e teaches us to enjoy each moment because it will only happen once. Wabi-sabi is celebrating the flawed, imperfect, and broken. Negative visualization is a Stoic technique, imagining the worst that could happen.
+- Some tools for handling life’s obstacles... Ichi-go ichi-e teaches us to enjoy each moment because it will only happen once. Wabi-sabi is celebrating the flawed, imperfect, and broken. Negative visualization is a Stoic technique, imagining the worst that could happen.
 - The island of Okinawa in Japan is one of the ‘blue zones’ where people live much longer than average. The most important dietary factors are probably eating 7+ different vegetables daily and eating less than 1,900 calories per day. Important healthy foods include: sweet potatoes, green tea, tofu and fish.
 
 # What is Ikigai?
@@ -50,7 +54,8 @@ tags: ["life", "living"]
   - After the war was over, Viktor Frankl wrote a book called Man’s Search For Meaning to share the insights that he learned in the concentration camps. Frankl strongly believed mental health and happiness were the result not of becoming passive, but remaining active and contributing to others through family, profession, or community.
   - Frankl wrote, “What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task.” If we don’t find meaning, people resort to poor substitutes, like short-term pleasure and intoxication.
 
--**You can find ikigai or life purpose by asking: 1. What do you love? 2. What can you be great at? and 3. What will the world pay you for? The psychologist Viktor Frankl survived the WW2 Nazi concentration camps, where he learned the critical importance of finding life meaning. Usually we feel connected to something bigger by serving other people through our relationships or professional calling.**
+- **You can find ikigai or life purpose by asking: 1. What do you love? 2. What can you be great at? and 3. What will the world pay you for?**
+- **The psychologist Viktor Frankl survived the WW2 Nazi concentration camps, where he learned the critical importance of finding life meaning. Usually we feel connected to something bigger by serving other people through our relationships or professional calling.**
 
 # The 10 Rules of Ikigai
 
@@ -137,7 +142,7 @@ tags: ["life", "living"]
 
 - **Growth Insight**
   - In the recent bestselling book The Psychology of Money, the author Morgan Housel explains why some people take the desire for material success too far. For example, Bernie Madoff’s name became famous in 2008 after he confessed to running the largest Ponzi scheme in history, defrauding investors of over $64 billion. But why would someone who is already a millionaire do that?
-  - Because our happiness is less about what we get, and more about our expectations. This is just as true for Bernie Madoff, as it is for the ambitious beginner investor or businessperson. As Morgan Housel wrote, “There is no reason to risk what you have and need for what you don’t have and don’t need.” If we can control our expectations for material success, then we can spend more time being happy with loved ones and live longer.
+  - Because our happiness is less about what we get, and more about our expectations. This is just as true for Bernie Madoff, as it is for the ambitious beginner investor or business person. As Morgan Housel wrote, “There is no reason to risk what you have and need for what you don’t have and don’t need.” If we can control our expectations for material success, then we can spend more time being happy with loved ones and live longer.
 
 - **Strong social connections provide ikigai, lower stress, and help people live longer and happier lives. In Ogimi, elders meet with friends daily, to chat, laugh, drink tea, or play games. In community groups, they celebrate birthdays, festivals, and religious rituals.**
 
