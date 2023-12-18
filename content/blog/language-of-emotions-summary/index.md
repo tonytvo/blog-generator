@@ -6,6 +6,7 @@ tags: ["emotionalintelligence"]
 ---
 
 # take-aways
+
 - what are emotions
   - **Emotions are action-requiring neurological programs that bring you specific gifts and skills to help you understand your world. Each of your emotions requires its own action, and each action helps you learn more about yourself and your environment. When you know what emotions are for, you can respond to them in new ways and discover your inborn emotional genius!**
 
@@ -17,8 +18,7 @@ tags: ["emotionalintelligence"]
   - Emotions are reliable neurological programs that arise in response to specific stimuli. Your ability to feel and properly identify your emotions determines your level of emotional awareness. As a reminder, this is the complete flowchart – from stimulus to action – that we explored in our presentation today:
     - **Emotionally evocative stimulus → Emotion arises → You feel it → You identify it → You question the emotion → You act on the information the emotion provides OR you decide not to act because the stimulus is invalid**
   - I know this seems like a long pathway, but you can actually do it in a split second once you get your emotional skills under you. It's not hard. It's actually much harder in the long run to sleepwalk through your life, being pushed around by emotions you can't identify or understand.
-  - When an emotion is evoked, it gives you information about an emotionally relevant stimulus, and it tells you what you've perceived and what you're experiencing. Your job as the partner of your emotions is to feel and identify the emotion, ask the correct questions, and act in a way that is both emotional and rational. This is not only possible
-  - it’s doable, and this process becomes very easy (and fun, and enlightening) once you get the hang of it. Thank you for bringing your emotional awareness to a waiting world!
+  - When an emotion is evoked, it gives you information about an emotionally relevant stimulus, and it tells you what you've perceived and what you're experiencing. Your job as the partner of your emotions is to feel and identify the emotion, ask the correct questions, and act in a way that is both emotional and rational. This is not only possible but it’s also doable, and this process becomes very easy (and fun, and enlightening) once you get the hang of it. Thank you for bringing your emotional awareness to a waiting world!
 
 - ***Expression, Repression, and the Middle Ground***
   - Many of us have been taught to express or repress our emotions; and we weren’t taught about any other options. Although expression and repression can be helpful at times, “neither approach works because neither one accepts emotions as important messengers that help us learn and evolve” (pg. 33).
@@ -29,17 +29,17 @@ tags: ["emotionalintelligence"]
 
 - The idea that judgment stops you from experiencing life fully is false. Judgment is the ability to react as an individual and use your discerning intelligence freely. We need to rescue our much-wronged ability to judge and bring it back to a place of honor at the center of our lives. 
 
-- Healthy judgment is a combination of your airy intellect and your watery emotions coming together to form a considered opinion. It helps you define yourself in the world and separate the wheat from the chaff. This process of definition keeps you focused and centered. It’s an internal decision-making process about what a thing is and whether it suits you or not…. Thoughts and emotions are partners. They’re not enemies.
+- Healthy judgment is a combination of your airy intellect and your watery emotions coming together to form a considered opinion. It helps you define yourself in the world and separate the wheat from the chaff. This process of definition keeps you focused and centered. It’s an internal decision-making process about what a thing is and whether it suits you or not. Thoughts and emotions are partners. They’re not enemies.
 
 - We’ve all been trained to overemphasize our intellects and undervalue our emotions. We don’t know how to feel deeply and think brilliantly at the same time, and we’re incapable of connecting our emotional flow to our intellectual processes.
 
-- ***New vision of self***: When all of your elements are flowing and balanced, you develop a meta-intelligent, fifthelement personality and a fuller experience of what it is to be a whole and integrated person. A wonderful aspect of balancing your elements is that it is a fairly simple task once you realize that balance is a possibility. However, it can be challenging at first to reach this level of wholeness and integration.
+- ***New vision of self***: When all of your elements are flowing and balanced, you develop a meta-intelligent, fifth element personality and a fuller experience of what it is to be a whole and integrated person. A wonderful aspect of balancing your elements is that it is a fairly simple task once you realize that balance is a possibility. However, it can be challenging at first to reach this level of wholeness and integration.
 
 - Many of us use addictions and distractions to get through our days and deal with challenging aspects of our lives. Although these practices can help us take our minds off of things, they are not generally forthright ways to deal with troubling situations. As you gently observe your own addictive and avoidant tendencies, it can help to understand why you’re distracting yourself and what you’re avoiding:
 
 - One key to ending suffering is to fully understand the causes and dimensions of our suffering. When we regularly rely on addictions and distractions to deal with pain and suffering, we are actually stopping ourselves from forming a clear and precise picture of what our suffering is about. When we can instead feel our emotions and balance our internal elements
 
-- Empathically speaking, traumatic and dissociative behaviors are almost always contagious. Our disavowed (though never absent) empathic skills always alert us to traumatic behaviors and dissociation in other people…. As a species, we have been socialized to dissociate and distract ourselves from life as a matter of course, and as a result, most of us aren’t fully aware of how or why we dissociate.”
+- Empathically speaking, traumatic and dissociative behaviors are almost always contagious. Our disavowed (though never absent) empathic skills always alert us to traumatic behaviors and dissociation in other people. As a species, we have been socialized to dissociate and distract ourselves from life as a matter of course, and as a result, most of us aren’t fully aware of how or why we dissociate.”
 
 - trauma responses
   - repression, learn to traumatize themselves
@@ -69,7 +69,7 @@ tags: ["emotionalintelligence"]
 
 - Our culture supports distraction and dissociation at every possible turn; therefore, remaining centered and integrated can be rather difficult. In order to stay focused and grounded, you’ll need protection and definition; you’ll need a sacred place where you can work without interference, and you’ll need a strong and flexible boundary around yourself
 
-- Complaining consciously is a healthy way to become aware of, express, and release what’s going on inside of you – in safety and privacy. Conscious complaining is especially helpful in a life of striving, good works, and personal growth, where complaining is often considered less than saintly (this is a shame, because all by itself, a lack of permission to complain can cause unresolving repetitive mood states like worry, depression, and apathy)…. Conscious complaining gives a voice to your struggles, and in so doing, it restores your flow, your energy, your sense of humor, and your hope
+- Complaining consciously is a healthy way to become aware of, express, and release what’s going on inside of you – in safety and privacy. Conscious complaining is especially helpful in a life of striving, good works, and personal growth, where complaining is often considered less than saintly (this is a shame, because all by itself, a lack of permission to complain can cause unresolving repetitive mood states like worry, depression, and apathy). Conscious complaining gives a voice to your struggles, and in so doing, it restores your flow, your energy, your sense of humor, and your hope
 
 - As you work to balance your elements and engage with your emotions empathically, it’s important to have a practice for rejuvenating yourself. This practice helps you soothe yourself, take some quiet time to integrate the changes you’re making, and move forward refreshed. It’s important to rejuvenate yourself so that old behaviors won’t be able to reanimate themselves. When you clear a space in your psyche with contract burning, it’s important to refill yourself consciously. If you don’t consciously refill that empty space, it will be filled unconsciously, and you don’t want that!
 
@@ -92,7 +92,7 @@ tags: ["emotionalintelligence"]
   - When you are angry, you are honouring the person or situation that angers you. It’s difficult to honor something or someone that is unimportant to you. If you can use your anger to reset your boundary and burn your contracts with whatever has angered you, you’ll learn vital truths about the issues you need to face and the relationships you need to mend or honor. 
   - When you’re done with the conflict, take some time to reground and refocus yourself. Anger releases a great deal of energy into your system, so it’s a good idea to refresh yourself and bring every part of you into the present moment, where you’re a different person than you were when the conflict began.
   - It may seem contradictory, but habitually angry people are also deeply caring people because anger always stems from concern. When people in your life are habitually angry, bless them; they are feeling too much of the world for their comfort, and their boundaries are in tatters. 
-  - If you feel unpleasant aftereffects from your anger, just empathize with them. If your anger causes any unpleasant aftereffects, know that you may have a punishing connection with it. Burn these contracts with your anger, and your anger will be able to flow properly and become the healing force it was meant to be.
+  - If you feel unpleasant after effects from your anger, just empathize with them. If your anger causes any unpleasant after effects, know that you may have a punishing connection with it. Burn these contracts with your anger, and your anger will be able to flow properly and become the healing force it was meant to be.
 
 
 - **APATHY & BOREDOM: The Mask for Anger**
@@ -114,7 +114,7 @@ tags: ["emotionalintelligence"]
   - DISCUSSION: Are there times when your shame feels repetitive or stuck? Is your shame authentic to you, or is it foreign shame that comes from authority figures, social training, toxic ideas, or the media? (The skill of Burning Contracts is a specific healing for foreign guilt and shame).
 
   - Guilt and shame are two of the most important emotions that help you mature into a well-regulated person. They help you understand yourself and your actions, and they help you honorably monitor your behavior, emotions, thoughts, and physical desires. 
-  - Guilt is the knowledge and acknowledgment of wrongdoing. It is a state of circumstance, and you are either guilty or not guilty in relation to the legal or moral code you value. You cannot feel guilty, because guilt is a concrete state, not an emotional one. Shame is the natural emotional consequence of guilt and wrongdoing. 
+  - Guilt is the knowledge and acknowledgment of wrong doing. It is a state of circumstance, and you are either guilty or not guilty in relation to the legal or moral code you value. You cannot feel guilty, because guilt is a concrete state, not an emotional one. Shame is the natural emotional consequence of guilt and wrongdoing. 
   - When shame arises in response to your own authentic and addressable flaws or missteps, it flows appropriately. If you welcome your appropriate shame, you’ll stop yourself before you do something crazy, before you say the wrong thing, or before you enter into unhealthy behaviors or relationships. 
   - When we don’t have a healthy connection to our own shame, we’re often coerced into embodying other people’s ideas of right and wrong. This can lead to an incoherent shame spiral, where we’re simultaneously drawn toward and repelled by shameful and forbidden behaviors. 
   - When you can identify your authentic shame, you’ll be able to brighten and define your boundary, ground yourself firmly, call your intellect into the situation, and examine (and destroy) the contracts that are attached to any excessive or inauthentic shame you might carry. 
@@ -160,7 +160,7 @@ tags: ["emotionalintelligence"]
   - Fear is your body’s way of telling you that something is wrong. It helps you know when you’re about to take on a new job, a new love affair, or any new direction in your life. 
   - To access your fear, you must ground and focus yourself inside your sacred space. When you have free access to your fear, you’ll tend to be calm and relaxed most of the time because your intuition will be fully activated, which means you’ll be able to avoid unnecessary dangers without much effort. 
   - When you allow your fear to instruct your behavior, you may find yourself acting in unaccustomed ways. For example, you may fight back or deal with the situation when you’re actually very gentle. When your life is at stake, your fear will cause you to act in lifesaving ways that might never occur to you in a normal situation.
-  - When you can see your flashbacks as brilliant survival tools, they can become fun and comical. You can move from a broken-down victim position into a powerful survivor stance. Your fear can contribute an agile, resourceful, and humorous Jackie Chan stance that will help you see yourself in an entirely new light. 
+  - When you can see your flash backs as brilliant survival tools, they can become fun and comical. You can move from a broken-down victim position into a powerful survivor stance. Your fear can contribute an agile, resourceful, and humorous Jackie Chan stance that will help you see yourself in an entirely new light. 
   - Fears of the future can be worked with in the same way. If you can preplay fearful events in your mind, you can prepare yourself for any number of win-win scenarios before they happen. Fear knows that this world is full of dangers and novel situations, and it wants to prepare you for them. 
   - When dealing with fear in others, it is important to treat them not as weaklings or overly reactive beings, but as intuitive people whose instincts have become activated. If you can shift your attitude, you can help these people connect to their intuitive abilities. 
   - When fear is welcomed and respected, it alerts people to danger or novelty, prepares them to act decisively, contributes the energy they need to complete whichever action works best in each situation, and then retreats to its watchful free-flowing state. 
@@ -259,7 +259,7 @@ tags: ["emotionalintelligence"]
   - DISCUSSION: Grief is not openly supported by most people, except in funeral rituals. However, funerals can be stilted, shallow, or too rushed to allow people to grieve fully. As you think back to a recent death or loss, were you able to grieve fully? Or is your grief still lingering and waiting to support you in utterly letting go?
 
   - Grief is a beautiful, languid, and powerful emotion that arises when death occurs. It drops you into the river of all souls, and it transports you to the deepest places when you have no choice but to let go. 
-  - Grief is the deep river of the soul, and it is the soul I mean when I say that grief is the deep river of the soul. It is the fully resourced village that incorporates and integrates our bodies, all of our emotions, all of our multiple intelligences, and all of our dreams and visions.
+  - Grief is the deep river of the soul. It is the fully resourced village that incorporates and integrates our bodies, all of our emotions, all of our multiple intelligences, and all of our dreams and visions.
   - We can’t escape our grief by numbing ourselves to pain and horror with violent entertainment. When we take off our armor and wade into the waters of grief, we’ll discover our sacred position in the dance of all souls.
   - We humans have a great deal of primal wisdom about grief because there is a greater preponderance of primal wisdom inside our brains than there is intellectual information. We can access this wisdom through ritual. 
   - When you move through your grief, you may feel a tremendous weight upon you. If you can remember that the movement required in grief is downward, you’ll understand the necessity of this heaviness, which anchors you and presses you into your body so that you can feel the weight and the depth of the situation. 
@@ -346,7 +346,7 @@ tags: ["emotionalintelligence"]
 
 - Were you hyper-empathic as a child? Did you find animal friends or any other support for your sensitivity and empathic awareness?
 
-- Dissociation (the sense that you are separate from your body or the current situation) is an ability we all have. For instance, you dissociate naturally when you daydream. Have you experienced situations in which dissociation was helpful to you?
+- Dissociation (the sense that you are separate from your body or the current situation) is an ability we all have. For instance, you dissociate naturally when you day dream. Have you experienced situations in which dissociation was helpful to you?
 
 - Have you experienced a sea change in your life, where you realized that you had been mistaken, or that you had been involved in something that no longer felt right? How did you become aware of your need to change?
 
