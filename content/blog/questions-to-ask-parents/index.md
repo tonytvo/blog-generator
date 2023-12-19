@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - have you ever faced total despair? what did you do?
   - what are your guiding principles for doing business?
   - what were parties like when you were a young man/woman?
   - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
@@ -268,6 +267,7 @@ tags: ["family", "emotion"]
 - what's your favorite song of all time?
 - in a world of compromises, how do I keep true to myself?
 - how did it feel to get me go to make my own life?
+- have you ever faced total despair? what did you do?
 
 
 - what world events had the most impact on you while you were growing up? did any of them personally affect your family?
