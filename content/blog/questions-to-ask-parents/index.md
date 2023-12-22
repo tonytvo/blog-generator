@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
   - how is my style of parenthood different from yours?
   - what do you think has been the number one cause of arguments?
   - what makes a good son/daughter? (location 322 of 562, 42%)
@@ -174,6 +173,7 @@ tags: ["family", "emotion"]
 - what do you remember about my character as a young child?
 - what were parties like when you were a young man/woman?
 - what's the best time of life for a man/woman?
+- what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
 
 
 - what are your views on marriage?
