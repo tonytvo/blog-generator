@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - how is my style of parenthood different from yours?
   - what do you think has been the number one cause of arguments?
   - what makes a good son/daughter? (location 322 of 562, 42%)
   - do you fear more for a son or a daughter as they face the outside world?
@@ -122,6 +121,7 @@ tags: ["family", "emotion"]
 - what did you find the most rewarding about being parent?
 - what you have learned from being a parent?
 - what advice would you give me about being good parent?
+- how is my style of parenthood different from yours?
 - what special proverbs have been passed down in your family about how to make it in life or how to have peace of mind?
 - of all the things you learned from your parents, which do you feel the most valuable?
 - what is your favorite memory of your parents? what were they like?
