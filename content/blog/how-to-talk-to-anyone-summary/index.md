@@ -555,82 +555,41 @@ signals. How can we solve misunderstandings? by talking to each other about how 
 
 ## second order observation - how your therapist talks to you
 
-what does your therapist do when talking to you
-he or she makes a so-called second order observation A first order Observer sees
-the world as it appears to him or her the world is simply there the second order Observer however
-ascribes what the first order Observer sees to how it is seen important we cannot observe
-ourselves observing which is also why therapists can't treat themselves this is often referred to as the blind
-spot in other words we are unaware of the way in which we observe we cannot see that
-we cannot see so by identifying someone's blind spot the
-second order Observer might open up A New Perspective and make that person aware for example of the fact that
-he or she could just as easily see something differently an example a couple want to move in
-together but she has one of those flats that you simply wouldn't want to give up a great location low rent a
-big balcony and the flat would be big enough for two he hesitates
-because he feels that he would be intruding and that it would still feel like her flat they cannot afford a new flat
-for the two of them she sees only the potential advantages of her flat he
-sees only the potential disadvantages both are first order observers and are
-talking at Cross purposes a second order Observer could give them another perspective the couple
-could move into the woman's flat but on the condition that it becomes a shared flat that they move into as if it
-were new this means she has to First move out of her flat before the two of
-them move and then refurbish it despite the fact that most people constantly think about themselves it is
-impossible to observe yourself while doing or thinking something we can
-only train ourselves to be more aware of moments when we act or think according to old and bad habits but in
-order to recognize these patterns we need a second Observer we can't see that we are seeing
-something 
+- A first order Observer sees the world as it appears to him or her the world is simply there. The second order Observer, however, ascribes *what* the first order Observer sees to *how* it is seen.  **Important***: we cannot observe ourselves observing (which is also why therapists can't treat themselves). This is often referred to as the *"blind spot"* 
+- in other words we are unaware of the way in which we observe; we cannot see that we cannot see so by identifying someone's blind spot, the second order Observer might open up A New Perspective, and make that person aware, for example, of the fact that he or she could just as easily see something differently 
+- despite the fact that most people constantly think about themselves it is impossible to observe yourself while doing (or thinking) something. We can only train ourselves to be more aware of moments when we act or think according to old and bad habits. But in order to recognize these patterns we need a second Observer 
+- ***we can't see that we are seeing something***
 
 ## transactional analysis - which I do you use to communicate
 
-here are two of the greatest interpreters of human communication Sigmund Freud
-1856-1939 the founder of psychoanalysis believed that hidden pleasures and fears
-from our childhood are the motivation behind our communication problems the psychiatrist Eric Byrne
-1910-70 however believed that you do not have to go on a painful journey into
-your past to get to know yourself it is enough to observe yourself in communication with others in 1964 Byrne
-proposed in his book games people play a counter model to Freud's theory a book which due to its
-Simplicity and Clarity became a bestseller in the genre of communication and self-help books
-according to burn it all starts with the three ego States we adopt in relation to others
-1. the parent-ego state we all are a little like our parents this is evident
-when we patronize others or tell them what they should or should not do but also when we act thoughtfully
-empathically or helpfully 2. the adult ego State we act like
-adults when we communicate in a considered controlled and relaxed way
-in other words when we treat the other party respectfully and respond to criticism factually and
-constructively three the child ego State we also carry and ask the child that we once were
-we are unrepentant defiant silly or anxious but positive qualities such as
-imagination curiosity and learning are also evident in our childlike
-communication all states occur in one person so what uses transactional analysis in
-practice when we communicate it is always from one of these ego States
-we are not always aware of this but it is most evident when we observe ourselves
-let's suppose that a proposal we put forward in a discussion is rejected by the group
-if we react in an offended way or respond defiantly we are in child mode if we weigh things
-up rationally and realize that our proposal was no good we are in the adult mode
-but if we argue morally that the others are wrong because we are right we are in parent mode
-if communication does not work you should ask yourself what state am I and
-at the moment paronygo adult ego or child ego 
+- here are two of the greatest interpreters of human communication 
+  - **Sigmund Freud** (1856-1939) the founder of psychoanalysis believed that hidden pleasures and fears
+from our childhood are the motivation behind our communication problems 
+  - the psychiatrist **Eric Byrne** (1910-70) however believed that you do not have to go on a painful journey into your past to get to know yourself; it is enough to observe yourself in communication with others 
+- According to Berne, it all starts with the three ego States we adopt in relation to others:
+  - 1. **the parent-ego state**: we all are a little like our parents this is evident when we patronize others or tell them what they should or should not do. But also when we act thoughtfully empathically or helpfully 
+  - 2. **the adult ego State** we act like adults when we communicate in a considered controlled and relaxed way. In other words when we treat the other party respectfully and respond to criticism factually and constructively 
+  - 3. **the child ego State** we also carry and ask the child that we once were we are unrepentant defiant silly or anxious but positive qualities such as imagination curiosity and learning are also evident in our childlike communication
+- **all states occur in one person** so what uses transactional analysis in
+practice? when we communicate it is always from one of these ego States. We are not always aware of this but it is most evident when we observe ourselves. Let's suppose that a proposal we put forward in a discussion is rejected by the group, if we react in an offended way or respond defiantly, we are in child mode, if we weigh things up rationally and realize that our proposal was no good, we are in the adult mode. But if we argue morally that the others are wrong because we are right we are in parent mode.
+
+- ***if communication does not work you should ask yourself what state am I and at the moment parent ego, adult ego or child ego***
 
 ## parenting tips - how to talk to Children even if you don't have any of your own
 
-if you've ever asked a child how was
-school today or tried to explain to a toddler that it shouldn't feed washing
-powder to the cat you know that good communication can be more complicated than algebra so here are
-some tips from parenting experts be a role model actions speak louder than words
-a child won't understand that he shouldn't scream if you scream at him correct content not form the child says
-I draw horsey that's fine as long as she is drawing a horse
-be consistent no means no even when the child is having a tantrum at the
-supermarket checkout loophole only make threats that you can go back on without losing face
-so don't say if you don't stop right away we won't go away on holiday
-Implement threats immediately children learn more quickly and effectively if you carry out your
-threats straight away instead of taking away a toy once for a whole week long
-duration small effect it is better to take away the toy 10 times for two
-minutes small duration big effect praise and action not the child what
-you're doing is great is better then you're great ignore bad behavior when a child does
-not behave according to your expectations but isn't putting himself or others in danger it is better to
-ignore him then to rebuke him selective attention offer Alternatives give your child
-different options but never more than two and only if an alternative makes
-sense there is no alternative to teeth brushing tell a child what she should do
-and not what she shouldn't do it's better to say please slow down then
-don't run ask questions that can be answered how was school today is as
-difficult for your child to answer as it would be for you to answer how was marched to April 2014 for you adults
-with children once two these rules of communication apply to all ages it is
-easier to build strong children than to repair broken men Frederick Douglass
+- here are some tips from parenting experts
+  - **be a role model** actions speak louder than words. A child won't understand that he shouldn't scream if you scream at him.
+  - **correct content, not form** the child says "I draw horsey" That's fine, as long as she is drawing a horse
+  - **be consistent** "no" means "no" - even when the child is having a tantrum at the supermarket checkout. *Loophole* only make threats that you can go back on without losing face. So don't say: "if you don't stop right away we won't go away on holiday"
+  - **Implement threats immediately** children learn more quickly and effectively if you carry out your threats straight away. Instead of taking away a toy once for a whole week (long duration, small effect) it is better to take away the toy 10 times for two minutes (small duration, big effect)
+  - **praise and action not the child** "what you're doing is great" is better then "you're great"
+  - **ignore bad behavior** when a child does not behave according to your expectations, but isn't putting himself or others in danger, it is better to ignore him then to rebuke him ()"selective attention")
+  - **offer Alternatives** give your child different options but never more than two and only if an alternative makes sense there is no alternative to teeth brushing 
+  - **tell a child what she should do and not what she shouldn't do**: it's better to say "please slow down" than "don't run" 
+  - **ask questions that can be answered** "how was school today?" is as difficult for your child to answer as it would be for you to answer "how was march to April 2014 for you?"
+  - **adults with children once, too** these rules of communication apply to all ages 
+
+- ***it is easier to build strong children than to repair broken men - Frederick Douglass***
 
 ## l'essprit de l'escalier - when we think of the best arguments 
 
