@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what's your favorite song of all time?
   - what or who does it remind you of?
   - what's the best time of life for a man/woman?
   - what has been your proudest day as parent?
@@ -269,6 +268,7 @@ tags: ["family", "emotion"]
 - what's the biggest mistake you've ever made? what can I learn from it?
 - are sports important? how?
 - which is more important to study? art or science?
+- what's your favorite song of all time?
 - in a world of compromises, how do I keep true to myself?
 - how did it feel to get me go to make my own life?
 
