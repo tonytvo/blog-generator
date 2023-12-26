@@ -171,7 +171,7 @@ tags: ["communication", "relationship"]
       - you simply ask, "Is that everything?" 
       - keep on asking until everything is on the table. Only then start negotiating 
 
-## five theory of rhetoric how to make a good speech in his definitive work rhetoric
+## theory of rhetoric - how to make a good speech in his definitive work rhetoric
 
 - Aristotle wrote that a good speaker has to have three things under control the argument logos the presentation ethos and the audience pathos
 - in Aristotle's day there were only three different types of rhetoric 
