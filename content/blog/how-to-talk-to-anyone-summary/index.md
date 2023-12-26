@@ -114,29 +114,29 @@ tags: ["communication", "relationship"]
   - "Get in the habit of helping people out and don't say no big deal says of course; it's what partners do for each other' - label what happened an act of partnership."
   - you simply need to become liked by those around you and those you are looking to persuade or influence. You can do this by cooperating with others, paying others genuine compliments, identifying similarities, and building relationships. The key here is that you need to build these relationships and garner this “liking” before you try to influence others. If you try to become like once you’ve started your efforts to influence, those efforts will fail.
 
-## two rules of meetings why meetings take so long
+## Two rules of meetings - why meetings take so long
 
-- according to Seth Godin there are only three kinds of meetings 
-  - information a meeting in which the participants are informed about something whether they like it or not
-  - discussion a meeting which aims to give input or direction or to receive feedback
-  - permission a meeting in which one side proposes something in the hope that the other says yes (but has the right and the power to say no)
+- according to Seth Godin, there are only three kinds of meetings 
+  - information: a meeting in which the participants are informed about something whether they like it or not
+  - discussion: a meeting which aims to give input or direction or to receive feedback
+  - permission for a meeting in which one side proposes something in the hope that the other says yes (but has the right and the power to say no)
 
 - what often makes meetings frustrating is the fact that different people might think it's a different kind of meeting
 
-- here are some tips to make meetings run more smoothly the 15-minute rule
-  - Parkinson's law states that *work expands so as to fill the time available for it's completion* and not according to how complex it really is there for it makes sense to limit the time of meetings incidentally studies show that the attention span of the average person is between 10 and 18 minutes ideally you should use a timer when it rings the meeting is over immediately
+- here are some tips to make meetings run more smoothly. The 15-minute rule
+  - Parkinson's law states that *work expands to fill the time available for its completion* and not according to how complex it is, for it makes sense to limit the time of meetings incidentally. Studies show that the average person's attention span is between 10 and 18 minutes; ideally, you should use a timer when it rings. The meeting is over immediately
 
-- the question rule there are three types of question that you can ask in a meeting 
+- the question rule: there are three types of questions that you can ask in a meeting 
   - first comprehension questions 
-  - second questions to support the process for example to make sure that everyone has really understood everything and is talking about the same thing and 
+  - second questions to support the process, for example, to make sure that everyone has really understood everything and is talking about the same thing and 
   - third questions that show how much you know in order to underscore your own position or challenge another person
 
-  - all three types of question are legitimate but they should not be mixed, first come comprehension questions, then questions about the process then debate questions 
+  - all three types of questions are legitimate, but they should not be mixed: first come comprehension questions, then questions about the process, then debate questions 
 
-- the standing rule in many companies meetings are held with everybody standing up because it leads to decisions being reached more quickly, Washington University studies showed that when they are standing people react more readily with enthusiasm whereas when they are sitting they tend towards skepticism
+- The standing rule in many company meetings is held with everybody standing up because it leads to decisions being reached more quickly. Washington University studies showed that when they are standing, people react more readily with enthusiasm, whereas when they are sitting, they tend toward skepticism
 - smartphone rule: no smartphones during the meeting
 - notes should be made by hand.
-- if you want to call a family meeting just turn off the Wi-Fi router and wait in the room where it is located 
+- if you want to call a family meeting, turn off the Wi-Fi router and wait in the room where it is located
 
 ## boss talk how to talk to your team
 
