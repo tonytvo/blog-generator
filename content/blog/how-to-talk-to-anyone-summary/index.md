@@ -614,120 +614,46 @@ words and meanings
 
 ## mcluhan's media Theory - why the medium is the message
 
-the Canadian media scholar Marshall mcluhan
-1911-80 who generally shunned the Limelight became the world's most talked about intellectual in
-1967 this was because he had summed up the media Revolution the transition from
-print to TV in a single sentence the medium is the message
-the sentence is not as simple as it first appears what does it mean it does not mean what
-you might initially think I that the medium has become more important than its message
-a hint mcluhan's theories never focus on the obvious clear-cut or logical
-rather the sentence means that the medium is not important because of its message but because it can
-change our Behavior our thinking and our lives and what does that mean if we use
-the word medium we are usually only referring to the channel via which information is transmitted mcluhan
-believed that this channel is more formative for our culture than the message it carries
-If the message changes we simply change our minds but when the medium changes we change
-our Behavior this sounded crazy in the 1960s but since the Advent of social media and
-since we have started to reflect on the ways in which mobile devices dominate our everyday lives it makes much more
-sense suddenly his meaning is Crystal Clear it's not what we read on our
-smartphone that changes our Behavior but that we are reading it on our smartphone
-what makes our smartphone so fascinating that we stroke it more than our newborn
-child see the uses and gratifications Theory Dot we shape our tools and the
-tools shape us wrote mcluhan he also wrote people don't really read
-newspapers they just climb into them every morning like into a hot bath
-was there ever a better description for the internet in his time McLean was taken more
-seriously by hippies then academics this was a double misunderstanding
-because as a conservative Catholic he was opposed to the media developments he
-described the news doesn't change us the medium does take a minute and make a
-list the five things that have changed in your behavior since using a smartphone
-now ask yourself what changes do you regret and finally what would it take to undo them
+- the Canadian media scholar Marshall mcluhan 1911-80 who generally shunned the Limelight became the world's most talked about intellectual in 1967 this was because he had summed up the media Revolution the transition from
+print to TV in a single sentence **"the medium is the message"**
+- it does not mean what you might initially think I that the medium has become more important than its message
+a hint mcluhan's theories never focus on the obvious clear-cut or logical) Rather the sentence means that the medium is not important because of its message but because it can change our behavior, our thinking and our lives
+- "we shape our tools and the tools shape us" wrote mcluhan. He also wrote: "people don't really read newspapers they just climb into them every morning like into a hot bath"W was there ever a better description for the  internet? In his time McLean was taken more seriously by hippies then academics this was a double  misunderstanding, because, as a conservative Catholic he was opposed to the media developments he described
+- *the news doesn't change us; the medium does: take a minute and make a list the five things that have changed in your behavior since using a smartphone. Now ask yourself what changes do you regret. And finally what would it take to undo them?*
 
 ## the FOMO phenomenon - what happens if you don't look at your smartphone
 
-the internet has multiplied the number of ways in which we communicate while we still communicate one to one in
-a personal email for example we now also often communicate one to many EG in a Facebook post store
-WhatsApp group message one of the most important elements of online communication is
-self-presentation we only want to show our best side we post photos of perfectly prepared
-dishes perfect holidays perfect parties perfect scores and this starts a vicious circle
-whenever we feel bored or alone we look at our smartphone
-but what are we looking for we basically want to see that others have seen us a like a share a retweet is
-proof of that but when looking at social media we also see the Apparently perfect lives of our
-friends which we are not part of and how these lives are being liked and shared
-scientists call the uneasy and sometimes all-consuming feeling that we're missing
-out that our peers are doing or in possession of more or something better than we are
-fear of missing out or fomo hey team of psychologists at the University
-of Essex led by Andy prabilski came up with this name
-people under the age of 35 suffer more from this phenomenon men more than women teenagers more than
-adults unhappy more than happy people to clarify it's not a question of really
-missing out on something it's about the feeling of having missed out on something
-weave all been there when we're feeling down bored or stressed out we check
-our smartphone but all this does is make us feel even worse
-smartphones act like an accelerant when it comes to fomo and thereby corroborate
-fifty-year-old mcluhan's media Theory the medium is the message in the 20th century I think therefore I
-am no longer applies but rather others are thinking of me therefore I am Peter
-sloted 
+- the internet has multiplied the number of ways in which we communicate. While we still communicate one to one in (a personal email for example), we now also often communicate one to many (e.g, in a Facebook post store
+WhatsApp group message)
+- one of the most important elements of online communication is self-presentation we only want to show our best side. We post photos of perfectly prepared dishes, perfect holidays, perfect parties, perfect scores. 
+- When looking at social media we also see the Apparently perfect lives of our friends which we are not part of and how these lives are being liked and shared scientists call the "uneasy and sometimes all-consuming feeling that we're missing out that our peers are doing or in possession of more or something better than we are" - 
+fear of missing out, or fomo
+- people under the age of 35 suffer more from this phenomenon, men more than women, teenagers more than adults, unhappy more than happy people. To clarify: **it's not a question of really missing out on something; it's about the feeling of having missed out on something**
+
+- *In the 20th century "I think, therefore I" am no longer applies, but rather "others are thinking of me therefore I am"* - Peter Sloterdijk
 
 ## lasswell's communication model - how to recognize fake news
 
-the term fake news has become ubiquitous
-in recent years but what is fake news basically it is an aggressive way to
-influence people but fake or not all news is influencing
-something which the inventor of public relations Edward L Bernays took full
-advantage of fun fact Bernice was the nephew of Sigmund Freud founder
-of psychoanalysis his most famous work which he wrote in 1927 was
-originally entitled propaganda but he later changed the name to public relations
-Bernice wrote the conscious and intelligent manipulation of the organized habits and opinions
-of the masses is an important element in Democratic Society we are
-governed our minds molded our tastes formed our ideas suggested
-largely by men we have never heard of it's a pretty good description of the
-world we live in isn't it but how should we interpret Bernie's as strangely euphoric sounding text
-like this freedom of expression is a democratic right when everyone
-expresses their opinion millions of opinions and interests Collide and chaos
-ensues so either you create order out of the chaos by implementing restrictions which would be a
-dictatorship or you have to make your own opinion as attractive as possible and marketed as such
-you can use all the tricks of the trade to come out on top you can manipulate a little Chi Day
-little exaggerate a little to make yourself more interesting ideas can be
-presented as attractive or less attractive and it is up to individuals to decide whether they want to follow
-them this means PR and advertising or even fake news cannot force us to do anything
-we don't want if you want to analyze fake news a good starting point is the lighthearted model
-developed by the American sociologist Harold D Laswell in 1948 which still works astonishingly
-well today for example to separate fakes from facts the formula is who says what in which
-channel to whom with what effect who by answering who said it we divert
-our attention to the sender Laswell called this control analysis who is talking what is their aim who are their
-allies what by looking at what is being said we give attention to the actual message the
-content analysis to identify the aim behind the message we can for example
-ask how are women or people of color represented what does the phrasing imply
-which by answering the which channel question we make a media analysis why are they using this channel
-how can they afford it who paid for it to whom the audience analysis can for
-example reveal something about the aim of the sender why are they talking specifically to these
-people with what effect with the effect analysis we ask how did the audience
-react what does this tell us about the sender Laswell was concerned with the effects
-of mass media but his message also applies to interpersonal
-communication his formula is a simple way to sharpen your senses for propaganda
-wherever it's coming from 
+- If you want to analyze fake news, a good starting point is the lighthearted model developed by the American sociologist Harold D Laswell in 1948 which still works astonishingly well today: for example to separate fakes from facts the formula is: ***"who says what in which channel to whom with what effect"***
+- **who?** by answering who said it, we divert our attention to the sender. Laswell called this "control analysis": who is talking? what is their aim? who are their allies?
+- **what?** by looking at "what" is being said, we give attention to the actual message (the "content analysis") to identify the aim behind the message, we can, for example, ask how are women or people of color represented? what does the phrasing imply?
+- **which** by answering the "which channel" question we make a "media analysis": why are they using this channel? how can they afford it? who paid for it?
+- **to whom** the "audience analysis" can, for example, reveal something about the aim of the sender: why are they talking specifically to these people?
+- **with what effect** with the "effect analysis" we ask: how did the audience react? what does this tell us about the sender?
+- *Laswell was concerned with the effects of mass media but his message also applies to interpersonal communication his formula is a simple way to sharpen your senses for propaganda wherever it's coming from*
 
 ## the uses and gratifications Theory - what we want when we're online
 
-what makes screens so attractive was the question already being asked by
-researchers in the early days of television in 1960 the sociologist elahu
-Katz claim to have the answer his uses and gratifications theory was
-radically different from other media effect theories he believed that media consumption was
-an active voluntary decision and consequently did not ask what media does to us but what we do
-with media he identified five reasons why we use media and what we use
-it for spoiler alert the first three reasons are obvious the second two
-interesting one information and education we consume media to discover
-what has happen but also to educate ourselves two entertainment we consume media for
-our emotional or aesthetic pleasure three identification we consume media
-because we identify with people we see on screen 4. integration and social interaction we
-consume media so that later we can talk about what we saw or heard with others
-today the so-called second screen comes into play we watch TV and at the same
-time consume via second screen like a smartphone with a consequence
-that we are alone and yet not lonely for example hashtag Dr vore
-#strictly see the fomo phenomenon 5. escapism we consume media to escape
-reality everyone is familiar with this Behavior we immerse ourselves
-in a film a game or the internet and forget about ourselves it is important to notice that according
-to this Theory media do not force us into anything we decide for ourselves
-what we want to use when I die I want my Tombstone to say free Wi-Fi so people will visit
-more often 
+- according to gratification theory, media consumption was an active voluntary decision and consequently did not ask what media does to *us*, but what *we* do with media. Sociologist Elihu Katz identified five reasons why we use media and what we use it for
+- **information and education** we consume media to discover what has happen but also to educate ourselves 
+- **entertainment** we consume media for our emotional or aesthetic pleasure
+- **identification** we consume media because we identify with people we see on screen 
+- **integration and social interaction** we consume media so that later we can talk about what we saw or heard with others. Today, the so-called second screen comes into play we watch TV and at the same time consume via second screen like a smartphone with a consequence that we are alone and yet not lonely
+- **escapism** we consume media to escape reality. Everyone is familiar with this behavior: we immerse ourselves
+in a film a game or the internet and forget about ourselves.
+
+- it is important to notice that according to this Theory media do not force us into anything we decide for ourselves what we want to use
+- *when I die I want my Tombstone to say free Wi-Fi so people will visit more often*
 
 ## the encoding/decoding model - how messages can be understood differently 
 
