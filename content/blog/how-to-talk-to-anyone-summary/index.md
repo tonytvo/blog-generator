@@ -140,20 +140,20 @@ tags: ["communication", "relationship"]
 
 ## boss talk how to talk to your team
 
-- rules one don't criticize
-  - this might sound a bit too easy going and of course you have to evaluate the work of your employees that's your job but go easy on the criticism
+- Rule one: don't criticize
+  - this might sound a bit too easygoing, and of course, you have to evaluate your employees' work. That's your job, but go easy on the criticism
   - only start deconstructing if you're prepared to help with the rebuilding 
-  - keep using "we" especially when your team has lost 
+  - keep using "we," especially when your team has lost 
 
 - give praise but not too much
-  - go easy on the compliments otherwise they lose their effect 
-  - if you celebrate behavior that you expect you are lowering standards 
-  - whatever you do don't give praise simply to please 
+  - go easy on the compliments; otherwise, they lose their effect 
+  - if you celebrate behaviour that you expect, you are lowering standards 
+  - whatever you do, don't give praise simply to please 
 
 - practice what you preach
-  - pick your battles only set standards that are important to you or that you consider to be generally important you ought to be good at upholding standards that are important to you 
-  - and if there are standards that you regard as important but find hard to uphold then you need to learn them yourself share this with your employees nobody can be good at everything
-  - as a leader get used to the idea that you are primarily responsible for the supply of energy, in other words motivating advising stabilizing providing momentum and letting others shine 
+  - pick your battles. Only set standards that are important to you or that you consider to be generally important. You ought to be good at upholding standards that are important to you 
+  - and if there are standards that you regard as important but find hard to uphold, then you need to learn them yourself and share them with your employees. Nobody can be good at everything
+  - as a leader, get used to the idea that you are primarily responsible for the supply of energy, in other words, motivating, advising, stabilizing, providing momentum and letting others shine 
 
 ## four the salami tactic how to carry through every idea 
 
