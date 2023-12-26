@@ -84,35 +84,35 @@ tags: ["communication", "relationship"]
   - **"Savor the favour"** – If someone offers to do a good deed on your behalf, wait a little before you try to collect it.
   - **"Chance encounters are for chitchat"** – You have been trying to schedule an appointment to speak to the boss about increasing your salary for weeks. But don't bring it up when you run into them in a checkout line. If you do, you'll never get the raise.
 
-## six principles of persuasion
+## Six principles of persuasion
 
-- **reciprocity** this is basically the old biblical principle *do unto others as you would have them do unto you.*
-  - put into action: if you want to get something, give something. the right order is important: offer something first then ask for what you want 
-  - t’s possible to use this principle of reciprocity by doing favors for others, helping people, publicly praising others and generally working in such a way as to build up a bank of social obligations owed to you. Each of these obligations will be settled at some point, probably to your advantage. Of course, if you’re too over the top with this type of behavior, it will cease to work.
+- **reciprocity** is basically the old biblical principle *do unto others as you would have them do unto you.*
+  - put into action: if you want to get something, give something. The right order is important: offer something first, then ask for what you want 
+  - it’s possible to use this principle of reciprocity by doing favours for others, helping people, publicly praising others, and generally working in such a way as to build up a bank of social obligations owed to you. Each of these obligations will be settled at some point, probably to your advantage. Of course, if you’re too over the top with this type of behaviour, it will cease to work.
 
-- **Authority** we tend to follow the advice of experts. We have more Trust in a doctor who is wearing a white coat and displaying diplomas on their wall.
-  - building trust and credibility is very important, but that it’s also possible to build some of that sense of authority through the recommendations and good words of others. It may be worth asking others to recommend you, or recommending others so that they feel a social obligation to recommend you in return.
+- **Authority** We tend to follow the advice of experts. We have more Trust in a doctor who is wearing a white coat and displaying diplomas on their wall.
+  - building trust and credibility is very important, but it’s also possible to build some of that sense of authority through the recommendations and good words of others. It may be worth asking others to recommend you or recommending others so that they feel a social obligation to recommend you in return.
 
-- **consistency** we look up to people who are consistent in their words and behaviors.
+- **consistency** We look up to people who are consistent in their words and behaviours.
   - From a persuasion and influence perspective, this means that if I can convince you to act in a minor way in relation to something, then you’ll think of yourself as that type of person and be more likely to act in that way again in the future. You’ll also be more likely to increase your actions in that direction,
-  - *put into action*: don't follow every trend. Be the consistent one, people will remember you for that.
+  - *put into action*: don't follow every trend. Be the consistent one. People will remember you for that.
 
-- **consensus** Humans are social by nature and generally feel that it’s important to conform to the norms of a social group. This means that when it comes to decision making, we often look around us to see what others are doing, before making our mind up.
-  - *put into action:* if you want someone to do something, show others doing it ("People who brought this book also brough...")
+- **consensus** Humans are social by nature and generally feel that it’s important to conform to the norms of a social group. This means that when it comes to decision-making, we often look around us to see what others are doing before making our mind up.
+  - *put into action:* if you want someone to do something, show others doing it ("People who brought this book also brought...")
 
 - **scarcity** 
-  - we all want that which is rare and we are all afraid to lose what we have 
-  - put into action it might not be enough to talk about the benefits of your offer you also need to point out what people will lose if they fail to act. This also holds true if people face change they are usually scared of what they might lose therefore it's good to tell them what they will lose if they fail to move 
+  - we all want that which is rare, and we are all afraid to lose what we have 
+  - put into action, it might not be enough to talk about the benefits of your offer. You also need to point out what people will lose if they fail to act. This also holds true if people face change. They are usually scared of what they might lose; therefore, it's good to tell them what they will lose if they fail to move 
   - The less of something there is, the more people tend to want it. This holds true for experiences as well as for material products.
-  - From a persuasion and influence perspective this means that to increase interest in your product or service, you may benefit from reducing its availability (or at least creating a sense of scarcity).
+  - From a persuasion and influence perspective, this means that to increase interest in your product or service, you may benefit from reducing its availability (or at least creating a sense of scarcity).
 
-- **liking** this is the most universal principle people prefer to say yes to people they like but who do we like?
-  - according to sealdini there are three factors 
+- **liking** This is the most universal principle. People prefer to say yes to people they like, but who do we like?
+  - according to Sealdini, there are three factors 
     - we like people who are similar to us
     - we like people who compliment us 
     - we like people who cooperate with us towards a common goal 
-  - "get in the habit of helping people out and don't say no big deal say of course; it's what partners do for each other' - label what happened an act of partnership"
-  - you simply need to become liked by those around you and those you are looking to persuade or influence. You can do this by cooperating with others, by paying others genuine compliments and by identifying similarities and building relationships. They key here, though, is that you need to build these relationships and garner this “liking” before you try and influence others. If you try and become liked once you’ve started your efforts to influence, then those efforts will fail.
+  - "Get in the habit of helping people out and don't say no big deal says of course; it's what partners do for each other' - label what happened an act of partnership."
+  - you simply need to become liked by those around you and those you are looking to persuade or influence. You can do this by cooperating with others, paying others genuine compliments, identifying similarities, and building relationships. The key here is that you need to build these relationships and garner this “liking” before you try to influence others. If you try to become like once you’ve started your efforts to influence, those efforts will fail.
 
 ## two rules of meetings why meetings take so long
 
@@ -671,81 +671,33 @@ different ways
 
 ## visual communication - how we interpret signs
 
-when we want to communicate something we use signs words gestures
-facial expressions formulas symbols or traffic signs that the other person
-has to translate into meaning semiotics is the study of science it is
-a cross-section of Sciences from the disciplines of psychology philosophy sociology Linguistics computer science
-design art and Mathematics the bottom line is we find signs
-everywhere we come across culture rather than nature the key points in brief
-some signs the swastika a traffic light the Nike Swoosh are easy to
-spot and more legible than words we see them and understand what is
-meant a story a rating a command or a message brings to mind
-perception in most people proceeds from image to text we remember drawings Better Than Words recognize
-patterns and representations more than in sentences some of the most important semioticians
-believe that all the following are science a Rolls-Royce in front of the door a blue sky a hundred dollar
-note open shoelaces a half empty or half full glass of water a magic
-formula a traffic jam on the motorway a sunset nothing can be
-perceived merely as what it is it will always have to be interpreted by
-the viewer as a sign of something the visual is like the political everyone thinks they understand
-something about it and to an extent this is true so says the German professor of mass communication Marion G
-Muller she makes sin important point about the design of signs and symbols they are
-complex but need to be comprehensible otherwise there can be no communication
-most people understand complicated matter better through images than in words
-we remember pictures better than text and are more likely to recognize patterns and images than in
-sentences 
+- when we want to communicate something, we use signs - words, gestures, facial expressions, formulas, symbols or traffic signs - that the other person has to translate into meaning. Semiotics is the study of science it is
+a cross-section of Sciences from the disciplines of psychology, philosophy, sociology, Linguistics, computer science, design, art and Mathematics. The bottom line is we find signs everywhere we come across culture rather than nature 
+- the key points in brief:
+  - some signs the swastika a traffic light the Nike Swoosh are easy to spot and more legible than words we see them and understand what is meant. A story, a rating, a command, or a message springs to mind
+  - perception in most people proceeds from image to text. We remember drawings Better Than Words, recognize patterns and representations more than in sentences 
+  - some of the most important semioticians believe that all the following are signs, a Rolls-Royce in front of the door, a blue sky, a hundred dollar note, open shoelaces, a half empty or half full glass of water, a magic formula, a traffic jam on the highway, a sunset. Nothing can be perceived merely as what it is. It will always have to be interpreted by the viewer as a sign of something
+- "the visual is like the political: everyone thinks they understand something about it, and to an extent this is true" So says the German professor of mass communication Marion G Muller she makes sin important point about the design of signs and symbols: they are complex but need to be comprehensible otherwise there can be no communication.
+- *most people understand complicated matter better through images than in words we remember pictures better than text and are more likely to recognize patterns and images than in sentences* 
 
 ## euphemisms - how we obfuscate with language
 
-speaking in euphemisms is a form of linguistic whitewashing governments
-prefer to speak of enhanced interrogation methods rather than torture
-the company's spokesman will not say that staff are being dismissed but that the company is
-restructuring products are a bargain not cheap if we tell a lie we are simply
-stretching the truth and when we are broke we can give it the fancy expression negative cash flow
-the opposite of a euphemism when you give something a negative meaning
-is called a dysphemism someone with strong political views will immediately become an extremist
-euphemisms are the stealth bombers of rhetoric at first glance they are not
-visible but their attacks are Insidious by the time you become aware of them the damage is already done
-the Nazis loved euphemisms land consolidation instead of expulsion labor
-camp instead of concentration Camp special action instead of killing
-euphemisms crop up in almost all political and corporate Communications for example a town hall
-meeting might suggest a friendly local Gathering where everyone can contribute but in fact the co just
-wants to get a particular message across downsizing suggests the sort of
-inevitability to making a company somewhat Cozier in size without mentioning job cuts
-euphemisms are the mother tongue of manipulation as a rule of thumb if
-someone doesn't use straight language don't act straight away pause before acting
+- speaking in euphemisms is a form of linguistic whitewashing. Governments prefer to speak of enhanced  interrogation methods rather than torture. The company's spokesman will not say that staff are being dismissed but that the company is restructuring. Products are a bargain not cheap, if we tell a lie we are simply "stretching the truth" And when we are broke we can give it the fancy expression "negative cash flow". The opposite of a euphemism - when you give something a negative meaning - is called a dysphemism: someone with strong political views will immediately become an extremist
+- euphemisms are the stealth bombers of rhetoric at first glance they are not visible but their attacks are Insidious by the time you become aware of them the damage is already done. The Nazis loved euphemisms: "land consolidation" instead of expulsion, "labor camp" instead of concentration Camp, "special action" instead of killing
+- euphemisms crop up in almost all political and corporate communications; for example, a town hall
+meeting might suggest a friendly local Gathering where everyone can contribute, but in fact the CEO just
+wants to get a particular message across. Downsizing suggests the sort of inevitability to making a company somewhat Cozier in size without mentioning job cuts
+- ***euphemisms are the mother tongue of manipulation, as a rule of thumb, if someone doesn't use straight language, don't act straight away, pause before acting***
 
 ## sophism - how you can explain practically anything with spurious correlations
 
-in ancient Greece debate was Central to the forming of opinions
-a distinction between good and bad reasoning was made good reasoning aims to convince but it
-also lets itself be convinced simply put it is the search for truth
-bad reasoning has no interest in the truth it is simply about wanting to be
-right Plato called bad reasoning sophistic the sophists claim to be able to
-justify any position to reasoning and logic they aimed at defeating
-their opponents and debates using rhetorical strategies see theory of rhetoric and logical arguments the
-sophists were unpopular despised and successful a well-known example is that of yathilis
-who was educated in sophistry by protagoras they made an
-agreement that yaffles would only have to pay for his instruction after he won his first lawsuit
-but after his education youthless took up a different profession therefore he did not
-conduct any lawsuits could not win any and argued that he did not have to
-pay for his instruction subsequently protagoras sued him and argued sophistically you Atlas will pay
-if he wins the case he will have to pay according to the original agreement and
-if he loses the court will order him to pay you athless protagoras best trained
-sophist replied I will not have to pay on any account because if I lose
-the case I do not have to pay according to the original agreement and if I win I will owe you nothing
-according to the verdict it is an ingenious logical argument but also a
-deliberately induced fallacy esophism now you should not think that sophism
-died out with the ancient Greeks on the contrary it still exists
-and is in excellent health modern instances of sophism are spurious
-relationships in Spring storks return from the south in Spring the number of births
-demonstrably increases the two things must be linked no
-the two statements correlate but are not causal what's more they have nothing to
-do with each other most of you will have heard the maxim correlation does not imply
-causation just because two variables have a statistical relationship with each other
-does not mean that one is responsible for the other for instance ice cream sales and forest fires are
-correlated because both occur more often in the summer heat but there is no causation you don't set
-a patch of the Montana brush on fire when you buy a pint of Haagen-Dazs
-Nate silver 
+- in ancient Greece debate was Central to the forming of opinions a distinction between good and bad reasoning was made:
+  - **good reasoning** aims to convince, but it also lets itself be convinced, simply put, it is the search for truth
+  - **bad reasoning** has no interest in the truth; it is simply about wanting to be right
+
+- Plato called bad reasoning "sophistic". The sophists claim to be able to justify any position to reasoning and logic. They aimed at defeating their opponents and debates using rhetorical strategies and logical arguments. The
+sophists were unpopular despised, and successful
+- "***most of you will have heard the maxim "correlation does not imply causation", just because two variables have a statistical relationship with each other does not mean that one is responsible for the other. For instance, ice cream sales and forest fires are correlated because both occur more often in the summer heat but there is no causation; you don't set a patch of the Montana brush on fire when you buy a pint of Haagen-Dazs***" - Nate silver 
 
 ## the cultivation Theory - how the media corroborates our opinions
 
