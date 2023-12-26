@@ -593,55 +593,24 @@ practice? when we communicate it is always from one of these ego States. We are 
 
 ## l'essprit de l'escalier - when we think of the best arguments 
 
-the term laspre de la Scalia staircase wit refers to opinions and ideas that we express with clear polished
-pithiness and which always occur to us too late afterwards when we slowly descend the
-stairs we are suddenly much smarter than before this is how William Lewis hertzler
-described the term in his best seller de trepenwitz do well gestured staircase
-wit of world history which was published in 1882 over 130 years later it is still as
-relevant as ever we all know how it feels when our brain starts to work only
-when the pressure of a stressful situation subsides before a date or job interview we know
-exactly how we want to present ourselves but when the Small Talk starts we can't think of
-anything clever to say then once the conversation is over and we have
-close the door behind us we come up with razor sharp arguments and Woody lines
-in Psychology this phenomenon when your nerves fail under pressure is called choking you choke on
-the expectations many Studies have dealt with this phenomenon and have all come to the
-same conclusion paralysis by analysis if you start thinking you lose
-if you try to be quick-witted you can't think of anything to say when you go
-for that all-important penalty kick your confidence plummets psychologists recommend four tricks
-one expose yourself repeatedly to the same situation so-called practice
-Under Pressure whereby the situation loses its uniqueness 2. wait 5 seconds before answering your
-answer might not be any clever but it comes across as weightier three dot not so easy imagine that
-you're not in an interview but sitting in the pub With Friends for DOT keep in mind that although being
-quick-witted can be impressive in it interview it is seldom required in most jobs
-Nothing in life is as important as you think it is while you are thinking about it Daniel Kahneman
+- the term l'esprit de l'escalier ('staircase wit') refers to opinions and ideas that we express with clear polished pithiness - and which always occur to us too late.
+- in Psychology this phenomenon when your nerves fail under pressure is called choking you choke on the expectations 
+- many Studies have dealt with this phenomenon and have all come to the same conclusion paralysis by analysis. If you start thinking, you lose. If you try to be quick-witted, you can't think of anything to say. When you go
+for that all-important penalty kick your confidence plummets. Psychologists recommend four tricks:
+  - one expose yourself repeatedly to the same situation (so-called practice Under Pressure), whereby the situation loses its uniqueness 
+  - wait 5 seconds before answering - your answer might not be any clever but it comes across as weightier 
+  - not so easy: imagine that you're not in an interview but sitting in the pub With Friends 
+  - keep in mind that although being quick-witted can be impressive in it interview it is seldom required in most jobs
+
+- "Nothing in life is as important as you think it is while you are thinking about it" - Daniel Kahneman
 words and meanings 
 
-## the framing effect what kind of image we have of the world
+## the framing effect - what kind of image we have of the world
 
-in communication there is a fundamental rule how something is set in by whom the narrative context or frame
-determines how something is understood to take one example if a sensational
-piece of news is printed in a reputable newspaper we are more inclined to
-believe it than if it is reported in a tabloid this observation was made by Irving Goffman who described
-this form of interpretation as framing if we look at a picture in the museum we know
-that it is Art even if it looks like a stick figure drawn by a child this is because we have learned to
-recognize the frame Modern Art another example if we go to a restaurant we know
-how to behave how to interact with the waiter how to handle a knife in
-fork and what to do with it menu we know this because we know the frame
-restaurant in his seminal work the Presentation of Self in Everyday Life Goffman uses the
-imagery of theater and acting to describe human social interaction he believes that we each adapt our
-Behavior to each frame and are therefore a different person in each situation
-this means that there is no such thing as authenticity we are one person when we are at work
-another when we talk to our parents and quite another when we are lost in a foreign city and have
-to communicate with strangers Daniel Kahneman and Amos firsky famously
-showed how different ways of phrasing frame a dilemma and affect people's responses to a
-choice this logic is used to great effect in advertising for example two
-yogurts are on sale one is 90 fat free and the other is touted as having
-a ten percent fat content although both contain equal quantities of fat people
-tend to choose the yogurt advertised is almost fat-free because the frame for the yogurt purports that it is
-a fat free healthier product the bottom line is we seldom make rational
-choices there are no objective or authentic messages everything that is being
-communicated is always framed and if you want to decode a message try
-to understand the frame 
+- in communication there is a fundamental rule: ***how*** something is said and by ***whom*** - the "narrative context", or frame - determines how something is understood.
+- in his seminal work the *Presentation of Self in Everyday Life*, Goffman uses the imagery of theater and acting to describe human social interaction. He believes that we each adapt our Behavior to each frame and are therefore a different person in each situation. This means that there is no such thing as authenticity we are one person when we are at work, another when we talk to our parents, and quite another when we are lost in a foreign city and have to communicate with strangers 
+- Daniel Kahneman and Amos firsky famously showed how different ways of phrasing frame a dilemma and affect people's responses to a choice. This logic is used to great effect in advertising. For example, two yogurts are on sale one is "90% fat-free" and the other is touted as having a "10% fat-content" although both contain equal quantities of fat, people tend to choose the yogurt advertised is "almost fat-free" because the frame for the yogurt purports that it is a fat free healthier product. The bottom line is: we seldom make rational choices
+- ***there are no objective or authentic messages. Everything that is being communicated is always framed. And if you want to decode a message, try to understand the frame***
 
 ## mcluhan's media Theory - why the medium is the message
 
@@ -760,35 +729,19 @@ to this Theory media do not force us into anything we decide for ourselves
 what we want to use when I die I want my Tombstone to say free Wi-Fi so people will visit
 more often 
 
-## the encoding slash decoding model - how messages can be understood differently 
+## the encoding/decoding model - how messages can be understood differently 
 
-a small but significant question is what
-I can hear the same as what you are saying every child that has ever played Chinese Whispers knows the answer
-not always one of the greatest communication theorists Stuart Hall 1932-2014
-was of the same opinion in fact he took the idea further he
-believed not only that we are capable of misunderstanding but that we play inactive
-role in understanding peresi we interpret or decode the same message
-differently depending on our social class our level of knowledge and our
-cultural background but above all the way we understand a message also
-depends on how we want to understand it an example is the cult 1960s TV
-series Star Trek many fans interpreted the series as a classic science fiction
-Adventure in Space but the gay community saw the close-knit relationships
-between the men and the rainbow crew black African Asian Russian
-Vulcan as an allusion to the fact that some of the characters were gay it is
-irrelevant that Star Trek's Creator Jean Roddenberry denied this because according to Stuart Hall the message can
-be changed once it has been received in other words Star Trek fans
-saw in the series what they wanted to see the encoding slash decoding model
-contradicts the classic sender receiver model According to which the recipient
-plays a passive role Paul argued that the way we receive a message is inactive
-and never clear-cut process so that the message can always be understood differently the sender
-encodes the message with a particular intention the receiver decodes the
-message in order to understand it and this decoding can happen in three
-different ways 1. dominant hegemonic the desired reading we understand the
-message the way it was intended 2. oppositional we oppose or dismiss the intended
-meaning three negotiated a combination of the two a message is more than just what is said
-it changes depending on how it is understood let's put this into practice if you are
-a leader always make your team repeat to you how they have understood your message
-that is by the way the reason why co-pilots Always repeat what they just heard the pilot say
+- a small but significant question: is what I can hear the same as what you are saying?
+- Stuart Hall (1932-2014) investigate into idea further, he believed not only that we are capable of misunderstanding but that we play active role in understanding, per se. We interpret, or "decode", the same message, differently, depending on our social class, our level of knowledge, and our cultural background but above all, the way we understand a message also depends on how we **want** to understand it
+- the encoding/decoding model contradicts the classic sender receiver model, according to which the recipient
+plays a passive role. Hall argued that the way we receive a message is an active and never clear-cut process so that the message can always be understood differently. The sender encodes the message with a particular  intention. The receiver decodes the message in order to understand it. And this decoding can happen in three
+different ways 
+  - **dominant hegemonic**: the desired reading - we understand the message the way it was intended 
+  - **oppositional** we oppose or dismiss the intended meaning
+  - **negotiated** a combination of the two
+
+- **a message is more than just what is said. It changes depending on how it is understood**
+- *let's put this into practice: if you are a leader, always make your team repeat to you how they have understood your message.* (That is, by the way, the reason why co-pilots always repeat what they just heard the pilot say)
 
 ## visual communication - how we interpret signs
 
@@ -868,105 +821,34 @@ correlated because both occur more often in the summer heat but there is no caus
 a patch of the Montana brush on fire when you buy a pint of Haagen-Dazs
 Nate silver 
 
-## the cultivation Theory how the media corroborates our opinions
+## the cultivation Theory - how the media corroborates our opinions
 
-one of the most frequently cited communication theories is George
-gerbner's cultivation Theory from 1976 which claims that people who watch a lot
-of Television are more likely to cultivate the belief that reality corresponds with what they are seeing on
-TV he argued that watching a lot of Television changes our perception of
-reality and causes anxiety the mass media in the Past film and TV
-nowadays mostly games and the internet confronts us with an exaggerated stylized world
-according to gerbner those who consume a lot of media start to see the real world
-in the way it is stylized on screen some examples in everyday life we rarely
-see a policeman with a drawn gun in a crime drama however it is
-standard in reality we rarely see violence on screen we see it all the
-time according to gerbner if we consume these kinds of on-screen images over
-a long period of time our perception of reality changes and we begin to
-internalize it even if we don't actually see any violence we start to believe
-the world is a violent place and the more violent and frightening images
-we see the more anxious we become in our everyday lives so the media influences us
-but to what extent does it mean for example that excessively playing FPS
-first-person shooter games will cause the player to go on a killing spree
-no the media does not form r opinions and beliefs but it does
-reinforce them so somebody who already has violent fantasies will find
-affirmation for them online but somebody who coexists peacefully with others will
-not turn into a serial killer by watching violent films several nights in a row it is important to remember that
-we prefer to watch things we enjoy as is demonstrated most clearly by the
-filter bubble effect on the internet algorithms try to predict what information we will be looking for based
-on our interests and opinions that way there is little chance of being
-convinced by a different opinion because we are unlikely to be served any alternative views
-when it comes to decision making this kind of self-confirming information proves a huge risk as explained in the
-chapter on groupthink the cultivation theory has been criticized for its lack of
-complexity viewers are regarded as passive and easy to manipulate if you are
-interested in the opposite view take a look at the encoding slash decoding model
-if you like apples and spend hours watching a TV program about pairs you won't suddenly prefer pairs
-afterwards but if you already like pears and spend hours watching a program about
-pairs you will like pears even more afterwards 
+- one of the most frequently cited communication theories is George gerbner's cultivation Theory from 1976 which claims that people who watch a lot of Television are more likely to cultivate the belief that reality corresponds with what they are seeing on TV. He argued that watching a lot of Television changes our perception of reality and causes anxiety the
+- it is important to remember that we prefer to watch things we enjoy - as is demonstrated most clearly by the
+filter bubble effect on the internet, algorithms try to predict what information we will be looking for based
+on our interests and opinions. That way there is little chance of being convinced by a different opinion, because we are unlikely to be served any alternative views. When it comes to decision making this kind of self-confirming information proves a huge risk 
+- *if you like apples and spend hours watching a TV program about pairs you won't suddenly prefer pairs afterwards but if you already like pears and spend hours watching a program about pairs you will like pears even more afterwards*
 
 ## the standpoint Theory what opinion has to do with power
 
-everyone has a voice but not everyone is heard
-the voices that Prevail are called hegemonic the creation of hegemony has little to do with
-democracy and everything to do with power it is not a question of who has
-something legitimate or important to say but always of who has sufficient resources and influence in a society to
-Define their opinion as legitimate or important the hegemonic perspective is considered
-neutral anything that deviates from it is seen as an exception and ascribed to others
-the hegemonic view claims not to represent a specific point of view position or
-life experience but rather to represent things as simply the way they are an example the media in the western
-world is dominated by white male journalists nevertheless the news never announces
-today you will hear the news from a white male perspective white and male are not
-explicitly named they are regarded as general neutral and non-specific
-another example if a married couple are heterosexual they're sexual orientation isn't mentioned if they are
-homosexual it is the question of hegemonic voices is associated with the concept of which
-truths prevail here we come to the standpoint Theory who's most important proponents are Donna haraway
-and Sandra Harding they maintain that a voice or standpoint cannot be objective
-or neutral or exist outside a specific social context
-here is an example in science and in children's books to the present day the
-idea that prehistoric people hunted mammoths was long considered to be fact
-prehistoric people or more concretely prehistoric Men set off
-on dangerous Mammoth hunting expeditions but in fact this image was created in
-the 19th century at a time when hunting was no longer essential for survival but
-was simply a status symbol in their interpretations of prehistory archaeologists
-neglected unspectacular types of food procurements such as Gathering berries and roots or trapping small animals
-this is not to say that men did not sometimes slay a mammoth but it distorts the fact that they
-mainly collected berries here the historians were not objective
-but confirmed The Stereotype of men as Brave Fighters Warriors and family Breadwinners as if
-this were a law of nature bottom line if you believe that you hold an objective
-opinion ask yourself what other points of view were excluded so that yours could prevail
-if you want to make sure that every voice in the room is heard you can ask your team not to express their opinion
-about a given topic but rather brainstorm different possible opinions
-that way sooner or later even though unheard voices will appear on the flip chart and once they are up there they
-can be discussed conclusion 
+- everyone has a voice but not everyone is heard the voices that Prevail are called "hegemonic". The creation of hegemony has little to do with democracy and everything to do with power.
+  - it is not a question of who has something legitimate or important to say but always of who has sufficient resources and influence in a society to define their opinion as legitimate or important 
+  - the hegemonic perspective is considered neutral anything that deviates from it is seen as an exception and ascribed to others.
+  - the hegemonic view claims not to represent a specific point of view position or life experience but rather to represent things as simply "the way they are"
+- Donna haraway and Sandra Harding believes that a voice or standpoint cannot be objective or neutral or exist outside a specific social context.
+- bottom line if you believe that you hold an objective opinion: ask yourself what other points of view were excluded so that yours could prevail
+- *if you want to make sure that every voice in the room is heard you can ask your team not to express their opinion about a given topic but rather brainstorm different possible opinions that way sooner or later even though unheard voices will appear on the flip chart and once they are up there they can be discussed*
 
-## the peak and Rule what we remember from a conversation 
+## the peak-end rule - what we remember from a conversation 
 
-here's a question how do we know if a presentation a job interview or a
-date went well we usually have a good hunch but do we really know
-assessing a date would involve some pretty complicated number crunching we'd have to
-calculate how we felt how the other person felt what we had expected and
-so on an impossible task it turns out our mind solves this problem by using a
-surprisingly simple strategy as Lori Santos from Yale University explains brilliantly in a
-lecture when we remember something we ignore most of it actually we
-make an assessment based only on two parts of the experience 1. the peak I.E the part of the
-experience that was most extreme either Pleasant or unpleasant two the end I.E whether it got better or
-worse at the end this is important even a small Improvement can
-make the date seem like an okay experience whereas a poor ending will ruin an otherwise great evening this is
-the peak and Rule devised in a 1993 study by the Nobel Laureate Daniel
-Kahneman and his colleagues how can we use this in our life the peak and Rule gives us some hints
-about how to make an experience special we often obsess about what kind of first
-impression we make on people fearing that people might judge us based only on our outward appearance or
-first sentences this thinking is based on the famous notion of you only
-have one chance to make a first impression though this holds true the
-first thing we hear about someone influences our Judgment of that person the first price we are quoted forms the
-basis for the negotiation it is the anchor effect maybe we should start
-obsessing about something else there might be only one chance to make a lasting impression that lasting
-impression is not necessarily the first impression but rather the last one
-that is by the way the reason why we binge watch TV shows by ending
-on a cliffhanger they have perfected the peak and Rule so when it comes to communication it is
-of course important how we start a meeting how we set the tone how we break the ice
-but according to kahneman's work maybe we should start focusing on how we want
-to end the whole damn thing I don't care about opening sentences
-all I care about is the last sentence it's the sentence the reader will go to bed with
+- here's a question: how do we know if a presentation a job interview or a
+date went well?
+- we make an assessment based only on two parts of the experience 
+  - the peak - i.e. the part of the experience, that was most extreme either (pleasant or unpleasant)
+  - the end - i.e. whether it got better or worse at the end (this is important: even a small Improvement can
+make the date seem like an okay experience, whereas a poor ending will ruin an otherwise great evening)
+- so when it comes to communication it is of course important how we start a meeting, how we set the tone, how we break the ice. But, according to kahneman's work, maybe we should start focusing on how we want to end the whole damn thing 
+- **I don't care about opening sentences all I care about is the last sentence it's the sentence the reader will go to bed with** - Elfriede Jelinek
 
 
 # Quotes
