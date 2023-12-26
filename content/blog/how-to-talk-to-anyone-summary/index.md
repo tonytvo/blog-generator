@@ -155,21 +155,21 @@ tags: ["communication", "relationship"]
   - and if there are standards that you regard as important but find hard to uphold, then you need to learn them yourself and share them with your employees. Nobody can be good at everything
   - as a leader, get used to the idea that you are primarily responsible for the supply of energy, in other words, motivating, advising, stabilizing, providing momentum and letting others shine 
 
-## four the salami tactic how to carry through every idea 
+## The salami tactic - how to carry through every idea 
 
-- meetings are known to reveal a person's character generally speaking there are four personality types and meetings 
-  - one the silent type says nothing is thereby usually proven right and always thinks he or she knows better 
-  - two the opportunist is enthusiastic about every suggestion especially those made or favored by the boss 
+- meetings are known to reveal a person's character. Generally speaking, there are four personality types and meetings 
+  - the silent type says nothing is thereby usually proven right and always thinks he or she knows better 
+  - the opportunist is enthusiastic about every suggestion, especially those made or favoured by the boss 
   - the master of the obvious announces the obvious with great conviction as if he or she had just thought it up
-  - the naysayers and their purpose in life seems to be to pull apart other people's suggestions 
+  - the naysayers and their purpose in life seem to be to pull apart other people's suggestions 
   
 - how can you get a suggestion past these hellhounds 
-  - the salami tactic: do not put your suggestion forward all in one go but serve it in small easily digestible slices Instead
-    - This portioning method has two advantages first the fear of a huge task or bold idea is reduced, second a measured presentation allows the other participants to explore the idea themselves and think it through further and above all this tactic does not allow the other participants to recognize your overarching intention. This makes it harder to fight against it
-    - if there are ideological riffs, it is better to take small isolated steps than concentrate on the matter at hand not on the intended outcome 
+  - the salami tactic: do not put your suggestion forward all in one go, but serve it in small, easily digestible slices. Instead
+    - This portioning method has two advantages: first, the fear of a huge task or bold idea is reduced. Second, a measured presentation allows the other participants to explore and think the idea through. Above all, this tactic does not allow the other participants to recognize your overarching intention. This makes it harder to fight against it
+    - if there are ideological riffs, it is better to take small isolated steps than concentrate on the matter at hand, not on the intended outcome 
     - and what do you do if someone tries to Salama
-      - you simply ask "is that everything" 
-      - keep on asking until everything is on the table only then start negotiating 
+      - you simply ask, "Is that everything?" 
+      - keep on asking until everything is on the table. Only then start negotiating 
 
 ## five theory of rhetoric how to make a good speech in his definitive work rhetoric
 
