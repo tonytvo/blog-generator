@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what do you think has been the number one cause of arguments?
   - what makes a good son/daughter? (location 322 of 562, 42%)
   - do you fear more for a son or a daughter as they face the outside world?
   - how have you wanted your children to think of you?
@@ -268,6 +267,7 @@ tags: ["family", "emotion"]
 - how did it feel to get me go to make my own life?
 - have you ever faced total despair? what did you do?
 - what are your guiding principles for doing business?
+- what do you think has been the number one cause of arguments?
 
 
 - what world events had the most impact on you while you were growing up? did any of them personally affect your family?
