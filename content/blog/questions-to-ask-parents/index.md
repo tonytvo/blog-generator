@@ -7,8 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - what makes a good son/daughter? (location 322 of 562, 42%)
-  - do you fear more for a son or a daughter as they face the outside world?
   - how have you wanted your children to think of you?
   - did  you ever feel complete anger and frustration at your children? how did you deal with it?
   - how does a role of a dad and a mom differ?
@@ -172,6 +170,7 @@ tags: ["family", "emotion"]
 - what do you remember about my character as a young child?
 - what were parties like when you were a young man/woman?
 - what's the best time of life for a man/woman?
+- do you fear more for a son or a daughter as they face the outside world?
 - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
 
 
