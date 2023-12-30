@@ -1,5 +1,5 @@
 ---
-title: 48 laws of power by Robert Greene summary wip
+title: 48 laws of power by Robert Greene summary
 date: "2023-12-08T22:12:03.284Z"
 description: "48 laws of power by Robert Greene summary"
 tags: ["strategy"]
