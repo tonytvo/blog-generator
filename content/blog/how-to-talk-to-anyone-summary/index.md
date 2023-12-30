@@ -138,7 +138,7 @@ tags: ["communication", "relationship"]
 - notes should be made by hand.
 - if you want to call a family meeting, turn off the Wi-Fi router and wait in the room where it is located
 
-## boss talk how to talk to your team
+## boss talk - how to talk to your team
 
 - Rule one: don't criticize
   - this might sound a bit too easygoing, and of course, you have to evaluate your employees' work. That's your job, but go easy on the criticism
@@ -213,35 +213,35 @@ tags: ["communication", "relationship"]
   - 3. talk about the idea in such a way that people will want to tell others about it 
   - the next time you have to say something in front of other people, start your talk with this sentence: let me tell you a short story, or on the way here, something strange happened to me 
 
-## principal negotiation how to reach an agreement 
+## Principal negotiation: how to reach an agreement 
 
 - negotiation is the Fine Art of finding a solution to an apparently impossible situation 
-- one of the best known negotiating methods principled negotiation is based on the book getting to yes by Roger Fisher and William L Yuri 
-- think about a complex situation negotiating your salary with your boss pocket money with your children a ransom demanded by a blackmailer and try to apply the following principles to the situation
-  - **thing not person** do not be distracted by whether you like the other person or not
-  - **similarities, not differences** don't think I am in the weaker (or stronger) negotiating position ask yourself *what does the other person need from me*? *do we have common interests*?
-  - good enough not perfect you should not be aiming for the maximum possible, because Perfection is like the Unicorn it's rumored to exist but nobody has ever seen it 
-  - have a plan B prepared before negotiations even start. This is called the BATNA principle (best alternative to a negotiated agreement) it offers the best alternative when an agreement can't be reached 
+- one of the best-known negotiating methods, principled negotiation, is based on the book Getting to Yes by Roger Fisher and William L Yuri 
+- think about a complex situation negotiating your salary with your boss, pocket money with your children, a ransom demanded by a blackmailer, and try to apply the following principles to the situation
+  - **thing, not person** Do not be distracted by whether you like the other person or not
+  - **similarities, not differences** Don't think I am in the weaker (or stronger) negotiating position. Ask yourself *what does the other person need from me*? *do we have common interests*?
+  - good enough, not perfect. You should not be aiming for the maximum possible because Perfection is like the Unicorn. It's rumoured to exist, but nobody has ever seen it 
+  - have a plan B prepared before negotiations even start. This is called the BATNA principle (best alternative to a negotiated agreement). It offers the best alternative when an agreement can't be reached 
   - there are two schools of thought when it comes to negotiation 
-    - the first believes that you have to negotiate "hard" and "conquer" the other side (it's not enough to win someone has to lose) the other recommends negotiating softly in order not to put a strain on the relationship
+    - The first is believing that you have to negotiate "hard" and "conquer" the other side (it's not enough to win; someone has to lose). The other recommends negotiating softly in order not to put a strain on the relationship
     - principal negotiation falls into the second camp and recommends Cooperative negotiation. Negotiating properly means that everyone gets more than they originally hoped for 
-    - you must never try to make all the money that's in a deal let the other fellow make some money too because if you have a reputation for always making all the money, you won't have many deals
+    - you must never try to make all the money that's in a deal. Let the other fellow make some money, too, because if you have a reputation for always making all the money, you won't have many deals
 
-## the feedback method how to criticize
+## The feedback method - how to criticize
 
-- feedback is one of the most sensitive processes in communication, it is easy to hurt people with criticism but false Compliments are also unhelpful harsh criticism damages our self-esteem and can lead us to make unwise choices but flowery compliments often make us too complacent 
-- as for the person giving the feedback most people are prone to being critical as it gives them a feeling of superiority they feel like they need to crush bad or weird ideas 
-- feedback can be analyzed along two axes it can be negative or positive and constructive or destructive. So this gives us four different types of feedback 
-  - **"no" - negative destructive feedback** you are simply told the idea is bad without being given an explanation or offered an alternative while this can be at times an effective feedback that seldom changes the behavior of the receiver 
-  - **"no because..." - negative constructive feedback** you are told you are wrong and then you are presented with the correct answer this is how Old School teaching works 
-  - **"yeah, but..." - positive destructive feedback** most managers have sooner or later heard about the importance of giving positive feedback so they start off by saying something positive about your idea just to deconstructed afterwards and offer a contrary opinion ("the idea is good, but...")
+- feedback is one of the most sensitive processes in communication. It is easy to hurt people with criticism, but false Compliments are also unhelpful. Harsh criticism damages our self-esteem and can lead us to make unwise choices, but flowery compliments often make us too complacent 
+- as for the person giving the feedback, most people are prone to being critical as it gives them a feeling of superiority. They feel like they need to crush bad or weird ideas 
+- Feedback can be analyzed along two axes: negative or positive, constructive or destructive. So this gives us four different types of feedback 
+  - **"no" - negative, destructive feedback** You are simply told the idea is bad without being given an explanation or offered an alternative. While this can be, at times, effective feedback that seldom changes the behaviour of the receiver 
+  - **"No because..." - negative constructive feedback** You are told you are wrong and presented with the correct answer. This is how Old School teaching works 
+  - **"Yeah, but..." - positive destructive feedback** Most managers have sooner or later heard about the importance of giving positive feedback, so they start off by saying something positive about your idea to deconstruct afterwards and offer a contrary opinion ("the idea is good, but...")
   - "**yes and..." - the appreciative response** tried to find the one thing in The Proposal that works and build on that 
-    - this goes back to appreciative inquiry a method attributed to an American David cooperider that involves concentrating on the strengths positive attributes and potential of a company or a person rather than weaknesses according to this Theory focusing too strongly on the flaws of an idea or project stifles the open and positive approach that is essential for good working practices
+    - this goes back to appreciative inquiry, a method attributed to an American David Cooperider, that involves concentrating on the strengths, positive attributes, and potential of a company or a person rather than weaknesses. According to this Theory, focusing too strongly on the flaws of an idea or project stifles the open and positive approach that is essential for good working practices
 
-- *careful* of course we sometimes have to deliver crystal clear or even harsh feedback but the point is people learn better if they are offered constructive feedback. We know this from brainstorming sessions where the flow and fun increase, the more positive The Exchange.
-  - collaboration it seems dies when the response is negative and ideas are killed before they are explored
+- *careful* of course, we sometimes have to deliver crystal clear or even harsh feedback, but people learn better if offered constructive feedback. We know this from brainstorming sessions where the flow and fun increase, and the more positive the exchange.
+  - collaboration, it seems, dies when the response is negative, and ideas are killed before they are explored
 
-- **whenever you are about to give feedback ask yourself how can I make this idea better rather than why is this idea bad **
+- **Whenever you are about to give feedback, ask yourself, how can I make this idea better? Rather than Why is this idea bad**
 
 ##  groupthink what happens when everyone has the same opinion
 
