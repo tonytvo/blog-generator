@@ -5,9 +5,6 @@ description: "48 laws of power by Robert Greene summary"
 tags: ["strategy"]
 ---
 
-# todo
-- update readwise
-
 # Never outshine the master.
 
 - Always make those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents, or you might accomplish the opposite—inspire fear and insecurity. Make your masters appear more brilliant than they are, and you will attain the heights of power.
@@ -230,19 +227,19 @@ tags: ["strategy"]
 - What is understandable is not awe-inspiring.  The more mystery surrounds your actions, the more awesome your power seems.  
 - You appear to be the only one who can do what you do, and because you achieve accomplishments with grace and ease, people believe you can always do more.
 
-# Control the options: get others to play with the cards you deal.
+# Control the options: get others to play with the cards you deal with.
 
-- Withdrawal and disappearance are classic ways of controlling the options.  You give people a sense of how things will fall apart without you, and you offer them the choice: I stay away and you suffer, or I return under my conditions.
+- Withdrawal and disappearance are classic ways of controlling the options.  You give people a sense of how things will fall apart without you and offer them the choice: I stay away, and you suffer, or I return under my conditions.
 - We actually find choices between a small number of alternatives more desirable than complete freedom of options.
 
 - **The following are among the most common forms of controlling the options:**
   - **Color the Choices**: Propose multiple solutions, but present the preferred one in the best light compared to the others.  Excellent device for the insecure master.
   - **Force the Resister**: This is a good technique to use on children and other willful people who enjoy doing the opposite of what you ask them to: Push them to choose what you want them to do by appearing to advocate the opposite.
-  - **Alter the Playing Field**: In this tactic your opponents know their hand is being forced, but it doesn’t matter. The technique is effective against those who resist at all costs.
+  - **Alter the Playing Field**: In this tactic, your opponents know their hand is being forced, but it doesn’t matter. The technique is effective against those who resist at all costs.
   - **The Shrinking Options**: A variation on this technique is to raise the price every time the buyer hesitates and another day goes by. This is an excellent negotiating ploy to use on the chronically indecisive, who will fall for the idea that they are getting a better deal today than if they wait till tomorrow.
-  - **The Weak Man on the Precipice**: He would describe all sorts of dangers, exaggerating them as much as possible, until the duke saw a yawning abyss in every direction except one: the one Retz was pushing him to take. This tactic is similar to "Color the Choices," but with the weak you have to be more aggressive. Work on their emotions—use fear and terror to propel them into action. Try reason and they will always find a way to procrastinate.
-  - **Brothers in Crime**: This is a classic con-artist technique: You attract your victims to some criminal scheme, creating a bond of blood and guilt between you. They participate in your deception, commit a crime (or think they do), and are easily manipulated. It is often wise to implicate in your deceptions the very person who can do you the most harm if you fail. Their involvement can be subtle—even a hint of their involvement will narrow their options and buy their silence.
-  - **The Horns of a Dilemma**: This is a classic trial lawyer’s technique: The lawyer leads the witnesses to decide between two possible explanations of an event, both of which poke a hole in their story. They have to answer the lawyer’s questions, but whatever they say they hurt themselves. The key to this move is to strike quickly: Deny the victim the time to think of an escape. As they wriggle between the horns of the dilemma, they dig their own grave.
+  - **The Weak Man on the Precipice**: He would describe all sorts of dangers, exaggerating them as much as possible, until the duke saw a yawning abyss in every direction except one: the one Retz was pushing him to take. This tactic is similar to "Color the Choices," but you have to be more aggressive with the weak. Work on their emotions—use fear and terror to propel them into action. Try reason, and they will always find a way to procrastinate.
+  - **Brothers in Crime**: This is a classic con artist technique: You attract your victims to some criminal scheme, creating a bond of blood and guilt between you. They participate in your deception, commit a crime (or think they do), and are easily manipulated. It is often wise to implicate in your deceptions the very person who can do you the most harm if you fail. Their involvement can be subtle—even a hint of their involvement will narrow their options and buy their silence.
+  - **The Horns of a Dilemma**: This is a classic trial lawyer’s technique: The lawyer leads the witnesses to decide between two possible explanations of an event, both of which poke a hole in their story. They have to answer the lawyer’s questions, but whatever they say, they hurt themselves. The key to this move is to strike quickly: Deny the victim the time to think of an escape. As they wriggle between the horns of the dilemma, they dig their own grave.
   - Controlling the options has one main purpose: to disguise yourself as the agent of power and punishment.
 
 # Play to people’s fantasies.
