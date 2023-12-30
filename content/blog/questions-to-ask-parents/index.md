@@ -9,10 +9,6 @@ tags: ["family", "emotion"]
 - todo: still need to group with existing questions (or remove if existed)
   - what would you change about your style of fathering/mothering?
   - how did you and mom keep your relationship alive while raising a family?
-  - did you enjoy being single?
-  - who first broke your heart? what happened?
-  - what makes you proud to be a man/woman?
-  - does a man "love" differently than a woman?
   - is there such a thing as a "right" war?
   - all things considered, would you rather have grown up in your world or in today's world?
   - did being a dad/mom come naturally?
@@ -209,9 +205,13 @@ tags: ["family", "emotion"]
 - how involved were your parents in your marriage? did you ever feel they were interfering?
 - do you believe it is okay for people to live together before getting married? why or why not?
 - have you ever been in love with someone who later broke up with you? how did you handle the situation?
+- who first broke your heart? what happened?
 - how old were you when your parents allowed you to begin dating?
 - what advice would you give about how to ask someone out on a date?
 - have you kept secrets from mom/dad during your marriage? to protect you or her?
+- did you enjoy being single?
+- does a man "love" differently than a woman?
+
 
 
 - what kinds of books do you like to read?
