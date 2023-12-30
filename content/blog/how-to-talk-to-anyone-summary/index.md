@@ -243,41 +243,41 @@ tags: ["communication", "relationship"]
 
 - **Whenever you are about to give feedback, ask yourself, how can I make this idea better? Rather than Why is this idea bad**
 
-##  groupthink what happens when everyone has the same opinion
+##  groupthink - what happens when everyone has the same opinion
 
-- Janice called the phenomenon that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion "group think". if this happens the group is at risk of making very poor decisions and even more if many people are too sure of the same thing they become radical and imprudent
-  - researchers have observed this phenomenon among jury members: the greater the consensus the harsher the judgment and the surer the jury is that its verdict is correct 
-- groupthink occur typically when there is
+- Janice called the phenomenon that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion "group think." If this happens, the group is at risk of making very poor decisions and even more, if many people are too sure of the same thing, they become radical and imprudent
+  - researchers have observed this phenomenon among jury members: the greater the consensus, the harsher the judgment, and the surer the jury is that its verdict is correct 
+- groupthink typically occurs when there is
   - High group cohesiveness 
   - high pressure to make a good decision
   - strong persuasive directive leadership 
 - how can we avoid groupthink 
-  - "give a high priority to airing objections and doubts" in other words encourage all group members to speak their mind even and especially if the opinion is unpopular 
-  - divide your team into two informed competing teams to study the same problem compare results 
-  - **when all think alike no one is thinking - Walter lippman **
+  - "Give a high priority to airing objections and doubts." In other words, encourage all group members to speak their minds even and especially if the opinion is unpopular 
+  - divide your team into two informed competing teams to study the same problem and compare results 
+  - **When all think alike, no one is thinking - Walter Lippman**
 
-## the power method when the Force is with you
+## The power method - when the force is with you
 
-- warning even if you prefer to convince people with good arguments rather than by mean tactics you should know these tricks because they are bound to be used against you
-- **never argue hesitantly**
-  - if you are unsure about something try not to show it to others. Doubt and hesitation will only dilute your arguments, your adversary will see an opportunity to pounce
-- so only speak up when you're sure you want to follow through your argument and stand your ground even if your plan is flawed 
-- we forgive bold people their mistakes, but have no confidence in doubters.
+- warning: even if you prefer to convince people with good arguments rather than by mean tactics, you should know these tricks because they are bound to be used against you
+- **Never argue hesitantly**
+  - if you are unsure about something, try not to show it to others. Doubt and hesitation will only dilute your arguments. Your adversary will see an opportunity to pounce
+- so only speak up when you're sure you want to follow through with your argument and stand your ground even if your plan is flawed 
+- we forgive bold people their mistakes but have no confidence in doubters.
 
 - **talk less**
   - you should not try to convince the other person by talking a lot 
   - the more you talk, the more interchangeable and ordinary your arguments seem 
-  - every Triumph that you achieve through words is in reality a pyrrhic Victory, because nobody likes to be argued into a corner
+  - every Triumph that you achieve through words is, in reality, a pyrrhic Victory because nobody likes to be argued into a corner
 
 - **act ignorant**
-  - we tend to be dazzled by intelligence and charisma, try the opposite: make your adversary feel clever he or she will be flattered and become inattentive. When your opponent's guard drops you can attack
-  - acting stupid is one of the oldest stratagems around as they say in China masquerade as a pig to kill the Tiger 
+  - we tend to be dazzled by intelligence and charisma. Try the opposite: make your adversary feel clever. He or she will be flattered and become inattentive. When your opponent's guard drops, you can attack
+  - acting stupid is one of the oldest stratagems around. As they say in China, masquerade as a pig to kill the Tiger 
 
 - **give up** 
   - if you can't convince somebody, reassess your own situation: what will it cost me if I give up now 
-  - a smiling confession of your own defeat comes across as more self-assured than sullenness and what's more the less interests you show, the less satisfied your adversary will feel
+  - a smiling confession of your own defeat comes across as more self-assured than sullenness, and what's more, the less interest you show, the less satisfied your adversary will feel
 
-## Intercultural communication how to negotiate abroad
+## Intercultural communication - how to negotiate abroad
 
 - the more you get to know a culture the more black and white turns to Gray
 - in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more apparent in the way we communicate then in what we communicate. 
