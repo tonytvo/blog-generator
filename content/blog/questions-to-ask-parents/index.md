@@ -6,44 +6,6 @@ tags: ["family", "emotion"]
 ---
 # Questions
 
-- todo: still need to group with existing questions (or remove if existed)
-  - what would you change about your style of fathering/mothering?
-  - how did you and mom keep your relationship alive while raising a family?
-  - is there such a thing as a "right" war?
-  - all things considered, would you rather have grown up in your world or in today's world?
-  - did being a dad/mom come naturally?
-  - what causes racial or religious prejudice?
-  - what makes a good spouse?
-  - are you frightened of anything now?
-  - if there anything you've always wanted to ask me?
-  - how old do you feel today?
-  - should I live with my mistakes or always try to cut my losses and make a clean start?
-  - did you parents have favorites? did you?
-  - if you were a young man today, would you have a family again?
-  - define family.
-  - define a life well lived.
-  - what's the best part of having a daughter?
-  - when I was born, what was your dream for me?
-  - what are the vital ingredients of a strong marriage?
-  - what's your favorite memory of spending time with me?
-  - what did you worry about most as I was growing up?
-  - how did you meet mom/dad?
-  - where did you go on your first date?
-  - how long did  you know each other before you got married?
-  - what was your wedding day like?
-  - what would you do if something happened to mom/dad?
-  - what did  you always want to do with your kids but never had the chance?
-  - were you ever tempted to just walk away from your family responsibilities?
-  - how have you remotivated yourself when faced with bad times?
-  - what was the greatest gift your parents gave you? have you tried to install the same lessons in your children? do you think you succeeded?
-  - should I try to retain an idealistic worldview or adopt a more pragmatic view?
-  - when did you get your first car? what model was it?
-  - did you go as far academically as you wanted?
-  - what was your happiest school day?
-  - what was your first job?
-  - when you were growing up, did you hope to be a father/mother someday?
-
-
 - what is something (an event) from your childhood that has affected you the most?
 - who were your childhood heroes?
 - what was your neighborhood like growing up?
@@ -79,6 +41,7 @@ tags: ["family", "emotion"]
 - was there ever a time in your life when you lost your self-esteem? what did you do to rebuild it?
 - what things bring you the most pleasure now as compared to when you were a youth?
 - what things frighten you now as compared to when you were a youth?
+- are you frightened of anything now?
 - what three things did you consider becoming when deciding on college or a career?
 - are you happy with the profession you chose? why or why not?
 - did you go to college? if so, where, and what made you choose that school?
@@ -88,7 +51,8 @@ tags: ["family", "emotion"]
 - what insight can you share with me about working well with others?
 - how did you like school? what were your favorite subjects?
 - what are your views on work ethic?
-- what was your first job in high school? did you like it? why or why not?
+- what was your first job? what was your first job in high school? did you like it? why or why not?
+- what was your happiest school day?
 - what was the worst job you ever had? why?
 - have you ever been fired from or quit a job? what happened?
 - what was the most rewarding job you ever had? why was it rewarding?
@@ -106,6 +70,7 @@ tags: ["family", "emotion"]
 - can you remember your parents laughing? what was the cause?
 - do you think you spent too much time at work when we were young?
 - looking back through your parent, grant-parents, and so on, what characteristic do we all share?
+- what was the greatest gift your parents gave you? have you tried to install the same lessons in your children? do you think you succeeded?
 
 
 - what did you find the most rewarding about being parent?
@@ -168,6 +133,22 @@ tags: ["family", "emotion"]
 - how have you wanted your children to think of you?
 - did  you ever feel complete anger and frustration at your children? how did you deal with it?
 - how does a role of a dad and a mom differ?
+- is there anything you've always wanted to ask me?
+- when you were growing up, did you hope to be a father/mother someday?
+- were you ever tempted to just walk away from your family responsibilities?
+- what did  you always want to do with your kids but never had the chance?
+- what would you change about your style of fathering/mothering?
+- did being a dad/mom come naturally?
+- how did you and mom keep your relationship alive while raising a family?
+- what makes a good spouse?
+- if you were a young man/woman today, would you have a family again?
+- define family.
+- define a life well lived.
+- what's your favorite memory of spending time with me?
+- what did you worry about most as I was growing up?
+- did you parents have favorites? did you?
+
+
 
 
 - what are your views on marriage?
@@ -176,13 +157,12 @@ tags: ["family", "emotion"]
 - what advice would you give a grandchild on his or her wedding day?
 - when did you know you were in love?
 - when was your first kiss? with whom?
-- who was your first date? what did you do?
+- who was your first date? what did you do? where did you go on your first date?
 - what does being in love mean to you?
 - what was your wedding day like?
 - if you could have done anything differently on your wedding day, what would it have been?
 - how did you keep your relationships alive with your spouse while we were growing up? if you are divorced, how did you get along while raising us?
 - what qualities and traditions make a good marriage?
-- should marriage really mean forever?
 - can a man or a woman find lasting happiness?
 - what have you learned about being married?
 - if you have been divorced, what did you learn from that experience?
@@ -194,6 +174,7 @@ tags: ["family", "emotion"]
 - what are your views on divorce?
 - what are your views on separation?
 - do you believe marriage can last forever? why or why not?
+- what are the vital ingredients of a strong marriage?
 - describe your marriage proposal. Was your significant other surprised?
 - who could you trust and depend on during your life? How did these individuals help you?
 - when did you decide to marry?
@@ -204,6 +185,7 @@ tags: ["family", "emotion"]
 - what are your views on marrying someone with a different cultural upbringing?
 - how involved were your parents in your marriage? did you ever feel they were interfering?
 - do you believe it is okay for people to live together before getting married? why or why not?
+- how long did you know each other before you got married?
 - have you ever been in love with someone who later broke up with you? how did you handle the situation?
 - who first broke your heart? what happened?
 - how old were you when your parents allowed you to begin dating?
@@ -211,6 +193,9 @@ tags: ["family", "emotion"]
 - have you kept secrets from mom/dad during your marriage? to protect you or her?
 - did you enjoy being single?
 - does a man "love" differently than a woman?
+- how did you meet mom/dad?
+- what was your wedding day like?
+- what would you do if something happened to mom/dad?
 
 
 
@@ -235,6 +220,7 @@ tags: ["family", "emotion"]
 - where in the world would you recommend I visit before I die? why?
 - did anyone ever hurt you so much that it altered the course of your life? how did you overcome your hurt?
 - what motivates you?
+- how have you remotivated yourself when faced with bad times?
 - what are your greatest abilities or talents? describe a time when you used your talents.
 - what is the most fun and interesting thing you have done in your life that you feel I should experience?
 - how are you creative? what kind of things do you make?
@@ -267,15 +253,22 @@ tags: ["family", "emotion"]
 - have you ever faced total despair? what did you do?
 - what are your guiding principles for doing business?
 - what do you think has been the number one cause of arguments?
+- how old do you feel today?
+- should I live with my mistakes or always try to cut my losses and make a clean start?
+- should I try to retain an idealistic worldview or adopt a more pragmatic view?
+- did you go as far academically as you wanted?
+- when did you get your first car? what model was it?
 
 
 - what world events had the most impact on you while you were growing up? did any of them personally affect your family?
 - how is the world today different from when you were a child?
+- all things considered, would you rather have grown up in your world or in today's world?
 - what would you consider the most important inventions that have been made during your lifetime?
 - what wars have been fought during your lifetime? how did you feel about them?
 - did you have to kill anyone in the war? do you ever think about those experiences?
 - how did you feel about 9/11? where were you when this happened?
 - how did you feel about the Gulf War? what are your opinions about it?
+- is there such a thing as a "right" war?
 - what are your views on voting? have you ever held an office?
 - who is your favorite US president? how do you feel about the office of the US president?
 - have you ever witnessed any extraordinary events? what were they?
@@ -285,7 +278,7 @@ tags: ["family", "emotion"]
 - have you been politically active during your lifetime? what political party have you voted for?
 - which presidents have you voted for?
 - what events or trends in the media have you disliked the most? why?
-- how do you feel about racial and religious prejudice?
+- how do you feel about racial and religious prejudice? what causes racial or religious prejudice?
 - have you ever dedicated yourself to a cause? which one?
 - which charities did you contribute to and why?
 - which scientific discoveries or advances have interested you the most?
@@ -376,6 +369,8 @@ tags: ["family", "emotion"]
 - do you believe we're not alone in the universe? do you believe in extraterrestrial life? why?
 
 
+
+- when I was born, what was your dream for me?
 - do you still have goals and dreams for me? what are they? have they changed as I have grown up?
 - how hard should I pursue my dreams?
 - if I could do only one thing really well in life, what would you want that to be?
