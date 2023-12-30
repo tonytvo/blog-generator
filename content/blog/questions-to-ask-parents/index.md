@@ -7,7 +7,6 @@ tags: ["family", "emotion"]
 # Questions
 
 - todo: still need to group with existing questions (or remove if existed)
-  - how does a role of a dad and a mom differ?
   - what would you change about your style of fathering/mothering?
   - how did you and mom keep your relationship alive while raising a family?
   - did you enjoy being single?
@@ -172,6 +171,7 @@ tags: ["family", "emotion"]
 - what is a parent's primary role - teacher, protector, provider, pal, or disciplinarian?
 - how have you wanted your children to think of you?
 - did  you ever feel complete anger and frustration at your children? how did you deal with it?
+- how does a role of a dad and a mom differ?
 
 
 - what are your views on marriage?
