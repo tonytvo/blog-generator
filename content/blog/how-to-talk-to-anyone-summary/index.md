@@ -326,7 +326,7 @@ tags: ["communication", "relationship"]
 
 - **the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an analyst might - Alain de bottan**
 
-## small talk - how to start a conversation with strangers 
+## small talk - how to start a conversation with strangers
 
 - ![small talk](./small-talk.png)
 
@@ -381,7 +381,7 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
 - The best way to lower the water line of your opponent or partner is to show more of yourself if you for example want someone to admit something start by talking honestly about your own mistakes 
 - **fear and hope are alike underneath - Richard Ford**
 
-## the spiral of Silence why we don't dare State our opinion 
+## the spiral of Silence - why we don't dare state our opinion 
 
 - German social scientist Elisabeth Noelle-Neumann hypothesis: the willingness of people to voice there opinion in public dwindles in situations where they believe that the majority opinion is different from their own. in other words we do not like to be of a different opinion to others if we notice that the group majority has a different opinion to ours we remain silent this phenomenon is called the spiral of silence and can be explained by these six points of which the last two are arguably the most important:
 - most people have a fear of isolation and observe the behavior of others to assess which opinions will be accepted or rejected We Fear isolation more than being wrong wrote Alexis de Taco in the 19th century
@@ -452,12 +452,11 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 
 ## watzlawick's axiom theory - how relationships fail 
 
-an axiom is a valid truth that needs no proof at the end of
-the 1960s the communication theorist Paul waslowick together with other
-researchers came up with five axioms to explain how interpersonal communication
-especially in relationships fails 
+- an axiom is a valid truth that needs no proof 
+- at the end of the 1960s the communication theorist Paul waslowick together with other researchers came up with five axioms to explain how interpersonal communication especially in relationships fails 
+
 - **you cannot not communicate a man**
-  - comes home sits down stares into space and is silent his wife looks at him and asks him how he is he says nothing and yet he communicates something it is immediately clear that something must have happened even if you say nothing you are saying something 
+  - comes home, sits down, stares into space, and is silent, his wife looks at him and asks him how he is, he says nothing and yet he communicates something. It is immediately clear that something must have happened even if you say nothing you are saying something 
 
 - **all communication has a relationship aspect and a Content aspect**
   - the content aspect is *what we say*, the relationship aspect *includes how we say things* but also *who says something* [see Schultz fontans communication model](#schultz-von-thuns-communication-model---why-we-should-talk-to-each-other-about-how-we-talk-to-each-other), **who says something and how it is said always way heavier than what is said**. *if we are offended by a complete stranger it affects us less than if our partner offends us*
