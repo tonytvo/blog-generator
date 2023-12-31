@@ -292,7 +292,7 @@ tags: ["communication", "relationship"]
 - **multi-active**: if you're intrigued by "how" people communicate and relate to each other
 - **reactive** if you're convinced by who says it and their experience and authority
 
-## self-talk how to (de)motivate ourselves
+## self-talk - how to (de)motivate ourselves
 
 - there are two kinds of self-talk
   - the first is the unself-conscious Babbling of little children as they play or the thinking aloud of contestants in TV shows such as Who Wants to Be a Millionaire? These types of inner monologue were called "egocentric speech" by the developmental psychologist Gene Piaget. he believed they were a **sign of cognitive immaturity**. Today we know that thinking aloud is an excellent method for ordering our thoughts and improving concentration
@@ -303,9 +303,9 @@ tags: ["communication", "relationship"]
   - **self-blame:** I should have done differently or I'm a bad father
 - positive self-talk is about breaking through the above negative patterns of thought it's not about convincing yourself that life is great but rather about freeing yourself from a cycle of negative thinking for example if you say "I'll never manage it," ask yourself instead: "what can I do in order to manage it?"
 - in a nutshell self-talk serves two different functions first concentration and second motivation
-- *talking to myself is the only way I can be sure of intelligent conversation - Edmund Blackadder *
+- *talking to myself is the only way I can be sure of intelligent conversation - Edmund Blackadder*
 
-## active listening how we are (not always) all ears 
+## active listening - how we are (not always) all ears 
 - paradoxically in our age of constant communication the raw material of conversation has actually disappeared: listening. Genuine real listening is a rare commodity and a great gift, because you are giving to the person you are listening to your most valuable asset your attention 
 
 - **listen don't talk** 
@@ -324,7 +324,7 @@ tags: ["communication", "relationship"]
   - resist the impulse of giving the other person advice - unless of course they specifically ask for it. instead, take the conversation back to an exciting important part of the story: "Earlier, you said that..." 
   - take the person away from the smooth surface to deeper levels: "how was it for you when you...?" or encourage the person to keep talking by simply asking: "and what happen next?"
 
-- **the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an analyst might - Alain de bottan **
+- **the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an analyst might - Alain de bottan**
 
 ## small talk - how to start a conversation with strangers 
 
