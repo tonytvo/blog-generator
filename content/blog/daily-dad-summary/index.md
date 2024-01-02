@@ -15,10 +15,15 @@ tags: ["family"]
 - However we conduct ourselves in front of our children—particularly at home, in private, they will come to see as normal. If we are rude or unkind to our spouse, they will assume that is an appropriate way to treat people they love. If we are anxious and overly worried, they will come to think that the world is a scary place that must be feared. If we behave unethically or
 cynically, they too will begin to cheat and lie.
 
+- ![dad not serious soccer](./dad-not-serious-soccer-kicks.jpg)
+
 # Their Faults Are Your Faults
 
 - Our kids have our virtues and our vices. That’s what makes this whole crazy parenting thing such a wonderful opportunity. Because we are here to help them become the best possible versions of themselves. One of the ways we do that is to help them become like us in all the good ways. But one of the other ways is to prevent them from becoming too much like us in all the bad ways.
+
 - It can be an incredibly difficult balancing act if we aren’t honest or self-possessed, if we let our egos get in the way. We can’t let that happen. This is our chance, our time! To help them. To bolster them. To help them overcome flaws that maybe we never quite got over ourselves.
+
+- ![books-anti-gravity](./books-anti-gravity-put-down.jpg)
 
 # Show Them How to Keep Their Cool
 
@@ -197,6 +202,41 @@ impact that comes from practicing what one preaches. Help them benefit from a fo
 
 - Keep doing what needs to be done. Embody what you want your kids to be. Keep growing. Keep being the example they can follow. Keep teaching
 them, implicitly and explicitly.
+
+# There Is No Substitute for Your Love
+
+- In his beautiful and vulnerable memoir, Bruce Springsteen writes that his father said fewer than a thousand words to him throughout his entire childhood. Maybe “you’re not greeted with love and affection,” he writes, because “you haven’t earned it.” So for decades, Bruce tried anything to earn his father’s love.
+
+- It’s poignant, haunting, and heartbreaking. From the outside, it looked like Bruce Springsteen had everything; on the inside, he felt like he had nothing. It’s evidence of our power as parents. No amount of money or celebrity or
+awards can substitute for your love. That’s all they want.
+
+# You Can’t Say These Words Enough
+
+- your kids shrug when you say it. It feels weird saying it in public - cliché, lame, vulnerable. You don’t want to embarrass them. Or bother them. Or interrupt. Plus, they know how you feel, right? You’ve said it a thousand times before at home.
+
+- We have a million reasons not to say these words, but all of these reasons are wrong because it’s impossible to say them enough:
+  - I love you.
+  - I’m proud of you.
+  - It’s you I like.
+  - You are special.
+  - You are enough.
+  - You’re the most important thing in the world to me.
+
+- At the end of your life, do you think, for one second, that you will kick yourself for saying any of those words too much? Or is it more likely that you’ll wish you’d said those things more? Because it would absolutely kill you if you thought for one second that they might not know, that they might not feel in their hearts, how much you loved them, how proud you were of them, how nothing—not success, money, or lack of either—could change what they meant to you from the moment they were born.
+
+- Life is full of risks. This is one gamble you don’t need to take. So say it. Tell them how you feel. Tell them that you love them. Say it again and again and again. 
+
+- It’s impossible to do it too much... but you might as well try.
+
+# Love without End. Amen.
+
+- Parental love is not something that is dispensed only when things are going easily with your kids. When they listen. When they conform to your expectations. Expressions of love are not just for when they succeed or when everything is going well in your life or in your job.
+
+- Not every now and then but always. Without end. Unconditionally. Even when they hit their siblings, when they lie about a test, when they don’t want to eat their vegetables, when they want to quit something you paid a lot of money for, when they’ve acted in a way contrary to the values you’ve tried to instill in them.
+
+- Even if this kind of love isn’t something you got as a kid. Even if it seems clouded when you’re struggling or difficult to express when you’re pissed off. Even when they take you for granted and make things so hard on you, you have to show them that you love them.
+
+- ***It’s a love without end, amen.***
 
 # Quotes
 
