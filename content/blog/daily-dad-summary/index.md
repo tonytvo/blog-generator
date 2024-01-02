@@ -1,0 +1,205 @@
+---
+title: daily dad by Ryan Holiday Summary
+date: "2024-01-13T22:12:03.284Z"
+description: "daily dad by Ryan Holiday Summary"
+tags: ["family"]
+---
+
+# a little fellow follows you
+
+- your children follow behind you. They see everything you do. If you go astray, so too will they.
+- ![spy-wear-sneakers](./spy-wear-sneakers.jpg)
+
+# never let them see you act like this
+
+- However we conduct ourselves in front of our children—particularly at home, in private, they will come to see as normal. If we are rude or unkind to our spouse, they will assume that is an appropriate way to treat people they love. If we are anxious and overly worried, they will come to think that the world is a scary place that must be feared. If we behave unethically or
+cynically, they too will begin to cheat and lie.
+
+# Their Faults Are Your Faults
+
+- Our kids have our virtues and our vices. That’s what makes this whole crazy parenting thing such a wonderful opportunity. Because we are here to help them become the best possible versions of themselves. One of the ways we do that is to help them become like us in all the good ways. But one of the other ways is to prevent them from becoming too much like us in all the bad ways.
+- It can be an incredibly difficult balancing act if we aren’t honest or self-possessed, if we let our egos get in the way. We can’t let that happen. This is our chance, our time! To help them. To bolster them. To help them overcome flaws that maybe we never quite got over ourselves.
+
+# Show Them How to Keep Their Cool
+
+- Your kids will need them too. So show them. Show by example, not just with words. Show them, when you’ve been screwed over and it really hurts, that still your personal code of conduct matters more. Because it does. Because it will.
+
+
+# Hang Their Pictures on Your Wall
+
+- we can hang up pictures of our children and strive to make them proud, and this should inspire and fortify us when we have to make tough decisions for their future, for their safety, for their freedom
+- it is our kids who compel us to do the right thing... because they are always watching
+
+
+# They Learn from Home
+
+- Those kids buckled in behind you—they are absorbing your example and assimilating the lessons that will shape them in the smallest and biggest of ways. From the kind of driver they are going to be to the kind of person they
+are going to be. They are watching you as you go through the world. ***Right now***. They’re watching you break traffic laws, break promises. They hear you when you lie. They feel it when your actions don’t match your words.
+
+- Kids learn from home. They learn in the car. They learn from Mom and Dad. You set the standard, so be the standard.
+
+# Protect This Great Invention
+
+- “The idea of childhood is one of the great inventions of the Renaissance,” he writes, because it allowed children to develop, to learn, to have a safe space to play and explore and discover themselves.
+
+- Like any invention, childhood can disappear. How? With the disappearance of adulthood. Childhood, as both a social structure and a
+psychological condition, works when things like maturity, responsibility, literacy, and critical thinking mark an adult. But when things like long-form writing and reading decline, the gap between child and adult shrinks; the line between them blurs and then dissolves.
+
+- As parents, we have to protect this great invention. We have to increase the gap between childhood and adulthood. Let them be kids... but also make sure that you are being an adult. Be a leader. Be responsible. Be an example,
+a model they have to strive toward. Let them see you with a book they can’t yet comprehend. Let them be around adult conversations they can’t quite understand. Let them see you working and sweating and providing.
+
+- Let them see an adult—so they have something not just to look up to but to look forward to as well.
+
+# Your Living Is the Teaching
+
+- If you want to teach your kids, it’s not  going to be with words. It’s not going to
+be with lectures. It’s going to be through showing them that you live according to the rules you set and the values you are trying to tell them are important.
+
+# We Can Be That Gift
+
+- What were the things that Marcus learned from Antoninus? He learned the importance of compassion, hard work, persistence, altruism, self-reliance, cheerfulness; keeping an open mind and listening to anyone who could contribute; taking responsibility and blame, and putting other people at ease; yielding the floor to experts and heeding their advice; knowing when to push something or someone and when to back off; being indifferent to superficial honors and treating people as they ***deserved to be treated.***
+
+- It’s quite a list, isn’t it? These lessons impacted Marcus so deeply, he remembered them far into adulthood and recorded them for his own reference in what would become Meditations. What made the lessons so powerful was that they were *embodied* in Antoninus’s actions rather than written on some tablet or scroll.
+
+- There is no better way to learn than from a role model. There is no better way to judge our progress than in constant company with the person we would most like to be one day.
+
+# Don’t Talk About It. Be About It.
+
+- We’re better off embodying our philosophy rather than talking about it. As the Stoics said, it’s a waste of time to speculate or argue about what makes a good man, a good athlete, a good teammate. Our job, they said, is to be one. This is how it goes, in sports, in life, and for parents. Sure, we can talk all we want. We can have great conversations. But what matters is what we do, who we are, how we act.
+
+# Here’s How to Have Lasting Impact
+
+- *To be in your children’s memories tomorrow, you have to be in their lives today.* - BARBARA JOHNSON
+
+- That’s one person having an impact on three generations. When you think about it like that, it’s not an exaggeration to say that your grandparents quite literally changed the world. And they did it in the smallest of ways—with just a few conversations, with how they went to work every day, with the books they read in the evening and the manners they displayed at dinner. They did it in the conversations they had when their kids made mistakes. They did it in how they treated their neighbors and mowed their lawns and plowed their driveways.
+
+# Where Do They Learn to Judge?
+
+- It was a comment under your breath about your brother’s spending habits. It was a joke about a celebrity’s weight. It was a complaint about the way your neighbor parks in their driveway. It was the conversation between you and your spouse over dinner about what’s wrong with the other side, with them.
+
+- You didn’t mean anything by it. You don’t really care. But your kids heard it. And they can read only your lips, not your mind.
+
+- We want kids who are open-minded, who give people the benefit of the doubt. But are you showing yours what this looks like day to day? Sure, you’re not a bigot, but are you always kind? You would never say something cruel to someone’s face, so why are you saying it behind their back? Especially when your kids can hear you.
+
+- The world needs less judgment, less bullying, fewer opinions, period. Can you start this trend at home? Can you teach your kids what that looks like, instead of letting the same old rumor mill spin round and round, grinding
+their goodness to dust?
+
+# If You Want Your Kids to Respect You
+
+- Well, if you want your kids to respect you, be worthy of respect.
+
+- Just think about it for a second: Why would they respect advice that you don’t live by? Why would they admire you when you’re not living up to your own potential? Why would they look up to you when you yourself are dealing (poorly) with self-esteem issues, when you have accepted the lies of impostor syndrome and allowed them to affect how you act as a parent?
+
+- Get your stuff straight. Be the parent you know you can be—be the person you know you can be. The rest will follow. And if it doesn’t? Then at least you’ll be strong enough to deal with whatever comes.
+
+# Don’t Let Your Kids Down
+
+- How did Leonidas choose the three hundred warriors he would lead out to the Hot Gates to battle an overwhelming enemy? They were all “fathers of living sons,” according to  Plutarch. You might think it would have been the
+opposite, that parents would be allowed to sit out a potential suicide mission - but that’s not how it worked in Sparta. These warriors were chosen because parents would never want to let their kids down. These fathers would fight most bravely, most fiercely, not only to protect what they had back at home but to protect the reputations of their family names, which might be all their children had left if they were to fall in battle. To abandon their comrades or behave in a cowardly way would be to risk great shame and the possibility of letting down the family that so looked up to them.
+
+- Our kids are whom we should want to impress. They’re the ones we should never want to let down. They’re not only the ones we’re fighting for but also the ones whose standards - whose natural admiration and love - we should always be fighting to live up to.
+
+# You Can’t Be a Hypocrite
+
+- No child deserves that. At the very least, they deserve parents who live up to what they say. Give your kids that. Don’t be a hypocrite.
+
+# Teach Them to Be Particular
+
+- Not picky but particular. Not peculiar but particular. Be exacting. Get your facts straight. Do your job. Don’t let anyone or anything excuse you from it. Do it well.
+
+- These are wonderful reminders to give our kids... but as always, it’s much more important that *they see us living these lessons.* Show them the difference between picky and particular, between factual and fatuous,
+between compromise and *compromising your standards.*
+
+- Show them what responsibility looks like. Show them how to be careful and how to always be prepared. Because someday you won’t be here, and they will have kids of their own who will need to learn these very ***particular*** lessons from them.
+
+# Where Did You See That?
+
+- Before you get mad, before you condemn their actions, just take them aside. Ask them, kindly and openly, a question that the bodybuilder Mark
+Bell says he always asks his teenage kids: “Hey, when have you seen me do that?”
+
+- This is a great question. Because it may well be that you have been inadvertently modeling behavior you find repugnant in others. And while
+that’s no excuse for bad behavior, it’s useful to know if we’ve been tacitly condoning the wrong things to our kids. But if you haven’t, then they have even ***less*** of an excuse.
+
+# Do the Things You Want Them to Do
+
+- You have to be the kind of human being you
+want your children to be. You have to do the things you want your kids to do. “I find this with parents all the time,” he said. “They want their kids to do things that they don’t do themselves.” He wants his kids to be readers, so he makes sure they see him reading. He wants them to explore different hobbies and  interests, so he makes sure they see him practicing an instrument or tinkering in a sketchbook. He wants them to work hard and find work they care about, so he makes sure they see him working in his studio. He wants them to treat others with respect and kindness, so he makes sure they see him giving their mother something he made for her.
+
+- Who you are forms who they will be. So be who you want them to be. Do what you want them to do. It’s hard, but it’s the only way.
+
+# What Are They Learning from How You Carry Yourself?
+
+- What are your kids learning from how you carry yourself? Are you showing them, as Bruce’s dad did, how to be angry and bitter and lost? Or, as Bruce’s mom did, are you showing them how to be brave and tough and find their niche? Is your example calling them to be better or worse?
+
+# They Are Always Listening
+
+- The point is this: Kids are always watching, eyes, ears, and heart open. They absorb  everything. What will they hear? What is going to pour out of you that will soak into them? That’s the question.
+
+# You Gotta Live Up to It
+
+- As the billionaire Charles Koch once explained of the main lesson he learned from his father’s very hands-on parenting: you can’t
+lecture your kids on anything you don’t live up to.
+
+- You can’t tell your kids to respect others and then talk rudely to a customer service representative on the phone. You can’t tell them that it’s important to find and follow their passion and meanwhile work their entire
+childhood at a job that pays well but makes you miserable. You can’t tell them that family is important if your actions don’t show it.
+
+- You can’t lecture your kids. You have to live up to the lessons you want them to learn.
+
+# When You Get Them to Listen...
+
+- We have to remember that as parents we are always planting seeds. A comment here, a book we have them read there. A documentary we watch
+together, an example we set, a person we introduce them to. When we get them to listen? When they really hear us? Wonderful things can grow out of that.
+
+# How to Deter Them
+
+- If you don’t want them to do something, if you want to deter them from some negative influence or bad choice, let your actions be the guide. Let your life both spur them and deter them. In this way, you can be their inspiration in any moment.
+
+# Show Them What a Good Marriage Looks Like
+
+- The point here is not to judge the Roosevelt marriage nor to insist that you must stay in your current one. It’s to remind you: Your kids learn about everything important from you. Including relationships. So what are you teaching them with yours? What are they seeing that you might be blind to? You have to show them what a good marriage looks like. You have to embody what healthy connections and equal partnerships look like, because the example you set will be their first and the most indelible.
+
+# You Can Be a Parent Anywhere
+
+- As with teaching and leadership and  philosophy, so too with parenting. You can be a parent anywhere. You can be a parent every minute of every day to anybody and everybody. You can be that parent in the same way that
+Socrates taught—by example, by getting down to their level, by being open, and by adapting to the situation at hand.
+
+# Let ’Em See You Work
+
+- The problem? Well, where are your kids supposed to learn the importance of a work ethic? How are they supposed to know what a hardworking dad looks like if they never actually get to see it? How are they supposed to learn what work looks like at all?
+
+- That is also your job. To be the example. There is an old Latin expression: A bove maiori discit arare minor. “The younger ox learns to plow from the elder.” That’s because the oxen would be harnessed together. Not only would
+the kid get to see their mom or dad do what they did, but they’d be literally strapped into it together, to learn on the job.
+
+- Obviously good boundaries are important. Obviously you don’t want your work life to overwhelm or interfere with your home life. But make sure that striving for this balance doesn’t accidentally deprive your kids of an
+important example that will serve them  throughout their lives.
+
+# Make Your Household First
+
+- The point is: the place to apply your opinions about the way the world should work is first and foremost in the small world where you actually have some control. That is to say, at home. If you want to see a difference in the
+world, then model that change and make a difference at home. You’ve got plenty to work with, plenty to fix, plenty to improve. Start there.
+
+- Show your kids that change is possible. Show them why your opinions matter, and how they can make theirs matter. Let them witness the real
+impact that comes from practicing what one preaches. Help them benefit from a focus on the practical instead of the theoretical, the actual instead of the hypothetical.
+
+- ***Start now.***
+
+# They Do Most of It
+
+- We do our best to set a good example. They do most of the work.
+
+- As hard as our job is, they have it way harder. Don’t you remember being ten? Or fifteen? Or twenty? You don’t remember being a kid... probably because you were so busy literally developing a brain. So yes, it’s amazing to see what they’ve become and what they’ve done.
+
+- Just remember that they get the credit (and you get the blame).
+
+# You Don’t Stop Teaching Your Kids
+
+- We never stop teaching our kids. And though what we are doing right now may not be resonating with them, it can teach them something in the future.
+
+- Keep doing what needs to be done. Embody what you want your kids to be. Keep growing. Keep being the example they can follow. Keep teaching
+them, implicitly and explicitly.
+
+# Quotes
+
+
+
+# References
