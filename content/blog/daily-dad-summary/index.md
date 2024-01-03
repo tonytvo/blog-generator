@@ -238,6 +238,26 @@ awards can substitute for your love. That’s all they want.
 
 - ***It’s a love without end, amen.***
 
+# Love Is About Service
+
+- Parenting is being there, literally. It’s about being of service, literally. Driving them around. Tying their shoes. Coming over to do the dishes and laundry after they’ve come home from the hospital with their own newborn. Holding their hair back as they throw up from chemo treatments. It doesn’t matter how old they are, or you are; that’s what we’re here for. That’s what we do.
+
+- We ask them the question that Tom Hanks has described asking his own children: “ ‘What do you need me to do?’ You offer up that to them. ‘I will do anything I can possibly do in order to keep you safe.’ That’s it. Offer that up and then just love them.”
+
+- That is love. It’s what your job is. You’re here to serve.
+
+# Make Sure They Know That They Are Plenty
+
+- It’s a sobering reminder to all parents: the feeling of deficiency is far worse than any potential deprivation. So make sure your kids know that they are enough, that they are plenty, that you have loved them from the moment they were born. And make sure you remember that there is nothing they have to do to earn this love. There’s nothing they must accomplish to deserve tenderness and affection.
+
+- They are good enough. The talents, the interests, the goals they have, are enough.
+
+# It Takes Discipline
+
+- So often important and talented people use their work and their talent as an excuse to neglect their obligations as parents. But di Prima was exactly right to see them both as a matter of discipline and commitment. The idea that anything (or anyone) is improved by neglecting one part of their life for another is nonsense. But the opposite is true—by keeping your word to yourself, to your children, you are strengthening an important muscle. By being disciplined and protective of your personal life, you are being protective and dedicated to your professional life.
+
+- Don’t let anyone tell you differently. Don’t let anyone judge you for that.
+
 # Quotes
 
 
