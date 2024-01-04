@@ -258,6 +258,20 @@ awards can substitute for your love. That’s all they want.
 
 - Don’t let anyone tell you differently. Don’t let anyone judge you for that.
 
+# Wherever They Are, You Are Too
+
+- Your kids are going to make choices that scare you. People are going to doubt them. People are going to criticize them. Maybe you yourself doubt the wisdom of their choices. And?
+
+- ***Where they are, you must be too.***
+
+- Love your kids. Root for them. Support them. Fight for them and fight with them. Be beside them and behind them. Wherever they are.
+
+# They Don’t Have to Make You Proud
+
+- We want this to motivate them. We use it, oftentimes unconsciously, to hold them accountable. But is this the way it should go? Doesn’t it sort of imply that they owe us something? That our support is not unconditional or implicit? That if they don’t score a goal or make the dean’s list or land a summer internship, we are therefore not proud?
+
+- Our kids don’t owe us anything. After all, they didn’t ask to be here. It is we who are obligated to them, by virtue of our choice to bring them into this world.
+
 # Quotes
 
 
