@@ -303,6 +303,20 @@ placing the blame for those things elsewhere, on those other people?
 
 - That’s all they really want from us. And they deserve to have it. So you better give it to them. Starting today and for the rest of their lives.
 
+# You Can Always Give Them This
+
+- The good news is that there are some things you can always give them that, when others try to offer them to your kids, will never measure up to yours. These are things that are always possible to give, always within your reach: your attention, your understanding, and your love.
+
+- No matter what happens, no matter how rich or poor you are, no matter what mistakes you make or they make, no matter how powerful or powerless you are, you can always give them those things. In fact, you must always give
+them. Because, in the end, those are more important than all the other things you can and will do for them. Love and understanding, especially, are the only things that truly matter, because they last even beyond your death. Their
+impact is going to be one of the primary forces that shape the adult your child becomes.
+
+- And if you think about it, the only thing they’ll truly (and rightfully) resent you for, all else being equal, is if you know these things are true and still you fail to provide them.
+
+# The Greatest Thing You Can Do
+
+- The best thing you can do for your kids is love the person who brought them into this world. The best thing you can do for your kids is love the person you are parenting them with. Even if you are no longer with that person, or if that person has deeply hurt or even betrayed you, you must love the person responsible for a good chunk of your kids’ DNA or identity. You must love who your kids love—that’s how they’ll know that they are loved.
+
 # Quotes
 
 
