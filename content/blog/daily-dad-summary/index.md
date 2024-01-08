@@ -317,6 +317,23 @@ impact is going to be one of the primary forces that shape the adult your child 
 
 - The best thing you can do for your kids is love the person who brought them into this world. The best thing you can do for your kids is love the person you are parenting them with. Even if you are no longer with that person, or if that person has deeply hurt or even betrayed you, you must love the person responsible for a good chunk of your kids’ DNA or identity. You must love who your kids love—that’s how they’ll know that they are loved.
 
+# This Is What They Most Want
+
+- Don’t we ourselves want attention and admiration? In our jobs? In our communities? In our marriages? Why wouldn’t our kids want the same things in their young, fragile lives? And who could it possibly be more meaningful
+to come from than us?
+
+- It’s hard to be a kid. They’re overwhelmed. They doubt themselves. They wonder where they fit in, whether they matter. It’s our job to help them with this. To let them know that they are loved, that they are special, that they are enough. To give them the attention and admiration they deserve.
+
+# Keep the Main Thing the Main Thing
+
+- ***Most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquility. Ask yourself at every moment, “Is this necessary?”*** - MARCUS AURELIUS
+
+- There’s a wonderful little expression: ***The main thing is to keep the main thing the main thing.***
+
+- Every family, every person, has a different main thing, of course. But if we could generalize, the main thing for us parents is to **raise well-adjusted, self-reliant, decent, happy kids.** ***The main thing is not college. The main thing is not making partner at our law firm. The main thing is not to have a clean house. The main thing is not to win some competition with other parents. The main thing is not grades, it is not following in your footsteps, it is not being captain of the football team or an expert cello player***. 
+
+- ***The main thing is for them to be healthy, to be prepared for life, to have good values, to have a good sense of who they are and what they want to spend their life doing. The main, main, main, main thing is to love them and for them to feel loved.***
+
 # Quotes
 
 
