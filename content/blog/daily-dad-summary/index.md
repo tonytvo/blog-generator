@@ -334,6 +334,18 @@ to come from than us?
 
 - ***The main thing is for them to be healthy, to be prepared for life, to have good values, to have a good sense of who they are and what they want to spend their life doing. The main, main, main, main thing is to love them and for them to feel loved.***
 
+# Let Them Wonder If You Know
+
+- Of course parent knew! A parent always does! But she didn’t say a word. She just did what she needed to do, caring not only about her son’s well-being but also for his feelings and his pride.
+
+- When our kids need help, our only job is to provide it. To *help*, not *lecture*. To be of service, never to humiliate. This is how you create the kind of relationship Floyd and his mother had—the kind where your kids know
+they can always come home for help at any time, day or night.
+
+# How to Convince Them
+
+- Our kids are going to do stuff we disagree with, but very rarely - especially as they get older—will we be able to convince them of this by force or fiat. We have to be understanding. We have to be patient... maybe
+even a little bit sneaky. We have to give them advice and the tools to make sense of that advice, because ultimately they are the ones who have to figure out the right decision for themselves. And we have to make sure they know that no matter what they decide, we love them.
+
 # Quotes
 
 
