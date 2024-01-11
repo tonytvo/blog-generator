@@ -370,6 +370,19 @@ patience? Where is the charity? Where is the demonstrable unconditionalness that
 
 - You can make your kid the richest kid in the whole school without spending a dollar.
 
+# Always Be Their Friend
+
+- This wonderful public moment about a private struggle, shared in honor of a personal mentor, speaks to the heart of what every child needs to hear from their parents, no matter what they’re going through: There are going to be
+things in your life that are very hard. But you’re not alone. I’ll always be your friend.
+
+# Tell Them They Carry This Everywhere
+
+- When Erin landed in London, a letter from her father was waiting in her email inbox. It’s the kind of letter a great parent writes, the kind that in David’s case—due to his tragic and unexpected death at age fifty-eight - would guide his daughter long after he was not around. The letter opens:
+
+- ```Honey, we are so, so excited for you. Please  understand that you carry with you not only our love and support, but our admiration and pride in your decision to bring your ambitions roaring into the world.```
+
+- Make sure your kids know that no matter what, they are loved, they are supported, they are accepted, they are enough. Make sure they know that no matter where they go, they carry your love and support and pride with them
+
 # Quotes
 
 
