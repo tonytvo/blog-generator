@@ -383,6 +383,20 @@ things in your life that are very hard. But you’re not alone. I’ll always be
 
 - Make sure your kids know that no matter what, they are loved, they are supported, they are accepted, they are enough. Make sure they know that no matter where they go, they carry your love and support and pride with them
 
+# Teach Them Early Where Their Value Lies
+
+- We must, as parents, teach our children where their value really lies. It’s not in their accomplishments. It’s not in what they earn or how they look. It’s not to be found in anything external at all. Their value - to us, to the world - is inherent. It exists because they exist. Because there is no one on the planet with their same combination of DNA and experiences and circumstances. That’s what makes them special - what makes them rarer than the rarest jewels and more precious than the most precious metals.
+
+# All They Want
+
+- in 2008, President Barack Obama came close to articulating one in a Father’s Day speech about what our kids really need and want from us.
+
+- ```Our kids are pretty smart. They understand that life won’t always be perfect, that sometimes the road gets rough, that even great parents don’t get everything right. But more than anything, they just want us to be a part of their lives... In the end, that’s what being a parent is all about—those precious moments with our children that fill us with pride and excitement for their future; the chances we have to set an example or offer a piece of advice; the opportunities to just be there and show them that we love them.```
+
+- That’s your job, above all others. To be a part of their life - a positive part. They need you to be there. To give advice. To be a good example. To understand them and to love them.
+
+- Everything else is extra.
+
 # Quotes
 
 
