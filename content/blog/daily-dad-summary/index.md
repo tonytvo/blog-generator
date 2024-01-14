@@ -397,6 +397,45 @@ things in your life that are very hard. But you’re not alone. I’ll always be
 
 - Everything else is extra.
 
+# Hit Them with One of These
+
+- They think you’re going to remind them about some piece of schoolwork. Or criticize what they’re wearing. Or tell them to stop roughhousing.
+
+- No, you’re going to hit them with those words we can’t say often enough: *I love you.*
+
+- That it catches our kids by surprise when we tell them we love them? That we only want to put our feelings about them out there in the open, just so they know, and they’re confused by it? That’s our fault, not theirs. It says
+something about us, not them. And it’s something we, not they, have to fix.
+
+# This Is What You’ll Wish
+
+- Let us hope that we never have to experience such a loss. No parent should ever have to bury a child. But still, let’s try to think about the end of our own time here on Earth. What will we think then? When we are reflecting
+on our lives, what will we wish for? We’ll wish we had loved them more. Even if we told them a thousand times in a thousand ways every single day, we’ll think about how woefully short we came up in expressing just how much our kids mean to us.
+
+- So let us try, right now, while we still can, to love them more.
+
+# Give Them This... While You Can
+
+- Now love was not a word that Stafford used much. It might not be one that you’re comfortable using much either. But you should... while you can... while you’re still here. And don’t just say it. Give it.
+
+- Your kids, your family, your loved ones... they deserve that. All your love...
+
+# Love Is Not a Victory March
+
+- if you go around expecting parenting to be an unending series of Hallmark moments, you’re fooling yourself and setting yourself up for disappointment. If you’re comparing how you’re doing with what you see on television, you’re being unfair to yourself.
+
+- This thing is hard. Really hard. There are dark moments. There are moments when you’re convinced you have no idea what you’re doing and you think you’re the absolute worst. There are moments when you’ll be told you are in fact the worst. But you have to keep going. You can’t give up. You
+can’t despair.
+
+- They’re counting on you.
+
+# Take the Second Chances When You Get Them
+
+- the one thing about parenting is that it gives you second chances. It gives you a lot of leap days. Kids forget. They need you for something else. There are lots of tough conversations. Dinner happens every night.
+
+- While you cannot undo what has been done, you can choose to take these second chances as they come. You can will yourself to play, even though you’re exhausted. You can stop yourself before getting upset this time, reminding yourself that you love the boy and that he’s still figuring things out. You can put the phone in a drawer and actually be there for the family meal.
+
+- We don’t get to do this forever. Tomorrow is never guaranteed. Today is a gift, a fluke (especially on a leap year). That’s why each interaction we have with our kids matters, why we can’t take it for granted. Still, we’re not going to get it right every time. So when we’re lucky enough to get another go? We better take advantage of it. We better try harder. We better show up.
+
 # Quotes
 
 
