@@ -586,8 +586,107 @@ than the one that says, “There is nothing more important to me than you.” As
 
 - But of course, you will regret letting too many of these opportunities pass you by. In fact, you know that you already do... because you already have.
 
+# This Is the Real Dad Tax
+
+- Putting your family first isn’t just a matter of your schedule. The author Simon Sinek famously wrote that “leaders eat last.” So should dads, because the inherent, unquestionable  responsibility that you assumed the minute you
+brought a child into the world was that they come first. They get the bulk of what’s available. They don’t get the biggest pork chop; they get as many pork chops as they need. They get to experience the fun and the sweetness of life. If there are any leftovers, even if it’s just the scraps, then maybe you get a taste.
+
+# Don’t Do This to Them
+
+- All of us do this in some form or another. “It’ll just be a minute,” we tell them as we run an errand. “Let me finish this quick phone call,” we say, shushing them over and over again while they beg to play with us outside. “Dinner will be ready soon,” we say, knowing it will be much longer than that. “I’ll be home before it gets dark, I promise,” we say, as if traffic could
+not delay us. Or, like Merkel’s father, our trips and travels get extended and we miss things... or keep them up waiting.
+
+- While none of us fully control our time or our schedule, we do control how we communicate with our children—we control how we give our word and how we keep it. And it’s essential that we take that seriously. Our kids shouldn’t just be expected to deal with it. They should be communicated to and informed with respect. They deserve an explanation for the things that keep us away from them, that keep them away from the things that it is our adult responsibility to provide. It’s a matter of duty, to be sure, but more important, it’s a matter of trust.
+
+# They’re Going to Ask You Only So Many Times
+
+- Not because you only get a certain number of summers and car rides and moments with your kids - though that is true. They’re going to ask you only
+so many times because at some point they’re going to get the message.
+
+- Dad is too busy; he isn’t any fun anymore. Mom judges; she isn’t actually a good person to ask.
+
+- *That message.*
+
+- So you can’t defer the opportunity to answer till later. You can’t afford to lose your temper because this is the nth time they’ve asked. You can’t give anything less than your best, your most present, your most fun self. Because this ask—in this moment - is it. 
+
+- It’s your chance. You can’t waste it. You can’t send them the wrong message. You have to seize it. You have to show them who you are.
+
+# If You Want Your Children to Turn Out Well
+
+- It’s not true that money will guarantee your kids a good life. It’s not true that it will prevent them from feeling pain or loss. It’s not true that money is even high on their list of needs.
+
+- What kids actually want is you. What kids actually need is you. As Dear Abby quite brilliantly put it in a column back in the 1950s, “If you want your children to turn out well, spend twice as much time with them, and half as much money.”
+
+- You can’t pay someone to be there for your kids. You can’t pay someone to do the job only you can do. Sure, money can make things easier; it can buy
+childcare and tutors. But it will never be as important as what you can provide by being hands on, by being a good example, by showing them you
+care for them and value them.
+
+- The proof of this? Just think about how many great people turned out just fine without much money at all.
+
+# They Are Your Work
+
+- Our job is to raise great kids. Or, more precisely, our job is to raise great adults. The time we spend with our kids—whether it’s homeschooling or watching a TV show on the couch—is not a distraction from our work. It is
+the work. Really important work.
+
+- Who could really view their life as successful if they were famous but their kids were  struggling? Who would be truly happy accepting a Nobel Prize knowing that they had failed as a parent? What good would a billion dollars be if all the money in the world can’t convince your kids to come home for the holidays?
+
+- That’s why kids can never “take away” from our careers or “hold us back.” It’s not possible for them to interrupt our work... because they are
+our work.
+
+# You Are the Exalted Creator
+
+- That feeling, the one you felt the first day you held your children. The feeling when they run into your arms and call you Daddy, or when they come
+into your room to ask for advice, or when you sit across the table from them and watch them eat. That feeling—the pride, the love, the connection - this is the feeling to carry with you.
+
+- You made that. You are the exalted creator of that. Parent in a way that proves it.
+
+# Give What You Didn’t Get
+
+- Lee (NFL wide receiver) told ESPN:
+
+  - ```People who know my background and where I came from, and things like that, I didn’t really have my pops in my life. I never really had a real father figure besides coaches as I got older. This is my opportunity to be there for my daughter. I was hoping she could be there watching this season, but clearly she wasn’t going to be able to do that. I felt like it was important to just spend this year with her, and get back to it next year. Football is going to be there at the end of the day.```
+
+- Lee was putting his family first. He was doing something his father didn’t do for him. He was drawing a line. He was deciding not to waste the most precious thing we have with our children: time. Each of us must decide the same.
+
+# Why Didn’t You Make Time for Me?
+
+- We will not be perfect as parents. We will make mistakes. But we must do our best to avoid inspiring that painful question: Why didn’t you make time for me? Because there is no good answer for it. And the rationalizing answer they come up with has the potential to mess with their minds and redouble the damage of our absence.
+
+- Your kids don’t care that you’re president. They don’t care that this is the busy sales season. They don’t care that your own parents were sick. They don’t care that you were fighting over custody. They just care that you weren’t there.
+
+- Time is not given. It is made. We have to make time. That’s our job. It’s our biggest priority.
+
+# Here’s What You Mean to Them
+
+- In an interview with Marc Maron, Sean explained that on an almost daily basis, someone will come up to him and say something to the effect of “You
+have no idea what your dad meant to me” or “You can’t understand how important your dad’s music is to me.”
+
+- It’s a strange claim, Sean explained, because of course he understands. John Lennon and his music are even more important in Sean’s life. Because
+John Lennon was Sean’s father. Because he has been holding on to that relationship every minute since his father was taken from him. Because John’s music is the only way he gets to talk to his son anymore.
+
+- Each parent should take to heart what that means: even the greatest musician of all time is more important as a parent to his children than he is as an artist to the world. It doesn’t matter how great our work is, how wealthy it makes us, or what it ends up meaning to billions of people—nothing will eclipse the impact we have on our kids.
+
+# It’s Okay to Be Ambitious
+
+- For most of history, it’s been women who have felt the tension of these conflicting desires the most and have been forced to choose one over the
+other. Fathers, on the other hand, have been encouraged—expected even - to look outside the home for fulfillment and recognition, because for men professional success was good parenting.
+
+- As society has evolved, however, every parent has had to manage the tension of serving two masters, even prime ministers and billionaires.
+
+- In her autobiography, Margaret Thatcher, the first woman to be UK prime minister, quotes Irene Ward, a pioneering British politician: “While the home
+must always be the centre of one’s life, it should not be the boundary of one’s ambition.”
+
+- You’re allowed to think bigger. It’s okay to have a career and want to be great at it. It’s okay to strive to change the world. Because in these things, as long as you share them and open them up to a wider view, you are teaching your kids about you and about the world. You are teaching them about hardwork, about doing what’s right, about fulfilling one’s potential, about being of use to others.
+
+# It’s a Family Affair
+
+- Your kids are with you on this journey, whatever it is. It can be so easy to see your career as something that is you-centric. It’s not. It’s a family affair. The same is true of the ambitions of every member of your household. And
+the more you can be involved with each other on these personal journeys, the better. It makes the accomplishments sweeter, the work more complete...
+and the sacrifices less painful. Because all of them have been done together.
+
 # Quotes
 
-
+When you love, you wish to do things for. You wish to sacrifice for. You wish to
+serve. - ERNEST HEMINGWAY
 
 # References
