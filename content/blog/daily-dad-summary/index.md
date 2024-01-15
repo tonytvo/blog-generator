@@ -684,6 +684,38 @@ must always be the centre of one’s life, it should not be the boundary of one�
 the more you can be involved with each other on these personal journeys, the better. It makes the accomplishments sweeter, the work more complete...
 and the sacrifices less painful. Because all of them have been done together.
 
+# Here’s How to Spend More Time with Them
+
+- It’s not that hard, Ocean tells him; *you just have to be comfortable making less money.*
+
+- If we’re being honest, how much of the time we spend away from our kids for work is actually related to putting food on the table? How much of it is truly rooted in need? In the basics of a healthy, sustainable life? Probably not nearly as much as we tell ourselves (or them).
+
+- We work for other reasons - often good reasons - but not because we have to. We could have more flexibility if we wanted. We could choose a different job. We could choose to put family over career advancement, over six- or seven-figure salaries, over keeping up with the Joneses.
+
+- Let us stop acting as if the freedom - and opportunity - we crave isn’t within our grasp. We can spend more time with our kids. We can be there
+more than we are. We just have to be comfortable making less money.
+
+# An Important Rule
+
+- Russ Roberts, the economist, has another rule, as a father, that we should all observe
+as parents:
+  - If your child offers you a hand to hold, take it.
+
+- Life and relationships are an endless dance of reaching out and pulling away. You reach out to your kids, they pull away—they’re busy, they’re in
+front of their friends, they’re mad at you. You try to help them and they don’t want it. You want what’s best for them but they don’t understand.
+
+- We can’t control that. What we can control is that whenever they do reach out—whenever they offer us a hand to hold—we take that opportunity and grab it. When they want to lie in our bed with us, we can let them. When they call on the phone, we can answer—even if we’re in a meeting. When they ask to talk about something, we can listen, whatever it’s about. We can hold them tight every chance we have.
+
+- We can’t demand that those things happen, but we can make a rule that when they do, we take it for as long as it’s being given.
+
+# This Must Be the Top Priority
+
+- Is our career inherently at odds with being
+a good parent? That’s for each of us to decide. Still, at some point our kids must come first. We must do what’s best for them. We must sacrifice for them. We must give them the life they deserve—a life with us in it.
+
+- Your career is important. But family is forever. It must be the top priority.
+
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
