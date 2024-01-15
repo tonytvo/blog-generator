@@ -436,6 +436,154 @@ can’t despair.
 
 - We don’t get to do this forever. Tomorrow is never guaranteed. Today is a gift, a fluke (especially on a leap year). That’s why each interaction we have with our kids matters, why we can’t take it for granted. Still, we’re not going to get it right every time. So when we’re lucky enough to get another go? We better take advantage of it. We better try harder. We better show up.
 
+# You Can Pick Only Two
+
+- Work, family, scene. Pick two.
+
+- You can party it up and hang on to a relationship, but you won’t have much time left for work.
+
+- You can grind away at your craft, be the toast of the scene, but what will that leave for your family?
+
+- If you’re as committed to the work as you are to a happy home, you will have no room for anything else.
+
+- It’d be wonderful if you could have the run of all these things all the time... but you can’t. Being a parent is about making trade-offs, from the
+very second our kids enter this world: it’s their needs versus our wants. At first, it can be a shock to the system. But once we know what to say no to, and we know why, we can say yes with comfort and confidence to the things that matter. To the things that last.
+
+# Everything but This Is Temporary
+
+- Charles de Gaulle helped save France. Then he ran it. Yet even at the height of his power, he tried to always remind himself, “The presidency is temporary, family is permanent.” Accordingly, he put up boundaries between his personal and professional lives. He carved out private time. He refused to neglect the children who depended on him so much, particularly his mentally disabled daughter, Anne.
+
+- We can’t ever let ourselves forget: we may be very important to the world, but to a small group of people to whom we are related, we are the whole
+world. Nothing matters more than family, and  nothing is more permanent... until it isn’t. You can lose family. You can break your family. You can drive your family away. And then it is their loss that becomes permanent.
+
+- By all means, pursue your success. Realize your ambition. Just make sure it’s not coming at the expense of what actually matters.
+
+# You Have to Make Adjustments
+
+- The point is: whatever your children’s ages, you have to be ready to make adjustments. Whatever your job is, it can and must be adjusted around what we all know is our most important job. If the queen can put off Winston Churchill for an hour, you can reschedule that conference call.
+
+- Family comes first. Before business... even the business of state.
+
+# When Is Their Time?
+
+- Of course you’re busy. You have work. You have your spouse. You have your kids. You have all the obligations of adulthood. All these things are
+important. How do you fit it all in?
+
+- The truth is, if you’re winging it every day, you won’t get it all in. Something will fall by the wayside, and too often, it’s the time with our kids that is the first to go. Because we can turn on the TV. Because we can strap
+them in the car seat and bring them along on errands. Because we can tell them, “Sorry, kiddo. I’m busy right now.”
+
+- This is why it can be a good idea to have very specific, scheduled time. So you can be sure that they have their time. Nonnegotiable time. Just as you do with work or anything else that matters to you.
+
+- What does it say about us as parents if all we give them is the leftover time? Nothing good. They are the priority. Remember that the next time you
+put another new obligation on your calendar.
+
+# This Is What Putting Them First Looks Like
+
+- Would anyone back then have noticed two more
+seasons with the Vikings? Would anyone now have bothered to remember them? Maybe. Maybe not. You know who definitely noticed? You know who
+definitely remembers? Eli. And he benefited unquestionably and immeasurably from his father’s choice. He has a happy family and two Super
+Bowl victories to show for it.
+
+- What could it look like if you put your family first? If you really put them ahead of everything else? You can’t be sure exactly until you do it, but you can be certain that it will feel great.
+
+# How Are You Filling Their Bank?
+
+- *Each day of our lives we make deposits into the memory banks of our children.* - CHARLES R. SWINDOLL
+
+- Think of your own childhood. What do you remember? Is it those big moments? You know, the planned ones. The ones on the calendar. Is it
+exclusively Christmas mornings? The annual spring break vacations? The Fourth of July barbecue?
+
+- Or are your memories much more mundane? 
+
+- What we remember about growing up are the little moments. We remember sitting in the passenger seat next to Dad on a long drive. We remember going for pizza after tennis practice. We remember waking up
+from a nap and coming downstairs and watching a football game. We remember that little piece of advice. We remember thinking they were going
+to be mad at us for something and getting a hug instead.
+
+- Similarly, the wounds that we feel often come from other small moments. The feeling of being ignored. Getting yelled at for leaving our shoes in the living room. The time that Mom didn’t stand up for us. The unspoken tension in the living room between our parents.
+
+- Today you’ll be making plenty of these small deposits in their memory banks. How do you want that ledger to read?
+
+# Being Important Is Not an Excuse
+
+- There is no job, no career, no amount of responsibility that justifies being absent from the lives of your children. Being important, having a calling, achieving success, is great. But being important doesn’t change what your most important job is: being a parent. Being there for them. Becoming world class at being Mom or Dad.
+
+- Because when your days in the spotlight are over, when your fame and import have receded, you will still be a parent and your kids will still need you for the things kids have always needed their parents for.
+
+# This Is the Only Success That Matters Now
+
+- As Theodore Roosevelt explained:
+
+  - ```There are many kinds of success in life worth having. It is exceedingly interesting and attractive to be a successful businessman, or railway man, or farmer, or a successful lawyer or doctor; or a writer, or a President, or a  ranchman, or the colonel of a fighting regiment, or to kill grizzly bears and lions. But for unflagging interest and enjoyment, a household of children, if things go reasonably well, certainly makes all other forms of success and achievement lose their importance by comparison.```
+
+- We still want to be good at our jobs, of course. We want to win championships or land big clients. We want recognition and we want the thrill of the chase. But we know now—because we’ve felt it—how small these things seem compared to a quiet evening at home. A Sunday in thepark. Breakfast full of laughter. Watching them on a stage or running from the sidewalk into your arms.
+
+- ***This is the only success that matters now.***
+
+# Welcome To Unavoidable Reality
+
+- The biggest change that comes from having a kid isn’t financial—it’s not the sleep deprivation, it’s not even needing to take care of another person or the stress it puts on your  relationships. It’s that it rudely introduces you to the unavoidable reality that you are no longer the center of your own world - something you had been, despite what you thought, utterly ignorant of.
+
+- As an adult, you did what you wanted. Things operated on normal timelines. You made decisions and commitments and that was it. The world was logical and in your control. But now and for the rest of your life, reality is different. What time are you going to get to the party? When your daughter wakes up from her nap, that’s when. They’re sick with the flu? You’re sick with the flu. They feel like having a tough morning or are reeling from teenage hormones? Looks like you are too! Unavoidable reality means that you’re not in control. It means you’re going to sit and play in the sandbox for the next ninety minutes because God knows you’re not going to risk a tantrum. Unavoidable reality is weekends of soccer games and evenings of school plays and carpooling and school pickups. It means you can’t just skip dinner or grab something on the go—life doesn’t work that way anymore.
+
+- That’s who you are now. That is the unavoidable reality. And guess what?
+It’s wonderful. Get used to it.
+
+# It’s About Being There... a Lot
+
+- how do you get through to your kids? How do you show them what’s right? How can you make sure they know how much you care about them?
+
+- The answer is simple: you can be there. A lot. There is a joke that the word love is actually spelled T-I-M-E. It’s true. Your kids won’t have to
+wonder, they won’t need to ask—you, or your  partner, or other people - how you feel about them if you are constantly there to show them. *If you have prioritized your time with them over everything else.* Being there also alleviates the pressure to “find the words” in those trying moments, because you’ve been having an ongoing, regular conversation with your kids the
+whole time. *The words are there.*
+
+- But being a great parent is not just about those pivotal moments. It’s not just providing for them or getting them into a great school so they can get
+ahead in life. It is mainly, and mostly, the day-to-day T-I-M-E. It’s the modeling, each day, of what being a good person looks like. It’s the showing, each time you see them, that you care, that they’re important, that they are
+loved.
+
+- It’s about being there. A lot.
+
+# They Must Come First
+
+- Your kids must come first. Not just in the very first months or years but always. You must say to them, “Yes, you, dear,” and never ever the opposite.
+
+# Don’t Let Them Steal from Your Family
+
+- Kobe replied the requests to be on the news:
+“Can’t right now. My girls are keeping me busy. Hit me up in a couple of weeks.”
+
+- Do you have the discipline to send a message like that? How strong are you at putting your family first? How good are your defenses against the endless requests, opportunities, impositions, and obligations that come with your work in particular and with life in general? It’s so easy to let people steal your time, to let them take you away from the thing that is keeping you busy: your kids, your family.
+
+- Kobe Bryant, tragically, will not get any more time with his kids, and they will not get any more time with him. Which is what makes that text he sent such a powerful reminder - a final feat of performance left there to inspire those of us continuing in the shadow of his death.
+
+- Put your family first. Put your kids first. Say that you’re too busy. Politely decline. You have other priorities.
+
+# Do You Know Them?
+
+- No one would accept or condone that kind of absentee parenting anymore (doesn't even know the kids exists) - or even just the more
+benign aristocratic hands-off style the British were known for. But still, it begs the question: How well do you know your kids... really?
+
+# Their Needs Are So Modest
+
+- We think we’re so important. We think our
+work is so important. In fact, that’s what we tell ourselves - that we work those long hours to make the money to provide them a certain kind of life. In fact, our kids’ needs are so humble. Mostly what they want is us. And beyond that? They’re pretty content with snacks. The occasional video game. A sprinkler to play in. Some magnet you picked up at the airport on the way home from a business trip. A parent who doesn’t yell at them all the time. They’re pretty easily impressed. Their needs are small.
+
+# It’s Not Possible without Struggle
+
+- at an event for female judges in the 1980s, during Sandra Day O’Connor’s term as the first female Supreme Court justice, a law professor asked, “How do you take care of your family and have a career?” O’Connor answered: “Always put your family first.”
+
+- Indeed, later in life, O’Connor would talk about how “desperately hard” it was to balance work and family. She would try to talk to her law clerks, male and female, about this struggle. She didn’t dance around how hard would it be. She shared what she had learned. And most important, in being up front, she provided them, and now us, the relief of knowing: it’s not possible without struggle.
+
+# You’ll Never Regret Playing with Your Kids
+
+- even if you’ve just put on your work clothes. Even if you’re already late. Even if the pool is freezing. Even if they’ve been getting in trouble
+lately or been difficult to deal with. Even if you’ve got the weight of the world on your shoulders. You will never regret choosing to stop whatever it is you were doing, or were about to do, to play with your kids. You will never regret jumping in the water with them, picking up the video game controller with them, spending a few minutes with them, letting Saturday actually be a
+Saturday with family.
+
+- You will always be glad you took the time. Because none of us know how much of it we’re going to get. There is no message more important to send
+than the one that says, “There is nothing more important to me than you.” As busy as you are, as much as you’re dealing with, there has never been a mind that was not improved or refreshed by temporarily entering the world of a child.
+
+- But of course, you will regret letting too many of these opportunities pass you by. In fact, you know that you already do... because you already have.
+
 # Quotes
 
 
