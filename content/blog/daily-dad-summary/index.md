@@ -29,6 +29,8 @@ cynically, they too will begin to cheat and lie.
 
 - Your kids will need them too. So show them. Show by example, not just with words. Show them, when you’ve been screwed over and it really hurts, that still your personal code of conduct matters more. Because it does. Because it will.
 
+- ![why-dad-not-like-sushi](./why-dad-not-like-sushi.jpg)
+
 
 # Hang Their Pictures on Your Wall
 
