@@ -715,6 +715,22 @@ a good parent? That’s for each of us to decide. Still, at some point our kids 
 
 - Your career is important. But family is forever. It must be the top priority.
 
+# Always Grab the Right Handle
+
+- How will you react? Will you get angry, pull away, argue, hold a grudge? Or take a deep breath, have some empathy, apologize, let go a little bit, and not be such a control freak?
+
+- Every day, with every situation, there is a choice. Which handle will we grab? Which handle will we show our kids how to grab? The easy one? Or the right one?
+
+# Your Job Is to Make Fast Transitions
+
+- the leadership coach Randall Stutman, who has worked with nearly
+every major hedge fund and CEO on Wall Street, talks about what it
+means to be a leader at home:
+  - ```Your job as a leader is to make really fast transitions. You play many different roles in many different places—your job is not to carry the last conversation... If that means you need to settle yourself and sit out in your car for a couple of minutes before you walk in the house so you can now be Dad, then that’s what you need to do. But your job is not to walk into that house and carry with you anything that came from before.```
+
+- You can’t let a bad day or a bad person prevent you from being a good
+parent. You can’t bring your garbage from the office into your home. You
+must keep a clean house—free of the detritus of adult responsibility that your kids couldn’t possibly understand. You must leave that stuff outside, and you must do it quickly, in the space between leaving work and walking into your home.
 
 # Quotes
 
