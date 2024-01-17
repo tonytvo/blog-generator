@@ -732,6 +732,22 @@ means to be a leader at home:
 parent. You can’t bring your garbage from the office into your home. You
 must keep a clean house—free of the detritus of adult responsibility that your kids couldn’t possibly understand. You must leave that stuff outside, and you must do it quickly, in the space between leaving work and walking into your home.
 
+# Again, Which Will It Be?
+
+- “We are being watched by our ancestors, as I am watching you,” he told her. “We possess more than they ever dreamed of having, so we must never let them down.”
+
+- We are watched by our ancestors, yes, but we are also, as Bruce Springsteen put it, haunted by their ghosts. Which will you be for your child? Are you the kind of example they need? Have you left the kind of legacy that will protect them? That will guide them? That will inspire them to be decent and disciplined, great and good, as Arthur did for his young daughter? Or will you haunt them with your mistakes, with the pain you inflicted on them, with the things left unsaid or unresolved?
+
+# You’re Too Old to Act Out
+
+- when our kids mess up, we say: Aren’t you a little old to act this way? Grow up!
+
+- Unfortunately, we apply this standard to ourselves far less often. Whether it’s as serious as an affair or as silly as getting hangry because we neglected to eat, we seem to forget that we should be policing ourselves first. Our kids are at least still kids, even when they’re acting a bit beneath their age. You’re
+an adult. What excuse do you have?
+
+- Remind yourself today and every day that you are getting older, that it’s time to grow out of these silly habits you’ve lazily allowed yourself to fall into. Remind yourself that you’re too old to act out, to stoop this low, to not be responsible for yourself. And remember, your kids are always watching,
+so act like the adult that they believe you are.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
