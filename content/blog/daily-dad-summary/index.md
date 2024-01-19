@@ -780,6 +780,22 @@ so act like the adult that they believe you are.
 
 - Few things in life are better off with your judgment hovering over them... your family most of all.
 
+# Leave It at the Door
+
+- you need to make that fast transition from frustrated professional to fully present parent so that your home remains a safe place that you are the protector of. Not a protector in the sense of a warrior but closer to the role of a bouncer: No, sorry, you’re not on the guest list. You have to be Teflon. Your boss’s temper can’t be allowed to stick to you. The contagion of panic or divisiveness shouldn’t be tracked into the living room on the bottom of your shoes. You must keep a clean house. You must turn these things away.
+
+- When you arrive home, you must be ready to be present. Ready to have fun. Ready to be the parent they need . . . not the one that’s left over after the ravages of the day.
+
+# Embrace This Mindset
+
+- You clean, then the house is dirty. You do the dishes, then five minutes later the sink is full again. Literally before you’ve even finished helping your kids put their toys away, the toys are splayed out across the floor. Those new clothes you just bought them? Now they’re filthy and frayed.
+
+- This can drive you nuts if you let it. It can piss you off. Or you can learn to love it. You can learn to see it all like the mandala—an unending, ephemeral process that we begin again and again and again. You can learn to see it not as work we’re doing but as art. Finish? To be finished would mean the end of this—the end of their childhood, the end of our lives together.
+
+- No, we like that it’s a little bit like Groundhog Day. We love that it means a chance to wake up and do this with them again.
+
+- To do it beautifully. To do it well. To do it together.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
