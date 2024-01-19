@@ -748,6 +748,22 @@ an adult. What excuse do you have?
 - Remind yourself today and every day that you are getting older, that it’s time to grow out of these silly habits you’ve lazily allowed yourself to fall into. Remind yourself that you’re too old to act out, to stoop this low, to not be responsible for yourself. And remember, your kids are always watching,
 so act like the adult that they believe you are.
 
+# Don’t Forget How Small They Are
+
+- They take up so much space in our lives. They have such big presences. They are so loud. So we can  easily forget that they are tiny, tiny people. They barely have control of themselves. They are dwarfed by us physically, by our experiences, by our confidence in the way things will go.
+
+- We have to be careful. Whether they are teenagers or toddlers, we can’t forget how small they are. When they fall asleep in the car and you carry them to bed, take a second to notice their size. As you pack up their stuff to take them to college, take a look at just how little stuff they have—because their life is still so new.
+
+- The smaller you realize your kids are, the kinder you will be. The more protective and patient you will be. The more you will appreciate how hard they are trying to figure things out—themselves, their relationships, the world.
+
+- They are so tiny. Don’t forget it.
+
+# Are You Using This Power?
+
+- When your son trips and falls, do you need to rush over? Or can you pause and let him figure out how hurt he is first, whether he wants or needs to cry? When your daughter comes over and tries to tell you something, do you have to complete her sentences? Or can you pause and let her struggle to find the words and work through what she is trying to say? When your teenager announces that they are quitting the basketball team, do you have to start arguing right away? Or can you pause and listen to their reasons and what they want to do instead? When your kid is home from college and scratches the car while borrowing it for the weekend, what if you don’t get upset? Can you pause and consider that it was almost certainly not intentional?
+
+- As parents, we have to choose our responses wisely, not reflexively. We have to suspend judgment, listen, and think things over. We have to practice pausing so that our kids never have to stop and think about whether they will come to us with their problems, their questions, their hopes, and their dreams.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
