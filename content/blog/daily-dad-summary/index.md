@@ -764,6 +764,22 @@ so act like the adult that they believe you are.
 
 - As parents, we have to choose our responses wisely, not reflexively. We have to suspend judgment, listen, and think things over. We have to practice pausing so that our kids never have to stop and think about whether they will come to us with their problems, their questions, their hopes, and their dreams.
 
+# You Have to Move On
+
+- here’s the thing: you have to move on. As justified as your anger is - as ongoing as these behaviors may still be with your parents - you have to get beyond this. Because now you have children of your own. And they deserve a parent who is all there. Not one who is clinging to the past. Not one who is putting his or her baggage on their shoulders.
+
+- It will not be easy moving on. No one said it will be. You’ll have to process it. You’ll have to go to therapy. Or read books. Or find a support group. You’ll have to sit alone with your thoughts. You’ll have to forgive - or cut people out of your life. As they say: your problems might not be your fault, but they are your responsibility. 
+
+- It’s your responsibility to move on. Your kids need you to. You need to.
+
+# To Have a More Peaceful Home, Have Fewer of These
+
+- at the core of most of the conflict between parents and children, and so often spouses, is one thing: judgment. We have opinions and they have opinions, and these opinions are the source of disagreement. If we, as parents, would like to have a better relationship with our children, there is one simple thing we can do: we can have fewer opinions.
+
+- Do you really need to have an opinion on what kind of food is served at your daughter’s wedding (even if you are paying for it)? Do you need to have an opinion on the way they do their hair? Their friends are their friends, what does it matter what you think of them or their parents? So what if they like music that sounds weird to you? So what if they want to raise their own kids a different way?
+
+- Few things in life are better off with your judgment hovering over them... your family most of all.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
