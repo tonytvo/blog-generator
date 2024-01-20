@@ -796,6 +796,23 @@ so act like the adult that they believe you are.
 
 - To do it beautifully. To do it well. To do it together.
 
+# Don’t Be Mad at Good People
+
+- Precisely because they’re closest to you, you have more opportunities to get upset with them than with anyone else. It’s a sad, twisted state of affairs. The people who are all bad but far away are rarely targets for our rage. But the people who are mostly good—who on the whole have helped and loved us many times more than they’ve hurt us—they’re the ones who get the brunt of it?
+
+- “Let’s not be angry at good people,” Seneca writes in “On Anger.” Today, when you find yourself getting upset at someone you love, remind yourself that their positive traits far outweigh whatever is bothering you in the
+moment. Remind yourself that yelling doesn’t make them hear you better. Remind yourself that they probably know they messed up and probably feel bad enough already. Remind yourself how small they are. Remind yourself how good they are.
+
+- The fact that we can get mad at someone, because they love us enough to put up with it or because they’re kids and they just have to live with it (and us), is not an excuse. We should try not to get upset with anyone, but if we are going to get mad, let’s make sure the object of our frustration is a target of offense, not of opportunity
+
+# What Kind of Energy Are You Bringing?
+
+- Just as Cesar Millan talks about projecting the right energy to your dog, so too can your kids pick up on the energy emanating from you. Bad day at work? They can feel it. Hate where you live? They can feel it. Pissed off at your spouse? They can tell, even if you argue only when they’re asleep.
+
+- Why are your kids running around like crazy, acting like monsters today? Well, maybe you ought to check what kind of energy you’re generating. Why is your son hitting his little brother? Maybe because you’re a ball of tension and frustration, and it’s contagious. Why is your daughter being such a terror? Maybe that resentment your wife is holding onto has something to do with it. Maybe your daughter just couldn’t stand how things were at breakfast this morning—how awkward and weird it was.
+
+- When you see behavior and attitude problems, adjust your energy. Look in the mirror first. If you want a happy home, a home with kindness and love and peace, then bring that energy with you. Project it consciously  and deliberately—show that things are good with you, and they will be better with everyone else.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
