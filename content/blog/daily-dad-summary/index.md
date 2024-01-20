@@ -813,6 +813,27 @@ moment. Remind yourself that yelling doesn’t make them hear you better. Remind
 
 - When you see behavior and attitude problems, adjust your energy. Look in the mirror first. If you want a happy home, a home with kindness and love and peace, then bring that energy with you. Project it consciously  and deliberately—show that things are good with you, and they will be better with everyone else.
 
+# This Is Their Language
+
+- the primary language of children is behavior. Not words. If you want to know what they’re thinking or how they’re feeling, watch what they do, not what they say.
+
+- When we say that “actions speak louder than words,” this is what we mean. The younger your kids are, the more likely they are to speak entirely with actions instead of words. This is for one simple, undeniable reason: they
+don’t have the words yet. But even if they did, kids don’t understand their feelings—the physical ones or the emotional ones—enough to know how to put words to them. Quite often they don’t even know they’re having feelings.
+
+- Watch an eighteen-month-old with an earache—there are no words, there is only discomfort and pawing at the side of their head or waking up in the middle of the night screaming. Watch an eight-year-old with anxiety—there
+are no words, there are only stomachaches and panic and wet beds. A teenager who has been hurt by someone may in turn hurt others.
+
+- This is why we need to “listen” to our kids in more ways than just the obvious, literal way. We have to watch them. We have to be patient. We have to understand that a screaming tantrum about the iPad is almost certainly
+about something else. We have to understand that lethargy and sliding grades are statements; they are symptoms. It’s your child speaking to you through behavior.
+
+- Will you hear them? Will you be able to talk to them about it, not just with your words but with your own actions?
+
+# It’s the Hardest Thing
+
+- parenthood demands more of us than just about anything else in life. It challenges us emotionally, physically, mentally. It tugs on every one of our heartstrings. You can toughen yourself up for war, you can coolly bet millions of dollars at work, but there’s nothing you can do about the gaping soft spot your kids have access to. Nothing can get you quite like they do . . . because nothing matters to you quite like they do.
+
+- This is the hardest thing you’ll ever do. Know it. Accept it. Be grateful for it.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
