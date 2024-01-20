@@ -834,6 +834,27 @@ about something else. We have to understand that lethargy and sliding grades are
 
 - This is the hardest thing you’ll ever do. Know it. Accept it. Be grateful for it.
 
+# This Solves Most Problems
+
+- Why is your kid screaming? Why are they terrorizing their sibling? Why can’t they focus during homeschooling? Why can’t they fall asleep? Why is your teenager so moody?
+
+- The answer is simple. They are hungry. They’re hangry. And they don’t know it.
+
+- Moms have long carried snacks in their purses for a reason. Because it will solve most problems. Soothe most frayed nerves. Calm down most difficult situations.
+
+- Somebody always forgets to eat. So feed them. Ask them if they’re hungry. Remind them that they’re hungry. Keep a tight meal schedule. Watch what happens.
+
+- Oh, also, when you’re grouchy and frustrated and anxious and short with your spouse and your kids—you might be hangry yourself. In 2014, researchers from Ohio State University found that most fights between couples are because someone is hungry. So, like taking a walk or taking five deep breaths, grabbing something to eat will probably solve most of your adult problems too.
+
+# Do You Know What You Look Like Angry?
+
+- How do you think you look when you tell your child way too loudly, “Sit down. I told you already, sit down!” when they bounce around with too much energy? How do you think you look as you grab their arm in frustration and
+jerk them closer to you in line? Do you think you sound good when threatening to take away some basic privilege of theirs—like a tyrant - because they’re not behaving exactly as you like? Or when you shout at them to hurry up at the airport? You think you don’t look like a monster when, after the argument escalates beyond your ability to manage with words, you slap them across the face?
+
+- You look terrible. You look as awful and shameful as the people looked when you saw them do the same thing in public, to their kids, as you tried to avert your gaze. No one looks good angry. Worse still, that image can etch
+itself into our kids’ brains for a long time.
+
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
