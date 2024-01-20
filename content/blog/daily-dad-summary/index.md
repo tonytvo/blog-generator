@@ -1074,6 +1074,18 @@ possible without having nourished the ability that Lehzen helped Victoria cultiv
 
 - Results don’t matter—not the obvious ones, anyway. What counts is the person your kids are shaping themselves into and the things you do along the way to help them.
 
+# Ask Them This Question Every Day
+
+- Instead of asking your kids if they behaved well or performed well or even if they had fun, be sure to check in with them about whether they did something kind. Ask them, every day: What good turn did you do today? What was something you did for someone else? Who did you help?
+
+- Think of the message this sends. Think of how it makes them think about their own day—to review their own actions through the lens of empathy, how their actions affect others. Think of the priorities it sets through your monitoring—that their parents are on top of not how many answers they got right but how many right things they did. Think about how much better the world would be if everyone thought this way, if everyone was raised this way.
+
+# Compete on This
+
+- If you’re going to compete with anyone, we should tell our kids, compete with yourself, to be the best version of yourself. Compete over things you actually control. And make no mistake, we should take that advice ourselves.
+
+- Compete with yourself to be more present, to be kinder, to have more fun with your kids . . . to beat what you got from your own parents. Focus on the stuff that’s up to you, that can be an example for your kids as they grow into the people you want them to become.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
