@@ -1086,6 +1086,27 @@ possible without having nourished the ability that Lehzen helped Victoria cultiv
 
 - Compete with yourself to be more present, to be kinder, to have more fun with your kids . . . to beat what you got from your own parents. Focus on the stuff that’s up to you, that can be an example for your kids as they grow into the people you want them to become.
 
+# Teach Them Empathy
+
+- one of the wonderful benefits of reading fiction, studies show, is that it helps cultivate empathy. By reading and experiencing the interior lives of the characters on the page, we are reminded that not everyone thinks and acts like we do. We are reminded that not everyone has been as lucky as we’ve been.
+
+- It also happens that fiction can teach us this empathy by way of specific advice and admonition. Perhaps you remember this opening line from The Great Gatsby:
+  - “Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
+
+# What We Do Ripples Through
+
+- When we do something nice for someone, it ripples through their lives and into the world, radiating goodness outward.
+
+- By treating them well, by showing them compassion and empathy and unconditional love, we help not only them but everyone they encounter. We can take heart knowing that this kindness, big and small, will ripple through their lives long after they’ve moved out, they’ve grown up, and we’re long gone.
+
+# Teach Them to Give It Their All
+
+- There is an expression in sports about “playing through the whistle.” In boxing and martial arts, you punch through the opponent until you hear the bell. In baseball, you swing through the ball. In running, they talk about running through the finish line. It’s about completing the action. Giving 100 percent. Playing the right way.
+
+- This is an important lesson to teach our kids. We don’t stop at the finish line. We give our all to something. We concentrate on a single task until it’s done or until the clock runs out. We fill that unforgiving minute.
+
+- It’s the proper way to play... and to live.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
