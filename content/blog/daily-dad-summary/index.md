@@ -1107,6 +1107,10 @@ possible without having nourished the ability that Lehzen helped Victoria cultiv
 
 - It’s the proper way to play... and to live.
 
+# Teach Them to Do the Right Thing
+
+- Decency is about what you do. It’s not a standard you hold others to. Decency is what you do with money you find. It’s how you raise your kids. It’s not something you wield; it’s not something you gossip about. It’s something you embody and embrace.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
