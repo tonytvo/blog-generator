@@ -854,6 +854,26 @@ jerk them closer to you in line? Do you think you sound good when threatening to
 - You look terrible. You look as awful and shameful as the people looked when you saw them do the same thing in public, to their kids, as you tried to avert your gaze. No one looks good angry. Worse still, that image can etch
 itself into our kids’ brains for a long time.
 
+# This Is the Enemy
+
+- Preoccupation is the enemy of good parenting. And the worst part? Kids can sense it. They are simultaneously sponges and mirrors, and unflattering ones at that. When they act out, make a mess, bite their brother, dye their hair pink—that’s what is happening. They sense your energy and are responding to it.
+
+- The sad truth is that most of what we’re preoccupied with doesn’t even matter. We give the jerk at the office free space in our head. We choose to go on Twitter and doomscroll. We don’t need to check our email as much as we
+do. Worrying about money never solves our money problems.
+
+- We have to push all that stuff away. So we can be present. So we can be patient. So we can be parents.
+
+# Don’t Waste These Opportunities
+
+- But the question, or rather the opportunity, is: Did it bring you closer together?
+
+- It doesn’t have to, of course. You can get angry. You can be annoyed. You can be overwhelmed and distracted. Or... or you can relish the moment - even if they’re crying, even if you’re disappointed, even if you’re crying.
+You can feel love and gratefulness and happiness instead.
+
+- Because this is a chance to talk. This is a chance to see them from a different angle. This is a chance to ask questions. This is a chance to spend time together. A crisis, as politicians like to say, is a terrible thing to waste. It’s a chance to do things you couldn’t do before. Things that wouldn’t be
+possible in ordinary circumstances.
+
+- It’s always a chance to get closer. To love more. To understand better.
 
 # Quotes
 
