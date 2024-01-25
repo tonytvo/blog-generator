@@ -1111,6 +1111,23 @@ possible without having nourished the ability that Lehzen helped Victoria cultiv
 
 - Decency is about what you do. It’s not a standard you hold others to. Decency is what you do with money you find. It’s how you raise your kids. It’s not something you wield; it’s not something you gossip about. It’s something you embody and embrace.
 
+# Teach Them to Be Bigger
+
+- “What good did that do, Jimmy?” his mother asked him. “We all love you, Jimmy, and God loves you,” she explained, “and we all believe in you and how good and intelligent you are. We have a good life and you are going to have a good life. With all that love, what harm does that stupid insult do? It’s nothing, Jimmy, it’s empty. Just ignorant words from an ignorant child who is gone from your life the moment it was said.”
+
+- This was a life-changing exchange. It put Jim Lawson onto his world- changing path of nonviolence. (He would organize the first sit-ins in Nashville in the 1960s.) It helped him realize that he was above the horrible things that other people said and did, that what mattered was what he said and did. What mattered was responding with kindness and love. What mattered was knowing that he was good and that he was loved and nothing
+anyone else thought could change that. 
+
+- Lawson’s parents gave him the gift of teaching him that he was bigger than the small people who lived around him. That he could be the bigger person and do bigger things. Now, here today, can you do the same for your children
+
+# Don’t Just Assume It Will Work Out
+
+- in Meditations, Marcus Aurelius takes a moment to remind himself of the “malice, cunning and hypocrisy that power produces,” and the “peculiar ruthlessness often shown by people from ‘good families.’ ”
+
+- The point of this is: just because you’re successful, just because you can pay to send your kids to the right schools, just because you showed up more than your own parents, doesn’t mean you’re out of the woods. This is a hard job we’ve committed to. The stakes are high. The margin for error is low. Kids don’t just “turn out” as good people. They are made that way—molded, guided by ancestors, taught by example, and buoyed by a constancy of parental presence.
+
+- You must provide all of this. You cannot slack. You cannot assume it will handle itself. They need you.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
