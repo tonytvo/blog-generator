@@ -1128,6 +1128,23 @@ anyone else thought could change that.
 
 - You must provide all of this. You cannot slack. You cannot assume it will handle itself. They need you.
 
+# “And What Did You Do?”
+
+- One day, young William came home and reported to his parents that two young black kids were being taunted at school. His parents had one question for him: “And what did you do, Billy?”
+
+- They used the incident as an opportunity to emphasize a core life teaching: We are responsible for each other. We cannot sit on the sidelines while bad things happen in front of us.
+
+- And one can only imagine how they felt when they heard his reply... “I went and stood by them.”
+
+# Teach Them These Three Duties
+
+- You can teach your kids that whatever they’re facing, they can respond with:
+  - hard work
+  - honesty
+  - helping others as best they can
+
+- It’s not always going to lead to success, of course, but it will always lead to something they can be proud of. It will always serve them well. Whether it’s a sudden reversal or a sudden bounty, whether they’re at fault or an innocent bystander, what life demands—what we as their parents expect of them—is work, honesty, and compassion.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
