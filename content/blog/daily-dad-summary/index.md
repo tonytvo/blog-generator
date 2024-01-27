@@ -1145,6 +1145,20 @@ anyone else thought could change that.
 
 - It’s not always going to lead to success, of course, but it will always lead to something they can be proud of. It will always serve them well. Whether it’s a sudden reversal or a sudden bounty, whether they’re at fault or an innocent bystander, what life demands—what we as their parents expect of them—is work, honesty, and compassion.
 
+# It’s Better to Be Kind Than Clever
+
+- Cleverness comes easily when you want attention. It takes work to be a nice person and patience to reap its rewards. It requires extra effort to stop and think about how what you say and do affects other people. But a truly successful person—a truly great kid—is the result of parents who take the time to equip them with this skill. Parents who reward them for their kindness and compassion, not just their intelligence or their grades or their clever tongue. Because these self-obsessed traits, if not balanced with empathy and with kindness, can become a wicked and lonely combination.
+
+# Remember This About Most People
+
+- there are a lot of selfish people out there. Cruel people. Stupid people. Even evil people. Sometimes they’re all one person. Your kids are going to meet some of these people. Are they ready? Perhaps a better question is, are you ready? To protect them from the worst of that sort, of course, but also to make sure that your cynicism about the world—about people—does not affect your children too early.
+
+- There’s a great children’s book called Most People that reminds us: Most people are good. Most people are trying as hard as they can. Most people will help you if they can. Most people want the same things, the book says. Most people are happy... and even the people who aren’t, its author reminds us, would rather be happy if they could.
+
+- We want our kids to carry the fire, to keep the brightness alive. We want them to seek it out in other people. And we want them to be like most people: Good. Kind. Happy. Helpful.
+
+- It’s we who will chart that path.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
