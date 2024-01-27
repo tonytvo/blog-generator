@@ -896,6 +896,63 @@ father, is profoundly unfair.
 - For two thousand years, we’ve known deep down that it’s wrong. You are here to protect and to serve and to love them. To violate that obligation because you can’t control yourself in the moment, because you’re mad? This
 is to violate a sacred oath. And once done, it can never be undone. You cannot do it. Ever.
 
+# Is It Good When They’re Bad?
+
+- Think of it this way: When kids are always respectful, complacent and obedient with adults, it is often because they are afraid of those adults. It’s not a coincidence that people who boast about how well behaved their children are may also be those who throw around phrases like, “Spare the rod, spoil the child.”
+
+- This is not to say that chaos is a good thing, that no rules should be enforced. It’s a reminder that before you write yourself off as a terrible parent because your kid challenged you or because they had a meltdown, consider what it means that they feel comfortable doing that in front of you.
+
+- It might actually be that they do listen to you—especially when you tell them that you’re there for them, that you love them unconditionally, that you want them to think for themselves. It’s possible they actually respect you quite deeply. But even more than that, it could be that they trust you more than anyone in the world.
+
+# Don’t Thrust Them Away
+
+- Yes, of course, you have to explain to them what’s appropriate and what isn’t. You have to protect your own physical well-being. But the point is, they have no idea yet how their actions affect other people. Even  teenagers don’t fully comprehend the concept of consequences, of cause and effect. (Why do you think they drive like crazy, eat like crap, and talk all kinds of trash?) What they do comprehend is you getting upset, you pulling away.
+
+- Kids can feel your energy changing, even if they can’t put words to what it is they are sensing or how it makes them feel. And what’s most difficult about all this is that it very well might be this painful, confusing feeling—as provoked and instinctual as it is—that sticks with them forever. So work on getting control of yourself. Work on toughening yourself up a bit.
+
+- You can gently unwrap their arms from your throat. You can get a new shirt. You can turn the game around and chase them instead. You can make what was annoying become fun. You can talk to them calmly, correct them, and then gently turn the pain into a moment of profound connection. That’s entirely up to you.
+
+# What If Someone Else Treated Your Kids This Way?
+
+- Your job isn’t just to protect your kids from other people. It’s to protect them from your own bad habits, your own temper, your own flaws too. It’s to demand of yourself what you’d expect from anyone to whom you’d entrust your children’s safety. That is to say: you have to demand the best of yourself.
+
+- No excuses. No double standards. Watch yourself as you’d watch a nanny cam. Trust but verify, just as you would a new school or day care. Ask yourself: Would I let anyone else get away with what I’m doing right now?
+
+# Delay, Delay, Delay
+
+- Delay is the best way to let your mind clear, to make sure that anger doesn’t drive you to do something you regret. Anger is an exaggerator. It magnifies the worst in every situation. Anger is an exacerbator too. It takes a bad situation and makes it worse with the overreaction it produces in us.
+
+- Delay will help you make sure that doesn’t happen, that anger doesn’t win. The next time you’re angry, take five deep breaths and see if you can get yourself that wound up again. It’s next to impossible.
+
+- Now, no one is saying you can’t respond at all. You probably will have to address whatever has made your blood boil. You will have to say something. Your kids do need to learn that lying is not acceptable, talking back to their mother will not be tolerated, leaving the stove on could burn the house down. But wait a minute. Take a walk. Put a reminder down to bring it up tomorrow. Deal with it when you get home from work. Let cooler heads
+prevail.
+
+- Make it a teachable moment. Teach them that it’s possible to control how you react.
+
+# The Moments of Leniency Matter
+
+- Do you understand the power of leniency and tolerance? Can you let things go? Can you control your temper and frustrations? Do you know when it’s time to push and when it’s time to pull them in close to you?
+
+- "To err is human; to forgive, divine."
+
+# You’re the Voice in Their Heads
+
+- Everything we say, every interaction we have with our kids, is shaping them. How we speak to them informs how they will speak to themselves. If you want proof of this, think about all the complexes and scripts you picked
+up from your parents—maybe things you’re working on in therapy right now, decades later.
+
+- So while you can, before it’s too late... catch yourself. Think about how you can be an ancestor instead of a ghost. Make this interaction a kind one, a patient one, a friendly one. Speak to them the way you’d want them to speak to themselves. Because it’s not a matter of if they will internalize the things they heard growing up; it’s a matter of what they will internalize. Put a good voice in their head so they might remember the good stuff.
+
+# Do You Really Care?
+
+- "A key point to bear in mind. . . . You’re better off not giving the small things more time than they deserve."
+
+- If you had to choose between your kids having fond memories and you having clean walls, you’d choose your kids having fun. If you had to choose between slightly lower grades and better self-worth, you’d choose their self-
+worth. If you had to choose between just about anything and your kids’ safety, happiness, and self-image, you’d never choose that other stuff.
+
+- Yet here you are, arguing about it again. Choosing to die on some stupid hill. Choosing to protect a piece of Sheetrock that—admit it—you don’t actually care about. What you really care about—what these rules actually represent—is obedience and control. What you’re really worried about, hence the fixation, is the deep-seated anxiety that you might be screwing them up.
+
+- Relax! Let this stuff go. Seriously, just let it go. You won’t regret it
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
