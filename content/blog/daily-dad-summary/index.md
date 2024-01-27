@@ -36,7 +36,7 @@ cynically, they too will begin to cheat and lie.
 
 - we can hang up pictures of our children and strive to make them proud, and this should inspire and fortify us when we have to make tough decisions for their future, for their safety, for their freedom
 - it is our kids who compel us to do the right thing... because they are always watching
-
+- ![why dad quit shoe recycling shop](./quit-shoe-recying-shop-sole-destroying.jpg)
 
 # They Learn from Home
 
@@ -44,6 +44,8 @@ cynically, they too will begin to cheat and lie.
 are going to be. They are watching you as you go through the world. ***Right now***. They’re watching you break traffic laws, break promises. They hear you when you lie. They feel it when your actions don’t match your words.
 
 - Kids learn from home. They learn in the car. They learn from Mom and Dad. You set the standard, so be the standard.
+
+- ![ocean wave to beach](./ocean-waved-to-beach.jpg)
 
 # Protect This Great Invention
 
@@ -874,6 +876,25 @@ You can feel love and gratefulness and happiness instead.
 possible in ordinary circumstances.
 
 - It’s always a chance to get closer. To love more. To understand better.
+
+# It’s Not Fair
+
+- There is no blueprint. To assume there is or, worse, to imagine there is and then hold your kids to those expectations is wildly unfair. Can we have expectations for our kids? Yes. Can we try to make sure they don’t fall into the same traps or develop the same vices as us? It would be criminal if we didn’t.
+
+- But we have to remember that they are like us... for better and for worse. They’ve lived their whole lives in the same house as us. They’ve learned from our examples—even the bad ones... especially the bad ones in many
+cases. They’re not going to be perfect. They’re going to have our weaknesses... perhaps some of their own too. And to punish them with our unrealistic expectations, even unintentionally, quite literally for the sins of the
+father, is profoundly unfair.
+
+- Our job is to love them and to be patient with them, not to demand the impossible from them.
+
+# Don’t Ever, Ever Do This
+
+- To raise your hand, open or closed, to your spouse or your children is unacceptable.
+
+- It doesn’t matter how angry you are. It doesn’t matter who started it. It doesn’t matter how many times you told your son. It doesn’t matter that your parents used to do it. It doesn’t matter that some cultures still accept it. 
+
+- For two thousand years, we’ve known deep down that it’s wrong. You are here to protect and to serve and to love them. To violate that obligation because you can’t control yourself in the moment, because you’re mad? This
+is to violate a sacred oath. And once done, it can never be undone. You cannot do it. Ever.
 
 # Quotes
 
