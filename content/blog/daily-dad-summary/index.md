@@ -944,7 +944,7 @@ up from your parents—maybe things you’re working on in therapy right now, de
 
 # Do You Really Care?
 
-- "A key point to bear in mind. . . . You’re better off not giving the small things more time than they deserve."
+- "A key point to bear in mind... You’re better off not giving the small things more time than they deserve."
 
 - If you had to choose between your kids having fond memories and you having clean walls, you’d choose your kids having fun. If you had to choose between slightly lower grades and better self-worth, you’d choose their self-
 worth. If you had to choose between just about anything and your kids’ safety, happiness, and self-image, you’d never choose that other stuff.
@@ -952,6 +952,108 @@ worth. If you had to choose between just about anything and your kids’ safety,
 - Yet here you are, arguing about it again. Choosing to die on some stupid hill. Choosing to protect a piece of Sheetrock that—admit it—you don’t actually care about. What you really care about—what these rules actually represent—is obedience and control. What you’re really worried about, hence the fixation, is the deep-seated anxiety that you might be screwing them up.
 
 - Relax! Let this stuff go. Seriously, just let it go. You won’t regret it
+
+# How Long Can You Go?
+
+- Nobody looks back on their lives or their kids’ lives and thinks: *I’m so glad we got in all those arguments. I’m glad I was so hard on them. I’m glad they finally learned all the rules.*
+
+- See if you can make the majority of your interactions uncritical. That doesn’t mean you have to be disingenuously positive about them, only that you try to stop bothering them about so much piddly crap. None of that stuff matters now—as much as you might try to convince them, and yourself, otherwise—and it definitely won’t matter years from now when you’re all reflecting on your lives together.
+
+- So dial back the criticism. Remember: you don’t need to have an opinion about everything. If you can keep some of that stuff in your back pocket, you’ll both be happier for it.
+
+# Who Gets Your Patience?
+
+- You don’t yell at a colleague just because they left a door open. You don’t punish one of your players for wanting more of your attention and counsel. And yet children all over the world, throughout all time, can speak to relationships where that was the exact kind of treatment they received from parents who were at the end of their ropes and had run out of patience.
+
+- Be kind to your family. Make sure they get the same patience and understanding as everyone else. Actually, scratch that. Make sure they get more. Because long after you’ve left this job or stopped coaching that team,
+they will still be your kids.
+
+# This Predicts Everything
+
+- who a person is determines what will happen and what they can do. It’s true in sports. It’s true in politics. It’s true in business. No matter how talented a person is, how great the incentives, how great the system around
+them—in the end, character is everything. It can’t be hidden. It can’t be compensated for.
+
+- Your job as a parent, as you seek to create a better world for your kids and raise them to be good in that world, is to value character. To teach it to them. To model it for them. To reward it when you see it in them. Yes, you want them to be smart. Yes, you want them to be ambitious. Yes, you want them to be creative and hardworking. But these traits are worthless if not yoked behind good character.
+
+- We’re seeing the costs of ignoring that fact in every facet of life right now. We need to fix it. And the fix starts at home.
+
+# Your Character Builds Theirs
+
+- The gambling, the waitresses, the infidelity—it wasn’t out of character for Tiger. *It was his character*, or rather, it was character traits *taught* by his father. Built from the blueprint drawn from his father’s example. The apple didn’t fall far from the tree, because the tree made the apple.
+
+# Nourish This Wonderful Trait
+
+- As Lehzen said with trademark modesty:
+  - I have, to be sure, not created, but nourished in the Princess, one quality which is to test, consider, and to stand firmly by that which the Princess finds right and good.
+
+- You have a lot of responsibilities as a parent, but none of them trump this one. Yes, you want your kids to be smart. You want them to be helpful and healthy. You want them to do well in school. But none of that will be
+possible without having nourished the ability that Lehzen helped Victoria cultivate.
+
+- So do it. Every day.
+
+# Teach Them These Four Virtues
+
+- These are the virtues that every parent is obligated to teach their children:
+
+  - Courage: To stand up. To charge ahead. To not be afraid or timid in life.
+  - Moderation: To know balance. To be in control of oneself. To avoid excess or extremes.
+  - Justice: To do the right thing. To care for others. To do your duty.
+  - Wisdom: To learn. To study. To keep an open mind.
+
+- Those are the four essential tenets for living.
+
+- As a parent, you must worship these virtues... and raise kids who do the same. You have to model these virtues and teach them—by example and by instruction—how they can too. Their life—and the future—hinges on it.
+
+# Everything You Do Is Teaching Them
+
+- As Dr. Papanek explained his philosophy:
+  - Punishment teaches the child only how to punish. Scolding teaches him how to scold. By showing him that we understand, we teach him to understand. By helping him, we teach him to help. He learns cooperation by cooperating.
+
+- In everything we do with, to, and around our kids, we are teaching them. Even when we mean well, even when they are screwing up, just as Dr. Papanek explained, we are teaching... often the very opposite of what we’d like to show them.
+
+# Teach Them to Sweep the Sheds
+
+- In his book Legacy, James Kerr portrays the team tidying up the locker room after a game:
+  - Sweeping the sheds.
+  - Doing it properly.
+  - So no one else has to.
+  - Because no one looks after the All Blacks.
+  - The All Blacks look after themselves.
+
+- If you want your kids to clean up after themselves, you have to teach them why it matters. If you want them to look after themselves, you have to teach them to find pride and satisfaction in that. If you want them to sweep the sheds, you have to teach them that it isn’t just a chore. It’s a statement of priority. A statement of character and commitment and self-sufficiency—an illustration of who you are.
+
+- *How we do anything is how we do everything* is the lesson parents have to pass along to their kids. **Leaving a mess isn’t just a mess—it shows that you’re a mess.**
+
+# Don’t Give Them an Ego
+
+- As Seneca wrote, it requires speaking honestly—with kindness—and holding them accountable for their actions. Even if that pains us. He explains:
+  - Flattery must be kept well out of the way of children. Let a child hear the truth, and sometimes fear it: let him always reverence it. Let him rise in the presence of his elders. Let him obtain nothing by flying into a passion: let him be given when he is quiet what was refused him when he cried for it. Let him behold, but not make use of his father’s wealth: let him be reproved for what he does wrong.
+
+- Seneca knew this balance was not easy—it isn’t for any parent. But if our goal is to raise well-adjusted, self-aware kids, we’ll have to work for it. Even if our instinct is to rush over and tell them they’re the greatest, most specialest little kiddos there ever were.
+
+# Punishment Should Make Them Better
+
+- Think about it: A basketball coach who is disappointed in someone’s effort makes them do sprints or push-ups. It’s not fun and it makes the kid stronger. A football player who didn’t make their GPA has to go to extra study sessions. An athlete who gets in trouble off the court might have to do community service or write an apology letter. These are more than simple deterrents. They’re punishments that make the transgressors better both as players and as people.
+
+- When you get upset, when you catch your kid doing something they’re not supposed to do, make sure that you don’t punish them from a place of heightened emotion—whether that’s anger or fear or shame. Take a minute. Come up with a punishment that makes them better. Something that they wouldn’t choose to do but that is good for them. Vocab drills. Memorizing state capitals. Volunteering somewhere. Picking up trash. Painting the house. They won’t like it, but one day they may actually thank you for it.
+
+# Too Busy to Be Bad
+
+- readers very, very seldom get into trouble. They’re too busy. They already live in a world of high stakes—that of history, of great novels, of epic stories—why do they need to go around creating drama and problems in the real world?
+
+- Of course, kids get in trouble for a lot of reasons, but “not having anything better to do” is one you can solve for right now. Introduce them to the world of books. Challenge them, incentivize them to read. Let them fall in love with those worlds and live there as much as they want.
+
+- It’ll cause a lot less trouble for the both of you.
+
+# Remember What Success Looks Like
+
+- Our job is to:
+  - live an honorable life
+  - treat our spouse well (and respect our marriage)
+  - teach our children to be honest and reliable
+  - refrain from spoiling them
+
+- If you can be successful or famous or respected at your chosen craft above all that? Fantastic. Just remember: no amount of worldly gains will matter— especially at the end of your life—if you have failed at being a parent to those with whom you would most love to share those gains.
 
 # Quotes
 
