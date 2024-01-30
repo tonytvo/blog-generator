@@ -1159,6 +1159,23 @@ anyone else thought could change that.
 
 - It’s we who will chart that path.
 
+# Are You Teaching Them Values?
+
+- Plenty of children go to expensive private schools or make it to the Ivy League. Yet they end up being corrupt politicians or soulless business people who devastate industries. Plenty of children learn how to succeed but are deprived of the skills and the decency necessary to manage this success ethically and responsibly.
+
+- The purpose of education is not to make your kids more selfish, more greedy, more convinced of their own ideas or superiority. No, it’s to make them better citizens, better human beings, and hopefully, someday, better parents themselves.
+
+# Epithets for Your Kid
+
+- one of the most interesting passages in Marcus Aurelius’s Meditations is this one: "Epithets for yourself: Upright. Modest. Straightforward. Sane. Cooperative. Try not to exchange for others."
+
+- As in, what kind of kid are you trying to raise? What are the watchwords that you are attempting to move them toward with the choices you make as parents?
+  - Some obvious ones: Kind. Loyal. Moral. Honest.
+  - And maybe some more specific ones to help them succeed in the world: Creative. Bilingual. Hardworking. Lifelong learner.
+
+- The important thing is not so much which epithets you choose but that you have chosen at all. For, if you don’t know what you’re aiming for, how can you expect to hit
+a target? How do you know you’re not accidentally teaching them to exchange one epithet for another? The truth is you can’t. So get writing.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
