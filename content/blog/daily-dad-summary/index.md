@@ -1176,6 +1176,20 @@ anyone else thought could change that.
 - The important thing is not so much which epithets you choose but that you have chosen at all. For, if you don’t know what you’re aiming for, how can you expect to hit
 a target? How do you know you’re not accidentally teaching them to exchange one epithet for another? The truth is you can’t. So get writing.
 
+# The Main Thing We Have to Teach Them
+
+- how to pass the important lessons of life on to our kids.
+- This passage captures perfectly what those lessons are:
+  - You are people on earth. You are not alone here, and that means you owe the other people on earth certain things. What you owe them, more or less, is to live by rules they wouldn’t reject as unfair (assuming they’re decent, reasonable people).
+
+- The way to raise decent and kind human beings is to teach them how their actions affect other people, what their obligations to other people are. You don’t have to be a philosopher to pull that off... just a good and decent person yourself.
+
+# It’s Usually Not an Accident
+
+- We can’t choose the family tree from which we spring. But as parents we can choose who in our family tree we look to for guidance. We can, like Florence Nightingale, pick which family members to be inspired by, whose example to follow. As parents, we can choose which branches of the family to tell our kids about, which stories we want to highlight and which lessons we want to fill their heads with.
+
+- Raising great, selfless, courageous kids is not an accident. They aren’t suigeneris or ex nihilo. They come from a tradition. They come from us.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
