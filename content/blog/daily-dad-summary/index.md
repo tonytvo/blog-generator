@@ -1055,6 +1055,25 @@ possible without having nourished the ability that Lehzen helped Victoria cultiv
 
 - If you can be successful or famous or respected at your chosen craft above all that? Fantastic. Just remember: no amount of worldly gains will matter— especially at the end of your life—if you have failed at being a parent to those with whom you would most love to share those gains.
 
+# Are You the Good Guys?
+
+- It’s the boy’s sweetness, his insistence on doing the right and kind thing, despite the darkness of the world, that keeps the father from spiraling into despair or cruelty.
+
+- Are you the good guys? Or have you curdled along with your political party? Have you been corrupted by your industry? Have you grown callous and indifferent with all the responsibilities and stresses of life? Are you too busy worrying about your mortgage and your golf game to care about other people? Are you too far down the road to change? To question and reflect? To see things from a new perspective?
+
+- The good news is that you have a boy like that in your own life. Your kids are a wonderful source of innocence and purity. They see things with fresh eyes. They are not yet jaded. They are also a kind of warrant. Why should you change? Why should you be one of the good guys? For them.
+
+- Give them hope. Give them a model. Be one of the good guys.
+
+# What Matters More Than Results
+
+- “Did you do your best? How do you feel about it, Tracee?” 
+- Tracee—who, amid some fits and starts, went on to become a very accomplished actress—would explain that her mother’s emphasis taught her an essential perspective shift: “how to navigate a life through how it feels to you, as opposed to how it looks to everyone else.”
+
+- What matters more than your kids’ grades in school is the priorities they pick up and the values they absorb. So that’s the question: Are you teaching them that test scores matter or that learning counts? Are you teaching them that success is winning arbitrary competitions or that it is becoming the best version of themselves?
+
+- Results don’t matter—not the obvious ones, anyway. What counts is the person your kids are shaping themselves into and the things you do along the way to help them.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
