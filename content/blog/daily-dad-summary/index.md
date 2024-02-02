@@ -1330,6 +1330,18 @@ everything, but you **don’t have to do everything yourself either.**
 - When it comes to the important things with lifelong implications, you have to make them promise (such as not smoking cigarette until they are 21 years old), as Carter’s father did. But you also have to learn from his failure and lead by example. The costs of not doing it could be
 everything
 
+# Find Your People
+
+- We need to help our kids find “their people,” but nothing would benefit us more than doing the same. The ancient proverb is: “If you dwell with a lame man, you will learn how to limp.” We become like the people we spend the most time with. The random people you went to school with or met through work or your kid’s friend’s parents? Don’t settle!
+
+- Find ***your*** people. Lean on their support. Let them make you a better parent.
+
+# All That Matters Is This
+
+- Presence, **being there**, is the key to parenting. And what are drugs and addiction and unaddressed issues in our lives but means of not being there. Which is why we have to sober up and deal with our demons, because even if they don’t feel like they are actively manifesting themselves at home, theyare. They are taking us away from our kids. They are putting us in a position to not be there for them when they need us (and they will need us).
+
+- That kind of self-inflicted disconnection is unacceptable.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
