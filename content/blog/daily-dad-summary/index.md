@@ -1299,6 +1299,21 @@ before singing at the top of his lungs while he shaves. These moments are the be
 
 - No one is perfect, least of all you. We are all complicated. We are all works in progress (emphasis, though, on progress). You don’t need to hide it. You don’t need to feel guilty. It won’t prevent you from being great at this most important job... nor from being a hero if the moment calls for it.
 
+# Try Not to Give Them Anything Extra
+
+- The Buddhists speak of samsara, the way that suffering transfers from generation to generation. Why is that? Why is it that suffering rarely ever fully discharges from a generation, leaving the next one free to flourish unhindered? It’s because we don’t do the work. It’s because sometimes we are not even aware of our own suffering. And when we are, and we still don’t do the work, it’s often because we tell ourselves we’re helpless.
+
+- Look, we are going to screw up. It’s inevitable. We are imperfect people. It’s impossible that we’ll raise perfect kids. Still, that doesn’t mean we’re helpless against the demons knocking at our door. We can work on ourselves. We can go to therapy so maybe they won’t have to. We can try to be healthy so they’ll grow up thinking that’s normal. We can try to move on from our own anger and frustration and pain so that, at the very least, they do not inherit our burdens.
+
+# Keep Your Head Up and Take Another Swing
+
+- Shane Parrish, creator of the wildly popular Farnam Street blog, explained:
+  - I remember calling my late mom one night, exhausted and feeling overwhelmed. I had lost my cool on the kids. She gave me a piece of advice that stuck with me, “If you don’t learn to let go of your mistakes today, they’ll compound tomorrow. Get some sleep and start again tomorrow.” I still remember that when I have bad parenting days. Tomorrow I’ve got to get up and start all over."
+
+- You can’t go back and undo what you did yesterday. You can’t erase from their memories that time you lost your cool or that time you said those regrettable  things. But what you can do is make this just one memory among many greater, more positive ones. What you can do is show them that this one moment isn’t who you are. You can strive to get better. 
+
+- Keep your head up. Step up. Try again tomorrow.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
