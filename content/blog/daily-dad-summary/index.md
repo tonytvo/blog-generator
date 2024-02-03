@@ -1275,6 +1275,30 @@ moments can be. Third, to understand how quickly it can all be taken away.
 
 - And guess what—when you keep a routine for yourself... it’s easier to keep them on one.
 
+# You Are Capable of Change
+
+- As a friend would say about him:
+  - What’s incredible as an observer was to watch him fall in love with his kids... It was everything against his grain to succumb to this outside influence of children. Love had control over him. He felt vulnerable. A vulnerability he had never had in his life.
+
+- This softness started to show itself in little hints, in the oddest and yet most personal of places. It was entries in Williams’s fishing journal, where for the first time he began to write about the kids he had long ignored. It was the signed poster his daughter found under piles of memorabilia after her father’s death that just said, “To my beautiful daughter. I love you. Dad.”
+
+- You have that kind of vulnerability now. Those same powerful forces are gnawing at you too, hopefully, and making progress on that tough exoskeleton you developed to protect yourself from the world. You can let this parenthood thing change you. You can let this make you better. You can even begin—no matter how far you are down the road, as Williams was—to make up for mistakes you might have made early in your parenting days. It’s never too late.
+
+# Make Sure You Make Time for Crazy
+
+- No one is too important or too busy to have some crazy time at home. No one is above getting pummeled by their kid in bed. No father should hesitate
+before singing at the top of his lungs while he shaves. These moments are the best moments. If they’re rare, you’re doing it wrong. 
+
+- They should be regular, they should be routine.
+
+# We Are All Complicated
+
+- You might think it was devastating for the comedian Pete Davidson, who lost his father on September 11, to learn that his father was far from perfect. His parents’ marriage had not been great (which is why they were separated and divorced not long before that tragic day). His father had done drugs and gotten into trouble more than once in his adult life. As Pete grew older and discovered more and more about his heroic father, who died saving people in the collapse of the Twin Towers, he wasn’t disappointed, he was heartened.
+
+- These failings and foibles humanized his father in a way that the stories his friends and family told the then seven-year-old Pete about his dad never could. “It made me realize that he had his own issues,” Pete explained to Judd Apatow in Sicker in the Head. “He had problems just like everybody else. But it also made me realize that even with all that, his morals were still intact, and none of that prevented him from being a hero.”
+
+- No one is perfect, least of all you. We are all complicated. We are all works in progress (emphasis, though, on progress). You don’t need to hide it. You don’t need to feel guilty. It won’t prevent you from being great at this most important job... nor from being a hero if the moment calls for it.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
