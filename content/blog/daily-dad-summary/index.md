@@ -1226,6 +1226,20 @@ a target? How do you know you’re not accidentally teaching them to exchange on
 
 - Your kids are either suffering or benefiting from your moods and emotions. Behave accordingly.
 
+# Transcend This Bitter Math
+
+- For all time, having kids has forced parents to make changes. They deprive us of sleep and money and freedoms we used to take for granted. But does that mean we have to lose ourselves, lose all our freedoms? Absolutely not.
+
+- We can transcend the bitter math. By working on ourselves and our relationships. By asking for help. By refusing to give up on dreams, even as we get older. By focusing on all the things that marriage and kids give us too, all the experiences we’ve gained and the opportunities created.
+
+- To quit on ourselves is to quit on our kids—it’s teaching them a terrible lesson.
+
+# Protect Your Wealth
+
+- mental wealth: your sanity, your well-being, your happiness. It’s really hard to be a good parent, to truly provide, when you’re stretched way too thin, when you’re depressed, when you haven’t cultivated the friendships and resources critical to maintaining good mental health.
+
+- Just as you seek to protect your financial wealth, make sure you are protecting your mental wealth. Don’t feel bad spending money on a therapist. Or a book. Or even deciding to pass on that overtime opportunity because you’re just too tired. Your sanity, your clarity, your well-being—these things are essential. It’s not selfish to take care of them. It’s selfless. Because your job is to be the best parent you can be. And that is going to require a full store of mental wealth.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
