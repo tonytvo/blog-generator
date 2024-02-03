@@ -1200,6 +1200,32 @@ a target? How do you know you’re not accidentally teaching them to exchange on
 
 - It’s a cautionary tale for all parents. Our generation, just like all past generations, makes decisions in the present that have consequences borne primarily by future generations. Our children and grandchildren will live inthe world created by your choices... and you yourself may live long enough for it to break your heart.
 
+# A Theory About Life
+
+- My whole theory about life is that glory and accomplishment are of far less importance than the creation of character and the individual good life.
+
+- Isn’t that wonderful? Isn’t that exactly what every stressed, self-critical, confused kid needs to hear about life? Who you are is more important than what you do. I’d rather you be good than successful. Character is more important than cash.
+
+- It can be easy to lose sight of this. We all know how competitive the world is, and we see the potential our kids have. We don’t want them to make the same mistakes we did. But ultimately, those things will take care of themselves if we raise them right.
+
+- The ancients knew that character was fate, and we need to remember that with our own kids. The good life, a life lived well, full of doing good, will be a successful life—and a more important one too.
+
+# It’s Okay to Ask for Help
+
+- are you (as parent) asking for help where you need it when you are not okay?
+
+- Remember, we have to model the behavior we want our kids to learn. So if you refuse to ask for directions when you’re obviously lost, what does that tell them? If you refuse to admit you don’t know something, and you make up an answer to a question instead of looking it up with them, what does that show them about learning and problem-solving? Why would they be okay being vulnerable with a doctor or a therapist, with Mom and Dad, if they have been regularly shown that this is  something to be ashamed of?
+
+- But this is about more than even that. *You can’t be a good parent if you’re hurting and not getting help.* You can’t be a good parent all by yourself. None of us are islands or invincible or omniscient. To do our best, we have to be able to learn, to rely on others, to admit mistakes, to ask for help. Show them that it’s okay to ask for help. Be better, for them, by asking for the help you know that you need.
+
+# The Most Important Decision You Make
+
+- when you’re in a bad mood, you know what your kids are thinking? They think it has something to do with them. They don’t understand all the responsibility you’re shouldering. They don’t know about the coworker whose stupidity you had to put up with all day or your boss’s short temper and unrealistic expectations. They can’t see the stress all this stuff puts you under. These are all complex emotional issues that are hard for a young kid to understand, especially when the issues are outside their own lived experience.
+
+- Our moods and choices and the examples we set are affecting our kids always, changing how they see the world and how they see themselves. How we are managing all this stuff makes them feel better or worse, worthwhile or worthless, safe or vulnerable. And in the process, we are creating a pattern for them that becomes hard not to follow—for better or for worse.
+
+- Your kids are either suffering or benefiting from your moods and emotions. Behave accordingly.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
