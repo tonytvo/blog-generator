@@ -1342,6 +1342,24 @@ everything
 
 - That kind of self-inflicted disconnection is unacceptable.
 
+# You Must Find the Stillness
+
+- Even the cool, quiet dark is pierced by the shriek of a man who has stepped on a pile of LEGOs... and the shriek is coming from your mouth. Yet to be good at our jobs, to be good at this parenting thing, we must
+endeavor to find stillness. Because we need time to reflect, to focus, to find the calm that will restore and reboot us.
+
+- Where will we find it? It won’t be in those measly two weeks of vacation or by cutting and running and fleeing. No, we must find the stillness within the chaos. It might not feel like these moments of quiet can exist with all the crying babies or arguing teenagers, but they can.
+
+- If we just look within. We can find stillness, if we take advantage of the early morning before the house is awake or those precious minutes after the kids are in bed. But we really have to drink those moments in to get the most from them. We can’t defer these chances in favor of our phones or Netflix. We must take time with a journal. We must enjoy that cute but preposterously slow walk from school to the car or from the car back into the house. Soak up the quiet. Store these moments in your soul so you can have them always.
+
+- Find the stillness. So much depends on it.
+
+# Access the Child in You
+
+- One of the wonderful things about having kids (and grandkids) is that they allow us to access that childlike part of ourselves that never fully goes away. They give us an excuse to get down on the floor and crash two trains together. To build something cool with LEGOs. To dress up for Halloween. To be silly at a tea party. To listen to the music of our youth, to watch the movies we loved.
+
+- It’s more than a fun excuse—it’s an important part of life. Don’t forget to access that joy and fun... and maybe, you know, invite your kids to join you in it.
+
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
