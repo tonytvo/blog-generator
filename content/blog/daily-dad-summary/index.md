@@ -1190,6 +1190,16 @@ a target? How do you know you’re not accidentally teaching them to exchange on
 
 - Raising great, selfless, courageous kids is not an accident. They aren’t suigeneris or ex nihilo. They come from a tradition. They come from us.
 
+# Always Think About How Other People Are Doing
+
+- We must be careful to be good sports in this life, to be empathetic and caring enough to realize that things are not always as great for other people as they are for us. “Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth,” the Bible says in Proverbs 24:17.
+
+- It’s these kinds of ancient and timeless lessons that we must pass along to our children. You can still enjoy what you have, and you should still want to win in life. But don’t be so clueless as to think that other people are not suffering; don’t be so self-absorbed as to not care. And don’t raise children who are indifferent to either.
+
+# You Make Debts Your Children Must Pay
+
+- It’s a cautionary tale for all parents. Our generation, just like all past generations, makes decisions in the present that have consequences borne primarily by future generations. Our children and grandchildren will live inthe world created by your choices... and you yourself may live long enough for it to break your heart.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
