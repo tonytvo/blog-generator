@@ -1240,6 +1240,20 @@ a target? How do you know you’re not accidentally teaching them to exchange on
 
 - Just as you seek to protect your financial wealth, make sure you are protecting your mental wealth. Don’t feel bad spending money on a therapist. Or a book. Or even deciding to pass on that overtime opportunity because you’re just too tired. Your sanity, your clarity, your well-being—these things are essential. It’s not selfish to take care of them. It’s selfless. Because your job is to be the best parent you can be. And that is going to require a full store of mental wealth.
 
+# You Have to Take Care of Yourself Too
+
+- one thing far too many parents have in common is that they are always putting off taking care of themselves. I’ll start going to the gym once they’re out of this sleep regression. I’ll start eating better once they’re less picky about food. My wife and I will get our relationship back on track once the kids move out.
+
+- This may come from a good place, but the results are good for no one. You have to take care of yourself. Now! You think your terrible eating habits aren’t contributing to your temper? Of course you’re grouchy—you feel like a disgusting piece of crap! You think you’re doing your kids a favor by shortening your life span? You think you’re modeling what a good person looks like when you’re struggling to get up the stairs or pick up a bag of groceries? You think you’re making them feel safe and loved by letting your relationship bleed out on the dining room table?
+
+- You have to take care of yourself. For them. For you. Because you’ll be a better parent if you’re healthy, happy, and wise. Don’t put this off. It’s not selfish. It’s essential.
+
+# It Takes a Team
+
+- “One person cannot do two full-time jobs,” Le Guin once explained. “Writing is a full-time job and so is children. But two people can do three full-time jobs. . . . That’s why I’m so strong on partnership. It can be a great thing.”
+
+- Parenting is so hard to do alone; so hard. For too long, too many mothers had to do it alone, were forced to sacrificed alone. But, of course, we are stronger when we, our children’s parents, parent together. We go farther, together. It’s one of the only ways to make the math work—not just for the benefit of the children, but for the parents as well.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
