@@ -1254,6 +1254,27 @@ a target? How do you know you’re not accidentally teaching them to exchange on
 
 - Parenting is so hard to do alone; so hard. For too long, too many mothers had to do it alone, were forced to sacrificed alone. But, of course, we are stronger when we, our children’s parents, parent together. We go farther, together. It’s one of the only ways to make the math work—not just for the benefit of the children, but for the parents as well.
 
+# You Need to Take This Time
+
+- James Clear, author of the wonderful bestseller Atomic Habits, said that since becoming a father, he has carved out “two sacred hours” in the morning to do his writing. Sometimes he gets more, but never less. Those two hours determine whether he has a good day or a wasted day, whether he is productive and making progress... or slacking.
+
+- A few minutes or a few hours—in the morning, at night, or in the middle of the day—this idea of sacred time is important. You have to carve it out. You have to stick to the schedule like clockwork, protect it as you would a doctor’s appointment or a big meeting. Of course, this isn’t the only time you’ll need. It’s just the minimum. So make sure you give it to—or take it for yourself.
+
+- You’ll marvel at what you can accomplish in those few sacred minutes that you’ve kept all to yourself.
+
+# This is When You Are Happiest
+
+- That depression, that addiction, they came with him and ultimately took him very finally away from the thing he loved the most—his family. It’s a sobering reminder to all of us. First, to enjoy the present while we have it. Second, to remember how little we actually need in order to be happy, how wonderful the ordinary
+moments can be. Third, to understand how quickly it can all be taken away. 
+
+- If you’re struggling with addiction, if you’re in that dark hole of depression, please just know that as difficult as it is to fight, to break free and climb out, the simple joys and tenderness and compassion you will find in victory with those you love will come with equal ease and ridiculously stupid happiness.
+
+# They Need Structure (and So Do You)
+
+- Do you maintain structure and routine for yourself? You put them to bed at the same time each night, but do you wing it after that? You plan their dinners in advance... but what about your lunch at work? You give them quiet playtime in the afternoon and downtime on the weekends. But do you create that kind of regular time for yourself? Structure and routine are essential no matter who or how old you are. They’re important for kids and they’re important for parents.
+
+- And guess what—when you keep a routine for yourself... it’s easier to keep them on one.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
