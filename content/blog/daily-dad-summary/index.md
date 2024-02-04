@@ -1359,6 +1359,23 @@ endeavor to find stillness. Because we need time to reflect, to focus, to find t
 
 - It’s more than a fun excuse—it’s an important part of life. Don’t forget to access that joy and fun... and maybe, you know, invite your kids to join you in it.
 
+# It’s Good That You Worry About This
+
+- the question hits you in a soft place. It hits you when you least expect it... and yet it’s there constantly. Am I a good parent? Am I screwing this up?
+
+- But you? The type who is always checking in and wondering, Am I doing enough? Who actually cares about whether you’re doing a good job? You are —by definition—a good parent, because you are thinking about your kids first, not yourself. It’s proof that you care, that you have self-awareness, that you’re always trying to improve. That you would stop to evaluate your own performance, that it would bother you to give anything less than the full measure of your devotion, is all the evidence you need to reach a positive conclusion.
+
+- So if you feel that negative thought—that doubt—come up today, be reassured. It means you’re putting them first. It means you’re doing a good job.
+
+# Just Go to Bed
+
+- you know your kids are a mess when they don’t sleep. That’s why you follow the bedtime ritual religiously. You know that kids get into trouble at night, if left to their own devices. That’s why your teenager has a curfew that you enforce with an iron fist.
+
+- And yet here you are, up late again, mindlessly watching TV. Here you are, tired in the morning—again—because you were up late on your phone. You could have gone to bed, you knew you should have gone to bed, but you didn’t.
+
+- Who suffers? Your kids do. Because you’re grouchy. Because you don’t have energy. Because you’re behind. Because maybe they even sense that you’re a hypocrite!
+
+- If you want to be a better parent, start going to bed earlier. Give yourself a bedtime that you honor and respect and enforce. Value sleep. Take care of yourself. Everyone in your life will benefit.
 
 # Quotes
 
