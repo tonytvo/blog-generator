@@ -1377,6 +1377,25 @@ endeavor to find stillness. Because we need time to reflect, to focus, to find t
 
 - If you want to be a better parent, start going to bed earlier. Give yourself a bedtime that you honor and respect and enforce. Value sleep. Take care of yourself. Everyone in your life will benefit.
 
+# Patience Is Strength
+
+- parenting, like exercise, is a process of growth through pain, through struggle against resistance. It would be wonderful if raising kids were easy, if it demanded little of you, but that’s just not how it works.
+
+- We’ve been sleep-deprived. We’ve worried. We’ve been bitten and kicked. We’ve been judged. We’ve been leaned on and then taken for granted, kept up late by infants and then by missed curfews. We’ve been blamed and bothered and bludgeoned by and for their wants and needs. It is a gauntlet in a crucible through a minefield with no trophy at the end. And yet here we are. By necessity we have become capable of things we never could have conceived of for ourselves before.
+
+- It was Leonardo da Vinci who said that patience was bitter but its fruit was sweet. This holds true for many of the virtues that parenting has demanded we embody. We’ve been patient, we’ve been resilient, we’ve been brave, we’ve been selfless, self-effacing, steadfast, and silent... none of which were particularly fun at the time.
+
+- But the result was that we grew stronger for it. Our families survived and thrived because of it. They are where they are right now because of how far we’ve come as parents. There is no trophy on the other side of the parenting minefield, but there is a happy, healthy, bonded family. And that prize is the sweetest of them all.
+
+# Just Pick Yourself Back Up
+
+- maybe lately you haven’t been as good a parent as you would like to be. You were on your phone too much. You let your short temper get the best of you. You prioritized work over family. You got too wrapped up in your expectations, you were too harsh, you refused to see things their way.
+
+- Well? That’s all in the past. It happened. It shouldn’t have, but it did. And there’s nothing you can do now to undo it. The question is, now what? We have the power, at any moment, to get back on track. We can choose, always, to return to the standard we want to live up to as parents.
+
+- No parent has time to indulge in pity parties. Nor can any parent justify a continued slide. We screw up. We fall short. We’re not what we want to be—
+what we promised ourselves we’d be, what we owe to our kids. And? We can choose right now to get back on track. We can choose right now to do better.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
