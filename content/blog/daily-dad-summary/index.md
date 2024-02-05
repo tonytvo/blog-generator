@@ -1396,6 +1396,22 @@ endeavor to find stillness. Because we need time to reflect, to focus, to find t
 - No parent has time to indulge in pity parties. Nor can any parent justify a continued slide. We screw up. We fall short. We’re not what we want to be—
 what we promised ourselves we’d be, what we owe to our kids. And? We can choose right now to get back on track. We can choose right now to do better.
 
+# You Would Tell Them This. So Tell Yourself Too.
+
+- t’s hard to imagine any situation that you would describe to your kid as hopeless. “Sorry, it’s too late, you’re a failure” is something no parent would ever say. If they were falling behind their peers in math, you’d tell them that it was just a matter of work and time. If they were trying to write themselves off as a baseball player, you’d tell them about how many athletes were late bloomers, that they are still so young, that next year they can come back stronger and better, that they can turn things around. Even if they had a cancer diagnosis with terrible odds, you’d be encouraging them to fight, to never give up, to prove the  doubters wrong.
+
+- You wouldn’t just be saying this. You’d **mean** it. Because it’s true. Nothing is fixed in this life that you haven’t fixed yourself. Nothing is permanent. Especially when the person, deep down, is good and decent and full of potential.
+
+- Okay. So why are you whispering the exact opposite of this to yourself? Telling yourself that you’ve just got to accept that your dreams are done. Telling yourself, I used to be in good shape—but that’s in the past. 
+
+- No! It’s never too late. You still have so much time in front of you. So much ability, so much potential to fulfill. You decide the rest of the story. It’s up to you. But this is the important part: the story you decide for yourself is also going to determine what kind of stories your kids believe. Your story is the compass and the map on the journey that will lead them to realism, optimism, skepticism, cynicism, or fatalism.
+
+- Which will it be?
+
+# You Have to Face Your Flaws
+
+- If you want to be a great parent, you’re going to have to deal with your crap. You can’t carry baggage—it’s too dangerous with a kid around. You risk dropping it on them. There can be no more hiding, no more deferring. The bill is due and you have to pay it: in therapy, in conversations with your spouse, in the pages of your journal. You have to face your flaws. Because there are little people who did not choose to be stuck in the same house withyou and should not have to be trapped with a monster or a brick wall for a parent.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
