@@ -1412,6 +1412,23 @@ what we promised ourselves we’d be, what we owe to our kids. And? We can choos
 
 - If you want to be a great parent, you’re going to have to deal with your crap. You can’t carry baggage—it’s too dangerous with a kid around. You risk dropping it on them. There can be no more hiding, no more deferring. The bill is due and you have to pay it: in therapy, in conversations with your spouse, in the pages of your journal. You have to face your flaws. Because there are little people who did not choose to be stuck in the same house withyou and should not have to be trapped with a monster or a brick wall for a parent.
 
+# Don’t Get Sick
+
+- there’s a great term floating out there in the culture that describes what happens when we spend too much time on our phone. Whether it’s an adult doomscrolling or a kid going down a YouTube unboxing rabbit hole, when you spend too much time staring at a device, you get ***screensick***.
+
+- The good news is it seems like a pretty easy illness to cure. A phone-free day can cure it. Going outside for a couple hours can refocus your mind and reset your spirit. The bad news is, the people who made your phone and everything that goes on it know there’s an easy fix too. Which is why they’ve spent so much time and energy and money engineering ways to keep you connected to it, addicted to it, beholden to it. You have to fight that.
+
+- You can’t let the technology use you; you always have to be the one using the technology. It’s the only way to have a healthy relationship with your phone and to avoid the screensickness that infects us.
+
+# Delight in Attending to Your Improvement
+
+- In the start-up world, they say that if your company isn’t growing, it’s dying. In a way, it’s sort of true for people too. If you’re not actively developing
+yourself, what’s happening? You’re atrophying. You’re getting worse. Entropy is winning.
+
+- Epictetus liked to quote Socrates, who said that he delighted in attending to his own improvement day to day. Brilliant. It’s the perfect thing for you to think about. How are you improving yourself day to day? Are you working out? Are you reading? Are you setting goals for yourself? Are you clocking in at home as well as at the office?
+
+- Your kids will be better served by a parent who’s getting better. More important, they will be inspired by your example. Show them that you’re trying—that we can never stop trying—and they’ll follow you in their own way.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
