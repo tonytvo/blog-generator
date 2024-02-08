@@ -1314,6 +1314,22 @@ before singing at the top of his lungs while he shaves. These moments are the be
 
 - Keep your head up. Step up. Try again tomorrow.
 
+# This Is the Secret
+
+- hiring a full-time staff is beyond most of our capabilities, but surely there are things you are doing that you don’t have to do, that you could afford to pay someone to do for you. And yet you continue to do them... Why? Because your dad changed the oil in his car? Because your mom always served home-cooked meals? Because you feel guilty outsourcing this or that?
+
+- C’mon. Forget the gender roles. Forget “the way things used to be.” The way things used to be almost invariably involved parents spending way less time with their kids than we do now.
+
+- Take a minute today and calculate what an hour of your time is worth. Think about how much more present you could be for your kids if there were less on your plate. You don’t have to outsource everything, hire help for
+everything, but you **don’t have to do everything yourself either.**
+
+- Get help.
+
+# Do as You Say
+
+- When it comes to the important things with lifelong implications, you have to make them promise (such as not smoking cigarette until they are 21 years old), as Carter’s father did. But you also have to learn from his failure and lead by example. The costs of not doing it could be
+everything
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
