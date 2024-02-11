@@ -1446,6 +1446,16 @@ over. Or at least the fun, free, good life. No more time for hobbies. No energy 
 
 - We can all help each other if we end this charade. We can help the parents we work with by creating an environment that’s open and safe, that allows us to stop pretending that we aren’t all trying to work two jobs at the same time, and to work them well.
 
+# Is It Nature or Nurture?
+
+- “So also in our case, fellow citizens, noble birth, so admired of the multitude, and our being descended from Heracles does not bestow any advantage, unless we do the sort of things for which he was manifestly the most glorious and most noble of all mankind, and unless we practice and learn what is good our whole life long.”
+
+- And so it goes with your own family. If we want great kids, then we have to do the work. We have to nurture the traits we want them to have, correct the ones we don’t.
+
+# Help Them Become Who They Are
+
+- Our job as parents is not to mold our children into our successors or into superstars. It’s to help them be what they are meant to become. We expose them to things, we let them find what interests them, and then we support those interests. We shouldn’t pressure; we shouldn’t criticize. We should believe in them, cheer for them, be proud of them... and be ready to catch them if they fall or fail on the path to becoming who they are meant to be.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
