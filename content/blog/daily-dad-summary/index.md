@@ -1429,6 +1429,23 @@ yourself, what’s happening? You’re atrophying. You’re getting worse. Entro
 
 - Your kids will be better served by a parent who’s getting better. More important, they will be inspired by your example. Show them that you’re trying—that we can never stop trying—and they’ll follow you in their own way.
 
+# It’s Not Over for You
+
+- A part of us that felt, when our house was suddenly flooded with babies and diapers and our routines were disrupted by carpools and soccer practices, like life was
+over. Or at least the fun, free, good life. No more time for hobbies. No energy for self-exploration, let alone self-actualization.
+
+- Certainly, we have been taxed and burdened in a way we never expected. But we can’t throw in the towel. We can’t use being a parent as an excuse. On the contrary, because our kids are watching us, we have to keep pushing ourselves. We have to transcend the bitter math. We have to keep growing. We can’t give up on ourselves or our interests.
+
+- Our lives are not over. Not even close. In a way they’re just beginning. Beginning anew.
+
+# Here’s How You Can Help Other Parents
+
+- there is the professional you and the parental you. It makes sense that we try to keep these things pretty distinct and separate. We even have a name for this distinction. We call it “boundaries” or “work-life balance.” And it’s good that we try to leave our work at the office when we head home. 
+
+- But one way we can help other parents—or prospective parents—is by making sure that we don’t leave our kids at home... figuratively, anyway. By talking about our kids, by putting pictures of them up on our walls, by being honest and up front about trying to balance our careers and family, we are all helping each other.
+
+- We can all help each other if we end this charade. We can help the parents we work with by creating an environment that’s open and safe, that allows us to stop pretending that we aren’t all trying to work two jobs at the same time, and to work them well.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
