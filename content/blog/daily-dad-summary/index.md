@@ -1456,6 +1456,23 @@ over. Or at least the fun, free, good life. No more time for hobbies. No energy 
 
 - Our job as parents is not to mold our children into our successors or into superstars. It’s to help them be what they are meant to become. We expose them to things, we let them find what interests them, and then we support those interests. We shouldn’t pressure; we shouldn’t criticize. We should believe in them, cheer for them, be proud of them... and be ready to catch them if they fall or fail on the path to becoming who they are meant to be.
 
+# You Have to Help Them Discover This
+
+- almost every talented and successful person can remember their introduction to whatever it was that became their thing.
+
+- At the core of most of these stories are a few key ingredients: Luck. Openness. Curiosity. And, of course, often a parent who actively exposed their kid to different things.
+
+- It’s your child’s job to figure out what they want to do in life. No parent can or should make their child master anything. But it is your job, especially
+when they’re young, to open their eyes, to introduce serendipity into the equation, to expose them to all the possibilities that life has to offer. 
+
+- Show them what’s out there. Help them discover.
+
+# Don’t Tie Down Your Eagle
+
+- You can’t hold your children back. You can’t resent that they’re different. You can’t hold them back with antiquated notions about gender or class. Their choices say nothing about your choices. They are their own people. They deserve their own lives. They deserve your support and encouragement in whatever direction that takes you or them.
+
+- That’s what we’re here for. We can’t forget it.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
