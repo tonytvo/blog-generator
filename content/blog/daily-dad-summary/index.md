@@ -1473,6 +1473,20 @@ when they’re young, to open their eyes, to introduce serendipity into the equa
 
 - That’s what we’re here for. We can’t forget it.
 
+# Ask If They’d Like to Learn
+
+- Of course, we cannot rely solely on the kindness of strangers. It’s our job as parents to take the time to do this for our kids. We have to cultivate that flicker of curiosity into full-blown love affairs, we have to channel their energy into productive pursuits. We have to teach them stuff.
+
+- Especially the things they’re too afraid to ask about, or don’t even know to ask about. Often, that is where the magic resides.
+
+# You Have to Do This. We Need It.
+
+- Our job is to keep our kids the way they were born, which as The Road was written to show us, means fundamentally good. Innocent. Pure. 
+
+- We have to help them carry the fire. We have to keep that light in their eyes ablaze. No matter how dark the world gets. In fact, we have to do it now, more than ever, because the world is dark. That’s our job. That’s our warrant.
+
+- If we fail . . . God help us.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
