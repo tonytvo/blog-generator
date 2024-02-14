@@ -1487,6 +1487,16 @@ when they’re young, to open their eyes, to introduce serendipity into the equa
 
 - If we fail . . . God help us.
 
+# Your Kids Will Be Whatever You Make Them
+
+- Your kids will be whatever you make them. No one is saying that things won’t be hard. No one is saying that any of this is fair—dyslexia or disabilities, being a refugee or losing your job, being a genius or being short. What matters is how we push them (and ourselves). What matters is the kindness and the love and the patience that accompany that pushing.
+
+- We can’t do everything for them, but we can believe in them and help them believe in themselves. We can help them reach the level of their potential. We can make them be what they are capable of.
+
+# But Which Parts of Them Will You Nurture?
+
+- We all have good traits and bad traits. What matters, then, what your job is as a parent, is to help your kids nurture their good parts and give them the strength to challenge their bad parts. We need to help them become who they can be. We need to help them be consistent—consistently the best version of themselves.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
