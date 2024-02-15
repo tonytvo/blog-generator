@@ -1497,6 +1497,21 @@ when they’re young, to open their eyes, to introduce serendipity into the equa
 
 - We all have good traits and bad traits. What matters, then, what your job is as a parent, is to help your kids nurture their good parts and give them the strength to challenge their bad parts. We need to help them become who they can be. We need to help them be consistent—consistently the best version of themselves.
 
+# Don’t Let Them Wish to Not Be Who They Are
+
+- No parent ever wants to hear that their kid would like to cut a part of themselves out, that their son or their daughter is at war with themselves. Of course, much of the shame and doubt that Pete felt had nothing to do with his parents and everything to do with the time and culture he was growing up in, but nevertheless.
+
+- It’s your job to make sure your kids know that there isn’t a part of them that you’d want them to change if they could. It’s your job to show them that you love the whole them. Through your words, your actions, and your choices, you must teach and prove to them that they make the world better just by being in it and by being themselves.
+
+# Work with Them to Find Their Lane
+
+- Our job as parents is to put our kids in environments in which they can thrive and blossom. Our job is to work with them to find their lane. That environment may not be the first school we drop them into. It might take several tries and a fair amount of experimentation. It will definitely take patience. That doesn’t matter.
+
+- What matters is that we help them realize who they are meant to be.
+
+- As we bring up our children, we have to remember that we are caretakers of the future. By improving their education, we improve the future of mankind, the future
+of this world. — IMMANUEL KANT
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
