@@ -1512,6 +1512,25 @@ when they’re young, to open their eyes, to introduce serendipity into the equa
 - As we bring up our children, we have to remember that we are caretakers of the future. By improving their education, we improve the future of mankind, the future
 of this world. — IMMANUEL KANT
 
+# Let Them Decide
+
+- To a parent, there is an obvious choice. It’s not even a discussion. We know which one will teach more, which one will be better for career prospects, which one is “cooler.” But our kids, they don’t know anything about decision-making. They don’t know about mental models. They don’t know about long-term consequences or second-order thinking. They don’t know about weighing pros and cons. They don’t know what’s best for them. They know only what they like, what excites them, what they want right now.
+
+- When your kids feel a pull toward something creative or fulfilling, the worst thing you can do as a parent is prevent them from going in that direction. Your job, it’s worth repeating whenever there’s a chance, is to encourage them to be who they are, to follow their natural inclinations, to decide what they want to do after school.
+
+# Teach Them to Choose
+
+- it makes sense that parents make most of the decisions for their kids. Parents know more. Kids basically know nothing. About life. About what the weather is going to be tomorrow. About how the world works.
+
+- The problem with this is that you’re depriving your kids of a very important skill: the ability to make decisions. Is it any wonder that so many teenagers are utterly overwhelmed when it comes to choosing where to go to college? Or what to major in? For most of them, it’s the first real decision they’ve made in their whole lives.
+
+- That’s why, as a parent, you have to actively work to not choose everything for them. Ask them whether they want to go to the park or play catch in the yard. Ask them what movie they want to see. What should we cook for dinner? Do you want to take a shower tonight or a bath? Would you rather try out for the baseball or the basketball team? If you don’t like mowing the lawn, what’s another chore you’d like to do to contribute around the house? Shorts or pants today? Go pick out something to wear.
+
+- Teach them how to choose. Empower them. Make sure they know how to decide, and to be okay with their decision even if they decide wrong. It doesn’t matter that you know more. What matters is that you let them learn.
+
+- A life is the sum and substance of a person’s decisions. Prepare them to make good decisions so they can make the best possible life for themselves
+
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
