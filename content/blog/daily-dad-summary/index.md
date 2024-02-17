@@ -1530,6 +1530,22 @@ of this world. — IMMANUEL KANT
 
 - A life is the sum and substance of a person’s decisions. Prepare them to make good decisions so they can make the best possible life for themselves
 
+# Always Keep Their Interests in Mind
+
+- there will always be a gulf between parents and their children, at least when it comes to taste. That is as it should be. Your tastes are informed by years of experience and theirs by the yet unjaded joy of discovery. Why would you like what they like? You know more!
+
+- And still, it remains an imperative—if you want to connect with them and shape and encourage them—that you always keep their interests in mind, because your job is to figure out what they like and help them continue to explore it.
+
+- Oh, they liked this movie? Here’s another they might enjoy. Oh, they like this book? Here’s the author’s entire catalog for their birthday. Oh, they like
+dinosaurs? Here come the weekend trips to museums; here come the photos of you in front of the Brachiosaurus in the United terminal at O’Hare; here comes a dinosaur video you can watch together.
+
+- When their interests become your interests, they become opportunities to connect and explore and to share. Let them be the driver; you just provide the fuel.
+
+# Original Is Better Than Smart
+
+- Encourage them to be their original, unique selves. Encourage them to explore, to find new things. The world is full of smart people . . . and most of them are insufferably boring and unimpressive. What we need are fresh thinkers and creative people. What we need are originals.
+
+- The “C” students run the world. — HARRY TRUMAN
 
 # Quotes
 
