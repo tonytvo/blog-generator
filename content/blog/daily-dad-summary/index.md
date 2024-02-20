@@ -1547,6 +1547,28 @@ dinosaurs? Here come the weekend trips to museums; here come the photos of you i
 
 - The “C” students run the world. — HARRY TRUMAN
 
+# Your Job Is to Show Them What’s Possible
+
+- Could it be that the biggest privilege afforded to these kids was seeing their parent passionately and practically pursue a career that most people have trouble even imagining? That the real gift they got was seeing that following your dreams was actually possible? And that it wasn’t magic, it was just a lot of hard work?
+
+- Too many parents spend time either consciously or subtly telling their kids to think small, to be realistic, to consider the odds. But living in the same house as a professional athlete or a head of state or an award-winning author sends a powerful message: It can be done! It just takes work, dedication, and, of course, confidence.
+
+- That’s your real job, whatever you do for a living. To show them what’s possible. To push them to go for it, whatever “it” is.
+
+# Don’t Give Them This
+
+- the biggest impediment to happiness in life is something that many of us picked up very early in our lives: shame.
+
+- Shame is guilt’s evil twin. Where guilt is feeling bad about things you’ve done; shame is feeling bad about who you are—for things about yourself that you don’t control. Having normal, biological urges. Being uncoordinated. Having unique artistic tastes. Struggling with social cues. Having a limited palate or an extremely adventurous one. There is almost no limit to the things about ourselves that we are capable of feeling shame over.
+
+- What’s so tragic about shame, though, is that it does not come naturally. Watch an innocent child play intently with their food or pretend completely to be a princess or a dragon, and there isn’t a whisper of shame to be heard.Because they have not been made to feel ashamed about these things yet.
+
+- Shame is inherited. It is passed along, often by parents, on the back of cutting remarks, unnecessary judgments, and thoughtless choices. It’s up to you to not let them inherit shame.
+
+- It’s up to you to let them be their own people, to let them be comfortable in their own skin—pretending to be dragons, flailing to music you don’t like, trying things you’d never try yourself, it doesn’t matter... as long as it matters to them.
+
+- Embrace your children, so they might embrace the things that make them unique and wholly themselves. There is no shame in that.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
