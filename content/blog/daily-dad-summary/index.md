@@ -1569,6 +1569,23 @@ dinosaurs? Here come the weekend trips to museums; here come the photos of you i
 
 - Embrace your children, so they might embrace the things that make them unique and wholly themselves. There is no shame in that.
 
+# Encourage Them to Be the Best
+
+- John Wooden's dad message about basketball - and life - was this: “Johnny, don’t try to be better than somebody else, but never cease trying to be the best you can be. You have control over that. The other you don’t.” It was simple advice: work hard, very hard, at those things I can control and don’t lose sleep over the rest of it.
+
+- As you put your kid out there in softball or on the debate team, as you talk to them about their class rank or their mile time, make sure that you are letting them know that how they compare with other people is far less important than how they measure up against **their own potential**. Somebody who gives their best effort at everything they do is going to go much further in life (and have a happier one) than somebody who is obsessed with coming in first place or who never earnestly tries for fear that they will lose.
+
+- So tell your kid to be the **best they can be**. Tell them to measure themselves against their own potential and their own progress. Not only does that usually lead to winning, but it is also what winners do.
+
+# Help Them Go Find It
+
+- the story of how Kwane's mother help him find his passions.
+  - “Let’s go find it!” she said to him with palpable excitement, and then together they raced down the hallways of each floor of their building, trying to locate the source. As soon as the doors opened to the third floor, they knew they were close. Without so much as a hesitation, his mother knocked on the door that had so beckoned her. “My name is Jewel,” she said confidently. “This is my son, Kwame. We live on the sixth floor. We couldn’t help but smell what you were cooking.”
+  - The woman was stunned. Fear registered across her face. Were they about to complain? To say something offensive? No, that wasn’t his mother’s style. “It smells wonderful,” she said. “I don’t know how to say this, but we’d like to try it!”
+  - His mother showed him in that moment so many wonderful traits: Curiosity. Confidence. Assertiveness. Figureoutable- ness. Passion. Neighborliness.
+
+- These are all things we can and must teach our children in our own way.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
