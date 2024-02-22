@@ -6,7 +6,7 @@ tags: ["valueinvesting", "investing"]
 ---
 
 
-# Item 30: Don’t Repeat Type Information in Documentation
+# Don’t Repeat Type Information in Documentation
 
 - example 1:
 
