@@ -1,8 +1,8 @@
 ---
-title: 100 to 1 by Thomas W. Phelps summary
-date: "2022-08-30T22:12:03.284Z"
-description: "100 to 1 by Thomas W. Phelps summary"
-tags: ["valueinvesting", "investing"]
+title: effective typescript summary
+date: "2024-03-05T22:12:03.284Z"
+description: "effective typescript summary"
+tags: ["agiletechnicalpractices", "programming"]
 ---
 
 
