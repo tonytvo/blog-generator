@@ -1584,7 +1584,23 @@ dinosaurs? Here come the weekend trips to museums; here come the photos of you i
   - The woman was stunned. Fear registered across her face. Were they about to complain? To say something offensive? No, that wasn’t his mother’s style. “It smells wonderful,” she said. “I don’t know how to say this, but we’d like to try it!”
   - His mother showed him in that moment so many wonderful traits: Curiosity. Confidence. Assertiveness. Figureoutable- ness. Passion. Neighborliness.
 
-- These are all things we can and must teach our children in our own way.
+- These are all things we can and must teach our children in our own way. But it can start by following our nose.
+
+# Stop Trying to Change Them
+
+- My wife and I, our whole job is to provide, to protect, to love, to facilitate... It’s to find out who our children are, find out their likes and their dislikes, and try to help them through life, to find themselves. It’s not about us. — DWYANE WADE
+
+- Maybe you’re artistic and your kid is not. Maybe you’re athletic and your kid is not. Maybe you’re not religious and your teenager is. Maybe you’re liberal and your kid is not. Whatever it is, let them be who they are. Let them experiment. Let them discover themselves—let them discover their truths. Let them have their childhoods.
+
+- You might not like the results of these explorations. They might challenge your most deeply held assumptions. But guess what? That’s a you problem.
+
+# They Don’t Know What They Want
+
+- You don’t want to habituate a kind of disrespect for, or disinterest in, what they think they want. Because one day, they’ll want to change their college major. They’ll want to move across the country. They’ll want to make some lifestyle change you disagree with. They’ll want to tweak some long-standing family tradition. And you will be so used to thinking that you know better, that you are the decider, that you won’t be able to handle it. Especially the part where they don’t have to listen to you. But worse than that, your relationship with your kids won’t be able to weather the fallout from your egotistical implosion.
+
+- Your kids don’t always know what they want. But guess what? Nobody does. So you have to figure out how to be in charge without being a tyrant, how to generally know better without being a know-it-all. You have to learn how to use the gravity of your experience to move them gently in the direction they should go, instead of using the mass of your position as parent to force them that way.
+
+- This won’t be easy... but such is the life (and balancing act) of being a parent.
 
 # Quotes
 
