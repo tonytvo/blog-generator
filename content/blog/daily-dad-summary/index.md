@@ -1602,6 +1602,23 @@ dinosaurs? Here come the weekend trips to museums; here come the photos of you i
 
 - This won’t be easy... but such is the life (and balancing act) of being a parent.
 
+# How Often Do You Say No?
+
+- Harry Truman, father of a daughter, Margaret, had a clever quip about this: “I have found the best way to give advice to your children is to find out what they want and then advise them to do it.”
+
+- His point is that nobody likes to be told what to do. And your job isn’t to make them do all the things you want them to do; it’s to help them do the things they want to do (safely and within reason, of course).
+
+- It’s their life, after all. Learn how to say yes. Learn how to advise them on what they are going to do anyway—so that if you can’t stop it, you can at least prepare them. Be someone who helps, not the kind of parent who only gets in the way.
+
+# You Have to Listen
+
+- It’s often quite surprising to hear what’s actually on their minds and how you can be a better leader in your family when you know what’s in the hearts and minds of those precious people who look up to you. One father, who was keen to impress upon his son the value of curiosity and study, asked him what he was interested in
+learning. To his utter delight, his son said, “I want to learn to vacuum.” His son wanted to be useful; he wanted to contribute and have a purpose himself. You don’t really know, in other words, what’s inside until you pay attention, with dedication and compassion, like effective leaders do.
+
+- That little fellow is always trying to tell you things. Of course, it’s not always explicit. Sometimes “I want to learn to be useful” comes out as “I want to learn to vacuum.” Sometimes “I want to be a good friend” comes out as “Can you drive me to Bobby’s house?” Sometimes “I want to be a writer” comes out as an awkward kid who doesn’t want to watch sports with you.
+
+- Still, they are always trying to tell you something. And you’ll hear them only if you’re really listening.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
