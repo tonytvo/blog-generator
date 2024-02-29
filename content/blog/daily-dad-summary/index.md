@@ -1619,6 +1619,20 @@ learning. To his utter delight, his son said, “I want to learn to vacuum.” H
 
 - Still, they are always trying to tell you something. And you’ll hear them only if you’re really listening.
 
+# Don’t Help Them Become Who You Were
+
+- As we’ve said, our job is to help our kids become who they are. It’s not to help them become who we were. It’s not their responsibility to carry on your legacy, to play the sport you played, to wear the number you wore.
+
+# What Are You Making Them Do?
+
+- We are what we repeatedly do. Therefore, excellence is not an act but a habit.
+
+- The real question as parents, then, is ***What are we making our kids do?***
+
+- Excellence isn’t something we pursue as a destination. It’s something we pursue in the doing. Day in and day out. In the little things as well as the big things. It’s something that emerges when we turn that type of pursuit, through action, into a habit. And it’s our job as parents to help our kids understand this. To help them realize who they are by what they do day to day, what they do this day, today.
+
+- We are what we do repeatedly.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to
