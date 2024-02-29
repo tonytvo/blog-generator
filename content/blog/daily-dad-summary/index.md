@@ -1633,9 +1633,33 @@ learning. To his utter delight, his son said, “I want to learn to vacuum.” H
 
 - We are what we do repeatedly.
 
+# Why? Why? Why?
+
+- as a parent, there is no word you hear more. Why? Why not? Why can’t I? Why do I have to? Why does it work like that? Why? Why? Why? Why? Why?
+
+- It’s annoying, to be sure, but you must be sure to never discourage this. So much of what we take for granted as parents, and as people, is arbitrary and poorly supported. Perhaps that’s because at a young age our own impulse to question and explore was suppressed. We were not taught to see that most of the rules and limitations of the world have no real basis in logic, or reason, or even morality.
+
+- When we asked “Why?” we were told, “Because.” Full stop. We were not encouraged to challenge assumptions, to question the status quo, to learn why things are the way they are. And our limited access to wisdom and truth limited us in turn.
+
+- Let’s not continue this tradition. Let’s turn over a new leaf with this generation—the one we are in charge of raising into the best versions of themselves. We want our kids to make the world a better place; we want them to improve things; we want them to be better than us.
+
+- That can’t happen if they are complacent, if they are credulous, if they don’t think they are empowered to subject their reality to even the simplest interrogation and demand answers accordingly. 
+
+- “Why?” is a great question. Help them see that.
+
+- And then help them answer it.
+
+# Do Not Get in the Way of Their Primal Inclinations
+
+- As a parent, you need to let go. You need to let your child blossom. You need to think of your child like they’re a plant that you want to foster and grow in its most natural form and not hinder in any way. You have to let your child go in whatever direction he or she wants. When the child reveals a proclivity toward something, encourage them to go in that direction. Because that proclivity reveals something extremely powerful from within—it reveals what I call a
+primal inclination. Do not get in the way of their primal inclinations in any way, shape, or form. That’s the most important thing you can do.
+
+- Throw away your expectations. Your responsibility is to encourage them to be who they are, not what you want them to be or who you wish you’d become. Don’t force your interests on your child. Pay attention to their natural, primal inclinations, then foster their blossoming.
+
 # Quotes
 
-When you love, you wish to do things for. You wish to sacrifice for. You wish to
-serve. - ERNEST HEMINGWAY
+When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
+
+I would rather have questions that can’t be answered than answers that can’t be questioned. - Richard Feynman
 
 # References
