@@ -1656,6 +1656,26 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 - Throw away your expectations. Your responsibility is to encourage them to be who they are, not what you want them to be or who you wish you’d become. Don’t force your interests on your child. Pay attention to their natural, primal inclinations, then foster their blossoming.
 
+# This Is Always in Their Control
+
+- So what do we tell our kids to focus on? What is always up to them? What they do in response to those circumstances. What’s up to them is whether they do their best or not. Whether they try hard. Whether they find a way to enjoy the process and live up to their potential.
+
+- So after practice, after the game, after the big test, you need to make sure that your questions and your criteria for judging them reflect that. Meaning not “Did you guys win?” or “Did you pass?” but “Did you have fun?” or “Did you do your best?” or “What do you think you could have done better to prepare?”
+
+- We don’t control the hand we’re dealt. Our biology isn’t up to us, nor is our place in the world (geographically or socioeconomically). But our kids (or families) decide how we play that hand. We decide what we do about it. We decide whether we give it our all. We decide who we become.
+
+- Teach them that.
+
+# Prepare Them to Answer the Call
+
+- life has many of these moments, many such taps on the shoulder: to serve, to take a risk, to run toward danger while others run away, to do a thing that people say is impossible.
+
+- Our kids will have many reasons to think what they’re planning is the wrong thing to do. They will be pressured to put their dreams out of their mind. Fear will make itself felt. Will they let it prevent them from answering the call? Will they leave the phone ringing? Will their moment find them unprepared? Will their finest hour pass them by like a ship in the night?
+
+- What a tragedy that would be. As parents, we have to make sure that doesn’t happen to our kids. We have to help them inch closer and closer to doing what they were put here to do, to being who they were meant to become. We are supposed to prepare them for when the phone rings, for when they get tapped on the shoulder, because the one thing we know for certain is that the call is going to come.
+
+- Will they be prepared to answer?
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
