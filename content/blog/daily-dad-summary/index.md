@@ -1676,6 +1676,22 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 - Will they be prepared to answer?
 
+# You Can Give Them This Gift
+
+- “My father,” Jim would later say in his legendary ESPY speech, “gave me the greatest gift anyone could give another person: he believed in me.”
+
+- Have you given this gift to your children? Our job is to spur our children to conceive of big dreams, to encourage them to go after them, to give them the greatest gift anyone can give another person: belief. Because if you don’t believe in them, who will?
+
+# Just Be a Fan
+
+- Your first job is to be a fan. Just a fan. Of them. Of their talents or lack thereof. Of their chances or lack thereof.
+
+- They don’t need a drill sergeant in the living room. They don’t need someone calling them out. They don’t need someone telling them the hard truths. They don’t even necessarily need your money to put them in that fancy league. They don’t need you to berate their teachers and demand special treatment. They don’t need you to be obsessed.
+
+- What they need is a fan. They need someone who supports them, who loves them, who is rooting for them. They need a fan with a healthy relationship to the game—not a stalker or a tyrant.
+
+- Just be a fan. It’s not that complicated.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
