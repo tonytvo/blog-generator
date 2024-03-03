@@ -1692,10 +1692,26 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 - Just be a fan. It’s not that complicated.
 
+# What Are You Going to Focus On?
+
+- Are you going to fill your house with doom and gloom? Or are you going to teach your kids to hope, to believe in their ability to make a difference, to find the opportunity inside the obstacles that life presents?
+
+- The author Alex Haley once said that he believed his job as a writer was to “find good and praise it.” That fits in a parent’s job description too. We’re always going to have more success rewarding good behavior in our kids than punishing bad behavior. Looking for what we want to see in them and making that our focus is going to get us much further than seeking out conflict and engaging in criticism. This principle extends to our perceptions and portrayal of the world as well. It’s better for everyone to talk up what we want to see instead of constantly bemoaning all the evil and wrongness that we can’t seem to escape.
+
+- We have a choice: Inspire or disillusion. Empower or depress. What will it be?
+
+# Don’t Be a Minimizer
+
+- The parenting style that is good for grit is also the parenting style good for most other things: Be really, really demanding, and be very, very supportive. — ANGELA DUCKWORTH
+
+- The minimum of being a good parent is not being a minimizer. Don’t look for what’s wrong, look for what’s right . . . and celebrate it! Lift them up,don’t cut them down. Root for them; that’s what they want more than anything.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
 
 I would rather have questions that can’t be answered than answers that can’t be questioned. - Richard Feynman
+
+The parenting style that is good for grit is also the parenting style good for most other things: Be really, really demanding, and be very, very supportive. — ANGELA DUCKWORTH
 
 # References
