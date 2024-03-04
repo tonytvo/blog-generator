@@ -1706,6 +1706,22 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 - The minimum of being a good parent is not being a minimizer. Don’t look for what’s wrong, look for what’s right . . . and celebrate it! Lift them up,don’t cut them down. Root for them; that’s what they want more than anything.
 
+# There Are Better Forms of Motivation
+
+- You can subject your kids to hard and difficult things and it may help make them successful. These things may have even helped you be successful. Yelling. Blunt truths. Endless workouts. Emotional manipulation. These things work . . . but they also come at a steep emotional cost. Encouragement and genuine support, on the other hand, work equally well and have the added benefit of bringing you closer to your kids and making you both better people.
+
+- Choose the right form of motivation. Not the harshest.
+
+# Seldom Should Be Heard a Discouraging Word
+
+- if you’re not paying attention, it’s easy to slip into a kind of casual, thoughtless negativity: Why is your room so dirty? Why are you in such a bad mood today? Hey, stop doing that! Don’t touch this. No, you can’t watch TV right now. Why isn’t your room clean? No, you can’t have that. I’m disappointed with how you did on this test. That is just not realistic; shouldn’t you think about trying something else? I don’t think so. You already know the answer... and the answer is “no.”
+
+- This happens not because you’re a bad parent but rather because you’re a good one. You have rules and you enforce them. You have expectations and you push your kids to meet them. You know what’s best. You want to keep them safe and you have a house to run.
+
+- But still, if you’re not careful, it can come to be that almost every interaction you have with your kids is negative. It can start to feel, from their perspective, like an endless cascade of disappointment. And then, before you know it, you’ve become the voice of discouragement without even thinking about it.
+
+- Is that who you are? Is that the kind of relationship you want to have? If it isn’t, then you need to pay attention. Watch your words. Count your yeses and nos. Be intentional about what you focus on. Let the little things go. Be positive.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
