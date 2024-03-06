@@ -1722,6 +1722,16 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 - Is that who you are? Is that the kind of relationship you want to have? If it isn’t, then you need to pay attention. Watch your words. Count your yeses and nos. Be intentional about what you focus on. Let the little things go. Be positive.
 
+# Playing with Your Kids Is Everything
+
+- It doesn’t matter what you do for a living or how bleak things might be — playing with your kids is a wonderful thing. Play with them if they’re young. Play with them if they’re old, if you’re old. Have fun with them. Be kids together. Play. Play. Play.
+
+# Don’t Wait to Be Proud
+
+- Why couldn’t parents have expressed love when they were alive? Was it a generational thing? Did they think it was helping to make their kids better, tougher? Why couldn’t they have been more like Jim Valvano’s father and given their kids the gift of being a fan?
+
+- We’ll never know the answer to those questions. What we do know is we can’t do this with our own kids. We can’t wait to be proud. We can’t keep our feelings for them hidden under piles of paper or in a drawer in our desk. We have to tell them now. We have to show them now. That we’re rooting for them. That we love them. That we believe in them. That we’re proud of them. Because we are. And they deserve to know it—before it’s too late.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
