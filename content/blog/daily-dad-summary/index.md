@@ -1732,6 +1732,25 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 - We’ll never know the answer to those questions. What we do know is we can’t do this with our own kids. We can’t wait to be proud. We can’t keep our feelings for them hidden under piles of paper or in a drawer in our desk. We have to tell them now. We have to show them now. That we’re rooting for them. That we love them. That we believe in them. That we’re proud of them. Because we are. And they deserve to know it—before it’s too late.
 
+# You’re Not Raising Grass
+
+- Success as a parent is not defined by having a car with spotless back seats. It’s not having a perfectly decorated house filled with fragile things that never
+get broken. A kid’s room should look like it was played in. A home should feel lived in. We should see their fingerprints everywhere—literally and figuratively.
+
+- Is your job really to raise a kid who never talks back? Who walks in lockstep or tiptoes through life? Or is it to raise a kid with their own opinions and their own dreams, with the confidence to articulate them and the ability to bring them to life?
+
+- The yard is there to be played in. The bike is made to be ridden, not kept in the garage in pristine condition. Your floors will be scratched. Food will be spilled. Messes will accumulate. Noises will be made.
+
+- Good. We’re not trying to keep a spotless, quiet house. We’re raising healthy, well-adjusted, happy children.
+
+# Engage with the Slime
+
+- Life is too short to nix your children’s interests because you don’t want to deal with a mess afterward. Think about it: How many negative rules do we make related to things? Food in the living room, shoes on the carpet, toys outside the playroom. These rules are often designed to make our lives easier as parents, but one of their unintended side effects is to make our kids’ lives less fun.
+
+- At the same time, we also seem to have fewer positive rules for ourselves. Why not a rule about being interested? Why not a rule about playing and having fun together? Why not a rule about encouraging their fascinations rather than curtailing them?
+
+- Let’s work with the slime, not against it.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
