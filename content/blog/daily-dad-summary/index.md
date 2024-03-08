@@ -1751,6 +1751,24 @@ get broken. A kid’s room should look like it was played in. A home should feel
 
 - Let’s work with the slime, not against it.
 
+# What Kind of Voice Are You Giving Them?
+
+- The performance psychologist Dr. Jim Loehr, who has studied countless athletes and elite leaders, says this voice is the key to success. “I began to realize,” he said in an interview, “what really mattered in a really significant way: the tone and content of the voice no one hears. I came to understand that the ultimate coach for all of us in life is that private voice.”
+
+- Where does it come from? Where did you get that voice originally? It came from your parents, mostly. As Loehr explains, we “know it begins to form as early as five years of age, and it comes principally from the authority figures in your life... however functional or dysfunctional.”
+
+- This should sober us as parents. We are responsible for the voice that will live inside our kids’ head for the rest of their lives. We decide whether that voice will belong to a wise and patient ancestor or a cruel and unpredictable ghost. We decide whether it will be a voice of conscience and kindness or doubt and insecurity. We decide that by what we say to them, by what we show them.
+
+- In each moment of every day.
+
+# Here’s What Matters
+
+- The best way to make children good is to make them happy. — OSCAR WILDE
+
+- If our kids are having fun, if they’re happy, if they’re learning, if they’re building bonds with teammates, then nothing else matters. Our duty as parents is not to optimize our kids for success. It’s to teach them how to be present, how to find things they love, how to be a good person, how to respond to the situations life puts them in. That’s it.
+
+- Everything else? What do we care?
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
