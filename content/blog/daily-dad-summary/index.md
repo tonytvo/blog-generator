@@ -1769,6 +1769,18 @@ get broken. A kid’s room should look like it was played in. A home should feel
 
 - Everything else? What do we care?
 
+# Be Careful of Your Implications
+
+- It’s so easy to joke: about our “easy” child and our “difficult one,” about our “favorite,” about our “special” one, about who or what “will be the death of us.” God knows how many thoughtless asides about our kids have popped out of our mouths in casual conversation.
+
+- We have to consider the implications of the words we throw about like that. Because our kids are listening, and they really hear us. They are always trying to understand themselves and their place in the world. The things we say today, when they are young, will come back to them when they are older, and they will fit those words, for better and for worse, into the narrative of their lives.
+
+# Don’t Merge Like This
+
+- Her father shrugged because he had not placed any of his identity into what college his daughter got into. Perhaps he could have done a little better at understanding how much of her identity had been put into it. But then again, maybe that was the point. He wanted to show her how little it actually mattered—how her success or failure in life was going to be based on something far less superficial than college admissions.
+
+- And so it must go with us. We encourage our children. We want to set them up to succeed. But we can’t merge their glory into our own. We can’t let them think they have to impress us, make us proud, or worry that they have let us down or failed us. Certainly, we can’t let them think that where they go (or don’t go) to school has any bearing on who they are to us... or what they can do with their lives.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
