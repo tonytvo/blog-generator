@@ -1781,6 +1781,19 @@ get broken. A kid’s room should look like it was played in. A home should feel
 
 - And so it must go with us. We encourage our children. We want to set them up to succeed. But we can’t merge their glory into our own. We can’t let them think they have to impress us, make us proud, or worry that they have let us down or failed us. Certainly, we can’t let them think that where they go (or don’t go) to school has any bearing on who they are to us... or what they can do with their lives.
 
+# It Should Be the Easiest Thing in the World
+
+- parenting is very hard. Keeping your kids safe. Keeping them fed. Keeping them in the best schools, making sure they get good grades in those schools. We have to do all this as we navigate a world where Murphy’s Law is real, where bills have to get paid, where we have our own crap to deal with that no one is going to handle for us.
+
+- In that sense, parenting is an impossible job with impossible expectations. Yet in another, very real sense, being a parent is actually about the easiest job
+in the world. Because what do they really need? What is really demanded of you? That you love them. That you accept them. That you support and encourage them. That you cheer for them. That you be their biggest fan.
+
+- And here’s the thing: death can’t stop you from doing those things either, because if you do them now—if you give your kids what they need cheerfully, regularly, sincerely—it will stick with them as a voice in their heads for as long as they and their own children live.
+
+# They Need Somebody to Do This
+
+- Every kid needs someone who believes in them. Why was Muhammad Ali such a great fighter? Because somebody fought for him. You know who can do this for your kids? Who has to be that first, loudest, most resolute cheerleader for them? You.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
