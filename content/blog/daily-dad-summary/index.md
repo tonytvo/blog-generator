@@ -1794,6 +1794,20 @@ in the world. Because what do they really need? What is really demanded of you? 
 
 - Every kid needs someone who believes in them. Why was Muhammad Ali such a great fighter? Because somebody fought for him. You know who can do this for your kids? Who has to be that first, loudest, most resolute cheerleader for them? You.
 
+# Give Them Plenty of These
+
+- Nobody needs a pat on the back more than your kids... and there’s nobody they’d rather get it from than you. Take an extra beat today to let your kids know what’s special about them. Give them that pat on the back.
+
+# You Are the Toy
+
+- your son asks you to play trains, so you get the track down from the shelf. Your daughter wants to do a puzzle, so you start laying out the pieces. Then for some reason that is beyond the grasp of every parent who has ever lived, the moment you do what they say they want, they suddenly lose interest. Or they won’t play by the rules, or they ask for something else, or now they want to move to a different room. 
+
+- If you get exasperated—What toy do you want?!—you are missing the point. Or at least misunderstanding it. You see, you are the toy. What they want is to play with you—they don’t want to be given a puppet, they want to pull your puppet strings. 
+
+- When you understand this, everything is easier—no matter what age they are. Why is your teenager rebelling? In part, to get a rise out of you. Why is your middle-schooler being a smart aleck? To see how you’ll respond. Why is your toddler calling for water from their bedroom, only to change their mind to juice, only to explain they meant the other juice, only to now ask to go to the bathroom. Because it’s funny. Because it’s a game. Because they’re playing with the little bit of power they have in this strange, uncontrollable world: their power over the adults who have power over them. 
+
+- So relax. Just go with it. Understand what’s happening. It’s not about the puzzle. It’s not about anything. You are the toy.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
