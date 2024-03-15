@@ -29,6 +29,7 @@ tags: ["valueinvesting", "investing"]
 - **Most of us think we know more than we actually do. We think this because we ignore complexity and believe that our brain, like a computer, is designed to store information. This isn’t the case. Rather, our brains evolved to work with other brains and to engage in collaborative activities. Indeed, it’s our ability to divide cognitive labor and share intentionality that’s led to our species’s success. So, when thinking about intelligence, we should take into account people’s collaborative aptitude, and we’d do well to encourage more collaboration – not just in school, but in society as a whole.**
 - **Don’t let the illusion of explanatory depth drain your bank account.**
 
+- [thinking fast and slow info graphics](./thinking-fast-and-slow-info-graphics.jpeg)
 
 # 2 Systems
 
