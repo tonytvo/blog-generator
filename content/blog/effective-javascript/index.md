@@ -1219,7 +1219,7 @@ In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is
 * [prefer 'Object.getPrototypeOf' to '__proto__'](./prefer-getPrototypeOf-__proto__.js)
 * [make your constructors 'new'-Agnostic](./constructor-new-agnostic.js)
 * [Use closures to store private data](./use-closure-store-private-data.js)
-* [item 36](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_36.js)
+* [store instance state only on instance objects](./store-instance-state-on-instance-objects.js)
 * [item 37](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_37.js)
 * [item 38](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_38.js)
 * [item 39](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_39.js)
