@@ -1220,7 +1220,7 @@ In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is
 * [make your constructors 'new'-Agnostic](./constructor-new-agnostic.js)
 * [Use closures to store private data](./use-closure-store-private-data.js)
 * [store instance state only on instance objects](./store-instance-state-on-instance-objects.js)
-* [item 37](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_37.js)
+* [recognize implicit binding of this](./implicit-binding-this.js)
 * [item 38](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_38.js)
 * [item 39](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_39.js)
 * [item 40](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_40.js)
