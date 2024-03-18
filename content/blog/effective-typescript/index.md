@@ -5,6 +5,36 @@ description: "effective typescript summary"
 tags: ["agiletechnicalpractices", "programming"]
 ---
 
+# Understand the relationship between typescript and javascript
+
+- If you're migrating an existing javascript codebase to typesript. It means that you don't have to rewrite any of your code in another language to start using TypeScript and get the benefits it provides.
+
+- one of the goals of TypeScript's type system is to detect code that will throw an exception at runtime, without having to run your code. The type checker cannot always spot code that will throw exceptions, but it will try.
+
+- type annotations tell TypeScript what your intent is, and this lets it spot places where your code's behavior does not match your intent.
+
+- [typescript is superset of javascript](./ts-superset-js.png)
+
+- Things to remember
+  - TypeScript is a superset of JavaScript. In other words, all JavaScript programs are already TypeScript programs. TypeScript has some syntax of its own, so typeScript programs are not, in general, valid JavaScript programs.
+  - TypeScript adds a type system that models JavaScript's runtime behavior and tries to spot code which will throw exceptions at runtime. But you shouldn't expect it to flag every exception. It is possible for code to pass the type checker but still throw at runtime.
+  - While TypeScript's type system largely models JavaScript behavior, there are some constructs that JavaScript allows but TypeScript chooses to bar, such as calling functions with the wrong number of arguments. This is largely a matter of taste.
+
+# know which TypeScript Options You're Using
+
+- if you mean to allow null, you can fix the error by making your intent explicit:
+```javascript
+const x: number | null = null;
+```
+
+- **Things to Remember**
+  - The TypeScript compiler includes several settings which affect core aspects of the language.
+  - Configure TypeScript using tsconfig.json rather than command-line. options.
+  - Turn on noImplicit Any unless you are transitioning a JavaScript project to TypeScript.
+  - Use strictNullChecks to prevent "undefined is not an object”- style runtime errors.
+  - Aim to enable strict to get the most thorough checking that TypeScript can offer.
+
+
 
 # Avoid Cluttering Your Code with Inferable Types
 
