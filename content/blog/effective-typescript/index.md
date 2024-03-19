@@ -34,6 +34,100 @@ const x: number | null = null;
   - Use strictNullChecks to prevent "undefined is not an object”- style runtime errors.
   - Aim to enable strict to get the most thorough checking that TypeScript can offer.
 
+# Understand Evolving any
+
+- example 1:
+```javascript
+const result = [];  // Type is any[]
+result.push('a');
+result  // Type is string[]
+result.push(1);
+result  // Type is (string | number)[]
+```
+
+- Implicit any types do not evolve through function calls. The arrow function here trips up inference:
+
+```javascript
+function makeSquares(start: number, limit: number) {
+  const out = [];
+     // ~~~ Variable 'out' implicitly has type 'any[]' in some locations
+  range(start, limit).forEach(i => {
+    out.push(i * i);
+  });
+  return out;
+      // ~~~ Variable 'out' implicitly has an 'any[]' type
+}
+```
+  - In cases like this, you may want to consider using an array's map and filter methods to build arrays in a single statement and avoid iteration and evolving any entirely
+
+
+- **Things to Remember**
+  - While TypeScript types typically only refine, implicit any and any[] types are allowed to evolve. You should be able to recognize and understand this construct where it occurs.
+  - For better error checking, consider providing an explicit type annotation instead of using evolving any.
+
+# push null values to the perimeter of your types
+
+- example 1:
+  - avoid
+```javascript
+let min, max;
+...
+return [min, max];
+```
+  - better approach would be:
+```javascript
+let result: [number, number] | null = null;
+...
+return result;
+```
+
+- mix of null and non-null values can also lead to problems in classes. For example
+```javascript
+class UserPosts {
+  user: UserInfo | null;
+  posts: Post [] | null;
+
+  constructor () {
+    this.user = null;
+    this.posts = null;
+  }
+
+  async init(userId: string) {
+    return Promise.all([
+      async () => this.user = await fetchUser(userId),
+      async () => this.posts = await fetchPostsForUser(userId)
+    ]);
+  }
+}
+```
+  - better design would wait until all the data used by the class is available
+```javascript
+class UserPosts {
+  user: UserInfo;
+  posts: Post [];
+
+  constructor () {
+    this.user = null;
+    this.posts = null;
+  }
+
+  async init(userId: string) {
+    const [user, posts] = Promise.all([
+      async () => this.user = await fetchUser(userId),
+      async () => this.posts = await fetchPostsForUser(userId)
+    ]);
+    return new UserPosts(user, posts);
+  }
+}
+```
+
+- don't be tempted to replace nullable properties with promises. This tends to lead to even more confusing code and forces all your methods to be async. Promises clarify the code that loads data but tend to have the opposite effect on the class that uses that data.)
+
+- **Things to Remember**
+  - Avoid designs in which one value being null or not null is implicitly related to another value being null or not null.
+  - Push null values to the perimeter of your API by making larger objects either null or fully non-null. This will make code clearer both for human readers and for the type checker.
+  - Consider creating a fully non-null class and constructing it when all values are available.
+  - While strictNullChecks may flag many issues in your code, it's indispensable for surfacing the behavior of functions with respect to null values.
 
 
 # Avoid Cluttering Your Code with Inferable Types
