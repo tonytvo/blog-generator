@@ -8,6 +8,19 @@ tags: ["selfdevelopment", "investing"]
 # info graphics
 
 - [die with zero summary](./Die-with-Zero-Info-Graphic.jpg)
+- [atomic habits mind maps](./atomic_habits-mind-maps.pdf)
+
+# Main Takeaways
+- “Small habits don’t add up. They compound.” – James Clear
+- Habits are really about identity change. Behaviour change is simply the means to get there (feedback loop).
+- The reward that closes the habit loop is often the satisfaction of the craving. We don’t desire external behaviour. We want the sensations that come with it.
+- Stop trying to be a hero. (“Environment is the invisible hand that shapes human behaviour.” – James Clear)
+- The goal is not to fill your day with meaningless lifehacks. Focus on the big rocks and learn to embody your values/identity with small wins. “Standardize before you optimize” – James Clear
+- “Sometimes success is less about making good habits easy and more about making bad habits hard.” – James Clear
+- Focus on the decisive moments. Which habit/decision has a domino effect on the rest of your day?
+- Track process metrics over outcome metrics. We can’t control the outcomes. Identify with showing up.
+- Commitment devices are a powerful tool when combined with social accountability. Design your social environment.
+- “Genes do not eliminate the need for hard work. They clarify it. They tell us what to work on.” – James Clear
 
 # Quotes
 
