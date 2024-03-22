@@ -22,6 +22,34 @@ tags: ["selfdevelopment", "investing"]
 - Commitment devices are a powerful tool when combined with social accountability. Design your social environment.
 - “Genes do not eliminate the need for hard work. They clarify it. They tell us what to work on.” – James Clear
 
+# Why Tiny Changes Make a Big Difference
+
+## The Surprising Power of Atomic Habits
+
+- Small deviations expand with time.
+  - A plane off by 3.5 degrees when it takes flight results in hundreds of miles of error.
+- “Your outcomes are a lagging measure of your habits.” – James Clear
+- Progress is like an ice cube sitting in a warming cold room.
+  - The overnight success takes 10 years of build-up.
+  - Cancer spends 80% of its life undetectable, then takes over the body in months.
+  - Bamboo can barely be seen for the first five years (roots) before exploding 90 feet into the air within six weeks.
+  - “Your work was not wasted; it is just being stored.” – James Clear
+  - San Antonio Spurs locker room quote
+    - stonecutter hammering 100 times with nothing. Yet at the 101 blow, it will split in two.
+- The Plateau of Latent Potential & Valley of Disappointment
+  - [Plateau of Latent Potential](./plateau-latent-potential.png)
+- Systems > Goals
+  - Problem #1: Winners and losers have the same goals.
+  - Problem #2: Achieving a goal is only a momentary change.
+  - Problem #3: Goals restrict your happiness.
+    - “Desire is a contract that you make with yourself to be unhappy until you get what you want.” – Naval Ravikant
+  - Problem #4: Goals are at odds with long-term progress.
+    - “The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game.” – James Clear
+  - You do not need to choose between the two. Systems need a goal as a direction/compass.
+  - “You do not rise to the level of your goals. You fall to the level of your systems.” – James Clear
+
+
+
 # Quotes
 
 
