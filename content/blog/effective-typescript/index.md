@@ -34,6 +34,133 @@ const x: number | null = null;
   - Use strictNullChecks to prevent "undefined is not an object”- style runtime errors.
   - Aim to enable strict to get the most thorough checking that TypeScript can offer.
 
+# understand that code generation is independent of types
+
+- At a high level, tsc (the TypeScript compiler) does two things:
+  - It converts next-generation TypeScript/JavaScript to an older version of JavaScript that works in browsers ("transpiling").
+  - It checks your code for type errors.
+- The types in your code cannot affect the JavaScript that TypeScript emits. Since it's this JavaScript that gets executed, this means that your types can't affect the way your code runs.
+- Code with Type Errors Can Produce Output because Because code output is independent of type checking
+
+```bash
+$ cat test.ts
+let x 'hello';
+X = 1234;
+$ tsc test.ts
+test.ts:2:1- error TS2322: Type '1234' is not assignable to type 'string'
+2 x = 1234;
+
+$ cat test.js
+var x = 'hello';
+x = 1234;
+```
+
+- You can think of all TypeScript errors as being similar to warnings in those languages: it's likely that they indicate a problem and are worth investigating, but they won't stop the build.
+  - It's better to say that your code has errors, or that it "doesn't type check."
+
+- You should aim for zero errors when you commit code, lest you fall into the trap of having to remember what is an expected or unexpected error. If you want to disable output on errors, you can use the noEmitOnError option in tsconfig.json, or the equivalent in your build tool.
+
+- **You Cannot Check TypeScript Types at Runtime**
+
+
+- **Things to Remember**
+  - Code generation is independent of the type system. This means that TypeScript types cannot affect the runtime behavior or performance of your code.
+    - the TypeScript compiler will introduce build time overhead. The TypeScript team takes compiler performance seriously and compilation is usually quite fast, especially for incremental builds. If the overhead becomes significant, your build tool may have a "transpile only" option to skip the type checking.
+    - The code that TypeScript emits to support older runtimes may incur a performance overhead vs. native implementations. For example, if you use generator functions and target ES5, which predates generators, then tsc will emit some helper code to make things work. This may have some overhead vs. a native implementation of generators. In any case, this has to do with the emit target and language levels and is still independent of the types.
+```javascript
+function as Number (val: number | string): number {
+  return val as number;
+}
+// Looking at the generated JavaScript makes it clear what this function really does:
+function as Number (val) {
+  return val;
+}
+
+//There is no conversion going on whatsoever. The as number is a type operation, so it cannot affect the runtime behavior of your code. To normalize the value you'll need to check its runtime type and do the conversion using JavaScript constructs:
+function asNumber (val: number | string): number {
+  return typeof(val) === 'string' ? Number(val): val;
+}
+```
+
+  - **runtime types may not be the same as declared types**
+```javascript
+function setLightSwitch (value: boolean) { 
+  switch (value) {
+    case true:
+      turnLighton();
+      break;
+    case false:
+      turnLightOff();
+      break;
+    default:
+    console.log("Im afraid I cant do that.");
+  }
+}
+// The key is to remember that boolean is the declared type. Because it is a TypeScript type, it goes away at runtime. In JavaScript code, a user might inadvertently call setLightSwitch with a value like "ON"
+```
+
+  - **You Cannot Overload a Function Based on TypeScript Types** 
+    - Languages like C++ allow you to define multiple versions of a function that differ only in the types of their parameters. This is called "function overloading" Because the runtime behavior of your code is independent of its TypeScript types, this construct isn't possible in TypeScript:
+
+```javascript
+function add(a: number, b: number) { return a + b; } // Duplicate function implementation 
+function add(a: string, b: string) { return a + b; } // Duplicate function implementation
+
+// TypeScript does provide a facility for overloading functions, but it operates entirely at the type level. You can provide multiple declarations for a function, but only a single implementation:
+function add (a: number, b: number): number;
+function add (a: string, b: string): string;
+function add (a, b) {
+  return a + b;
+}
+const three add(1, 2); // Type is number
+const twelve = add('1', '2'); // Type is string
+//The first two declarations of add only provide type information. When TypeScript produces JavaScript output, they are removed, and only the implementation remains. 
+```
+
+  - It is possible for a program with type errors to produce code ("compile").
+  - TypeScript types are not available at runtime. To query a type at runtime, you need some way to reconstruct it. Tagged unions and property checking are common ways to do this. Some constructs, such as class, introduce both a TypeScript type and a value that is available at runtime.
+```javascript
+//check for property example
+function calculate Area (shape: Shape) {
+if ('height' in shape) {
+shape; // Type is Rectangle
+return shape.width * shape.height;
+} else {
+shape; // Type is Square
+
+// tagged unions example
+interface Square {
+  kind: 'square';
+  width: number;
+}
+interface Rectangle {
+  kind: 'rectangle';
+  height: number;
+  width: number;
+}
+type Shape = Square | Rectangle;
+
+// class constructs introduce both a type and a value
+class Square {
+  constructor (public width: number) {}
+}
+class Rectangle extends Square {
+  constructor (public width: number, public height: number) { super(width); }
+}
+type Shape = Square | Rectangle;
+function calculateArea (shape: Shape) {
+  if (shape instanceof Rectangle) {
+    shape; // Type is Rectangle 
+    return shape.width * shape.height;
+  } else {
+    shape;// Type is Square return shape.width
+    return shape.width*shape.width; // OK
+  }
+}
+//this works because class Rectangle introduces both a type and a value, whereas interface only introduced a type
+//The Rectangle in type Shape = Square | Rectangle refers to the type, but the Rectangle in shape instanceof Rectangle refers to the value.
+```
+
 # Understand Evolving any
 
 - example 1:
