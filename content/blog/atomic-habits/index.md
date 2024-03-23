@@ -48,11 +48,56 @@ tags: ["selfdevelopment", "investing"]
   - You do not need to choose between the two. Systems need a goal as a direction/compass.
   - “You do not rise to the level of your goals. You fall to the level of your systems.” – James Clear
 
+## How Your Habits Shape Your Identity (and Vice Versa)
+- The Onion of change
+  - Try starting from the core and move outwards
+    - Identity ==> Processes ==> Outcomes
+
+- Identity = “repeated beingness” = (essentitas = being) + (identidem = repeatedly)
+  - “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” – Aristotle
+  - “The process of building habits is actually the process of becoming yourself.” – James Clear
+
+- The Identity-Habits Feedback Loop
+  - “Every action you take is a vote for the type of person you wish to become.” – James Clear
+  - Have a flexible identity.
+    - Need to be able to drop and add parts of our identity to change our habits long term.
+    - Bayesian Updating of our identity and beliefs
+
+- The Two-Step Process to Changing your Identity
+  - Decide the type of person you want to be.
+    - Begin with the end in mind
+    - “Identity change is the North Star of habit change.” – James Clear
+    - “Are you becoming the type of person you want to become?” – James Clear
+
+  - Prove it to yourself with small wins.
+    - Tiny Habits – BJ Fogg
+
+## How to Build Better Habits in 4 Simple Steps
+
+- We are like cats in a puzzle box (Edward Thorndike)
+  - Our brain is a prediction machine that attempts to minimize surprise (Karl Friston)
+  - Habits are programs/functions/solutions to reoccurring problems.
+    - “The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.”
+  - Correlation does not equal causation. Conditioning is correlational by definition.
+    - We can pick up faulty habits without noticing them.
+
+- “Discipline = Freedom” – Jocko Willink
+  - Being on the fence is what hurts, not necessarily being on either side.
+    - Decision fatigue
+  - You can do and enjoy more things if your big pillars are taken care of.
+    - The goal is not to fill your day with habits. It is to make room for the good stuff.
+
+- Cue ==> Craving ==> Response ==> Reward
+  - Problem Phase = (Cue + Craving)
+  - Solution Phase = (Response + Reward)
+  - The Buddhists saw craving (pulled towards) or aversion (pushed away) as the default reaction to any sensation.
+    - The reward can simply be satisfying the craving.
+
 
 
 # Quotes
 
-
+Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone. - JAMES CLEAR
 
 # References
 
