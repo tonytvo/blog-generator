@@ -1808,6 +1808,24 @@ in the world. Because what do they really need? What is really demanded of you? 
 
 - So relax. Just go with it. Understand what’s happening. It’s not about the puzzle. It’s not about anything. You are the toy.
 
+# You Must Have Their Back
+
+- “Do not speak to me,” Winston Churchill told the man coldly. “You called my son a coward. You are my enemy. Do not speak to me.”
+
+- Now, Randolph Churchill was not perfect, but that didn’t prevent his father from standing up for him, from having his back. Nor should it ever prevent us. Winston Churchill’s own father had not supported or believed in his son. Winston, deciding to do better, would not make that same mistake. He backed his son. He fought for him. He let Randolph know he could always be counted on.
+
+- We have to do the same. Our kids are going to screw up, but they need to know we’ll never write them off. Our kids need to know that we’ll take their side, that we’ll fight for them, that we’ll never let anyone wrongly abuse or attack them without hearing from us about it.
+
+# Encourage the Dream
+
+- it’s not that parents don’t believe in their kids. It’s that they know the world is hard. They know that the odds are long. And most of all, nobody wants harm or crushing disappointment to come to their children. That’s why we discourage them from dropping out, from trying to make it as a musician, from quitting their job to start a company. We’re just worried.
+
+- Roy Lee Ferrell led with support and belief: “You know what? I think you have the skill, but it takes a lot of luck. If you don’t make it, don’t worry about it. You can just try something else.”
+
+- Roy Lee was communicating to Will, from his own hard-won experience, just how hard and unlikely success was in one of those much-dreamed-of career fields. He was saying, You’re talented and I believe in you, but it’s going to be really hard, so hard that if it doesn’t work, you have to understand that it’s just a reflection on the industry and not on you as a person.
+
+- That is an incredible gift to give your children. Permission to try... along with permission to fail. The signal that you’ll support them either way, that nothing changes based on the path they choose, the heights they reach, or the marks they fall short of.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
