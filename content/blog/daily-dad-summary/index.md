@@ -1826,6 +1826,20 @@ in the world. Because what do they really need? What is really demanded of you? 
 
 - That is an incredible gift to give your children. Permission to try... along with permission to fail. The signal that you’ll support them either way, that nothing changes based on the path they choose, the heights they reach, or the marks they fall short of.
 
+# Don’t Care More Than They Do
+
+- This is a great question. Why do you care more than they do? Why are you spending so much time telling them they’ve been hurt (when they haven’t been)? Why do you need them to take everything as seriously as you do?
+
+- When our kids get older, some of these things will become their problem. But for now? Let them have their childhood. They are young; they understand and feel things differently than you do. Don’t assume that the “adult” way is better or necessarily more correct. There is a wisdom to their innocence—defer to it, or at least respect it enough not to corrupt it.
+
+# This Is a Tough Balance
+
+- as parents, we have to figure out the balance between supporting our kids and pushing them.
+
+- As parents, that’s the shifting balance we must find—and keep—at all times if we are to do right by our kids, because nobody improves in life simply by remaining where they are.
+
+- Finding that balance between pushing too hard and not falling off the swing can also help us to examine how we teach our kids about ambition and personal development. Push your kids to do their best—be pleased but never satisfied. Push them to try new things, take new chances. At the same time, be happy with their best, even if it means losing the game. Our job is to push them to new heights, and to be thrilled with wherever they land.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
