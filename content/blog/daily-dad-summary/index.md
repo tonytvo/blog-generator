@@ -1877,6 +1877,24 @@ something and somebody.”
 
 - When it comes to stuff like this, “just being there” is not enough. You have to seek them out. You have to reach out. You have to gently pry them open. You have to help them realize their own feelings. You have to be more than there—you have to be proactive.
 
+# Other People Are Trying to Do This Too
+
+- the people you work with or for, or the people who work for you, also have a life outside of work. Like you, they are a mother or a father, a son or a daughter. Like you, they have kids and relationships and struggle to balance them all. Like you, they are trying to put family first and to be a fan.
+
+- “If you show up to this plane,” Pop told him, “you’re fired.” “Come on, man! I’m going to be there.” Brown said. “Remember, if I see you on this plane, you’re fired.” Click. Pop hung up on his assistant. Brown and his boys missed their flights and spent three more days together.
+
+- Can you imagine what it would feel like to have someone do that for you? Maybe not. But maybe you could make it feel a little more real by doing it for somebody else.
+
+# Don’t Use Your Kids
+
+- social media exploits one of the most vulnerable parts of our psyche: our need to be seen and heard and validated. The brilliant programmers of these networks have discovered how to reward this addictive impulse with Likes and comments and follower counts. They turned our greatest vulnerabilities into a game.
+
+- That’s what parents should be worried about. When you’re feeling insecure and want to be validated, resist the urge to just post more photos of your kid. Ask yourself: Is this really what my kid wants? Is this really healthy or appropriate? Or is exploiting their cuteness just a cheap way to get attention and feel better about myself?
+
+- Being a fan is not about showing them off or trying to impress people—at dinner conversations or on social media. It’s not bragging about where they go to college or how cute they looked dressed up for their birthday.
+
+- Our job is to take care of them, not exploit them. Don’t turn your kids and the precious experiences you have with them into fodder for this insatiable maw.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
