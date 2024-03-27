@@ -1895,6 +1895,27 @@ something and somebody.”
 
 - Our job is to take care of them, not exploit them. Don’t turn your kids and the precious experiences you have with them into fodder for this insatiable maw.
 
+# Teach Them to Be a Good Sport
+
+- how someone handles winning and losing reveals so much about their character. The earlier kids are taught this, the more prepared they will be for the real world (which includes plenty of both).
+
+- In his essay “On Anger,” Seneca lays out some specific advice for fathers when it comes to teaching kids how to be good sports. He writes:
+  - In contests with his comrades we ought not to allow him to become sulky or fly into a passion: let us see that he be on friendly terms with those whom he contends with, so that in the struggle itself he may learn to wish not to hurt his antagonist but to conquer him: Whenever he has gained the day or done something praiseworthy, we should allow him to enjoy his victory, but not to rush into transports of delight: for joy leads to exultation, and exultation leads to swaggering and excessive self-esteem.
+
+- This is important. We want our kids to possess the will to win, but not so much that it possesses them. We want them to feel good when they win, without being so dependent or addicted to that feeling that they are crushed when, inevitably, they lose. We don’t want their success to fuel their ego, or their shortcomings on the field to lead to insecurity or self-loathing.
+
+- It is, like all things, about balance. And most of all, about being respectful, being responsible, and enjoying the process more than the results.
+
+# This Is What It Takes to Thrive
+
+- several years ago, the writer Malcolm Gladwell pointed out how surprising it is that even in the NBA, which is filled with objectively talented and elite athletes, it sometimes requires a team change or a head coaching change (or a mental-skills professional) for a player to thrive. They might have bounced around to two or three places, had multiple disappointing seasons, and then suddenly, when the environment around them is right, when they have the support they need, bam, they’re great.
+
+- His point was this: if even athletes being paid millions of dollars to perform need this, how can we possibly just expect kids to succeed in any old classroom we drop them into? We are so quick to write kids off—even our own kids—as not good at math, as a so-so student, as having trouble focusing or whatever. So quick!
+
+- But of course, environment is everything. The right supporting cast is everything. Timing is everything. We have to be patient. We have to be flexible. We can’t stop rooting for them, believing in them. We have to take a page from these sports teams that, understanding they have a very valuable asset on their hands, do not despair when things don’t immediately click. No, when things aren’t working, they invest more. They don’t blame the star. They blame the system... and then try to fix it. And the fans cheer like crazy the whole time.
+
+- Well, our kids are even more priceless than any basketball player. And their education is even more important than playing a game well.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
