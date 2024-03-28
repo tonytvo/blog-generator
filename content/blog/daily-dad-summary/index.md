@@ -1840,6 +1840,25 @@ in the world. Because what do they really need? What is really demanded of you? 
 
 - Finding that balance between pushing too hard and not falling off the swing can also help us to examine how we teach our kids about ambition and personal development. Push your kids to do their best—be pleased but never satisfied. Push them to try new things, take new chances. At the same time, be happy with their best, even if it means losing the game. Our job is to push them to new heights, and to be thrilled with wherever they land.
 
+# They Don’t Need a Lecture. They Need This.
+
+- "infinite patience, and discipline", Not only is that what your kids need, but it’s what we all need. Patience and discipline. Kindness combined with firmness. In an infinite amount. Nobody wants to be lectured. Nobody wants to be nagged. What we need is to be understood and held accountable.
+
+- Think of your own troubles as a kid. When you were acting out, when you weren’t taking school seriously, when you were getting into trouble, did getting yelled at help? What you really wanted—what you needed—was for someone to see why you were doing these things. You needed someone to guide you back to the right path and to help you realize the consequences of being off it.
+
+- Patience and discipline. That was what you needed. So give those things to your kids. They deserve it.
+
+# Be Something and Somebody
+
+- “I know you can as well as some other subjects,” he wrote. “It is encouraging to have you so improved, and I am sure you will catch on, and go on and on and be
+something and somebody.”
+
+- That’s a perfect phrase. He wasn’t telling his son he needed to get perfect scores. He wasn’t telling him that he was worthless for having come up short. Or that success was necessarily about being better than anyone else. Like Jim Valvano’s father, what the elder Harriman was saying was that he knew what his son was capable of and, more important, what is expected of a person with his potential: to be something and somebody.
+
+- We don’t necessarily need our kids to be financially successful or supremely powerful or famous. But we do expect them to make something of themselves—to be somebody, whether that’s a respected member of their small church or the head of a legislative body. And we expect them to do something, because life is a gift.
+
+- To waste it? To do the minimum? No, that’s failure for them and for us. So let’s jack up our efforts and our expectations for them.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
