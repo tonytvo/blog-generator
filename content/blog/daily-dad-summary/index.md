@@ -1859,6 +1859,24 @@ something and somebody.”
 
 - To waste it? To do the minimum? No, that’s failure for them and for us. So let’s jack up our efforts and our expectations for them.
 
+# Are You Telling Them This?
+
+- The question we have to ask ourselves is: Which path are we choosing? Are we telling them that they must continue to fulfill their potential—that it’s **imperative**? Or through our actions (or inactions) are we telling them the opposite? Have we unknowingly become dream killers, or are we actively working as dream builders?
+
+- That’s the question. And it is definitely **imperative**.
+
+- There is no benefit to quitting on oneself. Sure, you might have to face facts and choose one career path over another, but that’s not the same as *stopping*. Making money from the thing you love to do is not as important as getting better at it, as maximizing your potential.
+
+- As parents, it is imperative that we root for them, that we be fans. We have to encourage them. We have to tell them to keep going. That there are more, better things ahead. The world is going to put up enough stop signs, erect enough obstacles, deliver enough heartbreak. We don’t need to add to it. We need to do the opposite. We need to believe in them.
+
+# It’s Your Job to Check In
+
+- Your kids didn’t choose this life; you did. What does that mean? It means as your kids get older there should be none of that “Why don’t you ever call?” nagging. That’s your responsibility.
+
+- That said, if you want the kind of relationship where your kids do call and check in and share what’s going on with their lives, it starts when they’re much, much younger. When you can’t just expect them to open up and share with you. When you have to check in with them because they don’t know that they’re struggling or that there’s anything worth sharing. Kids simply don’t have the experience or the perspective yet to know one way or the other.
+
+- When it comes to stuff like this, “just being there” is not enough. You have to seek them out. You have to reach out. You have to gently pry them open. You have to help them realize their own feelings. You have to be more than there—you have to be proactive.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
