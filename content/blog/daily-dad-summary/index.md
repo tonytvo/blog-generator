@@ -1916,6 +1916,21 @@ something and somebody.”
 
 - Well, our kids are even more priceless than any basketball player. And their education is even more important than playing a game well.
 
+# Being a Fan Isn’t Easy
+
+- Being a fan of your kids is not just rooting for them at the occasional soccer game. It’s not just telling them they’re special. It’s also putting yourself out there, taking risks for them. It’s being willing to defy conventions, to encourage them to defy conventions if they feel their calling demands it.
+
+- You tried your whole life to raise a kid who is comfortable with themselves, who is confident, who is competent, who could be successful. When your efforts begin to bear fruit, real challenges will sprout up alongside. As they push the boundaries of their comfort zone, they may well push you out of yours. But that’s good! That’s what we want!
+
+- We have to believe in our kids. To be their fans. To be willing to risk with and for them. If we don’t believe in our kids, who will? Be a real fan. It’s not easy, but where would the world be if great parents had always taken the easy route?
+
+# This Is the Great Leveler
+
+- My father came from the province of León in Castile, Spain and worked for thirty-nine years in the open-hearth for the Bethlehem Steel Company. Every day, before he left for work, he would remind my sister and me how important it was to be smart. “In this life,” he would say, “the big, strong guys are always taking from the
+smaller, weaker guys but... the smart take from the strong.”
+
+- It’s simple fatherly wisdom: use your brain. It’s the secret weapon of underdogs everywhere, available to all and always free.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
