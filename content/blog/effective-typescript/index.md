@@ -161,6 +161,112 @@ function calculateArea (shape: Shape) {
 //The Rectangle in type Shape = Square | Rectangle refers to the type, but the Rectangle in shape instanceof Rectangle refers to the value.
 ```
 
+# get comfortable with structural typing javascript
+
+- javascript is inherently duck typed: if you pass a function a value with all the right properties, it won't care how you made the value. It will just use it. ("If it walks like a duck and talks like a duck...")
+
+- Understand that JavaScript is duck typed and TypeScript uses structural typing to model this: values assignable to your interfaces might have properties beyond those explicitly listed in your type declarations. Types are open and are not "sealed."
+
+
+```javascript
+// Say you're working on a physics library and have a 2D vector type:
+interface Vector2D {
+  x: number;
+  y: number;
+}
+
+//You write a function to calculate its length:
+function calculateLength(v: Vector2D) { return Math.sqrt(v.x * v.x + v.y * v.y); }
+
+// now you introduce the notion of a named vector
+interface NamedVector { name: string;
+  x: number;
+  y: number;
+}
+
+//The calculateLength function will work with NamedVectors because they have x and y properties, which are numbers. TypeScript is smart enough to figure this out
+const v NamedVector = {x: 3, y: 4, name: 'Zee' }; 
+calculateLength (v); // OK, result is 5
+
+//What is interesting is that you never declared the relationship between Vector2D and NamedVector. 
+//And you did not have to write an alternative implementation of calculateLength for NamedVectors.
+//It allowed calculateLength to be called with a NamedVector because its structure was compatible with Vector2D
+
+// this can also lead to trouble with 3D vector type as  the calculateLength only use x, y (and ignore z) to calculate the length
+interface Vector3D {
+  x: number;
+  y: number;
+  z: number;
+}
+
+
+function calculateLengthL1 (v: Vector3D) { 
+  let length = 0;
+  for (const axis of Object.keys(v)) { 
+    const coord = v[axis]; // Element implicitly has an 'any' type because
+                           // 'string' can't be used to index type 'Vector3D'
+    length + Math.abs (coord);
+  }
+  return length;
+}
+// this logic assumes that Vector3D is sealed and does not have other properties, but it could
+const vec3D = {x: 3, y: 4, z: 1, address: '123 Broadway');
+calculateLengthL1 (vec3D); // OK, returns NaN
+
+//but in this case an implementation without loops would be better:
+function calculate LengthL1 (v: Vector3D) { return Math.abs (v.x) + Math.abs (v. y) + Math.abs (v.z); }
+
+// Structural typing can also lead to surprises with classes, which are compared structurally for assignability:
+// Be aware that classes also follow structural typing rules. You may not have an instance of the class you expect!
+class C { 
+  foo: string; 
+  constructor (foo: string) { this.foo = foo; }
+}
+const c = new C('instance of C'); 
+const d: C = { foo: 'object literal' }; // OK!
+
+// Structural typing is beneficial when you're writing tests.
+// Say you have a function that runs a query on a database and processes the results:
+interface Author {
+  first: string;
+  last: string;
+}
+function getAuthors (database: PostgresDB): Author[] {
+  const authorRows = database.runQuery(`SELECT FIRST, LAST FROM AUTHORS`);
+  return authorRows.map(row => ({first: row[0], last: row[1]}));
+}
+
+// To test this, you could create a mock PostgresDB. But a better approach is to use structural typing and define a narrower interface:
+interface DB {
+  runQuery: (sql: string) => any [];
+}
+
+function getAuthors (database: DB): Author[] { 
+  const authorRows = database.runQuery(`SELECT FIRST, LAST FROM AUTHORS`);
+  return authorRows.map(row => ({first: row[0], last: row[1]}));
+}
+
+//You can still pass getAuthors a PostgresDB in production since it has a runQuery method.
+//Because of structural typing, the PostgresDB doesn't need to say that it implements DB.
+test('getAuthors', () => {
+  const authors = getAuthors ({ 
+    runQuery(sql: string) {
+      return [['Toni', 'Morrison'], ['Maya', 'Angelou']];
+    }
+  });
+
+  expect (authors).toEqual([
+    {first: 'Toni', last: 'Morrison'},
+    {first: 'Maya', last: 'Angelou'}
+  ]);
+});
+
+// TypeScript will verify that our test DB conforms to the interface. 
+// And your tests don't need to know anything about your production database: no mocking libraries necessary!
+// By introducing an abstraction (DB), we've freed our logic (and tests) from the details of a specific implementation (PostgresDB).
+// Another advantage of structural typing is that it can cleanly sever dependencies between libraries.
+```
+
 # Understand Evolving any
 
 - example 1:
