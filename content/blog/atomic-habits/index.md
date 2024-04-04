@@ -93,7 +93,27 @@ tags: ["selfdevelopment", "investing"]
   - The Buddhists saw craving (pulled towards) or aversion (pushed away) as the default reaction to any sensation.
     - The reward can simply be satisfying the craving.
 
+# The 1st Law – Make It Obvious
 
+## The Man Who Didn’t Look Right
+- We can pick up habits subconsciously.
+  - Our brain associates cues with conditioning.
+  - Once the habit becomes automatic, it can become invisible.
+
+- You need to be aware of your habits before you can consciously change them.
+  - The process of behaviour change always starts with **awareness**.
+  - [Pointing-and-Calling](https://en.wikipedia.org/wiki/Pointing_and_calling) raises awareness by verbalizing. It helps prevent train accidents caused by  habituation.
+  - You can point-and-call when you are about to run a habit.
+    - The written and spoken word bring abstract concepts into reality.
+
+- The [Habit Scorecard](https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf) (Tracking) is a simple tool to raise your awareness.
+  - “There are no good habits or habits. There are only effective habits.” – James Clear
+  - “Does this behaviour help me become the type of person I wish to be?”
+  - “Does this habit cast a vote for or against my desired identity?”
+
+- Simply observe.
+  - The goal of tracking is not to change your behaviour. Track without judgement.
+  - It is analogous to the non-judgement aspect of meditation. Try to observe yourself as a third person.
 
 # Quotes
 
@@ -118,3 +138,4 @@ Building better habits isn’t about littering your day with life hacks. It’s 
 - https://theprocesshacker.com/blog/atomic-habits-james-clear-book-summary/
 - https://tylerdevries.com/book-summaries/atomic-habits/
 - https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
+- https://duddhawork.com/blog/atomic-habits/
