@@ -115,6 +115,26 @@ tags: ["selfdevelopment", "investing"]
   - The goal of tracking is not to change your behaviour. Track without judgement.
   - It is analogous to the non-judgement aspect of meditation. Try to observe yourself as a third person.
 
+## The Best Way to Start a New Habit
+- Implementation Intention
+  - The two most common cues are time and location.
+  - When situation X arises, I will perform Y.
+  - “I will [BEHAVIOR] at [TIME] in [LOCATION].”
+  - Be specific. “I want to eat healthier.” ==> “I will [drink a green smoothie] at [my alarm at 7 am] in [the kitchen].
+
+- If you aren’t sure when to start your habit, try the first day of the week, month, or year.
+- Habit Stacking
+  - The Diderot Effect: The tendency for one purchase to lead to another.
+  - “No behaviour happens in isolation. Each action becomes a cue that triggers the next behaviour.” – James Clear
+  - “After I [CURRENT HABIT], I will [NEW HABIT].”
+  - You can use a behaviour you already do each day as the cue for a new habit.
+    - Wake up ==> Make my bed ==> Place a book on my pillow ==> Take a shower
+    - Make sure your established cue occurs at the same frequency as the desired habit.
+    - Brainstorm two lists for potential cues.
+      - Habits you perform without fail (brush teeth, get out of bed, do dishes, …).
+      - Things that happen to you without fail (you get a notification, you eat a meal, go to the washroom, …).
+  - The cue needs to be immediately actionable.
+
 # Quotes
 
 Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone. - JAMES CLEAR
