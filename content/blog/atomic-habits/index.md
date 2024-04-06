@@ -135,6 +135,26 @@ tags: ["selfdevelopment", "investing"]
       - Things that happen to you without fail (you get a notification, you eat a meal, go to the washroom, …).
   - The cue needs to be immediately actionable.
 
+## “Environment is the invisible hand that shapes human behaviour.” – James Clear
+- **Behaviour** is a function of the **Person** in their **Environment**. B = f(P, E)
+  - [Fogg Behaviour Model](https://behaviormodel.org/): Behaviour = f(Motivation, Ability, Prompt): B = MAP
+- The most powerful human sense is vision when it comes to cues/triggers/prompts.
+  - “A small change in what you see can lead to a big shift in what you do.” – James Clear
+- Design your environment.
+  - “If you want to make a habit a big part of your life, make your cue a big part of your environment.” – James Clear
+  - Design in more cues for desired habits. Eliminate cues for the habits you are trying to break.
+    - Apples on the counter (obvious). Junk in the bottom of the closet (invisible).
+    - Put the odds in your favour.
+
+- Eventually, the context (time, location, people, … ) will become the cue.
+  - “Our behaviour is not defined by the objects in the environment but by our relationship to them.” – James Clear
+  - Couch = reading spot | couch = Netflix & Snacks, bed = sleep | bed = social media + emails
+  - Habits can be easier to change in a new environment.
+    - I quit Instagram on my first trip.
+  - One space one use.
+    - Reading chair, writing desk, eating table
+    - Work laptop, reading Kindle, Netflix TV, social media tablet, phone for messages and calls.
+
 # Quotes
 
 Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone. - JAMES CLEAR
