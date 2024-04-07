@@ -155,6 +155,19 @@ tags: ["selfdevelopment", "investing"]
     - Reading chair, writing desk, eating table
     - Work laptop, reading Kindle, Netflix TV, social media tablet, phone for messages and calls.
 
+## The Secret to Self-Control
+- “Disciplined people are better at structuring their lives in a way that does not require heroic willpower and self-control.”
+  - “The people with the best self-control are the people who need to use it the least.”
+- Cue-induced wanting
+  - Your brain can pick up on cues subconsciously and you’ll begin to crave something.
+- “You can break a bad habit, but you’re unlikely to forget it.”
+  - Strong neural pathways are like a bush road. After years of no usage, trees and weeds will start to grow back and slowly swallow the road. Despite that, it would still be easier to walk on the half-swallowed road than the forest.
+- Environment >= Willpower
+  - Short-term: Willpower can be used to avoid acute temptation.
+  - Long-term: The environment we are in will have a bigger impact than our willpower does.
+- “Make the cues of your good habits obvious and the cues of your bad habits invisible.”
+  - Stop trying to be a hero and resist temptations. Eliminate and limit cues at their source.
+
 # Quotes
 
 Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone. - JAMES CLEAR
