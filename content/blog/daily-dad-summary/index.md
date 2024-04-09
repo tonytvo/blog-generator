@@ -1931,6 +1931,24 @@ smaller, weaker guys but... the smart take from the strong.”
 
 - It’s simple fatherly wisdom: use your brain. It’s the secret weapon of underdogs everywhere, available to all and always free.
 
+# This Is How You Teach Them
+
+- if the Bible is any indication, Jesus rarely seemed to come out and say what he meant. He preferred, instead, to employ parables and stories and little anecdotes that made you think. He tells the story of the servants and the talents. He tells the stories of the Prodigal Son, the Good Samaritan, the mustard seed, and the lost sheep. Turns out, that’s a pretty effective way to get a point across and make it stick.
+
+- And so it will be with your kids. We learn through stories—whether it’s the story of Cincinnatus or a story about the time when you were their age. We learn when people share moments of vulnerability, of their hard-won experience. We don’t like it when people tell us the point; we like it when they show us.
+
+- So stop thinking about giving them all the answers and start thinking about stories to tell that make the answers self-evident. It’s the best way to teach.
+
+# Introduce Them to the (Friendly) World of Ideas
+
+- Our first job, our first responsibility, is instilling a sense of learning, a sense of a love of learning, in our kids. — BARACK OBAMA
+
+- “They introduced us to a world of great ideas —not a fearful place, but a place to enjoy.”
+
+- You must teach your kids to be curious, to be open, to be willing to explore. Your job is to teach them how to make their own informed opinions, how to decide for themselves, how to be comfortable with uncomfortable topics. Ideas are our friends. They will serve your children well, and your children will serve them well, if you teach them early and often.
+
+- The world is a place of great ideas. There is nothing to be afraid of... except fear and ignorance.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
