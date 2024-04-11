@@ -269,70 +269,49 @@ test('getAuthors', () => {
 
 # limit use of the any Type
 
+- The "any type" effectively silences the type checker and TypeScript language services. It can mask real problems, harm developer experience, and undermine confidence in the type system. Avoid using it when you can!
 
-TypeScript's type system is gradual and optional: gradual because you can add types to your code bit by bit and optional because you can disable the type checker whenever you like. The key to these features is the any type:
-//
+- TypeScript's type system is *gradual and optional*: *gradual* because you can add types to your code bit by bit and *optional* because you can disable the type checker whenever you like. The key to these features is the any type:
+
+```javascript
 let age: number;
-age = '12';
-NNN
-Type "12" is not assignable to type 'number'
+age = '12'; // Type "12" is not assignable to type 'number'
 age = '12' as any; // OK
-The type checker is right to complain here, but you can silence it just by typing as any. As you start using TypeScript, it's tempting to use any types and type assertions (as any) when you don't understand an error, think the type checker is incorrect, or simply don't want to take the time to write out type declarations. In some cases this may be OK, but be aware that any
+//The type checker is right to complain here, but you can silence it just by typing as any.
+```
 
+- **There's No Type Safety with any Types**
+  - In the preceding example, the type declaration says that age is a number. But any lets you assign a string to it. The type checker will believe that it's a number (that's what you said, after all), and the chaos will go uncaught:
 
-eliminates many of the advantages of using TypeScript. You should at least understand its dangers before you use it.
-There's No Type Safety with any Types
-In the preceding example, the type declaration says that age is a number. But any lets you assign a string to it. The type checker will believe that it's a number (that's what you said, after all), and the chaos will go uncaught:
+```javascript
 age += 1; // OK; at runtime, age is now "121"
-any Lets You Break Contracts
-When you write a function, you are specifying a contract: if the caller gives you a certain type of input, you'll produce a certain type of output. But with an any type you can break these contracts:
-function calculateAge (birthDate: Date): number { // ...
+```
+
+- **any Lets You Break Contracts**
+
+  - When you write a function, you are specifying a contract: if the caller gives you a certain type of input, you'll produce a certain type of output. But with an any type you can break these contracts:
+
+```javascript
+function calculateAge (birthDate: Date): number { // ... 
 }
 let birthDate: any = '1990-01-19'; calculateAge (birthDate); // OK
-The birth date parameter should be a Date, not a string. The any type has let you break the contract of calculateAge. This can be particularly problematic because JavaScript is often willing to implicitly convert between types. A string will sometimes work where a number is expected, only to
-break in other circumstances.
-There Are No Language Services for any Types
-When a symbol has a type, the TypeScript language services are able to provide intelligent autocomplete and contextual documentation (as shown in Figure 1-3).
-let person= person.
-{ first: 'George', last: 'Washington' };
-first last
-Figure 1-3. The TypeScript Language Service is able to provide contextual autocomplete for symbols with types.
-but for symbols with an any type, you're on your own (Figure 1-4). let person: any first: 'George', last: 'Washington' }; person.
-Figure 1-4. There is no autocomplete for properties on symbols with any types. Renaming is another such service. If you have a Person type and functions to format a person's name:
-interface Person { first: string; last: string;
+```
 
+- **There Are No Language Services for any Types**
+  - When a symbol has a type, the TypeScript language services are able to provide intelligent autocomplete and contextual documentation  but for symbols with an any type, you're on your own
+
+  - Renaming is another such service. If you have a Person type and functions to format a person's name:
+
+```javascript
+interface Person { first: string; last: string;
 
 }
 const formatName = (p: Person) => `${p.first} ${p.last}`; const formatNameAny = (p: any) => `${p.first} ${p.last}`;
-then you can select first in your editor, choose "Rename Symbol," and change it to firstName (see Figures 1-5 and 1-6).
-interface Person {
-}
-first string
-li Go to Definition
-Go to Type Definition
-F12
-XF12
-interface Person {
-}
-first: string;
-firstName
-Figure 1-6. Choosing the new name. The TypeScript language service ensures that all uses of the symbol in the project are also renamed. This changes the formatName function but not the any version:
-F12
-}
-Peek Definition
-Find All References
-Peek References
-Rename Symbol
-F2
-Figure 1-5. Renaming a symbol in vscode.
-F12
-interface Person {
-firstName: string;
-last: string;
-const formatName = (p: Person) =>
-${p.firstName} ${p.last}`; const formatNameAny (p: any) => `${p.first} ${p.last}`;
-TypeScript's motto is "JavaScript that scales." A key part of "scales" is the language services, which are a core part of the TypeScript experience (see Item 6). Losing them will lead to a loss in productivity, not just for you but for everyone else working with your code.
-any Types Mask Bugs When You Refactor Code
+```
+
+  - TypeScript's motto is "JavaScript that scales." A key part of "scales" is the language services, which are a core part of the TypeScript experience. Losing them will lead to a loss in productivity, not just for you but for everyone else working with your code.
+
+- **any Types Mask Bugs When You Refactor Code**
 Suppose you're building a web application in which users can select some sort of item. One of your components might have an onSelectItem
 
 
@@ -365,7 +344,7 @@ Every time you make a mistake and the type checker catches it, it boosts your co
 TypeScript aims to make your life easier, but TypeScript with lots of any types can be harder to work with than untyped JavaScript because you have to fix type errors and still keep track of the real types in your head. When your types match reality, it frees you from the burden of having to keep type information in your head. TypeScript will keep track of it for you.
 For the times when you must use any, there are better and worse ways to do it. For much more on how to limit the downsides of any, see Chapter 5.
 Things to Remember
-• The any type effectively silences the type checker and TypeScript language services. It can mask real problems, harm developer experience, and undermine confidence in the type system. Avoid using it when you can!
+ The "any type" effectively silences the type checker and TypeScript language services. It can mask real problems, harm developer experience, and undermine confidence in the type system. Avoid using it when you can!
 
 
 # Understand Evolving any
