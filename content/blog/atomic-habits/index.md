@@ -168,6 +168,75 @@ tags: ["selfdevelopment", "investing"]
 - “Make the cues of your good habits obvious and the cues of your bad habits invisible.”
   - Stop trying to be a hero and resist temptations. Eliminate and limit cues at their source.
 
+# The 2nd Law – Make It Attractive
+
+## How to Make a Habit Irresistible
+
+- Supernormal Stimuli
+  - Calorie-dense foods, photoshopped models, social media likes, porn, ads, online shopping, drugs, video games,...
+  - How many of those stimuli are you exposed to on a daily basis?
+  - No amount of willpower can modulate behaviour when constantly exposed to supernormal stimuli.
+
+- “Desire is the engine that drives behaviour.”
+  - Craving == > Response
+  - Rats died of thirst (plenty of water available) when their dopamine was inhibited.
+  - You release dopamine when you **anticipate** pleasure and a little when you actually experience it.
+    - “It is the anticipation of a reward – not the fulfillment of it – that gets us to take action.”
+    - The same system in the brain is responsible for experiencing a reward and anticipating it.
+  - [The Molecule of More](https://duddhawork.com/blog/the-molecule-of-more-book-notes/) – Daniel Z. Lieberman
+  - [it is the expectation of reward that drives our behavior](./dopamine-spike.pdf)
+
+- Temptation Bundling
+  - Pair an action you want to do with an action you need to do.
+  - Habit Stacking + Temptation Bundling Formula
+    - After I [CURRENT HABIT], I will [HABIT I NEED].
+    - After [HABIT I NEED], I will [HABIT I WANT].
+
+## The Role of Familiy and Friends in Shaping Your Habits
+- We are social animals
+  - “The lone wolf dies, but the pack survives.” – Game of Thrones
+  - Our culture determines which behaviours are attractive to us because we want to fit in.
+
+- The three groups we imitate
+  - The close (friends & family)
+    - “You are the average of the five people you spend the most time with.” – Jim Rohn
+  - The many (the tribe)
+    - Chimps who found a better way to crack nuts will revert to less effective techniques to fit in.
+    - “When changing your habits means fitting in with the tribe, change is very attractive.”
+  - The powerful (the few with status & prestige)
+    - We try to copy the habits of highly effective people.
+    - “Once we fit in, we start looking for ways to stand out.”
+    - Who do you look up to? Are they living the lifestyle you are trying to live?
+
+- Join a culture where
+  - your desired behaviour is the norm
+  - you already have something in common with the group
+
+- Singular Identity ==> group Identity
+  - I am a reader ==> We are readers.
+
+## How to Find and Fix the Causes of Your Bad Habits
+- Make it unattractive
+  - You can reframe a concept in a way that makes it unattractive.
+  - Allen Carr’s Easy Way To Stop Smoking – Allen Carr
+  - “I have to” ==> “I get to” | Burdens ==> Opportunities
+
+- “A craving is just a specific manifestation of a deeper underlying motive.”
+  - Find love and reproduce = Tinder, connect & bond = Facebook, reduce uncertainty = Google
+  - You can satisfy the underlying motives in healthier ways. Your brain just associated quick-fix strategies.
+
+- “Life feels reactive, but it is actually predictive.”
+  - “The cause of your habits is actually the prediction that precedes them.”
+
+- A craving/aversion is to change your internal state; not your external environment.
+  - We don’t want/crave external behaviour. We want the sensations that come with it.
+  - “What you really want is to feel different.”
+  - We can’t make decisions without emotions since nothing is good or bad.
+    - Our value systems are mostly built upon shared emotional responses to stimuli.
+
+- Create a motivation ritual.
+  - Do something you enjoy immediately before a difficult habit.
+
 # Quotes
 
 Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone. - JAMES CLEAR
