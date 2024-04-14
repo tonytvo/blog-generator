@@ -1986,6 +1986,26 @@ dry.
 
 - Not just people, not just heroes or the dynastically wealthy, but your kids too. They can do this. And in helping them realize that, you are making your own impact.
 
+# Are You Bringing This Home?
+
+- It might not seem like a toy could change a child’s life, but of course it can. Toys are more than just things to play with. They are worlds to discover. They are things to be responsible for. They are things to take apart and put back together. They are laboratories for life.
+
+- We spend a lot of time introducing our kids to the world of ideas. Let’s also carve out some time to bring home cool toys. Toys with educational value. Toys that teach them about other cultures. Toys that get them
+interested in flight or science or math or history or technology. Toys that are, in and of themselves, vessels for ideas.
+
+- Who knows what might come from their exploration of fun.
+
+# Teach Them to Notice
+
+- when former diplomat and secretary of defense Robert Lovett was a kid, he and his dad took similar routes in the morning and evening to work and to school. And the fact that they left both places at slightly different times allowed Lovett and his dad to play an interesting game. 
+
+- At night after dinner, according to biographers Walter Isaacson and Evan Thomas, Lovett’s dad would ask questions about what he had seen. “ ‘How many horses were pulling the cart?’ he would ask about a midtown
+construction project. ‘How many girders were in the cart?’ ‘How were the horses hitched to the cart?’ ” There would be a few quarters as a reward if young Robert was right, but he could be docked a quarter from his winnings if he got anything wrong.
+
+- This was more than just a silly activity they did together, although such things are wonderful. What his father was teaching him was the art of paying attention. Robert was learning to notice, to focus on the details and not to take his surroundings for granted, to be present. It was a skill he used to great advantage as he rose through the diplomatic ranks of the State Department. 
+
+- Of course, you don’t have to play the same game, but you can find your own way to reward and inspire your kids to pay attention. The quarters and the pats on the back they might win will be nice in the moment, but they will pale in comparison to the value of the real gift you’ll have given them, which will last them a lifetime.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
