@@ -268,16 +268,19 @@ tags: ["selfdevelopment", "investing"]
 - Reduce friction associated with good behaviours.
   - Limbic friction by Andrew Huberman.
   - [Elephant and the rider](https://youtu.be/X9KP8uiGZTs) analogy. The Happiness Hypothesis – Jonathan Haidt
-Connect this to B=MAP. We want the ability to be as low as possible to start.
-Make it easy does not mean do easy things. The idea is to build up to things that pay off in the long run.
-Increase friction associated with bad behaviours.
-Prime your environment.
-Prepare healthy food in advance so it is ready. Hide or don’t hold unhealthy food.
-Make fitness equipment readily available but keep the TV in the closet or simply unplug it each time.
-Leave your phone in a drawer before going to bed.
-13 – How to Stop Procrastinating using the Two-Minute Rule
-Master the Decisive Moments
-The first thing you do when you get home after work can determine the rest of your evening.
+  - Connect this to B (behavior) = MAP (motion, ability, prompt). We want the ability to be as low as possible to start.
+  - Make it easy does not mean do easy things. The idea is to build up to things that pay off in the long run.
+
+- Increase friction associated with bad behaviours.
+- Prime your environment.
+  - Prepare healthy food in advance so it is ready. Hide or don’t hold unhealthy food.
+  - Make fitness equipment readily available but keep the TV in the closet or simply unplug it each time.
+  - Leave your phone in a drawer before going to bed.
+
+## How to Stop Procrastinating using the Two-Minute Rule
+
+- Master the Decisive Moments
+  - The first thing you do when you get home after work can determine the rest of your evening.
 Early decisions have a disproportionate effect on your day. Own the morning. Make your bed.
 The Two-Minute Rule
 When you start a new habit, it should take less than 2 minutes to do.
