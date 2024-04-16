@@ -300,7 +300,7 @@ tags: ["selfdevelopment", "investing"]
 | **habit**              | **becoming an early riser** | **becoming Vegan** | **starting to exercise** {% newline %}
 | :---------------- | :----------------- | :--------------- | :--------------- {% newline %}
 | _phase 1_ | _be home by 10 pm every night_ | _Start eating vegetables at each meal._ | _Change into workout clothes_ {% newline %}
-| phase 2 [| have all devices (TV, phone, etc...) turned off by 10 p.m. every night [| Stop eating animals with four legs (cow, pig, lamb, etc.). [| Step out the door (try taking a walk). {% newline %}
+| _phase 2_ | _have all devices (TV, phone, etc...) turned off by 10 p.m. every night_ | _Stop eating animals with four legs (cow, pig, lamb, etc.)._ | _Step out the door (try taking a walk)._ {% newline %}
 | phase 3 [| Be in bed by 10 p.m. every night (reading a book, talking with your partner).  | Stop eating animals with two legs (chicken, turkey, etc.). | Drive to the gym, exercise for five minutes, and leave. {% newline %}
 | phase 4 [| Lights off by 10 p.m. every night.   | Stop eating animals with no legs (fish, clams, scallops, etc.). | Exercise for fifteen minutes at least once per week. {% newline %}
 | phase 5 [| Wake up at 6 a.m. every day.   | Stop eating all animal products (eggs, milk, cheese). | Exercise three times per week. {% newline %}
