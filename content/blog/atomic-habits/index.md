@@ -296,15 +296,13 @@ tags: ["selfdevelopment", "investing"]
 
 - Examples of Habit Shaping using the Two-Minute Rule.
 
-{% stripnewlines %}
-| **habit**              | **becoming an early riser** | **becoming Vegan** | **starting to exercise** {% newline %}
-| :---------------- | :----------------- | :--------------- | :--------------- {% newline %}
-| _phase 1_ | _be home by 10 pm every night_ | _Start eating vegetables at each meal._ | _Change into workout clothes_ {% newline %}
-| _phase 2_ | _have all devices (TV, phone, etc...) turned off by 10 p.m. every night_ | _Stop eating animals with four legs (cow, pig, lamb, etc.)._ | _Step out the door (try taking a walk)._ {% newline %}
-| phase 3 [| Be in bed by 10 p.m. every night (reading a book, talking with your partner).  | Stop eating animals with two legs (chicken, turkey, etc.). | Drive to the gym, exercise for five minutes, and leave. {% newline %}
-| phase 4 [| Lights off by 10 p.m. every night.   | Stop eating animals with no legs (fish, clams, scallops, etc.). | Exercise for fifteen minutes at least once per week. {% newline %}
-| phase 5 [| Wake up at 6 a.m. every day.   | Stop eating all animal products (eggs, milk, cheese). | Exercise three times per week. {% newline %}
-{% endstripnewlines %}
+| **habit**              | **becoming an early riser** | **becoming Vegan** | **starting to exercise**
+| :---------------- | :----------------- | :--------------- | :---------------
+| _phase 1_ | _be home by 10 pm every night_ | _Start eating vegetables at each meal._ | _Change into workout clothes_
+| _phase 2_ | _have all devices (TV, phone, etc...) turned off by 10 p.m. every night_ | _Stop eating animals with four legs (cow, pig, lamb, etc.)._ | _Step out the door (try taking a walk)._
+| phase 3 [| Be in bed by 10 p.m. every night (reading a book, talking with your partner).  | Stop eating animals with two legs (chicken, turkey, etc.). | Drive to the gym, exercise for five minutes, and leave.
+| phase 4 [| Lights off by 10 p.m. every night.   | Stop eating animals with no legs (fish, clams, scallops, etc.). | Exercise for fifteen minutes at least once per week.
+| phase 5 [| Wake up at 6 a.m. every day.   | Stop eating all animal products (eggs, milk, cheese). | Exercise three times per week.
 
 
 ## How to Make Good Habits Inevitable and Bad Habits Impossible
