@@ -281,24 +281,31 @@ tags: ["selfdevelopment", "investing"]
 
 - Master the Decisive Moments
   - The first thing you do when you get home after work can determine the rest of your evening.
-Early decisions have a disproportionate effect on your day. Own the morning. Make your bed.
-The Two-Minute Rule
-When you start a new habit, it should take less than 2 minutes to do.
-The focus should be on reps no matter how easy. The outcome will take care of itself.
-Habit Shaping
-Almost every habit can be scaled down or up (very easy to very hard).
-Master the habit of showing up before mastering the habit itself.
-Standardize before you optimize.
+  - Early decisions have a disproportionate effect on your day. Own the morning. Make your bed.
 
-Figure 14. Which decisions have a disproportionate impact on your day?
-Habit	Becoming an Early Riser	Becoming Vegan	Starting to Exercise
-Phase 1	Be home by 10 p.m. every night.	Start eating vegetables at each meal.	Change into workout clothes.
-Phase 2	Have all devices (TV, phone, etc.) turned off by 10 p.m. every night.	Stop eating animals with four legs (cow, pig, lamb, etc.).	Step out the door (try taking a walk).
-Phase 3	Be in bed by 10 p.m. every night (reading a book, talking with your partner).	Stop eating animals with two legs (chicken, turkey, etc.).	Drive to the gym, exercise for five minutes, and leave.
-Phase 4	Lights off by 10 p.m. every night.	Stop eating animals with no legs (fish, clams, scallops, etc.).	Exercise for fifteen minutes at least once per week.
-Phase 5	Wake up at 6 a.m. every day.	Stop eating all animal products (eggs, milk, cheese).	Exercise three times per week.
-Examples of Habit Shaping using the Two-Minute Rule. (page 166)
-14 – How to Make Good Habits Inevitable and Bad Habits Impossible
+- The Two-Minute Rule
+  - When you start a new habit, it should take less than 2 minutes to do.
+  - The focus should be on reps no matter how easy. The outcome will take care of itself.
+
+- Habit Shaping
+  - Almost every habit can be scaled down or up (very easy to very hard).
+  - Master the habit of showing up before mastering the habit itself.
+    - Standardize before you optimize.
+
+- [which decisions have a disproportionate impact on your day](./decisions-disproprotionate-impact-your-day.png)
+
+- Examples of Habit Shaping using the Two-Minute Rule.
+
+| **habit**              | **becoming an early riser** | becoming Vegan | starting to exercise |
+| :---------------- | :----------------- | :--------------- | :--------------- |
+| phase 1 | be home by 10 pm every night | Start eating vegetables at each meal. | Change into workout clothes |
+| phase 2 | have all devices (TV, phone, etc...) turned off by 10 p.m. every night | Stop eating animals with four legs (cow, pig, lamb, etc.). | Step out the door (try taking a walk). |
+| phase 3 | Be in bed by 10 p.m. every night (reading a book, talking with your partner).  | Stop eating animals with two legs (chicken, turkey, etc.). | Drive to the gym, exercise for five minutes, and leave. |
+| phase 4 | Lights off by 10 p.m. every night.   | Stop eating animals with no legs (fish, clams, scallops, etc.). | Exercise for fifteen minutes at least once per week. |
+| phase 5 | Wake up at 6 a.m. every day.   | Stop eating all animal products (eggs, milk, cheese). | Exercise three times per week. |
+
+## How to Make Good Habits Inevitable and Bad Habits Impossible
+
 Sometimes success is less about making good habits easy and more about making bad habits hard.
 
 JAMES CLEAR
