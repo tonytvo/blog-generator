@@ -2006,6 +2006,22 @@ construction project. ‘How many girders were in the cart?’ ‘How were the h
 
 - Of course, you don’t have to play the same game, but you can find your own way to reward and inspire your kids to pay attention. The quarters and the pats on the back they might win will be nice in the moment, but they will pale in comparison to the value of the real gift you’ll have given them, which will last them a lifetime.
 
+# “Beautiful” Is What They Say It Is
+
+- “Have you ever seen anything like it?” the copy on the ad reads. “Not just what she’s made, but how proud it’s made her. It’s a look you’ll see whenever children build something all by themselves. No matter what
+they’ve created . . . LEGO Universal Building Sets will help your children discover something very, very special: themselves.”
+
+- As parents—as adults—it can be so easy to step in and tell your kids how things are supposed to go. Trees don’t go on people’s heads! A window doesn’t make sense there! But where will they sleep? Dogs and cats aren’t friends! There is no air in space! We think that we are helping or that we are teaching. But really we are stepping on their ability to create and imagine. We may well be depriving them of that beautiful look of pride that the little girl in the ad has—the one that comes from doing something all by yourself. And discovering yourself in the process.
+
+- Playtime is for play. It’s supposed to be silly. It’s supposed to be fun. There are no rules. None of it matters . . . unless they want it to matter. So give them some space. Encourage them. Just watch. Let them be beautiful.
+
+# This Is How You Make Them Smart
+
+- “One of the most important things to me is that my children and grandchildren are curious. Because, if you’re not curious, you’re not smart.”
+
+- We don’t have control over what kind of brain our kids are born with. We don’t even really control what kind of college they get into. Are they a math kid or an artist? Right-brained or left-brained? That’s not up to us. But what we can influence is whether they’re curious. We can encourage this instinct— asking them questions and rewarding them for asking their own. We can cultivate this instinct until it becomes a  personality trait—finding all sorts of interesting things and showing them to our kids. And we can demonstrate it —pouring fuel on the sparks of curiosity they exhibit by engaging with the things we’re curious about too.
+- We can’t make them a specific kind of genius. But we can make them smart... by showing them how to be curious.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
