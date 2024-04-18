@@ -307,88 +307,107 @@ tags: ["selfdevelopment", "investing"]
 
 ## How to Make Good Habits Inevitable and Bad Habits Impossible
 
-Sometimes success is less about making good habits easy and more about making bad habits hard.
+- Sometimes success is less about making good habits easy and more about making bad habits hard.
 
-JAMES CLEAR
-Commitment Device / Ulysses Contract
-create a system where it is harder to get out of a good habit than to stick with it.
-The Duddhawork Lab
-Marc Adams TED Talk
-The power of onetime choices
-Stop paying for Netflix. Delete an app from your phone.
-The average person spends 2 hours per day on social media.
-What would do with an extra 600 hours per year?
-Automate your habits
-Take advantage of technology. Robots working for you for very cheap.
-Automatic contributions to savings and investments.
-Set reminders on your phone for infrequent events.
-Communicate with your future self.
-The 4th Law – Make It Satisfying
-15 – The Cardinal Rule of Behavior Change
-The Cardinal Rule of Behaviour Change
-What is immediately rewarded is repeated.
-What is immediately punished is avoided.
-Set the odds in your favour.
-The first three laws increase the odds of performing a behaviour for the first time.
-Make it obvious.
-Make it attractive.
-Make it easy.
-The fourth law increases your odds of repeating the behaviour.
-Make it satisfying.
-A small increase in your odds can have a large effect at scale.
-Beware of Time Inconsistency (hyperbolic discounting)
-We value the present more than the future.
-It used to make sense in an immediate-return environment.
-We currently live in a delayed-return environment.
-Good habits tend to have immediate unpleasurable outcomes with long-term pleasure.
-Bad habits tend to immediate pleasurable outcomes associated with long-term pain.
-We think of our future selves as a stranger. – Hal Hershfield
-“All self-help boils down to “choose long-term over short-term.” – Naval Ravikant
-“The road less travelled is the road of delayed gratification.” – James Clear
-“The last mile is the least crowded”
-Paradoxically, your competition decreases when you delay gratification.
-Marshmellow longitudinal study
-Design your habits to be immediately successful.
-You need a form of reinforcement.
-“I am awesome.” – BJ Fogg
-Set the bar low. Two-Minute Rule.
-Reward your habits of avoidance.
-Reward yourself every time you don’t do the thing you’re trying to avoid.
-Create a loyalty program for yourself.
-Transfer a dollar towards something pleasurable every time you show up or skip on a bad habit.
-Try to allow those short-term rewards with your desired identity.
-It doesn’t make sense to reward going to the gym all week with ice cream.
-“Incentives can start a habit. Identity sustains a habit.” – James Clear
-16 – How to Stick with Good Habits Every Day
-The most effective form of motivation is progress.
-Habit trackers are great for the most part.
-Trackers make habits obvious, attractive, and satisfying.
-They keep your focus on the process (the reps) rather than the goal (the abs).
-Tracking can be temporary.
-What is the minimal effective dose (MED) of tracking for your habit?
-You can automate most tracking.
-Only track your most important habits.
-“It is better to consistently track one habit than sporadically track ten.” – James Clear
-Track immediately after the habits to provide reinforcement.
-Habit stacking to build the habit of tracking.
-The Paper Clip Strategy.
-I like the Daylio App because I run stats on my entries.
-The Darkside of tracking
-We often track the wrong things.
-work hours < productivity, 10 000 steps < overall health, weight on a scale < reps at the gym
-Track process before outcomes.
-Goodhart’s Law
-We often start to cheat the system to achieve our short-term goal.
-Only measure the bare minimum (unless you’re into it)
-Don’t break the chain.
-2000 day Snapchat streaks.
-Never miss twice.
-The bad reps are the most important ones.
-Vote for the identity of never skipping reps.
-“The first rule of compounding: Never interrupt it unnecessarily.” – Charlie Munger
-Habits are not all-or-nothing.
-Regular contributions outperform sporadic lump sums.
-17 – How an Accountability Partner Can Change Everything
+- Commitment Device / Ulysses Contract
+  - create a system where it is harder to get out of a good habit than to stick with it.
+  - [Marc Adams TED Talk](https://www.youtube.com/watch?v=2paoNvG5Nmo)
+- The power of onetime choices
+  - Stop paying for Netflix. Delete an app from your phone.
+    - The average person spends 2 hours per day on social media.
+    - What would do with an extra 600 hours per year?
+
+- Automate your habits
+  - Take advantage of technology. Robots working for you for very cheap.
+  - Automatic contributions to savings and investments.
+  - Set reminders on your phone for infrequent events.
+    - Communicate with your future self.
+
+# The 4th Law – Make It Satisfying
+
+## The Cardinal Rule of Behavior Change
+- The Cardinal Rule of Behaviour Change
+  - What is immediately rewarded is repeated.
+  - What is immediately punished is avoided.
+
+- Set the odds in your favour.
+  - The first three laws increase the odds of performing a behaviour for the first time.
+    - Make it obvious.
+    - Make it attractive.
+    - Make it easy.
+
+  - The fourth law increases your odds of repeating the behaviour.
+    - Make it satisfying.
+
+  - A small increase in your odds can have a large effect at scale.
+
+- Beware of Time Inconsistency (hyperbolic discounting)
+  - We value the present more than the future.
+  - It used to make sense in an immediate-return environment.
+  - We currently live in a delayed-return environment.
+  - Good habits tend to have immediate unpleasurable outcomes with long-term pleasure.
+  - Bad habits tend to immediate pleasurable outcomes associated with long-term pain.
+  - We think of our future selves as a stranger. – Hal Hershfield
+  - “All self-help boils down to “choose long-term over short-term.” – Naval Ravikant
+  - “The road less travelled is the road of delayed gratification.” – James Clear
+
+- “The last mile is the least crowded”
+  - Paradoxically, your competition decreases when you delay gratification.
+  - Marshmellow longitudinal study
+
+- Design your habits to be immediately successful.
+  - You need a form of reinforcement.
+  - “I am awesome.” – BJ Fogg
+  - Set the bar low. Two-Minute Rule.
+
+- Reward your habits of avoidance.
+  - Reward yourself every time you don’t do the thing you’re trying to avoid.
+  - Create a loyalty program for yourself.
+    - Transfer a dollar towards something pleasurable every time you show up or skip on a bad habit.
+  - Try to allow those short-term rewards with your desired identity.
+    - It doesn’t make sense to reward going to the gym all week with ice cream.
+  - “Incentives can start a habit. Identity sustains a habit.” – James Clear
+
+## How to Stick with Good Habits Every Day
+
+- The most effective form of motivation is progress.
+- Habit trackers are great for the most part.
+  - Trackers make habits obvious, attractive, and satisfying.
+  - They keep your focus on the process (the reps) rather than the goal (the abs).
+  - Tracking can be temporary.
+    - What is the minimal effective dose (MED) of tracking for your habit?
+  - You can automate most tracking.
+  - Only track your most important habits.
+    - “It is better to consistently track one habit than sporadically track ten.” – James Clear
+  - Track immediately after the habits to provide reinforcement.
+    - Habit stacking to build the habit of tracking.
+  - [The Paper Clip Strategy.](https://jamesclear.com/paper-clips)
+    - start the morning with 120 paper clips in 1 jar and keep dialing the phone until I had moved them all to the second jar"
+    - it creates a visual trigger that can help motivate you to perform a habit with more consistency.
+      - **Visual cues remind you to start a behavior.**
+      - **Visual cues display your progress on a behavior.**
+      - **Visual cues can have an additive effect on motivation**
+      - **Visual cues can be used to drive short-term and long-term motivation**
+
+- The Darkside of tracking
+  - We often track the wrong things.
+    - work hours < productivity, 10 000 steps < overall health, weight on a scale < reps at the gym
+  - Track process before outcomes.
+  - Goodhart’s Law
+    - We often start to cheat the system to achieve our short-term goal.
+    - Only measure the bare minimum (unless you’re into it)
+
+- Don’t break the chain.
+  - 2000 day Snapchat streaks.
+
+- Never miss twice.
+- The bad reps are the most important ones.
+  - Vote for the identity of never skipping reps.
+  - “The first rule of compounding: Never interrupt it unnecessarily.” – Charlie Munger
+  - Habits are not all-or-nothing.
+  - Regular contributions outperform sporadic lump sums.
+
+## How an Accountability Partner Can Change Everything
 Make it unsatisfying.
 “Pain is an effective teacher.” – James Clear
 Write down a habit contract.
