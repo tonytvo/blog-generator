@@ -2020,7 +2020,24 @@ they’ve created . . . LEGO Universal Building Sets will help your children dis
 - “One of the most important things to me is that my children and grandchildren are curious. Because, if you’re not curious, you’re not smart.”
 
 - We don’t have control over what kind of brain our kids are born with. We don’t even really control what kind of college they get into. Are they a math kid or an artist? Right-brained or left-brained? That’s not up to us. But what we can influence is whether they’re curious. We can encourage this instinct— asking them questions and rewarding them for asking their own. We can cultivate this instinct until it becomes a  personality trait—finding all sorts of interesting things and showing them to our kids. And we can demonstrate it —pouring fuel on the sparks of curiosity they exhibit by engaging with the things we’re curious about too.
+
 - We can’t make them a specific kind of genius. But we can make them smart... by showing them how to be curious.
+
+# This Is Something to Invest In
+
+- Marcus Aurelius wrote that what he learned from his great-grandfather was to “avoid public schools, to hire good private teachers, and to accept the resulting costs as money well spent.”
+
+- What Marcus was talking about is investing in your children’s education —whatever form you decide it will take. A tutor to teach them Spanish a couple times a month? A piano instructor? A yearly pass to the museum
+downtown? The gas and the commute to the magnet school on the other side of town instead of the closer but less rigorous one? Private tuition? One parent working less so you can homeschool?
+
+- None of this is cheap. But don’t think of it as an expense. Think of it as an investment. It’s the most important investment you can make—it’s an investment in their knowledge, in their education, in their future. It’s making them better. It’s worth what it costs.
+
+# You Have to Unlock This
+
+- Just as we have to help introduce our kids to the world of ideas, we also have to help them discover the incredible power of thought. We have to give them a sense of the limitlessness of human potential trapped in those three pounds of soft tissue between our ears. We have to show them what a powerful mechanism they have been given; then we need to show them how
+to use it.
+
+- We need to unlock their brains... as early as possible.
 
 # Quotes
 
