@@ -1966,6 +1966,26 @@ dry.
 
 - Can you say the same about your dinners? Maybe you should talk about it, then. Maybe even debate it.
 
+# How to Get Them to Read (or Do Anything)
+
+- A reader lives a thousand lives before he dies. The man who never reads lives only one. — GEORGE R. R. MARTIN
+
+- in her classic poem, “Tula [“Books are door-shaped”],” Margarita Engle describes books as “door-shaped portals,” which is as apt as it is beautiful. Books carry us across oceans and centuries, she writes, with the extra benefit of making us feel less alone. Stephen King’s line was that books are “uniquely portable magic.”
+
+- That said, we need to be providing a good example. How often do your kids catch you reading? How often do they see you with a book in your hands? You want them to read, but do you read regularly to them? You tell them that books are important, that books are fun, but where is the evidence?
+
+- If you want your kids to read more, if you want them to walk through those magical door-shaped portals, show them what a reader looks like. Talk to them about books. Make books a central part of your house... and your lives.
+
+# The Lives of the Greats Remind Us
+
+- why do we tell stories to our kids? Why do we tell them about history? Teach them about Martin Luther King Jr., George Washington, Porcia Cato, Cincinnatus, Florence Nightingale, Jesus, Marcus Aurelius? Because it matters.
+
+- We are trying to teach our kids the most important and pressing lesson of all: **that they can make a difference, they can change the world.**
+
+- We tell our kids stories to inspire them. That’s what bedtime reading is about—not just tiring them out so they’ll go to sleep. The point of history class isn’t to berate them with the evil deeds of old dead white guys. We want them to know: People can have an impact. People can lead wonderful lives. People can leave their footprints on the sands of time.
+
+- Not just people, not just heroes or the dynastically wealthy, but your kids too. They can do this. And in helping them realize that, you are making your own impact.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
