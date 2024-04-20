@@ -339,6 +339,111 @@ onSelectItem: (id: number) => void;
   - TypeScript aims to make your life easier, but TypeScript with lots of any types can be harder to work with than untyped JavaScript because you have to fix type errors and still keep track of the real types in your head. When your types match reality, it frees you from the burden of having to keep type information in your head. TypeScript will keep track of it for you.
 
 
+
+# Use Your Editor to Interrogate and Explore the Type System
+
+- Take advantage of the TypeScript language services by using an editor that can use them.
+Use your editor to build an intuition for how the type system works and how TypeScript infers types.
+
+- Know how to jump into type declaration files to see how they model behavior.
+
+- When you install TypeScript, you get two executables:
+  - tsc, the TypeScript compiler
+  - tsserver, the TypeScript standalone server
+
+- You're much more likely to run the TypeScript compiler directly, but the server is every bit as important because it provides language services. These include autocomplete, inspection, navigation, and refactoring. You typically use these services through your editor. If yours isn't configured to provide them, then you're missing out! Services like autocomplete are one of the things that make TypeScript such a joy to use. But beyond convenience, your editor is the best place to build and test your knowledge of the type system. This will help you build an intuition for when TypeScript is able to infer types, which is key to writing compact, idiomatic code (see Item 19).
+
+The details will vary from editor to editor, but you can generally mouse over a symbol to see what TypeScript considers its type (see Figure 2-1).
+let num: number
+let num = 10;
+Figure 2-1. An editor (vscode) showing that the inferred type of the num symbol is number You didn't write number here, but TypeScript was able to figure it out based on the value 10.
+You can also inspect functions, as shown in Figure 2-2.
+function add(a: number, b: number): number function add (a: number, b: number) { return a + b;
+}
+Figure 2-2. Using an editor to reveal the inferred type for a function
+
+
+The noteworthy bit of information is the inferred value for the return type, number. If this does not match your expectation, you should add a type declaration and track down the discrepancy (see Item 9).
+Seeing TypeScript's understanding of a variable's type at any given point is essential for building an intuition around widening (Item 21) and narrowing (Item 22). Seeing the type of a variable change in the branch of a conditional is a tremendous way to build confidence in the type system (see Figure 2-3).
+function logMessage(message: string | null) { if (message) {
+}
+}
+(parameter) message: string
+message
+Figure 2-3. The type of message is string/ null outside the branch but string inside.
+You can inspect individual properties in a larger object to see what TypeScript has inferred about them (see Figure 2-4).
+
+
+const foo = {
+(property) x: number []
+x: [1, 2, 3],
+bar: {
+To see inferred generic types in the middle of a
+chain of operations, inspect the method name (as shown in Figure 2-5).
+function restOfPath(path: string) {
+(method) Array<string>.slice(start?: number, end?: number): string[] Returns section of an array.
+@param start - The beginning of the specified portion of the array.
+@param end The end of the specified portion of the array.
+name: 'Fred'
+}
+};
+Figure 2-4. Inspecting how TypeScript has inferred types in an object
+If your intention was for x to be a tuple type ([number, number, number]), then a type annotation will be required.
+}
+return path.split('/').slice(1).join('/');
+Figure 2-5. Revealing inferred generic types in a chain of method calls
+The Array<string> indicates that TypeScript understands that split produced an array of strings. While there was little ambiguity in this case, this information can prove essential in writing and debugging long chains of function calls.
+
+
+Seeing type errors in your editor can also be a great way to learn the nuances of the type system. For example, this function tries to get an HTMLElement by its ID, or return a default one. TypeScript flags two errors:
+function getElement (el0rId: string| HTMLElement | null): HTMLElement { if (typeof el0rId === 'object') { return el0rId;
+//
+'HTMLElement | null' is not assignable to 'HTMLElement' } else if (el0rId === null) { return document.body;
+} else {
+const el =
+document.getElementById(el0rId);
+return el;
+// ~~~~~~~
+'HTMLElement | null' is not assignable to 'HTMLElement'
+}
+The intent in the first branch of the if statement was to filter down to just the objects, namely, the HTMLElements. But oddly enough, in JavaScript typeof null is "object", so el0rId could still be null in that branch. You can fix this by putting the null check first. The second error is because document.getElementById can return null, so you need to handle that case as well, perhaps by throwing an exception. Language services can also help you navigate through libraries and type declarations. Suppose you see a call to the fetch function in code and want to learn more about it. Your editor should
+}
+
+
+provide a "Go to Definition" option. In mine it looks like it does in Figure 2-6.
+const response = fetch('http://example.com');
+Go to Definition
+F12
+Peek Definition
+XF12
+Go to Type Definition
+Find All References
+XF12
+F12
+Peek References
+Figure 2-6. The TypeScript language service provides a "Go to Definition" feature that should be surfaced in your editor.
+Selecting this option takes you into lib.dom.d.ts, the type declarations which TypeScript includes for the DOM:
+declare function fetch(
+input: Request Info, init?: RequestInit ): Promise<Response>;
+You can see that fetch returns a Promise and takes two arguments. Clicking through on RequestInfo brings you here:
+type Request Info Request string;
+=
+from which you can go to Request:
+declare var Request: {
+prototype: Request;
+new(input: Request Info, init?: RequestInit): Request;
+};
+Here you can see that the Request type and value are being modeled separately (see Item 8). You've seen Request Info already. Clicking through on RequestInit shows everything you can use to construct a Request:
+
+
+interface RequestInit {
+}
+body?: BodyInit | null; cache? RequestCache;
+credentials?: RequestCredentials; headers?: Headers Init;
+// ...
+There are many more types you could follow here, but you get the idea. Type declarations can be challenging to read at first, but they're an excellent way to see what can be done with TypeScript, how the library you're using is modeled, and how you might debug errors. For much more on type declarations, see Chapter 6.
+Things to Remember
+
 # Understand Evolving any
 
 - example 1:
