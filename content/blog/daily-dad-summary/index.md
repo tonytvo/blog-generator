@@ -1949,6 +1949,23 @@ smaller, weaker guys but... the smart take from the strong.”
 
 - The world is a place of great ideas. There is nothing to be afraid of... except fear and ignorance.
 
+# Teach Them Early—When You Still Can
+
+- we have to start teaching our kids the important things early, even when it seems like they are way too young, because if we wait, they’ll be able to fight us off. They’ll have the words and the resolve to resist the lessons that we know they will need in life for the struggles they can’t see coming.
+
+- We have to get them while they’re still young and impressionable. We have to push past their reservations. Of course they would rather play video games. Of course it’s more fun to goof off. But now is the time. Before they can fight us off with their full determination. Before the cement is completely
+dry.
+
+# Do You Do This over Dinner?
+
+- some families watch TV at dinner. Some families eat separately. Some families talk idly about their day. Dinner at Agnes Callard’s house is different. She and her children debate.
+
+- Because Callard is a philosopher, many of their debates are philosophical. If a conjoined twin committed a crime, should both twins be punished? Is it possible for the other twin to be completely innocent? But some of the topics are silly, such as the debate, led by her then seven-year-old, on what would be the ideal type of glove.
+
+- It wasn’t the content of the debate that mattered, of course—it was the activity. It was that they did it as a family. And like most great parenting strategies, this wasn’t some forced or formal activity. It wasn’t an obligation or a chore. These debates began as discussions between her and her husband that her kids wanted to join. They evolved over time. The rules are ad hoc; the tradition is organic. But in the end, it shaped the course of her family and their intellectual lives.
+
+- Can you say the same about your dinners? Maybe you should talk about it, then. Maybe even debate it.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
