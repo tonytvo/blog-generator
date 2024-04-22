@@ -339,7 +339,6 @@ onSelectItem: (id: number) => void;
   - TypeScript aims to make your life easier, but TypeScript with lots of any types can be harder to work with than untyped JavaScript because you have to fix type errors and still keep track of the real types in your head. When your types match reality, it frees you from the burden of having to keep type information in your head. TypeScript will keep track of it for you.
 
 
-
 # Use Your Editor to Interrogate and Explore the Type System
 
 - Take advantage of the TypeScript language services by using an editor that can use them.

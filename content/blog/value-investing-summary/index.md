@@ -261,6 +261,10 @@ key issues, collateral evidence, personal biases
 # Interpretation of Financial Statements
 - [interpretation of financial statements summary](/financial-statement-analysis)
 
+# how to read annual reports
+
+- [how to read annual report](./)
+
 # Questions
 - what is your default strategy when there is nothing to do?
   - buy the market in an index fund vs cash?
