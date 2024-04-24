@@ -2114,7 +2114,27 @@ by expanding your own vocabulary!
 
 # Make Sure They Spend Time around Old People
 
+- When was the last time you stayed under the same roof as someone twice your age? How many conversations do you have with people who grew up without the things you completely take for granted?
 
+- In Lori McKenna’s song “Humble and Kind,” she talks about visiting “grandpa every chance that you can.” But it actually requires more than that, more than just seeing your own family. You have to make sure your kids aren’t stuck in a bubble, living their lives away from anyone but other children.
+
+- Instead, you have to expose them to wisdom. Expose them to people who remember the good and the bad things that humans did in the recent and not-so-recent past. Expose them to people who have learned painful lessons. Expose them to people who have accomplished incredible things. Otherwise all that wisdom might be lost, and so might your children.
+
+# It’s About Learning, Not Memorization
+
+- It’s all making them smarter, you tell yourself. But is it? Or is it just teaching them how to act smart?
+
+- We’re not trying to raise robots. We want kids who can think, who can figure stuff out. Who cares what they can recite? We want them to know what something means as much as we want them to know what it is. We want them to love learning, not trivia! So make sure your priorities are aligned. Make sure the activities you design actually get you closer to that goal. Make sure you’re focused on the right stuff.
+
+- Teach them to *know*. That’s what counts.
+
+# What Game Are You Teaching Them?
+
+- there are two types of games in this life: finite and infinite. Finite games are things you do once and then they’re over. An infinite game is more like life itself—it goes on and on and everything is interrelated and independent. The former is zero-sum, the latter is non-zero-sum.
+
+- This sounds familiar, right? We’ve caught ourselves comparing our kids’ grades with other kids’. We’ve talked to other parents about what grade level they’re reading or doing math at and what percentile they’re in statewide. We’ve obsessed over GPA and standardized test scores as if they were keys to the kingdom... of what exactly? Then we grill our college kids about whether they found their major yet, about whether the major they picked is going to snag them a high-paying job or not.
+
+- You want kids who are in this for life. You want kids who don’t think in zero-sum terms. Teach them to play the infinite game. Teach them by playing it yourself.
 
 # Quotes
 
