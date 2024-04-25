@@ -2136,6 +2136,28 @@ by expanding your own vocabulary!
 
 - You want kids who are in this for life. You want kids who don’t think in zero-sum terms. Teach them to play the infinite game. Teach them by playing it yourself.
 
+# They Must Be Surrounded by This
+
+- Behavior (B) is a function of a person (P) and their environment (E). Our habits, our actions, our lives, are determined by our surroundings.
+
+- What does this mean for us as parents? Well, we’re largely the architects of our kids’ environment. We all have different means and ends, but within those means we control what we surround our children with. The influences. The colors. The moods. The people. The interactions. And of course, the most important thing there is to a child’s intellectual development: the books.
+
+- If you want them to be readers, you have to design the environment of a reader, as an architect does. You have to surround them with books. Good ones. Silly ones. Short ones. Long ones. Used ones. New ones. You have to display them prominently in your house. You have to take your kids to libraries and independent bookstores. Otherwise, how else could they possibly become readers?
+
+# Don’t Baby Them When It Comes to Books
+
+- But do you really believe our kids are dumber than the kids of Orwell’s time? Or back before that? Of course not! They’re kids. We’re the *problem*. Parents. Adults. Educators. Publishers. As a collective, we’ve stopped believing our kids are capable of reading challenging books. So we provide them with “kids’ editions” and silly picture books instead of helping them build their reading muscles. Then we wonder why they can’t handle heavy stuff.
+
+- Well, stop it. Push them. Push yourself. They aren’t babies. Or at least they shouldn’t be after they’ve learned to read for themselves.
+
+# Do They Have a Project?
+
+- mastery doesn’t come from rote recitation. It comes from falling in love with something. It comes from hard work, sure, but only when the hard work is aligned with a passionate love of a subject or a craft or a field. Forget credentialing; give them something to sink their teeth into!
+
+- As Paul Graham wrote:
+  - If I had to choose between my kids getting good grades and working on ambitious projects of their own, I’d pick the projects. And not because I’m an indulgent parent, but because I’ve been on the other end and I know which has more predictive value. When I was picking startups for Y Combinator, I didn’t care about applicants’ grades. But if they’d worked on projects of their own, I wanted to hear all about those.
+
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
