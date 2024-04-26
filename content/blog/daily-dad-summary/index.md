@@ -2074,6 +2074,23 @@ to use it.
 
 - Yes, we’re busy. Yes, we know stuff. But we can’t just tell them what we know. We have to show them. We have to roll up our sleeves, take off our hats, and get to the bottom of stuff together.
 
+# Provide Them with This Unusual Advantage
+
+- “The greatest thing in our favor,” Orville explained, “was growing up in a family where
+there was always much encouragement to intellectual curiosity. If my father had not been the kind who encouraged his children to pursue intellectual interests without any thought of profit, our early curiosity about flying would have been nipped too early to bear fruit.”
+
+- We have to do this too. We have to cultivate their curiosities, whatever they may be. We have to encourage their interests, without any thought of whether or not they might be able to profit from them. We don’t have to be special, or specialists, to give them this unusual advantage.
+
+# Raise Them to Be a “Why” Child
+
+- A “ ‘why’ child”—what a delightful phrase! Isn’t that who we’re trying to raise? A child who knows how to figure things out. A child who isn’t content with taking things at face value, who isn’t satisfied with simple explanations.
+
+- Can this be annoying? Absolutely. It can even get them in trouble. But curious is better than complacent, and annoying is better than ignorant. To be sure, there will be times when you’re too tired to answer their questions. There will be other moments when you feel their questions are inappropriate. But in those moments, you must pause and breathe and remember that you have to seed this habit. You have to make sure you water
+it too—and do your best never to stamp it out.
+
+- The more questions they ask, the better. Not just for you or for them but
+for the world they live in.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
