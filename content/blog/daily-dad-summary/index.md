@@ -2051,6 +2051,18 @@ to use it.
 
 - If they want to read? By God, let them! If they want to skip ahead or deviate from the conventional path? Cheer them on! Who knows, they may have just found their way
 
+# It’s About the Right Moment
+
+- Stefan Zweig was twenty when he first picked up Michel de Montaigne’s Essays—an incomparable book—but he had “little idea what to do with it.” It wasn’t until the last year of his life, after two world wars and a forced exile, that Zweig picked up Montaigne again. This time, the connection was instant. The impact was enormous. Because the moment was right.
+
+- Remember, our goal here is to raise readers. But as with gardening, there is a time and a season for certain things to take root, and until you get there, the thing you’ll need most is patience.
+
+# You Gotta Give Them Access
+
+- Few young children read as broadly or had such access to books as young Roosevelt. He had only to pick a volume on the shelves of the vast library in his family’s home or express interest in a particular book and it would magically materialize. During one family vacation Teedie proudly reported that he and his younger brother and sister, Elliott and Corinne, had devoured fifty novels! Thee [Theodore’s father] read aloud to his children in the evenings after dinner... Above all, he sought to impart didactic principles of duty, ethics, and morality through stories, fables, and maxims.
+
+- It would be wonderful if we could hand our kids a famous last name, a legacy admission to Harvard, or a trust fund, but that is difficult to do. What you can do—what you must do—is give them access to a library. To unlimited numbers of books. Bring them up in a house that, if it lacks rich heritage or fame or noble lineage like the Roosevelts’, is at least rich in a love of reading.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
