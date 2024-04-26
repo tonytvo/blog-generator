@@ -2063,6 +2063,17 @@ to use it.
 
 - It would be wonderful if we could hand our kids a famous last name, a legacy admission to Harvard, or a trust fund, but that is difficult to do. What you can do—what you must do—is give them access to a library. To unlimited numbers of books. Bring them up in a house that, if it lacks rich heritage or fame or noble lineage like the Roosevelts’, is at least rich in a love of reading.
 
+# The Two Most Important Skills to Teach Your Kids
+
+- Kids learn dance in PE but pubic speaking and debate are optional, extracurricular activities. How nuts is that? Kids are evaluated on standardized tests... as if effective communication can possibly be captured via multiple choice. In fact, the questions and passages on standardized tests are often the epitome of poor writing and ineffective communication!
+- If schools aren’t going to do it, we parents have to. It’s on us to teach our kids these important skills—to make sure they’re able to express themselves on the page and in person. We’ve got to give them the opportunities to get up and address an audience—and encourage the confidence required to be comfortable doing so.
+
+- Whatever happens in the future, communication will be key (and king). It’s your job to make sure they’re ready.
+
+# Let’s Get to the Bottom of It
+
+- Yes, we’re busy. Yes, we know stuff. But we can’t just tell them what we know. We have to show them. We have to roll up our sleeves, take off our hats, and get to the bottom of stuff together.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
