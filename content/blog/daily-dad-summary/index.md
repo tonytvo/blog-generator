@@ -2203,6 +2203,25 @@ by expanding your own vocabulary!
 
 - Are your kids? Nobody is born with a steel backbone. It has to be forged. Your job is to help your kids forge theirs.
 
+# Teach Them to Handle Things
+
+- If you want your kid to stand out, if you want your kid to succeed, teach them how to handle themselves, how to solve problems. That’s what will make them one in a million. There are plenty of Ivy League kids who struggle to make good decisions, to take care of business, to think and speak clearly. There are geniuses out there who, quite frankly, will say and do things that make you wonder how they manage to cross the street without
+getting hit by a car.
+
+- This isn’t to say you should lower your sights. It’s to remind you to make sure you’re aiming at the right thing. Degrees, fancy credentials, all the right experiences? What does it matter if they aren’t self-sufficient, if they can’t get things done?
+
+# You Have to Let Them Struggle
+
+- no parent wants to see their kids suffer. It’s almost more painful for you than it is for them to trip over their words, to scratch their heads over their homework, or to bumble their way through the early years of their career. But if they never struggle, they can’t grow, they can’t learn, they can’t get better.
+
+- You’ve made a success of your life, built up tremendous industries successfully so you have nothing more to prove to the world that you are capable—All know it—Can’t you be happy in just letting the boys struggle along, with you to guide them... Forget a little bit that you are Charlie’s manager and be a father—a big father! Of course, it’s wonderful that you care, that you’d die for them if necessary. But you have to forget a little bit—as Edison had to—just how much you feel for them, so that they can learn. And in this way, you’ll save them so much more suffering in the future.
+
+# You Have to Come Up with Challenges
+
+- you can’t just want tough kids. You have to make tough kids. Theodore Roosevelt was famous for taking his kids on long walks and leading them over boulders and through thick woods. He wanted to get them used to exerting themselves and solving problems. Cato the Elder, the great- grandfather of the towering Stoic Cato the Younger, a man who rose through the ranks to become one of ancient Rome’s most politically influential citizens, did the same thing. He trained his son Marcus “in athletics, taught him how to throw the javelin, fight in armour, ride a horse, use his fists in boxing, endure the extremes of heat and cold, and swim across the roughest and most swiftly flowing stretches of the Tiber.”
+
+- You make kids tough by challenging them and teaching them the rewards of those challenges. You make them tough by toughing things out, together.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
