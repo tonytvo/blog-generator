@@ -2157,6 +2157,27 @@ by expanding your own vocabulary!
 - As Paul Graham wrote:
   - If I had to choose between my kids getting good grades and working on ambitious projects of their own, I’d pick the projects. And not because I’m an indulgent parent, but because I’ve been on the other end and I know which has more predictive value. When I was picking startups for Y Combinator, I didn’t care about applicants’ grades. But if they’d worked on projects of their own, I wanted to hear all about those.
 
+# A Child’s Life Should Be Good, Not Easy
+
+- It’s little mystery why we see Seneca write over and over again about the importance of struggling with and overcoming adversity. The job of “the good parent,” he says, is to “out of love for the child, [act] as a trainer, endlessly manufacturing trials for the child.” The job of the good parent is to make their child’s life good, not easy.
+
+- There is a great Latin expression, “Luctor et emergo.” It means “I struggle and emerge” or “I wrestle with and overcome.” The gods, Seneca writes, “want us to be as good, as virtuous as possible, so assign to us a fortune that will make us struggle.” Without struggle, he says, “no one will know what you were capable of, not even yourself.”
+
+- It is hard not to be a snowplow or helicopter parent. We love our kids so much; we want nothing but the best for them. We can’t bear the thought, let alone the sight, of their struggling. But we have to let them scramble through the brambles and the pitfalls of growing up. We have to remind ourselves day after day: a child’s life should be good, not easy.
+
+# You Can’t Prevent Them from Making Mistakes
+
+- It would be wonderful if our kids didn’t have to learn through trial and error, if they could simply accept our advice and start where we left off, rather than touch the proverbial hot stove for themselves. But we should be wise enough as human beings by now to know that is simply not how life works. Much of what we learn has to be learned on our own. Some mistakes have to be made to be fully understood. Don’t your own experiences teach you that, anyway? How many of your parents’ warnings did you really heed?
+
+- You can’t prevent your kids from making mistakes. You have to give them the space to learn on their own. But you can take solace in the knowledge that you’ve instilled the character, the awareness, and the willingness to ask for help that they will need in order to bounce back from the mistakes they will inevitably make.
+
+# This Is the Main Lesson
+
+- The lesson you have to teach happens to be the core of Stoic philosophy, and also the key to success in life: We don’t control what happens in life. We control how we respond.
+
+- Your daughter thinks a teacher is unfair and doesn’t like them? Okay, that very well might be true. So what is she going to do about it? The coach says your son is too short to play basketball? Same thing. Screwed up and failed a math test? There’s a bully on the playground? Only got into their safety school? Same. Same. Same.
+
+- Teach your kids not to wallow in these misfortunes but to focus on *what is next*. Guide them to put their energy toward their response. Because that’s what’s up to them. That is the superpower they have. If you teach them that, they have it.
 
 # Quotes
 
