@@ -2179,6 +2179,30 @@ by expanding your own vocabulary!
 
 - Teach your kids not to wallow in these misfortunes but to focus on *what is next*. Guide them to put their energy toward their response. Because that’s what’s up to them. That is the superpower they have. If you teach them that, they have it.
 
+# Make Them Do Their Own Stuff
+
+- Sadly, for some of us, it could just as easily be deduced that our kids have no hands. And no brains. We put on their clothes for them. We make their decisions. We clear the road in front like a snowplow. We hover like a helicopter, just in case something goes wrong. We do everything for them.
+
+- Then we wonder why they are helpless. We wonder why they have trouble with anxiety or low self-esteem. Confidence is something you earn. It comes from self-sufficiency. It comes from experience. When we coddle and baby them—when we take away their hands—we deprive them of these critical assets.
+
+- It’s not right. It’s not fair.
+
+# Don’t Be Like This
+
+- No, our job isn’t to open every can for them. Nor is it to let them struggle in the dark for six hours. Step in, show them how to be self-sufficient. Show them how the damn can opener works! Start the can for them the first time and let them take it from there.
+
+- Be a guide; don’t be a bean dad.
+
+# Help Them Forge This
+
+- “Theodore, you have the mind but you have not the body, and without the help of the body the mind cannot go as far as it should.” Roosevelt’s younger sister, who witnessed the conversation, recalled how the young, fragile boy looked at his father and said with determination: “I’ll make my body.”
+
+- It was the beginning of his preparation for and fulfillment of what he would call “the Strenuous Life.” He worked out every day thereafter. By his early twenties, his battle against asthma was over. Roosevelt had worked that weakness out of his body.
+
+- Not everyone accepts the cards they are dealt. They remake their bodies and their lives with activities and exercise. They prepare themselves for the hard road. Do they hope they never have to walk it? Sure. But they are prepared for it in any case.
+
+- Are your kids? Nobody is born with a steel backbone. It has to be forged. Your job is to help your kids forge theirs.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
