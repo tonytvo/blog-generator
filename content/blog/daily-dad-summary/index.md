@@ -2222,6 +2222,24 @@ getting hit by a car.
 
 - You make kids tough by challenging them and teaching them the rewards of those challenges. You make them tough by toughing things out, together.
 
+# yet don't be too tough
+
+- Since his body was not strong enough to endure the extreme hardship, Cato was obliged to relax, a little, the extraordinary austerity and self-discipline of his own way of life. 
+
+- As it should be! We raise tough kids by teaching them—lovingly, patiently, understandingly—how to grow past their limits. Still, we acknowledge and respect those limits. We create challenges for them, but we are not the challenge. No, we are their ally. We are on their team. We love them. We’re working with and for them, not against them.
+
+# Be Like This
+
+- “Luctor et emergo”—“I struggle and emerge”— : It is not about pointless struggle. It’s about being by their side, encouraging them, picking them up when they fall, telling them what they need to hear when they need to hear it. It’s being like Mohamed the box-jump dad, not John Roderick the bean dad.
+
+# Teach Them That They Decide the End of Every Story
+
+- I never lost faith in the end of the story, I never doubted not only that I would get out, but also that I would prevail in the end and turn the experience into the defining event of my life, which, in retrospect, I would not trade.
+
+- What Stockdale told himself—and what helped him endure this terrible ordeal and others—was that he possessed an incredible power. He could decide how he was going to use this experience in the rest of his life, however short or long it would be.
+
+- Teach them that. Teach them to see hardship as fuel. Teach them to see an opportunity where others see an obstacle. Teach them that despite everything outside their control, they retain an incredible power: the power to choose what they do with what happens to them. They get to decide what role an event will play in their life. They have the power to write the end of their own story.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
