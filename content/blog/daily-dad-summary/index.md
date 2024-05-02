@@ -2240,6 +2240,30 @@ getting hit by a car.
 
 - Teach them that. Teach them to see hardship as fuel. Teach them to see an opportunity where others see an obstacle. Teach them that despite everything outside their control, they retain an incredible power: the power to choose what they do with what happens to them. They get to decide what role an event will play in their life. They have the power to write the end of their own story.
 
+# Pain Is a Part of Life
+
+- As the character in Hermann Hesse’s Siddhartha says, we cannot spare our kids the suffering we have gone through in our lives. We cannot prevent them from suffering altogether. Because suffering and pain are parts of life.
+
+- As a parent, the goal is to raise kids tough enough—loved enough—to deal with what life is going to throw at them. We don’t want them to suffer, but when suffering comes (and it is definitely coming), we want them to be able to endure its initial shock, navigate its ups and downs, and then learn from its consequences.
+
+- Think about that today. Think about toughening your kids up; think about preparing them for an uncertain future. Because that is the one thing we know for certain. Things are going to be tough. Things will go wrong. More pandemics and emergencies and recessions and heartbreak lie ahead. Our kids are going to have to be ready for it... and it’s on us to make sure they are.
+
+# Courage Is Calling
+
+- You know, sometimes all you need is twenty seconds of insane courage. Just literally twenty seconds of just embarrassing bravery. And I promise you, something great will come of it.
+
+- This idea of breaking courage down into little pieces is a very good one for us parents to pass on to our own kids. A person isn’t brave, generally. We can be brave only specifically in the moment. This is as true for us and our kids or Benjamin Mee’s son as it is for the most decorated soldiers who have ever served in the military.
+
+- If you read the citations for many Medal of Honor recipients, for instance, the action that rises to the level of heroism is almost always just a moment. It’s usually not fighting off twelve insurgents for five hours—it’s sprinting across an open plain for twenty seconds, exposed to enemy gunfire on three sides, to come to the aid of a fallen comrade.
+
+- Just literally twenty seconds of insane, embarrassing bravery. That’s what courage is. So teach them how to find those few seconds of courage. Tell them something great will come of it. Promise them.
+
+# There Is Good in Everything
+
+- There is good in everything, if only we look for it.
+
+- If we, as parents, look at everything being thrown at us as problems, as a burden, we are going to get burned out... fast. But if, instead, we can see the good in each of these issues, if we can focus on the opportunity within each obstacle, not only will we be more likely to make it through, but we’ll be better parents for it.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
