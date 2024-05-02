@@ -2106,6 +2106,16 @@ for the world they live in.
 - It’s essential that your house and your relationship be a safe place for the mispronunciation of words. Do not make them feel self-conscious about reading, about tackling topics outside their comfort zone. This is how they grow. Tease them and have fun about many things. But mispronouncing a word? Respect it. Encourage it... and if you want to fix the problem, start
 by expanding your own vocabulary!
 
+# Are You Showing Them How to Be a Student?
+
+- If you want your kids to value learning, if you want them to never stop furthering the education you’ve been investing so much time and money and care and worry into, then we have to show them what an adult committed to lifelong learning actually looks like. We have to show them we have not graduated, we are not on summer break, we have not arrived at the final destination of education.
+
+- Wisdom, they must learn, is an endless pursuit.
+
+# Make Sure They Spend Time around Old People
+
+
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
