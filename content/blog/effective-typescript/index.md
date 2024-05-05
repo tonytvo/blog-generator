@@ -350,98 +350,150 @@ Use your editor to build an intuition for how the type system works and how Type
   - tsc, the TypeScript compiler
   - tsserver, the TypeScript standalone server
 
-- You're much more likely to run the TypeScript compiler directly, but the server is every bit as important because it provides language services. These include autocomplete, inspection, navigation, and refactoring. You typically use these services through your editor. If yours isn't configured to provide them, then you're missing out! Services like autocomplete are one of the things that make TypeScript such a joy to use. But beyond convenience, your editor is the best place to build and test your knowledge of the type system. This will help you build an intuition for when TypeScript is able to infer types, which is key to writing compact, idiomatic code (see Item 19).
+- configure the language services with your editor for services like autocomplete, inspection, navigation, and refactoring.
 
-The details will vary from editor to editor, but you can generally mouse over a symbol to see what TypeScript considers its type (see Figure 2-1).
-let num: number
-let num = 10;
-Figure 2-1. An editor (vscode) showing that the inferred type of the num symbol is number You didn't write number here, but TypeScript was able to figure it out based on the value 10.
-You can also inspect functions, as shown in Figure 2-2.
-function add(a: number, b: number): number function add (a: number, b: number) { return a + b;
-}
-Figure 2-2. Using an editor to reveal the inferred type for a function
+- if the inferred type does not match your expectation, you should add a type declaration and track down the discrepancy.
 
-
-The noteworthy bit of information is the inferred value for the return type, number. If this does not match your expectation, you should add a type declaration and track down the discrepancy (see Item 9).
 Seeing TypeScript's understanding of a variable's type at any given point is essential for building an intuition around widening (Item 21) and narrowing (Item 22). Seeing the type of a variable change in the branch of a conditional is a tremendous way to build confidence in the type system (see Figure 2-3).
-function logMessage(message: string | null) { if (message) {
-}
-}
-(parameter) message: string
-message
-Figure 2-3. The type of message is string/ null outside the branch but string inside.
-You can inspect individual properties in a larger object to see what TypeScript has inferred about them (see Figure 2-4).
 
+```javascript
+function logMessage(message: string | null) { 
+  if (message) {
+    // type of message is string | null outside the branch but string inside
+    message
+  }
+}
+```
 
+```javascript
 const foo = {
-(property) x: number []
-x: [1, 2, 3],
-bar: {
-To see inferred generic types in the middle of a
-chain of operations, inspect the method name (as shown in Figure 2-5).
-function restOfPath(path: string) {
-(method) Array<string>.slice(start?: number, end?: number): string[] Returns section of an array.
-@param start - The beginning of the specified portion of the array.
-@param end The end of the specified portion of the array.
-name: 'Fred'
-}
+  //If your intention was for x to be a tuple type ([number, number, number]), then a type annotation will be required.
+  //(property) x: number []
+  x: [1, 2, 3],
+  bar: {
+  }
 };
-Figure 2-4. Inspecting how TypeScript has inferred types in an object
-If your intention was for x to be a tuple type ([number, number, number]), then a type annotation will be required.
+```
+
+- Seeing type errors in your editor can also be a great way to learn the nuances of the type system. For example, this function tries to get an HTMLElement by its ID, or return a default one. TypeScript flags two errors:
+
+```javascript
+function getElement (el0rId: string| HTMLElement | null): HTMLElement { 
+  if (typeof el0rId === 'object') { 
+    // 'HTMLElement | null' is not assignable to 'HTMLElement'
+    // The intent in the first branch of the if statement was to filter down
+    // to just the objects, namely, the HTMLElements.
+    // But oddly enough, in JavaScript typeof null is "object", 
+    // so el0rId could still be null in that branch. 
+    // You can fix this by putting the null check first. 
+    return el0rId;
+  } else if (el0rId === null) { 
+    return document.body;
+  } else {
+    const el = document.getElementById(el0rId);
+    // ~~~~~~~'HTMLElement | null' is not assignable to 'HTMLElement'
+    // The second error is because document.getElementById can return null,
+    // so you need to handle that case as well, perhaps by throwing an exception.
+    return el;
+  }
 }
-return path.split('/').slice(1).join('/');
-Figure 2-5. Revealing inferred generic types in a chain of method calls
-The Array<string> indicates that TypeScript understands that split produced an array of strings. While there was little ambiguity in this case, this information can prove essential in writing and debugging long chains of function calls.
+```
+# think of types as sets of values
 
+- Think of types as sets of values (the type's domain). These sets can either be finite (e.g., boolean or literal types) or infinite (e.g., number or string).
 
-Seeing type errors in your editor can also be a great way to learn the nuances of the type system. For example, this function tries to get an HTMLElement by its ID, or return a default one. TypeScript flags two errors:
-function getElement (el0rId: string| HTMLElement | null): HTMLElement { if (typeof el0rId === 'object') { return el0rId;
-//
-'HTMLElement | null' is not assignable to 'HTMLElement' } else if (el0rId === null) { return document.body;
-} else {
-const el =
-document.getElementById(el0rId);
-return el;
-// ~~~~~~~
-'HTMLElement | null' is not assignable to 'HTMLElement'
+  - The smallest set is the empty set, which contains no values. It corresponds to the never type in TypeScript. Because its domain is empty, no values are assignable to a variable with a never type:
+
+```javascript
+const x: never = 12;
+// Type '12' is not assignable to type 'never'
+```
+
+  - The next smallest sets are those which contain single values. These correspond to literal types in TypeScript, also known as unit types:
+
+```javascript
+type A = 'A';
+type B = 'B';
+type Twelve = 12;
+// To form types with two or three values, you can union unit types:
+type AB = 'A' | 'B'; 
+type AB12 = 'A' | 'B' | 12;
+// and so on. Union types correspond to unions of sets of values.
+```
+  - The word "assignable" appears in many TypeScript errors. In the context of sets of values, it means either "member of” (for a relationship between a value and a type) or "subset of" (for a relationship between two types):
+
+  - At the end of the day, almost all the type checker is doing is testing whether one set is a subset of another
+
+- Think of Identified interface as a description of the values in the domain of its type. Does the value have an id property whose value is assignable to (a member of) string? Then it's an Identified.
+
+- Two ways of thinking of type relationships: as a hierarchy or as overlapping sets
+- With the Venn diagram, it's clear that the subset/subtype/assignability relationships are unchanged if you rewrite the interfaces without extends:
+
+- Typescript types form intersecting sets (a Venn diagram) rather than a strict hierarchy. Two types can overlap without either being a subtype of the other.
+  - Remember that an object can still belong to a type even if it has additional properties that were not mentioned in the type declaration.
+
+```javascript
+interface Person { 
+  name: string;
 }
-The intent in the first branch of the if statement was to filter down to just the objects, namely, the HTMLElements. But oddly enough, in JavaScript typeof null is "object", so el0rId could still be null in that branch. You can fix this by putting the null check first. The second error is because document.getElementById can return null, so you need to handle that case as well, perhaps by throwing an exception. Language services can also help you navigate through libraries and type declarations. Suppose you see a call to the fetch function in code and want to learn more about it. Your editor should
+interface Lifespan {
+  birth: Date;
+  death? Date;
 }
-
-
-provide a "Go to Definition" option. In mine it looks like it does in Figure 2-6.
-const response = fetch('http://example.com');
-Go to Definition
-F12
-Peek Definition
-XF12
-Go to Type Definition
-Find All References
-XF12
-F12
-Peek References
-Figure 2-6. The TypeScript language service provides a "Go to Definition" feature that should be surfaced in your editor.
-Selecting this option takes you into lib.dom.d.ts, the type declarations which TypeScript includes for the DOM:
-declare function fetch(
-input: Request Info, init?: RequestInit ): Promise<Response>;
-You can see that fetch returns a Promise and takes two arguments. Clicking through on RequestInfo brings you here:
-type Request Info Request string;
-=
-from which you can go to Request:
-declare var Request: {
-prototype: Request;
-new(input: Request Info, init?: RequestInit): Request;
+type PersonSpan = Person & Lifespan;
+const ps: PersonSpan = {
+  name: 'Alan Turing',
+  birth: new Date('1912/06/23'),
+  death: new Date('1954/06/07'), // OK
 };
-Here you can see that the Request type and value are being modeled separately (see Item 8). You've seen Request Info already. Clicking through on RequestInit shows everything you can use to construct a Request:
+```
 
+- Type operations apply to a set's domain. The intersection of A and B is the intersection of A's domain and B's domain. For object types, this means that values in A & B have the properties of both A and B.
+  - Think of "extends," "assignable to," and "subtype of" as synonyms for "subset of."
 
-interface RequestInit {
+```javascript
+interface Point {
+  x: number;
+  y: number;
 }
-body?: BodyInit | null; cache? RequestCache;
-credentials?: RequestCredentials; headers?: Headers Init;
-// ...
-There are many more types you could follow here, but you get the idea. Type declarations can be challenging to read at first, but they're an excellent way to see what can be done with TypeScript, how the library you're using is modeled, and how you might debug errors. For much more on type declarations, see Chapter 6.
-Things to Remember
+type PointKeys = keyof Point; // Type is "x" | "y"
+function sortBy<K extends keyof T, T>(vals: T[], key: K): T[] {}
+const pts: Point[] = [{x: 1, y: 1}, {x: 2, y: 0}];
+sortBy (pts, 'x'); // OK, 'x' extends'x'|'y' (aka keyof T)
+sortBy (pts, 'y'); // OK, 'y' extends 'x'|'y'
+sortBy(pts, Math.random() < 0.5 ? 'x': 'y'); // OK, 'x', 'y' extends 'x'|'y'
+sortBy (pts, 'z'); //Type "z" is not assignable to parameter of type "x"|"y"
+
+```
+
+- What's the relationship between string|number and string|Date, for instance? Their intersection is non-empty (it's string), but neither is a subset of the other. The relationship between their domains is clear, even though these types don't fit into a strict hierarchy.
+  - Union types may not fit into a hierarchy but can be thought of in terms of sets of values
+
+- Thinking of types as sets can also clarify the relationships between arrays and tuples. 
+
+```javascript
+const list = [1, 2]; // Type is number[] 
+
+// Type 'number[]' is missing the following properties from type
+// [number, number]': 0, 1
+const tuple: [number, number] = list; 
+//The empty list and the list [1] are list of numbers which are not pairs of numbers. It therefore makes sense that number [] is not assignable to [number, number] since it's not a subset of it. (The reverse assignment does work.)
+
+//'[number, number, number]' is not assignable to '[number, number]' 
+//Types of property 'length are incompatible
+//Type '3' is not assignable to type '2'
+const triple: [number, number, number] [1, 2, 3];
+const double: [number, number] = triple; 
+//TypeScript models a pairs of numbers as {0: number, 1: number, length: 2}.
+```
+
+- Finally, it's worth noting that not all sets of values correspond to TypeScript types. There is no TypeScript type for all the integers, or for all the objects that have x and y properties but no others. You can sometimes subtract types using Exclude, but only when it would result in a proper TypeScript type:
+
+```javascript
+type T = Exclude <string | Date, string| number>; // Type is Date
+type NonZeroNums = Exclude <number, 0> ; // Type is still just number
+```
+
 
 # Understand Evolving any
 
