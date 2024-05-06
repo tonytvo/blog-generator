@@ -2340,6 +2340,43 @@ some independence.
 
 - All of us will lose what Sydney and Major lost: a chance to support each other, to understand each other, to learn from each other’s struggles, and to be loved and fully appreciated by each other.
 
+# You Can Survive Anything
+
+- You have been through the wringer. You have been through the crucible. And *you’re still here.*
+
+- You got through it. You did your best. You may have stumbled but you never gave up. You might be exhausted from it—how could you not be—but you have also gained incredible strength from it.
+
+- Seneca talks about how the real object of pity is the person who has never been through adversity. Those of us who have? It wasn’t easy, but at least we know now what we’re capable of.
+
+- If you ever wondered if you have what it takes... now you have proof. You do.
+
+# You Have to See It This Way
+
+- Oh, my kid woke up sick this morning? Good, we’ll spend the day at home together.
+- The take-out order got canceled last minute? Good, we’ll have breakfast for dinner.
+- You caught your kid lying? Good, now you have an opportunity to talk about honesty.
+- Pulled over for speeding? Good, show your kids how you handle owning a mistake.
+- Business in trouble? Good, talk to them about grace under pressure.
+- Flight delayed? Good, have fun in the airport as a family.
+- Traffic? Good, you get more time with them.
+- They are struggling in math class? Good, time for you to brush up on your algebra.
+
+- Your kids are counting on you. You don’t get to despair. There’s no time to complain. No one is going to come take this problem off your hands. It’s on you. It’s what you were given by fate or chance, and now you’ve got to work with it. You’ve got to make something of it.
+
+- You have to make it good... for them.
+
+# give them this great power
+
+- when she was about thirteen years old, Condoleezza Rice came home heartbroken because a classmate had gotten up and moved seats, refusing to be seated next to a black girl. Her father also chose in that moment to give his daughter some pretty counterintuitive advice: “It’s okay that some close-minded person doesn’t want to sit next to you, as long as they are the one that moves.”
+
+- Instead of making his daughter feel like a victim, he empowered her. He gave her a great gift in that moment—it was a gift of dignity and strength. Yes, he was telling her she couldn’t control what other thoughtless or mean people did. She could, however, decide not to let it affect her, not to let it change how she lived her life or how she went about her own school day. If some racist kid (with racist parents, obviously) wanted to change where they sat, that was their choice. But she didn’t have to bend or be changed by it. She didn’t have to let it get to her.
+
+- They can move. She didn’t have to do a thing. That was her power. Your kids should know they have that power too
+
+# Don’t Be One of Those Parents
+
+- Your job is to be there for your kid, not to be their everything. Your job is to teach your kid, not to prevent them from ever failing. Yes, you have to keep them safe, but not at the cost of keeping them sheltered. Not at the expense of life itself.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
