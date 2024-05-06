@@ -494,6 +494,107 @@ type T = Exclude <string | Date, string| number>; // Type is Date
 type NonZeroNums = Exclude <number, 0> ; // Type is still just number
 ```
 
+# prefer type declarations to type assertions
+
+- Prefer type declarations `(: Type)` to type assertions `(as Type)`.
+
+```javascript
+const alice: Person = {}; 
+// type '{}' Property 'name' is missing in but required in type 'Person'
+const bob = {} as Person; // No error
+```
+
+```javascript
+interface Person { name: string };
+const alice: Person = { name: 'Alice' }; // Type is Person
+const bob = { name: 'Bob' as Person; } // Type is Person
+// The first (alice: Person) adds a type declaration to the variable 
+// and ensures that the value conforms to the type. 
+// The latter (as Person) performs a type assertion. 
+// This tells TypeScript that, despite the type it inferred,
+// you know better and would like the type to be Person.
+
+// The same thing happens if you specify an additional property:
+const alice: Person = { 
+  name: 'Alice',
+  occupation: 'TypeScript developer' 
+  // Object literal may only specify known properties
+  // and 'occupation' does not exist in type 'Person'
+};
+
+const bob = {
+  name: 'Bob', 
+  occupation: 'JavaScript developer'
+} as Person; // No error
+```
+
+- Know how to annotate the return type of an arrow function.
+
+```javascript
+//It's tempting to use a type assertion here, and it seems to solve the problem:
+const people = ['alice', 'bob', 'jan']
+.map(name => ({name} as Person)); // Type is Person[]
+
+
+//But this suffers from all the same issues as a more direct use of type assertions.
+//For example:
+const people = ['alice', 'jan'].map(name => ({} as Person)); // No error
+
+//A more concise way is to declare the return type of the arrow function:
+const people = ['alice', 'bob', 'jan'].map((name): Person => ({name})); 
+// Type is Person []
+```
+
+- Use type assertions and non-null assertions when you know something about types that TypeScript does not.
+
+```javascript
+//For instance, you may know the type of a DOM element more precisely than TypeScript does:
+document.querySelector('#myButton')
+.addEventListener('click', e => {
+  e.currentTarget // Type is Event Target 
+  const button = e.currentTarget as HTMLButtonElement;
+  button // Type is HTMLButtonElement 
+//Because TypeScript doesn't have access to the DOM of your page,
+//it has no way of knowing that #myButton is a button element.
+//And it doesn't know that the currentTarget of the event should be that same button.
+//Since you have information that TypeScript does not,
+//a type assertion makes sense here
+});
+
+//You may also run into the non-null assertion,
+//which is so common that it gets a special syntax:
+const elNull = document.getElementById('foo'); // Type is HTMLElement | null 
+const el = document.getElementById('foo')!; // Type is HTMLElement
+//Used as a prefix, ! is boolean negation.
+//But as a suffix, is interpreted as an assertion that the value is non-null.
+//You should treat ! just like any other assertion: 
+//it is erased during compilation, 
+//so you should only use it if you have information that the type checker lacks
+//and can ensure that the value is non-null.
+//If you can't, you should use a conditional to check for the null case.
+
+
+interface Person { name: string; } 
+const body = document.body; const el body as Person;
+//Conversion of type 'HTMLElement' to type 'Person' may be a mistake
+//because neither type sufficiently overlaps with the other. If this was intentional,
+
+```
+
+Type assertions have their limits: they don't let you convert between arbitrary types. The general idea is that you can use a type assertion to convert between A and B if either is a subset of the other. HTMLElement is a subtype of HTMLElement | null, so this type assertion is OK. HTMLButtonElement is a subtype of EventTarget, so that was OK, too. And Person is a subtype of {}, so that assertion is also fine. But you can't convert between a Person and an HTMLElement since neither is a subtype of the
+other:
+
+
+convert the
+expression to 'unknown'
+first
+The error suggests an escape hatch, namely, using the unknown type (Item 42). Every type is a subtype of unknown, so assertions involving unknown are always OK. This lets you convert between arbitrary types, but at least you're being explicit that you're doing something suspicious!
+document.body as unknown as
+const el Person; // OK
+Things to Remember
+Prefer type declarations (: Type) to type assertions (as Type).
+. Know how to annotate the return type of an arrow function.
+. Use type assertions and non-null assertions when you know something about types that TypeScript does not.
 
 # Understand Evolving any
 
