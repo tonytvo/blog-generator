@@ -575,26 +575,13 @@ const el = document.getElementById('foo')!; // Type is HTMLElement
 
 
 interface Person { name: string; } 
-const body = document.body; const el body as Person;
+const body = document.body; 
+const el = body as Person;
 //Conversion of type 'HTMLElement' to type 'Person' may be a mistake
 //because neither type sufficiently overlaps with the other. If this was intentional,
-
+//convert the expression to 'unknown' first
+const el = document.body as unknown as Person; // OK
 ```
-
-Type assertions have their limits: they don't let you convert between arbitrary types. The general idea is that you can use a type assertion to convert between A and B if either is a subset of the other. HTMLElement is a subtype of HTMLElement | null, so this type assertion is OK. HTMLButtonElement is a subtype of EventTarget, so that was OK, too. And Person is a subtype of {}, so that assertion is also fine. But you can't convert between a Person and an HTMLElement since neither is a subtype of the
-other:
-
-
-convert the
-expression to 'unknown'
-first
-The error suggests an escape hatch, namely, using the unknown type (Item 42). Every type is a subtype of unknown, so assertions involving unknown are always OK. This lets you convert between arbitrary types, but at least you're being explicit that you're doing something suspicious!
-document.body as unknown as
-const el Person; // OK
-Things to Remember
-Prefer type declarations (: Type) to type assertions (as Type).
-. Know how to annotate the return type of an arrow function.
-. Use type assertions and non-null assertions when you know something about types that TypeScript does not.
 
 # Understand Evolving any
 
