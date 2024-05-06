@@ -2377,6 +2377,31 @@ some independence.
 
 - Your job is to be there for your kid, not to be their everything. Your job is to teach your kid, not to prevent them from ever failing. Yes, you have to keep them safe, but not at the cost of keeping them sheltered. Not at the expense of life itself.
 
+# Parenthood Is a Bond We All Share
+
+- Now take a minute to consider the many people with whom you share that parent hood's feeling. Consider how basically every single person, even murderers on death row, even the rude person who just shoved you in the supermarket, even the billionaire you think is destroying our political system, has that same feeling about their kids. Run it backward and forward too. Cleopatra felt that way about her daughter. Frederick Douglass felt it about his sons. So too did billions of ordinary people in small towns and caves and ships on stormy oceans.
+
+- Being a parent is something special. It’s also something that is nearly universal. We might be kinder and more forgiving and find more common ground if we could just remember that a little more often.
+
+# You’d Trade Anything for This, Yet...
+
+- We know this. If asked, we would say it. You would say it, right? Yet... yet... yet... look at your choices. You’d give up so much for one more bedtime with your kids, and here you are, on your phone while they’re in the bath. No amount of money could compensate you for one more morning with them, and here you are, grouchy because it’s early, put out because you’re sitting in traffic as you drive them to school.
+
+- You have, right now, in your grasp, the thing that Kobe Bryant would have traded anything for. Do. Not. Waste. It. Be grateful for it.
+
+# This Is Something to Be Glad About
+
+- it can be hard to express your feelings as a parent sometimes. Not so much because parents are expected to bottle up their emotions but because the emotions that come with being a parent can be so overwhelming and complex. It’s a rush of a million feelings: love, joy, fear, absurdity, exhaustion, responsibility, motivation, and primal attachment.
+
+- No one prepared you for any of this . . . and it’s unlike anything you’ve ever dealt with before. How do you express it? How do you let your family know what they mean to you? How they have you wrapped around their finger, how they are your everything?
+
+- Maybe this exchange from The Boy, the Mole, the Fox and the Horse will suffice.
+  - “Sometimes I want to say I love you all,” says the mole, “but I find it difficult.”
+  - “Do you?” says the boy.
+  - “Yes, so I say something like I’m glad we are all here.”
+
+- *I’m glad we are all here.* Isn’t that the perfect way to capture how you feel? Joy and gratitude that you’re together, that this is happening. That’s something to be glad about. That you have each other. That we’re all here, right now, despite it all.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
