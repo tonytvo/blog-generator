@@ -2402,6 +2402,30 @@ some independence.
 
 - *I’m glad we are all here.* Isn’t that the perfect way to capture how you feel? Joy and gratitude that you’re together, that this is happening. That’s something to be glad about. That you have each other. That we’re all here, right now, despite it all.
 
+# you've been graced
+
+- Charles de Gaulle had a hard life. He was a POW in World War I. He had to flee France in order to save it in World War II. He endured protests and assassination attempts. He also had a daughter named Anne, who was born with Down syndrome. In 1928, when she was born, this was not something people knew how to deal with—disabled children were often sent away to institutions. Parents were made to feel ashamed, as if they were responsible for having, in the language of the day, a “retarded” child.
+
+- But not de Gaulle and his wife, Yvonne. They embraced their daughter. They built their lives around the challenging but rewarding experience of raising her. “Her birth was a trial for my wife and myself,” he said. “But believe me, Anne is my joy and my strength. She is the grace of God in my life... . She has kept me in the security of obedience to the sovereign will of God.”
+
+- Each of our children is different. Each comes with their own limitations, challenges, and personality. Whether they are seriously handicapped, have a minor learning disability, or bring into our lives this or that, it doesn’t matter. We have been graced. They are a blessing, an opportunity for us to change and grow; they give us joy and something to throw ourselves into.
+
+# are you teaching them gratitude
+
+- our kids should be grateful. Not to Mom and Dad, of course; you’re just doing your job. You’re legally and biologically obligated. Your kids should be grateful for everything. We all should. It’s amazing that any of us are alive at all. The odds are astronomically small that we are here, that we are us.
+
+- Every Sunday night we write down in our book three things for which we are individually grateful. I know this is not an earth-shattering idea... . But this practice has made a world of difference for me and my kids. It resets you and gets you prepped for the week ahead...  What’s helpful about writing these reflections in a
+notebook is that you can consult previous entries and jog your memory on truly trying days... Keeping thoughts of gratitude on the surface of your mental life can help you realize that whatever might be going wrong today, on balance we all have a ton to be
+positive about.
+
+- Beautiful. And how much more beautiful would the world be if more of us took up this practice with our own kids?
+
+# It’s Always a Blessing
+
+- All the inconveniences of life are, through the lens of our superpower, an opportunity to hang out with the people we love most! Who can beat that? In fact, delayed flights and traffic or a rainy day are some of the best opportunities, period... because now your kids are trapped! Who cares if they don’t want to spend time with you? You’ve got them where you want them.
+
+- So don’t complain about the inconveniences. Enjoy them. They’re a blessing. Now you get to spend more time with your kids.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
