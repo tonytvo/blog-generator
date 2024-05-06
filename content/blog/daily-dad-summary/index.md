@@ -2311,6 +2311,35 @@ surrounded by learned helplessness.
 
 - Our goal is to raise self-sufficient kids. So let them peel their own oranges. That doesn’t mean just let them struggle like the bean dad; it means teach them. It means encourage them. It means set expectations for them. It means let them go off on their own.
 
+# They Can Still Be Successful
+
+- The reality is that successful people come from all sorts of backgrounds. Franklin Delano Roosevelt had loving parents. Churchill did not. They both reached the same heights... and though they both struggled to do it well, they each sought to provide good, stable, and loving homes for their own children.
+
+- Creating a happy childhood for our kids is the whole point of what we’re trying to do here. Don’t second-guess yourself. Their lives should be good. Just remember that good is not the same as easy!
+
+# Nobody Likes What Is Spoiled
+
+- You’re not doing your kids any favors by giving them everything they want. You’re not helping them by removing every difficulty and preventing all adversity. You’re not making their lives easier by fighting all their battles. You’re not rewarding them by overindulging them.
+
+- No, you’re spoiling them. And you’re not doing much of a service to the world in the process, either. Instead, you are setting your kids up for a very tough and unpleasant time in this life. You are, in fact, making them very weak and very unpleasant.
+
+- Don’t spoil them. All things in moderation, even as you love them as much as humanly possible. It’s a difficult balance, to be sure, but the stakes are too high not to get it right.
+
+# Don’t Deprive Them of This
+
+- We are always forcing or encouraging them to do something, anything. This is usually all very well-intentioned. But it is depriving them of a very important skill in life: the ability to be alone. To sit with their own thoughts. To entertain themselves. To get comfortable with boredom.
+
+- Some kids are extroverts. Some are introverts. But every kid needs to know how to be alone and to be happy in that space. There are lots of opportunities for you to help them develop this ability, depending on their age and personality, of course. When they start stirring in the morning, don’t rush in. When they’re quietly playing in their room, take a step back. Let them be bored. Let them lie around for a little while after school or on the weekend. Let them have some time with themselves so they might cultivate
+some independence.
+
+- It’s a critical part of life (as every adult knows). Those who lack the ability to sit quietly in a room alone are miserable and prone to addiction and overstimulation. So teach them now. Or, more accurately, give them the space to teach themselves.
+
+# Let Them Know About Your Battles
+
+- Sydney didn’t know her father’s battles. Those battles weren’t his fault... but his failure to talk to her about them was. We all struggle. There has never been a parent (or a human being) who didn’t have their own battles. If we don’t explain this to our children, if we can’t be vulnerable or honest with them, there will forever be an unbridgeable gap between us. We will lose time and connection that we can’t ever get back.
+
+- All of us will lose what Sydney and Major lost: a chance to support each other, to understand each other, to learn from each other’s struggles, and to be loved and fully appreciated by each other.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
