@@ -2264,6 +2264,30 @@ getting hit by a car.
 
 - If we, as parents, look at everything being thrown at us as problems, as a burden, we are going to get burned out... fast. But if, instead, we can see the good in each of these issues, if we can focus on the opportunity within each obstacle, not only will we be more likely to make it through, but we’ll be better parents for it.
 
+# Help, but Don’t Make Them Helpless
+
+- Perhaps we can adapt Plutarch’s line about leadership:
+  - A parent should do anything, but not everything.
+
+- A great leader is never above rolling up their sleeves. Like a great parent, they’ll do anything for their family or their organization. But they also know they can’t do everything. It’s not good for them or for anyone else.
+
+# Teach Them That It’s Figureoutable
+
+- there’s a story that occurs constantly in the biographies of creative and brilliant people. It goes something like this: As a kid they have a question—maybe it’s about how car engines work, or what Antarctica is like. It doesn’t matter what the question is about, really—history, science, animals —because their parents all have the same response. They say, “I don’t know, but let’s go figure it out!” So they go to the library or the hardware store or the computer and they dig around until they find the answer.
+
+- What this experience did for the young versions of these notable figures was instill in them a few essential lessons that would then set them on their paths: (1) their parents actually listened and cared; (2) curiosity is the starting point of a great adventure; and (3) there are places, like the library or the internet or some wise old neighbor, where answers can be found. Most important, though, they learned something well expressed in the title of Marie Forleo’s book: Everything Is Figureoutable. Problems can be solved. Ignorance can be eliminated. Answers can be tracked down. The
+unknown can be made familiar. Things can be discovered.
+
+- Show them how this works. Point them to the library or the laptop, the telephone or their science teacher. Teach them that everything is figureoutable. Big and small.
+
+- Lindbergh was a guy who knew how to solve his own problems by figuring stuff out. Lindbergh and his partner end up taking a piece of string, stretching it from New York to Paris across the curve of the globe, and then measuring it against the key. They got it pretty damn close too, close enough for him to survive the flight.
+
+- We don’t have to solve our children’s problems for them. We don’t have to teach them how to memorize things. What we have to do is teach them how to help themselves. We have to show them that everything is figureoutable.
+
+# Be Careful How Helpful You Are
+
+- Of course, the lesson here is not that you or your kids’ coparent is not important. That would be absurd. What Jeannie realized is that by holding on too tight, by being so helpful, she was actually holding them back. “There I was, useless,” she said, “and everybody was okay. Everyone was fine. They were better. And Jim—stuff came out of him that he never had before. And things blossomed in my kids, and I watched it from afar. They didn’t need me, but they kind of did.”
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY

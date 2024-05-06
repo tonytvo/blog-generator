@@ -670,7 +670,7 @@ class UserPosts {
 }
 ```
 
-- don't be tempted to replace nullable properties with promises. This tends to lead to even more confusing code and forces all your methods to be async. Promises clarify the code that loads data but tend to have the opposite effect on the class that uses that data.)
+- don't be tempted to replace nullable properties with promises. This tends to lead to even more confusing code and forces all your methods to be async. Promises clarify the code that loads data but tend to have the opposite effect on the class that uses that data.
 
 - **Things to Remember**
   - Avoid designs in which one value being null or not null is implicitly related to another value being null or not null.
