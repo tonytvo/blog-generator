@@ -2288,6 +2288,29 @@ unknown can be made familiar. Things can be discovered.
 
 - Of course, the lesson here is not that you or your kids’ coparent is not important. That would be absurd. What Jeannie realized is that by holding on too tight, by being so helpful, she was actually holding them back. “There I was, useless,” she said, “and everybody was okay. Everyone was fine. They were better. And Jim—stuff came out of him that he never had before. And things blossomed in my kids, and I watched it from afar. They didn’t need me, but they kind of did.”
 
+# make the find out for themselves
+
+- The philosopher John Stuart Mill would recall that in his own unique childhood education, which was supervised by his father, “anything which could be found out by thinking I was never told, until I had exhausted my efforts to find it out for myself.” It’s not that his father never helped him—like some homeschooling bean dad—it’s that he encouraged his son to take a crack at it first. More than encouraged—he let him struggle with it, let him not know until he either learned or learned how to learn. The boy had to try and fail before he came to the rescue.
+
+- Luctor et emergo, remember? I struggle and emerge? We have to make them understand that they have what it takes to do this on their own, and if they don’t, the best way to get it is to develop it by experience, by curiosity and exploration. We hold some of our answers back not because we don’t love them but because we love them so much. We let them struggle because we believe in them and because we believe even more in what will come out the other side.
+
+# How You See It Matters
+
+- While we’d never choose for these things to happen, we have to remember that when they do happen, we still do retain some choice: as James Stockdale did upon his descent into the North Vietnamese jungle, we choose how we see these difficult events. We choose the story we tell ourselves about them.
+
+- The power of this idea—whether it was embraced or rejected—revealed itself in the attitudes of parents during the pandemic. Too many parents chose to see that their children had been harmed, be it by distance learning or by not seeing their grandparents. Of course, these events were undesirable. And there were consequences. But “harmed”? This is a subjective word. This is a choice.
+
+- Will your children be affected by things that happen? By having to change teachers midyear because of a move? By having glasses? By a divorce? By their learning issues? Yes. It would be dishonest to claim otherwise. But negatively affected? That’s up to you. Because how you decide to see it and, more important, how you choose to respond are going to determine how your children perceive these events as well.
+
+# Don’t Start This for Them
+
+- "start-my-orange-for-me generation.” Meaning the kids she grew up with can’t even peel an orange without having their parents get it going first. And now as adults they suffer for it. Because for as long as they’ve been conscious of it, their parents have been doing stuff like that for them. Whether it was science fair projects started the night before or arguing with teachers over (bad) grades they’d rightfully earned or funding the down payment for a house they couldn’t afford, McMaster’s daughter was
+surrounded by learned helplessness.
+
+- There are lots of reasons for this snowplow, helicopter parenting style: narcissism, fear, insecurity, economic uncertainty, and, of course, real love. Regardless of the emotion behind it, the effect is the same.
+
+- Our goal is to raise self-sufficient kids. So let them peel their own oranges. That doesn’t mean just let them struggle like the bean dad; it means teach them. It means encourage them. It means set expectations for them. It means let them go off on their own.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
