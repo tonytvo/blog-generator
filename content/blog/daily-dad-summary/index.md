@@ -2027,14 +2027,14 @@ We can’t make them a specific kind of genius, but we can make them smart by sh
 
 - Marcus Aurelius wrote that what he learned from his great-grandfather was to “avoid public schools, to hire good private teachers, and to accept the resulting costs as money well spent.”
 
-- What Marcus was talking about is investing in your children’s education —whatever form you decide it will take. A tutor to teach them Spanish a couple times a month? A piano instructor? A yearly pass to the museum
-downtown? The gas and the commute to the magnet school on the other side of town instead of the closer but less rigorous one? Private tuition? One parent working less so you can homeschool?
+- Marcus was talking about investing in your children’s education —whatever form you decide it will take. A tutor to teach them Spanish a couple of times a month? A piano instructor? A yearly pass to the museum
+downtown? The gas and the commute to the magnet school on the other side of town instead of the closer but less rigorous one? Private tuition? One parent is working less, so can you homeschool?
 
-- None of this is cheap. But don’t think of it as an expense. Think of it as an investment. It’s the most important investment you can make—it’s an investment in their knowledge, in their education, in their future. It’s making them better. It’s worth what it costs.
+- None of this is cheap. But don’t think of it as an expense. Think of it as an investment. It’s the most important investment you can make—it’s an investment in their knowledge, education, and future. It’s making them better. It’s worth what it costs.
 
 # You Have to Unlock This
 
-- Just as we have to help introduce our kids to the world of ideas, we also have to help them discover the incredible power of thought. We have to give them a sense of the limitlessness of human potential trapped in those three pounds of soft tissue between our ears. We have to show them what a powerful mechanism they have been given; then we need to show them how
+- Just as we have to help introduce our kids to the world of ideas, we also have to help them discover the incredible power of thought. We have to give them a sense of the limitlessness of human potential trapped in those three pounds of soft tissue between our ears. We have to show them what a powerful mechanism they have been given; then, we need to show them how
 to use it.
 
 - We need to unlock their brains... as early as possible.
