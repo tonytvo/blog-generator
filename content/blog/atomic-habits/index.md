@@ -408,130 +408,132 @@ tags: ["selfdevelopment", "investing"]
   - Regular contributions outperform sporadic lump sums.
 
 ## How an Accountability Partner Can Change Everything
-Make it unsatisfying.
-“Pain is an effective teacher.” – James Clear
-Write down a habit contract.
-Make it as formal as you can. Signing in is important.
-You can automate the punishment if possible.
-Habit Contract template and example
-Here is an example of my meditation contract.
-Get an accountability partner.
-I have found that punishment of 1$ is enough when I have accountability partners.
-We care what people think about us.
-Be careful to not rub your elephant the wrong way.
-Only bind yourself to contracts you are willing to pay the cost.
-Being punished too often can result in a net negative in the long term.
-Advanced Tactics – How to Go from Being Merely Good to Being Truly Great
-18 – The Truth About Talent (When Genes Matter and When They Don’t)
-Habits are easier when they align with your natural abilities.
-“Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.” – James Clear
-Why try to swim against the current?
-Go with the flow and practice non-action (Tao Te Ching).
-“Find something that looks like work to others, but it feels like play to you.” – Naval Ravikant
-“The work that hurts you less than it hurts others is the work you were made to do.” – James Clear
-The smart way of doing trial and error.
-Explore/Exploit Trade-Off
-Explore more when you have more time.
-The better you are at something and the more satisfying it feels, the less time you should spend exploring.
-Spend upwards of 80% of your time exploiting and the rest exploring.
-Google asked their employees to work 80% of the time of their official jobs and the other 20% on projects of their choice.
-If you can’t find a game that favours your strength, create one.
-John Holland’s Theory of Career Choice (RIASEC)
-Interests + Abilities + Values
-There are too many things that fit your interests, abilities, and values?
-“Don’t be a donkey.” – Derek Sivers
-Who are you?
-Figure out who you were (Self-Authoring Program).
-Figure out who you are.
-https://www.16personalities.com/
-https://principlesyou.com/
-Figure out who you want to be (yearly).
-Begin with the end in mind (Habit 2). 7 Habits of Highly Effective People – Stephen R. Covey
-Designing Your Life – Bill Burnett & Dave Evans
-Design your system and habits according to the previous three steps.
-Questions to ask yourself:
-What feels like fun to me, but work to others?
-What makes me lose track of time?
-Where do I get greater returns than the average person?
-What comes naturally to me?
-There are two ways to be a world-class performer.
-Train until you rise to the top 1% of people in your field.
-Create a unique combination of things you are pretty good at (say 80th percentile).
-The more narrow this becomes, the less competition you have.
-Living examples are Scott Adams and Joe Rogan
-Publicly documenting your life is an easy way to become the best in the world at being you.
-“Genes do not eliminate the need for hard work. They clarify it. They tell us what to work on.” – James Clear
-Almost every trait has a genetic component (Robert Plomin).
-“Work hard on things that come easy.” – James Clear
-Boiling water will soften a potato but harden an egg. You can’t control whether you’re a potato or an egg, but you can decide to play a game where it’s better to be soft or hard.
 
-JAMES CLEAR
-19 – The Goldilocks Rule: How to Stay Motivated
-The Goldilocks Rule / Yerkes-Dodson Law
-Peak motivation occurs when the difficulty of a task matches
-State of Flow
-an average of 4% above our current ability to achieve flow.
-Zone of Proximal Development (ZPD)
-Fogg Behaviour Model
-B = MAP
-Behaviour = Motivation * Ability * Prompt
-“The greatest threat to success is not failure but boredom.” – James Clear
-Use a variable reward.
-The ideal distribution is a randomized 50/50 split.
-Don’t get discouraged by early failure streaks. Randomness is always at play.
-This does not apply to every habit.
-“You have to fall in love with boredom.” – James Clear
-set.seed(2021)
-x <- sample(x = c("Failure", "Success"), size = 56, replace = TRUE, prob = c(0.5, 0.5))
-table(x)
+- Make it unsatisfying.
+  - “Pain is an effective teacher.” – James Clear
+- Write down a habit contract.
+  - Make it as formal as you can. Signing in is important.
+  - You can automate the punishment if possible.
+  - [Habit Contract template and example](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Contract.pdf)
+- Get an accountability partner.
+  - I have found that punishment of 1$ is enough when I have accountability partners.
+  - We care what people think about us.
 
-Simulation of 56 binomial trials with 50/50 split. More failures than successes.
-18 – The Downside of Creating Good Habits
-Pros and cons of habits
-Pro: We do things without thinking.
-Con: We stop paying attention to the small errors.
-Con: Our established habits inflate our egos.
-Habits + Deliberate Practice = Mastery
-Mastering a field versus Mastering a habit (Figure )
-Peak – Anders Ericsson & Robert Pool
-Reflection is a good practice to avoid complacency.
-Tracking can help with checking our assumptions
-Types of practices
-annual reviews & integrity reports.
-Daily three questions for success?
-Weekly planning
-Mission Statement update
-Getting Things Done (GTD) – David Allen
-Journaling
-Meditation
-“The tighter we cling to our identity, the harder it becomes to grow beyond it.” – James Clear
-“Diversify your identity like you diversify your portfolio.” – me
-Define your identity on deeper transferable values instead of the specifics.
-Athlete ==> mentally tough, healthy, competitive, disciplined, team player, etc…
-Ego Is the Enemy – Ryan Holiday
-“Be water, my friend.” – Bruce Lee
-Mastering a Habit
-Mastering a Field
-Figure 16. Mastery requires deliberate practice and scaffolding of habits and challenges.
-Conclusion – The Secret to Results That Last
-Sorites Paradox
-One small action won’t change your life.
-Eventually, if you maintain a habit, one small action will be the “tipping point”.
-Feeling ==> Design
-How do I know which rule to apply?
-Hard to remember ==> Make it obvious
-Don’t feel like starting ==> Make it attractive
-Too difficult ==> Make it easy
-Doesn’t stick ==> Make it satisfying
-“Small habits don’t add up. They compound.” – James Clear
-Appendix
-Little Lessons from the Four Laws
-“Happiness is the state you enter when you no longer want to change your state. Suffering is the space between craving a change in state and getting it.” – James Clear
-Feelings come both before and after the behaviour
-Cue = Perception
-Cravings = Feeling
-Response = Behaviour
-Reward = Feeling
+- Be careful to not rub your elephant the wrong way.
+  - Only bind yourself to contracts you are willing to pay the cost.
+  - Being punished too often can result in a net negative in the long term.
+
+# Advanced Tactics – How to Go from Being Merely Good to Being Truly Great
+## The Truth About Talent (When Genes Matter and When They Don’t)
+
+- Habits are easier when they align with your natural abilities.
+  - “Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.” – James Clear
+  - Why try to swim against the current?
+    - Go with the flow and practice non-action (Tao Te Ching).
+  - “Find something that looks like work to others, but it feels like play to you.” – Naval Ravikant
+  - “The work that hurts you less than it hurts others is the work you were made to do.” – James Clear
+
+- The smart way of doing trial and error.
+  - Explore/Exploit Trade-Off
+    - Explore more when you have more time.
+    - The better you are at something and the more satisfying it feels, the less time you should spend exploring.
+- Spend upwards of 80% of your time exploiting and the rest exploring.
+  - Google asked their employees to work 80% of the time of their official jobs and the other 20% on projects of their choice.
+
+- If you can’t find a game that favours your strength, create one.
+  - John Holland’s [Theory](https://www.careers.govt.nz/resources/career-practice/career-theory-models/hollands-theory/) of Career Choice ([RIASEC](https://openpsychometrics.org/tests/RIASEC/))
+    - Interests + Abilities + Values
+    - There are too many things that fit your interests, abilities, and values?
+    - “Don’t be a donkey.” – [Derek Sivers](https://sive.rs/donkey)
+- Who are you?
+  - Figure out who you were ([Self-Authoring Program](https://www.selfauthoring.com/)).
+- Figure out who you are.
+  - https://www.16personalities.com/
+  - https://principlesyou.com/
+- Figure out who you want to be (yearly).
+  - Begin with the end in mind (Habit 2). [7 Habits of Highly Effective People](https://www.amazon.ca/Habits-Highly-Effective-People-Infographics-ebook/dp/B09LZ766JN) – Stephen R. Covey
+  - [Designing Your Life](https://www.amazon.ca/gp/product/B01BJSRSEC/) – Bill Burnett & Dave Evans
+  - Design your system and habits according to the previous three steps.
+
+- Questions to ask yourself:
+  - What feels like fun to me, but work to others?
+  - What makes me lose track of time?
+  - Where do I get greater returns than the average person?
+  - What comes naturally to me?
+
+- There are two ways to be a world-class performer.
+  - Train until you rise to the top 1% of people in your field.
+  - Create a unique combination of things you are pretty good at (say 80th percentile).
+  - The more narrow this becomes, the less competition you have.
+  - Living examples are Scott Adams and Joe Rogan
+  - Publicly documenting your life is an easy way to become the best in the world at being you.
+
+- “Genes do not eliminate the need for hard work. They clarify it. They tell us what to work on.” – James Clear
+  - Almost every trait has a genetic component (Robert Plomin).
+  - “Work hard on things that come easy.” – James Clear
+  - Boiling water will soften a potato but harden an egg. You can’t control whether you’re a potato or an egg, but you can decide to play a game where it’s better to be soft or hard.
+
+## The Goldilocks Rule: How to Stay Motivated
+
+- The Goldilocks Rule / Yerkes-Dodson Law
+  - Peak motivation occurs when the difficulty of a task matches
+
+- State of [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))
+  - an average of 4% above our current ability to achieve flow.
+
+- Zone of Proximal Development ([ZPD](https://en.wikipedia.org/wiki/Zone_of_proximal_development))
+
+- [Fogg Behaviour Model](https://behaviormodel.org/)
+  - Behaviour = Motivation * Ability * Prompt
+
+- “The greatest threat to success is not failure but boredom.” – James Clear
+  - Use a [variable reward](https://www.psychologytoday.com/intl/blog/brain-wise/201311/use-unpredictable-rewards-to-keep-behavior-going).
+    - The ideal distribution is a randomized 50/50 split.
+      - Don’t get discouraged by early failure streaks. Randomness is always at play.
+    - This does not apply to every habit.
+  - “You have to fall in love with boredom.” – James Clear
+
+## The Downside of Creating Good Habits
+- Pros and cons of habits
+  - Pro: We do things without thinking.
+  - Con: We stop paying attention to the small errors.
+  - Con: Our established habits inflate our egos.
+
+- Habits + Deliberate Practice = Mastery
+  - Mastering a field versus Mastering a habit ([figure](./master-habits-vs-master-field.png))
+  - [Peak](https://www.amazon.ca/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS) – Anders Ericsson & Robert Pool
+
+- Reflection is a good practice to avoid complacency.
+  - Tracking can help with checking our assumptions
+  - Types of practices
+    - [annual reviews](https://jamesclear.com/annual-review) & [integrity reports](https://jamesclear.com/integrity).
+    - Daily three questions for success?
+    - Weekly planning
+    - Mission Statement update
+    - [Getting Things Done](https://www.amazon.ca/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E) (GTD) – David Allen
+    - Journaling
+    - Meditation
+
+- “The tighter we cling to our identity, the harder it becomes to grow beyond it.” – James Clear
+  - “Diversify your identity like you diversify your portfolio.” – me
+  - Define your identity on deeper transferable values instead of the specifics.
+  - Athlete ==> mentally tough, healthy, competitive, disciplined, team player, etc…
+- Ego Is the Enemy – Ryan Holiday
+- “Be water, my friend.” – Bruce Lee
+
+## Conclusion – The Secret to Results That Last
+
+- Sorites Paradox
+  - One small action won’t change your life.
+  - Eventually, if you maintain a habit, one small action will be the “tipping point”.
+
+- Feeling ==> Design
+- How do I know which rule to apply?
+  - Hard to remember ==> Make it obvious
+  - Don’t feel like starting ==> Make it attractive
+  - Too difficult ==> Make it easy
+  - Doesn’t stick ==> Make it satisfying
+  - “Small habits don’t add up. They compound.” – James Clear
 
 # Quotes
 
