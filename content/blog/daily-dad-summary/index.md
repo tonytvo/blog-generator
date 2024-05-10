@@ -2041,15 +2041,15 @@ to use it.
 
 # Not Just to Read, but to Read Critically
 
-- A book is not a one-way conversation. It’s a dialogue between the reader and the writer, between the past and the present. Show them how to take notes, how to disagree, how to question what they see on the page, and how to participate in the dialogue that has begun in the pages they are holding.
+- A book is not a one-way conversation. It’s a dialogue between the reader and the writer, between the past and the present. Show them how to take notes, disagree, question what they see on the page, and participate in the dialogue that has begun on the pages they are holding.
 
-- They need to know: No one book is definitive. No one school or system has all the answers. Show them how to read books from opposing thinkers. Read one book together... then read something that presents a different point of view. Talk about the importance of debate, how to compare and contrast. Teach them to be more than a reader, teach them to be a wide-ranging, critical reader. A questioner. A reviewer. A thinker.
+- They need to know: No one book is definitive. No one school or system has all the answers. Show them how to read books from opposing thinkers. Read one book together... then read something that presents a different point of view. Talk about the importance of debate and how to compare and contrast. Teach them to be more than a reader. Teach them to be a wide-ranging, critical reader. A questioner. A reviewer. A thinker.
 
 # Protect This Impulse
 
-- We have to remember that our job as parents, as educators, is not to keep our kids in line for its own sake. It’s not to crush their initiative because it’s disruptive or uncomfortable or difficult for us. We have to encourage them. We have to make space for our kids.
+- We must remember that our job as parents and educators is not to keep our kids in line for their own sake. It’s not to crush their initiative because it’s disruptive, uncomfortable, or difficult for us. We have to encourage them. We have to make space for our kids.
 
-- If they want to read? By God, let them! If they want to skip ahead or deviate from the conventional path? Cheer them on! Who knows, they may have just found their way
+- If they want to read? By God, let them! Do they want to skip ahead or deviate from the conventional path? Cheer them on! Who knows, they may have just found their way
 
 # It’s About the Right Moment
 
