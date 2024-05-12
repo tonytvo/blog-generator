@@ -2065,7 +2065,7 @@ to use it.
 
 # The Two Most Important Skills to Teach Your Kids
 
-- Kids learn dance in PE but pubic speaking and debate are optional, extracurricular activities. How nuts is that? Kids are evaluated on standardized tests... as if effective communication can possibly be captured via multiple choice. In fact, the questions and passages on standardized tests are often the epitome of poor writing and ineffective communication!
+Kids learn to dance in PE, but public speaking and debate are optional extracurricular activities. How nuts is that? Kids are evaluated on standardized tests, as if effective communication can be captured via multiple-choice questions. The questions and passages on standardized tests are often the epitome of poor writing and ineffective communication!
 - If schools aren’t going to do it, we parents have to. It’s on us to teach our kids these important skills—to make sure they’re able to express themselves on the page and in person. We’ve got to give them the opportunities to get up and address an audience—and encourage the confidence required to be comfortable doing so.
 
 - Whatever happens in the future, communication will be key (and king). It’s your job to make sure they’re ready.
