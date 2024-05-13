@@ -2072,14 +2072,14 @@ Kids learn to dance in PE, but public speaking and debate are optional extracurr
 
 # Let’s Get to the Bottom of It
 
-- Yes, we’re busy. Yes, we know stuff. But we can’t just tell them what we know. We have to show them. We have to roll up our sleeves, take off our hats, and get to the bottom of stuff together.
+- Yes, we’re busy. Yes, we know stuff. But we can’t just tell them what we know. We have to show them. We must roll up our sleeves, remove our hats, and get to the bottom of stuff together.
 
 # Provide Them with This Unusual Advantage
 
-- “The greatest thing in our favor,” Orville explained, “was growing up in a family where
+- “The greatest thing in our favour,” Orville explained, “was growing up in a family where
 there was always much encouragement to intellectual curiosity. If my father had not been the kind who encouraged his children to pursue intellectual interests without any thought of profit, our early curiosity about flying would have been nipped too early to bear fruit.”
 
-- We have to do this too. We have to cultivate their curiosities, whatever they may be. We have to encourage their interests, without any thought of whether or not they might be able to profit from them. We don’t have to be special, or specialists, to give them this unusual advantage.
+- We have to do this too. We have to cultivate their curiosities, whatever they may be. We have to encourage their interests without considering whether they might be able to profit from them. We don’t have to be special or specialists to give them this unusual advantage.
 
 # Raise Them to Be a “Why” Child
 
