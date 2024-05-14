@@ -2085,19 +2085,19 @@ there was always much encouragement to intellectual curiosity. If my father had 
 
 - A “ ‘why’ child”—what a delightful phrase! Isn’t that who we’re trying to raise? A child who knows how to figure things out. A child who isn’t content with taking things at face value, who isn’t satisfied with simple explanations.
 
-- Can this be annoying? Absolutely. It can even get them in trouble. But curious is better than complacent, and annoying is better than ignorant. To be sure, there will be times when you’re too tired to answer their questions. There will be other moments when you feel their questions are inappropriate. But in those moments, you must pause and breathe and remember that you have to seed this habit. You have to make sure you water
+- Can this be annoying? Absolutely. It can even get them in trouble. But curious is better than complacent, and annoying is better than ignorant. To be sure, there will be times when you’re too tired to answer their questions. There will be other moments when you feel their questions are inappropriate. But in those moments, you must pause, breathe, and remember that you have to seed this habit. You have to make sure you water
 it too—and do your best never to stamp it out.
 
-- The more questions they ask, the better. Not just for you or for them but
+- The more questions they ask, the better. Not just for you or for them, but
 for the world they live in.
 
 # Show Them What They’ll Get Out of This
 
 - the way to teach a kid to love books—as the great lover of books Robert Greene has said—is by appealing to their self-interest. Show them what they will get out of books. Tangibly. Immediately. Better yet, find them a book that will have a big payoff for them.
 
-- President Joe Biden has talked about how reading earlier in his life about the orator Demosthenes and his speech impediment helped him overcome his own stutter—you think an experience like that, early on, doesn’t turn a person into a reader for life? Find them books that will entertain them. That will help them get their crush to like them. That will make them laugh. That will piss their teachers off. That will help them learn a new skill or solve a problem or feel less alone.
+- President Joe Biden has talked about how reading earlier in his life about the orator Demosthenes and his speech impediment helped him overcome his stutter—you think an experience like that, early on, doesn’t turn a person into a reader for life? Find the books that will entertain them. That will help them get their crush to like them. That will make them laugh. That will piss their teachers off. That will help them learn a new skill, solve a problem, or feel less alone.
 
-- Focus on the ROI—because that’s what books are, investments. You put down a few dollars, commit several hours, and you get something back. To get your kids to read, you have to be a reader, of course, but you also have to show them what they will get out of books. Or else why would they bother?
+- Focus on the ROI because that’s what books are about investments. You put down a few dollars, commit several hours, and get something back. To get your kids to read, you must be a reader, of course, but you also have to show them what they will get from books. Or else why would they bother?
 
 # Never Make Fun of Them for This
 
