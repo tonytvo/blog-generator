@@ -2537,9 +2537,9 @@ house . . . are a way to teach your kids about responsibility. As a parent, you
 always have to be looking for the double opportunity. Time is at a premium.
 Resources are scarce. Don’t waste any of them.
 
-You’d Do This Only for Them
-T
-he comedian Hasan Minhaj tells a story about taking his young daughter
+# You’d Do This Only for Them
+
+The comedian Hasan Minhaj tells a story about taking his young daughter
 to school picture day. She had a runny nose and was having trouble
 wiping it. The next thing he knew, he found himself sucking the snot out of
 his daughter’s nose with a Starbucks straw. As the sheer foulness of the
@@ -2557,11 +2557,11 @@ time—Hasan will not be sucking snot through straws a few years from now
 kids.
 
 
-Do Not Be Afraid
-The world is a narrow bridge, and the important thing is not to be afraid.
-—HEBREW PRAYER
-D
-o you know what the most repeated phrase in the Bible is? It’s “Be not
+# Do Not Be Afraid
+
+- The world is a narrow bridge, and the important thing is not to be afraid. —HEBREW PRAYER
+
+Do you know what the most repeated phrase in the Bible is? It’s “Be not
 afraid.” Over and over again these words appear. They’re a warning
 from on high to “be strong and of good courage,” as we hear in the book of
 Joshua. “Do not be afraid nor be dismayed.”
@@ -2584,9 +2584,9 @@ they’re struggling. That is when they need us most.None of this parenting stuf
 And it matters whether you have the courage to step up and do it every day
 for the rest of their lives.
 
-Everybody Is Going Through Something
-A
-t five years old, the future NFL linebacker Ryan Shazier started losing
+# Everybody Is Going Through Something
+
+At five years old, the future NFL linebacker Ryan Shazier started losing
 his hair. It turned out to be a rare autoimmune disease called alopecia
 and, as you can imagine, not exactly an easy thing for a kid to go through. He
 was teased. He was looked at strangely. He felt different.
@@ -2606,10 +2606,9 @@ about those difficult moments. And they will be armed with the empathy they
 need to be kinder and more understanding of other kids too.
 
 
+# What Are You Even Fighting About?
 
-What Are You Even Fighting About?
-T
-here is no family immune to conflict. The problem, then, is not that
+There is no family immune to conflict. The problem, then, is not that
 conflicts happen; it is how we handle them when they occur, how we let
 these disagreements and miscommunications take on a life of their own. As
 Bruce Springsteen sings in “Tucson Train”:
@@ -2631,9 +2630,9 @@ joy out of our lives. Life is too short, family is too precious, to destroy over
 nothing.
 
 
-Look for the Excuse
-W
-hen he was a young teenager, Lewis Puller Jr. got himself an
+# Look for the Excuse
+
+When he was a young teenager, Lewis Puller Jr. got himself an
 afternoon paper route. It was one of those things that his parents
 insisted on so he could learn responsibility and hard work and all that. And it
 was certainly good for that.
@@ -2653,11 +2652,11 @@ they have to go to bed . . . or you could stay up and watch TV together.
 Look for the excuse. Find the opportunities.
 
 
-Don’t Let Them Sneer
-The poorest way to face life is to face it with a sneer.
-—THEODORE ROOSEVELT
-I
-t is so easy to fall into the clutches of forces like contempt and wallflower
+# Don’t Let Them Sneer
+
+- The poorest way to face life is to face it with a sneer. —THEODORE ROOSEVELT
+
+- It is so easy to fall into the clutches of forces like contempt and wallflower
 nihilism and superiority. But this kind of cynicism, a wise man once said,
 is really a kind of cowardice. It voids creativity, collaboration, and
 connection. And we model it almost unthinkingly. Little comments under our
@@ -2671,13 +2670,12 @@ earnest. Let them care and try. Better yet, let them infect you with their
 sincerity and the clarity of their passion.
 Whatever you do, don’t let your cynicism infect them.
 
+# Let Them Take You Down a Peg
 
-Let Them Take You Down a Peg
 A proud man is always looking down on things and people; and, of course, as long
-as you are looking down, you cannot see something that is above you.
-—C. S. LEWIS
-I
-n the midst of the Civil War, Abraham Lincoln went to visit the defenses
+as you are looking down, you cannot see something that is above you. — C. S. LEWIS
+
+In the midst of the Civil War, Abraham Lincoln went to visit the defenses
 that ringed Washington, DC. As he inspected the front lines, a Confederate
 sniper took a shot at him—and, thankfully, missed. A soldier nearby shouted
 at Lincoln, “Get down, you damn fool!”
