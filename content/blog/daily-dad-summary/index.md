@@ -2502,56 +2502,21 @@ together?
 
 # Let Them See You in Your Element
 
-I loved going with my father to the legislature. I would sit in the galley for hours
-watching all the activity on the floor and then would wander around the halls trying
-to figure out what was going on.
-—LYNDON JOHNSON
-W
-hat do you think drew Steph Curry to basketball? It was the time he
-spent in arenas watching his dad play. The lights before the team ran
-through the tunnel. The cheers of the crowd. The pounding of the music. The
-sound of the buzzer. Seeing Dad do his thing. Even Curry’s obsession with
-popcorn hints at a kid who spent countless afternoons and evenings in NBA
-arenas, soaking in not just the sights and sounds but even the smells and the
-tastes.
-This is an old story, one as old as parenthood itself. It’s why blacksmiths
-had sons who became blacksmiths, why as soon as women were allowed to
-have careers, the daughters of teachers followed their mothers into the
-classroom and soon enough into more and more elite professions.
-So let your kids see you work. Expose them to the good and the bad of it,
-even the boring parts of it. You have no idea what parts they’ll find exciting.
-You never know what you might be opening their eyes to. Don’t pressure
-them to go into the “family business,” of course, but give them a chance to
-see how that business runs. Let them see you in your element.
+- What do you think drew Steph Curry to basketball? It was the time he spent in arenas watching his dad play. The lights before the team ran through the tunnel. The cheers of the crowd. The pounding of the music. The sound of the buzzer. Seeing Dad do his thing. Even Curry’s obsession with popcorn hints at a kid who spent countless afternoons and evenings in NBA arenas, soaking in not just the sights and sounds but even the smells and the tastes.
 
-This Is the Highest Praise
-I
-n the book My First Coach by Gary Myers, Tom Brady’s father, Tom
-Brady Sr., was told some of the things his son had to say about how much
-he enjoyed being with his dad growing up. Tom Sr. was visibly taken aback
-by the remarks. They were that yearned-for confirmation that every parent
-desires. As he said:
-I think every father relishes time with their sons, and you never
-know if the son relishes time with his father. For me to hear he
-respects me, as much as I respect him, is the most satisfying feeling
-that I could ever have. I remember when he was still in high school
-and I would go in to wake him up in the morning so we could go
-play golf. It was always the greatest joy for me that he wanted to
-play golf with me. Years later, he made the comment that, “I never
-wanted to stay out late on Friday night because I wanted to play golf
-with my dad Saturday morning.”
-If there is one way to judge, in the end, whether you’ve done this thing
-right, that is it. It’s the ultimate test of a parent’s worth: Did you build the
-kind of relationship where your kids want to spend time with you? This isn’t
-something that you just throw up your hands and hope for. It doesn’t just
-happen because your personalities magically align. It’s something you have
-to work for—you have to create the alignment. You have to build the
-relationship.
+- This is an old story, one as old as parenthood itself. It’s why blacksmiths had sons who became blacksmiths, why as soon as women were allowed to have careers, the daughters of teachers followed their mothers into the classroom and soon enough into more and more elite professions.
 
+- So let your kids see you work. Expose them to the good and the bad of it, even the boring parts of it. You have no idea what parts they’ll find exciting. You never know what you might be opening their eyes to. Don’t pressure them to go into the “family business,” of course, but give them a chance to see how that business runs. Let them see you in your element.
 
-Look for the Double Opportunity
-B
-ill Simmons is a busy man. He’s a writer, a podcaster, a CEO, a
+# This Is the Highest Praise
+
+- I think every father relishes time with their sons, and you never know if the son relishes time with his father. For me to hear he respects me, as much as I respect him, is the most satisfying feeling that I could ever have. I remember when he was still in high school and I would go in to wake him up in the morning so we could go play golf. It was always the greatest joy for me that he wanted to play golf with me. Years later, he made the comment that, “I never wanted to stay out late on Friday night because I wanted to play golf with my dad Saturday morning.”
+
+- If there is one way to judge, in the end, whether you’ve done this thing right, that is it. It’s the ultimate test of a parent’s worth: Did you build the kind of relationship where your kids want to spend time with you? This isn’t something that you just throw up your hands and hope for. It doesn’t just happen because your personalities magically align. It’s something you have to work for—you have to create the alignment. You have to build the relationship.
+
+# Look for the Double Opportunity
+
+Bill Simmons is a busy man. He’s a writer, a podcaster, a CEO, a
 documentary film producer, a husband, and a father of two. His eldest,
 Zoe, played on a big-time travel soccer team. So every weekend for months
 during soccer season, Simmons drove for hours around Southern California
