@@ -2452,6 +2452,49 @@ positive about.
 - What a tradition you are part of. Think how many parents have come before you and will come after. We all struggle. We all triumph. We all smile
 watching our kids play in the sand. Parenthood, this timeless enterprise.
 
+# There Is Nothing Better Than This
+
+- Nothing’s better, as Bruce Springsteen put it, than blood on blood. There is a lot of great stuff in life, but nothing is better than family. That’s what he’s saying. The blood relationship is not what he’s talking about. He’s talking about the bond. The people you’d do anything for.
+
+- So the question to think about today is: If this really is the best and most important thing in your world, are you really building your life around it? We pull extra hours at the office to get promoted. We take risks to make investments with our money. We make plans to see friends or have fun. But do we actively sacrifice and scheme so that we might have more of that one pleasure that tops them all? Do we actively prioritize the thing that truly matters most? Those moments when blood is on blood, when family is
+together?
+
+# This Is Why You’re Here
+
+- sometimes you get a glimpse into the lives of childless people and feel a tinge of jealousy. How much more time they have. Even the acronym DINK can make your mouth water a bit: dual incomes, no kids.
+
+- And yet? You know you made the right choice, not just because you love your kids but because kids give us the most important thing in the world. They give us purpose—a reason why we’re here. That verse from the Gospel of Mark should land deeply with any parent.
+
+- We are here to give them a good life... and in so doing, make our own lives worth living. So there is no need to feel jealous. If there is anyone to envy, it’s you.
+
+# You Should Like Being Their Chauffeur
+
+- what am I, many a parent has asked their kid, your chauffeur? What do you think I am, an Uber driver? It’s understandable—it can be a pain to drive your kids around. To school. To a friend’s house. To football practice. Sometimes it can feel like this is all parenting is—driving a little person around... for free.
+
+- But instead of seeing this as an obligation, see it as a gift. For a bunch of reasons. First off, twenty minutes in the car can be something you share and remember forever.
+
+- Second, how often do you get this kind of captive audience? You guys are stuck together! This is wonderful. This is what you wanted, right? An opportunity to connect? To bond? To have fun? So use it!
+
+- Third, as many parents with older kids will tell you, something changes when kids are in the car with you. Suddenly, you’re not the parent. You’re just a companion. Kids will share and say things in the car they wouldn’t say anywhere else. Or better, if their friends are with them in the car too, you fade into the background and suddenly get to watch how your kid is with other people. You’ll learn things about your own son or daughter that you’d never know otherwise. You’ll get a glimpse into who they are in a way they could never articulate to you directly.
+
+- The point is: driving your kids around is a privilege. It’s an opportunity. Don’t complain about it. If anything, volunteer to do it!
+
+# You’ll Want Them Close
+
+- We all want great things for our children... but most of all, especially when we’re older, we’re going to want them to be close to us. How can we increase our chances of that? How can we do our best to ensure the existence of that lovely, crowded table we talked about the other day?
+
+- By being pleasant to be around. By not making our anxieties and fears our kids’ problem. By loving them as much as we push them. By helping them be who they are... not what we think they should be. By asking ourselves, every time we feel like criticizing or judging or starting an argument, Is this worth what I am about to withdraw from our relationship?
+
+- By putting them first, but not putting everything on them, we might one day find them as close to us at our table as they are close to our hearts.
+
+# No, This Is the Special Part
+
+- The idea was to really try on her son’s perspective on the world. So they walk out of the apartment, down the hall to the elevator, into and then and out of the elevator, and across the lobby to the front door, where they would start the walk. And as Alexandra went to check in with her baby boy, she suddenly realized... that the walk had begun all the way back inside the apartment.
+
+- To a kid, the world is a very different place from the one we live in and walk through and, if we’re being honest, take for granted. This has more to do with their size and their inexperience than anything else, but that doesn’t invalidate their opinions and impressions. If anything, it opens a new window for us to look at the world through, as it did for Alexandra. It reminds us of how we felt about new things when we were their age. It is an antidote to cynicism and world-weariness.
+
+- As parents, we have to appreciate the fact that our kids can help us see the world maybe better than we can help them see it. They can help us see that anything can be special and fun, that a walk doesn’t have to be outside, that dinner can be anywhere and a cardboard box can be more fun than the Christmas present it was carrying. We have to encourage this spirit. We have to make sure we don’t crush it with subtle corrections and insistence on the “official” way things are or should be. Most of all, we have to learn from their perspective and add it as much as possible to our own lives.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY
