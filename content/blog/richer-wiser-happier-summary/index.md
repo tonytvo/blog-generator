@@ -51,6 +51,14 @@ tags: ["investing", "valueinvesting"]
 - “Think about how you can actively enhance your memory dividends. Would it help you to take more photos of your experiences? To plan reunions with people you’ve shared good times with in the past? Compile a video or a photo album?”
 We could start playing a slideshow of our albums on Google photos on a digital frame in our apartment.
 
+- **Cherishing Memorable Moments**
+  - Memorable moments don’t always have to come from life-changing events. Sometimes, the simple, everyday occurrences leave a lasting impact on our memories.
+
+  - **Take time to reflect**: Set aside a few minutes each day to recall special moments and acknowledge their impact on your life.
+  - **Be present**: Practice mindfulness and fully immerse yourself in the present moment during activities.
+  - **Capture memories**: Document your experiences and emotions using photographs, journals, or social media platforms.
+  - **Celebrate milestones**: Recognize and acknowledge accomplishments, big or small, to celebrate your progress and growth.
+
 # Aim to die with zero.
 
 - “Now, the vast majority of people can only dream of retiring by the relatively young age of 38—yet for John, that retirement age was actually a few years too late. Why? Two reasons. First, he’ll never get those years back that he spent just focusing on making money. He’ll never be 30 again, and his children will never again be babies. Second, he made so much money that he now faces the Brewster’s Millions problem: It’s actually hard to spend his fortune fast enough. He already lives in a magnificent house and these days does pretty much what he wants. One reason he can’t use up his money is his kids: Much as he’d enjoy having the über-popular pop band Maroon 5 play private concerts in his backyard every Saturday, for example, he doesn’t do anything of the sort, because he doesn’t want to spoil his children.”
@@ -101,6 +109,23 @@ We could start playing a slideshow of our albums on Google photos on a digital f
 
   - “Without an annuity, on the other hand, you are forced to self-insure—to be your own insurance agent. That’s not a great idea, because unlike the insurance agents who work for big insurance companies, you don’t have the ability to pool risk and cancel out errors on both sides. So, to feel financially secure until the end of your days, you will have to leave a large cushion to cover the worst-case scenario: You will have to oversave, which means that more likely than not you will end up dying with considerable money left over. You’ll have worked for years earning money that you never got to enjoy.”
 
+- **Automating Finances**
+
+  - A major step in the Die With Zero process is to establish a reliable financial system. The best way to get there is to automate it as much as possible. You can read this article for more details on my system works, but here are the basic steps.
+
+    - Create a savings account for each financial goal.
+    - Calculate your contribution amount based on often you want to make the payments and how far in the future you need the money.
+    - Determine the location of your account.
+    - Savings account: low interest, best for short-term goals (1 to 6 months)
+    - High-interest savings account: best for medium-term goals (6 months to 3 years)
+    - GICs: best for medium-term goals (6 months to 3 years) where you know you won’t need the money
+    - Investments: best for long-term goals (3 years or more)
+    - Make sure that all income streams flow into your no-fee checking account.
+    - Automate a contribution from your checking account to your goal account. DONE.
+
+  - There’s no better feeling than having a guilt-free experience, knowing that it’s paid for. It also helps you sleep at night knowing that your money is working for you without having to lift a finger. It frees you from having to make tough decisions all the time.
+
+
 # Give money to your children or to charity when it has the most impact.
 
 - **Inheritances**
@@ -127,6 +152,10 @@ We could start playing a slideshow of our albums on Google photos on a digital f
   - “Through organizations like Save the Children and Compassion International, you can sponsor a child for less than $500 per year, helping the child grow up safe, healthy, and better educated—and starting a positive cycle for future generations.”
   - “If you don’t have as much money to give away as you’d like, you still probably have time to give.”
 
+- The goal is to have roughly 50k for each child. I can use an [RESP](https://www.getsmarteraboutmoney.ca/learning-path/resps/how-resps-work/) and combine it with government matching. Based on this calculator, saving roughly 150$ dollar per child per month from the time they’re born should be sufficient to pay for an undergraduate degree. This is especially true if they qualify for grants and scholarships.
+
+- I plan to tell them that roughly 50k will be distributed to them as needed throughout their twenties and thirties. The less they use for school, the more they’ll have for starting their life. I can distribute this amount as birthday gifts, Christmas gifts, wedding gifts, graduation gifts, etc.
+
 # Don’t live your life on autopilot.
 
 - **Spending-to-saving ratio**
@@ -143,6 +172,14 @@ We could start playing a slideshow of our albums on Google photos on a digital f
   - “Friends who are around my age agree: At a certain point, your memories of having played football are a lot more pleasant than playing football.”
   - “That’s a good thing, because the better you’re able to maintain your health during your lifetime, the higher your lifetime fulfillment score will be.”
   - Each age tends to have a different balance of health, money, and free time. Because fulfillment requires reasonable amounts of all three, it’s a good idea at every age to trade an abundance of one (such as money) to attain more of the other two (such as buying more health or free time).
+
+- **mini-retirement**
+  - Tim Ferris talks about mini-retirements in The 4-hour Work Week. It aligns quite well with the Die With Zero philosophy. Why delay gratification until we’re not able to enjoy travelling to start travelling? Interweaving extended periods of a few months during your career is a great way to find balance and come back energized.
+
+  - As a teacher, we have three built-in options for mini-retirements in addition to having summers off:
+    - Deferred Leave: “For example, if the employee opts for a 4/5 method, they would save and defer twenty percent (20%) of their salary each year for four (4) years, take a leave of absence in the fifth year, and be paid the amount saved (80% of salary) over a twelve (12) month period. See the Deferred Leave Guide for a complete list of X/Y options.” I can do this as often as I want.
+    - Sabbatical Leave: I can leave for a year at a certain percentage of my salary and the district will keep my job. I can only take this option once in my career, I think.
+    - Educational Leave: My school would need to approve that I go back to school with the intention of coming back to teaching. Might be interesting to do a PhD.
 
 - **The three-factor model**
   - “In our three-pronged model—where fulfillment from a single experience is a function of health, money, and free time—health is the single biggest factor (or multiplier) affecting the size of a person’s lifetime fulfillment curve: Our simulations show that even a small permanent reduction in health at some point in a person’s life amounts to a large reduction in the person’s lifetime fulfillment score.”
@@ -166,13 +203,18 @@ We could start playing a slideshow of our albums on Google photos on a digital f
   - “Draw a timeline of your life from now to the grave, then divide it into intervals of five or ten years. Each of those intervals—say, from age 30 to 40, or from 70 to 75—is a time bucket, which is just a random grouping of years. Then think about what key experiences—activities or events—you definitely want to have during your lifetime. We all have dreams in life, but I have found that it’s extremely helpful to actually write them all down in a list.”
   - “For example, you might want to have a child, run the Boston Marathon, hike the Himalayas, build a house, file a patent, start a business, volunteer for Doctors Without Borders, dine at a Michelin-star restaurant, attend the Sundance Film Festival, go skiing 50 times, go to the opera, take a cruise to Alaska, read 20 classic novels, attend the Super Bowl, compete in a Scrabble tournament, visit Yellowstone, see autumn in Vermont, take your kids to Disneyland three times, and so on.”
   - “Then, once you have your list of items, start to drop each of your hoped-for pursuits into the specific buckets, based on when you’d ideally have each experience.”
-  - “Remember, we’ve been focusing only on two key components of your time buckets: your physical health and your life’s dreams. We deliberately pushed financial concerns off to the side, because it’s always too easy to blow off our dreams by simply saying, “Sounds really nice, but let’s face it . . . I can’t afford that.” Focusing on money distracts from the hard truth that time and health are fleeting.”
+  - “Remember, we’ve been focusing only on two key components of your time buckets: your physical health and your life’s dreams. We deliberately pushed financial concerns off to the side, because it’s always too easy to blow off our dreams by simply saying, “Sounds really nice, but let’s face it... I can’t afford that.” Focusing on money distracts from the hard truth that time and health are fleeting.”
+  - The **amount of activities per bucket decreases with age**, given that our health is expected to decrease.
+  - The **average cost per activity drops sharply in old age**. This implies that our nest egg of retirement savings may not need to big as we think. I think my lifestyle as an old man will be relatively cheap.
+  - The **autopilot of life pulls us away from our time buckets.** We need to block off chunks of our calendars and make it a priority. See the last section to see how I plan to implement this
   - Now, you might notice as you fill up your time buckets that some experiences are more flexible than others. For example, you can still enjoy visiting libraries, watching classic movies, reading novels, and playing chess well into your old age. Taking a cruise can be enjoyable at just about any age. Still, as you start filling up your time buckets, you’ll probably see that the experiences you want to have in life don’t fall evenly across the ages. Instead, they naturally cluster during certain periods—taking on roughly the shape of the right side of a bell curve (see figure below).
   - “Experiences Clustered in Your Twenties vs More Traditionally Distributed Around Midlife   Without the constraint of money, most of your experiences would optimally occur in your twenties and thirties, when your health is highest. But in reality, most people’s spending is clustered around midlife instead.”
   - “If you have children, think about your own version of the Heffalump movie: What one experience do you want to have more of with them in the next year or two, before that phase of their life and your life is over?”
-  - Connects with Tim Ferris’ [80/20 calendar review](https://tim.blog/2021/12/27/past-year-review/)
   - “As you go through life, your interests change and new people enter your life, so it’s a good idea to repeat the time-bucketing exercise every now and then, such as every five or ten years. One of the most important times to re-bucket your life is when you’re nearing your net worth peak.”
     - Add a reminder in Google Calendar that repeats every 10 years to revisit your Time Buckets.
+
+- Connects with Tim Ferris’ [80/20 calendar review](https://tim.blog/2021/12/27/past-year-review/)
+  - [embrace hell yeah or no](https://sive.rs/n)
 
 # Know when to stop growing your wealth.
 - But a number should not be most people’s main goal. One reason is that, psychologically, no number will ever feel like enough.
@@ -228,6 +270,37 @@ We could start playing a slideshow of our albums on Google photos on a digital f
   - “In all these cases, you can take the safer path of quiet misery or the bolder path that’s less certain but potentially much more rewarding, both financially and psychologically.”
   - “I figured that if the post office was always hiring, and provided a safe income, I could always go work there if all else failed; but there’s no need to start there.”
   - “If that’s the case, your failure is no longer your own—it affects other people. It’s for the same reason that I stopped riding motorcycles and taking flying lessons once I had kids: In my mind, I no longer had the right to put my life on the line for the sake of those thrills.”
+
+# Questions
+
+- **gift what you intend for your kids (or charities) while you’re still alive.** Why hold on until the end?
+
+- **What memories would you want your kids to associate with you? What experiences would you like them to share with you?**
+
+- Does every extra hour at work truly justify the sacrifice for both you and your children?
+
+- **Is your job enriching your legacy or chipping away at it**?
+
+- How does Die With Zero differ from traditional financial planning?
+  - Die With Zero challenges the conventional financial planning approach by emphasizing the importance of enjoying and spending money during your life, rather than solely focusing on saving and accumulating wealth for retirement. Traditional financial planning often advocates for growing wealth and minimizing risks, while Die With Zero encourages spending on memorable experiences and deriving fulfillment from life.
+
+- How can the Die With Zero approach be applied to achieve financial independence?
+
+- Does the book suggest that we shouldn’t save money for the future and instead spend all we have in the present?
+  - Not necessarily. The book’s central message is not about spending recklessly but prioritizing life’s peak experiences while you have the time and health to enjoy them. It proposes that while having enough money for security is essential, it’s equally crucial not to sacrifice too much time merely accumulating wealth. Instead, focus on creating enjoyable experiences, which become a significant sum of your life’s fulfillment.
+
+- **What if I run out of money before I die?**
+  - Bill’s main point is that we fear running out of money a lot more than it’s actually likely to happen. People who save for the future tend to save up too much, and wait until too late in their lives to spend it on fulfilling experiences, if at all.
+  - Big caveat: this all assumes you’re a reasonably high earner with disposable income and savings. If you’re not, please don’t take the book too seriously.
+
+- **What about the kids?**
+  - if you give them that money when they’re 25-35, that windfall will be ridiculously helpful. With a big chunk of cash at that age, your kids can:
+    - Put down a deposit on a house
+    - Start their own company
+    - Afford to have their own kids
+    - Pursue interesting careers instead of working horrible jobs to make rent.
+
+Don’t wait until you die to give money away to your kids. If you’re going to do it, do it when you’re alive, and when they’re younger, when the money will be most effective.
 
 # Bill Ruane
 
@@ -590,5 +663,22 @@ I always look at things in terms of ‘Where’s the mistake? Is the mistake in 
 
 "It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements." — Sir David Brailsford, coach of the British cycling team
 
+“The sad truth is that too many people delay gratification for too long, or indefinitely. They put off what they want to do until it’s too late, saving money for experiences they will never enjoy.”
+
+“When the end is near, we suddenly start thinking, What the hell am I doing? Why did I wait this long? Until then, most of us go through life as if we had all the time in the world.”
+
+“We all get one ride on this roller coaster of life. Let’s start thinking about how to make it the most exciting, exhilarating, and satisfying ride it can be.”
+
+“If you’ve got any money left in your bank account by the time you die, you’ve done something wrong”.
+
+
 # References
 - [novelinvestor summary](https://novelinvestor.com/notes/richer-wiser-happier-by-william-green/)
+- https://aliabdaal.com/book-notes/die-with-zero/
+- https://www.debtfreedr.com/die-with-zero-summary/
+- https://duddhawork.com/blog/die-with-zero-book-notes/
+- https://duddhawork.com/blog/die-with-zero-implementation/
+- https://www.clearwhitespace.com/post/die-with-zero-book-summary
+- https://public.summaries.com/files/1-page-summary/die-with-zero.pdf
+- https://synapsetrading.com/die-with-zero/
+- https://growthabit.com/business-finance-books/die-with-zero-book-summary-review-notes/

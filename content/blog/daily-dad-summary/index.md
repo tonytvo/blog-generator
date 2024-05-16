@@ -2426,6 +2426,32 @@ positive about.
 
 - So don’t complain about the inconveniences. Enjoy them. They’re a blessing. Now you get to spend more time with your kids.
 
+# There Must Be Hope
+
+- You have kids now and you don’t get to be a cynical, angry person anymore. Because you’re responsible for the raising of the next generation.
+
+- It is imperative that we give our children hope. That we explain the world to our kids in a way that empowers them with agency, that shows them progress is (and has been) possible. That as awful as things are, as the poet Maggie Smith says, the world still has good bones. Like a good real-estate agent, she tells us, we have to convince our kids that they could turn this into something beautiful. You have to show them that they can make a difference, then equip them with the skills, the resources, and the responsibility to do so. You have to teach them that no one and nothing is irredeemable.
+
+# You’ll Want Them to Come to You with Problems
+
+- Well, then you better make yourself the kind of parent who has earned that honor, who has earned that respect. Because it’s a privilege and not a right. Need proof? Think about your own parents and how many things you kept from them. Even more, why you kept those things from them.
+- Sure, some things we hide because we know it’s stuff we’re not supposed to be doing. But a lot of it is stuff we could have used their advice on, that we ached to connect over—yet we knew we couldn’t. They would rush to judgment. They wouldn’t let us explain. It would trigger their anxiety or their temper or their moralizing reminders. And we already had enough problems!
+- You want them to come to you? You want to help them? Then show them you’re worthy of their trust. Teach them that reaching out is worth doing. Teach them that they’ll get a fair hearing. Prove to them that you make things better, not worse.
+
+# You Will Want a Crowded Table
+
+- it’s helpful to sit back and really think about what parental success looks like. First, of course, it’s having healthy kids who survive to adulthood—that’s obvious.
+
+- But second, when you flash way forward into the future, what is it? It’s that beautiful phrase captured in the title of the Highwomen’s hit “Crowded Table.” At Thanksgiving. On birthdays. At some summer house on the beach you all rent as a family. That is, having kids whom you get to see, whom you have a good relationship with, whom you want to spend time with... for the rest of your days.
+
+- And if you want a crowded table, you’ll need to make the right decisions now so they’ll want to make the decision to fly from their homes to yours when they’re older and have families of their own. You’ll have to plant a little happiness, give a little love, if that’s what you want to reap. You’ll need to set the table today to have the one you’ll want tomorrow.
+
+# How Timeless This Is
+
+- It can be humbling and comforting to take the time to think of these moments. As you try to rein in your difficult teenager, as your three-month-old falls asleep in your arms, as you nurse your daughter with health problems through her recovery—the fact that this kind of thing has been happening throughout human history should be heartening. They made it; you’re going to make it.
+- What a tradition you are part of. Think how many parents have come before you and will come after. We all struggle. We all triumph. We all smile
+watching our kids play in the sand. Parenthood, this timeless enterprise.
+
 # Quotes
 
 When you love, you wish to do things for. You wish to sacrifice for. You wish to serve. - ERNEST HEMINGWAY

@@ -541,15 +541,6 @@ Building better habits isn’t about littering your day with life hacks. It’s 
 
 # References
 
-- https://aliabdaal.com/book-notes/die-with-zero/
-- https://www.debtfreedr.com/die-with-zero-summary/
-- https://duddhawork.com/blog/die-with-zero-book-notes/
-- https://duddhawork.com/blog/die-with-zero-implementation/
-- https://medium.com/@amyduval92/summary-of-best-seller-die-with-zero-by-bill-perkins-a3b70d56ecb8
-- https://www.clearwhitespace.com/post/die-with-zero-book-summary
-- https://public.summaries.com/files/1-page-summary/die-with-zero.pdf
-- https://synapsetrading.com/die-with-zero/
-- https://growthabit.com/business-finance-books/die-with-zero-book-summary-review-notes/
 - https://www.thunknotes.com/blog/a-visual-book-summary-of-atomic-habits-by-james-clear
 - https://srinathramakrishnan.files.wordpress.com/2019/02/brief-summary-of-atomic-habits.pdf
 - https://aprabaswara.medium.com/book-summary-atomic-habits-by-james-clear-c627a1552e38
