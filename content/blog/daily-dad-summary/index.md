@@ -2548,120 +2548,56 @@ Resources are scarce. Don’t waste any of them.
 
 # Everybody Is Going Through Something
 
-At five years old, the future NFL linebacker Ryan Shazier started losing
-his hair. It turned out to be a rare autoimmune disease called alopecia
-and, as you can imagine, not exactly an easy thing for a kid to go through. He
-was teased. He was looked at strangely. He felt different.
-But one day, his parents helped him realize something. They said to him:
-everyone is going through something; the only difference is that what you’re
-going through is visible. Other kids had learning disabilities or were going to
-bed hungry at night or had parents who were getting divorced. All those
-struggles were hidden—perhaps intentionally, out of shame and fear—but
-that didn’t mean they weren’t real. It didn’t mean that anyone had it better or
-worse than Ryan. In fact, it meant they were actually all in the same boat.
-Did Ryan suddenly stop getting teased? Did it suddenly not hurt to get
-teased? No, but it did help. It gave him perspective and patience and hope.
-This is something we have to teach our kids. Life isn’t easy. No one is
-dealt a perfect hand. Some troubles are visible. Some aren’t. But we’re all
-struggling with something. When our kids understand this, they’ll feel better
-about those difficult moments. And they will be armed with the empathy they
-need to be kinder and more understanding of other kids too.
+- one day, his parents helped him realize something. They said to him: everyone is going through something; the only difference is that what you’re going through is visible. Other kids had learning disabilities or were going to bed hungry at night or had parents who were getting divorced. All those struggles were hidden—perhaps intentionally, out of shame and fear—but that didn’t mean they weren’t real. It didn’t mean that anyone had it better or worse than Ryan. In fact, it meant they were actually all in the same boat.
+
+- Did Ryan suddenly stop getting teased? Did it suddenly not hurt to get teased? No, but it did help. It gave him perspective and patience and hope.
+
+- This is something we have to teach our kids. Life isn’t easy. No one is dealt a perfect hand. Some troubles are visible. Some aren’t. But we’re all struggling with something. When our kids understand this, they’ll feel better about those difficult moments. And they will be armed with the empathy they need to be kinder and more understanding of other kids too.
 
 
 # What Are You Even Fighting About?
 
-There is no family immune to conflict. The problem, then, is not that
-conflicts happen; it is how we handle them when they occur, how we let
-these disagreements and miscommunications take on a life of their own. As
-Bruce Springsteen sings in “Tucson Train”:
-We fought hard over nothin’
-We fought till nothin’ remained
-But more hauntingly, he talks about how long he ended up carrying that
-nothin’—something we’re all guilty of. So much of the stuff we get upset
-about doesn’t even matter . . . and then because we get upset about it, we end
-up saying things that do matter and can never be unsaid. We fight over
-nothing and destroy everything we care about most.
-You will want a crowded table when you’re old, we’ve said. Well, that’s
-going to require some delayed gratification now. Some restraint now. It
-means letting things go. It means admitting you were wrong. It means telling
-your kids, your spouse, your own parents, that you’re sorry. It means
-accepting apologies from them too. It means showing them how to patch
-things up with their siblings, with other people.
-We can’t let arguments take on lives of their own and risk their taking the
+- There is no family immune to conflict. The problem, then, is not that conflicts happen; it is how we handle them when they occur, how we let these disagreements and miscommunications take on a life of their own. As Bruce Springsteen sings in “Tucson Train”:
+  - *We fought hard over nothin’*
+  - *We fought till nothin’ remained*
+
+- But more hauntingly, he talks about how long he ended up carrying that nothin’ — something we’re all guilty of. So much of the stuff we get upset about doesn’t even matter.. and then because we get upset about it, we end up saying things that do matter and can never be unsaid. We fight over nothing and destroy everything we care about most.
+
+- You will want a crowded table when you’re old, we’ve said. Well, that’s going to require some delayed gratification now. Some restraint now. It means letting things go. It means admitting you were wrong. It means telling your kids, your spouse, your own parents, that you’re sorry. It means accepting apologies from them too. It means showing them how to patch things up with their siblings, with other people.
+
+- We can’t let arguments take on lives of their own and risk their taking the
 joy out of our lives. Life is too short, family is too precious, to destroy over
 nothing.
 
 
 # Look for the Excuse
 
-When he was a young teenager, Lewis Puller Jr. got himself an
-afternoon paper route. It was one of those things that his parents
-insisted on so he could learn responsibility and hard work and all that. And it
-was certainly good for that.
-It was also good for something even better. One day, Lewis’s bike got a
-flat tire, so his dad (Chesty Puller, the most decorated marine in U.S. history)
-drove him on the route. The next day, it rained, so Chesty did it again. On the
-third day, Lewis’s dad got the car and drove him again anyway—even though
-he didn’t need to. It was just the excuse he was looking for to spend time with
-his son.
-These are the excuses we have to look for as well. Yeah, you could have
-dinner delivered . . . but going to pick it up is something to do together. Yeah,
-you could put them in the carpool . . . but driving the carpool is a chance to
-see them with their friends. You could buy their clothes online . . . or take
-them shopping, just the two of you. You could run on the treadmill . . . or
-strap them in the bike trailer instead and go for a ride. You could tell them
-they have to go to bed . . . or you could stay up and watch TV together.
-Look for the excuse. Find the opportunities.
+- parents looks for the excuses to spend time with their children. Yeah, you could have dinner delivered... but going to pick it up is something to do together. Yeah, you could put them in the carpool... but driving the carpool is a chance to see them with their friends. You could buy their clothes online... or take them shopping, just the two of you. You could run on the treadmill... or strap them in the bike trailer instead and go for a ride. You could tell them they have to go to bed... or you could stay up and watch TV together.
+
+- Look for the excuse. Find the opportunities.
 
 
 # Don’t Let Them Sneer
 
 - The poorest way to face life is to face it with a sneer. —THEODORE ROOSEVELT
 
-- It is so easy to fall into the clutches of forces like contempt and wallflower
-nihilism and superiority. But this kind of cynicism, a wise man once said,
-is really a kind of cowardice. It voids creativity, collaboration, and
-connection. And we model it almost unthinkingly. Little comments under our
-breath; making fun of stuff that makes us uncomfortable; rationalizing our
-avoidance of things we’d rather not do or deep down know we don’t do well.
-These choices are passed on so easily to impressionable children who are
-always watching.
-Our kids came into the world with fresh eyes, a full heart, and so much
-energy. Don’t deprive them of these forces. Lift them up. Let them be
-earnest. Let them care and try. Better yet, let them infect you with their
-sincerity and the clarity of their passion.
-Whatever you do, don’t let your cynicism infect them.
+- It is so easy to fall into the clutches of forces like contempt and wallflower nihilism and superiority. But this kind of cynicism, a wise man once said, is really a kind of cowardice. It voids creativity, collaboration, and connection. And we model it almost unthinkingly. Little comments under our breath; making fun of stuff that makes us uncomfortable; rationalizing our avoidance of things we’d rather not do or deep down know we don’t do well. These choices are passed on so easily to impressionable children who are always watching.
+
+- Our kids came into the world with fresh eyes, a full heart, and so much energy. Don’t deprive them of these forces. Lift them up. Let them be earnest. Let them care and try. Better yet, let them infect you with their sincerity and the clarity of their passion.
+
+- Whatever you do, don’t let your cynicism infect them.
 
 # Let Them Take You Down a Peg
 
-A proud man is always looking down on things and people; and, of course, as long
+- A proud man is always looking down on things and people; and, of course, as long
 as you are looking down, you cannot see something that is above you. — C. S. LEWIS
 
-In the midst of the Civil War, Abraham Lincoln went to visit the defenses
-that ringed Washington, DC. As he inspected the front lines, a Confederate
-sniper took a shot at him—and, thankfully, missed. A soldier nearby shouted
-at Lincoln, “Get down, you damn fool!”
-It was a pretty remarkable moment in presidential history. As Gerald Ford
-observed, “Few people, with the possible exception of his wife, will ever tell
-the president he is a fool.” The office has the effect, he said, of increasing
-one’s sense of self-importance.
-One of the great things about being a parent—if you do it right—is that
-it’s very humbling. No one knows how to cut you down to size quite like
-your kids. They don’t care how rich, how important, how respected you are.
-To them, you’re a goober. To them, you’re unfunny, old, and hopelessly
-uncool. You’re someone they can make fun of. In fact, you’re who they
-practice their sense of humor on. They’re not impressed with how much you
-paid for the hotel room—they want to know if there is a swimming pool.
-They don’t care how trendy a restaurant is—they hate that it doesn’t have
-chicken fingers. They don’t want you to drop them off in front of school, and
-they don’t think you’re clever. They suspect you don’t have any idea what
-you’re talking about.
-“No man is a hero to his valet” goes the old expression. Plenty of parents
-are heroes to their kids, of course, but no one is exempt from their children’suncanny ability to size them up and cut them down from time to time. And
-that’s a good thing.
+- One of the great things about being a parent—if you do it right—is that it’s very humbling. No one knows how to cut you down to size quite like your kids. They don’t care how rich, how important, how respected you are. To them, you’re a goober. To them, you’re unfunny, old, and hopelessly uncool. You’re someone they can make fun of. In fact, you’re who they practice their sense of humor on. They’re not impressed with how much you paid for the hotel room—they want to know if there is a swimming pool. They don’t care how trendy a restaurant is—they hate that it doesn’t have chicken fingers. They don’t want you to drop them off in front of school, and they don’t think you’re clever. They suspect you don’t have any idea what you’re talking about.
+
+- “No man is a hero to his valet” goes the old expression. Plenty of parents are heroes to their kids, of course, but no one is exempt from their children’suncanny ability to size them up and cut them down from time to time. And that’s a good thing.
 
 
-This Is a Family Motto
+# This Is a Family Motto
 I
 t was one of those nights. The boys would not go to sleep. They had that
 contagious energy that so often keeps brothers awake. The first time their
