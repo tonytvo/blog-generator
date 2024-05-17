@@ -2516,73 +2516,35 @@ together?
 
 # Look for the Double Opportunity
 
-Bill Simmons is a busy man. He’s a writer, a podcaster, a CEO, a
-documentary film producer, a husband, and a father of two. His eldest,
-Zoe, played on a big-time travel soccer team. So every weekend for months
-during soccer season, Simmons drove for hours around Southern California
-to various tournaments. If you know anything about Los Angeles, you know
-that traffic is a frustrating, nerve-racking hell on earth.
-And yet Simmons wouldn’t trade it for anything. As he would say, the
-drive to and from tournaments meant he had his daughter trapped in a
-confined space for a couple hours where he could check in with her. How’s
-school? Friends? Boyfriends? How are you feeling about things going on in
-the world?
-As parents, the one thing that is always in short supply is time. And Bill
-Simmons’s time is as thinly stretched as anyone’s. Which is why he learned
-how to double up on it. As we should too.
-The jogging stroller lets you exercise . . . while spending time with your
-kid. The drive to school . . . is a chance to have that conversation you needed
+- As parents, the one thing that is always in short supply is time. And Bill Simmons’s time is as thinly stretched as anyone’s. Which is why he learned how to double up on it. As we should too.
+
+- The jogging stroller lets you exercise... while spending time with your
+kid. The drive to school... is a chance to have that conversation you needed
 to have with your daughter. All the chores that need to be done around the
-house . . . are a way to teach your kids about responsibility. As a parent, you
+house... are a way to teach your kids about responsibility. As a parent, you
 always have to be looking for the double opportunity. Time is at a premium.
 Resources are scarce. Don’t waste any of them.
 
 # You’d Do This Only for Them
 
-The comedian Hasan Minhaj tells a story about taking his young daughter
-to school picture day. She had a runny nose and was having trouble
-wiping it. The next thing he knew, he found himself sucking the snot out of
-his daughter’s nose with a Starbucks straw. As the sheer foulness of the
-moment hit him, so did another thought: I would never do this for my wife.
-We’d do a lot for a spouse, for our parents, even for a stranger in need. We
-would do anything for our kids, because they didn’t do anything to deserve
-being thrust into existence, completely helpless in the beginning, entirely
-dependent on us for years. They didn’t choose to be here on this earth. They
-didn’t choose us to be their parents. We chose to have them. We made them.
-They are not just part of our lives; they are part of us. They are of us.
-There is something about this relationship that softens the hardest head
-and warms the coldest heart. And while the relationship will change over
-time—Hasan will not be sucking snot through straws a few years from now
-—what will not change is the urge and the willingness to do anything for our
-kids.
+- The comedian Hasan Minhaj tells a story about taking his young daughter to school picture day. She had a runny nose and was having trouble wiping it. The next thing he knew, he found himself sucking the snot out of his daughter’s nose with a Starbucks straw. As the sheer foulness of the moment hit him, so did another thought: I would never do this for my wife.
 
+- We’d do a lot for a spouse, for our parents, even for a stranger in need. We would do anything for our kids, because they didn’t do anything to deserve being thrust into existence, completely helpless in the beginning, entirely dependent on us for years. They didn’t choose to be here on this earth. They didn’t choose us to be their parents. We chose to have them. We made them. They are not just part of our lives; they are part of us. They are of us.
+
+- There is something about this relationship that softens the hardest head and warms the coldest heart. And while the relationship will change over time—Hasan will not be sucking snot through straws a few years from now —what will not change is the urge and the willingness to do anything for our kids.
 
 # Do Not Be Afraid
 
 - The world is a narrow bridge, and the important thing is not to be afraid. —HEBREW PRAYER
 
-Do you know what the most repeated phrase in the Bible is? It’s “Be not
-afraid.” Over and over again these words appear. They’re a warning
-from on high to “be strong and of good courage,” as we hear in the book of
-Joshua. “Do not be afraid nor be dismayed.”
-A similar chord is struck in much of ancient Greek mythology. Some
-version of “Be brave,” “Have courage,” “Don’t be scared,” appears more than
-a dozen times in the Odyssey. It doesn’t matter which religion or philosophy
-or great mind you turn to, you will find courage in the same place the Stoics
-held it: at the top of the list of virtues.
-It is impossible to be a good parent without having courage or cultivating
-courage in our kids. After all, it is the environment we create for them, the
-values we teach them, the rules we give them, and the bonds we forge with
-them that will give them the courage to do and be the things they were
-destined to accomplish and become.
-Remember Barack Obama’s observation:
-What makes you a man is not the ability to have a child, but the
-courage to raise one. As fathers, we need to be involved in our
-children’s lives not just when it’s convenient or easy, and not just
-when they’re doing well—but when it’s difficult and thankless, and
-they’re struggling. That is when they need us most.None of this parenting stuff is easy. A lot of it is scary. But it is essential.
-And it matters whether you have the courage to step up and do it every day
-for the rest of their lives.
+- Do you know what the most repeated phrase in the Bible is? It’s “Be not afraid.” Over and over again these words appear. They’re a warning from on high to “be strong and of good courage,” as we hear in the book of Joshua. “Do not be afraid nor be dismayed.” A similar chord is struck in much of ancient Greek mythology. Some version of “Be brave,” “Have courage,” “Don’t be scared,” appears more than a dozen times in the Odyssey. It doesn’t matter which religion or philosophy or great mind you turn to, you will find courage in the same place the Stoics held it: at the top of the list of virtues.
+
+- It is impossible to be a good parent without having courage or cultivating courage in our kids. After all, it is the environment we create for them, the values we teach them, the rules we give them, and the bonds we forge with them that will give them the courage to do and be the things they were destined to accomplish and become.
+
+- Remember Barack Obama’s observation:
+  - What makes you a man is not the ability to have a child, but the courage to raise one. As fathers, we need to be involved in our children’s lives not just when it’s convenient or easy, and not just when they’re doing well—but when it’s difficult and thankless, and they’re struggling. That is when they need us most.None of this parenting stuff is easy. A lot of it is scary. But it is essential.
+
+- And it matters whether you have the courage to step up and do it every day for the rest of their lives.
 
 # Everybody Is Going Through Something
 
