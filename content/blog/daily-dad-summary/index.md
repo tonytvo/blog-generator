@@ -2742,198 +2742,98 @@ larger than the love that they felt in their hearts. They regret not being prese
 
 
 # Why Are You Rushing?
-The trees are coming into leaf. . . . Their greenness is a kind of grief.
-—PHILIP LARKIN
-W
-e’re always in a rush. We have to get them ready for school. We have
-to get them off to bed. We have to get to the airport. We have to get
-back inside. We have to finish up dinner.
-We are, as parents, it seems, perpetually short of time and always eager to
-get to the next thing. But it’s worth stopping and thinking today about what
-we are actually rushing to and what we are rushing away from. You’re
-wrapping up bedtime quickly—why? So you can sit and watch Netflix after
-they’re asleep? You cannot stand for them to be late to school—why? Fear of
-other parents judging you? You want to be to the airport how early? And for
-what reason? Because it recommends doing so on your ticket?
-When we rush, we should know that we are hurrying through life. We are
-zipping through their childhood—the exact thing that we will stop and miss
-at some point not long from now. How much of this will seem important
-then? How much would we give to get back a few of the minutes that right
-now we seem to want to be over as quickly as possible?
-So slow down. Savor it.
 
+- We’re always in a rush. We have to get them ready for school. We have to get them off to bed. We have to get to the airport. We have to get back inside. We have to finish up dinner.
 
-The Present Is Pleasurable Enough
-This is the real secret of life—to be completely engaged with what you are doing in
-the here and now.
-—ALAN WATTS
-A
-fter a long and arduous hunt in 1888, Theodore Roosevelt finally got
-the bull caribou he had been tracking. “It was one of those moments,”
-he later wrote, “that repay the hunter for days of toil and hardship; that is if
-he needs repayment, and does not find life in the wilderness pleasure enough
-in itself.”
-A hunter who enjoys only bagging their quarry is likely to be a
-disappointed hunter, nine times out of ten. More important, they are a blind
-and deaf hunter who needlessly misses out on the majesty of life outdoors.
-And the parent who thinks this is an occupation you “win,” who believes
-parenting is measured mostly by those special, big moments, is missing a lot
-of majestic life as well.
-It’s not about the future, about getting through the terrible twos or terrible
-teens to some idyllic end result. The next milestone is not there to assure us
-the days of toil and hardship were worth it. We can’t forget to notice and
-appreciate the little pleasures of the experience, the right here and now.
-Find pleasure enough in what’s present today.
+- We are, as parents, it seems, perpetually short of time and always eager to get to the next thing. But it’s worth stopping and thinking today about what we are actually rushing to and what we are rushing away from. You’re wrapping up bedtime quickly—why? So you can sit and watch Netflix after they’re asleep? You cannot stand for them to be late to school—why? Fear of other parents judging you? You want to be to the airport how early? And for what reason? Because it recommends doing so on your ticket? 
 
+- When we rush, we should know that we are hurrying through life. We are zipping through their childhood—the exact thing that we will stop and miss at some point not long from now. How much of this will seem important then? How much would we give to get back a few of the minutes that right now we seem to want to be over as quickly as possible?
 
-You Have the Time
-You see how much time you have only when you stop thinking you have none.
-—GUSTIE HERRIGEL
-E
-very parent feels short on time. You have work, your marriage, your
-relationship. You have your kids and basketball practice and lunches to
-pack and baths to give. You have all those important conversations to have,
-rules to set down, homework to check, and curfews to enforce. Plus, you have
-your own health and your own interests to service.
-Who has the time? you have probably said to yourself. How can I get it all
-in?
-You have to stop with this idea that you are rushed, that it all needs to be
-squeezed in—because it’s the urgency and franticness that are actually
-speeding things up. That was Gustie Herrigel’s powerful insight.
-You see, it’s your desire to “squeeze it all in” that’s filling your to-do list
-and making you miss opportunities. You won’t need to schedule as much
-quality time with your kids if you realize that it’s all quality time. You won’t
-need to go to the gym as much if you realize that running around the yard is
-exercise. You won’t need to do a whole lot of things when you realize they
-don’t really matter. And when you drop them, you’ll have more space and
-more freedom.
+- So slow down. Savor it.
 
+# The Present Is Pleasurable Enough
 
-Love the Little Moments
-Enjoy the little things, for one day you may look back and realize they were the big
-things.
-—ROBERT BRAULT
-T
-he morning rush before you get them ready for school. The time you
-spent waiting at a traffic light. When you were both hungry, so you
-stopped for fast food. When they messed up, but instead of getting mad you
-sat down as a family and talked. That weekend afternoon where you watched
-a movie on the couch.
-These seem like little, inconsequential, ultimately forgettable moments.
-The background noise of life. Quintessential garbage time. But that’s
-misleading. Just as one man’s trash (or garbage time, in this case) is another
-man’s treasure, so can these little moments—if you decide to see them
-properly and soak them in—become the big moments, the important time.
-Don’t take it for granted. Don’t let your mind or your attention drift. Don’t
+- This is the real secret of life—to be completely engaged with what you are doing in the here and now. — ALAN WATTS
+
+- After a long and arduous hunt in 1888, Theodore Roosevelt finally got the bull caribou he had been tracking. “It was one of those moments,” he later wrote, “that repay the hunter for days of toil and hardship; that is if he needs repayment, and does not find life in the wilderness pleasure enough in itself.”
+
+- A hunter who enjoys only bagging their quarry is likely to be a disappointed hunter, nine times out of ten. More important, they are a blind and deaf hunter who needlessly misses out on the majesty of life outdoors. And the parent who thinks this is an occupation you “win,” who believes parenting is measured mostly by those special, big moments, is missing a lot of majestic life as well.
+
+- It’s not about the future, about getting through the terrible twos or terrible teens to some idyllic end result. The next milestone is not there to assure us the days of toil and hardship were worth it. We can’t forget to notice and appreciate the little pleasures of the experience, the right here and now.
+
+- Find pleasure enough in what’s present today.
+
+# You Have the Time
+
+- Every parent feels short on time. You have work, your marriage, your relationship. You have your kids and basketball practice and lunches to pack and baths to give. You have all those important conversations to have, rules to set down, homework to check, and curfews to enforce. Plus, you have your own health and your own interests to service.
+Who has the time? you have probably said to yourself. How can I get it all in?
+
+- You have to stop with this idea that you are rushed, that it all needs to be squeezed in—because it’s the urgency and franticness that are actually speeding things up. That was Gustie Herrigel’s powerful insight.
+
+- You see, it’s your desire to “squeeze it all in” that’s filling your to-do list and making you miss opportunities. You won’t need to schedule as much quality time with your kids if you realize that it’s all quality time. You won’t need to go to the gym as much if you realize that running around the yard is exercise. You won’t need to do a whole lot of things when you realize they don’t really matter. And when you drop them, you’ll have more space and more freedom.
+
+# Love the Little Moments
+
+- Enjoy the little things, for one day you may look back and realize they were the big
+things. — ROBERT BRAULT
+
+- The morning rush before you get them ready for school. The time you spent waiting at a traffic light. When you were both hungry, so you stopped for fast food. When they messed up, but instead of getting mad you sat down as a family and talked. That weekend afternoon where you watched a movie on the couch.
+
+- These seem like little, inconsequential, ultimately forgettable moments. The background noise of life. Quintessential garbage time. But that’s misleading. Just as one man’s trash (or garbage time, in this case) is another man’s treasure, so can these little moments—if you decide to see them properly and soak them in—become the big moments, the important time.
+
+- Don’t take it for granted. Don’t let your mind or your attention drift. Don’t
 get too anxious (or ambitious) about the future at the expense of the present.
 Just be here now. Be with them.
-Treat the little things as big things. Because in truth, that’s what they are.
 
+- Treat the little things as big things. Because in truth, that’s what they are.
 
-Is It Really Time to Go?
-Whatever [my son is] doing right now, that’s the most important thing. So I
-encourage him to keep doing it as long as possible. I never say, “Come on! Let’s
-go!” . . . Of course my adult mind wanders to all the other things we could be doing.
-But I let it go, and return to that present focus.
-—DEREK SIVERS
-E
-ven the most patient of us gets bored. Or has somewhere to be. Or
-really doesn’t see what makes this flower—the four hundredth one
-drawn in a row—so special. So we want to prod our kids along.
-Dinner’s almost ready. We’re going to be late. The game’s about to start.
-It’s really hot out here.
-We have to work to override these instincts. Because the truth is, most of
-the stuff we’re rushing to is not that urgent. There is a certain amount of Zen
-in that, which is valuable to us for its own sake. But with regard to our kids,
-it’s also teaching them a valuable skill. Shouldn’t we want them to develop
-the ability to focus and pursue their curiosity? Isn’t it worth it for them to get
-a little dirty or for you to show up to the birthday party a bit late because they
+# Is It Really Time to Go?
+
+- Because the truth is, most of the stuff we’re rushing to is not that urgent. There is a certain amount of Zen in that, which is valuable to us for its own sake. But with regard to our kids, it’s also teaching them a valuable skill. Shouldn’t we want them to develop the ability to focus and pursue their curiosity? Isn’t it worth it for them to get a little dirty or for you to show up to the birthday party a bit late because they
 were really, intensely alive for a few minutes?
-Encourage your kids. Resist the urge to hurry. It’s not really time to go.
-You’re exactly where you—and they—need to be.
+
+- Encourage your kids. Resist the urge to hurry. It’s not really time to go. You’re exactly where you—and they—need to be.
 
 
+# Every Moment Is the Same
 
-Every Moment Is the Same
-Always hold fast to the present. Every situation, indeed every moment, is of infinite
-value, for it is the representative of a whole eternity.
-—GOETHE
-W
-ith bills to pay or traffic to wait through, a colicky baby or a resentful
-teenager, it can be hard to feel that the moment right in front of you is
-a gift. But indeed, these are wonderful moments. We must, as Goethe put it,
-hold fast to them.
-That’s what parenting is. It’s right now. It’s whatever you’re doing in this
+- With bills to pay or traffic to wait through, a colicky baby or a resentful teenager, it can be hard to feel that the moment right in front of you is a gift. But indeed, these are wonderful moments. We must, as Goethe put it, hold fast to them.
+
+- That’s what parenting is. It’s right now. It’s whatever you’re doing in this
 moment. Always.
-Driving them to school. Folding laundry. Getting some quiet time before
-they wake up. Putting them back to bed when they wake up in the middle of
-the night. Sending them to their room. Taking away their phone because their
-grades have slipped. This is all it. This is all part of the job. And every one of
-these moments is wonderful. Every one of these moments is a gift.
-All of it is right now. It’s being presented to you at this very moment.
+
+- Driving them to school. Folding laundry. Getting some quiet time before they wake up. Putting them back to bed when they wake up in the middle of the night. Sending them to their room. Taking away their phone because their grades have slipped. This is all it. This is all part of the job. And every one of these moments is wonderful. Every one of these moments is a gift.
+
+- All of it is right now. It’s being presented to you at this very moment.
 
 
-You Must Amend Your Life
-T
-his great Robert Southwell poem is a haunting reminder to all parents:
-My ancestors are turned to clay,
-And many of my mates are gone;
-My youngers daily drop away,
-And can I think to ’scape alone?
-No, no, I know that I must die,
-And yet my life amend not I.
-Do you parent according to the unpleasant fact that we will not be here
-forever, or are you more like Southwell? Are you in denial, struggling to
-accept the only fact that matters and to amend your life accordingly?
-When you wake up each morning, when you walk through the front door
-each night, forget what you were bothered about at work. Forget what is
-happening in the news. Forget what you and your spouse are fighting about.
-Be with your kids. Be with your family.
-Life is short. Your family is what matters. Your kids are what matters. So
-forget all the things you’d like to do “someday.” Do them with your kids now.
+# You Must Amend Your Life
+
+- Do you parent according to the unpleasant fact that we will not be here forever, or are you more like Southwell? Are you in denial, struggling to accept the only fact that matters and to amend your life accordingly?
+
+- When you wake up each morning, when you walk through the front door each night, forget what you were bothered about at work. Forget what is happening in the news. Forget what you and your spouse are fighting about. Be with your kids. Be with your family.
+
+- Life is short. Your family is what matters. Your kids are what matters. So forget all the things you’d like to do “someday.” Do them with your kids now.
 
 
-This Could Be the Moment
-The simple things are also the most extraordinary things.
-—PAULO COELHO
-Y
-ou’re busy. It’s just a trip to the store. Your kids have been a pain all
-day. You’re trying to get ready to give them a special surprise. And
-because of what you’re trying to do, get through, or plan, you’re not thinking
-about right now. You’re thinking about later. Is that so bad? In theory, of
-course not. The problem is that, in reality, this moment may be the moment.
-Think of your own childhood. Think of what stands out. Is it the big
-moments? The big conversations? Or is it ordinary experiences, ordinary
-interactions—ones your own parents don’t even recall—that have somehow
-wormed into your memory?
-Like when your dad skipped work and took you to a random midweek
-baseball game. When Mom made breakfast for dinner—your favorite—for no
-reason in particular. Or conversely, when they spoke to you sharply, when
-you saw them do something bad, when you were made to feel a certain way
-you’d never felt before.
-Every moment is a chance to parent. Indeed, you are shaping them in every
-moment, whether you intend to or not. Every moment could be the moment.
-So you can’t rush through them, you can’t assume they don’t matter, you
-can’t lower your standards for yourself. Because this could be the last, best
-moment you get.
+# This Could Be the Moment
+
+- The simple things are also the most extraordinary things. — PAULO COELHO
+
+- Think of your own childhood. Think of what stands out. Is it the big moments? The big conversations? Or is it ordinary experiences, ordinary interactions—ones your own parents don’t even recall—that have somehow wormed into your memory?
+
+- Like when your dad skipped work and took you to a random midweek baseball game. When Mom made breakfast for dinner—your favorite—for no reason in particular. Or conversely, when they spoke to you sharply, when you saw them do something bad, when you were made to feel a certain way you’d never felt before.
+
+- Every moment is a chance to parent. Indeed, you are shaping them in every moment, whether you intend to or not. Every moment could be the moment. So you can’t rush through them, you can’t assume they don’t matter, you can’t lower your standards for yourself. Because this could be the last, best moment you get.
 
 
-Try to See It This Way
-A
-t the end of Death Be Not Proud, John Gunther’s memoir about his
-son’s life, Gunther’s wife, Frances, writes, “Johnny lay dying of a brain
-tumor for fifteen months. He was in his seventeenth year. I never kissed him
-goodnight without wondering whether I should see him alive in the morning.
-I greeted him each morning as though he were newly born to me, a re-gift of
-God. Each day he lived was a blessed day of grace.”
-Hopefully, thankfully, most of us will not have to go through what that
-family did. But we can and we must try to practice what they practiced.
-Because you never know. Wouldn’t it be better to see each day this way, that
-each day with them is a gift, a lucky break, a midnight reprieve, as opposed
-to a chore?
-Act tonight as if it were your last time together. Soak it in. Appreciate it.
-Be everything they need. And then in the morning, arise and be surprised,
-grateful, blessed, by the grace of another try. Then live accordingly.
+# Try to See It This Way
+
+- At the end of Death Be Not Proud, John Gunther’s memoir about his son’s life, Gunther’s wife, Frances, writes, “Johnny lay dying of a brain tumor for fifteen months. He was in his seventeenth year. I never kissed him goodnight without wondering whether I should see him alive in the morning. I greeted him each morning as though he were newly born to me, a re-gift of God. Each day he lived was a blessed day of grace.”
+
+- Hopefully, thankfully, most of us will not have to go through what that family did. But we can and we must try to practice what they practiced. Because you never know. Wouldn’t it be better to see each day this way, that each day with them is a gift, a lucky break, a midnight reprieve, as opposed to a chore?
+
+- Act tonight as if it were your last time together. Soak it in. Appreciate it. Be everything they need. And then in the morning, arise and be surprised, grateful, blessed, by the grace of another try. Then live accordingly.
 
 
 Do Your Future Self This Favor
