@@ -2836,172 +2836,83 @@ moment. Always.
 - Act tonight as if it were your last time together. Soak it in. Appreciate it. Be everything they need. And then in the morning, arise and be surprised, grateful, blessed, by the grace of another try. Then live accordingly.
 
 
-Do Your Future Self This Favor
-A
-t some point you will look back at this moment in your kids’ lives with
-the misty wistfulness of nostalgia. It doesn’t matter what the future
-holds for them, or which paths they take; you will look back at this time with
-a sense of longing.
-It’s just a fact. Because they’ll never be two again. Or twelve. Or twenty-
-five. You get only so many bedtimes, so many baths, so many drives to
-school, so many vacations, so many evenings on the couch, so many times in
-the garage trying to fix something they asked for your help with. In the end,
-we will all wish we could go back in time to get just one more of any of those
-moments.
-Well, that can’t happen. But there is a way that we can travel to the future,
-or at least speak to the future. As the great author of children’s books Adam
-Rubin has said: we can, by the choices we make today, tell our future selves
-that we did everything we could. That we soaked it in. That we didn’t rush
-through it. That we told them what they meant to us.
-Do your future self the favor of a lifetime. Don’t take this moment for
-granted. Don’t let your temper rule. Don’t be stubborn. Don’t value the
-wrong things. Love now, while you can. Embrace the moment while you can.
-Don’t rush away from it while it’s still here.
+# Do Your Future Self This Favor
+
+- At some point you will look back at this moment in your kids’ lives with the misty wistfulness of nostalgia. It doesn’t matter what the future holds for them, or which paths they take; you will look back at this time with a sense of longing.
+
+- It’s just a fact. Because they’ll never be two again. Or twelve. Or twenty-five. You get only so many bedtimes, so many baths, so many drives to school, so many vacations, so many evenings on the couch, so many times in the garage trying to fix something they asked for your help with. In the end, we will all wish we could go back in time to get just one more of any of those moments.
+
+- Well, that can’t happen. But there is a way that we can travel to the future, or at least speak to the future. As the great author of children’s books Adam Rubin has said: we can, by the choices we make today, tell our future selves that we did everything we could. That we soaked it in. That we didn’t rush through it. That we told them what they meant to us. Do your future self the favor of a lifetime. Don’t take this moment for
+granted. Don’t let your temper rule. Don’t be stubborn. Don’t value the wrong things. Love now, while you can. Embrace the moment while you can.
+
+- Don’t rush away from it while it’s still here.
+
+
+# They Could Be Your Last Words
+
+- On January 8, 2022, about to go onstage to perform stand-up, Bob Saget
+—legendary comedian, longtime host of America’s Funniest Home Videos, and Danny Tanner on Full House—got a text from his daughter. We don’t know what she said, but it wasn’t urgent. He could have easily said to himself, I’ll respond later. I’ll call her in the
+morning. We’ve all done it. We’re running late. We’re processing emails when they call from the other room. We’re about to go into a meeting when they text us. We’re tired and we rush through our good-nights.
+
+- We tell ourselves that we’ll respond in a little bit. We tell ourselves that we’ll have another chance, that there will be other phone calls, other texts, more good-nights. But that’s not always true.
+
+- Saget took a second to send what neither of them could have known would be his last text. “Thank u,” he wrote. “Love u. Showtime!” Hours later, he’d be found dead, tragically, in his Orlando hotel room at age sixty-five.
+
+- No one knows what their last words will be. No one knows how much time they have. So let’s use the time we have, before we lose the time we’re never guaranteed. Let’s make sure we tell our kids how we feel about them while we can.
 
 
 
-They Could Be Your Last Words
-O
-n January 8, 2022, about to go onstage to perform stand-up, Bob Saget
-—legendary comedian, longtime host of America’s Funniest Home
-Videos, and Danny Tanner on Full House—got a text from his daughter. We
-don’t know what she said, but it wasn’t urgent.
-He could have easily said to himself, I’ll respond later. I’ll call her in the
-morning. We’ve all done it. We’re running late. We’re processing emails
-when they call from the other room. We’re about to go into a meeting when
-they text us. We’re tired and we rush through our good-nights.
-We tell ourselves that we’ll respond in a little bit. We tell ourselves that
-we’ll have another chance, that there will be other phone calls, other texts,
-more good-nights. But that’s not always true.
-Saget took a second to send what neither of them could have known would
-be his last text. “Thank u,” he wrote. “Love u. Showtime!” Hours later, he’d
-be found dead, tragically, in his Orlando hotel room at age sixty-five.
-No one knows what their last words will be. No one knows how much
-time they have. So let’s use the time we have, before we lose the time we’re
-never guaranteed. Let’s make sure we tell our kids how we feel about them
-while we can.
+# They Learned This Lesson For You
+
+- There are people who have seen their children die. — MARY LAURA PHILPOTT
+
+- When we appreciate how little time we have with our loved ones, we can make the most of that finite amount of time. Families like the Gunthers and the Delaneys, as well as quietly grieving families all around you, havelearned painful and powerful lessons. We can’t take their pain away, but we can heed it. We can do our best to appreciate it from afar, what they paid for it, and apply its wisdom in our own lives.
+
+- Remind yourself this morning and every morning: this will end. Tempus fugit. Memento mori. Then go marvel at the collections of cells coalesced around the souls of those you love. Make the most of your time with them.
 
 
+# What Is More Important?
 
-They Learned This Lesson For You
-There are people who have seen their children die.
-—MARY LAURA PHILPOTT
-T
-he comedian and actor Rob Delaney’s son, Henry, was healthy and
-beautiful, but then he got sick. Delaney and his wife, Leah, didn’t know
-what to do, so they took Henry to the doctor. It took a long time but,
-eventually, the doctor found that Henry had a brain tumor. They operated on
-it and he got better. But sadly, the tumor took Henry’s life at just two years
-old.
-On Marc Maron’s podcast, Rob shared how his perspective changed
-following Henry’s death:
-I hold my children, and I hold my wife, and I know that they will
-die. And I know that it could happen before I die. So I know that
-our time together is finite. It will end. And so I appreciate them so
-much more. I marvel at the fact that these particular collections of
-cells coalesced around these souls for a temporary period, and I’m
-so lucky to get to be here at the same time as the little collection of
-cells and bones and nostril hairs. And so I really make the most of it
-in a way I didn’t before. And I wish that that skill didn’t come from
-something so painful. But it did. That was the price tag for me to
-receive that gift. And now I have it, and I appreciate it.
-When we appreciate how little time we have with our loved ones, we can
-make the most of that finite amount of time. Families like the Gunthers and
-the Delaneys, as well as quietly grieving families all around you, havelearned painful and powerful lessons. We can’t take their pain away, but we
-can heed it. We can do our best to appreciate it from afar, what they paid for
-it, and apply its wisdom in our own lives.
-Remind yourself this morning and every morning: this will end. Tempus
-fugit. Memento mori. Then go marvel at the collections of cells coalesced around the souls of those you love. Make the most of your time with them.
+- Your kid wants to go swimming, but you have to make this phone call. Your kids want to wrestle, but you have to cook dinner. Your kids want you to come tuck them in, but it’s a tie game with forty-two seconds left in regulation.
+
+- We pick these things because they’re urgent. Because they’ll only take a second. But mostly, we pick them because we can get away with it. 
+
+- If something seemingly more urgent or out-of-control were to intervene, you would push the phone call. If you were stuck in traffic, you would order delivery. If the boss called and needed something, you would find out later who won the game. Yet here you are, telling your kid (and their earnest request to spend time with you) that they are not as important. Here you are choosing it over your kid.
+
+- Most of whatever we’re doing can wait. Not indefinitely, of course. No one is telling you to put it off forever. But this moment right now, you won’t get back. Take it. Play. Sit with them. Talk with them. Pause the TV. Save the draft and come back to it. Let dinner get cold. Tell so-and-so you’ll have to call them back.
+
+- **Your kids are more important.**
 
 
-What Is More Important?
-Life is short. Do not forget about the most important things in our life, living for
-other people and doing good for them.
-—MARCUS AURELIUS
-Y
-our kid wants to go swimming, but you have to make this phone call.
-Your kids want to wrestle, but you have to cook dinner. Your kids want
-you to come tuck them in, but it’s a tie game with forty-two seconds left in
-regulation.
-We pick these things because they’re urgent. Because they’ll only take a
-second. But mostly, we pick them because we can get away with it.
-If something seemingly more urgent or out-of-control were to intervene,
-you would push the phone call. If you were stuck in traffic, you would order
-delivery. If the boss called and needed something, you would find out later
-who won the game. Yet here you are, telling your kid (and their earnest
-request to spend time with you) that they are not as important. Here you are
-choosing it over your kid.
-Most of whatever we’re doing can wait. Not indefinitely, of course. No
-one is telling you to put it off forever. But this moment right now, you won’t
-get back. Take it. Play. Sit with them. Talk with them. Pause the TV. Save
-the draft and come back to it. Let dinner get cold. Tell so-and-so you’ll have
-to call them back.
-Your kids are more important.
+# You Can’t Put Things Off
+
+- Do you know what one of the last things Abraham Lincoln ever said was? As he sat in the box at Ford’s Theatre, waiting for the play to start, Lincoln turned to his wife and said, “How I should like to visit Jerusalem sometime.”
+
+- Within minutes, an assassin would fire a bullet into his brain. Within hours, he would be dead. Just as you have your many reasons for why you are waiting to do this or
+delaying doing that, Lincoln had his. And yet life has a way of stripping all our reasons bare, of humbling our plans and assumptions. We must live, as Marcus Aurelius said, as if death hangs over us. We must parent this way, too. Because it does hang over us. We cannot put off until tomorrow, he said, what we can do today—whether that’s being good (our highest priority) or telling people we love them or taking them to the places we’ve always wanted to see.
+
+# It’s Not About the Stuff
+
+- I’ve never met a thirteen-year-old who said, “My dad was never around because he was always working, but I have a sweet mountain bike so it was all worth it.” — JON ACUFF
+
+- You work very hard and are able to provide. Not just the basic necessities but all sorts of extras. Because of you, your kids have a swimming pool. They have nice vacations. They have a big TV downstairs with lots of channels. They have all this and more. *And yet it doesn’t matter.*
+
+- It’s not the swimming pool they want; it’s you in the swimming pool with them. It’s being in the motel room eating snacks, together, wherever you happen to be, that they really want. The TV is great, but not as a substitute for Dad.
+
+- The stuff you get them is great. It is not, no matter how nice it is, a substitute. It is not the point. They’d rather play in an inflatable pool from Walmart with you than play alone in one with a slide and a waterfall. They’d rather live in an apartment and have family meals together than feel lonely in the best neighborhood in town.
+
+- They want you. They want fun. And you should want those things too, because there is no telling how much longer you’ll have them to yourself, or they’ll have you in their lives.
 
 
-You Can’t Put Things Off
-D
-o you know what one of the last things Abraham Lincoln ever said
-was? As he sat in the box at Ford’s Theatre, waiting for the play to
-start, Lincoln turned to his wife and said, “How I should like to visit
-Jerusalem sometime.”
-Within minutes, an assassin would fire a bullet into his brain. Within
-hours, he would be dead.
-Just as you have your many reasons for why you are waiting to do this or
-delaying doing that, Lincoln had his. And yet life has a way of stripping all
-our reasons bare, of humbling our plans and assumptions. We must live, as
-Marcus Aurelius said, as if death hangs over us. We must parent this way,
-too. Because it does hang over us. We cannot put off until tomorrow, he said,
-what we can do today—whether that’s being good (our highest priority) or
-telling people we love them or taking them to the places we’ve always
-wanted to see.
+# This is a Gift You Can Give Yourself (And Your Family)
 
+- When you were younger, for Christmas, all you wanted was presents. Now that you’re older, now that you have kids, all you want is presence. All you want is for your kids to be present over the holidays.
 
+- Paul Orfalea, the founder of Kinkos, is worth hundreds of millions of dollars. When asked about his wealth, Orfalea didn’t talk about buying expensive stuff or building a great company or taking exotic vacations. He said, “Do you know what success is? Success is when your children want to be with you when they’re adults. How many people have all the [material stuff], and their kids don’t come home for the holidays? Come on.”
 
-It’s Not About the Stuff
-I’ve never met a thirteen-year-old who said, “My dad was never around because he
-was always working, but I have a sweet mountain bike so it was all worth it.”
-—JON ACUFF
-Y
-ou work very hard and are able to provide. Not just the basic necessities
-but all sorts of extras. Because of you, your kids have a swimming pool.
-They have nice vacations. They have a big TV downstairs with lots of
-channels. They have all this and more.
-And yet it doesn’t matter.
-It’s not the swimming pool they want; it’s you in the swimming pool with
-them. It’s being in the motel room eating snacks, together, wherever you
-happen to be, that they really want. The TV is great, but not as a substitute for
-Dad.
-The stuff you get them is great. It is not, no matter how nice it is, a
-substitute. It is not the point. They’d rather play in an inflatable pool from
-Walmart with you than play alone in one with a slide and a waterfall. They’d
-rather live in an apartment and have family meals together than feel lonely in
-the best neighborhood in town.
-They want you. They want fun. And you should want those things too,
-because there is no telling how much longer you’ll have them to yourself, or
-they’ll have you in their lives.
+- Success, as we’ve talked about before, is having a crowded table. At the end of your life, success as a parent will be a family that comes together, that spends time together, that wants to be around you. 
 
-
-This is a Gift You Can Give Yourself (And Your Family)
-W
-hen you were younger, for Christmas, all you wanted was presents.
-Now that you’re older, now that you have kids, all you want is
-presence. All you want is for your kids to be present over the holidays.
-Paul Orfalea, the founder of Kinkos, is worth hundreds of millions of
-dollars. When asked about his wealth, Orfalea didn’t talk about buying
-expensive stuff or building a great company or taking exotic vacations. He
-said, “Do you know what success is? Success is when your children want to
-be with you when they’re adults. How many people have all the [material
-stuff], and their kids don’t come home for the holidays? Come on.”
-Success, as we’ve talked about before, is having a crowded table. At the
-end of your life, success as a parent will be a family that comes together, that
-spends time together, that wants to be around you.
-So here on Christmas, and throughout this holiday season, take some time
-to think about what it will take to have that. Think about the choices you’re
-making with your kids now so that they’ll choose to fly from their homes to
-yours when they’re older and have families of their own. Think about the
-gifts you have to give them today—your love, your support, your presence—
-to receive the gift of a crowded table in the future.
+- So here on Christmas, and throughout this holiday season, take some time to think about what it will take to have that. Think about the choices you’re making with your kids now so that they’ll choose to fly from their homes to yours when they’re older and have families of their own. Think about the gifts you have to give them today—your love, your support, your presence— to receive the gift of a crowded table in the future.
 
 
 # Forever Young
