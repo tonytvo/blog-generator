@@ -7,7 +7,6 @@ tags: ["selfdevelopment", "investing"]
 
 # info graphics
 
-- [die with zero summary](./Die-with-Zero-Info-Graphic.jpg)
 - [atomic habits mind maps](./atomic_habits-mind-maps.pdf)
 
 # Main Takeaways
@@ -21,6 +20,21 @@ tags: ["selfdevelopment", "investing"]
 - Track process metrics over outcome metrics. We can’t control the outcomes. Identify with showing up.
 - Commitment devices are a powerful tool when combined with social accountability. Design your social environment.
 - “Genes do not eliminate the need for hard work. They clarify it. They tell us what to work on.” – James Clear
+- Why, then, do we struggle to make lasting change? The problem, according to Fogg, is threefold.
+  - **First, we judge ourselves far too harshly when we fail.** 
+  - **Second, we mistake aspirations for behaviors**. A behavior, according to Fogg, is something you can do right now or at another specific point in time. For instance, you can put your phone on airplane mode before you got to bed to get a better night’s sleep. An aspiration, by contrast, is impossible to achieve at any given moment. You cannot suddenly get better sleep. 
+  - **Third, we set big, loft goals and rely on motivation to achieve them**.
+
+- Building Tiny Habits, Fogg explains, is a simple three-step formula:
+  - **Find an Anchor Moment**. An Anchor Moment is (1) an existing routine (like brushing your teeth) or (2) an event that happens  (like a phone ringing). The Anchor Moment reminds you to do the new Tiny Behavior. 
+  - **Make the Behavior You Want Tiny**. Focus on small actions that you can do in less than thirty seconds, such as flossing one tooth or doing two push-ups. You need to do the Tiny Behavior immediately after the Anchor Moment. 
+  - **Celebrate Instantly**. Something you do to create positive emotions, such as saying I did a good job! or Awesome! You need to celebrate immediately after doing the new Tiny Behavior to wire the new behavior into your brain.
+
+- Pearl Habits:
+  - BJ calls these habits Pearl Habits because they use prompts that start out as irritants then turn into something beautiful. 
+  - Step 1: List at least ten things that often happen to you that irritate you (a long line, a noisy motorcycle, a barking dog next door).  
+  - Step 2: Select the most frequent and annoying thing on your list.  
+  - Step 3: Explore new, beneficial habits you could do after the annoyance. Come up with at least five options.
 
 # Why Tiny Changes Make a Big Difference
 
@@ -138,6 +152,8 @@ tags: ["selfdevelopment", "investing"]
 ## “Environment is the invisible hand that shapes human behaviour.” – James Clear
 - **Behaviour** is a function of the **Person** in their **Environment**. B = f(P, E)
   - [Fogg Behaviour Model](https://behaviormodel.org/): Behaviour = f(Motivation, Ability, Prompt): B = MAP
+    - **A behavior happens when motivation, ability, and a prompt converge simultaneously.**
+    - *You can disrupt a behavior you don’t want by removing the prompt. This isn’t always easy, but removing the prompt is your best first move to stop a behavior from happening.*
 - The most powerful human sense is vision when it comes to cues/triggers/prompts.
   - “A small change in what you see can lead to a big shift in what you do.” – James Clear
 - Design your environment.
@@ -460,6 +476,12 @@ tags: ["selfdevelopment", "investing"]
   - What makes me lose track of time?
   - Where do I get greater returns than the average person?
   - What comes naturally to me?
+  - **What is making this behavior hard to do?** Fogg has found in his research that our answer will involve at least one of five factors which he calls the Ability Factors:
+    - Do you have enough time to do the behavior?
+    - Do you have enough money to do the behavior?
+    - Are you physically capable of doing the behavior?
+    - Does the behavior require a lot of creative or mental energy?
+    - Does the behavior fit into your current routine, or does it require you to make adjustments?
 
 - There are two ways to be a world-class performer.
   - Train until you rise to the top 1% of people in your field.
@@ -534,6 +556,85 @@ tags: ["selfdevelopment", "investing"]
   - Too difficult ==> Make it easy
   - Doesn’t stick ==> Make it satisfying
   - “Small habits don’t add up. They compound.” – James Clear
+
+# small habits large impacts
+
+## health
+- recharged throughout the day to stay energized
+- wind down well tonight so I can sleep well
+- hydrate, hydrate, hydrate. Water your brain. If you water level is low, your brain cells shrink, and you also get brain fog. Coffee doesn't count.
+- add more whole foods, fiber and vegetables to your diet. Prioritize your health; 
+- the next 10 or 20 years of your life depend on it.
+- spend more time in nature. It's a simple habit that improves your mood and mental clarity.
+- try sprinting yourself for a few minutes a day to de-clutter your brain. It can reduce stress, improves flood circulation and helps you think better
+- early to bed, early to rise. Your days will feel longer if you can get to bed earlier than usual.
+- cut back alcohol and caffeine in the evening; a good sleep depends on it.
+- create a motivational playlist for your exercise routine: something to look forward to can help sustain the habit. "The right playlist can transform your experience of exercise,"
+- don't aim for 10000 steps a day; it's not sustainable. Aim for a consistent walking habit; the goal is to make it to do it every day.
+- Sleep with your phone in another room
+
+
+## learning
+- I can't stress life long learning enough. Read for at least 15 minutes (at least 10 pages) every morning: your life will be 37x better in a year
+- learn to question common sense - we don't question our beliefs, assumptions and beliefs enough. To find better answers, ask why
+- start a new day as if you have something new to learn, and chances are you will keep an open mind for growth purposes.
+- audit your content sources once every month. It saves time and improves knowledge acquisition.
+- don't speed read or skim every book or insightful article. If your aim is knowledge retention, read slowly.
+- start a lifelong learning habit: tune into relevant essays, documentaries, videos, books and courses.
+- spend a few minutes every night to write down your worries or thoughts as they appear.
+
+## investing
+- saving is good but investing is better. Invest a percentage (you choose) of what you earn in a less risky index fund. Put compound growth to work
+- a side hustle can help you figure out what you want to do with your life. Spend sometime explore your curiosities.
+
+## morning routines
+- [morning routine references/research](https://tim.blog/2017/07/19/morning-routines-and-strategies/)
+- design a morning routine that works for your mind and body. Start your day on a good note.
+	- start your day on purpose:
+		- identify your MIT's (most important tasks) the night before and start ticking them off first thing in the morning
+		- I knew the feelings I wanted to generate today
+		- knew my "why" today and worked for it
+		- set intentions before each major activity today
+
+## productivity
+- limit the news: focus on few credible sources and turn off news notifications.
+- design a staring ritual for your work; it reduces your decision-making process and saves cognitive energy for important things.
+- worked on things that matter the most (toward dream, long term goals, etc...)
+tackle high-value tasks before 12 pm
+- try the one-tab work habit to improve your focus: don't open another tab when working until that specific task is complete
+- de-clutter your personal workspace before you call it a day.
+- distractions are everywhere. Record them to block them and watch your productivity soar.
+- cap your daily most important tasks: 3 at most
+
+## self-management
+
+- emotionally committed to excellence today
+- stay focus as much as I wanted to
+- managed my self-talk and stay on my A-game
+- fully engaged and enjoyed my efforts
+- deal well with fear or unknown well
+- tried to stay confident
+- took action despite risk
+- I chose to bring joy to this day
+- responded well and quickly to life's challenges
+- group your worries into two: those you can control and those you can't. Do something about what you can change and stop stressing about things you have no control over.
+- don't sweat the small, unimportant details. For everything you worry about, ask yourself: will it matter tomorrow, next month or year.
+- appreciate the even smallest everyday experiences: they can improve your mood. - Be more present and observant.
+- stop spending too much time in your head. it robs you the present and increases stress and anxiety.
+- "what you do every day matters more than what you do once in a while."
+
+## relationship
+- care about serving others
+- was a role model today
+- guided others to thinking well today
+- demonstrated caring for others today
+- shared my real-self with others well today
+- nurture meaningful and strong social connections; your happiness depends on it.
+- challenged someone to grow today
+- repressing your emotions makes you worry more; talk about them, speak to someone about them or tell your loved ones how you feel.
+- spend quality time with people who empower and bring out the best in you; your happiness depends on it.
+- change things up once a month; use a different route, read a book you usually ignore, talk to a stranger, or surprise someone you love. It puts your brain to work and makes you think.
+- hit my deadlines and finished my duties today
 
 # Quotes
 

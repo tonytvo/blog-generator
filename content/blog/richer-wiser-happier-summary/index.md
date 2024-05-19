@@ -21,6 +21,7 @@ tags: ["investing", "valueinvesting"]
   - Buy **life insurance** for **mortality risk**.
   - Buy **annuities** for **longevity risk**.
 - Stringing positive experiences one after another doesn’t guarantee fulfillment. Invest in experiences with people you love. Perform an 80/20 analysis of your calendar on a yearly basis.
+- [die with zero info graphic](./Die-with-Zero-Info-Graphic.jpg)
 
 # Maximize your positive life experiences.
 
