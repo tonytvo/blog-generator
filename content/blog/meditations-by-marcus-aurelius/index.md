@@ -2,10 +2,10 @@
 title: meditations by Marcus Aurelius summary - wip
 date: "2024-05-19T22:12:03.284Z"
 description: "meditations by Marcus Aurelius summary"
-tags: ["marketing", "investing"]
+tags: ["self-improvement"]
 ---
-# take-aways
 
+# take-aways
 
 - “Ordinary men hate solitude. But the Master makes use of it, embracing his aloneness, realizing he is one with the whole universe.”
   - So... How’s your stillness workin’ for you? You hate it or embrace it? Can you turn off the TV or the talk radio or the Internet (+ the cell phone and iPod and ...) and immerse yourself in some sacred silence today? (and tomorrow and... :)
