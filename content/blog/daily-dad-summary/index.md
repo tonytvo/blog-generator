@@ -3104,54 +3104,24 @@ gifts you have to give them today—your love, your support, your presence—
 to receive the gift of a crowded table in the future.
 
 
-Forever Young
-O
-ne of the reasons some kids are so unprepared for the real world is that
-parents see the sweetness and innocence of a kid and think, I want to
-keep them like this forever. They felt like their own childhood was too short,
-and so they seek to extend childhood for their children for as long as possible.
-It’s an understandable impulse, but it’s also a kind of contradiction.
-Instead of enjoying how special their kid is in that moment, the parent is
-thinking both about the future (their own) and about the past (their own) and
-trying to figure out how to protect their kids from them. Instead of being
-present, instead of seizing and drinking in right now, they are futilely trying
-to hold back a tide that no one—not even the most dedicated parent—can
-stop: time.
-Today and always, we should remember that line in the famous William
-Blake poem:
-Hold Infinity in the palm of your hand
-And Eternity in an hour
-If you want your kid to be forever young, enjoy this moment here in front
-of you. Experience it fully right now. Don’t give even a thought to what lies
-around the bend. Because you know what you’ll find? That right now just
-keeps on going . . .
+# Forever Young
 
+- One of the reasons some kids are so unprepared for the real world is that parents see the sweetness and innocence of a kid and think, I want to keep them like this forever. They felt like their own childhood was too short, and so they seek to extend childhood for their children for as long as possible. 
 
-This Is When It Matters
-T
-he Europeans of the past had some weird parenting practices. Michel de
-Montaigne’s parents sent him to live with villagers as an infant. Jane
-Austen’s mother breastfed each of her kids for the first month, then handed
-them off entirely to someone else. Aristocratic parents delegated to nannies
-and tutors and governesses until the kids were old enough to participate in
-adult conversations.
-What most of us understand now, either culturally or intuitively, is that
-every minute you have with your kids matters . . . but the younger they are,
-the more those minutes matter. There’s an old expression: “Give me the first
-six years of a child’s life and you can have the rest.”
-Imagine generations of parents who did exactly the opposite of this. No
-wonder the past was so horrible . . . and people did such horrible things to
-each other. The first thing their parents did to them was horrible! They
-severed the first, most important bond a child has—the familial bond.
-And think about what this cost them! Yes, kids are difficult when they’re
-young, but it’s also when they’re the most fun, the most innocent, the
-absolute cutest. So why are we so busy? Why are we working so much?
-Trying to have it all—cramming in all the old things we used to do before we
-had kids while we ask our parents to watch our children for us? We tell
-ourselves that when our kids are old we’ll make more time for them, we’ll
-have more freedom—and besides, they’ll appreciate it more when they’re
-older.
-No! Now is when it matters most! Now is when it counts! The earlier the
+- It’s an understandable impulse, but it’s also a kind of contradiction. Instead of enjoying how special their kid is in that moment, the parent is thinking both about the future (their own) and about the past (their own) and trying to figure out how to protect their kids from them. Instead of being present, instead of seizing and drinking in right now, they are futilely trying to hold back a tide that no one—not even the most dedicated parent—can stop: time.
+
+- If you want your kid to be forever young, enjoy this moment here in front of you. Experience it fully right now. Don’t give even a thought to what lies around the bend. Because you know what you’ll find? That right now just keeps on going . . .
+
+# This Is When It Matters
+
+- What most of us understand now, either culturally or intuitively, is that every minute you have with your kids matters... but the younger they are, the more those minutes matter. There’s an old expression: “Give me the first six years of a child’s life and you can have the rest.”
+
+- Imagine generations of parents who did exactly the opposite of this. No wonder the past was so horrible... and people did such horrible things to each other. The first thing their parents did to them was horrible! They severed the first, most important bond a child has—the familial bond.
+
+- And think about what this cost them! Yes, kids are difficult when they’re young, but it’s also when they’re the most fun, the most innocent, the absolute cutest. So why are we so busy? Why are we working so much? Trying to have it all—cramming in all the old things we used to do before we had kids while we ask our parents to watch our children for us? We tell ourselves that when our kids are old we’ll make more time for them, we’ll
+have more freedom—and besides, they’ll appreciate it more when they’re older.
+
+- No! Now is when it matters most! Now is when it counts! The earlier the
 better!
 
 
