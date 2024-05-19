@@ -2093,18 +2093,18 @@ for the world they live in.
 
 # Show Them What They’ll Get Out of This
 
-- the way to teach a kid to love books—as the great lover of books Robert Greene has said—is by appealing to their self-interest. Show them what they will get out of books. Tangibly. Immediately. Better yet, find them a book that will have a big payoff for them.
+- the way to teach a kid to love books - as the great lover of books Robert Greene has said - is by appealing to their self-interest. Show them what they will get out of books. Tangibly. Immediately. Better yet, find them a book that will have a big payoff for them.
 
 - President Joe Biden has talked about how reading earlier in his life about the orator Demosthenes and his speech impediment helped him overcome his stutter—you think an experience like that, early on, doesn’t turn a person into a reader for life? Find the books that will entertain them. That will help them get their crush to like them. That will make them laugh. That will piss their teachers off. That will help them learn a new skill, solve a problem, or feel less alone.
 
-- Focus on the ROI because that’s what books are about investments. You put down a few dollars, commit several hours, and get something back. To get your kids to read, you must be a reader, of course, but you also have to show them what they will get from books. Or else why would they bother?
+- Focus on the ROI because that’s what books are about investments. You spend a few dollars, commit several hours, and get something back. To get your kids to read, you must be a reader, of course, but you must also show them what they will get from books. Or else why would they bother?
 
 # Never Make Fun of Them for This
 
-- your kids will do all sorts of ridiculous things. They will trip and fall, and yes, you will sometimes laugh. You will tease them about this and that. They’ll make hilarious mistakes. They’ll look back on their own childish ridiculousness with amusement. Your family will have all sorts of inside jokes.
+- your kids will do all sorts of ridiculous things. They will trip and fall, and yes, you will sometimes laugh. You will tease them about this and that. They’ll make hilarious mistakes. They’ll look back on their childish ridiculousness with amusement. Your family will have all sorts of inside jokes.
 
-- It’s essential that your house and your relationship be a safe place for the mispronunciation of words. Do not make them feel self-conscious about reading, about tackling topics outside their comfort zone. This is how they grow. Tease them and have fun about many things. But mispronouncing a word? Respect it. Encourage it... and if you want to fix the problem, start
-by expanding your own vocabulary!
+- It’s essential that your house and your relationship be a safe place for the mispronunciation of words. Do not make them feel self-conscious about reading or about tackling topics outside their comfort zone. This is how they grow. Tease them and have fun about many things. But mispronouncing a word? Respect it. Encourage it... and if you want to fix the problem, start
+by expanding your vocabulary!
 
 # Are You Showing Them How to Be a Student?
 
