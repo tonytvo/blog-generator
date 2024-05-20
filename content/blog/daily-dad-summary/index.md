@@ -2108,17 +2108,17 @@ by expanding your vocabulary!
 
 # Are You Showing Them How to Be a Student?
 
-- If you want your kids to value learning, if you want them to never stop furthering the education you’ve been investing so much time and money and care and worry into, then we have to show them what an adult committed to lifelong learning actually looks like. We have to show them we have not graduated, we are not on summer break, we have not arrived at the final destination of education.
+If you want your kids to value learning, if you want them to never stop furthering the education you’ve been investing so much time, money, care, and worry into, then we have to show them what an adult committed to lifelong learning actually looks like. We have to show them we have not graduated, we are not on summer break, and we have not arrived at the final destination of education.
 
 - Wisdom, they must learn, is an endless pursuit.
 
 # Make Sure They Spend Time around Old People
 
-- When was the last time you stayed under the same roof as someone twice your age? How many conversations do you have with people who grew up without the things you completely take for granted?
+- When did you last stay under the same roof as someone twice your age? How many conversations do you have with people who grew up without the things you completely take for granted?
 
-- In Lori McKenna’s song “Humble and Kind,” she talks about visiting “grandpa every chance that you can.” But it actually requires more than that, more than just seeing your own family. You have to make sure your kids aren’t stuck in a bubble, living their lives away from anyone but other children.
+- In Lori McKenna’s song “Humble and Kind,” she talks about visiting “grandpa every chance that you can.” But it requires more than that, more than just seeing your own family. You have to make sure your kids aren’t stuck in a bubble, living their lives away from anyone but other children.
 
-- Instead, you have to expose them to wisdom. Expose them to people who remember the good and the bad things that humans did in the recent and not-so-recent past. Expose them to people who have learned painful lessons. Expose them to people who have accomplished incredible things. Otherwise all that wisdom might be lost, and so might your children.
+- Instead, you have to expose them to wisdom. Expose them to people who remember the good and the bad things that humans did in the recent and not-so-recent past. Expose them to people who have learned painful lessons. Expose them to people who have accomplished incredible things. Otherwise, all that wisdom might be lost, and so might your children.
 
 # It’s About Learning, Not Memorization
 
