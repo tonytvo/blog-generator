@@ -2124,29 +2124,29 @@ If you want your kids to value learning, if you want them to never stop furtheri
 
 - It’s all making them smarter, you tell yourself. But is it? Or is it just teaching them how to act smart?
 
-- We’re not trying to raise robots. We want kids who can think, who can figure stuff out. Who cares what they can recite? We want them to know what something means as much as we want them to know what it is. We want them to love learning, not trivia! So make sure your priorities are aligned. Make sure the activities you design actually get you closer to that goal. Make sure you’re focused on the right stuff.
+- We’re not trying to raise robots. We want kids who can think and figure stuff out. Who cares what they can recite? We want them to know what something means as much as we want them to know what it is. We want them to love learning, not trivia! So, make sure your priorities are aligned. Make sure the activities you design get you closer to that goal. Make sure you’re focused on the right stuff.
 
 - Teach them to *know*. That’s what counts.
 
 # What Game Are You Teaching Them?
 
-- there are two types of games in this life: finite and infinite. Finite games are things you do once and then they’re over. An infinite game is more like life itself—it goes on and on and everything is interrelated and independent. The former is zero-sum, the latter is non-zero-sum.
+- there are two types of games in this life: finite and infinite. Finite games are things you do once, and then they’re over. An infinite game is more like life - it goes on and on, and everything is interrelated and independent. The former is zero-sum, and the latter is non-zero-sum.
 
 - This sounds familiar, right? We’ve caught ourselves comparing our kids’ grades with other kids’. We’ve talked to other parents about what grade level they’re reading or doing math at and what percentile they’re in statewide. We’ve obsessed over GPA and standardized test scores as if they were keys to the kingdom... of what exactly? Then we grill our college kids about whether they found their major yet, about whether the major they picked is going to snag them a high-paying job or not.
 
-- You want kids who are in this for life. You want kids who don’t think in zero-sum terms. Teach them to play the infinite game. Teach them by playing it yourself.
+You want kids who are in this for life, who don’t think in zero-sum terms. Teach them to play the infinite game, teaching them by playing it yourself.
 
 # They Must Be Surrounded by This
 
-- Behavior (B) is a function of a person (P) and their environment (E). Our habits, our actions, our lives, are determined by our surroundings.
+- Behavior (B) is a function of a person (P) and their environment (E). Our habits, our actions, and our lives are determined by our surroundings.
 
-- What does this mean for us as parents? Well, we’re largely the architects of our kids’ environment. We all have different means and ends, but within those means we control what we surround our children with. The influences. The colors. The moods. The people. The interactions. And of course, the most important thing there is to a child’s intellectual development: the books.
+- What does this mean for us as parents? Well, we’re largely the architects of our kids’ environment. We all have different means and ends, but within those means, we control what we surround our children with. The influences. The colours. The moods. The people. The interactions. And of course, the most important thing there is to a child’s intellectual development: the books.
 
 - If you want them to be readers, you have to design the environment of a reader, as an architect does. You have to surround them with books. Good ones. Silly ones. Short ones. Long ones. Used ones. New ones. You have to display them prominently in your house. You have to take your kids to libraries and independent bookstores. Otherwise, how else could they possibly become readers?
 
 # Don’t Baby Them When It Comes to Books
 
-- But do you really believe our kids are dumber than the kids of Orwell’s time? Or back before that? Of course not! They’re kids. We’re the *problem*. Parents. Adults. Educators. Publishers. As a collective, we’ve stopped believing our kids are capable of reading challenging books. So we provide them with “kids’ editions” and silly picture books instead of helping them build their reading muscles. Then we wonder why they can’t handle heavy stuff.
+- But do you really believe our kids are dumber than the kids of Orwell’s time? Or back before that? Of course not! They’re kids. We’re the *problem*. Parents. Adults. Educators. Publishers. As a collective, we’ve stopped believing our kids are capable of reading challenging books. So we provide them with “kids’ editions” and silly picture books instead of helping them build their reading muscles. Then we wonder why they can’t handle the heavy stuff.
 
 - Well, stop it. Push them. Push yourself. They aren’t babies. Or at least they shouldn’t be after they’ve learned to read for themselves.
 
