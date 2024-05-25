@@ -261,7 +261,7 @@ tags: ["selfdevelopment", "investing"]
   - Group 1: graded on the number of pictures **>>>** Group 2: graded on the quality of one picture.
 
 - Action > Motion
-  - Motion: planning, strategizing, learning. It has a role but we often default to it.
+  - Motion: planning, strategizing, learning. It has a role, but we often default to it.
   - We want to limit and delay failure. It is a form of procrastination.
   - actual work > Not actual work
 
@@ -284,13 +284,13 @@ tags: ["selfdevelopment", "investing"]
 - Reduce friction associated with good behaviours.
   - Limbic friction by Andrew Huberman.
   - [Elephant and the rider](https://youtu.be/X9KP8uiGZTs) analogy. The Happiness Hypothesis – Jonathan Haidt
-  - Connect this to B (behavior) = MAP (motion, ability, prompt). We want the ability to be as low as possible to start.
-  - Make it easy does not mean do easy things. The idea is to build up to things that pay off in the long run.
+  - Connect this to B (behaviour) = MAP (motion, ability, prompt). We want the ability to be as low as possible to start.
+  - Making it easy does not mean doing easy things. The idea is to build up to things that pay off in the long run.
 
 - Increase friction associated with bad behaviours.
 - Prime your environment.
   - Prepare healthy food in advance so it is ready. Hide or don’t hold unhealthy food.
-  - Make fitness equipment readily available but keep the TV in the closet or simply unplug it each time.
+  - Make fitness equipment readily available, but keep the TV in the closet or unplug it each time.
   - Leave your phone in a drawer before going to bed.
 
 ## How to Stop Procrastinating using the Two-Minute Rule
@@ -301,10 +301,10 @@ tags: ["selfdevelopment", "investing"]
 
 - The Two-Minute Rule
   - When you start a new habit, it should take less than 2 minutes to do.
-  - The focus should be on reps no matter how easy. The outcome will take care of itself.
+  - The focus should be on reps, no matter how easy. The outcome will take care of itself.
 
 - Habit Shaping
-  - Almost every habit can be scaled down or up (very easy to very hard).
+  - Almost every habit can be scaled down or up (very easy to hard).
   - Master the habit of showing up before mastering the habit itself.
     - Standardize before you optimize.
 
@@ -312,13 +312,13 @@ tags: ["selfdevelopment", "investing"]
 
 - Examples of Habit Shaping using the Two-Minute Rule.
 
-| **habit**              | **becoming an early riser** | **becoming Vegan** | **starting to exercise**
-| :---------------- | :----------------- | :--------------- | :---------------
-| phase 1 | be home by 10 pm every night | Start eating vegetables at each meal. | Change into workout clothes
-| phase 2 | have all devices (TV, phone, etc...) turned off by 10 p.m. every night | Stop eating animals with four legs (cow, pig, lamb, etc.). | Step out the door (try taking a walk).
-| phase 3 | Be in bed by 10 p.m. every night (reading a book, talking with your partner).  | Stop eating animals with two legs (chicken, turkey, etc.). | Drive to the gym, exercise for five minutes, and leave.
-| phase 4 | Lights off by 10 p.m. every night.   | Stop eating animals with no legs (fish, clams, scallops, etc.). | Exercise for fifteen minutes at least once per week.
-| phase 5 | Wake up at 6 a.m. every day.   | Stop eating all animal products (eggs, milk, cheese). | Exercise three times per week.
+| **habit** | **becoming an early riser**                                                   | **becoming Vegan**                                              | **starting to exercise**                               |
+| :-------- | :---------------------------------------------------------------------------- | :-------------------------------------------------------------- | :----------------------------------------------------- |
+| phase 1   | be home by 10 pm every night                                                  | Start eating vegetables at each meal.                           | Change into workout clothes                            |
+| phase 2   | have all devices (TV, phone, etc...) turned off by 10 p.m. every night        | Stop eating animals with four legs (cow, pig, lamb, etc.).      | Step out the door (try taking a walk).                 |
+| phase 3   | Be in bed by 10 p.m. every night (reading a book, talking with your partner). | Stop eating animals with two legs (chicken, turkey, etc.).      | Drive to the gym, exercise for five minutes and leave. |
+| phase 4   | Lights off by 10 p.m. every night.                                            | Stop eating animals with no legs (fish, clams, scallops, etc.). | Exercise for fifteen minutes at least once per week.   |
+| phase 5   | Wake up at 6 a.m. every day.                                                  | Stop eating all animal products (eggs, milk, cheese).           | Exercise three times per week.                         |
 
 
 ## How to Make Good Habits Inevitable and Bad Habits Impossible
@@ -328,10 +328,10 @@ tags: ["selfdevelopment", "investing"]
 - Commitment Device / Ulysses Contract
   - create a system where it is harder to get out of a good habit than to stick with it.
   - [Marc Adams TED Talk](https://www.youtube.com/watch?v=2paoNvG5Nmo)
-- The power of onetime choices
+- The power of one-time choices
   - Stop paying for Netflix. Delete an app from your phone.
     - The average person spends 2 hours per day on social media.
-    - What would do with an extra 600 hours per year?
+    - What would you do with an extra 600 hours per year?
 
 - Automate your habits
   - Take advantage of technology. Robots working for you for very cheap.
@@ -362,7 +362,7 @@ tags: ["selfdevelopment", "investing"]
   - It used to make sense in an immediate-return environment.
   - We currently live in a delayed-return environment.
   - Good habits tend to have immediate unpleasurable outcomes with long-term pleasure.
-  - Bad habits tend to immediate pleasurable outcomes associated with long-term pain.
+  - Bad habits tend to have immediate pleasurable outcomes associated with long-term pain.
   - We think of our future selves as a stranger. – Hal Hershfield
   - “All self-help boils down to “choose long-term over short-term.” – Naval Ravikant
   - “The road less travelled is the road of delayed gratification.” – James Clear
@@ -377,7 +377,7 @@ tags: ["selfdevelopment", "investing"]
   - Set the bar low. Two-Minute Rule.
 
 - Reward your habits of avoidance.
-  - Reward yourself every time you don’t do the thing you’re trying to avoid.
+  - Reward yourself whenever you don’t do what you’re trying to avoid.
   - Create a loyalty program for yourself.
     - Transfer a dollar towards something pleasurable every time you show up or skip on a bad habit.
   - Try to allow those short-term rewards with your desired identity.
@@ -394,27 +394,27 @@ tags: ["selfdevelopment", "investing"]
     - What is the minimal effective dose (MED) of tracking for your habit?
   - You can automate most tracking.
   - Only track your most important habits.
-    - “It is better to consistently track one habit than sporadically track ten.” – James Clear
+    - “It is better to track one habit than sporadically track ten consistently.” – James Clear
   - Track immediately after the habits to provide reinforcement.
     - Habit stacking to build the habit of tracking.
   - [The Paper Clip Strategy.](https://jamesclear.com/paper-clips)
-    - start the morning with 120 paper clips in 1 jar and keep dialing the phone until I had moved them all to the second jar"
-    - it creates a visual trigger that can help motivate you to perform a habit with more consistency.
-      - **Visual cues remind you to start a behavior.**
-      - **Visual cues display your progress on a behavior.**
+    Start the morning with 120 paper clips in one jar and keep dialing the phone until I have moved them all to the second jar."
+    - it creates a visual trigger that can help motivate you to perform a habit consistently.
+      - **Visual cues remind you to start a behaviour.**
+      - **Visual cues display your progress on a behaviour.**
       - **Visual cues can have an additive effect on motivation**
       - **Visual cues can be used to drive short-term and long-term motivation**
 
 - The Darkside of tracking
   - We often track the wrong things.
-    - work hours < productivity, 10 000 steps < overall health, weight on a scale < reps at the gym
+    - work hours < productivity, 10,000 steps < overall health, weight on a scale < reps at the gym
   - Track process before outcomes.
   - Goodhart’s Law
-    - We often start to cheat the system to achieve our short-term goal.
+    - We often start to cheat the system to achieve our short-term goals.
     - Only measure the bare minimum (unless you’re into it)
 
 - Don’t break the chain.
-  - 2000 day Snapchat streaks.
+  - 2000-day Snapchat streaks.
 
 - Never miss twice.
 - The bad reps are the most important ones.
@@ -432,10 +432,10 @@ tags: ["selfdevelopment", "investing"]
   - You can automate the punishment if possible.
   - [Habit Contract template and example](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habit+Contract.pdf)
 - Get an accountability partner.
-  - I have found that punishment of 1$ is enough when I have accountability partners.
+  - I have found that a punishment of 1$ is enough when I have accountability partners.
   - We care what people think about us.
 
-- Be careful to not rub your elephant the wrong way.
+- Be careful not to rub your elephant the wrong way.
   - Only bind yourself to contracts you are willing to pay the cost.
   - Being punished too often can result in a net negative in the long term.
 
@@ -443,7 +443,7 @@ tags: ["selfdevelopment", "investing"]
 ## The Truth About Talent (When Genes Matter and When They Don’t)
 
 - Habits are easier when they align with your natural abilities.
-  - “Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.” – James Clear
+  - “Pick the right habit, and progress is easy. Pick the wrong habit, and life is a struggle.” – James Clear
   - Why try to swim against the current?
     - Go with the flow and practice non-action (Tao Te Ching).
   - “Find something that looks like work to others, but it feels like play to you.” – Naval Ravikant
@@ -453,13 +453,13 @@ tags: ["selfdevelopment", "investing"]
   - Explore/Exploit Trade-Off
     - Explore more when you have more time.
     - The better you are at something and the more satisfying it feels, the less time you should spend exploring.
-- Spend upwards of 80% of your time exploiting and the rest exploring.
+- Spend 80% of your time exploiting and the rest exploring.
   - Google asked their employees to work 80% of the time of their official jobs and the other 20% on projects of their choice.
 
 - If you can’t find a game that favours your strength, create one.
   - John Holland’s [Theory](https://www.careers.govt.nz/resources/career-practice/career-theory-models/hollands-theory/) of Career Choice ([RIASEC](https://openpsychometrics.org/tests/RIASEC/))
     - Interests + Abilities + Values
-    - There are too many things that fit your interests, abilities, and values?
+    - Are there too many things that fit your interests, abilities, and values?
     - “Don’t be a donkey.” – [Derek Sivers](https://sive.rs/donkey)
 - Who are you?
   - Figure out who you were ([Self-Authoring Program](https://www.selfauthoring.com/)).
@@ -472,20 +472,20 @@ tags: ["selfdevelopment", "investing"]
   - Design your system and habits according to the previous three steps.
 
 - Questions to ask yourself:
-  - What feels like fun to me, but work to others?
+  - What feels like fun to me but work to others?
   - What makes me lose track of time?
   - Where do I get greater returns than the average person?
   - What comes naturally to me?
-  - **What is making this behavior hard to do?** Fogg has found in his research that our answer will involve at least one of five factors which he calls the Ability Factors:
-    - Do you have enough time to do the behavior?
-    - Do you have enough money to do the behavior?
-    - Are you physically capable of doing the behavior?
-    - Does the behavior require a lot of creative or mental energy?
-    - Does the behavior fit into your current routine, or does it require you to make adjustments?
+  - **What is making this behaviour hard to do?** Fogg has found in his research that our answer will involve at least one of five factors, which he calls the Ability Factors:
+    - Do you have enough time to do the behaviour?
+    - Do you have enough money to do the behaviour?
+    - Are you physically capable of doing the behaviour?
+    - Does the behaviour require a lot of creative or mental energy?
+    - Does the behaviour fit your current routine, or does it require you to adjust?
 
 - There are two ways to be a world-class performer.
-  - Train until you rise to the top 1% of people in your field.
-  - Create a unique combination of things you are pretty good at (say 80th percentile).
+  - Train until you reach the top 1% of people in your field.
+  - Create a unique combination of things you excel at (say 80th percentile).
   - The more narrow this becomes, the less competition you have.
   - Living examples are Scott Adams and Joe Rogan
   - Publicly documenting your life is an easy way to become the best in the world at being you.
@@ -493,7 +493,7 @@ tags: ["selfdevelopment", "investing"]
 - “Genes do not eliminate the need for hard work. They clarify it. They tell us what to work on.” – James Clear
   - Almost every trait has a genetic component (Robert Plomin).
   - “Work hard on things that come easy.” – James Clear
-  - Boiling water will soften a potato but harden an egg. You can’t control whether you’re a potato or an egg, but you can decide to play a game where it’s better to be soft or hard.
+  - Boiling water will soften a potato but harden an egg. You can’t control whether you’re a potato or an egg, but you can play a game where it’s better to be soft or hard.
 
 ## The Goldilocks Rule: How to Stay Motivated
 
@@ -547,7 +547,7 @@ tags: ["selfdevelopment", "investing"]
 
 - Sorites Paradox
   - One small action won’t change your life.
-  - Eventually, if you maintain a habit, one small action will be the “tipping point”.
+  - Eventually, if you maintain a habit, one small action will be the “tipping point.”
 
 - Feeling ==> Design
 - How do I know which rule to apply?
