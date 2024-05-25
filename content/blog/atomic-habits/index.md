@@ -61,8 +61,15 @@ tags: ["selfdevelopment", "investing"]
     - “The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game.” – James Clear
   - You do not need to choose between the two. Systems need a goal as a direction/compass.
   - “You do not rise to the level of your goals. You fall to the level of your systems.” – James Clear
+  - **Be more concerned with your current trajectory than with your current result**
 
 ## How Your Habits Shape Your Identity (and Vice Versa)
+
+- Changing our habits is challenging for two reasons: (1) we try to change the wrong thing and (2) we try to change our habits in the wrong way.
+- Three Layers of Behavior Change
+  - Change your results/outcomes.
+  - Change your process/habits/systems.
+  - Change your identity/beliefs about yourself.
 - The Onion of change
   - Try starting from the core and move outwards
     - Identity ==> Processes ==> Outcomes
@@ -82,9 +89,16 @@ tags: ["selfdevelopment", "investing"]
     - Begin with the end in mind
     - “Identity change is the North Star of habit change.” – James Clear
     - “Are you becoming the type of person you want to become?” – James Clear
+    - Every action you take is a vote for the type of person you wish to become.
 
   - Prove it to yourself with small wins.
     - Tiny Habits – BJ Fogg
+
+- Behavior that is incongruent with the self will not last.
+- Improvement are only temporary until they become part of who you are.
+- how to quit smoking
+  - “No thanks. I’m not a smoker.” > “No thanks. I’m trying to quit.”
+  - It’s a small difference, but this statement signals a shift in identity. Smoking was part of their former life, not their current one. They no longer identify as someone who smokes.
 
 ## How to Build Better Habits in 4 Simple Steps
 
@@ -124,6 +138,10 @@ tags: ["selfdevelopment", "investing"]
   - “There are no good habits or habits. There are only effective habits.” – James Clear
   - “Does this behaviour help me become the type of person I wish to be?”
   - “Does this habit cast a vote for or against my desired identity?”
+  - Make a list of your daily habits.
+  - As yourself if each habit is positive, negative, or neutral (this will depend on your goals).
+  - **A helpful question is, “Does this behavior help me become the type of person I wish to be?”**
+  - The purpose the Habits Scorecard is to simply recognize your habits and acknowledge the cues that trigger them, which makes it possible to respond in a way that benefits you.
 
 - Simply observe.
   - The goal of tracking is not to change your behaviour. Track without judgement.
@@ -145,8 +163,8 @@ tags: ["selfdevelopment", "investing"]
     - Wake up ==> Make my bed ==> Place a book on my pillow ==> Take a shower
     - Make sure your established cue occurs at the same frequency as the desired habit.
     - Brainstorm two lists for potential cues.
-      - Habits you perform without fail (brush teeth, get out of bed, do dishes, …).
-      - Things that happen to you without fail (you get a notification, you eat a meal, go to the washroom, …).
+      - Habits you perform without fail (brush teeth, get out of bed, do dishes,...).
+      - Things that happen to you without fail (you get a notification, you eat a meal, go to the washroom,...).
   - The cue needs to be immediately actionable.
 
 ## “Environment is the invisible hand that shapes human behaviour.” – James Clear
@@ -156,6 +174,7 @@ tags: ["selfdevelopment", "investing"]
     - *You can disrupt a behavior you don’t want by removing the prompt. This isn’t always easy, but removing the prompt is your best first move to stop a behavior from happening.*
 - The most powerful human sense is vision when it comes to cues/triggers/prompts.
   - “A small change in what you see can lead to a big shift in what you do.” – James Clear
+  - Suggestion Impulse Buying: When a shopper sees a product for the first time and visualizes a need for it. In other words, customers occasionally buy products not because the want them but because of how they are presented to them. For example, items placed on the shelf at eye level tend to be purchased more than those down near the floor
 - Design your environment.
   - “If you want to make a habit a big part of your life, make your cue a big part of your environment.” – James Clear
   - Design in more cues for desired habits. Eliminate cues for the habits you are trying to break.
@@ -232,6 +251,11 @@ tags: ["selfdevelopment", "investing"]
   - I am a reader ==> We are readers.
 
 ## How to Find and Fix the Causes of Your Bad Habits
+
+- Habits are attractive when we associate them with positive feelings.
+
+- Reframing your habits to highlight their benefits rather than their drawbacks is a fast and lightweight way to reprogram your mind and make a habit seem more attractive.
+
 - Make it unattractive
   - You can reframe a concept in a way that makes it unattractive.
   - Allen Carr’s Easy Way To Stop Smoking – Allen Carr
@@ -306,7 +330,7 @@ tags: ["selfdevelopment", "investing"]
 - Habit Shaping
   - Almost every habit can be scaled down or up (very easy to hard).
   - Master the habit of showing up before mastering the habit itself.
-    - Standardize before you optimize.
+    - **Standardize before you optimize.**
 
 - [which decisions have a disproportionate impact on your day](./decisions-disproprotionate-impact-your-day.png)
 
@@ -528,7 +552,17 @@ tags: ["selfdevelopment", "investing"]
 - Reflection is a good practice to avoid complacency.
   - Tracking can help with checking our assumptions
   - Types of practices
-    - [annual reviews](https://jamesclear.com/annual-review) & [integrity reports](https://jamesclear.com/integrity).
+    - [annual reviews](https://jamesclear.com/annual-review)
+      - Tally all your habits for the year (if the results are measurable).
+      - Reflect on progress by answering three questions:
+        - What went well this year?
+        - What didn’t go so well this year?
+        - What did I learn?
+    - [integrity reports](https://jamesclear.com/integrity).
+      - Answer these questions halfway through the year:
+        - What are the core values that drive my life and work?
+        - How am I living and working with integrity right now?
+        - How can I set a higher standard in the future?
     - Daily three questions for success?
     - Weekly planning
     - Mission Statement update
@@ -549,6 +583,8 @@ tags: ["selfdevelopment", "investing"]
   - One small action won’t change your life.
   - Eventually, if you maintain a habit, one small action will be the “tipping point.”
 
+- Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine.
+
 - Feeling ==> Design
 - How do I know which rule to apply?
   - Hard to remember ==> Make it obvious
@@ -557,7 +593,7 @@ tags: ["selfdevelopment", "investing"]
   - Doesn’t stick ==> Make it satisfying
   - “Small habits don’t add up. They compound.” – James Clear
 
-# small habits large impacts
+# small habits, large impacts
 
 ## health
 - recharged throughout the day to stay energized
@@ -639,6 +675,8 @@ tackle high-value tasks before 12 pm
 # Quotes
 
 Building better habits isn’t about littering your day with life hacks. It’s not about flossing one tooth each night or taking a cold shower each morning or wearing the same outfit each day. It’s not about achieving external measures of success like earning more money, losing weight, or reducing stress. Habits can help you achieve all of these things, but fundamentally they are not about having something. They are about becoming someone. - JAMES CLEAR
+
+Until you make the unconscious conscious, it will direct your life and you will call it fate
 
 # References
 
