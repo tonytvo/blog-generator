@@ -26,7 +26,7 @@ tags: ["investing", "valueinvesting"]
   - Buy **life insurance** for **mortality risk**.
   - Buy **annuities** for **longevity risk**.
 - Stringing positive experiences one after another doesn’t guarantee fulfillment. Invest in experiences with people you love. Perform an 80/20 analysis of your calendar on a yearly basis.
-- [die with zero info graphic](./Die-with-Zero-Info-Graphic.jpg)
+- [die with zero info graphic](./die-with-zero-info-graphic.jpg)
 - In investing, paence is your biggest virtue. You can be a successful investor only if you are patient with your investments.
 - Sentiment and behaviour are your biggest enemies. In order to succeed at investing, you must be able to control your emotions and make rational decisions.
 - Trying to predict the future is redundant. Instead, you should focus on trying to learn from the past.
@@ -46,7 +46,7 @@ tags: ["investing", "valueinvesting"]
   - “But this book focuses on managing what is under your control through the decisions you make—so realize that a few factors are in your control, and one of the biggest is how much time at each age you devote to earning money versus having enjoyable experiences.”
 
 - money = life energy
-  - [maslow's hierarchy](./Maslows-Hierarchy-of-Needs.jpg)
+  - [maslow's hierarchy](./maslows-hierarchy-of-needs.jpg)
   - We need to trade in life energy for money, so we can: survive, afford fulfilling experiences.
   - Bill argues that most people focus way too much on saving money. Even as they get older, they carry on trading in their valuable time, all for cash they’ll never spend.
 
