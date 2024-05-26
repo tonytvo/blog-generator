@@ -7,6 +7,11 @@ tags: ["investing", "valueinvesting"]
 
 # take-aways
 
+- **Spend intentionally**: Allocate funds for experiences at the time in your life when you can enjoy them the most.
+- **Health over wealth**: Recognize that your health dictates the quality of your experiences, so plan your finances around your physical capabilities.
+- **Timely experiences**: Invest in experiences over material possessions, as memories are more valuable.
+- **Plan your legacy**: Consider the impact of inheritances and the value of giving at the right time.
+- **Avoiding regret**: Ensure that you do not miss out on life’s experiences due to over-saving or poor financial planning.
 - Optimizing fulfillment over a lifetime is the goal. We want to maximize the area under the entire curve. Not just for retirement. It takes hard work and planning. It’s easy to get lost in work and forget that money is supposed to increase our ability to enjoy life.
 - Certain things can only be experienced at certain stages of your life. It makes sense to borrow from your future, likely wealthier, self. It doesn’t make much sense to save too aggressively when you’re young and broke. The 10% rule and the pay yourself first principles might be overly simplistic. According to his app, I should be spending roughly 15K per year on experiences right now.
   - “Each age tends to have a different balance of health, money, and free time. Because fulfillment requires reasonable amounts of all three, it’s a good idea at every age to trade an abundance of one (such as money) to attain more of the other two (such as buying more health or free time).”
@@ -22,6 +27,12 @@ tags: ["investing", "valueinvesting"]
   - Buy **annuities** for **longevity risk**.
 - Stringing positive experiences one after another doesn’t guarantee fulfillment. Invest in experiences with people you love. Perform an 80/20 analysis of your calendar on a yearly basis.
 - [die with zero info graphic](./Die-with-Zero-Info-Graphic.jpg)
+- In investing, paence is your biggest virtue. You can be a successful investor only if you are patient with your investments.
+- Sentiment and behaviour are your biggest enemies. In order to succeed at investing, you must be able to control your emotions and make rational decisions.
+- Trying to predict the future is redundant. Instead, you should focus on trying to learn from the past.
+- A successful investment mantra is to buy cheap. A better mantra is to buy quality at cheap prices.
+- Always question whether the price that you are paying for an investment is reasonable.
+- Whether in life or in investing, there is no substitute for hard work and discipline.
 
 # Maximize your positive life experiences.
 
@@ -33,6 +44,11 @@ tags: ["investing", "valueinvesting"]
   - “So why should I save this random percentage of my modest income for the future? I should enjoy that measly $1,000 right now!”
   - “we need to basically transfer money from years of abundance into the leaner years. That’s one use of savings accounts. But in my case, I had been using my savings account totally backwards—I was taking money away from my starving younger self to give to my future wealthier self!”
   - “But this book focuses on managing what is under your control through the decisions you make—so realize that a few factors are in your control, and one of the biggest is how much time at each age you devote to earning money versus having enjoyable experiences.”
+
+- money = life energy
+  - [maslow's hierarchy](./Maslows-Hierarchy-of-Needs.jpg)
+  - We need to trade in life energy for money, so we can: survive, afford fulfilling experiences.
+  - Bill argues that most people focus way too much on saving money. Even as they get older, they carry on trading in their valuable time, all for cash they’ll never spend.
 
 # Invest in experiences early. - Memory dividends
 
@@ -122,7 +138,7 @@ We could start playing a slideshow of our albums on Google photos on a digital f
     - GICs: best for medium-term goals (6 months to 3 years) where you know you won’t need the money
     - Investments: best for long-term goals (3 years or more)
     - Make sure that all income streams flow into your no-fee checking account.
-    - Automate a contribution from your checking account to your goal account. DONE.
+    - Automate a contribution from your checking account to your goal account. 
 
   - There’s no better feeling than having a guilt-free experience, knowing that it’s paid for. It also helps you sleep at night knowing that your money is working for you without having to lift a finger. It frees you from having to make tough decisions all the time.
 
@@ -300,8 +316,38 @@ We could start playing a slideshow of our albums on Google photos on a digital f
     - Start their own company
     - Afford to have their own kids
     - Pursue interesting careers instead of working horrible jobs to make rent.
+  - Don’t wait until you die to give money away to your kids. If you’re going to do it, do it when you’re alive, and when they’re younger, when the money will be most effective.
 
-Don’t wait until you die to give money away to your kids. If you’re going to do it, do it when you’re alive, and when they’re younger, when the money will be most effective.
+- **How can the Die With Zero approach be applied to achieve financial independence?**
+  - Applying Die With Zero’s approach to achieve financial independence involves finding a balance between enjoying your experiences and managing your finances effectively. This means investing in experiences early in life, considering the timing and impact of gifts to others, and being open to non-traditional retirement plans. By focusing on living a fulfilling life rather than solely accumulating wealth, you ensure financial independence aligns with your personal values and life goals.
+
+- **How does Die With Zero differ from traditional financial planning?**
+  - Die With Zero challenges the conventional financial planning approach by emphasizing the importance of enjoying and spending money during your life, rather than solely focusing on saving and accumulating wealth for retirement. Traditional financial planning often advocates for growing wealth and minimizing risks, while Die With Zero encourages spending on memorable experiences and deriving fulfillment from life.
+
+- **What are the main principles of the Die With Zero concept?**
+  - The Die With Zero concept revolves around maximizing positive life experiences and spending your money wisely during your lifetime. The main principles include:
+    - Maximize your positive life experiences.
+    - Start investing in experiences early.
+    - Aim to die with zero.
+    - Use all available tools to help you die with zero.
+    - Give money to your children or to charity when it has the most impact.
+    - Don’t live your life on autopilot.
+    - Think of your life as distinct seasons.
+
+- **How does the book "Die with Zero" suggest handling health care costs in later life?**
+  - In "Die with Zero," Bill Perkins addresses handling healthcare costs by recommending the early purchase of comprehensive health insurance and considering health savings accounts (HSAs) to manage potential expenses in older age. He underscores the importance of planning for medical costs while also enjoying life’s peak moments before health declines.
+
+
+- **What criticisms have been leveled against the concepts in "Die with Zero"?**
+  - Critics of "Die with Zero" often point to the unpredictability of life span and economic conditions as potential flaws in Perkins' model. Some argue that his approach might lead to financial insecurity in the event of unexpected longevity or expenses. Additionally, critics suggest that the book might oversimplify complex financial decisions or underestimate the emotional comfort some people find in having savings.
+
+
+- **How does Bill Perkins address the fear of running out of money in "Die with Zero"?**
+  - Bill Perkins tackles the common fear of running out of money by encouraging a calculated approach to spending and life planning. He suggests methods for estimating your lifespan and adjusting your financial plan accordingly, ensuring you use your assets effectively without the risk of exhausting them prematurely. Perkins advocates for a balance between cautious saving and excessive frugality.
+
+- **What practical strategies does "Die with Zero" offer for achieving financial fulfillment?**
+  - "Die with Zero" provides practical strategies such as mapping out your life’s financial phases to align with your energy levels and capabilities. Bill Perkins emphasizes the idea of creating a "memory dividend" by investing in experiences throughout life. He also discusses the importance of understanding your peak earning years and advises on how to plan for financial expenditures that correlate with personal peak experiences.
+
 
 # Bill Ruane
 
@@ -349,6 +395,9 @@ Don’t wait until you die to give money away to your kids. If you’re going to
   - Find Bargains: "…study whichever assets have performed most dismally in the past five years, then to assess whether the cause of those woes is temporary or permanent."
   - Avoid Fads: "The best way for an investor to avoid popular delusions is to focus not on outlook but on value." — Templeton
 - Templeton shorted 84 internet stocks, selling at triple its IPO price during the Dotcom Bubble on the theory that insiders would dump their shares after the lockup period ended. He bet $2.2 million on each stock ($185 million total) and made $90 million when the bubble burst. His strategy was to place short bets 7 days before the lockup expiration and cover the bets 10 days after expiration. He also had a rule in place to cover if the stocks rose a certain amount (to protect from excessive losses).
+- The best way to find bargains is to study whichever assets have performed very badly in the past five years. Once you identify these assets, then you need to assess whether the cause of those woes is temporary or permanent.
+- Buy at the point of maximum pessimism
+  - **“You have to buy at a time when other people are desperately trying to sell.”**
 
 # Howard Marks
 
@@ -364,6 +413,16 @@ Don’t wait until you die to give money away to your kids. If you’re going to
 - "Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome."
 - "Our performance doesn’t come from what we buy or sell. It comes from what we hold. So the main activity is holding, not buying and selling. I’ve always wondered if it wouldn’t enhance an organization to say, ‘We only trade on Thursdays.’ And the other four days of the week, all you can do is sit and think." — Marks
 - "If your thinking is heavily colored by wishful thinking, then your probability assignments will be biased toward favorable… If you’re given to fear, then you’ll be biased toward the negative… No one is going to say, ‘This is my prediction and it’s probably wrong.’ But you must say, ‘This is my expectation and I have to be aware of the likelihood that it’s colored by my emotional bias.’ And you have to resist it. For me, that means not to chicken out when the going gets tough." — Marks
+- Markets move in cycles and thus, cycles will always reverse. By studying patterns of the past, you can take advantage of the cyclicality by behaving countercyclically.
+- Marks never thinks of the future as a single predetermined scenario that’s bound to occur. He views it instead as a “distribution of different possibilities.” His standard approach is to assign probabilities to each of these “alternative futures.” But in this case, the uncertainty was so extreme that there was no point even trying to assign probabilities for the array of possible outcomes. He found it more helpful to simplify his decision-making by thinking of the situation in binary terms: “I think you can reduce it to, either the world ends or it doesn’t.… And if it doesn’t end and we didn’t buy, then we didn’t do our job. That made it awfully straightforward.”
+
+# Five Rules of resilience
+
+- First, you need to respect uncertainty.
+- Second, to achieve resilience, it's imperative to reduce or eliminate debt, avoid leverage, and beware of excessive expenses.
+- Third, instead of fixating on short-term gains or beating benchmarks, you should place greater emphasis on becoming shock resistant, avoiding ruin, and staying in the game.
+- Fourth, beware of overconfidence and complacency.
+- Fifth, as informed realists, you should be keenly aware of your exposure to risk and should always require a margin of safety.
 
 # Jean-Marie Eveillard
 - Eveillard followed Ben Graham’s philosophy: minimize risk because the future is unpredictable.
@@ -412,6 +471,7 @@ Don’t wait until you die to give money away to your kids. If you’re going to
 - "Pretty much everything we ever owned, we sold way too early. If you’re very cheap in buying, it’s hard to be as comfortable when something has doubled or tripled, even if it’s still good." — Greenblatt
 - "One of the beauties of the pain that people have to take in underperformance is that, if it did not exist, everyone would do what we do." — Greenblatt
 - The best strategy is the one you can stick to in good and bad times.
+- So if you have a way to value businesses that’s disciplined and makes sense, you should be able to take advantage of other people’s emotions.
 
 # Will Danoff
 
@@ -419,13 +479,16 @@ Don’t wait until you die to give money away to your kids. If you’re going to
 - His investment philosophy: "Stocks follow earnings." — Danoff
 - He looks for companies that can grow earnings at a high rate over 5 years because stock price will follow it.
 - "Do you want to win the game for shareholders and own great companies? Sometimes, to own a great company, you’ve got to pay a fair price." — Danoff
-- "Will once said to me, falsely, ‘Look, I’m not that smart and there’s a lot of information out there. So when I look at a company, I just ask myself: ‘Are things getting better or are they getting worse?’ If they’re getting better, then I want to understand what’s going on.’ " — Bill Miller
 
 # Bill Miller
 
 - "The world changes. This is the biggest problem in markets." — Miller
 - "It’s all probabilities. There is no certainty." — Miller
 - "I’m trying to get rid of the unnecessary parts of what I used to do… I don’t build models anymore. It’s just stupid. It doesn’t make any sense… For every company, there are a few key investment variables and the rest of the stuff is noise." — Miller
+- "Will once said to me, falsely, ‘Look, I’m not that smart and there’s a lot of information out there. So when I look at a company, I just ask myself: ‘Are things getting better or are they getting worse?’ If they’re getting better, then I want to understand what’s going on.’ " — Bill Miller
+- **Work hard so you have conviction**
+  - The analyst on the other end of the line broke it to him that AES, a stock that Miller had only just bought, had announced terrible earnings. The stock halved, costing him $ 50 million before lunchtime. Miller instantly doubled his bet, calmly assuming that irrational investors had overreacted to the company’s dismal news. As he explained to me, investing is a constant process of calculating the odds: “It’s all probabilities. There is no certainty.”
+
 
 # Nick Sleep & Qais Zakaria
 
@@ -455,6 +518,7 @@ Don’t wait until you die to give money away to your kids. If you’re going to
   - Tend to be very long-term focused.
   - "Relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com." — Jeff Bezos, 2005 Shareholder Letter
 - "It’s all about deferred gratification. When you look at all the mistakes you make in life, private and professional, it’s almost always because you reached for some short-term fix or some short-term high… And that’s the overwhelming habit of people in the stock market." — Sleep
+- One practical trick, says Sleep, is to “reward yourself in the short term” by relishing the prospect of all the wonderful benefits you will enjoy because you chose to override your desire for instant gratification. That way, deferral becomes associated with pleasure and “you’re much more likely to embrace it.”
 
 # Thomas Russo
 
@@ -470,7 +534,7 @@ Don’t wait until you die to give money away to your kids. If you’re going to
 
 - Gayner manages Markel’s investment portfolio since 1990.
 - His goal is to find tiny habits repeated daily that lead to long-term success.
-- "If you want the secret to great success, it’s just to make each day a little bit better than the day before. There are different ways you can go about doing that, but that’s the story… Just making progress over and over again is the critical part." Gayner
+- "If you want the secret to great success, it’s just to make each day a little bit better than the day before. There are different ways you can go about doing that, but that’s the story... Just making progress over and over again is the critical part." Gayner
 - "It struck me that we should think small, not big, and adopt a philosophy of continuous improvement through the aggregation of marginal gains. Forget about perfection; focus on progression, and compound the improvements." — Sir David Brailsford, coach of the British cycling team
 - Returns, training, learning, etc., it all compounds!
 - 4 Principles:
@@ -495,6 +559,7 @@ Don’t wait until you die to give money away to your kids. If you’re going to
 - He constantly tries to avoid stupidity.
 - "Other people are trying to be smart. All I’m trying to be is non-idiotic. I find that all you have to do to get ahead in life is to be non-idiotic and live a long time. It’s harder to be non-idiotic than most people think." — Munger
 - On Attacking Problems via Inversion: "It’s counterintuitive that you go at the problem backward. If you try and be smart, it’s difficult. If you just go around and identify all of the disasters and say, ‘What caused that?’ and try to avoid it, it turns out to be a very simple way to find opportunities and avoid troubles." — Munger
+- ‘What could I do to really ruin India?’ And you think through all of the things you could do to ruin India, and then you reverse it and say, ‘Now, I won’t do those.’ It’s counterintuitive but it really helps you to reverse these issues. It’s a more complete way of thinking a problem through.”
 - The best way to avoid stupidity is to ask: How bad will this be? Instead of, How great will this be? Or about investing more broadly ask: what are all the stupid ways people lose money? Then don’t do those things.
 - "Finding out what’s wrong and trying to avoid it is different from finding out what’s good and trying to get it. You have to do both, of course, in life. But this inversion of looking for the trouble and trying to avoid it keeps you out of a lot of messes… It’s a precaution. It’s like a checklist before you take off in an airplane." — Munger
 - "A lot of people are so interested in reaching for the prize that they don’t even think about the stupidities that might prevent them from getting it." — Munger
@@ -513,6 +578,9 @@ Don’t wait until you die to give money away to your kids. If you’re going to
 Lists of your biggest biases, emotional tendencies, and mistakes serve as a good checklist before making a decision.
 - "If you’re going to be in this game for the long pull, which is the way to do it, you better be able to handle a fifty percent decline without fussing too much about it. And so my lesson to all of you is, conduct your life so that you can handle the fifty percent decline with aplomb and grace. Don’t try to avoid it. It will come. In fact, I would say if it doesn’t come, you’re not being aggressive enough." — Munger
 - "You have to be like a man standing with a spear next to a stream. Most of the time he’s doing nothing. When a fat juicy salmon swims by, the man spears it. Then he goes back to doing nothing. It may be six months before the next salmon goes by." — Munger
+- **There are no prizes for frenetic activity. Rather, investing is mostly a matter of waiting for these rare moments when the odds of making money vastly outweigh the odds of losing it.** As Buffett has said, “You don’t have to swing at everything—you can wait for your pitch. The problem when you’re a money manager is that your fans keep yelling, ‘Swing, you bum!’ ”
+- I observe what works and what doesn’t and why
+  - best investor are seekers of what the economist John Maynard Keynes called “worldly wisdom,” which they deploy to attack more pressing problems, such as “How can I make smart decisions about the future if the future is unknowable?” They look for advantages wherever they can find them: economic history, neuroscience, literature, Stoicism, Buddhism, sports, the science of habit formation, meditation, or anything else that can help. Their unconstrained willingness to explore “what works” makes them powerful role models to study in our own pursuit of success, not only in markets but in every area of life.
 
 # Joel Tillinghast
 
@@ -680,6 +748,3 @@ I always look at things in terms of ‘Where’s the mistake? Is the mistake in 
 - https://duddhawork.com/blog/die-with-zero-book-notes/
 - https://duddhawork.com/blog/die-with-zero-implementation/
 - https://www.clearwhitespace.com/post/die-with-zero-book-summary
-- https://public.summaries.com/files/1-page-summary/die-with-zero.pdf
-- https://synapsetrading.com/die-with-zero/
-- https://growthabit.com/business-finance-books/die-with-zero-book-summary-review-notes/
