@@ -274,18 +274,18 @@ We could start playing a slideshow of our albums on Google photos on a digital f
     - [Connects with the fisherman story.](https://paulocoelhoblog.com/2015/09/04/the-fisherman-and-the-businessman/)
 
 # Take your biggest risks when you have little to lose.
-- People are more afraid of running out of money than wasting their life, and that’s got to switch.
+People are more afraid of running out of money than of wasting their lives, and that has to change.
 - **Asymmetric risk**
   - “When the upside of possible success is much greater than the downside of possible failure. When you face asymmetric risk, it makes total sense to be bold, to grab the opportunity at hand. At the extreme, when the downside is very low (or nonexistent, as in the “nothing to lose” case) and the upside is really high, **it’s actually riskier not to make the bold move**.”
   - “Notice that I’m not saying that being bold in situations of asymmetric risk always leads to success, the way it did for Mark Cuban. Sometimes things don’t go your way, no matter how hard you try. What I’m saying is that the “loss” is worth it—it was still a good bet because I knew I had little to lose, I had plenty of time to course-correct, and I still acquired some great memories.”
   - “Besides, if she couldn’t take the risk now, when could she take the risk?”
-  - “There’s a difference between low risk tolerance and plain old fear. Fear tends to take the actual risk and then blow it out of proportion.”
+  - “There’s a difference between low-risk tolerance and plain old fear. Fear tends to take the actual risk and then blow it out of proportion.”
     - [Fear Setting Exercise](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?subtitle=en) – Time Ferris
 - **Be bold.**
   - “When you consider all the safety nets you’ve got in your life—from unemployment insurance provided by your job to private insurance you can buy against any kind of disaster to good old-fashioned help from your family—the worst-case scenario is probably not as bad as you think.”
   - “For example, let’s say you have an opportunity to move across the country (or across the world) for an exciting job that pays $70,000 a year more than your current job. But you’re afraid you’ll lose touch with your friends and family. When I hear something like that, I ask a couple of questions. One is: How much time do you spend with these people? Often it’s not that much time at all, because we tend to take for granted what is readily available. The other question I ask is: How much is a round-trip first-class ticket from here to there on no notice? This is the highest price you would have to pay to see the people you’d be moving away from.”
   - “In all these cases, you can take the safer path of quiet misery or the bolder path that’s less certain but potentially much more rewarding, both financially and psychologically.”
-  - “I figured that if the post office was always hiring, and provided a safe income, I could always go work there if all else failed; but there’s no need to start there.”
+  - “I figured that if the post office was always hiring and provided a safe income, I could always go work there if all else failed, but there’s no need to start there.”
   - “If that’s the case, your failure is no longer your own—it affects other people. It’s for the same reason that I stopped riding motorcycles and taking flying lessons once I had kids: In my mind, I no longer had the right to put my life on the line for the sake of those thrills.”
 
 # Questions
