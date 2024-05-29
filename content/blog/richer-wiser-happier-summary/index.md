@@ -290,39 +290,39 @@ People are more afraid of running out of money than of wasting their lives, and 
 
 # Questions
 
-- **gift what you intend for your kids (or charities) while you’re still alive.** Why hold on until the end?
+- **Gift what you intend for your kids (or charities) while you’re still alive.** Why hold on until the end?
 
 - **What memories would you want your kids to associate with you? What experiences would you like them to share with you?**
 
-- Does every extra hour at work truly justify the sacrifice for both you and your children?
+- Does every extra hour at work justify the sacrifice for you and your children?
 
 - **Is your job enriching your legacy or chipping away at it**?
 
 - How does Die With Zero differ from traditional financial planning?
-  - Die With Zero challenges the conventional financial planning approach by emphasizing the importance of enjoying and spending money during your life, rather than solely focusing on saving and accumulating wealth for retirement. Traditional financial planning often advocates for growing wealth and minimizing risks, while Die With Zero encourages spending on memorable experiences and deriving fulfillment from life.
+  - Die With Zero challenges conventional financial planning by emphasizing the importance of enjoying and spending money during your life rather than solely focusing on saving and accumulating wealth for retirement. Traditional financial planning often advocates for growing wealth and minimizing risks, while Die With Zero encourages spending on memorable experiences and deriving fulfillment from life.
 
-- How can the Die With Zero approach be applied to achieve financial independence?
+- How can the Die With Zero approach achieve financial independence?
 
 - Does the book suggest that we shouldn’t save money for the future and instead spend all we have in the present?
   - Not necessarily. The book’s central message is not about spending recklessly but prioritizing life’s peak experiences while you have the time and health to enjoy them. It proposes that while having enough money for security is essential, it’s equally crucial not to sacrifice too much time merely accumulating wealth. Instead, focus on creating enjoyable experiences, which become a significant sum of your life’s fulfillment.
 
 - **What if I run out of money before I die?**
-  - Bill’s main point is that we fear running out of money a lot more than it’s actually likely to happen. People who save for the future tend to save up too much, and wait until too late in their lives to spend it on fulfilling experiences, if at all.
-  - Big caveat: this all assumes you’re a reasonably high earner with disposable income and savings. If you’re not, please don’t take the book too seriously.
+  - Bill’s main point is that we fear running out of money a lot more than it’s likely to happen. People who save for the future tend to save up too much and wait until too late in their lives to spend it on fulfilling experiences, if at all.
+  The big caveat is that this all assumes you’re a reasonably high-earner with disposable income and savings. If you’re not, please don’t take the book too seriously.
 
 - **What about the kids?**
   - if you give them that money when they’re 25-35, that windfall will be ridiculously helpful. With a big chunk of cash at that age, your kids can:
     - Put down a deposit on a house
     - Start their own company
-    - Afford to have their own kids
+    - Afford to have their kids
     - Pursue interesting careers instead of working horrible jobs to make rent.
-  - Don’t wait until you die to give money away to your kids. If you’re going to do it, do it when you’re alive, and when they’re younger, when the money will be most effective.
+  - Don’t wait until you die to give money away to your kids. If you’re going to do it, do it when you’re alive and when they’re younger, when the money will be most effective.
 
 - **How can the Die With Zero approach be applied to achieve financial independence?**
-  - Applying Die With Zero’s approach to achieve financial independence involves finding a balance between enjoying your experiences and managing your finances effectively. This means investing in experiences early in life, considering the timing and impact of gifts to others, and being open to non-traditional retirement plans. By focusing on living a fulfilling life rather than solely accumulating wealth, you ensure financial independence aligns with your personal values and life goals.
+  - Applying Die With Zero’s approach to achieving financial independence involves balancing enjoying your experiences and managing your finances effectively. This means investing in experiences early in life, considering the timing and impact of gifts to others, and being open to non-traditional retirement plans. By focusing on living a fulfilling life rather than solely accumulating wealth, you ensure financial independence aligns with your personal values and life goals.
 
 - **How does Die With Zero differ from traditional financial planning?**
-  - Die With Zero challenges the conventional financial planning approach by emphasizing the importance of enjoying and spending money during your life, rather than solely focusing on saving and accumulating wealth for retirement. Traditional financial planning often advocates for growing wealth and minimizing risks, while Die With Zero encourages spending on memorable experiences and deriving fulfillment from life.
+  - Die With Zero challenges conventional financial planning by emphasizing the importance of enjoying and spending money during your life rather than solely focusing on saving and accumulating wealth for retirement. Traditional financial planning often advocates for growing wealth and minimizing risks, while Die With Zero encourages spending on memorable experiences and deriving fulfillment from life.
 
 - **What are the main principles of the Die With Zero concept?**
   - The Die With Zero concept revolves around maximizing positive life experiences and spending your money wisely during your lifetime. The main principles include:
@@ -330,22 +330,22 @@ People are more afraid of running out of money than of wasting their lives, and 
     - Start investing in experiences early.
     - Aim to die with zero.
     - Use all available tools to help you die with zero.
-    - Give money to your children or to charity when it has the most impact.
+    - Give money to your children or charity when it has the most impact.
     - Don’t live your life on autopilot.
     - Think of your life as distinct seasons.
 
 - **How does the book "Die with Zero" suggest handling health care costs in later life?**
-  - In "Die with Zero," Bill Perkins addresses handling healthcare costs by recommending the early purchase of comprehensive health insurance and considering health savings accounts (HSAs) to manage potential expenses in older age. He underscores the importance of planning for medical costs while also enjoying life’s peak moments before health declines.
+  - In "Die with Zero," Bill Perkins addresses handling healthcare costs by recommending the early purchase of comprehensive health insurance and considering health savings accounts (HSAs) to manage potential expenses in older age. He underscores the importance of planning for medical costs while enjoying life’s peak moments before health declines.
 
 
-- **What criticisms have been leveled against the concepts in "Die with Zero"?**
-  - Critics of "Die with Zero" often point to the unpredictability of life span and economic conditions as potential flaws in Perkins' model. Some argue that his approach might lead to financial insecurity in the event of unexpected longevity or expenses. Additionally, critics suggest that the book might oversimplify complex financial decisions or underestimate the emotional comfort some people find in having savings.
+- **What criticisms have been levelled against the concepts in "Die with Zero"?**
+  - Critics of "Die with Zero" often point to the unpredictability of life span and economic conditions as potential flaws in Perkins' model. Some argue that his approach might lead to financial insecurity in the event of unexpected longevity or expenses. Additionally, critics suggest that the book might oversimplify complex financial decisions or underestimate some people's emotional comfort in having savings.
 
 
 - **How does Bill Perkins address the fear of running out of money in "Die with Zero"?**
-  - Bill Perkins tackles the common fear of running out of money by encouraging a calculated approach to spending and life planning. He suggests methods for estimating your lifespan and adjusting your financial plan accordingly, ensuring you use your assets effectively without the risk of exhausting them prematurely. Perkins advocates for a balance between cautious saving and excessive frugality.
+  - Bill Perkins tackles the fear of running out of money by encouraging a calculated approach to spending and life planning. He suggests methods for estimating your lifespan and adjusting your financial plan accordingly, ensuring you use your assets effectively without the risk of exhausting them prematurely. Perkins advocates for a balance between cautious saving and excessive frugality.
 
-- **What practical strategies does "Die with Zero" offer for achieving financial fulfillment?**
+- **What practical strategies does "Die with Zero" offer to achieve financial fulfillment?**
   - "Die with Zero" provides practical strategies such as mapping out your life’s financial phases to align with your energy levels and capabilities. Bill Perkins emphasizes the idea of creating a "memory dividend" by investing in experiences throughout life. He also discusses the importance of understanding your peak earning years and advises on how to plan for financial expenditures that correlate with personal peak experiences.
 
 
