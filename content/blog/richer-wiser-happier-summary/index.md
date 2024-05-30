@@ -354,7 +354,7 @@ People are more afraid of running out of money than of wasting their lives, and 
 - "Do not borrow money to buy stocks." — Ruane
 - "You don’t act rationally when you’re investing borrowed money." — Ruane
 - "I firmly believe that nobody knows what the market will do… The important thing is to find an attractive idea and invest in a company that’s cheap." — Ruane
-- "I try to learn as much as I can about seven or eight good ideas. If you really find something very cheap, why not put fifteen percent of your money in it?" — Ruane
+- "I try to learn as much as I can about seven or eight good ideas. If you really find something very cheap, why not put fifteen percent of your money into it?" — Ruane
 - "I don’t know anybody who can really do a good job investing in a lot of stocks except Peter Lynch." — Ruane
 - "Most people would be much better off with an index fund." — Ruane
 
