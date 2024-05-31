@@ -360,14 +360,14 @@ People are more afraid of running out of money than of wasting their lives, and 
 
 # Mohnish Pabrai
 
-- Biggest lesson from his parents: not seeing them get rattled after losing money multiple times. His father was an optimist, always founding new businesses that eventually went bankrupt. Losing didn’t distract his father from trying again.
-- Cloning: Pabrai studied the best investors, figured out why they were successful then cloned (copied) their approach (studying is a huge part to make sure he clones the right things). He did for more than just investing strategies.
+The biggest lesson from his parents is not seeing them get rattled after losing money multiple times. His father was an optimist, always founding new businesses that eventually went bankrupt. Losing didn’t distract his father from trying again.
+Cloning: Pabrai studied the best investors, figured out why they were successful, and then cloned (copied) their approach (studying is a huge part of making sure he clones the right things). He did this for more than just investing strategies.
 - He gets investment ideas by searching through 13F’s of the top investors, looks at the top holdings, studies the stocks, and tries to figure out why it’s a top holding.
 - Pabrai cloned Buffett’s 3 core concepts:
   - Buying a stock means buying a piece of a business with a value, not a piece of paper.
-  - That value of the businesses is not always reflected in stock prices (Graham’s voting vs. weighing machine). The key is to stay disconnected from the market’s craziness and patiently wait for mispriced opportunities.
+  - That the value of the businesses is not always reflected in stock prices (Graham’s voting vs. weighing machine). The key is to stay disconnected from the market’s craziness and patiently wait for mispriced opportunities.
   - Buy stocks only when it’s selling at a discount to that value.
-- Pabrai theorizes that Buffett’s online bridge playing acts as a positive mental distraction that keeps him from trading Berkshire’s portfolio. We all have a bias towards action that can use distracting.
+- Pabrai theorizes that Buffett’s online bridge playing acts as a positive mental distraction that keeps him from trading Berkshire’s portfolio. We all have a bias towards action that can be distracting.
 - On Buffett’s stock analysis: "What he’s looking for is a reason to say no, and as soon as he finds that, he’s done." — Pabrai
 - Pabrai’s Stock Filters (cloned from Buffett):
   - Circle of Competence: Only invest in companies you truly understand.
@@ -378,7 +378,7 @@ People are more afraid of running out of money than of wasting their lives, and 
 - He avoids startups and IPOs. The added hype makes it less likely to find bargains.
 - He avoids short selling because the upside is only 100% but the downside is unlimited.
 - He ignores macroeconomics. It’s too complex.
-- He avoids meeting the management of companies he owns. Avoids being biased by sales speak and unreliable information.
+He avoids meeting the management of the companies he owns and avoids being biased by sales speak and unreliable information.
 - Inner Scorecard: live by the standards you set for yourself and stop worrying about what others might think of you.
 - The key isn’t to get rich, it’s financial independence — to do what you want to do without money constraints.
 
