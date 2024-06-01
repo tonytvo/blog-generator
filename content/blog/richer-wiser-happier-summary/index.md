@@ -392,7 +392,7 @@ He avoids meeting the management of the companies he owns and avoids being biase
   - Beware Ignorance: Buy what you understand and never stop learning.
   - Diversify Broadly: "Don’t put all your money with any one expert. Don’t put all your money in any one industry or any one nation. Nobody is that smart. So the wise thing is to diversify." — Templeton
   - Be Patient: The edge is in waiting. Too many investors are too impatient to wait for opportunities and too impatient to wait for results to play out.
-  - Find Bargains: "…study whichever assets have performed most dismally in the past five years, then to assess whether the cause of those woes is temporary or permanent."
+  - Find Bargains: "…study whichever assets have performed most dismally in the past five years, then assess whether the cause of those woes is temporary or permanent."
   - Avoid Fads: "The best way for an investor to avoid popular delusions is to focus not on outlook but on value." — Templeton
 - Templeton shorted 84 internet stocks, selling at triple its IPO price during the Dotcom Bubble on the theory that insiders would dump their shares after the lockup period ended. He bet $2.2 million on each stock ($185 million total) and made $90 million when the bubble burst. His strategy was to place short bets 7 days before the lockup expiration and cover the bets 10 days after expiration. He also had a rule in place to cover if the stocks rose a certain amount (to protect from excessive losses).
 - The best way to find bargains is to study whichever assets have performed very badly in the past five years. Once you identify these assets, then you need to assess whether the cause of those woes is temporary or permanent.
