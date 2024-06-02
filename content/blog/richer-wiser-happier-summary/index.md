@@ -392,7 +392,7 @@ He avoids meeting the management of the companies he owns and avoids being biase
   - Beware Ignorance: Buy what you understand and never stop learning.
   - Diversify Broadly: "Don’t put all your money with any one expert. Don’t put all your money in any one industry or any one nation. Nobody is that smart. So the wise thing is to diversify." — Templeton
   - Be Patient: The edge is in waiting. Too many investors are too impatient to wait for opportunities and too impatient to wait for results to play out.
-  - Find Bargains: "…study whichever assets have performed most dismally in the past five years, then assess whether the cause of those woes is temporary or permanent."
+  - Find Bargains: "...study whichever assets have performed most dismally in the past five years, then assess whether the cause of those woes is temporary or permanent."
   - Avoid Fads: "The best way for an investor to avoid popular delusions is to focus not on outlook but on value." — Templeton
 - Templeton shorted 84 internet stocks, selling at triple its IPO price during the Dotcom Bubble on the theory that insiders would dump their shares after the lockup period ended. He bet $2.2 million on each stock ($185 million total) and made $90 million when the bubble burst. His strategy was to place short bets 7 days before the lockup expiration and cover the bets 10 days after expiration. He also had a rule in place to cover if the stocks rose a certain amount (to protect from excessive losses).
 - The best way to find bargains is to study whichever assets have performed very badly in the past five years. Once you identify these assets, then you need to assess whether the cause of those woes is temporary or permanent.
@@ -403,7 +403,7 @@ He avoids meeting the management of the companies he owns and avoids being biase
 
 - Stay Humble: Marks reminds himself of the role luck has played in his life. He keeps a list of the lucky breaks he’s had to help him stay humble.
 - Find Inefficiencies: "The more a market is studied and followed and embraced and popularized, the less there should be bargains around for the asking." — Marks
-- Buy Cheap: "the essential question to ask about any potential investment should be ‘Is it cheap?'"
+- Buy Cheap: "The essential question to ask about any potential investment should be ‘Is it cheap?'"
 - Markets are Cyclical: markets, the economy, etc. follow a pattern of cycles. Yet investors tend to expect the current trend to continue in a straight line. They fail to see the trend reverting.
 - He avoids forecasters (they can’t predict the future), market timing, and fads (rarely cheap).
 - Always ask: How much optimism is priced in?
@@ -412,7 +412,7 @@ He avoids meeting the management of the companies he owns and avoids being biase
 - "I always look at things in terms of ‘Where’s the mistake? Is the mistake in buying or not buying?’ " — Marks
 - "Both in markets and life, the goal isn’t to embrace risk or eschew it, but to bear it intelligently while never forgetting the possibility of an unpleasant outcome."
 - "Our performance doesn’t come from what we buy or sell. It comes from what we hold. So the main activity is holding, not buying and selling. I’ve always wondered if it wouldn’t enhance an organization to say, ‘We only trade on Thursdays.’ And the other four days of the week, all you can do is sit and think." — Marks
-- "If your thinking is heavily colored by wishful thinking, then your probability assignments will be biased toward favorable… If you’re given to fear, then you’ll be biased toward the negative… No one is going to say, ‘This is my prediction and it’s probably wrong.’ But you must say, ‘This is my expectation and I have to be aware of the likelihood that it’s colored by my emotional bias.’ And you have to resist it. For me, that means not to chicken out when the going gets tough." — Marks
+- "If your thinking is heavily coloured by wishful thinking, then your probability assignments will be biased toward favourable… If you’re given to fear, then you’ll be biased toward the negative… No one is going to say, ‘This is my prediction and it’s probably wrong.’ But you must say, ‘This is my expectation, and I have to be aware of the likelihood that it’s coloured by my emotional bias.’ And you have to resist it. For me, that means not to chicken out when the going gets tough." — Marks
 - Markets move in cycles and thus, cycles will always reverse. By studying patterns of the past, you can take advantage of the cyclicality by behaving countercyclically.
 - Marks never thinks of the future as a single predetermined scenario that’s bound to occur. He views it instead as a “distribution of different possibilities.” His standard approach is to assign probabilities to each of these “alternative futures.” But in this case, the uncertainty was so extreme that there was no point even trying to assign probabilities for the array of possible outcomes. He found it more helpful to simplify his decision-making by thinking of the situation in binary terms: “I think you can reduce it to, either the world ends or it doesn’t.… And if it doesn’t end and we didn’t buy, then we didn’t do our job. That made it awfully straightforward.”
 
