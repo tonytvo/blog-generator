@@ -416,11 +416,11 @@ He avoids meeting the management of the companies he owns and avoids being biase
 - Markets move in cycles and thus, cycles will always reverse. By studying patterns of the past, you can take advantage of the cyclicality by behaving countercyclically.
 - Marks never thinks of the future as a single predetermined scenario that’s bound to occur. He views it instead as a “distribution of different possibilities.” His standard approach is to assign probabilities to each of these “alternative futures.” But in this case, the uncertainty was so extreme that there was no point even trying to assign probabilities for the array of possible outcomes. He found it more helpful to simplify his decision-making by thinking of the situation in binary terms: “I think you can reduce it to, either the world ends or it doesn’t.… And if it doesn’t end and we didn’t buy, then we didn’t do our job. That made it awfully straightforward.”
 
-# Five Rules of resilience
+# Five Rules of Resilience
 
 - First, you need to respect uncertainty.
 - Second, to achieve resilience, it's imperative to reduce or eliminate debt, avoid leverage, and beware of excessive expenses.
-- Third, instead of fixating on short-term gains or beating benchmarks, you should place greater emphasis on becoming shock resistant, avoiding ruin, and staying in the game.
+- Third, instead of fixating on short-term gains or beating benchmarks, you should place greater emphasis on becoming shock-resistant, avoiding ruin, and staying in the game.
 - Fourth, beware of overconfidence and complacency.
 - Fifth, as informed realists, you should be keenly aware of your exposure to risk and should always require a margin of safety.
 
