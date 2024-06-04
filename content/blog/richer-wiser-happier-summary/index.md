@@ -434,7 +434,7 @@ He avoids meeting the management of the companies he owns and avoids being biase
 - McLennan follows a similar strategy — looks for at least a 30% margin of safety and owns over 100 stocks in the funds.
 - "Our goal is not to try to become rich quickly. It’s resilient wealth creation." — McLennan
 - The goal directs every investment decision.
-- On Risk: just because something has never happened, doesn’t mean it can’t happen. We must be prepared for the possibility.
+On Risk: Just because something has never happened doesn’t mean it can’t happen. We must be prepared for the possibility.
 - "We just want to acknowledge that there are things that may not play out so well in the future. You want to be structured to participate in the march of mankind, but to survive the dips along the way." — McLennan
 - "I happen to believe that everything is on a path to fade. If you think of evolution, ninety-nine percent of species that have ever existed are extinct. And businesses are no exception." — McLennan
 - "Businesses that were robust today won’t be robust in the future. Uncertainty is intrinsic to the system. It’s entropy — the second law of thermodynamics. Basically, things tend toward disorder over time, and it takes a lot of energy to keep structure and quality in place. So, philosophically, we have great respect for the fact that things are not structurally permanent in nature, that things fade." — McLennan
