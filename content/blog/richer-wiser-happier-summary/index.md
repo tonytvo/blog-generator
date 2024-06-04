@@ -451,27 +451,27 @@ On Risk: Just because something has never happened doesn’t mean it can’t hap
 
 - Greenblatt started on Wall Street with a summer job at Bear Stearns. He made riskless arbitrage trades via options.
 - Founded Gotham Capital with $7 million in assets. Averaged 50% per year over the first 10 years and averaged 40% annually over the first 20 years.
-- Roughly 80% of the fund was in 6 to 8 positions. Many were spinoffs, restructures, companies emerging from bankruptcy, illiquid small caps.
+- Roughly 80% of the fund was in 6 to 8 positions. Many were spinoffs, restructures, companies emerging from bankruptcy, and illiquid small caps.
 - He purposely kept the fund small (all investor money was returned after 10 years).
-- He looked for hidden value that nobody wanted.
-- Investing has a complexity problem. It avoids simplicity. Be it in the number of investment options to choose from, the strategies available, MPT’s formulas and ratios, or behavior, people gravitate toward the complex over the simple.
+- He looked for the hidden value that nobody wanted.
+Investing has a complexity problem. It avoids simplicity. Whether it's the number of investment options to choose from, the strategies available, MPT’s formulas and ratios, or behaviour, people gravitate toward the complex over the simple.
 - "Why is it so valuable to reduce investing to a few core principles? For a start, it forces us to think through what we truly believe."
 - "I have a simple way of looking at things that makes sense to me and that I’m going to stick with through thick and thin. That’s it." — Greenblatt
-- Investing (and life) should be a process of subtraction and simplification. Removing what’s unimportant and unnecessary to focus on the key principles.
+- Investing (and life) should be a process of subtraction and simplification. Removing what’s unimportant and unnecessary means focusing on the key principles.
 - On Noise: "The way I look at it is, if I own a chain store in the Midwest, am I all of a sudden going to sell it for half of what it’s worth because something bad happened in Greece? I don’t think so! But that’s what you read in the newspaper, and that’s what everyone is looking at. If you have a context to say, ‘Well, does it matter or doesn’t it matter?’—it’s just very helpful." — Greenblatt
-- "People are crazy and emotional. They buy and sell things in an emotional way, not in a logical way, and that’s the only reason why we have any opportunity.… So if you have a way to value businesses that’s disciplined and makes sense, you should be able to take advantage of other people’s emotions." — Greenblatt
+- "People are crazy and emotional. They buy and sell things in an emotional way, not in a logical way, and that’s the only reason why we have any opportunity.… So if you have a way to value businesses that are disciplined and make sense, you should be able to take advantage of other people’s emotions." — Greenblatt
 - 4 Valuation Techniques:
-  - Discounted Cash Flow: take the present value of estimated future earnings and compare to the company’s market cap.
+  Discounted Cash Flow: Calculate the present value of estimated future earnings and compare it to the company’s market cap.
   - Relative Value: compare a company’s valuation to similar businesses.
   - Acquisition Value: an estimate of what another company might pay for it.
-  - Liquidation Value: estimated worth if company is closed, assets are sold, debts are paid, and what’s left is distributed to shareholders.
+  - Liquidation Value: estimated worth if the company is closed, assets are sold, debts are paid, and what’s left is distributed to shareholders.
 - "I like calculating the odds. Consciously or unconsciously, I’m calculating the odds on every investment. What’s the upside? What’s the downside?… I don’t think you can be a good investor without thinking in that way." — Greenblatt
 - "It’s easier to find bargains off the beaten path or in extraordinary situations that other people aren’t looking at." — Greenblatt
-- "You size your positions based on how much risk you’re taking. I don’t buy more of the ones -   I can make the most money on. I buy more of the ones that I can’t lose money on." — Greenblatt
+- "You size your positions based on how much risk you’re taking. I don’t buy more of the ones -   I can make the most money on them. I buy more of the ones that I can’t lose money on." — Greenblatt
 - "Pretty much everything we ever owned, we sold way too early. If you’re very cheap in buying, it’s hard to be as comfortable when something has doubled or tripled, even if it’s still good." — Greenblatt
 - "One of the beauties of the pain that people have to take in underperformance is that, if it did not exist, everyone would do what we do." — Greenblatt
 - The best strategy is the one you can stick to in good and bad times.
-- So if you have a way to value businesses that’s disciplined and makes sense, you should be able to take advantage of other people’s emotions.
+- So, if you have a way to value businesses that are disciplined and make sense, you should be able to take advantage of other people’s emotions.
 
 # Will Danoff
 
