@@ -456,7 +456,7 @@ On Risk: Just because something has never happened doesn’t mean it can’t hap
 - He looked for the hidden value that nobody wanted.
 Investing has a complexity problem. It avoids simplicity. Whether it's the number of investment options to choose from, the strategies available, MPT’s formulas and ratios, or behaviour, people gravitate toward the complex over the simple.
 - "Why is it so valuable to reduce investing to a few core principles? For a start, it forces us to think through what we truly believe."
-- "I have a simple way of looking at things that makes sense to me and that I’m going to stick with through thick and thin. That’s it." — Greenblatt
+- "I have a simple way of looking at things that makes sense to me and that I will stick with through thick and thin. That’s it." — Greenblatt
 - Investing (and life) should be a process of subtraction and simplification. Removing what’s unimportant and unnecessary means focusing on the key principles.
 - On Noise: "The way I look at it is, if I own a chain store in the Midwest, am I all of a sudden going to sell it for half of what it’s worth because something bad happened in Greece? I don’t think so! But that’s what you read in the newspaper, and that’s what everyone is looking at. If you have a context to say, ‘Well, does it matter or doesn’t it matter?’—it’s just very helpful." — Greenblatt
 - "People are crazy and emotional. They buy and sell things in an emotional way, not in a logical way, and that’s the only reason why we have any opportunity.… So if you have a way to value businesses that are disciplined and make sense, you should be able to take advantage of other people’s emotions." — Greenblatt
