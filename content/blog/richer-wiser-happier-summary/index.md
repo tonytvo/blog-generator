@@ -477,7 +477,7 @@ Investing has a complexity problem. It avoids simplicity. Whether it's the numbe
 
 - Managed Fidelity Contrafund since 1990.
 - His investment philosophy: "Stocks follow earnings." — Danoff
-- He looks for companies that can grow earnings at a high rate over 5 years because stock price will follow it.
+- He looks for companies that can grow earnings at a high rate over 5 years because stock prices will follow it.
 - "Do you want to win the game for shareholders and own great companies? Sometimes, to own a great company, you’ve got to pay a fair price." — Danoff
 
 # Bill Miller
