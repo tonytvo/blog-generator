@@ -494,10 +494,10 @@ Investing has a complexity problem. It avoids simplicity. Whether it's the numbe
 
 - Started Nomad Investment Partnership in 2001 and retired in 2014. They charged a tiny flat fee to cover expenses, then 20% of the funds profits over a 6% return hurdle.
 - Both worked at Marathon Asset Management prior to starting the firm.
-- They started in "cigar butts" but quickly graduated to a concentrated portfolio of high-quality companies held for years (average holding period was about 7 years).
+- They started in "cigar butts" but quickly graduated to a concentrated portfolio of high-quality companies held for years (the average holding period was about 7 years).
 - No shorting, no leverage, no active trading.
 - Information has a "shelf life." Most of it expires in a few days, weeks, or months. They looked for information with a long shelf life.
-- They purposely detached themselves from day-to-day market action. Even placed their Bloomberg terminal in the most uncomfortable location, a short corner table without a chair, to limit its use.
+They purposely detached themselves from day-to-day market action. To limit its use, they even placed their Bloomberg terminal in the most uncomfortable location: a short corner table without a chair.
  - "We just read annual reports until we were blue in the face and visited every company possible until we were sick of it." — Sleep
 - Questions:
   - Where will the company be in 10 or 20 years?
@@ -505,7 +505,7 @@ Investing has a complexity problem. It avoids simplicity. Whether it's the numbe
   - What might stop that from happening?
   - Is the company improving customer relations with "superior products, low prices, and efficient service?"
   - Does management make sound capital allocation decisions to improve shareholder value?
-  - Does the company mistreat employees, suppliers, customers?
+  - Does the company mistreat employees, suppliers, and customers?
   - Does the company do anything that could hurt its reputation?
 - On Benefits of Quality Management: "If they’re thinking rationally and thinking about the long term, you can subcontract the capital allocation decisions to them. You don’t have to be buying and selling shares." — Sleep
 - Scale Economies Shared Model:
