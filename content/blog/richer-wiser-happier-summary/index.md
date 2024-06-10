@@ -497,7 +497,7 @@ Investing has a complexity problem. It avoids simplicity. Whether it's the numbe
 - They started in "cigar butts" but quickly graduated to a concentrated portfolio of high-quality companies held for years (the average holding period was about 7 years).
 - No shorting, no leverage, no active trading.
 - Information has a "shelf life." Most of it expires in a few days, weeks, or months. They looked for information with a long shelf life.
-They purposely detached themselves from day-to-day market action. To limit its use, they even placed their Bloomberg terminal in the most uncomfortable location: a short corner table without a chair.
+- They purposely detached themselves from day-to-day market action. To limit its use, they even placed their Bloomberg terminal in the most uncomfortable location: a short corner table without a chair.
  - "We just read annual reports until we were blue in the face and visited every company possible until we were sick of it." — Sleep
 - Questions:
   - Where will the company be in 10 or 20 years?
