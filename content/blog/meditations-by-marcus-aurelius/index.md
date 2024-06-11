@@ -1,5 +1,5 @@
 ---
-title: meditations by Marcus Aurelius summary - wip
+title: meditations by Marcus Aurelius summary
 date: "2024-05-19T22:12:03.284Z"
 description: "meditations by Marcus Aurelius summary"
 tags: ["self-improvement"]
@@ -44,6 +44,9 @@ tags: ["self-improvement"]
     - Keep a journal: Just as Marcus Aurelius recorded his thoughts in the Meditations, consider keeping a journal to capture your own reflections. This practice not only helps to crystallize our ideas but also serves as a tangible reminder of our personal development over time.
     - Engage in mindful meditation: Mindfulness meditation can be a powerful catalyst for self-reflection, as it encourages us to observe our thoughts and emotions without judgment. By cultivating a heightened sense of self-awareness, we become better equipped to navigate the inner landscape of our minds.
     - Seek solitude: In our hyperconnected world, it can be difficult to find moments of quiet and solitude. However, it is in these moments of stillness that we can truly engage with our inner selves. Carve out time for solitude, whether it be through a walk in nature, a quiet corner at home, or even a brief respite during the workday.
+  - “At some point you have to recognize what world it is that you belong to; what power rules it and from what source you spring; that there is a limit to the time assigned you, and if you don’t use it to free yourself it will be gone and will never return.”
+  - “Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions. Yes, you can—if you do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable.”
+  - “People who labor all their lives but have no purpose to direct every thought and impulse toward are wasting their time—even when hard at work.”
 
 # EMBRACING THE DICHOTOMY OF CONTROL
 
@@ -51,6 +54,7 @@ tags: ["self-improvement"]
   - In his Meditations, Marcus Aurelius repeatedly emphasizes the importance of recognizing the limits of our control. He teaches us that while we cannot dictate the external circumstances of our lives, we possess the power to shape our inner responses to those circumstances.
   - Through learning to focus our energy on what we can control – our thoughts, emotions, and actions – we liberate ourselves from the shackles of worry and anxiety that so often accompany our futile attempts to control the uncontrollable.
   - This dichotomy of control serves as a cornerstone of Stoic philosophy, guiding us towards a life of greater tranquility and self-mastery.
+  - 'Those who understand others are intelligent. / Those who understand themselves are enlightened.'
 
 - **PRACTICAL APPLICATIONS OF THE DICHOTOMY OF CONTROL IN MODERN LIFE**
   - Marcus Aurelius and his teachings give us a practice we can use to transform our approach to the challenges we face, nurturing a sense of empowerment and serenity. Here are a few practical applications of the dichotomy of control to consider:
@@ -65,6 +69,7 @@ tags: ["self-improvement"]
   - Even if there seemingly isn’t a positive thing to be found in something that just happened – say, decease of a relative. Stoics don’t focus on such matters. On events that cannot be undone. They center their attention on their opinion.
   - “If your opinions cause you distress, change your opinions,” is mentioned a lot in the book.
   - If something bad occurs, find the positive side to tune your mind. That’s the only way you can keep going and keep your sanity.
+  - Pride goes before fall, thus 'If one wishes to shrink it / one must first expand it.' Likewise, you reap what you sow in life: 'If one wishes to seize it / one must first give it'.
 
 - **You Have Three Responsibilities In LIfe**
   - While we push hard to gain more friends and more followers online, we often forget to nurture the relationships that truly matter in life. And I’m not talking about our real friends and family members (though these too matter), I’m talking about the relationship we have with our body, the universe in general, and with other human beings as a whole.
@@ -77,6 +82,10 @@ tags: ["self-improvement"]
       - Generosity to others: Part of your stay here is to help others thrive. Aid them in their journey but expect nothing in return. The act of help is its own reward.
 
 - “I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures. Simple in actions and in thoughts, you return to the source of being. Patient with both friends and enemies, you accord with the way things are. Compassionate toward yourself, you reconcile all beings in the world.”
+
+- Three treasures of the Tao: compassion, frugality, not daring to think yourself ahead in the world. Each in their turn give access to true courage, the ability to reach far and wide and the ability to be a true leader.
+
+- Judo and Aikido are based on the words in this chapter. 'I dare not advance an inch, but prefer to withdraw a foot.'
 
 # CULTIVATING INNER RESILIENCE AND ADAPTABILITY
 
@@ -105,6 +114,10 @@ tags: ["self-improvement"]
   - “But first, you have to practice stillness. Stillness is the first requirement of manifesting your desires, because in stillness lies your connection to the field of pure potentiality that can orchestrate an infinity of details for you.”
   - So... How’s your stillness workin’ for you? You hate it or embrace it? Can you turn off the TV or the talk radio or the Internet (+ the cell phone and iPod and ...) and immerse yourself in some
 sacred silence today? (and tomorrow and... :)
+  - “Most of what we say and do is not essential. If you can eliminate it, you’ll have more time, and more tranquillity. Ask yourself at every moment, ‘Is this necessary?’”
+  - “Pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.”
+  - “Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.”
+
 
 # THE PURSUIT OF WISDOM AND VIRTUE
 
@@ -128,11 +141,17 @@ sacred silence today? (and tomorrow and... :)
   - **Manage your opinion:** Along the way, distressful things will occur. If you act as you’re the victim, you won’t do much to make progress. You’ll feel pain but won’t do anything to change it. In this case, your thoughts are causing you pain. Fortunately, you can easily correct this. How? By changing your opinion. By re-framing the events happening in your head. The moment you switch from “I”m the victim” to “I can do something about this,” the sooner you’ll feel better.
   - **Focus on improving yourself:** The only thing you can control in life is yourself – your own body and mind. There’s no point in trying to convince others of your rightfulness. So, essentially, your main duty should be to get better at what you do. Get better in your work and as a person. That’s the best way you can spend your time.
   - **Become independent:** The more you rely on other people and on tools to do your work, the more dependent you’ll become. Swordsman in the past were easy prey when they lost their swords. Wrestlers, on the other hand, are people who count only on their fists to beat the opponent. Aspire to become a wrestler – an independent person who relies only on his own capabilities.
+  - the only true expression of the Tao is that which is lived, not that which is written about or discussed.
+  - 'The highest rulers, people do not know they have them'. When in a leadership position, there are some means of leadership that are better than others. The best is for the people to believe they did it all themselves, the worst is to fear who leads them. Act quietly and subtly to the benefit of those you lead.
+  - **There are great pitfalls to knowledge. Too much of it, or an obsession with gaining more of it, can hold us back and frustrate us at every turn. It is not enough to grow your knowledge and keep your nose stuck in your books, you have to live your life and get wise that way also.**
+  - “For every action, ask: How does it affect me? Could I change my mind about it?”
 
 - **MONEY AND HAPPINESS**
   - “Fame or integrity: which is more important? Money or happiness: which is more valuable? Success or failure: which is more destructive? If you look to others for fulfillment, you will never truly be fulfilled. If your happiness depends on money, you will never be happy with yourself. Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.”
   - The How of Happiness (see Notes), Sonja Lyubomirsky tells us that while 50% of our happiness levels are influenced by our genetics and 40% are under our direct control (via thoughts and behaviors), only 10% is attributed to stuff like money, cars, houses, etc.
   - “What makes up this 40 percent? Besides our genes and the situations that we confront, there is one critical thing left: our behavior. Thus the key to happiness lies not in changing our genetic makeup (which is impossible) and not in changing our circumstances (i.e., seeking wealth or attractiveness or better colleagues, which is usually impractical), but in our daily intentional activities. With this in mind, our pie chart illustrates the potential of the 40 percent that is within our ability to control, the 40 percent for room to maneuver, for opportunities to increase or decrease our happiness levels through what we do in our daily lives and how we think.”
+  - A focus on material wealth will fill the heart with anguish and desire to be more, to want more. Do not show wealth to others, or even yourself.
+  - 'The sages care for the stomach and not the eyes'; constantly striving for greater distraction and speed and wealth can leave us senseless and overloaded. Instead, take care of the simple things in life.
 
 - **THE MASTER HOLDS NOTHING BACK**
   - “The Master gives himself up to whatever the moment brings. He knows that he is going to die, and he has nothing left to hold on to: no illusions in his mind, no resistances in his body. He doesn’t think about his actions; they flow from the core of his being. He holds nothing back from life; therefore he is ready for death, as a man is ready for sleep after a good day’s work.”
@@ -146,12 +165,15 @@ sacred silence today? (and tomorrow and... :)
 some of our most challenging experiences, we admit that we wouldn’t trade what we gained from them for remaining the same as we were. Something within acknowledges that during those times when we are pressed against the ropes of life, we learn to become more generous, to forgive, to never give up on ourselves or others. We learn to regenerate, to rejuvenate, to surrender.”
   - The idea that we “project our shadow” on others and are triggered by our own disowned attributes showing up in others is a huge idea.
   - “Difficult and unpleasant as it may be to accept, we often feel most hostile to those who remind us of aspects of ourselves that we prefer not to see. ‘Ask someone to give a description of the personality type which he finds most despicable, most unbearable and hateful, and most impossible to get along with,’ writes Edward Whitmont, ‘and he will produce a description of his own repressed characteristics.... These very qualities are so unacceptable to him precisely because they represent his own repressed side; only that which we cannot accept within ourselves do we find impossible to live with in others.’ Think for a moment of someone you actively dislike. What quality in that person do you find most objectionable? Now ask yourself, ‘How am I that?’”
+  - “Never regard something as doing you good if it makes you betray a trust, or lose your sense of shame, or makes you show hatred, suspicion, ill will, or hypocrisy, or a desire for things best done behind closed doors.”
+
 
 - **COMPETE? NAH, LET’S PLAYFULLY CREATE!**
   - “The best athlete wants his opponent at his best. The best general enters the mind of his enemy.
   - The best businessman serves the communal good. The best leader follows the will of the people. All of them embody the virtue of non-competition. Not that they don’t love to compete, but they do it in the spirit of play. In this they are like children and in harmony with the Tao.”
   - “You are to become a creator, not a competitor; you are going to get what you want, but in such a way that when you get it every other man will have more than he has now.”
   - How ‘bout you? Are you finding yourself overly concerned with striving *against* peeps? Can you focus more on being a creator fully expressing yourself and giving your gifts to the world in the spirit of play?
+  - Force and violence beget more of the same. If it must be used, never further than is absolutely necessary. Ideally not at all, ideally never. Instead work with courtesy and calm, consensus and teamwork.
 
 # NURTURING COMPASSION AND EMPATHY
 
@@ -159,6 +181,7 @@ some of our most challenging experiences, we admit that we wouldn’t trade what
   - Throughout the Meditations, Marcus Aurelius demonstrates a capacity for compassion and empathy, emphasizing their importance in fostering a sense of connectedness and understanding with others.
   - He encourages us to see beyond our own perspectives and to recognize the shared humanity that unites us all, urging us to embrace the role of “citizens of the world” and to act in the best interests of the collective.
   - He reminds us that we are all on this journey of life together and that by extending our compassion and empathy to others, we contribute to the greater good and enrich our own lives in the process.
+  - Comparison, approval, fear of disgrace... all bad habits that centre around the ego. If we let go of them and learn to love ourselves in equal measure with how we love the world then we are more likely to make our way more peacefully through life.
 
 - **STRATEGIES FOR ENHANCING OUR CONNECTIONS WITH OTHERS**
   - The following strategies can help you nurture compassion and empathy in your daily life, enhancing your connections with others:
@@ -191,112 +214,22 @@ some of our most challenging experiences, we admit that we wouldn’t trade what
     - Well, firstly, it will lower your bar. You’ll stop expecting wonders from others. Secondly, it will help you stay calm when you face self-absorbed characters.
   - As a person who’s guided by reason, you should know that there are others who don’t know the stuff you do. People who don’t have ambitions, goals, and simply live to see how others fail. Such folks are ignorant of their ignorance.
   - Hence, your task in life when you’re interacting with such conflicting characters, is to remain calm. Don’t try so hard to reason them. Convey your message using words but don’t expect grand results. And above all, don’t take it personally when they speak of you.
+  - Troubles and pain are caused by a discrepancy between wanting things to be a certain way and accepting them as they are. 'Knowing constancy' and the true nature of how the world works is to know yourself and to know/understand the responsibility you have to guide your life with these things in mind.
+
 
 - **All You Have Is The Present Moment**
   - Imagine what it was to live 2000 years ago – no fresh water, zero security, lack of food, continuous wars. People were surely daydreaming, hoping, for something good to happen. After all, how would anyone prevail the daily challenges if there wasn’t some sort of promise for a better future?
   - Yet, apart from instilling hope, hoping for a better future gives you a false sense of joy and accomplishment. What you really have is now, this present moment. Nothing else.
   - That’s what Marcus Aurelius persistently noted in his journal. He realized that moaning about the past and imagining a future where things are different, better, is just a waste of time. What we really have is the present moment. We neither hold yesterday nor have access to tomorrow. We have only now.
   - If you fail to harness the present moment and make your daily deeds worthy, it’s irrelevant of how many years you’ve stayed on this planet. Even if you live for thousands of years, you wasted all of them if you spend your time daydreaming or doing petty tasks.
+  - “You cannot lose another life than the one you’re living now, or live another one than the one you’re losing.”
 
+- **ALL THINGS CHANGE**
+  - “If you realize that all things change, there is nothing you will try to hold on to.”
+  - “No man ever steps in the same river twice, for it’s not the same river and he’s not the same man.”
+  - “The origin of the word change is the Old English cambium, which means “to become.”
+  - Be like water. The nature of water is to flow into the lowest place and find its level. Being like this we respond in truth, we act with kindness to all, we move and change with the world as it changes around us without fighting it.
 
-
-
-“A great nation is like a great man: When he makes a mistake, he realizes it. Having realized it, he admits it. Having admitted it, he corrects it. He considers those who point out his faults as his most benevolent teachers. He thinks of his enemy as the shadow that he himself casts.”
-
-“Prevent trouble before it arises. Put things in order before they exist. The giant pine tree grows from a tiny sprout. The journey of a thousand miles starts from beneath your feet.”
-  - So... What’s your next step? All you EVER have to worry about is the next step. And the next and the ...
-
-“The best athlete wants his opponent at his best. The best general enters the mind of his enemy. The best businessman serves the communal good. The best leader follows the will of the people. All of them embody the virtue of non-competition. Not that they don’t love to compete, but they do it in the spirit of play. In this they are like children and in harmony with the Tao.”
-
-“You are to become a creator, not a competitor; you are going to get what you want, but in such a way that when you get it every other man will have more than he has now.”
-
-“If you realize that all things change, there is nothing you will try to hold on to.”
-
-“Trying to control the future is like trying to take the master carpenter’s place. When you handle the master carpenter’s tools, chances are that you’ll cut yourself.”
-
-the only true expression of the Tao is that which is lived, not that which is written about or discussed.
-
-2 - We live in a relative world, there is no thing that is absolute. High reveals low, short shows us long.
-
-3 - A focus on material wealth (as revealed through the concept in 2) will fill the heart with anguish and desire to be more, to want more. Do not show wealth to others, or even yourself.
-
-4 - The Tao is directly imperceptible, infinite and outlasts all. Given enough time, our greatest achievements and wonders and knowledge will all disappear.
-
-'Too many words hasten failure / cannot compare to keeping quiet.'
-
-5 - The quietness of simplicity wins over the unnecessary and burdensome noise and busyness of bureaucracy. 'When utilized, it is never exhausted.'
-
-6 - Life creates life and thus extends infinitely into the future.
-
-7 - Placing yourself last and ending up in front: the paradox of selflessness. If you prioritise yourself and your gains you may win something, but lose much.
-
-8 - Be like water. The nature of water is to flow into the lowest place and find its level. Being like this we respond in truth, we act with kindness to all, we move and change with the world as it changes around us without fighting it.
-
-9 - There is nothing good about an overflowing cup. With achievement and success it is best to discretely step aside, otherwise your hubris will invite problems into your life.
-
-11 - All that is useful does not always have substance. Emptiness, a lack of anything, is important. A doorway, a bottle, an arena - all are useful for the space and emptiness they create.
-
-12 - 'The sages care for the stomach and not the eyes'; constantly striving for greater distraction and speed and wealth can leave us senseless and overloaded. Instead, take care of the simple things in life.
-
-13 - Comparison, approval, fear of disgrace... all bad habits that centre around the ego. If we let go of them and learn to love ourselves in equal measure with how we love the world then we are more likely to make our way more peacefully through life.
-
-16 - Troubles and pain are caused by a discrepancy between wanting things to be a certain way and accepting them as they are. 'Knowing constancy' and the true nature of how the world works is to know yourself and to know/understand the responsibility you have to guide your life with these things in mind.
-
-17 - 'The highest rulers, people do not know they have them'. When in a leadership position, there are some means of leadership that are better than others. The best is for the people to believe they did it all themselves, the worst is to fear who leads them. Act quietly and subtly to the benefit of those you lead.
-
-19 - There are great pitfalls to knowledge. Too much of it, or an obsession with gaining more of it, can hold us back and frustrate us at every turn. It is not enough to grow your knowledge and keep your nose stuck in your books, you have to live your life and get wise that way also.
-
-22 - A position or a view or an argument does not gain strength or additional validity through defense. It merely is. To spend energy defending it is a great waste, instead yield and spend energy on something more constructive than fighting against another who holds a different view.
-
-23 - Sparse, infrequent speech is better than drawn out platitudes. In this respect, we have the agency to choose how we communicate and the mandate to determine our own thinking. Imposing discipline on our thoughts and actions, we can best determine how we move forward in life. We reap what we sow - if we think on loss, we find ourselves losing; if we think on gains, we find ourselves gaining also.
-
-26 - 'Heaviness is the root of lightness'. While a light approach to daily troubles and happenings is a wonderful thing, many of life's challenges should be approached with the required level of gravity. If we approach important things lightly, they will go wrong. We can only be light if we carried the heavy before. Heaviness is the root of lightness.
-
-29 - The world cannot be controlled. Those who would try, fail. Those who would grasp a thing, lose the thing. The wise instead cast off extremes, excesses and extravagances. They know the world for what it really is, a spiritual instrument.
-
-30 - Force and violence beget more of the same. If it must be used, never further than is absolutely necessary. Ideally not at all, ideally never. Instead work with courtesy and calm, consensus and teamwork.
-
-33 - 'Those who understand others are intelligent. / Those who understand themselves are enlightened.'
-
-36 - Pride goes before fall, thus 'If one wishes to shrink it / one must first expand it.' Likewise, you reap what you sow in life: 'If one wishes to seize it / one must first give it'.
-
-38 - Virtue is highest, followed by benevolence, followed by righteousness, followed by etiquette. There is high virtue, and there is low virtue: 'Low virtue takes contrived action / And acts without agenda'. This  reminds me of Matthew 6:2, 'So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by others. Truly I tell you, they have received their reward in full.' Those that proclaim their virtuous actions on social media would do well to heed this sort of advice.
-
-39 - 'Do not wish to be shiny like jade / Be dull like rocks.'
-
-44 - 'Excessive love must lead to great spending / Excessive hoarding must lead to heavy loss.' The way of the Tao is contentment and knowing when to stop, and how to let go.
-
-45 - Those that have truly mastered an art or technique do not look perfect or complete to the untrained eye. Their abilities mask the long periods of work at their craft or profession. It is much like knowing someone with 'all the gear and no idea' who does not understand why a professional, using basic equipment, gets far better results. 'Great skill seems unrefined / Great eloquence seems inarticulate.'
-
-46 - 'There is no greater calamity / Than not knowing what is enough.'
-
-53 - Many think there is a quick fix or solution that can shortcut our progress through life, but there is not. That way, says the Tao, leads to barren fields, empty warehouses and charlatans parading their wealth. But this is figuratively and literally bankrupt. Better to grow slowly and consistently through repeated right action than to think you can jump ahead of the queue.
-
-54 - Live the Tao by applying it to life and rooting it deeply. Don't just play with the ideas.
-
-55 - We are in a marathon, not a sprint. Take all in moderation. Lots to consider in this chapter.
-
-61 - Principles that work well on an interpersonal level work well on all other levels. Do not pretend that things change on different scales; it's all human interaction after all. Treat people well on your way up, because you will surely meet them on your way down.
-
-63 - 'Act without action / Manage without meddling'. 'The difficult tasks of the world / Must be handled through the small tasks'. Therefore, never attempt great deeds. Instead, repeatedly do small things very well.
-
-64 - A long journey starts directly under your feet (often mistranslated as 'a single step'.) Proceed at the end as you do at the beginning and your work won't be ruined.
-
-66 - Power and leadership require humility to be effective. 'Those who would be above / Must speak as if they are below / Those who would lead / Must speak as if they are behind.'
-
-67 - Three treasures of the Tao: compassion, frugality, not daring to think yourself ahead in the world. Each in their turn give access to true courage, the ability to reach far and wide and the ability to be a true leader.
-
-69 - Judo and Aikido are based on the words in this chapter. 'I dare not advance an inch, but prefer to withdraw a foot.'
-
-70 - 'The sage wears rough clothing, but carries jade inside.'
-
-72 - Know yourself as well as you can. Neither glorify yourself, nor bottle yourself up. These are extremes that we can push and push and push... but they will ultimately reverse on us and deal great damage within and without.
-
-75 - 'The people's hunger is due to the excess of their ruler's taxation so they starve', much the same with our own spiritual hunger if we tax ourselves too much and spend too much energy obsessed with material wealth.
-
-77 - The Tao of heaven increases the deficient and reduces the excessive. The Tao of people goes the opposite way: to those that have shall more be given, to those that have not shall it be taken away. The wise are those who know when they have enough and are capable of helping others and giving away what they have and not heaping praise onto those who have already achieved acclaim and riches.
-
-79 - Those who give in accordance with the Tao receive abundantly.
 
 # Quotes
 
