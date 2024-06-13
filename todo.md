@@ -1,13 +1,13 @@
 # next steps
+- https://tonytvo.github.io/study-group-patterns-summary/
+- https://tonytvo.github.io/system-performance-summary/
+- https://tonytvo.github.io/ddd-with-legacy-code/
+- https://tonytvo.github.io/learning-organization/
 - https://tonytvo.github.io/100m-leads-summary/
 - https://tonytvo.github.io/software-design-x-ray/
 - https://tonytvo.github.io/how-to-talk-so-kids-listen/
 - https://tonytvo.github.io/value-investing-summary/
-- https://tonytvo.github.io/learning-organization/
 - https://tonytvo.github.io/mental-models/
-- https://tonytvo.github.io/study-group-patterns-summary/
-- https://tonytvo.github.io/system-performance-summary/
-- https://tonytvo.github.io/ddd-with-legacy-code/
 
 
 # todo
