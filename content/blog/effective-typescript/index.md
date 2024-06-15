@@ -583,6 +583,115 @@ const el = body as Person;
 const el = document.body as unknown as Person; // OK
 ```
 
+# Avoid Object Wrapper Types (String, Number, Boolean, Symbol, BigInt)
+
+- Understand how object wrapper types are used to provide methods on primitive values. Avoid instantiating them or using them directly.
+- Avoid TypeScript object wrapper types. Use the primitive types instead: string instead of String, number instead of Number, boolean instead of Boolean, symbol instead of Symbol, and bigint instead of BigInt.
+
+
+```
+In addition to objects, JavaScript has seven types of primitive values: strings, numbers, booleans, null, undefined, symbol, and bigint. The first five have been around since the beginning. The symbol primitive was added in ES2015, and bigint is in the process of being finalized.
+Primitives are distinguished from objects by being immutable and not having methods. You might object that strings do have methods:
+> 'primitive'.charAt(3) "m"
+But things are not quite as they seem. There's actually something surprising and subtle going on here. While a string primitive does not have methods, JavaScript also defines a String object type that does. JavaScript freely converts between these types. When you access a method like charAt on a string primitive, JavaScript wraps it in a String object, calls the method, and then throws the object away.
+You can observe this if you monkey-patch String.prototype (Item 43):
+// Don't do this!
+const originalCharAt = String.prototype.charAt; String.prototype.charAt = function(pos) { console.log(this, typeof this, pos);
+
+
+};
+return originalCharAt.call(this, pos);
+console.log('primitive'.charAt(3));
+This produces the following output:
+[String: 'primitive'] object 3
+m
+The this value in the method is a String object wrapper, not a string primitive. You can instantiate a String object directly and it will sometimes behave like a string primitive. But not always. For example, a String object is only ever equal to itself:
+> "hello" === new String("hello") false
+> new String("hello") === new String("hello") false
+The implicit conversion to object wrapper types explains an odd phenomenon in JavaScript-if you assign a property to a primitive, it disappears:
+> x = "hello"
+> x.language = 'English' 'English'
+> x.language undefined
+Now you know the explanation: x is converted to a String instance, the language property is set on that, and then the object (with its language property) is thrown away.
+There are object wrapper types for the other primitives as well: Number for numbers, Boolean for booleans, Symbol for symbols, and BigInt for bigints (there are no object wrappers for null and undefined).
+
+
+
+These wrapper types exist as a convenience to provide methods on the primitive values and to provide static methods (e.g., String.fromCharCode). But there's usually no reason to instantiate them directly.
+TypeScript models this distinction by having distinct types for the primitives and their object wrappers:
+⚫ string and String
+⚫ number and Number
+⚫ boolean and Boolean
+symbol and Symbol
+⚫ bigint and BigInt
+It's easy to inadvertently type String (especially if you're coming from Java or C#) and it even seems to work, at least initially:
+function getStringLen(foo: String) { return foo.length;
+}
+getStringLen("hello"); // OK
+getStringLen(new String("hello")); // OK
+But things go awry when you try to pass a String object to a method that expects a string:
+function isGreeting(phrase: String) {
+return [ 'hello',
+'good day' J.includes(phrase);
+~~~~~~//
+// Argument of type 'String' is not assignable to parameter
+// of type 'string'.
+
+
+}
+//'string' is a primitive, but 'String' is a wrapper object; // prefer using 'string' when possible
+So string is assignable to String, but String is not assignable to string. Confusing? Follow the advice in the error message and stick with string. All the type declarations that ship with TypeScript use it, as do the typings for almost all other libraries. Another way you can wind up with wrapper objects is if you provide an explicit type annotation with a capital letter:
+const s: String = "primitive"; const n: Number = 12;
+const b: Boolean = true;
+Of course, the values at runtime are still
+primitives, not objects. But TypeScript permits
+these declarations because the primitive types are assignable to the object wrappers. These annotations are both misleading and redundant (Item 19). Better to stick with the primitive types. As a final note, it's OK to call BigInt and Symbol without new, since these create primitives:
+> typeof BigInt(1234) "bigint"
+> typeof Symbol('sym') "symbol"
+These are the BigInt and Symbol values, not the TypeScript types (Item 8). Calling them results in values of type bigint and symbol.
+```
+
+
+# Using Either/Result in TypeScript for Error Handling
+
+- from [fp-ts](https://gcanti.github.io/fp-ts/) library:
+
+```typescript
+import * as P from 'fp-ts/lib/pipeable';
+import * as E from 'fp-ts/lib/Either';
+import axios, { AxiosResponse, AxiosError } from 'axios';
+
+// Custom error type
+type ResponseError = string;
+
+async function makeApiCall(): Promise<E.Either<ResponseError, AxiosResponse>> {
+  try {
+    const response = await axios.get('https://jsonplaceholder.typicode.com/posts/1');
+    return E.right(response);
+  } catch (error) {
+    const axiosError = error as AxiosError;
+    return E.left(`API Error: ${axiosError.response?.statusText || 'Unknown'}`);
+  }
+}
+
+const post = makeApiCall()
+  .then((apiResponse) => {
+    P.pipe(
+      apiResponse,
+      E.match(
+        (error: ResponseError) => {
+            console.error(error);
+            return null
+        },
+        (response: AxiosResponse) => response.data
+      )
+    );
+  });
+```
+
+- or we can use [custom result](./result.ts) type
+- [either/result for error handling](https://blog.devgenius.io/using-either-result-in-typescript-for-error-handling-66baceefd9a0)
+
 # Understand Evolving any
 
 - example 1:
