@@ -1,5 +1,5 @@
 ---
-title: effective typescript summary
+title: effective typescript summary - wip
 date: "2024-03-05T22:12:03.284Z"
 description: "effective typescript summary"
 tags: ["agiletechnicalpractices", "programming"]
@@ -1270,62 +1270,7 @@ function arraySum(arr: readonly number[]) {
 ## Code Samples
 
 ```ts
-console.log(
-  'Cylinder r=1 × h=1',
-  'Surface area:', 6.283185 * 1 * 1 + 6.283185 * 1 * 1,
-  'Volume:', 3.14159 * 1 * 1 * 1
-);
-console.log(
-  'Cylinder r=1 × h=2',
-  'Surface area:', 6.283185 * 1 * 1 + 6.283185 * 2 * 1,
-  'Volume:', 3.14159 * 1 * 2 * 1
-);
-console.log(
-  'Cylinder r=2 × h=1',
-  'Surface area:', 6.283185 * 2 * 1 + 6.283185 * 2 * 1,
-  'Volume:', 3.14159 * 2 * 2 * 1
-);
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgziA2CmB00QHMAUAoABJg5AYQE9oBLMAE1gCdNKBeARkwHXMALBnAGi1wGUBXSgDMAhsFiYRlWCIBcXTADZ4AJgAcAZnpqArJgBUmRocYBqJas3a9Jg0e7YcANRj8AtrHmdMG+PQAs9DoAnHbGRmHoAJQA3OigkDAISGg8+ESkFNR0jCzsKlxpAsJiElIyXhbqWrphdebK1dZ2KmEOuC7Q7p4KvgFBobaGrSbRcQlQcIgoGI6EJORUNLSteRztOMWi4pLScgqNVrXD9VVHNpgj9mmd3ZV9gSEtz6Ox6EA)
-
-----
-
-```ts
-type CylinderFn = (r: number, h: number) => number;
-const surfaceArea: CylinderFn = (r, h) => 2 * Math.PI * r * (r + h);
-const volume: CylinderFn = (r, h) => Math.PI * r * r * h;
-
-for (const [r, h] of [[1, 1], [1, 2], [2, 1]]) {
-  console.log(
-    `Cylinder r=${r} × h=${h}`,
-    `Surface area: ${surfaceArea(r, h)}`,
-    `Volume: ${volume(r, h)}`);
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAwiA2BLAdgEwgJwGLKgXigAoMAuKZAVwFsAjTAGigAszLbMBKfAPnOrowBuAFABjAPbIAzsChSKGAGYBDURACCGCMrJwkaTDnxEMjJlzy8ATFABUUALLLgTAHQAFAJJ2oGH8SgAamYOEQlpWQA3cXhqCF0EFHRsXAJiMwteJxcPb3s-fJ8mEWFFcT9CcJkoAG1TZgBdKHFFWpqARkZ2hsYOxise2qsuhoauAG9hKCgqmIhXeHEAc0Ip6agAAz0kzF88ABJxjABfKAB15gPxpmON+jXpjYBlBRU1KGUtHShD+SVVDRfdIhW73dabABqMTiZEO0ViVAgwPMt1CwmOwiAA)
-
-----
-
-```ts
-interface Person {
-  firstName: string;
-  lastName: string;
-}
-
-interface PersonWithBirthDate {
-  firstName: string;
-  lastName: string;
-  birth: Date;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgQKhIsRCnTkcAdWBgAFgCEyagCJxI+LqXJVaDJmBYgOXXv1NCLIrgCMtqxrshiCQA)
-
-----
-
-```ts
+// the simplest way to reduce repetition is by naming your types
 function distance(a: {x: number, y: number}, b: {x: number, y: number}) {
   return Math.sqrt((a.x - b.x) ** 2 + (a.y - b.y) ** 2);
 }
@@ -1345,18 +1290,11 @@ function distance(a: Point2D, b: Point2D) { /* ... */ }
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgAoHtRgEwBFkDeAUMsgB4BcyIArgLYBG0A3CcgJ5W2MtEC+RGDRAIwwdCGQATYAGcwcERAAUcKhix4ANMgbrM4PAEpCyAPQAqZADpbyC2eQCgA)
 
-----
-
-```ts
-function get(url: string, opts: Options): Promise<Response> { /* ... */ }
-function post(url: string, opts: Options): Promise<Response> { /* ... */ }
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgCWA7ALgUwE4DMCGBjdUAeQAdVEB7ZAZ1AG8BfeEUWAOWnmwFdl8K1UAHN0qABQ9MAGwBcoGqkwphAGlCVyNeWUG0AlPIAKmSgFtENdAB4ASuhqlqVgHwNQwAFSgAwsQCyRrawAMohoJ5gmGJSyKAm5pboAHTRNJTSAG7o4sjoAO6g9o7OOfr6ANwe3hzQEWDMvPx6oE6KkjLyisrIahpaOuRUBsamFlZ2Dk606G701b4BQaHhkaDRqLHxY0mpDhnZuQVFU6Xi5VVebJz1oMzwQA)
 
 ----
 
 ```ts
+// if several functions share hte same type signature, you can factor out a named type for this signature
 type HTTPFunction = (url: string, opts: Options) => Promise<Response>;
 const get: HTTPFunction = (url, opts) => { /* ... */ };
 const post: HTTPFunction = (url, opts) => { /* ... */ };
@@ -1379,24 +1317,6 @@ interface PersonWithBirthDate extends Person {
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgQKhIsRCnTkcAdWBgAFgCEyagCJxIyCAA9IIACYY0mHPi4AjLasa7IYgkA)
 
-----
-
-```ts
-interface Bird {
-  wingspanCm: number;
-  weightGrams: number;
-  color: string;
-  isNocturnal: boolean;
-}
-interface Mammal {
-  weightGrams: number;
-  color: string;
-  isNocturnal: boolean;
-  eatsGardenPlants: boolean;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgVCRYiFACEyAE3xcA7mwwAHOCADCNRiACuNAEbROxFRGCsAFmADiUWhgPGzUC8gRZuWKEJgLCAcXMAYlFgIYIZQIHDcjCZYvhDaYhLg0PBIyACytDQJypbWdo7ONK7IRqbmXD5+AUxBImERUTFxCUkp3GkgXmlgGA5wUAoQIKi84NXJqekE4kA)
 
 ----
 
@@ -1552,6 +1472,7 @@ type OptionsKeys = keyof Options;
 ----
 
 ```ts
+// same as OptionsKeys = keyof Options, this pattern is very common and is included in the standard library as Partial
 class UIWidget {
   constructor(init: Options) { /* ... */ }
   update(options: Partial<Options>) { /* ... */ }
@@ -1617,13 +1538,7 @@ interface Options {
   color: string;
   label: string;
 }
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/MYewdgzgLgBAkgOTgFQPoHkAKy7oQZRgF4YBvAKBhgHcBLAEygAsAuGANgBYAGAGkphMAprQDmTKG04AOPgNAAbEACc2AcgDE3bgDEd2tfyoKAhgCMhC9QDUA4gEFD5AL4BucrTBQhygGYngIRh0AAcoWnAIMgE6RlYYMABXAFsLZXcqYTEJNiTUnwyYRRU2aGVPUULTCysYMor3Z3IgA)
-
-----
-
-```ts
+// or
 type Options = typeof INIT_OPTIONS;
 ```
 
@@ -1644,13 +1559,7 @@ function getUserInfo(userId: string) {
   };
 }
 // Return type inferred as { userId: string; name: string; age: number, ... }
-```
 
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/MYewdgzgLgBAkgOTgFQPoHkAKy7oQZRgF4YBvAKBhgHcBLAEygAsAuGANgBYAGAGkphMAprQDmTKG04AOPgNAAbEACc2AcgDE3bgDEd2tfyoKAhgCMhC9QDUA4gEFD5AL4BucgDMArmGBRa4DCiQlAAqhBCynBgHiAAFF4RUfRs0Mq0YKIAlGQCAPR5MADC6ACymABKAKL4+PLg0DBgJgC2QsQwagBCIGZq7lSgkLAmwR0AjABMAzBDjcJiEh0yM3Ow1CLisCQA7NyrDbAeJgBuKrRQQkUgSsodamYKXkL9+YVVCAAiAsohXspgXJUKiJSJwehGYHNNqQqijISwwSbCSIjaLKCI45ndKXa63SFuFzkAowCp-AEwKAATwADu0Mh5Ir96DATBAyDBQclUlB0plXE1WkIeXzRAL4WwwF4WhZlLwYAA6JUwZzkchAA)
-
-----
-
-```ts
 type UserInfo = ReturnType<typeof getUserInfo>;
 ```
 
@@ -1677,6 +1586,9 @@ interface Customer {
 
 ```ts
 // Don't do this!
+// this is because while the id and name properties happen to have the same name and type, they're not referring to teh same thing. 
+// In this case, factoring out the common base interface is a premature abstraction which may make it harder for the 2 types to evolve independently in the future. (as Product and Customer is likely evolve differently)
+// a good rule of thumb is that if it's hard to name a type ( or a function, then it may not be a useful abstraction. In this case, NamedAndIdentified) just describes the structure of the type, not what it is. The Vertebrate type from before, on the other hand, is meaningful on its own. Remember, "duplication is far cheaper than wrong abstraction"
 interface NamedAndIdentified {
   id: number;
   name: string;
