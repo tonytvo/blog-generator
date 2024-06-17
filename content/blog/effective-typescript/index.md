@@ -658,6 +658,8 @@ const post = makeApiCall()
 
 - or we can use [custom result](./result.ts) type
 - [either/result for error handling](https://blog.devgenius.io/using-either-result-in-typescript-for-error-handling-66baceefd9a0)
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern)
+- [@flagg2/result](https://github.com/flagg2/result)
 
 # Understand Evolving any
 
