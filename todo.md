@@ -1,4 +1,5 @@
 # next steps
+- [effective typescript summary - wip](https://tonytvo.github.io/effective-typescript/)
 - https://tonytvo.github.io/study-group-patterns-summary/
 - https://tonytvo.github.io/system-performance-summary/
 - https://tonytvo.github.io/ddd-with-legacy-code/
