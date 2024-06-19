@@ -1311,6 +1311,1173 @@ fetchANumber
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xLDYHAo-HYUG44HWuHgAEEAHL8SypRB-fTKK48phmRIQAgmPlMSw4DkQOzEMiUOkIaQKCRCizWWx2MCs9lheSTNwzBGNBjMFZrBDINBYDacHlXPkC9G66bRVlGllsjmcZarfWXWxXKCIAAeUE4EgdymOXBsTKYTM4GssYZ1jyg8AsXzAn2+IV+nAABmNDSsojE4s73WYrnnwzBscpcW9y8SFDR6czNRyFBUAHoAfmolOA1NprYQ7YrnC7hkevAEUAITmBoIAkmAKDkvABVBwAGV2YHEvYXQJB0FXay8lPQiAovAwU8eSpgeVV9gTWoVQA)
 
 
+# Know the Differences Between type and interface
+
+## Things to Remember
+
+- Understand the differences and similarities between `type` and `interface`.
+- Know how to write the same types using either syntax.
+- Be aware of declaration merging for `interface` and type inlining for `type`.
+- For projects without an established style, prefer `interface` to `type` for object types.
+
+
+## Code Samples
+
+```ts
+type TState = {
+  name: string;
+  capital: string;
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zIA)
+
+----
+
+```ts
+interface IState {
+  name: string;
+  capital: string;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoViA)
+
+----
+
+```ts
+const wyoming: TState = {
+  name: 'Wyoming',
+  capital: 'Cheyenne',
+  population: 578_000
+  // ~~~~~~~ Object literal may only specify known properties,
+  //         and 'population' does not exist in type 'TState'
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlYB7PJSgB3ECcKay8JCijpl+IqSgByAOo27DF4ANNocXIi83gDCABYQIBB4eBDBLGAmYACu3Mg0ZmQArADsABwA+gAMVSwA9DVQAH5NzQ1QAPIARgBWEKzAUNxcEFQRUISIIFBm3JPkkKw0EpMA1ngmlnhQYFQZw8A0EOQhuHW4Z+eIeAAm3ulZOftmXlBXJof4Jv0QAB40FnRQUCQbyORReLAiLBAA)
+
+----
+
+```ts
+type TDict = { [key: string]: string };
+interface IDict {
+  [key: string]: string;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlCRYAERqtgUdBigBtANYQQ+zQF03DKCKxiIktJyFlaYLE4uXvSeFBqCWEZAA)
+
+----
+
+```ts
+type TFn = (x: number) => string;
+interface IFn {
+  (x: number): string;
+}
+type TFnAlt = {
+  (x: number): string;
+};
+
+const toStrT: TFn = x => '' + x;  // OK
+const toStrI: IFn = x => '' + x;  // OK
+const toStrTAlt: TFnAlt = x => '' + x;  // OK
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlCRYAMTxR0ACgAeZPAFdCAIwhUAlFYB8FDYKwxdykZKFkLTBY7B2c3T31NYWNwaBgLAEFuYCtI3Gj8WPcPBICRLCxWAHs8SihgSoQqGDI0y3RbHygAci6oAGooW0ZcAHoRqAB5AGkK6tr6xtkycLbBzp7+weGoMcmZqprsheoYTOAWjKycjtRfDYGh0fHprCA)
+
+----
+
+```ts
+type TBox<T> = {
+  value: T;
+};
+interface IBox<T> {
+  value: T;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlCRYAIQD2ADwA8MAHxR0yqADdE3AK6lYw0XnEpGShZS1sHTBZ3Lx8YYSwgA)
+
+----
+
+```ts
+interface IStateWithPop extends TState {
+  population: number;
+}
+type TStateWithPop = IState & { population: number; };
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVjERJ0uQpQB1LgAsACgHswUCAA8UeACblYlpSxgzgCu3Mg0jnhkeMGEAEamwligkH5I1nZOLujy6dAAZJhQQWCh4ZHRsQlUjFAiWEA)
+
+----
+
+```ts
+class StateT implements TState {
+  name: string = '';
+  capital: string = '';
+}
+class StateI implements IState {
+  name: string = '';
+  capital: string = '';
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlbdE5clAUoYUGoTDcIxPMAvwkKTC1WkKGhlDoAORBzLg6XIi8fgaBUCHCxqbmlh4Qsrb2js6uUPJpXipEvvyacQnaHJHRpQHBoVhGQA)
+
+----
+
+```ts
+type AorB = 'a' | 'b';
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAgg9gJwEJQLxQOQEMNQD6YBGGA3AFBA)
+
+----
+
+```ts
+type Input = { /* ... */ };
+type Output = { /* ... */ };
+interface VariableMap {
+  [name: string]: Input | Output;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAkgdmArsKBeKBvKB6AVFAOiKl2ygF8BuAKFEigHlkkV0s9DjSKaBLOYBABOAMwCGAY2gA1MUN5iARgBsIAWTFhM1KFADacMQFsIALigBnYPLgBzALrn4LKAB9GzZDXLUgA)
+
+----
+
+```ts
+type NamedVariable = (Input | Output) & { name: string };
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAkgdmArsKBeKBvKB6AVFAOiKl2ygF8BuAKFEigHlkkV0s9DjSKaBLOYBABOAMwCGAY2gA1MUN5iARgBsIAWTFhM1KFADacMQFsIALigBnYPLgBzALrn4LKAB9GzZDXK1w0AHLGEAAmsvJKqmhQABTOyG4ewCwAlFAAZJhQhibmVja2PNRAA)
+
+----
+
+```ts
+interface Person {
+  name: string;
+  age: string;
+}
+
+type TPerson = Person & { age: number; };  // no error, unusable type
+
+interface IPerson extends Person {
+  //      ~~~~~~~ Interface 'IPerson' incorrectly extends interface 'Person'.
+  //                Types of property 'age' are incompatible.
+  //                  Type 'number' is not assignable to type 'string'.
+  age: number;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyIcAthAFzIZhSgDmA3EcnA1TXYywL4EEwATwAOKACroo2XAF40mHMgBk+Nh2ogArmQBG0Jsl6HkAelMksyaFCxQANMi3aMcXQBsUwsQNCRYiCgAklIy1gAekCAAJhgK0kqExObEqcgAfplZ6chB4NDwSMgA5CGKIMXIoAh2UBAIYO5CEVGxVfkBRcWhOMUAdKwpacMj4qIQcVgwyCK2YlDCJewQlXB17TVkInBgwB4QA8kWIydpY2Il2nrQlcBxIFhgbBgYwAyk+8hgVt4oxbT0EAMfqsZaaHT6KB8AhAA)
+
+----
+
+```ts
+type Pair = [a: number, b: number];
+type StringList = string[];
+type NamedNums = [string, ...number[]];
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBACghgSwE5QLxQNpwFxQHYCuAtgEYRIA0UJuhp5AugNwBQokUAysEgngOYAZBAGdgaKGN4CMzNuGgA5OEQgATRcRESMUvvyoA6Y3TJJZcoA)
+
+----
+
+```ts
+interface IState {
+  name: string;
+  capital: string;
+}
+interface IState {
+  population: number;
+}
+const wyoming: IState = {
+  name: 'Wyoming',
+  capital: 'Cheyenne',
+  population: 578_000
+};  // OK
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgJIGUx0sg3gKGWRDgFsIAuZAZzClAHMBuQ5BOAB2CwBsrb6IZvgC++UJFiIUGLDgJEOAew4BXHtmBKQVEKtIAjaCzEJttZAHcAnktKMqs7CgC8eViXJUA5AHVb9kLeADSs7Fy8PgDCABYQ1hAgIBAhrMpqGmBaOsgArADsABwA+gAM5aJMRAD01cgA8gDS+EA)
+
+----
+
+```ts
+// lib.es5.d.ts
+interface Array<T> {
+  /** Gets or sets the length of the array. */
+  length: number;
+  // ...
+  [n: number]: T;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEBsEsCMDoFMDOBWWATWAXRAoSA7TeAJwDMBDAY3lAEFjjyBPAHgBUA+UAbx1FGAAqQaADi8bKAD2xUIgmJQmABY1w8fAHMV00ktWhyDZrFCDgfCBu3KAXKHwBXALbQSAbkshQsX5YDa+PZOriQAuvZsngC+OEA)
+
+----
+
+```ts
+// lib.es2015.core.d.ts
+interface Array<T> {
+  /** Returns the index of the first element in the array where predicate... */
+  findIndex(
+    predicate: (value: T, index: number, obj: T[]) => unknown,
+    thisArg?: any
+  ): number;
+
+  // ... also find, fill, copyWithin
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEBsEsCMDoFMDOAmADARgKywMYHsAneWAE1gBdEAoSAO3PgIDMBDHeUAQQIJYE8APABUAfKADeVUKGAAqWaABK8cgFcCtRKHIALDnRLwAHqDxNte0E0gFE5UPHDwAtvHqg6Fjix79QAdz0iUAAHIhJIHBYGWFjQWWApKwMASVpDIwAKJOkw+AiohgAuUEyANxZwVXgSoQAaD3TjEtpVZ2hGBrxoACtagG0AXQBKUABeMVVaAGtaPH9aOpyLSERuAHMAfhKWWj4k4Za2joIAbiokkFBY2FBKxDxk9IbrcHAG-BC+AHVIXToqABfKhAA)
+
+----
+
+```ts
+export function getHummer() {
+  type Hummingbird = { name: string; weightGrams: number; };
+  const ruby: Hummingbird = { name: 'Ruby-throated', weightGrams: 3.4 };
+  return ruby;
+};
+
+const rubyThroat = getHummer();
+//    ^? const rubyThroat: Hummingbird
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/KYDwDg9gTgLgBAMwK4DsDGMCWEVwObAwASSAtqcFABQCUcA3gFBxwwCeYwcJ5mKeAI0xQAJnAC8DOCgCGFAFxwAzjCh88AbjgB3YJjwALGAHEocpYpRkBlLQF8NzOGhwq4UJALaKepdUNEJKVkFOAByACVPNgBaGAMoCBkYYBEwgBodPUMTM1ILOABmADoAFjgHJyhCJChcDy9HSsYXFDcGtgAVBKT4SQJiMgpqGkcAejGWFgA9AH5nV3gO7sTknyH-YRFGIA)
+
+----
+
+```ts
+// get-hummer.d.ts
+export declare function getHummer(): {
+  name: string;
+  weightGrams: number;
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEHMFMBcFoAsCuBbZkBOA6AJp6BnAKEgA8AHAe3WlG0gGMAbAQ3UlADNEA7e6ASwrcIMABIo06ABQBKAFygA3oVChuzNAvzR0-buADcK0AHdI-cPGgBxdBvwLuKAEYYjAXyNA)
+
+----
+
+```ts
+export function getHummer() {
+  //            ~~~~~~~~~
+  // Return type of exported function has or is using private name 'Hummingbird'.
+  interface Hummingbird { name: string; weightGrams: number; };
+  const bee: Hummingbird = { name: 'Bee Hummingbird', weightGrams: 2.3 };
+  return bee;
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&declaration=true#code/KYDwDg9gTgLgBAMwK4DsDGMCWEVwObAwASSAtqcFABQCUcA3gFBxwD0rLnXnAfn--2ZsOAJUJIouGAE8wwOBARxQkWMAAmiVBmy4AFgEMAzgqhxMJpEcwo8cMFEwA3AzHkoDFOAHIS5G3gARphQ6t4AdEI2blAIBmjyfqQBwaEMcB4UAFxwRjCOtgDccADuwJh4ejAA4lCeRjkoZIGUxQC+hUJoOHlwLcA5SSkhmgC86ZkDPgBCwIlkybapYQA0peWVNXWkDXAATOEAzHAdQlDikn1znadAA)
+
+
+# Use readonly to Avoid Errors Associated with Mutation
+
+## Things to Remember
+
+- If your function does not modify its parameters, declare them `readonly` (arrays) or `Readonly` (object types). This makes the function's contract clearer and prevents inadvertent mutations in its implementation.
+- Understand that `readonly` and `Readonly` are shallow, and that `Readonly` only affects properties, not methods.
+- Use `readonly` to prevent errors with mutation and to find the places in your code where mutations occur.
+- Understand the difference between `const` and `readonly`: the former prevents reassignment, the latter prevents mutation.
+
+
+
+## Code Samples
+
+```ts
+function printTriangles(n: number) {
+  const nums = [];
+  for (let i = 0; i < n; i++) {
+    nums.push(i);
+    console.log(arraySum(nums));
+  }
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwE6uQTwMogLYAUaqAXImPgEYCmqA2gLoCUiA3gFCKIA21UiAZ3yIAvIgAMAGnL4A3J0QB3ABYxeiAgQp5RKdADoADnEMEmLAIQix4ACbVgMMNVssOXLkJ0BqMdvlcAL4KqHwgqEhe8sGgkLAIiIaoTlAAKsnIYADmvAJaZNo0qG4KEAgC-NoCuowBiMBwqBq8-DC64rKIbQA85J0w3t4lHjJ4AkYgAsoEMEx1XGVgAnC8+txwWUToWLiEVeZ1wcFAA)
+
+----
+
+```ts
+function arraySum(arr: number[]) {
+  let sum = 0, num;
+  while ((num = arr.pop()) !== undefined) {
+    sum += num;
+  }
+  return sum;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwE6uQTwMogLYAUaqAXImPgEYCmqA2gLoCUiA3gFCKIA21UiAZ3yIAvIgAMAGnL4A3J0QB3ABYxeiAgQp5RKdADoADnEMEmLAIQix4ACbVgMMNVssOXLkJ0BqMdvlcAL4KqHwgqEhe8sFAA)
+
+----
+
+```ts
+interface PartlyMutableName {
+  readonly first: string;
+  last: string;
+}
+
+const jackie: PartlyMutableName = { first: 'Jacqueline', last: 'Kennedy' };
+jackie.last = 'Onassis';  // OK
+jackie.first = 'Jacky';
+//     ~~~~~ Cannot assign to 'first' because it is a read-only property.
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgApymANgTwLICuYcARlhAHJwC2KA3gFDLJQRwAmA9iLsjMFADOYAFzJhUUAHMA3E2RY4wsROlyAvgwYJuw5ACtEAa2AQx6TLkLEylGigC8yOnwHLkAcgBSiAI4EILFAIDwAaBSVRTwBpCBAQCHYcD2R1OUMEEwgAOkU9Jw8AeRAlQWBBDxlmAHpq5ELohgys7P4hMGQCn0zkuVrmAYA-YeHkAGE4eM4O0uApEGQwTk824RSSCAQ4AkEUYA7y5DgWNnYAWm5eAAcoTivoMBxshiA)
+
+----
+
+```ts
+interface FullyMutableName {
+  first: string;
+  last: string;
+}
+type FullyImmutableName = Readonly<FullyMutableName>;
+//   ^? type FullyImmutableName = {
+//        readonly first: string;
+//        readonly last: string;
+//      }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgGIFcA2mCeBZdMOAI0wgDk4BbFAbwChlkZgoBnMALmQ6lAHMA3I2SY4HbrwHCAvvTA4ADigzYcASSpVCJMpRrIAvMgBKEOABMA9iFwAeVbgJFSFahAB8wgPTemyAD0AfmQFZTQsXE1tFz13I2QGX38U5Chza1scZlYJHjA+ECF6ZNSmdMsbXFFxLnzC4tKUuSA)
+
+----
+
+```ts
+interface Outer {
+  inner: {
+    x: number;
+  }
+}
+const obj: Readonly<Outer> = { inner: { x: 0 }};
+obj.inner = { x: 1 };
+//  ~~~~~ Cannot assign to 'inner' because it is a read-only property
+obj.inner.x = 1;  // OK
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nhAA)
+
+----
+
+```ts
+type T = Readonly<Outer>;
+//   ^? type T = {
+//        readonly inner: {
+//          x: number;
+//        };
+//      }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nhtLcgAKs7ScrVqmNAa3r6EAHoA-IlKkzO6+MNUxxXzIMr6hsZ4R8fHrvTMbDdrd54vb1xAA)
+
+----
+
+```ts
+const date: Readonly<Date> = new Date();
+date.setFullYear(2037);  // OK, but mutates date!
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nh8gsKycJBSlbUqACIzEFq6JADuyMuQABQAlOzTkHb5YABi6AoKAJoyULsATGYAzADsh0O+qCMANFmYZAMTArErHCAAQjwQA)
+
+----
+
+```ts
+interface Array<T> {
+  length: number;
+  // (non-mutating methods)
+  toString(): string;
+  join(separator?: string): string;
+  // ...
+  // (mutating methods)
+  pop(): T | undefined;
+  shift(): T | undefined;
+  // ...
+  [n: number]: T;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nigWPBIyACCUFBwqgAqWviEChAgsWAAFnSMLFDsQ74AFCD8VQyYcGCgscgMELu8sgIAlJRJAMpgUPend7kIT-LbHZBiXigU75epwBZJKAAfmBf3uQOQIPu4OGdjxlGGp2uYFu90ezx2rw+lHqzUB5CWyAAPsh0CBZBAYKAILJwQIdsAYGB6chGSy2RyuSReQTfHi7JQANogfbMaAAXQZ7C4QA)
+
+----
+
+```ts
+interface ReadonlyArray<T> {
+  readonly length: number;
+  // (non-mutating methods)
+  toString(): string;
+  join(separator?: string): string;
+  // ...
+  readonly [n: number]: T;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nigWPBIyNJytQCCUFBwqgAqWviEFXMgysgKECCxYAAWdIwsUOxDvgAUIPxVDJhwYKCxyAwQp7yyAgCUlCSAGUwFB3rd-uQhOCjtdkGJeKBbvl6nBlkkoAB+aFg95Q5Aw97w4Z2MmUbbyXZ1ADaIHOzGgAF1yKt2FwgA)
+
+----
+
+```ts
+const a: number[] = [1, 2, 3];
+const b: readonly number[] = a;
+const c: number[] = b;
+//    ~ Type 'readonly number[]' is 'readonly' and cannot be
+//      assigned to the mutable type 'number[]'
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nh8gpF0jCxQANoAus5zbgA0yABM6wDMC+wTQlnkFXK1yPTM0IvOcPv8hwjTl-NLukzevlR+yAAqSi2pE7yEDKc4zK4LTLFQGVWqZMKyZA5cLCFh4YZUQhRGLxCCIpKJAAWKAYmDgTAUKDaAJSF1mixSeCAA)
+
+----
+
+```ts
+function printTriangles(n: number) {
+  const nums = [];
+  for (let i = 0; i < n; i++) {
+    nums.push(i);
+    console.log(arraySum(nums as readonly number[]));
+    //                   ~~~~~~~~~~~~~~~~~~~~~~~~~
+    // The type 'readonly number[]' is 'readonly' and cannot be
+    // assigned to the mutable type 'number[]'.
+  }
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0ngw6CAIYMD8pVBQcEoAyowAFHALdIwsUADaALoAlBSEChDCAozOZgA0yPQM7IQA7gAWwOfIa2uPzptQOz1ZprI4nACE2l0k1kEBgoAgshO+CoyCuDGQAGpdI9npZKBUwOgoAl0ewuBMpjM5o1QGAACpQYBhWLnAS-bbMaDIyh8QTCR4lXSHPEwXjYNbnIo3QbAZAqB6yzGYnmowVAvJvNbAI54wh8gS8c52BS8WIbBZLVYMX6MEpRcqVWoPHbQQ5gvXIYaon2+qiBAOBoPByhDXz0t4oNotVIVOTOx67Q6ZYqxp0gZSZMKyZA5cLCFihr2+KIxeKIxLJMCR5AMTBwJhfaMoFKJt0HFJ2TjcPBAA)
+
+----
+
+```ts
+function arraySum(arr: readonly number[]) {
+  let sum = 0, num;
+  while ((num = arr.pop()) !== undefined) {
+    //              ~~~ 'pop' does not exist on type 'readonly number[]'
+    sum += num;
+  }
+  return sum;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwE6uQTwMogLYAUaqAXIqgKbIAmCANpomPgEYWoDaAugJSIDeAKESI6FKIgDO+RAF5EABgA0TfAG5hiAO4ALGGMQECzPHJToAdAAc4Vgjz4BCWfPDUKwGGArU+QkSIA9IEBoWEiAH5RiADkNlYxiLQUkkxwEhQAHjCSEgiIUJhWFLGUNPSMJmycXDGaItKmANTyJhoiAL6alFAgqEiNGl1AA)
+
+----
+
+```ts
+function arraySum(arr: readonly number[]) {
+  let sum = 0;
+  for (const num of arr) {
+    sum += num;
+  }
+  return sum;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABABwE4zFAKughmAcwBsBTAZwAowAuRMEAWwCMTUBKRAbwChFEIEZKHUZlEAXkQBtALoBuXomBxUiCqWEwJiAAxzEWgDx19MANRmOPPn3oMyAOmQgyACwow2Cm-0FxSDkRwBBS4qKi4AJ4AyoxUomxeigC+3KmgkLAIiGERMXG5tKgkuAAmCESRIsysslaKGohkjNp6isqqFAJgQtWIcMA54fU+zQyIZpJ23oipfMVQIKhIYwqpQA)
+
+
+# Use Type Operations and Generic Types to Avoid Repeating Yourself
+
+## Things to Remember
+
+- The DRY (don't repeat yourself) principle applies to types as much as it applies to logic.
+- Name types rather than repeating them. Use `extends` to avoid repeating fields in interfaces.
+- Build an understanding of the tools provided by TypeScript to map between types. These include `keyof`, `typeof`, indexing, and mapped types.
+- Generic types are the equivalent of functions for types. Use them to map between types instead of repeating type-level operations.
+- Familiarize yourself with generic types defined in the standard library, such as `Pick`, `Partial`, and `ReturnType`.
+- Avoid over-application of DRY: make sure the properties and types you're sharing are really the same thing.
+
+
+## Code Samples
+
+```ts
+console.log(
+  'Cylinder r=1 × h=1',
+  'Surface area:', 6.283185 * 1 * 1 + 6.283185 * 1 * 1,
+  'Volume:', 3.14159 * 1 * 1 * 1
+);
+console.log(
+  'Cylinder r=1 × h=2',
+  'Surface area:', 6.283185 * 1 * 1 + 6.283185 * 2 * 1,
+  'Volume:', 3.14159 * 1 * 2 * 1
+);
+console.log(
+  'Cylinder r=2 × h=1',
+  'Surface area:', 6.283185 * 2 * 1 + 6.283185 * 2 * 1,
+  'Volume:', 3.14159 * 2 * 2 * 1
+);
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgziA2CmB00QHMAUAoABJg5AYQE9oBLMAE1gCdNKBeARkwHXMALBnAGi1wGUBXSgDMAhsFiYRlWCIBcXTADZ4AJgAcAZnpqArJgBUmRocYBqJas3a9Jg0e7YcANRj8AtrHmdMG+PQAs9DoAnHbGRmHoAJQA3OigkDAISGg8+ESkFNR0jCzsKlxpAsJiElIyXhbqWrphdebK1dZ2KmEOuC7Q7p4KvgFBobaGrSbRcQlQcIgoGI6EJORUNLSteRztOMWi4pLScgqNVrXD9VVHNpgj9mmd3ZV9gSEtz6Ox6EA)
+
+----
+
+```ts
+type CylinderFn = (r: number, h: number) => number;
+const surfaceArea: CylinderFn = (r, h) => 2 * Math.PI * r * (r + h);
+const volume: CylinderFn = (r, h) => Math.PI * r * r * h;
+
+for (const [r, h] of [[1, 1], [1, 2], [2, 1]]) {
+  console.log(
+    `Cylinder r=${r} × h=${h}`,
+    `Surface area: ${surfaceArea(r, h)}`,
+    `Volume: ${volume(r, h)}`);
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAwiA2BLAdgEwgJwGLKgXigAoMAuKZAVwFsAjTAGigAszLbMBKfAPnOrowBuAFABjAPbIAzsChSKGAGYBDURACCGCMrJwkaTDnxEMjJlzy8ATFABUUALLLgTAHQAFAJJ2oGH8SgAamYOEQlpWQA3cXhqCF0EFHRsXAJiMwteJxcPb3s-fJ8mEWFFcT9CcJkoAG1TZgBdKHFFWpqARkZ2hsYOxise2qsuhoauAG9hKCgqmIhXeHEAc0Ip6agAAz0kzF88ABJxjABfKAB15gPxpmON+jXpjYBlBRU1KGUtHShD+SVVDRfdIhW73dabABqMTiZEO0ViVAgwPMt1CwmOwiAA)
+
+----
+
+```ts
+interface Person {
+  firstName: string;
+  lastName: string;
+}
+
+interface PersonWithBirthDate {
+  firstName: string;
+  lastName: string;
+  birth: Date;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgQKhIsRCnTkcAdWBgAFgCEyagCJxI+LqXJVaDJmBYgOXXv1NCLIrgCMtqxrshiCQA)
+
+----
+
+```ts
+function distance(a: {x: number, y: number}, b: {x: number, y: number}) {
+  return Math.sqrt((a.x - b.x) ** 2 + (a.y - b.y) ** 2);
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAExgZygQ0gUwBSYBciA3gB7FggC2ARjgE4A0iAnpTfQwL4u3HkOdRi3aIqwngEpSAKESIGOKCAZIAspigALAHRoAjgyh4CusogC0iWuZkAqe4gBMiANSIzrKzd2sHTs5SANyy3LJAA)
+
+----
+
+```ts
+interface Point2D {
+  x: number;
+  y: number;
+}
+function distance(a: Point2D, b: Point2D) { /* ... */ }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgAoHtRgEwBFkDeAUMsgB4BcyIArgLYBG0A3CcgJ5W2MtEC+RGDRAIwwdCGQATYAGcwcERAAUcKhix4ANMgbrM4PAEpCyAPQAqZADpbyC2eQCgA)
+
+----
+
+```ts
+function get(url: string, opts: Options): Promise<Response> { /* ... */ }
+function post(url: string, opts: Options): Promise<Response> { /* ... */ }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgCWA7ALgUwE4DMCGBjdUAeQAdVEB7ZAZ1AG8BfeEUWAOWnmwFdl8K1UAHN0qABQ9MAGwBcoGqkwphAGlCVyNeWUG0AlPIAKmSgFtENdAB4ASuhqlqVgHwNQwAFSgAwsQCyRrawAMohoJ5gmGJSyKAm5pboAHTRNJTSAG7o4sjoAO6g9o7OOfr6ANwe3hzQEWDMvPx6oE6KkjLyisrIahpaOuRUBsamFlZ2Dk606G701b4BQaHhkaDRqLHxY0mpDhnZuQVFU6Xi5VVebJz1oMzwQA)
+
+----
+
+```ts
+type HTTPFunction = (url: string, opts: Options) => Promise<Response>;
+const get: HTTPFunction = (url, opts) => { /* ... */ };
+const post: HTTPFunction = (url, opts) => { /* ... */ };
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgCWA7ALgUwE4DMCGBjdUAeQAdVEB7ZAZ1AG8BfeEUWAOWnlQE9SjwAFUEAFAGIBXZPgrVQAXlAAKCZgA2ALlA1UmFAHMANKErkaWsrNoBKBQD5QIzJQC2iGugA8AJXQ1S1B52ANzw+IGooProqFpCopLSVgrKqmrGpqg0tvIO9KDAAFSgAMLEALIi3rAAyjWghWCYMarIjs5uHgB0zTSUagBu6ErI6ADuoL7+gcPW1sEFxRzQDWCMoeG0kQE6ccLiUjJUbYoq6hlmOXmLpRVVtfWNoM2ore2u7ug9fv1DI+OTPwBWizeY3ZarUDreDwIA)
+
+----
+
+```ts
+interface Person {
+  firstName: string;
+  lastName: string;
+}
+
+interface PersonWithBirthDate extends Person {
+  birth: Date;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgQKhIsRCnTkcAdWBgAFgCEyagCJxIyCAA9IIACYY0mHPi4AjLasa7IYgkA)
+
+----
+
+```ts
+interface Bird {
+  wingspanCm: number;
+  weightGrams: number;
+  color: string;
+  isNocturnal: boolean;
+}
+interface Mammal {
+  weightGrams: number;
+  color: string;
+  isNocturnal: boolean;
+  eatsGardenPlants: boolean;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgVCRYiFACEyAE3xcA7mwwAHOCADCNRiACuNAEbROxFRGCsAFmADiUWhgPGzUC8gRZuWKEJgLCAcXMAYlFgIYIZQIHDcjCZYvhDaYhLg0PBIyACytDQJypbWdo7ONK7IRqbmXD5+AUxBImERUTFxCUkp3GkgXmlgGA5wUAoQIKi84NXJqekE4kA)
+
+----
+
+```ts
+interface Vertebrate {
+  weightGrams: number;
+  color: string;
+  isNocturnal: boolean;
+}
+interface Bird extends Vertebrate {
+  wingspanCm: number;
+}
+interface Mammal extends Vertebrate {
+  eatsGardenPlants: boolean;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgVCRYiFADVokAEZQ4kfFwDuEYKwAWYAOIqaGRiACuNRdE7EEWblihCwLEBy7AMlLAjDmoEDhuRkUsBwg4EDEJcGh4JGQAITIAE2QIAA9IEFSMZHkoJRU1QmINNgwAByiAYRozS2soGMl4mWQAWVoaYIzsiFz8wuLVFDKM1QwDOChUwdRecFNkMIiomKA)
+
+----
+
+```ts
+type PersonWithBirthDate = Person & { birth: Date };
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgArQM4HsTIN4BQyyMwUGYAcnALYQBcyFUoA5gNxHIA2cF1dRszacAvgTABPAA4p05HAHVgYABYAhMmoAicSMgC8aTDmQAyfMgBGW1Y137RnIA)
+
+----
+
+```ts
+interface State {
+  userId: string;
+  pageTitle: string;
+  recentFiles: string[];
+  pageContents: string;
+}
+interface TopNavState {
+  userId: string;
+  pageTitle: string;
+  recentFiles: string[];
+  // omits pageContents
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpjpZBvAUM5AVwGdoBJAEwC5liwpQBzAbn2QAc5GIAVYMADYQadBiBZsoEJOABiwIcRH0mAbQC6rAp24BhAPbgI4JbRXjWAX1yhIsRCh772AOTgA3dJhR4CJctRmYhLaXLz8QsrBWshSMmDyilFqmmwA9GnI+gC2-MQcYQZGJrjWQA)
+
+----
+
+```ts
+interface TopNavState {
+  userId: State['userId'];
+  pageTitle: State['pageTitle'];
+  recentFiles: State['recentFiles'];
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpjpZBvAUM5AVwGdoBJAEwC5liwpQBzAbn2QAc5GIAVYMADYQadBiBZsoEJOABiwIcRH0mAbQC6rAp24BhAPbgI4JbRXjWAX1yhIsRCh772AOTgA3dJhR4CJctRoGJCqAOT+UJShmmw6vPxCNF4hoXF8ghDRWshSMmDyiknBEGG5xvkKEMRZuJasQA)
+
+----
+
+```ts
+type TopNavState = {
+  [K in 'userId' | 'pageTitle' | 'recentFiles']: State[K]
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpjpZBvAUM5AVwGdoBJAEwC5liwpQBzAbn2QAc5GIAVYMADYQadBiBZsoEJOABiwIcRH0mAbQC6rAp24BhAPbgI4JbRXjWAX1xgAnuxQ997AHJwAbukwoAvDjaqANLIoMgA5CTkFGHIAD7hOrz8QjHxYVIyYPKKYeo0XpBB6riWrEA)
+
+----
+
+```ts
+type TopNavState = Pick<State, 'userId' | 'pageTitle' | 'recentFiles'>;
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpjpZBvAUM5AVwGdoBJAEwC5liwpQBzAbn2QAc5GIAVYMADYQadBiBZsoEJOABiwIcRH0mAbQC6rAp24BhAPbgI4JbRXjWAX1xgAnuxQ997AHJwAbukwoAvMgAKwAgA1gA8XpAANMgA5CTkFDHIAD6xOrz8QkmpMVIyYPKKMQB8rEA)
+
+----
+
+```ts
+interface SaveAction {
+  type: 'save';
+  // ...
+}
+interface LoadAction {
+  type: 'load';
+  // ...
+}
+type Action = SaveAction | LoadAction;
+type ActionType = 'save' | 'load';  // Repeated types!
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpwG4QIILMAexGQG8AoZZMATwAcIAuZAcgGdMJmBuC5Aej7IAdCLIBfMqEixEKADIE4AE1z4ipXjXpNmAG0VLuvAcNEStKVYWIBeNByvqAPsgXLHIHheQeAKnRQ7Ng5mZBc9A25KEwAlCHo4SCUqANYAQjIgA)
+
+----
+
+```ts
+type ActionType = Action['type'];
+//   ^? type ActionType = "save" | "load"
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpwG4QIILMAexGQG8AoZZMATwAcIAuZAcgGdMJmBuC5Aej7IAdCLIBfMqEixEKADIE4AE1z4ipXjXpNmAG0VLuvAcNEStKVYWIBeNByvqAPsgXLHIHheQeAKnRQ7DwBtZgtmAF0eE0oAPQB+KgCfPGt-emQ7ACJ2LCzkFyz9ZSyyIA)
+
+----
+
+```ts
+type ActionRecord = Pick<Action, 'type'>;
+//   ^? type ActionRecord = { type: "save" | "load"; }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMpwG4QIILMAexGQG8AoZZMATwAcIAuZAcgGdMJmBuC5Aej7IAdCLIBfMqEixEKADIE4AE1z4ipXjXpNmAG0VLuvAcNEStKVYWIBeNByvqAPsgXLHIHheQeAShAQCKCVkOwAFYAQAawAeDwAaFgtmAD4eE0oAPQB+KjpLPGt-QODQ0jztZAAidiwq5Bcq-WUqrmQJIA)
+
+----
+
+```ts
+interface Options {
+  width: number;
+  height: number;
+  color: string;
+  label: string;
+}
+interface OptionsUpdate {
+  width?: number;
+  height?: number;
+  color?: string;
+  label?: string;
+}
+class UIWidget {
+  constructor(init: Options) { /* ... */ }
+  update(options: OptionsUpdate) { /* ... */ }
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIAczAPYgM7IDeAUMsgO7AAmYAFgFzIgCuAtgEbQDcpytEwAOa0wjFh268E2ADbYojPGCihBPMjLicZi5ap4BfYqEixEKDFlx4AquipxIRXpRq0A-GLaco6vgOEwTyZvSTJpOShgpRUQNV5NbWi9OMNiBE08AhsASQB1akEIMGdw62VmBDB5AApQYFE0TBx8AEoiZAB6ACpkADoB5G7O5CMyZntHCBrsZutGSxbbSch2wi7egb6hkaMjIA)
+
+----
+
+```ts
+type OptionsUpdate = {[k in keyof Options]?: Options[k]};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIAczAPYgM7IDeAUMsgO7AAmYAFgFzIgCuAtgEbQDcpytEwAOa0wjFh268E2ADbYojPGCihBPMjLicZi5ap4BfYmACe6FBiy48AVXRU4kZAF4iAbQDWyUMg8QT2DBomDj4ALoA-IyWoXieYQY8QA)
+
+----
+
+```ts
+type OptionsKeys = keyof Options;
+//   ^? type OptionsKeys = keyof Options
+//      (equivalent to "width" | "height" | "color" | "label")
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIAczAPYgM7IDeAUMsgO7AAmYAFgFzIgCuAtgEbQDcpytEwAOa0wjFh268E2ADbYojPGCihBPMjLicZi5ap4BfYmACe6FBiy48AaQgmCAXmQBre9hhpMOfDwD0fmTIAHoA-Mim5l5W+HYOyM5uJh7RPnjGZigAShB4sgBuEAA8WXDkAHwJyKXkyBAAHpAgVAQAYswgCDHI4TXIjIQA2jbIoK7unjUAuow1w1MGPJEoAMom4LSWaXFO1bkFxVvWO+X+gWRhEZnIaxtHsfa7AESUNLRPyAA+yE-8QiIfb5PaRyKCAn6abRPYjEIA)
+
+----
+
+```ts
+class UIWidget {
+  constructor(init: Options) { /* ... */ }
+  update(options: Partial<Options>) { /* ... */ }
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIAczAPYgM7IDeAUMsgO7AAmYAFgFzIgCuAtgEbQDcpytEwAOa0wjFh268E2ADbYojPGCihBPMjLicZi5ap4BfYgk14CAVQCSAdWqCIYIlNxKozBGHkAKUMFFpMHHwASiJkAHoAKmQAOjjkSPDkIzJmdCo4SC9sQJdGAAU4KCw4GQAeDCwXAD5QwgjouJiEpKMjIA)
+
+----
+
+```ts
+interface ShortToLong {
+  q: 'search';
+  n: 'numberOfResults';
+}
+type LongToShort = { [k in keyof ShortToLong as ShortToLong[k]]: k };
+//   ^? type LongToShort = { search: "q"; numberOfResults: "n"; }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMoAsD2UwBVMAymIA5sgN4BQyyAjgFzIDkAzhHFAukwNzXIhGTEAFcAtgCNoAeRgAlCCxEAbMC16UAvpTABPAA4oipfBmxhkAXgrIA2gGtkoZPYi7MMNFhz5jZOCxe5r7EJA4AuuGMjpp8APRxNMgAegD8yHqGyH6m3hbW5MhsHFyMAES0ZTwC4lJQsgpKqizlIFXI2kA)
+
+----
+
+```ts
+interface Customer {
+  /** How the customer would like to be addressed. */
+  title?: string;
+  /** Complete name as entered in the system. */
+  readonly name: string;
+}
+
+type PickTitle = Pick<Customer, 'title'>;
+//   ^? type PickTitle = { title?: string; }
+type PickName = Pick<Customer, 'name'>;
+//   ^? type PickName = { readonly name: string; }
+type ManualName = { [K in 'name']: Customer[K]; };
+//   ^? type ManualName = { name: string; }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/JYOwLgpgTgZghgYwgAgMIFcDOYD2BbaZAbwChlkB6AKiuQAkcB3ZMACxQS1wKmUZ3QAbACbJBwANYpcyAEYo4w4VAiZMEYQDpkVCmRbAwgiAH4AXMmxRQAcwDc+6rVT4ADscjIQcAsjiZkCHBoDWRQFnZLAE9sCDxtXX0VRRwQQSivHwgLK1sHAF8SEjAo1xQABWAECQAVQ2NkAF5kSuqAHgxsfGgAGmQAcjB6iH6APgcKCnJkAD0TFlKKqtrhpuIDI1McsGsQe2RCkrKW5YA5LLXWiQ6ubqg+-u8CMYmp8jmF46vz32aiZGSwlS6UyBG2u32h0WyAAsnAQOg4IIfig-sgANoAaTCIAGTxGAF0LJ1uNAsQS7AdXtMPkcUHCEUiUWt-vjwXkDiQgA)
+
+----
+
+```ts
+type PartialNumber = Partial<number>;
+//   ^? type PartialNumber = number
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/C4TwDgpgBACghgJ2ASzgGwHIFcC2AjCBKAXlkRXQB4A7XAhAPgG4AoAejai4D0B+KUJDJJUmOoRJRa+QiyA)
+
+----
+
+```ts
+const INIT_OPTIONS = {
+  width: 640,
+  height: 480,
+  color: '#00FF00',
+  label: 'VGA',
+};
+interface Options {
+  width: number;
+  height: number;
+  color: string;
+  label: string;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/MYewdgzgLgBAkgOTgFQPoHkAKy7oQZRgF4YBvAKBhgHcBLAEygAsAuGANgBYAGAGkphMAprQDmTKG04AOPgNAAbEACc2AcgDE3bgDEd2tfyoKAhgCMhC9QDUA4gEFD5AL4BucrTBQhygGYngIRh0AAcoWnAIMgE6RlYYMABXAFsLZXcqYTEJNiTUnwyYRRU2aGVPUULTCysYMor3Z3IgA)
+
+----
+
+```ts
+type Options = typeof INIT_OPTIONS;
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/MYewdgzgLgBAkgOTgFQPoHkAKy7oQZRgF4YBvAKBhgHcBLAEygAsAuGANgBYAGAGkphMAprQDmTKG04AOPgNAAbEACc2AcgDE3bgDEd2tfyoKAhgCMhC9QDUA4gEFD5AL4BuclACeAByEx03lC04BDEMF6+IABm8EhoWDh4+O5AA)
+
+----
+
+```ts
+function getUserInfo(userId: string) {
+  // ...
+  return {
+    userId,
+    name,
+    age,
+    height,
+    weight,
+    favoriteColor,
+  };
+}
+// Return type inferred as { userId: string; name: string; age: number, ... }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/MYewdgzgLgBAkgOTgFQPoHkAKy7oQZRgF4YBvAKBhgHcBLAEygAsAuGANgBYAGAGkphMAprQDmTKG04AOPgNAAbEACc2AcgDE3bgDEd2tfyoKAhgCMhC9QDUA4gEFD5AL4BucgDMArmGBRa4DCiQlAAqhBCynBgHiAAFF4RUfRs0Mq0YKIAlGQCAPR5MADC6ACymABKAKL4+PLg0DBgJgC2QsQwagBCIGZq7lSgkLAmwR0AjABMAzBDjcJiEh0yM3Ow1CLisCQA7NyrDbAeJgBuKrRQQkUgSsodamYKXkL9+YVVCAAiAsohXspgXJUKiJSJwehGYHNNqQqijISwwSbCSIjaLKCI45ndKXa63SFuFzkAowCp-AEwKAATwADu0Mh5Ir96DATBAyDBQclUlB0plXE1WkIeXzRAL4WwwF4WhZlLwYAA6JUwZzkchAA)
+
+----
+
+```ts
+type UserInfo = ReturnType<typeof getUserInfo>;
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/MYewdgzgLgBAkgOTgFQPoHkAKy7oQZRgF4YBvAKBhgHcBLAEygAsAuGANgBYAGAGkphMAprQDmTKG04AOPgNAAbEACc2AcgDE3bgDEd2tfyoKAhgCMhC9QDUA4gEFD5AL4BucgDMArmGBRa4DCiQlAAqhBCynBgHiAAFF4RUfRs0Mq0YKIAlGQCAPR5MADC6ACymABKAKL4+PLg0DBgJgC2QsQwagBCIGZq7lSgkLAmwR0AjABMAzBDjcJiEh0yM3Ow1CLisCQA7NyrDbAeJgBuKrRQQkUgSsodamYKXkL9+YVVCAAiAsohXspgXJUKiJSJwehGYHNNqQqijISwwSbCSIjaLKCI45ndKXa63SFuFzkAowCp-AEwKAATwADu0Mh5Ir96DATBAyDBQclUlB0plXE1WkIeXzRAL4WwwF4WhZlLwYAA6JUwZzkcjUukwcJgmIgDpkqD-MDIWlCAA8GqEIA8QRC2qiuoAfO4gA)
+
+----
+
+```ts
+interface Product {
+  id: number;
+  name: string;
+  priceDollars: number;
+}
+interface Customer {
+  id: number;
+  name: string;
+  address: string;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgApQPYBMCuCzIDeAUMssFgFzIg4C2ARtANyk1x0TUDOYUoAc1ZkADvyQARDABtpcKN2q1GLYgF9ioSLEQoAwjl4ZOUImwpL6TKMPacefQbbhYsUCN0XJe-EEPXEQA)
+
+----
+
+```ts
+// Don't do this!
+interface NamedAndIdentified {
+  id: number;
+  name: string;
+}
+interface Product extends NamedAndIdentified {
+  priceDollars: number;
+}
+interface Customer extends NamedAndIdentified {
+  address: string;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEBEHsDsHIBdQBNKngCwJYGcCEAoTaeAUwCcAzAQwGMTQA5KgWxKQEFokBJJE4zBUxtQAb3yhQmJAC5Q0AK7MARuQDcE+SxJzs8MkQDmGgL6Fi5anVAAFMpCQKaiEgA9SXbI20cuvfvCCwkhimgAOBnRQADbRVGTYcooq6vhmRKSUtPQAwgp6kKxkoG4eSF5MrL48fAJCIuKSVEhIZCTYiaB6BtDGafhAA)
+
+
+# Prefer More Precise Alternatives to Index Signatures
+
+## Things to Remember
+
+- Understand the drawbacks of index signatures: much like `any`, they erode type safety and reduce the value of language services.
+- Prefer more precise types to index signatures when possible: ++interface++s, `Map`, ++Record++s, mapped types, or index signatures with a constrained key space.
+
+
+
+## Code Samples
+
+```ts
+const rocket = {
+  name: 'Falcon 9',
+  variant: 'Block 5',
+  thrust: '7,607 kN',
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBATiYBrAprAvDA3gKBjMAQwFsUAuGAcgDFCAbUMGATkoBo8YA3QuAS0JgoFSgCE6iJDACs7TlAAWcAK7QRAdjYA2AAzqYSAHJyAvgG4cQA)
+
+----
+
+```ts
+type Rocket = {[property: string]: string};
+const rocket: Rocket = {
+  name: 'Falcon 9',
+  variant: 'v1.0',
+  thrust: '4,940 kN',
+};  // OK
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBASg9gYwNYWFAvFA3gbTAJzkn1AC4oBnYfASwDsBzAXXKtsYF8BuAKATjpUohZKnLxRaTFh5QodAIYBbCOQDkAMQUAbfnSgBONQBpZUAG4LaCusHXmAjADoADCbPAAFvgCuVdQAsxgYBLlBIAHLu3HIA9LFQAPIA0jxAA)
+
+----
+
+```ts
+interface Rocket {
+  name: string;
+  variant: string;
+  thrust_kN: number;
+}
+const falconHeavy: Rocket = {
+  name: 'Falcon Heavy',
+  variant: 'v1',
+  thrust_kN: 15200,
+};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYgA)
+
+----
+
+```ts
+function parseCSV(input: string): {[columnName: string]: string}[] {
+  const lines = input.split('\n');
+  const [headerLine, ...rows] = lines;
+  const headers = headerLine.split(',');
+  return rows.map(rowStr => {
+    const row: {[columnName: string]: string} = {};
+    rowStr.split(',').forEach((cell, i) => {
+      row[headers[i]] = cell;
+    });
+    return row;
+  });
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQhAA)
+
+----
+
+```ts
+interface ProductRow {
+  productId: string;
+  name: string;
+  price: string;
+}
+
+declare let csvData: string;
+const products = parseCSV(csvData) as unknown[] as ProductRow[];
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZsIA)
+
+----
+
+```ts
+function parseCSVMap(input: string): Map<string, string>[] {
+  const lines = input.split('\n');
+  const [headerLine, ...rows] = lines;
+  const headers = headerLine.split(',');
+  return rows.map(rowStr => {
+    const row = new Map<string, string>();
+    rowStr.split(',').forEach((cell, i) => {
+      row.set(headers[i], cell);
+    });
+    return row;
+  });
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZFEplCrE6qI3tNACylLaIA6XSFfRoe8qAB5M0IftemPTp0QHno8OCdnsDmAZViLtdcewWzNeFPm+X5-iBEE9jfWgoRbFELT2eCoDRCBv2xeUXUld1iVJWhyX3KUoENJ9mRbUk9ghaNzyvGYmFvWj6RaTDmUItC5QVJVVXVTVtV1fYDUcRkSONUljlwFokMta0fl45inTkt0wEJHCgW9F0tCAA)
+
+----
+
+```ts
+const rockets = parseCSVMap(csvData);
+const superHeavy = rockets[2];
+const thrust_kN = superHeavy.get('thrust_kN');  // 74,500
+//    ^? const thrust_kN: string | undefined
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZFEplCrE6qI3tNACylLaIA6XSFfRoe8qAB5M0IftemPTp0QHno8OCdnsDmAZViLtdcewWzNeFPm+X5-iBEE9jfWgoRbFELT2eCoDRCBv2xeUXUld1iVJWhyX3KUoENJ9mRbUk9ghaNzyvGYmFvWj6RaTDmUItC5QVJVVXVTVtV1fYDUcRkSONUljlwFokMta0fl45inTkt0wEJHCgW9F0tDIzAcDALtN1qRpd33Kta3rOAXRbWgJEqaBAmsPYAXsHTBiyWZm1ZZAxEkGR5D2SzrKgWyrEOJhxI8TzklSXESAAemi5AAHYABYQgyPJCFi40AD0AH4WRfDykm8tI72QAAfZASneGBtleQggA)
+
+----
+
+```ts
+function parseRocket(map: Map<string, string>): Rocket {
+  const name = map.get('name');
+  const variant = map.get('variant');
+  const thrust_kN = Number(map.get('thrust_kN'));
+  if (!name || !variant || isNaN(thrust_kN)) {
+    throw new Error(`Invalid rocket: ${map}`);
+  }
+  return {name, variant, thrust_kN};
+}
+const rockets = parseCSVMap(csvData).map(parseRocket);
+//    ^? const rockets: Rocket[]
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZFEplCrE6qI3tNACylLaIA6XSFfRoe8qAB5M0IftemPTp0QHno8OCdnsDmAZViLtdcewWzNeFPm+X5-iBEE9jfWgoRbFELT2eCoDRCBv2xeUXUld1iVJWhyX3KUoENJ9mRbUk9ghaNzyvGYmFvWj6RaTDmUItC5QVJVVXVTVtV1fYDUcRkSONUljlwFokMta0fl45inTkt0wEJHCgW9F0tGKUpyiqHs7Bwc4KUqM9KRoxZ6MWel+jQTB9KZFt0z2QzDiYcSPHTf9n30CJgF4PBnCclzsW83yPJZF9kDESQZHkPY5GUNQoBaALXMi5JUluZjgBgZAWgAQgcgAfArkFy4LwGQIr9loCY5BaVLorkXoDWEiLxCBUgIGjFUoABRKAAMExALgtleE17GPAASfBDI0PrmK0LClI9fB0x+MqwB+eqUnkcUtDImzcC7TdakaXd9yrWt6zgXp8KpY6ID03AXQAeme40AD0AH4wv0AFxtoWwDrAFZCCAA)
+
+----
+
+```ts
+interface Row1 { [column: string]: number }  // Too broad
+interface Row2 { a: number; b?: number; c?: number; d?: number }  // Better
+type Row3 =
+    | { a: number; }
+    | { a: number; b: number; }
+    | { a: number; b: number; c: number;  }
+    | { a: number; b: number; c: number; d: number };  // Also better
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZFEplCrE6qI3tNACylLaIA6XSFfRoe8qAB5M0IftemPTp0QHno8OCdnsDmAZViLtdcewWzNeFPm+X5-iBEE9jfWgoRbFELT2eCoDRCBv2xeUXUld1iVJWhyX3KUoENJ9mRbUk9ghaNzyvGYmFvWj6RaTDmUItC5QVJVVXVTVtV1fYDUcRkSONUljlwFokMta0fl45inTkt0wEJHCgW9F0tH9aB4CQNAgViAhkE5bkQHzQUlFUaBkBFZAAHobOQAAVdB0GQFQAXhP1wC0oNdMBLIDMbUhlDUKAWFcgB+RRgvUaFIqCizQuQV44vMkKrJIOzkAAIVwANCDAKxKhQKMAGYnFdAAfAKooSsKtGNKr8BnGqQrClQWpi+rmUa5r4ta1yOsShBBrCqzKuqvqYvayahpGpLBqs0bMoAQUMWgXLUMA8qAA)
+
+----
+
+```ts
+type Vec3D = Record<'x' | 'y' | 'z', number>;
+//   ^? type Vec3D = {
+//        x: number;
+//        y: number;
+//        z: number;
+//      }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZFEplCrE6qI3tNACylLaIA6XSFfRoe8qAB5M0IftemPTp0QHno8OCdnsDmAZViLtdcewWzNeFPm+X5-iBEE9jfWgoRbFELT2eCoDRCBv2xeUXUld1iVJWhyX3KUoENJ9mRbUk9ghaNzyvGYmFvWj6RaTDmUItC5QVJVVXVTVtV1fYDUcRkSONUljlwFokMta0fl45inTkt0wEJHCgW9F0tDAKxKhQJoIAQABmGs9lQPTlVeC8PAADw8ZAAB9omCOzogAL1CUhlDUKB6TYAB6HzmQAPQAfmQTTtOQXSDKM5wiD841jUsxQPPUQg4vikgbHc1QUrS9LnKS7KoF8-z4q0IA)
+
+----
+
+```ts
+declare function renderAButton(props: ButtonProps): void;
+interface ButtonProps {
+  title: string;
+  onClick: () => void;
+}
+
+renderAButton({
+  title: 'Roll the dice',
+  onClick: () => alert(1 + Math.floor(6 * Math.random())),
+  theme: 'Solarized',
+// ~~~~ Object literal may only specify known properties…
+});
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/CYUwxgNghgTiAEAzArgOzAFwJYHtXzlVBgEEAhZDDPACgAcYc6BnALngqrwAVGWBKdgDccWYAG4AUFlQYQMRFDAJO1VLybN4Ab0nx42DBBDtmGGDIDmU-XgDCELGADW7Gv3gBeAHzwRYqQBfSUlCYnJKNRpdfUNjdgByACUcCAgDAAsEYCcQBIAaPXh7Rxc3Dx94KGMYDBoARngAangAWSgMDIA6RAgcHBgaADZ4ACo2ju6YKCIcAFt3fn5C2Ky5k3gEgGVU2CwALxBgAskAelP4AD9ry-gAeQAjACtwDHhHOWn0uagAT2LUBB-sw6OAsIh-s5UDgAO74BhMeTYEDMQBkBJJAvwpEA)
+
+----
+
+```ts
+interface ButtonProps {
+  title: string;
+  onClick: () => void;
+  [otherProps: string]: unknown;
+}
+
+renderAButton({
+  title: 'Roll the dice',
+  onClick: () => alert(1 + Math.floor(20 * Math.random())),
+  theme: 'Solarized',  // ok
+});
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/CYUwxgNghgTiAEAzArgOzAFwJYHtXzlVBgEEAhZDDPACgAcYc6BnALngqrwAVGWBKdgDccWYAG4AUFlQYQMRFDAJO1VLybN4Ab0nx42DBBDtmGGDIDmU-XgDCELGADW7Gv3gBeAHzwRYm3gAbRwMAAt5DRZTcysAXXY0Z1QcAHdUKQBfSUlCYnJKNRpdfUNjdgByACUcCAgDCPhgJxAKgBo9eHtHFzcPH3goYxgMGgBGeABqeABZKHCAOkQIHBwYGgAmAAZ4ACpZ+bCFmCgiHABbd35+DtKI85N4CoBlWtgsAC8QYHb9AHo-l1nJJMvwpEA)
+
+
+# Avoid Numeric Index Signatures
+
+## Things to Remember
+
+- Understand that arrays are objects, so their keys are strings, not numbers. `number` as an index signature is a purely TypeScript construct designed to help catch bugs.
+- Prefer `Array`, tuple, `ArrayLike`, or `Iterable` types to using `number` in an index signature yourself.
+## Code Samples
+
+```ts
+interface Array<T> {
+  // ...
+  [n: number]: T;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgIJSnAngHgCoB8yA3gFDLID0lyAdPecgNogBcyIArgLYBG0AXXZ4A3KQC+pIA)
+
+----
+
+```ts
+const xs = [1, 2, 3];
+const x0 = xs[0];  // OK
+const x1 = xs['1'];  // stringified numeric constants are also OK
+
+const inputEl = document.getElementsByTagName('input')[0];
+const xN = xs[inputEl.value];
+//            ~~~~~~~~~~~~~ Index expression is not of type 'number'.
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBAHhGBeGBtAjAGhgJmwZgF0BuAKFEljgAZl4JVqSYYB6VmAeQGlzxp46OglQBydKOZsO0AE4BLMAHN5AM3kBTACYwwAVwC2GhcBgVoAQzBREF2RpgWANhBBdefSjEUAHPVABRJzotEGBDDWsAOiUNQKcNI2sIACEATwAVCyUAOQsjAApRX39RAEpGEk8BOBzhBhL4qIA3Zz0NKvYWbp7ugD8BwaHBmABJMC0NOBgpn3sICHlwb0QwEFgQVRgoNJ8HUX0DACNjUSjSIA)
+
+----
+
+```ts
+const keys = Object.keys(xs);
+//    ^? const keys: string[]
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBAHhGBeGBtAjAGhgJmwZgF0BuAKFElgGsBTAT0RQHkAjAKxuCgDpaGAKBAEoyAelExJMAHoB+GBWgw+EAFwAC6ACcAlmADmqQqSA)
+
+----
+
+```ts
+function checkedAccess<T>(xs: ArrayLike<T>, i: number): T {
+  if (i >= 0 && i < xs.length) {
+    return xs[i];
+  }
+  throw new Error(`Attempt to access ${i} which is past end of array.`)
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBAHhGBeGBtAjAGhgJmwZgF0BuAKADMBXMYKAS3BmAAsBTYAa1YBMBBYYKwgQAPABUAfAAoEALhi8ATooCGATwAydLuInY68sJQC2AI1aKAlPLEwA3qRgw65GFLowJKAAwwAZH7OMCLwEAB0ADasYADmUMyW9o5OMIqsUJSKYKGodCTJAL7J8YogAO4wYKwVAKLKIIpSAAa8UFCsxgAOsFAgMCoCQogAJHZ0BTBlzHQszoidKtAw0dwwIK4qyuphTZakRUA)
+
+----
+
+```ts
+const tupleLike: ArrayLike<string> = {
+  '0': 'A',
+  '1': 'B',
+  length: 2,
+};  // OK
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBAHhGBeGBtAjAGhgJmwZgF0BuAKFEligFcAHAGwFMAZASwGtGAuGAQQCd+AQwCebTgB5o-VmADmAPmQwA3qRgwA5AAZNPTb02Z1W9Hq0AhIyabyoACx55SAX2IaA9B5gB5ANKkQA)
+
+
 # Understand Evolving any
 
 - example 1:
