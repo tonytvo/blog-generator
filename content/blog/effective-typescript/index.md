@@ -661,6 +661,493 @@ const post = makeApiCall()
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern)
 - [@flagg2/result](https://github.com/flagg2/result)
 
+# Recognize the Limits of Excess Property Checking 
+
+- When you assign an object literal to a variable or pass it as an argument to a function, it undergoes excess property checking.
+- Excess property checking is an effective way to find errors, but it is distinct from the usual structural assignability checks done by the TypeScript type checker. Conflating these processes will make it harder for you to build a mental model of assignability.
+- Be aware of the limits of excess property checking: introducing an intermediate variable will remove these checks.
+
+```ts
+//When you assign an object literal to a variable with a declared type, TypeScript makes sure it has the properties of that type and no others:
+//you've triggered a process known as "excess property checking," which helps catch an important class of errors that the structural type system would otherwise miss
+interface Room {
+  numDoors: number;
+  ceilingHeightFt: number;
+}
+const r: Room = {
+  numDoors: 1,
+  ceilingHeightFt: 10,
+  elephant: 'present',
+  //~`Object literal may only specify known properties, and 'elephant' does not exist in type 'Room'
+};
+
+//The elephant constant is assignable to the Room type, which you can see by introducing an intermediate variable:
+//The type of obj is inferred as { numDoors: number; ceilingHeightFt: number; elephant: string}. Because this type includes a subset of the values in the
+//Room type, it is assignable to Room, and the code passes the type checker
+const obj = {
+  numDoors: 1, 
+  ceilingHeightFt: 10,
+  elephant: 'present',
+};
+const r:
+Room = obj; // OK, as the right hand side is not object literal
+
+//TypeScript goes beyond trying to flag code that will throw exceptions at runtime. It also tries to find code that doesn't do what you intend. Here's an example of the latter:
+interface Options {
+  title: string;
+  darkMode?: boolean;
+}
+
+function createWindow(options: Options) {
+  if (options.darkMode) {
+    setDarkMode();
+  }
+  // ...
+}
+
+createWindow({
+  title: 'Spider Solitaire',
+  darkmode: true
+  // Object literal may only specify known properties, but 'darkmode' does not exist in type 'Options'.
+  // Did you mean to write 'darkMode'?
+});
+
+
+// Excess property checking does not happen when you use a type assertion:
+const o = { darkmode: true, title: 'Ski Free' } as Options; // OK
+// This is a good reason to prefer declarations to assertions
+
+// If you don't want this sort of check, you can tell TypeScript to expect additional properties using an index signature:
+interface Options {
+  darkMode?: boolean;
+  [otherOptions: string]: unknown;
+}
+const o: Options = { darkmode: true }; // OK
+
+
+//A related check happens for "weak" types, which have only optional properties:
+interface LineChartOptions (
+  logscale?: boolean;
+  invertedYAxis?: boolean;
+  areaChart?: boolean;
+}
+const opts = { logScale: true };
+const o: LineChartOptions = opts;
+// ~ Type '{ logScale: boolean; }' has no properties in common // with type 'LineChartOptions'
+//For weak types like this, TypeScript adds another check to make sure that the value type and declared type have at least one property in common.
+```
+
+
+# Apply Types to Entire Function Expressions When Possible
+
+- Consider applying type annotations to entire function expressions, rather than to their parameters and return type.
+- If you're writing the same type signature repeatedly, factor out a function type or look for an existing one. If you're a library author, provide types for common callbacks.
+- Use typeof fn to match the signature of another function.
+
+
+```ts
+JavaScript (and TypeScript) distinguishes a function statement and a function expression:
+function rollDice1(sides: number): number {/..."/} // Statement
+const rollDice2=function(sides: number): number {/*..*/ }; // Expression const rollDice3 = (sides: number): number => { /* ... */ }; // Also expression
+An advantage of function expressions in TypeScript is that you can apply a type declaration to the entire function at once, rather than specifying the types of the parameters and return type individually:
+type DiceRollFn = (sides: number) => number; const rollDice: DiceRollFn = sides => { /* ... /};
+If you mouse over sides in your editor, you'll see that TypeScript knows its type is number. The function type doesn't provide much value in such a simple example, but the technique does open up a number of possibilities.
+One is reducing repetition. If you wanted to write several functions for doing arithmetic on numbers, for instance, you could write them like this:
+function add(a: number, b: number) { return a + b;} function sub(a: number, b: number) { return a-b;} function mul(a: number, b: number) { return a *b; } function div(a: number, b: number) { return a /b;}
+or consolidate the repeated function signatures with a single function type:
+type BinaryFn = (a: number, b: number) -> number;
+const add: BinaryFn = (a, b) => a+b;
+const sub: BinaryFn = (a, b) => a-b;
+const mul: BinaryFn = (a, b) => a*b;
+const div: BinaryFn = (a, b) => a/b;
+This has fewer type annotations than before, and they're separated away from the function implementations. This makes the logic more apparent. You've also gained a check that the return type of all the function expressions is number.
+Libraries often provide types for common function signatures. For example, ReactJS provides a MouseEventHandler type that you can apply to an entire function rather than specifying MouseEvent as a type for the function's parameter. If you're a library author, consider providing type declarations for common callbacks.
+Another place you might want to apply a type to a function expression is to match the signature of some other function. In a web browser, for example, the fetch function issues an HTTP request for some resource:
+const responseP - fetch('/quote?by-Mark Twain'); // Type is Promise<Response>
+You extract data from the response via response.json() or response.text():
+async function getQuote() {
+const response = await fetch('/quote?by-Mark+Twain');
+const quote = await response.json();
+return quote;
+}
+1/1
+// "quote": "If you tell the truth, you don't have to remember anything.",
+// "source": "notebook",
+// "date": "1894"
+There's a bug here: if the request for /quote fails, the response body is likely to contain an explanation like "404 Not Found." This isn't JSON, so response.json() will return a rejected Promise with a message about invalid JSON. This obscures the real error, which was a 404.
+It's easy to forget that an error response with fetch does not result in a rejected Promise. Let's write a checkedFetch function to do the status check for us. The type declarations for fetch in lib.dom.d.ts look like this:
+declare function fetch(
+input: RequestInfo, init?: RequestInit
+): Promise<Response>;
+So you can write checked Fetch like this:
+async function checked Fetch(input: RequestInfo, init?: RequestInit){
+const response = await fetch(input, init);
+if (!response.ok){
+// Converted to a rejected Promise in an async function
+J
+throw new Error('Request failed: ' + response.status); return response,
+J
+This works, but it can be written more concisely:
+const checkedFetch: typeof fetch - async (input, init) => {
+const response = await fetch(input, init);
+if (!response.ok) {
+throw new Error('Request failed:' + response.status);
+return response,
+We've changed from a function statement to a function expression and applied a type (typeof fetch) to the entire function. This allows TypeScript to infer the types of the input and init parameters.
+The type annotation also guarantees that the return type of checkedFetch will be the same as that of fetch. Had you written return instead of throw, for example, TypeScript would have caught the mistake:
+const checkedFetch: typeof fetch - async (input, init) => { Type 'Promise<Response [HTTPError>'
+//
+is not assignable to type 'Promise<Response>' Type 'Response HTTPError' is not assignable to type 'Response'
+const response await fetch(input, init);
+if (!response.ok) {
+return new Error('Request failed:' + response.status);
+J
+return response;
+J
+The same mistake in the first example would likely have led to an error, but in the code that called checkedFetch, rather than in the implementation.
+In addition to being more concise, typing this entire function expression instead of its parameters has given you better safety. When you're writing a function that has the same type signature as another one, or writing many functions with the same type signature, consider whether you can apply a type declaration to entire functions, rather than repeating types of parameters and return values.
+```
+
+
+# Know the Differences Between type and interface
+
+- Understand the differences and similarities between type and interface.
+- Know how to write the same types using either syntax.
+- In deciding which to use in your project, consider the established style and whether augmentation might be beneficial.
+
+```ts
+If you want to define a named type in TypeScript, you have two options. You can use a type, as shown here:
+type TState = {
+name: string; capital: string;
+or an interface:
+interface IState { name: string;
+}
+capital: string;
+(You could also use a class, but that is a JavaScript runtime concept that also introduces a value. See Item 8.)
+Which should you use, type or interface? The line between these two options has become increasingly blurred over the years, to the point that in many situations you can use either. You should be aware of the distinctions that remain between type and interface and be consistent about which you use in which situation. But you should also know how to write the same types using both, so that you'll be comfortable reading TypeScript that uses either.
+The examples in this item prefix type names with I or T solely to indicate how they were defined. You should not do this in your code! Prefixing interface types with I is common in C#, and this convention made some inroads in the early days of TypeScript. But it is considered bad style today because it's unnecessary, adds little value, and is not consistently followed in the standard libraries.
+First, the similarities: the State types are nearly indistinguishable from one another. If you define an IState or a TState value with an extra property, the errors you get are character-by-character identical:
+const wyoming: TState = {
+name: "Wyoming',
+capital: 'Cheyenne',
+population: 500_000
+//
+//
+//
+};
+~~ Type ... is not assignable to type 'TState' Object literal may only specify known properties, and 'population' does not exist in type 'TState'
+You can use an index signature with both interface and type:
+type TDict - {[key: string]: string};
+}
+interface IDict {
+[key: string]: string;
+You can also define function types with either:
+type TFn = (x: number) -> string;
+interface IFn {
+(x: number): string;
+const toStrT: TFn = x -> " + x; // OK const toStrl: IFn-x->+x; // OK
+The type alias looks more natural for this straightforward function type, but if the type has properties as well, then the declarations start to look more alike:
+type TFnWithProperties = {
+J
+(x: number): number;
+prop: string;
+interface IFnWithProperties {
+J
+(x: number): number;
+prop: string;
+You can remember this syntax by reminding yourself that in JavaScript, functions are callable objects.
+Both type aliases and interfaces can be generic:
+type TPair<T> = {
+}
+first: T;
+second: T;
+interface IPair<T> {
+J
+first: T;
+second: T;
+An interface can extend a type (with some caveats, explained momentarily), and a type can extend an interface: interface IState WithPop extends TState {
+population: number;
+type TState WithPop - IState & { population: number; };
+Again, these types are identical. The caveat is that an interface cannot extend a complex type like a union type. If you want to do that, you'll need to use type and &.
+A class can implement either an interface or a simple type:
+class Statet implements TState {
+J
+J
+name: string="
+capital: string = ";
+class Statel implements IState {
+name: string="
+capital: string = ";
+Those are the similarities. What about the differences? You've seen one already there are union types but no union interfaces:
+type AorB = 'a' | 'b';
+An interface can extend some types, but not this one. Extending union types can sometimes be useful. If you have separate types for Input and Output variables and a mapping from name to variable:
+type Input = { /* ... */};
+type Output = {/...'));
+interface VariableMap {
+}
+[name: string]: Input Output;
+
+
+
+
+then you might want a type that attaches the name to the variable. This would be:
+type NamedVariable = (Input | Output) & { name: string};
+This type cannot be expressed with interface. A type is, in general, more capable than an interface. It can be a union, and it can also take advantage of more advanced features like mapped or conditional types.
+It can also more easily express tuple and array types:
+type Pair - (number, number);
+type StringList = string[];
+type NamedNums - [string,...number[]];
+You can express something like a tuple using interface:
+interface Tuple (
+}
+0: number;
+1: number;
+length: 2;
+constt: Tuple -[10,20]; //OK
+But this is awkward and drops all the tuple methods like concat. Better to use a type. For more on the problems of numeric indices, see Item
+16.
+An interface does have some abilities that a type doesn't, however. One of these is that an interface can be augmented. Going back to the State example, you could have added a population field in another way:
+interface IState {
+}
+name: string;
+capital: string;
+interface IState {
+population: number;
+const wyoming: IState = {
+name: "Wyoming',
+capital: 'Cheyenne',
+population: 500_000
+}; // OK
+This is known as "declaration merging," and it's quite surprising if you've never seen it before. This is primarily used with type declaration files (Chapter 6), and if you're writing one, you should follow the norms and use interface to support it. The idea is that there may be gaps in your type declarations that users need to fill, and this is how they do it.
+TypeScript uses merging to get different types for the different versions of JavaScript's standard library. The Array interface, for example, is defined in lib.es5.d.ts. By default this is all you get. But if you add ES2015 to the lib entry of your tsconfig.json, TypeScript will also include lib.es2015.d.ts. This includes another Array interface with additional methods like find that were added in ES2015. They get added to the other Array interface via merging. The net effect is that you get a single Array type with exactly the right methods.
+Merging is supported in regular code as well as declarations, and you should be aware of the possibility. If it's essential that no one ever augment your type, then use type.
+Returning to the question at the start of the item, should you use type or interface? For complex types, you have no choice: you need to use a type alias. But what about the simpler object types that can be represented either way? To answer this question, you should consider consistency and augmentation. Are you working in a codebase that consistently uses interface? Then stick with interface. Does it use type? Then use type.
+For projects without an established style, you should think about augmentation. Are you publishing type declarations for an API? Then it might be helpful for your users to be able to be able to merge in new fields via an interface when the API changes. So use interface. But for a
+type that's used internally in your project, declaration merging is likely to be a mistake. So prefer type.
+```
+
+
+# Use Type Operations and Generics to Avoid Repeating Yourself
+
+- The DRY (don't repeat yourself) principle applies to types as much as it applies to logic.
+- Name types rather than repeating them. Use extends to avoid repeating fields in interfaces.
+- Build an understanding of the tools provided by TypeScript to map between types. These include keyof, typeof, indexing, and mapped types.
+- Generic types are the equivalent of functions for types. Use them to map between types instead of repeating types. Use extends to constrain generic types.
+- familiarize yourself with generic types defined in the standard library such as Pick, Partial, and ReturnType
+
+```ts
+This script prints the dimensions, surface areas, and volumes of a few cylinders:
+console.log('Cylinder 1 x 1',
+'Surface area:', 6.283185*1*1+6.283185*1*1,
+'Volume:', 3.14159*1*1*1);
+console.log('Cylinder 1 x 2',
+'Surface area:', 6.283185*1*1+6.283185*2*1,
+'Volume:', 3.14159*1*2*1);
+console.log('Cylinder 2 x 1',
+'Surface area:', 6.283185*2*1+6.283185*2*1,
+'Volume:', 3.14159*2*2*1);
+Is this code uncomfortable to look at? It should be. It's extremely repetitive, as though the same line was copied and pasted, then modified. It repeats both values and constants. This has allowed an error to creep in (did you spot it?). Much better would be to factor out some functions, a constant, and a loop:
+const surfaceArea = (r, h) -> 2* Math.PI*r* (r+h);
+const volume = (r, h) => Math.PI*r*r*h;
+for (const [r, h] of [[1, 1], [1, 2], [2, 1]]) {
+}
+console.log(
+`Cylinder ${r) x ${h}',
+Surface area: $(surfaceArea(r, h)}`,
+Volume: ${volume(r, h)}');
+This is the DRY principle: don't repeat yourself. It's the closest thing to universal advice that you'll find in software development. Yet developers who assiduously avoid repetition in code may not think twice about it in types:
+interface Person {
+}
+firstName: string;
+lastName: string;
+interface PersonWithBirthDate {
+}
+firstName: string;
+lastName: string; birth: Date;
+Duplication in types has many of the same problems as duplication in code. What if you decide to add an optional middleName field to Person? Now Person and PersonWithBirthDate have diverged.
+One reason that duplication is more common in types is that the mechanisms for factoring out shared patterns are less familiar than they are with code: what's the type system equivalent of factoring out a helper function? By learning how to map between types, you can bring the benefits of DRY to your type definitions.
+The simplest way to reduce repetition is by naming your types. Rather than writing a distance function this way:
+
+
+
+}
+function distance(a: {x: number, y: number), b: {x: number, y: number}) {
+return Math.sqrt((a.x-b.x)**2+(a.y - b.y)** 2);
+create a name for the type and use that:
+interface Point2D {
+x: number;
+y: number;
+function distance(a: Point2D, b: Point2D) { /* ... */ }
+This is the type system equivalent of factoring out a constant instead of writing it repeatedly. Duplicated types aren't always so easy to spot. Sometimes they can be obscured by syntax. If several functions share the same type signature, for instance:
+function get(url: string, opts: Options): Promise<Response> {/*.....'%). function post(url: string, opts: Options): Promise<Response> {/*..*/}
+Then you can factor out a named type for this signature:
+type HTTPFunction (url: string, opts: Options) => Promise<Response>; const get: HTTPFunction (url, opts) => {/.../);
+const post: HTTPFunction (url, opts) => {/...);
+For more on this, see Item 12.
+What about the Person/PersonWithBirth Date example? You can eliminate the repetition by making one interface extend the other:
+interface Person {
+}
+}
+firstName: string;
+lastName: string;
+interface Person WithBirthDate extends Person {
+birth: Date;
+Now you only need to write the additional fields. If the two interfaces share a subset of their fields, then you can factor out a base class with just these common fields. Continuing the analogy with code duplication, this is akin to writing PI and 2*PI instead of 3.141593 and 6.283185.
+You can also use the intersection operator (&) to extend an existing type, though this is less common:
+type PersonWithBirthDate = Person & { birth: Date};
+This technique is most useful when you want to add some additional properties to a union type (which you cannot extend). For more on this, see Item 13.
+You can also go the other direction. What if you have a type, State, which represents the state of an entire application, and another, TopNavState, which represents just a part?
+interface State (
+userld: string,
+pageTitle: string;
+recentFiles: string[];
+pageContents: string;
+interface TopNavState {
+userld: string,
+pageTitle: string;
+recentFiles: string();
+Rather than building up State by extending TopNavState, you'd like to define TopNavState as a subset of the fields in State. This way you can keep a single interface defining the state for the entire app.
+You can remove duplication in the types of the properties by indexing into State:
+type TopNavState = {
+};
+userid: State("userid");
+pageTitle: State['pageTitle'];
+recentFiles: State[recentFiles');
+While it's longer, this is progress: a change in the type of pageTitle in State will get reflected in TopNavState. But it's still repetitive. You can do better with a mapped type:
+type TopNavState -{
+};
+[k in 'userld''pageTitle' | 'recentFiles']: State[k]
+Mousing over TopNavState shows that this definition is, in fact, exactly the same as the previous one (see Figure 2-10).
+type TopNavState = { userId: string;
+}
+pageTitle: string; recentFiles: string[];
+type TopNavState = {
+}
+[k in 'userId' | 'pageTitle' | 'recentFiles']: State [k]
+Figure 2-10. Showing the expanded version of a mapped type in your text editor. This is the same as the initial definition, but with less duplication. Mapped types are the type system equivalent of looping over the fields in an array. This particular pattern is so common that it's part of the standard library, where it's called Pick:
+type Pick<T, K>= {[k in K): T[k]};
+(This definition isn't quite complete, as you will see.) You use it like this:
+type TopNavState - Pick-State, 'userld' | 'pageTitle' | 'recentFiles'>;
+Pick is an example of a generic type. Continuing the analogy to removing code duplication, using Pick is the equivalent of calling a function. Pick takes two types, T and K, and returns a third, much as a function might take two values and return a third.
+Another form of duplication can arise with tagged unions. What if you want a type for just the tag?
+interface SaveAction [
+type: 'save';
+II...
+}
+
+
+
+interface LoadAction {
+}
+type: 'load';
+//....
+type Action - SaveAction | LoadAction;
+type ActionType = 'save' | 'load'; // Repeated types!
+You can define ActionType without repeating yourself by indexing into the Action union:
+type ActionType - Action['type']; // Type is "save" ("load"
+As you add more types to the Action union, ActionType will incorporate them automatically. This type is distinct from what you'd get using Pick, which would give you an interface with a type property:
+type ActionRec - Pick Action, 'type'>; // {type: "save" ["load"}
+If you're defining a class which can be initialized and later updated, the type for the parameter to the update method will optionally include most of the same parameters as the constructor:
+interface Options {
+J
+width: number;
+height: number;
+color: string;
+label: string;
+You can do so with typeof:
+type Options=typeof INIT_OPTIONS;
+This intentionally evokes JavaScript's runtime typeof operator, but it operates at the level of TypeScript types and is much more precise. For more on typeof, see Item 8. Be careful about deriving types from values, however. It's usually better to define types first and declare that values are assignable to them. This makes your types more explicit and less subject to the vagaries of widening (Item 21). Similarly, you may want to create a named type for the inferred return value of a function or method:
+function getUserInfo(userId: string) {
+II...
+return {
+userld,
+}
+width: number;
+height: number;
+color: string;
+label: string;
+interface OptionsUpdate {
+width?: number;
+height?: number;
+}
+color?: string;
+label?: string;
+class UIWidget {
+}
+constructor(init: Options) { /* ... */ }
+update(options: OptionsUpdate) { /* ... */}
+You can construct OptionsUpdate from Options using a mapped type and keyof:
+type Options Update = {[k in keyof Options]?: Options[k]};
+keyof takes a type and gives you a union of the types of its keys:
+type OptionsKeys - keyof Options;
+// Type is "width"/"height" ["color" | "label"
+The mapped type ([k in keyof Options]) iterates over these and looks up the corresponding value type in Options. The ? makes each property optional. This pattern is also extremely common and is included in the standard library as Partial:
+class UIWidget {
+constructor(init: Options) { /*..*/}
+name,
+age, height, weight, favoriteColor,
+// Return type inferred as (userId: string; name: string; age: number,...)
+Doing this directly requires conditional types (see Item 50). But, as we've seen before, the standard library defines generic types for common patterns like this one. In this case the ReturnType generic does exactly what you want:
+type UserInfo - ReturnType<typeof getUserInfo>;
+Note that ReturnType operates on typeof getUserInfo, the function's type, rather than getUserInfo, the function's value. As with typeof, use this technique judiciously. Don't get mixed up about your source of truth.
+Generic types are the equivalent of functions for types. And functions are the key to DRY for logic. So it should come as no surprise that generics are the key to DRY for types. But there's a missing piece to this analogy. You use the type system to constrain the values you can map with a function: you add numbers, not objects; you find the area of shapes, not database records. How do you constrain the parameters in a generic type?
+You do so with extends. You can declare that any generic parameter extends a type. For example:
+interface Name {
+first: string;
+last: string;
+}
+update(options: Partial<Options>) { /* ... */ }
+}
+You may also find yourself wanting to define a type that matches the shape of a value:
+const INIT_OPTIONS - {
+};
+width: 640,
+height:480,
+color: '#00FF00",
+label: 'VGA',
+interface Options {
+type DancingDuo<T extends Name> - [T, T];
+const couple1: DancingDuo<Name> - [
+{first: Fred', last: 'Astaire'},
+{first: 'Ginger', last: 'Rogers"}
+; //OK
+const couple2: DancingDuo<{first: string}> = [
+// Property 'last' is missing in type
+//' first: string; )' but required in type 'Name' {first: 'Sonny'),
+{first: 'Cher}
+{first: string} does not extend Name, hence the error.
+
+
+At the moment, TypeScript always requires you to write out the generic parameter in a declaration. Writing DancingDuo instead of DancingDuo<Name> won't cut it. If you want TypeScript to infer the type of the generic parameter, you can use a carefully typed identity
+function:
+const dancingDuo = <T extends Name>(x: DancingDuo<T>)=>x;
+const couple1 = dancingDuo([
+(first: "Fred', last: 'Astaire'},
+{first: 'Ginger", last: 'Rogers']
+D);
+const couple2 = dancingDuo([
+(first: 'Bono'),
+{first: 'Prince'}
+// Property 'last' is missing in type
+// {first: string; )' but required in type 'Name'
+D;
+You can use extends to complete the definition of Pick from earlier. If you run the original version through the type checker, you get an error:
+type Pick<T, K> = {
+};
+[k in K]: T[k]
+//-Type 'K' is not assignable to type 'string / number / symbol
+K is unconstrained in this type and is clearly too broad: it needs to be something that can be used as an index, namely, string | number | symbol. But you can get narrower than that-K should really be some subset of the keys of T, namely, keyof T:
+type Pick<T, K extends keyof T> = {
+[k in K]: T[k]
+}; //OK
+Thinking of types as sets of values (Item 7), it helps to read "extends" as "subset of" here.
+As you work with increasingly abstract types, try not to lose sight of the goal: accepting valid programs and rejecting invalid ones. In this case, the upshot of the constraint is that passing Pick the wrong key will produce an error:
+type FirstLast = Pick<Name, 'first' | 'last'>; // OK type FirstMiddle - Pick<Name, 'first' | 'middle'>;
+// Type "middle" is not assignable
+// to type "first" ["last"
+Repetition and copy/paste coding are just as bad in type space as they are in value space. The constructs you use to avoid repetition in type space may be less familiar than those used for program logic, but they are worth the effort to learn. Don't repeat yourself!
+```
+
 # Understand Evolving any
 
 - example 1:
