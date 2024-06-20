@@ -855,6 +855,8 @@ const checkedFetch: typeof fetch = async (input, init) => {
 ----
 
 ```ts
+//what if you want to match the parameter types of another function but change the return type? This is possible using a rest parameter and the built-in Parameters utility type
+//you also benefit from this technique whenever you pass a callback to another function. When you use the map of filter method of an Array, for example, TypeScript is able to infer a type for the callback parameter, and it applies that type to your function expression.
 async function fetchANumber(
     ...args: Parameters<typeof fetch>
 ): Promise<number> {
