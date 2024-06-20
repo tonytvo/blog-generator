@@ -740,74 +740,145 @@ const o: LineChartOptions = opts;
 
 # Apply Types to Entire Function Expressions When Possible
 
-- Consider applying type annotations to entire function expressions, rather than to their parameters and return type.
-- If you're writing the same type signature repeatedly, factor out a function type or look for an existing one. If you're a library author, provide types for common callbacks.
-- Use typeof fn to match the signature of another function.
+# Item 12: Apply Types to Entire Function Expressions When Possible
 
+## Things to Remember
+
+- Consider applying type annotations to entire function expressions, rather than to their parameters and return type.
+- If you're writing the same type signature repeatedly, factor out a function type or look for an existing one.
+- If you're a library author, provide types for common callbacks.
+- Use `typeof fn` to match the signature of another function, or `Parameters` and a rest parameter if you need to change the return type.
+
+
+## Code Samples
 
 ```ts
-JavaScript (and TypeScript) distinguishes a function statement and a function expression:
-function rollDice1(sides: number): number {/..."/} // Statement
-const rollDice2=function(sides: number): number {/*..*/ }; // Expression const rollDice3 = (sides: number): number => { /* ... */ }; // Also expression
-An advantage of function expressions in TypeScript is that you can apply a type declaration to the entire function at once, rather than specifying the types of the parameters and return type individually:
-type DiceRollFn = (sides: number) => number; const rollDice: DiceRollFn = sides => { /* ... /};
-If you mouse over sides in your editor, you'll see that TypeScript knows its type is number. The function type doesn't provide much value in such a simple example, but the technique does open up a number of possibilities.
-One is reducing repetition. If you wanted to write several functions for doing arithmetic on numbers, for instance, you could write them like this:
-function add(a: number, b: number) { return a + b;} function sub(a: number, b: number) { return a-b;} function mul(a: number, b: number) { return a *b; } function div(a: number, b: number) { return a /b;}
-or consolidate the repeated function signatures with a single function type:
-type BinaryFn = (a: number, b: number) -> number;
-const add: BinaryFn = (a, b) => a+b;
-const sub: BinaryFn = (a, b) => a-b;
-const mul: BinaryFn = (a, b) => a*b;
-const div: BinaryFn = (a, b) => a/b;
-This has fewer type annotations than before, and they're separated away from the function implementations. This makes the logic more apparent. You've also gained a check that the return type of all the function expressions is number.
-Libraries often provide types for common function signatures. For example, ReactJS provides a MouseEventHandler type that you can apply to an entire function rather than specifying MouseEvent as a type for the function's parameter. If you're a library author, consider providing type declarations for common callbacks.
-Another place you might want to apply a type to a function expression is to match the signature of some other function. In a web browser, for example, the fetch function issues an HTTP request for some resource:
-const responseP - fetch('/quote?by-Mark Twain'); // Type is Promise<Response>
-You extract data from the response via response.json() or response.text():
-async function getQuote() {
-const response = await fetch('/quote?by-Mark+Twain');
-const quote = await response.json();
-return quote;
-}
-1/1
-// "quote": "If you tell the truth, you don't have to remember anything.",
-// "source": "notebook",
-// "date": "1894"
-There's a bug here: if the request for /quote fails, the response body is likely to contain an explanation like "404 Not Found." This isn't JSON, so response.json() will return a rejected Promise with a message about invalid JSON. This obscures the real error, which was a 404.
-It's easy to forget that an error response with fetch does not result in a rejected Promise. Let's write a checkedFetch function to do the status check for us. The type declarations for fetch in lib.dom.d.ts look like this:
-declare function fetch(
-input: RequestInfo, init?: RequestInit
-): Promise<Response>;
-So you can write checked Fetch like this:
-async function checked Fetch(input: RequestInfo, init?: RequestInit){
-const response = await fetch(input, init);
-if (!response.ok){
-// Converted to a rejected Promise in an async function
-J
-throw new Error('Request failed: ' + response.status); return response,
-J
-This works, but it can be written more concisely:
-const checkedFetch: typeof fetch - async (input, init) => {
-const response = await fetch(input, init);
-if (!response.ok) {
-throw new Error('Request failed:' + response.status);
-return response,
-We've changed from a function statement to a function expression and applied a type (typeof fetch) to the entire function. This allows TypeScript to infer the types of the input and init parameters.
-The type annotation also guarantees that the return type of checkedFetch will be the same as that of fetch. Had you written return instead of throw, for example, TypeScript would have caught the mistake:
-const checkedFetch: typeof fetch - async (input, init) => { Type 'Promise<Response [HTTPError>'
-//
-is not assignable to type 'Promise<Response>' Type 'Response HTTPError' is not assignable to type 'Response'
-const response await fetch(input, init);
-if (!response.ok) {
-return new Error('Request failed:' + response.status);
-J
-return response;
-J
-The same mistake in the first example would likely have led to an error, but in the code that called checkedFetch, rather than in the implementation.
-In addition to being more concise, typing this entire function expression instead of its parameters has given you better safety. When you're writing a function that has the same type signature as another one, or writing many functions with the same type signature, consider whether you can apply a type declaration to entire functions, rather than repeating types of parameters and return values.
+function rollDice1(sides: number): number { /* ... */ }  // Statement
+const rollDice2 = function(sides: number): number { /* ... */ };  // Expression
+const rollDice3 = (sides: number): number => { /* ... */ };  // Also expression
 ```
 
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAJzgGzQERhApgRgAoBnGAE12IC5EwQBbAI12QEoa6mXEBvRAegBUiAMIB5ALIAFAEoBRAMoLEg-ilxQQyJAAYA3AOFyAcphVqAvogFqFUAIZRc9XGCgAoCAmJQU6LDi4AEyIALyIoJCwCCTklBwMzGwJXMi8hqKSsorKquqa2oj6GSZmeRYGNohyAB4ADsiUpAie3r6oGNh4AMxhiLEU1LSJLOzDqWEAfOlCmdLySub5WroGs6VLFdb8agCCaMRwiLj1jcTNYO7uQA)
+
+----
+
+```ts
+type DiceRollFn = (sides: number) => number;
+const rollDice: DiceRollFn = sides => { /* ... */ };
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAIglgYwgJQPYBt0DEB2UC8UAFAM5wAmEJAXFDgK4C2ARhAE4CUBAfHU62wDcAKASocJYFDYZ08JLXkpZuAlDKUSPKAG8oAegBUUAMIB5ALIAFZAFEAyvaiH90iMHps8ABkEHjtgByMM6uAL4iwkA)
+
+----
+
+```ts
+function add(a: number, b: number) { return a + b; }
+function sub(a: number, b: number) { return a - b; }
+function mul(a: number, b: number) { return a * b; }
+function div(a: number, b: number) { return a / b; }
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwCaoBTIFyLCAWwCMBTAJwBpEjd9jyBKRAb0TJKhDKWUQGpqAbkQBfAFChIsBIgDOIIllqFSlasvpkmrdp24pEAWiGiJ4aPCQEQAGyV4V5KjQebtbDlx6IAVCfGSFjKoMABu9nSqzhqq7rpeBgD0-mJAA)
+
+----
+
+```ts
+type BinaryFn = (a: number, b: number) => number;
+const add: BinaryFn = (a, b) => a + b;
+const sub: BinaryFn = (a, b) => a - b;
+const mul: BinaryFn = (a, b) => a * b;
+const div: BinaryFn = (a, b) => a / b;
+//reduced type annotations and makes the logic more apparent
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAQglgOwIYCcQDEFQLxQBRIBcUCArgLYBGEKANFJcWVTQJQ4B8JF1KA3ACgAxgHsEAZ2BQkAExnF4yNJhz4k9Su2xckUANQNBoiVPGlGsRKgxZcBDVp1QAtIeFjJUcqQA2Cq8q2ag6c0lAAVG7GnjJwAG7+Sjaq9gyOYQD0bkA)
+
+----
+
+```ts
+declare function fetch(
+  input: RequestInfo, init?: RequestInit,
+): Promise<Response>;
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/CYUwxgNghgTiAEAzArgOzAFwJYHtVJAzAAsAKAKHni1QAdkMAueAJRAEdkQBnDASVSIcAGmqosGAPzM2nHv3EZh5AJTMACjBwBbLNxAAeNt1p59APgDc5IA)
+
+----
+
+```ts
+async function checkedFetch(input: RequestInfo, init?: RequestInit) {
+  const response = await fetch(input, init);
+  if (!response.ok) {
+    // An exception becomes a rejected Promise in an async function.
+    throw new Error(`Request failed: ${response.status}`);
+  }
+  return response;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/IYZwngdgxgBAZgV2gFwJYHsIygCwKZQDWeAJgGJ7K4AUqEADgsgFwwBKeAjgniMgJIQ46ADQw6qZAH5WHbrwERJAShgBvAFAxsmPjABOverrwwAvDGAB3YJPiUadRsjETkygNxbxcGNQCEhiDGECB4AHTohKqa2toA9PEwAIJYeAAeUHj0aJgwAEYE6AC2vJYGeABWBMikMAAK+iWoYeJYwO3g0PBIULkQ4d7ayDhNVjAQeOMAovpN+tQABnI8enC2ADakrAAkakEhYeF8wMgIIAC+i57eF96GZ-pYByZed0A)
+
+----
+
+```ts
+// we've changed from a function statement to a function expression and applied a type (typeof fetch) to the entire function. This allows TypeScript to infer the types of the input and init parameters.
+const checkedFetch: typeof fetch = async (input, init) => {
+  const response = await fetch(input, init);
+  if (!response.ok) {
+    throw new Error(`Request failed: ${response.status}`);
+  }
+  return response;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDDjhoMAE6IIJVYgbMA7k3HVa8Hn0EixkgNxLRVTgEJN23QDoQKKYuXKoeHUQAxgwRFCAUXVg9U4AAwAlRABHfi1YCmMAGwwCABI5Nx1IRA9oJih+CABfeIl7ZRqHTSr1MA0tEohEe2agA)
+
+----
+
+```ts
+const checkedFetch: typeof fetch = async (input, init) => {
+  //  ~~~~~~~~~~~~
+  //  'Promise<Response | HTTPError>' is not assignable to 'Promise<Response>'
+  //    Type 'Response | HTTPError' is not assignable to type 'Response'
+  // The type annotation also guarantees that the return type of checkedFetch will be the same as that of fetch.
+  // by changing the throw to return, typescript caught the mistake as above
+  const response = await fetch(input, init);
+  if (!response.ok) {
+    return new Error('Request failed: ' + response.status);
+  }
+  return response;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xQA)
+
+----
+
+```ts
+async function fetchANumber(
+    ...args: Parameters<typeof fetch>
+): Promise<number> {
+  const response = await checkedFetch(...args);
+  const num = Number(await response.text());
+  if (isNaN(num)) {
+    throw new Error(`Response was not a number.`);
+  }
+  return num;
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xLDYHAo-HYUG44HWuHgAEEAHL8SypRB-fTKK48phmRIQAgmPlMSw4DkQOzEMiUOkIaQKCRCizWWx2MCs9lheSTNwzBGNBjMFZrBDINBYDacHlXPkC9G66bRVlGllsjmcZarfWXWxXKCIAAeUE4EgdymOXBsTKYTM4GssYZ1jyg8AsXzAn2+IV+nAABmNDSsojE4s73WYrnnwzBscpcW9y8SFEA)
+
+----
+
+```ts
+fetchANumber
+// ^? function fetchANumber(
+//      input: RequestInfo | URL, init?: RequestInit | undefined
+//    ): Promise<number>
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xLDYHAo-HYUG44HWuHgAEEAHL8SypRB-fTKK48phmRIQAgmPlMSw4DkQOzEMiUOkIaQKCRCizWWx2MCs9lheSTNwzBGNBjMFZrBDINBYDacHlXPkC9G66bRVlGllsjmcZarfWXWxXKCIAAeUE4EgdymOXBsTKYTM4GssYZ1jyg8AsXzAn2+IV+nAABmNDSsojE4s73WYrnnwzBscpcW9y8SFDR6czNRyFBUAHoAfmolOA1NprYQ7YrnC7hkevAEUAITmBoIAkmAKDkvABVBwAGV2YHEvYXQJB0FXay8lPQiAovAwU8eSpgeVV9gTWoVQA)
 
 # Know the Differences Between type and interface
 
