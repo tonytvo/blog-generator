@@ -1294,7 +1294,7 @@ function distance(a: Point2D, b: Point2D) { /* ... */ }
 ----
 
 ```ts
-// if several functions share hte same type signature, you can factor out a named type for this signature
+// if several functions share the same type signature, you can factor out a named type for this signature
 type HTTPFunction = (url: string, opts: Options) => Promise<Response>;
 const get: HTTPFunction = (url, opts) => { /* ... */ };
 const post: HTTPFunction = (url, opts) => { /* ... */ };
@@ -1586,7 +1586,7 @@ interface Customer {
 
 ```ts
 // Don't do this!
-// this is because while the id and name properties happen to have the same name and type, they're not referring to teh same thing. 
+// this is because while the id and name properties happen to have the same name and type, they're not referring to the same thing. 
 // In this case, factoring out the common base interface is a premature abstraction which may make it harder for the 2 types to evolve independently in the future. (as Product and Customer is likely evolve differently)
 // a good rule of thumb is that if it's hard to name a type ( or a function, then it may not be a useful abstraction. In this case, NamedAndIdentified) just describes the structure of the type, not what it is. The Vertebrate type from before, on the other hand, is meaningful on its own. Remember, "duplication is far cheaper than wrong abstraction"
 interface NamedAndIdentified {
@@ -1611,24 +1611,21 @@ interface Customer extends NamedAndIdentified {
 - Understand the drawbacks of index signatures: much like `any`, they erode type safety and reduce the value of language services.
 - Prefer more precise types to index signatures when possible: ++interface++s, `Map`, ++Record++s, mapped types, or index signatures with a constrained key space.
 
-
-
 ## Code Samples
 
-```ts
-const rocket = {
-  name: 'Falcon 9',
-  variant: 'Block 5',
-  thrust: '7,607 kN',
-};
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBATiYBrAprAvDA3gKBjMAQwFsUAuGAcgDFCAbUMGATkoBo8YA3QuAS0JgoFSgCE6iJDACs7TlAAWcAK7QRAdjYA2AAzqYSAHJyAvgG4cQA)
-
-----
 
 ```ts
 type Rocket = {[property: string]: string};
+// this is index signatures, it specifies 3 things:
+// 1) the name for the keys
+// 2) a type for the key
+// 3) a type for the values
+
+// while the code does type check, it has few downsides:
+// 1) it allows any keys, including incorrect ones. Had you written Name instead of name, it would have still been a valid Rocket type
+// 2) it doesn't require any specific keys to be present, {} is also a valid Rocket
+// 3) it cannot have distinct types for different keys, we might want thrust to be a number rather than a string.
+// 4) as you're typing name: there's no autocomplete because the key could be anything
 const rocket: Rocket = {
   name: 'Falcon 9',
   variant: 'v1.0',
@@ -1658,6 +1655,7 @@ const falconHeavy: Rocket = {
 ----
 
 ```ts
+// historically, index signature were the best way to model truly dynamic data, such as parsing CSV or JSON
 function parseCSV(input: string): {[columnName: string]: string}[] {
   const lines = input.split('\n');
   const [headerLine, ...rows] = lines;
@@ -1692,25 +1690,6 @@ const products = parseCSV(csvData) as unknown[] as ProductRow[];
 ----
 
 ```ts
-function parseCSVMap(input: string): Map<string, string>[] {
-  const lines = input.split('\n');
-  const [headerLine, ...rows] = lines;
-  const headers = headerLine.split(',');
-  return rows.map(rowStr => {
-    const row = new Map<string, string>();
-    rowStr.split(',').forEach((cell, i) => {
-      row.set(headers[i], cell);
-    });
-    return row;
-  });
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgEoHsEGsJmQbwChlkQ4BbCALmQGcwpQBzAbmOQDc5G5wb7GIVuzAALKAFd6AfSwA5GiAnkARtDYBfQgnQh6yeABsdIABIQ4HAJ40M2XMgC8BdmUo0A5ADE4x3cnNLKw8AGnYuHj5kDw4ARlCRcSkwWQVkWIBWACYABhywjTYYCRAEMGB-AAduWggAYQBlADUAClBKiTB+BmYAShp8AG0dQ2UQOQpqOh6hAF1uwSYNQdmXEhN9Q1AIWidkds6AOlpKrbAWjwAdEA9etnXdfUHRCwATaAAZbZDkQ7+odAAd1oq2cWxAO3uyA2eBecHeUF2zjhCK+EOOp2A51CtyhUFwEigIGQAOBh3IcEqLVJDQYTgAfGsSNDHnhSQNhuhRuRxpMFsx5tNFho9vhCuwSDSGBizhcQrdDjB0FAAKKIUQtFpIQyGH7AXoMpnMklA55vaC0QbAWag6EQHVQkgaO4SkkEokmwFQ52aQigSCwRAoAAKANeEjKGEBTMqYYjYAAkq9+UIoW4pgJmFDY8AkCnhFpCO8EIZuChDA4ELQOAAROBgOD5tgw5Cx9DhspI1s1erNLXVusNg1wXYlLAgIEgFbIEfIUPt+NRlZFEplCrE6qI3tNACylLaIA6XSFfRoe8qAB5M0IftemPTp0QHno8OCdnsDmAZViLtdcewWzNeFPm+X5-iBEE9jfWgoRbFELT2eCoDRCBv2xeUXUld1iVJWhyX3KUoENJ9mRbUk9ghaNzyvGYmFvWj6RaTDmUItC5QVJVVXVTVtV1fYDUcRkSONUljlwFokMta0fl45inTkt0wEJHCgW9F0tCAA)
-
-----
-
-```ts
 const rockets = parseCSVMap(csvData);
 const superHeavy = rockets[2];
 const thrust_kN = superHeavy.get('thrust_kN');  // 74,500
@@ -1722,6 +1701,7 @@ const thrust_kN = superHeavy.get('thrust_kN');  // 74,500
 ----
 
 ```ts
+// if you want to get an object type out of a Map, you'll need to write some parsing code
 function parseRocket(map: Map<string, string>): Rocket {
   const name = map.get('name');
   const variant = map.get('variant');
@@ -1740,6 +1720,7 @@ const rockets = parseCSVMap(csvData).map(parseRocket);
 ----
 
 ```ts
+// if your type has a limited set of possible fields, don't model this with an index signature, if you know your data will have keys like A, B, C, D, but you don't know how many of them there will be, you could model the type either with optional fields or a union.
 interface Row1 { [column: string]: number }  // Too broad
 interface Row2 { a: number; b?: number; c?: number; d?: number }  // Better
 type Row3 =
@@ -1754,6 +1735,7 @@ type Row3 =
 ----
 
 ```ts
+// Record is a built-in wrapper around a mapped type
 type Vec3D = Record<'x' | 'y' | 'z', number>;
 //   ^? type Vec3D = {
 //        x: number;
@@ -1786,6 +1768,8 @@ renderAButton({
 ----
 
 ```ts
+// you can use an index type of disable excess property checking, for example, you might define a few known properties on a ButtonProps type but still want to allow it to have any others.
+// you can constraint these additional properties to match a certain pattern. For example, some web components allow arbitrary properties but only if they start with "data-", you can model this using an index signature and a template literal type
 interface ButtonProps {
   title: string;
   onClick: () => void;
