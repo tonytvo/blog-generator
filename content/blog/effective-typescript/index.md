@@ -740,8 +740,6 @@ const o: LineChartOptions = opts;
 
 # Apply Types to Entire Function Expressions When Possible
 
-# Item 12: Apply Types to Entire Function Expressions When Possible
-
 ## Things to Remember
 
 - Consider applying type annotations to entire function expressions, rather than to their parameters and return type.
@@ -882,569 +880,29 @@ fetchANumber
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xLDYHAo-HYUG44HWuHgAEEAHL8SypRB-fTKK48phmRIQAgmPlMSw4DkQOzEMiUOkIaQKCRCizWWx2MCs9lheSTNwzBGNBjMFZrBDINBYDacHlXPkC9G66bRVlGllsjmcZarfWXWxXKCIAAeUE4EgdymOXBsTKYTM4GssYZ1jyg8AsXzAn2+IV+nAABmNDSsojE4s73WYrnnwzBscpcW9y8SFDR6czNRyFBUAHoAfmolOA1NprYQ7YrnC7hkevAEUAITmBoIAkmAKDkvABVBwAGV2YHEvYXQJB0FXay8lPQiAovAwU8eSpgeVV9gTWoVQA)
 
-# Know the Differences Between type and interface
-
-- Understand the differences and similarities between type and interface.
-- Know how to write the same types using either syntax.
-- In deciding which to use in your project, consider the established style and whether augmentation might be beneficial.
-
-```ts
-If you want to define a named type in TypeScript, you have two options. You can use a type, as shown here:
-type TState = {
-name: string; capital: string;
-or an interface:
-interface IState { name: string;
-}
-capital: string;
-(You could also use a class, but that is a JavaScript runtime concept that also introduces a value. See Item 8.)
-Which should you use, type or interface? The line between these two options has become increasingly blurred over the years, to the point that in many situations you can use either. You should be aware of the distinctions that remain between type and interface and be consistent about which you use in which situation. But you should also know how to write the same types using both, so that you'll be comfortable reading TypeScript that uses either.
-The examples in this item prefix type names with I or T solely to indicate how they were defined. You should not do this in your code! Prefixing interface types with I is common in C#, and this convention made some inroads in the early days of TypeScript. But it is considered bad style today because it's unnecessary, adds little value, and is not consistently followed in the standard libraries.
-First, the similarities: the State types are nearly indistinguishable from one another. If you define an IState or a TState value with an extra property, the errors you get are character-by-character identical:
-const wyoming: TState = {
-name: "Wyoming',
-capital: 'Cheyenne',
-population: 500_000
-//
-//
-//
-};
-~~ Type ... is not assignable to type 'TState' Object literal may only specify known properties, and 'population' does not exist in type 'TState'
-You can use an index signature with both interface and type:
-type TDict - {[key: string]: string};
-}
-interface IDict {
-[key: string]: string;
-You can also define function types with either:
-type TFn = (x: number) -> string;
-interface IFn {
-(x: number): string;
-const toStrT: TFn = x -> " + x; // OK const toStrl: IFn-x->+x; // OK
-The type alias looks more natural for this straightforward function type, but if the type has properties as well, then the declarations start to look more alike:
-type TFnWithProperties = {
-J
-(x: number): number;
-prop: string;
-interface IFnWithProperties {
-J
-(x: number): number;
-prop: string;
-You can remember this syntax by reminding yourself that in JavaScript, functions are callable objects.
-Both type aliases and interfaces can be generic:
-type TPair<T> = {
-}
-first: T;
-second: T;
-interface IPair<T> {
-J
-first: T;
-second: T;
-An interface can extend a type (with some caveats, explained momentarily), and a type can extend an interface: interface IState WithPop extends TState {
-population: number;
-type TState WithPop - IState & { population: number; };
-Again, these types are identical. The caveat is that an interface cannot extend a complex type like a union type. If you want to do that, you'll need to use type and &.
-A class can implement either an interface or a simple type:
-class Statet implements TState {
-J
-J
-name: string="
-capital: string = ";
-class Statel implements IState {
-name: string="
-capital: string = ";
-Those are the similarities. What about the differences? You've seen one already there are union types but no union interfaces:
-type AorB = 'a' | 'b';
-An interface can extend some types, but not this one. Extending union types can sometimes be useful. If you have separate types for Input and Output variables and a mapping from name to variable:
-type Input = { /* ... */};
-type Output = {/...'));
-interface VariableMap {
-}
-[name: string]: Input Output;
-
-
-
-
-then you might want a type that attaches the name to the variable. This would be:
-type NamedVariable = (Input | Output) & { name: string};
-This type cannot be expressed with interface. A type is, in general, more capable than an interface. It can be a union, and it can also take advantage of more advanced features like mapped or conditional types.
-It can also more easily express tuple and array types:
-type Pair - (number, number);
-type StringList = string[];
-type NamedNums - [string,...number[]];
-You can express something like a tuple using interface:
-interface Tuple (
-}
-0: number;
-1: number;
-length: 2;
-constt: Tuple -[10,20]; //OK
-But this is awkward and drops all the tuple methods like concat. Better to use a type. For more on the problems of numeric indices, see Item
-16.
-An interface does have some abilities that a type doesn't, however. One of these is that an interface can be augmented. Going back to the State example, you could have added a population field in another way:
-interface IState {
-}
-name: string;
-capital: string;
-interface IState {
-population: number;
-const wyoming: IState = {
-name: "Wyoming',
-capital: 'Cheyenne',
-population: 500_000
-}; // OK
-This is known as "declaration merging," and it's quite surprising if you've never seen it before. This is primarily used with type declaration files (Chapter 6), and if you're writing one, you should follow the norms and use interface to support it. The idea is that there may be gaps in your type declarations that users need to fill, and this is how they do it.
-TypeScript uses merging to get different types for the different versions of JavaScript's standard library. The Array interface, for example, is defined in lib.es5.d.ts. By default this is all you get. But if you add ES2015 to the lib entry of your tsconfig.json, TypeScript will also include lib.es2015.d.ts. This includes another Array interface with additional methods like find that were added in ES2015. They get added to the other Array interface via merging. The net effect is that you get a single Array type with exactly the right methods.
-Merging is supported in regular code as well as declarations, and you should be aware of the possibility. If it's essential that no one ever augment your type, then use type.
-Returning to the question at the start of the item, should you use type or interface? For complex types, you have no choice: you need to use a type alias. But what about the simpler object types that can be represented either way? To answer this question, you should consider consistency and augmentation. Are you working in a codebase that consistently uses interface? Then stick with interface. Does it use type? Then use type.
-For projects without an established style, you should think about augmentation. Are you publishing type declarations for an API? Then it might be helpful for your users to be able to be able to merge in new fields via an interface when the API changes. So use interface. But for a
-type that's used internally in your project, declaration merging is likely to be a mistake. So prefer type.
-```
-
-
-# Use Type Operations and Generics to Avoid Repeating Yourself
-
-- The DRY (don't repeat yourself) principle applies to types as much as it applies to logic.
-- Name types rather than repeating them. Use extends to avoid repeating fields in interfaces.
-- Build an understanding of the tools provided by TypeScript to map between types. These include keyof, typeof, indexing, and mapped types.
-- Generic types are the equivalent of functions for types. Use them to map between types instead of repeating types. Use extends to constrain generic types.
-- familiarize yourself with generic types defined in the standard library such as Pick, Partial, and ReturnType
-
-```ts
-This script prints the dimensions, surface areas, and volumes of a few cylinders:
-console.log('Cylinder 1 x 1',
-'Surface area:', 6.283185*1*1+6.283185*1*1,
-'Volume:', 3.14159*1*1*1);
-console.log('Cylinder 1 x 2',
-'Surface area:', 6.283185*1*1+6.283185*2*1,
-'Volume:', 3.14159*1*2*1);
-console.log('Cylinder 2 x 1',
-'Surface area:', 6.283185*2*1+6.283185*2*1,
-'Volume:', 3.14159*2*2*1);
-Is this code uncomfortable to look at? It should be. It's extremely repetitive, as though the same line was copied and pasted, then modified. It repeats both values and constants. This has allowed an error to creep in (did you spot it?). Much better would be to factor out some functions, a constant, and a loop:
-const surfaceArea = (r, h) -> 2* Math.PI*r* (r+h);
-const volume = (r, h) => Math.PI*r*r*h;
-for (const [r, h] of [[1, 1], [1, 2], [2, 1]]) {
-}
-console.log(
-`Cylinder ${r) x ${h}',
-Surface area: $(surfaceArea(r, h)}`,
-Volume: ${volume(r, h)}');
-This is the DRY principle: don't repeat yourself. It's the closest thing to universal advice that you'll find in software development. Yet developers who assiduously avoid repetition in code may not think twice about it in types:
-interface Person {
-}
-firstName: string;
-lastName: string;
-interface PersonWithBirthDate {
-}
-firstName: string;
-lastName: string; birth: Date;
-Duplication in types has many of the same problems as duplication in code. What if you decide to add an optional middleName field to Person? Now Person and PersonWithBirthDate have diverged.
-One reason that duplication is more common in types is that the mechanisms for factoring out shared patterns are less familiar than they are with code: what's the type system equivalent of factoring out a helper function? By learning how to map between types, you can bring the benefits of DRY to your type definitions.
-The simplest way to reduce repetition is by naming your types. Rather than writing a distance function this way:
-
-
-
-}
-function distance(a: {x: number, y: number), b: {x: number, y: number}) {
-return Math.sqrt((a.x-b.x)**2+(a.y - b.y)** 2);
-create a name for the type and use that:
-interface Point2D {
-x: number;
-y: number;
-function distance(a: Point2D, b: Point2D) { /* ... */ }
-This is the type system equivalent of factoring out a constant instead of writing it repeatedly. Duplicated types aren't always so easy to spot. Sometimes they can be obscured by syntax. If several functions share the same type signature, for instance:
-function get(url: string, opts: Options): Promise<Response> {/*.....'%). function post(url: string, opts: Options): Promise<Response> {/*..*/}
-Then you can factor out a named type for this signature:
-type HTTPFunction (url: string, opts: Options) => Promise<Response>; const get: HTTPFunction (url, opts) => {/.../);
-const post: HTTPFunction (url, opts) => {/...);
-For more on this, see Item 12.
-What about the Person/PersonWithBirth Date example? You can eliminate the repetition by making one interface extend the other:
-interface Person {
-}
-}
-firstName: string;
-lastName: string;
-interface Person WithBirthDate extends Person {
-birth: Date;
-Now you only need to write the additional fields. If the two interfaces share a subset of their fields, then you can factor out a base class with just these common fields. Continuing the analogy with code duplication, this is akin to writing PI and 2*PI instead of 3.141593 and 6.283185.
-You can also use the intersection operator (&) to extend an existing type, though this is less common:
-type PersonWithBirthDate = Person & { birth: Date};
-This technique is most useful when you want to add some additional properties to a union type (which you cannot extend). For more on this, see Item 13.
-You can also go the other direction. What if you have a type, State, which represents the state of an entire application, and another, TopNavState, which represents just a part?
-interface State (
-userld: string,
-pageTitle: string;
-recentFiles: string[];
-pageContents: string;
-interface TopNavState {
-userld: string,
-pageTitle: string;
-recentFiles: string();
-Rather than building up State by extending TopNavState, you'd like to define TopNavState as a subset of the fields in State. This way you can keep a single interface defining the state for the entire app.
-You can remove duplication in the types of the properties by indexing into State:
-type TopNavState = {
-};
-userid: State("userid");
-pageTitle: State['pageTitle'];
-recentFiles: State[recentFiles');
-While it's longer, this is progress: a change in the type of pageTitle in State will get reflected in TopNavState. But it's still repetitive. You can do better with a mapped type:
-type TopNavState -{
-};
-[k in 'userld''pageTitle' | 'recentFiles']: State[k]
-Mousing over TopNavState shows that this definition is, in fact, exactly the same as the previous one (see Figure 2-10).
-type TopNavState = { userId: string;
-}
-pageTitle: string; recentFiles: string[];
-type TopNavState = {
-}
-[k in 'userId' | 'pageTitle' | 'recentFiles']: State [k]
-Figure 2-10. Showing the expanded version of a mapped type in your text editor. This is the same as the initial definition, but with less duplication. Mapped types are the type system equivalent of looping over the fields in an array. This particular pattern is so common that it's part of the standard library, where it's called Pick:
-type Pick<T, K>= {[k in K): T[k]};
-(This definition isn't quite complete, as you will see.) You use it like this:
-type TopNavState - Pick-State, 'userld' | 'pageTitle' | 'recentFiles'>;
-Pick is an example of a generic type. Continuing the analogy to removing code duplication, using Pick is the equivalent of calling a function. Pick takes two types, T and K, and returns a third, much as a function might take two values and return a third.
-Another form of duplication can arise with tagged unions. What if you want a type for just the tag?
-interface SaveAction [
-type: 'save';
-II...
-}
-
-
-
-interface LoadAction {
-}
-type: 'load';
-//....
-type Action - SaveAction | LoadAction;
-type ActionType = 'save' | 'load'; // Repeated types!
-You can define ActionType without repeating yourself by indexing into the Action union:
-type ActionType - Action['type']; // Type is "save" ("load"
-As you add more types to the Action union, ActionType will incorporate them automatically. This type is distinct from what you'd get using Pick, which would give you an interface with a type property:
-type ActionRec - Pick Action, 'type'>; // {type: "save" ["load"}
-If you're defining a class which can be initialized and later updated, the type for the parameter to the update method will optionally include most of the same parameters as the constructor:
-interface Options {
-J
-width: number;
-height: number;
-color: string;
-label: string;
-You can do so with typeof:
-type Options=typeof INIT_OPTIONS;
-This intentionally evokes JavaScript's runtime typeof operator, but it operates at the level of TypeScript types and is much more precise. For more on typeof, see Item 8. Be careful about deriving types from values, however. It's usually better to define types first and declare that values are assignable to them. This makes your types more explicit and less subject to the vagaries of widening (Item 21). Similarly, you may want to create a named type for the inferred return value of a function or method:
-function getUserInfo(userId: string) {
-II...
-return {
-userld,
-}
-width: number;
-height: number;
-color: string;
-label: string;
-interface OptionsUpdate {
-width?: number;
-height?: number;
-}
-color?: string;
-label?: string;
-class UIWidget {
-}
-constructor(init: Options) { /* ... */ }
-update(options: OptionsUpdate) { /* ... */}
-You can construct OptionsUpdate from Options using a mapped type and keyof:
-type Options Update = {[k in keyof Options]?: Options[k]};
-keyof takes a type and gives you a union of the types of its keys:
-type OptionsKeys - keyof Options;
-// Type is "width"/"height" ["color" | "label"
-The mapped type ([k in keyof Options]) iterates over these and looks up the corresponding value type in Options. The ? makes each property optional. This pattern is also extremely common and is included in the standard library as Partial:
-class UIWidget {
-constructor(init: Options) { /*..*/}
-name,
-age, height, weight, favoriteColor,
-// Return type inferred as (userId: string; name: string; age: number,...)
-Doing this directly requires conditional types (see Item 50). But, as we've seen before, the standard library defines generic types for common patterns like this one. In this case the ReturnType generic does exactly what you want:
-type UserInfo - ReturnType<typeof getUserInfo>;
-Note that ReturnType operates on typeof getUserInfo, the function's type, rather than getUserInfo, the function's value. As with typeof, use this technique judiciously. Don't get mixed up about your source of truth.
-Generic types are the equivalent of functions for types. And functions are the key to DRY for logic. So it should come as no surprise that generics are the key to DRY for types. But there's a missing piece to this analogy. You use the type system to constrain the values you can map with a function: you add numbers, not objects; you find the area of shapes, not database records. How do you constrain the parameters in a generic type?
-You do so with extends. You can declare that any generic parameter extends a type. For example:
-interface Name {
-first: string;
-last: string;
-}
-update(options: Partial<Options>) { /* ... */ }
-}
-You may also find yourself wanting to define a type that matches the shape of a value:
-const INIT_OPTIONS - {
-};
-width: 640,
-height:480,
-color: '#00FF00",
-label: 'VGA',
-interface Options {
-type DancingDuo<T extends Name> - [T, T];
-const couple1: DancingDuo<Name> - [
-{first: Fred', last: 'Astaire'},
-{first: 'Ginger', last: 'Rogers"}
-; //OK
-const couple2: DancingDuo<{first: string}> = [
-// Property 'last' is missing in type
-//' first: string; )' but required in type 'Name' {first: 'Sonny'),
-{first: 'Cher}
-{first: string} does not extend Name, hence the error.
-
-
-At the moment, TypeScript always requires you to write out the generic parameter in a declaration. Writing DancingDuo instead of DancingDuo<Name> won't cut it. If you want TypeScript to infer the type of the generic parameter, you can use a carefully typed identity
-function:
-const dancingDuo = <T extends Name>(x: DancingDuo<T>)=>x;
-const couple1 = dancingDuo([
-(first: "Fred', last: 'Astaire'},
-{first: 'Ginger", last: 'Rogers']
-D);
-const couple2 = dancingDuo([
-(first: 'Bono'),
-{first: 'Prince'}
-// Property 'last' is missing in type
-// {first: string; )' but required in type 'Name'
-D;
-You can use extends to complete the definition of Pick from earlier. If you run the original version through the type checker, you get an error:
-type Pick<T, K> = {
-};
-[k in K]: T[k]
-//-Type 'K' is not assignable to type 'string / number / symbol
-K is unconstrained in this type and is clearly too broad: it needs to be something that can be used as an index, namely, string | number | symbol. But you can get narrower than that-K should really be some subset of the keys of T, namely, keyof T:
-type Pick<T, K extends keyof T> = {
-[k in K]: T[k]
-}; //OK
-Thinking of types as sets of values (Item 7), it helps to read "extends" as "subset of" here.
-As you work with increasingly abstract types, try not to lose sight of the goal: accepting valid programs and rejecting invalid ones. In this case, the upshot of the constraint is that passing Pick the wrong key will produce an error:
-type FirstLast = Pick<Name, 'first' | 'last'>; // OK type FirstMiddle - Pick<Name, 'first' | 'middle'>;
-// Type "middle" is not assignable
-// to type "first" ["last"
-Repetition and copy/paste coding are just as bad in type space as they are in value space. The constructs you use to avoid repetition in type space may be less familiar than those used for program logic, but they are worth the effort to learn. Don't repeat yourself!
-```
-
-# Apply Types to Entire Function Expressions When Possible
-
-## Things to Remember
-
-- Consider applying type annotations to entire function expressions, rather than to their parameters and return type.
-- If you're writing the same type signature repeatedly, factor out a function type or look for an existing one.
-- If you're a library author, provide types for common callbacks.
-- Use `typeof fn` to match the signature of another function, or `Parameters` and a rest parameter if you need to change the return type.
-
-
-## Code Samples
-
-```ts
-function rollDice1(sides: number): number { /* ... */ }  // Statement
-const rollDice2 = function(sides: number): number { /* ... */ };  // Expression
-const rollDice3 = (sides: number): number => { /* ... */ };  // Also expression
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAJzgGzQERhApgRgAoBnGAE12IC5EwQBbAI12QEoa6mXEBvRAegBUiAMIB5ALIAFAEoBRAMoLEg-ilxQQyJAAYA3AOFyAcphVqAvogFqFUAIZRc9XGCgAoCAmJQU6LDi4AEyIALyIoJCwCCTklBwMzGwJXMi8hqKSsorKquqa2oj6GSZmeRYGNohyAB4ADsiUpAie3r6oGNh4AMxhiLEU1LSJLOzDqWEAfOlCmdLySub5WroGs6VLFdb8agCCaMRwiLj1jcTNYO7uQA)
-
-----
-
-```ts
-type DiceRollFn = (sides: number) => number;
-const rollDice: DiceRollFn = sides => { /* ... */ };
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAIglgYwgJQPYBt0DEB2UC8UAFAM5wAmEJAXFDgK4C2ARhAE4CUBAfHU62wDcAKASocJYFDYZ08JLXkpZuAlDKUSPKAG8oAegBUUAMIB5ALIAFZAFEAyvaiH90iMHps8ABkEHjtgByMM6uAL4iwkA)
-
-----
-
-```ts
-function add(a: number, b: number) { return a + b; }
-function sub(a: number, b: number) { return a - b; }
-function mul(a: number, b: number) { return a * b; }
-function div(a: number, b: number) { return a / b; }
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwCaoBTIFyLCAWwCMBTAJwBpEjd9jyBKRAb0TJKhDKWUQGpqAbkQBfAFChIsBIgDOIIllqFSlasvpkmrdp24pEAWiGiJ4aPCQEQAGyV4V5KjQebtbDlx6IAVCfGSFjKoMABu9nSqzhqq7rpeBgD0-mJAA)
-
-----
-
-```ts
-type BinaryFn = (a: number, b: number) => number;
-const add: BinaryFn = (a, b) => a + b;
-const sub: BinaryFn = (a, b) => a - b;
-const mul: BinaryFn = (a, b) => a * b;
-const div: BinaryFn = (a, b) => a / b;
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAQglgOwIYCcQDEFQLxQBRIBcUCArgLYBGEKANFJcWVTQJQ4B8JF1KA3ACgAxgHsEAZ2BQkAExnF4yNJhz4k9Su2xckUANQNBoiVPGlGsRKgxZcBDVp1QAtIeFjJUcqQA2Cq8q2ag6c0lAAVG7GnjJwAG7+Sjaq9gyOYQD0bkA)
-
-----
-
-```ts
-const response = fetch('/quote?by=Mark+Twain');
-//    ^? const response: Promise<Response>
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBATgUwgB3BBMC8MBmCrAAWAFAOQD0AjgK4hQID8ARgJ6YCyAhnANYDUAFQDunAJZhSASgDcAKHLkYSmAD0GMUJFiIUaBAC4YABTggAtqPQAeAEpJUkBAD5ZQA)
-
-----
-
-```ts
-async function getQuote() {
-  const response = await fetch('/quote?by=Mark+Twain');
-  const quote = await response.json();
-  return quote;
-}
-// {
-//   "quote": "If you tell the truth, you don't have to remember anything.",
-//   "source": "notebook",
-//   "date": "1894"
-// }
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/IYZwngdgxgBAZgV2gFwJYHsIwOYFNkCKC6yuAFAJQwDeAUDDFJiMjAE64gAOzuMAvDGAB3YKlZx8UABZkA5AHoAjsVIB+AEZh+AWWBsA1gGoAKqNQQ5FANz1GzVipJ9BIsaw7deAOgBWITEpbBg5kBDYsJ1JbAF9aBQUaeMSGACIo3FSALhhUgEk4GDB0BBhSABtysuk+ZDYEZGkAGiKSmAATTDlWaWAAN1r0dlwAW1GNXDYhCDBGi2xvVKbkhlyA8KhMnNSIZw10dAMllbT24FJs3IBGAA4ATgAWVJW4oA)
-
-----
-
-```ts
-declare function fetch(
-  input: RequestInfo, init?: RequestInit,
-): Promise<Response>;
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/CYUwxgNghgTiAEAzArgOzAFwJYHtVJAzAAsAKAKHni1QAdkMAueAJRAEdkQBnDASVSIcAGmqosGAPzM2nHv3EZh5AJTMACjBwBbLNxAAeNt1p59APgDc5IA)
-
-----
-
-```ts
-async function checkedFetch(input: RequestInfo, init?: RequestInit) {
-  const response = await fetch(input, init);
-  if (!response.ok) {
-    // An exception becomes a rejected Promise in an async function.
-    throw new Error(`Request failed: ${response.status}`);
-  }
-  return response;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/IYZwngdgxgBAZgV2gFwJYHsIygCwKZQDWeAJgGJ7K4AUqEADgsgFwwBKeAjgniMgJIQ46ADQw6qZAH5WHbrwERJAShgBvAFAxsmPjABOverrwwAvDGAB3YJPiUadRsjETkygNxbxcGNQCEhiDGECB4AHTohKqa2toA9PEwAIJYeAAeUHj0aJgwAEYE6AC2vJYGeABWBMikMAAK+iWoYeJYwO3g0PBIULkQ4d7ayDhNVjAQeOMAovpN+tQABnI8enC2ADakrAAkakEhYeF8wMgIIAC+i57eF96GZ-pYByZed0A)
-
-----
-
-```ts
-const checkedFetch: typeof fetch = async (input, init) => {
-  const response = await fetch(input, init);
-  if (!response.ok) {
-    throw new Error(`Request failed: ${response.status}`);
-  }
-  return response;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDDjhoMAE6IIJVYgbMA7k3HVa8Hn0EixkgNxLRVTgEJN23QDoQKKYuXKoeHUQAxgwRFCAUXVg9U4AAwAlRABHfi1YCmMAGwwCABI5Nx1IRA9oJih+CABfeIl7ZRqHTSr1MA0tEohEe2agA)
-
-----
-
-```ts
-const checkedFetch: typeof fetch = async (input, init) => {
-  //  ~~~~~~~~~~~~
-  //  'Promise<Response | HTTPError>' is not assignable to 'Promise<Response>'
-  //    Type 'Response | HTTPError' is not assignable to type 'Response'
-  const response = await fetch(input, init);
-  if (!response.ok) {
-    return new Error('Request failed: ' + response.status);
-  }
-  return response;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xQA)
-
-----
-
-```ts
-async function fetchANumber(
-    ...args: Parameters<typeof fetch>
-): Promise<number> {
-  const response = await checkedFetch(...args);
-  const num = Number(await response.text());
-  if (isNaN(num)) {
-    throw new Error(`Response was not a number.`);
-  }
-  return num;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xLDYHAo-HYUG44HWuHgAEEAHL8SypRB-fTKK48phmRIQAgmPlMSw4DkQOzEMiUOkIaQKCRCizWWx2MCs9lheSTNwzBGNBjMFZrBDINBYDacHlXPkC9G66bRVlGllsjmcZarfWXWxXKCIAAeUE4EgdymOXBsTKYTM4GssYZ1jyg8AsXzAn2+IV+nAABmNDSsojE4s73WYrnnwzBscpcW9y8SFEA)
-
-----
-
-```ts
-fetchANumber
-// ^? function fetchANumber(
-//      input: RequestInfo | URL, init?: RequestInit | undefined
-//    ): Promise<number>
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMAWBTYBrRATAYoqCBcMUAngA6IgBmMFOCMAvDAIYRFjAwAUAlmCQK5QANDF7coASgYA+GAG8AUDBgB6FcoB+W7Tq1LV6mAHIACgCcQAW24REAHgBKiCCXC2YAHxgAJACq+TAFEzCzNpI1EIGDAQWBYIbgBzMCYAIwAbREIQY3MrG3snFzdEcP01ZWVfUiyjItdILK8-AODQiJto2OYIBOS0zOzCGuN6kqN9UEhYM2cG90YmAHcmcWpaeB4+QRExSQBufW4qTgBCWeLGgDoQFClFSphZqH4zMGjEJZg2kDNOOsQAEd+M5YBRVpl0AQIgBqJ5zEpXaBMF4QCSHZQAX30z1e7wu80Qh2xLDYHAo-HYUG44HWuHgAEEAHL8SypRB-fTKK48phmRIQAgmPlMSw4DkQOzEMiUOkIaQKCRCizWWx2MCs9lheSTNwzBGNBjMFZrBDINBYDacHlXPkC9G66bRVlGllsjmcZarfWXWxXKCIAAeUE4EgdymOXBsTKYTM4GssYZ1jyg8AsXzAn2+IV+nAABmNDSsojE4s73WYrnnwzBscpcW9y8SFDR6czNRyFBUAHoAfmolOA1NprYQ7YrnC7hkevAEUAITmBoIAkmAKDkvABVBwAGV2YHEvYXQJB0FXay8lPQiAovAwU8eSpgeVV9gTWoVQA)
-
 
 # Know the Differences Between type and interface
 
 ## Things to Remember
 
 - Understand the differences and similarities between `type` and `interface`.
+  - for new code where you need to pick a style, the general rule of thumb is to use interface where possible, using either where it's required, (e.g, union types) or has a clearer syntax (e.g. function types)
 - Know how to write the same types using either syntax.
 - Be aware of declaration merging for `interface` and type inlining for `type`.
-- For projects without an established style, prefer `interface` to `type` for object types.
-
+- For projects without an established style, prefer `interface` to `type` for object types until you need to use features from type. Otherwise, stick with established styles
+- for complex types, you need to use type alias. For function types, tuple types, and array types, the type syntax is more concise and natural than the interface syntax.
+- you can enforce consistent use of type or interface using typescript-eslint's consistent type-definitions rule.
 
 ## Code Samples
 
-```ts
-type TState = {
-  name: string;
-  capital: string;
-};
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zIA)
-
 ----
 
 ```ts
-interface IState {
-  name: string;
-  capital: string;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoViA)
-
-----
-
-```ts
-const wyoming: TState = {
-  name: 'Wyoming',
-  capital: 'Cheyenne',
-  population: 578_000
-  // ~~~~~~~ Object literal may only specify known properties,
-  //         and 'population' does not exist in type 'TState'
-};
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlYB7PJSgB3ECcKay8JCijpl+IqSgByAOo27DF4ANNocXIi83gDCABYQIBB4eBDBLGAmYACu3Mg0ZmQArADsABwA+gAMVSwA9DVQAH5NzQ1QAPIARgBWEKzAUNxcEFQRUISIIFBm3JPkkKw0EpMA1ngmlnhQYFQZw8A0EOQhuHW4Z+eIeAAm3ulZOftmXlBXJof4Jv0QAB40FnRQUCQbyORReLAiLBAA)
-
-----
-
-```ts
-type TDict = { [key: string]: string };
-interface IDict {
-  [key: string]: string;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlCRYAERqtgUdBigBtANYQQ+zQF03DKCKxiIktJyFlaYLE4uXvSeFBqCWEZAA)
-
-----
-
-```ts
+// this type alias form (TFn) looks more natural and is more concise for function types. This is the preferred form and is the one you're most likely to encounter in type declarations.
 type TFn = (x: number) => string;
+
+
+// the latter 2 forms reflect the fact that functions in javascript are callable objects.
 interface IFn {
   (x: number): string;
 }
@@ -1459,25 +917,16 @@ const toStrTAlt: TFnAlt = x => '' + x;  // OK
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlCRYAMTxR0ACgAeZPAFdCAIwhUAlFYB8FDYKwxdykZKFkLTBY7B2c3T31NYWNwaBgLAEFuYCtI3Gj8WPcPBICRLCxWAHs8SihgSoQqGDI0y3RbHygAci6oAGooW0ZcAHoRqAB5AGkK6tr6xtkycLbBzp7+weGoMcmZqprsheoYTOAWjKycjtRfDYGh0fHprCA)
 
-----
-
-```ts
-type TBox<T> = {
-  value: T;
-};
-interface IBox<T> {
-  value: T;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAKgysAhsaBeKBvAUFKA7RAWwgC4oBnYAJwEs8BzAbhygGNEwakAbMy2hswC+zOiioAzRK2gBJBMmjZcBYn2p0mLdpx7qBWoVlCRYAIQD2ADwA8MAHxR0yqADdE3AK6lYw0XnEpGShZS1sHTBZ3Lx8YYSwgA)
 
 ----
 
 ```ts
+// an interface can extend a type, and a type can extend an interface
 interface IStateWithPop extends TState {
   population: number;
 }
+
+// you can't extend union type, if you want to do that, you'll need to use type and &
 type TStateWithPop = IState & { population: number; };
 ```
 
@@ -1486,6 +935,7 @@ type TStateWithPop = IState & { population: number; };
 ----
 
 ```ts
+// class can implement either an interface or a simple type
 class StateT implements TState {
   name: string = '';
   capital: string = '';
@@ -1501,6 +951,7 @@ class StateI implements IState {
 ----
 
 ```ts
+// there's union type but no interface
 type AorB = 'a' | 'b';
 ```
 
@@ -1540,6 +991,7 @@ interface IPerson extends Person {
   //      ~~~~~~~ Interface 'IPerson' incorrectly extends interface 'Person'.
   //                Types of property 'age' are incompatible.
   //                  Type 'number' is not assignable to type 'string'.
+  // generally you want more safety check, so this is a good reason to use extends with interfaces
   age: number;
 }
 ```
@@ -1549,6 +1001,7 @@ interface IPerson extends Person {
 ----
 
 ```ts
+// type aliases are the natural way to express tuple and array types
 type Pair = [a: number, b: number];
 type StringList = string[];
 type NamedNums = [string, ...number[]];
@@ -1559,6 +1012,9 @@ type NamedNums = [string, ...number[]];
 ----
 
 ```ts
+// this is known as "declaration merging"
+// typescript itself uses declaration merging to model the different versions of javascript's standard library
+// declaration makes most sense in declaration files. It can happen in user code, but only if the two interfaces are defined in the same module (i.e: the same .ts file). This prevents accidental collisions with global interfaces with generic-sounding names like Location and FormData
 interface IState {
   name: string;
   capital: string;
@@ -1578,37 +1034,7 @@ const wyoming: IState = {
 ----
 
 ```ts
-// lib.es5.d.ts
-interface Array<T> {
-  /** Gets or sets the length of the array. */
-  length: number;
-  // ...
-  [n: number]: T;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEBsEsCMDoFMDOBWWATWAXRAoSA7TeAJwDMBDAY3lAEFjjyBPAHgBUA+UAbx1FGAAqQaADi8bKAD2xUIgmJQmABY1w8fAHMV00ktWhyDZrFCDgfCBu3KAXKHwBXALbQSAbkshQsX5YDa+PZOriQAuvZsngC+OEA)
-
-----
-
-```ts
-// lib.es2015.core.d.ts
-interface Array<T> {
-  /** Returns the index of the first element in the array where predicate... */
-  findIndex(
-    predicate: (value: T, index: number, obj: T[]) => unknown,
-    thisArg?: any
-  ): number;
-
-  // ... also find, fill, copyWithin
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEBsEsCMDoFMDOAmADARgKywMYHsAneWAE1gBdEAoSAO3PgIDMBDHeUAQQIJYE8APABUAfKADeVUKGAAqWaABK8cgFcCtRKHIALDnRLwAHqDxNte0E0gFE5UPHDwAtvHqg6Fjix79QAdz0iUAAHIhJIHBYGWFjQWWApKwMASVpDIwAKJOkw+AiohgAuUEyANxZwVXgSoQAaD3TjEtpVZ2hGBrxoACtagG0AXQBKUABeMVVaAGtaPH9aOpyLSERuAHMAfhKWWj4k4Za2joIAbiokkFBY2FBKxDxk9IbrcHAG-BC+AHVIXToqABfKhAA)
-
-----
-
-```ts
+//TypeScript will always try to refer to an interface by its name, whereas it takes more liberties replacing a type alias with its underlying definition.
 export function getHummer() {
   type Hummingbird = { name: string; weightGrams: number; };
   const ruby: Hummingbird = { name: 'Ruby-throated', weightGrams: 3.4 };
