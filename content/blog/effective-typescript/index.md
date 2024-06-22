@@ -1088,34 +1088,6 @@ export function getHummer() {
 ## Code Samples
 
 ```ts
-function printTriangles(n: number) {
-  const nums = [];
-  for (let i = 0; i < n; i++) {
-    nums.push(i);
-    console.log(arraySum(nums));
-  }
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwE6uQTwMogLYAUaqAXImPgEYCmqA2gLoCUiA3gFCKIA21UiAZ3yIAvIgAMAGnL4A3J0QB3ABYxeiAgQp5RKdADoADnEMEmLAIQix4ACbVgMMNVssOXLkJ0BqMdvlcAL4KqHwgqEhe8sGgkLAIiIaoTlAAKsnIYADmvAJaZNo0qG4KEAgC-NoCuowBiMBwqBq8-DC64rKIbQA85J0w3t4lHjJ4AkYgAsoEMEx1XGVgAnC8+txwWUToWLiEVeZ1wcFAA)
-
-----
-
-```ts
-function arraySum(arr: number[]) {
-  let sum = 0, num;
-  while ((num = arr.pop()) !== undefined) {
-    sum += num;
-  }
-  return sum;
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAQwE6uQTwMogLYAUaqAXImPgEYCmqA2gLoCUiA3gFCKIA21UiAZ3yIAvIgAMAGnL4A3J0QB3ABYxeiAgQp5RKdADoADnEMEmLAIQix4ACbVgMMNVssOXLkJ0BqMdvlcAL4KqHwgqEhe8sFAA)
-
-----
-
-```ts
 interface PartlyMutableName {
   readonly first: string;
   last: string;
@@ -1170,6 +1142,7 @@ type T = Readonly<Outer>;
 //          x: number;
 //        };
 //      }
+// there's no built-in support for deep readonly types, may need to use DeepReadonly generic in ts-essentials
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nhtLcgAKs7ScrVqmNAa3r6EAHoA-IlKkzO6+MNUxxXzIMr6hsZ4R8fHrvTMbDdrd54vb1xAA)
@@ -1179,6 +1152,7 @@ type T = Readonly<Outer>;
 ```ts
 const date: Readonly<Date> = new Date();
 date.setFullYear(2037);  // OK, but mutates date!
+//Readonly  only affects properties. If you apply it to a type with methods that mutate the underlying object, it won't remove them
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nh8gsKycJBSlbUqACIzEFq6JADuyMuQABQAlOzTkHb5YABi6AoKAJoyULsATGYAzADsh0O+qCMANFmYZAMTArErHCAAQjwQA)
@@ -1213,6 +1187,7 @@ interface ReadonlyArray<T> {
   // ...
   readonly [n: number]: T;
 }
+//the key diffdrences are that the mutating methods (such as pop and shift) aren't defined on ReadonlyArray, and the two properties, length and index type ([n: number]: T), have readonly modifiers. This prevents resizing the array and assigning to elements in the array
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgPIFdJWQbwFDLKgjQBcuBhyAHuSOgLYBG0A3JQL55cID2IAZzDJeTAFbkAShDgATfgBsAngB4MWAHzIAvLiIgSUcjhrkADMg4d2osQDpi0HXtrIAjJfYB6L4QB+AQHIAMJwBrzCcAICwADmIMhgvMgA5I5QKcgsCHDoAijAwsACyHDIUDKyALSKSsgADlC89dBgSni2DgbQdtTObqyEPmgA0nigWPBIyNJytQCCUFBwqgAqWviEFXMgysgKECCxYAAWdIwsUOxDvgAUIPxVDJhwYKCxyAwQp7yyAgCUlCSAGUwFB3rd-uQhOCjtdkGJeKBbvl6nBlkkoAB+aFg95Q5Aw97w4Z2MmUbbyXZ1ADaIHOzGgAF1yKt2FwgA)
@@ -1271,6 +1246,10 @@ function arraySum(arr: readonly number[]) {
   }
   return sum;
 }
+//when you give a parameter a read-only type (either readonly for an array or Readyonly for an object type), a few things happen
+// - Typescript checks that the parameter isn't mutated in the function body
+// - you advertise to callers that your function doesn't mutate the parameter
+// - callers may pass your function a readonly array or Readonly object.
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABABwE4zFAKughmAcwBsBTAZwAowAuRMEAWwCMTUBKRAbwChFEIEZKHUZlEAXkQBtALoBuXomBxUiCqWEwJiAAxzEWgDx19MANRmOPPn3oMyAOmQgyACwow2Cm-0FxSDkRwBBS4qKi4AJ4AyoxUomxeigC+3KmgkLAIiGERMXG5tKgkuAAmCESRIsysslaKGohkjNp6isqqFAJgQtWIcMA54fU+zQyIZpJ23oipfMVQIKhIYwqpQA)
