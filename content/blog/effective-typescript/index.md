@@ -1852,37 +1852,6 @@ const tupleLike: ArrayLike<string> = {
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBAHhGBeGBtAjAGhgJmwZgF0BuAKFEligFcAHAGwFMAZASwGtGAuGAQQCd+AQwCebTgB5o-VmADmAPmQwA3qRgwA5AAZNPTb02Z1W9Hq0AhIyabyoACx55SAX2IaA9B5gB5ANKkQA)
 
 
-# Understand Evolving any
-
-- example 1:
-```javascript
-const result = [];  // Type is any[]
-result.push('a');
-result  // Type is string[]
-result.push(1);
-result  // Type is (string | number)[]
-```
-
-- Implicit any types do not evolve through function calls. The arrow function here trips up inference:
-
-```javascript
-function makeSquares(start: number, limit: number) {
-  const out = [];
-     // ~~~ Variable 'out' implicitly has type 'any[]' in some locations
-  range(start, limit).forEach(i => {
-    out.push(i * i);
-  });
-  return out;
-      // ~~~ Variable 'out' implicitly has an 'any[]' type
-}
-```
-  - In cases like this, you may want to consider using an array's map and filter methods to build arrays in a single statement and avoid iteration and evolving any entirely
-
-
-- **Things to Remember**
-  - While TypeScript types typically only refine, implicit any and any[] types are allowed to evolve. You should be able to recognize and understand this construct where it occurs.
-  - For better error checking, consider providing an explicit type annotation instead of using evolving any.
-
 # Use Different Variables for Different Types
 
 ## Things to Remember
@@ -2823,6 +2792,196 @@ callWithRandomNumbers(fn);
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABBAhgGzQdRlAFgJRTABM4BbAORDICMBTAJwGcAKYMALkRbAEYuw1egwA0iMACYBQxgEpEAXgB8iAG5wYxeQG8AUIkTsWAWRR4AdAyKkyLWWNMWrJcndkBuXQF9dEBEyhDJAVuFGlaRjEacOF5ZUQ9Az8wJjg0OnM0OABzFhREAGpEGg9vX3QsHAJrcioI5jYwUqA)
+
+
+# Understand Evolving types
+
+- example 1:
+```javascript
+const result = [];  // Type is any[]
+result.push('a');
+result  // Type is string[]
+result.push(1);
+result  // Type is (string | number)[]
+```
+
+- Implicit any types do not evolve through function calls. The arrow function here trips up inference:
+
+```javascript
+function makeSquares(start: number, limit: number) {
+  const out = [];
+     // ~~~ Variable 'out' implicitly has type 'any[]' in some locations
+  range(start, limit).forEach(i => {
+    out.push(i * i);
+  });
+  return out;
+      // ~~~ Variable 'out' implicitly has an 'any[]' type
+}
+```
+  - In cases like this, you may want to consider using an array's map and filter methods to build arrays in a single statement and avoid iteration and evolving any entirely
+
+
+- **Things to Remember**
+  - While TypeScript types typically only refine, the types of values initialized to null, undefined, [], any and any[] types are allowed to evolve. 
+  - You should be able to recognize and understand this construct where it occurs. and use it to reduce the need for type annotations in your own code.
+  - For better error checking, consider providing an explicit type annotation instead of using evolving any.
+
+
+# Use Functional Constructs and Libraries to Help Types Flow
+
+## Things to Remember
+
+- Use built-in functional constructs and those in utility libraries like Lodash instead of hand-rolled constructs to improve type flow, increase legibility, and reduce the need for explicit type annotations.
+
+
+## Code Samples
+
+```js
+const csvData = "...";
+const rawRows = csvData.split('\n');
+const headers = rawRows[0].split(',');
+
+const rows = rawRows.slice(1).map((rowStr) => {
+  const row = {};
+  rowStr.split(",").forEach((val, j) => {
+    row[headers[j]] = val;
+  });
+  return row;
+});
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimky4OZV0ttDJp37BFggIyS8AWxQuQUEHGgBlKEpJLAA+GABvEhg4OypGFniAX1Jk0IjKU34hHAscXwAzEEoAURRgeWCEFB4LGAAraMw4xOTcxj0lVXV9NqMjFiaeHJhM6SSYSkUoAFdKMAXGUlnSIA)
+
+----
+
+```ts
+import _ from 'lodash';
+const rows = rawRows.slice(1)
+    .map(rowStr => _.zipObject(headers, rowStr.split(',')));
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCMuBynkws2gxMnPzAioIAjJIkMOkweLYoXIIRAMpQlFgAfDDOeABefFwA8gBGAFaKwEJKquoQFjAFRab8QsJWkiOkQA)
+
+----
+
+```ts
+const rowsImperative = rawRows.slice(1).map(rowStr => {
+  const row = {};
+  rowStr.split(',').forEach((val, j) => {
+    row[headers[j]] = val;
+    // ~~~~~~~~~~~~ No index signature with a parameter of
+    //              type 'string' was found on type '{}'
+  });
+  return row;
+});
+const rowsFunctional = rawRows.slice(1)
+  .map((rowStr) =>
+    rowStr
+      .split(",")
+      .reduce(
+        (row, val, i) => ((row[headers[i]] = val), row),
+        //                 ~~~~~~~~~~~~~~~ No index signature with a parameter of
+        //                                 type 'string' was found on type '{}'
+        {}
+      )
+  );
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCMuBynkwAkvbqaHwIiizaDEyc-MCKggCMkni2KFyCEQDKUJRYAHwwAN4kMHBhVIws1QC+pPUlZab8QsJWuW6OAKIowPKCgggoPBYwAFaSlTV19TARekqq6vrzRkYs0zwdawD0pzAAftc3t9cwAHIgMHxgagAeMBB8AOZgaABXSiJGgCeQwDBcFDUWyKKDqGAgNyrernNbojH1KAATy4iWE0Eorx+whgNEC7hAALeiLAMBxeJ8bWEq1a0lWwKgQLpEVIbNCFHWugAYtTgFA+OAZklaCkIGk+BlspJVnkCpMupQlpgKiihTRSpQ9fUeuYcBYcCrMXhgSoAUrjWsiow5kc5nxtVUNYxNso1Bo9Hx9ocZpI5hEw47URdMbG1ncE7dHs9Xh8vr9-lzgWSwRCYFCYXCEUiozA0XGK5WMQz8YTiaTycwhtSVLT6bj8czS21HVaYOygA)
+
+----
+
+```ts
+const rowsLodash =
+  rawRows.slice(1).map(rowStr => _.zipObject(headers, rowStr.split(',')));
+rowsLodash
+// ^? const rowsLodash: _.Dictionary<string>[]
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCMuBynkwAMv6B8lgkMDDaDEyc-MCKggCMkni2KFyCEQDKUJRYAHwwzngAXnxcAPIARgBWisBCSqrqEBZJjKWUpvxCwlaSk6QRENEBQSQA9IswAHoA-HBhVLpzsQBc1XhIfJ184CiUAJ4APNCUfGAA5hV6RiRAA)
+
+----
+
+```ts
+interface BasketballPlayer {
+  name: string;
+  team: string;
+  salary: number;
+}
+declare const rosters: {[team: string]: BasketballPlayer[]};
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGk6RAA)
+
+----
+
+```ts
+let allPlayers = [];
+//  ~~~~~~~~~~ Variable 'allPlayers' implicitly has type 'any[]'
+//             in some locations where its type cannot be determined
+for (const players of Object.values(rosters)) {
+  allPlayers = allPlayers.concat(players);
+  //           ~~~~~~~~~~ Variable 'allPlayers' implicitly has an 'any[]' type
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGk6Q8yTDn2XlrLDekAPSfpQB+-wDATAAGr9PgoFIPHzPS5rYQwOxmYACHi5BSBGBQXJcGLCFBgXI3YQkb6lMnk8kNWpeGJ+YBoPjgZg0JQLBFQZhYnFwfFgECwcYwNThSi2BqKFQkNyOGCCJYwXivDQwEBuGAAeRSACtFMAoHgEOlhooIIJPKsNJJJEUejClZonhkXlcIHhyPShIqXdIeqSKRTAYHfiCwRCoXinbCNPDEfxkVBUejmPjoQSiZjsYoSNMgA)
+
+----
+
+```ts
+let allPlayers: BasketballPlayer[] = [];
+for (const players of Object.values(rosters)) {
+  allPlayers = allPlayers.concat(players);  // OK
+}
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGk6Q8yTDn2XlrR4nJaRkvVzcsN6Q3I4YIIljBeK8NDAQG4YAB5FIAK0UwCgeAQ6WGigggk8qw0kkkRR6z0uaxYpMhEDw5GAaEEEKuEGkpQA9Kz4QBpEjTIA)
+
+----
+
+```ts
+const allPlayers = Object.values(rosters).flat(); // OK
+//    ^? const allPlayers: BasketballPlayer[]
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGkzLgcufZeWssAPIpAFaKwFB4COlhooIIJPKsNJI8G4ckJpDAAPTwmBvADSJERpVKAD0APxwB6wJ6XNZHRLJNIZZ5XG4kIA)
+
+----
+
+```ts
+const teamToPlayers: {[team: string]: BasketballPlayer[]} = {};
+for (const player of allPlayers) {
+  const {team} = player;
+  teamToPlayers[team] = teamToPlayers[team] || [];
+  teamToPlayers[team].push(player);
+}
+
+for (const players of Object.values(teamToPlayers)) {
+  players.sort((a, b) => b.salary - a.salary);
+}
+
+const bestPaid = Object.values(teamToPlayers).map(players => players[0]);
+bestPaid.sort((playerA, playerB) => playerB.salary - playerA.salary);
+console.log(bestPaid);
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGkzLgcufZeWssAPIpAFaKwFB4COlhooIIJPKsNJI8G4ckJpDAAPTwmBvADSJERpVKAD0APxwB6wJ6XNZHRLJNIZZ5XG5kAkwbYAFRAVJJRS2yh2tT2XUOcTJZ0pxOutxYhTuJDcjhggiWMF4L0oMBAbhgRIVEEkRR6ssK20mLHlVxa9I5TJZGnZFSMLEZzKF+m21oAPk6YDdjbbzQ6OSYuMMgoJDeppCRphKpTK6UGNEqVR9vr9-oDgYJPfbJJriqVoxBOI4hIIUBYYClNZgAHwlzh9AYwAC0qur81yIbDsvG0EyKD4KneXx+fwBPCBILT6shthQXED9qwlZzhiMIY7UC7PbzTkEM4VAEFi9HYmX50LYk3+rl63KhTuzwMQ7IQDxFHg-I1BCu1yoQ0A)
+
+----
+
+```ts
+const bestPaid = _(allPlayers)
+  .groupBy(player => player.team)
+  .mapValues(players => _.maxBy(players, p => p.salary)!)
+  .values()
+  .sortBy(p => -p.salary)
+  .value();
+console.log(bestPaid.slice(0, 10));
+//          ^? const bestPaid: BasketballPlayer[]
+```
+
+[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGkzLgcufZeWssAPIpAFaKwFB4COlhooIIJPKsNJI8G4ckJpDAAPTwmBvADSJERpVKAD0APxwB6wJ6XNZHRLJNIZZ5XG5kAkwcbQTIoPgqFjOQREl4Qnp4RqeYZcWK5QS8LlYAB8MFFVzw20kPNsKC4ADVAcCRcSNBKYM48IqAB5CjVciAWKXaricPoDSQAQnlpX+apBDpgnEcUCNXG1AFpLRBrblXU6eEDBNJaZAQDxFHg-I1BAyoEyWZx+NFBAYzQBGAySCMYzFF7F4pb04HJ5kqUkncmc6lGEhAA)
 
 # push null values to the perimeter of your types
 
