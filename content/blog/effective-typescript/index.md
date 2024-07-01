@@ -2016,7 +2016,7 @@ const obj3 = { x: 1, y: 2 } as const;
 ----
 
 ```ts
-// while type assertion are best avoided, a const assertion doesn't compomise type safety and is always OK
+// while type assertion are best avoided, a const assertion doesn't compromise type safety and is always OK
 const arr1 = [1, 2, 3];
 //    ^? const arr1: number[]
 const arr2 = [1, 2, 3] as const;
@@ -2106,42 +2106,6 @@ const capitalsBad = {
 ## Code Samples
 
 ```ts
-const pt = {};
-//    ^? const pt: {}
-pt.x = 3;
-// ~ Property 'x' does not exist on type '{}'
-pt.y = 4;
-// ~ Property 'y' does not exist on type '{}'
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBADrAvDA3gXwNwCgD0OYEwB6A-DKJLAgFyppYIB0AHjMgMzZ4wB+MACgCcQcAKaCoATxgByZjJgATEKIgwwIWKOYBLaDHAwpY2ehkMojacgAsXfHyEjxU2ZIXLV6zTG17YhsaipmjmQA)
-
-----
-
-```ts
-interface Point { x: number; y: number; }
-const pt: Point = {};
-   // ~~ Type '{}' is missing the following properties from type 'Point': x, y
-pt.x = 3;
-pt.y = 4;
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgAoHtRmQb2QDwC5kQBXAWwCNoBuZAT2LKtuQF8AoBdEAZ2wAOYYhizIAvLjY0OyOQHp5yAH7LkAFXoCUAchxsdyYL2TljvUAHNkYABYoY6ADZP0AdyvIBUdNqhhgCBMYH3IbLV1RcB1ifAAaBg4hADp8CWQAZhkU+nSAFhkgA)
-
-----
-
-```ts
-const pt = {} as Point;
-//    ^? const pt: Point
-pt.x = 3;
-pt.y = 4;  // OK
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgAoHtRmQb2QDwC5kQBXAWwCNoBuZAT2LKtuQF8AoBdEAZ2wAO2ALy42yOLzSZwNDgHp5yZcgB6AfmTc+gsMQxYOQgHT5kogMxyT9c8gAsdZIuQB5ANIcgA)
-
-----
-
-```ts
 const pt: Point = {
   x: 3,
   y: 4,
@@ -2153,12 +2117,13 @@ const pt: Point = {
 ----
 
 ```ts
+// if you need to build larger object from smaller one, avoid doing it in smaller steps
 const pt = {x: 3, y: 4};
 const id = {name: 'Pythagoras'};
 const namedPoint = {};
 Object.assign(namedPoint, pt, id);
 namedPoint.name;
-        // ~~~~ Property 'name' does not exist on type '{}'
+// ~~~~ Property 'name' does not exist on type '{}'
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgAoHtRmQb2QDwC5kQBXAWwCNoBuZAT2LKtuQF8AoBdEAZ2wAO2ALy4iyAMwAaBsQAsbGlx79kwACbJROEHHIRiAclT0wACzgBzdFDi9Di5X2y796jFi25HAeUoArCAQwADo7XmBLEAAKVwh3THAZIRkNAEolOISsELilZALCgoB6YuQAP0rytCh0AWgwemRDOMNkdXQIXhJ0bAh8YFUeZEb65pw2Qw4gA)
@@ -2166,6 +2131,7 @@ namedPoint.name;
 ----
 
 ```ts
+// you can build the larger object all at once using object spread syntax
 const namedPoint = {...pt, ...id};
 //    ^? const namedPoint: { name: string; x: number; y: number; }
 namedPoint.name;  // OK
@@ -2177,6 +2143,7 @@ namedPoint.name;  // OK
 ----
 
 ```ts
+// you can also use object spread syntax to build up objects field by field in a type-safe way. The key is to use a new variable on every update, so that each gets new type
 const pt0 = {};
 const pt1 = {...pt0, x: 3};
 const pt: Point = {...pt1, y: 4};  // OK
@@ -2203,6 +2170,7 @@ const president = {...firstLast, ...(hasMiddle ? {middle: 'S'} : {})};
 ----
 
 ```ts
+// you can use spread syntax to add multiple fields conditionally
 declare let hasDates: boolean;
 const nameTitle = {name: 'Khufu', title: 'Pharaoh'};
 const pharaoh = { ...nameTitle, ...(hasDates && {start: -2589, end: -2566})};
@@ -2215,15 +2183,6 @@ const pharaoh = { ...nameTitle, ...(hasDates && {start: -2589, end: -2566})};
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/CYUwxgNghgTiAEEQBd4AsoGcAiVkkwC54AjAezKSgDsBuAKDDOs1WqgFsQAVAS2STwAvPADe7LsQDkAaTQBXAGbypAGnjJ+SaQAUMMKGTRSAvgyYtUAB32G0wsfAB0LiTy0h1LpwAoMOPAJ4ADJgsVZYZGIAWgAmAFYADgBOdRBqYBiEgDZskwBKM3oAemL4cvgAPQB+eAtWeBtYO2JRErKKzvgImGRq4mp5DhIQGAZSrs704H74QeHR8Y7Juc4QYlYYXmoAcyWV8s0Bde7kLd39yZN6IA)
-
-----
-
-```ts
-const {start} = pharaoh;
-//     ^? const start: number | undefined
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5&exactOptionalPropertyTypes=true#code/CYUwxgNghgTiAEEQBd4AsoGcAiVkkwC54AjAezKSgDsBuAKDDOs1WqgFsQAVAS2STwAvPADe7LsQDkAaTQBXAGbypAGnjJ+SaQAUMMKGTRSAvgyYtUAB32G0wsfAB0LiTy0h1LpwAoMOPAJ4ADJgsVZYZGIAWgAmAFYADgBOdRBqYBiEgDZskwBKM3oAemL4cvgAPQB+eAtWeBtYO2JRErKKzvgImGRq4mp5DhIQGAZSrs704H74QeHR8Y7Juc4QYlYYXmoAcyWV8s0Bde7kLd39yZNGZgbRHuQTByaDI0uKmrrb1AeBoZGYPAAD7weQZECKbYgYD0IA)
 
 
 # Understand Type Narrowing
