@@ -1861,6 +1861,7 @@ const tupleLike: ArrayLike<string> = {
 ## Things to Remember
 
 - While a variable's value can change, its type generally does not.
+  - the one common way a type can change is to narrow
 - To avoid confusion, both for human readers and for the type checker, avoid reusing variables for differently typed values.
 
 ## Code Samples
@@ -1893,6 +1894,12 @@ fetchProductBySerialNumber(productId);  // OK
 ----
 
 ```ts
+// better solution to union type is to introduce different variables
+// - it disentangles 2 unrelated concepts (ID and serial number)
+// - it allows you to use more specific variable names
+// - it improves type inferences, no type annotation needed
+// - it results in simpler types (string and number literals, rather than string | number)
+// - it let you declare variable const rather than let. This make it easier for hte type checker and people to reason about.
 const productId = "12-34-56";
 fetchProduct(productId);
 
