@@ -1792,6 +1792,7 @@ renderAButton({
 
 - Understand that arrays are objects, so their keys are strings, not numbers. `number` as an index signature is a purely TypeScript construct designed to help catch bugs.
 - Prefer `Array`, tuple, `ArrayLike`, or `Iterable` types to using `number` in an index signature yourself.
+
 ## Code Samples
 
 ```ts
@@ -1813,6 +1814,7 @@ const x1 = xs['1'];  // stringified numeric constants are also OK
 const inputEl = document.getElementsByTagName('input')[0];
 const xN = xs[inputEl.value];
 //            ~~~~~~~~~~~~~ Index expression is not of type 'number'.
+// in particular, numbers cannot be used as keys. If you try to use a number as a property name, the javascript runtime will convert it to a string
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBAHhGBeGBtAjAGhgJmwZgF0BuAKFEljgAZl4JVqSYYB6VmAeQGlzxp46OglQBydKOZsO0AE4BLMAHN5AM3kBTACYwwAVwC2GhcBgVoAQzBREF2RpgWANhBBdefSjEUAHPVABRJzotEGBDDWsAOiUNQKcNI2sIACEATwAVCyUAOQsjAApRX39RAEpGEk8BOBzhBhL4qIA3Zz0NKvYWbp7ugD8BwaHBmABJMC0NOBgpn3sICHlwb0QwEFgQVRgoNJ8HUX0DACNjUSjSIA)
@@ -1820,6 +1822,7 @@ const xN = xs[inputEl.value];
 ----
 
 ```ts
+x = [1, 2, 3]
 const keys = Object.keys(xs);
 //    ^? const keys: string[]
 ```
@@ -1842,6 +1845,7 @@ function checkedAccess<T>(xs: ArrayLike<T>, i: number): T {
 ----
 
 ```ts
+// a general rule, there's not much reason to use number as the index signature of a type. if you want to specify something that will be indexed using numbers, you probably want to use an ArrayLike or tuple type instead.
 const tupleLike: ArrayLike<string> = {
   '0': 'A',
   '1': 'B',
