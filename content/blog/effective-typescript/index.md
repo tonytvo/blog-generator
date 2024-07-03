@@ -1929,6 +1929,7 @@ fetchProduct(productId);
 ## Things to Remember
 
 - Understand how TypeScript infers a type from a literal by widening it.
+- widening process is when typescript needs to decide on a set of possible values, from a single value that you specified.
 - Familiarize yourself with the ways you can affect this behavior: `const`, type annotations, context, helper functions, `as const`, and `satisfies`.
 
 ## Code Samples
@@ -1945,6 +1946,7 @@ function getComponent(vector: Vector3, axis: 'x' | 'y' | 'z') {
 ----
 
 ```ts
+// the general fule for primitive value assigned with let is that they expand to their "base type"; x expands to string, 39 expands to number, true expands to boolean, and so on (null and undefined are handled differently)
 let x = 'x';
 let vec = {x: 10, y: 20, z: 30};
 getComponent(vec, x);
@@ -1957,24 +1959,7 @@ getComponent(vec, x);
 ----
 
 ```ts
-const mixed = ['x', 1];
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgGoQWA9lAzMgb2QA8AuZEAVwFsAjaAbmQE9yq7HkAvNm+qJgF8AUDEohMwLCGQBzCGADCWagAdpEcAAoAbhmxRy6TDlwAaZHGLAAzuQDkxe8gA+ye82dv7XewEpCYWRkKAVKKBk9EygAbStbAF0GYREEaRswZGpgYggAE2QAXmQYx3sLAEYk4SA)
-
-----
-
-```ts
-let x = 'x';
-x = 'a';
-x = 'Four score and seven years ago...';
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgGoQWA9lAzMgb2QA8AuZEAVwFsAjaAbmQE9yq7HkAvNm+qJgF8AUDEohMwLCGQBzCGADCWagAdpEcAAoAbhmxRy6TDlwAaZHGLAAzuQDkxe8gA+ye82dv7XewEpCYWRkKAVKKBk9EygAbStbAF0GYREAGwUSZABedydk4mz3OHt8wvsAMSxw5BsEHBQ4EAATGog9GWYIOCgbS1ksADohkuEgA)
-
-----
-
-```ts
+// if you declare a variable with const instead of let, it gets a narrower type.
 const x = 'x';
 //    ^? const x: "x"
 let vec = {x: 10, y: 20, z: 30};
@@ -1986,6 +1971,7 @@ getComponent(vec, x);  // OK
 ----
 
 ```ts
+// in the case of objects, TypeScript infers what it calls the "best common types", It determines this by treating each property as through it was assigned with let. so the type of obj.x comes out as number, this lets you assign obj.x to different number but not to a string. And it prevents you from adding other properties via direct assignment.
 const obj = {
   x: 1,
 };
@@ -2005,6 +1991,7 @@ obj.name = 'Pythagoras';
 ----
 
 ```ts
+// override default typescript behaviors
 const obj: { x: string | number } = { x: 1 };
 //    ^? const obj: { x: string | number; }
 ```
@@ -2029,6 +2016,7 @@ const obj3 = { x: 1, y: 2 } as const;
 ----
 
 ```ts
+// while type assertion are best avoided, a const assertion doesn't compomise type safety and is always OK
 const arr1 = [1, 2, 3];
 //    ^? const arr1: number[]
 const arr2 = [1, 2, 3] as const;
@@ -2053,6 +2041,8 @@ const mix = tuple(4, 'five', true);
 ----
 
 ```ts
+// like const, Object.freeze has introduced some readonly modifiers into the the inferred types 
+// unlike the const assertion, the "freeze" will be enforced by your javascript runtime, but it's shallow freeze/readonly, whereas const assertion is deep.
 const frozenArray = Object.freeze([1, 2, 3]);
 //    ^? const frozenArray: readonly number[]
 const frozenObj = Object.freeze({x: 1, y: 2});
@@ -2073,6 +2063,8 @@ const capitals2 = {
 } satisfies Record<string, Point>;
 capitals2
 // ^? const capitals2: { ny: [number, number]; ca: [number, number]; }
+// satisfies prevent the values from being widened beyond the Point type
+// this is an improvement over a const assertion because it will report the error where you define the object, rather than where you use it.
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgGoQWA9lAzMgb2QA8AuZEAVwFsAjaAbmQE9yq7HkAvNm+qJgF8AUDEohMwLCGQBzCGADCWagAdpEcAAoAbhmxRy6TDlwAaZHGLAAzuQDkxe8gA+ye82dv7XewEpCYWRkKAVKKBk9EygAbStbAF0GYREwZlUUAAUsUDBkAF5kGPZ+CxLoJOEEaRs8hDhVYDA4ABsbAEYCwgpWIoBaAHZcADoBgFYANgAmCwAWKeGJsamJhIt68hi+9qn24dmATlnZi1wADmGxs-bV5EFkgHoH4OCAPQB+ZGqQWq+GptaHXIRBAvXKsSSf14HAhQmEVRqdX+zTaUy6BCCPU2gxG42mcwWSxWayh-R2e0Ox1OFyuNwSKWQNjgYFsMGAEBsyAAShgcAATAA8tSgoFkFmyuQAfMl6o0UTYpsInsgPl9EX85YCpsCsUVwWU+BUmBs9YaoAaYZCREA)
