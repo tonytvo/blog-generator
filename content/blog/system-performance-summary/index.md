@@ -14,6 +14,9 @@ tags: ["evolutionarydesign", "systemperformance"]
   - design data intensive application
   - systems performance
 
+# system performance and design data intensive applications (summary)
+- [system performance and design data intensive applications](/data-intensive-system-perf)
+
 # Quotes
 
 
