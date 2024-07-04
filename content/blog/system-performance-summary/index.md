@@ -1,33 +1,18 @@
 ---
 title: system performance summary - wip
-date: "2021-12-23T22:12:03.284Z"
+date: "2024-07-03T22:12:03.284Z"
 description: "system performance summary"
 tags: ["evolutionarydesign", "systemperformance"]
 ---
 
 # key ideas
-
-
-# Reliable, Scalable, and Maintainable Applications
-# interesting concepts/ideas
-- chapter 1, reliable, scalable, and maintainable applications, design data-intensive application
-- chapter 2, data models and query languages, design data-intensive applications
-- chapter 3, storage and retrieval, design data-intensive applications
-- chapter 4, encoding and evolution (sections on data flow), design data-intensive applications
-- chapter 6, partitioning, design data-intensive applications
-- chapter 7, transactions, design data-intensive applications
-- chapter 10, batch processing, design data-intensive applications
-- chapter 11, stream processing, design data-intensive applications
-- examples from the current system.
-- chapter 2, an approach to performance testing, java performance
-- chapter 3, java performance toolbox, java performance
-- chapter 7, heap memory best practices, java performance
-- chapter 8, native memory best practices, java performance
-- chapter 9, threading and synchronization performance. java performance
-- chapter 11, database performance best practices, java performance
-- chapter 12, java se api tips, java performance,
-# Collect Examples
-- examples from the current system.
+- this is huge topics, so it's continuous progress of updating references to other topics
+- here's the interesting topics that has already been discussed summarized before
+  - observability
+  - site reliability
+  - devops handbook
+  - design data intensive application
+  - systems performance
 
 # Quotes
 
@@ -50,7 +35,6 @@ tags: ["evolutionarydesign", "systemperformance"]
 
 - https://github.com/keyvanakbary/learning-notes/blob/master/books/distributed-systems-observability.md
 - https://github.com/LauraBeatris/observability-notebook/
-- https://hoangdinhquang.me/practical-monitoring/
 
 # systems performance
 
