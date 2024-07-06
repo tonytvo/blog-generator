@@ -2198,6 +2198,7 @@ const pharaoh = { ...nameTitle, ...(hasDates && {start: -2589, end: -2566})};
 
 ```ts
 const elem = document.getElementById('what-time-is-it');
+//in TypeScript, a symbol has a type at a location
 //    ^? const elem: HTMLElement | null
 if (elem) {
   elem.innerHTML = 'Party Time'.blink();
@@ -2273,6 +2274,7 @@ function contains(text: string, terms: string | string[]) {
 ----
 
 ```ts
+//because typeof null is "object" in javascript, you have not, in fact, excluded null with this check.
 const elem = document.getElementById('what-time-is-it');
 //    ^? const elem: HTMLElement | null
 if (typeof elem === 'object') {
@@ -2289,6 +2291,7 @@ if (typeof elem === 'object') {
 function maybeLogX(x?: number | string | null) {
   if (!x) {
     console.log(x);
+    //because empty string and 0 are both falsy, x could still be a string, or number
     //          ^? (parameter) x: string | number | null | undefined
   }
 }
@@ -2299,6 +2302,7 @@ function maybeLogX(x?: number | string | null) {
 ----
 
 ```ts
+// this is known as "tagged union" or "dicriminated union"
 interface UploadEvent { type: 'upload'; filename: string; contents: string }
 interface DownloadEvent { type: 'download'; filename: string; }
 type AppEvent = UploadEvent | DownloadEvent;
@@ -2360,13 +2364,7 @@ if (nameToNickname.has(yourName)) {
 } else {
   nameToUse = yourName;
 }
-```
 
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBGCGBbApgFRAOQJbANYJRgF45kB3GAWXgAcAeaAJyzAHMAaGJl1gPgAoAlAG4AUABNkwADbxGyGNOSwAniACujDEmQAuLlGZsxS2ATQgAqhD0GjrMVgBmMfufTY85gHQALeBD8apraKIKCMADeojBwOujWCiTumDj4Ot6sykEaWjoiMTAA9EUwAH4VlTCoKjQKAOTcbDAAPjDqYJJOLMji9TBYEHAgsAEQWKwIAEZKMFAgc7UNTaz13qIAvjDI0jZRhSmJxDDBeShiG6JAA)
-
-----
-
-```ts
 const nickname = nameToNickname.get(yourName);
 let nameToUse: string;
 if (nickname !== undefined) {
@@ -2374,13 +2372,8 @@ if (nickname !== undefined) {
 } else {
   nameToUse = yourName;
 }
-```
 
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBGCGBbApgFRAOQJbANYJRgF45kB3GAWXgAcAeaAJyzAHMAaGJl1gPgAoAlAG4AUABNkwADbxGyGNOSwAniACujDEmQAuLlGZsxoSLDA58O4nB3pseAsgB0rZfzWbtKEaKXm7EABVCD0DI1YxLAAzGH4LR2sAQiISdTBJaJZkcUEYAG9RGFsUdBCFEgSrFDEAXxhkaVCCopK0YOaSTy0dOtEgA)
-
-----
-
-```ts
+// this pattern is common and can be written more concisely using the "nullish coalescing" operator (??)
 const nameToUse = nameToNickname.get(yourName) ?? yourName;
 ```
 
@@ -2406,6 +2399,9 @@ function logLaterIfNumber(obj: { value: string | number }) {
 const obj: { value: string | number } = { value: 123 };
 logLaterIfNumber(obj);
 obj.value = 'Cookie Monster';
+
+// by the time the callback runs, the type of obj value has changed, invalidating the refinement. This code throws an exception at runtime, and TypeScript is right to warn you about it.
+
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAGzgcwDIEMoFMBOAksAHIgC2ARgQBRyUBWAXIgN6IBuWyIuLAzlHwwwaRAB9EYCtXyIAvgEo2AKESIYwRDSgBPAA644W+gwB0XHrkQBeO4gBE0qgQfLWa9Yn64oAFRhyIxAoGhplGwA+RAgEfjhkXDNUNDpGC25eMyg4ADEYAA9cABNwxUUAbk91AHoarwbGpuaWhoA-Ds626sQ6xAAFfDhDfD1EAHIc-KLi8cRiuFx+KTgoRFwCmEFEBEQ9QwnBYVEJKRkCcbNPeRUb2LBt0xZ2S14BIRExSWdZBVs2TiZPiIACMACYAMwKKopbB4Iikc74NIMSoqUwZKz-cYAYTgcAA1jBrABZOLw8ZVIA)
