@@ -2600,6 +2600,11 @@ We should allow each individual to maintain their privacy, their control over th
 
 We should not retain data forever, but purge it as soon as it is no longer needed.
 
+# Questions
+
+- how to get consistent results when benchmarking on linux?
+  - [consistent performance measurement on linux](https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux)
+
 # References
 - https://oliver-hu.medium.com/systems-performance-reading-notes-chapter-6-cpu-d70627188b85
 - https://oliver-hu.medium.com/systems-performance-reading-notes-chapter-7-memory-6e87ac8fcfdd
