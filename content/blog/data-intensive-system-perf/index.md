@@ -2604,6 +2604,17 @@ We should not retain data forever, but purge it as soon as it is no longer neede
 
 - how to get consistent results when benchmarking on linux?
   - [consistent performance measurement on linux](https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux)
+- what's linux perf analysis in 60 second?
+  - uptime
+  - dmesg -T | tail
+  - vmstat 1
+  - mpstat -P ALL
+  - pidstat 1
+  - iostat -xz 1
+  - free -m
+  - sar -n DEV 1
+  - sar -n TCP,ETCP 1
+  - top
 
 # References
 - https://oliver-hu.medium.com/systems-performance-reading-notes-chapter-6-cpu-d70627188b85
