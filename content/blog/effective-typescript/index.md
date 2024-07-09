@@ -2420,6 +2420,7 @@ obj.value = 'Cookie Monster';
 ```ts
 const place = {name: 'New York', latLng: [41.6868, -74.2692]};
 const loc = place.latLng;
+// you have created an alas, changes to the properties on the alias will be visible on the original value as well
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBADgGwIbAKYwLwwN5iQW1QC4YByAOVQHcYBNEAJwGtSAaGZKAGTAHMSA2gBYAjADoAbAA5p7ALQB2IWIBMEgJwqAugF8A3AChQkWAhDBM8ZGjGcevQ0A)
@@ -2467,25 +2468,6 @@ function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
 
 ```ts
 function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
-  const box = polygon.bbox;
-  if (polygon.bbox) {
-    if (pt.x < box.x[0] || pt.x > box.x[1] ||
-        //     ~~~                ~~~  'box' is possibly 'undefined'
-        pt.y < box.y[0] || pt.y > box.y[1]) {
-        //     ~~~                ~~~  'box' is possibly 'undefined'
-      return false;
-    }
-  }
-  // ...
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMIHt1QCajpZAbwChlkAPALmRAFcBbAI2gG5TkBPaup14gX2LFQkWIhQAhdLRC4QAcynki7KsgDaPZlAA0NBtoC6bMlw1boei1GMChI6PCTIACugA2HeehAqyEclFgLGoMLDl8CHVbMgALDwgAZ1DMHDxIaOiTZEZGdHIAfmopGTlFfLZBGBkEMGDfYES3EQBJEDdPbxAACgAHDy8fag7BkD1esBTw9IgASj9kBB9EsBz85ABeZH7OnwA6XIr2YBhkPoGug7zyeZIyMhOzib3lAB418hf1AAZDZAAff7bMAvZAAPg+XwAjH9Aex7vcAPSIhHIAB+GNRWNRGLRZAA5Nd8chGtt0IlEsBGJ5kPjShAYKAINh8fDUc8OMh3tc9hwfrCgRzwZC+TDbmyEcicZjsbLcQSiSTEmSKVSaXTZAymSyJcgoBAwLQoL54O5EhBsmRBFb2FK9va7EA)
-
-----
-
-```ts
-function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
   polygon.bbox
   //      ^? (property) Polygon.bbox?: BoundingBox | undefined
   const box = polygon.bbox;
@@ -2504,6 +2486,7 @@ function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
 ----
 
 ```ts
+// if you introduce an alias, use it consistently
 function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
   const box = polygon.bbox;
   if (box) {
