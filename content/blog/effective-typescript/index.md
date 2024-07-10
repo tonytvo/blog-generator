@@ -2501,34 +2501,6 @@ function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMIHt1QCajpZAbwChlkAPALmRAFcBbAI2gG5TkBPaup14gX2LFQkWIhQAhdLRC4QAcynki7KsgDaPZlAA0NBtoC6bMlw1boei1GMChI6PCTIACugA2HeehAqyEclFgLGoMLDl8CHVbMgALDwgAZ1DMHDxIaOiTZEZGdHIAfmopGTlFfLZBGBkEMGDfYES3EQBJEDdPbxAACgAHDy8fag7BkD1esBTw9IgASj9kBB9EsBz85ABeZH7OnwA6XIr2YBhkbrzyeZIyMhOzib3lAB418kf1AAZDZAAfH+2wI9kAA+V7vACM3z+7BuNweHGQLwuew4nyh-3hILBqMhVzIAHp8cgAPIAaRhNygEDAtCgvng7kSEGyZEErPYhOQe25diAA)
 
-----
-
-```ts
-function isPointInPolygon(polygon: Polygon, pt: Coordinate) {
-  const {bbox} = polygon;
-  if (bbox) {
-    const {x, y} = bbox;
-    if (pt.x < x[0] || pt.x > x[1] || pt.y < y[0] || pt.y > y[1]) {
-      return false;
-    }
-  }
-  // ...
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMIHt1QCajpZAbwChlkAPALmRAFcBbAI2gG5TkBPaup14gX2LFQkWIhQAhdLRC4QAcynki7KsgDaPZlAA0NBtoC6bMlw1boei1GMChI6PCTIACugA2HeehAqyEclFgLGoMLDl8CHVbMgALDwgAZ1DMHDxIaOiTZEZGdHIAfmopGTlFfLZBGBkEMGDfYES3EQBJEDdPbxAACgAHDy8fag7BkD1esBTw9IgASj9kBB9EsCJc-P5kAF5kfs6fbOAYZG718nmSMjIlkBWicj0OTZ2z7LIjk4mAOmUAHgp1AAGQzIAA+oN2YB+yAAfACAIwg8GQr4cZD-DhApEQ75ouGYxEXdhXZBQCBgWhQXzwdyJCBvZCCMhM5AAelZyC+XLsQA)
-
-----
-
-```ts
-const {bbox} = polygon;
-if (!bbox) {
-  calculatePolygonBbox(polygon);  // Fills in polygon.bbox
-  // Now polygon.bbox and bbox refer to different values!
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMIHt1QCajpZAbwChlkAPALmRAFcBbAI2gG5TkBPaup14gX2LFQkWIhQAhdLRC4QAcynki7KsgDaPZlAA0NBtoC6bMlw1boei1GMChI6PCTIACugA2HeehAqyEclFgLGoMLDl8CHVbMgALDwgAZ1DMHDxIaOiTZEZGdHIAfmopGTlFfLZBAHoq5AAJAEkAEQBRYgQfRLBkAAcPLx9qN09vXwBeImQAoJCNQz149yTqaOR+NhgZBDBg3wQ4dwRad0jhgZAJPPIACj6Rwdd+0YBKImraloA5JvbO7sJcvl+MgJndzmxgDBkNcAISA8ivEhkfaHY6nJ4+S75W4YkDPFhkGrIABiwHc7kSyFAvVxADp4ewiZ90AB3Gn3ED0q7IOCyHLcqAQGDQZBgdDIXAwYWC8DIABuB1oSRhdmIQA)
 
 ----
 
@@ -2541,6 +2513,8 @@ if (polygon.bbox) {
   polygon.bbox
   //      ^? (property) Polygon.bbox?: BoundingBox
   expandABit(polygon);
+  // the call to expandABit could very well unset polygon.bbox, so it would be safer for the type to revert to BoundingBox | undefined. BUt this means that you would need to repeat your property checks every time you called a function. So Typescript, makes a pragmatic choice to assume the function does not invalidate its type refinements.
+  // you could pass read only version of polygon to the function. By preventing mutation, we also improve type safety.
   polygon.bbox
   //      ^? (property) Polygon.bbox?: BoundingBox
 }
