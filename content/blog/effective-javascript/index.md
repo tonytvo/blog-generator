@@ -1222,6 +1222,7 @@ In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is
 * [store instance state only on instance objects](./store-instance-state-on-instance-objects.js)
 * [recognize implicit binding of this](./implicit-binding-this.js)
 * [Call SuperClass contructors form Subclass constructors](./call-superclass-contructor-from-subclass-constructor.js)
+* [never reuse superclass property names](./never-reuse-superclass-property-names.js)
 * [avoid inheriting from standard classes](./avoid-inheriting-from-standard-class.js)
 * [item 40](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_40.js)
 * [item 44](https://github.com/nickaigi/effective-javascript/blob/master/chapter_5/item_44.js)
