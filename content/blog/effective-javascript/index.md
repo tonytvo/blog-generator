@@ -1221,7 +1221,7 @@ In JavaScript, this actually _takes_ a value and _returns_ `undefined`, which is
 * [Use closures to store private data](./use-closure-store-private-data.js)
 * [store instance state only on instance objects](./store-instance-state-on-instance-objects.js)
 * [recognize implicit binding of this](./implicit-binding-this.js)
-* [item 38](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_38.js)
+* [Call SuperClass contructors form Subclass constructors](./call-superclass-contructor-from-subclass-constructor.js)
 * [item 39](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_39.js)
 * [item 40](https://github.com/nickaigi/effective-javascript/blob/master/chapter_4/item_40.js)
 * [item 44](https://github.com/nickaigi/effective-javascript/blob/master/chapter_5/item_44.js)
