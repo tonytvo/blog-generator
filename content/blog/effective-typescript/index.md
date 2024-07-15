@@ -2532,8 +2532,6 @@ if (polygon.bbox) {
 - If the variable is truly a constant, use a const assertion (`as const`). But be aware that this may result in errors surfacing at use, rather than definition.
 - Prefer inlining values where it's practical to reduce the need for type annotations.
 
-
-
 ## Code Samples
 
 ```ts
@@ -2559,6 +2557,7 @@ let language = 'JavaScript';
 setLanguage(language);
 //          ~~~~~~~~ Argument of type 'string' is not assignable
 //                   to parameter of type 'Language'
+// Typescript determines the type of a variable when it is first introduced (unlike some languages are able to infer types for variables based on their eventual usage.)
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAMghgOwOYFc5OgXigcgFJwBucAygMYBOAlmMDlAD64Aq4E51t9TOACiMAAWAewQ4A3ACgAZigRlgVUVADOEYPGRoMACgA2iVOggAuWIe0QAlFADeUAPQAqKADp3UJw6gBfSZLUNC2MdfCJSSho6K3EoR28AeQBpfz11KAMtYyhsMOIOKIkA9U0jXUyy6ykHbzi6+oA-JuamqABBClQAWwgEYChhaShQSFwVYGpkeioVKARhfrgVFSokBDgAIzTJGvq9-frgYSgwOAo4HuAICgGhkegcUsscSSA)
@@ -2578,6 +2577,7 @@ setLanguage(language);  // OK
 const language = 'JavaScript';
 //    ^? const language: "JavaScript"
 setLanguage(language);  // OK
+// By using const, we've told the type checker that this variable cannot change. So TypeScript can infer a more precise type for language.
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAMghgOwOYFc5OgXigcgFJwBucAygMYBOAlmMDlAD64Aq4E51t9TOACiMAAWAewQ4A3ACgAZigRlgVUVADOEYPGRoMACgA2iVOggAuWIe0QAlFADeUAPQAqKADp3UJw6gBfSWVEVYCgDLWMobHwiUkoaOikHbyhkgD0AfigAhCCQi2MzACICYg44gsk1DTzdUKMMK3FkxKgAeQBpSSA)
@@ -2638,6 +2638,7 @@ panTo(loc);
 //    ~~~ Argument of type 'readonly [10, 20, 30]' is not assignable to
 //        parameter of type 'readonly [number, number]'
 //          Source has 3 element(s) but target allows only 2.
+// const contexts can neatly solve issues around losing context in inference, but they do have an unfortunate downside, if you make a mistake in the definition (say you add a third element to the tuple), then the error will be flagged at the call site, not at the definition. This may be confusing, especially if the error in a deeply nested object that's used for from where it's defined. For this reason, it's preferable to use the inline form or apply a type declaration.
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABABwIZgCpwBQHcAWApgE6EBcipqAJggDYCeiA2mCALYBGJANIm1xIBdAJSIA3ogD0AKkQA6RYhlTEAXwBQEBAGcoiOnAiIAvCwCMABj4Ama4gDMloYlQ7E2sHoDciaapJiOGJEGHcqOkZEIlJ5DTRMHEMIEW8NKVU-RAA-XMQAQWIAcw5CMH04YEQoBmRCRAByKlowKOYrW3snIQbQ9zA4fTcdGCKwVE46eqg4dMysrLRiVHZCKBJESura+qbCGnomVg5uYj4BU565hZvEAGU4EGIIevw3R0RCKdXy7B0xTggfRQVDFNauSJwXDuQ6IGxxIA)
@@ -2664,6 +2665,7 @@ complain(ts);
 //            is not assignable to parameter of type 'GovernedLanguage'
 //          Types of property 'language' are incompatible
 //            Type 'string' is not assignable to type 'Language'
+//as before, the solution is to add a type annotation (const ts: )
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/C4TwDgpgBAMghgOwOYFc5OgXigcgFJwBucAygMYBOAlmMDlAD64Aq4E51t9TOACiMAAWAewQ4A3ACgqCYBAoAzOGWgBxYYXkIIAE3jI0GKAG9JUKABtEqdBABcsa4YhTzwikkRUAXnGBVRBwBnYGpkKQBfSUkFFAQyf1EoMmEAWzArGQAKKwNbB3VNCm09J1sAShMoAHoAKigAOiaoWuqoKMkU9MyELONLMowHHFZIDho6ABood08EHz8AhGGAWSpKYSDhBTp28vFzaraAeQBpaJSEEKhgIKhsU3NcmyGWNnGuSbMZjy9fROWuDWGy2OxwXwiUi6GTg2Vu+0kR3MyPMAD9UVAAIIeFCpCCyGYKG5sXD9Z7OYKhGRIA6zP6LQJQEJhGntHCItoornmKh3BDCYBQOBBIJUJAIOAAIws0GAwigYDgFDgeLkFEJxMguEKWl0+heEHZSO5yNGEDu2wVFGEkAooFw5Ns9CV0Bk0MW0ogHJNXLNuGZ1PovKg-MFwtF4qlMpu8tAWpw+uc7KAA)
@@ -2679,6 +2681,9 @@ callWithRandomNumbers((a, b) => {
   //                   ^? (parameter) a: number
   console.log(a + b);
   //              ^? (parameter) b: number
+  // when you pass a callback to another function, TypeScript uses context to infer the parameter types of the callback
+  // if you factor the callback out into a constant, you lose that context and get noImplicitAny errors
+  // if the function is only used in one place, prefer the inline form since it reduces the need for annotations
 });
 ```
 
