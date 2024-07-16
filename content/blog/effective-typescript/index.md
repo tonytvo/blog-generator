@@ -2752,7 +2752,7 @@ function makeSquares(start: number, limit: number) {
 ## Things to Remember
 
 - Use built-in functional constructs and those in utility libraries like Lodash instead of hand-rolled constructs to improve type flow, increase legibility, and reduce the need for explicit type annotations.
-
+- JavaScript has never included the sort of standard library you find in Python, C, or Java. Over the years, many libraries have tried to fill the game. JQuery provided helpers not just for interacting with the DOM but also for iterating and mapping over objects and arrays. Underscore focused more on providing general utility functions, and Lodash built on this effort. Today libraries like Ramda continue bring ideas from functional programming into JavaScript world. 
 
 ## Code Samples
 
@@ -2805,6 +2805,7 @@ const rowsFunctional = rawRows.slice(1)
         {}
       )
   );
+  // the solution in each case is to provide a type annotation for {}, either {[column: string]: string} or Record<string, string>
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCMuBynkwAkvbqaHwIiizaDEyc-MCKggCMkni2KFyCEQDKUJRYAHwwAN4kMHBhVIws1QC+pPUlZab8QsJWuW6OAKIowPKCgggoPBYwAFaSlTV19TARekqq6vrzRkYs0zwdawD0pzAAftc3t9cwAHIgMHxgagAeMBB8AOZgaABXSiJGgCeQwDBcFDUWyKKDqGAgNyrernNbojH1KAATy4iWE0Eorx+whgNEC7hAALeiLAMBxeJ8bWEq1a0lWwKgQLpEVIbNCFHWugAYtTgFA+OAZklaCkIGk+BlspJVnkCpMupQlpgKiihTRSpQ9fUeuYcBYcCrMXhgSoAUrjWsiow5kc5nxtVUNYxNso1Bo9Hx9ocZpI5hEw47URdMbG1ncE7dHs9Xh8vr9-lzgWSwRCYFCYXCEUiozA0XGK5WMQz8YTiaTycwhtSVLT6bj8czS21HVaYOygA)
@@ -2884,13 +2885,9 @@ for (const players of Object.values(teamToPlayers)) {
 const bestPaid = Object.values(teamToPlayers).map(players => players[0]);
 bestPaid.sort((playerA, playerB) => playerB.salary - playerA.salary);
 console.log(bestPaid);
-```
 
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGkzLgcufZeWssAPIpAFaKwFB4COlhooIIJPKsNJI8G4ckJpDAAPTwmBvADSJERpVKAD0APxwB6wJ6XNZHRLJNIZZ5XG5kAkwbYAFRAVJJRS2yh2tT2XUOcTJZ0pxOutxYhTuJDcjhggiWMF4L0oMBAbhgRIVEEkRR6ssK20mLHlVxa9I5TJZGnZFSMLEZzKF+m21oAPk6YDdjbbzQ6OSYuMMgoJDeppCRphKpTK6UGNEqVR9vr9-oDgYJPfbJJriqVoxBOI4hIIUBYYClNZgAHwlzh9AYwAC0qur81yIbDsvG0EyKD4KneXx+fwBPCBILT6shthQXED9qwlZzhiMIY7UC7PbzTkEM4VAEFi9HYmX50LYk3+rl63KhTuzwMQ7IQDxFHg-I1BCu1yoQ0A)
+// better option,
 
-----
-
-```ts
 const bestPaid = _(allPlayers)
   .groupBy(player => player.team)
   .mapValues(players => _.maxBy(players, p => p.salary)!)
@@ -2904,7 +2901,7 @@ console.log(bestPaid.slice(0, 10));
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGkzLgcufZeWssAPIpAFaKwFB4COlhooIIJPKsNJI8G4ckJpDAAPTwmBvADSJERpVKAD0APxwB6wJ6XNZHRLJNIZZ5XG5kAkwcbQTIoPgqFjOQREl4Qnp4RqeYZcWK5QS8LlYAB8MFFVzw20kPNsKC4ADVAcCRcSNBKYM48IqAB5CjVciAWKXaricPoDSQAQnlpX+apBDpgnEcUCNXG1AFpLRBrblXU6eEDBNJaZAQDxFHg-I1BAyoEyWZx+NFBAYzQBGAySCMYzFF7F4pb04HJ5kqUkncmc6lGEhAA)
 
 
-# Item 27: Use async Functions Instead of Callbacks to Improve Type Flow
+# Use async Functions Instead of Callbacks to Improve Type Flow
 
 ## Things to Remember
 
