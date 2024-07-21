@@ -3799,71 +3799,6 @@ const fortyFive = sum(zeroToNine);  // ok, result is 45
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/GYVwdgxgLglg9mABAZxAWwBQA9kC5ECSUApgE4CGARgDbEA8Y6lZAfAJT6NrOmIDeAKESJaUFOkQBeRAAYA3EMTA4vDBATIxWRHGCIcbfouGo0iANTSsC4QF9FpYlBCkkphfdCRYCAFSIKMABzYgxqGDQYKE4mMkNBYWVVUUQYKVk5VMQ6EQiozJhzc3jjRABPGGJqABNUm0R7e3UwTUQALzI4ABU4ADkYMGJ0wJCMAEYZNgUAemnhYQA9AH5EZtaO0m6+geJ8AHFiQYooFQZY0gAaRAA3OBhqq-AAazA4AHcwFgE1sSSoMoAYjBrkNpKYMBstv1BlNhLMdE8ro5UNQxDBkIgACwAVgEQA)
 
 
-# push null values to the perimeter of your types
-
-- example 1:
-  - avoid
-```javascript
-let min, max;
-...
-return [min, max];
-```
-  - better approach would be:
-```javascript
-let result: [number, number] | null = null;
-...
-return result;
-```
-
-- mix of null and non-null values can also lead to problems in classes. For example
-```javascript
-class UserPosts {
-  user: UserInfo | null;
-  posts: Post [] | null;
-
-  constructor () {
-    this.user = null;
-    this.posts = null;
-  }
-
-  async init(userId: string) {
-    return Promise.all([
-      async () => this.user = await fetchUser(userId),
-      async () => this.posts = await fetchPostsForUser(userId)
-    ]);
-  }
-}
-```
-  - better design would wait until all the data used by the class is available
-```javascript
-class UserPosts {
-  user: UserInfo;
-  posts: Post [];
-
-  constructor () {
-    this.user = null;
-    this.posts = null;
-  }
-
-  async init(userId: string) {
-    const [user, posts] = Promise.all([
-      async () => this.user = await fetchUser(userId),
-      async () => this.posts = await fetchPostsForUser(userId)
-    ]);
-    return new UserPosts(user, posts);
-  }
-}
-```
-
-- don't be tempted to replace nullable properties with promises. This tends to lead to even more confusing code and forces all your methods to be async. Promises clarify the code that loads data but tend to have the opposite effect on the class that uses that data.
-
-- **Things to Remember**
-  - Avoid designs in which one value being null or not null is implicitly related to another value being null or not null.
-  - Push null values to the perimeter of your API by making larger objects either null or fully non-null. This will make code clearer both for human readers and for the type checker.
-  - Consider creating a fully non-null class and constructing it when all values are available.
-  - While strictNullChecks may flag many issues in your code, it's indispensable for surfacing the behavior of functions with respect to null values.
-
-
 # Don’t Repeat Type Information in Documentation
 
 - example 1:
@@ -3985,6 +3920,71 @@ type BirthdayMap = {
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/JYOwLgpgTgZghgYwgAgMIHsC2mLmQb2QFcBnaASQBMAuZEsKUAcwG5kBfAKFElkRQCqZKAWTAadBszZcwATwAOKAELAoYABaU4cgLJwFyALwFOyZAG0QcHLXqMQTALq0AInEjIAPsRCUIMKAQlCyc7N7IIEQANtGhQA)
+
+
+# push null values to the perimeter of your types
+
+- example 1:
+  - avoid
+```javascript
+let min, max;
+...
+return [min, max];
+```
+  - better approach would be:
+```javascript
+let result: [number, number] | null = null;
+...
+return result;
+```
+
+- mix of null and non-null values can also lead to problems in classes. For example
+```javascript
+class UserPosts {
+  user: UserInfo | null;
+  posts: Post [] | null;
+
+  constructor () {
+    this.user = null;
+    this.posts = null;
+  }
+
+  async init(userId: string) {
+    return Promise.all([
+      async () => this.user = await fetchUser(userId),
+      async () => this.posts = await fetchPostsForUser(userId)
+    ]);
+  }
+}
+```
+  - better design would wait until all the data used by the class is available
+```javascript
+class UserPosts {
+  user: UserInfo;
+  posts: Post [];
+
+  constructor () {
+    this.user = null;
+    this.posts = null;
+  }
+
+  async init(userId: string) {
+    const [user, posts] = Promise.all([
+      async () => this.user = await fetchUser(userId),
+      async () => this.posts = await fetchPostsForUser(userId)
+    ]);
+    return new UserPosts(user, posts);
+  }
+}
+```
+
+- don't be tempted to replace nullable properties with promises. This tends to lead to even more confusing code and forces all your methods to be async. Promises clarify the code that loads data but tend to have the opposite effect on the class that uses that data.
+
+- **Things to Remember**
+  - Avoid designs in which one value being null or not null is implicitly related to another value being null or not null.
+  - Push null values to the perimeter of your API by making larger objects either null or fully non-null. This will make code clearer both for human readers and for the type checker.
+  - Consider creating a fully non-null class and constructing it when all values are available.
+  - While strictNullChecks may flag many issues in your code, it's indispensable for surfacing the behavior of functions with respect to null values.
 
 
 # Quotes
