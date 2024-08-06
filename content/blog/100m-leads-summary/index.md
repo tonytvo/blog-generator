@@ -5,6 +5,23 @@ description: "100M dollar leads by Alex Hormozi summary"
 tags: ["sale", "business"]
 ---
 
+# takeaways
+
+- Every day brings new opportunities
+  - You can allow yesterday’s mistake to teach you a lesson but not let it burden your mind. Each new day brings new hope and an opportunity to do things better. You have to give each day your best shot.
+
+- Spread love and be kind
+  - What you do will come back to you. So better do something good so that you get the same in return. It would be best if you were loving and kind to every person who crosses your path. Keep love at the core of all your actions, and it will take you a long way.
+
+- Be persistent
+  - You cannot avoid failures but what you can do is never give up. Nobody can defeat you unless you yourself accept your defeat. Being persistent is one way of achieving your goals in life. 
+
+- Don’t waste time
+  - Value time is a limited resource. You must live every day as though it is your last and have a purpose to fulfill. This way, you can make the most of the time you have at hand.
+
+- You are what you do
+  - Your actions define who you are about to become. By controlling your efforts, you are shaping your future. While this is difficult, it is not impossible.
+
 # Grand Slam Offers
 
 - Travis Jones states that the secret to sales is to **“Make people an offer so good they would feel stupid saying no.”**
@@ -274,8 +291,279 @@ In the $100M Offers, Alex Hormozi teaches you “how to make offers so good peop
 
 So, I hope you are inspired to get your own copy of the 100 million dollar book, $100M Offers, or check out his website, Acquisiton.com. For further reading on offers, check out The Irresistible Offer (book summary) by Mark Joyner.
 
-# Quotes
+Scroll I – I will Form Good Habits and Become their Slave
+Today, I begin a new life
+This part of the scrolls talks about seizing the day (without saying the Latin Phrase Carpe diem).
+Take advantage of the opportunities of today
+What is done today matters most
+Reject failure and use principles
+Experience is overrated – it teaches, but takes too much time
+Applying principles will help you reach the goals in life
+Habits (daily efforts) leads to consistent application of principles
+Good habits are the key to all success
+Habits
+All men have habits
+If you must be a slave to habits, be a slave to good habits
+Habits determine your future and steer your course
+How to leverage habits
+Replace bad habits with good ones
+Carefully be aware of and choose your habits
+Apply habits to the scrolls
+Read the words of the scrolls throughout the day
+Repeat each scroll in turn for 30 days each
+The Benefits of applying the scroll habits
+Repeating the scrolls daily
+Writes the contents of the scroll on your inner mind
+Your inner mind then steers your
+Responses and
+Actions
+Your actions determine your results
+Affirmations
+The scrolls contain various affirmations to strengthen this concept
+ 
 
+Scroll II – Greet Each Day With Love In Your Heart
+I will greet this day with LOVE in my hear
+Love is my greatest weapon
+Love will soften hearts
+How to greet with love
+Look on all things with love
+Find the greatness in everything good and bad – everything has something to admire
+Encourage, applaud, hold your tongue, praise
+What not to do: criticize, tear down, gossip, think evil, etc.
+Focus on the good and celebrate the admirable qualities in others – everyone has admirable qualities
+Love everyone for all that is good in them
+React to the actions of others with love
+Use love as a shield as well as a weapon
+Great others
+In words of silence in my mind, say, “I love you.”
+Their heats will feel my love
+Love myself
+Take care of body, mind, soul, and heat
+Keep body clean and healthy
+Keep mind clean and uplifted
+Keep soul pure and bright
+Affirmations
+Only time to love
+Love will increase sales
+Love alone will replace any lack of qualities and skill
+ 
+
+Scroll III – I Will Persist Until I Succeed
+I will persist until I succeed
+Bulls in the Orient
+Bulls charge regardless of whether they are stung, they continue to charge forward
+If I keep charging forward, I will succeed
+Life’s prizes are at the end – I will continue until I reach my goal
+Always take another step
+One step at a time is not too difficult
+Small attempts, repeated will complete any undertaking
+Slight edge daily seemingly insignificant efforts reap big rewards
+Remove “failure and quitting” language from vocabulary and thoughts
+Think on success, focus on the goal
+Each failure will increase your chance of success
+Must fail often to succeed only once
+Each obstacle is a mere detour
+Persist
+When going gets tough, take one more step
+Never end a day with a failure
+If I persist long enough, I will win
+ 
+
+Scroll IV – I am Nature’s Greatest Miracle
+I am nature’s greatest miracle
+I am unique
+There has never been another exactly like me
+I have a flame, drive, and passion
+I have unique set of talents
+My differences are special and valuable
+I do not copy others
+I am proud of the differences
+I am valuable
+I have unlimited potential
+I tap into my potential and accomplish far more than I have done
+I have a purpose
+My purpose is to grow and progress
+I increase my knowledge and skill and talents
+I improve myself, manners, people skills…
+I focus on the moment
+I focus on what I am doing at the moment
+When in the market, I focus on the market. When at home, I focus on home.
+I am positive
+I see all obstacles as opportunities
+I see the good in each situation and each person
+ 
+
+Scroll V – Live Each Day as if it Were Your Last
+I will live this day as if it were the last
+I will not waste a moment
+Not spend time thinking about yesterday
+Not spend time dreaming of tomorrow
+Today is the time that I have
+I feel grateful for having today
+I see today as an opportunity
+I will cherish each hour
+Once gone, it cannot be called back
+Today is all we have
+Your days are priceless and cannot be purchased – must be used
+I do not court idleness
+Idleness is wasteful
+I will take advantage of opportunities today
+I will enjoy the day
+I will spend time with family
+I will only trade each minute for something of value
+I will make sure I use my time for the greatest value
+ 
+
+Scroll VI – Master Your Emotions
+I recognize my emotions and moods will rise and fall
+My sadness can be the seed of tomorrow’s joy
+I will make my own weather
+I create good emotions, and bring that mood and emotions to my customers
+I will master my emotions
+I will take physical efforts to change the inward weather
+When I awake, I focus on gratitude and joy
+If I feel down, I will sing, laugh, do or think of something happy
+If I am tired, I will rev up my body with diligent work
+…
+I will do those things that will create the desired emotion
+I recognize I’m not always at my best
+Some days, I will have sadness or despair
+I accept those, don’t focus or feed them, and focus on the good
+Likewise, when I am feeling too good, proud, or overly confident
+I remember times when I was down
+I put things into perspective
+I make allowances for the emotions of others
+Others also have emotions
+Their emotions, like mine, ebb and flow, come and go
+I live and let live, and give people room to be human
+I make allowances, forgive, and love unconditionally
+I will control whatever personality emerges on that day
+ 
+
+Scroll VII – The Power of Laughter
+Only man can laugh
+My laughter improves my world
+My health, digestion, and outlook improve – I heal
+I put things in perspective – see my concerns as part of a larger picture
+Accept humility and humanity as part of me
+Words to remember: “This too shall pass”
+These will help me keep things in balance
+Help me remember the trials will pass
+And remember even some good things shall pass (enjoy them today)
+Choose always happiness over sadness
+When the choice is before me
+Happiness can be born of a mere choice
+Lean in the direction of happiness
+Laughter
+Puts failures in their place
+Increases goodness and progression
+Improves relationships
+Happiness is linked to gratitude
+Enjoyment follows laughter and happiness
+ 
+
+Scroll VIII – Multiply Your Value Every Day
+Today, I will multiply my value a hundred-fold
+The Genius of man
+Inanimate objects, when touched with the genius of man become amazing things
+If I use that same genius on developing myself, I can become amazing things
+3 Futures of a Grain of Wheat
+Made into swine feed
+Feed man
+Can be planted to multiply a thousand-fold
+Man is like wheat except man can choose to multiply
+How to multiply
+Nurture my body and mind
+Need not wait
+Set goals for day, month, year – have objectives
+Look at past performances and set the goals higher
+I may meet difficulties in the rise and fall of life – I will go forward
+Focus
+I will not worry about
+Things that happened yesterday
+Big worrying obstacles in the future
+What others are achieving
+Just focus on today and set goals for tomorrow
+I announce my goals to others
+They may laugh, but they will know my plans
+Thus, I am committed to going forward
+I will set my sights high
+Not set low goals
+Set out to progress upward from where I am
+ 
+
+Scroll IX – All is Worthless Without Action
+I will act now
+Without action
+Dreams, plans, and goals are worthless
+Maps without action are not helpful
+Action
+Ignites plans into a living force
+Is the food that brings life to my dreams
+Procrastination (not acting now)
+Procrastination is born of fear
+To conquer fear, must act without hesitation
+Fireflies glow when they fly
+My light will shine when I act
+I will let my light shine
+There are only todays
+I won’t avoid the tasks of today
+Without today’s action, all fruit will die on the vine
+Now is all I have
+How will I do it?
+Habit & Mind Conditioning
+Repeat the words over and over every day
+Change my behavior
+Motivate my action
+When I face hesitation or procrastination
+I will say these words and find courage in them
+Me and the Failure
+My acting now separates me from the failure
+I hunger for success
+I take advantage of the opportunity now
+This is the time and place and I am the man
+ 
+
+Scroll X – Pray to God for Guidance
+Natural Instinct
+Who has not cried to God when trouble arises?
+Any creature cries out for help when in trouble
+God is there, and all in existence cries to him when in trouble
+Don’t need to be religious to observe this natural occurrence
+These cries are a form of prayer
+I pray for guidance
+Whether in need of help or desiring progression, I can pray
+I ask for help – not for handouts or entitlements
+God is not my servant, I am His
+He blesses me because He loves me
+Answers
+Whether the guidance comes or doesn’t come, those are answers
+Og’s Recommended Prayer
+Address
+Acknowledge humility
+Ask for guidance
+Ask for … love, humility, victory, challenges, success, temperament, courage, laughter, long life, productivity, gratitude, good words, persistence, law of averages, alertness, observation, patience, good habits, compassion, knowledge that all things shall pass, guidance, help, instruction
+Special place for me
+
+# Questions
+
+- Why these principles?  Where’s the credibility? 
+  - I’m not really sure where the ideas or principles in the scrolls came from – whether some guy just sat down and wrote out what he thought would bring success or whether there was some study or experience.  I don’t take anything at face value.  Maybe it’s the lawyer in me, but I want to see the proof, where the ideas came from, whether I can rely on them.  At first this seemed like just some collection of random, arbitrary “good ideas” with no backing whatsoever.  The fact that some “fictional” character found success with these principles is not enough for me.  I really want some real-life proof that these ideas really work.  I didn’t get that in the book.  Not to say that the principles don’t work, but there is no evidence either way.
+
+- Why the parable? 
+  - The parable seems to illustrate how to come into possession of secrets of success rather than to illustrate the principles themselves. That is to say, the parable is entertaining rather than instructing.  The story was distracting in many parts, and contained many unnecessary elements.  I have seen some personal development works masterfully use story to deliver principles through story that helps the reader comprehend and internalize the concepts.  The 4 Laws of Financial Prosperity is a good example of this.  This story not only takes place at the time of Christ, the main character (Spoiler Alert here) comes into contact with Him.  Although this is a nice thought for those of us who love Christ, it merely distracts from the purpose of the work, in my opinion.  At least it did for me.  If there were some example of application of each principle into the life of the main character in a way that we could see it in action, that would have been a much better application of a story.  Here is was just a fore and after thought.
+
+- Innocence: “Just Believe” seems to be the main force behind the principles and concepts. 
+  - This reminds me of many of the personal development works in the early 1900’s.  There are many more sophisticated and reliable methods of achieving personal development that will leave you less frustrated with your results.  For example, the book’s main form of achieving change is reliance on repeating phrases over and over.  I respect affirmations, declarations, and visualizations, but to repeat archaic text ad nausuem doesn’t seem to be the best format.  However, I readily admit that it is much better than doing nothing, so… it works.
+
+- where's misdirection?
+  - There were a few ideas throughout the book that I don’t know if I agree with having read personal development books my whole life.  One idea is the rejecting of failure.  The truth is that we are not perfect, and we would be better off learning from and living with failure than running from or trying to avoid failure at all costs.  This is, of course, my opinion.  However, I note that the story has many things good to say about failure that I wholeheartedly agree with and support.  Another example of a concept that didn’t sit right with me was rejection of idleness, which some might take to the extreme and refuse to rest or relax.  Furthermore, I believe prayer should include more than just asking for “guidance” you may ask for outright blessings, too.  Which the 10th scroll does ultimately do.
+
+- is there secret Answers?
+  - It’s not said, but the book presents to the mind that principles of success are hidden and secret and that only a few of the very rich and successful know them, that they keep them to themselves.  I strongly disagree with this.  In fact, principles of success is all around us.  Success leaves clues, and we can ask anyone who is successful to share with us their philosophy, and they readily will.  It is an unfortunate myth that there are “Secrets of Success” because there are no secrets.
+
+# Quotes
 
 # References
 
