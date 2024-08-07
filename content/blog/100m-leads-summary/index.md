@@ -22,6 +22,13 @@ tags: ["sale", "business"]
 - You are what you do
   - Your actions define who you are about to become. By controlling your efforts, you are shaping your future. While this is difficult, it is not impossible.
 
+- The 5 key skills of the The Greatest Salesman in the World.
+  - Habits
+  - Persistence
+  - Trust
+  - Control of your emotions
+  - and (non) procrastination
+
 # Grand Slam Offers
 
 - Travis Jones states that the secret to sales is to **“Make people an offer so good they would feel stupid saying no.”**
@@ -571,6 +578,8 @@ Special place for me
 - https://wisewords.blog/book-summaries/100m-offers-book-summary/
 - https://auresnotes.com/summary-100m-offers-alex-hormozi/
 - https://thepowermoves.com/100-million-offers-summary-review/
-- https://sellingsherpa.com/index.php/2018/05/14/the-way-of-the-wolf-straight-line-selling-book-summary/
-- https://auresnotes.com/way-of-the-wolf-straight-line-selling-jordan-belfort/
-- https://www.sellingandpersuasiontechniques.com/the-way-of-the-wolf.html
+- https://salesblink.io/blog/the-greatest-salesman-in-the-world-book-summary
+- https://benbalden.com/the-greatest-salesman/
+- https://www.efficy.com/the-greatest-salesman-in-the-world/
+- https://bestbookbits.com/the-greatest-salesman-in-the-world-by-og-mandino/
+- https://growthabit.com/the-greatest-salesman-in-the-world-book-summary-review-notes/
