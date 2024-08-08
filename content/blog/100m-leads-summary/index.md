@@ -50,24 +50,23 @@ tags: ["sale", "business"]
 
 # The Commodity Problem
 
-In Chapter 3 of $100M Offers, Alex Hormozi illustrates the fundamental problem with commoditization and how Grand Slam Offers solves that. You are either growing or dying, as maintenance is a myth. Therefore, you need to be growing with three simple things:
+- You are either growing or dying, as maintenance is a myth. Therefore, you need to be growing with three simple things:
+  - Get More Customers
+  - Increase their Average Purchase Value
+  - Get Them to Buy More Times
 
-Get More Customers
-Increase their Average Purchase Value
-Get Them to Buy More Times
-The book introduces the following key business terms:
+- The book introduces the following key business terms:
+  - Gross Profit – “the revenue minus the direct cost of servicing an ADDITIONAL customer”
+  - Lifetime Value – “the gross profit accrued over the entire lifetime of a customer”
 
-Gross Profit – “the revenue minus the direct cost of servicing an ADDITIONAL customer”
-Lifetime Value – “the gross profit accrued over the entire lifetime of a customer”
-Many businesses provide readily available commodities and compete on price, which is a race to the bottom. However, you should sell your products based on value with a grand slam offer:
+- Many businesses provide readily available commodities and compete on price, which is a race to the bottom. However, you should sell your products based on value with a grand slam offer:
 
-Grand Slam Offer – “an offer you present to the marketplace that cannot be compared to any other product or service available, combining an attractive promotion, an unmatchable value proposition, a premium price, and an unbeatable guarantee with a money model (payment terms) that allows you to get paid to get new customers . . . forever removing the cash constraint on business growth”
+- **Grand Slam Offer** – “an offer you present to the marketplace that cannot be compared to any other product or service available, combining an attractive promotion, an unmatchable value proposition, a premium price, and an unbeatable guarantee with a money model (payment terms) that allows you to get paid to get new customers... forever removing the cash constraint on business growth”
 
-This offer gets you out of the pricing war and into a category of one, which results in more customers, at higher ticket prices, for less money. In terms of marketing, you will have:
-
-Increased Response Rates
-Increased Conversion
-Premium Prices
+- This offer gets you out of the pricing war and into a category of one, which results in more customers, at higher ticket prices, for less money. In terms of marketing, you will have:
+  - Increased Response Rates
+  - Increased Conversion
+  - Premium Prices
 
 # Finding The Right Market — A Starving Crowd
 In Chapter 4 of $100M Offers, Alex Hormozi focuses on finding the correct market to apply our pricing strategies. You should avoid choosing a bad market. Instead, you can pick a great market with demand by looking at four indicators:
