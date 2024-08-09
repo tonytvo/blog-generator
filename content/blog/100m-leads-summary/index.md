@@ -69,35 +69,36 @@ tags: ["sale", "business"]
   - Premium Prices
 
 # Finding The Right Market — A Starving Crowd
-In Chapter 4 of $100M Offers, Alex Hormozi focuses on finding the correct market to apply our pricing strategies. You should avoid choosing a bad market. Instead, you can pick a great market with demand by looking at four indicators:
 
-Massive Pain: Your prospects must have a desperate need, not want, for your offer.
-Purchasing Power: Your prospects must afford or access the money needed to buy.
-Easy to Target: Your audience should be in easy-to-target markets.
-Growing: The market should be growing to make things move faster.
-First, start with the three primary markets resembling the core human pains: Health, Wealth, and Relationships. Then, find a subgroup in one of these larger markets that is growing, has the buying power, and is easy to target. Ultimately, picking a great market matters much more than your offer strength and persuasion skill:
+- Alex Hormozi focuses on finding the correct market to apply our pricing strategies. You should avoid choosing a bad market. Instead, you can pick a great market with demand by looking at four indicators:
+  - **Massive Pain**: Your prospects must have a desperate need, not want, for your offer.
+  - **Purchasing Power**: Your prospects must afford or access the money needed to buy.
+  - **Easy to Target**: Your audience should be in easy-to-target markets.
+  - **Growing**: The market should be growing to make things move faster.
 
-Starving Crowd (market) > Offer Strength > Persuasion Skills
+- First, start with the three primary markets resembling the core human pains: Health, Wealth, and Relationships. Then, find a subgroup in one of these larger markets that is growing, has the buying power, and is easy to target. Ultimately, picking a great market matters much more than your offer strength and persuasion skill:
 
-Next, you need to commit to a niche until you have found a great offer. The niches will make you more money as you can charge more for a similar product. In the process of committing, you will try out many offers and failures. Therefore, you must be resilient, as you will eventually succeed.
+- **Starving Crowd (market) > Offer Strength > Persuasion Skills**
 
-If you find a crazy niche market, take advantage of it. And if you can pair the wealthy niche with a Grand Slam Offer, it will be so good that you probably never need to work again.
+- Next, you need to commit to a niche until you have found a great offer. The niches will make you more money as you can charge more for a similar product. In the process of committing, you will try out many offers and failures. Therefore, you must be resilient, as you will eventually succeed.
+
+- If you find a crazy niche market, take advantage of it. And if you can pair the wealthy niche with a Grand Slam Offer, it will be so good that you probably never need to work again.
 
 # Pricing: Charge What It’s Worth
-In Chapter 5 of $100M Offers, Alex Hormozi advocates that you charge a premium as it allows you to do things no one else can to make your clients successful.
 
-Warren Buffet has said, “Price is what you pay. Value is what you get.” Thus, people buy to get a deal for what they are getting (value) is worth more than what they are giving in exchange for it (price).” When someone perceives the value dipping lower than the price, they stop buying.
+- Alex Hormozi advocates that you charge a premium as it allows you to do things no one else can to make your clients successful.
 
-Avoid lowering prices to improve the price-value gap because you will fall into a vicious cycle of losing money, and your business will struggle. Instead, you want to improve the gap by raising your price after sufficiently increasing the value to the customer. As a result, the virtuous cycle works for you, and your business profits significantly.
+- Warren Buffet has said, “Price is what you pay. Value is what you get.” Thus, people buy to get a deal for what they are getting (value) is worth more than what they are giving in exchange for it (price).” When someone perceives the value dipping lower than the price, they stop buying.
 
-Virtuous vs. Vicious Cycle of Price
-Further, you must have clients fully committed by offering a service where they must pay high enough and take 10X action required to achieve results or solve issues. Higher levels of investment correlate to a higher likelihood of accomplishing the positive outcome.
+- Avoid lowering prices to improve the price-value gap because you will fall into a vicious cycle of losing money, and your business will struggle. Instead, you want to improve the gap by raising your price after sufficiently increasing the value to the customer. As a result, the virtuous cycle works for you, and your business profits significantly.
 
-Download The PDF Book Summary For $100M Offers By Alex Hormozi
-Your first name
-Your email address
+- [Virtuous vs. Vicious Cycle of Price](./virtuous-vs-vicious-cycle-or-price.jpeg)
+
+- Further, you must have clients fully committed by offering a service where they must pay high enough and take 10X action required to achieve results or solve issues. Higher levels of investment correlate to a higher likelihood of accomplishing the positive outcome.
+
 
 # The Value Equation
+
 In Chapter 6 of $100M Offers, Alex Hormozi introduces the value equation. Most entrepreneurs think that charging a lot is wrong, but you should “charge as much money for your products or services as humanly possible.” However, never charge more than what they are worth.
 
 You must understand the details of value to charge the most for your goods and services. Further, you should price them much more than the cost of fulfillment. The Value Equation quantifies the four variables that create the absolute best delivery methods of value for any offer:
