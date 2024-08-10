@@ -9,6 +9,9 @@
 - https://tonytvo.github.io/how-to-talk-so-kids-listen/
 - https://tonytvo.github.io/value-investing-summary/
 - https://tonytvo.github.io/mental-models/
+- https://tonytvo.github.io/site-reliability-engineer-summary/
+- https://tonytvo.github.io/observability-engineer-summary/
+- https://tonytvo.github.io/data-intensive-system-perf/
 
 
 # todo
