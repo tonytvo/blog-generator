@@ -99,19 +99,20 @@ tags: ["sale", "business"]
 
 # The Value Equation
 
-In Chapter 6 of $100M Offers, Alex Hormozi introduces the value equation. Most entrepreneurs think that charging a lot is wrong, but you should “charge as much money for your products or services as humanly possible.” However, never charge more than what they are worth.
+- Alex Hormozi introduces the value equation. Most entrepreneurs think that charging a lot is wrong, but you should “charge as much money for your products or services as humanly possible.” However, never charge more than what they are worth.
 
-You must understand the details of value to charge the most for your goods and services. Further, you should price them much more than the cost of fulfillment. The Value Equation quantifies the four variables that create the absolute best delivery methods of value for any offer:
+- You must understand the details of value to charge the most for your goods and services. Further, you should price them much more than the cost of fulfillment. The Value Equation quantifies the four variables that create the absolute best delivery methods of value for any offer:
 
-The four variables that create the value for $100M Offers, Alex Hormozi
-Value is based on the perception of reality. Thus, your prospect must perceive the first two factors increasing and the second two factors decreasing to perceive value in their mind:
+- [The four variables that create the value for $100M Offers, Alex Hormozi](./value-equation.jpeg)
 
-The Dream Outcome (Goal: Increase) – “the expression of the feelings and experiences the prospect has envisioned in their mind; the gap between their current reality and their dreams”
-Perceived Likelihood of Achievement (Goal: Increase) – the probability that the purchase will work and achieve the result that the prospect is looking for
-Perceived Time Delay Between Start and Achievement (Goal: Decrease) – “the time between a client buying and receiving the promised benefit;” this driver consists of long-term outcome and short-term experience
-Perceived Effort & Sacrifice (Goal: Decrease) – “the ancillary costs or other costs accrued” of effort and sacrifice; supports why “done for you services” are almost always more expensive than “do-it-yourself”
+- Value is based on the perception of reality. Thus, your prospect must perceive the first two factors increasing and the second two factors decreasing to perceive value in their mind:
+  - **The Dream Outcome** (Goal: Increase) – “the expression of the feelings and experiences the prospect has envisioned in their mind; the gap between their current reality and their dreams”
+  - **Perceived Likelihood of Achievement** (Goal: Increase) – the probability that the purchase will work and achieve the result that the prospect is looking for
+  - **Perceived Time Delay Between Start and Achievement** (Goal: Decrease) – “the time between a client buying and receiving the promised benefit;” this driver consists of long-term outcome and short-term experience
+  - **Perceived Effort & Sacrifice** (Goal: Decrease) – “the ancillary costs or other costs accrued” of effort and sacrifice; supports why “done for you services” are almost always more expensive than “do-it-yourself”
 
 # Free Goodwill
+
 In Chapter 7, Alex Hormozi asks you to leave a review of $100M Offers if you have gotten value so far to help reach more people.
 
 “People who help others (with zero expectation) experience higher levels of fulfillment, live longer, and make more money.” And so, “if you introduce something valuable to someone, they associate that value with you.”
