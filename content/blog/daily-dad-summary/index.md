@@ -2965,6 +2965,9 @@ can give it. We take care of who we can and what we can. All you can do is keep 
 
 - **Tempus fugit.**
 
+# repair - dr Becky Kennedy
+
+- [single most important parenting strategy](./https://www.ted.com/talks/becky_kennedy_the_single_most_important_parenting_strategy/transcript?subtitle=en)
 
 # Quotes
 
