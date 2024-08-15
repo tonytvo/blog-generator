@@ -111,11 +111,6 @@ tags: ["sale", "business"]
   - **Perceived Time Delay Between Start and Achievement** (Goal: Decrease) – “the time between a client buying and receiving the promised benefit;” this driver consists of long-term outcome and short-term experience
   - **Perceived Effort & Sacrifice** (Goal: Decrease) – “the ancillary costs or other costs accrued” of effort and sacrifice; supports why “done for you services” are almost always more expensive than “do-it-yourself”
 
-# Free Goodwill
-
-In Chapter 7, Alex Hormozi asks you to leave a review of $100M Offers if you have gotten value so far to help reach more people.
-
-“People who help others (with zero expectation) experience higher levels of fulfillment, live longer, and make more money.” And so, “if you introduce something valuable to someone, they associate that value with you.”
 
 # The Thought Process
 In Chapter 8 of $100M Offers, Alex Hormozi shows you the difference between convergent and divergent problem solving:
@@ -572,6 +567,8 @@ Special place for me
   - It’s not said, but the book presents to the mind that principles of success are hidden and secret and that only a few of the very rich and successful know them, that they keep them to themselves.  I strongly disagree with this.  In fact, principles of success is all around us.  Success leaves clues, and we can ask anyone who is successful to share with us their philosophy, and they readily will.  It is an unfortunate myth that there are “Secrets of Success” because there are no secrets.
 
 # Quotes
+
+“People who help others (with zero expectation) experience higher levels of fulfillment, live longer, and make more money.” And so, “if you introduce something valuable to someone, they associate that value with you.”
 
 # References
 
