@@ -113,15 +113,17 @@ tags: ["sale", "business"]
 
 
 # The Thought Process
-In Chapter 8 of $100M Offers, Alex Hormozi shows you the difference between convergent and divergent problem solving:
 
-Convergent – problem solving where there are many known variables with unchanging conditions to converge on a singular answer
-Divergent – problem solving in which there are many solutions to a singular problem with known variables, unknown variables, and dynamic conditions
-Exercise: Set a timer for 2 minutes and “write down as many different uses of a brick as you can possibly think of.”
+- difference between convergent and divergent problem solving:
+  - **Convergent** – problem solving where there are many known variables with unchanging conditions to converge on a singular answer
+  - **Divergent** – problem solving in which there are many solutions to a singular problem with known variables, unknown variables, and dynamic conditions
 
-This exercise illustrates that “every offer has building blocks, the pieces that when combined make an offer irresistible.” You need to use divergent thinking to determine how to combine the elements to provide value.
+  - **Exercise**: Set a timer for 2 minutes and “write down as many different uses of a brick as you can possibly think of.”
+
+- This exercise illustrates that “every offer has building blocks, the pieces that when combined make an offer irresistible.” You need to use divergent thinking to determine how to combine the elements to provide value.
 
 # Creating Your Grand Slam Offer Part I: Problems & Solutions
+
 In Chapter 9 of $100M Offers, Alex Hormozi helps you craft the problems and solutions of your Grand Slam Offer:
 
 Step #1: Identify Dream Outcome: When thinking about the dream outcome, you need to determine what your customer experiences when they arrive at the destination.
