@@ -124,13 +124,13 @@ tags: ["sale", "business"]
 
 # Creating Your Grand Slam Offer Part I: Problems & Solutions
 
-In Chapter 9 of $100M Offers, Alex Hormozi helps you craft the problems and solutions of your Grand Slam Offer:
+- how to craft the problems and solutions of your Grand Slam Offer:
 
-Step #1: Identify Dream Outcome: When thinking about the dream outcome, you need to determine what your customer experiences when they arrive at the destination.
+  - **Step #1: Identify Dream Outcome:** When thinking about the dream outcome, you need to determine what your customer experiences when they arrive at the destination.
 
-Step #2: List the Obstacles Encountered: Think of all the problems that prevent them from achieving their outcome or continually reaching it. Each problem has four negative elements that align with the four value drivers.
+  - **Step #2: List the Obstacles Encountered:** Think of all the problems that prevent them from achieving their outcome or continually reaching it. Each problem has four negative elements that align with the four value drivers.
 
-Step #3: List the Obstacles as Solutions: Transform our problems into solutions by determining what is needed to solve each problem. Then, name each of the solutions.
+  - **Step #3: List the Obstacles as Solutions:** Transform our problems into solutions by determining what is needed to solve each problem. Then, name each of the solutions.
 
 # Creating Your Grand Slam Offer Part II: Trim & Stack
 In Chapter 10 of $100M Offers, Alex Hormozi helps you tactically determine what you do or provide for your client in your Grand Slam Offer. Specifically, you need to understand trimming and stacking by reframing with the concept of the sales to fulfillment continuum:
