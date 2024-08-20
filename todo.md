@@ -15,6 +15,7 @@
 
 
 # todo
+- write summary for wealth of nations + economics in 1 lesson + cThe Creature from Jekyll Island
 - write summary for common sense of economics + economics facts and fallacies
 - write summary for building wealth on house at a time + long distance investing
 - write summary for continuous delivery book
