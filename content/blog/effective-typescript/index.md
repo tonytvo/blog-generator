@@ -5,6 +5,9 @@ description: "effective typescript summary"
 tags: ["agiletechnicalpractices", "programming"]
 ---
 
+# Todo
+- need to review item 28: Use Classes and Currying to Create New inference Sites
+
 # Understand the relationship between typescript and javascript
 
 - If you're migrating an existing javascript codebase to typesript. It means that you don't have to rewrite any of your code in another language to start using TypeScript and get the benefits it provides.
@@ -3027,7 +3030,6 @@ console.log(bestPaid.slice(0, 10));
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/MYewdgzgLgBMEDcAiBDKKYF4YCIB0BOA3AFCiSwBOKA7gEog0RZyKrp4QAOANgJZQAFAHIAOmGEBKUuWgwAFgFMUAE0WVm2avUYQA2gAYAup14CRAGimk+AWy4hKsAPowAZpRC2YwniBUoEPLCNmBQ6m4owIowAEKBANaKUABGKDw8AAo8KACe6jAA3iQwMGAotooAXDDQlHxgAOakpeEVNXUNzSW16SiUuTVgAK62KeqkAL4kasA5lDGyVCDQ6hA1hXptth1Q9U1GNfEQSanpWTn5lHpGkzLgcufZeWssAPIpAFaKwFB4COlhooIIJPKsNJI8G4ckJpDAAPTwmBvADSJERpVKAD0APxwB6wJ6XNZHRLJNIZZ5XG5kAkwcbQTIoPgqFjOQREl4Qnp4RqeYZcWK5QS8LlYAB8MFFVzw20kPNsKC4ADVAcCRcSNBKYM48IqAB5CjVciAWKXaricPoDSQAQnlpX+apBDpgnEcUCNXG1AFpLRBrblXU6eEDBNJaZAQDxFHg-I1BAyoEyWZx+NFBAYzQBGAySCMYzFF7F4pb04HJ5kqUkncmc6lGEhAA)
 
-//TODO continue to read through the book and add any notes to this section
 # Use async Functions Instead of Callbacks to Improve Type Flow
 
 ## Things to Remember
@@ -3040,6 +3042,7 @@ console.log(bestPaid.slice(0, 10));
 ## Code Samples
 
 ```ts
+// classic javascript modeled asynchronous behavior using callbacks. This led to the infamous "pyramid of doom"
 declare function fetchURL(
   url: string, callback: (response: string) => void
 ): void;
@@ -3082,22 +3085,11 @@ page1Promise.then(response1 => {
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgDGB7AdgZwC6gK4CcAbARlAF5QByIigbiTS10ICYzLnb6Nt8CBmNhT6cQoWADlo8ACYBTRAQCGeWaABmOVIkwBLNOtmZEACwCqAJQAyACnigmBAFygseHagDmAGlCJFBAgAjRUQAa2drFXQABwZZZ1d3DwBKMgA+UAA3ZB1peGTnbNy6eDVDEwsbXiIfDS1dNEjZGLiiVIBvOwMjMytrXmZazW09VCaWjFlmDq77Mp7K-sI+IfrR8djJvhn7XdBRADoj2d2UDGQCWQOCZA9rNro9gF9kx9OGC6ubu+m3l7ezuhPtdbtZtnR-lwgZcQXcACyveDwUSWW7oRzIsBwzGgPg45g4ohQ7DRRQeWREAAKeGQAFsdOhVOR5iYlsREaTyVSafTGQdMMZZGMoptGSRSBlOvYVJh8KhuqyBoiXvzBcLmqKpulQFLQDK5QrjGzwfAVQKhRs4gIJTquodjiq-D1rLI8DS8NrdfaDqbEUA)
 
-----
-
-```ts
-async function fetchPages() {
-  const response1 = await fetch(url1);
-  const response2 = await fetch(url2);
-  const response3 = await fetch(url3);
-  // ...
-}
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgDGB7AdgZwC6gK4CcAbARlAF5QByIigbiTS10ICYzLnb6Nt8CBmNhT6cQoWADlo8ACYBTRAQCGeWaABmOVIkwBLNOtmZEACwCqAJQAyACnigmBAFygseHagDmAGlCJFBAgAjRUQAa2drFXQABwZZZ1d3DwBKMgA+UAA3ZB1peGTnbNy6eDVDEwsbXiIfDS1dNEjZGLiiVIBvOwMjMytrXmZazW09VCaWjFlmDq77Mp7K-sI+IfrR8djJvhn7XdBRADoj2d2UDGQCWQOCZA9rNro9gF9kx9OGC6ubu+m3l7ezuhPtdbtZtnR-lwgZcQXcACyveDwUSWW7oRzIsBwzGgPg45g4ojwRToACeWnUwwaqG6JgACooPM1rDtfAxsFFNuhZCRyIoAO6KHTYeYmJbERH2QEc5pcqZsAVCkXlYzi35daWgTlxAR8wXC2mq3jgrqHY5PeBAA)
 
 ----
 
 ```ts
+// the await keyword pauses execution of the fetchPages. Within an async function, awaiting a Promise that rejects will throw an exception. This lets you use the usual try/catch machinery
 async function fetchPages() {
   try {
     const response1 = await fetch(url1);
@@ -3115,6 +3107,10 @@ async function fetchPages() {
 ----
 
 ```ts
+//there are few good reasons to prefer Promises or async/await callbacks:
+// - Promises are easier to compose than callbacks
+// - Types are able to flow through Promises more easily than callbacks
+// - if you want to fetch the pages concurrently, for example, you can compose Promises with Promise all
 async function fetchPages() {
   const [response1, response2, response3] = await Promise.all([
     fetch(url1), fetch(url2), fetch(url3)
@@ -3157,6 +3153,7 @@ function timeout(timeoutMs: number): Promise<never> {
   });
 }
 
+//Type inference also works well with Promise.race, which resolves when the first of its input Promises resolves.
 async function fetchWithTimeout(url: string, timeoutMs: number) {
   return Promise.race([fetch(url), timeout(timeoutMs)]);
 }
@@ -3167,8 +3164,18 @@ async function fetchWithTimeout(url: string, timeoutMs: number) {
 ----
 
 ```ts
+// 
 async function getNumber() { return 42; }
 //             ^? function getNumber(): Promise<number>
+
+const getNumber = async () => 42;
+//    ^? const getNumber: () => Promise<number>
+
+// you may occasionally need to use raw Promises, notably when you're wrapping a callback API like setTimeout, but if you have a choice, you should generally prefer async/await to raw Promises for 2 reasons
+// - it typically produces more concise and straightforward code
+// - it enforces that async function always return Promises
+const getNumber = () => Promise.resolve(42);
+//    ^? const getNumber: () => Promise<number>
 ```
 
 [💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgDGB7AdgZwC6gK4CcAbARlAF5QByIigbiTS10ICYzLnb6Nt8CBmNhT6cQoWADlo8ACYBTRAQCGeWaABmOVIkwBLNOtmZEACwCqAJQAyACnigmBAFygseHagDmAGlCJFBAgAjRUQAa2drFXQABwZZZ1d3DwBKMgA+UAA3ZB1peGTnbNy6eDVDEwsbXiIfDS1dNEjZGLiiVIBvOwMjMytrXmZazW09VCaWjFlmDq77Mp7K-sI+IfrR8djJvhn7XdBRADoj2d2UDGQCWQOCZA9rNro9gF9kx9OGC6ubu+m3l7ezuhPtdbtZtnR-lwgZcQXcACyveDwUSWW7oRzIsBwzGgPg45g4ojwRToACeWnUwwaqFAHkM4hwAFtArI8NYOqAVJh8DS4cwaKAnji9iLdgA9AD8lLW+jpmAZzNZ7OcAAU8MhGTp0LIADyoJksvBpeBAA)
@@ -3176,24 +3183,7 @@ async function getNumber() { return 42; }
 ----
 
 ```ts
-const getNumber = async () => 42;
-//    ^? const getNumber: () => Promise<number>
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgDGB7AdgZwC6gK4CcAbARlAF5QByIigbiTS10ICYzLnb6Nt8CBmNhT6cQoWADlo8ACYBTRAQCGeWaABmOVIkwBLNOtmZEACwCqAJQAyACnigmBAFygseHagDmAGlCJFBAgAjRUQAa2drFXQABwZZZ1d3DwBKMgA+UAA3ZB1peGTnbNy6eDVDEwsbXiIfDS1dNEjZGLiiVIBvOwMjMytrXmZazW09VCaWjFlmDq77Mp7K-sI+IfrR8djJvhn7XdBRADoj2d2UDGQCWQOCZA9rNro9gF9kx9OGC6ubu+m3l7ezuhPtdbtZtnR-lwgZcQXcACyveDwUSWW7oRzIsBwzGgPg45g4ohQ7AeQziHAAW0CsjwbEU6AAnlpQNZUqQMnDmHRRLsAHoAfl8DBJZMp1LwETZGQACnhkBSdOhZAAeVBimlpeBAA)
-
-----
-
-```ts
-const getNumber = () => Promise.resolve(42);
-//    ^? const getNumber: () => Promise<number>
-```
-
-[💻 playground](https://www.typescriptlang.org/play/?ts=5.4.5#code/PTAEAkEkBEFECgDGB7AdgZwC6gK4CcAbARlAF5QByIigbiTS10ICYzLnb6Nt8CBmNhT6cQoWADlo8ACYBTRAQCGeWaABmOVIkwBLNOtmZEACwCqAJQAyACnigmBAFygseHagDmAGlCJFBAgAjRUQAa2drFXQABwZZZ1d3DwBKMgA+UAA3ZB1peGTnbNy6eDVDEwsbXiIfDS1dNEjZGLiiVIBvOwMjMytrXmZazW09VCaWjFlmDq77Mp7K-sI+IfrR8djJvhn7XdBRADoj2d2UDGQCWQOCZA9rNro9gF9kx9OGC6ubu+m3l7ezuhPtdbtZtnR-lwgZcQXcACyveDwUSWW7oRzIsBwzGgPg45g4ohQ7AeQziHAAW0CsjwbGsqVIGQACnhkBSdOgrlELplZNY4b8cbsAHoAfl8DBJZMp1LwEQZzNZ7M5AB5UDKaWl4EA)
-
-----
-
-```ts
+// a function should either always be run synchronously or always be run asynchronously. It should never mix the two
 // Don't do this!
 const _cache: {[url: string]: string} = {};
 function fetchWithCache(url: string, callback: (text: string) => void) {
@@ -3251,6 +3241,7 @@ async function getUser(userId: string) {
 ----
 
 ```ts
+// if you return a Promise from an async function, it will not get wrapped in another Promise, the return type will be Promise<T> rather than Promise<Promise<T>>
 async function getJSON(url: string) {
   const response = await fetch(url);
   const jsonPromise = response.json();
