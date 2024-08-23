@@ -11,7 +11,7 @@ tags: ["productivity", "communication", "selfimprovement"]
 - IQ: cognitive intelligence, your ability to learn; a set of ability that doesn't change overtime (except in cases of traumatic injury)
 - EQ: emotional intelligence, your skills of being aware of your emotions and those of others along with managing your emotions and your relationships; a skill that you can learn.
 - personality: your temperament or style; a preference that is stable over a lifetime.
-- 8 statements/characteristics to define emotionally intelligent people
+- characteristics to define emotionally intelligent people
   - They listen and learn from criticism
   - They maintain a positive (solution mode) attitude to difficult situations
   - They manage anxiety, fear, anger and all emotions appropriately in all situations.
@@ -19,8 +19,23 @@ tags: ["productivity", "communication", "selfimprovement"]
   - They are empathetic
   - They have discipline and are self-motivated
   - They listen even if they disagree
-  - They look for ways to improve when things don't go according to plan.
+  - They look for ways to improve when things don't go according to plan and embrace change.
+  - they have a robust emotional vocabulary
+  - they're curious about people.
+  - they know their strengths and weeknesses
+  - they're a good judge of character
+  - they let go of mistakes
+  - they're assertive
   - **EI is about figuring out how to apply, adapt, and deliver based on the needs of the person we're with and what stage of the process they're in**
+
+- what does low EQ look like?
+  - they get stressed easily
+  - they make assumptions quickly and defend them vehemently.
+  - they often feel misunderstood
+  - they don't know their triggers
+  - they don't get angry
+  - they blame other people for how they make them feel
+  - they're easily offended
 
 # EI Rewiring Process
 - Own it, Face it, Feel it, Ask it, Drive it
