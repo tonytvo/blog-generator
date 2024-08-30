@@ -90,6 +90,58 @@ tags: ["productivity", "communication", "selfimprovement"]
 ## Self Awareness Strategies
 - the ability to stay aware of your emotions in the moment and understand your tendencies across situations.
 
+### crush cognitive biases
+
+- Let's explore some of the most common types of cognitive biases that entrench themselves in our lives. Awareness is the best way to beat these biases, so pay careful attention to how they influence you. Don't allow them to hinder your emotional intelligence.
+
+- **Confirmation bias.** Confirmation bias is the tendency to seek out information that supports our pre-existing beliefs. In other words, we form an opinion first and then seek out evidence to back it up, rather than basing our opinions on facts. Social media apps have been accused of using this bias to keep us engaged by loading our feeds with what we already believe, rather than challenging us with new information.
+
+- **Fundamental attribution error.** This is the tendency to attribute situational behavior to a person's fixed personality. For example, people often attribute another person's poor work performance to laziness when there are so many other possible explanations. It could be that the individual in question is receiving projects they aren't passionate about, their rocky home life is carrying over to their work life, or they're burned out. When you're the one being lazy, you don't assume it's a character flaw. You attribute this to the situation you're in. That's how the fundamental attribution error works.
+
+- **The decoy effect.** This occurs when someone believes they have two options, but you present a third option to make the second one feel
+more palatable. For example, you visit a car lot to consider two cars, one listed for $30,000 and one for $40,000. At first, the $40,000 car seems expensive, so the salesman shows you a $65,000 car. Suddenly, the $40,000 car seems reasonable by comparison. This salesman is preying on your decoy bias the decoy being the $65,000 car that he knows you won't buy.
+
+- **The ideometer effect.** This refers to the fact that our thoughts can make us feel real emotions. This is why actors envision terrible scenarios, such as the death of a loved one, in order to make themselves cry on cue. It's also why activities such as cataloging what you're grateful for can have such a profound, positive impact on your well-being.
+
+- **The halo effect.** The halo effect occurs when someone creates a strong first impression and that impression sticks. This is extremely noticeable in grading. For example, often a teacher grades a student's first paper, and if it's good, the teacher is prone to continue giving the student high marks for future papers even if their performance doesn't warrant it. The same thing happens at work and in personal relationships.
+
+- **The horn effect.** This effect is the exact opposite of the halo effect. When you perform poorly at first, you can easily get pegged as a low performer, even if you work hard enough to disprove that notion.
+
+- **Conservatism bias.** This bias leads people to believe that pre-existing information takes precedence over new information. Don't be quick to reject something just because it's radical or different. Great ideas usually are.
+
+- **Affect heuristic.** Affect heuristic is the human tendency to base our decisions on our emotions. For example, consider a study conducted at Shukutoku University, Japan. Participants judged a disease that killed 1,286 people out of every 10,000 as being more dangerous than one that was 24.14% fatal (despite this representing twice as many deaths). People reacted emotionally to the image of 1,286 people dying, whereas the percentage didn't arouse the same mental imagery and emotions.
+
+- **The ostrich effect.** The ostrich effect is aptly named after the mistaken belief that ostriches, when scared, literally bury their heads in the ground. This effect describes our tendency to hide from impending problems. We may not physically bury our heads in the ground, but we might as well. For example, if your company is experiencing layoffs or you're having relationship issues, it's common to attempt to push all these problems away, rather than face them head on. This never works.
+
+- **Reactance.** Reactance is our tendency to react to rules and regulations by exercising our freedom. A prevalent example of this is children with over-bearing parents. Tell a teenager to do what you say because you told them so, and they're very likely to start breaking your rules. Similarly, employees who feel mistreated or "Big Brothered" by their employers are more likely to take longer breaks, use extra sick days, or even steal from their company.
+
+- **Planning fallacy.** Planning fallacy is the tendency to think that we can do things more quickly than we actually can. For procrastinators, this leads to incomplete work, and this makes Type As overpromise and underdeliver.
+
+- **The bandwagon effect.** The bandwagon effect is the tendency to do what everyone else is doing. This creates a kind of groupthink, where people run with the first idea that's put onto the table instead of exploring a variety of options. The bandwagon effect illustrates how we like to make decisions based on what feels good (doing what everyone else is doing), even when it's a poor alternative.
+
+- **Bias blind spot.** If you begin to feel that you've mastered your biases, keep in mind that you're most likely experiencing the bias blind spot. This is the tendency to see biases in other people but not in yourself.
+
+
+#### PSYCHOLOGICAL FORCES THAT MAKE GOOD PEOPLE DO BAD THINGS
+
+- **The compensation effect.** The compensation effect refers to people's tendency to assume that they accumulate moral capital. We use good deeds to balance out bad deeds, or alternately, we give ourselves breaks from goodness, like a piece of chocolate cake after a week of salads. This makes people more inclined to do bad things under the guise of "I'm a good person" or "It's just this one thing." A great example of this is a study in which people were observed lying and cheating more after they made the decision to purchase products that were good for the environment.
+
+- **Cognitive dissonance.** Cognitive dissonance is the discomfort humans feel when they hold two contradictory opinions or when their behavior is inconsistent with their beliefs. It's one of the strongest psychological forces driving human behavior. When people who feel they are good do bad things, cognitive dissonance makes them ignore this behavior because they can't tolerate the inconsistency between their behavior and their beliefs. This only leads to more bad behavior.
+
+- **The power of names.** What you name something is important, because it can skew people's sense of reality. If companies assign unethical practices simple and humorous euphemisms (like "financial engineering" for accounting fraud), employees are less likely to take their unethical behavior seriously. Thomas Watson, the founder of IBM, was famous for saying, "Doing business is a game, the greatest game in the world if you know how to play it." Something as simple as calling business a game can make people less likely to see that their actions have serious real-world consequences.
+
+- **Obedience to authority.** It's quite difficult for most people to ignore the wishes of those in positions of authority. People also feel that they're less responsible for wrongdoings if they act under the direction of someone else. Both reasons explain why employees are likely to act out the unethical wishes of their supervisors and feel far less guilt than if they had decided to do it themselves.
+
+- **The Pygmalion effect.** The Pygmalion effect refers to people's tendency to act the way that other people treat them. For example, if employees are treated like they're upright members of a team, they're more likely to act accordingly. Alternately, if they're treated with
+!!! suspicion, they're more likely to act in a way that justifies that perception. 
+
+- **The pressure to conform.** The pressure to conform is powerful. When a group engages in unethical behavior, individuals are far more likely to participate in or condone that behavior rather than risk standing out.
+
+- **Conspicuous consumption.** When companies splash money around, they contribute to unethical behavior. Flashy displays of wealth lead to increased selfishness. Employees either aim hard for these carrots or develop jealousy of their high-rolling colleagues who achieve them. This leads to people who are more likely to put their own needs ahead of doing the right thing.
+
+- **The blinding effect of power.** People in power typically see themselves as inherently different from their employees. This can lead them to set ethical boundaries for their employees that are more stringent than the ones they set for themselves. What happens next is the stuff of newspaper headlines.
+
+
 ### Quit Treating Your Feelings as Good or Bad
 - pay attention when you feel an emotion begin to build.
 - try to understand the emotions and avoid labelling them good or bad.
