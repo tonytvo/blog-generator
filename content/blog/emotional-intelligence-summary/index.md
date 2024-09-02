@@ -353,6 +353,69 @@ but that's hardly ever the case. People who excel at managing uncertainty start 
 - If you're prone to multitasking, this is a bad habit you'll want to break-it clearly slows you down and decreases the quality of your work. Even if it doesn't cause brain damage, allowing yourself to multitask will fuel any existing difficulties you have with concentration, organization, and attention to detail. Multitasking in meetings and other social settings indicates low self- and social awareness, two emotional intelligence skills that are critical to success at work. If multitasking does damage your anterior cingulate cortex (a key brain region for EQ), as current research suggests, it will lower your EQ in the process. So, every time you multitask, you aren't just harming your performance in the moment; you may very well be damaging an area of your brain that's critical to your future success at work.
 
 
+### Build Powerful New Success Habits
+
+- You should be very careful in choosing your pursuits, because your habits make you. Cultivating the right habits will take you where you want to go in life. The emotional intelligence habits that follow are a great start. They will help you lead a more meaningful and fulfilling life in which you cultivate the best within yourself.
+
+- **Be biased toward action.** If only we knew about all the great ideas that never came to fruition because people lacked the confidence to put them into action. Emotionally intelligent people confidently act on their ideas because they know that a failed idea is not a reflection of their ability; instead, they see it as a wonderful learning opportunity. This makes them eager to get going.
+
+- **Seek composure.** People who are composed constantly monitor their emotions. They understand their emotions well, and they use this knowledge in the moment to react with self-control to challenging situations. When things go downhill, they are persistently calm and frustratingly content (frustrating to those who aren't, at least). They know that no matter how good or bad things get, everything changes with time. All they can do is adapt and adjust to stay happy and in control.
+
+- **Appreciate the here and now.** Gratitude is fundamental to peace and happiness—not wealth, glamour, adventure, or fast cars, but simple appreciation for what you have. Just because you can't afford champagne and caviar doesn't mean that you never enjoy a meal. Hot dogs and beer on the back deck with your friends can taste just as good. So don't fool yourself into thinking that to be happy you need
+something that you don't have. The truth is that if you don't appreciate what you have now, you won't be able to appreciate the "good life" if you ever get it.
+
+- **Realize that things aren't always as you perceive them to be.** This goes along with appreciating the here and now. That person you envy because they seem to have the perfect life might be dealing with all kinds of problems behind closed doors. That "perfection" could be a total mirage. Your employer's decision to move the office might seem like a huge hassle when you first hear about it, but it could end up being one of the best things that ever happens to you. You're not omniscient and you're not a fortune-teller, so be open to the possibility that life might have some surprises in store, because what you see is not always what you get.
+
+- **Stick to realistic goals.** How many people start January by proclaiming, "I'm going to lose 30 pounds by March!"? Big, scary, crazy goals can be incredibly inspiring until you fall short, and then, instead of inspiration, you're left with disappointment and guilt. Don't stop setting goals that push and challenge you, but try to stick within the bounds of reality. Small habits make big gains with time.
+
+- **Expose yourself to a variety of people.** There's no easier way to learn to think differently than spending time with someone whose strengths are your weaknesses or whose ideas are radically different from your own. This exposure sparks new ideas and makes you well rounded. This is why we see so many great companies with cofounders who are very different. Steve Jobs and Steve Wozniak at Apple were prime examples. Neither could have succeeded without the other.
+
+- **Turn tedious tasks into games.** Every job entails some degree of tedium. For most people, tedium leads to sloppy, rushed work. Emotionally intelligent people find ways to make the tedious interesting. By turning tedious work into a game, they challenge themselves and produce high-quality work, making things interesting in the process.
+
+- **Start a collection of things that truly resonate with you.** Have you ever come across a quote or a meme that so perfectly summed up your feelings that you wanted to keep it forever? When you come across things that resonate with you (whether it's something that expresses who you are or who you want to be), have a central place to keep those gems. It doesn't matter whether it's a spiral notebook, a bulletin board, or a folder on Evernote. Have a place to collect the things that matter so that you can revisit them regularly.
+
+- **Get out and do something that reminds you who you are.** We all joke about having "me" time, but what is that, really? It's making time for the activities that we feel most authentically ourselves doing. These are the times when all the masks are off, and we can just be. Whether it's going for a run or dancing around with your '80s favorites blaring at top volume, make time for those moments. They're incredibly rejuvenating.
+
+
+#### THE PARADOXICAL HABITS OF WILDLY SUCCESSFUL PEOPLE
+
+- **They're convergent and divergent thinkers.** Convergent thinking is what's measured by IQ tests: rational thinking that typically results in a single right answer. Divergent thinking, on the other hand, is less precise. It's about generating ideas and asking questions that have no solid right or wrong answers. Both are important. No matter how high your IQ, you're not going to be successful if you can't think outside the proverbial box. On the other hand, you need rational thinking skills to correctly judge whether your ideas have merit. That's why this particular paradox is so important.
+
+- **They're polite yet completely unafraid to rock the boat.** Successful people are what I like to call "graciously disruptive." They're never satisfied with the status quo. They're the ones who constantly ask, "What if?" and "Why not?" They're not afraid to challenge conventional wisdom, but they don't disrupt things for the sake of being disruptive. They do it to make things better. Still, they're polite and considerate, and they don't draw attention to other people's mistakes just to humiliate them. However, that doesn't mean they sit back and let people wander in the wrong direction. They won't hesitate to speak up when it's time to change course.
+
+- **They're naïve and smart.** No one would argue that intelligence isn't an important part of success, but many successful people also have a childlike lack of awareness (or maybe it's a lack of respect for) of the type of constraints that other people blindly accept. They're not limited by what other people tell them is possible. This naiveté allows them to tackle problems from previously undiscovered angles. 
+
+- **They're both energetic and calm.** Successful people seem to have limitless energy when it comes to doing the things they're passionate about, but they aren't frantic. They can keep that energy under control. They work hard and focus on the task at hand with devoted concentration, but they're so smooth that they make it look easy and fun. Some people are so energetic that they're hyperactive, unfocused, and constantly bouncing from one thing to another. Successful people know how to harness their energy so that it works in the service of progress and doesn't undermine it.
+
+- **They're deeply passionate yet rational and objective about their work.** Successful people are passionate about their work, but they don't let it skew their thinking. They have the ability to step back and look at their work with a critical eye and accept their mistakes. If it's a disaster, they'll admit it because they realize that it's better to try something different than to put out something subpar with their name on it. This sense of detachment also allows them to accept feedback from others without taking it personally.
+
+- **They're ambiverts.** Successful people are comfortable acting in ways that amplify their introversion and extraversion, depending on what the situation calls for. They can sit in the back of a conference room and silently listen to what's going on, or they can go up on stage, grab a microphone, and engage a huge crowd-and they look just as comfortable doing one as they do the other.
+
+- **They're both humble and proud.** Taking pride in your work is absolutely essential for success, but successful people know they wouldn't be where they are without the people who came before them and those they've worked with along the way. They know that they didn't achieve their success all on their own, and because they're okay with that, they don't have anything to prove. That's why so many incredibly successful people end up coming across as grounded and humble when you meet them in person.
+
+- **They dream big but remain grounded.** Successful people reach for the seemingly impossible, but they do so in a way that is actionable and realistic. While you may not know exactly how you're going to achieve your dream, you need to make progress, no matter how small the steps. For example, Elon Musk's goal at SpaceX is to "Occupy Mars." This is a big dream, but Musk keeps it realistic by engaging in regular steps that, someday, may get them there. SpaceX's ability to reuse rocket boosters is radically reducing the cost of space travel. It's a far cry from colonizing Mars, but it's an essential step in a very ambitious process.
+
+#### THE UNUSUAL HABITS OF THE WORLD'S MOST CREATIVE PEOPLE
+
+- **Wake Up Early**
+  - Not all creative minds are morning people. Franz Kafka routinely stayed up all night writing, and William Styron (author of Sophie's Choice, among other best-sellers) woke up at noon every day and considered his "morning" routine to be staying in bed for another hour to think. However, early risers make up the clear majority of creative thinkers. The list of creative early risers ranges from Benjamin Franklin to Howard Schultz to Ernest Hemingway, although they didn't wake up early for the same reasons. Ben Franklin woke up early to plan his day, while Schultz used the time to send motivational emails to his employees. For many creative people, waking up early is a way to avoid distractions. Ernest Hemingway woke up at 5 a.m. every day to write. He said, "There is no one to disturb you and it is cool and cold and you come to your work and warm as you write." The trick to making getting up early stick is to do it every day and avoid naps. Eventually, you'll start going to bed earlier to make up for the lost sleep. This can make for a couple of groggy days at first, but you'll adjust quickly. Before you know it, you'll join the ranks of creative early risers.
+
+- **Keep Your Day Job**
+  - Creativity flourishes when you're creating for yourself and no one else. Creativity becomes more difficult when your livelihood depends on what you create (and when you begin to think too much about what your audience will think of your product). Perhaps this is why so many successful and creative people held on to their day jobs. Many of them, like Stephen King, who was a schoolteacher, produced their breakout (and, in King's case, what many consider his very best) work while they still held a 9 to 5. Day jobs provide more than the much-needed financial security to create freely. They also add structure to your day that can make your creative time a wonderful release. The list of successful, creative minds who kept their day jobs is long. Some notable individuals include Jacob Arabo, who started designing his own jewelry while working in a jewelry shop; William Faulkner, who worked in a power plant while writing As I Lay Dying; and composer Philip Glass, who worked as a plumber.
+
+- **Exercise Frequently**
+  - There's plenty of evidence pointing to the benefits of exercise for creativity. Feeling good physically gets you in the right mood to focus and be productive. Exercise also forces you to have disconnected time (it's tough to text or email while working out hard), and this allows you to reflect on whatever it is you're working on. In a Stanford study, 90% of people were more creative after exercising. It's no surprise that so many creative and successful people build exercise into their daily routines. Kurt Vonnegut took walks into the nearby town, swam laps, and did push-ups and sit-ups, Richard Branson runs every morning, and composers Beethoven and Tchaikovsky walked every day.
+
+- **Stick to a Strict Schedule**
+It's a common misconception that in order to be creative, you should live life on a whim with no structure and no sense of needing to do anything. The habits of highly successful and creative people suggest otherwise. In fact, most creative minds scheduled their days rigorously. Psychologist William James described the impact of a schedule on creativity, saying that only by having a schedule can we "free our minds to advance to really interesting fields of action."
+
+- **Learn to Work Anywhere, Anytime**
+Many people work in only one place, believing it's practically impossible for them to get anything done anywhere else. Staying in one place is actually a crutch; studies show that changing environments is beneficial to productivity and creativity. E.B. White, author of Charlotte's Web, said it well: "A writer who waits for ideal conditions under which to work will die without putting a word on paper." The same is true for any type of creative work. If you keep waiting until you're in the perfect place at the ideal time, the time will never come. Steve Jobs started Apple in his mom's garage, and J.K. Rowling wrote the first ideas for Harry Potter on a napkin on a train. When you have a creative idea, don't wait. Put it into action as soon as you can. Recording that spark of creativity may very well be the foundation of something great.
+
+- **Learn that Creative Blocks Are Just Procrastination**
+As long as your heart is still beating, you have the ability to come up with new ideas and execute them. They may not always be great ones, but the greatest enemy of creativity is inactivity. Author Jodi Picoult summarized creative blocks perfectly: "I don't believe in writer's block. Think about it—when you were blocked in college and had to write a paper, didn't it always manage to fix itself the night before the paper was due? Writer's block is having too much time on your hands. If you have a limited amount of time to write, you just sit down and do it. You might not write well every day, but you can always edit a bad page. You can't edit a blank page." Picoult's comment describes all creative activity-the only way to stay creative is to keep moving forward.
+
+
 ### Make Your Goals Public
 - share your goals with someone and ask this person to hold you accountable
 
@@ -737,6 +800,10 @@ Ask yourself: 'Do I want to change this? Why do I want to change this?  What sta
 Accepting that something is going to happen and that the only thing we can control is how we choose to respond is where EI comes in
 
 "The greatest weapon against stress is our ability to choose one thought over another."
+
+"People who are truly successful use their emotional intelligence to focus on activities that address a variety of needs, not just immediate achievements."
+
+"Stop chasing the things that you think will make you happy and successful, and start realizing that you are the sum of your habits."
 
 # References
 - https://aimwa.com/workplaceconversations/growth-development/workplace-skills/five-steps-to-managing-your-emotions/
