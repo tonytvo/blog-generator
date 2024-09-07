@@ -1090,6 +1090,44 @@ on.
   - It's an intimidating question to ask, but few people will turn you down. Everyone likes being looked up to, and it feels good to share our knowledge with others.
 
 
+### Be Utterly Authentic
+
+- **Don't hide your quirks.** Authentic people often have unusual preferences that don't fit the norm. They're open and unabashed about who they are, which gives everyone a good look at these interesting tendencies. Billionaire Warren Buffett, for example, has never been suited to the high-rolling lifestyle. Instead, he still lives in the same modest house he bought in 1958 for $31,500. It might seem quirky or even strange for such an incredibly wealthy man to live so frugally, but Buffett doesn't sacrifice his preferences to what's expected of him.
+
+- **Express your true feelings and opinions even when they're not popular.** Authentic people don't live a go-along-to-get-along lifestyle. They're simply not capable of acting in a way that's contrary to what their principles dictate, even if there are repercussions. They prefer not to lie to other people, and they especially can't lie to themselves. This means that they're willing to live with the repercussions of staying true to themselves.
+
+- **Give others room to breathe.** Authentic people don't expect others to play a role, either. They don't make people feel as though they have to fit into a certain mold or project a certain image to be a part of their lives. Their commitment to being authentic gives other people the freedom to live authentically, too.
+
+- **Check your ego at the door.** An egomaniac is never authentic. Ego-maniacs are always posturing and worrying about how they're perceived. It's exhausting, and it's also dishonest. Take Oprah Winfrey an interesting and authentic person. In a speech to the Stanford University graduating class of 2008, she said, "The trick is to learn to check your ego at the door and start checking your gut instead. Every right decision I've made every right decision I've ever made has come from my gut. And every wrong decision I've ever made was a result of me not listening to the greater voice of myself." Oprah's advice is so important: Listen to your values, goals, and ambitions, rather than worrying about what will make you look good.
+
+- **Avoid the bandwagon.** Nothing is more boring than following the bandwagon, and authentic people are intent on forging their own paths. There's often nothing wrong with what everyone else is doing. It's just that authentic people are innovators who break with conformity to pursue new, exciting, and interesting ideas.
+
+- **Don't worry about what others think of you.** It's never fun accepting that someone doesn't like you, but a lot of times, that discomfort comes from trying to figure out what you did wrong or how you can fix it. Authentic people don't have that anxiety because they would never try to change themselves to influence someone else's opinion. They accept that other people have the right to be authentic about their own feelings, even if those feelings are negative toward them. Nothing is more unauthentic than hiding your true self because you're afraid that other people might not like it. Instead, authentic people are true to themselves wherever they are, whoever they're with, and whatever they're doing.
+
+- **Don't take anyone's advice without evaluating it carefully.** It's not that authentic people aren't willing to take advice; they are. But they don't put that advice into action just because other people have. First, they'll run it through the wringer from a critical perspective so that they can be sure it makes sense for them.
+
+- **Try new things.** Authentic people do what interests them. They know what they want, and they're brave enough to take the steps to get there. This often means trying new things-things at which they're often terrible at first.
+
+- **Never stop learning.** To authentic people, the world has infinite possibilities. This curiosity leads to constant learning, fueled by an ever-burning desire to discover the unknown. For example, despite Albert Einstein's intelligence and accomplishments, he retained a sense of wonder throughout his life that made him continue to ask questions about the world. Like Einstein, authentic people are in a constant state of wonder.
+
+
+#### PASSION DRIVES AUTHENTICITY
+
+- **Passionate people are obsessed.** Put simply, passionate people are obsessed with their muse, and I don't mean that in an unhealthy sort of way. I'm talking about a positive, healthy obsession, the kind that inspired the quote, "Do what you love, and you'll never work a day in your life." No matter what else is going on, their thoughts keep returning to their passion. Not because they feel burdened and pressured by it, but because they're just so dang excited about it. They're obsessed with their muse because it inspires them and makes them happy.
+
+- **They don't waste time.** You won't find passionate people wasting time. They don't have time to be bothered with things that don't matter or things that just kill time. They devote every minute available to their passion, and it's not a sacrifice, because there's nothing else they'd rather be doing.
+
+- **They're optimistic.** Passionate people are always focused on what can be, rather than what is. They're always chasing their next goal with the unwavering belief that they'll achieve it. You know how t feels when you're looking forward to a really special event? Passionate people feel like that every day.
+
+- **They're early risers.** Passionate people are far too eager to dive into their days to sleep in. It's not that they don't like to sleep; they'd just much rather be pursuing their passion. When the rooster crows, their minds are flooded with ideas and excitement for the day ahead.
+
+- **They're willing to take big risks.** How much you want something is reflected i how much you're willing to risk. Nobody is going to lay it all on the line for something they're only mildly interested in. Passionate people, on the other hand, are willing to risk it all.
+
+- **They have only one speed-full tilt.** Passionate people don't do anything halfheartedly. If they're going, they're going full tilt until they cross the finish line or crash. If they're relaxed and still, they're relaxed and still. There's no in-between.
+They talk about their passions all the time. Again, we're talking about people whose passions are inseparable from who they are, and you couldn't form much of a relationship with them if they couldn't be real about who they are, right? It's not that they don't understand that you don't share their obsession; they just can't help themselves. If they acted differently, they'd be playing a role rather than being authentic.
+
+- **They're highly excitable.** You know those people who probably wouldn't get excited if an alien spaceship landed in their front yard? Yeah, that's not how passionate people operate. It's not that they're never calm, or even bored. It's just that it takes less to get them excited, so they get excited more frequently and stay excited longer. One theory is that they devote their energy to just one or two things, so they make more progress, and that momentum fuels their excitement.
+
 ### Make Your Goals Public
 - share your goals with someone and ask this person to hold you accountable
 
