@@ -651,8 +651,6 @@ Analysis, interpretation, and classification of resources and the thoughts they 
 
 - The Zettelkasten Method is based on a hierarchy-free network. There are individual notes and their links. The structure notes can be used to create a hierarchy, but they are rather a just one representation possibility for a set of notes. One can create other structure notes with alternative hierarchies or even some with a non-hierarchical representation. In the Zettelkasten, one’s thoughts find an equal coexistence.
 
-BASB is a cat, ZKM is a dog
-
 - BASB speaks the language of action. ZKM speaks the language of knowledge. The basic categories of BASB are importance and urgency. These are categories of action. The basic categories of ZKM are atomic thought and its relation to other thoughts. BASB chooses as its filing categories PARA, a folder system that is a hierarchy of urgency. ZKM is a heterarchy of thoughts that can float freely in the ether like in the Platonic world of ideas.
 
 - Completed projects are considered the blood supply of the second brain:
@@ -681,7 +679,7 @@ BASB is a cat, ZKM is a dog
 
 ## BASB and ZKM
 
-- [value creation code](./value-creation-code-basb-zkm.png)
+- ![value creation code](./value-creation-code-basb-zkm.png)
 
 - From this graph, we can see that BASB manages exactly what is outside the Zettelkasten. BASB is not about creating a second brain in the direct sense. Rather, it is about handing off to the system all that does not belong in the brain. Again, BASB is in the tradition of GTD and accomplishes the same thing.
 
