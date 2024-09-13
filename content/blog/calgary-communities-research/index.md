@@ -49,6 +49,31 @@ tags: ["realestate"]
 - **Long-term potential vs current returns:** Thorncliffe’s long-term potential lies in its affordable housing market and proximity to major Calgary roads and amenities. It’s a solid choice for both cash flow and future appreciation, particularly if there is an increase in zoning density or continued infrastructure development. While current cash flow is modest, the area’s stability and community engagement make it a good option for long-term investment​
   - C-Train construction on centre street 
 
+# Oggden
+
+- **Nearby amenities:** Ogden offers a mix of amenities, including schools such as Banting and Best Elementary and Sherwood Community School. The community is close to several bus routes and CTrain stations, making public transit convenient. The area also has parks, community centers, and local shopping options​
+
+- **Housing age:** Most houses in Ogden were built between 1912 and the mid-20th century, as it is one of Calgary’s older neighborhoods​
+
+- **Common building types:** The housing stock in Ogden mainly consists of single-family homes, duplexes, and some townhouses. It's a mix of older homes with some newer developments​
+
+- **Zoning regulations:** Ogden has primarily residential zoning, allowing for both single-family and multi-family homes. Calgary has been updating zoning laws recently, potentially allowing for increased density and more units per lot in certain areas​
+
+- **Population and growth:** The population of Ogden is around 8,000. While the area has seen slow growth due to its mature status, development and infrastructure improvements could boost population increases in the future​
+
+- **Average income:** The median household income in Ogden is around $70,817, which is lower than Calgary’s overall average​
+
+- **Crime rate:** The crime rate in Ogden is higher than the Calgary average, with property crime being a particular concern. However, it is safer than 50% of Alberta communities​
+
+- **Rental supply and demand:** Ogden has a healthy rental market, with options ranging from basements to houses. The average rent is about $1,757 across different property types, with demand steadily increasing as the area becomes more attractive to renters​
+
+- **Average rents:** Rents in Ogden vary, with prices ranging from about $1,350 for basement suites to over $2,500 for larger houses​
+
+- **Neighborhood rating (A, B, C, D):** Ogden would be considered a C neighborhood, offering affordability and amenities but facing higher crime rates and lower average incomes compared to some other parts of Calgary​
+
+- **Long-term potential vs. current returns:** Ogden has long-term potential due to its affordability, proximity to downtown Calgary, and recent infrastructure developments. While current cash flow and returns are moderate, increased zoning flexibility and improvements in public transport could enhance property values in the future​
+
+
 # Quotes
 
 
@@ -58,3 +83,4 @@ tags: ["realestate"]
 - https://mycalgary.com/
 - https://www.areavibes.com/
 - https://www.zumper.com/
+- https://calgary.ca
