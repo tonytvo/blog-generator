@@ -1297,8 +1297,6 @@ power and influence expand.
 
 - **They do it now.** Way back in 1894, Orison Swett Marden made an important point: "Don't wait for extraordinary opportunities. Seek common occasions, and make them great. Weak men wait for opportunities. Strong men make them." If you put off growing your power until the right opportunity comes along, it's never going to happen. Powerful people stop making excuses and just start. You know what you believe in, you know who you are, and you know what you want to become, so act like it. Yes, it will be uncomfortable at times, and yes, some people will tell you you're doing it wrong, but the only way to be persuasive, achieve power, and use it for good is to get out there and do it.
 
-
-
 ### Make Your Relationships Last
 
 #### THE FOUR HORSEMEN OF THE APOCALYPSE
@@ -1361,6 +1359,74 @@ power and influence expand.
 - **Walk your talk.** Emotionally intelligent self-leaders are transparent and forthcoming. They aren't perfect, but they earn people's respect by walking their talk. Your children can develop this quality naturally, but only if it's something they see you demonstrate. To be authentic, you must be honest in all things, not just in what you say and do but also in who you are. When you walk your talk, your words and actions will align with who you claim to be. Your children will see this and aspire to do the same.
 
 - **Show you're human.** No matter how indignant and defiant your children are at any moment, you're still their hero and their model for the future. This can make you want to hide your past mistakes for fear that they'll be enticed to repeat them. The opposite is true. When you don't show any vulnerability, your children develop intense guilt about every failure because they believe that they're the only ones to make such terrible mistakes. To develop self-leadership, children need to know that the people they look up to aren't infallible. Leaders must be able to process their mistakes, learn from them, and move forward to be better people. Children can't do this when they're overcome by guilt. They need someone-a real, vulnerable person to teach them how to process mistakes and learn from them. When you show them how you've done this in the past, you're doing just that.
+
+
+### Create True Work-Life Balance
+
+- The following items are yours. If you don't set boundaries around them and learn to say no to your boss, you're giving away something that has immeasurable value.
+
+- **Your family.** It's easy to let your family suffer for your work. Many of us do this because we see our jobs as a means of maintaining our families. We have thoughts such as, "I need to make more money so that my kids can go to college debt free." Although these thoughts are well-intentioned, they can burden your family with the biggest debt of all—a lack of quality time with you. When you're on your deathbed, you won't remember how much money you made for your spouse and kids. You'll remember the memories you created with them.
+
+- **Your sanity.** While we all have our own levels of sanity, you don't owe a shred of it to your employer. A job that takes even a small portion of your sanity is taking more than it's entitled to. Your sanity is difficult for your boss to keep track of. You have to monitor it on your own and set good limits to keep yourself healthy. Often, it's your life outside work that keeps you sane. When you've already put in a good day's (or week's) work, and your boss wants more, the most productive thing you can do is say no, and then go and enjoy your friends and hobbies. This way, you return to work refreshed and de- stressed. You certainly can work extra hours if you want to, but it's important to say no to your boss when you need time away from work.
+
+- **Your health.** It's difficult to know when to set boundaries around your health at work because the decline is so gradual. Allowing stress to build up, losing sleep, and sitting all day without exercising all add up. Before you know it, you're rubbing your aching back with one hand and your zombie-like eyes with the other, and you're looking down at your belly. The key is not to let things sneak up on you. The way you do that is by maintaining a routine. Think about what you need to do to keep yourself healthy (taking walks during lunch, not working weekends, taking your vacations as scheduled, etc.), make a plan, and stick to it, no matter what. If you don't, you're allowing your work to overstep its bounds.
+
+- **Your contacts.** Although you do owe your employer your best effort, you certainly don't owe them the contacts you've developed over the course of your career. Your contacts are a product of your hard work and effort, and although you might share them with your company, they belong to you.
+
+- **Your identity.** Your work is an important part of your identity, but it's dangerous to allow it to become your whole identity. You know you've allowed this to go too far when you reflect on what's important to you, and work is all that (or most of what) comes to mind. Having an identity outside of work is about more than just having fun. It also helps you relieve stress, grow as a person, and avoid burnout.
+
+- **Your integrity.** Sacrificing your integrity causes massive amounts of stress. Once you realize that your actions and beliefs no longer align, it's time to make it clear to your employer that you're not willing to do things their way. If that's a problem for your boss, it might be time to part ways.
+
+#### ARE YOU BURNING OUT?
+
+- Burnout often results from a misalignment of input and output: You get burnt out when you feel like you're putting more into your work than you're getting out of it. Sometimes, this happens when a job isn't rewarding, but more often than not, it's because you aren't taking care of yourself. Before you can treat and even prevent burnout, recognize the following warning signs so that you'll know when it's time to take action.
+
+- **Cognitive difficulties.** Research shows that stress hammers your pre-frontal cortex, the part of your brain responsible for executive function. Executive function impacts your memory, decision-making abilities, emotional control, and focus. When you notice that you're making silly mistakes, forgetting important things, having outbursts of emotion, or making poor decisions, you're likely burning out.
+
+- **Difficulty with work and personal relationships.** Stress bleeds over into everything you do, particularly how you interact with people. Even when you feel that you're keeping your stress under control at work, it can rear its ugly head at home. Often, it's your relationships that suffer. Stress makes many people more likely to snap at others, lose their cool, and become involved in silly, unnecessary conflicts. Others are more inclined to withdraw and avoid the people they care about.
+
+- **Fatigue.** Burnout often leads to exhaustion because of the toll that stress takes on your mind and body. The hallmarks of burnout fatigue are waking up with no energy after a good night's sleep, drinking large amounts of caffeine to get you through the day, or having trouble staying awake at work.
+
+- **Health problems.** Burnout has a massive, negative impact on your physical and mental health. Whether you're experiencing back pain, depression, heart disease, or obesity, or you're just getting sick a lot, consider the role your work plays in this. You'll know when burnout is affecting your health, and you'll have to decide whether your approach to work is worth the consequences.
+
+- **Negativity.** Burnout can turn you very negative even when you're usually a positive person. If you find yourself focusing on the downside of situations, judging others, and feeling cynical, it's clear that negativity has taken hold, and it's time for you to do something about it.
+
+- **Decreased satisfaction.** Burnout almost always leads to a nagging sense of dissatisfaction. Projects and people who used to get you excited no longer do so. This dip in satisfaction makes work very difficult, because no matter what you're putting into your job, you don't feel like you're getting much out of it.
+
+- **Lost motivation.** We begin jobs in a honeymoon phase, seeing everything through rose-colored glasses. When you're in this phase, motivation comes naturally. When you're burnt out, you struggle to find the motivation to get the job done. You may complete tasks, and even complete them well, but the motivation that used to drive you is gone. Instead of doing work for the sake of the work itself, your motivation stems from fear of missing deadlines, letting people down, or getting fired.
+Taking your work home with you. You know that sickening feeling when you're lying in bed thinking about all the work that you didn't get done and hoping that you didn't miss something important? When you can't stop thinking about work when you're at home, it's a strong sign that you're burning out.
+
+- **Performance issues.** People who burn out are often high achievers, so when their performance begins to slip, others don't always notice. It's crucial to monitor your slippage. How were you performing a month ago? Six months ago? A year ago? If you see a dip in your performance, it's time to determine if burnout is behind it.
+
+- **Poor self-care.** Life is a constant struggle against the things that feel good momentarily but aren't good for you. When you experience burnout, your self-control wanes, and you find yourself succumbing to temptations more easily. This is largely due to the way that stress compromises your decision-making and self-control and partially due to lower levels of confidence and motivation.
+
+#### FIGHTING BURNOUT
+
+- **Disconnect.** Disconnecting is the most important burnout strategy on this list. If you can't find time to remove yourself electronically from your work, then you've never really left work. If taking the entire evening or weekend off from handling work emails and calls isn't realistic, try designating specific times to check on emails and respond to voicemails. For example, on weekday evenings, you might check emails once after dinner, and on the weekend, you might check your messages on Sunday morning before everyone is up. Scheduling such specific and short blocks of time alleviates stress without completely sacrificing your availability.
+
+- **Schedule relaxation.** It's just as important to plan your relaxation time as it is to plan when you work. Even scheduling something as simple as "read for 30 minutes" benefits you greatly. Scheduling relaxing activities makes certain they happen as well as gives you something to look forward to.
+
+- **Pay attention to your body's signals.** It's easy to think that a headache is the result of dehydration, that a stomachache is the result of something you ate, and that an aching neck is from sleeping on it wrong, but that's not always the case. Often, aches and pains are an accumulation of stress and anxiety. Burnout manifests in your body, so learn to pay attention to your body's signals so that you can nip burnout in the bud. Your body is always talking, but you have to listen.
+
+- **Get organized.** Much of the stress we experience on a daily basis doesn't stem from having too much work; it stems from being too disorganized to handle the work effectively. When you take the time to get organized, the load feels much more manageable.
+Take regular breaks during the workday. Physiologically, we work best in spurts of 60 to 90 minutes, followed by 15- minute breaks (more on that later). If you wait until you feel tired to take a break, it's too late-you've already missed the window of peak productivity and tired yourself unnecessarily in the process. Keeping to a schedule ensures that you work when you're the most productive and that you rest during times that would otherwise be unproductive.
+
+- **Lean on your support system.** It's tempting to withdraw from other people when you're feeling stressed, but they can be powerful allies in the war against burnout. Sympathetic family and friends are capable of helping you. Spending time with people who care about you helps you remove yourself from the stresses of work and reminds you to live a little and have fun.
+
+
+#### DITCH THE TRADITIONAL EIGHT-HOUR WORKDAY
+
+- What mattered was how people structured their day. In particular, people who were religious about taking short breaks were far more productive than those who worked longer hours. The ideal work-to-break ratio was 52 minutes of work followed by 17 minutes of rest. People who maintained this schedule had a unique level of focus in their work. For roughly an hour at a time, they were 100% dedicated to the task they needed to accomplish. They didn't check Facebook "real quick" or get distracted by emails. When they felt fatigue (again, after about an hour), they took short breaks, during which they completely separated themselves from their work. This helped them to dive back in refreshed for another productive hour of work.
+
+- Real breaks are easier to take when you know they're going to make your day more productive. We often let fatigue win because we continue working through it (long after we've lost energy and focus), and the breaks we take aren't real breaks (checking your email and watching YouTube doesn't recharge you the same way taking a walk does). The eight- hour workday can work for you if you break your time into strategic intervals. Once you align your natural energy with your effort, things begin to run much more smoothly. The following four habits will get you into that perfect rhythm.
+
+- **Break your day into hourly intervals.** We naturally plan what we need to accomplish by the end of the day, the week, or the month, but we're far more effective when we focus on what we can accomplish right now. Beyond getting you into the right rhythm, planning your day around hour-long intervals simplifies daunting tasks by breaking them into manageable pieces. If you want to be a literalist, you can plan your day around 52-minute intervals if you like, but 60 minutes works just as well.
+
+- **Respect your hour.** The interval strategy works only because we use our peak energy levels to reach an extremely high level of focus for a relatively short amount of time. When you disrespect your hour by texting, checking emails, or doing a quick Facebook check, you defeat the entire purpose of the approach.
+
+- **Take real rest.** In the study conducted by the Draugiem Group, they found that employees who took more frequent rests than the hourly optimum were more productive than those who didn't rest at all. Similarly, those who took deliberately relaxing breaks were better off than those who, when "resting," had trouble separating themselves from their work. Getting away from your computer, your phone, and your to-do list is essential to boost your productivity and sanity. Breaks such as walking, reading, and chatting are the most effective forms of recharging because they take you away from your work. On a busy day, it might be tempting to think of dealing with emails or making phone calls as breaks, but they aren't, so don't give in to this line of thought.
+
+- **Don't wait until your body tells you to take a break.** If you wait until you feel tired to take a break, it's too late-you've already missed the window of peak productivity. Keeping to your schedule ensures that you work when you're the most productive and that you rest during times that would otherwise be unproductive. Remember, it's far more productive to rest for short periods than to keep working when you're tired and distracted.
 
 
 ### Be Open and Be Curious
