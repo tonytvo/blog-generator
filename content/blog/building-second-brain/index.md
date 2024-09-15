@@ -53,8 +53,6 @@ Completing these tasks is exceedingly difficult inside the confines of our heads
 
 # Principle #2: Do your work as if writing is the only thing that matters
 
-The second principle extends the previous one even further: Do you work as if writing is the only thing that matters.
-
 In academia and science, virtually all research is aimed at eventual publication Ahrens notes that “there is no such thing as private knowledge in academia. An idea kept private is as good as one you never had.”
 
 The purpose of research is to produce public knowledge that can be scrutinized and tested. For that to happen, it has to be written down. And once it is, what the author meant doesn’t matter – only the actual words written on the page matter.
@@ -70,6 +68,7 @@ Almost every aspect of your life will change when you live as if you are working
 Deliberate practice is the best way to get better at anything, and in this case, you are deliberately practicing the most fundamental skill of all: thinking. Even if you never actually publish one line of writing, you will vastly improve every aspect of your thinking when you do everything as if nothing counts except writing.
 
 # Principle #3: Nobody ever starts from scratch
+
 One of the most damaging myths about creativity is that it starts from nothing. The blank page, the white canvas, the empty dance floor: Our most romantic and universal artistic motifs seem to suggest that “starting from scratch” is the essence of creativity.
 
 This belief is reinforced by how writing is typically taught: We are told to “pick a topic” as a necessary first step, then to conduct research, discuss and analyze it, and finally come to a conclusion.
@@ -99,8 +98,6 @@ It is only when all the work becomes part of an integrated process that it becom
 Good systems don’t add options and features; they strip away complexity and distractions from the main work, which is thinking. An undistracted brain and a reliable collection of notes is pretty much all we need. Everything else is just clutter.
 
 # Principle #5: Standardization enables creativity
-
-Ahrens uses the excellent analogy of how the invention of shipping containers revolutionized international trade to demonstrate the role of note-taking in modern writing
 
 Container shipping is a simple idea: ship products in standardized containers instead of loading them onto ships haphazardly as had always been done. But it took multiple failed attempts before it was successful, because it wasn’t actually about the container, which after all is just a box.
 
@@ -146,8 +143,6 @@ The ability to increase the chances of such future accidental encounters is a po
 
 # Principle #8: Organize your notes by context, not by topic
 
-Now that you’ve been collecting notes on your reading, how should you organize them?
-
 The classic mistake is to organize them into ever more specific topics and subtopics. This makes it look less complex, but quickly becomes overwhelming. The more notes pile up, the smaller and narrower the subtopics become, limiting your ability to see meaningful connections between them. With this approach, the greater one’s collection of notes, the less accessible and useful they become.
 
 Instead of organizing by topic and subtopic, it is much more effective to organize by context. Specifically, the context in which it will be used. The primary question when deciding where to put something becomes “In which context will I want to stumble upon this again?”
@@ -167,6 +162,7 @@ Writers don’t think about a single, “correct” location for a piece of info
 By saving all the byproducts of our writing, we collect all the future material we might need in one place. This approach sets up your future self with everything they need to work as decisively and efficiently as possible. They won’t need to trawl through folder after folder looking for all the sources they need. You’ll already have done that work for them.
 
 # Principle #9: Always follow the most interesting path
+
 Ahrens notes that in most cases, students fail not because of a lack of ability, but because they lose a personal connection to what they are learning:
 
 “When even highly intelligent students fail in their studies, it’s most often because they cease to see the meaning in what they were supposed to learn (cf. Balduf 2009), are unable to make a connection to their personal goals (Glynn et al. 2009) or lack the ability to control their own studies autonomously and on their own terms (Reeve and Jan 2006; Reeve 2009).”
@@ -199,10 +195,7 @@ By taking notes on a wide variety of sources and in objective formats that exist
 
 By playing with a concept, stretching and reconceiving and remixing it, we become less attached to how it was originally presented. We can extract certain aspects or details for our own uses. With so many ideas at our disposal, we are no longer threatened by the possibility that a new idea will undermine existing ones.
 
-Don’t just feel smarter. Become smarter.
 Working with a slip-box can be disheartening, because you are constantly faced with the gaps in your understanding. But at the same time, it increases the chances that you will actually move the work forward.
-
-Our choice then is whether we want to feel smarter or become smarter.
 
 Students in most educational institutions are not encouraged to independently build a network of connections between different kinds of information. They aren’t taught how to organize the very best and most relevant knowledge they encounter in a long-term way across many topics. Most tragically of all, they aren’t taught to follow their interests and take the most promising path in their research.
 
@@ -212,114 +205,145 @@ Ultimately, learning should not be about hoarding stockpiles of knowledge like g
 
 Ahrens recommends the following 8 steps for taking notes:
 
-Make fleeting notes
-Make literature notes
-Make permanent notes
-Now add your new permanent notes to the slip-box
-Develop your topics, questions and research projects bottom up from within the slip-box
-Decide on a topic to write about from within the slip-box
-Turn your notes into a rough draft
-Edit and proofread your manuscript
+- Make fleeting notes
+- Make literature notes
+- Make permanent notes
+- Now add your new permanent notes to the slip-box
+- Develop your topics, questions and research projects bottom up from within the slip-box
+- Decide on a topic to write about from within the slip-box
+- Turn your notes into a rough draft
+- Edit and proofread your manuscript
+
 He notes that Luhmann actually had two slip-boxes: the first was the “bibliographical” slip-box, which contained brief notes on the content of the literature he read along with a citation of the source; the second “main” slip-box contained the ideas and theories he developed based on those sources. Both were wooden boxes containing paper index cards. 
 
 Luhmann distinguished between three kinds of notes that went into his slip-boxes: fleeting notes, literature notes, and permanent notes. 
 
 - **Make fleeting notes**
 
-Fleeting notes are quick, informal notes on any thought or idea that pops into your mind. They don’t need to be highly organized, and in fact shouldn’t be. They are not meant to capture an idea in full detail, but serve more as reminders of what is in your head.
+  - Fleeting notes are quick, informal notes on any thought or idea that pops into your mind. They don’t need to be highly organized, and in fact shouldn’t be. They are not meant to capture an idea in full detail, but serve more as reminders of what is in your head.
 
 - **Make literature notes**
-The second type of note is known as a “literature note.” As he read, Luhmann would write down on index cards the main points he didn’t want to forget or that he thought he could use in his own writing, with the bibliographic details on the back. 
+  - The second type of note is known as a “literature note.” As he read, Luhmann would write down on index cards the main points he didn’t want to forget or that he thought he could use in his own writing, with the bibliographic details on the back. 
 
-Ahrens offers four guidelines in creating literature notes:
-
-Be extremely selective in what you decide to keep
-Keep the overall note as short as possible
-Use your own words, instead of copying quotes verbatim
-Write down the bibliographic details on the source
+  - Ahrens offers four guidelines in creating literature notes:
+    - Be extremely selective in what you decide to keep
+    - Keep the overall note as short as possible
+    - Use your own words, instead of copying quotes verbatim
+    - Write down the bibliographic details on the source
 
 - **Make permanent notes**
-Permanent notes are the third type of note, and make up the long-term knowledge that give the slip-box its value.
+  - Permanent notes are the third type of note, and make up the long-term knowledge that give the slip-box its value.
 
-This step starts with looking through the first two kinds of notes that you’ve created: fleeting notes and literature notes. Ahrens recommends doing this about once a day, before you completely forget what they contain.
+  - This step starts with looking through the first two kinds of notes that you’ve created: fleeting notes and literature notes. Ahrens recommends doing this about once a day, before you completely forget what they contain.
 
-As you go through them, think about how they relate to your research, current thinking, or interests. The goal is not just to collect ideas, but to develop arguments and discussions over time. If you need help jogging your memory, simply look at the existing topics in your slip-box, since it already contains only things that interest you. 
+  - As you go through them, think about how they relate to your research, current thinking, or interests. The goal is not just to collect ideas, but to develop arguments and discussions over time. If you need help jogging your memory, simply look at the existing topics in your slip-box, since it already contains only things that interest you. 
 
-Here are a few questions to ask yourself as you turn fleeting and literature notes into permanent notes:
+  - Here are a few questions to ask yourself as you turn fleeting and literature notes into permanent notes:
+    - How does the new information contradict, correct, support, or add to what I already know?
+    - How can I combine ideas to generate something new?
+    - What questions are triggered by these new ideas?
+  - As answers to these questions come to mind, write down each new idea, comment, or thought on its own note. If writing on paper, only write on one side, so you can quickly review your notes without having to flip them over.
 
-How does the new information contradict, correct, support, or add to what I already know?
-How can I combine ideas to generate something new?
-What questions are triggered by these new ideas?
-As answers to these questions come to mind, write down each new idea, comment, or thought on its own note. If writing on paper, only write on one side, so you can quickly review your notes without having to flip them over.
+  - Write these permanent notes as if you are writing for someone else. That is, use full sentences, disclose your sources, make explicit references, and try to be as precise and brief as possible. 
 
-Write these permanent notes as if you are writing for someone else. That is, use full sentences, disclose your sources, make explicit references, and try to be as precise and brief as possible. 
-
-Once this step is done, throw away (or delete) the fleeting notes from step one and file the literature notes from step two into your bibliographic slip-box.
+  - Once this step is done, throw away (or delete) the fleeting notes from step one and file the literature notes from step two into your bibliographic slip-box.
 
 - **Add your permanent notes to the slip-box**
-It’s now time to add the permanent notes you’ve created to your slip-box. Do this by filing each note behind a related note (if it doesn’t relate to any existing notes, add it to the very end).
 
-Optionally, you can also:
+  - It’s now time to add the permanent notes you’ve created to your slip-box. Do this by filing each note behind a related note (if it doesn’t relate to any existing notes, add it to the very end).
 
-Add links to (and from) related notes
-Adding it to an “index” – a special kind of note that serves as a “table of contents” and entry point for an important topic, including a sorted collection of links on the topic
-Each of the above methods is a way of creating an internal pathway through your slip-box. Like hyperlinks on a website, they give you many ways to associate ideas with each other. By following the links, you encounter new and different perspectives than where you started.
+  - Optionally, you can also:
+    - Add links to (and from) related notes
+    - Adding it to an “index” – a special kind of note that serves as a “table of contents” and entry point for an important topic, including a sorted collection of links on the topic
 
-Luhmann wrote his notes with great care, not much different from his style in the final manuscript. More often than not, new notes would become part of existing strands of thought. He would add links to other notes both close by, and in distantly related fields. Rarely would a note stay in isolation.
+  - Each of the above methods is a way of creating an internal pathway through your slip-box. Like hyperlinks on a website, they give you many ways to associate ideas with each other. By following the links, you encounter new and different perspectives than where you started.
+
+  - Luhmann wrote his notes with great care, not much different from his style in the final manuscript. More often than not, new notes would become part of existing strands of thought. He would add links to other notes both close by, and in distantly related fields. Rarely would a note stay in isolation.
 
 - **Develop your topics, questions, and research projects bottom up from within the slip-box**
-With so many standardized notes organized in a consistent format, you are now free to develop ideas in a “bottom up” way. See what is there, what is missing, and which questions arise. Look for gaps that you can fill through further reading.
+  - With so many standardized notes organized in a consistent format, you are now free to develop ideas in a “bottom up” way. See what is there, what is missing, and which questions arise. Look for gaps that you can fill through further reading.
 
-If and when needed, another special kind of note you can create is an “overview” note. These notes provide a “bird’s eye view” of a topic that has already been developed to such an extent that a big picture view is needed. Overview notes help to structure your thoughts and can be seen as an in-between step in the development of a manuscript.
+  - If and when needed, another special kind of note you can create is an “overview” note. These notes provide a “bird’s eye view” of a topic that has already been developed to such an extent that a big picture view is needed. Overview notes help to structure your thoughts and can be seen as an in-between step in the development of a manuscript.
 
 - **Decide on a topic to write about from within the slip-box**
 
-Instead of coming up with a topic or thesis upfront, you can just look into your slip-box and look for what is most interesting. Your writing will be based on what you already have, not on an unfounded guess about what the literature you are about to read might contain. Follow the connections between notes and collect all the relevant notes on the topic you’ve found.
+  - Instead of coming up with a topic or thesis upfront, you can just look into your slip-box and look for what is most interesting. Your writing will be based on what you already have, not on an unfounded guess about what the literature you are about to read might contain. Follow the connections between notes and collect all the relevant notes on the topic you’ve found.
 
 - **Turn your notes into a rough draft**
 
-Don’t simply copy your notes into a manuscript. Translate them into something coherent and embed them into the context of your argument. As you detect holes in your argument, fill them or change the argument.
+  - Don’t simply copy your notes into a manuscript. Translate them into something coherent and embed them into the context of your argument. As you detect holes in your argument, fill them or change the argument.
 
 - **Edit and proofread your manuscript**
 
-From this point forward, all you have to do is refine your rough draft until it’s ready to be published.
+  - From this point forward, all you have to do is refine your rough draft until it’s ready to be published.
 
-This process of creating notes and making connections shouldn’t be seen as merely maintenance. The search for meaningful connections is a crucial part of the thinking process. Instead of figuratively searching our memories, we literally go through the slip-box and form concrete links. By working with actual notes, we ensure that our thinking is rooted in a network of facts, thought-through ideas, and verifiable references.
+  - This process of creating notes and making connections shouldn’t be seen as merely maintenance. The search for meaningful connections is a crucial part of the thinking process. Instead of figuratively searching our memories, we literally go through the slip-box and form concrete links. By working with actual notes, we ensure that our thinking is rooted in a network of facts, thought-through ideas, and verifiable references.
+
+# how to find your 12 favorite problems
+
+- Make a list of the areas of your life. These will serve as your backbone for your later thinking.
+- Use an outline or mind map as a creative technique. You can use any creative technique. Now it is only a matter of producing for the time being. Collect all problems and possible projects that seem interesting to you in some way. Sort everything into groups. Try to find patterns.
+- Throw out everything that does not inspire you.
+
+- This method is only a suggestion! All good methods follow these two meta-rules:
+  - Collect first without judging.
+  - Then sift out the gold pieces.
+
+- **Particularly relevant favorites are your life goals!** Need help finding your favorites? Make a list of all your life goals. Which of your collected problems and projects are especially relevant to your life goals? The more important a life goal is to you, the more the problems and projects related to it inspire you.
+
+- As a knowledge worker, you have it easy! The field of “job and career” can produce a large number of darlings. After all, your profession is to deal with problems or knowledge-based projects.
+
+- potential problems?
+  - **How can I strengthen all my relationships?**
+  - **How do I be a better father, son, brother, and friend?**
+  - **How do we provide a claims experience that feels like magic such as traveling, life experiences, food, etc...?**
+  - **how do we measure performance, critical workflows, extracting data, KPI, etc... out of system effectively?**
+  - **how can I connect with my children better?**
+  - -How do we leverage AI to troubleshoot and solve customer problems?-
+  - -How do we pre-empt customer problems before they happen?-
+  - **what's the most effective way to learn and share agile technical practices?**
+  - **how do I learn, develop, and maintain system effectively with teams**
+  - How do identify the most important books on every topic and organize them in a way that provides a clear learning path to all learners?
+  - **how to generate wealth effectively through investing, full-time employee, real estate, business, etc...?**
+  - **How can I enjoy life while still building big and important things (how can solving problems and building companies not consume me?)**
+  - **How do I get the right quality filters so that I focus on the right things but not miss out on serendipity/ new ideas?**
+  - **what does it mean to be learning organization?**
+  - **how do I balance between work, health, interests, family effectively?**
+  - 
 
 # How to choose a note-taking method
 
-A variety of note-taking methods have been developed to help us learn and think better. We are all different people with different preferences and lives. We all need a slightly different system.
-Technology, particularly recently, has transformed note-taking from a static to an interactive exercise. With new tools like AI and backlinking, we’re interacting with our notes in ways that were previously impossible. This evolution is happening at a faster rate now than ever before.
-Note-taking methods provide a blueprint for structuring information within digital tools, enhancing their overall effectiveness. We’ll cover everything from the Zettelkasten method to Mind Mapping, dissecting exactly how they can be applied to modern note-taking tools.
+- Technology, particularly recently, has transformed note-taking from a static to an interactive exercise. With new tools like AI and backlinking, we’re interacting with our notes in ways that were previously impossible. This evolution is happening at a faster rate now than ever before.
+
+- [list of personal knowledge management systems](https://www.reddit.com/r/PKMS/comments/nfef59/list_of_personal_knowledge_management_systems/)
 
 # Traditional note-taking methods – adapted for 2023
 
 ## The Outline note-taking method
 
-You probably remember learning the Outline method in school. The simplicity makes it a great place to start if you’re trying to get in the habit of taking better notes. It involves creating a structured, hierarchical form of notes using indentation to denote different points, sub-points, and details. You’ll want to make sure your note-taking app handles lists well for this.
-How to take notes using the Outline method:
-Start by writing the main topic at the top of the page.
-Below the main topic, write the main supporting points using numbers or Roman numerals.
-Below each main point, write sub-points using bullets. Indent these slightly to the right.
-If there are additional details related to a sub-point, list these under the corresponding bullet. You can denote these with letters or symbols if that helps make it easier to read.
-Continue this pattern as necessary.
- 
+- You probably remember learning the Outline method in school. The simplicity makes it a great place to start if you’re trying to get in the habit of taking better notes. It involves creating a structured, hierarchical form of notes using indentation to denote different points, sub-points, and details. You’ll want to make sure your note-taking app handles lists well for this.
+
+- **How to take notes using the Outline method:**
+  - Start by writing the main topic at the top of the page.
+  - Below the main topic, write the main supporting points using numbers or Roman numerals.
+  - Below each main point, write sub-points using bullets. Indent these slightly to the right.
+  - If there are additional details related to a sub-point, list these under the corresponding bullet. You can denote these with letters or symbols if that helps make it easier to read.
+  - Continue this pattern as necessary.
+  - [template for outlining method](https://reflect.site/g/samclaassen/the-outlining-note-taking-method/5df21ab3432d442e87e4f6c0e8fba04a)
 💡
-View a template for the Outlining method.
- 
-The Charting Method
-If you find the Outlining method a bit dull (or have PTSD from school),one step down is the Charting note-taking method. It’s useful for information that fits well into categories.
-How to take notes using the Charting method
-Start by identifying categories relevant to the information you're taking notes on.
-List out headings on the note with a category and create it as a backlink.
-As you receive or read information, fill in the relevant details under the corresponding category in the chart.
-Go through and organize/re-order the points.
-If your note-taking app allows it, it can be useful to pull them up side by side to compare and contrast topics.
- 
-💡
-View a template of the Charting note-taking method here.
- 
-The Cornell Method of taking notes
+## The Charting Method
+
+- If you find the Outlining method a bit dull (or have PTSD from school),one step down is the Charting note-taking method. It’s useful for information that fits well into categories.
+- **How to take notes using the Charting method**
+  - Start by identifying categories relevant to the information you're taking notes on.
+  - List out headings on the note with a category and create it as a backlink.
+  - As you receive or read information, fill in the relevant details under the corresponding category in the chart.
+  - Go through and organize/re-order the points.
+  - If your note-taking app allows it, it can be useful to pull them up side by side to compare and contrast topics.
+  - [template of the charting note-taking method](https://reflect.site/g/samclaassen/the-charting-method-of-note-taking/367a9aa6fcc34c6bb835ebce22ddac0c)
+
+## The Cornell Method of taking notes
+
 Developed by Walter Pauk at Cornell University, this system involves dividing each page into three sections: Notes, Cues, and Summary. This helps with recalling, reviewing, and summarizing notes efficiently. Given its start in academia, it’s great for lectures and educational videos.
 The Cornell Method was developed for handwritten notes, but it can easily be applied to your note-taking app.
 How to take Cornell Notes in a digital note-taking app:
@@ -346,7 +370,8 @@ You can try this out for yourself with a free 2 week trial of Reflect. Check out
  
 notion image
  
-SQ3R Method of note-taking
+## SQ3R Method of note-taking
+
 Survey, Question, Read, Recite, Review.
 This is more of a studying method but it’s good for any type of learning. This process encourages you to interact with your notes to understand and retain the material better. It takes a bit more time and engagement but solidifies the information solidly in your mind (and notes).
 How to take notes using the SQ3R method
@@ -359,8 +384,10 @@ Review: After you've finished reading, review your notes. This reinforces what y
 💡
 See a SQ3R note-taking template here.
  
-Modern Note-Taking Methods
-Daily Journaling method of note-taking
+# Modern Note-Taking Methods
+
+## Daily Journaling method of note-taking
+
 Daily Journaling involves having an ongoing Daily Note from where you base all of your note-taking from. Each day has a new page in the ongoing note where everything in your day goes. Each element is backlinked out to a page where you can provide more information.
 The Daily Journaling method is more suited for overall knowledge capture than a method for studying a specific topic. With backlinking, it’s a great way to build up a second brain over time.
 How to apply the Daily Journaling method to your notes:
@@ -375,7 +402,7 @@ notion image
 💡
 You can watch a video on how to setup a daily Reflection in your notes here.
  
-The Zettelkasten note-taking method
+## The Zettelkasten note-taking method
 Some might consider the Zettelkasten method as traditional, with a resurgence in the digital age. The method involves creating a web of notes that are all linked together. Tools like Reflect, Roam Research, Obsidian, and RemNote facilitate this method well.
 How to take notes through networked note-taking (i.e. the Zettelkasten method):
 Create a new note for each Idea: Whenever you encounter an idea you want to remember, create a new note. The note should be self-contained, so it can be understood without referring to any other note.
@@ -389,7 +416,8 @@ Use tags or keywords: Tags can help group related notes together, making them ea
 You can watch a video of how to easily apply the Zettelkasten method below. 
 Video preview
  
-Tiago Forte's PARA method (from Building a Second Brain)
+## Tiago Forte's PARA method (from Building a Second Brain)
+
 PARA is a key component of Tiago Forte's "Building a Second Brain" methodology. The acronym PARA stands for: Projects, Areas, Resources and Archives.
 Projects: A project is defined as a series of tasks linked to a goal, with a deadline. You can create a separate note or folder for each project you are currently working on. Each of these should be something that you can feasibly complete in the near future. If your note-taking app supports it, you can give it a PARA tag.
 Areas: Areas of responsibility are parts of your life that need continuous maintenance and oversight, without a specific end date. Examples could include health, finance, career, or relationships. You can create a note or folder for each area and add relevant information as you come across it.
@@ -406,7 +434,7 @@ By sorting your notes into these categories and regularly reviewing and updating
  
 notion image
  
-Evergreen Notes
+## Evergreen Notes
 This is a concept related to Zettelkasten, but specifically emphasizes notes that are written and organized in a way that they are always useful and can be built upon. These notes are often atomic (focused on one idea) and heavily linked.
  
 How to apply the Evergreen note-taking method:
@@ -419,7 +447,7 @@ Avoid transient information: Evergreen notes are meant to be long-lasting and al
 💡
 You can view a template to use for the Evergreen note-taking method here.
  
-Bullet Journaling
+## Bullet Journaling
 This system was developed by Ryder Carrol, the inventor of the Bullet Journal. While it is known as a manual journaling and task management method, it can also be accomplished digitally. It uses symbols to categorize entries into tasks, events, and notes.
  
 How to apply to Bullet Journaling method to your notes:
@@ -433,7 +461,8 @@ Migration: At the end of each month, look over your tasks. Any that weren't comp
 💡
 See templates for the Bullet Journaling method here.
  
-AI-Powered note-taking
+## AI-Powered note-taking
+
 AI-powered tools like Reflect can do incredible new things. They can automatically transcribe and take notes during a meeting, organize those notes for you and list the key takeaways. AI allows us to capture thoughts with less friction than ever before and then effortlessly organize them. It’s less of a method, and more of a tool.
 How to take notes with AI
 Tools like Reflect that use Whisper can transcribe speech in real time with human level accuracy. See how to do this here.
