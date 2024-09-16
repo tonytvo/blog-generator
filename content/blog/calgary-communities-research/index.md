@@ -17,7 +17,7 @@ tags: ["realestate"]
 - what are the rentals supply/demand in the communities?
 - what are the average rents?
 - is it A, B, C, D neighborhood?
-- what are the long-term potential compared to current returns and cashflow?
+- what are the long-term potential appreciation compared to current returns and cashflow?
 
 # Thorncliff
 
