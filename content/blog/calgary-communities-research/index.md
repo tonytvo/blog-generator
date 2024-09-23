@@ -19,6 +19,7 @@ tags: ["realestate"]
 - is it A, B, C, D neighborhood?
 - what are the long-term potential appreciation compared to current returns and cashflow?
 - what is average house prices?
+- what real estate investment strategies could work for this neighborhood?
 - ![calgary communities](./calgary-communities.jpg)
 
 # Thorncliff
@@ -83,6 +84,58 @@ tags: ["realestate"]
 
 - **Strategy:** Value-add (infill development or legal basement suites)
   - **Why:** Ogden is undergoing revitalization, with infrastructure improvements like the CTrain extension. Investors can take advantage of this by adding value through infill developments or legalizing basement suites to increase rental income. As the area becomes more connected, property values are expected to rise.
+
+# Capitol Hill, NW
+
+- **Nearby Amenities and Attractions:**
+  - Capitol Hill is centrally located with excellent access to parks, schools, and public transit.
+  - Confederation Park: A major attraction, offering walking trails, picnic spots, and a golf course.
+  - North Hill Shopping Centre: Close to grocery stores, retail shops, and restaurants.
+  - SAIT and University of Calgary: Located nearby, making it a convenient location for students and academic staff.
+  - Public Transportation: Close proximity to CTrain stations and bus routes, offering easy access to downtown and other parts of the city.
+
+- **When Were the Houses Commonly Built?**
+  - The majority of homes in Capitol Hill were built between the 1940s and 1960s. However, there has been significant redevelopment in recent years, with older bungalows being replaced by newer infill properties (often duplexes or townhomes).
+
+- **Common Building Types:**
+  - Older Bungalows: Many of the original homes are post-war bungalows.
+  - Infill Developments: A significant portion of new development consists of duplexes and infill homes. The neighborhood is transitioning to more modern multi-family units.
+
+- **Zoning Regulations:**
+  - Capitol Hill features a mix of R-C2 zoning, which allows for single-family homes as well as duplexes, and some areas with R-CG (Residential-Grade-Oriented Infill District), which permits townhouses and low-rise multi-family units. This zoning flexibility has led to the development of multi-family homes and increased density in the area.
+
+- **Population and Growth:**
+  - Population: Approximately 4,500 residents.
+  - Population Growth: The population is relatively stable, though there has been some growth due to infill development. The increase in density as more infills are built suggests a moderate population growth over time.
+
+- **Average Income:**
+  - The median household income in Capitol Hill is estimated to be around $80,000, which is similar to the Calgary average.
+
+- **Crime Rate:**
+  - Capitol Hill’s crime rate is considered moderate compared to other Calgary neighborhoods. It has a mix of property crime and lower levels of violent crime, partly due to its proximity to SAIT and University of Calgary.
+
+- **Rental Supply/Demand:**
+  - Rental demand is strong due to the community’s proximity to SAIT, University of Calgary, and downtown Calgary. The neighborhood is popular with students, young professionals, and families. The supply of rental properties has increased with the construction of newer infill homes and duplexes, which often include rental suites.
+
+- **Average Rents:**
+  - 1-bedroom apartments: Around $1,300 to $1,500.
+  - 2-bedroom units: Typically range from $1,500 to $2,000.
+  - Single-family homes: Can rent for $2,200 to $3,000, depending on the size and condition.
+
+- **Neighborhood Rating (A, B, C, D):**
+  - Capitol Hill can be classified as a B+ neighborhood. It offers strong access to amenities, a central location, and proximity to educational institutions, making it appealing for both renters and homeowners. However, some older properties may require updates.
+
+- **Long-Term Potential (Appreciation vs. Current Returns and Cash Flow):**
+  - Capitol Hill offers strong long-term appreciation potential due to its central location, zoning flexibility, and increasing development. The neighborhood’s transformation through infill housing makes it attractive for future growth. While current rental yields are moderate, the potential for appreciation is significant, especially as Calgary continues to expand and demand for inner-city living increases.
+
+- **Average House Prices:**
+  - The average home price in Capitol Hill is around $650,000. This includes older bungalows and newer infill developments, with the latter commanding higher prices.
+
+- **Real Estate Investment Strategies:**
+  - **Infill Development:** Capitol Hill is a prime location for investors looking to develop infill properties. With zoning regulations that allow duplexes and townhomes, developers can build multi-family homes and cater to growing demand for urban living.
+  - **Buy-and-Hold Rentals:** Due to strong rental demand from students and young professionals, a buy-and-hold strategy is suitable, especially with the potential for long-term appreciation.
+  - **House Hacking:** Many of the newer duplexes and infill homes come with legal basement suites, making house hacking (living in one unit while renting the other) a viable option.
+  - **Fix-and-Flip:** Investors can purchase older bungalows, renovate them, and either resell or rent out. Given the neighborhood’s growth, well-renovated properties are likely to appreciate.
 
 # Mahogany, deep south
 
