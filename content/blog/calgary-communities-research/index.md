@@ -246,6 +246,61 @@ tags: ["realestate"]
   - Student Housing: Proximity to Mount Royal University and other educational institutions makes Windsor Park ideal for student rentals. Investors can focus on developing or acquiring multi-bedroom properties to cater to student tenants.
   - Short-Term Rentals (Airbnb): Given its central location and access to major Calgary attractions like Chinook Centre and proximity to downtown, Windsor Park can also be lucrative for short-term rental strategies, particularly with newer condos or townhouses.
 
+# Radisson Heights, SE
+
+- **Nearby Amenities and Attractions**
+  - Shopping and Services: Radisson Heights is close to 17th Avenue SE (International Avenue), known for its multicultural shops, restaurants, and services. The community is also near the Marlborough Mall and various grocery stores.
+  - Parks and Recreation: Albert Park/Radisson Heights Park offers green spaces, playgrounds, and walking paths. The community is near Elliston Park, which hosts the annual GlobalFest fireworks festival.
+  - Transit: The community has convenient access to public transit, with multiple bus routes and proximity to the Franklin LRT Station for quick access to downtown Calgary.
+  - Schools: The area is home to several schools, including Father Lacombe High School and Radisson Park School.
+
+- **When Were the Houses Commonly Built?**
+  - Most homes in Radisson Heights were built between the 1950s and 1970s, though there are also some newer developments and infills. Many properties are older single-family homes, though multi-family dwellings have been added as part of the neighborhood’s gradual redevelopment.
+
+- **Common Building Type**
+  - The community primarily features single-family detached homes from the mid-20th century, alongside townhouses, apartment buildings, and some newer infill developments. Bungalows and two-story homes are the most common single-family designs.
+
+- **Zoning Regulations**
+  - Radisson Heights has R-C2 zoning in many areas, allowing for duplexes and semi-detached homes. There are also M-C1/M-C2 zones that permit multi-family housing, such as row houses and apartment buildings. This zoning allows for higher density, making it attractive for investors interested in multi-unit developments or adding legal suites to existing properties.
+
+- **Population and Growth**
+  - The population of Radisson Heights is around 6,600 people. The area has seen modest population growth over the years, with some revitalization efforts aimed at improving infrastructure and housing stock. The neighborhood's appeal to newcomers, including immigrants and young families, is contributing to steady, moderate growth.
+
+- **Average Income**
+  - The average household income in Radisson Heights is approximately $50,000 to $60,000, which is below Calgary's citywide average. The area attracts a working-class population, including immigrants and renters looking for affordable housing close to central Calgary.
+
+- **Crime Rate**
+  - Radisson Heights has a moderate crime rate. Like many inner-city neighborhoods, there are occasional reports of property crimes such as thefts and break-ins. However, community safety initiatives and increased development efforts are helping to improve the overall perception of the neighborhood.
+
+- **Rental Supply and Demand**
+  - The rental market in Radisson Heights is strong, driven by demand from students, working professionals, and families. Its affordability and proximity to downtown and transit options make it attractive for renters. There is a good balance between supply and demand, with new infills and multi-family units adding to the available rental stock.
+
+- **Average Rents**
+  - One-bedroom apartment: $1,100–$1,300/month
+  - Two-bedroom apartment: $1,400–$1,700/month
+  - Three-bedroom house: $2,000–$2,500/month
+  - These rent levels are relatively affordable compared to other Calgary neighborhoods, making Radisson Heights attractive for tenants looking for budget-friendly options.
+
+- **Neighborhood Classification (A, B, C, D)**
+  - Radisson Heights is considered a C neighborhood. It is affordable and offers decent access to amenities, but it is still undergoing revitalization, with some areas requiring further development. It remains attractive to renters due to its affordability and location near downtown, but it is not as high-end as other inner-city communities.
+
+- **Long-Term Potential Appreciation vs. Current Returns and Cashflow**
+  - Appreciation: The long-term appreciation potential in Radisson Heights is moderate. While the area is not experiencing rapid growth, ongoing redevelopment, infrastructure improvements, and its central location should contribute to steady appreciation over time.
+  - Cashflow: Rental properties in Radisson Heights tend to provide good cash flow due to relatively low property prices and strong rental demand. Multi-family homes or properties with legal basement suites can offer particularly strong rental returns.
+
+- **Average House Prices**
+  - Detached homes: $350,000–$550,000, depending on the age and condition of the property.
+  - Townhouses/duplexes: $250,000–$400,000
+  - Condos/apartments: $150,000–$300,000
+  - Radisson Heights is one of Calgary’s more affordable inner-city neighborhoods, making it attractive for both first-time buyers and investors.
+
+- **Real Estate Investment Strategies**
+  - Buy-and-Hold: Investors can purchase affordable homes and hold them for rental income, benefiting from steady cash flow while waiting for long-term appreciation. The demand for rental housing, particularly for multi-family units, is strong in Radisson Heights.
+  - Infill Development: The community's R-C2 and M-C1 zoning allows for infill development, such as duplexes or small apartment buildings. Investors can purchase older homes, tear them down, and build modern multi-family units to maximize rental income and future resale value.
+  - Fix-and-Flip: Investors can buy older homes in need of renovation, improve them, and sell at a profit. Given the community's ongoing revitalization and its proximity to downtown, well-renovated homes can attract buyers looking for affordable housing options close to central Calgary.
+  - Multi-Family Rentals: Given the zoning regulations and rental demand, multi-family units like duplexes or small apartment buildings can generate strong rental income. Investors can either purchase existing multi-family properties or develop new ones.
+  - Student Housing: With the area’s proximity to downtown and affordable rent levels, there is potential to target students or young professionals with shared accommodation or multi-bedroom rental units.
+
 # Mahogany, deep south
 
 - Known for its large man-made lake, Mahogany is a master-planned community that attracts families and offers high-quality amenities. It has numerous parks, schools, and access to Mahogany Village Market. The area is experiencing steady growth, but newer homes dominate the market, which may take time to appreciate fully.
