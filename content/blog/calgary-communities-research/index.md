@@ -301,6 +301,61 @@ tags: ["realestate"]
   - Multi-Family Rentals: Given the zoning regulations and rental demand, multi-family units like duplexes or small apartment buildings can generate strong rental income. Investors can either purchase existing multi-family properties or develop new ones.
   - Student Housing: With the area’s proximity to downtown and affordable rent levels, there is potential to target students or young professionals with shared accommodation or multi-bedroom rental units.
 
+# Forest Lawn
+
+- **Nearby Amenities and Attractions**
+  - Shopping and Dining: Forest Lawn is located along 17th Avenue SE (International Avenue), known for its multicultural shops, grocery stores, restaurants, and services. The community offers a wide variety of cuisines, representing cultures from around the world.
+  - Parks and Recreation: Elliston Park, located nearby, offers green spaces, picnic areas, and a lake. This park is also the site of GlobalFest, Calgary’s annual international fireworks festival. Additionally, Bob Bahan Aquatic & Fitness Centre offers fitness and recreation opportunities for residents.
+  - Transit: The community is well-served by public transit, with multiple bus routes connecting to other parts of the city. It has relatively easy access to downtown Calgary, which is approximately 15 minutes away by car.
+  - Schools: Schools in the area include Forest Lawn High School, Patrick Airlie School, and Ernest Morrow School.
+
+- **When Were the Houses Commonly Built?**
+  - Homes in Forest Lawn were commonly built between the 1950s and 1980s, with a mix of older single-family homes and more recent developments. Many properties are in original condition, though there has been an increase in redevelopment with new infill projects.
+
+- **Common Building Type**
+  - Forest Lawn primarily features single-family detached homes, as well as duplexes, townhouses, and a growing number of apartment buildings. Many of the single-family homes are older bungalows, and there are also several multi-family properties available, reflecting the area’s growing density.
+
+- **Zoning Regulations**
+  - The community has a mix of R-C2 zoning (Residential – Contextual One / Two Dwelling District) that allows for duplexes and semi-detached homes, as well as areas zoned for multi-family developments. M-C1/M-C2 zones (Multi-Residential) in parts of Forest Lawn permit higher-density housing, allowing for townhouses and low-rise apartment buildings. This zoning creates opportunities for infill development and multi-family housing, making it appealing to real estate investors looking to increase the number of units on a single lot.
+
+- **Population and Growth**
+  - The population of Forest Lawn is approximately 8,700 people. The area has experienced slow but steady population growth, with many new residents attracted by the affordability and proximity to downtown Calgary. Forest Lawn is also home to a large immigrant population, contributing to its diverse and multicultural atmosphere.
+
+- **Average Income**
+  - The average household income in Forest Lawn is approximately $50,000, which is below the Calgary average. The area tends to attract working-class families, immigrants, and individuals looking for affordable housing.
+
+- **Crime Rate**
+  - Forest Lawn has a moderate to high crime rate compared to other Calgary communities. Property crimes, such as thefts and vandalism, are more common in this area, though the city and community associations have worked to improve safety and address these issues. Crime rates are declining as redevelopment continues and new residents move into the area.
+
+- **Rental Supply and Demand**
+  - Forest Lawn has a strong rental market, driven by its affordability and proximity to downtown. The area attracts a wide range of renters, including young professionals, families, and students. Rental properties are in demand, especially for multi-family homes and duplexes, which provide more affordable living options.
+
+- **Average Rents**
+  - One-bedroom apartment: $1,000–$1,300/month
+  - Two-bedroom apartment: $1,300–$1,600/month
+  - Three-bedroom house: $1,800–$2,300/month
+  - Rentals in Forest Lawn are generally more affordable than in many other parts of Calgary, making the area attractive for renters seeking lower-cost housing options.
+
+- **Neighborhood Classification (A, B, C, D)**
+  - Forest Lawn is typically classified as a C neighborhood. It is affordable and has a strong community feel, but it is still undergoing redevelopment and faces challenges with crime and aging infrastructure. The area is improving, and its potential for revitalization makes it attractive to investors.
+
+- **Long-Term Potential Appreciation vs. Current Returns and Cashflow**
+  - Appreciation: Forest Lawn offers moderate long-term appreciation potential. The ongoing redevelopment, infrastructure improvements, and growing diversity make it an area to watch for future growth. The location along International Avenue and the proximity to downtown Calgary contribute to its long-term appeal.
+  - Cashflow: Forest Lawn provides solid cash flow potential, especially for multi-family properties or properties with secondary suites. The affordability of the neighborhood combined with high rental demand ensures good rental returns for investors.
+
+- **Average House Prices**
+  - Detached homes: $300,000–$450,000, depending on the condition and location of the property.
+  - Townhouses/duplexes: $250,000–$400,000
+  - Condos/apartments: $150,000–$250,000
+  - Forest Lawn remains one of the more affordable communities in Calgary, making it accessible for first-time buyers and investors alike.
+
+- **Real Estate Investment Strategies**
+  - Buy-and-Hold: The area’s affordability and high rental demand make Forest Lawn a good candidate for buy-and-hold strategies. Investors can benefit from steady cash flow through rentals, while holding onto the property for long-term appreciation as the area continues to develop.
+  - Infill Development: With its R-C2 and multi-family zoning, Forest Lawn is ideal for investors looking to build infill properties such as duplexes or townhouses. Older single-family homes can be redeveloped into higher-density housing, increasing rental income potential.
+  - Fix-and-Flip: Forest Lawn’s older homes provide opportunities for investors to buy properties at lower prices, renovate them, and sell at a profit. The area is improving, and updated homes are likely to attract buyers looking for affordable but modernized housing.
+  - Multi-Family Rentals: Given the neighborhood’s zoning regulations, investing in multi-family properties such as small apartment buildings or row houses can provide strong cash flow and future appreciation.
+  - Affordable Housing Development: Due to the community’s income demographic, there is potential for developers and investors to focus on affordable housing initiatives, which could cater to the demand from lower-income residents and immigrants.
+
 # Mahogany, deep south
 
 - Known for its large man-made lake, Mahogany is a master-planned community that attracts families and offers high-quality amenities. It has numerous parks, schools, and access to Mahogany Village Market. The area is experiencing steady growth, but newer homes dominate the market, which may take time to appreciate fully.
