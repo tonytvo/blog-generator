@@ -553,6 +553,66 @@ tags: ["realestate"]
 - **Strategy:** Value-add or buy-and-hold
   - **Why:** Temple offers older homes that can benefit from renovations. A buy-and-hold strategy works well here for long-term appreciation, especially with steady rental demand from families.
 
+# Seton, SE, deep south
+
+- **Nearby Amenities and Attractions**
+  - Shopping and Dining: Seton is a growing urban district with plenty of amenities. It features the Seton Urban District, which includes Seton Shopping Centre, large retailers like Superstore and Walmart, and a variety of dining options.
+  - Health and Wellness: The South Health Campus hospital is a key feature of the community, offering comprehensive healthcare services and acting as a major employment hub.
+  - Recreation: The Brookfield Residential YMCA at Seton is the largest YMCA in the world and offers a wide range of fitness facilities, including a pool, fitness centre, and sports programs. The community is also close to Mahogany Lake and Fish Creek Provincial Park for outdoor activities.
+  - Education: Seton has schools planned for future development, with current educational options nearby in surrounding communities.
+
+- **When Were the Houses Commonly Built?**
+  - Seton is a newly developed community, with the majority of homes built from 2015 onwards. The area continues to grow, with new residential, commercial, and mixed-use developments underway.
+
+- **Common Building Type**
+  - Seton offers a variety of housing types, including:
+    - Single-family homes
+    - Townhouses
+    - Apartments and condominiums
+    - Mixed-use residential-commercial buildings
+    - Most homes are modern in design, with sustainable features reflecting the community's urban and eco-conscious planning.
+
+- **Zoning Regulations**
+  - Seton’s zoning includes mixed-use development, with residential, commercial, and retail spaces integrated. The community supports higher-density housing, including multi-family units such as apartments and townhouses. Zoning allows for multi-use buildings that combine residential and commercial spaces, catering to the urban lifestyle vision of the area.
+
+- **Population and Growth**
+  - Seton is rapidly growing, with a current population estimated at around 3,000–4,000. The community is expected to reach a population of 15,000 as it continues to develop over the next decade. The growth is driven by the influx of new businesses, hospitals, schools, and recreational facilities.
+
+- **Average Income**
+  - The average income in Seton is reflective of a middle-to-upper middle-class demographic, with an estimated average household income of $90,000 to $110,000. The area attracts professionals working at the South Health Campus and nearby commercial districts.
+
+- **Crime Rate**
+  - Seton is considered a low-crime area. As a newly developed and well-planned community, the infrastructure and community-focused planning contribute to its safety. However, as the area continues to grow, it is important to monitor changes in crime rates as population density increases.
+
+- **Rental Supply and Demand**
+  - Seton has strong rental demand, especially for apartments, townhouses, and mixed-use developments. The presence of the South Health Campus and commercial districts increases demand for rentals, particularly for healthcare workers and young professionals.
+
+- **Average Rents**
+  - One-bedroom apartment: $1,500–$1,700/month
+  - Two-bedroom apartment: $1,800–$2,200/month
+  - Three-bedroom townhouse: $2,200–$2,700/month
+  - Seton’s modern housing and proximity to essential services contribute to its relatively high rental prices.
+
+- **Neighborhood Classification (A, B, C, D)**
+  - Seton is classified as an A neighborhood due to its modern amenities, employment hubs, and urban design. It is considered a desirable area for young professionals, families, and those seeking a mixed-use, urban lifestyle.
+
+- **Long-Term Potential Appreciation vs. Current Returns and Cashflow**
+  - Appreciation: Seton has high long-term appreciation potential due to its rapid development, modern infrastructure, and growing commercial district. The combination of residential, commercial, and retail developments makes Seton one of Calgary’s up-and-coming communities.
+  - Cashflow: Rental yields in Seton are expected to be solid, but cash flow may be limited due to higher property prices for new builds. Investors looking for strong rental demand may find good returns from condos, townhouses, and apartments, especially given the community's appeal to professionals working nearby.
+
+- **Average House Prices**
+  - Detached homes: $500,000–$700,000
+  - Townhouses/duplexes: $350,000–$550,000
+  - Condos/apartments: $250,000–$400,000
+  - Seton is positioned as a mid-to-upper market community with modern housing prices reflecting its status as a new urban center.
+
+- **Real Estate Investment Strategies**
+  - Buy-and-Hold: Investors can purchase properties in Seton to take advantage of both rental demand and long-term appreciation. New construction homes and townhouses offer excellent growth potential as the community expands.
+  - Pre-construction Investment: Seton offers opportunities to invest in pre-construction developments, which can be resold at a profit as the community continues to grow and increase in desirability.
+  - Mixed-Use Development: Seton’s zoning allows for mixed-use buildings, making it ideal for investors interested in developing or purchasing properties that combine residential and commercial spaces.
+  - Rental Properties: Given the strong demand from professionals working at the South Health Campus and nearby businesses, rental properties such as apartments and townhouses can offer steady cash flow and tenant stability.
+  - Short-Term Rentals: Seton’s proximity to the South Health Campus and its modern urban design make it a viable location for short-term rentals (Airbnb, etc.), particularly for healthcare professionals or families visiting the area for extended stays.
+
 # Cochrane, Surrounding Towns
 
 - With stunning mountain views and an outdoor lifestyle, Cochrane is growing rapidly. Its proximity to Calgary and a strong sense of community make it appealing to families. Rental properties here are in demand, particularly from commuters working in Calgary.
