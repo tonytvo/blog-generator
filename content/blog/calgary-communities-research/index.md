@@ -506,10 +506,65 @@ tags: ["realestate"]
 
 # Varsity, northwest
 
-- Varsity is a well-established neighborhood known for its proximity to the University of Calgary. The rental market here is strong, with demand from students and university staff. Homes in Varsity are a mix of older bungalows and newer developments.
+- **Nearby Amenities and Attractions**
+  - Shopping and Dining: Varsity is conveniently located near Market Mall, one of Calgary’s largest shopping centers, offering a range of retail stores, restaurants, and services. It is also close to Crowfoot Crossing, another major shopping area, and Dalhousie Station for additional shops and services.
+  - Recreation: Varsity has several parks and green spaces, including Bowmont Park and Nose Hill Park nearby, offering outdoor recreational opportunities. Additionally, the Silver Springs Golf and Country Club is close by for golf enthusiasts.
+  - Health: Foothills Medical Centre and Alberta Children’s Hospital are just minutes away, making the community popular among healthcare professionals.
+  - Education: Varsity is home to University of Calgary, attracting students and faculty to the area. It also has various schools, such as Varsity Acres School and Marion Carson School, and is close to SAIT.
 
-- **Strategy:** Student housing or buy-and-hold
-  - **Why:** Varsity is close to the University of Calgary, making it ideal for student housing. Investors can buy properties and rent to students for stable, year-round income. A buy-and-hold strategy also works as the area appreciates steadily due to its desirable location.
+- **When Were the Houses Commonly Built?**
+  - Varsity was developed in the 1960s and 1970s, with most homes built during this period. The area features older homes, though some properties have been renovated or redeveloped over time.
+
+- **Common Building Type**
+
+  - Varsity offers a mix of:
+    - Single-family detached homes
+    - Townhouses
+    - Apartment buildings
+    - Duplexes
+    - The neighborhood is known for its large lot sizes and mid-century architecture, with many homes retaining their original character.
+    - older bungalow
+
+- **Zoning Regulations**
+  - Varsity has a mix of residential zoning, including R-C1 (Residential – Contextual One Dwelling District), which primarily permits single-family homes, and R-C2 (Residential – Contextual Two Dwelling District), allowing for semi-detached and duplex homes. There are also areas zoned for multi-family developments. These zoning regulations allow for potential infill developments and redevelopment projects, making it appealing for investors looking to add more units per lot.
+
+- **Population and Growth**
+  - Varsity has a population of approximately 12,500 residents, and the population has remained relatively stable over the years due to its established nature. However, there is a trend toward infill housing and redevelopment, leading to a slight increase in density in some parts of the neighborhood.
+
+- **Average Income**
+  - Varsity is an affluent neighborhood with an average household income of around $100,000–$120,000. This higher income level reflects the professional demographic, with many residents working in healthcare, education, and nearby business centers.
+
+- **Crime Rate**
+  - Varsity is considered a low-crime area. It is known for being a safe and family-friendly community, with lower-than-average crime rates compared to other Calgary neighborhoods.
+
+- **Rental Supply and Demand**
+  - Varsity has strong rental demand, particularly from students and faculty at the University of Calgary and professionals working at the nearby Foothills Medical Centre. The mix of apartment buildings, townhouses, and homes with secondary suites provides a range of rental options.
+
+- **Average Rents**
+  - One-bedroom apartment: $1,500–$1,700/month
+  - Two-bedroom apartment: $1,800–$2,200/month
+  - Three-bedroom house: $2,500–$3,200/month
+  - Due to Varsity's proximity to the university and hospitals, rental prices tend to be on the higher side, especially for houses with secondary suites.
+
+- **Neighborhood Classification (A, B, C, D)**
+  - Varsity is classified as an A neighborhood due to its desirable location, proximity to major amenities like the University of Calgary and Market Mall, and its safety and affluence.
+
+- **Long-Term Potential Appreciation vs. Current Returns and Cashflow**
+  - Appreciation: Varsity has strong long-term appreciation potential due to its established status and proximity to key amenities like the University of Calgary and Foothills Medical Centre. Homes in Varsity tend to hold their value well, making it a stable investment choice.
+  - Cashflow: The rental market in Varsity is robust, but cash flow might be limited due to the higher property prices. Investors may find better cash flow with multi-family properties or homes with secondary suites.
+
+- **Average House Prices**
+  - Detached homes: $600,000–$900,000
+  - Townhouses/duplexes: $400,000–$600,000
+  - Condos/apartments: $250,000–$450,000
+  - Prices in Varsity are on the higher end, reflecting its status as a sought-after community in Calgary.
+
+- **Real Estate Investment Strategies**
+  - Buy-and-Hold: Varsity is ideal for a buy-and-hold strategy due to its stable property values and strong demand from renters, particularly university students and healthcare workers. Investors can benefit from both rental income and long-term appreciation.
+  - Infill Development: With older homes and larger lots, Varsity presents opportunities for infill development. Investors can redevelop properties into duplexes or multi-family units to maximize rental income.
+  - Student Housing: Proximity to the University of Calgary makes Varsity a prime location for student housing investments. Investors could purchase or convert homes to offer rental suites or multi-tenant properties.
+  - Multi-Family Rentals: Varsity has a good supply of multi-family housing, such as apartment buildings and townhouses. These properties can provide steady rental income, particularly from students, young professionals, and healthcare workers.
+  - Renovation and Flipping: Older homes in Varsity offer opportunities for renovation and flipping. Investors can update mid-century homes to meet modern standards and sell them at a premium.
 
 # Beddington, north
 
