@@ -281,6 +281,8 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
 # how to find your 12 favorite problems
 
+- ![12 favorite problems](./12-favorite-problems.png)
+
 - Make a list of the areas of your life. These will serve as your backbone for your later thinking.
 - Use an outline or mind map as a creative technique. You can use any creative technique. Now it is only a matter of producing for the time being. Collect all problems and possible projects that seem interesting to you in some way. Sort everything into groups. Try to find patterns.
 - Throw out everything that does not inspire you.
@@ -308,8 +310,9 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
   - **How can I enjoy life while still building big and important things (how can solving problems and building companies not consume me?)**
   - **How do I get the right quality filters so that I focus on the right things but not miss out on serendipity/ new ideas?**
   - **what does it mean to be learning organization?**
+  - **how to find undervalued companies that have high competitive advantage and high margin of safety?**
+    - **what business industry that I would be interested in learning more about?**
   - **how do I balance between work, health, interests, family effectively?**
-  - 
 
 # How to choose a note-taking method
 
@@ -467,29 +470,65 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
   - While BASB’s “second brain” doesn’t move beyond the resource, the work with the Zettelkasten begins only after we have extracted the ideas and thoughts from the resource and put each of them on an atomic note while leaving behind the resource. This is one of the main differences between BASB and the ZKM. BASB is a system for resource management; ZKM is a method for working with ideas themselves.
 
-(2) Building a Second Brain is a project management system. The emphasis of the whole system on action effectiveness is particularly evident through the filing system PARA.(6) The four parts (Projects, Areas, Rresources, Archive) are aligned to a hierarchy of urgency. At the same time, a connection is made between urgency and importance because completed projects are “the blood flow of your Second Brain.”(7) Importance and urgency are the categories of projects and tasks. In a sense, the overall system speaks the “language of action”.
+- Building a Second Brain is a project management system. The emphasis of the whole system on action effectiveness is particularly evident through the filing system PARA.(6) The four parts (Projects, Areas, Rresources, Archive) are aligned to a hierarchy of urgency. At the same time, a connection is made between urgency and importance because completed projects are “the blood flow of your Second Brain.”(7) Importance and urgency are the categories of projects and tasks. In a sense, the overall system speaks the “language of action”.
 
-In contrast, the Zettelkasten Method speaks the “language of knowledge”. In the Zettelkasten, there is no such thing as importance or urgency. Each note merely contains ideas and their connections to other ideas. Their actionability is a second layer that we put onto them.
+- In contrast, the Zettelkasten Method speaks the “language of knowledge”. In the Zettelkasten, there is no such thing as importance or urgency. Each note merely contains ideas and their connections to other ideas. Their actionability is a second layer that we put onto them.
 
-In my experience, there are two main types of overload that can be related to the two components of the temperament characteristic of openness.
+- BASB is for people who want to manage their information streams and resources in a project-oriented way. But probably the most important target group is people who feel overwhelmed by uncertain tasks and modern information overload.
 
-Overload because of Openness to Experience. Formulated as a belief set, the trait Openness to experience would read: What is new is most likely good. Because we live in an age of information inflation,(8) we are inundated with newness. People with a high Openness to Experience live in an information land of milk and honey. But people in the Land of Cockaigne are not happy. They are overstuffed and overwhelmed. They don’t know what to do with themselves. And those who don’t know what to do feel anxiety.(9) You could compare people with a high Openness to Experience to people who have a particularly strong susceptibility to fast food and sweets. Both tend to engage in erratic behaviour, which in turn can lead to anxiety-generating lifestyles.
-Overload because of Intellect. Formulated as a belief set, the trait intellect would read: Something is interesting if it is a thing that can be studied. These people love to analyze and construct. These are the ones who get lost in analyzing and constructing a perfect system. They run the risk of doing more work on their system than using it for its intended purpose. They can become overwhelmed by a self-created information overload as they build an elaborate system of RSS feeds, web clippers, and other techniques of capturing information and information resources. But they also run the risk of conducting purposeless research, neglecting project- and deadline-oriented work.
-BASB can provide the solution for both types of overload:
+- In my experience, there are two main types of overload that can be related to the two components of the temperament characteristic of openness.
 
-It allows managing information and resources with little effort. This helps people who feel overwhelmed with the overabundance of information and resources.
-It is explicitly project-oriented. This helps people who lose sight of project-oriented work because they are so interested in the matter at hand.
-How does BASB work?
-Disclaimer: If you already are familiar with BASB you can skip by clicking this link.
+  - **Overload because of Openness to Experience.** Formulated as a belief set, the trait Openness to experience would read: What is new is most likely good. Because we live in an age of information inflation,(8) we are inundated with newness. People with a high Openness to Experience live in an information land of milk and honey. But people in the Land of Cockaigne are not happy. They are overstuffed and overwhelmed. They don’t know what to do with themselves. And those who don’t know what to do feel anxiety.(9) You could compare people with a high Openness to Experience to people who have a particularly strong susceptibility to fast food and sweets. Both tend to engage in erratic behaviour, which in turn can lead to anxiety-generating lifestyles.
 
-Like any management system, BASB consists of three components:
+  - **Overload because of Intellect.** Formulated as a belief set, the trait intellect would read: Something is interesting if it is a thing that can be studied. These people love to analyze and construct. These are the ones who get lost in analyzing and constructing a perfect system. They run the risk of doing more work on their system than using it for its intended purpose. They can become overwhelmed by a self-created information overload as they build an elaborate system of RSS feeds, web clippers, and other techniques of capturing information and information resources. But they also run the risk of conducting purposeless research, neglecting project- and deadline-oriented work.
 
-The System. How are the folders, files, inboxes, etc. arranged?
-The Workflow. How do the resources become the desired end result?
-The Habits. What are the regularly recurring actions needed to take to make the system work and be maintained?
-Let’s start with the system.
+- BASB can provide the solution for both types of overload:
 
-The system - PARA
+  - It allows managing information and resources with little effort. This helps people who feel overwhelmed with the overabundance of information and resources.
+  - It is explicitly project-oriented. This helps people who lose sight of project-oriented work because they are so interested in the matter at hand.
+
+- Like any management system, BASB consists of three components:
+  - The System. How are the folders, files, inboxes, etc. arranged?
+  - The Workflow. How do the resources become the desired end result?
+  - The Habits. What are the regularly recurring actions needed to take to make the system work and be maintained?
+
+- ![organize for insights](./organize-for-insights-info-graphics.webp)
+
+- ![mindsweep projects](./mindsweep-projects.webp)
+
+- ![setting up para system](./setting-up-para-system.webp)
+
+- ![planning projects](./planning-projects.webp)
+
+- ![digital cognition](./digital-cognition.webp)
+
+- ![notes attributes](./notes-attributes.webp)
+
+- ![progressive summarisation](./progressive-summarisation.webp)
+
+- ![notes layers](./notes-layers.webp)
+
+- ![personal information landscape](./personal-information-landscape.webp)
+
+- ![maximize return on attention](./maximize-return-on-attention.webp)
+
+- ![valuable return from flows](./valuable-returns-from-flow.webp)
+
+- ![placeholding](./place-holding.webp)
+
+- ![ways with wrestling with knowledge](./ways-wrestling-with-knowledge.webp)
+
+- ![just in time project management](./just-in-time-project-management.webp)
+
+- ![system in its place](./system-in-its-place.webp)
+
+- ![16 workflows strategies](./16-workflow-strategies.webp)
+
+- ![context switch](./context-switch.webp)
+
+
+
+# The system - PARA
 
 PARA is the storage system of BASB. The acronym stands for the four containers Projects, Areas, Resources and Archive.
 
@@ -521,7 +560,8 @@ Resources become actionable only in specific contexts.(25)
 Archived stuff is inactive until it is needed.(26) Therefore, it is hardly relevant to action.
 This four-folder system is kept simple for a reason: Complex systems usually require complex maintenance. PARA abandons this complexity. CODE, BASB’s workflow, is similarly kept simple.
 
-The workflow - CODE
+# The workflow - CODE
+
 The BASB workflow is divided into four steps:
 
 Capture includes everything you fill your inboxes with.
@@ -749,7 +789,6 @@ The more resources I assign to larger and therefore more difficult to implement 
 # References
 - https://reflect.app/blog/guide_to_note-taking_methods_and_strategies
 - https://www.reddit.com/r/PKMS/comments/nfef59/list_of_personal_knowledge_management_systems/
-- https://reflect.app/blog/guide_to_note-taking_methods_and_strategies
 - https://ericsandroni.com/book-summary-building-a-second-brain-by-tiago-forte/
 - https://maggieappleton.com/basb
 - https://fortelabs.com/blog/basboverview/
