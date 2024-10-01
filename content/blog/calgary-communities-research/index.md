@@ -566,12 +566,66 @@ tags: ["realestate"]
   - Multi-Family Rentals: Varsity has a good supply of multi-family housing, such as apartment buildings and townhouses. These properties can provide steady rental income, particularly from students, young professionals, and healthcare workers.
   - Renovation and Flipping: Older homes in Varsity offer opportunities for renovation and flipping. Investors can update mid-century homes to meet modern standards and sell them at a premium.
 
-# Beddington, north
+# Beddington Heights, north
 
-- Known for its affordability, Beddington is ideal for first-time buyers and investors. It offers good access to major roads and amenities, but the community’s housing stock is primarily older homes, which might need renovations.
 
 - **Strategy:** Buy-and-hold with renovation
   - **Why:** Beddington’s affordable housing stock makes it ideal for buy-and-hold investments. Investors can also renovate older homes to boost rental income or resale value.
+
+
+- **Nearby Amenities and Attractions**
+  - Beddington Heights is a well-established community with numerous amenities nearby, including:
+    - Shopping: Beddington Towne Centre and nearby Deerfoot City offer a variety of retail stores, grocery options, and restaurants.
+    - Recreation: The community has parks such as Beddington Park and is close to Nose Hill Park, one of Calgary's largest parks, ideal for hiking and outdoor activities.
+    - Schools: The community is served by Beddington Heights School (K-6), St. Bede Elementary School, and is close to Notre Dame High School.
+    - Transportation: The community has good public transit access, with several Calgary Transit bus routes serving the area, and it is well-connected to Deerfoot Trail and 14th Street for commuters.
+  - Known for its affordability, Beddington is ideal for first-time buyers and investors. It offers good access to major roads and amenities, but the community’s housing stock is primarily older homes, which might need renovations.
+
+- **When Were the Houses Commonly Built?**
+  - Most homes in Beddington Heights were built in the 1970s and 1980s, a period during which the area saw significant suburban development. The architecture reflects the styles of that era, with many homes retaining their original character, though some have been renovated.
+
+- **Common Building Type**
+  - Beddington Heights primarily features:
+    - Single-family detached homes
+    - Townhouses
+    - Semi-detached homes There are also a few low-rise apartment buildings in the community.
+
+- **Zoning Regulations**
+  - Beddington Heights is primarily zoned for low-density residential (R-C1 and R-C2 zoning), which supports single-family homes and semi-detached homes. There are opportunities for infill development and adding secondary suites, subject to city approvals. The zoning allows for limited multi-family developments but is mostly focused on maintaining the low-density suburban character.
+
+- **Population and Growth**
+  - The population of Beddington Heights is approximately 11,600 residents. The community is mature, and population growth is slow, with much of the housing stock established. However, there is potential for redevelopment and infill projects, which could slightly increase density in the coming years.
+
+- **Average Income**
+  - The average household income in Beddington Heights is estimated to be around $80,000 to $90,000, reflecting a mix of working-class and middle-class families.
+
+- **Crime Rate**
+  - Beddington Heights experiences a moderate crime rate relative to other communities in Calgary. While there are occasional incidents, the community is generally considered safe and family-friendly.
+
+- **Rentals Supply/Demand**
+  - The rental market in Beddington Heights is relatively stable. The demand for rental properties is driven by families and individuals seeking affordable housing. The community's proximity to major roads and amenities makes it appealing for renters, though it is not as competitive as areas closer to the downtown core.
+
+- **Average Rents**
+  - 3-bedroom house: Approximately $1,700 to $2,200/month
+  - Townhouses: Around $1,500 to $1,800/month
+  - Apartments: Typically $1,200 to $1,500/month for a 2-bedroom unit
+
+- **Neighborhood Classification (A, B, C, D)**
+  - Beddington Heights would be classified as a B neighborhood. It is a middle-income area with good amenities, decent access to transportation, and a safe environment. The housing is affordable, making it appealing for both renters and families.
+
+- **Long-term Potential Appreciation vs. Current Returns and Cashflow**
+  - Appreciation: Beddington Heights has moderate long-term appreciation potential due to its established nature. It may not see rapid growth compared to newer developments, but its affordability and location make it a stable choice for gradual appreciation.
+  - Cashflow: The rental market provides steady income, especially for townhomes and duplexes. Investors can expect decent cash flow, particularly if they focus on multi-family homes or properties with secondary suites.
+
+- **Average House Prices**
+  - As of 2024, the average home price in Beddington Heights is around $330,000 to $625,000, depending on the type and size of the property​
+  . Single-family homes range in the higher end, while townhouses and semi-detached homes are typically more affordable.
+
+- **Real Estate Investment Strategies**
+  - Buy-and-Hold: Given the affordability of homes and stable rental demand, Beddington Heights is suitable for buy-and-hold strategies. Investors can benefit from long-term appreciation and steady rental income.
+  - Infill Development: With larger lots and older homes, there may be opportunities for redevelopment or adding secondary suites to maximize rental potential.
+  - Fix-and-Flip: The older homes may offer opportunities for renovations and flipping, especially if purchased at lower prices and updated to modern standards.
+  - Rental Properties: Multi-family homes, such as duplexes or townhouses, are in demand for rental purposes. Properties with legal secondary suites or the potential for suite development could also yield good returns.
 
 # Huntington Hills, north
 
