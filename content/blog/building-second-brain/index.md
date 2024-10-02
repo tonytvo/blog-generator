@@ -496,8 +496,6 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
 - ![mindsweep projects](./mindsweep-projects.webp)
 
-- ![setting up para system](./setting-up-para-system.webp)
-
 - ![planning projects](./planning-projects.webp)
 
 - ![digital cognition](./digital-cognition.webp)
@@ -530,35 +528,34 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
 # The system - PARA
 
-PARA is the storage system of BASB. The acronym stands for the four containers Projects, Areas, Resources and Archive.
+- ![setting up para system](./setting-up-para-system.webp)
 
-In most programs, you’d create a folder for each container. However, in some programs there are no folders. Therefore, I usually speak of “containers”. However, I understand PARA as a manifestation of a general principle of self-organization: the iceberg principle of self-organization. I will describe this in more detail towards the end.
+- PARA is the storage system of BASB. The acronym stands for the four containers **Projects, Areas, Resources and Archive.**
 
-Projects are short-term efforts in work and personal life. They are what you are currently working on.(10) They have characteristics conducive to work:
+- In most programs, you’d create a folder for each container. However, in some programs there are no folders. Therefore, I usually speak of “containers”. However, I understand PARA as a manifestation of a general principle of self-organization: the iceberg principle of self-organization. I will describe this in more detail towards the end.
 
-A beginning and an end (unlike a hobby or an area of responsibility).(11)
-A concrete result to be achieved and consist of concrete steps that are necessary and together sufficient to achieve that goal.(12) Example: Achieve 100 kilos in the bench press.
-Areas (of Responsibility) are concerned with anything that you want to keep in mind for the long term. They differ from projects in that you do not pursue a goal with them, but want to maintain a standard. Accordingly, they are not limited in time. One could say that they represent an aspiration on ourselves and our living world.(13)
-Example: Health and Fitness.
+- **Projects** are short-term efforts in work and personal life. They are what you are currently working on. They have characteristics conducive to work:
 
-Resources are topics that might become relevant or useful at best in the long run.(14) They are a catch-all container for everything that is neither a project nor a responsibility. Resources are:(15)
-topics that are interesting,(16)
-subjects to be researched,(17)
-useful information for later use,(18)
-hobbies.(19) (Note: I consider hobbies to be an area of responsibility because hobbies also have standards).
-Example: A workout plan to try at some point.
+- A beginning and an end (unlike a hobby or an area of responsibility).
+- A concrete result to be achieved and consist of concrete steps that are necessary and together sufficient to achieve that goal. Example: Achieve 100 kilos in the bench press.
 
-The Archive is for everything inactive from the above three categories.(20) It is a storage for things finished and postponed.(21)
-Example: An old training plan.
+- **Areas (of Responsibility)** are concerned with anything that you want to keep in mind for the long term. They differ from projects in that you do not pursue a goal with them, but want to maintain a standard. Accordingly, they are not limited in time. One could say that they represent an aspiration on ourselves and our living world. Example: Health and Fitness.
 
+- **Resources** are topics that might become relevant or useful at best in the long run.(14) They are a catch-all container for everything that is neither a project nor a responsibility. Resources are:
+  - topics that are interesting,
+  - subjects to be researched,
+  - useful information for later use,
+  - hobbies. (Note: I consider hobbies to be an area of responsibility because hobbies also have standards). Example: A workout plan to try at some point.
 
-Tying it all together: Areas of Responsibility and their projects and tasks, applied to two example areas.
-The four containers are sorted by action relevance:(22)
-Projects are most relevant to action because you are currently working on them and have a deadline.(23) The fact that you have to have a deadline is not the deciding factor, only that you are actively working on them. My personal criterion for this is that I sit down at least once a week to work on the project.
-Areas of responsibility have a longer time horizon and are therefore not immediately relevant for action.(24)
-Resources become actionable only in specific contexts.(25)
-Archived stuff is inactive until it is needed.(26) Therefore, it is hardly relevant to action.
-This four-folder system is kept simple for a reason: Complex systems usually require complex maintenance. PARA abandons this complexity. CODE, BASB’s workflow, is similarly kept simple.
+- The Archive is for everything inactive from the above three categories. It is a storage for things finished and postponed. Example: An old training plan.
+
+- The four containers are sorted by action relevance:
+  - Projects are most relevant to action because you are currently working on them and have a deadline. The fact that you have to have a deadline is not the deciding factor, only that you are actively working on them. My personal criterion for this is that I sit down at least once a week to work on the project.
+  - Areas of responsibility have a longer time horizon and are therefore not immediately relevant for action.
+  - Resources become actionable only in specific contexts.(25)
+  - Archived stuff is inactive until it is needed.(26) Therefore, it is hardly relevant to action.
+
+- This four-folder system is kept simple for a reason: Complex systems usually require complex maintenance. PARA abandons this complexity. CODE, BASB’s workflow, is similarly kept simple.
 
 # The workflow - CODE
 
