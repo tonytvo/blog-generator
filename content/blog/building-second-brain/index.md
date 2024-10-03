@@ -304,15 +304,17 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
   - -How do we leverage AI to troubleshoot and solve customer problems?-
   - -How do we pre-empt customer problems before they happen?-
   - **what's the most effective way to learn and share agile technical practices?**
-  - **how do I learn, develop, and maintain system effectively with teams**
+  - **how do I learn, develop, and maintain system effectively with teams?**
   - How do identify the most important books on every topic and organize them in a way that provides a clear learning path to all learners?
   - **how to generate wealth effectively through investing, full-time employee, real estate, business, etc...?**
   - **How can I enjoy life while still building big and important things (how can solving problems and building companies not consume me?)**
-  - **How do I get the right quality filters so that I focus on the right things but not miss out on serendipity/ new ideas?**
+  - **How do I get the right quality filters so that I focus on the right things but not miss out on serendipity/new ideas?**
   - **what does it mean to be learning organization?**
   - **how to find undervalued companies that have high competitive advantage and high margin of safety?**
-    - **what business industry that I would be interested in learning more about?**
+    - **what business/industry that I would be interested in learning more about?**
   - **how do I balance between work, health, interests, family effectively?**
+  - **how do I manage my emotions effectively and intelligently?**
+  - **how do I manage/organize my knowledge effectively?**
 
 # How to choose a note-taking method
 
