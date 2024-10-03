@@ -179,35 +179,78 @@ Make the calls you're afraid to make. Sometimes, we have to do things we don't w
 
 - **I succeed when others approve of me.** Regardless of what people think of you at any particular moment, one thing is certain you're never as good or bad as they say you are. It's impossible to turn off your reactions to what others think of you, but you can take people's opinions with a grain of salt. That way, no matter what people think about you, your self-worth comes only from within.
 
+## Practice Mindfulness
 
-### Quit Treating Your Feelings as Good or Bad
-- pay attention when you feel an emotion begin to build.
-- try to understand the emotions and avoid labelling them good or bad.
+- ![self regulate using neuro-psychology](./self-regulate-using-neuropsychology.png)
 
-### Observe The Ripple Effect
-- pay attention to how your emotions affect others.
-- ask others their view of how your emotions affect them.
+- Mindfulness is a simple yet effective form of meditation that enables you to gain control of unruly thoughts and behaviors. People who practice mindfulness are more focused, even when they are not meditating. Mindfulness is an excellent technique for reducing stress because it allows you to stop feeling out of control, to stop jumping from one thought to the next, and to stop ruminating on negative thoughts. Overall, it's a great way to make it through your busy day calmly and productively. Mindfulness is an increasingly popular notion in the workplace, with companies such as Apple, Yahoo, Starbucks, and Google using it to their benefit. Google, for example, offers employees a 19-hour course on the subject, which is so popular that thousands of Googlers take it each year.
 
-### Lean into Your Discomfort
-- ignoring feelings doesn't make them go away. They will resurface. Face them when they come and try to work through them.
+- Ellen Langer, a Harvard University psychologist who studies mindfulness, described it this way: "Mindfulness is the process of actively noticing new things. When you do that, it puts you in the present. It makes you more sensitive to context and perspective. It's the essence of engagement. And it's energy-begetting, not energy-consuming. The mistake most people make is to assume it's stressful and exhausting all this thinking. But what's stressful is all the mindless negative evaluations we make and the worry that we'll find problems and not be able to solve them."
 
-### Physically Feel Your Emotions
-- pay attention to how an emotion physically affects you (increased heart rate, dry mouth, tightening in stomach, neck, back; fast, shallow breathing).
-- for practice, close your eyes and remember a high-emotion incident. Notice what physical symptoms you get simply thinking about it.
+- Mindfulness improves your ability to focus. Mindfulness improves your ability to focus on one thing at a time. This focus carries over into everything you do. Mindfulness teaches you to avoid distractions and to bring a heightened level of concentration to your work. While you may have fallen prey to multitasking in the past, mindfulness will help you kick this nasty, productivity-killing habit. A focused mind is a productive mind.
 
-### Know What/Who Pushes Your Hot Buttons
-- Pay attention to the situations or people that trigger your emotions. Think about why you might find those situations or people irksome.
+- Mindfulness boosts your creativity. Creativity hinges on your mental state. Mindfulness helps you get into a creative frame of mind by defeating the negative thoughts that stifle creative thinking and self-expression. The fact that mindfulness focuses on "the now" helps you think freely and creatively.
 
-### Watch Yourself like a Hawk
-- Think about how your emotional reaction may make things worse.
-- Try to see things from the other's perspective.
-- Formulate a calmer way to express your emotions and effectively convey your points.
+#### HOW TO PRACTICE MINDFULNESS
+
+Practicing mindfulness increases the density of your brain matter where it counts. It's perhaps the only technique that can change your brain in this way, which produces a ripple of other positive effects. Thankfully, you can reap the benefits of mindfulness in as little as a few minutes a day.
+
+- **Focus on your breathing.** Sit in a comfortable chair with your feet flat on the floor, and spend a few minutes doing nothing but breathing slowly in and out. Focus all your attention on your breath. Feel the air travel into your mouth, down your windpipe, and into your lungs. Then, feel your body shift as it pushes the air out of your lungs. When thoughts surface that distract you from your breathing, don't worry. Just let them pass, and shift your attention back to your breathing. After some practice, you should be able to spend several minutes doing nothing but immersing yourself in the act of breathing at the expense of all other thoughts. 
+
+- **Go for a walk.** You can also meditate just by going for a walk. All you have to do is focus on each step. Feel your legs move, and your feet hit the ground. Focus solely on the act of walking and the sensations of your surroundings (the cool breeze, the hot sun, or the dog barking in the distance). When you feel other thoughts creeping into your mind, focus even harder on the sensation of walking. Focusing on something that's second nature is refreshing because it alters your frame of mind as you turn off the never-ending stream of thoughts that normally dominates your attention. You can do the same thing when you brush your teeth, comb your hair, or eat a meal.
+
+- **Feel your body.** You don't even have to stop doing what you're doing to practice mindfulness. All you have to do is focus all your attention on what you're doing without thinking about why you're doing it, what you should do next, or what you should be doing. Whether it's the gentle stroke of your fingers on the keyboard or your posture in your chair, you can direct your attention from your thoughts to your bodily sensations at the spur of the moment.
+
+- **Try a body scan.** If you're having trouble feeling your body, try lying on your back on the floor with your legs extended, arms out, and palms facing toward the ceiling. As you lay there, focus your attention on each part of your body, moving slowly from head to toe. As you focus on each part of your body, feel the weight of it against the floor. Feel the varying temperature and sensations that are unique to each part of your body. This process of focusing solely on your body will quiet your mind and keep you fully immersed in the moment. 
+
+- **Repeat one positive thing about yourself, over and over.** One of the main goals of mindfulness is to stop the stream of thoughts that cycle through your mind over and over again each day. Funnily enough, a great way to do this is to choose a short, positive message about yourself and repeat it over and over with each breath to keep your mind on track. A great phrase of choice is "I am capable." The simplicity keeps you grounded in the exercise and keeps other thoughts from taking over. The right phrase also builds a little confidence, which never hurts.
+
+- **Interrupt the stress cycle.** Any moment when you feel stressed, overwhelmed, or stuck on something is the perfect moment to
+practice mindfulness. Just stop what you're doing, let your thoughts go for a moment, and practice your favorite mindfulness technique (breathing, walking, or focusing on body sensations). Even a few minutes of this can make a huge difference in quieting your mind and reducing stress. You'll be surprised at how reasonable things look once you've taken a few moments to clear your head.
+
+- **Lean into Your Discomfort**
+  - ignoring feelings doesn't make them go away. They will resurface. Face them when they come and try to work through them.
+
+- **Physically Feel Your Emotions**
+  - pay attention to how an emotion physically affects you (increased heart rate, dry mouth, tightening in stomach, neck, back; fast, shallow breathing).
+  - for practice, close your eyes and remember a high-emotion incident. Notice what physical symptoms you get simply thinking about it.
+
+- **Know What/Who Pushes Your Hot Buttons**
+  - Pay attention to the situations or people that trigger your emotions. Think about why you might find those situations or people irksome.
+
+- **Watch Yourself like a Hawk**
+  - Think about how your emotional reaction may make things worse.
+  - Try to see things from the other's perspective.
+  - Formulate a calmer way to express your emotions and effectively convey your points.
+
+- **Observe The Ripple Effect**
+  - pay attention to how your emotions affect others.
+  - ask others their view of how your emotions affect them.
+
+- **Don't Be Fooled by a Bad Mood**
+  - When you're stuck in a down mood, it's not a good time to make important decisions. Briefly reflect on recent events that may have brought on the mood.
+
+- **Quit Treating Your Feelings as Good or Bad**
+  - pay attention when you feel an emotion begin to build.
+  - try to understand the emotions and avoid labelling them good or bad.
+
+- **Check Yourself**
+  - Notice your mood and how it influences your demeanour
+
+- **Spot Your Emotions in Books, Movies, And Music**
+  - finding your emotions in the expressions of artists allows you to learn about yourself and discover feelings that are often hard to communicate.
+
+- **Get to Know Yourself Under Stress**
+  - People vary in how they react to stress. Which physical symptoms are common for you?
+    - An upset stomach
+    - A pounding headache
+    - Canker sores
+    - Back spasms
+  - When you recognize that you are under stress, take some time to recharge your emotional battery.
+
 
 ### Keep an Emotional Journal
 - By keeping a journal of your emotions and what events triggered them, you can become more aware of patterns.
-
-### Don't Be Fooled by a Bad Mood
-- When you're stuck in a down mood, it's not a good time to make important decisions. Briefly reflect on recent events that may have brought on the mood.
 
 ### Ask Yourself Why You Do What You Do
 - What is your earliest memory of reacting like this? Are the people or circumstances similar in some way? 
@@ -216,26 +259,11 @@ Make the calls you're afraid to make. Sometimes, we have to do things we don't w
 - Remind yourself of your values and how well you are currently living up to them.
   - What are your core values and things that you have said or done recently that violate them.
 
-### Check Yourself
-- Notice your mood and how it influences your demeanour
-
-### Spot Your Emotions in Books, Movies, And Music
-- finding your emotions in the expressions of artists allows you to learn about yourself and discover feelings that are often hard to communicate.
-
 ### Seek Feedback
 - Often, there is a big difference between how you see yourself and how others see you. When you ask for feedback, seek specific examples and look for similarities in what people tell you.
 
-### Get to Know Yourself Under Stress
-- People vary in how they react to stress. Which physical symptoms are common for you?
-  - An upset stomach
-  - A pounding headache
-  - Canker sores
-  - Back spasms
-- When you recognize that you are under stress, take some time to recharge your emotional battery.
-
 ## Self Management Strategies
 - the ability to use your awareness of your emotions to stay flexible and direct your behavior positively
-- ![self regulate using neuro-psychology](./self-regulate-using-neuropsychology.png)
 
 ### beat stress and stay calm
 
