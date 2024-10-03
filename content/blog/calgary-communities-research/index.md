@@ -569,10 +569,6 @@ tags: ["realestate"]
 # Beddington Heights, north
 
 
-- **Strategy:** Buy-and-hold with renovation
-  - **Why:** Beddington’s affordable housing stock makes it ideal for buy-and-hold investments. Investors can also renovate older homes to boost rental income or resale value.
-
-
 - **Nearby Amenities and Attractions**
   - Beddington Heights is a well-established community with numerous amenities nearby, including:
     - Shopping: Beddington Towne Centre and nearby Deerfoot City offer a variety of retail stores, grocery options, and restaurants.
@@ -629,10 +625,58 @@ tags: ["realestate"]
 
 # Huntington Hills, north
 
-- A large and diverse community, Huntington Hills offers a mix of detached homes, townhouses, and apartments. Rental demand is strong due to its accessibility and proximity to both Deerfoot Trail and major shopping centers.
+- **Nearby Amenities and Attractions:**
+  - Huntington Hills is well-equipped with numerous amenities, including:
 
-- **Strategy:** Long-term rental or house hacking
-  - **Why:** Huntington Hills has a large number of rental properties, making it ideal for investors seeking stable long-term rentals. House hacking (e.g., renting out a basement suite) can also help homeowners offset their mortgage costs.
+- Recreational facilities: Huntington Hills Community Centre offers sports, fitness programs, and social activities. It also has skating rinks and a gym.
+  - Parks: Close to Nose Hill Park, one of Calgary's largest parks, and features smaller parks and playgrounds within the community.
+  - Shopping: Beddington Towne Centre and Deerfoot City are nearby, providing retail stores, grocery options, and dining.
+  - Schools: Huntington Hills is home to several schools, including Catherine Nichols Gunn School, Alex Munro School, and St. Hubert School.
+  - Housing Construction:
+  - Huntington Hills was primarily developed during the 1960s and 1970s, with the majority of the housing stock reflecting mid-century architecture and larger lot sizes.
+
+- **Common Building Types:**
+  - The community predominantly consists of:
+    - Single-family detached homes
+    - Semi-detached homes
+    - Townhouses A mix of bungalows and two-story homes is common, as well as some multi-family apartment buildings and condominiums.
+
+- **Zoning Regulations:**
+  - Zoning in Huntington Hills is primarily low-density residential (R-C1 and R-C2), which supports single-family homes, duplexes, and potential secondary suites. Some areas of the community may allow for higher-density residential developments like townhomes or small apartment buildings, subject to city zoning bylaws and approvals.
+
+- **Population and Growth:**
+  - The population of Huntington Hills is around 13,000 residents. As a mature community, its population growth is relatively stable, with slight changes due to redevelopment and the movement of families.
+
+- **Average Income:**
+  - The median household income in Huntington Hills is approximately $70,000 to $75,000, slightly below Calgary’s overall median income, reflecting the middle-income demographic of the area.
+
+- **Crime Rate:**
+  - Huntington Hills has a moderate crime rate, with most incidents being property-related. The area is considered relatively safe, though it experiences some of the challenges common to older urban communities.
+
+- **Rental Supply and Demand:**
+  - The rental market in Huntington Hills is healthy, driven by demand from families, young professionals, and students. The availability of single-family homes and secondary suites makes it appealing for renters.
+
+- **Average Rents:**
+  - Single-family homes: $1,800 to $2,200 per month
+  - Townhouses: $1,400 to $1,600 per month
+  - Apartments and basement suites: $1,000 to $1,400 per month
+
+- **Neighborhood Classification (A, B, C, D):**
+  - Huntington Hills is generally classified as a B or C+ neighborhood. It offers affordability, proximity to amenities, and is family-friendly, but it lacks the premium features of more upscale neighborhoods.
+
+- **Long-Term Potential Appreciation vs. Cashflow:**
+  - Appreciation: Huntington Hills is a mature community with moderate long-term appreciation potential. While growth may be slower than in new developments, the affordability and location contribute to steady value increases over time.
+  - Cashflow: The area offers good cash flow opportunities for rental properties, especially if secondary suites are added or properties are converted for multiple tenants.
+
+- **Average House Prices:**
+  - As of 2024, the average house price in Huntington Hills ranges from $350,000 to $550,000, depending on the type of property and its condition.
+
+- **Real Estate Investment Strategies:**
+  - Buy-and-Hold: Due to its affordability and steady rental demand, Huntington Hills is suitable for long-term buy-and-hold strategies, offering decent cash flow.
+  - Secondary Suite Development: With larger lots and zoning that supports secondary suites, adding or legalizing basement suites can significantly increase rental income.
+  - Fix-and-Flip: There are opportunities to purchase older homes, renovate them, and sell at a higher value, particularly as some properties may be outdated.
+  - Multi-family Rentals: Townhouses and duplexes in Huntington Hills are in demand for rentals, offering stable income streams.
+  - House hacking (e.g., renting out a basement suite) can also help homeowners offset their mortgage costs.
 
 # Whitehorn, northeast
 
