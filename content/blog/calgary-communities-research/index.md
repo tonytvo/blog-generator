@@ -483,6 +483,50 @@ tags: ["realestate"]
 - **Strategy:** Buy-and-hold or townhouse rentals
   - **Why:** Strathcona Park is popular for families due to its larger homes and proximity to schools. A buy-and-hold strategy works well here, while investors can also focus on townhouse rentals, which are highly sought after by young families and professionals.
 
+- **Nearby Amenities and Attractions**
+  - Recreational: Strathcona Park offers several nearby parks such as Edworthy Park and the extensive Bow River Pathway system, perfect for walking, biking, and outdoor activities. Westside Recreation Centre provides a wide range of fitness, aquatics, and sports programs.
+  - Shopping: Residents have access to major retail hubs like Signal Hill Centre and Westhills Towne Centre, which offer grocery stores, restaurants, and various retail outlets.
+  - Transportation: Strathcona Park is well-connected by major roads such as Bow Trail and Sarcee Trail, offering quick access to downtown Calgary. Public transport options include several bus routes.
+
+- **House Construction Period**
+  - Most houses in Strathcona Park were built in the 1980s and 1990s, although the community also has newer developments from the 2000s.
+
+- **Common Building Types**
+  - The community features primarily single-family detached homes, many of which are larger, estate-style properties. There are also some townhomes and duplexes, offering a mix of housing options for different buyers.
+
+- Zoning Regulations
+  - The area is primarily zoned for low-density residential (R-1) development, which means the majority of properties are single-family homes. However, some areas may be zoned for multi-unit developments, particularly townhomes or duplexes. Redevelopment or infill housing may be possible depending on specific zoning bylaws and lot sizes​
+
+- **Population and Growth**
+  - Strathcona Park has a stable population with a moderate growth rate, appealing to families and professionals. According to the 2021 Census, it had a population of approximately 7,200​
+  - Population growth is steady, driven by the community's desirability and amenities.
+
+- **Average Income**
+  - The average household income in Strathcona Park, Calgary, is estimated to be higher than the city average, reflecting the neighborhood’s affluent character. According to available data, median household incomes in this area generally range between $120,000 and $140,000 per year. This positions Strathcona Park as a relatively wealthy community, catering to professionals and families with higher-than-average earnings​
+
+- **Crime Rate**
+Strathcona Park has a relatively low crime rate compared to other Calgary communities, making it a desirable and safe neighborhood for families. Most incidents reported are minor in nature.
+
+- **Rental Supply/Demand**
+  - The demand for rental properties in Strathcona Park is moderate, particularly for larger family homes and townhouses. The area attracts professionals and families, leading to steady rental demand.
+
+- **Average Rents**
+  - Single-family homes typically rent for $2,500 to $3,500 per month, depending on size and condition. Townhouses and smaller units are in the $1,800 to $2,200 range.
+
+- **Neighborhood Rating (A, B, C, D)**
+  - Strathcona Park is considered an "A" neighborhood due to its affluence, safety, and high desirability. It offers great amenities, making it a sought-after area for homebuyers and renters alike.
+
+- **Long-Term Potential for Appreciation**
+  - The neighborhood has strong long-term appreciation potential. Strathcona Park is a well-established community, and property values have consistently risen due to its proximity to downtown, parks, schools, and recreational facilities. The upscale nature of the area supports stable property values, although appreciation may be slower compared to gentrifying areas​
+
+- **Average House Prices**
+  - The average house price in Strathcona Park is around $945,000, with some larger homes or more modern builds exceeding this price point. Townhouses and smaller homes range between $600,000 and $750,000​
+
+- **Real Estate Investment Strategies**
+  - Buy and Hold: This is a suitable strategy in Strathcona Park, given the area’s stable property values and steady rental demand. Investors can expect long-term capital appreciation while earning consistent rental income.
+  - Upscale Rentals: The community attracts affluent tenants, allowing investors to rent out larger homes to professionals or families for a premium.
+  - Infill Development: For developers, there could be opportunities to purchase older homes on larger lots and redevelop them into new, modern housing.
+
 # Tuscany, northwest
 
 - A family-focused community, Tuscany offers detached homes, townhouses, and easy access to Tuscany LRT. Its schools and parks make it desirable for families, leading to steady demand for rentals and homeownership.
