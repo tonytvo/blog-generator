@@ -1140,19 +1140,11 @@ on.
 ### Greet People by Name
 - "a person's name is the most important word in any language to them. Use it often and respect it"
 
-### Watch Body Language
-- Does the person make good eye contact? 
-- Does their smile appear sincere?
-- Do they appear relaxed or tense and fidgety?
-
 ### Make Timing Everything
 - Avoid asking a person for something when you can tell they are angry or under a lot of stress
 
 ### Develop a Back-pocket Question
 - Have a question to ask in case a conversation lags. Avoid questions about sensitive topics.
-
-### Don't Take Notes at All Meetings
-- In a meeting where people interact, avoid taking extensive notes. Instead, focus on watching people's body language.
 
 ### Plan Ahead for Social Gatherings
 - On an index card, list who will be at the event along with any talking points you want to use. Also list anything you agreed to bring so you don't forget.
@@ -1169,17 +1161,6 @@ on.
 - Watch some movies with the objective of watching the character interactions and conflicts
 - Notice how the characters handle the conflict.
 - Challenge yourself to pick up on clues that conflict may be building.
-
-### Go People Watching
-- Find a public place to watch how people interact with one another. Notice body language.
-
-### Understand the Rules of Culture
-- When interacting with those of a different culture, observe their body language and manner of speaking.
-- If you aren't sure what behavior would be acceptable, ask questions.
-
-### Test for Accuracy
-- To confirm your interpretation of body language, use a reflective question. Example:
-  - "It looks like you are feeling down about something. Did something happen?"
 
 ### Step into Their Shoes
 - Ask yourself, "If I were this person, how would I [feel, react, respond]?"
@@ -1231,6 +1212,87 @@ on.
   - Many times, calling out a lie is the right thing to do, both ethically and practically. Sometimes, not reporting a lie can cost you your job. However, you need to think about a few things before you take that step. First, question your motives. Are you thinking about telling someone about the lie out of concern that they or someone else could be harmed, or are you just mad? If it's the latter, you run the risk of making yourself look petty. If it's the former, stick to the facts. Don't offer any hypotheses about why the person may be lying, because that's just supposition on your part. Stick to what the person said, what the truth is, and any proof you've collected.
 
 - **Not optional: Protect yourself.** Whether you decide to call out a lie or to let it go, once you know you're dealing with a liar, take steps to protect yourself, especially at work. One way to do this is to have a witness attest to what the liar said. Failing this, interact with the liar via email or text, both of which create a written record. However, if you're dealing with a particularly savvy liar, they're not going to commit to anything in writing. In that case, document the conversation yourself: who, what, when, where, etc. Cap it off by sending your lying colleague an email summarizing the conversation. That's not as good as having proof in the other person's words, but at least you'll be able to make the argument that your colleague had the opportunity to correct you.
+
+
+### Read Body Language Like a Pro
+
+- **Positive body language changes your attitude.** Cuddy found that consciously adjusting your body language to make it more positive creates a feedback loop that improves your attitude. When you choose to alter your body language, you choose to improve your attitude.
+
+- **It increases testosterone.** When you think of testosterone, it's easy to focus on sports and competition, but testosterone is much more important than its effect in athletics. Whether you're a man or a woman, testosterone improves your confidence and causes other people to see you as more trustworthy and positive. Researchers have shown that positive body language actually increases your testosterone levels.
+
+- **It decreases cortisol.** Cortisol is a stress hormone that impedes performance and creates negative long-term health effects. Decreasing cortisol levels minimizes stress and enables you to think more clearly, particularly in difficult and challenging situations. Researchers have found that positive body language decreases cortisol levels by 25%.
+
+- **It creates a powerful combination.** Although a decrease in cortisol or an increase in testosterone is great on its own, the two together are a powerful combination that is typically seen among people in positions of power. This combination creates the confidence and clarity of mind that are ideal for dealing with tight deadlines, tough decisions, and massive volumes of work. People who are naturally high in testosterone and low in cortisol are known to thrive under pressure. Of course, you can use positive body language to make this happen for you.
+
+- **It makes you more likeable.** In a Tufts University study, participants watched soundless clips of physicians interacting with their patients. Just by observing the physicians' body language, the study participants were able to guess which physicians ended up being sued by their patients. Body language is a huge factor in how you're perceived and can be more important than your tone of voice or even what you say. Using positive body language will make people like you and trust you more.
+
+- **It conveys competence.** In a study conducted at Princeton, researchers found that a one-second clip of candidates for senator or governor was enough for people to accurately predict which candidate was elected. This may not increase your faith in the voting process, but it shows that the perception of competence has a strong foundation in body language.
+It's a powerful tool in negotiation (even virtually). There's no question that body language plays a huge role in your ability to persuade others to your way of thinking. Researchers studying the phenomenon in virtual communication have found that body language in video conferencing plays an important role in negotiation outcomes.
+
+#### BODY LANGUAGE CUES INCREASE YOUR EMOTIONAL INTELLIGENCE
+
+- **Crossed arms and legs signal resistance to your ideas.** Crossed arms and legs are physical barriers that suggest the other person is not open to what you're saying. Even if they're smiling and engaged in a pleasant conversation, their body language tells the story. Gerard I. Nierenberg and Henry H. Calero videotaped more than 2,000 negotiations for a book they wrote on reading body language. Not one ended in an agreement when one of the parties had their legs crossed while negotiating. Psychologically, crossed legs or arms signal that a person is mentally, emotionally, and physically blocked off from what's in front of them. It's not intentional, which is why it's so revealing.
+
+- **Real smiles crinkle the eyes.** When it comes to smiling, the mouth can lie, but the eyes can't. Genuine smiles reach the eyes, crinkling the skin to create crow's feet around them. People often smile to hide what they're really thinking and feeling, so the next time you want to know if someone's smile is genuine, look for crinkles at the corners of their eyes. If they aren't there, that smile is hiding something.
+
+- **Copying your body language is a good thing.** Have you ever been in a meeting with someone and noticed that every time you cross or uncross your legs, they do the same? Or perhaps they lean their head the same way as yours when you're talking? That's actually a good sign. Mirroring body language is something we do unconsciously when we feel a bond with the other person. It's a sign that the conversation is going well and that the other party is receptive to your message. This knowledge can be especially useful when you're negotiating something because it shows you what the other person is really thinking.
+
+- **Posture tells the story.** Have you ever seen a person walk into a room, and immediately, you knew they were in charge? That effect is largely about body language, and often includes an erect posture, gestures made with the palms facing down, and open and expansive gestures in general. The brain is hardwired to equate power with the amount of space that people take up. Standing up straight with your shoulders back is a power position; it appears to maximize the amount of space you fill. Slouching, on the other hand, is the result of collapsing your form; you appear to take up less space and project less power. Slouching can also be seen as a sign of disrespect. It communicates that you're bored and have no desire to be where you are. You would usually never tell someone, "I don't understand why I have to listen to you," but if you slouch, you don't have to. Your body says it for you, loud and clear. Maintaining good posture commands respect and promotes engagement, whether you're a leader or not.
+
+- **Eyes that lie.** Most of us probably grew up hearing, "Look me in the eye when you talk to me!" Our parents were operating under the assumption that it's tough to hold someone's gaze when you're lying to them, and they were right to an extent. However, it's such common knowledge that people often deliberately hold eye contact in an attempt to cover up that they're lying. The problem is that most overcompensate and hold eye contact to the point that it feels uncomfortable. On average, Americans hold eye contact for seven to 10 seconds, longer when we're listening than when we're talking. If you're talking with someone whose stare is making you squirm (especially if they're very still and unblinking), something is up, and they might be lying to you. See the chapter, Know When You're Being Lied To, for more tips on detecting when someone is lying to you.
+
+- **Raised eyebrows signal discomfort.** Three main emotions make your eyebrows go up: surprise, worry, and fear. Try raising your eyebrows when you're having a relaxed, casual conversation with a friend. It's hard to do, isn't it? If somebody talking to you raises their eyebrows, and the topic isn't one that would logically cause surprise, worry, or fear, something else is going on.
+
+- **Exaggerated nodding signals anxiety about approval.** When you're telling someone something, and they nod excessively, this means that they are worried about what you think of them or that they think you doubt their ability to follow your instructions. 
+
+- **A clenched jaw signals stress.** A clenched jaw, a tightened neck, or a furrowed brow are all signs of stress. Regardless of what the person is saying, these are signs of considerable discomfort. The conversation might be delving into something they're anxious about, or their mind might be elsewhere, and they're focusing on the thing that's stressing them out. The key is to watch for that mismatch between what the person says and what their tense body language is telling you.
+
+- The bottom line with these body language cues is that even if you can't read a person's thoughts, you can learn a lot from their body language, and that's especially true when their words and body language don't match.
+
+#### BODY LANGUAGE BLUNDERS
+
+- **How you treat waiters and receptionists.** How you treat support staff is so indicative of your makeup that it has become a common interview tactic. By gauging how you interact with support staff on your way in and out of the building, interviewers get a sense of how you treat people in general. Most people act the part when they're speaking to the hiring manager or other "important" people, but some pull a Jekyll and Hyde act the moment they walk out the door, treating others with disdain or indifference. Business lunches and dates are other places this comes to light. No matter how nice you are to the people you have lunch with, it's all for naught if those people witness you behaving badly toward others.
+
+- **How often you check your phone.** There's nothing more frustrating than someone pulling out their phone mid-conversation. Doing so conveys a lack of respect, attention, listening skills, and willpower. Unless it's an emergency, it's wise to keep your phone holstered. A study from Elon University confirmed that pulling out your phone during a conversation lowers the quality and quantity of face-to-face interactions.
+
+- **How long you take to ask questions.** Have you ever had a conversation with someone during which they talked about themselves the entire time? The amount of time someone allows to pass before they take an interest in you is a strong personality indicator. People who talk only about themselves tend to be loud, self-absorbed "takers." People who only ask questions and share little about themselves are usually quiet, humble "givers." Those who strike a nice balance of give-and-take are reciprocators and good conversationalists.
+
+- **Repetitive, nervous habits.** Touching your nails or face or picking at your skin typically indicates that you're nervous, overwhelmed, and not in control. Research from the University of Michigan suggested that these nervous habits indicate perfectionism, and that perfectionists are more likely to engage in these habits when they're frustrated or bored.
+
+- **Watching the clock** while talking to someone is a clear sign of disrespect, impatience, and an inflated ego. It sends the message that you have better things to do than talk to the person you're with, and that you're anxious to leave them.
+
+- **Scowling** or having a generally unhappy expression sends the message that you're upset by those around you, even if they have nothing to do with your mood. Scowls turn people away, as they feel judged. Smiling, however, suggests that you're open, trustworthy, confident, and friendly. MRI studies have shown that the human brain responds favorably to a person who's smiling, and this leaves a lasting positive impression.
+
+- **Turning away from others,** or not leaning into your conversation, shows that you're unengaged, uninterested, uncomfortable, and perhaps even distrustful of the person speaking. Try leaning in toward the person speaking and tilting your head slightly as you listen to them. This shows the person speaking that they have your complete focus and attention.
+
+- **Exaggerated gestures** can imply that you're stretching the truth. Aim for small, controlled gestures to indicate confidence and open gestures -like spreading your arms apart or showing the palms of your hands to communicate that you have nothing to hide.
+
+- **Your handshake.** It's common for people to associate a weak handshake with a lack of confidence and an overall lackadaisical attitude. A study at the University of Alabama showed that although it isn't safe to draw assumptions about someone's competence based on their handshake, you can accurately identify personality traits. Specifically, the study found that a firm handshake is equated with being less shy, less neurotic, and more extroverted. However, a handshake that is too strong could be perceived as an aggressive attempt at domination, which is just as bad. Adapt your handshake to each person and situation, but make sure it's always firm.
+
+- **Showing up late.** Being late leads people to think that you lack respect and tend to procrastinate, and that you're lazy and disinterested. Contrary to these perceptions, a San Diego State University study by Jeff Conte revealed that being late is typically seen in people who multitask or are high in relaxed Type B personality traits. Conte's study found that Type B individuals are often late because they experience time more slowly than the rest of us. The bottom line is not to read too much into people showing up late. It's better to ask why they're late than to make assumptions.
+
+- **Too much or too little eye contact.** As I mentioned previously, avoiding eye contact makes it look like you have something to hide, and that arouses suspicion. A lack of eye contact can also indicate a lack of confidence and interest, which you never want to communicate. Sustained eye contact, however, communicates confidence, leadership, strength, and intelligence. Eye contact that's too intense may be perceived as aggressive, or an attempt to dominate. The way we break contact sends a message, too. Glancing down communicates submission, while looking to the side projects confidence. The key to eye contact is balance. Although it's important to maintain eye contact, doing so 100% of the time is perceived as combative and creepy. At the same time, if you maintain eye contact for only a small portion of the conversation, you'll come across as disinterested, shy, or embarrassed. Studies show that maintaining eye contact for roughly 60% of a conversation strikes the right balance and makes you come across as interested, friendly, and trustworthy.
+
+- **Inconsistency** between your words and your facial expression causes people to sense that something isn't right, and they begin to suspect that you're trying to deceive them, even if they don't know exactly why or how. For example, a nervous smile while rejecting an offer during a negotiation won't help you get what you want. It will just make the other person feel uneasy about dealing with you, because they'll assume that you're up to something.
+
+- **Handwriting**. There are all manner of false stereotypes attempting to relate your handwriting to your behavior. For example, people believe that how hard you press down on the paper relates to how uptight you are, the slant of your writing indicates introversion or extroversion, and the neatness or sloppiness of your writing reveals organizational tendencies. When it comes to handwriting and understanding people, the research is inconclusive, at best. Because people mistakenly read so much into handwriting, if you have an important letter to write, stick to the keyboard to keep things neutral.
+
+- Does their smile appear sincere?
+
+- Do they appear relaxed or tense and fidgety?
+
+- **Go People Watching:** Find a public place to watch how people interact with one another. Notice body language.
+
+- **Understand the Rules of Culture**
+  - When interacting with those of a different culture, observe their body language and manner of speaking.
+  - If you aren't sure what behavior would be acceptable, ask questions.
+
+- **Test for Accuracy**
+  - To confirm your interpretation of body language, use a reflective question. Example:
+    - "It looks like you are feeling down about something. Did something happen?"
+
+- **Don't Take Notes at All Meetings**
+  - In a meeting where people interact, avoid taking extensive notes. Instead, focus on watching people's body language.
 
 
 ## Relationship Management Strategies
