@@ -494,8 +494,6 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
   - The Workflow. How do the resources become the desired end result?
   - The Habits. What are the regularly recurring actions needed to take to make the system work and be maintained?
 
-- ![organize for insights](./organize-for-insights-info-graphics.webp)
-
 - ![mindsweep projects](./mindsweep-projects.webp)
 
 - ![planning projects](./planning-projects.webp)
@@ -503,8 +501,6 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 - ![digital cognition](./digital-cognition.webp)
 
 - ![notes attributes](./notes-attributes.webp)
-
-- ![progressive summarisation](./progressive-summarisation.webp)
 
 - ![notes layers](./notes-layers.webp)
 
@@ -561,37 +557,42 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
 # The workflow - CODE
 
-The BASB workflow is divided into four steps:
+- The BASB workflow is divided into four steps:
 
-Capture includes everything you fill your inboxes with.
-Organise means filing in the PARA folder system.
-Distill means processing of resources with the method of progressive summarizing.
-Express means the application or publication of content.
-Forte does give some tips on Capture. However, I do not consider them essential to understanding BASB. Therefore, I will not go into them in detail.
+  - **Capture** includes everything you fill your inboxes with.
+  - **Organise** means filing in the PARA folder system.
+  - **Distill** means processing of resources with the method of progressive summarizing.
+  - **Express** means the application or publication of content.
 
-Organize is the step where we empty the inbox and incorporate the resources into the PARA system. In doing so, we use the hierarchical nature of PARA: We first check if the resource can be used for something urgent and then work our way to less urgent:(27)
+- **Organize** is the step where we empty the inbox and incorporate the resources into the PARA system. In doing so, we use the hierarchical nature of PARA: We first check if the resource can be used for something urgent and then work our way to less urgent:(27)
 
-Go through all active projects first. Is the resource useful for the project? If yes, file it under this project.
-If not: Is the resource useful for an area of responsibility? If yes, file it under this area of responsibility
-If not: Is the resource useful as part of a resource container? If yes, file it under the respective resource container.
-If not: Archive the resource.
-Distill describes the way the resource is processed. Here, Forte recommends the progressive summary:(28)
-Acquisition is counted as the first step of processing. That is: the resource is filed. In Forte, this is already achieved at capture. However, I think it is better to assign this step to Organise. Only when we have filed the resource in the PARA system can we speak of a first edit.
-Read the resource and mark in bold the passages that catch our eye.
-Highlight what seems to be extra important from what is already marked in bold.
-The last step would be the executive summary. This means that you list the most important key points of the resource at the beginning of the document.
-This is where the difference from the Zettelkasten Method becomes particularly obvious. At no point in CODE do you move beyond the resource inside the system. Only at Express, the next step of CODE, do we leave behind the resource as the unit of information.
+- ![organize for insights](./organize-for-insights-info-graphics.webp)
 
-With BASB, we get stuck with managing resources because we don’t move beyond the resource. Yet, the method of resource editing is quite easily interchangeable. Even if we process the resource to the point of extracting out each individual thought, as is the case with, let’s say, the Zettelkasten Method, we could still fit the individual thoughts into the PARA system as well. So, progressive summarization is not at all an essential ingredient for BASB to work.
+- ![organize work flow](./workflow-organize-resource.png)
 
-Don’t worry about analyzing, interpreting, or categorizing each point to decide wether to highlight it. That is way too taxing and will break the flow of your concentration. Instead, rely on your intuition to tell you when a passage is interesting, counterintuitive, or relevant to your favorite problems or current project.(29)
-But the progressive summary is in the spirit of a way of working: The progressive summary could almost be seen as a technique for not letting knowledge work distract you from a project-oriented way of working. We will see more about this in the comparison of BASB and the ZKM. Progressive summarization does not involve thorough extracting and processing of ideas.
+- Go through all active projects first. Is the resource useful for the project? If yes, file it under this project.
+  - If not: Is the resource useful for an area of responsibility? If yes, file it under this area of responsibility
+  - If not: Is the resource useful as part of a resource container? If yes, file it under the respective resource container.
+  - If not: Archive the resource.
 
-Express means that Forte encourages us to actually use our system for something. Forte gives some tips in this section such as breaking up larger projects into small steps that are easy to work through.(30) But this step is already outside the actual system of processing and management because most likely you will start writing in your dedicated writing app or implement behavioral changes in your life and not in your second brain.
+- ![progressive summarisation](./progressive-summarisation.webp)
 
-The first three aspects Capture, Organise and Distill concern the input to the system PARA. Express states that we should use the system to its fullest effect. With PARA and CODE, we covered the system and the workflow. Now, let’s continue with the first of the key habits.
+- **Distill** describes the way the resource is processed. Here, Forte recommends the progressive summary:(28)
+  - Acquisition is counted as the first step of processing. That is: the resource is filed. In Forte, this is already achieved at capture. However, I think it is better to assign this step to Organise. Only when we have filed the resource in the PARA system can we speak of a first edit.
+  - Read the resource and mark in bold the passages that catch our eye.
+  - Highlight what seems to be extra important from what is already marked in bold.
+  - The last step would be the executive summary. This means that you list the most important key points of the resource at the beginning of the document.
 
-The Key Habits
+- With BASB, we get stuck with managing resources because we don’t move beyond the resource. Yet, the method of resource editing is quite easily interchangeable. Even if we process the resource to the point of extracting out each individual thought, as is the case with, let’s say, the Zettelkasten Method, we could still fit the individual thoughts into the PARA system as well. So, progressive summarization is not at all an essential ingredient for BASB to work.
+
+  - *Don’t worry about analyzing, interpreting, or categorizing each point to decide wether to highlight it. That is way too taxing and will break the flow of your concentration. Instead, rely on your intuition to tell you when a passage is interesting, counterintuitive, or relevant to your favorite problems or current project.*
+
+- But the progressive summary is in the spirit of a way of working: The progressive summary could almost be seen as a technique for not letting knowledge work distract you from a project-oriented way of working. We will see more about this in the comparison of BASB and the ZKM. Progressive summarization does not involve thorough extracting and processing of ideas.
+
+- **Express** means that Forte encourages us to actually use our system for something. Forte gives some tips in this section such as breaking up larger projects into small steps that are easy to work through.(30) But this step is already outside the actual system of processing and management because most likely you will start writing in your dedicated writing app or implement behavioral changes in your life and not in your second brain.
+
+
+# The Key Habits
 System-relevant habits are actions that are necessary for the effectiveness of the system, and therefore must be done regularly. As with all project and task management systems, there are two types of habits.
 
 Habits of good use of the system. Through these habits, one derives maximum benefit from the system. In BASB, these are the project checklists.
