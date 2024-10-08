@@ -54,8 +54,30 @@ tags: ["realestate"]
 - **Long-term potential vs current returns:** Thorncliffe’s long-term potential lies in its affordable housing market and proximity to major Calgary roads and amenities. It’s a solid choice for both cash flow and future appreciation, particularly if there is an increase in zoning density or continued infrastructure development. While current cash flow is modest, the area’s stability and community engagement make it a good option for long-term investment​
   - C-Train construction on centre street 
 
-- **Strategy:** Infill development or buy-and-hold
-  - **Why:** Thorncliffe is experiencing growth with large lots and future infrastructure projects. Investors can capitalize on this by developing infill properties (e.g., duplexes) or holding existing homes for long-term appreciation.
+- **Strategy:**
+  - Buy and Hold
+    - Strategy: Purchase properties to rent out while holding them for long-term appreciation.
+    - Why it works: Thorncliffe is a well-established neighborhood with stable rental demand due to its proximity to key amenities, schools, and easy access to downtown Calgary. The area is popular among families and working professionals, making it ideal for long-term tenants.
+    - Rental Income: Given its stable housing market and reasonable property prices, buy-and-hold investors can generate consistent rental income, particularly with single-family homes and townhomes.
+  - Secondary Suite Conversions
+    - Strategy: Converting single-family homes into properties with secondary rental suites.
+    - Why it works: Many older homes in Thorncliffe sit on large lots, which may offer opportunities to develop legal basement or garage suites. This strategy can help maximize rental income from a single property, making the investment more profitable.
+    - Target Tenants: This strategy could appeal to families or professionals looking for affordable housing options, and the additional rental unit can diversify income streams.
+  - Renovation and Flipping
+    - Strategy: Buying older homes, renovating them, and selling for a profit.
+    - Why it works: Many homes in Thorncliffe were built between the 1950s and 1980s, making them prime candidates for renovation. Upgrading these homes with modern finishes and energy-efficient improvements can appeal to buyers looking for move-in-ready homes.
+    - Target Buyers: First-time homebuyers or families looking for affordable, updated homes in a mature neighborhood.
+  - Infill Development
+    - Strategy: Purchasing larger lots and developing new infill properties.
+    - Why it works: Thorncliffe has areas where older homes on large lots are being redeveloped into multi-family units or modern single-family homes. This strategy may work particularly well if zoning regulations allow for increased density (e.g., duplexes or townhouses).
+    - Potential Returns: Infill projects can command premium prices, especially as demand for newer, energy-efficient homes grows in mature neighborhoods.
+  - Rent-to-Own (Lease Option)
+    - Strategy: Offering rent-to-own options to tenants.
+    - Why it works: Thorncliffe’s relatively affordable home prices make it an attractive area for buyers who may not yet qualify for a mortgage but are looking for a pathway to homeownership. Investors can structure rent-to-own deals to attract tenants who eventually want to buy the property.
+    - Benefits: This strategy provides consistent rental income with the potential to sell the property to the tenant in the future, locking in an exit strategy early on.
+  - Multi-Family Investment
+    - Strategy: Investing in or converting homes into multi-family or duplex properties.
+    - Why it works: If zoning permits, creating multi-family units can provide higher cash flow per property. Thorncliffe’s demographic mix of families, professionals, and retirees can support demand for duplexes or multi-family units.
 
 # Oggden
 
