@@ -494,10 +494,6 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
   - The Workflow. How do the resources become the desired end result?
   - The Habits. What are the regularly recurring actions needed to take to make the system work and be maintained?
 
-- ![mindsweep projects](./mindsweep-projects.webp)
-
-- ![planning projects](./planning-projects.webp)
-
 - ![digital cognition](./digital-cognition.webp)
 
 - ![notes attributes](./notes-attributes.webp)
@@ -512,16 +508,7 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
 - ![placeholding](./place-holding.webp)
 
-- ![ways with wrestling with knowledge](./ways-wrestling-with-knowledge.webp)
-
-- ![just in time project management](./just-in-time-project-management.webp)
-
-- ![system in its place](./system-in-its-place.webp)
-
-- ![16 workflows strategies](./16-workflow-strategies.webp)
-
 - ![context switch](./context-switch.webp)
-
 
 
 # The system - PARA
@@ -556,6 +543,14 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 - This four-folder system is kept simple for a reason: Complex systems usually require complex maintenance. PARA abandons this complexity. CODE, BASB’s workflow, is similarly kept simple.
 
 # The workflow - CODE
+
+- ![ways with wrestling with knowledge](./ways-wrestling-with-knowledge.webp)
+
+- ![just in time project management](./just-in-time-project-management.webp)
+
+- ![system in its place](./system-in-its-place.webp)
+
+- ![16 workflows strategies](./16-workflow-strategies.webp)
 
 - The BASB workflow is divided into four steps:
 
@@ -593,53 +588,56 @@ Luhmann distinguished between three kinds of notes that went into his slip-boxes
 
 
 # The Key Habits
-System-relevant habits are actions that are necessary for the effectiveness of the system, and therefore must be done regularly. As with all project and task management systems, there are two types of habits.
 
-Habits of good use of the system. Through these habits, one derives maximum benefit from the system. In BASB, these are the project checklists.
-Habits of maintenance of the system. By these habits one repairs the current damages and signs of wear. In BASB, these are the reviews.
-The Project Checklists
-There are two checklists: one at the beginning of the project and the other at the end of the project. The checklist at the beginning of the project is for using the system to its fullest extent for the current project. The checklist at the end of the project is for using the completed project to improve the system.(31) So, these two checklists are designed as positive feedback loop:
+- ![mindsweep projects](./mindsweep-projects.webp)
 
+- ![planning projects](./planning-projects.webp)
 
-Checklist: Project Start
-Collect: Gather your thoughts about the project. What do you already know about it? What don’t you know? What is your goal? What people can you tap into? What are possible resources?(32)
-Review: Search the folders of your second brain for useful information.(33)
-Search: Use the global search to back up the second step. Sometimes, useful information turns up in surprising places.(34)
-Move: Move all relevant notes to the project folder.(35)
-Create: Create an outline from everything you have collected in the project folder.(36) Important: You are only planning the project. You’re not working on it directly yet.(37)
-Checklist: End of project
-Mark: Mark the project as complete in your task management and still process any loose ends.(38)
-Cross out: Mark the goal associated with the project as achieved and move the goal to a “Achieved” list. You can use this list of achieved goals as motivation.(39)
-Review: Review the project folder for content that you can use for other projects.
-Move: Move the project folder from “Projects” (PARA) to the archive (PARA). (40)
-If project is becoming inactive: If you cancel or postpone the project, make sure you can start where you left off. Create a note, with all the necessary information, how you would continue and also with the reasons why you stopped.(41)
-Review
-All systems get cluttered and deteriorate if they are not maintained. Forte explicitly follows the tradition of David Allen’s GTD here.(42) I consider these checklists to be fairly self-explanatory.
+- System-relevant habits are actions that are necessary for the effectiveness of the system, and therefore must be done regularly. As with all project and task management systems, there are two types of habits.
 
-Weekly Review
-Empty the email inbox.(43)
-View the calendar.(44)
-Clean up the desk of your computer.(45)
-Empty the inbox of your note-taking software.(46)
-There is no editing involved! This is just about putting the material into the PARA system.
-Choose the assignments for the week.(47)
-Monthly Review
-View and update your quarterly goals.(48)
-View and update your project list.(49)
-View your areas of responsibility.(50)
-View your “someday/maybes.”(51)
-Update how important and urgent the tasks are.(52)
-So we have all three aspects system, workflow and habits together.
+- **Habits of good use of the system.** Through these habits, one derives maximum benefit from the system. In BASB, these are the project checklists.
+- **Habits of maintenance of the system.** By these habits one repairs the current damages and signs of wear. In BASB, these are the reviews.
 
-Summary of BASB
-BASB is a hybrid of (1) information management and (2) project management system. It is based on GTD. The important changes are the adaptations for collecting content for projects.
-The system PARA is a four-folder system ordered on a hierarchy of relevance to action.
-The workflow CODE mainly concerns the input to the system. However, use of the system for publishing is encouraged.
-Using the project checklists is the core habit for productive use of the system. The system is maintained on a regular basis. This is what the weekly and monthly reviews are for.
-Now that we have an overview of Building a Second Brain, we will compare this system to the Zettelkasten Method.
+## The Project Checklists
 
+- There are two checklists: one at the beginning of the project and the other at the end of the project. The checklist at the beginning of the project is for using the system to its fullest extent for the current project. The checklist at the end of the project is for using the completed project to improve the system. So, these two checklists are designed as positive feedback loop:
 
-Building a Second Brain and the Zettelkasten Method in comparison
+- **Checklist: Project Start**
+  - **Collect**: Gather your thoughts about the project. What do you already know about it? What don’t you know? What is your goal? What people can you tap into? What are possible resources?
+  - **Review**: Search the folders of your second brain for useful information.
+  - **Search**: Use the global search to back up the second step. Sometimes, useful information turns up in surprising places.
+  - **Move**: Move all relevant notes to the project folder.
+  - **Create**: Create an outline from everything you have collected in the project folder.(36) Important: You are only planning the project. You’re not working on it directly yet.
+
+- **Checklist: End of project**
+  - **Mark**: Mark the project as complete in your task management and still process any loose ends.
+  - **Cross out**: Mark the goal associated with the project as achieved and move the goal to a “Achieved” list. You can use this list of achieved goals as motivation.
+  - **Review**: Review the project folder for content that you can use for other projects.
+  - **Move**: Move the project folder from “Projects” (PARA) to the archive (PARA).
+  - **If project is becoming inactive**: If you cancel or postpone the project, make sure you can start where you left off. Create a note, with all the necessary information, how you would continue and also with the reasons why you stopped.(41)
+
+## Review
+
+- All systems get cluttered and deteriorate if they are not maintained. Forte explicitly follows the tradition of David Allen’s GTD here. I consider these checklists to be fairly self-explanatory.
+
+- **Weekly Review**
+  - Empty the email inbox.
+  - View the calendar.
+  - Clean up the desk of your computer.
+  - Empty the inbox of your note-taking software.
+  - There is no editing involved! This is just about putting the material into the PARA system.
+  - Choose the assignments for the week.
+
+- **Monthly Review**
+  - View and update your quarterly goals.
+  - View and update your project list.
+  - View your areas of responsibility.
+  - View your “someday/maybes.”
+  - Update how important and urgent the tasks are.
+  - So we have all three aspects system, workflow and habits together.
+
+# Building a Second Brain and the Zettelkasten Method in comparison
+
 Simplified, BASB is a source material feeder system for project-oriented self-organization. It is especially suitable for people whose projects are particularly dependent on source material. Oddly enough, the processing of knowledge seems almost to be considered a necessary evil, to be automated and simplified as much as possible. Thus, Forte writes in the processing step Distill:
 
 Don’t worry about analyzing, interpreting, or categorizing each point to decide whether to highlight it. That is way too taxing and will break the flow of your concentration. Instead, rely on your intuition to tell you when a passage is interesting, counterintuitive, or relevant to your favorite problems or current project.(53)
@@ -777,7 +775,6 @@ My Zettelkasten provides the necessary peace and quiet for knowledge work. It gi
 
 When I assign a resource, I go through a hierarchy of actionability. That is, the resource is filed where it is most likely to benefit a project.
 The more resources I assign to larger and therefore more difficult to implement projects, or even general areas of responsibility, the more likely I am to structure the project into subprojects. This leads to a larger project being divided into smaller and thus more actionable sub-projects, or even to projects emerging in areas of responsibility.
-
 
 
 # Quotes
