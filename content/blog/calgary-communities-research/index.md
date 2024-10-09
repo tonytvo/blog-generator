@@ -79,7 +79,7 @@ tags: ["realestate"]
     - Strategy: Investing in or converting homes into multi-family or duplex properties.
     - Why it works: If zoning permits, creating multi-family units can provide higher cash flow per property. Thorncliffe’s demographic mix of families, professionals, and retirees can support demand for duplexes or multi-family units.
 
-# Oggden
+# Ogden
 
 - **Nearby amenities:** Ogden offers a mix of amenities, including schools such as Banting and Best Elementary and Sherwood Community School. The community is close to several bus routes and CTrain stations, making public transit convenient. The area also has parks, community centers, and local shopping options​
 
@@ -105,7 +105,33 @@ tags: ["realestate"]
   - Ogden is expected to see significant appreciation as zoning changes allow for more in-fill developments, and the CTrain extension improves accessibility and more connected to downtown
 
 - **Strategy:** Value-add (infill development or legal basement suites)
-  - **Why:** Ogden is undergoing revitalization, with infrastructure improvements like the CTrain extension. Investors can take advantage of this by adding value through infill developments or legalizing basement suites to increase rental income. As the area becomes more connected, property values are expected to rise.
+  - Buy and Hold
+    - Strategy: Purchase properties to rent out and hold for long-term appreciation.
+    - Why it works: Ogden is an established neighborhood with relatively affordable home prices, making it attractive for investors. The upcoming Green Line LRT extension, which is set to pass through the area, increases the potential for future appreciation. With its proximity to industrial and commercial hubs, rental demand is likely to remain steady.
+    - Rental Income: Steady demand for affordable housing from working-class tenants ensures a reliable rental income stream.
+  - Secondary Suite Conversions
+    - Strategy: Adding a legal secondary suite to single-family homes.
+    - Why it works: Many of Ogden's homes are older and sit on larger lots, offering space for secondary suite conversions. Calgary's push for legalizing secondary suites supports this strategy, and Ogden’s affordability makes it feasible to add basement or garage suites to boost rental income.
+    - Target Tenants: Dual-suite properties can appeal to both families and individual renters looking for more affordable rental options in an accessible location.
+  - Renovation and Flipping
+    - Strategy: Buying older homes, renovating them, and selling for a profit.
+    - Why it works: Many homes in Ogden were built in the mid-20th century and are now in need of modernization. Investors can purchase these properties at lower prices, renovate them to add value, and sell to first-time homebuyers or families looking for affordable, move-in-ready homes.
+    - Target Buyers: First-time buyers or families attracted to a renovated home close to the new Green Line LRT and employment centers.
+  - Infill Development
+    - Strategy: Purchasing older properties on larger lots for redevelopment.
+    - Why it works: Ogden has many older homes on larger lots, providing opportunities for infill development. With the neighborhood's improving infrastructure, including the upcoming Green Line LRT, redeveloping single-family homes into multi-family units, duplexes, or modern single-family homes can generate strong returns.
+    - Potential Returns: Infill projects can help meet the demand for modern, affordable homes, and new developments can attract buyers or renters looking for housing close to transportation routes.
+  - Multi-Family Investment
+    - Strategy: Investing in multi-family or small apartment buildings.
+    - Why it works: Ogden has a mix of single-family homes and small multi-family properties. Investors can acquire or develop multi-family buildings to meet the demand from working-class families and individuals who prefer rental accommodations. The neighborhood’s industrial employment centers provide a steady tenant base.
+    - Rental Demand: The close proximity to industrial areas and major transportation routes ensures a reliable demand for rental units.
+  - Land Banking
+    - Strategy: Purchasing vacant or underdeveloped land for future appreciation and development.
+    - Why it works: As the Green Line LRT project progresses and infrastructure improves, vacant land or older properties in Ogden may appreciate significantly. Investors can hold onto land or properties for future development when the area’s demand increases.
+  - Rent-to-Own (Lease Option)
+    - Strategy: Offering properties as rent-to-own options to tenants.
+    - Why it works: Ogden is an affordable neighborhood, which can attract tenants who are not yet ready to buy but are interested in homeownership. Offering rent-to-own deals allows tenants to rent while gradually working towards purchasing the property, providing a steady income for the investor and a clear exit strategy.
+    - Target Tenants: Tenants who want to eventually transition to homeownership.
 
 # Capitol Hill, NW
 
