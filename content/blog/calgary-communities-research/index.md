@@ -868,13 +868,54 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
   - Fix-and-Flip: Opportunities exist for investors to purchase older homes, renovate, and sell them for a profit, particularly as the area becomes more attractive for families and commuters.
   - Multi-family Rentals: The strong demand for affordable rental properties in Whitehorn makes it suitable for multi-family investments or duplexes​
 
-
 # Rundle, northeast
 
-- Rundle’s affordable housing attracts both buyers and renters. Like other Northeast communities, it benefits from good transit connections, with easy access to downtown and employment hubs like the airport.
+- **Nearby Amenities and Attractions**
+  - Shopping & Dining: Rundle is close to the Sunridge Mall, which offers a variety of shops, restaurants, and services. It’s also near other retail plazas, including grocery stores and local restaurants.
+  - Healthcare: The Peter Lougheed Centre hospital is nearby, making it convenient for healthcare access.
+  - Public Transport: Rundle is served by the Rundle LRT station, which provides easy access to downtown Calgary and other areas.
+  - Parks & Recreation: There are several parks and green spaces in and around Rundle, including Rundle Park and Village Square Leisure Centre, which offers swimming, skating, and fitness facilities.
+  - Rundle’s affordable housing attracts both buyers and renters. Like other Northeast communities, it benefits from good transit connections, with easy access to downtown and employment hubs like the airport.
 
-- **Strategy:** Turnkey rentals or duplex investments
-  - **Why:** Rundle is an affordable area with good rental demand due to its transit access. Investors can purchase turnkey rentals or invest in duplexes for solid cash flow.
+- **Housing and Construction Timeline**
+  - Development: Most homes in Rundle were built in the 1970s.
+  - Housing Types: The area primarily consists of single-family detached homes, along with townhouses and low-rise apartments. Some of the homes are bungalows, with basements that offer potential for secondary suites.
+
+- **Zoning Regulations**
+  - Zoning: The zoning in Rundle allows for a mix of single-family homes, townhouses, and some multi-family properties. Some homes have potential for secondary suite conversions, but specific zoning laws need to be checked with the City of Calgary to determine if additional units are allowed on certain lots.
+
+- **Population and Growth**
+  - Population: As of recent data, the population of Rundle is around 11,000.
+  - Growth: Rundle has experienced steady population growth over the years, though being an established community, growth comes mainly from infill developments and upgrades rather than large-scale new development.
+
+- **Average Income**
+  - Income: The average household income in Rundle is estimated to be around $70,000 to $80,000 per year, reflecting the community’s working-class demographic.
+
+- **Crime Rate**
+  - Crime Rate: Rundle has an average crime rate for Calgary. Most incidents are non-violent, such as property crime and vehicle break-ins, typical of older established neighborhoods. Overall, Rundle is considered safe but, like many urban areas, experiences occasional crime.
+
+- **Rental Supply/Demand**
+  - Supply/Demand: There is consistent demand for rental properties in Rundle, primarily due to its affordability and proximity to public transportation and healthcare facilities. Rundle's proximity to major employment hubs makes it attractive to renters.
+
+- **Average Rents:** The rent for a 3-bedroom home ranges from $1,600 to $2,200 per month, depending on the condition and updates to the property.
+
+- **Neighborhood Class: A, B, C, D**
+  - Classification: Rundle is typically classified as a C neighborhood. It is affordable and accessible but lacks some of the higher-end amenities found in more affluent areas. However, its infrastructure and proximity to key areas make it desirable for working-class families.
+
+- **Long-Term Potential Appreciation and Cashflow**
+  - Appreciation: Rundle has moderate long-term appreciation potential, especially with the LRT line providing good access to the rest of the city. The area may see growth through infill developments and renovations of older homes.
+  - Cashflow: As an investor, you can expect moderate cash flow from rental properties due to relatively affordable purchase prices and consistent rental demand.
+
+- **Average House Prices**
+  - House Prices: The average price for a single-family home in Rundle ranges from $350,000 to $450,000, depending on the size and condition of the property. Townhouses and condos are priced lower, typically between $200,000 and $300,000.
+
+- **Real Estate Investment Strategies**
+  - Buy and Hold: Given Rundle’s affordability and stable rental demand, a buy-and-hold strategy works well. Long-term renters, including families and professionals, look for affordability and proximity to services.
+  - Secondary Suite Conversion: Many older bungalows in Rundle have basements that could be converted into legal secondary suites, providing extra rental income.
+  - Fix and Flip: Older homes may require renovations, and there is potential for profit from flipping properties, especially if updated homes are appealing to first-time homebuyers or renters.
+  - Multi-Family Investments: Small multi-family properties like townhouses or apartment units are viable in Rundle. Investing in these properties can diversify rental income and provide more stability.
+  - Rent-to-Own (Lease Option): Offering rent-to-own options can attract tenants interested in homeownership but not yet financially prepared to buy, giving you consistent rental income and a future exit strategy.
+  - Turnkey rentals or duplex investments: Rundle is an affordable area with good rental demand due to its transit access. Investors can purchase turnkey rentals or invest in duplexes for solid cash flow.
 
 # Pineridge, northeast
 
