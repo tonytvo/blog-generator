@@ -972,10 +972,51 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # Temple, northeast
  
-- Temple is a family-oriented neighborhood with older homes and steady rental demand. Its affordability continues to drive interest from both buyers and investors.
+- **Nearby Amenities and Attractions**
+  - Shopping: Temple is close to several commercial areas, including Sunridge Mall and Village Square Shopping Centre. There are also various grocery stores and local shops in the surrounding neighborhoods.
+  - Parks & Recreation: The community features green spaces such as Templegreen Park and Templewood Park. Nearby, residents have access to the Village Square Leisure Centre, which offers swimming, fitness, and recreational activities.
+  - Schools: Temple has a number of schools, including Annie Foote School and Father Scollen School, making it family-friendly.
+  - Healthcare: The Peter Lougheed Centre is the nearest hospital, providing full medical services.
 
-- **Strategy:** Value-add or buy-and-hold
-  - **Why:** Temple offers older homes that can benefit from renovations. A buy-and-hold strategy works well here for long-term appreciation, especially with steady rental demand from families.
+- **Housing and Construction Timeline**
+  - Development: Most homes in Temple were built during the 1970s and 1980s, as part of Calgary’s suburban expansion during that period.
+
+- **Building Types:** The area primarily consists of single-family detached homes, though there are also townhouses and a few apartment buildings.
+
+- **Zoning Regulations**
+  - Zoning: The community includes R-C1 and R-C2 zoning, which primarily allows for single-family homes, with the potential for secondary suites in some cases. Some areas have R-C2 zoning that permits duplexes and semi-detached homes.
+  - Additional Units: Depending on the lot and zoning, it is possible to add secondary suites or additional units, though approvals from the city are required.
+
+- **Population and Growth**
+  - Population: Temple has a population of approximately 11,000 residents.
+  - Growth: As an established community, population growth is moderate and occurs mostly through infill projects or renovations of older homes.
+
+- **Average Income**
+  - Income: The average household income in Temple is estimated to be around $70,000 to $85,000 annually, reflecting its status as a middle-class neighborhood.
+
+- **Crime Rate**
+  - Crime Rate: Temple has a moderate crime rate. It experiences occasional property crime, like vehicle thefts and break-ins, but overall, it is considered a relatively safe area compared to other parts of Calgary.
+
+- **Rental Supply and Demand**
+  - Supply/Demand: There is consistent rental demand in Temple, mainly from families and working-class individuals looking for affordable housing.
+  - Rental Prices: The average rent for a 3-bedroom home is around $1,500 to $2,000 per month, depending on property condition and location within the community.
+
+- **Neighborhood Class: A, B, C, D**
+  - Classification: Temple is typically considered a C-class neighborhood. It is an affordable, family-oriented community with good access to services and amenities, making it attractive to middle-income families and renters.
+
+- **Long-Term Potential Appreciation and Cashflow**
+  - Appreciation: Temple has moderate appreciation potential. As Calgary’s real estate market grows, Temple’s affordable housing prices, coupled with its family-friendly nature, offer stable, though not explosive, growth in property values.
+  - Cashflow: Investors can expect consistent rental income due to the area’s affordability and demand from renters seeking larger homes.
+
+- **Average House Prices**
+  - House Prices: The average price for a single-family home in Temple is between $350,000 and $450,000, while townhouses and condos are typically priced between $200,000 and $300,000.
+
+- **Real Estate Investment Strategies**
+  - Buy and Hold: This is a strong strategy for Temple due to steady rental demand and moderate appreciation. Investors can hold properties long-term to generate consistent rental income.
+  - Secondary Suite Conversion: Many homes in Temple have basements that can be converted into secondary suites, providing additional rental income and increasing property value.
+  - Fix and Flip: Renovating older homes to modern standards and selling them can be profitable, especially as first-time homebuyers look for move-in-ready properties at affordable prices.
+  - Multi-Family Investment: While Temple primarily consists of single-family homes, there are opportunities to invest in townhouses or duplexes. Multi-family properties can provide diversified rental income.
+  - Rent-to-Own: Offering a rent-to-own option could attract renters who are interested in homeownership but are not yet financially ready to buy, providing steady rental income while securing future buyers.
 
 # Seton, SE, deep south
 
