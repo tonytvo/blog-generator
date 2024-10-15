@@ -471,6 +471,7 @@ tags: ["realestate"]
   - Parks & Recreation: The community offers extensive green spaces, parks, and pathways. Fish Creek Provincial Park is nearby for outdoor activities such as hiking and biking.
   - Schools: There are a few schools nearby in neighboring communities like Legacy and Chaparral, with new schools expected as Walden continues to develop.
   - Healthcare: The South Health Campus hospital is just a short drive away in Seton.
+  - Accessibility via the Stoney Trail ring road boosts demand
 
 - **Housing and Construction Timeline**
   - Development: Most homes in Walden have been built starting around 2008. It is a relatively new community, so housing stock is modern, with energy-efficient features.
@@ -517,6 +518,7 @@ tags: ["realestate"]
 # Copperfield, deep south
 
 - Copperfield offers a blend of detached homes and multi-family units. Known for being affordable, it’s ideal for first-time homebuyers and investors. The area’s appeal is further supported by its access to 130 Avenue SE’s shopping district.
+- Accessibility via the Stoney Trail ring road boosts demand
 
 - There was caution against investing in newer communities without established amenities. These areas are seen as long-term plays, where amenities are still being developed, but they may suffer from lower initial rental demand.
 
@@ -526,6 +528,7 @@ tags: ["realestate"]
 # Cranston, deep south
 
 - This family-oriented community is close to Fish Creek Park and the Bow River, offering outdoor lifestyle perks. Cranston’s homes range from starter homes to estate properties, and its rental demand has been increasing due to good amenities and proximity to South Health Campus hospital.
+- Accessibility via the Stoney Trail ring road boosts demand
 
 - **Strategy:** Fix-and-flip or long-term rental
   - **Why:** Cranston’s mix of starter homes and higher-end properties allows for both fix-and-flip opportunities and long-term rentals. Investors can renovate older homes for a quick profit or hold properties for stable rental income due to its proximity to Fish Creek Park and the South Health Campus.
@@ -586,8 +589,6 @@ tags: ["realestate"]
   - Fix and Flip: There is potential for profit through renovating older homes and selling them, especially as first-time homebuyers or investors look for updated properties in an affordable price range.
   - Multi-Family Investment: Investors can consider townhouses or small multi-family properties, which may offer diversified income streams. Queensland has some R-C2 zoned areas, providing opportunities for duplex or multi-family investments.
   - Rent-to-Own (Lease Option): This strategy could work well for potential homeowners who may not yet have the financial capacity to purchase but would be interested in renting with the option to buy in the future.
-
-
 
 # Aspen, west
 
@@ -1166,8 +1167,6 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
   - **Why:** Aspen Woods is ideal for long-term holding due to its high demand and premium status. Executive rentals targeting corporate tenants or affluent families provide steady rental income.
 
 # unsorted
-
-Neighborhood quality: Communities were categorized by potential for returns, with high-end neighborhoods like Aspen offering steady appreciation but higher entry points, while more affordable areas like Queensland and Thorncliffe showed greater short-term price jumps due to affordability-driven demand.
 
 Deep South
 Mahogany, Walden, Copperfield, Cranson: High sales volumes and interest, driven by amenities like hospitals, parks, schools, and shopping centers. Accessibility via the Stoney Trail ring road boosts demand. Communities are desirable for both homebuyers and renters, with newer homes attracting young families.
