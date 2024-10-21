@@ -985,18 +985,14 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # Whitehorn, northeast
 
-- Whitehorn is a diverse community with strong rental demand, especially among families. Its proximity to the CTrain and Peter Lougheed Centre makes it a desirable location for renters and homeowners alike.
-
-- **Strategy:** Buy-and-hold or multi-family rentals
-  - **Why:** Whitehorn’s proximity to the CTrain and Peter Lougheed Centre makes it a great area for buy-and-hold investments, especially for multi-family properties that attract working professionals and families.
-
 - **Nearby Amenities & Attractions:**
-- Whitehorn offers a range of amenities and attractions:
-  - Village Square Leisure Centre: This recreational facility provides swimming pools, gyms, fitness programs, and a library.
-  - Schools: There are several schools, such as Annie Gale Junior High and Colonel J. Fred Scott Elementary School.
-  - Transportation: The Whitehorn LRT Station provides excellent access to downtown Calgary and other areas, and the community is close to major roadways like 52nd Street and McKnight Boulevard.
-  - Shopping & Dining: Close to shopping centers like Sunridge Mall and local businesses, offering retail, grocery, and dining options​
-- Whitehorn is a diverse community with strong rental demand, especially among families. Its proximity to the CTrain and Peter Lougheed Centre makes it a desirable location for renters and homeowners alike.
+  - Whitehorn offers a range of amenities and attractions:
+    - Village Square Leisure Centre: This recreational facility provides swimming pools, gyms, fitness programs, and a library.
+    - Schools: There are several schools, such as Annie Gale Junior High and Colonel J. Fred Scott Elementary School.
+    - Transportation: The Whitehorn LRT Station provides excellent access to downtown Calgary and other areas, and the community is close to major roadways like 52nd Street and McKnight Boulevard.
+    - Shopping & Dining: Close to shopping centers like Sunridge Mall and local businesses, offering retail, grocery, and dining options​
+  - Whitehorn is a diverse community with strong rental demand, especially among families. Its proximity to the CTrain and Peter Lougheed Centre makes it a desirable location for renters and homeowners alike.
+  - Working-class communities close to transit and employment hubs like the airport.
 ​
 - **When Were the Houses Commonly Built?**
   - Whitehorn was established in 1973, and most of the houses were built during the 1970s and 1980s, providing a mix of architectural styles common during that era​
@@ -1034,7 +1030,7 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 - **Average House Prices:**
   - House prices in Whitehorn generally range from $350,000 to $550,000 for single-family homes, depending on the property type, size, and upgrades​
 
-- Real Estate Investment Strategies:
+- **Real Estate Investment Strategies:**
   - Buy-and-Hold: Due to the steady rental demand and affordable home prices, Whitehorn is ideal for buy-and-hold strategies, where investors can benefit from consistent rental income and moderate appreciation.
   - Secondary Suite Development: Many homes in Whitehorn are well-suited for secondary suite conversions, allowing for additional rental income streams.
   - Fix-and-Flip: Opportunities exist for investors to purchase older homes, renovate, and sell them for a profit, particularly as the area becomes more attractive for families and commuters.
@@ -1091,16 +1087,12 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # Pineridge, northeast
 
-- Pineridge is another working-class community offering affordable homes. The neighborhood has a mix of detached homes and townhouses, making it an attractive option for investors seeking rental properties.
-
-- **Strategy:** Buy-and-hold or townhouse rentals
-  - **Why:** Pineridge is an affordable community ideal for buy-and-hold investments. Townhouse rentals can be attractive due to their lower entry price and stable demand from families.
-
 - **Nearby Amenities and Attractions**
   - Shopping: Pineridge is close to several shopping centers, including Sunridge Mall and Village Square Mall, which feature a variety of retail stores, restaurants, and essential services.
   - Parks & Recreation: The community is home to Village Square Leisure Centre, a large recreational facility with a wave pool, fitness facilities, and a skating rink. The Pineridge Community Centre also provides local activities and programs.
   - Schools: Pineridge has several schools, including Pineridge School (K-6), Clarence Sansom School (grades 7-9), and Lester B. Pearson High School.
   - Healthcare: The Peter Lougheed Centre, a major hospital, is nearby, providing access to comprehensive healthcare services.
+  - Working-class communities close to transit and employment hubs like the airport.
 
 - **Housing and Construction Timeline**
   - Development: Homes in Pineridge were predominantly built in the 1970s and 1980s, making the area an established community with mature trees and streets.
@@ -1141,6 +1133,7 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
   - Fix and Flip: Older homes may require renovation, and there is potential for profit from flipping properties, especially if modernized for first-time homebuyers or renters looking for updated amenities.
   - Multi-Family Investments: With a few multi-family buildings and townhouses in the area, investing in small multi-family units can diversify rental income streams.
   - Rent-to-Own (Lease Option): Offering a rent-to-own program could attract tenants interested in homeownership but not yet financially ready, providing consistent rental income with a future purchase option.
+  - townhouse rentals: Pineridge is an affordable community ideal for buy-and-hold investments. Townhouse rentals can be attractive due to their lower entry price and stable demand from families.
 
 # Temple, northeast
  
@@ -1149,6 +1142,7 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
   - Parks & Recreation: The community features green spaces such as Templegreen Park and Templewood Park. Nearby, residents have access to the Village Square Leisure Centre, which offers swimming, fitness, and recreational activities.
   - Schools: Temple has a number of schools, including Annie Foote School and Father Scollen School, making it family-friendly.
   - Healthcare: The Peter Lougheed Centre is the nearest hospital, providing full medical services.
+  - Working-class communities close to transit and employment hubs like the airport.
 
 - **Housing and Construction Timeline**
   - Development: Most homes in Temple were built during the 1970s and 1980s, as part of Calgary’s suburban expansion during that period.
@@ -1294,10 +1288,6 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # unsorted
 
-Northwest Calgary
-Tuscany, Silver Springs, Ranchlands, Varsity: The northwest is characterized by easy access to transit and good amenities. Communities like Tuscany and Silver Springs have strong demand for both ownership and rentals. Older communities, including Ranchlands and Varsity, provide affordable homes with potential for renovation and solid returns.
-North Calgary
-Thorncliffe, Beddington, Huntington Hills: These established neighborhoods are benefiting from affordability and future infrastructure, including the extension of the CTrain line. Thorncliffe in particular has larger lot sizes and is expected to see strong growth.
 Northeast Calgary
 Whitehorn, Rundle, Pineridge, Temple: Working-class communities close to transit and employment hubs like the airport. These areas offer affordable housing with strong rental demand, especially from families. Properties near the CTrain line are particularly desirable.
 Surrounding Towns
