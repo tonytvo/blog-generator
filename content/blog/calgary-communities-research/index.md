@@ -1244,6 +1244,56 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
   - Rental Properties: Given the strong demand from professionals working at the South Health Campus and nearby businesses, rental properties such as apartments and townhouses can offer steady cash flow and tenant stability.
   - Short-Term Rentals: Seton’s proximity to the South Health Campus and its modern urban design make it a viable location for short-term rentals (Airbnb, etc.), particularly for healthcare professionals or families visiting the area for extended stays.
 
+# Crescent Heights
+
+- **Nearby Amenities and Attractions:**
+  - Parks & Recreation: Crescent Heights is well-known for its access to Crescent Heights Park and the Crescent Road ridge, offering stunning views of the downtown skyline and the Bow River. The McHugh Bluff is a popular spot for walks, picnics, and outdoor activities.
+  - Schools: The area features Crescent Heights High School, one of Calgary's oldest high schools, and various elementary schools.
+  - Shopping & Dining: The community is close to 16th Avenue (Trans-Canada Highway), providing easy access to various shopping, dining, and service options. Bridgeland and Kensington are nearby, offering trendy restaurants and local boutiques.
+  - Transit: Proximity to downtown, with Centre Street and Edmonton Trail offering quick access to the city's core. It also benefits from major public transit routes, including future Green Line LRT expansion plans.
+
+- **Construction Timeline and Building Types:**
+  - When Houses Were Built: Crescent Heights is one of Calgary’s older communities, with homes originally built as early as the 1910s. Many of the original homes still stand today, though the area has seen significant redevelopment and modernization, especially with infills in recent years.
+  - Building Types: The community features a mix of single-family detached homes, luxury infills, and condominium developments. There are still some original historic homes, but new townhouses and multi-family buildings are increasingly common.
+
+- **Zoning Regulations:**
+  - Zoning: Crescent Heights features R-C2 (Residential – Contextual One/Two Dwelling District) zoning, which allows for duplexes and single-family homes, as well as higher-density zoning like M-C1 in some areas. This zoning permits the development of secondary suites and multi-family housing in certain sections of the neighborhood, making it flexible for real estate investors.
+  - Multi-Unit Potential: Due to the mix of zoning, Crescent Heights offers considerable potential for multi-family developments, including townhouses and small apartment buildings.
+
+- **Population and Growth:**
+  - Population: Crescent Heights has a population of approximately 6,200 residents, based on the latest city census.
+  - Population Growth: As a mature, inner-city neighborhood, Crescent Heights has a relatively stable population, with slight growth driven by redevelopment and infill projects.
+
+- **Average Income:**
+  - Income: The average household income in Crescent Heights is around $100,000, reflecting its diverse population, which includes professionals, families, and older residents.
+
+- **Crime Rate:**
+  - Crime: Crescent Heights experiences a low-to-moderate crime rate compared to other Calgary communities. Being near the downtown core, it faces some minor issues typical of urban areas, but overall, it is considered safe, especially in residential sections away from the busier commercial zones.
+
+- **Rental Supply and Demand:**
+  - Supply/Demand: Crescent Heights has strong rental demand due to its proximity to downtown Calgary, making it attractive to young professionals and students. The availability of older homes, apartments, and newer infills provides a range of rental options.
+
+- **Average Rents:**
+  - 1-bedroom apartments: around $1,200 to $1,500 per month.
+  - 2-bedroom apartments or duplexes: range between $1,500 to $2,200 per month.
+  - Larger single-family homes or infills: $2,500 to $3,500 per month, depending on the property size and amenities.
+
+- **Neighborhood Classification:**
+  - Classification: Crescent Heights is considered a B+ neighborhood. It is an established, desirable inner-city area with good access to amenities, though slightly less exclusive than Calgary’s A-class luxury neighborhoods.
+
+- **Long-Term Potential and Appreciation:**
+  - Appreciation Potential: Crescent Heights has seen steady appreciation due to its proximity to downtown and continued redevelopment efforts. It is expected to continue appreciating as more infill projects and infrastructure improvements (like the Green Line LRT) attract higher-income residents and professionals.
+  - Cash Flow Potential: With strong rental demand and relatively stable property values, Crescent Heights is a good option for investors seeking a balance of appreciation and cash flow.
+
+- **Average House Prices:**
+  - Average House Prices: The average price of single-family homes in Crescent Heights ranges from $600,000 to $1.2 million, depending on the property type, size, and proximity to the ridge and downtown views. Condos and apartments range between $200,000 to $500,000.
+
+- **Real Estate Investment Strategies:**
+  - Buy and Hold: Given its proximity to downtown and redevelopment potential, Crescent Heights is ideal for investors looking to buy and hold properties for long-term appreciation. The neighborhood’s steady demand makes it a safe bet for capital gains.
+  - Infill Development: For developers, Crescent Heights offers significant opportunities to purchase older properties on larger lots, redevelop them into luxury infills or multi-family dwellings, and sell or rent at a premium.
+  - Rental Properties: Investing in existing rental units or creating secondary suites in R-C2 zoned areas can provide consistent rental income. The neighborhood attracts high-quality tenants, including professionals and young families.
+  - Condo Investment: With moderate entry costs and strong rental demand, condos in Crescent Heights can be a viable strategy for investors looking to start with a smaller investment while capitalizing on proximity to downtown amenities.
+
 # Cochrane, Surrounding Towns
 
 - With stunning mountain views and an outdoor lifestyle, Cochrane is growing rapidly. Its proximity to Calgary and a strong sense of community make it appealing to families. Rental properties here are in demand, particularly from commuters working in Calgary.
