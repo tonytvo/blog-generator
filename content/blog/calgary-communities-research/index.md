@@ -1248,6 +1248,8 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 - With stunning mountain views and an outdoor lifestyle, Cochrane is growing rapidly. Its proximity to Calgary and a strong sense of community make it appealing to families. Rental properties here are in demand, particularly from commuters working in Calgary.
 
+- Rental demand is strong due to population growth and proximity to major employment centers like the airport and CrossIron Mills.
+
 - **Strategy:** Buy-and-hold or vacation rentals
   - **Why:** Cochrane is ideal for buy-and-hold investments due to its proximity to Calgary and appeal as a recreational destination. Investors can also explore vacation rentals for tourists.
 
@@ -1255,12 +1257,16 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 - Airdrie is a rapidly growing town that offers a variety of housing options. It’s affordable compared to Calgary, which attracts buyers and renters. The rental market is steady, and as Calgary expands, Airdrie’s appeal continues to grow.
 
+- Rental demand is strong due to population growth and proximity to major employment centers like the airport and CrossIron Mills.
+
 - **Strategy:** Turnkey rentals or rent-to-own
   - **Why:** Airdrie offers affordable housing options with high demand from commuters. Turnkey rentals provide immediate cash flow, while rent-to-own strategies can help aspiring homeowners enter the market.
 
 # Chestermere, Surrounding Towns
 
 - Known for its lake, Chestermere is popular for families seeking a lifestyle community. Homes here are larger, and there is demand for rental properties due to its proximity to Calgary and appeal for recreational activities.
+
+- Rental demand is strong due to population growth and proximity to major employment centers like the airport and CrossIron Mills.
 
 - **Strategy:** Buy-and-hold or luxury rentals
   - **Why:** Chestermere’s lakeside appeal makes it a strong candidate for buy-and-hold investments. Luxury rentals targeting families seeking recreational amenities can generate higher rental yields.
@@ -1288,8 +1294,6 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # unsorted
 
-Northeast Calgary
-Whitehorn, Rundle, Pineridge, Temple: Working-class communities close to transit and employment hubs like the airport. These areas offer affordable housing with strong rental demand, especially from families. Properties near the CTrain line are particularly desirable.
 Surrounding Towns
 Cochrane, Airdrie, Chestermere: These towns are seeing increased demand from buyers looking for more affordable options outside Calgary. Rental demand is strong due to population growth and proximity to major employment centers like the airport and CrossIron Mills.
 
