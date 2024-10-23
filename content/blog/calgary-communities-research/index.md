@@ -1294,6 +1294,55 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
   - Rental Properties: Investing in existing rental units or creating secondary suites in R-C2 zoned areas can provide consistent rental income. The neighborhood attracts high-quality tenants, including professionals and young families.
   - Condo Investment: With moderate entry costs and strong rental demand, condos in Crescent Heights can be a viable strategy for investors looking to start with a smaller investment while capitalizing on proximity to downtown amenities.
 
+# Rosedale
+
+- **Nearby Amenities and Attractions:**
+  - Parks & Recreation: Rosedale is a highly desirable community with proximity to McHugh Bluff Park and access to Prince's Island Park and the Bow River pathways. The Rosedale Off-Leash Park is popular among dog owners. It's also close to the Kensington Village shopping area, which offers trendy dining, cafes, and local boutiques.
+  - Schools: The area is home to Rosedale School, serving kindergarten through grade 9, and is close to other top-rated schools in nearby neighborhoods.
+  - Shopping & Dining: Close to Kensington and downtown Calgary, offering ample shopping, dining, and entertainment options. The community is also near SAIT Polytechnic and the Alberta University of the Arts.
+  - Transit: Rosedale is located near 10th Street NW and 16th Avenue NW (Trans-Canada Highway), offering quick access to public transit and key routes in and out of the city.
+
+- **Construction Timeline and Building Types:**
+  - When Houses Were Built: Homes in Rosedale were primarily built between the 1920s and 1950s, making it one of Calgary's older, established neighborhoods. Many original homes still exist, but there has been significant redevelopment over the years.
+  - Building Types: Rosedale primarily consists of single-family detached homes, with a mix of character homes, bungalows, and luxury infills. There has been some modern infill development, but it remains largely a low-density, residential community.
+
+- **Zoning Regulations:**
+  - Zoning: Rosedale is mainly zoned as R-C1 (Residential – Contextual One Dwelling District), which allows for single-family homes. There is limited multi-family or duplex zoning, but infill development is common in areas where zoning permits.
+  - Multi-Unit Potential: The zoning is predominantly for single-family homes, but redevelopment of older homes into luxury infills has become a trend.
+
+- **Population and Growth:**
+  - Population: Rosedale has a small population of around 1,600 residents. Being a relatively low-density neighborhood, it has experienced only modest population growth.
+  - Population Growth: Growth is stable due to limited land availability for new development. The trend is focused on redevelopment rather than population expansion.
+
+- **Average Income:**
+  - Income: Rosedale is an affluent community with an average household income significantly above the city’s median, typically ranging above $150,000 per year.
+
+- **Crime Rate:**
+  - Crime: Rosedale has a low crime rate, consistent with many of Calgary's inner-city residential neighborhoods. It is considered a very safe area with minimal reported crime.
+
+- **Rental Supply and Demand:**
+  - Supply/Demand: Rosedale is primarily a homeownership community, with limited rental supply. However, rental properties, particularly for larger homes and infills, can command premium rents due to the area’s desirability and proximity to downtown and amenities.
+
+- **Average Rents:**
+  - 3-bedroom single-family homes: Typically rent for $2,500 to $3,500 per month, depending on the property.
+  - Luxury infill homes: Can command higher rents, in the range of $4,000 or more.
+
+- **Neighborhood Classification:**
+  - Classification: Rosedale is considered an A-class neighborhood due to its prime location, high property values, and strong demand for real estate.
+
+- **Long-Term Potential and Appreciation:**
+  - Appreciation Potential: Rosedale has excellent long-term appreciation potential due to its proximity to downtown Calgary and the ongoing redevelopment of older properties into luxury infills. The neighborhood has consistently seen property values rise over the years, making it attractive for both investors and homeowners.
+  - Cash Flow Potential: Cash flow opportunities exist but are more limited, as Rosedale is a higher-end market with fewer rental properties. Real estate investments here are more likely to focus on appreciation than cash flow.
+
+- **Average House Prices:**
+  - Average House Prices: Single-family homes in Rosedale typically range from $900,000 to $2.5 million, depending on the property’s age, condition, and size. Larger luxury infills can exceed the $2 million mark.
+
+- **Real Estate Investment Strategies:**
+  - Luxury Infill Development: Investors can capitalize on the opportunity to purchase older homes on larger lots, demolish, and build luxury infills. These homes appeal to high-income professionals and families seeking proximity to downtown.
+  - Buy and Hold: Given the long-term appreciation potential, Rosedale is a solid buy-and-hold market. Investors can benefit from steady property value growth and potential redevelopment opportunities in the future.
+  - Renovation and Resale (Fix and Flip): Many original homes in Rosedale are well-suited for renovation. Investors can renovate older properties and sell them at a premium, given the high demand for modernized homes in the area.
+  - Luxury Rentals: For those looking to hold onto properties, there is potential for strong rental income, particularly with luxury homes and infills. While not a typical cash-flow neighborhood, high-end properties can command premium rents.
+
 # Cochrane, Surrounding Towns
 
 - With stunning mountain views and an outdoor lifestyle, Cochrane is growing rapidly. Its proximity to Calgary and a strong sense of community make it appealing to families. Rental properties here are in demand, particularly from commuters working in Calgary.
