@@ -791,10 +791,50 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # Tuscany, northwest
 
-- A family-focused community, Tuscany offers detached homes, townhouses, and easy access to Tuscany LRT. Its schools and parks make it desirable for families, leading to steady demand for rentals and homeownership.
+- **Nearby Amenities and Attractions:**
+  - Parks and Recreation: Tuscany is surrounded by beautiful parks and trails. Notable nearby attractions include Bowness Park, Bowmont Park, and the Tuscany Club, a private recreational facility for residents. The community also offers access to the Rocky Mountains for outdoor activities like hiking, skiing, and camping.
+  - Shopping: Tuscany offers local shopping at the Tuscany Market, which includes grocery stores, restaurants, and essential services. For more extensive shopping, Crowfoot Crossing is nearby, featuring a large selection of shops, dining, and entertainment options.
+  - Schools: Tuscany has several schools within the community, including Tuscany Elementary School and St. Basil Catholic School.
+  - Transportation: Tuscany has access to the Tuscany CTrain Station, making commuting to downtown Calgary convenient.
 
-- **Strategy:** Buy-and-hold with short-term rentals
-  - **Why:** Tuscany’s family-friendly nature and good transit access make it ideal for buy-and-hold investments. Short-term rentals targeting professionals and families visiting the city could also be an option due to Tuscany’s proximity to tourist attractions like the
+- **Housing Development and Building Types:**
+  - When Houses Were Built: The majority of homes in Tuscany were built between the 1990s and early 2000s, making it a relatively newer community compared to others in Calgary.
+  - Common Building Types: Tuscany primarily consists of single-family detached homes, but there are also townhouses and condominiums in the area. Homes are typically modern with various architectural styles.
+
+- **Zoning Regulations:**
+  - Zoning: Tuscany is zoned primarily for low-density residential development (R-1 and R-2 zones), meaning the focus is on single-family homes and some duplexes. While most lots are zoned for single-family residences, some areas allow for duplexes or townhomes.
+Multiple Units: While the zoning generally supports single-family homes, some areas allow for semi-detached homes or townhomes but not higher-density developments.
+
+- **Population and Growth:**
+  - Population: Tuscany has a population of around 19,500 residents (2023), making it one of the larger communities in Calgary.
+  - Population Growth: Tuscany has seen steady growth since its development in the 1990s due to its family-friendly atmosphere, amenities, and location. Growth has stabilized as the community is now largely developed.
+
+- **Average Income:**
+  - Average Income: The average household income in Tuscany is approximately $120,000 to $130,000, reflecting its status as a middle-to-upper-income community.
+
+- **Crime Rate:**
+  - Crime Rate: Tuscany has a relatively low crime rate, which contributes to its reputation as a safe, family-friendly neighborhood. Most crimes in the area are non-violent and property-related, such as minor thefts.
+
+- **Rental Market and Demand:**
+  - Rental Supply and Demand: Tuscany's rental market has moderate demand due to its family-oriented nature, proximity to schools, and access to the CTrain. However, the community is more owner-occupied, with limited rental supply.
+
+- **Average Rents:** Rent for a single-family home in Tuscany ranges from $2,000 to $2,800 per month, while condos and townhomes typically rent for around $1,500 to $1,800 per month.
+
+- **Neighborhood Classification:**
+  - Neighborhood Classification: Tuscany is considered an A-class neighborhood, with its strong demand, amenities, and family-friendly environment contributing to high property values.
+
+- **Long-Term Appreciation Potential:**
+  - Appreciation vs. Cash Flow: Tuscany offers strong long-term appreciation potential due to its desirable location, amenities, and proximity to transit. While cash flow from rentals might be moderate, the community's stability and demand make it a good bet for appreciation.
+
+- **Average House Prices:**
+  - Average House Prices: The average price of a single-family home in Tuscany is around $600,000 to $700,000, with some higher-end homes reaching above $800,000. Townhomes and condos are priced lower, ranging from $300,000 to $400,000.
+
+- **Real Estate Investment Strategies:**
+  - Buy and Hold for Appreciation: Tuscany's strong long-term appreciation potential makes it ideal for a buy-and-hold strategy. Investors could purchase a property and benefit from gradual value growth over the years.
+  - Single-Family Rentals: While Tuscany is more owner-occupied, renting out a single-family home can generate steady rental income, especially for families seeking a safe, well-connected neighborhood.
+  - Townhouse or Condo Rentals: For those seeking lower entry costs, investing in townhomes or condos for rental purposes could work, particularly for younger professionals or small families.
+  - Rent-to-Own: Given the family demographic in Tuscany, a rent-to-own strategy could appeal to young families looking to buy in the future but needing a more flexible purchasing arrangement initially.
+  - short-term rentals: Tuscany’s family-friendly nature and good transit access make it ideal for buy-and-hold investments. Short-term rentals targeting professionals and families visiting the city could also be an option due to Tuscany’s proximity to tourist attractions
 
 # Silver Springs, northwest
 
