@@ -1273,10 +1273,51 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 # Mount Royal, High-End
 
-- A historic luxury neighborhood, Mount Royal is home to Calgary’s elite. With large estate homes and proximity to downtown, it remains one of the most prestigious areas in the city. However, prices are high, and appreciation is more moderate due to the already premium pricing.
+- **Nearby Amenities and Attractions:**
+  - Shopping & Services: Mount Royal is near 17th Avenue SW, known for its vibrant shopping and dining options. There are numerous boutiques, cafes, and restaurants nearby, offering high-end retail experiences. Mount Royal Village and The CORE Shopping Centre are also in close proximity.
+  - Parks & Recreation: The community is close to green spaces like Royal Sunalta Park and Tomkins Park, and offers access to Stanley Park and Elbow River pathways, perfect for outdoor activities.
+  - Schools: The area includes top schools like Mount Royal School, Western Canada High School, and is also near Calgary’s private schools such as Strathcona-Tweedsmuir School.
 
-- **Strategy:** Luxury buy-and-hold
-  - **Why:** Mount Royal’s premium housing market offers steady long-term appreciation. Investors in high-end properties can capitalize on luxury rentals or hold properties for future gains.
+- **Housing and Construction Timeline:**
+  - Construction Period: Most homes in Mount Royal were built between the 1900s and 1950s, with some newer developments and renovations in the last few decades. The area is known for its historic homes, particularly early 20th-century mansions.
+  - Common Building Types: The housing in Mount Royal is characterized by large, luxury single-family detached homes. Many homes have been renovated or rebuilt, maintaining a high-end residential appeal.
+
+- **Zoning Regulations:**
+  - Zoning: Mount Royal primarily falls under R-1 (Residential Single-Detached Dwelling) zoning, limiting higher-density developments to preserve its exclusive nature. However, some parts of Lower Mount Royal include zoning for multi-family dwellings and townhouses, allowing for some higher-density housing in select areas.
+  - Multi-Unit Potential: The majority of Mount Royal is zoned to preserve the character of large-lot, single-family homes. Multi-family development is limited but can be found in Lower Mount Royal.
+
+- **Population and Growth:**
+  - Population: The population of Mount Royal is around 5,000 residents, with a stable demographic primarily consisting of affluent families.
+  - Population Growth: As a historic and established community, population growth in Mount Royal is relatively stable, with limited new development due to its zoning restrictions.
+
+- **Average Income:**
+  - Income: Mount Royal is one of Calgary’s wealthiest neighborhoods, with an average household income exceeding $250,000. It is home to many high-income professionals, business owners, and executives.
+
+- **Crime Rate:**
+  - Crime Rate: Mount Royal has a low crime rate, with most incidents being minor property-related offenses. It is considered one of the safest neighborhoods in Calgary due to its affluence and residential nature.
+
+- **Rentals Supply and Demand:**
+  - Supply/Demand: Rental supply is limited, as most properties in Mount Royal are owner-occupied luxury homes. However, Lower Mount Royal provides more rental opportunities, particularly in apartments and townhouses.
+
+- **Average Rents:**
+  - Single-family homes: Rents for large detached homes can exceed $4,000 to $6,000 per month.
+  - Apartments and townhouses in Lower Mount Royal can range from $1,500 to $2,500 per month.
+
+- **Neighborhood Classification (A, B, C, D):**
+  - Classification: Mount Royal is an A+ neighborhood, known for its exclusivity, high property values, and strong desirability among Calgary's affluent residents.
+
+- **Long-Term Potential for Appreciation and Cashflow:**
+  - Appreciation: Mount Royal has consistently shown strong appreciation over the years, driven by its reputation as a premier Calgary community. The area’s historic charm, proximity to downtown, and limited housing supply help maintain high property values.
+  - Cashflow: While cash flow potential may be lower due to high property acquisition costs, long-term appreciation and rental rates for luxury properties provide a stable investment outlook.
+
+- **Average House Prices:**
+  - House Prices: Mount Royal is one of Calgary’s most expensive neighborhoods, with average single-family home prices ranging from $1.5 million to over $5 million, depending on the property size and level of luxury.
+
+- **Real Estate Investment Strategies:**
+  - Luxury Home Rentals: Mount Royal offers opportunities for luxury rentals, particularly for corporate executives or high-net-worth individuals relocating to Calgary.
+  - Buy and Hold: For investors looking at long-term appreciation, buying and holding a luxury property in Mount Royal is a viable strategy. The consistent demand and high property values make this community a strong candidate for long-term gains.
+  - Renovation and Upscaling: Some of the older historic homes in Mount Royal offer potential for high-end renovations. Investors can upgrade these properties to match modern luxury standards and sell at a premium price.
+  - Multi-Family Investment (Lower Mount Royal): While Upper Mount Royal is predominantly single-family, Lower Mount Royal offers opportunities for multi-family investments in townhouses and apartments. This area sees higher rental demand due to its proximity to downtown and more affordable housing options.
 
 # Bel-Aire, High-End
 
@@ -1291,12 +1332,6 @@ Strathcona Park has a relatively low crime rate compared to other Calgary commun
 
 - **Strategy:** Luxury buy-and-hold or executive rentals
   - **Why:** Aspen Woods is ideal for long-term holding due to its high demand and premium status. Executive rentals targeting corporate tenants or affluent families provide steady rental income.
-
-# unsorted
-
-Surrounding Towns
-Cochrane, Airdrie, Chestermere: These towns are seeing increased demand from buyers looking for more affordable options outside Calgary. Rental demand is strong due to population growth and proximity to major employment centers like the airport and CrossIron Mills.
-
 
 # Quotes
 
