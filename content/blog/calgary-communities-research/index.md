@@ -1637,6 +1637,57 @@ Multiple Units: While the zoning generally supports single-family homes, some ar
   - Secondary Suites: With zoning that supports duplexes or suites, investors can enhance cash flow by creating secondary suites where permissible.
   - Townhouse and Condo Rentals: With lower purchase prices and stable rental demand, investing in townhouses or condos could yield consistent returns.
 
+# Auburn Bay, NW
+
+- **Nearby Amenities and Attractions**
+  - Recreation: Auburn Bay is a lake community offering residents access to a private 43-acre lake, sandy beach, and park space. The community’s Auburn House provides recreational facilities, sports fields, and various programs.
+  - Shopping and Dining: Close to Seton Urban District, Auburn Bay offers convenient access to shopping and dining, including grocery stores, cafes, restaurants, and fitness centers. Seton also has the South Health Campus, making it an attractive area for healthcare workers.
+  - Schools: Auburn Bay has several schools nearby, including Auburn Bay School, Prince of Peace School, and Joane Cardinal-Schubert High School. More schools are planned as the area continues to grow.
+
+- **Construction Era**
+  - Auburn Bay’s development began in the mid-2000s, with most homes built between 2005 and the present. The community features modern designs with numerous architectural styles, primarily for family-oriented living.
+
+- **Common Building Types**
+  - Auburn Bay includes a mix of single-family homes, townhomes, and condominiums. Homes often feature modern finishes, with a variety of sizes catering to both large families and smaller households.
+
+- **Zoning Regulations**
+  - Auburn Bay is primarily residentially zoned, with a mix of R-1 (single-detached), R-2 (single and semi-detached), and M-CG (multi-residential) zoning types. Some zoning allows for secondary suites, depending on location, which can enhance investment returns by allowing additional rental units on certain properties.
+
+- **Population and Growth**
+  - Auburn Bay has a population of approximately 15,000 residents, and the area has seen significant growth over the past decade due to its desirable location, amenities, and newer housing stock. Population growth is expected to continue as more developments are completed in the area.
+
+- **Average Income**
+  - The average household income in Auburn Bay is approximately $140,000, which is above the Calgary median. This higher income level aligns with Auburn Bay's profile as a desirable family-oriented community with modern amenities, attractive housing, and proximity to the South Health Campus and Seton Urban District. This supports higher-end rentals and owner-occupied properties.
+
+- **Crime Rate**
+  - Auburn Bay is considered a safe community, with crime rates lower than Calgary’s average, making it appealing for families and long-term renters. Crimes reported are primarily minor, such as thefts from vehicles and occasional property-related incidents, rather than violent crimes. This low rate aligns with Auburn Bay's demographic of young families and professionals.
+
+- **Rental Market (Supply/Demand and Average Rents)**
+
+  - Rental Demand: Auburn Bay’s proximity to the South Health Campus, as well as its recreational offerings, creates strong rental demand, especially from healthcare professionals and families.
+  - Average Rents:
+    - 1-bedroom condos: Approximately $1,500 per month
+    - 2-bedroom townhomes: Around $2,000 per month
+    - Single-family homes: Between $2,500 and $3,200 per month, depending on size and finishes
+
+- **Neighborhood Grade**
+  - Auburn Bay is generally rated as an A neighborhood due to its modern homes, recreational amenities, proximity to healthcare facilities, and shopping access.
+
+- **Long-Term Potential**
+  - Appreciation: Auburn Bay has shown stable appreciation as a desirable lake community. Its continued popularity and the expansion of nearby Seton and the South Health Campus suggest positive appreciation potential.
+  - Cash Flow: Higher property values can make it challenging to achieve cash flow from rentals alone. However, secondary suites in zoned areas or well-placed investments in condos or townhomes can support positive returns.
+
+- **Average House Prices**
+  - Condos: $250,000 to $400,000, depending on size and location
+  - Townhomes: $350,000 to $500,000
+  - Single-family homes: $500,000 to $900,000 or more, with lakefront homes at the higher end
+
+- **Real Estate Investment Strategies**
+  - Buy and Hold: Auburn Bay’s strong appreciation and demand make it ideal for a buy-and-hold strategy, especially for single-family homes and townhomes.
+  - Rental Properties: Condos and townhomes can generate consistent rental income. Investors can appeal to families and professionals who want proximity to recreational amenities and healthcare facilities.
+  - Secondary Suites: For properties zoned for secondary suites, this strategy can improve rental yields by creating multi-unit opportunities on one property.
+  - Furnished Rentals: Due to the nearby hospital, short-term or medium-term furnished rentals for healthcare workers may generate premium returns.
+
 # Quotes
 
 
