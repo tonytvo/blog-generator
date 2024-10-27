@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - give me detailed outline on the Bowness in Calgary with the following questions:
+>  - give me detailed outline on the Panorama Hills in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
@@ -1737,6 +1737,74 @@ Multiple Units: While the zoning generally supports single-family homes, some ar
   - Buy-and-Hold Strategy: Given the neighborhood’s B to C grading and the stable rental demand, a buy-and-hold approach suits investors aiming for long-term appreciation. Older properties can offer initial lower entry points, with gradual value appreciation.
   - Renovation and Infill Development: Bowness’s mix of zoning allows for redevelopment or infill projects, ideal for investors interested in property upgrades or multi-unit buildings. By improving property standards, investors can enhance rental income and boost property values.
   - Multi-Family Rental Units: Multi-unit properties, particularly duplexes or small apartment buildings, align well with local demand and zoning allowances, making it possible for investors to capitalize on rental yields with minimal vacancies.
+
+# Panorama Hills, NW
+
+- **Nearby Amenities and Attractions:**
+
+  - Shopping: Country Hills Town Centre offers various retail outlets, grocery stores (like Sobeys and Save-On-Foods), banks, and dining options. Additional shopping areas nearby include Creekside Shopping Centre and Beacon Hill Shopping Centre, both offering a mix of big-box stores and boutique shops.
+  - Recreation: Vivo for Healthier Generations (Cardel Place) is a major recreational center in the area, featuring an indoor pool, skating rink, climbing wall, and gym facilities. Panorama Hills also has its own private Residents Association, which provides access to a community park with a spray park, picnic area, and winter skating.
+  - Parks and Pathways: Numerous parks dot the neighborhood, such as the Panorama Hills Community Park, and residents have easy access to Nose Hill Park, one of Calgary’s largest natural parks. The community also has an extensive pathway system ideal for walking, running, and biking.
+  - Schools: The area has a variety of public and Catholic schools, including Panorama Hills School (K-4), Captain Nichola Goddard School (5-9), and Notre Dame High School (10-12), catering to different age groups and educational preferences.
+
+- **Housing Age:**
+
+  - Panorama Hills is a relatively newer community, with development beginning in the late 1990s. Most homes were built from the early 2000s through the mid-2010s, which means that properties are generally modern in design, with recent upgrades and infrastructure.
+
+- **Common Building Types:**
+
+  - The majority of properties are single-family detached homes, with a mix of two-story and bungalow-style homes. Additionally, there are several townhome and semi-detached options scattered throughout the community, as well as a few low-rise apartment-style condos. This range of housing caters to diverse demographics, including families, young professionals, and retirees.
+
+- **Zoning Regulations:**
+
+  - Zoning in Panorama Hills is primarily residential (R-1), which allows for single-family dwellings, and R-2 zoning in some areas, which allows for duplexes or semi-detached homes. In recent years, there has been increased interest in allowing secondary suites and laneway homes on larger lots, though zoning permits and approvals are handled case-by-case. Multi-unit developments are present but limited to specific pockets zoned for multi-residential low profile (M-C1). For investors, zoning that allows for secondary suites can increase rental income potential.
+
+- **Population and Growth:**
+
+  - Panorama Hills is one of the largest suburban communities in Calgary, with a population of approximately 25,000 residents. The area experienced rapid growth in the 2000s and 2010s, as the suburban demand increased. Although the population growth has moderated recently, Panorama Hills continues to attract families and individuals due to its suburban appeal, amenities, and well-planned community layout.
+
+- **Average Income:**
+
+  - The average household income in Panorama Hills is generally higher than Calgary’s median, estimated to be around $110,000 to $120,000 annually. This reflects the family-oriented demographic, with many residents working in professional roles, contributing to the area’s reputation as an upper-middle-income community.
+
+- **Crime Rate:**
+
+  - Panorama Hills has a lower crime rate compared to Calgary’s city average, with most incidents being minor, such as property crime or traffic violations. The community’s active residents' association, neighborhood watch programs, and overall family-oriented demographic contribute to its safety.
+
+- **Rental Supply and Demand:**
+
+  - Rental demand in Panorama Hills is steady, though not as high as in more central neighborhoods. The majority of rental properties are single-family homes and townhomes, often attracting long-term tenants such as families and professionals. Supply can be limited due to the preference for homeownership in this neighborhood, which can contribute to higher rental rates when demand increases.
+
+- **Average Rents:**
+
+  - Rents in Panorama Hills generally range from approximately:
+    - 1-bedroom condos: $1,300–$1,500/month
+    - 2-bedroom townhomes: $1,700–$1,900/month
+    - 3-bedroom single-family homes: $2,100–$2,500/month
+    - Rental rates are slightly higher than Calgary’s average for similar property types, which reflects the area’s amenities and family-friendly appeal.
+
+- **Neighborhood Classification (A, B, C, D):**
+
+  - Panorama Hills would typically be classified as a B-grade neighborhood due to its newer housing stock, higher income levels, low crime rate, and strong local amenities. It’s not as high-end as an A-grade neighborhood but offers many attractive features that support a stable and pleasant lifestyle.
+
+- **Long-Term Potential for Appreciation:**
+
+  - Historically, property values in Panorama Hills have appreciated at a moderate but stable rate, in line with suburban trends. Given the steady demand from families and the well-developed amenities, the neighborhood offers potential for appreciation, especially if new infrastructure projects improve connectivity. However, appreciation may be slower compared to Calgary’s inner-city neighborhoods, making Panorama Hills better suited for investors focused on long-term holding and gradual appreciation rather than high cashflow returns.
+
+- **Average House Prices:**
+
+  - Average prices vary by property type:
+    - Single-family detached homes: $600,000–$800,000
+    - Townhomes: $300,000–$450,000
+    - Condos: $250,000–$350,000
+    - Prices reflect Panorama Hills' suburban nature, with a higher emphasis on single-family homes, which tend to maintain value due to high demand among families.
+
+- **Real Estate Investment Strategies:**
+
+  - Buy and Hold: Ideal due to stable property values, moderate appreciation potential, and steady rental demand.
+  - Secondary Suite Conversion: Properties with zoning that permits secondary suites can increase rental income, as demand for rental properties remains steady.
+  - Rent-to-Own: This strategy could work well for this area, catering to families or individuals seeking homeownership without an immediate down payment.
+  - Townhome and Condo Rentals: Suitable for investors looking to minimize maintenance costs while renting to families or young professionals.
 
 # Quotes
 
