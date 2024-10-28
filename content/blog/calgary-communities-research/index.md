@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - give me detailed outline on the Panorama Hills in Calgary with the following questions:
+>  - give me detailed outline on the Evergreen neighborhood in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
@@ -1805,6 +1805,65 @@ Multiple Units: While the zoning generally supports single-family homes, some ar
   - Secondary Suite Conversion: Properties with zoning that permits secondary suites can increase rental income, as demand for rental properties remains steady.
   - Rent-to-Own: This strategy could work well for this area, catering to families or individuals seeking homeownership without an immediate down payment.
   - Townhome and Condo Rentals: Suitable for investors looking to minimize maintenance costs while renting to families or young professionals.
+
+# Evergreen, SW
+
+- **Nearby Amenities and Attractions**
+  - Amenities: Proximity to major shopping centers, grocery stores, fitness centers, cafes, and essential services within the neighborhood.
+  - Parks and Recreation: Nearby Fish Creek Provincial Park, playgrounds, walking and biking trails.
+  - Educational Facilities: Schools within and near Evergreen, such as public and Catholic options.
+  - Healthcare: Nearby access to healthcare facilities, including South Health Campus.
+
+- **Common House Construction Period**
+  - Typical Construction Period: Predominantly built from the late 1990s through the 2000s.
+  - Architectural Style: Modern suburban single-family homes, townhouses, and a few apartment complexes.
+
+- **Common Building Types**
+  - Building Types: Primarily single-family detached homes, with some duplexes, townhouses, and low-rise condos.
+  - Ownership vs. Rental: High ownership rates, with a smaller rental market.
+
+- **Zoning Regulations**
+  - Residential Zoning: Evergreen is largely zoned for low- to medium-density residential.
+  - Multi-Unit Possibility: Certain zoning may allow secondary suites or duplexes; limited multi-unit options per lot.
+
+- **Population and Growth**
+  - Current Population: Evergreen has an estimated population in the mid-20,000s.
+  - Growth Trend: Moderate growth, with suburban appeal attracting families and young professionals.
+
+- **Average Income in the Area**
+  - The average income in Evergreen is generally above Calgary's overall median, with a typical household income estimated to be around CAD 90,000 to CAD 100,000. This figure reflects the neighborhood's appeal to families and professionals seeking a suburban lifestyle with convenient access to city amenities.
+
+- **Crime Rate**
+  - Crime Statistics: Generally low crime rates; Evergreen is considered a safe residential area.
+
+- **Rental Supply and Demand**
+  - Supply/Demand: Modest rental supply due to high ownership rates, but steady demand given proximity to amenities and transportation.
+  - Vacancy Rates: Low to moderate, reflecting healthy demand in the area.
+
+- **Average Rents**
+  - Single-family homes: Typically range from CAD 2,000 to CAD 2,500 per month, depending on size and amenities.
+  - Townhouses: Average around CAD 1,700 to CAD 2,100 monthly.
+  - Condos or Apartments: Generally range between CAD 1,300 and CAD 1,700, depending on the number of bedrooms and included features.
+  - These rents reflect the moderate demand and family-friendly appeal in Evergreen, aligning with Calgary's suburban rental market rates.
+
+- **Neighborhood Classification (A, B, C, D)**
+  - Class: Evergreen is typically considered a B-Class neighborhood due to its family appeal, safety, and stable property values.
+
+- **Long-term Potential Appreciation vs. Current Returns and Cash Flow**
+  - Appreciation Potential: Positive long-term appreciation due to ongoing suburban development and demand.
+  - Current Returns and Cash Flow: Balanced, with mid-range rents offsetting high ownership demand.
+
+- **Average House Prices**
+  - Single-family detached homes: Typically range from CAD 550,000 to CAD 700,000, depending on size, age, and specific features.
+  - Townhouses: Average around CAD 350,000 to CAD 450,000.
+  - Condos: Generally range between CAD 250,000 and CAD 350,000, depending on location and amenities.
+  - These prices reflect Evergreen's status as a popular suburban neighborhood with a mix of newer developments and established homes, appealing to families and professionals alike.
+
+- **Real Estate Investment Strategies**
+  - Buy-and-Hold: Capitalize on long-term appreciation, particularly for single-family homes.
+  - Rental Investment: Rental demand could be leveraged with single-family homes or townhouses.
+  - Value-Add: Potential in properties that may allow for secondary suites.
+  - Long-Term Appreciation: Steady growth appeals to investors seeking stable appreciation over time.
 
 # Quotes
 
