@@ -22,6 +22,23 @@ tags: ["realestate"]
 - what real estate investment strategies could work for this neighborhood?
 - ![calgary communities](./calgary-communities.jpg)
 
+- what's the prompt for AI to get more information on the communities?
+>  - give me more information on the community name=thorncliff in Calgary with the following questions:
+>    - what are nearby amenities, attractions?
+>    - when was the houses were commonly built?
+>    - what are the common building type?
+>    - what are the zoning regulations? does zoning regulations allows more units per lot?
+>    - what is the population? what is the population growth?
+>    - what is the average income in the area?
+>    - what is the crime rate?
+>    - what are the rentals supply/demand in the communities?
+>    - what are the average rents?
+>    - is it A, B, C, D neighborhood?
+>    - what are the long-term potential appreciation compared to current returns and cashflow?
+>    - what is average house prices?
+>    - what real estate investment strategies could work for this neighborhood?
+
+
 # Thorncliff, +, +++
 
 - Thorncliffe offers larger lot sizes and older homes,
@@ -1517,6 +1534,53 @@ Multiple Units: While the zoning generally supports single-family homes, some ar
 
 - **Strategy:** Luxury buy-and-hold or executive rentals
   - **Why:** Aspen Woods is ideal for long-term holding due to its high demand and premium status. Executive rentals targeting corporate tenants or affluent families provide steady rental income.
+
+# Cedarbrae, SW
+
+- **Nearby Amenities and Attractions:**
+  - Cedarbrae is well-positioned with quick access to shopping centers, schools, parks, and recreational areas. Southland Leisure Centre is a notable nearby attraction, offering a variety of fitness and recreational facilities. Fish Creek Provincial Park, one of the largest urban parks in North America, is also a short drive away, adding outdoor activities to the appeal. The community has several shopping options nearby, including Southcentre Mall and several grocery stores.
+
+- **Construction Era:**
+  - Cedarbrae was developed primarily during the 1970s and 1980s, with homes reflecting a mix of styles typical of that period. Many homes have seen updates over the years, but original structures remain common.
+
+- **Common Building Types:**
+  - The community features a variety of housing options, including single-family detached homes, townhouses, and low-rise apartments. Cedarbrae offers a mix of housing for families, professionals, and retirees, which supports demand from a broad range of tenants.
+
+- **Zoning Regulations:**
+  - The area predominantly falls under residential zoning, including R-C1 (single-detached dwellings) and R-C2 (which allows duplexes or suites on the same lot). These zoning codes make Cedarbrae suitable for potential investors looking to add secondary suites, where permissible by the city.
+
+- **Population and Growth:**
+  - The population of Cedarbrae was around 6,000 as of the last census. Growth rates have been relatively stable, with gradual increases as more amenities and redevelopment projects continue to attract residents.
+
+- **Average Income:**
+  - The average household income in Cedarbrae is moderate, generally aligning with Calgary's median income levels, $85,000 to $95,000 per year. This makes it an accessible community for renters and buyers alike, as affordability remains a strength of the area.
+
+- **Crime Rate:**
+  - Cedarbrae is considered a safe neighborhood with crime rates slightly below Calgary’s average, overall crime rate approximately 24% higher than the national average in Canada, with residents having a 1 in 20 chance of experiencing crime. In 2024, Cedarbrae saw a total of around 45 reported crimes by April, averaging approximately 3.8 crimes per month. Vehicle-related incidents, such as thefts from vehicles, are among the most common property crimes, with 29 incidents reported in the last year. However, violent crimes, including non-domestic assaults, are lower than the national average, with a slightly decreased risk compared to nearby Calgary neighborhoods. The community has established neighborhood watch programs and is known for its family-friendly environment.
+
+- **Rental Market (Supply/Demand and Average Rents):**
+  - Cedarbrae has a strong rental market with steady demand, given its proximity to amenities and schools. Average rental prices vary by property type:
+  - 1-bedroom apartments: Around $1,200–$1,400 per month
+  - 2-bedroom apartments/townhouses: $1,500–$1,700
+  - Single-family homes: $1,800–$2,200
+
+- **Neighborhood Grade:**
+  - Cedarbrae is often categorized as a B to B+ neighborhood, with solid potential for appreciation due to its amenities, safety, and rental demand.
+
+- **Long-Term Potential:**
+  - Appreciation: Cedarbrae’s central location, affordability, and amenities make it a candidate for moderate appreciation. Although it may not see the same fast appreciation as Calgary's high-demand communities, its stable growth makes it a dependable option.
+  - Cash Flow: Given the lower entry price for homes in Cedarbrae, the community can be favorable for positive cash flow investments, especially with secondary suites or multi-unit properties.
+
+- **Average Home Prices:**
+  - The average home price in Cedarbrae varies depending on property type:
+    - Detached homes: Around $500,000
+    - Townhouses: $300,000–$400,000
+    - Apartments: $250,000–$350,000
+
+- **Real Estate Investment Strategies:**
+  - Buy and Hold: Cedarbrae's affordability, rental demand, and steady appreciation potential make it ideal for long-term buy-and-hold strategies.
+  - Secondary Suites: With zoning that supports duplexes or suites, investors can enhance cash flow by creating secondary suites where permissible.
+  - Townhouse and Condo Rentals: With lower purchase prices and stable rental demand, investing in townhouses or condos could yield consistent returns.
 
 # Quotes
 
