@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - give me detailed outline on the Coventry Hills neighborhood in Calgary with the following questions:
+>  - give me detailed outline on the Edgemont neighborhood in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
@@ -2378,6 +2378,111 @@ Appreciation Potential: Steady long-term appreciation potential due to ongoing d
   - Limited potential unless targeting homes needing modern upgrades, as the neighborhood's housing stock is relatively modern.
 - **Rent-to-Own**:
   - A viable strategy given the high demand for family-friendly rentals and buyers unable to secure immediate financing.
+
+# **Detailed Neighborhood Outline: Edgemont, Calgary**
+
+## **1. Nearby Amenities and Attractions**
+- **Retail and Shopping**:
+  - **Market Mall**: One of Calgary's premier shopping destinations, offering high-end retail stores, services, and dining options.
+  - **Crowfoot Crossing**: Features over 240 stores and services, including grocery stores, specialty shops, and entertainment options like Cineplex Odeon.
+  - **Northland Village Mall**: Offers additional shopping opportunities with popular retail chains.
+  - **Dalhousie Station**: A smaller hub providing convenient grocery shopping, dining, and services.
+
+- **Recreation**:
+  - **Nose Hill Park**: One of Calgary’s largest parks, ideal for hiking, cycling, and nature exploration, located just south of Edgemont.
+  - **Edgemont Community Centre**: Hosts events, fitness programs, and activities, fostering a sense of community.
+  - **Calgary Winter Club** (nearby): Offers indoor tennis, swimming, and other recreational activities.
+  
+- **Education and Schools**:
+  - Highly regarded schools include **Edgemont Elementary School**, **Tom Baines Junior High**, and **Sir Winston Churchill High School**.
+  - Access to private and specialty schools nearby.
+
+- **Healthcare**:
+  - Close proximity to **Foothills Medical Centre** and **Alberta Children’s Hospital**, ensuring access to high-quality healthcare services.
+
+## **2. Housing Characteristics**
+- **Construction Period**:
+  - Development began in the late 1970s and continued through the 1980s and 1990s.
+  - Homes built in various phases reflect architectural styles from those decades, with ongoing renovations in many properties.
+
+- **Common Building Types**:
+  - Predominantly **single-detached homes** (a majority of the housing stock).
+  - Some **townhouses** and **low-rise condos** in smaller pockets, catering to downsizers and young professionals.
+  - Large lots are common, with many properties offering spacious yards and garages.
+
+## **3. Zoning Regulations**
+- **Zoning Designations**:
+  - Mainly **R-1** zoning for low-density residential (single-detached homes).
+  - Limited **R-2 zones**, allowing for duplexes or semi-detached homes.
+  - Secondary suites are possible in some areas, subject to approval by the City of Calgary.
+
+- **Potential for Multi-Unit Development**:
+  - Minimal; the focus is on maintaining the suburban, family-oriented nature of the community.
+
+## **4. Population and Growth**
+- **Population**:
+  - Approximately **15,986 residents** (2021 Census).
+  - One of Calgary’s larger neighborhoods by population size.
+
+- **Population Growth**:
+  - Stable with slow growth; the area is mostly built-out, with limited new development.
+  - Any increase in population is primarily due to family turnover or secondary suite approvals.
+
+## **5. Average Income in the Area**
+- **Income Levels**:
+  - Median household income: **$88,442 (2000)**, higher than the city average at that time.
+  - Residents are typically middle- to upper-middle-class professionals and families.
+
+## **6. Crime Rate**
+- **Safety Profile**:
+  - Edgemont is considered a **low-crime area**, known for its safety and community engagement.
+  - Most incidents are related to minor property crimes, consistent with Calgary’s suburban neighborhoods.
+
+## **7. Rentals Supply and Demand**
+- **Supply**:
+  - Approximately **11.1%** of housing stock is used for rental purposes.
+  - Rentals are primarily basement suites or single-family homes leased to families or professionals.
+
+- **Demand**:
+  - High among families seeking proximity to schools and amenities.
+  - Popular with professionals due to its access to major employment hubs.
+
+## **8. Average Rents**
+- **Rental Rates**:
+  - Single-family homes: **$2,200–$2,600/month**.
+  - Basement suites: **$1,200–$1,500/month**.
+  - Townhomes: **$1,800–$2,200/month**.
+  - Rents are higher than city averages due to the neighborhood's desirability.
+
+## **9. Neighborhood Classification (A, B, C, D)**
+- **Class A/B Neighborhood**:
+  - **Pros**: High-income families, low crime, strong demand for housing, excellent amenities, and proximity to schools and parks.
+  - **Cons**: Higher entry price point for both buyers and renters compared to other Calgary neighborhoods.
+
+## **10. Long-Term Potential Appreciation**
+- **Appreciation Trends**:
+  - Historically steady appreciation due to its strong reputation as a family-friendly, well-connected community.
+  - Larger homes with modern upgrades have shown particularly strong price increases over time.
+
+- **Current Returns vs. Cash Flow**:
+  - **Long-term return potential** outweighs immediate cash flow for investors due to higher property prices.
+  - Limited opportunities for high-yield cash flow unless secondary suites are utilized.
+
+## **11. Average House Prices**
+- **Current Pricing**:
+  - Single-detached homes: **$700,000–$900,000** (higher for larger, upgraded homes).
+  - Townhouses: **$400,000–$500,000**.
+  - Condos: **$250,000–$350,000**.
+
+## **12. Real Estate Investment Strategies**
+- **Buy-and-Hold**:
+  - Excellent strategy for long-term investors due to steady appreciation and demand for family housing.
+- **Secondary Suites**:
+  - Adding or upgrading basement suites can generate cash flow and improve affordability for multi-generational families or renters.
+- **Renovation Projects**:
+  - Opportunities exist to modernize older homes and resell at a premium.
+- **Short-Term Rentals**:
+  - Potential for short-term rentals (e.g., Airbnb) targeting visitors due to proximity to Nose Hill Park and the University of Calgary.
 
 
 # Quotes
