@@ -1,14 +1,9 @@
 ---
-title: letting go the pathway of surrender by David R Hawkins - wip
+title: letting go the pathway of surrender by David R Hawkins
 date: "2024-11-04T22:12:03.284Z"
 description: "letting go the pathway of surrender by David R Hawkins"
 tags: ["emotionalintelligence"]
 ---
-
-# todo
-- summarize letting go the pathway of surrender
-- summarize power vs force
-
 
 # key takeaways
 
@@ -31,8 +26,6 @@ tags: ["emotionalintelligence"]
   - Unlike techniques that demand belief in a specific philosophy, letting go is universal and can be verified by personal experience.
   - Hawkins introduces the purpose of the book: to provide a structured, accessible path for individuals to apply this transformative mechanism to improve their lives, relationships, health, and spiritual journey.
 
-
-Certainly! Here is an in-depth exploration of **"Critical Advances in Knowledge"**, the opening chapter in *Power vs. Force* by David R. Hawkins. In this chapter, Hawkins introduces the foundational principles that set the stage for his work on human consciousness, exploring the differences between power and force and presenting key scientific and philosophical breakthroughs that illuminate the nature of consciousness. He also introduces applied kinesiology as a method to understand and calibrate levels of consciousness, which he uses throughout the book to evaluate the integrity and energy of various thoughts, actions, and phenomena.
 
 ---
 
@@ -886,11 +879,8 @@ Certainly! Here’s an in-depth analysis of **"Everyday Critical Point Analysis"
 
 ---
 
-Certainly! Here is an in-depth exploration of **"Power in Politics"**, the tenth chapter of *Power vs. Force* by David R. Hawkins. In this chapter, Hawkins examines the role of power and force in political systems, leadership, and governance. He explores how the principles of true power—rooted in higher consciousness, integrity, and compassion—contrast with the dynamics of force, which are characterized by coercion, control, and self-interest. Hawkins argues that political leaders and systems grounded in true power foster peace, unity, and prosperity, whereas those relying on force often lead to division, corruption, and societal decay. By understanding the distinctions between power and force in politics, Hawkins provides insights into how societies can foster ethical governance and positive social transformation.
 
----
-
-# **Chapter 10: Power in Politics**
+# **Power in Politics**
 
 ## **The Essence of True Power vs. Force in Politics**
 
@@ -1488,8 +1478,6 @@ Certainly! Here’s a detailed and in-depth exploration of **"Genius and the Pow
 
 # **Chapter 19: The Database of Consciousness**
     - The concept of a universal consciousness or "database" that connects all beings and contains knowledge beyond individual awareness.
-
-Certainly! Here is an in-depth exploration of **"The Evolution of Consciousness"**, the fifteenth chapter of *Power vs. Force* by David R. Hawkins. In this chapter, Hawkins discusses the progression of human consciousness over time, both individually and collectively. He explores how human consciousness has evolved from primitive, survival-based states to increasingly complex and sophisticated levels that reflect higher values like compassion, love, and self-awareness. Hawkins emphasizes that the journey of consciousness is both a personal and societal process, with each stage offering unique lessons and opportunities for growth. This chapter examines how individuals and societies can continue to evolve in consciousness, fostering a deeper connection to universal truths, wisdom, and inner peace.
 
 ---
 
