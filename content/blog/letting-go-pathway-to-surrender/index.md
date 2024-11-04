@@ -1,6 +1,6 @@
 ---
 title: letting go the pathway of surrender by David R Hawkins - wip
-date: "2024-07-23T22:12:03.284Z"
+date: "2024-11-04T22:12:03.284Z"
 description: "letting go the pathway of surrender by David R Hawkins"
 tags: ["emotionalintelligence"]
 ---
