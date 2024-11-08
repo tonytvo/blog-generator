@@ -12,7 +12,7 @@
 - https://tonytvo.github.io/site-reliability-engineer-summary/
 - https://tonytvo.github.io/observability-engineer-summary/
 - https://tonytvo.github.io/data-intensive-system-perf/
-
+- https://tonytvo.github.io/effective-debugging/
 
 # todo
 - write summary for wealth of nations + economics in 1 lesson + cThe Creature from Jekyll Island
