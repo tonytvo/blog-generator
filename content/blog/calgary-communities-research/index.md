@@ -1984,7 +1984,7 @@ Appreciation Potential: Steady long-term appreciation potential due to ongoing d
   - Short-Term Rentals: Given the location and nearby attractions, short-term rentals may perform well, especially for investors targeting tourists and temporary residents.
   - Value-Add Renovations: Opportunities in older condos to renovate and add value, appealing to renters and buyers.
 
-# **Taradale Neighborhood in Calgary**
+# **Taradale NE**
 
 ## **1. Overview of Taradale Neighborhood**
 
@@ -2379,7 +2379,7 @@ Appreciation Potential: Steady long-term appreciation potential due to ongoing d
 - **Rent-to-Own**:
   - A viable strategy given the high demand for family-friendly rentals and buyers unable to secure immediate financing.
 
-# **Detailed Neighborhood Outline: Edgemont, Calgary**
+# **Edgemont, NW**
 
 ## **1. Nearby Amenities and Attractions**
 - **Retail and Shopping**:
@@ -2748,6 +2748,340 @@ Appreciation Potential: Steady long-term appreciation potential due to ongoing d
 
 3. **Luxury Rentals:**
    - Offering high-end rental properties to professionals and families desiring upscale accommodations.
+
+# Douglasdale/Douglasglen SE
+
+Douglasdale, also known as Douglasdale/Glen, is a sought-after residential neighborhood located in Calgary's southeast quadrant, renowned for its serene environment and proximity to natural landscapes.
+
+---
+
+## **Nearby Amenities and Attractions:**
+
+- **Shopping and Services:**
+  - Douglasdale residents enjoy convenient access to retail and services at **Quarry Park Market** and **Deer Valley Shopping Centre**.
+  - Essential amenities, including grocery stores, cafes, and medical facilities, are within a short drive.
+
+- **Parks and Recreation:**
+  - **Fish Creek Provincial Park** lies adjacent to the community, providing residents with expansive trails for walking, biking, and nature observation.
+  - The **Bow River Pathway System** runs along the community’s western edge, offering scenic river views and outdoor activities.
+
+- **Golf:**
+  - The **Eaglequest Douglasdale Golf Course** is located within the neighborhood, offering a well-maintained 18-hole course and a clubhouse.
+
+- **Transit:**
+  - The neighborhood is well-connected through major roadways like **Deerfoot Trail**, **130th Avenue SE**, and **Glenmore Trail**.
+  - Calgary Transit provides bus services linking Douglasdale to downtown Calgary and other areas.
+
+- **Schools:**
+  - The community is served by schools such as **Douglasdale School** and nearby **McKenzie Towne School**, catering to K-9 students.
+
+---
+
+## **Housing Development Timeline:**
+
+- Development in Douglasdale began in **1986**, with most homes constructed between the **late 1980s and early 2000s**.
+
+---
+
+## **Common Building Types:**
+
+- The area is dominated by **single-detached homes**, with some **semi-detached houses** and **row homes** available. Most properties feature modern designs with three to four bedrooms, ideal for families.
+
+---
+
+## **Zoning Regulations:**
+
+- The community’s zoning primarily supports **low-density residential development**, emphasizing single-family homes.
+- Certain areas allow for **semi-detached homes** or **secondary suites**, subject to City of Calgary approvals.
+
+---
+
+## **Population and Growth:**
+
+- **Population**: As of the 2021 Census, Douglasdale/Glen had approximately **12,920** residents.
+- **Population Growth**: The area has experienced steady growth since its inception, with minor fluctuations in recent years.
+
+---
+
+## **Average Income:**
+
+- The **median household income** is approximately **$130,000**, above the Calgary average, reflecting its status as a middle-to-upper-income neighborhood.
+
+---
+
+## **Crime Rate:**
+
+- Douglasdale has a **lower crime rate** compared to Calgary’s average, making it a safe and family-friendly community.
+
+---
+
+## **Rental Supply and Demand:**
+
+- The rental market is modest, with demand focused on single-family homes and well-maintained row houses.
+- The area attracts renters seeking quiet residential surroundings and proximity to amenities.
+
+---
+
+## **Average Rents:**
+
+- Rental prices vary:
+  - **Single-family homes**: $2,000 - $2,500/month
+  - **Row houses or duplexes**: $1,500 - $2,000/month
+
+---
+
+## **Neighborhood Classification (A, B, C, D):**
+
+- Douglasdale is considered an **‘A’ neighborhood**, offering strong livability, low crime rates, and excellent amenities.
+
+---
+
+## **Long-Term Potential Appreciation vs. Current Returns and Cash Flow:**
+
+- **Appreciation:** The neighborhood's strategic location and strong demand suggest robust long-term property appreciation.
+- **Cash Flow:** While rents are steady, higher property values may lead to modest immediate cash flow for investors.
+
+---
+
+## **Average House Prices:**
+
+- As of October 2024, the median home asking price in Douglasdale was **$653,950**, with a median sold price of **$675,000**.
+
+---
+
+## **Real Estate Investment Strategies:**
+
+1. **Buy-and-Hold:**
+   - Invest in single-family homes or row houses to benefit from long-term appreciation and stable rental income.
+
+2. **Renovation and Resale:**
+   - Modernize older properties to attract buyers seeking updated, move-in-ready homes.
+
+3. **Rental Properties:**
+   - Focus on family-sized rental homes to meet demand in the area.
+
+4. **Secondary Suites:**
+   - Explore opportunities to add secondary suites where zoning permits to maximize rental income.
+
+
+# Bridlewood
+# Hidden Valley
+# Chaparral
+# Royal Oak
+# Arbour Lake
+# Acadia
+# Sundance
+# Lake Bonavista
+# Dover
+# Monterey Park
+# Falconridge
+# Citadel
+# Hawkwood
+# Riverbend
+# Shawnessy
+# Woodbine
+# Dalhousie
+# Silver Springs
+# Springbank Hill
+# Scenic Acres
+# Penbrooke Meadows
+# Somerset
+# Marlborough
+# Marlborough Park
+# New Brighton
+# West Springs
+# Downtown Commercial Core
+# Hamptons
+# Copperfield
+# Canyon Meadows
+# Rocky Ridge
+# Ranchlands
+# Harvest Hills
+# Auburn Bay
+# Glenbrook
+# Strathcona Park
+# Haysboro
+# Erin Woods
+# Millrise
+# Midnapore
+# Killarney/Glengarry
+# Evanston
+# Applewood Park
+# Glamorgan
+# Hillhurst
+# Crescent Heights
+# Sandstone Valley
+# Cedarbrae
+# Albert Park/Radisson Heights
+# Forest Heights
+# Woodlands
+# Castleridge
+# Southwood
+# Brentwood
+# Braeside
+# Abbeydale
+# Cougar Ridge
+# Coral Springs
+# Renfrew
+# Mayland Heights
+# West Hillhurst
+# Oakridge
+# Bridgeland/Riverside
+# Lakeview
+# Deer Run
+# Aspen Woods
+# Willow Park
+# Bankview
+# Silverado
+# MacEwan Glen
+# Valley Ridge
+# Kincora
+# Mount Pleasant
+# Queensland
+# Tuxedo Park
+# Kingsland
+# Discovery Ridge
+# Mission
+# Spruce Cliff
+# Patterson
+# Richmond
+# Windsor Park
+# Deer Ridge
+# Capitol Hill
+# Winston Heights/Mountview
+# Montgomery
+# Banff Trail
+# Highland Park
+# Parkland
+# Country Hills
+# Sunnyside
+# South Calgary
+# Fairview
+# Inglewood
+# Charleswood
+# Elbow Park
+# Rosscarrock
+# Sunalta
+# Palliser
+# Coach Hill
+# Lower Mount Royal
+# Westgate
+# Skyview Ranch
+# Hounsfield Heights/Briar Hill
+# University Heights
+# Downtown East Village
+# Glendale
+# University of Calgary
+# Country Hills Village
+# Wildwood
+# Upper Mount Royal
+# Sherwood
+# Lincoln Park
+# North Glenmore Park
+# Kelvin Grove
+# Downtown West End
+# Parkdale
+# North Haven
+# Rutland Park
+# Collingwood
+# Highwood
+# Vista Heights
+# Christie Park
+# Sage Hill
+# Ramsay
+# Cambrian Heights
+# Greenview
+# CFB Lincoln Park PMQ
+# Cliff Bungalow
+# Maple Ridge
+# Southview
+# Eau Claire
+# Elboya
+# Chinook Park
+# Pump Hill
+# Parkhill
+# St. Andrews Heights
+# Chinatown
+# Rosedale
+# Shawnee Slopes
+# Red Carpet
+# Shaganappi
+# Crestmont
+# Point Mckay
+# Mahogany
+# Rosemont
+# Erlton
+# Greenwood/Greenbriar
+# Walden
+# Bonavista Downs
+# Scarboro
+# Britannia
+# Diamond Cove
+# Bayview
+# Rideau Park
+# Meadowlark Park
+# North Haven Upper
+# Manchester
+# Mayfair
+# Bel-Aire
+# Roxboro
+# Eagle Ridge
+# Queens Park Village
+# Scarboro/Sunalta West
+# Foothills
+# Shepard Industrial
+# CFB Currie
+# Forest Lawn Industrial
+# Saddle Ridge Industrial
+# Sunridge
+# Horizon
+# Alyth/Bonnybrook
+# Aurora Business Park
+# Burns Industrial
+# Calgary International Airport
+# Canada Olympic Park
+# Deerfoot Business Centre
+# East Fairview Industrial
+# East Shepard Industrial
+# Eastfield
+# Fairview Industrial
+# Fish Creek Park
+# Franklin
+# Glendeer Business Park
+# Glenmore Park
+# Golden Triangle
+# Great Plains
+# Greenview Industrial Park
+# Highfield
+# Legacy
+# Manchester Industrial
+# Mayland
+# McCall
+# Meridian
+# Nolan Hill
+# North Airways
+# Nose Hill Park
+# Ogden Shops
+# Pegasus
+# Redstone
+# Royal Vista
+# Seton
+# Skyline East
+# Skyline West
+# South Airways
+# South Foothills
+
+# Starfield
+
+# Stonegate Landing
+
+# Valleyfield
+
+# Westwinds
+
+# Cityscape
+
+# Hotchkiss
 
 
 # Quotes
