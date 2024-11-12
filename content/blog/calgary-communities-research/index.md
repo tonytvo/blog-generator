@@ -2864,7 +2864,121 @@ Douglasdale, also known as Douglasdale/Glen, is a sought-after residential neigh
    - Explore opportunities to add secondary suites where zoning permits to maximize rental income.
 
 
-# Bridlewood
+# **Bridlewood SW**
+
+Bridlewood is a tranquil, family-oriented neighborhood located in Calgary's southwest quadrant, known for its modern homes, green spaces, and close-knit community atmosphere.
+
+---
+
+## **Nearby Amenities and Attractions:**
+
+- **Shopping and Services:**
+  - Bridlewood residents have access to **Shoppes of Bridlewood**, offering grocery stores, pharmacies, and local eateries.
+  - Nearby **Shawnessy Town Centre** provides additional shopping, dining, and entertainment options.
+
+- **Parks and Recreation:**
+  - The **Bridlewood Wetlands Park** offers a serene natural setting for walks and birdwatching.
+  - Proximity to **Fish Creek Provincial Park** gives residents access to extensive trails, picnic spots, and nature exploration.
+
+- **Transit and Connectivity:**
+  - The neighborhood is well-connected via **Stoney Trail** and **MacLeod Trail**, making commutes to other parts of Calgary convenient.
+  - Calgary Transit offers bus routes linking Bridlewood to key hubs, including the Somerset-Bridlewood LRT station.
+
+- **Schools:**
+  - Schools within and near Bridlewood include **Bridlewood School** (K-6) and **Monsignor J.J. O’Brien Catholic School** (K-9), catering to young families.
+
+---
+
+## **Housing Development Timeline:**
+
+- Bridlewood development began in **1997**, with most homes constructed between **1997 and the early 2000s**, showcasing modern designs and family-friendly layouts.
+
+---
+
+## **Common Building Types:**
+
+- Predominantly **single-detached homes** make up the neighborhood, complemented by **townhouses** and a smaller number of **low-rise apartment buildings**, offering options for various demographics.
+
+---
+
+## **Zoning Regulations:**
+
+- The area’s zoning primarily supports **low-density residential housing**.
+- Recent city-wide zoning changes allow for multi-family dwellings such as **duplexes**, **triplexes**, and **fourplexes** in previously single-family zones, encouraging more housing options.
+
+---
+
+## **Population and Growth:**
+
+- **Population:** As of the 2021 Census, Bridlewood had approximately **12,545 residents**.
+- **Population Growth:** The area has seen minimal changes in population in recent years, reflecting its stability and established nature.
+
+---
+
+## **Average Income:**
+
+- The **median household income** in Bridlewood is approximately **$105,000**, slightly above the Calgary median, indicative of a middle-income community.
+
+---
+
+## **Crime Rate:**
+
+- Bridlewood has a **low crime rate**, averaging around **4 crimes per month**, making it a safe and desirable neighborhood for families.
+
+---
+
+## **Rental Supply and Demand:**
+
+- Rental supply is moderate, with demand driven by families and professionals seeking quiet suburban living with good connectivity and amenities.
+
+---
+
+## **Average Rents:**
+
+- Rental prices in Bridlewood include:
+  - **Single-family homes**: $2,000 - $2,500/month
+  - **Townhouses**: $1,600 - $2,000/month
+  - **Apartments**: $1,200 - $1,500/month
+
+---
+
+## **Neighborhood Classification (A, B, C, D):**
+
+- Bridlewood is classified as a **‘B’ neighborhood**, reflecting its family-friendly appeal, moderate housing prices, and good amenities.
+
+---
+
+## **Long-Term Potential Appreciation vs. Current Returns and Cash Flow:**
+
+- **Appreciation:** Bridlewood’s strategic location near key amenities and recent zoning changes suggest moderate to strong long-term property value growth.
+- **Cash Flow:** While cash flow from rental properties is steady, property appreciation may offer better long-term returns.
+
+---
+
+## **Average House Prices:**
+
+- The **median home price** in Bridlewood is approximately **$622,000**, with slight month-to-month fluctuations reflecting stable demand.
+
+---
+
+## **Real Estate Investment Strategies:**
+
+1. **Buy-and-Hold:**
+   - Invest in single-family homes or townhouses for long-term appreciation and steady rental income.
+
+2. **Secondary Suites:**
+   - Take advantage of zoning reforms to add secondary suites, increasing rental income potential.
+
+3. **Family Rentals:**
+   - Focus on renting larger homes to families, leveraging the neighborhood’s schools and amenities.
+
+4. **Renovation and Resale:**
+   - Update older homes to appeal to buyers seeking move-in-ready properties.
+
+5. **Multi-Family Development:**
+   - Explore opportunities for small-scale multi-family developments under the new zoning allowances.
+
+
 # Hidden Valley
 # Chaparral
 # Royal Oak
