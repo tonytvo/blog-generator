@@ -2979,7 +2979,122 @@ Bridlewood is a tranquil, family-oriented neighborhood located in Calgary's sout
    - Explore opportunities for small-scale multi-family developments under the new zoning allowances.
 
 
-# Hidden Valley
+# **Hidden Valley NW**
+
+Hidden Valley is a picturesque, family-friendly neighborhood located in Calgary's northwest quadrant, renowned for its serene parks, excellent schools, and suburban charm.
+
+---
+
+## **Nearby Amenities and Attractions:**
+
+- **Shopping and Services:**
+  - Hidden Valley residents enjoy convenient access to **Creekside Shopping Centre**, which offers grocery stores, cafes, and essential services.
+  - Nearby **Beacon Hill Centre** provides a range of big-box retailers, dining, and entertainment options.
+
+- **Parks and Recreation:**
+  - **Hidden Valley Park** offers a community hub with playgrounds, sports fields, and picnic areas.
+  - Proximity to **Nose Hill Park** provides residents with expansive trails for walking, biking, and wildlife observation.
+
+- **Transit and Connectivity:**
+  - The community is well-connected via **Stoney Trail** and **14th Street NW**, offering easy access to major city routes.
+  - Calgary Transit provides bus services to connect Hidden Valley with other parts of the city, including nearby LRT stations.
+
+- **Schools:**
+  - Hidden Valley is home to top-rated schools, including **Hidden Valley School** (K-3), **Valley Creek School** (4-9), and **St. Elizabeth Seton School** (K-9), making it an attractive location for families.
+
+---
+
+## **Housing Development Timeline:**
+
+- Hidden Valley’s development began in **1990**, with the majority of homes constructed throughout the **1990s and early 2000s**. The homes reflect contemporary designs suited to family living.
+
+---
+
+## **Common Building Types:**
+
+- The neighborhood predominantly features **single-detached homes**, with a mix of **semi-detached houses** and **townhouses**, providing diverse options for various demographics.
+
+---
+
+## **Zoning Regulations:**
+
+- **Residential Zoning:**
+  - The community’s zoning supports **low-density residential development**, emphasizing single-family homes and semi-detached units.
+  - Recent city-wide zoning changes allow for **duplexes**, **triplexes**, and **fourplexes** in previously single-family zones, promoting housing diversity and affordability.
+
+---
+
+## **Population and Growth:**
+
+- **Population:** As of the 2021 Census, Hidden Valley had a population of approximately **11,825 residents**.
+- **Population Growth:** The area has seen minimal population changes in recent years, reflecting its stability as an established neighborhood.
+
+---
+
+## **Average Income:**
+
+- The **median household income** in Hidden Valley is approximately **$78,127**, which aligns with Calgary's median income, reflecting a middle-income community.
+
+---
+
+## **Crime Rate:**
+
+- Hidden Valley boasts a **low crime rate**, averaging around **3.7 crimes per month**, making it one of Calgary’s safer neighborhoods.
+
+---
+
+## **Rental Supply and Demand:**
+
+- The rental market in Hidden Valley is moderate, with demand driven by families and professionals seeking suburban living with proximity to schools and parks.
+
+---
+
+## **Average Rents:**
+
+- Rental prices in Hidden Valley include:
+  - **Single-family homes:** $2,000 - $2,500/month
+  - **Townhouses:** $1,600 - $2,000/month
+  - **Apartments (if available):** $1,200 - $1,500/month
+
+---
+
+## **Neighborhood Classification (A, B, C, D):**
+
+- Hidden Valley is classified as a **‘B’ neighborhood**, reflecting its family-oriented appeal, good amenities, and moderate housing prices.
+
+---
+
+## **Long-Term Potential Appreciation vs. Current Returns and Cash Flow:**
+
+- **Appreciation:** Hidden Valley’s strategic location, strong amenities, and stable demand suggest consistent long-term property value appreciation.
+- **Cash Flow:** Rental properties in Hidden Valley offer steady returns, though higher appreciation potential may outweigh immediate cash flow for investors.
+
+---
+
+## **Average House Prices:**
+
+- The **median home price** in Hidden Valley is approximately **$562,000**, with an annual appreciation rate of 12.81% as of 2024, indicating strong demand and investment potential.
+
+---
+
+## **Real Estate Investment Strategies:**
+
+1. **Buy-and-Hold:**
+   - Invest in single-family homes or townhouses to benefit from long-term appreciation and stable rental income.
+
+2. **Secondary Suites:**
+   - Take advantage of new zoning allowances to develop secondary suites, boosting rental income.
+
+3. **Family Rentals:**
+   - Focus on renting larger homes to families, leveraging the neighborhood’s excellent schools and green spaces.
+
+4. **Renovation and Resale:**
+   - Update older homes to attract buyers or tenants seeking modernized properties.
+
+5. **Multi-Family Development:**
+   - Consider small-scale multi-family projects under the new zoning regulations to maximize land use and rental yield.
+
+
 # Chaparral
 # Royal Oak
 # Arbour Lake
