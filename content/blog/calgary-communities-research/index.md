@@ -3097,8 +3097,6 @@ Hidden Valley is a picturesque, family-friendly neighborhood located in Calgary'
 
 # Chaparral
 
-Here's a detailed outline of the Chaparral neighborhood in Calgary addressing your questions:
-
 ## 1. **Nearby Amenities and Attractions**
    - **Recreational:** Chaparral is centered around a large artificial lake, Chaparral Lake, offering activities like fishing, swimming, and skating.
    - **Parks and Trails:** Proximity to Fish Creek Provincial Park and Bow River pathways.
@@ -3277,7 +3275,95 @@ Here's a detailed outline of the Chaparral neighborhood in Calgary addressing yo
 
 Would you like deeper insights into specific aspects, or data comparisons with nearby neighborhoods?
 
-# Acadia
+# Acadia, SE
+
+Acadia is a well-established neighborhood in southeast Calgary, known for its mature trees, ample green spaces, and family-friendly atmosphere. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Acadia Recreation Complex:** Offers facilities for hockey, curling, and other sports.
+  - **Acadia Aquatic & Fitness Centre:** Provides swimming pools and fitness equipment.
+
+- **Parks and Green Spaces:**
+  - **Bonnie Doon Park and Arlington Park:** Popular spots for outdoor activities.
+
+- **Shopping and Dining:**
+  - **Heritage Square and Acadia Shopping Centre:** Feature a variety of retail stores and restaurants.
+  - **Chinook Centre:** One of Calgary's largest malls, located nearby.
+
+- **Education:**
+  - Home to several schools, including Acadia School and David Thompson School.
+
+## 2. Housing Construction Timeline
+
+- Most homes were constructed between the **1960s and 1980s**, reflecting mid-century architectural styles.
+
+## 3. Common Building Types
+
+- The neighborhood predominantly features **single-family detached homes**.
+- There are also **small apartment buildings** and **townhouses**, offering a range of housing options.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, permitting duplexes or semi-detached homes.
+- Recent trends indicate an increase in applications for secondary suites, suggesting a shift towards allowing more units per lot.
+
+## 5. Population and Growth
+
+- As of recent estimates, Acadia has a population of approximately **10,000 residents**.
+- The population has remained relatively stable, with modest growth due to infill developments and property renovations.
+
+## 6. Average Income
+
+- The average household income in Acadia is around **$80,000 to $90,000**, aligning closely with Calgary's median household income.
+
+## 7. Crime Rate
+
+- Acadia is considered a **safe neighborhood**, with crime rates comparable to or below the city average.
+- Community engagement and local policing contribute to the area's safety.
+
+## 8. Rental Supply and Demand
+
+- There is a **moderate supply** of rental properties, including single-family homes, duplexes, and apartments.
+- Demand is steady, particularly among young professionals and families seeking affordable housing within the city.
+
+## 9. Average Rents
+
+- **Single-family homes:** Approximately **$1,800 to $2,200 per month**.
+- **Apartments and Condos:** Range from **$1,200 to $1,500 per month**, depending on size and condition.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Acadia can be classified as a **B neighborhood**, characterized by its established community, affordable housing, and proximity to amenities.
+
+## 11. Long-Term Appreciation Potential
+
+- **Appreciation Potential:** Moderate to high, especially for renovated properties.
+- **Current Returns and Cash Flow:** Stable rental income with potential for increased returns through property improvements.
+
+## 12. Average House Prices
+
+- **Single-family homes:** Typically range from **$400,000 to $600,000**, depending on size, condition, and renovations.
+- Recent data indicates a growing value gap between renovated and original-condition homes, with renovated properties commanding higher prices. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or duplexes for long-term rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older homes in need of updates, renovating them to modern standards, and increasing property value and rental rates.
+
+- **Secondary Suites:**
+  - Developing legal secondary suites to maximize rental income, especially in areas with R-C2 zoning.
+
+- **Market Timing:**
+  - Taking advantage of the neighborhood's appreciation trends by buying during market lulls and selling during peaks.
+
+Acadia's combination of affordable housing, strong community ties, and proximity to amenities makes it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Sundance
 # Lake Bonavista
 # Dover
