@@ -3364,7 +3364,94 @@ Acadia is a well-established neighborhood in southeast Calgary, known for its ma
 
 Acadia's combination of affordable housing, strong community ties, and proximity to amenities makes it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
-# Sundance
+# Sundance, SE
+
+Sundance is a well-established residential neighborhood in southeast Calgary, known for its family-friendly environment and the central feature of Lake Sundance. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Lake Sundance:** A 33-acre man-made lake offering swimming, fishing, and boating activities exclusively for residents.
+  - **Fish Creek Provincial Park:** Adjacent to the community, providing extensive trails and natural areas for outdoor enthusiasts.
+
+- **Shopping and Dining:**
+  - **Shawnessy Shopping Centre:** A nearby commercial hub with a variety of retail stores, restaurants, and entertainment options.
+
+- **Education:**
+  - **Schools in Sundance:**
+    - Fish Creek Elementary School
+    - Sundance Elementary School
+    - MidSun Junior High
+    - Centennial High School
+    - Father James Whelihan School (Catholic, K-9)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Sundance were constructed during the **1980s and 1990s**, reflecting the architectural styles of that era.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**.
+- A smaller proportion of **townhouses** and **condominiums**, particularly near the periphery of the community.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Limited areas with **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Sundance had a population of approximately **9,590 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Sundance is approximately **$130,865**, which is 59% higher than the Canadian average. 
+
+## 7. Crime Rate
+
+- Sundance is considered a **safe neighborhood**, with crime rates 19% lower than the national average and violent crimes 37% lower. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:** Limited, as approximately 93% of the properties are owner-occupied. 
+- **Demand:** Moderate, primarily from families and individuals seeking access to quality schools and recreational amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:** Approximately **$2,200 to $2,800 per month**, depending on size and condition.
+- **Townhouses and Condos:** Range from **$1,500 to $2,000 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Sundance can be classified as an **A neighborhood**, characterized by its high median income, low crime rates, and desirable amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:** Moderate to high, due to the neighborhood's established nature, desirable amenities, and limited new housing supply.
+- **Current Returns and Cash Flow:** Stable rental income with potential for appreciation, though the high owner-occupancy rate may limit rental opportunities.
+
+## 12. Average House Prices
+
+- The average house price in Sundance is approximately **$784,608**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools and recreational facilities.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Sundance's combination of desirable amenities, stable population, and strong community engagement makes it an attractive option for real estate investors seeking long-term appreciation and stable returns. 
+
 # Lake Bonavista
 # Dover
 # Monterey Park
