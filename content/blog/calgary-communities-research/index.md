@@ -3453,6 +3453,96 @@ Sundance is a well-established residential neighborhood in southeast Calgary, kn
 Sundance's combination of desirable amenities, stable population, and strong community engagement makes it an attractive option for real estate investors seeking long-term appreciation and stable returns. 
 
 # Lake Bonavista
+
+Lake Bonavista is a prestigious residential neighborhood in southeast Calgary, renowned for being Canada's first community built around a man-made lake. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Lake Bonavista:** A 52-acre man-made lake offering year-round activities such as swimming, fishing, boating, and skating.
+  - **Lake Bonaventure:** A private 35-acre lake accessible only to adjacent homeowners.
+  - **Fish Creek Provincial Park:** Located to the south, providing extensive trails and natural areas for outdoor enthusiasts.
+
+- **Shopping and Dining:**
+  - **Lake Bonavista Promenade:** A local commercial area with retail stores and professional offices.
+  - **Southcentre Mall:** A major shopping center nearby offering a wide range of retail and dining options.
+
+- **Education:**
+  - **Schools in Lake Bonavista:**
+    - Lake Bonavista School (Public Elementary)
+    - Andrew Sibbald School (Public Elementary)
+    - Sam Livingston School (Public Elementary)
+    - Nickle School (Public Junior High)
+    - St. Boniface School (Catholic Elementary)
+    - St. Bonaventure School (Catholic Junior High)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Lake Bonavista were constructed between the **late 1960s and 1980s**, reflecting the architectural styles of that era.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many of which are luxury properties with lake access.
+- A selection of **townhouses** and **condominiums**, particularly near the periphery of the community.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Limited areas with **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Lake Bonavista had a population of approximately **12,350 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Lake Bonavista is approximately **$126,917**, which is 34% higher than the Alberta average. 
+
+## 7. Crime Rate
+
+- Lake Bonavista is considered a **safe neighborhood**, with crime rates 30% lower than the national average. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:** Limited, as a significant majority of the properties are owner-occupied.
+- **Demand:** Moderate, primarily from families and professionals seeking access to quality schools and recreational amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:** Approximately **$2,500 to $3,500 per month**, depending on size, condition, and lake access.
+- **Townhouses and Condos:** Range from **$1,800 to $2,500 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Lake Bonavista can be classified as an **A neighborhood**, characterized by its high median income, low crime rates, and desirable amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:** High, due to the neighborhood's established nature, desirable amenities, and limited new housing supply.
+- **Current Returns and Cash Flow:** Stable rental income with potential for appreciation, though the high owner-occupancy rate may limit rental opportunities.
+
+## 12. Average House Prices
+
+- The average property price in Lake Bonavista is approximately **$805,532**, placing it among Calgary's more expensive neighborhoods. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting High-Income Renters:**
+  - Focusing on luxury rental properties that appeal to professionals seeking premium amenities and lake access.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Lake Bonavista's combination of desirable amenities, stable population, and strong community engagement makes it an attractive option for real estate investors seeking long-term appreciation and stable returns. 
+
 # Dover
 # Monterey Park
 # Falconridge
