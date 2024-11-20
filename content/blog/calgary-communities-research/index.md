@@ -3544,6 +3544,95 @@ Lake Bonavista is a prestigious residential neighborhood in southeast Calgary, r
 Lake Bonavista's combination of desirable amenities, stable population, and strong community engagement makes it an attractive option for real estate investors seeking long-term appreciation and stable returns. 
 
 # Dover
+
+Dover is a well-established neighborhood in southeast Calgary, known for its affordability and proximity to key amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Valleyview Regional Park:** Features playgrounds, a spray park, and sports fields, offering recreational opportunities for families.
+  - **Inglewood Golf Club:** A nearby golf course for enthusiasts.
+
+- **Shopping and Dining:**
+  - **17 Avenue SE (International Avenue):** Hosts a variety of ethnic restaurants, grocery stores, and retail shops, providing diverse culinary and shopping experiences.
+
+- **Education:**
+  - **Schools in Dover:**
+    - West Dover Elementary School
+    - Ian Bazalgette Junior High School
+    - Holy Cross School (Catholic)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Dover were constructed during the **1960s and 1970s**, with some developments continuing into the 1990s and 2000s. 
+
+## 3. Common Building Types
+
+- Dover's housing stock includes:
+  - **Single-family detached homes**
+  - **Townhouses**
+  - **Small apartment buildings**
+  This variety caters to a range of residents, from individuals to families. 
+
+## 4. Zoning Regulations
+
+- The neighborhood primarily features **R-C1 (Residential – Contextual One Dwelling District)** zoning, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, permitting duplexes or semi-detached homes.
+- These zoning regulations provide flexibility for property modifications, including the potential for secondary suites, subject to city approval.
+
+## 5. Population and Growth
+
+- Dover has a population of approximately **10,000 residents**.
+- The population has remained relatively stable, with modest growth due to infill developments and housing renovations.
+
+## 6. Average Income
+
+- The average household income in Dover is around **$50,000 to $60,000**, which is below Calgary's median household income, reflecting the neighborhood's affordability.
+
+## 7. Crime Rate
+
+- Dover experiences crime rates that are higher than the national average, with total crime rates approximately 60% above the national average.
+- However, community initiatives and local law enforcement efforts are in place to address safety concerns.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:** There is a substantial supply of rental properties, including single-family homes, duplexes, and apartments.
+- **Demand:** Steady, particularly among individuals and families seeking affordable housing options within the city.
+
+## 9. Average Rents
+
+- **Single-family homes:** Approximately **$1,500 to $2,000 per month**, depending on size and condition.
+- **Apartments and Condos:** Range from **$900 to $1,300 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Dover can be classified as a **C neighborhood**, characterized by its affordability and working-class demographic.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:** Moderate, with opportunities for value increase through property improvements and neighborhood revitalization efforts.
+- **Current Returns and Cash Flow:** Attractive rental yields due to lower property acquisition costs, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Dover is approximately **$412,646**, with properties ranging from around $249,900 to $594,900. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in affordable properties for long-term rental income, capitalizing on steady demand for budget-friendly housing.
+
+- **Value-Add Renovations:**
+  - Purchasing older homes in need of updates, renovating to modern standards to increase property value and attract higher-paying tenants.
+
+- **Secondary Suites:**
+  - Developing legal secondary suites in properties with appropriate zoning to maximize rental income and cater to multi-family tenants.
+
+- **Affordable Housing Focus:**
+  - Targeting investments that provide affordable rental options, aligning with the neighborhood's demographic and maintaining high occupancy rates.
+
+Dover's affordability, diverse housing options, and proximity to amenities make it a viable option for real estate investors seeking properties with solid rental income potential and opportunities for value appreciation through strategic improvements. 
+
 # Monterey Park
 # Falconridge
 # Citadel
