@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - give me detailed outline on the Edgemont neighborhood in Calgary with the following questions:
+>  - you're an expert in realestate investing, give me detailed outline on the Monterey Park neighborhood in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
@@ -3634,6 +3634,102 @@ Dover is a well-established neighborhood in southeast Calgary, known for its aff
 Dover's affordability, diverse housing options, and proximity to amenities make it a viable option for real estate investors seeking properties with solid rental income potential and opportunities for value appreciation through strategic improvements. 
 
 # Monterey Park
+
+Monterey Park is a residential neighborhood in northeast Calgary, known for its suburban appeal and diverse community. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Monterey Park Community Association:** Offers various programs and events for residents.
+  - **Rotary Park and Sunridge Park:** Nearby parks providing green spaces and recreational opportunities.
+
+- **Shopping and Dining:**
+  - **Sunridge Mall:** A major shopping center located a short drive away, offering a variety of retail stores and dining options.
+  - **International Avenue (17th Avenue SE):** Features a diverse selection of ethnic restaurants and shops.
+
+- **Education:**
+  - **Schools in and around Monterey Park:**
+    - Monterey Park Elementary School
+    - Clarence Sansom School (Junior High)
+    - Lester B. Pearson High School
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Monterey Park were constructed during the **1980s and 1990s**, reflecting the suburban development trends of that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- Some **townhouses** and **condominiums** are also present, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Limited areas with **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Monterey Park had a population of approximately **10,475 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Monterey Park is approximately **$95,000**, which is slightly below Calgary's median household income. 
+
+## 7. Crime Rate
+
+- Monterey Park experiences a **moderate crime rate**, with total crime rates approximately 22% lower than the Alberta average. 
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking affordable housing options within the city.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,800 to $2,200 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,200 to $1,500 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Monterey Park can be classified as a **B neighborhood**, characterized by its suburban setting, moderate income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature and consistent demand for suburban housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Monterey Park is approximately **$488,285**, with properties ranging from around $294,900 to $885,000. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools and suburban amenities.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Monterey Park's suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Falconridge
 # Citadel
 # Hawkwood
