@@ -3731,6 +3731,103 @@ Monterey Park is a residential neighborhood in northeast Calgary, known for its 
 Monterey Park's suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Falconridge
+
+Falconridge is a residential neighborhood in northeast Calgary, known for its diverse community and affordable housing options. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Falconridge/Castleridge Community Association:** Offers various programs and events for residents.
+  - **Prairie Winds Park:** A nearby park featuring playgrounds, a wading pool, and open spaces for recreational activities.
+
+- **Shopping and Dining:**
+  - **McKnight Village Shopping Centre:** Provides a range of retail stores and dining options.
+  - **Sunridge Mall:** A major shopping center located a short drive away, offering a variety of retail stores and dining options.
+
+- **Education:**
+  - **Schools in and around Falconridge:**
+    - Falconridge Elementary School
+    - Grant MacEwan Elementary School
+    - Terry Fox Junior High School
+    - Bishop McNally High School (Catholic)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Falconridge were constructed during the **1970s and 1980s**, reflecting the suburban development trends of that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Falconridge had a population of approximately **10,325 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Falconridge is approximately **$83,000**, which is slightly below Calgary's median household income. 
+
+## 7. Crime Rate
+
+- Falconridge experiences a **moderate crime rate**, with total crime rates approximately 12% lower than the Alberta average. 
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking affordable housing options within the city.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,500 to $2,000 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,200 to $1,500 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Falconridge can be classified as a **C neighborhood**, characterized by its affordability and working-class demographic.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, with opportunities for value increase through property improvements and neighborhood revitalization efforts.
+
+- **Current Returns and Cash Flow:**
+  - Attractive rental yields due to lower property acquisition costs, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Falconridge is approximately **$464,781**, with properties ranging from around $248,000 to $658,663. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in affordable properties for long-term rental income, capitalizing on steady demand for budget-friendly housing.
+
+- **Value-Add Renovations:**
+  - Purchasing older homes in need of updates, renovating to modern standards to increase property value and attract higher-paying tenants.
+
+- **Secondary Suites:**
+  - Developing legal secondary suites in properties with appropriate zoning to maximize rental income and cater to multi-family tenants.
+
+- **Affordable Housing Focus:**
+  - Targeting investments that provide affordable rental options, aligning with the neighborhood's demographic and maintaining high occupancy rates.
+
+Falconridge's affordability, diverse housing options, and proximity to amenities make it a viable option for real estate investors seeking properties with solid rental income potential and opportunities for value appreciation through strategic improvements. 
+
 # Citadel
 # Hawkwood
 # Riverbend
