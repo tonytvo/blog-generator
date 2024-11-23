@@ -3829,6 +3829,103 @@ Falconridge is a residential neighborhood in northeast Calgary, known for its di
 Falconridge's affordability, diverse housing options, and proximity to amenities make it a viable option for real estate investors seeking properties with solid rental income potential and opportunities for value appreciation through strategic improvements. 
 
 # Citadel
+
+Citadel is a well-established residential neighborhood in northwest Calgary, known for its family-friendly environment and suburban appeal. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Citadel Park:** Features playgrounds, sports fields, and pathways, providing ample recreational opportunities for residents.
+  - **Crowfoot YMCA:** Located nearby, offering fitness facilities, swimming pools, and various programs.
+
+- **Shopping and Dining:**
+  - **Crowfoot Crossing:** A major shopping center offering a wide range of retail stores, restaurants, and entertainment options.
+  - **Beacon Hill Shopping Centre:** Another nearby retail hub with various big-box stores and dining establishments.
+
+- **Education:**
+  - **Schools in and around Citadel:**
+    - Citadel Park School (K-4)
+    - St. Brigid School (K-9, Catholic)
+    - Robert Thirsk High School (10-12)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Citadel were constructed during the **1990s**, reflecting the suburban development trends of that period. 
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers. 
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2012 municipal census, Citadel had a population of approximately **10,197 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- Residents in Citadel had a median household income of **$80,085** in 2000, with 7.7% low-income residents living in the neighborhood. 
+
+## 7. Crime Rate
+
+- Citadel is considered a **safe neighborhood**, with crime rates lower than the city average.
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking suburban living with access to amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,800 to $2,200 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,200 to $1,500 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Citadel can be classified as a **B neighborhood**, characterized by its suburban setting, moderate to high income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's established nature, desirable amenities, and consistent demand for suburban housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Citadel is approximately **$676,765**, with properties ranging from around $310,000 to $680,000. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools and suburban amenities.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Citadel's suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
+
 # Hawkwood
 # Riverbend
 # Shawnessy
