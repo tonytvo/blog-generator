@@ -4024,6 +4024,102 @@ Hawkwood is a well-established residential neighborhood in northwest Calgary, kn
 Hawkwood's suburban appeal, higher income levels, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Riverbend
+
+Riverbend is a well-established residential neighborhood in southeast Calgary, known for its family-friendly environment and proximity to natural attractions. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Carburn Park:** A major attraction featuring ponds, walking trails, and picnic areas, ideal for outdoor activities.
+  - **Riverbend Community Association:** Offers various programs, events, and facilities for residents, fostering a strong sense of community.
+
+- **Shopping and Dining:**
+  - **Riverbend Shopping Plaza:** Provides essential services, retail stores, and dining options for daily needs.
+  - **Nearby Retail Hubs:** Easy access to larger shopping centers such as Deerfoot Meadows and Southcentre Mall, offering a wide range of retail and dining experiences.
+
+- **Education:**
+  - **Schools in and around Riverbend:**
+    - Riverbend School (K-6)
+    - Holy Angels School (K-6, Catholic)
+    - Dr. Gladys McKelvie Egbert School (7-9)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Riverbend were constructed during the **1980s and 1990s**, reflecting the suburban development trends of that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A small percentage (2.5%) of **condominiums or apartments**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Riverbend had a population of approximately **9,205 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Riverbend is approximately **$116,794**, which is 23% higher than the Alberta average. 
+
+## 7. Crime Rate
+
+- Riverbend is considered a **safe neighborhood**, with crime rates 2% lower than the national average and violent crimes 23% lower than the national average. 
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **limited supply** of rental properties, with only 3.5% of the housing being used for renting.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking suburban living with access to amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,000 to $2,500 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,500 to $1,800 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Riverbend can be classified as a **B neighborhood**, characterized by its suburban setting, higher income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's established nature, desirable amenities, and consistent demand for suburban housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Riverbend is approximately **$619,906**, with properties ranging from around $310,000 to $680,000. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools and suburban amenities.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Riverbend's suburban appeal, higher income levels, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Shawnessy
 # Woodbine
 # Dalhousie
