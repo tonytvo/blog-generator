@@ -23,7 +23,6 @@
 - write summary for accelerate
 - write summary for pragmatic programmers
 - write summary for extreme programming
-- write summary for emotional intellijgence 2.0
 - write summary for learning how to learn
 - write summary for devops handbook
 - write summary for security patterns.
