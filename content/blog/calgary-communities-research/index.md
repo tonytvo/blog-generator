@@ -4218,6 +4218,102 @@ Shawnessy is a well-established residential neighborhood in southwest Calgary, k
 Shawnessy's suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Woodbine
+
+Woodbine is a well-established residential neighborhood in southwest Calgary, known for its family-friendly environment and proximity to natural attractions. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Fish Creek Provincial Park:** One of Canada's largest urban parks, offering extensive trails, picnic areas, and natural scenery adjacent to Woodbine.
+  - **Woodcreek Community Association:** Provides various programs, events, and facilities for residents, fostering community engagement.
+
+- **Shopping and Dining:**
+  - **Woodbine Square Shopping Centre:** Features grocery stores, restaurants, and various retail outlets catering to daily needs.
+  - **Southcentre Mall:** A short drive away, offering a wide range of shopping and dining options.
+
+- **Education:**
+  - **Schools in and around Woodbine:**
+    - Woodbine School (K-6)
+    - St. Jude School (K-6, Catholic)
+    - John Ware School (7-9)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Woodbine were constructed during the **1980s**, reflecting the suburban development trends of that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Woodbine had a population of approximately **8,745 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Woodbine is approximately **$117,433**, which is 24% higher than the Alberta average. 
+
+## 7. Crime Rate
+
+- Woodbine is considered a **safe neighborhood**, with crime rates 8% lower than the national average and violent crimes 28% lower than the national average. 
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **limited supply** of rental properties, with the majority being single-family homes.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking suburban living with access to amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,275 to $2,595 per month**, depending on size and condition. 
+
+- **Townhouses and Condos:**
+  - Range from **$1,500 to $1,800 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Woodbine can be classified as a **B neighborhood**, characterized by its suburban setting, higher income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's established nature, desirable amenities, and consistent demand for suburban housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Woodbine is approximately **$705,947**, with properties ranging from around $600,000 to $800,000. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools and suburban amenities.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Woodbine's suburban appeal, higher income levels, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Dalhousie
 # Silver Springs
 # Springbank Hill
