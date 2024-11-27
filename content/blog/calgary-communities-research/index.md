@@ -4315,6 +4315,103 @@ Woodbine is a well-established residential neighborhood in southwest Calgary, kn
 Woodbine's suburban appeal, higher income levels, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Dalhousie
+
+Dalhousie is a well-established residential neighborhood in northwest Calgary, known for its mature landscapes and convenient access to amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Dalhousie Community Association:** Offers various programs, events, and facilities for residents, fostering community engagement.
+  - **Nose Hill Park:** One of Calgary's largest natural environment parks, providing extensive trails and natural scenery.
+
+- **Shopping and Dining:**
+  - **Dalhousie Station Shopping Centre:** Features grocery stores, restaurants, and various retail outlets catering to daily needs.
+  - **Northland Village Mall:** A short drive away, offering a wide range of shopping and dining options.
+
+- **Education:**
+  - **Schools in and around Dalhousie:**
+    - Dalhousie School (K-6)
+    - West Dalhousie School (K-6)
+    - H.D. Cartwright School (7-9)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Dalhousie were constructed during the **1970s**, reflecting the suburban development trends of that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Dalhousie had a population of approximately **8,530 residents**. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- The median household income in Dalhousie is approximately **$80,242**, which is 15% lower than the Alberta average. 
+
+## 7. Crime Rate
+
+- Dalhousie is considered a **safe neighborhood**, with crime rates 26% lower than the Alberta average. 
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among students and professionals due to proximity to the University of Calgary and major employment centers.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,800 to $2,500 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,200 to $1,800 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Dalhousie can be classified as a **B neighborhood**, characterized by its suburban setting, moderate income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature and consistent demand for housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Dalhousie is approximately **$739,808**, with properties ranging from around $349,000 to $749,183. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or condos for long-term appreciation and stable rental income.
+
+- **Student Housing:**
+  - Targeting rental properties to students attending the nearby University of Calgary.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Dalhousie's suburban appeal, proximity to educational institutions, and access to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation.
+
+
 # Silver Springs
 # Springbank Hill
 # Scenic Acres
