@@ -4601,6 +4601,106 @@ Springbank Hill's affluent status, high-quality housing, and proximity to amenit
 
 
 # Scenic Acres
+
+Scenic Acres is a well-established residential neighborhood in northwest Calgary, known for its family-friendly environment and scenic views. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Scenic Acres Community Association:** Offers various programs, events, and facilities for residents, fostering community engagement. 
+  - **Crowfoot Arena:** Provides ice-skating and hockey facilities for sports enthusiasts.
+
+- **Parks and Nature:**
+  - **Bowmont Park:** Offers extensive trails and natural scenery along the Bow River, ideal for outdoor activities.
+  - **Baker Park:** A nearby park featuring picnic areas, pathways, and river access.
+
+- **Shopping and Dining:**
+  - **Crowfoot Crossing:** A major retail hub nearby, featuring grocery stores, restaurants, and various retail outlets.
+  - **Market Mall:** Offers a wide range of shopping and dining options within a short drive.
+
+- **Education:**
+  - **Schools in and around Scenic Acres:**
+    - Scenic Acres School (Public K-4)
+    - Monsignor E.L. Doyle Elementary (Catholic K-6)
+    - École du Nouveau-Monde (Francophone K-6)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Scenic Acres were constructed during the **1980s and 1990s**, reflecting the suburban development trends of that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- Limited **townhouses** and **condominiums**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2018 municipal census, Scenic Acres had a population of approximately **8,090 residents**, showing a 2.0% decrease from its 2017 population. 
+- The population has remained relatively stable, with minor fluctuations over the past decade.
+
+## 6. Average Income
+
+- Households in this community had a median household income of **$145,685** in 2015, with 4.0% low-income residents. 
+
+## 7. Crime Rate
+
+- Scenic Acres is considered a **safe neighborhood**, with crime rates lower than the Calgary average.
+- Community engagement and local policing contribute to maintaining safety in the area.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **limited supply** of rental properties, primarily consisting of single-family homes.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking suburban living with access to amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,000 to $2,500 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,500 to $2,000 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Scenic Acres can be classified as a **B neighborhood**, characterized by its suburban setting, moderate to high income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's established nature, desirable amenities, and consistent demand for suburban housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Scenic Acres is approximately **$709,940**, with properties ranging from around $539,900 to $899,900. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term appreciation and stable rental income.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools and suburban amenities.
+
+- **Limited Multi-Family Opportunities:**
+  - Due to zoning restrictions, opportunities for multi-family investments are limited.
+
+Scenic Acres' suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Penbrooke Meadows
 # Somerset
 # Marlborough
