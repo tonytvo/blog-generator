@@ -4702,6 +4702,103 @@ Scenic Acres is a well-established residential neighborhood in northwest Calgary
 Scenic Acres' suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Penbrooke Meadows
+
+Penbrooke Meadows is a residential neighborhood in southeast Calgary, known for its affordability and community-oriented atmosphere. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Penbrooke Meadows Community Association:** Offers various programs and events that foster community engagement. 
+  - **Elliston Park:** A nearby park featuring walking paths, picnic areas, and hosting the annual GlobalFest fireworks festival.
+
+- **Shopping and Dining:**
+  - **International Avenue (17 Avenue SE):** Provides a diverse range of restaurants, shops, and services reflecting Calgary's multicultural community.
+  - **Marlborough Mall:** Offers additional shopping and dining options within a short drive.
+
+- **Education:**
+  - **Schools in and around Penbrooke Meadows:**
+    - G.W. Skene Elementary School (Public)
+    - James Short Memorial Elementary School (Public)
+    - Penbrooke Meadows Elementary School (Public)
+    - St. Peter Elementary School (Catholic)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Penbrooke Meadows were constructed between **1960 and 1980**, during its primary development phase. 
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking affordable housing options.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Penbrooke Meadows had a population of approximately **8,625 residents**. 
+- The population has remained relatively stable, with minor fluctuations over recent years.
+
+## 6. Average Income
+
+- The median household income in Penbrooke Meadows is approximately **$65,206**, which is below the Calgary median. 
+
+## 7. Crime Rate
+
+- Penbrooke Meadows experiences a **moderate crime rate**, with some incidents reported.
+- Community initiatives and local policing efforts are in place to address safety concerns.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among individuals and families seeking affordable housing options.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,500 to $2,000 per month**, depending on size and condition.
+
+- **Townhouses and Condos:**
+  - Range from **$1,200 to $1,500 per month**, varying by size and amenities.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Penbrooke Meadows can be classified as a **C neighborhood**, characterized by its affordability and working-class demographic.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's affordability and ongoing community development initiatives.
+
+- **Current Returns and Cash Flow:**
+  - Potential for positive cash flow due to lower property acquisition costs and stable rental demand.
+
+## 12. Average House Prices
+
+- The average house price in Penbrooke Meadows is approximately **$456,315**, with properties ranging from around $260,000 to $629,999. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or townhouses for long-term rental income and potential appreciation.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Affordable Housing Focus:**
+  - Targeting rental properties that appeal to individuals and families seeking budget-friendly housing options.
+
+- **Multi-Family Opportunities:**
+  - Exploring opportunities for duplexes or semi-detached homes in areas with R-C2 zoning.
+
+Penbrooke Meadows' affordability, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Somerset
 # Marlborough
 # Marlborough Park
