@@ -4800,6 +4800,100 @@ Penbrooke Meadows is a residential neighborhood in southeast Calgary, known for 
 Penbrooke Meadows' affordability, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Somerset
+
+Somerset is a residential neighborhood in the southwest quadrant of Calgary, known for its family-friendly environment and convenient access to amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Somerset Park:** Features playgrounds, tennis courts, and open green spaces for outdoor activities.
+  - **Shawnessy YMCA:** Offers fitness facilities, swimming pools, and various programs for all age groups.
+
+- **Shopping and Dining:**
+  - **Shawnessy Village Shopping Centre:** Provides a variety of retail stores, restaurants, and essential services.
+  - **Sobeys and Superstore:** Grocery stores located within a short drive for convenient shopping.
+
+- **Transportation:**
+  - **Somerset-Bridlewood LRT Station:** Offers residents easy access to Calgary's public transit system, connecting to downtown and other parts of the city.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Somerset were constructed in the **1990s and early 2000s**, aligning with the neighborhood's development during that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers, including first-time homeowners and downsizers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-1 (Residential – One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Somerset had a population of approximately **8,320 residents**. 
+- The population has remained relatively stable, with minor fluctuations over recent years.
+
+## 6. Average Income
+
+- The median household income in Somerset is approximately **$94,504**, which is equal to the Alberta median. 
+
+## 7. Crime Rate
+
+- Somerset's crime rates are **10% higher than the national average**, with violent crimes being **14% lower than the national average**. 
+- Residents have a **1 in 22 chance** of becoming a victim of crime, and the neighborhood is considered safer than **61% of the cities in Alberta**.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among families and individuals seeking suburban living with access to amenities and public transit.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,100 per month**, depending on size and condition. 
+
+- **Apartments:**
+  - One-bedroom units average around **$1,771 per month**.
+  - Two-bedroom units average around **$2,210 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Somerset can be classified as a **B neighborhood**, characterized by its suburban setting, moderate to high income levels, and access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature, desirable amenities, and consistent demand for suburban housing.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in Somerset is approximately **$627,857**, with properties ranging based on size, type, and condition. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or townhouses for long-term rental income and potential appreciation.
+
+- **Value-Add Renovations:**
+  - Purchasing properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Targeting Families:**
+  - Focusing on rental properties that appeal to families seeking access to quality schools, parks, and suburban amenities.
+
+- **Proximity to Transit:**
+  - Leveraging the neighborhood's access to the LRT station to attract tenants who prioritize public transportation.
+
+Somerset's suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Marlborough
 # Marlborough Park
 # New Brighton
