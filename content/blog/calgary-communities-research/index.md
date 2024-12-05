@@ -4895,6 +4895,101 @@ Somerset is a residential neighborhood in the southwest quadrant of Calgary, kno
 Somerset's suburban appeal, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Marlborough
+
+Marlborough is a residential neighborhood in northeast Calgary, known for its diverse community and convenient access to amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Shopping and Dining:**
+  - **Marlborough Mall:** A major shopping center offering a variety of retail stores, restaurants, and services.
+  - **Pacific Place Mall:** Provides additional shopping and dining options within close proximity.
+
+- **Recreational Facilities:**
+  - **Marlborough Community Association:** Offers various programs, events, and facilities for residents, fostering community engagement.
+  - **Bob Bahan Aquatic & Fitness Centre:** Features swimming pools, fitness equipment, and recreational programs.
+
+- **Parks and Green Spaces:**
+  - **Marlborough Park:** Provides open spaces, playgrounds, and pathways for outdoor activities.
+  - **Elliston Park:** A nearby park known for its walking trails, picnic areas, and hosting the annual GlobalFest fireworks festival.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Marlborough were constructed in the **1960s and 1970s**, reflecting the neighborhood's establishment during that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers, including first-time homeowners and downsizers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Marlborough had a population of approximately **8,910 residents**. 
+- The population has remained relatively stable, with minor fluctuations over recent years.
+
+## 6. Average Income
+
+- Residents in this community had a median household income of **$80,000** in 2021, with 11% of residents classified as low-income. 
+
+## 7. Crime Rate
+
+- Marlborough's crime rates are approximately **5,459 per 100,000 people**, which is **15% lower than the Alberta average** but **29% higher than the national average**. 
+- The neighborhood experiences a mix of property and violent crimes, with ongoing community efforts to maintain safety.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among individuals and families seeking affordable housing options with convenient access to amenities and public transit.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,500 to $2,000 per month**, depending on size and condition.
+
+- **Apartments:**
+  - One-bedroom units average around **$1,200 per month**.
+  - Two-bedroom units average around **$1,400 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Marlborough can be classified as a **C neighborhood**, characterized by its affordability, working-class demographic, and diverse community.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature and ongoing community development initiatives.
+
+- **Current Returns and Cash Flow:**
+  - Potential for positive cash flow due to lower property acquisition costs and stable rental demand.
+
+## 12. Average House Prices
+
+- The average house price in Marlborough is approximately **$526,783**, with properties ranging based on size, type, and condition. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or townhouses for long-term rental income and potential appreciation.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Affordable Housing Focus:**
+  - Targeting rental properties that appeal to individuals and families seeking budget-friendly housing options.
+
+- **Multi-Family Opportunities:**
+  - Exploring opportunities for duplexes or semi-detached homes in areas with R-C2 zoning.
+
+Marlborough's affordability, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Marlborough Park
 # New Brighton
 # West Springs
