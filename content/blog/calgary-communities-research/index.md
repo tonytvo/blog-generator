@@ -4991,6 +4991,103 @@ Marlborough is a residential neighborhood in northeast Calgary, known for its di
 Marlborough's affordability, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # Marlborough Park
+
+Marlborough Park is a residential neighborhood in northeast Calgary, known for its family-friendly environment and accessibility to various amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Parks and Recreation:**
+  - **Marlborough Park:** A central feature of the community, offering playgrounds, walking paths, and open green spaces for outdoor activities.
+  - **Bob Bahan Aquatic & Fitness Centre:** Provides swimming pools, fitness facilities, and recreational programs for all ages.
+
+- **Shopping and Dining:**
+  - **Marlborough Mall:** A nearby shopping center with a variety of retail stores, restaurants, and services.
+  - **Pacific Place Mall:** Offers additional shopping and dining options within close proximity.
+
+- **Education:**
+  - **Schools in and around Marlborough Park:**
+    - G.W. Skene School (Public)
+    - St. Martha School (Catholic)
+    - Roland Michener School (Public)
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Marlborough Park were constructed during the **1970s**, reflecting the neighborhood's establishment in that era. 
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers, including first-time homeowners and downsizers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-C2 zoning**, which permits duplexes or semi-detached homes.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2019 municipal census, Marlborough Park had a population of approximately **8,523 residents**. 
+- The population has remained relatively stable, with minor fluctuations over recent years.
+
+## 6. Average Income
+
+- The median household income in Marlborough Park is approximately **$73,962**, which is **22% lower than the Alberta average**. 
+
+## 7. Crime Rate
+
+- Marlborough Park's total crime rate is approximately **5,486 per 100,000 people**, which is **14% lower than the Alberta average** but **30% higher than the national average**. 
+- Residents have a **1 in 19 chance** of becoming a victim of crime, indicating a moderate crime rate.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among individuals and families seeking affordable housing options with convenient access to amenities and public transit.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,500 to $2,000 per month**, depending on size and condition.
+
+- **Apartments:**
+  - One-bedroom units average around **$1,200 per month**.
+  - Two-bedroom units average around **$1,400 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Marlborough Park can be classified as a **C neighborhood**, characterized by its affordability, working-class demographic, and diverse community.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature and ongoing community development initiatives.
+
+- **Current Returns and Cash Flow:**
+  - Potential for positive cash flow due to lower property acquisition costs and stable rental demand.
+
+## 12. Average House Prices
+
+- As of December 2024, the average house price in Marlborough Park is approximately **$457,800**, with properties ranging based on size, type, and condition. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or townhouses for long-term rental income and potential appreciation.
+
+- **Value-Add Renovations:**
+  - Purchasing older properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Affordable Housing Focus:**
+  - Targeting rental properties that appeal to individuals and families seeking budget-friendly housing options.
+
+- **Multi-Family Opportunities:**
+  - Exploring opportunities for duplexes or semi-detached homes in areas with R-C2 zoning.
+
+Marlborough Park's affordability, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # New Brighton
 # West Springs
 # Downtown Commercial Core
