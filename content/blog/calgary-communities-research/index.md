@@ -5089,6 +5089,97 @@ Marlborough Park is a residential neighborhood in northeast Calgary, known for i
 Marlborough Park's affordability, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # New Brighton
+
+New Brighton is a master-planned residential neighborhood in southeast Calgary, known for its family-friendly atmosphere and modern amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **New Brighton Clubhouse:** Features tennis courts, a water park, skating rinks, and a community center offering various programs and events.
+  - **New Brighton Central Park:** Offers pathways, a pond, and open green spaces for outdoor activities.
+
+- **Shopping and Dining:**
+  - **130th Avenue Retail Corridor:** Provides a wide range of retail stores, restaurants, and essential services.
+  - **McKenzie Towne High Street:** Offers additional shopping and dining options within close proximity.
+
+- **Education:**
+  - **Dr. Martha Cohen School:** Serves students from grades 5 to 9.
+  - **St. Marguerite School:** A Catholic school offering education from kindergarten to grade 6.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in New Brighton were constructed **post-2000**, reflecting the neighborhood's development during the early 2000s. 
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, catering to families seeking suburban living.
+- A selection of **semi-detached houses**, **row houses**, and **condominiums**, offering options for a range of buyers, including first-time homeowners and downsizers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-1N (Residential – Narrow Parcel One Dwelling District)**, allowing for single-family homes on narrower lots.
+- Some areas may have **R-2M zoning**, which permits semi-detached dwellings and rowhouses.
+- Certain zones may allow for the development of **secondary suites**, subject to City of Calgary approval.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, New Brighton had a population of approximately **13,196 residents**. 
+- The neighborhood has experienced significant growth since its establishment, with a steady increase in population over the years.
+
+## 6. Average Income
+
+- The median household income in New Brighton is approximately **$121,034**, which is higher than the Calgary median. 
+
+## 7. Crime Rate
+
+- New Brighton is considered a safe community with a **low crime rate**, contributing to its family-friendly reputation.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **moderate supply** of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand, particularly among families and young professionals seeking modern housing in a suburban setting with access to amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,000 to $2,500 per month**, depending on size and condition.
+
+- **Apartments:**
+  - One-bedroom units average around **$1,400 per month**.
+  - Two-bedroom units average around **$1,600 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- New Brighton can be classified as a **B+ neighborhood**, characterized by its modern development, higher-than-average income levels, and access to quality amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **High**, due to the neighborhood's modern infrastructure, desirable amenities, and ongoing development in the southeast quadrant of Calgary.
+
+- **Current Returns and Cash Flow:**
+  - Stable rental income with potential for appreciation, offering favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in New Brighton is approximately **$614,000**, with properties ranging based on size, type, and condition. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or townhouses for long-term rental income and potential appreciation.
+
+- **Targeting Families and Young Professionals:**
+  - Focusing on rental properties that appeal to families and young professionals seeking modern amenities and suburban living.
+
+- **New Construction Opportunities:**
+  - Exploring investment in new builds or developments, capitalizing on the neighborhood's ongoing growth and demand for modern housing.
+
+New Brighton's modern development, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # West Springs
 # Downtown Commercial Core
 # Hamptons
