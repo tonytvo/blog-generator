@@ -5181,6 +5181,99 @@ New Brighton is a master-planned residential neighborhood in southeast Calgary, 
 New Brighton's modern development, diverse housing options, and proximity to amenities make it an attractive option for real estate investors seeking stable returns and potential appreciation. 
 
 # West Springs
+
+West Springs is a sought-after residential neighborhood in southwest Calgary, known for its family-friendly environment, modern amenities, and proximity to downtown. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Shopping and Dining:**
+  - **West Springs Village:** Offers a variety of boutiques, restaurants, and essential services.
+  - **Aspen Landing Shopping Centre:** Provides additional retail options, including grocery stores, cafes, and specialty shops.
+
+- **Recreational Facilities:**
+  - **Westside Recreation Centre:** Features fitness facilities, swimming pools, and programs for all ages.
+  - **Canada Olympic Park:** Nearby facility offering skiing, snowboarding, and mountain biking.
+
+- **Parks and Green Spaces:**
+  - **Edworthy Park:** Offers extensive pathways, picnic areas, and access to the Bow River.
+  - **Local Pathways:** Interconnected trails suitable for walking, running, and cycling.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in West Springs were constructed in the **late 1990s to 2010s**, reflecting the neighborhood's development during this period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many of which are spacious and situated on larger lots.
+- A selection of **townhouses** and **condominiums**, offering options for a range of buyers, including young professionals and retirees.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-1 (Residential – One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-2 zoning**, which permits semi-detached dwellings.
+- The current zoning generally does **not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, West Springs had a population of approximately **11,560 residents**. 
+- The neighborhood has experienced steady growth, with a diverse demographic that includes families, professionals, and retirees.
+
+## 6. Average Income
+
+- The median household income in West Springs is approximately **$172,621**, which is **82% higher than the Alberta average**. 
+
+## 7. Crime Rate
+
+- West Springs is considered a safe community with a **total crime rate of 1,782 per 100,000 people**, which is **72% lower than the Alberta average**. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - There is a **limited supply** of rental properties, primarily consisting of single-family homes and townhouses.
+
+- **Demand:**
+  - High demand, particularly among families and professionals seeking quality housing in a desirable neighborhood with access to amenities and reputable schools.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,500 to $3,500 per month**, depending on size and condition.
+
+- **Townhouses and Condominiums:**
+  - Two-bedroom units average around **$1,800 to $2,200 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- West Springs can be classified as an **A neighborhood**, characterized by its high-income residents, low crime rates, and well-maintained properties.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **High**, due to the neighborhood's desirability, quality amenities, and proximity to downtown Calgary.
+
+- **Current Returns and Cash Flow:**
+  - While property acquisition costs are higher, the strong rental demand and premium rents can result in favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average house price in West Springs is approximately **$707,000**, with properties ranging based on size, type, and condition. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or townhouses for long-term rental income and potential appreciation.
+
+- **Luxury Rentals:**
+  - Targeting high-end rental properties that appeal to affluent tenants seeking premium accommodations.
+
+- **Executive Leasing:**
+  - Focusing on short-term rentals for corporate clients or relocating professionals, capitalizing on the neighborhood's proximity to business centers.
+
+- **Value-Add Renovations:**
+  - Purchasing properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+West Springs' combination of modern amenities, safety, and proximity to downtown Calgary makes it an attractive option for real estate investors seeking long-term appreciation and stable returns. 
+
 # Downtown Commercial Core
 # Hamptons
 # Copperfield
