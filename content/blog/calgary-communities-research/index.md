@@ -5367,6 +5367,98 @@ The Downtown Commercial Core is the heart of Calgary's business district, charac
 Investing in the Downtown Commercial Core offers opportunities to capitalize on urban living trends, though it's essential to consider market dynamics, economic factors, and potential risks associated with downtown real estate.
 
 # Hamptons
+
+The Hamptons is an affluent residential neighborhood in northwest Calgary, known for its well-maintained properties, golf course, and family-friendly environment. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **The Hamptons Golf Club:** A premier 18-hole golf course offering memberships and public play.
+  - **Community Parks and Pathways:** Numerous parks, playgrounds, and walking trails for outdoor activities.
+
+- **Shopping and Dining:**
+  - **Country Hills Village Shopping Centre:** Offers a variety of retail stores, restaurants, and essential services.
+  - **Beacon Hill Centre:** Provides additional shopping options, including major retailers and dining establishments.
+
+- **Education:**
+  - **The Hamptons School:** An elementary school serving the community's young residents.
+  - **Tom Baines School:** A junior high school located nearby in the Edgemont community.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in the Hamptons were constructed in the **1990s**, reflecting the neighborhood's development during this period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many of which are spacious and situated on well-manicured lots.
+- Some **townhouses** and **semi-detached homes**, offering options for a range of buyers.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-1 (Residential – One Dwelling District)**, allowing for single-family homes.
+- Recent city-wide zoning changes aim to increase housing density; however, the Hamptons remains largely characterized by low-density residential zoning. 
+
+## 5. Population and Growth
+
+- As of the 2016 Census, the Hamptons had a population of approximately **7,355 residents**. 
+- The neighborhood has experienced modest growth, maintaining a stable and mature community demographic.
+
+## 6. Average Income
+
+- The median household income in the Hamptons is approximately **$146,254**, which is **55% higher than the Alberta average**. 
+
+## 7. Crime Rate
+
+- The Hamptons is considered a safe community with crime rates **43% lower than the national average**. Violent crimes are **56% lower than the national average**, making it safer than **92% of the cities in Alberta**. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - Limited supply of rental properties, primarily consisting of single-family homes and townhouses.
+
+- **Demand:**
+  - Moderate demand, particularly among families and professionals seeking quality housing in a prestigious neighborhood.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,290 to $3,500 per month**, depending on size and condition.
+
+- **Townhouses:**
+  - Approximately **$2,400 to $2,450 per month**. 
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- The Hamptons can be classified as an **A neighborhood**, characterized by its high-income residents, low crime rates, and well-maintained properties.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's desirability, quality amenities, and stable market conditions.
+
+- **Current Returns and Cash Flow:**
+  - While property acquisition costs are higher, the limited rental supply and steady demand can result in favorable cash flow for investors.
+
+## 12. Average House Prices
+
+- The average property price in the Hamptons is approximately **$861,845**, with variations based on property type and condition. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes for long-term rental income and potential appreciation.
+
+- **Luxury Rentals:**
+  - Targeting high-end rental properties that appeal to affluent tenants seeking premium accommodations.
+
+- **Value-Add Renovations:**
+  - Purchasing properties in need of updates, renovating to modern standards to increase value and rental potential.
+
+- **Limited Development Opportunities:**
+  - Due to existing zoning regulations favoring low-density residential development, opportunities for increasing density are limited.
+
+The Hamptons' combination of high-quality housing, safety, and access to amenities makes it an attractive option for real estate investors seeking stable returns and long-term appreciation. 
+
 # Copperfield
 # Canyon Meadows
 # Rocky Ridge
