@@ -5459,8 +5459,101 @@ The Hamptons is an affluent residential neighborhood in northwest Calgary, known
 
 The Hamptons' combination of high-quality housing, safety, and access to amenities makes it an attractive option for real estate investors seeking stable returns and long-term appreciation. 
 
-# Copperfield
 # Canyon Meadows
+
+Canyon Meadows is a well-established residential neighborhood in southwest Calgary, known for its mature trees, proximity to natural parks, and family-friendly atmosphere. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Canyon Meadows Aquatic & Fitness Centre:** Offers swimming pools, fitness equipment, and various programs for all ages.
+  - **Canyon Meadows Golf Club:** A private 18-hole golf course providing premium golfing experiences.
+
+- **Parks and Green Spaces:**
+  - **Fish Creek Provincial Park:** One of the largest urban parks in North America, offering extensive trails, picnic areas, and natural landscapes.
+  - **Local Parks:** Numerous community parks and playgrounds suitable for families and outdoor activities.
+
+- **Shopping and Dining:**
+  - **Southcentre Mall:** A major shopping center with a wide range of retail stores and dining options.
+  - **Canyon Meadows Shopping Centre:** Provides local conveniences, including grocery stores, cafes, and essential services.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Canyon Meadows were constructed between the **1960s and 1980s**, reflecting the neighborhood's development during this period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many featuring spacious lots and mature landscaping.
+- A selection of **townhouses** and **condominiums**, offering diverse housing options for various demographics.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C1 (Residential – Contextual One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-C2 zoning**, permitting semi-detached dwellings.
+- Current zoning regulations generally **do not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Canyon Meadows had a population of approximately **7,624 residents**. 
+- The neighborhood has experienced stable population levels, maintaining a mature and established community demographic.
+
+## 6. Average Income
+
+- The median household income in Canyon Meadows is approximately **$89,000**, aligning closely with Calgary's median household income.
+
+## 7. Crime Rate
+
+- Canyon Meadows is considered a safe community with crime rates comparable to Calgary's average, contributing to its family-friendly reputation.
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - A moderate supply of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand from families, young professionals, and retirees seeking a suburban lifestyle with access to urban amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$1,800 to $2,500 per month**, depending on size and condition.
+
+- **Apartments and Condominiums:**
+  - One-bedroom units average around **$1,200 to $1,400 per month**.
+  - Two-bedroom units average around **$1,400 to $1,600 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Canyon Meadows can be classified as a **B neighborhood**, characterized by its middle to upper-middle-class residents, well-maintained properties, and desirable location.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature, desirable location, and consistent demand.
+
+- **Current Returns and Cash Flow:**
+  - Investors can expect stable rental income with moderate property acquisition costs, leading to reasonable cash flow opportunities.
+
+## 12. Average House Prices
+
+- As of November 2024, the median home asking price in Canyon Meadows was **$489,900**, while the median home sold price was **$445,000**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or condominiums for long-term rental income and potential appreciation.
+
+- **Renovation and Resale:**
+  - Purchasing older properties in need of updates, renovating to modern standards, and selling at a higher market value.
+
+- **Rental Property Management:**
+  - Managing a portfolio of rental properties to capitalize on steady demand and stable rental income.
+
+- **Multi-Family Development:**
+  - Exploring opportunities in areas zoned for higher density to develop duplexes or townhouses, subject to zoning regulations.
+
+Canyon Meadows' combination of mature landscaping, proximity to natural parks, and access to amenities makes it an attractive option for real estate investors seeking stable returns and moderate appreciation potential. 
+
 # Rocky Ridge
 # Ranchlands
 # Harvest Hills
