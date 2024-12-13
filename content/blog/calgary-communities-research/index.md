@@ -5555,6 +5555,100 @@ Canyon Meadows is a well-established residential neighborhood in southwest Calga
 Canyon Meadows' combination of mature landscaping, proximity to natural parks, and access to amenities makes it an attractive option for real estate investors seeking stable returns and moderate appreciation potential. 
 
 # Rocky Ridge
+
+Rocky Ridge is a picturesque residential neighborhood in northwest Calgary, known for its elevated terrain, scenic views, and family-friendly environment. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Rocky Ridge Ranch Centre:** Offers a clubhouse, tennis courts, playgrounds, and a pond for residents.
+  - **YMCA at Rocky Ridge:** Provides a swimming pool, fitness facilities, and various programs for all ages.
+
+- **Parks and Green Spaces:**
+  - **Rocky Ridge Park:** Features walking trails, picnic areas, and natural landscapes.
+  - **Twelve Mile Coulee Natural Environment Park:** Offers extensive trails for hiking and biking.
+
+- **Shopping and Dining:**
+  - **Royal Oak Centre:** A nearby shopping complex with grocery stores, restaurants, and essential services.
+  - **Crowfoot Crossing:** Provides additional retail options, including major retailers and dining establishments.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Rocky Ridge were constructed **post-1990s**, with significant development occurring in the late 1990s and early 2000s.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many featuring modern designs and spacious lots.
+- A selection of **townhouses** and **condominiums**, offering diverse housing options for various demographics.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-1 (Residential – One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-2 zoning**, permitting semi-detached dwellings.
+- Current zoning regulations generally **do not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Rocky Ridge had a population of approximately **8,195 residents**. 
+- The neighborhood has experienced steady growth, maintaining a vibrant and diverse community demographic.
+
+## 6. Average Income
+
+- The median total household income in Rocky Ridge is approximately **$118,000**, which is higher than the Calgary median of $98,000. 
+
+## 7. Crime Rate
+
+- Rocky Ridge is considered a safe community with low crime rates. As of October 2024, the community experienced a total of **26 crimes**, marking a **26% decrease** compared to 35 crimes in October 2023. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - A moderate supply of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand from families, professionals, and retirees seeking a suburban lifestyle with access to urban amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,500 to $3,500 per month**, depending on size and condition.
+
+- **Apartments and Condominiums:**
+  - One-bedroom units average around **$1,400 to $1,600 per month**.
+  - Two-bedroom units average around **$1,600 to $1,800 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Rocky Ridge can be classified as a **B+ neighborhood**, characterized by its middle to upper-middle-class residents, well-maintained properties, and desirable location.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's desirability, quality amenities, and consistent demand.
+
+- **Current Returns and Cash Flow:**
+  - Investors can expect stable rental income with moderate property acquisition costs, leading to reasonable cash flow opportunities.
+
+## 12. Average House Prices
+
+- As of November 2024, the median home asking price in Rocky Ridge was **$679,900**, while the median home sold price was **$682,900**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or condominiums for long-term rental income and potential appreciation.
+
+- **Renovation and Resale:**
+  - Purchasing properties in need of updates, renovating to modern standards, and selling at a higher market value.
+
+- **Rental Property Management:**
+  - Managing a portfolio of rental properties to capitalize on steady demand and stable rental income.
+
+- **Multi-Family Development:**
+  - Exploring opportunities in areas zoned for higher density to develop duplexes or townhouses, subject to zoning regulations.
+
+Rocky Ridge's combination of modern housing, scenic views, and access to amenities makes it an attractive option for real estate investors seeking stable returns and potential appreciation. 
+
 # Ranchlands
 # Harvest Hills
 # Auburn Bay
