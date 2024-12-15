@@ -5741,6 +5741,100 @@ Ranchlands' combination of diverse housing options, access to amenities, and sta
 
 
 # Harvest Hills
+
+Harvest Hills is a residential neighborhood in northeast Calgary, known for its family-friendly environment and convenient access to amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Harvest Hills Lake:** A central feature of the community, offering scenic views and walking paths.
+  - **Former Harvest Hills Golf Course:** Previously a local golf course, the area has been redeveloped into residential properties and green spaces.
+
+- **Parks and Green Spaces:**
+  - **Numerous parks and playgrounds:** Providing outdoor spaces for families and children.
+
+- **Shopping and Dining:**
+  - **Country Hills Town Centre:** Offers a variety of retail stores, restaurants, and essential services.
+  - **Vivo for Healthier Generations:** A nearby recreational facility offering fitness programs, swimming pools, and community events.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Harvest Hills were constructed between **1990 and 2000**, during its largest building boom. 
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many featuring modern designs and spacious lots.
+- A selection of **townhouses** and **condominiums**, offering diverse housing options for various demographics.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-1 (Residential – One Dwelling District)**, allowing for single-family homes.
+- Some areas may have **R-2 zoning**, permitting semi-detached dwellings.
+- Current zoning regulations generally **do not allow for multiple units per lot** beyond what is specified.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Harvest Hills had a population of approximately **7,560 residents**. 
+- The neighborhood has experienced stable population levels, maintaining a mature and established community demographic.
+
+## 6. Average Income
+
+- The median total household income in Harvest Hills is approximately **$112,683**, which is higher than the Calgary median of $97,329. 
+
+## 7. Crime Rate
+
+- Harvest Hills is considered a safe community with crime rates comparable to Calgary's average.
+- In October 2024, Harvest Hills experienced **1 crime**, compared to **3 crimes** in October 2023, indicating a decrease in criminal activity. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - A moderate supply of rental properties, including single-family homes, townhouses, and apartments.
+
+- **Demand:**
+  - Steady demand from families, young professionals, and retirees seeking a suburban lifestyle with access to urban amenities.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Approximately **$2,500 to $3,500 per month**, depending on size and condition.
+
+- **Apartments and Condominiums:**
+  - One-bedroom units average around **$1,200 to $1,400 per month**.
+  - Two-bedroom units average around **$1,400 to $1,600 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Harvest Hills can be classified as a **B+ neighborhood**, characterized by its middle to upper-middle-class residents, well-maintained properties, and desirable location.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate to High**, due to the neighborhood's desirability, quality amenities, and consistent demand.
+
+- **Current Returns and Cash Flow:**
+  - Investors can expect stable rental income with moderate property acquisition costs, leading to reasonable cash flow opportunities.
+
+## 12. Average House Prices
+
+- As of November 2024, the average house price in Harvest Hills is approximately **$661,935**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or condominiums for long-term rental income and potential appreciation.
+
+- **Renovation and Resale:**
+  - Purchasing properties in need of updates, renovating to modern standards, and selling at a higher market value.
+
+- **Rental Property Management:**
+  - Managing a portfolio of rental properties to capitalize on steady demand and stable rental income.
+
+- **Multi-Family Development:**
+  - Exploring opportunities in areas zoned for higher density to develop duplexes or townhouses, subject to zoning regulations.
+
+Harvest Hills' combination of modern housing, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and potential appreciation. 
+
 # Auburn Bay
 # Glenbrook
 # Strathcona Park
