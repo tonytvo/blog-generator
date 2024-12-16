@@ -580,15 +580,6 @@ tags: ["realestate"]
 - **Strategy:** Luxury buy-and-hold
   - **Why:** Aspen is a luxury market with high-end homes that attract affluent buyers and renters. A buy-and-hold strategy here offers long-term appreciation, particularly as demand for premium homes continues to rise. Investors can rent properties to high-income tenants seeking proximity to top schools and amenities.
 
-# Glenbrook, west
-
-- Glenbrook offers a mix of older bungalows, newer infills, and townhouses. Close to Mount Royal University, Glenbrook is attractive to investors seeking rental properties due to its affordability and demand from students and young professionals.
-
-- The west side is known for its proximity to quality schools, parks, and amenities like Westside Rec Centre
-
-- **Strategy:** Fix-and-flip or buy-and-hold with suites
-  - **Why:** Glenbrook’s mix of older homes and newer infills makes it suitable for fix-and-flip investments, especially for those looking to renovate older properties. Adding legal basement suites to existing homes also increases rental yield, making it attractive for long-term investors.
-
 # Strathcona Park, west, +
 
 - **Nearby Amenities and Attractions**
@@ -5835,8 +5826,105 @@ Harvest Hills is a residential neighborhood in northeast Calgary, known for its 
 
 Harvest Hills' combination of modern housing, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and potential appreciation. 
 
-# Auburn Bay
-# Glenbrook
+# Glenbrook, west
+
+- Glenbrook offers a mix of older bungalows, newer infills, and townhouses. Close to Mount Royal University, Glenbrook is attractive to investors seeking rental properties due to its affordability and demand from students and young professionals.
+
+- The west side is known for its proximity to quality schools, parks, and amenities like Westside Rec Centre
+
+- Glenbrook is a well-established residential neighborhood in southwest Calgary, known for its mature trees, diverse housing options, and convenient access to amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Glenbrook Community Association:** Offers various programs, events, and facilities for residents, including sports fields and community halls.
+  - **Glenbrook Athletic Park:** Features sports fields, playgrounds, and open green spaces for outdoor activities.
+
+- **Shopping and Dining:**
+  - **Westhills Towne Centre:** A major shopping complex nearby, providing a wide range of retail stores, restaurants, and essential services.
+  - **Richmond Square:** Offers additional shopping and dining options within close proximity.
+
+- **Education:**
+  - **Glenbrook School:** An elementary school serving the local community.
+  - **A.E. Cross School:** A junior high school located within the neighborhood.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Glenbrook were constructed during the **1950s to 1970s**, reflecting the neighborhood's development during this period.
+
+## 3. Common Building Types
+
+- A mix of **single-family detached homes**, **semi-detached houses**, **townhouses**, and **low-rise apartment buildings**, offering diverse housing options for various demographics.
+
+## 4. Zoning Regulations
+
+- Primarily zoned as **R-C2 (Residential – Contextual One/Two Dwelling District)**, allowing for single-family and semi-detached homes.
+- Some areas may have **M-C1 (Multi-Residential – Contextual Low Profile)** zoning, permitting low-rise apartment buildings.
+- Certain zones allow for multiple units per lot, facilitating higher density residential developments.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Glenbrook had a population of approximately **7,240 residents**. 
+- The neighborhood has experienced stable population levels, maintaining a mature and established community demographic.
+
+## 6. Average Income
+
+- The median household income in Glenbrook is approximately **$72,824**, which is **23% lower than the Alberta average**. 
+
+## 7. Crime Rate
+
+- Glenbrook's crime rates are estimated at **5,011 incidents per 100,000 people**, which is **22% lower than the Alberta average**. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - A moderate supply of rental properties, including apartments, townhouses, and single-family homes.
+
+- **Demand:**
+  - Steady demand from students, young professionals, and families due to the neighborhood's affordability and proximity to amenities and educational institutions.
+
+## 9. Average Rents
+
+- **Apartments:**
+  - One-bedroom units average around **$1,572 per month**.
+  - Two-bedroom units average around **$1,844 per month**. 
+
+- **Houses:**
+  - Average monthly rent is approximately **$2,000**. 
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Glenbrook can be classified as a **B neighborhood**, characterized by its middle-class residents, diverse housing options, and convenient access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature and consistent demand.
+
+- **Current Returns and Cash Flow:**
+  - Investors can expect stable rental income with relatively affordable property acquisition costs, leading to reasonable cash flow opportunities.
+
+## 12. Average House Prices
+
+- As of October 2024, the median home asking price in Glenbrook was **$712,450**, while the median home sold price was **$713,100**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or condominiums for long-term rental income and potential appreciation.
+
+- **Renovation and Resale:**
+  - Purchasing older properties in need of updates, renovating to modern standards, and selling at a higher market value.
+  - **Why:** Glenbrook’s mix of older homes and newer infills makes it suitable for fix-and-flip investments, especially for those looking to renovate older properties. Adding legal basement suites to existing homes also increases rental yield, making it attractive for long-term investors.
+
+- **Rental Property Management:**
+  - Managing a portfolio of rental properties to capitalize on steady demand and stable rental income.
+
+- **Multi-Family Development:**
+  - Exploring opportunities in areas zoned for higher density to develop duplexes or townhouses, subject to zoning regulations.
+
+Glenbrook's combination of diverse housing options, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and moderate appreciation potential. 
+
 # Strathcona Park
 # Haysboro
 # Erin Woods
