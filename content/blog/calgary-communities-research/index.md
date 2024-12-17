@@ -5925,8 +5925,100 @@ Harvest Hills' combination of modern housing, access to amenities, and stable ma
 
 Glenbrook's combination of diverse housing options, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and moderate appreciation potential. 
 
-# Strathcona Park
 # Haysboro
+
+Haysboro is a well-established residential neighborhood in southwest Calgary, known for its mature trees, diverse housing options, and convenient access to amenities. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Glenmore Reservoir:** Offers opportunities for sailing, rowing, and pathways for walking and cycling.
+  - **Heritage Park Historical Village:** A nearby attraction providing historical exhibits and family-friendly activities.
+
+- **Shopping and Dining:**
+  - **Chinook Centre:** One of Calgary's largest shopping malls, located just north of Haysboro, offering a wide range of retail stores and restaurants.
+  - **Southland Crossing:** A shopping area providing additional retail and dining options.
+
+- **Education:**
+  - **Haysboro Elementary School:** Serving the local community with elementary education.
+  - **Woodman Junior High School:** Provides education for junior high students in the area.
+
+## 2. Housing Construction Timeline
+
+- The majority of homes in Haysboro were constructed during the **1950s and 1960s**, reflecting the neighborhood's development during that period.
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many featuring mid-century designs.
+- A significant proportion of **condominiums and apartments**, accounting for approximately 33.5% of the buildings. 
+
+## 4. Zoning Regulations
+
+- Primarily zoned for **low-density residential development**, allowing for single-family and some multi-family dwellings.
+- Specific zoning bylaws should be consulted to determine the potential for multiple units per lot, as regulations can vary within the community.
+
+## 5. Population and Growth
+
+- As of the 2021 Census, Haysboro had a population of approximately **6,960 residents**. 
+- The neighborhood has experienced stable population levels, maintaining a mature and established community demographic.
+
+## 6. Average Income
+
+- The median household income in Haysboro is approximately **$81,441**, which is **14% lower than the Alberta average**. 
+
+## 7. Crime Rate
+
+- Haysboro's crime rates are **17% higher than the national average**, with violent crimes being **9% lower than the national average**. Residents have a **1 in 21 chance** of becoming a victim of crime, making Haysboro safer than **57% of the cities in Alberta**. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - A moderate supply of rental properties, including apartments, condominiums, and single-family homes.
+
+- **Demand:**
+  - Steady demand from a diverse demographic, including young professionals, families, and retirees, due to the neighborhood's amenities and proximity to downtown Calgary.
+
+## 9. Average Rents
+
+- **Apartments and Condominiums:**
+  - One-bedroom units average around **$1,200 to $1,400 per month**.
+  - Two-bedroom units average around **$1,400 to $1,600 per month**.
+
+- **Single-family homes:**
+  - Rental rates vary based on size and condition but generally range from **$2,000 to $3,000 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Haysboro can be classified as a **B neighborhood**, characterized by its middle-class residents, well-maintained properties, and convenient access to amenities.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's established nature, desirable location, and consistent demand.
+
+- **Current Returns and Cash Flow:**
+  - Investors can expect stable rental income with moderate property acquisition costs, leading to reasonable cash flow opportunities.
+
+## 12. Average House Prices
+
+- As of December 2024, the average house price in Haysboro is approximately **$465,038**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or condominiums for long-term rental income and potential appreciation.
+
+- **Renovation and Resale:**
+  - Purchasing older properties in need of updates, renovating to modern standards, and selling at a higher market value.
+
+- **Rental Property Management:**
+  - Managing a portfolio of rental properties to capitalize on steady demand and stable rental income.
+
+- **Multi-Family Development:**
+  - Exploring opportunities in areas zoned for higher density to develop duplexes or townhouses, subject to zoning regulations.
+
+Haysboro's combination of diverse housing options, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and moderate appreciation potential. 
+
 # Erin Woods
 # Millrise
 # Midnapore
