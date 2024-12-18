@@ -6020,6 +6020,96 @@ Haysboro is a well-established residential neighborhood in southwest Calgary, kn
 Haysboro's combination of diverse housing options, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and moderate appreciation potential. 
 
 # Erin Woods
+
+Erin Woods is a residential neighborhood in southeast Calgary, known for its affordability and community spirit. Here's a detailed overview addressing your specific questions:
+
+## 1. Nearby Amenities and Attractions
+
+- **Recreational Facilities:**
+  - **Erin Woods Community Association:** Offers various programs and events for residents, fostering a close-knit community atmosphere. 
+
+- **Parks and Green Spaces:**
+  - **Open Fields and Green Spaces:** The area provides panoramic views of the Rocky Mountains and ample green spaces for outdoor activities. 
+
+- **Shopping and Dining:**
+  - **Nearby Commercial Areas:** While Erin Woods is primarily residential, it offers convenient access to the rest of the city, including various shopping and dining options in adjacent neighborhoods. 
+
+## 2. Housing Construction Timeline
+
+- Erin Woods was annexed by the City of Calgary in 1961 but was not developed until 20 years later. The majority of homes were constructed in the **1980s and 1990s**, reflecting the neighborhood's development during that period. 
+
+## 3. Common Building Types
+
+- Predominantly **single-family detached homes**, many featuring designs typical of the late 20th century.
+- A selection of **semi-detached houses** and **row houses**, offering diverse housing options for various demographics. 
+
+## 4. Zoning Regulations
+
+- Primarily zoned for **low-density residential development**, allowing for single-family and some multi-family dwellings.
+- Specific zoning bylaws should be consulted to determine the potential for multiple units per lot, as regulations can vary within the community.
+
+## 5. Population and Growth
+
+- As of the 2012 municipal census, Erin Woods had a population of approximately **6,901 residents**, showing a 1.6% increase from its 2011 population of 6,794. 
+- The neighborhood has experienced modest population growth, maintaining a stable community demographic.
+
+## 6. Average Income
+
+- Residents in this community had a median household income of **$56,123** in 2000, with 20.4% of the population considered low income. 
+
+## 7. Crime Rate
+
+- Erin Woods has a **crime rate of 5,011 incidents per 100,000 people**, which is **22% lower than the Alberta average**, indicating a relatively safe community. 
+
+## 8. Rental Supply and Demand
+
+- **Rental Supply:**
+  - A moderate supply of rental properties, including single-family homes, semi-detached houses, and row houses.
+
+- **Demand:**
+  - Steady demand from families and individuals seeking affordable housing options within Calgary.
+
+## 9. Average Rents
+
+- **Single-family homes:**
+  - Rental rates vary based on size and condition but generally range from **$1,200 to $1,800 per month**.
+
+- **Apartments and Condominiums:**
+  - One-bedroom units average around **$900 to $1,100 per month**.
+  - Two-bedroom units average around **$1,100 to $1,300 per month**.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+- Erin Woods can be classified as a **C+ neighborhood**, characterized by its working-class residents, affordable housing options, and developing infrastructure.
+
+## 11. Long-Term Potential Appreciation Compared to Current Returns and Cash Flow
+
+- **Appreciation Potential:**
+  - **Moderate**, due to the neighborhood's affordability and potential for future development.
+
+- **Current Returns and Cash Flow:**
+  - Investors can expect stable rental income with relatively low property acquisition costs, leading to favorable cash flow opportunities.
+
+## 12. Average House Prices
+
+- As of November 2024, the median home asking price in Erin Woods was **$349,450**, while the median home sold price was **$326,000**. 
+
+## 13. Real Estate Investment Strategies
+
+- **Buy and Hold:**
+  - Investing in single-family homes or semi-detached houses for long-term rental income and potential appreciation.
+
+- **Renovation and Resale:**
+  - Purchasing older properties in need of updates, renovating to modern standards, and selling at a higher market value.
+
+- **Rental Property Management:**
+  - Managing a portfolio of rental properties to capitalize on steady demand and stable rental income.
+
+- **Affordable Housing Development:**
+  - Exploring opportunities to develop affordable housing units to meet the needs of low to moderate-income residents.
+
+Erin Woods' combination of affordable housing options, access to amenities, and potential for future development makes it an attractive option for real estate investors seeking steady returns and moderate appreciation potential. 
+
 # Millrise
 # Midnapore
 # Killarney/Glengarry
