@@ -6204,8 +6204,129 @@ Millrise is a residential neighborhood in southwest Calgary, known for its famil
 
 Millrise's combination of diverse housing options, access to amenities, and stable market conditions makes it an attractive option for real estate investors seeking steady returns and moderate appreciation potential. 
 
-# Midnapore
 # Killarney/Glengarry
+
+Here’s a detailed outline of the **Killarney/Glengarry neighborhood in Calgary**, formatted similarly to the Chaparral neighborhood response:
+
+---
+
+## **Nearby Amenities and Attractions**
+- **Retail and Shopping:**  
+  - **Westbrook Mall:** Features Walmart, Safeway, and a variety of retail stores.  
+  - Shops along **17th Avenue S.W.** and **37th Street S.W.** offer local boutiques, cafes, and dining options.
+  
+- **Recreation and Parks:**  
+  - **Killarney Aquatic & Recreation Centre** provides a swimming pool, fitness facilities, and various programs.  
+  - Access to green spaces and smaller parks for outdoor activities.  
+  - **Shaganappi Golf Course** is nearby.
+
+- **Schools:**  
+  - **Killarney Elementary School** (Montessori programming) and **Holy Name Elementary School** (Bilingual).
+  - **A.E. Cross Junior High** and **Ernest Manning High School** nearby.  
+
+- **Transit and Accessibility:**  
+  - Excellent public transit access, including proximity to **Westbrook LRT Station.**  
+  - Quick access to downtown Calgary and major routes like Crowchild Trail.
+
+---
+
+## **Housing Characteristics**
+- **Construction Era:**  
+  - Initial development started in 1906, with most homes built post-WWII.  
+  - Significant redevelopment since the early 2000s with infill housing replacing older structures.
+
+- **Common Building Types:**  
+  - Mix of **single-detached homes**, **semi-detached dwellings**, **row houses**, and **low-rise apartments.**  
+  - Modern infills and townhouses are becoming increasingly common.
+
+---
+
+## **Zoning Regulations**
+- **Zoning Overview:**  
+  - Primarily residential, with zoning that allows for **low- to medium-density housing.**  
+  - Zoning includes R-C2 (Residential - Contextual One/Two Dwelling), which supports **duplexes and semi-detached homes.**  
+  - Areas allow for **multi-family housing developments,** promoting higher-density options on certain lots.
+
+- **Flexibility:**  
+  - Zoning allows for redevelopment and increasing the number of units per lot in many areas, making it attractive for investors.
+
+---
+
+## **Demographics**
+- **Population:**  
+  - Approximately **7,920 residents** (as of 2021).  
+
+- **Population Growth:**  
+  - Modest and stable growth, supported by infill developments and ongoing urban renewal projects.
+
+- **Average Income:**  
+  - Median household income: **$99,000**, slightly above the Calgary median.
+
+---
+
+## **Crime Rate**
+- **Safety Rating:**  
+  - Crime rate is **7% lower than Calgary’s average** and **39% lower than Alberta’s average.**  
+  - Considered a relatively safe and family-friendly neighborhood.
+
+---
+
+## **Rental Supply and Demand**
+- **Demand:**  
+  - Proximity to downtown and transit make Killarney attractive to renters, including young professionals and families.  
+  - High demand for modern rental units due to redevelopment.
+
+- **Supply:**  
+  - Increasing availability of **secondary suites** and multi-family properties.  
+  - Infill developments contribute to a growing rental market.
+
+- **Average Rents (Estimates):**  
+  - 1-bedroom: **$1,700+**  
+  - 2-bedroom: **$2,000+**  
+  - Rent rates in Killarney are typically in line with or slightly above Calgary averages, reflecting its central location and amenities.
+
+---
+
+## **Neighborhood Classification**
+- **Classification:**  
+  - Considered a **B-Class neighborhood.**  
+  - Established area with strong demand, good amenities, and ongoing redevelopment.
+
+---
+
+## **Real Estate Market**
+- **Average House Prices:**  
+  - Average home prices are estimated to be **slightly above Calgary’s citywide average** ($615,692 as of November 2024).  
+
+- **Long-term Potential:**  
+  - Strong appreciation potential due to urban renewal and desirability of location.  
+  - Solid rental demand supports stable cash flow opportunities.
+
+---
+
+## **Real Estate Investment Strategies**
+1. **Infill Development:**  
+   - Replace older bungalows with duplexes, townhouses, or modern detached homes.  
+   - Take advantage of zoning flexibility for multi-unit properties.
+
+2. **Buy-and-Hold Strategy:**  
+   - Acquire properties for rental income and benefit from steady appreciation.  
+   - Popular among young professionals due to proximity to transit and downtown.
+
+3. **Renovation and Resale (Flipping):**  
+   - Older homes can be renovated and resold at a premium, leveraging the neighborhood’s increasing value.
+
+4. **Multi-Family Properties:**  
+   - Develop or purchase multi-unit buildings to maximize rental income.  
+   - Perfect for zoning that permits higher densities.
+
+5. **Secondary Suites:**  
+   - Add or legalize secondary suites in older homes to increase rental yield.
+
+---
+
+Killarney/Glengarry presents a balanced mix of **investment potential, stable returns, and long-term appreciation.** The neighborhood's redevelopment initiatives and central location make it a prime choice for real estate investors.
+
 # Evanston
 # Applewood Park
 # Glamorgan
