@@ -1,7 +1,7 @@
 ---
-title: acquirer multiple by Tobias Carlisle summary
-date: "2022-07-25T22:12:03.284Z"
-description: "acquirer multiple by Tobias Carlisle summary"
+title: Effective Debugging by Diomidis Spinellis summary
+date: "2024-12-25T22:12:03.284Z"
+description: "Effective Debugging by Diomidis Spinellis summary"
 tags: ["debugging", "softwaredevelopment"]
 ---
 
