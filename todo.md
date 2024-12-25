@@ -15,9 +15,9 @@
 - https://tonytvo.github.io/effective-debugging/
 
 # todo
-- write summary for wealth of nations + economics in 1 lesson + The Creature from Jekyll Island
+- The Creature from Jekyll Island
 - write summary for common sense of economics + economics facts and fallacies
-- write summary for building wealth on house at a time + long distance investing
+- write summary for building wealth one house at a time + long distance investing
 - write summary for continuous delivery book
 - write summary for the beginning of infinity
 - write summary for accelerate
