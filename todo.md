@@ -27,6 +27,7 @@
 - write summary for devops handbook
 - write summary for security patterns.
 - write summary for patterns of enterprise application architecture
+- write summary for fundamentals of software architecture + building evolutionary architectures
 - write tests for this site
 
 # wip
