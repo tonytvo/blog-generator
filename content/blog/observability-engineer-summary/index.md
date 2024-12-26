@@ -4347,6 +4347,475 @@ Pingdom simulates traffic to test uptime, performance, and user flows.
 
 ---
 
+## **Chapter 7: Application Monitoring**
+
+Application monitoring focuses on capturing the performance, health, and behavior of the software applications running within a system. With applications evolving faster than underlying infrastructure, monitoring their performance is critical to maintain reliability, detect issues proactively, and optimize user experience.
+
+---
+
+### **1. Why Application Monitoring Is Critical**
+
+**Key Idea:**  
+While traditional monitoring focuses on infrastructure (e.g., servers, databases), applications are where the majority of user-facing issues occur. Without proper monitoring, organizations risk downtime, degraded performance, and poor user satisfaction.
+
+---
+
+#### **Importance of Application Monitoring**
+
+1. **Applications are Dynamic:**
+   - Frequent changes, such as new features, bug fixes, and updates, increase the likelihood of introducing performance bottlenecks or bugs.
+   - **Example:** A minor code change that introduces an unoptimized database query can slow down critical application workflows.
+
+2. **Direct Impact on Users:**
+   - Issues in the application layer often have the most noticeable impact on user experience.
+   - **Example:** A slow login process might lead to user frustration and higher abandonment rates, even if the backend systems are healthy.
+
+3. **Business Impact:**
+   - Applications are often tied directly to revenue generation or customer satisfaction.
+   - **Example:** In an e-commerce platform, slow checkout performance can lead to abandoned carts and lost sales.
+
+**Key Quote:**  
+- **"Your users don’t care if your servers are healthy—they care if the application works."**
+
+---
+
+### **2. Instrumenting Applications with Metrics**
+
+**Key Idea:**  
+Instrumentation involves embedding code within applications to collect and expose performance metrics. This provides visibility into key workflows, enabling teams to track performance, identify bottlenecks, and optimize behavior.
+
+---
+
+#### **Steps for Application Instrumentation**
+
+1. **Identify Critical Metrics:**
+   - Focus on metrics that reflect application performance and user experience.
+   - **Examples:**
+     - Database query times.
+     - API request/response times.
+     - User action latencies (e.g., time to checkout).
+
+   **Key Quote:**  
+   - **"Start with the metrics that matter most to your users and business."**
+
+2. **Embed Timing Logic in Code:**
+   - Use libraries like StatsD or OpenTelemetry to measure performance at key points.
+   - **Example:**
+     ```python
+     def process_payment():
+         start_time = time.time()
+         # Logic for payment processing
+         duration = time.time() - start_time
+         statsd.timing('payment.duration', duration)
+     ```
+
+3. **Iterate and Expand:**
+   - Start with basic metrics and expand over time.
+   - **Example:** Begin by monitoring login times, then add metrics for search performance or checkout processes.
+
+---
+
+#### **Common Types of Metrics**
+
+1. **Latency Metrics:**
+   - Measure the time taken for specific actions or workflows.
+   - **Example:** "The average response time for login requests is 350ms."
+
+2. **Throughput Metrics:**
+   - Measure the number of requests or transactions processed over time.
+   - **Example:** "The application handles 1,200 API calls per minute."
+
+3. **Error Rates:**
+   - Measure the percentage of failed operations.
+   - **Example:** "5% of API calls return HTTP 500 errors."
+
+4. **Business Metrics:**
+   - Monitor application-specific KPIs tied to business goals.
+   - **Example:** "Conversion rate for signups is 25%."
+
+**Key Quote:**  
+- **"Good instrumentation turns applications into transparent systems where problems become easy to spot and resolve."**
+
+---
+
+### **3. Leveraging Application Performance Monitoring (APM) Tools**
+
+**Key Idea:**  
+APM tools simplify application monitoring by automatically collecting and visualizing performance metrics. They provide actionable insights into application behavior, making it easier to detect and resolve issues.
+
+---
+
+#### **Capabilities of APM Tools**
+
+1. **Transaction Tracing:**
+   - Tracks the lifecycle of requests through an application.
+   - **Example:** Trace a checkout request through frontend, backend, and database layers to identify where delays occur.
+
+2. **Error Detection:**
+   - Captures stack traces for application errors and exceptions.
+   - **Example:** Identify that a `NullPointerException` in the payment service is causing transaction failures.
+
+3. **Performance Dashboards:**
+   - Visualize metrics like latency, throughput, and error rates in real time.
+   - **Example:** A dashboard showing average API response times alongside error rates for a 24-hour period.
+
+4. **Automated Alerts:**
+   - Set thresholds for key metrics and receive alerts when they are breached.
+   - **Example:** Trigger an alert if API latency exceeds 500ms for more than 10 minutes.
+
+---
+
+#### **Popular APM Tools**
+
+1. **Datadog APM:**
+   - Provides distributed tracing, real-time metrics, and anomaly detection.
+   - **Use Case:** Monitor performance across microservices and cloud environments.
+
+2. **New Relic:**
+   - Tracks application health, transaction traces, and database performance.
+   - **Use Case:** Identify slow database queries causing API delays.
+
+3. **AppDynamics:**
+   - Offers end-to-end visibility into application workflows.
+   - **Use Case:** Monitor the impact of a new deployment on application performance.
+
+**Key Quote:**  
+- **"APM tools give you the power to detect issues before your users do."**
+
+---
+
+### **4. Monitoring in Microservice Architectures**
+
+**Key Idea:**  
+Microservices increase complexity, making application monitoring both more challenging and more critical. Monitoring must provide visibility into individual services and the interactions between them.
+
+---
+
+#### **Challenges in Microservices Monitoring**
+
+1. **Distributed Nature:**
+   - Requests often span multiple services, making it hard to pinpoint bottlenecks or failures.
+   - **Example:** A user’s request to retrieve account details might involve 5-10 microservices.
+
+2. **Correlation Across Services:**
+   - Without correlation, diagnosing issues across services is like finding a needle in a haystack.
+
+---
+
+#### **Solution: Distributed Tracing**
+
+**Definition:**  
+Distributed tracing tracks a request as it moves through multiple services, providing a complete picture of its journey.
+
+**How It Works:**
+1. Assign a unique trace ID to each request at the entry point.
+2. Pass this trace ID through all downstream services.
+3. Use a tracing tool (e.g., Jaeger, Zipkin) to visualize the trace.
+
+**Example Trace:**
+- A user’s request to retrieve order details involves:
+  1. API Gateway → Orders Service.
+  2. Orders Service → Inventory Service.
+  3. Orders Service → Payments Service.
+
+**Key Quote:**  
+- **"Distributed tracing turns a tangled web of microservices into a clear and actionable map."**
+
+---
+
+### **5. Logs and Metrics: A Unified Approach**
+
+**Key Idea:**  
+Logs and metrics serve complementary purposes in application monitoring. Together, they provide both high-level trends and detailed insights.
+
+---
+
+#### **When to Use Metrics**
+
+1. **Track Trends Over Time:**
+   - Metrics help monitor performance trends and detect anomalies.
+   - **Example:** Monitor average API response times to identify performance degradation.
+
+2. **Alert on Threshold Breaches:**
+   - Metrics are ideal for triggering alerts.
+   - **Example:** Trigger an alert if the error rate exceeds 2% for 5 consecutive minutes.
+
+---
+
+#### **When to Use Logs**
+
+1. **Debugging Specific Issues:**
+   - Logs capture detailed, contextual information about events.
+   - **Example:** Use logs to identify why a database query failed during a specific transaction.
+
+2. **Understanding User Behavior:**
+   - Logs can provide a detailed view of user actions.
+   - **Example:** Track every step a user takes during the checkout process.
+
+**Key Quote:**  
+- **"Metrics tell you what’s happening, but logs explain why."**
+
+---
+
+### **6. Monitoring Serverless Architectures**
+
+Serverless platforms like AWS Lambda and Azure Functions introduce unique challenges:
+- **Short-Lived Functions:** Monitoring ephemeral processes requires real-time metrics collection.
+- **Event-Driven Behavior:** Monitoring must focus on invocation latency, error rates, and resource utilization.
+
+**Best Practices:**
+1. Use **cloud-native monitoring tools** like AWS CloudWatch.
+2. Log every invocation to capture errors and latencies.
+3. Visualize serverless workflows with tools like AWS X-Ray.
+
+---
+
+### **Key Takeaways**
+
+1. **Instrument for Visibility:**
+   - Start with basic metrics, like response times and error rates, and expand as needed.
+   - **Key Quote:** **"Every metric you monitor should tell a story about your application’s health."**
+
+2. **Leverage APM Tools:**
+   - Use tools like Datadog and New Relic for comprehensive application performance insights.
+   - **Key Quote:** **"The right tools make application monitoring effortless."**
+
+3. **Adopt Distributed Tracing for Microservices:**
+   - Track requests across services to identify bottlenecks.
+   - **Key Quote:** **"Tracing turns microservice complexity into clarity."**
+
+4. **Combine Metrics and Logs:**
+   - Use metrics for trends and alerts, and logs for deep-dive analysis.
+   - **Key Quote:** **"Logs and metrics together create a complete monitoring picture."**
+
+---
+
+
+## **Chapter 8: Server Monitoring**
+
+Server monitoring is the cornerstone of any monitoring strategy, providing the foundation for understanding the health, performance, and availability of underlying infrastructure. Despite the rise of cloud-native and serverless architectures, servers remain a critical part of most systems, and their proper monitoring ensures that applications and services remain reliable and performant. This chapter delves into server monitoring techniques, metrics, tools, and real-world applications.
+
+---
+
+### **1. The Importance of Server Monitoring**
+
+#### **Why Server Monitoring Matters**
+Servers act as the backbone of applications and services, hosting the software that drives business operations. When server health or performance degrades, it can cascade into widespread outages or degraded user experiences.
+
+**Key Quote:**  
+- **"The health of your servers directly impacts the reliability of your applications. If your servers fail, your users feel the pain."**
+
+**Business Implications of Server Monitoring:**
+1. **Proactive Problem Detection:**
+   - Monitoring servers ensures that potential issues like high CPU utilization or low disk space are caught before they cause downtime.
+2. **Operational Efficiency:**
+   - Understanding resource usage helps optimize server provisioning, reducing costs.
+   - **Example:** Scaling down underutilized servers in a cloud environment.
+3. **Improved User Experience:**
+   - Ensuring servers operate at peak performance translates to faster response times and higher application availability.
+
+---
+
+### **2. Core Server Metrics**
+
+Server monitoring revolves around collecting and analyzing key metrics that provide insight into system health and performance. These metrics fall into several categories:
+
+---
+
+#### **CPU Utilization**
+1. **What It Measures:**
+   - The percentage of CPU capacity being used.
+   - Breakdowns often include user time, system time, and idle time.
+
+2. **Key Indicators:**
+   - **High CPU Usage:** Sustained usage above 85% may indicate insufficient resources.
+   - **Low CPU Usage:** Persistent underutilization might signal over-provisioning.
+
+3. **Example Alert:**
+   - Trigger an alert if CPU utilization exceeds 90% for 10 consecutive minutes.
+
+4. **Troubleshooting High CPU Usage:**
+   - Check for runaway processes (`top`, `htop`).
+   - Investigate recent deployments or high-traffic patterns.
+
+**Key Quote:**  
+- **"The CPU is the heart of your server—monitor it to prevent overload and ensure smooth operation."**
+
+---
+
+#### **Memory Utilization**
+1. **What It Measures:**
+   - The amount of RAM in use, cached, and free.
+
+2. **Key Indicators:**
+   - **High Memory Usage:** Indicates potential memory leaks or insufficient RAM.
+   - **Low Free Memory:** Not always an issue if memory is being effectively cached.
+
+3. **Example Alert:**
+   - Notify when free memory drops below 10% for more than 5 minutes.
+
+4. **Troubleshooting Memory Issues:**
+   - Analyze processes consuming the most memory (`free`, `vmstat`, `ps aux --sort=-%mem`).
+   - Optimize applications to use memory efficiently.
+
+**Example Use Case:**  
+- A Java application experiencing frequent garbage collection cycles due to insufficient heap space can lead to high memory usage and degraded performance.
+
+---
+
+#### **Disk I/O**
+1. **What It Measures:**
+   - Read and write operations, latency, and disk throughput.
+
+2. **Key Indicators:**
+   - **High I/O Wait:** Prolonged wait times indicate storage bottlenecks.
+   - **Low Free Disk Space:** Can lead to application crashes or system failures.
+
+3. **Example Alert:**
+   - Alert if disk usage exceeds 90% or I/O wait exceeds 30% for 10 minutes.
+
+4. **Optimizing Disk Usage:**
+   - Archive old logs or move to external storage.
+   - Upgrade to faster storage solutions like SSDs.
+
+**Key Quote:**  
+- **"Disk I/O is the silent killer of performance—monitor it closely to avoid surprises."**
+
+---
+
+#### **Network Metrics**
+1. **What It Measures:**
+   - Bandwidth usage, packet errors, and dropped packets.
+
+2. **Key Indicators:**
+   - **High Bandwidth Usage:** Could signal heavy traffic or DDoS attacks.
+   - **Packet Loss:** May indicate network congestion or hardware failure.
+
+3. **Example Alert:**
+   - Trigger an alert if packet loss exceeds 1% over a 5-minute interval.
+
+4. **Troubleshooting Network Issues:**
+   - Use tools like `ping`, `traceroute`, or `netstat` to isolate issues.
+   - Investigate misconfigured firewalls or network saturation points.
+
+**Example Use Case:**  
+- Detecting abnormal outbound traffic could indicate a compromised server being used for malicious activities.
+
+---
+
+### **3. Server Logs**
+
+Logs provide detailed, timestamped records of server events and actions, offering deep insight into issues not visible through metrics alone.
+
+#### **Key Types of Server Logs**
+1. **System Logs (Syslog):**
+   - Capture operating system-level events such as kernel errors or service crashes.
+   - **Example:** Use `dmesg` to view kernel logs for hardware errors.
+
+2. **Application Logs:**
+   - Provide application-specific details such as error messages or debug information.
+   - **Example:** Apache logs HTTP request details, response codes, and client IPs.
+
+3. **Security Logs:**
+   - Track login attempts, authentication failures, and privilege escalations.
+   - **Example:** Use `auth.log` to investigate unauthorized SSH access attempts.
+
+**Best Practices:**
+- Centralize logs using tools like **Elasticsearch**, **Logstash**, or **Fluentd** for easier analysis.
+- Set up log rotation to prevent disk usage from growing uncontrollably.
+
+**Key Quote:**  
+- **"Logs are the breadcrumbs that lead you to the root cause of any issue."**
+
+---
+
+### **4. Advanced Server Monitoring Techniques**
+
+#### **Push-Based Monitoring**
+Traditional monitoring often uses poll-based methods like SNMP, which are limited in scale and complexity. Modern push-based systems, such as **Prometheus** or **Telegraf**, offer real-time, scalable monitoring.
+
+---
+
+#### **Monitoring Distributed Architectures**
+In distributed systems, traditional single-server metrics are insufficient. Use correlation tools to monitor multiple servers as part of a cohesive system.
+
+**Example:**
+- Combine Prometheus for metrics and Jaeger for distributed tracing to monitor microservices running across a server cluster.
+
+---
+
+#### **Monitoring Specialized Server Types**
+1. **Database Servers:**
+   - Monitor metrics like query latency, transactions per second, and connection pool usage.
+   - **Example Tool:** PostgreSQL’s `pg_stat_activity`.
+
+2. **Web Servers:**
+   - Focus on request rates, response times, and error rates (HTTP 4xx/5xx).
+   - **Example Tool:** Use NGINX’s built-in status module.
+
+3. **File Servers:**
+   - Track file access times and storage usage trends.
+   - **Example Tool:** Monitor storage with **NetApp** or similar NAS tools.
+
+---
+
+### **5. Tools for Server Monitoring**
+
+1. **Prometheus + Grafana:**
+   - **Prometheus:** Collects time-series data for metrics like CPU, memory, and network.
+   - **Grafana:** Creates interactive dashboards to visualize metrics.
+
+2. **Datadog:**
+   - Offers SaaS-based server monitoring with pre-built integrations for cloud and on-premises environments.
+
+3. **Nagios:**
+   - A classic tool for infrastructure monitoring, providing customizable checks and alerting.
+
+4. **Log Analysis Tools:**
+   - **Elasticsearch + Kibana:** Centralize and visualize logs for deeper insights.
+   - **Splunk:** Ideal for enterprises requiring powerful log analysis and correlation.
+
+---
+
+### **6. Real-World Examples**
+
+#### **Scenario 1: High CPU Utilization**
+- **Issue:** A web server's CPU usage spiked to 100%.
+- **Investigation:** Logs revealed a newly deployed cron job consuming excessive resources.
+- **Solution:** Optimized the cron job’s query and reduced its frequency.
+
+#### **Scenario 2: Disk I/O Bottleneck**
+- **Issue:** Slow database performance during peak traffic.
+- **Investigation:** Disk metrics showed high I/O wait times.
+- **Solution:** Migrated to SSDs and implemented query indexing.
+
+#### **Scenario 3: Network Packet Loss**
+- **Issue:** Users reported intermittent application connectivity.
+- **Investigation:** Network metrics showed 5% packet loss during high traffic hours.
+- **Solution:** Upgraded the server’s NIC and adjusted traffic routing.
+
+---
+
+### **7. Best Practices for Server Monitoring**
+
+1. **Set Meaningful Alerts:**
+   - Avoid alert fatigue by focusing on actionable thresholds.
+   - **Example:** Trigger alerts only for sustained high CPU usage.
+
+2. **Combine Metrics and Logs:**
+   - Metrics provide trends, while logs offer event-specific context.
+
+3. **Automate and Scale:**
+   - Use automated tools like Prometheus and Grafana to handle large-scale monitoring.
+
+4. **Regularly Review and Update:**
+   - As systems evolve, monitoring setups must adapt to cover new workflows and metrics.
+
+**Key Quote:**  
+- **"The best monitoring systems are those that adapt with your infrastructure, not those set in stone."**
+
+---
+
 
 # References
 - https://github.com/keyvanakbary/learning-notes/blob/master/books/distributed-systems-observability.md
