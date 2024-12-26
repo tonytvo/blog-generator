@@ -2498,9 +2498,7 @@ java -jar findbugs.jar -textui Counter.class
 - **"Integration and Iteration Are Key"**: Use these tools regularly during development and testing to ensure robust multi-threaded applications.  
 
 
-### **Chapter 8: Debugging Multi-Threaded Code**
-
-#### **Isolate and Remove Nondeterminism**
+## **Isolate and Remove Nondeterminism**
 
 One of the most daunting aspects of debugging multi-threaded code is dealing with **nondeterminism**—the unpredictable and inconsistent behavior caused by threads executing in different orders or timing under varying runtime conditions. **Nondeterminism leads to elusive bugs, such as race conditions, deadlocks, or data corruption**, that may only manifest intermittently. Debugging these issues requires a methodical approach to isolate and, where possible, eliminate nondeterministic behavior.
 
