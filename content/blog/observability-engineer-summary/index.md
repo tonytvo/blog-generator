@@ -4816,6 +4816,249 @@ In distributed systems, traditional single-server metrics are insufficient. Use 
 
 ---
 
+## **Chapter 9: Network Monitoring**
+
+Network monitoring is essential for ensuring the performance, reliability, and security of the interconnected systems that support modern applications and services. This chapter explores in-depth strategies, metrics, tools, and real-world examples for effectively monitoring networks. With increasing network complexity and demand, monitoring helps preemptively address issues, optimize performance, and align with business goals.
+
+---
+
+### **1. The Role of Network Monitoring**
+
+**Key Idea:**  
+Networks form the backbone of modern IT systems, connecting applications, servers, users, and the internet. Any disruption in network health can cascade into broader system failures.
+
+**Key Quote:**  
+- **"A robust network monitoring strategy is the first line of defense against outages, performance degradation, and security vulnerabilities."**
+
+---
+
+#### **Why Network Monitoring is Critical**
+
+1. **Foundational to System Reliability:**
+   - Applications, databases, and user interfaces depend on network connectivity.
+   - **Example:** A high packet loss rate on a database server’s network link can cause query timeouts and application errors.
+
+2. **Detecting and Preventing Failures:**
+   - Network monitoring enables early detection of failures such as link saturation, misconfigurations, or device malfunctions.
+   - **Example:** Monitoring switches for CRC errors can identify failing cables before they cause downtime.
+
+3. **Ensuring SLA Compliance:**
+   - Proactively maintaining uptime and performance aligns with Service Level Agreements (SLAs) and business commitments.
+   - **Example:** An SLA promises 99.99% uptime for a VPN connection, requiring immediate action for latency or packet loss.
+
+4. **Enhancing Business Outcomes:**
+   - Network performance directly affects revenue for latency-sensitive applications.
+   - **Example:** An e-commerce platform losing users due to delayed page loads caused by slow content delivery.
+
+---
+
+### **2. Key Metrics in Network Monitoring**
+
+A well-structured network monitoring strategy focuses on collecting and analyzing critical metrics that provide insight into health, performance, and anomalies.
+
+---
+
+#### **Bandwidth and Throughput**
+1. **Definition:**
+   - **Bandwidth:** The maximum data volume a link can handle.
+   - **Throughput:** The actual data rate achieved during transmission.
+
+2. **Key Use Cases:**
+   - Identify underused links for cost optimization.
+   - Detect congestion that limits application performance.
+
+**Example:**  
+A WAN link with a theoretical bandwidth of 1 Gbps but an observed throughput of 600 Mbps during peak times may indicate congestion or packet retransmissions.
+
+---
+
+#### **Latency**
+1. **Definition:**
+   - The time taken for data to travel from a source to a destination.
+
+2. **Key Insight:**
+   - High latency affects real-time applications like video conferencing, VoIP, and online gaming.
+
+**Troubleshooting Example:**  
+- **Tool:** Use `ping` or `traceroute` to identify high-latency hops in a connection path.
+- **Scenario:** Latency spikes on a multi-hop VPN tunnel affecting remote employee productivity.
+
+---
+
+#### **Packet Loss**
+1. **Definition:**
+   - The percentage of packets lost during transmission.
+
+2. **Key Impact:**
+   - Packet loss degrades performance, especially for applications reliant on consistent data streams, such as video streaming or VoIP.
+
+**Example:**  
+A video conferencing platform experiences intermittent audio dropouts due to a 3% packet loss rate on a core router.
+
+---
+
+#### **Jitter**
+1. **Definition:**
+   - Variability in packet arrival times, often caused by congestion or queuing.
+
+2. **Key Impact:**
+   - Jitter disrupts real-time services, particularly VoIP and video conferencing.
+
+**Mitigation Example:**  
+- Implement Quality of Service (QoS) to prioritize latency-sensitive traffic.
+
+---
+
+#### **Errors and Collisions**
+1. **Definition:**
+   - Errors include corrupted packets, often due to hardware or cable faults.
+   - Collisions occur in older Ethernet setups when multiple devices transmit simultaneously.
+
+**Example:**  
+High CRC errors on a switch port may indicate a failing cable or faulty NIC.
+
+---
+
+### **3. Network Monitoring Techniques**
+
+---
+
+#### **Active Monitoring**
+1. **Definition:**
+   - Simulates traffic to test performance and availability.
+
+2. **Tools and Use Cases:**
+   - **Ping:** Monitor availability and latency of critical endpoints.
+   - **iperf:** Test throughput between two endpoints in a controlled setup.
+
+**Example:**  
+Use **iperf** to test the performance of a new MPLS link, ensuring it meets SLA requirements for throughput and latency.
+
+---
+
+#### **Passive Monitoring**
+1. **Definition:**
+   - Observes actual traffic flows without injecting test data.
+
+2. **Tools and Use Cases:**
+   - **NetFlow/sFlow:** Analyze traffic patterns and identify bandwidth hogs.
+   - **Wireshark:** Inspect packets for detailed troubleshooting.
+
+**Example:**  
+Using **NetFlow**, identify that 30% of bandwidth on an office network is consumed by non-business applications like video streaming.
+
+---
+
+### **4. Network Monitoring Tools**
+
+#### **SNMP (Simple Network Management Protocol)**
+1. **Definition:**
+   - A protocol for collecting metrics from network devices.
+
+2. **Metrics Collected:**
+   - Interface utilization, errors, packet counts.
+
+**Example:**  
+Use SNMP to monitor router CPU and memory usage, identifying spikes during peak hours.
+
+---
+
+#### **Flow Monitoring**
+1. **NetFlow:**
+   - Collects metadata about network traffic to identify patterns.
+   - **Use Case:** Detect top talkers and protocols consuming bandwidth.
+
+2. **sFlow:**
+   - Samples packets for real-time insights with minimal resource overhead.
+   - **Use Case:** Monitor high-speed links without overwhelming resources.
+
+---
+
+#### **Visualization Tools**
+1. **Grafana:**
+   - Combine network metrics from multiple sources into a unified dashboard.
+2. **SolarWinds:**
+   - Comprehensive monitoring with features like automated alerting and capacity planning.
+
+**Example Dashboard:**  
+Visualize key metrics like bandwidth utilization, link health, and error rates in Grafana for real-time insights.
+
+---
+
+### **5. Advanced Network Monitoring Practices**
+
+---
+
+#### **Capacity Planning**
+1. **Definition:**
+   - Predict future network usage and scale resources accordingly.
+
+2. **Best Practices:**
+   - Use historical trends to forecast traffic growth.
+   - Plan upgrades before links hit 80% utilization.
+
+**Example:**  
+A SaaS provider projects a 20% annual increase in API traffic and upgrades their core routers to 10 Gbps to prevent congestion.
+
+---
+
+#### **Configuration Monitoring**
+1. **Definition:**
+   - Tracks changes to network device configurations.
+
+2. **Tools:**
+   - **RANCID:** Archives and tracks router/switch configuration changes.
+
+**Example:**  
+Alert on unauthorized changes to a firewall’s rule set, which could introduce vulnerabilities.
+
+---
+
+### **6. Real-World Scenarios**
+
+---
+
+#### **Scenario 1: Identifying Congestion**
+- **Issue:** A cloud-hosted database frequently times out during peak hours.
+- **Investigation:** NetFlow shows excessive traffic on the primary WAN link.
+- **Resolution:** Implemented QoS policies to prioritize database traffic.
+
+---
+
+#### **Scenario 2: Resolving High Jitter in VoIP Calls**
+- **Issue:** Users report choppy audio during calls.
+- **Investigation:** Monitored jitter on the WAN link and identified excessive traffic from bulk file transfers.
+- **Resolution:** Applied traffic shaping to prioritize VoIP packets.
+
+---
+
+#### **Scenario 3: Detecting Security Threats**
+- **Issue:** Sudden outbound traffic spike from a server.
+- **Investigation:** Flow analysis revealed connections to suspicious IPs.
+- **Resolution:** Isolated the server, removed malware, and updated firewall rules.
+
+---
+
+### **7. Best Practices**
+
+1. **Start with Business-Critical Links:**
+   - Prioritize monitoring links supporting critical applications.
+   - **Example:** Monitor latency and packet loss for VPN connections used by remote teams.
+
+2. **Combine Tools for Full Visibility:**
+   - Use SNMP for device metrics, NetFlow for traffic analysis, and Grafana for visualization.
+
+3. **Automate Alerts and Reports:**
+   - Avoid alert fatigue by tuning thresholds based on historical data.
+
+4. **Integrate Security and Monitoring:**
+   - Combine monitoring with intrusion detection tools like Suricata to identify threats.
+
+**Key Quote:**  
+- **"An effective monitoring strategy is as much about what you monitor as how you act on what you learn."**
+
+---
+
 
 # References
 - https://github.com/keyvanakbary/learning-notes/blob/master/books/distributed-systems-observability.md
