@@ -10,9 +10,7 @@
 - https://tonytvo.github.io/value-investing-summary/
 - https://tonytvo.github.io/mental-models/
 - https://tonytvo.github.io/site-reliability-engineer-summary/
-- https://tonytvo.github.io/observability-engineer-summary/
-- https://tonytvo.github.io/data-intensive-system-perf/
-- https://tonytvo.github.io/effective-debugging/
+
 
 # todo
 - The Creature from Jekyll Island
@@ -35,3 +33,6 @@
 - https://tonytvo.github.io/refactor-legacy-code-to-patterns/
 - https://tonytvo.github.io/financial-statement-analysis/
 - https://tonytvo.github.io/practical-guide-oop-summary/
+- https://tonytvo.github.io/data-intensive-system-perf/
+- https://tonytvo.github.io/effective-debugging/
+- https://tonytvo.github.io/observability-engineer-summary/
