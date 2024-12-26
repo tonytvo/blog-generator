@@ -2229,6 +2229,840 @@ When a burn alert is triggered, teams should take immediate steps to mitigate th
 
 ---
 
+## **14. Software Supply Chain Observability**
+
+Modern software systems are built on complex supply chains that include third-party libraries, APIs, CI/CD pipelines, and cloud services. **Software Supply Chain Observability** ensures visibility into every link in this chain, enabling teams to identify bottlenecks, mitigate risks, and maintain reliability. By studying real-world implementations, such as those at **Slack**, and incorporating instrumentation strategies, organizations can transform their supply chain into a resilient, traceable ecosystem.
+
+---
+
+### **Understanding Software Supply Chain Observability**
+
+---
+
+#### **What Is Software Supply Chain Observability?**
+
+Software Supply Chain Observability extends traditional observability practices—metrics, traces, and logs—beyond internal systems to include the external dependencies and processes that deliver software.
+
+---
+
+**Key Components:**
+1. **Third-Party Dependencies:**
+   - Libraries, SDKs, APIs, and services integrated into your system.
+   - **Examples:**
+     - Payment gateways like Stripe or PayPal.
+     - Messaging APIs like Twilio or SendGrid.
+     - Open-source libraries for cryptography or authentication.
+
+2. **CI/CD Pipelines:**
+   - Automation pipelines for building, testing, and deploying software.
+   - **Examples:**
+     - Source control (GitHub, GitLab).
+     - Build tools (Jenkins, CircleCI).
+     - Artifact repositories (Docker Hub, Nexus).
+
+3. **Cloud and Infrastructure Providers:**
+   - Managed services and cloud platforms hosting critical workloads.
+   - **Examples:**
+     - Databases (AWS RDS, Google Cloud Spanner).
+     - Storage (S3, Azure Blob Storage).
+     - Compute (EC2, Kubernetes clusters).
+
+4. **Internal Processes:**
+   - Tools and workflows for dependency management, vulnerability scanning, and artifact delivery.
+
+---
+
+#### **Why Is It Important?**
+
+1. **Increased Complexity:**
+   - The reliance on external dependencies and services makes modern systems more complex and harder to debug.
+   - **"A single failure in your software supply chain can cascade into widespread system outages."**
+
+2. **Hidden Risks:**
+   - Unobserved components introduce vulnerabilities, bottlenecks, and blind spots.
+   - **Example:**
+     - A poorly maintained open-source library introduces a security vulnerability, compromising the entire system.
+
+3. **Security and Compliance:**
+   - Regulatory requirements (e.g., GDPR, HIPAA) necessitate visibility into dependencies and data flows.
+   - **"Without full visibility into your supply chain, you risk violating compliance requirements or exposing sensitive data."**
+
+---
+
+### **Case Studies from Slack: Observability in the Software Supply Chain**
+
+Slack’s approach to **Software Supply Chain Observability** showcases the importance of visibility, proactive monitoring, and rigorous instrumentation.
+
+---
+
+#### **1. Dependency Management: Mitigating Risks and Ensuring Stability**
+
+**Problem:**
+- Slack relies on numerous open-source libraries and third-party APIs to deliver features like messaging, notifications, and integrations.
+- Over time, the lack of visibility into dependencies led to:
+  - Outdated libraries introducing security vulnerabilities.
+  - Performance degradations from slow or unresponsive APIs.
+
+---
+
+**Slack’s Solution:**
+1. **Dependency Instrumentation:**
+   - Added observability to every third-party dependency.
+   - Monitored:
+     - API latency and error rates.
+     - Success and failure patterns for retries.
+     - Version usage across environments (development, staging, production).
+   - **"By instrumenting dependencies, Slack gained real-time visibility into every external service."**
+
+2. **Automated Dependency Updates:**
+   - Integrated tools like **Dependabot** and **Snyk** to automatically:
+     - Detect outdated or vulnerable libraries.
+     - Generate pull requests for updates.
+   - Used observability tools to monitor the impact of updates on:
+     - Build stability.
+     - Performance metrics.
+
+3. **Example Insights:**
+   - Observability flagged a 2x increase in latency for a messaging API during peak traffic. Slack escalated the issue with the vendor and implemented rate-limiting until the vendor resolved the issue.
+
+---
+
+**Outcome:**
+- Reduced dependency-related incidents by 50%.
+- Ensured 90% of libraries were updated within a week of a new release or patch.
+
+---
+
+#### **2. CI/CD Pipeline Observability: Speeding Up Deployments**
+
+**Problem:**
+- Slack’s CI/CD pipelines occasionally failed due to:
+  - Misconfigured build scripts.
+  - Flaky integration tests.
+  - Bottlenecks in dependency fetching.
+
+---
+
+**Slack’s Solution:**
+1. **Pipeline Instrumentation:**
+   - Added tracing and metrics for every stage of the CI/CD pipeline:
+     - Source code retrieval.
+     - Dependency installation.
+     - Build, test, and deployment steps.
+   - **"Instrumenting the CI/CD pipeline transformed it from a black box into a traceable, measurable workflow."**
+
+2. **Metrics Tracked:**
+   - **Build Durations:** Average time to complete builds.
+   - **Test Pass Rates:** Percentage of tests that succeeded.
+   - **Artifact Delivery:** Time taken to push images to production.
+
+3. **Example Insights:**
+   - Observability revealed that 30% of pipeline failures were caused by slow dependency fetching. Engineers implemented caching for commonly used dependencies, reducing fetch times by 70%.
+
+---
+
+**Outcome:**
+- Increased deployment success rate from 85% to 98%.
+- Reduced pipeline execution times by 40%, enabling more frequent releases.
+
+---
+
+#### **3. Distributed Tracing for End-to-End Dependency Visibility**
+
+**Problem:**
+- Slack’s services relied on multiple external APIs and internal dependencies, making it difficult to debug failures that spanned multiple components.
+
+---
+
+**Slack’s Solution:**
+1. **End-to-End Tracing:**
+   - Used distributed tracing to follow user requests across:
+     - Internal services (e.g., database queries, cache lookups).
+     - External APIs (e.g., third-party integrations).
+   - **Example Trace:**
+     - A `/send-message` request included spans for:
+       - User authentication.
+       - Internal message formatting.
+       - External webhook delivery to a third-party service.
+
+2. **Dependency-Specific Alerts:**
+   - Set up real-time alerts for:
+     - SLA breaches (e.g., API latency > 300ms).
+     - Increased failure rates (e.g., >1% for external APIs).
+   - **"Real-time dependency alerts enabled Slack to resolve incidents before users noticed them."**
+
+3. **Proactive Load Testing:**
+   - Simulated high traffic scenarios to identify dependencies that could not scale under load.
+   - Negotiated new SLAs with vendors based on observed performance.
+
+---
+
+**Outcome:**
+- Reduced mean time to resolution (MTTR) for dependency-related incidents by 60%.
+- Improved SLA compliance for third-party services.
+
+---
+
+### **Enhancing Reliability Through Instrumentation**
+
+Instrumentation transforms the supply chain from an opaque series of steps into a transparent, monitorable process.
+
+---
+
+#### **1. Instrumenting Dependencies**
+
+**Steps to Instrument Dependencies:**
+1. **Monitor Critical Metrics:**
+   - Latency, throughput, error rates, and retry attempts.
+   - **Example:**
+     - Instrument a payment API to track:
+       - Average latency per request.
+       - Retry counts due to failed transactions.
+
+2. **Log Contextual Metadata:**
+   - Include details like request payloads, response times, and error codes.
+   - **Example Log Entry:**
+     ```json
+     {
+       "dependency": "payment-api",
+       "latency_ms": 250,
+       "status": "200 OK",
+       "retries": 2
+     }
+     ```
+
+3. **Set Dynamic Alerts:**
+   - Trigger alerts for SLA breaches or unusual patterns.
+   - **Example:**
+     - Alert if `latency_ms > 500ms` for more than 10% of requests in the last 15 minutes.
+
+---
+
+#### **2. Instrumenting CI/CD Pipelines**
+
+**Steps to Instrument Pipelines:**
+1. **Trace Every Step:**
+   - Add spans for each stage of the pipeline:
+     - Source control, build, test, artifact delivery, deployment.
+     - **Example:**
+       - A `build_pipeline` trace includes child spans for:
+         - Dependency installation.
+         - Unit test execution.
+         - Docker image push.
+2. **Monitor Key Metrics:**
+   - Build duration, test pass rates, and deployment success rates.
+   - **Example Metric:**
+     - Track flaky test failures over time and prioritize fixes for the most common failures.
+3. **Integrate Feedback Loops:**
+   - Use pipeline telemetry to continuously refine and optimize processes.
+
+---
+
+### **Real-World Example: Observability in Software Supply Chains at FastDeploy**
+
+**Problem:**
+- FastDeploy faced frequent outages caused by dependency failures and CI/CD bottlenecks.
+
+**Solution:**
+1. **Dependency Observability:**
+   - Instrumented third-party APIs to monitor latency and success rates.
+   - Automated alerts for SLA breaches.
+2. **CI/CD Pipeline Monitoring:**
+   - Traced all pipeline steps, identifying that 20% of failures stemmed from long dependency installation times.
+   - Implemented caching and parallelized build steps.
+3. **Distributed Tracing:**
+   - Enabled end-to-end visibility for user requests spanning multiple services and dependencies.
+
+**Outcome:**
+- Reduced dependency-related downtime by 70%.
+- Increased deployment frequency by 50%.
+- Improved MTTR for supply chain issues from 4 hours to 20 minutes.
+
+---
+
+# **Part IV: Observability at Scale**
+
+## **16. Efficient Data Storage**
+
+Efficient data storage is the backbone of **observability at scale**, enabling organizations to manage massive volumes of telemetry data, support real-time queries, and control costs. As systems generate billions of high-cardinality events daily, traditional storage approaches often fall short. This section delves into the **challenges of large-scale observability data**, provides detailed solutions for optimization, and analyzes **Honeycomb’s architecture** as a benchmark for scalable and intelligent data storage.
+
+---
+
+### **Challenges of Large-Scale Observability Data**
+
+Large-scale systems generate enormous amounts of telemetry data, and managing this efficiently while maintaining performance and cost-effectiveness presents unique challenges.
+
+---
+
+#### **1. High Data Volume**
+
+**Problem:**
+- Modern systems generate an overwhelming amount of telemetry data:
+  - Metrics for resource utilization (CPU, memory, network throughput).
+  - Logs for every action or error in the system.
+  - Traces for every request through a distributed system.
+- **Example:**
+  - A medium-sized SaaS application might produce:
+    - 5 million traces per day.
+    - 1 terabyte of log data daily.
+    - 200,000 unique metrics at 1-second granularity.
+
+**Impact:**
+- **Storage Costs:**
+  - High-performance storage systems become expensive.
+  - Retaining raw data indefinitely is financially unsustainable.
+- **Performance Degradation:**
+  - Querying massive datasets leads to increased latency, making real-time debugging impossible.
+
+**Key Insight:**
+- **"Without proper optimization, observability data becomes a liability instead of an asset."**
+
+---
+
+#### **2. High Cardinality**
+
+**Problem:**
+- **Definition:** Cardinality refers to the number of unique values for a given dimension or field.
+- High cardinality arises from:
+  - User-specific data (e.g., `user_id`, `session_id`).
+  - Deployment versions (`build_id`, `release_tag`).
+  - Service regions or zones (`region`, `availability_zone`).
+- **Example:**
+  - Monitoring API latency with dimensions for `region`, `datacenter`, `instance`, and `version`:
+    - `100 regions × 1,000 instances × 10 versions = 1 million unique combinations`.
+
+**Impact:**
+- Query performance degrades as the system struggles to process millions of unique data points.
+- Indexing and storing high-cardinality data increases storage requirements exponentially.
+
+**Key Insight:**
+- **"High cardinality is the silent killer of scalability in observability systems."**
+
+---
+
+#### **3. Query Performance**
+
+**Problem:**
+- Observability requires engineers to query large datasets in real time for debugging and incident resolution.
+- **Challenges:**
+  - Aggregating data across multiple dimensions.
+  - Handling ad hoc queries that were not pre-optimized or cached.
+- **Example:**
+  - Query: "Show error rates by region and service version over the last 1 hour."
+    - Requires scanning millions of events and aggregating data across multiple fields.
+
+**Impact:**
+- **Slow Incident Response:**
+  - Delayed query responses during incidents increase MTTR.
+- **Resource Bottlenecks:**
+  - Complex queries can overwhelm storage systems, leading to cascading failures.
+
+**Key Insight:**
+- **"In observability, query latency isn’t just a performance issue—it’s a trust issue."**
+
+---
+
+#### **4. Cost Management**
+
+**Problem:**
+- Storing, querying, and analyzing observability data involves significant costs:
+  - High-performance storage solutions.
+  - Compute resources for processing queries.
+  - Bandwidth for transferring data across systems.
+- **Example:**
+  - A company collecting 10 terabytes of logs daily on a cloud provider incurs:
+    - Storage costs: $25,000/month.
+    - Query costs: $10,000/month for ad hoc debugging.
+
+**Key Insight:**
+- **"Efficient storage isn’t about cutting corners—it’s about sustaining growth without sacrificing insights."**
+
+---
+
+### **Solutions for Large-Scale Observability Data Storage**
+
+To address these challenges, organizations can adopt a combination of architectural optimizations, data reduction techniques, and intelligent storage strategies.
+
+---
+
+#### **1. Aggregation and Sampling**
+
+---
+
+**A. Aggregation**
+
+**What It Is:**
+- Summarizing raw data into meaningful aggregates to reduce storage size and improve query performance.
+
+**Example:**
+- For latency data:
+  - Instead of storing every request’s latency, calculate:
+    - **P50 (median latency):** Typical user experience.
+    - **P95:** Experience of the slowest 5% of users.
+    - **P99:** Outliers that indicate potential bottlenecks.
+
+**Implementation:**
+- Aggregate data at regular intervals (e.g., 1-minute windows).
+- Store both raw and aggregated data:
+  - Raw data for recent periods (e.g., last 24 hours) for detailed debugging.
+  - Aggregated data for historical analysis.
+
+**Key Insight:**
+- **"Aggregation transforms overwhelming telemetry data into actionable insights."**
+
+---
+
+**B. Sampling**
+
+**What It Is:**
+- Storing only a subset of data to reduce volume while retaining statistical relevance.
+
+**Types of Sampling:**
+1. **Head-Based Sampling:**
+   - Capture the first `N` requests per second.
+2. **Tail-Based Sampling:**
+   - Capture only anomalies (e.g., traces with errors or high latency).
+
+**Example:**
+- Focus on storing traces where:
+  - `latency > 500ms`.
+  - `status_code != 200`.
+
+**Key Insight:**
+- **"With intelligent sampling, you store less data but keep all the important signals."**
+
+---
+
+#### **2. Tiered Storage**
+
+---
+
+**What It Is:**
+- Dividing data into **hot**, **warm**, and **cold tiers** based on access patterns and retention needs.
+
+**Example Architecture:**
+1. **Hot Storage:**
+   - Fast, high-cost storage (e.g., SSDs) for recent data.
+   - Retention: Last 24 hours.
+   - Use Case: Real-time debugging.
+2. **Warm Storage:**
+   - Medium-cost storage for data needed occasionally.
+   - Retention: Last 7–30 days.
+   - Use Case: Incident investigations.
+3. **Cold Storage:**
+   - Low-cost, archival storage (e.g., AWS S3, Glacier).
+   - Retention: 1 year+.
+   - Use Case: Compliance, long-term analysis.
+
+**Key Insight:**
+- **"Not all data is created equal—tiered storage ensures resources are allocated where they matter most."**
+
+---
+
+#### **3. Columnar Databases**
+
+---
+
+**Why Columnar Storage?**
+- **Optimized for Analytics:**
+  - Stores data by columns, enabling efficient compression and fast aggregation.
+- **Supports High Cardinality:**
+  - Handles millions of unique values efficiently.
+
+**Examples:**
+- **ClickHouse:**
+  - Open-source, high-performance columnar database.
+- **Apache Druid:**
+  - Designed for real-time analytics on event streams.
+- **BigQuery:**
+  - Google Cloud’s scalable, columnar data warehouse.
+
+**Key Insight:**
+- **"Columnar databases transform the chaos of high-cardinality data into actionable intelligence."**
+
+---
+
+#### **4. Query Optimization**
+
+---
+
+**A. Indexing**
+- Index frequently queried fields (e.g., `region`, `service`).
+- **Example:**
+  - Indexing `status_code` speeds up queries for error rate analysis.
+
+**B. Query Pre-Aggregation**
+- Use pre-aggregated views to reduce query complexity.
+- **Example:**
+  - Precompute hourly error rates by region and version.
+
+**C. Caching**
+- Cache results for recurring queries to reduce load on storage systems.
+- **Example:**
+  - Cache P95 latency values for the `/checkout` endpoint.
+
+**Key Insight:**
+- **"Optimized queries ensure that engineers get answers in milliseconds, not minutes."**
+
+---
+
+### **Case Study: Honeycomb’s Architecture**
+
+Honeycomb, a leader in observability platforms, has designed an architecture specifically to handle large-scale, high-cardinality data.
+
+---
+
+#### **1. Columnar Storage for High-Cardinality Data**
+
+- Stores telemetry data in a **columnar database**, enabling efficient storage and fast querying.
+- **Result:**
+  - Supports high-cardinality fields like `user_id` or `trace_id` without performance degradation.
+
+**Example:**
+- Querying traces with:
+  - `latency > 500ms`.
+  - `region = EU`.
+  - Results returned in seconds, even with billions of events.
+
+---
+
+#### **2. Tail-Based Sampling**
+
+- Focuses on storing traces with significant insights (e.g., anomalies or outliers).
+- **Result:**
+  - Reduces storage costs while preserving the most critical data for debugging.
+
+**Example:**
+- Stores only traces where:
+  - `error = true`.
+  - `latency > P99`.
+
+---
+
+#### **3. Distributed Query Engine**
+
+- Processes queries across multiple nodes for parallelism.
+- **Result:**
+  - Real-time query performance for ad hoc analysis.
+
+**Example:**
+- Query:
+  - "Show all traces with `error=true` over the last 24 hours."
+  - Result:
+    - Returns actionable data in milliseconds.
+
+---
+
+## **17. Sampling Strategies**
+
+As distributed systems grow in scale and complexity, **sampling strategies** are essential to manage the deluge of observability data generated. By selectively capturing the most meaningful subsets of telemetry, teams can optimize data storage, control costs, and improve query performance while ensuring critical insights remain accessible. This chapter dives deeper into the **trade-offs of sampling**, outlines various **advanced techniques**, and provides **practical implementation examples** to enable effective sampling at scale.
+
+---
+
+### **The Need for Sampling in Observability**
+
+---
+
+#### **1. The Explosion of Observability Data**
+
+Modern applications generate vast amounts of telemetry data from **metrics**, **traces**, and **logs**:
+
+- **Metrics:** Captured at high resolution (e.g., 1-second intervals) for thousands of instances.
+- **Traces:** Spanning microservices, with each request generating multiple spans.
+- **Logs:** Capturing every operation, error, and debug statement.
+
+---
+
+**Example Data Scale:**
+- A **SaaS application** serving 1 billion API requests daily generates:
+  - 10 billion trace spans.
+  - 500,000 log entries per second.
+  - 200,000 metrics per second.
+
+**Challenges Without Sampling:**
+- **Storage Costs:**
+  - Storing this data at full fidelity requires petabytes of storage annually, incurring exorbitant costs.
+- **Query Latency:**
+  - Unfiltered data overwhelms query engines, delaying incident response.
+- **Noise Over Signal:**
+  - Critical outliers (e.g., error traces, high-latency spans) get buried in a flood of routine data.
+
+---
+
+**Key Insight:**
+- **"Collecting everything leads to diminishing returns—sampling ensures teams focus on actionable signals, not overwhelming noise."**
+
+---
+
+#### **2. The Role of Sampling**
+
+Sampling addresses the challenge of scale by intelligently reducing the volume of telemetry data while preserving its diagnostic value. The goal is to **retain enough data to identify and resolve issues** without overloading storage systems or query engines.
+
+**Core Objectives:**
+- **Cost Efficiency:** Reduce storage and processing expenses.
+- **Performance:** Enable real-time queries and dashboards.
+- **Focus:** Prioritize critical events, such as errors or latency spikes.
+- **Statistical Accuracy:** Ensure aggregated data reflects overall system health.
+
+---
+
+### **Trade-Offs in Sampling**
+
+Sampling inherently involves trade-offs that must be carefully managed to align with system requirements and business goals.
+
+---
+
+#### **1. Benefits of Sampling**
+
+- **Cost Reduction:**
+  - Decrease data storage requirements by capturing only a fraction of telemetry.
+  - **Example:**
+    - Storing 10% of traces reduces storage costs by 90% while maintaining diagnostic utility.
+
+- **Improved Query Performance:**
+  - Smaller datasets enable faster queries, essential for real-time debugging.
+  - **Key Insight:**
+      - **"Faster queries lead to faster resolutions, reducing downtime and its impact on users."**
+
+- **Focused Insights:**
+  - Sampling techniques like tail-based sampling ensure critical outliers are retained.
+  - **Example:**
+    - Errors and high-latency traces are always stored, ensuring they remain visible during incident analysis.
+
+---
+
+#### **2. Drawbacks of Sampling**
+
+- **Loss of Completeness:**
+  - Some rare but important events may be excluded from sampled data.
+  - **Example:**
+    - A bug affecting only 0.01% of requests might go undetected if not explicitly captured.
+
+- **Aggregated Metric Inaccuracy:**
+  - Aggregations (e.g., average latency) derived from sampled data may not fully represent system performance.
+  - **Key Insight:**
+    - **"Sampling must be carefully tuned to balance reduction in data volume with retention of critical insights."**
+
+- **Implementation Complexity:**
+  - Advanced sampling strategies (e.g., dynamic or tail-based sampling) require sophisticated instrumentation and infrastructure.
+
+---
+
+### **Techniques for Sampling Observability Data**
+
+---
+
+#### **1. Head-Based Sampling**
+
+---
+
+**What It Is:**
+- Captures the **first N events or traces** per second or per time window.
+
+**Use Cases:**
+- Systems with low traffic or predictable patterns.
+- Establishing baselines for average system performance.
+
+**Advantages:**
+- Simple to implement.
+- Provides representative samples of routine system behavior.
+
+**Disadvantages:**
+- Misses anomalies that occur outside the sampled window.
+- Less effective for high-volume systems with significant traffic variability.
+
+---
+
+**Example:**
+- A payment service processes 10,000 transactions per second.
+  - **Head-Based Sampling Strategy:**
+    - Capture the first 100 transactions per second.
+  - **Use Case:**
+    - Analyze latency trends for typical transactions.
+
+**Key Insight:**
+- **"Head-based sampling is best suited for low-traffic scenarios or capturing normal system behavior, but it struggles with rare events."**
+
+---
+
+#### **2. Tail-Based Sampling**
+
+---
+
+**What It Is:**
+- Captures **events or traces that meet specific criteria**, such as errors, high latency, or unusual patterns.
+
+**Use Cases:**
+- Debugging high-impact incidents.
+- Prioritizing storage of anomalous data over routine events.
+
+**Advantages:**
+- Focuses on the most critical data, ensuring no major issues are missed.
+- Reduces storage costs while retaining diagnostic utility.
+
+**Disadvantages:**
+- Requires additional processing to identify anomalies in real time.
+- May create a skewed dataset, over-representing outliers.
+
+---
+
+**Example:**
+- A microservice architecture generates 1 billion traces daily.
+  - **Tail-Based Sampling Strategy:**
+    - Retain traces where:
+      - `latency > 500ms`.
+      - `status_code != 200`.
+  - **Use Case:**
+    - Investigate high-latency or error-prone requests.
+
+**Key Insight:**
+- **"Tail-based sampling ensures that the critical anomalies causing user impact are never lost."**
+
+---
+
+#### **3. Probabilistic Sampling**
+
+---
+
+**What It Is:**
+- Randomly selects a **fixed percentage of events or traces** for storage.
+
+**Use Cases:**
+- Systems requiring consistent statistical representation.
+- Large-scale applications with uniform traffic distribution.
+
+**Advantages:**
+- Simple and predictable.
+- Scales effectively for high-traffic systems.
+
+**Disadvantages:**
+- May miss rare but significant anomalies.
+
+---
+
+**Example:**
+- A retail application generates 10 million API requests per hour.
+  - **Probabilistic Sampling Strategy:**
+    - Retain 1% of all requests.
+  - **Use Case:**
+    - Analyze trends in average latency, throughput, and error rates.
+
+**Key Insight:**
+- **"Probabilistic sampling balances simplicity and scale but may require supplemental strategies to capture rare events."**
+
+---
+
+#### **4. Dynamic Sampling**
+
+---
+
+**What It Is:**
+- Adjusts sampling rates in real-time based on **traffic patterns, resource availability, or operational conditions**.
+
+**Use Cases:**
+- High-scale systems with traffic spikes or bursty workloads.
+- Dynamic environments with varying error or latency patterns.
+
+**Advantages:**
+- Adapts to changing conditions, optimizing data retention during incidents.
+- Preserves critical data when resources are constrained.
+
+**Disadvantages:**
+- Requires sophisticated observability tools to monitor and adjust sampling dynamically.
+- Implementation complexity increases.
+
+---
+
+**Example:**
+- A news website experiences traffic spikes during breaking news events.
+  - **Dynamic Sampling Strategy:**
+    - During normal traffic:
+      - Retain 10% of requests.
+    - During spikes:
+      - Retain 100% of error traces.
+      - Reduce sampling of successful requests to 2%.
+  - **Use Case:**
+    - Ensure critical errors are retained while reducing routine data during peak loads.
+
+**Key Insight:**
+- **"Dynamic sampling adapts to your system’s needs, focusing on the most important data when it matters most."**
+
+---
+
+#### **5. Weighted Sampling**
+
+---
+
+**What It Is:**
+- Assigns higher sampling probabilities to specific **types of requests, user groups, or workflows**.
+
+**Use Cases:**
+- Prioritizing high-value users or business-critical transactions.
+- Capturing specific workflows (e.g., payments, authentication).
+
+**Advantages:**
+- Ensures critical data is over-represented in sampled datasets.
+- Aligns observability with business priorities.
+
+**Disadvantages:**
+- May bias datasets if weights are not well-calibrated.
+
+---
+
+**Example:**
+- A SaaS application differentiates between free-tier and premium users.
+  - **Weighted Sampling Strategy:**
+    - Retain:
+      - 50% of premium user traces.
+      - 5% of free-tier user traces.
+  - **Use Case:**
+    - Focus on ensuring reliability for high-value customers.
+
+**Key Insight:**
+- **"Weighted sampling aligns observability with business goals, ensuring that the most valuable data gets the most attention."**
+
+---
+
+### **Best Practices for Implementing Sampling Strategies**
+
+---
+
+#### **1. Combine Multiple Techniques**
+
+Use a hybrid approach to balance coverage and efficiency.
+
+**Example:**
+- Retain:
+  - 10% of all traces (probabilistic sampling).
+  - 100% of error traces (tail-based sampling).
+  - 50% of premium user requests (weighted sampling).
+
+**Key Insight:**
+- **"A multi-pronged sampling strategy ensures you capture diverse insights while staying efficient."**
+
+---
+
+#### **2. Regularly Validate and Adjust**
+
+- Test sampling strategies to ensure critical data is captured.
+- Simulate failure scenarios to evaluate effectiveness.
+- **Example:**
+  - Run synthetic tests for rare edge cases to confirm they are sampled correctly.
+
+**Key Insight:**
+- **"Sampling strategies must evolve with your system—test, refine, and adapt."**
+
+---
+
+#### **3. Leverage Observability Tools**
+
+- Use platforms like **Honeycomb**, **Datadog**, or **OpenTelemetry** to manage sampling.
+- Automate dynamic adjustments and monitor sampling effectiveness.
+
+**Key Insight:**
+- **"Integrated tools simplify sampling implementation and ensure consistent execution across services."**
+
+---
 
 # References
 - https://github.com/keyvanakbary/learning-notes/blob/master/books/distributed-systems-observability.md
