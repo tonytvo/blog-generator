@@ -5,7 +5,7 @@ description: "margin of safety by Seth A Klarman summary"
 tags: ["valueinvesting", "investing"]
 ---
 
-## Table of Contents
+# Table of Contents
 
 ```toc
 exclude: Table of Contents
