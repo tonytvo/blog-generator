@@ -5,10 +5,15 @@ description: "observability engineer by Charity, Liz Fong and George summary"
 tags: ["systemperformance"]
 ---
 
-# todo
-- summarize observability engineer by Charity Majors, Liz Fong, and George Miranda
-- summarize practical monitoring from Mike Julian
+# Table of Contents
 
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
 
 # key takeaways
 
