@@ -24,7 +24,7 @@ class-name: "table-of-contents"
 
 # key takeaways
 
-# [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+# Foundations of Data Systems
 
 ## Reliable, scalable, and maintainable applications
 
@@ -696,6 +696,8 @@ Reasons for distribute a database across multiple machines:
 * Scalability
 * Fault tolerance/high availability
 * Latency, having servers at various locations worldwide
+
+# Distributed Data
 
 ## Replication
 
@@ -1768,6 +1770,8 @@ The kind of data managed by ZooKeeper is quite slow-changing like "the node runn
 ZooKeeper, etcd, and Consul are also often used for _service discovery_, find out which IP address you need to connect to in order to reach a particular service. In cloud environments, it is common for virtual machines to continually come an go, you often don't know the IP addresses of your services ahead of time. Your services when they start up they register their network endpoints ina  service registry, where they can then be found by other services.
 
 ZooKeeper and friends can be seen as part of a long history of research into _membership services_, determining which nodes are currently active and live members of a cluster.
+
+# Derived Data
 
 ## Batch processing
 
@@ -6122,6 +6126,196 @@ A long-running application crashes with "out of memory" errors despite having fr
 Expanding **Chapter 16: Case Study** with detailed analysis and bold-highlighted key phrases provides an in-depth view of how performance principles and methodologies are applied in real-world scenarios. This section examines a practical case study to demonstrate the application of performance analysis tools and techniques.
 
 ---
+
+# **File Systems**
+
+---
+
+## **Concepts of Latency, Caching, and I/O Operations**
+
+1. **File System Latency**:
+   - Latency is the **time delay** between initiating an I/O request and its completion. It encompasses:
+     - **Seek Time**: Time taken for the disk head to move to the desired track (important in HDDs).
+     - **Rotational Latency**: Time spent waiting for the desired sector to align under the read/write head.
+     - **Transfer Time**: Time required to actually transfer data between the disk and memory.
+   - **Key Example**: 
+     - Reading a single 4 KB block from an HDD might take **10ms** due to seek and rotational delays, but **0.1ms** on an SSD.
+
+   - **Random vs. Sequential I/O**:
+     - Random I/O involves accessing scattered data blocks, resulting in frequent seeks and higher latency.
+     - Sequential I/O reads or writes contiguous blocks, taking advantage of disk prefetching mechanisms.
+     - **Example**: A video streaming application benefits from sequential reads, while a database with random queries can suffer from random I/O delays.
+
+2. **Caching**:
+   - Caching is critical for improving file system performance by reducing the reliance on slower disk operations.
+   - **Write-Back Caching**:
+     - Data is temporarily stored in memory before being written to the disk, which boosts performance but risks data loss during power failures.
+     - **Example**:
+       - A file system using `write-back` might delay flushing data, ensuring faster response for applications.
+   - **Read-Ahead Caching**:
+     - The system predicts future read requests and preloads data into the cache.
+     - **Example**:
+       - Streaming a movie benefits from read-ahead because upcoming frames can be prefetched into memory.
+   - **Second-Level Cache**:
+     - Intermediate storage (e.g., SSD cache for an HDD array) bridges the performance gap.
+     - **Example**:
+       - Intel Optane memory acts as a cache layer for HDDs in many consumer systems.
+
+3. **Synchronous vs. Asynchronous Writes**:
+   - **Synchronous Writes**:
+     - Guarantees that data is physically written to disk before confirming success.
+     - **Example**: A database update requiring immediate durability uses synchronous writes.
+   - **Asynchronous Writes**:
+     - Allows data to remain in memory temporarily, acknowledging the operation before it's written to disk.
+     - **Example**: Logging services optimize for speed by writing logs asynchronously.
+
+4. **Metadata Handling**:
+   - Metadata operations, like creating or modifying files, introduce overhead as they involve updating file system structures (e.g., inode tables).
+   - **Example**:
+     - Frequent small file creations, as in a mail server, can experience bottlenecks due to excessive metadata updates.
+
+---
+
+## **Observability Tools for File Systems**
+
+1. **Tools for Monitoring and Diagnosis**:
+   - **`iostat`**:
+     - Monitors disk I/O performance and highlights key metrics:
+       - **Device Utilization**: The percentage of time the device is busy.
+       - **Throughput**: Data read/write rate in KB/s.
+       - **Queue Depth**: Number of requests waiting for the device.
+     - **Example**:
+       ```
+       iostat -dx 1
+       ```
+       Output includes:
+       - **%util**: High utilization indicates the disk is saturated.
+       - **await**: Average time (ms) for requests to complete, helping identify latency issues.
+
+   - **`sar`**:
+     - Collects and displays historical disk activity:
+       - **Example Command**:
+         ```
+         sar -d 1 10
+         ```
+         Provides per-device statistics such as average IOPS and request service times.
+
+   - **`bpftrace`**:
+     - Captures low-level file system operations using dynamic tracing.
+     - **Example Script**:
+       - Monitoring file read latency:
+         ```bpftrace
+         tracepoint:syscalls:sys_enter_read {
+             @latency[pid, comm] = hist(latency);
+         }
+         ```
+
+2. **Advanced Tools**:
+   - **`strace`**:
+     - Tracks system calls made by processes, helping identify delays in file I/O.
+     - **Example**:
+       ```
+       strace -e trace=open,read,write my_app
+       ```
+       Reveals how often the application is performing I/O and the time spent on each operation.
+   - **`opensnoop`**:
+     - Tracks open system calls in real-time.
+     - **Example**:
+       ```
+       opensnoop
+       ```
+       Displays the files accessed by applications.
+   - **`cachestat`**:
+     - Monitors cache hits and misses, providing insights into the efficiency of the file system cache.
+     - **Example**:
+       ```
+       cachestat 1
+       ```
+
+3. **Visualization Tools**:
+   - Tools like Grafana integrated with Prometheus or InfluxDB can display:
+     - **Heatmaps**: Distribution of I/O latency.
+     - **Graphs**: Trends in disk usage, cache performance, or throughput.
+
+---
+
+## **Tuning for Performance and Scalability**
+
+1. **File System Types**:
+   - Choosing the right file system based on workload is crucial.
+   - **Ext4**:
+     - General-purpose, efficient journaling file system.
+     - **Example**: Best for desktops and general workloads.
+   - **XFS**:
+     - Scalable and optimized for parallel I/O.
+     - **Example**: Preferred for large databases.
+   - **ZFS**:
+     - Focuses on data integrity with features like snapshots.
+     - **Example**: Ideal for backup and archival storage.
+
+2. **I/O Scheduler Optimization**:
+   - Linux offers multiple I/O schedulers:
+     - **CFQ** (Completely Fair Queuing): Balances performance across workloads.
+     - **Deadline**: Reduces latency for latency-sensitive applications.
+     - **Example**: For databases, switch to the `deadline` scheduler:
+       ```
+       echo "deadline" > /sys/block/sda/queue/scheduler
+       ```
+
+3. **Mount Options**:
+   - Customize mount options for performance:
+     - **`noatime`**: Disables updating access timestamps, reducing write operations.
+     - **`nodiratime`**: Optimizes directory metadata updates.
+     - **Example**:
+       ```
+       mount -o noatime,nodiratime /dev/sda1 /mnt/data
+       ```
+
+4. **Read-Ahead Tuning**:
+   - Adjust read-ahead settings for sequential workloads:
+     ```
+     blockdev --setra 2048 /dev/sda
+     ```
+   - Higher values are beneficial for workloads like video streaming.
+
+5. **Caching Parameters**:
+   - Modify kernel caching settings:
+     - **Example**:
+       - To increase dirty page ratio (write-back caching):
+         ```
+         echo 20 > /proc/sys/vm/dirty_ratio
+         ```
+
+6. **Workload Separation**:
+   - Use dedicated partitions or disks for specific workloads to avoid contention.
+   - **Example**:
+     - Logs on separate SSDs reduce interference with database workloads on HDDs.
+
+---
+
+## **Examples and Real-Life Use Cases**
+
+1. **Video Streaming Service**:
+   - Optimized read-ahead cache to ensure smooth playback.
+   - Used heatmaps to monitor latency spikes during peak usage.
+
+2. **High-Throughput Database**:
+   - Switched to the `deadline` I/O scheduler to reduce query response times.
+   - Mounted with `noatime` and increased dirty ratio for faster writes.
+
+3. **Web Server**:
+   - Reduced metadata overhead with `nodiratime`.
+   - Utilized `bpftrace` to identify inefficient file access patterns, improving response times.
+
+---
+
+## **Key Highlights**:
+
+- **"File system performance hinges on matching configurations to workload patterns."**
+- **"Observability tools like `iostat` and `sar` empower real-time insights and historical trend analysis."**
+- **"Optimizing mount options, scheduler settings, and caching parameters can drastically improve scalability."**
+
+
 
 # **Chapter 16: Case Study**
 
