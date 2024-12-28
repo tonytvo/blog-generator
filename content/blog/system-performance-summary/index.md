@@ -1,20 +1,9 @@
 ---
 title: system performance summary - wip
-date: "2024-07-03T22:12:03.284Z"
+date: "2024-12-27T22:12:03.284Z"
 description: "system performance summary"
 tags: ["evolutionarydesign", "systemperformance"]
 ---
-
-# key ideas
-- this is huge topics, so it's continuous progress of updating references to other topics
-- here's the interesting topics that has already been discussed summarized before
-  - observability
-  - site reliability
-  - devops handbook
-  - design data intensive application
-  - systems performance
-
-
 
 # system performance and design data intensive applications summary
 - [system performance and design data intensive applications](/data-intensive-system-perf)
@@ -25,22 +14,11 @@ tags: ["evolutionarydesign", "systemperformance"]
 # observability engineer summary
 - [observability engineering summary](/observability-engineer-summary)
 
+# common pitfalls/tips/examples
+
+- [How to get consistent results when benchmarking on Linux?](https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux)
+
 # Quotes
-
-
-# Game Plan
-- surface the critical examples based on experience.
-  - it could be code, database queries, etc...
-- go as broad as possible for the first attempt
-- should at least include perspective from the following references
-  - designing data intensive applications -> https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
-  - system performance from brendan gregg
-  - java performance from Scott Oaks
-  - [Thinking in Systems](https://www.amazon.ca/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA)
-  - site reliability engineering book
-  - database reliability engineering book
-  - practical monitoring from mike Julian
-  - observability engineering
 
 
 # References
