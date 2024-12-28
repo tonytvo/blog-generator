@@ -1,6 +1,6 @@
 ---
 title: observability engineer by Charity, Liz Fong and George summary - wip
-date: "2024-07-23T22:12:03.284Z"
+date: "2024-12-27T22:12:03.284Z"
 description: "observability engineer by Charity, Liz Fong and George summary"
 tags: ["systemperformance"]
 ---
