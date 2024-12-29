@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - you're an expert in realestate investing, give me detailed outline on the Monterey Park neighborhood in Calgary with the following questions:
+>  - you're an expert in realestate investing, give me detailed outline on the Evanston neighborhood in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
@@ -6328,6 +6328,64 @@ Here’s a detailed outline of the **Killarney/Glengarry neighborhood in Calgary
 Killarney/Glengarry presents a balanced mix of **investment potential, stable returns, and long-term appreciation.** The neighborhood's redevelopment initiatives and central location make it a prime choice for real estate investors.
 
 # Evanston
+
+Evanston is a sought-after community in Calgary with a unique blend of amenities, housing options, and investment potential. Here's a detailed outline addressing your queries:
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**: Creekside Shopping Centre and Evanston Towne Centre offer grocery stores, retail shops, cafes, and restaurants.
+- **Parks & Recreation**: Evanston features ample green spaces, walking paths, and parks like Evanston Creekside Playground.
+- **Schools**: Multiple schools, including Evanston's public and Catholic schools, cater to various age groups.
+- **Healthcare**: Proximity to medical clinics and pharmacies, with the Sage Hill and Beacon Hill areas offering additional options.
+- **Attractions**: Close to Symons Valley Ranch for markets and events, and short drives to Nose Hill Park or Country Hills Golf Club.
+
+## **2. Housing Age**
+- Development began in the mid-2000s and has continued steadily, with many homes built between 2005 and 2020.
+
+## **3. Common Building Types**
+- Predominantly single-family detached homes, complemented by semi-detached houses, townhomes, and a growing number of low-rise condos.
+
+## **4. Zoning Regulations**
+- Primarily residential (R-1, R-2), allowing for single-family and semi-detached homes.
+- Increasingly, areas are rezoned for townhomes and multi-family units (R-2M, R-3), supporting moderate densification and more units per lot.
+
+## **5. Population and Growth**
+- **Population**: Approximately 15,000+ residents.
+- **Growth**: Consistent annual growth due to its family-oriented appeal and continued development of infrastructure and amenities.
+
+## **6. Average Income**
+- Median household income is estimated at $110,000-$125,000, reflecting its middle- to upper-middle-class demographic.
+
+## **7. Crime Rate**
+- Low crime rate, typical for suburban Calgary communities, enhancing its reputation as a safe and family-friendly neighborhood.
+
+## **8. Rental Supply and Demand**
+- **Supply**: Limited rental properties due to high homeownership rates but growing with newer multi-family developments.
+- **Demand**: Strong demand driven by families and professionals seeking proximity to amenities and quality schools.
+
+## **9. Average Rents**
+- **Single-family homes**: $2,200–$2,800/month.
+- **Townhomes**: $1,800–$2,200/month.
+- **Condos/Apartments**: $1,400–$1,800/month.
+
+## **10. Neighborhood Classification**
+- Classified as a **B+ neighborhood**, appealing to middle-income families and young professionals, with solid community features and increasing rental opportunities.
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate appreciation potential, with growth linked to Calgary's overall economic and population trends.
+- **Returns/Cashflow**: Current cashflow for rentals is balanced by higher entry costs but improves with multi-unit properties.
+
+## **12. Average House Prices**
+- **Detached homes**: $550,000–$700,000.
+- **Townhomes**: $400,000–$500,000.
+- **Condos**: $250,000–$350,000.
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Leverage steady appreciation and reliable rental demand.
+- **Rent-to-Own**: Popular among families aiming to transition to homeownership.
+- **Multi-family Development**: Consider opportunities where zoning allows increased density.
+- **Value-Add Properties**: Renovate older homes for resale or rental in this growing community.
+
+
 # Applewood Park
 # Glamorgan
 # Hillhurst
