@@ -303,6 +303,87 @@ tags: ["ensemble", "softwaredevelopment"]
 
 ---
 
+## Principles of Prioritization
+
+### Introduction
+1. **Hosts and Topic Introduction**:
+   - Hosts: Chris Lucian and Austin Chadwick.
+   - Focus: Third habit of the seven habits of highly effective mobbers - "Put First Things First."
+
+### Context and Personal Insights
+2. **Personal Reflections**:
+   - Importance of prioritization and principles.
+   - Introduction to foundational quotes, including "schedule your priorities."
+   - Reflection on how prioritization aligns with principles.
+
+3. **Scheduling Priorities**:
+   - Importance of scheduling based on principles, not just immediate tasks.
+   - Highlight: Eisenhower Matrix as a prioritization framework.
+
+4. **Eisenhower Matrix Overview**:
+   - Quadrants Explained:
+     - **Q1 (Urgent and Important)**: Crisis, emergency deadlines.
+     - **Q2 (Not Urgent but Important)**: Proactive work, learning, relationship building.
+     - **Q3 (Urgent but Not Important)**: Distractions.
+     - **Q4 (Not Urgent, Not Important)**: Waste activities.
+   - Emphasis on Q2 as the "Effectiveness Quadrant."
+
+### Practical Application in Mob Programming
+5. **Connecting Eisenhower Matrix to Mob Programming**:
+   - Learning and renewal (lightning talks).
+   - Relationship building within teams (e.g., hikes and lean coffees).
+   - Avoidance of Q3 and Q4 activities by aligning tasks with team goals.
+
+6. **Avoiding Burnout**:
+   - Dangers of overemphasizing Q1.
+   - Strategies for balancing workloads and preventing crisis mode.
+   - Cultivating a healthy working environment.
+
+### Cultural and Strategic Adjustments
+7. **Cultural Challenges**:
+   - Addressing organizational tendencies to overprioritize short-term gains.
+   - Encouraging long-term thinking aligned with principles.
+
+8. **Procrastination and Its Impact**:
+   - How delays can lead to crisis (Q1).
+   - Preventive strategies for teams, including regular retrospectives and forward-planning.
+
+### Practical Examples
+9. **Exercise and Maintenance Analogy**:
+   - Exercise prevents future health crises—similarly, proactive refactoring prevents debugging crises.
+   - Arlo Belshee’s “Bug Zero” approach to preventing a firefighting culture in software teams.
+
+10. **Firefighting in Software**:
+    - Analogy of avoiding being addicted to the "fires" (bugs and urgent issues).
+    - Prioritizing sustainable practices over short-term fixes.
+
+### Team Dynamics
+11. **Role of Teams in Prioritization**:
+    - Mob programming as a tool for reducing distractions (Q3) and increasing focus on Q2 activities.
+    - Facilitators’ roles in promoting efficiency and preventing unnecessary interruptions.
+
+12. **Delegation and Automation**:
+    - Delegating Q3 tasks to reduce workload.
+    - Automating repetitive tasks for increased efficiency.
+
+### Leadership and Decision-Making
+13. **Leadership Strategies**:
+    - Teaching teams to focus on the most important tasks, even under urgency.
+    - Balancing kindness with directness in setting priorities.
+
+14. **Mob Programming as Real-Time Alignment**:
+    - Collaborative prioritization during mob sessions.
+    - Addressing distractions in real-time and maintaining team alignment.
+
+### Conclusion and Reflection
+15. **Strategies for Implementation**:
+    - Using Kanban boards to visualize priorities within Eisenhower quadrants.
+    - Regularly reviewing team workflows to ensure alignment with Q2 goals.
+
+16. **Closing Thoughts**:
+    - Encouragement for individuals and teams to adopt these prioritization habits.
+    - Invitation for viewers to share and reflect on the discussed principles.
+
 
 # Quotes
 
