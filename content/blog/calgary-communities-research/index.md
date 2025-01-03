@@ -6387,6 +6387,65 @@ Evanston is a sought-after community in Calgary with a unique blend of amenities
 
 
 # Applewood Park
+
+Applewood Park, located in Calgary's southeast, is an established residential neighborhood with a variety of investment opportunities. Here's a detailed outline based on your queries:
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**: Easy access to East Hills Shopping Centre with retail stores, restaurants, and a Costco.
+- **Parks & Recreation**: Close to Elliston Park, home to the GlobalFest fireworks festival, offering walking trails and a peaceful lake.
+- **Transportation**: Well-connected by major roads (Stoney Trail, 17th Avenue SE) and public transit options.
+- **Healthcare**: Proximity to medical clinics and pharmacies, and a short drive to Peter Lougheed Centre.
+- **Entertainment**: Quick access to movie theaters and recreational facilities in surrounding areas.
+
+## **2. Housing Age**
+- Predominantly developed in the 1980s and 1990s, with a mix of older homes and some more recent infill developments.
+
+## **3. Common Building Types**
+- Primarily single-family detached homes, along with some duplexes, townhouses, and low-rise apartment complexes.
+
+## **4. Zoning Regulations**
+- Zoning is a mix of R-1 (single-family homes) and R-2 (semi-detached homes), with some areas allowing multi-family units (R-2M).
+- **Multi-unit potential**: Select zones permit higher density, making redevelopment and secondary suites possible.
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,500 residents.
+- **Growth**: Stable population, with moderate increases due to new infill developments and affordability compared to other Calgary neighborhoods.
+
+## **6. Average Income**
+- Median household income is estimated at $70,000–$85,000, reflecting a working-class to middle-income demographic.
+
+## **7. Crime Rate**
+- Crime rates are moderate, with occasional property-related incidents. However, crime has been on a decline due to active community engagement.
+
+## **8. Rental Supply and Demand**
+- **Supply**: Reasonable availability of rental properties, including detached homes and apartments.
+- **Demand**: Strong among families, working professionals, and new immigrants due to affordability and accessibility.
+
+## **9. Average Rents**
+- **Single-family homes**: $1,800–$2,200/month.
+- **Townhouses**: $1,400–$1,800/month.
+- **Apartments**: $1,200–$1,500/month.
+
+## **10. Neighborhood Classification**
+- Classified as a **C+ neighborhood**, offering affordability and steady rental demand but with room for improvement in infrastructure and amenities.
+
+## **11. Long-term Potential**
+- **Appreciation**: Modest appreciation potential, driven by affordability and gradual community upgrades.
+- **Returns/Cashflow**: Favorable cashflow for investors due to lower property prices and consistent rental demand.
+
+## **12. Average House Prices**
+- **Detached homes**: $400,000–$500,000.
+- **Townhouses**: $300,000–$400,000.
+- **Condos**: $180,000–$250,000.
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Benefiting from rental demand and long-term appreciation.
+- **Affordable Rentals**: Attract tenants with competitive rents in a working-class community.
+- **Value-Add Opportunities**: Renovate older homes for increased value or higher rents.
+- **Secondary Suites**: Leverage zoning allowances to add income-generating suites.
+
+Would you like a comparison between Applewood Park and another neighborhood, or further exploration of investment strategies here?
+
 # Glamorgan
 # Hillhurst
 # Crescent Heights
