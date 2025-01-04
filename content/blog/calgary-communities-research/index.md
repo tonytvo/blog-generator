@@ -6444,9 +6444,99 @@ Applewood Park, located in Calgary's southeast, is an established residential ne
 - **Value-Add Opportunities**: Renovate older homes for increased value or higher rents.
 - **Secondary Suites**: Leverage zoning allowances to add income-generating suites.
 
-Would you like a comparison between Applewood Park and another neighborhood, or further exploration of investment strategies here?
-
 # Glamorgan
+
+Glamorgan, located in Calgary's southwest quadrant, is a mature and established neighborhood with a mix of residential and commercial opportunities. Here's a comprehensive breakdown of your inquiries:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:  
+  - Westhills Towne Centre and Signal Hill Shopping Centre offer grocery stores, retail shops, restaurants, and entertainment.
+  - Glamorgan Bakery is a neighborhood highlight for its iconic cheese buns and baked goods.
+- **Parks & Recreation**:  
+  - Glamorgan Park and Optimist Athletic Park provide green spaces, sports fields, and walking paths.
+  - Proximity to Edworthy Park and Glenmore Reservoir for outdoor activities.
+- **Education**:  
+  - Home to multiple schools, including Glamorgan School and St. Andrew School, and close to Mount Royal University.
+- **Healthcare**:  
+  - Nearby medical clinics and pharmacies, with Rockyview General Hospital a short drive away.
+
+---
+
+## **2. Housing Age**
+- The majority of homes in Glamorgan were built between the 1950s and 1970s, reflecting a well-established and charming suburban aesthetic.
+
+---
+
+## **3. Common Building Types**
+- A mix of single-family detached homes, bungalows, and duplexes.
+- Some multi-family developments, including townhouses and low-rise condominiums, cater to a diverse demographic.
+
+---
+
+## **4. Zoning Regulations**
+- Predominantly residential zones (R-C1, R-C2) for single-family and duplex homes.
+- Select areas have been rezoned (R-CG, M-C1) to allow for rowhouses, townhomes, and low-density multi-family units.
+- **Multi-unit potential**: Increasing opportunities for densification and redevelopment.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,500 residents.
+- **Growth**: Stable population with a mix of long-term residents and newer families moving into updated or redeveloped homes.
+
+---
+
+## **6. Average Income**
+- Median household income ranges from $80,000 to $100,000, reflecting a middle-income demographic with varied employment sectors.
+
+---
+
+## **7. Crime Rate**
+- Glamorgan experiences a low to moderate crime rate, consistent with Calgary's suburban neighborhoods, emphasizing property and vehicle-related incidents.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: Steady rental availability, including older detached homes, townhomes, and apartments.
+- **Demand**: Moderate to strong, driven by proximity to Mount Royal University, amenities, and downtown Calgary.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $2,000–$2,500/month.
+- **Townhouses**: $1,600–$2,000/month.
+- **Condos/Apartments**: $1,300–$1,800/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **B neighborhood**, offering a balance of affordability, accessibility, and amenities, appealing to families, students, and young professionals.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate appreciation due to its central location and ongoing redevelopment efforts.
+- **Returns/Cashflow**: Favorable cashflow potential, especially with multi-unit properties or updated homes catering to renters.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $550,000–$700,000.
+- **Townhouses**: $350,000–$500,000.
+- **Condos**: $200,000–$300,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Reliable rental demand from students and families ensures steady income and long-term appreciation.
+- **Student Rentals**: Proximity to Mount Royal University makes this an attractive option.
+- **Value-Add Properties**: Renovations of older homes to modernize and increase rental income or resale value.
+- **Small-scale Development**: Leverage zoning for townhouses or duplexes to maximize ROI.
+
+---
+
 # Hillhurst
 # Crescent Heights
 # Sandstone Valley
