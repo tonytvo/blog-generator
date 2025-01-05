@@ -6538,6 +6538,101 @@ Glamorgan, located in Calgary's southwest quadrant, is a mature and established 
 ---
 
 # Hillhurst
+
+Hillhurst is a vibrant and desirable neighborhood in Calgary, combining historic charm with modern amenities. Here’s a comprehensive outline addressing your queries:
+
+---
+
+### **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:  
+  - Close to Kensington Village, featuring boutique shops, cafes, restaurants, and entertainment.
+  - Easy access to downtown Calgary for additional retail and dining options.
+- **Recreation**:  
+  - Proximity to Riley Park, which includes gardens, walking paths, and a wading pool.
+  - Bow River pathways for cycling and walking.
+- **Cultural Attractions**:  
+  - Sunnyside Farmer’s Market and year-round events in Kensington.
+- **Education**:  
+  - Home to Hillhurst School and close to post-secondary institutions like SAIT and University of Calgary.
+- **Healthcare**:  
+  - Nearby medical clinics, pharmacies, and Foothills Medical Centre.
+
+---
+
+### **2. Housing Age**
+- A mix of historic homes dating back to the early 1900s and newer infill developments. Many original properties have been renovated or replaced with modern constructions.
+
+---
+
+### **3. Common Building Types**
+- **Single-family homes**: Both historic character homes and modern infills.
+- **Townhouses and duplexes**: Popular for urban living.
+- **Low-rise condos and apartments**: Increasingly common in redeveloped areas.
+
+---
+
+### **4. Zoning Regulations**
+- A mix of residential and commercial zoning, including R-C2 (single-family and duplex), R-CG (rowhouses), and M-C1 (low-rise multi-family).
+- **Multi-unit potential**: Significant redevelopment opportunities, especially near Kensington and transit hubs.
+
+---
+
+### **5. Population and Growth**
+- **Population**: Approximately 6,000 residents.
+- **Growth**: Moderate growth driven by infill developments and increasing urban appeal.
+
+---
+
+### **6. Average Income**
+- Median household income is approximately $90,000–$120,000, with a mix of professionals, students, and long-term residents.
+
+---
+
+### **7. Crime Rate**
+- Moderate crime rate, with occasional property-related incidents, typical for urban neighborhoods near downtown. Proactive community safety measures are in place.
+
+---
+
+### **8. Rental Supply and Demand**
+- **Supply**: Ample rental options, from historic homes to modern apartments.
+- **Demand**: Strong due to proximity to downtown, universities, and vibrant amenities.
+
+---
+
+### **9. Average Rents**
+- **Single-family homes**: $2,400–$3,200/month.
+- **Townhouses**: $1,800–$2,400/month.
+- **Condos/Apartments**: $1,400–$2,000/month.
+
+---
+
+### **10. Neighborhood Classification**
+- **A neighborhood**, offering prime location, strong demand, and a mix of upscale and moderately priced housing options.
+
+---
+
+### **11. Long-term Potential**
+- **Appreciation**: High appreciation potential due to location, redevelopment, and ongoing urbanization.
+- **Returns/Cashflow**: Balanced, with opportunities for higher cashflow in multi-unit or renovated properties.
+
+---
+
+### **12. Average House Prices**
+- **Detached homes**: $700,000–$1,200,000 (depending on size and condition).
+- **Townhouses**: $500,000–$700,000.
+- **Condos**: $300,000–$500,000.
+
+---
+
+### **13. Real Estate Investment Strategies**
+- **Infill Development**: Capitalize on zoning allowances to build duplexes or rowhouses.
+- **Buy and Hold**: Benefit from consistent appreciation and steady rental demand.
+- **Luxury Rentals**: Cater to professionals seeking high-end accommodations near downtown.
+- **Student Housing**: Proximity to SAIT and the University of Calgary makes this a lucrative niche.
+- **Renovation and Flipping**: Upgrade historic homes to meet modern tastes and increase value.
+
+---
+
 # Crescent Heights
 # Sandstone Valley
 # Cedarbrae
