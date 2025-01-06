@@ -6543,7 +6543,7 @@ Hillhurst is a vibrant and desirable neighborhood in Calgary, combining historic
 
 ---
 
-### **1. Nearby Amenities and Attractions**
+## **1. Nearby Amenities and Attractions**
 - **Shopping & Dining**:  
   - Close to Kensington Village, featuring boutique shops, cafes, restaurants, and entertainment.
   - Easy access to downtown Calgary for additional retail and dining options.
@@ -6559,72 +6559,72 @@ Hillhurst is a vibrant and desirable neighborhood in Calgary, combining historic
 
 ---
 
-### **2. Housing Age**
+## **2. Housing Age**
 - A mix of historic homes dating back to the early 1900s and newer infill developments. Many original properties have been renovated or replaced with modern constructions.
 
 ---
 
-### **3. Common Building Types**
+## **3. Common Building Types**
 - **Single-family homes**: Both historic character homes and modern infills.
 - **Townhouses and duplexes**: Popular for urban living.
 - **Low-rise condos and apartments**: Increasingly common in redeveloped areas.
 
 ---
 
-### **4. Zoning Regulations**
+## **4. Zoning Regulations**
 - A mix of residential and commercial zoning, including R-C2 (single-family and duplex), R-CG (rowhouses), and M-C1 (low-rise multi-family).
 - **Multi-unit potential**: Significant redevelopment opportunities, especially near Kensington and transit hubs.
 
 ---
 
-### **5. Population and Growth**
+## **5. Population and Growth**
 - **Population**: Approximately 6,000 residents.
 - **Growth**: Moderate growth driven by infill developments and increasing urban appeal.
 
 ---
 
-### **6. Average Income**
+## **6. Average Income**
 - Median household income is approximately $90,000–$120,000, with a mix of professionals, students, and long-term residents.
 
 ---
 
-### **7. Crime Rate**
+## **7. Crime Rate**
 - Moderate crime rate, with occasional property-related incidents, typical for urban neighborhoods near downtown. Proactive community safety measures are in place.
 
 ---
 
-### **8. Rental Supply and Demand**
+## **8. Rental Supply and Demand**
 - **Supply**: Ample rental options, from historic homes to modern apartments.
 - **Demand**: Strong due to proximity to downtown, universities, and vibrant amenities.
 
 ---
 
-### **9. Average Rents**
+## **9. Average Rents**
 - **Single-family homes**: $2,400–$3,200/month.
 - **Townhouses**: $1,800–$2,400/month.
 - **Condos/Apartments**: $1,400–$2,000/month.
 
 ---
 
-### **10. Neighborhood Classification**
+## **10. Neighborhood Classification**
 - **A neighborhood**, offering prime location, strong demand, and a mix of upscale and moderately priced housing options.
 
 ---
 
-### **11. Long-term Potential**
+## **11. Long-term Potential**
 - **Appreciation**: High appreciation potential due to location, redevelopment, and ongoing urbanization.
 - **Returns/Cashflow**: Balanced, with opportunities for higher cashflow in multi-unit or renovated properties.
 
 ---
 
-### **12. Average House Prices**
+## **12. Average House Prices**
 - **Detached homes**: $700,000–$1,200,000 (depending on size and condition).
 - **Townhouses**: $500,000–$700,000.
 - **Condos**: $300,000–$500,000.
 
 ---
 
-### **13. Real Estate Investment Strategies**
+## **13. Real Estate Investment Strategies**
 - **Infill Development**: Capitalize on zoning allowances to build duplexes or rowhouses.
 - **Buy and Hold**: Benefit from consistent appreciation and steady rental demand.
 - **Luxury Rentals**: Cater to professionals seeking high-end accommodations near downtown.
@@ -6634,6 +6634,101 @@ Hillhurst is a vibrant and desirable neighborhood in Calgary, combining historic
 ---
 
 # Crescent Heights
+
+Crescent Heights is a sought-after neighborhood in Calgary, known for its proximity to downtown and scenic views. Here’s a detailed outline based on your queries:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Close to Centre Street with diverse restaurants, cafes, and shops offering a mix of cuisines and services.
+  - Easy access to Chinatown and Kensington Village for additional dining and boutique shopping options.
+- **Recreation**:
+  - Crescent Heights Park and Rotary Park offer green spaces, walking paths, and stunning views of downtown and the Bow River.
+  - Proximity to Prince’s Island Park and the Bow River pathways for outdoor activities.
+- **Cultural Attractions**:
+  - Close to the Southern Alberta Jubilee Auditorium and the Calgary Zoo.
+- **Education**:
+  - Crescent Heights High School and other nearby schools serve the community.
+- **Healthcare**:
+  - Proximity to the Peter Lougheed Centre and various clinics and pharmacies.
+
+---
+
+## **2. Housing Age**
+- Crescent Heights has a mix of older homes built in the early 20th century (1920s-1950s) and newer developments, including modern infills and condos.
+
+---
+
+## **3. Common Building Types**
+- **Single-family homes**: Both historic character homes and contemporary infills.
+- **Townhouses and duplexes**: Increasingly popular due to redevelopment.
+- **Low- and mid-rise condos/apartments**: Common along major streets like Centre Street.
+
+---
+
+## **4. Zoning Regulations**
+- Zoning includes R-C1 and R-C2 (single-family and duplex homes), with areas of R-CG and M-C1 (multi-family low-density) near major transit routes.
+- **Multi-unit potential**: Significant redevelopment opportunities along Centre Street and nearby transit hubs, with zoning often permitting additional units per lot.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,300 residents.
+- **Growth**: Steady growth due to its desirable location, urban living appeal, and redevelopment projects.
+
+---
+
+## **6. Average Income**
+- Median household income is approximately $75,000–$95,000, reflecting a mix of professionals, families, and students.
+
+---
+
+## **7. Crime Rate**
+- Moderate crime rate, typical for neighborhoods close to downtown. Most incidents are property-related, with active community safety initiatives in place.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: High, due to a mix of condos, apartments, and single-family homes with secondary suites.
+- **Demand**: Strong demand from students, professionals, and families seeking proximity to downtown and amenities.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $2,200–$2,800/month.
+- **Townhouses**: $1,800–$2,400/month.
+- **Condos/Apartments**: $1,400–$2,000/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **A neighborhood**, characterized by high desirability, strong demand, and a mix of affordable and upscale housing options.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: High appreciation potential due to proximity to downtown, scenic views, and ongoing densification projects.
+- **Returns/Cashflow**: Balanced returns, with excellent opportunities for cashflow in multi-unit or high-demand rental properties.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $650,000–$1,000,000+ (depending on size, location, and condition).
+- **Townhouses**: $450,000–$650,000.
+- **Condos**: $250,000–$450,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Infill Development**: Redevelop older properties into modern infills or duplexes.
+- **Buy and Hold**: Benefit from consistent rental demand and long-term appreciation.
+- **Student Rentals**: Cater to students attending nearby post-secondary institutions like SAIT and the University of Calgary.
+- **Luxury Rentals**: Leverage properties with downtown or river views for high-end tenants.
+- **Mixed-use Development**: Take advantage of zoning along Centre Street for residential and commercial use.
+
+---
+
 # Sandstone Valley
 # Cedarbrae
 # Albert Park/Radisson Heights
