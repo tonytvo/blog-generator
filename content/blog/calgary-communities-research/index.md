@@ -6730,6 +6730,97 @@ Crescent Heights is a sought-after neighborhood in Calgary, known for its proxim
 ---
 
 # Sandstone Valley
+
+Sandstone Valley is a mature, family-oriented neighborhood in Calgary’s northwest, offering great potential for real estate investors. Here's a detailed outline addressing your questions:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Close to major retail centers, including Beddington Towne Centre and Harvest Hills Crossing.
+  - A mix of local restaurants, cafes, and essential services within a short drive.
+- **Recreation**:
+  - Sandstone Park features sports fields, playgrounds, and walking trails.
+  - Nose Hill Park, a large urban park, is nearby for hiking and outdoor activities.
+- **Education**:
+  - Schools such as Simons Valley School and Monsignor Neville Anderson School serve the community.
+- **Healthcare**:
+  - Proximity to medical clinics and pharmacies, with access to larger facilities like Foothills Medical Centre within a 20-minute drive.
+
+---
+
+## **2. Housing Age**
+- Most homes were built between the late 1970s and the early 1990s, offering a mix of mature landscaping and established infrastructure.
+
+---
+
+## **3. Common Building Types**
+- Predominantly single-family detached homes.
+- Some semi-detached houses and townhomes are also present, catering to diverse demographics.
+
+---
+
+## **4. Zoning Regulations**
+- Zoning includes R-C1 (single-family homes) and R-C2 (semi-detached homes), with limited areas for multi-family development.
+- **Multi-unit potential**: Generally restricted, though opportunities exist for adding secondary suites in line with Calgary’s secondary suite program.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,000 residents.
+- **Growth**: Stable, with minimal new development due to the neighborhood’s maturity, but infill and renovation projects are increasing.
+
+---
+
+## **6. Average Income**
+- Median household income is estimated at $90,000–$110,000, reflecting a middle-income demographic.
+
+---
+
+## **7. Crime Rate**
+- Low crime rate, consistent with suburban family-friendly neighborhoods in Calgary.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: Moderate rental supply, primarily in single-family homes and some townhomes.
+- **Demand**: Steady, driven by families seeking a quiet, established community with good schools and amenities.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $1,900–$2,500/month.
+- **Townhouses**: $1,600–$2,000/month.
+- **Apartments (limited)**: $1,200–$1,600/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **B neighborhood**, characterized by affordability, family orientation, and proximity to parks and schools.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate appreciation due to limited new construction, with rising demand for renovated homes.
+- **Returns/Cashflow**: Balanced, with opportunities for stable cashflow in rental properties.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $500,000–$650,000.
+- **Townhouses**: $350,000–$450,000.
+- **Condos (if available)**: $250,000–$350,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Leverage steady appreciation and consistent rental demand.
+- **Value-Add Properties**: Renovate older homes to increase resale value or rental income.
+- **Secondary Suites**: Utilize Calgary’s zoning policies to add legal secondary suites for additional cashflow.
+- **Family Rentals**: Cater to families seeking proximity to schools and parks.
+
+---
+
 # Cedarbrae
 # Albert Park/Radisson Heights
 # Forest Heights
