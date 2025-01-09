@@ -6821,9 +6821,98 @@ Sandstone Valley is a mature, family-oriented neighborhood in Calgary’s northw
 
 ---
 
-# Cedarbrae
-# Albert Park/Radisson Heights
 # Forest Heights
+
+Forest Heights is an established neighborhood in Calgary's southeast, offering affordability and proximity to essential amenities. Below is a detailed outline answering your questions:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Marlborough Mall and Pacific Place Mall are nearby for shopping, dining, and entertainment.
+  - Access to a variety of local and chain restaurants along 17th Avenue SE, also known as International Avenue.
+- **Recreation**:
+  - Bob Bahan Aquatic & Fitness Centre offers swimming and fitness facilities.
+  - Forest Heights Community Association hosts events, recreational programs, and rental spaces.
+- **Education**:
+  - Several schools, including Holy Trinity Elementary School and Ernest Morrow School.
+- **Healthcare**:
+  - Proximity to medical clinics, pharmacies, and Peter Lougheed Centre.
+
+---
+
+## **2. Housing Age**
+- The majority of homes were built in the 1960s and 1970s, reflecting the era’s suburban design and architecture.
+
+---
+
+## **3. Common Building Types**
+- A mix of single-family detached homes, duplexes, townhouses, and some low-rise apartments.
+
+---
+
+## **4. Zoning Regulations**
+- Zoning includes R-C1, R-C2 (single-family and semi-detached homes), and M-C1 (multi-family low-density) in some areas.
+- **Multi-unit potential**: Select zones allow for multi-family developments, and secondary suites are possible under Calgary’s policies.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,500 residents.
+- **Growth**: Relatively stable, with potential for redevelopment and infill housing.
+
+---
+
+## **6. Average Income**
+- Median household income is around $55,000–$70,000, lower than the city average, reflecting its working-class demographic.
+
+---
+
+## **7. Crime Rate**
+- Moderate crime rate, with some property and petty crime reported. Community safety initiatives aim to improve security.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: High rental availability due to a mix of apartments and single-family homes with secondary suites.
+- **Demand**: Consistent, driven by affordability and proximity to transit and employment hubs.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $1,600–$2,200/month.
+- **Townhouses**: $1,400–$1,800/month.
+- **Apartments**: $1,100–$1,500/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **C neighborhood**, with affordability as its key attraction but requiring improvement in infrastructure and amenities.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate, driven by affordability and proximity to downtown.
+- **Returns/Cashflow**: Strong potential for cashflow, especially in multi-unit or affordable rental properties.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $350,000–$450,000.
+- **Townhouses**: $250,000–$350,000.
+- **Condos**: $150,000–$250,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Leverage affordable pricing and steady rental demand.
+- **Affordable Rentals**: Target working-class tenants with competitive rents.
+- **Value-Add Properties**: Renovate older homes for higher resale value or rental income.
+- **Secondary Suites**: Utilize zoning allowances to add legal suites for additional cashflow.
+- **Multi-Family Development**: Focus on areas zoned for higher density to maximize returns.
+
+---
+
 # Woodlands
 # Castleridge
 # Southwood
