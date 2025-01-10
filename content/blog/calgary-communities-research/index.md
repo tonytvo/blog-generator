@@ -6914,6 +6914,99 @@ Forest Heights is an established neighborhood in Calgary's southeast, offering a
 ---
 
 # Woodlands
+
+Woodlands is a well-established neighborhood in Calgary's southwest, known for its family-friendly atmosphere and proximity to natural spaces. Below is a comprehensive outline addressing your questions:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Close to Southcentre Mall, Canyon Meadows Shopping Centre, and local amenities in the neighboring Woodbine area.
+  - A variety of dining options, including casual restaurants and specialty cafes.
+- **Recreation**:
+  - Adjacent to Fish Creek Provincial Park, offering extensive trails, picnic areas, and natural beauty.
+  - Woodlands Community Association hosts events and recreational programs.
+- **Education**:
+  - Schools such as Woodlands Elementary and St. Jude Elementary are within the neighborhood.
+- **Healthcare**:
+  - Proximity to Canyon Meadows Medical Clinic and South Health Campus Hospital.
+
+---
+
+## **2. Housing Age**
+- Homes were primarily built in the 1970s and 1980s, with a mix of well-maintained original structures and modern renovations.
+
+---
+
+## **3. Common Building Types**
+- **Single-family detached homes**: The most prevalent housing type, including bungalows and two-story homes.
+- **Townhouses**: A moderate presence, catering to smaller families or first-time buyers.
+- **Apartments**: Limited, with some low-rise complexes available.
+
+---
+
+## **4. Zoning Regulations**
+- Predominantly R-C1 (single-family homes) and R-C2 (semi-detached homes), with limited areas zoned for higher density.
+- **Multi-unit potential**: Secondary suites are possible under Calgary's zoning policies, but large-scale multi-family developments are rare.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,000 residents.
+- **Growth**: Stable, with gradual increases due to infill development and modernization of older properties.
+
+---
+
+## **6. Average Income**
+- Median household income ranges from $90,000 to $110,000, reflecting its middle- to upper-middle-class demographic.
+
+---
+
+## **7. Crime Rate**
+- Low crime rate, consistent with suburban neighborhoods in Calgary, making it attractive to families and retirees.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: Limited rental properties, mainly single-family homes and a few townhouses.
+- **Demand**: Steady, driven by families and professionals seeking proximity to amenities and Fish Creek Park.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $2,000–$2,500/month.
+- **Townhouses**: $1,600–$2,000/month.
+- **Apartments**: $1,200–$1,500/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **B+ neighborhood**, offering a desirable balance of affordability, natural beauty, and access to quality amenities.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate to strong appreciation potential due to limited housing supply and proximity to Fish Creek Park.
+- **Returns/Cashflow**: Balanced, with opportunities for solid rental income in family-oriented properties.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $500,000–$700,000.
+- **Townhouses**: $350,000–$450,000.
+- **Condos**: $250,000–$350,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Leverage the neighborhood's stability and steady appreciation.
+- **Family Rentals**: Target families looking for proximity to parks, schools, and suburban amenities.
+- **Value-Add Properties**: Renovate older homes to attract higher rents or resale value.
+- **Secondary Suites**: Add legal suites in existing single-family homes to maximize cashflow.
+- **Infill Development**: Explore opportunities for redevelopment in older sections of the neighborhood.
+
+---
+
 # Castleridge
 # Southwood
 # Brentwood
