@@ -7008,6 +7008,99 @@ Woodlands is a well-established neighborhood in Calgary's southwest, known for i
 ---
 
 # Castleridge
+
+Castleridge is a family-oriented neighborhood in Calgary's northeast, known for its affordability and cultural diversity. Below is a comprehensive real estate investment outline:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Close to McKnight Village and Westwinds Corner for groceries, retail, and casual dining.
+  - Sunridge Mall and Marlborough Mall are a short drive away for more extensive shopping options.
+- **Recreation**:
+  - Prairie Winds Park offers extensive green space, playgrounds, pathways, and a splash park.
+  - Castleridge Community Centre hosts events and recreational programs.
+- **Education**:
+  - Schools such as O.S. Geiger School and Bishop McNally High School cater to the neighborhood.
+- **Healthcare**:
+  - Proximity to Peter Lougheed Centre and multiple local clinics.
+
+---
+
+## **2. Housing Age**
+- The majority of homes were built between the late 1970s and early 1990s, reflecting the suburban expansion of that era.
+
+---
+
+## **3. Common Building Types**
+- **Single-family detached homes**: The most common housing type, with a mix of bungalows and two-story homes.
+- **Semi-detached houses**: Moderate presence, often catering to smaller families or first-time buyers.
+- **Townhouses and apartments**: Limited but present in select areas.
+
+---
+
+## **4. Zoning Regulations**
+- Primarily R-C1 (single-family homes) and R-C2 (semi-detached homes), with pockets of R-CG and M-C1 zoning for rowhouses and low-rise apartments.
+- **Multi-unit potential**: Select zones allow for multi-family developments, and secondary suites are permitted under Calgary's guidelines.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,000 residents.
+- **Growth**: Stable, with slight increases driven by affordability and the demand for housing in Calgary’s northeast.
+
+---
+
+## **6. Average Income**
+- Median household income is approximately $60,000–$80,000, reflecting a working-class demographic.
+
+---
+
+## **7. Crime Rate**
+- Moderate crime rate, with incidents primarily related to property crime. Community initiatives are in place to enhance safety.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: High rental availability due to a mix of single-family homes with secondary suites and multi-family units.
+- **Demand**: Strong demand, driven by affordability and proximity to transit and employment hubs.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $1,600–$2,100/month.
+- **Townhouses**: $1,400–$1,800/month.
+- **Apartments**: $1,100–$1,500/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **C+ neighborhood**, characterized by affordability and cultural diversity, with room for improvement in infrastructure and amenities.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate appreciation potential due to affordability and consistent demand.
+- **Returns/Cashflow**: Strong cashflow opportunities, especially with rental properties and secondary suites.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $400,000–$500,000.
+- **Townhouses**: $300,000–$400,000.
+- **Condos**: $200,000–$300,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Leverage affordable property prices and steady rental demand.
+- **Affordable Rentals**: Cater to the working-class demographic with competitive rents.
+- **Secondary Suites**: Add or utilize legal secondary suites for additional rental income.
+- **Value-Add Properties**: Renovate older homes to attract higher rents or resale value.
+- **Multi-Family Development**: Explore opportunities in areas zoned for higher density.
+
+---
+
 # Southwood
 # Brentwood
 # Braeside
