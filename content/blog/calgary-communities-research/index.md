@@ -7102,6 +7102,99 @@ Castleridge is a family-oriented neighborhood in Calgary's northeast, known for 
 ---
 
 # Southwood
+
+Southwood is a mature and well-established neighborhood in Calgary's southwest, offering attractive investment opportunities due to its location and diverse amenities. Here's a comprehensive real estate investment outline:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Proximity to Southcentre Mall and Willow Park Village for shopping and dining.
+  - Local services and eateries along Macleod Trail.
+- **Recreation**:
+  - Southwood Community Association hosts recreational activities, events, and sports programs.
+  - Close to Fish Creek Provincial Park and Glenmore Reservoir for outdoor activities.
+- **Education**:
+  - Schools such as Southwood Elementary and Ethel M. Johnson School serve the community.
+- **Healthcare**:
+  - Access to South Health Campus and nearby medical clinics and pharmacies.
+
+---
+
+## **2. Housing Age**
+- Most homes were built in the 1960s and 1970s, reflecting a mix of mid-century suburban styles.
+
+---
+
+## **3. Common Building Types**
+- **Single-family detached homes**: The predominant housing type, often with spacious lots.
+- **Semi-detached houses**: Limited presence, catering to smaller families.
+- **Townhouses and apartments**: Present in some areas, adding diversity to housing options.
+
+---
+
+## **4. Zoning Regulations**
+- Primarily R-C1 (single-family homes) and R-C2 (semi-detached homes), with some areas allowing for R-CG (rowhouses) and M-C1 (low-rise multi-family).
+- **Multi-unit potential**: Opportunities for secondary suites and infill development in some sections of the neighborhood.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,200 residents.
+- **Growth**: Stable population, with modest increases due to infill development and modernization.
+
+---
+
+## **6. Average Income**
+- Median household income ranges from $75,000 to $95,000, representing a middle-income demographic.
+
+---
+
+## **7. Crime Rate**
+- Low to moderate crime rate, consistent with suburban Calgary neighborhoods, making it a safe area for families and retirees.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: Moderate rental inventory, including single-family homes and some multi-family units.
+- **Demand**: Steady, with interest from families and young professionals seeking proximity to amenities and transit.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $2,000–$2,500/month.
+- **Townhouses**: $1,600–$2,000/month.
+- **Apartments**: $1,300–$1,800/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **B neighborhood**, characterized by a blend of affordability, accessibility, and established infrastructure.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate appreciation due to its desirable location and mature community.
+- **Returns/Cashflow**: Balanced returns, with good rental yields for single-family and multi-family properties.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $500,000–$700,000.
+- **Townhouses**: $350,000–$450,000.
+- **Condos**: $250,000–$350,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Take advantage of stable rental demand and long-term appreciation.
+- **Value-Add Properties**: Renovate older homes to attract higher rents or resale value.
+- **Secondary Suites**: Add legal secondary suites in single-family homes to boost cashflow.
+- **Infill Development**: Redevelop older properties where zoning allows for higher-density housing.
+- **Family Rentals**: Cater to families with quality schools and parks nearby.
+
+---
+
 # Brentwood
 # Braeside
 # Abbeydale
