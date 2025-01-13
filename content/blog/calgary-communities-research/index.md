@@ -7196,6 +7196,100 @@ Southwood is a mature and well-established neighborhood in Calgary's southwest, 
 ---
 
 # Brentwood
+
+Brentwood is a highly sought-after neighborhood in Calgary's northwest, known for its excellent location, schools, and amenities. Here's a detailed real estate investment outline for Brentwood:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Close to Northland Village Mall, Market Mall, and Brentwood Village Shopping Centre for retail, dining, and services.
+  - Numerous restaurants and cafes, including popular spots in the University District.
+- **Recreation**:
+  - Proximity to Nose Hill Park for hiking, biking, and outdoor activities.
+  - The Brentwood Sportsplex offers skating and recreational programs.
+- **Education**:
+  - Top-rated schools, including Brentwood School and Sir Winston Churchill High School.
+  - Close to the University of Calgary and SAIT, increasing its appeal to students and faculty.
+- **Healthcare**:
+  - Near Foothills Medical Centre and Alberta Children’s Hospital.
+
+---
+
+## **2. Housing Age**
+- Most homes were built between the 1960s and 1970s, with a mix of well-maintained original homes and updated or redeveloped properties.
+
+---
+
+## **3. Common Building Types**
+- **Single-family detached homes**: Predominantly bungalows and two-story homes on spacious lots.
+- **Townhouses and apartments**: Limited but growing presence, especially near transit hubs and major roads.
+- **Infill developments**: Increasingly popular, with modern duplexes and multi-unit properties replacing older homes.
+
+---
+
+## **4. Zoning Regulations**
+- Primarily R-C1 (single-family homes) and R-C2 (semi-detached homes), with areas near transit and major roads zoned for R-CG and M-C1 (rowhouses and low-rise multi-family units).
+- **Multi-unit potential**: Significant opportunities for redevelopment and densification, especially near transit-oriented development areas.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,500 residents.
+- **Growth**: Stable with gradual increases due to infill developments and proximity to the University of Calgary.
+
+---
+
+## **6. Average Income**
+- Median household income ranges from $85,000 to $110,000, reflecting a mix of families, professionals, and students.
+
+---
+
+## **7. Crime Rate**
+- Low crime rate, making it one of Calgary’s safer and more family-friendly neighborhoods.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: Strong rental market, with options ranging from single-family homes to multi-family units.
+- **Demand**: High, driven by students, university staff, and families looking for a central location.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $2,000–$2,800/month.
+- **Townhouses**: $1,600–$2,200/month.
+- **Apartments**: $1,400–$2,000/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **A neighborhood**, known for its central location, top-tier schools, and proximity to parks and amenities.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: High potential due to its desirable location, redevelopment opportunities, and proximity to the University of Calgary.
+- **Returns/Cashflow**: Balanced, with opportunities for strong rental income and long-term value growth.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $650,000–$900,000+.
+- **Townhouses**: $400,000–$600,000.
+- **Condos**: $250,000–$450,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Leverage consistent rental demand from families and students.
+- **Student Rentals**: Cater to university students with shared accommodations or secondary suites.
+- **Infill Development**: Replace older homes with modern duplexes or multi-unit properties.
+- **Value-Add Properties**: Renovate older homes to increase rental income or resale value.
+- **Transit-Oriented Investments**: Focus on properties near the Brentwood C-Train Station for high rental appeal.
+
+---
+
 # Braeside
 # Abbeydale
 # Cougar Ridge
