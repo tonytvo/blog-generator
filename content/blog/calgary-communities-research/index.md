@@ -7291,6 +7291,100 @@ Brentwood is a highly sought-after neighborhood in Calgary's northwest, known fo
 ---
 
 # Braeside
+
+Braeside is a mature neighborhood in Calgary's southwest, offering affordability and proximity to amenities, making it a potential hotspot for real estate investments. Here’s a detailed breakdown:
+
+---
+
+## **1. Nearby Amenities and Attractions**
+- **Shopping & Dining**:
+  - Close to Southcentre Mall, Braeside Shopping Centre, and Willow Park Village.
+  - Numerous local cafes and restaurants, as well as grocery stores and essential services.
+- **Recreation**:
+  - Southland Leisure Centre offers swimming, skating, fitness, and other recreational activities.
+  - Proximity to Glenmore Reservoir and Fish Creek Provincial Park for outdoor adventures.
+  - Braeside Community Centre hosts community programs and events.
+- **Education**:
+  - Schools such as Braeside Elementary School and John Ware Junior High serve the area.
+- **Healthcare**:
+  - Nearby medical clinics, pharmacies, and South Health Campus Hospital.
+
+---
+
+## **2. Housing Age**
+- Homes in Braeside were predominantly built between the 1960s and 1980s, with many properties showcasing mid-century architectural styles.
+
+---
+
+## **3. Common Building Types**
+- **Single-family detached homes**: The dominant housing type, often with larger lots.
+- **Townhouses**: A significant presence, catering to first-time buyers and smaller families.
+- **Apartments**: Limited, mainly low-rise buildings.
+
+---
+
+## **4. Zoning Regulations**
+- Predominantly R-C1 (single-family homes) and R-C2 (semi-detached homes), with areas of R-CG (rowhouses) and M-C1 (low-rise multi-family housing).
+- **Multi-unit potential**: Moderate, with some opportunities for secondary suites or infill developments in select areas.
+
+---
+
+## **5. Population and Growth**
+- **Population**: Approximately 6,000 residents.
+- **Growth**: Stable, with some increase due to modernization and infill housing.
+
+---
+
+## **6. Average Income**
+- Median household income ranges from $75,000 to $95,000, reflecting a middle-income demographic.
+
+---
+
+## **7. Crime Rate**
+- Low to moderate crime rate, making it a safe and desirable neighborhood for families and retirees.
+
+---
+
+## **8. Rental Supply and Demand**
+- **Supply**: Moderate rental inventory, including single-family homes, townhouses, and a few apartments.
+- **Demand**: Steady, driven by families and young professionals seeking affordability and amenities.
+
+---
+
+## **9. Average Rents**
+- **Single-family homes**: $1,800–$2,400/month.
+- **Townhouses**: $1,500–$2,000/month.
+- **Apartments**: $1,200–$1,600/month.
+
+---
+
+## **10. Neighborhood Classification**
+- **B neighborhood**, known for affordability, accessibility, and family-friendly environment.
+
+---
+
+## **11. Long-term Potential**
+- **Appreciation**: Moderate, driven by demand for affordable housing and proximity to parks and schools.
+- **Returns/Cashflow**: Balanced, with opportunities for positive cashflow in rental properties.
+
+---
+
+## **12. Average House Prices**
+- **Detached homes**: $450,000–$600,000.
+- **Townhouses**: $300,000–$400,000.
+- **Condos**: $200,000–$300,000.
+
+---
+
+## **13. Real Estate Investment Strategies**
+- **Buy and Hold**: Take advantage of steady rental demand and long-term appreciation.
+- **Value-Add Properties**: Renovate older homes to increase market value or rental income.
+- **Family Rentals**: Focus on family-oriented properties near schools and parks.
+- **Secondary Suites**: Add legal suites in detached homes to maximize rental income.
+- **Infill Development**: Redevelop older homes into duplexes or rowhouses in areas with favorable zoning.
+
+---
+
 # Abbeydale
 # Cougar Ridge
 # Coral Springs
