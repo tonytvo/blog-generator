@@ -7628,6 +7628,99 @@ As of late 2024, the median home sold price in Cougar Ridge was approximately $8
  
 
 # Coral Springs
+
+## 1. Nearby Amenities & Attractions
+
+Coral Springs, located in Calgary's northeast quadrant, offers residents a variety of amenities and attractions:
+
+- **Recreational Facilities**:
+  - **Private Lake**: At the heart of the community lies a 16-acre private lake, exclusive to residents, offering activities such as swimming, fishing, boating, and skating during winter months. ([mycalgary.com](https://mycalgary.com/communities/calgary/ne/coral-springs/?utm_source=chatgpt.com))
+  - **Green Spaces & Pathways**: The neighborhood boasts ample green spaces and pathways, promoting outdoor activities and community engagement. ([calgarycommunities.com](https://calgarycommunities.com/communities/coral-springs-community-association/?utm_source=chatgpt.com))
+
+- **Community Services**:
+  - **Don Hartman Northeast Sportsplex**: Located nearby, this facility offers ice rinks, gymnasiums, and meeting rooms, catering to various sports and community events.
+
+- **Shopping & Dining**:
+  - **Sunridge Mall**: A short drive away, this mall provides a wide range of retail stores and dining options.
+  - **Local Shops**: Various local businesses and eateries are situated along 64 Avenue NE and McKnight Boulevard.
+
+- **Educational Institutions**:
+  - **Monsignor A.J. Hetherington School**: A Catholic elementary school located within the community.
+  - **Nearby Schools**: Additional public and separate schools are accessible in adjacent neighborhoods.
+
+## 2. Housing Construction Period
+
+Development in Coral Springs began in 1991, with most homes constructed throughout the 1990s and early 2000s. The architectural style reflects a Californian theme, contributing to the neighborhood's distinctive aesthetic. ([calgarycommunities.com](https://calgarycommunities.com/communities/coral-springs-community-association/?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood predominantly features:
+
+- **Single-Family Detached Homes**: The majority of residences are spacious, detached houses with modern designs.
+- **Semi-Detached Homes**: A selection of duplexes and semi-detached units are available, catering to diverse housing preferences.
+
+The community's design emphasizes low-density residential development, contributing to its suburban feel.
+
+## 4. Zoning Regulations
+
+Coral Springs is primarily zoned as **Residential – One Dwelling District (R-1)**, focusing on single-family homes. Some areas may have **Residential – One/Two Dwelling District (R-2)** zoning, permitting duplexes. The current zoning emphasizes low-density residential development, and any modifications to increase units per lot would require approval from the City of Calgary's planning department.
+
+## 5. Population & Growth
+
+According to the 2021 Census, Coral Springs has a population of approximately 5,610 residents. The community has experienced modest growth since its establishment, maintaining a stable population in recent years. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/coral-springs.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median household income in Coral Springs is around $121,000, which is higher than Calgary's median of $98,000. This indicates a relatively affluent community. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/coral-springs.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+Coral Springs is known for its low crime rate, contributing to its reputation as a safe and family-friendly neighborhood. The community association collaborates with local law enforcement to maintain safety and address any concerns. ([calgarycommunities.com](https://calgarycommunities.com/communities/coral-springs-community-association/?utm_source=chatgpt.com))
+
+## 8. Rental Supply & Demand
+
+The demand for rental properties in Coral Springs is moderate, driven by:
+
+- Families seeking a suburban environment with access to quality schools and recreational facilities.
+- Professionals desiring proximity to major roadways for commuting purposes.
+
+The rental supply primarily consists of single-family homes, with limited availability of multi-family units. Given the neighborhood's affluence and the predominance of owner-occupied properties, rental opportunities may be limited.
+
+## 9. Average Rents
+
+- **Single-Family Homes**: Approximately $2,500–$3,500 per month, depending on size and features.
+- **Semi-Detached Homes**: Approximately $2,000–$2,800 per month.
+
+These figures are estimates and can vary based on market conditions and property specifics.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Coral Springs is considered an **A- neighborhood**, characterized by:
+
+- High property values.
+- Low crime rates.
+- Excellent amenities and services.
+- Strong demand from homeowners and renters.
+
+This classification makes it attractive for long-term investment.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate to High. Coral Springs has seen consistent property value growth due to its desirable location and amenities.
+- **Current Returns and Cash Flow**: Moderate. While rental rates are substantial, the higher property prices may result in modest net rental yields.
+
+Investors should focus on long-term appreciation rather than immediate cash flow.
+
+## 12. Average House Prices
+
+As of late 2024, the median home sold price in Coral Springs was approximately $657,773. Over the past year, the median sold price was around $665,462. These values reflect the neighborhood's premium market status. ([mycalgary.com](https://mycalgary.com/real-estate/real-estate-activity/coral-springs-real-estate-statistics-update/?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for Coral Springs
+
+1. **Long-Term Buy and Hold**:
+   - Acquire single-family homes to benefit from property appreciation.
+   - Target high-income families or 
+
 # Renfrew
 # Mayland Heights
 # West Hillhurst
