@@ -7722,6 +7722,109 @@ As of late 2024, the median home sold price in Coral Springs was approximately $
    - Target high-income families or 
 
 # Renfrew
+
+## 1. Nearby Amenities & Attractions
+
+Renfrew, located in Calgary's northeast quadrant, offers residents a blend of urban conveniences and recreational facilities:
+
+- **Recreational Facilities**:
+  - **Renfrew Athletic Park**: Features sports fields, tennis courts, and playgrounds, catering to various athletic activities.
+  - **Renfrew Aquatic & Recreation Centre**: Offers swimming pools, fitness facilities, and community programs.
+
+- **Shopping & Dining**:
+  - **Bridgeland Market**: A local favorite offering fresh produce and specialty items.
+  - **Edmonton Trail & 16th Avenue**: Hosts a variety of restaurants, cafes, and boutique shops.
+
+- **Educational Institutions**:
+  - **Stanley Jones School**: A public elementary school within the community.
+  - **St. Alphonsus School**: A Catholic school offering education from kindergarten through grade 9.
+
+- **Transportation**:
+  - Proximity to major routes like **Deerfoot Trail** and **Trans-Canada Highway** facilitates easy access to other parts of the city.
+  - Accessible public transit options, including bus routes connecting to downtown and other key areas.
+
+## 2. Housing Construction Period
+
+Renfrew's development spans several decades:
+
+- **Early to Mid-20th Century**: Initial development with many wartime bungalows and mid-century homes.
+- **Recent Years**: Significant redevelopment with modern infills and contemporary condominiums, reflecting urban renewal trends.
+
+## 3. Common Building Types
+
+The neighborhood showcases a diverse architectural landscape:
+
+- **Single-Family Detached Homes**: A mix of original bungalows and new infill properties.
+- **Semi-Detached Homes**: Modern duplexes are increasingly common due to redevelopment.
+- **Townhouses and Condominiums**: Recent developments have introduced multi-family units, catering to various demographics.
+
+This variety accommodates a wide range of residents, from young professionals to families.
+
+## 4. Zoning Regulations
+
+Renfrew's zoning is diverse, reflecting its mixed-use character:
+
+- **Residential Contextual One/Two Dwelling (R-C2)**: Allows for single-family and duplex homes, promoting moderate density.
+- **Multi-Residential Contextual Low Profile (M-C1)**: Permits townhouses and low-rise apartments, supporting higher density developments.
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the latest data, Renfrew has a population of approximately 6,000 residents. The neighborhood has experienced steady growth, driven by its proximity to downtown and ongoing redevelopment projects.
+
+## 6. Average Income in the Area
+
+The median household income in Renfrew is around $75,000, aligning closely with Calgary's median. This reflects a diverse socioeconomic demographic within the community.
+
+## 7. Crime Rate
+
+Renfrew maintains a moderate crime rate, comparable to other inner-city neighborhoods. Common incidents include property-related crimes, but community initiatives and policing efforts are in place to enhance safety.
+
+## 8. Rental Supply & Demand
+
+The rental market in Renfrew is active, influenced by:
+
+- **Proximity to Downtown**: Attracts professionals seeking short commutes.
+- **Educational Institutions**: Nearby schools and training centers increase demand from students and staff.
+
+The supply includes a mix of older homes, renovated units, and new developments, catering to a broad tenant base.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,900 per month.
+- **Two-Bedroom Apartment**: Approximately $2,400 per month.
+- **Single-Family Home**: Ranges from $2,800 to $3,500 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Renfrew is considered a **B+ neighborhood**, characterized by:
+
+- **Proximity to Downtown**: Offers urban conveniences with a community feel.
+- **Diverse Housing Options**: Accommodates various demographics and income levels.
+- **Ongoing Redevelopment**: Enhances property values and community appeal.
+
+This classification indicates a stable investment environment with potential for appreciation.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate to High. Ongoing redevelopment and strategic location contribute to steady property value increases.
+- **Current Returns and Cash Flow**: Moderate. While rental demand is strong, property prices may result in modest net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of late 2024, the median home sold price in Renfrew was approximately $589,336. Over the past year, the median asking price was around $584,959, indicating a stable market with slight appreciation. ([mycalgary.com](https://mycalgary.com/real-estate/real-estate-activity/renfrew-real-estate-statistics-update/?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for Renfrew
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire properties to benefit from long-term appreciation and rental income.
+   
+
 # Mayland Heights
 # West Hillhurst
 # Oakridge
