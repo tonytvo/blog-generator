@@ -7826,6 +7826,97 @@ As of late 2024, the median home sold price in Renfrew was approximately $589,33
    
 
 # Mayland Heights
+
+## 1. Nearby Amenities & Attractions
+
+Mayland Heights, situated in Calgary's northeast quadrant, offers residents a variety of amenities and attractions:
+
+- **Recreational Facilities**:
+  - **Tom Campbell's Hill Natural Park**: A nearby 18-acre park offering trails and scenic views of the city.
+  - **Deerfoot Athletic Park**: Provides sports fields and recreational spaces for various activities.
+
+- **Shopping & Dining**:
+  - **Local Retail**: The neighborhood features local businesses, including grocery stores, restaurants, and essential services.
+  - **Proximity to Downtown**: A short drive provides access to a broader range of shopping and dining options in Calgary's core.
+
+- **Educational Institutions**:
+  - **Mayland Heights School**: A public elementary school serving the community.
+  - **Nearby Schools**: Additional educational facilities are accessible in adjacent neighborhoods.
+
+- **Transportation**:
+  - **Major Roadways**: Bounded by Barlow Trail to the east, Memorial Drive to the south, Deerfoot Trail to the west, and the Trans-Canada Highway to the north, facilitating convenient travel.
+  - **Public Transit**: Accessible bus routes connect residents to various parts of the city.
+
+## 2. Housing Construction Period
+
+Development in Mayland Heights began in the 1960s, with many homes constructed during that decade. The area features a mix of original mid-century homes and newer developments from subsequent years. ([creb.com](https://www.creb.com/News/CREBNow/2021/March/under_the_radar_mayland_heights/?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood offers a diverse range of housing options:
+
+- **Single-Family Detached Homes**: A significant portion of the housing stock consists of detached houses, many with mid-century designs.
+- **Semi-Detached Homes and Duplexes**: These provide options for those seeking more affordable or multi-family living arrangements.
+- **Apartments and Condominiums**: Approximately 27% of the buildings are condominiums or apartments, catering to various housing preferences. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Mayland_Heights%2C_Calgary?utm_source=chatgpt.com))
+
+## 4. Zoning Regulations
+
+Mayland Heights features a mix of zoning designations:
+
+- **Residential Contextual One Dwelling (R-C1)**: Allows for single-family detached homes.
+- **Residential Contextual One/Two Dwelling (R-C2)**: Permits single-family homes and duplexes, enabling higher density on certain lots.
+- **Multi-Residential Contextual Low Profile (M-C1)**: Allows for townhouses and low-rise apartments, supporting increased density in designated areas.
+
+These zoning regulations provide flexibility for various residential developments, including the potential for multiple units per lot in specific zones.
+
+## 5. Population & Growth
+
+As of the 2021 Census, Mayland Heights had a population of approximately 5,925 residents. The community has experienced modest growth, with a 9% increase from its 2011 population. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/mayland-heights.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median household income in Mayland Heights is around $73,500, which is below Calgary's median of $98,000. This suggests a mixed-income community with diverse economic demographics. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/mayland-heights.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+Mayland Heights is considered a safe community, with crime rates comparable to Calgary's average. The neighborhood's active community association collaborates with local law enforcement to maintain safety and address residents' concerns.
+
+## 8. Rental Supply & Demand
+
+The rental market in Mayland Heights is active, influenced by:
+
+- **Proximity to Downtown**: Attracts professionals seeking convenient access to the city center.
+- **Diverse Housing Options**: The variety of housing types appeals to a broad tenant base, including families, young professionals, and retirees.
+
+Approximately 49% of the housing is used for renting, indicating a substantial rental market within the community. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Mayland_Heights%2C_Calgary?utm_source=chatgpt.com))
+
+## 9. Average Rents
+
+Rental rates in Mayland Heights vary based on property type and size:
+
+- **One-Bedroom Apartment**: Approximately $1,200–$1,400 per month.
+- **Two-Bedroom Apartment**: Approximately $1,400–$1,600 per month.
+- **Single-Family Home**: Ranges from $2,000 to $2,500 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and current market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Mayland Heights is considered a **B neighborhood**, characterized by:
+
+- **Proximity to Downtown**: Offers urban conveniences with a suburban feel.
+- **Diverse Housing Stock**: Accommodates various demographics and income levels.
+- **Stable Community**: Maintains a balance between homeowners and renters, contributing to neighborhood stability.
+
+This classification indicates a solid investment environment with potential for appreciation.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate. The neighborhood's proximity to major roadways and downtown Calgary supports steady property value growth.
+- **Current Returns and Cash Flow**: Moderate. The active rental market provides opportunities for consistent rental income, though returns may vary based on property type and management.
+
+Investors should balance expectations of appreciation with realistic cash flow projections, considering the neighborhood's mixed-income 
+
 # West Hillhurst
 # Oakridge
 # Bridgeland/Riverside
