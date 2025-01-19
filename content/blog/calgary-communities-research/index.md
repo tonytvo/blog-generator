@@ -7918,6 +7918,109 @@ This classification indicates a solid investment environment with potential for 
 Investors should balance expectations of appreciation with realistic cash flow projections, considering the neighborhood's mixed-income 
 
 # West Hillhurst
+
+## 1. Nearby Amenities & Attractions
+
+West Hillhurst, located in Calgary's northwest quadrant, offers residents a blend of urban conveniences and recreational facilities:
+
+- **Recreational Facilities**:
+  - **Bow River Pathway**: Provides extensive trails for walking, cycling, and running along the scenic Bow River.
+  - **West Hillhurst Community Association**: Offers amenities such as tennis courts, ice rinks, and fitness programs.
+
+- **Shopping & Dining**:
+  - **Kensington Village**: A nearby vibrant district featuring a variety of boutiques, cafes, and restaurants.
+  - **North Hill Centre**: A shopping mall offering a range of retail stores and services.
+
+- **Educational Institutions**:
+  - **Queen Elizabeth School**: A public school serving grades K-12 within the community.
+  - **University of Calgary**: Located a short distance away, providing higher education opportunities.
+
+- **Transportation**:
+  - **Major Roadways**: Proximity to Crowchild Trail and Memorial Drive facilitates convenient access to other parts of the city.
+  - **Public Transit**: Accessible bus routes and nearby C-Train stations connect residents to various city areas.
+
+## 2. Housing Construction Period
+
+West Hillhurst's development spans several decades:
+
+- **Post-World War II Era**: Initial development with many wartime bungalows constructed in the late 1940s and 1950s.
+- **Recent Years**: Significant redevelopment with modern infills and contemporary condominiums, reflecting urban renewal trends.
+
+## 3. Common Building Types
+
+The neighborhood showcases a diverse architectural landscape:
+
+- **Single-Family Detached Homes**: A mix of original bungalows and new infill properties.
+- **Semi-Detached Homes**: Modern duplexes are increasingly common due to redevelopment.
+- **Townhouses and Condominiums**: Recent developments have introduced multi-family units, catering to various demographics.
+
+This variety accommodates a wide range of residents, from young professionals to families.
+
+## 4. Zoning Regulations
+
+West Hillhurst's zoning is diverse, reflecting its mixed-use character:
+
+- **Residential Contextual One/Two Dwelling (R-C2)**: Allows for single-family and duplex homes, promoting moderate density.
+- **Multi-Residential Contextual Low Profile (M-C1)**: Permits townhouses and low-rise apartments, supporting higher density developments.
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the latest data, West Hillhurst has a population of approximately 6,500 residents. The neighborhood has experienced steady growth, driven by its proximity to downtown and ongoing redevelopment projects.
+
+## 6. Average Income in the Area
+
+The median household income in West Hillhurst is around $100,000, which is higher than Calgary's median, indicating a relatively affluent community.
+
+## 7. Crime Rate
+
+West Hillhurst maintains a moderate crime rate, comparable to other inner-city neighborhoods. Common incidents include property-related crimes, but community initiatives and policing efforts are in place to enhance safety.
+
+## 8. Rental Supply & Demand
+
+The rental market in West Hillhurst is active, influenced by:
+
+- **Proximity to Downtown**: Attracts professionals seeking short commutes.
+- **Educational Institutions**: Nearby schools and the University of Calgary increase demand from students and staff.
+
+The supply includes a mix of older homes, renovated units, and new developments, catering to a broad tenant base.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,900 per month.
+- **Two-Bedroom Apartment**: Approximately $2,400 per month.
+- **Single-Family Home**: Ranges from $2,800 to $3,500 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+West Hillhurst is considered an **A- neighborhood**, characterized by:
+
+- **Proximity to Downtown**: Offers urban conveniences with a community feel.
+- **Diverse Housing Options**: Accommodates various demographics and income levels.
+- **Ongoing Redevelopment**: Enhances property values and community appeal.
+
+This classification indicates a stable investment environment with potential for appreciation.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate to High. Ongoing redevelopment and strategic location contribute to steady property value increases.
+- **Current Returns and Cash Flow**: Moderate. While rental demand is strong, property prices may result in modest net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of late 2024, the median home sold price in West Hillhurst was approximately $912,727. Over the past year, the median asking price was around $914,145, indicating a stable market with slight appreciation. ([mycalgary.com](https://mycalgary.com/real-estate/real-estate-activity/west-hillhurst-real-estate-statistics-update/?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for West Hillhurst
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire properties to benefit from long-term appreciation and rental income.
+   - 
+
 # Oakridge
 # Bridgeland/Riverside
 # Lakeview
