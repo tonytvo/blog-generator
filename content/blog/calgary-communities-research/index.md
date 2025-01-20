@@ -8022,6 +8022,106 @@ As of late 2024, the median home sold price in West Hillhurst was approximately 
    - 
 
 # Oakridge
+
+## 1. Nearby Amenities & Attractions
+
+Oakridge, located in Calgary's southwest quadrant, offers residents a variety of amenities and attractions:
+
+- **Recreational Facilities**:
+  - **South Glenmore Park**: Provides access to the Glenmore Reservoir, offering sailing, canoeing, and scenic pathways for walking and cycling.
+  - **Weaselhead Natural Area**: A natural reserve adjacent to the community, featuring trails and wildlife viewing opportunities.
+
+- **Shopping & Dining**:
+  - **Oakridge Co-op Shopping Plaza**: Offers grocery stores, restaurants, and essential services for daily needs.
+  - **Southcentre Mall**: A short drive away, providing a wide range of retail stores and dining options.
+
+- **Educational Institutions**:
+  - **Louis Riel School**: A public school offering the Science Program and the Gifted and Talented Education (GATE) Program.
+  - **St. Cyril School**: A Catholic school serving the community.
+
+- **Transportation**:
+  - **Major Roadways**: Proximity to Southland Drive and 14th Street SW facilitates convenient access to other parts of the city.
+  - **Public Transit**: Accessible bus routes connect residents to various city areas.
+
+## 2. Housing Construction Period
+
+Development in Oakridge began in the late 1960s and continued through the 1970s. The neighborhood features a mix of original homes from this era and renovated properties reflecting modern updates.
+
+## 3. Common Building Types
+
+The neighborhood offers a diverse range of housing options:
+
+- **Single-Family Detached Homes**: Predominantly bungalows and two-story homes with spacious lots.
+- **Townhouses and Condominiums**: Various multi-family units cater to different housing preferences.
+
+This variety accommodates a wide range of residents, from young professionals to families and retirees.
+
+## 4. Zoning Regulations
+
+Oakridge's zoning is primarily residential, with designations such as:
+
+- **Residential – Contextual One Dwelling (R-C1)**: Allows for single-family detached homes.
+- **Residential – Contextual One/Two Dwelling (R-C2)**: Permits single-family and duplex homes, promoting moderate density.
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the 2021 Census, Oakridge has a population of approximately 5,620 residents. The neighborhood has experienced stable population levels, with a slight decline of 1% from its 2011 population. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/oakridge.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median household income in Oakridge is around $112,000, which is higher than Calgary's median of $98,000, indicating a relatively affluent community. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/oakridge.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+Oakridge maintains a low crime rate, contributing to its reputation as a safe and family-friendly neighborhood. The community association collaborates with local law enforcement to maintain safety and address any concerns.
+
+## 8. Rental Supply & Demand
+
+The rental market in Oakridge is active, influenced by:
+
+- **Proximity to Recreational Areas**: Attracts individuals and families seeking access to parks and outdoor activities.
+- **Quality Schools**: Appeals to families prioritizing education.
+
+The supply includes a mix of single-family homes, townhouses, and apartments, catering to a broad tenant base.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,500 per month.
+- **Two-Bedroom Apartment**: Approximately $1,800 per month.
+- **Single-Family Home**: Ranges from $2,500 to $3,500 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Oakridge is considered a **B+ neighborhood**, characterized by:
+
+- **Proximity to Recreational Areas**: Offers access to parks and outdoor activities.
+- **Diverse Housing Options**: Accommodates various demographics and income levels.
+- **Stable Property Values**: Reflects a well-established community.
+
+This classification indicates a stable investment environment with potential for appreciation.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate. The neighborhood's established nature and desirable location contribute to steady property value increases.
+- **Current Returns and Cash Flow**: Moderate. While rental demand is stable, property prices may result in modest net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of late 2024, the median home sold price in Oakridge was approximately $562,625. Over the past year, the median asking price was around $555,186, indicating a stable market with slight appreciation. ([mycalgary.com](https://mycalgary.com/real-estate/real-estate-activity/oakridge-real-estate-statistics-update/?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for Oakridge
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire properties to benefit from long-term appreciation and rental income.
+   - **Property Types**: Single-family homes and townhouses.
+   - **Target 
+
 # Bridgeland/Riverside
 # Lakeview
 # Deer Run
