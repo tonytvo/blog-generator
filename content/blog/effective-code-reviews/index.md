@@ -5,6 +5,16 @@ description: "Looks Good to Me by Adrienne Braganza"
 tags: ["codereviews", "softwaredevelopment", "communication"]
 ---
 
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
+
 # **Code Review Foundations**
 
 ## **Building Your Team’s First Code Review Process**
