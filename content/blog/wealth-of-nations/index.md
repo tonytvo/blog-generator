@@ -5,6 +5,16 @@ description: "Wealth Of Nations by Adam Smith summary"
 tags: ["investing", "valueinvesting", "economics"]
 ---
 
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
+
 # key takeaways
 
 - debunk economic fallacies that arise when people focus only on the immediate effects of policies on one group while ignoring longer-term consequences on all groups.
