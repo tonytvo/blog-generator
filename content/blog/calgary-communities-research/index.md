@@ -8330,6 +8330,105 @@ As of late 2024, the average house price in Lakeview is approximately $1,193,494
    - **Strategy**: Purchase older homes in need of updates 
 
 # Deer Run
+
+## 1. Nearby Amenities & Attractions
+
+Deer Run, located in Calgary's southeast quadrant, offers residents a variety of amenities and attractions:
+
+- **Recreational Facilities**:
+  - **Fish Creek Provincial Park**: Enveloping the community to the east and south, this expansive park provides extensive trails, picnic areas, and natural landscapes for outdoor enthusiasts.
+  - **Bow River Access**: The neighborhood's proximity to the Bow River offers opportunities for fishing, kayaking, and scenic views.
+
+- **Shopping & Dining**:
+  - **Deer Valley Market Place**: Located nearby, this shopping center offers grocery stores, restaurants, and essential services for daily needs.
+  - **Southcentre Mall**: A short drive away, providing a wide range of retail stores and dining options.
+
+- **Educational Institutions**:
+  - **Deer Run School**: A public elementary school serving the community.
+  - **Wilma Hansen School**: A public junior high school located in the adjacent community of Queensland.
+
+- **Transportation**:
+  - **Major Roadways**: Proximity to Bow Bottom Trail and Deerfoot Trail facilitates convenient access to other parts of the city.
+  - **Public Transit**: Accessible bus routes connect residents to various city areas.
+
+## 2. Housing Construction Period
+
+Development in Deer Run began in the late 1970s, with the neighborhood being established in 1978. The area features homes primarily built during this period, reflecting the architectural styles of that era. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Deer_Run%2C_Calgary?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood offers a range of housing options:
+
+- **Single-Family Detached Homes**: Predominantly bungalows and two-story homes with spacious lots.
+- **Townhouses**: Various multi-family units cater to different housing preferences.
+
+This variety accommodates a wide range of residents, from young professionals to families and retirees.
+
+## 4. Zoning Regulations
+
+Deer Run's zoning is primarily residential, with designations such as:
+
+- **Residential – Contextual One Dwelling (R-C1)**: Allows for single-family detached homes.
+- **Residential – Contextual One/Two Dwelling (R-C2)**: Permits single-family and duplex homes, promoting moderate density.
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the 2021 Census, Deer Run has a population of approximately 4,910 residents. The neighborhood has experienced stable population levels, with a slight decline from previous years. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/deer-run.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median total household income in Deer Run is $102,000, which is higher than Calgary's median of $98,000, indicating a relatively affluent community. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/deer-run.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+Deer Run maintains a moderate crime rate, comparable to other Calgary neighborhoods. The community is considered safe, with active neighborhood watch programs and community engagement contributing to overall security. ([areavibes.com](https://www.areavibes.com/calgary-ab/deer%2Brun/?utm_source=chatgpt.com))
+
+## 8. Rental Supply & Demand
+
+The rental market in Deer Run is stable, influenced by:
+
+- **Proximity to Natural Amenities**: Attracts individuals and families seeking a balance between urban living and access to green spaces.
+- **Educational Institutions**: Nearby schools increase demand from families prioritizing education.
+
+The supply includes a mix of older homes and renovated units, catering to a broad tenant base.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,500 per month.
+- **Two-Bedroom Apartment**: Approximately $1,800 per month.
+- **Single-Family Home**: Ranges from $2,500 to $3,500 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Deer Run is considered a **B neighborhood**, characterized by:
+
+- **Proximity to Natural Amenities**: Offers residents access to parks and recreational facilities.
+- **Stable Housing Market**: Demonstrates consistent property values and demand.
+- **Community Engagement**: Active participation in local events and initiatives.
+
+This classification indicates a stable investment environment with potential for appreciation.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate. The neighborhood's desirable location and amenities contribute to steady property value increases.
+- **Current Returns and Cash Flow**: Moderate. While rental demand is stable, property prices may result in modest net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of late 2024, the average house price in Deer Run is approximately $540,490. Over the past year, the neighborhood has seen an 8.5% increase in average sold price, indicating a strong appreciation trend. ([zolo.ca](https://www.zolo.ca/calgary-real-estate/deer-run/trends?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for Deer Run
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire properties to benefit from long-term appreciation and rental income.
+   - **Consideration** 
+
 # Aspen Woods
 # Willow Park
 # Bankview
