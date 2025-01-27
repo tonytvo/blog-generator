@@ -8530,6 +8530,104 @@ As of late 2024, the average house price in Aspen Woods is approximately $1,257,
    - **Consideration**: Focus on well 
 
 # Willow Park
+
+## 1. Nearby Amenities & Attractions
+
+Willow Park, situated in Calgary's southeast quadrant, offers residents a blend of recreational, educational, and commercial amenities:
+
+- **Recreational Facilities**:
+  - **Willow Park Golf & Country Club**: A private 18-hole golf course providing exclusive recreational opportunities.
+  - **Trico Centre for Family Wellness**: Located on the southern border, this facility includes a swimming pool, gym, and various fitness programs.
+
+- **Shopping & Dining**:
+  - **Southcentre Mall**: A major shopping destination featuring a wide range of retail outlets and dining options.
+  - **Willow Park Village**: Known for its boutique retailers and specialty stores along Macleod Trail.
+
+- **Educational Institutions**:
+  - **Willow Park School**: A public middle school offering arts-centered learning programs.
+  - **Maple Ridge School**: A public elementary school serving younger students in the community.
+
+- **Transportation**:
+  - **Major Roadways**: Bounded by Macleod Trail to the west and Anderson Road to the south, facilitating convenient access to other parts of the city.
+  - **Public Transit**: Proximity to the Anderson C-Train Station and accessible bus routes connect residents to various city areas.
+
+## 2. Housing Construction Period
+
+Development in Willow Park began in the mid-1960s, with the neighborhood being officially established in 1965. The area features homes primarily built during this period, reflecting the architectural styles of that era. ([teamhripko.ca](https://teamhripko.ca/calgary-neighbourhoods/south/willow-park/?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood offers a range of housing options:
+
+- **Single-Family Detached Homes**: Predominantly bungalows, two-story homes, and split-level designs with spacious lots and mature landscaping.
+- **Townhouses**: Various multi-family units cater to different housing preferences.
+
+This variety accommodates a wide range of residents, from young professionals to families and retirees.
+
+## 4. Zoning Regulations
+
+Willow Park's zoning is primarily residential, with designations such as:
+
+- **Residential – Contextual One Dwelling (R-C1)**: Allows for single-family detached homes.
+- **Residential – Contextual One/Two Dwelling (R-C2)**: Permits single-family and duplex homes, promoting moderate density.
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the 2021 Census, Willow Park has a population of approximately 5,090 residents. The neighborhood has experienced stable population levels, with a slight decline from previous years. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/willow-park.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median total household income in Willow Park is $108,000, which is higher than Calgary's median of $98,000, indicating a relatively affluent community. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/willow-park.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+Willow Park maintains a low crime rate compared to other Calgary neighborhoods. The community is considered safe, with active neighborhood watch programs and community engagement contributing to overall security. ([areavibes.com](https://www.areavibes.com/calgary-ab/willow%2Bpark/?utm_source=chatgpt.com))
+
+## 8. Rental Supply & Demand
+
+The rental market in Willow Park is stable, influenced by:
+
+- **Proximity to Educational Institutions**: Attracts families seeking quality education for their children.
+- **Access to Amenities**: The neighborhood's shopping centers and recreational facilities appeal to a broad tenant base.
+
+The supply includes a mix of older homes, renovated units, and newer developments, catering to a broad tenant base.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,500 per month.
+- **Two-Bedroom Apartment**: Approximately $1,800 per month.
+- **Single-Family Home**: Ranges from $2,500 to $3,500 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Willow Park is considered an **A- neighborhood**, characterized by:
+
+- **Proximity to Amenities**: Offers residents access to shopping centers, recreational facilities, and educational institutions.
+- **Stable Housing Market**: Demonstrates consistent property values and demand.
+- **Community Engagement**: Active participation in local events and initiatives.
+
+This classification indicates a stable investment environment with potential for appreciation.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate. The neighborhood's desirable location and amenities contribute to steady property value increases.
+- **Current Returns and Cash Flow**: Moderate. While rental demand is stable, property prices may result in modest net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of late 2024, the average house price in Willow Park is approximately $1,094,045. Over the past year, the neighborhood has seen a 110.1% increase in average sold price, indicating a strong appreciation trend. ([zolo.ca](https://www.zolo.ca/calgary-real-estate/willow-park/trends?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for Willow Park
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire properties 
+
 # Bankview
 # Silverado
 # MacEwan Glen
