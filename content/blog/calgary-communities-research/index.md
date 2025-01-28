@@ -8629,6 +8629,106 @@ As of late 2024, the average house price in Willow Park is approximately $1,094,
    - **Strategy**: Acquire properties 
 
 # Bankview
+
+## 1. Nearby Amenities & Attractions
+
+Bankview, located in Calgary's southwest quadrant, offers residents a blend of urban conveniences and recreational opportunities:
+
+- **Recreational Facilities**:
+  - **Parks and Green Spaces**: The neighborhood features several parks and green spaces, providing residents with areas for leisure and outdoor activities. ([teamhripko.ca](https://teamhripko.ca/calgary-neighbourhoods/city-centre/bankview/?utm_source=chatgpt.com))
+
+- **Shopping & Dining**:
+  - **17th Avenue SW**: A vibrant commercial corridor adjacent to Bankview, offering a variety of restaurants, boutiques, and entertainment venues. ([teamhripko.ca](https://teamhripko.ca/calgary-neighbourhoods/city-centre/bankview/?utm_source=chatgpt.com))
+
+- **Proximity to Marda Loop**:
+  - A short distance away, Marda Loop is a popular shopping and dining district, enhancing the neighborhood's appeal. ([teamhripko.ca](https://teamhripko.ca/calgary-neighbourhoods/city-centre/bankview/?utm_source=chatgpt.com))
+
+## 2. Housing Construction Period
+
+Bankview is one of Calgary's oldest communities, established in 1908. The neighborhood has seen various phases of development, with a mix of historical homes and modern infill developments. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Bankview%2C_Calgary?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood offers a diverse range of housing options:
+
+- **Multi-Family Dwellings**: A significant portion of the housing stock consists of condominiums and apartments, catering to a variety of residents. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/bankview.pdf?utm_source=chatgpt.com))
+
+- **Single-Family Homes**: There are also single-family homes, including both historical residences and newer infill properties.
+
+This variety accommodates a wide range of residents, from young professionals to families and retirees.
+
+## 4. Zoning Regulations
+
+Bankview's zoning is primarily residential, with designations that allow for both single-family and multi-family dwellings. The neighborhood has an area redevelopment plan in place to guide future development and maintain community character. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Bankview%2C_Calgary?utm_source=chatgpt.com))
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the 2021 Census, Bankview has a population of approximately 5,125 residents. The neighborhood has experienced stable population levels, with a slight decline from previous years. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/bankview.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median total household income in Bankview is $57,600, which is lower than Calgary's median of $98,000, indicating a diverse socioeconomic demographic. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/bankview.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+Bankview's crime rates are 23% higher than the Calgary average, with a total crime rate of 5,182 per 100,000 people. This is 23% higher than the national average, indicating a moderate level of crime in the area. ([areavibes.com](https://www.areavibes.com/calgary-ab/bankview/?utm_source=chatgpt.com))
+
+## 8. Rental Supply & Demand
+
+The rental market in Bankview is active, influenced by:
+
+- **Proximity to Downtown**: Attracts professionals seeking convenient access to the city center.
+
+- **Diverse Housing Options**: The variety of apartments and condominiums appeals to a broad tenant base.
+
+The supply includes a mix of older and newer units, catering to different preferences and budgets.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,200 per month.
+
+- **Two-Bedroom Apartment**: Approximately $1,500 per month.
+
+- **Single-Family Home**: Ranges from $2,000 to $3,000 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Bankview is considered a **B neighborhood**, characterized by:
+
+- **Urban Amenities**: Access to shopping, dining, and entertainment options.
+
+- **Diverse Housing Stock**: A mix of housing types and price points.
+
+- **Moderate Crime Rates**: Slightly higher than city averages.
+
+This classification indicates a stable investment environment with potential for growth.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate. The neighborhood's central location and ongoing development contribute to steady property value increases.
+
+- **Current Returns and Cash Flow**: Moderate. Rental demand is stable, and property prices allow for reasonable net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of late 2024, the average house price in Bankview is approximately $506,068. Over the past year, the neighborhood has seen a 19.4% increase in average sold price, indicating a strong appreciation trend. ([zolo.ca](https://www.zolo.ca/calgary-real-estate/bankview/trends?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for Bankview
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire properties to benefit from long-term appreciation and rental income.
+   - **Consideration**: Focus on well-maintained multi-family units or condominiums that appeal to professionals seeking proximity to downtown.
+
+2. **Renovation and Resale (Flipping)**:
+   - **Strategy**: Purchase older homes or units in need of updates, renovate them, and sell at a higher price.
+   - **Consideration**: Target properties with outdated interiors in desirable locations within the neighborhood 
+
 # Silverado
 # MacEwan Glen
 # Valley Ridge
