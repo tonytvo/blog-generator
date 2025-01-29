@@ -8730,6 +8730,102 @@ As of late 2024, the average house price in Bankview is approximately $506,068. 
    - **Consideration**: Target properties with outdated interiors in desirable locations within the neighborhood 
 
 # Silverado
+
+## 1. Nearby Amenities & Attractions
+
+Silverado, located in Calgary's southwest quadrant, offers residents a blend of recreational, educational, and commercial amenities:
+
+- **Recreational Facilities**:
+  - **Spruce Meadows**: An internationally recognized equestrian facility adjacent to Silverado, hosting world-class show jumping events and other activities.
+  - **Fish Creek Provincial Park**: One of Canada's largest urban parks is nearby, offering extensive trails, picnic areas, and natural landscapes for outdoor enthusiasts.
+
+- **Shopping & Dining**:
+  - **Shawnessy Shopping Centre**: A short drive away, this center provides a variety of retail stores, restaurants, and essential services.
+  - **Local Amenities**: Within Silverado, there are convenience stores, cafes, and other services catering to daily needs.
+
+- **Educational Institutions**:
+  - **Ron Southern School**: A public elementary school serving students from kindergarten to grade six.
+  - **Nearby Schools**: Additional schools in adjacent communities offer educational options for various age groups.
+
+- **Transportation**:
+  - **Major Roadways**: Proximity to Macleod Trail and Stoney Trail facilitates convenient access to other parts of the city.
+  - **Public Transit**: Accessible bus routes connect residents to various city areas, and the Somerset-Bridlewood LRT station is a short drive away.
+
+## 2. Housing Construction Period
+
+Development in Silverado began in 2005, with the neighborhood now nearing completion. The area features homes primarily built during this period, reflecting modern architectural styles. ([creb.com](https://www.creb.com/News/CREBNow/2021/March/community_profile_silverado/?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood offers a range of housing options:
+
+- **Single-Family Detached Homes**: Predominantly two-story and bungalow-style homes with contemporary designs.
+- **Townhouses**: Various multi-family units cater to different housing preferences.
+- **Apartment-Style Condominiums**: Providing options for individuals seeking lower-maintenance living.
+
+This variety accommodates a wide range of residents, from young professionals to families and retirees.
+
+## 4. Zoning Regulations
+
+Silverado's zoning is primarily residential, with designations such as:
+
+- **Residential – One Dwelling (R-1)**: Allows for single-family detached homes.
+- **Residential – One/Two Dwelling (R-2)**: Permits single-family and duplex homes, promoting moderate density.
+- **Multi-Residential – Low Profile (M-1)**: Allows for multi-family developments, including townhouses and low-rise apartments.
+
+These zoning regulations facilitate a variety of housing options, enabling the development of multiple units per lot in designated areas.
+
+## 5. Population & Growth
+
+As of the 2019 census, Silverado had a population of approximately 7,400 residents. Given ongoing development and the neighborhood's appeal, it is likely that the population has experienced growth since then. ([creb.com](https://www.creb.com/News/CREBNow/2021/March/community_profile_silverado/?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+Specific data on the average income in Silverado is not readily available. However, considering the housing types and amenities, it is reasonable to infer that the area attracts middle to upper-middle-income households.
+
+## 7. Crime Rate
+
+Silverado is considered a safe community with crime rates comparable to other Calgary neighborhoods. Active community engagement and neighborhood watch programs contribute to overall security.
+
+## 8. Rental Supply & Demand
+
+The rental market in Silverado is stable, influenced by:
+
+- **Proximity to Recreational Facilities**: Attracts individuals and families seeking access to outdoor activities.
+- **Modern Housing Stock**: The availability of newer homes appeals to renters looking for contemporary living spaces.
+
+The supply includes a mix of single-family homes, townhouses, and apartments, catering to various tenant preferences.
+
+## 9. Average Rents
+
+- **One-Bedroom Apartment**: Approximately $1,300 per month.
+- **Two-Bedroom Apartment**: Approximately $1,600 per month.
+- **Single-Family Home**: Ranges from $2,200 to $2,800 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+Silverado is considered a **B+ neighborhood**, characterized by:
+
+- **Modern Amenities**: Access to shopping centers, recreational facilities, and quality schools.
+- **Diverse Housing Stock**: A mix of housing types and price points.
+- **Moderate Crime Rates**: Comparable to city averages.
+
+This classification indicates a stable investment environment with potential for growth.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate to High. The neighborhood's ongoing development and modern housing stock contribute to potential property value increases.
+- **Current Returns and Cash Flow**: Moderate. Rental demand is stable, and property prices allow for reasonable net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of January 2025, the average house price in Silverado is approximately $635,181. Over the past year, the neighborhood has seen a 33.8% increase in average sold price, indicating a strong appreciation trend. ([zolo.ca](https://www.zolo.ca/calgary-real-estate/silverado/trends?utm_source=chatgpt.com)) 
+
+
 # MacEwan Glen
 # Valley Ridge
 # Kincora
