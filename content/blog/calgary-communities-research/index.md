@@ -8827,6 +8827,100 @@ As of January 2025, the average house price in Silverado is approximately $635,1
 
 
 # MacEwan Glen
+
+## 1. Nearby Amenities & Attractions
+
+MacEwan Glen, located in northwest Calgary, offers residents a variety of amenities and attractions:
+
+- **Recreational Facilities**:
+  - **Nose Hill Park**: Directly adjacent to the community, this expansive natural reserve provides extensive trails, wildlife viewing, and panoramic city views.
+
+- **Shopping & Dining**:
+  - **Beddington Towne Centre**: A short drive away, offering a range of retail stores, restaurants, and essential services.
+  - **Country Hills Village Shopping Centre**: Provides additional shopping and dining options for residents.
+
+- **Educational Institutions**:
+  - **Monsignor N. Anderson Elementary School**: Serving the community's younger students.
+  - **Simons Valley Elementary School**: Another option for elementary education in the vicinity.
+  - **Sir John A. Macdonald School**: A junior high school accessible to residents.
+  - **Queen Elizabeth High School**: Serving high school students from the area.
+
+- **Transportation**:
+  - **Major Roadways**: Bounded by Country Hills Boulevard to the north, 14 Street NW to the east, and Shaganappi Trail to the west, facilitating convenient access to other parts of the city.
+  - **Public Transit**: Calgary Transit bus routes service the area, connecting residents to the broader transit network.
+
+## 2. Housing Construction Period
+
+Development in MacEwan Glen began in 1978 and continued through the late 1990s, resulting in a mix of architectural styles from these decades. ([en.wikipedia.org](https://en.wikipedia.org/wiki/MacEwan_Glen?utm_source=chatgpt.com))
+
+## 3. Common Building Types
+
+The neighborhood predominantly features low-density residential housing:
+
+- **Single-Family Detached Homes**: Including bungalows, two-story, and split-level designs.
+- **Limited Multi-Family Units**: A few condominiums and townhouses are present but are less common.
+
+This composition creates a suburban atmosphere appealing to families and individuals seeking spacious living.
+
+## 4. Zoning Regulations
+
+MacEwan Glen's zoning is primarily designated for low-density residential use, focusing on single-family homes. The existing zoning regulations generally do not permit multiple units per lot, maintaining the community's low-density character.
+
+## 5. Population & Growth
+
+As of the 2021 Census, MacEwan Glen had a population of approximately 4,740 residents, reflecting a slight decline from previous years. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/macewan-glen.pdf?utm_source=chatgpt.com))
+
+## 6. Average Income in the Area
+
+The median total household income in MacEwan Glen is $104,000, which is higher than Calgary's median of $98,000, indicating a relatively affluent community. ([calgary.ca](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/macewan-glen.pdf?utm_source=chatgpt.com))
+
+## 7. Crime Rate
+
+MacEwan Glen's crime rates are 3% higher than the Calgary average, with a total crime rate of 4,428 per 100,000 people. This is 3% higher than the national average, indicating a moderate level of crime in the area. ([areavibes.com](https://www.areavibes.com/calgary-ab/macewan%2Bglen/?utm_source=chatgpt.com))
+
+## 8. Rental Supply & Demand
+
+The rental market in MacEwan Glen is relatively limited, with a high rate of owner-occupied properties. The limited rental supply may lead to stable demand for available units, particularly among families and professionals seeking a suburban environment.
+
+## 9. Average Rents
+
+Specific rental data for MacEwan Glen is limited. However, given the neighborhood's characteristics, estimated average rents are:
+
+- **Three-Bedroom Single-Family Home**: Approximately $2,500 to $3,000 per month, depending on size and condition.
+
+These figures are estimates and can vary based on specific property features and market conditions.
+
+## 10. Neighborhood Classification (A, B, C, D)
+
+MacEwan Glen is considered a **B+ neighborhood**, characterized by:
+
+- **Family-Friendly Environment**: Abundance of parks and green spaces.
+- **High Owner-Occupancy Rate**: Reflecting community stability.
+- **Moderate Crime Rates**: Slightly above city averages.
+
+This classification indicates a stable investment environment with potential for growth.
+
+## 11. Long-Term Potential Appreciation vs. Current Returns and Cash Flow
+
+- **Appreciation Potential**: Moderate. The neighborhood's established nature and proximity to Nose Hill Park contribute to steady property value appreciation.
+- **Current Returns and Cash Flow**: Moderate. Limited rental supply may result in stable rental income, but high property values could impact net rental yields.
+
+Investors should balance expectations of appreciation with realistic cash flow projections.
+
+## 12. Average House Prices
+
+As of January 2025, the average house price in MacEwan Glen is approximately $691,175. Over the past year, the neighborhood has seen a 19.4% increase in average sold price, indicating a strong appreciation trend. ([justinhavre.com](https://www.justinhavre.com/macewan-glen-calgary-real-estate.php?utm_source=chatgpt.com))
+
+## 13. Real Estate Investment Strategies for MacEwan Glen
+
+1. **Buy and Hold**:
+   - **Strategy**: Acquire single-family homes to benefit from long-term appreciation and rental income.
+   - **Consideration**: Focus on well-maintained properties that appeal to families seeking proximity to parks and quality schools.
+
+2. **Renovation and Resale (Flipping)**:
+   - **Strategy**: Purchase older homes in need of updates, renovate them, and sell at a higher price.
+   - **Consideration**: 
+
 # Valley Ridge
 # Kincora
 # Mount Pleasant
