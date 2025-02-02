@@ -158,6 +158,10 @@ Making a system simpler means removing _accidental_ complexity, as non inherent 
 
 One of the best tools we have for removing accidental complexity is _abstraction_ that hides the implementation details behind clean and simple to understand APIs and facades.
 
+- Simplified designs:
+  - Reduce the risk of bugs and misconfigurations.
+  - "A simple system is easier to debug, monitor, and extend."
+
 #### Evolvability: making change easy
 
 _Agile_ working patterns provide a framework for adapting to change.
@@ -9218,7 +9222,7 @@ Here’s an **expanded and detailed explanation of Section 16.2: Methodology**, 
 
 ---
 
-## **16.2 Methodology**
+## **Methodology**
 
 A structured methodology is essential for identifying and resolving complex performance issues systematically. In this case study, the performance optimization process follows a series of well-defined steps: **Baseline Measurement**, **Bottleneck Identification**, and **Hypothesis Formation**.
 
