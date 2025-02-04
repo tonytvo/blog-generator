@@ -33,4 +33,3 @@
 - https://tonytvo.github.io/refactor-legacy-code-to-patterns/
 - https://tonytvo.github.io/financial-statement-analysis/
 - https://tonytvo.github.io/practical-guide-oop-summary/
-- https://tonytvo.github.io/effective-debugging/
