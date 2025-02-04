@@ -7240,6 +7240,287 @@ This section provides a detailed exploration of how to isolate and remove nondet
 - **"Leverage Specialized Tools and Techniques"**: Tools like TSan, Helgrind, and rr make isolating and analyzing nondeterministic behavior manageable.  
 - **"Minimize Shared State for Simplified Debugging"**: Reducing dependencies between threads makes programs more deterministic and easier to debug.
 
+
+## **Investigate Scalability Issues by Looking at Contention**
+
+---
+
+### **Overview**
+Scalability problems occur when a system **fails to improve performance proportionally** as resources such as CPU cores are added. **"When you have a system whose performance (typically latency or throughput) doesn’t scale in accordance with the resources it has at its disposal, start by looking at sources of contention."**.
+
+Contention occurs when multiple threads compete for the same resource, such as:
+- **Locks on shared resources**
+- **Serial bottlenecks in code execution**
+- **Memory cache contention** (further discussed in Item 65: *Locate False Sharing by Using Performance Counters*).
+
+By analyzing contention points, developers can identify why a multi-threaded program is **not benefiting from additional CPU cores** and make optimizations to improve scalability.
+
+---
+
+### **1. Example: Key Pair Generation Bottleneck**
+Consider the **multi-threaded Java program** below, which generates **public-private key pairs** and stores them in a `HashMap`. The issue is that even with **multiple threads, execution time does not improve significantly**.
+
+```java
+import java.security.*;
+import java.util.concurrent.*;
+import java.util.HashMap;
+
+public class LockContention {
+    static public void main(String[] args) {
+        int nKeys = Integer.parseInt(args[0]);
+        int nThreads = Integer.parseInt(args[1]);
+        HashMap<PublicKey, PrivateKey> map = new HashMap<>();
+
+        Runnable task = () -> {
+            try {
+                synchronized(map) {  // LOCK CONTENTION HERE
+                    KeyPairGenerator keyGen = KeyPairGenerator.getInstance("DSA", "SUN");
+                    SecureRandom random = SecureRandom.getInstanceStrong();
+                    keyGen.initialize(2048, random);
+                    KeyPair pair = keyGen.generateKeyPair();
+                    map.put(pair.getPublic(), pair.getPrivate());
+                }
+            } catch (Exception e) {
+                System.out.println("Generation failed: " + e);
+            }
+        };
+
+        ExecutorService executor = Executors.newFixedThreadPool(nThreads);
+        for (int i = 0; i < nKeys; i++)
+            executor.submit(task);
+
+        try {
+            executor.shutdown();
+            executor.awaitTermination(5, TimeUnit.SECONDS);
+        } catch (InterruptedException e) {
+            System.err.println("Interrupted await: " + e);
+        }
+    }
+}
+```
+
+#### **Performance Analysis**
+Running the program with **four threads** takes almost **the same time as running it with a single thread**:
+
+```sh
+$ time java LockContention 1000 4
+real 0m11.106s
+
+$ time java LockContention 1000 1
+real 0m11.075s
+```
+
+This indicates **severe contention**, meaning that **threads are waiting rather than working efficiently**. Instead of benefiting from additional threads, the application is **bottlenecked by locks on shared resources**.
+
+---
+
+### **2. Identifying Contention with Profiling Tools**
+To diagnose contention problems, **profiling tools** can reveal where threads spend their time waiting:
+- **Oracle Java Flight Recorder**
+- **Intel VTune Amplifier**
+
+#### **Example: Profiling Execution with Java Flight Recorder**
+To analyze the program, **run it under the profiler**:
+
+```sh
+$ java -XX:+UnlockCommercialFeatures -XX:+FlightRecorder \
+  -XX:StartFlightRecording=name=test,dumponexit=true, \
+  filename=perf.jfr LockContention 1000 4
+```
+
+Alternatively, you can **attach the profiler to an already running program** using **Oracle Java Mission Control GUI**.
+
+After collecting profiling data, examining the **time distribution among threads** can highlight:
+- **Imbalanced workload distribution**
+- **Threads spending significant time blocked**
+- **Lock contention statistics**
+
+Figure **8.2 in the book** provides an example visualization from **Java Flight Recorder**, where:
+- The **top blocked threads** show extensive lock contention.
+- **A significant amount of time (12.9s) is spent on a single HashMap lock**.
+
+---
+
+### **3. Resolving Contention: Replacing `HashMap` with `ConcurrentHashMap`**
+The primary issue is **synchronization on the shared `HashMap`**, preventing **multiple threads from making progress simultaneously**.
+
+A simple **fix** is replacing `HashMap` with `ConcurrentHashMap`, which allows **concurrent modifications** without locking the entire map:
+
+```java
+import java.util.concurrent.ConcurrentHashMap;
+
+ConcurrentHashMap<PublicKey, PrivateKey> map = new ConcurrentHashMap<>();
+
+Runnable task = () -> {
+    try {
+        KeyPairGenerator keyGen = KeyPairGenerator.getInstance("DSA", "SUN");
+        SecureRandom random = SecureRandom.getInstanceStrong();
+        keyGen.initialize(2048, random);
+        KeyPair pair = keyGen.generateKeyPair();
+        map.put(pair.getPublic(), pair.getPrivate()); // No explicit locking needed
+    } catch (Exception e) {
+        System.out.println("Generation failed: " + e);
+    }
+};
+```
+
+---
+
+### **4. Performance After Fix**
+With `ConcurrentHashMap`, running the **same workload with four threads now achieves a 3.2x speedup** over a single-threaded execution:
+
+```sh
+$ time java NoContention 1000 4
+real 0m3.503s
+```
+
+This demonstrates **how reducing contention allows better scaling across multiple cores**.
+
+---
+
+### **5. General Strategies for Debugging Contention**
+1. **Use Profiling to Identify Contention Hotspots**
+   - **Tools:** `perf`, `strace`, `Java Flight Recorder`, `VTune`.
+   - Identify **which locks are blocking execution**.
+  
+2. **Avoid Excessive Synchronization**
+   - **Use concurrent data structures** like `ConcurrentHashMap`, `BlockingQueue`.
+   - Reduce **granularity of locks** (e.g., lock-free or read-write locks).
+
+3. **Minimize Critical Sections**
+   - Ensure **shared locks protect only necessary data**.
+   - **Move expensive computations outside locks**.
+
+4. **Partition Data to Avoid Shared Locks**
+   - Instead of multiple threads writing to a **single resource**, distribute workload across multiple resources.
+   - Example: **Sharding a database instead of locking a single large table**.
+
+5. **Increase Concurrency Granularity**
+   - **Using fine-grained locks** instead of a **single global lock** improves throughput.
+
+6. **Test Scalability Early**
+   - Avoid surprises by **running scalability tests** during development.
+
+---
+
+### **Key Takeaways**
+✔ **"When multi-threaded performance doesn’t scale, investigate sources of contention."**  
+✔ **Profiling tools such as Java Flight Recorder and Intel VTune help pinpoint blocking locks.**  
+✔ **Replacing `HashMap` with `ConcurrentHashMap` eliminated a bottleneck, improving performance by 3.2x.**  
+✔ **Adopt concurrency-friendly patterns—fine-grained locking, partitioning workloads, and using lock-free data structures.**  
+
+By systematically **analyzing contention bottlenecks**, developers can **unlock the full potential of multi-core systems and avoid wasted CPU cycles**.
+
+
+## **Locate False Sharing by Using Performance Counters**
+
+### **Understanding False Sharing**
+False sharing is a performance-degrading phenomenon in multi-threaded applications where multiple CPU cores modify different variables that reside on the same cache line. Despite these variables being logically independent, the CPU's cache coherency protocol treats them as shared, forcing unnecessary synchronization and increasing memory latency.
+
+### **Example Code Demonstrating False Sharing**
+Consider the following OpenMP C code that calculates eight sums of an array, each scaled down by different powers of two:
+
+```c
+#include <omp.h>
+
+#define N 100000000
+#define NTHREADS 8
+int values[N];
+
+int main(int argc, char *argv[]) {
+    int tid;
+    static int sum[NTHREADS];
+
+    #ifdef _OPENMP
+    omp_set_num_threads(NTHREADS);
+    #pragma omp parallel private(tid)
+    {
+        tid = omp_get_thread_num();
+    #else
+    for (tid = 0; tid < NTHREADS; tid++) {
+    #endif
+        for (int i = 0; i < N; i++)
+            sum[tid] += values[i] >> tid;
+    }
+}
+```
+
+When executed on an **8-core system** with OpenMP enabled:
+```sh
+$ time ./sum-mp
+real    0m2.603s
+user    0m19.076s
+sys     0m0.072s
+```
+Surprisingly, when executed sequentially **without OpenMP**:
+```sh
+$ time ./sum-seq
+real    0m2.249s
+user    0m2.208s
+sys     0m0.040s
+```
+The sequential version runs **faster**, which contradicts the expected speed-up from parallel execution. 
+
+### **Why is This Happening?**
+The issue arises from **false sharing**. Each thread modifies its own element in the `sum` array, but these elements are stored closely in memory, likely **falling into the same cache line**. As a result, each CPU core's private cache must synchronize with others, causing massive slowdowns due to unnecessary memory traffic.
+
+> **"The slowdown you’re observing is overhead introduced by the cache synchronization protocol in order to provide all threads with the correct view of the sum array."**
+
+### **Diagnosing False Sharing with Performance Counters**
+One way to **identify false sharing** is by using performance counters to track **Last-Level Cache (LLC) misses**. On Linux, this can be done using the `perf` tool:
+
+```sh
+$ perf stat --event=LLC-loads ./sum-seq
+Performance counter stats for './sum-seq':
+
+.. 17,830 LLC-loads
+2.223350547 seconds time elapsed
+```
+
+When running the **multi-threaded** version:
+
+```sh
+$ perf stat -e LLC-loads ./sum-mp
+Performance counter stats for './sum-mp':
+
+.. 49,264,883 LLC-loads
+2.547188760 seconds time elapsed
+```
+The **dramatic increase in LLC-loads (from 17k to 49M)** indicates excessive cache contention due to false sharing.
+
+### **Locating the Problem in Code**
+To pinpoint the exact line of code responsible for the performance degradation, `perf` can be used to **record** and **annotate** events:
+
+```sh
+$ perf record --event=LLC-loads ./sum-mp
+$ perf annotate
+```
+This generates an annotated output showing the specific **lines in the source code** that suffer the most from cache misses. In the given example, over **54% of last-level cache loads occur at the line writing to `sum[tid]`**.
+
+### **Fixing False Sharing**
+The best way to **resolve false sharing** is to ensure that each thread’s data resides in **separate cache lines**. This can be done by **padding structures** to align elements with the CPU’s cache line size (usually **64 bytes**):
+
+```c
+struct PaddedSum {
+    int value[16];  // 64-byte alignment
+};
+static struct PaddedSum sum[NTHREADS];
+```
+Alternatively, **use `alignas` in C++**:
+```cpp
+alignas(64) static int sum[NTHREADS];
+```
+This forces each `sum[tid]` to occupy an independent cache line, preventing excessive cache invalidations.
+
+### **Key Takeaways**
+- **False sharing** occurs when logically independent variables share the same cache line.
+- It can **severely degrade performance** in multi-threaded applications.
+- **Performance counters** (LLC-loads) help **diagnose** false sharing.
+- Use **padding or memory alignment techniques** to prevent cache line contention.
+
+By implementing these strategies, you can significantly **boost the efficiency of multi-threaded applications** and **avoid performance pitfalls** caused by false sharing.
+
+
 # **The Nine Indispensable Rules**
 
 - Concise presentation of the nine rules as a framework for debugging.
