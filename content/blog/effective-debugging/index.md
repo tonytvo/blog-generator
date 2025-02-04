@@ -5673,6 +5673,156 @@ int main() {
 
 # **Chapter 7: Runtime Techniques**
 
+## **Find the Fault by Constructing a Test Case**  
+
+When debugging, constructing a **test case** is one of the most effective ways to **pinpoint and correct a bug**. This approach, called **Defect-Driven Testing (DDT)**, focuses on systematically creating a minimal and reproducible test case that exposes the fault in the system. The term **DDT is intentionally similar to the well-known insecticide**—the idea being that debugging is akin to eradicating software defects.
+
+---
+
+### **Three Steps to Constructing an Effective Test Case**  
+
+#### **Step 1: Create a Test Case That Reliably Reproduces the Problem**  
+> **"First, create a test case that reliably reproduces the problem you need to solve."**  
+
+A test case must be carefully designed to specify:  
+- **The process to follow** (actions taken that trigger the bug)  
+- **The required materials** (data, configuration, or environment setup)  
+
+For example, consider an application where **pressing a specific sequence of keys (e.g., X, Y, Z)** causes a crash. Another example is a system where **adding a specific type of load balancer in front of a service causes authentication to fail**. These structured test cases **help isolate the problem**, making it easier to debug systematically.  
+
+**Example Case: Debugging `qmcalc`**  
+The book describes a real-world debugging scenario with `qmcalc`, a program that calculates **quality metrics for C source files** and outputs them as tab-separated values. The **bug in question** was that the program **sometimes generated fewer than the expected 110 fields**.
+
+To investigate, the following shell pipeline was used to apply `qmcalc` to all C files and summarize the number of output fields:
+
+```sh
+# Find all C files
+find linux-4.4 -name \*.c |
+# Apply qmcalc on each file
+xargs qmcalc |
+# Display the number of fields
+awk '{print NF}' |
+# Order by number of fields
+sort |
+# Display number of occurrences
+uniq -c
+```
+
+The output revealed that **most files produced 110 fields** but a small subset had fewer:  
+
+```
+8     100  
+19    105  
+21772 110  
+12    80  
+472   90  
+```
+
+---
+
+#### **Step 2: Simplify the Test Case to the Bare Minimum**  
+> **"The second step is the simplification of the test case to the bare minimum."**  
+
+Once a problematic case is identified, the test case should be **minimized** to isolate the **exact trigger** of the bug. This involves two key strategies:  
+1. **Building up from scratch**—starting with a minimal dataset and adding complexity until the bug appears.  
+2. **Trimming down a failing case**—removing elements to see when the bug disappears.  
+
+This **"aha! moment"** occurs when you discover the smallest input that still triggers the failure.  
+
+**Example: Finding the Smallest Failing File**  
+The following shell script helps identify **the first C file that exhibits the problem**:  
+
+```sh
+# Find C files
+find linux-4.4/ -name \*.c |
+# For each file
+while read f; do
+    # If the number of fields is not 110
+    if [ $(qmcalc $f | awk '{print NF}') != 110 ]; then
+        echo $f  # Output the file name
+        break    # Stop processing
+    fi
+done
+```
+
+Running this script produced the result:  
+```sh
+linux-4.4/drivers/mmc/host/sdhci-pci-o2micro.c
+```
+This **single file** was causing the issue.  
+
+To **further simplify**, the number of lines was **incrementally reduced**, testing if the failure persisted:  
+```sh
+$ cp linux-4.4/drivers/mmc/host/sdhci-pci-o2micro.c test.c
+$ ./qmcalc test.c | awk '{print NF}'
+87
+$ head -100 test.c | ./qmcalc | awk '{print NF}'
+87
+$ head -10 test.c | ./qmcalc | awk '{print NF}'
+63
+$ head -1 test.c | ./qmcalc | awk '{print NF}'
+63
+```
+
+Further, applying `qmcalc` to an **empty file** `/dev/null` showed an even simpler failure case:  
+```sh
+$ ./qmcalc /dev/null | awk '{print NF}'
+59
+```
+
+Looking at the **structured output**, the bug was **linked to missing field separators (tabs) when processing an empty data set**.  
+
+---
+
+#### **Step 3: Consolidate the Victory with a Regression Test**  
+> **"Having isolated the problem, grab the opportunity to add a corresponding unit test or regression test in the code."**  
+
+With the test case isolated, the next step is to **convert it into an automated test**. There are two options:  
+- **Unit Test**—if the failure is in an isolated function.  
+- **Regression Test**—if the failure depends on multiple interacting components.  
+
+In the `qmcalc` case, the missing tab separator **led to a failed assertion** in a unit test:  
+
+```cpp
+void testOutputEmpty() {
+    std::stringstream str;
+    Descriptive<int> a;
+    str << a;
+    CPPUNIT_ASSERT(str.str() == "0\t\t\t\t");
+}
+```
+
+**Before the fix:**  
+```sh
+$ make test
+./UnitTests
+.............................................................
+............F.......................................
+!!!FAILURES!!!
+Test Results:
+Run: 110 Failures: 1 Errors: 0
+
+1) test: DescriptiveTest::testOutputEmpty (F) line: 103
+DescriptiveTest.h assertion failed
+- Expression: str.str() == "0\t\t\t\t"
+```
+
+**After the fix:**  
+```sh
+$ make test
+.............................................................
+..................................................
+OK (110 tests)
+```
+
+#### **Final Thoughts**  
+> **"Coding ain't done 'til all the tests run."** – Andrew Hunt & David Thomas  
+
+- **Always embed test cases as unit or regression tests** to ensure that once a bug is fixed, it does not return.  
+- **Use test coverage tools** (e.g., `gcov`, `JaCoCo`, `NCover`) to ensure all critical code paths are tested.  
+- **Never skimp on tests**, as they **help prevent future regressions** and **document edge cases** in your software.
+
+
 ## **Trace the Code’s Execution**
 
 Tracing a program's execution is a powerful debugging technique that involves **monitoring and analyzing the sequence of operations** performed by the code during runtime. This approach is particularly useful for understanding complex behaviors, identifying bottlenecks, diagnosing logical errors, and isolating the root cause of runtime issues. Here's a comprehensive guide to effectively tracing code execution.
