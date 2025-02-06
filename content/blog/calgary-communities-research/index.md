@@ -9297,6 +9297,65 @@ Kingsland is a well-established residential neighborhood in southwest Calgary, o
 In summary, Kingsland offers a balanced mix of residential options, amenities, and investment opportunities, making it a compelling choice for real estate investors seeking stable returns in Calgary. 
 
 # Discovery Ridge
+
+Discovery Ridge is a picturesque residential neighborhood located in Calgary's southwest quadrant, known for its natural beauty and modern amenities. Here's a comprehensive overview addressing your specific questions:
+
+**Nearby Amenities and Attractions:**
+
+- **Griffith Woods Park:** Adjacent to Discovery Ridge, this expansive natural area offers residents access to walking trails, wildlife viewing, and serene forested landscapes. citeturn0search16
+
+- **Shopping and Dining:** While Discovery Ridge maintains a tranquil, natural setting, essential services and shopping options are accessible within a short drive. The nearby Westhills Towne Centre and Signal Hill Centre offer a variety of retail stores, restaurants, and entertainment venues.
+
+- **Community Facilities:** The Discovery Ridge Community Association organizes events and maintains recreational facilities, including tennis courts and playgrounds, fostering a strong sense of community. citeturn0search16
+
+**Housing Characteristics:**
+
+- **Construction Period:** Development in Discovery Ridge began in the late 1990s, making it a relatively new community within Calgary. citeturn0search6
+
+- **Building Types:** The neighborhood predominantly features single-family detached homes, along with a selection of townhouses and low-rise condominiums, catering to a variety of housing preferences. citeturn0search16
+
+**Zoning Regulations:**
+
+- **Zoning and Density:** Discovery Ridge is primarily zoned for low-density residential development, focusing on preserving the natural environment and maintaining the area's aesthetic appeal. The current zoning regulations generally do not permit multiple units per lot, emphasizing single-family homes and low-rise developments.
+
+**Demographics:**
+
+- **Population:** As of 2021, Discovery Ridge had a population of 4,330 residents. citeturn0search2
+
+- **Population Growth:** The community has experienced modest growth since its establishment, with a population of 3,105 in 2006, indicating a steady increase over the years. citeturn0search6
+
+- **Average Income:** In 2020, the median total household income in Discovery Ridge was $145,000, significantly higher than Calgary's median of $98,000. citeturn0search2
+
+**Safety:**
+
+- **Crime Rate:** Discovery Ridge is considered a safe neighborhood, with crime rates approximately 60% lower than the Calgary average, contributing to its family-friendly reputation. citeturn0search4
+
+**Rental Market:**
+
+- **Supply and Demand:** The neighborhood's higher property values and predominance of owner-occupied homes result in a limited rental market. However, the serene environment and quality housing attract professionals and families seeking upscale rental options.
+
+- **Average Rents:** Specific rental data for Discovery Ridge is limited due to the small rental market. Generally, rental rates are higher than the city average, reflecting the neighborhood's desirability and housing quality.
+
+**Neighborhood Classification:**
+
+- **Grade:** Based on available data, Discovery Ridge can be classified as an 'A' neighborhood, characterized by high property values, low crime rates, and desirable amenities.
+
+**Real Estate Investment Potential:**
+
+- **Appreciation vs. Cash Flow:** Discovery Ridge's real estate market is characterized by high property values and limited rental opportunities. Investors may find potential in long-term appreciation, but immediate cash flow from rentals could be limited due to the small rental market.
+
+- **Average House Prices:** As of early 2025, the average house price in Discovery Ridge was approximately $709,231. citeturn0search1
+
+**Investment Strategies:**
+
+- **Long-Term Hold:** Investing in single-family homes with the expectation of property value appreciation over time could be a viable strategy, given the neighborhood's desirability and limited housing supply.
+
+- **High-End Rentals:** For investors interested in the rental market, focusing on high-quality, well-maintained properties could attract professionals and families seeking premium rental accommodations.
+
+- **Luxury Home Development:** Given the neighborhood's affluent demographic, developing or renovating properties to meet luxury standards may yield substantial returns.
+
+In summary, Discovery Ridge offers a serene, upscale living environment with strong potential for long-term property appreciation. While the rental market is limited, strategic investments focusing on high-quality properties may prove beneficial. 
+
 # Mission
 # Spruce Cliff
 # Patterson
