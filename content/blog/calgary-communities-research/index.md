@@ -9357,6 +9357,128 @@ Discovery Ridge is a picturesque residential neighborhood located in Calgary's s
 In summary, Discovery Ridge offers a serene, upscale living environment with strong potential for long-term property appreciation. While the rental market is limited, strategic investments focusing on high-quality properties may prove beneficial. 
 
 # Mission
+
+
+Mission is one of Calgary’s most vibrant and historic inner-city communities. Located just south of downtown, it offers a mix of modern and heritage charm, making it highly desirable for professionals, young families, and investors.
+
+---
+
+## **1. Nearby Amenities and Attractions**
+Mission is a **walkable neighborhood** with an abundance of amenities, including:
+- **Shopping & Dining:** 4th Street SW is the main commercial hub, featuring a mix of upscale restaurants, boutique shops, coffee houses, and bars.
+- **Recreation:** Close to the **Elbow River**, Lindsay Park, and the Repsol Sports Centre, one of Calgary’s premier fitness facilities.
+- **Cultural & Entertainment:** Hosts the **Lilac Festival**, a major Calgary event with food, music, and vendors. Mission is also near the Stampede Grounds and Scotiabank Saddledome.
+- **Healthcare & Schools:** Close to Rockyview General Hospital and numerous schools.
+
+---
+
+## **2. Housing Characteristics**
+- **Construction Period:** 
+  - Originally established as a French Catholic mission settlement in the late 1800s.
+  - Many houses date back to the **1910s–1940s**, but there has been significant redevelopment with modern condos in the last two decades.
+
+- **Common Building Types:** 
+  - **High-rise and mid-rise condos** dominate, particularly along 4th Street SW.
+  - Some **heritage-style single-family homes** remain but are becoming rare.
+  - **Townhomes and mixed-use developments** are increasingly popular.
+
+---
+
+## **3. Zoning Regulations**
+- Mission has a **mix of residential and commercial zoning**, including:
+  - **M-C2 (Multi-Residential, High-Density)** – Allows apartments and condos.
+  - **C-COR (Commercial-Corridor)** – Supports mixed-use development.
+  - **R-CG (Residential, Contextual Ground-Oriented)** – Allows for townhouses and small multi-unit developments.
+
+- **Does zoning allow more units per lot?**  
+  Yes, many areas allow multi-family units, making infill and mixed-use developments a strong investment opportunity.
+
+---
+
+## **4. Population & Growth**
+- **Population:** ~5,500 residents (2021 census).
+- **Population Growth:**  
+  - Steady growth due to ongoing redevelopment and increasing demand for **inner-city living**.
+  - The influx of young professionals and downsizers seeking **walkable communities** contributes to population stability.
+
+---
+
+## **5. Average Income**
+- **Median household income:** ~ $95,000–$105,000/year (higher than the Calgary average).
+- **Demographics:**  
+  - Many **single professionals** and young couples.
+  - A mix of **renters and condo owners**.
+
+---
+
+## **6. Crime Rate**
+- **Slightly higher than city average** due to its downtown proximity and nightlife scene.
+- Most crimes are **non-violent**, such as vehicle break-ins and petty theft.
+- **Safer than Beltline** but not as quiet as suburban areas.
+
+---
+
+## **7. Rental Market: Supply & Demand**
+- **High rental demand** due to:
+  - Proximity to downtown, the Stampede Grounds, and nightlife.
+  - Walkability and transit accessibility.
+  - A mix of high-end professionals and students.
+- **Vacancy rates are low** (below Calgary’s average).
+
+- **Average Rents (2024 estimates):**
+  - **1-bedroom condo:** $1,900–$2,300/month.
+  - **2-bedroom condo:** $2,500–$3,200/month.
+  - **Luxury condos/townhomes:** $3,500+/month.
+
+---
+
+## **8. Neighborhood Classification**
+**Grade: A-**  
+- **Pros:** High rental demand, walkability, premium location, strong appreciation potential.  
+- **Cons:** Higher property prices, condo-heavy market limits detached home investment opportunities, parking limitations.
+
+---
+
+## **9. Investment Potential**
+- **Appreciation:** Strong potential due to continuous redevelopment and increasing demand for **inner-city living**.
+- **Current Returns:** 
+  - **Cash flow can be tight** due to high property prices.
+  - **Short-term rentals (Airbnb)** could provide higher returns, depending on city regulations.
+
+---
+
+## **10. Average House & Condo Prices**
+- **Condos:** ~$425,000 for a mid-range unit, $700,000+ for luxury condos.
+- **Townhomes:** ~$700,000–$1M+.
+- **Detached Homes:** Rare, but can range from **$1M to $2.5M**.
+
+---
+
+## **11. Best Real Estate Investment Strategies**
+1. **Luxury Condo Rentals:**  
+   - Target high-income renters or professionals.
+   - Best for long-term appreciation.
+
+2. **Short-Term Rentals (Airbnb):**  
+   - Popular during the Calgary Stampede & events.
+   - **Regulatory risks**—check city bylaws.
+
+3. **Mixed-Use Developments:**  
+   - Buying properties with **commercial-residential** potential (e.g., retail below, condos above).
+   - Appeals to both residential and business tenants.
+
+4. **Value-Add Condos:**  
+   - Purchase older condos and renovate for resale or higher rents.
+
+5. **Buy and Hold:**  
+   - Mission is a **highly sought-after location**, making it a strong appreciation play.
+
+---
+
+## **Final Thoughts**
+Mission is **one of Calgary’s best urban investment neighborhoods**, offering strong **long-term appreciation**, **high rental demand**, and **walkability**. However, **entry costs are high**, and **cash flow might be challenging** unless you maximize rental yields (e.g., luxury or short-term rentals).  
+
+
 # Spruce Cliff
 # Patterson
 # Richmond
