@@ -1,7 +1,6 @@
 # next steps
 - [effective typescript summary - wip](https://tonytvo.github.io/effective-typescript/)
 - https://tonytvo.github.io/study-group-patterns-summary/
-- https://tonytvo.github.io/system-performance-summary/
 - https://tonytvo.github.io/ddd-with-legacy-code/
 - https://tonytvo.github.io/learning-organization/
 - https://tonytvo.github.io/100m-leads-summary/
@@ -14,9 +13,12 @@
 
 # todo
 - The Creature from Jekyll Island
-- write summary for common sense of economics + economics facts and fallacies
+- write summary for how economics explains the world + economics facts and fallacies
 - write summary for building wealth one house at a time + long distance investing
 - write summary for continuous delivery book
+- write summary for stocks for the long run + Four Pillars of investing: lessons for building a winning portfolio
+- write summary for Business Adventures: Twelve Classic Tales from the World of Wall Street + how to make a few billions dollars
+- write summary on money: story of humanity + ascent of money
 - write summary for the beginning of infinity
 - write summary for accelerate
 - write summary for pragmatic programmers
