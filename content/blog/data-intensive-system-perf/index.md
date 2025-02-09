@@ -1,16 +1,9 @@
 ---
-title: design data intensive applications by Martin Kleppmann summary - wip
-date: "2024-07-23T22:12:03.284Z"
+title: design data intensive applications by Martin Kleppmann summary
+date: "2025-02-09T22:12:03.284Z"
 description: "design data intensive applications by Martin Kleppmann summary"
 tags: ["systemperformance"]
 ---
-
-# todo
-
-- examples from the current system.
-- surface the critical examples based on experience.
-- it could be code, database queries, etc...
-- go as broad as possible for the first attempt
 
 # Table of Contents
 
