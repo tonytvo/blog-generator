@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - you're an expert in realestate investing, give me detailed outline on the Cougar Ridge neighborhood in Calgary with the following questions:
+>  - you're an expert in realestate investing, give me detailed outline on the Mount Pleasant neighborhood in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
@@ -9117,6 +9117,65 @@ As of January 2025, the average house price in Kincora is approximately $566,341
 Each strategy should be evaluated based on individual investment goals, risk tolerance, and market conditions. 
 
 # Mount Pleasant
+
+Mount Pleasant is a well-established residential neighborhood in northwest Calgary, known for its blend of historic charm and modern amenities. Here's a detailed overview addressing your specific questions:
+
+**Nearby Amenities and Attractions:**
+
+- **Parks and Recreation:** The neighborhood is adjacent to Confederation Park, a 160-acre green space offering walking and biking paths, picnic areas, and the Confederation Park Golf Course. citeturn0search12
+
+- **Community Facilities:** Mount Pleasant boasts a community hall, sportsplex with an indoor ice rink, and an outdoor pool. The community association organizes various events, including movie nights, seasonal festivals, and a Stampede breakfast. citeturn0search14
+
+- **Shopping and Dining:** Proximity to North Hill Shopping Centre provides residents with access to a variety of retail stores, dining options, and essential services. citeturn0search6
+
+**Housing Characteristics:**
+
+- **Construction Period:** Development in Mount Pleasant began in 1912, making it one of Calgary's older communities. citeturn0search14
+
+- **Building Types:** The neighborhood features a mix of historic homes, modern infills, and low-rise apartment buildings, reflecting its evolution over time. citeturn0search6
+
+**Zoning Regulations:**
+
+- **Zoning and Density:** Recent rezoning reforms in Calgary have permitted the development of duplexes, triplexes, and fourplexes in neighborhoods like Mount Pleasant, which were previously designated exclusively for single-family homes. This change allows for increased housing density and more units per lot. citeturn0search11
+
+**Demographics:**
+
+- **Population:** As of 2021, Mount Pleasant had a population of 6,325 residents. citeturn0search2
+
+- **Population Growth:** The neighborhood has experienced modest growth, with a 2.8% increase noted in 2012. Recent data indicates continued, albeit gradual, growth. citeturn0search19
+
+- **Average Income:** The median total household income in 2020 was $101,000, slightly above Calgary's median of $98,000. citeturn0search2
+
+**Safety:**
+
+- **Crime Rate:** Mount Pleasant has a crime rate approximately 23% lower than the Calgary average, contributing to its reputation as a safe and family-friendly community. citeturn0search10
+
+**Rental Market:**
+
+- **Supply and Demand:** The neighborhood's proximity to educational institutions like SAIT and the University of Calgary makes it attractive to students and professionals, sustaining a steady demand for rental properties. citeturn0search6
+
+- **Average Rents:** While specific rental rates for Mount Pleasant are not detailed in the available sources, Calgary's rental market has seen low vacancy rates and rising rents, suggesting favorable conditions for landlords. citeturn0search11
+
+**Neighborhood Classification:**
+
+- **Grade:** Based on available data, Mount Pleasant can be classified as a 'B' neighborhood, indicating a stable and desirable area with good amenities and housing options.
+
+**Real Estate Investment Potential:**
+
+- **Appreciation vs. Cash Flow:** Calgary's real estate market is projected to grow, with an expected average home price increase of 4.5% in 2025. Mount Pleasant's blend of historic and new homes, along with its desirable location, positions it well for both appreciation and rental income opportunities. citeturn0search7
+
+- **Average House Prices:** As of January 2025, the median home sold price in Mount Pleasant was $710,000. citeturn0search17
+
+**Investment Strategies:**
+
+- **Infill Development:** The neighborhood's evolving zoning regulations and demand for modern housing make it suitable for infill development projects.
+
+- **Rental Properties:** Given the steady demand from students and professionals, investing in rental properties, including duplexes or triplexes, could yield favorable returns.
+
+- **Value-Add Opportunities:** Renovating older homes to modern standards can attract higher sale prices or rental rates, capitalizing on the neighborhood's charm and location.
+
+In summary, Mount Pleasant offers a compelling mix of historical appeal and modern convenience, making it a promising area for real estate investment in Calgary. 
+
 # Queensland
 # Tuxedo Park
 # Kingsland
@@ -9245,7 +9304,6 @@ Each strategy should be evaluated based on individual investment goals, risk tol
 # Pegasus
 # Redstone
 # Royal Vista
-# Seton
 # Skyline East
 # Skyline West
 # South Airways
