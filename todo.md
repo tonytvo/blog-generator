@@ -25,7 +25,7 @@
 - write summary for extreme programming
 - write summary for learning how to learn
 - write summary for devops handbook
-- write summary for security patterns.
+- write summary for The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws + The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 - write summary for patterns of enterprise application architecture
 - write summary for fundamentals of software architecture + building evolutionary architectures
 - write tests for this site
