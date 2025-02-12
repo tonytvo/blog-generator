@@ -9767,6 +9767,83 @@ Patterson offers a mix of **urban convenience and outdoor recreation**, making i
 ✔ **Best suited for investors targeting appreciation, executive rentals, or redevelopment projects.**  
 
 # Richmond
+
+Richmond, also known as Knob Hill, is a vibrant inner-city neighborhood in southwest Calgary. Established in 1950, it offers a blend of historic charm and modern amenities, making it appealing to families, professionals, and investors. Here's a comprehensive overview:
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Dining:**
+  - *Marda Loop*: A bustling district with a variety of boutiques, cafes, and restaurants.
+  - *17th Avenue SW*: Known for its trendy shops, diverse dining options, and lively nightlife.
+
+- **Parks and Recreation:**
+  - *Richmond Green Park*: Features open green spaces, sports fields, and a golf course.
+  - *Community Pathways*: Numerous walking and biking paths connect residents to neighboring areas.
+
+- **Education:**
+  - The area is served by several public and private schools, catering to diverse educational needs.
+
+**Housing Characteristics:**
+
+- **Construction Period:**
+  - Richmond showcases a mix of architectural styles, with original homes dating back to the early 20th century and modern infills constructed in recent years.
+
+- **Building Types:**
+  - The neighborhood comprises single-family detached homes, townhouses, duplexes, and low-rise condominiums.
+
+**Zoning Regulations:**
+
+- **Zoning and Density:**
+  - Richmond's zoning includes low-density residential (R-C1, R-C2) and areas designated for multi-residential developments (M-CG), allowing for increased density and diverse housing options.
+
+**Demographics:**
+
+- **Population:**
+  - As of 2021, Richmond had a population of approximately 5,250 residents. citeturn0search2
+
+- **Population Growth:**
+  - The community has experienced modest growth, with a slight increase from 4,962 residents in 2019. citeturn0search14
+
+- **Average Income:**
+  - The median household income in 2020 was $113,000, higher than Calgary's median of $98,000. citeturn0search2
+
+**Safety:**
+
+- **Crime Rate:**
+  - Richmond boasts a crime rate lower than the Calgary average, contributing to its reputation as a safe and desirable neighborhood. citeturn0search4
+
+**Rental Market:**
+
+- **Supply and Demand:**
+  - The neighborhood's proximity to downtown and vibrant amenities makes it attractive to renters, leading to a healthy demand for rental properties.
+
+- **Average Rents:**
+  - While specific rental figures vary, the area offers a range of options, with average rents aligning with Calgary's inner-city market rates.
+
+**Neighborhood Classification:**
+
+- **Grade:**
+  - Richmond is considered an 'A-' neighborhood, reflecting its excellent amenities, safety, and strong real estate market. citeturn0search4
+
+**Real Estate Investment Potential:**
+
+- **Appreciation vs. Cash Flow:**
+  - The area has seen consistent property value appreciation, driven by ongoing redevelopment and high demand. Investors can expect favorable long-term returns, with rental properties offering competitive cash flow.
+
+- **Average House Prices:**
+  - As of January 2025, the average house price in Richmond is approximately $902,000. citeturn0search1
+
+**Investment Strategies:**
+
+- **Infill Development:**
+  - Opportunities exist to replace older homes with modern infill properties, capitalizing on the demand for contemporary housing.
+
+- **Rental Properties:**
+  - Investing in duplexes or multi-family units can yield steady rental income, appealing to young professionals and families.
+
+- **Renovation Projects:**
+  - Updating existing older homes can increase property value and attract buyers seeking a blend of character and modern amenities.
+
 # Windsor Park
 # Deer Ridge
 # Capitol Hill
