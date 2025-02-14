@@ -9844,8 +9844,77 @@ Richmond, also known as Knob Hill, is a vibrant inner-city neighborhood in south
 - **Renovation Projects:**
   - Updating existing older homes can increase property value and attract buyers seeking a blend of character and modern amenities.
 
-# Windsor Park
 # Deer Ridge
+
+Deer Ridge is a tranquil residential neighborhood in the southeast quadrant of Calgary, Alberta. Established in 1978, it offers a family-oriented atmosphere with abundant green spaces and convenient access to urban amenities.  
+
+---
+
+## **Nearby Amenities and Attractions**  
+
+Deer Ridge residents enjoy proximity to several amenities and attractions:  
+
+- **Fish Creek Provincial Park**: One of North America's largest urban parks, offering extensive walking and biking trails, picnic areas, and natural landscapes.  
+- **Deer Valley Shopping Centre**: Located within the community, this center provides various retail stores, grocery options, and essential services.  
+- **Community Facilities**: The neighborhood features outdoor ice rinks, tennis and pickleball courts, playgrounds, soccer fields, and baseball diamonds.  
+
+---
+
+## **Housing Characteristics**  
+
+- **Construction Period**: Development primarily occurred in the late 1970s and early 1980s.  
+- **Building Types**: The area predominantly consists of single-family detached homes, many featuring spacious yards and traditional architectural styles.  
+
+---
+
+## **Zoning Regulations**  
+
+Specific zoning details for Deer Ridge are not widely available. However, for information on zoning regulations and the potential for multiple units per lot, it's recommended to consult the City of Calgary's planning department or official zoning maps.  
+
+---
+
+## **Demographics**  
+
+- **Population**: As of the 2021 Census, Deer Ridge had a population of 3,795 residents.  
+- **Population Growth**: The community experienced a decline from 4,344 residents in 2006 to 3,795 in 2021.  
+- **Average Income**: The median total household income before tax in 2020 was approximately $94,000.  
+
+---
+
+## **Crime Rate**  
+
+Deer Ridge has a Livability Score of 77/100. However, crime rates are reported to be 21% higher than the Calgary average.  
+
+---
+
+## **Rental Market**  
+
+- **Supply and Demand**: Specific data on rental supply and demand in Deer Ridge is not readily available. For current rental market conditions, consulting local real estate agents or rental listings is advisable.  
+- **Average Rents**: No specific rental price data is available, but rates generally align with similar communities in southeast Calgary.  
+
+---
+
+## **Neighborhood Classification**  
+
+While specific classifications (A, B, C, D) are not available, Deer Ridge is described as a family-friendly community with abundant green spaces and amenities, making it a desirable area for long-term residents.  
+
+---
+
+## **Real Estate Investment Potential**  
+
+- **Average House Prices**: As of December 2024, the median home asking price was $439,900, with a median sold price of $455,000.  
+- **Market Trends**: Over the past year, the median sold price increased by approximately 7%, indicating potential for appreciation.  
+
+---
+
+## **Investment Strategies**  
+
+Given the community's characteristics, the following investment strategies could be considered:  
+
+- **Long-Term Rental Properties**: With its family-oriented atmosphere and proximity to amenities, Deer Ridge is attractive to long-term tenants.  
+- **Fix and Flip**: Opportunities may exist to renovate older homes to meet modern standards, potentially yielding profitable returns.  
+- **Buy and Hold**: Investing in properties with the expectation of appreciation over time, capitalizing on the area's steady growth.  
+
 # Capitol Hill
 # Winston Heights/Mountview
 # Montgomery
