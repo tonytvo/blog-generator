@@ -9915,8 +9915,75 @@ Given the community's characteristics, the following investment strategies could
 - **Fix and Flip**: Opportunities may exist to renovate older homes to meet modern standards, potentially yielding profitable returns.  
 - **Buy and Hold**: Investing in properties with the expectation of appreciation over time, capitalizing on the area's steady growth.  
 
-# Capitol Hill
 # Winston Heights/Mountview
+
+Winston Heights/Mountview is a mature residential neighborhood located in the northeast quadrant of Calgary, Alberta. Established in 1932, the community offers a blend of historical charm and modern amenities, making it an attractive area for residents and investors alike.  
+
+---
+
+## **Nearby Amenities and Attractions**  
+
+- **Parks and Green Spaces**: The neighborhood is adjacent to Nose Creek Park, providing residents with access to pathways connecting both the Elbow and Bow Rivers, ideal for walking and biking.  
+- **Golf Courses**: The eastern edge of Winston Heights/Mountview features The Winston Golf Club and Fox Hollow Golf Course, catering to golf enthusiasts.  
+- **Shopping and Dining**: Proximity to Edmonton Trail offers a variety of shopping plazas and restaurants. Additionally, Deerfoot Mall is nearby, providing diverse retail options.  
+
+---
+
+## **Housing Characteristics**  
+
+- **Construction Period**: The area saw significant development in the 1950s, expanding around an existing core of older war-time homes.  
+- **Building Types**: The neighborhood predominantly features single-family homes. Recent redevelopment efforts have introduced modern homes, including apartments and condos, blending historical architecture with contemporary designs.  
+
+---
+
+## **Zoning Regulations**  
+
+Winston Heights/Mountview has an area redevelopment plan in place, facilitating controlled growth and modernization. Specific zoning regulations and allowances for multiple units per lot can vary; therefore, consulting the City of Calgary's planning department or official zoning maps is recommended for detailed information.  
+
+---
+
+## **Demographics**  
+
+- **Population**: As of 2021, the population in private households was 3,605.  
+- **Population Growth**: The community experienced a slight decline from 3,631 residents in 2006 to 3,605 in 2021.  
+- **Average Income**: The median total household income before tax in 2020 was $97,000.  
+
+---
+
+## **Crime Rate**  
+
+Specific crime rate statistics for Winston Heights/Mountview are not detailed in the available sources. For current and comprehensive crime data, consulting the Calgary Police Service or local community reports is advisable.  
+
+---
+
+## **Rental Market**  
+
+- **Supply and Demand**: Detailed data on rental supply and demand specific to Winston Heights/Mountview is limited. However, the community offers a range of rental properties, including basements, main floors, townhouses, and duplexes.  
+- **Average Rents**: Rental prices vary based on property type and size. For instance, basements range from $1,150 to $2,300, with an average price of $1,466; main floors range from $1,350 to $2,350, averaging $1,825.  
+
+---
+
+## **Neighborhood Classification**  
+
+While specific classifications (A, B, C, D) are not provided, Winston Heights/Mountview is recognized as a mature neighborhood with abundant green spaces and amenities, making it a desirable area for both families and professionals.  
+
+---
+
+## **Real Estate Investment Potential**  
+
+- **Average House Prices**: As of recent data, property listings in Winston Heights/Mountview start at approximately $579,900. The average price for homes in the area is around $1,175,814.  
+- **Market Trends**: The community has seen a 7% year-over-year increase in average sold prices, indicating a positive appreciation trend.  
+
+---
+
+## **Investment Strategies**  
+
+Considering the neighborhood's characteristics and market trends, the following investment strategies could be viable:  
+
+- **Infill Development**: The area has seen a surge in infill developments due to its large lot sizes, making it suitable for investors interested in building modern homes or multi-family units.  
+- **Long-Term Rentals**: With its proximity to downtown Calgary and various amenities, the neighborhood is appealing to long-term tenants, ensuring steady rental income.  
+- **Fix and Flip**: The presence of older homes offers opportunities for renovation projects, allowing investors to modernize properties and potentially realize profitable returns upon resale.  
+
 # Montgomery
 # Banff Trail
 # Highland Park
