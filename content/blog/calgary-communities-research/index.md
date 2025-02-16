@@ -9985,6 +9985,74 @@ Considering the neighborhood's characteristics and market trends, the following 
 - **Fix and Flip**: The presence of older homes offers opportunities for renovation projects, allowing investors to modernize properties and potentially realize profitable returns upon resale.  
 
 # Montgomery
+
+Montgomery is a well-established neighborhood located in the northwest quadrant of Calgary, Alberta. Known for its rich history and proximity to natural attractions, it offers residents a blend of urban amenities and suburban tranquility.  
+
+---
+
+## **Nearby Amenities and Attractions**  
+
+- **Parks and Recreation**: Montgomery is adjacent to the Bow River, providing residents with access to scenic walking and biking trails. The nearby Shouldice Athletic Park offers various sports facilities, including soccer fields, baseball diamonds, and a swimming pool.  
+- **Shopping and Dining**: The neighborhood features a variety of local shops, cafes, and restaurants along Bowness Road. Additionally, Market Mall, one of Calgary's largest shopping centers, is a short drive away, offering a wide range of retail stores and services.  
+- **Educational Institutions**: Montgomery is in close proximity to the University of Calgary and the Alberta Children's Hospital, making it a convenient location for students and healthcare professionals.  
+
+---
+
+## **Housing Characteristics**  
+
+- **Construction Period**: The area saw significant development in the 1950s and 1960s, with many homes reflecting the architectural styles of that era.  
+- **Building Types**: The neighborhood predominantly features single-family detached homes. In recent years, there has been a trend toward infill development, introducing modern townhouses and duplexes that complement the existing residential landscape.  
+
+---
+
+## **Zoning Regulations**  
+
+Montgomery's zoning regulations are designed to accommodate a mix of residential and commercial developments. The area redevelopment plan encourages densification and the inclusion of multi-family units. Specific zoning bylaws may permit multiple units per lot, especially in designated areas. For precise information, consulting the City of Calgary's planning department or official zoning maps is recommended.  
+
+---
+
+## **Demographics**  
+
+- **Population**: As of the 2021 Census, Montgomery had a population of approximately 4,175 residents.  
+- **Population Growth**: The community has experienced stable population numbers over recent years, maintaining its small-community charm within the larger city context.  
+- **Average Income**: The median household income in Montgomery is around $81,948, which is slightly below the provincial average.  
+
+---
+
+## **Crime Rate**  
+
+Montgomery's crime rates are relatively moderate. The neighborhood's crime rate is approximately 3% higher than the national average, with violent crimes being 20% lower than the national average. Residents have about a 1 in 24 chance of becoming a victim of crime, positioning Montgomery as safer than 67% of cities in Alberta.  
+
+---
+
+## **Rental Market**  
+
+- **Supply and Demand**: The rental market in Montgomery is influenced by its proximity to educational institutions and healthcare facilities, leading to steady demand from students and professionals.  
+- **Average Rents**: Rental rates vary depending on property type and size. As of September 2024, the average market rental rate for townhouses/duplexes in Calgary was $2,969, reflecting a 17% increase from the previous year. Detached houses had an average rental rate of $3,364, a 7% increase year-over-year.  
+
+---
+
+## **Neighborhood Classification**  
+
+While specific classifications (A, B, C, D) are subjective, Montgomery can be considered a **'B' neighborhood**. It offers a balanced mix of amenities, reasonable property values, and a stable community atmosphere, making it appealing to both families and professionals.  
+
+---
+
+## **Real Estate Investment Potential**  
+
+- **Average House Prices**: As of February 2025, the average house price in Montgomery is approximately $654,200.  
+- **Market Trends**: The neighborhood has seen a **7.4% increase in average house prices** over the past year, indicating a healthy appreciation trend. The combination of ongoing infill developments and proximity to key city amenities suggests potential for continued property value growth.  
+
+---
+
+## **Investment Strategies**  
+
+Considering Montgomery's characteristics, several real estate investment strategies could be effective:  
+
+- **Long-Term Rentals**: The steady demand from students and healthcare professionals makes long-term rental properties a viable investment, offering consistent cash flow.  
+- **Infill Development**: The trend toward modernizing older properties presents opportunities for investors to develop new housing units, such as duplexes or townhouses, on existing lots.  
+- **Fix and Flip**: Investors can capitalize on renovating older homes to meet contemporary standards, potentially leading to profitable resale values.  
+
 # Banff Trail
 # Highland Park
 # Parkland
