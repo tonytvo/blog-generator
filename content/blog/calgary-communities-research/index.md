@@ -10053,8 +10053,75 @@ Considering Montgomery's characteristics, several real estate investment strateg
 - **Infill Development**: The trend toward modernizing older properties presents opportunities for investors to develop new housing units, such as duplexes or townhouses, on existing lots.  
 - **Fix and Flip**: Investors can capitalize on renovating older homes to meet contemporary standards, potentially leading to profitable resale values.  
 
-# Banff Trail
 # Highland Park
+
+Highland Park is a residential neighborhood located in the northwest quadrant of Calgary, Alberta. Established in 1946, it offers a blend of mid-century charm and modern amenities, making it appealing to a diverse range of residents.  
+
+---
+
+## **Nearby Amenities and Attractions**  
+
+- **Parks and Recreation**: Highland Park provides direct access to major roadways, public transit, and various local amenities. The neighborhood is also recognized for its community events and active residents' association.  
+- **Shopping and Dining**: The community benefits from easy access to major roadways and public transit, facilitating convenient shopping and dining experiences in nearby commercial areas.  
+- **Educational Institutions**: Highland Park is served by Buchanan Elementary School and James Fowler High School, catering to the educational needs of the community's youth.  
+
+---
+
+## **Housing Characteristics**  
+
+- **Construction Period**: The neighborhood saw substantial development beginning in 1946, featuring a mix of mid-century bungalows and modern infills.  
+- **Building Types**: Housing options include single-family homes, duplexes, townhouses, and apartments, accommodating a variety of preferences and budgets.  
+
+---
+
+## **Zoning Regulations**  
+
+Highland Park's zoning includes residential, commercial, and industrial uses, allowing for diverse development. Specific zoning regulations may permit multiple units per lot, especially in areas designated for higher density. For detailed information, consulting the City of Calgary's planning department or official zoning maps is recommended.  
+
+---
+
+## **Demographics**  
+
+- **Population**: As of 2021, Highland Park had a population of approximately 4,105 residents.  
+- **Population Growth**: The community has experienced fluctuations, with a population of 3,792 in 2012, indicating gradual growth over the past decade.  
+- **Average Income**: The median household income in 2020 was $65,000, which is below Calgary's median of $98,000.  
+
+---
+
+## **Crime Rate**  
+
+Highland Park has a Livability Score of 76/100. However, crime rates are reported to be 22% higher than the Calgary average, suggesting a need for awareness and community engagement in safety initiatives.  
+
+---
+
+## **Rental Market**  
+
+- **Supply and Demand**: The rental market in Highland Park is influenced by its proximity to downtown and educational institutions, leading to steady demand for rental properties.  
+- **Average Rents**: Specific rental rates for Highland Park are not readily available. However, the median rent asked in Calgary is $1,833, providing a benchmark for potential rental costs in the area.  
+
+---
+
+## **Neighborhood Classification**  
+
+While classifications (A, B, C, D) are subjective, Highland Park's blend of mid-century and modern homes, along with its active community association and amenities, position it as a desirable neighborhood for both families and professionals.  
+
+---
+
+## **Real Estate Investment Potential**  
+
+- **Average House Prices**: As of February 2025, the average house price in Highland Park is approximately $601,439, reflecting a 20.8% increase over the past year.  
+- **Market Trends**: The neighborhood has seen a positive appreciation trend, with average house prices increasing by 20.8% over the past year, indicating strong investment potential.  
+
+---
+
+## **Investment Strategies**  
+
+Considering Highland Park's characteristics, several real estate investment strategies could be effective:  
+
+- **Long-Term Rentals**: The steady demand from professionals and families makes long-term rental properties a viable investment, offering consistent cash flow.  
+- **Infill Development**: The mix of older homes and available lots presents opportunities for investors to develop new housing units, such as modern infills, on existing properties.  
+- **Fix and Flip**: Investors can capitalize on renovating mid-century homes to meet contemporary standards, potentially leading to profitable resale values.  
+
 # Parkland
 # Country Hills
 # Sunnyside
