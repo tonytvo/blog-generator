@@ -10192,6 +10192,45 @@ Considering Parkland's characteristics, several real estate investment strategie
 - **Buy and Hold**: With strong appreciation trends, purchasing property in Parkland for long-term investment can yield solid returns over time.  
 
 # Country Hills
+
+Country Hills is a residential neighborhood located in the northwest quadrant of Calgary, Alberta. Established in 1990, it is bounded by Country Hills Boulevard to the north, Beddington Trail to the south, Harvest Hills Boulevard to the east, and the Country Hills Golf Club to the southwest. citeturn0search19
+
+**Nearby Amenities and Attractions:**
+- **Shopping and Services:** The neighborhood is in close proximity to the Country Hills Town Centre, an outdoor mall with over 50 stores, serving communities like Harvest Hills and Coventry Hills. citeturn0search14
+- **Recreation:** Residents have access to the Country Hills Golf Club, which began construction in 1989 and opened in 1992, with the clubhouse and fully developed course opening in 1999. citeturn0search19
+- **Libraries and Community Centers:** The Country Hills Library, located at 11950 Country Village Link N.E. in VIVO (formerly Cardel Place), serves the community. citeturn0search19
+
+**Housing Characteristics:**
+- **Construction Period:** The majority of homes in Country Hills were constructed in the 1990s and early 2000s, aligning with the neighborhood's establishment in 1990.
+- **Building Types:** The community predominantly features single-family detached homes. As of 2000, 9.5% of the buildings were condominiums or apartments, and 6.8% of the housing was used for renting. citeturn0search19
+
+**Zoning Regulations:**
+Calgary's zoning laws, known as "land use bylaws," determine land usage within the city. Each area is assigned a specific zone—residential, commercial, industrial, or mixed-use—that dictates the types of buildings and activities permitted. To determine if zoning regulations in Country Hills allow for more units per lot, it's essential to consult the specific zoning designation for the property in question. The City of Calgary's official website or the Community Guide to the Planning Process can provide detailed information on zoning regulations. citeturn0search10
+
+**Demographics:**
+- **Population:** As of the 2021 Census, Country Hills had a population of 3,660 residents. citeturn0search2
+- **Population Growth:** Between 2011 and 2016, Calgary experienced a population growth of 13%, with Country Hills contributing to this increase. citeturn0search15
+- **Average Income:** In 2020, the median total household income in Country Hills was $97,000, closely aligning with Calgary's median of $98,000. citeturn0search2
+
+**Crime Rate:**
+Country Hills has experienced fluctuations in crime rates over the years. For instance, in 2023, the crime rate was 2.5 incidents per 100 residents, a decrease from previous years. citeturn0search19
+
+**Rental Market:**
+- **Supply and Demand:** The rental market in Calgary has been robust, with multi-residential rental properties remaining highly sought after, reflecting higher rents and low vacancy rates. citeturn0search16
+- **Average Rents:** While specific data for Country Hills isn't provided, Calgary's strong rental market suggests competitive rental rates in the area.
+
+**Neighborhood Classification:**
+Based on available data, Country Hills can be classified as a B neighborhood. This classification reflects its stable property values, moderate crime rates, and a mix of amenities that cater to residents' needs.
+
+**Real Estate Investment Potential:**
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with single residential property values increasing by 14% and condominiums by 22% for the 2025 assessment year. This trend suggests strong long-term appreciation potential for properties in Country Hills. citeturn0search16
+- **Average House Prices:** The average price of homes in Country Hills is approximately $488,425. citeturn0search13
+
+**Suitable Real Estate Investment Strategies:**
+- **Single-Family Rentals:** Given the neighborhood's predominance of single-family homes, investing in rental properties can provide stable income, especially with Calgary's strong rental market.
+- **Condominium Investments:** With a portion of the housing stock comprising condominiums or apartments, investing in these properties can cater to individuals or small families seeking rental options.
+- **Long-Term Hold:** Considering the projected property value appreciation, a long-term investment strategy could yield substantial returns.
+
 # Sunnyside
 # South Calgary
 # Fairview
