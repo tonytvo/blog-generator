@@ -10232,6 +10232,46 @@ Based on available data, Country Hills can be classified as a B neighborhood. Th
 - **Long-Term Hold:** Considering the projected property value appreciation, a long-term investment strategy could yield substantial returns.
 
 # Sunnyside
+
+## **1. Nearby Amenities and Attractions**
+- **Kensington Village:** A vibrant district with boutique shops, restaurants, cafes, and entertainment venues, offering residents a lively urban experience.
+- **Parks and Recreation:** The neighborhood is bordered by parks and riverside greenspaces, providing ample opportunities for outdoor activities.
+- **Public Transportation:** Sunnyside is well-served by public transit, with the Sunnyside C-Train station offering convenient access to downtown Calgary and other parts of the city.
+
+## **2. Housing Characteristics**
+- **Construction Period:** Sunnyside’s architecture is diverse, reflecting its history. It was originally developed in the late 1800s, with early homes constructed in the 1880s. Over the years, many original buildings have been replaced with modern homes.
+- **Common Building Type:** The community features a blend of single-family homes, modern mid-rise high-density housing, neighborhood corner stores, restaurants, and walk-up apartment buildings.
+
+## **3. Zoning Regulations**
+- Sunnyside has an area redevelopment plan that allows for a mix of residential densities, including single-family homes, townhouses, and low-rise apartments, supporting a diverse housing stock.
+- Certain lots may permit increased density, making multi-unit development possible. It is essential to check specific zoning details with the City of Calgary.
+
+## **4. Demographics**
+- **Population:** Approximately 4,000 residents.
+- **Population Growth:** A stable population, with minor fluctuations over the years.
+- **Median Age:** Around 33.8 years, indicating a younger demographic.
+- **Average Household Income:** Approximately $69,500, lower than the city’s median.
+
+## **5. Crime Rate**
+- The crime rate in Sunnyside is around the Calgary average. The total crime rate is 4,221 incidents per 100,000 people, with a 1 in 24 chance of being a victim.
+
+## **6. Rental Market**
+- **Supply and Demand:** Sunnyside’s proximity to downtown and its vibrant community make it a desirable rental location, leading to strong rental demand.
+- **Average Rents:** Calgary’s rental market has been strong, with higher rents and low vacancy rates, making Sunnyside an attractive rental market.
+
+## **7. Neighborhood Classification**
+- Sunnyside can be classified as a **B neighborhood**, characterized by stable property values, moderate crime rates, and a mix of amenities that cater to residents.
+
+## **8. Real Estate Investment Potential**
+- **Long-Term Appreciation vs. Current Returns:** Property values in Calgary have been rising, with single residential property values increasing by 14% and condominiums by 22% in the latest assessment year. Sunnyside is expected to see continued appreciation.
+- **Average House Prices:** Approximately **$747,840**.
+
+## **9. Suitable Real Estate Investment Strategies**
+- **Single-Family Rentals:** A good option due to high rental demand.
+- **Condominium Investments:** The area has a mix of condos, making them a viable investment for rental or resale.
+- **Multi-Unit Development:** Depending on zoning regulations, increasing density on lots could be a profitable investment.
+- **Long-Term Hold:** Given the appreciation trends, holding onto property for long-term gains could be a strong strategy.
+
 # South Calgary
 # Fairview
 # Inglewood
