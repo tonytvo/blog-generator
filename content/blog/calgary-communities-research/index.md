@@ -10273,6 +10273,45 @@ Based on available data, Country Hills can be classified as a B neighborhood. Th
 - **Long-Term Hold:** Given the appreciation trends, holding onto property for long-term gains could be a strong strategy.
 
 # South Calgary
+
+## **1. Nearby Amenities and Attractions**
+- **Marda Loop:** One of Calgary's largest outdoor shopping areas, featuring over 150 boutiques, restaurants, and cafes, making it a major attraction for residents.
+- **Parks and Recreation:** The community is close to South Calgary Park, which provides sports fields, a swimming pool, playgrounds, and open green spaces.
+- **Public Transportation:** Well-connected with Calgary Transit, offering easy access to downtown and other parts of the city.
+
+## **2. Housing Characteristics**
+- **Construction Period:** The neighborhood has a mix of historic homes from the early to mid-20th century and modern developments, including contemporary infills and condos.
+- **Common Building Type:** A blend of single-family detached homes, semi-detached houses, townhouses, and low to mid-rise condominium buildings.
+
+## **3. Zoning Regulations**
+- South Calgary has a mix of zoning designations that allow for various housing densities, including single-family homes and multi-family developments.
+- Certain areas permit higher density, allowing for additional units per lot, making it attractive for redevelopment and investment opportunities.
+
+## **4. Demographics**
+- **Population:** Approximately 4,555 residents.
+- **Median Age:** Around 36 years, indicating a relatively young and active population.
+- **Average Household Income:** Approximately **$134,608**, making it an affluent neighborhood.
+
+## **5. Crime Rate**
+- The crime rate in South Calgary is **14% lower than the national average**, with violent crimes **33% lower than the national average**, making it a relatively safe community.
+
+## **6. Rental Market**
+- **Supply and Demand:** Strong rental demand due to the neighborhood’s desirable location, mixed housing stock, and proximity to key amenities.
+- **Average Rents:** The overall rental market in Calgary has seen **steady increases**, with multi-residential rental rates reaching an average of **$2,225**, reflecting a **5.7% year-over-year increase**.
+
+## **7. Neighborhood Classification**
+- **B Neighborhood:** South Calgary falls into the **B category**, meaning it has stable property values, moderate crime rates, and good amenities that attract tenants and buyers alike.
+
+## **8. Real Estate Investment Potential**
+- **Long-Term Appreciation vs. Current Returns:** Home values in Calgary have been increasing, with an average year-over-year growth of **5.1%**. South Calgary is expected to experience continued appreciation.
+- **Average House Prices:** The average home price in South Calgary is around **$742,687**, with property values ranging from **$214,900 to $2,499,900**, depending on size and type.
+
+## **9. Suitable Real Estate Investment Strategies**
+- **Single-Family Rentals:** Investing in single-family homes can provide stable long-term rental income.
+- **Condominium Investments:** A good option for attracting young professionals and smaller households.
+- **Multi-Unit Development:** Given zoning allowances, developing higher-density housing or secondary suites can be a strong strategy.
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns.
+
 # Fairview
 # Inglewood
 # Charleswood
