@@ -10313,6 +10313,43 @@ Based on available data, Country Hills can be classified as a B neighborhood. Th
 - **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns.
 
 # Fairview
+
+## 1. **Nearby Amenities and Attractions**
+- **Shopping and Services:** Fairview is conveniently located near major commercial hubs, including the Chinook Centre, one of Calgary's largest shopping malls, offering a wide array of retail stores, dining options, and entertainment facilities.
+- **Parks and Recreation:** The neighborhood provides access to various parks and recreational facilities, promoting an active lifestyle for residents.
+- **Transportation:** Fairview is well-connected through major roadways and public transit, facilitating easy access to other parts of Calgary.
+
+## 2. **Housing Characteristics**
+- **Construction Period:** The majority of homes in Fairview were constructed in the late 1950s and early 1960s, reflecting the architectural styles of that era.
+- **Common Building Types:** The neighborhood predominantly features single-family detached bungalows, many situated on spacious lots. Approximately 18.9% of the buildings are condominiums or apartments, and 27.9% of the housing is used for renting.
+
+## 3. **Zoning Regulations**
+- Fairview's zoning is primarily residential, with designations that support single-family homes and certain multi-family developments. Specific zoning regulations may allow for increased density on particular lots; however, it's essential to consult the City of Calgary's official resources for detailed information.
+
+## 4. **Demographics**
+- **Population:** As of the 2021 Census, Fairview had a population of 3,675 residents.
+- **Median Age:** The median age in Fairview is approximately 39.8 years, slightly higher than Calgary's median of 37.4 years.
+- **Average Income:** In 2020, the median total household income in Fairview was $84,000, compared to Calgary's median of $98,000.
+
+## 5. **Crime Rate**
+- Fairview's crime rates are 15% higher than the national average. Violent crimes in Fairview are 10% lower than the national average, indicating that while overall crime is slightly elevated, violent crime remains comparatively lower.
+
+## 6. **Rental Market**
+- **Supply and Demand:** The neighborhood's mix of housing types, including a notable proportion of rental properties, suggests a balanced rental market.
+- **Average Rents:** Specific rental data for Fairview is limited; however, Calgary's overall rental market has experienced growth. As of February 2025, the average home price in Calgary was $612,838, reflecting a 5.1% year-over-year increase. This upward trend in home prices often correlates with rising rental rates.
+
+## 7. **Neighborhood Classification**
+- Based on available data, Fairview can be classified as a **B neighborhood**. This classification reflects stable property values, moderate crime rates, and access to essential amenities, making it attractive for both homeowners and investors.
+
+## 8. **Real Estate Investment Potential**
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has demonstrated resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Fairview's established community and desirable location suggest potential for steady appreciation over time.
+- **Average House Prices:** The average price of homes in Fairview is approximately $634,447, with prices ranging from $598,888 to $699,999, depending on property specifics.
+
+## 9. **Suitable Real Estate Investment Strategies**
+- **Single-Family Rentals:** Investing in single-family homes for rental purposes can provide stable income, given the neighborhood's desirability and rental demand.
+- **Renovation and Resale:** Considering the age of many properties, opportunities exist for purchasing older homes, renovating them, and selling at a profit.
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
 # Inglewood
 # Charleswood
 # Elbow Park
