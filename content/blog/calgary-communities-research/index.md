@@ -10351,6 +10351,63 @@ Based on available data, Country Hills can be classified as a B neighborhood. Th
 - **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
 
 # Inglewood
+
+Inglewood, established in 1875, is Calgary's oldest neighborhood, located just east of downtown along 9th Avenue SE. It offers a unique blend of historic charm and modern amenities, making it a vibrant community for residents and investors alike.
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Dining:** Inglewood is renowned for its eclectic mix of over 100 shops, boutiques, eateries, and breweries, attracting both locals and tourists.
+
+- **Cultural Sites:** The neighborhood is home to several cultural attractions, including the historic Deane House and proximity to Fort Calgary Historic Park.
+
+- **Nature Reserves:** Residents enjoy access to natural spaces such as the Inglewood Bird Sanctuary and Inglewood Wildlands Park, offering urban wildlife refuges and recreational opportunities.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many homes in Inglewood date back to the early 20th century, reflecting the neighborhood's long history.
+
+- **Building Types:** The area features a mix of single-family detached homes, semi-detached houses, townhouses, and low-rise condominium buildings, catering to diverse housing preferences.
+
+**Zoning Regulations:**
+
+Inglewood's zoning primarily supports residential development, with allowances for both single-family and multi-family dwellings. Specific zoning regulations may permit increased density on certain lots; however, it's essential to consult the City of Calgary's official resources for detailed information.
+
+**Demographics:**
+
+- **Population:** As of the 2021 Census, Inglewood had a population of 4,130 residents.
+
+- **Median Age:** The neighborhood has a diverse age distribution, with 12% of residents aged 0-14 years and 11% aged 65 and over.
+
+- **Average Income:** The median household income in Inglewood is approximately $92,602, slightly lower than the Alberta average.
+
+**Crime Rate:**
+
+Inglewood's crime rates are 3% higher than the national average, with violent crimes being 19% lower than the national average. Residents have a 1 in 23 chance of becoming a victim of crime, making it safer than 66% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** The neighborhood's appeal and proximity to downtown Calgary contribute to a strong rental demand.
+
+- **Average Rents:** As of March 2025, the median rent for all bedroom counts and property types in Inglewood is $1,956, slightly lower than the national average.
+
+**Neighborhood Classification:**
+
+Based on available data, Inglewood can be classified as a B neighborhood. This classification reflects stable property values, moderate crime rates, and access to essential amenities, making it attractive for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Inglewood's unique character and central location suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Inglewood is approximately $861,284, with prices ranging from $300,000 to over $1 million, depending on property specifics.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Single-Family Rentals:** Investing in single-family homes for rental purposes can provide stable income, given the neighborhood's desirability and rental demand.
+
+- **Renovation and Resale:** Considering the age of many properties, opportunities exist for purchasing older homes, renovating them, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
 # Charleswood
 # Elbow Park
 # Rosscarrock
