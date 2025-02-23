@@ -10409,6 +10409,46 @@ Based on available data, Inglewood can be classified as a B neighborhood. This c
 - **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
 
 # Charleswood
+
+## **1. Nearby Amenities and Attractions**
+- **Parks and Recreation:** Charleswood is adjacent to **Nose Hill Park**, one of Calgary’s largest natural parks, offering extensive trails and natural landscapes. **Confederation Park** is also nearby, featuring picnic areas, walking paths, and a golf course.
+- **Education:** The neighborhood is close to the **University of Calgary**, making it convenient for students and faculty.
+- **Shopping and Services:** Residents have easy access to **Brentwood Village Shopping Centre** and **Northland Village Mall**, offering grocery stores, retail shops, and dining options.
+
+## **2. Housing Characteristics**
+- **Construction Period:** The majority of homes were built in the **late 1950s and early 1960s**, featuring mid-century architectural styles.
+- **Common Building Type:** The neighborhood is predominantly composed of **single-family detached homes**, with a smaller percentage of condominiums and rental apartments.
+
+## **3. Zoning Regulations**
+- Charleswood’s zoning is primarily **low-density residential (R-C1 and R-C2)**, supporting single-family homes and some **multi-family developments**.
+- Certain areas allow for **secondary suites and increased density**, making it attractive for redevelopment.
+
+## **4. Demographics**
+- **Population:** Approximately **3,595** residents.
+- **Median Age:** Around **41.2 years**, slightly older than Calgary’s average.
+- **Average Household Income:** Approximately **$115,000**, higher than the citywide median.
+
+## **5. Crime Rate**
+- **20% lower than the national average**, making it a relatively safe neighborhood.
+- **Violent crimes are 37% lower** than the national average.
+
+## **6. Rental Market**
+- **Supply and Demand:** Strong rental demand due to proximity to the **University of Calgary** and **major employment hubs**.
+- **Average Rents:** The rental market is tightening, with increasing demand and limited supply, leading to **higher rental rates**.
+
+## **7. Neighborhood Classification**
+- **B Neighborhood:** Charleswood is considered a **B-class** neighborhood due to its **stability, safety, and strong property values**.
+
+## **8. Real Estate Investment Potential**
+- **Long-Term Appreciation vs. Current Returns:** Calgary’s market has shown consistent **5.1% year-over-year price growth**, and Charleswood’s strong fundamentals suggest continued appreciation.
+- **Average House Prices:** Around **$1,468,900**, with properties ranging from **$1.4M to $1.5M**, depending on size and features.
+
+## **9. Suitable Real Estate Investment Strategies**
+- **Single-Family Rentals:** Good for stable, long-term income due to strong rental demand.
+- **Renovation and Resale (Flipping):** Many homes are older, offering opportunities for **value-add renovations**.
+- **Long-Term Hold:** Ideal for capital appreciation, as property values in the area continue to rise.
+- **Multi-Unit Development:** With the right zoning approvals, adding **secondary suites or multi-family conversions** could enhance rental yield.
+
 # Elbow Park
 # Rosscarrock
 # Sunalta
