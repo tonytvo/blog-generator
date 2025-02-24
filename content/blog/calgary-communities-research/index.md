@@ -10450,6 +10450,63 @@ Based on available data, Inglewood can be classified as a B neighborhood. This c
 - **Multi-Unit Development:** With the right zoning approvals, adding **secondary suites or multi-family conversions** could enhance rental yield.
 
 # Elbow Park
+
+Elbow Park is a prestigious residential neighborhood located in the southwest quadrant of Calgary, Alberta. Established in 1910, it is one of the city's oldest and most affluent communities, offering a blend of historic charm and modern amenities.
+
+**Nearby Amenities and Attractions:**
+
+- **Parks and Recreation:** Elbow Park is bordered by the Elbow River, providing residents with scenic walking and biking paths. The neighborhood is adjacent to River Park and Stanley Park, offering green spaces, playgrounds, and picnic areas.
+
+- **Shopping and Dining:** Proximity to the vibrant Mission district and 17th Avenue SW provides a variety of boutique shops, restaurants, and cafes.
+
+- **Educational Institutions:** The community is served by Elbow Park Elementary School and is near other reputable schools, making it ideal for families.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many homes in Elbow Park were built in the early to mid-20th century, reflecting classic architectural styles.
+
+- **Building Types:** The neighborhood predominantly features single-family detached homes, with a small percentage of condominiums or apartments.
+
+**Zoning Regulations:**
+
+Elbow Park's zoning is primarily residential, focusing on maintaining its low-density character. Specific zoning regulations may allow for increased density on certain lots; however, it's essential to consult the City of Calgary's official resources for detailed information.
+
+**Demographics:**
+
+- **Population:** As of the 2021 Census, Elbow Park had a population of approximately 3,553 residents.
+
+- **Median Age:** The median age in Elbow Park is 44 years, indicating a mature community.
+
+- **Average Income:** The average individual income in Elbow Park is approximately $474,622, significantly higher than the provincial average.
+
+**Crime Rate:**
+
+Elbow Park is considered a safe community, with crime rates 60% lower than the national average. Violent crimes are 69% lower than the national average, providing residents with a secure living environment.
+
+**Rental Market:**
+
+- **Supply and Demand:** Given the neighborhood's affluence and predominance of owner-occupied homes, rental properties are limited, leading to high demand.
+
+- **Average Rents:** The average rental estimate in Elbow Park is approximately $6,852 per month, reflecting the area's exclusivity.
+
+**Neighborhood Classification:**
+
+Elbow Park can be classified as an A neighborhood, characterized by high property values, low crime rates, and superior amenities.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Elbow Park has experienced significant property appreciation over the years. While rental yields may be moderate due to high property values, long-term capital appreciation potential remains strong.
+
+- **Average House Prices:** As of March 2025, the average house price in Elbow Park is approximately $2,025,081, with properties ranging from $899,000 to $4,900,000, depending on size, location, and features.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Luxury Home Development:** Investing in high-end custom homes caters to the affluent market attracted to Elbow Park.
+
+- **Long-Term Hold:** Given the neighborhood's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older homes, renovating them to modern standards, and selling at a premium.
+
 # Rosscarrock
 # Sunalta
 # Palliser
