@@ -10508,6 +10508,63 @@ Elbow Park can be classified as an A neighborhood, characterized by high propert
 - **Renovation and Resale:** Opportunities exist for purchasing older homes, renovating them to modern standards, and selling at a premium.
 
 # Rosscarrock
+
+Rosscarrock is a residential neighborhood located in the southwest quadrant of Calgary, Alberta. Established in 1954, it offers a mix of housing options and is strategically positioned near various amenities, making it a notable area for real estate investment.
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Services:** The neighborhood is adjacent to Westbrook Mall, providing residents with access to numerous retail stores, dining options, and essential services.
+
+- **Recreation:** Proximity to the Shaganappi Point Golf Course and several parks offers recreational opportunities for residents.
+
+- **Transportation:** Rosscarrock benefits from convenient access to public transit, including the Westbrook LRT Station, facilitating easy commutes to downtown Calgary and other parts of the city.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many homes in Rosscarrock were built during the 1950s and 1960s, reflecting the architectural styles of that era.
+
+- **Building Types:** The neighborhood features a diverse housing stock, including single-family detached homes, semi-detached houses, townhouses, and low-rise apartment buildings. Approximately 53.3% of the buildings are condominiums or apartments, and 65.8% of the housing is used for renting.
+
+**Zoning Regulations:**
+
+Rosscarrock's zoning accommodates a mix of residential densities, allowing for single-family homes as well as multi-family developments. Certain areas permit higher density housing, enabling the development of additional units per lot, which can be advantageous for investors interested in redevelopment opportunities.
+
+**Demographics:**
+
+- **Population:** As of the 2021 Census, Rosscarrock had a population of 3,490 residents.
+
+- **Median Age:** The population distribution includes 15% aged 0-14 years and 10% aged 65 and over, indicating a diverse age range.
+
+- **Average Income:** The median total household income in 2020 was $68,500, which is lower than Calgary's median of $98,000.
+
+**Crime Rate:**
+
+Rosscarrock's crime rates are 11% higher than the national average, with violent crimes being 13% lower than the national average. Residents have a 1 in 22 chance of becoming a victim of crime, and the community is considered safer than 60% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** With a significant proportion of rental properties (65.8%), there is a robust rental market catering to various demographics, including students, professionals, and families.
+
+- **Average Rents:** Specific rental data for Rosscarrock is limited; however, Calgary's overall rental market has experienced growth. As of September 2024, the average market rental rate for multi-residential units, including apartments and condominiums, was $2,225, reflecting a 5.7% increase since September 2023.
+
+**Neighborhood Classification:**
+
+Based on available data, Rosscarrock can be classified as a C neighborhood. This classification reflects moderate property values, average crime rates, and access to essential amenities, making it a viable option for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Rosscarrock's strategic location and diverse housing options suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Rosscarrock is approximately $855,000, with properties ranging from $300,000 to over $1 million, depending on size, condition, and specific location within the neighborhood.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Multi-Family Rentals:** Investing in duplexes, triplexes, or apartment buildings can capitalize on the strong rental demand in the area.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older homes, renovating them to modern standards, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
 # Sunalta
 # Palliser
 # Coach Hill
