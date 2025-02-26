@@ -10566,6 +10566,62 @@ Based on available data, Rosscarrock can be classified as a C neighborhood. This
 - **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
 
 # Sunalta
+
+Sunalta is an established inner-city neighborhood in Calgary, Alberta, known for its diverse housing options and proximity to downtown. Established in 1910, it offers a blend of residential and commercial amenities, making it a notable area for real estate investment.
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Services:** Sunalta residents have access to various retail and dining options along 17th Avenue SW, a vibrant commercial corridor offering boutiques, restaurants, and cafes.
+
+- **Recreation:** The community is near Shaw Millennium Park, providing recreational facilities such as skate parks and green spaces.
+
+- **Transportation:** The Sunalta LRT Station offers convenient public transit access, connecting residents to downtown Calgary and other parts of the city.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many homes in Sunalta were built in the early 20th century, reflecting historic architectural styles.
+
+- **Building Types:** The neighborhood features a mix of housing options, with approximately 85.8% being condominiums or apartments, and 76% of the housing used for renting.
+
+**Zoning Regulations:**
+
+Sunalta's zoning accommodates a mix of residential densities, allowing for single-family homes as well as multi-family developments. Specific zoning regulations may permit increased density on certain lots; however, it's essential to consult the City of Calgary's official resources for detailed information.
+
+**Demographics:**
+
+- **Population:** As of the 2019 Civic Census, Sunalta had a population of 3,239 residents.
+
+- **Median Income:** The median household income in Sunalta is approximately $32,409, which is lower than the city average.
+
+**Crime Rate:**
+
+Sunalta's crime rates are 14% higher than the national average, with violent crimes being 11% lower than the national average. Residents have a 1 in 21 chance of becoming a victim of crime, and the community is considered safer than 58% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** With a significant proportion of rental properties (76%), there is a robust rental market catering to various demographics, including students, professionals, and families.
+
+- **Average Rents:** As of March 2025, the median rent for all bedroom counts and property types in Sunalta is $2,395, which is 22% higher than the national average.
+
+**Neighborhood Classification:**
+
+Based on available data, Sunalta can be classified as a C neighborhood. This classification reflects moderate property values, average crime rates, and access to essential amenities, making it a viable option for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Sunalta's strategic location and diverse housing options suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Sunalta is approximately $330,507, with properties ranging from $182,000 to higher, depending on size, condition, and specific location within the neighborhood.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Multi-Family Rentals:** Investing in apartment buildings can capitalize on the strong rental demand in the area.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older properties, renovating them to modern standards, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
+
 # Palliser
 # Coach Hill
 # Lower Mount Royal
