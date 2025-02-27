@@ -10621,8 +10621,64 @@ Based on available data, Sunalta can be classified as a C neighborhood. This cla
 
 - **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
 
-
 # Palliser
+
+Palliser is a residential neighborhood located in the southwest quadrant of Calgary, Alberta. Established in 1967 and named after the explorer John Palliser, it offers a blend of housing options and amenities that appeal to a diverse population.
+
+**Nearby Amenities and Attractions:**
+
+- **Parks and Recreation:** Palliser is home to the Tom Brook Athletic Park, providing residents with green spaces and recreational facilities. Additionally, the South Glenmore Park and the Glenmore Reservoir are nearby, offering walking trails, picnic areas, and water-based activities.
+
+- **Shopping and Services:** The neighborhood is in proximity to the Glenmore Landing shopping center, which offers various retail stores, restaurants, and essential services.
+
+- **Education:** Palliser is served by several schools, including Nellie McClung Elementary School and John Ware Junior High School, catering to the educational needs of the community.
+
+**Housing Characteristics:**
+
+- **Construction Period:** The majority of homes in Palliser were constructed between the late 1960s and early 1970s, reflecting the architectural styles of that era.
+
+- **Building Types:** The neighborhood features a mix of single-family detached homes, townhouses, and low-rise apartment buildings. Approximately 40.1% of the buildings are condominiums or apartments, and 36.8% of the housing is used for renting.
+
+**Zoning Regulations:**
+
+Palliser's zoning is primarily residential, with designations that accommodate single-family homes, duplexes, and multi-family units. Specific zoning bylaws may allow for increased density on certain lots, enabling the development of additional units per property. Prospective investors should consult the City of Calgary's planning department to understand the exact zoning regulations and any potential for redevelopment.
+
+**Demographics:**
+
+- **Population:** As of the 2012 municipal census, Palliser had a population of 3,293 residents. The population has remained relatively stable over the years, with a slight decrease from 3,301 in 2011.
+
+- **Median Age:** The median age in Palliser is 48.8 years, which is higher than Calgary's median of 37.4 years, indicating a mature community.
+
+- **Average Income:** The median household income in Palliser was $75,500 in 2020, compared to Calgary's median of $98,000. The median income for individuals aged 15 and over was $42,800.
+
+**Crime Rate:**
+
+Palliser's crime rates are 8% higher than the national average, with violent crimes being 16% lower than the national average. Residents have a 1 in 22 chance of becoming a victim of crime, and the community is considered safer than 63% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** With 36.8% of the housing used for renting, Palliser has a substantial rental market. The demand for rental properties is steady, catering to various demographics, including young professionals, families, and retirees.
+
+- **Average Rents:** Specific rental data for Palliser is limited; however, Calgary's overall rental market has experienced growth. As of February 2025, the average rent for a two-bedroom apartment in Calgary was approximately $1,450 per month.
+
+**Neighborhood Classification:**
+
+Based on available data, Palliser can be classified as a B neighborhood. This classification reflects stable property values, a mature population, and access to essential amenities, making it attractive for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Palliser's stable population and desirable location suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Palliser is approximately $476,171, with properties ranging from $264,500 to $849,900, depending on size, condition, and specific location within the neighborhood.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Multi-Family Rentals:** Investing in duplexes, triplexes, or apartment buildings can capitalize on the existing rental demand in the area.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older homes, renovating them to modern standards, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential and stable rental market, holding properties for capital growth and consistent rental income can yield substantial returns over time.
+
 # Coach Hill
 # Lower Mount Royal
 # Westgate
