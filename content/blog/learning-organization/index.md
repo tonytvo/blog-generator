@@ -1,12 +1,8 @@
 ---
 title: learning organization - wip
-date: "2021-12-27T22:12:03.284Z"
+date: "2025-03-01T22:12:03.284Z"
 description: "learning organization"
 tags: ["productivity", "learning"]
----
-
-Here is a detailed outline of *The Fifth Discipline: The Art & Practice of The Learning Organization* by Peter M. Senge:
-
 ---
 
 # **PART I: HOW OUR ACTIONS CREATE OUR REALITY … AND HOW WE CAN CHANGE IT**
