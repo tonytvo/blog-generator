@@ -1683,7 +1683,7 @@ By using **Domain Events, State Transitions, and Commands effectively**, teams c
 
 By transitioning **from paper-based EventStorming models to working software**, teams create systems that are **better aligned with business goals, user needs, and real-world constraints**.
 
-## **Patterns and Anti-Patterns**  
+# **Patterns and Anti-Patterns**  
 
 > **"Patterns help us structure successful EventStorming sessions, while anti-patterns warn us about common pitfalls that can derail them."**  
 
@@ -1691,49 +1691,49 @@ EventStorming sessions **thrive on open, dynamic exploration**, but they can als
 
 ---
 
-### **Effective Strategies**  
+## **Effective Strategies**  
 
 > **"A well-facilitated EventStorming session flows naturally, allowing insights to emerge effortlessly."**  
 
-#### **1. Add More Space**  
+### **1. Add More Space**  
 > **"Even if we start the workshop with the promise of unlimited modeling space, we will quickly hit the boundaries of our modeling surface."**  
 
 - **EventStorming thrives on an expansive workspace**—**restricting the physical area limits exploration**.  
 - **Solution** → If space starts to feel constrained, **expand the modeling surface immediately** rather than compressing details.  
 
-#### **2. Be the Worst**  
+### **2. Be the Worst**  
 > **"Nobody wants to look stupid in a meeting. But sometimes, being the worst can unlock participation."**  
 
 - **If no one wants to place the first sticky note**, **place one yourself—but deliberately make it wrong**.  
 - This encourages **others to jump in and correct mistakes**, sparking discussion and reducing **fear of failure**.  
 
-#### **3. Conquer First, Divide Later**  
+### **3. Conquer First, Divide Later**  
 > **"Prematurely dividing the problem into isolated parts kills creativity."**  
 
 - **Many teams instinctively break problems into smaller segments too early**.  
 - Instead, **explore everything broadly first, then identify natural divisions**.  
 - **Narrowing too soon** means missing **valuable interactions between parts of the system**.  
 
-#### **4. Do First, Explain Later**  
+### **4. Do First, Explain Later**  
 > **"Understanding comes from action, not from long theoretical explanations."**  
 
 - Instead of **starting with lengthy theoretical instructions**, **let participants jump in and experiment**.  
 - **Hands-on engagement triggers faster learning and deeper discussions**.  
 
-#### **5. Use Fuzzy Definitions**  
+### **5. Use Fuzzy Definitions**  
 > **"Insisting on rigid definitions too early prevents diverse perspectives from emerging."**  
 
 - In the early phase of EventStorming, **allow multiple interpretations**.  
 - If two participants **disagree on a term**, **write both down instead of forcing a consensus**.  
 - **Rigid definitions too early** stifle creativity and **narrow exploration**.  
 
-#### **6. Guess First**  
+### **6. Guess First**  
 > **"When learners are allowed to guess, they engage more deeply in the process."**  
 
 - Instead of passively **waiting for explanations**, participants should **attempt to describe system behaviors**.  
 - **If they’re wrong, a discussion follows—creating a stronger learning experience**.  
 
-#### **7. Mark Hot Spots**  
+### **7. Mark Hot Spots**  
 > **"Not every problem needs to be solved in real-time—but it should be made visible."**  
 
 - **Use purple sticky notes** to flag **uncertainties, risks, or disagreements**.  
@@ -1741,53 +1741,53 @@ EventStorming sessions **thrive on open, dynamic exploration**, but they can als
 
 ---
 
-### **Common Pitfalls to Avoid**  
+## **Common Pitfalls to Avoid**  
 
 > **"Even a well-intended EventStorming session can fail if it falls into one of these common traps."**  
 
-#### **1. The Big Table at the Center of the Room**  
+### **1. The Big Table at the Center of the Room**  
 > **"Big tables force people to choose seats, creating artificial group divisions."**  
 
 - **A large central table makes collaboration harder** because people **become less mobile**.  
 - **Solution** → Remove tables **to encourage standing, movement, and interaction**.  
 
-#### **2. The Committee Trap**  
+### **2. The Committee Trap**  
 > **"Committees slow everything down, reducing the group’s bandwidth for parallel exploration."**  
 
 - **Small groups debating what to write on sticky notes** kill spontaneity.  
 - **Solution** → Break committees **before they form** by encouraging **parallel writing**.  
 
-#### **3. Divide and Conquer Too Early**  
+### **3. Divide and Conquer Too Early**  
 > **"Focusing too soon forces artificial boundaries onto the problem."**  
 
 - Some teams **immediately try to break the problem into smaller parts** instead of **exploring holistically**.  
 - **Solution** → Encourage **freeform exploration first**, then **find meaningful separations later**.  
 
-#### **4. The Dungeon Master**  
+### **4. The Dungeon Master**  
 > **"A facilitator who controls every detail stifles participation."**  
 
 - If the facilitator **answers every question** or **drives every decision**, **participants disengage**.  
 - **Solution** → Encourage **participants to take ownership of discoveries**.  
 
-#### **5. Follow the Leader**  
+### **5. Follow the Leader**  
 > **"One dominant voice can overshadow the collective intelligence of the group."**  
 
 - **A strong leader dictating solutions prevents others from contributing.**  
 - **Solution** → Distribute engagement **by encouraging quieter voices to contribute first**.  
 
-#### **6. The Human Bottleneck**  
+### **6. The Human Bottleneck**  
 > **"If one person becomes the single point of truth, collaboration stops."**  
 
 - When **a single domain expert answers every question**, **the rest of the team waits instead of thinking critically**.  
 - **Solution** → Rotate leadership and **force participants to generate hypotheses before seeking validation**.  
 
-#### **7. Precise Notation Too Early**  
+### **7. Precise Notation Too Early**  
 > **"Requiring a rigid format kills flexibility and excludes non-experts."**  
 
 - If facilitators **enforce strict UML-like notation**, it **scares off non-technical participants**.  
 - **Solution** → Keep notation **light and flexible**, ensuring **all participants can engage**.  
 
-#### **8. The Karaoke Singer**  
+### **8. The Karaoke Singer**  
 > **"Some people love the sound of their own voice, dominating the conversation."**  
 
 - A participant who **talks constantly without engaging others** slows the session down.  
@@ -1795,11 +1795,126 @@ EventStorming sessions **thrive on open, dynamic exploration**, but they can als
 
 ---
 
-### **Final Thoughts**  
+## **Final Thoughts**  
 
 > **"The success of an EventStorming session depends as much on avoiding pitfalls as it does on applying best practices."**  
 
 By **using effective strategies** and **eliminating common anti-patterns**, teams can **maximize learning, accelerate collaboration, and create truly valuable models**.
+
+---
+
+# Actors and Systems
+
+## **5.1. Interactions with People**
+Understanding the **human roles** in a business process is fundamental in EventStorming, as it helps define the key players in a given system. 
+
+- **"An actor usually represents a person or group that the process is serving."** Instead of using the generic term "user," participants are encouraged to assign **meaningful business names** to actors. Examples include:
+  - *"Attendee"* for a conference
+  - *"Instructor"* for a training session
+  - *"Conference Team"* for event organizers.
+
+- **Visualizing Actors:** It is common to use **small yellow sticky notes** to represent actors in an EventStorming timeline. Facilitators often draw **stick figures** on the notes and label them accordingly.
+
+- **UX Personas & Roles:** If an organization already has **UX personas**, these should be incorporated into the timeline instead of generic actor names. For example, a sales representative may be labeled *“Judith”* to reflect their goals and behaviors more accurately.
+
+- **Patterns in Actor Representation:**
+  1. A single actor generating a **single event** (e.g., *a workshop attendee requests a refund*).
+  2. A single actor generating **multiple events** (e.g., *a conference team prepares a profit-loss report and shares it*).
+  3. **Multiple actors collaborating** on a single event (e.g., *an attendee and an instructor interacting during a workshop*).
+
+- **Swimlanes for Role Clarity:** Adding actors can help define **swimlanes**, which represent clear role-based lanes in the workflow. This helps visualize:
+  - **Hand-offs** between actors.
+  - **Points of delay** due to dependency on another actor’s actions.
+  - **Responsibilities & Goals** of different participants in the workflow.
+
+---
+
+## **5.2. Systems**
+Mapping **external and internal system interactions** is crucial for understanding the technological dependencies within a business process.
+
+- **Definition of a System:** 
+  - **"A system represents something you integrate with that is a source or destination for events in the process."**
+  - Systems can be **internal (owned by the company)** or **external (third-party services like APIs, SaaS, or legacy systems)**.
+
+- **Examples of Systems in EventStorming:**
+  - Software **applications** (e.g., *Salesforce, Excel, Oracle*).
+  - **Cloud services** (e.g., *Amazon AWS, Microsoft Azure*).
+  - **APIs** (e.g., *email, calendar, payment gateways*).
+  - **Legacy Systems** (e.g., *older in-house applications that still play a role in the process*).
+  - **Documents and Reports** (e.g., *spreadsheets or PDFs that influence workflow decisions*).
+
+- **Systems are Non-Human Actors:** Systems act as "non-human actors" that trigger or receive events, just as humans do in a business process.
+
+- **Representation of Systems:**
+  - Systems are often visualized as **black sticky notes** (in Miro) or **gold/yellow diamond-shaped notes** (for physical workshops).
+  - EventStorming helps identify **opportunities to outsource** generic capabilities to third-party services (e.g., moving from an in-house **fraud detection system** to an external provider like Stripe or PayPal for payment processing).
+
+- **How Systems Are Layered on a Timeline:**
+  - Facilitators usually **layer actors and systems together**, allowing for easier identification of event sources (whether human or technical).
+  - This activity often uncovers **missing events**, hidden technical gaps, or overlooked software dependencies.
+
+---
+
+## **5.3. Sociotechnical Vision**
+Combining **people, processes, and technology** enables organizations to make **better decisions** by visualizing the entire **sociotechnical landscape**.
+
+- **"This is where developers and technical participants see the real value of EventStorming"** because it reveals how software and human interactions create complexity.
+
+- **Why Sociotechnical Visualization Matters:**
+  - Business processes are rarely **purely human-driven** or **purely system-driven**. Instead, they emerge as **a mix of both.**
+  - **Revealing dependencies** between teams and systems is critical.
+  - **Understanding communication bottlenecks** between business teams and IT.
+
+- **Hidden Dependencies:** 
+  - **Social dependencies**: *Who owns which decisions? Are there conflicts between teams?*
+  - **Technical dependencies**: *Which applications or third-party systems influence our processes?*
+  - EventStorming often reveals **"bottlenecks"** where a critical process relies on an external team or a third-party vendor, causing delays.
+
+- **Context Mapping for Strategic Planning:**
+  - **"Context mapping is a strategic domain-driven design (DDD) technique for showing relationships between the various language dialects at play."**
+  - This method helps teams understand **how software design should align with team structures and business needs**.
+
+- **Avoiding Technical Detours:** 
+  - **"When discussing systems, developers may get sidetracked by technical details."** 
+  - If the discussion shifts toward **integration mechanics or deployment concerns**, these should be **captured as pink sticky notes** for later discussions rather than derailing the primary business discussion.
+
+---
+
+## **5.4. SEP Fields (Somebody Else’s Problem Fields)**
+Understanding **what teams ignore** is as important as understanding what they focus on.
+
+- **Inspired by Douglas Adams' *Life, the Universe and Everything***:
+  - **"An SEP is something we can’t see, or don’t see, or our brain doesn’t let us see because we think it’s somebody else’s problem."**
+  - In organizations, these **blind spots** can lead to **major bottlenecks** in a workflow.
+
+- **Why SEP Fields Matter in Business Modeling:**
+  - **"Systems owned by others still have integration points with systems we own."**
+  - These **integration points create dependencies** that teams often **fail to acknowledge**.
+  - SEP fields often lead to **frustration** when a process is delayed by a third-party system, yet no one in the workshop initially acknowledges the delay.
+
+- **Identifying SEP Fields in EventStorming:**
+  - **Watch for "finger-pointing" discussions** – if multiple participants blame an **external system, regulation, or policy**, it might be an SEP field.
+  - **Example SEP Fields:**
+    - *Regulations like GDPR that affect data processing.*
+    - *A legacy database that everyone avoids modifying.*
+    - *A third-party vendor responsible for system outages.*
+
+- **Breaking SEP Fields:** 
+  - Facilitators should ask: *"Is this really an external problem, or is there something we can do?"*
+  - **"Sometimes a breakout group can help dig deeper into an SEP field without derailing the entire discussion."**
+  - Recognizing and documenting SEP fields helps teams proactively address **risks and inefficiencies**.
+
+---
+
+### **Conclusion**
+The **"Actors and Systems"** section of EventStorming is about **mapping out both human and technical interactions**, revealing **hidden complexities**, and **surfacing critical dependencies** that impact business processes. 
+
+- **Actors define WHO interacts in the process.**
+- **Systems define WHAT non-human elements influence the workflow.**
+- **Sociotechnical Vision helps blend business and IT perspectives.**
+- **SEP Fields uncover ignored but critical dependencies.**
+
+By incorporating these layers into an **EventStorming timeline**, organizations can **identify inefficiencies, remove bottlenecks, and create a shared understanding of their processes**.
 
 # **Reference Materials**  
 
@@ -1894,3 +2009,6 @@ By combining **clear terminology, effective tools, and a strong foundation in pr
 **"By integrating EventStorming and User Story Mapping, teams gain both deep domain insights and a structured roadmap for execution."**  
 
 # References
+- https://github.com/mariuszgil/awesome-eventstorming
+- https://leanpub.com/eventstorming_handbook
+- https://leanpub.com/introducing_eventstorming
