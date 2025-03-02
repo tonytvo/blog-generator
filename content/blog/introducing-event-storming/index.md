@@ -2052,6 +2052,214 @@ For **in-person workshops**, key terminology is often captured on **large sticky
 By exposing language messiness and systematically capturing critical terms, **EventStorming helps organizations bridge communication gaps** and create **more robust, user-friendly, and precise processes**. This approach ensures that **terminology does not become an invisible barrier** to collaboration and system integration.
 
 
+# **Policies and Decisions in EventStorming**
+
+EventStorming provides a powerful framework for understanding and improving business processes by making policies, constraints, and decisions explicit. Let's explore these key aspects in depth.
+
+---
+
+## **8.1. Making Constraints Explicit**
+**_"Uncovering hidden business rules and policies"_**
+
+Every business process operates under constraints, which could be **explicit (well-documented rules)** or **implicit (unspoken practices or assumptions)**. These constraints shape how the system operates and directly impact decision-making.
+
+### **Key Considerations**
+- **Explicit Constraints**: These are documented business rules such as “Orders must be paid before shipment.”
+- **Implicit Constraints**: These arise from historical practices, assumptions, or unspoken agreements, often leading to inefficiencies.
+
+### **Why Make Constraints Explicit?**
+- **Clarifies the decision-making process** by ensuring that all participants understand the rules governing the business.
+- **Reduces ambiguity** in system design and implementation.
+- **Improves automation potential**, allowing businesses to streamline processes.
+
+### **Example from a Workshop**
+In a workshop about handling refunds for a conference, a rule stated that a refund would only be granted under certain conditions. However, upon deeper exploration, it turned out that an **unspoken exception existed**—a refund was sometimes issued beyond the deadline if the customer had a valid reason, such as travel visa issues. **This "hidden rule" was discovered only through EventStorming discussions**.
+
+### **How to Capture Constraints**
+- Use **purple sticky notes** to indicate key business policies.
+- Discuss and document conditions **where a rule applies and where exceptions exist**.
+- Explore if any constraints are **outdated or unnecessary**, helping to **simplify the process**.
+
+---
+
+## **8.2. Magic Happens**
+**_"Understanding implicit decision points"_**
+
+### **What is "Magic" in Business Processes?**
+- "Magic" refers to **unexplained jumps or hidden complexity** in business processes.
+- It often appears when people say things like:
+  - _"Oh, that just happens!"_
+  - _"The system takes care of it."_
+  - _"Someone in accounting does that manually, but I'm not sure how."_
+
+### **Identifying Where "Magic" Happens**
+- If something **critical happens in a process, but no one understands how**, that's a red flag.
+- Example: In the Cinderella story, the **glass slipper remained after midnight** even though everything else turned back. Why? There was an **implicit exception to the rule** that was never explained.
+
+### **How to Handle Hidden Complexity**
+1. **Ask why something happens** – Encourage curiosity about processes.
+2. **Break down the process into smaller steps** – Identify where assumptions exist.
+3. **Model the unknown using questions** – If a process step is unclear, capture it as an **explicit question on a sticky note**.
+
+By exposing hidden rules, businesses can improve **efficiency, predictability, and transparency** in their operations.
+
+---
+
+## **8.3. What Else Can Happen?**
+**_"Exploring alternative scenarios"_**
+
+### **Why Consider Alternative Paths?**
+- Business processes rarely follow a **single, linear path**.
+- Unexpected scenarios often disrupt standard operations.
+
+### **Key Questions to Ask**
+- _What if the customer cancels before confirmation?_
+- _What happens if a payment fails?_
+- _What if the system crashes in the middle of a transaction?_
+
+### **Example from a Workshop**
+A workshop on **handling ticket refunds** identified two alternative scenarios:
+1. **A customer missed the refund deadline due to a travel visa issue.** Should an exception be made?
+2. **Instead of issuing a refund, could the ticket be rolled over to a future event?**.
+
+By **explicitly exploring alternative paths**, businesses can:
+- **Reduce risk** by preparing for unexpected cases.
+- **Design systems that are more resilient**.
+- **Find innovative solutions**, such as offering credits instead of refunds.
+
+---
+
+## **8.4. Decisions**
+**_"Clarifying decision-making processes"_**
+
+Decisions are the **critical points where actions are taken** in response to events.
+
+### **Key Characteristics of Decisions**
+- **Not all decisions lead to the same outcome** – Some can be rejected or deferred.
+- **Different types of decisions exist**:
+  - **Human decisions** (e.g., customer service approving an exception).
+  - **Automated decisions** (e.g., a system flagging a payment as fraudulent).
+
+### **Example: Payment Processing**
+1. A customer submits a **credit card payment**.
+2. The payment can be **accepted** or **rejected** due to:
+   - Insufficient funds
+   - Fraud detection
+   - Processor errors.
+
+### **Modeling Decisions in EventStorming**
+- **Use decision trees** to visualize possible outcomes.
+- **Use blue sticky notes** for decisions/commands (indicating user actions or system requests).
+- **Understand dependencies** – A decision may lead to multiple events.
+
+### **Why Decision Modeling Matters**
+- Ensures **alignment** between business and technology teams.
+- **Prevents bottlenecks** by clarifying when and how decisions should be made.
+- Reduces **ambiguity in software development**, enabling **better automation**.
+
+---
+
+## **Conclusion**
+Policies and decisions are often **hidden in business processes**, leading to inefficiencies and misunderstandings. EventStorming helps **make these explicit** by:
+1. **Documenting constraints** to clarify business logic.
+2. **Uncovering "magic" steps** to expose hidden complexity.
+3. **Exploring alternative scenarios** to prepare for real-world exceptions.
+4. **Defining decision points** to ensure clear, logical process flows.
+
+By applying these principles, organizations can **optimize decision-making, improve transparency, and drive innovation**.
+
+
+# **Visualizing Experiences**
+
+EventStorming is a powerful method for understanding processes, but its effectiveness increases dramatically when we integrate **visualizing user experiences** into the timeline. This ensures that key decisions and data flows are designed with the end-user in mind.
+
+## **9.1. Data**
+When a user makes a decision in a business process, they require specific **data** to ensure accuracy and efficiency. **Explicitly representing this data on the timeline** allows for collaborative discussions around what information is needed at different decision points.
+
+- **“A person approving a claim likely needs to see the relevant claim details in the UI.”** To support decision-making, you can **place a sticky note labeled “Claim Details” on the timeline**. 
+- Follow-up questions like **“Which details?”** can help define what data should be available, such as:
+  - Claim amount
+  - Claim failure date
+  - Customer details
+
+By **working backward from the decision** to identify necessary data, teams can create a more **user-centered** process. This also uncovers constraints, such as missing data at key points or dependencies on external systems.
+
+Some EventStorming practitioners refer to these data sticky notes as **read models**, especially in event-sourced systems, as they represent the information retrieved for a user before an action is taken.
+
+---
+
+## **9.2. Mockups**
+While back-end processes may not benefit much from UI considerations, for **customer-facing workflows**, incorporating **UI mockups** into EventStorming can be invaluable.
+
+- **“Combining sticky notes visualizing data with rough UI mockups is a great approach.”**
+- **Mockups make value generation visible**, and help identify **bottlenecks where complexity is hidden in user interactions**.
+
+### **Creating UI Mockups in EventStorming**
+1. **Sketch UI elements** at key points where user interaction happens.
+2. **Use data sticky notes as placeholders** for UI elements like forms, buttons, or reports.
+3. **Keep the mockups rough and low-fidelity** to maintain flexibility and avoid premature optimization.
+
+A common **pitfall** is focusing too much on **technical implementation details** rather than business events. Avoid adding events like:
+- **“Button clicked”**
+- **“Window closed”**
+- **“Dropdown selected”**
+
+Instead, **focus on actual business state changes**—for example, **“Order submitted”** rather than **“Submit button pressed”**.
+
+By keeping UI discussions **focused on business intent**, teams ensure that the **design aligns with real user needs**, rather than just technical execution.
+
+---
+
+# **Visualizing Value**
+"Price is what you pay, value is what you get." — **Warren Buffet**
+
+EventStorming traditionally focuses on **events**, but it’s equally critical to **map out how value is created, preserved, or lost** throughout a process.
+
+## **10.1. Types of Value**
+Value can take many forms beyond just **revenue generation**. In a **big picture EventStorming workshop**, visualizing these different **types of value** helps teams align their efforts toward business goals.
+
+**Common types of value include**:
+- **Market growth & acquisition**
+- **Customer happiness & retention**
+- **Employee engagement & motivation**
+- **Shareholder revenue**
+- **Cost savings & efficiency**
+- **Process automation & reduced lead times**
+- **Product leadership & innovation**.
+
+### **Value in a Business Process**
+One way to visualize value is by using **up-arrow stickies** for points where value is increased and **down-arrow stickies** for areas where value is lost. This makes it easy to **spot improvement opportunities**.
+
+In **technology-driven environments**, teams may also map out **platform-specific value**, such as:
+- Migration to cloud-based services
+- Transition to a **SaaS/PaaS model**
+- Achieving a specific **architectural goal**.
+
+---
+
+## **10.2. Talking About Value**
+Once value is mapped, the next step is **facilitating discussions** to ensure everyone understands where value is created or lost.
+
+1. **Group Narrative Walkthrough**  
+   - Instead of reviewing every event, have participants **describe how value is being generated or reduced** along the timeline.
+   
+2. **Uncovering Misconceptions**  
+   - Many teams don’t fully understand **how their work contributes to business value**. This walkthrough **educates participants** and ensures alignment.
+
+3. **Crowdsourcing Improvement Ideas**  
+   - The final step is **gathering improvement opportunities**. By identifying gaps, inefficiencies, or unclear value propositions, teams can **prioritize improvements strategically**.
+
+---
+
+## **Conclusion**
+Integrating **data visualization, UI mockups, and value mapping** into EventStorming enables **richer insights, better user experiences, and stronger business alignment**.
+
+- **Data ensures informed decision-making.**
+- **Mockups clarify user interactions and reduce complexity.**
+- **Value mapping aligns business and technical efforts.**
+
+By applying these techniques, **EventStorming moves beyond just process mapping**—it becomes a tool for **strategic decision-making and business optimization**.
+
 # **Reference Materials**  
 
 ## **Glossary**  
