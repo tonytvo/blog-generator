@@ -8,10 +8,6 @@ tags: ["domaindrivendesign", "design"]
 # take-aways
 
 
-Here’s an expanded and detailed breakdown of **Part 1: Understanding EventStorming**, with key insights and highlighted phrases.
-
----
-
 # **Understanding EventStorming**
 EventStorming is more than just a workshop technique—it’s a **highly collaborative** and **visually engaging approach** to uncovering inefficiencies, improving business processes, and designing innovative solutions. This section explores **four key scenarios** where EventStorming proves to be a game-changer.
 
@@ -1248,19 +1244,167 @@ While UML offers **formal precision**, it **limits discussions** by forcing a ri
 
 > **"This session isn’t about endlessly refining models—it’s about reaching a working solution."**  
 
-#### **Key Takeaways**  
+### **Design-Level Modeling Tips**  
+
+> **"A good model is not one that is perfect, but one that is useful."**  
+
+Design-Level EventStorming is not about **seeking absolute precision from the start**, but rather about **exploring multiple approaches and refining them incrementally**. This section covers **key techniques** for making **better design decisions**.  
+
+---
+
+#### **Making Alternatives Visible**  
+
+> **"We should only choose between visible alternatives."**  
+
+One of the **biggest mistakes** in software design is **arguing over unseen possibilities**. **If a decision is made without considering multiple options, it is likely a suboptimal one.**  
+
+##### **Key Strategies for Visualizing Alternatives:**  
+1. **Write it down!** – Ideas that are **not on the modeling surface** remain **abstract and untested**.  
+2. **Use parallel modeling spaces** – If teams **disagree on an approach**, map out **both solutions side by side**.  
+3. **Break abstract discussions** – Encourage people to **physically place sticky notes** to **explain their perspective visually**.  
+
+> **"Abstract discussions waste time. If we can’t see it, we can’t evaluate it properly."**  
+
+By **forcing visualization**, teams naturally **focus on tangible aspects**, making **comparison easier and faster**.  
+
+---
+
+#### **Choosing Later**  
+
+> **"Prioritize having a visible baseline over visualizing every possible branch of exploration."**  
+
+A common trap in EventStorming is **overanalyzing too early**, leading to **paralysis instead of progress**. Instead, teams should **make incremental decisions** while postponing less important ones.  
+
+##### **How to Decide When to Choose?**  
+- **If the choice affects the foundation of the model → Decide now.**  
+- **If the choice is about implementation details → Delay until necessary.**  
+- **If the choice requires more business validation → Mark it as a "Hot Spot" and revisit later.**  
+
+> **"We are not delaying decisions forever—we are structuring them based on priority and impact."**  
+
+This approach prevents **premature optimization** while ensuring that **important decisions are made at the right time**.  
+
+---
+
+#### **Picking the Right Problem**  
+
+> **"Solving the wrong problem efficiently is still failure."**  
+
+Not all issues **deserve immediate attention**. **Some bottlenecks are more impactful than others**, and teams should focus on the **ones that truly matter**.  
+
+##### **How to Prioritize the Right Problems?**  
+- **Follow the domain experts** – **Which pain points do they highlight the most?**  
+- **Look for bottlenecks in event flows** – **Where does work get stuck or require frequent rework?**  
+- **Ask ‘What happens if we don’t fix this?’** – **If the answer is ‘nothing critical,’ deprioritize it.**  
+
+> **"Not every inefficiency is worth fixing—some friction is natural."**  
+
+By **identifying high-impact areas first**, teams maximize **business value from their modeling efforts**.  
+
+---
+
+#### **Refining the Model**  
+
+> **"A model is only as good as its ability to evolve."**  
+
+The **first version of any model is imperfect**. The key is to **iterate** and **refine over time**.  
+
+##### **Refinement Techniques:**  
+1. **Walk the timeline backwards** – Ensure that each event **logically follows from the previous one**.  
+2. **Check consistency across contexts** – Do **different teams use the same term in different ways?**  
+3. **Capture disagreements explicitly** – If stakeholders **disagree on a concept, mark it as a "Hot Spot" and investigate further**.  
+
+> **"A useful model is one that adapts with new information—not one that is ‘perfect’ but rigid."**  
+
+Continuous refinement **ensures the model remains relevant** as teams **gain new insights**.  
+
+### **19. Building Blocks**  
+
+> **"Domain Events are more than just data—they are the foundation of how business logic flows in an event-driven system."**  
+
+The **Building Blocks** of EventStorming define **how events, actions, and decisions interact** to create **meaningful business processes**. Understanding these core concepts allows teams to **design scalable, event-driven architectures**.  
+
+---
+
+### **Why Domain Events Are Special**  
+
+> **"Domain Events are deceptively simple: they represent something relevant that happened in our business, written on an orange sticky note with a verb in the past tense."**  
+
+#### **Key Characteristics of Domain Events:**  
+1. **They are easy to understand** – Anyone can **grasp and describe an event**, making it an **inclusive modeling tool**.  
+2. **They are precise** – Events help **reduce ambiguity**, ensuring a **shared understanding across teams**.  
+3. **They capture meaningful change** – A **Domain Event always represents a state transition** in a system.  
+4. **They drive reactive systems** – Events **trigger subsequent actions**, forming the backbone of **event-driven architectures**.  
+
+> **"If no one cares about an event, maybe it’s not that relevant in your system."**  
+
+Unlike **database records**, Domain Events **focus on the business narrative**—they tell a **story of what happened** rather than just **storing data**.  
+
+---
+
+#### **Events as State Transitions**  
+
+> **"Using a verb in past tense forces us to explore the exact moment when something changes."**  
+
+Domain Events mark **critical state transitions** in a system. These transitions:  
+- **Define key moments** in a process (e.g., **Order Placed, Payment Processed, Order Shipped**).  
+- **Clarify dependencies** (e.g., an **Order cannot be shipped before Payment is processed**).  
+- **Create opportunities for automation** (e.g., a **Shipped event triggers an email notification**).  
+
+> **"A Domain Event is not just a log entry—it represents a meaningful change that the system must react to."**  
+
+##### **Example: Modeling State Transitions in Temperature Monitoring**  
+1. **Temperature Raised** – An imprecise event; it lacks clarity.  
+2. **Temperature Registered** – More precise, capturing **what happened and when**.  
+3. **Temperature Threshold Exceeded** – A **state transition** that may **trigger an alert**.  
+
+> **"Don’t try to make events too precise too early—embrace fuzziness until patterns emerge."**  
+
+By **iterating on event definitions**, teams gain a **deeper understanding of business processes**.  
+
+---
+
+#### **Commands, Actions, and Decisions**  
+
+> **"Commands are user or system actions that trigger events—but not every command leads to a successful event."**  
+
+#### **Distinguishing Between Commands, Actions, and Decisions**  
+
+1. **Commands (Blue Stickies)** – A **request for an action** (e.g., **Place Order, Submit Payment**).  
+2. **Actions** – The **execution of a command**, but not all actions result in events (e.g., **A payment attempt might fail**).  
+3. **Decisions** – A **business rule that determines an outcome** (e.g., **Fraud Check Approved leads to Order Processed**).  
+
+> **"A command does not imply completion—events will eventually reflect its outcome."**  
+
+#### **Example: Ordering a Pizza Online**  
+- **Command:** *Place Order*  
+- **Decision:** *Verify Payment* (Approved or Denied)  
+- **Event:** *Order Placed* (if successful)  
+
+> **"If something fails, an event should still be recorded—failure is part of the system’s story too."**  
+
+By separating **commands from events**, teams build **resilient, event-driven systems** where **failure is explicitly handled**.  
+
+
+### **Key Takeaways**  
 - **Unlike Big Picture workshops, Design-Level EventStorming is about converging, not diverging.**  
 - **Events come from multiple sources—understanding them ensures realistic modeling.**  
 - **Aggregates should be discovered by analyzing responsibilities, not by forcing a predefined structure.**  
 - **The workshop is done when all major design concerns are addressed, not when everything is ‘perfect.’**.  
 
----
-
-### **Final Thoughts**  
-
 > **"EventStorming helps teams model software in a way that aligns with real-world business needs—avoiding overcomplication and ensuring a shared understanding."**  
 
+> **"EventStorming helps teams design software in a way that aligns with business reality—not just technical constraints."**  
+
+By **visualizing alternatives, delaying premature decisions, focusing on the right problems, and refining models incrementally**, teams create **better, more maintainable software architectures**.
+
 By running a **Design-Level EventStorming workshop**, teams ensure their software models **truly reflect business realities**—leading to **better architecture, maintainability, and scalability**.
+
+> **"EventStorming helps teams shift from CRUD-based thinking to event-driven modeling—focusing on what truly matters: meaningful change."**  
+
+By using **Domain Events, State Transitions, and Commands effectively**, teams can **model business processes that are scalable, reactive, and aligned with real-world behaviors**.
+
+
 
 # unsorted
 
@@ -1350,23 +1494,6 @@ By running a **Design-Level EventStorming workshop**, teams ensure their softwar
 ### **16. Observing Global State**
 - **The Transaction Obsession**
 - **Understanding System Consistency Beyond the Obvious**
-
----
-
-### **17. Running a Design-Level EventStorming**
-- **Scope and Participants**
-- **Using the Big Picture Artifact**
-- **Where Are Events Coming From?**
-- **Discovering Aggregates**
-- **Determining When You’re Done**
-
----
-
-### **18. Design-Level Modeling Tips**
-- **Making Alternatives Visible**
-- **Choosing Later**
-- **Picking the Right Problem**
-- **Refining the Model**
 
 ---
 
