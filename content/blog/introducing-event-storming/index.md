@@ -1916,6 +1916,142 @@ The **"Actors and Systems"** section of EventStorming is about **mapping out bot
 
 By incorporating these layers into an **EventStorming timeline**, organizations can **identify inefficiencies, remove bottlenecks, and create a shared understanding of their processes**.
 
+
+# **Walking the Narrative**
+
+---
+
+## **6.1. Why Walk?**
+**"Walking the Narrative"** is a critical step in EventStorming that ensures alignment across different perspectives. The timeline constructed during an EventStorming session represents a shared **story of the business**, integrating both **business and technical viewpoints**.
+
+### **Why is this necessary?**
+- It prevents teams from creating a **shallow or incomplete** timeline.
+- Reviewing the entire timeline **uncovers gaps**, inconsistencies, and previously unnoticed issues.
+- Many people work in **silos**, and this walkthrough helps **bridge knowledge gaps** and illuminate **unspoken expectations**.
+
+### **How is it done?**
+- It is typically conducted **after adding actors and systems** to the timeline, which **stabilizes the story**.
+- The session **slows down intentionally**, allowing participants to **listen, reflect, and ask questions**.
+- Helps teams **converge** on a shared understanding of the workflow.
+
+### **Key Takeaways**
+✔ **"Most people in an organization are used to working in their own silos, and telling the story of a process that cuts across silos often illuminates unspoken expectations or opportunities."**  
+✔ **"It is easy to create a timeline that looks good but lacks sufficient detail or skips over important details that haven’t yet been noticed because it hasn’t been reviewed as a whole."**
+
+---
+
+## **6.2. Telling the Story**
+This phase can be **dull if not handled well**, as it may feel like a **boring review session**. However, if facilitated correctly, it can be **engaging and insightful**.
+
+### **Challenges and Solutions**
+🔹 **Fear of public speaking:**  
+   - People may hesitate to narrate parts of the timeline, fearing they might get it **"wrong"**.  
+   - **Solution:** The facilitator should **go first**, demonstrating that **they don’t have to be an expert**—they are just reading the events.  
+
+🔹 **Low engagement:**  
+   - If only one or two people narrate, **others tune out**.  
+   - **Solution:** Have people **take turns reading events aloud**—this adds **variety and surprise** to the session.
+
+🔹 **Energy drain:**  
+   - If it feels like a **checklist review**, people may disengage.  
+   - **Solution:** Encourage the group to see this as a **validation exercise**, where anyone can **ask questions and challenge assumptions**.
+
+### **Key Quotes**
+✔ **"All anyone needs to do to be successful in the walkthrough as a reader is to read out each sticky note as if they are telling the story of the process."**  
+✔ **"If the reader is reading out the events for a section of the timeline and it doesn’t make sense, that’s a good thing."**  
+✔ **"After the first person has read, I like to get everyone to give applause and congratulate them for their courage to get up there and walk through it in front of others/the experts in the domain."**
+
+---
+
+## **6.3. A Sample Story**
+This section provides a **concrete example** of how a walkthrough unfolds. The example used is **conference planning**, focusing on **marketing efforts**.
+
+### **Sample Walkthrough**
+1️⃣ **Facilitator starts the story**:  
+   _"The organizer kicked off the conference planning by getting the venue booked."_  
+2️⃣ **A participant continues**:  
+   _"They then invited the workshop instructors via Marketing, which we seem to have pulled out as a theme below, since it happens multiple times through the timeline."_  
+3️⃣ **Someone asks a clarifying question**:  
+   _"Are we using Facebook and Instagram for marketing too?"_  
+4️⃣ **If no one knows the answer**, it’s captured on a **pink sticky note** for later discussion.  
+5️⃣ **A new reader takes over**, ensuring a **varied and engaging experience**.
+
+### **Why is this format effective?**
+- Encourages **broad participation** and **cross-team learning**.
+- Highlights **missing details** or areas that require **further refinement**.
+- **Surfaces knowledge gaps** before they become roadblocks.
+
+### **Key Quotes**
+✔ **"Walking the narrative is a good time for any existing pink stickies on the timeline to be read out to the group, since this is where a lot of the critical learning can take place."**  
+✔ **"This is typically the point in the workshop where there is a lot of knowledge being shared across different disciplines and isolated silos."**
+
+---
+
+## **Summary**
+**"Walking the Narrative"** is not just a review—it's a critical **alignment exercise** that brings hidden knowledge to the surface and **refines the business process story**. Through a structured but flexible walkthrough process:
+- **Key insights emerge** as teams **review the full timeline**.
+- **Knowledge is shared** across **business and technical teams**.
+- **Clarifications happen in real-time**, making it a **powerful learning tool**.
+
+By following the **facilitation best practices** outlined in this section, organizations can ensure that their EventStorming sessions **not only visualize workflows but also drive real process improvements**.
+
+---
+
+# **7. Documenting Language**
+Effective communication is critical in any domain, but **business processes often involve multiple dialects of terminology** that can lead to misunderstandings, inefficiencies, and integration challenges. EventStorming provides a structured approach to capturing and refining language use within an organization.
+
+---
+
+## **7.1. Exposing Language Messiness**
+Language in an organization is often a mix of **inconsistencies, legacy terminology, and overlapping meanings**. These differences may seem trivial, but they can cause **major breakdowns in communication** when systems, teams, or business units need to work together.
+
+### **Recognizing Hidden Language Inconsistencies**
+One of the key insights from EventStorming is that **terminology changes across different phases of a business process**. This variation can be subtle or significant, but it is often **invisible until explicitly visualized**.
+
+For example:
+- A **"Contract Signed"** event in the Sales Process might be called **"Warranty Created"** in the Warranty Administration system.
+- A term like **"Approval"** in a legal team might refer to a compliance check, while in engineering, it means moving a feature into production.
+
+### **Why This Matters**
+- Different teams may assume they are talking about the **same thing** when, in reality, they are not.
+- Standardizing terminology **too early** can **obscure important domain distinctions**, leading to software models that **fail to capture real-world nuances**.
+
+### **Strategies for Handling Language Messiness**
+1. **Visualizing the Differences:** Instead of smoothing over discrepancies, EventStorming **makes them explicit** by mapping them onto the timeline. This helps teams discuss inconsistencies openly.
+2. **Encouraging Conversations:** Participants should **discuss areas where language gets messy** and explore why different terms exist.
+3. **Avoiding Premature Standardization:** The urge to impose a single definition for all terms should be resisted. **Different teams may need different terms** to reflect their distinct perspectives.
+
+---
+
+## **7.2. Capturing Critical Concepts**
+Once the **language messiness is exposed**, the next step is **capturing critical domain concepts** and ensuring that essential terms are well understood across the organization.
+
+### **Why Capturing Terms Matters**
+- Many key terms are **"caught rather than taught"**, meaning that **new employees struggle** to understand their meaning **without explicit documentation**.
+- Creating a **glossary** of key terms reduces the onboarding burden and ensures that everyone understands **how terms are used in different contexts**.
+
+### **How to Capture Critical Concepts**
+- **Designate a volunteer** to capture key terms that arise during discussions.
+- Write **each term with a short definition** and ensure that the meaning is **clear to non-experts**.
+- Identify words that **may cause confusion**, including:
+  - **Acronyms** that might not be universally understood.
+  - **Industry terms** that have specific meanings.
+  - **Synonyms that might mask domain differences**.
+
+### **Where to Document These Concepts**
+For **in-person workshops**, key terminology is often captured on **large sticky notes** and placed along the timeline. In **virtual settings**, a dedicated **Glossary section** above the timeline can be used.
+
+### **Making the Glossary Actionable**
+- Rather than spending workshop time defining every term in detail, **the glossary can be refined later as a follow-up exercise**.
+- **Do not force consensus** on all terms—some terminology will **remain different across contexts**, and that’s okay.
+- If terminology varies significantly across a process, consider **dividing the glossary into sections based on key events**.
+
+---
+
+## **Final Thoughts**
+By exposing language messiness and systematically capturing critical terms, **EventStorming helps organizations bridge communication gaps** and create **more robust, user-friendly, and precise processes**. This approach ensures that **terminology does not become an invisible barrier** to collaboration and system integration.
+
+
 # **Reference Materials**  
 
 ## **Glossary**  
