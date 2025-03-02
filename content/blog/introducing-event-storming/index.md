@@ -1154,6 +1154,114 @@ Although **remote EventStorming lacks in-person energy**, it **offers long-term 
 > **"It may not be perfect, but it’s still one of the best ways to make sense of complex business domains remotely."**  
 
 
+## **Running a Design-Level EventStorming**  
+
+> **"Big Picture EventStorming focuses on maximizing learning and uncovering complexity, whereas Design-Level EventStorming is about collaboratively designing a solution."**  
+
+A **Design-Level EventStorming workshop** shifts the focus from **understanding business processes** to **shaping software solutions**. Instead of exploring **how things currently work**, the goal is to **define how things should work** in a well-structured system.  
+
+---
+
+### **Scope and Participants**  
+
+> **"In Design-Level EventStorming, we are no longer just exploring—we are converging towards implementation."**  
+
+Unlike Big Picture EventStorming, where the focus is on **broad discovery**, Design-Level EventStorming is **more targeted**:  
+- **Scope is narrower** – It focuses on **implementing software features that solve a specific problem**.  
+- **Participants are different** – The **business audience shrinks**, while **architects and developers** become more involved.  
+- **The outcome is different** – Instead of learning about bottlenecks, the goal is to **produce a robust software design**.  
+
+> **"Here, we’re trying to find one or more solutions to a problem worth solving. The workshop isn’t over until we have something that looks like a robust candidate solution."**  
+
+#### **Who Should Be Involved?**  
+- **Domain experts** – To validate business logic.  
+- **Architects & senior developers** – To translate domain logic into software.  
+- **Product managers** – To ensure alignment with business needs.  
+
+The result of this session is **not just insights—it’s a software design blueprint**.  
+
+---
+
+### **Using the Big Picture Artifact**  
+
+> **"The Big Picture artifact provides a foundation—but at this stage, we must move beyond it."**  
+
+The **Big Picture EventStorming outcome** serves as a **reference** for deeper exploration, highlighting:  
+1. **A dictionary of domain events** – A shared vocabulary to ensure clarity.  
+2. **Critical pain points** – The areas that need redesign.  
+3. **External contexts** – Systems, constraints, and integrations that must be considered.  
+
+#### **Two Approaches to Starting a Design-Level EventStorming Session**  
+1. **Start from scratch** – The cleanest option, **rebuilding models from the ground up**.  
+2. **Work on the existing model** – Useful in **smaller teams** where the **Big Picture exploration is still fresh**.  
+
+> **"Remember: the Big Picture was a model of our current level of understanding. By digging deeper into key interactions, we are already making it obsolete."**  
+
+---
+
+### **Where Are Events Coming From?**  
+
+> **"In a business system, there are four main sources for domain events."**  
+
+Understanding **where events originate** is crucial to **modeling a realistic system**. Events typically stem from:  
+
+1. **User actions** – A customer clicking "Buy Ticket" triggers a **Ticket Purchased event**.  
+2. **External systems** – APIs, sensors, or third-party services generating events.  
+3. **Time-based triggers** – Scheduled jobs or expiration events.  
+4. **Other domain events** – One event triggering another, such as **Order Paid → Order Shipped**.  
+
+> **"A Ticket Purchased event is a direct consequence of a Buy Ticket action, performed by a Customer."**  
+
+#### **Why Not Use UML?**  
+> **"UML severely harms the possibility of productive discussions. EventStorming was designed to encourage meaningful conversations, not compliance with notation."**  
+
+While UML offers **formal precision**, it **limits discussions** by forcing a rigid structure. **EventStorming uses an incremental notation** to maintain flexibility.  
+
+---
+
+### **Discovering Aggregates**  
+
+> **"Aggregates should not be discovered by looking at data structures, but by analyzing responsibilities."**  
+
+#### **Key Principles for Identifying Aggregates**  
+1. **Postpone naming** – **Do not name aggregates too soon**; focus on **their responsibilities first**.  
+2. **Look for behavior, not just data** – Aggregates should **enforce business rules**, not just hold data.  
+3. **Identify information needed for consistency** – What data is **required to enforce transactional consistency?**  
+4. **Ask: How would I call a class that manages this responsibility?**.  
+
+> **"The temptation to name things prematurely is strong. Resist it. Look for responsibilities first."**  
+
+#### **Common Mistakes When Identifying Aggregates**  
+- **Confusing aggregates with read models** – UI concerns should not dictate aggregates.  
+- **Thinking in database terms** – Aggregates are **not** database tables; they **enforce business rules**.  
+
+---
+
+### **Determining When You’re Done**  
+
+> **"Once flattened, this is what we’re expecting—a consistent flow with well-defined aggregates and interactions."**  
+
+#### **How Do You Know the Design-Level EventStorming Is Over?**  
+1. **The mechanics are clear** – Each process has a **well-defined sequence of domain events**.  
+2. **Aggregates and their boundaries are defined** – There is **no ambiguity about where one starts and another ends**.  
+3. **Consistency rules are enforced** – Invariants are clearly **modeled and supported**.  
+
+> **"This session isn’t about endlessly refining models—it’s about reaching a working solution."**  
+
+#### **Key Takeaways**  
+- **Unlike Big Picture workshops, Design-Level EventStorming is about converging, not diverging.**  
+- **Events come from multiple sources—understanding them ensures realistic modeling.**  
+- **Aggregates should be discovered by analyzing responsibilities, not by forcing a predefined structure.**  
+- **The workshop is done when all major design concerns are addressed, not when everything is ‘perfect.’**.  
+
+---
+
+### **Final Thoughts**  
+
+> **"EventStorming helps teams model software in a way that aligns with real-world business needs—avoiding overcomplication and ensuring a shared understanding."**  
+
+By running a **Design-Level EventStorming workshop**, teams ensure their software models **truly reflect business realities**—leading to **better architecture, maintainability, and scalability**.
+
 # unsorted
 
 ---
