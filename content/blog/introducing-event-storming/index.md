@@ -447,65 +447,727 @@ By following these principles:
 This approach ensures **effective collaboration, deeper understanding, and better decision-making**.
 
 
+Here’s a **detailed expansion** of **"Facilitation Basics"** from *EventStorming Handbook*, with **bold highlights** of key phrases and **insightful quotes**.
+
+---
+
+## **Facilitation Basics**  
+
+> **"A facilitator’s job is to support everyone to do their best thinking."** – *Sam Kaner, Facilitator’s Guide to Participatory Decision Making*  
+
+EventStorming facilitation requires **balancing structure with openness**, ensuring **productive conversations** while **allowing for unexpected discoveries**.
+
+---
+
+### **3.1. Playing the Game**  
+
+> **"It can be helpful to think of collaborative, participatory sessions as games."**  
+
+EventStorming follows a **game-like structure**:
+1. **Opening:** Generating ideas freely.  
+2. **Exploration:** Expanding on ideas, discovering patterns.  
+3. **Closing:** Converging towards decisions and action items.
+
+> **"If you struggle with opening, focus on getting ideas flowing without judgment. If you struggle with closing, work backward from what a successful outcome looks like."**  
+
+Facilitators should **embrace the playfulness of exploration** while ensuring the **session remains purposeful**.
+
+---
+
+### **3.2. Intentional Discovery**  
+
+> **"Facilitating the EventStorming game well is fundamentally about enabling people to experience intentional discovery."**  
+
+EventStorming is not just about **capturing what’s already known**, but **creating an environment where new insights emerge**.
+
+Key aspects:
+- **Encourage diverse perspectives.**  
+- **Avoid premature convergence.**  
+- **Embrace ambiguity before narrowing down.**  
+
+> **"Suspend judgment and maintain creative tension as long as necessary."**  
+
+The **"wisdom of the crowd"** becomes evident when **everyone’s ideas integrate into a larger whole**.
+
+---
+
+### **3.3. Open at the Close**  
+
+> **"Begin with the end in mind."**  
+
+A well-structured **opening and closing** are crucial.  
+**Common mistakes** facilitators make:
+1. **Jumping to conclusions too early.**  
+2. **Closing discussions before ideas fully form.**  
+3. **Rushing the final insights.**  
+
+> **"If you struggle with closing well, work backwards from a successful ending."**  
+
+Keeping **momentum high** ensures **participants remain engaged** through the **entire process**.
+
+---
+
+### **3.4. Tips and Tricks**  
+
+> **"The best facilitators adapt."**  
+
+**Effective facilitation techniques**:
+- **Use timeboxing.** Keep discussions **on track**.  
+- **Encourage “Yes, and…” thinking.** Avoid **shutting down ideas too soon**.  
+- **Sketch out key concepts.** **Visual representations** help cement ideas.  
+
+> **"Quit while the interest is high."**  
+
+Better to end a **session with high engagement** than **dragging it out until exhaustion**.
+
+---
+
+### **3.5. Dealing with Challenges**  
+
+> **"Facilitators must navigate conflicts, dominant voices, and disengaged participants."**  
+
+Key strategies:
+- **Handling dominant voices:** Redirect the conversation, ask quieter participants for input.  
+- **Managing disengagement:** Use **breakout groups** to encourage participation.  
+- **Addressing unclear goals:** Clearly **define objectives upfront**.  
+
+> **"Your goal is to create a safe place for exploration and learning—not to impress everyone with your expertise."**  
+
+A good **facilitator fosters collaboration, ensures learning, and navigates conflicts constructively**.
+
+---
+
+### **Final Thoughts**  
+
+> **"Embrace the process—structured enough for direction, open enough for discovery."**  
+
+The **best facilitators** maintain a balance of **guidance and flexibility**, **helping participants unlock new insights** while **ensuring discussions remain productive**.
+
+
+Here’s a **detailed expansion** of **"Emerging Structure"** from *EventStorming Handbook*, with **bold highlights** of key phrases and **critical insights**.
+
+---
+
+## **Emerging Structure**  
+
+> **"A chaotic collection of events is only the beginning—structure must emerge."**  
+
+EventStorming starts as an **exploration of events**, but as patterns appear, **structure emerges naturally**. This structure helps teams **organize workflows, find dependencies, and improve system understanding**.
+
+---
+
+### **4.1. Key Events**  
+
+> **"Key events signal a pivotal change in the narrative."**  
+
+Key events are significant moments in a business process, often marking **shifts in responsibility or state**. For example:
+- **In sales**, a key event might be **"Contract Signed"**, shifting responsibility from **Sales to Fulfillment**.  
+- **In e-commerce**, a key event could be **"Payment Processed"**, leading to order fulfillment.
+
+> **"We also look for highly duplicated events or marked changes in language as clues that indicate key events."**  
+
+**Key events serve as structural anchors** in the EventStorming timeline. **Teams use them as boundaries to break processes into meaningful chunks**.
+
+---
+
+### **4.2. Milestones**  
+
+> **"Milestones drive the process forward—they are deadlines, not events."**  
+
+Milestones mark **date-driven deadlines** rather than system events. **For example**:
+- **A product launch** may have milestones like **"Beta Released," "Marketing Campaign Launched," "Public Release."**  
+- **A conference** has milestones for **speaker confirmations, venue booking, and ticket sales deadlines**.
+
+> **"The most interesting learning in the conversation about a milestone is typically triggered when you ask, ‘What happens if this milestone is missed?’"**  
+
+Teams should explore **failure scenarios** around milestones. **Missed deadlines** often reveal **hidden bottlenecks**.
+
+---
+
+### **4.3. Alternate Paths**  
+
+> **"Not all processes follow a single happy path—alternate paths must be explored."**  
+
+To represent **different experiences and subprocesses**, **swimlanes** help differentiate:
+- **Customer vs. backend processes** (e.g., ordering vs. order fulfillment).  
+- **Automated vs. manual workflows** (e.g., **"Order Approved Automatically"** vs. **"Manual Review Required"**).  
+- **Success vs. failure outcomes** (e.g., **"Payment Processed"** vs. **"Payment Failed"**).
+
+> **"Swimlanes make it easier to visualize dependencies and handoffs."**  
+
+By mapping **alternate flows**, teams **proactively identify failure points and inefficiencies**.
+
+---
+
+### **4.4. Themes**  
+
+> **"Some patterns appear repeatedly across the timeline—these should be treated as themes."**  
+
+A **theme** is a set of related events that **cut across different parts of the process**, such as:
+- **Security** – Login, authentication, authorization checks.  
+- **Monitoring** – Logging, tracking, error handling.  
+- **Compliance** – Data retention, auditing, approvals.
+
+> **"Themes should be extracted to reduce clutter and improve focus on the primary workflow."**  
+
+By grouping **related but secondary concerns**, **EventStorming improves clarity**.
+
+---
+
+### **4.5. Facilitation Tips**  
+
+> **"A facilitator's role shifts from generating discussion to guiding structure."**  
+
+Facilitators should:
+- **Introduce key events first** before diving into details.  
+- **Encourage participants to move and group events** to find emerging patterns.  
+- **Use colors or lines** to differentiate structural elements like swimlanes, milestones, and themes.
+
+> **"For people who love structure, this stage can be a big relief!"**  
+
+As structure emerges, **some participants feel more comfortable**, while **others might struggle with too much organization**—**balance is key**.
+
+---
+
+### **4.6. How to Handle Loops**  
+
+> **"Circular dependencies and feedback loops can cause confusion—make them explicit."**  
+
+Some processes naturally loop, such as:
+- **Customer support tickets** → **Ticket opened → Assigned → Resolved → Reopened**.  
+- **Subscription billing** → **Renewal reminders → Payment → Expiry → Renewal attempt**.
+
+> **"Loops should be visualized, but too many connections can clutter the timeline."**  
+
+Facilitators should:
+- **Use color-coded connections** to indicate feedback loops.  
+- **Minimize excessive arrows** to keep the timeline readable.  
+- **Label repetitive cycles** to avoid unnecessary complexity.
+
+---
+
+### **4.7. Emergent Software Boundaries**  
+
+> **"Business concepts naturally form clusters—these suggest potential software boundaries."**  
+
+Patterns like:
+- **Recurring terms** in different areas → **Possible service boundaries**.  
+- **Distinct roles handling different parts of the process** → **Microservices alignment**.  
+- **Changes in terminology** between sections → **Different bounded contexts**.
+
+> **"Watch for where language shifts—this is where software domains divide."**  
+
+If **Sales talks about "Leads"** but **Marketing calls them "Prospects"**, this indicates **a potential domain boundary**.
+
+---
+
+### **4.8. Domain Distillation**  
+
+> **"The messiness of the timeline hides the essence of the business domain—distillation extracts what really matters."**  
+
+Once a rough structure is in place, teams should:
+- **Remove noise** (redundant, low-impact events).  
+- **Prioritize key moments** (decisions, handoffs, failure points).  
+- **Refine terminology** to align with business language.
+
+> **"Domain distillation helps clarify what the business actually does—not just what the current system does."**  
+
+This step **bridges the gap between current processes and optimal workflows**.
+
+---
+
+### **4.9. Bounded Contexts**  
+
+> **"Bounded contexts are the ultimate structural insight from EventStorming."**  
+
+> **"Every time we see a shift in language or process ownership, we might have found a new bounded context."**  
+
+By mapping **emerging business domains**, teams:
+- **Discover the natural decomposition of complex systems**.  
+- **Find areas where different teams need autonomy**.  
+- **Align EventStorming insights with software architecture**.
+
+> **"Bounded contexts define the edges of microservices, data ownership, and team responsibilities."**  
+
+**Clear boundaries prevent unnecessary coupling**, allowing teams to **design resilient systems**.
+
+---
+
+### **Final Thoughts**  
+
+> **"Emerging structure transforms chaos into insight."**  
+
+By letting structure **naturally emerge**, **EventStorming uncovers how business processes truly work**—not just how they were assumed to work.
+
+> **"Key events, milestones, alternate paths, and themes bring order to complex workflows."**  
+
+These **patterns help teams navigate ambiguity**, ensuring **clearer models, better software, and improved collaboration**.
+
+
+## **Exploring the Big Picture**  
+
+> **"A Big Picture EventStorming session is a powerful tool for understanding the full complexity of a business process across teams, departments, and systems."**  
+
+A **Big Picture EventStorming workshop** helps organizations **gain a high-level understanding of their current landscape**, **visualize key system interactions**, and **identify areas for improvement**. 
+
+---
+
+### **Why Explore the Big Picture?**  
+
+A Big Picture session **uncovers the broader context behind business operations**, ensuring that **all stakeholders share a unified view of how work gets done**. Key outcomes include:  
+
+- **"Broad understanding of a process that transcends departments, roles, and responsibilities."**  
+- **"Visualizing emergent system and organizational boundaries and responsibilities."**  
+- **"Highlighting problems, risks, gaps, and bottlenecks."**  
+- **"Prioritizing new software development efforts and validating/challenging existing ones."**  
+
+This workshop format is especially useful when organizations **struggle with unclear handoffs, inefficient workflows, and misaligned development efforts**.
+
+---
+
+### **Key Challenges That Big Picture EventStorming Solves**  
+
+A **Big Picture workshop** is particularly effective at addressing:  
+
+- **Problems with organizational handoffs** – Where work transitions from one team or system to another, but inefficiencies or miscommunications cause bottlenecks.  
+- **Difficulties in seeing the entire value stream** – Business processes often **span multiple teams, systems, and roles**. This workshop helps visualize those interactions.  
+- **Lack of shared understanding** – Teams often have **different interpretations of processes**, leading to misaligned efforts.  
+- **Prioritization challenges** – Helps teams **distinguish between core, supporting, and differentiating capabilities**, ensuring focus on **what truly adds value**.  
+
+> **"A high-level map of the existing terrain is critical before charting a journey towards improvement."**  
+
+Understanding the **current state** is a necessary step **before attempting to design an improved future state**.
+
+---
+
+### **Big Picture Workshop Structure**  
+
+> **"The structure of a Big Picture EventStorming workshop follows a logical flow—from initial chaos to meaningful insights."**  
+
+#### **Step 1: Chaotic Exploration**  
+- Participants **dump all relevant events** onto the timeline **without worrying about order or consistency**.  
+- Different roles contribute **their knowledge**—which **uncovers gaps and inconsistencies** in understanding.  
+- This step **is often silent**, as participants focus on **getting everything out of their heads and onto the board**.  
+
+> **"Nobody knows the full picture. The workshop reveals hidden dependencies, unknown bottlenecks, and conflicting perspectives."**  
+
+#### **Step 2: Emergent Structure**  
+- Patterns **naturally emerge** as participants **group related events, highlight key transitions, and sequence workflows**.  
+- **Critical milestones and dependencies become clear**, exposing **where processes break down**.  
+
+> **"Clarity emerges as the team organizes the chaos into meaningful categories and sequences."**  
+
+#### **Step 3: Identifying Actors and Systems**  
+- Teams **map responsibilities** to **specific roles and systems**, making it clear **who does what**.  
+- **Swimlanes** can separate **departments, automation vs. manual processes, and system interactions**.  
+
+> **"Teams often uncover redundant work, unnecessary handoffs, and areas where automation could dramatically improve efficiency."**  
+
+---
+
+### **Facilitation Tips for a Big Picture Session**  
+
+> **"Facilitating a Big Picture workshop requires guiding participants from initial information overload to structured insights."**  
+
+- **Encourage broad participation** – Get **subject matter experts, developers, business leaders, and operational staff in the same room**.  
+- **Focus on discovery first, structure later** – Let **the full complexity emerge before attempting to clean it up**.  
+- **Ask ‘What happens next?’ or ‘What happens if this fails?’** – This exposes **hidden dependencies and critical decision points**.  
+
+> **"Uncovering failure points is just as important as mapping the happy path."**  
+
+- **Use different colors for different elements** – **Events, questions, risks, decisions, and handoffs** should be visually distinct.  
+- **Don’t rush conclusions** – The **biggest insights often come later** in the session, once structure begins to emerge.  
+
+---
+
+### **Outcomes and Next Steps**  
+
+By the end of a **Big Picture EventStorming session**, teams typically gain:  
+
+- **A shared understanding of end-to-end workflows.**  
+- **Clarity on inefficiencies and bottlenecks.**  
+- **Alignment on where to prioritize changes.**  
+- **A foundation for deeper exploration into software and organizational improvements.**  
+
+> **"It is a quick and effective method for defining and visualizing a problem space, and identifying potential opportunities."** – *Workshop Attendee Response*.  
+
+### **Inviting the Right People**  
+
+> **"To run a successful workshop, you need the right mix of knowledge and curiosity—but most importantly, people who care about the problem."**  
+
+A **Big Picture Workshop** should include **key stakeholders** who have **both domain knowledge and decision-making authority**. These may include:  
+
+- **Business Experts** – Those who understand the **domain processes and rules**.  
+- **Technical Experts** – Engineers and developers who **build and maintain the systems**.  
+- **Operations & Support Staff** – Those who **handle real-world exceptions and failures**.  
+- **Executives or Decision-Makers** – Those who **fund and approve changes**.  
+
+> **"Getting all these people in the same room is a challenge, but it’s the only way to uncover hidden contradictions and inefficiencies."**  
+
+Having **only developers or only business leaders** leads to **blind spots**, so **diversity in participation is crucial**.  
+
+---
+
+### **Room Setup**  
+
+> **"Your meeting room is your battleground—if it’s set up like a typical meeting, you’ve already lost."**  
+
+A **traditional conference table setup** kills collaboration. Instead, the room should be **open, flexible, and encourage movement**.  
+
+#### **Key Setup Considerations:**  
+- **Unlimited modeling surface:** Use a **long, straight wall** (8+ meters) for sticky notes.  
+- **Plenty of space:** Avoid crammed setups—people need room to move.  
+- **Minimal furniture:** **Remove chairs** initially to prevent passive engagement.  
+- **Color-coded sticky notes & markers:** Have enough for **everyone to contribute freely**.  
+- **Healthy snacks & drinks:** Workshops are mentally demanding—keep participants energized.  
+
+> **"Don’t let corporate habits take over—people will instinctively sit down, open laptops, and disengage if you let them."**  
+
+A **disruptive room setup** signals that **this is not just another meeting**.  
+
+---
+
+### **Workshop Structure**  
+
+> **"The workshop unfolds in a series of structured phases, each serving a unique purpose—starting with chaos and gradually leading to clarity."**  
+
+The **Big Picture Workshop** follows **a logical sequence of activities** designed to **extract insights progressively**.  
+
+---
+
+#### **Phase 1: Kick-off**  
+
+> **"We are going to explore the business process as a whole by placing all relevant events along a timeline. We’ll highlight ideas, risks, and opportunities along the way."**  
+
+The **facilitator** sets the tone by:  
+1. **Introducing the objective** – Understanding the **big picture of a business process**.  
+2. **Explaining the format** – Letting participants know **the workshop will be chaotic** but **highly productive**.  
+3. **Encouraging participation** – Reinforcing that **there are no wrong answers**.  
+
+> **"Some people may feel uncomfortable at first—reassure them that chaos is part of the process."**  
+
+Avoid **long explanations**—get into action **as quickly as possible**.  
+
+---
+
+#### **Phase 2: Chaotic Exploration**  
+
+> **"The first phase is about dumping everything participants know onto the wall, without structure."**  
+
+- **Each participant writes domain events** on sticky notes **independently**.  
+- **Participants place sticky notes onto the timeline** in **no particular order**.  
+- **No filtering, no discussing—just rapid output.**  
+
+> **"The model will start messy, with redundant notes, out-of-sequence events, and some unreadable scribbles—but that’s expected."**  
+
+At first, this phase will feel **like total anarchy**—but it’s **essential** to **extract deep domain knowledge quickly**.  
+
+---
+
+#### **Phase 3: Enforcing the Timeline**  
+
+> **"After the initial chaos, we start making sense of the mess."**  
+
+Now, the group:  
+1. **Reorders events into a more logical sequence**.  
+2. **Merges duplicate or conflicting notes**.  
+3. **Highlights dependencies and missing events**.  
+
+> **"This is where inconsistencies emerge—different teams may have very different understandings of how things work."**  
+
+The facilitator helps resolve **contradictions and disagreements**, ensuring the timeline **makes sense across teams**.  
+
+---
+
+#### **Phase 4: Identifying People and Systems**  
+
+> **"Events don’t just happen—people and systems make them happen."**  
+
+At this stage, the group:  
+- **Assigns roles (actors) to each event** – Who triggers or handles it?  
+- **Maps out supporting systems** – What software, tools, or databases are involved?  
+
+> **"This phase exposes gaps—who is actually responsible for what? Where do handoffs cause delays?"**  
+
+This step **aligns domain understanding with system reality**, **bridging the gap between business and technology**.  
+
+---
+
+#### **Phase 5: Discovering Problems and Opportunities**  
+
+> **"Once we see the whole workflow, the pain points become obvious."**  
+
+Participants **highlight key issues**, such as:  
+- **Bottlenecks** – Where do processes get stuck?  
+- **Rework & inefficiencies** – Where do unnecessary steps exist?  
+- **Hidden risks** – Where do failures, errors, or compliance issues arise?  
+
+> **"These hotspots are often surprising—even to experts who thought they understood the system."**  
+
+Capturing **issues visually** helps teams **prioritize what needs to be fixed**.  
+
+---
+
+#### **Phase 6: Selecting Key Issues to Solve**  
+
+> **"Not all problems are equal—some are urgent, others are secondary."**  
+
+The team now:  
+1. **Votes on the most critical issues** to address.  
+2. **Clusters related problems** to find **systemic patterns**.  
+3. **Identifies quick wins** versus **long-term transformations**.  
+
+> **"This phase transforms the workshop from analysis to decision-making."**  
+
+By focusing on **high-impact areas**, teams ensure **follow-up actions are meaningful**.  
+
+---
+
+#### **Phase 7: Summarizing the Structure**  
+
+> **"By the end, we have a structured model that represents our business reality."**  
+
+A **Big Picture EventStorming outcome includes**:  
+- A **visualized business process** with clear **dependencies and responsibilities**.  
+- A **list of key problems and opportunities**.  
+- A **prioritized action plan for next steps**.  
+
+> **"This is not just a workshop—it’s the first step toward meaningful change."**  
+
+Teams should **document insights** and **assign ownership** for next steps.  
+
+---
+
+### **Final Thoughts**  
+
+> **"Big Picture EventStorming reveals the truth about how a business actually operates—often exposing hidden complexities that no one person fully understands."**  
+
+This method is **powerful for aligning teams**, **breaking down silos**, and **identifying real-world inefficiencies**. **When run well, it can shape strategic decisions and unlock transformative improvements**.
+
+> **"A Big Picture workshop transforms uncertainty into clarity, revealing the true nature of complex workflows."**  
+
+It is **not just about process mapping**—it is about **building a shared narrative, discovering hidden inefficiencies, and aligning teams on what truly matters**.
+
+
+## **Discovering Bounded Contexts with EventStorming**  
+
+> **"Bounded contexts are a core principle of Domain-Driven Design (DDD), yet many teams struggle to define them effectively. EventStorming offers a collaborative approach to discovering the natural boundaries within a business domain."**  
+
+This section explains **why bounded contexts matter**, how to **discover them using EventStorming**, and how to **translate these insights into actionable software design decisions**.  
+
+---
+
+### **Why Bounded Contexts Are Critical**  
+
+> **"Getting the boundaries right is the single design decision with the most significant impact over the entire life of a software project."**  
+
+Bounded contexts **separate different models** within a system, ensuring that each part of the business operates independently where necessary. Without clear boundaries, software **becomes overly complex, slow to change, and resistant to scaling**.  
+
+#### **Symptoms of Poorly Defined Bounded Contexts**  
+- **Overlapping concepts create ambiguity** – e.g., an "Order" in **sales**, **logistics**, and **finance** may mean different things but share the same model.  
+- **Security and access issues arise** – Different roles need access to **parts** of the same data, but not all of it.  
+- **Changes become risky** – Every modification affects multiple departments, requiring excessive **coordination and approvals**.  
+- **Technical debt builds up** – As changes become harder, **workarounds replace well-designed solutions**.  
+- **Refactoring is postponed indefinitely** – Business value is hard to quantify, so **developers deprioritize cleanup**.  
+
+> **"A poor domain model slows down the business. A well-defined set of bounded contexts accelerates innovation."**  
+
+By identifying **clear boundaries**, teams can **prevent dependencies from spiraling out of control**.  
+
+---
+
+### **Finding Bounded Contexts**  
+
+> **"A bounded context should contain a model tailored around a specific purpose—the perfectly shaped tool for one specific job."**  
+
+EventStorming **helps uncover natural boundaries** by looking at:  
+1. **Diverging language use** – Different departments describe the same concept differently.  
+2. **Pivotal business events** – Critical moments where **ownership shifts** across teams.  
+3. **Actors involved** – Who interacts with which parts of the system?  
+4. **Failure scenarios** – When things go wrong, where does responsibility shift?  
+
+#### **Heuristics for Identifying Bounded Contexts**  
+- **Look at the swimlanes** – Different flows often indicate separate contexts.  
+- **Follow the experts** – Where domain experts **naturally congregate** in a session **signals distinct business concerns**.  
+- **Observe body language** – When participants **disagree** on terminology, it suggests **context misalignment**.  
+- **Find where terms change meaning** – If "Customer" means **a buyer in sales** but **a debtor in accounting**, **those are separate models**.  
+
+> **"If two models serve different purposes, they should be separate bounded contexts."**  
+
+By **grouping related events into clear domains**, EventStorming helps **avoid tangled dependencies**.  
+
+---
+
+### **Structure of a Big Picture Workshop**  
+
+> **"EventStorming makes bounded contexts visible through emergent structure."**  
+
+A **Big Picture EventStorming workshop** naturally reveals how different parts of the business interact. The **phases of the workshop** help expose boundaries through:  
+
+1. **Chaotic exploration** – Participants **brainstorm events without structure**.  
+2. **Organizing events into sequences** – Finding **dependencies and handoffs**.  
+3. **Adding actors and systems** – Who triggers and processes each event?  
+4. **Discovering pain points** – Where do **bottlenecks and misunderstandings occur**?  
+5. **Distilling bounded contexts** – Where **language, responsibility, or process changes**, a **context boundary exists**.  
+
+> **"Bounded contexts don’t emerge instantly—they become clearer as patterns appear."**  
+
+A **well-run EventStorming session helps teams define software boundaries in a way that reflects real-world business needs**.  
+
+---
+
+### **Homework Time**  
+
+> **"Once the workshop is over, the real work begins—translating insights into an actionable domain model."**  
+
+After the session, teams should:  
+- **Review and refine the context map** – Identify gaps and **refactor boundaries** where necessary.  
+- **Prioritize domain modeling discussions** – Clarify terms, **remove ambiguity**, and **align expectations**.  
+- **Document system interactions** – Define **integration points** between bounded contexts.  
+- **Identify areas for improvement** – Highlight **technical debt and inefficiencies** exposed by the workshop.  
+
+> **"A well-defined bounded context is a foundation for scalable, maintainable software."**  
+
+---
+
+### **Putting Everything Together**  
+
+> **"Bounded contexts are the key to sustainable software—EventStorming helps teams find them before they become a problem."**  
+
+By synthesizing the results of a **Big Picture EventStorming session**, teams can:  
+- **Clarify business processes and dependencies**.  
+- **Ensure software reflects real-world needs**.  
+- **Improve communication between business and technical teams**.  
+
+> **"EventStorming provides a shared understanding—ensuring that teams build software that actually works for the business."**  
+
+With **clear bounded contexts**, teams **reduce complexity, improve scalability, and foster innovation**.
+
+
+## **Big Picture Event Storming in Remote Mode**
+
+> **"A value proposition starting with ‘put all the key people in the same room’ looked doomed, no matter how you would finish the phrase."**  
+
+Running a **Big Picture EventStorming** session remotely **introduces significant challenges**, but **corporate problems haven’t disappeared**—in fact, they’ve often **gotten worse** with remote work. The shift to virtual collaboration requires **new strategies** and **adapted facilitation techniques**.
+
+---
+
+### **Main Changes: Adapting Workshops for Remote Teams**  
+
+> **"At the cost of being tedious, let’s make the obvious explicit."**  
+
+Transitioning from **in-person** to **remote EventStorming** introduces both **advantages and drawbacks**:  
+
+#### **Key Changes in Remote Sessions**  
+
+- **No physical presence** → This means **no body language, no spontaneous conversations, and no reading of subtle social cues**.  
+- **No room booking** → While **logistics become simpler**, the **loss of a shared physical space impacts engagement**.  
+- **No travel involved** → Budget savings occur, but **losing the sense of urgency and commitment** can be detrimental.  
+- **Digital artifact-based** → Every action takes place **digitally**, allowing for **better documentation but less tangible engagement**.  
+- **Video conferencing reliance** → Your **internet connection and home environment** are now part of the stack.  
+
+> **"Lower commitment, easier procrastination, and Zoom fatigue become major obstacles in remote sessions."**  
+
+#### **Unexpected Consequences**  
+
+- **Easier to cancel or postpone** → Without travel logistics, **rescheduling a remote workshop is simple**, which **reduces commitment**.  
+- **No full-day involvement** → **Zoom fatigue is real**; forcing **full-day workshops doesn’t work**, so **sessions must be split**.  
+- **No peer pressure** → In an office, **walking out of a workshop is noticed**. Remotely, participants **mute their mic and disengage unnoticed**.  
+- **No informal networking** → In physical settings, **side conversations over coffee** often reveal **critical insights**. Remote meetings **eliminate this entirely**.  
+
+---
+
+### **What Role for a Big Picture in Remote Mode?**  
+
+> **"Looks like most of the tricks that made a Big Picture workshop an interesting opportunity were based on human behavior, and are now gone."**  
+
+Despite the limitations, **Big Picture EventStorming remains useful remotely**, particularly for:  
+
+- **Creating a shared vision** → Remote teams require **even more clarity on processes** due to increased silos.  
+- **Reducing communication overhead** → Clearer workflows mean **less back-and-forth for alignment**.  
+- **Strategic business redesign** → Many companies have had to **rethink operations quickly**, and EventStorming provides **a structured way to do this**.  
+
+> **"If people in your organization are just ‘doing stuff’ without knowing why, you still need a large-scale model of your business."**  
+
+During the pandemic, many businesses needed to **pivot quickly**—EventStorming became a **critical tool for restructuring entire business models**.  
+
+> **"EventStorming allowed us to say, ‘Yes, we can do it!’ but also, ‘This is the most compelling problem to solve right now.'"**  
+
+By combining **EventStorming with Business Model Canvas or Wardley Maps**, companies **aligned vision with execution**.  
+
+---
+
+### **Patterns for Remote Big Picture**  
+
+> **"A one-day remote workshop is nearly impossible—activities must be split across multiple sessions."**  
+
+#### **Key Adjustments for Remote Facilitation**  
+
+1. **Split the workshop into smaller chunks**  
+   - Some parts may **not require the whole team**.  
+   - Certain tasks can be done **asynchronously**.  
+
+2. **Use structured facilitation techniques**  
+   - **Pre-seed a basic structure** → Too much freeform chaos is **hard to manage online**.  
+   - **Provide clear role assignments** → Someone must **monitor discussions**, another must **document key insights**.  
+
+> **"Digital space isn’t a constraint—but it also lacks the ‘feel’ of a physical room."**  
+
+#### **Challenges in Remote Exploration**  
+
+- **Spatial references are lost** → People view **a giant, messy board** through **small screens**, making it **harder to see patterns**.  
+- **Reduced engagement** → In-person chaotic exploration **sparks curiosity**, while online, it **feels overwhelming**.  
+
+> **"Seeding a skeleton structure works better—add a few pivotal events to provide structure before participants begin."**  
+
+Using **color-coded stickies**, **pre-defined frames**, and **clear timelines** **reduces confusion** and **keeps people engaged**.  
+
+---
+
+### **Do We Have a Recipe? Strategies for Running Virtual EventStorming Sessions**  
+
+> **"There’s no perfect formula for remote EventStorming—but there are ways to improve the experience."**  
+
+#### **Best Practices for Remote Workshops**  
+
+1. **Introduce an onboarding session**  
+   - Some participants may be **unfamiliar with digital tools**.  
+   - **Train participants on navigation and interaction techniques**.  
+
+2. **Seed structure before the session starts**  
+   - **Provide a draft framework** with **key milestones and constraints**.  
+
+3. **Use color as a signature**  
+   - Since **handwriting is lost in digital tools**, **color-coded elements can add clarity**.  
+
+4. **Balance synchronous and asynchronous work**  
+   - **Discussions should be real-time**, but **note-taking and structuring can happen asynchronously**.  
+
+> **"People still need to have their voice heard—we’re just moving some of the writing outside the main session."**  
+
+### **Final Thoughts: Making Remote EventStorming Work**  
+
+> **"Remote work is here to stay—so we must adapt our collaboration methods."**  
+
+Although **remote EventStorming lacks in-person energy**, it **offers long-term advantages in documentation, accessibility, and scalability**.  
+
+> **"It may not be perfect, but it’s still one of the best ways to make sense of complex business domains remotely."**  
+
+
 # unsorted
 
 ---
 
 ## **Part 1: Understanding EventStorming**
-### **1. What Does EventStorming Look Like?**
-- **Challenging Corporate Processes**: How EventStorming exposes inefficiencies in large organizations.
-- **Kicking Off a Startup**: Applying EventStorming for new business ventures to map out workflows.
-- **Designing a New Feature for a Web App**: Using EventStorming to define new functionality.
-- **Quick EventStorming in Avanscoperta**: A real-world example of how the author used EventStorming for problem-solving.
-
----
-
-### **2. A Closer Look at the Problem Space**
-- **Silos**: How organizations naturally evolve into silos and their impact on efficiency.
-- **Targets and Goals**: The issue with management-driven goal-setting processes.
-- **Decisions’ Lifecycle**: Understanding how decisions evolve within a business.
-- **The Cost of Agreeing**: Challenges of achieving alignment in complex systems.
-- **Putting Everything Together**: Synthesizing the key issues that EventStorming addresses.
-
----
-
-### **3. Pretending to Solve the Problem by Writing Software**
-- **It’s Not About Delivering Software**: Why traditional software development often fails to address real business problems.
-- **The Illusion of the Underlying Model**: Misconceptions about software modeling.
-- **The Product Owner Fallacy**: Issues with relying solely on a product owner.
-- **The Backlog Fallacy**: Challenges with backlog-driven development.
-- **EventStorming Approach**: A better way to model complex domains.
 
 ---
 
 ## **Part 2: Running Effective EventStorming Workshops**
-### **4. Running a Big Picture Workshop**
-- **Inviting the Right People**: Ensuring diverse perspectives.
-- **Room Setup**: Creating an optimal physical environment.
-- **Workshop Structure**: Phases of the Big Picture Workshop:
-  - Kick-off
-  - Chaotic Exploration
-  - Enforcing the Timeline
-  - Identifying People and Systems
-  - Discovering Problems and Opportunities
-  - Selecting Key Issues to Solve
-  - Summarizing the Structure
-
----
 
 ### **5. Playing with Value**
 - **Explore Value**: Identifying key value drivers in business processes.
 - **Explore Purpose**: Understanding why processes exist.
 - **When Should We Apply This Step?**: Situations where value exploration is critical.
-
----
-
-### **6. Discovering Bounded Contexts with EventStorming**
-- **Why Bounded Contexts Are Critical**: Aligning business logic with technical solutions.
-- **Finding Bounded Contexts**: Methods for discovery.
-- **Structure of a Big Picture Workshop**: The importance of event-driven discovery.
-- **Homework Time**: Assigning follow-up tasks.
-- **Putting Everything Together**: Synthesizing results.
 
 ---
 
@@ -535,14 +1197,6 @@ This approach ensures **effective collaboration, deeper understanding, and bette
 - **Software Project Discovery**: Adapting EventStorming for software planning.
 - **Organizational Retrospective**: Using EventStorming to analyze past performance.
 - **Induction for New Hires**: Training employees through domain exploration.
-
----
-
-### **11. Big Picture in Remote Mode**
-- **Main Changes**: Adapting workshops for remote teams.
-- **What Role for a Big Picture?**: Why this workshop is still useful remotely.
-- **Patterns for Remote Big Picture**: Techniques for online facilitation.
-- **Do We Have a Recipe?**: Strategies for running virtual EventStorming sessions.
 
 ---
 
@@ -719,84 +1373,6 @@ Here is a detailed outline of *The EventStorming Handbook: Unlocking Creativity,
 
 ---
 
-### **2. Your First EventStorming Session**
-2.1. *Show an Example*  
-   - Using simple examples (e.g., a movie-going experience) to explain concepts.  
-
-2.2. *Happily Ever After*  
-   - Icebreaker exercise: retelling stories like *Cinderella* using EventStorming.  
-
-2.3. *Start with Events*  
-   - Focusing on business events before introducing other elements.  
-
-2.4. *Capturing Questions*  
-   - Collecting uncertainties and questions for future discussion.  
-
-2.5. *How to Start?*  
-   - Steps for setting up a first EventStorming session.  
-
-2.6. *Setting Up the Modeling Space*  
-   - Physical and virtual space preparation.  
-
-2.7. *The Invitation*  
-   - How to invite the right mix of participants.  
-
-2.8. *Getting Started*  
-   - Initial brainstorming and structuring techniques.  
-
-2.9. *Things to Avoid*  
-   - Common mistakes that derail an EventStorming session.  
-
----
-
-### **3. Facilitation Basics**
-3.1. *Playing the Game*  
-   - Treating EventStorming as an interactive learning experience.  
-
-3.2. *Intentional Discovery*  
-   - Encouraging diverse perspectives and collaborative problem-solving.  
-
-3.3. *Open at the Close*  
-   - Structuring discussions to keep engagement high.  
-
-3.4. *Tips and Tricks*  
-   - Practical advice for facilitators.  
-
-3.5. *Dealing with Challenges*  
-   - Managing difficult participants, conflicts, and lack of engagement.  
-
----
-
-### **4. Emerging Structure**
-4.1. *Key Events*  
-   - Identifying critical moments in a business process.  
-
-4.2. *Milestones*  
-   - Recognizing significant transitions in workflows.  
-
-4.3. *Alternate Paths*  
-   - Mapping different scenarios and edge cases.  
-
-4.4. *Themes*  
-   - Organizing events into meaningful clusters.  
-
-4.5. *Facilitation Tips*  
-   - More advanced techniques for guiding workshops.  
-
-4.6. *How to Handle Loops*  
-   - Managing circular dependencies and iterative processes.  
-
-4.7. *Emergent Software Boundaries*  
-   - Discovering bounded contexts for software design.  
-
-4.8. *Domain Distillation*  
-   - Refining domain models based on EventStorming insights.  
-
-4.9. *Bounded Contexts*  
-   - Aligning domain concepts with software architecture.  
-
----
-
 ### **5. Actors and Systems**
 5.1. *Interactions with People*  
    - Understanding human roles in a business process.  
@@ -882,9 +1458,6 @@ Here is a detailed outline of *The EventStorming Handbook: Unlocking Creativity,
 ---
 
 ## **Part II - Recipes** (Practical Applications)
-
-### **12. Exploring the Big Picture**
-   - Large-scale process mapping for strategic decisions.  
 
 ### **13. Exploring a Business Process Solution**
    - Using EventStorming to refine business operations.  
