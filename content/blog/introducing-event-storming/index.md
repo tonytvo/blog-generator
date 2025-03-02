@@ -5,8 +5,15 @@ description: "introducing event storming by Alberto Brandolini summary"
 tags: ["domaindrivendesign", "design"]
 ---
 
-# take-aways
+# Table of Contents
 
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
 
 # **Understanding EventStorming**
 EventStorming is more than just a workshop technique—it’s a **highly collaborative** and **visually engaging approach** to uncovering inefficiencies, improving business processes, and designing innovative solutions. This section explores **four key scenarios** where EventStorming proves to be a game-changer.
