@@ -8,23 +8,446 @@ tags: ["domaindrivendesign", "design"]
 # take-aways
 
 
+Here’s an expanded and detailed breakdown of **Part 1: Understanding EventStorming**, with key insights and highlighted phrases.
+
+---
+
+# **Understanding EventStorming**
+EventStorming is more than just a workshop technique—it’s a **highly collaborative** and **visually engaging approach** to uncovering inefficiencies, improving business processes, and designing innovative solutions. This section explores **four key scenarios** where EventStorming proves to be a game-changer.
+
+## **What Does EventStorming Look Like?**
+
+---
+
+### **🔍 Challenging Corporate Processes**
+_"When business processes grow unwieldy and bureaucratic, EventStorming can cut through the noise and expose inefficiencies."_
+
+A **mid-sized company** struggling with an outdated **IT infrastructure** faced mounting operational difficulties. Their existing systems, once a competitive advantage, had now become a major bottleneck. The challenge was clear: **how to untangle and modernize a rigid, inefficient system**.
+
+#### **🚀 The EventStorming Approach**
+- **Breaking down silos**: The company had multiple teams, each with its own isolated processes. EventStorming facilitated cross-team collaboration to identify systemic bottlenecks.
+- **Exposing inefficiencies**: Participants marked **problematic areas** with _purple sticky notes_, highlighting broken workflows and recurring blockers.
+- **Enabling rapid solutions**: A critical finding was that a seemingly _mandatory bureaucratic step_ was **not actually necessary**—it had evolved as an unintended side effect of a prior system migration.
+
+_"By visualizing the entire process, teams realized that software constraints were imposing unnecessary manual work, creating inefficiencies that could be removed."_
+
+#### **🎯 The Outcome**
+The company **redefined its internal workflow**, eliminating redundant steps, improving system integrations, and ultimately **accelerating its customer acquisition process**.
+
+---
+
+### **🚀 Kicking Off a Startup**
+_"For startups, time is everything. EventStorming helps founders and developers align on a shared vision, reducing costly missteps."_
+
+A **new fintech startup** needed to build its **backbone software** from scratch. The **founders were industry veterans**, but the developers **had no domain experience**. The challenge? **Ensuring that the technical team fully understood the business context.**
+
+#### **🔑 EventStorming in Action**
+1. **Immediate engagement**: The session started with a _plotter paper roll covering the walls_, hundreds of **orange sticky notes**, and a **focus on Domain Events**.
+2. **Rapid knowledge transfer**: Instead of lengthy briefings, developers were asked to _write key Domain Events and arrange them chronologically_.
+3. **Pattern discovery**: The team began to see **recurring structures** and natural _boundaries in the system_, helping define Bounded Contexts.
+4. **Addressing compliance risks**: The process exposed **hidden regulatory constraints**, allowing the startup to make informed choices early.
+
+_"Within a single day, the entire development team had a clear understanding of the business model, reducing onboarding time from weeks to hours."_
+
+#### **🚀 Key Takeaway**
+By **aligning business and technical teams** from the outset, the startup avoided costly rework and ensured **a strong foundation for its Minimum Viable Product (MVP)**.
+
+---
+
+### **💡 Designing a New Feature for a Web App**
+_"Adding new features isn’t just about coding—it’s about understanding how they fit into the user journey and business objectives."_
+
+After completing a **Big Picture EventStorming session**, a web app team needed to **zoom in on a new feature**. The goal was to design a **seamless booking experience** without disrupting the existing user flow.
+
+#### **🛠 How EventStorming Helped**
+- **Refining Domain Events**: The team iterated over sticky notes, rewriting and improving descriptions.
+- **Uncovering dependencies**: The mapping process revealed that certain actions were triggering unexpected side effects.
+- **Defining clear responsibilities**: Using _yellow sticky notes_ to group related commands and events, the team **discovered missing user interactions**.
+
+_"What started as a simple feature request turned into a full-fledged user experience discussion, preventing usability pitfalls before development began."_
+
+#### **🔑 Outcome**
+- **A well-structured feature** that accounted for real-world edge cases.
+- **Avoidance of development waste**, as unnecessary complexity was removed before coding started.
+
+---
+
+### **⚡ Quick EventStorming in Avanscoperta**
+_"Sometimes, a quick retrospective can uncover more value than months of traditional analysis."_
+
+A **small training company** noticed a **decline in ticket sales** for their workshops. Instead of guessing, they ran a **Quick EventStorming session** to **analyze their sales funnel**.
+
+#### **🔍 Key Discoveries**
+- **Ambiguous discount policies**: Customers were confused by multiple price points.
+- **Weak call-to-action**: The workshop descriptions weren’t compelling enough.
+- **Marketing gaps**: The team had no clear strategy for promotions.
+
+_"The purple sticky note labeled ‘Training Class Description Sucks!’ became a pivotal insight, shifting the company’s focus toward better messaging."_
+
+#### **📈 Results**
+By **prioritizing marketing and communication improvements**, the team **boosted conversions** without making any technical changes.
+
+
+---
+
+## **Silos: How Organizations Naturally Evolve into Silos and Their Impact on Efficiency**
+
+Silos are a **natural consequence of organizational growth**. As a company expands, roles become specialized, leading to **barriers to effective communication and collaboration**. The author describes this as *organizational gravity*, meaning that **businesses tend to fall into similar dysfunctional patterns regardless of their industry or structure**.
+
+> **"Silos will emerge by default in any organization. They’re easy to establish and very hard to remove."**  
+
+### **How Silos Form**
+The formation of silos follows a predictable pattern:
+1. Someone becomes overwhelmed managing multiple tasks.
+2. They **hire a specialist** to take over a specific function.
+3. The new hire starts contributing but remains **focused only on their area**, developing **expertise in isolation**.
+4. The former expert **loses touch with the details** of that area.
+5. **The cycle repeats**, with more roles being specialized, leading to knowledge fragmentation.
+
+The unintended consequence is that **employees optimize for their own department rather than the company as a whole**, leading to **local optimizations but global inefficiencies**.
+
+> **"In the long term, silos maximize ignorance about the whole."**
+
+Silos also result in a lack of **cross-functional learning**. The problem is not just inefficiency but that **knowledge does not transfer**, making problem-solving more difficult across teams.
+
+---
+
+### **Targets and Goals: The Issue with Management-Driven Goal-Setting Processes**
+
+The way organizations set **targets and goals** often creates **hidden conflicts and inefficiencies**. While goal-setting seems logical, **secrecy and misalignment** in corporate objectives can cause **serious organizational dysfunction**.
+
+> **"Individual goals and targets and the possible monetary rewards that come with them are not discussed publicly. But this means there is no safety check that the goals are compatible between themselves."**  
+
+#### **The Problem with Traditional Goal-Setting**
+1. **Secrecy in targets** – Managers often **privately agree on their goals**, which may conflict with the goals of other teams.
+2. **Conflicting priorities** – Different departments **compete for limited resources** instead of collaborating.
+3. **Bonuses create perverse incentives** – Employees may **game the system** to meet targets at the expense of the broader organization.
+4. **Unrealistic expectations** – Management often **demands results that exceed team capacity**, leading to **stress and inefficiency**.
+
+The book illustrates this problem with an example:
+> **"Every manager thought they had rights to a 40% of the pie. But there were seven managers, and the pie was not big enough for all of them."**
+
+This scenario describes how **stakeholders refuse to compromise** on deadlines because their bonuses depend on them, even when deadlines are **clearly unachievable**.
+
+---
+
+### **Decisions’ Lifecycle: Understanding How Decisions Evolve Within a Business**
+
+> **"Decisions will pile up."**
+
+Decisions **rarely get revisited or undone**, leading to **a growing list of outdated, ineffective policies**. Organizations often **keep old decisions in place long after they are useful**, creating unnecessary complexity.
+
+#### **Why Old Decisions Persist**
+1. **Fear of admitting mistakes** – Decision-makers see reversing a choice as an **admission of failure**.
+2. **Bias toward adding, not removing** – It's **easier to keep adding new rules** than to simplify existing ones.
+3. **Organizational inertia** – Once a policy is in place, **no one wants to be responsible for removing it**.
+
+An example from the book:
+> **"People in different departments had the illusion of collaborating because they performed useless duties for their colleagues."**
+
+This illustrates **how old decisions remain unchallenged**, even when they no longer provide value.
+
+---
+
+### **The Cost of Agreeing: Challenges of Achieving Alignment in Complex Systems**
+
+> **"Centralized, top-down decisions still have the advantage of speed of execution. In contrast, collaborative decisions require reaching an agreement, and achieving it could be incredibly demanding in terms of time, energy, and coordination."**
+
+While **collaborative decision-making is ideal**, it is often **slow and difficult to implement**. **Top-down decisions move faster**, but they can be **misaligned with the realities of teams executing them**.
+
+Key points:
+1. **Alignment takes time** – The more people involved, the harder it is to reach a consensus.
+2. **Revisiting past decisions is hard** – Decisions become part of **corporate identity**, making change difficult.
+3. **Fear of challenging leadership** – Employees may **avoid questioning bad decisions** because it could be seen as **disrespecting authority**.
+
+The book references **Architectural Decision Records (ADRs)** as a way to document decisions **along with their original context**, making it **easier to evaluate when a decision should be reversed**.
+
+---
+
+### **Putting Everything Together: Synthesizing the Key Issues That EventStorming Addresses**
+
+> **"EventStorming can be a handy tool to guide the newly hired into the intricacies of the organization, speeding up onboarding and maximizing confidence."**  
+
+EventStorming helps tackle these issues by:
+1. **Breaking down silos** – **Cross-functional teams collaborate** to build a shared understanding.
+2. **Revealing hidden dependencies** – Mapping out events exposes **bottlenecks and redundancies**.
+3. **Aligning goals** – Helps different departments **visualize conflicts in priorities**.
+4. **Encouraging adaptability** – Makes it **easier to challenge outdated decisions** in a structured way.
+
+EventStorming is **not just a tool for software teams**—it’s a **way to uncover and address deep-rooted organizational dysfunctions**.
+
+Here is a detailed expansion of the key sections from *Introducing EventStorming*, **highlighting key insights and challenges** of software development with **bold** phrases and **critical quotes**.
+
+---
+
+## **Pretending to Solve the Problem by Writing Software**
+
+> **"Software engineers often think they are on a mission."**  
+> **"Software is the backbone of company operations, it’s the glue that enables successful businesses."**  
+
+However, while **software can solve problems**, it **frequently creates new ones** due to flawed assumptions and misalignment between business needs and technical execution. This section explores why **traditional software development often fails to address real business problems** and how **EventStorming offers a better approach**.
+
+---
+
+### **It’s Not About Delivering Software**
+One of the biggest misconceptions in software development is that **"delivering software" is the ultimate goal**. This assumption **misplaces the true value of software development**, which is not just writing code but understanding and solving the actual business problem.
+
+> **"Software development is a learning process, working code is a side effect."**
+
+This quote **reframes** software development: instead of focusing on **fast deployment**, developers should **prioritize learning and understanding the problem space**. However, most teams are **optimized for output (writing code) rather than outcome (solving the real problem)**.
+
+- **The real bottleneck is understanding.** Many organizations **overemphasize delivery speed** without ensuring they truly understand **what needs to be built**.  
+- **Developers are trained to "produce" software**, often without **direct contact with users**, leading to **software that doesn’t fit real-world needs**.  
+- **"We’ve been optimizing the wrong thing!"** While coding speed has improved exponentially, **the ability to gain meaningful knowledge about business problems has stagnated**.  
+
+> **"What is the value of code written on time and on budget by someone who doesn’t understand the problem?"**
+
+---
+
+### **The Illusion of the Underlying Model**
+Another major flaw in traditional software development is the **assumption that a perfect underlying model exists, waiting to be discovered**. 
+
+> **"Naive developers and analysts might have the illusion that the model is there, only the pieces of the puzzle are scattered around. You just have to find the pieces and put them together."**
+
+This **false belief** leads teams to **start with rigid models based on assumptions rather than exploration**. The problem with this approach:
+- **Real-world business processes are messy and inconsistent.**  
+- **Legacy decisions influence current processes in ways that are not immediately visible.**  
+- **Stakeholders often don't fully understand their own needs until they see software in action.**  
+
+A traditional approach assumes that **if we capture enough details, we can design a perfect system from the start**. However, this **ignores that business rules evolve**, and software must **adapt** rather than remain rigid.
+
+> **"It’s actually fun at the beginning. For a detail-obsessed maniac like me, looking for clues in order to design a data model able to represent reality was a rewarding secret pleasure. But reality is always more complex than our models."**
+
+---
+
+### **The Product Owner Fallacy**
+In Scrum and Agile methodologies, **the Product Owner (PO) is expected to be the single point of truth between business and development**. However, this **creates an unintended bottleneck**.
+
+> **"Slowly, the Product Owner becomes the only person who’s entitled to learning, while the development team turns into a mere translator of requirements into code."**  
+
+This **recreates the old Waterfall-era separation between analysts and developers**, reducing the **entire development team to order takers**. The **downside**:
+- Developers lack **direct exposure to stakeholders and business problems**.  
+- **Second-hand learning is inefficient**—misinterpretations multiply at each layer.  
+- A **single person (PO) becomes a bottleneck**, limiting knowledge flow.
+
+> **"If your goal is to learn to ride a bike, you can choose between:**
+> - **Get a bike and try it.**
+> - **Talk with a biker first.**
+> - **Talk with a friend who knows a biker.**
+> - **Read a specification document written by a friend who talked with a biker."**
+
+**Choice is yours.**
+
+The best learning comes from **direct experience, not layers of abstraction**. **EventStorming removes this bottleneck by bringing all stakeholders into the same room**.
+
+---
+
+### **The Backlog Fallacy**
+Most software teams follow **a structured backlog of features**, treating **software development as an ordered queue of tasks**. However, this **gives the illusion that the whole project is just the sum of its parts**.
+
+> **"A backlog is optimized for delivery, but it isn’t optimized for learning."**  
+
+This **creates several problems**:
+1. **Backlogs prioritize "planned" work over discovery**, preventing teams from exploring critical unknowns.  
+2. **Iterations reinforce existing biases**, making it harder to step back and rethink fundamental assumptions.  
+3. **Backlogs assume a predictable path**, which rarely exists in **complex business environments**.  
+
+> **"Some projects follow the plan relatively well—compliance projects, for example. But if your project involves innovation, you need to make room for discovery, not just execution."**
+
+Rather than following a **rigid backlog**, **EventStorming enables teams to uncover what’s truly important through real-time collaboration and dynamic modeling**.
+
+---
+
+### **EventStorming Approach: A Better Way to Model Complex Domains**
+Unlike traditional software methodologies, **EventStorming flips the model-first approach on its head** by **starting with real-world events and processes**.
+
+> **"There is no reason not to anticipate learning. It’s assuming that we already learned everything that creates a mess."**
+
+#### **Key Benefits of EventStorming**
+- **Encourages direct conversation between business and development.**  
+- **Uncovers hidden dependencies and business rules before implementation.**  
+- **Allows iterative learning and adjustment before code is written.**  
+- **Helps teams visualize the full process rather than just isolated requirements.**  
+
+> **"What about emergent design? Somebody once told me, 'So you’re against emergent design?' …well, I am not. But emergent design is not an excuse to avoid understanding the problem first."**  
+
+EventStorming allows for **controlled discovery**—**teams can iterate rapidly but with an informed starting point**. This results in **faster alignment, fewer late-stage changes, and software that better fits real-world needs**.
+
+---
+
+### **Conclusion**
+> **"Software development is not about writing code—it’s about solving problems."**  
+
+The traditional **focus on deliverables over learning leads to inefficiencies, misalignment, and unnecessary complexity**. By **shifting the focus from software output to shared understanding**, **EventStorming helps teams build software that actually works for the business**.
+
+
+Here’s an expanded and detailed breakdown of **"Your First EventStorming Session"** with key quotes highlighted:
+
+---
+
+## **Your First EventStorming Session**  
+
+> "I’m going on an adventure." – *The Hobbit: An Unexpected Journey*  
+> Just like Bilbo Baggins’ journey, an EventStorming session is an adventure into the unknown, uncovering hidden complexities, assumptions, and crucial business insights.
+
+---
+
+### **2.1. Show an Example**  
+
+**"Jump quickly into fun practice rather than get bogged down in abstract explanations."**  
+Instead of explaining theoretical concepts, start with an intuitive **example** like a *movie-going experience*. Events are recorded in **past tense** (e.g., *Checked movie schedule*), emphasizing the timeline approach.
+
+> **"It is better to show than tell."**  
+> Events should be sequenced visually, from **left to right**, like a **storyboard**.
+
+**Key Takeaway:**  
+Use a **familiar scenario** to **quickly engage** participants without overwhelming them.
+
+---
+
+### **2.2. Happily Ever After**  
+
+**"For a group completely new to EventStorming, start with a quick icebreaker."**  
+A fun and engaging way to introduce EventStorming is through **well-known stories** like *Cinderella* or *The Lion King*. Participants **write down key events** on sticky notes without worrying about order or correctness.
+
+> **"Once upon a time" at the far left, "They lived happily ever after" at the far right."**  
+> A **simple timeline** structure helps participants **naturally organize** events.
+
+**Key Takeaway:**  
+Encourages **collaboration and creativity** while building **confidence in the technique**.
+
+---
+
+### **2.3. Start with Events**  
+
+**"Write first, ask questions later. Go for volume in the beginning."**  
+EventStorming begins with a **chaotic but productive brainstorming session**. Participants write down **as many events as possible**, without concern for **duplicates or sequence**.
+
+**Common early concerns:**  
+- **Duplication** – It’s **okay** initially.  
+- **Timeline enforcement** – Not needed **yet**.  
+- **Granularity** – Just **get events out** first.  
+
+> **"Embrace diverse perspectives and terminology—at least for now."**  
+> **Language differences** emerge but should not be resolved too early.
+
+**Key Takeaway:**  
+**Encourage rapid event listing** to **capture the domain’s full complexity**.
+
+---
+
+### **2.4. Capturing Questions**  
+
+**"Capture questions and pain points as hot spots."**  
+Early on, **participants go broad rather than deep**. Facilitators should record **uncertainties** rather than getting **stuck debating details**.
+
+> **"What spell?" "In what time zone?"**  
+> Questions highlight **gaps in knowledge** that may need further investigation.
+
+**Techniques to capture questions:**  
+- Use **brightly colored sticky notes** for questions, risks, and assumptions.  
+- If a question **remains unanswered**, **add it to the timeline** instead of debating.  
+
+**Key Takeaway:**  
+Encourages **open communication** and **avoids bottleneck discussions**.
+
+---
+
+### **2.5. How to Start?**  
+
+**"How do we actually begin?"**  
+Start by defining **a clear objective** for the session and gathering **diverse stakeholders**.
+
+> **"The goal is to learn as much as possible in the shortest time possible."**  
+> Avoid wasting time by **focusing on key contributors**.
+
+**Steps to start:**  
+1. **Define the scope** – What are we mapping?  
+2. **Identify participants** – Business and technical experts.  
+3. **Set the ground rules** – Encourage open thinking.
+
+**Key Takeaway:**  
+Clarity on **objectives and participation** ensures a **focused session**.
+
+---
+
+### **2.6. Setting Up the Modeling Space**  
+
+**"Both physical and virtual spaces need thoughtful setup."**  
+For **in-person workshops**:  
+- Use a **large wall** or **whiteboard**.  
+- Provide **sticky notes** and **sharpies**.  
+
+For **virtual sessions**:  
+- Ensure **everyone is comfortable** with tools like **Miro or Mural**.
+
+> **"Leave some empty space before the trigger—unexpected preconditions often arise."**  
+> Over-planning the space **can be limiting**, so maintain flexibility.
+
+**Key Takeaway:**  
+The **right setup fosters collaboration** and **keeps the process fluid**.
+
+---
+
+### **2.7. The Invitation**  
+
+**"Who should be involved in an EventStorming session?"**  
+A **diverse mix** of **business and technical people** ensures a **comprehensive perspective**.
+
+> **"Subject matter experts, users, business analysts, and developers all have unique insights."**  
+> Stakeholders from **different roles** enrich discussions.
+
+**Key Takeaway:**  
+A **diverse mix of participants** ensures **holistic domain understanding**.
+
+---
+
+### **2.8. Getting Started**  
+
+**"Brainstorming should begin as soon as possible."**  
+Initial steps include:  
+1. **Participants write down events independently.**  
+2. **Sticky notes are placed on the timeline chaotically.**  
+3. **Facilitators encourage sequencing and discussion.**  
+
+> **"The chaos of ideas eventually leads to structured understanding."**  
+> **Allow disorder** before refining structure.
+
+**Key Takeaway:**  
+**Encourage rapid contributions** before organizing.
+
+---
+
+### **2.9. Things to Avoid**  
+
+**"Common pitfalls can derail an EventStorming session."**  
+
+1. **Over-facilitation** – Let participants explore **without too much control**.  
+2. **Getting stuck in details** – Capture **questions as hot spots** rather than debating.  
+3. **Forcing a structure too soon** – **Let the natural flow emerge** first.  
+
+> **"Trying to make it perfect too early kills creativity."**  
+> **First, generate ideas—then refine.**  
+
+**Key Takeaway:**  
+Allow **messiness in the beginning**, **focus on discovery**, and **refine later**.
+
+---
+
+### **Final Thoughts**  
+**"Your first EventStorming session is an adventure into complexity."**  
+By following these principles:  
+- Start with **familiar examples**.  
+- Encourage **broad exploration** before refinement.  
+- Capture **questions and unknowns openly**.  
+- Structure **emerges naturally**—don’t force it too soon.  
+
+> **"Embrace the chaos—it leads to insight."**  
+
+This approach ensures **effective collaboration, deeper understanding, and better decision-making**.
+
+
 # unsorted
-
-Here is a detailed outline of the book *Introducing EventStorming* by Alberto Brandolini based on the table of contents and excerpts from the text:
-
----
-
-### **Introducing EventStorming: An Act of Deliberate Collective Learning**  
-**By: Alberto Brandolini**  
-**Published: 2021-08-26**
-
----
-
-## **Outline of the Book**
-### **Preface**
-- Introduction to the book’s journey, challenges in writing it, and the impact of the pandemic on EventStorming methodologies.
-- Explanation of the target audience: software developers, business experts, and entrepreneurs.
-- Overview of notation used in EventStorming (color-coded sticky notes for different concepts).
 
 ---
 
