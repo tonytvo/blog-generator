@@ -10680,6 +10680,63 @@ Based on available data, Palliser can be classified as a B neighborhood. This cl
 - **Long-Term Hold:** With the area's appreciation potential and stable rental market, holding properties for capital growth and consistent rental income can yield substantial returns over time.
 
 # Coach Hill
+
+Coach Hill is a residential neighborhood in the southwest quadrant of Calgary, Alberta, established in 1979. It offers a blend of housing options and amenities, making it a notable area for real estate investment.
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Services:** Coach Hill residents have access to various retail and dining options along 17th Avenue SW, a vibrant commercial corridor offering boutiques, restaurants, and cafes.
+
+- **Recreation:** The community is near Edworthy Park, providing recreational facilities such as walking trails, picnic areas, and green spaces.
+
+- **Transportation:** Coach Hill benefits from convenient access to public transit, including proximity to the 69th Street CTrain station, facilitating easy commutes to downtown Calgary and other parts of the city.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many homes in Coach Hill were built during the late 1970s and early 1980s, reflecting the architectural styles of that era.
+
+- **Building Types:** The neighborhood features a diverse housing stock, including single-family detached homes, semi-detached houses, townhouses, and low-rise apartment buildings. Approximately 16.4% of the buildings are condominiums or apartments, and 15.7% of the housing is used for renting.
+
+**Zoning Regulations:**
+
+Coach Hill's zoning accommodates a mix of residential densities, allowing for single-family homes as well as multi-family developments. Specific zoning regulations may permit increased density on certain lots; however, it's essential to consult the City of Calgary's official resources for detailed information.
+
+**Demographics:**
+
+- **Population:** As of the 2012 municipal census, Coach Hill had a population of 3,222 residents.
+
+- **Median Age:** The median age in Coach Hill is approximately 40 years, indicating a mature community.
+
+- **Average Income:** The median household income in Coach Hill is approximately $75,337, which is higher than the city average.
+
+**Crime Rate:**
+
+Coach Hill's crime rates are 1% lower than the national average, with violent crimes being 23% lower than the national average. Residents have a 1 in 25 chance of becoming a victim of crime, and the community is considered safer than 63% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** With a proportion of rental properties (15.7%), there is a stable rental market catering to various demographics, including students, professionals, and families.
+
+- **Average Rents:** Specific rental data for Coach Hill is limited; however, Calgary's overall rental market has experienced growth. As of February 2025, the average rent for a two-bedroom apartment in Calgary was approximately $1,450 per month.
+
+**Neighborhood Classification:**
+
+Based on available data, Coach Hill can be classified as a B neighborhood. This classification reflects stable property values, average crime rates, and access to essential amenities, making it a viable option for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Coach Hill's strategic location and diverse housing options suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Coach Hill is approximately $482,560, with properties ranging from $300,000 to over $700,000, depending on size, condition, and specific location within the neighborhood.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Multi-Family Rentals:** Investing in duplexes, triplexes, or apartment buildings can capitalize on the strong rental demand in the area.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older homes, renovating them to modern standards, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
 # Lower Mount Royal
 # Westgate
 # Skyview Ranch
