@@ -5,7 +5,17 @@ description: "learning organization"
 tags: ["productivity", "learning"]
 ---
 
-# **PART I: HOW OUR ACTIONS CREATE OUR REALITY … AND HOW WE CAN CHANGE IT**
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
+
+# **PART I: HOW OUR ACTIONS CREATE OUR REALITY... AND HOW WE CAN CHANGE IT**
 
 ## **1. “Give Me a Lever Long Enough... and Single-Handed I Can Move the World”**
 
