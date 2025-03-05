@@ -10738,6 +10738,63 @@ Based on available data, Coach Hill can be classified as a B neighborhood. This 
 - **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
 
 # Lower Mount Royal
+
+Lower Mount Royal is a vibrant inner-city neighborhood located in the southwest quadrant of Calgary, Alberta. Known for its rich history and proximity to downtown, it offers a blend of residential and commercial amenities that appeal to a diverse population.
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Dining:** Lower Mount Royal is adjacent to the bustling 17th Avenue SW, often referred to as the "Red Mile," which hosts an array of boutiques, restaurants, cafes, and nightlife options, providing residents with a lively urban experience.
+
+- **Parks and Recreation:** The neighborhood is close to several green spaces, including Tomkins Park and the Beltline's Central Memorial Park, offering recreational opportunities and community events.
+
+- **Cultural Attractions:** Its proximity to downtown Calgary allows easy access to cultural institutions such as the Glenbow Museum, Arts Commons, and the Calgary Tower.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many of the original structures in Lower Mount Royal date back to the early 20th century, reflecting historic architectural styles. However, the area has seen significant redevelopment, with modern condominiums and apartment buildings constructed in recent decades.
+
+- **Building Types:** The neighborhood predominantly features multi-family residential units, with approximately 88.7% of the buildings being condominiums or apartments, and 77.5% of the housing used for renting.
+
+**Zoning Regulations:**
+
+Lower Mount Royal's zoning is primarily residential, with designations that accommodate higher-density developments such as multi-family units. Specific zoning bylaws may allow for increased density on certain lots, enabling the development of additional units per property. Prospective investors should consult the City of Calgary's planning department to understand the exact zoning regulations and any potential for redevelopment.
+
+**Demographics:**
+
+- **Population:** As of the 2021 Census, Lower Mount Royal had a population of 2,990 residents, reflecting a stable community size over recent years.
+
+- **Median Age:** The neighborhood has a relatively young demographic, with a significant proportion of residents being young professionals and students.
+
+- **Average Income:** The median household income in Lower Mount Royal is approximately $73,950, which is 22% lower than the Alberta average.
+
+**Crime Rate:**
+
+Lower Mount Royal's crime rates are 11% higher than the national average, with violent crimes being 14% lower than the national average. Residents have a 1 in 22 chance of becoming a victim of crime, and the community is considered safer than 58% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** With a substantial proportion of rental properties (77.5%), Lower Mount Royal has a robust rental market catering to various demographics, including young professionals, students, and small families.
+
+- **Average Rents:** Specific rental data for Lower Mount Royal is limited; however, Calgary's overall rental market has experienced growth. As of February 2025, the average rent for a two-bedroom apartment in Calgary was approximately $1,450 per month.
+
+**Neighborhood Classification:**
+
+Based on available data, Lower Mount Royal can be classified as a B neighborhood. This classification reflects stable property values, a vibrant urban environment, and access to essential amenities, making it attractive for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Lower Mount Royal's desirable location and urban appeal suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Lower Mount Royal is approximately $377,406, with properties ranging from $215,000 to higher, depending on size, condition, and specific location within the neighborhood.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Condominium Rentals:** Investing in modern condos can capitalize on the strong rental demand among young professionals seeking proximity to downtown amenities.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older units, renovating them to contemporary standards, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential and stable rental market, holding properties for capital growth and consistent rental income can yield substantial returns over time.
+
 # Westgate
 # Skyview Ranch
 # Hounsfield Heights/Briar Hill
