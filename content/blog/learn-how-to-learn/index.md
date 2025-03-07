@@ -34,9 +34,6 @@ tags: ["productivity", "learning"]
 # [Learning Organization](/learning-organization)
 - [learning organization summary](/learning-organization)
 
-# Range: Why Generalists 
-- TODO????
-
 # learning how to learn
 
 ## the problem when you follow your passion
