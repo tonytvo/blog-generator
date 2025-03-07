@@ -10796,6 +10796,64 @@ Based on available data, Lower Mount Royal can be classified as a B neighborhood
 - **Long-Term Hold:** With the area's appreciation potential and stable rental market, holding properties for capital growth and consistent rental income can yield substantial returns over time.
 
 # Westgate
+
+Westgate is a residential neighborhood located in the southwest quadrant of Calgary, Alberta. Established in 1957, it offers a blend of housing options and amenities, making it a notable area for real estate investment.
+
+**Nearby Amenities and Attractions:**
+
+- **Shopping and Services:** Westgate residents have access to various retail and dining options along 17th Avenue SW, a vibrant commercial corridor offering boutiques, restaurants, and cafes.
+
+- **Recreation:** The community is near Edworthy Park, providing recreational facilities such as walking trails, picnic areas, and green spaces.
+
+- **Transportation:** Westgate benefits from convenient access to public transit, including proximity to the 45 Street LRT Station, facilitating easy commutes to downtown Calgary and other parts of the city.
+
+**Housing Characteristics:**
+
+- **Construction Period:** Many homes in Westgate were built during the late 1950s and early 1960s, reflecting the architectural styles of that era.
+
+- **Building Types:** The neighborhood features a diverse housing stock, including single-family detached homes, semi-detached houses, townhouses, and low-rise apartment buildings. Approximately 14.6% of the buildings are condominiums or apartments, and 24.3% of the housing is used for renting.
+
+**Zoning Regulations:**
+
+Westgate's zoning accommodates a mix of residential densities, allowing for single-family homes as well as multi-family developments. Specific zoning regulations may permit increased density on certain lots; however, it's essential to consult the City of Calgary's official resources for detailed information.
+
+**Demographics:**
+
+- **Population:** As of the 2021 Census, Westgate had a population of 3,225 residents, reflecting a stable community size over recent years.
+
+- **Median Age:** The neighborhood has a relatively balanced age distribution, with 16% of residents aged 0-14 years and 18% aged 65 and over.
+
+- **Average Income:** The median household income in Westgate is approximately $88,884, which is 6% lower than the Alberta average.
+
+**Crime Rate:**
+
+Westgate's crime rates are 3% higher than the national average, with violent crimes being 19% lower than the national average. Residents have a 1 in 23 chance of becoming a victim of crime, and the community is considered safer than 66% of cities in Alberta.
+
+**Rental Market:**
+
+- **Supply and Demand:** With a proportion of rental properties (24.3%), there is a stable rental market catering to various demographics, including students, professionals, and families.
+
+- **Average Rents:** Specific rental data for Westgate is limited; however, Calgary's overall rental market has experienced growth. As of September 2024, the average market rental rate for multi-residential units, including apartments and condominiums, was $2,225 per month.
+
+**Neighborhood Classification:**
+
+Based on available data, Westgate can be classified as a B neighborhood. This classification reflects stable property values, average crime rates, and access to essential amenities, making it a viable option for both homeowners and investors.
+
+**Real Estate Investment Potential:**
+
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with average home prices increasing by 5.1% year-over-year as of February 2025. Westgate's strategic location and diverse housing options suggest potential for steady appreciation over time.
+
+- **Average House Prices:** The average price of homes in Westgate is approximately $771,250, with properties ranging from $250,000 to over $1,089,900, depending on size, condition, and specific location within the neighborhood.
+
+**Suitable Real Estate Investment Strategies:**
+
+- **Multi-Family Rentals:** Investing in duplexes, triplexes, or apartment buildings can capitalize on the strong rental demand in the area.
+
+- **Renovation and Resale:** Opportunities exist for purchasing older homes, renovating them to modern standards, and selling at a profit.
+
+- **Long-Term Hold:** With the area's appreciation potential, holding properties for capital growth can yield substantial returns over time.
+
+
 # Skyview Ranch
 # Hounsfield Heights/Briar Hill
 # University Heights
