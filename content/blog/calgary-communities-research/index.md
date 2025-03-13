@@ -11091,6 +11091,103 @@ These amenities make the area attractive to students, healthcare professionals, 
 --- 
 
 # Downtown East Village
+
+[![Downtown East Village Calgary - Real Estate, Houses for sale, Homes for ...](https://tse3.mm.bing.net/th/id/OIP.AYffQ-ImKgXdbvXSxVW6KgHaE8?pid=Api)](https://www.chamberlaingroup.ca/real-estate/alberta/calgary/downtown-east-village/)
+Downtown East Village (DEV) in Calgary has transformed into a vibrant, mixed-use urban neighborhood, offering diverse opportunities for real estate investors. Below is a comprehensive analysis addressing your specific inquiries:
+
+---
+
+## 🏙️ Nearby Amenities & Attractions
+
+DEV boasts a rich array of amenities and attractions:
+
+- **Cultural & Recreational Sites**: Studio Bell (National Music Centre), the New Central Library, Fort Calgary, and St. Patrick’s Island Park.  ([Explore East Village | Studio Bell](https://www.studiobell.ca/explore-east-village?utm_source=chatgpt.com))
+
+- **Outdoor Spaces**: RiverWalk pathway connects to Calgary's extensive 700 km pathway network.  ([East Village | Tourism Calgary](https://www.visitcalgary.com/things-to-do/shopping/east-village?utm_source=chatgpt.com))
+
+- **Dining & Shopping**: A variety of eateries, boutiques, and public art installations enhance the neighborhood's appeal. 
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+- **Construction Timeline**: Significant redevelopment began post-2007, with many modern mid- and high-rise condos constructed in the 2010s.  ([[PDF] 2025Property Assessment - Residential Market Trends](https://www.calgary.ca/content/dam/www/pda/assessment/assessment-search/PDFreportMRMT.pdf?utm_source=chatgpt.com))
+
+- **Building Types**: Predominantly modern condominiums and multi-family rental apartments, often featuring amenities like fitness centers, rooftop patios, and underground parking.  ([8 Reasons to Live in Downtown East Village - Calgary - Justin Havre](https://www.justinhavre.com/blog/east-village-calgary-neighbourhood-guide.html?utm_source=chatgpt.com))
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Zoning Designation**: The area falls under the Centre City East Village Mixed Use District (CC-EMU), permitting a mix of residential, commercial, and institutional uses.  ([Division 4: Centre City East Village Mixed Use District (CC-EMU)](https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?div=4&part=12&utm_source=chatgpt.com))
+
+- **Density Allowances**: The zoning supports higher-density developments, facilitating more units per lot, aligning with the neighborhood's urban planning goals.
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: As of the 2016 municipal census, DEV had 3,242 residents, marking a 14.2% increase from 2015.  ([East Village Map - Map of Calgary](https://www.calgarymap.com/downtown-east-village/?utm_source=chatgpt.com))
+
+- **Growth Projections**: Ongoing developments and infrastructure investments suggest continued population growth in the coming years.
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: As of 2021, the median household income in DEV was approximately $47,057, which is about 50% lower than Alberta's average.  ([Downtown East Village, AB Area Guide - AreaVibes](https://www.areavibes.com/calgary-ab/downtown%2Beast%2Bvillage/?utm_source=chatgpt.com))
+
+---
+
+## 🚨 Crime Rate
+
+- **Overall Crime**: DEV's crime rates are 27% higher than the national average. ([Downtown East Village, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/downtown%2Beast%2Bvillage/crime/?utm_source=chatgpt.com))
+
+- **Violent Crime**: Slightly lower than the national average. 
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Market Dynamics**: Calgary faces a rental supply challenge with low vacancy rates, and DEV is no exception, experiencing high demand due to its amenities and central location.  ([Navigating Calgary's Rental Market Trends for 2024 - Leasey.AI](https://www.leasey.ai/resources/calgary-rental-market-trends-2024/?utm_source=chatgpt.com))
+
+---
+
+## 💵 Average Rents
+
+- **Downtown Calgary**: As of April 2025, the median rent is $1,950, with a 1-bedroom averaging $1,801 and a 2-bedroom at $2,494.  ([Average Rent in Downtown Calgary, Calgary, AB - Zumper](https://www.zumper.com/rent-research/calgary-ab/downtown-calgary?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: DEV can be considered a B-class neighborhood, characterized by its urban setting, ongoing development, and a mix of income levels.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: DEV has seen a 6.7% quarterly increase in average house prices, indicating strong appreciation potential. 
+
+- **Cash Flow**: High rental demand supports favorable cash flow for investors.
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of April 2025, the average house price in DEV is approximately $360,210.  ([Downtown East Village Real Estate Trends - Calgary - Zolo](https://www.zolo.ca/calgary-real-estate/downtown-east-village/trends?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Capitalizing on long-term appreciation and rental income.
+
+- **Short-Term Rentals**: Leveraging the neighborhood's attractions to appeal to tourists and business travelers.
+
+- **Mixed-Use Development**: Utilizing CC-EMU zoning to develop properties with both residential and commercial components. ([Division 4: Centre City East Village Mixed Use District (CC-EMU)](https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?div=4&part=12&utm_source=chatgpt.com))
+
+
 # Glendale
 # University of Calgary
 # Country Hills Village

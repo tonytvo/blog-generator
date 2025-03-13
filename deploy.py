@@ -2,6 +2,7 @@ import argparse, subprocess
 import shutil
 import os
 
+
 def main():
     parser = argparse.ArgumentParser(description='commit and deploy script.')
     parser.add_argument("--days-ago", help="how many days ago the commit happens")
@@ -11,29 +12,29 @@ def main():
 
     execute_command(["git", "add", "."])
     if args.days_ago:
-        subprocess.run(["git", "commit", f'--date="{args.days_ago} day ago"', "-m", args.commit_message])
+        execute_command(["git", "commit", f'--date="{args.days_ago} day ago"', "-m", args.commit_message])
     else:
-        subprocess.run(["git", "commit", "-m", args.commit_message])
+        execute_command(["git", "commit", "-m", args.commit_message])
 
-    subprocess.run(["git", "push", "origin", "main"])
+    execute_command(["git", "push", "origin", "main"])
 
-    subprocess.run(["gatsby", "build", "--prefix-paths"])
+    execute_command(["gatsby", "build", "--prefix-paths"])
+
     gh_pages_artifacts_dir = get_gh_pages_artifacts_dir()
     shutil.copytree(gh_pages_artifacts_dir, args.gh_page_repo, dirs_exist_ok=True)
 
-    output = subprocess.run(["git", "add", "."],
-                            cwd=args.gh_page_repo,
-                            capture_output=True)
-    print(output)
+    execute_command(["git", "add", "."],
+                    cwd=args.gh_page_repo,
+                    capture_output=True)
 
-    output = subprocess.run(["git", "commit", "-m", args.commit_message],
-                            cwd=args.gh_page_repo,
-                            capture_output=True)
-    print(output)
-    output = subprocess.run(["git", "push", "origin", "main"],
-                            cwd=args.gh_page_repo,
-                            capture_output=True)
-    print(output)
+    execute_command(["git", "commit", "-m", args.commit_message],
+                    cwd=args.gh_page_repo,
+                    capture_output=True)
+
+    execute_command(["git", "push", "origin", "main"],
+                    cwd=args.gh_page_repo,
+                    capture_output=True)
+
 
 def execute_command(command_args, cwd: str = None, capture_output: bool = False):
     output = subprocess.run(command_args,
