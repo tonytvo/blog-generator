@@ -11189,6 +11189,101 @@ DEV boasts a rich array of amenities and attractions:
 
 
 # Glendale
+
+[![HALL RENTALS – Glendale/Glendale Meadows Community Association](https://tse3.mm.bing.net/th?id=OIP.Awau_dYxQxe-BvulJbzPbQHaFj&pid=Api)](https://myglendale.ca/hall-rentals/)
+Glendale is a well-established residential neighborhood in southwest Calgary, offering a blend of mid-century charm and modern conveniences. Here's a comprehensive overview tailored for real estate investors: ([Glendale - Calgary Neighbourhood Guide](https://teamhripko.ca/calgary-neighbourhoods/west/glendale/?utm_source=chatgpt.com))
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Recreational Facilities**: Glendale boasts the Glendale Outdoor Rink, tennis courts, and the Glendale School Playground, providing ample recreational opportunities for residents. ([Glendale School Playground - calgaryplaygroundreview.com](https://calgaryplaygroundreview.com/glendale-school-playground/?utm_source=chatgpt.com))
+
+- **Community Engagement**: The Glendale/Glendale Meadows Community Association hosts various events and programs, fostering a strong sense of community. ([HALL RENTALS – Glendale/Glendale Meadows Community Association](https://myglendale.ca/hall-rentals/?utm_source=chatgpt.com))
+
+- **Shopping & Dining**: Proximity to Westbrook Mall and other local shops and restaurants enhances the neighborhood's appeal. ([8 3910 19 Avenue SW in Calgary: Glendale Row/Townhouse for sale : MLS ...](https://findcalgaryhome.ca/buy-calgary-real-estate/property-type/near-malls/westbrook/listing.a2130052-8-3910-19-avenue-sw-calgary-t3e-7e7.101689212/?utm_source=chatgpt.com))
+
+---
+
+## 🏡 Housing Stock & Building Types
+
+- **Construction Era**: Most homes in Glendale were built between the 1950s and 1970s, reflecting mid-century architectural styles.
+
+- **Housing Types**: The neighborhood predominantly features single-family detached homes, with some recent developments introducing townhouses and duplexes.
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Current Zoning**: Glendale is primarily zoned as R-C1, designated for single-detached residential homes. ([[PDF] Glendale Land Use Application | The City of Calgary](https://www.calgary.ca/content/dam/www/engage/documents/glendaleapplication/glendaleapplicationwwhr.pdf?utm_source=chatgpt.com))
+
+- **Potential Changes**: There have been discussions about rezoning certain areas to R-CG (Residential – Grade-Oriented Infill), which would allow for higher-density housing options like rowhouses and townhouses.  ([PROPOSED BLANKET REZONING: WHAT IT ALL MEANS -](https://www.newinfills.ca/blog/80838/proposed-blanket-rezoning-what-it-all-means?utm_source=chatgpt.com))
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: As of the latest data, Glendale has a population of approximately 3,021 residents.  ([Living in Glendale, Calgary, AB - AreaVibes](https://www.areavibes.com/calgary-ab/glendale/livability/?utm_source=chatgpt.com))
+
+- **Growth Trends**: The neighborhood has experienced modest population growth over the years, maintaining its residential character.
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: The median household income in Glendale is approximately $96,523, which is slightly higher than the Alberta average.  ([Glendale, AB Area Guide - AreaVibes](https://www.areavibes.com/calgary-ab/glendale/?utm_source=chatgpt.com))
+
+---
+
+## 🚨 Crime Rate
+
+- **Safety**: Glendale is considered a safe neighborhood, with crime rates 5% lower than the national average and violent crimes 26% lower than the national average.  ([Glendale, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/glendale/crime/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Rental Market**: The rental market in Glendale is stable, with consistent demand for single-family homes and duplexes.
+
+- **Vacancy Rates**: Calgary's overall rental vacancy rate has seen fluctuations, but specific data for Glendale indicates a balanced market. 
+
+---
+
+## 💵 Average Rents
+
+- **Rental Prices**: The average rent for properties in Glendale is approximately $1,900 per month.  ([Average rent price (monthly) in Glendale, Calgary, Alberta, Canada](https://www.houski.ca/location/average/rent_monthly/ca/ab/calgary/glendale?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: Glendale can be classified as a B-class neighborhood, characterized by its stable property values, quality housing stock, and desirable location.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: The average house price in Glendale has seen a 20.5% year-over-year increase, indicating strong appreciation potential.  ([Glendale (Calgary) Housing Market Report | April 2025 Real Estate ...](https://www.zolo.ca/calgary-real-estate/glendale/trends?utm_source=chatgpt.com))
+
+- **Cash Flow**: While the area offers solid appreciation prospects, cash flow may be moderate due to higher property prices.
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of April 2025, the average house price in Glendale is approximately $791,880.  ([Glendale (Calgary) Housing Market Report | April 2025 Real Estate ...](https://www.zolo.ca/calgary-real-estate/glendale/trends?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Capitalizing on long-term appreciation in a stable neighborhood.
+
+- **Renovation and Resale**: Updating mid-century homes to meet modern standards can yield profitable returns. ([Glendale - Calgary Neighbourhood Guide](https://teamhripko.ca/calgary-neighbourhoods/west/glendale/?utm_source=chatgpt.com))
+
+- **Infill Development**: Exploring opportunities for duplexes or townhouses, especially if zoning changes permit higher-density developments.
+
+
 # University of Calgary
 # Country Hills Village
 # Wildwood

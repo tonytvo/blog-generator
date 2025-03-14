@@ -20,8 +20,7 @@ def main():
 
     execute_command(["gatsby", "build", "--prefix-paths"])
 
-    gh_pages_artifacts_dir = get_gh_pages_artifacts_dir()
-    shutil.copytree(gh_pages_artifacts_dir, args.gh_page_repo, dirs_exist_ok=True)
+    shutil.copytree(get_gh_pages_artifacts_dir(), args.gh_page_repo, dirs_exist_ok=True)
 
     execute_command(["git", "add", "."],
                     cwd=args.gh_page_repo,
@@ -44,9 +43,7 @@ def execute_command(command_args, cwd: str = None, capture_output: bool = False)
 
 
 def get_gh_pages_artifacts_dir():
-    cwd = os.getcwd()
-    print(f'"{cwd}/public"')
-    gh_pages_artifacts_dir = os.path.join(cwd, "public")
+    gh_pages_artifacts_dir = os.path.join(os.getcwd(), "public")
     return gh_pages_artifacts_dir
 
 
