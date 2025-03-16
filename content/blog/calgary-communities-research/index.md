@@ -11285,6 +11285,101 @@ Glendale is a well-established residential neighborhood in southwest Calgary, of
 
 
 # University of Calgary
+
+[![University of Calgary campus Stock Photo - Alamy](https://tse3.mm.bing.net/th/id/OIP.ol0NVNfkmRZV8v8AUru_3QHaGc?pid=Api)](https://www.alamy.com/university-of-calgary-campus-image450299514.html)
+The University District in Calgary is a thoughtfully planned, mixed-use community adjacent to the University of Calgary's main campus. It offers a vibrant blend of residential, commercial, and recreational spaces, making it an attractive locale for real estate investment. Here's a comprehensive overview tailored for investors: ([University District and Truman announce new residential rental project](https://ucalgary.ca/news/university-district-and-truman-homes-announce-new-residential-rental-project?utm_source=chatgpt.com))
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Educational Institutions**: Proximity to the University of Calgary and Alberta Children's Hospital. ([University District | Tourism Calgary](https://www.visitcalgary.com/things-to-do/shopping/university-district?utm_source=chatgpt.com))
+
+- **Healthcare Facilities**: Foothills Medical Centre and the new Calgary Cancer Centre are nearby.
+
+- **Recreational Spaces**: 40 acres of greenspace, 12 km of pathways, dog parks, and playgrounds.  ([University District Neighbourhood Guide | Tourism Calgary](https://www.visitcalgary.com/things-to-do/stories-from-calgary/university-district-neighbourhood-guide?utm_source=chatgpt.com))
+
+- **Shopping & Dining**: Over 50 shops and restaurants, including Save-On-Foods, Market Wines, and Cineplex VIP Cinemas.  ([University District Calgary Neighbourhood Guide: Living in ...](https://calgaryhomes.ca/blog/living-in-university-district-calgary.html?utm_source=chatgpt.com))
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+- **Construction Timeline**: The University District is a newer development, with most housing constructed post-2016. ([University District Real Estate Trends - Calgary - Zolo](https://www.zolo.ca/calgary-real-estate/university-district/trends?utm_source=chatgpt.com))
+
+- **Building Types**: Predominantly modern condominiums and townhouses, with ongoing developments like the "Academy" offering 222 rental units.  ([University District and Truman announce new residential rental project](https://ucalgary.ca/news/university-district-and-truman-homes-announce-new-residential-rental-project?utm_source=chatgpt.com))
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Zoning Designation**: The area falls under the Centre City Mixed Use District (CC-X), allowing for a mix of residential, commercial, and institutional uses.
+
+- **Density Allowances**: The zoning supports higher-density developments, facilitating more units per lot. 
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: As of the 2021 Census, the University District had a population of approximately 1,273 residents.  ([University District, AB Housing Market & Real Estate Trends - Houseful](https://www.houseful.ca/market-trends/calgary-ab/university-district/?utm_source=chatgpt.com))
+
+- **Growth Trends**: The area is experiencing rapid growth due to ongoing developments and its appeal to students, professionals, and families.
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: Specific data for the University District isn't readily available, but adjacent areas like University Heights have median household incomes around $96,000. 
+
+---
+
+## 🚨 Crime Rate
+
+- **Safety**: The University District boasts crime rates 3% lower than the national average, with violent crimes 24% lower.  ([University District, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/university%2Bdistrict/crime/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Market Dynamics**: High demand for rentals due to proximity to the university and medical facilities. Occupancy rates for on-campus residences reached 97% in Fall 2024.  ([Understanding the high demand for University of Calgary's on ...](https://thegauntlet.ca/2025/01/20/understanding-the-high-demand-for-university-of-calgarys-on-campus-housing/?utm_source=chatgpt.com))
+
+---
+
+## 💵 Average Rents
+
+- **Rental Prices**: As of April 2025, the average rent for an apartment in University Heights, adjacent to the University District, is approximately $1,825 per month.  ([Average rent in University Heights, Calgary, AB - Zumper](https://www.zumper.com/rent-research/calgary-ab/university-heights?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: The University District can be classified as an A-class neighborhood, characterized by new developments, high demand, and strong appreciation potential.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: The area has seen a 24.6% quarterly increase in average house prices, indicating strong appreciation potential.  ([University District Real Estate Trends - Calgary - Zolo](https://www.zolo.ca/calgary-real-estate/university-district/trends?utm_source=chatgpt.com))
+
+- **Cash Flow**: High rental demand supports favorable cash flow for investors.
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of April 2025, the average house price in the University District is approximately $619,356.  ([University District Real Estate Trends - Calgary - Zolo](https://www.zolo.ca/calgary-real-estate/university-district/trends?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Capitalizing on long-term appreciation and rental income.
+
+- **Short-Term Rentals**: Leveraging the neighborhood's attractions to appeal to tourists and business travelers.
+
+- **Mixed-Use Development**: Utilizing CC-X zoning to develop properties with both residential and commercial components.
+
+
 # Country Hills Village
 # Wildwood
 # Upper Mount Royal

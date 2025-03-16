@@ -23,22 +23,20 @@ def main():
     shutil.copytree(get_gh_pages_artifacts_dir(), args.gh_page_repo, dirs_exist_ok=True)
 
     execute_command(["git", "add", "."],
-                    cwd=args.gh_page_repo,
-                    capture_output=True)
+                    cwd=args.gh_page_repo)
 
     execute_command(["git", "commit", "-m", args.commit_message],
-                    cwd=args.gh_page_repo,
-                    capture_output=True)
+                    cwd=args.gh_page_repo)
 
     execute_command(["git", "push", "origin", "main"],
-                    cwd=args.gh_page_repo,
-                    capture_output=True)
+                    cwd=args.gh_page_repo)
 
 
-def execute_command(command_args, cwd: str = None, capture_output: bool = False):
+def execute_command(command_args, cwd: str = None):
     output = subprocess.run(command_args,
                             cwd=cwd,
-                            capture_output=capture_output)
+                            capture_output=True,
+                            text=True)
     print(output)
 
 
