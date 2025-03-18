@@ -289,6 +289,189 @@ It looks like my OCR tool is unable to process Vietnamese text at the moment. Ho
 - **"Côn quất trên rừng ăn đen nhưng nhặng thì quả gì cũng chua."**  
   → **Trải nghiệm thực tế về thực phẩm trong rừng**, không phải **quả nào nhìn đẹp cũng ngon**.  
 
+It looks like my OCR tool is still unable to process Vietnamese text. However, I can manually transcribe and highlight key details from the images.
+
+---
+
+# **Lá cơi**  
+
+## **1. Tình cảm giữa Côn và anh Ca – Học hỏi từ người anh**  
+- **"Côn thương anh Ca. Anh Ca tinh lắm và giỏi kiếm ăn trong rừng."**  
+  → **Mô tả sự kính trọng và yêu mến của Côn dành cho anh Ca**, người **có kỹ năng sinh tồn tốt hơn**.  
+- **"Nhìn lên cây ổi, Côn thấy toàn quả xanh thì anh Ca lại thấy những quả ương và quả chín."**  
+  → **Sự khác biệt trong cách quan sát và kinh nghiệm**, thể hiện **bài học thực tế từ anh trai dành cho Côn**.  
+- **"Hai anh em ăn hết quả chín thì ăn cả quả xanh."**  
+  → **Trẻ em không bỏ phí bất cứ thứ gì**, thể hiện **cuộc sống kham khổ nhưng vẫn hồn nhiên**.  
+- **"Ăn ổi xanh thì đi táo, vào rừng ngồi, vả cả."**  
+  → **Hiện thực khắc nghiệt của việc ăn uống thiếu thốn**, nhưng **được kể một cách hài hước, đúng với góc nhìn trẻ thơ**.  
+
+---
+
+# **Thuốc trên rừng**  
+
+## **Những bài thuốc dân gian trong rừng**  
+- **"Thuốc phổ biến nhất là thuốc chống sốt rét, gồm có kì ninh trắng, kì ninh vàng, nặng hom, đáng hòm. Thắng nào cũng phải uống."**  
+  → **Chi tiết chân thực về phương pháp chữa bệnh ở vùng rừng núi**, đặc biệt **căn bệnh sốt rét phổ biến trong điều kiện thiếu thốn y tế**.  
+- **"Ai uống nhiều kì ninh vàng thì mép sẽ vàng, lưỡi trắng mắt cũng vàng."**  
+  → **Hậu quả của việc dùng thuốc lâu dài**, phản ánh **thiếu thốn y tế khiến con người phải tự thích nghi với điều kiện khó khăn**.  
+
+## **Cách chữa bệnh dân gian và tâm lý trẻ em**  
+- **"Bệnh ngoài da thì chỉ có hai thứ thuốc. Một là thuốc hơ ghẻ, hai là thuốc trừ mồ."**  
+  → **Phương pháp chữa bệnh đơn giản nhưng phổ biến trong dân gian**.  
+- **"Các chú bảo đó là dầu ngàn vàng vì nó có mùi béo ngậy rất đặc biệt."**  
+  → **Trẻ em chấp nhận cách chữa trị, đôi khi coi đó như một điều đặc biệt thay vì khó chịu**.  
+- **"Côn ăn nghịch, đau bụng buổi chiều là lên bàn ăn dầu cá."**  
+  → **Sự liên kết giữa ăn uống và chữa bệnh**, phản ánh **tâm lý trẻ em trong điều kiện khắc nghiệt**.  
+- **"Côn cũng không ăn được cả mùi hôm nay."**  
+  → **Chi tiết chân thực về phản ứng của trẻ em đối với những thứ khó chịu nhưng bắt buộc phải chịu đựng**.  
+
+
+It looks like my OCR tool is unable to process Vietnamese text due to missing language data. However, I can manually transcribe and highlight the key details from the images.
+
+---
+
+# **Quan tài làm sẵn**  
+
+## **1. Sự đối mặt với cái chết – Hình ảnh quan tài**  
+- **"Chú bé Côn thấy một cái thùng gỗ dài dài, gỗ lên nước đen bóng vì thời gian."**  
+  → **Miêu tả chi tiết về chiếc quan tài**, một **biểu tượng về cái chết và sự chuẩn bị trước**.  
+- **"Không thấy đựng thóc, đựng ngô, cũng không thấy dựng quần áo hay đồ đạc gì."**  
+  → **Sự ngạc nhiên của trẻ em trước một vật dụng đặc biệt**, cho thấy **sự hồn nhiên khi chưa hiểu rõ về cái chết**.  
+- **"Tăng bảo: 'Cái áo quan của bố tao đấy'."**  
+  → **Chi tiết quan trọng phản ánh quan niệm chuẩn bị trước cho cái chết trong văn hóa Việt Nam**.  
+
+## **2. Sự kết nối giữa con người và tự nhiên**  
+- **"Nghe thấy câu chuyện hai đứa nói với nhau, ông bảo: 'Rắn già rắn lột, người già người tụt vào sẵn'."**  
+  → **Một cách diễn đạt đầy ẩn dụ về quy luật sinh tử**, so sánh **chu kỳ của con người với thiên nhiên**.  
+- **"Chị My bảo: 'Họ làm sẵn quan tài để táo bạo trong, tin rằng như thế sẽ sống được lâu hơn'."**  
+  → **Một quan niệm tâm linh phổ biến ở các vùng quê**, thể hiện **niềm tin vào sự chuẩn bị trước sẽ giúp kéo dài sự sống**.  
+- **"Anh Quân bảo: 'Có thể họ sẽ sống lâu hơn thật, không phải vì có cái gì thiêng liêng gì, mà đơn giản là người già ngày ngày nhìn thấy cái quan tài...'"**  
+  → **Góc nhìn thực tế, phản ánh cách con người đối mặt với cái chết một cách bình thản**.  
+
+## **3. Nỗi sợ hãi của trẻ em trước cái chết**  
+- **"Một lần trốn tìm, hết chỗ trốn, Côn đánh liều chui vào nằm trong cái hộp quan tài ấy."**  
+  → **Một hành động vô tình nhưng mang tính biểu tượng mạnh mẽ**, thể hiện **sự tiếp xúc gần với ý niệm cái chết**.  
+- **"Thấy thành cong quá, hết một vòng ôm chui nằm không lọt."**  
+  → **Chi tiết cụ thể về kích thước quan tài**, làm tăng thêm cảm giác **ngột ngạt và sự hiện diện của cái chết**.  
+- **"Tình dậy thì trời đã tối. Không biết mình đang ở đâu, bốn bề tối úm, im lặng mênh mông. Chắc chắn là chui xuống cái hòm thật rồi."**  
+  → **Nỗi sợ hãi tột cùng khi nhận ra bản thân ở trong một không gian tượng trưng cho cái chết**.  
+- **"Nỗi sợ tràn ngập lồng ngực. Thấy phải trèn hơi mà mát, thò đầu lên va lúc cục vào nắp."**  
+  → **Sự hoảng loạn, cảm giác bị mắc kẹt trong một không gian đầy ám ảnh**.  
+
+
+It looks like my OCR tool is unable to process Vietnamese text at the moment. However, I can manually transcribe and highlight key details from the images.
+
+---
+
+# **Chiến lợi phẩm**  
+
+## **1. Bối cảnh chiến tranh và những món quà từ chiến trường**  
+- **"Năm 1950, Bố đi mặt trận Biên giới mấy tháng. Bố đi được hai hôm, nhớ Bố quá, chú lấy chiếc khăn mặt của Bố phơi ở đầu hè hít hít mùi thuốc lá."**  
+  → **Chi tiết về cuộc chiến biên giới năm 1950**, khi **Việt Minh mở chiến dịch chống lại quân Pháp**.  
+  → **Sự nhớ nhung của trẻ con đối với người cha đi chiến đấu**, thể hiện **tình cảm gia đình sâu sắc giữa thời chiến**.  
+- **"Mẹ kể: Bố, chú Việt là quan to lắm, bị Việt Minh xử tội."**  
+  → **Chi tiết hé lộ những phức tạp trong cuộc chiến**, khi **có những người bị xử lý vì bị nghi ngờ là gián điệp hoặc phản bội**.  
+
+## **2. Các món đồ chiến lợi phẩm từ chiến trường**  
+- **"Các chú cầm về rất nhiều hộp vuông, hộp tròn, đều có cái chìa sắt dán mép hộp. Cắt hộp ra toàn thịt hộp, xúc xích, bánh, sôcôla."**  
+  → **Chi tiết thực tế về "chiến lợi phẩm" quân sự**: những món **thực phẩm đóng hộp của quân đội Pháp mà bộ đội Việt Minh thu được**.  
+- **"Thảo nào mùi Tây nó to."**  
+  → **Cái nhìn hóm hỉnh của trẻ em về thực phẩm của quân đội Pháp**, cho thấy **sự khác biệt văn hóa trong ăn uống**.  
+- **"Nhìn kĩ thì mỡ nổi lên, mùi rất tốt. Uống thử thì nó lẫn vào sữa đặc có đường, sữa bò trộn lên. Ăn vào béo quá."**  
+  → **Miêu tả chi tiết về hương vị và chất lượng thực phẩm**, thể hiện **cảm giác lạ lẫm nhưng thích thú của trẻ em**.  
+
+## **3. Sự thích thú và cảm giác lạ lẫm của trẻ em**  
+- **"Chúng ăn thì bánh bở mịn, vừa giòn vừa thơm. Ngồi cắn phê phê."**  
+  → **Niềm vui của trẻ con khi được ăn thực phẩm mới lạ**, phản ánh **cuộc sống thiếu thốn nhưng đầy hồn nhiên**.  
+- **"Thằng Tây nó sướng nhất hành tinh hoàn toàn thua."**  
+  → **Quan điểm trẻ thơ về sự sung sướng của lính Tây**, thể hiện **cách nhìn đơn giản nhưng cũng rất thực tế về chiến tranh**.  
+
+---
+
+# **Bố**  
+
+## **1. Hình ảnh người cha và cuộc sống chiến đấu**  
+- **"Bố hút điều píp và hút suốt ngày. Những năm đầu hút thuốc sợi Bastos."**  
+  → **Hình ảnh quen thuộc của những người lính và sĩ quan trong thời chiến**, nơi **thuốc lá là một phần không thể thiếu của cuộc sống**.  
+- **"Bố làm lắm, vừa làm việc trên bàn đồ, vừa đọc cho anh Quân đánh máy chữ."**  
+  → **Sự đa tài của Bố, không chỉ chiến đấu mà còn làm công việc tổ chức, chỉ huy**.  
+- **"Một hôm, trong buổi dạy học, Bố bảo: Hôm nay Bố làm cho mấy chị em cái đồng hồ to."**  
+  → **Tình cảm cha con thể hiện qua những cử chỉ nhỏ nhặt**, khi **Bố quan tâm đến cuộc sống của con cái ngay cả trong thời chiến**.  
+
+## **2. Hình ảnh Bố trong gia đình**  
+- **"Mẹ và Côn bao giờ cũng là những người đầu tiên nghe thấy tiếng vó ngựa ngoài cửa."**  
+  → **Sự mong chờ của gia đình mỗi khi Bố trở về**, phản ánh **nỗi nhớ và niềm hạnh phúc khi đoàn tụ**.  
+- **"Bố ôm hôn Côn, cọ râu vào má chú."**  
+  → **Một khoảnh khắc đầy cảm xúc**, thể hiện **tình cha con sâu sắc giữa chiến tranh**.  
+
+---
+
+# **Cái ba toong của Bố**  
+
+## **1. Hình ảnh cây ba toong – Biểu tượng của người cha**  
+- **"Không biết ai đã tặng Bố chiếc ba toong, chắc để Bố dùng đi trong rừng."**  
+  → **Chi tiết hé lộ sự quan tâm của ai đó dành cho Bố, có thể là đồng đội hoặc người thân**.  
+- **"Đối với chú bé Côn thì đó là một tác phẩm mỹ thuật, chú say mê vuốt cái đó nhẵn bóng, đặc biệt là vừa mân mê, vừa ngắm nghĩa cái đoạn uốn cong bằng nhiệt."**  
+  → **Sự quan sát đầy trẻ thơ của Côn, khi nhìn cây ba toong không chỉ là công cụ mà còn là một vật phẩm đẹp đẽ, có giá trị nghệ thuật**.  
+
+## **2. Ba toong – Sự gắn bó của Bố với thiên nhiên và chiến trận**  
+- **"Bố chưa đến đứng đến cái ba toong ấy bao giờ. Đi xa thì cưỡi ngựa, còn trong rừng thì Bố đi xăm xăm, không ai theo kịp."**  
+  → **Hình tượng mạnh mẽ của người cha, một người lính quen thuộc với rừng rú, không cần dựa vào công cụ để đi lại**.  
+- **"Một lần, thấy Bố đi ra ngoài sân rồi vội quay vào cầm ba toong ra. Ngoài sân, một con rắn lục đang trườn ngóc đầu."**  
+  → **Tình huống kịch tính thể hiện sự nhanh nhẹn và quyết đoán của Bố** khi đối mặt với nguy hiểm.  
+
+---
+
+# **Ở một ngã đường rừng**  
+
+## **1. Cuộc sống trong rừng – Hình ảnh thiên nhiên hoang dã**  
+- **"Một lần, Ca và Côn đang chơi trên một thửa ruộng khô thì nghe thấy tiếng vó ngựa ngoài xa."**  
+  → **Mở đầu một sự kiện bất ngờ, tạo không khí hồi hộp.**  
+- **"Nhìn lên đường thấy một ông già gầy gò cười ngựa chạy trước, đầu đội mũ cát, dưới mũ có một cái khăn mặt, mặc áo màu chàm."**  
+  → **Hình ảnh đặc trưng của những người sống trong rừng, quen với việc đi lại bằng ngựa.**  
+- **"Bác Hồ nói: 'Bác Hồ đây… Bác ngồi mãi mới đến chỗ này'."**  
+  → **Một chi tiết quan trọng gợi nhắc đến Chủ tịch Hồ Chí Minh**, cho thấy sự ảnh hưởng của Bác trong đời sống của mọi người.  
+
+---
+
+# **Diogène**  
+
+## **1. Tư tưởng triết học và đời sống giản dị**  
+- **"Một lần, Bố đi họp từ chiều. Hợp ở cạnh rừng bên kia. Phải đến tối muộn mới về."**  
+  → **Gợi lên hình ảnh người lính, người lãnh đạo làm việc không ngừng nghỉ, luôn tận tụy.**  
+- **"Diogène, nhà hiền triết cổ đại cho rằng con người quá cầu kì, tham lam với đời."**  
+  → **Dẫn nhập vào câu chuyện triết học, nơi nhấn mạnh sự tối giản trong cuộc sống.**  
+- **"Diogène vật trũi lên bảo: 'Đó, con người ai cũng giống đó'."**  
+  → **Một triết lý sâu sắc về bản chất con người, khiến người đọc suy ngẫm về giá trị cuộc sống.**  
+
+---
+
+# **Cứu tinh dân tộc**  
+
+## **1. Bàn luận về Hồ Chí Minh – Hình ảnh người lãnh đạo vĩ đại**  
+- **"Một hôm, ngồi ngắm các bức chân dung lãnh tụ, Côn lý luận: 'Các ông này đều vĩ đại cả nhưng chỉ là nhà cách mạng vĩ đại, không phải là cứu tinh dân tộc'."**  
+  → **Một suy nghĩ thú vị của Côn, phân biệt giữa "cách mạng vĩ đại" và "cứu tinh dân tộc".**  
+- **"Nước của ông này là Liên Xô, là Trung Quốc, nước của mình là nước Việt Nam, ông này đấu tranh cho Việt Nam mới là cứu tinh dân tộc."**  
+  → **Quan điểm mạnh mẽ về bản sắc dân tộc và vai trò của Hồ Chí Minh trong cuộc đấu tranh giành độc lập.**  
+
+---
+
+# **Mẹ**  
+
+## **1. Hình ảnh người mẹ – Sự đảm đang và hy sinh**  
+- **"Mẹ thắp nhọ. Da Mẹ trắng như lụa. Bố bảo người nào da trắng thì khi bị sốt rét rất nặng."**  
+  → **Miêu tả hình ảnh người mẹ qua đôi mắt của Côn, vừa đẹp vừa mong manh trong điều kiện sống khắc nghiệt.**  
+- **"Mẹ không ngủ, sáng dậy phải một tay chăm đàn lợn, một tay lo cho Côn được một món ăn nóng nảy canh rau cải."**  
+  → **Sự tần tảo của người mẹ, luôn chăm lo từng bữa ăn, công việc trong gia đình.**  
+
+## **2. Sự yêu thương và dạy dỗ của mẹ**  
+- **"Mẹ ru: 'Buồn trông cửa biển chiều hôm, Thuyền ai thấp thoáng cánh buồm xa xa'."**  
+  → **Lời ru của mẹ mang nỗi niềm sâu lắng, phản ánh cuộc sống bấp bênh trong thời chiến.**  
+- **"Sáng hôm sau, chú giám mã dắt con ngựa Mai tới. Cả nhà ra ngoài hiên. Bố hôn cả mấy anh chị em rồi lên ngựa. Không ai nói gì. Mẹ nói: 'Ông lên đường bình an, chân cứng đá mềm'."**  
+  → **Một khoảnh khắc đầy cảm xúc khi tiễn Bố ra chiến trường, với hy vọng bình an.**  
+
+
+
 
 # Quotes
 
