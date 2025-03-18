@@ -470,6 +470,75 @@ It looks like my OCR tool is unable to process Vietnamese text at the moment. Ho
 - **"Sáng hôm sau, chú giám mã dắt con ngựa Mai tới. Cả nhà ra ngoài hiên. Bố hôn cả mấy anh chị em rồi lên ngựa. Không ai nói gì. Mẹ nói: 'Ông lên đường bình an, chân cứng đá mềm'."**  
   → **Một khoảnh khắc đầy cảm xúc khi tiễn Bố ra chiến trường, với hy vọng bình an.**  
 
+It looks like my OCR tool is unable to process Vietnamese text due to a missing language package. However, I can manually transcribe and highlight key details from the images.
+
+---
+
+# **Ông Mạnh**  
+
+## **1. Hình ảnh Ông Mạnh – Một nhân vật quan trọng bên cạnh Bố**  
+- **"Ông Mạnh là cấp phó của Bố. Ông là kỹ sư viễn thông, vốn là một nhà cự phú ở Hà Nội và Sài Gòn."**  
+  → **Ông Mạnh xuất thân từ một gia đình giàu có nhưng lại tham gia kháng chiến.**  
+- **"Mọi người bảo ông có mấy tàu ngựa, nuôi những con ngựa đua rất quý, giá mỗi con ngựa ngang với cả một gia tài."**  
+  → **Sự giàu có của ông trước chiến tranh, thể hiện một cuộc đời đầy biến động.**  
+
+## **2. Tình yêu và cuộc đời của Ông Mạnh**  
+- **"Ông bỏ cả mấy dinh thự ở Hà Nội và Sài Gòn, cùng đi kháng chiến với Bố."**  
+  → **Sự hy sinh của ông, rời bỏ cuộc sống sung túc để chiến đấu vì lý tưởng.**  
+- **"Ông lại cả người yêu, một cô gái Hà Nội đoan trang, xinh đẹp nổi tiếng. Dinh thự thì ông không hẹn gặp lại. Còn người yêu thì ông hẹn: Ngày độc lập sẽ cưới nhau."**  
+  → **Lời hứa hẹn đầy xúc động giữa chiến tranh, khi tình yêu phải chờ đợi ngày độc lập.**  
+
+## **3. Lối sống giản dị và phong cách đặc biệt**  
+- **"Ông Mạnh ăn mặc như mọi người, quần áo vài điểm bâu, trấn thủ quân trang. Nhưng trong ông thật trang trọng, thật sang."**  
+  → **Dù thay đổi hoàn cảnh sống, ông vẫn giữ được khí chất sang trọng.**  
+- **"Ông nắm cơm thật mịn bằng cái khăn đã giặt kỹ, rồi dùng chỉ cắt cơm thành từng lát mỏng, để vào đĩa với một dúm ruốc bông hoặc muối vừng mới ỏng."**  
+  → **Phong cách ăn uống tỉ mỉ, chỉn chu, thể hiện bản chất con người ông.**  
+
+---
+
+# **Anh Quân**  
+
+## **1. Hành trình trưởng thành của Anh Quân**  
+- **"Anh Quân cũng tuổi khi, hơn Côn mười hai tuổi. Kháng chiến bùng nổ anh mười bốn tuổi, đi theo Bố làm liên lạc."**  
+  → **Từ một cậu bé, anh Quân trưởng thành trong kháng chiến, trải qua nhiều gian nan.**  
+- **"Một lần địch lùa Tây ảo vào trận, các vỏ đạn văng vào Bố rít lên, rồi Bố lăn mình bò vào lẩn vào phòng hôm tiên rút rút Bác Cạn lên đến Bắc Thị, Đầm Hồng thì Tây thua."**  
+  → **Miêu tả tình hình chiến trận khốc liệt, nơi anh Quân và Bố cùng tham gia.**  
+
+## **2. Biến cố và mất mát**  
+- **"Thế mà gần thắng sau, anh lại về, ăn một bữa cơm bằng đến hai người ăn, ăn xong xách cối cuốc vào rừng đào hố mèo đi về sinh."**  
+  → **Sự trở về của anh Quân sau một thời gian dài mất tích, đầy gian khổ.**  
+- **"Biết ngay là đi quân Vương, quân Ông Già. Chắc lại phải hai ba ngày mới về."**  
+  → **Lời tiên đoán về những nhiệm vụ tiếp theo, không có thời gian nghỉ ngơi.**  
+
+---
+
+# **Kiêng nói chữ 'khi'**  
+
+## **1. Niềm tin vào lời kiêng kị**  
+- **"Chú Thái cận vụ của Bố nhận được chỉ thị của Mẹ là không được nói chữ 'khi' vào sáng mồng một Tết."**  
+  → **Phong tục và niềm tin về sự kiêng kị trong ngày đầu năm mới.**  
+- **"Cứ nửa miệng là nói 'Khí quá'."**  
+  → **Cách mọi người cố tránh né từ kiêng kị, nhưng vẫn không quên nó.**  
+
+### **2. Câu chuyện về kiêng kị trong chiến tranh**  
+- **"Bố chỉ dặn những kiêng kị đó. Bố chỉ dặn: 'Làm đàng hoàng, thi nhất, không chép miệng, thì hai, không thở dài đuột suột, thì ba'."**  
+  → **Quan điểm của Bố về những điều cần kiêng kị, mang tính kỷ luật và tinh thần chiến binh.**  
+
+---
+
+## **Đám cưới (I)**  
+
+### **1. Câu chuyện về đám cưới trong chiến tranh**  
+- **"Cô Kiều Trinh làm bảo vụ. Cô ngồi suốt ngày bên máy vô tuyến điện nên không bị rát, để lúc nào cũng vẫn trắng hồng."**  
+  → **Miêu tả về nhân vật nữ, người giữ liên lạc trong chiến tranh.**  
+- **"Đám cưới vui vẻ quá, nhưng không phải là cô dâu chú rể."**  
+  → **Một cách mở đầu hấp dẫn, khiến người đọc tò mò về đám cưới không bình thường này.**  
+
+### **2. Nghi thức đơn giản nhưng đầy cảm xúc**  
+- **"Chú rể hát bài Hùng Gia Lợi: 'Đây giờ, đây giờ, đây giờ…'."**  
+  → **Lễ cưới được tổ chức với những bài hát cổ vũ tinh thần.**  
+- **"Một em bé chưa ra đời đã mồ côi rồi'."**  
+  → **Câu nói xúc động khi chiến tranh cướp đi hạnh phúc của nhiều gia đình.**  
 
 
 
