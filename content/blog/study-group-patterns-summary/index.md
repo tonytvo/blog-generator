@@ -1064,7 +1064,33 @@ A study group called **DPSG (Design Patterns Study Group)** successfully impleme
 By implementing these best practices, study groups can **remain effective, inclusive, and engaging** over time.
 
 
-## distinguished diary
+## Distributed Diary 
+
+The **Distributed Diary** approach ensures that study group discussions are captured comprehensively by distributing the task of recording important ideas among all participants. Here’s how it works:
+
+### **The Process of Distributed Diary**
+1. **Communal Card Writing**  
+   - At the beginning of a study session, each participant receives small index cards.
+   - Each person writes **2-3 sentences** summarizing what they believe are the most important insights or questions raised during the session.
+
+2. **Card Compiler**  
+   - One person volunteers to be the **Card Compiler** for the session.
+   - This individual also writes 2-3 sentences and collects all the index cards at the end of the session.
+
+3. **Diary Composition**  
+   - Within a day or two, the Card Compiler **compiles all contributions** into a single diary entry that represents the collective reflections of the group.
+
+### **Why This Method Works**
+- **Captures diverse perspectives**: Instead of relying on one note-taker who might miss key points, everyone contributes, ensuring a broader capture of ideas.
+- **Enhances learning**: The act of summarizing key takeaways helps reinforce learning for participants.
+- **Provides a resource for absent members**: Those who missed the session can access the diary to stay updated.
+- **Builds a communal knowledge base**: These diary entries can be stored in a **Virtual Space** where they remain accessible to both current and future participants.
+
+### **Additional Considerations**
+- If the group follows the **Opening Question** format, this initial query should also be recorded in the diary.
+- **After-hours Discussions**: Sometimes important insights emerge after the official session, during informal discussions. Keep extra index cards handy for capturing these ideas.
+
+By implementing a **Distributed Diary**, study groups create a **rich, shared repository** of knowledge that strengthens engagement, reflection, and long-term retention.
 
 
 ## **Study Cycle: Establish a Rhythm of Study, Discussion, and Review to Reinforce Learning**  
