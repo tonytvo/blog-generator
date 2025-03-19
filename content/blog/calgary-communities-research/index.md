@@ -11381,6 +11381,99 @@ The University District in Calgary is a thoughtfully planned, mixed-use communit
 
 
 # Country Hills Village
+
+[![Country Hills Village Homes for Sale & Real Estate - Calgary](https://tse1.mm.bing.net/th?id=OIP.e0ZrDLyeWUSBGvigS71HZwHaFj&pid=Api)](https://calgaryhomes.ca/country-hills-village-real-estate-for-sale.php)
+Country Hills Village is a master-planned residential community in northeast Calgary, centered around a scenic lake and designed for convenience and lifestyle appeal. Here's a comprehensive real estate investment profile for this neighborhood: ([Country Hills Village Homes & Real Estate - Calgary](https://www.calgary.com/country-hills-village-real-estate/?utm_source=chatgpt.com))
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Recreation**: The community features a central lake with walking paths and green spaces. Nearby, the Vivo Recreation Centre offers a library, fitness facilities, arenas, and a pool.  ([Country Hills Village Real Estate & Community Guide](https://royallepagebenchmark.ca/calgary/northwest/country-hills-village/?utm_source=chatgpt.com))
+
+- **Shopping & Dining**: Residents have access to a large shopping center hosting various services, including medical offices, retail stores, restaurants, a theatre, and grocery stores.  ([Country Hills Village Real Estate & Community Guide](https://royallepagebenchmark.ca/calgary/northwest/country-hills-village/?utm_source=chatgpt.com))
+
+- **Transportation**: The area offers easy access to downtown Calgary, the Calgary International Airport, and major highways.  ([Country Hills Village Real Estate & Community Guide](https://royallepagebenchmark.ca/calgary/northwest/country-hills-village/?utm_source=chatgpt.com))
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+- **Construction Timeline**: Most homes in Country Hills Village were built in the early 2000s, with the average year of construction around 2005.  ([Country Hills Village Real Estate - Byron Henry](https://www.byronhenry.com/areas/country%2Bhills%2Bvillage?utm_source=chatgpt.com))
+
+- **Housing Types**: The neighborhood predominantly features condominiums and townhouses, catering to a range of residents, including retirees and young professionals.  ([Country Hills Village Condos & Townhomes - Kirby Cox](https://www.kirbycox.com/country-hills-village.php?utm_source=chatgpt.com))
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Current Zoning**: Country Hills Village is primarily zoned for multi-family residential use, accommodating condominiums and townhouses. 
+
+- **Density Allowances**: The existing zoning supports higher-density developments, facilitating more units per lot, aligning with the neighborhood's design. 
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: As of the latest data, Country Hills Village has a population of approximately 1,833 residents.  ([Country Hills Village Housing Market Report: 15th Apr, 2025 | Wahi](https://wahi.com/ca/en/housing-market/ab/calgary/country-hills-village?utm_source=chatgpt.com))
+
+- **Growth Trends**: The community has experienced steady growth, with ongoing developments contributing to an increasing population. 
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: The median household income in Country Hills Village is approximately $65,616, which is 31% lower than the Alberta average.  ([Country Hills Village, AB Area Guide - AreaVibes](https://www.areavibes.com/calgary-ab/country%2Bhills%2Bvillage/?utm_source=chatgpt.com))
+
+---
+
+## 🚨 Crime Rate
+
+- **Safety**: Country Hills Village has a crime rate 38% higher than the national average, with violent crimes 7% higher than the national average.  ([Country Hills Village, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/country%2Bhills%2Bvillage/crime/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Market Dynamics**: The rental market in Country Hills Village is active, with a variety of condominiums and townhouses available, catering to diverse tenant needs. 
+
+---
+
+## 💵 Average Rents
+
+- **Rental Prices**: As of April 2025, the average rent for a property in Country Hills Village is approximately $2,142 per month.  ([Houses for Rent in Country Hills Village, Calgary, AB | RentCafe](https://www.rentcafe.com/houses-for-rent/ca/ab/calgary/country-hills-village/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: Country Hills Village can be classified as a B-class neighborhood, characterized by its planned community structure, amenities, and stable housing market.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: The average house price in Country Hills Village has seen a 3.4% quarterly increase, indicating a positive appreciation trend. 
+
+- **Cash Flow**: The area's rental demand supports favorable cash flow for investors, especially in multi-family residential properties.
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of April 2025, the average house price in Country Hills Village is approximately $358,767.  ([Country Hills Village Real Estate Trends - Calgary - Zolo](https://www.zolo.ca/calgary-real-estate/country-hills-village/trends?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Investors can capitalize on long-term appreciation and steady rental income from condominiums and townhouses.
+
+- **Rental Properties**: Given the active rental market, investing in rental properties can yield consistent returns.
+
+- **Retirement Living**: The community's amenities and housing types are attractive for retirement living investments.
+
+
 # Wildwood
 # Upper Mount Royal
 # Sherwood
