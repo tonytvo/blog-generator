@@ -11475,6 +11475,99 @@ Country Hills Village is a master-planned residential community in northeast Cal
 
 
 # Wildwood
+
+[![85 Wimbledon Crescent SW|Calgary Real Estate|Wildwood Homes for Sale ...](https://tse4.mm.bing.net/th?id=OIP.QTZf46Q3ha0bTatpZgo5MwHaE7&pid=Api)](https://www.calgarylistings.com/listing/11165763-85-wimbledon-crescent-sw-calgary-ab-t3c-3j2/)
+Wildwood is a mature, sought-after residential neighborhood in southwest Calgary, known for its tree-lined streets, proximity to natural parks, and strong community spirit. Here's a comprehensive real estate investment profile for Wildwood:
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Parks & Recreation**: Adjacent to Edworthy Park and the Bow River pathway system, offering extensive green spaces and outdoor activities. ([Wildwood Calgary Real Estate - Justin Havre](https://www.justinhavre.com/wildwood-calgary-real-estate.php?utm_source=chatgpt.com))
+
+- **Community Facilities**: Home to Wildwood Elementary School and an active community association that hosts various events and programs.
+
+- **Shopping & Dining**: Close to Westbrook Mall and local shops along Bow Trail, providing convenient access to retail and dining options. ([Wildwood Calgary Real Estate - Justin Havre](https://www.justinhavre.com/wildwood-calgary-real-estate.php?utm_source=chatgpt.com))
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+- **Construction Timeline**: Predominantly developed in the 1950s, featuring mid-century architecture.
+
+- **Housing Types**: Primarily single-detached bungalows on spacious lots, with some semi-detached homes and newer infill developments.  ([Wildwood, Calgary](https://en.wikipedia.org/wiki/Wildwood%2C_Calgary?utm_source=chatgpt.com))
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Current Zoning**: Mainly zoned as R-C1, designated for single-detached residential homes.
+
+- **Potential Changes**: Discussions are ongoing about rezoning certain areas to R-CG (Residential – Grade-Oriented Infill), which would allow for higher-density housing options like rowhouses and townhouses. 
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: Approximately 2,876 residents as of the latest data.  ([Living in Wildwood, Calgary, AB - AreaVibes](https://www.areavibes.com/calgary-ab/wildwood/livability/?utm_source=chatgpt.com))
+
+- **Growth Trends**: The neighborhood has experienced modest population growth, maintaining its residential character.
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: Around $137,371, which is significantly higher than the Calgary average.  ([Wildwood, AB Area Guide - AreaVibes](https://www.areavibes.com/calgary-ab/wildwood/?utm_source=chatgpt.com))
+
+---
+
+## 🚨 Crime Rate
+
+- **Safety**: Wildwood is considered a safe neighborhood, with crime rates 38% lower than the national average and violent crimes 51% lower.  ([Wildwood, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/wildwood/crime/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Market Dynamics**: The rental market is relatively limited, with approximately 13% of housing used for renting, indicating a tight rental supply.  ([Wildwood, Calgary](https://en.wikipedia.org/wiki/Wildwood%2C_Calgary?utm_source=chatgpt.com))
+
+---
+
+## 💵 Average Rents
+
+- **Rental Prices**: As of April 2025, the average rent in Wildwood is approximately $1,835 per month.  ([Apartments for Rent in Wildwood, Calgary, AB - 25 Rentals | Zumper](https://www.zumper.com/apartments-for-rent/calgary-ab/wildwood?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: Wildwood can be classified as an A-class neighborhood, characterized by its high property values, low crime rates, and desirable location.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: The average house price in Wildwood has seen a 2.31% monthly increase, indicating steady appreciation.  ([Wildwood, Calgary Real Estate: Housing Market April 2025](https://www.honestdoor.com/cities/ab/calgary/wildwood?utm_source=chatgpt.com))
+
+- **Cash Flow**: While rental demand is stable, the limited rental supply may constrain cash flow opportunities. ([Calgary, City [Census subdivision], Alberta and Wildwood ...](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/Page.cfm?B1=All&Code1=4806016&Code2=590166&Data=Count&Geo1=CSD&Geo2=DPL&Lang=E&SearchPR=01&SearchText=Wildwood&SearchType=Begins&utm_source=chatgpt.com))
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of April 2025, the average house price in Wildwood is approximately $997,405.  ([Wildwood, Calgary Real Estate: Housing Market April 2025](https://www.honestdoor.com/cities/ab/calgary/wildwood?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Capitalizing on long-term appreciation in a stable, high-demand neighborhood.
+
+- **Renovation and Resale**: Updating mid-century homes to meet modern standards can yield profitable returns.
+
+- **Infill Development**: Exploring opportunities for duplexes or townhouses, especially if zoning changes permit higher-density developments.
+
+
 # Upper Mount Royal
 # Sherwood
 # Lincoln Park
