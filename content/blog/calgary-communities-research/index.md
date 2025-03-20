@@ -11568,8 +11568,102 @@ Wildwood is a mature, sought-after residential neighborhood in southwest Calgary
 - **Infill Development**: Exploring opportunities for duplexes or townhouses, especially if zoning changes permit higher-density developments.
 
 
-# Upper Mount Royal
 # Sherwood
+
+[![Sherwood Real Estate Listings for Sale in Calgary](https://tse1.mm.bing.net/th?id=OIP.PjJsaVohSz81nsfNvrraTAHaE8&pid=Api)](https://www.calgary-real-estate.com/sherwood.php)
+Sherwood is a master-planned residential neighborhood in northwest Calgary, known for its family-friendly atmosphere, modern housing, and proximity to amenities. Here's a detailed real estate investment profile for Sherwood:
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Shopping & Dining**: Sherwood is close to Beacon Hill Shopping Centre, offering a variety of retail stores, restaurants, and services.
+
+- **Recreation**: The community features parks, playgrounds, and walking paths. Nearby, the Vivo for Healthier Generations Centre provides fitness facilities and programs.
+
+- **Education**: The neighborhood is served by several public and Catholic schools, catering to families with children.
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+- **Construction Timeline**: Development in Sherwood began in the early 2000s, with many homes built between 2004 and 2010.
+
+- **Housing Types**: The area predominantly features single-family detached homes, along with townhouses and low-rise condominiums. 
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Current Zoning**: Sherwood is primarily zoned as R-1N (Residential – Narrow Parcel One Dwelling), allowing for single-family homes.
+
+- **Potential Changes**: There have been discussions about rezoning certain areas to accommodate higher-density developments, such as townhouses and multi-family units, to meet growing housing demands.  ([[PDF] Land Use Amendment in Sherwood (Ward 2) at 11650 Sarcee Trail ...](https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=149320&utm_source=chatgpt.com))
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: As of the 2021 Census, Sherwood had a population of approximately 5,290 residents.  ([Sherwood, Alberta Population & Demographics - Calgary - AreaVibes](https://www.areavibes.com/calgary-ab/sherwood/demographics/?utm_source=chatgpt.com))
+
+- **Growth Trends**: The neighborhood has experienced steady population growth since its development, reflecting its appeal to families and professionals.
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: The median household income in Sherwood is approximately $110,059, which is higher than the Calgary average.  ([Sherwood, Calgary, AB Employment - AreaVibes](https://www.areavibes.com/calgary-ab/sherwood/employment/?utm_source=chatgpt.com))
+
+---
+
+## 🚨 Crime Rate
+
+- **Safety**: Sherwood is considered a safe neighborhood, with crime rates 9% lower than the national average and violent crimes 29% lower.  ([Sherwood, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/sherwood/crime/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Market Dynamics**: The rental market in Sherwood is active, with demand driven by families and professionals seeking quality housing in a suburban setting.
+
+- **Vacancy Rates**: Vacancy rates are relatively low, indicating a healthy demand for rental properties.
+
+---
+
+## 💵 Average Rents
+
+- **Rental Prices**: As of April 2025, the average rent for a 2-bedroom apartment in Sherwood ranges between $1,825 and $1,895 per month.  ([Sherwood Apartments for Rent - Calgary, AB | RentCafe](https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/sherwood/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: Sherwood can be classified as a B-class neighborhood, characterized by its modern housing, family-friendly environment, and strong community appeal.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: The average house price in Sherwood has seen a 3.9% quarterly increase, indicating steady appreciation.  ([Sherwood (Calgary) Housing Market Report | April 2025 Real Estate ...](https://www.zolo.ca/calgary-real-estate/sherwood/trends?utm_source=chatgpt.com))
+
+- **Cash Flow**: With moderate rental rates and strong demand, investors can expect stable cash flow from rental properties in the area.
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of April 2025, the average house price in Sherwood is approximately $662,333.  ([Sherwood (Calgary) Housing Market Report | April 2025 Real Estate ...](https://www.zolo.ca/calgary-real-estate/sherwood/trends?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Investors can benefit from long-term appreciation and steady rental income by purchasing properties to hold over time.
+
+- **Rental Properties**: Given the strong demand, investing in rental properties, including single-family homes and townhouses, can yield consistent returns.
+
+- **Infill Development**: Exploring opportunities for higher-density developments, such as townhouses or multi-family units, especially if zoning changes permit, can be a lucrative strategy.
+
+
 # Lincoln Park
 # North Glenmore Park
 # Kelvin Grove
