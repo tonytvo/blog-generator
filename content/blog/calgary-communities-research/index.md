@@ -11761,6 +11761,101 @@ Lincoln Park is a compact, well-situated neighborhood in southwest Calgary, adja
 
 
 # North Glenmore Park
+
+[![North Glenmore Park Community Boundaries – North Glenmore Park ...](https://tse1.mm.bing.net/th?id=OIP.MSmyjtv8HwT4guaiHG0FkQHaFu&pid=Api)](https://www.ngpca.ca/north-glenmore-park-community-boundaries/)
+North Glenmore Park is a mature, sought-after residential neighborhood in southwest Calgary. Known for its proximity to green spaces, reputable schools, and a strong sense of community, it presents various opportunities for real estate investors. Here's a comprehensive analysis:
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Recreation**: Adjacent to North Glenmore Park and Glenmore Reservoir, offering extensive walking and biking trails, picnic areas, and water activities.
+
+- **Education**: Close to Mount Royal University, making it attractive for student rentals.
+
+- **Shopping & Dining**: Proximity to Marda Loop and Chinook Centre provides diverse shopping and dining options.
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+- **Construction Timeline**: Many homes were built in the 1950s and 1960s, with a significant number of properties undergoing renovations or redevelopment.
+
+- **Building Types**: Primarily single-family detached homes, with increasing infill developments and duplexes due to zoning changes.
+
+---
+
+## 🧱 Zoning Regulations
+
+- **Current Zoning**: Predominantly R-C1 (Residential – Contextual One Dwelling) District, allowing single-family homes. ([[PDF] Land Use Amendment in North Glenmore Park (Ward 11) at 134 ...](https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=296905&utm_source=chatgpt.com))
+
+- **Recent Changes**: Applications have been approved to redesignate certain areas to R-CG (Residential – Grade-Oriented Infill) District, permitting semi-detached, duplex, rowhouse, and townhouse units. This change allows for more units per lot, enhancing density and investment potential.  ([[PDF] Land Use Amendment in North Glenmore Park (Ward 11) at 2139](https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=290043&utm_source=chatgpt.com))
+
+---
+
+## 👥 Population & Growth
+
+- **Population**: Approximately 2,625 residents as of the 2021 Census.  ([North Glenmore Park, Alberta Population & Demographics - AreaVibes](https://www.areavibes.com/calgary-ab/north%2Bglenmore%2Bpark/demographics/?utm_source=chatgpt.com))
+
+- **Growth Trends**: The neighborhood has experienced modest growth, maintaining its residential character while accommodating new developments.
+
+---
+
+## 💰 Average Income
+
+- **Median Household Income**: Data specific to North Glenmore Park is limited; however, the area is considered affluent, suggesting above-average household incomes.
+
+---
+
+## 🚨 Crime Rate
+
+- **Safety**: Crime rates are 23% lower than the national average, with violent crimes 40% lower, indicating a safe and secure environment.  ([North Glenmore Park, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/north%2Bglenmore%2Bpark/crime/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Supply & Demand
+
+- **Market Dynamics**: Proximity to Mount Royal University creates demand for student rentals. The area's desirability also attracts professionals and families seeking rental accommodations.
+
+- **Vacancy Rates**: Low vacancy rates suggest strong rental demand and limited supply, beneficial for investors.
+
+---
+
+## 💵 Average Rents
+
+- **Rental Prices**: As of April 2025, average rents in North Glenmore Park are approximately $1,775 per month.  ([Apartments for Rent in North Glenmore, Calgary, AB - 25 Rentals](https://www.zumper.com/apartments-for-rent/calgary-ab/north-glenmore?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Neighborhood Classification
+
+- **Investment Grade**: North Glenmore Park is considered an A-class neighborhood, characterized by its high property values, low crime rates, and strong community appeal.
+
+---
+
+## 📈 Long-Term Potential
+
+- **Appreciation**: The average house price in North Glenmore Park is approximately $1,129,385, with properties appreciating steadily due to redevelopment and infill projects.  ([North Glenmore Park Real Estate - Calgary](https://www.kirbycox.com/north-glenmore.php?utm_source=chatgpt.com))
+
+- **Cash Flow**: While high property values may result in lower initial cash flow, strong rental demand and appreciation potential offer long-term investment benefits.
+
+---
+
+## 🏠 Average House Prices
+
+- **Current Market**: As of 2024, the average house price is approximately $1,129,385, with listings ranging from $619,900 to $2,895,000.  ([North Glenmore Park Calgary Real Estate Statistics & Housing Market](https://www.remaxcentral.ab.ca/communities/northglenmore-real-estate-statistics.html?utm_source=chatgpt.com))
+
+---
+
+## 💼 Investment Strategies
+
+- **Buy and Hold**: Investors can benefit from long-term appreciation and stable rental income in this desirable neighborhood.
+
+- **Infill Development**: Redeveloping older homes into modern infill properties, such as duplexes or townhouses, can maximize returns, especially with recent zoning changes permitting higher density.
+
+- **Student Rentals**: Proximity to Mount Royal University makes the area suitable for student housing investments.
+
+
 # Kelvin Grove
 # Downtown West End
 # Parkdale
