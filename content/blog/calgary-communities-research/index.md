@@ -11857,6 +11857,105 @@ North Glenmore Park is a mature, sought-after residential neighborhood in southw
 
 
 # Kelvin Grove
+
+[![Kelvin Grove Calgary Homes - Calgary Real Estate](https://tse3.mm.bing.net/th?id=OIP.wWIjjKsVfTfRO59cU7vsyAHaFQ\&pid=Api)](https://www.elitehomerealestate.com/neighborhoods/kelvin-grove-homes-for-sale/)
+
+Kelvin Grove is a mature, family-friendly neighborhood in southwest Calgary, offering a blend of mid-century charm and modern conveniences. Here's a comprehensive overview tailored for real estate investors:([Calgary Homes][1])
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+* **Parks & Recreation**: Kelvin Grove Park provides green space within the community, while the nearby Glenmore Reservoir and Weaselhead Flats offer extensive trails and outdoor activities. ([repcalgaryhomes.ca][2])
+
+* **Community Facilities**: The Chinook Park/Kelvin Grove/Eagle Ridge Community Association hosts various programs, including yoga, karate, and seasonal events. ([Federation of Calgary Communities][3])
+
+* **Shopping & Services**: Chinook Centre, one of Calgary's largest shopping malls, is easily accessible, providing a wide range of retail and dining options.
+
+---
+
+## 🏘️ Housing Characteristics
+
+* **Construction Era**: Most homes were built in the 1960s, reflecting mid-century architectural styles. ([HDP CA Prod App Cgy Engage Files][4])
+
+* **Building Types**: The neighborhood predominantly features single-detached homes, complemented by large and small apartment buildings. ([Royal LePage][5])
+
+---
+
+## 📐 Zoning Regulations
+
+Kelvin Grove falls under Calgary's Land Use Bylaw 1P2007, which outlines zoning regulations. While specific zoning details for Kelvin Grove aren't provided, the city has been moving towards more flexible zoning to accommodate diverse housing needs. ([https://www.calgary.ca][6])
+
+---
+
+## 👥 Demographics
+
+* **Population**: Approximately 2,783 residents. ([CityFacts][7])
+
+* **Population Growth**: The area experienced a 169.4% increase from 1975 to 2015, indicating steady growth. ([CityFacts][7])
+
+* **Median Age**: 47.2 years, suggesting a mature community. ([Engage Calgary][8])
+
+---
+
+## 💰 Income Levels
+
+* **Median Household Income**: \$95,473. ([Areavibes][9])
+
+* **Average Household Income**: \$332,400, reflecting a relatively affluent population. ([CMHC][10])
+
+---
+
+## 🛡️ Crime Rate
+
+Kelvin Grove boasts a crime rate 17% lower than the national average, with violent crimes 35% lower, underscoring its reputation as a safe neighborhood. ([Areavibes][11])
+
+---
+
+## 🏠 Rental Market
+
+* **Supply & Demand**: The community offers a mix of rental options, including apartments and houses, catering to various tenant needs.&#x20;
+
+* **Average Rents**:
+
+  * **1 Bedroom**: Approximately \$1,614.&#x20;
+  * **2 Bedrooms**: Approximately \$1,892. ([Areavibes][12])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Kelvin Grove can be classified as a **B+ neighborhood**, characterized by its safety, affluence, and stable property values, making it attractive for both families and investors.
+
+---
+
+## 📈 Investment Potential
+
+* **Average House Prices**: Around \$584,875, with recent trends showing a 33.9% monthly increase and a 50.5% quarterly rise, indicating strong appreciation potential. ([Zolo][13])
+
+* **Investment Strategies**:
+
+  * **Buy & Hold**: Capitalizing on long-term appreciation in a stable market.
+  * **Value-Add Renovations**: Updating older homes to meet modern standards can yield significant returns.
+  * **Luxury Rentals**: Given the area's affluence, high-end rental properties may attract premium tenants.
+
+---
+
+[1]: https://calgaryhomes.ca/kelvin-grove-real-estate-for-sale.php?utm_source=chatgpt.com "Kelvin Grove Calgary Real Estate & Homes"
+[2]: https://www.repcalgaryhomes.ca/kelvin-grove-real-estate.php?utm_source=chatgpt.com "Kelvin Grove Homes for Sale Calgary"
+[3]: https://calgarycommunities.com/communities/chinook-park-kelvin-grove-eagle-ridge-community-association/?utm_source=chatgpt.com "Chinook Park / Kelvin Grove / Eagle Ridge Community Association"
+[4]: https://hdp-ca-prod-app-cgy-engage-files.s3.ca-central-1.amazonaws.com/4316/3729/6221/HCLAP-Draft_additional-community-histories.pdf?utm_source=chatgpt.com "[PDF] Additional Historic Facts by Community Kingsland (1957 ... - AWS"
+[5]: https://www.royallepage.ca/en/ab/calgary/kelvin-grove/properties/?utm_source=chatgpt.com "Kelvin Grove, Calgary, Alberta Real Estate and Homes For Sale"
+[6]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones - The City of Calgary"
+[7]: https://www.city-facts.com/kelvin-grove-calgary/population?utm_source=chatgpt.com "Kelvin Grove, Calgary, AB, Canada - Population and Demographics"
+[8]: https://engage.calgary.ca/heritage?utm_source=chatgpt.com "Heritage Communities Local Area Planning Project | Engage"
+[9]: https://www.areavibes.com/calgary-ab/kelvin%2Bgrove/employment/?utm_source=chatgpt.com "Kelvin Grove, AB Employment - Median Household Income ..."
+[10]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Population%2C+Households+and+Housing+Stock&CategoryLevel2=Household+Income&ColumnField=HouseholdIncomeRange&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=Neighbourhood&SearchTags%5B0%5D.Key=Households&SearchTags%5B0%5D.Value=Number&SearchTags%5B1%5D.Key=Statistics&SearchTags%5B1%5D.Value=AverageAndMedian&utm_source=chatgpt.com "Calgary — Household Income - Average and Median ($) - CMHC"
+[11]: https://www.areavibes.com/calgary-ab/kelvin%2Bgrove/crime/?utm_source=chatgpt.com "Kelvin Grove, Calgary, AB Crime Rates - AreaVibes"
+[12]: https://www.areavibes.com/calgary-ab/kelvin%2Bgrove/demographics/?utm_source=chatgpt.com "Kelvin Grove, Alberta Population & Demographics - AreaVibes"
+[13]: https://www.zolo.ca/calgary-real-estate/kelvin-grove/trends?utm_source=chatgpt.com "Kelvin Grove Real Estate Trends - Calgary - Zolo"
+
+
 # Downtown West End
 # Parkdale
 # North Haven

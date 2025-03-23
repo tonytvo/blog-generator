@@ -29,6 +29,7 @@
 - write summary for Hacking : The Art of Exploitation + The Hacker Playbook 3: Practical Guide To Penetration Testing
 - write summary for patterns of enterprise application architecture
 - write summary for fundamentals of software architecture + building evolutionary architectures
+- write summary for AI Engineering: Building Applications with Foundation Models + Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
 - write tests for this site
 
 # wip
