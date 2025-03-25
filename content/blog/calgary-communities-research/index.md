@@ -11958,12 +11958,6 @@ Kelvin Grove can be classified as a **B+ neighborhood**, characterized by its sa
 
 # Downtown West End
 
-[![Calgary Downtown West End | Bosa Development](https://tse4.mm.bing.net/th?id=OIP.LocuSd3TXLm9riYBh2KzLgHaE8\&pid=Api)](https://bosadevelopment.com/project/calgary-downtown-west-end/)
-
-Certainly! Here's a comprehensive real estate investment profile for the **Downtown West End** neighborhood in Calgary, Alberta, tailored to your queries:
-
----
-
 ## 🏙️ Nearby Amenities & Attractions
 
 **Downtown West End** offers a vibrant urban lifestyle with a plethora of amenities:
@@ -12058,12 +12052,6 @@ Downtown West End's blend of urban living, accessibility, and steady growth make
 
 # Parkdale
 
-[![Parkdale Homes for Sale Calgary - Parkdale Real Estate](https://tse1.mm.bing.net/th?id=OIP.k5taT71C9xYX8lqUz091RgHaFj\&pid=Api)](https://calgaryhomes.ca/parkdale-real-estate-for-sale.php)
-
-Certainly! Here's a comprehensive real estate investment profile for the **Parkdale** neighborhood in Calgary, Alberta, tailored to your queries:
-
----
-
 ## 🏞️ Nearby Amenities & Attractions
 
 Parkdale is a vibrant community located in the northwest quadrant of Calgary, Alberta. This neighborhood is known for its beautiful parks, stunning views of the Bow River, and its close proximity to downtown Calgary. ([greatercalgaryrealestate.com][1])
@@ -12154,6 +12142,108 @@ Parkdale's blend of mature charm, safety, and steady growth makes it a compellin
 
 
 # North Haven
+
+
+## 🏞️ Nearby Amenities & Attractions
+
+**North Haven** is a tranquil residential community nestled in Calgary's northwest quadrant. Residents enjoy:
+
+* **Nose Hill Park**: One of North America's largest urban parks, offering extensive trails and natural landscapes.&#x20;
+
+* **Community Parks**: Egert's Park, Chapel Park, Carragana Park, and Triwood Park provide green spaces for recreation. ([Areavibes][1])
+
+* **Community Association**: The North Haven Community Association offers various programs and events, fostering community engagement. ([https://www.calgary.ca][2])
+
+---
+
+## 🏘️ Housing Characteristics
+
+* **Construction Era**: The majority of homes were built between 1961 and 1980, reflecting mid-century architectural styles. ([https://www.calgary.ca][3])
+
+* **Building Types**: Predominantly single-detached homes (60%), with semi-detached houses (19%), row houses (10%), and apartments in buildings with fewer than five storeys (10%). ([https://www.calgary.ca][3])
+
+---
+
+## 📐 Zoning Regulations
+
+North Haven falls under Calgary's Land Use Bylaw 1P2007. The community has a Development Review Committee (DRC) that provides input on development proposals, ensuring they align with neighborhood character. ([MyCalgary][4])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of 2012, North Haven had 2,288 residents, while Upper North Haven had 622 residents. ([Wikipedia][5])
+
+* **Population Growth**: The area experienced modest growth, with a 0.3% increase in North Haven and a 1.1% increase in Upper North Haven from 2011 to 2012. ([Wikipedia][5])
+
+* **Median Age**: Approximately 36.4 years, aligning with Calgary's average. ([CityFacts][6])
+
+---
+
+## 💰 Income Levels
+
+* **Median Household Income**: In 2005, the median household income was \$75,777. ([Calgary REALTOR - Miranda Moser][7])
+
+* **Upper North Haven**: In 2015, the median household income was \$112,005. ([Exploring With King Calgary][8])
+
+---
+
+## 🛡️ Crime Rate
+
+North Haven boasts a crime rate 9% lower than the national average, with violent crimes 29% lower, underscoring its reputation as a safe neighborhood.&#x20;
+
+---
+
+## 🏠 Rental Market
+
+* **Supply & Demand**: Approximately 24.5% of housing is used for renting, indicating a balanced rental market. ([MyCalgary][9])
+
+* **Average Rents**:
+
+  * **1 Bedroom**: Approximately \$1,439.
+  * **2 Bedrooms**: Approximately \$1,655.
+  * **3 Bedrooms**: Approximately \$2,022. ([Calgary Homes][10])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+North Haven can be classified as a **B+ neighborhood**, characterized by its safety, affluence, and stable property values, making it attractive for both families and investors.
+
+---
+
+## 📈 Investment Potential
+
+* **Average House Prices**: As of May 2025, the average asking price is approximately \$499,900. ([Justin Havre Real Estate Team][11])
+
+* **Recent Sales**: In 2024, the average sale price for single-family homes was \$756,575, with an average of 23 days on the market. ([kirbycox.com][12])
+
+* **Investment Strategies**:
+
+  * **Buy & Hold**: Capitalizing on long-term appreciation in a stable market.
+  * **Value-Add Renovations**: Updating older homes to meet modern standards can yield significant returns.
+  * **Secondary Suites**: Adding legal secondary suites to existing homes can increase rental income.
+
+---
+
+North Haven's blend of mature charm, safety, and steady growth makes it a compelling choice for real estate investors seeking long-term value.
+
+---
+
+[1]: https://www.areavibes.com/calgary-ab/north%2Bhaven/?utm_source=chatgpt.com "North Haven, AB Area Guide - AreaVibes"
+[2]: https://www.calgary.ca/communities/profiles/north-haven.html?utm_source=chatgpt.com "North Haven Profile - The City of Calgary"
+[3]: https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/north-haven.pdf?utm_source=chatgpt.com "[PDF] North Haven - The City of Calgary"
+[4]: https://mycalgary.com/community/calgary/nw-communities/north-haven/north-havens-development-faqs/?utm_source=chatgpt.com "North Haven's Development FAQs - MyCalgary"
+[5]: https://en.wikipedia.org/wiki/North_Haven%2C_Calgary?utm_source=chatgpt.com "North Haven, Calgary - Wikipedia"
+[6]: https://www.city-facts.com/north-haven-calgary/population?utm_source=chatgpt.com "North Haven, Calgary, AB, Canada - Population and Demographics"
+[7]: https://calgaryrealestatepro.pro/north-haven/?utm_source=chatgpt.com "North Haven - Calgary REALTOR - Miranda Moser"
+[8]: https://kingcalgary.com/calgary-upper-north-haven/?utm_source=chatgpt.com "North Haven Upper - King Calgary"
+[9]: https://mycalgary.com/communities/calgary/nw/north_haven/?utm_source=chatgpt.com "North Haven Community News - North West Calgary"
+[10]: https://calgaryhomes.ca/north-haven-real-estate-for-sale.php?utm_source=chatgpt.com "North Haven Homes for Sale Calgary - North Haven Real Estate"
+[11]: https://www.justinhavre.com/north-haven-calgary-real-estate.php?utm_source=chatgpt.com "North Haven Calgary Real Estate"
+[12]: https://www.kirbycox.com/north-haven.php?utm_source=chatgpt.com "North Haven Calgary Real Estate For Sale - Kirby Cox"
+
+
 # Rutland Park
 # Collingwood
 # Highwood
