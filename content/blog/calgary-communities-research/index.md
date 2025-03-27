@@ -12245,6 +12245,101 @@ North Haven's blend of mature charm, safety, and steady growth makes it a compel
 
 
 # Rutland Park
+
+## 🏞️ Nearby Amenities & Attractions
+
+Rutland Park is a well-established community in southwest Calgary, offering residents a blend of urban convenience and suburban tranquility. The neighborhood is adjacent to Richmond Green Golf Course and is in close proximity to Mount Royal University. The community association provides various recreational facilities, including an outdoor skating rink and a soccer field .([Rutland Park Community][1], [The John Hripko Real Estate Team][2])
+
+---
+
+## 🏘️ Housing Characteristics
+
+* **Construction Era**: The majority of homes in Rutland Park were constructed between 1960 and 1980, reflecting the post-war housing boom in Calgary .([Realtor][3])
+
+* **Building Types**: The neighborhood predominantly features single detached homes and townhouses. Most housing in this part of Calgary was built in the 1960s and 1970s, during its most significant building boom .([Royal LePage][4])
+
+---
+
+## 📐 Zoning Regulations
+
+As of August 6, 2024, the City of Calgary implemented a citywide change in residential land use, transitioning from R-C1 and R-C2 to R-CG zoning. However, in Rutland Park, restrictive covenants remain in place, limiting low-density lots to one or two dwelling units, respectively. These covenants are provincial matters and supersede city land use bylaws .([Rutland Park Community][5])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of 2012, Rutland Park had a population of 2,227 residents living in 972 dwellings .([MyCalgary][6])
+
+* **Population Growth**: The population has been relatively stable, with no significant growth reported in recent years.
+
+* **Median Age**: The median age in Rutland Park is 41.5 years, slightly higher than Calgary's average of 37.4 years .([Areavibes][7])
+
+---
+
+## 💰 Income Levels
+
+* **Median Household Income**: The median household income in Rutland Park is \$78,046, which is below Calgary's average of \$97,218 .([Areavibes][8])
+
+---
+
+## 🛡️ Crime Rate
+
+Rutland Park's crime rates are 5% higher than the national average. However, violent crimes in the area are 18% lower than the national average, indicating that most reported incidents are related to property crimes .([Areavibes][9], [Real Estate][10])
+
+---
+
+## 🏠 Rental Market
+
+* **Supply & Demand**: Approximately 53% of the housing in Rutland Park is used for renting, indicating a balanced rental market .([MyCalgary][6])
+
+* **Average Rents**:
+
+  * **1 Bedroom**: Approximately \$1,647 per month.
+  * **2 Bedrooms**: Approximately \$1,983 per month.
+  * **3 Bedrooms**: Approximately \$2,295 per month.
+  * **4 Bedrooms**: Approximately \$2,600 per month .([Zumper - Apartments for Rent & Houses][11])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Rutland Park can be classified as a **B** neighborhood. It offers a mix of affordability and convenience, with access to amenities and a stable housing market, making it attractive for both families and investors.
+
+---
+
+## 📈 Investment Potential
+
+* **Average House Prices**: As of May 15, 2025, the average asking price for properties in Rutland Park is approximately \$1,064,760. The highest-priced property is listed at \$2,100,000, while the lowest is at \$369,900 .([Justin Havre Real Estate Team][12])
+
+* **Recent Sales**: In 2024, the average sale price for single-family homes was \$887,709, with an average of 30 days on the market. Townhomes had an average sale price of \$368,189 and took an average of 10 days to sell .([kirbycox.com][13])
+
+* **Investment Strategies**:
+
+  * **Buy & Hold**: Capitalizing on long-term appreciation in a stable market.
+  * **Value-Add Renovations**: Updating older homes to meet modern standards can yield significant returns.
+  * **Infill Development**: Given the neighborhood's zoning changes and proximity to downtown, infill projects could be a lucrative opportunity.
+
+---
+
+Rutland Park's blend of mature charm, strategic location, and steady growth makes it a compelling choice for real estate investors seeking long-term value.
+
+---
+
+[1]: https://www.rutlandparkcommunity.com/rutland-park?utm_source=chatgpt.com "Rutland Park Community Association"
+[2]: https://teamhripko.ca/calgary-neighbourhoods/west/rutland-park/?utm_source=chatgpt.com "Rutland Park - Calgary Neighbourhood Guide"
+[3]: https://www.realtor.ca/ab/calgary/rutland-park/real-estate?utm_source=chatgpt.com "Rutland Park, Calgary Real Estate Listings - REALTOR.ca"
+[4]: https://www.royallepage.ca/en/ab/calgary/rutland-park/properties/?utm_source=chatgpt.com "Rutland Park, Calgary, Alberta Real Estate and Homes For Sale"
+[5]: https://www.rutlandparkcommunity.com/development?utm_source=chatgpt.com "Development - Rutland Park Community Association"
+[6]: https://mycalgary.com/communities/calgary/sw/rutland_park/?utm_source=chatgpt.com "Rutland Park Community News - South West Calgary"
+[7]: https://www.areavibes.com/calgary-ab/rutland%2Bpark/demographics/?utm_source=chatgpt.com "Rutland Park, Alberta Population & Demographics - AreaVibes"
+[8]: https://www.areavibes.com/calgary-ab/rutland%2Bpark/employment/?utm_source=chatgpt.com "Rutland Park, AB Employment - Median Household Income ..."
+[9]: https://www.areavibes.com/calgary-ab/rutland%2Bpark/crime/?utm_source=chatgpt.com "Rutland Park, Calgary, AB Crime Rates - AreaVibes"
+[10]: https://www.real-estate.ca/rutland-park.php?utm_source=chatgpt.com "Rutland Park Homes For Sale | SW. Calgary Real Estate"
+[11]: https://www.zumper.com/apartment-buildings/p451213/113-rutland-park-calgary-ab?utm_source=chatgpt.com "113 Apartments - 4525 Almar Park Apts. Calgary AB - Zumper"
+[12]: https://www.justinhavre.com/rutland-park-calgary-real-estate.php?utm_source=chatgpt.com "Rutland Park Calgary Real Estate - Justin Havre"
+[13]: https://www.kirbycox.com/rutland-park.php?utm_source=chatgpt.com "Rutland Park Homes & Condos for Sale - Calgary"
+
+
 # Collingwood
 # Highwood
 # Vista Heights
