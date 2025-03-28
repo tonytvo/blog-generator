@@ -12341,6 +12341,90 @@ Rutland Park's blend of mature charm, strategic location, and steady growth make
 
 
 # Collingwood
+
+## 🏞️ Nearby Amenities & Attractions
+
+Collingwood is a well-established residential neighborhood in northwest Calgary, offering residents a blend of urban convenience and natural beauty. The community is adjacent to Nose Hill Park and Confederation Park, providing ample green spaces for recreation. Additionally, the area is in close proximity to the University of Calgary and the Calgary Winter Club, enhancing its appeal to families and professionals alike. ([Liv Real Estate][1])
+
+---
+
+## 🏘️ Housing Characteristics
+
+* **Construction Era**: The majority of homes in Collingwood were constructed between 1959 and the early 1970s, reflecting the post-war housing boom in Calgary.&#x20;
+
+* **Building Types**: Approximately 75% of the housing stock comprises single-family detached or semi-detached homes. The neighborhood also features some condominiums and apartments, catering to a diverse demographic. ([Justin Havre Real Estate Team][2])
+
+---
+
+## 📐 Zoning Regulations
+
+Collingwood falls under Calgary's Land Use Bylaw 1P2007, which outlines the rules and regulations for land development in the city. The predominant zoning in Collingwood is low-density residential, primarily R-C1, which allows for single-family detached homes. However, the city has been exploring changes to zoning regulations to accommodate more diverse housing options, including secondary suites and infill developments, subject to approval. ([https://www.calgary.ca][3])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2012 municipal census, Collingwood had a population of 2,222 residents living in 978 dwellings. ([Wikipedia][4])
+
+* **Population Growth**: The neighborhood experienced a slight decrease of 0.4% from its 2011 population, indicating a relatively stable community. ([Wikipedia][4])
+
+* **Median Age**: The median age in Collingwood is 41.5 years, slightly higher than Calgary's average of 37.4 years, suggesting a mature population.&#x20;
+
+---
+
+## 💰 Income Levels
+
+* **Median Household Income**: The median household income in Collingwood is \$55,208, which is below Calgary's average of \$97,218. ([Wikipedia][4])
+
+---
+
+## 🛡️ Crime Rate
+
+Collingwood boasts a crime rate 23% lower than the national average, with violent crimes 40% lower, underscoring its reputation as a safe neighborhood.&#x20;
+
+---
+
+## 🏠 Rental Market
+
+* **Supply & Demand**: Approximately 25.9% of the housing in Collingwood is used for renting, indicating a balanced rental market. ([Wikipedia][4])
+
+* **Average Rents**:
+
+  * **1 Bedroom**: Approximately \$1,883 per month.
+  * **3 Bedrooms**: Approximately \$3,598 per month. ([Airbtics | Airbnb Analytics][5])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Collingwood can be classified as a **B+ neighborhood**, characterized by its safety, mature population, and stable property values, making it attractive for both families and investors.
+
+---
+
+## 📈 Investment Potential
+
+* **Average House Prices**: As of May 2025, the average house price in Collingwood is approximately \$931,000, reflecting a 20.3% increase year-over-year. ([Zolo][6])
+
+* **Investment Strategies**:
+
+  * **Buy & Hold**: Capitalizing on long-term appreciation in a stable market.
+  * **Value-Add Renovations**: Updating older homes to meet modern standards can yield significant returns.
+  * **Secondary Suites**: Adding legal secondary suites to existing homes can increase rental income, subject to zoning regulations.&#x20;
+
+---
+
+Collingwood's blend of mature charm, safety, and steady growth makes it a compelling choice for real estate investors seeking long-term value.
+
+---
+
+[1]: https://www.livrealestate.ca/calgary-northwest/collingwood.php?utm_source=chatgpt.com "Collingwood Homes for Sale in Northwest Calgary | Liv Real Estate® Listings"
+[2]: https://www.justinhavre.com/collingwood-calgary-real-estate.php?utm_source=chatgpt.com "Collingwood Calgary Real Estate"
+[3]: https://www.calgary.ca/planning/land-use.html?utm_source=chatgpt.com "Calgary Land Use Bylaw 1P2007"
+[4]: https://en.wikipedia.org/wiki/Collingwood%2C_Calgary?utm_source=chatgpt.com "Collingwood, Calgary - Wikipedia"
+[5]: https://airbtics.com/average-rent-collingwood-ca/?utm_source=chatgpt.com "Collingwood, Rental Market Statistics & Data, Canada - Airbtics"
+[6]: https://www.zolo.ca/calgary-real-estate/collingwood/trends?utm_source=chatgpt.com "Collingwood (Calgary) Housing Market Report | May 2025 Real ..."
+
+
 # Highwood
 # Vista Heights
 # Christie Park
