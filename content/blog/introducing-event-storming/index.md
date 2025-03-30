@@ -49,6 +49,20 @@ A **new fintech startup** needed to build its **backbone software** from scratch
 2. **Rapid knowledge transfer**: Instead of lengthy briefings, developers were asked to _write key Domain Events and arrange them chronologically_.
 3. **Pattern discovery**: The team began to see **recurring structures** and natural _boundaries in the system_, helping define Bounded Contexts.
 4. **Addressing compliance risks**: The process exposed **hidden regulatory constraints**, allowing the startup to make informed choices early.
+5. **different type of actions**
+   1. users interacting with product
+      1. i.e: user signed up to attend sessions in the conference
+   2. actions in users life (not interacting with product but still interesting)
+      1. i.e: users thought about attending the sessions in the conference.
+   3. actions within the organizations
+      1. i.e: the company running batch jobs to migrate the users.
+   4. actions managed by software
+      1. i.e: software running reports for the users.
+6. conventional event storming
+   - orange stickies represents events
+   - small yellow stickies represent roles or personas
+   - large light pink pickies to represent systems
+   - rotated dark pink stickies to represents hotspot
 
 _"Within a single day, the entire development team had a clear understanding of the business model, reducing onboarding time from weeks to hours."_
 
