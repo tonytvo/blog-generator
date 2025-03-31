@@ -9122,39 +9122,39 @@ Mount Pleasant is a well-established residential neighborhood in northwest Calga
 
 **Nearby Amenities and Attractions:**
 
-- **Parks and Recreation:** The neighborhood is adjacent to Confederation Park, a 160-acre green space offering walking and biking paths, picnic areas, and the Confederation Park Golf Course. citeturn0search12
+- **Parks and Recreation:** The neighborhood is adjacent to Confederation Park, a 160-acre green space offering walking and biking paths, picnic areas, and the Confederation Park Golf Course.
 
-- **Community Facilities:** Mount Pleasant boasts a community hall, sportsplex with an indoor ice rink, and an outdoor pool. The community association organizes various events, including movie nights, seasonal festivals, and a Stampede breakfast. citeturn0search14
+- **Community Facilities:** Mount Pleasant boasts a community hall, sportsplex with an indoor ice rink, and an outdoor pool. The community association organizes various events, including movie nights, seasonal festivals, and a Stampede breakfast.
 
-- **Shopping and Dining:** Proximity to North Hill Shopping Centre provides residents with access to a variety of retail stores, dining options, and essential services. citeturn0search6
+- **Shopping and Dining:** Proximity to North Hill Shopping Centre provides residents with access to a variety of retail stores, dining options, and essential services.
 
 **Housing Characteristics:**
 
-- **Construction Period:** Development in Mount Pleasant began in 1912, making it one of Calgary's older communities. citeturn0search14
+- **Construction Period:** Development in Mount Pleasant began in 1912, making it one of Calgary's older communities.
 
-- **Building Types:** The neighborhood features a mix of historic homes, modern infills, and low-rise apartment buildings, reflecting its evolution over time. citeturn0search6
+- **Building Types:** The neighborhood features a mix of historic homes, modern infills, and low-rise apartment buildings, reflecting its evolution over time.
 
 **Zoning Regulations:**
 
-- **Zoning and Density:** Recent rezoning reforms in Calgary have permitted the development of duplexes, triplexes, and fourplexes in neighborhoods like Mount Pleasant, which were previously designated exclusively for single-family homes. This change allows for increased housing density and more units per lot. citeturn0search11
+- **Zoning and Density:** Recent rezoning reforms in Calgary have permitted the development of duplexes, triplexes, and fourplexes in neighborhoods like Mount Pleasant, which were previously designated exclusively for single-family homes. This change allows for increased housing density and more units per lot.
 
 **Demographics:**
 
-- **Population:** As of 2021, Mount Pleasant had a population of 6,325 residents. citeturn0search2
+- **Population:** As of 2021, Mount Pleasant had a population of 6,325 residents.
 
-- **Population Growth:** The neighborhood has experienced modest growth, with a 2.8% increase noted in 2012. Recent data indicates continued, albeit gradual, growth. citeturn0search19
+- **Population Growth:** The neighborhood has experienced modest growth, with a 2.8% increase noted in 2012. Recent data indicates continued, albeit gradual, growth.
 
-- **Average Income:** The median total household income in 2020 was $101,000, slightly above Calgary's median of $98,000. citeturn0search2
+- **Average Income:** The median total household income in 2020 was $101,000, slightly above Calgary's median of $98,000.
 
 **Safety:**
 
-- **Crime Rate:** Mount Pleasant has a crime rate approximately 23% lower than the Calgary average, contributing to its reputation as a safe and family-friendly community. citeturn0search10
+- **Crime Rate:** Mount Pleasant has a crime rate approximately 23% lower than the Calgary average, contributing to its reputation as a safe and family-friendly community.
 
 **Rental Market:**
 
-- **Supply and Demand:** The neighborhood's proximity to educational institutions like SAIT and the University of Calgary makes it attractive to students and professionals, sustaining a steady demand for rental properties. citeturn0search6
+- **Supply and Demand:** The neighborhood's proximity to educational institutions like SAIT and the University of Calgary makes it attractive to students and professionals, sustaining a steady demand for rental properties.
 
-- **Average Rents:** While specific rental rates for Mount Pleasant are not detailed in the available sources, Calgary's rental market has seen low vacancy rates and rising rents, suggesting favorable conditions for landlords. citeturn0search11
+- **Average Rents:** While specific rental rates for Mount Pleasant are not detailed in the available sources, Calgary's rental market has seen low vacancy rates and rising rents, suggesting favorable conditions for landlords.
 
 **Neighborhood Classification:**
 
@@ -9162,9 +9162,9 @@ Mount Pleasant is a well-established residential neighborhood in northwest Calga
 
 **Real Estate Investment Potential:**
 
-- **Appreciation vs. Cash Flow:** Calgary's real estate market is projected to grow, with an expected average home price increase of 4.5% in 2025. Mount Pleasant's blend of historic and new homes, along with its desirable location, positions it well for both appreciation and rental income opportunities. citeturn0search7
+- **Appreciation vs. Cash Flow:** Calgary's real estate market is projected to grow, with an expected average home price increase of 4.5% in 2025. Mount Pleasant's blend of historic and new homes, along with its desirable location, positions it well for both appreciation and rental income opportunities.
 
-- **Average House Prices:** As of January 2025, the median home sold price in Mount Pleasant was $710,000. citeturn0search17
+- **Average House Prices:** As of January 2025, the median home sold price in Mount Pleasant was $710,000.
 
 **Investment Strategies:**
 
@@ -9182,37 +9182,37 @@ Tuxedo Park is a historic inner-city neighborhood in Calgary, offering a blend o
 
 **Nearby Amenities and Attractions:**
 
-- **Parks and Recreation:** The neighborhood features a central community park spanning two city blocks, equipped with playgrounds, an outdoor skating rink, soccer fields, and ball diamonds. Confederation Park, a large green space ideal for year-round activities like walking, biking, and cross-country skiing, is also nearby. citeturn0search6
+- **Parks and Recreation:** The neighborhood features a central community park spanning two city blocks, equipped with playgrounds, an outdoor skating rink, soccer fields, and ball diamonds. Confederation Park, a large green space ideal for year-round activities like walking, biking, and cross-country skiing, is also nearby.
 
-- **Shopping and Dining:** Tuxedo Park offers various local businesses, including cafes, restaurants, and specialty stores along Centre Street and Edmonton Trail. Notable establishments include Namskar, known for authentic Indian cuisine, and the Russian Foods Grocer. citeturn0search16
+- **Shopping and Dining:** Tuxedo Park offers various local businesses, including cafes, restaurants, and specialty stores along Centre Street and Edmonton Trail. Notable establishments include Namskar, known for authentic Indian cuisine, and the Russian Foods Grocer.
 
-- **Community Facilities:** The Tuxedo Park Community Association organizes events such as Canada Day celebrations and Oktoberfest. The community center is located within the central park, providing residents with accessible recreational facilities. citeturn0search6
+- **Community Facilities:** The Tuxedo Park Community Association organizes events such as Canada Day celebrations and Oktoberfest. The community center is located within the central park, providing residents with accessible recreational facilities.
 
 **Housing Characteristics:**
 
-- **Construction Period:** Established in 1910, Tuxedo Park is one of Calgary's older communities, featuring a mix of historic buildings and newer developments. citeturn0search6
+- **Construction Period:** Established in 1910, Tuxedo Park is one of Calgary's older communities, featuring a mix of historic buildings and newer developments.
 
-- **Building Types:** The neighborhood comprises a diverse mix of housing types, including single-family homes, duplexes, and low-rise apartments. Recent years have seen significant infill development, replacing older homes with modern infill properties. citeturn0search3
+- **Building Types:** The neighborhood comprises a diverse mix of housing types, including single-family homes, duplexes, and low-rise apartments. Recent years have seen significant infill development, replacing older homes with modern infill properties.
 
 **Zoning Regulations:**
 
-- **Zoning and Density:** Tuxedo Park has seen rezoning to accommodate higher-density developments. For instance, certain areas have been approved for Multi-Residential – Contextual Ground-Oriented (M-CG) zoning, allowing for multi-unit residential buildings. citeturn0search13
+- **Zoning and Density:** Tuxedo Park has seen rezoning to accommodate higher-density developments. For instance, certain areas have been approved for Multi-Residential – Contextual Ground-Oriented (M-CG) zoning, allowing for multi-unit residential buildings.
 
 **Demographics:**
 
-- **Population:** As of 2021, Tuxedo Park had a population of 5,165 residents. citeturn0search2
+- **Population:** As of 2021, Tuxedo Park had a population of 5,165 residents.
 
-- **Population Growth:** The neighborhood experienced a 3.2% increase in population from 2011 to 2012. While specific recent growth rates are not provided, the area continues to attract new residents due to its proximity to downtown and ongoing development. citeturn0search8
+- **Population Growth:** The neighborhood experienced a 3.2% increase in population from 2011 to 2012. While specific recent growth rates are not provided, the area continues to attract new residents due to its proximity to downtown and ongoing development.
 
-- **Average Income:** The median total household income in 2020 was $85,000, slightly below Calgary's median of $98,000. citeturn0search2
+- **Average Income:** The median total household income in 2020 was $85,000, slightly below Calgary's median of $98,000.
 
 **Safety:**
 
-- **Crime Rate:** Tuxedo Park has faced challenges with crime and social disorder in recent years. However, data indicates a decreasing trend in crime rates, with a decline from 5.5 incidents per 100 residents in 2018 to 4.6 in 2023. citeturn0search8
+- **Crime Rate:** Tuxedo Park has faced challenges with crime and social disorder in recent years. However, data indicates a decreasing trend in crime rates, with a decline from 5.5 incidents per 100 residents in 2018 to 4.6 in 2023.
 
 **Rental Market:**
 
-- **Supply and Demand:** The neighborhood's proximity to downtown and institutions like SAIT and the University of Calgary makes it attractive to students and professionals, sustaining a steady demand for rental properties. citeturn0search6
+- **Supply and Demand:** The neighborhood's proximity to downtown and institutions like SAIT and the University of Calgary makes it attractive to students and professionals, sustaining a steady demand for rental properties.
 
 - **Average Rents:** Specific rental rates for Tuxedo Park are not detailed in the available sources. However, Calgary's rental market has seen low vacancy rates and rising rents, suggesting favorable conditions for landlords.
 
@@ -9224,7 +9224,7 @@ Tuxedo Park is a historic inner-city neighborhood in Calgary, offering a blend o
 
 - **Appreciation vs. Cash Flow:** Tuxedo Park's blend of historic and new homes, along with its desirable location, positions it well for both appreciation and rental income opportunities.
 
-- **Average House Prices:** As of January 2025, the median home sold price in Tuxedo Park was $616,668. citeturn0search9
+- **Average House Prices:** As of January 2025, the median home sold price in Tuxedo Park was $616,668.
 
 **Investment Strategies:**
 
@@ -9242,37 +9242,37 @@ Kingsland is a well-established residential neighborhood in southwest Calgary, o
 
 **Nearby Amenities and Attractions:**
 
-- **Shopping and Dining:** Kingsland's proximity to major commercial corridors like Macleod Trail and Elbow Drive provides residents with access to a variety of shopping and dining options. Notably, the neighborhood is near Chinook Centre, one of Calgary's largest shopping malls, offering a wide range of retail stores, restaurants, and entertainment venues. citeturn0search6
+- **Shopping and Dining:** Kingsland's proximity to major commercial corridors like Macleod Trail and Elbow Drive provides residents with access to a variety of shopping and dining options. Notably, the neighborhood is near Chinook Centre, one of Calgary's largest shopping malls, offering a wide range of retail stores, restaurants, and entertainment venues.
 
-- **Parks and Recreation:** The community features several parks and green spaces, including Kingsland Park, which offers playgrounds and open areas for recreational activities. Additionally, the nearby Glenmore Reservoir provides opportunities for boating, cycling, and walking along scenic trails. citeturn0search6
+- **Parks and Recreation:** The community features several parks and green spaces, including Kingsland Park, which offers playgrounds and open areas for recreational activities. Additionally, the nearby Glenmore Reservoir provides opportunities for boating, cycling, and walking along scenic trails.
 
-- **Community Facilities:** The Kingsland Community Association hosts various events and programs throughout the year, fostering a strong sense of community among residents. citeturn0search6
+- **Community Facilities:** The Kingsland Community Association hosts various events and programs throughout the year, fostering a strong sense of community among residents.
 
 **Housing Characteristics:**
 
-- **Construction Period:** Kingsland was established in 1957, and many of its homes were built during the late 1950s and 1960s. citeturn0search19
+- **Construction Period:** Kingsland was established in 1957, and many of its homes were built during the late 1950s and 1960s.
 
-- **Building Types:** The neighborhood offers a diverse mix of housing options, including single-family detached homes, duplexes, townhouses, and low-rise apartment buildings. This variety accommodates a range of preferences and budgets. citeturn0search6
+- **Building Types:** The neighborhood offers a diverse mix of housing options, including single-family detached homes, duplexes, townhouses, and low-rise apartment buildings. This variety accommodates a range of preferences and budgets.
 
 **Zoning Regulations:**
 
-- **Zoning and Density:** Kingsland's zoning regulations primarily consist of low-density residential designations. However, certain areas have been designated for higher-density developments, allowing for multi-family units and mixed-use buildings. This zoning flexibility permits the development of multiple units per lot in specific zones. citeturn0search6
+- **Zoning and Density:** Kingsland's zoning regulations primarily consist of low-density residential designations. However, certain areas have been designated for higher-density developments, allowing for multi-family units and mixed-use buildings. This zoning flexibility permits the development of multiple units per lot in specific zones.
 
 **Demographics:**
 
-- **Population:** As of 2021, Kingsland had a population of approximately 4,900 residents. citeturn0search2
+- **Population:** As of 2021, Kingsland had a population of approximately 4,900 residents.
 
-- **Population Growth:** The neighborhood has experienced modest population growth over the years, maintaining a stable community size. citeturn0search2
+- **Population Growth:** The neighborhood has experienced modest population growth over the years, maintaining a stable community size.
 
-- **Average Income:** The median total household income in Kingsland was $68,000 in 2020, which is below Calgary's median of $98,000. citeturn0search2
+- **Average Income:** The median total household income in Kingsland was $68,000 in 2020, which is below Calgary's median of $98,000.
 
 **Safety:**
 
-- **Crime Rate:** Kingsland's crime rates are 28% higher than the Calgary average, with a rate of 5,363 incidents per 100,000 people. citeturn0search10
+- **Crime Rate:** Kingsland's crime rates are 28% higher than the Calgary average, with a rate of 5,363 incidents per 100,000 people.
 
 **Rental Market:**
 
-- **Supply and Demand:** Kingsland's diverse housing options and proximity to major commercial areas contribute to a steady demand for rental properties. The neighborhood's accessibility to public transit and major roadways enhances its appeal to renters. citeturn0search6
+- **Supply and Demand:** Kingsland's diverse housing options and proximity to major commercial areas contribute to a steady demand for rental properties. The neighborhood's accessibility to public transit and major roadways enhances its appeal to renters.
 
 - **Average Rents:** Specific rental rates for Kingsland are not detailed in the available sources. However, Calgary's rental market has seen low vacancy rates and rising rents, suggesting favorable conditions for landlords.
 
@@ -9284,7 +9284,7 @@ Kingsland is a well-established residential neighborhood in southwest Calgary, o
 
 - **Appreciation vs. Cash Flow:** Kingsland's established nature and strategic location near major commercial centers suggest potential for property value appreciation. The diverse housing stock offers opportunities for both long-term appreciation and rental income.
 
-- **Average House Prices:** As of January 2025, the median home sold price in Kingsland was $517,055. citeturn0search1
+- **Average House Prices:** As of January 2025, the median home sold price in Kingsland was $517,055.
 
 **Investment Strategies:**
 
@@ -9302,17 +9302,17 @@ Discovery Ridge is a picturesque residential neighborhood located in Calgary's s
 
 **Nearby Amenities and Attractions:**
 
-- **Griffith Woods Park:** Adjacent to Discovery Ridge, this expansive natural area offers residents access to walking trails, wildlife viewing, and serene forested landscapes. citeturn0search16
+- **Griffith Woods Park:** Adjacent to Discovery Ridge, this expansive natural area offers residents access to walking trails, wildlife viewing, and serene forested landscapes.
 
 - **Shopping and Dining:** While Discovery Ridge maintains a tranquil, natural setting, essential services and shopping options are accessible within a short drive. The nearby Westhills Towne Centre and Signal Hill Centre offer a variety of retail stores, restaurants, and entertainment venues.
 
-- **Community Facilities:** The Discovery Ridge Community Association organizes events and maintains recreational facilities, including tennis courts and playgrounds, fostering a strong sense of community. citeturn0search16
+- **Community Facilities:** The Discovery Ridge Community Association organizes events and maintains recreational facilities, including tennis courts and playgrounds, fostering a strong sense of community.
 
 **Housing Characteristics:**
 
-- **Construction Period:** Development in Discovery Ridge began in the late 1990s, making it a relatively new community within Calgary. citeturn0search6
+- **Construction Period:** Development in Discovery Ridge began in the late 1990s, making it a relatively new community within Calgary.
 
-- **Building Types:** The neighborhood predominantly features single-family detached homes, along with a selection of townhouses and low-rise condominiums, catering to a variety of housing preferences. citeturn0search16
+- **Building Types:** The neighborhood predominantly features single-family detached homes, along with a selection of townhouses and low-rise condominiums, catering to a variety of housing preferences.
 
 **Zoning Regulations:**
 
@@ -9320,15 +9320,15 @@ Discovery Ridge is a picturesque residential neighborhood located in Calgary's s
 
 **Demographics:**
 
-- **Population:** As of 2021, Discovery Ridge had a population of 4,330 residents. citeturn0search2
+- **Population:** As of 2021, Discovery Ridge had a population of 4,330 residents.
 
-- **Population Growth:** The community has experienced modest growth since its establishment, with a population of 3,105 in 2006, indicating a steady increase over the years. citeturn0search6
+- **Population Growth:** The community has experienced modest growth since its establishment, with a population of 3,105 in 2006, indicating a steady increase over the years.
 
-- **Average Income:** In 2020, the median total household income in Discovery Ridge was $145,000, significantly higher than Calgary's median of $98,000. citeturn0search2
+- **Average Income:** In 2020, the median total household income in Discovery Ridge was $145,000, significantly higher than Calgary's median of $98,000.
 
 **Safety:**
 
-- **Crime Rate:** Discovery Ridge is considered a safe neighborhood, with crime rates approximately 60% lower than the Calgary average, contributing to its family-friendly reputation. citeturn0search4
+- **Crime Rate:** Discovery Ridge is considered a safe neighborhood, with crime rates approximately 60% lower than the Calgary average, contributing to its family-friendly reputation.
 
 **Rental Market:**
 
@@ -9344,7 +9344,7 @@ Discovery Ridge is a picturesque residential neighborhood located in Calgary's s
 
 - **Appreciation vs. Cash Flow:** Discovery Ridge's real estate market is characterized by high property values and limited rental opportunities. Investors may find potential in long-term appreciation, but immediate cash flow from rentals could be limited due to the small rental market.
 
-- **Average House Prices:** As of early 2025, the average house price in Discovery Ridge was approximately $709,231. citeturn0search1
+- **Average House Prices:** As of early 2025, the average house price in Discovery Ridge was approximately $709,231.
 
 **Investment Strategies:**
 
@@ -9799,18 +9799,18 @@ Richmond, also known as Knob Hill, is a vibrant inner-city neighborhood in south
 **Demographics:**
 
 - **Population:**
-  - As of 2021, Richmond had a population of approximately 5,250 residents. citeturn0search2
+  - As of 2021, Richmond had a population of approximately 5,250 residents.
 
 - **Population Growth:**
-  - The community has experienced modest growth, with a slight increase from 4,962 residents in 2019. citeturn0search14
+  - The community has experienced modest growth, with a slight increase from 4,962 residents in 2019.
 
 - **Average Income:**
-  - The median household income in 2020 was $113,000, higher than Calgary's median of $98,000. citeturn0search2
+  - The median household income in 2020 was $113,000, higher than Calgary's median of $98,000.
 
 **Safety:**
 
 - **Crime Rate:**
-  - Richmond boasts a crime rate lower than the Calgary average, contributing to its reputation as a safe and desirable neighborhood. citeturn0search4
+  - Richmond boasts a crime rate lower than the Calgary average, contributing to its reputation as a safe and desirable neighborhood.
 
 **Rental Market:**
 
@@ -9823,7 +9823,7 @@ Richmond, also known as Knob Hill, is a vibrant inner-city neighborhood in south
 **Neighborhood Classification:**
 
 - **Grade:**
-  - Richmond is considered an 'A-' neighborhood, reflecting its excellent amenities, safety, and strong real estate market. citeturn0search4
+  - Richmond is considered an 'A-' neighborhood, reflecting its excellent amenities, safety, and strong real estate market.
 
 **Real Estate Investment Potential:**
 
@@ -9831,7 +9831,7 @@ Richmond, also known as Knob Hill, is a vibrant inner-city neighborhood in south
   - The area has seen consistent property value appreciation, driven by ongoing redevelopment and high demand. Investors can expect favorable long-term returns, with rental properties offering competitive cash flow.
 
 - **Average House Prices:**
-  - As of January 2025, the average house price in Richmond is approximately $902,000. citeturn0search1
+  - As of January 2025, the average house price in Richmond is approximately $902,000.
 
 **Investment Strategies:**
 
@@ -10193,43 +10193,43 @@ Considering Parkland's characteristics, several real estate investment strategie
 
 # Country Hills
 
-Country Hills is a residential neighborhood located in the northwest quadrant of Calgary, Alberta. Established in 1990, it is bounded by Country Hills Boulevard to the north, Beddington Trail to the south, Harvest Hills Boulevard to the east, and the Country Hills Golf Club to the southwest. citeturn0search19
+Country Hills is a residential neighborhood located in the northwest quadrant of Calgary, Alberta. Established in 1990, it is bounded by Country Hills Boulevard to the north, Beddington Trail to the south, Harvest Hills Boulevard to the east, and the Country Hills Golf Club to the southwest.
 
 **Nearby Amenities and Attractions:**
-- **Shopping and Services:** The neighborhood is in close proximity to the Country Hills Town Centre, an outdoor mall with over 50 stores, serving communities like Harvest Hills and Coventry Hills. citeturn0search14
-- **Recreation:** Residents have access to the Country Hills Golf Club, which began construction in 1989 and opened in 1992, with the clubhouse and fully developed course opening in 1999. citeturn0search19
-- **Libraries and Community Centers:** The Country Hills Library, located at 11950 Country Village Link N.E. in VIVO (formerly Cardel Place), serves the community. citeturn0search19
+- **Shopping and Services:** The neighborhood is in close proximity to the Country Hills Town Centre, an outdoor mall with over 50 stores, serving communities like Harvest Hills and Coventry Hills.
+- **Recreation:** Residents have access to the Country Hills Golf Club, which began construction in 1989 and opened in 1992, with the clubhouse and fully developed course opening in 1999.
+- **Libraries and Community Centers:** The Country Hills Library, located at 11950 Country Village Link N.E. in VIVO (formerly Cardel Place), serves the community.
 
 **Housing Characteristics:**
 - **Construction Period:** The majority of homes in Country Hills were constructed in the 1990s and early 2000s, aligning with the neighborhood's establishment in 1990.
-- **Building Types:** The community predominantly features single-family detached homes. As of 2000, 9.5% of the buildings were condominiums or apartments, and 6.8% of the housing was used for renting. citeturn0search19
+- **Building Types:** The community predominantly features single-family detached homes. As of 2000, 9.5% of the buildings were condominiums or apartments, and 6.8% of the housing was used for renting.
 
 **Zoning Regulations:**
-Calgary's zoning laws, known as "land use bylaws," determine land usage within the city. Each area is assigned a specific zone—residential, commercial, industrial, or mixed-use—that dictates the types of buildings and activities permitted. To determine if zoning regulations in Country Hills allow for more units per lot, it's essential to consult the specific zoning designation for the property in question. The City of Calgary's official website or the Community Guide to the Planning Process can provide detailed information on zoning regulations. citeturn0search10
+Calgary's zoning laws, known as "land use bylaws," determine land usage within the city. Each area is assigned a specific zone—residential, commercial, industrial, or mixed-use—that dictates the types of buildings and activities permitted. To determine if zoning regulations in Country Hills allow for more units per lot, it's essential to consult the specific zoning designation for the property in question. The City of Calgary's official website or the Community Guide to the Planning Process can provide detailed information on zoning regulations.
 
 **Demographics:**
-- **Population:** As of the 2021 Census, Country Hills had a population of 3,660 residents. citeturn0search2
-- **Population Growth:** Between 2011 and 2016, Calgary experienced a population growth of 13%, with Country Hills contributing to this increase. citeturn0search15
-- **Average Income:** In 2020, the median total household income in Country Hills was $97,000, closely aligning with Calgary's median of $98,000. citeturn0search2
+- **Population:** As of the 2021 Census, Country Hills had a population of 3,660 residents.
+- **Population Growth:** Between 2011 and 2016, Calgary experienced a population growth of 13%, with Country Hills contributing to this increase.
+- **Average Income:** In 2020, the median total household income in Country Hills was $97,000, closely aligning with Calgary's median of $98,000.
 
 **Crime Rate:**
-Country Hills has experienced fluctuations in crime rates over the years. For instance, in 2023, the crime rate was 2.5 incidents per 100 residents, a decrease from previous years. citeturn0search19
+Country Hills has experienced fluctuations in crime rates over the years. For instance, in 2023, the crime rate was 2.5 incidents per 100 residents, a decrease from previous years.
 
 **Rental Market:**
-- **Supply and Demand:** The rental market in Calgary has been robust, with multi-residential rental properties remaining highly sought after, reflecting higher rents and low vacancy rates. citeturn0search16
-- **Average Rents:** While specific data for Country Hills isn't provided, Calgary's strong rental market suggests competitive rental rates in the area.
+- **Supply and Demand:** The rental market in Calgary has been robust, with multi-residential rental properties remaining highly sought after, reflecting higher rents and low vacancy rates.
+- **Average Rents:** While specific data for Country Hills isn't provided, Calgary's strong rental market suggests competitive rental rates in the area.
 
 **Neighborhood Classification:**
-Based on available data, Country Hills can be classified as a B neighborhood. This classification reflects its stable property values, moderate crime rates, and a mix of amenities that cater to residents' needs.
+Based on available data, Country Hills can be classified as a B neighborhood. This classification reflects its stable property values, moderate crime rates, and a mix of amenities that cater to residents' needs.
 
 **Real Estate Investment Potential:**
-- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with single residential property values increasing by 14% and condominiums by 22% for the 2025 assessment year. This trend suggests strong long-term appreciation potential for properties in Country Hills. citeturn0search16
-- **Average House Prices:** The average price of homes in Country Hills is approximately $488,425. citeturn0search13
+- **Long-Term Appreciation vs. Current Returns:** Calgary's real estate market has shown resilience, with single residential property values increasing by 14% and condominiums by 22% for the 2025 assessment year. This trend suggests strong long-term appreciation potential for properties in Country Hills.
+- **Average House Prices:** The average price of homes in Country Hills is approximately $488,425.
 
 **Suitable Real Estate Investment Strategies:**
-- **Single-Family Rentals:** Given the neighborhood's predominance of single-family homes, investing in rental properties can provide stable income, especially with Calgary's strong rental market.
-- **Condominium Investments:** With a portion of the housing stock comprising condominiums or apartments, investing in these properties can cater to individuals or small families seeking rental options.
-- **Long-Term Hold:** Considering the projected property value appreciation, a long-term investment strategy could yield substantial returns.
+- **Single-Family Rentals:** Given the neighborhood's predominance of single-family homes, investing in rental properties can provide stable income, especially with Calgary's strong rental market.
+- **Condominium Investments:** With a portion of the housing stock comprising condominiums or apartments, investing in these properties can cater to individuals or small families seeking rental options.
+- **Long-Term Hold:** Considering the projected property value appreciation, a long-term investment strategy could yield substantial returns.
 
 # Sunnyside
 
