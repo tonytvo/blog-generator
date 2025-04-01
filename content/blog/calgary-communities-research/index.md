@@ -12426,6 +12426,184 @@ Collingwood's blend of mature charm, safety, and steady growth makes it a compel
 
 
 # Highwood
+
+## 📍 **1. Nearby Amenities & Attractions**
+
+**Highwood** is a mature, centrally located northwest Calgary neighborhood with solid connectivity and lifestyle offerings:
+
+* **Parks & Recreation**:
+
+  * *Nose Hill Park* – one of Calgary’s largest urban parks, perfect for hiking and biking.
+  * *Confederation Park* – tree-lined pathways, picnic areas, and sports fields.
+  * *Highwood Outdoor Pool* – seasonal family destination.
+
+* **Education**:
+
+  * *Highwood Elementary School* – Mandarin Bilingual (K–4).
+  * *Colonel Irvine School* – Public (7–9) and Mandarin Bilingual (5–9).
+
+* **Transit & Roads**:
+
+  * Major corridors: 14 St NW, McKnight Blvd, John Laurie Blvd.
+  * Routes: #2, #20, #38 connect easily to downtown and North Calgary.
+  * Approx. **17-min drive to downtown Calgary**.
+
+---
+
+## 🏡 **2. Housing Stock & Build Era**
+
+* **Construction Era**: Predominantly **1950s–1960s** – classic bungalows, slab-on-grade, and some war-time cottages.
+* **Redevelopment Trend**: Strong presence of **new infills**, duplexes, and modern townhomes post-2015.
+
+---
+
+## 🏗️ **3. Common Building Types**
+
+* **Detached single-family homes** – dominate (60–70% of stock).
+* **Semi-detached and infill developments** – increasing.
+* **Some townhomes and low-rise apartments** along collector roads.
+
+---
+
+## 📐 **4. Zoning Regulations**
+
+* **Primary Zoning**:
+
+  * *R-C1*: Single-detached dwellings.
+  * *R-C2*: Permits **semi-detached homes and secondary suites**.
+
+* **Recent Amendments**:
+
+  * City council has approved **rezoning to accommodate rowhouse and townhouse forms** on select lots.
+  * This aligns with citywide goals to densify inner-city neighborhoods.
+
+🔑 **Investor Insight**: Zoning allows for **legal secondary suites** and **duplex/triplex infill builds** — *great for cashflow and resale*.
+
+---
+
+## 👥 **5. Population & Growth**
+
+* **Population (2012)**: \~2,214 residents
+* **Growth (2011–2012)**: +5.5%
+* **Trend**: Stable with gradual increase due to redevelopment and densification.
+
+---
+
+## 💰 **6. Average Income**
+
+* **Median Household Income**: \~\$82,960
+  (*Slightly below Calgary average of \~\$97,000*)
+* **Demographic Mix**: Balanced – families, working professionals, and some retirees.
+
+---
+
+## 🛡️ **7. Crime Rate**
+
+* **Overall**: 11% higher than national average.
+* **Violent Crime**: 14% lower than national average.
+* **Safety Rank**: Safer than **61% of Alberta cities**.
+
+🔐 **Investor View**: Generally **safe and stable**, especially for family-oriented rentals.
+
+---
+
+## 🏘️ **8. Rental Supply & Demand**
+
+* **Rental Market**: \~25 active rental listings in Highwood.
+
+* **Tenant Demand**:
+
+  * High demand for **legal suites, 2–3 bedroom units**, and proximity to U of C/SAIT.
+  * Mandarin-speaking families value the bilingual program.
+
+* **Target Tenant Profiles**:
+
+  * Young families, students, professionals.
+  * Immigrant populations seeking school catchment areas.
+
+---
+
+## 💵 **9. Average Rents (2025 est.)**
+
+| Unit Type           | Monthly Rent      |
+| ------------------- | ----------------- |
+| 1-Bedroom Suite     | \~\$1,350–\$1,600 |
+| 2-Bedroom Main      | \~\$1,800–\$2,100 |
+| 3–4 Bedroom Home    | \~\$2,600–\$3,000 |
+| Full House w/ Suite | \~\$2,800–\$3,200 |
+
+📈 **Average Rent**: \~\$2,725/month
+*(Good cashflow potential with dual-unit setups)*
+
+---
+
+## 🧭 **10. Neighborhood Classification**
+
+* **Grade**: **B**
+  *Established community, strong schools, redevelopment activity, and good safety profile.*
+
+---
+
+## 📈 **11. Long-Term Appreciation vs Cashflow**
+
+* **Appreciation Drivers**:
+
+  * Proximity to downtown, Nose Hill Park, and U of C.
+  * Infill redevelopment and zoning flexibility.
+  * School catchment demand (Mandarin program).
+
+* **Cashflow**:
+
+  * Secondary suite potential improves gross yield to 4.5–5.5%.
+  * Dual-rental setups (main + basement) yield \$3,000+ gross monthly rent.
+
+🔑 **Balanced Play**: Highwood offers both **moderate cashflow** and **strong long-term appreciation**.
+
+---
+
+## 🏷️ **12. Average House Prices (2025)**
+
+* **Detached Bungalows (older)**: \$650,000–\$750,000
+* **New Infill Duplexes**: \$850,000–\$1,050,000+
+* **Townhouses**: \$480,000–\$620,000 (limited supply)
+
+---
+
+## 💡 **13. Recommended Investment Strategies**
+
+### 🔹 **1. Buy & Hold**
+
+* Classic bungalows with secondary suites = reliable cashflow.
+* Long-term land value growth as redevelopment progresses.
+
+### 🔹 **2. Infill Development**
+
+* R-C2 lots → duplex or rowhouse builds.
+* Target \~7–8% ROI on completed build + sale in 12–18 months.
+
+### 🔹 **3. Secondary Suites**
+
+* Convert existing basements to **legal suites**.
+* Excellent for cashflow with separate entry + laundry.
+
+### 🔹 **4. Joint Ventures or BRRRR**
+
+* BRRRR opportunities (Buy, Renovate, Rent, Refinance, Repeat) on undervalued 1950s homes.
+* Partner with capital investors looking for inner-city growth.
+
+---
+
+## 📊 **Investor Snapshot Summary**
+
+| Category                 | Rating                              |
+| ------------------------ | ----------------------------------- |
+| **Cashflow**             | ✅ Moderate-Strong (duplex/suite)    |
+| **Appreciation**         | ✅ Strong (zoning + location)        |
+| **Tenant Profile**       | ✅ Families, professionals, students |
+| **Renovation Potential** | ✅ High (1950s stock)                |
+| **Zoning Flexibility**   | ✅ Improving (R-C2, suite bylaws)    |
+
+
 # Vista Heights
 # Christie Park
 # Sage Hill
