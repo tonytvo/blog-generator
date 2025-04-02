@@ -12571,22 +12571,22 @@ Collingwood's blend of mature charm, safety, and steady growth makes it a compel
 
 ## 💡 **13. Recommended Investment Strategies**
 
-### 🔹 **1. Buy & Hold**
+## 🔹 **1. Buy & Hold**
 
 * Classic bungalows with secondary suites = reliable cashflow.
 * Long-term land value growth as redevelopment progresses.
 
-### 🔹 **2. Infill Development**
+## 🔹 **2. Infill Development**
 
 * R-C2 lots → duplex or rowhouse builds.
 * Target \~7–8% ROI on completed build + sale in 12–18 months.
 
-### 🔹 **3. Secondary Suites**
+## 🔹 **3. Secondary Suites**
 
 * Convert existing basements to **legal suites**.
 * Excellent for cashflow with separate entry + laundry.
 
-### 🔹 **4. Joint Ventures or BRRRR**
+## 🔹 **4. Joint Ventures or BRRRR**
 
 * BRRRR opportunities (Buy, Renovate, Rent, Refinance, Repeat) on undervalued 1950s homes.
 * Partner with capital investors looking for inner-city growth.
@@ -12605,6 +12605,97 @@ Collingwood's blend of mature charm, safety, and steady growth makes it a compel
 
 
 # Vista Heights
+
+## 🏞️ Nearby Amenities & Attractions
+
+Vista Heights is a well-established residential neighborhood in northeast Calgary, offering residents convenient access to various amenities:([Liv Real Estate][1])
+
+* **Parks & Recreation**: Proximity to Airways Park and the Vista Heights Playground provides green spaces for outdoor activities.
+
+* **Education**: The community is served by Vista Heights Elementary School.([Wikipedia][2])
+
+* **Transportation**: Major routes like the Trans-Canada Highway and Deerfoot Trail border the neighborhood, facilitating easy access to downtown Calgary and other parts of the city.
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The majority of homes in Vista Heights were constructed in the early 1960s, reflecting mid-century architectural styles. ([Wikipedia][2])
+
+* **Building Types**: The neighborhood predominantly features single-family detached homes and row houses. ([Wikipedia][2])
+
+---
+
+## 📐 Zoning Regulations
+
+Vista Heights falls under Calgary's Land Use Bylaw 1P2007, with common residential zones like R-C1 and R-C2. R-C2 zoning allows for semi-detached dwellings and secondary suites.&#x20;
+
+Additionally, the neighborhood is within the Airport Vicinity Protection Area (AVPA), which imposes certain restrictions on residential development due to noise exposure forecasts. ([https://www.calgary.ca][3])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of 2021, Vista Heights had a population of approximately 2,300 residents.&#x20;
+
+* **Population Growth**: The population has remained relatively stable over recent years.&#x20;
+
+* **Median Household Income**: Approximately \$51,370, which is below Calgary's average. ([Wikipedia][2])
+
+---
+
+## 🛡️ Crime Rate
+
+Vista Heights has experienced a decrease in crime rates, with a total of 59 crimes reported as of November 2024, down 23% from the previous year. ([MyCalgary][4])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a moderate rental market, with approximately 47% of housing used for renting. ([Wikipedia][2])
+
+* **Average Rents**: The average rent for properties in Vista Heights is about \$1,799 per month. ([CMHC][5])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Vista Heights can be classified as a "C" neighborhood, characterized by its affordability, access to amenities, and potential for redevelopment.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of April 2025, the average house price in Vista Heights is approximately \$384,788. ([Zolo][6])
+
+* **Long-Term Appreciation**: The neighborhood's proximity to major transportation routes and ongoing redevelopment efforts suggest potential for property value appreciation.
+
+* **Current Returns**: With moderate rental rates and property values, investors can expect stable cash flow, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Infill Development**: Leverage zoning regulations to develop higher-density housing, such as duplexes or townhouses.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income.
+
+---
+
+Vista Heights offers a balanced investment opportunity with its affordability, strategic location, and potential for growth.
+
+---
+
+[1]: https://www.livrealestate.ca/calgary-northeast/vista-heights.php?utm_source=chatgpt.com "Vista Heights Homes for Sale in Northeast Calgary | Liv Real Estate ..."
+[2]: https://en.wikipedia.org/wiki/Vista_Heights%2C_Calgary?utm_source=chatgpt.com "Vista Heights, Calgary"
+[3]: https://www.calgary.ca/planning/land-use/airport-vicinity-protection-area.html?utm_source=chatgpt.com "Airport vicinity protection area - The City of Calgary"
+[4]: https://mycalgary.com/crime-statistics/vista-heights-crime-activity-update/?utm_source=chatgpt.com "Vista Heights Crime Statistics Update - MyCalgary"
+[5]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=24&utm_source=chatgpt.com "Calgary — Average Rent by Bedroom Type by Neighbourhood"
+[6]: https://www.zolo.ca/calgary-real-estate/vista-heights/trends?utm_source=chatgpt.com "Vista Heights Real Estate Trends - Calgary - Zolo"
+
+
 # Christie Park
 # Sage Hill
 # Ramsay
