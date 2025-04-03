@@ -12697,6 +12697,94 @@ Vista Heights offers a balanced investment opportunity with its affordability, s
 
 
 # Christie Park
+
+## 🏞️ Nearby Amenities & Attractions
+
+Christie Park is a well-established residential neighborhood in southwest Calgary, offering residents convenient access to various amenities:
+
+* **Parks & Recreation**: Proximity to Strathcona Ravine and Edworthy Park provides green spaces for outdoor activities.
+
+* **Education**: The community is served by several schools, including Olympic Heights School and Ernest Manning High School.
+
+* **Transportation**: The neighborhood is well-connected with the 69 Street CTrain Station nearby, facilitating easy access to downtown Calgary and other parts of the city.
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The majority of homes in Christie Park were constructed between 1991 and 2000, reflecting modern architectural styles. ([https://www.calgary.ca][1])
+
+* **Building Types**: The neighborhood predominantly features single-family detached homes, with some semi-detached houses and row houses.&#x20;
+
+---
+
+## 📐 Zoning Regulations
+
+Christie Park falls under Calgary's Land Use Bylaw 1P2007, with common residential zones like R-C1 and R-C2. R-C2 zoning allows for semi-detached dwellings and secondary suites.&#x20;
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2021 Census, Christie Park had a population of approximately 1,880 residents. ([MyCalgary][2])
+
+* **Population Growth**: The population has remained relatively stable over recent years.
+
+* **Median Household Income**: Approximately \$149,000, which is above Calgary's average. ([MyCalgary][2])
+
+---
+
+## 🛡️ Crime Rate
+
+Christie Park boasts a crime rate 57% lower than the national average, with violent crimes 66% lower, underscoring its reputation as a safe neighborhood. ([Areavibes][3])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a moderate rental market, with a limited number of rental properties available.&#x20;
+
+* **Average Rents**: The average rent for properties in Christie Park is about \$3,650 per month for houses and \$1,300 per month for basements. ([RentFaster.ca][4])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Christie Park can be classified as an "A" neighborhood, characterized by its affluence, access to amenities, and high standard of living.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of April 2025, the average house price in Christie Park is approximately \$1,057,472. ([remaxcentral.ab.ca][5])
+
+* **Long-Term Appreciation**: The neighborhood's proximity to major transportation routes, high-quality schools, and ongoing demand suggest potential for property value appreciation.
+
+* **Current Returns**: With high rental rates and property values, investors can expect stable cash flow, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Infill Development**: Leverage zoning regulations to develop higher-density housing, such as duplexes or townhouses.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income.
+
+---
+
+Christie Park offers a balanced investment opportunity with its affluence, strategic location, and potential for growth.
+
+---
+
+[1]: https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/christie-park.pdf?utm_source=chatgpt.com "[PDF] Christie Park - The City of Calgary"
+[2]: https://mycalgary.com/communities/calgary/sw/christie_park/?utm_source=chatgpt.com "Christie Park Community News - South West Calgary"
+[3]: https://www.areavibes.com/calgary-ab/christie%2Bpark/crime/?utm_source=chatgpt.com "Christie Park, Calgary, AB Crime Rates - AreaVibes"
+[4]: https://www.rentfaster.ca/ab/calgary/rentals/christie-park/?utm_source=chatgpt.com "Christie-park Apartments & Houses for Rent in Calgary - RentFaster.ca"
+[5]: https://www.remaxcentral.ab.ca/christiepark-real-estate-statistics.html?utm_source=chatgpt.com "Christie Park Calgary Real Estate Statistics & Housing Market"
+
+
 # Sage Hill
 # Ramsay
 # Cambrian Heights
