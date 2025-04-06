@@ -1,5 +1,5 @@
 ---
-title: Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford
+title: Fundamentals of Software Architecture An Engineering Approach by Mark Richards, Neal Ford
 date: "2024-12-27T22:12:03.284Z"
 description: "Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford"
 tags: ["evolutionarydesign", "softwarearchitecture"]
