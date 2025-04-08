@@ -12976,6 +12976,92 @@ Ramsay offers a balanced investment opportunity with its historic charm, strateg
 
 
 # Cambrian Heights
+
+## 🏞️ Nearby Amenities & Attractions
+
+Cambrian Heights is a mature, inner-city neighborhood in northwest Calgary, offering residents convenient access to various amenities:
+
+* **Parks & Recreation**: Proximity to Confederation Park, Nose Hill Park, and Canmore Park provides ample green spaces for outdoor activities. ([Areavibes][1])
+
+* **Shopping & Dining**: The area is close to North Hill Centre and various strip malls along 16 Avenue NW, offering a range of shopping and dining options. ([NextHome][2])
+
+* **Transportation**: Major routes like 14th Street NW and John Laurie Boulevard provide easy access to downtown Calgary and other parts of the city.
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The majority of homes in Cambrian Heights were built in the 1950s, reflecting mid-century architectural styles.&#x20;
+
+* **Building Types**: The neighborhood predominantly features single-family detached homes, with a growing presence of duplexes and low-rise apartments due to recent redevelopment efforts.&#x20;
+
+---
+
+## 📐 Zoning Regulations
+
+Cambrian Heights falls under Calgary's Land Use Bylaw 1P2007, with common residential zones like R-C1 and R-C2. Recent land use amendments have been approved to permit higher-density residential development, such as R-CG zoning, indicating a shift towards increased housing diversity. ([cambrianheightscommunity.com][3])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2021 Census, Cambrian Heights had a population of approximately 2,050 residents.&#x20;
+
+* **Population Growth**: The population has remained relatively stable over recent years.
+
+* **Median Household Income**: Approximately \$82,000, which is slightly above Calgary's average. ([thehowardteam.net][4])
+
+---
+
+## 🛡️ Crime Rate
+
+Cambrian Heights boasts a crime rate 12% lower than the national average, with violent crimes 31% lower, underscoring its reputation as a safe neighborhood. ([Areavibes][5])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a moderate rental market, with a variety of rental properties available, including apartments and single-family homes.
+
+* **Average Rents**: As of May 2025, the average rent for properties in Cambrian Heights is approximately \$2,177 per month. ([Zumper - Apartments for Rent & Houses][6])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Cambrian Heights can be classified as a "B" neighborhood, characterized by its established community, access to amenities, and ongoing redevelopment.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of May 2025, the average house price in Cambrian Heights is approximately \$694,875. ([Zolo][7])
+
+* **Long-Term Appreciation**: The neighborhood's proximity to downtown and recent zoning changes suggest potential for property value appreciation.
+
+* **Current Returns**: With moderate rental rates and property values, investors can expect stable cash flow, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Infill Development**: Leverage zoning amendments to develop higher-density housing, such as townhouses or duplexes.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income.
+
+---
+
+[1]: https://www.areavibes.com/calgary-ab/cambrian%2Bheights/?utm_source=chatgpt.com "Cambrian Heights, AB Area Guide - Calgary - AreaVibes"
+[2]: https://nexthome.ca/neighbourhoods/cambrian-heights/31420/?utm_source=chatgpt.com "Cambrian Heights - NextHome"
+[3]: https://cambrianheightscommunity.com/wp-content/uploads/2025/02/RC-G-Zoning-What-we-have-learned-One-pager.pdf?utm_source=chatgpt.com "[PDF] RC-G Zoning What we have learned - One pager updated"
+[4]: https://www.thehowardteam.net/areas/cambrian%2Bheights?utm_source=chatgpt.com "Cambrian Heights Real Estate"
+[5]: https://www.areavibes.com/calgary-ab/cambrian%2Bheights/crime/?utm_source=chatgpt.com "Cambrian Heights, Calgary, AB Crime Rates - AreaVibes"
+[6]: https://www.zumper.com/apartments-for-rent/calgary-ab/cambrian-heights?utm_source=chatgpt.com "Apartments for Rent in Cambrian Heights, Calgary, AB - 25 Rentals"
+[7]: https://www.zolo.ca/calgary-real-estate/cambrian-heights/trends?utm_source=chatgpt.com "Cambrian Heights Real Estate Trends - Calgary - Zolo"
+
+
 # Greenview
 # CFB Lincoln Park PMQ
 # Cliff Bungalow
