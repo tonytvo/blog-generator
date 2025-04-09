@@ -13063,6 +13063,92 @@ Cambrian Heights can be classified as a "B" neighborhood, characterized by its e
 
 
 # Greenview
+
+## 🏞️ Nearby Amenities & Attractions
+
+Greenview is a well-situated community in northeast Calgary, offering residents convenient access to various amenities:
+
+* **Shopping & Dining**: Proximity to Deerfoot City provides a range of retail stores, restaurants, and entertainment options.([MLS Listing Realtor][1])
+
+* **Recreation**: The neighborhood is near Nose Creek Parkway, offering walking and biking trails. Additionally, the Thorncliffe Greenview Community Association provides recreational facilities, including an inclusive playground. ([https://www.calgary.ca][2])
+
+* **Transportation**: Major roadways like Deerfoot Trail and McKnight Boulevard provide easy connectivity to other parts of Calgary.([Liv Real Estate][3])
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The majority of homes in Greenview were built between the 1960s and 1980s, reflecting mid-century architectural styles.
+
+* **Building Types**: The neighborhood predominantly features a mix of single-family detached homes, duplexes, and low-rise apartment buildings.
+
+---
+
+## 📐 Zoning Regulations
+
+Greenview falls under Calgary's Land Use Bylaw 1P2007, with common residential zones like R-C1 and R-C2. These zones allow for single-detached and semi-detached dwellings, respectively. Recent land use amendments have been approved to permit higher-density residential development, such as R-CG zoning, indicating a shift towards increased housing diversity.&#x20;
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2021 Census, Greenview had a population of approximately 2,282 residents. ([Areavibes][4])
+
+* **Population Growth**: The population has remained relatively stable over recent years.
+
+* **Median Household Income**: Approximately \$62,562, which is below Calgary's average. ([Areavibes][5])
+
+---
+
+## 🛡️ Crime Rate
+
+Greenview's overall crime rate is 32% higher than the national average; however, violent crimes are only 3% higher than the national average. ([Areavibes][6])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a moderate rental market, with a variety of rental properties available, including apartments and single-family homes.
+
+* **Average Rents**: As of May 2025, the average rent for a 2-bedroom apartment in Greenview is approximately \$1,655 per month.&#x20;
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Greenview can be classified as a "C" neighborhood, characterized by its affordability, access to amenities, and ongoing redevelopment.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of May 2025, the average house price in Greenview is approximately \$331,057. ([Zolo][7])
+
+* **Long-Term Appreciation**: The neighborhood's proximity to major transportation routes and recent zoning changes suggest potential for property value appreciation.
+
+* **Current Returns**: With moderate rental rates and property values, investors can expect stable cash flow, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Infill Development**: Leverage zoning amendments to develop higher-density housing, such as townhouses or duplexes.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income.
+
+---
+
+[1]: https://findcalgaryhome.ca/buy-calgary-real-estate/property-type/near-malls/deerfoot-city/listing.a2026840-12-420-grier-avenue-ne-calgary-t2k-5x6.17186903076/?utm_source=chatgpt.com "12 420 Grier Avenue NE in Calgary: Greenview Row/Townhouse for sale ..."
+[2]: https://www.calgary.ca/parks/activities/thorncliffe-greenview-playground.html?utm_source=chatgpt.com "Thorncliffe Greenview Inclusive Playground - The City of Calgary"
+[3]: https://www.livrealestate.ca/calgary-city-centre/greenview.php?utm_source=chatgpt.com "Greenview Homes for Sale in City Centre Calgary | Liv Real Estate® Listings"
+[4]: https://www.areavibes.com/calgary-ab/greenview/demographics/?utm_source=chatgpt.com "Greenview, Alberta Population & Demographics - Calgary - AreaVibes"
+[5]: https://www.areavibes.com/calgary-ab/greenview/?utm_source=chatgpt.com "Greenview, AB Area Guide - Calgary - AreaVibes"
+[6]: https://www.areavibes.com/calgary-ab/greenview/crime/?utm_source=chatgpt.com "Greenview, Calgary, AB Crime Rates - AreaVibes"
+[7]: https://www.zolo.ca/calgary-real-estate/greenview/trends?utm_source=chatgpt.com "Greenview (Calgary) Housing Market Report | April 2025 Real ... - Zolo"
+
+
 # CFB Lincoln Park PMQ
 # Cliff Bungalow
 # Maple Ridge
