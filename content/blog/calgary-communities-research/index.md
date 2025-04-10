@@ -13150,6 +13150,96 @@ Greenview can be classified as a "C" neighborhood, characterized by its affordab
 
 
 # CFB Lincoln Park PMQ
+
+## 🏞️ Nearby Amenities & Attractions
+
+CFB Lincoln Park PMQ, located in Calgary's southwest quadrant, offers residents convenient access to various amenities:([Power Properties Main][1])
+
+* **Mount Royal University**: A prominent institution providing educational opportunities and contributing to the local economy.([Mount Royal University][2])
+
+* **Retail & Dining**: Proximity to shopping centers and diverse dining options enhances the neighborhood's appeal.
+
+* **Recreation**: Nearby parks and recreational facilities offer residents spaces for outdoor activities and leisure.
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The area was originally developed in the 1930s as part of the Currie Barracks military base. Post-1998, following the base's decommissioning, the neighborhood underwent significant redevelopment, introducing a mix of housing options. ([Wikipedia][3])
+
+* **Building Types**: The neighborhood features a blend of single-family homes, townhouses, and low-rise condominiums, reflecting its evolution from military housing to a modern residential community.
+
+---
+
+## 📐 Zoning Regulations
+
+CFB Lincoln Park PMQ falls under Calgary's Land Use Bylaw 1P2007. Recent amendments have introduced Mixed Use – General (MU-1) zoning in certain areas, allowing for a combination of residential and commercial developments. This zoning supports higher-density housing, such as townhouses and low-rise apartments, facilitating increased units per lot. ([pub-calgary.escribemeetings.com][4])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2012 municipal census, Lincoln Park had a population of 2,505 residents. ([Wikipedia][5])
+
+* **Median Household Income**: Approximately \$77,246, which is 18% lower than Alberta's average. ([Areavibes][6])
+
+---
+
+## 🛡️ Crime Rate
+
+The neighborhood's overall crime rate is 7% higher than the national average; however, violent crimes are 16% lower than the national average, indicating a relatively safe environment for residents. ([Areavibes][7])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The presence of Mount Royal University contributes to a steady demand for rental properties, particularly among students and faculty.([Apartments.com][8])
+
+* **Average Rents**: As of May 2025, the average rent for a 2-bedroom apartment in the area is approximately \$2,015 per month.&#x20;
+
+---
+
+## 🏘️ Neighborhood Classification
+
+CFB Lincoln Park PMQ can be classified as a "B" neighborhood, characterized by its established community, access to amenities, and ongoing redevelopment efforts.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of May 2025, the average house price in the neighborhood is approximately \$363,544. ([Zolo][9])
+
+* **Long-Term Appreciation**: The neighborhood's strategic location, combined with recent zoning changes and redevelopment initiatives, suggests potential for property value appreciation over the long term.
+
+* **Current Returns**: With competitive rental rates and property values, investors can expect stable cash flow, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Infill Development**: Leverage zoning amendments to develop higher-density housing, such as townhouses or duplexes.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income.
+
+---
+
+CFB Lincoln Park PMQ offers a balanced investment opportunity with its strategic location, evolving housing landscape, and potential for growth.
+
+---
+
+[1]: https://www.powerproperties.net/blog/community-feature-lincoln-park?utm_source=chatgpt.com "Community Feature: Lincoln Park - Calgary - Power Properties"
+[2]: https://www.mtroyal.ca/AboutMountRoyal/celebrating-lincoln-park.htm?utm_source=chatgpt.com "Celebrating Lincoln Park - Calgary - Mount Royal University"
+[3]: https://en.wikipedia.org/wiki/CFB_Calgary?utm_source=chatgpt.com "CFB Calgary"
+[4]: https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=313724&utm_source=chatgpt.com "[PDF] Land Use Amendment in Lincoln Park (Ward 8) at 5116 Richard ..."
+[5]: https://en.wikipedia.org/wiki/Lincoln_Park%2C_Calgary?utm_source=chatgpt.com "Lincoln Park, Calgary - Wikipedia"
+[6]: https://www.areavibes.com/calgary-ab/lincoln%2Bpark/?utm_source=chatgpt.com "Lincoln Park, AB Area Guide - AreaVibes"
+[7]: https://www.areavibes.com/calgary-ab/lincoln%2Bpark/crime/?utm_source=chatgpt.com "Lincoln Park, Calgary, AB Crime Rates - AreaVibes"
+[8]: https://www.apartments.com/off-campus-housing/ab/calgary/mount-royal-university-lincoln-park-campus/?utm_source=chatgpt.com "Apartments for Rent Near Mount Royal University Lincoln Park Campus ..."
+[9]: https://www.zolo.ca/calgary-real-estate/lincoln-park/trends?utm_source=chatgpt.com "Lincoln Park Real Estate Trends - Calgary - Zolo"
+
+
 # Cliff Bungalow
 # Maple Ridge
 # Southview
