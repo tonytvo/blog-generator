@@ -13241,6 +13241,106 @@ CFB Lincoln Park PMQ offers a balanced investment opportunity with its strategic
 
 
 # Cliff Bungalow
+
+## 🏞️ Nearby Amenities & Attractions
+
+Cliff Bungalow is a vibrant inner-city neighborhood offering residents convenient access to various amenities:
+
+* **Shopping & Dining**: Proximity to 17th Avenue SW and 4th Street SW provides a plethora of boutiques, cafes, and restaurants.&#x20;
+
+* **Recreation**: The Elbow River pathways offer opportunities for walking, cycling, and outdoor activities. ([nexthome.ca][1])
+
+* **Community Events**: The Cliff Bungalow-Mission Community Association hosts various events fostering community engagement. ([CBMCA][2])
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The neighborhood was established in 1907, with many homes built between 1910 and 1920, reflecting early 20th-century architecture. ([CBMCA][3])
+
+* **Building Types**: Cliff Bungalow features a mix of heritage homes, low-rise apartments, and modern infill developments, offering diverse housing options. ([pub-calgary.escribemeetings.com][4])
+
+---
+
+## 📐 Zoning Regulations
+
+The area includes various residential zoning districts:([https://www.calgary.ca][5])
+
+* **RM-5**: Medium Density Multi-dwelling with a maximum building height of 12 meters.([University of Calgary in Alberta][6])
+
+* **RM-6**: Medium Density Multi-dwelling with a maximum building height of 18 meters.
+
+* **RM-7**: High Density Multi-dwelling with a maximum building height of 46 meters. ([University of Calgary in Alberta][7])
+
+These zoning regulations allow for increased housing density, permitting more units per lot.
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2019 census, Cliff Bungalow had a population of 1,895 residents. ([Avenue Calgary][8])
+
+* **Population Growth**: The neighborhood has experienced modest growth, maintaining its status as a mature community.
+
+* **Median Household Income**: Approximately \$76,328, which is 19% lower than Alberta's average. ([Areavibes][9])
+
+---
+
+## 🛡️ Crime Rate
+
+Cliff Bungalow's crime rates are equal to the national average, with violent crimes 22% lower than the national average, indicating a relatively safe environment. ([Areavibes][10])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a high proportion of rental properties, with 72.2% of housing used for renting, reflecting strong rental demand. ([Wikipedia][11])
+
+* **Average Rents**: As of May 2025, the average monthly rent is approximately \$1,647, marking an 8.05% increase year-over-year. ([Zumper - Apartments for Rent & Houses][12])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Cliff Bungalow can be classified as a "B" neighborhood, characterized by its established community, access to amenities, and ongoing redevelopment efforts.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of May 2025, the average house price is approximately \$675,447. ([Justin Havre Real Estate Team][13])
+
+* **Long-Term Appreciation**: The neighborhood's strategic location and zoning changes suggest potential for property value appreciation over the long term.
+
+* **Current Returns**: With competitive rental rates and property values, investors can expect stable cash flow, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Infill Development**: Leverage zoning amendments to develop higher-density housing, such as townhouses or duplexes.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income.
+
+---
+
+[1]: https://nexthome.ca/neighbourhoods/calgary-mission-and-cliff-bungalow/1000004/?utm_source=chatgpt.com "Mission and Cliff-Bungalow - NextHome"
+[2]: https://www.cliffbungalowmission.com/?utm_source=chatgpt.com "Cliff Bungalow-Mission Community Association: Community | Calgary"
+[3]: https://www.cliffbungalowmission.com/history?utm_source=chatgpt.com "History | Calgary - Cliff Bungalow-Mission Community Association"
+[4]: https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=240541&utm_source=chatgpt.com "[PDF] CLIFF BUNGALOW-MISSION COMMUNITY ASSOCIATION"
+[5]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones - The City of Calgary"
+[6]: https://www.ucalgary.ca/ev/designresearch/projects/2000/EVDP634-2000/sensi-density/zoning.html?utm_source=chatgpt.com "Existing Zoning - CLIFF BUNGALOW-MISSION"
+[7]: https://www.ucalgary.ca/ev/designresearch/projects/2000/EVDP634-2000/sensi-density/land_use_objectives.html?utm_source=chatgpt.com "Proposed Zoning - CLIFF BUNGALOW-MISSION"
+[8]: https://www.avenuecalgary.com/best-neighbourhoods-filter/cliff-bungalow/?utm_source=chatgpt.com "Cliff Bungalow - Avenue Calgary"
+[9]: https://www.areavibes.com/calgary-ab/cliff%2Bbungalow/?utm_source=chatgpt.com "Cliff Bungalow, AB Area Guide - Calgary - AreaVibes"
+[10]: https://www.areavibes.com/calgary-ab/cliff%2Bbungalow/crime/?utm_source=chatgpt.com "Cliff Bungalow, Calgary, AB Crime Rates - AreaVibes"
+[11]: https://en.wikipedia.org/wiki/Cliff_Bungalow%2C_Calgary?utm_source=chatgpt.com "Cliff Bungalow, Calgary"
+[12]: https://www.zumper.com/apartments-for-rent/calgary-ab/cliff-bungalow?utm_source=chatgpt.com "Apartments for Rent in Cliff Bungalow, Calgary, AB - 25 Rentals"
+[13]: https://www.justinhavre.com/cliff-bungalow-calgary-real-estate.php?utm_source=chatgpt.com "Cliff Bungalow Calgary Real Estate"
+
+
 # Maple Ridge
 # Southview
 # Eau Claire
