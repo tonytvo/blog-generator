@@ -8,33 +8,26 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## 🧭 **PHẦN I – CHIẾN LƯỢC ĐẦU TƯ DANH MỤC**
+  - expand in much more details with bold high-light quotes/phrases the above sections "## 🔁 **PHẦN II – VÒNG QUAY DANH MỤC & HIỆU SUẤT**
 
-### 1. **Khung chiến lược đầu tư gồm 4 yếu tố chính**:
+### 1. **Khái niệm Vòng Quay Danh Mục (Asset Turnover)**
 
-* **Mục tiêu**: Lợi nhuận kỳ vọng, độ ổn định
-* **Phương pháp**: Lựa chọn cổ phiếu, quản lý rủi ro
-* **Năng lực & nguồn lực**: Đánh giá năng lực đầu tư, mức độ theo dõi thị trường
-* **Kế hoạch hành động**: Tái cơ cấu, phân bổ vốn
+* Là **tần suất mua-bán cổ phiếu/tổng giá trị danh mục**
+* Quỹ **chiến lược số 3 (VLF)** có **vòng quay cao nhất**: trung bình \~52%/năm
+* Quỹ **chiến lược số 1 (VSAP)** có **vòng quay thấp hơn**: \~30-40%
 
-### 2. **6 chiến lược đầu tư nổi bật**:
+### 2. **Phân tích qua dữ liệu quỹ**:
 
-| Số  | Chiến lược                      | Đặc điểm chính                                 |
-| --- | ------------------------------- | ---------------------------------------------- |
-| 1   | **Nắm giữ dài hạn**             | Chọn cổ phiếu tốt, nắm giữ lâu dài             |
-| 2   | **Linh hoạt tái cơ cấu**        | Mua-bán theo rủi ro thị trường                 |
-| 3   | **Kết hợp 1 & 2**               | Tối ưu hóa vòng quay tài sản                   |
-| 4   | **Tập trung ngành (quỹ hedge)** | High conviction theo ngành cụ thể              |
-| 5   | **Phòng thủ**                   | An toàn, ổn định, cổ tức cao                   |
-| 6   | **Dùng công nghệ (AI)**         | Sử dụng hệ thống, dữ liệu để hỗ trợ quyết định |"
+* **Tăng vòng quay** thường đi kèm khi thị trường có biến động (tái cơ cấu mạnh)
+* **Giảm vòng quay** thể hiện chiến lược nắm giữ, không trading"
   - second pass:
-    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "## 🧭 **PHẦN I – CHIẾN LƯỢC ĐẦU TƯ DANH MỤC**" please
+    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "## 🔁 **PHẦN II – VÒNG QUAY DANH MỤC & HIỆU SUẤT**" please
 
 
 - **community research**
 
 ```
-you're an expert in realestate investing, give me detailed outline on the Cliff Bungalow neighborhood in Calgary with the following questions:
+you're an expert in realestate investing, give me detailed outline on the Maple Ridge neighborhood in Calgary with the following questions:
 - what are nearby amenities, attractions?
 - when was the houses were commonly built?
 - what are the common building type?

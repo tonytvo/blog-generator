@@ -13342,6 +13342,91 @@ Cliff Bungalow can be classified as a "B" neighborhood, characterized by its est
 
 
 # Maple Ridge
+
+## 🏞️ Nearby Amenities & Attractions
+
+Maple Ridge is a well-established residential neighborhood in southeast Calgary, offering residents convenient access to various amenities:
+
+* **Maple Ridge Golf Course**: A scenic 18-hole course located within the community, providing recreational opportunities and enhancing property values. ([https://www.calgary.ca][1])
+
+* **Shopping & Dining**: Proximity to Southcentre Mall and Willow Park Village offers a range of retail stores, restaurants, and services. ([The John Hripko Real Estate Team][2])
+
+* **Recreation**: Nearby parks and green spaces provide residents with areas for outdoor activities and leisure.
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The majority of homes in Maple Ridge were built in the 1960s, reflecting mid-century architectural styles.&#x20;
+
+* **Building Types**: The neighborhood predominantly features single-family detached homes, with a mix of bungalows and split-level designs.&#x20;
+
+---
+
+## 📐 Zoning Regulations
+
+Maple Ridge falls under Calgary's Land Use Bylaw 1P2007, with common residential zones like R-C1. This zoning allows for single-detached dwellings. Recent discussions have considered potential rezoning to accommodate higher-density housing, such as secondary suites, but as of now, the area remains primarily low-density residential. ([Willow Ridge Community Association][3])
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2021 Census, Maple Ridge had a population of approximately 1,830 residents. ([MyCalgary][4])
+
+* **Population Growth**: The population has remained relatively stable over recent years, reflecting the neighborhood's mature status.
+
+* **Median Household Income**: Approximately \$117,000, which is higher than Calgary's average.&#x20;
+
+---
+
+## 🛡️ Crime Rate
+
+Maple Ridge's overall crime rate is 11% lower than the national average; violent crimes are 30% lower than the national average, indicating a relatively safe environment for residents. ([Areavibes][5])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a limited rental market, with a high rate of homeownership.&#x20;
+
+* **Average Rents**: As of May 2025, the average rent for a 2-bedroom apartment in Calgary is approximately \$1,960 per month. Specific data for Maple Ridge is limited due to the low number of rental properties.&#x20;
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Maple Ridge can be classified as a "B" neighborhood, characterized by its established community, access to amenities, and ongoing redevelopment efforts.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of May 2025, the average house price in Maple Ridge is approximately \$683,210. ([Zolo][6])
+
+* **Long-Term Appreciation**: The neighborhood's strategic location and mature status suggest potential for property value appreciation over the long term.
+
+* **Current Returns**: With competitive property values, investors can expect stable returns, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Renovation & Resale**: Invest in older homes for renovation and resale, capitalizing on the neighborhood's desirability.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income, subject to zoning regulations.
+
+---
+
+[1]: https://www.calgary.ca/rec-locations/golf/maple-ridge-features.html?utm_source=chatgpt.com "Maple Ridge - Location amenities - The City of Calgary"
+[2]: https://teamhripko.ca/calgary-neighbourhoods/south/maple-ridge/?utm_source=chatgpt.com "Maple Ridge - Calgary Neighbourhood Guide"
+[3]: https://mywillowridge.ca/community-news/zoning-changes-in-our-community?utm_source=chatgpt.com "Zoning Changes in our Community"
+[4]: https://mycalgary.com/communities/calgary/se/maple_ridge/?utm_source=chatgpt.com "Maple Ridge Community News - South East Calgary"
+[5]: https://www.areavibes.com/calgary-ab/maple%2Bridge/crime/?utm_source=chatgpt.com "Maple Ridge, Calgary, AB Crime Rates - AreaVibes"
+[6]: https://www.zolo.ca/calgary-real-estate/maple-ridge/trends?utm_source=chatgpt.com "Maple Ridge Real Estate Trends - Calgary - Zolo"
+
+
 # Southview
 # Eau Claire
 # Elboya
