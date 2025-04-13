@@ -13428,6 +13428,93 @@ Maple Ridge can be classified as a "B" neighborhood, characterized by its establ
 
 
 # Southview
+
+## 🏞️ Nearby Amenities & Attractions
+
+Southview is a well-established residential neighborhood in southeast Calgary, offering residents convenient access to various amenities:
+
+* **Parks & Recreation**: The community boasts several parks, including Southview Park and Valleyview Park, providing green spaces and recreational opportunities. ([Areavibes][1])
+
+* **Shopping & Dining**: Proximity to International Avenue (17th Avenue SE) offers a diverse range of retail stores, restaurants, and services.
+
+* **Transportation**: The neighborhood is well-served by public transit, with access to the MAX Purple bus rapid transit line, facilitating easy commutes to downtown Calgary. ([https://www.calgary.ca][2])
+
+---
+
+## 🏠 Housing Characteristics
+
+* **Construction Era**: The majority of homes in Southview were built prior to 1980, reflecting mid-century architectural styles. ([Calgary Housing Company][3])
+
+* **Building Types**: The neighborhood predominantly features single-family detached homes, with a mix of bungalows and split-level designs. ([https://www.calgary.ca][4])
+
+---
+
+## 📐 Zoning Regulations
+
+Southview falls under Calgary's Land Use Bylaw 1P2007, with common residential zones like R-C1. This zoning allows for single-detached dwellings. Recent discussions have considered potential rezoning to accommodate higher-density housing, such as secondary suites, but as of now, the area remains primarily low-density residential.&#x20;
+
+---
+
+## 👥 Demographics
+
+* **Population**: As of the 2021 Census, Southview had a population of approximately 1,825 residents.&#x20;
+
+* **Population Growth**: The population has remained relatively stable over recent years, reflecting the neighborhood's mature status.
+
+* **Median Household Income**: Approximately \$55,910, which is lower than Calgary's average. ([Areavibes][5])
+
+---
+
+## 🛡️ Crime Rate
+
+Southview's overall crime rate is 35% higher than the national average; violent crimes are 5% higher than the national average, indicating a need for awareness and community engagement. ([Areavibes][6])
+
+---
+
+## 🏘️ Rental Market
+
+* **Supply & Demand**: The area has a moderate rental market, with a mix of owner-occupied and rental properties.
+
+* **Average Rents**: As of May 2025, the average rent for a 2-bedroom apartment in Calgary is approximately \$1,960 per month. Specific data for Southview is limited, but rents are generally more affordable compared to city averages.&#x20;
+
+---
+
+## 🏘️ Neighborhood Classification
+
+Southview can be classified as a "C" neighborhood, characterized by its affordability, access to amenities, and potential for redevelopment.
+
+---
+
+## 📈 Investment Outlook
+
+* **Average House Prices**: As of May 2025, the average house price in Southview is approximately \$574,900. ([Justin Havre Real Estate Team][7])
+
+* **Long-Term Appreciation**: The neighborhood's strategic location and potential for redevelopment suggest opportunities for property value appreciation over the long term.
+
+* **Current Returns**: With competitive property values, investors can expect stable returns, especially with properties that include secondary suites.
+
+---
+
+## 💡 Investment Strategies
+
+* **Buy & Hold**: Acquire properties to benefit from long-term appreciation and steady rental income.
+
+* **Renovation & Resale**: Invest in older homes for renovation and resale, capitalizing on the neighborhood's affordability.
+
+* **Secondary Suites**: Add legal secondary suites to existing properties to increase rental income, subject to zoning regulations.
+
+
+---
+
+[1]: https://www.areavibes.com/calgary-ab/southview/?utm_source=chatgpt.com "Southview, AB Area Guide - Calgary - AreaVibes"
+[2]: https://www.calgary.ca/social-services/low-income/southview-affordable-housing.html?utm_source=chatgpt.com "Southview Affordable Housing - The City of Calgary"
+[3]: https://calgaryhousingcompany.org/development-projects-southview/?utm_source=chatgpt.com "Development Projects - Southview | Calgary Housing Company"
+[4]: https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/southview.pdf?utm_source=chatgpt.com "[PDF] Southview - The City of Calgary"
+[5]: https://www.areavibes.com/calgary-ab/southview/employment/?utm_source=chatgpt.com "Southview, AB Employment - Median Household Income ..."
+[6]: https://www.areavibes.com/calgary-ab/southview/crime/?utm_source=chatgpt.com "Southview, AB Crime Rates: Stats & Map - Calgary"
+[7]: https://www.justinhavre.com/southview-calgary-real-estate.php?utm_source=chatgpt.com "Southview Real Estate Calgary - Southview Homes For Sale"
+
+
 # Eau Claire
 # Elboya
 # Chinook Park
