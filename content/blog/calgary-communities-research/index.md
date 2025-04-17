@@ -13628,6 +13628,111 @@ Eau Claire presents a compelling opportunity for investors seeking long-term gro
 
 
 # Elboya
+
+[![Elboya Homes for Sale in City Centre Calgary | Liv Real Estate® Listings](https://tse4.mm.bing.net/th?id=OIP.6rN8uHZ7WdSOjAyg36wWrgHaDV\&pid=Api)](https://www.livrealestate.ca/calgary-city-centre/elboya.php)
+
+Elboya is a prestigious inner-city neighborhood in southwest Calgary, celebrated for its mature trees, river views, and proximity to downtown. Here's a detailed real estate investment profile:([farrahinthecity.com][1])
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Parks & Recreation**: Adjacent to Stanley Park and the Elbow River Pathway, offering scenic green spaces and recreational opportunities.
+* **Shopping & Dining**: Close to Chinook Centre, Calgary's largest shopping mall, and various local eateries.
+* **Education**: Home to Elboya School (K-9) and near Western Canada High School.
+* **Transportation**: Easy access to Macleod Trail and Elbow Drive, facilitating quick commutes downtown.([urbanupgrade.ca][2], [livrealestate.ca][3])
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Primarily developed in the late 1940s and 1950s, with many original homes still present.
+* **Building Types**: Predominantly single-family detached homes, including bungalows and two-storey houses.
+* **Recent Developments**: Introduction of luxury infill homes and modern renovations, enhancing property values.([teamhripko.ca][4], [urbanupgrade.ca][2])
+
+---
+
+## 📐 Zoning & Development Regulations
+
+* **Zoning**: Primarily zoned as R-C1, allowing single-family homes.
+* **Density Regulations**: Restrictive covenants in place limit subdivision and maintain single-family character.
+* **Potential Changes**: Discussions around upzoning to R-CG to allow for more diverse housing types, though met with community resistance.([Elboya Britannia Community Association][5], [Varsity Community Centre][6])
+
+---
+
+## 👥 Demographics & Population Trends
+
+* **Population**: Approximately 2,011 residents.
+* **Growth**: Stable population with modest growth over recent years.
+* **Income**: Median household income is \$125,000, higher than the Calgary average.([AreaVibes][7], [AreaVibes][8])
+
+---
+
+## 🛡️ Safety & Crime
+
+* **Crime Rate**: 60% lower than the national average; violent crimes are 69% lower.
+* **Safety Ranking**: Considered safer than 94% of cities in Alberta.([AreaVibes][9])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: Limited rental inventory due to predominance of owner-occupied homes.
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$1,597–\$1,655/month.
+  * **2-Bedroom**: Approximately \$1,920–\$2,291/month.
+* **Market Trend**: High demand for quality rentals; low vacancy rates.([RentCafe][10])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Classified as an "A" neighborhood due to its affluence, safety, and prime location.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: Average house prices have seen a significant year-over-year increase, indicating strong appreciation potential.
+* **Current Returns**: High property values may result in lower rental yields, but capital appreciation prospects remain strong.
+* **Cash Flow**: Investors may experience modest cash flow due to high acquisition costs.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: Approximately \$1,745,083.
+* **Price Range**: Listings range from \$949,000 to \$3,199,999, catering to various investment scales.([Zolo][11])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for long-term appreciation and stability.
+* **Luxury Rentals**: Targeting high-income tenants seeking premium accommodations.
+* **Value-Add Investments**: Renovating older homes to meet modern luxury standards.
+* **Infill Development**: Opportunities for developing luxury infill homes, subject to zoning regulations.
+
+---
+
+Elboya offers a compelling opportunity for investors seeking long-term growth in a prestigious urban setting. While entry costs are high, the neighborhood's stability, safety, and ongoing developments contribute to its strong investment appeal.([livrealestate.ca][3])
+
+---
+
+[1]: https://www.farrahinthecity.com/blog/83182/most-prestigious-neighbourhoods-in-calgary?utm_source=chatgpt.com "Most Prestigious Neighbourhoods in Calgary - Farrah In the City"
+[2]: https://www.urbanupgrade.ca/elboya?utm_source=chatgpt.com "Elboya - Urban Upgrade & NewInfills"
+[3]: https://www.livrealestate.ca/calgary-city-centre/elboya.php?utm_source=chatgpt.com "Elboya Homes for Sale in City Centre Calgary | Liv Real Estate® Listings"
+[4]: https://teamhripko.ca/calgary-neighbourhoods/city-centre/elboya/?utm_source=chatgpt.com "Elboya - Calgary Neighbourhood Guide"
+[5]: https://www.elboyabritannia.com/elboya-restrictive-covenant?utm_source=chatgpt.com "Restrictive Covenant - Elboya Britannia Community Association"
+[6]: https://www.varsitycommunityassociation.ca/wp-content/uploads/2024/04/Blanket-Upzoning-Letter-Elboya-Britannia-15April2024.pdf?utm_source=chatgpt.com "[PDF] April 15, 2024 VIA EMAIL City of Calgary Office of the Councillors ..."
+[7]: https://www.areavibes.com/calgary-ab/elboya/demographics/?utm_source=chatgpt.com "Elboya, Alberta Population & Demographics - Calgary - AreaVibes"
+[8]: https://www.areavibes.com/calgary-ab/elboya/employment/?utm_source=chatgpt.com "Elboya, AB Employment - Median Household Income ... - AreaVibes"
+[9]: https://www.areavibes.com/calgary-ab/elboya/crime/?utm_source=chatgpt.com "Elboya, Calgary, AB Crime Rates - AreaVibes"
+[10]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/elboya/?utm_source=chatgpt.com "Elboya Apartments for Rent - Calgary, AB - Updated Daily - RentCafe"
+[11]: https://www.zolo.ca/calgary-real-estate/elboya/trends?utm_source=chatgpt.com "Elboya (Calgary) Housing Market Report | May 2025 Real Estate ..."
+
+
 # Chinook Park
 # Pump Hill
 # Parkhill
