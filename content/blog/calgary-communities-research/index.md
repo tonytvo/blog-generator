@@ -13734,6 +13734,127 @@ Elboya offers a compelling opportunity for investors seeking long-term growth in
 
 
 # Chinook Park
+
+[![Chinook Park Homes For Sale South Calgary - Chinook Park Real Estate](https://tse1.mm.bing.net/th?id=OIP.Wfe7NmwWs-B5Ls9SrfHMogHaFj\&pid=Api)](https://calgaryhomes.ca/chinook-park-real-estate-for-sale.php)
+
+Chinook Park is a mature, sought-after residential neighborhood in southwest Calgary, known for its spacious lots, mid-century homes, and proximity to key amenities. Below is a detailed real estate investment profile:([Marnie Campbell][1])
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Recreation**: Close to Glenmore Reservoir and Weaselhead Flats, offering outdoor activities like hiking, canoeing, and sailing. ([MyCalgary][2])
+
+* **Shopping & Dining**: Proximity to CF Chinook Centre, Calgary's largest shopping mall, and various local eateries. ([Tripadvisor][3])
+
+* **Community Facilities**: The Chinook Park/Kelvin Grove/Eagle Ridge Community Association offers programs like yoga, karate, and hosts events such as annual Halloween and skating parties. ([Federation of Calgary Communities][4])
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Primarily developed in the late 1950s and 1960s. ([Think Calgary Homes][5])
+
+* **Building Types**: Predominantly single-family detached homes, including bungalows and two-storey houses, with some duplexes and townhouses.&#x20;
+
+* **Lot Sizes**: Homes are often situated on spacious lots with mature landscaping.([teamhripko.ca][6])
+
+---
+
+## 📐 Zoning & Development Regulations
+
+* **Zoning**: Primarily zoned as R-C1, allowing single-family homes.
+
+* **Density Regulations**: Restrictive covenants in place limit subdivision and maintain single-family character. ([CMHC][7])
+
+* **Potential Changes**: Discussions around upzoning to R-CG to allow for more diverse housing types, though met with community resistance.&#x20;
+
+---
+
+## 👥 Demographics & Population Trends
+
+* **Population**: Approximately 1,616 residents. ([CityFacts][8])
+
+* **Growth**: Stable population with modest growth over recent years.
+
+* **Income**: Average household income is \$188,583, higher than the Calgary average. ([Wahi][9])
+
+---
+
+## 🛡️ Safety & Crime
+
+* **Crime Rate**: 60% lower than the Calgary average; violent crimes are 69% lower. ([Calgary Homes][10])
+
+* **Safety Ranking**: Considered safer than many Calgary neighborhoods.([MyCalgary][11])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: Limited rental inventory due to predominance of owner-occupied homes (81% ownership). ([Alberta Parks][12])
+
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$1,620/month.
+  * **2-Bedroom**: Approximately \$1,920/month. ([RentCafe][13])
+
+* **Market Trend**: High demand for quality rentals; low vacancy rates.
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Classified as an "A" neighborhood due to its affluence, safety, and prime location.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: Average house prices have seen a significant year-over-year increase, indicating strong appreciation potential.&#x20;
+
+* **Current Returns**: High property values may result in lower rental yields, but capital appreciation prospects remain strong.
+
+* **Cash Flow**: Investors may experience modest cash flow due to high acquisition costs.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: Approximately \$1,013,243. ([HonestDoor][14])
+
+* **Price Range**: Listings range from \$229,000 to \$1,199,000, catering to various investment scales. ([Justin Havre Real Estate Team][15])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for long-term appreciation and stability.
+
+* **Luxury Rentals**: Targeting high-income tenants seeking premium accommodations.
+
+* **Value-Add Investments**: Renovating older homes to meet modern luxury standards.
+
+* **Infill Development**: Opportunities for developing luxury infill homes, subject to zoning regulations.
+
+---
+
+[1]: https://www.marniecampbell.ca/calgary-chinook-park-real-estate.php?utm_source=chatgpt.com "Chinook Park, Calgary Real Estate"
+[2]: https://mycalgary.com/communities/calgary/sw/chinook_park/?utm_source=chatgpt.com "Chinook Park Community News - South West Calgary"
+[3]: https://www.tripadvisor.com/AttractionsNear-g154913-d1073264-CF_Chinook_Centre-Calgary_Alberta.html?utm_source=chatgpt.com "Things to do near CF Chinook Centre - Tripadvisor"
+[4]: https://calgarycommunities.com/communities/chinook-park-kelvin-grove-eagle-ridge-community-association/?utm_source=chatgpt.com "Chinook Park / Kelvin Grove / Eagle Ridge Community Association"
+[5]: https://thinkcalgaryhomes.com/Chinook-Park-Real-Estate?utm_source=chatgpt.com "Chinook Park Homes For Sale - Think Calgary Homes"
+[6]: https://teamhripko.ca/calgary-neighbourhoods/south/chinook-park/?utm_source=chatgpt.com "Chinook Park - Calgary Neighbourhood Guide"
+[7]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Population%2C+Households+and+Housing+Stock&CategoryLevel2=Household+Income&ColumnField=HouseholdIncomeRange&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=Neighbourhood&SearchTags%5B0%5D.Key=Households&SearchTags%5B0%5D.Value=Number&SearchTags%5B1%5D.Key=Statistics&SearchTags%5B1%5D.Value=AverageAndMedian&utm_source=chatgpt.com "Calgary — Household Income - Average and Median ($) - CMHC"
+[8]: https://www.city-facts.com/chinook-park/population?utm_source=chatgpt.com "Chinook Park, Calgary, AB, Canada - Population and Demographics"
+[9]: https://wahi.com/ca/en/housing-market/ab/calgary/chinook-park?utm_source=chatgpt.com "Chinook Park Housing Market Report: 14th Apr, 2025 | Wahi"
+[10]: https://www.repcalgaryhomes.ca/chinook-park-real-estate.php?utm_source=chatgpt.com "Chinook Park Homes for Sale Calgary"
+[11]: https://mycalgary.com/real-estate/real-estate-activity/chinook-park-real-estate-statistics-update/?utm_source=chatgpt.com "Chinook Park Real Estate Statistics Update - MyCalgary"
+[12]: https://www.albertaparks.ca/parks/kananaskis/fish-creek-pp/information-facilities/day-use/chinook-rotary-nature-park/?utm_source=chatgpt.com "Chinook Rotary Nature Park Day Use - Alberta Parks"
+[13]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/chinook-park/?utm_source=chatgpt.com "Chinook Park Apartments for Rent - Calgary, AB - Updated Daily"
+[14]: https://www.honestdoor.com/cities/ab/calgary/chinook-park?utm_source=chatgpt.com "Chinook Park, Calgary Real Estate: Housing Market April 2025"
+[15]: https://www.justinhavre.com/chinook-park-calgary-real-estate.php?utm_source=chatgpt.com "Chinook Park Calgary Real Estate"
+
+
 # Pump Hill
 # Parkhill
 # St. Andrews Heights
