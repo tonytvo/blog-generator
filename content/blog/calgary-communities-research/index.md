@@ -13856,6 +13856,124 @@ Chinook Park is a mature, sought-after residential neighborhood in southwest Cal
 
 
 # Pump Hill
+
+[![Pump Hill Homes for Sale Calgary](https://tse3.mm.bing.net/th?id=OIP.KrGn59JtElWZzBMOfKs2_wHaE8\&pid=Api)](https://www.repcalgaryhomes.ca/pump-hill-real-estate.php)
+
+Pump Hill is an affluent residential neighborhood located in southwest Calgary. Known for its spacious lots, mature landscaping, and luxury homes, it offers a serene environment while being close to urban amenities. Below is a detailed real estate investment profile of Pump Hill:
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Recreation**: Proximity to Glenmore Reservoir and Weaselhead Flats provides residents with opportunities for outdoor activities like hiking, biking, and sailing.
+
+* **Shopping & Dining**: Close to Southcentre Mall and Chinook Centre, offering a variety of retail and dining options.
+
+* **Education**: Nearby schools include Nellie McClung Elementary and John Ware Junior High.
+
+* **Healthcare**: Short drive to Rockyview General Hospital.
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Primarily developed in the 1970s and 1980s.
+
+* **Building Types**: Predominantly large single-family detached homes, many of which are custom-built with unique architectural designs.
+
+* **Lot Sizes**: Homes are situated on expansive lots, often exceeding 0.25 acres, with mature trees and landscaping.
+
+---
+
+## 📐 Zoning & Development Regulations
+
+* **Zoning**: Primarily zoned as R-C1, allowing single-family detached homes.([Exploring With King Calgary][1])
+
+* **Density Regulations**: R-C1 zoning does not permit secondary suites or multi-family dwellings without rezoning approval. ([Reddit][2])
+
+* **Potential Changes**: While city-wide discussions on increasing density are ongoing, any changes in Pump Hill would require community consultation and approval.
+
+---
+
+## 👥 Demographics & Population Trends
+
+* **Population**: Approximately 1,445 residents as of the 2016 Census.([Exploring With King Calgary][1])
+
+* **Growth**: The population has remained relatively stable over the years, reflecting the neighborhood's established nature.
+
+* **Income**: Median household income is \$165,266, significantly higher than the Calgary average. ([Exploring With King Calgary][1])
+
+---
+
+## 🛡️ Safety & Crime
+
+* **Crime Rate**: Pump Hill experiences low crime rates, with an average of 1.3 crimes per month, totaling 15 crimes annually as of November 2024. ([MyCalgary][3])
+
+* **Safety Ranking**: Considered one of Calgary's safest neighborhoods, with crime rates 74% lower than the Alberta average. ([AreaVibes][4])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: Limited rental inventory due to the predominance of owner-occupied homes.
+
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$1,450/month.
+  * **2-Bedroom**: Approximately \$1,695/month. ([RentCafe][5])
+
+* **Market Trend**: High demand for quality rentals; low vacancy rates.
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Classified as an "A" neighborhood due to its affluence, safety, and prime location.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: Average house prices have seen a significant year-over-year increase, indicating strong appreciation potential.
+
+* **Current Returns**: High property values may result in lower rental yields, but capital appreciation prospects remain strong.
+
+* **Cash Flow**: Investors may experience modest cash flow due to high acquisition costs.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: Approximately \$2,083,571. ([Justin Havre Real Estate Team][6])
+
+* **Price Range**: Listings range from \$1,280,000 to \$3,750,000, catering to various investment scales.([Justin Havre Real Estate Team][6])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for long-term appreciation and stability.
+
+* **Luxury Rentals**: Targeting high-income tenants seeking premium accommodations.
+
+* **Value-Add Investments**: Renovating older homes to meet modern luxury standards.
+
+* **Infill Development**: Opportunities for developing luxury infill homes, subject to zoning regulations.
+
+---
+
+Pump Hill offers a compelling opportunity for investors seeking long-term growth in a prestigious urban setting. While entry costs are high, the neighborhood's stability, safety, and ongoing developments contribute to its strong investment appeal.
+
+---
+
+[1]: https://kingcalgary.com/calgary-pump-hill-neighborhood/?utm_source=chatgpt.com "Calgary Pump Hill Neighborhood - Exploring With King Calgary"
+[2]: https://www.reddit.com/r/Calgary/comments/u346b1/zoning_what_should_home_buyers_look_for/?utm_source=chatgpt.com "Zoning - what should home buyers look for? : r/Calgary - Reddit"
+[3]: https://mycalgary.com/crime-statistics/pumphill-crime-activity-update/?utm_source=chatgpt.com "Pumphill Crime Statistics Update - MyCalgary"
+[4]: https://www.areavibes.com/calgary-ab/pump%2Bhill/?utm_source=chatgpt.com "Pump Hill, AB Area Guide - AreaVibes"
+[5]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/pump-hill/?utm_source=chatgpt.com "Pump Hill Apartments for Rent - Calgary, AB - Updated Daily"
+[6]: https://www.justinhavre.com/pump-hill-calgary-real-estate.php?utm_source=chatgpt.com "Pump Hill Calgary Real Estate - Justin Havre"
+
+
 # Parkhill
 # St. Andrews Heights
 # Chinatown
