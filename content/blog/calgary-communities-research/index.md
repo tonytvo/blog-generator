@@ -13975,6 +13975,112 @@ Pump Hill offers a compelling opportunity for investors seeking long-term growth
 
 
 # Parkhill
+
+
+[![Parkhill | Calgary Neighbourhoods | {% snippet name="company-name" %}](https://tse4.mm.bing.net/th?id=OIP.nRDwH1nwyIYPGXCNCfKNJwHaE8\&pid=Api)](https://www.citysearchcalgary.com/calgary-neighbourhoods/parkhill)
+
+Certainly! Here's a comprehensive real estate investment profile for the **Parkhill** neighborhood in Calgary:
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Recreation**: Parkhill boasts proximity to **Stanley Park**, offering playgrounds, picnic areas, and a toboggan hill in winter. The **Elbow River** and its pathways provide scenic routes for walking and cycling. ([NextHome][1])
+
+* **Shopping & Dining**: Residents have easy access to **Britannia Plaza**, featuring grocery stores and boutique shops. Additionally, **4th Street** offers trendy restaurants, boutiques, and coffee shops. ([teamhripko.ca][2])
+
+* **Transportation**: The neighborhood is within walking distance to the **LRT**, facilitating convenient commutes. ([parkhillstanleypark.ca][3])
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Established in 1910, Parkhill features homes dating back to the early 20th century, showcasing classic architectural styles such as Craftsman, Colonial Revival, and Georgian. ([teamhripko.ca][2])
+
+* **Building Types**: The area comprises a mix of single-family homes, townhouses, and condos. Many original homes have been replaced with upscale modern residences. ([urbanupgrade.ca][4])
+
+---
+
+## 📐 Zoning & Development Regulations
+
+* **Current Zoning**: Parkhill is primarily zoned as **Residential – Grade-Oriented Infill (R-CG)**, allowing for a range of grade-oriented building types. ([Calgary Public Meetings][5])
+
+* **Potential Changes**: The City of Calgary is developing a new Zoning Bylaw that could modify parking requirements and change permitted and discretionary uses, potentially impacting future developments in Parkhill. ([parkhillstanleypark.ca][6])
+
+---
+
+## 👥 Demographics & Population Trends
+
+* **Population**: As of the 2021 Census, Parkhill had a population of approximately 2,132 residents. ([AreaVibes][7])
+
+* **Growth**: The population has remained relatively stable over recent years.
+
+* **Income**: The median household income in Parkhill is **\$135,880**, which is 44% higher than the Alberta average. ([AreaVibes][8])
+
+---
+
+## 🛡️ Safety & Crime
+
+* **Crime Rate**: Parkhill's crime rates are 47% lower than the national average, with violent crimes 59% lower. Residents have a 1 in 46 chance of becoming a victim of crime, making it safer than 92% of cities in Alberta. ([AreaVibes][9])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: The neighborhood has a mix of owner-occupied and rental properties. As of 2006, 62.6% of households were owner-occupied, while 37.5% were renter-occupied. ([AreaVibes][10])
+
+* **Average Rents**: The median rent asked in Parkhill is approximately **\$1,833**, slightly higher than the Calgary average of **\$1,690**. ([AreaVibes][10])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Parkhill is considered an **"A" neighborhood** due to its affluence, safety, and prime location near downtown Calgary.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: Parkhill has seen significant appreciation, with average house prices experiencing substantial increases over recent periods.&#x20;
+
+* **Current Returns**: While property values are high, rental yields may be moderate. However, the area's desirability and growth potential make it attractive for long-term investments.
+
+* **Cash Flow**: Investors may experience modest cash flow due to high acquisition costs, but long-term appreciation prospects are strong.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: As of May 2025, the average asking price for properties in Parkhill is approximately **\$2,173,179**, with listings ranging from **\$184,900** to **\$10,800,000**. ([Justin Havre Real Estate Team][11])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for investors seeking long-term appreciation in a stable and affluent neighborhood.
+
+* **Luxury Rentals**: Targeting high-income tenants seeking premium accommodations.
+
+* **Value-Add Investments**: Renovating older homes to meet modern luxury standards can yield significant returns.
+
+* **Infill Development**: Opportunities exist for developing upscale infill homes, subject to zoning regulations and community engagement.
+
+---
+
+[1]: https://nexthome.ca/neighbourhoods/parkhill-stanley-park/31372/?utm_source=chatgpt.com "Parkhill-Stanley Park - NextHome"
+[2]: https://teamhripko.ca/calgary-neighbourhoods/city-centre/parkhill/?utm_source=chatgpt.com "Parkhill - Calgary Neighbourhood Guide"
+[3]: https://parkhillstanleypark.ca/?utm_source=chatgpt.com "Parkhill Community Association | Calgary AB"
+[4]: https://www.urbanupgrade.ca/parkhill?utm_source=chatgpt.com "Parkhill - Urban Upgrade & NewInfills"
+[5]: https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=301138&utm_source=chatgpt.com "Policy and Land Use Amendment in Parkhill (Ward 8) at 43"
+[6]: https://parkhillstanleypark.ca/planning-and-development/?utm_source=chatgpt.com "Development | Parkhill Community Association"
+[7]: https://www.areavibes.com/calgary-ab/parkhill/livability/?utm_source=chatgpt.com "Living in Parkhill, Calgary, AB - AreaVibes"
+[8]: https://www.areavibes.com/calgary-ab/parkhill/?utm_source=chatgpt.com "Parkhill, AB Area Guide - Calgary - AreaVibes"
+[9]: https://www.areavibes.com/calgary-ab/parkhill/crime/?utm_source=chatgpt.com "Parkhill, Calgary, AB Crime Rates - AreaVibes"
+[10]: https://www.areavibes.com/calgary-ab/parkhill/housing/?utm_source=chatgpt.com "Parkhill, Calgary, AB Housing - AreaVibes"
+[11]: https://www.justinhavre.com/parkhill-calgary-real-estate.php?utm_source=chatgpt.com "Parkhill Calgary Real Estate - Justin Havre"
+
+
+
 # St. Andrews Heights
 # Chinatown
 # Rosedale
