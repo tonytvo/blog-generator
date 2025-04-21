@@ -14082,6 +14082,119 @@ Certainly! Here's a comprehensive real estate investment profile for the **Parkh
 
 
 # St. Andrews Heights
+
+[![Calgary House For Rent | St Andrews Heights | 4 Bdrm Home 1 Block | ID 564992 - RentFaster.ca](https://tse1.mm.bing.net/th?id=OIP.SEg0o9q_g1bijj71iNXoOwHaE8\&pid=Api)](https://www.rentfaster.ca/ab/calgary/rentals/house/4-bedrooms/st-andrews-heights/non-smoking/564992)
+
+Certainly! Here's a comprehensive real estate investment profile for the **St. Andrews Heights** neighborhood in Calgary:
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Healthcare & Education**: Proximity to **Foothills Medical Centre** and the **University of Calgary** makes it ideal for medical professionals and students. ([standrewsheights.ca][1])
+
+* **Recreation**: Residents enjoy **St. Andrews Park**, featuring a baseball diamond, soccer/football field, and one of Calgary's best tobogganing hills.  Additional amenities include tennis courts, basketball courts, and a skating rink. ([standrewsheights.ca][2], [Royal LePage Benchmark][3])
+
+* **Shopping & Dining**: Close to **Stadium Shopping Centre** and a short drive to **Market Mall**, offering various retail and dining options.
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Established in 1953, many original homes from the 1950s are being redeveloped into modern residences. ([standrewsheights.ca][4])
+
+* **Building Types**: Predominantly single-family detached homes, with some low-rise apartments and townhouses.&#x20;
+
+---
+
+## 📐 Zoning & Development Regulations
+
+* **Zoning**: Primarily zoned as **R-C1**, allowing single-family detached homes.&#x20;
+
+* **Density Regulations**: Recent city-wide discussions propose rezoning to **R-CG**, permitting up to four units per lot, though this is subject to community consultation and approval.&#x20;
+
+---
+
+## 👥 Demographics & Population Trends
+
+* **Population**: Approximately 1,987 residents as of the latest data. ([CityFacts][5])
+
+* **Growth**: The population has remained relatively stable, with modest growth over recent years.
+
+* **Income**: The median household income is **\$119,123**, higher than the Calgary average. ([AreaVibes][6])
+
+---
+
+## 🛡️ Safety & Crime
+
+* **Crime Rate**: St. Andrews Heights experiences crime rates 51% lower than the national average, with violent crimes 62% lower. ([AreaVibes][7])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: The neighborhood has a mix of owner-occupied and rental properties.&#x20;
+
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$1,805/month.
+  * **2-Bedroom**: Approximately \$2,440/month.
+  * **3-Bedroom**: Approximately \$3,169/month. ([Reddit][8], [RentCafe][9])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Classified as an **"A" neighborhood** due to its affluence, safety, and prime location near major institutions.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: The median list price has seen an 18.55% month-over-month increase, indicating strong appreciation potential. ([Houseful][10])
+
+* **Current Returns**: While property values are high, rental yields may be moderate. However, the area's desirability and growth potential make it attractive for long-term investments.
+
+* **Cash Flow**: Investors may experience modest cash flow due to high acquisition costs, but long-term appreciation prospects are strong.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: Approximately \$1,366,556 as of the current month. ([HonestDoor][11])
+
+* **Price Range**: Listings range from \$335,000 to \$3,700,000, catering to various investment scales. ([iwcalgaryrealestate.com][12])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for investors seeking long-term appreciation in a stable and affluent neighborhood.
+
+* **Luxury Rentals**: Targeting high-income tenants, especially medical professionals and academics from nearby institutions.([Turn Key Homes & Renovations –][13])
+
+* **Value-Add Investments**: Renovating older homes to meet modern luxury standards can yield significant returns.
+
+* **Infill Development**: Opportunities exist for developing upscale infill homes, subject to zoning regulations and community engagement.
+
+---
+
+
+[1]: https://standrewsheights.ca/?utm_source=chatgpt.com "St. Andrews Heights: Home"
+[2]: https://www.standrewsheights.ca/public-spaces.html?utm_source=chatgpt.com "Public Spaces - Calgary - St. Andrews Heights Community Association"
+[3]: https://royallepagebenchmark.ca/calgary/northwest/st-andrews-heights/?utm_source=chatgpt.com "St. Andrews Heights - Royal LePage® Benchmark"
+[4]: https://www.standrewsheights.ca/planning-and-development.html?utm_source=chatgpt.com "Planning and Development - St. Andrews Heights"
+[5]: https://www.city-facts.com/st-andrews-heights-calgary/population?utm_source=chatgpt.com "St Andrews Heights, Calgary, AB, Canada - Population - City Facts"
+[6]: https://www.areavibes.com/calgary-ab/st.%2Bandrews%2Bheights/employment/?utm_source=chatgpt.com "St. Andrews Heights, AB Employment - Median Household Income ..."
+[7]: https://www.areavibes.com/calgary-ab/st.%2Bandrews%2Bheights/crime/?utm_source=chatgpt.com "St. Andrews Heights, Calgary, AB Crime Rates - AreaVibes"
+[8]: https://www.reddit.com/r/Calgary/comments/1bibnci/can_someone_explain_this_whole_city_rezoning/?utm_source=chatgpt.com "Can someone explain this whole city re-zoning issue like I am 5"
+[9]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/st-andrews-heights/?utm_source=chatgpt.com "St. Andrews Heights Apartments for Rent - Calgary, AB - RentCafe"
+[10]: https://www.houseful.ca/market-trends/calgary-ab/st-andrews-heights/?utm_source=chatgpt.com "St. Andrews Heights, AB Housing Market & Real Estate Trends"
+[11]: https://www.honestdoor.com/cities/ab/calgary/st-andrews-heights?utm_source=chatgpt.com "St Andrews Heights, Calgary Real Estate: Housing Market April 2025"
+[12]: https://www.iwcalgaryrealestate.com/st-andrews-heights-real-estate.php?utm_source=chatgpt.com "St. Andrews Heights Real Estate"
+[13]: https://turnkeyrenovations.ca/investing-in-calgarys-multi-family-properties-roi-and-market-analysis-for-4-plexes-row-houses-and-garage-suites/?utm_source=chatgpt.com "Investing in Calgary's Multi-Family Properties: ROI and Market ..."
+
+
 # Chinatown
 # Rosedale
 # Shawnee Slopes
