@@ -14309,8 +14309,120 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 [11]: https://www.reddit.com/r/Calgary/comments/wwndjz/calgarys_chinatown_continues_to_be_perceived_as/?utm_source=chatgpt.com "Calgary's Chinatown continues to be perceived as safe compared to ..."
 
 
-# Rosedale
 # Shawnee Slopes
+
+[![Shawnee Slopes Calgary Homes - Calgary Real Estate](https://tse1.mm.bing.net/th?id=OIP.LlWO3QCVWNEv_YHcPROUCAHaE8\&pid=Api)](https://www.elitehomerealestate.com/neighborhoods/shawnee-slopes-homes-for-sale/)
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Natural Spaces**: Shawnee Slopes is adjacent to **Fish Creek Provincial Park**, offering residents access to extensive walking and biking trails, picnic areas, and natural landscapes. ([livrealestate.ca][1])
+
+* **Transportation**: The community is served by the **Fish Creek–Lacombe LRT Station**, providing convenient access to Calgary's public transit system. ([Calgary Real Estate][2])
+
+* **Shopping & Dining**: Nearby shopping centers and restaurants are accessible via **Macleod Trail**, a major roadway bordering the community. ([Calgary Real Estate][2])
+
+* **Recreation**: The area features parks and playgrounds, including the **Shawnee Park Community Playground**, enhancing the neighborhood's family-friendly appeal. ([calgaryplaygroundreview.com][3])
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Shawnee Slopes was primarily developed in the **1980s**, with recent redevelopment projects adding new housing options.&#x20;
+
+* **Building Types**: The neighborhood comprises **single-family detached homes**, **townhouses**, and **low-rise condominiums**, catering to a diverse range of residents.&#x20;
+
+---
+
+## 📐 Zoning Regulations
+
+* **Current Zoning**: The area includes **Direct Control (DC) districts** and **Residential – Contextual One Dwelling (R-C1)** zones, primarily supporting single-family homes. ([LiveWire Calgary][4])
+
+* **Density Allowances**: Recent land use amendments have facilitated the development of **multi-residential units**, including townhouses and affordable housing projects, allowing for increased density in certain areas.&#x20;
+
+---
+
+## 👥 Population & Growth
+
+* **Population**: As of the 2021 Census, Shawnee Slopes had a population of approximately **1,978** residents. ([AreaVibes][5])
+
+* **Growth Trends**: The community has experienced **modest population growth**, with ongoing development projects expected to attract new residents.&#x20;
+
+---
+
+## 💰 Average Income
+
+* **Median Household Income**: The median household income in Shawnee Slopes is approximately **\$119,331**, which is higher than the Calgary average. ([AreaVibes][6])
+
+---
+
+## 🛡️ Crime Rate
+
+* **Safety Overview**: Shawnee Slopes has a **lower crime rate** compared to the national average, with violent crimes being **32% lower**. ([AreaVibes][7])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: The neighborhood offers a variety of rental options, including apartments, townhouses, and single-family homes. ([RentFaster.ca][8])
+
+* **Average Rents**:
+
+  * **Apartments**: Average rent is approximately **\$1,900** per month.
+  * **Townhouses**: Average rent is approximately **\$2,590** per month.
+  * **Houses**: Average rent is approximately **\$4,000** per month. ([RentFaster.ca][8])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Shawnee Slopes can be classified as a **"B+" neighborhood**, characterized by its affluence, safety, and proximity to natural amenities.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: The average house price in Shawnee Slopes has seen a **19.9% increase** over the past quarter, indicating strong appreciation potential. ([Zolo][9])
+
+* **Current Returns**: Given the relatively high property values and rental rates, investors can expect **moderate to strong rental yields**.
+
+* **Cash Flow**: The combination of property values and rental income suggests **positive cash flow opportunities** for investors.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: As of May 2025, the average house price in Shawnee Slopes is approximately **\$528,050**. ([Zolo][9])
+
+* **Price Range**: Listings range from **\$305,000** to **\$1,149,000**, catering to various investment scales. ([RE/MAX Central][10])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for investors seeking long-term appreciation in a stable and affluent neighborhood.
+
+* **Rental Properties**: Targeting families and professionals seeking proximity to natural amenities and public transit.
+
+* **Redevelopment**: Opportunities exist for developing multi-residential units, subject to zoning regulations and community engagement.([https://www.calgary.ca][11])
+
+---
+
+[1]: https://www.livrealestate.ca/calgary-south/shawnee-slopes.php?utm_source=chatgpt.com "Shawnee Slopes Homes for Sale in South Calgary | Liv Real Estate® Listings"
+[2]: https://www.elitehomerealestate.com/neighborhoods/shawnee-slopes-homes-for-sale/?utm_source=chatgpt.com "Shawnee Slopes Calgary Homes - Calgary Real Estate"
+[3]: https://calgaryplaygroundreview.com/shawnee-park-community-playground/?utm_source=chatgpt.com "Shawnee Park Community Playground - Calgary Playground Review"
+[4]: https://livewirecalgary.com/2020/05/22/new-twist-in-shawnee-slopes-development-has-residents-riled-about-24-hour-traffic/?utm_source=chatgpt.com "New twist in Shawnee Slopes development has residents riled ..."
+[5]: https://www.areavibes.com/calgary-ab/shawnee%2Bslopes/livability/?utm_source=chatgpt.com "Living in Shawnee Slopes, Calgary, AB - AreaVibes"
+[6]: https://www.areavibes.com/calgary-ab/shawnee%2Bslopes/employment/?utm_source=chatgpt.com "Shawnee Slopes, AB Employment - Median Household Income ..."
+[7]: https://www.areavibes.com/calgary-ab/shawnee%2Bslopes/crime/?utm_source=chatgpt.com "Shawnee Slopes, Calgary, AB Crime Rates - AreaVibes"
+[8]: https://www.rentfaster.ca/ab/calgary/rentals/shawnee-slopes/?utm_source=chatgpt.com "Shawnee-slopes Apartments & Houses for Rent in Calgary, AB"
+[9]: https://www.zolo.ca/calgary-real-estate/shawnee-slopes/trends?utm_source=chatgpt.com "Shawnee Slopes Real Estate Trends - Calgary - Zolo"
+[10]: https://www.remaxcentral.ab.ca/sajuvarghese/shawneeslopes-real-estate-statistics.html?utm_source=chatgpt.com "Shawnee Slopes Calgary Real Estate Statistics"
+[11]: https://www.calgary.ca/content/dam/www/pda/assessment/assessment-search/PDFreportSRMT.pdf?utm_source=chatgpt.com "[PDF] Residential Market Trends - 2025Property Assessment"
+[12]: https://teamhripko.ca/calgary-neighbourhoods/south/shawnee-slopes/?utm_source=chatgpt.com "Shawnee Slopes - Calgary Neighbourhood Guide"
+
+
 # Red Carpet
 # Shaganappi
 # Crestmont
