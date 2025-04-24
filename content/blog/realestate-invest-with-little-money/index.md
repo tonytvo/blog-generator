@@ -1,0 +1,2122 @@
+---
+title: real estate invest with zero or little money down summary by Brandon Turner
+date: "2022-08-03T22:12:03.284Z"
+description: "real estate invest with zero or little money down by Brandon Turner"
+tags: ["realestateinvesting", "financialindependence"]
+---
+
+# take-aways
+
+- These are four of the primary rules and advisory limits of creative real estate investing. These have been passed down from one established investor to another with the goal of keeping aspiring investors from crashing and burning. 
+  - When investing creatively, you need to find even better deals than those who invest normally. Let me explain what I mean. Let’s say a certain home is worth $100,000. A traditional investor might pay $100,000 for that home, put a 30% down payment ($30,000) on the property, and make a nice return on investment from the cash flow (the extra money left after all the expenses are paid).However, if I were to purchase that same house for $60,000 because I took the extra steps necessary to get a great deal, which of us is in the better position? The traditional investor, who has $30,000 of their cash tied up in their property and no real equity, or me, who has nothing invested but owes less?Because of the deal I obtained, I have far greater potential for profit and for a better return on investment than the normal investor, but less of my cash is at risk because I have no cash invested at all.However, what if I decided to be just a “normal” investor and pay full price for that $100,000 property, with no money down? Most likely, my mortgage payment would be so high that good cash flow would be out of reach, and I would not have the equity necessary to be able to sell the property. In this case, the “good” investor would be in a better position because they owed only $70,000. Hopefully, you are following my argument here… creative investing means you must invest in incredible deals, or it’s simply not worth doing
+  - When investing creatively, you must be extremely conservative. I’m not talking politics here; I’m talking about planning for the future. This means assuming the worst when buying property. Take as a given that taxes will go up, your unit will sit vacant for a certain percentage of each year (higher than the average for your area), repairs will be numerous and expensive, and you will need to evict deadbeat tenants. Plan for these costs and only buy property that proves to still be a good deal even after a conservative estimate
+  - Creative finance requires sacrifice. Remember my definition of creative finance: the ability to trade cash for creativity. Notice there is a trade-off involved—one you need to accept. Most of the methods I’ve used to acquire real estate, I didn’t learn from a book. Instead, I discovered the methods at 4:00 a.m. after an eight-hour brainstorming session with my wife, my pen, and my paper, desperately trying to figure out the missing puzzle piece that would enable me to close a deal. This is often the trade. It requires jumping through a lot of mental hoops, numerous conversations with others, and the ability to ask for help. Creative real estate investing is a puzzle that takes real mental (and sometimes physical) effort to put together. If you want easy, then stick with a job, a sizable down payment, and average returns. There is nothing wrong with that, and I’d have chosen the same if I’d had enough money and income when I started. But I didn’t, so I chose creativity. I chose to sacrifice. Will you? 
+  - Creative finance does not mean investing without a cushion. A wise man and mentor once told me, “You can go broke buying good deals.” Even though you need to get killer good deals if you are going to invest with no or little money down, you still need to understand that bad stuff happens. Murphy will show up on your doorstep and start knocking. He might even move his whole family in. Therefore, maintaining a financial cushion to deal with problems is imperative. You don’t need $50,000 in the bank to buy a small rental house, but you do need to be able to weather the storms that will come, relative to the size of the property you are buying and that property’s risk for loss.For example, if you needed to evict a tenant, could you handle several months of lost rent, more than $2,000 in eviction costs, and several thousands of dollars to repair the property? What if you had to do this twice in the same year? These are important questions you must be able to answer, or at least discuss. These questions do have answers, so hang in there and keep your brain turning.I can’t tell you exactly how much money you’ll need to save, because that depends largely on a number of factors, including the following: 
+    - The strength of your target real estate marketYour ability to manage effectively
+    - Your ability and desire to repair things yourself, if needed
+    - How difficult and lengthy evictions are in your state. 
+    - How good your credit is. 
+    - How much cash flow you can get
+    - The average purchase price of your target properties
+    - The niche you enter
+    - The strategy you use
+    - And a whole lot more
+
+- The point is, be conservative, buy great deals, and have a financial backup plan. If this means spending six months working a second job to save up $5,000 to put into a savings account, then start that second job tomorrow. Maybe it means asking your boss for a raise or lowering your living expenses (remember… sacrifice!). Whatever you need to do, get started as soon as possible. Stop wasting time on excuses and start planning for how you are going to get there
+
+- what would you do if you were stripped of all of your assets and only have $100 to start over?
+  - spend the money on dozen of doughnuts, then go to a Goodwill store and buy a bike.
+  - then I would bike over to a title company or closing attorney and ask for a free list of pre-foreclosure homes. I'd use the last bit of money for a burner phone and then get to work knocking on doors, collecting leads, and making calls.
+  - I would knock on at least 20 doors a day. After about a hundred doors, I would get a contract. Once I found out the seller's situation. I could do wholesale, creative finance, subject-to, or lease option.
+
+- In the US: Homeowners can purchase a home with a mortgage that requires as little as 0% down.
+  - Homeowners get lower, fixed interest rates.
+  - Homeowners can qualify with lower credit scores.
+  - Homeowners are often given the first option to buy foreclosures (especially HUD homes, which are properties that have been foreclosed upon by the U.S. Department of Housing and Urban Development).
+  - Homeowners can often negotiate better deals with sellers. You can consider a single-family home an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later
+
+# owner occupied investment properties
+
+- The small multifamily house hack entails adding a unit to a single-family home, which is legal in most locations. The added unit can be used for either vacation or rental purposes. 
+ 
+- House hacking is a great way to get started in multifamily investing, especially for those who don’t have a lot of capital to put down. Because of the low down payment, you can get a loan for up to 97 percent of a property's appraised value. 
+ 
+- House hacking works in any market, and with a duplex, triplex, or fourplex, you’re giving yourself landlord training wheels. 
+ 
+- House hacking helps you build the systems, skills, and confidence needed to build a generational fortune by renting out houses. 
+ 
+- To start, you'll need to determine your maximum purchase price and your expected cash flow. You'll need to make some adjustments to those numbers once you move out and the property is yours alone. 
+ 
+- After analyzing the deal, you'll be able to run the numbers and compare them to a traditional multifamily investment. You'll need to include property management fees and increase your repair budget if necessary, but the final cash flow and cash-on-cash return should still meet your requirements. 
+ 
+- House hacking is the first and most important step towards becoming financially free. It entails modifying a property to make it suitable for rental. This entails installing new plumbing, wiring, and amenities like closets and pantries. 
+ 
+- One of the downfalls of house hacking is that it limits the number of times you can do it. Because you are limited to only one FHA loan at a time, you'll need to refinance your properties as soon as you obtain more cash, which takes time. 
+ 
+- If you have a partner, try to change their mindset about real estate investment by sharing your vision and emotions, and by watching media that motivates you both. 
+ 
+- It is a serious crime to lie on your mortgage application. If caught, you could end up in jail with Beatrice and Bruno, the names of the two inmates who share a cell. 
+ 
+- Treating your tenant-neighbors like friends instead of business partners is a big no-no. Make them follow the same processes and systems as any other tenant, and this will help you maintain a professional relationship with them. 
+ 
+- The first steps in house hacking are the same as for any other kind of multifamily investment: educate yourself about what you want, establish your cash-flow capacity, and find a lender to give you a loan. 
+ 
+- The author advises to look at the numbers twice: first, assuming you'll be living in one of the units and collecting no rent, and second, after you've moved out, to see if they still make financial sense.
+
+- You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing something like rehab and then parlay that equity into greater investments later.
+
+- owner-occupied investment property can be one of the cheapest ways to get started investing in real estate, as you won’t need to spend money on advertising or marketing the property.
+
+- Many people treat their homes as if they were investments, when in reality, they are massive  liabilities that deplete your finances. You can consider a single-family home as an investment if you purchase it with the intention of using it as a real estate investment in the future or if you can build substantial equity by doing some light rehab and then parlay that equity into greater investments later. 
+ 
+- small multifamily properties, such as duplexes, triplexes, and fourplexes, are eligible for the  same American benefits as single-family homes. That is, they are low cost, easy to obtain financing for, and offer the potential to generate a constant monthly income. 
+ 
+- The decision as to which type of property to buy comes down to your lifestyle: whether you have a large family or not. If you do, you may want to go for a multifamily property. 
+ 
+- There are low money down lending opportunities that exist for homeowners that simply do not  exist for the typical real estate investor. By taking advantage of these opportunities, you can start building your rental portfolio with very little out-of-pocket cash and get started sooner than you may have imagined. 
+
+- The Federal Housing Administration (FHA) is a federal agency created in 1934 to help with the shortage of housing following the Great  Depression. The FHA provides low interest loans to qualified buyers. 
+ 
+- The FHA loan is a government-backed loan that allows you to purchase property. However, it also has its share of problems, such as the Mortgage Insurance Premium that can really add up and the fact that you can have only one FHA loan at a time. 
+ 
+- The FHA loan is another government insured loan that allows the borrower to borrow money to buy a home. The 203k loan is a subset of the FHA program and allows the borrower to borrow money to pay for cosmetic repairs such as paint and carpet. 
+ 
+- The biggest difference between a regular 203k loan and a streamlined one is the extent of the rehab. The streamlined one can be used for smaller cosmetic problems, like painting, carpet, and smells, whereas the regular one can be used for structural changes, like moving walls or building additions. 
+ 
+- The biggest disadvantage of the 203k loan is that it entails even more red tape than the regular FHA loan, and rehabs are riskier since they are subject to the MIP. 
+ 
+- The 203k loan is a great tool for first-time investors who purchase fixer-upper houses. The key is to use it correctly, which requires finding a property with basic cosmetic issues that can be acquired for far below value and with the potential for quick appreciation after purchase. 
+ 
+- The U. S. Department of Veterans Affairs (VA) provides financing for veterans and their families. Like the Federal Housing Administration, the VA offers insured loans that protect a portion of the lender's investment in case of default. 
+ 
+- The U. S. Department of Agriculture (USDA) offers one that works very similarly to the FHA and VA loan programs. The USDA Rural Development Single Family Housing Guaranteed Loan Program is commonly referred to as the USDA loan. 
+ 
+- In canada, CMHC is equivalent to FHA loan
+
+
+# BRRRR
+
+- [BRRRR check list](./brrrr-checklist.pdf)
+
+- After graduating from law school, the author attempted to be a house flipper, but was unsuccessful because the market had crashed. He then tried to find a way to pay off his high-interest credit cards by renting out his property. 
+ 
+- The BRRRR method involves buying a house with short-term money, renovating it, renting it, refinancing it, and repeating the process until you have a large portfolio of cash-flowing properties. 
+ 
+- The BRRRR method relies on one fundamental principle: increasing the value of a property through renovation. You need to save as much as possible while keeping your costs as low as possible in order to increase the value of your property. 
+ 
+- To calculate the maximum amount a property could possibly be worth when it's renovated, start by figuring out what the property is worth when it's not renovated. This is called the after-repair-value. After the property has been renovated, its ARV will be significantly higher. 
+ 
+- After getting a feel for the area, the next step is to get the asking price of the house. If it falls with- in your price range, you can start negotiating with the seller. 
+ 
+- **ARV x LTV from Lender = Total All-in Costs**
+- **[Total All-in costs] - [refinance closing costs] - [rehab costs] - [initial closing costs] = [Maximum Purchase Price, MaPP]**
+
+- The Four-Square Method allows you to quickly calculate the pure cash flow and cash-on-cash return of a property, after taking into account the purchase price, rehab costs, and the amount of money you put in, as well as the amount you get out. 
+  - you will need to analyze for pure cash flow in 3 different ways to accommodate the 3 distinct phases of BRRRR investment:
+    - **rehab**: during this phase, you may have tenants in some of the units, or maybe all of the units were cleared and you're 100% vacant. During this time, you'll want to know how much cash flow you're earning, or losing, each month.
+    - **post-rehab/pre-refinance**: when you've rented the property out but are still using the short-term money. This period of time, known as the seasoning period, should last twelve months at most, so don't panic if the returns don't look promising right away: They are just temporary! But it's still good to know what you can expect during this period and make sure you're prepared.
+    - **post-refinance:** how is this property going to performance in the long run (after the refianace into long-term money). Specially, we pay close attention to CoC return, pure cash flow, and annualized total return for each year following the rehab.
+  - ![4 square method](./four-square-method.png)
+ 
+- By refinancing a property and pulling out most of the money, you generate an infinite return on your investment because you're making cash flow while having little to nothing invested in the deal. 
+ 
+- The other advantage of the BRRRR approach is that it allows you to build a portfolio using low or no down payments. This allows you to acquire more properties and ultimately refinance them for a higher ARV, which allows you to recuperate the money you invested in them. 
+ 
+- The traditional investment involves putting down a large down payment, while the BRRRR investment does not. The traditional investment has a total loan amount of $240,000, while the BRRRR investment has a total loan amount of $240,000. Both have the same final amount, because all variables are equal, but the BRRRR investment has greater equity since it utilizes the property's ARV to calculate the loan. 
+ 
+- Replacing the appliances and the water heater when you refinance a property is a good way to increase your cash flow. Replacing the flooring when you replace the appliances and the water heater is a great way to reduce your time spent on maintenance, which in turn allows you to spend more time on the important tasks at hand. 
+ 
+- Equity is the difference between what your property is worth and what you currently owe on it. The more equity you have, the wealthier you appear on paper. With each property you buy, your net worth increases by leaps and bounds. 
+ 
+- The BRRRR method is effective at all different scales, from single-family houses to large apartment complexes. It can also work with self-storage, senior housing, and low-income housing. 
+ 
+- Because BRRRR is riskier than other types of investing, you must be well prepared for the process. You'll need to learn how to buy, rehab, and manage rental properties, and you'll need to be able to refinance and get your money back. 
+  - Lenders can give you pre-approved loans before you start a BRRRR, so you can be certain that you will be able to refinance the house after you finish it. 
+  - To stay on budget, follow these four steps:
+    - 1) Fully understand the work required to achieve the final result and create a detailed scope of work that covers everything,
+    - 2) always include a whoops/overages line item in your budget,
+    - 3) get quality contractors to do the work, or do it yourself, and 
+    - 4) hold your contractor accountable for the quality of work.
+  - The after-repair-value, or ARV, is the most important metric when doing a BRRRR investment. The refinance amount is based on the ARV, and most banks will lend between 70 and 80 percent of the new value. If the appraisal on your BRRRR comes in low, your new loan will be low. 
+    - base ARV estimate on good data (talk to a local real estate agent for comps)
+    - consider challenging the appraisal for refinance if it is low. Provide the appraisal proofs on the rehab works (before after pictures), list all of the rehab works for the appraiser
+  - Before refinancing a property, make sure to talk with several lenders to determine their seasoning requirements, and be prepared to account for the time between when you buy and refinance a property.
+    - when you BRRRR a small multifamily property, traditional residential lenders typically require a period of time between when you buy the property and when you refinance it. This period of time is known as seasoning and can affect your math, so it's important to understand how seasoning works and factor it into your plans. Seasoning is typically six months long but can be as long as twelve months for some lenders. This means you may have to continue paying the higher rates on whatever short-term financing you used for the first six to twelve months, which can affect cash flow in the first year.
+ 
+- The BRRRR method entails buying a property with short-term money, rehabbing it, and renting it. Repeat the process as you build your portfolio.
+
+- Every real estate investor is striving to increase the amount of money they make. The key to achieving this is to find ways to increase the property's income, lower its expenses, or both. 
+ 
+- The potential for adding value to a multifamily property is through any changes that will either increase the revenue a property is generating or decrease the expenses it is incurring. 
+ 
+- Increasing the property’s NOI by $100,000 results in a $2 million increase in value. This can be accomplished by adding value through renovations, creating a more desirable environment for tenants, or increasing the property’s rent. 
+ 
+- The most effective way to increase the value of a multifamily property is to reposition it and up- grade the units. This requires more work and risk than some of the simpler methods discussed in the book, but it can also provide exceptional returns. 
+ 
+- Repositioning a property entails making improvements that tenants are willing to pay for. The first step is to understand the market dynamics in the area where the property is located. After that, obtain as many comparable properties as possible, study their pricing details, and make necessary adjustments. 
+ 
+- Identifying ways to improve the appearance of a property is an important step in positioning it to obtain the best rents. The most effective way to achieve this is by means of repairs and replacements that are easy on the eyes, such as fresh paint and landscaping. 
+  - a good property management firm should be able to help with an initial assessment. Special attention should be given to all major components, such as roofs, windows, doors, sewer lines, roads, and parking areas.
+ 
+- Landscaping, painting, and cleaning are some of the first things that need to be done when a property is taken care of, as they have a significant impact on the appearance of a property. Landscaping should be done to add value to a property, not to make it look good. 
+ 
+- When relocating a property, make sure the parking, roads, and sidewalks are in good shape. If not, make the necessary repairs. This will help with tenant retention when rents rise. 
+ 
+- The front door is extremely important in establishing the right first impression. It sets the tone for the rest of the house. If a prospective tenant sees a door with a broken handle, peeling paint, and a door that doesn’t lock, they’ll probably think the house is unsafe. 
+ 
+- Having cameras at the entrance and strategically placed around the office creates a safe and secure impression to tenants. 
+ 
+- The lobby of a building is like the lobby of a car dealership: it is where you display the lifestyle the customer can have if they purchase the car. 
+ 
+- Finishes such as paint, flooring, and furniture can add a lot of value to a property. Investing in these upgrades is a good way to improve the appearance of a property and make it stand out from the competition. 
+ 
+- Unit upgrades should be approached with caution, since they can be very expensive. The best way to handle them is to identify what upgrades are needed for a specific property, how much they will cost, and whether they are worth it based on the income they generate. 
+ 
+- A well-planned model unit is a crucial part of any upgrade plan. The model unit should have all the upgrade finishes that are included in your upgrade template, and should be meticulously designed and furnished. 
+ 
+- When repositioning a property, the first thing to consider is what baseline amenities are necessary to meet tenant expectations. After that, focus on adding specific, targeted amenities that meet your tenants’ needs. 
+  - playground/play area, library, pet-washing station, gym/fitness area, walking/running path, community room or clubhouse, outdoor kitchen or grilling area, garages, security fence and gated access, bike racks/storagbe, mail room with package lockers, recycling center, game room, dog park, pool, video intercom, community wi-fi, private, covered parking, doorman or security guard, online portal for payments & work orders, electric car charing stations, valet trash service.
+ 
+- Creating a sense of community among the tenants can also help improve the desirability of a property. 
+ 
+- Renaming a property can help improve its reputation, and getting positive reviews online can help with that as well. 
+  - put up promotional signs and advertise the property as "under new ownership" and "newly renovated"
+  - offer referral bonuses to tenants to encourage them to talk about all the improvements
+  - chronicle the property's transformation on social media with plenty of videos and before-and-after photos
+  - host a series of open houses. You can also invite community leaders and press for private tour.
+  - the best time to get reviews are at move-in and after a successfully completed work order
+ 
+- The best way to add value to a property is to increase its rent by implementing a good strategy such as increasing the number of units or improving the quality of the units. 
+ 
+- The author was able to close on the property, but was informed that a couple of the contractors were going to place liens on the building. The attorney that handled the transaction explained to him that this was a result of the seller not being able to pay the contractors.
+
+# partnerships
+
+- the author needed to find a way to buy a triplex which was cash-flow positive despite not having the money to fund the down payment. He came up with the brilliant idea of partnering with a wealthy friend who was willing to front him the money to buy the property. 
+ 
+- A partnership is a special type of business structure that allows individuals to pool their money and resources together to buy a property. In a partnership, each partner contributes an agreed-upon  percentage of the profits, and each partner is legally liable for the debts of the other partners. 
+ 
+- The Deal Delta is a concept introduced by Br. Jason Hartman in his book How to Invest in Real Estate: The Ultimate Beginner’s Guide to Getting Started. It requires three things to work: knowledge, hustle, and money. You only need two of the three to start a real estate investment. The third, money, you must acquire by partnering with someone who has it. 
+ 
+- The key to finding partners is to start networking now, even if you don’t have a deal yet. You never know who might have $100,000 lying around just waiting for an opportunity like yours. 
+ 
+- When trying to find people to invest with, focus on demonstrating the four K's: knowledge, integrity, tactics, and experience. The most important one is knowledge, since you need to be able to explain how you plan to make money. 
+ 
+- If you must begin raising money from partners, start with people who don't care as much about your real estate investing experience since they know your character from other parts of your life. You can borrow someone's expertise by hiring a more experienced investor, or you can demonstrate your own abilities by creating a PowerPoint presentation or an investor packet that outlines your qualifications and the specifics of the deal. 
+ 
+- Money partnerships can be either equity or debt, depending on the preferences of the partners. Always check with your partners to discover what kind of partnership they prefer. 
+
+- it will be hard to find a partner unless you can demonstrate you can fly a KITE: the knowledge to pull off the deal, the Integrity to uphold your side of partnership, the Tactics to make the deal work, and the experience needed to justify their risk. 
+
+- investing in real estate with partners to avoid large amount of money upfront
+
+- Your brand consists of yourself and your product. They are two sides of the same coin, and you need both to develop your real estate brand. 
+ 
+- Your personal brand is built through three primary areas: reputation, knowledge, and experience. People can smell that guy coming from a mile away. Never pretend to know more than you do, but use your gaps in knowledge as motivation to grow. 
+ 
+- Your BRRRR approach requires you to develop a strong and consistent product, which is your service. You need to make sure your service is excellent, and it needs to be worth selling. People need to trust your brand, and they will only do so if the quality and profitability of the product you represent is trustworthy. 
+ 
+- If you build yourself into a trustworthy brand, the money will follow. When real estate investing becomes your passion, you will find that you can't help but talk about it. In turn, the people you talk to about it will talk to their friends about you. 
+ 
+- There are four different ways you can work with a Bob, and all of them involve giving up a portion of your profit to the investor, but obtaining a greater share in return. The first is an equity partnership, the second is a down payment equity partnership, the third is a private lending partnership, and the fourth is a credit partnership. 
+ 
+- Before partnering with someone, you must speak with a CPA and a lawyer who specializes in this kind of thing. Even something as simple as having your partner put in money at the wrong step can cost you thousands of dollars in taxes. 
+ 
+- While partnerships can be beneficial when it comes to growing your business, they also have their disadvantages. The main reason why partnerships fail is because of personality conflicts. In addition, differences in opinion and suspicion/trust issues can cause problems as well. 
+ 
+- When you rely on someone else, setting expectations as to how something should be done is easy. However, when your partner doesn’t live up to your expectations, it’s easy to grow bitter and blame him or her. One thing you can do to curtail this is to consistently underpromise and overdeliver.
+ 
+- When you are the sole proprietor of a business, taxes and accounting are much simpler than when you have partners. The more partners you have, however, the more complicated the bookwork becomes and the more time-consuming and costly tax season becomes. 
+
+# home equity loans/lines of credit
+
+- A home equity line of credit, or HELOC, is similar to a home equity loan, but even though you are allowed to borrow a predetermined amount of money, that money is not necessarily dispersed at the start of the loan. It’s available for you to borrow and pay back with flexibility. 
+ 
+- Home equity loans are a great way to get extra money when you need it the most. 
+  - They generally have low interest rates, which is generally tied to the prime rate, but the interest rates are adjustable and high during inflation period
+  - another risk you take is if your house's value decreases. 
+ 
+- A home equity loan or line of credit requires that you have equity in your home. The difference between what you owe on your home and its fair market value is known as equity. Lenders calculate this figure as a percentage known as loan to value. 
+ 
+- The best LTV for a home equity loan is generally around 75%. Anything higher than that is usually considered a HELOC, which stands for home equity loan. With a home equity line of credit, the interest rate is generally tied to the Prime Rate. 
+ 
+- Another strategy for using your home's equity to invest in real estate is by refinancing the loan through the bank after the repairs are made and the seasoning period is over. This allows you to pay off the home equity loan, which frees up your residence home equity to be reinvested. 
+ 
+- The second option is to get a business line of credit from a commercial bank or a portfolio lender. This allows you to access the equity in your properties, which is substantial in some cases. 
+  
+- Overleveraging can be dangerous because it restricts your choices. If you don't plan on selling, and you have a fixed rate mortgage, being underwater may not be a big deal to you, because your payment won't change. However, overleveraging does remove options, and having options is critical to success in real estate. 
+ 
+- By using your home's equity to fund your real estate purchase, you're reducing the amount of cash flow you receive. Getting a good deal on the property is even more crucial to make up for this reduction. 
+ 
+- The third danger of home equity loans and lines of credit is their potential for an adjustable rate. This is when you must conduct a Worst Case Scenario Analysis. 
+
+- Equity is the difference between what you owe on your property and what it could sell for. For example, if you owe $50,000 on your home and it is worth $150,000, you have approximately $100,000 in equity. A home equity loan is a loan you can take out from a lender that is secured by the equity in your home. In other words, if you don’t pay the loan back, the lender can take your personal home and resell it to pay the debt. A home equity loan is also known as a “second mortgage,” because it is generally subservient to your primary mortgage. This means that in the case of a foreclosure, the primary mortgage would get paid off first, followed by the second. Before we get too deep into how to use a home equity loan, let’s talk about the difference between the two types of equity products:1. Home Equity Loan – A home equity loan is a mortgage product wherein all funds are disbursed at the beginning of the loan, with a definitive term length and equal monthly payments. For example, you may take out a $50,000 home equity loan at 3.75% payable for 15 years. The payment would be roughly $363 per month for the entire 15 years, or until you paid the loan off. You might think of a home equity loan as similar to a car loan or a normal home mortgage. These loans can have either a fixed (unchanging) interest rate or one that is variable (subject to change with the economy). 2. Home Equity Line of Credit – A home equity line of credit, or HELOC, is similar to a home equity loan, but even though you are allowed to borrow a predetermined amount of money, that money is not necessarily dispersed at the start of the loan. Instead, it is available for you to borrow and pay back with flexibility. If this is a bit confusing for you, don’t worry. Let me give you a really simple analogy: think of it like a credit card. You can borrow money, up to a certain amount, and pay it back at will, though you are required to make at least a minimum payment each month based on the amount you have used. The minimum payment is often simply just the interest that accrued during that month, but some lines of credit require a higher payment than just the interest. For example, you may have a $50,000 limit on your home equity line of credit, but you only use $20,000 of it. If your interest rate on the line of credit is 10%, your monthly interest payment would be $166.67 ($20,000 x 10% / 12). If you paid only the interest each month, your loan balance would never go down, because you would never be paying back the principal. A HELOC typically has a variable interest rate, though fixed rate versions are available
+
+- As the name would imply, a home equity loan or line of credit will require you to have equity to qualify. Therefore, let’s take a few minutes to explore what equity is and why it matters. As mentioned earlier, equity is the difference between what you currently owe on your home and the fair market value of that home. For example, if you owe $50,000 on a home whose current value is $80,000, you have approximately $30,000 in equity (not including the costs required to sell the property if you wanted to)
+
+- Today, lenders have learned from the mistakes of the past, and the days of getting 125% LTV loans and lines of credit are gone. More typically, the highest you’ll probably see is around 90% LTV, but even that may be difficult to find. In other words, if your home is currently worth $100,000, the bank will likely cap the total amount you can borrow across all loans at $90,000. So, if you have a first mortgage with a balance of $70,000, and the lender will allow you to borrow 90% (or $90,000 total), you could potentially obtain a loan or line of credit for a maximum of $20,000.Keep in mind that as with nearly all loans, you will need to meet certain credit and income minimums to obtain the lending, and rates and terms will differ based on your LTV, debt, credit, income, and other factors. You may have a ton of equity in your property, but if you are rocking a 520 credit score, obtaining a home equity loan or line of credit will be nearly impossible. Be sure to shop around to various banks when considering a home equity line of credit. In my small town, rates can vary by as much as 10% between banks. I feel sorry for all those people who are paying 13.5% at X Bank while I’m paying just 3.5% at Y Bank. Don’t be like them. Get out there, make some phone calls, and shop around to get the best rate possible on your home equity loan or line of credit
+
+# strategies for using hard money
+
+- Hard money is financing that is obtained from private individuals or businesses for the purpose of real estate investments. It is typically short-term, high interest, and based on the strength of the deal. 
+ 
+- Lenders that provide hard money loans are often referred to as hard money lenders. These loans are not insured by the Federal Housing Administration (FHA), which is why they’re referred to as hard money. Lenders that provide these loans may be difficult to locate, but BiggerPockets. com has a directory of hard money lenders for you to contact. 
+ 
+- Hard money loans are provided by banks and other lending institutions, and they are meant for investors who want to buy property and fix it up, and then sell it at a profit. Hard money loans have low interest rates and no down payments. 
+ 
+- After the market collapsed in 2008, the author was unable to sell his house. With the help of a hard money lender, he was able to pay off the lender in full and refinanced the home through a conventional bank, obtaining an 80 percent loan to value. 
+ 
+- The amount of money you will need to cover the purchase price and repairs varies from lender to lender, and the amount you are given to draw after the purchase is made also varies. Lenders want to feel as though they will win no matter what, which is why they give out draws to ensure they are covered in case of a default. 
+ 
+- If the lender will not fund the entire price, you have a few options: refusing to buy the property, borrowing money from another source, such as a partnership, equity line, or credit cards, or using your creativity to come up with other options. 
+ 
+- Hard money loans are high risk, high cost loans that provide short term solutions to borrowers that need large amounts of money fast. Because of this, hard money loans are best used as a temporary solution when other conventional loans have dried up. 
+
+- The hard-money-to-refinance strategy involves using hard money to buy a property, renovate it, and then refinance it. However, this may not be possible if you cannot obtain a loan.
+
+# raising private money to fund your deals
+
+- **Prerequisites before you start raising money**
+  - **Get educated**
+    - **The Real Estate Transaction**: Who is involved? Order of operations. Learn the jargon.  
+    - **Negotiation**: Be creative. Solve problems. Prepare more than the other side.
+    - **Accounting & Finance**: Know your numbers. Measure twice, cut once. Learn how to create a ProForma from scratch. 
+
+  - **Develop a track record**
+    - Get some transactions under your belt. As a realtor, wholesaler, or investor. Become known as a “closer”. 
+ 
+  - **Take personal inventory** - (time, money, skills, goals, your "why")
+    - **Self-Awareness**: Be honest about what you bring to the table. Partner with people whose skill set is complementary. 
+
+  - **create a business plan**- (strategy, market analysis, team)
+    - Don’t just analyze a property, analyze the market. What’s the value add plan? What’s the exit plan? Who is on your team? Who is doing what?
+    - When presenting deals to potential cash providers, under-promise and over-deliver. After closing on a deal, make sure to over-communicate with your cash providers and fellow investors.
+
+- **cash source**
+  - **Retirement Accounts**
+    - People who used to have a high-paying job with a reputable company that most likely had a 401(k) program-even better if there was a company match. These people can't work for that company anymore.
+    - The self-employed, like doctors, attorneys, CPAs, and others who don't work for a big company but may have their own IRA program in-house Those who have retired from the workforce but worked for a good company in the past
+  - **Real Estate Equity**
+    - People who have lived in their house for more than fifteen years
+    - Homeowners who purchased between 2009 and 2011
+    - Anyone with a vacation home
+    - Businesses that own the buildings they occupy
+  - **Cash**
+    - Those who live well below their means
+    - High-income W-2 earners
+    - People who seem to already be investing in passive-income-producing assets
+    - Recent recipients of an inheritance
+
+- **where to find cash**
+  - ![cash provider pyramid](./cash-provider-pyramid.png)
+  - **Tier 1 – Core Group:** People who already know, like, and trust you. 
+    - **making your master list**
+      - Step No. 1 - Write down the following headers:
+        - Friends
+        - Family
+        - Neighbors/neighborhood (this includes stores and restaurants you always go to) . Coworkers
+        - College/graduate school alumni Groups and organizations you are member of, such as:
+          - Business networking organizations 
+          - Volunteer/philanthropic groups 
+          - Religious groups
+          - Social groups
+          - Real estate organizations
+      - Step No. 2 - I want you to think about people in each of these groups who may fit the profile to be a Cash Provider for your business. Who would be a good source of IRA investment capital? Who may own their home free and clear? Who are the big savers in each of these circles? Write down the names of the people you aren't comfortable approaching right now because as you grow, you can circle back to them.
+      - Step No. 3 - For each column, write down the person's name, the suspected source of capital, and any pertinent notes you have on why they would be a good source. Go through all your contacts. Your family, classmates from the past, the owner of the restaurant you like to go to- everyone. You probably know more people than you think you do. You may want to try surfing your social media contacts to jog your memory.
+
+  - **Tier 2 – Referrals:** Ask each existing cash provider if they can refer two investors that might be interested in becoming a cash provider for you.
+    - organize your contacts and create a process for staying in touch consistent with these individuals
+    - 😨 **Conquer Fear of Asking For Money:** These people are not investing as a favor to you. This is an opportunity for them. 
+      - You can help them build their wealth while you build your business. In today’s investment world, where the value of a stock can drop 20% because of one tweet, they need you!
+
+    - 📰 **Create a Newsletter:** 
+      - Send a brief update about once per month highlighting case studies, pipeline, new opportunities, and most importantly tips and tricks of the trade. Become a resource. 
+
+    - 📒 **Create a Track Record Document:** 
+      - Share the details of past projects. 
+      - Try to have before and after pictures and a summary of the financials for each project.
+
+  - **Tier 3 – Taking it Public:** Social Media, Podcasting, Real Estate Investment Association Meetings, etc.
+    - The best thing about attending a meetup or a mastermind group is that you meet other investors. 
+    - finding lenders via public records (such as county public records)
+    - finding lenders online
+      - do your due diligence before using the lenders from the websites.
+    - expanding your network
+    - 🤔 **Become a Thought Leader**: 
+      - Build a megaphone.
+        - repost real estate articles to medium, biggerpockets, reddit
+        - guest spots on real estate related podcast, youtube channels 
+      - Broadcast your thoughts on business, share success stories, and caution investors through lessons learned over time. 
+      - Start your own (or be a guest on a) YouTube channel, podcast, blog. 
+      - You can also try to speak at an event. 
+    - other outlet to broadcast yourself such as blog, podcast
+    - speaking opportunities
+    - crowd funding
+    - private equity fund and equity brokers
+
+  - **syndication**
+    - One way to get started investing in real estate is through the multifamily rental business, by way of syndication. This involves raising capital by selling equity or debt to passive investors, who contribute cash and entrust you with their money in exchange for a share of the profits and the tax benefits of depreciation. 
+ 
+    - The most common misconception about syndication is that it is overly complicated, requires extensive paperwork, and is best left to legal experts. But in reality, it is not your job to understand every law and regulation, but to put the pieces of the syndication puzzle together. 
+ 
+    - The structure of a syndication is different from that of a limited partnership or corporation. There are two types of partners in a syndication: general partners who organize the deal and oversee the  entire process, and limited partners who contribute money to close and execute the plan. In return, they receive a share of the profits and tax benefits associated with the investment property's depreciation. 
+ 
+    - It is important to distinguish between capital raiseers and issuers. A capital raiser is a person or company that raises capital for a project, while an issuer is the entity that is raising capital.
+    - A syndication under Rule 506(b) allows you to raise an unlimited amount of money, provided that you don't publicize the offering or solicit investors. You must, however, have a reasonable belief that the investor is accredited. 
+    - The main fees that a general partner in a syndication will charge are the acquisition fee, the finance/refinance fee, the asset management fee, and the disposition fee. 
+   - As an alternative to individual projects, syndicates allow you to raise money for several projects at once. The advantages of a fund are the same as for individual projects, but the fund also diversifies single-asset risk for the LPs. 
+
+- **How to turn potential into reality**
+  - Most common cash provider questions:
+    - How/when am I going to get my money back? - (SDIRA - will be deposited into your SDIRA at end of term, with interest. Reg loan - in bank account with interest. at end of term defined)
+    - What are the risks? housing crash (we use 75% before ARV rule to value deals). tenant not paying (experienced property manager, share screens that we use to screen tenants and a track record. Also a worst case scenario plan)
+    - How much of your own money are you putting in? 
+    - What if I need my money back? 
+      - real estate isn't liquid, define loan terms in the promissory note, when the term is up. alternatively they can have someone else buy their note. Make sure they aren't investing every last dime they own. 
+    - How does this affect my income taxes? - they will get 1099 from us for the interest on the loan, and a K-1 for a partnership deal. Educate on capital gains, find ways for them to beat taxes.
+
+- **How to structure the private loan deal**
+  - Deciding the terms of the loan: 
+    - Who is lending the money and where is it coming from?
+    - What's the deal? - 
+    - How quickly do I need to close? 
+    - How much construction is involves? 
+      - need timeline, want to negotiate a construction draw program with lender to lower interest.
+      - Construction draw program: 
+        - Basically just a tiered investment based on milestones reached on the project vs just 1 big lump sum in the beginning. 
+        - money should be available on short notice, within a week. 
+        - mitigates risk for the cash provider 
+  
+  - **Private loan pitfalls:**
+    - loan origination points and fees for renewal - 1 point = 1% of loan principal. renewal fee is usually .5-1% if you don't pay back on time. 
+    - monthly payments on fix and flips - eat into cash flow, avoid
+    - prepayment penalties and guaranteed minimums - fee if you sell or refinance a property before a certain date, always avoid. Guaranteed minimum returns aren't bad idea to sweeten deal for investors & give them a floor. 
+  
+  - Documents for setting up a private loan:
+    - Promissory Note - defines interest, maturity date, alt fees, etc. Defines what happens if late repayment, default. Original copy held by cash provider, copy held by deal provider. Collect original copy at the end with the words "paid in full" on it. 
+    - Mortgage security document (deed of trust) - Document creates a lien (investor claim) on the property. Means that property owner cannot resell or refinance property without lenders permission. Lender can begin foreclosure if promissory note loan defaults. 
+    - Personal Guarantee - holds borrower personally liable for loan. 
+    - Deed in lieu of foreclosure - Means that ownership of the property immediately goes to lender if the loan goes into default.
+
+- 📊 **The Pitch Meeting:** 
+  - Face-to-Face is always best. A Zoom call is a close second. A phone call should be the last resort. 
+  - Do NOT ask someone for a substantial amount of money through email or text, unless you’re sure the answer is unequivocally going to be, “Yes!” 
+  - We have two ears and one mouth for a reason. Listen more, talk less. Seek first to understand, then be understood.
+  - Let them tell you if they’re more likely to be a debt investor or equity investor. Understand their goals and the “why” behind their investment thesis. 
+
+  - Buzzwords for Private Money Lenders: Income & Security.
+  - Buzzwords for Equity Investors: Tax Benefits, Alternatives Investments, [Generational] Wealth-Building.
+  - **Be prepared to answer the following questions:**
+    - When do I get my money back?
+    - What are the risks?
+    - How much of your own money are you putting into this deal?
+    - What if I need my money back sooner?
+    - How will this affect my income taxes?
+    - What are the logistics?
+
+  - **Be prepared to share the following data:**
+    - Personal / Business Goals
+    - Why you’re doing this
+    - Track Record
+    - Deal Analysis
+    - You will need to prepare a summary of the investment that you are making. This should include an overview of the property and the market, a summary of financial information, your exit strategy, and the team you are putting together. 
+    - What’s in it For Them?
+    - When raising capital, the most common question from prospective investors is whether you are investing your own money and how much. You must be prepared to answer this question or else risk losing the deal. 
+
+
+- There are several ways to raise capital other than through an IPO, such as through an RBO, a REIT, a REIT-I, a PIPE, a BRRRR, a VCT, or a C corp. The most appropriate method for you to raise capital depends on your objectives and the availability of suitable investment opportunities. 
+ 
+- Cash-only deals can be problematic because they require more work from the investor, who may be less willing to invest if they don’t have the money right away. 
+ 
+- 506(c) offerings are restricted to accredited investors, but have several advantages over 506(b)s, such as the ability to advertise or generally solicit the offering publicly, which can help you reach  new investors and raise more capital. 
+  
+- The Private Placement Memorandum is a comprehensive document that details the risks involved in your deal, as well as provide a wide array of information and disclosures to prospective investors. The PPM should be drafted by a qualified securities attorney to ensure compliance and protect you from liability. 
+      
+- Keeping a record of your conversations with potential investors is crucial. There are numerous CRM solutions available to help you with this, such as AppFolio, Investor Management Services, and SyndicationPro. 
+ 
+- When raising money for a multifamily property, working with a private equity firm can be advantageous. These are the large investors who have the capital to fund the acquisition of large apartment buildings. However, they also have considerable power, and can force you to make changes to your plans if they so choose. 
+ 
+- If you can't or don't want to raise capital yourself, you have four options: start smaller, look for alternative financing methods, partner with someone who is well suited to raise capital, or hire or contract someone who will do so on your behalf. 
+ 
+- It is crucial to secure sound legal advice both before and throughout the fundraising process, as you are entering a complex regulatory environment. 
+ 
+- Raising private capital is a delicate balance between being approachable and not being a sell-out. It's crucial to have a positive relationship with your investors. 
+ 
+ - Private money lenders are accessible if you search for them. Private money lenders are not insured by the government, and can therefore be rather risky, but they can also be very profitable. 
+  
+- Networking is the process of building relationships with people to obtain business. You are not a salesman asking for money; you are a businessperson holding an opportunity. 
+ 
+- Networking is a crucial element in any real estate investor’s arsenal, and it can open up doors to many new clients and opportunities. 
+ 
+- Explain to the lender that these are investments, not sure bets, and that there is risk involved with any investment. However, as long as the lender gets their money back plus interest, they will make money. Furthermore, they will have a lien on the property that gives them full legal rights to seize the property if you break the agreement. 
+ 
+- Getting a private lender to agree to work with you on a deal is hard, since they are usually extremely conservative and only want to work with people they can trust. Once they commit, have them sign an agreement in writing. 
+ 
+- Private money lenders, also known as bank lenders or institutional lenders, provide loans to individuals or companies that would not qualify for a conventional bank loan. Lenders provide loans from $25,000 to millions of dollars, and charge interest rates between 10% and 25%. 
+ 
+- Private money is used in three different ways: borrowed in the form of a private money loan, pooled in the form of a blind pool, and invested in the form of a one-off. 
+ 
+ - The author likes to use a limited partnership to raise money for real estate investment because it is flexible and easy to manage. The investor is the owner of the company, and the manager is the general partner. 
+ 
+- Having a full-time employee to recruit investors is a great strategy, but be prepared to offer different funds with richer profit shares to attract more investors. Some investors don't care about the return, they just want a larger share. 
+ 
+- Private investors are a great source of capital for a rehabber as they are willing to invest their money in a project with the expectation of getting it back after a year with a 10 to 15 percent return. They are also willing to loan money to other investors, which helps expand the pool of money available for purchase. 
+ 
+- Although using private money is a good approach to buy property, it has its risks, and it is not suitable for everyone. It requires a great deal of networking and dealing with personalities, and the rates may be higher than those you would get with a conventional bank.
+
+# lease options
+
+- A lease option is a legal agreement between a property owner and a tenant that stipulates that the tenant has the exclusive right to purchase the property at a specified date. The tenant does not have to buy the property, but they cannot sell it to anyone else during the specified period. 
+ 
+- A lease option is a type of real estate investment that involves the purchase of a property with the intent of renting it out. The investor leases the property from the owner, who grants them the exclusive right to buy the property at a predetermined price within a certain period of time. 
+ 
+- A lease option is a type of real estate investment that involves buying the option to buy a piece of real estate for a set period of time. The investor decides how long they want the option to last, and once that time is up, they either buy the property or let it go. 
+ 
+- The lease option is a way for the investor to offer tenants the chance to purchase the property after a set period of time for a specified price. The investor acts as the lessor, and collects the option fee from the buyer. 
+ 
+- Lease option is similar to the traditional option in which the investor leases the property from the owner and then rents it out. However, in this case, the investor leases the property from the wholesaler instead of the owner, and then sells the lease to the property owner. 
+ 
+- The lease option sandwich is a type of investment strategy that involves two separate transactions on both sides of the deal. The first is the lease option, which is when the investor purchases a property from the current owner and leases it out. The second is the purchase of the house from the renter, which is completed after five years. 
+ 
+- The more time you have on your contract, the more options you have. It is also important to let the owner know what you’re doing so that no one is surprised. 
+ 
+- Treat your lease option agreements as a chance to create a win-win-win scenario and help others get what they want as well. Use your power for good, not evil. This means only entering a lease option with tenants who could very reasonably obtain a loan within several years, without charging an exorbitant option fee. 
+ 
+- The fourth strategy is known as a master lease option. It works similarly to a lease option in that there's a lease, a lessor, a lessee, and an option fee. However, with an MLO (master lease option), the lessee generally pays all the expenses associated with the property, including taxes, insurance, and any maintenance concerns - and then sublets the property out to tenants who then live in the property
+
+- Another problem that could arise is major repairs being required after the tenant has moved out, which the landlord is responsible for. This is something to keep in mind.
+  - one suggestion is to pay for a home warranty on the property (or have the tenants pay for one) at the start of the lease option, one that covers all major maintenance problems on the home.
+
+- be careful with lease option acquisition where you don't have control when the owner take back the property and you have no control on it.
+  - the depreciation can't be leveraged on lease option acquisition.
+
+# seller financing
+
+- The term seller financed refers to a property where the seller provides the financing. This can be done through a bank, a private lender, or even the seller themselves. The seller obtains a great interest rate on their money, while the buyer does not have to deal with a bank and pays just 5K for the property. 
+ 
+- Seller financing is another way for you to purchase a home, but it comes with risks such as the due-on-sale clause which gives the bank the right to demand full payment of the loan if the property is sold. This clause makes sense, as otherwise the bank would be liable for any unpaid balances after a sale. 
+ 
+- There are many benefits to using seller financing, such as the fact that you aren't required to put down as much money, since the seller is covering the rest. You also avoid having to deal with banks, which can make the difference between a deal and no deal for many people. 
+  - sometimes, the condition of a property may be too poor to allow you to use traditional financing. In these cases, seller financing can give the buyer a chance to own the property, begin fixing it up, and possibly refinance into a more traditional form of financing down the road.
+  - chances are your seller financed deal will not end up on your credit report. This can make obtaining other loans and mortgages in the future much easier.
+ 
+- Some sellers choose to sell via seller financing rather than just getting cashed out because they want monthly income, better ROI, or to avoid paying taxes.
+  - seller financing can help spread out most of those tax payments over the life of the loan on the seller financed property. the IRS has special tax rules for installment sales, so the seller may need to pay only a small portion of that tax bill each year while the loan is being paid off. Be sure to talk to a CPA for more details on this.
+ 
+- The fourth reason to consider seller financing is if you can't otherwise sell the property. This might be the case if it's in terrible shape, or if you're trying to unload a property that is not worth much and without needing to fix it up first.
+ 
+- Another creative use of seller financing is to allow the seller to finance just part of the deal, with a traditional lender financing the remainder. This can be done with a second mortgage, but you need to inquire about lender policies before attempting it. 
+ 
+- You can use seller financing to purchase properties, especially if you are able to get a loan from a lender. This allows you to purchase a property at a lower price than what it’s worth, and then refinance it for what it’s worth plus the amount of the loan. 
+ 
+- ways to find seller-financed deals
+  - ask the question "do you need to be 100% cashed out, or are you able to provide any seller financing?"
+  - look for keywords - when scanning the MLS, Craigslist, and other sources for finding properties, keep an eye out for phrases such as "owner will carry", "owc", flexible terms, seller financing, and "motivated" as well as any other indication that the seller is open to a conversation about seller financing
+  - direct mail - you can purchase lists of homeowners that specify how much equity the homeowner has in their property.
+ 
+- risks of seller financing
+  - due-on-sale clause - only use seller financing when sellers owns the home free and clear (i.e: when sellers has no loans on the property)
+  - higher interest rates than traditional mortgages from banks
+  - fewer potential properties - what are percentages of mortgage free homes in Canada and US?
+  - seller can call balloon payment on the properties. It may be a good opportunity to reduce the balloon the payment (over 30% of the balloon payment) if the seller wants to get the balloon earlier
+    - For example, follow the scripts: "we don't have the cash that's why we setup the deal that way? but in case we could return the balloon payment, how much cash you want to walk away today?"
+
+- Jerry Norton suggests 2 step process
+  - first make a low all-cash offer, perhaps 60 percent of the value of the home, to see if the seller is in a position to sell for a discount. Remember the phrases "all-cash" and "close quickly" for this.
+  - next Jerry would tell you to counter with creative finance. In many cases, the seller will counter back with a higher price, whatever they see on Zillow. Counter back that you are willing to pay more if the seller will accept a creative finance solution. This way, you can find out what is most important to the seller: Do they want less money now or more money later? Generally, this depends on their situation. Did they inherit the house? Is there a divorce underway? Or do they have time to use creative finance, which will earn them more money overall?
+
+# realestate wholesaling
+
+- A wholesaler is the middleman who connects the retailer to the product source, collecting a fee for doing so. A wholesaler is trained to market for those good deals, negotiate the best discount, put together a solid contract, and then sell at a markup to someone else who is not trained or prepared to do this. 
+ 
+- Yes, you can start wholesaling without any money by simply advertising properties and collecting offers. But to become a successful wholesaler, you'll need to invest time and money into marketing.
+ 
+- The first two strategies consist of driving around an area and mailing to property owners, and the latter consists of using direct mail.
+
+- The five main ways to find clients are: 
+  - 1) networking with other investors,
+  - 2) advertising in local newspapers, 
+  - 3) setting up an online profile, 
+  - 4) using online marketing tools, and
+  - 5) placing signs in public places. 
+ 
+- knocking down walls that get in the way, 
+  - 1) accepting the fact that you won’t be able to get every house, 
+  - 2) using the MLS, 
+  - 3) leveraging others, and 
+  - 4) empowering others. 
+ 
+- before finding wholesale deals, you need to find the buyer first, as the buyer would be able to tell if the deal is a good deal or not.
+
+- The first step to becoming a successful wholesaler is to find great deals. The old adage of you make your money when you buy is true for the wholesaler. So how do you know what a great deal is. It all comes down to the math. 
+ 
+- To determine the price you should offer a seller, you need to know what the average ARV of the homes in your area are. To do so, you can use websites and mobile apps that provide that information. 
+ 
+- The appraised value, or ARV, of a property is determined by comparing it to other similar homes that have recently sold. The appraiser adds or subtracts values based on the differences between the subject property and the comps. 
+ 
+- The most common method for wholesalers to estimate the property’s ARV is by using square footage. To do this, you need to know the price per square foot for each of the comps. The subject property’s ARV can then be estimated by averaging the price per square foot of the three comps. 
+ 
+- The first step to finding a good agent is determining if they are honest and reliable. After all, you'll be spending a lot of time with them, so it is important to feel comfortable with them. You can do this by checking their past sales figures and the prices they got for their clients. 
+ 
+- The 70% rule states that a property’s ARV should be about 70% of what it will appraise for when it’s ready to be sold. This allows for a certain amount of leeway when negotiating with tenants. 
+ 
+- Calculate the ARV of a property by multiplying its worth by a percentage. The percentage is determined by using a comparable property as a basis. The more similar the properties, the higher the percentage. After you determine the ARV, you can determine an offer price by subtracting the cost of repairs and your desired wholesaler fee. 
+ 
+- The second method is known as the Fixed Cost Method. With this method, you take the total costs of the house, such as holding costs, utilities, and closing expenses, and divide them among the number of units you are buying. The resulting number is known as the fixed costs. With this method, you can calculate your maximum allowable offer by subtracting your fixed costs from your appraised value. 
+ 
+- The Fixed Cost Method involves multiplying the dollar amount of the fixed costs by the number of times the property is expected to be purchased. This allows you to calculate the maximum amount you are willing to spend on a property. 
+ 
+- The 70% rule of thumb can be a good indicator of value when used in certain markets, but it should only be used as a guideline and not as a hard and fast rule. It's best to use the fixed cost method to be sure you are making the right offer. 
+ 
+- Before calculating the cost of rehabbing a property, estimate the amount it will cost to fix each part of the house, such as the living room if it has dog urine odor. Do not forget to include the price of replacing any damaged or stolen items. 
+ 
+- The final stage of prepping a rehab involves estimating the rehab costs for each category, or room in the house. This involves breaking down the house into its component parts, and figuring out how much each part will cost to replace or repair. 
+ 
+- When dealing with cash buyers, do your best to estimate the rehab costs and come up with a ballpark figure. Don’t spend countless hours trying to get it exactly right, since you won’t. 
+ 
+- A wholesaler's job of finding deals is much more difficult than that of a buy-and-hold investor or a house flipper. A wholesaler is therefore competing not only against retail buyers, but also against every other investor out there, and is at a disadvantage because they need to get the properties for even lower prices. 
+ 
+- Once you have agreed with the seller on a price, you and the seller should sign the contract. A contract is a legal document that states the terms agreed upon by both parties in the transaction. 
+ 
+- The earnest money is a deposit paid to the seller to show your good faith to complete the con- tract as promised. It is customary for the amount of the earnest money to be minimal, such as $1,000. 
+ 
+- After finding a deal, the next step is to secure the contract from the seller. This is done by having the contract reviewed and signed by both parties. The last stage is to get the property into the hands of a cash buyer. 
+ 
+- A cash buyer is any person or business that can buy your wholesale deal from you without needing to use traditional financing. In other words, they do not need to run to the bank and wait six weeks for a loan to close. 
+ 
+- Having a cash buyer list is extremely important, but don’t make it your top priority. Focus on wholesaling, and you’ll have no problem finding cash buyers.
+
+- interviewing all potential cash buyers and asking questions such as:
+  - how many deals have you purchased in the past six months?
+  - how quickly can you close?
+  - are you working with other wholesalers?
+  - what kind of properties (specifically) are you looking for?
+  - what kind of LTV are you looking for?
+  - what kind of property condition will you accept?
+
+- strategies for finding cash buyers 
+  - BiggerPockets. com is a good place to look for cash buyers. There are more than 200,000 members on BiggerPockets. com, many of whom are looking to buy real estate. 
+  - landlords on craigslist - not all these landlords/property owners will be cash buyers, but most investors with enough knowledge to buy multiple properties could probably also pull off a cash deal.
+  - real estate clubs
+  - real estate agents - if you can build a solid relationship with an agent, they can easily supply you with a list of all recent cash sales in any nearby location.
+  - online lead capture - if you have a website, you can easily setup a "lead capture form" that allows potential cash buyers to submit their name and contact information if they'd like to be added to your buyers list. You can drive traffic to your webpage through social media, online or traditional advertising, your biggerpockets profile, or good old cragslist.
+  - public record - your local public's record's office has information about every sale in your area.
+    - local title company can provide you a list of properties that have sold without a mortgage lien.
+  - craigslist ads - a simple subject line that states "wholesale realestate deals at 70% ARV"
+  - courthouse steps - anyone bidding on a property at the courthouse is a cash buyer. Get to these auctions early and stike up some conversations, hand out business cards, and create some long-lasting business relationships
+  - hard money lenders - good source of referrals to cash buyers.
+  - listsource.com - list for potential motivated sellers. Search for properties purchased within a specific period of time and focus on absentee owners who didn't record a deed of trust.
+ 
+- The best way to find a cash buyer is to simply notify everyone you know that you are selling your house, and then wait for offers to roll in. 
+ 
+- When dealing with a cash buyer, prepare a packet of information that outlines the deal. This includes the address and details, the financial outlook, the condition and repairs needed, and a bid from a contractor. Photos of the property, inside and out. Comparable sales for the neighborhood to justify your assumed ARV.
+ 
+- After finding a suitable cash buyer, you must transfer the contract to them. This can be done by providing a non-refundable fee to your buyer. 
+ 
+- The three most common wholesaling techniques are simultaneous closing, back-to-back closing, and double closing. The first involves closing the deal simultaneously with the buyer and the seller. The second involves closing the deal with the buyer after the seller. The third involves closing the deal with the seller after the buyer. 
+ 
+- The two techniques involve physically going to another room at the title company (or attorney's office), and immediately selling the property to a buyer, often within just minutes. The difference between the two techniques lies in the way the deal is funded. 
+ 
+- A simultaneous closing is when the end buyer uses their cash to fund both the purchase and the sale. In other words, the end buyer's cash will fund your purchase, and then that same cash will be used to pay you for the property. 
+ 
+- The back-to-back closing is a method used by wholesalers to purchase a property. The funds are provided by the buyer, who uses them to buy the property and then sells it back to the wholesaler shortly after. The buyer then uses the funds to purchase another property. 
+ 
+- The closing process involves the title company or attorney who closed the deal issuing a check for you, usually on the day of closing. You are not required to deposit this check into your bank account and can instead use it to continue growing your real estate investment business.
+
+# creative combinations
+
+- search for the pain point
+  - For example, seller got an unpermitted addition, doesn't make much money from the home, tired of dealing with tenants after many years.
+
+- ask question: "What do you need to walk away with?"
+
+- Jillian found a deal on a fourplex that she can buy for $80,000. The fourplex needs $20,000 in repairs, but Jillian has no money to fund them, so she comes up with a partnership with her family friend Grant. Grant finances the entire $20,000 repair bill and holding costs, while Jillian finances the rehab, takes care of the bills, and manages the property manager for the life of the partnership. 
+ 
+- Roland acquired a 12-unit apartment complex for $1,000 per month in rent, with a debt-to-income ratio of 25%. After paying the monthly mortgage, he was left with $4,200 in cash flow. He was able to gather $50,000 from the bank by providing a 15% down payment and a 75% loan to value. 
+ 
+- After saving up a down payment, which for this example is $5,600, the author was able to buy a house that needed some work, fix it up, and sell it for a profit. 
+ 
+- Furthermore, even though having a large financial cushion to weather storms can help you significantly offset risk, you cannot simply throw money at real estate investments and hope they turn out well. Education is key
+
+- Screen well! Screening your tenant is one of the most important steps you can take to ensure a positive landlording experience, especially with a lease option sandwich. Although tenant-screening practices are beyond the scope of this book, the most important things you can do are as follows: 
+  - Always run a background check on your tenant. Look for evictions, criminal activities, etc.
+  - Make sure the tenant/buyer has good enough credit. Their credit score doesn’t need to be 800 for them to qualify, but it needs to be reasonable/improvable for them to be able to get a mortgage to cash you out eventually.
+  - Look for stability. A tenant who moves every six months without reason is probably not a great candidate.
+  - Don’t discriminate. Doing so could land you in jail, so know your local and federal discrimination laws and adhere to them.
+
+- **executory contracts**
+  - similar to selling financing except you don't get the legal title of the property until after you've met the terms and paid off the full balance. As you make payments on the land contract, you will have what's called the equitable title to the property. This keeps the owner from selling the property to someone else or even putting the property on a lien.
+  - to protect your equitable title, file with your city or county a memorandum of land contract to put the public on notice of your interest in the property.
+
+- **subject-to means the sellers has some pain and sellers finance means the sellers has something to gain**
+
+- **subject-to**
+  - sub-to is short for "subject to existing finance". Rather than buying the property and paying off the existing loan, the investor takes over the existing loan payments that are already in place. The seller can walk from the property knowing the payments are being made, insurance is taken care of, and there are no additional hassles or further responsibilities to consider.
+  - typical place to look for sub-to is the expired listing
+  - **structure a sub-to deal**
+    - first determine the existing loan terms
+      - this includes the principal balance, the interest rate, the monthly payment amount, and whether there is a balloon or early due date to pay off the loan. To find out, simply ask the homeowner to provide the most recent mortgage statement or have them get a payoff letter from the lender.
+    - determine the equity. (previous owner owes - what's the property worth)
+    - decide on your exit strategy
+      - either flip the deal or keep it as long-term rental.
+    - discover any out of pocket expenses that may play into the deal, such as overdue property taxes on the home.
+    - figure out if you need to put any cash in the seller's pocket
+    - get an attorney of title company to wrap up the paperwork.
+    - creating another note that you owe them that mortgage balance for whatever the equivalent was $1600. Theoretically it washes out and most banks will let them use 75% of that income to qualify for their next mortgage. This is a way to help a seller feel better about deeding their property to you, but not having the loan paid off. This method doesn't get the mortgage off the seller's credit report. It still show up if they want to go buy a house that they have a $1600 monthly payment associated with the property.
+
+- hybrid offers
+  - combination of subject-to and seller-finance. For examples, subject to portion of the house to take advantage of mortgage payment with low interest rates, then setup consultant contract where the remaining payment can be counted as expense to the buyer, and the buyer can spread out the tax in multiple years. Even better if the sellers setup the consultant contract in country with low taxes, to leverage lower tax brackets.
+
+- **morby method**
+  - there're usually 3 reasons why a seller won't agree to seller finance
+    - the seller don't understand how it benefits them because the buyer have done a poor job telling them the story of how it works
+    - the seller really need the money right now, be it for a surgery of their daughter's wedding or something else
+    - they aren't motivated to sell the house in the first place.
+  - one possible option is to get the normal DSR loan for 50% of the cost and seller finance for the remaining 50% of the cost.
+  - acquisition people think these sellers are greedy, but in reality, these sellers are just trying to solve a problem in their life. They've often got some sort of baggage, and the only solution they have is the equity in their house. if you don't know this going in, you don't understand why they won't budget on their tactic. That's why you need to be willing to show up with a solution. If you're negotiating against what someone believes is their single tool to solve an emotional problem, your negotiations will fail. Find the bunnies. Re-home their problems.
+
+# making an offer that sticks
+
+- After you find the perfect property, the process of making an offer is relatively simple. The offer should include the price you are willing to pay, the method of payment, the closing date, the closing costs, and any contingencies. 
+ 
+- When a property is listed by a real estate agent, it is referred to as an on-market property. To make an offer, you will need a real estate agent to handle most of the paperwork and details. 
+ 
+- The agent is typically paid by the seller, while you, as the buyer, pay the agent. As such, you'll need to prepare your own PSA if the property isn't listed by an agent. 
+ 
+- When competing with other bidders, do everything in your power to stand out from the crowd. Shorten the period between your offer and the closing date, waive the inspections, reduce or waive your financing contingency, and provide proof of funds. 
+ 
+- Re-offering is when you start looking for another property and trying to buy it again. It is not a sign that you should lower your expectations or the quality of the property, but it is a sign that the  first offer was not enough. 
+ 
+- Auctions end with a bid which means the successful bidder has to pay the price the seller sets. If a seller does not respond to your bid, it does not necessarily mean that they will never respond to you. It could just mean that they don’t like your price. 
+ 
+- Following are some tips that will help you get better offers: send multiple offers, be patient, and don’t get discouraged if a deal doesn’t work out.
+
+- When a property is listed with a brokerage, an LOI must be signed by all parties involved before any money changes hands. This includes the buyer, the lender, and the seller. 
+ 
+- The process of competitive bidding entails brokers meeting with sellers to review all of the offers they have received. The strongest ones are then presented to the seller, who has a set period of time to decide which buyer they want to work with the most. 
+ 
+- It is also important to realize that other investors might be willing to pay more for a property than you are, since they are also investing in it. Do not let these considerations affect your valuation. 
+
+- Timing is important when it comes to buying a house. If you can get a letter of intent signed before the competition, you may be able to get a property at an attractive price and achieve better returns. 
+ 
+- Another trick you can use to get a better deal is by extending the timeline. If the seller seems unfazed by other prospective buyers, you have the opportunity to negotiate more freely. Non-monetary items such as retaining the current staff or not changing the property’s name can also help win you a better deal. 
+ 
+- The key to good underwriting is remaining objective and detached. You'll obtain the best bargains if you can keep your emotions in check and not get attached to a property. If you're funding the deal entirely by yourself, you may agree to less attractive terms or buy other properties instead. 
+ 
+- The letter of intent is a legally non-binding document between the buyer and the seller that outlines the general terms of a prospective property sale. It's a good idea to get one from a lawyer or real estate agent. The high-level terms should be included in the letter. 
+ 
+- You should include a personal message to the seller in the form of an email, or a video link if the seller does not have access to email. Make it easy for the seller to like you, and you increase the chances of your offer being accepted. 
+ 
+- The stronger your offer, the greater the chance it will be accepted. You can demonstrate your ability to close by providing a large deposit, shortening the timelines for any contingencies, all-cash offers, and limited-liability companies. 
+ 
+- the fifth rule is to raise your offer if the first four are not working. If the first four don’t bring you the results you want, try upping your offer. 
+ 
+- Once the seller signs the LOI, the next step is to have your attorney draft a PSA. The PSA should incorporate the terms of the LOI and should include a detailed list of provisions to protect both parties' interests. 
+ 
+- If you do not get the offer, do not be discouraged. You will lose out on far more deals than you will win, or else you are doing something wrong. Regardless of the outcome, it is worth building a foundation with the broker. 
+ 
+- When a property comes on the market, it is essential to understand the timelines and process the seller will follow for receiving, evaluating, and responding to offers. When there is no call for offers or offers will be evaluated on a rolling basis, speed is of the essence. 
+ 
+
+# due diligence
+
+- **why are sellers open to creative finance?**
+  - sellers can spread the tax costs over multiple years
+  - sellers has job loss, can no longer afford payments (higher interest)
+  - sellers wouldn't need to pay realtor fees
+  - sellers have low equity in the house
+    - sellers does not have enough equity to pay realtor
+    - early mortgage termination penalties
+    - value of the properties is less than the mortgages
+  - sellers can collect steady income monthly (like a bank)
+  - seller wouldn't have to pay mortgage penalties
+  - what's the walk away money that sellers want
+  - with seller financing, depending on terms (down payment, interest rates), the seller can get the higher price for the house
+  - sellers has some pain points such as:
+    - unpermitted addition
+    - not making that much money from the house
+    - been dealing with tenants for years.
+
+- **built-in exit strategies**
+  
+  - **wrap exit strategies**
+    - First, you can take a property subject-to or seller finance or a hybrid model or an agreement for sale, and you can sell those as a wrap. You're wrapper initial terms with your own terms (higher interest rates, higher price, higher down payment)
+    - you can't use a wrap for a lease option or a novation agreement or a note, because you don't own the property. You can only wrap a deal when you own the deal.
+    - your purchase agreement should give you 30-90 days to find a buyer, assuming you're in position where you can't maintain the property or don't want that hassle for this particular deal.
+    - you can make money from higher down payment, from higher interest rates (higher cashflow), from financing to another buyer.
+    - the best part: you still make monthly cash flow even though you no longer own the property, and you don't get involved with maintaining/operating the house
+  
+  - **lease option exit strategies**
+    - initial deal is 145000 mortgage as seller subject-to deal.
+    - advertise the deal on marketplace and some bandit signs (cheap, handwritten signs placed around tow) to find a lease option tenant buyer. They agreed to pay $185000 (it is calculated based on after-repair value (ARV) of $165000 and then the appreciation value over 5 years) for the property with an option fee of $10000, a lease payment of $1350, plus a five-year option to buy.
+    - from the seller's perspective, she gets positive cash flow of $513 monthly ($1350 - $837), plus she get the ownership of the property and the tax benefits of the property.
+    - why would the buyer want to lease the property for an extended period of time, in this case, 5 years.
+      - the tenant likely has been paying rent for some time and they've moved due to any number of reasons: community, work, their kid's school and so on.
+      - with the lease option, the tenant can lock in that rate even though it's more expensive the first year.
+      - the lease option tenant buyer have an option to buy, they can save some money and they have the option to buy after 5 years.
+      - or maybe the tenants couldn't borrow the mortgage
+    - does $10000 option fee get refunded if they choose not to buy? No
+    - will that $10K option fee go toward the overall purchase price? No. It's only meant to secure the option to buy
+    - do the payments of $1350 to toward the purchase price? it depends on the tenant perspective and the buyer
+    - like any of the exit strategies, the overall goal is cash flow, but you need to decide what works best for you, the seller, and the buyer when you're making these types of deals. Solve problems, create value. Try to be fair with everybody, and look for situations where everybody walks away content with the deal.
+  
+  - **sub-tail exit strategies and novation agreements**
+    - subject-to-retail. You get to own the property temporarily, then flip it on the retail market.
+    - you're going to see a lot of novation agreements, which is the process where the original contract is extinguished and replaced with another contract and a third party.
+    - typically, you can talk the owner in to subject-to (or keep the debt in place for the remainder of the flip) to avoid all of the lender fees and you only need to raise private money for the renovation.
+    - what's the difference between sub-tail and a novation agreement?
+      - on a sub-tail, you close escrow and take ownership of the property. The seller gets their money up front and they're no longer attached to teh deal. On a novation agreement, everybody gets paid at the end. The real difference is whether you want to be the owner of the property.
+
+  - **traditional rental exit strategies**
+    - subject-to, seller finance, hybrid wraps, lease options, agreement for sale.
+    - prefer SRRR (sub-to, rehab, rent, repeat) compared to BRRR (buy, rehab, rent, refinance)
+    - you must consider vacant months and any additional marketing you have to do to get a renter
+    - You're going to have to worry about these properties all the time. Renters trash houses and there's possibility of frequent turnover, evictions, and other headaches.
+  
+  - **group home exit strategies**
+    - "group home" is general term for assisted living and behavioral health homes.
+    - it's more complicated/bureaucratic with government oversight or that require a full-time staff or nurses.
+    - these homes can be bought subject-to and reach out CBI (community bridges, Inc) or PIR (partners in recovery) help you fill these homes with those in need (mental needs, physical needs).
+      - they will not only tell you where to start and how to run this business, but they'll also recommend other group home business owners whom you might be able to wholesale to if you decide not to manage the home yourself.
+  
+  - **vacation rental exit strategies**
+    - it's easy to oversaturate a market and there's always the possibility of something like COVID-19 pandemic happening and leaving your with pile of mortgages and little income.
+    - if you don't want to deal with customers, you can find an airbnb experts and you can pay her a certain amounts per home per month to handles everything.
+    - the first rule of doing an airbnb is to base everything on the rental rate. If you can't cash flow at the rental rate, you shouldn't take on the property.
+    - the second rule is that you need to have capital. You have to market and furnish and maintain the property. 
+    - third, you should get a partner. Work with someone who knows what they're doing because the airbnb model can be a lot of work, if you can get someone to manage the property and share the profits with, then that's a good situation. Then you don't have to work on assigning cleaners, responding when the Wi-Fi goes out, and all those other little pesky tasks.
+
+- It is important to have an inspection done on the property you are about to buy. The purpose of the inspection is to inform you of any problems that may need to be fixed, and to give an accurate assessment of how much it would cost to do so. 
+ 
+- Some buyers discover serious problems during a home inspection, and in that case, they must either abandon the deal or renegotiate with the sellers to address the problem. Retreating is the practice of renegotiating a deal after discovering something during the due diligence process. 
+ 
+- It is the buyer's responsibility to review all the financial information provided by the seller, such as the rent roll, the income and expense report, and the tax return. 
+ 
+- You will check the seller's tax returns to be sure that the income and expenses being reported to you are accurate. You will also need to review any third-party contracts pertaining to laundry machines, cable TV, internet, security systems, landscaping, and more. 
+ 
+- Before you sign a lease or buy a multifamily property, you should always have the tenant fill out an estoppel certificate, which documents the details of their lease. The certificate should include the names and addresses of all individuals living in the unit, as well as their rent, security deposit, and any pets. 
+ 
+- check the area is either zoned for multifamily use or the property has been grandfathered in to allow for this use.
+
+- Before buying a property, make sure there are no outstanding permits with the local government. You can do this by visiting the local building department and explaining to them that you plan to buy the property and want to see what outstanding permits or infractions may cause you issues. 
+ 
+ - Getting a loan on a property entails having the lender covered by insurance. This is to protect both the lender and the property owner in case of claim or lawsuit. 
+ 
+- Remember to set up your automatic mortgage payments during the pre-approval stage or right after you close on a property. This will help you avoid missing payments and negatively affecting your credit score. 
+ 
+- Before signing the lease, you should inform the tenants that you will be sending them a letter regarding how to pay their rent, and that you will be handling the rent collection. 
+ 
+- At the end of the process, you’ll receive your keys and know that all the paperwork has been recorded with the county government. You’ll feel like you climbed a mountain. 
+  
+- The first step in the due diligence phase is to complete any remaining underwriting tasks. These include checking for building permits, apartment condition reports from previous tenants, and so on. They generally require little additional capital, and if you find a major problem you can usually salvage the deal by paying for repairs. 
+ 
+- During underwriting, you should have reviewed the property's income and expense statements, including their T-12 and the last three years' worth of statements. You'll want to get an updated T-12 during due diligence to make sure nothing has changed significantly. 
+ 
+- To conduct a lease audit, you'll need copies of all the leases. Make sure you have a copy for every unit shown as occupied on the rent roll. 
+ 
+- The walkthrough is an important step in the due diligence process. During the inspection, the investor should check every nook and cranny of the property, from the common areas to the individual units. The investor should also take note of any issues he or she encounters during the inspection. 
+ 
+- A market survey or market report will evaluate the property's rental market, and may include information such as rents, class, and amenities. It is recommended to conduct a full market survey or hire a consulting firm to do so. 
+ 
+- Some important due diligence steps are driven by the lender and must be completed by 
+lender-approved vendors. These include the property condition assessment, environmental site assessment, appraisal, survey, and title report. Not all lenders require them. 
+ 
+- A Physical Condition Analysis, or PCA, is a thorough inspection of a property’s systems, conducted by a commercial contractor, and used by lenders to determine the property’s condition. The report will indicate any long-term repair issues and the cost of required work. 
+ 
+- You will conduct a full due diligence check on each property, which may include contacting local authorities to ask about recent criminal activity, getting a copy of the property's title insurance and survey, and checking for any outstanding permits or licenses. 
+  
+- The author acquired a 126-unit apartment complex for $5 million, despite the fact that the property was appraised at $2 million less. The property was bought for $5 million and financed for $4.7 million, which allowed the buyer to avoid a prepayment penalty.
+
+- Your due diligence as the buyer begins to wind down is to work with your attorney to prepare closing documents and line everything up. The lender’s attorney usually produces a closing checklist that needs to be addressed in order to close, with notations on which party is responsible for each item. 
+ 
+ - Deeds are the main written documents that transfer ownership. A deed must be signed and notarized, and meet a host of other legal requirements that vary by state. 
+ 
+- As part of your due diligence, you should have a title search done to make sure there are no outstanding liens or encumbrances on the property. Furthermore, you should purchase title insurance to protect yourself in case anything goes wrong with the title. 
+ 
+- Lenders do not always require a title insurance, but it is a good idea to have one anyway. The title insurance protects the buyer in case there are any claims against the property in the future. 
+ 
+- A third party, such as a title insurance agent or a lender, may conduct a Uniform Commercial Code search on the property to make sure there are no outstanding loans or financial agreements against it. 
+ 
+- When a buyer acquires a large multifamily property, they are usually acquiring more than just the land and the physical structures. They are generally acquiring a variety of personal property, such as vehicles, lawn care and snow removal equipment, maintenance and repair inventory, office equipment, and tools. 
+ 
+- This is the nine-digit number that identifies your business to the IRS. You will need this after you have formed your business. -> The articles of organization and all the necessary amendments will be prepared by your attorney and sent to the attorneys of the buyer and seller. They will be reviewed and accepted. 
+ 
+- The closing statement is a list of all the payments and expenses associated with buying a home. It is customary for the buyer to pay for their own legal fees, and they are responsible for lenders’ expenses. 
+ 
+- The first step is to determine what the taxing jurisdictions are, the fiscal year, and when taxes were due. The second step is to check the tax receipts and confirm that taxes were actually paid in full and for what time period. The third step is to prorate the taxes paid, and the fourth is to make any necessary adjustments to the settlement statement.
+ 
+- The second is calculating how much rent the property is actually worth, which involves 
+multiplying the monthly rent by the number of days in the month. This is called prorating the rent. You should make sure the PSA clarifies who is responsible for collecting past-due rent, and whether the seller or buyer is responsible for collecting it. 
+ 
+- Security deposits should always be transferred to the buyer in full at closing. Be sure to check the list of security deposits against the results of your lease audit before confirming the transfer on the settlement statement. 
+ 
+- The closing is the final step in the BRRRR process. It involves finalizing all the legal documents, paying all the bills, and transferring all the title to your name.
+
+- Between the legal work, lender requests, and capital raising, the weeks preceding closing can be hectic. It's crucial to go over all the documents one last time before signing them. 
+ 
+- The closing process varies from one deal to the next, but generally involves a title search, a walkthrough, and the signing of closing documents. It is crucial to have a strong team working with you to look out for your interests. 
+ 
+- The biggest challenge the investors faced was convincing the lender to allow them to assume the mortgage on the property, with a principal balance of $4.7 million. It took them four months to do so.
+
+
+# getting crystal clear on your criteria
+
+- When you know what you want, it becomes easier to spot it when you see it. For example, when looking for a new car, having clarity about your requirements will help you avoid wasting time on duds, allowing you to spend more time on deals that meet your requirements. 
+ 
+- Becoming a subject-matter expert in a particular area helps you secure better deals. It also allows you to be the go-to person for others in your network who are looking for advice on that particular topic.
+ 
+- The RAS is a part of your brain that determines what’s important, based on what you believe is important. It allows you to take in only the necessary information. 
+ 
+- Focus on one area at a time and you will see your success grow exponentially. Don’t spread yourself too thin by trying to invest in too many things, because you will only slow down and won’t gain the skills, knowledge, and experience you need to become a successful investor. 
+ 
+- A good leader will have clear goals for their team and be able to align them towards a common mission. 
+ 
+- Having clearly defined goals makes it easier for others to help you. For example, when asking for real estate agents, ask for those who can provide you with deals within a specified price range. 
+ 
+- You should start your Core Four Count by establishing your Cash Flow Core. This will help you decide which investments to make and which ones to avoid. 
+ 
+- Podcasts are a great resource for hearing about what other investors are doing and how they did it. After hearing many success stories, you will be more inclined to try out new strategies and approaches. 
+ 
+- Having conversations with like-minded investors allows you to discover the constraints and opportunities of your location. By gathering this information, you can better prepare your financial plan and buy right. 
+ 
+- Before getting into multifamily property, you must determine what type of deals you want to pursue. This will help you develop your crystal clear criteria, or CCC.
+
+- When it comes to multifamily investing, narrowing down your focus to specific properties and areas helps you immensely. After all, there are hundreds of thousands of multifamily properties for sale, and you wouldn’t want to waste your time evaluating them all. 
+ 
+- Having a solid understanding of the multifamily market will allow you to establish credibility with brokers, lenders, and investors. 
+ 
+- The first step in defining your investment criteria is to do a self-evaluation. You'll want to consider your skill set, access to capital, location, knowledge and experience, risk tolerance, and personal preferences. 
+ 
+- The Multifamily world is extremely competitive. The larger you go, the stronger the competition. Based on your assessment, challenge yourself to identify potential strengths and weaknesses. What are you better at than other investors. What are you willing to do that other investors aren't. Think about both your current strengths and weaknesses. 
+ 
+- The first parameter that you should consider when selecting a market for your multifamily investment is the geographic market. The advantages of investing in a primary market, as opposed to a secondary or tertiary market, include access to more deals, familiarity with local government officials, and a greater likelihood of success. 
+ 
+- The factors that affect the desirability of a location include crime rates, demographics, and the local economy. These factors vary from city to city. 
+ 
+- Multifamily housing comes in many different forms, and while there are no industry-wide standards, the types that are most common for investors to purchase are high-rise, garden-style, manufactured home parks, student housing, and senior housing. 
+ 
+- There are five classes of multifamily buildings, from the best quality to the least. The best ones are Class A and Class B, which are located in major cities. They have the best finishes, the newest buildings, and the highest rents. Class C and D buildings are usually in less desirable locations, but they also have the greatest potential to add value through renovations. 
+ 
+- The amount of money you have to spend on a house is called the cap rate. It is calculated by dividing the purchase price by the square footage of the property. 
+
+- The underwriting criteria that you set for yourself are strictly internal metrics. You would not share these with a broker or any other party helping you find a deal. However, if raising capital, you would inform your investors about your financial targets. 
+ 
+- The first step in the BRRRR method is to define your investment criteria, which includes the type of property you want to buy, its location, class, age, price, and target returns. 
+ 
+- The author acquired a multifamily property that met all the requirements of an excellent investment: it was a Class C property with more than 100 units, located in a good location, and it had bad management.
+
+- what's A, B, C neighborhood
+  - A or especially A+ is the built in the last five or ten years. It’s the shiny stuff downtown, high-rises on the water. You’re going to pay $2500-$3000 a month for it. B is more of your working class, solid job, people that maybe could buy a house but just choose not to. It’s got a pool, it’s got a fitness center. It’s a clean property but maybe it’s 20 years old or 30 years old. C, that’s property that maybe were built in the ‘70s or ‘80s or even ‘60s. More lower to moderate income people who probably can’t get a house. They’re renters for life.
+
+- one possible set of criterias:
+  - does median income support the rent you want? (income at least 30% of rent)
+    - City-Data.com and RichBlocksPoorBlocks.com
+    - less than 15% of the population to be under the poverty level.
+  - is population growth positive?
+    - Generally, we want to see the population growth that exceeds the national average. So over the last ten years, the national average was like 9.7%. If that town that we’re in is growing faster than that, that’s generally a good sign.
+  - is it flood zones?
+    - go to FEMA website, pull up the flood zone maps, and make sure we’re not in a flood zone
+  - what's the crime rate in the neighborhood?
+    - heat maps from Trulia
+  - is it built after 1970s 1980s?
+  - can the pipes be repaired or need to be replaced?
+    - i.e.: Polybutylene pipes should be replaced because they can't be repaired. Their average lifespan is 10 to 15 years. If you have polybutylene pipes in your home, then you should replace them before they break.
+  - what's the cash flow on the property?
+  - what's the small cosmetics value add opportunities on the property?
+    - what's the landscape looks like?
+    - can it be painted?
+    - can I replace the floor with vinyl flooring?
+  - is the roof flat?
+  - is the property currently self-managed?
+  - no mixed use and high rises, preferred garden-style, single or 2 story apartment complexes
+
+# property type (CCC No. 1)
+
+- Shopping for a ring is a difficult task, and the same is true when choosing which type of investment to make. The five-point crystal-clear criteria helps narrow down the options. 
+ 
+- There are many different multifamily property types available. Some of the more common ones include duplexes, triplexes, and apartment buildings. 
+ 
+- A side-by-side multifamily property has several units that are separated by only one wall. Because of this, tenants do not have to worry about their ceiling or flooring sharing space with another tenant, which eliminates noise complaints. 
+ 
+- A multifamily property with a shared staircase between the units is known as an up-and-down property. They are mainly found in duplexes, but not uncommon in triplexes and fourplexes as well. 
+ 
+ 
+- Cottages, like side-by-side houses, are stand-alone houses that do not share any walls with their neighbors, which makes them feel more like single family homes and less like apartments. This attracts higher-quality tenants. 
+ 
+- A monster house is a single family home that has been renovated to include multiple unique units within the structure. The primary characteristic of a monster house is that it was not originally intended to be a multi-family property, but is now being used as such. 
+ 
+- If you buy a property that was once a single family house but is now a multifamily dwelling, it will be considered non-conforming and therefore illegal. This is the worst type of property to own as a rental.
+ 
+- Permits are not just a way for the government to extort more money from you. They are a safeguard to ensure that the work done on a property is up to code and safe. Buying properties that do not have permits for the additions or remodeling that has already been done is risky, and could cause problems if you try to resell the property someday. 
+ 
+- One major drawback of buying a big house is the inability to obtain conventional financing due to zoning issues. Even if the property has been renovated and you're getting a good deal, if it's an illegal multifamily property, you won't be able to obtain a loan. 
+ 
+- Avoid legal hassles by avoiding illegal rentals. 
+ 
+- The third way to acquire a property is to buy an illegal, nonconforming property and make it legal. This requires the least amount of work and money, but also has the highest risk. 
+ 
+- Small apartments, known as starter apartments, can be good investments. They usually have low rents and are perfect for first-time tenants who live alone. They also require constant maintenance because of their age and lack of modern features. 
+ 
+- Garden apartments are a type of multifamily property that feature greenery all around the building. They are typically located in suburban areas. 
+ 
+- Accessory dwelling units, also known as ADUs, are secondary homes that are built in addition to a single-family house. They can be standalone structures or converted areas of the main house, such as a basement or attic. 
+ 
+- The author's personal favorite type of multifamily property is the side-by-side duplex. Whenever he searches for such properties online, he clicks through to learn more. 
+
+
+# choosing your location (CCC No. 2)
+
+- The second step in the CCC method is to narrow down your choices to local or long-distance. This requires a significant amount of research and knowledge about the local real estate market. 
+ 
+- When you invest locally, you're right there with the action. It's easy to visit a property and check it out, but is that what you want. Or would you rather have someone else do that for you. 
+ 
+- The last benefit of investing long distance is that it gives you the opportunity to invest in numerous markets, which in turn allows you to benefit from the strengths of each one. 
+ 
+- Local investors have the advantage of being able to interact with the property managers and other stakeholders in the community, which can help them get deals done. 
+ 
+- It's important to understand that cash flow and appreciation are not mutually exclusive. If you buy a small multifamily property, you can get both high cash flow and high value. 
+ 
+- Do not buy a property if it will lose money. Cash flow is king even in an appreciating market. The question is, how little cash flow are you willing to accept. 
+ 
+- When it comes to the likelihood of appreciation, the simple fact is that expensive markets generally have high appreciation potential while cash-flow-friendly markets generally have low appreciation potential. 
+ 
+- The classes of neighborhoods are A, B, C, and D. You should be able to tell which class a neighborhood is just by looking at it. In addition, you should be able to tell from the neighborhood's appearance whether it's experiencing a revitalization or a decline. 
+ 
+- It's also important to avoid areas with a high crime rate or that are on the rise, especially if you will be traveling by foot. You can easily research such areas using the internet. 
+ 
+- The quality of the school district is also important, especially if you are investing in smaller units that don't attract tenants with children. 
+ 
+- The price of real estate and the rents that can be charged to tenants are based on supply and demand. The more people who want to live in a specific location and the less housing available, the higher the cost of rent. This is why places like California, Hawaii, and New York City have such high rents. 
+ 
+# property condition (CCC No. 3)
+
+- The author bought a house that was infested with bedbugs. He decided to evict everyone and do a full restoration, including a new roof, siding, and renovation of all the units. Six months after the tenants left, one of them returned and began squatting. 
+ 
+- While most would prefer to buy a new, pristine property, this is not a perfect world, and not all properties are suitable for investment. You will have to make a choice between higher or lower returns, and the higher the risk, the greater the profit. 
+ 
+- Purchasing in poor condition not only allows you to add value to a property, but it also allows you to perform major renovations that would otherwise need to be done in the future. 
+ 
+- Don’t assume that rehabbing a property makes it a good deal. If you don't know your numbers, you might end up overpaying. 
+
+- When you rehab a property, you can often get a higher-than-average rental rate. After all, tenants prefer a nice, clean unit to an older and uglier one. However, in a Class A neighborhood, tenants expect a Class A product, so don't expect to get above-average rent. 
+ 
+- Banks are in business to make money. The number one priority of a bank is to maintain a positive balance, which is achieved through making loans. Every bank makes decisions regarding the funding of its loans based on one factor: risk. 
+ 
+- Having a rehab done can be a very frustrating experience, especially if you’re not equipped to handle such a task. However, you can minimize the damage by creating a system that allows you to keep a check on the progress and identify any issues before they become big problems. 
+ 
+- The process of estimating the cost of a rehab is called estimating rehab costs. It entails multiplying the estimates of the various items in a rehab by their respective costs. 
+ 
+- It is important to keep in mind that rehabs take longer and cost more than anticipated, so plan accordingly and budget conservatively. 
+ 
+- A cosmetic fixer is a rehab that only requires a facelift. These can be extremely lucrative because they don’t require much effort or money, but they do require perfect cosmetic condition, which scares away investors looking for a perfect passive investment property. 
+ 
+- Investing in fixer-uppers entails taking on a project that entails improving the condition of a property, as most banks will not lend on a property that is in poor shape.
+
+# price range (CCC No. 4)
+
+- By identifying your budget, you can more easily filter out the offers you receive. Your budget allows you to purchase a property, not rent it. 
+ 
+- The first step in determining your spending limit is to figure out how you’ll be financing the property. This means you'll need to know what down payment banks and lenders require. 
+ 
+- The most you can put down on a house with a traditional loan is $160,000. It's just math. If you have less cash, there are alternative methods to purchase property, such as the BRRRR method or partnerships that allow for more creative financing. 
+ 
+
+# profitability and analysis (CCC No. 5)
+
+- The first metric that you should look at when evaluating a deal is its cash flow. Cash flow is the most important metric for BRRRR investors. It is the amount of money that a property generates after paying for its expenses, such as the mortgage, taxes, and insurance. 
+ 
+- Your target cash flow per unit is calculated by taking your total cash flow and dividing it by the number of units. 
+ 
+- To analyze a deal, you need to use the Four-Square Method. This is a simple four-step process that determines a property's cash flow and cash-on-cash return. 
+ 
+- The first box in the Four-Square Method is the income box. This means you need to know exactly how much money the property will generate. This might include rent, plus any other sources of revenue, such as laundry machines, storage rentals, or parking. 
+ 
+- Even if you're buying a property with existing tenants, you may not be able to immediately increase the rents because the tenants may have signed a lease (a legal document that defines how much their rent is for a set period of time). It is best to check with the tenants to see if they are willing to renew their lease at the new rate. 
+ 
+- The last step is to calculate the total monthly income. This will be the final figure that you enter in Box 1 of your cash flow statement. 
+ 
+- The second step in BRRRR is to identify the specific expenses of a property, so you know if it’s worth buying or not. 
+ 
+- To determine your cash flow, identify what utilities you are responsible for paying as the landlord, such as water, electricity, and heat. Then factor in the costs of these utilities. 
+ 
+- Ask the agent or the current owner about the maintenance costs of a property. These costs may include snow removal and landscaping. 
+ 
+- Knowing the current tax situation is crucial, as it may change suddenly if you buy a property. Some counties reassess the value of a property when it's sold, which can dramatically raise the amount you'll be paying in taxes. 
+ 
+- Rental property insurance protects the building and landlord-owned items from damage, and can help cover a tenant's lost rent if the property is damaged and unusable. 
+ 
+- The more vacant periods a property has, the more money it loses.
+
+- Vacancy rates of at least two units in a fourplex can be expected to be around 7.6 percent in 2019, which means that the fourplex would have been empty for the past two years, on average, every month. 
+ 
+- The total pure cash flow of a property is the monthly rent, minus the monthly expenses, such as mortgage payments, insurance, and property taxes. 
+ 
+- The amount of money you set aside to cover repairs is based on a number of factors, such as the condition of the building, the age of the units, and the area in which the property is located. The algorithm presented here helps you arrive at a reasonable number. 
+ 
+- Capital expenditures are investments that improve the value of a property. They include replacing appliances, windows, and roofs, as well as adding new features to a property, such as a swimming pool. 
+ 
+- The sad truth is way many real estate investors buy a property that is expected to generate a positive cash flow, but instead are continually losing money due to ongoing CapEx. 
+ 
+- The Multifamily Capital Expenditure Budget Algorithm, or MCEBA, is a tool that allows you to figure out how much money you should set aside for capital expenditures in a multifamily property. It takes into account the amount of units in a property, and the age of the units, to give you an idea of the amount of money you should be setting aside. 
+ 
+- A property’s cash flow is determined by four factors: the rent, the expenses, the down payment, and the property’s cash-on-cash return. 
+ 
+- The Cash on Cash Return looks at your cash flow after you've paid for the property, including any closing costs and repair costs. 
+ 
+- The cash-flow percentage that a property will provide is dependent on the local market conditions. If you're investing in a market with low growth and low appreciation, your cash flow will most likely be low as well. 
+ 
+- Always look at both cash flow and capital gain when buying a property. By setting a minimum purchase price for both cash flow and capital gain, you make sure that you’re not simply buying cash flow with a large down payment. 
+ 
+ - Do not let your emotions get in the way when investing in real estate. The most important thing when investing in real estate is to understand the numbers, which means you have to be able to separate your emotions from the numbers.
+
+- The Park Place Apartments property was bought for $1.2 million, and its after-repair-value, or ARV, was $2.3 million. The investors would be paying $1.6 million for the property, and its after-repair-value, or ARV, was $2. 
+ 
+- The first step in the BRRRR method is to calculate your debt service coverage ratio, or DSCR. You should aim to have a DSCR of 1.2 or higher. 
+ 
+- Bridge loans are used to finance projects that require high amounts of capital, such as heavy equipment rentals or large-scale renovations. Bridge loans increase the cost of borrowing but can reduce the amount of capital you need to close, avoid prepayment penalties, and boost your returns. 
+ 
+- The BRRRR method entails making a down payment on a property that is as large as possible, while staying within your means and the means of the lender. The down payment should be large enough to cover the rehab cost and the property's fair market value. 
+ 
+- The goal of property valuation is to establish a property's worth, which is used to determine how much money you can borrow against the property. There are several valuation methods, the most common of which is the direct capitalization approach. 
+ 
+- The capitalization rate is the rate at which a property’s net operating income is valued by investors. It is used to compare the profitability of one investment to another. 
+ 
+- To calculate the property’s value at disposition, or reversion value, you first need to calculate the property’s net operating income in the final year of ownership. Then, you need to determine the current market cap rate by contacting brokers, appraisers, property managers, or other investors, or conduct market research. 
+ 
+- To calculate the selling price of a property, divide the NOI by the exit cap rate. To calculate the transaction costs, divide the closing costs by the sales price. 
+ 
+- The cash-on-cash return is the percentage return earned on the cash that goes into the project. It is one of the most commonly used target returns by investors. 
+ 
+- The COGS are calculated by dividing the total cash flow of a property by the number of years the investor plans to hold the property. The resulting number is the amount of money the investor will get back each year. The target CoC for investors is between 6 and 12 percent, depending on their risk tolerance. 
+ 
+- The calculation of the CoCo rate is based on the total amount of equity invested at the end of each period. You must calculate the annual return based on how much equity remains invested at the end of each year, since you may receive a capital return, such as a cash-out refinance, that returns equity. 
+ 
+- The AAR is a measure of the average return over the entire holding period, and is calculated by adding up all the individual annual return rates of your investment and dividing by the number of years you anticipate holding the property. 
+ 
+- The internal rate of return is the annualized rate of return on an investment. It is calculated by taking the net present value of a future cash flow and dividing it by the initial amount. 
+ 
+- The internal rate of return is the interest rate at which the project's cash flows equal the initial investment. It is a measure of the efficiency of a project's financing. The higher the IRR, the more efficient the financing. 
+ 
+- The last step in the BRRRR method is to conduct a stress test on the entire project, which involves checking how the project will perform if some of your key assumptions were incorrect. This allows you to identify any weaknesses in your underwriting and correct them before moving forward.
+
+- **asking better questions**
+  - creative finance investors often haven't asked enough about their sellers. they are more focus on closing the deals than they are on figuring out what the situation is for the seller.
+  - typically the questions is asked about house price, year built, vacancy rate, seller's motivation, etc... Sometimes, the sellers will give you these information on the first call, most of the times, they won't. People are naturally a little closed off, especially when talking to strangers on the phone. The longer you talk the more information you likely to gather.
+  - "catch me up to speed with everything". This is for the seller to present information so I can figure out whether I can help them.
+  - it's possible for the seller to say the exact opposite of what they told previously simply because they put up walls during a phone conversations; those walls tend to come down when you're face to face with a person
+
+- **common questions sellers ask**
+  - is it risky to have multiple loans?
+    - it doesn't matter if you have 2 loans, it matters if you're responsible for those loans
+  - what happens if the creative finance investors stop payment and the loan is still in the seller's name"
+    - that would be the best thing that could happen to the seller, as the seller would get the house back, even after the investor paid for the arrears, paid closing costs and put some cash in the pockets of the sellers.
+    - the seller and buyer will sign a piece of paper called a performance deed if the buyer don't perform or the investor is 30 days behind, the seller automatically get the deed back.
+  - is subject-to legal?
+    - yes, it's legal
+  - what happens if the market crash? where the investor owe the bank more than what the house worth?
+    - the investor don't buy the house based on the value of the house, but based on the cash flow it represents.
+    - the thing about 2008 (great financial crisis) is that even though the market crashed, the rental rates went up. The rental rates in the country haven't gone down in 30 years.
+  - what if the investor die or get abducted by aliens?
+    - the answer for this is performance deed again
+  - can the seller buy the house back from the investor?
+    - rarely, but most people don't want it back when the times come
+  - if the investor buy the house, can the seller stay in the house and rent it from the investor/buyer?
+    - no, because the rent is typically will be higher so the investor/buyer can make profit 
+
+# multifamily millionaire model
+
+- The Multifamily Millionaire Model only applies to properties with four units or less. Larger multifamily buildings need to be valued using a different method. 
+ 
+- If you want to know the true value of a property, you must disregard the mortgage and compare the profit generated by the property to that of other similar investments. 
+ 
+- To better evaluate a commercial real estate investment, we need to calculate the return on investment. This is simply the amount of profit we make compared to the amount we paid to buy and run the business.
+
+- Your NOI is the profit you make after paying the expenses associated with running your business. It is calculated by taking your revenue and subtracting your expenses. 
+ 
+- To determine the value of a single-family house, you compare it to what other similar houses in the same area have sold for, while to determine the value of a commercial building, you compare it to what other commercial buildings of a similar asset class in the same area have sold for. 
+ 
+- By increasing the rent, you can increase your monthly income by adding more units. The total income from all the units combined is known as the Gross Rental Income. 
+ 
+- The NOI of a property is the amount of money that the property makes in a year, divided by the total amount that it costs to operate the property. The NOI is used to calculate the value of a commercial property. 
+ 
+- Sometimes, you will inherit a property from a previous landlord who neglected it. In such cases, it is important to try and find ways to reduce the cost of maintaining the property while maintaining its condition, as a result increasing its rent. 
+ 
+- The BRRRR technique helps you get a better return on your property by lowering its acquisition and rehab costs. 
+ 
+- The goal of this strategy is to buy low, improve the income, and then sell high. You will have added massive value to the property through the process. 
+ 
+- By increasing the income and/or reducing the expenses of a property, the net operating income increases, which can significantly raise the value of a commercial property.
+
+- As your investment portfolio expands, so does your responsibilities, and your team of specialists must expand to keep up with your needs. You’ll need to delegate more tasks to others in order to grow. 
+ 
+- The first step in creating a multifamily team is to decide what kind of team you want. Do you want a full-fledged team that shares ownership in your deals or company. Do you want contractual or vendor relationships. Do you want full-time or part-time team members. 
+ 
+- The first step in building a successful team is to identify your greatest strengths and how you can add the most value towards achieving your goals. Then look at your weaknesses and the tasks that make you miserable, and find people who can help you cover those areas. 
+ 
+- It is important to select a team member who will add value to your business. It is also crucial to be wary of bringing someone into your business who has a lot of unresolved issues or a bad reputation. 
+ 
+- When building a team, look for people who are kind, courteous, humble, and considerate. Those are the team players you want on your team. 
+ 
+- When deciding what type of relationships to form with your team, weigh your priorities and the resources you have available. If you're short on cash, you might consider partnering with others who are willing to work for the promise of a share of the future profits. 
+ 
+- Consider what other roles you may be filling, and whether those roles should be handled by you or a third party. For example, if you're managing your own properties, you’re gaining valuable knowledge and saving money, but you’re also in charge of both the investment and property management sides of things. 
+ 
+- You should also work with a property manager and an insurance agent. The right insurance policy can reduce your overall insurance costs by as much as 10 percent in a multi-unit building. 
+ 
+- When choosing a property management company, look for ones that have a successful track record in the same area as your properties, have good references, and are trustworthy. Other factors that can be important to you are their integrity, customer service, and cultural fit. 
+ 
+- Having employees can make sense if you have the resources to spare and the capacity to manage others. Salaried and hourly employees can sometimes be a better solution for getting work done at a faster rate than you would be able to pay someone under a contract. 
+ 
+- Having a good relationship with your property manager is crucial to ensure a smooth running of your business. If you are planning to partner with someone, understand that you are giving up a lot of control, but hopefully gaining it back in return. 
+ 
+- A good partnership agreement should be clear and concise, and should address issues such as buyouts, dissolution, and disputes. It is best to have a lawyer draft the agreement. 
+ 
+- Relationships are hard work, and you have to go out of your way to meet people. As you build these relationships, you must constantly assess and reassess them to determine if a partnership is right for you. 
+ 
+- Another method to choose your business partners is to use personality tests and skill assessments. 
+ 
+- It is important to recognize your weaknesses and leverage the strengths of others, whether those people are employees, third parties, or partners. 
+ 
+- The author and his team inherited a project in disarray. The property management company they were working with had stripped the office bare. The former employees had stolen everything.
+
+- The largest debt is usually found at the bottom of the capital structure in the first position, which is secured by the property. The first lender would get paid before any other creditor in the capital structure. 
+ 
+- The first is to contribute all the cash yourself. The second is to do a joint venture with other investors. The third is to syndicate the deal. 
+ 
+- The first option is to cover the cash requirements of the deal by using your own money. The best legal entity for doing so is the single-member limited liability company. You'll have 100 percent ownership and control over the property, but you'll need to fund it yourself. 
+ 
+- A joint venture is when you team up with other investors to buy a property. The most common type of joint venture is an LLC, but there are other legal structures you could use. Joint ventures require a lot of upfront communication to make sure everyone is on the same page. 
+ 
+- Syndication is a form of investment in which several investors pool their money to buy a property or a portfolio of properties. The investors give up part of their ownership in the hope of sharing in the profits after all debts are paid. 
+ 
+- There are two types of capital used in real estate deals: debt and equity, both of which can come from different sources. Debt is the cornerstone of most deals, and is usually in the first position in the capital stack. Equity/cash is at the top and is last in line for repayment. 
+ 
+- There are high costs associated with buying and selling properties, including transactional expenses such as commissions and closing costs, but also less obvious costs such as the time spent on a deal. When you acquire a new property, the workload tends to be front-loaded as you establish processes and refine them, whereas when you sell a property, you're giving up a cash-flowing, wealth-building machine. 
+ 
+- By paying down the mortgage of a property with amortizing debt, you increase its worth, which can then be sold and generate you money. 
+
+- Having a portfolio of properties insulates you from risk, because if one goes wrong, you still have other properties that are generating cash. 
+ 
+- If you find yourself in a situation where you must sell a property, try to do so while maintaining a positive cash flow. This will help you avoid the trap of letting your portfolio get too large and unwieldy. 
+ 
+- Some investors may want to sell assets to reduce their stake, while others may do so to diversify or build up cash reserves. The method for selling assets depends on the investor and the risk they wish to manage. 
+ 
+- Diversification, in addition to operational efficiency, is an important factor to consider when deciding whether to prune a property from your portfolio to reduce risk. If you are too concentrated in a specific market or type of asset, selling a property may free you up to expand into new areas and improve your diversification, which helps to mitigate risk associated with a localized downturn. 
+ 
+- The final step is to gather all the necessary documentation. This includes a rent roll, T-12 and historical financials, and so on. You should also do your own pro forma and valuation, which will be the basis for an asking price and a starting point for negotiations. 
+ 
+- After gathering all the necessary information, you must decide whether to list the property yourself or hire a broker. It’s not a good idea to sell a property without a broker, since they can help you get a better price and negotiate a better deal. 
+ 
+- If you are planning to sell your property, you should consider working with a real estate broker. A good broker will help you find more qualified buyers, and can assist you in negotiating a better price for the property. 
+ 
+- After choosing how to advertise your property, you should define the listing process and timeline in detail. You should also decide whether you’ll use market pricing or an asking price. Brokers can assist you in vetting potential buyers. 
+ 
+- Following through and completing the process as quickly as possible is in your best interest as a seller. Do not let a property fall into disrepair, as this may result in you retaining the property, which may harm your reputation. 
+ 
+- There are many benefits to a buy-and-hold investment approach, such as avoiding transaction and onboarding expenses, tax advantages, principal paydown, appreciation, and portfolio diversification. 
+
+# strategy for finding great deals
+
+- what to look for?
+  - search tired/accidental landlords
+  - for-sale by owner (FSBO)
+  - low fee listing sites (homefree, 2% realty, comfree)
+  - expired listing
+  - look for newer built homes
+  - check purchase history (honestdoor)
+  - crappy rental listings
+    - indicate tired/accidental landords
+  - look for rental listings with listing logos in corner of pictures (means it was on-sale and then now it is rented)
+
+- **don't sell the solution before you singe a light on the problem.**
+
+- search for deals on MLS that has the following keywords:
+  - "cash only", "property sold as is", "bring all offers", "no reasonable offer refused"
+
+- try to get on the phone with the seller, you will discover all sorts of situations. The seller could be:
+  - moving out of the area.
+  - dealing with a life-changing moment, like the death of a loved one or a divorce.
+  - a tired landlord, and the property has been sitting vacant or they just no longer want to deal with the maintenance.
+  - wanting to downsize or move to a warmer climate
+  - just not wanting to do all the work required to make the home livable or rentable.
+  - threatened with a foreclosure
+  - wanting to get rid of a property they inherited and don't want.
+  - trying to invest elsewhere.
+
+- **develop a marketing strategy**
+
+  - Everything is a funnel. If you’re a regular listener to The BiggerPockets Podcast, you’ve probably heard the host, Brian, say this phrase numerous times. It is the fundamental truth that drives nearly everything successful in life. 
+  - The good thing about the top of the funnel is that it weeds out the bad leads immediately, saving you time and resources. However, it does not give you much information on the quality of the leads you’re getting. 
+  - build a funnel to attract sellers with problem
+  - cold call
+  - The LAPS funnel allows you to track your progress and see where you may need to improve your process. It also shows you what your goals should be at each stage.
+  - The author and his team at Open Door Capital prioritized their deal flow by screening potential investments based on their likelihood to succeed. This allowed them to funnel the most promising prospects through the underwriting process quickly, which in turn allowed them to keep their deal flow high. 
+
+- **develop procedure for screening leads**
+  - check honestdoor to see when they bought it and for how much
+  - develop a small friendly script to get information
+    - how long have you owned the property?
+    - why are you looking to sell?
+    - when are you looking to close?
+    - would I be able to come look tonight?
+    - how motivated are the sellers?
+    - you should never leave your desk/family unless you know it's a good lead.
+  - The first step in the due diligence process is to filter your leads. You should only take the time to underwrite those that pass your screening process.
+
+- Working with multiple brokers helps you gather as much information as possible on the 
+multifamily business, as each one will have different connections and sources. 
+ 
+- As you get to know more about your target market, pay close attention to which multifamily brokers are most active there. The ones you should be targeting first are the ones that are getting most of the listings. 
+ 
+- Pocket listings are deals that a broker has an agreement to sell a property but is not advertising publicly. Because these deals are not widely known, they do not receive as much competition, which in turn allows them to receive a lower price. 
+ 
+- Some sellers will accept offers from multiple brokers, which can provide you with more choice and flexibility when choosing a real estate agent. However, this also increases the risk of missing out on better offers since no broker has complete knowledge of other offers. 
+ 
+- There are many advantages to conducting business with off-market sellers. Some of the biggest pros are that the prices are sometimes below market value, that working directly with the seller eliminates the brokerage fee, and that some sellers may be in a hurry to get rid of their property. 
+ 
+- Because there are so many large multifamily properties for sale, competition to buy them is fierce. Brokers are constantly trying to get listing agreements, and other buyers are constantly trying to buy off-market. 
+ 
+- The larger the multifamily property, the less likely it will be listed by a residential broker or show up on the Multiple Listing Service. However, there are exceptions, especially for properties with fewer than forty units. 
+ 
+- Keep an eye out for multifamily properties being auctioned off. These are typically old buildings that have been foreclosed on by the bank. Because of the time constraints imposed by the law, these auctions are generally limited to cash buyers or buyers with the ability to obtain large amounts of cash quickly. 
+ 
+- Investment criteria are kept fairly straightforward so that they can be applied to a large number of deals. The best way to screen a deal is with a checklist of criteria that you feel will help you evaluate the quality or suitability of the investment. 
+ 
+- The objective of the screening process is to identify the factors that would allow you to prioritize a deal or know immediately that the deal is not worth pursuing. These factors are based on your specific investment strategy. 
+ 
+- You will want to determine what you can and can’t live with in a rental property, as not all things that matter to you may matter to someone else. This will help you avoid wasting time on properties that won’t work out. 
+ 
+- Step 2 involves taking all the screening criteria and assigning a subjective value to each one. Some will be more important than others, and some will not be deal breakers. After all the factors have been weighed, you’ll have to decide whether the deal is worth investing more time into. 
+ 
+- After the preliminary due diligence of a property, you can calculate a rough valuation of it. This involves taking the current rent roll and annualizing it, then subtracting any expenses that are not typical for a property of that class and condition. 
+ 
+- The financial analysis should match the investor's investment strategy. If you're buying a stabilized property, the analysis will center more on the property's current value. If you're planning to do a significant value-add project, you'll be more concerned with what you can pay today compared to what the property's value will be after the upgrade is complete. 
+ 
+- It is also important to keep in touch with the person who brought you the deal, as this will help you in the future when you are working with other investors. 
+ 
+- As a multifamily investor, Murray was constantly on the lookout for opportunities to buy properties that met his investment criteria and were at a reasonable price. One day, he saw an ad for Apartments at Madison Barracks, which was soon to be auctioned off. The property had suffered from water damage, resulting in a poor condition, and was being sold by the previous owner. 
+ 
+- The constant fearmongering by pundits can make it hard for investors to maintain objectivity. Regardless of where the economy is in terms of cycles, tenants will eventually stop paying, notes will be called, and everything will go to hell. 
+ 
+- It is impossible to know for sure when real estate values will decline, but it is inevitable that they will. The only question is when. Be prepared for a market correction by investing selectively and getting your finances in order. For examples, having over 35% equity and 6 months expense reserves for each property
+ 
+- To better prepare yourself for any potential downturn, you must first conduct an assessment of your risk exposure. Your degree of exposure will determine what actions you should take. 
+ 
+- Cash flow is the most important metric for measuring the risk of a deal. It protects you from losing a property in bad times, thus allowing you to hold on until you accumulate wealth in good times. 
+ 
+- To asses your vulnerability, you must calculate your Debt Service Coverage Ratio, which is also known as your Debt Coverage Ratio. This measures the amount of money you have available to pay your debts versus how much you owe in debt. 
+ 
+- To objectively asses the quality and diversity of the cash flows your properties are generating, you must consider things like the type and class of the assets, the stability of the income and expenses, and the location. 
+ 
+- The next step in assessing your level of risk is to evaluate your portfolio's debt. Debt instruments that are subject to future interest rates should be avoided wherever possible. 
+ 
+- After completing your self-assessment, you should evaluate your portfolio’s DSCR and decide whether you’re comfortable with it or not. Most investors desire a DSCR of around 1.3 to 1.5. 
+ 
+- One way to reduce your risk is to refinance your debt. Refinancing your debts can be done in several ways, such as improving the terms or refinancing them entirely. The objective is to lengthen the terms of your debts and lower their interest rates as much as possible. 
+ 
+- make your future debt payment as low and predictable as you can for the longest period possible. Here are some red flags to watch out for
+  - debt with high interest rates (relative to current rates)
+  - any variable-rate debt
+  - fixed rate schedule to expire in the next 3 to 5 years.
+  - bridge debt (or any other short-term debt instrument)
+  - balloon payments
+  - full-recourse debt that could be refinanced into non-recourse debt
+  - amortization periods that are shorter than what's available through a refinance.
+
+- Refinancing a property entails adding more debt to the equation, and should be done only if the investor feels they can handle the increased risk. Refinancing should not be done to increase cash flow, but rather to improve the position in case of a market correction. 
+ 
+- To reduce your risk, increase your cash flow as much as possible. To make your properties more recession-resistant, increase their value by adding value through renovation or by purchasing properties that already have value-added projects completed. 
+ 
+- It is better to be a buyer during uncertain times, as most of your competitors will prefer to stay on the sidelines. While risk is inevitable, if you can secure the right property with the right financing, it can be significantly mitigated. 
+ 
+- Selling underperforming or risky properties is another way to reduce your risk (dragging down your portfolio DSCR). It is best to only sell when the property is not generating cash flow, and only when you have the capital to replace it. 
+ 
+# underwriting
+
+- The final stage of a deal is to underwrite it. This entails thoroughly screening the property, the team behind it, and the investors who will be financing it. It is important to avoid retrading a deal, which can severely damage your reputation. The underwriting process should make such occurrences unnecessary. 
+
+- step by step underwriting
+  - gather up all the information you need to see if you can make this deal work. This includes: 
+    - the ARV, the mortgage balance, the PITI, the rent rate, whether or not there is cashflow, ask yourself if the entry fee is a deal killer or not (outrageous down payment)
+    - The underwriting process involves obtaining information about a property which is crucial for making an informed lending decision. The information provided in the underwriting stage is usually limited, so verify everything. 
+    - Obtain as much information about the property as possible before making an offer. This will help you with your underwriting and valuation, as well as assist with the purchase negotiations.
+    - The location of a property is one of the most important factors when buying a house. It is important to look at the local economy, as well as the area's desirability, when making your decision. 
+    - The best way to get a feel for a neighborhood is by visiting it in person. You can gather intelligence on the area by speaking to local residents, checking out the crime rate, and taking note of any unusual activity. 
+    - The income section of the rehabbing spreadsheet allows you to compare the property’s current and projected income. You can then use this data to determine if the property is worth rehabbing or not. 
+    - The first step in calculating the ARV of a multifamily property is to determine the gross potential rent, which is the maximum amount of money the property can generate. The GPR is calculated by multiplying the average rent of all units in a property by the number of units. 
+    - The Gross Rent Ratio, or GPR, is the most important number in the BRRRR approach and is calculated by dividing the gross rent by the total square footage.
+  - analyze the entry fees
+    - the entry fee is made up of 7 parts (cash to the seller, the arrears/late payment/liens, the cost of acquisition, the closing costs, the renovation costs). is there any wiggle rooms in the entry fee?
+  - consider your exit strategy
+    - can you wholesale the deal?
+    - is it better as buy and hold?
+    - should you look for a homestead buyer (meaning a non-investor who wants to live in the house)
+    - is wholesale still an option with paying more in a seller finance deal
+    - wraps
+    - lease options
+    - sub-tail (sub-to, then sell retail)
+    - SRRR (seller-finance, renovate, refinance, repeat)
+    - vacation rentals (airbnb, vrbo, etc...)
+    - group homes
+    - corporate rentals 
+
+
+- When buying a multi-unit property, buyers are expected to have done their research and know what they are getting themselves into. As a result, they will make their offers based on a hard deposit, which is non-refundable. 
+ 
+- The role of a property manager is to assist you in the underwriting process by providing you with market data and information about comparable properties, as well as helping you secure quotes from contractors and vendors. 
+ 
+- It's easy for investors to get carried away with the excitement of a new project, forgetting that the information they gather is meant for other investors. The more information you send out, the more value you add. 
+ 
+- The underwriting process involves identifying ways to add value to a property, such as increasing its rent or generating ancillary income. This involves brainstorming value-added strategies, and deciding whether they are suitable for the property being purchased. 
+ 
+- Having a good model is crucial for underwriting a multifamily property. The model should project the future cash flows of the property, and allow you to calculate a purchase price. 
+ 
+- Selecting the right deal and paying the appropriate price is crucial to determine your success in real estate investing. The quality of your underwriting can affect your credibility and reputation. 
+ 
+- Because the author was able to connect with the property’s owner, he was able to determine that the owner was willing to sell. He was able to acquire the property for $5 million, which was $1 million less than what he had paid for it thirteen years ago. 
+ 
+- The author acquired the property and started working on it. He figured out that the property was in distress, but there was also a lot of potential. He would need to underwrite the deal carefully.
+ 
+- The ideal situation is to collect data from at least three or four comparable rentals, and then average the prices for each unit type, both monthly and on a per square foot basis. 
+ 
+- After collecting the data on the subject property, you can now calculate the average rent for each unit type. You can then use this data to determine a rough estimate for the property. 
+ 
+- Eliminating long-term lease liability (LTL) is a great way to add value to a property, but it is not recommended to eliminate LTL immediately after buying a property if it’s occupied by tenants who may be on fixed incomes. It may cause more harm than good. 
+ 
+- Vacancy loss occurs when the physical occupancy of a property drops below 100 percent. It is calculated by adding up the rental value of the vacant units. 
+ 
+- When underwriting a new property acquisition, assume a vacancy rate of 5 percent and a gross income of at least 75 percent of the rent to cover the vacancy loss. 
+ 
+- The average collection loss for each apartment unit is $92 a year. Collection losses are higher for lower-class properties and those in distress. 
+ 
+- It is important to understand what concessions your tenants are receiving when they move in, as these may affect your calculations. Common examples include reduced rents or free months of rent. 
+ 
+- Sometimes multifamily properties will repurpose units for non-revenue-generating purposes, such as model units and storage units. Such units should be counted as non-revenue generating until they are inhabitable again. 
+ 
+- Other sources of income include utility reimbursements, pet fees, laundry, administrative fees, late fees, and the rental or sale of various items and services. Some of these can be substantial, and it's not uncommon for the various fees a property charges to generate 5 percent of its total revenue. 
+ 
+- It is important to come up with a budget before undertaking any major renovations. You should enlist the help of a professional property manager or contractor to help prepare the budget. 
+ 
+- Once you have the budget, you need to project how the value-add changes are going to affect the property's income going forward. If the change is going to be implemented incrementally, you'll need to decide on a feasible timeline and determine the net financial impact for each year. 
+ 
+- The final step is to check the comps, which will show you what rents you can expect once the rehab is finished. Be aware that increasing your projections beyond a reasonable amount may lead to overpaying for the property, which in turn may lead to tenants demanding higher rent increases in the future. 
+ 
+- work with your own rental property manager to get an accurate projection. 
+ 
+- It is impossible to predict future real estate values and rents. This is why it is important to rely on your best judgment when estimating them. 
+ 
+- The underwriting process involves analyzing the properties’ rent rolls and identifying comparable properties and market rents. The gross potential rent is then calculated and the effective rental income is determined. 
+ 
+- The author was able to get in touch with the property manager, who was managing the property from afar, and was able to get an idea of the current situation. He was able to get in touch with the previous tenants, who all seemed to love the place and were willing to share their experiences. 
+ 
+- The author wanted to see every vacant unit as well as at least one unit per floor plan, so he could conduct an effective underwriting process.
+
+- The first step when analyzing historical expenses is to look at the actual numbers. Then, group similar items into standard categories such as salaries, insurance, property taxes, and so on. 
+ 
+- When reviewing a property's historical financials, divide the numbers by the number of units to obtain an average price per unit. Then, categorize expenses by the type of expense and normalize them to compare to other investments. 
+ 
+- To get an idea of what typical expenses are for a property, you can consult with the property manager or ask the seller about any unusual expenses. After you’ve gathered this information, compare it to the prices of other similar rentals in the area. If the prices seem unusually low, this could be an indicator that the property is undervalued. 
+ 
+- Some financials will include interest expense or capital expenditure, both of which can throw off your valuation and should be removed from your underwriting. If a property is listed with an experienced broker, you're unlikely to find these line items on the financials. 
+ 
+- There are many factors that can influence the overall expenses of a multifamily property, such as the local cost of living, climate, weather, age of the property, size of the property, type of tenants, utilities, and so on. 
+  
+- The average multifamily property requires between one and two full-time employees for every forty-five to fifty units, at a salary of $45,000 to $50,000. Multifamily properties also require a considerable amount of payroll expenses, which total about 18 percent of gross pay. 
+ 
+- the amount of insurance coverage a property gets is based on the lenders’ requirements, and can vary considerably. 
+ 
+- It is important to understand that tax rates can fluctuate, and when calculating a property’s future tax liability, you must consider both the property’s actual taxes and the increased taxes from a re-assessment. 
+ 
+- Search for the combined mill rate and assessment ratio of the area you’re buying in, as this will help you figure out the property tax you’ll be paying. 
+ 
+- It is best to avoid using industry averages when dealing with utility costs, as this can sometimes be inaccurate. Get in touch with the property manager and get the specific figures for the building you are analyzing. 
+ 
+- The management fee of a property is usually tied to the project’s gross income and can vary depending on the market and the size of the building. For example, for Park Place Apartments, the management fee is set at 3. 5 percent. 
+ 
+- On average, contract services cost $200 to $400 per unit per year. If both payroll and contract service expenses are high, there may be issues that need to be resolved. 
+ 
+- The expenses related to repair and maintenance are highly dependent on the age and condition of the property, and can vary from $300 to $700 per unit per year. An analysis of historical repair and maintenance expenses can help you gauge where on this spectrum you may fall. 
+ 
+- Unit turns are the second part of the BRRRR formula, and they consist of replacing a property’s units with new ones. Unit turns are usually done after rental losses have been reduced, in order to increase the rent the property can command. 
+ 
+- Replacement reserves are a requirement set by lenders and should be budgeted for during underwriting. They are calculated based on the results of a property condition assessment. 
+ 
+- The expense ratio is a metric that indicates how efficiently a property is operating. It is a broad indicator of how much a property costs to maintain.  
+ 
+- for comping tools, zillow sites, batchleads suite of products, biggerpocket rent estimator, propstream, zillow
+
+- when you're comping a property, you need to know the sale price on the properties you are using as comparisons for your subject property. The sale price is either disclosed publicly or can be accessed through MLS or third party program.
+
+- comping as 3 tier
+  - tier 1: look at date sold and the distance from the subject property. The date sold should be within 6 months ago for the same type of property. The distance should be the same subdivision or within 1 mile radius.
+    - don't compare between gated and non-gated community
+  - tier 2: look at interior square footage, parking, year built, bed and path count, and general condition. 
+  - tier 3: proximity to roads, lot size, pool, and build type.
+
+- manual comping
+  - know your subject property
+  - find the ARC comp and how much it sold for.
+  - adjust for differences
+  - confirm the ARV comp through other recent solds
+  - confirm with pending and under contract comps
+  - confirm active comps
+
+# finding small multifamily deals on-market
+
+- The second step, finding the right deals, is to search for them off-market or via a Multiple Listing Service. 
+ 
+- The most efficient way to discover available properties is via portals such as Zillow, Realtor.com, Redfin, Trulia, or BiggerPockets. com. These portals let you view properties listed by local real estate companies. 
+ 
+- To help you choose the best agent for your needs, you must ask seven questions:
+
+- OnFire agents.
+  - **organized** - a great agent should have a reliable system in place to handle the entire transaction - from searching deals to scheduling appointments, to making offers, negotiating, and closing.
+  - **networked** - Your agent should be able to connect you with lenders, property managers, contractors, title companies, attorneys, and more. They should also have a broad network of connections with other agents that they can use to assist you in locating the best deals.
+    - agent has lived, worked in the area long enough to give you the best deals and connect you with other great team members. 
+  - **focused on you** - A great agent is one who is focused on delivering you a property that meets your budget and requirements, not just something that makes them money. 
+  - **investment-savvy** - Finding a great real estate agent is as important as finding a good real estate investor. A great agent will know what you care about and will help you with that, rather than just giving their own opinion. That doesn't mean your agent must own their own rental properties. However, at the minimum, an agent should be familiar with with the property and location concerns that matter to investors.
+  - **responsive** - Great agents are responsive, can answer questions via text, and can show you properties the same day they’re listed, or at least within a few days. 
+  - **experienced** - The first step in finding an OnFire agent is to create a list of agents in your area. Then, you begin interviewing them to find the ideal one. 
+    - The top of your funnel is occupied by agents who are in the process of renting out their own properties.
+    - referrals agents from friends and family
+    - check out the biggerpockets agent directory
+    - cold call brokerages: call them up and simply ask: "who are the top 3 realestate agents in your office in terms of purchase volume
+    - monitor active listings: oftentimes a handful of agents will account for a disproportionately large percentage of rental properties coming to the market. Schedule a viewing for one of their listing.
+
+- The biggest issue with the MLS is that it's so easy to access. When you can just go onto Realtor. com or Redfin and search for houses, good deals are harder to find. However, there are still deals to be had via the MLS. 
+ 
+- The longer a property stays on the market, the more likely it will fall into a state of disrepair, and the cheaper the property will go. This is why it's crucial to keep an eye out for properties that have been listed for a long time, as this allows you to make more affordable offers. 
+
+- The MLS is a great place to find deals, but keep in mind that you'll usually end up losing them. Your best bet is to be persistent and check the MLS daily, trying to find a property that nobody else has seen.
+
+- setup automatic alerts that meet your criteria like number of units, property types, price range and more. 
+ 
+- typically 90% of deals pursued are lost. Offering $400k on $500k fourplex that's been on market for 60 days is completely reasonable.
+
+- look for hidden potential
+  - Rehabbing a property, adding bedrooms, and converting extra space into additional units can all increase the property’s worth and rental rates.
+  - understanding what market rents are and comparing them to what you find in properties listed on the MLS
+  - shift utility responsibility
+  - change strategy: is the property currently being operated at its highest and best use?
+  - Hidden deals can be found on the Multiple Listing Service, or MLS. Look out for mistakes in square footage, number of bedrooms, and so on, and then investigate the possibilities.
+  - add income sources: adding coin operated laundry machines and adding rentable storage space for current tenants or other residents in the neighborhood. You can also add vending machine, charge on-going "pet rent" or pet fees, charge extra for garage stall and more. 
+ 
+- The MLS has very few listings for properties with five or more units. This is because the MLS was designed to be used for residential properties, and commercial properties with more than four units are handled differently by commercial brokers. 
+ 
+- As you grow and expand your portfolio, you may find that not having a real estate license becomes an advantage, as many agents and brokers would rather deal with investors. 
+ 
+- it's important to ask around to find out who the top players are for your particular niche. 
+
+# finding deals (off-market)
+
+- The key to finding off-market deals is having a consistent method for gathering leads, performing due diligence, and making offers. 
+ 
+- **working it backwards**
+  - Deals - i.e: 24 deals (2/month)
+  - Budget - $24,000/year ($1,000/deal)
+  - Offers - 5 offers to get 1 deal 24 deals x 5 offers = 120 offers or 10/month
+  - Appointments - 8 appointments for 5 offers 8 ÷ 5 = 1.6 appt/offer … 120 offers x 1.6 = 192 appointments or 16/mo
+  - Leads 
+    - 4 leads / appointment
+    - 192 appt. x 4 = 768 leads / year - or -64 leads / month (32 leads = 1 deal)
+  - Lead Campaigns
+    - Lead Generation Campaigns -> of Leads/month -> Cost/month
+    - **Radio Ad** -> 9 -> $300
+    - Newspaper Ads -> 2 -> $250
+    - **Direct Mail - Owners w/ equity (890/mo)** -> 8 -> $668
+    - Direct Mail - Tax Sale (700/year) -> 3 -> $525
+    - Direct Mail - Expired Listings (120/mo) -> 6 -> $90
+    - Direct Mail - Preforeclosure (120/mo) -> 6 -> $90
+    - Car Sign -> 3 -> $0
+    - Pole/Yard Signs -> 5 -> $10
+    - **Birddog System - Vacant Houses** -> 15 -> $150
+    - **Referrals (newsletter, network, business cards)** -> 10 -> $75
+    - Total: 67 $2,158
+  - Next Actions 
+  - Diversity of lead generation!
+  -  What works today, might not tomorrow
+     -  Ex: Newspaper ads
+     - Ex: Direct Mail - absentee owner
+     - Ex: Signs
+  - Referral prospecting =
+    -  High leverage
+    -  Resilient performance
+    -  Farm system
+    -  Worth focusing on long-term!!
+
+- **Driving For Dollars**
+  - Pick a target neighborhood
+  - Schedule drive or walk
+  - Look for (1) vacants (2) Fixer-uppers (3) Legal proceedings
+  - Reach out to the owner! (1) call (2) mail (3) neighbors
+  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+  - looking for sign of distress
+    - junk in the yard
+    - broken down cars
+    - busted windows
+    - overgrown weed
+    - old roof
+
+- **MLS**
+  - Find a real estate agent
+  - Get automated leads in your target area
+  - Be FIRST (minutes or hours! Not days) or LAST (persistence & follow-up)
+  - **expired listings within 60-90 days on multiple list service (MLS)**
+    - the home either not worth what they want or they had an equity situation where they couldn't get what they needed to get out of the deal.
+
+- **Networking Groups**
+
+  - Find deals by networking and telling other investors what you want to buy!
+    - Look for formal groups like a REIA (Real Estate Investing Association)
+      i. Google “Real estate investing club + [your city]”
+    - Look for informal groups and meetups
+    - Find online forums (ex: BiggerPockets Local Forums) or Facebook Groups
+
+- **Professional Outreach**
+
+  - Reach out to and network with real estate agents (residential & commercial), attorneys, CPAs, insurance agents, financial advisors, and more. Let them know how you can help.
+
+- **Wholesalers**
+  - Get on wholesaler lists (meet at local meetups!) and get to know wholesalers personally
+  - Wholesalers are individuals who do all the legwork required to locate off market deals and then connect you with them - for a fee. They get a property under contract by signing a purchase and sale agreement with the seller, then add their fee to what they paid for it. 
+  - If you can't find a good wholesaler in your area, consider building your own by recruiting enthusiastic real estate investors to work for you.
+
+- **Direct Mail**
+  - Direct mail is the process of sending a large volume of mail, usually postcards or letters, to potential sellers with the intention of having a small percentage of them call you with the desire to sell. 
+ 
+  - The secret to effective direct mail is to find a list of individuals who may be in a position to buy a property, and then mail them an offer they can’t refuse. The most effective lists are those that are highly specific, such as people who own multifamily properties or who owe more than they are worth. 
+
+  - MANY different campaigns and lists you can mail to. A simple one to start is filter a list by:
+    - Location
+    - Property type
+    - Length of time owned (5+ years)
+
+  - Send personal mailers expressing your interest in buying their house. Follow-up!
+  - The fourth lever is the mailing list. You will need to decide what type of direct mail you want to send: postcards or letters. Some investors swear by postcards because they are cheaper to buy, print, and mail. Others swear by letters because they tend to generate a higher response rate. 
+ 
+  - The most effective way to get in touch with investors is through direct mail. Write your message, choose a design, and send your mail out. 
+ 
+  - Mailing is the final step in the BRRRR method. It can take many tries to secure a sale, so be prepared to keep mailing until you get a positive result.
+  
+  - Recommend Tool: Deal Machine - https://www.coachcarson.com/dealmachine-YT
+
+- **Website**
+  - Use for (1) organic leads over time (2) landing page for paid ads or direct mail (3) Credibility
+  - Recommended Tool: Investor Carrot Websites - https://www.coachcarson.com/investorcarrot
+
+- **Ads**
+
+  - Pay to get your house buying service in front of other people:
+    - Pay Per Click (PPC) - like Google, YouTube, Facebook
+    - Classified ads - Craiglist and newspapers
+  - Locally focused advertising - Nextdoor.com, talk radio/podcasts, etc
+
+- **Cold calling**
+  - Old fashioned, takes time, but still inexpensive and sometimes effective!
+    a. Ads online or signs - For Rent or FSBO (For Sale By Owner)
+  - maybe, [start virtual](https://startvirtual.com/) and [easybutton](https://easybuttonleads.com/) for lead generation
+
+-  **Signs**
+  - “I Buy Houses + Fast Cash + Your Phone Number” - Relatively inexpensive yet effective.
+    a. Yard signs - at your rentals, flips, home
+    b. Car signs - magnetic or vinyl lettering
+    c. Bandit signs - at intersections or telephone poles (likely illegal in most municipalities!)
+
+-  **Auctions**
+  - Auctions can be a good source of deals if you’re patient and persistent.
+    a. Auction companies - google the auction companies in your area and get on their list
+    b. Search and regularly follow online auction websites like: Xome.com, Hubzu.com, Auction.com, Homesteps.com, Homepath.com, HudsonandMarshall.com, ten-x.com, HUDHomeStore.com, MobileHomeParkStore.com
+
+-  **Word of Mouth (to your world!)**
+  - Tell EVERYONE that you buy properties. Don’t be too embarrassed to make money! Creative ideas to spread the word?
+    a. All your emails - P.S. I'm always on the lookout for houses or apartments that may need some TLC. I buy all types in any condition. Do you know of a house that needs a new owner to bring it back to life? Know a landlord who doesn't want to be? Did somebody you know inherit a house they don't want? Call or email me anytime.
+    b. T-shirts that say “I Buy Real Estate”
+    c. Social media
+    d. Business cars
+    e. Small talk
+
+- **others**
+  - The author explains the six strategies for buying off-market, which are: check for bank owned properties, look for properties that are not advertised on the MLS, look for properties that are for sale by owner, check for foreclosures, buy properties that are already renovated, buy properties that are not in good condition, and buy properties that are not in working order. 
+   
+  - Search for and identify multifamily properties. They usually have many doors and cars in the driveway. Then, search for and identify the owners of all the properties you’ve spotted. 
+   
+  - Finding good deals can also be done by talking to local landlords, who in most cases are also investors. 
+   
+  - Property managers, who are familiar with the condition of their clients’ properties, can be a great source of leads for buying small multifamily properties. 
+
+  - The LoopNet website is a great resource for commercial real estate investors. It allows you to browse through the thousands of commercial properties available and perform due diligence before making an offer. 
+   
+  - Facebook is a great place to look for off-market deals. Searching for off market will bring up Facebook groups where individuals post ads for items they want to sell or give away. 
+   
+  - The third and final way to find deals is through the classified ads website Craigslist. com. Posting an ad in the For Rent section of Craigslist can be done by owners of small multifamily buildings who would like to rent out a portion of their units.
+
+
+- **social media**
+  - on facebook, search for communities, groups, the mom groups, the garage sale groups, people, conversations in the local area, such as Houston, Calgary, etc, I’m going to type in Houston. Then join the groups, and make posts in the groups, 
+  - ask questions
+    - **“Does anyone have a house to sell That’s not market ready? My wife and I are looking to buy one in the next two to three weeks.”**
+    - **“I’m looking to buy one in the next two to three weeks.”**
+    - **"Can you tell me about the property?**
+    - **what you need for the property?**
+    - **what's your monthly payment?**
+    - **why are you going to sell it? How soon do you want to sell it?**
+    - sample reply message
+      - **“Hi, thanks so much for reaching out. Can you please tell me a little bit about the property?”** And they’ll tell you “It’s a three four, I’ve owned it for this.” They give you the story.
+      - **do you owe anything to contractors? How much do you need for the property? How much do you owe on it?**
+  - You only want to put it in about five, six groups a day. If you put it into 50 groups, Facebook will lock your account out for a little while for spamming
+  - So what we like to do is we ideally want to get into conversations, but only get on conversations with people who are motivated to sell and want to sell. So I think what stops so many new investors is they hate talking to people. They’re scared to pick up the phone.
+  - avoid mean and not not motivated seller
+
+  - **“Does the house need any work before a family with young children can move into it?”** They’re like, “Well, there’s no handrail going down the stairs. And the stairs you could fall in and there’s a leak.” And they’ll start divulging a lot more information because it’s different when you have little kids moving in there.
+  - When the seller send the message to sell the house. They are used to instant gratification. So our company policy is that when somebody reaches out to us, we have to get back to them before they wipe, okay? Before they get off that toilet, if that’s the case. So under 60 seconds is the key, because once we could get that conversation engaged in 60 seconds, and less we get the information, we’re able to now schedule that call if they’re not available right then and there.. Versus somebody who reaches out to us and they say, I want to sell my house, and I got back to them six hours later or the next day. (different level of motivation)
+  - I really think the key is understanding you’re in a competition. Somebody else wants to buy that house. Somebody else wants to get that client, somebody else wants to land that deal. And when you’re too busy, whatever you’re doing, expecting that the other person sort of needs to work around your schedule, you lose them. And it’s really just understanding that our default mode as human beings is to be narcissists
+  - you give somebody 12 hours and if your closing ratios say 20%, it cuts in half after 12 hours, and it’s another half after another 12 hours. So if you got back to them in 24 hours and you normally could close 20%, your chance of closing are 10%, like it goes down significantly, so on and so forth. So **speed to lead** is extremely important to make sure that you’re able to close. It’s that instant gratification, and they want answers now. I want to be able to at least get the questions answered and schedule that appointment to get on the phone if they’re not available right away. But we want to get on those calls as fast as possible.
+
+- **when to escalate**
+  - **timing**: "are you interested in selling your house in the next 60-90 days. If they say yes, move onto price
+  - **price:** "what are you trying to accomplish or walk away with?"
+    - in a perfect world, what price would you be looking for?
+    - unlisted/off the market sellers often says, "I haven't thought much about it", or "I need to talk to my wife/husband". Continue foward saying "Great, I will give you a few days to talk it over and let's touch base next week"
+  - **motivation:**
+    - why are they interested in selling the house?
+    - why they're willing to sell to cash buyer rather than work with a realtor or sell FSBO (for sale by owner)
+  - **condition**
+    - want to see what the seller thinks about the property
+      - is there a tenant in the property?
+      - does the owner live in the property? and if there's a situation of escrow before someone can move out?
+      - is there hoarder situation requires extra cleaning costs?
+  - The general escalation flow involves a cold caller discussing timing, price, motivation, and condition of the home. This first call confirms the seller's name, the address, the callback number, an email, whether they're working with a Realtor or not, the year the house was built, how long they've had the property, and the occupancy status, then answers questions like roof condition, HVAC condition, size, square footage, time frame, motivation to sell, and asking price. Some of this can be found online, but you want to confirm as much as possible because online data is not always correct. It sounds like a lot, but a VA can handle all of this in a five- to ten-minute phone call. Once this has been done, a cold lead can become a warm lead or it can move to another section of the pipeline.
+
+# rules of the new rich
+
+- **4 old rules to break**
+  - Focus on becoming an expert at one thing. 
+  - Come up with a remarkable idea. 
+  - Set goals and work toward them. 
+  - Give customers what they want.
+
+## 4 new rules to implement
+
+- **RULE 1: Don’t Focus on One Thing.**
+
+  - Avoid a single point of failure.
+  - Don’t build your wealth around one thing ⇒  if it doesn’t work out, you’re destroyed, and you have to start again from scratch. (Note to self: This happened to me at PeopleKeep.)
+  - Ignore the conventional wisdom that says it’s impossible to multitask.
+  - The two biggest factors in success are timing and luck ⇒ You can’t control either, but you can increase the likelihood you get lucky / have the right timing ⇒ by taking more chances. (I.e. fail more.)
+  - Focusing on one thing also limits multiplier opportunities ⇒ Multiplying is when you find the patterns that link different things and then leverage those connections so each individual thing is more effective than it would be on its own ⇒ net net, get multiple ventures going and then pull out the patterns that link them. (E.g. Elon Musk with his multiple ventures).
+
+  - **Three-focus rule**
+    - Try Nathan’s three-focus rule: always pursue three new opportunities at the same time.
+    - Once a venture is up and running, set it on autopilot so it only takes a few hours per week or month ⇒ this approach has a few benefits:
+      - It increases your chances for good luck and good timing
+      - When you fail more, you accelerate your learning
+        - (Example: Thomas Edison ran thousands of experiments ⇒ one could argue he got lucky with the light bulb.)
+
+    - Three projects at once does not = 3x the work ⇒ Instead, focus 80% of your time on one project (the one that brings in the most money or has the most potential to) and split the remaining 20%  of your time between the two remaining ventures (this requires launching them on a smaller scale or picking more passive projects) 
+    - (Don’t try to launch three huge new projects at once ⇒ you’ll likely fail at all of them).
+    - 80/20 approach = ~3-4 days a week on the one 80 percent idea and 1-2 days on the two 20% projects.
+
+    - The three-focus rule lets you: 
+      - Test ideas (swing, miss, learn)
+      - Multiply them (find and capitalize on patterns)
+      - Use learnings to launch new ventures (discover what else is in demand)
+
+- **RULE 2: Copy Your Competitors.**
+
+  - You have to copy your competitors ⇒ do it now.
+  - Copying doesn’t have to be cutthroat ⇒ sometimes copying is just research ⇒ you’re seeing what works and what doesn’t, which reduces your risk ⇒ Sometimes you’ll want to copy, sometimes you’ll want to do the exact opposite
+  - When you copy competitors, you’re really looking for the patterns that lead to success.
+  - Helpful copying tools:
+    - Manufactured products ⇒ Online marketplaces ⇒ you can quickly see what works and what doesn’t.
+    - Services ⇒ Freelance sites ⇒ look at how people list their services
+    - Digital / info products ⇒ Patreon-like sites ⇒ look at how much people are earning / what’s working.
+
+
+- **RULE 3: Quit Setting Goals—They’re Keeping You Broke.**
+
+  - If you focus on a goal, the second you achieve it, there’s nothing left to achieve.
+  - Instead, focus on building a system that produces what you want out of life ⇒ Systems make the rich richer (goals make the poor poorer) ⇒ they pump out more, faster, as you refine them (with less input from you).
+  - Systems = the processes that get you the result of a goal, repeatedly. Systems scale.
+  - One framework = set audacious goals, then forget them and focus on creating a system to produce the outcome you want repeatedly.
+  - To build a system, you must focus on the minutiae for a period of time ⇒ obsessing over the details is the only way you can forget about them ⇒ you have to know the details, to automate them.
+  - “Systems thinking requires you to give up making money today in exchange for taking the time, energy, and sweat equity to set up systems that will do the work for you in the future.” ⇒ “It’s a lot of up-front work, and that’s the problem for most people. They prefer the short-term win.”
+  - Focus on building systems for the things that take most of your time ⇒ To do this, you must become aware of where your time is going ⇒ document it.
+  - System leverage ⇒ If you have a clear system, it can be done faster and cheaper by somebody else (or something else).
+
+  - Become aware of your system blind spots:
+    - Material Blindness ⇒ where do the materials come from?
+    - Time Blindness ⇒ how long does it actually take?
+    - Start/End Blindness ⇒ when does the system actually start and when does it end?
+
+  - Anatomy of a system:
+    - Inputs: What do you have to feed the system to make it work?
+    - Outputs: What does your system produce for you once it’s set up?
+    - Procedures (I added this): How do you turn the input into the output?
+    - Feedback loops: Can you improve the procedures?
+    - Stocks: Stocks are whatever assets pile up inside the system that then get used to generate an output.
+
+  - How to build a system:
+    - Review every possible detail of what needs to be done
+    - Document the steps
+    - Minimize the steps
+    - Automate as many steps as possible with software
+    - For the remaining steps, hire someone to complete them (job description = the remaining steps)
+
+  - A few best practices:
+    - Make sure some of your output is profit that you can use to add inputs and improve procedures based on feedback loops.
+    - Review outputs for additional cash flow opportunities (i.e. can your unused outputs be an input for something or someone else? ⇒ one person’s trash is another person’s treasure).
+    - Focus most of your time and money on building the systems that have a direct correlation to additional cash flow.
+    - Kill systems when they’re no longer necessary / don’t help you generate cash.
+    - “When looking for human talent to replace yourself in a system, try many mini-projects as tests” ⇒ projects > resume.
+    - Find human talent on sites like Fiverr, Toptal, Upwork.
+
+  - Top 7 books on systems (according to Nathan):
+    - Thinking in Systems by Donella Meadows simplifies what makes any system work and how to build your own. 
+    - Mastering the Rockefeller Habits by Verne Harnish is the easiest blueprint to follow to clearly define what outputs you want in your business — the first step to figuring out the process and inputs.
+    - Business Adventures by John Brooks highlights CEOs and companies that created the most shareholder value over their tenure. You’ll start to notice business models and their underlying systems that will set you up for success.
+    - The Outsiders by William N. Thorndike Jr. is a collection of eight stories from eight CEOs who set up systems that provided the highest capital returns in history. 
+    - Thing Explainer by Randall Munroe visually diagrams how things work using only one thousand of the most commonly used words in the English language (forces simplification and makes pattern recognition easier). 
+    - McDonald’s: Behind the Arches by John F. Love helps dissect one of the most replicated, valuable systems ever built: the burger stand. No matter what industry you’re in, you’re guaranteed to learn systems tidbits.
+    - The 4-Hour Workweek by Timothy Ferriss will help you find ways to systematize your business and your life to save time, energy, and money.
+
+- **RULE 4: Sell Pickaxes to Gold Miners.**
+  - Let others blaze the untraveled trail and then walk in and capitalize on their hard work ⇒ this is what happened during the gold rush.
+  - Gold miners went west ⇒ they needed pickaxes ⇒ others traveled west just to sell pickaxes to them (after the path was de-risked)
+  - Today, this means supporting the players going after a hot market ⇒ Example: Venture capitals need data. (Nathan is capitalizing on this)
+  - Think of the pickaxes as the submerged portion of an iceberg ⇒ It’s bigger, it’s underwater, and people can’t see.
+  - Ways to discover pickax ideas:
+    - Sell add-ons for popular items (e.g. iPhone cases)
+    - Help consumers track their obsessions (e.g. collector card tracking)
+    - Look at App marketplaces (e.g. Salesforce’s app store)
+    - Leverage online learning platforms (e.g. Hot courses on Udemy)
+    - Eavesdrop on the influencers (What are top bloggers/influencers talking about?)
+    - Look at what’s trending on crowdfunding sites (What’s hot on Kickstarter?)
+    - Scan directories (What products are most popular Patreo /  ProductHunt / Stack.G2)
+    - Study history (What patterns from the past can you apply today?)
+
+  - In a nutshell:
+    - Validate the ideas that others say they want (tip of the iceberg)
+    - Start building the pick axes (submerged part of iceberg) or sell add-ons (expand the iceberg)
+
+  - Other ideas:
+    - Buy pickaxe companies instead of building them (especially ones that have liabilities you can solve for)
+    - Develop expertise you don’t have exposure to by interviewing people in the space (it requires a strong vision / perusation to get the interviews ⇒ “My show will have a million downloads by X date.”)
+
+# The New Rich Toolbox
+
+- **Create unfair advantages with persuasion and negotiation, even when you don't have to**
+  - Use persuasion ⇒ persuade others to do things that free up your time.
+  - Use emotion (specifically, fear) to persuade ⇒ emotions drive most purchases, and fear is the strongest ⇒ when we fear, we’ll do anything to address the worry.
+  - Don’t use reason to persuade ⇒ people today are less rational and more emotional than ever ⇒ Tell a story that taps into fear (“This [pain point] could happen to you.”) ⇒ Then, sell the vitamin.
+  
+  - **Seven fear principles for persuasion:**
+    - *Fear of missing out*
+      - “Don’t miss out on this big company I’m building. Get in early.”
+      - “There are only ten tickets left, buy today before they’re all out”
+      - “Buy today before prices go up.”
+    - *Fear of the unknown*
+      - We spend tons of money triggered by what-if thinking.
+      - “Heading out on that beach vacation? Don’t forget Tylenol in your pocket to make sure headaches don’t ruin your trip.”
+    - *Fear for your life*
+      - Stem cell storage, avalanche gear
+      - “Hey, if you ever get cancer, we can use your stored stem cells to grow new, clean cells outside of your body and then use them to help you heal.”
+    - *Fear for your health*
+      - Health care
+      - “What if you have a health emergency?”
+    - *Fear of losing freedom*
+      - Productivity market ⇒ we want our time back
+    - *Fear of loneliness*
+      - Social networks, dating apps, pets, makeup
+      - “Don’t end up alone”
+    - *Fear of failure*
+      - Coaching services, online courses, books, college, lawyers
+      - “Avoid mistakes by...”
+  - Ideally, you can tap into multiple fears 
+  - Negotiate when you don’t have to ⇒ one of the reasons you lose negotiations is when you fear you’re going to lose (avoid this if you can).
+  - A few ideas to create leverage in negotiation:
+    - Create doubt (“I’m going to have trouble hitting the rent payment this month. Is there anything you can do to help me.”)
+    - Don’t shut down opportunities; let them play out (“What are you thinking?”)
+
+
+- **Dream in Decades → Think in Years → Work in Weeks → Live in Days**
+  - Dream in decades ⇒ Set audacious goals for the decade. (Visualize where you want to be in ten years, what your business, life, and home will look like ⇒ feel the success.)
+  - Think in years ⇒ Break your audacious goals into systems. (Think about the systems you need to set up to accomplish your dreams.)
+  - Work in weeks ⇒ Break your systems into projects. (What do you need to build to create new systems and what do you need to do to keep existing systems running.)
+  - Live in days ⇒ Make sure your daily work feeds your projects. (Focus on the big stuff first and eliminate distractions)
+  - Measure two things:
+    - Your bank account
+    - How good you feel
+  - If your bank account is going up and you feel good, you’re winning.
+  - Avoid context switching ⇒ when you switch tasks, it takes five to ten minutes to re-engage with the thing you were doing beforehand.
+  - Instead, using time batching ⇒ dedicate blocks of time (at least three hours) to one task or project.
+  - Eliminate distractions by making it hard for them to take over (e.g. put your phone in another room; block social media sites, etc.)
+
+- **Hidden money**
+
+  - You have way more hidden money than you think.
+  - Keep your expenses as low as possible (where can you cut right now?)
+  - Turn your liability into assets (e.g. leverage the sharing economy.)
+  - Simplify your wardrobe (e.g. wear the same thing every day.)
+  - Ask for tips (e.g. create a patreon page)
+
+- **Act wealthy**
+  - When you give off the perception of success, more success finds you.
+
+- **Buying businesses**
+
+  - A company that needs daily attention is not one that you’re going to buy ⇒ “Invest in businesses any idiot could run because someday one will.” —Peter Lynch
+  - If a deal or company looks too complicated, it’s not worth your energy.
+  - All you need to know to buy a company is its financials, its infrastructure, and its reach.
+  - You don’t need cash to buy a company but you do need cash to get things set up.
+  - Only pursue businesses that have a natural unfair advantage, e.g.:
+    - Digital over brick-and-mortar.
+    - No employees.
+    - Already-established user base.
+    - Have a monopoly over a distribution channel ⇒ (e.g. category dominance Apple app store, review category dominance on G2)
+
+  - Free apps and web extensions are good buys for beginners ⇒ They hit all of these criteria and you can usually get them for little money because the owners aren’t making substantial income off them.
+  - One 3-step framework Nathan uses:
+    - Buy free digital properties with a big user base.
+    - Hire a developer to put up a paywall that appears after someone uses the product a certain number of times.
+    - Reinvest the revenue back into the company as needed. 
+
+  - Find companies to buy on app stores and review sites ⇒ look for companies that haven’t been updated for a while.
+  - 4 steps to buy a business:
+    - Inquiry ⇒ “Hey, are you interested in selling X company?” 
+    - Offer and Negotiations ⇒ go back and forth until you agree on a sale price. 
+    - Letter of Intent (LOI) ⇒ this can be as simple as a quick email outlining your terms
+    - Due Diligence ⇒ sign an NDA (non-disclosure agreement) and then review their systems and finances. If things aren’t as expected, renegotiate or walk away.
+
+  - During due diligence, you’ll want to find out:
+    - How they acquire and retain customers
+    - How much time they spend on the business
+    - Whether they have any financial or legal liabilities
+
+  - Payment terms are not the same thing as sales price ⇒ you can pay the sales price upfront or over time or even use clawbacks.
+
+  - A few tactics to juice a business after you buy it:
+    - Double pricing. Do this the moment you take over a company — only for addicted users. If the product was free, start charging. If pricing was already established, double it. As consumers we love “free,” but we also believe that we get what we pay for. And we’re willing to pay for something that brings us value.
+    - Focus on getting current customers to pay more. Step 1 is about scaling your prices for new customers. But you can double your business without adding a single new customer by getting your current user base to pay you more, or to buy more from you.
+    - “Reduce your land and accelerate your expand.”
+      - “Our job is to land as fast as we can in the smallest thing that we can and then expand,” says Medina. “The phrase we have here is ‘make them a customer.’ The moment you make them a customer the magic shows up.”
+      - “If you keep that user active and successful, you’re going to retain them forever.”
+
+    - Optimize SEO. The options for search engine optimization (SEO) tools are endless but you can optimize your SEO for free, so make this a focus as soon as a company is yours.
+    - “If you want to spike your SEO beyond organic content I recommend using SEMrush. It’s the platform I use and understand despite knowing very little about SEO. It’s a great tool for beginners to get an edge.”
+
+    - Change where your payment pop-up shows. If you don’t have a pay wall yet, you already know you should add one. But also make sure you’re adding it in the right spot. Tying payments to usage metrics is such an effective approach because the more someone uses something, the more likely they are to get addicted to it, or rely on its utility, and be willing to pay.
+    - Understand the actions that turn leads into customers. For a brick-and-mortar store, you always want customers to walk to the back of the store. That action gets them to see more products and potentially pick things up off end caps. It’s why the most alluring section in the store — the sale rack — is always at the back. Digital properties also need customers to do certain things to become sticky. Facebook knows they need to get you to add seven new friends in the first seven days for you to get addicted to the platform. Dashlane, a password management app, knows that free users are most likely to turn into paying customers if they do two things within the first five hours of installing the app: add ten or more passwords, and install the app on at least two devices. So Dashlane CEO Emmanuel Schalit and his team doubled down on getting new users to do these things with as little effort as possible.
+
+    - Launch an affiliate program or partner network. This incentivizes others to help you drive sales by giving them a cut of revenue for customers they send your way. The most important thing about an affiliate program is to make sure you set up an offer that other people are likely to then sell through to their audience — 30 percent of the sale price is a motivating number, for example. Once you have that structure set up you can decide whether you want to use software to manage the program. I use Ambassador.
+
+  - The average net worth of people under thirty-five years old in the United States is $4,138 (Source).
+
+  - The best way to find off-the-beaten-path investments is to source them yourself ⇒ pay attention to the companies or entrepreneurs you encounter in your everyday life.
+
+  - When a business looks hot to you, and you have money with which to experiment, introduce yourself to the owner. Tell them you’re looking to invest in a business and see if they bite. At worst they’ll say no and you make a new friend.
+
+  - People or companies with big email lists are unconventional opportunities ⇒ How you find people with big lists will depend on your industry. (See Paved.com for one example.)
+
+- **Copying competitors**
+
+  - Winners don’t have new ideas; they copy competitors and add a unique angle.
+  - Find an idea to copy:
+    - Look at crowdfunding sites: Kickstarter.com, Indiegogo.com, Pozible.com, Ulule.com, and Fundable.com.
+    - Look at tool directories: Siftery.com (now part of G2), BuiltWith.com
+    - Search social media groups: LinkedIn, Facebook, Slack
+    - Listen to podcasts
+  - Reverse engineer:
+    - *Find out where they get their referral traffic* via SimilarWeb.com and go make friends with the CEOs/authors of those blogs/websites.
+    - *Find out what search terms they rank for* via Ahrefs or App Annie and start ranking for those terms
+    - *Find out how their product or service works via online research, free trials, and demos.*
+    - *Find out where their product or service tool is weak via review sites like G2 Crowd.*
+
+  - The best products rarely win; the best distribution often wins.
+
+  - 4-step process for copying and improving on competitive offerings: 
+    - Find a hot industry
+    - Figure out why leaders are leading
+    - Build your own version
+    - Attack their distribution channels
+  
+  - tools to look into
+    - Snappr.co
+    - ClaimCompass.eu and AirHelp.com.
+    - FundedToday.com
+    - Flightfox.com and have their experts figure out the most efficient and most luxurious way to fly you around the world. I paid $50 for the service, and they ended up basically handing me a $4,800 check.
+    - According to WalletHub (https://WalletHub.com/edu/states-with-the-highest-and-lowest-property-taxes/11585/), the states with the lowest real estate taxes are:
+    - Use a site like Revestor.com to see cash flow opportunities in your area.
+    - Use www.SlackList.info to find Slack lists in any industry.
+    - Ahrefs is a tool that tells you which Google searches make your competitors pop up. Going to https://Ahrefs.com
+    - ActiveCampaign, a company that I use for specific email marketing campaigns (Aweber is what I use for everything else)
+
+- **Multiplying your business**
+
+  - *Multiplying* = finding the patterns that link different projects and then use those connections to make more money ⇒ 1 + 1 = 3.
+
+  - A few multiplier ideas:
+    - Expand your offering ⇒ Ask customers what else they buy to solve the problem you solve and buy, partner, or build that product.
+    - Match your outputs from one project with your inputs from another
+    - Drive down expenses / pool them across ventures
+
+- **Selling your business**
+
+  - Timing is everything.
+  - “If a company is truly passive and making you money, hold it. If it takes your time with no end in sight, sell.... If numbers are flat or declining, sell.”
+  - Rule of thumb: If selling will get money in your pocket now that would otherwise take you 3+ years to earn, take the deal.
+
+  - A few ways to find buyers:
+
+    - *Email competitors* and say “I really need to sell the business to take care of some personal stuff. Want to chat?” ⇒ Negotiate after the initial offer
+
+    - Use social media and say “Hey, everyone, I really need to sell the business to take care of some personal stuff. Let me know if you or anyone you know might want to chat.” ⇒ this is best for sub-$10K revenue per month businesses
+
+    - Reach out to top distributors ⇒ offer to sell them the whole company.
+
+  - You can always say no to offers.
+
+- **invest in realestate**
+
+  - “Door knocking gets me better prices, but it also uncovers details that online listings can never capture, and that owners and real estate agents may fight like hell to keep from you.”
+  - “As far as scouting locations, I only buy within ten miles of a college (I currently own in Austin near the University of Texas and in Blacksburg near Virginia Tech) because students keep those rental markets nearly recession proof. A quick way to confirm this is by researching whether a town’s rental rates and property values dipped in 2008. Just Google “property data” + 2008 + the city or county in which you’re looking to buy. Browse the results until you find the Property Search Map.”
+  - “Real estate agents have access to deals via their multiple listing service (MLS). Because agents want to represent you when you buy, their goal is to help you find a deal. So ask your agent: “Can you add my email to your MLS for any multifamily deals that come on the market anywhere in the county?” When listings come in, you’ll automatically see the data, which will include rental information.”
+  - “So aside from door knocking, target pocket listings. These are properties that a real estate agent knows are for sale, or might soon be for sale, that aren’t listed on the MLS. That means the public hasn’t had the chance to see them and spoil your chances at a sweet deal.”
+  - “You can get a more realistic sense of what a unit is worth, and whether it will make you money after expenses, by searching public records. Every county in the United States posts property records in its online tax portal. The particulars vary from county to county, but you can usually find your county’s tax portal by doing a Google search for “Your County Name + Your State + parcel ID.” My first deal was in Blacksburg, Virginia (Montgomery County), so I searched “Montgomery County VA parcel ID.”
+  - “Once you have the owner’s contact info, invite them to coffee and see if they’d be willing to sell. Offer 100x what they are making on rent per month. If their unit makes them $2K per month, offer $200K.”
+  - "If the worst-case scenario does not generate cash flow (monthly income greater than $0), do not do the deal. This is called “stress testing” a deal.”
+
+  - Step 1: Find a great deal. Go to a real estate agent in your market and ask them for direct access to their “Back-end MLS.” They’ll put your email in their system and anytime a new deal comes on the market, you’ll get an email. 
+  - Step 2: Figure out how much money you can make. Peek at these deals every now and then and compare the selling price to the rental income. The MLS will have rental income listed if it exists. Look for deals where rent makes up at least 1 percent of the total deal value. If the sale price is $200K, you’re looking at a good deal if rents add up to about $2K. 
+  - Step 3: Finance the deal with no money down. Minimize the cash you need. The largest chunk of cash you pay in a real estate deal is the down payment. If you’re living in the place you’re buying, expect to put 5 percent down. If you’re renting, expect to put down 20 percent. Our next step details how to get out of paying this money down.
+  - Step 4: Manage your property without spending time. Find the property management company you want to use to manage your unit after the purchase. Your business is worth about 10 percent of rental income per month. If you make $2K in monthly rent, the property management company will take $200 per month or $2,400 per year. If you intend to hold the property for life, let’s say fifty years, that money starts to add up. Ask your property management company to write you a $4,800 check (two years of property management fees); otherwise tell them you won’t do the deal and they’ll miss out on a lifetime of 10 percent of your rental income. 
+  - Step 5: Close the deal. Sit back and collect your monthly payment. In my example that’s $500/month.”
+
+
+# Quotes
+
+“Pay attention to what’s blowing up today. If weekly food delivery is big, don’t try to compete with HelloFresh and Blue Apron. Rather, figure out the infrastructure that those businesses rely on and offer it to them.”
+
+“Joining the New Rich has only two requirements: a desire for more free time to do what you want while making money on your terms, and ambition. I can’t teach ambition, so you’ll need to bring your own.”
+
+“The key is to analyze a business and pinpoint a need it’s not meeting for its customers — and then meet that need yourself.”
+
+“However you start out, my only rule is that you’re always pursuing three new opportunities at the same time. Once a venture is up and running, you’re going to set it on autopilot so it only takes an hour or two of your time per month.”
+
+“That’s why the rules of baseball allow three chances to swing at a good pitch. The same goes for your business ventures. Sometimes you’ll miss those good balls because you’re not looking; or you’ll have other life emergencies that keep you from calculating that perfect swing. It’s OK to miss, but it’s important that you actually swing at those good balls.”
+
+“Another big reason it’s so important to swing at those good balls is that when you swing and miss, you get to diagnose why you missed. Any venture you attempt and then shut down accelerates your learning. Swinging at each good opportunity sets you up to learn three times faster than if you’d never tried.”
+
+“You won’t have time to work on three huge, time-consuming projects at once. So focus 80 percent of your time on one project — the one that brings in the most money or that has the potential to be your biggest earner. Split the other 20 percent of your time between the two remaining ventures.”
+
+“I’m an investor in a hostel where I live in Austin, Texas. One thing I’m betting on is that as we move into the next four or five years, people are going to hate the idea of paying rent. They’ll much rather pay a monthly subscription fee to live anywhere they want in the world. If I want to tap into that demand, I’ll have to own hostels in multiple cities around the world. People will pay me one fee of, say, $1K per month and they can choose to stay in whichever one of my properties they want, whenever they want. They’ll have location freedom.”
+
+“That’s essentially what you’re doing when you’re copying — you’re looking for the patterns that got your competitors to the top. Then you’re using that information to match or beat them. When you do this, you’re essentially getting a free business lesson. If you don’t copy these free lessons, you’ll have to do what those with less knowledge do: pay to learn the lessons yourself.”
+
+““I’ve always thought that each person invented himself . . . that we are each a figment of our own imagination. The problem is, most people have no imagination.” — David Geffen
+
+“Imagine how your life would change if you didn’t buy these items unless you could actually afford to buy one every day. This is a good rule to use, and it’s also why most goals are so dangerous. When a goal is small enough to seem doable, even if it’s hard, you focus on the win and never put effort into mastering the process that will get you that result plus more (over and over again).”
+
+“Systems thinking requires you to give up making money today in exchange for taking the time, energy, and sweat equity to set up systems that will do the work for you in the future. It’s a lot of up-front work, and that’s the problem for most people. They prefer the short-term win. They need the instant gratification.”
+
+“Build systems around the things that take up most of your time. Sadly, most people don’t even know what those things are. How many of us are constantly busy but can’t look back on our day and say what we did? It’s all a blur. If that’s you (and even if it’s not), spend a week documenting what you’re doing. This kind of awareness forces you to be reflective and intentional, not reactive to whatever thing is in front of you.”
+
+“This is the essence of systems leverage. If you have a clear system, it can be done faster and cheaper by somebody (or even something) other than you.”
+
+“Getting your system set up is more important than deciding you want to make $1M per year. That’s because once you have the bones of your system set up, the way you crank up production is by changing your inputs and outputs, better managing your stocks, and creating feedback loops that give you a true unfair advantage against your competitors.”
+
+“Think about all of your expenses right now. Now go negotiate all of them down using hard and soft power (hard: “I’m canceling my account unless you give me a $100/month discount”; soft: “I’m trying to save money and it would mean a lot if you could decrease monthly payments for two months until the business regains its footing”).”
+
+“a tool called Acuity that lets the CEOs pick a time from my calendar. No need for a middle person to deal with scheduling. Immediately after the interview happens Acuity sends the CEO an email to thank them and let them know when the interview will go live.”
+
+“Make sure the systems you’re spending most of your time and money on scaling have a direct correlation to additional cash flow, whether that’s downloads that translate to sponsor dollars, website impressions that convert to an increase in your average cart checkout size, if you’re an e-commerce brand, or a system for marketing the newspaper that drives more people to your brick-and-mortar location.”
+
+“People often get stuck working on systems that suck up their time but don’t bring in cash. It’s so tempting to lie to yourself because a system feels good when it isn’t actually accomplishing anything. So be hyperintentional about where you’re spending your time and ruthlessly kill any systems that don’t have a direct correlation to growing your bank account.”
+
+“I came up with a very simple “Decision System” I filter these kinds of purchases through. It saves me energy every time this sort of purchase comes up, and its simplicity gives it a very high utility value. If, with my current monthly income stream, I couldn’t afford to purchase one of these things every day, I don’t buy it. Simple as that. That’s the rule. For cars, houses, vacations, dinners, everything.”
+
+“That’s the beauty of what I call “selling pickaxes to gold miners.” You let the gold miners do all the work and then siphon profits off the market they’ve created. This works in B2B selling and on the consumer side, too. So while everyone’s spending money on fidget spinners, you might sell the “Fidget Spinner Sticker Kit.” While Amazon pulls a profit from third-party sellers, you might create an inventory-tracking program for those sellers. Pickaxes are hiding behind every popular marketplace. They can be hard to spot at first, but the more you start thinking this way, the more they’ll show themselves to you.”
+
+“Study the greats to find history’s lucrative patterns. Read biographies of successful businesspeople and identify the behaviors and strategies that got them to the top. You can also turn to documentaries — like American Genius and The Men Who Built America — to learn how pioneers built businesses.”
+
+“Whatever your business or industry, remember that the gold mine is the hot trend. That’s the part of the iceberg above the water that everyone sees and wants. The pickax is the part of the iceberg below the water — the part nobody can see but that the hot trend relies on to function.”
+
+“Victor Levitin created CrazyLister in 2013 in response to sellers’ frustration over the complicated process of posting items on eBay.”
+
+“There’s rarely a magic bullet for immersing yourself in a new industry — but Toptal is pretty close. You can know nothing about a particular business area, but post your project on Toptal and they will recommend experts for you to work with. So let’s say you want to develop an app that helps salons book appointments more efficiently. You can post that exact sentence on Toptal and they’ll help you find mobile developers. It’s that simple.”
+
+“That’s a big blind spot for people. They shut down opportunities they’re not interested in rather than letting the conversation play out. But remember, your best analysis is done when you have people’s best and final offers in hand, whether that’s employees you want to recruit, CEOs you’re trying to sell your company to, or customers you’re trying to sell a product to. You want to be as close to the finish line as possible before you decide on anything so that you have the best and most accurate data possible. Do this even if you don’t want the deal. Remember, your best position in a negotiation is when you don’t need it to work out. Your upper-hand approach may get you terms so good that you’ll change your mind.”
+
+“Most people, though, won’t accomplish anything. They’ll get charged up by a project’s potential, obsess over their to-do lists, then feel paralyzed by the enormity of it all. Or at best, they’ll get through 10 percent of what needs to be done before they quit.”
+
+“Every time you switch tasks it takes five to ten minutes to reengage with the thing you were doing beforehand. If you switch tasks ten times during the day, that’s one hundred minutes, or almost two hours of productivity you lose every day.”
+
+“Men acquire a particular quality by constantly acting a certain way.” — Aristotle
+
+““Invest in businesses any idiot could run because someday one will.” — Peter Lynch
+
+“Employees are usually an organization’s biggest expense, so I avoid business models that rely on them. Digital products are perfect for this because you can tap the huge talent pool of freelancers on Toptal.com, Freelancer.com, Fiverr.com, etc., to do the work you need on a project basis. When the work is done you put the product on autopilot and print money until you decide to do another update (then tweak, test, and back on autopilot).”
+
+“You don’t want to spend time building an audience from scratch, or learn the hard way that there is no audience for your product.”
+
+“So, my basic strategy, step-by-step: Buy free digital properties with a big user base. Hire a Toptal developer to put up a pay wall that appears after someone uses the product a certain number of times. Reinvest the revenue back into the company as needed. Also use the income from this business to buy other companies (and to fill my pockets!).”
+
+“When I discovered Mail2Cloud it had already been in the Chrome Web Store for five years. It was rated as a top recommendation in the store’s Productivity category and had more than two thousand five-star reviews.”
+
+“It was no Google, but Mail2Cloud clearly had a solid spot in a specific distribution channel — the Chrome Web Store’s Productivity corner. Mail2Cloud’s user data on ChromeBeat.com also showed that it had been consistently adding one hundred new users every day for the last four years.That was enough information to make me want to keep exploring.”
+
+“Start searching: Browse sites like AppAnnie.com, the Chrome Web Store, the Salesforce AppExchange, the Intuit App Center, or the Apple App Store for the top mobile apps in different industries and categories. See what companies rank high on G2 Crowd. Search CrunchBase.com for companies that raised capital but haven’t gotten new funding in the last three years. They’re probably failing, and you’re likely to get them for a great deal. I have several friends who have bought companies for $30K or less after those companies raised at least $10M in start-up capital. I don’t recommend that beginners do this, but if you build up the experience to take on this kind of acquisition, always make sure you can identify the reason the company is failing and whether it’s something you can easily turn around.”
+
+“When searching for apps or Chrome extensions I go entirely by reviews, number of users, and the date the software was last updated. If reviews and users are high and the last update was more than a few months ago, I consider it a prospect.”
+
+“Once I take over a company I run it through my playbook to get it operating at top efficiency.”
+
+“Starting a company from the ground up teaches you what’s needed to run one well. I recommend that before you buy a business, try starting one yourself just so you can learn. If you never obsess over creating a system that kills inefficiencies and generates cash flow you won’t know how to recognize one when you see it in another company. It also helps you appreciate what you’re getting when you do buy one. These companies already have systems set up. They already have customers. You’re just running tweaks on them.”
+
+“Buying is also much more of a beginner’s game than investing. It sounds counterintuitive, but you need more cash in hand to invest in a business than you do to buy one. CEOs won’t waste time talking to someone offering a $1K investment in their company. They want at least six figures. Even very small businesses need a good chunk of cash before they’ll consider forking over equity. Ming’s Yummy Thai Food, a two-person operation, needed $6K for my investment to have a meaningful impact on their cash flow. Firehouse Hostel needed $11K. By comparison, you can buy a company for very little money, or no money at all, if you find a motivated seller. So focus on buying companies if you’re just starting out. As you keep doing it, you’ll eventually start writing investment checks with the extra cash flow. One revenue stream spawns another. Exactly what you want.”
+
+“The smarter thing to do, and what I do when I’m interested in making a larger investment in a company, is ask to see their numbers. I need them to show me at least a three- or four-year financial history before I consider investing. Anything less is too risky. And if they don’t have a structure for reporting that lets me look at their historical financials and see growth, I’m out. I also need to have confidence that once I put money in, I’ll get updated financial reports every month. If that doesn’t exist I stay away from the investment.”
+
+“One of my key strategies is to look for a business that is making a big monthly payment on something. If I can pay for that thing up front, erasing the payment, it frees up their cash. I’ll then tie my return to the growth of the business, which I know I can help drive with my distribution channels.”
+
+“How you find people with big lists will depend on your industry. I’m in software, so I’d go to sites like G2Crowd.com or Siftery.com and see who has the most users. Obviously if they have a lot of users they have those users’ email addresses. Then I’d do cold outreach to those companies. Paved.com and Sponsored.tech are two more outlets for access to big email lists.”
+
+“In terms of finding people who’d want to buy access to lists, listen to podcasts and notice who is sponsoring them. Those same people are looking to pay for additional exposure. Also Google keywords associated with your industry, or whatever the list is about that you’re brokering a deal with. Notice who is running ads for that thing, then reach out to them and say: Hey, I noticed you’re spending money on Google ads. You might get a better return if you spend some money with me and email this list, which is catered to the same keywords that you’re running on Google.”
+
+Ironic given Facebook copying Snapchat’s stories sent Snap into a bit of a death spiral — “People are going to copy your product if you build great stuff. Just because Yahoo has a search box doesn’t make it Google.” — Evan Spiegel
+
+“Have you seen those sections at the bottom of major blogs that showcase sponsored content, or “related posts”? Companies like Outbrain and Taboola have dominated this space for years, but it didn’t stop John Lemp at Revcontent from throwing his weight into the competition. In 2017, Revcontent processed $184M of ad spend through its platform, collecting 25 percent of that as revenue. This is a prime example in which a big thinker ignored the conventional wisdom that “you must have a new idea!” Instead, he went right after business models already proven and is now chipping away at their lead.”
+
+“BuiltWith.com is a site that will tell you what technologies other websites use. In other words, it lets you see what pickaxes the gold miners are using. If you were interested in the e-commerce space, it’d be valuable to know who currently has how much market share. You can then reverse engineer why the winners are winning and losers are losing to increase your chances of success in the same space. Go to BuiltWith.com and click TOOLS in the dropdown to start exploring trends.”
+
+“SimilarWeb is a tool that tells you where websites get most of their traffic from. If I wanted to build a competitor to Todoist.com, I’d go to SimilarWeb, type in “Todoist.com,” and this report would generate: I immediately learn that the majority of Todoist.com traffic comes from LifeHacker.com and Ifttt.com. Go make friends with the CEOs/authors of those blogs/websites. It’s a double whammy to persuade those people to write about your new tool while at the same time hurting your competitors’ traffic.”
+
+“Use App Annie if you’re trying to study a market in the mobile app space. For example, if I were analyzing the document signing space, I might explore how HelloSign ranks so well in the App Store. Going to App Annie and searching “HelloSign” creates this word cloud that tells me what people search in the App Store to find HelloSign.”
+
+“Post a job and let Toptal recruiters go find you development talent. I used Balsamiq.com to wireframe different user flows for the new tool, which helps my developer better guess how much time (and money!) a project might take”
+
+“The reason I much prefer using a site like Toptal to build my initial prototype is twofold: You keep 100 percent equity in your company. You don’t increase your fixed monthly expenses as you would if you hired an employee. Also, you don’t have to worry about health coverage, birthdays, or office parties (which usually waste time).”
+
+“Once you’re done using Toptal to build your minimum viable product, you want to start figuring out ways to attack your competitors. Read their support forum if they have one and see what their most requested features are that don’t exist yet. I call this the “support-driven business launch guide.” You can literally launch a business based on the intel you find here.”
+
+“There’s a specific way to do this to get the information you want: immediately after one of your customers checks out, ask them what other products they buy that are similar. You can do this whether you have one hundred, one thousand, or three customers. Just send them an email asking: “What other tools have you bought to help you X?”
+
+“Look at which customers have paid you the most historically, then figure out why they paid you the most and introduce pricing tiers around that data. Don’t make decisions based on your gut alone, which is sometimes right but often wrong. You want gut + data.”
+
+“If you’re spending all your time running a company, it’s preventing you from generating other revenue streams. A lot of people lie to themselves about this. They think a project is passive when it actually eats tons of their time. If a company is truly passive and making you money, hold it. If it takes your time with no end in sight, sell.”
+
+“I was obsessed with Jim Collins’s mantra: Good is the enemy of great. And I wanted big-time “great.” I knew I had to get out of Heyo and free up my time so I could do the deals I’m doing now, which are making me millions. It was the right move.”
+
+the deal is not done until the deal is done. Follow up, follow up, About 20-30 percent of deals fall through. You can be there to close when no one else can
+
+# References
+- https://www.scribd.com/book/556011288/Summary-of-Brandon-Turner-s-The-Book-on-Investing-In-Real-Estate-with-No-and-Low-Money-Down
+- https://www.youtube.com/watch?v=p7O-McTkKcE&ab_channel=CoachCarson
+- https://coachcarson.libsyn.com/how-i-bought-33-real-estate-deals-in-one-year-a-case-study
+- https://manassaloi.com/booksummaries/2017/07/24/no-money-down-turner.html
+- https://manassaloi.com/booksummaries/2020/12/30/capitalist-latka.html
+- https://medium.com/@kwharrison13/how-to-be-a-capitalist-without-any-capital-book-review-quotes-a8767fe1f3d7
+- https://summaries.com/blog/how-to-be-a-capitalist-without-any-capital
+- https://www.ricklindquist.com/notes/how-to-be-a-capitalist-without-any-capital
+- https://www.coachcarson.com/rental-retirement-strategy/
+- https://www.sunshak.com/raising-private-capital/
+- https://www.rickcarabba.com/book-notes/raising-private-capital
