@@ -10913,6 +10913,82 @@ Based on available data, Skyview Ranch can be classified as a B neighborhood. Th
 - **Development Opportunities:** Exploring opportunities for new construction or redevelopment, especially in areas permitting higher density, can yield significant returns.
 
 # Hounsfield Heights/Briar Hill
+
+## 🏞️ Nearby Amenities & Attractions
+
+- **Transportation**:Lions Park C-Train station provides convenient LRT access
+
+- **Shopping & Dining**: Proximity to North Hill Centre and a variety of restaurants along 16th Avenue NW
+
+- **Education & Culture**: Close to SAIT, Alberta University of the Arts, Jubilee Auditorium, and the University of Calgary
+
+- **Recreation**: Access to the Bow River Pathway, Foothills Athletic Park, and numerous parks and green spaces
+
+---
+
+## 🏠 Housing Characteristics
+
+- **Construction Era** Predominantly developed in the early 1950s, with some homes dating back to 191.
+
+- **Building Types**  A mix of single-family detached homes, bungalows, and a selection of condominiums and apartment.
+
+- **Zoning Regulations** Primarily zoned as R-1, favoring single-family homes on larger lot. Restrictive covenants often limit properties to one single-family home per lot.
+
+- **Development Plans** The Riley Local Area Plan is under development, aiming to guide future growth while maintaining community characte.
+
+---
+
+## 📊 Demographics & Economics
+
+- **Population*: Approximately 2,943 residents as of the latest data.
+
+- **Population Growth*: Experienced a 42% increase from 2000 to 2025.
+
+- **Median Household Income*: Reported at $59,502 in 2000; more recent figures suggest higher averages, reflecting the area's affluenent.
+
+---
+
+## 🛡️ Safety
+
+- **Crime Rate*: Crime rates are significantly lower than national averages, with violent crimes 43% below the national average.
+
+---
+
+## 🏘️ Rental Market Insights
+
+- **Average Rents**:
+  - Stuio: $1,414
+  - 1-Bedrom: $1,650
+  - 2-Bedrom: $1,995
+  - 3-Bedrom: $2,300
+  - 4-Bedrom: $2,600
+
+- **Rental Deman**: High demand due to proximity to educational institutions and downtown, coupled with limited supply, supports strong rental rates.
+
+---
+
+## 🏡 Real Estate Market Overview
+
+- **Average Home Prices**:
+  - Single-Family Hmes: Approximately $1.24 milion.
+  - Condominums: Around $45,673.
+
+- **Market Dynamis**: Properties typically spend 34 days on the market, indicating a healthy turnoverrate.
+
+---
+
+## 💼 Investment Potential
+
+- **Neighborhood Classificaton**: Classified as an 'A' neighborhood due to its prime location, high property values, and low crimerates.
+
+- **Appreciation Outlok**: Strong long-term appreciation potential, driven by limited housing supply and ongoing emand.
+
+- **Investment Strategies**:
+  - **Buy-and-Hld**: Ideal for long-term capital apprecation.
+  - **Luxury Rentls**: Catering to professionals and academics seeking proximity to downtown and educational instittions.
+  - **Renovation Projets**: Updating older homes to meet modern standards can yield significant rturns.
+---
+
 # University Heights
 # Downtown East Village
 # Glendale
