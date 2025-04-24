@@ -1,0 +1,824 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="generator" content="Gatsby 5.14.0"/><meta data-react-helmet="true" name="description" content="Financial Statement Analysis A Practitioner Guide by Martin S. Fridson"/><meta data-react-helmet="true" property="og:title" content="Financial Statement Analysis A Practitioner Guide by Martin S. Fridson - wip"/><meta data-react-helmet="true" property="og:description" content="Financial Statement Analysis A Practitioner Guide by Martin S. Fridson"/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" name="twitter:card" content="summary"/><meta data-react-helmet="true" name="twitter:creator" content="ttrungvo"/><meta data-react-helmet="true" name="twitter:title" content="Financial Statement Analysis A Practitioner Guide by Martin S. Fridson - wip"/><meta data-react-helmet="true" name="twitter:description" content="Financial Statement Analysis A Practitioner Guide by Martin S. Fridson"/><style data-href="/styles.8dfba4a7c3d44b256d62.css" data-identity="gatsby-global-css">@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/static/montserrat-latin-100-8d7d79679b70dbe27172b6460e7a7910.woff2) format("woff2"),url(/static/montserrat-latin-100-ec38980a9e0119a379e2a9b3dbb1901a.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/static/montserrat-latin-100italic-e279051046ba1286706adc886cf1c96b.woff2) format("woff2"),url(/static/montserrat-latin-100italic-3b325a3173c8207435cd1b76e19bf501.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/static/montserrat-latin-200-9d266fbbfa6cab7009bd56003b1eeb67.woff2) format("woff2"),url(/static/montserrat-latin-200-2d8ba08717110d27122e54c34b8a5798.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/static/montserrat-latin-200italic-6e5b3756583bb2263eb062eae992735e.woff2) format("woff2"),url(/static/montserrat-latin-200italic-a0d6f343e4b536c582926255367a57da.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/static/montserrat-latin-300-00b3e893aab5a8fd632d6342eb72551a.woff2) format("woff2"),url(/static/montserrat-latin-300-ea303695ceab35f17e7d062f30e0173b.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/static/montserrat-latin-300italic-56f34ea368f6aedf89583d444bbcb227.woff2) format("woff2"),url(/static/montserrat-latin-300italic-54b0bf2c8c4c12ffafd803be2466a790.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/static/montserrat-latin-400-b71748ae4f80ec8c014def4c5fa8688b.woff2) format("woff2"),url(/static/montserrat-latin-400-0659a9f4e90db5cf51b50d005bff1e41.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/static/montserrat-latin-400italic-6eed6b4cbb809c6efc7aa7ddad6dbe3e.woff2) format("woff2"),url(/static/montserrat-latin-400italic-7583622cfde30ae49086d18447ab28e7.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/static/montserrat-latin-500-091b209546e16313fd4f4fc36090c757.woff2) format("woff2"),url(/static/montserrat-latin-500-edd311588712a96bbf435fad264fff62.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/static/montserrat-latin-500italic-c90ced68b46050061d1a41842d6dfb43.woff2) format("woff2"),url(/static/montserrat-latin-500italic-5146cbfe02b1deea5dffea27a5f2f998.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/static/montserrat-latin-600-0480d2f8a71f38db8633b84d8722e0c2.woff2) format("woff2"),url(/static/montserrat-latin-600-b77863a375260a05dd13f86a1cee598f.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/static/montserrat-latin-600italic-cf46ffb11f3a60d7df0567f8851a1d00.woff2) format("woff2"),url(/static/montserrat-latin-600italic-c4fcfeeb057724724097167e57bd7801.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/static/montserrat-latin-700-7dbcc8a5ea2289d83f657c25b4be6193.woff2) format("woff2"),url(/static/montserrat-latin-700-99271a835e1cae8c76ef8bba99a8cc4e.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/static/montserrat-latin-700italic-c41ad6bdb4bd504a843d546d0a47958d.woff2) format("woff2"),url(/static/montserrat-latin-700italic-6779372f04095051c62ed36bc1dcc142.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/static/montserrat-latin-800-db9a3e0ba7eaea32e5f55328ace6cf23.woff2) format("woff2"),url(/static/montserrat-latin-800-4e3c615967a2360f5db87d2f0fd2456f.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/static/montserrat-latin-800italic-bf45bfa14805969eda318973947bc42b.woff2) format("woff2"),url(/static/montserrat-latin-800italic-fe82abb0bcede51bf724254878e0c374.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/static/montserrat-latin-900-e66c7edc609e24bacbb705175669d814.woff2) format("woff2"),url(/static/montserrat-latin-900-8211f418baeb8ec880b80ba3c682f957.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/static/montserrat-latin-900italic-4454c775e48152c1a72510ceed3603e2.woff2) format("woff2"),url(/static/montserrat-latin-900italic-efcaa0f6a82ee0640b83a0916e6e8d68.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/static/merriweather-latin-300-fc117160c69a8ea0851b26dd14748ee4.woff2) format("woff2"),url(/static/merriweather-latin-300-58b18067ebbd21fda77b67e73c241d3b.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/static/merriweather-latin-300italic-fe29961474f8dbf77c0aa7b9a629e4bc.woff2) format("woff2"),url(/static/merriweather-latin-300italic-23c3f1f88683618a4fb8d265d33d383a.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/static/merriweather-latin-400-d9479e8023bef9cbd9bf8d6eabd6bf36.woff2) format("woff2"),url(/static/merriweather-latin-400-040426f99ff6e00b86506452e0d1f10b.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/static/merriweather-latin-400italic-2de7bfeaf08fb03d4315d49947f062f7.woff2) format("woff2"),url(/static/merriweather-latin-400italic-79db67aca65f5285964ab332bd65f451.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/static/merriweather-latin-700-4b08e01d805fa35d7bf777f1b24314ae.woff2) format("woff2"),url(/static/merriweather-latin-700-22fb8afba4ab1f093b6ef9e28a9b6e92.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/static/merriweather-latin-700italic-cd92541b177652fffb6e3b952f1c33f1.woff2) format("woff2"),url(/static/merriweather-latin-700italic-f87f3d87cea0dd0979bfc8ac9ea90243.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/static/merriweather-latin-900-f813fc6a4bee46eda5224ac7ebf1b7be.woff2) format("woff2"),url(/static/merriweather-latin-900-5d4e42cb44410674acd99153d57df032.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/static/merriweather-latin-900italic-b7901d85486871c1779c0e93ddd85656.woff2) format("woff2"),url(/static/merriweather-latin-900italic-9647f9fdab98756989a8a5550eb205c3.woff) format("woff")}
+
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{-webkit-text-size-adjust:100%;line-height:1.15}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden]{display:none}:root{--maxWidth-none:"none";--maxWidth-xs:20rem;--maxWidth-sm:24rem;--maxWidth-md:28rem;--maxWidth-lg:32rem;--maxWidth-xl:36rem;--maxWidth-2xl:42rem;--maxWidth-3xl:48rem;--maxWidth-4xl:56rem;--maxWidth-full:"100%";--maxWidth-wrapper:var(--maxWidth-2xl);--spacing-px:"1px";--spacing-0:0;--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--fontFamily-sans:Montserrat,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--fontFamily-serif:"Merriweather","Georgia",Cambria,"Times New Roman",Times,serif;--font-body:var(--fontFamily-serif);--font-heading:var(--fontFamily-sans);--fontWeight-normal:400;--fontWeight-medium:500;--fontWeight-semibold:600;--fontWeight-bold:700;--fontWeight-extrabold:800;--fontWeight-black:900;--fontSize-root:16px;--lineHeight-none:1;--lineHeight-tight:1.1;--lineHeight-normal:1.5;--lineHeight-relaxed:1.625;--fontSize-0:0.833rem;--fontSize-1:1rem;--fontSize-2:1.2rem;--fontSize-3:1.44rem;--fontSize-4:1.728rem;--fontSize-5:2.074rem;--fontSize-6:2.488rem;--fontSize-7:2.986rem;--color-primary:#005b99;--color-text:#2e353f;--color-text-light:#4f5969;--color-heading:#1a202c;--color-heading-black:#000;--color-accent:#d1dce5}*,:after,:before{box-sizing:border-box}html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:var(--fontSize-root);line-height:var(--lineHeight-normal)}body{color:var(--color-text);font-family:var(--font-body);font-size:var(--fontSize-1)}footer{padding:var(--spacing-6) var(--spacing-0)}hr{background:var(--color-accent);border:0;height:1px}h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);letter-spacing:-.025em;line-height:var(--lineHeight-tight);margin-bottom:var(--spacing-6);margin-top:var(--spacing-12)}h2,h3,h4,h5,h6{color:var(--color-heading);font-weight:var(--fontWeight-bold)}h1{color:var(--color-heading-black);font-size:var(--fontSize-6);font-weight:var(--fontWeight-black)}h2{font-size:var(--fontSize-5)}h3{font-size:var(--fontSize-4)}h4{font-size:var(--fontSize-3)}h5{font-size:var(--fontSize-2)}h6{font-size:var(--fontSize-1)}h1>a,h2>a,h3>a,h4>a,h5>a,h6>a{color:inherit;text-decoration:none}p{--baseline-multiplier:0.179;--x-height-multiplier:0.35;line-height:var(--lineHeight-relaxed);margin:var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0)}ol,p,ul{padding:var(--spacing-0)}ol,ul{list-style-image:none;list-style-position:outside;margin-bottom:var(--spacing-8);margin-left:var(--spacing-0);margin-right:var(--spacing-0)}ol li,ul li{padding-left:var(--spacing-0)}li>p,ol li,ul li{margin-bottom:calc(var(--spacing-8)/2)}li :last-child{margin-bottom:var(--spacing-0)}li>ul{margin-left:var(--spacing-8);margin-top:calc(var(--spacing-8)/2)}blockquote{border-left:var(--spacing-1) solid var(--color-primary);color:var(--color-text-light);font-size:var(--fontSize-2);font-style:italic;margin-bottom:var(--spacing-8);margin-left:calc(var(--spacing-6)*-1);margin-right:var(--spacing-8);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6)}blockquote>:last-child{margin-bottom:var(--spacing-0)}blockquote>ol,blockquote>ul{list-style-position:inside}table{border-collapse:collapse;border-spacing:.25rem;margin-bottom:var(--spacing-8);width:100%}table thead tr th{border-bottom:1px solid var(--color-accent)}a{color:var(--color-primary)}a:focus,a:hover{text-decoration:none}.global-wrapper{margin:var(--spacing-0) auto;max-width:var(--maxWidth-wrapper);padding:var(--spacing-10) var(--spacing-5)}.global-wrapper[data-is-root-path=true] .bio{margin-bottom:var(--spacing-20)}.global-header{margin-bottom:var(--spacing-12)}.main-heading{font-size:var(--fontSize-7);margin:0}.post-list-item{margin-bottom:var(--spacing-8);margin-top:var(--spacing-8)}.post-list-item p{margin-bottom:var(--spacing-0)}.post-list-item h2{color:var(--color-primary);font-size:var(--fontSize-4);margin-bottom:var(--spacing-2);margin-top:var(--spacing-0)}.post-list-item header{margin-bottom:var(--spacing-4)}.header-link-home{font-family:var(--font-heading);font-size:var(--fontSize-2);font-weight:var(--fontWeight-bold);text-decoration:none}.bio{display:flex;margin-bottom:var(--spacing-16)}.bio p,.bio-avatar{margin-bottom:var(--spacing-0)}.bio-avatar{border-radius:100%;margin-right:var(--spacing-4);min-width:50px}.blog-post header h1{margin:var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0)}.blog-post header p{font-family:var(--font-heading);font-size:var(--fontSize-2)}.blog-post-nav ul{margin:var(--spacing-0)}.gatsby-highlight{margin-bottom:var(--spacing-8)}@media (max-width:42rem){blockquote{margin-left:var(--spacing-0);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4)}ol,ul{list-style-position:inside}}code[class*=language-],pre[class*=language-]{word-wrap:normal;background:none;color:#000;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;-webkit-hyphens:none;hyphens:none;line-height:1.5;tab-size:4;text-align:left;text-shadow:0 1px #fff;white-space:pre;word-break:normal;word-spacing:normal}code[class*=language-] ::selection,code[class*=language-]::selection,pre[class*=language-] ::selection,pre[class*=language-]::selection{background:#b3d4fc;text-shadow:none}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{margin:.5em 0;overflow:auto;padding:1em}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{border-radius:.3em;padding:.1em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{background:hsla(0,0%,100%,.5);color:#9a6e3a}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}</style><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){const t=e.target;if(void 0===t.dataset.mainImage)return;if(void 0===t.dataset.gatsbyImageSsr)return;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><style type="text/css">
+    .anchor.before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: translateX(-100%);
+      padding-right: 4px;
+    }
+    .anchor.after {
+      display: inline-block;
+      padding-left: 4px;
+    }
+    h1 .anchor svg,
+    h2 .anchor svg,
+    h3 .anchor svg,
+    h4 .anchor svg,
+    h5 .anchor svg,
+    h6 .anchor svg {
+      visibility: hidden;
+    }
+    h1:hover .anchor svg,
+    h2:hover .anchor svg,
+    h3:hover .anchor svg,
+    h4:hover .anchor svg,
+    h5:hover .anchor svg,
+    h6:hover .anchor svg,
+    h1 .anchor:focus svg,
+    h2 .anchor:focus svg,
+    h3 .anchor:focus svg,
+    h4 .anchor:focus svg,
+    h5 .anchor:focus svg,
+    h6 .anchor:focus svg {
+      visibility: visible;
+    }
+  </style><script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      var hash = window.decodeURI(location.hash.replace('#', ''))
+      if (hash !== '') {
+        var element = document.getElementById(hash)
+        if (element) {
+          var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+          var clientTop = document.documentElement.clientTop || document.body.clientTop || 0
+          var offset = element.getBoundingClientRect().top + scrollTop - clientTop
+          // Wait for the browser to finish rendering before scrolling.
+          setTimeout((function() {
+            window.scrollTo(0, offset - 0)
+          }), 0)
+        }
+      }
+    })
+  </script><link rel="alternate" type="application/rss+xml" title="Tony Vo Blog RSS Feed" href="/rss.xml"/><link rel="icon" href="/favicon-32x32.png?v=b811602c8c8ce14b66aae6613c8968f4" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=b811602c8c8ce14b66aae6613c8968f4"/><title data-react-helmet="true">Financial Statement Analysis A Practitioner Guide by Martin S. Fridson - wip | Conversations on agile technical practices and investments</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="global-wrapper" data-is-root-path="false"><header class="global-header"><a class="header-link-home" href="/">Conversations on agile technical practices and investments</a></header><main><article class="blog-post" itemscope="" itemType="http://schema.org/Article"><header><h1 itemProp="headline">Financial Statement Analysis A Practitioner Guide by Martin S. Fridson - wip</h1><p>February 15, 2022</p></header><section itemProp="articleBody"><h1 id="interpretation-of-financial-statements" style="position:relative;"><a href="#interpretation-of-financial-statements" aria-label="interpretation of financial statements permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>interpretation of financial statements</h1>
+<ul>
+<li>
+<p><a href="/interpretation-of-financial-statements/">interpretation of financial statements by Benjamin Graham and Warren Buffett</a></p>
+</li>
+<li>
+<p>tracking how the money flows through a business is like watching a plumber determine where the leak is in a house. He starts at the source, where the water enters the main valve into the house (the net income), and ends at the sink (the growing/decreasing equity and/or dividend). A well-managed, profitable business will show a strong cash flow through the accounts’ plumbing.</p>
+</li>
+<li>
+<p>the accounting system is based on double entries. For every debit, there must be a credit.</p>
+</li>
+<li>
+<p><strong>cash-based accounting</strong></p>
+<ul>
+<li>transaction is recorded only when cash is physically or digitally received into the bank account, not when the service or product is provided or received.</li>
+<li>this might be alright for “mom and pop”-style businesses. Accounting laws do not allow larger companies to conduct cash-based accounting. This is because it represents a low and delayed way of tracking revenues and expenses.</li>
+</ul>
+</li>
+<li>
+<p><strong>accrual accounting</strong></p>
+<ul>
+<li>accrual accounting simply states that expenditures must be recorded when incurred and not when paid. Similarly, revenue must be recorded when services or goods outflow, not when the payment is realized.</li>
+<li>publicly traded companies are based on accrual accounting.</li>
+<li>although accrual accounting might count funds that haven’t been paid, it provides a more precise and realistic picture of the company’s performance - especially for stock investors. A great way to account for any inconsistencies caused by accrual accounting is by thoroughly understanding the cash flow statement.</li>
+</ul>
+</li>
+</ul>
+<h1 id="income-statement-analysis" style="position:relative;"><a href="#income-statement-analysis" aria-label="income statement analysis permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Income statement analysis</h1>
+<ul>
+<li>
+<p><a href="https://www.oldschoolvalue.com/stock-valuation/income-statement-analysis-walkthrough/">income statement analysis</a></p>
+</li>
+<li>
+<p><a href="./durable-competitive-financial-statements-analysis.xlsx">old school value durable competitive advantage financial statement analysis</a></p>
+</li>
+<li>
+<p>the income statement’s sole purpose is to show a company’s profitability over a given period.</p>
+</li>
+<li>
+<p><strong>revenues from primary activities</strong></p>
+<ul>
+<li>it’s revenue received for the sale of the company’s primary product or service</li>
+</ul>
+</li>
+<li>
+<p><strong>revenues from secondary activities</strong></p>
+<ul>
+<li>such as interests from cash sitting in interest-bearing savings accounts producing revenue</li>
+<li>secondary activities are usually included in an income statement under the net interest income line. It is sometimes referred to as other income if it also includes other revenues not made from financial activities.</li>
+</ul>
+</li>
+<li>
+<p><strong>gains</strong></p>
+<ul>
+<li>such as gain (loss) on the sale of assets</li>
+<li>it’s essential to understand that gains are not considered operating income. That is also why gains and losses are sometimes referred to as extraordinary income (expense)</li>
+</ul>
+</li>
+<li>
+<p><strong>expenses generated from primary activities</strong> are only expenses from producing operating revenues. This is listed on the income statement as “Cost of Revenue”</p>
+</li>
+<li>
+<p><strong>expenses generated from secondary activities</strong>: if the business makes an expense and doesn’t directly relate to the materials or labour used to make the primary product, it’s considered an expense generated from secondary activities.</p>
+<ul>
+<li>such as sales and marketing expenses, research and development expenses, general and administrative expenses, and other operating expenses.</li>
+</ul>
+</li>
+<li>
+<p><strong>expenses from financial activities</strong></p>
+<ul>
+<li>it is disclosed as interest expenses, as they are not part of the daily business.</li>
+</ul>
+</li>
+<li>
+<p><strong>losses</strong></p>
+<ul>
+<li>a loss doesn’t relate directly to the primary activities of the company’s product or service, nor is it a part of daily operations. It is extraordinary. Graham would caution his students to pay close attention to extraordinary items and try to assess their impact on a business to manage and mitigate risk.</li>
+<li>a loss is also the result of a difference in the value an asset is listed for on the balance sheet and the proceeds received from the sale of that asset.</li>
+</ul>
+</li>
+<li>
+<p><strong>revenue</strong></p>
+<ul>
+<li>this line is sometimes referred to as Sales or Turnover.</li>
+<li>revenue is simply the number of goods sold multiplied by the price of the product or service.</li>
+<li>As an informed investor, you might need more information regarding revenue generation - especially if the company has a deteriorating revenue stream. You could dig deeper into the 10K or 10Q, where you’ll find a net operating revenues section.</li>
+</ul>
+</li>
+<li>
+<p><strong>cost of revenue</strong></p>
+<ul>
+<li>aka cost of sales, costs of goods sold and production costs</li>
+<li>It is the costs that are related to making the company’s primary product or service.</li>
+<li>the emphasis is placed on direct costs because these arise due to per-unit sales rather than any other cost driver.</li>
+<li>an investor must know the composition of the direct costs associated with the organization.</li>
+<li>the investor must pay close attention to the trends in the cost of revenue. If sales are constant and the cost of revenue continues to grow, a negative trend is developing.</li>
+</ul>
+</li>
+<li>
+<p><strong>gross profit</strong></p>
+<ul>
+<li>aka margin or markup</li>
+<li>gross profit is simply the revenue generated from core products and services less the direct costs associated with the production of goods or delivery of services.</li>
+<li>gross profit, in essence, is a measure of the organization’s efficiency - that is, the ability of the management to control its direct cost of revenue while simultaneously increasing sales.</li>
+<li>as an investor, you cannot compare the gross profit between 2 different industries. This often leads to misleading assumptions and doesn’t provide a relative framework to assess a company’s performance.</li>
+</ul>
+</li>
+<li>
+<p><strong>sales and marketing expense</strong></p>
+<ul>
+<li>sometimes, it is combined with Administration expenses and called SGA (selling, general and administration)</li>
+<li>advertisement is one of the greatest costs incurred by corporations today and is incorporated within the income statement. Moreover, you need to distribute your product to make it available to customers. This would lead to distribution costs, typically included in the sales and marketing expense line.</li>
+</ul>
+</li>
+<li>
+<p><strong>research and development</strong></p>
+<ul>
+<li>cell phone companies, for example, must continuously innovate to remain competitive and therefore have high research and development costs</li>
+<li>conversely, companies such as Coca-cola do not have extensive research and development costs; this is because they already have a sustainable advantage through a product that has been sold for decades.</li>
+</ul>
+</li>
+<li>
+<p><strong>general and administrative expenses</strong></p>
+<ul>
+<li>the labour cost related to the operation of its machines is directly associated with production and therefore is a part of the cost of revenue.</li>
+<li>the salary of white-collar managers involved in running the company is not attributed to the cost of production - instead, it is attributable to an overhead expense that’s rolled into the G&#x26;A (General and Administrative)</li>
+<li>corporations are likely to window-dress the general and administrative expenses shown in corporate income statements.</li>
+</ul>
+</li>
+<li>
+<p><strong>other operating expenses</strong></p>
+<ul>
+<li>refer to all the overhead costs that cannot be categorized into the major lines the company has selected to represent, such as management salaries, depreciation, rent, marketing, advertising costs, costs for research into new products, operating leases and IT, etc… Think of it as a catchall category for any miscellaneous expense reporting.</li>
+</ul>
+</li>
+<li>
+<p><strong>operating expenses</strong></p>
+<ul>
+<li>summation of all secondary expenses incurred in the business’s running.</li>
+<li>a summation of all the secondary expenses gives the investor an overview of how efficiently the company has allocated overhead costs.</li>
+</ul>
+</li>
+<li>
+<p><strong>income from operations</strong></p>
+<ul>
+<li>aka earnings before interest and taxes (EBIT).</li>
+<li>compare this (income from operations) to the net interest income/expenses to gain an understanding of interest obligations (or debt payments).</li>
+<li>the basis of the organization is to produce goods and services to maximize profitability. Profitability will only be maximized when the business is able to control its operating expenses while maximizing its revenue. The operating income is an efficiency indicator, and the operating margin indicates the business’s ability to generate a profit from a given level of sales.</li>
+</ul>
+</li>
+<li>
+<p><strong>net interest income/expenses</strong></p>
+<ul>
+<li>aka financial items or other income/expenses</li>
+<li>the most appropriate name for this would be net interest income/expense since this line is most influenced by financing impacts</li>
+<li>interest expense is the cost of servicing debt incurred by the organization when it takes on debt.</li>
+<li>companies use debt as a financing source while keeping money in the bank to provide flexibility for their daily operations.</li>
+<li>the company would need to set up a sunk account (on the balance sheet) to set aside money each year to pay back the principal.</li>
+<li>remember that this line is not only financial items but also other revenue and expenses that are not part of the company’s daily operations. It could be income generated from other resources like renting out specific areas of the property. It could also relate to multinational companies with widespread operations that are likely to be impacted by foreign exchange risk adjustments in either a positive or negative manner</li>
+</ul>
+</li>
+<li>
+<p><strong>extraordinary income/expenses</strong></p>
+<ul>
+<li>extraordinary is not part of the daily operations and cannot be predicted. For example, a loss incurred from a lawsuit is very hard to predict. It can be categorized as a one-time event or maybe restructuring charges like closing down a subsidiary, merging two divisions, or personnel receiving severance pay.</li>
+<li>When trying to determine a business’s true cash flow, many investors exclude extraordinary income in their model. That said, many conservative analysts will include average extraordinary expenses (for example, the average annual expense over five years)</li>
+</ul>
+</li>
+<li>
+<p><strong>income taxes</strong></p>
+<ul>
+<li>tax is a huge expense for any company, and just as you would instead invest in a company with an efficient R&#x26;D department, you would also rather invest in a company with a lower tax rate. You should look for the effective tax rate over time and not a single snapshot in time. The important thing is understanding a company’s tax trends. Look for consistencies - and when you don’t find them, understand why.</li>
+</ul>
+</li>
+<li>
+<p><strong>net income</strong></p>
+<ul>
+<li>aka profit for the year or net income from continued operations.</li>
+</ul>
+</li>
+<li>
+<p><strong>gross profit margin ratio</strong></p>
+<ul>
+<li>gross profit margin ratio = gross profit / revenue</li>
+<li>indicate how efficient companies are at controlling costs and a good starting point to compare with a competitor</li>
+</ul>
+</li>
+<li>
+<p><strong>operating margin ratio</strong></p>
+<ul>
+<li>operating margin ratio = income from operations/revenue</li>
+<li>not only when the cost of revenue, such as sugar and tin cans, are sold, but secondary expenses like administration, distribution and all the other costs related to Coca-Cola’s daily business are deducted.</li>
+</ul>
+</li>
+<li>
+<p><strong>net income margin ratio</strong></p>
+<ul>
+<li>net income margin ratio = net income / revenue</li>
+<li>this is the money that the investors made in profit compared to the money the business collected for selling every product.</li>
+<li>trend analysis is the heart of understanding the prospects for future performance.</li>
+</ul>
+</li>
+<li>
+<p><strong>interest coverage ratio</strong></p>
+<ul>
+<li>important ratio for minimizing the risk and it shows the reality of a company’s ability to keep its head above water.</li>
+<li>interest coverage ratio = income from operations/interest expense</li>
+<li>as a rule of thumb, I like to see a stable interest coverage ratio of at least five times the operating income.</li>
+</ul>
+</li>
+</ul>
+<h1 id="cashflow-statement-analysis" style="position:relative;"><a href="#cashflow-statement-analysis" aria-label="cashflow statement analysis permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Cashflow statement analysis</h1>
+<ul>
+<li><a href="https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/">https://www.oldschoolvalue.com/stock-valuation/analysing-financial-statements-and-aerogrow/</a></li>
+<li><a href="./durable-competitive-financial-statements-analysis.xlsx">old school value durable competitive advantage financial statement analysis</a></li>
+</ul>
+<h2 id="cash-flow-from-operating-activities" style="position:relative;"><a href="#cash-flow-from-operating-activities" aria-label="cash flow from operating activities permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>cash flow from operating activities</h2>
+<ul>
+<li>
+<p>cash generated from operations reflects the ability of the organization to generate cash from its core business operations.</p>
+</li>
+<li>
+<p>our starting point for the cash flow from operating activities is the net income (the bottom line on the income statement).</p>
+</li>
+<li>
+<p><strong>some line items within the income statement do not result in an inflow or outflow of cash and, therefore, must be added or deducted to the net income starting point of the cash flow statement</strong></p>
+</li>
+<li>
+<p>the only cash flow representing a stable and predictable earnings capacity is obtained from operating activities. The other two increases involve selling an asset (the house) and taking on debt (the car loan).</p>
+</li>
+<li>
+<p>when you look at five years trend of a company’s cash flow statement, nothing spells trouble faster than a company that continually raises cash outside of the company’s operating activities.</p>
+</li>
+<li>
+<p><strong>net income</strong></p>
+<ul>
+<li>so this is our starting point. This number is from the bottom of the income statement.</li>
+<li>from this point, we need to adjust for all non-cash items.</li>
+</ul>
+</li>
+<li>
+<p><strong>depreciation</strong></p>
+<ul>
+<li>also called depreciation and amortization. Other times, it is grouped into a line called non-cash items.</li>
+<li>depreciation is a non-cash item, meaning no cash is spent. As such, you should add back the depreciation for the later years.</li>
+<li>depreciation is subtracted from the income statement but added to the cash flow statement.</li>
+</ul>
+</li>
+<li>
+<p><strong>other non-cash items</strong></p>
+<ul>
+<li>an example for Coca-Cola could be the income or expense from the exchange rate</li>
+<li>maybe extraordinary income and losses.</li>
+</ul>
+</li>
+<li>
+<p><strong>deferred taxes</strong></p>
+<ul>
+<li>deferred taxes occur when there are temporary differences between the accounting value and tax value of assets.</li>
+<li>it impacts how much cash is going in and out of the company - which is why deferred taxes are included in the cash flow statement.</li>
+</ul>
+</li>
+<li>
+<p><strong>changes in working capital</strong></p>
+<ul>
+<li>working capital is about current assets and liabilities needed to run the business’s daily operations.
+<ul>
+<li>if working capital is $-832, that means that $832 less is tied up in the business’s daily operations than the previous year.</li>
+<li>working capital is expensive, so we want to limit it.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="cash-generated-from-investing-activities" style="position:relative;"><a href="#cash-generated-from-investing-activities" aria-label="cash generated from investing activities permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>cash generated from investing activities</h2>
+<ul>
+<li>in contrast to the operating cash, we want the cash flow from investing activities to be negative.</li>
+<li>an analysis of cash flow from investing activities reveals the growth strategy pursued by the corporation. Any cash outlay from investing activities has the long-term goal of increasing the company’s future cash flow. In the following years, the purchase of more assets should produce a larger operating cash flow, which in turn will pay for more investments at a later date.</li>
+<li><strong>property, plant and equipment - net</strong>
+<ul>
+<li>this line is sometimes referred to as Capital expenditures, cap spending, or simply CAPEX.</li>
+<li>Generally, you should be cautious when you see a positive number for this line. While cash may be nice today, companies may find themselves short-handed if the funds aren’t used to purchase more valuable assets or expensive service debt.</li>
+</ul>
+</li>
+<li><strong>intangible assets - net</strong>
+<ul>
+<li>for example, Coca-Cola might patent a new soft drinks recipe.</li>
+<li>you will most likely find this line to be negative too.</li>
+</ul>
+</li>
+<li><strong>businesses - net</strong>
+<ul>
+<li>in general, Warren Buffett believes that companies should stick to their core activities. In the case of Coca-Cola, this means that the company should focus on the beverage industry and not buy businesses in other sectors.</li>
+</ul>
+</li>
+<li><strong>investments - net</strong>
+<ul>
+<li>Managers typically get into trouble with purchasing investments when they cross the threshold of passive ownership and move into a controlling share of the business they don’t understand. It means that the company would be responsible for overall management.</li>
+</ul>
+</li>
+</ul>
+<h2 id="cash-generated-from-financing-activities" style="position:relative;"><a href="#cash-generated-from-financing-activities" aria-label="cash generated from financing activities permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>cash generated from financing activities</h2>
+<ul>
+<li>
+<p>included activities such as dividends, debt, issuances of stocks</p>
+</li>
+<li>
+<p><strong>issuances of stock</strong></p>
+<ul>
+<li>When this is a positive number, the company issues more common stock to raise money. When this is a negative number, The company buys back shares from the open market.</li>
+<li>can sometimes be combined with the following line “purchase of stock for the treasury.”</li>
+<li>a stock issue should be treated the same way as a perpetuity loan (or never-ending loan).</li>
+<li>by looking up a company’s current P/BV ratio and its current ROE, you can get a general idea of the effective perpetuity interest rate the original shareholders are assuming for the issuance of the new stock.</li>
+<li>let’s say you need to raise a million dollars for a new building. You could get the money from the bank at a 7.5% interest rate for ten years. Second, you could issue bonds at an 8.5% interest rate for ten years. Third, you could issue more company shares to raise money. Issuing more shares would lead to an effective interest rate of 5.22%. Now the caveat: issuing shares should be treated as a perpetuity loan, whereas the other choices would only last for ten years.</li>
+</ul>
+</li>
+<li>
+<p><strong>purchases of stock for treasury</strong></p>
+<ul>
+<li>when you find this line to be negative, it means that the company is buying back its stocks. Once repurchased, the stock no longer has voting rights or entitlements to receive dividend payments. It is said to be held in treasury.</li>
+<li>when a company buys back shares, the existing shareholders will increase their relative ownership. The critical issue is that management bought back the share with the shareholders’ existing money. In other words, the management of Coca-Cola increased your ownership with your own money. That money could be paid to you as a dividend, or the management could employ it by investing in the new income-producing asset.</li>
+<li>since the company uses the owners’ money to buy back shares, a share repurchase is only more profitable for the shareholder at a reasonable price.</li>
+</ul>
+</li>
+<li>
+<p><strong>payment of cash dividends</strong></p>
+<ul>
+<li>management prefers a share buy-back because they don’t pay taxes on the disbursement, and they retain capital in the company to make future acquisitions or purchases.</li>
+<li>if a company’s payout ratio (dividend rate/EPS) is higher than 50%-60%, the company might be inhibiting their ability over the long haul to pay owners and still meet the demands of the company’s competition.</li>
+</ul>
+</li>
+<li>
+<p><strong>issuances/payment of a debt - net</strong></p>
+<ul>
+<li>the best way to raise capital is to make enough profit, so the company doesn’t need to borrow any money.</li>
+<li>if the debt-equity ratio exceeds 0.5, you’ll probably want to understand how the company got there and what it’s doing to reduce its position.</li>
+<li>if this line is negative, the company is paying off its debts. The company has taken on new debt (or issued bonds) if the number is positive.</li>
+<li><strong>if you notice that a company’s operating cash flow is negative and this issuance/payment of debt is positive, you’re looking at a company in serious trouble.</strong></li>
+</ul>
+</li>
+<li>
+<p><strong>free cash flow</strong></p>
+<ul>
+<li>free cash flow = operating cash flow + property, plant and equipment, net</li>
+<li>at a minimum, I would look at the 5-year average to try and determine the FCF for the intrinsic value calculation.</li>
+<li>the free cash flow can be paid out to the shareholders as dividends, it can be returned in the form of share buy-backs, and it can be used to pay off the company’s debt. It is cash that flows back to the shareholders in one way or the other.</li>
+</ul>
+</li>
+<li>
+<p><strong>free cash flow to revenue ratio</strong></p>
+<ul>
+<li>free cash flow to revenue ratio = (operating cash flow + property plant and equipment net) / Revenue</li>
+<li>it means that for every Coca-Cola that sells soft drinks for $100, $13.2 will be available as cash for the shareholders.</li>
+<li>in general, you should be looking for companies that have a consistent free-cash-flow-to-revenue ratio of at least 5%</li>
+</ul>
+</li>
+<li>
+<p><strong>investing cash flow to operating cash flow ratio</strong></p>
+<ul>
+<li>investing cash flow to operating cash flow ratio = investing cash flow / operating cash flow</li>
+<li>it means every time Coca-Cola makes $100 in cash from its operations, $53.3 in cash is spent on maintaining and investing in the company’s growth.</li>
+<li>in the short term, high investment ratios should not be a problem. Indeed, it might be over 100% in some years if the investment possibilities are great.</li>
+<li>in the long run, Warren Buffett understands the importance of reinvesting capital into the business. Still, at the same time, he firmly believes cash should ultimately be returned to the shareholders in some profitable form.</li>
+</ul>
+</li>
+</ul>
+<h1 id="balance-sheet-statement-analysis" style="position:relative;"><a href="#balance-sheet-statement-analysis" aria-label="balance sheet statement analysis permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>balance sheet statement analysis</h1>
+<ul>
+<li><a href="https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/">https://www.oldschoolvalue.com/stock-valuation/analyzing-financial-statements-circuit-city-balance-sheet/</a></li>
+<li><a href="./durable-competitive-financial-statements-analysis.xlsx">old school value durable competitive advantage financial statement analysis</a></li>
+<li>the balance sheet is sectionalized into three major categories: the assets, the equity and the liabilities.</li>
+</ul>
+<h2 id="assets" style="position:relative;"><a href="#assets" aria-label="assets permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>assets</h2>
+<ul>
+<li>assets are what the company owns</li>
+<li>assets can be financed in 2 ways: with the company’s money, called equity, or with someone else’s money, which is called liabilities.</li>
+<li>because assets are financed by equity or liabilities, the two sides will always be equal. They will balance.</li>
+<li><em>assets are something that is owned and expected to generate income for the company</em></li>
+<li>2 different categories of assets: the non-current and the current assets
+<ul>
+<li>current asset can be defined as any asset which is likely to be converted into cash within a period of 1 year such as cash, inventory and receivables</li>
+<li>non-current assets are sometimes referred to as long-term assets. An organization includes those assets that have an expected ownership over a period exceeding one year and cannot immediately be converted into cash, such as machines for production, buildings, cards, etc…</li>
+<li>the idea of distinguishing various kinds of assets is to present to the reader an accurate and fair view of a company’s financial condition, which is also why the balance sheet is sometimes referred to as the statement of financial position.</li>
+</ul>
+</li>
+</ul>
+<h3 id="current-assets" style="position:relative;"><a href="#current-assets" aria-label="current assets permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Current assets</h3>
+<ul>
+<li>
+<p><strong>cash and cash equivalents</strong></p>
+<ul>
+<li>aka cash, cash equivalents, and marketable securities. When we think of cash, it includes any cash kept in a register and safely stored in a bank account.</li>
+<li>cash equivalents are equal to having cash that is currently in a different form, for example, money market funds, saving deposits and deposit certificates.</li>
+</ul>
+</li>
+<li>
+<p><strong>accounts receivables</strong></p>
+<ul>
+<li>aka receivables, net receivables.</li>
+<li>most of a business’s sales tend to be carried out on credit instead of cash. This payment is an asset for the company because it will be turned into cash later. Typically, this would happen within 60-90 days. This also means that receivables, in reality, are interest-free loans provided from one company to another.</li>
+<li>most often, it is made up of the credit sales of goods and services, but it can also contain expected current payments such as interest on various securities.</li>
+<li>in short, this is money that is expected to flow into the company but is yet to be received.</li>
+</ul>
+</li>
+<li>
+<p><strong>inventory</strong></p>
+<ul>
+<li>typically, inventory is subdivided into three categories: raw materials (such as sugar for coca-cola), work in progress (such as labour costs for managing machines), and finished goods (includes costs for packaging the products).</li>
+</ul>
+</li>
+<li>
+<p><strong>other current assets</strong></p>
+<ul>
+<li>any current assets that do not meet any of the three previous categories (may include property, plant and equipment available for sale or any asset that is expected to be sold within the year)</li>
+<li>might also include derivatives designated as hedging instruments, such as foreign currency contracts and commodity contracts (to minimize risk and exposure to a flexible and unpredictable market).</li>
+</ul>
+</li>
+<li>
+<p><strong>prepaid expenses</strong></p>
+<ul>
+<li>a firm sometimes pays off some of its expenses before it actually incurs them (such as distribution rights in advance for 6 months in the case of coca-cola)</li>
+<li>the prepaid expenses tend to be the most illiquid item in the current assets category. Most likely the contractual terms would not allow Coca-Cola to ask for such a reversal of funds that have already been paid.</li>
+<li>that’s why you’ll find prepaid expenses listed at the very bottom of the current assets column; it’s the “thickest” and most difficult to turn back into cash</li>
+</ul>
+</li>
+<li>
+<p><strong>total current assets</strong></p>
+<ul>
+<li>summation of all assets that you expect to turn into cash during the next 12 months.</li>
+</ul>
+</li>
+</ul>
+<h3 id="non-current-assets" style="position:relative;"><a href="#non-current-assets" aria-label="non current assets permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>non-current assets</h3>
+<ul>
+<li>
+<p>assets that will not turn into cash within the next 12 months</p>
+</li>
+<li>
+<p><strong>non-current receivables</strong></p>
+<ul>
+<li>The money is expected to be paid back, but not within the next 12 months.</li>
+</ul>
+</li>
+<li>
+<p><strong>non-current investments</strong></p>
+<ul>
+<li>referred to as long-term investments.</li>
+<li>sometimes a company is involved in long-term investments in an attempt to generate income from non-operating assets.</li>
+<li>as an investor, you’re right to question why a company should have long-term investments. You might argue that a company with a high number of investments would tend to concentrate less on core activities. That is typically a bad sign. Conversely, investments such as these might signify a diversification policy so earnings are maintained despite changes in external environments.</li>
+</ul>
+</li>
+<li>
+<p><strong>property, plant, and equipment</strong></p>
+<ul>
+<li>ranging from buildings to property and manufacturing equipment to mere office furniture.</li>
+<li>very often, some of the largest expenses for a company are related to this category of assets. Tangible assets will often have to be replaced, and that’s a very expensive bill that has to be paid
+<ul>
+<li>think of a company like Hilton Resorts. They will constantly have building upgrades and interior remodelling expenses to remain competitive in their market. Ultimately, all bills end up being paid by the company’s shareholders. That is why we only want PE that can produce revenue, not PPE, for owning a lot of assets.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>patents, trademarks and other intangibles</strong></p>
+<ul>
+<li>companies with strong brand names and efficient research and development departments are likely to carry trademarks and patents.</li>
+<li>due to accounting law, a company can list all expenses from research and development as an intangible asset. This means that all the material and labour costs Coca-Cola incurs to produce the recipe can now be transformed into an asset. (it could also mean that if Coca-Cola has inefficient personnel and high salaries, this would ultimately be transformed into a bigger asset). This process is called capitalization.</li>
+<li>capitalization is how intangibles like patents and trademarks are entered into the balance sheet.</li>
+<li>intangible assets lose value if it is deemed that they cannot generate income. When intangible assets are depreciated, it’s called amortization.</li>
+<li>since patents and trademarks provide a durable competitive advantage for a company, it is a great source of risk reduction. Additionally, intangible assets are generally unaffected by inflation. This means that as time marches on, the value of patents and trademarks increases in nominal dollars automatically.</li>
+</ul>
+</li>
+<li>
+<p><strong>goodwill</strong></p>
+<ul>
+<li>goodwill only occurs during the acquisition process; it is not something that the company can create by themselves</li>
+</ul>
+</li>
+</ul>
+<h2 id="liabilities" style="position:relative;"><a href="#liabilities" aria-label="liabilities permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Liabilities</h2>
+<h3 id="current-liabilities" style="position:relative;"><a href="#current-liabilities" aria-label="current liabilities permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>current liabilities</h3>
+<ul>
+<li>
+<p><strong>accounts payable</strong></p>
+<ul>
+<li>sometimes referred to as payables, net payables, or trade payables since this category primarily summarizes what the business has bought on credit.</li>
+<li>for a company, it’s very neat to have an interest-free loan in less than 12 months.</li>
+</ul>
+</li>
+<li>
+<p><strong>notes payable</strong></p>
+<ul>
+<li>sometimes referred to as current borrowing or the current financial debt. It represents how much outstanding short-term debt should be paid back to the issuer.</li>
+</ul>
+</li>
+<li>
+<p><strong>accrued expenses</strong></p>
+<ul>
+<li>often, companies will incur expenses that are not yet paid for. For Coca-Cola, this could be expenses for employees’ salaries, electricity bills, or any payment that is consumed but not yet paid.</li>
+<li>any portion of the bill that has not been paid at the balance sheet date would be classified as accrued expenses.</li>
+</ul>
+</li>
+<li>
+<p><strong>taxes payable</strong></p>
+<ul>
+<li>in corporate accounting, the company is responsible for withholding the taxes it owes - it doesn’t happen automatically. Taxes payable are a holding pattern for corporate taxes. This is the account where the company will list the money they owe to the federal, state, or local government for the products or services they sell. Once the payment is made to the government from the cash account, you’ll see a deduction in the taxes payable account, and the tax payment will then be listed on the income statement.</li>
+</ul>
+</li>
+</ul>
+<h3 id="non-current-liabilities" style="position:relative;"><a href="#non-current-liabilities" aria-label="non current liabilities permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>non-current liabilities</h3>
+<ul>
+<li>
+<p>sometimes, non-current liabilities are referred to as long-term liabilities, which the company expects to pay outside the 12-month timeframe.</p>
+</li>
+<li>
+<p><strong>long-term debt</strong></p>
+<ul>
+<li>when Coca-Cola obtains loans, creditors do not influence the daily operations. Daily business decisions are usually entirely up to the management and shareholders</li>
+<li>perhaps, surprisingly, long-term debt does not always have to be paid back.
+<ul>
+<li>for example, if you have a mortgage of $300000, there is no good reason to pay back your whole loan, especially if the interest rate is under the inflation rate. As long as you feel you have sufficient equity in your home, you should be fine using your money for something else. The bank is usually pleased to receive interest payments on your home if you do not default on the payment.</li>
+<li>let’s say that Coca-Cola takes on a little debt at an interest rate of 4%. As long as Coca-Cola can make a better return in the market and control the risk, it may choose to delay the repayment of the principal to seek larger returns elsewhere. If the company decides to pay off the loan, it would be similar to getting a 4% return (accounting for inflation, it might even be as low as 1% effectively). An efficient company could probably get a better return by investing in new assets.</li>
+<li>look into the interest coverage and debt-to-equity ratios to gauge if the debt is controlled.</li>
+</ul>
+</li>
+<li><strong>deferred tax</strong>
+<ul>
+<li>it can be listed as an asset or a liability depending on what year a particular item is being depreciated and what the company has decided to realize as a loss or gain.
+<ul>
+<li>for example, a deferred tax occurs when there is a difference between the linear and accelerated depreciation approach. In essence, the tax liability corrects the amount of taxes a company should or shouldn’t have paid.</li>
+<li>deferred tax is only applicable for the year of consideration.</li>
+<li>once this asset is realized on the income statement, the amount listed on the balance sheet will disappear.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>provisions</strong>
+<ul>
+<li>when a company sells on credit, they expect some customers to default from time to time. For this reason, companies have a provisions account where they continually put money aside to absorb these potential losses.</li>
+<li>the provisions account fluctuates yearly and will likely be adjusted continually.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="equity" style="position:relative;"><a href="#equity" aria-label="equity permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>equity</h2>
+<ul>
+<li><strong>when you own a share, you own a part of a real company</strong></li>
+<li>Equity is a form of liability. It is what the company owes to the owners of the company</li>
+<li>It is the shareholders of Coca-Cola who own all the company’s assets.</li>
+</ul>
+<h3 id="share-capital" style="position:relative;"><a href="#share-capital" aria-label="share capital permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>share capital</h3>
+<ul>
+<li>aka capital stock, common stock, or paid-in capital</li>
+<li>is used to keep track of common stock splits and outstanding shares.</li>
+<li>when a company is originally started, the founder(s) place a certain amount of money into an equity account called <em>paid-in capital</em></li>
+<li>regardless of the initial designation of how much one share’s par value is, the share capital account is a tracking tool for future splits and share growth/contraction.
+<ul>
+<li>let’s say the company decided to issue 200 more shares after initially issuing 100. The shares might sell on the open market for $500, raising money for the company, but that doesn’t preclude the company from tracking the new number of shares in the capital account. At the end of this action, there would be $200 in the capital account, and 200 shares would be outstanding.</li>
+<li>let’s say the company wanted to conduct a stock split. The company intends to reduce the market price of each share. The capital account would remain the same, but the par value per share would be half.</li>
+</ul>
+</li>
+<li>most capital accounts use a penny or less to represent each outstanding share.</li>
+</ul>
+<h3 id="additional-paid-in-capital" style="position:relative;"><a href="#additional-paid-in-capital" aria-label="additional paid in capital permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>additional paid-in capital</h3>
+<ul>
+<li>additional paid-in capital is, therefore, the difference between the proceeds for the stock issue subtracted by the par value.</li>
+</ul>
+<h3 id="retained-earnings" style="position:relative;"><a href="#retained-earnings" aria-label="retained earnings permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>retained earnings</h3>
+<ul>
+<li>the retained earnings are the sum of all the previous net incomes the company has produced.
+<ul>
+<li>in the case of Coca-Cola, the capital is re-employed by the company to create even more money in the future.</li>
+</ul>
+</li>
+</ul>
+<h3 id="treasury-stock" style="position:relative;"><a href="#treasury-stock" aria-label="treasury stock permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>treasury stock</h3>
+<ul>
+<li>the price the company paid to buy back its shares.</li>
+<li>a good indicator of how much the company has been able to grow the owners’ money. Suppose a substantial growth in the treasury account occurred during the assessment period. In that case, it may drastically increase the book value growth, which can be used to measure free cash flow.</li>
+</ul>
+<h3 id="return-on-equity" style="position:relative;"><a href="#return-on-equity" aria-label="return on equity permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>return on equity</h3>
+<ul>
+<li>return on equity = net income / equity</li>
+<li>a gauge of a corporation’s profitability and how efficiently it generates those profits. The higher the ROE, the better a company is at converting its equity financing into profits.</li>
+<li>target ROE that is equal to or just above the average for the company’s sector</li>
+</ul>
+<h3 id="return-on-assets" style="position:relative;"><a href="#return-on-assets" aria-label="return on assets permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>return on assets</h3>
+<ul>
+<li>return on assets = net income /total assets</li>
+<li>if you’re buying a company with a low debt/equity ratio (like 0.50 or less), you can probably skip this calculation. On the other hand, if you’re buying a company with a lot of debt, you’ll probably want to use the ROA instead of the ROE.</li>
+<li>I like to see a ROA above 6%, but most importantly, I want to see that my stock picks have better ROA than their competitors.</li>
+</ul>
+<h3 id="return-on-invested-capital" style="position:relative;"><a href="#return-on-invested-capital" aria-label="return on invested capital permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>return on invested capital</h3>
+<ul>
+<li>a calculation used to assess a company’s efficiency at allocating the capital under its control to profitable investments</li>
+<li>a company is thought to be creating value if its ROIC exceeds its weighted average cost of capital (WACC)</li>
+<li>ROIC = (net operating profit after tax)</li>
+<li>it tells nothing about what segment of the business is generating value.</li>
+<li>invested capital is the total amount of money a company raises by issuing securities - the sum of the company’s equity, debt and capital lease obligations. Invested capital is not a line item in the company’s financial statement because debt, capital leases, and stockholder’s equity are each listed separately on the balance sheet.</li>
+</ul>
+<h3 id="current-ratio" style="position:relative;"><a href="#current-ratio" aria-label="current ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>current ratio</h3>
+<ul>
+<li>current ratio = current assets / current liabilities</li>
+<li>as investors, our threshold for a current ratio is that it should be above 1.0 or even 1.5 to be safe.</li>
+<li>a current ratio of above five may also indicate bad money management, as cash could be put to better use elsewhere.</li>
+<li>want to be above one and prefer somewhere 1.5</li>
+</ul>
+<h3 id="inventory-turnover-ratio" style="position:relative;"><a href="#inventory-turnover-ratio" aria-label="inventory turnover ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>inventory turnover ratio</h3>
+<ul>
+<li>inventory turnover ratio = cost of revenue/inventory</li>
+<li>indicate how efficiently the company can turn inventory into sales.</li>
+<li>as a shareholder of Coca-Cola, I would prefer to have the inventory empty and filled 4 times instead of 2.15.</li>
+<li>In all circumstances, capital in inventory is expensive, and for products with somewhat high duration, I would like to see an inventory turnover of 4 or above. I would need to do more research to understand the industry standard.</li>
+<li>note: it’s very important to remember that this number is compared to an annual income statement. If you were working with a quarterly income statement, you would need to multiply the number by 4 in order to ascertain the prorated annual turnover rate.</li>
+</ul>
+<h3 id="accounts-receivable-turnover-ratio" style="position:relative;"><a href="#accounts-receivable-turnover-ratio" aria-label="accounts receivable turnover ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>accounts receivable turnover ratio</h3>
+<ul>
+<li>accounts receivable turnover ratio = turn over / accounts receivables</li>
+<li>turn over is actually the revenues of the business found on the income statement.</li>
+<li>turnover days = 365 / accounts receivable turnover ratio.</li>
+<li>this means that once Coca-Cola makes a sale, it typically takes x days for them to receive payment from their customer.</li>
+<li>this is heavily dependent on the industry of the company and prefers the ratio around 5-7</li>
+</ul>
+<h3 id="accounts-payable-turnover-ratio" style="position:relative;"><a href="#accounts-payable-turnover-ratio" aria-label="accounts payable turnover ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>accounts payable turnover ratio</h3>
+<ul>
+<li>accounts payable turnover ratio = cost of revenue/accounts payable</li>
+<li>turn over days = 365 / accounts payable turnover ratio</li>
+<li>this means that on average it takes Coca-Cola x days to replay their supplier.</li>
+<li>a ratio of between 2 - 6 is typically a sign of an efficient company that is satisfying bargaining power and, at the same time, having no problem paying its obligations to suppliers.</li>
+</ul>
+<h3 id="acid-test-ratio" style="position:relative;"><a href="#acid-test-ratio" aria-label="acid test ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>acid test ratio</h3>
+<ul>
+<li>acid test ratio is a conservative approach to the current ratio. It is also called the skeptic liquidity measure.</li>
+<li>Acid Test Ratio = (Current Assets - Inventory) / Current Liabilities</li>
+</ul>
+<h3 id="debt-to-equity-ratio" style="position:relative;"><a href="#debt-to-equity-ratio" aria-label="debt to equity ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>debt to equity ratio</h3>
+<ul>
+<li>debt-to-equity ratio = (long term debt + notes payable) / equity</li>
+<li>long-term debt and notes payable include interest expenses that you need to pay on a regular basis.</li>
+<li>it means that every time the shareholders own $100 in equity, they also owe $20.2 in debt that Coca-Cola is paying interest on (it’s 20.2% debt-to-equity)</li>
+<li>in general, Warren Buffet does not like to have a debt-to-equity ratio of above 0.5</li>
+</ul>
+<h3 id="liabilities-to-equity-ratio" style="position:relative;"><a href="#liabilities-to-equity-ratio" aria-label="liabilities to equity ratio permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>liabilities to equity ratio</h3>
+<ul>
+<li>liabilities to equity ratio = total liabilities / equity</li>
+<li>with a ratio of 47.2, it means that every time the shareholder has $100 in equity, the company would have to pay out 47.2 at some point in the future. The liabilities include money Coca-Cola has borrowed from the bank and is paying interest on and is included just as much as the sugar that Coca-Cola has bought on credit from a supplier.</li>
+<li>more conservative value investors like to look at this key ratio instead of the debt-to-equity ratio. They do like to distinguish between interest-bearing debt, which is the most expensive and interest-free liabilities such as accounts payable. As a rule of thumb, the liabilities to equity ratio should be below 0.8 to be considered low-risk</li>
+</ul>
+<h1 id="financial-shenanigans" style="position:relative;"><a href="#financial-shenanigans" aria-label="financial shenanigans permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>financial shenanigans</h1>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Zg-led5YMlo&#x26;ab_channel=TheSwedishInvestor">swedish investor summary</a></li>
+<li>Some financial manipulations, or shenanigans, are benign and may not hurt anyone.</li>
+<li>Shenanigans that inflate profits are of most significant concern, followed by those that hide expenses or shift revenue from one time period to another.</li>
+<li>Not all financial shenanigans are illegal, nor do they necessarily violate generally accepted accounting principles (GAAP).</li>
+<li>Quarterly financial reports are not independently audited. However, it is highly unlikely a company will be caught manipulating unaudited reports.</li>
+<li>Only a small fraction of companies fraudulently distort their financial reports.</li>
+<li>Rapidly growing firms that suddenly face a slowdown may be tempted to cheat.</li>
+<li>Reporting bogus revenue can destroy a company’s reputation.</li>
+<li>A CEO fixated on making “the numbers” at any cost is an investor’s nightmare.</li>
+<li>Internal auditors should report directly to the Board of Directors’ audit committee.</li>
+<li>The SEC should have the authority to bar or suspend corporate executives and board members who become involved in fraudulent financial reporting.</li>
+<li><strong>when to be on the lookout</strong>:
+<ul>
+<li>If a company operates in a weak oversight environment, with a closely held board of directors or without a competent, independent auditor, you have a reason for concern.</li>
+<li>If management faces excessive competitive pressure, that should draw your attention.</li>
+<li>If executives are known, for whatever reason, to be of dubious character or integrity, you have reason to wonder if that lack of integrity has crept over into other areas of the company’s business.</li>
+<li>If any of these indicators occurs in a previously high-flying company where growth is starting to slow, be especially wary and on the lookout.</li>
+<li>Also, be cautious about inner doings at basket-case companies struggling to stay alive.</li>
+</ul>
+</li>
+<li><strong>audit your auditor</strong>
+<ul>
+<li>The auditors spend weeks reviewing a company’s financial records, so they spend some time reading their opinions. The opinion letter will usually give a clear view. That is, it will give the report a stamp of approval. If the auditors have severe reservations about the accuracy and fairness of a company’s financial statement, they will usually qualify the report. A company that receives a qualified opinion should raise the hackles on an investor’s back - especially if the qualification notes any “going concern.”</li>
+<li>Also, look out for a situation where no audit committee exists or the audit committee is comprised of less-than-independent members. The audit committee’s purpose is to act as a go-between, mediating between the outside auditor and the executives. Companies listed on the New York Stock Exchange are required to have audit committees. No similar requirement binds most other publicly traded companies.</li>
+</ul>
+</li>
+<li><strong>catching the crooks</strong>
+How do you find out when a company is scamming you? Screening the integrity of financial reports is more accessible now, thanks to several Internet databases that equip you to check for signs of wrongdoing. Some sites focus more on the numbers, while others help you investigate a company’s footnotes, management discussions and news releases. The most widely used commercial database is Compustat, a product sold by Standard &#x26; Poor’s, a division of McGraw-Hill. Factset Corporation sells another database
+<ul>
+<li>With these tools, you can run a filter for companies showing the sharpest decline in operational cash flow as a percentage of net income. Or you can list companies that experienced the largest year-to-year sales growth followed by declining or negative growth. You can also seek the most significant increase in inventory compared to sales. Other things you can look for include an extensive deterioration in gross margins, a big jump in soft assets or a significant increase in deferred revenue</li>
+</ul>
+</li>
+<li><strong>buying trouble</strong>
+<ul>
+<li>Acquisitions are fertile ground for chicanery. Many companies seek to buy other companies to rapidly accelerate their growth, a strategy with many risks for investors. Several tricks related to acquisitions can be used to help cover up the underlying ill health of the purchasing company. These gimmicks include taking large write-offs before or after the acquisition, shifting losses from the deal to another period and releasing the reserves that may be created through large write-offs. Be concerned when a firm uses very aggressive acquisition behaviour in a way that might make its sales look better than they are</li>
+</ul>
+</li>
+<li><strong>the lessons of Enron</strong>
+<ul>
+<li>One of the lessons of Enron is to be wary when a company makes a drastic change in how it does business. This is especially the case when a company is transitioning from an easily understood model, such as acquiring gas pipelines, to a model that is far more difficult to assess, such as trading on future energy contracts. Other warning signs included using special-purpose entities (SPEs), that is, off-the-books facilities that could be used to hide either profits or liabilities. Red flags should have been flapping because Enron did not provide detailed disclosure about the purpose of the SPEs</li>
+</ul>
+</li>
+</ul>
+<h2 id="telling-tall-tales" style="position:relative;"><a href="#telling-tall-tales" aria-label="telling tall tales permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>telling tall tales</h2>
+<ul>
+<li>Accounting’s two fraudulent strategies are to either inflate or deflate earnings.
+<ul>
+<li>The first can be accomplished by reporting an unduly considerable current period revenue or underestimating current period expenses. Manipulating either side of the ledger will work.</li>
+<li>The second, the less intuitive strategy, involves deflating or underestimating earnings. Why would anyone want to do that? If you underestimate your financial performance, you can shift payments to a later timeframe when you need them to cover shortfalls. Essentially you minimize current profits to inflate future profits, thereby making the company appear to perform better than it does</li>
+</ul>
+</li>
+<li>Companies manipulate financial statements for three reasons:
+<ul>
+<li><strong>It is easy</strong> – After all, managers check various options to select their firms’ accounting methods. Managers with integrity review the options available to find a reporting method that most closely reflects the company’s performance. Unscrupulous executives see the choices as an opportunity to take advantage of the system. Management is free to structure transactions or to announce reporting moves to promote the achievement of its accounting goals. For example, when using an operating lease approach, they can use lease agreements to keep debt off the books.</li>
+<li><strong>It can pay off handsomely</strong> – Bonuses are often tied to a company’s financial profiles, so managers have a vested interest.</li>
+<li><strong>The chances of getting caught are slim</strong> – Those who think they’ll get away with it are often correct. For instance, a company’s quarterly financial statements are unaudited and usually are not reviewed by an independent CPA. When an unaudited financial report is manipulated, it is doubtful that the company will be caught.</li>
+</ul>
+</li>
+<li>When evaluating the validity of a company’s reporting, be aware of misguided management incentives. These are not at all uncommon. Basing bonuses and stock options heavily on financial statement measurements create a temptation to cheat. Too much emphasis on the bottom line can cause observers to question the validity of a firm’s numbers.</li>
+</ul>
+<h2 id="the-seven-financial-shenanigans" style="position:relative;"><a href="#the-seven-financial-shenanigans" aria-label="the seven financial shenanigans permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>the seven financial shenanigans</h2>
+<ul>
+<li>The Center for Financial Research and Analysis (CFRA) has defined 30 techniques, grouped into seven categories, that represent the ways that unethical companies dupe investors
+<ul>
+<li><strong>Recording bogus revenue</strong> – This is the cardinal sin of accounting, and it can be accomplished in more ways than you might think. For example, some sales may appear to be significant, but they lack actual economic substance. Cash received in lending transactions can be recorded cleverly as revenue. Similarly, a company may try to record investment income as operating revenue. Another nasty trick is to count as revenue the rebates from suppliers that the company will receive on future purchases. And finally, a company may release revenue that it improperly held back in the first place, perhaps before a merger.</li>
+<li><strong>Recording poor-quality revenue</strong> – All revenue is not equal. For example, revenue for services that have not yet been provided is poor revenue and shouldn’t be counted. Revenue should never be recorded before the item sold has shipped and been accepted by the customer. A company should not record revenue if the customer isn’t required to pay. Sales to an affiliated company are also dubious. Grossing up revenue is another way to “cook the books.”</li>
+<li><strong>One-time gains</strong> – Occasionally, a company will sell assets or make an investment windfall and count that as revenue. The problem is that this is only a one-time gain. Similarly, a one-time payment can make operating expenses appear less. Another dirty little trick is reclassifying accounts on the balance sheet to create apparent income.</li>
+<li><strong>Failing to report future liabilities accurately</strong> – One way a company can put lipstick on the pig is to fail to record an obligation or otherwise move to reduce the list of liabilities improperly. Of course, owing less money makes a company look more profitable. This can be achieved by changing accounting assumptions, allowing reserves to be suddenly counted as income or creating phony rebates.</li>
+<li><strong>Expense-shifting</strong> – If you can stretch current expenses out so that they fall into a later reporting period, the results will appear to be better than they are. This includes reducing reserves, failing to write off impaired assets or taking too long to amortize expenses. Or, you could change accounting policies.</li>
+<li><strong>Income-shifting</strong> – Manipulation can also occur by shifting current revenue to a later period. This is sometimes achieved by creating a reserve account and then eliminating it later on when the money is needed. Also, companies occasionally hold back income before an acquisition deal closes.</li>
+<li><strong>Special charges</strong> – Even more subtle is the business of shifting future costs to the current period as a special charge. Inflating the amount of a particular charge, writing off R &#x26; D costs related to an acquisition and accelerating discretionary expenses are a few of the trade tricks.</li>
+</ul>
+</li>
+</ul>
+<h2 id="fighting-shenanigans" style="position:relative;"><a href="#fighting-shenanigans" aria-label="fighting shenanigans permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>fighting shenanigans</h2>
+<ul>
+<li>
+<p>So what can be done to ensure there is no Enron recurrence? Many parties must be involved in changing the way things work. Those who determine and interpret laws and set professional standards must establish clear parameters for proper financial accounting and reporting standards. Internal auditors should report directly to the audit committees of their boards</p>
+</li>
+<li>
+<p>The Securities and Exchange Commission, set up after the stock market crash of 1929 to supervise the nature and accuracy of information provided to investors, should be given explicit legal authority to suspend or bar any corporate executive, director or board involved in financial misdealings. Management must set the proper tone and cannot emphasize reaching its numbers above everything else. Companies should be required to have auditors review their quarterly financial statements before they are released to the public. Auditors should be held more accountable for detecting fraud during an audit.</p>
+</li>
+<li>
+<p>In 1995, the SEC, the NASD and the NYSE combined to commission a study recommending ways to strengthen the audit committee function. The blue-ribbon panel determined that board directors must engage in active, independent oversight. The notion that a seat on a board is a reward for having “made it” in business should be replaced by an operational responsibility to guide the company forward. The audit committee has to be the main body responsible for driving the organization’s acceptance of proper accounting practices.</p>
+</li>
+<li>
+<p>Perhaps financial shenanigans can never be eliminated. But specific steps can and must be taken to restore corporate credibility. Auditor training should emphasize the ability to detect accounting tricks and manipulations. Training should also be improved for those who rely on financial reports, including investors. The incentives to manipulate the numbers built into executive compensation packages should be re-evaluated. Investors, auditors and regulators have a much better chance of minimizing the damage that corporate dishonesty causes once they understand how dishonest companies pull off financial shenanigans.</p>
+</li>
+</ul>
+<h1 id="quotes" style="position:relative;"><a href="#quotes" aria-label="quotes permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Quotes</h1>
+<p>If you’re analyzing an unstable business, then your analysis might be worthless</p>
+<p>A good rule of thumb is to limit the cost of your transaction to no more than 1 percent of the amount of stock you’re buying. For example if a trade costs $9.99 to execute you should buy at least $1,000 worth of stock.</p>
+<p>Trying to beat the market is a fool’s errand.</p>
+<p>We want the business to be one (a) that we understand; (b) with favorable long-term prospects; (c) operated by honest and competent people; (d) available at a very attractive price.</p>
+<p>price is what you pay, value is what you get</p>
+<p>once you adopt a value-investment strategy, any other investment behavior starts to seem like gambling.</p>
+<p>the key to life is to figure out who to be the batboy for.</p>
+<p>accounting is the language of business</p>
+<p>“Financial shenanigans are actions that intentionally distort a company’s reported financial performance and financial condition. They range from benign (changes in accounting estimates) to egregious (fraudulent recognition of bogus revenue).”</p>
+<p>“In general, shenanigans that inflate revenue should be considered more serious than those that affect expenses.”</p>
+<p>“A compensation structure that heavily emphasizes the bottom line creates an environment that sometimes encourages accounting chicanery.”</p>
+<p>“…management may have little difficulty distorting financial reports if the company has weak internal controls.”</p>
+<p>“When companies face troubled times because of business slowdowns and other setbacks, their managers frequently take certain (bookkeeping) steps to ensure that the sun will come out tomorrow.”</p>
+<p>“Special charges offer a wonderful opportunity to artificially boost future operating profits.”</p>
+<p>“Despite the efforts of rule makers, internal and independent auditors, regulators and others working in harmony to prevent, detect and eliminate financial shenanigans, the problem continues to exist and is not likely to disappear any time soon.”</p>
+<p>“Investors should be wary whenever a company dramatically changes its business model, particularly from one easily understood by investors to another, far more obtuse and difficult to evaluate and monitor.”</p>
+<h1 id="references" style="position:relative;"><a href="#references" aria-label="references permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>References</h1>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=cRDcAeOJn7s&#x26;ab_channel=TheSwedishInvestor">https://www.youtube.com/watch?v=cRDcAeOJn7s&#x26;ab_channel=TheSwedishInvestor</a></li>
+<li><a href="https://www.youtube.com/watch?v=lBBXmim527A&#x26;t=35s&#x26;ab_channel=TheSwedishInvestor">https://www.youtube.com/watch?v=lBBXmim527A&#x26;t=35s&#x26;ab_channel=TheSwedishInvestor</a></li>
+<li><a href="https://www.youtube.com/watch?v=Zg-led5YMlo&#x26;ab_channel=TheSwedishInvestor">https://www.youtube.com/watch?v=Zg-led5YMlo&#x26;ab_channel=TheSwedishInvestor</a></li>
+<li><a href="https://www.oldschoolvalue.com/stock-valuation/what-is-owner-earnings">https://www.oldschoolvalue.com/stock-valuation/what-is-owner-earnings</a></li>
+<li><a href="https://novelinvestor.com/notes/the-interpretation-of-financial-statements-by-benjamin-graham/">https://novelinvestor.com/notes/the-interpretation-of-financial-statements-by-benjamin-graham/</a></li>
+</ul></section><hr/><footer><div class="bio"><div data-gatsby-image-wrapper="" style="width:50px;height:50px" class="gatsby-image-wrapper bio-avatar"><div aria-hidden="true" data-placeholder-image="" style="opacity:1;transition:opacity 500ms linear;background-color:#685848;width:50px;height:50px;position:relative"></div><picture><source type="image/avif" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/d4bf4/tony-avatar.avif 50w,/static/b811602c8c8ce14b66aae6613c8968f4/ee81f/tony-avatar.avif 100w" sizes="50px"/><source type="image/webp" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/3faea/tony-avatar.webp 50w,/static/b811602c8c8ce14b66aae6613c8968f4/6a679/tony-avatar.webp 100w" sizes="50px"/><img data-gatsby-image-ssr="" layout="fixed" data-main-image="" style="opacity:0" sizes="50px" decoding="async" loading="lazy" data-src="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg 50w,/static/b811602c8c8ce14b66aae6613c8968f4/64618/tony-avatar.jpg 100w" alt="Profile picture"/></picture><noscript><picture><source type="image/avif" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/d4bf4/tony-avatar.avif 50w,/static/b811602c8c8ce14b66aae6613c8968f4/ee81f/tony-avatar.avif 100w" sizes="50px"/><source type="image/webp" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/3faea/tony-avatar.webp 50w,/static/b811602c8c8ce14b66aae6613c8968f4/6a679/tony-avatar.webp 100w" sizes="50px"/><img data-gatsby-image-ssr="" layout="fixed" data-main-image="" style="opacity:0" sizes="50px" decoding="async" loading="lazy" src="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg 50w,/static/b811602c8c8ce14b66aae6613c8968f4/64618/tony-avatar.jpg 100w" alt="Profile picture"/></picture></noscript><script type="module">const t="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;if(t){const t=document.querySelectorAll("img[data-main-image]");for(let e of t){e.dataset.src&&(e.setAttribute("src",e.dataset.src),e.removeAttribute("data-src")),e.dataset.srcset&&(e.setAttribute("srcset",e.dataset.srcset),e.removeAttribute("data-srcset"));const t=e.parentNode.querySelectorAll("source[data-srcset]");for(let e of t)e.setAttribute("srcset",e.dataset.srcset),e.removeAttribute("data-srcset");e.complete&&(e.style.opacity=1,e.parentNode.parentNode.querySelector("[data-placeholder-image]").style.opacity=0)}}</script></div><p>Written by <strong>Tony Vo</strong> <!-- -->father, husband, son and software developer<!-- --> <a href="https://twitter.com/ttrungvo">Twitter</a></p></div></footer></article><nav class="blog-post-nav"><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/dividend-investment-summary/">← <!-- -->dividend investment by Marc Lichtenfeld summary - wip</a></li><li><a rel="next" href="/evolutionary-design-notes-with-jbrain/">Evolutionary Design Notes With JBrain Sessions<!-- --> →</a></li></ul></nav><div><div id="disqus_thread"></div></div></main><footer>© <!-- -->2025<!-- -->, Built with<!-- --> <a href="https://www.gatsbyjs.com">Gatsby</a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/financial-statement-analysis/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
+          <script
+            id="gatsby-chunk-mapping"
+          >
+            window.___chunkMapping="{\"app\":[\"/app-02f27bb33b7a634980a7.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-c5ce6f61d00d5bc2a364.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-85895703483e94bddc30.js\"],\"component---src-pages-tags-js\":[\"/component---src-pages-tags-js-5f4699c03df20c034ba6.js\"],\"component---src-pages-using-typescript-tsx\":[\"/component---src-pages-using-typescript-tsx-a71142f2de4e781bfbb8.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-e6b9723f7baba56e9afc.js\"],\"component---src-templates-tags-js\":[\"/component---src-templates-tags-js-396a8b4d37b1d972a6c6.js\"]}";
+          </script>
+        <script>window.___webpackCompilationHash="1bd95f07d917a5947bba";</script><script src="/webpack-runtime-5298344da22db0a7d8dc.js" async></script><script src="/framework-dd535bfdf9fc8b5d9656.js" async></script><script src="/app-02f27bb33b7a634980a7.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>

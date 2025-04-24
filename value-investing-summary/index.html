@@ -1,0 +1,561 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="generator" content="Gatsby 5.14.0"/><meta data-react-helmet="true" name="description" content="value investing summary"/><meta data-react-helmet="true" property="og:title" content="value investing summary - wip"/><meta data-react-helmet="true" property="og:description" content="value investing summary"/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" name="twitter:card" content="summary"/><meta data-react-helmet="true" name="twitter:creator" content="ttrungvo"/><meta data-react-helmet="true" name="twitter:title" content="value investing summary - wip"/><meta data-react-helmet="true" name="twitter:description" content="value investing summary"/><style data-href="/styles.8dfba4a7c3d44b256d62.css" data-identity="gatsby-global-css">@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/static/montserrat-latin-100-8d7d79679b70dbe27172b6460e7a7910.woff2) format("woff2"),url(/static/montserrat-latin-100-ec38980a9e0119a379e2a9b3dbb1901a.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/static/montserrat-latin-100italic-e279051046ba1286706adc886cf1c96b.woff2) format("woff2"),url(/static/montserrat-latin-100italic-3b325a3173c8207435cd1b76e19bf501.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/static/montserrat-latin-200-9d266fbbfa6cab7009bd56003b1eeb67.woff2) format("woff2"),url(/static/montserrat-latin-200-2d8ba08717110d27122e54c34b8a5798.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/static/montserrat-latin-200italic-6e5b3756583bb2263eb062eae992735e.woff2) format("woff2"),url(/static/montserrat-latin-200italic-a0d6f343e4b536c582926255367a57da.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/static/montserrat-latin-300-00b3e893aab5a8fd632d6342eb72551a.woff2) format("woff2"),url(/static/montserrat-latin-300-ea303695ceab35f17e7d062f30e0173b.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/static/montserrat-latin-300italic-56f34ea368f6aedf89583d444bbcb227.woff2) format("woff2"),url(/static/montserrat-latin-300italic-54b0bf2c8c4c12ffafd803be2466a790.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/static/montserrat-latin-400-b71748ae4f80ec8c014def4c5fa8688b.woff2) format("woff2"),url(/static/montserrat-latin-400-0659a9f4e90db5cf51b50d005bff1e41.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/static/montserrat-latin-400italic-6eed6b4cbb809c6efc7aa7ddad6dbe3e.woff2) format("woff2"),url(/static/montserrat-latin-400italic-7583622cfde30ae49086d18447ab28e7.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/static/montserrat-latin-500-091b209546e16313fd4f4fc36090c757.woff2) format("woff2"),url(/static/montserrat-latin-500-edd311588712a96bbf435fad264fff62.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/static/montserrat-latin-500italic-c90ced68b46050061d1a41842d6dfb43.woff2) format("woff2"),url(/static/montserrat-latin-500italic-5146cbfe02b1deea5dffea27a5f2f998.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/static/montserrat-latin-600-0480d2f8a71f38db8633b84d8722e0c2.woff2) format("woff2"),url(/static/montserrat-latin-600-b77863a375260a05dd13f86a1cee598f.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/static/montserrat-latin-600italic-cf46ffb11f3a60d7df0567f8851a1d00.woff2) format("woff2"),url(/static/montserrat-latin-600italic-c4fcfeeb057724724097167e57bd7801.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/static/montserrat-latin-700-7dbcc8a5ea2289d83f657c25b4be6193.woff2) format("woff2"),url(/static/montserrat-latin-700-99271a835e1cae8c76ef8bba99a8cc4e.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/static/montserrat-latin-700italic-c41ad6bdb4bd504a843d546d0a47958d.woff2) format("woff2"),url(/static/montserrat-latin-700italic-6779372f04095051c62ed36bc1dcc142.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/static/montserrat-latin-800-db9a3e0ba7eaea32e5f55328ace6cf23.woff2) format("woff2"),url(/static/montserrat-latin-800-4e3c615967a2360f5db87d2f0fd2456f.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/static/montserrat-latin-800italic-bf45bfa14805969eda318973947bc42b.woff2) format("woff2"),url(/static/montserrat-latin-800italic-fe82abb0bcede51bf724254878e0c374.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/static/montserrat-latin-900-e66c7edc609e24bacbb705175669d814.woff2) format("woff2"),url(/static/montserrat-latin-900-8211f418baeb8ec880b80ba3c682f957.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/static/montserrat-latin-900italic-4454c775e48152c1a72510ceed3603e2.woff2) format("woff2"),url(/static/montserrat-latin-900italic-efcaa0f6a82ee0640b83a0916e6e8d68.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/static/merriweather-latin-300-fc117160c69a8ea0851b26dd14748ee4.woff2) format("woff2"),url(/static/merriweather-latin-300-58b18067ebbd21fda77b67e73c241d3b.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/static/merriweather-latin-300italic-fe29961474f8dbf77c0aa7b9a629e4bc.woff2) format("woff2"),url(/static/merriweather-latin-300italic-23c3f1f88683618a4fb8d265d33d383a.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/static/merriweather-latin-400-d9479e8023bef9cbd9bf8d6eabd6bf36.woff2) format("woff2"),url(/static/merriweather-latin-400-040426f99ff6e00b86506452e0d1f10b.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/static/merriweather-latin-400italic-2de7bfeaf08fb03d4315d49947f062f7.woff2) format("woff2"),url(/static/merriweather-latin-400italic-79db67aca65f5285964ab332bd65f451.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/static/merriweather-latin-700-4b08e01d805fa35d7bf777f1b24314ae.woff2) format("woff2"),url(/static/merriweather-latin-700-22fb8afba4ab1f093b6ef9e28a9b6e92.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/static/merriweather-latin-700italic-cd92541b177652fffb6e3b952f1c33f1.woff2) format("woff2"),url(/static/merriweather-latin-700italic-f87f3d87cea0dd0979bfc8ac9ea90243.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/static/merriweather-latin-900-f813fc6a4bee46eda5224ac7ebf1b7be.woff2) format("woff2"),url(/static/merriweather-latin-900-5d4e42cb44410674acd99153d57df032.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/static/merriweather-latin-900italic-b7901d85486871c1779c0e93ddd85656.woff2) format("woff2"),url(/static/merriweather-latin-900italic-9647f9fdab98756989a8a5550eb205c3.woff) format("woff")}
+
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{-webkit-text-size-adjust:100%;line-height:1.15}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden]{display:none}:root{--maxWidth-none:"none";--maxWidth-xs:20rem;--maxWidth-sm:24rem;--maxWidth-md:28rem;--maxWidth-lg:32rem;--maxWidth-xl:36rem;--maxWidth-2xl:42rem;--maxWidth-3xl:48rem;--maxWidth-4xl:56rem;--maxWidth-full:"100%";--maxWidth-wrapper:var(--maxWidth-2xl);--spacing-px:"1px";--spacing-0:0;--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--fontFamily-sans:Montserrat,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--fontFamily-serif:"Merriweather","Georgia",Cambria,"Times New Roman",Times,serif;--font-body:var(--fontFamily-serif);--font-heading:var(--fontFamily-sans);--fontWeight-normal:400;--fontWeight-medium:500;--fontWeight-semibold:600;--fontWeight-bold:700;--fontWeight-extrabold:800;--fontWeight-black:900;--fontSize-root:16px;--lineHeight-none:1;--lineHeight-tight:1.1;--lineHeight-normal:1.5;--lineHeight-relaxed:1.625;--fontSize-0:0.833rem;--fontSize-1:1rem;--fontSize-2:1.2rem;--fontSize-3:1.44rem;--fontSize-4:1.728rem;--fontSize-5:2.074rem;--fontSize-6:2.488rem;--fontSize-7:2.986rem;--color-primary:#005b99;--color-text:#2e353f;--color-text-light:#4f5969;--color-heading:#1a202c;--color-heading-black:#000;--color-accent:#d1dce5}*,:after,:before{box-sizing:border-box}html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:var(--fontSize-root);line-height:var(--lineHeight-normal)}body{color:var(--color-text);font-family:var(--font-body);font-size:var(--fontSize-1)}footer{padding:var(--spacing-6) var(--spacing-0)}hr{background:var(--color-accent);border:0;height:1px}h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);letter-spacing:-.025em;line-height:var(--lineHeight-tight);margin-bottom:var(--spacing-6);margin-top:var(--spacing-12)}h2,h3,h4,h5,h6{color:var(--color-heading);font-weight:var(--fontWeight-bold)}h1{color:var(--color-heading-black);font-size:var(--fontSize-6);font-weight:var(--fontWeight-black)}h2{font-size:var(--fontSize-5)}h3{font-size:var(--fontSize-4)}h4{font-size:var(--fontSize-3)}h5{font-size:var(--fontSize-2)}h6{font-size:var(--fontSize-1)}h1>a,h2>a,h3>a,h4>a,h5>a,h6>a{color:inherit;text-decoration:none}p{--baseline-multiplier:0.179;--x-height-multiplier:0.35;line-height:var(--lineHeight-relaxed);margin:var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0)}ol,p,ul{padding:var(--spacing-0)}ol,ul{list-style-image:none;list-style-position:outside;margin-bottom:var(--spacing-8);margin-left:var(--spacing-0);margin-right:var(--spacing-0)}ol li,ul li{padding-left:var(--spacing-0)}li>p,ol li,ul li{margin-bottom:calc(var(--spacing-8)/2)}li :last-child{margin-bottom:var(--spacing-0)}li>ul{margin-left:var(--spacing-8);margin-top:calc(var(--spacing-8)/2)}blockquote{border-left:var(--spacing-1) solid var(--color-primary);color:var(--color-text-light);font-size:var(--fontSize-2);font-style:italic;margin-bottom:var(--spacing-8);margin-left:calc(var(--spacing-6)*-1);margin-right:var(--spacing-8);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6)}blockquote>:last-child{margin-bottom:var(--spacing-0)}blockquote>ol,blockquote>ul{list-style-position:inside}table{border-collapse:collapse;border-spacing:.25rem;margin-bottom:var(--spacing-8);width:100%}table thead tr th{border-bottom:1px solid var(--color-accent)}a{color:var(--color-primary)}a:focus,a:hover{text-decoration:none}.global-wrapper{margin:var(--spacing-0) auto;max-width:var(--maxWidth-wrapper);padding:var(--spacing-10) var(--spacing-5)}.global-wrapper[data-is-root-path=true] .bio{margin-bottom:var(--spacing-20)}.global-header{margin-bottom:var(--spacing-12)}.main-heading{font-size:var(--fontSize-7);margin:0}.post-list-item{margin-bottom:var(--spacing-8);margin-top:var(--spacing-8)}.post-list-item p{margin-bottom:var(--spacing-0)}.post-list-item h2{color:var(--color-primary);font-size:var(--fontSize-4);margin-bottom:var(--spacing-2);margin-top:var(--spacing-0)}.post-list-item header{margin-bottom:var(--spacing-4)}.header-link-home{font-family:var(--font-heading);font-size:var(--fontSize-2);font-weight:var(--fontWeight-bold);text-decoration:none}.bio{display:flex;margin-bottom:var(--spacing-16)}.bio p,.bio-avatar{margin-bottom:var(--spacing-0)}.bio-avatar{border-radius:100%;margin-right:var(--spacing-4);min-width:50px}.blog-post header h1{margin:var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0)}.blog-post header p{font-family:var(--font-heading);font-size:var(--fontSize-2)}.blog-post-nav ul{margin:var(--spacing-0)}.gatsby-highlight{margin-bottom:var(--spacing-8)}@media (max-width:42rem){blockquote{margin-left:var(--spacing-0);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4)}ol,ul{list-style-position:inside}}code[class*=language-],pre[class*=language-]{word-wrap:normal;background:none;color:#000;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;-webkit-hyphens:none;hyphens:none;line-height:1.5;tab-size:4;text-align:left;text-shadow:0 1px #fff;white-space:pre;word-break:normal;word-spacing:normal}code[class*=language-] ::selection,code[class*=language-]::selection,pre[class*=language-] ::selection,pre[class*=language-]::selection{background:#b3d4fc;text-shadow:none}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{margin:.5em 0;overflow:auto;padding:1em}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{border-radius:.3em;padding:.1em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{background:hsla(0,0%,100%,.5);color:#9a6e3a}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}</style><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){const t=e.target;if(void 0===t.dataset.mainImage)return;if(void 0===t.dataset.gatsbyImageSsr)return;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><style type="text/css">
+    .anchor.before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: translateX(-100%);
+      padding-right: 4px;
+    }
+    .anchor.after {
+      display: inline-block;
+      padding-left: 4px;
+    }
+    h1 .anchor svg,
+    h2 .anchor svg,
+    h3 .anchor svg,
+    h4 .anchor svg,
+    h5 .anchor svg,
+    h6 .anchor svg {
+      visibility: hidden;
+    }
+    h1:hover .anchor svg,
+    h2:hover .anchor svg,
+    h3:hover .anchor svg,
+    h4:hover .anchor svg,
+    h5:hover .anchor svg,
+    h6:hover .anchor svg,
+    h1 .anchor:focus svg,
+    h2 .anchor:focus svg,
+    h3 .anchor:focus svg,
+    h4 .anchor:focus svg,
+    h5 .anchor:focus svg,
+    h6 .anchor:focus svg {
+      visibility: visible;
+    }
+  </style><script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      var hash = window.decodeURI(location.hash.replace('#', ''))
+      if (hash !== '') {
+        var element = document.getElementById(hash)
+        if (element) {
+          var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+          var clientTop = document.documentElement.clientTop || document.body.clientTop || 0
+          var offset = element.getBoundingClientRect().top + scrollTop - clientTop
+          // Wait for the browser to finish rendering before scrolling.
+          setTimeout((function() {
+            window.scrollTo(0, offset - 0)
+          }), 0)
+        }
+      }
+    })
+  </script><link rel="alternate" type="application/rss+xml" title="Tony Vo Blog RSS Feed" href="/rss.xml"/><link rel="icon" href="/favicon-32x32.png?v=b811602c8c8ce14b66aae6613c8968f4" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=b811602c8c8ce14b66aae6613c8968f4"/><title data-react-helmet="true">value investing summary - wip | Conversations on agile technical practices and investments</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="global-wrapper" data-is-root-path="false"><header class="global-header"><a class="header-link-home" href="/">Conversations on agile technical practices and investments</a></header><main><article class="blog-post" itemscope="" itemType="http://schema.org/Article"><header><h1 itemProp="headline">value investing summary - wip</h1><p>August 09, 2022</p></header><section itemProp="articleBody"><h1 id="bruce-greenwalds-value-investing" style="position:relative;"><a href="#bruce-greenwalds-value-investing" aria-label="bruce greenwalds value investing permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>bruce greenwald’s value investing</h1>
+<h2 id="value-investing-process" style="position:relative;"><a href="#value-investing-process" aria-label="value investing process permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>value investing process</h2>
+<ul>
+<li><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 394px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/ec39e2b02c14483aa0ec0cabe6b49761/cc097/value-investing-process.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 216.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAArCAYAAAB4pah1AAAACXBIWXMAAC4jAAAuIwF4pT92AAAFsklEQVR42p1Wa1NTVxTtf3amVuuH2hlt/aBSO7adsegUrO0IKC8rgghqgJBAcm/euXkn5GFIIO93WF37hGAcSEJ7Zvace889Z939Wmfvr8Cxay5i6o80njxJY3HhEOvvjrDyTw7zfJ6dzWJmhvL8E2ZfHOLpswzW14/w958ZrL49wtyLLBa47wW/LS7l8JUAxuMNbG8VsLNTpJSh6zW4nDXY7DXsWSuwWsrY26tA06owmUpwOGoIGA3uq8NsLqlzZhEqpgAHR6tVR6VaoBRRo3Q6zVNpod1u8HsNVa6XywXOBbU+OBTgyUlfOjRXx6tXCbx+HadEcf/+AiYmFnD37hwmflrG75PvsfLmAKurSbrDi/19nwLqdLoK4wsNu90WPn50w7rX5sYmdK2D6WkTHk9u4NGjNUw/NWNuzgGrtaG+r69n6YbA6dnuZw0/m9uC1+tFPBaBy+WCxWpBLn90euBESbvVRr1ep/lt5HI5BAIjAJvNJgzDQDb7CT6vB6FQGPVGA8NGuVzmnhB6bjsZDpg7PGQq7RA4J1vpn446ICKa9A9fGjD7KQOH0wWfzwuPx4MaTRw81J9LpdJ4QL/frwDtNrvyp/wgHIkiSF+Fw2G1ViyWLgcopjkcDgbEie3tbUbTAovFwqTeww7fzeZd7JjN1NqLRCKhAicKDA1KX8tqtYoGgyHRlPdisUg2xVQWyFq1WlH+E5Fon0vscaNWq50zbdg4B9jptAlQoSZVatRU7CmVikilDsQwpZGsy3cR2X8hYP/HFosXy8s+vHsXxezMLm+gVSwv6Xg6vUHGrGCS789nzHj/PoH5eSfsduNiH/YAT+h4gwFp0uHA8qKBX359i+kpMx48eI2pqV08+HkFfz2zQ9OBtbVjBiw4Oihut+SenxwV6mmIJzIolSUQTd5ATZRLdRQKVUoF0WiSaTQiyuLwYDCIg3icHPUzhXSk0ykV1RIjXa1+GdWxTJFFIXs0EqaWPoSCAfpIY3IHVG5KPhZL5bP9kk6XA4z2mOF2u+F26giFo//9cugv+Hw+0s6mGGO325XZuq7zyjfUN2GG0FFco2mamkcGRT4IO4QVLZVzLTTJmmQqpVgiDBoUoevIxL6ICXJITOtrMWr/pagnQBLtiwCHUq//p2j0QLFF00L0YRA2W4D1w4BDj6hnWRPR9RBJ4EEslhoWlN68teXD0lIeGxtVbG42cO/eG9y4MY3bt1/i66uTePjQpNY3N2t4+TJNUP8w6vUQNc1HSTF9Coxmgc8HLPYh5mCEBd1HzfiN6+FwhRonmQVj7sNAQFLCgMftoPkheHhDu1w68kdHAz/u15QxiS1D8iqVSsJPdmiaHYaf+ef1IRiO8NnPH5KaBweXo54MqRuJRBwR1hGlLQ/0ZzkcjcWRz+fOAGX/SKaIiR63S7FkjzXFbLHCTk1NHz+ouhIjYL9MpJjswp6RQRFzRBMpQjHeOnFKLBbjnFCz8Fy0klkqYDKZHG3yRUM0SqfT/6+m9DqEzx2ZjGq1xkvBOOtxBr/L+xjqnZwT6QGPj3On791TGdwzhnpv12wsQk62dl7Obnz44GKd8XN2892FTYqaN5ykqYdnu+cB+1HStSBufjeD69ef4P7EW9y5s4Rvr03i5vcz+OHHeVy/9hhXrvyGq988xq1bi6x8NtVXXgDY09DrNZgyITidUaaLzDEyJQbdESH9SEtd8rTAbCgik6lzzaWCNtTkEJmSYbMktNM0G/PMg1QygUg4yEbezuD40B4o7nJ7NwZ6yHOAQr1MJsPymVBNkTSdkrwulxuGtHcsm1ar9YwhQsexgJLcksRSM0KhACLRGHLsavfZ4tlt+yqha/UeiH8cYIh/zufz8FMbk2mLUdxVvO52O0ilM+rmzh5mz3x+zuTBVlcBntLOMPyq8pm2dshtNyqVXgtXOW3ljnmdScMppVYKWR/wX0QOj2HyRd8GAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="value investing process"
+        title=""
+        src="/static/ec39e2b02c14483aa0ec0cabe6b49761/cc097/value-investing-process.png"
+        srcset="/static/ec39e2b02c14483aa0ec0cabe6b49761/c26ae/value-investing-process.png 158w,
+/static/ec39e2b02c14483aa0ec0cabe6b49761/6bdcf/value-investing-process.png 315w,
+/static/ec39e2b02c14483aa0ec0cabe6b49761/cc097/value-investing-process.png 394w"
+        sizes="(max-width: 394px) 100vw, 394px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+        decoding="async"
+      />
+  </a>
+    </span></li>
+<li>circle of competence - “know what you know”
+<ul>
+<li>organize valuation components by reliability: most reliable -> least reliable</li>
+<li>organize valuation components by underlying strategic assumption: no competitive advantage -> growing competitive advantage</li>
+</ul>
+</li>
+<li>“The search for undervalued stocks should start with companies that are undesirable, such as those in bankruptcy or suffering from financial distress”. Another way to think about is to focus on great company at fair price</li>
+<li>the problem with the present value method is that it is a terminal value calculation as of today, and it does not avoid the problems with terminal calculation (terminal value is the value of a company’s cash flows projected beyond the end of year 10, when the cash flow grows perpetually at a constant proportional rate)</li>
+<li>discounted cash flows models problems
+<ul>
+<li>companies grow at vastly different levels and rates</li>
+<li><strong>it is a rule for translating between the assumptions that you can make reliably about the future and the present day value of the security</strong></li>
+<li><strong>combining bad information with good information and you are not using assumptions you can make but you are also throwing away information that is on the balance sheet</strong></li>
+</ul>
+</li>
+<li>earnings power value technique
+<ul>
+<li>the value of assets a competitor will be required to have in order to achieve the same market value of incumbent company in the industry</li>
+<li>earnings power value calculated based on current financial status where the resulting intrinsic value ignores business cycles</li>
+<li>growth is usually ignored in this valuation technique</li>
+<li><a href="https://www.oldschoolvalue.com/stock-analysis/earnings-power-value-epv/">Earnings Power value (EPV) Stock valuation How-to</a></li>
+<li>As a note, Enron had great earnings all the way up to its collapse but FCF foretold the troubles long before the scandal surfaced.</li>
+</ul>
+</li>
+<li>Value investors consider the three sources of intrinsic value to be the reproduction cost of the company’s assets, the current earnings power of any franchise, and the value of its earnings growth within that franchise. The most difficult aspect to value is the worth of future earnings growth</li>
+<li>In its simples terms, value investing is the process of calculating the fundamental value of a security, comparing this value to the market price and buying if the value is sufficiently higher than the price to provide a cushion against risk. Value investors are not, repeat not:
+<ul>
+<li>Technicians, who look only at price movement patterns, ignoring fundamental value.</li>
+<li>Macro-fundamental, or top-down investors, who try to read and predict the market’s response to broad economic events but do not usually scrutinize individual stocks.</li>
+<li>Price and earnings forecasters, who estimate future earnings based on various factors and buy when their estimate beats the market’s estimate, implied in the market price.</li>
+</ul>
+</li>
+<li>Value investing demands two virtues: humility and patience. Value investors have to know what they know and know what they don’t know. The best tend to specialize in one area and develop a real understanding of its economics, since a big, meaningful gap exists between “undervalued” and “cheap.” Value investors have to wait until a real bargain comes along. When they find and buy it, they have to wait until the market recognizes the fundamental value and the market price adjusts. Both waits may be long</li>
+</ul>
+<h2 id="search-strategy" style="position:relative;"><a href="#search-strategy" aria-label="search strategy permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>search strategy</h2>
+<ul>
+<li>“every time you sell stock, someone else is buying that security. <strong>One person on one side of the trade is always wrong</strong>”</li>
+<li><strong>You have to know what you know and what you don’t know</strong>
+<ul>
+<li>not all value is measurable</li>
+<li>not all value is measure by you</li>
+<li>where do I have the advantage</li>
+<li><strong>great investors focus on specific opportunities in concentrated ways</strong></li>
+</ul>
+</li>
+<li>value investing rests on 3 key characteristics of financial markets
+<ul>
+<li>emotionalism and short-term thinking rule market prices in the short-run</li>
+<li>financial assets do have underlying or fundamental economic values that are relatively stable and can be measured by diligent and disciplined investor. Price and value often diverge</li>
+<li>a strategy of buying when prices are 33% to 50% below the calculated intrinsic value will produce superior returns in the long-run. The size of the gap between price and value is the “margin of safety”</li>
+</ul>
+</li>
+<li>when you identify a statistical irregularity, you want to be able to explain it with an enduring rational to individual and institutional behavior.
+<ul>
+<li>institutional bias
+<ul>
+<li>herding: money managers do not want to stray too far from the performance of indexes or “me-too” manager will jump on bandwagon as other people buy and drive stocks up to high P/Es</li>
+<li>window-dressing: buy the best acting stocks near or before the end of quarter so you have more positive stocks to show investors</li>
+<li>block-busters: people will be overly focused on looking for next blockbuster stock like microsoft. You want to be on the other side of their trade.</li>
+</ul>
+</li>
+<li>individual bias
+<ul>
+<li>loss aversion: People will gamble to avoid a sure loss. People will take on more loss to avoid sure loss</li>
+<li>lotteries: people like to buy lottery tickets and get rich quick, that is why people love buying glamour stocks</li>
+<li>hindsight bias: people think they know what is going on. They don’t remember what they really did.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>set up a data collection and search strategy to find disappointing cheap stocks or where there is a temporary supply/demand imbalance. You want a less well informed, less rational person than you on the other side of the trade.</li>
+<li>look at insiders
+<ul>
+<li>who is buying and selling the stock, insiders, management, and investors.</li>
+</ul>
+</li>
+<li><strong>search criteria: where are the unreflective sellers</strong>
+<ul>
+<li>obscure: small caps, spin-offs, post bankruptcy, boring with low analyst coverage
+<ul>
+<li>Since funds can’t own small stocks, analysts don’t cover them and the stocks stay obscure. Spin-offs may be small, unheralded and dumped, despite their merits. And, the market tends to ignore boring firms that chug along in monotonous mediocrity. When they do something new, no one may be looking (except the astute value investor)</li>
+</ul>
+</li>
+<li>industry problems are your friend as long as you know the industry is viable.</li>
+<li>undesirable:
+<ul>
+<li>financial distress, bankruptcy, low growth, low P/E, low M/B,</li>
+<li>boring is your friend</li>
+<li>industry problems (bad loans, regulatory threat, overcapacity)</li>
+<li>company problem (lawsuit, poor subsidiary performance, poor year)</li>
+<li>disappointing (long-term underperformance)</li>
+<li>other supply, demand imbalance - RTC dumping indiscriminately, eastern europe dumping privatization, index deletions.</li>
+</ul>
+</li>
+<li>for large cap global stocks, you are in tough competition.
+<ul>
+<li>you would like to be the only one seriously studying a particular security or one of a few people.</li>
+</ul>
+</li>
+<li><strong>if you do nothing, but eliminate the high glamour growth stocks you get another one or two percent</strong>
+<ul>
+<li><strong>inherent institutional and individual biases create ongoing opportunities and glamour stocks (high growth high P/E)</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>look for companies with sustainable competitive advantages
+<ul>
+<li><strong>you want a management that understands the source of of the company’s competitive advantage and will protect it and not tie it to competitive disadvantages or negative synergies in other segment the way Apple did</strong></li>
+</ul>
+</li>
+</ul>
+<h2 id="valuation-strategy" style="position:relative;"><a href="#valuation-strategy" aria-label="valuation strategy permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>valuation strategy</h2>
+<ul>
+<li>
+<p>is this industry viable or not?</p>
+</li>
+<li>
+<p>view <strong>tangible assets at liquidation costs</strong></p>
+<ul>
+<li>it’s the most reliable information.</li>
+<li>if the industry is not viable and the company going to get liquidated, you would want to see the valuation in liquidation and that is closely tied to assets.</li>
+<li>Assets - Look at the balance sheet. Work from the top down. Some values have to be adjusted because accounting numbers are more accurate for some assets and liabilities than for others. What matters is the assets’ value if they were sold today. If an industry is on the path to extinction, its equipment and inventory may not have more than scrap value. If the industry will continue to exist, the proper value is the “reproduction value,” the cost of replacing the asset. In general, items at the top of the balance sheet - cash, receivables, inventory - have values close to the book value. The book value is more questionable farther down the balance sheet. Usually it’s possible to come up with an estimate more reliable than an estimate of future earnings. The assets and liabilities are real, exist now and do have some value.</li>
+</ul>
+</li>
+<li>
+<p>reproduction cost of an asset is the most appropriate measure of its worth.</p>
+<ul>
+<li>if the industry to viable, then sooner or later the assets are going to be replaced, so you have to look at the costs of reproducing those assets as efficient as possible.</li>
+<li><a href="https://www.oldschoolvalue.com/stock-valuation/how-to-asset-reproduction-value-analysis/">asset reproduction value analysis</a></li>
+</ul>
+</li>
+<li>
+<p>the second most reliable measure of a firm’s intrinsic value is the value of its current earnings, properly adjusted. This value can be estimated with more certainty than future earnings or cash flows, and it is more relevant to today’s values than are earnings in the past.</p>
+<ul>
+<li>earnings, if they are sustainable, are supported by assets or barriers to entry.</li>
+<li>Cash flow - Benjamin Graham and David Dodd used the Earnings Power Value (EPV) formula to calculate the level of distributable cash flow that a company could reasonably sustain. The formula is: “EPV = Adjusted Earnings x 1/R, where R is the current cost of capital.” Because companies often artificially inflate earnings by booking some costs as allegedly non-recurring, the savvy value investor researches the history, calculates the usual ratio of such charges to reported earnings and reduces current reported earnings appropriately. The investor may need to make a similar adjustment for depreciation and amortization, which can also misrepresent the real need to reinvest. Finally, the investor considers the business cycle, adjusting earnings based on whether the company is at its top or bottom. The EPV must be sustainable. For assurance that it is, look for sustaining strategic advantages like franchise value.</li>
+</ul>
+</li>
+<li>
+<p>Unless there is something to interfere with this process of entry, sooner or later the market value of the company will be driven down to the reproduction value of the assets. <em>Reversion to the Mean or the Uniformity of One Price</em></p>
+</li>
+<li>
+<p>If you have EPV in excess of reproduction value (AV) of the assets, there had better be something to interfere with the process of entry such as competitive advantage such as barriers of entry, etc…</p>
+<ul>
+<li><strong>then and only then you should worry about growth</strong>
+<ul>
+<li><strong>the only case where growth has value is where the growth occurs behind the protection of an identifiable competitive advantage</strong></li>
+<li><strong>growth only has value if it is a strong franchise</strong></li>
+</ul>
+</li>
+<li>You have to adjust for any accounting shenanigans that are going on, you have to adjust for the cyclical situation, for the tax situation that may be short-lived, for excess depreciation over the cost of maintenance capital expense (MCX). And really for anything else that is going on that is causing current earnings to deviate from long run sustainable earnings. So <strong>valuation is calculated by a company’s long-run sustainable earnings multiplied by 1/cost of capital</strong>.</li>
+<li>entry barriers: A franchise only has value when competitors can’t easily enter the market and take chunks of it away. Only a few things create real barriers to entry:
+<ul>
+<li>Government - Licenses and other legally protected privileges, e.g. cable franchises.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Costs
+- Expense creates a barrier if the incumbent has cost advantages no one can duplicate, especially patents or proprietary knowledge a competitor can’t match or buy. Economies of scale matter; if unit costs fall as more units are produced, a new entrant can’t match a high-volume leader (absent new technology or processes).
+- Revenues - In rare cases, customers are so attached to a particular brand (think Coca-Cola) that it is very difficult for a new entrant to seduce them. Also, costly switching virtually traps customers, i.e., buyers of corporate software suites must also train staff and debug. Here, the cost of switching helps protect Microsoft’s franchise.</p>
+<ul>
+<li>AV > EPV
+<ul>
+<li>Use the EPV as a guide to intrinsic value. Either management is doing a bad job (and could only be dislodged in a takeover) or the industry suffers from overcapacity (so increased value requires reduced capacity).</li>
+</ul>
+</li>
+<li>AV approximately equal to EPV
+<ul>
+<li>It tells a story of an industry that is in balance. It is exactly what you would expect to see if there were no barriers-to- entry.</li>
+<li>Management is probably mediocre and the firm lacks a competitive edge. To check, examine management’s returns and judge whether they are about average. Is the industry stable, or do competitors come and go? This kind of firm may be a good value investment if market price falls far enough below fundamental value for a margin of safety, but growth estimates are worthless.</li>
+</ul>
+</li>
+<li>accounts receivable can be valued at book value, although in liquidation, you will recover 90% to 95% of it.</li>
+<li>good management always adds value to the assets not already embedded in the earnings. Bad management subtracts value from the assets.</li>
+<li>growth is valued separately since growth is where all the uncertainty resides and you want to segregate that uncertainty from what you know.</li>
+<li>Growth is relatively rarely valuable in the long run. <strong>Growth at a competitive disadvantage has negative value</strong>
+<ul>
+<li><strong>The only case where growth has value is where the growth occurs behind the protection of an identifiable competitive advantage</strong>.</li>
+<li>There is usually <strong>stable market share</strong> which is symptomatic of that last situation that means in the long run,the company will grow at the industry rate. And in the long run, almost all industries grow at the rate of global GDP</li>
+</ul>
+</li>
+<li>value of growth
+<ul>
+<li>verify the existence of a franchise</li>
+<li>identify the cash distributions in terms of dividends and buybacks</li>
+<li>don’t overestimate growth once the company is out of its rapid growth phase.</li>
+</ul>
+</li>
+<li><strong>competitive analysis</strong>
+<ul>
+<li>Michael Porter’s 5 forces that effect the operations</li>
+<li>the dominant force determining whether this is good business or not: entrants and expansion.</li>
+<li>the companies who have sustainable competitive advantages are the ones like MSFT and INTI, WMT, CISCO who focus on narrow segments on geographical space or product space and dominate those particular segments</li>
+<li>lower cost structure</li>
+<li>customer captivity due to habits, search costs or switching costs</li>
+<li>globalization and large, fast growth is the enemy of competitive advantage and profitability.</li>
+<li>your local infrastructure in relation to the size of the market will determine your regional economies of scale.</li>
+</ul>
+</li>
+</ul>
+<h2 id="review-process" style="position:relative;"><a href="#review-process" aria-label="review process permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>review process</h2>
+<p>key issues, collateral evidence, personal biases</p>
+<h2 id="manage-risk" style="position:relative;"><a href="#manage-risk" aria-label="manage risk permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>manage risk</h2>
+<ul>
+<li>Value investors control risk by specializing in situations that don’t correlate with the market, such as take-overs, spin-offs, arbitrage, bankruptcy and workouts. They double-check their conclusions by watching insiders or knowledgeable investors and by closely scrutinizing their calculations for errors. They use position limits to restrict how much they invest in any one stock or security. Or, like Warren Buffett, they buy whole companies.</li>
+</ul>
+<h1 id="security-analysis-by-benjamin-graham-and-david-dodd" style="position:relative;"><a href="#security-analysis-by-benjamin-graham-and-david-dodd" aria-label="security analysis by benjamin graham and david dodd permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Security analysis by Benjamin Graham and David Dodd</h1>
+<ul>
+<li><a href="/security-analysis-summary/">security analysis by Benjamin Graham and David Dodd summary</a></li>
+<li><a href="https://youtu.be/JC2XTmqxcSE">different valuation approach from Jimmy Investor Grow</a></li>
+<li><a href="https://www.youtube.com/watch?v=09MQaNsU_7E&#x26;ab_channel=TheSwedishInvestor">swedish investor value stock search</a></li>
+</ul>
+<h1 id="buffets-principles-and-rules-of-value-investing" style="position:relative;"><a href="#buffets-principles-and-rules-of-value-investing" aria-label="buffets principles and rules of value investing permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Buffet’s principles and rules of value investing</h1>
+<ul>
+<li><a href="/buffett-partnership-letters-summary">buffet principles and rules of value investing</a></li>
+</ul>
+<h1 id="intelligent-investor" style="position:relative;"><a href="#intelligent-investor" aria-label="intelligent investor permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Intelligent investor</h1>
+<ul>
+<li>defensive investor’s portfolio should be well balanced, safe and very easy to manage.
+<ul>
+<li>look at the portfolio of well established investment funds (consider ray dalio’s all weather portfolio, weird portfolio of deep value stock geek, etc…)</li>
+<li>majority of portfolio should include index funds.</li>
+<li>it typically consists of high-grade bonds, inflation protected bonds, large cap index fund, gold/silver index fund and common stocks</li>
+<li>minority of portfolio (less than 10%) could be invested in common stocks (at least 10 different companies in different industries)</li>
+<li>try to employ the services of an expert (once a year) to guide you to make the best investment decisions.</li>
+<li>dollar-cost averaging, whereby you invest in a common stock every month or quarter and always with the same amount of money.</li>
+<li>readjust your portfolio’s division of common stocks, bonds, index funds, etc… Ask yourself: are my stocks still profitable? is the ratio about the same as when I had initially invested? has the management done anything that lost my trust?</li>
+</ul>
+</li>
+<li>enterprising investor
+<ul>
+<li>start similarly to defensive investors</li>
+<li>invest more in common stocks, as they are more profitable (yet riskier)</li>
+<li>enterprising investors should limit these stocks to a maximum of 10 percent of her overall portfolio. It is because Mr Market is too wild for any rational person to predict and placing the limits to protect our money in case of economic downturn or poor investment</li>
+<li>continual research and monitoring of their portfolios is essential to maintain an incoming profit flow.</li>
+<li>practice with virtual account for at least 1 year before trading in real accounts</li>
+<li>buy in low markets and sell in high markets.</li>
+</ul>
+</li>
+<li>it’s extremely difficult to find a good financial professional who can guarantee you large returns on your money</li>
+<li>mutual funds, in which investments from many people are pooled, usually come with a high management fee. After subtracting the fee, you’re often left with below-average returns.
+<ul>
+<li>professional money managers can’t afford to perform lower than average for long periods because they keep need to keep their clients satisfied all the time. It’s difficult to hold onto a strategy which might not work for months or years at a time, no matter how effective the strategy is in the long term. You can, though, All it takes is some patience to stock with it during the good and not-so-good times.</li>
+</ul>
+</li>
+<li>index fund such as Standard &#x26; Poor’s 500 Index is a mutual fund which aims to match the market’s best performing companies, as opposed to trying to beat them. Since index fund fees are lower, and because on average the market performs well, index funds often provide you with very healthy profits.</li>
+<li>the stock market values of most companies swing drastically over short time periods for no rational reason.</li>
+<li>consider “earnings yield” and the “return on capital” when putting together your investment portfolio
+<ul>
+<li>combine both earnings yield and ROC into one single measure.</li>
+<li>rank the companies based on Earnings Yield and ROC separately and then combine their scores by adding them the scores (ranks)</li>
+</ul>
+</li>
+<li>earnings yield
+<ul>
+<li>tells you what the business earns in relation to its share price</li>
+<li>calculated by finding the ratio of earnings before interests expenses and tax (EBIT), to enterprise value (EV). The EV is the market value plus the net interest-bearing debt.</li>
+</ul>
+</li>
+<li>return on capital
+<ul>
+<li>calculated by dividing the after-tax profit by the book value of invested capital (total amount of money invested by the company’s shareholders, bondholders, and so on)</li>
+<li>reveals how effective a company is at transforming investment into profit.</li>
+</ul>
+</li>
+<li>take the following pre-caution with your strategy:
+<ul>
+<li>apply the strategy when choosing stocks of large companies, not small ones. Smaller companies don’t have much to offer in terms of shares, so even a slight increase in demand can force their share price up. You may therefore find it challenging to buy their shares at a reasonable price.</li>
+<li>the strategies should include owning 20-30 large company stocks (in different industries) at a time. (I prefer to narrow the list less than 10, so I can read more about the companies and have a good reason why I want to buy the companies)</li>
+<li>use tax laws intelligently to maximize your profit
+<ul>
+<li>sell stocks which lost value before one-year holding period ends, which would decreases your yearly income and thus the taxes you will need to pay.</li>
+<li>sell the stocks which increase value after one-year holding period ends, which would reduce your tax on capital gains.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>buy stock only when its price is below its intrinsic value, its value as it relates to a company’s propensity for growth. Furthermore, you believe there is a probable margin between what you pay and what you will earn as the company grows (margin of safety)</li>
+<li>principles
+<ul>
+<li>intelligent investors analyze the long-term development and business principles of the companies in which they’re considering investing before buying any stock.
+<ul>
+<li>examining the company’s financial history, structure, quality of its management and whether it pays steady dividends.</li>
+<li>don’t fall into the trap of only looking at short-term earnings.</li>
+<li>this would give you a better idea of how well a company performs independent of its value on the market</li>
+</ul>
+</li>
+<li>protect against serious losses by diversifying the investments. (portfolio of 10-20 stocks in different industries)</li>
+<li>understand that you don’t pull in extraordinary profits, but safe and steady revenues.</li>
+<li>the target for intelligent investor is to meet her personal needs, not to outperform the professional stockbrokers on Wall Street.</li>
+</ul>
+</li>
+<li>understand the importance of stock-market history
+<ul>
+<li>economic crises, the unpredictability of the market means that investors need to be prepared - financially and psychologically to ensure that you can take a big hit and survive.</li>
+<li>don’t sell everything at the first sign of danger. Remember instead that, even after the most devastating crashes, the market will always recover.</li>
+<li>the history of the market will give you a better idea of its stability. Once you’ve determined that the market is stable, focus on the history of the company in which you’d like to invest.
+<ul>
+<li>look at the correlation between stock price and the company’s earnings and dividends over the past 10 years. Then consider the inflation rate, in order to see how much you’d really earn.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="investment-philosophy" style="position:relative;"><a href="#investment-philosophy" aria-label="investment philosophy permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>investment philosophy</h1>
+<ul>
+<li>focuses on individual companies, rather than macro-economic factors</li>
+<li>invests in companies with sustainable competitive advantages</li>
+<li>prefers becoming an expert on a few companies over major diversification</li>
+<li>bases his investment decisions on the operational performance of the underlying businesses</li>
+<li>holds on to stocks for an extremely long period</li>
+<li>minimizes risks by requiring a significant margin of safety before investing.</li>
+<li>sticks to the companies within the “circle of competence”</li>
+<li>contrarian, always going against the crowd and buying at the point of maximum pessimism.</li>
+<li>global investment approach: looks for interesting stocks in every country, but preferably countries with limited inflation, high economical growth, and a movement toward liberalization and privatization.</li>
+<li>prefers a concentrated portfolio with around 10-12 stocks</li>
+<li>be patience and keep an open-mind and a skeptical attitude towards conventional wisdom.</li>
+<li>first step is to look for stocks trading below 2/3rd of net current asset value (NCAV)</li>
+<li>prefers companies which pay dividends</li>
+<li>earnings should be growing</li>
+<li>price/earnings ratio should be lower than 15 over the past 3 years.</li>
+<li>avoid technical analysis</li>
+<li>emphasizes the importance of honest, able management, and shareholder friendly</li>
+<li>should not follow the masses, but instead have patience and think for yourself.</li>
+<li>asking questions to customers, employees, competitors, analysts, suppliers and management to find out more about the competitive position of a company and its management.</li>
+<li>only sells when a company starts experiencing issues with its business model, competitive positioning, or management.</li>
+<li>looks for low-risk, high-uncertainty opportunities with a significant upside potential.</li>
+<li>use value line investment survey to find attractive stocks.</li>
+<li>it is futile to predict interest rates and where the economy is heading</li>
+<li>formulates exactly why the stock should be bought before actually buying it.</li>
+<li>use several valuation methods simultaneously, since no method is perfect and it is impossible to precisely calculate the intrinsic value of a company.</li>
+<li>you should find out not only if an asset is undervalued, but also why it is undervalued.</li>
+<li>when it comes to shrewd trading, a knowledge of history is a fine weapon, so be sure to keep it sharp.</li>
+<li>don’t trust the crowd or the market and follow practical investment based on your unique investment style.</li>
+<li>follow the investor that interests you such as Benjamin Graham, Warrent Buffet, Peter Lynch, John Templeton, etc…
+<ul>
+<li>follow the corporate insiders who run the companies (president, chairman, CEO, chief legal counsel, directors, board members who meet regularly with the officers, form 4 on details of the insider trades, etc…)</li>
+<li>it’s a good sign when insiders buy their own company shares</li>
+</ul>
+</li>
+<li>criterias for growth/risky stock:
+<ul>
+<li>the company is a leader in cutting-edge technology that changes how we live</li>
+<li>it has breakthrough products used by millions of customers around the world.</li>
+<li>those products are protected by trademarks and patents</li>
+<li>it has hundreds of millions, or even billions, of dollars in future safes and profits - not just expected but, ideally, contractually guaranteed</li>
+<li>it’s relatively undiscovered and trading for low price.</li>
+<li>it’s a good sign when insiders buy their own company shares
+<ul>
+<li>top level insider buying , directors, officers, chairmen board, c-level executives… Who are intimated acquainted with company financial health</li>
+<li>total buys must exceed 100k and it’s clister from mutiple top level insider</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>6 factors that impact the investment portfolio:
+<ul>
+<li>the amount of money you save</li>
+<li>the length of time you allow that money to compound</li>
+<li>your portfolio’s investment returns</li>
+<li>the amount of expenses your portfolio absorbs</li>
+<li>the amount of taxes you pay</li>
+<li>your asset allocation</li>
+</ul>
+</li>
+<li>Intrinsic value calculation
+<ul>
+<li>discount cash flow model can be found at
+<ul>
+<li><a href="https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/">https://www.buffettsbooks.com/how-to-invest-in-stocks/advanced-course/lesson-35/</a></li>
+<li><a href="https://twitter.com/MnkeDaniel/status/1523721539392540672?t=MacAALagWmxhyXe3OEH1lQ&#x26;s=19">https://twitter.com/MnkeDaniel/status/1523721539392540672?t=MacAALagWmxhyXe3OEH1lQ&#x26;s=19</a> (need to be summarized)</li>
+</ul>
+</li>
+<li>fixed-income calculator adjusted for equities
+<ul>
+<li><a href="https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-21/">https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-21/</a></li>
+</ul>
+</li>
+<li>the intrinsic value of bonds
+<ul>
+<li><a href="https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-16/">https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-16/</a></li>
+</ul>
+</li>
+<li>the intrinsic value of callable preferred stock
+<ul>
+<li><a href="https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-23/">https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/lesson-23/</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="funny-stock-market-terms" style="position:relative;"><a href="#funny-stock-market-terms" aria-label="funny stock market terms permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>funny stock market terms</h1>
+<ul>
+<li>bull market: a random market movement causing an investor to mistake himself for a financial genius</li>
+<li>bear market: a 6-18 month period when the kids get no allowance, the wife gets no jewelry, and the husband gets no “love”</li>
+<li>value investing: the art of buying low and selling lower.</li>
+<li>P/E ratio: the percentage of investors wetting their pants as the market keeps crashing</li>
+<li>standard &#x26; poor: your life in a nutshell.</li>
+<li>stock analyst: idiot who just downgraded your stock</li>
+<li>stock split: when your ex-wife and her lawyer split your assets equally between themselves</li>
+<li>market correction: the day after you buy stocks</li>
+<li>cash flow: the movement your money makes as it disappears down the toilet</li>
+<li>ebitda: earnings before I tell the dump auditor</li>
+</ul>
+<h1 id="interpretation-of-financial-statements" style="position:relative;"><a href="#interpretation-of-financial-statements" aria-label="interpretation of financial statements permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Interpretation of Financial Statements</h1>
+<ul>
+<li><a href="/financial-statement-analysis">interpretation of financial statements summary</a></li>
+</ul>
+<h1 id="how-to-read-annual-reports" style="position:relative;"><a href="#how-to-read-annual-reports" aria-label="how to read annual reports permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>how to read annual reports</h1>
+<ul>
+<li><a href="./">how to read annual report</a></li>
+</ul>
+<h1 id="questions" style="position:relative;"><a href="#questions" aria-label="questions permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Questions</h1>
+<ul>
+<li>what is your default strategy when there is nothing to do?
+<ul>
+<li>buy the market in an index fund vs cash?</li>
+<li>what does the absence of opportunity tell you</li>
+</ul>
+</li>
+<li>why are you the only one seeing this opportunity?</li>
+</ul>
+<h1 id="stock-hedging-strategies" style="position:relative;"><a href="#stock-hedging-strategies" aria-label="stock hedging strategies permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Stock Hedging Strategies</h1>
+<h2 id="low-correlation-alternatives" style="position:relative;"><a href="#low-correlation-alternatives" aria-label="low correlation alternatives permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>low correlation alternatives</h2>
+<h2 id="volatility-index-fear-against-stock-market-crash" style="position:relative;"><a href="#volatility-index-fear-against-stock-market-crash" aria-label="volatility index fear against stock market crash permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Volatility Index (Fear) against stock market crash</h2>
+<h2 id="options" style="position:relative;"><a href="#options" aria-label="options permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>options</h2>
+<h1 id="todo" style="position:relative;"><a href="#todo" aria-label="todo permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>todo</h1>
+<ul>
+<li>review topics, references</li>
+</ul>
+<h1 id="quotes" style="position:relative;"><a href="#quotes" aria-label="quotes permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Quotes</h1>
+<p>“People remember the recent past better than the distant past, and they informally generalize from a few cases that are memorable rather than incorporate the full body of data into their analysis.”</p>
+<p>“Be fearful when others are greedy and be greedy when others are fearful”</p>
+<p>“If you’re analyzing an unstable business, then your analysis might be worthless”</p>
+<p>“In the short term the market is a voting machine, but in the long term it tracks value”</p>
+<p>A good rule of thumb is to limit the cost of your transaction to no more than 1 percent of the amount of stock you’re buying. For example if a trade costs $9.99 to execute you should buy at least $1,000 worth of stock.</p>
+<p>“The best predictor of a mutual fund’s future investment return is not the number of Morningstar stars it receives, but how low its expense ratio is.”</p>
+<p>“Trying to beat the market is a fool’s errand.”</p>
+<p>“We want the business to be one (a) that we understand; (b) with favorable long-term prospects; (c) operated by honest and competent people; (d) available at a very attractive price.”</p>
+<p>price is what you pay, value is what you get</p>
+<p>once you adopt a value-investment strategy, any other investment behavior starts to seem like gambling.</p>
+<p>the key to life is to figure out who to be the batboy for.</p>
+<p>“financial markets, far from accurately reflecting all the available knowledge, always provide a distorted view of reality. This is the principle of fallibility. The degree of distortion may vary from time to time. Sometimes, it’s quite insignificant, at other times, it is quite pronounced.</p>
+<p>Every bubble has 2 components: an underlying trend that prevails in reality and a misconception relating to that trend. When a positive feedback develops between the trend and the misconception, a boom-bust process is set in motion. The process is liable to be tested by negative feedback along the way, and if it is strong enough to survive these tests, both the trend and the misconception will be reinforced.</p>
+<p>Investing may not be neurosurgery, but it isn’t child’s play either.</p>
+<p>“To recall a piece of wisdom Warren Buffett frequently cites, if you have been in the poker game for thirty minutes and still don’t know who the patsy is, you can be pretty certain the patsy is you.”</p>
+<h1 id="references" style="position:relative;"><a href="#references" aria-label="references permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>References</h1>
+<ul>
+<li><a href="https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value">https://medium.com/@peter.simon419/value-investing-from-graham-to-buffett-and-beyond-by-greenwald-notes-d2c97d014ee5#:~:text=Value%20investors%20believe%20that%20financial,significantly%20from%20this%20intrinsic%20value</a>.</li>
+<li><a href="https://prasadcapital.com/2013/03/25/book-summary-value-investing-from-graham-to-buffett-and-beyond/">https://prasadcapital.com/2013/03/25/book-summary-value-investing-from-graham-to-buffett-and-beyond/</a></li>
+<li><a href="/20767c39bf85b36bda85c0c2542a16e7/global-value.pdf">Global Value</a></li>
+<li><a href="/fd585c1fdf7dc54136e30868d2f10a44/Invest-with-the-House.pdf">Invest with the House</a></li>
+<li><a href="https://www.portfolioeinstein.com/meb-faber-portfolios-backed-by-solid-research/">https://www.portfolioeinstein.com/meb-faber-portfolios-backed-by-solid-research/</a></li>
+<li><a href="https://milliondollarjourney.com/stock-hedging-strategies.htm">https://milliondollarjourney.com/stock-hedging-strategies.htm</a></li>
+<li><a href="https://www.getstoryshots.com/books/the-intelligent-investor-summary/#:~:text=margin%20of%20safety.-,Introduction,speculations%20(based%20on%20predictions)">https://www.getstoryshots.com/books/the-intelligent-investor-summary/#:~:text=margin%20of%20safety.-,Introduction,speculations%20(based%20on%20predictions)</a>.</li>
+<li><a href="https://milliondollarjourney.com/options-trading-buying-and-selling-calls-puts-for-hedging-profit.htm">https://milliondollarjourney.com/options-trading-buying-and-selling-calls-puts-for-hedging-profit.htm</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLI84Sf0aDgaxGozvfNAKLonKIoD-sDeDp">https://www.youtube.com/playlist?list=PLI84Sf0aDgaxGozvfNAKLonKIoD-sDeDp</a></li>
+<li><a href="https://diggingforvalue.com/book-summary/security-analysis/">https://diggingforvalue.com/book-summary/security-analysis/</a></li>
+<li><a href="https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/">https://www.buffettsbooks.com/how-to-invest-in-stocks/intermediate-course/</a></li>
+<li>[Thinking in systems](Thinking in Systems)</li>
+<li><a href="https://www.youtube.com/watch?v=WMdnaRQ4EOE&#x26;list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&#x26;ab_channel=TheSwedishInvestor">https://www.youtube.com/watch?v=WMdnaRQ4EOE&#x26;list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&#x26;ab_channel=TheSwedishInvestor</a></li>
+<li><a href="https://www.youtube.com/watch?v=npoyc_X5zO8&#x26;list=PLI84Sf0aDgazJz6aVmUAYwfmCkTDd_cqv&#x26;ab_channel=TheSwedishInvestor">https://www.youtube.com/watch?v=npoyc_X5zO8&#x26;list=PLI84Sf0aDgazJz6aVmUAYwfmCkTDd_cqv&#x26;ab_channel=TheSwedishInvestor</a></li>
+<li><a href="https://www.youtube.com/watch?v=WMdnaRQ4EOE&#x26;list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&#x26;ab_channel=TheSwedishInvestor">https://www.youtube.com/watch?v=WMdnaRQ4EOE&#x26;list=PLI84Sf0aDgayIYZFsvStDXGOwy2pLgYW3&#x26;ab_channel=TheSwedishInvestor</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLI84Sf0aDgaxGozvfNAKLonKIoD-sDeDp">https://www.youtube.com/playlist?list=PLI84Sf0aDgaxGozvfNAKLonKIoD-sDeDp</a></li>
+<li><a href="https://novelinvestor.com/notes/the-intelligent-investor-by-benjamin-graham/">https://novelinvestor.com/notes/the-intelligent-investor-by-benjamin-graham/</a></li>
+</ul></section><hr/><footer><div class="bio"><div data-gatsby-image-wrapper="" style="width:50px;height:50px" class="gatsby-image-wrapper bio-avatar"><div aria-hidden="true" data-placeholder-image="" style="opacity:1;transition:opacity 500ms linear;background-color:#685848;width:50px;height:50px;position:relative"></div><picture><source type="image/avif" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/d4bf4/tony-avatar.avif 50w,/static/b811602c8c8ce14b66aae6613c8968f4/ee81f/tony-avatar.avif 100w" sizes="50px"/><source type="image/webp" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/3faea/tony-avatar.webp 50w,/static/b811602c8c8ce14b66aae6613c8968f4/6a679/tony-avatar.webp 100w" sizes="50px"/><img data-gatsby-image-ssr="" layout="fixed" data-main-image="" style="opacity:0" sizes="50px" decoding="async" loading="lazy" data-src="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg 50w,/static/b811602c8c8ce14b66aae6613c8968f4/64618/tony-avatar.jpg 100w" alt="Profile picture"/></picture><noscript><picture><source type="image/avif" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/d4bf4/tony-avatar.avif 50w,/static/b811602c8c8ce14b66aae6613c8968f4/ee81f/tony-avatar.avif 100w" sizes="50px"/><source type="image/webp" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/3faea/tony-avatar.webp 50w,/static/b811602c8c8ce14b66aae6613c8968f4/6a679/tony-avatar.webp 100w" sizes="50px"/><img data-gatsby-image-ssr="" layout="fixed" data-main-image="" style="opacity:0" sizes="50px" decoding="async" loading="lazy" src="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg 50w,/static/b811602c8c8ce14b66aae6613c8968f4/64618/tony-avatar.jpg 100w" alt="Profile picture"/></picture></noscript><script type="module">const t="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;if(t){const t=document.querySelectorAll("img[data-main-image]");for(let e of t){e.dataset.src&&(e.setAttribute("src",e.dataset.src),e.removeAttribute("data-src")),e.dataset.srcset&&(e.setAttribute("srcset",e.dataset.srcset),e.removeAttribute("data-srcset"));const t=e.parentNode.querySelectorAll("source[data-srcset]");for(let e of t)e.setAttribute("srcset",e.dataset.srcset),e.removeAttribute("data-srcset");e.complete&&(e.style.opacity=1,e.parentNode.parentNode.querySelector("[data-placeholder-image]").style.opacity=0)}}</script></div><p>Written by <strong>Tony Vo</strong> <!-- -->father, husband, son and software developer<!-- --> <a href="https://twitter.com/ttrungvo">Twitter</a></p></div></footer></article><nav class="blog-post-nav"><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/the-great-depression-a-diary/">← <!-- -->The Great Depression A Diary by Benjamin Roth summary</a></li><li><a rel="next" href="/how-to-talk-so-kids-listen/">how to talk to kids will listen and listen so kids will talk By Adele Faber and Elaine Mazlish summary - wip<!-- --> →</a></li></ul></nav><div><div id="disqus_thread"></div></div></main><footer>© <!-- -->2025<!-- -->, Built with<!-- --> <a href="https://www.gatsbyjs.com">Gatsby</a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/value-investing-summary/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
+          <script
+            id="gatsby-chunk-mapping"
+          >
+            window.___chunkMapping="{\"app\":[\"/app-02f27bb33b7a634980a7.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-c5ce6f61d00d5bc2a364.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-85895703483e94bddc30.js\"],\"component---src-pages-tags-js\":[\"/component---src-pages-tags-js-5f4699c03df20c034ba6.js\"],\"component---src-pages-using-typescript-tsx\":[\"/component---src-pages-using-typescript-tsx-a71142f2de4e781bfbb8.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-e6b9723f7baba56e9afc.js\"],\"component---src-templates-tags-js\":[\"/component---src-templates-tags-js-396a8b4d37b1d972a6c6.js\"]}";
+          </script>
+        <script>window.___webpackCompilationHash="1bd95f07d917a5947bba";</script><script src="/webpack-runtime-5298344da22db0a7d8dc.js" async></script><script src="/framework-dd535bfdf9fc8b5d9656.js" async></script><script src="/app-02f27bb33b7a634980a7.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>

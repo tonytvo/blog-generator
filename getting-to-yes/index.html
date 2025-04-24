@@ -1,0 +1,601 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="generator" content="Gatsby 5.14.0"/><meta data-react-helmet="true" name="description" content="getting to yes summary"/><meta data-react-helmet="true" property="og:title" content="getting to yes summary"/><meta data-react-helmet="true" property="og:description" content="getting to yes summary"/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" name="twitter:card" content="summary"/><meta data-react-helmet="true" name="twitter:creator" content="ttrungvo"/><meta data-react-helmet="true" name="twitter:title" content="getting to yes summary"/><meta data-react-helmet="true" name="twitter:description" content="getting to yes summary"/><style data-href="/styles.8dfba4a7c3d44b256d62.css" data-identity="gatsby-global-css">@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/static/montserrat-latin-100-8d7d79679b70dbe27172b6460e7a7910.woff2) format("woff2"),url(/static/montserrat-latin-100-ec38980a9e0119a379e2a9b3dbb1901a.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/static/montserrat-latin-100italic-e279051046ba1286706adc886cf1c96b.woff2) format("woff2"),url(/static/montserrat-latin-100italic-3b325a3173c8207435cd1b76e19bf501.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/static/montserrat-latin-200-9d266fbbfa6cab7009bd56003b1eeb67.woff2) format("woff2"),url(/static/montserrat-latin-200-2d8ba08717110d27122e54c34b8a5798.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/static/montserrat-latin-200italic-6e5b3756583bb2263eb062eae992735e.woff2) format("woff2"),url(/static/montserrat-latin-200italic-a0d6f343e4b536c582926255367a57da.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/static/montserrat-latin-300-00b3e893aab5a8fd632d6342eb72551a.woff2) format("woff2"),url(/static/montserrat-latin-300-ea303695ceab35f17e7d062f30e0173b.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/static/montserrat-latin-300italic-56f34ea368f6aedf89583d444bbcb227.woff2) format("woff2"),url(/static/montserrat-latin-300italic-54b0bf2c8c4c12ffafd803be2466a790.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/static/montserrat-latin-400-b71748ae4f80ec8c014def4c5fa8688b.woff2) format("woff2"),url(/static/montserrat-latin-400-0659a9f4e90db5cf51b50d005bff1e41.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/static/montserrat-latin-400italic-6eed6b4cbb809c6efc7aa7ddad6dbe3e.woff2) format("woff2"),url(/static/montserrat-latin-400italic-7583622cfde30ae49086d18447ab28e7.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/static/montserrat-latin-500-091b209546e16313fd4f4fc36090c757.woff2) format("woff2"),url(/static/montserrat-latin-500-edd311588712a96bbf435fad264fff62.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/static/montserrat-latin-500italic-c90ced68b46050061d1a41842d6dfb43.woff2) format("woff2"),url(/static/montserrat-latin-500italic-5146cbfe02b1deea5dffea27a5f2f998.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/static/montserrat-latin-600-0480d2f8a71f38db8633b84d8722e0c2.woff2) format("woff2"),url(/static/montserrat-latin-600-b77863a375260a05dd13f86a1cee598f.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/static/montserrat-latin-600italic-cf46ffb11f3a60d7df0567f8851a1d00.woff2) format("woff2"),url(/static/montserrat-latin-600italic-c4fcfeeb057724724097167e57bd7801.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/static/montserrat-latin-700-7dbcc8a5ea2289d83f657c25b4be6193.woff2) format("woff2"),url(/static/montserrat-latin-700-99271a835e1cae8c76ef8bba99a8cc4e.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/static/montserrat-latin-700italic-c41ad6bdb4bd504a843d546d0a47958d.woff2) format("woff2"),url(/static/montserrat-latin-700italic-6779372f04095051c62ed36bc1dcc142.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/static/montserrat-latin-800-db9a3e0ba7eaea32e5f55328ace6cf23.woff2) format("woff2"),url(/static/montserrat-latin-800-4e3c615967a2360f5db87d2f0fd2456f.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/static/montserrat-latin-800italic-bf45bfa14805969eda318973947bc42b.woff2) format("woff2"),url(/static/montserrat-latin-800italic-fe82abb0bcede51bf724254878e0c374.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/static/montserrat-latin-900-e66c7edc609e24bacbb705175669d814.woff2) format("woff2"),url(/static/montserrat-latin-900-8211f418baeb8ec880b80ba3c682f957.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/static/montserrat-latin-900italic-4454c775e48152c1a72510ceed3603e2.woff2) format("woff2"),url(/static/montserrat-latin-900italic-efcaa0f6a82ee0640b83a0916e6e8d68.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/static/merriweather-latin-300-fc117160c69a8ea0851b26dd14748ee4.woff2) format("woff2"),url(/static/merriweather-latin-300-58b18067ebbd21fda77b67e73c241d3b.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/static/merriweather-latin-300italic-fe29961474f8dbf77c0aa7b9a629e4bc.woff2) format("woff2"),url(/static/merriweather-latin-300italic-23c3f1f88683618a4fb8d265d33d383a.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/static/merriweather-latin-400-d9479e8023bef9cbd9bf8d6eabd6bf36.woff2) format("woff2"),url(/static/merriweather-latin-400-040426f99ff6e00b86506452e0d1f10b.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/static/merriweather-latin-400italic-2de7bfeaf08fb03d4315d49947f062f7.woff2) format("woff2"),url(/static/merriweather-latin-400italic-79db67aca65f5285964ab332bd65f451.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/static/merriweather-latin-700-4b08e01d805fa35d7bf777f1b24314ae.woff2) format("woff2"),url(/static/merriweather-latin-700-22fb8afba4ab1f093b6ef9e28a9b6e92.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/static/merriweather-latin-700italic-cd92541b177652fffb6e3b952f1c33f1.woff2) format("woff2"),url(/static/merriweather-latin-700italic-f87f3d87cea0dd0979bfc8ac9ea90243.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/static/merriweather-latin-900-f813fc6a4bee46eda5224ac7ebf1b7be.woff2) format("woff2"),url(/static/merriweather-latin-900-5d4e42cb44410674acd99153d57df032.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/static/merriweather-latin-900italic-b7901d85486871c1779c0e93ddd85656.woff2) format("woff2"),url(/static/merriweather-latin-900italic-9647f9fdab98756989a8a5550eb205c3.woff) format("woff")}
+
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{-webkit-text-size-adjust:100%;line-height:1.15}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden]{display:none}:root{--maxWidth-none:"none";--maxWidth-xs:20rem;--maxWidth-sm:24rem;--maxWidth-md:28rem;--maxWidth-lg:32rem;--maxWidth-xl:36rem;--maxWidth-2xl:42rem;--maxWidth-3xl:48rem;--maxWidth-4xl:56rem;--maxWidth-full:"100%";--maxWidth-wrapper:var(--maxWidth-2xl);--spacing-px:"1px";--spacing-0:0;--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--fontFamily-sans:Montserrat,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--fontFamily-serif:"Merriweather","Georgia",Cambria,"Times New Roman",Times,serif;--font-body:var(--fontFamily-serif);--font-heading:var(--fontFamily-sans);--fontWeight-normal:400;--fontWeight-medium:500;--fontWeight-semibold:600;--fontWeight-bold:700;--fontWeight-extrabold:800;--fontWeight-black:900;--fontSize-root:16px;--lineHeight-none:1;--lineHeight-tight:1.1;--lineHeight-normal:1.5;--lineHeight-relaxed:1.625;--fontSize-0:0.833rem;--fontSize-1:1rem;--fontSize-2:1.2rem;--fontSize-3:1.44rem;--fontSize-4:1.728rem;--fontSize-5:2.074rem;--fontSize-6:2.488rem;--fontSize-7:2.986rem;--color-primary:#005b99;--color-text:#2e353f;--color-text-light:#4f5969;--color-heading:#1a202c;--color-heading-black:#000;--color-accent:#d1dce5}*,:after,:before{box-sizing:border-box}html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:var(--fontSize-root);line-height:var(--lineHeight-normal)}body{color:var(--color-text);font-family:var(--font-body);font-size:var(--fontSize-1)}footer{padding:var(--spacing-6) var(--spacing-0)}hr{background:var(--color-accent);border:0;height:1px}h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);letter-spacing:-.025em;line-height:var(--lineHeight-tight);margin-bottom:var(--spacing-6);margin-top:var(--spacing-12)}h2,h3,h4,h5,h6{color:var(--color-heading);font-weight:var(--fontWeight-bold)}h1{color:var(--color-heading-black);font-size:var(--fontSize-6);font-weight:var(--fontWeight-black)}h2{font-size:var(--fontSize-5)}h3{font-size:var(--fontSize-4)}h4{font-size:var(--fontSize-3)}h5{font-size:var(--fontSize-2)}h6{font-size:var(--fontSize-1)}h1>a,h2>a,h3>a,h4>a,h5>a,h6>a{color:inherit;text-decoration:none}p{--baseline-multiplier:0.179;--x-height-multiplier:0.35;line-height:var(--lineHeight-relaxed);margin:var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0)}ol,p,ul{padding:var(--spacing-0)}ol,ul{list-style-image:none;list-style-position:outside;margin-bottom:var(--spacing-8);margin-left:var(--spacing-0);margin-right:var(--spacing-0)}ol li,ul li{padding-left:var(--spacing-0)}li>p,ol li,ul li{margin-bottom:calc(var(--spacing-8)/2)}li :last-child{margin-bottom:var(--spacing-0)}li>ul{margin-left:var(--spacing-8);margin-top:calc(var(--spacing-8)/2)}blockquote{border-left:var(--spacing-1) solid var(--color-primary);color:var(--color-text-light);font-size:var(--fontSize-2);font-style:italic;margin-bottom:var(--spacing-8);margin-left:calc(var(--spacing-6)*-1);margin-right:var(--spacing-8);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6)}blockquote>:last-child{margin-bottom:var(--spacing-0)}blockquote>ol,blockquote>ul{list-style-position:inside}table{border-collapse:collapse;border-spacing:.25rem;margin-bottom:var(--spacing-8);width:100%}table thead tr th{border-bottom:1px solid var(--color-accent)}a{color:var(--color-primary)}a:focus,a:hover{text-decoration:none}.global-wrapper{margin:var(--spacing-0) auto;max-width:var(--maxWidth-wrapper);padding:var(--spacing-10) var(--spacing-5)}.global-wrapper[data-is-root-path=true] .bio{margin-bottom:var(--spacing-20)}.global-header{margin-bottom:var(--spacing-12)}.main-heading{font-size:var(--fontSize-7);margin:0}.post-list-item{margin-bottom:var(--spacing-8);margin-top:var(--spacing-8)}.post-list-item p{margin-bottom:var(--spacing-0)}.post-list-item h2{color:var(--color-primary);font-size:var(--fontSize-4);margin-bottom:var(--spacing-2);margin-top:var(--spacing-0)}.post-list-item header{margin-bottom:var(--spacing-4)}.header-link-home{font-family:var(--font-heading);font-size:var(--fontSize-2);font-weight:var(--fontWeight-bold);text-decoration:none}.bio{display:flex;margin-bottom:var(--spacing-16)}.bio p,.bio-avatar{margin-bottom:var(--spacing-0)}.bio-avatar{border-radius:100%;margin-right:var(--spacing-4);min-width:50px}.blog-post header h1{margin:var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0)}.blog-post header p{font-family:var(--font-heading);font-size:var(--fontSize-2)}.blog-post-nav ul{margin:var(--spacing-0)}.gatsby-highlight{margin-bottom:var(--spacing-8)}@media (max-width:42rem){blockquote{margin-left:var(--spacing-0);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4)}ol,ul{list-style-position:inside}}code[class*=language-],pre[class*=language-]{word-wrap:normal;background:none;color:#000;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;-webkit-hyphens:none;hyphens:none;line-height:1.5;tab-size:4;text-align:left;text-shadow:0 1px #fff;white-space:pre;word-break:normal;word-spacing:normal}code[class*=language-] ::selection,code[class*=language-]::selection,pre[class*=language-] ::selection,pre[class*=language-]::selection{background:#b3d4fc;text-shadow:none}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{margin:.5em 0;overflow:auto;padding:1em}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{border-radius:.3em;padding:.1em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{background:hsla(0,0%,100%,.5);color:#9a6e3a}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}</style><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){const t=e.target;if(void 0===t.dataset.mainImage)return;if(void 0===t.dataset.gatsbyImageSsr)return;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><style type="text/css">
+    .anchor.before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: translateX(-100%);
+      padding-right: 4px;
+    }
+    .anchor.after {
+      display: inline-block;
+      padding-left: 4px;
+    }
+    h1 .anchor svg,
+    h2 .anchor svg,
+    h3 .anchor svg,
+    h4 .anchor svg,
+    h5 .anchor svg,
+    h6 .anchor svg {
+      visibility: hidden;
+    }
+    h1:hover .anchor svg,
+    h2:hover .anchor svg,
+    h3:hover .anchor svg,
+    h4:hover .anchor svg,
+    h5:hover .anchor svg,
+    h6:hover .anchor svg,
+    h1 .anchor:focus svg,
+    h2 .anchor:focus svg,
+    h3 .anchor:focus svg,
+    h4 .anchor:focus svg,
+    h5 .anchor:focus svg,
+    h6 .anchor:focus svg {
+      visibility: visible;
+    }
+  </style><script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      var hash = window.decodeURI(location.hash.replace('#', ''))
+      if (hash !== '') {
+        var element = document.getElementById(hash)
+        if (element) {
+          var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+          var clientTop = document.documentElement.clientTop || document.body.clientTop || 0
+          var offset = element.getBoundingClientRect().top + scrollTop - clientTop
+          // Wait for the browser to finish rendering before scrolling.
+          setTimeout((function() {
+            window.scrollTo(0, offset - 0)
+          }), 0)
+        }
+      }
+    })
+  </script><link rel="alternate" type="application/rss+xml" title="Tony Vo Blog RSS Feed" href="/rss.xml"/><link rel="icon" href="/favicon-32x32.png?v=b811602c8c8ce14b66aae6613c8968f4" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=b811602c8c8ce14b66aae6613c8968f4"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=b811602c8c8ce14b66aae6613c8968f4"/><title data-react-helmet="true">getting to yes summary | Conversations on agile technical practices and investments</title></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="global-wrapper" data-is-root-path="false"><header class="global-header"><a class="header-link-home" href="/">Conversations on agile technical practices and investments</a></header><main><article class="blog-post" itemscope="" itemType="http://schema.org/Article"><header><h1 itemProp="headline">getting to yes summary</h1><p>December 23, 2021</p></header><section itemProp="articleBody"><h1 id="take-aways" style="position:relative;"><a href="#take-aways" aria-label="take aways permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>take-aways</h1>
+<p>Negotiation methods should be judged by three criteria</p>
+<ul>
+<li><strong>It should produce a wise agreement if an agreement is possible</strong></li>
+<li><strong>it should be efficient</strong></li>
+<li><strong>it should improve or at least not damage the relationship between the parties</strong></li>
+</ul>
+<h1 id="common-obstacles-to-the-negotiation" style="position:relative;"><a href="#common-obstacles-to-the-negotiation" aria-label="common obstacles to the negotiation permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Common obstacles to the negotiation</h1>
+<h2 id="when-another-party-is-more-powerful" style="position:relative;"><a href="#when-another-party-is-more-powerful" aria-label="when another party is more powerful permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>when another party is more powerful</h2>
+<ul>
+<li>avoid establishing a “bottom line” (worst acceptable outcome) in an attempt to protect themselves against a poor agreement since it would limit/prevent creativity in generating options</li>
+<li>concentrate on assessing BATNA (best alternative to a negotiated agreement)</li>
+<li>power in a negotiation comes from the ability to walk away from talks.</li>
+<li>The weaker party will better understand the negotiation context if they also try to estimate the other side’s BATNA.</li>
+</ul>
+<h2 id="when-the-other-party-doesnt-use-principled-negotiation" style="position:relative;"><a href="#when-the-other-party-doesnt-use-principled-negotiation" aria-label="when the other party doesnt use principled negotiation permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>When the other party doesn’t use principled negotiation</h2>
+<ul>
+<li>when to refuse to budge from their positions, asking for reasons behind that position</li>
+<li>when attacking the other side’s ideas, should take it as constructive criticism and invite further feedback and advice. Personal attacks should be recast as attacks on the problem. Generally, the principled party should use questions and strategic silences to draw the other party out.</li>
+<li>Brought in a third party to interview each side separately to determine each side’s interests individually. Then the third party assembles the list of both sides’ interests and asks each side for their comments and criticism of the list. Then the third party works with both sides to hash out the proposals iteratively.</li>
+</ul>
+<h2 id="when-the-other-party-uses-dirty-tricks" style="position:relative;"><a href="#when-the-other-party-uses-dirty-tricks" aria-label="when the other party uses dirty tricks permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>When the other party uses dirty tricks</h2>
+<ul>
+<li>such as good guy/bad guy routines, uncomfortable seating, and leaks to the media. This could be responded to by explicitly raising issues in negotiations and engaging in principled negotiation to establish procedural ground rules.</li>
+<li>Parties may deliberate deception about the phoney facts, their authority, and their intentions. Principled negotiators may seek verification other side’s claims.</li>
+<li>Another common tactic is psychological warfare, such as using stressful environments, subtle personal attacks. Instead, the principled party could identify the problematic element and suggest a fair change or simply recognize what they are.</li>
+<li>Positional pressure tactics attempt to structure negotiations so that only one side can make concessions. The principled party may decline to recognize the commitment or the finality of the offer, instead of treating them as proposals or expressed interests, insist that any recommendations be evaluated on their merits, and don’t hesitate to point out dirty tricks.</li>
+</ul>
+<h1 id="four-principles-for-effective-negotiations" style="position:relative;"><a href="#four-principles-for-effective-negotiations" aria-label="four principles for effective negotiations permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Four principles for effective negotiations</h1>
+<h2 id="separating-people-from-the-problem" style="position:relative;"><a href="#separating-people-from-the-problem" aria-label="separating people from the problem permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>separating people from the problem</h2>
+<p>to work through people problems, think in terms of perception, emotion, and communication</p>
+<h3 id="perception" style="position:relative;"><a href="#perception" aria-label="perception permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Perception</h3>
+<ul>
+<li>most conflicts are based on differing interpretations of the facts. Stick to the facts</li>
+<li>both sides must understand the other viewpoints.</li>
+<li>Should not assume that their worst fears will become the other party’s actions. Nor should one side blame the other for their problems.</li>
+<li>Give them a stake in the outcome by letting them participate in the process</li>
+<li>make your proposal consistent with their values, and let them save face.</li>
+</ul>
+<h3 id="emotion" style="position:relative;"><a href="#emotion" aria-label="emotion permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Emotion</h3>
+<ul>
+<li>recognize and understand the feelings of all parties and the source of the feelings.</li>
+<li>Don’t react to an emotional outburst.</li>
+<li>Use symbolic gestures (gift-giving, etc…) to show empathy,</li>
+<li>make emotions explicit and acknowledge them as legitimate.</li>
+<li>Then, allow the other side to let off steam.</li>
+</ul>
+<h3 id="communication" style="position:relative;"><a href="#communication" aria-label="communication permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Communication</h3>
+<ul>
+<li>employ active listening, such as giving speakers their full attention and acknowledging what is said.</li>
+<li>Occasionally, summarizing the speaker’s point to confirm their understanding.</li>
+<li>It is important to remember that understanding the other’s case does not mean agreeing with it.</li>
+<li>Speakers should focus on communicating the intent and reasonings of themselves.</li>
+<li>Avoid blaming and attacking the other.</li>
+<li>Speak to be understood. You’re not trying to persuade some third party.</li>
+<li>speak about yourself, not about them. However, it is more persuasive to describe a problem in terms of its impact on you and in words of what they did and why.</li>
+</ul>
+<p>Generally, the best way to deal with people’s problems is to prevent them from arising. People’s problems are less likely to come up if parties have a good relationship and think of each other as partners in negotiation rather than adversaries. Asks for help give the other party the comfortable feeling of knowing that someone owed them a favour.</p>
+<h2 id="focusing-on-interests-rather-than-positions" style="position:relative;"><a href="#focusing-on-interests-rather-than-positions" aria-label="focusing on interests rather than positions permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Focusing on interests rather than positions</h2>
+<ul>
+<li>when a problem is defined in terms of the parties’ underlying interests, it is often possible to find a solution that satisfies both parties’ interests.</li>
+<li>Be hard on issues but soft on people.</li>
+<li>Your positions are something you have decided upon. Your interests are what caused you to choose</li>
+<li>how to identify interests
+<ul>
+<li>ask “why?” put yourselves in their shoes and try to figure out how they arrived at their positions</li>
+<li>ask “why not?” what interests of theirs stand in the way of your decision? Why do they not want what you want?</li>
+<li>most powerful interests are basic human needs
+<ul>
+<li>Security</li>
+<li>Economic well-being</li>
+<li>Sense of belonging</li>
+<li>Recognition</li>
+<li>Control over one’s life.</li>
+</ul>
+</li>
+<li>Identify shared interests
+<ul>
+<li>shared interests are latent in every negotiation</li>
+<li>stressing your shared interests can make the negotiation smoother and more amicable.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="generating-a-variety-of-options-before-settings-on-an-agreement" style="position:relative;"><a href="#generating-a-variety-of-options-before-settings-on-an-agreement" aria-label="generating a variety of options before settings on an agreement permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>generating a variety of options before settings on an agreement</h2>
+<ul>
+<li>find win-win options</li>
+<li>4 significant obstacles inhibit the inventing of an abundance of possibilities
+<ul>
+<li>premature judgement</li>
+<li>searching for the single answer</li>
+<li>assumption of the fixed pie</li>
+<li>thinking that ” solving their problem is their problem.”</li>
+</ul>
+</li>
+<li>create first, decide later. Separating the act of inventing options from the act of judging them.</li>
+<li>Look for items of low cost to you and high benefits to them and vice versa.</li>
+</ul>
+<h2 id="insisting-that-the-agreement-be-based-on-objective-criteria" style="position:relative;"><a href="#insisting-that-the-agreement-be-based-on-objective-criteria" aria-label="insisting that the agreement be based on objective criteria permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Insisting that the agreement be based on objective criteria</h2>
+<ul>
+<li>agree first on principles. Before even considering possible terms, you may want to decide on the standard or standards to apply.</li>
+<li>Never yield to pressure, only to the principal. When pressured, invite them to state their reasoning, suggest objective criteria that you think apply, and refuse to budget except on this basis.</li>
+<li>Using the other parties’ reasoning to support your position can be a powerful way to negotiate.</li>
+<li>Willing to reconsider their positions when there is reason to.</li>
+<li>frame each issue as a search for objective criteria</li>
+</ul>
+<h1 id="be-a-mirror" style="position:relative;"><a href="#be-a-mirror" aria-label="be a mirror permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Be a Mirror</h1>
+<ul>
+<li>Use an apology and a first name to seed warmth in interactions (ex: “I’m sorry, Robert, how do I even know he’s alive?”</li>
+<li>People want to be understood and accepted. Listening is the cheapest, and most effective way to get there.</li>
+<li>You should engage in negotiation with a mindset of discovery - with hypotheses you’re looking to disprove. The goal is to extract as much information as possible. (Beginner’s mind)</li>
+<li>Slow things down as much as possible.</li>
+<li>Use the Late-Night, FM DJ Voice: deep, soft, slow, and reassuring, and the positive/playful voice–the voice of an easygoing, good-natured person.</li>
+<li>Our body language affects how we are perceived and how our conversations will go. Exude enthusiasm, comfort, warmth and acceptance. Put a smile on your face.</li>
+<li>Inflecting upward = inviting a response/unsure.</li>
+<li>Inflecting downward = self-assured, confident.</li>
+<li>create relax environments
+<ul>
+<li>like don’t start and sit across/straight from the counter part, sit 45 degree angle from the counter part</li>
+</ul>
+</li>
+<li>To mirror, just repeat the last three words (or the most important 1-3 words) of what someone has just said.</li>
+<li>How to Disagree Without Being Disagreeable
+<ul>
+<li>Use the late-night FM DJ voice.</li>
+<li>Start with I’m sorry …</li>
+<li>Mirror.</li>
+<li>Silence. At least four seconds, to let the mirror work its magic on your counterpart.</li>
+<li>Repeat.</li>
+<li>The intention behind mirroring should be “Please, help me understand.”</li>
+</ul>
+</li>
+</ul>
+<h1 id="dont-feel-their-pain-label-it" style="position:relative;"><a href="#dont-feel-their-pain-label-it" aria-label="dont feel their pain label it permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Don’t Feel Their Pain, Label It</h1>
+<ul>
+<li>
+<p>Good negotiators identify and influence emotions. They can precisely label those of others and their own.</p>
+</li>
+<li>
+<p>Empathy is paying attention to another human being, asking what they are feeling, and making a commitment to understanding their world.</p>
+</li>
+<li>
+<p>Tactical empathy is understanding the feelings and mindset of another at the moment and also hearing what is behind those feelings so you increase your influence in all the moments that follow. It’s bringing our attention to both the emotional obstacles and the potential pathways to getting an agreement done.</p>
+</li>
+<li>
+<p>Labeling is a way of validating someone’s emotion by acknowledging it. Give someone’s emotion a name and you show you identify with how that person feels.</p>
+</li>
+<li>
+<p>Once you’ve spotted an emotion you want to highlight, the next step is to label it aloud. Labels can be phrased as statements or questions. The only difference is whether you end the sentence with a downward or upward inflection. But no matter how they end, labels almost always begin with roughly the same words:</p>
+<ul>
+<li>It seems like …</li>
+<li>It sounds like …</li>
+<li>It looks like …</li>
+<li>Notice we said “It sounds like …" and not “I’m hearing that …" That’s because the word “I” gets people’s guard up.</li>
+</ul>
+</li>
+<li>
+<p>The last rule of labelling is silence. Once you’ve thrown out a label, be quiet and listen.</p>
+</li>
+<li>
+<p>Neutralize the Negative, Reinforce the Positive</p>
+</li>
+<li>
+<p>Labeling is a tactic, not a strategy. How you use labelling will go a long way in determining your success.</p>
+</li>
+<li>
+<p>That’s not to say that negative feelings should be ignored. That can be just as damaging. Instead, they should be teased out. Labelling is a helpful tactic in de-escalating angry confrontations because it makes the person acknowledge their feelings rather than continuing to act out.</p>
+</li>
+<li>
+<p>Try this the next time you have to apologize for a bone-headed mistake. Go right at it. The fastest and most efficient means of establishing a quick working relationship is to acknowledge the negative and diffuse it.</p>
+</li>
+<li>
+<p>I’ve found the phrase “Look, I’m an asshole” to be an amazingly effective way to make problems go away.</p>
+</li>
+<li>
+<p>Do An Accusation Audit</p>
+<ul>
+<li>In court, defence lawyers do this properly by mentioning everything their client is accused of, and all the weaknesses of their case, in the opening statement. They call this technique “taking the sting out.”</li>
+<li>The first step in doing so is listing every terrible thing your counterpart could say about you, in what I call an accusation audit.</li>
+<li>Performing an accusation audit in advance prepares you to head off negative dynamics before they take root. And because these accusations often sound exaggerated when said aloud, speaking them will encourage the other person to claim that quite the opposite is true.</li>
+</ul>
+</li>
+</ul>
+<h1 id="beware-yesmaster-no" style="position:relative;"><a href="#beware-yesmaster-no" aria-label="beware yesmaster no permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Beware “Yes”–Master “No”</h1>
+<ul>
+<li>
+<p>We have it backward. For good negotiators, “No” is pure gold. That negative provides a great opportunity for you and the other party to clarify what you really want by eliminating what you don’t want. “No” is a safe choice that maintains the status quo; it provides a temporary oasis of control.</p>
+</li>
+<li>
+<p>“No” Starts the Negotiation</p>
+</li>
+<li>
+<p>“No” is the start of the negotiation, not the end of it. We’ve been conditioned to fear the word “No.” But it is a statement of perception far more often than of fact. It seldom means, “I have considered all the facts and made a rational choice.” Instead, “No” is often a decision, frequently temporary, to maintain the status quo. Change is scary, and “No” provides a little protection from that scariness.</p>
+</li>
+<li>
+<p>This means you have to train yourself to hear “No” as something other than rejection, and respond accordingly. When someone tells you “No,” you need to rethink the word in one of its alternative—and much more real—meanings:</p>
+<ul>
+<li>I am not yet ready to agree;</li>
+<li>You are making me feel uncomfortable;</li>
+<li>I do not understand;</li>
+<li>I don’t think I can afford it;</li>
+<li>I want something else;</li>
+<li>I need more information; or</li>
+<li>I want to talk it over with someone else.</li>
+<li>Then, after pausing, ask solution-based questions or simply label their effect:</li>
+<li>“What about this doesn’t work for you?”</li>
+<li>“What would you need to make it work?”</li>
+<li>“It seems like there’s something here that bothers you.”</li>
+</ul>
+</li>
+<li>
+<p>People have a need to say, “No.” So don’t just hope to hear it at some point; get them to say it early.</p>
+</li>
+<li>
+<p>Key Lessons</p>
+<ul>
+<li>As you try to put the chapter’s methods to use, I encourage you to think of them as the anti–“niceness ruse.” Not in the sense that they are unkind, but in the sense that they are authentic. Triggering “No” peels away the plastic falsehood of “Yes” and gets you to what’s really at stake. Along the way, keep in mind these powerful lessons:</li>
+<li>Break the habit of attempting to get people to say “yes.” Being pushed for “yes” makes people defensive.</li>
+<li>“No” is not a failure. We have learned that “No” is the anti-“Yes” and therefore a word to be avoided at all costs. But it really often just means “Wait” or “I’m not comfortable with that.” Learn how to hear it calmly. It is not the end of the negotiation, but the beginning.</li>
+<li>“Yes” is the final goal of a negotiation, but don’t aim for it at the start. Asking someone for “Yes” too quickly in a conversation—“Do you like to drink water, Mr. Smith?”—gets his guard up and paints you as an untrustworthy salesman.</li>
+<li>Saying “No” makes the speaker feel safe, secure, and in control, so trigger it. By saying what they don’t want, your counterpart defines their space and gains the confidence and comfort to listen to you. That’s why “Is now a bad time to talk?” is always better than “Do you have a few minutes to talk?”</li>
+<li>Sometimes the only way to get your counterpart to listen and engage with you is by forcing them into a “No.” That means intentionally mislabeling one of their emotions or desires or asking a ridiculous question–like, “It seems like you want this project to fail”–that can only be answered negatively.</li>
+<li>Negotiate in their world. Persuasion is not about how bright or smooth or forceful you are. It’s about the other party convincing themselves that the solution you want is their own idea. So don’t beat them with logic or brute force. Ask them questions that open paths to your goals. It’s not about you.</li>
+<li>If a potential business partner is ignoring you, contact them with a clear and concise “No”-oriented question that suggests that you are ready to walk away. “Have you given up on this project?” works wonders.</li>
+</ul>
+</li>
+</ul>
+<h1 id="trigger-the-two-words-that-immediately-transform-any-negotiation" style="position:relative;"><a href="#trigger-the-two-words-that-immediately-transform-any-negotiation" aria-label="trigger the two words that immediately transform any negotiation permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Trigger the Two Words That Immediately Transform Any Negotiation</h1>
+<ul>
+<li>
+<p>The sweetest two words in any negotiation are “that’s right.”</p>
+</li>
+<li>
+<p>Key Lessons</p>
+<ul>
+<li>The moment you’ve convinced someone that you truly understand her dreams and feelings (the whole world that she inhabits), mental and behavioural change becomes possible, and the foundation for a breakthrough has been laid.</li>
+<li>Use these lessons to lay that foundation:</li>
+</ul>
+</li>
+</ul>
+<p>Creating unconditional positive regard opens the door to changing thoughts and behaviours. Humans have an innate urge toward socially constructive behaviour. The more a person feels understood, and positively affirmed in that understanding, the more likely that the urge for constructive behaviour will take hold.</p>
+<ul>
+<li>“That’s right” is better than “yes.” Strive for it. Reaching “that’s right” in a negotiation creates breakthroughs.</li>
+<li>Use a summary to trigger a that’s right. The building blocks of a good summary are a label combined with paraphrasing. Identify, rearticulate, and emotionally affirm “the world according to …"</li>
+</ul>
+<h1 id="bend-their-reality" style="position:relative;"><a href="#bend-their-reality" aria-label="bend their reality permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Bend Their Reality</h1>
+<ul>
+<li>
+<p>Don’t Compromise</p>
+<ul>
+<li>Do not compromise. We compromise not because it’s right, but because it’s easy and saves face.</li>
+<li>Most people in a negotiation are driven by fear or by the desire to avoid pain. Too few are driven by their actual goals.</li>
+</ul>
+</li>
+<li>
+<p><strong>Deadlines: Make Time Your Ally</strong></p>
+<ul>
+<li>Whether your deadline is real and absolute or merely a line in the sand, it can trick you into believing that doing a deal now is more important than getting a good deal.</li>
+<li>What good negotiators do is force themselves to resist this urge and take advantage of it in others. It’s not so easy. Ask yourself: What is it about a deadline that causes pressure and anxiety? The answer is consequences; the perception of the loss we’ll incur in the future—“The deal is off!” our mind screams at us in some imaginary future scenario—should no resolution be achieved by a certain point in time.</li>
+<li>“No deal is better than a bad deal.”</li>
+<li>Increasing specificity on threats in any type of negotiation indicates getting closer to real consequences at a real specified time.</li>
+</ul>
+</li>
+<li>
+<p><strong>The F-Word: Why It’s So Powerful, When to Use It, and How</strong></p>
+<ul>
+<li>The most powerful word in negotiations is “Fair.” As human beings, we’re mightily swayed by how much we feel we have been respected. People comply with agreements if they feel they’ve been treated fairly and lash out if they don’t.</li>
+<li>In the Ultimatum Game, years of experience have shown me that most accepters will invariably reject any offer that is less than half of the proposer’s money. Once you get to a quarter of the proposer’s money you can forget it and the accepters are insulted.</li>
+<li>In fact, of the three ways that people drop this F-bomb, only one is positive.</li>
+<li>The most common use is a judo-like defensive move that destabilizes the other side. This manipulation usually takes the form of something like, “We just want what’s fair.”</li>
+<li>Think back to the last time someone made this implicit accusation of unfairness to you, and I bet you’ll have to admit that it immediately triggered feelings of defensiveness and discomfort. These feelings are often subconscious and often lead to an irrational concession.</li>
+<li>If you’re on the business end of this accusation, you need to realize that the other side might not be trying to pick your pocket; like my friend, they might just be overwhelmed by circumstance.</li>
+<li>The best response, either way, is to take a deep breath and restrain your desire to concede. Then say, “Okay, I apologize. Let’s stop everything and go back to where I started treating you unfairly and we’ll fix it.”</li>
+<li>The second use of the F-bomb is more nefarious. In this one, your counterpart will basically accuse you of being dense or dishonest by saying, “We’ve given you a fair offer.” It’s a terrible little jab meant to distract your attention and manipulate you into giving in.</li>
+<li>If you find yourself in this situation, the best reaction is to simply mirror the “F” that has just been lobbed at you. “Fair?” you’d respond, pausing to let the word’s power do to them as it was intended to do to you. Follow that with a label: “It seems like you’re ready to provide the evidence that supports that,” which alludes to opening their books or otherwise handing over information that will either contradict their claim to fairness or give you more data to work with than you had previously. Right away, you declaw the attack.</li>
+<li>The last use of the F-word is my favourite because it’s positive and constructive. It sets the stage for honest and empathetic negotiation.</li>
+<li>Here’s how I use it: Early on in a negotiation, I say, “I want you to feel like you are being treated fairly at all times. So please stop me at any time if you feel I’m being unfair, and we’ll address it.”</li>
+<li>It’s simple and clear and sets me up as an honest dealer.</li>
+</ul>
+</li>
+<li>
+<p>By far the best theory for describing the principles of our irrational decisions is something called Prospect Theory.</p>
+<ul>
+<li>The theory argues that people are drawn to sure things over probabilities, even when the probability is a better choice.</li>
+<li>That’s called the Certainty Effect. And people will take greater risks to avoid losses than to achieve gains. That’s called Loss Aversion.</li>
+<li>The chance for loss incites more risk than the possibility of an equal gain.</li>
+<li>But first, let me leave you with a crucial lesson about loss aversion: In a tough negotiation, it’s not enough to show the other party that you can deliver the thing they want.</li>
+<li>To get real leverage, you have to persuade them that they have something concrete to lose if the deal falls through.</li>
+</ul>
+</li>
+<li>
+<p><strong>1. Anchor Their Emotions</strong></p>
+<ul>
+<li>To bend your counterpart’s reality, you have to start with the basics of empathy. So start out with an accusation audit acknowledging all of their fears. By anchoring their emotions in preparation for a loss, you inflame the other side’s loss aversion so that they’ll jump at the chance to avoid it.</li>
+</ul>
+</li>
+<li>
+<p><strong>2. Let the Other Guy Go First…Most of the Time</strong></p>
+<ul>
+<li>
+<p>Now, it’s clear that the benefits of anchoring emotions are great when it comes to bending your counterpart’s reality. But going first is not necessarily the best thing when it comes to negotiating the price.</p>
+</li>
+<li>
+<p>That’s why I suggest you let the other side anchor monetary negotiations.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>The real issue is that neither side has perfect information going to the table. This often means you don’t know enough to open up with confidence. That’s especially true anytime you don’t know the market value of what you are buying or selling, like with Jerry or Chandler.</p>
+<ul>
+<li>
+<p>By letting them anchor you also might get lucky: I’ve experienced many negotiations when the other party’s first offer was higher than the closing figure I had in mind.</p>
+</li>
+<li>
+<p>That said, you’ve got to be careful when you let the other guy anchor. You have to prepare yourself psychically to withstand the first offer. If the other guy’s a pro, a shark, he’s going to go for an extreme anchor in order to bend your reality.</p>
+</li>
+<li>
+<p>That’s not to say, “Never open.” Rules like that are easy to remember, but, like most simplistic approaches, they are not always good advice. If you’re dealing with a rookie counterpart, you might be tempted to be the shark and throw out an extreme anchor. Or if you really know the market and you’re dealing with an equally informed pro, you might offer a number just to make the negotiation go faster.</p>
+</li>
+<li>
+<p>Here’s my personal advice on whether or not you want to be the shark that eats a rookie counterpart. Just remember, your reputation precedes you. I’ve run into CEOs whose reputation was to always badly beat their counterpart and pretty soon no one would deal with them.</p>
+</li>
+<li>
+<p><strong>3. Establish a Range</strong></p>
+<ul>
+<li>While going first rarely helps, there is one way to seem to make an offer and bend their reality in the process. That is, by alluding to a range.</li>
+<li>Understand, if you offer a range (and it’s a good idea to do so) expect them to come in at the low end.</li>
+</ul>
+</li>
+<li>
+<p><strong>4. Pivot to Nonmonetary Terms</strong></p>
+<ul>
+<li>One of the easiest ways to bend your counterpart’s reality to your point of view is by pivoting to nonmonetary terms. After you’ve anchored them high, you can make your offer seem reasonable by offering things that aren’t important to you but could be important to them. Or if their offer is low you could ask for things that matter more to you than them. Since this is sometimes difficult, what we often do is throw out examples to start the brainstorming process.</li>
+</ul>
+</li>
+<li>
+<p><strong>5. When You Do Talk Numbers, Use Odd Ones</strong></p>
+<ul>
+<li>The biggest thing to remember is that numbers that end in 0 inevitably feel like temporary placeholders, guesstimates that you can easily be negotiated off of. But anything you throw out that sounds less rounded—say, $37,263—feels like a figure that you came to as a result of the thoughtful calculation. Such numbers feel serious and permanent to your counterpart, so use them to fortify your offers.</li>
+</ul>
+</li>
+<li>
+<p><strong>6. Surprise With a Gift</strong></p>
+<ul>
+<li>You can get your counterpart into a mood of generosity by staking an extreme anchor and then, after their inevitable first rejection, offering them a wholly unrelated surprise gift.</li>
+<li>Unexpected conciliatory gestures like this are hugely effective because they introduce a dynamic called reciprocity; the other party feels the need to answer your generosity in kind. They will suddenly come up with their offer, or they’ll look to repay your kindness in the future. People feel obliged to repay debts of kindness.</li>
+</ul>
+</li>
+<li>
+<p><strong>How to Negotiate a Better Salary</strong></p>
+<ul>
+<li>
+<p>I break down the process into three parts that blend this chapter’s dynamics in a way that not only brings you better money but convinces your boss to fight to get it for you.</p>
+</li>
+<li>
+<p><strong>Be Pleasantly Persistent on Nonsalary Terms</strong></p>
+<ul>
+<li>Pleasant persistence is a kind of emotional anchoring that creates empathy with the boss and builds the right psychological environment for constructive discussion.</li>
+</ul>
+</li>
+<li>
+<p><strong>Salary Terms Without Success Terms is Russian Roulette</strong></p>
+<ul>
+<li>Once you’ve negotiated a salary, make sure to define success for your position—as well as metrics for your next raise. That’s meaningful for you and free for your boss, much like giving me a magazine cover story was for the bar association. It gets you a planned raise, by defining your success in relation to your boss’s supervision, it leads to the next step…</li>
+</ul>
+</li>
+<li>
+<p><strong>Spark Their Interest in Your Success and Gain an Unofficial Mentor</strong></p>
+<ul>
+<li>
+<p>Remember the idea of figuring out what the other side is really buying? Well, when you are selling yourself to a manager, sell yourself as more than a body for a job; sell yourself, and your success, as a way they can validate their own intelligence and broadcast it to the rest of the company. Make sure they know you’ll act as a flesh-and-blood argument for their importance. Once you’ve bent their reality to include you as their ambassador, they’ll have a stake in your success.</p>
+</li>
+<li>
+<p>Ask: “What does it take to be successful here?”</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="create-the-illusion-of-control" style="position:relative;"><a href="#create-the-illusion-of-control" aria-label="create the illusion of control permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Create the Illusion of Control</h1>
+<ul>
+<li>
+<p>Successful negotiation involved getting your counterpart to do the work for you and suggest your solution himself.</p>
+</li>
+<li>
+<p>To do this, we use calibrated, open-ended questions.</p>
+</li>
+<li>
+<p>Giving your counterpart the illusion of control by asking calibrated questions—by asking for help—is one of the most powerful tools for suspending unbelief.</p>
+</li>
+<li>
+<p>Calibrate Your Questions</p>
+<ul>
+<li>Like the softening words and phrases “perhaps,” “maybe,” “I think,” and “it seems,” the calibrated open-ended question takes the aggression out of a confrontational statement or close-ended request that might otherwise anger your counterpart.</li>
+<li>What makes them work is that they are subject to interpretation by your counterpart instead of being rigidly defined. They allow you to introduce ideas and requests without sounding overbearing or pushy.</li>
+<li>First off, calibrated questions avoid verbs or words like “can,” “is,” “are,” “do,” or “does.” These are closed-ended questions that can be answered with a simple “yes” or a “no.” Instead, they start with a list of words people know as reporter’s questions: “who,” “what,” “when,” “where,” “why,” and “how.” Those words inspire your counterpart to think and then speak expansively.</li>
+<li>But let me cut the list even further: it’s best to start with “what,” “how,” and sometimes “why.” Nothing else.</li>
+<li>The only time you can use “why” successfully is when the defensiveness that is created supports the change you are trying to get them to see.</li>
+<li>You should use calibrated questions early and often, and there are a few that you will find that you will use at the beginning of nearly every negotiation. “What is the biggest challenge you face?” is one of those questions. It just gets the other side to teach you something about themselves, which is critical to any negotiation because all negotiation is an information-gathering process.</li>
+</ul>
+</li>
+<li>
+<p>Here are some other great standbys that I use in almost every negotiation, depending on the situation:</p>
+<ul>
+<li>What about this is important to you?</li>
+<li>How can I help to make this better for us?</li>
+<li>How would you like me to proceed?</li>
+<li>What is it that brought us into this situation?</li>
+<li>How can we solve this problem?</li>
+<li>What’s the objective? / What are we trying to accomplish here?</li>
+<li>How am I supposed to do that?</li>
+</ul>
+</li>
+<li>
+<p>Avoid becoming emotional: Bite your tongue. When you’re attacked in a negotiation, pause and avoid angry emotional reactions. Instead, ask your counterpart a calibrated question.</p>
+</li>
+</ul>
+<h1 id="guarantee-execution" style="position:relative;"><a href="#guarantee-execution" aria-label="guarantee execution permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Guarantee Execution</h1>
+<ul>
+<li>
+<p>The point here is that your job as a negotiator isn’t just to get to an agreement. It’s getting to one that can be implemented and making sure that happens</p>
+</li>
+<li>
+<p>“Yes” is nothing without “How.” While an agreement is nice, a contract is better, and a signed check is best.</p>
+</li>
+<li>
+<p>“Yes” is Nothing Without “How”</p>
+<ul>
+<li>Calibrated “How” questions are a surefire way to keep negotiations going. They put pressure on your counterpart to come up with answers, and to contemplate your problems when making their demands.</li>
+<li>The trick to “How” questions is that correctly used, they are gentle and graceful ways to say “No” and guide your counterpart to develop a better solution—your solution.</li>
+<li>There are two key questions you can ask to push your counterparts to think they are defining success their way: “How will we know we’re on track?” and “How will we address things if we find we’re off track?”When they answer, you summarize their answers until you get a “That’s right.” Then you’ll know they’ve bought in.</li>
+<li>On the flip side, be wary of two telling signs that your counterpart doesn’t believe the idea is theirs. As I’ve noted, when they say, “You’re right,” it’s often a good indicator they are not vested in what is being discussed. And when you push for implementation and they say, “I’ll try,” you should get a sinking feeling in your stomach. Because this really means, “I plan to fail.”</li>
+<li>When you hear either of these, dive back in with calibrated “How” questions until they define the terms of successful implementation in their own voice. Follow up by summarizing what they have said to get a “That’s right.”</li>
+</ul>
+</li>
+<li>
+<p>The 7-38-55 Percent Rule</p>
+<ul>
+<li>
+<p>When someone’s tone of voice or body language does not align with the meaning of the words they say, use labels to discover the source of the incongruence.</p>
+</li>
+<li>
+<p>Here’s an example:</p>
+<ul>
+<li>You: “So we’re agreed?”</li>
+<li>Them: “Yes …"</li>
+<li>You: “I heard you say, ‘Yes,’ but it seemed like there was hesitation in your voice”</li>
+<li>Them: “Oh, it’s nothing really.”</li>
+<li>You: “No, this is important, let’s make sure we get this right.”</li>
+<li>Them: “Thanks, I appreciate it.”</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>The Rule of Three</p>
+<ul>
+<li>The Rule of Three is simply getting the other guy to agree to the same thing three times in the same conversation.</li>
+<li>The first time they agree to something or give you a commitment, that’s No. 1. For No. 2 you might label or summarize what they said so they answer, “That’s right.” And No. 3 could be a calibrated “How” or “What” question about implementation that asks them to explain what will constitute success, something like “What do we do if we get off track?”</li>
+</ul>
+</li>
+<li>
+<p>The Pinocchio Effect</p>
+<ul>
+<li>In a study of the components of lying, Harvard Business School professor Deepak Malhotra and his coauthors found that, on average, liars use more words than truth tellers and use far more third-person pronouns. They start talking about him, her, it, one, they, and their rather than I, in order to put some distance between themselves and the lie.</li>
+<li>And they discovered that liars tend to speak in more complex sentences in an attempt to win over their suspicious counterparts.</li>
+</ul>
+</li>
+<li>
+<p>Pay Attention to Their Usage of Pronouns</p>
+<ul>
+<li>The use of pronouns by a counterpart can also help give you a feel for their actual importance in the decision and implementation chains on the other side of the table. The more in love, they are with “I,” “me,” and “my” the less important they are.</li>
+<li>Conversely, the harder it is to get a first-person pronoun out of a negotiator’s mouth, the more important they are.</li>
+</ul>
+</li>
+<li>
+<p>How to Get Your Counterparts to Bid Against Themselves</p>
+<ul>
+<li>
+<p>We’ve found that you can usually express “No” four times before actually saying the word.</p>
+</li>
+<li>
+<p>The first step in the “No” series is the old standby:</p>
+<ul>
+<li>“How am I supposed to do that?”</li>
+</ul>
+</li>
+<li>
+<p>After that, some version of “Your offer is very generous, I’m sorry, that just doesn’t work for me” is an elegant second way to say “No.”</p>
+</li>
+<li>
+<p>Then you can use something like “I’m sorry but I’m afraid I just can’t do that.” It’s a little more direct, and the “can’t do that” does great double duty. Expressing an inability to perform, can trigger the other side’s empathy toward you.</p>
+</li>
+<li>
+<p>“I’m sorry, no” is a slightly more succinct version of the fourth “No.” If delivered gently, it barely sounds negative at all.</p>
+</li>
+<li>
+<p>If you have to go further, of course, “No” is the last and most direct way. Verbally, it should be delivered with a downward inflection and a tone of regard; it’s not meant to be “NO!”</p>
+</li>
+</ul>
+</li>
+<li>
+<p>There’s a critical lesson there: The art of closing a deal is staying focused to the very end. There are crucial points at the finale when you must draw on your mental discipline. Don’t think about what time the last flight leaves, or what it would be like to get home early and play golf. Do not let your mind wander. Remain focused.</p>
+</li>
+</ul>
+<h1 id="bargain-hard" style="position:relative;"><a href="#bargain-hard" aria-label="bargain hard permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Bargain Hard</h1>
+<ul>
+<li>When push comes to shove—and it will—you’re going to find yourself sitting across the table from a bare-knuckle negotiator. After you’ve finished all the psychologically nuanced stuff—the labelling and mirroring and calibrating—you are going to have to hash out the brass tacks.</li>
+<li>For most of us, that ain’t fun.</li>
+<li>Top negotiators know, however, that conflict is often the path to great deals. And the best find ways to actually have fun engaging in it. Conflict brings out truth, creativity, and resolution. So the next time you find yourself face-to-face with a bare-knuckle bargainer, remember the lessons in this chapter.</li>
+<li>Identify your counterpart’s negotiating style. Once you know whether they are Accommodators, Assertive, or Analysts, you’ll know the correct way to approach them.</li>
+<li>Prepare, prepare, prepare. When the pressure is on, you don’t rise to the occasion; you fall to your highest level of preparation. So design an ambitious but legitimate goal and then game out the labels, calibrated questions, and responses you’ll use to get there. That way, once you’re at the bargaining table, you won’t have to wing it.</li>
+<li>Get ready to take a punch. Kick-ass negotiators usually lead with an extreme anchor to knock you off your game. If you’re not ready, you’ll flee to your maximum without a fight. So prepare your dodging tactics to avoid getting sucked into the compromise trap.</li>
+<li>Set boundaries, and learn to take a punch or punch back, without anger. The guy across the table is not the problem; the situation is.</li>
+<li>Prepare an Ackerman plan. Before you head into the weeds of bargaining, you’ll need a plan of extreme anchor, calibrated questions, and well-defined offers. Remember: 65, 85, 95, 100 percent. Decreasing raises and ending on nonround numbers will get your counterpart to believe that he’s squeezing you for all you’re worth when you’re really getting to the number you want.</li>
+</ul>
+<h1 id="find-the-black-swan" style="position:relative;"><a href="#find-the-black-swan" aria-label="find the black swan permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Find the Black Swan</h1>
+<ul>
+<li>What we don’t know can kill us or our deals. But uncovering it can totally change the course of negotiation and bring us unexpected success.</li>
+<li>Finding the Black Swans—those powerful unknown unknowns—is intrinsically difficult, however, for the simple reason that we don’t know the questions to ask. Because we don’t know what the treasure is, we don’t know where to dig.</li>
+<li>Here are some of the best techniques for flushing out the Black Swans—and exploiting them. Remember, your counterpart might not even know how important the information is, or even that they shouldn’t reveal it. So keep pushing, probing, and gathering information.</li>
+<li>Let what you know—your known knowns—guide you but not blind you. Every case is new, so remain flexible and adaptable. Remember the Griffin bank crisis: no hostage-taker had killed a hostage on deadline until he did.</li>
+<li>Black Swans are leverage multipliers. Remember the three types of leverage: positive (the ability to give someone what they want); negative (the ability to hurt someone); and normative (using your counterpart’s norms to bring them around).</li>
+<li>Work to understand the other side’s “religion.” Digging into worldviews inherently implies moving beyond the negotiating table and into the life, emotional and otherwise, of your counterpart. That’s where Black Swans live.</li>
+<li>Review everything you hear from your counterpart. You will not hear everything the first time, so double-check. Compare notes with team members. Use backup listeners whose job is to listen between the lines. They will hear things you miss.</li>
+<li>Exploit the similarity principle. People are more apt to concede to someone they share a cultural similarity with, so dig for what makes them tick and show that you share common ground.</li>
+<li>When someone seems irrational or crazy, they most likely aren’t. Faced with this situation, search for constraints, hidden desires, and bad information.</li>
+<li>Get face time with your counterpart. Ten minutes of face time often reveals more than days of research. Pay special attention to your counterpart’s verbal and nonverbal communication at unguarded moments—at the beginning and the end of the session or when someone says something out of line.</li>
+</ul>
+<h1 id="quotes" style="position:relative;"><a href="#quotes" aria-label="quotes permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Quotes</h1>
+<p>“negotiators may not be talking to each other, or at least not in such a way as to be understood (given up, no longer attempting serious conversation)”</p>
+<p>misunderstanding, even though you may be speaking directly and they may be hearing you, they may misinterpret what you say</p>
+<h1 id="references" style="position:relative;"><a href="#references" aria-label="references permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>References</h1>
+<ul>
+<li><a href="https://www.beyondintractability.org/bksum/fisher-getting">https://www.beyondintractability.org/bksum/fisher-getting</a></li>
+<li><a href="https://readingraphics.com/book-summary-getting-to-yes/">https://readingraphics.com/book-summary-getting-to-yes/</a></li>
+<li><a href="https://www.whatyouwilllearn.com/book/getting-to-yes/">https://www.whatyouwilllearn.com/book/getting-to-yes/</a></li>
+<li><a href="https://www.sage.exchange/post/getting-to-yes-summary">https://www.sage.exchange/post/getting-to-yes-summary</a></li>
+<li><a href="https://www.grahammann.net/book-notes/never-split-the-difference-chris-voss">https://www.grahammann.net/book-notes/never-split-the-difference-chris-voss</a></li>
+</ul></section><hr/><footer><div class="bio"><div data-gatsby-image-wrapper="" style="width:50px;height:50px" class="gatsby-image-wrapper bio-avatar"><div aria-hidden="true" data-placeholder-image="" style="opacity:1;transition:opacity 500ms linear;background-color:#685848;width:50px;height:50px;position:relative"></div><picture><source type="image/avif" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/d4bf4/tony-avatar.avif 50w,/static/b811602c8c8ce14b66aae6613c8968f4/ee81f/tony-avatar.avif 100w" sizes="50px"/><source type="image/webp" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/3faea/tony-avatar.webp 50w,/static/b811602c8c8ce14b66aae6613c8968f4/6a679/tony-avatar.webp 100w" sizes="50px"/><img data-gatsby-image-ssr="" layout="fixed" data-main-image="" style="opacity:0" sizes="50px" decoding="async" loading="lazy" data-src="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg" data-srcset="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg 50w,/static/b811602c8c8ce14b66aae6613c8968f4/64618/tony-avatar.jpg 100w" alt="Profile picture"/></picture><noscript><picture><source type="image/avif" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/d4bf4/tony-avatar.avif 50w,/static/b811602c8c8ce14b66aae6613c8968f4/ee81f/tony-avatar.avif 100w" sizes="50px"/><source type="image/webp" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/3faea/tony-avatar.webp 50w,/static/b811602c8c8ce14b66aae6613c8968f4/6a679/tony-avatar.webp 100w" sizes="50px"/><img data-gatsby-image-ssr="" layout="fixed" data-main-image="" style="opacity:0" sizes="50px" decoding="async" loading="lazy" src="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg" srcSet="/static/b811602c8c8ce14b66aae6613c8968f4/d24ee/tony-avatar.jpg 50w,/static/b811602c8c8ce14b66aae6613c8968f4/64618/tony-avatar.jpg 100w" alt="Profile picture"/></picture></noscript><script type="module">const t="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;if(t){const t=document.querySelectorAll("img[data-main-image]");for(let e of t){e.dataset.src&&(e.setAttribute("src",e.dataset.src),e.removeAttribute("data-src")),e.dataset.srcset&&(e.setAttribute("srcset",e.dataset.srcset),e.removeAttribute("data-srcset"));const t=e.parentNode.querySelectorAll("source[data-srcset]");for(let e of t)e.setAttribute("srcset",e.dataset.srcset),e.removeAttribute("data-srcset");e.complete&&(e.style.opacity=1,e.parentNode.parentNode.querySelector("[data-placeholder-image]").style.opacity=0)}}</script></div><p>Written by <strong>Tony Vo</strong> <!-- -->father, husband, son and software developer<!-- --> <a href="https://twitter.com/ttrungvo">Twitter</a></p></div></footer></article><nav class="blog-post-nav"><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/4-hours-body/">← <!-- -->4 hours body summary</a></li><li><a rel="next" href="/manage-dependencies/">managing dependencies summary<!-- --> →</a></li></ul></nav><div><div id="disqus_thread"></div></div></main><footer>© <!-- -->2025<!-- -->, Built with<!-- --> <a href="https://www.gatsbyjs.com">Gatsby</a></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/getting-to-yes/";/*]]>*/</script><!-- slice-start id="_gatsby-scripts-1" -->
+          <script
+            id="gatsby-chunk-mapping"
+          >
+            window.___chunkMapping="{\"app\":[\"/app-02f27bb33b7a634980a7.js\"],\"component---src-pages-404-js\":[\"/component---src-pages-404-js-c5ce6f61d00d5bc2a364.js\"],\"component---src-pages-index-js\":[\"/component---src-pages-index-js-85895703483e94bddc30.js\"],\"component---src-pages-tags-js\":[\"/component---src-pages-tags-js-5f4699c03df20c034ba6.js\"],\"component---src-pages-using-typescript-tsx\":[\"/component---src-pages-using-typescript-tsx-a71142f2de4e781bfbb8.js\"],\"component---src-templates-blog-post-js\":[\"/component---src-templates-blog-post-js-e6b9723f7baba56e9afc.js\"],\"component---src-templates-tags-js\":[\"/component---src-templates-tags-js-396a8b4d37b1d972a6c6.js\"]}";
+          </script>
+        <script>window.___webpackCompilationHash="1bd95f07d917a5947bba";</script><script src="/webpack-runtime-5298344da22db0a7d8dc.js" async></script><script src="/framework-dd535bfdf9fc8b5d9656.js" async></script><script src="/app-02f27bb33b7a634980a7.js" async></script><!-- slice-end id="_gatsby-scripts-1" --></body></html>
