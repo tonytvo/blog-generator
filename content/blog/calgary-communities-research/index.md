@@ -14424,6 +14424,117 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 
 # Red Carpet
+
+[![Calgary Red Carpet Neighborhood - Exploring With King Calgary](https://tse4.mm.bing.net/th?id=OIP.DjJJ46DtGIR2dLznXM4E0wHaI8\&pid=Api)](https://kingcalgary.com/calgary-red-carpet-neighborhood/)
+
+---
+
+### 📍 Nearby Amenities & Attractions
+
+* **Elliston Park**: Located immediately south of Red Carpet, this park is home to Elliston Lake and hosts the annual GlobalFest fireworks competition, offering residents recreational opportunities and cultural events. ([RentFaster.ca][1])
+
+* **East Hills Shopping Centre**: A short drive via 17 Avenue SE, this center includes major retailers like Costco, Walmart, Marshalls, and Bulk Barn, providing convenient shopping options. ([urbanupgrade.ca][2])
+
+* **Public Transit**: Red Carpet is close to the LRT, facilitating easy commuting throughout Calgary. ([Royal LePage Benchmark][3])
+
+---
+
+### 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: The neighborhood saw significant development in the 1980s, with many mobile homes and some condominiums established during this period.&#x20;
+
+* **Building Types**: Approximately 72.5% of the housing consists of mobile homes, while 27.5% are condominiums or apartments. ([Calgary Map][4])
+
+---
+
+### 📐 Zoning Regulations
+
+* **Current Zoning**: Red Carpet includes a mix of zoning designations. Recent amendments have changed certain areas from Commercial – Corridor 1 and Multi-Residential – Contextual Grade-Oriented districts to Mixed Use – Active Frontage (MU-2f4.0h24), allowing for mixed-use development up to six storeys in height. ([Calgary Public Meetings][5])
+
+* **Density Allowances**: The MU-2f4.0h24 zoning permits higher-density developments, facilitating more units per lot and encouraging mixed-use projects.&#x20;
+
+---
+
+### 👥 Population & Growth
+
+* **Population**: As of the 2016 Census, Red Carpet had a population of 1,815 residents. ([Exploring With King Calgary][6])
+
+* **Growth Trends**: The neighborhood has experienced modest growth, with ongoing development projects expected to attract new residents.([CityNews Calgary][7])
+
+---
+
+### 💰 Average Income
+
+* **Median Household Income**: The median household income in Red Carpet was recorded at \$58,734 in 2015, which is lower than the Calgary average. ([Calgary Map][4])
+
+---
+
+### 🛡️ Crime Rate
+
+* **Safety Overview**: Red Carpet's crime rates are 59% higher than the national average, with violent crimes being 24% higher. ([AreaVibes][8])
+
+---
+
+### 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: The neighborhood offers a variety of rental options, including apartments and mobile homes.([Calgary Map][4])
+
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$1,305/month.
+  * **2-Bedroom**: Approximately \$1,549/month. ([RentCafe][9])
+
+---
+
+### 🏘️ Neighborhood Classification
+
+* **Grade**: Red Carpet can be classified as a **"C" neighborhood**, characterized by its affordability and proximity to amenities, but with higher crime rates and lower income levels.
+
+---
+
+### 📈 Investment Potential
+
+* **Appreciation**: The average house price in Red Carpet has seen a 19.4% year-over-year increase, indicating strong appreciation potential.&#x20;
+
+* **Current Returns**: Given the relatively low property prices and steady rental demand, investors can expect moderate rental yields.
+
+* **Cash Flow**: The combination of affordable property prices and competitive rental rates suggests positive cash flow opportunities for investors.([Calgary Homes][10])
+
+---
+
+### 💰 Average House Prices
+
+* **Average Price**: As of May 2025, the average house price in Red Carpet is approximately \$180,857. ([Zolo][11])
+
+* **Price Range**: Listings range from \$54,900 to \$289,900, catering to various investment scales. ([RE/MAX Central][12])
+
+---
+
+### 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for investors seeking long-term appreciation in an affordable neighborhood.
+
+* **Rental Properties**: Targeting tenants seeking proximity to amenities and public transit.
+
+* **Redevelopment**: Opportunities exist for developing multi-residential units, subject to zoning regulations and community engagement.
+
+
+---
+
+[1]: https://www.rentfaster.ca/ab/calgary/community/red-carpet/?utm_source=chatgpt.com "Red Carpet Community Information - Calgary - RentFaster.ca"
+[2]: https://www.urbanupgrade.ca/red-carpet?utm_source=chatgpt.com "Red Carpet - Calgary - Urban Upgrade & NewInfills"
+[3]: https://royallepagebenchmark.ca/calgary/southeast/red-carpet/?utm_source=chatgpt.com "Red Carpet Real Estate & Community Guide"
+[4]: https://www.calgarymap.com/red-carpet/?utm_source=chatgpt.com "Red Carpet Map"
+[5]: https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=320896&utm_source=chatgpt.com "[PDF] Land Use Amendment in Red Carpet (Ward 9) at 901"
+[6]: https://kingcalgary.com/calgary-red-carpet-neighborhood/?utm_source=chatgpt.com "Calgary Red Carpet Neighborhood - Exploring With King Calgary"
+[7]: https://calgary.citynews.ca/2024/09/05/calgary-2024-midway-report/?utm_source=chatgpt.com "Calgary takes stock of wins and losses halfway through 2024"
+[8]: https://www.areavibes.com/calgary-ab/red%2Bcarpet%2Btrailer%2Bpark/crime/?utm_source=chatgpt.com "Red Carpet Trailer Park, Calgary, AB Crime Rates - AreaVibes"
+[9]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/red-carpet/?utm_source=chatgpt.com "Red Carpet Apartments for Rent - Calgary, AB - RentCafe"
+[10]: https://www.repcalgaryhomes.ca/red-carpet-real-estate.php?utm_source=chatgpt.com "Red Carpet Homes for Sale Calgary"
+[11]: https://www.zolo.ca/calgary-real-estate/red-carpet/trends?utm_source=chatgpt.com "Red Carpet (Calgary) Housing Market Report | April 2025 Real ..."
+[12]: https://www.remaxcentral.ab.ca/velibordjukic/redcarpet-real-estate-statistics.html?utm_source=chatgpt.com "Red Carpet Calgary Real Estate Statistics & Housing Market"
+
+
 # Shaganappi
 # Crestmont
 # Point Mckay
