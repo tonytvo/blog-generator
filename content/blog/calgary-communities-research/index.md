@@ -14429,7 +14429,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 📍 Nearby Amenities & Attractions
+## 📍 Nearby Amenities & Attractions
 
 * **Elliston Park**: Located immediately south of Red Carpet, this park is home to Elliston Lake and hosts the annual GlobalFest fireworks competition, offering residents recreational opportunities and cultural events. ([RentFaster.ca][1])
 
@@ -14439,7 +14439,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 🏗️ Housing Stock & Building Types
+## 🏗️ Housing Stock & Building Types
 
 * **Construction Era**: The neighborhood saw significant development in the 1980s, with many mobile homes and some condominiums established during this period.&#x20;
 
@@ -14447,7 +14447,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 📐 Zoning Regulations
+## 📐 Zoning Regulations
 
 * **Current Zoning**: Red Carpet includes a mix of zoning designations. Recent amendments have changed certain areas from Commercial – Corridor 1 and Multi-Residential – Contextual Grade-Oriented districts to Mixed Use – Active Frontage (MU-2f4.0h24), allowing for mixed-use development up to six storeys in height. ([Calgary Public Meetings][5])
 
@@ -14455,7 +14455,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 👥 Population & Growth
+## 👥 Population & Growth
 
 * **Population**: As of the 2016 Census, Red Carpet had a population of 1,815 residents. ([Exploring With King Calgary][6])
 
@@ -14463,19 +14463,19 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 💰 Average Income
+## 💰 Average Income
 
 * **Median Household Income**: The median household income in Red Carpet was recorded at \$58,734 in 2015, which is lower than the Calgary average. ([Calgary Map][4])
 
 ---
 
-### 🛡️ Crime Rate
+## 🛡️ Crime Rate
 
 * **Safety Overview**: Red Carpet's crime rates are 59% higher than the national average, with violent crimes being 24% higher. ([AreaVibes][8])
 
 ---
 
-### 🏘️ Rental Market Dynamics
+## 🏘️ Rental Market Dynamics
 
 * **Supply & Demand**: The neighborhood offers a variety of rental options, including apartments and mobile homes.([Calgary Map][4])
 
@@ -14486,13 +14486,13 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 🏘️ Neighborhood Classification
+## 🏘️ Neighborhood Classification
 
 * **Grade**: Red Carpet can be classified as a **"C" neighborhood**, characterized by its affordability and proximity to amenities, but with higher crime rates and lower income levels.
 
 ---
 
-### 📈 Investment Potential
+## 📈 Investment Potential
 
 * **Appreciation**: The average house price in Red Carpet has seen a 19.4% year-over-year increase, indicating strong appreciation potential.&#x20;
 
@@ -14502,7 +14502,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 💰 Average House Prices
+## 💰 Average House Prices
 
 * **Average Price**: As of May 2025, the average house price in Red Carpet is approximately \$180,857. ([Zolo][11])
 
@@ -14510,7 +14510,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 ---
 
-### 🧠 Investment Strategies
+## 🧠 Investment Strategies
 
 * **Buy & Hold**: Ideal for investors seeking long-term appreciation in an affordable neighborhood.
 
@@ -14536,6 +14536,121 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 
 # Shaganappi
+
+[![Shaganappi Homes For Sale City Centre Calgary - Shaganappi Real Estate](https://tse2.mm.bing.net/th?id=OIP.GxOeKLdRLKIBXqi52MWrTwHaFj\&pid=Api)](https://calgaryhomes.ca/shaganappi-real-estate-for-sale.php)
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Shaganappi Point Golf Course**: An 18-hole public golf course offering scenic views and recreational opportunities. ([https://www.calgary.ca][1])
+
+* **Shaganappi Park**: Features sports fields, playgrounds, and walking paths, serving as a central green space for the community. ([teamhripko.ca][2])
+
+* **Community Facilities**: The neighborhood includes amenities such as a playground, ice rink, tennis courts, tobogganing hills, a community hall, and a coulee—a natural area with a spring and diverse flora and fauna. ([Federation of Calgary Communities][3])
+
+* **Transportation**: Proximity to the Shaganappi Point LRT Station provides residents with convenient access to Calgary's public transit system.([Gravity Architecture][4])
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: Shaganappi was established in 1949, with many homes built in the mid-20th century. Recent years have seen infill developments and modern constructions. ([PK REALTY][5])
+
+* **Building Types**: The neighborhood features a mix of single-family detached homes, townhouses, and low-rise condominiums, offering diverse housing options.&#x20;
+
+---
+
+## 📐 Zoning Regulations
+
+* **Current Zoning**: Shaganappi includes various land use districts, accommodating residential and mixed-use developments. The City of Calgary's Land Use Bylaw outlines specific zoning designations applicable to the area. ([https://www.calgary.ca][6])
+
+* **Density Allowances**: Recent planning initiatives, such as the South Shaganappi Communities Local Area Plan, aim to guide the evolution of the neighborhood, potentially allowing for increased density and diverse housing types. ([Engage Calgary][7])
+
+---
+
+## 👥 Population & Growth
+
+* **Population**: As of the 2021 Census, Shaganappi had a population of approximately 1,927 residents.&#x20;
+
+* **Growth Trends**: The neighborhood has experienced modest growth, with a 6.4% increase from 2011 to 2012. ([Calgary Map][8])
+
+---
+
+## 💰 Average Income
+
+* **Median Household Income**: The median household income in Shaganappi is approximately \$101,753, which is higher than the Calgary average. ([AreaVibes][9])
+
+---
+
+## 🛡️ Crime Rate
+
+* **Safety Overview**: Shaganappi is considered a relatively safe community, with crime rates 24% lower than the national average and violent crimes 41% lower. ([AreaVibes][10])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: The neighborhood offers a variety of rental options, including apartments, townhouses, and single-family homes.
+
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$1,700–\$1,850/month.&#x20;
+  * **2-Bedroom**: Approximately \$2,200–\$2,370/month. ([RentCafe][11])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Shaganappi can be classified as a **"B+" neighborhood**, characterized by its affluence, safety, and proximity to amenities and public transit.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: The average house price in Shaganappi has seen a 6.3% year-over-year increase, indicating strong appreciation potential.&#x20;
+
+* **Current Returns**: Given the relatively high property values and rental rates, investors can expect moderate to strong rental yields.([Calgary Homes][12])
+
+* **Cash Flow**: The combination of property values and rental income suggests positive cash flow opportunities for investors.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: As of May 2025, the average house price in Shaganappi is approximately \$678,500. ([Zolo][13])
+
+* **Price Range**: Listings range from \$184,999 to \$3,095,000, catering to various investment scales. ([Justin Havre Real Estate Team][14])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for investors seeking long-term appreciation in a stable and affluent neighborhood.
+
+* **Rental Properties**: Targeting professionals and families seeking proximity to amenities and public transit.
+
+* **Redevelopment**: Opportunities exist for developing multi-residential units, subject to zoning regulations and community engagement.
+
+---
+
+
+[1]: https://www.calgary.ca/rec-locations/golf/shaganappi-point-rentals.html?utm_source=chatgpt.com "Shaganappi Point - Rentals - The City of Calgary"
+[2]: https://teamhripko.ca/calgary-neighbourhoods/city-centre/shaganappi/?utm_source=chatgpt.com "Shaganappi - Calgary Neighbourhood Guide"
+[3]: https://calgarycommunities.com/communities/shaganappi-community-association/?utm_source=chatgpt.com "Shaganappi Community Association - Federation of Calgary ..."
+[4]: https://www.gravityarchitecture.com/shaganappi-multi?utm_source=chatgpt.com "Shaganappi Multi — Gravity Architecture - Vancouver and Calgary ..."
+[5]: https://pk-realty.com/calgary_neighbourhood_shaganappi.html?utm_source=chatgpt.com "Shaganappi Calgary Homes for Sale | Vibrant City Centre Living"
+[6]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones - The City of Calgary"
+[7]: https://engage.calgary.ca/Shaganappi?utm_source=chatgpt.com "South Shaganappi Communities Local Area Planning | Engage"
+[8]: https://www.calgarymap.com/shaganappi/?utm_source=chatgpt.com "Shaganappi Map - Map of Calgary"
+[9]: https://www.areavibes.com/calgary-ab/shaganappi/employment/?utm_source=chatgpt.com "Shaganappi, AB Employment - Median Household Income ..."
+[10]: https://www.areavibes.com/calgary-ab/shaganappi/crime/?utm_source=chatgpt.com "Shaganappi, Calgary, AB Crime Rates - AreaVibes"
+[11]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/shaganappi/?utm_source=chatgpt.com "Shaganappi Apartments for Rent - Calgary, AB - RentCafe"
+[12]: https://calgaryhomes.ca/shaganappi-real-estate-for-sale.php?utm_source=chatgpt.com "Shaganappi Homes For Sale City Centre Calgary - Shaganappi Real Estate"
+[13]: https://www.zolo.ca/calgary-real-estate/shaganappi/trends?utm_source=chatgpt.com "Shaganappi Real Estate Trends - Zolo"
+[14]: https://www.justinhavre.com/shaganappi-calgary-real-estate.php?utm_source=chatgpt.com "Shaganappi Calgary Real Estate - Justin Havre"
+
+
 # Crestmont
 # Point Mckay
 # Mahogany
