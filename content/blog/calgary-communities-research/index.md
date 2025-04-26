@@ -14766,6 +14766,121 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 
 # Point Mckay
+
+[![Point McKay Homes for Sale Calgary - Point McKay Real Estate](https://tse1.mm.bing.net/th?id=OIP.-47bRWUtP3aoZ05AJlyWeAHaFj\&pid=Api)](https://calgaryhomes.ca/point-mckay-real-estate-for-sale.php)
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+* **Bow River Pathway**: Point McKay offers direct access to the Bow River pathway, ideal for cycling, walking, and commuting to downtown Calgary. ([Every Day Tourist][1])
+
+* **Edworthy Park**: Accessible via a pedestrian bridge, this expansive park features natural areas like the Douglas Fir Trail, picnic spots, and recreational facilities. ([Royal LePage Benchmark][2])
+
+* **Local Dining**: Residents enjoy proximity to eateries such as Angel’s Cappuccino & Ice Cream Café, Lazy Loaf Café, and Extreme Bean. ([Every Day Tourist][1])
+
+* **Healthcare Facilities**: The Foothills Medical Centre is nearby, providing comprehensive medical services.([Every Day Tourist][1])
+
+---
+
+## 🏗️ Housing Stock & Building Types
+
+* **Construction Era**: The neighborhood saw significant development in the late 1970s, with complexes like Point McKay Gardens constructed in 1979. ([Point McKay Gardens][3])
+
+* **Building Types**: Point McKay primarily consists of townhomes and low to high-rise condominiums, including the Riverside Towers. ([Kirby Cox & Associates][4])
+
+---
+
+## 📐 Zoning Regulations
+
+* **Current Zoning**: The area includes various residential land use districts as outlined in Calgary's Land Use Bylaw 1P2007. ([https://www.calgary.ca][5])
+
+* **Density Allowances**: Zoning regulations permit a mix of housing types, including multi-residential developments, allowing for more units per lot in designated areas.&#x20;
+
+---
+
+## 👥 Population & Growth
+
+* **Population**: As of 2012, Point McKay had a population of 1,318 residents living in 846 dwellings. ([Calgary Map][6])
+
+* **Growth Trends**: The population remained stable between 2011 and 2012, indicating a mature community with limited growth. ([MyCalgary][7])
+
+---
+
+## 💰 Average Income
+
+* **Median Household Income**: The median household income in Point McKay is approximately \$112,538, which is higher than the Calgary average. ([AreaVibes][8])
+
+---
+
+## 🛡️ Crime Rate
+
+* **Safety Overview**: Point McKay experiences low crime rates, with an average of 0.6 crimes per month. In November 2024, there was only 1 reported crime. ([MyCalgary][9])
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+* **Supply & Demand**: The neighborhood offers a variety of rental options, including apartments and townhouses.
+
+* **Average Rents**:
+
+  * **1-Bedroom**: Approximately \$2,600/month.
+  * **2-Bedroom**: Approximately \$2,600/month.
+  * **3-Bedroom**: Approximately \$3,750/month. ([MyCalgary][9], [RentCafe][10])
+
+---
+
+## 🏘️ Neighborhood Classification
+
+* **Grade**: Point McKay can be classified as a **"B+" neighborhood**, characterized by its affluence, safety, and proximity to amenities and public transit.
+
+---
+
+## 📈 Investment Potential
+
+* **Appreciation**: The average house price in Point McKay is approximately \$669,493, with a slight decrease of 2.04% from the previous month, indicating stable property values. ([HonestDoor][11])
+
+* **Current Returns**: Given the relatively high property values and rental rates, investors can expect moderate to strong rental yields.
+
+* **Cash Flow**: The combination of property values and rental income suggests positive cash flow opportunities for investors.
+
+---
+
+## 💰 Average House Prices
+
+* **Average Price**: As of May 2025, the average house price in Point McKay is approximately \$544,473. ([RE/MAX Central][12])
+
+* **Price Range**: Listings range from \$385,000 to \$768,000, catering to various investment scales. ([RE/MAX Central][12])
+
+---
+
+## 🧠 Investment Strategies
+
+* **Buy & Hold**: Ideal for investors seeking long-term appreciation in a stable and affluent neighborhood.
+
+* **Rental Properties**: Targeting professionals and families seeking proximity to amenities and public transit.([Urban Upgrade][13])
+
+* **Redevelopment**: Opportunities exist for developing multi-residential units, subject to zoning regulations and community engagement.
+
+---
+
+
+[1]: https://everydaytourist.ca/calgary-visitor-information/2017/10/3/point-mckay-a-garden-paradise?utm_source=chatgpt.com "Point Mckay: A Garden Paradise - Everyday Tourist"
+[2]: https://royallepagebenchmark.ca/calgary/northwest/point-mckay/?utm_source=chatgpt.com "Point McKay - Royal LePage® Benchmark"
+[3]: https://pointmckaygardens.shiftsuite.com/?utm_source=chatgpt.com "Point McKay Gardens | A Shiftsuite Community Website"
+[4]: https://www.kirbycox.com/point-mckay.php?utm_source=chatgpt.com "Point McKay Calgary Real Estate For Sale"
+[5]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones - The City of Calgary"
+[6]: https://www.calgarymap.com/point-mckay/?utm_source=chatgpt.com "Point Mckay Map - Map of Calgary"
+[7]: https://mycalgary.com/communities/calgary/nw/point-mckay/?utm_source=chatgpt.com "Point McKay - MyCalgary"
+[8]: https://www.areavibes.com/calgary-ab/point%2Bmckay/employment/?utm_source=chatgpt.com "Point McKay, AB Employment - Median Household Income ..."
+[9]: https://mycalgary.com/crime-statistics/point-mckay-crime-activity-update/?utm_source=chatgpt.com "Point McKay Crime Statistics Update - MyCalgary"
+[10]: https://www.rentcafe.com/apartments-for-rent/ca/ab/calgary/parkdale-point-mckay/?utm_source=chatgpt.com "Parkdale - Point McKay Apartments for Rent - Calgary, AB - RentCafe"
+[11]: https://www.honestdoor.com/cities/ab/calgary/point-mckay?utm_source=chatgpt.com "Point Mckay, Calgary Real Estate: Housing Market May 2025"
+[12]: https://www.remaxcentral.ab.ca/tanyaeklund/pointmckay-real-estate-statistics.html?utm_source=chatgpt.com "Point McKay Calgary Real Estate Statistics & Housing Market ..."
+[13]: https://www.urbanupgrade.ca/point-mckay?utm_source=chatgpt.com "Urban Upgrade & NewInfills - Point McKay"
+
+
 # Mahogany
 # Rosemont
 # Erlton
