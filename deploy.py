@@ -9,7 +9,7 @@ def main():
     parser.add_argument("--gh-page-repo", help="path to github pages repository", required=True)
     args = parser.parse_args()
 
-    subprocess.run(["git", "add", "content"])
+    execute_command(["git", "add", "."])
     if args.days_ago:
         subprocess.run(["git", "commit", f'--date="{args.days_ago} day ago"', "-m", args.commit_message])
     else:
@@ -21,6 +21,11 @@ def main():
     gh_pages_artifacts_dir = get_gh_pages_artifacts_dir()
     shutil.copytree(gh_pages_artifacts_dir, args.gh_page_repo, dirs_exist_ok=True)
 
+    output = subprocess.run(["git", "add", "."],
+                            cwd=args.gh_page_repo,
+                            capture_output=True)
+    print(output)
+
     output = subprocess.run(["git", "commit", "-m", args.commit_message],
                             cwd=args.gh_page_repo,
                             capture_output=True)
@@ -28,6 +33,12 @@ def main():
     output = subprocess.run(["git", "push", "origin", "main"],
                             cwd=args.gh_page_repo,
                             capture_output=True)
+    print(output)
+
+def execute_command(command_args, cwd: str = None, capture_output: bool = False):
+    output = subprocess.run(command_args,
+                            cwd=cwd,
+                            capture_output=capture_output)
     print(output)
 
 
