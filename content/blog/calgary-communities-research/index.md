@@ -10990,6 +10990,106 @@ Based on available data, Skyview Ranch can be classified as a B neighborhood. Th
 ---
 
 # University Heights
+
+[![Amenities – University Heights](https://tse1.mm.bing.net/th?id=OIP.kYveX8Hmqu-5LCvaHFynsAHaFB&pid=Api)](https://university-heights.com/amenities/)
+University Heights is a mature, centrally located neighborhood in northwest Calgary, offering a blend of residential tranquility and proximity to key institutions. Here's a comprehensive real estate investment profile: ([University Heights Homes & Condos: Calgary AB Real Estate](https://www.kirbycox.com/university-heights.php?utm_source=chatgpt.com))
+
+---
+
+## 🏞️ Nearby Amenities & Attractions
+
+University Heights boasts immediate access to several major institutions and attractions:
+
+- **University of Calgary**
+- **Foothills Medical Centre**
+- **Alberta Children's Hospital**
+- **McMahon Stadium**
+- **Market Mall**
+- **Bow River pathways**
+- **West Campus Park**
+- **Rotary Flames Park**
+- **University Athletic Park** ([Annual Reports and Crime Statistics - University of Calgary](https://www.ucalgary.ca/risk/campus-security/about-us/annual-reports-and-crime-statistics?utm_source=chatgpt.com), [Community Feature: University Heights | Power Properties | Calgary ...](https://www.powerproperties.net/blog/community-feature-university-heights?utm_source=chatgpt.com), [University Heights - Calgary Neighbourhood Guide - The John ...](https://teamhripko.ca/calgary-neighbourhoods/northwest/university-heights/?utm_source=chatgpt.com), [University District Calgary Neighbourhood Guide: Living in ...](https://calgaryhomes.ca/blog/living-in-university-district-calgary.html?utm_source=chatgpt.com), [University Heights, AB Area Guide - AreaVibes](https://www.areavibes.com/calgary-ab/university%2Bheights/?utm_source=chatgpt.com))
+
+These amenities make the area attractive to students, healthcare professionals, and families. 
+
+---
+
+## 🏠 Housing Stock & Development History
+
+- **Established**: 1963
+- **Common Building Types**: Predominantly detached single-family homes from the 1960s, with some apartments and townhomes. 
+- **Renovations**: Many original homes have been updated or remodeled over the years. ([University Heights Homes & Condos: Calgary AB Real Estate](https://www.kirbycox.com/university-heights.php?utm_source=chatgpt.com))
+
+---
+
+## 🏗️ Zoning & Development Potential
+
+- **Current Zoning**: Primarily R-1 (single-detached residential).
+- **Recent Changes**: Calgary's city-wide rezoning initiatives aim to increase housing density, allowing for multi-family buildings up to 3 stories in certain areas. 
+- **Restrictive Covenants**: Some properties have covenants that may limit redevelopment.  ([[PDF] the city of calgary land use bylaw 2p80](https://www.calgary.ca/content/dam/www/pda/pd/documents/bylaw-2p80/bylaw2p80.pdf?utm_source=chatgpt.com), [[PDF] The Guidebook for Great Communities How could it impact ...](https://www.uhcacalgary.org/blog/wp-content/uploads/UHCA-Guidebook-Presentation-April-2021.pdf?utm_source=chatgpt.com), [University Heights Restrictive Covenants - UHCA](https://www.uhcacalgary.org/blog/university-heights-restrictive-covenants/?utm_source=chatgpt.com))
+
+---
+
+## 👥 Demographics & Population Trends
+
+- **Population**: Approximately 2,921 residents as of 2019. 
+- **Age Distribution**:
+  - 20–34 years: 32%
+  - 65+ years: 20%
+  - 0–19 years: 17%
+- **Household Composition**:
+  - Single-family: 51%
+  - Single-person: 36%
+  - Multi-person: 12%
+- **Average Household Income**: Approximately $151,206.  ([University Heights - Avenue Calgary](https://www.avenuecalgary.com/best-neighbourhoods-filter/university-heights/?utm_source=chatgpt.com), [University Heights Housing Market Report - Wahi](https://wahi.com/ca/en/housing-market/ab/calgary/university-heights?utm_source=chatgpt.com))
+
+---
+
+## 🚨 Crime & Safety
+
+- **Crime Rate**: 3% lower than the national average.
+- **Violent Crimes**: 25% lower than the national average. 
+- **Recent Trends**: Significant decrease in crime from 2023 to 2024, with total annual crimes dropping from 38 to 18.  ([University Heights, Calgary, AB Crime Rates - AreaVibes](https://www.areavibes.com/calgary-ab/university%2Bheights/crime/?utm_source=chatgpt.com), [University Heights Crime Statistics Update - MyCalgary](https://mycalgary.com/crime-statistics/university-heights-crime-activity-update/?utm_source=chatgpt.com))
+
+---
+
+## 🏘️ Rental Market Dynamics
+
+- **Median Rent (April 2025)**: $1,825/month.
+- **1-Bedroom Average**: $1,601/month.
+- **2-Bedroom Average**: $1,969/month.
+- **House Rentals**: Average $2,750/month. 
+- **Rental Demand**: High, especially for units under $2,200/month, driven by students and healthcare workers. 
+- **Rental Supply**: Low vacancy rates indicate a tight rental market. ([Average rent in University Heights, Calgary, AB - Zumper](https://www.zumper.com/rent-research/calgary-ab/university-heights?utm_source=chatgpt.com), [Jaye Hubbard's Post - LinkedIn](https://www.linkedin.com/posts/jaye-hubbard_calgary-rental-market-between-january-and-activity-7250143081147080705-Qrbj?utm_source=chatgpt.com), [Opportunities and Challenges in Calgary's Rental Landscape](https://www.leasey.ai/resources/challenges-opportunities-calgary-rental/?utm_source=chatgpt.com))
+
+---
+
+## 💰 Property Values & Investment Potential
+
+- **Average Home Price**: Approximately $1,115,434. 
+- **Price per Sq. Ft.**: Around $598.
+- **Recent Sales**: Median sold price of $843,218. 
+- **Appreciation Potential**: Strong, due to proximity to major institutions and ongoing city development plans. ([University Heights, Calgary, AB Real Estate - HonestDoor](https://www.honestdoor.com/cities/ab/calgary/university-heights?utm_source=chatgpt.com), [University Heights Real Estate Statistics Update - MyCalgary](https://mycalgary.com/real-estate/real-estate-activity/university-heights-real-estate-statistics-update/?utm_source=chatgpt.com))
+
+---
+
+## 🧭 Neighborhood Classification
+
+- **Grade**: B+ to A-.
+- **Justification**: High-income demographics, low crime rates, strong rental demand, and proximity to key amenities contribute to its favorable classification.
+
+---
+
+## 📈 Investment Strategies
+
+1. **Buy & Hold**: Leverage long-term appreciation and stable rental income from professionals and students.
+2. **Value-Add Renovations**: Update older homes to increase value and rental appeal.
+3. **Secondary Suites**: Develop legal basement suites to maximize rental income.
+4. **Land Assembly**: Acquire adjacent properties for potential multi-family development, subject to zoning changes.
+5. **Student Housing**: Convert properties into multi-room rentals catering to university students. ([[PDF] University Heights - The City of Calgary](https://www.calgary.ca/content/dam/www/csps/cns/documents/community_social_statistics/community-profiles/university-heights.pdf?utm_source=chatgpt.com))
+
+--- 
+
 # Downtown East Village
 # Glendale
 # University of Calgary
