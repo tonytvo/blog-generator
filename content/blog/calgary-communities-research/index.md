@@ -14882,6 +14882,150 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 
 
 # Mahogany
+
+## 1. **Nearby Amenities & Attractions**
+
+* *Lake and beach club*: Mahogany is centred around a **63‑acre freshwater lake**, offering a *private beach club*, beaches, wetlands and numerous parks ([MyCalgary][1]).
+* *Recreation & services*: Tennis courts, community centre, amphitheatre, gymnasium, banquet hall via the Homeowners Association platform ([MyCalgary][1]).
+* *Schools*: Multiple public and Catholic schools nearby (Divine Mercy, Lakeshore, Joane Cardinal‑Schubert High, others) ([MyCalgary][1]).
+* *Transit & retail*: Commercial hub along 52 St SE, future C‑Train extension planned, and proximity to Seton (South Health Campus, retail, services) ([Wikipedia][2]).
+
+---
+
+## 2. **When were houses commonly built?**
+
+* Development began around **2007–2008**, with show homes opening September 2008.
+* Major construction waves occurred from **2008 through about 2015**, with continuous growth since then ([Wikipedia][2]).
+
+---
+
+## 3. **Common Building Types**
+
+* Predominantly **single‑family detached homes**, with increasing **townhome/apartment (low‑rise) presence**. Detached accounts for \~80+ of current listings, semi‑detached negligible ([real-estate-homes.ca][3]).
+* High post‑secondary education and family households favor larger family home formats ([calgary-homes.com][4]).
+
+---
+
+## 4. **Zoning Regulations & Density**
+
+* Zoning reflects suburban residential low‑density, with single‑family and townhouses allowed.
+* The official **Community Plan (2007)** builds in commercial on 52 St and future transit but doesn’t include high‑rise or multi‑unit zoning. Multi‑attached beyond townhomes is not currently permitted ([Wikipedia][2]).
+* Expect zoning allowing *townhomes*, perhaps duplex, not multi‑unit apartments per lot.
+
+---
+
+## 5. **Population & Growth**
+
+* Population estimates range:
+
+  * \~7,125 residents as per one recent report ([Big John][5], [calgary-homes.com][4])
+  * \~7,575 per another mid‑2025 analysis ([MyCalgary][6]).
+* Growth has been steady since 2008 – doubling or more since then, adding \~5,000+ over 13‑year period, implying \~5‑8% annual growth early, now stabilizing ([calgary-homes.com][4], [Wikipedia][2], [MyCalgary][6]).
+
+---
+
+## 6. **Average Income**
+
+* Median household income varies by source:
+
+  * \~\$135,818 CAD ([AreaVibes][7], [calgary-homes.com][4])
+  * \~\$151,524 CAD per AreaVibes, claiming \~60% above provincial average ([AreaVibes][7]).
+* Likely range: **\$135‑150 K CAD**.
+
+---
+
+## 7. **Crime Rate**
+
+* Very low: around **0.70 crimes per 1,000 residents** annually (\~0.07%) ([calgary-homes.com][4], [MyCalgary][6]).
+* Historically among **safest in Calgary**.
+
+---
+
+## 8. **Rental Supply & Demand**
+
+* No neighbourhood-specific CMHC rental data, but Calgary citywide vacancy rose from **1.4% in 2023 to \~4.6% in 2024**, forecast to near 6% in 2025 owing to new purpose‑built units ([MyCalgary][6], [https://www.calgary.ca][8]).
+* In Mahogany, most units are owner‑occupied single family and townhomes. Rental supply is limited; demand likely moderate, especially for family and lake lifestyle rentals.
+
+---
+
+## 9. **Average Rents**
+
+* Direct rent data for Mahogany is not publicly reported. Based on Calgary rental rates and higher income demographics, **3‑bed detached** likely rents \~**\$2,200–2,800 CAD/month**, townhome \~**\$1,800–2,300 CAD**.
+* Confirm with local MLS rental listings for precision.
+
+---
+
+## 10. **Neighbourhood Grade (A/B/C/D)**
+
+* Mahogany would generally qualify as an **“A-minus or A”** neighbourhood:
+
+  * Newer, planned community; high incomes; strong amenities; safety; lake-based lifestyle appeal.
+  * Weakness: lower transit/connectivity currently, less diversity of housing types for rentals.
+
+---
+
+## 11. **Long-Term Potential & Returns**
+
+* **Strong appreciation potential**: average prices up \~4–5% month‑over‑month and \~5–9% quarterly/yearly ([Big John][5]).
+* *Capital growth* appears solid. However, cashflow yield from rental investments may be modest if acquisition price \~\$700K+ for single‑family homes—rental yields likely lower (2–3% gross).
+* Better returns possible via **townhome acquisitions**, or **new infill/lot‑split opportunities** if zoning changes over time.
+
+---
+
+## 12. **Average House Prices**
+
+* Current average listing prices:
+
+  * **\~\$720K CAD** (Zolo, BigJohn data mid‑2025) ([Zolo][9], [Big John][10]).
+  * HonestDoor average \~\$801K including condos and sold data ([real-estate-homes.ca][3]).
+* Market trending around **\$720‑750K** typical; high-end over \$1M for larger lakefront/luxury models.
+
+---
+
+## 13. **Potential Investment Strategies**
+
+1. **Buy & hold detached for appreciation**: suitable for wealthy investors seeking low‑risk appreciation; limited cashflow unless financed heavily.
+2. **Townhouse or duplex investments** (if available): better yield, easier entry point.
+3. **Lot‑splits or infill**: as community matures and zoning evolves, potential for converting large lots into multi‑units or secondary suites.
+4. **Short‑term rentals / furnished corporate leasing**: higher income households and professionals near hospitals may provide demand.
+5. **New‑build purchase and assignment flip**: early product still delivered by major builders (Jayman, Trico, Morrison, etc.) ([mardaloop-real-estate.com][11], [Wikipedia][2])—potential for developer assignment or spec investment.
+
+---
+
+### 📌 Summary Table
+
+| Metric                   | Value                                            |
+| ------------------------ | ------------------------------------------------ |
+| Population               | \~7,200–7,600 (2025)                             |
+| Median Household Income  | \~\$135–151 K CAD                                |
+| Crime Rate               | \~0.70/1,000 pop (very low)                      |
+| Avg Home Price           | \~\$720–750 K                                    |
+| Typicals                 | Detached homes, some townhomes                   |
+| Rent Estimates           | \~\$2.2–2.8K (detached), \~\$1.8–2.3K (townhome) |
+| Rental vacancy (Calgary) | \~4.6% (2024), rising                            |
+| Growth                   | \~5–9% YoY price growth                          |
+
+---
+
+## ✅ Final Take
+
+Mahogany is a **high‑end, family‑oriented, planned suburban neighbourhood** with excellent amenities, safety, and strong appreciation. Its **average‑income demographic** (\~\$140‑150K) and lifestyle appeal make it attractive to owner‑occupiers and upper‑income renters. Cap rates on detached homes are modest, so **strategies focused on townhomes, rental apartments (if zoning changes), infill**, or luxury short‑term markets may improve returns. As the community matures, **transit extension and diversified zoning** could enhance density and return opportunities.
+
+---
+
+[1]: https://mycalgary.com/communities/calgary/se/mahogany/?utm_source=chatgpt.com "Mahogany Community News - South East Calgary"
+[2]: https://en.wikipedia.org/wiki/Mahogany%2C_Calgary?utm_source=chatgpt.com "Mahogany, Calgary"
+[3]: https://www.real-estate-homes.ca/mahogany-real-estate-statistics.html?utm_source=chatgpt.com "Mahogany Calgary Real Estate Statistics"
+[4]: https://www.calgary-homes.com/mahogany-real-estate.php?utm_source=chatgpt.com "Mahogany Real Estate Listings - Calgary Homes"
+[5]: https://www.bigjohn.ca/mahogany-real-estate-news.html?utm_source=chatgpt.com "Mahogany Calgary Real Estate News"
+[6]: https://mycalgary.com/real-estate/real-estate-activity/mahogany-real-estate-statistics-update/?utm_source=chatgpt.com "Mahogany Real Estate Statistics Update - MyCalgary"
+[7]: https://www.areavibes.com/calgary-ab/mahogany/?utm_source=chatgpt.com "Mahogany, AB Area Guide - Calgary - AreaVibes"
+[8]: https://www.calgary.ca/communities/housing-in-calgary/housing-research/housing-trends.html?utm_source=chatgpt.com "Housing trends - The City of Calgary"
+[9]: https://www.zolo.ca/calgary-real-estate/mahogany/trends?utm_source=chatgpt.com "Mahogany Real Estate Trends - Calgary - Zolo"
+[10]: https://www.bigjohn.ca/mahogany-detached-homes.html?utm_source=chatgpt.com "79 Detached Mahogany Homes For Sale: Calgary Real Estate"
+[11]: https://www.mardaloop-real-estate.com/statistics/mahogany.html?utm_source=chatgpt.com "Mahogany Housing Market Real Estate Statistics June 30th 4:40pm"
+
+
 # Rosemont
 # Erlton
 # Greenwood/Greenbriar
