@@ -14881,152 +14881,145 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 [13]: https://www.urbanupgrade.ca/point-mckay?utm_source=chatgpt.com "Urban Upgrade & NewInfills - Point McKay"
 
 
-# Mahogany
+# Rosemont
 
-## 1. **Nearby Amenities & Attractions**
+## 1. Nearby Amenities & Attractions 🏞️
 
-* *Lake and beach club*: Mahogany is centred around a **63‑acre freshwater lake**, offering a *private beach club*, beaches, wetlands and numerous parks ([MyCalgary][1]).
-* *Recreation & services*: Tennis courts, community centre, amphitheatre, gymnasium, banquet hall via the Homeowners Association platform ([MyCalgary][1]).
-* *Schools*: Multiple public and Catholic schools nearby (Divine Mercy, Lakeshore, Joane Cardinal‑Schubert High, others) ([MyCalgary][1]).
-* *Transit & retail*: Commercial hub along 52 St SE, future C‑Train extension planned, and proximity to Seton (South Health Campus, retail, services) ([Wikipedia][2]).
-
----
-
-## 2. **When were houses commonly built?**
-
-* Development began around **2007–2008**, with show homes opening September 2008.
-* Major construction waves occurred from **2008 through about 2015**, with continuous growth since then ([Wikipedia][2]).
+* **Recreation & green space**: Bordered by *Confederation Park* to the south, with pathways, off-leash areas, playgrounds and extensive open space. Nose Hill Park lies just north of Northmount Drive ([teamhripko.ca][1]).
+* **Proximity to core & transit**: A short drive to downtown and major arteries like 14 St NW, Crowchild Trail and 16 Avenue ([RentFaster.ca][2]).
+* **Shopping & dining**: Close to *Kensington Village*—vibrant restaurants, cafés, retail—and North Hill Mall/Home Depot nearby ([Ramage & Co][3]).
+* **Education & healthcare access**: Served by Rosemont Elementary and St. Margaret/St. Francis (outside community), with access to SAIT and University of Calgary within easy transit range; close to Foothills Medical Centre & Alberta Children’s Hospital ([teamhripko.ca][1]).
 
 ---
 
-## 3. **Common Building Types**
+## 2. When Were Houses Commonly Built?
 
-* Predominantly **single‑family detached homes**, with increasing **townhome/apartment (low‑rise) presence**. Detached accounts for \~80+ of current listings, semi‑detached negligible ([real-estate-homes.ca][3]).
-* High post‑secondary education and family households favor larger family home formats ([calgary-homes.com][4]).
-
----
-
-## 4. **Zoning Regulations & Density**
-
-* Zoning reflects suburban residential low‑density, with single‑family and townhouses allowed.
-* The official **Community Plan (2007)** builds in commercial on 52 St and future transit but doesn’t include high‑rise or multi‑unit zoning. Multi‑attached beyond townhomes is not currently permitted ([Wikipedia][2]).
-* Expect zoning allowing *townhomes*, perhaps duplex, not multi‑unit apartments per lot.
+* The community was **annexed in 1910** but development began in **1958**, so most original construction dates to the late 1950s through 1960s ([Wikipedia][4]).
+* Since then, especially in recent decades, many Bungalows have been replaced or supplemented by **infill redevelopment** (multi‑storey detached and semi‑detached) ([MLS Listing Realtor][5]).
 
 ---
 
-## 5. **Population & Growth**
+## 3. Common Building Types
 
-* Population estimates range:
-
-  * \~7,125 residents as per one recent report ([Big John][5], [calgary-homes.com][4])
-  * \~7,575 per another mid‑2025 analysis ([MyCalgary][6]).
-* Growth has been steady since 2008 – doubling or more since then, adding \~5,000+ over 13‑year period, implying \~5‑8% annual growth early, now stabilizing ([calgary-homes.com][4], [Wikipedia][2], [MyCalgary][6]).
+* Original housing stock: primarily **single‑family detached bungalows and two‑storey family homes** ([Wikipedia][4], [Federation of Calgary Communities][6]).
+* Rising **infill development**, especially two‑to‑three‑storey detached and semi‑detached homes with small lots ([MLS Listing Realtor][5], [newinfills.ca][7]).
+* Some low‑rise condos/apartments, but majority remains detached.
 
 ---
 
-## 6. **Average Income**
+## 4. Zoning & Density Rules
 
-* Median household income varies by source:
-
-  * \~\$135,818 CAD ([AreaVibes][7], [calgary-homes.com][4])
-  * \~\$151,524 CAD per AreaVibes, claiming \~60% above provincial average ([AreaVibes][7]).
-* Likely range: **\$135‑150 K CAD**.
+* Typical zoning is **R‑1 and R‑1N / R‑2 inner‑city low‑density**, allowing detached dwellings and some semi‑detached or secondary suites.
+* **Infill zoning** policies permit more density than original, with **redeveloped lots allowing two or more units** under discretionary use.
+* Full multi‑unit development (e.g. mid‑rise) is unlikely under current zoning—community remains low‑density with infill potential ([https://www.calgary.ca][8]).
 
 ---
 
-## 7. **Crime Rate**
+## 5. Population & Growth
 
-* Very low: around **0.70 crimes per 1,000 residents** annually (\~0.07%) ([calgary-homes.com][4], [MyCalgary][6]).
-* Historically among **safest in Calgary**.
-
----
-
-## 8. **Rental Supply & Demand**
-
-* No neighbourhood-specific CMHC rental data, but Calgary citywide vacancy rose from **1.4% in 2023 to \~4.6% in 2024**, forecast to near 6% in 2025 owing to new purpose‑built units ([MyCalgary][6], [https://www.calgary.ca][8]).
-* In Mahogany, most units are owner‑occupied single family and townhomes. Rental supply is limited; demand likely moderate, especially for family and lake lifestyle rentals.
+* Small community: approximately **1,254 residents in 2019**, consistent with 2021 profile and City forecasts ([Avenue Calgary][9]).
+* Population growth is modest—largely stable with redevelopment replacing rather than expanding footprint; recent redevelopment may slightly increase density via infills.
 
 ---
 
-## 9. **Average Rents**
+## 6. Average Income
 
-* Direct rent data for Mahogany is not publicly reported. Based on Calgary rental rates and higher income demographics, **3‑bed detached** likely rents \~**\$2,200–2,800 CAD/month**, townhome \~**\$1,800–2,300 CAD**.
-* Confirm with local MLS rental listings for precision.
-
----
-
-## 10. **Neighbourhood Grade (A/B/C/D)**
-
-* Mahogany would generally qualify as an **“A-minus or A”** neighbourhood:
-
-  * Newer, planned community; high incomes; strong amenities; safety; lake-based lifestyle appeal.
-  * Weakness: lower transit/connectivity currently, less diversity of housing types for rentals.
+* Median household income around **\$107,000 (2020)** compared to Calgary median \~\$98,000 ([https://www.calgary.ca][10]).
+* Residents’ incomes above city average, reflecting inner‑city family and professional demographics.
 
 ---
 
-## 11. **Long-Term Potential & Returns**
+## 7. Crime Rate
 
-* **Strong appreciation potential**: average prices up \~4–5% month‑over‑month and \~5–9% quarterly/yearly ([Big John][5]).
-* *Capital growth* appears solid. However, cashflow yield from rental investments may be modest if acquisition price \~\$700K+ for single‑family homes—rental yields likely lower (2–3% gross).
-* Better returns possible via **townhome acquisitions**, or **new infill/lot‑split opportunities** if zoning changes over time.
-
----
-
-## 12. **Average House Prices**
-
-* Current average listing prices:
-
-  * **\~\$720K CAD** (Zolo, BigJohn data mid‑2025) ([Zolo][9], [Big John][10]).
-  * HonestDoor average \~\$801K including condos and sold data ([real-estate-homes.ca][3]).
-* Market trending around **\$720‑750K** typical; high-end over \$1M for larger lakefront/luxury models.
+* Extremely low crime: **12 reported crimes in 12 months to Nov 2024**, averaging \~0.8 crimes per 1,000 residents **per year**, well below Calgary average ([MyCalgary][11]).
+* AreaVibes reports crime \~24% lower than Calgary average ([AreaVibes][12]). Overall safe and stable.
 
 ---
 
-## 13. **Potential Investment Strategies**
+## 8. Rental Supply & Demand
 
-1. **Buy & hold detached for appreciation**: suitable for wealthy investors seeking low‑risk appreciation; limited cashflow unless financed heavily.
-2. **Townhouse or duplex investments** (if available): better yield, easier entry point.
-3. **Lot‑splits or infill**: as community matures and zoning evolves, potential for converting large lots into multi‑units or secondary suites.
-4. **Short‑term rentals / furnished corporate leasing**: higher income households and professionals near hospitals may provide demand.
-5. **New‑build purchase and assignment flip**: early product still delivered by major builders (Jayman, Trico, Morrison, etc.) ([mardaloop-real-estate.com][11], [Wikipedia][2])—potential for developer assignment or spec investment.
+* Primarily owner‑occupied detached homes; rental stock limited to infill builds or apartments in surrounding areas.
+* Inner‑city tenants (young professionals, students, hospital staff) create steady demand, but direct supply in Rosemont is constrained unless investing in infill or secondary suites.
+
+---
+
+## 9. Average Rents
+
+* No community-specific CMHC rent data. Based on Calgary inner-city rates:
+
+  * **Detached 3‑bed**: \~\$2,200–2,800 CAD/month.
+  * **Semi‑detached/Infill**: \~\$1,800–2,400 CAD/month.
+* Actual market pricing depends on finishes, proximity to amenities, and build quality.
+
+---
+
+## 10. Neighbourhood Grade
+
+* **Grade: A‑**: Established, quiet, green & scenic inner‑city with strong demographics, safety, and attractive housing stock. Slight downside: limited on-site retail and rental housing variety.
+
+---
+
+## 11. Long-Term Appreciation vs Cash Flow
+
+* **Strong appreciation potential**: Inner‑city lots in mature communities seldom depreciate; infill redevelopment boosts average property values.
+* **Cash-flow yields modest**: high acquisition cost (inner‑city) lowers gross rental yield (\~2–3 %) unless high rent or multi-unit strategies are employed.
+* Appreciation likely to outperform rental yield for long-term hold investors.
+
+---
+
+## 12. Average House Prices
+
+* While community-specific prices not in sources, broader inner‑city median assessed values in 2017 were \~\$589K ([Avenue Calgary][9]).
+* Given inflation and redevelopment: current values likely range **\$800‑900K for infill homes**, with older bungalows \~\$600‑700K depending on lot and condition.
+* Need MLS or local realtor data for precise up-to-date pricing.
+
+---
+
+## 13. Investment Strategies for Rosemont
+
+1. **Infill development / lot‑flip**: Purchase older bungalow, redevelop to 3‑storey detached or duplex for higher density/rental income.
+2. **Buy & hold infill structures**: New infill rentals attract professionals/families—higher yields than existing detached.
+3. **Secondary suite or legal basement rental**: Permitted in infill or detached lots, generating extra income.
+4. **Long-term capital appreciation**: Holding quality detached in mature inner‑city often yields strong equity gains.
+5. **Short-term / corporate rentals**: If inner‑city location is appealing to traveling professionals near hospitals/university.
 
 ---
 
 ### 📌 Summary Table
 
-| Metric                   | Value                                            |
-| ------------------------ | ------------------------------------------------ |
-| Population               | \~7,200–7,600 (2025)                             |
-| Median Household Income  | \~\$135–151 K CAD                                |
-| Crime Rate               | \~0.70/1,000 pop (very low)                      |
-| Avg Home Price           | \~\$720–750 K                                    |
-| Typicals                 | Detached homes, some townhomes                   |
-| Rent Estimates           | \~\$2.2–2.8K (detached), \~\$1.8–2.3K (townhome) |
-| Rental vacancy (Calgary) | \~4.6% (2024), rising                            |
-| Growth                   | \~5–9% YoY price growth                          |
+| Metric                  | Value                                          |
+| ----------------------- | ---------------------------------------------- |
+| Population              | \~ 1,250 residents                             |
+| Median Household Income | \~ \$107 K CAD (2020)                          |
+| Crime Rate              | \~ 0.8 cr/1,000 pop annually                   |
+| Common Housing          | Detached bungalows & recent infills            |
+| Average Price Estimate  | \~\$600–700 K older homes; \$800–900 K infills |
+| Typical Rent            | \~\$2.2–2.8K detached; \$1.8–2.4K infill       |
+| Vacancy/Supply          | Very limited in Rosemont; demand steady        |
+| Neighbourhood Grade     | A‑                                             |
 
 ---
 
-## ✅ Final Take
+## ✅ Conclusion
 
-Mahogany is a **high‑end, family‑oriented, planned suburban neighbourhood** with excellent amenities, safety, and strong appreciation. Its **average‑income demographic** (\~\$140‑150K) and lifestyle appeal make it attractive to owner‑occupiers and upper‑income renters. Cap rates on detached homes are modest, so **strategies focused on townhomes, rental apartments (if zoning changes), infill**, or luxury short‑term markets may improve returns. As the community matures, **transit extension and diversified zoning** could enhance density and return opportunities.
+Rosemont is a **highly desirable inner‑city neighbourhood** with excellent long‑term capital growth fundamentals, very low crime, strong income demographics, and limited rental supply (increasing through infill). Investment strategies that best fit this area focus on **infill redevelopment, secondary suites**, or purchasing renovated homes targeting yield and appreciation. Classic buy‑and‑hold still works well given solid equity appreciation, especially with future zoning or gentle densification possibilities.
 
----
+Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning bylaw details (e.g. R‑1N, R‑2 policies) for further modeling!
 
-[1]: https://mycalgary.com/communities/calgary/se/mahogany/?utm_source=chatgpt.com "Mahogany Community News - South East Calgary"
-[2]: https://en.wikipedia.org/wiki/Mahogany%2C_Calgary?utm_source=chatgpt.com "Mahogany, Calgary"
-[3]: https://www.real-estate-homes.ca/mahogany-real-estate-statistics.html?utm_source=chatgpt.com "Mahogany Calgary Real Estate Statistics"
-[4]: https://www.calgary-homes.com/mahogany-real-estate.php?utm_source=chatgpt.com "Mahogany Real Estate Listings - Calgary Homes"
-[5]: https://www.bigjohn.ca/mahogany-real-estate-news.html?utm_source=chatgpt.com "Mahogany Calgary Real Estate News"
-[6]: https://mycalgary.com/real-estate/real-estate-activity/mahogany-real-estate-statistics-update/?utm_source=chatgpt.com "Mahogany Real Estate Statistics Update - MyCalgary"
-[7]: https://www.areavibes.com/calgary-ab/mahogany/?utm_source=chatgpt.com "Mahogany, AB Area Guide - Calgary - AreaVibes"
-[8]: https://www.calgary.ca/communities/housing-in-calgary/housing-research/housing-trends.html?utm_source=chatgpt.com "Housing trends - The City of Calgary"
-[9]: https://www.zolo.ca/calgary-real-estate/mahogany/trends?utm_source=chatgpt.com "Mahogany Real Estate Trends - Calgary - Zolo"
-[10]: https://www.bigjohn.ca/mahogany-detached-homes.html?utm_source=chatgpt.com "79 Detached Mahogany Homes For Sale: Calgary Real Estate"
-[11]: https://www.mardaloop-real-estate.com/statistics/mahogany.html?utm_source=chatgpt.com "Mahogany Housing Market Real Estate Statistics June 30th 4:40pm"
+[1]: https://teamhripko.ca/calgary-neighbourhoods/city-centre/rosemont/?utm_source=chatgpt.com "Rosemont - Calgary Neighbourhood Guide"
+[2]: https://www.rentfaster.ca/ab/calgary/community/rosemont/?utm_source=chatgpt.com "Rosemont Community Information - Calgary - RentFaster.ca"
+[3]: https://ramageco.com/calgary-neighbourhoods/rosemont/?utm_source=chatgpt.com "Rosemont - Calgary Neighbourhood Guide - Ramage & Co"
+[4]: https://en.wikipedia.org/wiki/Rosemont%2C_Calgary?utm_source=chatgpt.com "Rosemont, Calgary"
+[5]: https://findcalgaryhome.ca/infills-in-calgarys-inner-city-the-pros-and-cons/?utm_source=chatgpt.com "Infills in Calgary's Inner City: the Pros and Cons - MLS Listing Realtor"
+[6]: https://calgarycommunities.com/communities/rosemont-community-association/?utm_source=chatgpt.com "Rosemont Community Association - Federation of Calgary ..."
+[7]: https://www.newinfills.ca/?utm_source=chatgpt.com "NewInfills.ca - Home"
+[8]: https://www.calgary.ca/communities/profiles/rosemont.html?utm_source=chatgpt.com "Rosemont Profile - The City of Calgary"
+[9]: https://www.avenuecalgary.com/best-neighbourhoods-filter/rosemont/?utm_source=chatgpt.com "Rosemont - Avenue Calgary"
+[10]: https://www.calgary.ca/content/dam/www/programs-services/property-housing-and-neighbourhoods/neighbourhood-and-community-relationships/profiles/rosemont.pdf?utm_source=chatgpt.com "[PDF] Rosemont - The City of Calgary"
+[11]: https://mycalgary.com/crime-statistics/rosemont-crime-activity-update/?utm_source=chatgpt.com "Rosemont Crime Statistics Update - MyCalgary"
+[12]: https://www.areavibes.com/calgary-ab/rosemont/?utm_source=chatgpt.com "Rosemont, Calgary, AB Area Guide - AreaVibes"
 
 
-# Rosemont
 # Erlton
 # Greenwood/Greenbriar
 # Walden
