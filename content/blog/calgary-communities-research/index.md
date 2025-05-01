@@ -14881,7 +14881,7 @@ Chinatown presents a unique investment opportunity, blending cultural heritage w
 [13]: https://www.urbanupgrade.ca/point-mckay?utm_source=chatgpt.com "Urban Upgrade & NewInfills - Point McKay"
 
 
-# Rosemont
+# Rosemont, +
 
 ## 1. Nearby Amenities & Attractions 🏞️
 
@@ -15021,6 +15021,118 @@ Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning by
 
 
 # Erlton
+
+## 1. Nearby Amenities & Attractions
+
+* **Transit & location**: Served by the Erlton/Stampede C‑Train station on the Red Line, providing direct access to downtown ◆ major transit hub station opened in 1981, upgraded in 2011 ([calgarymap.com][1], [Wikipedia][2]).
+* **Parks & recreation**: Bordering *Lindsay Park* and the *MNP Community & Sport Centre* (swimming, skating, fitness). Close to *Stampede Grounds*, *Elbow River paths* and *Elbow islands park* ◆ walkable access to downtown, Mission Road shops and 4th Street dining ◆ amenities rated A+ on AreaVibes guide ([Areavibes][3]).
+
+---
+
+## 2. Age & Style of Housing
+
+* **Built era**: Community established in 1906, but most housing built through mid‑20th century inner‑city expansion. Many condos and rowhouses added later ◆ mix of older infill detached and newer multi‑residential ◆ over time, densification along Macleod Trail and riverfront fringe ([Wikipedia][4]).
+* **Common building types**: About 70% of buildings are condominiums or apartments; row/townhomes and some detached homes make up the rest. Rental share is \~42% renting as of 2000 data ([Wikipedia][4]).
+
+---
+
+## 3. Zoning & Density Regulations
+
+* Erlton is within the inner‑city “MC‑1” (Mainstreet Corridor) zoning along Macleod Trail and established low‑density inner‑residential behind ◆ zoning permits low‑rise multi‑unit and some duplex/row redevelopment, but lot‑scale redevelopment outside corridors tends to be single‑detached or rowhouses.
+* Zoning does allow more than one unit per typical lot via duplex/row; full mid‑rise or townhome blocks only along corridor nodes. (Precise zoning maps should be retrieved from City of Calgary MC‑1/R‑CAM guidelines.)
+
+---
+
+## 4. Population & Growth
+
+* **Population**: \~1,234 people in 2012; 2021 data not fully parsed but stable/slow growth. Community profile suggests small size (\~0.5 km²) ([Wikipedia][4]). City population change was minimal: +0.2% from 2011 to 2012.
+* **Growth outlook**: inner‑city densification slowly increasing but not booming—likely modest growth through infill and small redevelopments.
+
+---
+
+## 5. Income Levels
+
+* Median household income in 2000 was **\$67,698** (Canadian), and climbing. More recent proxy from AreaVibes: estimated **median household income \~C\$183,659**, about 123% above national average and 94% above provincial average ◆ this suggests a very affluent demographic now ([Areavibes][3]).
+
+---
+
+## 6. Crime Rate
+
+* Calgary Police data shows crime rate per 100 residents trending down to **3.0/100 in 2023**, from 5.2/100 in 2018—exceptionally low rate ◆ lower than city average ◆ AreaVibes also flags crime \~54% below city average, rating A+ ([Wikipedia][4], [Areavibes][3]).
+
+---
+
+## 7. Rental Supply & Demand
+
+* Calgary overall vacancy rose from \~1.4% in 2023 to \~4.6% in 2024, forecast \~6% in 2025 due to new purpose‑built supply ◆ rental supply loosening market‑wide, but demand remains strong for central inner‑city walkable units ◆ basement suites and purpose‑built condo rentals remain attractive ([https://www.calgary.ca][5]).
+* Erlton specifically: high proportion of condominiums (\~70%) and \~42% rental occupancy historically suggests supply is mostly condo units and some basement rentals.
+
+---
+
+## 8. Average Rents
+
+* For Calgary overall:
+
+  * **Two-bedroom asking rent** average \~C\$1,920/month in Q1 2025 ([calgaryhomes.ca][6], [calgary.com][7], [www150.statcan.gc.ca][8]).
+  * **Average across all types** \~C\$1,822 (Zillow July 2025) or \~C\$1,676 (CoStar data) ([zillow.com][9], [apartments.com][10]).
+* Erlton skew likely slightly above city average due to central location and higher‑end units; condos likely rent in the C\$2,000–2,500/month range.
+
+---
+
+## 9. Neighbourhood Grade (A, B, C, D)
+
+* By typical investor criteria (low crime, high income, central location, transit, strong amenities): Erlton qualifies as **A‑grade**. AreaVibes ranks livability 91/100, #1 in Calgary, A+ for crime, employment, housing, schools, amenities ([Areavibes][11]).
+
+---
+
+## 10. House Prices & Appreciation Potential
+
+* **Average prices**: Listings show condos from \~C\$420k, row/townhomes around C\$600k–1.7 M, detached homes C\$850k–1.3M+ ([https://www.calgary.ca][5]).
+* **City trends**: median sale prices Q1 2025: detached up \~1.8% year‑over‑year; apartments/multi‑family up \~3.3%; townhomes down \~2.1% ◆ mild softening in some segments, but central condos showing growth ([https://www.calgary.ca][5]).
+* **Long‑term potential**: Erlton benefits from inner‑city location, limited land supply, transit access, and constrained new supply—favorable for appreciation over years, particularly condos and infill rowhouses.
+
+---
+
+## 11. Investment Strategy Ideas
+
+* **Condo rentals**: One‑ or two‑bedroom units near LRT ideal for professionals/hybrid workers renting. Expect rent \~C\$1,800–2,300; yield moderate, appreciation mild.
+* **Renovated rowhouses or detached infill**: Buying older detached/row, renovating to modern standards or converting to duplex / secondary suite for higher yield.
+* **Basement suite plus upstairs rental**: Suitable for owner‑occupier with rental income from in‑law suite.
+* **Airbnb / short‑term** during Stampede season – cyclical but strong demand during major events if allowed zoning permits short‑term.
+* **Hold for medium term**: Land value strong; potential to redevelop under MC‑1 zoning into low‑rise multi‑unit for future exit.
+
+---
+
+## Summary Table
+
+| Metric                  | Erlton (inner‑city, SW Calgary)                                          |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Population              | \~1,200 (2012), stable                                                   |
+| Median Income           | \~\$184k (2021 proxy), high affluence                                    |
+| Crime Rate              | \~3.0/100 (2023), low crime, A+                                          |
+| Housing Mix             | \~70% condos/apartments; \~30% row/detached                              |
+| Ownership vs Rental     | \~58% owner, \~42% renter (historic)                                     |
+| Avg Rent (Calgary city) | \~\$1,820–1,920; Erlton likely above (\~C\$2k–2.5k)                      |
+| Average Home Prices     | Condos C\$400–650k; row/townhouse C\$600k–1.7M; detached \~C\$850k–1.3M+ |
+| Vacancy Rate (City)     | \~4.6% in 2024, rising to \~6%                                           |
+| Neighbourhood Grade     | A                                                                        |
+
+
+---
+
+[1]: https://www.calgarymap.com/erlton/?utm_source=chatgpt.com "Erlton Map - Map of Calgary"
+[2]: https://en.wikipedia.org/wiki/Erlton/Stampede_station?utm_source=chatgpt.com "Erlton/Stampede station"
+[3]: https://www.areavibes.com/calgary-ab/erlton/?utm_source=chatgpt.com "Erlton, AB Area Guide - Calgary"
+[4]: https://en.wikipedia.org/wiki/Erlton%2C_Calgary?utm_source=chatgpt.com "Erlton, Calgary"
+[5]: https://www.calgary.ca/communities/housing-in-calgary/housing-research/housing-trends.html?utm_source=chatgpt.com "Housing trends"
+[6]: https://calgaryhomes.ca/erlton-real-estate-for-sale.php?utm_source=chatgpt.com "Erlton Homes for Sale Calgary - Erlton Real Estate"
+[7]: https://www.calgary.com/blog/exploring-the-rental-market-in-calgary/?utm_source=chatgpt.com "Calgary's Residential Rental Market: 2025 Guide"
+[8]: https://www150.statcan.gc.ca/n1/daily-quotidien/250625/dq250625b-eng.htm?utm_source=chatgpt.com "Quarterly rent statistics, first quarter 2019 to first quarter 2025"
+[9]: https://www.zillow.com/rental-manager/market-trends/calgary-ab/?utm_source=chatgpt.com "Average Rental Price in Calgary, AB & Market Trends"
+[10]: https://www.apartments.com/rent-market-trends/calgary-ab/?utm_source=chatgpt.com "Average Rent in Calgary, AB: Rental Market Trends"
+[11]: https://www.areavibes.com/calgary-ab/erlton/livability/?utm_source=chatgpt.com "Living in Erlton, Calgary, AB"
+
+
 # Greenwood/Greenbriar
 # Walden
 # Bonavista Downs
