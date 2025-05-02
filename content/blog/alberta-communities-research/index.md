@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![calgary communities](./calgary-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - you're an expert in realestate investing, give me detailed outline on the Kilkenny neighborhood in Edmonton with the following questions:
+>  - you're an expert in realestate investing, give me detailed outline on the Nolan Hill neighborhood in Calgary with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?

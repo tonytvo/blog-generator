@@ -15100,11 +15100,127 @@ Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning by
 [11]: https://www.areavibes.com/calgary-ab/erlton/livability/?utm_source=chatgpt.com "Living in Erlton, Calgary, AB"
 
 
-# Greenwood/Greenbriar
-# Walden
-# Bonavista Downs
+# Nolan Hill
+
+
+## 1. 🏘 Overview, Demographics & Growth
+
+* Nolan Hill is a **master‑planned community** in Calgary’s Symons Valley, developed in the **2010s**, mostly post‑2010 development by United Communities ([Anthem Properties][1], [Wikipedia][2]).
+* **Population** hit \~1,723 in 2015, then **3,756 by 2016**, an increase of roughly **118%** year‑over‑year ([MyCalgary][3]).
+* Anthem Properties cites around **over 6,000 residents across \~2,000 single‑family homes and seven multi‑family parcels** ([Anthem Properties][1]).
+* Median resident age \~33; **average individual income \~CAD 154,750** ([themckelviegroup.com][4]).
+
+---
+
+## 2. Housing Stock, Building Types & Construction Era
+
+* Nearly all housing built **since 2010**, with the bulk completed in the early‐to‑mid 2010s ([real-estate-homes.ca][5]).
+* Mix includes **single‑family detached homes**, **semi‑detached homes**, and **townhouses/row homes**; minimal to no purpose‑built condos ([calgaryhomesite.com][6]).
+
+---
+
+## 3. Zoning & Density Potential
+
+* Nolan Hill follows the **Symons Valley Area Structure Plan**, primarily R‑1 and R‑2 zoning (detached and semi‑detached) and some multi‑family parcels.
+* **Most lots** are single‑unit permitted—no large multi‑plex zoning by default. Some townhome parcels exist via developer plans. **Opportunities to subdivide or redevelop** would require applying for re‑zoning or variance in alignment with city policy.
+
+---
+
+## 4. Amenities & Transit
+
+* **Nolan Hill Town Centre** includes shops, services, dining within walking distance ([themckelviegroup.com][4]).
+* Many **parks, walking trails, ravines and wet ponds** for recreation, plus athletic facilities scattered throughout the community ([Kirby Cox & Associates][7]).
+* Transit: Bus route **82 connects to Brentwood C‑Train station**, giving access to Calgary Light Rail & wider network ([Wikipedia][8]).
+
+---
+
+## 5. Income & Crime
+
+* **Average individual income** \~CAD 154,750 (well above Calgary average) ([themckelviegroup.com][4]).
+* According to AreaVibes: overall crime rate in Nolan Hill is **about 13% below national average**, violent crime \~32% below ([AreaVibes][9]).
+* MyCalgary stats: **39 total crimes in past year** (to Nov 2024), average \~3.3 crimes/month; no break‑ins in recent Nov; **very low vehicle or violent crime** numbers ([MyCalgary][10]).
+
+---
+
+## 6. Real Estate Market: Pricing, Rentals & Demand
+
+* Active listings (\~August 2, 2025): **42 properties**, average asking price **CAD 697,100**, range roughly **CAD 445k–999k** ([calgaryhomesite.com][6]).
+* Housing mix: approx **27 detached**, **15 row/townhomes**, **0 condos** ([calgaryhomesite.com][6]).
+* **Rental supply/demand**: limited purpose‑built rentals; most rentals are investor‑owned townhomes or detached conversions. High demand from young families and professionals given income levels and low vacancy.
+* **Average rents** likely in the **CAD 2,000–2,800+** per month range for 3‑4 bedroom homes (Calgary typical), but you’d need current rental listings for precise data.
+
+---
+
+## 7. Neighborhood Rating ‑ A/B/C/D?
+
+* With high incomes, low crime, strong growth and family appeal, it qualifies as a strong **“A‑/B+” neighborhood**: newer, well‑amenitized, safe, desirable for owner‑occupiers and families, albeit lower density.
+
+---
+
+## 8. Investment Performance & Appreciation Potential
+
+* Prices have been trending upward: listings up \~7% year-over-year, though monthly gains slowing to <1% ([real-estate-homes.ca][5]).
+* For investors: **moderate cash‑flow potential** given high purchase prices; rental yields may be modest (\~3–4% cap) unless financing structure is optimized.
+* **Appreciation potential** is decent, given continued expansion of NW Calgary, limited land, and high appeal of newer family-friendly neighbourhoods.
+* **Short‑to‑medium term** returns rely on demographic growth; **long‑term** upside if densification or rezoning near transit emerges.
+
+---
+
+## 9. Average House Prices Summary 📊
+
+| Housing Type              | Avg Asking Price |
+| ------------------------- | ---------------- |
+| Detached Homes            | \~CAD 700k–1.0M  |
+| Townhomes / Row Houses    | \~CAD 450k–550k+ |
+| Overall Community Average | \~CAD 697,100    |
+
+([real-estate-homes.ca][5], [MyCalgary][11])
+
+---
+
+## 10. Investment Strategies That Could Work
+
+* **Buy & hold single‑family or townhomes** for stable long-term appreciation and modest rental income—best suited to high‑income families.
+* **Townhome units** may yield better rental returns relative to price than detached houses.
+* **Build-to-rent ventures** are limited by zoning—multi‑family development would require re‑zoning permissions.
+* **House‑dividing or accessory suites** (like basement suites) could improve cash flow—but zoning approval necessary.
+* **Pre‑sale condos/townhomes**: if developers release multi‑family phases, could allow entry at lower price (check upcoming multi‑family parcels).
+* **Medium-density redevelopment** potential: as area matures, investors might petition for increased density or condo developments near transit corridors—yielding development upside.
+
+---
+
+
+[1]: https://anthemproperties.com/property/nolan-hill/?utm_source=chatgpt.com "Nolan Hill"
+[2]: https://en.wikipedia.org/wiki/Symons_Valley%2C_Calgary?utm_source=chatgpt.com "Symons Valley, Calgary"
+[3]: https://mycalgary.com/communities/calgary/nw/nolan-hill/?utm_source=chatgpt.com "Nolan Hill Community News - North West Calgary"
+[4]: https://themckelviegroup.com/neighborhoods/nolan-hill?utm_source=chatgpt.com "Houses for Sale in Nolan Hill | The McKelvie Group"
+[5]: https://www.real-estate-homes.ca/nolanhill-real-estate-statistics.html?utm_source=chatgpt.com "Nolan Hill Calgary Real Estate Statistics"
+[6]: https://www.calgaryhomesite.com/communities-calgary/nolanhill.html?utm_source=chatgpt.com "43 Nolan Hill Homes For Sale Nw Calgary - Bill Hamilton"
+[7]: https://www.kirbycox.com/nolan-hill.php?utm_source=chatgpt.com "Nolan Hill Homes & Condos for Sale Calgary"
+[8]: https://en.wikipedia.org/wiki/Brentwood_station_%28Calgary%29?utm_source=chatgpt.com "Brentwood station (Calgary)"
+[9]: https://www.areavibes.com/calgary-ab/nolan%2Bhill/crime/?utm_source=chatgpt.com "Nolan Hill, AB Crime Rates: Stats & Map - Calgary"
+[10]: https://mycalgary.com/crime-statistics/nolan-hill-crime-activity-update/?utm_source=chatgpt.com "Nolan Hill Crime Statistics Update - MyCalgary"
+[11]: https://mycalgary.com/city/safest-calgary-neighborhood-report/?utm_source=chatgpt.com "Safest Calgary Neighborhood Report - MyCalgary"
+
+
+
 # Scarboro
+
 # Britannia
+
+# Foothills
+
+# Canada Olympic Park
+
+# Fish Creek Park
+
+# Legacy
+
+# Greenwood/Greenbriar
+
+# Bonavista Downs
+
+
 # Diamond Cove
 # Bayview
 # Rideau Park
@@ -15117,7 +15233,7 @@ Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning by
 # Eagle Ridge
 # Queens Park Village
 # Scarboro/Sunalta West
-# Foothills
+
 # Shepard Industrial
 # CFB Currie
 # Forest Lawn Industrial
@@ -15128,13 +15244,12 @@ Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning by
 # Aurora Business Park
 # Burns Industrial
 # Calgary International Airport
-# Canada Olympic Park
+
 # Deerfoot Business Centre
 # East Fairview Industrial
 # East Shepard Industrial
 # Eastfield
 # Fairview Industrial
-# Fish Creek Park
 # Franklin
 # Glendeer Business Park
 # Glenmore Park
@@ -15142,12 +15257,12 @@ Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning by
 # Great Plains
 # Greenview Industrial Park
 # Highfield
-# Legacy
+
 # Manchester Industrial
 # Mayland
 # McCall
 # Meridian
-# Nolan Hill
+
 # North Airways
 # Nose Hill Park
 # Ogden Shops
