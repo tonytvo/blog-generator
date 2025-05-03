@@ -1,6 +1,6 @@
 ---
 title: The 5 Love Languages by Gary Chapman summary
-date: "2023-12-10T22:12:03.284Z"
+date: "2025-08-03T22:12:03.284Z"
 description: "The 5 Love Languages by Gary Chapman summary"
 tags: ["emotionalintelligence", "family"]
 ---
@@ -1385,3 +1385,4 @@ This is **transformation in motion**. You don’t need permission.
 - https://www.samuelthomasdavies.com/book-summaries/self-help/the-5-love-languages/
 - https://dansilvestre.com/summaries/five-love-languages-summary/
 - https://thepowermoves.com/the-5-love-languages/
+- https://www.amazon.ca/Art-Living-Alone-Loving-inspirational/dp/1760634581
