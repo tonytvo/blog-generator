@@ -771,3 +771,145 @@ Belvedere offers **very affordable entry point** with good transit connectivity 
 [12]: https://www.zumper.com/rent-research/edmonton-ab?utm_source=chatgpt.com "Average Rent in Edmonton, AB and Rent Price Trends"
 [13]: https://www.edmontonrealestate.ca/belvedere-homes-for-sale/100000-200000/?utm_source=chatgpt.com "Belvedere Homes For Sale Northeast Edmonton - Belvedere Real ..."
 [14]: https://www.honestdoor.com/cities/ab/edmonton/belvedere?utm_source=chatgpt.com "Belvedere, Edmonton Real Estate: Housing Market July 2025"
+
+
+# Kildare
+
+Here's a detailed outline and analysis of Kildare, a mature northeast Edmonton neighbourhood in the Londonderry area:
+
+---
+
+## 1. Nearby Amenities & Attractions 🏬
+
+* **Londonderry Mall** sits within Kildare at 66 Street & 137–144 Avenue, offering major retail, services & dining ([Wikipedia][1]).
+* **Londonderry Athletic Grounds**, with sports fields, running track & fitness centre, lie adjacent and serve the community broadly ([Wikipedia][1]).
+* **Parks within Kildare** include Kildare Park and Cherrydale Park, which feature playgrounds, fields and gathering spaces ([Wikipedia][1]).
+* Nearby transit access is solid, supporting walkability, biking and transit commutes ([Local Logic][2]).
+
+---
+
+## 2. When were houses commonly built?
+
+* Majority of residential development occurred in the **1960s through the 1980s/early 1990s** ([City of Edmonton][3]).
+
+---
+
+## 3. Common Building Types
+
+* Around **60% are single-detached homes**. The remaining \~40% comprises **row houses, low-rise apartments and duplexes** ([Gimme-Shelter][4]).
+
+---
+
+## 4. Zoning Regulations & Unit Multiplicity
+
+* Edmonton’s Zoning Bylaw 20001 (effective Jan 1, 2024) introduces the **RS Zone** allowing up to **8 dwelling units per lot** by default depending on lot area and configuration ([Storeys][5]).
+* Under the RS Zone, a **minimum 225 m² lot supports at least 3 units**; a **600 m² lot allows up to 8 units** including basement suites, row housing or multiplexes ([Situate Inc.][6]).
+* Proposed council debate (June 2025) aims to possibly reduce the maximum to **6 units per mid‑block lot**, but as of now the eight-unit cap is still in effect ([Taproot Edmonton][7]).
+
+---
+
+## 5. Population & Growth
+
+* In 2012, the population was **2,763 living in 1,209 dwellings**, a **–4.3% decline** since 2009 ([Wikipedia][8]).
+* More recent growth: the greater Londonderry area (Kildare + Kilkenny) may have seen modest recovery; Kildare is not listed as high‑growth.
+* HonestDoor reports **+7.14% average price growth year-over-year** (likely correlated to modest demand) but not direct population growth data ([Wikipedia][1], [HonestDoor][9]).
+
+---
+
+## 6. Average Household Income
+
+* Specific Kildare income stats unavailable; neighboring York had average household income around **\$53,200 (2001)** vs Edmonton average \$57,360 at that time ([Wikipedia][10]).
+* Given demographic similarities, **Kildare income is likely at or slightly below Edmonton average**.
+
+---
+
+## 7. Crime Rate
+
+* Kildare’s crime rate is reported as approximately **93% higher than the Canadian average**, with violent crime around **50% above average**, and a **1-in-13 chance** of victimization. It's safer than only \~24% of Alberta neighbourhoods ([AreaVibes][11]).
+
+---
+
+## 8. Rental Supply & Demand
+
+* Rental turnover is moderate: about **40% renter-occupied units** in community ([Gimme-Shelter][4]).
+* Some townhomes and apartments available: only around **1–2 current rentals online** in Kildare specifically, showing **limited supply** and stable demand ([Zillow][12]).
+
+---
+
+## 9. Average Rents
+
+* A current **townhouse rental for 2 bed / 2 bath** was listed at approximately **C\$1,365/mo** ([Zillow][12]).
+* Other listings in surrounding areas ranged **C\$1,200–1,900 per month** depending on bedroom count.
+
+---
+
+## 10. Neighborhood Grade (A/B/C/D)
+
+* Kildare is a **mature, working-to-middle income community** with aging stock, moderate income and elevated crime.
+* It likely falls into a **“C” grade neighborhood**, with some potential upside but also limitations.
+
+---
+
+## 11. Long-term Appreciation vs Cash‑Flow
+
+* The average property price is around **C\$269,000 (HonestDoor)**, with listed active homes averaging **C\$310,000**, and an average of **C\$279/sqft** ([HonestDoor][9], [AreaVibes][11], [Reddit][13], [edmontonrealestate.ca][14]).
+* Year-over-year growth \~7 % indicates modest appreciation. With average rents at approx **\$1,400/month**, gross rents are about < 6% yield on typical prices—thin positive cash flow.
+* Appreciation appears stronger than cash flow, making it more drift toward **value-growth/revitalization play**, not high-yield.
+
+---
+
+## 12. Average House Prices
+
+* **HonestDoor average property price:** \~**C\$269,210** ([HonestDoor][9]).
+* **Current active listings average:** \~**C\$309,800** (range \$130k to \$450k) ([Wahi][15]).
+
+---
+
+## 13. Investment Strategies That Could Work
+
+* **Missing‑Middle Infill Strategy**: Given RS zoning allows 3–8 units per lot, a duplex or row‑house infill with secondary suites could boost net operating income.
+* **Renovation & Hold**: Purchase older single-detached homes at lower cost, renovate and hold for moderate rent and capital growth.
+* **Condoconversion**: As some multiplexes can be condominiumized over time, converting to condos could allow resale exit strategies ([Storeys][5], [Reddit][13]).
+* **Buy & Rent to Own/GRSP**: Mid‑market affordability attracts renter‑families; offering rent‑to‑own may attract stable tenants.
+* **Focus on turn‑key row‑house units** for reliable tenancy and tighter maintenance.
+
+---
+
+## 🔍 Summary Table
+
+| Feature            | Kildare Highlights                            |
+| ------------------ | --------------------------------------------- |
+| Build period       | 1960s–1980s                                   |
+| Housing types      | \~60% detached, \~40% row/housing/low‑rise    |
+| Zoning unit cap    | RS Zone allows up to 8 units/lot (currently)  |
+| Population (2012)  | \~2,763, declining then                       |
+| Income level       | Modest, likely Edmonton avg or slightly below |
+| Crime rate         | High—\~93% above national average             |
+| Rental supply      | \~40% rental stock, few current listings      |
+| Average rent       | \~C\$1,365‑1,900/month                        |
+| Avg home price     | \$269–310 K range                             |
+| NOI yield          | < 6% typical gross yield                      |
+| Appreciation       | \~7% YoY seen 2025                            |
+| Neighborhood grade | C‑level/middle income, some challenges        |
+
+---
+
+### ✅ Final Thoughts
+
+Kildare is a mature, affordable neighborhood with solid transit, retail, and sports amenities. It offers opportunity for **infill/missing-middle development**, but crime and aging housing stock remain challenges. It's best suited for investors seeking **moderate appreciation and slow, steady rental income**, rather than high‑yield cash‑flow plays. Tight evaluation of acquisition cost, financing, and renovation/infill potential is crucial to success.
+
+[1]: https://en.wikipedia.org/wiki/Londonderry%2C_Edmonton?utm_source=chatgpt.com "Londonderry, Edmonton"
+[2]: https://locallogic.co/insights/CA-AB/Edmonton/Kildare/?utm_source=chatgpt.com "Insights for Kildare | Local Logic | Location Intelligence"
+[3]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FKildareDemographicProfile.pdf&utm_source=chatgpt.com "Kildare Neighbourhood Profile"
+[4]: https://www.gimme-shelter.com/kildare-edmonton-neighbourhood-profile-and-listings/?utm_source=chatgpt.com "Kildare, Edmonton | Neighbourhood Profile and Listings"
+[5]: https://storeys.com/edmonton-multiplex-small-scale-residential-2025/?utm_source=chatgpt.com "Missing Middle Housing In Edmonton Doubles After Zoning ..."
+[6]: https://situateinc.ca/zoning/edmonton-rs-zone/?utm_source=chatgpt.com "What Can I Do in Edmonton's RS Zone?"
+[7]: https://edmonton.taproot.news/news/2025/06/30/here-are-the-proposed-changes-to-edmontons-zoning-bylaw-set-for-debate-this-week?utm_source=chatgpt.com "Here are the proposed changes to Edmonton's zoning ..."
+[8]: https://en.wikipedia.org/wiki/Kildare%2C_Edmonton?utm_source=chatgpt.com "Kildare, Edmonton"
+[9]: https://www.honestdoor.com/cities/ab/edmonton/kildare?utm_source=chatgpt.com "Kildare, Edmonton Real Estate: Housing Market July 2025"
+[10]: https://en.wikipedia.org/wiki/York%2C_Edmonton?utm_source=chatgpt.com "York, Edmonton"
+[11]: https://www.areavibes.com/edmonton-ab/kildare/crime/?utm_source=chatgpt.com "Kildare, AB Crime Rates: Stats & Map - Edmonton"
+[12]: https://www.zillow.com/kildare-edmonton-ab/rent-townhomes/?utm_source=chatgpt.com "Townhomes For Rent in Kildare Edmonton - 4 Rentals"
+[13]: https://www.reddit.com/r/Edmonton/comments/1l310cy/more_than_16000_new_dwelling_units_approved_in/?utm_source=chatgpt.com "than 16000 new dwelling units approved in Edmonton one ..."
+[14]: https://www.edmontonrealestate.ca/kildare-homes-for-sale.php?utm_source=chatgpt.com "Kildare Homes For Sale Northeast Edmonton"
+[15]: https://wahi.com/ca/en/housing-market/ab/edmonton/kildare?utm_source=chatgpt.com "Kildare Housing Market Report: 1st Aug, 2025"
