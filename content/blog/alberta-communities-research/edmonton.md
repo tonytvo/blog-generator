@@ -626,3 +626,148 @@ Let me know if you’d like comparisons with nearby NE mature neighbourhoods lik
 [9]: https://www.zillow.com/kilkenny-edmonton-ab/?utm_source=chatgpt.com "Kilkenny Edmonton Real Estate & Homes For Sale"
 [10]: https://www.edmontonrealestate.pro/northeast-edmonton/kilkenny.php?utm_source=chatgpt.com "Kilkenny Homes For Sale, Edmonton | View Listings"
 [11]: https://en.wikipedia.org/wiki/Hollick-Kenyon%2C_Edmonton?utm_source=chatgpt.com "Hollick-Kenyon, Edmonton"
+
+
+# **Belvedere**
+
+Here’s a detailed real‑estate‑investing profile for **Belvedere**, a mature neighbourhood in northeast Edmonton:
+
+---
+
+## 1. Nearby Amenities & Attractions
+
+* **Transit**: Belvedere LRT station (Capital Line) with large park-and-ride (≈780 stalls) provides strong transit connectivity ([nexthome.ca][1], [Wikipedia][2]).
+* **Shopping**: Londonderry Mall is just northwest at 137 Ave & 66 St in Kildare ([Wikipedia][3]). Commercial corridors along Fort Road and 66 St include retail and services ([belvederecl.com][4]).
+* **Recreation & Landmarks**: Community league facilities (hall, outdoor rink), plus historic Transit Hotel and a prominent brick smokestack visible from LRT ([Wikipedia][3]).
+
+---
+
+## 2. Housing Age & Common Types
+
+* Most construction occurred **between 1946 and 1985**, with over 90% of residences built in that era ([Wikipedia][3]).
+* **Breakdown of dwelling types** (approximate):
+
+  * Apartments/low‑rise: \~45%
+  * Single-family houses: \~42%
+  * Duplexes: \~8%
+  * Row houses: \~6% ([Wikipedia][3]).
+
+---
+
+## 3. Zoning & Density Potential
+
+* Located in a **mature area sector**, zoning is mostly traditional residential (R‑class). Edmonton zoning does permit secondary suites, duplex, row‑house, and some multi‑unit conversions depending on lot size and local overlays. You would need to consult the city’s current zoning map for Belvedere under the Mature Area Overlay to confirm allowable density including multiplex or low-rise multi‑unit. (Typical RPL, RSL, or RMD zones may allow more units per lot with design and lot‑size compliance.)
+
+---
+
+## 4. Population & Growth
+
+* In **2012**, population was around **5,085** over 1.67 km² (≈3,045 people/km²) and had grown about 2.2% since 2009 ([Wikipedia][3]).
+* **More recent figures** (AreaVibes): population \~5,805, median age \~37.8, livability score 69/100 (good) ([AreaVibes][5]). Indicative modest slow growth.
+
+---
+
+## 5. Income Levels
+
+* From 2001–2010 era data, **median household income** ~~\$48,600; **average \~\$56,800**—well below the city average (~~\$72,000 median, \~\$90,000 average) ([City of Edmonton][6], [nexthome.ca][1]).
+* Local Logic more recent estimate: **individual income \~\$37,200**, **family income \~\$69,800** ([Local Logic][7]).
+
+---
+
+## 6. Crime Rate
+
+* Crime rates are significantly high: total crime \~108% above national average; violent crime \~62% above national average. Residents face a 1‑in‑12 chance of becoming a victim. Crime is about **38% above Edmonton average** ([AreaVibes][8]).
+
+---
+
+## 7. Rental Supply & Demand
+
+* **Approximately half of households rent** (\~48–50%) and half own (\~50%) ([Wikipedia][3], [AreaVibes][9]).
+* As of early August 2025, **\~23 active rental listings**, median rent \~\$1,335/month, up almost 8% year‑over‑year ([Zumper - Apartments for Rent & Houses][10]).
+* Rental stock appears stable with moderate demand, but supply is not extremely tight.
+
+---
+
+## 8. Average Rents
+
+* **Median rental rate in Belvedere**: \~\$1,335/month for apartments of all sizes ([Zumper - Apartments for Rent & Houses][10]).
+* Approx breakdown: average 1‑bedroom \~\$1,119; 2‑bedroom \~\$1,528; studios \~\$1,019 ([Zumper - Apartments for Rent & Houses][10]).
+* City-wide Edmonton averages range \~\$1,365 to \$1,520/month depending on source ([Apartments.com][11], [Zumper - Apartments for Rent & Houses][12]).
+
+---
+
+## 9. Neighborhood Quality Classification
+
+* By standard real‑estate grading (A = upscale/low‑crime to D = disadvantaged/high risk): Belvedere would align closer to **C or D**, reflecting lower incomes, elevated crime rates, older stock, and mixed ownership/rental status.
+
+---
+
+## 10. Home Prices & Appreciation Potential
+
+* As of mid‑2025:
+
+  * Listings average pricing \~\$150–180 K (per listings), price per sqft \~\$179–286 depending on data source ([edmontonrealestate.ca][13], [HonestDoor][14]).
+  * HonestDoor reports average sale price \~\$366,800; sold price per sqft \~\$286 ([HonestDoor][14]).
+  * AreaVibes median for Edmonton is \~\$370K, while Belvedere likely below that ([AreaVibes][9]).
+* **Returns/Cashflow**: average rents (~~\$1,335) vs property cost (~~\$180–370 K) suggests gross rental yield \~4‑8%, modest cashflow depending on financing and expenses.
+
+**Long‑term potential**:
+
+* Proximity to LRT and mature area redevelopment could support value appreciation. However, elevated crime and lower income limit demand from owner‑occupiers. Appreciation upside may hinge on targeted improvement, infill redevelopment, or converting low‑rise to multiplex units.
+
+---
+
+## 11. Investment Strategies That Could Work
+
+1. **Small multi‑suite income properties**: Acquire older homes and add secondary suites (permitted) to boost yield.
+2. **Low‑rise redevelopment or multiplex builds**: Under R‑zoning if permitted, subdividing or building duplex/triplex can increase units.
+3. **Buy-and-hold rental**: Affordable entry point, stable rental demand; focus on landlords comfortable managing older stock.
+4. **Value-add flips or renovations**: Improve curb appeal, safety, rentability to attract better tenants or resale buyers.
+5. **Transit-oriented rental strategy**: Marketing to students and commuters using LRT access.
+
+---
+
+### Summary Table
+
+| Feature                | Belvedere Summary                                                        |
+| ---------------------- | ------------------------------------------------------------------------ |
+| Population (est.)      | \~5,800 (low/moderate density)                                           |
+| Growth                 | Slow (<3% per decade)                                                    |
+| Income                 | Avg \~\$56K; median \~\$48K (below city average)                         |
+| Housing stock          | Built 1946–1985; mix: \~45% apartments, 42% houses                       |
+| Rental mix             | \~49–50% rentals                                                         |
+| Average rent           | \~\$1,335/mo (1‑bed \~\$1,119; 2‑bed \~\$1,528)                          |
+| Crime                  | High (\~108% above national avg; \~38% > city avg)                       |
+| Avg home price         | Approx \$180–366 K (listings and sold)                                   |
+| Gross rental yield     | \~4–8%                                                                   |
+| Neighborhood grade     | C or low B, potentially D                                                |
+| Appreciation potential | Moderate; depends on densification, LRT proximity, property improvements |
+
+---
+
+### Recommendations
+
+* **Due diligence**: Confirm current zoning maps (City of Edmonton zoning: RPL, RSL, etc.) and development bylaws to see if more units per lot allowed.
+* **Site visits**: Evaluate safety, tenancy, condition, and surrounding investments.
+* **Target property types**: Multi‑suite homes or buildings ripe for infill redevelopment.
+* **Exit strategy**: Consider hold long‑term for rental income or flip after renovations.
+* **Mitigate risks**: Criminal activity and lower-income demographics mean tenant screening, security, and property maintenance are vital.
+
+---
+
+Belvedere offers **very affordable entry point** with good transit connectivity and a mix of rental occupants—but it carries **elevated crime and modest growth**. For investors with experience in managing older or lower‑income rental stock and pursuing infill or small multiplex redevelopment, it can offer cashflow and moderate appreciation upside over time.
+
+[1]: https://nexthome.ca/neighbourhoods/belvedere/14711/?utm_source=chatgpt.com "Belvedere"
+[2]: https://en.wikipedia.org/wiki/Belvedere_station_%28Edmonton%29?utm_source=chatgpt.com "Belvedere station (Edmonton)"
+[3]: https://en.wikipedia.org/wiki/Belvedere%2C_Edmonton?utm_source=chatgpt.com "Belvedere, Edmonton"
+[4]: https://belvederecl.com/about/?utm_source=chatgpt.com "About Belvedere"
+[5]: https://www.areavibes.com/edmonton-ab/belvedere/?utm_source=chatgpt.com "Belvedere, Edmonton, AB Area Guide"
+[6]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FBelvedereDemographicProfile.pdf&utm_source=chatgpt.com "Belvedere Neighbourhood Profile"
+[7]: https://locallogic.co/insights/CA-AB/Edmonton/Belvedere/?utm_source=chatgpt.com "Insights for Belvedere | Local Logic | Location Intelligence"
+[8]: https://www.areavibes.com/edmonton-ab/belvedere/crime/?utm_source=chatgpt.com "Belvedere, AB Crime Rates: Stats & Map - Edmonton"
+[9]: https://www.areavibes.com/edmonton-ab/belvedere/housing/?utm_source=chatgpt.com "Belvedere, AB Housing Statistics - Edmonton"
+[10]: https://www.zumper.com/apartments-for-rent/edmonton-ab/belvedere?utm_source=chatgpt.com "Apartments for Rent in Belvedere, Edmonton, AB - 25 Rentals"
+[11]: https://www.apartments.com/rent-market-trends/edmonton-ab/?utm_source=chatgpt.com "Average Rent in Edmonton, AB: Rental Market Trends"
+[12]: https://www.zumper.com/rent-research/edmonton-ab?utm_source=chatgpt.com "Average Rent in Edmonton, AB and Rent Price Trends"
+[13]: https://www.edmontonrealestate.ca/belvedere-homes-for-sale/100000-200000/?utm_source=chatgpt.com "Belvedere Homes For Sale Northeast Edmonton - Belvedere Real ..."
+[14]: https://www.honestdoor.com/cities/ab/edmonton/belvedere?utm_source=chatgpt.com "Belvedere, Edmonton Real Estate: Housing Market July 2025"
