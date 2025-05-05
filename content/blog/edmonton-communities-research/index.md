@@ -44,6 +44,231 @@ tags: ["realestate"]
 
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/OliverDemographicProfile.pdf
 
+[![Jasper Ave redevelopment launched for Oliver area; input wanted - Edmonton | Globalnews.ca](https://tse1.mm.bing.net/th/id/OIP.rKvd4LnPvlSiZXv7G9ei_AHaE8?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://globalnews.ca/news/2360057/jasper-ave-redevelopment-launched-for-oliver-area-input-wanted/?utm_source=chatgpt.com)
+
+Below is a **real-estate investor–focused** outline for **Oliver (Edmonton)** — now commonly branded as **Wîhkwêntôwin (formerly “Oliver”)** in many city planning contexts.
+
+---
+
+## 1) Nearby amenities & attractions (why tenants like it)
+
+**Core “rentability” driver:** *Downtown-adjacent, walkable, transit-rich.*
+
+* **Jasper Avenue corridor (109 St → 124 St)**: Edmonton’s main street feel, restaurants, retail, services; ongoing streetscape work (“Imagine Jasper Avenue”) improves walkability/streetscape over time.
+* **124 Street / Brewery District**: shops, groceries, cafes, plus infill/mid-rise energy (strong for young professionals).
+* **River Valley access** (nearby): quick access to trails/parks (a premium for downtown renters).
+* **Downtown employment + post-secondary proximity**: ideal for renters who want short commutes.
+* **LRT / major transit**: high share of transit and walk commuters shows the area’s mobility advantage (important for reducing tenant car-dependency). ([City of Edmonton][1])
+
+**Investor takeaway:** Oliver behaves like a *“lifestyle rental node”* — demand tends to be resilient even when the city adds supply.
+
+---
+
+## 2) When homes were commonly built (stock age & renovation risk)
+
+Oliver is *not* a single-era subdivision; it’s a long-evolving inner-city neighbourhood.
+
+* Expect a large share of **older concrete high-rises + 1960s–1980s apartment stock**, plus **newer infill and newer luxury rentals/condos** scattered around Jasper Ave / key corridors.
+* Practical implication: **big variance in condo fees, building envelope quality, special assessment risk** (due diligence is everything in this neighbourhood type).
+
+*(No single “built year” dominates like a suburban community — the asset-quality dispersion is the story.)*
+
+---
+
+## 3) Common building types (what you’ll actually buy)
+
+2014 municipal census (still directionally useful for housing form mix) shows Oliver is overwhelmingly apartment-based:
+
+* **Apartment (5+ stories): ~66%**
+* **Apartment (1–4 stories): ~30%**
+* **Single detached / row / duplex/fourplex: tiny shares** ([City of Edmonton][1])
+
+**Investor takeaway:** Oliver is primarily a **condo + purpose-built rental** market, not a “buy a house and suite it” market (unless you’re very targeted on a few pockets).
+
+---
+
+## 4) Zoning & whether it allows more units per lot
+
+Because Oliver is inner-city, zoning is typically more permissive than suburban areas, and the neighbourhood has historically been planned for **medium/high density** along key corridors.
+
+What this usually means in practice:
+
+* **Corridor + node sites (esp. Jasper Ave / major streets)**: often allow **mid-rise / high-rise / mixed-use** redevelopment.
+* **Interior pockets**: may still have smaller-scale residential zones, but even then, inner-city rules tend to allow **more infill forms** than many suburbs (subject to setbacks, height, FAR, parking rules, etc.).
+
+**Action step (how investors verify quickly):**
+
+* Use the City’s zoning map → confirm the **exact parcel zoning** and check allowable uses (multi-unit, mixed-use, etc.).
+* If you’re pursuing “more units per lot,” target parcels already designated for **medium/high-density or mixed-use** rather than trying to rezone a low-scale interior lot.
+
+*(I didn’t pull a parcel-by-parcel zoning breakdown in this pass; if you tell me a cross-street or a listing link, I can translate the exact zone into what you can build.)*
+
+---
+
+## 5) Population & population growth (demand base)
+
+* **2019 Municipal Census population: 18,180** ([City of Edmonton][2])
+* **2014 Municipal Census population: 19,135** ([City of Edmonton][1])
+
+**Interpretation:** Over that window, Oliver looks **roughly flat to slightly down** (not explosive growth). In inner-city areas, population can be sensitive to:
+
+* demolition/redevelopment timing,
+* temporary vacancy during major projects,
+* shifts between condo-ownership vs rental occupancy.
+
+---
+
+## 6) Average income in the area (tenant quality signal)
+
+I wasn’t able to reliably extract a **neighbourhood-specific “average income” figure** from a primary City/StatsCan table within the tool limits in this run, so I’m not going to guess.
+
+What I *can* say confidently based on the housing mix:
+
+* With **very high renter share** and **high apartment concentration** ([City of Edmonton][1]), Oliver’s income profile is typically **mixed** (students/early-career renters + established professionals in higher-end towers).
+
+If you want, I can produce an **income estimate with citations** by pulling the specific **federal census neighbourhood table** for Wîhkwêntôwin/Oliver in a follow-up.
+
+---
+
+## 7) Crime rate (risk, vacancy, and tenant-management reality)
+
+You should assume Oliver has **higher downtown-style incident levels** than most suburban neighbourhoods.
+
+Best source to quantify (by incident type and time window):
+
+* **Edmonton Police Service Community Safety Data Portal / Neighbourhood Crime Mapping** ([Edmonton Police Service][3])
+* City safety dashboards exist as well (good for trends). ([gis.edmonton.ca][4])
+
+**Investor takeaway:** In Oliver, your edge comes from:
+
+* building/tenant screening systems,
+* solid property management,
+* choosing blocks/buildings with better micro-location.
+
+---
+
+## 8) Rental supply/demand dynamics (what drives cashflow)
+
+Oliver is *structurally renter-heavy*:
+
+* **Rented units ~62.6%** (2014 municipal census) ([City of Edmonton][1])
+
+So demand is **deep**, but supply is also **active** (lots of competing buildings).
+
+**What this means for you:**
+
+* Compete on **unit quality, in-suite laundry, parking, pet policy, and building amenities**.
+* Expect tenants to “shop” hard: price sensitivity + lots of alternatives.
+
+---
+
+## 9) Average rents (neighbourhood + city context)
+
+**Neighbourhood snapshot (listings-based):**
+
+* RentFaster Oliver *1-bedroom* page shows many asking rents **around the mid-$1,400s+ range** (varies heavily by building age/amenities). ([RentFaster.ca][5])
+
+**City benchmark (CMHC survey snapshot in a municipal highlights doc):**
+
+* Edmonton City average rents (2024 survey snapshot): **Bachelor ~$1,051; 1-bed ~$1,218; 2-bed ~$1,513; 3+ ~$1,695**. ([City of St. Albert][6])
+
+**Investor takeaway:** Oliver often rents **at/above city average** for comparable bedroom counts, but competition is intense — you win on “total package,” not just price.
+
+---
+
+## 10) Neighbourhood grade (A / B / C / D)
+
+**My investor-grade for Oliver/Wîhkwêntôwin: *B- / C+*** (depends heavily on micro-block + building).
+
+**Why not A:**
+
+* Crime/incident risk higher than suburban family areas (management intensity). ([communitysafetydataportal.edmontonpolice.ca][7])
+* Condo fee / special assessment risk can be meaningful in older towers.
+
+**Why not D:**
+
+* Strong amenities, walkability, employment adjacency, and persistent renter demand.
+
+---
+
+## 11) Long-term appreciation potential vs current returns/cashflow
+
+**Typical pattern in dense inner-city condo-heavy areas:**
+
+* **Cashflow can work** if you buy right (smaller units, good building, realistic fees, strong tenant profile).
+* **Appreciation can lag** single-family land-constrained neighbourhoods *unless* you’re positioned in a building/micro-location that benefits from corridor upgrades and reinvestment.
+
+A real bullish driver to watch:
+
+* **Public realm investment on Jasper Ave** (streetscape, pedestrian upgrades) tends to support desirability over time.
+
+**Practical expectation:** Oliver is often more of a **yield + stability play** than a “home-run appreciation” play (unless you’re doing redevelopment/infill where zoning supports it).
+
+---
+
+## 12) Average house prices (what you’ll pay)
+
+Because Oliver is mostly apartments/condos, “average house price” can be misleading.
+
+One neighbourhood market reference:
+
+* HonestDoor shows an **Average “HonestDoor Price” for Oliver (Edmonton) ~ $758,794** (their blended stat across home types). ([HonestDoor][8])
+
+**How investors should translate this:**
+
+* Break your comps into **(1) condos**, **(2) purpose-built rental opportunities**, **(3) rare small multifamily / land assemblies** — don’t use one blended “average” to underwrite.
+
+---
+
+## 13) Strategies that can work well in Oliver (investor playbook)
+
+### A) “High-occupancy, low-drama” condo rentals (best for limited time)
+
+* Target **concrete buildings** with:
+
+  * healthy reserve fund history,
+  * stable condo fees (not artificially low),
+  * no major known envelope/parking membrane issues,
+  * strong rental demand features (laundry, parking, pet friendliness).
+* Underwrite with **stress tests**: condo fee increases + special assessment reserve.
+
+### B) “Furnished mid-term rental” (travel nurses / corporate / relocation)
+
+* Works best near:
+
+  * hospitals, downtown offices, transit.
+* You’ll need tighter operations (turnovers, furnishing, insurance, bylaws/condo rules).
+
+### C) Value-add on older units (cosmetic + layout)
+
+* Because there’s a lot of older stock, a clean renovation can beat competing listings.
+* Focus upgrades that actually move rent: flooring, lighting, kitchen refresh, in-suite laundry (if feasible), sound/privacy improvements.
+
+### D) Infill / redevelopment (only on the right parcels)
+
+* If you want “more units per lot,” your edge is:
+
+  * buying sites already aligned with **medium/high density or mixed-use intent**,
+  * assembling small lots,
+  * riding corridor revitalization (Jasper Ave, etc.).
+
+### E) Portfolio role (how Oliver fits a bigger plan)
+
+* Oliver can be a **“cashflow anchor / renter-demand anchor”** while you pursue appreciation-heavy plays elsewhere (single-family land value, suite strategies, etc.).
+
+---
+
+[1]: https://www.edmonton.ca/sites/default/files/public-files/assets/Summary%20Report%20of%20All%20Questions_OLIVER_2014.pdf?cb=1624651090 "Summary Report of All Questions - OLIVER 2014"
+[2]: https://www.edmonton.ca/sites/default/files/public-files/assets/census/2019_Census_Summary-Report_OLIVER.pdf?cb=1624668516 "Census 2019 Data - OLIVER"
+[3]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[4]: https://gis.edmonton.ca/cswb?utm_source=chatgpt.com "Community Safety and Well-Being"
+[5]: https://www.rentfaster.ca/ab/edmonton/rentals/apartment/1-bedroom/oliver/?utm_source=chatgpt.com "Oliver 1 Bedroom Apartments for Rent in Edmonton, AB"
+[6]: https://stalbert.ca/site/assets/files/2481/october_2024_cmhc_rental_market_survey_-_st__albert.pdf?utm_source=chatgpt.com "[PDF] 2024 CMHC Rental Market Survey Highlights – St. Albert"
+[7]: https://communitysafetydataportal.edmontonpolice.ca/?utm_source=chatgpt.com "Community Safety Data Portal - Edmonton Police Service"
+[8]: https://www.honestdoor.com/cities/ab/edmonton/oliver?utm_source=chatgpt.com "Oliver, Edmonton, AB Real Estate"
+
+
+
 # Garneau
 
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/GarneauDemographicProfile.pdf
