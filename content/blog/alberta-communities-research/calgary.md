@@ -15206,6 +15206,139 @@ Let me know if you’d like recent MLS comparables, CMHC rent data, or zoning by
 
 # Scarboro
 
+Here’s a comprehensive real‑estate investment profile for **Scarboro (SW Calgary)**:
+
+---
+
+## 1. Nearby Amenities & Attractions 🏙️
+
+Scarboro offers **excellent inner‑city access** — walkable or short drives to Uptown 17th Avenue restaurants & bars, Pumphouse Theatre, Alberta Craft Gallery, cSPACE arts, and Calgary Opera ([nexthome.ca][1], [AreaVibes][2]).
+Green space includes Royal Sunalta Park, Nimmons Park, and vicinity to Sunalta Wildflower Garden and pathways along the Bow ([AreaVibes][2]).
+Residents generally rate amenities, transit, safety, and housing high on livability metrics (AreaVibes score 87/100) ([AreaVibes][3]).
+
+---
+
+## 2. Housing Age
+
+Scarboro was established in **1910** and features a stock mostly built **early to mid‑20th century**, with many homes dating from the 1920s–1950s ([Wikipedia][4]).
+
+---
+
+## 3. Common Building Types
+
+Nearly **100% of dwellings are single‑detached homes** on large lots. There are **no apartments or multiplexes** within Scarboro, although official stats note some condos/rentals, these are outside the core area; essentially 365 R‑C1 lots only ([Wikipedia][4]).
+
+---
+
+## 4. Zoning & Unit Multiplicity
+
+Scarboro properties are almost exclusively zoned **R‑C1 (Residential One‑Family Detached)**, which **does not permit multiplexes, duplexes, or townhouses** without a **land‑use redesignation** and development permit—and developers must obtain community approval under the **West Elbow Local Area Plan** (WELAP) ([Scarboro Community Association][5]).
+Thus **no default additional units per lot** are permitted currently. Rezoning can permit duplexes or rowhouses only through discretionary approvals ([Scarboro Community Association][5], [Scarboro Community Association][6]).
+
+---
+
+## 5. Population & Growth
+
+* In the **2012 municipal census**, population was approx **1,328**, growing \~1.1% from 2011.
+* Scarboro/Sunalta West combined saw \~3.3% growth in same period ([Wikipedia][4]).
+* More recent 2021 census data is accessible via Calgary’s Community Profiles but not publicly values — growth since 2012 has been minimal, reflective of inner-city stability ([https://www.calgary.ca][7]).
+
+---
+
+## 6. Average Household Income
+
+Median household income was **\$79,948 (in 2000)**, which at the time was well above city low-income average—Scarboro is broadly upper-income locale ([Wikipedia][4]).
+More recent estimates (AreaVibes) put median at **\~\$230,419**—about **144% above Alberta average** ([AreaVibes][3]).
+
+---
+
+## 7. Crime Rate
+
+Scarboro maintains a **low crime rate**, with data showing between **2.1–2.8 per 100 residents** year‑to‑year (2018–2023) — well below city and provincial averages ([Wikipedia][4]).
+AreaVibes also reports total crime \~1,682 per 100k, which is **\~60% lower than Canadian average** (chance of victimization \~1‑in‑60) ([AreaVibes][2]).
+
+---
+
+## 8. Rental Supply & Demand
+
+Scarboro renting is **very limited**—few rentals (if any) are available because nearly all housing is owner-occupied R‑C1. Rough estimate of rental occupancy is below Calgary average (\~29.5%), and supply is tight ([Zolo][8]).
+
+---
+
+## 9. Average Rents
+
+Due to extremely limited rental stock, average rent data is scarce. Surrounding neighbourhoods show high market rents for inner-city detached homes—likely **\$2,500–4,000+/mo** depending on size, but Scarboro-specific data not published.
+
+---
+
+## 10. Neighborhood Grade (A/B/C/D)
+
+Scarboro rates as an **“A‑level” neighbourhood**—affluent, low crime, excellent amenities, solid resale value, large lots, historic charm. AreaVibes scores show overall “A+” in crime, amenities, housing, safety ([AreaVibes][2]).
+
+---
+
+## 11. Average House Prices
+
+Listings average around **C\$1.0–1.15M**, with average around **C\$1,060,000** on \~1,400 ft² homes and 6,000 ft² lots ([https://www.calgary.ca][7], [Zolo][8]).
+Avenue Magazine in 2020 cited median assessed value \~\$888,000 (2017) with 2019 population \~931 ([Avenue Calgary][9])—consistent with \~C\$1m+ current pricing.
+
+---
+
+## 12. Appreciation vs Cash Flow
+
+* Year‑over‑year appreciation strong, central inner‑city assets typically deliver **better long‑term capital growth** than cash‑flow, especially at these price points.
+* Low rental yield: limited rental units, so cash‑flow is negligible unless owner rents their own home.
+* Appreciation potential solid due to scarcity, location and large-lot redevelopment interest.
+
+---
+
+## 13. Investment Strategies for Scarboro
+
+**Scarboro is best suited for:**
+
+* **Buy & hold capital appreciation**: acquire a detached home to benefit from long‑term value in a premium inner‑city area.
+* **Partial redevelopment or tear‑down/rebuild**: large lots may attract custom infill or luxury rebuilds—resell or rent high-end product (requires zoning re‑designation/dp) ([Scarboro Community Association][5], [Zolo][8], [https://www.calgary.ca][7]).
+* **Renovation for luxury rental**: if renting high‑income tenants, luxury detached homes can command top rents—but vacancy risk and management complexity are higher.
+* **Multi‑unit development via rezoning**: hypothetically possible, but rarely approved and likely to face community resistance and lengthy process under WELAP policies ([Scarboro Community Association][5]).
+* **Lifestyle hold / downsizing strategy**: attractive for high-net‑worth investors or executives wanting low-turnover ownership in premium locale.
+
+---
+
+### 📋 Summary Table
+
+| Feature            | Scarboro Snapshot                           |
+| ------------------ | ------------------------------------------- |
+| Build era          | 1920s–1950s                                 |
+| Housing stock      | 100% Single‑detached (R‑C1 zoning)          |
+| Zoning             | No multiplex/legal suite; rezoning required |
+| Population (2012)  | \~1,328 (very stable)                       |
+| Income             | \~\$80 k (2000); est. \$230 k in 2021       |
+| Crime              | Very low (2‑2.8/100 residents)              |
+| Rental supply      | Extremely limited                           |
+| Average Rent       | \$2.5k–4k+ (likely, market-dependent)       |
+| Avg house price    | \~\$1.06 M (current listings)               |
+| Neighborhood grade | A+                                          |
+| Cash‑flow yield    | Very low/non-existent                       |
+| Appreciation       | Strong long‑term potential                  |
+
+---
+
+### ✅ Final Thoughts
+
+Scarboro represents a **premium inner‑city investment** dominated by historic detached homes, high household incomes, low crime, and scarce development opportunities. It's ideal for long‑term appreciation and redevelopment play, but **not suited to traditional multi-unit cash‑flow investing** unless rezoning is successful (rare). Rental yield potential exists only for luxury market tenants and remains niche.
+
+[1]: https://nexthome.ca/neighbourhoods/scarboro/31333/?utm_source=chatgpt.com "Scarboro"
+[2]: https://www.areavibes.com/calgary-ab/scarboro/?utm_source=chatgpt.com "Scarboro, Calgary, AB Area Guide"
+[3]: https://www.areavibes.com/calgary-ab/scarboro/livability/?utm_source=chatgpt.com "Living in Scarboro, Calgary, AB"
+[4]: https://en.wikipedia.org/wiki/Scarboro%2C_Calgary?utm_source=chatgpt.com "Scarboro, Calgary"
+[5]: https://scarborocommunity.com/west-elbow-local-area-plan?utm_source=chatgpt.com "West Elbow Local Area Plan (WELAP)."
+[6]: https://scarboro.squarespace.com/s/ScarboroNewsletter_April2024.pdf?utm_source=chatgpt.com "STANDING UP FOR SCARBORO"
+[7]: https://www.calgary.ca/communities/profiles/scarboro.html?utm_source=chatgpt.com "Scarboro Profile"
+[8]: https://www.zolo.ca/calgary-real-estate/417-scarboro-avenue-south-west?utm_source=chatgpt.com "417 Scarboro Avenue Sw Calgary"
+[9]: https://www.avenuecalgary.com/best-neighbourhoods-filter/scarboro/?utm_source=chatgpt.com "Scarboro"
+
+
+
 # Britannia
 
 # Foothills
