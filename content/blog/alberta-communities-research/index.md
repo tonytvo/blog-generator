@@ -45,3 +45,7 @@ tags: ["realestate"]
 # Edmonton communities
 
 - [edmonton communities](./edmonton.md)
+
+# Red Deer communities
+
+- [red deer communities](./reddeer.md)
