@@ -157,3 +157,114 @@ Anders South is a premium, family‑oriented neighbourhood with high incomes, lo
 [8]: https://www.shantelcampbell.com/reddeer-real-estate-statistics.html?utm_source=chatgpt.com "Red Deer Real Estate Statistics & Housing Market"
 [9]: https://www.real-estate-homes.ca/communities/andersparkreddeer.html?utm_source=chatgpt.com "Anders Park Red Deer Real Estate & Houses For Sale"
 [10]: https://www.bigjohn.ca/reddeer-real-estate-statistics.html?utm_source=chatgpt.com "Red Deer Real Estate Statistics"
+
+
+# **Clearview Ridge**
+
+Here’s a detailed investment-oriented profile for **Clearview Ridge**, Red Deer, AB, based on the most current publicly available data:
+
+---
+
+## 📍 Overview & Amenities
+
+* A modern planned neighbourhood in northeast Red Deer, anchored by **Clearview Market Square**, parks, multi-use pathways, wetlands, a small man‑made lake with spray park, playgrounds, rink, and proximity to Red Deer River Valley trails ([melcor.ca][1]).
+* Nearby essentials: grocery and drugstore, restaurants, medical, fitness, transit. River Bend Golf Course and Discovery Canyon are nearby ([Genstar][2]).
+
+---
+
+## 🏘️ Housing Stock & Types
+
+* Most housing built in **2010s–early 2020s**, built‑on‐greenfield by multiple builders including True Line, Prominent Homes, Abbey Master Builders, etc ([Genstar][2]).
+* Common housing types: **single‑family detached homes** (starter to luxury), plus **townhouses/multi‑family** units in the Town Centre area ([Zillow][3]).
+
+---
+
+## ⚖️ Zoning & Lot Utilization
+
+* Zoning allows primarily **R‑1 and R‑1A residential lots**, meaning one dwelling per lot. Small multi‑unit townhouse developments occur near the mixed‑use centre. There is **no general high‑density zoning** for multiple units per typical single‑family lot.
+
+---
+
+## 👥 Demographics, Income & Growth
+
+* The City of Red Deer had \~100,844 residents in 2021, up modestly from \~100,418 in 2016 — growth less than 1% over five years, but more recent municipal estimates in 2019 reached \~101,002 ([Wikipedia][4]).
+* Local demographic data specific to Clearview Ridge is limited, but it is characterized as a **family‑oriented** area with access to schools and daycares ([Local Logic][5]).
+* Average household income: exact stats aren’t publicly available, but cost of living noted \~3% above city average, implying moderately higher median incomes relative to the Red Deer average ([Andrew Russell & Associates][6]).
+
+---
+
+## 🔒 Crime Profile
+
+* Crime in Clearview Ridge is about **34% lower than the citywide average** ([AreaVibes][7]).
+* Confirmed as one of the safer neighbourhoods by local perspectives ([Andrew Russell & Associates][6]).
+
+---
+
+## 🏘️ Rental Market & Pricing
+
+* Rental supply/demand specifics for Clearview Ridge are scarce. But in Red Deer generally, **townhouses and single‑family homes** are in demand among families.
+* Available townhouse listings: **C\$310 K–322 K** (approx. 2‑3 beds) ([Andrew Russell & Associates][6]). House listings range **C\$419 K–C\$854 K**, sizes 1,100–2,000 sq ft ([Zillow][8]).
+* **Average house price** across listing sample is around **C\$578,000** ([Shantel Campbell][9]).
+* Average rent levels in Red Deer vary; though specific rental speed in Clearview Ridge isn’t reported, comparable-built townhomes likely rent in the **C\$1,500–2,200/month** range, depending on layout and finish.
+
+---
+
+## 🏠 Neighborhood Quality (A/B/C/D)
+
+* In investor grading terms, Clearview Ridge would likely be **A–/B+**: desirable, low-crime, newer builds, family-friendly amenities, but not ultra-high-end.
+
+---
+
+## 📈 Appreciation & Cash‑Flow Potential
+
+* Homes are fairly new, so short‑term appreciation may be moderate. Carrying cost and modest price growth in Red Deer suggest **steady but not explosive** capital gains.
+* Given relatively lower purchase prices (\~mid‑C\$500 K), strong rental yield potential exists if rentals rent well. Townhouse or small detached rental may achieve \~5–6% gross yield, depending on mortgage and expenses.
+* Long-term, appreciation tied to Red Deer’s modest growth; infrastructure addition or densification near transit could lift value.
+
+---
+
+## 💡 Investment Strategies
+
+1. **Buy a newer single‑family home** (\~C\$550 K–600 K), and rent to families—low capex, stable tenants.
+2. **Acquire a townhouse** (\~C\$310 K–\~C\$350 K), especially close to market square, for higher yield and ease of turnover.
+3. **Buy and hold**, expecting modest appreciation plus positive cash flow.
+4. **Renovate and resell**: less scope because most homes are new, but cosmetic upgrades may support resale at top‑end prices.
+5. **Group of investors**: develop small multi‑unit rental near commercial centre if allowed by zoning permissions.
+
+---
+
+## 📊 Summary Table
+
+| Topic               | Clearview Ridge Highlights                               |
+| ------------------- | -------------------------------------------------------- |
+| Amenities           | Parks, lake, pathways, retail, medical, schools nearby   |
+| Year built          | 2010s–early‑2020s                                        |
+| Housing types       | Detached single family, townhouses                       |
+| Zoning              | Mostly single‑family, some townhomes near centre         |
+| Crime rate          | \~34% below Red Deer average                             |
+| Population & growth | Red Deer \~101 K, flat growth post‑2016                  |
+| Average income      | Above city average (approx +3%)                          |
+| Average prices      | \~C\$578 K (detached), townhouses \~C\$310–325 K         |
+| Rentals demand      | Family rentals in demand; limited supply of newer homes  |
+| Rent estimates      | \~C\$1,500–2,200/month                                   |
+| Neighborhood grade  | A– / B+                                                  |
+| Investment strategy | Single-family rentals, townhome buys, hold for cash flow |
+
+---
+
+### ✅ Final Notes
+
+* **Data gaps**: precise population, income, rental rates at micro‑neighborhood level. You may obtain via City of Red Deer planning or Statistics Canada custom profiles.
+* Consider consulting Red Deer’s zoning maps or planning department to confirm **future densification**, infill or secondary suite allowances.
+
+Clearview Ridge offers a **modern, family‑oriented, relatively safe rental investment** opportunity with good cash‑flow potential and modest appreciation upside in a stable Alberta city.
+
+[1]: https://www.melcor.ca/residential/alberta/red-deer/clearview-ridge/?utm_source=chatgpt.com "Clearview Ridge"
+[2]: https://genstar.com/our_communities/clearmont/?utm_source=chatgpt.com "On the Clearview Ridge in Red Deer's Northeast"
+[3]: https://www.zillow.com/clearview-ridge-red-deer-ab/townhomes/?utm_source=chatgpt.com "Clearview Ridge Red Deer Townhomes - Zillow"
+[4]: https://en.wikipedia.org/wiki/Red_Deer%2C_Alberta?utm_source=chatgpt.com "Red Deer, Alberta"
+[5]: https://locallogic.co/insights/CA-AB/Red%20Deer/Clearview%20Ridge/?utm_source=chatgpt.com "Insights for Clearview Ridge"
+[6]: https://andrewrussell.ca/where-to-invest-in-real-estate-in-red-deer/?utm_source=chatgpt.com "Buy Investment? Where to Invest in Real Estate in Red Deer"
+[7]: https://www.areavibes.com/red%2Bdeer-ab/clearview%2Bridge/?utm_source=chatgpt.com "Clearview Ridge, Red Deer, AB Area Guide"
+[8]: https://www.zillow.com/clearview-ridge-red-deer-ab/?utm_source=chatgpt.com "Clearview Ridge Red Deer Real Estate & Homes For Sale"
+[9]: https://www.shantelcampbell.com/communities-red-deer/clearviewridge.html?utm_source=chatgpt.com "3 Clearview Ridge Homes For Sale Red Deer"
