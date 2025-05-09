@@ -268,3 +268,119 @@ Clearview Ridge offers a **modern, family‑oriented, relatively safe rental inv
 [7]: https://www.areavibes.com/red%2Bdeer-ab/clearview%2Bridge/?utm_source=chatgpt.com "Clearview Ridge, Red Deer, AB Area Guide"
 [8]: https://www.zillow.com/clearview-ridge-red-deer-ab/?utm_source=chatgpt.com "Clearview Ridge Red Deer Real Estate & Homes For Sale"
 [9]: https://www.shantelcampbell.com/communities-red-deer/clearviewridge.html?utm_source=chatgpt.com "3 Clearview Ridge Homes For Sale Red Deer"
+
+
+# **Timberlands**
+
+Here’s an investor‑oriented profile of **Timberlands**, a residential community on the east side of Red Deer, AB, based on the latest publicly available data:
+
+---
+
+## 📍 Amenities & Attractions
+
+Timberlands offers numerous amenities: parks, playgrounds, walking trails, and natural landscapes. The neighbourhood provides **walkable access to shops, restaurants, a branch library**, transit routes, and schools. It's also well-connected to downtown Red Deer and Highway 11/67th Street ([reddeerland.ca][1]).
+
+---
+
+## 🏘️ Housing Stock & Common Types
+
+Developed mostly in the **mid‑to‑late 2010s and early 2020s**, Timberlands features a **diverse mix**: detached single-family homes, semi‑detached, carriage‑style homes, and low-rise townhouses. Different lot sizes (standard, park‑side, wide/shallow) support this variety ([reddeerland.ca][1]).
+
+---
+
+## ⚖️ Zoning & Density
+
+Zoning supports typical low‑density residential (single‑family, semi‑detached), with townhouse/row‑house allowed in specific sections. There’s **no allowance for high‑density multi‑unit on standard lots**, but townhouses or carriage homes are permitted on select parcels ([reddeerland.ca][1]).
+
+---
+
+## 👥 Population & Growth
+
+While neighbourhood-level totals are scarce, the **2019 Red Deer municipal census** reported **\~823 new residents** added to Timberlands/Stone/Ridge/College Park combined, marking one of the fastest-growing zones in the city ([City of Red Deer][2]). The city population topped **101,000** in 2019 and has been growing gradually since ([Wikipedia][3]). Timberlands has about **35% greater density** than the rest of Red Deer and a **median age 16% lower** than the city average ([AreaVibes][4]).
+
+---
+
+## 💵 Income
+
+Red Deer’s median family income is around **CAD 104,000**, above the Alberta average of **\~96,000** ([Alberta Regional Dashboard][5]). Timberlands—being newer and family‑oriented—is likely among the higher‑income brackets of the city, although no precise micro-level data is available.
+
+---
+
+## 🔒 Crime Rate
+
+Timberlands registers a **crime rate \~34% below Red Deer average**, with violent crime also significantly lower. It earns a livability score of **≈69/100** ([AreaVibes][6]).
+
+---
+
+## 📈 Real Estate Prices & Types
+
+* As of early August 2025, there are \~6 listings in Timberlands: **average maximum price \~CAD 799,900; average price \~699,083**; lowest around CAD 529,900 ([stevezacher.com][7]).
+* Detached homes dominate; some semi‑detached also present.
+
+---
+
+## 📊 Rental Supply & Demand & Average Rents
+
+Specific rental supply/demand numbers for Timberlands are not publicly reported. However:
+
+* Newer detached and semi‑detached homes appeal to families, suggesting steady rental demand.
+* Citywide detacheds rent typically from **CAD 1,800–2,500/month**; townhouses slightly lower. Expect Timberlands rates in **CAD 1,800–2,300/month** subject to size and finish.
+
+---
+
+## 🧾 Neighborhood Grade
+
+In investor grading terms, Timberlands ranks as a **B+** (family-friendly, modern, safe, above-average incomes and amenities).
+
+---
+
+## 📈 Appreciation vs. Cash Flow Potential
+
+* Since development is recent (2015+), early price appreciation has largely occurred. Going forward, **moderate growth** is likely tied to Red Deer’s modest but stable population and economic expansion.
+* Given typical purchase prices (\~CAD 700K) and expected rent, gross rental yields may range from **\~4–5%**, with potential closer to **5.5%** from smaller detached or semi units after financing and expenses.
+
+---
+
+## 💡 Investment Strategies
+
+1. **Buy new/small detached or semi‑detached** (\~CAD 650K–750K), rent to families. Lower maintenance and high desirability.
+2. **Acquire a semi‑detached or carriage‑style unit** near transit or amenities for better cash flow.
+3. **Long‑term buy‑and‑hold** strategy: steady tenants, modest appreciation, minimal capex.
+4. **Joint or builder partnership**: develop small carriage‑home clusters or townhomes (where allowed) to optimize density on select lots.
+
+---
+
+## 📋 Summary Table
+
+| Topic                    | Timberlands Highlights                                         |
+| ------------------------ | -------------------------------------------------------------- |
+| Amenities                | Parks, trails, shops, library, transit, schools                |
+| Year built               | Mid‑2010s to early 2020s                                       |
+| Housing types            | Detached, semi‑detached, carriage homes, low‑rise townhouses   |
+| Zoning                   | Low‑density mostly; some townhouses allowed                    |
+| Population & growth      | Fastest-growing zone in 2019; denser & younger median age zone |
+| Income                   | Likely above Red Deer average (\~CAD 104K median family)       |
+| Crime rate               | \~34% below city average                                       |
+| Average prices           | \~CAD 699K average (range \~530K–800K)                         |
+| Rental demand            | Family rentals high; supply limited                            |
+| Expected rent (estimate) | CAD 1,800–2,300/month                                          |
+| Neighborhood grade       | B+ (strong fundamentals)                                       |
+| Investment thesis        | Buy for stable returns, solid tenants, modest appreciation     |
+
+---
+
+### ✅ Notes & Considerations
+
+* **Zoning details** and future densification (e.g. infill allowances, secondary suite permissions) require consulting **City of Red Deer zoning bylaws or planning office**.
+* **Detailed rental statistics**, incomes, and demographics at micro neighbourhood level would require municipal or Statistics Canada custom data.
+
+Timberlands presents a **solid mid-tier investment**: safe, amenity-rich, modern housing stock with stable tenants and reasonable growth prospects.
+
+[1]: https://www.reddeerland.ca/residential/timberlands/?utm_source=chatgpt.com "Timberlands North, a new Red Deer AB neighbourhood"
+[2]: https://www.reddeer.ca/media/reddeerca/about-red-deer/statistics-and-demographics/2019-Municipal-Census-Report.pdf?utm_source=chatgpt.com "2019 Municipal Census Report"
+[3]: https://en.wikipedia.org/wiki/Red_Deer%2C_Alberta?utm_source=chatgpt.com "Red Deer, Alberta"
+[4]: https://www.areavibes.com/red%2Bdeer-ab/timberlands/demographics/?utm_source=chatgpt.com "Timberlands, Alberta Population & Demographics"
+[5]: https://regionaldashboard.alberta.ca/region/red-deer/?utm_source=chatgpt.com "Red Deer - Alberta Regional Dashboard"
+[6]: https://www.areavibes.com/red%2Bdeer-ab/timberlands/?utm_source=chatgpt.com "Timberlands, AB Area Guide - Red Deer"
+[7]: https://www.stevezacher.com/communities-ruralgrandeprairieno.1%2Ccountyof/timberlands.html?price=high&utm_source=chatgpt.com "5 Timberlands Homes For Sale Red Deer"
+
