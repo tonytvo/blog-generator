@@ -384,3 +384,123 @@ Timberlands presents a **solid mid-tier investment**: safe, amenity-rich, modern
 [6]: https://www.areavibes.com/red%2Bdeer-ab/timberlands/?utm_source=chatgpt.com "Timberlands, AB Area Guide - Red Deer"
 [7]: https://www.stevezacher.com/communities-ruralgrandeprairieno.1%2Ccountyof/timberlands.html?price=high&utm_source=chatgpt.com "5 Timberlands Homes For Sale Red Deer"
 
+# **Westlake**
+
+Here’s a strategically tailored investment profile for **Westlake**, a residential neighbourhood on the west side of Red Deer, AB — based on verified data sources as of mid‑2025:
+
+---
+
+## 📍 Nearby Amenities & Attractions
+
+Westlake offers strong connectivity with a high **walk score (\~81/100)**, indicating walkability to parks, elementary schools, transit access, and local services ([Sean Gillis][1]).
+Major draws include nearby **Heritage Ranch trail system**, Red Deer Polytechnic, and access via Highway 2. Commercial convenience is moderate by foot—more amenities are accessible by short drives (grocery, shops, restaurants) ([Royal LePage][2], [Sean Gillis][1]).
+
+---
+
+## 🏘️ Typical Build Era & Housing Types
+
+* Housing development accelerated **after 2000**, with most homes built in the 2000s and early 2010s ([Royal LePage][2]).
+* About **85% of dwellings are single-family detached homes**, with the remainder primarily duplexes and a small number of low-density condos ([Royal LePage][2]).
+
+---
+
+## ⚖️ Zoning & Density Regulations
+
+* Zoning is largely **low-density residential**, permitting one dwelling per lot. Duplexes are allowed in limited zones.
+* There’s no broad allowance for multi‑unit buildings on standard lots—investors would need to pursue specific zoning exceptions or parcels designated for duplex style. Westlake does not support high-density infill by right.
+
+---
+
+## 👥 Population & Growth
+
+* Citywide, Red Deer’s population was **100,844 in the 2021 Census**, up slightly from \~100,418 in 2016; municipal estimates put it at \~101,002 in 2019 ([Sean Gillis][1], [Curtis Atkinson][3], [Wikipedia][4]).
+* No standalone numbers for Westlake exist, but it is known as a stable, established area with moderate growth since the mid‑2000s.
+
+---
+
+## 💵 Income Levels
+
+* Westlake residents report a **median household income of approx CAD 153,387**, notably higher than the city average (\~CAD 104K) ([Andrew Russell & Associates][5]).
+* Despite cost of living about 4% above average, income levels place Westlake among Red Deer’s stronger middle-income communities.
+
+---
+
+## 🔒 Crime Rate & Livability
+
+* Crime in Westlake is approximately **48% below the Red Deer average**, including violent crimes ([Andrew Russell & Associates][5]).
+* The neighborhood livability score stands at around **57/100**, and is considered one of the safer, more family‑oriented areas in the city ([Andrew Russell & Associates][5]).
+
+---
+
+## 🏠 Real Estate Prices (Current Market)
+
+* Current listings show detached homes priced between approx **CAD 429K and CAD 789K**, averaging around CAD 540–700K depending on lot size and features ([Royal LePage][2]).
+* Typical models include bi-level homes with 3–5 bedrooms and double‑garage configurations.
+
+---
+
+## 📊 Rental Market: Supply, Demand & Rates
+
+* Rental data for Westlake show around **22 apartment units listed recently**, with a **median rent of approx CAD 1,375/month** ([Zumper - Apartments for Rent & Houses][6]).
+
+  * Breakdown: \~68% of units were priced under CAD 1,500; some higher-range units (up to CAD 2,250+) exist ([Zillow][7], [Zumper - Apartments for Rent & Houses][6]).
+* Although single-family homes dominate owner-occupancy (about 90%), rental demand exists in apartments and duplexes. Family-sized homes likely in demand if available for rent.
+
+---
+
+## 🧾 Neighborhood Grade
+
+Investment-wise, Westlake aligns as a **B+**: solid safety record, high-income households, good amenities, and strong community appeal — though not luxury-tier.
+
+---
+
+## 📈 Appreciation & Cash Flow Potential
+
+* Appreciation potential is **moderate**: most development is post‑2000; major price inflation has already occurred. Future gains depend on incremental city growth, infrastructure, or infill zoning changes.
+* Given purchase prices in the mid‑CAD 500–700K range and modest median rent (\~CAD 1,375/month for apartments), **gross rental yields are lower** (≈2.5–3% for apartments, potentially higher \~4–5% if renting detached homes post-renovation and aligning rents to size, amenities).
+* Detached or duplex rental opportunities may yield better returns if purchased under market.
+
+---
+
+## 💡 Investment Strategies for Westlake
+
+1. **Buy duplex units or convert legal duplex lots** (if permitted) to maximize occupancy and rental yield.
+2. **Acquire mispriced single‑family homes**, renovate/upfit, then rent out — ideal for family rentals.
+3. **Short-term hold with cosmetic upgrades**, then resell at premium once complete.
+4. **Monitor zoning updates or infill rezoning plans**, which may allow higher density or secondary suites in future.
+5. **Apartment or condo acquisition** (though supply is limited), renting at median rates or above.
+
+---
+
+## 📋 Summary Table
+
+| Topic              | Westlake Highlights                                  |
+| ------------------ | ---------------------------------------------------- |
+| Amenities          | Trails, schools, transit, walkable internal services |
+| Year built         | Mostly post‑2000, peaked early 2010s                 |
+| Housing types      | \~85% detached houses; remainder duplex/condo        |
+| Zoning             | Low‑density; duplex allowed; no multi‑unit per lot   |
+| Crime rate         | \~48% below city average                             |
+| Income             | Median household \~CAD 153K                          |
+| Average prices     | \~CAD 429K–789K (detached)                           |
+| Rental demand      | High demand for family-sized homes; limited supply   |
+| Average rent       | Apartments median \~CAD 1,375/month                  |
+| Neighborhood grade | B+                                                   |
+| Investment thesis  | Duplex conversion, family rentals, infill monitoring |
+
+---
+
+### ✅ Final Notes
+
+* For **zoning specifics** (e.g., duplex permissions, secondary suite bylaw), refer to the **City of Red Deer zoning map/bylaw documents**.
+* Micro-data (population, exact demographics) may require municipal custom data or Statistics Canada custom tabulations.
+
+Westlake offers a **dependable, low-risk investment venue**—especially for family rental models, duplex dwellings, or infill opportunities—with strong demographic fundamentals and a stable market position.
+
+[1]: https://www.seangillis.ca/westlakereddeer.html?utm_source=chatgpt.com "Westlake Community Information & Housing Market Trends"
+[2]: https://www.royallepage.ca/en/ab/red-deer/westlake/properties/?utm_source=chatgpt.com "Westlake, Red Deer, Alberta Real Estate and Homes For ..."
+[3]: https://www.curtisatkinson.ca/reviews/westlakereddeer.html?utm_source=chatgpt.com "Westlake Community Reviews - Red Deer"
+[4]: https://en.wikipedia.org/wiki/Red_Deer%2C_Alberta?utm_source=chatgpt.com "Red Deer, Alberta"
+[5]: https://andrewrussell.ca/safest-neighborhoods-in-red-deer/?utm_source=chatgpt.com "Top 5 Safest Neighborhoods in Red Deer - Andrew Russell"
+[6]: https://www.zumper.com/apartments-for-rent/red-deer-ab/westlake?utm_source=chatgpt.com "Apartments for Rent in Westlake, Red Deer, AB - 25 Rentals"
+[7]: https://www.zillow.com/westlake-red-deer-ab/apartments/?utm_source=chatgpt.com "Apartments For Rent in Westlake Red Deer - 30 Rentals"
