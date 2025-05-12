@@ -273,6 +273,307 @@ One neighbourhood market reference:
 
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/GarneauDemographicProfile.pdf
 
+[![Garneau, Edmonton | Neighbourhood Profile and Listings](https://tse1.mm.bing.net/th/id/OIP.3CC-MiGmB7aDRCfRHxGt8gHaFj?pid=Api)](https://www.gimme-shelter.com/garneau-edmonton-60008/?utm_source=chatgpt.com)
+
+Below is a **real-estate investor–focused** outline for **Garneau (Edmonton)** (just south of the river, **next to the University of Alberta** and **Old Strathcona/Whyte Ave**).
+
+---
+
+## 1) Nearby amenities & attractions (the “why tenants pay” factor)
+
+**Garneau’s core advantage:** *University adjacency + Whyte Ave lifestyle + transit/walkability.*
+
+* **University of Alberta campus + student/medical ecosystem**
+
+  * High and consistent renter demand because you’re adjacent to a major university and the “institutional employment hub” that comes with it.
+* **Whyte Avenue / Old Strathcona (82 Ave)**
+
+  * One of Edmonton’s strongest entertainment/retail corridors (restaurants, bars, cafes, festivals, boutique retail). (Whyte Ave context)
+* **109 Street + 112 Street commercial strips**
+
+  * The City profile explicitly notes significant commercial businesses along **109 St, Whyte Ave, and 112 St**. ([City of Edmonton][1])
+* **Garneau Theatre + local cultural nodes**
+
+  * Neighbourhood has recognizable cultural anchors and student-oriented amenities (theatre, cafes, etc.). ([Wikipedia][2])
+* **Transit & car-light living**
+
+  * Garneau has high shares of walking/transit/bike commuting in the City profile (useful for tenant appeal and parking premiums). ([City of Edmonton][1])
+
+**Investor takeaway:** Garneau is a **“location moat” neighbourhood**: proximity-to-UofA + Whyte is hard to replicate.
+
+---
+
+## 2) When houses were commonly built (construction-era concentration)
+
+Garneau’s stock is heavily mid-century to late 20th century, with meaningful older inventory.
+
+From the City of Edmonton Garneau Neighbourhood Profile (2011 census-based):
+
+* **1961–1980: ~42% of units**
+* **1960 or before: ~19%**
+* **1981–1990: ~16%**
+* **1991–2000: ~14%** ([City of Edmonton][1])
+
+**Investor implication:**
+
+* Lots of **older condo towers + walk-up apartments** ⇒ watch for **envelope, windows, balconies, elevator, parkade membrane** risks and special assessments.
+* Older houses that remain can be **character homes** (and may be inside “special character” policy/zones).
+
+---
+
+## 3) Common building types (what you’ll actually buy)
+
+Garneau is **apartment-dominant**.
+
+Residential units by structure type (City profile):
+
+* **Apartment (5+ stories): 62%**
+* **Apartment (<5 stories): 24%**
+* **Single detached: 8%**
+* **Semi-detached/duplex: 6%**
+* Row housing is negligible in count. ([City of Edmonton][1])
+
+**Investor takeaway:** Garneau is primarily a **condo / apartment** market with some **rare detached/duplex pockets** (often expensive due to land value + location).
+
+---
+
+## 4) Zoning regulations & “more units per lot” potential
+
+Garneau is one of those inner-city neighbourhoods where **zoning varies block-by-block**, but two pieces matter a lot for investors:
+
+### A) **DC1 – “Garneau Special Character Residential Area”**
+
+The City’s DC1 description explicitly says this district is intended to:
+
+* **encourage retention/rehabilitation** of older detached character housing **while allowing infill redevelopment**. ([Webdocs Edmonton][3])
+
+It also lists permitted/considered uses including (high-level):
+
+* Single detached, semi-detached
+* Duplex (including discretionary cases)
+* Row housing (up to 4 dwellings in certain forms)
+* **Apartment housing containing not more than 4 dwellings**
+* Boarding/lodging houses, etc. ([Webdocs Edmonton][3])
+
+**What that means:** In some “special character” pockets, you can add density, but it’s typically **small-scale / form-sensitive**.
+
+### B) **RA7 – Low Rise Apartment Zone (common near core areas)**
+
+RA7’s general purpose is to provide a zone for **low-rise multi-unit housing**. ([Webdocs Edmonton][4])
+The City’s “Summary of Land Use Zones” describes RA7 as allowing **low-rise apartments up to four storeys**. ([City of Edmonton][5])
+
+**Does zoning allow more units per lot?**
+
+* **Yes—on the right parcels.** If your site is RA7 (or similar multi-unit zones), “more units” is the point.
+* In DC1 special character areas, you may be capped to **low-unit-count forms** (often max 4 dwellings in the DC1 language shown) and must match character/streetscape criteria. ([Webdocs Edmonton][3])
+
+**Investor move:** If “more units per lot” is your strategy, prioritize **RA7/RA8/RA9/mixed-use edges** (where the zoning intends density), and treat DC1 character pockets as **higher-friction, design-constrained** infill.
+
+---
+
+## 5) Population & population growth
+
+Two official snapshots show Garneau is **stable** (not exploding like new suburbs):
+
+* **2011 census-based profile population: 7,055** ([City of Edmonton][1])
+* **2019 municipal census population: 7,108** ([City of Edmonton][6])
+
+**Growth (2011 → 2019):** basically **flat to slightly up**.
+
+**Interpretation:** Demand strength here is less about population growth and more about:
+
+* UofA-driven renter churn,
+* lifestyle desirability,
+* limited ability to add “cheap land” supply.
+
+---
+
+## 6) Average income in the area (tenant quality + rent ceiling)
+
+From the City’s Garneau profile (2010 household income):
+
+* **Median household income: $42,492**
+* **Average household income: $62,197** ([City of Edmonton][1])
+
+**Investor interpretation (important nuance):**
+
+* Garneau is **student-heavy**, and the profile also shows **very high renter share** (next section). Student-heavy areas often show lower median household income even when rents are strong, because many renters have **support from family/loans** or are **temporary residents**.
+
+---
+
+## 7) Crime rate (what you must underwrite)
+
+I’m not going to invent a “crime rate number” without pulling an exact period/category table.
+
+What you should use:
+
+* **Edmonton Police Service Neighbourhood Crime Mapping / Community Safety Data Portal** (lets you filter to Garneau and by offence type/time window). ([Edmonton Police Service][7])
+
+**Investor reality check:**
+
+* Garneau/Whyte/UofA-adjacent areas can have more **property crime/nuisance incidents** than suburban family neighbourhoods (bike theft, break-ins, disorder calls).
+* Your mitigation tools: **secure entry, cameras, lighting, bike storage, tenant screening, pro management**.
+
+---
+
+## 8) Rental supply/demand (who rents here and why)
+
+Garneau is **deeply renter-oriented**:
+
+Occupied private dwellings by tenure:
+
+* **Renter occupied: 75%**
+* **Owner occupied: 25%** ([City of Edmonton][1])
+
+**Demand drivers**
+
+* Students, grad students, young professionals, hospital/university staff
+* “I want to walk/transit” renters (33% walked; 18% transit in the commuting split) ([City of Edmonton][1])
+
+**Supply reality**
+
+* Because it’s apartment-heavy, you face **competition** from many similar units.
+* However, “good units in good buildings” lease quickly, especially near semester cycles.
+
+---
+
+## 9) Average rents (city benchmark + Garneau reality)
+
+### City-wide benchmark (Edmonton CMA, CMHC – October surveys)
+
+CMHC historical average rents (purpose-built rental market) show:
+
+* **Oct 2024:** Studio ~$1,050; 1BR ~$1,237; 2BR ~$1,529; 3BR+ ~$1,701
+* **Oct 2025:** Studio ~$1,108; 1BR ~$1,301; 2BR ~$1,598; 3BR+ ~$1,802 ([CMHC][8])
+
+### Garneau listings reality (market asking rents)
+
+RentFaster’s Garneau area page shows current listings (examples vary widely by building/finish), including new-build multi-unit offerings in the neighbourhood. ([RentFaster.ca][9])
+
+**Investor takeaway:** Garneau often rents **at/above city averages** for comparable units, but the spread is huge:
+
+* Older walk-ups = lower rent ceiling but can cashflow better if bought right.
+* Newer concrete/amenity buildings = higher rents but often tighter cashflow vs price/fees.
+
+---
+
+## 10) Neighbourhood grade (A / B / C / D)
+
+**Garneau grade: A- (rental demand) / B+ (overall investor grade)**
+
+**Why it’s strong (A-ish):**
+
+* Major university adjacency + Whyte Ave + walkability = persistent renter demand.
+* Location moat.
+
+**Why it’s not pure A across the board:**
+
+* Some buildings/blocks carry higher nuisance/property-crime management load (verify via EPS portal). ([communitysafetydataportal.edmontonpolice.ca][10])
+* Condo towers can hide **fee/special assessment** landmines.
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**Typical pattern in Garneau:**
+
+* **Appreciation prospects (good):** inner-city land value + irreplaceable location near UofA/Whyte tends to support long-run desirability.
+* **Cashflow (mixed to challenging):** prime locations usually mean **higher purchase prices** and (for condos) **higher fees**, compressing cap rates.
+
+**Where returns come from in Garneau**
+
+* Not just “market rent”: it’s usually a combo of:
+
+  * buying the *right building* (fees/reserve fund discipline),
+  * renovation value-add,
+  * furnished/mid-term niche,
+  * small multifamily/infill where zoning supports it.
+
+---
+
+## 12) Average house prices (what you’ll pay)
+
+Because Garneau is apartment-heavy, a single “average” can be misleading—still, here’s a useful reference point:
+
+* **Average HonestDoor Price (Garneau): ~ $688k** (blended across housing types) ([HonestDoor][11])
+
+**How to underwrite smarter:**
+
+* Split comps into:
+
+  1. **Condos (1BR/2BR)**
+  2. **Low-rise rental buildings / small multifamily**
+  3. **Detached/duplex (rare, land-value driven)**
+* Don’t let a blended “average” anchor your valuation.
+
+---
+
+## 13) Strategies that work in Garneau (practical investor playbook)
+
+### A) **Student + university workforce rentals (bread-and-butter)**
+
+Best for:
+
+* 1BR/2BR condos or walk-ups near UofA/Whyte
+  Keys:
+* Time leasing around academic cycles
+* Offer **fast internet, secure bike storage, in-suite laundry** if possible
+
+### B) **Furnished mid-term rentals (30–180 days)**
+
+Tenant pools:
+
+* visiting faculty, medical rotations, relocations
+  Works because:
+* Garneau is a “walkable lifestyle” node
+  Risk:
+* higher ops complexity + furnishing costs
+
+### C) **Value-add condo: cosmetic renovation + tenant profile upgrade**
+
+Works best when you:
+
+* buy older units in buildings with healthy reserves,
+* renovate kitchens/baths/lighting/flooring to compete vs new supply
+  Major risk:
+* special assessments / fee inflation (this is where investors get burned)
+
+### D) **Small-scale infill in “special character” pockets (DC1)**
+
+The DC1 intent is **character-sensitive infill**; you can do it, but expect:
+
+* design constraints,
+* max-dwelling limits in certain DC1 language (e.g., “apartment housing… not more than 4 dwellings” in that DC1 description). ([Webdocs Edmonton][3])
+
+### E) **Higher-density plays on multi-unit zoning parcels (RA7 etc.)**
+
+If you can secure a parcel already aligned with multi-unit zoning:
+
+* **low-rise multi-unit** is the intent of RA7, and can be up to **4 storeys** per the City zone summary. ([Webdocs Edmonton][4])
+  This is the cleaner “more units per lot” path than trying to force it on constrained interior lots.
+
+### F) **House-hack (rare, but powerful if you find it)**
+
+If you can buy a duplex/older detached with legal suite potential (on the right parcel):
+
+* live in one unit, rent the other(s)
+  But: inventory is limited, and regulations depend on the exact zoning/overlay of that specific site.
+
+---
+
+[1]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FGarneauDemographicProfile.pdf "Garneau Neighbourhood Profile"
+[2]: https://en.wikipedia.org/wiki/Garneau%2C_Edmonton?utm_source=chatgpt.com "Garneau, Edmonton"
+[3]: https://webdocs.edmonton.ca/zoningbylaw/dc1/Garneau/Garneau_ARP.htm "Special Character Residential Area"
+[4]: https://webdocs.edmonton.ca/zoningbylaw/ZoningBylaw/Part2/Residential/210_%28RA7%29_Low_Rise_Apartment_Zone.htm?utm_source=chatgpt.com "210 (RA7) Low Rise Apartment Zone"
+[5]: https://www.edmonton.ca/residential_neighbourhoods/documents/PDF/CoE_SummaryofLandUseZones_WEB.pdf?utm_source=chatgpt.com "A General Summary of Land Use Zones"
+[6]: https://www.edmonton.ca/sites/default/files/public-files/assets/census/2019_Census_Summary-Report_GARNEAU.pdf?cb=1661245022 "Census 2019 Data - GARNEAU"
+[7]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[8]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0340&GeographyType=MetropolitanMajorArea&RowField=TIMESERIES&utm_source=chatgpt.com "Edmonton — Historical Average Rents by Bedroom Type - CMHC"
+[9]: https://www.rentfaster.ca/ab/edmonton/rentals/garneau/?utm_source=chatgpt.com "Garneau Apartments & Houses for Rent in Edmonton, AB"
+[10]: https://communitysafetydataportal.edmontonpolice.ca/?utm_source=chatgpt.com "Community Safety Data Portal - Edmonton Police Service"
+[11]: https://www.honestdoor.com/cities/ab/edmonton/garneau?utm_source=chatgpt.com "Garneau, Edmonton Real Estate"
+
+
 # Westmount
 
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/WestmountDemographicProfile.pdf
