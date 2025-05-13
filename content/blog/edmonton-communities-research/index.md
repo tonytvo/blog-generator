@@ -578,6 +578,250 @@ If you can buy a duplex/older detached with legal suite potential (on the right 
 
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/WestmountDemographicProfile.pdf
 
+Below is a **real-estate investor–style deep outline** for **Westmount (Edmonton)** (central-west, just NW of Downtown). I’m optimizing this for *buy box decisions*: tenant demand, zoning upside, and what strategies realistically pencil.
+
+---
+
+## 1) Nearby amenities & attractions (what drives demand)
+
+**Lifestyle + transitability is the core demand driver here.**
+
+* **124 Street / 124th Street BRZ spine** (cafes, boutiques, services) runs through the neighbourhood and is a big “walkable premium” factor. ([City of Edmonton][1])
+* **River Valley / Groat Ravine adjacency**: quick access to trails and green space; strong quality-of-life pull for professionals. ([Wikipedia][2])
+* **Brewery District (nearby)**: retail, services, and employment nodes nearby (spillover rental demand).
+* **Parks & community amenities**: Westmount Park + community league programming adds “family + community” stability. ([Westmount CL][3])
+* **Downtown proximity**: short commute and transit options; this materially supports **rental liquidity** (easier to tenant). ([City of Edmonton][1])
+
+**Investor takeaway:** Westmount demand is driven by **(1) downtown adjacency + (2) 124 Street amenities + (3) mature neighbourhood character**.
+
+---
+
+## 2) When homes were commonly built (age = capex reality)
+
+From the City of Edmonton neighbourhood profile (2011 Census-era data):
+
+* **1960 or earlier: ~43%** of units
+* **1961–1980: ~23%**
+* **1981–1990: ~14%**
+* **2001–2005: ~13%**
+* **2006–2011: ~2%** ([City of Edmonton][1])
+
+Also: Westmount’s low-density housing stock was largely built **pre-1950**, while apartment development is more recent and now a large share of dwellings. ([City of Edmonton][1])
+
+**Investor takeaway:** expect **older mechanicals** (sewers, electrical, envelopes) on detached/duplex stock; underwrite **higher repair reserves** and plan for **value-add renos**.
+
+---
+
+## 3) Common building types (what you’ll actually buy)
+
+Residential units by structure type (2011 Census-era):
+
+* **Apartments (<5 storeys): ~52%**
+* **Single-detached: ~38%**
+* **Semi-detached/duplex: ~6%**
+* **Apartments (5+ storeys): ~3%**
+* **Rowhouse: ~1%** ([City of Edmonton][1])
+
+Tenure split:
+
+* **Owner occupied: ~57%**
+* **Renter occupied: ~43%** ([City of Edmonton][1])
+
+**Investor takeaway:** This is a **renter-active** area with **lots of low-rise apartments** (great for condo rentals / small multi), plus a meaningful pool of character single-family properties.
+
+---
+
+## 4) Zoning & “does it allow more units per lot?”
+
+### Big update: Edmonton’s **new zoning bylaw took effect Jan 2024**
+
+The City’s Zoning Bylaw Renewal indicates the **new bylaw came into effect in January 2024**. ([City of Edmonton][4])
+
+### What this means in practice (high-level)
+
+* **RS (Small Scale Residential Zone)** purpose explicitly includes **“detached, attached, and multi-unit Residential housing”** up to **3 storeys**. ([zoningbylaw.edmonton.ca][5])
+* Westmount also has corridors/edges where mid-rise forms are typical (historically apartments cluster near **124 Street/major routes**). ([City of Edmonton][1])
+* **RM (Medium Scale Residential Zone)** purpose supports **multi-unit** forms typically **~4–8 storeys** (generally more “corridor/node” oriented). ([zoningbylaw.edmonton.ca][6])
+
+**Does zoning allow more units per lot?**
+
+* In many Edmonton mature areas, **yes—more flexibility** exists than “pure single detached only,” especially under the post-2024 framework (RS intent includes multi-unit housing). ([zoningbylaw.edmonton.ca][5])
+* **But** what you can build depends on the exact parcel’s zone + overlays + site conditions. (In Westmount, you’ll see a mix: interior blocks vs 124 Street corridor behave very differently.)
+
+**Investor takeaway (actionable):**
+
+* For any target property, do a quick zoning check on the City map and confirm: **zone, max height, site coverage/FAR rules, parking rules, and whether “multi-unit/backyard housing/secondary suite” is permitted** under that exact zone.
+
+---
+
+## 5) Population & growth (demand stability)
+
+* **2011 (Census-era profile): 5,925** people ([City of Edmonton][1])
+* **2019 municipal census: 5,949** people ([City of Edmonton][7])
+
+**Growth read:** basically **flat to slightly up** from 2011 → 2019 (+24 people, ~+0.4%).
+**Investor takeaway:** demand is less about population growth and more about **location-driven churn** (professionals, renters, downsizers).
+
+---
+
+## 6) Average income (rent ceiling + tenant quality proxy)
+
+2010 household income (2011 Census-era profile):
+
+* **Median household income: $62,150 – $72,248**
+* **Average household income: $85,599 – $90,340** ([City of Edmonton][1])
+
+**Investor takeaway:** incomes are solid enough for **mid-market rents**, but Westmount is not “ultra high-income only.” Think: professionals, students/young adults, downsizers, service workers—wide tenant spectrum.
+
+---
+
+## 7) Crime rate (how to underwrite it correctly)
+
+Edmonton Police Service provides a **Community Safety Data Portal / Neighbourhood Crime Mapping** tool for neighbourhood-level stats and trends. ([Edmonton Police Service][8])
+
+**Investor underwriting approach (practical):**
+
+* Pull Westmount’s incidents for the last **12–24 months** and compare to adjacent neighbourhoods (Glenora, Oliver, etc.).
+* Focus on **property crime vs violent crime** and whether incidents cluster on **arterials/commercial corridors** (often they do).
+
+---
+
+## 8) Rental supply & demand (what you’re competing with)
+
+Supply signals:
+
+* Westmount is **apartment-heavy** (about **55% apartments** when combining <5 and 5+ storeys). ([City of Edmonton][1])
+* **Renter occupied: ~43%**—this is a real rental neighbourhood, not a “mostly owners” suburb. ([City of Edmonton][1])
+
+City-wide demand context (useful for vacancy/market tightness):
+
+* CMHC’s 2025 rental market report shows **Edmonton purpose-built vacancy ~3.8%** and **average 2-bedroom rent ~$1,603** (purpose-built). ([Canada Mortgage and Housing Corporation][9])
+
+**Investor takeaway:**
+
+* Expect **consistent tenant demand** due to location.
+* Expect **competition** (lots of units), so winning is about **renovation quality + unit layout + parking/laundry + professional management**.
+
+---
+
+## 9) Average rents (what to underwrite)
+
+**Neighbourhood-specific “average rent” is hard without a paid dataset**, but you can anchor to credible city-wide sources + adjust for Westmount’s location.
+
+* CMHC (Edmonton, purpose-built): **Avg 2-bed ~$1,603** (2025). ([Canada Mortgage and Housing Corporation][9])
+* For “asking rents,” private platforms vary widely based on condition and whether it’s condo vs purpose-built vs basement suite. (Treat these as **market checks**, not gospel.)
+
+**Practical underwriting range for Westmount (rule-of-thumb):**
+
+* **Older walk-up apartments:** lower end unless renovated
+* **Renovated units / condos / parking included:** mid-to-upper end
+* **Single family / duplex:** often rents better per unit, but cashflow depends heavily on purchase price + capex
+
+---
+
+## 10) Neighbourhood grade (A, B, C, D)
+
+**Westmount: B / B+ (investor grade)**
+
+Why not A:
+
+* Higher rental competition + some corridor-driven issues (noise/traffic, some crime exposure near arterials).
+  Why not C:
+* Location + amenities + long-term land value are strong; rental liquidity is typically good.
+
+---
+
+## 11) Long-term appreciation vs current cashflow (the real tradeoff here)
+
+**Westmount is usually a “land value + location” play more than a “high cap-rate” play.**
+
+* **Appreciation drivers:** central location, mature neighbourhood desirability, corridor redevelopment, zoning flexibility, and scarcity of walkable mature areas.
+* **Cashflow headwinds:** higher entry prices for character homes + capex on older stock + rental competition from apartments.
+
+**Investor takeaway:** If you need strong cashflow *today*, you must either:
+
+* buy “ugly” (renovation discount), or
+* buy a configuration that **adds units** (suite/infill), or
+* target **smaller multifamily**/condos with realistic HOA math.
+
+---
+
+## 12) Average house prices (use as directional, not absolute)
+
+One public snapshot (HonestDoor) shows:
+
+* **Average “HonestDoor price” in Westmount ~ $657,382 (current month)** ([HonestDoor][10])
+
+Important caveat: this is an aggregated estimate across property types and models—use it as a **temperature check**, then validate with:
+
+* sold comps by property type (detached vs condo vs duplex),
+* micro-location (near 124 St vs interior),
+* condition/lot size.
+
+---
+
+## 13) Strategies that can work in Westmount (ranked by “fit”)
+
+### A) **Value-add renovation (classic “mature neighbourhood” play)**
+
+Best for: older detached/duplex stock
+
+* Renovate kitchens/baths, improve layouts, add in-suite laundry, modernize mechanicals.
+* Works because Westmount tenants value **location + quality**.
+
+### B) **Secondary suite / legal suite / multi-unit conversion**
+
+Best for: properties where zoning + layout support it
+
+* Converts an appreciation-focused asset into something that **cashflows**.
+* Underwrite **permitting + fire separation + parking** carefully.
+
+### C) **Infill / small-scale redevelopment (zoning optionality)**
+
+Best for: good lots, corner lots, or sites near corridors
+
+* The post-2024 zoning intent (RS includes multi-unit housing) increases “option value.” ([zoningbylaw.edmonton.ca][5])
+* This is where Westmount can become a “developer-lite” neighbourhood if you know what you’re doing.
+
+### D) **Condo/low-rise apartment rental (buy right, manage well)**
+
+Best for: steady demand, lower maintenance surprises (but HOA risk)
+
+* Works if the building is well-managed and fees don’t destroy returns.
+* Your edge is **tenant placement + unit upgrades + longer holds**.
+
+### E) **Mid-term rentals (travel nurses, relocations, insurance stays)**
+
+Best for: renovated, furnished units with parking and good access
+
+* Location helps, but you must be disciplined about furnishing cost + vacancy.
+
+---
+
+# Quick “buy box” checklist for Westmount
+
+* **Property type:** renovated walk-up/condo vs character detached vs duplex/infill lot
+* **Capex reality:** pre-1960 stock needs serious inspection allowances ([City of Edmonton][1])
+* **Zoning upside:** confirm exact zone under Bylaw 20001 (RS/RM/etc.) ([zoningbylaw.edmonton.ca][11])
+* **Tenant draw:** walkability to 124 St + downtown proximity ([City of Edmonton][1])
+* **Crime mapping:** check EPS portal for hot spots ([Community Safety Data Portal][12])
+
+---
+
+[1]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FWestmountDemographicProfile.pdf "Westmount Neighbourhood Profile"
+[2]: https://en.wikipedia.org/wiki/Westmount%2C_Edmonton?utm_source=chatgpt.com "Westmount, Edmonton"
+[3]: https://www.westmountcommunityleague.com/parks-playgrounds?utm_source=chatgpt.com "Parks & Playgrounds - Edmonton"
+[4]: https://www.edmonton.ca/city_government/urban_planning_and_design/zoning-bylaw-renewal?utm_source=chatgpt.com "Zoning Bylaw Renewal"
+[5]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[6]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/240-rm-medium-scale-residential-zone?utm_source=chatgpt.com "2.40 RM - Medium Scale Residential Zone | City of Edmonton ..."
+[7]: https://www.edmonton.ca/sites/default/files/public-files/assets/census/2019_Census_Summary-Report_WESTMOUNT.pdf?cb=1624584517 "Census 2019 Data - WESTMOUNT"
+[8]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[9]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report"
+[10]: https://www.honestdoor.com/cities/ab/edmonton/westmount?utm_source=chatgpt.com "Westmount, Edmonton Real Estate: Housing Market ..."
+[11]: https://zoningbylaw.edmonton.ca/home?utm_source=chatgpt.com "Zoning Bylaw 20001 - City of Edmonton"
+[12]: https://communitysafetydataportal.edmontonpolice.ca/?utm_source=chatgpt.com "Community Safety Data Portal - Edmonton Police Service"
+
+
 # Jasper place
 - https://en.wikipedia.org/wiki/Jasper_Place
 
