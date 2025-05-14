@@ -825,6 +825,266 @@ Best for: renovated, furnished units with parking and good access
 # Jasper place
 - https://en.wikipedia.org/wiki/Jasper_Place
 
+[![Valley Line West: LRT and Me | City of Edmonton](https://tse4.mm.bing.net/th/id/OIP.DmQxc6S_kMIsSE8pJyaAGQHaFj?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://www.edmonton.ca/projects_plans/transit/valley-line-west-lrt-and-me?utm_source=chatgpt.com)
+
+Before we dive in: **“Jasper Place” is usually used as a *west-Edmonton district/area*** (made up of multiple neighbourhoods). There *is* an official neighbourhood called **West Jasper Place**, and most people who say “Jasper Place neighbourhood” mean **West Jasper Place + the Stony Plain Road corridor around 149 St**.
+So below I’m outlining **West Jasper Place (Jasper Place area)**, and I’ll call out where things are “corridor vs interior.”
+
+---
+
+## 1) Nearby amenities & attractions
+
+**What makes Jasper Place investable is “location + west-end connectivity” more than prestige.**
+
+* **Stony Plain Road commercial corridor**
+
+  * Everyday retail, services, restaurants, and local business strip energy (plus ongoing/expected reinvestment from LRT construction).
+* **Valley Line West LRT (future) — major demand catalyst**
+
+  * The project is a **14 km LRT extension** to Lewis Farms; the City notes construction is anticipated to complete **in 2028**. ([City of Edmonton][1])
+  * The City’s LRT materials reference a **“Jasper Place Stop”** as part of the corridor planning. ([City of Edmonton][2])
+* **Jasper Place Leisure Centre**
+
+  * Pool/steam room/waterslide + outdoor sports fields/tennis courts. This is a big lifestyle amenity for families and renters. ([City of Edmonton][3])
+* **Jasper Place Tennis Courts**
+
+  * City facility notice shows these courts are active and even planned for upgrades (dome project note). ([City of Edmonton][4])
+* **MacKinnon Ravine / River Valley access (near 149 St)**
+
+  * MacKinnon Ravine starts in the west near **149 Street** and continues toward Government House Park—strong walkability/green-space premium. ([ENCF][5])
+
+**Investor takeaway:** Tenant appeal is strongest **near (a) future LRT stops, (b) the Stony Plain corridor, and (c) river valley access**, but those same edges can also carry **more noise/traffic/crime exposure** than interior blocks.
+
+---
+
+## 2) When houses were commonly built
+
+West Jasper Place is a mature neighbourhood with multiple build eras:
+
+* A meaningful portion was built **pre-1964** (before Jasper Place amalgamated into Edmonton), with a large share built **1960–1980**, and the remainder **post-1980** (including early 1990s construction bumps). ([Wikipedia][6])
+
+**Investor takeaway:** Expect:
+
+* **Older bungalows** (often suite candidates, but watch sewer lines, electrical, insulation),
+* **Older walk-up apartments** (watch building envelope + deferred maintenance).
+
+---
+
+## 3) Common building types (what you’ll actually buy)
+
+From Edmonton’s **2016 Municipal Census “West Jasper Place”** structure mix:
+
+* **Apartment/Condo (1–4 storeys): ~54%**
+* **Single detached: ~35%**
+* **Apartment/Condo (5+ storeys): ~5%**
+* **Duplex/Fourplex: ~5%**
+
+**Investor takeaway:** This is a **low-rise apartment + bungalow** market. That’s good for:
+
+* cashflow-focused investors (more attainable price points),
+* suite strategies,
+* small-scale multi.
+
+---
+
+## 4) Zoning regulations — does it allow more units per lot?
+
+Edmonton’s newer zoning framework (Bylaw 20001) matters a lot for “units-per-lot” investors.
+
+### What to know (high-level)
+
+* **RS – Small Scale Residential Zone purpose** explicitly allows a range of development up to **3 storeys**, including **detached, attached, and multi-unit residential housing**. ([zoningbylaw.edmonton.ca][7])
+* The City’s zoning bylaw also defines **“Multi-unit Housing”** broadly (stacked row, apartments, mixed-use housing forms, etc.). ([zoningbylaw.edmonton.ca][8])
+
+### Practical implication for Jasper Place
+
+* **Interior bungalow blocks:** often RS-type zoning → *more flexibility than “single-detached only”*, but you still need to confirm setbacks/height/lot coverage/parking on the specific parcel.
+* **Stony Plain Road edges/corridors:** more likely to support **higher density or mixed-use** redevelopment (and are where LRT-driven reinvestment tends to concentrate).
+
+**Investor takeaway:** **Yes, zoning can allow more units per lot**, but the “easy wins” are:
+
+1. lots already aligned with multi-unit intent, or
+2. RS lots where you can add **secondary suite / multi-unit small-scale forms** within the rules.
+
+---
+
+## 5) Population & population growth
+
+For **West Jasper Place** (neighbourhood-level, commonly cited):
+
+* Population around **~2,966** (2012 municipal census, as reported in reference summaries) with a small decline from 2009–2012. ([Wikipedia][6])
+
+**Investor takeaway:** This is not a “hyper-growth” suburban node—demand is more about:
+
+* location to west-end employers/services,
+* transit improvements (LRT),
+* redevelopment cycle along Stony Plain.
+
+---
+
+## 6) Average income in the area
+
+The **2016 municipal census** provides **household income distribution** (note: very high “No Response,” so treat as directional):
+
+* **< $30k:** 11.47%
+* **$30k–<$60k:** 20.96%
+* Many respondents did not report income (**56.92% no response**)
+
+**Investor takeaway:** Underwrite Jasper Place as a **working/middle-income rental market**:
+
+* affordability and value matter,
+* renovated “nice but not luxury” units tend to outperform.
+
+---
+
+## 7) Crime rate
+
+Don’t guess. Pull it by offence type and time window:
+
+* **Edmonton Police Service Neighbourhood Crime Mapping / Community Safety Data Portal** (filter to West Jasper Place). ([Edmonton Police Service][9])
+
+**Investor reality check:** West-end inner corridors can have **property crime** (theft, vehicle break-ins) that is **block-sensitive**. Your underwriting should include:
+
+* security (lighting, cameras, locks),
+* parking setup,
+* tenant screening and management intensity.
+
+---
+
+## 8) Rental supply/demand
+
+West Jasper Place is **renter-heavy** and apartment-heavy:
+
+* **Rented:** 695 households (47.15%) vs **Owned:** 282 (19.13%) in the 2016 census response set (with a large “no response” portion).
+* Unit mix strongly supports a deep rental market (majority low-rise apartments).
+
+**Demand drivers**
+
+* affordability vs trendier central neighbourhoods,
+* west-end access (Whitemud/Yellowhead),
+* future LRT convenience (longer-term).
+
+**Supply reality**
+
+* lots of competing low-rise stock → you win with **condition, layout, laundry, parking, and management**.
+
+---
+
+## 9) Average rents
+
+You’ll see wide spreads because the area ranges from older walk-ups to renovated suites.
+
+**Live market asks (examples / listings):**
+
+* RentFaster shows **1-bedroom apartments around ~$1,100** in West Jasper Place listings. ([RentFaster.ca][10])
+
+**Investor takeaway:** Jasper Place tends to be a **value rental market**:
+
+* Renovation lifts rent, but there’s a **ceiling**—don’t over-improve for the neighbourhood unless you’re targeting a niche (mid-term furnished, etc.).
+
+---
+
+## 10) Neighbourhood grade (A, B, C, D)
+
+**Jasper Place (West Jasper Place): C+ / B-**
+
+* **Why not A:** higher block-to-block variance, corridor effects (traffic/noise + crime risk), and some older building stock risk.
+* **Why not D:** real amenities, strong west-end connectivity, and **LRT-driven reinvestment** potential. ([City of Edmonton][1])
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**This is typically a “cashflow + redevelopment uplift” neighbourhood** more than a “pure appreciation trophy area.”
+
+### Appreciation upside
+
+* **Valley Line West (2028 target completion)** tends to increase long-run desirability and supports corridor reinvestment. ([City of Edmonton][1])
+* Stony Plain Road streetscape/LRT works can reset the corridor over time.
+
+### Cashflow reality
+
+* More attainable entry prices (vs core premium areas) + renter depth can produce **better cap-rate potential**—*if you control renovation and operating costs*.
+
+**Investor takeaway:** The best long-term bet is owning **good land / good blocks** that benefit from:
+
+* transit accessibility,
+* corridor redevelopment,
+* improved public realm.
+
+---
+
+## 12) Average house prices
+
+Directional public stat (blended across types):
+
+* **Average “HonestDoor Price” ~ $547,620 (current month)** for West Jasper Place (their model-based stat; use for temperature only). ([HonestDoor][11])
+
+**Investor tip:** Split your comps by:
+
+* bungalow vs duplex/fourplex vs condo,
+* interior vs Stony Plain corridor proximity,
+* renovated vs original condition.
+
+---
+
+## 13) Strategies that can work well here
+
+Ranked from most “Jasper Place realistic” to more advanced:
+
+### A) Legal secondary suite / basement suite (core strategy)
+
+* Works well with **older bungalows** (common here).
+* Underwrite:
+
+  * permitting,
+  * fire separation,
+  * parking,
+  * soundproofing.
+* Goal: convert a “C+ area” into a **B cashflow asset** via unit count.
+
+### B) Value-add rental (cosmetic + functional)
+
+Best upgrades that actually move rent in a value market:
+
+* durable flooring, paint, lighting,
+* kitchen refresh (not luxury),
+* in-suite laundry (if feasible),
+* better security (locks/lighting/cameras).
+
+### C) Small-scale infill / “more units per lot” where zoning supports
+
+* Target parcels already aligned with **multi-unit intent**, or RS lots where small multi-unit forms are allowed.
+* This is where Edmonton’s RS zone purpose matters (multi-unit small scale up to 3 storeys). ([zoningbylaw.edmonton.ca][7])
+
+### D) Corridor-oriented redevelopment option value (advanced)
+
+* If you can buy near future stations/corridor edges, you’re buying **optionality**:
+
+  * hold as rental now,
+  * reposition/redevelop later as corridor economics improve. ([City of Edmonton][2])
+
+### E) Mid-term furnished rentals (selective)
+
+* Only if you’re close to strong transit or have a unit that stands out.
+* Higher ops complexity; don’t do this if you want ultra-passive.
+
+---
+
+[1]: https://www.edmonton.ca/projects_plans/transit/valley-line-west?utm_source=chatgpt.com "Valley Line - West"
+[2]: https://www.edmonton.ca/projects_plans/transit/valley-line-west-lrt-and-me?utm_source=chatgpt.com "Valley Line West: LRT and Me"
+[3]: https://www.edmonton.ca/activities_parks_recreation/jasper-place?utm_source=chatgpt.com "Jasper Place Leisure Centre"
+[4]: https://www.edmonton.ca/activities_parks_recreation/tennis-courts?utm_source=chatgpt.com "Outdoor Tennis Courts"
+[5]: https://encf.org/walks/mackinnon-ravine-and-government-house-park/?utm_source=chatgpt.com "MacKinnon Ravine and Government House Park"
+[6]: https://en.wikipedia.org/wiki/West_Jasper_Place%2C_Edmonton?utm_source=chatgpt.com "West Jasper Place, Edmonton"
+[7]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[8]: https://zoningbylaw.edmonton.ca/multi-unit-housing?utm_source=chatgpt.com "Multi-unit Housing - Zoning Bylaw 20001 - City of Edmonton"
+[9]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping - Edmonton Police Service"
+[10]: https://www.rentfaster.ca/ab/edmonton/rentals/apartment/1-bedroom/west-jasper-place/?utm_source=chatgpt.com "West-jasper-place 1 Bedroom Apartments for Rent in ..."
+[11]: https://www.honestdoor.com/cities/ab/edmonton/west-jasper-place?utm_source=chatgpt.com "West Jasper Place Real Estate - Edmonton"
+
+
+
 # Glenora place
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/GlenoraDemographicProfile.pdf
 
