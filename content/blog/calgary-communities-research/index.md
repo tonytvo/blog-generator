@@ -1,6 +1,6 @@
 ---
 title: calgary communities research
-date: "2023-12-08T22:12:03.284Z"
+date: "2025-08-11T22:12:03.284Z"
 description: "calgary communities research"
 tags: ["realestate"]
 ---

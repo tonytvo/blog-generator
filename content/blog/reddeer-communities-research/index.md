@@ -20,7 +20,7 @@ tags: ["realestate"]
 - what are the long-term potential appreciation compared to current returns and cashflow?
 - what is average house prices?
 - what real estate investment strategies could work for this neighborhood?
-- ![calgary communities](./calgary-communities.jpg)
+- ![red deer communities](./reddeer-communities.pdf)
 
 - what's the prompt for AI to get more information on the communities?
 >  - you're an expert in realestate investing, give me detailed outline on the Grovenor neighborhood in Edmonton with the following questions:

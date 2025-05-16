@@ -40,12 +40,12 @@ tags: ["realestate"]
 
 # Calgary communities
 
-- [calgary communities](./calgary.md)
+- [calgary communities](/calgary-communities-research)
 
 # Edmonton communities
 
-- [edmonton communities](./edmonton.md)
+- [edmonton communities](/edmonton-communities-research)
 
 # Red Deer communities
 
-- [red deer communities](./reddeer.md)
+- [red deer communities](/reddeer-communities-research)
