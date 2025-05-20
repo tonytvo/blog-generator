@@ -1,7 +1,7 @@
 ---
 title: alberta communities research
 date: "2025-08-11T22:12:03.284Z"
-description: "calgary communities research"
+description: "alberta communities research"
 tags: ["realestate"]
 ---
 
@@ -40,12 +40,12 @@ tags: ["realestate"]
 
 # Calgary communities
 
-- calgary communities
+- [calgary communities](https://tonytvo.github.io/calgary-communities-research/)
 
 # Edmonton communities
 
-- edmonton communities
+- [edmonton communities](https://tonytvo.github.io/edmonton-communities-research/)
 
 # Red Deer communities
 
-- red deer communities
+- [red deer communities](https://tonytvo.github.io/reddeer-communities-research/)

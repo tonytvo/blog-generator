@@ -1,7 +1,7 @@
 ---
-title: calgary communities research
+title: admonton communities research
 date: "2025-08-08T22:12:03.284Z"
-description: "calgary communities research"
+description: "edmonton communities research"
 tags: ["realestate"]
 ---
 
