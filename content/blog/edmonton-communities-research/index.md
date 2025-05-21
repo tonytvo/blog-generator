@@ -1088,6 +1088,229 @@ Best upgrades that actually move rent in a value market:
 # Glenora place
 - https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/GlenoraDemographicProfile.pdf
 
+First, a naming note (so we’re analyzing the right thing): **there isn’t an official “Glenora Place” neighbourhood in Edmonton**. “Glenora Place” shows up as **a named cul-de-sac/street** (historically in the Westmount area) ([Webdocs Edmonton][1]).
+Most investors who say “Glenora Place” usually mean **Glenora** (the prestige neighbourhood). The outline below is for **Glenora (Edmonton)** using the City’s neighbourhood profile.
+
+[![Edmonton Architectural Tour | Glenora — The Curb Appeal Co.](https://tse3.mm.bing.net/th/id/OIP.tqfOrux_jZhMj77EZ6Lv4gHaJ4?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://www.thecurbappealco.com/blog/edmonton-architectural-tour-glenora?utm_source=chatgpt.com)
+
+---
+
+## 1) Nearby amenities & attractions
+
+Glenora’s demand is driven by **prestige + river valley + cultural anchors**.
+
+* **River Valley & ravine system access** (multiple ravines leading to the North Saskatchewan River) ([City of Edmonton][2])
+* **Government House** overlooking the river valley (historic landmark) ([City of Edmonton][2])
+* **Royal Alberta Museum** (major attraction; the City profile lists it as being in the neighbourhood) ([City of Edmonton][2])
+* **124 Street** amenities to the west + services on **Stony Plain Road** and **142 Street** to the east (retail, dining, daily needs) ([City of Edmonton][2])
+* Parks / design character: **Alexander Circle Park** (garden suburb design concept) ([City of Edmonton][2])
+
+**Investor takeaway:** This is a “**location moat**” neighbourhood—walkability to 124 St + river valley adjacency supports long-term desirability.
+
+---
+
+## 2) When houses were commonly built
+
+Glenora is **very old housing stock**.
+
+* **1960 or before: 67%** of units
+* **1961–1980: 24%**
+* Very little built after 1990 ([City of Edmonton][2])
+
+**Underwriting implication:** expect higher capex risk (sewers, electrical, insulation, foundations, envelopes). Premium renos are common because buyers pay for location + finish.
+
+---
+
+## 3) Common building type
+
+Glenora is dominated by **single detached**, but it also has a meaningful **high-rise** component.
+
+* **Single-detached: 73%**
+* **Apartment (5+ storeys): 19%**
+* **Apartment (<5 storeys): 7%** ([City of Edmonton][2])
+
+**Investor implication:** You can play Glenora two ways:
+
+1. **land/value + luxury detached** (low yield, high capital base), or
+2. **high-rise/low-rise condo rental** (more “rental math,” but condo fees & building risk matter).
+
+---
+
+## 4) Zoning regulations & “more units per lot”
+
+Edmonton’s **new Zoning Bylaw (Charter Bylaw 20001)** came into effect **January 2024**. ([City of Edmonton][3])
+
+Key concept (high-level):
+
+* **RS – Small Scale Residential Zone** purpose: allows small-scale development up to **3 storeys**, including **detached, attached, and multi-unit residential housing**. ([zoningbylaw.edmonton.ca][4])
+* The City’s “Get to Know Your Zoning Bylaw – RS Zone” guide also highlights forms that can be permitted in RS such as **duplexes, row housing, small apartments, backyard housing, secondary suites**, etc. ([City of Edmonton][5])
+
+**Does Glenora zoning allow more units per lot?**
+
+* **Sometimes**—but Glenora is a prestige, older neighbourhood where **overlays, character policies, lot constraints, and neighbour opposition** can be higher-friction even if the base zone is more flexible city-wide.
+* Practically, “units-per-lot” is easiest when:
+
+  * you’re on a parcel already aligned with redevelopment intent, or
+  * the site physically supports a clean small-multi form (setbacks/parking/servicing).
+
+**Investor move:** treat added-density potential as **option value**, not your base case—confirm the exact parcel zoning and constraints before underwriting.
+
+---
+
+## 5) Population & population growth
+
+* **Population (2011): 3,600** ([City of Edmonton][2])
+
+The City profile doesn’t give a later-year population on that PDF, so I’d treat Glenora as a **stable, mature** neighbourhood where price is driven more by **scarcity + desirability** than rapid population growth.
+
+---
+
+## 6) Average income in the area
+
+Glenora is high-income relative to Edmonton overall (per City profile):
+
+* **Median household income: $104,323** (City comparator shown alongside) ([City of Edmonton][2])
+* **Average household income: $170,497** ([City of Edmonton][2])
+* Income distribution shows **36%** of households at **$150k+**. ([City of Edmonton][2])
+
+**Investor takeaway:** supports **executive-quality rents** and strong resale liquidity for renovated product.
+
+---
+
+## 7) Crime rate
+
+Use Edmonton Police Service tools for neighbourhood-level incident counts and trends:
+
+* **Neighbourhood Crime Mapping / Community Safety Data Portal** ([Edmonton Police Service][6])
+
+**Practical Glenora expectation (investor lens):**
+
+* Typically **lower** than downtown-adjacent neighbourhoods, but property crime still exists (vehicle break-ins, garage theft, etc.).
+* Underwrite with basic security + garage/parking considerations, but it’s not usually “high management intensity” compared to some inner-core rental districts.
+
+---
+
+## 8) Rental supply/demand
+
+Glenora is **owner-heavy**, which usually means **tighter rental supply** and more stable street character:
+
+* **Owner occupied: 78%**
+* **Renter occupied: 22%** ([City of Edmonton][2])
+
+**Demand drivers:**
+
+* executive renters who want river valley access + 124 St lifestyle
+* downsizers renting before buying
+* condo renters in the high-rise stock (19% of units are 5+ storey apartments) ([City of Edmonton][2])
+
+**Investor takeaway:** You’re competing for tenants on **quality**, not just price—well-finished units lease, tired units sit.
+
+---
+
+## 9) Average rents
+
+You should anchor to **CMHC Edmonton** and then adjust upward/downward by finish and property type.
+
+* **CMHC 2025 Rental Market Report (Edmonton):** purpose-built vacancy ~**3.8%**; average **2-bedroom rent $1,603** (purpose-built). ([Canada Mortgage and Housing Corporation][7])
+* A local example listing tied to “Glenora Place” apartments shows **$1,350 for a 2-bedroom** (older building context—more Westmount-adjacent positioning). ([Kijiji][8])
+
+**How to underwrite Glenora rents:**
+
+* **Condos / older rentals:** can be near city averages unless upgraded.
+* **Renovated detached / executive product:** can be materially higher, but tenant pool is smaller—underwrite vacancy more conservatively.
+
+---
+
+## 10) Is it A, B, C, D?
+
+**Glenora: A (Edmonton) for long-term desirability and resale liquidity.**
+
+* A because: prestige, river valley adjacency, high incomes, scarcity of comparable locations. ([City of Edmonton][2])
+* The only “not A+” factor is **cashflow** often being thin due to high prices.
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**Classic Glenora profile:**
+
+* **Appreciation potential:** strong (location moat + land scarcity).
+* **Current cashflow:** often weak **unless** you have a multi-unit angle or you bought at an exceptional basis.
+
+Why cashflow is hard:
+
+* high entry prices + (for condos) fees + (for houses) capex on older stock.
+* renters pay a premium, but not enough to match today’s purchase prices in many cases.
+
+**Investor takeaway:** Glenora is usually a **balance-sheet wealth builder**, not a “high-cap-rate” play.
+
+---
+
+## 12) Average house prices
+
+Directional, model-based benchmark:
+
+* **HonestDoor “Average HonestDoor Price” for Glenora:** **$1,085,782** (current month) ([HonestDoor][9])
+
+**Important:** This is blended/modelled—still useful as a temperature check, but you should comp separately for:
+
+* renovated detached vs teardown lot value,
+* high-rise condo vs low-rise,
+* river valley edge vs interior.
+
+---
+
+## 13) Strategies that work in Glenora
+
+Ranked by “most realistic / most common” in this neighbourhood:
+
+### A) Buy-and-hold “quality land” (low yield, high conviction)
+
+* Best for investors prioritizing **capital preservation + long-run appreciation**.
+* Your edge is buying the **right micro-location** (ravine/park adjacency, quiet streets).
+
+### B) High-end renovation value-add (forced appreciation)
+
+* Buy older stock (67% pre-1960) and renovate to “executive standard.” ([City of Edmonton][2])
+* Underwrite capex carefully; don’t underestimate hidden issues in old homes.
+
+### C) Executive / mid-term furnished rental (selective)
+
+* Works when you have:
+
+  * parking/garage,
+  * high-quality finish,
+  * great location.
+* Underwrite higher vacancy and higher operating complexity.
+
+### D) Condo rental (more “rent math,” but watch building risk)
+
+* Glenora has significant high-rise inventory (19%). ([City of Edmonton][2])
+* You must win on:
+
+  * building financial health (reserve fund/studies),
+  * fee discipline,
+  * special assessment risk.
+
+### E) Small-scale density / suite / backyard housing (option value)
+
+* City-wide RS intent allows multi-unit forms up to 3 storeys and includes secondary suites/backyard housing possibilities in many contexts. ([zoningbylaw.edmonton.ca][4])
+* In Glenora specifically, treat it as **bonus upside** until you confirm exact zoning + constraints on a target parcel.
+
+---
+
+[1]: https://webdocs.edmonton.ca/OcctopusDocs/Public/Complete/Reports/EX/Elected-1995/2001-10-31/2001PDP069%20-%20Recomendation%20from%20the%20Names%20Advisory%20Committee.doc?utm_source=chatgpt.com "Report for Executive Committee October 31, 2001 meeting."
+[2]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FGlenoraDemographicProfile.pdf "Glenora Neighbourhood Profile"
+[3]: https://www.edmonton.ca/city_government/urban_planning_and_design/zoning-bylaw-renewal?utm_source=chatgpt.com "Zoning Bylaw Renewal"
+[4]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[5]: https://www.edmonton.ca/sites/default/files/public-files/assets/PDF/Get-To-Know-Your-Zoning-Bylaw-Residential-Small-Scale-RS-Zone.pdf?utm_source=chatgpt.com "Residential Small Scale (RS) Zone"
+[6]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[7]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report"
+[8]: https://www.kijiji.ca/v-apartments-condos/edmonton/cozy-2-bedroom-apartment-for-rent-in-glenora/1726542906?utm_source=chatgpt.com "Cozy 2 Bedroom Apartment for Rent in Glenora! - Edmonton"
+[9]: https://www.honestdoor.com/cities/ab/edmonton/glenora?utm_source=chatgpt.com "Glenora, Edmonton Real Estate: Housing Market ..."
+
+
+
 # Callingwood
 - https://en.wikipedia.org/wiki/Callingwood,_Edmonton
 
