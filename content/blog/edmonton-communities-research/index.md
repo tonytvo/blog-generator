@@ -1,5 +1,5 @@
 ---
-title: admonton communities research
+title: edmonton communities research
 date: "2025-08-08T22:12:03.284Z"
 description: "edmonton communities research"
 tags: ["realestate"]
@@ -23,7 +23,7 @@ tags: ["realestate"]
 - ![edmonton communities](./edmonton-communities.jpg)
 
 - what's the prompt for AI to get more information on the communities?
->  - you're an expert in realestate investing, give me detailed outline on the Britannia neighborhood in Calgary with the following questions:
+>  - you're an expert in realestate investing, give me detailed outline on the Britannia neighborhood in Edmonton with the following questions:
 >    - what are nearby amenities, attractions?
 >    - when was the houses were commonly built?
 >    - what are the common building type?
