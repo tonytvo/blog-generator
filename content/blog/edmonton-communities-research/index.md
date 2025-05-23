@@ -1314,6 +1314,299 @@ Ranked by “most realistic / most common” in this neighbourhood:
 # Callingwood
 - https://en.wikipedia.org/wiki/Callingwood,_Edmonton
 
+
+Below is a **real-estate–investor style** outline for **Callingwood (Edmonton)**. Note: “Callingwood” is typically discussed as **Callingwood North + Callingwood South** (adjacent neighbourhoods). I’ll cover both, and where possible I’ll call out the difference.
+
+---
+
+## 1) Nearby amenities & attractions (liveability drivers)
+
+**Daily needs / retail**
+
+* **Callingwood “The Marketplace”** (a key retail node serving the area). ([City of Edmonton][1])
+* Strong west-side retail gravity: **easy access to West Edmonton Mall area** (short drive), plus other west-side shopping corridors.
+
+**Recreation / community**
+
+* **Callingwood area YMCA / recreation presence** is highlighted on the City neighbourhood profile mapping. ([City of Edmonton][1])
+* West-side parks, schools, and a “mature neighbourhood” feel (walkability tends to vary by pocket, but overall it’s a practical, family/service-worker friendly west Edmonton location).
+
+**Library / civic**
+
+* Recent major work noted at **Lois Hole Library** (nearby) shows meaningful civic infrastructure investment in the broader area. ([HonestDoor][2])
+
+**Investor implication**
+
+* This is a **“convenience + west-side access”** neighbourhood, not a prestige/location-scarcity play like river valley crest neighbourhoods. Tenant demand tends to be anchored by **value, commute, and amenities**.
+
+---
+
+## 2) When homes were commonly built (age profile)
+
+### Callingwood South (2011 Census profile: construction period of units)
+
+* **1961–1980: ~33%**
+* **1981–1990: ~27%**
+* **1991–2000: ~21%**
+* **2001–2005: ~11%**
+* **2006–2011: ~3%** ([City of Edmonton][1])
+
+**Takeaway:** South is **mostly 1960s–1990s stock**, with heavier 70s/80s character.
+
+### Callingwood North
+
+* The 2016 census summary I pulled shows structure mix + population clearly, but doesn’t include the “period built” table in the excerpt captured. Expect broadly similar *mature-west* era, but confirm on a per-property basis.
+
+---
+
+## 3) Common building types (what you’ll mostly buy)
+
+### Callingwood South (structure type of residential units)
+
+* **Low-rise apartments (<5 storeys): ~56%**
+* **High-rise (5+ storeys): ~25%**
+* **Row housing: ~20%**
+* **Single detached: ~0%** ([City of Edmonton][1])
+
+### Callingwood North (2016 Municipal Census: structure type)
+
+* **Row housing: 35.27%**
+* **Low-rise apartments/condos (1–4 storeys): 35.27%**
+* **Apartment/condo (5+ storeys): 12.64%**
+* **Single detached: 10.16%**
+* **Duplex/fourplex: 6.58%** ([City of Edmonton][3])
+
+**Investor implication**
+
+* **Callingwood South = heavier apartment concentration** (more “rental building / condo investor” feel).
+* **Callingwood North = more balanced** (still dense, but comparatively more ground-oriented formats).
+
+---
+
+## 4) Zoning regulations & “more units per lot?” (redevelopment upside)
+
+**City-wide context matters a lot in Edmonton now**
+
+* Edmonton’s **Zoning Bylaw 20001** is the primary rule-set that determines what can be built where. ([City of Edmonton][4])
+* The **RS (Small Scale Residential Zone)** purpose is to allow small-scale residential development up to **3 storeys**, including **multi-unit** housing (not just single detached). ([Edmonton Zoning Bylaw][5])
+* **Secondary suites** are explicitly defined and supported within common housing forms (single detached, semi-detached, row, backyard housing). ([Edmonton Zoning Bylaw][6])
+
+**Does zoning allow more units per lot?**
+
+* Post-zoning overhaul, Edmonton moved toward allowing **more “missing middle” by default** in many residential contexts. Reporting notes the bylaw overhaul allowed **up to 8 units by default** (with conditions and lot-size/zone details). ([Storeys][7])
+
+**Callingwood-specific zoning**
+
+* Exact parcels can include **standard zones (like RS)** plus **site-specific Direct Control (DC) provisions** in some pockets (example: a DC2 area explicitly labeled in Callingwood South). ([Edmonton Zoning Bylaw][8])
+* To be precise for an investment property: use the City’s **Zoning Map / Zoning Bylaw App** to confirm the lot’s zone and overlays. ([Edmonton Zoning Bylaw][9])
+
+**Investor implication**
+
+* Callingwood is already dense, but Edmonton’s updated rules can make **small-scale infill / small multiplex / suite strategies** more feasible **where you have RS-like zoning and lot conditions**.
+* In practice, your upside is usually **(a) suites + (b) light value-add renovations**, and **selective infill** if you find the right site (not everywhere).
+
+---
+
+## 5) Population & population growth
+
+### Callingwood North
+
+* **2016 population: 2,376** ([City of Edmonton][3])
+* **2011 population: 2,200** (from older profile table totals) ([City of Edmonton][10])
+* **Growth (2011 → 2016): ~+8%**
+
+### Callingwood South
+
+* **2016 population: 5,508** ([City of Edmonton][11])
+* **2011 population: 5,085** ([City of Edmonton][1])
+* **Growth (2011 → 2016): ~+8.3%**
+
+**Investor implication**
+
+* Stable/mature neighbourhoods with **modest growth** → appreciation tends to be **steady**, and returns come more from **operating strategy** than “explosive growth.”
+
+---
+
+## 6) Average income (what we can say reliably)
+
+The 2016 neighbourhood census summary provides **household income brackets** for Callingwood South, but it also shows a **very large “No Response” share**, which limits confidence in an “average” figure. ([City of Edmonton][11])
+
+Callingwood South (2016, household income distribution among all households surveyed):
+
+* **< $30k: 9.33%**
+* **$30k–<$60k: 15.46%**
+* **$60k–<$100k: 12.12%**
+* Higher brackets exist, but **No Response is 57.98%** ([City of Edmonton][11])
+
+**Investor implication**
+
+* Treat Callingwood as a **value-oriented renter base** with a wide spread. Underwrite with:
+
+  * Higher sensitivity to **rent-to-income** constraints
+  * Stronger focus on **transit/amenities** and **unit condition** to win tenants
+
+---
+
+## 7) Crime rate (how to assess it properly)
+
+Rather than guess, Edmonton provides neighbourhood-level crime tools:
+
+* Edmonton Police Service **Neighbourhood Crime Mapping / Community Safety Data Portal** gives access to crime stats and trends. ([edmontonpolice.ca][12])
+
+**Practical investor interpretation (typical pattern)**
+
+* Higher-density areas (more apartments/condos) often show **higher property-crime incidence** than low-density suburbs.
+* Underwrite with:
+
+  * Secure building entry, lighting, cameras (where allowed)
+  * Tenant screening + property management discipline
+  * Insurance assumptions that reflect building type and claims history
+
+---
+
+## 8) Rental supply vs demand (what the data suggests)
+
+### Callingwood South: very renter-heavy
+
+* **Renter occupied: 73%** (2011 profile) ([City of Edmonton][1])
+
+### Callingwood North: mixed (but still substantial renting)
+
+* 2016 dwelling ownership table shows **Owned 30.21%, Rented 38.14%**, with a large **No Response 31.65%**. ([City of Edmonton][3])
+
+**Investor implication**
+
+* This is a **structurally rental neighbourhood** (especially South).
+* Pros: deep tenant pool, more “rental norms,” easier to compare market rents.
+* Cons: more competition from nearby purpose-built rentals and condos; you must compete on **price/condition/management**.
+
+---
+
+## 9) Average rents (best available + how to underwrite Callingwood)
+
+City-wide anchors (Edmonton CMA):
+
+* CMHC historical stats show **average rent around ~$1,493 (Oct 2025)** (table context varies by unit type—use it as a broad anchor). ([www03.cmhc-schl.gc.ca][13])
+* CMHC’s 2025 Rental Market reporting notes rent growth pressure nationally and discusses major centre dynamics. ([Canada Mortgage and Housing Corporation][14])
+
+**Callingwood underwriting (rule of thumb)**
+
+* Expect Callingwood to rent **around the Edmonton average or slightly below** depending on:
+
+  * Building age/condition
+  * Parking, in-suite laundry, security
+  * Proximity to retail/transit nodes
+
+**If you want, I can build you a rent band by unit type** (studio/1/2/3-bed) using active listing comps, but that requires a live scrape or a manual comp set.
+
+---
+
+## 10) Neighborhood grade (A/B/C/D)
+
+**My grade for Callingwood (as an investment neighbourhood): `B- / C+`**
+
+Why:
+
+* **Strong rental depth** (good) ([City of Edmonton][1])
+* **High density / older stock** (more maintenance + higher property management intensity) ([City of Edmonton][1])
+* Not a “scarcity-premium” location; appreciation usually isn’t top-of-market.
+* Zoning modernization helps, but Callingwood is not the cleanest “infill goldmine” compared with more consistently RS-zoned low-density pockets. ([Edmonton Zoning Bylaw][5])
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**General pattern for Callingwood-type neighbourhoods**
+
+* **Cashflow / yield potential:** often better than premium inner-core neighbourhoods *if you buy right* (especially condos/low-rise units), but condo fees can destroy yield.
+* **Appreciation:** tends to be **mid-pack**; value is driven by **Edmonton macro** + **renovation/income improvements** rather than location scarcity.
+
+**What to watch**
+
+* Condo special assessments (major risk)
+* Building envelope age (70s/80s stock)
+* Tenant turnover and management burden in high-renter pockets
+
+---
+
+## 12) Average house prices (and a warning)
+
+HonestDoor provides neighbourhood “average” values, but the numbers can be distorted by **small sample + property mix + outliers**:
+
+* Callingwood North “Average HonestDoor Price” shows **$1,027,841** (which is likely not representative of what most investors think of as Callingwood pricing). ([HonestDoor][2])
+* Callingwood South shows an even more extreme “average” in the captured snippet (**$5,757,750**), which is almost certainly outlier-driven and **not usable** for underwriting typical units. ([HonestDoor][15])
+
+**What *is* useful from the same source:** individual unit examples look far more realistic (e.g., condos ~$200k–$300k range in the Callingwood area). ([HonestDoor][16])
+
+**Investor approach**
+
+* Ignore “neighbourhood average” headlines here.
+* Underwrite from:
+
+  * MLS sold comps by property type (condo vs townhouse vs detached)
+  * Building-specific sold history (especially for condos)
+
+---
+
+## 13) Strategies that can work in Callingwood (practical playbook)
+
+### A) **Value-add condo/townhouse rentals (selective)**
+
+Best if:
+
+* Low condo fee relative to rent
+* Building has strong reserve fund + recent envelope work
+* You can cosmetically improve unit (paint/flooring/kitchen refresh)
+
+Big risk:
+
+* Condo fees + assessments can eliminate your returns.
+
+### B) **Buy-and-hold “workforce rental”**
+
+Especially Callingwood South (renter-heavy). ([City of Edmonton][1])
+
+* Compete on: clean unit, responsive management, security features, parking, laundry.
+
+### C) **Suite strategy (where zoning + building form allows)**
+
+* Edmonton zoning explicitly defines/permits **secondary suites** in common housing forms. ([Edmonton Zoning Bylaw][6])
+* Best in Callingwood North pockets with more ground-oriented housing mix. ([City of Edmonton][3])
+
+### D) **Small-scale infill / multiplex (site hunting)**
+
+* Edmonton’s modern zoning direction supports more “missing middle,” including higher unit counts in many contexts. ([Storeys][7])
+* This is a **deal-finding business**: you need the right lot, right zone, right economics.
+
+### E) **Mid-term rental (30+ days)**
+
+Could work if you target:
+
+* Corporate/transitional tenants needing west-side access
+* Furnished units near major retail + arterial access
+  But: ensure condo bylaws (if applicable) allow it.
+
+---
+
+[1]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FCallingwoodSouthDemographicProfile.pdf "Callingwood South Neighbourhood Profile"
+[2]: https://www.honestdoor.com/cities/ab/edmonton/callingwood-north "Callingwood North, Edmonton Real Estate: Housing Market December 2025 | HonestDoor"
+[3]: https://www.edmonton.ca/public-files/assets/document?path=census%2FSummary+Report+of+All+Questions_CALLINGWOOD+NORTH_2016.pdf "Summary Report of All Questions"
+[4]: https://www.edmonton.ca/city_government/bylaws/zoning-bylaw?utm_source=chatgpt.com "Zoning Bylaw | City of Edmonton"
+[5]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[6]: https://zoningbylaw.edmonton.ca/secondary-suite?utm_source=chatgpt.com "Secondary Suite | City of Edmonton Zoning Bylaw"
+[7]: https://storeys.com/edmonton-multiplex-small-scale-residential-2025/?utm_source=chatgpt.com "Missing Middle Housing In Edmonton Doubles After Zoning Overhaul"
+[8]: https://zoningbylaw.edmonton.ca/dc2-1208?utm_source=chatgpt.com "DC2 1208 | City of Edmonton Zoning Bylaw"
+[9]: https://zoningbylaw.edmonton.ca/zoning-map?utm_source=chatgpt.com "Zoning Map - Zoning Bylaw 20001 - City of Edmonton"
+[10]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FCallingwoodNorthDemographicProfile.pdf "Callingwood North Neighbourhood Profile"
+[11]: https://www.edmonton.ca/public-files/assets/document?path=census%2FSummary+Report+of+All+Questions_CALLINGWOOD+SOUTH_2016.pdf "Summary Report of All Questions"
+[12]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping - Edmonton Police Service"
+[13]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Summary+Statistics&GeographyId=0340&GeographyType=MetropolitanMajorArea&RowField=TIMESERIES&utm_source=chatgpt.com "Edmonton — Historical Rental Market Statistics Summary - CMHC"
+[14]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report | CMHC"
+[15]: https://www.honestdoor.com/cities/ab/edmonton/callingwood-south "Callingwood South, Edmonton Real Estate: Housing Market December 2025 | HonestDoor"
+[16]: https://www.honestdoor.com/property/227-callingwood-two-nw-edmonton-ab?utm_source=chatgpt.com "227 Callingwood Two NW, Edmonton AB | HonestDoor"
+
+
+
 # Terrace heights
 - https://en.wikipedia.org/wiki/Terrace_Heights,_Edmonton
 
