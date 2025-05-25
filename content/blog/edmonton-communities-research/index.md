@@ -1610,6 +1610,251 @@ Could work if you target:
 # Terrace heights
 - https://en.wikipedia.org/wiki/Terrace_Heights,_Edmonton
 
+[![Terrace Heights, Edmonton: Scenic Beauty Meets Urban Convenience](https://tse2.mm.bing.net/th/id/OIP.0-LGadwahTzXquCqMJpTggHaEK?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://www.mattferguson.ca/edmonton/terrace-heights-homes-condos-for-sale/?utm_source=chatgpt.com)
+
+Below is a **real-estate investor–style deep outline** for **Terrace Heights (Edmonton)** (mature SE, around 101 Ave / 75–67 St area). I’m using City neighbourhood profile data where available and then translating it into investable implications.
+
+---
+
+## 1) Nearby amenities & attractions (what drives tenant/buyer demand)
+
+**Terrace Heights is essentially two low-density pockets split by a higher-density/commercial corridor on 101 Ave.** ([City of Edmonton][1])
+
+* **Capilano Mall (nearby)** – the City profile explicitly calls out access to major shopping/employment centres including Capilano Mall. ([City of Edmonton][1])
+* **Capilano Ravine / river-valley ravine access (north/east edge influence)** – northern residential area sits near the Capilano Ravine that runs through the neighbourhood area. ([City of Edmonton][1])
+* **101 Avenue corridor** – “high-density residential and commercial corridor” (convenience + transit, but also where noise/traffic and “corridor issues” can show up). ([City of Edmonton][1])
+* **Connectivity** – the neighbourhood’s “two-pockets + corridor” layout tends to create **micro-markets**:
+
+  * **north pocket near ravine** = more owner-stability premium
+  * **101 Ave corridor** = more rental liquidity + competition
+
+**Investor takeaway:** Your returns will vary a lot by **distance from 101 Ave**, parking situation, and the building form (bungalow vs walk-up vs high-rise).
+
+---
+
+## 2) When were homes commonly built? (capex reality)
+
+From the City’s demographic profile (2011 Census-based):
+
+* **1961–1980: 56%** of units
+* **1960 or before: 37%**
+* **1981–1990: 5%**
+* **1991–2000: 2%** ([City of Edmonton][2])
+
+**Investor takeaway:** This is a **mostly 1950s–1970s** neighbourhood. Underwrite:
+
+* higher probability of **older plumbing/sewer, electrical, insulation**, and
+* higher value-add potential via **layout + finishes**, but don’t underestimate hidden costs.
+
+---
+
+## 3) Common building type (what you’ll actually buy)
+
+Residential units by structure type (2011 Census-based):
+
+* **Single-detached: 43%**
+* **Apartment <5 storeys: 24%**
+* **Apartment 5+ storeys: 22%**
+* **Duplex/semi-detached: 12%** ([City of Edmonton][2])
+
+Tenure:
+
+* **Renter occupied: 61%**
+* **Owner occupied: 39%** ([City of Edmonton][2])
+
+**Investor takeaway:** Terrace Heights is a **renter-heavy** mature neighbourhood with meaningful **apartment stock**. That usually means:
+
+* easier tenanting (liquidity),
+* more competition (you need a “reason to rent yours”),
+* more block-by-block variance.
+
+---
+
+## 4) Zoning regulations & “more units per lot?”
+
+### City-wide zoning context (important)
+
+Edmonton’s **Zoning Bylaw 20001** defines development rights; the **RS – Small Scale Residential Zone** purpose includes a range of housing up to **3 storeys**, including **detached, attached, and multi-unit residential housing**. ([Edmonton Zoning Bylaw][3])
+The bylaw also defines **“Multi-unit Housing”** broadly (stacked row, apartments, mixed-use, etc.). ([Edmonton Zoning Bylaw][4])
+
+### Terrace Heights-specific reality
+
+* The City profile describes a **high-density residential + commercial corridor along 101 Ave**, with two lower-density residential areas on either side. ([City of Edmonton][1])
+* Practically, this means you’ll see a **mix of zones**:
+
+  * interior blocks: often small-scale residential intent (more suite / missing-middle options depending on exact zoning)
+  * corridor edges: more likely to support higher density/mixed-use forms
+
+**Does zoning allow more units per lot?**
+
+* **Often yes (in Edmonton generally)**, but **you must confirm the exact parcel’s zone** and any overlays/parking/servicing constraints. Terrace Heights is not “one-zone everywhere.”
+
+**Investor move:** Treat unit-add as **bonus upside** until you confirm zoning on your target lot.
+
+---
+
+## 5) Population & population growth
+
+Two good reference points you can actually underwrite with:
+
+* **2011 population (Census-based profile): ~2,300** ([City of Edmonton][2])
+* **2019 Municipal Census total: 2,209** ([City of Edmonton][5])
+
+**Read:** Slight decline from 2011 → 2019 (about **-4%**).
+**Investor takeaway:** Not a “growth story” neighbourhood—returns are typically driven more by **income strategy + buying basis** than population tailwinds.
+
+---
+
+## 6) Average income in the area
+
+2010 household income (2011 Census-based profile):
+
+* **Median household income: $53,476 – $72,248**
+* **Average household income: $67,616 – $90,340** ([City of Edmonton][2])
+
+**Investor takeaway:** Tenant base is **broad middle-income**, so:
+
+* “nice, clean, practical” renovations outperform luxury finishes,
+* affordability and value matter.
+
+---
+
+## 7) Crime rate (how to check it correctly)
+
+Use Edmonton Police Service’s tools:
+
+* **Neighbourhood Crime Mapping / Community Safety Data Portal** (crime stats + trends by neighbourhood). ([Edmonton Police Service][6])
+
+**Investor underwriting tip:** In a corridor-split neighbourhood, crime is often **arterial-sensitive**:
+
+* compare **101 Ave corridor** vs interior pockets,
+* focus on **property crime** (break-ins/theft) vs violent incidents,
+* underwrite security + lighting + parking layout accordingly.
+
+---
+
+## 8) Rental supply & demand (what the structure tells you)
+
+Demand indicators:
+
+* **61% renter occupied** (2011) = deep renter base. ([City of Edmonton][2])
+  Supply indicators:
+* meaningful apartment inventory (**~46% apartments** when combining <5 and 5+ storeys). ([City of Edmonton][2])
+
+**Investor takeaway:**
+
+* You’ll usually have **steady tenant demand**, but
+* you are competing with lots of substitute rentals (walk-ups, high-rises, etc.). Your edge must be **condition, layout, laundry, parking, management**.
+
+---
+
+## 9) Average rents (how to underwrite it)
+
+Neighbourhood-specific rent averages aren’t cleanly published in the City profile, so use:
+
+* **CMHC Edmonton (2025):** purpose-built vacancy **3.8%**; average **2-bedroom rent $1,603** (purpose-built). ([Canada Mortgage and Housing Corporation][7])
+* **Local live comps examples (Terrace Heights listings):**
+
+  * 2-bed renovated basement listing shows typical “suite style” product exists here. ([RentFaster.ca][8])
+  * 2-bed upper half duplex listing in Terrace Heights/Capilano area also exists. ([RentFaster.ca][9])
+
+**Practical rent bands (investor rule-of-thumb):**
+
+* **Older walk-up/high-rise units**: often around or below Edmonton averages unless renovated
+* **Renovated suites / main floors with parking + laundry**: can push above “tired stock,” but still capped by neighbourhood income profile
+
+---
+
+## 10) Is it A, B, C, D?
+
+**Terrace Heights: B- / C+ (investment grade)**
+
+* **Why not A:** corridor-driven variance, renter-heavy competition, older stock capex.
+* **Why not C/D:** ravine access + amenities (Capilano Mall), solid connectivity, lots of rental liquidity. ([City of Edmonton][1])
+
+---
+
+## 11) Long-term appreciation vs current returns & cashflow
+
+**Terrace Heights tends to be “cashflow-tilted” relative to premium neighbourhoods**, but you still need to buy right.
+
+* **Appreciation profile:** generally **mid-pack** (not scarce/prestige), influenced by Edmonton macro + local reinvestment.
+* **Cashflow profile:** can be decent **if you add income** (suite / multi-unit) or buy a good basis.
+* **Key risk:** older stock capex + competition from nearby apartment supply.
+
+**Investor takeaway:** You’re not betting on “Glenora-style scarcity.” You’re betting on **income + good operations**.
+
+---
+
+## 12) Average house prices
+
+A public “temperature check” source:
+
+* HonestDoor’s Terrace Heights page shows individual “HonestDoor Price” estimates for properties (example values in the $800k range appear on the page excerpt). ([HonestDoor][10])
+
+**Important:** Neighbourhood “averages” can be distorted by property mix/outliers. Underwrite from:
+
+* sold comps by property type (bungalow vs duplex vs condo),
+* corridor vs interior micro-location,
+* renovated vs original.
+
+---
+
+## 13) Strategies that work in Terrace Heights
+
+Ranked from most realistic to more advanced:
+
+### A) **Legal suite / secondary suite (best fit for cashflow)**
+
+Why it fits:
+
+* lots of 50s–70s detached/duplex stock that can support two-unit economics ([City of Edmonton][2])
+  Underwrite carefully:
+* fire separation, egress, soundproofing, utilities, parking, permitting
+
+### B) **Value-add “workhorse rental” renos**
+
+Best ROI upgrades for this tenant base:
+
+* durable flooring + paint + lighting
+* kitchen refresh (not luxury)
+* laundry + storage + improved security
+
+### C) **Hold-and-improve corridor-adjacent rentals**
+
+If you’re close to 101 Ave:
+
+* expect higher tenant churn and competition
+* win on **parking, security, in-suite laundry, modern finishes**
+* don’t overpay; corridor risk needs a discount
+
+### D) **Small-scale infill / missing middle (selective lots)**
+
+Edmonton RS intent can include multi-unit forms up to 3 storeys. ([Edmonton Zoning Bylaw][3])
+This is a **site-selection game** (zoning + lot geometry + servicing + parking).
+
+### E) **Condo/high-rise rental (only if building fundamentals are strong)**
+
+Given the apartment stock here, this can work—but only if:
+
+* condo fees don’t kill yield,
+* reserve fund & building condition are strong,
+* you screen for special assessment risk.
+
+---
+
+[1]: https://www.edmonton.ca/residential_neighbourhoods/Neighbourhoods/NeighbourhoodProfile_TerraceHeights.pdf "Terrace heights Neighbourhood Profile"
+[2]: https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods%2FTerraceHeightsDemographicProfile.pdf "Terrace heights Neighbourhood Profile"
+[3]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[4]: https://zoningbylaw.edmonton.ca/multi-unit-housing?utm_source=chatgpt.com "Multi-unit Housing - Zoning Bylaw 20001 - City of Edmonton"
+[5]: https://www.edmonton.ca/sites/default/files/public-files/assets/census/2019_Census_Summary-Report_TERRACE_HEIGHTS.pdf?cb=1625340626 "Census 2019 Data - TERRACE HEIGHTS"
+[6]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[7]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report | CMHC"
+[8]: https://www.rentfaster.ca/properties/9907-74-street-northwest-edmonton-524183?utm_source=chatgpt.com "2 bedroom renovated bsmt - Pet friendly - RentFaster.ca"
+[9]: https://www.rentfaster.ca/properties/6807-101-avenue-northwest-edmonton-584997?utm_source=chatgpt.com "2 Bedroom Upper half duplex | ID 584997 - RentFaster.ca"
+[10]: https://www.honestdoor.com/cities/ab/edmonton/terrace-heights?utm_source=chatgpt.com "Terrace Heights Real Estate - Edmonton"
+
+
 # Ottewell
 - https://en.wikipedia.org/wiki/Ottewell,_Edmonton
 
