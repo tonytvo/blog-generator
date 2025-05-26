@@ -1,5 +1,5 @@
 ---
-title: AI Engineering: Building Applications with Foundation Models by Chip Huyen summary
+title: AI Engineering Building Applications with Foundation Models by Chip Huyen summary
 date: "2025-05-26T22:12:03.284Z"
 description: "AI Engineering: Building Applications with Foundation Models by Chip Huyen summary"
 tags: ["ai", "software", "engineer"]
