@@ -39,4 +39,4 @@ you're an expert in realestate investing, give me detailed outline on the Point 
 # References
 - https://www.promptingguide.ai/
 - https://www.amazon.ca/Art-Prompt-Engineering-ChatGPT-Plugins-ebook/dp/B0BSN3PTX8
-
+- https://www.amazon.ca/Prompt-Engineering-LLMs-Model-Based-Applications/dp/1098156153/
