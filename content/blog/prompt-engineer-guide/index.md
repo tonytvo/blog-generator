@@ -15,7 +15,7 @@ tags: ["ai", "investing", "software"]
 - **community research**
 
 ```
-you're an expert in realestate investing, give me detailed outline on the Terrace heights neighborhood in Edmonton with the following questions:
+you're an expert in realestate investing, give me detailed outline on the Ottewell neighborhood in Edmonton with the following questions:
 - what are nearby amenities, attractions?
 - when was the houses were commonly built?
 - what are the common building type?

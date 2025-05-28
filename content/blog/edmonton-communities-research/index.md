@@ -1858,6 +1858,248 @@ Given the apartment stock here, this can work—but only if:
 # Ottewell
 - https://en.wikipedia.org/wiki/Ottewell,_Edmonton
 
+## Ottewell (Edmonton) — detailed investor outline (amenities • zoning • rents • strategy)
+
+### 1) Nearby amenities & attractions (what drives buyer/tenant demand)
+
+* **Retail / errands**
+
+  * **Capilano Mall** (identified as the neighbourhood’s main commercial focus; NE corner). ([City of Edmonton][1])
+  * **Smaller commercial plaza on 90 Avenue** (convenience retail). ([City of Edmonton][1])
+* **Education / institutional anchors**
+
+  * **7 schools** in/serving the neighbourhood (family demand stabilizer). ([City of Edmonton][1])
+  * **King’s University** is *just east* of the neighbourhood (employment + rental demand tailwind). ([City of Edmonton][1])
+* **Community infrastructure (sticky, “owner-like” neighbourhood traits)**
+
+  * **Ottewell Community League hall** + **playground, skating rink, splash park, basketball courts** and landscaped open space. ([City of Edmonton][2])
+  * **Weekly markets**: Capilano Farmers’ Market + Ottewell Artisan Farmers’ Market. ([City of Edmonton][2])
+* **Parks / sports**
+
+  * City profile notes **several parks, sports fields and facilities**. ([City of Edmonton][1])
+
+**Investor implication:** Ottewell has strong “daily-life amenities” + family infrastructure. That usually supports **lower vacancy**, **lower turnover**, and **more stable resale liquidity** than many cashflow-only areas.
+
+---
+
+### 2) When were houses commonly built? (capex reality)
+
+* The City profile says **most development occurred in the 1950s and 1960s**. ([City of Edmonton][1])
+* 2011 Census breakdown of *period of construction*:
+
+  * **1961–1980: 65%**
+  * **1960 or before: 32%**
+  * **1981–1990: 2%**
+  * **2001–2005: 1%** ([City of Edmonton][1])
+
+**Investor implication:** Underwrite for **older-housing capex** (drainage/sewer line risk, electrical upgrades, insulation/windows, foundation/grade issues, asbestos-era materials).
+
+---
+
+### 3) Common building type (what you’ll actually buy)
+
+Residential units by structure type (2011 Census):
+
+* **Single-detached: 82%**
+* **Duplex/semi-detached: 5%**
+* **Apartment <5 storeys: 12%**
+* (Essentially no row housing / high-rise apartments in this dataset.) ([City of Edmonton][1])
+
+Tenure (2011 Census):
+
+* **Owner occupied: 82%**
+* **Renter occupied: 18%** ([City of Edmonton][1])
+
+**Investor implication:** This is a **stable, owner-dominant, detached-home neighbourhood**. Great for long-term holds; tougher to find “instant scale” multi-unit density.
+
+---
+
+### 4) Zoning regulations — does zoning allow more units per lot?
+
+**Two key facts to anchor:**
+
+* Ottewell is within Edmonton’s **Mature Neighbourhood Overlay**. ([City of Edmonton][1])
+* Edmonton’s **Zoning Bylaw 20001**: the **RS (Small Scale Residential) Zone** is intended to allow “small scale residential development up to **3 storeys**… including **detached, attached, and multi-unit residential housing**.” ([Edmonton Zoning Bylaw][3])
+
+**What this means in practice (Ottewell specifically):**
+
+* Ottewell is largely detached homes (82%), but **parcel-by-parcel zoning matters** (RS vs other residential/overlay/arterial parcels). ([City of Edmonton][1])
+* You must confirm any lot using the City’s **maps.edmonton.ca** zoning tools (Zoning Bylaw App / Zoning Map). ([maps.edmonton.ca][4])
+
+**Investor reality check:** In mature, owner-heavy areas, “more units per lot” is often possible on paper *but* constrained by:
+
+* lot width/depth, corner status, access/servicing,
+* parking requirements,
+* neighbourhood context + design regulations.
+
+---
+
+### 5) Population & population growth
+
+* **2011 population:** **5,920** ([City of Edmonton][1])
+* **2019 municipal census population:** **5,959** ([City of Edmonton][5])
+* The City’s Urban Design Analysis notes **population increased ~2.3% between 2011 and 2016** (and highlights an aging population). ([City of Edmonton][2])
+
+**Investor implication:** Ottewell is **stable-to-slightly-growing**, not a boom-growth node. Return drivers are typically **quality of neighbourhood + buy price + renovation/income strategy**, not population momentum.
+
+---
+
+### 6) Average income (affordability ceiling + tenant profile)
+
+2010 household income (2011 Census-based City profile):
+
+* **Median household income:** **~$73k**
+* **Average household income:** **~$85k–$90k** ([City of Edmonton][1])
+
+**Investor implication:** Middle-income family area. Renovation ROI is strongest with **practical upgrades** (layout, kitchens/baths done “nice but not luxury,” durability, parking/garage, yard usability).
+
+---
+
+### 7) Crime rate (how to measure it correctly)
+
+The most defensible public source is the Edmonton Police Service:
+
+* **Neighbourhood Crime Mapping / Community Safety Data Portal** (crime stats + trends). ([Edmonton Police Service][6])
+
+**How to underwrite (investor-style):**
+
+* Pull **property crime vs violent crime** separately.
+* Compare:
+
+  * areas near **Capilano Mall / major arterials** vs quiet interior crescents,
+  * theft-from-vehicle / garage break-ins (very relevant in detached-home areas).
+* Budget: lighting, cameras, secure gates/locks, and garage/yard security if you’re renting.
+
+---
+
+### 8) Rental supply/demand (liquidity for landlords)
+
+Demand indicators:
+
+* Anchors (schools + nearby post-secondary + retail) support steady rental demand. ([City of Edmonton][1])
+
+Supply indicators:
+
+* Ottewell is **not renter-dominated**: only **18% renter occupied** (2011). ([City of Edmonton][1])
+* Most stock is **single-detached**, so the rental market tends to be **main-floor / whole-home rentals + basement suites** rather than endless apartment competition. ([City of Edmonton][1])
+
+**Investor implication:** Usually **better tenant quality/stability**, but your rents must make sense relative to “tenant affordability” and competing mid-SE neighbourhoods.
+
+---
+
+### 9) Average rents (what to anchor on)
+
+Neighbourhood-specific “official average rents” are rarely published cleanly; use **Edmonton CMA** anchors + live comps.
+
+* **CMHC 2025 (Edmonton, purpose-built rentals):**
+
+  * **Vacancy rate:** 3.8%
+  * **Average 2-bedroom rent:** **$1,603** ([Canada Mortgage and Housing Corporation][7])
+
+**How to translate this to Ottewell:**
+
+* Ottewell’s rentals are often **detached homes / suites**, so rents will vary more by:
+
+  * parking/garage, yard, number of bedrooms, renovation level, and whether utilities are included.
+* Use CMHC as the **baseline**, then comp directly from current listings for:
+
+  * “whole house” rentals,
+  * legal/illegal basement suites (material difference in achievable rent & tenant demand).
+
+---
+
+### 10) Neighbourhood grade (A, B, C, D)
+
+**Ottewell: A- / B+ (investor grade)**
+
+Why it leans “A-/B+”:
+
+* **Owner-occupied 82%** (stability, pride of ownership). ([City of Edmonton][1])
+* Strong community infrastructure + parks + multiple schools + major retail node. ([City of Edmonton][1])
+* Not “A+” only because the housing stock is older (capex) and density/income-add opportunities are more lot-specific.
+
+---
+
+### 11) Long-term appreciation vs current returns/cashflow
+
+**Ottewell tends to be “appreciation + stability” first, cashflow second** (unless you add income).
+
+* Appreciation drivers:
+
+  * mature, owner-heavy neighbourhood characteristics (sticky demand). ([City of Edmonton][1])
+* Cashflow drivers:
+
+  * only strong if you **manufacture income** (suite strategy, improved layout, add bedrooms, utility separation, etc.).
+* Risk:
+
+  * older-home capital expenses can erase early-year returns if you underbudget.
+
+**Investor stance:** If you want **sleep-well holds** with upside through renovations/suites, Ottewell fits. If you want **instant high cash-on-cash**, you’ll need very disciplined buying and/or a suite plan.
+
+---
+
+### 12) Average house prices (how to estimate responsibly)
+
+Public “ballpark” tools can help, but treat them as **directional**:
+
+* HonestDoor’s Ottewell page provides property-level estimates and market info for the neighbourhood. ([HonestDoor][8])
+* Example property page shows a detached home sale around **$420k** (late 2025) and describes typical bungalow characteristics (built 1959). ([HonestDoor][9])
+
+**Best practice:** pull **recent sold comps** by:
+
+* bungalow vs 2-storey infill,
+* renovated vs original,
+* lot size/garage,
+* micro-location (arterials vs interior).
+
+---
+
+### 13) Strategies that work best in Ottewell
+
+Ranked from most realistic → more advanced:
+
+1. **Buy-and-hold family rental (detached home)**
+
+* Best for: stable tenants, longer holds, lower turnover.
+* Win conditions: clean, functional upgrades; garage/parking; yard.
+
+2. **Suite strategy (where zoning + layout allow)**
+
+* **Main + basement** to improve cashflow.
+* Underwrite carefully for permitting, egress, fire separation, soundproofing, parking, and utility handling.
+* Confirm zoning via **maps.edmonton.ca** and the bylaw framework. ([maps.edmonton.ca][4])
+
+3. **Value-add renovation (1950s–70s product)**
+
+* Highest ROI tends to be:
+
+  * add bedroom(s), open up kitchen/living, modernize baths,
+  * improve insulation/windows,
+  * mechanical updates that prevent “surprise capex.”
+
+4. **Infill / small-scale multi-unit (select lots only)**
+
+* Possible under Edmonton’s modern zoning approach in some contexts (RS supports up to 3 storeys and multi-unit small-scale intent). ([Edmonton Zoning Bylaw][3])
+* Real-world constraints: lot geometry, servicing, parking, neighbourhood fit.
+
+5. **Senior-oriented rental angle (selective)**
+
+* The Urban Design Analysis notes Ottewell has a higher proportion of seniors and seniors’ housing presence. ([City of Edmonton][2])
+* Product ideas: safer access, main-floor living, low-maintenance yard, grab bars, better lighting.
+
+---
+
+[1]: https://www.edmonton.ca/residential_neighbourhoods/Neighbourhoods/OttewellDemographicProfile.pdf "Ottewell Neighbourhood Profile"
+[2]: https://www.edmonton.ca/sites/default/files/public-files/assets/PDF/BGNOttewell-Urban-Design-Analysis.pdf "Ottewell Neighbourhood Renewal - Urban Design Analysis Report"
+[3]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[4]: https://maps.edmonton.ca/?utm_source=chatgpt.com "Edmonton Maps - City of Edmonton"
+[5]: https://www.edmonton.ca/sites/default/files/public-files/assets/census/2019_Census_Summary-Report_OTTEWELL.pdf?cb=1624887355 "Census 2019 Data - OTTEWELL"
+[6]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[7]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report"
+[8]: https://www.honestdoor.com/cities/ab/edmonton/ottewell?utm_source=chatgpt.com "Ottewell, Edmonton Real Estate"
+[9]: https://www.honestdoor.com/property/9652-ottewell-road-nw-edmonton-ab?utm_source=chatgpt.com "9652 Ottewell Road NW, Edmonton AB"
+
+
 # Kensington
 - https://en.wikipedia.org/wiki/Kensington,_Edmonton
 
