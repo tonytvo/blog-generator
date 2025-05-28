@@ -39,6 +39,15 @@ tags: ["realestate"]
 >    - what real estate investment strategies could work for this neighborhood?
 
 
+# Sylvan lake, Alberta
+
+# Inglewood, Red Deer, Alberta
+
+# Eastview, Red Deer, Alberta
+
+# Vanier Woods, Red Deer, Alberta
+
+
 # Anders South
 
 Here’s a comprehensive analysis of Anders South in Red Deer, Alberta:

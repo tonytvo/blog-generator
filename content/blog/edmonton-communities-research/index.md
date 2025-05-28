@@ -38,6 +38,49 @@ tags: ["realestate"]
 >    - what is average house prices?
 >    - what real estate investment strategies could work for this neighborhood?
 
+- stay away from 5 blocks of 132 Ave (stay away from the train tracks)
+
+# Oliver
+
+- https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/OliverDemographicProfile.pdf
+
+# Garneau
+
+- https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/GarneauDemographicProfile.pdf
+
+# Westmount
+
+- https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/WestmountDemographicProfile.pdf
+
+# Jasper place
+- https://en.wikipedia.org/wiki/Jasper_Place
+
+# Glenora place
+- https://www.edmonton.ca/public-files/assets/document?path=Neighbourhoods/GlenoraDemographicProfile.pdf
+
+# Callingwood
+- https://en.wikipedia.org/wiki/Callingwood,_Edmonton
+
+# Terrace heights
+- https://en.wikipedia.org/wiki/Terrace_Heights,_Edmonton
+
+# Ottewell
+- https://en.wikipedia.org/wiki/Ottewell,_Edmonton
+
+# Kensington
+- https://en.wikipedia.org/wiki/Kensington,_Edmonton
+
+# Glengarry
+- https://en.wikipedia.org/wiki/Glengarry,_Edmonton
+
+# Mill Woods
+- https://en.wikipedia.org/wiki/Mill_Woods
+- established homeowners, well-rounded
+- established shoppings centers, 
+- good access to major roads.
+- still in good price point
+
+
 # Ellerslie 
 
 Here’s a comprehensive investor‑style neighborhood outline for Ellerslie in southeast Edmonton, based on the latest publicly available data (\~2019–2025):
