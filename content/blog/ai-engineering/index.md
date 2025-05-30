@@ -2443,3 +2443,4 @@ Even the best foundation model won’t succeed in a team that lacks:
 
 - https://www.amazon.ca/AI-Engineering-Building-Applications-Foundation-ebook/dp/B0DPLNK9GN
 - https://www.amazon.ca/Designing-Machine-Learning-Systems-Huyen-ebook/dp/B0B1LGL2SR/
+- https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/craft-2025/docs/to_do.md
