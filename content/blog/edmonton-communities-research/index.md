@@ -2103,6 +2103,199 @@ Ranked from most realistic → more advanced:
 # Kensington
 - https://en.wikipedia.org/wiki/Kensington,_Edmonton
 
+[![Kensington Community League – Kensington, Edmonton](https://tse2.mm.bing.net/th/id/OIP.EaELJsge14GFY7e77fX3-gHaEO?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://kensingtoncl.ca/?utm_source=chatgpt.com)
+
+## Kensington (Edmonton, NW) — real estate investing neighborhood outline
+
+### 1) Nearby amenities & attractions (what residents actually use)
+
+* **Daily needs / shopping**
+
+  * **Kensington Shopping Centre** (and other small retail nodes along major roads). The City’s community walking map highlights **shopping centres near Kensington Elementary** and another at **132 Ave & 127 St**. ([City of Edmonton][1])
+* **Parks, recreation, community “third places”**
+
+  * **Kensington Community League**: community hall + **outdoor ice rinks** + playground (strong sign of neighborhood cohesion for families). ([kensingtoncl.ca][2])
+  * Nearby larger green space / facilities in the broader cluster: **Grand Trunk Fitness & Leisure Centre**, **Grand Trunk Park**, multiple parks shown in the walking map. ([City of Edmonton][1])
+* **Schools**
+
+  * **Kensington Elementary School** (inside the neighborhood). ([Wikipedia][3])
+* **Connectivity**
+
+  * Mature NW location with quick access to city-wide routes via **127 St / 137 Ave / 132 Ave** corridors (also where the commercial nodes tend to cluster). ([City of Edmonton][1])
+
+---
+
+### 2) When homes were commonly built (development era)
+
+* Kensington was replotted for **post-war residential development**, with the street pattern reflecting the **1950s** “enclosed road access” planning model. ([City of Edmonton][1])
+* Practical takeaway: expect a large share of **mid-century housing stock** (with renovations varying widely by block and by owner).
+
+---
+
+### 3) Common building types (what you’ll see on the ground)
+
+From Edmonton’s **2016 Municipal Census (Kensington)** structure type distribution: ([gov.edmonton.ab.ca][4])
+
+* **Single detached houses:** **~60%**
+* **Apartments/condos (1–4 storeys):** **~21%**
+* **Duplex/fourplex:** **~13%**
+* Smaller slice: row housing + institutional/collective residences
+
+**Investment implication:** The neighborhood already supports a **mix of low-rise multi-family and small multiplex forms**, which generally makes gentle density / suite strategies more “normal” to buyers and renters than in 90% single-detached-only areas.
+
+---
+
+### 4) Zoning & “can I add more units per lot?”
+
+Edmonton’s current zoning framework (Bylaw **20001**) includes the **RS – Small Scale Residential Zone**, whose purpose is to allow **small-scale residential development up to 3 storeys** including **detached, attached, and multi-unit housing**. ([Edmonton Zoning Bylaw][5])
+
+**What this means for an investor (in plain English):**
+
+* In many mature Edmonton neighborhoods, RS is now the “default” replacement for older single-detached zoning (details vary by parcel).
+* RS is **friendlier to adding units** than old-school “single-detached only,” but your *actual* unit count depends on:
+
+  * lot width/depth and setbacks
+  * servicing, parking, site coverage, and design rules
+  * whether you’re adding **secondary suites**, **garden suites**, or **multi-unit** forms
+* **Action step (fast due diligence):** confirm the specific parcel’s zone on the City zoning map, then cross-check the RS (or other zone) rules and any overlays.
+
+---
+
+### 5) Population & growth
+
+**2016 population:** **3,849** (municipal census). ([gov.edmonton.ab.ca][4])
+**2019 population:** **3,678**.
+
+That’s roughly a **-4% to -5% change** over that window (directionally consistent with “stable mature area” dynamics rather than rapid greenfield growth).
+
+---
+
+### 6) Average income (and how reliable the data is)
+
+Kensington’s 2016 municipal census includes a **household income distribution**, but **non-response is very high (~67%)**, which makes any “average income” estimate **noisy**. ([gov.edmonton.ab.ca][4])
+Among respondents, the largest buckets are **<$100k household income**, with fewer households reporting above $100k (again: interpret cautiously due to the non-response rate). ([gov.edmonton.ab.ca][4])
+
+**Investor read:** income is likely **mixed to mid**, with some fixed-income/senior households (see next section), plus working households—good for “workforce rental” demand, less ideal if you’re targeting luxury rent levels.
+
+---
+
+### 7) Crime rate (how to check it properly)
+
+Edmonton Police Service provides a **Neighbourhood Crime Mapping / Community Safety Data Portal** where you can view crime counts by neighborhood and time period. ([Edmonton Police Service][6])
+
+**Practical guidance:**
+
+* Pull the last **12–24 months** for:
+
+  * break & enter, theft from auto, vehicle theft (these often drive landlord headaches)
+  * assault/robbery (tenant comfort + leasing velocity)
+* Compare to **adjacent neighborhoods** to judge whether Kensington is “better/worse than its pocket,” not just city-wide.
+
+---
+
+### 8) Rental supply/demand (what the housing mix implies)
+
+From 2016: **Owned ~45%**, **Rented ~24%**, with a large “no response” segment. ([gov.edmonton.ab.ca][4])
+Structure mix includes a meaningful share of **low-rise apartments** and **duplex/fourplex**, which usually correlates with:
+
+* steady baseline rental supply (not a pure homeowner enclave)
+* renter familiarity with the area (easier leasing than “all-owner” pockets)
+
+**Macro demand anchor:** Edmonton’s purpose-built rental market vacancy rate is reported at **3.8%** with average 2-bed rent **$1,603** (market-wide context, not Kensington-specific). ([Canada Mortgage and Housing Corporation][7])
+
+---
+
+### 9) Average rents (expectations + reality check)
+
+You’ll want to underwrite rents using:
+
+* **Market-wide reference:** Edmonton avg **2BR $1,603** (purpose-built) and **$1,655** (rented condos) per CMHC. ([Canada Mortgage and Housing Corporation][7])
+* **Neighborhood-level estimate:** HonestDoor shows **Average Rental Estimate ~ $1,985** for Kensington. ([HonestDoor][8])
+
+**How I’d interpret that gap:**
+
+* Kensington’s “all-in” rental estimate may reflect a mix that includes **single-family / main-floor / larger units**, not just purpose-built 2BR apartments.
+* For underwriting: model **2–3 rent scenarios** (conservative = CMHC-ish; base = local comps; upside = renovated/suite product).
+
+---
+
+### 10) Neighborhood grade (A / B / C / D)
+
+**My grade: B- / C+ (workforce-stable mature neighborhood)**
+
+Why:
+
+* **Pros:** mature layout + schools + community league assets; meaningful existing small multi-family stock; prices that can still pencil for cash flow better than many “A” prestige neighborhoods.
+* **Cons:** not a prestige/address premium area; returns can be capped by tenant-income ceiling unless you offer better product (reno, legal suites, clean management).
+
+(If your strategy is *mainly appreciation-first*, you’ll likely prefer a stronger “A/B+” infill belt closer to core or top school catchments.)
+
+---
+
+### 11) Long-term appreciation vs current cash flow
+
+**Kensington tends to skew more “cash-flow workable” than “home-run appreciation.”**
+
+* Mature NW, mid-century stock: appreciation is usually **steadier, more cyclical with Edmonton employment**, and less “scarcity premium” than elite central neighborhoods.
+* The **zoning shift toward small-scale multi-unit** can improve long-run land value *where redevelopment is feasible*, but the payoff is highly lot-specific (size, location, servicing, corner exposure).
+
+---
+
+### 12) Average house prices (today-ish)
+
+* HonestDoor reports **Average price ~ $379,216** in Kensington (current month on their page). ([HonestDoor][8])
+* Realtor.ca shows active listings starting around the low $200Ks (mix of condos/townhomes vs houses). ([Realtor][9])
+
+**Underwriting tip:** split your pricing comps into:
+
+* condos / low-rise apartments
+* duplex/half duplex
+* detached houses (reno vs not)
+  Because the averages blur very different assets.
+
+---
+
+### 13) Strategies that can work well here (ranked by fit)
+
+#### A) **Legal secondary suite / “mortgage helper” on detached**
+
+* Best where you can buy a **detached** that’s structurally suite-friendly (separate entrance potential, good mechanical layout).
+* Plays well with the neighborhood’s detached-heavy mix (~60%). ([gov.edmonton.ab.ca][4])
+  **Goal:** improve DSCR and reduce vacancy risk with diversified rent streams.
+
+#### B) **Buy-and-hold small multiplex (duplex/fourplex)**
+
+* The neighborhood already has **duplex/fourplex stock (~13%)** and low-rise apartments (~21%). ([gov.edmonton.ab.ca][4])
+  **Goal:** stabilize with “workforce” tenants; keep capex disciplined.
+
+#### C) **Value-add on tired mid-century homes**
+
+* Post-war stock often means: older roofs/windows, dated interiors, sometimes knob-and-tube risk in older pockets (inspect carefully), and opportunities to add bedrooms/baths.
+* Works best if you’re good at renovation **scope control** (avoid “pretty reno” overcapitalization).
+
+#### D) **Infill / small-scale redevelopment (select lots only)**
+
+* Because RS is intended to permit **multi-unit up to 3 storeys**, some parcels can support higher unit counts than before (subject to rules). ([Edmonton Zoning Bylaw][5])
+  **Where it works:** corner lots, larger lots, good transit/arterial proximity, straightforward servicing.
+
+#### E) **Rent-by-room (only if tenant profile fits)**
+
+* Can work near transit corridors and with good property management.
+* But match to neighborhood dynamics; you don’t want turnover-heavy operations if your edge is limited time.
+
+---
+
+[1]: https://www.edmonton.ca/transportation/KensingtonWalkingMap.pdf "Community Walking Maps - Kensington, Calder, Lauderdale, Rosslyn"
+[2]: https://kensingtoncl.ca/?utm_source=chatgpt.com "Kensington Community League – Kensington, Edmonton"
+[3]: https://en.wikipedia.org/wiki/Kensington%2C_Edmonton?utm_source=chatgpt.com "Kensington, Edmonton"
+[4]: https://www.gov.edmonton.ab.ca/public-files/assets/document?path=census%2FSummary+Report+of+All+Questions_KENSINGTON_2016.pdf "Summary Report of All Questions"
+[5]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[6]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[7]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report | CMHC"
+[8]: https://www.honestdoor.com/cities/ab/edmonton/kensington?utm_source=chatgpt.com "Kensington, Edmonton, AB Real Estate"
+[9]: https://www.realtor.ca/ab/edmonton/kensington/real-estate?utm_source=chatgpt.com "10 Kensington Real Estate MLS® Listings & Houses for Sale"
+
+
 # Glengarry
 - https://en.wikipedia.org/wiki/Glengarry,_Edmonton
 
