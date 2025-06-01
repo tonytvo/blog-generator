@@ -16040,6 +16040,197 @@ Only if you can find:
 
 # Legacy
 
+[![Discover Legacy - Legacy](https://tse1.mm.bing.net/th/id/OIP.TnQEJnpu_NdPtzn0SyQqdAHaEK?pid=Api)](https://legacylife.ca/discover-legacy/?utm_source=chatgpt.com)
+
+## Legacy (Calgary SE) — investor-focused neighborhood outline
+
+### 1) Nearby amenities & attractions (what drives livability + tenant demand)
+
+* **Parks / outdoors:** Legacy is built around **large environmental reserve space (~300 acres)** plus a big network of **pathways (~15 km)** and multiple playground parks—this is a major “family premium” driver. ([Crystal Creek Homes][1])
+* **Retail & daily needs:** In-community/adjacent retail nodes, especially **Legacy Township / “Township” mixed-use retail** along Macleod Trail (grocery/services/dining). ([Township Shopping Centre][2])
+* **Schools:** **All Saints High School** is in/serves the area (strong demand driver for family renters). ([All Saints Catholic School][3])
+* **Transit connectivity:** Most renters drive, but the area is bus-connected to the **Somerset–Bridlewood CTrain** terminal (park-and-ride). ([Wikipedia][4])
+* **Road access:** Quick access to **Macleod Trail + Stoney Trail** is a key commuting advantage (downtown, logistics corridors, south health/retail nodes). ([app.tricohomes.com][5])
+
+**Investor note:** Legacy “wins” on **family lifestyle + new-build comfort**, not on walkability or proximity-to-core employment like inner-city neighborhoods.
+
+---
+
+### 2) When were houses commonly built?
+
+Legacy is a **new master-planned community** (established ~2010; growth accelerated in the 2010s+). ([marniecampbell.ca][6])
+From the City’s 2021 Census profile: the housing stock is **overwhelmingly new**, with the majority built **2011–2021**. 
+
+---
+
+### 3) Common building types (what you’ll actually buy/rent)
+
+From the City’s 2021 Census profile for Legacy: 
+
+* **Single-detached:** ~**41.7%**
+* **Row house / townhouse:** ~**25.2%**
+* **Apartments (low/high-rise):** ~**26.8%**
+* **Semi-detached/duplex:** ~**6.1%**
+
+Tenure (owner vs renter): about **64.3% owned** and **35.7% rented**. 
+
+**Implication:** You can invest across **detached, duplex, townhomes, and newer apartment-style rentals**—but you’ll compete with lots of “investor-grade” similar product (especially condos/townhomes).
+
+---
+
+### 4) Zoning & “more units per lot” potential
+
+What matters in Calgary today:
+
+* Calgary has moved toward **more gentle density (rowhouses/secondary suites, etc.)** through zoning and housing policy changes (citywide rezoning framework and updated districts like **R-CG / R-G** depending on parcel). ([https://www.calgary.ca][7])
+* **In practice in Legacy:** much of the community is planned with a **mix**—detached zones, areas for **townhomes/row**, and pockets of **multi-family** near commercial/collector roads.
+
+**Does zoning allow more units per lot?**
+
+* **Often yes, but parcel-specific.** Your upside typically comes from:
+
+  * **Legal secondary suites / backyard suites** where permitted
+  * Targeting lots already zoned for **duplex/row** or small multi-family
+* **Action step (critical):** before buying for suite/density, confirm the exact parcel’s district on the City land use map and validate suite rules for that district (don’t assume).
+
+---
+
+### 5) Population & growth
+
+* **2021 Census (City profile):** **Population ~8,000** and **~3,045 households**, with **median household income ~$105,000** and **median age ~34.4**. 
+* Legacy is still a **build-out community**, so growth is typically driven by continued development and new phases (the City provides a **population projection chart** for Legacy). ([https://www.calgary.ca][8])
+
+**Investor takeaway:** growth tailwind is real, but it comes with **ongoing new supply**, which can cap rent growth in certain product types.
+
+---
+
+### 6) Average income (affordability / tenant quality signal)
+
+* **Median household income:** about **$105,000** (2021 Census profile). 
+
+**Investor takeaway:** tends to support **stable family tenants** and better payment behavior, but also pushes purchase prices up (cap rates compress).
+
+---
+
+### 7) Crime rate (risk + tenant perception)
+
+* A third-party community rollup (sourced from CPS data) reported Legacy averaging about **~5–6 crimes/month** and **~68 crimes YTD (as of Nov 2024)**, down YoY. ([MyCalgary][9])
+* For the authoritative source and latest month, use the **Calgary Police Service community crime dashboards/statistical reports**. ([https://www.calgary.ca][10])
+
+**Investor takeaway:** Legacy is generally perceived as **low-crime** relative to many inner-city areas, which supports family demand.
+
+---
+
+### 8) Rental supply/demand (how “easy” is it to place tenants?)
+
+Using RentFaster’s community snapshot (a practical proxy for active supply):
+
+* **~91 active rentals** in the community at the time of the snapshot, across condos, townhouses, duplexes, houses, basements, etc. ([RentFaster.ca][11])
+
+**Interpretation:**
+
+* Supply is **material** (lots of investor-owned units), especially condos/townhomes/basements.
+* Demand is typically strongest for:
+
+  * **Clean, pet-friendly family rentals**
+  * **Homes near schools/parks**
+  * **Newer units with parking + storage**
+
+---
+
+### 9) Average rents (by property type)
+
+RentFaster’s Legacy community rental stats (snapshot): ([RentFaster.ca][11])
+
+* **Apartments:** avg **~$1,602**
+* **Condo units:** avg **~$1,732**
+* **Townhouses:** avg **~$2,008**
+* **Duplexes:** avg **~$2,112**
+* **Houses:** avg **~$2,487**
+* **Basement suites:** avg **~$1,267**
+* **All types (blended):** avg **~$1,716**
+
+**Investor takeaway:** basements can materially improve total rent on detached/duplex assets **if legal + well-designed**.
+
+---
+
+### 10) A / B / C / D neighborhood classification (investor lens)
+
+**Legacy = typically “A- / B+”** (newer suburban, high livability, family-oriented, good incomes).
+
+* **A traits:** newer stock (lower capex surprises), parks/amenities, strong family demand, generally safer perception. 
+* **B+ caution:** not inner-city; returns can be more “equity growth + stability” than high cash yield; plus ongoing new supply competition.
+
+---
+
+### 11) Long-term appreciation vs current cashflow
+
+**How Legacy usually behaves:**
+
+* **Appreciation drivers:** continued build-out, amenity completion, school maturation, retail nodes filling in, and broader Calgary cycle. ([https://www.calgary.ca][8])
+* **Cashflow reality:** newer SE communities often have **compressed cap rates**—your all-in cost is high, and rents (while strong) may not fully “keep up” unless you add suites or buy the right product.
+
+**Practical expectation:** Legacy tends to be better for **stable long-term hold + equity growth**, and “cashflow-positive” deals usually require **suite strategy** or buying **attached product** at the right basis.
+
+---
+
+### 12) Average house prices (what you’ll pay)
+
+Recent public market snapshots (use as directional, not gospel):
+
+* **Zolo (Legacy trends):** avg sold price shown around **~$540K** (period shown in the report). ([Zolo][12])
+* **HonestDoor (Legacy):** “Average HonestDoor Price” shown around **~$648K** (current month on their page). ([HonestDoor][13])
+* **CREB citywide benchmark** context is available (but it’s citywide, not Legacy-specific). ([CREB][14])
+
+**Investor note:** Legacy has **wide dispersion** (condos vs townhomes vs detached vs estate product). Always segment your comps by **property type**.
+
+---
+
+## 13) Investment strategies that fit Legacy
+
+### Strategy A — Family buy-and-hold (low headache)
+
+* Target **3–4 bed detached/duplex** near parks/schools.
+* Optimize for: fenced yard, garage/parking, pet-friendly, storage.
+* Best for: stable tenants, lower turnover.
+
+### Strategy B — Legal suite “yield boost” (best cashflow lever here)
+
+* Buy detached/duplex with **existing legal suite**, or a layout that can be legalized.
+* Underwrite conservatively: separate entrance, parking, soundproofing, fire separation, permits.
+
+### Strategy C — Townhome/row “rent-ready” portfolio scaling
+
+* Lower price point than detached; good demand from young families.
+* Watch-outs: condo fees, special assessments, stricter tenant rules.
+
+### Strategy D — Newer condo/apartment rentals (only if your basis is excellent)
+
+* Works if you can buy **below replacement** or in a building with strong occupancy.
+* Biggest risk: oversupply + rent competition from similar units. (You must differentiate with value-add furnishing, pets, parking, or longer lease terms.)
+
+### Strategy E — Land-banking within a growth corridor (patient equity play)
+
+* If you believe in Calgary’s long-run growth and the south expansion, Legacy can be a “sleep-well” hold—**but don’t expect inner-city rent-to-price ratios**.
+
+---
+
+[1]: https://crystalcreekhomes.ca/community/legacy/?utm_source=chatgpt.com "Legacy"
+[2]: https://experiencetownship.ca/?utm_source=chatgpt.com "Township Shopping Centre | South Calgary's Newest Retail ..."
+[3]: https://allsaints.cssd.ab.ca/?utm_source=chatgpt.com "All Saints High School - Calgary Catholic School District"
+[4]: https://en.wikipedia.org/wiki/Somerset%E2%80%93Bridlewood_station?utm_source=chatgpt.com "Somerset–Bridlewood station"
+[5]: https://app.tricohomes.com/communities/legacy?utm_source=chatgpt.com "Legacy"
+[6]: https://www.marniecampbell.ca/calgary-legacy-real-estate.php?utm_source=chatgpt.com "Legacy Calgary Homes for Sale"
+[7]: https://www.calgary.ca/planning/land-use.html?utm_source=chatgpt.com "Calgary Land Use Bylaw 1P2007"
+[8]: https://www.calgary.ca/communities/profiles/legacy.html "Legacy profile"
+[9]: https://mycalgary.com/community/calgary/se-communities/legacy/legacy-crime-activity-update/?utm_source=chatgpt.com "Legacy Crime Statistics Update - MyCalgary"
+[10]: https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html?utm_source=chatgpt.com "Calgary Police Service Statistical Reports"
+[11]: https://www.rentfaster.ca/ab/calgary/community/legacy/?utm_source=chatgpt.com "Legacy Community Information - Calgary"
+[12]: https://www.zolo.ca/calgary-real-estate/legacy/trends?utm_source=chatgpt.com "Legacy Real Estate Trends"
+[13]: https://www.honestdoor.com/cities/ab/calgary/legacy?utm_source=chatgpt.com "Legacy, Calgary Real Estate - HonestDoor"
+[14]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary - CREB"
+
+
 # Greenwood/Greenbriar
 
 # Bonavista Downs
