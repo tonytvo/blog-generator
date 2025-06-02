@@ -16233,6 +16233,229 @@ Recent public market snapshots (use as directional, not gospel):
 
 # Greenwood/Greenbriar
 
+[![Greenwood / Greenbriar Homes for Sale in Calgary](https://tse4.mm.bing.net/th/id/OIP.lGxE41sPOr8GxlNcycc2bQHaGP?pid=Api)](https://www.yychomes.net/greenwood-greenbriar-homes-for-sale/?utm_source=chatgpt.com)
+
+Below is an investor-focused, **detailed outline for Greenwood/Greenbriar (NW Calgary)** (often discussed alongside the **Greenwich/Trinity Hills** growth area by WinSport/COP).
+
+---
+
+## 1) Nearby amenities & attractions (what actually drives tenant/buyer demand)
+
+**Major draws (minutes away)**
+
+* **WinSport / Canada Olympic Park (COP)** (sports, events, year-round recreation) — a major “gravity” amenity for the area. ([The John Hripko Real Estate Team][1])
+* **Bow River / Bowness Park / Valley Ridge** nearby recreation network (big weekend + lifestyle pull). ([The John Hripko Real Estate Team][1])
+* **Trinity Hills** retail node (groceries/services/restaurants/retail clustering near COP). ([Podium Apartments][2])
+* **Calgary Farmers’ Market West (Greenwich)**—a legit lifestyle amenity that helps new-build absorption. ([Alberta Major Projects][3])
+
+**Connectivity**
+
+* Immediate access to **Hwy 1 (Trans-Canada)** + **Stoney Trail** = strong commuter convenience and “escape to the mountains” positioning.
+
+---
+
+## 2) When were houses commonly built? (vintage & hidden capex risk)
+
+From the City of Calgary community profile (**occupied private dwellings**):
+
+* **1961–1980:** **44%**
+* **1981–1990:** **12%**
+* **1991–2000:** **14%**
+* **2001–2010:** **8%**
+* **2016–2021:** **23%** 
+
+**Investor translation**
+
+* It’s a **two-speed** community: older stock (including mobile homes) + pockets of newer development. Expect higher variance in condition/capex and tenant profile.
+
+---
+
+## 3) Common building types (and what that implies for strategy)
+
+**Dwelling structure type (occupied private dwellings):**
+
+* **Movable dwellings:** **79%** (this is the headline)
+* **Apartment (5+ storeys):** **13%**
+* **Single detached:** **4%**
+* **Semi-detached:** **3%**
+* **Rowhouse / duplex apartments:** ~0% reported in the profile 
+
+**Investor translation**
+
+* Greenwood/Greenbriar is *not* a typical “mostly detached homes” neighbourhood. It’s heavily influenced by **mobile-home style housing** plus some **multi-family** / newer product nearby.
+
+---
+
+## 4) Zoning / land-use: does it allow more units per lot?
+
+### What you should assume (without pulling a specific parcel)
+
+* The area includes **Direct Control** and redevelopment planning tied to the broader Greenbriar/Greenwich build-out.
+* Example: **Bylaw 65D2021** ties parts of the area to **Residential – Low Density Mixed Housing (R-G)** rules and explicitly **requires a development permit** even for certain low-density builds. 
+
+### Does it allow more units per lot?
+
+* **R-G** is a *more flexible low-density district* than classic R-1 style zoning (often supporting a mix of low-density forms). However, **exact “units per lot” depends on the parcel’s district** and whether it’s in a **Direct Control** area. 
+
+**Practical investor move**
+
+* If you’re targeting added density (secondary suite, laneway/garage suite, duplex/row forms, small multi), you **must**:
+
+  1. confirm the parcel’s land-use district, and
+  2. check any DC bylaw overlays + setback/parking rules.
+
+---
+
+## 5) Population & population growth
+
+**Population (2021, private households):** **1,055** 
+
+**Growth signal (directionally)**
+
+* This is a **small base**, and the area is closely linked to a **larger redevelopment pipeline** (see Section 11). Population can change *non-linearly* as new phases complete.
+
+---
+
+## 6) Average income in the area (affordability & tenant quality clues)
+
+* **Median household income (2020): $57,600** (vs **Calgary: $98,000**) 
+* **20%** of the population (in private households) is in **low income** (vs **Calgary: 9%**). 
+
+**Investor translation**
+
+* Expect **higher price sensitivity**, more “value renters,” and more turnover risk unless you’re offering a differentiated product (newer townhome, furnished corporate rental, etc.).
+
+---
+
+## 7) Crime rate (how to interpret it correctly here)
+
+Two realities:
+
+1. **Small population = volatile monthly/annual counts** (one incident swings the “rate” a lot).
+2. Official sources exist, but many “neighbourhood crime blogs” are secondary.
+
+Useful references:
+
+* Calgary Police publish **community crime & disorder statistics dashboards/reports**. ([https://www.calgary.ca][4])
+* One secondary summary reports **very low absolute incident counts** (e.g., ~11 crimes as of Nov 2024, per their methodology). Treat as directional only. ([MyCalgary][5])
+
+**Investor move**
+
+* Use crime *trends* + “type of crime” (B&E vs vehicle vs disorder) more than a single score.
+
+---
+
+## 8) Rental supply/demand (micro + Calgary-wide context)
+
+**Micro (community structure)**
+
+* With **79% movable dwellings**, rental dynamics are not the same as a standard “detached + basement suite” neighbourhood. 
+
+**Macro (Calgary rental market)**
+
+* CMHC shows Calgary purpose-built apartment vacancy around the mid-single digits recently (varies by year and survey). ([CMHC][6])
+
+**Investor translation**
+
+* Demand is real, but product segmentation matters a lot:
+
+  * older/mobile-home product competes on **price**
+  * newer Greenwich/Trinity Hills product competes on **lifestyle + finishes + convenience**
+
+---
+
+## 9) Average rents (what you can underwrite)
+
+Because this is a small community and listings can be sparse, it’s safest to triangulate.
+
+* **Estimated average rent (community-level): ~$1,716/month** (automated estimate source). ([HonestDoor][7])
+* For Calgary-wide context and unit-type baselines, RentFaster and CMHC tables help frame expectations. ([RentFaster.ca][8])
+
+**Underwriting tip**
+
+* Underwrite as **two submarkets**:
+
+  1. **Legacy Greenwood Village/mobile-home style** (lower rents, higher management intensity)
+  2. **Newer Greenwich/row/townhome style** (higher rents, better tenant profile, often higher entry price)
+
+---
+
+## 10) Is it A, B, C, or D neighbourhood? (investor grading)
+
+**My take: “B-/C+ depending on product type.”**
+
+* **C+** if you’re buying/operating older/mobile-home style or older stock: lower income base, more turnover, more management.
+* **B / B+** if you’re positioned in **newer Greenwich/Trinity Hills-adjacent product** with walkable amenities and modern finishes (stronger tenant/buyer preference tailwinds). ([Alberta Major Projects][3])
+
+---
+
+## 11) Long-term appreciation vs current cashflow (the key trade)
+
+**Why appreciation could be stronger than it “looks”**
+
+* There is explicit planning momentum: a City info package notes a proposal to create a comprehensive mixed-use village and **increase residential units from 977 to 1,200** (redevelopment intensity is a real catalyst). 
+
+**Cashflow reality**
+
+* Newer product: higher rents but **high acquisition costs** (cap rates can be compressed).
+* Older product: potentially cheaper entry, but **operational risk** and tenant-quality variability.
+
+**Investor stance**
+
+* This area can be a **“change-of-use / change-of-neighbourhood”** story where the *right* asset benefits disproportionately as amenities + mixed-use density build out.
+
+---
+
+## 12) Average house prices (quick market snapshot)
+
+From an automated pricing aggregator:
+
+* **Average home price:** **~$321,400**
+* **Median home price:** **~$295,000** ([HonestDoor][7])
+
+(Use these as **starting points**; confirm with sold comps for the exact product type—mobile vs condo vs townhome vs detached.)
+
+---
+
+## 13) Strategies that can work here (what I’d actually consider)
+
+### Strategy A — “Newer-product rental” (lower headache, better tenants)
+
+**Buy:** newer townhome/condo in Greenwich/adjacent
+**Angle:** professional tenants, furnished mid-term (insurance/relocation), or “amenity-driven” premium
+**Why:** leverages COP/Trinity Hills/Farmers’ Market tailwinds. ([Alberta Major Projects][3])
+
+### Strategy B — “Redevelopment adjacency” (appreciation optionality)
+
+**Buy:** property that benefits from the mixed-use buildout (access, walkability, future demand)
+**Hold:** longer horizon; don’t force cashflow assumptions
+**Why:** unit-growth plan is meaningful relative to the small base. 
+
+### Strategy C — “High-diligence value play” (only if you have systems)
+
+**Buy:** older stock where you can improve condition/tenant profile
+**But:** strict diligence on condition + park/community rules + exit liquidity (if it’s movable-dwelling exposure). 
+
+### Strategy D — “Zoning upside” (parcel-specific)
+
+If your goal is **more units per lot**, shortlist parcels, then verify:
+
+* land-use district (R-G vs DC vs other)
+* suite/parking/DP requirements (DCs can remove “DP exempt” shortcuts) 
+
+---
+
+
+[1]: https://teamhripko.ca/calgary-neighbourhoods/northwest/greenwood-greenbriar/?utm_source=chatgpt.com "Greenwood Greenbriar - Calgary Neighbourhood Guide"
+[2]: https://www.podium-rentals.ca/blog/2025/11/18/a-closer-look-at-trinity-hills/?utm_source=chatgpt.com "A Closer Look at Trinity Hills in Calgary, AB"
+[3]: https://majorprojects.alberta.ca/details/Calgary-Farmers-Market-Greenwich/3028?utm_source=chatgpt.com "Calgary Farmers Market (Greenwich) - Alberta Major Projects"
+[4]: https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html?utm_source=chatgpt.com "Calgary Police Service Statistical Reports"
+[5]: https://mycalgary.com/crime-statistics/greenwood-greenbriar-crime-activity-update/?utm_source=chatgpt.com "Greenwood-Greenbriar Crime Statistics Update - MyCalgary"
+[6]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Summary+Statistics&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=TIMESERIES&utm_source=chatgpt.com "Calgary — Historical Rental Market Statistics Summary"
+[7]: https://www.honestdoor.com/property/51-greenbriar-pl-nw-calgary-ab?utm_source=chatgpt.com "51 Greenbriar Pl NW, Calgary AB | HonestDoor"
+[8]: https://www.rentfaster.ca/rent-report/?utm_source=chatgpt.com "Rent Report for Apartments & Houses in Canada"
+
+
 # Bonavista Downs
 
 
