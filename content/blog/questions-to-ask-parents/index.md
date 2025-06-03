@@ -423,6 +423,12 @@ tags: ["family", "emotion"]
 - if you could change one thing about yourself spiritually, what would it be?
 - if you could change one thing about yourself emotionally, what would it be?
 
+# questions to ask before marriages
+
+- Define marriage. What is its purpose?
+- Do you believe that marriage is a contract? Why or why not?
+- How do you think your fiancé will answer these questions?
+
 # Quotes
 
 the unexamined life is not worth living - socrates
