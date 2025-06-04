@@ -16458,6 +16458,237 @@ If your goal is **more units per lot**, shortlist parcels, then verify:
 
 # Bonavista Downs
 
+Below is an investor-focused **deep outline for Bonavista Downs (Calgary, SE)** (small pocket next to Lake Bonavista / Fish Creek corridor).
+
+---
+
+## 1) Nearby amenities & attractions (livability drivers)
+
+**Big “value props”**
+
+* **Southcentre Mall + services cluster** (retail, restaurants, errands) and nearby **Trico Centre for Family Wellness** / **Fish Creek Library** area. ([Calgary Real Estate][1])
+* **Fish Creek Provincial Park** access (major urban park: trails, biking, nature). ([joesamson.com][2])
+* Strong “established suburb” feel with quick access to major roads (Deerfoot/Macleod/Anderson area—practically, commuting optionality).
+
+**Investor takeaway**
+
+* Amenities are *already built* (not speculative), which supports long-run demand and resale liquidity.
+
+---
+
+## 2) When were houses commonly built?
+
+This is an older, built-out community.
+
+* **1961–1980: ~99% of occupied dwellings** (Bonavista Downs community profile). 
+
+**Investor takeaway**
+
+* You’re buying **land + location**, and improvements/renos matter a lot (kitchens, roofs, windows, furnaces, insulation, sewer scope, etc.).
+
+---
+
+## 3) Common building types (what you’ll actually be buying)
+
+* **~99% single-detached houses** (very little missing-middle inside the community). 
+
+**Investor takeaway**
+
+* Most deals are **single-family rentals**, **reno-forced appreciation**, or **suite/additional unit plays** (where zoning/parcel rules allow).
+
+---
+
+## 4) Zoning: does it allow more units per lot?
+
+You need to verify each parcel on **calgary.ca/myproperty** (districts can vary even within a small area), but here’s the practical framework:
+
+### A) Suites (within a house)
+
+* The City’s guidance: **secondary suites are allowed in single detached/contextual dwellings**, and **no more than one secondary suite per property**. ([https://www.calgary.ca][3])
+
+### B) “More units” via rezoning / R-CG
+
+If a property is (or can be rezoned to) **R-CG**, the City’s own explainer notes:
+
+* **Up to 4 units on a typical 50’ lot**, and potentially **each unit could have a secondary suite** (unless excluded via R-CGex). ([https://www.calgary.ca][4])
+
+**Investor takeaway**
+
+* Bonavista Downs is *mostly SFH*, so “more units” is usually:
+
+  1. **legal secondary suite** (best first step where feasible), and/or
+  2. **rezoning / redevelopment** on specific lots (corner lots, larger lots, assembly potential).
+
+---
+
+## 5) Population & growth
+
+* **Population in private households: 830** (community profile). 
+* The community is essentially **built-out**, so long-run growth is usually **flat to modest** (changes come from household size, aging, and occasional redevelopment), not from new subdivision phases.
+
+---
+
+## 6) Average income (ability-to-pay)
+
+From the City’s community profile (income reference year 2020):
+
+* **Median household income: $93,000** (vs Calgary overall $98,000 shown on the same chart). 
+* **Low-income rate (LIM-AT applicable population): ~10%**. 
+* **Tenure**: **83% owners / 17% renters** (tight rental base). 
+
+**Investor takeaway**
+
+* This is a **higher-owner** neighborhood: good for stability, but **rental turnover and available inventory can be limited**.
+
+---
+
+## 7) Crime rate (how to evaluate it properly)
+
+The “right” source is the **Calgary Police Service community crime dashboard/map**, where you can select **Bonavista Downs** and compare to nearby communities. ([ArcGIS][5])
+
+**Practical investor read (without guessing numbers):**
+
+* Given **high owner-occupancy (83%)** and small population base, you’re typically underwriting **lower disorder risk** than high-density / high-transiency areas—then confirm in the CPS dashboard.
+
+---
+
+## 8) Rental supply/demand
+
+**Supply**
+
+* RentFaster shows **no active listings at the moment** for Bonavista Downs (common for tiny, owner-heavy pockets). ([RentFaster.ca][6])
+* This doesn’t mean “no demand”—it means **thin market visibility** and deals often happen via property managers, word-of-mouth, and broader “Lake Bonavista / South” search behavior.
+
+**Demand drivers**
+
+* Proximity to major amenities + park access supports **family renters** and **professional tenants**.
+
+---
+
+## 9) Average rents (what to underwrite)
+
+Because active rental listings can be thin, use multiple anchors:
+
+**A) Community profile (median shelter costs for renters)**
+
+* **Median monthly shelter costs (rented dwellings): $1,920**. 
+
+**B) “Comparable area” anchor (Lake Bonavista broader stats)**
+
+* HonestDoor shows **Lake Bonavista average rental estimate** (broader area, not identical) around **$4,553**. ([HonestDoor][7])
+
+**How I’d underwrite (conservatively)**
+
+* Treat $1,920 as a **floor-ish anchor** (it’s a median across renter households, not “new listing rent”). Then validate by pulling **5–10 comparables** from nearby SE “lake communities” and adjusting for:
+
+  * house size, garage, reno quality, basement suite, and proximity to transit/amenities.
+
+---
+
+## 10) Is it an A, B, C, or D neighborhood?
+
+**Bonavista Downs = A-/B+** (investor lens)
+
+* **Strengths:** prime established location, park access, high owner share, detached housing stock, resale desirability.
+* **Weaknesses:** price point can compress cashflow; limited “scalable” rental inventory.
+
+(“A” in quality/liquidity, “B+” if you’re grading strictly on cashflow vs entry price.)
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**Appreciation profile**
+
+* Built-out, scarce-lot, established community = typically **better long-term resilience** than far-out new-build supply areas (less “easy substitution”).
+* Upside is often **renovation-driven** + **selective redevelopment** rather than broad “new wave” growth.
+
+**Cashflow profile**
+
+* Detached + higher prices usually means **cap rates are tighter** unless you:
+
+  * add a **legal suite**, or
+  * buy **value-add** (cosmetic/functional), or
+  * optimize rent via **premium tenant profile** + high-quality finish.
+
+---
+
+## 12) Average house prices (quick market anchors)
+
+Use these as *directional*:
+
+* REALTOR.ca shows Bonavista Downs listings **starting around the mid-$500Ks** in the snapshot. ([Realtor][8])
+* A local stats page shows **average price around ~$725K** with a range (lowest ~$550K / highest ~$1.1M) at the time of their update. ([Liv Real Estate][9])
+* Another market summary cited a **median sold price ~ $645,918** over the last 12 months (site-generated; treat as a rough indicator). ([MyCalgary][10])
+
+**Investor takeaway**
+
+* Underwrite with **micro-comps** by street + lot + renovation status; small communities can swing hard based on just a handful of sales.
+
+---
+
+## 13) Strategies that can work here (practical playbook)
+
+### Strategy 1 — “Quality SFR” (low hassle, stable tenants)
+
+Best if you want:
+
+* strong tenant quality / school-family demand
+* fewer headaches
+* accept **lower cash-on-cash** but higher “sleep well at night”
+
+**Make it work by**: buying a mechanically solid 60s/70s house, light reno, long-term tenants, keep leverage moderate.
+
+---
+
+### Strategy 2 — Value-add renovation (force appreciation)
+
+Because stock is 1961–1980 heavy: 
+
+* Reposition tired interiors (layout, kitchens, baths, lighting, insulation, windows)
+* Add functional improvements (mudroom, laundry, basement finishing)
+
+**Key diligence:** sewer scope, electrical (panel), poly-b, asbestos risk, grading/drainage, roof, furnace/HWT lifecycle.
+
+---
+
+### Strategy 3 — Legal secondary suite (cashflow unlock)
+
+* Follow City permit pathway; secondary suite rules and “one suite max” are clear. ([https://www.calgary.ca][3])
+* Works best on: suitable layouts, parking workable, and where you can keep egress/fire separation costs under control.
+
+---
+
+### Strategy 4 — Redevelopment / rezoning angle (selective)
+
+Not a “wide net” strategy here (inventory is small), but:
+
+* target corner lots, larger lots, or lots on edges/collectors
+* explore R-CG style outcomes where feasible (4 units on typical lot concept). ([https://www.calgary.ca][4])
+
+---
+
+### Strategy 5 — Buy-and-hold with future “optional density”
+
+If you’re long-term and patient:
+
+* buy a good lot/location today
+* hold as a rental (maybe with suite)
+* keep the option to redevelop if/when economics + zoning align
+
+---
+
+[1]: https://www.elitehomerealestate.com/neighborhoods/bonavista-downs-homes-for-sale/?utm_source=chatgpt.com "Bonavista Downs Calgary Homes"
+[2]: https://www.joesamson.com/calgary-south/bonavista-downs/?utm_source=chatgpt.com "Bonavista Downs Homes for Sale"
+[3]: https://www.calgary.ca/development/home-building/secondary-suite-permits.html?utm_source=chatgpt.com "Secondary suites development permit requirements"
+[4]: https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG%20Fact%20Sheet%20final.pdf?utm_source=chatgpt.com "R-CG: Residential Grade Oriented"
+[5]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[6]: https://www.rentfaster.ca/ab/calgary/community/bonavista-downs/?utm_source=chatgpt.com "Bonavista Downs Community Information - Calgary"
+[7]: https://www.honestdoor.com/cities/ab/calgary/lake-bonavista?utm_source=chatgpt.com "Lake Bonavista Real Estate - Calgary"
+[8]: https://www.realtor.ca/ab/calgary/bonavista-downs/real-estate?utm_source=chatgpt.com "Bonavista Downs, Calgary Real Estate Listings"
+[9]: https://www.livrealestate.ca/calgary-south/bonavista-downs/?utm_source=chatgpt.com "Bonavista Downs Homes for Sale in South Calgary"
+[10]: https://mycalgary.com/real-estate/real-estate-activity/bonavista-downs-real-estate-statistics-update/?utm_source=chatgpt.com "Bonavista Downs Real Estate Statistics Update - MyCalgary"
+
 
 # Diamond Cove
 # Bayview
