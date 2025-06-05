@@ -429,6 +429,31 @@ tags: ["family", "emotion"]
 - Do you believe that marriage is a contract? Why or why not?
 - How do you think your fiancé will answer these questions?
 
+- Read the following quotations. After you have read each of them indicate which portions you agree with and which portions you disagree with?
+
+>“Marriage resembles a pair of shears, so joined that they cannot be separated; often moving in opposite directions, yet always punishing anyone who comes between them. Is marriage a private action of two persons in love, or a public act of two pledging a contract? Neither, it is something other. Very much other! Basically, the Christian view of marriage is not that it is primarily or essentially a binding legal
+and social contract. The Christian understands marriage as a covenant made under God and in the presence of fellow members of the Christian family. Such a pledge endures, not because of the force of law or the fear of its actions, but because an unconditional covenant has been made. A covenant more solemn, more binding, more permanent than any legal contract.”2
+>
+>“A system by means of which persons who are sinful and contentious are so caught up by a dream and a purpose bigger than themselves
+>that they work through the years, in spite of repeated disappointment, to make the dream come true.”   
+>
+>“Marriage is a relationship between man and woman intended by God to be a monogamous relationship, intended to be a permanent bond
+in which many needs are satisfied—the need to love and be loved, the need for deep friendship, for sharing, for companionship, for sexual satisfaction, for children, the need to escape loneliness. Marriage ought to be a bond of love, reflecting the love Christ has for His people, a bond of sacrificial love where husband and wife have become one, one flesh, a unity."
+
+- Who originated the marriage institution? (Genesis 2:18-25)
+
+- What are the purposes of marriage, and why
+was it originated? (See Genesis 1:28; 2:18;
+Ephesians 5:22-32.)
+(1)
+(2)
+(3)
+(4)
+
+- How is marriage good? (Genesis 2:18; Hebrews 13:4.)
+- What is a helper, in your opinion? In your fiancé’s opinion? (Genesis 2:18-25)
+- What does “leaving mother and father” involve? (Genesis 2:18-25)
+
 # Quotes
 
 the unexamined life is not worth living - socrates
