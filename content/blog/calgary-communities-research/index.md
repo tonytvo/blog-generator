@@ -16691,6 +16691,189 @@ If you’re long-term and patient:
 
 
 # Diamond Cove
+
+[![Diamond Cove Calgary Homes - Calgary Real Estate](https://tse1.mm.bing.net/th/id/OIP.qdp7HAhVcxGHRtwrYeI5oAHaFQ?pid=Api)](https://www.elitehomerealestate.com/neighborhoods/diamond-cove-homes-for-sale/?utm_source=chatgpt.com)
+
+Below is a **real-estate investor’s outline for Diamond Cove (Calgary SE)** (small “estate” pocket beside **Fish Creek Provincial Park**).
+
+---
+
+## 1) Nearby amenities & attractions (what drives desirability)
+
+* **Fish Creek Provincial Park** on your doorstep (one of Calgary’s flagship lifestyle amenities: trails, river valley, biking/running).
+* **Immediate adjacency to Queensland** (practical day-to-day services in the surrounding community; Diamond Cove itself is tiny and mostly residential). ([Wikipedia][1])
+* **Road access**: generally quick connection via **Bow Bottom Trail SE** and nearby arterials (commuter-friendly for SE employment nodes). ([Wikipedia][1])
+
+**Investor lens:** Lifestyle proximity to Fish Creek is the “premium”; it tends to support **stronger long-term resale** (especially for upgraded/renovated homes) but **can compress yields**.
+
+---
+
+## 2) When were homes commonly built?
+
+* Development/construction began around **late 1980s–early 1990s** (estate community; construction commenced 1989, recognized 1991). ([Wikipedia][1])
+* By dwelling construction period (2021 Census profile):
+
+  * **1991–2000: ~81%** of occupied dwellings
+  * **1981–1990: ~17%** 
+
+**Implication:** expect the usual “1990s house profile” items for capex planning: original windows/roof cycles depending on maintenance, poly-b plumbing risk in some eras (verify per property), older mechanicals, layouts that can be modernized for value-add.
+
+---
+
+## 3) Common building types (what you’ll actually buy)
+
+* **100% single-detached houses** (occupied private dwellings). 
+
+**Implication:** this is **not** a multi-family / infill product neighborhood by nature; it’s a detached-home, owner-occupier dominated micro-market.
+
+---
+
+## 4) Zoning & “can you add more units per lot?”
+
+### What the housing form tells you
+
+* With **all dwellings single-detached** in the City profile, the practical baseline is “low-density residential” character. 
+
+### Suites / additional units (Calgary rules that matter)
+
+* **Secondary suites**: City guidance indicates **only one secondary suite per property** and it must be within a (contextual) single detached dwelling; also, **you can’t have both a backyard suite and a secondary suite on the same property**. ([https://www.calgary.ca][2])
+* **Upzoning path (if you’re thinking infill)**: the City’s **R-CG** framework is an example of a district that can allow **up to four units on a typical 50 ft lot**, with potential for suites (rules/approvals apply). ([https://www.calgary.ca][3])
+
+**Bottom line:** In Diamond Cove specifically, your “add units” play is usually limited to **(a) legal secondary suite** *if feasible and permitted for that parcel*; large-scale multiplexing is generally a **rezoning/infill** discussion and likely uncommon here.
+
+---
+
+## 5) Population & growth
+
+* **Population (private households, 2021): 625** 
+* City also publishes a **population projection chart (2014–2042)** for the community, but it’s presented as a chart (not easily quotable as a single number). ([https://www.calgary.ca][4])
+
+**Investor lens:** Micro-communities this small can show “noisy” swings; focus more on **citywide drivers + the Fish Creek adjacency premium** than on local headcount changes.
+
+---
+
+## 6) Average income (affordability & tenant quality signal)
+
+* **Median household income (before tax, 2020): $135,000** 
+
+**Implication:** strong income profile → tends to mean **better owner upkeep**, **lower forced selling**, and (if renting) often **higher-quality tenant pool**—but again, yields may be tighter.
+
+---
+
+## 7) Crime rate (how to assess it properly)
+
+I’m not going to invent a “crime rate number” for Diamond Cove because Calgary crime is published via **community crime & disorder dashboards/reports** that change monthly.
+
+Use these official sources:
+
+* Calgary Police Service: **statistical reports + monthly community crime & disorder stats** ([https://www.calgary.ca][5])
+* Calgary Police Service **Crime Map by Community** dashboard ([ArcGIS][6])
+
+**Investor shortcut:** compare Diamond Cove to adjacent communities (Queensland / Canyon Meadows area groupings) and look at **property crime trend** + **disorder** rather than one-month snapshots.
+
+---
+
+## 8) Rental supply/demand (what the “rental market” looks like here)
+
+* Third-party community stats suggest **very low rental share historically** (example: ~3.3% used for renting in older neighborhood stats). Treat this as directional, not precise. ([RentFaster.ca][7])
+* City profile also shows renter stats as effectively “not present / suppressed” in parts of the shelter tables (another signal that it’s overwhelmingly owner-occupied). 
+
+**Implication:** demand exists (especially for executive/family rentals near Fish Creek), but **inventory is thin** and **tenant acquisition may be slower** than in purpose-built rental corridors.
+
+---
+
+## 9) Average rents (what to underwrite with)
+
+Use multiple lenses:
+
+### (A) “Market estimate” for the neighborhood (house-like product)
+
+* HonestDoor neighborhood stat: **Average rental estimate ~ $3,742/month** (Diamond Cove). ([HonestDoor][8])
+
+### (B) CMHC average rents (apartment/row focus; neighborhood grouping)
+
+CMHC’s Calgary table groups Diamond Cove with nearby communities (Canyon Meadows/Woodlands/Woodbine/Lake Bonavista/Bonavista Downs/Diamond Cove/Queensland) and shows **suppressed values (“**”)** for that row—typically meaning sample size is too small to publish. ([CMHC][9])
+
+**Underwriting advice:** for Diamond Cove, underwrite as **single-detached executive rental comps** (RentFaster/MLS lease comps), not apartment averages.
+
+---
+
+## 10) A / B / C / D neighborhood rating (investment-grade view)
+
+**Likely “A-/B+”** for most buy-and-hold investors:
+
+* **A attributes:** Fish Creek adjacency, detached-only character, high incomes, pride of ownership. 
+* **B+ reality:** small pocket, limited transit/rental ecosystem, yields can be thin relative to purchase price.
+
+(If your strategy is *pure cash flow*, it can behave more like a “B” deal environment because pricing is premium.)
+
+---
+
+## 11) Long-term appreciation vs current cash flow (what usually wins here)
+
+**Appreciation drivers**
+
+* Scarcity/value of **detached homes** with direct access to major urban parkland (Fish Creek).
+* Renovation upside: 1990s stock often responds well to modernization (open layouts, kitchens, windows, exterior, landscaping).
+
+**Cash flow reality**
+
+* Purchase prices are high → **cap rates and cash-on-cash returns are usually lower** unless:
+
+  * you buy off-market / distressed,
+  * you do meaningful value-add,
+  * or you can add a legal suite *and* still attract the tenant profile you want.
+
+---
+
+## 12) Average house prices (quick benchmark)
+
+* HonestDoor neighborhood stat: **Average price ~ $841,536** (current month shown on their page). ([HonestDoor][8])
+
+(For deal analysis, still validate with MLS sold comps in the last 90 days—this is just a fast “temperature check.”)
+
+---
+
+## 13) Strategies that can work in Diamond Cove (practical playbook)
+
+### Strategy 1 — **“A-quality buy-and-hold” (low headache)**
+
+* Target: well-maintained detached, good lot orientation, near park access.
+* Return profile: **lower cash flow**, higher “sleep-well” factor; best for long holding periods.
+
+### Strategy 2 — **Value-add renovation (forced appreciation)**
+
+* Focus on 1991–2000 homes (the bulk of stock). 
+* Renovations that typically re-rate: kitchens, main-floor layout, windows/roof/mechanicals, curb appeal.
+* Exit: refinance or sell into owner-occupier demand.
+
+### Strategy 3 — **Executive/family rental (premium rent, lower turnover)**
+
+* Underwrite with detached-home rental comps; tenants often want: parks, quiet streets, garages, upgraded interiors.
+* Works best if you can keep maintenance predictable.
+
+### Strategy 4 — **Secondary suite (only if it truly fits)**
+
+* Verify parcel rules and feasibility; remember **1 suite max**, and **no backyard + secondary suite on same property** per City guidance. ([https://www.calgary.ca][2])
+* In an “estate” pocket, suites can be a mismatch with neighbor expectations—risk-manage the community fit + parking.
+
+### Strategy 5 — **Infill/rezoning (usually NOT the base case here)**
+
+* Technically, Calgary has tools like **R-CG** in the citywide toolbox, but Diamond Cove’s current built form suggests this is not the common play. 
+
+---
+
+[1]: https://en.wikipedia.org/wiki/Diamond_Cove%2C_Calgary?utm_source=chatgpt.com "Diamond Cove, Calgary"
+[2]: https://www.calgary.ca/development/home-building/secondary-suite-permits.html?utm_source=chatgpt.com "Secondary suites development permit requirements"
+[3]: https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG%20Fact%20Sheet%20final.pdf?utm_source=chatgpt.com "R-CG: Residential Grade Oriented"
+[4]: https://www.calgary.ca/content/dam/www/programs-services/property-housing-and-neighbourhoods/neighbourhood-and-community-relationships/profiles/population-projection-chart-generator/diamond-cove-population-projection.pdf "diamond-cove-population-projection-community-strategies.pdf"
+[5]: https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html?utm_source=chatgpt.com "Calgary Police Service Statistical Reports"
+[6]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[7]: https://www.rentfaster.ca/ab/calgary/community/diamond-cove/?utm_source=chatgpt.com "Diamond Cove Community Information - Calgary"
+[8]: https://www.honestdoor.com/cities/ab/calgary/diamond-cove "Diamond Cove, Calgary Real Estate: Housing Market December 2025 | HonestDoor"
+[9]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=24 "www03.cmhc-schl.gc.ca"
+
+
 # Bayview
 # Rideau Park
 # Meadowlark Park
