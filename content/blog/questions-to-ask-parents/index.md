@@ -454,6 +454,33 @@ Ephesians 5:22-32.)
 - What is a helper, in your opinion? In your fiancé’s opinion? (Genesis 2:18-25)
 - What does “leaving mother and father” involve? (Genesis 2:18-25)
 
+- What do the words “shall cleave” or “will be united” mean?
+- What do the words “be one flesh” mean to you?
+- List six ways that you can promote and maintain the oneness characteristic in your upcoming marriage.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+
+- List three of the most important Scripture verses upon which you would like to base your marriage relationship. (Please use passages other than Ephesians 5:21-33; 1 Corinthians 13; and 1 Peter 3:1-7, as most couples automatically look to these. They are important, but think through other important passages that will assist you in establishing the type of marriage you are seeking.)
+(1)
+(2)
+(3)
+
+Here is another definition of marriage that you may want to consider. 
+
+>“The marriage relationship is a school, a learning and growing environment in which (if everything is as it should be) both partners can grow and develop. The relationship grows along with them. If you can see marriage as an opportunity for growth, you can be >satisfied and can satisfy your spouse.”
+>
+>Dr. David Hubbard graphically described the marriage relationship when he said, “Marriage does not demand perfection. But it must be given priority. It is an institution for sinners. No one else need apply. But it finds its finest glory when sinners see it as God’s way of leading us through his ultimate curriculum of love and righteousness.” Have you ever thought about the purpose of marriage in that light?
+>
+>Here’s another definition of marriage. Consider it carefully, and then talk over your feelings with your partner: “A Christian marriage is a total commitment of two people to the person of Jesus Christ and to each other. It is a commitment in which nothing is held back. Marriage is a pledge of mutual fidelity; it is a partnership of mutual subordination. 
+
+>A Christian marriage is similar to a solvent, a freeing up of the man and woman to be themselves and become all that God intends for them to become. Marriage is a refining process that God will use to have us become the man or woman He wants us to become. Think about it. God will use your marriage for His purpose. He will mold and refine you for your own benefit and for His glory.” 
+
+>You may be thinking that when you marry there will be two individuals involved in that marriage. That is true, but there is a third party who can give an even greater meaning to your individual and married life—that person is Jesus Christ. In what way will the presence of Jesus Christ in your life make a difference in your marriage?
+
 # Quotes
 
 the unexamined life is not worth living - socrates
