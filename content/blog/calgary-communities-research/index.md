@@ -16875,6 +16875,196 @@ CMHC’s Calgary table groups Diamond Cove with nearby communities (Canyon Meado
 
 
 # Bayview
+
+Below is a **real-estate investor’s “deal + neighborhood” outline for Bayview (SW Calgary)** (often grouped with the Palliser–Bayview–Pumphill area). *Bayview is a very small, established, high-income pocket, so market stats can look noisy because there are few sales/listings.*
+
+---
+
+## 1) Nearby amenities & attractions (what drives livability + resale)
+
+**Big anchors (5–15 min):**
+
+* **Glenmore Reservoir & pathway system** (running/biking, sailing/rowing, picnic areas)
+* **Weaselhead Flats / North Glenmore Park** (major nature + trails)
+* **Heritage Park Historical Village** (family attraction + events)
+  These are all highlighted as key amenities tied to the local community association area. ([Federation of Calgary Communities][1])
+
+**Everyday convenience:**
+
+* Quick access to major SW routes (makes it “commuter-friendly” to downtown + MRU area)
+* Nearby retail/services are mostly in surrounding SW nodes (not heavy inside Bayview itself)
+
+---
+
+## 2) When were the houses commonly built?
+
+Bayview housing is **overwhelmingly 1961–1980 construction**: **~92%** of occupied dwellings were built in that period. 
+Implication: you’re underwriting **older homes** (mechanicals, envelopes, sewer lines, asbestos risk in some materials) but also **mature lots/land value** in a premium SW location.
+
+---
+
+## 3) Common building types (what you’ll actually buy here)
+
+From the City of Calgary community profile (2021 Census):
+
+* **Single-detached: 86%**
+* **Apartments (<5 storeys): 14%**
+* Essentially **no semis/rowhouses/duplex-style** stock showing in the Census structure mix. 
+
+Investor takeaway: **detached-land value plays dominate**; “missing middle” density is limited.
+
+---
+
+## 4) Zoning & “more units per lot” potential
+
+### Reality check for Bayview
+
+Because Bayview is mostly older detached, the “add units” story is **not automatic**—it depends on the property’s **Land Use District** (e.g., R-C1/R-C1L/R-CG/etc.) and lot form.
+
+### What Calgary rules generally allow (investor-relevant)
+
+* **Secondary suites**: City rules emphasize **only one secondary suite within each dwelling unit**, and in many cases it’s limited to certain dwelling types/district rules. ([https://www.calgary.ca][2])
+* **Backyard suites**: City guidance says a **single-detached or semi-detached** property can have **both** a **secondary suite** and a **backyard suite** (subject to permits/requirements). ([https://www.calgary.ca][3])
+
+**How to underwrite it (practical):**
+
+* Step 1: confirm the parcel’s Land Use District on the City map (“myProperty”).
+* Step 2: check if it supports **(a)** secondary suite, **(b)** backyard suite, or **(c)** neither without rezoning/DP risk.
+* Step 3: overlay parking, access, setbacks, servicing—these kill a lot of “paper density” plans.
+
+---
+
+## 5) Population & growth
+
+* **Population (2021): 670** (very small community) 
+* The City publishes a **population projection chart**, but it’s presented as a graphic without easy numeric extraction in the PDF view I pulled. ([https://www.calgary.ca][4])
+
+Investor interpretation: Bayview’s “growth” is usually **slow + redevelopment-driven** (renos, occasional rebuilds), not subdivision-style expansion.
+
+---
+
+## 6) Average income (proxy for tenant quality + resale depth)
+
+* **Median total household income (before tax, 2020): ~$296,000** 
+  That’s *extremely* high for Calgary and strongly supports:
+* resale liquidity in good cycles
+* lower long-run default/forced-sale risk
+* strong “school + amenities” demand profile in SW
+
+---
+
+## 7) Crime rate (risk + tenant profile)
+
+A local neighborhood report cites Bayview at **~0.12 crimes per 1,000 residents (annual average)** (note: small population makes per-capita metrics volatile). ([MyCalgary][5])
+For cross-checking, Calgary Police/City dashboards exist for community crime counts. ([ArcGIS][6])
+
+---
+
+## 8) Rental supply/demand (what’s rentable here?)
+
+Two signals point to **thin rental inventory**:
+
+* Census profile shows **near-zero renters** (it’s overwhelmingly owner-occupied; renter shelter cost is effectively blank/zero in the snapshot tables). 
+* RentFaster often shows **no active listings** when searching Bayview directly (very small sample / low turnover). ([RentFaster.ca][7])
+
+Investor takeaway: **rental demand exists in SW**, but *Bayview itself* behaves more like a **premium owner enclave**. If you rely on rents to “bail out” the deal, be conservative.
+
+---
+
+## 9) Average rents (how to estimate in a low-data pocket)
+
+Because Bayview is tiny, you should price rents **by comparable micro-markets** (Palliser/Pump Hill/Lakeview-ish SW pockets) and by **property type**.
+
+What we can anchor from sources:
+
+* A RentFaster example in the Bayview area shows **1–2 bed apartments roughly ~$1,620–$1,950+** (specific building/listing). ([RentFaster.ca][8])
+
+Practical underwriting move:
+
+* Use **3 comps per property type** (detached vs townhouse vs apartment) from surrounding SW communities, then haircut by **lease-up time** (because Bayview listings are sparse).
+
+---
+
+## 10) A / B / C / D neighborhood grade (investor lens)
+
+**Bayview = “A” neighborhood** for Calgary:
+
+* very high incomes 
+* low crime signal ([MyCalgary][5])
+* premium SW location near major amenities ([Federation of Calgary Communities][1])
+* housing stock and pricing skew high-end
+
+---
+
+## 11) Long-term appreciation vs current cashflow
+
+**Appreciation potential: strong / land-value-driven**
+**Cashflow potential: usually weak to moderate (unless you buy very well or add legal revenue units)**
+
+Why:
+
+* High-income, amenity-rich SW pockets tend to behave like “**land + lifestyle**” markets over time.
+* But entry prices are high and rental depth is thin → cap rates can be unattractive unless you execute a value-add plan.
+
+A pricing/data reality check:
+
+* HonestDoor shows Bayview among Calgary’s **most expensive neighborhoods** with an **average property price around ~$1.53M** (context: data model + limited transactions). ([HonestDoor][9])
+* MyCalgary’s last-12-month Bayview stats show **median sold price ~$920,500** (but also shows individual sales well above $1.5M; sample is tiny and includes weird “0” months). ([MyCalgary][5])
+
+---
+
+## 12) Average house prices (what to underwrite)
+
+Given the small sample size, treat Bayview pricing as a **range + micro-location** problem:
+
+* “Typical” detached that’s not a trophy: often **~$900k–$1.7M** depending on lot, reno level, and proximity to premium edges (using the Bayview sold examples and medians). ([MyCalgary][5])
+* High-end outliers can be far above that (Bayview shows up as a high-price pocket in multiple aggregators). ([HonestDoor][9])
+
+---
+
+## 13) Strategies that can work here (and ones that usually don’t)
+
+### Best-fit strategies
+
+1. **Buy-and-hold “quality tenant” detached**
+
+   * Target families/professionals who want SW amenities and stability.
+   * Underwrite **maintenance + capex** heavily due to 1960–80 stock. 
+
+2. **Value-add renovation (taste + systems)**
+
+   * Kitchen/bath + layout modernization
+   * Mechanical upgrades (furnace/HWT/windows) to de-risk older housing
+   * This neighborhood tends to reward “done right” finishes.
+
+3. **Suite strategy (only if zoning + site works)**
+
+   * If the parcel supports it, consider **legal secondary suite** and/or **backyard suite** (subject to district + permits). ([https://www.calgary.ca][2])
+   * In Bayview, this is more “selective sniper shot” than scalable play.
+
+4. **Land-value / rebuild / major reposition**
+
+   * In premium SW pockets, a dated house on a good lot can be a land play.
+   * Works best if you have construction/GC edge or can hold through cycles.
+
+### Usually weak-fit strategies
+
+* **Pure cashflow hunting** (prices high, rents not proportionally high, and rental inventory is thin). ([RentFaster.ca][7])
+* **High-turnover rentals** (community profile leans owner-occupied and stable). 
+
+---
+
+[1]: https://calgarycommunities.com/communities/palliser-bayview-pumphill-community-association/?utm_source=chatgpt.com "Palliser - Bayview - Pumphill Community Association"
+[2]: https://www.calgary.ca/development/home-building/secondary-suite-permits.html?utm_source=chatgpt.com "Secondary suites development permit requirements"
+[3]: https://www.calgary.ca/development/home-building/new-backyard-suite.html?utm_source=chatgpt.com "Building a Backyard Suite"
+[4]: https://www.calgary.ca/content/dam/www/programs-services/property-housing-and-neighbourhoods/neighbourhood-and-community-relationships/profiles/population-projection-chart-generator/bayview-population-projection.pdf "bayview-population-projection-community-strategies.pdf"
+[5]: https://mycalgary.com/real-estate/real-estate-activity/bayview-real-estate-statistics-update/ "Bayview Real Estate Statistics Update - MyCalgary"
+[6]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[7]: https://www.rentfaster.ca/ab/calgary/rentals/bayview/?utm_source=chatgpt.com "Bayview Apartments & Houses for Rent in Calgary, AB"
+[8]: https://www.rentfaster.ca/properties/2160-paliswood-road-sw-calgary-549185?utm_source=chatgpt.com "Calgary Pet Friendly Apartment For Rent | Bayview | ELATA"
+[9]: https://www.honestdoor.com/cities/ab/calgary/bayview?utm_source=chatgpt.com "Bayview, Calgary Real Estate: Housing Market December ..."
+
+
 # Rideau Park
 # Meadowlark Park
 # North Haven Upper
