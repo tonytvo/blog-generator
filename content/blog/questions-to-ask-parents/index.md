@@ -425,6 +425,8 @@ tags: ["family", "emotion"]
 
 # questions to ask before marriages
 
+- what are available pre-marriage counselling?
+
 - Define marriage. What is its purpose?
 - Do you believe that marriage is a contract? Why or why not?
 - How do you think your fiancé will answer these questions?
@@ -480,6 +482,49 @@ Here is another definition of marriage that you may want to consider.
 >A Christian marriage is similar to a solvent, a freeing up of the man and woman to be themselves and become all that God intends for them to become. Marriage is a refining process that God will use to have us become the man or woman He wants us to become. Think about it. God will use your marriage for His purpose. He will mold and refine you for your own benefit and for His glory.” 
 
 >You may be thinking that when you marry there will be two individuals involved in that marriage. That is true, but there is a third party who can give an even greater meaning to your individual and married life—that person is Jesus Christ. In what way will the presence of Jesus Christ in your life make a difference in your marriage?
+
+- Read Matthew 7:24-27. This passage is talking about building your house upon a firm foundation. List what you believe are ten firm foundations which will go into making a solid marriage relationship.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+- What will you receive out of marriage that you wouldn’t receive by remaining single?
+- On a separate piece of paper, list the reasons why you are marrying your fiancé. After you have done that, list the reasons why you think your fiancé is marrying you. Then share the results.
+
+- Now compare your reasons for marriage with the following list, which has been compiled by several specialists in marriage and family life education. These are unhealthy reasons for marriage. If you find that any of these appear either on your list or in your mind, you should spend time discussing them with your fiancé and your marriage advisor.
+  - To spite or get back at your parents.
+  - Because of a negative self-image—marrying
+  - your fiancé will make you feel worthwhile and will give meaning to your life.
+  - To be a therapist or counselor to your fiancé.
+  - Fear of being left out—being single forever.
+  - Fear of independence.
+  - Marrying on the rebound—you were hurt in a former love relationship and to ease your hurt you immediately choose another.
+  - Fear of hurting the other person—you’re afraid of what will happen to your fiancé if you break up even though you know that marriage is not the answer.
+  - To escape an unhappy home.
+  - Because you are pregnant or your fiancé is pregnant.
+  - Because you have had sex.
+  - Companionship.
+  - To work together and fulfill your own and your future mate’s needs.
+  - To fulfill sexual needs in the way God intends.
+  - Love (an adequate blending of the various types of love, as explained in chapter 3).
+  - Because you are convinced that it is God’s will for you to marry this person.
+
+- Evaluate your “marriageability” by examining the personality traits of yourself and your fiancé. List eight character or personality traits that you feel would help a marriage.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 
 # Quotes
 
