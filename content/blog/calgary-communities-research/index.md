@@ -17066,6 +17066,187 @@ Given the small sample size, treat Bayview pricing as a **range + micro-location
 
 
 # Rideau Park
+
+[![Rideau Park | Calgary Neighbourhoods | {% snippet name="company-name" %}](https://tse2.mm.bing.net/th/id/OIP.IbHLb7O3V8nEkxU3rB1oXQHaE8?pid=Api)](https://www.citysearchcalgary.com/calgary-neighbourhoods/rideau-park?utm_source=chatgpt.com)
+
+Below is an investor-focused **deep outline for Rideau Park (Calgary, SW / inner-city)**. (Tiny, prestigious pocket by the **Elbow River**, with a mix of **luxury detached** and **high-end condos**.)
+
+---
+
+## 1) Nearby amenities & attractions (demand + resale drivers)
+
+* **Elbow River + pathway network**: immediate river-valley access; walking/cycling connectivity is a major lifestyle premium. (Rideau Park Extension described as bounded by the Elbow River; Mission Bridge connection history). ([Rideau Roxboro Community Association][1])
+* **Mission / 4th Street SW & 17th Ave SW**: inner-city dining/retail nodes nearby (Rideau Park effectively “steps from” the Mission belt and downtown-adjacent lifestyle).
+* **Downtown proximity**: short commute / quick access to core employment, events, and services (supports executive renter demand and long-run liquidity).
+* **Neighbourhood “heritage + walking tour” context** (Rideau/Elbow Park/Parkhill historic fabric): supports long-term desirability and buyer depth. ([Squarespace][2])
+
+**Investor takeaway:** this is a **location-first** market; “views, river adjacency, and quiet streets” can matter more than raw square footage.
+
+---
+
+## 2) When were houses commonly built?
+
+Rideau Park has **very old housing stock**, plus newer infill/rebuilds.
+
+* **1960 or before: 63%** of occupied dwellings
+* **1961–1980: 21%**
+* **1981–1990: 4%**, **1991–2000: 3%**, **2001–2010: 3%**, **2016–2021: 6%** 
+
+**Investor takeaway:** capex risk is real (envelope, plumbing/electrical, sewer, knob-and-tube/old wiring in some vintages, etc.), but you’re buying **scarce land + inner-city positioning**.
+
+---
+
+## 3) Common building type (what you’ll actually be buying)
+
+Dwellings by structure type (2021):
+
+* **Apartments: 57%**
+* **Single-detached: 35%**
+* **Row house: 7%** (very small share)
+* **Semi-detached/duplex: ~0%** 
+
+**Investor takeaway:** Rideau Park isn’t “all mansions”—it’s a **premium condo + luxury detached blend**, and your strategy should differ by product type.
+
+---
+
+## 4) Zoning regulations & “more units per lot?”
+
+Rideau Park is inner-city and already contains a meaningful **apartment share** (57%), meaning some areas are already in higher-density land-use districts. 
+But **parcel-by-parcel** zoning varies a lot here, so you must verify each address on the City land-use map.
+
+### What Calgary rules generally allow (useful baseline)
+
+* **Suites on a property:** City guidance (backyard suite page) says **only one secondary suite within each dwelling unit**, and **single-detached/semi-detached properties can have both a secondary suite and a backyard suite** (subject to permits/rules). ([https://www.calgary.ca][3])
+* **If you’re thinking “multi-unit infill”:** Calgary’s **R-CG** district is the city’s “grade-oriented infill” tool (not automatically what Rideau Park is zoned as, but it’s the framework people reference for multiplexing). ([https://www.calgary.ca][4])
+
+**Investor takeaway:**
+
+* **Condos:** zoning isn’t your lever—building bylaws/condo docs and fees are.
+* **Detached lots:** upside can come from **(a) permitted suites** or **(b) redevelopment/rezoning**, but Rideau Park is a “high-stakes, high-cost” environment—DP risk and neighbour sensitivity matter.
+
+---
+
+## 5) Population & growth
+
+* **Population (2021): 675** (private households) 
+* City profile page also publishes a **population projection (2014–2042)** (useful for trend direction, but the key point is this is a **built-out inner-city pocket**). ([https://www.calgary.ca][5])
+
+**Investor takeaway:** growth is typically **redevelopment-driven**, not subdivision-driven.
+
+---
+
+## 6) Average income (ability-to-pay / tenant quality proxy)
+
+* **Median household income (before tax, 2020): $170,000** 
+
+---
+
+## 7) Crime rate (how to check it correctly)
+
+Best sources are the official dashboards:
+
+* **Calgary Police Service “Crime Map by Community”** ([ArcGIS][6])
+* **Open Calgary “Community Crime Data Lens”** ([Open Calgary][7])
+
+A third-party summary reports very low counts (example: **7 crimes as of Nov 2024** in their tracking), but treat small-community crime stats as **highly volatile** month-to-month. ([MyCalgary][8])
+
+---
+
+## 8) Rental supply/demand (what the rental market feels like)
+
+* **Tenure split:** approx **76% owners / 25% renters** (chart in community profile). 
+* RentFaster’s “community info” snapshot shows **very few active rentals** (thin inventory): **3 total rentals** in their table at the time of capture. ([RentFaster.ca][9])
+
+**Investor takeaway:** demand exists (executives, downsizers, “close-to-core” renters), but inventory is **thin** and pricing is **premium**; lease-up can be “spiky” depending on season and product.
+
+---
+
+## 9) Average rents (practical underwriting anchors)
+
+From RentFaster’s Rideau Park community stats table:
+
+* **Main floors:** ~$2,750 (1 listing)
+* **Condo units:** **$1,850–$2,450**, avg **$2,150** (2 listings)
+* **Total rentals:** avg **$2,350** (3 listings) ([RentFaster.ca][9])
+
+**Underwrite like this:** do comps by **micro-product** (lux condo vs older condo vs detached) rather than “neighbourhood average.”
+
+---
+
+## 10) A / B / C / D neighborhood grade
+
+**Rideau Park = A** (Calgary inner-city “blue-chip”):
+
+* premium location (river + core-adjacent)
+* high income base 
+* enduring desirability with limited land supply
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**Appreciation:** tends to be **stronger long-term** than typical suburbs because:
+
+* scarce inner-city land
+* prestige + lifestyle adjacency (river, core, Mission)
+
+**Cashflow:** often **compressed** because entry prices are high; you usually “make it work” through:
+
+* buying the right product (often **condos** can pencil better than detached here),
+* value-add renovations,
+* or specialty rental (executive furnished, mid-term stays—where allowed and appropriately managed).
+
+---
+
+## 12) Average house prices (expect a very wide band)
+
+Because Rideau Park includes both luxury detached and condo product, “average price” depends on what you mean:
+
+* HonestDoor shows **average price ~ $2.19M** (model-based, mixed product). ([HonestDoor][10])
+* Zolo’s recent “average house price” snapshot shows **~$1.59M** (time-windowed market stat). ([Zolo][11])
+* Condo-heavy parts can be much lower (Zolo pages and local listing portals often show mid-hundreds for condos; still verify with sold comps). ([Zolo][12])
+
+**Investor rule:** always split your comp set into **(1) condos** and **(2) detached** (and even within condos: by building).
+
+---
+
+## 13) Strategies that work in Rideau Park
+
+### Strategy A — Premium condo buy-and-hold (best “low maintenance” fit)
+
+* Target: high-quality building, strong reserve fund, manageable condo fees, good unit orientation (view/light).
+* Return profile: steadier occupancy, often better rent-to-price than detached (but fees matter a lot).
+
+### Strategy B — Executive / corporate rental (condo or high-end detached)
+
+* Works because of core proximity + prestige.
+* Underwrite higher turnover + furnishing/management costs if furnished.
+
+### Strategy C — Value-add renovation (detached or older premium condo)
+
+* 1960-or-before stock is common, so well-executed modernization can re-rate value. 
+* Key diligence: envelope, drainage, structural, electrical, and sewer scope.
+
+### Strategy D — “Optionality” density play (select lots only)
+
+* If a parcel supports suites (or can support redevelopment), you can create income + future exit options; verify suite rules and land use carefully. ([https://www.calgary.ca][3])
+
+---
+
+[1]: https://rideauroxboro.com/community-history/?utm_source=chatgpt.com "Community History"
+[2]: https://static1.squarespace.com/static/5d8ce4980ed4467c0bc04947/t/6334a70306dd620f32680d3b/1664395020775/Elbow%2BPark%2C%2BRideau%2BPark%2Band%2BParkhill%2BWalking%2BTour%2B-%2BWeb.pdf?utm_source=chatgpt.com "Elbow Park, Rideau Park and Parkhill"
+[3]: https://www.calgary.ca/development/home-building/new-backyard-suite.html?utm_source=chatgpt.com "Building a Backyard Suite"
+[4]: https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?div=11&part=5&utm_source=chatgpt.com "Residential – Grade-Oriented Infill (R-CG) District"
+[5]: https://www.calgary.ca/communities/profiles/rideau-park.html?utm_source=chatgpt.com "Rideau Park Profile"
+[6]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[7]: https://data.calgary.ca/stories/s/Community-Crime-Data-Lens/sycx-s5a6/?utm_source=chatgpt.com "Community Crime Data Lens - Open Calgary"
+[8]: https://mycalgary.com/crime-statistics/rideau-park-crime-activity-update/ "Rideau Park Crime Statistics Update - MyCalgary"
+[9]: https://www.rentfaster.ca/ab/calgary/community/rideau-park/ "Rideau Park Community Information - Calgary - RentFaster.ca"
+[10]: https://www.honestdoor.com/cities/ab/calgary/rideau-park?utm_source=chatgpt.com "Rideau Park, Calgary, AB Real Estate"
+[11]: https://www.zolo.ca/calgary-real-estate/rideau-park/trends?utm_source=chatgpt.com "Rideau Park Real Estate Trends - Calgary"
+[12]: https://www.zolo.ca/calgary-real-estate/3204-rideau-place-southwest?utm_source=chatgpt.com "Condos at 3204 Rideau Place, Calgary"
+
+
 # Meadowlark Park
 # North Haven Upper
 # Manchester
