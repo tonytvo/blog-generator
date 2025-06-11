@@ -526,6 +526,22 @@ Here is another definition of marriage that you may want to consider.
 7.
 8.
 
+- Turn in your Bible to Galatians 5:22,23 and read over the fruit of the Spirit. Would these traits, manifested in a person, increase the potential of success in marriage?
+  - If so, indicate which of these you manifest and which of them you are still having difficulty displaying.
+
+- In addition to using the fruit of the Spirit as a guide for evaluating the potential success of a marriage, consider these eight marriageability traits that give a person a greater possibility of having an enriched and satisfying marriage.
+  - Adaptability and flexibility—the ability to
+  - Change and adapt.
+  - Empathy—the ability to be sensitive to the needs, hurts, and desires of others, to feel with them and experience the world from their perspective.
+  - The ability to work through problems.
+  - The ability to give and receive love.
+  - Emotional stability—accepting and controlling one’s emotions.
+  - Communication skills.
+  - Similarities between the two people.
+  - Similar family background.
+
+
+
 # Quotes
 
 the unexamined life is not worth living - socrates
