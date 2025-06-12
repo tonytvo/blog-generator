@@ -17248,6 +17248,233 @@ Because Rideau Park includes both luxury detached and condo product, “average 
 
 
 # Meadowlark Park
+
+[![Meadowlark Park Calgary Apartments for Rent and Rentals - Walk Score](https://tse1.mm.bing.net/th/id/OIP.AcvQr-w5u_VqKlaehqESvwAAAA?pid=Api)](https://www.walkscore.com/CA-AB/Calgary/Meadowlark_Park?utm_source=chatgpt.com)
+
+Below is a **real-estate investor’s outline for Meadowlark Park (Calgary, SW)** (near Chinook Centre / Glenmore Trail / Elbow Drive).
+
+---
+
+## 1) Nearby amenities & attractions (what drives demand)
+
+* **Retail + daily needs**
+
+  * **CF Chinook Centre** (major regional mall) is effectively “in/adjacent to” the community footprint. ([Federation of Calgary Communities][1])
+  * Very quick access to Macleod Trail + Glenmore Trail (commuting + shopping nodes). ([Federation of Calgary Communities][1])
+* **Parks / recreation**
+
+  * Multiple small parks and pathway access in/near the community; close to the Elbow River corridor and larger southwest green spaces. ([Royal LePage Benchmark][2])
+* **Lifestyle**
+
+  * This is a **small, central, mature “inner-SW” pocket** with strong convenience + school/access + mature trees (classic “quiet street, close to everything” value proposition). ([Federation of Calgary Communities][1])
+
+---
+
+## 2) When were houses commonly built? (vintage = capex profile)
+
+From the City of Calgary 2021 Census Community Profile (occupied private dwellings):
+
+* **1960 or before: ~81%**
+* **1961–1980: ~13%**
+* **1981+: ~0% (in the census snapshot)** 
+
+**Investor implication**
+
+* Expect **older bungalow/1.5-storey stock** → higher probability of:
+
+  * electrical/plumbing updates, envelope/windows, sewer line risk, insulation, asbestos considerations
+  * reno/infills/lot-value plays (where land use allows)
+
+---
+
+## 3) Common building types (what you’re actually buying)
+
+Structure type (occupied private dwellings):
+
+* **Single-detached: ~92%**
+* **Apartment/flat in a duplex: ~10%** (rounding causes totals >100% in the profile tables) 
+
+**Practical take**
+
+* Meadowlark Park is **overwhelmingly detached**, with **limited naturally-occurring multifamily**.
+
+---
+
+## 4) Zoning & “more units per lot” potential
+
+### What zoning looks like in practice
+
+* Much of Meadowlark Park behaves like **low-density residential** (commonly R-C1/R-C2 patterns in similar inner-SW pockets), with **site-by-site variations**.
+* Best workflow: use the City’s **“Find your land use district”** tool by address to confirm the actual district before underwriting. ([https://www.calgary.ca][3])
+
+### Does zoning allow more units per lot?
+
+* **Low-density districts** typically allow:
+
+  * **1 primary dwelling** + possibility of a **secondary suite** (basement suite) depending on district/rules.
+  * Potential for **rezoning** (e.g., to more intensive “grade-oriented” or multi-res districts) on select sites/corridors.
+* Example of real-world change pressure nearby: an application at **8224 Elbow Dr SW** proposed moving from **R-C1 to H-GO** (more “grade-oriented” intensity). ([CKE Community Association][4])
+
+### Suites / ADU rules (investment-useful summary)
+
+* Calgary’s suite rules can be **district-dependent** and are updated over time; the City guidance emphasizes **limits on number of suites** and permit requirements. ([https://www.calgary.ca][5])
+
+**Investor implication**
+
+* **“As-of-right multiplexing” is not the base case here.**
+* The most realistic paths to more doors are:
+
+  1. **legal secondary suite** (where allowed + feasible), and/or
+  2. **targeted rezoning / redevelopment sites** (corner lots, corridor-adjacent, larger parcels).
+
+---
+
+## 5) Population & growth
+
+* **Population (2021, private households): 610** 
+* The City also publishes a **population projection chart (2014–2042)** for Meadowlark Park, but the public chart is shown as a percent-change graphic (no clean text numbers in the extract). ([https://www.calgary.ca][6])
+
+**Investor read**
+
+* This is a **tiny community**; demand is less about population growth and more about **location scarcity** + **redevelopment/renovation cycle**.
+
+---
+
+## 6) Average / median income (affordability & tenant quality proxy)
+
+* **Median total household income (before tax, 2020): $143,000** 
+
+**Implication**
+
+* Above-city median income typically supports:
+
+  * strong owner-occupant demand
+  * better tenant quality for “executive rental” style properties
+  * higher renovation ROI (within reason)
+
+---
+
+## 7) Crime rate (risk + tenant/owner perception)
+
+Best sources to pull actual counts by month:
+
+* **Open Calgary: Community Crime Data Lens** ([Open Calgary][7])
+* **CPS community crime dashboard/map** ([ArcGIS][8])
+
+**Neighborhood nuance**
+
+* Proximity to a major mall can correlate with **more opportunistic property crime/vehicle break-ins** (parking, arterial access), even if violent crime is not a defining feature. Resident “cleanliness/litter” concerns have been mentioned in community engagement. ([https://www.calgary.ca][9])
+
+---
+
+## 8) Rental supply/demand (what rents exist here?)
+
+* Rental stock is **limited** because the housing is mostly detached and the community is small. 
+* City profile snapshot shows **~17% renter** vs ~83% owner in the tenure graphic. 
+* Online rental listing inventory can be thin at any given time (RentFaster sometimes shows few/no active listings for small communities). ([RentFaster.ca][10])
+
+**Implication**
+
+* When a good rental does appear, demand can be decent (location + commute), but **you can’t count on high turnover inventory** like you would in apartment-heavy neighborhoods.
+
+---
+
+## 9) Average rents (what to underwrite with)
+
+Because listing data is often sparse at neighborhood level, use multiple anchors:
+
+* **City census-based “median monthly shelter cost” for rented dwellings: ~$2,040** (this is a “shelter cost” concept, not asking rent only, but it’s a solid local anchor). 
+* **HonestDoor estimate** (model-based): Meadowlark Park “Average Rental Estimate” shown around **~$3,6k/month** (likely skewed to detached homes). ([HonestDoor][11])
+* Cross-check with citywide rent benchmarks (RentFaster rent report) when neighborhood comps are missing. ([RentFaster.ca][12])
+
+**Underwriting suggestion (conservative)**
+
+* Underwrite to **detached-home rents**, not apartment averages.
+* If you’re adding a legal suite: underwrite **two smaller rents** but be conservative on parking + entry + permitting friction.
+
+---
+
+## 10) A/B/C/D neighborhood grade (investor-style)
+
+**Meadowlark Park: “A- for appreciation / B for cash flow”**
+
+* **Why A-/A location:** inner-SW convenience, mall/arterials, mature lots, high incomes, scarcity. ([Royal LePage Benchmark][2])
+* **Why not “A cash-flow”:** high entry prices + mostly detached stock tends to compress cap rates unless you create value (renos/suites/redevelopment).
+
+---
+
+## 11) Long-term appreciation vs current returns/cash flow
+
+* **Long-term appreciation drivers**
+
+  * Scarce inner-city-ish land + renovation/teardown/rebuild cycle
+  * Desirability of mature SW nodes
+* **Current cash-flow reality**
+
+  * Purchase prices are high; without a suite or major value-add, expect **lower cap rates** than more investor-heavy, multi-family corridors.
+
+---
+
+## 12) Average house prices (what it costs to buy in)
+
+Use several sources and triangulate:
+
+* HonestDoor “Average price” shown around **~$830k (current month, model-based)**. ([HonestDoor][11])
+* Other market snapshot sources can vary widely (methodology differs). ([Kirby Cox][13])
+
+**Investor move**
+
+* Don’t underwrite off a single “average.” Pull **3–5 sold comps** by style (bungalow vs renovated vs infill) and **separate land-value lots from renovated retail.**
+
+---
+
+## 13) Strategies that work here (ranked)
+
+### (1) **Renovate-to-rent (premium tenant)**
+
+* Buy dated 1950s/60s bungalow, do “high-ROI” updates (kitchen/bath/layout/insulation/egress), rent to professionals who want Chinook/DT access.
+
+### (2) **Legal secondary suite (where feasible + permitted)**
+
+* Works best on:
+
+  * lots with parking/lane access
+  * layouts that support separate entry + code-compliant egress
+* Verify land use and the City’s suite rules/permits before you buy. ([https://www.calgary.ca][3])
+
+### (3) **Hold for redevelopment optionality**
+
+* Corner lots / larger parcels / corridor-adjacent sites can carry embedded option value if policy shifts or if rezoning becomes realistic (example: R-C1 → H-GO type moves in the broader area). ([CKE Community Association][4])
+
+### (4) **Executive furnished mid-term rentals (selectively)**
+
+* Because inventory is low and incomes are high, a well-done furnished rental can work—just be cautious on regulations and seasonality.
+
+### (5) **“Pure cash-flow” buy-and-hold**
+
+* Usually **not the best fit** here unless you:
+
+  * get an unusually good deal
+  * add a suite
+  * or buy a property already configured as a strong duplex/suite setup
+
+---
+
+[1]: https://calgarycommunities.com/communities/meadowlark-park-community-association/?utm_source=chatgpt.com "Meadowlark Park Community Association"
+[2]: https://royallepagebenchmark.ca/calgary/southwest/meadowlark-park/?utm_source=chatgpt.com "Meadowlark Park Real Estate & Community Guide"
+[3]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones"
+[4]: https://ckecommunity.com/wp-content/uploads/2023/10/01-Applicant-Statement.pdf?utm_source=chatgpt.com "Proposed Land Use Change Applicant Summary"
+[5]: https://www.calgary.ca/development/home-building/secondary-suites.html?utm_source=chatgpt.com "Secondary suites and backyard suites"
+[6]: https://www.calgary.ca/communities/profiles/meadowlark-park.html "Meadowlark Park Profile"
+[7]: https://data.calgary.ca/stories/s/Community-Crime-Data-Lens/sycx-s5a6/?utm_source=chatgpt.com "Community Crime Data Lens - Open Calgary"
+[8]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[9]: https://www.calgary.ca/content/dam/www/engage/documents/timn/timn-engagementreportback1visioning-whatweheard.meadowlarkpark.pdf?utm_source=chatgpt.com "This Is My Neighbourhood - Meadowlark Park"
+[10]: https://www.rentfaster.ca/ab/calgary/rentals/meadowlark-park/?utm_source=chatgpt.com "Meadowlark-park Apartments & Houses for Rent in Calgary"
+[11]: https://www.honestdoor.com/cities/ab/calgary/meadowlark-park?utm_source=chatgpt.com "Meadowlark Park, Calgary, AB Real Estate"
+[12]: https://www.rentfaster.ca/rent-report/?utm_source=chatgpt.com "Rent Report for Apartments & Houses in Canada"
+[13]: https://www.kirbycox.com/meadowlark-park.php?utm_source=chatgpt.com "Meadowlark Park Calgary Real Estate For Sale"
+
+
 # North Haven Upper
 # Manchester
 # Mayfair
