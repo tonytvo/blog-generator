@@ -541,6 +541,32 @@ Here is another definition of marriage that you may want to consider.
   - Similar family background.
 
 
+- The natural inclination is to look at this list and say, “Oh yes, that’s us. We are like that and have these characteristics.” If you feel these traits are present in your relationship, give a specific example of how each of the first six traits was manifested in
+the past two weeks. Then, for traits seven and eight, give examples of each type of similarity.
+1.
+2.
+3.
+4.
+5.
+6.
+7. 
+  - (1)
+  - (2)
+  - (3)
+  - (4)
+  - (5)
+8. 
+  - (1)
+  - (2)
+  - (3)
+  - (4)
+  - (5)
+
+- The instruction on right living in Ephesians 4:2 can be applied to the marriage relationship. “Living as becomes you—with complete lowliness of mind (humility) and meekness (unselfishness, gentleness, mildness), with patience, bearing with one another and making allowances because you love one another”
+  - Look at the last part of the verse: “making allowances because you love one another.” List six specific examples of how this portion can be applied in your future marriage relationship. Try to think of these in relation to your differentness.
+  - similarities - How are my fiancé and I similar?
+  - Differences - How are my fiancé and I different?
+  - Effect - How can these differences and similarities complement one another in our marriage? Which of the differences have you thanked God for?
 
 # Quotes
 
