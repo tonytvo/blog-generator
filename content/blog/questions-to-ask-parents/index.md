@@ -568,6 +568,28 @@ the past two weeks. Then, for traits seven and eight, give examples of each type
   - Differences - How are my fiancé and I different?
   - Effect - How can these differences and similarities complement one another in our marriage? Which of the differences have you thanked God for?
 
+- What special memories do you have about your childhood?
+- How did you get along with each of your parents? What were they like? What did you like and dislike about your parents?
+- What were your hurts and disappointments as a child?
+- What were your hobbies and favorite games?
+- How did you usually get into trouble?
+- How did you usually try to get out of trouble?
+- What did you enjoy about school activities?
+- What pets did you have? Which were your favorites and why?
+- What did you dream about doing when you were older?
+- Did you like yourself as a child? Explain.
+- Did you like yourself as a teenager? Explain.
+- What were your talents and special abilities?
+- What awards and achievements did you win?
+- Did you have a nickname?
+- Who were your close friends? Where are they today?
+- Describe the area where you grew up—people, neighborhood, etc.
+- What was your spiritual life like as a child? As an adolescent?
+- Who were the Christians in your family?
+- What were you afraid of? Do you have any of those fears today?
+- How did you get along with your brothers and/or sisters? If you had none, which relatives were you closest to?
+- What parts of your childhood would you like to relive? Why?
+
 # Quotes
 
 the unexamined life is not worth living - socrates
