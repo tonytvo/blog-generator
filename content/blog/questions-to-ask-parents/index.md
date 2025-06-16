@@ -590,6 +590,44 @@ the past two weeks. Then, for traits seven and eight, give examples of each type
 - How did you get along with your brothers and/or sisters? If you had none, which relatives were you closest to?
 - What parts of your childhood would you like to relive? Why?
 
+- What do you remember from your first day of school?
+- Did you enjoy school? Why or why not? What was your favorite grade, and who were your favorite teachers?
+- Who was your first date?
+- Who were your other dates or boyfriends/girlfriends? What did you like and dislike about each one?
+- Where did you go on dates?
+- How did you feel when you liked someone and that person didn’t care for you?
+- How has being an adult changed your life?
+- Compare yourself now to when you were 10.
+- What have been your greatest disappointments? How have you handled them? What have you learned from them?
+- At what age did you first like the opposite sex? 
+- What was your birth order in your family?
+- Did you have enough money in your youth? Enough food and clothing?
+- Who educated you in sex? What were your sexual experiences? What is your standard for sexual expression in your life now?
+- What are your political views?
+- What do you enjoy reading? Watching on TV?
+- Have you ever had a child? Do you want children?
+- What is your first memory?
+- Who were your favorite relatives?
+- Describe your education and job experiences.
+- What were your emotional reactions to jobs, fellow employees, and bosses? What are your ambitions?
+- What are your natural gifts? What do you consider your strong points? Weak points?
+- What is your medical history?
+- What is your favorite holiday, type of music, television program, and pastime?
+- While growing up, did you think of marrying someday?
+- Who are the five most important people in your life?
+- Which Christian leaders or writers have influenced you?
+- Where would you like to live? What country, state, city, house, and/or apartment?
+- What are your views on aging?
+- Describe the best year of your life.
+
+- When do you wake up? (weekday and day off)
+- When do you get up? (weekday and day off)
+- What steps do you take to get ready for the day? Example: Do you shower first or eat first? How much time do you need getting ready in the bathroom? How much time do you take preparing breakfast? Do you eat sitting down or on the run? Do you read the paper in the morning, have devotions, etc.? In other words, indicate your normal procedures and how much time you spend for each task. (weekday and day off)
+- As you drive to wherever you’re going (work, school, etc.), do you enjoy the solitude or would you rather talk to someone? If you listen to the radio, what do you listen to? (weekday and day off)
+- Now that you’ve got the basic idea of what we’re looking for, indicate what you do each hour of the day. Be sure to describe what you do on breaks, lunch, etc. (weekday and day off)
+- As you drive home, are you thinking about what went on during the day or what you’re going to do in the evening? What do you enjoy doing for the first hour when you get home? (weekday and day off)
+- Describe in detail dinner preparations, what and where you like to eat, and what you do in the evening. When you get ready for bed, where do you put your clothes from this day? Do you prepare your clothes for the next day or wait until the morning? Do you go to sleep with the radio or TV on? Do you like it completely dark and quiet or do you leave a light on? (weekday and day off)
+
 # Quotes
 
 the unexamined life is not worth living - socrates
