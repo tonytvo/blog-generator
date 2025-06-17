@@ -17476,6 +17476,187 @@ Use several sources and triangulate:
 
 
 # North Haven Upper
+
+[![North Haven Profile](https://tse3.mm.bing.net/th/id/OIP.hCgB8ru47kyl-doJgx2VIwHaJl?pid=Api)](https://www.calgary.ca/communities/profiles/north-haven.html?utm_source=chatgpt.com)
+
+Below is an investor-focused **deep outline for North Haven Upper (Calgary, NW)** (the “Upper” sub-area of North Haven near **Nose Hill Park / 14 St NW corridor**).
+
+---
+
+## 1) Nearby amenities & attractions (demand + resale drivers)
+
+* **Nose Hill Park (major anchor)**: North Haven sits at the **base of Nose Hill Park** with easy access to trails/pathways and views. ([Federation of Calgary Communities][1])
+* **Pathway connectivity**: proximity to the broader pathway system is explicitly called out as a core amenity. ([Federation of Calgary Communities][1])
+* **Quick arterial access**: close to **14 St NW / John Laurie Blvd** type corridors (commuter convenience to DT + NW employment nodes). (General NW community access; confirm your specific street’s noise/exposure.)
+* **Schools / community programming**: North Haven community association ecosystem supports family appeal (events, recreation, local community services). ([Federation of Calgary Communities][1])
+
+**Investor takeaway:** this is a “**quiet, mature, park-adjacent**” NW pocket where lifestyle adjacency (Nose Hill) supports long-run desirability.
+
+---
+
+## 2) When were the houses commonly built? (capex + renovation profile)
+
+From the City of Calgary community profile (2021 Census housing vintage):
+
+* **1961–1980: 92%**
+* **1981–1990: 6%**
+* **1960 or before: 0%** (in this community snapshot) 
+
+**Implication:** mostly **1960s–1970s detached stock** → budget for windows/insulation, sewer line risk, mechanicals, and modernization.
+
+---
+
+## 3) Common building types (what you’re buying)
+
+Structure type (occupied private dwellings):
+
+* **Single-detached: 100%** (in the census snapshot) 
+
+**Implication:** very little inherent “multi-door” inventory—your value-add comes from **suites, renovations, or redevelopment optionality** (if land use allows).
+
+---
+
+## 4) Zoning regulations & “more units per lot?”
+
+North Haven Upper is predominantly low-density detached, but **zoning varies by parcel**—you must confirm the exact **Land Use District** by address.
+
+**How to verify (best practice):**
+
+* Use the City’s “**Find your land use district**” tool / land use maps. ([https://www.calgary.ca][2])
+
+**Does zoning allow more units per lot?**
+
+* In many Calgary low-density districts, the realistic “add doors” path is:
+
+  * **Secondary suite** (legal basement suite) where allowed, and/or
+  * **Backyard suite / ADU** on eligible lots, subject to rules + permits.
+* City guidance indicates you can have **a secondary suite and a backyard suite** on a single-detached/semi-detached property (subject to requirements). ([North Haven Community][3])
+
+**Investor takeaway:** assume **1 door** as baseline; underwrite “2 doors” only after zoning + site feasibility check (parking, access, egress, servicing, tree impacts).
+
+---
+
+## 5) Population & population growth
+
+* **Population in private households: 640** 
+* The City publishes a **population projection (2014–2042)** for North Haven Upper (good for directionality, but it’s typically a **built-out** neighborhood where change comes from turnover/redevelopment rather than new land release). ([https://www.calgary.ca][4])
+
+---
+
+## 6) Average income (tenant quality + resale depth)
+
+* **Median household income (before tax, 2020): $120,000** 
+* Income distribution also shows a meaningful share of households **$200k+** (20% in the profile snapshot). 
+
+**Implication:** supports stronger owner-occupant demand and “family/professional” tenant pools when rentals appear.
+
+---
+
+## 7) Crime rate (how to evaluate it properly)
+
+Best official sources (community-level counts by period/type):
+
+* **Calgary Police Service crime dashboard (Crime Map by Community)** ([ArcGIS][5])
+* **Open Calgary “Community Crime Data Lens”** ([Open Calgary][6])
+
+**Practical note:** North Haven Upper’s population is small, so per-capita swings can look dramatic month-to-month—use **12–24 month totals** and compare to nearby NW peers.
+
+---
+
+## 8) Rental supply/demand (what the rental market looks like)
+
+Tenure in the community profile:
+
+* **Owners: 94%**
+* **Renters: 4%** 
+
+RentFaster snapshot for “North Haven” (broader area) often shows **very thin or zero results** at times—consistent with low renter share. ([RentFaster.ca][7])
+
+**Investor takeaway:** rental demand exists (NW access + park adjacency), but **rental inventory is thin**—expect fewer comps and potentially longer lease-up if you overprice.
+
+---
+
+## 9) Average rents (how to underwrite when comps are thin)
+
+From the City profile, **rented dwelling shelter cost shows $0** (a sign the renter sample is extremely small/possibly suppressed in the dataset). 
+
+So use triangulation:
+
+* **HonestDoor “Average Rental Estimate”: ~$3,282/month** (model-based; likely skewed to detached homes). ([HonestDoor][8])
+* Cross-check against broader Calgary rent benchmarks (e.g., RentFaster city medians) to sanity-check. ([RentFaster.ca][9])
+
+**Underwriting tip:** treat $3.3k as an *upper anchor for a nice detached*; for dated stock, haircut and add lease-up buffer.
+
+---
+
+## 10) A / B / C / D neighborhood grade (investor lens)
+
+**North Haven Upper = B+ (borderline A-)**
+
+* Strong livability/amenities (Nose Hill adjacency) ([Federation of Calgary Communities][1])
+* High owner-occupancy / stability 
+* Income profile supportive 
+* But “cashflow scaling” is limited because it’s mostly detached and inventory is tight.
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**Appreciation (long-term):** solid to strong
+
+* Mature NW pocket + major park adjacency tends to hold value well over cycles. ([Federation of Calgary Communities][1])
+
+**Cashflow (today):** usually moderate at best
+
+* Detached prices vs rents often compress cap rates unless you buy well or add legal income (suite/ADU where feasible).
+
+---
+
+## 12) Average house prices (what to expect)
+
+* **Average HonestDoor Price (current month): ~$693,556** (model-based). ([HonestDoor][8])
+
+**Investor note:** “average” can mislead in small communities. Always pull:
+
+* 3–5 recent sold comps (same style/lot size)
+* adjust for renovations, basement finish, backing on green space, traffic exposure.
+
+---
+
+## 13) Strategies that work best here
+
+### 1) Renovate-to-hold (core strategy)
+
+* Buy dated 60s/70s detached, upgrade: kitchens/baths/layout, mechanicals, insulation/windows.
+* Exit options: family buyer pool is deep in these NW pockets.
+
+### 2) “Suite optionality” buy box (selective)
+
+* Only pursue if zoning + lot configuration supports it (entry, parking, egress).
+* Underwrite conservative rents because renter market is thin. 
+
+### 3) Quality long-term rental (low-turnover tenant)
+
+* Target professionals/families who value quiet streets + Nose Hill access.
+* Expect lower turnover and fewer comps; focus on condition and reliability.
+
+### 4) Land-value / future redevelopment (opportunistic, not default)
+
+* Works best on lots with better redevelopment characteristics (corner, larger frontage, lane access), but you must confirm land use district and DP risk. ([https://www.calgary.ca][2])
+
+---
+
+[1]: https://calgarycommunities.com/communities/north-haven-community-association/?utm_source=chatgpt.com "North Haven Community Association"
+[2]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones"
+[3]: https://northhavenyyc.ca/about?utm_source=chatgpt.com "About North Haven"
+[4]: https://www.calgary.ca/communities/profiles/north-haven-upper.html?utm_source=chatgpt.com "North Haven Upper Profile"
+[5]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[6]: https://data.calgary.ca/stories/s/Community-Crime-Data-Lens/sycx-s5a6/?utm_source=chatgpt.com "Community Crime Data Lens - Open Calgary"
+[7]: https://www.rentfaster.ca/ab/calgary/rentals/north-haven/?utm_source=chatgpt.com "North-haven Apartments & Houses for Rent in Calgary, AB"
+[8]: https://www.honestdoor.com/cities/ab/calgary/north-haven-upper?utm_source=chatgpt.com "North Haven Upper, Calgary, AB Real Estate"
+[9]: https://www.rentfaster.ca/ab/calgary/?utm_source=chatgpt.com "Apartments For Rent in Calgary, AB"
+
+
 # Manchester
 # Mayfair
 # Bel-Aire
