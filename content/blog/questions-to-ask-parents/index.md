@@ -628,6 +628,9 @@ the past two weeks. Then, for traits seven and eight, give examples of each type
 - As you drive home, are you thinking about what went on during the day or what you’re going to do in the evening? What do you enjoy doing for the first hour when you get home? (weekday and day off)
 - Describe in detail dinner preparations, what and where you like to eat, and what you do in the evening. When you get ready for bed, where do you put your clothes from this day? Do you prepare your clothes for the next day or wait until the morning? Do you go to sleep with the radio or TV on? Do you like it completely dark and quiet or do you leave a light on? (weekday and day off)
 
+- If you are bothered by the uniqueness of your fiancé, ask yourself, “What will it be like to be married to a person like me in so many ways? What will it be like being married to someone so different than I am? Will I like it?”
+- In what way will the presence of Jesus Christ in your life help you adjust to differences in your future marriage?
+
 # Quotes
 
 the unexamined life is not worth living - socrates
