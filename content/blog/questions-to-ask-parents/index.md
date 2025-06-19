@@ -631,6 +631,81 @@ the past two weeks. Then, for traits seven and eight, give examples of each type
 - If you are bothered by the uniqueness of your fiancé, ask yourself, “What will it be like to be married to a person like me in so many ways? What will it be like being married to someone so different than I am? Will I like it?”
 - In what way will the presence of Jesus Christ in your life help you adjust to differences in your future marriage?
 
+- What does the Word of God say about love?
+  - Look up the following passages of Scripture to discover love from God’s perspective. We suggest using a modern translation. What is the central thought or example in each passage?
+    - 1. Proverbs 17:17
+    - 2. Matthew 6:24
+    - 3. Matthew 22:37-39
+    - 4. Luke 6:27-35
+    - 5. Luke 10:25-37
+    - 6. John 3:16
+    - 7. John 13:34
+    - 8. Romans 13:8-10
+    - 9. Romans 14:15
+    - 10. 1 Corinthians 8:1
+    - 11. Galatians 2:20
+    - 12. Galatians 5:13
+    - 13. Galatians 6:2
+    - 14. Ephesians 4:2
+    - 15. Ephesians 5:2
+    - 16. Ephesians 5:25
+    - 17. Titus 2:3-5
+    - 18. 1 Peter 4:8
+    - 19. 1 John 3:16-18
+
+- First Corinthians 13:4-7 gives the Bible’s definition of love. These verses indicate that love consists of many elements. As you consider them below, give three creative examples of how each could be applied in your marriage. Be specific.
+  - 1. Suffers long—endures offenses, is not hasty, waits for the Lord to right all wrongs.
+  - 2. Is kind—not inconsiderate, seeks to help, is constructive, blesses when cursed, helps when hurt, demonstrates tenderness.
+  - 3. Is not envious, but content—is not jealous of another person’s success or competition.
+  - 4. Is not arrogant, but humble—not haughty, but lowly and gracious.
+  - 5. Is not boastful, but reserved—does not show off, try to impress, want to be the center of attraction.
+  - 6. Is not rude, but courteous.
+  - 7. Is not selfish, but self-forgetful.
+  - 8. Is not irritable, but good-tempered.
+  - 9. Is not vindictive or wrathful, but generous.
+  - 10. Does not delight in bringing another person’s sins to light, but rejoices when another person obeys the truth.
+  - 11. Is not rebellious, but brave; is circumspect when it comes to another person’s wrongdoing.
+  - 12. Is not suspicious, but trustful—not cynical, makes every allowance, looks for an explanation that will show the best in others.
+  - 13. Is not despondent, but hopeful—does not give up because it has been deceived or denied.
+  - 14. Is not conquerable, but invincible—can outlast problems.
+
+- **A Love Problem?**
+
+After eight years of marriage Ken tells a marriage counselor that he no longer has any romantic feelings for his wife. “It isn’t like when we were first married,” he says. “I knew without a doubt I loved her then. I had strong emotional feelings that were unmistakable. Now that is all gone. I admire her. She is a wonderful woman, a good wife and mother. I’m really more attracted to a girl I used to date in high school.”
+
+Sandy is frustrated over the whole matter. She says she loves her husband and children and wants to hold her family together.
+
+Neither wants a divorce. “How can I regain that loving feeling for my wife?” he asks. “Was it something I did to destroy his love for me?” she asks.
+
+1. What are the causes of the problem?
+
+Sandy
+
+Ken
+
+2. What should they do to resolve the problem?
+
+Sandy
+
+Ken
+
+3. What suggestions does Revelation 2:1-5 give on how to fall in love again?
+
+- **Your Marriage Needs Three Types of Love — Eros, Philia, Agape**
+
+Eros is the love that seeks sensual expression. Eros is romantic love, sexual love. It is inspired by the biological structure of human nature. The husband and wife, in a good marriage, will love each other romantically and erotically.
+
+In a good marriage, the husband and wife are also friends. Friendship means companionship, communication, and cooperation. This is known as philia.
+
+Agape is self-giving love, gift love, the love that goes on loving even when the other becomes unlovable. Agape love is not just something that happens to you; it’s something you make happen. Love is a personal act of commitment. Christ’s love (and hence the pattern for our love) is gift love. Christ’s love for us is sacrificial love. Christ’s love is unconditional. Christ’s love is an eternal love. Agape is kindness. It is being sympathetic, thoughtful, and sensitive to the needs of your loved one. Agape is contentment. Agape love is forgiving love.
+
+  - When you are married, what can you do to demonstrate these three kinds of love? For each word below, write five specific examples of what you will do to enhance your love relationship.
+  - What do you feel are the three main hindrances in marriage to developing love and continuing to grow?
+  - Your love will either live or die. What kills love?
+  - What do you do now to reinforce the behaviors that you enjoy?
+  - What will you do when you are married?
+  - How will the presence of Jesus Christ in your life help you to love your spouse through eros, philia, and agape love?
+
 # Quotes
 
 the unexamined life is not worth living - socrates
