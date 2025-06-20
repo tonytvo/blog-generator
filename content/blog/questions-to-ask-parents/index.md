@@ -706,6 +706,14 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - What will you do when you are married?
   - How will the presence of Jesus Christ in your life help you to love your spouse through eros, philia, and agape love?
 
+- **write 20 expectations you will have of your fiancé when you are married**
+
+- **list ten expectations you think your fiancé will have for you in marriage.**
+
+- Take each expectation and, on a separate piece of paper, write one or two sentences indicating how your marriage relationship will be affected if this expectation is not met.
+
+- Take your fiancé’s list and read it to yourself. As you read each one of your fiancé’s expectations of you, place a check mark under the appropriate column. C stands for “cinch.” You feel that the expectation you have just read is going to be a cinch to fulfill. S stands for “sweat.” It will take some hard work and sweat, but it can be done. N stands for “no way.” You feel that the expectation is impossible.
+
 # Quotes
 
 the unexamined life is not worth living - socrates
