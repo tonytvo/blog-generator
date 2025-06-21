@@ -36,13 +36,90 @@ tags: ["communication", "relationship"]
 - **Circumstances, Conditions and Context**
   - Gladwell affirms that you must face the additional problem of context beyond your inability to read strangers’ emotions and your powerful bias to believe what they tell you. Where and when you meet a stranger, he emphasizes, matters.
 
-## "Clever Hans, the Counting Horse"
+## genius responses to ‘put rude people in their place,’
 
-- In Europe during the halcyon years before World War I, "Clever Hans, the counting horse," was, without a doubt, the most talked-about sensation on the continent. A brilliant entertainer with a unique act, Hans could somehow supply accurate answers to math questions that audience members posed to him. He quickly tapped out the correct answers to any problem – addition, subtraction, multiplication and division – with a hoof. The horse's owner, Herr von Osten, was always by his side while Hans performed these seemingly miraculous feats – but he never spoke to the horse or signalled him in any way.
+### **‘You seem frustrated. Is something wrong?’**
 
-- No one had ever seen such an amazing animal! Expanding beyond math, Hans "learned the alphabet." By tapping his hoof several times for each letter, he would answer questions from audience members concerning the latest news or subjects such as geography and history. Hans always answered every question correctly. Eventually, scientists and other leaders organized a special commission to investigate the "human horse." They asked von Osten to leave the hall for their test. Then, they had Hans perform his usual math and language wizardry in front of a crowd. But the horse still did not miss an answer, tapping out correct responses to numerous questions from the commission's leader. No one could stump the brainy Hans.
+This is a classic redirection tactic. You’re centering the conversation on the other person, not you.
 
-- The public insisted that investigators form another commission. Members organized a second test in which the questioner whispered questions in Hans's ear so no one else could hear. This time, Hans could not answer even a single question correctly. Instead of being brilliant, the horse was revealed as a dummkopf! Can you guess how the commission's members proved Hans was a fraud? Von Osten had taught the horse to read the audience members' "body-language signals." As Hans tapped his hoof, people in the audience would exhibit clear signs of tension – straining forward, holding their breath – until the horse reached the correct number. Then they would all relax, at which point von Osten had taught Hans to stop tapping immediately. Hans was "clever" – but not because he was a math genius or geography expert. He simply knew how to take cues for his actions from the subtle responses of the people around him. "Know your audience" is one of the primary rules of effective communications. Hans, the horse, was able to learn this important lesson. Can you?
+Sometimes people just need a little reminder that they’re actually acting out about something completely different than the matter at hand. And often, getting the opportunity to reflect upon this or talk about it changes the entire situation.
+
+**Similar phrases:**
+- “Are you going through something right now that’s affecting you like this?”
+- “Are you having a problem? Do you want to talk about it?”
+“Have I done something to upset you?”
+
+### ‘I’m surprised you feel comfortable saying things like that.’
+
+Addressing someone’s rudeness head on is a key component to dealing effectively with incivility. By using this phrase, you’re telling the speaker that what they’re saying is unacceptable, and that perhaps they need to reassess their words. 
+
+Research studies discovered that reminding someone that they’re being rude can make them realize they need to correct their behavior.
+
+**Similar phrases:**
+
+- “Are you listening to yourself here?”
+“Do you realize what you’re saying, and how you’re saying it?”
+“Are you aware that you’re coming across as harsh and abrasive?”
+
+### ‘Could you repeat that?’
+
+This is similar to the previous phrase, except you’re not saying it straight out — you’re implying that you don’t like what they just said.
+
+Phrases like this stop the conversation in its tracks and force the speaker to rethink what they’re saying, while also making it clear that you won’t allow it to continue.
+
+**Similar phrases:**
+
+- “Why are you using those words [or that tone] with me?”
+- “How you’re talking [or what you’re saying] isn’t very helpful.”
+- “Can you lower your voice [or change your attitude]?”
+
+### ‘How can we focus instead on making this work well for the both of us?’
+
+This is an example of setting boundaries, a main aspect of coping with rudeness. You’re calmly letting the person know you refuse to continue with the current situation, and you’re redirecting the negative energy onto a positive path.
+
+**Similar phrases:**
+
+- “Can we address this more productively?”
+- “Let’s stop with the negativity and focus on finding a solution.”
+- “Why don’t we continue this when we can be respectful of one another?”
+
+### ‘I see your point.’
+
+Saying that you understand what someone is saying in spite of the manner in which they’re saying it defuses the situation by acknowledging them.
+
+Often a big cause of rudeness, especially in the workplace, is the fear of not being noticed or paid attention to. The simple “I see your point” gets past that obstacle.
+
+**Similar phrases:**
+
+- “I’m glad you’re sharing your perspective with me.”
+- “That’s definitely a way of looking at it.”
+- “I hear you.”
+
+### ‘I can tell you’re upset about something. Could you explain the issue more calmly to me?’
+
+Here’s another “I acknowledge you” statement, with an added “stay cool.” You’re inviting the person to continue speaking, but (and this is important) stressing that the conversation can’t continue the way it began. It’s boundary-setting and defusing at the same time.
+
+**Similar phrases:**
+
+- “Let’s reset the tone a bit so I can really focus on what you’re saying, not on how you’re saying it.”
+- “I know you’re frustrated, but we can work through this if you dial it down a notch.”
+- “It’s clear this is important to you, but let’s step back and take it slowly.”
+
+### ‘Please stop.’
+
+This very simple request can stop rude behavior or conversation in its tracks. The key, though, is saying it quietly and politely. Matching rudeness with rudeness only escalates things.
+
+**Similar phrases:**
+
+- “Don’t say [or do] that, please.”
+- “Could you quiet down?”
+- “Please give me a chance to speak.”
+
+### If all else fails, say nothing or walk away
+
+That’s right. Saying nothing at all, and just looking at the other person in silence, can sometimes be the most effective method of shutting down aggressiveness or rudeness. It’s difficult for someone to amp up the situation when there’s nothing to fight back against. 
+
+Finally, if you feel your anger rising and can tell that you’re about to fight fire with fire, it’s best to physically remove yourself. This way, instead of escalating the situation, you’re giving yourself — and possibly the other person — the time and space to cool down.
 
 ## "How to Talk Like a VIP"
 - You can always recognize important people by the commanding, intelligent way they speak. They have confidence, choose the proper words, and don't use clichés. Follow their lead:
@@ -208,9 +285,9 @@ tags: ["communication", "relationship"]
 - our life is not an Excel spreadsheet. It is a story with ups and downs
 - Fisher's idea is summed up in his famous narrative Paradigm, which represents a break with classical rhetoric. We do not evaluate a story on the basis of arguments but on the basis of how much we trust or believe in the story (can I identify with the subject or the people) and its coherence (does the story make sense.)
 - Chris Anderson, the inventor of Ted, says something similar about the three rules for a perfect Ted Talk 
-  - 1. Don't talk about a concept or deficiency or a product. Talk about an idea
-  - 2. focus on just one idea
-  - 3. talk about the idea in such a way that people will want to tell others about it 
+  - Don't talk about a concept or deficiency or a product. Talk about an idea
+  - focus on just one idea
+  - talk about the idea in such a way that people will want to tell others about it 
   - the next time you have to say something in front of other people, start your talk with this sentence: let me tell you a short story, or on the way here, something strange happened to me 
 
 ## Principal negotiation: how to reach an agreement 
@@ -282,9 +359,9 @@ tags: ["communication", "relationship"]
 - the more you get to know a culture the more black and white turns to Gray
 - in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more apparent in the way we communicate then in what we communicate. 
 - three main cultural types: the linear active, the multi-active and the reactive 
-  - 1. **the linear active** who include most of Western Europe and the USA talk about as much as they listen, have fairly restrained body language, are polite but direct like to deal in facts, and place value on the written word. They don't do two things at once 
-  - 2. **the multi-active** such as Mediterraneans or Saudi Arabians are loquacious, gesticulate a lot, are emotional, juggle with facts, place value on the spoken word and do many things at the same time.
-  - 3. **the reactive** such as the Japanese Chinese and Koreans speak less and try to get their counterpart to speak first they have very subtle body language
+  - **the linear active** who include most of Western Europe and the USA talk about as much as they listen, have fairly restrained body language, are polite but direct like to deal in facts, and place value on the written word. They don't do two things at once 
+  - **the multi-active** such as Mediterraneans or Saudi Arabians are loquacious, gesticulate a lot, are emotional, juggle with facts, place value on the spoken word and do many things at the same time.
+  - **the reactive** such as the Japanese Chinese and Koreans speak less and try to get their counterpart to speak first they have very subtle body language
     - are courteous and indirect 
     - are non-confrontational and place value on face-to-face communication
 - but contrary to what our schematic categorization might suggest there are no pure alignments, only spectrums. Indians for example are hybrid they are both reactive and multi-active. Canada is on the borderline between linear active and reactive
@@ -411,7 +488,7 @@ for example if you don't take the speaker seriously, the act of speaking has fai
 
 - the stronger our anchor, i.e., our firm position on an issue, the harder it is to be persuaded by a different opinion. The stronger you pull at another person's anchor the stronger their resistance. (How can you can succeed anyway [see six principles of persuasion](#six-principles-of-persuasion))
 
-- **if you can't change your mind, then you're not using it **
+- **if you can't change your mind, then you're not using it**
 
 ## the story Matrix - how to apologize properly so that the other person forgives and forgets
 
