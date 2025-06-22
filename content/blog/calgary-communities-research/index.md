@@ -17659,6 +17659,189 @@ So use triangulation:
 
 # Manchester
 
+[![Manchester — Ward 9 Great Neighbourhoods Calgary – Gian-Carlo Carra](https://tse2.mm.bing.net/th/id/OIP.SEoV1UD7-XH91nIpBojceQHaCm?pid=Api)](https://www.gccarra.ca/manchester?utm_source=chatgpt.com)
+
+Below is an investor-focused **deep outline for Manchester (Calgary, near Chinook / Macleod Trail)** — *not to be confused with “Manchester Industrial,” though they sit side-by-side.* ([Wikipedia][1])
+
+---
+
+## 1) Nearby amenities & attractions (what drives demand)
+
+* **CF Chinook Centre (regional mall)**: one of the biggest demand anchors—shopping, services, jobs, transit foot traffic.
+* **Transit (CTrain + buses)**: Chinook Station is a key node in the area and Calgary Transit maps list it as a major station. ([Calgary Transit][2])
+* **Inner-city access + arterials**: Manchester is bordered by **Macleod Trail** (per Ward 9 page) and has fast access to major routes (Macleod, Glenmore, Deerfoot via connectors).
+* **Local community amenity**: a community garden initiative exists (small, but signals local organizing + placemaking).
+
+**Investor takeaway:** demand is largely **“location convenience”** (mall + transit + close-to-core) rather than schools/parks-first family demand.
+
+---
+
+## 2) When were houses commonly built? (vintage = risk + upside)
+
+Manchester’s occupied dwellings skew **newer mid/high-rise stock**:
+
+* **2001–2010: 34%**
+* **2016–2021: 23%**
+* **2011–2015: 12%**
+* Older stock exists but is minority (e.g., **1960 or before: 5%**). 
+
+**Implication:** your “capex risk” is less about 1950s plumbing and more about **condo building health** (reserve fund, envelope, elevators, HVAC, special assessments).
+
+---
+
+## 3) Common building type (what you’re actually buying)
+
+Manchester is **overwhelmingly apartments**:
+
+* **Apartment >5 storeys: 89%**
+* **Apartment <5 storeys: 8%**
+* **Detached / semi / row: ~0%** 
+
+**Implication:** most investor activity is **condo underwriting**, not suites/infill.
+
+---
+
+## 4) Zoning regulations & “more units per lot?”
+
+### What zoning “means” here
+
+* Because this is mostly **existing multi-res towers**, the zoning question usually matters **only for redevelopment parcels** (rare) rather than for typical condo buyers.
+* To check *any specific parcel*, use the City’s land-use tools:
+
+  * **Land Use Bylaw maps** ([https://www.calgary.ca][3])
+  * **MyProperty map** (land-use designation/bylaw details by address) ([Calgary Maps][4])
+  * **Land use districts overview** ([https://www.calgary.ca][5])
+
+### “More units per lot” potential?
+
+* For **detached lots**, Calgary allows secondary/backyard suites under specific rules—*but Manchester has almost no detached stock*, so it’s usually not your lever here. 
+* The bigger “units per land” story is **area plans around Chinook** (station-area planning encourages higher density in parts of the broader Chinook–Manchester area). ([https://www.calgary.ca][6])
+
+---
+
+## 5) Population & population growth
+
+* **Population (2021, private households): 950** 
+* The City publishes a **population projection (2014–2042)** chart for Manchester; it’s shown as a percent-change chart (good for direction, not great for exact forecasting). ([https://www.calgary.ca][7])
+
+**Investor takeaway:** this is a **small** community; price and rent moves can be influenced by **a handful of buildings** (building-specific risk is real).
+
+---
+
+## 6) Average income (tenant quality + affordability)
+
+* **Median household income (before tax, 2020): $44,000** 
+* Also notable: **39%** of households spend **30%+ of income on shelter** (affordability pressure). 
+
+**Implication:** expect a renter pool that is more **price-sensitive**, and be conservative on rent growth assumptions.
+
+---
+
+## 7) Crime rate (how to assess properly)
+
+Use official community dashboards:
+
+* **Open Calgary – Community Crime Statistics dataset** ([Open Calgary][8])
+* **CPS Crime Map by Community dashboard** ([ArcGIS][9])
+
+**Investor note:** for Manchester, also sanity-check by **crime type** (theft from vehicle, break & enter, etc.) and compare against nearby communities (Chinook/Mission-ish belt) rather than citywide averages.
+
+---
+
+## 8) Rental supply/demand (renter profile + turnover)
+
+Manchester is renter-heavy:
+
+* Housing tenure graphic indicates roughly **~69% renter / ~31% owner**. 
+* Mobility is high: **~74% moved within the last 5 years** (very high turnover vs typical detached neighborhoods). 
+
+**Implication:** rentals are a core use-case here, but you must underwrite:
+
+* higher turnover + leasing costs
+* more competition (other units in the same building)
+
+---
+
+## 9) Average rents (practical underwriting anchors)
+
+Because neighborhood-level listings can be thin on portals at times: ([RentFaster.ca][10])
+Use multiple anchors:
+
+* **Median shelter cost (rented dwellings): $900/month** (note: *shelter cost* can differ from asking rent, and can reflect older leases). 
+* Building-level RentFaster stats example: **Manchester Place** shows **2-bed avg ~$2,150** (when they have data). ([RentFaster.ca][11])
+* Example current-ish listing: **1-bed ~$1,115 + surcharge** (single listing, but useful sanity check). ([RentFaster.ca][12])
+
+**Investor takeaway:** rents are **highly building- and unit-type dependent** (tower amenities, parking, renovations, utilities included).
+
+---
+
+## 10) A / B / C / D neighborhood grade (investor lens)
+
+**Manchester: C (cashflow potential) / C+ (location)**
+
+* **Pros:** transit + Chinook access supports demand. ([Calgary Transit][2])
+* **Cons:** low median income + high renter share + building-specific condo risks → more volatility and more underwriting work. 
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+* **Appreciation:** mixed.
+
+  * Positives: station-area densification tailwinds around Chinook in the broader area. ([https://www.calgary.ca][6])
+  * Negatives: condo towers can underperform if supply grows, condo fees rise, or buildings age poorly (reserve fund/special assessments).
+* **Cashflow:** potentially better than “detached-only” inner-city pockets *if* you buy right (low entry condo + stable rent), but watch condo fees and vacancy.
+
+---
+
+## 12) Average house prices (expect distortions; use comps by building)
+
+* HonestDoor shows **average price ~$1.1M** and **average rent estimate ~$4.0k** for “Manchester” (model-based; can be distorted by small samples / mixed property types). ([HonestDoor][13])
+* A historical “assessed value” snapshot (Avenue Calgary) showed much lower values (older data—use only as context, not underwriting).
+
+**How to underwrite instead**
+
+* Pull **recent sold comps in the same building** (or 2–3 closest comparable towers), and treat “neighborhood averages” as noise.
+
+---
+
+## 13) Best investment strategies for Manchester
+
+### 1) **Condo buy-and-hold (rent-focused) — the “default”**
+
+* Winning is mostly: **buy price + condo fee discipline + building quality**
+* Must-check: reserve fund strength, upcoming major projects (elevators, envelope), rental restrictions, parking/utility inclusions.
+
+### 2) **Value-add condo renovation (target older finishes)**
+
+* Small renos (flooring/paint/lighting/kitchen refresh) can lift rent and reduce vacancy—*if* building comps support it.
+
+### 3) **Tenant-profile specialization**
+
+* Given transit + Chinook:
+
+  * budget-conscious professionals/students/service workers
+  * consider “clean, safe, simple” positioning vs luxury positioning
+
+### 4) **Avoid “speculative densification” unless you’re buying land**
+
+* Most buyers here are not buying redevelopment parcels. If you are, tie the thesis to specific land-use and station-area policy, not vibes. ([https://www.calgary.ca][3])
+
+---
+
+[1]: https://en.wikipedia.org/wiki/Chinook_station?utm_source=chatgpt.com "Chinook station"
+[2]: https://www.calgarytransit.com/rider-information/lrt-and-bus-station-maps.html?utm_source=chatgpt.com "LRT Station, Bus Terminal and System Maps"
+[3]: https://www.calgary.ca/maps/land-use-bylaw.html?utm_source=chatgpt.com "Land Use Bylaw maps"
+[4]: https://maps.calgary.ca/myproperty/?utm_source=chatgpt.com "My Property 3.0 Instant App"
+[5]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones"
+[6]: https://www.calgary.ca/content/dam/www/engage/documents/chinook-station-area/csarp-final-draft.pdf?utm_source=chatgpt.com "DRAFT Chinook Station Area Redevelopment Plan"
+[7]: https://www.calgary.ca/content/dam/www/programs-services/property-housing-and-neighbourhoods/neighbourhood-and-community-relationships/profiles/population-projection-chart-generator/manchester-population-projection.pdf?utm_source=chatgpt.com "Manchester Population Projection"
+[8]: https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/78gh-n26t?utm_source=chatgpt.com "Community Crime Statistics | Open Calgary"
+[9]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[10]: https://www.rentfaster.ca/ab/calgary/rentals/manchester/?utm_source=chatgpt.com "Manchester Apartments & Houses for Rent in Calgary, AB"
+[11]: https://www.rentfaster.ca/ab/calgary/buildings/manchester-place-calgary-ab/?utm_source=chatgpt.com "Manchester Place Building Information - Calgary"
+[12]: https://www.rentfaster.ca/properties/5757-2-street-southwest-calgary-468894?utm_source=chatgpt.com "Manchester | UPDATED ONE BEDROOM AVAILABLE NOW"
+[13]: https://www.honestdoor.com/cities/ab/calgary/manchester?utm_source=chatgpt.com "Manchester, Calgary Real Estate: Housing Market ..."
 
 
 # Mayfair
