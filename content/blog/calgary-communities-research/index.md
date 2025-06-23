@@ -17875,7 +17875,6 @@ Use multiple anchors:
 # Greenview Industrial Park
 # Highfield
 
-# Manchester Industrial
 # Mayland
 # McCall
 # Meridian

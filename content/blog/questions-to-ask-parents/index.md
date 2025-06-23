@@ -714,6 +714,16 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 
 - Take your fiancé’s list and read it to yourself. As you read each one of your fiancé’s expectations of you, place a check mark under the appropriate column. C stands for “cinch.” You feel that the expectation you have just read is going to be a cinch to fulfill. S stands for “sweat.” It will take some hard work and sweat, but it can be done. N stands for “no way.” You feel that the expectation is impossible.
 
+- It has been suggested that most couples go through these three stages (enchantment, disenchantment, maturity). What about you? Perhaps in your own relationship you have experienced some of the disenchantment stage already. Do you want to go through the full extent of the disenchantment stage as you see it expressed here? If not, then take some time to write out what you can do as an individual and what you can do as a couple to keep from going through all of the experiences of this stage. When you have finished writing, share your responses together.
+
+- Complete the following statements and then share your responses with your fiancé.
+  1. This is what you need to know about my family life as I was growing up in order to understand me:
+  2. If I could have changed one thing about my family life as I was growing up, it would have been ...
+  3. Because I want or don’t want this to occur in my own marriage and family life, I will ...
+  4. My parents have influenced my attitudes toward marriage by ...
+  5. Something from my parents’ relationship that I would like to have in mine is ...
+  6. Something from my parents’ relationship that I prefer not having in mine is ...
+
 # Quotes
 
 the unexamined life is not worth living - socrates
