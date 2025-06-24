@@ -724,6 +724,32 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   5. Something from my parents’ relationship that I would like to have in mine is ...
   6. Something from my parents’ relationship that I prefer not having in mine is ...
 
+- Talk with your fiancé and list, on a separate piece of paper, ten similarities and ten differences between their home and family life and yours. Discuss these together. How will any of these affect your own marriage?
+
+- Changes in marriage will happen. How will you adjust to them? Do you realize that even positive changes can disrupt a marriage relationship?
+
+- Write how you would react to the following circumstances that could cause changes in your marriage.
+  - 1. a miscarriage
+  - 2. death of a child
+  - 3. major financial difficulty
+  - 4. being fired from a job
+  - 5. spouse wants to quit work and go back to school
+  - 6. major illness
+  - 7. a major lawsuit with potentially great financial loss and severe emotional stress
+  - 8. moving to an apartment instead of the home you were in for five years
+  - 9. living in the country instead of the city (or vice versa)
+  - 10. spouse is quitting job to start own business
+  - 11. husband and wife want to go to work and take the three children to daycare
+  - 12. child does not turn out the way you wanted
+  - 13. three more children than you planned on having
+  - 14. discovering that you cannot have children
+  - 15. a friend makes a pass at you or your spouse
+  - 16. in-laws turn hostile toward you
+  - 17. spouse has to work nights instead of days
+  - 18. car is stolen while on vacation
+  - 19. you are attracted to another person
+  - 20. spouse is no longer interested in spiritual things
+
 # Quotes
 
 the unexamined life is not worth living - socrates
