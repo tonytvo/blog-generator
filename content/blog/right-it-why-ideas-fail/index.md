@@ -1,8 +1,8 @@
 ---
-title: acquirer multiple by Tobias Carlisle summary
-date: "2022-07-25T22:12:03.284Z"
+title: the right IT by Alberto Savoia summary
+date: "2025-06-28T22:12:03.284Z"
 description: "acquirer multiple by Tobias Carlisle summary"
-tags: ["valueinvesting", "investing"]
+tags: ["softwaredevelopment", "productmanagement"]
 ---
 
 # 🧨 **WHY SO MANY IDEAS FAIL**
@@ -183,9 +183,198 @@ One of the most important quotes in the book:
 | **Emotional attachment** | You’ve invested too much to let go        | Remember: **Killing a bad idea early saves time and money** |
 
 
-Certainly! Here’s a **comprehensive and detailed expansion** of **PART 2: MAKE SURE YOU HAVE THE RIGHT IT** from *The Right It* by Alberto Savoia — with **bold-highlighted quotes**, deep dives, and practical **real-world examples** for each major concept.
+
+Certainly! Here's an **even deeper, expanded explanation** of **Part 1: The Product Fallacy** from *"Evidence-Guided" by Itamar Gilad*, with bold-highlighted key phrases, layered reasoning, more case studies, and actionable insights:
 
 ---
+
+## 🧨 **PART 1: THE PRODUCT FALLACY** — *Why Our Product Thinking Is Broken*
+
+This section sets the **critical foundation** for the book, asserting that **most product teams operate under flawed assumptions** about how successful products are created. Gilad dismantles these myths with psychological insight, empirical evidence, and industry case studies.
+
+---
+
+### 🧠 **1. The Product Fallacy – The Myth That Keeps Teams Busy But Ineffective**
+
+#### 🔮 **The Traditional Belief**
+
+> **“Success = a brilliant idea + a skilled team + fast execution.”**
+
+This formula is taught, rewarded, and reinforced across companies—especially in tech. However, it’s **seductively simple** and deeply **misleading**.
+
+---
+
+#### 💥 **Reality: The Link Between Idea and Success is Weak**
+
+> **“In reality, success is highly uncertain, and most ideas do not work.”**
+
+Even the **best teams** cannot escape the fundamental problem: **we are bad at predicting what users want**.
+
+📌 **Example**:
+Google launched Google Wave (a communication platform), backed by a superstar team and hype.
+🔻 **Outcome**: It failed spectacularly because **users didn’t understand its value**, despite internal belief it would revolutionize communication.
+
+---
+
+#### 🧠 **The Role of Cognitive Biases**
+
+Gilad connects **systematic product failure** to **cognitive psychology**—our brains are wired in ways that **skew judgment** and inflate confidence.
+
+**Key Biases:**
+
+1. **Overconfidence Bias**
+
+   > **“We tend to be far too certain in the accuracy of our beliefs.”**
+   > PMs often overrate their product intuition and downplay the unknowns.
+
+2. **Confirmation Bias**
+
+   > **“Once we believe something, we seek evidence to support it and ignore the rest.”**
+   > Teams selectively cherry-pick customer quotes, metrics, or anecdotes that validate their pet ideas.
+
+3. **Survivorship Bias**
+
+   > **“We focus only on the winners and ignore the graveyard of failed products.”**
+   > Most books, talks, and blog posts feature success stories. We don't hear about the hundreds of failed apps, A/B tests, or product pivots that died quietly.
+
+📌 **Case Study**:
+Facebook’s "Stories" format succeeded after copying Snapchat. But Facebook had previously launched and killed many storytelling and ephemeral content features. The public sees only the **winning version**, not the **failed experiments**.
+
+---
+
+### ❌ **2. Most Ideas Fail – And That’s Normal**
+
+#### 📉 **The Data Is Stark**
+
+> **“Across the industry, 70%–90% of ideas produce little to no value.”**
+
+This isn’t a one-time anomaly—it’s a **repeatable trend across teams, products, and decades**.
+
+📊 **Supporting Evidence**:
+
+* **Microsoft**: Only \~1 in 3 ideas tested improved key metrics.
+* **Google**: Ran thousands of experiments—**most ideas performed no better or worse** than the status quo.
+* **Booking.com**: Heavily data-driven and experimental—**only 10-15% of tests result in significant positive change**.
+
+---
+
+#### 🧪 **The Experimentation Backlog**
+
+> **“The product roadmap is not a delivery queue—it’s a hypothesis list.”**
+
+If most ideas fail, we should not treat them as **projects to build**, but as **guesses to test**.
+
+📌 **Real-World Insight**:
+Instead of saying: “We will launch Feature A in Q2,” say:
+🔁 “We believe Feature A may solve Problem X, and we will test it via a prototype or limited release before scaling.”
+
+---
+
+### 🎲 **3. Our Ideas Are Mostly Guesses – And That’s Okay**
+
+#### 🚧 **All Ideas Are Assumptions Until Proven Otherwise**
+
+> **“Your roadmap is a graveyard of guesses.”**
+
+Gilad emphasizes that **ideation** is inherently **speculative**. Great product thinking isn’t about being right from the start—it’s about being **adaptive and humble**.
+
+---
+
+#### 💬 **The Expert Myth**
+
+> **“Even the most experienced product leaders are wrong most of the time.”**
+
+Experts have **pattern recognition**, but patterns don’t guarantee correctness. Markets change. Contexts shift. **You need evidence.**
+
+📌 **Example**:
+At Google, even senior engineers and PMs often failed A/B tests they were confident in. Over time, this **eroded reliance on opinion** and built a culture of **testing everything**.
+
+---
+
+#### 🔍 **HiPPO Decision-Making: A Red Flag**
+
+> **“When the Highest Paid Person’s Opinion overrides evidence, the team is flying blind.”**
+
+To shift to better product thinking:
+
+* Replace **opinions** with **observations**.
+* Replace **authority** with **user insight**.
+* Replace **roadmaps** with **evidence ladders** (discussed later in the book).
+
+---
+
+### 🚀 **4. Output ≠ Outcome – The Root of False Productivity**
+
+#### ⚙️ **Output: Building for the Sake of Delivery**
+
+> **“Many teams mistake activity for progress.”**
+
+Output is:
+
+* Features shipped
+* Sprints completed
+* Code written
+
+But none of these **guarantee value** to users or business.
+
+---
+
+#### 📈 **Outcome: Real, Measurable Impact**
+
+> **“Outcome is the real north star: changes in user behavior that create value.”**
+
+Examples:
+
+* Increase in daily active users (DAU)
+* Reduced churn
+* Higher customer satisfaction
+* Increased conversion rate
+
+📌 **Contrast Example**:
+
+| Metric      | Output                  | Outcome                                     |
+| ----------- | ----------------------- | ------------------------------------------- |
+| Feature     | Rolled out dark mode    | 40% of users enable it & use app 10% longer |
+| Performance | Shipped faster checkout | Conversion rate rises by 15%                |
+| Marketing   | Sent newsletter         | Open rates rise; reactivation improves      |
+
+---
+
+#### 🎭 **Vanity Metrics: Dangerous Illusions**
+
+> **“Just because it’s measurable doesn’t mean it’s meaningful.”**
+
+Examples:
+
+* # of tickets closed
+* Story points completed
+* Number of deployments
+
+These **don’t correlate** with user or business value. They can make teams feel good, but **hide real problems**.
+
+---
+
+#### 🔁 **Shipping ≠ Success**
+
+Gilad warns of the **release trap**—celebrating launches while ignoring results.
+
+📌 **Better Practice**:
+Measure adoption, usage, behavior change **after launch**. Treat releases as **experiments**, not finish lines.
+
+---
+
+## 🧠 **Summary of Key Shifts in Thinking (Mental Model Shift)**
+
+| Old Paradigm                         | Evidence-Guided Paradigm                         |
+| ------------------------------------ | ------------------------------------------------ |
+| Ideas are facts                      | Ideas are **guesses** to be tested               |
+| Experts know what works              | Experts also need **validation**                 |
+| Shipping = success                   | **Impact = success**                             |
+| Measure speed and volume (output)    | Measure **value and outcome**                    |
+| Decide based on opinion or authority | Decide based on **evidence and experimentation** |
+
+---
+
 
 # ⚙️ MAKE SURE YOU HAVE THE RIGHT IT
 
