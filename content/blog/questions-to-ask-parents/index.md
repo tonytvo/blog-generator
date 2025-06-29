@@ -760,6 +760,20 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 
 - How will the presence of Jesus Christ in your life help you to fulfill your expectations of marriage and accept the ones that are not fulfilled?
 
+- What goals do you have for your marriage? What do you want your marriage to become? What do you want it to reflect? What do you want from your marriage? Now follow these directions concerning your goals.
+  - 1. Place an asterisk (*) by six of the ten goals that you feel are the most important. Then rank them in order of importance.
+  - 2. Place a 0 by any two of the ten goals that you would be willing to forego if absolutely necessary.
+  - 3. Place a $ by the ones that cost money.
+  - 4. Place a P by the ones you learned from your parents.
+  - 5. Place an F by the ones you think your fiancé also wrote down.
+  - 6. Explain in one sentence why your marriage goals are important to the health of your marriage.
+  - 7. Now share and discuss your goals with your fiancé.
+  - 8. Select two of your marriage goals and develop a plan to reach them. Also establish when you will come back to this exercise after you are married and redo it. It is important to periodically evaluate and determine goals because goals do change. Some may be - short-range (to be achieved within three to six months) and some may be long-range (five to ten years).
+  - 9. How will the presence of Jesus Christ in your life assist you in setting and achieving your goals?
+
+- **LIST EIGHT GOALS** for your marriage on a goal wheel like the one below. Write one goal in each of eight spaces. Then take one of the remaining spaces and write a goal that you would like to achieve within three to five years.
+  - In the remaining space write a goal that you would like to see your fiancé achieve within three to five years. Remember, a goal should be reasonable, realistic, attainable, and have a time limit.
+
 # Quotes
 
 the unexamined life is not worth living - socrates

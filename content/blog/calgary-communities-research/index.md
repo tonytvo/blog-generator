@@ -18042,7 +18042,6 @@ Because Mayfair is small, you’ll often rely on **current listings** rather tha
 # Alyth/Bonnybrook
 # Aurora Business Park
 # Burns Industrial
-# Calgary International Airport
 
 # Deerfoot Business Centre
 # East Fairview Industrial
