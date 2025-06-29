@@ -750,6 +750,16 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - 19. you are attracted to another person
   - 20. spouse is no longer interested in spiritual things
 
+- Read the following three passages of Scripture and write how you think these passages would help you accept and adjust to disappointments and changes.
+
+ - “Consider it all joy, my brethren, when you encounter various trials, knowing that the testing of your faith produces endurance” -(James 1:2,3 NASB).
+
+  - “In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials, that the proof of your faith, being more precious than gold which is perishable, even though tested by fire, may be found to result in praise -and glory and honor at the revelation of Jesus Christ” (1 Peter 1:6,7 NASB).
+
+  - “Blessed is a man who perseveres under trial; for once he has been approved, he will receive the crown of life, which the Lord has promised to those who love Him” (James 1:12 NASB).
+
+- How will the presence of Jesus Christ in your life help you to fulfill your expectations of marriage and accept the ones that are not fulfilled?
+
 # Quotes
 
 the unexamined life is not worth living - socrates
