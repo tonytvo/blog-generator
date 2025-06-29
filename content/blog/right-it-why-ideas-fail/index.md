@@ -1936,5 +1936,12 @@ Then you are already ahead of 90% of startups and corporate innovation teams.
 
 # Quotes
 
+“Fake It Before You Make It,” but over the years I have heard that expression used to justify all sorts of nonsense and unsavory behaviors. Although that phrase occasionally still slips out of my mouth (or keyboard), these days I’ve replaced it with “Test It before you invest in It”
+
+“Pretotyping is a way to test an idea as quickly and inexpensively as possible by creating artifacts to help us test the hypotheses that "if we build it, they will buy it” and/or “if we build it, they will use it.”
+
+“To help you get started, however, I will introduce you to two basic, but useful and reliable metrics that can be applied to practically any idea for new products or services: Initial Level of Interest and Ongoing Level of Interest.”
 
 # References
+- https://www.amazon.ca/Right-Many-Ideas-Yours-Succeed-ebook/dp/B07CKRYYZK
+- https://www.amazon.ca/Evidence-Guided-Creating-Impact-Products-Uncertainty-ebook/dp/B0CJCDP1H7/ref=sr_1_1?crid=2U9X3PWLB9BWG&dib=eyJ2IjoiMSJ9.EF0RgfvOGP2QCp6KUY5Fnw.6x0qgZxnPak_O2HNaBpte7JuBJisjRWZ-kYW87BfQJ4&dib_tag=se&keywords=evidence+guided+create+high+impact+product
