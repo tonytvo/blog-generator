@@ -8,38 +8,42 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "### **Part 2: The Impact-First Mindset**
+  - expand in much more details with bold high-light quotes/phrases the above sections "### **Part 4: Culture and Structure**
 
-#### **5. What Are We Optimizing For?**
+#### **13. Culture of Evidence-Guided Product Development**
 
-* Shift from “delivering features fast” → **delivering impact reliably**.
-* Define product success through measurable outcomes.
+* Shift from **authority-based to evidence-based decision making**.
+* Encourage experimentation, curiosity, and user-centricity.
 
-#### **6. Defining Impact**
+#### **14. Empowered Teams**
 
-* Impact = **User Value** + **Business Value**
-* Introduces **GIST Framework**:
+* Empower teams with:
 
-  * **Goals**
-  * **Ideas**
-  * **Step-projects**
-  * **Tasks**
+  * **Clear goals**
+  * **Autonomy**
+  * **Access to users and data**
+* Avoid command-and-control.
 
-#### **7. The GIST Framework**
+#### **15. Leadership for Impact**
 
-* **Hierarchy of alignment** from company mission to execution:
+* Leaders define **vision**, set **outcome goals**, and support experimentation.
+* Shift from **project managers** to **impact coaches**.
 
-  * **Goals**: Clear, measurable outcomes.
-  * **Ideas**: Raw guesses of how to achieve goals.
-  * **Step Projects**: Small experiments.
-  * **Tasks**: Execution items.
+#### **16. Bringing It All Together**
 
-#### **8. Impact-First Planning**
+* Integrate GIST with agile, lean, and discovery practices.
+* Emphasize **continuous impact delivery** over one-time launches.
 
-* Plan around **impact goals** instead of timelines and deliverables.
-* Use OKRs effectively to stay focused on outcomes."
+---
+
+### 📌 **Appendices & Tools**
+
+* **Confidence Meter Template**
+* **Idea Bank Canvas**
+* **Step Project Tracker**
+* **Goal Tracker**"
   - second pass:
-    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Part 2: The Impact-First Mindset**" please
+    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Part 3: Evidence-Guided Development**" please
 
 
 - **community research**
@@ -80,38 +84,6 @@ Here is a **detailed outline** of the book **"Evidence-Guided: Creating High-Imp
 
 ---
 
-### **Part 2: The Impact-First Mindset**
-
-#### **5. What Are We Optimizing For?**
-
-* Shift from “delivering features fast” → **delivering impact reliably**.
-* Define product success through measurable outcomes.
-
-#### **6. Defining Impact**
-
-* Impact = **User Value** + **Business Value**
-* Introduces **GIST Framework**:
-
-  * **Goals**
-  * **Ideas**
-  * **Step-projects**
-  * **Tasks**
-
-#### **7. The GIST Framework**
-
-* **Hierarchy of alignment** from company mission to execution:
-
-  * **Goals**: Clear, measurable outcomes.
-  * **Ideas**: Raw guesses of how to achieve goals.
-  * **Step Projects**: Small experiments.
-  * **Tasks**: Execution items.
-
-#### **8. Impact-First Planning**
-
-* Plan around **impact goals** instead of timelines and deliverables.
-* Use OKRs effectively to stay focused on outcomes.
-
----
 
 ### **Part 3: Evidence-Guided Development**
 

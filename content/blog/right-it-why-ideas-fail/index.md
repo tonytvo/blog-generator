@@ -513,7 +513,267 @@ But if **you win them**, you're likely building something great.
 
 ---
 
-Absolutely! Below is a **comprehensive and expanded version** of:
+# 🎯 **THE IMPACT-FIRST MINDSET**
+
+*How High-Impact Teams Think, Plan, and Build*
+
+This section reorients teams away from the traditional **output-driven model**—where features and velocity dominate thinking—to a more effective paradigm: **impact-first thinking**, where the **primary goal is to drive measurable improvements** in business and user outcomes through **learning, iteration, and evidence**.
+
+---
+
+## 🔄 **What Are We Optimizing For? — Speed or Value?**
+
+### ❌ **The Default (Flawed) Mental Model**
+
+> **“Build more, ship faster, and success will follow.”**
+
+This model **confuses activity with progress**. Agile teams, CI/CD pipelines, and sprint velocities become the north star.
+
+However, **speed without direction equals waste**.
+
+### ✅ **Reframed Mental Model**
+
+> **“Product success = delivering *value* to users and business through validated learning.”**
+
+Gilad reframes the question from:
+
+> “**What features are we building this quarter?**”
+> to
+> “**What outcomes are we aiming to achieve?**”
+
+---
+
+### 📌 **Analogy: The Compass vs. The Speedometer**
+
+* **Output-first mindset** = checking the speedometer: “How fast are we going?”
+* **Impact-first mindset** = checking the compass: “Are we heading in the right direction?”
+
+> **“Progress without direction is just wasted motion.”**
+
+---
+
+## ⚖️ **Defining Impact — The Two-Sided Equation**
+
+### 🔍 **What Is Impact, Really?**
+
+> ✅ **“Impact = User Value + Business Value”**
+
+Success only happens when:
+
+* Users **benefit meaningfully**
+* The business **gains value** (revenue, retention, efficiency, etc.)
+
+---
+
+### 🧍 **User Value**
+
+Value delivered to the end user. It must solve a **real problem** or enable a **meaningful improvement**.
+
+Examples:
+
+* Easier onboarding
+* Feature discoverability
+* Better UX / accessibility
+* Saving user time, effort, or money
+
+> **“If your product isn’t helping users succeed, it won’t survive.”**
+
+---
+
+### 💼 **Business Value**
+
+Concrete, measurable contributions to business objectives:
+
+* Higher conversion rate
+* Improved retention
+* Increased revenue per user
+* Reduced churn or support costs
+
+> ✅ **“True product impact connects user success to business success.”**
+
+📌 **Example**:
+A redesigned signup flow that cuts time in half (user value) and improves conversion from 10% → 14% (business value).
+
+---
+
+## 🧰 **The GIST Framework — Bridging Vision to Action**
+
+Gilad introduces **GIST** as a flexible, scalable tool to support evidence-driven impact delivery:
+
+> **GIST = Goals → Ideas → Step-Projects → Tasks**
+
+It aligns **strategic thinking (Goals)** with **tactical execution (Tasks)** through **validated learning**.
+
+---
+
+### 🥅 **G = Goals**
+
+> ✅ **“Goals are clear, measurable impact objectives, not features.”**
+
+Examples:
+
+* Increase 30-day user retention from 25% to 35%
+* Reduce cart abandonment by 15%
+* Boost Net Promoter Score (NPS) from 40 to 60
+
+📌 **Goals must be:**
+
+* **Outcome-based** (not output-based)
+* **Quantifiable**
+* **Time-bound**
+
+---
+
+### 💡 **I = Ideas**
+
+> **“Ideas are hypotheses—guesses about how to reach a goal.”**
+
+Most teams confuse ideas with requirements or specs. But in reality:
+
+> ❗ **“Ideas are just untested beliefs, no matter how logical they seem.”**
+
+Teams must:
+
+* Generate multiple ideas (divergent thinking)
+* **Score** them using tools like **ICE** or **RICE**
+* Track them in an **Idea Bank** (as covered later in the book)
+
+📌 **Example**:
+To increase onboarding completion, ideas might include:
+
+* Reduce signup fields
+* Add welcome video
+* Enable social login
+
+Each is a guess—not a guarantee.
+
+---
+
+### 🧪 **S = Step-Projects**
+
+> ✅ **“Fast, inexpensive experiments that test assumptions behind ideas.”**
+
+This is where **learning happens**.
+
+Examples:
+
+* Fake door tests
+* Landing page A/B tests
+* Concierge MVPs
+* Email split tests
+
+> **“Don’t build until you test.”**
+
+📌 **Case Example**:
+Rather than build a complex refer-a-friend system, test user interest with:
+
+* A “Refer a Friend” button that logs clicks
+* Manual coupon delivery (instead of full automation)
+
+> 🔁 **“Step-projects reduce risk while increasing certainty.”**
+
+---
+
+### ⚙️ **T = Tasks**
+
+> **“Tasks are delivery items created only after validation.”**
+
+Once a step-project proves that an idea is **viable and impactful**, it moves into actual development.
+
+> ❌ **“Don’t start with tasks. Start with goals and validation.”**
+
+📌 GIST ensures this **bottom-up execution aligns with top-down strategy**.
+
+---
+
+### 🔄 **GIST in Action: Example Scenario**
+
+**Goal**: Reduce time to first value (TTFV) by 30%
+**Ideas**:
+
+* Pre-fill user setup form
+* Auto-recommend features based on usage
+* Add onboarding video
+  **Step Projects**:
+* Run A/B test for pre-filled form
+* Email new users with video vs. no video
+  **Tasks**:
+* Develop pre-fill automation
+* Design a recommendation engine
+
+Only after **measuring impact** do teams commit engineering time.
+
+---
+
+## 🗓️ **Impact-First Planning — Redesigning the Product Planning Process**
+
+### ❌ **Problem with Traditional Roadmaps**
+
+> **“Most roadmaps are just a list of guesses with deadlines.”**
+
+These:
+
+* Create false certainty
+* Encourage overcommitment
+* Limit adaptability
+* Reward shipping, not learning
+
+---
+
+### ✅ **The Impact-First Alternative**
+
+> **“Start with outcomes. Let solutions emerge from evidence and experimentation.”**
+
+Instead of “We’ll build feature X by July,” say:
+
+> **“We aim to improve customer activation rate by 20% in Q3.”**
+
+This keeps:
+
+* **Autonomy** for teams to explore options
+* **Alignment** around measurable goals
+
+---
+
+### 🎯 **OKRs Done Right**
+
+Gilad advocates for **real OKRs**, not task lists disguised as goals.
+
+📌 **Correct Format**:
+
+* **Objective**: Improve trial-to-paid conversion
+* **KR1**: Increase free trial completion from 50% to 65%
+* **KR2**: Raise checkout conversion from 20% to 28%
+
+> ✅ **“OKRs should be inspiring, yet grounded in measurable outcomes.”**
+
+---
+
+## 🧠 **Summary — Key Mental Shifts for an Impact-First Culture**
+
+| ❌ Output-Driven Thinking     | ✅ Impact-First Thinking                          |
+| ---------------------------- | ------------------------------------------------ |
+| Deliver more features        | **Deliver more *value***                         |
+| Plan by timelines & specs    | **Plan by goals and validated ideas**            |
+| Ideas = product requirements | **Ideas = testable hypotheses**                  |
+| Success = shipping           | **Success = outcome improvement**                |
+| Tasks are the start of work  | **Tasks come last, after goals and experiments** |
+
+---
+
+## ✅ **Final Reflection from Gilad**
+
+> **“The job of a product team is not to deliver features—it’s to solve problems and create impact.”**
+
+This requires:
+
+* A **radical mindset shift**
+* New tools (like GIST, OKRs, Confidence Meters)
+* A culture of **experimentation, curiosity, and humility**
+
+---
+
+
 
 # ⚙️ **TESTING YOUR IDEA – THE PRETOTYPE METHOD**
 
@@ -788,6 +1048,269 @@ It teaches you to:
 
 ---
 
+# 🔬 **EVIDENCE-GUIDED DEVELOPMENT**
+
+*“Success is not about being right from the start—it's about reducing uncertainty smartly.”*
+
+In this pivotal section, Gilad lays out the practical mechanics for moving from **guesswork and gut-feel** to a system of **learning, experimentation, and evidence-based decision making**. It’s a shift from **certainty-seeking** to **curiosity-driven building**, supported by data and behavioral insight.
+
+---
+
+### 🪜 **The Evidence Ladder — A Tool for Judging Idea Quality**
+
+#### 🎯 **The Core Idea**
+
+> ✅ **“Not all ideas are created equal. Their strength lies in the *evidence* supporting them.”**
+
+Most teams don’t evaluate the *quality* of ideas—they prioritize by influence, intuition, or trends. The **Evidence Ladder** gives you a clear framework to rank ideas based on the **reliability of the evidence backing them**.
+
+---
+
+#### 📶 **The 5 Levels of the Evidence Ladder**
+
+1. **Speculation**
+
+   > 🧠 “I just have a feeling this might work.”
+   > These are **pure guesses**, unbacked by any validation.
+   > ⚠️ Risk: **Building from here without testing leads to waste.**
+
+2. **Opinions**
+
+   > 💬 “The VP of Sales thinks we need this.”
+   > This includes feedback from stakeholders, teammates, even users. But it's **subjective and biased**.
+   > ⚠️ Still **weak evidence** until verified through action.
+
+3. **User Feedback**
+
+   > 🗣️ “Users told us they want this feature in interviews.”
+   > Valuable, but still **what people *say*, not what they *do***. Needs to be tested behaviorally.
+   > ✔️ Better than speculation, but not sufficient on its own.
+
+4. **User Behavior**
+
+   > 📊 “Users clicked the fake door button at a 15% rate.”
+   > **Behavioral evidence** (from analytics, A/B tests, click maps) shows what people **actually do**.
+   > ✅ **Strong indicator** that the idea creates real engagement.
+
+5. **Business Results**
+
+   > 💰 “The idea increased conversions by 12% and improved LTV.”
+   > The **gold standard**. When a tested idea leads to measurable **business outcomes**, confidence is at its highest.
+   > ✅✅ High-value ideas live here.
+
+---
+
+#### 🧠 **How to Use the Ladder**
+
+> ✅ “The higher an idea sits, the more confidently you can pursue it.”
+
+📌 Use this as a **prioritization filter**:
+
+* Low-evidence ideas → run **small experiments**
+* High-evidence ideas → invest further, scale up
+* No-evidence ideas → don’t put on your roadmap yet
+
+---
+
+### 🧪 **Testing Ideas with Step Projects — Small Bets, Fast Learning**
+
+#### ❗ The Problem with Big-Bang Development
+
+> ❌ “Let’s build the whole feature, then launch and see if it works.”
+
+This approach:
+
+* Consumes months of dev time
+* Delays feedback
+* Increases risk and emotional attachment
+
+---
+
+#### ✅ **Step Projects: The Safer, Smarter Alternative**
+
+> ✅ **“Step Projects are mini-experiments designed to test the most critical assumptions of your idea.”**
+
+They are:
+
+* **Quick** (days to weeks)
+* **Cheap** (light engineering or no-code)
+* **Focused** (test *one core assumption*)
+
+---
+
+#### 📌 **Examples of Step Projects**
+
+| Type                  | Description                                    | Example                                                 |
+| --------------------- | ---------------------------------------------- | ------------------------------------------------------- |
+| **Fake Door Test**    | Show an option that doesn’t exist yet          | Add “Upgrade to Pro” button, log clicks                 |
+| **Landing Page Test** | A/B test marketing messages or features        | Test new pricing tiers on mock pages                    |
+| **Wizard of Oz MVP**  | Fake the backend, simulate experience          | Manual fulfillment of orders to test demand             |
+| **Email Split Test**  | Measure response to different concepts or CTAs | Test “Refer a Friend” vs “Get a Bonus”                  |
+| **Usability Test**    | Use Figma/Sketch to simulate flows             | Observe users interact with new checkout flow prototype |
+
+---
+
+#### 🔁 **Step Projects = Fast Learning, Not Fast Building**
+
+> 🧠 “If your idea is wrong, better to find out in 2 days than in 3 months.”
+
+**Key Benefits**:
+
+* Protect team bandwidth
+* Learn from **real behavior**
+* Build internal culture of *experimentation over certainty*
+
+---
+
+#### 🔍 **What Makes a Good Step Project?**
+
+* Tests the **riskiest assumption** first
+* Has a **clear success metric**
+* Is **time-boxed and simple**
+* Can be run with minimal disruption
+
+> ✅ “Don’t ask ‘Can we build it?’ Ask, *‘Should* we build it?’”
+
+---
+
+### 📈 **Learning from Data — Build the Learning Engine**
+
+#### 🔁 **Why Learning Is More Valuable Than Shipping**
+
+> 🚫 “Shipping velocity is a vanity metric unless tied to outcomes.”
+> ✅ “**Learning velocity** is the new superpower of product teams.”
+
+---
+
+#### 📊 **Sources of Learning Signals**
+
+1. **Quantitative Data**
+
+   * Funnel analytics (e.g., conversion, retention)
+   * A/B testing results
+   * Heatmaps and session replays
+   * Cohort analysis
+
+2. **Qualitative Data**
+
+   * Customer interviews
+   * Usability sessions
+   * Customer support tickets
+
+---
+
+#### 📌 **Example Loop in Action**
+
+**Goal**: Improve onboarding completion
+**Idea**: Add progress bar
+**Step Project**: A/B test with 20% of new users
+**Result**: 18% lift in completion
+**Next**: Scale feature, monitor long-term impact
+
+> ✅ “Teams should run **dozens of these loops** per quarter—not 1 big risky bet.”
+
+---
+
+#### 🧠 **Key Insight**
+
+> **“Your product is not the final output—*your learning is*.”**
+> Shipping without learning is just output. Learning leads to *outcome*.
+
+---
+
+### 🗂️ **Prioritizing by Evidence and Value — Choose Wisely**
+
+#### ❌ The Reality of Idea Backlogs
+
+> ❗ “Most idea lists are long, unstructured, and driven by emotion.”
+
+Stakeholders push pet features, trends drive FOMO, and teams build based on **who shouts the loudest**.
+
+---
+
+#### ✅ **Replace Gut Feel with Scoring Models**
+
+##### 🔢 **ICE Scoring**
+
+> **Impact × Confidence ÷ Effort**
+
+Simple, fast model for quick idea comparisons.
+
+📌 **Example**:
+
+| Idea             | Impact | Confidence | Effort | ICE Score |
+| ---------------- | ------ | ---------- | ------ | --------- |
+| Simplified login | 8      | 7          | 3      | **18.7**  |
+| AI chatbot       | 6      | 3          | 5      | **3.6**   |
+
+---
+
+##### 📶 **Confidence Meter**
+
+> ✅ “Visual tool that tracks the strength of supporting evidence for each idea.”
+
+Use color-coded tiers:
+
+* 🔴 Speculative / Opinion
+* 🟡 Some user feedback
+* 🟢 Behavior-tested / Result-backed
+
+Helpful for:
+
+* Roadmap debates
+* Stakeholder discussions
+* Justifying prioritization
+
+---
+
+##### 🧠 **RICE Model**
+
+> **Reach × Impact × Confidence ÷ Effort**
+
+Adds scale to the ICE model—especially for B2C or large platforms.
+
+📌 **Example**:
+
+| Idea             | Reach | Impact | Confidence | Effort | RICE Score |
+| ---------------- | ----- | ------ | ---------- | ------ | ---------- |
+| Auto-suggestions | 5,000 | 6      | 7          | 4      | 52,500     |
+| New dashboard    | 500   | 8      | 8          | 5      | 6,400      |
+
+> ✅ “RICE prevents small-impact projects from crowding out high-leverage ones.”
+
+---
+
+#### 🧠 **Gilad’s Rule**
+
+> ✅ “Ideas with low confidence should get *tiny tests*, not massive investments.”
+
+This saves:
+
+* Time
+* Developer energy
+* Morale (you fail fast, not late)
+
+---
+
+## 🧠 **RECAP — FROM GUESSING TO EVIDENCE-LED BUILDING**
+
+| ❌ Traditional Thinking             | ✅ Evidence-Guided Practice                        |
+| ---------------------------------- | ------------------------------------------------- |
+| Opinions and authority guide ideas | **Evidence and behavior validate ideas**          |
+| Roadmaps filled with assumptions   | **Roadmaps filtered by confidence & testing**     |
+| Big launches, slow feedback        | **Small tests, fast learning cycles**             |
+| Prioritize by gut or trends        | **Prioritize by ICE, RICE, and Confidence Meter** |
+| Learning is accidental             | **Learning is systematic and fast**               |
+
+---
+
+> 💬 **“The best teams don’t guess better—they test better.”**
+
+This approach is not about being risk-averse—it’s about **taking smarter risks**, fast.
+
+---
+
+
 # 🧭 **NAVIGATING THE INNOVATION JOURNEY**
 
 ---
@@ -981,7 +1504,7 @@ Google's innovation lab encourages teams to kill their own ideas.
 
 ---
 
-## ✅ Final Takeaways from Part 4
+## ✅ Final Takeaways
 
 > 💡 **“Innovation is not just a technical or market challenge—it’s a personal and cultural one.”**
 
@@ -1156,6 +1679,174 @@ Examples:
 
 ---
 
+## 🔁 **Culture of Evidence-Guided Product Development**
+
+### ❌ **From Authority-Based to Evidence-Based Decisions**
+
+> ❗ “Many product decisions are still driven by the loudest voice in the room.”
+
+**HiPPOs (Highest Paid Person’s Opinions)**, office politics, and **legacy thinking** often dominate. Gilad urges a **cultural transformation**:
+
+> ✅ **“Good ideas can come from anywhere—but only evidence can validate them.”**
+
+---
+
+### 🔍 **Build a Culture of Curiosity and Experiments**
+
+> ✅ “Replace ‘proving you’re right’ with ‘finding what’s true.’”
+
+**Key behaviors of a strong evidence-guided culture:**
+
+* **Welcoming failure** as part of learning
+* **Celebrating invalidated ideas** for saving resources
+* **Rewarding experiments**, not just feature launches
+
+📌 **Example**: A product manager proposes an onboarding chatbot, runs a test, and finds **engagement drops**. Instead of being blamed, the team is praised for **invalidating the wrong bet early.**
+
+---
+
+### 🔄 **Cultural Slogans to Reinforce Mindset**
+
+* “**Test before you build**.”
+* “**Ideas are hypotheses, not promises.**”
+* “**Celebrate small failures that prevent big ones.**”
+
+> ✅ **“Culture eats strategy for breakfast—so make experimentation part of your company’s identity.”**
+
+---
+
+## 👥 **Empowered Teams — Autonomy with Alignment**
+
+### 🧱 **What Empowerment Actually Means**
+
+> ✅ “Empowered teams don’t just execute—they solve problems.”
+
+Too often, teams are handed a **roadmap of outputs** and told to **deliver on schedule**. This isn’t empowerment—it’s execution under constraint.
+
+---
+
+### 💡 **Three Pillars of Empowered Teams**
+
+1. ✅ **Clear Goals**
+
+   * Set by leadership through **OKRs, North Star Metrics, or GIST Goals**
+   * Must focus on **outcomes**, not tasks
+
+2. ✅ **Autonomy**
+
+   * Teams choose **how to solve problems**
+   * Encourages **ownership**, creativity, and motivation
+
+3. ✅ **Access to Users and Data**
+
+   * Teams **talk to customers directly**
+   * Use analytics, A/B testing, and behavior data to learn fast
+
+> ✅ “Give teams the *why* and *what success looks like*. Let them figure out *how*.”
+
+---
+
+### ❌ **Avoid Command-and-Control Cultures**
+
+> ❗ “Telling teams what to build makes them disengaged, less creative, and less accountable.”
+
+📌 Instead, create **“context, not control.”**
+
+**Example**:
+Team A is told to “build feature X” by Q3.
+Team B is asked to “increase user retention by 15%”—and allowed to find the best ideas.
+✅ Team B will **test**, **learn**, and likely **outperform** over time.
+
+---
+
+## 👑 **Leadership for Impact — From Director to Enabler**
+
+### 🔄 **Redefine Leadership Roles**
+
+> ✅ “Leaders should be *impact coaches*, not taskmasters.”
+
+Traditional leadership = assigning features, approving specs, demanding timelines
+Impact-first leadership = **setting goals**, **enabling learning**, **clearing obstacles**
+
+---
+
+### 📌 **What Impact-Oriented Leaders Do**
+
+* **Set the Vision**: Provide long-term direction aligned with company strategy.
+* **Define Outcome Goals**: Establish success in terms of **user and business value**, not features.
+* **Foster Safety for Experiments**: Normalize failure and learning.
+* **Coach, Don’t Command**: Help teams grow autonomy and decision-making capacity.
+* **Resource Learning Loops**: Invest in UX research, data infrastructure, experimentation tools.
+
+> ✅ “Leadership is about designing the environment where good decisions can emerge.”
+
+---
+
+### ❌ **Anti-Patterns to Watch For**
+
+* Rewarding delivery over learning
+* Killing ideas based on opinion, not data
+* Penalizing teams for failed experiments
+* Insisting on waterfall-style roadmaps
+
+> ❗ “If leaders don’t model evidence-based thinking, teams won’t either.”
+
+---
+
+## 🧩 **Bringing It All Together — From Framework to Operating System**
+
+### 🔄 **Combine GIST with Lean, Agile, and Discovery**
+
+GIST is not a replacement for Agile or Lean—it’s an **overlay** that ensures **alignment from strategy to delivery**.
+
+> ✅ “GIST makes Agile actually outcome-oriented, not just fast.”
+
+---
+
+### 📌 **How It Integrates**
+
+| GIST Element      | Matches With             | Purpose                       |
+| ----------------- | ------------------------ | ----------------------------- |
+| **Goals**         | OKRs / North Star Metric | Strategic focus               |
+| **Ideas**         | Discovery / Ideation     | Exploration of possible paths |
+| **Step Projects** | MVPs / Experiments       | Learn fast, test risk         |
+| **Tasks**         | Agile Sprints / Backlog  | Tactical execution            |
+
+---
+
+### 📈 **Shift from Launches to Impact Delivery**
+
+> ❌ “Launch is not the end—it’s the *start* of learning.”
+> ✅ “Great teams don’t just ship features—they ship *results*.”
+
+**Continuous Impact Delivery** means:
+
+* Every sprint is tied to an **impact metric**
+* Every launch includes **a feedback loop**
+* Roadmaps evolve based on **what’s working, not what was promised**
+
+> ✅ “Don’t plan for certainty—plan for discovery and adaptability.”
+
+---
+
+## 🧠 **SUMMARY — BUILDING THE ENVIRONMENT FOR IMPACT**
+
+| ❌ Traditional Org Model     | ✅ Evidence-Guided Culture & Structure                   |
+| --------------------------- | ------------------------------------------------------- |
+| Top-down feature mandates   | **Autonomous teams solving outcome goals**              |
+| Leaders assign work         | **Leaders coach, define vision, and unblock**           |
+| Success = shipping features | **Success = delivering measurable user/business value** |
+| Failure is punished         | **Failure is normalized and leveraged for learning**    |
+| Roadmaps based on opinions  | **Roadmaps shaped by ideas + confidence meters**        |
+
+---
+
+> 💡 **“The best products come not from the best ideas—but from the best systems to discover and validate ideas.”**
+
+If the **culture isn’t aligned**, no framework will succeed. But if the **culture enables learning, experimentation, and curiosity**, great products become inevitable.
+
+---
+
 ### 📄 Templates
 
 #### 🧩 **XYZ Hypothesis Builder**
@@ -1195,6 +1886,37 @@ Helps compare multiple experiments and **make data-informed Go/Kill decisions**.
 
 ---
 
+### 📊 **Confidence Meter Template**
+
+* Color-coded framework to visualize how much **evidence backs each idea**
+* Helps reduce **political debates** and focus on facts
+
+---
+
+### 💡 **Idea Bank Canvas**
+
+* A **centralized repository** for tracking, scoring, and filtering ideas
+* Encourages divergent thinking, then structured convergence
+
+> ✅ “Let ideas compete—based on value and evidence.”
+
+---
+
+### 🧪 **Step Project Tracker**
+
+* Keeps all experiments **visible, documented, and reviewed**
+* Tracks learnings, metrics, outcomes, and next steps
+
+---
+
+### 🎯 **Goal Tracker**
+
+* Links team OKRs or outcome goals to **ongoing experiments and ideas**
+* Ensures alignment between **strategy and day-to-day execution**
+
+> ✅ “You can’t scale impact if you don’t track what’s working.”
+
+
 ## 🎯 Final Takeaway: Culture Eats Tools for Breakfast
 
 > 🔥 **“Tools don’t drive innovation—mindsets do.”**
@@ -1211,8 +1933,6 @@ Then you are already ahead of 90% of startups and corporate innovation teams.
 > 🧠 **“The Right It is not just a product—it’s a habit of mind.”**
 
 ---
-
-
 
 # Quotes
 
