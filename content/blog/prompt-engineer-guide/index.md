@@ -8,30 +8,38 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "### **Part 1: The Product Fallacy**
+  - expand in much more details with bold high-light quotes/phrases the above sections "### **Part 2: The Impact-First Mindset**
 
-#### **1. The Product Fallacy**
+#### **5. What Are We Optimizing For?**
 
-* **Myth**: Great product success is based on good ideas, competent teams, and fast delivery.
-* **Reality**: Success is unpredictable and most ideas fail.
-* **Cognitive Biases**: Overconfidence, confirmation bias, and survivorship bias mislead teams.
+* Shift from “delivering features fast” → **delivering impact reliably**.
+* Define product success through measurable outcomes.
 
-#### **2. Most Ideas Fail**
+#### **6. Defining Impact**
 
-* Cites **Google and other big tech companies** showing most features launched don’t have impact.
-* Failure rate: \~70-90% of ideas fail to produce measurable results.
+* Impact = **User Value** + **Business Value**
+* Introduces **GIST Framework**:
 
-#### **3. Our Ideas Are Mostly Guesses**
+  * **Goals**
+  * **Ideas**
+  * **Step-projects**
+  * **Tasks**
 
-* Most product decisions are **intuition-based guesses**, not grounded in solid evidence.
-* **Experts are not always reliable** predictors of success.
+#### **7. The GIST Framework**
 
-#### **4. Output vs. Outcome**
+* **Hierarchy of alignment** from company mission to execution:
 
-* **Output (features, delivery)** ≠ **Outcome (user value, business value)**.
-* Mistaking shipping for success leads to **vanity metrics and wasted effort**."
+  * **Goals**: Clear, measurable outcomes.
+  * **Ideas**: Raw guesses of how to achieve goals.
+  * **Step Projects**: Small experiments.
+  * **Tasks**: Execution items.
+
+#### **8. Impact-First Planning**
+
+* Plan around **impact goals** instead of timelines and deliverables.
+* Use OKRs effectively to stay focused on outcomes."
   - second pass:
-    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Part 1: The Product Fallacy**" please
+    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Part 2: The Impact-First Mindset**" please
 
 
 - **community research**
@@ -69,30 +77,6 @@ Here is a **detailed outline** of the book **"Evidence-Guided: Creating High-Imp
 
 ## 📘 **Book Outline: *Evidence-Guided* by Itamar Gilad**
 
----
-
-### **Part 1: The Product Fallacy**
-
-#### **1. The Product Fallacy**
-
-* **Myth**: Great product success is based on good ideas, competent teams, and fast delivery.
-* **Reality**: Success is unpredictable and most ideas fail.
-* **Cognitive Biases**: Overconfidence, confirmation bias, and survivorship bias mislead teams.
-
-#### **2. Most Ideas Fail**
-
-* Cites **Google and other big tech companies** showing most features launched don’t have impact.
-* Failure rate: \~70-90% of ideas fail to produce measurable results.
-
-#### **3. Our Ideas Are Mostly Guesses**
-
-* Most product decisions are **intuition-based guesses**, not grounded in solid evidence.
-* **Experts are not always reliable** predictors of success.
-
-#### **4. Output vs. Outcome**
-
-* **Output (features, delivery)** ≠ **Outcome (user value, business value)**.
-* Mistaking shipping for success leads to **vanity metrics and wasted effort**.
 
 ---
 
