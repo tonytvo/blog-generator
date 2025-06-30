@@ -18028,6 +18028,213 @@ Because Mayfair is small, you’ll often rely on **current listings** rather tha
 
 
 # Bel-Aire
+
+[![Bel-Aire profile](https://tse3.mm.bing.net/th/id/OIP.no28dgU-W9V7_ynLieEHHAHaJl?pid=Api)](https://www.calgary.ca/communities/profiles/bel-aire.html?utm_source=chatgpt.com)
+
+## Bel-Aire (Calgary SW) — detailed investing outline
+
+### 1) Quick snapshot (what this neighbourhood “is”)
+
+* **Ultra-small, ultra-wealthy, ultra-low turnover** pocket beside **Glenmore Reservoir / Elbow River** and **Calgary Country Club**. ([RentFaster.ca][1])
+* **2021 occupied private dwellings:** 145 
+* **Housing tenure:** ~**97% owner**, effectively **no renter households** 
+* **Housing type:** **100% single-detached** (per Census profile) 
+* **Median total household income (2020, before tax):** **$280,000** 
+
+**Investor takeaway:** This is a **wealth-preservation / prestige land** play, not a “rental yield” play.
+
+---
+
+### 2) Nearby amenities & attractions (demand anchors)
+
+Within minutes (by car/bike), Bel-Aire sits beside:
+
+* **Glenmore Reservoir & pathways** (sailing, rowing, running/cycling network)
+* **Elbow River corridor** (recreation + green space)
+* **Calgary Country Club** (major prestige anchor on the north edge) ([RentFaster.ca][1])
+* **CF Chinook Centre** / major retail + services nearby ([RentFaster.ca][1])
+* Fast access to **downtown** via Elbow Dr / Macleod / Glenmore Trail corridors (location advantage for executive renters/owners)
+
+**Investor takeaway:** Amenities are *elite + central*, which supports **land value** and “end-user” willingness to pay.
+
+---
+
+### 3) When houses were commonly built (vintage & redevelopment)
+
+From the City of Calgary 2021 Census profile (occupied dwellings by construction period):
+
+* **1961–1980:** **52%**
+* **1960 or before:** **21%**
+* **1981–1990:** **7%**
+* **2016–2021:** **10%** (indicative of tear-down/new custom builds) 
+
+**Investor takeaway:** Classic pattern: **older stock + premium lots → redevelopment optionality** (custom rebuilds) rather than mass renovations.
+
+---
+
+### 4) Common building types
+
+* **Single-detached houses:** **100%** of occupied private dwellings in the community profile 
+* Expect mix of:
+
+  * older “original” mid-century homes
+  * **high-end infill/custom rebuilds** (seen in recent construction slice)
+
+---
+
+### 5) Zoning & “more units per lot” potential (reality check)
+
+**What matters more than the bylaw here:** *small area, high land values, and frequent restrictive covenants / community character pressure.*
+
+Practical points:
+
+* Historically these lots are commonly **low-density residential districts** (often **R-C1 / similar**) in comparable inner-SW pockets; **confirm on the parcel** using the City land-use map because **one street can differ from the next**. ([https://www.calgary.ca][2])
+* Citywide policies/bylaw changes (secondary suites, potential rezoning initiatives) may expand options in many areas, but **Bel-Aire’s economic reality** is that **highest-and-best use is usually luxury single family**, not max units.
+
+**Does zoning allow more units per lot?**
+
+* *Sometimes “allowed” on paper (e.g., suites / certain discretionary uses),* but **execution risk is high**: approvals, parking, design standards, and neighbourhood scrutiny can be tougher in practice.
+
+**Investor takeaway:** Treat “multi-unit upside” as **uncertain** until you check:
+
+1. exact land-use district on your target lot,
+2. any **caveats/covenants**,
+3. recent **development permits** on that block.
+
+---
+
+### 6) Population & growth
+
+* The City profile links to **Bel-Aire/Mayfair population projection (2014–2042)**, but it’s presented as a **% change chart** rather than easy “N to N” totals. ([https://www.calgary.ca][2])
+* Given the built-out nature, growth is usually **flat to modest**, driven mainly by **household size changes** and **redevelopment** (not new subdivisions).
+
+---
+
+### 7) Income profile (who lives here)
+
+* **Median household income (2020): $280,000** 
+* **Mobility is extremely low** (non-movers dominate), suggesting **sticky ownership** and limited supply. 
+
+**Investor takeaway:** Demand is less rate-sensitive than average Calgary, but supply is **thin** → pricing can be **lumpy** (few comps).
+
+---
+
+### 8) Crime rate (how to think about it)
+
+Bel-Aire generally trades as a **very low-crime** inner-SW pocket; however:
+
+* With a tiny population and few streets, **raw incident counts are small and volatile** (one event can “spike” the rate).
+* Use the **Calgary Police Service crime map** to check last 30/90/365 days around specific addresses.
+
+**Investor takeaway:** Safety is a **supporting advantage**, but don’t overfit “crime rate per 100k” in micro-neighbourhoods.
+
+---
+
+### 9) Rentals supply/demand
+
+Hard constraint from the Census profile:
+
+* **Renter households: 0** (effectively) 
+  And market evidence:
+* RentFaster shows **no active rental listings** in Bel-Aire at the time of search. ([RentFaster.ca][3])
+
+**Investor takeaway:** If you buy to rent, you’re competing in a **tiny luxury-rental niche** (corporate/exec tenants), not a broad renter pool.
+
+---
+
+### 10) Average rents (what you can realistically underwrite)
+
+Because listings are rare, “average rent” is not stable. A reasonable underwriting approach:
+
+* Use **luxury detached comps** from adjacent, more liquid areas (e.g., Elboya/Altadore/Elbow Park/Windsor Park) and adjust for lot/home quality.
+* As a directional data point, one market model estimates **~$8,946/month** average rental estimate (model-based, not guaranteed). ([HonestDoor][4])
+
+**Investor takeaway:** Rents can be high in dollars, but **yields are often still low** because purchase prices are very high.
+
+---
+
+### 11) Average house prices (and liquidity reality)
+
+Because there are so few sales, use multiple lenses:
+
+* **HonestDoor “Average price” model:** ~**$2.91M** (model estimate). ([HonestDoor][4])
+* **REW median list price (small sample of current listings):** **~$4.3M**. ([REW][5])
+* A local “Bel-Aire stats update” source cites **~$1.45M median sold** over the last 12 months (interpret cautiously; tiny sample risk). ([MyCalgary][6])
+
+**Investor takeaway:** Bel-Aire pricing is **not one number**—it’s a handful of custom homes with huge dispersion. Underwrite with **address-level comps**, not neighbourhood averages.
+
+---
+
+### 12) A/B/C/D neighbourhood grade (for investors)
+
+I’ll give **two grades** because Bel-Aire is extreme:
+
+* **Quality / appreciation-defense grade:** **A**
+
+  * elite location, prestige anchors, scarce land, high incomes, low rental saturation. 
+
+* **Cash-flow / scalability grade:** **D**
+
+  * very high entry price, thin rental market, very low listing/sales volume, high capex expectations.
+
+**Overall investor grade:** **B-** (excellent asset quality, but hard to “make numbers work” unless your strategy matches the neighbourhood).
+
+---
+
+### 13) Long-term appreciation vs current returns/cashflow
+
+**Long-term appreciation drivers**
+
+* Scarce inner-city land near premium amenities (reservoir/river/country club). ([RentFaster.ca][1])
+* Redevelopment pathway: older homes → luxury rebuilds (supports land values). 
+
+**Why cashflow usually disappoints**
+
+* Price levels push cap rates down.
+* Tenant pool is narrow (exec/corporate), and vacancy risk is “chunky” if you miss that tenant segment.
+* Property taxes/insurance/maintenance scale with home value.
+
+---
+
+## Strategies that can work in Bel-Aire (and what usually doesn’t)
+
+### Best-fit strategies
+
+1. **“Buy land + optionality” (wealth preservation)**
+
+   * Buy a well-located lot/home, maintain, and hold long-term.
+2. **Tear-down / custom rebuild (developer-lite)**
+
+   * Works if you have: design + permitting tolerance + strong builder relationships + contingency budget.
+3. **High-end executive rental (only if you already have tenant access)**
+
+   * Think: relocation companies, corporate housing networks, medical/executive contracts.
+
+### Usually poor fit
+
+* **BRRRR / value-add for cashflow** (cap rates are too thin)
+* **Aggressive multi-unit densification** (even if bylaw allows, the practical friction + economics often don’t justify it here)
+* **Entry-level rental strategy** (tenant profile mismatch)
+
+---
+
+## Due diligence checklist (Bel-Aire-specific)
+
+* **Parcel land-use district + any overlays** (don’t assume uniform zoning). ([https://www.calgary.ca][2])
+* **Title review:** restrictive covenants, easements, utility ROWs
+* **Renovation vs rebuild math:** realistic capex + timeline + permits
+* **Comparable sales:** expand to adjacent elite pockets if comps are too thin
+* **Tenant plan (if renting):** pre-qualify demand source *before* closing
+* **Insurance + flood/overland considerations** (river adjacency in broader area warrants extra checking)
+
+[1]: https://www.rentfaster.ca/ab/calgary/community/belaire/?utm_source=chatgpt.com "Belaire Community Information - Calgary"
+[2]: https://www.calgary.ca/communities/profiles/bel-aire.html "Bel-Aire profile"
+[3]: https://www.rentfaster.ca/ab/calgary/rentals/belaire/?utm_source=chatgpt.com "Belaire Apartments & Houses for Rent in Calgary, AB"
+[4]: https://www.honestdoor.com/cities/ab/calgary/bel-aire?utm_source=chatgpt.com "Bel Aire, Calgary, AB Real Estate"
+[5]: https://www.rew.ca/properties/areas/bel-aire-calgary-ab/type/house?utm_source=chatgpt.com "Bel-Aire Houses for Sale & MLS® Listings - Calgary"
+[6]: https://mycalgary.com/real-estate/real-estate-activity/bel-aire-real-estate-statistics-update/?utm_source=chatgpt.com "Bel-Aire Real Estate Statistics Update - MyCalgary"
+
+
 # Roxboro
 # Eagle Ridge
 # Queens Park Village
