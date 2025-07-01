@@ -774,6 +774,62 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - **LIST EIGHT GOALS** for your marriage on a goal wheel like the one below. Write one goal in each of eight spaces. Then take one of the remaining spaces and write a goal that you would like to achieve within three to five years.
   - In the remaining space write a goal that you would like to see your fiancé achieve within three to five years. Remember, a goal should be reasonable, realistic, attainable, and have a time limit.
 
+- **fulfilling needs in marriage**
+
+| needs in marriage | what my spouse can do to help fulfill these needs |
+| phsical | ... |
+| emotional | ... |
+| spiritual | ... |
+| social and intelectual | ... |
+
+- what's maslow's levels of needs
+  - https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+
+- Instead of relying on ourselves or our spouses to meet these needs, we find that God has given us promises for providing the stability we are seeking. You may want to start with the following references. To which area of needs do these relate?
+  - 1. Psalm 103:4
+  - 2. Matthew 6:33,34
+  - 3. Romans 5:8; 8:35,39
+  - 4. Ephesians 2:10
+
+- How will the presence of Jesus Christ in your life help you fulfill your needs and those of your spouse? How will His presence help you build your self-worth?
+
+- what's spouse's place?
+ - Property—Wife has almost no rights and privileges compared to those of the husband. Husband is the family provider. Often the wife is viewed as property and an outlet for the husband’s sexual expression.
+  - Complement—Wife’s rights have increased. Marriage is the wife’s central life interest. Husband is chief provider and has more - authority than wife. She is a friend to her husband. He achieves; she supports him.
+  - Junior Partner—Wife’s rights increase because she works outside the home for pay. Her main motive is to improve the family’s - lifestyle. She has more authority (rights) than a stay-at-home wife.
+  - Equal Partner—Wife and husband share equal rights and responsibilities.
+
+- Complete the following sentences and discuss them.
+  - 1. In marriage, I believe a “role” is ...
+  - 2. My main role in marriage will be ...
+  - 3. I formed this belief about my role when ...
+  - 4. My spouse’s role will be ...
+  - 5. In marriage, a wife should ...
+  - 6. In marriage, a husband should ...
+  - 7. I can best help my spouse fulfill his or her role by ...
+
+- What do you believe about roles in marriage? Choose the number that best reflects your position using these guidelines: (1) strongly agree, (2) mildly agree, (3) not sure, (4) mildly disagree, (5) strongly disagree
+  - A. The husband is the head of the home.
+  - B. The wife should not be employed outside the home.
+  - C. The husband should help regularly with the household chores.
+  - D. It is all right for the wife to initiate lovemaking.
+  - E. The husband and wife should plan the budget and manage money matters together.
+  - F. Neither the husband nor the wife should purchase an item costing more than $100 without consulting the other.
+  - G. The husband is the one responsible for disciplining the children.
+  - H. The wife can choose an “outside the home” career if she wants.
+  - I. The wife is responsible for keeping the house neat and clean.
+  - J. Spouses should plan a date night once a month.
+  - K. The wife is just as responsible for the children’s discipline as the husband.
+  - L. It is the husband’s job to do the yard work.
+  - M. The wife should be the one who teaches values to the children.
+  - N. Children should be allowed to help plan family activities.
+  - O. Children develop better in a home with parents who are strict disciplinarians.
+  - P. All income should be pooled together with equal access.
+  - Q. The husband and wife should each have at least one night a week out with friends.
+  - R. The wife should always be the one to cook.
+  - S. The husband’s primary responsibility is to his job; the wife’s primary responsibility is to the home and children.
+
+
 # Quotes
 
 the unexamined life is not worth living - socrates
