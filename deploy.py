@@ -20,6 +20,9 @@ def main():
 
     subprocess.run(["gatsby", "build", "--prefix-paths"])
 
+    execute_command(["git", "pull"],
+                    cwd=args.gh_page_repo)
+
     shutil.copytree(get_gh_pages_artifacts_dir(), args.gh_page_repo, dirs_exist_ok=True)
 
     execute_command(["git", "add", "."],
