@@ -5,6 +5,15 @@ description: "AI Engineering: Building Applications with Foundation Models by Ch
 tags: ["ai", "software", "engineer"]
 ---
 
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
 
 # 📘 **Chapter 1: Introduction to Building AI Applications with Foundation Models**
 
