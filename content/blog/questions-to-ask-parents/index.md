@@ -844,6 +844,44 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - 5. In Proverbs 31 we see that the wife has been given great responsibility and is able to use her gifts. What gifts and abilities does your wife-to-be have that you do not?
   - 6. In Proverbs 31:28,29, the husband praises and expresses appreciation to his wife. How might praise and appreciation affect a spouse?
 
+- What are some creative ways that a husband can be a loving leader-servant?
+
+- Who makes the decisions in the marital relationship? Perhaps the question is not who does or who should, but who is best qualified. Who in the marital relationship exerts the most influence upon the other or carries more weight in deciding?
+
+- On a separate piece of paper, describe the decision-making process you think you will have in your marriage by putting the percentage of influence that you will have and that your spouse will have for various issues. The total for each decision must be 100 percent.
+  - Will each make decisions in the areas where he or she is most gifted? 
+  - Will each person have sufficient opportunity to give what he or she has to offer?
+  -  What are the reasons for allotting the percentages of influence as you did?
+| issues | her vote | his vote |
+| Choice of new car | | |
+| Choice of home | | |
+| Choice of furniture | | |
+| Choice of your own wardrobe | | |
+| Choice of vacation spots | | |
+| Choice of decor for the home | | |
+| Choice of mutual friends | | |
+| Choice of entertainment | | |
+| Choice of church | | |
+| Choice of child-rearing practices | | |
+| Choice of TV shows | | |
+| Choice of home menu | | |
+| Choice of number of children | | |
+| Choice of where we live | | |
+| Choice of husband's vocation | | |
+| Choice of wife vocation | | |
+| Choice of determining for what and how the money is spent | | |
+
+- Write your answers to the following questions and then discuss how well you have considered the decision-making process.
+  - 1. Who made most of the decisions in your family? How would your fiancé answer this question?
+  - 2. Have you established guidelines to distinguish between major and minor decisions? If so, what are they?
+  - 3. What procedure will you follow when there is an impasse and a decision must be made?
+  - 4. How will you decide upon responsibilities for household chores?
+  - 5. In what areas of family life will you make decisions without consulting your spouse? Who decided this policy? How did you arrive at this decision?
+  - 6. Will you make the decisions that you want to make or the ones that your spouse does not want to make?
+  - 7. Will you have any “veto power” over your spouse’s decisions? If so, what is the basis for it? How did you arrive at this decision?
+
+
+
 # Quotes
 
 the unexamined life is not worth living - socrates
