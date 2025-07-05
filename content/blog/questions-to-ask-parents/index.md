@@ -880,6 +880,97 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - 6. Will you make the decisions that you want to make or the ones that your spouse does not want to make?
   - 7. Will you have any “veto power” over your spouse’s decisions? If so, what is the basis for it? How did you arrive at this decision?
 
+- Answer these questions and then compare your responses with those of your fiancé.
+  - 1. I’m afraid to make decisions when ...
+  - 2. I’m afraid to have my fiancé make decisions when ...
+  - 3. I’d like to make decisions when ...
+  - 4. I’d like my fiancé to make decisions when ...
+  - 5. I want to make decisions in the area of ...
+  - 6. I want my fiancé to make decisions in the area of ...
+
+- How will the presence of Jesus Christ in your life help you in the process of decision making and discovering your gifts in marriage?
+
+- How would you define communication? What do you think the word means? Write your definition and then share your answer with your fiancé.
+  - Communication is the process of sharing yourself, both verbally and nonverbally, in such a way that the other person can both accept and understand what you are sharing.
+
+- What do we mean by listening? When we are truly listening to another person, we are not thinking about what we are going to say when he or she stops talking. We are not busy formulating our response. We are concentrating on what is being said. Listening is also complete acceptance without judgment of what is said or how it is said. Often we fail to hear the message because we don’t like the message or the tone of voice. We react and miss the meaning of what was being shared.
+
+- what are the main components of communication?
+  - The three components of communication must be complementary. One researcher has suggested the following breakdown of the importance of the three components.22 The percentages indicate how much of the message is sent through each one.
+    - Content / 7%
+    - Tone / 38%
+    - Nonverbal / 55%
+
+- How will you communicate in the following situations?
+  - 1. It’s Saturday. Your spouse asks you to shop for something, but you really don’t want to go. You say:
+  - 2. You are trying to watch your favorite TV program but your spouse is continually interrupting and asking you questions. The program is at the crucial part, and you don’t want to miss it. You say:
+  - 3. You are describing to your spouse the most exciting event of the day. Right in the middle of it, your spouse yawns and says, “I think I’ll go get a cup of coffee.” You say:
+  - 4. Your spouse serves you breakfast. You notice that the bacon is overcooked, which you don’t like. The toast is served lightly toasted with fresh butter, which is exactly what you like. You say:
+  - 5. After dinner your spouse asks you if you would do the dishes tonight since he or she is so tired. You, too, are tired and were looking forward to relaxing. Usually you both do them together. You say:
+  - 6. You have just had an argument with one of the children and you realize that you are wrong. It is not easy to apologize to family members because they usually rub it in. You say:
+
+- What does the Word of God say about communication? Look up the passages listed and write the key thought for each one. You will notice that the verses are listed in groupings as there is a central theme in each group. See if you can discover the central thought for each group and write it as a summary.
+  - 1. Proverbs 11:9, Proverbs 12:18, Proverbs 15:4, Proverbs 18:8, Proverbs 18:21, Proverbs 25:11, Proverbs 26:22, James 3:8-10, 1 Peter 3:10, Summary
+  - 2. Proverbs 4:20-23, Proverbs 6:12,14,18, Proverbs 15:28, Proverbs 16:2, Proverbs 16:23, Summary
+  - 3. Proverbs 15:31, Proverbs 18:13, Proverbs 18:15, Proverbs 19:20, Proverbs 21:28, James 1:19, Summary
+  - 4. Proverbs 12:18, Proverbs 14:29, Proverbs 15:28, Proverbs 16:32, Proverbs 21:23, Proverbs 26:4, Proverbs 29:20, Summary
+  - 5. Proverbs 15:23, Proverbs 25:11, Summary
+  - 6. Proverbs 10:19, Proverbs 11:12,13, Proverbs 13:3, Proverbs 17:27,28, Proverbs 18:2, Proverbs 20:19, Proverbs 21:23, Summary
+  - 7. Proverbs 17:9, Proverbs 21:9, Summary
+  - 8. Proverbs 15:1, Proverbs 15:4, Proverbs 16:1, Proverbs 25:15, Summary
+  - 9. Proverbs 12:16, Proverbs 19:11, Summary
+  - 10. Proverbs 12:17,22, Proverbs 16:13, Proverbs 19:5, Proverbs 26:18,19, Proverbs 26:22, Proverbs 28:23, Proverbs 29:5, Ephesians 4:15,25, Colossians 3:9, Summary
+
+- what are 5 levels of communications?
+  - Level Five: Cliché Conversation. This type of talk is very safe. We use phrases such as “How are you?” “How’s the dog?” “Where have you been?” “I like your dress.” In this type of conversation there is no personal sharing. Each person remains safely behind his defenses.
+  - Level Four: Reporting the Facts About Others. In this kind of conversation we are content to tell others what someone else has said, but we offer no personal information on these facts. We report the facts like the six o’clock news. We share gossip and little narrations, but we do not commit ourselves as to how we feel about them.
+  - Level Three: Ideas and Judgments. Real communication begins to unfold here. The person is willing to step out of his solitary confinement and risk telling some of his ideas and decisions. He is still cautious. If he senses that what he is saying is not being accepted, he will retreat.
+  - Level Two: Feelings or Emotions. At this level the person shares how he feels about facts, ideas, and judgments. His feelings underneath these areas are revealed. For a person to really share himself with another individual he must move to the level of sharing his feelings.
+  - Level One: Complete Emotional and Personal Communication. All deep relationships must be based on absolute openness and honesty. This may be difficult to achieve because it involves risk—the risk of being rejected. But it is vital if relationships are to grow. There will be times when this type of communication is not as complete as it could be.
+
+- What are some of the reasons why a person might respond only at level five or level four?
+
+- When do you feel most like responding at levels two and one?
+
+- At what level do you usually respond?
+
+- At what level does your fiancé usually respond?
+
+- On which level do you usually share with God?
+
+- Describe a time when you really felt that you communicated with God.
+
+- Of course no one is completely cognitive or completely emotional. Where are you and where is your fiancé? On a diagram like the one below (emotional and cognitive on opposite ends) indicate (1) where you think you are, (2) where you think your fiancé is, and (3) where you think your fiancé would place you.
+
+- List some of the issues you and your fiancé disagree on that do not need to be completely resolved.
+
+- What does “completely resolved” mean to you?
+
+- Make a list of some issues on which you disagree that do need solutions—those on which more time needs to be spent exploring alternatives.
+
+- Select one of the issues on which more time needs to be spent. Write an explanation of the situation as you see it.
+
+- Some people have learned to use behavioral, nonviolent weapons in dealing with conflict. What are some unfair weapons?
+
+- What effect does anger have upon resolving a conflict? What effect does anger have upon a marriage?
+
+- What do the following verses have to say about the right way to handle anger?
+  - 1. Psalm 37:1-11
+  - 2. Proverbs 14:29
+  - 3. Proverbs 15:1
+  - 4. Proverbs 15:28
+  - 5. Proverbs 16:32
+  - 6. Proverbs 19:11
+  - 7. Proverbs 25:28
+  - 8. Proverbs 29:11
+  - 9. Matthew 5:43,44
+  - 10. Romans 8:28,29
+  - 11. Romans 12:19,21
+  - 12. Galatians 5:16-23
+  - 13. Ephesians 4:26
+  - 14. Ephesians 4:29
+  - 15. Ephesians 4:32
+
 
 
 # Quotes
