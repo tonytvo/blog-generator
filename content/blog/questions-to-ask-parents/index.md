@@ -971,7 +971,81 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - 14. Ephesians 4:29
   - 15. Ephesians 4:32
 
+- What Causes Conflicts?
+  - See James 4:1-3
 
+- Describe a recent or current conflict between you and your fiancé.
+
+- What do you believe caused the conflict? What was the outcome? What did it accomplish?
+
+- How did you create or contribute to the conflict?
+
+- Imagine that you are seeing the conflict from the other person’s perspective. How would your fiancé describe the conflict?
+
+- If you could go through the same conflict again, how would you handle it?
+
+- What choices do we have in dealing with conflicts? 
+  - James Fairfield has suggested five styles of dealing with conflict
+  - The first is to withdraw. If you have a tendency to view conflict as a hopeless inevitability that you can do little to control, you may not even try. You may withdraw physically by leaving the scene or you may leave psychologically.
+  - If you feel that you must always look after your own interests or your self-concept is threatened in a conflict, you may choose to win. No matter what the cost, you must win. Domination is usually reflected in this style; personal relationships take second place.
+  - “Giving in to get along” is another style. You may not like it, but rather than risk a confrontation you choose to yield.
+  - “Give a little to get a little” is called compromise. You may find that it is important to let up on some of your demands or ideas in order to help the other person give a little. You don’t want to win all the time nor do you want the other person to win all the time.
+  - A person may choose to resolve conflicts. In this style of dealing with conflicts, a situation, attitude, or behavior is changed by open and direct communication.
+
+- Select your usual style of dealing with conflicts.
+
+- Select your fiancé’s usual style.
+
+- Describe a situation in which you withdrew from a conflict.
+
+- Describe a situation in which you won a conflict.
+
+- Describe a situation in which you yielded in a conflict.
+
+- Describe a situation in which you compromised in a conflict.
+
+- Describe a situation in which you resolved a conflict.
+
+- Describe how each solution affected the feelings of others toward you.
+  - Withdrew
+  - Won
+  - Yielded
+  - Compromised
+  - Resolved
+
+- How did you feel about yourself in each situation?
+  - Withdrew
+  - Won
+  - Yielded
+  - Compromised
+  - Resolved
+
+- Did the result eventually bring about a more peaceful atmosphere in each case?
+
+- What style did Jesus use? What styles of handling conflict do we find in the Scriptures? Take a few minutes and read the following accounts of conflict. Try to determine the methods used at that time. Write down the various styles you observe.
+  - 1. Genesis 4
+  - 2. 1 Samuel 20:30-34
+  - 3. Matthew 15:10-20
+  - 4. Mark 11:11-19
+  - 5. Luke 23:18-49
+  - 6. John 8:1-11
+  - 7. John 11:11-19
+
+- How then can we resolve conflicts? Consider trying and applying these principles:
+  - 1. Instead of demanding that you be heard, listen carefully to the other person (see Proverbs 18:13 and James 1:19). Any changes that one person wants to see in another must be heard and understood.
+  - 2. Select an appropriate time. “A man has joy in making an apt answer, and a word spoken at the right moment, how good it is” (Proverbs 15:23 AMP).
+  - 3. Define the problem. How do you define the problem and how does the other person define it?
+  - 4. Define the areas of agreement and disagreement.
+  - 5. Here comes the difficult part. A few conflicts may be just one-sided, but most involve contributions from both sides. Identify your contribution to the problem. When you accept some responsibility for a problem, the other sees a willingness to cooperate and will probably be much more open to the discussion.
+  - 6. The next step is to state positively what behaviors on your part would probably help, and to be willing to ask for the other person’s opinion. As they share with you, be open to their feelings, observations, and suggestions. Watch out for defensiveness.
+
+- Read the following passages in The Living Bible. What do these verses say?
+  - 1. Proverbs 13:18
+  - 2. Proverbs 23:12
+  - 3. Proverbs 25:12
+  - 4. Proverbs 28:13
+
+- How will the presence of Jesus Christ in your life help you deal with conflict?
 
 # Quotes
 
