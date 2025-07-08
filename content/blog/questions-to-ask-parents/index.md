@@ -852,6 +852,7 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - Will each make decisions in the areas where he or she is most gifted? 
   - Will each person have sufficient opportunity to give what he or she has to offer?
   -  What are the reasons for allotting the percentages of influence as you did?
+
 | issues | her vote | his vote |
 | Choice of new car | | |
 | Choice of home | | |
@@ -1188,6 +1189,210 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - 19. And do not quit your budget at the first bump. Budgets seldom click the first time around. Hang on, start revising, try fresh ideas. Do not toss in the towel. If at first you don’t succeed, you know what to do!
 
 - How will the presence of Jesus Christ in your life help you with the financial aspects of your life together?”
+
+- **Why do we want economic security in the first place?**
+
+- **What do we believe money is *for* — safety, freedom, status, generosity?**
+
+- **If money were solved tomorrow, what would we actually do differently?**
+
+- **Do we agree on what a “good life” looks like?**
+
+- **Are we chasing goals we chose — or goals we inherited socially?**
+
+- **If our lifestyle never improved beyond today, would we still feel fulfilled together?**
+
+- **What are we optimizing for: income, time, peace, or prestige?**
+
+- **Are we building a life — or just postponing one?**
+
+- **Do my actions consistently reflect my stated values?**
+
+- **Where is the gap between what I say matters and what I actually do?**
+
+- **Would my spouse describe me as predictable and reliable under stress?**
+
+- **Do I default to courage — or avoidance — in hard conversations?**
+
+- **Do I take responsibility for my reactions, or blame circumstances?**
+
+- **When I’m wrong, do I defend myself or correct myself?**
+
+- **Am I becoming more disciplined with time, money, and emotions — or less?**
+
+- **If my children copied my habits exactly, would I be proud?**
+
+- **Is my character strengthening as my power increases — or eroding?**
+
+- **Do we actually know our household burn rate?**
+
+- **Have we added a margin for uncertainty — or are we living at the edge?**
+
+- **Could we survive a job loss without panic?**
+
+- **Does money feel like a shared problem — or a personal burden?**
+
+- **Are we honest about spending, debt, and financial fears?**
+
+- **Are there financial secrets between us?**
+
+- **Would bad financial news bring us closer — or create conflict?**
+
+- **Are surprises around money frequent in our relationship?**
+
+- **Do we talk about money proactively or only during crises?**
+
+- **Are we aligned on saving vs. spending — or tolerating tension?**
+
+- **Do we see money as a tool or as a scoreboard?**
+
+- **As one of us becomes more successful, does the relationship feel safer or more fragile?**
+
+- **Do we openly discuss power dynamics as income or status changes?**
+
+- **Do I still listen as carefully as I did before success?**
+
+- **Have I become harder to question?**
+
+- **Does my spouse feel like a partner — or a dependent?**
+
+- **Who checks my blind spots as my authority grows?**
+
+- **Do I seek counsel — or assume I know better now?**
+
+- **Have wins made me humbler or more arrogant?**
+
+- **Do I confuse competence with infallibility?**
+
+- **Where does my attention actually go each day?**
+
+- **Does my spouse get my best energy — or leftovers?**
+
+- **Am I present when I’m physically present?**
+
+- **Do I treat time with my family as optional or sacred?**
+
+- **Am I trading long-term intimacy for short-term productivity?**
+
+- **If time is finite, what am I overspending it on?**
+
+- **Would my spouse say I’m available when it matters?**
+
+- **Am I hiding behind busyness to avoid emotional labor?**
+
+- **What habits define me right now?**
+
+- **Which habits are strengthening the marriage — which are weakening it?**
+
+- **Am I designing my days — or reacting to them?**
+
+- **Do my habits reduce friction at home or increase it?**
+
+- **What identity is emerging from my daily behavior?**
+
+- **Is that identity compatible with long-term partnership?**
+
+- **Are we growing together — or just aging together?**
+
+- **If nothing changed, where would this relationship be in 10 years?**
+
+- **How do I behave when I’m angry?**
+
+- **Do I use anger as information — or as a weapon?**
+
+- **Do I ruminate on conflicts or resolve them?**
+
+- **Can I let go of being right to preserve peace?**
+
+- **Do I see my spouse as an enemy during conflict?**
+
+- **Can I separate intent from impact?**
+
+- **Do I calm myself — or expect my spouse to regulate me?**
+
+- **Am I capable of forgiveness without keeping score?**
+
+- **Does my career choice add stability or volatility to our family?**
+
+- **Who absorbs the downside risk of my ambition?**
+
+- **Would I make the same career choices if I were single?**
+
+- **Is my spouse subsidizing my uncertainty emotionally or financially?**
+
+- **Does my job align with our family phase?**
+
+- **Are we explicit about the trade-offs my career requires?**
+
+- **Would we still choose this path knowing the true cost?**
+
+- **Who am I comparing us to?**
+
+- **Is that comparison fair or distorted?**
+
+- **Am I chasing someone else’s version of success?**
+
+- **Do we feel “behind” — and by whose standard?**
+
+- **Are we letting social narratives dictate our pace?**
+
+- **Does comparison breed gratitude or resentment in us?**
+
+- **Who can tell me I’m wrong — and I’ll listen?**
+
+- **Do we have a “kitchen cabinet” outside the marriage?**
+
+- **Are we isolated or embedded in a healthy community?**
+
+- **Do we ask for help early — or wait until damage is done?**
+
+- **Are we surrounded by people who strengthen our values?**
+
+- **Do we intentionally choose who influences us?**
+
+- **Do I know when to persist — and when to quit?**
+
+- **Am I staying out of pride or because the data supports it?**
+
+- **Would I advise my spouse to stay in my situation?**
+
+- **Do we have pre-agreed exit criteria for major decisions?**
+
+- **Can I change my mind without feeling like a failure?**
+
+- **Am I flexible — or rigidly attached to past choices?**
+
+- **Who will I be in 10, 20, 30 years?**
+
+- **Will my future self thank me for today’s choices?**
+
+- **Are we preserving optionality or closing doors?**
+
+- **If health declined, would our systems hold?**
+
+- **If death arrived early, would we have lived well together?**
+
+- **Are we postponing joy unnecessarily?**
+
+- **What would “enough” actually look like?**
+
+- **Do I treat the marriage as my most important investment?**
+
+- **Am I compounding trust — or drawing it down?**
+
+- **Do I protect the relationship as carefully as I protect income?**
+
+- **Is my spouse safer because of me?**
+
+- **Do they feel chosen — consistently?**
+
+- **Would I marry me again?**
+
+- **Are we building wealth to buy time together — or losing time building wealth?**
+
+- **If nothing external changed, would love still be enough?**
+
+- **If this relationship were a business, would I invest more — or quietly exit?**
 
 
 # Quotes
