@@ -167,41 +167,41 @@ the past two weeks. Then, for traits seven and eight, give examples of each type
 
 - What does the Word of God say about love?
   - Look up the following passages of Scripture to discover love from God’s perspective. We suggest using a modern translation. What is the central thought or example in each passage?
-    1. Proverbs 17:17
-    2. Matthew 6:24
-    3. Matthew 22:37-39
-    4. Luke 6:27-35
-    5. Luke 10:25-37
-    6. John 3:16
-    7. John 13:34
-    8. Romans 13:8-10
-    9. Romans 14:15
-    10. 1 Corinthians 8:1
-    11. Galatians 2:20
-    12. Galatians 5:13
-    13. Galatians 6:2
-    14. Ephesians 4:2
-    15. Ephesians 5:2
-    16. Ephesians 5:25
-    17. Titus 2:3-5
-    18. 1 Peter 4:8
-    19. 1 John 3:16-18
+    - Proverbs 17:17
+    - Matthew 6:24
+    - Matthew 22:37-39
+    - Luke 6:27-35
+    - Luke 10:25-37
+    - John 3:16
+    - John 13:34
+    - Romans 13:8-10
+    - Romans 14:15
+    - 1 Corinthians 8:1
+    - Galatians 2:20
+    - Galatians 5:13
+    - Galatians 6:2
+    - Ephesians 4:2
+    - Ephesians 5:2
+    - Ephesians 5:25
+    - Titus 2:3-5
+    - 1 Peter 4:8
+    - 1 John 3:16-18
 
 - First Corinthians 13:4-7 gives the Bible’s definition of love. These verses indicate that love consists of many elements. As you consider them below, give three creative examples of how each could be applied in your marriage. Be specific.
-  1. Suffers long—endures offenses, is not hasty, waits for the Lord to right all wrongs.
-  2. Is kind—not inconsiderate, seeks to help, is constructive, blesses when cursed, helps when hurt, demonstrates tenderness.
-  3. Is not envious, but content—is not jealous of another person’s success or competition.
-  4. Is not arrogant, but humble—not haughty, but lowly and gracious.
-  5. Is not boastful, but reserved—does not show off, try to impress, want to be the center of attraction.
-  6. Is not rude, but courteous.
-  7. Is not selfish, but self-forgetful.
-  8. Is not irritable, but good-tempered.
-  9. Is not vindictive or wrathful, but generous.
-  10. Does not delight in bringing another person’s sins to light, but rejoices when another person obeys the truth.
-  11. Is not rebellious, but brave; is circumspect when it comes to another person’s wrongdoing.
-  12. Is not suspicious, but trustful—not cynical, makes every allowance, looks for an explanation that will show the best in others.
-  13. Is not despondent, but hopeful—does not give up because it has been deceived or denied.
-  14. Is not conquerable, but invincible—can outlast problems.
+  - Suffers long—endures offenses, is not hasty, waits for the Lord to right all wrongs.
+  - Is kind—not inconsiderate, seeks to help, is constructive, blesses when cursed, helps when hurt, demonstrates tenderness.
+  - Is not envious, but content—is not jealous of another person’s success or competition.
+  - Is not arrogant, but humble—not haughty, but lowly and gracious.
+  - Is not boastful, but reserved—does not show off, try to impress, want to be the center of attraction.
+  - Is not rude, but courteous.
+  - Is not selfish, but self-forgetful.
+  - Is not irritable, but good-tempered.
+  - Is not vindictive or wrathful, but generous.
+  - Does not delight in bringing another person’s sins to light, but rejoices when another person obeys the truth.
+  - Is not rebellious, but brave; is circumspect when it comes to another person’s wrongdoing.
+  - Is not suspicious, but trustful—not cynical, makes every allowance, looks for an explanation that will show the best in others.
+  - Is not despondent, but hopeful—does not give up because it has been deceived or denied.
+  - Is not conquerable, but invincible—can outlast problems.
 
 - **A Love Problem?**
 
@@ -211,19 +211,15 @@ Sandy is frustrated over the whole matter. She says she loves her husband and ch
 
 Neither wants a divorce. “How can I regain that loving feeling for my wife?” he asks. “Was it something I did to destroy his love for me?” she asks.
 
-1. What are the causes of the problem?
+  - What are the causes of the problem?
+    - Sandy
+    - Ken
 
-Sandy
+  - What should they do to resolve the problem?
+    - Sandy
+    - Ken
 
-Ken
-
-2. What should they do to resolve the problem?
-
-Sandy
-
-Ken
-
-3. What suggestions does Revelation 2:1-5 give on how to fall in love again?
+  - What suggestions does Revelation 2:1-5 give on how to fall in love again?
 
 - **Your Marriage Needs Three Types of Love — Eros, Philia, Agape**
 
@@ -251,38 +247,38 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - It has been suggested that most couples go through these three stages (enchantment, disenchantment, maturity). What about you? Perhaps in your own relationship you have experienced some of the disenchantment stage already. Do you want to go through the full extent of the disenchantment stage as you see it expressed here? If not, then take some time to write out what you can do as an individual and what you can do as a couple to keep from going through all of the experiences of this stage. When you have finished writing, share your responses together.
 
 - Complete the following statements and then share your responses with your fiancé.
-  1. This is what you need to know about my family life as I was growing up in order to understand me:
-  2. If I could have changed one thing about my family life as I was growing up, it would have been ...
-  3. Because I want or don’t want this to occur in my own marriage and family life, I will ...
-  4. My parents have influenced my attitudes toward marriage by ...
-  5. Something from my parents’ relationship that I would like to have in mine is ...
-  6. Something from my parents’ relationship that I prefer not having in mine is ...
+  - This is what you need to know about my family life as I was growing up in order to understand me:
+  - If I could have changed one thing about my family life as I was growing up, it would have been ...
+  - Because I want or don’t want this to occur in my own marriage and family life, I will ...
+  - My parents have influenced my attitudes toward marriage by ...
+  - Something from my parents’ relationship that I would like to have in mine is ...
+  - Something from my parents’ relationship that I prefer not having in mine is ...
 
 - Talk with your fiancé and list, on a separate piece of paper, ten similarities and ten differences between their home and family life and yours. Discuss these together. How will any of these affect your own marriage?
 
 - Changes in marriage will happen. How will you adjust to them? Do you realize that even positive changes can disrupt a marriage relationship?
 
 - Write how you would react to the following circumstances that could cause changes in your marriage.
-  - 1. a miscarriage
-  - 2. death of a child
-  - 3. major financial difficulty
-  - 4. being fired from a job
-  - 5. spouse wants to quit work and go back to school
-  - 6. major illness
-  - 7. a major lawsuit with potentially great financial loss and severe emotional stress
-  - 8. moving to an apartment instead of the home you were in for five years
-  - 9. living in the country instead of the city (or vice versa)
-  - 10. spouse is quitting job to start own business
-  - 11. husband and wife want to go to work and take the three children to daycare
-  - 12. child does not turn out the way you wanted
-  - 13. three more children than you planned on having
-  - 14. discovering that you cannot have children
-  - 15. a friend makes a pass at you or your spouse
-  - 16. in-laws turn hostile toward you
-  - 17. spouse has to work nights instead of days
-  - 18. car is stolen while on vacation
-  - 19. you are attracted to another person
-  - 20. spouse is no longer interested in spiritual things
+  - a miscarriage
+  - death of a child
+  - major financial difficulty
+  - being fired from a job
+  - spouse wants to quit work and go back to school
+  - major illness
+  - a major lawsuit with potentially great financial loss and severe emotional stress
+  - moving to an apartment instead of the home you were in for five years
+  - living in the country instead of the city (or vice versa)
+  - spouse is quitting job to start own business
+  - husband and wife want to go to work and take the three children to daycare
+  - child does not turn out the way you wanted
+  - three more children than you planned on having
+  - discovering that you cannot have children
+  - a friend makes a pass at you or your spouse
+  - in-laws turn hostile toward you
+  - spouse has to work nights instead of days
+  - car is stolen while on vacation
+  - you are attracted to another person
+  - spouse is no longer interested in spiritual things
 
 - Read the following three passages of Scripture and write how you think these passages would help you accept and adjust to disappointments and changes.
 
@@ -295,14 +291,14 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - How will the presence of Jesus Christ in your life help you to fulfill your expectations of marriage and accept the ones that are not fulfilled?
 
 - What goals do you have for your marriage? What do you want your marriage to become? What do you want it to reflect? What do you want from your marriage? Now follow these directions concerning your goals.
-  - 1. Place an asterisk (*) by six of the ten goals that you feel are the most important. Then rank them in order of importance.
-  - 2. Place a 0 by any two of the ten goals that you would be willing to forego if absolutely necessary.
-  - 3. Place a $ by the ones that cost money.
-  - 4. Place a P by the ones you learned from your parents.
-  - 5. Place an F by the ones you think your fiancé also wrote down.
-  - 6. Explain in one sentence why your marriage goals are important to the health of your marriage.
-  - 7. Now share and discuss your goals with your fiancé.
-  - 8. Select two of your marriage goals and develop a plan to reach them. Also establish when you will come back to this exercise after you are married and redo it. It is important to periodically evaluate and determine goals because goals do change. Some may be - short-range (to be achieved within three to six months) and some may be long-range (five to ten years).
+  - Place an asterisk (*) by six of the ten goals that you feel are the most important. Then rank them in order of importance.
+  - Place a 0 by any two of the ten goals that you would be willing to forego if absolutely necessary.
+  - Place a $ by the ones that cost money.
+  - Place a P by the ones you learned from your parents.
+  - Place an F by the ones you think your fiancé also wrote down.
+  - Explain in one sentence why your marriage goals are important to the health of your marriage.
+  - Now share and discuss your goals with your fiancé.
+  - Select two of your marriage goals and develop a plan to reach them. Also establish when you will come back to this exercise after you are married and redo it. It is important to periodically evaluate and determine goals because goals do change. Some may be - short-range (to be achieved within three to six months) and some may be long-range (five to ten years).
   - 9. How will the presence of Jesus Christ in your life assist you in setting and achieving your goals?
 
 - **LIST EIGHT GOALS** for your marriage on a goal wheel like the one below. Write one goal in each of eight spaces. Then take one of the remaining spaces and write a goal that you would like to achieve within three to five years.
@@ -311,6 +307,7 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - **fulfilling needs in marriage**
 
 | needs in marriage | what my spouse can do to help fulfill these needs |
+| ----------- | ----------- |
 | phsical | ... |
 | emotional | ... |
 | spiritual | ... |
