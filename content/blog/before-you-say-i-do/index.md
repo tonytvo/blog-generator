@@ -15,20 +15,15 @@ tags: ["family", "emotion"]
 
 - Read the following quotations. After you have read each of them indicate which portions you agree with and which portions you disagree with?
 
->“Marriage resembles a pair of shears, so joined that they cannot be separated; often moving in opposite directions, yet always punishing anyone who comes between them. Is marriage a private action of two persons in love, or a public act of two pledging a contract? Neither, it is something other. Very much other! Basically, the Christian view of marriage is not that it is primarily or essentially a binding legal
-and social contract. The Christian understands marriage as a covenant made under God and in the presence of fellow members of the Christian family. Such a pledge endures, not because of the force of law or the fear of its actions, but because an unconditional covenant has been made. A covenant more solemn, more binding, more permanent than any legal contract.”2
+>“Marriage resembles a pair of shears, so joined that they cannot be separated; often moving in opposite directions, yet always punishing anyone who comes between them. Is marriage a private action of two persons in love, or a public act of two pledging a contract? Neither, it is something other. Very much other! Basically, the Christian view of marriage is not that it is primarily or essentially a binding legal and social contract. The Christian understands marriage as a covenant made under God and in the presence of fellow members of the Christian family. Such a pledge endures, not because of the force of law or the fear of its actions, but because an unconditional covenant has been made. A covenant more solemn, more binding, more permanent than any legal contract.”2
 >
->“A system by means of which persons who are sinful and contentious are so caught up by a dream and a purpose bigger than themselves
->that they work through the years, in spite of repeated disappointment, to make the dream come true.”   
+>“A system by means of which persons who are sinful and contentious are so caught up by a dream and a purpose bigger than themselves that they work through the years, in spite of repeated disappointment, to make the dream come true.”   
 >
->“Marriage is a relationship between man and woman intended by God to be a monogamous relationship, intended to be a permanent bond
-in which many needs are satisfied—the need to love and be loved, the need for deep friendship, for sharing, for companionship, for sexual satisfaction, for children, the need to escape loneliness. Marriage ought to be a bond of love, reflecting the love Christ has for His people, a bond of sacrificial love where husband and wife have become one, one flesh, a unity."
+>“Marriage is a relationship between man and woman intended by God to be a monogamous relationship, intended to be a permanent bond in which many needs are satisfied—the need to love and be loved, the need for deep friendship, for sharing, for companionship, for sexual satisfaction, for children, the need to escape loneliness. Marriage ought to be a bond of love, reflecting the love Christ has for His people, a bond of sacrificial love where husband and wife have become one, one flesh, a unity."
 
 - Who originated the marriage institution? (Genesis 2:18-25)
 
-- What are the purposes of marriage, and why
-was it originated? (See Genesis 1:28; 2:18;
-Ephesians 5:22-32.)
+- What are the purposes of marriage, and why was it originated? (See Genesis 1:28; 2:18; Ephesians 5:22-32.)
 (1)
 (2)
 (3)
@@ -40,20 +35,12 @@ Ephesians 5:22-32.)
 
 - What do the words “shall cleave” or “will be united” mean?
 - What do the words “be one flesh” mean to you?
+
 - List six ways that you can promote and maintain the oneness characteristic in your upcoming marriage.
-(1)
-(2)
-(3)
-(4)
-(5)
-(6)
 
 - List three of the most important Scripture verses upon which you would like to base your marriage relationship. (Please use passages other than Ephesians 5:21-33; 1 Corinthians 13; and 1 Peter 3:1-7, as most couples automatically look to these. They are important, but think through other important passages that will assist you in establishing the type of marriage you are seeking.)
-(1)
-(2)
-(3)
 
-Here is another definition of marriage that you may want to consider. 
+- Here is another definition of marriage that you may want to consider. 
 
 >“The marriage relationship is a school, a learning and growing environment in which (if everything is as it should be) both partners can grow and develop. The relationship grows along with them. If you can see marriage as an opportunity for growth, you can be >satisfied and can satisfy your spouse.”
 >
@@ -66,18 +53,9 @@ Here is another definition of marriage that you may want to consider.
 >You may be thinking that when you marry there will be two individuals involved in that marriage. That is true, but there is a third party who can give an even greater meaning to your individual and married life—that person is Jesus Christ. In what way will the presence of Jesus Christ in your life make a difference in your marriage?
 
 - Read Matthew 7:24-27. This passage is talking about building your house upon a firm foundation. List what you believe are ten firm foundations which will go into making a solid marriage relationship.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
 
 - What will you receive out of marriage that you wouldn’t receive by remaining single?
+
 - On a separate piece of paper, list the reasons why you are marrying your fiancé. After you have done that, list the reasons why you think your fiancé is marrying you. Then share the results.
 
 - Now compare your reasons for marriage with the following list, which has been compiled by several specialists in marriage and family life education. These are unhealthy reasons for marriage. If you find that any of these appear either on your list or in your mind, you should spend time discussing them with your fiancé and your marriage advisor.
@@ -99,14 +77,6 @@ Here is another definition of marriage that you may want to consider.
   - Because you are convinced that it is God’s will for you to marry this person.
 
 - Evaluate your “marriageability” by examining the personality traits of yourself and your fiancé. List eight character or personality traits that you feel would help a marriage.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
 
 - Turn in your Bible to Galatians 5:22,23 and read over the fruit of the Spirit. Would these traits, manifested in a person, increase the potential of success in marriage?
   - If so, indicate which of these you manifest and which of them you are still having difficulty displaying.
@@ -125,24 +95,6 @@ Here is another definition of marriage that you may want to consider.
 
 - The natural inclination is to look at this list and say, “Oh yes, that’s us. We are like that and have these characteristics.” If you feel these traits are present in your relationship, give a specific example of how each of the first six traits was manifested in
 the past two weeks. Then, for traits seven and eight, give examples of each type of similarity.
-1.
-2.
-3.
-4.
-5.
-6.
-7. 
-  - (1)
-  - (2)
-  - (3)
-  - (4)
-  - (5)
-8. 
-  - (1)
-  - (2)
-  - (3)
-  - (4)
-  - (5)
 
 - The instruction on right living in Ephesians 4:2 can be applied to the marriage relationship. “Living as becomes you—with complete lowliness of mind (humility) and meekness (unselfishness, gentleness, mildness), with patience, bearing with one another and making allowances because you love one another”
   - Look at the last part of the verse: “making allowances because you love one another.” List six specific examples of how this portion can be applied in your future marriage relationship. Try to think of these in relation to your differentness.
@@ -215,41 +167,41 @@ the past two weeks. Then, for traits seven and eight, give examples of each type
 
 - What does the Word of God say about love?
   - Look up the following passages of Scripture to discover love from God’s perspective. We suggest using a modern translation. What is the central thought or example in each passage?
-    - 1. Proverbs 17:17
-    - 2. Matthew 6:24
-    - 3. Matthew 22:37-39
-    - 4. Luke 6:27-35
-    - 5. Luke 10:25-37
-    - 6. John 3:16
-    - 7. John 13:34
-    - 8. Romans 13:8-10
-    - 9. Romans 14:15
-    - 10. 1 Corinthians 8:1
-    - 11. Galatians 2:20
-    - 12. Galatians 5:13
-    - 13. Galatians 6:2
-    - 14. Ephesians 4:2
-    - 15. Ephesians 5:2
-    - 16. Ephesians 5:25
-    - 17. Titus 2:3-5
-    - 18. 1 Peter 4:8
-    - 19. 1 John 3:16-18
+    1. Proverbs 17:17
+    2. Matthew 6:24
+    3. Matthew 22:37-39
+    4. Luke 6:27-35
+    5. Luke 10:25-37
+    6. John 3:16
+    7. John 13:34
+    8. Romans 13:8-10
+    9. Romans 14:15
+    10. 1 Corinthians 8:1
+    11. Galatians 2:20
+    12. Galatians 5:13
+    13. Galatians 6:2
+    14. Ephesians 4:2
+    15. Ephesians 5:2
+    16. Ephesians 5:25
+    17. Titus 2:3-5
+    18. 1 Peter 4:8
+    19. 1 John 3:16-18
 
 - First Corinthians 13:4-7 gives the Bible’s definition of love. These verses indicate that love consists of many elements. As you consider them below, give three creative examples of how each could be applied in your marriage. Be specific.
-  - 1. Suffers long—endures offenses, is not hasty, waits for the Lord to right all wrongs.
-  - 2. Is kind—not inconsiderate, seeks to help, is constructive, blesses when cursed, helps when hurt, demonstrates tenderness.
-  - 3. Is not envious, but content—is not jealous of another person’s success or competition.
-  - 4. Is not arrogant, but humble—not haughty, but lowly and gracious.
-  - 5. Is not boastful, but reserved—does not show off, try to impress, want to be the center of attraction.
-  - 6. Is not rude, but courteous.
-  - 7. Is not selfish, but self-forgetful.
-  - 8. Is not irritable, but good-tempered.
-  - 9. Is not vindictive or wrathful, but generous.
-  - 10. Does not delight in bringing another person’s sins to light, but rejoices when another person obeys the truth.
-  - 11. Is not rebellious, but brave; is circumspect when it comes to another person’s wrongdoing.
-  - 12. Is not suspicious, but trustful—not cynical, makes every allowance, looks for an explanation that will show the best in others.
-  - 13. Is not despondent, but hopeful—does not give up because it has been deceived or denied.
-  - 14. Is not conquerable, but invincible—can outlast problems.
+  1. Suffers long—endures offenses, is not hasty, waits for the Lord to right all wrongs.
+  2. Is kind—not inconsiderate, seeks to help, is constructive, blesses when cursed, helps when hurt, demonstrates tenderness.
+  3. Is not envious, but content—is not jealous of another person’s success or competition.
+  4. Is not arrogant, but humble—not haughty, but lowly and gracious.
+  5. Is not boastful, but reserved—does not show off, try to impress, want to be the center of attraction.
+  6. Is not rude, but courteous.
+  7. Is not selfish, but self-forgetful.
+  8. Is not irritable, but good-tempered.
+  9. Is not vindictive or wrathful, but generous.
+  10. Does not delight in bringing another person’s sins to light, but rejoices when another person obeys the truth.
+  11. Is not rebellious, but brave; is circumspect when it comes to another person’s wrongdoing.
+  12. Is not suspicious, but trustful—not cynical, makes every allowance, looks for an explanation that will show the best in others.
+  13. Is not despondent, but hopeful—does not give up because it has been deceived or denied.
+  14. Is not conquerable, but invincible—can outlast problems.
 
 - **A Love Problem?**
 
