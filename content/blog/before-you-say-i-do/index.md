@@ -307,20 +307,20 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - **fulfilling needs in marriage**
 
 | needs in marriage | what my spouse can do to help fulfill these needs |
-| ----------- | ----------- |
-| phsical | ... |
+| :-----------: | :-----------: |
+| physical | ... |
 | emotional | ... |
 | spiritual | ... |
-| social and intelectual | ... |
+| social and intellectual | ... |
 
 - what's maslow's levels of needs
   - https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 
 - Instead of relying on ourselves or our spouses to meet these needs, we find that God has given us promises for providing the stability we are seeking. You may want to start with the following references. To which area of needs do these relate?
-  - 1. Psalm 103:4
-  - 2. Matthew 6:33,34
-  - 3. Romans 5:8; 8:35,39
-  - 4. Ephesians 2:10
+  - Psalm 103:4
+  - Matthew 6:33,34
+  - Romans 5:8; 8:35,39
+  - Ephesians 2:10
 
 - How will the presence of Jesus Christ in your life help you fulfill your needs and those of your spouse? How will His presence help you build your self-worth?
 
