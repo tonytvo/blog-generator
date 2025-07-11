@@ -331,13 +331,13 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - Equal Partner—Wife and husband share equal rights and responsibilities.
 
 - Complete the following sentences and discuss them.
-  - 1. In marriage, I believe a “role” is ...
-  - 2. My main role in marriage will be ...
-  - 3. I formed this belief about my role when ...
-  - 4. My spouse’s role will be ...
-  - 5. In marriage, a wife should ...
-  - 6. In marriage, a husband should ...
-  - 7. I can best help my spouse fulfill his or her role by ...
+  - In marriage, I believe a “role” is ...
+  - My main role in marriage will be ...
+  - I formed this belief about my role when ...
+  - My spouse’s role will be ...
+  - In marriage, a wife should ...
+  - In marriage, a husband should ...
+  - I can best help my spouse fulfill his or her role by ...
 
 - What do you believe about roles in marriage? Choose the number that best reflects your position using these guidelines: (1) strongly agree, (2) mildly agree, (3) not sure, (4) mildly disagree, (5) strongly disagree
   - A. The husband is the head of the home.
@@ -361,19 +361,19 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
   - S. The husband’s primary responsibility is to his job; the wife’s primary responsibility is to the home and children.
 
 - What does the Word of God say concerning the role of the wife and the role of the husband? Read Ephesians 5:21-33.
-  - 1. What one word summarizes a wife’s responsibility to her husband? Compare 1 Peter 3:1.
-  - 2. What do the words “as to the Lord” (verse 22 TLB) suggest about the wife’s role?
-  - 3. Are there any limits placed upon the wife’s submission by Colossians 3:18 and Acts 5:29?
-  - 4. According to verse 33, what should the wife’s attitude be toward her husband and what does this mean in everyday life?
-  - 5. What does the word submission mean to you?
+  - What one word summarizes a wife’s responsibility to her husband? Compare 1 Peter 3:1.
+  - What do the words “as to the Lord” (verse 22 TLB) suggest about the wife’s role?
+  - Are there any limits placed upon the wife’s submission by Colossians 3:18 and Acts 5:29?
+  - According to verse 33, what should the wife’s attitude be toward her husband and what does this mean in everyday life?
+  - What does the word submission mean to you?
 
 - What is the husband’s role? Is submission part of his role and function? What does Ephesians 5:21 say?
-  - 1. Study Ephesians 5:22-33. What two words in this section summarize the husband’s responsibility? Compare verse 23 with verse 25. See Philippians 2:4.
-  - 2. What example should the husband exhibit as he leads in the marriage relationship? Compare Ephesians 5:23 with 1:22. In light of this, for whose benefit should the headship of the husband be exercised?
-  - 3. For whose benefit is the headship of Christ exercised? Compare Ephesians 1:22 and 5:25-27. In light of this, for whose benefit should the headship of the husband be exercised?
-  - 4. What are the ways in which Christ loved the church? Relate each of these to the way a husband should love his wife.
-  - 5. In Proverbs 31 we see that the wife has been given great responsibility and is able to use her gifts. What gifts and abilities does your wife-to-be have that you do not?
-  - 6. In Proverbs 31:28,29, the husband praises and expresses appreciation to his wife. How might praise and appreciation affect a spouse?
+  - Study Ephesians 5:22-33. What two words in this section summarize the husband’s responsibility? Compare verse 23 with verse 25. See Philippians 2:4.
+  - What example should the husband exhibit as he leads in the marriage relationship? Compare Ephesians 5:23 with 1:22. In light of this, for whose benefit should the headship of the husband be exercised?
+  - For whose benefit is the headship of Christ exercised? Compare Ephesians 1:22 and 5:25-27. In light of this, for whose benefit should the headship of the husband be exercised?
+  - What are the ways in which Christ loved the church? Relate each of these to the way a husband should love his wife.
+  - In Proverbs 31 we see that the wife has been given great responsibility and is able to use her gifts. What gifts and abilities does your wife-to-be have that you do not?
+  - In Proverbs 31:28,29, the husband praises and expresses appreciation to his wife. How might praise and appreciation affect a spouse?
 
 - What are some creative ways that a husband can be a loving leader-servant?
 
@@ -382,9 +382,10 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - On a separate piece of paper, describe the decision-making process you think you will have in your marriage by putting the percentage of influence that you will have and that your spouse will have for various issues. The total for each decision must be 100 percent.
   - Will each make decisions in the areas where he or she is most gifted? 
   - Will each person have sufficient opportunity to give what he or she has to offer?
-  -  What are the reasons for allotting the percentages of influence as you did?
+  - What are the reasons for allotting the percentages of influence as you did?
 
-| issues | her vote | his vote |
+| issues | her vote (%) | his vote (%) |
+| ----------- | ----------- | ----------- |
 | Choice of new car | | |
 | Choice of home | | |
 | Choice of furniture | | |
