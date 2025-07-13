@@ -405,21 +405,21 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 | Choice of determining for what and how the money is spent | | |
 
 - Write your answers to the following questions and then discuss how well you have considered the decision-making process.
-  - 1. Who made most of the decisions in your family? How would your fiancé answer this question?
-  - 2. Have you established guidelines to distinguish between major and minor decisions? If so, what are they?
-  - 3. What procedure will you follow when there is an impasse and a decision must be made?
-  - 4. How will you decide upon responsibilities for household chores?
-  - 5. In what areas of family life will you make decisions without consulting your spouse? Who decided this policy? How did you arrive at this decision?
-  - 6. Will you make the decisions that you want to make or the ones that your spouse does not want to make?
-  - 7. Will you have any “veto power” over your spouse’s decisions? If so, what is the basis for it? How did you arrive at this decision?
+  - Who made most of the decisions in your family? How would your fiancé answer this question?
+  - Have you established guidelines to distinguish between major and minor decisions? If so, what are they?
+  - What procedure will you follow when there is an impasse and a decision must be made?
+  - How will you decide upon responsibilities for household chores?
+  - In what areas of family life will you make decisions without consulting your spouse? Who decided this policy? How did you arrive at this decision?
+  - Will you make the decisions that you want to make or the ones that your spouse does not want to make?
+  - Will you have any “veto power” over your spouse’s decisions? If so, what is the basis for it? How did you arrive at this decision?
 
 - Answer these questions and then compare your responses with those of your fiancé.
-  - 1. I’m afraid to make decisions when ...
-  - 2. I’m afraid to have my fiancé make decisions when ...
-  - 3. I’d like to make decisions when ...
-  - 4. I’d like my fiancé to make decisions when ...
-  - 5. I want to make decisions in the area of ...
-  - 6. I want my fiancé to make decisions in the area of ...
+  - I’m afraid to make decisions when ...
+  - I’m afraid to have my fiancé make decisions when ...
+  - I’d like to make decisions when ...
+  - I’d like my fiancé to make decisions when ...
+  - I want to make decisions in the area of ...
+  - I want my fiancé to make decisions in the area of ...
 
 - How will the presence of Jesus Christ in your life help you in the process of decision making and discovering your gifts in marriage?
 
@@ -435,24 +435,24 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
     - Nonverbal / 55%
 
 - How will you communicate in the following situations?
-  - 1. It’s Saturday. Your spouse asks you to shop for something, but you really don’t want to go. You say:
-  - 2. You are trying to watch your favorite TV program but your spouse is continually interrupting and asking you questions. The program is at the crucial part, and you don’t want to miss it. You say:
-  - 3. You are describing to your spouse the most exciting event of the day. Right in the middle of it, your spouse yawns and says, “I think I’ll go get a cup of coffee.” You say:
-  - 4. Your spouse serves you breakfast. You notice that the bacon is overcooked, which you don’t like. The toast is served lightly toasted with fresh butter, which is exactly what you like. You say:
-  - 5. After dinner your spouse asks you if you would do the dishes tonight since he or she is so tired. You, too, are tired and were looking forward to relaxing. Usually you both do them together. You say:
-  - 6. You have just had an argument with one of the children and you realize that you are wrong. It is not easy to apologize to family members because they usually rub it in. You say:
+  - It’s Saturday. Your spouse asks you to shop for something, but you really don’t want to go. You say:
+  - You are trying to watch your favorite TV program but your spouse is continually interrupting and asking you questions. The program is at the crucial part, and you don’t want to miss it. You say:
+  - You are describing to your spouse the most exciting event of the day. Right in the middle of it, your spouse yawns and says, “I think I’ll go get a cup of coffee.” You say:
+  - Your spouse serves you breakfast. You notice that the bacon is overcooked, which you don’t like. The toast is served lightly toasted with fresh butter, which is exactly what you like. You say:
+  - After dinner your spouse asks you if you would do the dishes tonight since he or she is so tired. You, too, are tired and were looking forward to relaxing. Usually you both do them together. You say:
+  - You have just had an argument with one of the children and you realize that you are wrong. It is not easy to apologize to family members because they usually rub it in. You say:
 
 - What does the Word of God say about communication? Look up the passages listed and write the key thought for each one. You will notice that the verses are listed in groupings as there is a central theme in each group. See if you can discover the central thought for each group and write it as a summary.
-  - 1. Proverbs 11:9, Proverbs 12:18, Proverbs 15:4, Proverbs 18:8, Proverbs 18:21, Proverbs 25:11, Proverbs 26:22, James 3:8-10, 1 Peter 3:10, Summary
-  - 2. Proverbs 4:20-23, Proverbs 6:12,14,18, Proverbs 15:28, Proverbs 16:2, Proverbs 16:23, Summary
-  - 3. Proverbs 15:31, Proverbs 18:13, Proverbs 18:15, Proverbs 19:20, Proverbs 21:28, James 1:19, Summary
-  - 4. Proverbs 12:18, Proverbs 14:29, Proverbs 15:28, Proverbs 16:32, Proverbs 21:23, Proverbs 26:4, Proverbs 29:20, Summary
-  - 5. Proverbs 15:23, Proverbs 25:11, Summary
-  - 6. Proverbs 10:19, Proverbs 11:12,13, Proverbs 13:3, Proverbs 17:27,28, Proverbs 18:2, Proverbs 20:19, Proverbs 21:23, Summary
-  - 7. Proverbs 17:9, Proverbs 21:9, Summary
-  - 8. Proverbs 15:1, Proverbs 15:4, Proverbs 16:1, Proverbs 25:15, Summary
-  - 9. Proverbs 12:16, Proverbs 19:11, Summary
-  - 10. Proverbs 12:17,22, Proverbs 16:13, Proverbs 19:5, Proverbs 26:18,19, Proverbs 26:22, Proverbs 28:23, Proverbs 29:5, Ephesians 4:15,25, Colossians 3:9, Summary
+  - Proverbs 11:9, Proverbs 12:18, Proverbs 15:4, Proverbs 18:8, Proverbs 18:21, Proverbs 25:11, Proverbs 26:22, James 3:8-10, 1 Peter 3:10, Summary
+  - Proverbs 4:20-23, Proverbs 6:12,14,18, Proverbs 15:28, Proverbs 16:2, Proverbs 16:23, Summary
+  - Proverbs 15:31, Proverbs 18:13, Proverbs 18:15, Proverbs 19:20, Proverbs 21:28, James 1:19, Summary
+  - Proverbs 12:18, Proverbs 14:29, Proverbs 15:28, Proverbs 16:32, Proverbs 21:23, Proverbs 26:4, Proverbs 29:20, Summary
+  - Proverbs 15:23, Proverbs 25:11, Summary
+  - Proverbs 10:19, Proverbs 11:12,13, Proverbs 13:3, Proverbs 17:27,28, Proverbs 18:2, Proverbs 20:19, Proverbs 21:23, Summary
+  - Proverbs 17:9, Proverbs 21:9, Summary
+  - Proverbs 15:1, Proverbs 15:4, Proverbs 16:1, Proverbs 25:15, Summary
+  - Proverbs 12:16, Proverbs 19:11, Summary
+  - Proverbs 12:17,22, Proverbs 16:13, Proverbs 19:5, Proverbs 26:18,19, Proverbs 26:22, Proverbs 28:23, Proverbs 29:5, Ephesians 4:15,25, Colossians 3:9, Summary
 
 - what are 5 levels of communications?
   - Level Five: Cliché Conversation. This type of talk is very safe. We use phrases such as “How are you?” “How’s the dog?” “Where have you been?” “I like your dress.” In this type of conversation there is no personal sharing. Each person remains safely behind his defenses.
@@ -488,21 +488,21 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - What effect does anger have upon resolving a conflict? What effect does anger have upon a marriage?
 
 - What do the following verses have to say about the right way to handle anger?
-  - 1. Psalm 37:1-11
-  - 2. Proverbs 14:29
-  - 3. Proverbs 15:1
-  - 4. Proverbs 15:28
-  - 5. Proverbs 16:32
-  - 6. Proverbs 19:11
-  - 7. Proverbs 25:28
-  - 8. Proverbs 29:11
-  - 9. Matthew 5:43,44
-  - 10. Romans 8:28,29
-  - 11. Romans 12:19,21
-  - 12. Galatians 5:16-23
-  - 13. Ephesians 4:26
-  - 14. Ephesians 4:29
-  - 15. Ephesians 4:32
+  - Psalm 37:1-11
+  - Proverbs 14:29
+  - Proverbs 15:1
+  - Proverbs 15:28
+  - Proverbs 16:32
+  - Proverbs 19:11
+  - Proverbs 25:28
+  - Proverbs 29:11
+  - Matthew 5:43,44
+  - Romans 8:28,29
+  - Romans 12:19,21
+  - Galatians 5:16-23
+  - Ephesians 4:26
+  - Ephesians 4:29
+  - Ephesians 4:32
 
 - What Causes Conflicts?
   - See James 4:1-3
@@ -556,73 +556,73 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - Did the result eventually bring about a more peaceful atmosphere in each case?
 
 - What style did Jesus use? What styles of handling conflict do we find in the Scriptures? Take a few minutes and read the following accounts of conflict. Try to determine the methods used at that time. Write down the various styles you observe.
-  - 1. Genesis 4
-  - 2. 1 Samuel 20:30-34
-  - 3. Matthew 15:10-20
-  - 4. Mark 11:11-19
-  - 5. Luke 23:18-49
-  - 6. John 8:1-11
-  - 7. John 11:11-19
+  - Genesis 4
+  - 1 Samuel 20:30-34
+  - Matthew 15:10-20
+  - Mark 11:11-19
+  - Luke 23:18-49
+  - John 8:1-11
+  - John 11:11-19
 
 - How then can we resolve conflicts? Consider trying and applying these principles:
-  - 1. Instead of demanding that you be heard, listen carefully to the other person (see Proverbs 18:13 and James 1:19). Any changes that one person wants to see in another must be heard and understood.
-  - 2. Select an appropriate time. “A man has joy in making an apt answer, and a word spoken at the right moment, how good it is” (Proverbs 15:23 AMP).
-  - 3. Define the problem. How do you define the problem and how does the other person define it?
-  - 4. Define the areas of agreement and disagreement.
-  - 5. Here comes the difficult part. A few conflicts may be just one-sided, but most involve contributions from both sides. Identify your contribution to the problem. When you accept some responsibility for a problem, the other sees a willingness to cooperate and will probably be much more open to the discussion.
-  - 6. The next step is to state positively what behaviors on your part would probably help, and to be willing to ask for the other person’s opinion. As they share with you, be open to their feelings, observations, and suggestions. Watch out for defensiveness.
+  - Instead of demanding that you be heard, listen carefully to the other person (see Proverbs 18:13 and James 1:19). Any changes that one person wants to see in another must be heard and understood.
+  - Select an appropriate time. “A man has joy in making an apt answer, and a word spoken at the right moment, how good it is” (Proverbs 15:23 AMP).
+  - Define the problem. How do you define the problem and how does the other person define it?
+  - Define the areas of agreement and disagreement.
+  - Here comes the difficult part. A few conflicts may be just one-sided, but most involve contributions from both sides. Identify your contribution to the problem. When you accept some responsibility for a problem, the other sees a willingness to cooperate and will probably be much more open to the discussion.
+  - The next step is to state positively what behaviors on your part would probably help, and to be willing to ask for the other person’s opinion. As they share with you, be open to their feelings, observations, and suggestions. Watch out for defensiveness.
 
 - Read the following passages in The Living Bible. What do these verses say?
-  - 1. Proverbs 13:18
-  - 2. Proverbs 23:12
-  - 3. Proverbs 25:12
-  - 4. Proverbs 28:13
+  - Proverbs 13:18
+  - Proverbs 23:12
+  - Proverbs 25:12
+  - Proverbs 28:13
 
 - How will the presence of Jesus Christ in your life help you deal with conflict?
 
 - How much would women have to pay for these?
-  - 1. A woman’s business suit
-  - 2. A hair appointment
-  - 3. A week’s groceries for two people
-  - 4. Two tickets to a football game or the symphony
-  - 5. One month’s costs of physical fitness (health club, clothes, etc.)
-  - 6. A pair of living room curtains
-  - 7. A complete car tune-up
-  - 8. Makeup supplies
-  - 9. A woman’s raincoat
-  - 10. A pair of nylons
-  - 11. A pair of kid’s Levi’s
-  - 12. A set of eight water glasses
-  - 13. A woman’s purse
-  - 14. Vertical blinds for a sliding glass door
-  - 15. New snow skis
-  - 16. A tall living-room lamp
-  - 17. A good frying pan
-  - 18. A new laptop
-  - 19. Bathroom scales
-  - 20. An affordable mid-size car
+  - A woman’s business suit
+  - A hair appointment
+  - A week’s groceries for two people
+  - Two tickets to a football game or the symphony
+  - One month’s costs of physical fitness (health club, clothes, etc.)
+  - A pair of living room curtains
+  - A complete car tune-up
+  - Makeup supplies
+  - A woman’s raincoat
+  - A pair of nylons
+  - A pair of kid’s Levi’s
+  - A set of eight water glasses
+  - A woman’s purse
+  - Vertical blinds for a sliding glass door
+  - New snow skis
+  - A tall living-room lamp
+  - A good frying pan
+  - A new laptop
+  - Bathroom scales
+  - An affordable mid-size car
 
 - How much would men have to pay for these?
-  - 1. A man’s business suit
-  - 2. A hair appointment
-  - 3. A week’s groceries for two people
-  - 4. Two tickets to a football game or the symphony
-  - 5. One month’s cost of physical fitness (health club, clothes, etc.)
-  - 6. New seat covers for a car
-  - 7. A complete car tune-up
-  - 8. Shaving supplies
-  - 9. A man’s raincoat
-  - 10. A pair of men’s dress socks
-  - 11. A pair of kid’s Levi’s
-  - 12. A set of eight water glasses
-  - 13. A man’s wallet
-  - 14. Vertical blinds for a sliding glass door
-  - 15. A graphite fishing rod
-  - 16. A six-foot aluminum stepladder
-  - 17. A good frying pan
-  - 18. A new laptop
-  - 19. Bathroom scales
-  - 20. An affordable mid-size car
+  - A man’s business suit
+  - A hair appointment
+  - A week’s groceries for two people
+  - Two tickets to a football game or the symphony
+  - One month’s cost of physical fitness (health club, clothes, etc.)
+  - New seat covers for a car
+  - A complete car tune-up
+  - Shaving supplies
+  - A man’s raincoat
+  - A pair of men’s dress socks
+  - A pair of kid’s Levi’s
+  - A set of eight water glasses
+  - A man’s wallet
+  - Vertical blinds for a sliding glass door
+  - A graphite fishing rod
+  - A six-foot aluminum stepladder
+  - A good frying pan
+  - A new laptop
+  - Bathroom scales
+  - An affordable mid-size car
 
 - Shopping Quiz (N = No; OC = Occasionally; O = Often; VO = Very Often)
   - Shopping is my most frequent form of entertainment. I feel anxious when I’m not shopping.
