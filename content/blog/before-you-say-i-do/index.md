@@ -661,64 +661,64 @@ Agape is self-giving love, gift love, the love that goes on loving even when the
 - How will these patterns affect your marital relationship?
 
 - Study the following passages to discover how to acquire, how to regard, and how to spend money. Indicate the principles that you derive from each passage.
-  - 1. Deuteronomy 8:17,18
-  - 2. 1 Chronicles 29:11,12
-  - 3. Proverbs 11:24,25
-  - 4. Proverbs 11:28
-  - 5. Proverbs 12:10
-  - 6. Proverbs 13:11; 14:23
-  - 7. Proverbs 13:18,22
-  - 8. Proverbs 15:6
-  - 9. Proverbs 15:16,17,22
-  - 10. Proverbs 15:27
-  - 11. Proverbs 16:8
-  - 12. Proverbs 16:16
-  - 13. Proverbs 20:4,14,18
-  - 14. Proverbs 21:5,6
-  - 15. Proverbs 21:20,25,26
-  - 16. Proverbs 22:1,4,7
-  - 17. Proverbs 23:1-5
-  - 18. Proverbs 24:30-34
-  - 19. Proverbs 27:23,24
-  - 20. Proverbs 28:6,22
-  - 21. Proverbs 30:24,25
-  - 22. Ecclesiastes 5:10
-  - 23. Ecclesiastes 5:19
-  - 24. Matthew 6:19,20
-  - 25. Matthew 17:24-27
-  - 26. Luke 6:27-38
-  - 27. Luke 12:13-21
-  - 28. Romans 13:6-8
-  - 29. Ephesians 4:28
-  - 30. Philippians 4:11-19
-  - 31. Thessalonians 3:7-12
-  - 32. Timothy 6:6-10
-  - 33. Timothy 6:17-19
-  - 34. Hebrews 13:5
+  - Deuteronomy 8:17,18
+  - 1 Chronicles 29:11,12
+  - Proverbs 11:24,25
+  - Proverbs 11:28
+  - Proverbs 12:10
+  - Proverbs 13:11; 14:23
+  - Proverbs 13:18,22
+  - Proverbs 15:6
+  - Proverbs 15:16,17,22
+  - Proverbs 15:27
+  - Proverbs 16:8
+  - Proverbs 16:16
+  - Proverbs 20:4,14,18
+  - Proverbs 21:5,6
+  - Proverbs 21:20,25,26
+  - Proverbs 22:1,4,7
+  - Proverbs 23:1-5
+  - Proverbs 24:30-34
+  - Proverbs 27:23,24
+  - Proverbs 28:6,22
+  - Proverbs 30:24,25
+  - Ecclesiastes 5:10
+  - Ecclesiastes 5:19
+  - Matthew 6:19,20
+  - Matthew 17:24-27
+  - Luke 6:27-38
+  - Luke 12:13-21
+  - Romans 13:6-8
+  - Ephesians 4:28
+  - Philippians 4:11-19
+  - Thessalonians 3:7-12
+  - Timothy 6:6-10
+  - Timothy 6:17-19
+  - Hebrews 13:5
 
 - what's your and your spouse net worth?
   - [assets, liabilities](https://www.ramseysolutions.com/retirement/net-worth-calculator)
 
 - what's do and don't for budgetting
-  - 1. Plan your budget together. Set a specific time together to review your fiancé’s financials and your own. Discuss and create a general budget. Seek agreement and cooperation. Make decisions together. Figures and plans should be known by both of you.
-  - 2. Define your general financial goals. Launch your budget with a clear idea of why you’re setting a budget.
-  - 3. Don’t finalize a budget before you both know how much you now spend for what. Devote several weeks to keeping detailed expense records for use in working on a budget. If you do not know where your money is going, you cannot sensibly decide where it should go. Set a date for your next budget meeting.
-  - 4. Do not think up countless budget headings. Use common sense in approaching and clarifying and classifying according to your spending habits.
-  - 5. Divvy up your dollars according to your united needs and wants. Do not allocate according to the way other people spend. Use averages, online guides, and outside resources as rough starting points only. Now list your specific needs and wants individually and as a couple.
-  - 6. Think first. When allocating, trimming, or adjusting budget amounts, do not jump to conclusions. Do not let wishful thinking take the place of sober appraisal. Does an expense item look too high? Find out whether it really is high, or why it is high, before cutting it. If you are looking for a place to economize so you can spend more on something else, do not cut arbitrarily. Before you do whittle down an item, spell out precisely what specific items of past expenditures are to be reduced or eliminated.
-  - 7. Take all credit cards—except one for emergencies—out of your wallet. Cancel multiple Visas and MasterCards. Don’t let them become a way of financing your daily living.
-  - 8. Don’t carry your checkbook or debit card around. Write one allowance check every week per person…for lunches, newspapers and magazines, groceries, dry cleaning, and laundering. Cash the checks—and don’t spend more than that for those expenses during the week. Become your own banker, and learn how to say no.
-  - 9. Plan for the big expenses. You can expect several big, nonrecurring expenses during the year—taxes, insurance, vacation bills, etc. Forecast those expenses and put aside an amount each month to meet them when they come due. If not planned for, a few of these expenses will throw your budget into chaos, from which it may never recover.
-  - 10. Know who is in charge of what. Each person should know just what his or her responsibilities are.
-  - 11. Experiment. For two months, each of you write down every penny you spend. When you buy a candy bar from the vending machine at work, write it down. When you write your mortgage check, note it in the book. At the end of each of the two months, review your expenses and label them “O” for optional and “E” for essential. The challenge is to eliminate the optional expenses that give you the least value for your money.
-  - 12. Except for the above experiment, do not keep track of every penny. Each person should be allowed to spend an allowance as he or she chooses without having to make an entry in the budget. Do not insist that everyone keep itemized lists of all expenses. Do not demand detailed accounts and summaries.
-  - 13. Do not intermingle funds. Keep separate accounts for monthly spending and savings. Have a clear-cut system for divvying up the paychecks. A checking account is a good system. You deposit a sum of money each payday to cover expenses, keeping a record of how much is earmarked for what. This way you will not be spending more than you have allotted for any one budget item.
-  - 14. Do not cheat your budget. For example, if your budget shows you cannot afford a new ski outfit this month, do not go out and charge it. A debt like this should always be taken into account for next month’s planning. Otherwise, you will find that a substantial amount of your funds has already been spent because of interest.
-  - 15. Use automatic deduction. No matter how strapped for cash you feel you are, authorize automatic deductions from your salary for 401(k) savings and retirement programs.
-  - 16. Don’t carry around too much cash—you will tend to spend it. Go to ATMs only as planned, not to pocket an extra $100. If you face an emergency, fine. But don’t run to the machine or use smart technology just to buy an unbudgeted item on sale.
-  - 17. Avoid shopping retail. There’s no reason to pay an outrageous markup on retail items when outlet shops and online sources offer tremendous discounts.
-  - 18. When the budget starts to rub tight, let it out here, tuck it in there, to give a better fit. Do not keep it ironclad and inflexible. A grim, unbending budget will soon make everybody sullen, if not outright mutinous. A good rule of evaluation is to look at your budget every January and every July to make certain that it is realistic and working for your benefit.
-  - 19. And do not quit your budget at the first bump. Budgets seldom click the first time around. Hang on, start revising, try fresh ideas. Do not toss in the towel. If at first you don’t succeed, you know what to do!
+  - Plan your budget together. Set a specific time together to review your fiancé’s financials and your own. Discuss and create a general budget. Seek agreement and cooperation. Make decisions together. Figures and plans should be known by both of you.
+  - Define your general financial goals. Launch your budget with a clear idea of why you’re setting a budget.
+  - Don’t finalize a budget before you both know how much you now spend for what. Devote several weeks to keeping detailed expense records for use in working on a budget. If you do not know where your money is going, you cannot sensibly decide where it should go. Set a date for your next budget meeting.
+  - Do not think up countless budget headings. Use common sense in approaching and clarifying and classifying according to your spending habits.
+  - Divvy up your dollars according to your united needs and wants. Do not allocate according to the way other people spend. Use averages, online guides, and outside resources as rough starting points only. Now list your specific needs and wants individually and as a couple.
+  - Think first. When allocating, trimming, or adjusting budget amounts, do not jump to conclusions. Do not let wishful thinking take the place of sober appraisal. Does an expense item look too high? Find out whether it really is high, or why it is high, before cutting it. If you are looking for a place to economize so you can spend more on something else, do not cut arbitrarily. Before you do whittle down an item, spell out precisely what specific items of past expenditures are to be reduced or eliminated.
+  - Take all credit cards—except one for emergencies—out of your wallet. Cancel multiple Visas and MasterCards. Don’t let them become a way of financing your daily living.
+  - Don’t carry your checkbook or debit card around. Write one allowance check every week per person…for lunches, newspapers and magazines, groceries, dry cleaning, and laundering. Cash the checks—and don’t spend more than that for those expenses during the week. Become your own banker, and learn how to say no.
+  - Plan for the big expenses. You can expect several big, nonrecurring expenses during the year—taxes, insurance, vacation bills, etc. Forecast those expenses and put aside an amount each month to meet them when they come due. If not planned for, a few of these expenses will throw your budget into chaos, from which it may never recover.
+  - Know who is in charge of what. Each person should know just what his or her responsibilities are.
+  - Experiment. For two months, each of you write down every penny you spend. When you buy a candy bar from the vending machine at work, write it down. When you write your mortgage check, note it in the book. At the end of each of the two months, review your expenses and label them “O” for optional and “E” for essential. The challenge is to eliminate the optional expenses that give you the least value for your money.
+  - Except for the above experiment, do not keep track of every penny. Each person should be allowed to spend an allowance as he or she chooses without having to make an entry in the budget. Do not insist that everyone keep itemized lists of all expenses. Do not demand detailed accounts and summaries.
+  - Do not intermingle funds. Keep separate accounts for monthly spending and savings. Have a clear-cut system for divvying up the paychecks. A checking account is a good system. You deposit a sum of money each payday to cover expenses, keeping a record of how much is earmarked for what. This way you will not be spending more than you have allotted for any one budget item.
+  - Do not cheat your budget. For example, if your budget shows you cannot afford a new ski outfit this month, do not go out and charge it. A debt like this should always be taken into account for next month’s planning. Otherwise, you will find that a substantial amount of your funds has already been spent because of interest.
+  - Use automatic deduction. No matter how strapped for cash you feel you are, authorize automatic deductions from your salary for 401(k) savings and retirement programs.
+  - Don’t carry around too much cash—you will tend to spend it. Go to ATMs only as planned, not to pocket an extra $100. If you face an emergency, fine. But don’t run to the machine or use smart technology just to buy an unbudgeted item on sale.
+  - Avoid shopping retail. There’s no reason to pay an outrageous markup on retail items when outlet shops and online sources offer tremendous discounts.
+  - When the budget starts to rub tight, let it out here, tuck it in there, to give a better fit. Do not keep it ironclad and inflexible. A grim, unbending budget will soon make everybody sullen, if not outright mutinous. A good rule of evaluation is to look at your budget every January and every July to make certain that it is realistic and working for your benefit.
+  - And do not quit your budget at the first bump. Budgets seldom click the first time around. Hang on, start revising, try fresh ideas. Do not toss in the towel. If at first you don’t succeed, you know what to do!
 
 - How will the presence of Jesus Christ in your life help you with the financial aspects of your life together?”
 
