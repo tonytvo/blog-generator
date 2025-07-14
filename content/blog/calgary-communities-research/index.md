@@ -18236,6 +18236,242 @@ I’ll give **two grades** because Bel-Aire is extreme:
 
 
 # Roxboro
+
+[![Home - John's Historical Narrative](https://tse1.mm.bing.net/th/id/OIP.Fi8NTFBIgHgEVHJQxUyehgHaHa?pid=Api)](https://calgarywalkingtour.com/?utm_source=chatgpt.com)
+
+## 1) Quick positioning: what Roxboro “is” as an investment neighborhood
+
+* **Ultra-small, inner-city, river-adjacent, luxury** pocket beside Mission/Cliff Bungalow/Erlton, with **scarce land** and a **heritage/estate-home** feel.
+* **Very high-income + almost entirely owner-occupied**: 165 private households and **0 renter households (0%)** in the 2021 Census profile. 
+
+---
+
+## 2) Nearby amenities & attractions (walkability is the moat)
+
+**Immediate / very close**
+
+* **Elbow River pathways** (walking, cycling, river green space) and quick access to river parks.
+* **Mission commercial strip (4 St SW)**: restaurants, cafés, groceries, services (this is usually the “daily life” node for Roxboro residents).
+* **Stampede Park / Victoria Park area** (events-driven demand, but also traffic/noise considerations).
+
+**Short drive / bike / transit**
+
+* **Downtown & Beltline**: fast commute and strong “close-to-core” desirability.
+* **Repsol Sport Centre / Lindsay Park area** (major recreation anchor).
+
+*(Roxboro’s value proposition is largely “quiet + river + steps from Mission + minutes to downtown.”)*
+
+---
+
+## 3) When were houses commonly built?
+
+From the City’s community profile (occupied private dwellings by period of construction):
+
+* **1960 or before: 64%**
+* 1961–1980: 6%
+* 2001–2010: 9%
+* 2016–2021: 9% 
+
+**Interpretation for investing**
+
+* Expect a lot of **older, character/estate homes** + a smaller set of newer custom builds.
+* **Renovation CAPEX** can be meaningful (envelopes, plumbing, electrical, drainage, heritage considerations).
+
+---
+
+## 4) Common building type
+
+* **Single-detached houses dominate (97%)**; essentially no rowhomes, duplex apartments, or mid-rise in the community census breakdown. 
+
+**What that means**
+
+* Roxboro is **not** a “missing middle density” market today in practice.
+* Any multi-unit play is typically **redevelopment-driven** and **zoning/permitting-sensitive**.
+
+---
+
+## 5) Zoning & “does it allow more units per lot?”
+
+**How to check *your exact lot***
+
+* Use the City’s **Land Use Bylaw maps** / “find your land use district” tools (parcel-specific). ([https://www.calgary.ca][1])
+
+**What to expect in Roxboro (typical pattern)**
+
+* Many parcels historically sit in **low-density residential districts (e.g., R-C1 / R-C2)**, but Calgary has been moving toward **more base entitlement for low-rise housing** in many areas (citywide policy direction).
+* If a parcel is (or becomes) **R-CG (Grade-Oriented Infill)**, it is designed to accommodate **rowhouse-style / multiple units** in a low-rise form. The City’s R-CG materials describe enabling **front and rear units** on a parcel. ([https://www.calgary.ca][2])
+
+**Practical takeaway**
+
+* **Roxboro’s investment upside from zoning is “option value,”** not guaranteed density:
+
+  * Some lots may remain constrained due to district, context, heritage, setbacks, lot geometry, etc.
+  * Even with “base” zoning allowances, **design rules + neighborhood context + approvals** determine what’s actually buildable.
+
+---
+
+## 6) Population & population growth
+
+**Population (2021 Census profile)**
+
+* **Population in private households: 415** 
+
+**Growth outlook**
+
+* Roxboro is **fully built-out** and geographically bounded (river + established fabric), so population change tends to be **flat-to-modest**, driven by:
+
+  * household size changes, and/or
+  * redevelopment that adds/changes unit count.
+* Supporting signal: **98% non-movers over the prior year** (very stable, low turnover). 
+
+---
+
+## 7) Average income in the area
+
+From the City’s community profile (2020 incomes):
+
+* **Median household income (before tax): $232,000** 
+* **Low income prevalence: 0%** (LIM-AT measure in the profile tables). 
+
+**Investor lens**
+
+* This supports **premium resale demand**, strong maintenance/streetscape quality, and **lower “tenant-quality risk”** if you do rent it out (but rentals are rare).
+
+---
+
+## 8) Crime rate
+
+Two important realities:
+
+1. **Small community = tiny counts** (one incident swings percentages).
+2. Public dashboards are the best “official-ish” source, but community-level extraction can be clunky.
+
+What I can cite from available sources:
+
+* A third-party tracker reports **9 total crimes as of Nov 2024** and very low month-to-month counts (often 0). ([MyCalgary][3])
+* Calgary Police/City provide a **community crime dashboard/map experience** (use this to verify the latest for Roxboro and compare to adjacent Mission/Erlton). ([ArcGIS][4])
+
+**Practical takeaway**
+
+* Roxboro typically behaves like a **very low-crime, high-stability** pocket, but do compare:
+
+  * Roxboro vs **Mission** (busier nightlife/retail) vs **Erlton** (mixed forms).
+
+---
+
+## 9) Rental supply/demand (and average rents)
+
+**Supply reality (this is the key point)**
+
+* The City profile shows **0 renter households (0%)** in Roxboro. 
+  So the rental market is **thin, irregular, and luxury-skewed** (more “executive rental” than “standard long-term rental stock”).
+
+**Rent signals you *can* use**
+
+* RentFaster’s building-level page (limited sample) shows **very sparse listings** and an example “average price” around **$3,000** (but note: this is based on minimal listings and can be misleading). ([RentFaster.ca][5])
+* For broader context, RentFaster’s Calgary rent report gives the **city-level** baseline (useful to anchor expectations when Roxboro comps are missing). ([RentFaster.ca][6])
+
+**How to think about rent in Roxboro**
+
+* If you find a rental, it’s often:
+
+  * a high-end single detached home, or
+  * a furnished / executive arrangement,
+  * and pricing is more “bespoke comp” than “market average.”
+
+---
+
+## 10) Is it an A, B, C, D neighborhood?
+
+* **A / A+** (luxury inner-city, scarce land, river adjacency, elite schooling/amenity access, extremely high incomes).
+* The “risk” is not neighborhood quality—it’s **investment math** (cap rates).
+
+---
+
+## 11) Long-term appreciation vs current returns/cash flow
+
+**Appreciation potential (strong)**
+
+* Core drivers: **scarcity + location premium + river adjacency + established prestige**.
+* Older homes also create **redevelopment optionality** (replace/expand/custom build), which tends to support long-run values.
+
+**Cash-flow profile (usually weak)**
+
+* With very high entry prices and limited “typical renter base,” Roxboro often produces:
+
+  * **low cap rates**, and
+  * **equity-style returns** (appreciation-driven) rather than income-driven.
+
+**Bottom line**
+
+* Roxboro tends to be a **“wealth preservation / long-duration hold”** play more than a **cash-flow machine**.
+
+---
+
+## 12) Average house prices (what you should use, and what to avoid)
+
+Because Roxboro is tiny, “average price” can be noisy. Here are usable anchors:
+
+* **City-wide benchmark context:** CREB publishes overall benchmark pricing/market conditions (useful baseline, but Roxboro will sit far above city benchmark). ([CREB][7])
+* **Estimate-style sources (treat as rough):** HonestDoor shows an “average price” style metric around **$2.03M** for Roxboro (model-based; verify with sold comps). ([HonestDoor][8])
+
+**Best practice**
+
+* For Roxboro, rely on **recent sold comps** (last 6–12 months) within:
+
+  * Roxboro itself, and
+  * immediate adjacent luxury pockets (Rideau/Rideau Park, parts of Elbow Park), adjusting for lot + river exposure + renovation level.
+
+---
+
+## 13) Strategies that can work in Roxboro (ranked by “fit”)
+
+### A) **Buy-and-hold “blue-chip land” (primary strategy)**
+
+* Target: well-located lots/homes with enduring desirability.
+* Win condition: long hold period, accept low cash yield, focus on **total return**.
+
+### B) **Value-add renovation (selective)**
+
+* Works when you can buy an older home at a discount and execute **high-quality** renovations that match buyer expectations.
+* Must underwrite:
+
+  * high-end finishes,
+  * potential heritage/design constraints,
+  * longer timelines and higher carrying costs.
+
+### C) **Redevelopment / custom build (advanced)**
+
+* If zoning + lot + approvals allow, this is where meaningful value creation can occur.
+* Underwrite:
+
+  * entitlement risk (district rules, setbacks, height),
+  * construction cost inflation,
+  * resale depth (luxury buyer pool is smaller).
+
+### D) **Executive / furnished rental (niche)**
+
+* Not a “standard rental” play—more like corporate relocation, insurance displacement, film/production, etc.
+* Underwrite vacancy risk carefully (thin tenant pool).
+
+### E) **If you need cash flow: “neighbor strategy”**
+
+* Consider buying **near Roxboro** (Mission, Erlton, parts of Beltline) for **rentability/density**, while keeping Roxboro as the “capital compounder” target.
+
+---
+
+If you want, tell me whether your goal is **cash flow**, **net worth growth**, or a **hybrid**—and I’ll map Roxboro against 2–3 nearby alternatives (Mission, Erlton, Elbow Park) and suggest the best “buy box” for your strategy.
+
+[1]: https://www.calgary.ca/maps/land-use-bylaw.html?utm_source=chatgpt.com "Land Use Bylaw maps"
+[2]: https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf?utm_source=chatgpt.com "R-CG-residential-grade-oriented.pdf"
+[3]: https://mycalgary.com/crime-statistics/roxboro-crime-activity-update/?utm_source=chatgpt.com "Roxboro Crime Statistics Update - MyCalgary"
+[4]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[5]: https://www.rentfaster.ca/ab/calgary/buildings/roxboro-house-calgary-ab/?utm_source=chatgpt.com "Roxboro House Rentals and Building Information"
+[6]: https://www.rentfaster.ca/rent-report/?utm_source=chatgpt.com "Rent Report for Apartments & Houses in Canada"
+[7]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary"
+[8]: https://www.honestdoor.com/cities/ab/calgary/roxboro?utm_source=chatgpt.com "Roxboro, Calgary Real Estate: Housing Market December ..."
+
+
 # Eagle Ridge
 # Queens Park Village
 # Scarboro/Sunalta West
