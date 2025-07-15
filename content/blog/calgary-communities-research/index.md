@@ -18460,8 +18460,6 @@ Because Roxboro is tiny, “average price” can be noisy. Here are usable ancho
 
 ---
 
-If you want, tell me whether your goal is **cash flow**, **net worth growth**, or a **hybrid**—and I’ll map Roxboro against 2–3 nearby alternatives (Mission, Erlton, Elbow Park) and suggest the best “buy box” for your strategy.
-
 [1]: https://www.calgary.ca/maps/land-use-bylaw.html?utm_source=chatgpt.com "Land Use Bylaw maps"
 [2]: https://www.calgary.ca/content/dam/www/pda/pd/publishingimages/current-projects/R-CG-residential-grade-oriented.pdf?utm_source=chatgpt.com "R-CG-residential-grade-oriented.pdf"
 [3]: https://mycalgary.com/crime-statistics/roxboro-crime-activity-update/?utm_source=chatgpt.com "Roxboro Crime Statistics Update - MyCalgary"
@@ -18473,6 +18471,205 @@ If you want, tell me whether your goal is **cash flow**, **net worth growth**, o
 
 
 # Eagle Ridge
+
+[![Eagle Ridge profile](https://tse4.mm.bing.net/th/id/OIP.wTF6rr_-U-EivAiE50lb0AHaJl?pid=Api)](https://www.calgary.ca/communities/profiles/eagle-ridge.html?utm_source=chatgpt.com)
+
+Below is a **real-estate investor’s outline** for **Eagle Ridge (Calgary)**—one of the smallest, most “trophy” enclaves in the city (Glenmore Reservoir frontage + immediate access to major amenities).
+
+---
+
+## 1) Nearby amenities & attractions (what drives desirability)
+
+**Lifestyle / outdoor**
+
+* **Glenmore Reservoir & pathways** (sailing/rowing, running/biking loop, views)
+* **Weaselhead Flats / North Glenmore Park** nearby (large urban natural area)
+* **Heritage Park Historical Village** is right next door (major year-round attraction)
+
+**Daily convenience**
+
+* **Chinook Centre** (regional mall) & surrounding retail/services
+* **Rockyview General Hospital** (very close—also a big employment node)
+
+**Connectivity**
+
+* Quick access to **Glenmore Trail** and **14 St SW**, making it easy to reach downtown, ring road connections, and other SW nodes.
+
+---
+
+## 2) When were houses commonly built?
+
+Eagle Ridge is primarily an **older, established** luxury pocket:
+
+* **62% built 1961–1980**
+* **10% built 1960 or before**
+* **14% built 2011–2015** (renos/teardowns and newer custom builds show up here) 
+
+**Investor implication:** much of the housing stock is “good bones / premium land” — value often sits in **lot + location**, with **renovation or rebuild optionality**.
+
+---
+
+## 3) Common building types
+
+From the City’s community profile:
+
+* **~95% single-detached houses**
+* A small slice shows up as **apartments in 5+ storey buildings (~10%)** (rounding effects exist in tiny communities) 
+
+**Practical read:** mostly **estate single-family**, plus a **limited condo component**.
+
+---
+
+## 4) Zoning & “more units per lot” potential
+
+**What zoning generally looks like here**
+
+* Eagle Ridge is overwhelmingly **low-density residential parcels** (typical SW estate pattern). Parcel-by-parcel zoning must be checked on the City maps/MyProperty.
+
+**Does zoning allow more units per lot?**
+
+* City-wide, Calgary has pathways to add suites, but rules depend on the land-use district:
+
+  * Secondary suite rules and limits are defined in the Land Use Bylaw (e.g., generally **no more than one secondary suite per dwelling unit**) ([https://www.calgary.ca][1])
+  * **R-CG** is a district intended to support **more “grade-oriented” housing diversity over time** (where it applies) ([https://www.calgary.ca][2])
+
+**Investor reality for Eagle Ridge:**
+Even if *technically possible* in specific pockets, this is **not** a neighborhood where widespread upzoning/4-plexing is the base case. The biggest “unit count” upside is usually:
+
+* **legal suite** in an existing single-detached (where allowable/approvable), or
+* **high-end rebuild** (not “more doors,” more *value per door*).
+
+*(To confirm your exact property: use the City’s Land Use Bylaw maps/MyProperty and check the parcel’s land-use district.)* ([https://www.calgary.ca][3])
+
+---
+
+## 5) Population & growth
+
+**Population (2021): 260** (extremely small community) 
+
+* Private households shown around **~100–105** (tiny sample) 
+
+**Population growth**
+
+* The City provides a **2014–2042 population projection chart** for Eagle Ridge, but it’s presented as a percent-change graphic (no easy table values in the PDF). ([https://www.calgary.ca][4])
+
+**Investor implication:** you’re not buying Eagle Ridge for “population growth”; you’re buying **scarcity + prestige location**.
+
+---
+
+## 6) Average income (proxy: Census median household income)
+
+* **Median total household income (before tax) in 2020: $432,000** (extraordinary) 
+
+**Investor implication:** this is a **high-capacity** buyer/renter base (executives, business owners, professionals). It supports **premium finishes and high carrying costs**—but doesn’t guarantee liquidity in slower luxury cycles.
+
+---
+
+## 7) Crime rate (how to think about it)
+
+I wasn’t able to pull a clean, official “crime rate per 1,000” table for Eagle Ridge in a readable static format during this run (many official dashboards are interactive). Practically:
+
+* Eagle Ridge is typically viewed as a **low-crime, high-safety** enclave relative to city averages, but treat any specific numeric “rate” you see on third-party sites cautiously.
+
+**Investor move:** if crime sensitivity matters for your strategy (e.g., luxury rentals), validate via **Calgary Police / City open data dashboards** for the exact time window you care about.
+
+---
+
+## 8) Rental supply/demand dynamics
+
+**Supply:** extremely thin.
+
+* The profile strongly suggests a **high owner-occupancy** pattern (very few renter households indicated in the housing affordability table). 
+
+**Demand:** niche but real.
+
+* Demand tends to be **executive tenants**, relocation families, and people needing proximity to SW nodes (hospital, major corridors), but it’s not a “broad renter pool” neighborhood.
+
+**Investor implication:** expect **longer vacancy risk** if you misprice, but **very strong tenant quality** when correctly positioned.
+
+---
+
+## 9) Average rents (what to underwrite)
+
+Because rentals are scarce, “average rent” is noisy. Use triangulation:
+
+* HonestDoor shows an **average rental estimate ~ $8,906/month** (market-model estimate, not guaranteed) ([HonestDoor][5])
+
+**How I’d underwrite it (practical)**
+
+* **Luxury detached**: likely a **wide band** depending on finish/lot/parking (think “executive lease” economics).
+* If you’re targeting cash flow, Eagle Ridge usually **fails** a normal cash-flow screen unless you have **very low basis** or a **special situation**.
+
+---
+
+## 10) Is Eagle Ridge A, B, C, or D neighborhood?
+
+**A+ / A neighborhood** (trophy enclave):
+
+* tiny, prestigious, reservoir adjacency, extremely high incomes, very limited supply. 
+
+---
+
+## 11) Long-term appreciation vs current returns/cash flow
+
+**Current returns (cash flow): typically weak**
+
+* High acquisition cost + luxury carrying costs (taxes/insurance/maintenance) compress cap rates.
+
+**Long-term appreciation: often strong (but cyclical)**
+
+* Drivers: **scarcity**, **location moat**, “status” demand, and rebuild/renovation optionality.
+* Risk: luxury markets can be **liquidity-sensitive** during macro slowdowns (days on market can stretch).
+
+**Bottom line:** Eagle Ridge is usually a **“wealth preservation + appreciation”** play more than a cash-flow play.
+
+---
+
+## 12) Average house prices (ballpark)
+
+Market stats vary by source; a reasonable triangulation:
+
+* HonestDoor: **Average price ~$3.0M** (model-based estimate) ([HonestDoor][5])
+* REALTOR.ca shows active listings “starting at” **~$1.45M+** (listings-based snapshot) ([Realtor][6])
+
+**Practical take:** expect **very wide dispersion** ($1.5M entry condo/older home → $7–10M estate listings), so **micro-lot + micro-reno** matters a lot.
+
+---
+
+## 13) Investment strategies that actually fit Eagle Ridge
+
+### A) **Land-value + renovation / rebuild optionality** (most realistic)
+
+* Buy an older home where the **lot/location** is the anchor.
+* Renovate to “executive standard” or rebuild for long-term hold.
+
+### B) **Executive / corporate rental**
+
+* Target high-income tenants (relocation packages).
+* Underwrite conservatively for vacancy and higher maintenance.
+
+### C) **Luxury “spec” project** (high risk / high skill)
+
+* Only if you have: proven builder relationships, resale comps, and appetite for luxury-cycle timing risk.
+
+### D) **Condo hold (if you find the right product)**
+
+* If the building/units have unique views/amenities and reasonable fees, condos can be a “cheaper Eagle Ridge exposure,” but resale liquidity still matters.
+
+### Usually **NOT** a fit
+
+* “Cash-flow-first” BRRRR, suite-heavy value-add, or mass infill—Eagle Ridge is generally the wrong pond for that fish.
+
+---
+
+[1]: https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?part=5&utm_source=chatgpt.com "The City of Calgary Land Use Bylaw 1P2007"
+[2]: https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?div=11&part=5&utm_source=chatgpt.com "Residential – Grade-Oriented Infill (R-CG) District"
+[3]: https://www.calgary.ca/maps/land-use-bylaw.html?utm_source=chatgpt.com "Land Use Bylaw maps"
+[4]: https://www.calgary.ca/content/dam/www/programs-services/property-housing-and-neighbourhoods/neighbourhood-and-community-relationships/profiles/population-projection-chart-generator/eagle-ridge-population-projection.pdf "eagle-ridge-population-projection-community-strategies.pdf"
+[5]: https://www.honestdoor.com/cities/ab/calgary/eagle-ridge?utm_source=chatgpt.com "Eagle Ridge, Calgary Real Estate"
+[6]: https://www.realtor.ca/ab/calgary/eagle-ridge/real-estate?utm_source=chatgpt.com "3 Eagle Ridge Real Estate MLS® Listings & Houses for Sale"
+
+
 # Queens Park Village
 # Scarboro/Sunalta West
 
