@@ -3182,3 +3182,384 @@ Kildare is a mature, affordable neighborhood with solid transit, retail, and spo
 [13]: https://www.reddit.com/r/Edmonton/comments/1l310cy/more_than_16000_new_dwelling_units_approved_in/?utm_source=chatgpt.com "than 16000 new dwelling units approved in Edmonton one ..."
 [14]: https://www.edmontonrealestate.ca/kildare-homes-for-sale.php?utm_source=chatgpt.com "Kildare Homes For Sale Northeast Edmonton"
 [15]: https://wahi.com/ca/en/housing-market/ab/edmonton/kildare?utm_source=chatgpt.com "Kildare Housing Market Report: 1st Aug, 2025"
+
+# Downtown
+# Garneau
+# The Hamptons
+# Strathcona
+# Rutherford
+# Silver Berry
+# Wild Rose
+# Summerside
+# South Terwillegar
+# Queen Mary Park
+# Kiniski Gardens
+# Terwillegar Towne
+# Twin Brooks
+# Cumberland
+# Dunluce
+# Inglewood
+# Alberta Avenue
+# Glastonbury
+# Lymburn
+# Westmount
+# Ottewell
+# Kilkenny
+# Evansdale
+# MacEwan
+# Callingwood South
+# Ellerslie
+# Aldergrove
+# Ormsby Place
+# Boyle Street
+# Belmont
+# Hollick-Kenyon
+# Brintnell
+# Empire Park
+# La Perle
+# Ermineskin
+# Belvedere
+# Larkspur
+# Baturyn
+# Glenwood
+# Klarvatten
+# Britannia Youngstown
+# Central McDougall
+# Queen Alexandra
+# Belmead
+# Pollard Meadows
+# Blue Quill
+# Duggan
+# Ozerna
+# Beaumaris
+# Crawford Plains
+# Bonnie Doon
+# Haddow
+# King Edward Park
+# Mayliewan
+# Caernarvon
+# Ritchie
+# Sakaw
+# Matt Berry
+# Lorelei
+# Calder
+# Killarney
+# Lago Lindo
+# Eastwood
+# Belle Rive
+# Forest Heights
+# Jackson Heights
+# Jamieson Place
+# Carlisle
+# Bisset
+# York
+# Balwin
+# Pleasantview
+# Kirkness
+# Bulyea Heights
+# Greenfield
+# Daly Grove
+# McCauley
+# Glenora
+# Kensington
+# Royal Gardens
+# Thorncliff
+# Hillview
+# Weinlos
+# Casselman
+# Oxford
+# Satoo
+# Delwood
+# Ramsay Heights
+# Rundle Heights
+# Parkview
+# Holyrood
+# Canora
+# Malmo Plains
+# Richfield
+# Lynnwood
+# Homesteader
+# Fraser
+# Rhatigan Ridge
+# Montrose
+# Clareview Town Centre
+# Canossa
+# Parkdale
+# Beverly Heights
+# Westwood
+# Tweddle Place
+# Wellington
+# Griesbach
+# Minchau
+# Athlone
+# Kernohan
+# Eaux Claires
+# Bannerman
+# Oleskiw
+# Hazeldean
+# Miller
+# West Jasper Place
+# West Meadowlark Park
+# Charlesworth
+# Meyonohk
+# Greenview
+# Newton
+# Beacon Heights
+# Glengarry
+# Northmount
+# Tipaskan
+# Kameyosek
+# Meyokumin
+# Overlanders
+# Keheewin
+# Gold Bar
+# McKernan
+# Magrath Heights
+# Suder Greens
+# Lee Ridge
+# Rosslyn
+# Carlton
+# Lauderdale
+# Kildare
+# Allendale
+# Capilano
+# Hodgson
+# Laurier Heights
+# Elmwood
+# Strathearn
+# Highlands
+# Meadowlark Park
+# Woodcroft
+# Blackmud Creek
+# Sweet Grass
+# Ekota
+# Leger
+# Menisa
+# Kenilworth
+# Hairsine
+# Brander Gardens
+# Sherbrooke
+# Callingwood North
+# Grovenor
+# Tamarack
+# Ambleside
+# McLeod
+# Terrace Heights
+# Sifton Park
+# Westview Village
+# Fulton Place
+# Parkallen
+# Michaels Park
+# Terra Losa
+# Belgravia
+# Windermere
+# Elsinore
+# Bearspaw
+# Spruce Avenue
+# Avonmore
+# Falconer Heights
+# Chambery
+# Crestwood
+# Summerlea
+# Walker
+# Dovercourt
+# North Glenora
+# Canon Ridge
+# Hudson
+# Delton
+# Riverdale
+# Mayfield
+# Skyrattler
+# Brookside
+# Breckenridge Greens
+# Cromdale
+# Tawa
+# Henderson Estates
+# Lendrum Place
+# Abbottsfield
+# Gariepy
+# Rideau Park
+# Steinhauer
+# Jasper Park
+# Idylwylde
+# Patricia Heights
+# Dechene
+# Schonsee
+# Carter Crest
+# Maple Ridge
+# Mactaggart
+# McQueen
+# Aspen Gardens
+# Laurel
+# Potter Greens
+# Blackburne
+# Wedgewood Heights
+# Bergman
+# Evergreen
+# High Park
+# Westridge
+# Prince Rupert
+# Rio Terrace
+# Blue Quill Estates
+# Prince Charles
+# Windsor Park
+# Sherwood
+# Donsdale
+# Westbrook Estates
+# Lansdowne
+# Callaghan
+# Baranow
+# Cameron Heights
+# Mill Woods Town Centre
+# Elmwood Park
+# Ogilvie Ridge
+# Grandview Heights
+# Bellevue
+# Secord
+# McConachie
+# Cloverdale
+# Argyll
+# Rossdale
+# Virginia Park
+# Rural North East South Sturgeon
+# Rural West Edgemont
+# Webber Greens
+# Richford
+# Pembina
+# Quesnell Heights
+# Allard
+# Granville
+# Rural North East Horse Hill
+# Gainer Industrial
+# Rural South East Mattson
+# Rural North East North Sturgeon
+# Trumpeter
+# Rural West Big Lake Starling
+# Chappelle
+# Kinokamau Plains Area
+# Weir Industrial
+# Lewis Farms Industrial
+# Maple Ridge Industrial
+# Winterburn Industrial Area West
+# Edmonton Northlands
+# Strathcona Industrial Park
+# Southeast Industrial
+# South Edmonton Common
+# Youngstown Industrial
+# Yellowhead Corridor West
+# Yellowhead Corridor East
+# Winterburn Industrial Area East
+# Windermere Area
+# Glenridding Heights
+# Glenridding Ravine
+# Keswick
+# Wilson Industrial
+# Whitemud Creek Ravine Twin Brooks
+# Whitemud Creek Ravine South
+# Whitemud Creek Ravine North
+# White Industrial
+# West Sheffield Industrial
+# University of Alberta Farm
+# University of Alberta
+# The Orchards at Ellerslie
+# Sunwapta Industrial
+# Stone Industrial
+# Stewart Greens
+# Sheffield Industrial
+# Rural West Lewis Farms Rosenthal
+# Rural North West
+# Goodridge Corners
+# Rosedale Industrial
+# Roper Industrial
+# River Valley Windermere
+# River Valley Whitemud
+# River Valley Walterdale
+# River Valley Victoria
+# River Valley Terwillegar
+# River Valley Rundle
+# River Valley Riverside
+# River Valley Oleskiw
+# River Valley Mayfair
+# River Valley Lessard North
+# River Valley Laurier
+# River Valley Kinnaird
+# River Valley Highlands
+# River Valley Hermitage
+# River Valley Gold Bar
+# River Valley Glenora
+# River Valley Fort Edmonton
+# River Valley Capitol Hill
+# River Valley Cameron
+# Rapperswill
+# Rampart Industrial
+# Pylypow Industrial
+# Poundmaker Industrial
+# Place LaRue
+# Pilot Sound Area West Portion
+# Cy Becker
+# Parsons Industrial
+# Papaschase Industrial
+# Norwester Industrial
+# Morris Industrial
+# Morin Industrial
+# Mitchell Industrial
+# Mistatim Industrial
+# Mill Woods Park
+# Mill Woods Golf Course
+# Mill Creek Ravine South
+# Mill Creek Ravine North
+# Meadows Area
+# McNamara Industrial
+# McIntyre Industrial
+# McArthur Industrial
+# Maple
+# Lambton Industrial
+# Lake District North East Portion Joviz
+# Kennedale Industrial
+# Industrial Heights
+# Huff Bremner Estate Industrial
+# High Park Industrial
+# Heritage Valley Town Centre
+# Heritage Valley Area East Cashman
+# Heritage Valley Area
+# Hays Ridge Paisley
+# Hawks Ridge
+# Hawin Park Estate Industrial
+# Hagmann Estate Industrial
+# Gorman
+# Girard Industrial
+# Garside Industrial
+# Gagnon Estate Industrial
+# Ellerslie Industrial
+# Edmonton Research and Development Park
+# Edmonton Municipal Airport
+# Edmiston Industrial
+# Ebbers
+# Eastgate Business Park
+# Dominion Industrial
+# Desrochers
+# Davies Industrial West
+# Davies Industrial East
+# Crystallina Nera
+# CPR West
+# CPR Irvine
+# Coronet Industrial
+# Coronet Addition Industrial
+# Clover Bar Area
+# Carleton Square Industrial
+# Calgary Trail South
+# Calgary Trail North
+# Brown Industrial
+# Bonaventure Industrial
+# Blackmud Creek Ravine
+# Armstrong Industrial
+# Anthony Henday Terwillegar
+# Anthony Henday Southeast
+# Anthony Henday South West
+# Anthony Henday South
+# Anthony Henday Mistatim
+# Anthony Henday Lake District
+# Anthony Henday Castledowns
+# Anthony Henday
+# Alberta Park Industrial
+# Albany
