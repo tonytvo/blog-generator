@@ -15,7 +15,7 @@ to-heading: 6
 class-name: "table-of-contents"
 ```
 
-# 📘 **Chapter 1: Introduction to Building AI Applications with Foundation Models**
+# 📘 **Introduction to Building AI Applications with Foundation Models**
 
 ---
 
@@ -929,7 +929,7 @@ Set up:
 ---
 
 
-# 📘 **Chapter 5: Prompt Engineering**
+# 📘 **Prompt Engineering**
 
 ---
 
@@ -1469,10 +1469,6 @@ Use cases:
 * **Track versions, evaluate often, and use PEFT** to save compute
 
 > **“You’re not just training models—you’re designing behaviors.”**
-
----
-
-Here is an extensively detailed and expanded breakdown of **Chapter 8: Data Management for AI Applications** from *AI Engineering: Building Applications with Foundation Models* by Chip Huyen. It includes **bold-highlighted key ideas**, step-by-step insights, and **practical examples**:
 
 ---
 
