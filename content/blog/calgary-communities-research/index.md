@@ -18671,6 +18671,186 @@ Market stats vary by source; a reasonable triangulation:
 
 
 # Queens Park Village
+
+[![Queen's Park Townhomes Apartments - 501 40 Avenue NW Calgary AB | Zumper](https://tse4.mm.bing.net/th/id/OIP.MsIPbJ_4XY8DbfVu37DX4QHaED?pid=Api)](https://www.zumper.com/apartment-buildings/p288653/queens-park-village-townhomes-calgary-ab?utm_source=chatgpt.com)
+
+## Queens Park Village (Calgary) — investor-focused neighborhood outline
+
+**Quick context:** Queens Park Village is a *very small* “community” in NW Calgary and is **overwhelmingly renter-occupied** with **low-rise apartment/townhome-style dwellings** (not a typical detached-home suburb). That changes how you underwrite it (more like a small multifamily micro-market than a neighborhood of for-sale houses). 
+
+---
+
+## 1) Nearby amenities & attractions
+
+**Parks / outdoors (big value-driver for tenant appeal)**
+
+* **Confederation Park** (large urban park with pathways, amenities, year-round recreation). ([https://www.calgary.ca][1])
+* **Queen’s Park off-leash area / Queen’s Park Cemetery area** (major open-space adjacency; also note city planning around off-leash relocation/changes can affect nearby desirability). ([Engage Calgary][2])
+
+**Institutions / employment nodes (support steady rental demand)**
+
+* **Foothills Medical Centre** (major hospital/employment hub). ([Alberta Health Services][3])
+* Quick access to central NW corridors (transit + road access is typically a selling point for renters; the community profile shows meaningful transit usage). 
+
+---
+
+## 2) When were homes commonly built?
+
+Queens Park Village housing stock is **mostly older**, with **~65% built 1961–1980**, then smaller amounts in later decades. 
+A notable institutional asset at **501 40 Ave NW** is cited as **built in 1978**. ([NIT Calgary][4])
+
+---
+
+## 3) Common building types
+
+This is not a detached-home market:
+
+* **97%** are **apartments in buildings < 5 storeys** (low-rise multi-family form). 
+* **0%** single-detached, semi-detached, row house (in the census structure breakdown as reported). 
+
+**Tenure reality:** **~97% renter households**; essentially **no owner households** in the census profile. 
+
+---
+
+## 4) Zoning / land use: does it allow more units per lot?
+
+Because QPV is largely **purpose-built rental / multi-family**, redevelopment potential is more about **site-level land use** than “adding suites to detached lots.”
+
+* For the large townhome asset at **501 40 Ave NW**, an investment transaction page highlights a **188-townhome** site (built 1978). ([NIT Calgary][4])
+* **Practical implication:** you’re typically dealing with **multi-res parcels** where *incremental density* may require **major redevelopment / rezoning / assembly**, not “add a unit in the backyard.”
+
+**Investor takeaway:** treat this as **multifamily underwriting** (NOI, capex, occupancy, rent growth), not infill-lot math.
+
+---
+
+## 5) Population & population growth
+
+* **Population (private households, 2021): 375** 
+* **Private households: 155** 
+
+**Growth:** This community is **tiny and largely built-out**, so population tends to be **stable unless redevelopment happens**. (Small counts also mean any change looks “big” in % terms.)
+
+---
+
+## 6) Average income in the area
+
+* **Median total household income (before tax) in 2020: $66,000** 
+
+Also worth noting for rent stress:
+
+* **42%** of households spend **30%+ of income on shelter**. 
+
+---
+
+## 7) Crime rate
+
+For Calgary, the best source is the **Calgary Police Service Community Safety Dashboard / Crime Map by Community**, which lets you filter by community and timeframe. ([https://www.calgary.ca][5])
+
+**How to interpret for QPV:** because population is small (375), **per-capita rates can look jumpy** from a small number of incidents—use **multi-year trends** and compare to adjacent NW communities, not just a single month.
+
+---
+
+## 8) Rental supply/demand dynamics (what to expect)
+
+**Supply**
+
+* QPV is **structurally rental-heavy** (97% renter households). 
+* That usually means **more competing units** and **more professionalized management**, with performance driven by **maintenance/capex** and **tenant service**.
+
+**Demand**
+
+* Demand is typically supported by: proximity to large parks + central NW access + major employment nodes (e.g., Foothills). ([https://www.calgary.ca][1])
+* The community profile also shows notable mobility (moves in last 5 years), consistent with a renter-heavy area. 
+
+---
+
+## 9) Average rents
+
+You can triangulate rents from:
+
+* **City profile (median monthly shelter cost for rented dwellings): ~$1,370** 
+* **RentFaster building stats (Queen’s Park Townhomes, 501 40 Ave NW):**
+
+  * **2-bed avg ~$1,500**
+  * **3-bed avg ~$1,700** ([RentFaster.ca][6])
+* Apartments.com indicates rentals “from **$1,500**” for the same complex. ([Apartments.com][7])
+
+---
+
+## 10) A/B/C/D neighborhood classification (investor lens)
+
+**Queens Park Village: likely “B-/C+” as a *rental micro-market*.**
+
+Why:
+
+* **Pros (push toward B):** inner-ish NW location, near major parks, access to employment nodes. ([https://www.calgary.ca][1])
+* **Cons (pull toward C):** very high renter concentration (less neighborhood “ownership pride” effect), older building cohort, and rent-stress indicators. 
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**This is usually a “cashflow/NOI + operational execution” play more than a “land appreciation” play**—unless you can unlock **redevelopment/assembly**.
+
+* **Cashflow tends to be the core thesis** in purpose-built rental settings (rent growth + occupancy + expense control + capex planning).
+* **Appreciation catalysts** would be:
+
+  * major capex repositioning (raise rents via quality/amenities),
+  * area-wide rent growth,
+  * redevelopment/land-use change at the parcel level (harder, longer cycle).
+
+For broader Calgary pricing context (useful for macro sentiment, not QPV-specific), CREB benchmark metrics give a read on city-wide conditions (e.g., detached benchmark figures in their monthly packages). ([creb.com][8])
+
+---
+
+## 12) Average house prices
+
+**Important caveat:** QPV has limited “typical house” pricing because it’s not a detached-house neighborhood.
+
+What you *can* use:
+
+* **For-sale availability check:** REALTOR.ca has a dedicated QPV condos-for-sale page (use it to sample current asking prices). ([Realtor][9])
+* **Broader Calgary benchmark reference:** CREB monthly stats packages provide city-wide benchmarks (useful as macro backdrop, not QPV-specific). ([creb.com][10])
+
+---
+
+## 13) Strategies that can work here (practical)
+
+### Strategy A — “Small multifamily underwriting” (even if you buy a condo/townhome unit)
+
+Best fit because the community is renter-dominant. 
+
+* Underwrite like a rental asset: **market rent comps, tenant profile, maintenance, condo fees/utility structure, vacancy sensitivity**.
+* Focus on **unit condition + tenant retention** (older stock means condition matters more). 
+
+### Strategy B — Value-add light reno (rent lift)
+
+* Target **cosmetic renovations** that reliably raise rents (flooring, paint, fixtures, in-suite laundry where possible/allowed).
+* Keep an eye on **shelter-cost stress**—pushing rents too aggressively can increase turnover. 
+
+### Strategy C — Buy for “stability + park adjacency” (tenant demand durability)
+
+* Proximity to major parks and amenities can stabilize occupancy and reduce vacancy risk in softer rental markets. ([https://www.calgary.ca][1])
+
+### Strategy D — Redevelopment/assembly (advanced, long horizon)
+
+* Only relevant if you’re playing at the **parcel/portfolio level** (not a single condo).
+* Thesis: land-use + site plan + capital stack + approvals.
+
+---
+
+[1]: https://www.calgary.ca/parks/confederation-park.html?utm_source=chatgpt.com "Confederation Park"
+[2]: https://engage.calgary.ca/queenspark?utm_source=chatgpt.com "Queen's Park Off-leash Area Relocation - Engage Calgary"
+[3]: https://www.albertahealthservices.ca/fmc/fmc.aspx?utm_source=chatgpt.com "Foothills Medical Centre"
+[4]: https://nitcalgary.com/transaction/queens-park-village/?utm_source=chatgpt.com "Queen's Park Village"
+[5]: https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html?utm_source=chatgpt.com "Calgary Police Service Statistical Reports"
+[6]: https://www.rentfaster.ca/ab/calgary/buildings/calgary-queen-s-park-townhomes/?utm_source=chatgpt.com "Queen's Park Townhomes Rentals and Building Information"
+[7]: https://www.apartments.com/queens-park-townhomes-calgary-ab/xp8h7fp/?utm_source=chatgpt.com "Queen's Park Townhomes - Calgary"
+[8]: https://www.creb.com/Housing_Statistics/documents/09_2025_Calgary_Monthly_Stats_Package.pdf?utm_source=chatgpt.com "September 2025"
+[9]: https://www.realtor.ca/ab/calgary/queens-park-village/condos-for-sale?utm_source=chatgpt.com "Condos For Sale in Queens Park Village, Calgary"
+[10]: https://www.creb.com/Housing_Statistics/documents/11_2025_Calgary_Monthly_Stats_Package.pdf?utm_source=chatgpt.com "November 2025"
+
+
 # Scarboro/Sunalta West
 
 # Shepard Industrial
