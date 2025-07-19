@@ -18851,8 +18851,6 @@ Best fit because the community is renter-dominant.
 [10]: https://www.creb.com/Housing_Statistics/documents/11_2025_Calgary_Monthly_Stats_Package.pdf?utm_source=chatgpt.com "November 2025"
 
 
-# Scarboro/Sunalta West
-
 # Shepard Industrial
 # CFB Currie
 # Forest Lawn Industrial

@@ -8,26 +8,32 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## **1. Overview of Machine Learning Systems**
+  - expand in much more details with bold high-light quotes/phrases the above sections "## **2. Introduction to Machine Learning Systems Design**
 
-* **When to Use Machine Learning**
+* **Business and ML Objectives**
 
-  * Understanding ML’s role in solving business problems.
-  * Criteria for deciding whether ML is the right solution.
-* **Machine Learning Use Cases**
+  * Aligning ML projects with business needs.
+* **Requirements for ML Systems**
 
-  * Industry applications of ML across different sectors.
-* **Understanding Machine Learning Systems**
+  * **Reliability** – Ensuring robustness.
+  * **Scalability** – Handling growing workloads.
+  * **Maintainability** – Facilitating updates and debugging.
+  * **Adaptability** – Keeping up with changing data.
+* **Iterative Process**
 
-  * Key differences between ML in research vs. production.
-  * Comparison between ML systems and traditional software."
+  * Importance of an iterative approach in ML.
+* **Framing ML Problems**
+
+  * Different types of ML tasks.
+  * Choosing objective functions.
+  * The balance between human intuition and data-driven decision-making."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
 - **community research**
 
 ```
-you're an expert in realestate investing, give me detailed outline on the Queens Park Village neighborhood in Calgary with the following questions:
+you're an expert in realestate investing, give me detailed outline on the Shepard Industrial neighborhood in Calgary with the following questions:
 - what are nearby amenities, attractions?
 - when was the houses were commonly built?
 - what are the common building type?
