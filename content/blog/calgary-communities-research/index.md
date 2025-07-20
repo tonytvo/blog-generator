@@ -18850,9 +18850,227 @@ Best fit because the community is renter-dominant.
 [9]: https://www.realtor.ca/ab/calgary/queens-park-village/condos-for-sale?utm_source=chatgpt.com "Condos For Sale in Queens Park Village, Calgary"
 [10]: https://www.creb.com/Housing_Statistics/documents/11_2025_Calgary_Monthly_Stats_Package.pdf?utm_source=chatgpt.com "November 2025"
 
-
-# Shepard Industrial
 # CFB Currie
+
+[![Currie: Calgary, Alberta - Live Work Learn Play](https://tse2.mm.bing.net/th/id/OIP._hY6sXnYwuDELjQJKbb7LQHaE8?pid=Api)](https://www.lwlp.com/portfolio_page/currie_barracks/?utm_source=chatgpt.com)
+
+## CFB Currie / Currie Barracks (Calgary) — investor-focused neighborhood outline
+
+**Quick context:** Currie (formerly **Currie Barracks**, on former CFB lands) is a **large, master-planned inner-city redevelopment** led by **Canada Lands Company**, with a lot of **newer housing (2011–2021)** and a growing mix of **detached, rowhomes, and low-rise condos**. 
+
+---
+
+## 1) Nearby amenities & attractions
+
+### Big “draws” (tenant + resale appeal)
+
+* **Inner-city access**: close-in location (minutes to downtown by car), with strong connectivity to major routes. ([Currie Life][1])
+* **Green space / heritage elements**: the master plan emphasizes **public spaces/plaza, pedestrian streets**, and preserving elements of the former base (historic character / military landscape).
+
+### Nearby anchors (demand drivers)
+
+* **Mount Royal University (MRU)** (nearby major institution → steady rental demand from staff/students, plus service businesses).
+* **Marda Loop / Garrison Woods / Altadore** retail & lifestyle cluster (short drive/bike for restaurants/services).
+* **Glenmore Reservoir / North Glenmore Park / Weaselhead** (major outdoor amenities nearby).
+
+*(Those anchors are well-known adjacency drivers in SW Calgary; Currie’s own developer marketing emphasizes “urban accessibility + emerging retail/mixed-use.”)* ([Currie Life][1])
+
+---
+
+## 2) When were houses commonly built?
+
+From the City of Calgary 2021 Census community profile (occupied private dwellings):
+
+* **2016–2021:** **53%**
+* **2011–2015:** **44%**
+* **2001–2010:** **4%**
+* **Pre-2001:** ~0% in the profile’s occupied-dwelling counts 
+
+**Investor implication:** mostly **new-build** (lower immediate capex risk), but watch for **developer quality variance** and **warranty/deficiency** items typical of newer product.
+
+---
+
+## 3) Common building types (what you’ll actually see)
+
+City profile (structure type, occupied private dwellings):
+
+* **Apartment < 5 storeys:** **33%**
+* **Single-detached:** **32%**
+* **Row house:** **18%**
+* **Other single-attached** (often townhome-like forms): **11%**
+* Smaller shares: semi-detached, duplex units 
+
+**Read-through:** a true “missing middle + low-rise condo” mix—great for multiple strategies (end-user resale, long-term rentals, small multifamily via condo blocks, etc.).
+
+---
+
+## 4) Zoning / land use: does it allow more units per lot?
+
+Currie is not one uniform zoning bucket—expect **a patchwork** (typical for master-planned redevelopment):
+
+### What you’ll run into
+
+* **DC (Direct Control) districts** tailored to the master plan (common in redevelopment areas). A City Council land use amendment example shows redesignation to a **DC District based on MU-1 (Mixed Use – General)**. ([pub-calgary.escribemeetings.com][2])
+* “Missing middle” enabling districts across inner-city Calgary (where applied) such as:
+
+  * **R-CG** (rowhouse/secondary suite friendly in many contexts)
+  * **H-GO (Grade-Oriented)**: designed to allow **rowhouses/townhomes** at higher intensity than R-CG in inner-city/established areas ([https://www.calgary.ca][3])
+
+### Does it allow “more units per lot”?
+
+**Often yes—depending on the parcel.** In Currie, upside is more commonly:
+
+* **townhome/rowhome forms**, and
+* **low-rise condo/mixed-use parcels**
+  …rather than just “add a suite to a bungalow,” because many lots are already planned for higher density.
+
+**Best practice:** for any address you’re targeting, pull the **exact land use district** from the City’s land use lookup and then read the bylaw rules. ([https://www.calgary.ca][4])
+
+---
+
+## 5) Population & population growth
+
+* **Population (2021, private households): 1,275** 
+* **Population (2016 civic census table): 729** ([https://www.calgary.ca][5])
+
+That’s roughly **+75% growth from 2016 → 2021**, consistent with an actively building-out redevelopment.
+
+---
+
+## 6) Average income in the area
+
+* **Median total household income (before tax, 2020): $133,000** 
+
+**Investor implication:** higher-income tenant pool and stronger resale demand support—but don’t assume high cashflow (prices can be high too).
+
+---
+
+## 7) Crime rate
+
+For reliable, community-level crime:
+
+* Use the **Calgary Police Service “Crime Map by Community” dashboard**, or the CPS monthly community crime/disorder statistics. ([ArcGIS][6])
+
+**How to interpret for Currie:** as a newer community with a relatively small base, counts can swing month-to-month—trend **12–36 months** and compare to nearby SW inner-city communities.
+
+---
+
+## 8) Rental supply/demand (investment reality)
+
+City profile housing tenure:
+
+* **Owner households:** **68%**
+* **Renter households:** **32%** 
+
+**Demand drivers (why people rent here):**
+
+* close-in location + new-build product + emerging retail/mixed-use vision ([Currie Life][1])
+* family-friendly + professional tenant demographics (implied by income + housing mix) 
+
+---
+
+## 9) Average rents (what comps suggest)
+
+Three lenses:
+
+### A) City “median shelter cost” (rented dwellings)
+
+* **Median monthly shelter costs (rented): $1,450** 
+
+### B) RentFaster “community rental stats” snapshot (asking rents)
+
+Currie Barracks community page shows (sample of listings at the time):
+
+* **Condo units (avg): ~$2,180**
+* **Townhouses (avg): ~$3,300**
+* **Garage suites (avg): ~$2,000**
+* **Total rentals (avg): ~$2,246** ([rentfaster.ca][7])
+
+### C) City-wide context (helps sanity-check)
+
+RentFaster’s Calgary rent report provides city averages by bedroom type (useful for benchmarking). ([rentfaster.ca][8])
+
+---
+
+## 10) Is it A, B, C, D neighborhood?
+
+**Likely “A / A-”** (investor-grade) *as a neighborhood*, because:
+
+* **high median household income** 
+* **newer housing stock** (lower deferred maintenance) 
+* strong “master-planned” positioning and inner-city convenience ([Canada Lands Company][9])
+
+**But**: it can behave like an “A neighborhood with B cashflow” depending on entry price and condo fees.
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+### Appreciation thesis (stronger than average)
+
+* **Redevelopment premium**: large-scale inner-city redevelopment tends to gain desirability as amenities fill in and construction risk fades. ([Canada Lands Company][9])
+* **Supply constraints**: inner-city land is limited; Currie is one of the bigger remaining master-planned infill sites.
+
+### Cashflow reality (often thinner)
+
+* Newer, higher-quality product usually means **higher acquisition costs**, so cap rates can be modest unless you find:
+
+  * a mispriced unit,
+  * a higher-rent niche (executive rentals), or
+  * a value-add angle (rare in new builds).
+
+---
+
+## 12) Average house prices
+
+Because Currie is a mixed product type, “average price” depends heavily on what you’re buying:
+
+* **MLS inventory reference:** REALTOR.ca shows listings starting around the low $200Ks (condos) and moving up from there. ([Realtor][10])
+* **Estimate-style snapshot:** HonestDoor shows an **average price estimate** around **$1.47M** (their model-based metric; treat as directional, not a comp). ([HonestDoor][11])
+
+**Best approach:** pull 6–12 months of sold comps by product type (condo vs row vs detached) before underwriting.
+
+---
+
+## 13) Strategies that work in Currie (most practical)
+
+### Strategy 1 — **“Quality long-term rental” (condos / townhomes)**
+
+* Target **2-bed condos** and **townhomes** near future retail nodes.
+* Underwrite condo fees carefully (fees can quietly kill cashflow).
+
+### Strategy 2 — **Executive / professional rentals**
+
+* Currie’s new-build finish + location can fit **corporate tenants**, medical/professional rotations, or higher-income renters.
+* Aim for **low vacancy + lower wear** rather than max rent.
+
+### Strategy 3 — **Land-use / density optionality (advanced)**
+
+* If you’re operating at a larger scale (small developer/investor), explore parcels where **DC/MU-1** or similar land-use rules allow **more units** or **mixed-use**. ([pub-calgary.escribemeetings.com][2])
+
+### Strategy 4 — **“Buy-now, benefit-later” (appreciation tilt)**
+
+* Works if you accept lower initial yield in exchange for:
+
+  * neighborhood maturation,
+  * amenity build-out,
+  * long-run desirability.
+
+---
+
+[1]: https://currielife.ca/commercial/?utm_source=chatgpt.com "Commercial | - Currie"
+[2]: https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=234522&utm_source=chatgpt.com "Land Use Amendment in Currie Barracks (Ward 8) at 4230 ..."
+[3]: https://www.calgary.ca/content/dam/www/pda/pd/documents/housing-changes/City-Regional-Planning%E2%80%93Building-Housing-Choice-H-GO-FINAL.pdf?utm_source=chatgpt.com "Housing – Grade-Oriented (H-GO):"
+[4]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones"
+[5]: https://www.calgary.ca/content/dam/www/ca/city-clerks/documents/election-and-information-services/census2016/2016-census-results-community-tables.pdf "2016 Census Results - Community Tables"
+[6]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[7]: https://www.rentfaster.ca/ab/calgary/community/currie-barracks/?utm_source=chatgpt.com "Currie Barracks Community Information - Calgary"
+[8]: https://www.rentfaster.ca/rent-report/?utm_source=chatgpt.com "Rent Report for Apartments & Houses in Canada"
+[9]: https://www.clc-sic.ca/real-estate/currie?utm_source=chatgpt.com "Currie"
+[10]: https://www.realtor.ca/ab/calgary/currie-barracks/real-estate?utm_source=chatgpt.com "Currie Barracks, Calgary Real Estate Listings"
+[11]: https://www.honestdoor.com/cities/ab/calgary/currie-barracks?utm_source=chatgpt.com "Currie Barracks Real Estate - Calgary"
+
+
 # Forest Lawn Industrial
 # Saddle Ridge Industrial
 # Sunridge
