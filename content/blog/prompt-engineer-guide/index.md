@@ -8,25 +8,29 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## **2. Introduction to Machine Learning Systems Design**
+  - expand in much more details with bold high-light quotes/phrases the above sections "3. Data Engineering Fundamentals
 
-* **Business and ML Objectives**
+Data Sources
 
-  * Aligning ML projects with business needs.
-* **Requirements for ML Systems**
+Where data comes from and how to handle it.
 
-  * **Reliability** – Ensuring robustness.
-  * **Scalability** – Handling growing workloads.
-  * **Maintainability** – Facilitating updates and debugging.
-  * **Adaptability** – Keeping up with changing data.
-* **Iterative Process**
+Data Formats
 
-  * Importance of an iterative approach in ML.
-* **Framing ML Problems**
+Structured vs. unstructured data.
 
-  * Different types of ML tasks.
-  * Choosing objective functions.
-  * The balance between human intuition and data-driven decision-making."
+Row-major vs. column-major storage.
+
+Data Models
+
+Relational databases vs. NoSQL.
+
+Data Storage and Processing
+
+Transactional vs. analytical processing.
+
+ETL pipelines (Extract, Transform, Load).
+
+Batch vs. streaming data processing."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
