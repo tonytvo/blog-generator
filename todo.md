@@ -25,6 +25,7 @@
 - write summary for extreme programming
 - write summary for learning how to learn
 - write summary for devops handbook
+- write summary for winning the loser's game (charles D. Ellis)
 - write summary for The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws + The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 - write summary for Hacking : The Art of Exploitation + The Hacker Playbook 3: Practical Guide To Penetration Testing
 - write summary for patterns of enterprise application architecture
