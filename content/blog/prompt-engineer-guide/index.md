@@ -8,29 +8,25 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "3. Data Engineering Fundamentals
+  - expand in much more details with bold high-light quotes/phrases the above sections "4. Training Data
 
-Data Sources
+Sampling Methods
 
-Where data comes from and how to handle it.
+Simple random, stratified, and weighted sampling.
 
-Data Formats
+Labeling Strategies
 
-Structured vs. unstructured data.
+Human-annotated vs. naturally occurring labels.
 
-Row-major vs. column-major storage.
+Dealing with label scarcity.
 
-Data Models
+Class Imbalance Handling
 
-Relational databases vs. NoSQL.
+Techniques to mitigate skewed datasets.
 
-Data Storage and Processing
+Data Augmentation
 
-Transactional vs. analytical processing.
-
-ETL pipelines (Extract, Transform, Load).
-
-Batch vs. streaming data processing."
+Transformations and synthetic data generation."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

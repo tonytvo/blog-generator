@@ -2440,7 +2440,7 @@ Even the best foundation model won’t succeed in a team that lacks:
 ---
 
 
-# **1. Overview of Machine Learning Systems**
+# **Overview of Machine Learning Systems**
 
 ## **A) When to Use Machine Learning**
 
@@ -3115,7 +3115,7 @@ Best designs:
 
 ---
 
-# **3. Data Engineering Fundamentals**
+# **Data Engineering Fundamentals**
 
 > **“In production ML, data engineering matters more than modeling.”**
 > Most ML failures are **data failures**, not algorithm failures.
