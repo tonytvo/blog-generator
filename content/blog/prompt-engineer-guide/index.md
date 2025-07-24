@@ -8,25 +8,20 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "4. Training Data
+  - expand in much more details with bold high-light quotes/phrases the above sections "## **5. Feature Engineering**
 
-Sampling Methods
+* **Learned vs. Engineered Features**
+* **Common Feature Engineering Operations**
 
-Simple random, stratified, and weighted sampling.
+  * Handling missing values.
+  * Scaling and normalization.
+  * Encoding categorical variables.
+* **Data Leakage Prevention**
 
-Labeling Strategies
+  * Common causes and detection techniques.
+* **Feature Importance and Generalization**
 
-Human-annotated vs. naturally occurring labels.
-
-Dealing with label scarcity.
-
-Class Imbalance Handling
-
-Techniques to mitigate skewed datasets.
-
-Data Augmentation
-
-Transformations and synthetic data generation."
+  * Understanding feature contribution."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

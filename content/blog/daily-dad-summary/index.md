@@ -40,8 +40,7 @@ cynically, they too will begin to cheat and lie.
 
 # They Learn from Home
 
-- Those kids buckled in behind you—they are absorbing your example and assimilating the lessons that will shape them in the smallest and biggest of ways. From the kind of driver they are going to be to the kind of person they
-are going to be. They are watching you as you go through the world. ***Right now***. They’re watching you break traffic laws, break promises. They hear you when you lie. They feel it when your actions don’t match your words.
+- Those kids buckled in behind you—they are absorbing your example and assimilating the lessons that will shape them in the smallest and biggest of ways. From the kind of driver they are going to be to the kind of person they are going to be. They are watching you as you go through the world. ***Right now***. They’re watching you break traffic laws, break promises. They hear you when you lie. They feel it when your actions don’t match your words.
 
 - Kids learn from home. They learn in the car. They learn from Mom and Dad. You set the standard, so be the standard.
 
