@@ -60,8 +60,7 @@ a model they have to strive toward. Let them see you with a book they can’t ye
 
 # Your Living Is the Teaching
 
-- If you want to teach your kids, it’s not  going to be with words. It’s not going to
-be with lectures. It’s going to be through showing them that you live according to the rules you set and the values you are trying to tell them are important.
+- If you want to teach your kids, it’s not  going to be with words. It’s not going to be with lectures. It’s going to be through showing them that you live according to the rules you set and the values you are trying to tell them are important.
 
 # We Can Be That Gift
 
