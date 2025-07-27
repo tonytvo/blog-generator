@@ -101,8 +101,7 @@ their goodness to dust?
 
 # Don’t Let Your Kids Down
 
-- How did Leonidas choose the three hundred warriors he would lead out to the Hot Gates to battle an overwhelming enemy? They were all “fathers of living sons,” according to  Plutarch. You might think it would have been the
-opposite, that parents would be allowed to sit out a potential suicide mission - but that’s not how it worked in Sparta. These warriors were chosen because parents would never want to let their kids down. These fathers would fight most bravely, most fiercely, not only to protect what they had back at home but to protect the reputations of their family names, which might be all their children had left if they were to fall in battle. To abandon their comrades or behave in a cowardly way would be to risk great shame and the possibility of letting down the family that so looked up to them.
+- How did Leonidas choose the three hundred warriors he would lead out to the Hot Gates to battle an overwhelming enemy? They were all “fathers of living sons,” according to  Plutarch. You might think it would have been the opposite, that parents would be allowed to sit out a potential suicide mission - but that’s not how it worked in Sparta. These warriors were chosen because parents would never want to let their kids down. These fathers would fight most bravely, most fiercely, not only to protect what they had back at home but to protect the reputations of their family names, which might be all their children had left if they were to fall in battle. To abandon their comrades or behave in a cowardly way would be to risk great shame and the possibility of letting down the family that so looked up to them.
 
 - Our kids are whom we should want to impress. They’re the ones we should never want to let down. They’re not only the ones we’re fighting for but also the ones whose standards - whose natural admiration and love - we should always be fighting to live up to.
 
