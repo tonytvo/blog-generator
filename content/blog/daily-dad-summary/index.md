@@ -113,8 +113,7 @@ their goodness to dust?
 
 - Not picky but particular. Not peculiar but particular. Be exacting. Get your facts straight. Do your job. Don’t let anyone or anything excuse you from it. Do it well.
 
-- These are wonderful reminders to give our kids... but as always, it’s much more important that *they see us living these lessons.* Show them the difference between picky and particular, between factual and fatuous,
-between compromise and *compromising your standards.*
+- These are wonderful reminders to give our kids... but as always, it’s much more important that *they see us living these lessons.* Show them the difference between picky and particular, between factual and fatuous, between compromise and *compromising your standards.*
 
 - Show them what responsibility looks like. Show them how to be careful and how to always be prepared. Because someday you won’t be here, and they will have kids of their own who will need to learn these very ***particular*** lessons from them.
 
