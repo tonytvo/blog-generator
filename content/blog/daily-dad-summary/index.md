@@ -119,8 +119,7 @@ their goodness to dust?
 
 # Where Did You See That?
 
-- Before you get mad, before you condemn their actions, just take them aside. Ask them, kindly and openly, a question that the bodybuilder Mark
-Bell says he always asks his teenage kids: “Hey, when have you seen me do that?”
+- Before you get mad, before you condemn their actions, just take them aside. Ask them, kindly and openly, a question that the bodybuilder Mark Bell says he always asks his teenage kids: “Hey, when have you seen me do that?”
 
 - This is a great question. Because it may well be that you have been inadvertently modeling behavior you find repugnant in others. And while
 that’s no excuse for bad behavior, it’s useful to know if we’ve been tacitly condoning the wrong things to our kids. But if you haven’t, then they have even ***less*** of an excuse.
