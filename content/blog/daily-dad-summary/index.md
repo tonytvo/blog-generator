@@ -121,13 +121,11 @@ their goodness to dust?
 
 - Before you get mad, before you condemn their actions, just take them aside. Ask them, kindly and openly, a question that the bodybuilder Mark Bell says he always asks his teenage kids: “Hey, when have you seen me do that?”
 
-- This is a great question. Because it may well be that you have been inadvertently modeling behavior you find repugnant in others. And while
-that’s no excuse for bad behavior, it’s useful to know if we’ve been tacitly condoning the wrong things to our kids. But if you haven’t, then they have even ***less*** of an excuse.
+- This is a great question. Because it may well be that you have been inadvertently modeling behavior you find repugnant in others. And while that’s no excuse for bad behavior, it’s useful to know if we’ve been tacitly condoning the wrong things to our kids. But if you haven’t, then they have even ***less*** of an excuse.
 
 # Do the Things You Want Them to Do
 
-- You have to be the kind of human being you
-want your children to be. You have to do the things you want your kids to do. “I find this with parents all the time,” he said. “They want their kids to do things that they don’t do themselves.” He wants his kids to be readers, so he makes sure they see him reading. He wants them to explore different hobbies and  interests, so he makes sure they see him practicing an instrument or tinkering in a sketchbook. He wants them to work hard and find work they care about, so he makes sure they see him working in his studio. He wants them to treat others with respect and kindness, so he makes sure they see him giving their mother something he made for her.
+- You have to be the kind of human being you want your children to be. You have to do the things you want your kids to do. “I find this with parents all the time,” he said. “They want their kids to do things that they don’t do themselves.” He wants his kids to be readers, so he makes sure they see him reading. He wants them to explore different hobbies and  interests, so he makes sure they see him practicing an instrument or tinkering in a sketchbook. He wants them to work hard and find work they care about, so he makes sure they see him working in his studio. He wants them to treat others with respect and kindness, so he makes sure they see him giving their mother something he made for her.
 
 - Who you are forms who they will be. So be who you want them to be. Do what you want them to do. It’s hard, but it’s the only way.
 
