@@ -142,15 +142,13 @@ their goodness to dust?
 - As the billionaire Charles Koch once explained of the main lesson he learned from his father’s very hands-on parenting: you can’t
 lecture your kids on anything you don’t live up to.
 
-- You can’t tell your kids to respect others and then talk rudely to a customer service representative on the phone. You can’t tell them that it’s important to find and follow their passion and meanwhile work their entire
-childhood at a job that pays well but makes you miserable. You can’t tell them that family is important if your actions don’t show it.
+- You can’t tell your kids to respect others and then talk rudely to a customer service representative on the phone. You can’t tell them that it’s important to find and follow their passion and meanwhile work their entire childhood at a job that pays well but makes you miserable. You can’t tell them that family is important if your actions don’t show it.
 
 - You can’t lecture your kids. You have to live up to the lessons you want them to learn.
 
 # When You Get Them to Listen...
 
-- We have to remember that as parents we are always planting seeds. A comment here, a book we have them read there. A documentary we watch
-together, an example we set, a person we introduce them to. When we get them to listen? When they really hear us? Wonderful things can grow out of that.
+- We have to remember that as parents we are always planting seeds. A comment here, a book we have them read there. A documentary we watch together, an example we set, a person we introduce them to. When we get them to listen? When they really hear us? Wonderful things can grow out of that.
 
 # How to Deter Them
 
