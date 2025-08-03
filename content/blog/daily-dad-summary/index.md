@@ -160,18 +160,15 @@ lecture your kids on anything you don’t live up to.
 
 # You Can Be a Parent Anywhere
 
-- As with teaching and leadership and  philosophy, so too with parenting. You can be a parent anywhere. You can be a parent every minute of every day to anybody and everybody. You can be that parent in the same way that
-Socrates taught—by example, by getting down to their level, by being open, and by adapting to the situation at hand.
+- As with teaching and leadership and  philosophy, so too with parenting. You can be a parent anywhere. You can be a parent every minute of every day to anybody and everybody. You can be that parent in the same way that Socrates taught—by example, by getting down to their level, by being open, and by adapting to the situation at hand.
 
 # Let ’Em See You Work
 
 - The problem? Well, where are your kids supposed to learn the importance of a work ethic? How are they supposed to know what a hardworking dad looks like if they never actually get to see it? How are they supposed to learn what work looks like at all?
 
-- That is also your job. To be the example. There is an old Latin expression: A bove maiori discit arare minor. “The younger ox learns to plow from the elder.” That’s because the oxen would be harnessed together. Not only would
-the kid get to see their mom or dad do what they did, but they’d be literally strapped into it together, to learn on the job.
+- That is also your job. To be the example. There is an old Latin expression: A bove maiori discit arare minor. “The younger ox learns to plow from the elder.” That’s because the oxen would be harnessed together. Not only would the kid get to see their mom or dad do what they did, but they’d be literally strapped into it together, to learn on the job.
 
-- Obviously good boundaries are important. Obviously you don’t want your work life to overwhelm or interfere with your home life. But make sure that striving for this balance doesn’t accidentally deprive your kids of an
-important example that will serve them  throughout their lives.
+- Obviously good boundaries are important. Obviously you don’t want your work life to overwhelm or interfere with your home life. But make sure that striving for this balance doesn’t accidentally deprive your kids of an important example that will serve them  throughout their lives.
 
 # Make Your Household First
 
