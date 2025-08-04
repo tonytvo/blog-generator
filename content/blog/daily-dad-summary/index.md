@@ -172,11 +172,9 @@ lecture your kids on anything you don’t live up to.
 
 # Make Your Household First
 
-- The point is: the place to apply your opinions about the way the world should work is first and foremost in the small world where you actually have some control. That is to say, at home. If you want to see a difference in the
-world, then model that change and make a difference at home. You’ve got plenty to work with, plenty to fix, plenty to improve. Start there.
+- The point is: the place to apply your opinions about the way the world should work is first and foremost in the small world where you actually have some control. That is to say, at home. If you want to see a difference in the world, then model that change and make a difference at home. You’ve got plenty to work with, plenty to fix, plenty to improve. Start there.
 
-- Show your kids that change is possible. Show them why your opinions matter, and how they can make theirs matter. Let them witness the real
-impact that comes from practicing what one preaches. Help them benefit from a focus on the practical instead of the theoretical, the actual instead of the hypothetical.
+- Show your kids that change is possible. Show them why your opinions matter, and how they can make theirs matter. Let them witness the real impact that comes from practicing what one preaches. Help them benefit from a focus on the practical instead of the theoretical, the actual instead of the hypothetical.
 
 - ***Start now.***
 
