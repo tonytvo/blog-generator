@@ -190,8 +190,7 @@ lecture your kids on anything you don’t live up to.
 
 - We never stop teaching our kids. And though what we are doing right now may not be resonating with them, it can teach them something in the future.
 
-- Keep doing what needs to be done. Embody what you want your kids to be. Keep growing. Keep being the example they can follow. Keep teaching
-them, implicitly and explicitly.
+- Keep doing what needs to be done. Embody what you want your kids to be. Keep growing. Keep being the example they can follow. Keep teaching them, implicitly and explicitly.
 
 # There Is No Substitute for Your Love
 
