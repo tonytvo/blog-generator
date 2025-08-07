@@ -266,8 +266,7 @@ awards can substitute for your love. That’s all they want.
 - You want your kids to really listen, to buy in. You want them around, you want them to come to you. You want them to respect your rules and embody your values. You want them to do what they’re supposed to do, the things that will make them successful.
 - *So how do you get them to do those things?*
 
-- Well, for most parents, the answer is to default to the easiest and most primal form of leadership: force. It’s got a simple logic to it. You make them do it - *because I’m bigger than you, because I can take away the TV remote,
-because I said so*. And it seems like it works... for a while. Perhaps you remember how this worked from your own childhood. Eventually, the strategy falls apart over time. In the end, it turns out to be counterproductive.
+- Well, for most parents, the answer is to default to the easiest and most primal form of leadership: force. It’s got a simple logic to it. You make them do it - *because I’m bigger than you, because I can take away the TV remote, because I said so*. And it seems like it works... for a while. Perhaps you remember how this worked from your own childhood. Eventually, the strategy falls apart over time. In the end, it turns out to be counterproductive.
 
 - Okay. Then listen to Lincoln. “Love is the chain whereby to bind a child to its parent.”
 
