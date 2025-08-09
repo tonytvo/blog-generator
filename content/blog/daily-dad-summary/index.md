@@ -272,13 +272,11 @@ awards can substitute for your love. That’s all they want.
 
 # When They Wander Back...
 
-- Your kids may never demand their share of the estate, but they will stray. They will act out. They will try to  establish their independence. They will get themselves into trouble. As parents, we have to accept that, and accept them
-all the same. We have to take them back. We have to give them what they need. And when they wander back, we have to make sure they’re always met not with reproach or “I told you so” but with affection and understanding.
+- Your kids may never demand their share of the estate, but they will stray. They will act out. They will try to  establish their independence. They will get themselves into trouble. As parents, we have to accept that, and accept them all the same. We have to take them back. We have to give them what they need. And when they wander back, we have to make sure they’re always met not with reproach or “I told you so” but with affection and understanding.
 
 # There’s a Reason You’re So Raw
 
-- You’re raw because having kids has opened you up. “I wasn’t emotionally prepared for parenthood,” the comedian and author Michael Ian Black writes, “after spending the thirty previous years in a cauterized emotional state.”
-Parenthood forces you to engage the world in a more active way. It forces you to engage with yourself and your own emotions in an active way. Was it easier to go through the world closed off and cynical? Is there something tribal and reassuring about focusing on yourself and your problems and placing the blame for those things elsewhere, on those other people?
+- You’re raw because having kids has opened you up. “I wasn’t emotionally prepared for parenthood,” the comedian and author Michael Ian Black writes, “after spending the thirty previous years in a cauterized emotional state.” Parenthood forces you to engage the world in a more active way. It forces you to engage with yourself and your own emotions in an active way. Was it easier to go through the world closed off and cynical? Is there something tribal and reassuring about focusing on yourself and your problems and placing the blame for those things elsewhere, on those other people?
 
 - Of course. But that’s less and less possible these days. This parenting thing has changed you. It’s made you see that it’s all connected, that we’re all connected. It’s made you better.
 
