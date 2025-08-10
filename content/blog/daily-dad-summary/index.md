@@ -278,8 +278,7 @@ all the same. We have to take them back. We have to give them what they need. An
 # There’s a Reason You’re So Raw
 
 - You’re raw because having kids has opened you up. “I wasn’t emotionally prepared for parenthood,” the comedian and author Michael Ian Black writes, “after spending the thirty previous years in a cauterized emotional state.”
-Parenthood forces you to engage the world in a more active way. It forces you to engage with yourself and your own emotions in an active way. Was it easier to go through the world closed off and cynical? Is there something tribal and reassuring about focusing on yourself and your problems and
-placing the blame for those things elsewhere, on those other people?
+Parenthood forces you to engage the world in a more active way. It forces you to engage with yourself and your own emotions in an active way. Was it easier to go through the world closed off and cynical? Is there something tribal and reassuring about focusing on yourself and your problems and placing the blame for those things elsewhere, on those other people?
 
 - Of course. But that’s less and less possible these days. This parenting thing has changed you. It’s made you see that it’s all connected, that we’re all connected. It’s made you better.
 
