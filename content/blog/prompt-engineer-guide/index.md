@@ -8,20 +8,22 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## **5. Feature Engineering**
+  - expand in much more details with bold high-light quotes/phrases the above sections "## **6. Model Development and Offline Evaluation**
 
-* **Learned vs. Engineered Features**
-* **Common Feature Engineering Operations**
+* **Model Training & Development**
+* **Evaluating ML Models**
 
-  * Handling missing values.
-  * Scaling and normalization.
-  * Encoding categorical variables.
-* **Data Leakage Prevention**
+  * Offline evaluation metrics and techniques.
+* **Ensemble Methods**
 
-  * Common causes and detection techniques.
-* **Feature Importance and Generalization**
+  * Combining multiple models for better performance.
+* **Experiment Tracking & Versioning**
+* **Distributed Training**
 
-  * Understanding feature contribution."
+  * Scaling ML model training.
+* **AutoML**
+
+  * Automating model selection and hyperparameter tuning."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

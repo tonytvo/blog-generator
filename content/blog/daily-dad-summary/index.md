@@ -292,9 +292,7 @@ awards can substitute for your love. That’s all they want.
 
 - The good news is that there are some things you can always give them that, when others try to offer them to your kids, will never measure up to yours. These are things that are always possible to give, always within your reach: your attention, your understanding, and your love.
 
-- No matter what happens, no matter how rich or poor you are, no matter what mistakes you make or they make, no matter how powerful or powerless you are, you can always give them those things. In fact, you must always give
-them. Because, in the end, those are more important than all the other things you can and will do for them. Love and understanding, especially, are the only things that truly matter, because they last even beyond your death. Their
-impact is going to be one of the primary forces that shape the adult your child becomes.
+- No matter what happens, no matter how rich or poor you are, no matter what mistakes you make or they make, no matter how powerful or powerless you are, you can always give them those things. In fact, you must always give them. Because, in the end, those are more important than all the other things you can and will do for them. Love and understanding, especially, are the only things that truly matter, because they last even beyond your death. Their impact is going to be one of the primary forces that shape the adult your child becomes.
 
 - And if you think about it, the only thing they’ll truly (and rightfully) resent you for, all else being equal, is if you know these things are true and still you fail to provide them.
 
