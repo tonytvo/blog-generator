@@ -321,8 +321,7 @@ to come from than us?
 
 - Of course parent knew! A parent always does! But she didn’t say a word. She just did what she needed to do, caring not only about her son’s well-being but also for his feelings and his pride.
 
-- When our kids need help, our only job is to provide it. To *help*, not *lecture*. To be of service, never to humiliate. This is how you create the kind of relationship Floyd and his mother had—the kind where your kids know
-they can always come home for help at any time, day or night.
+- When our kids need help, our only job is to provide it. To *help*, not *lecture*. To be of service, never to humiliate. This is how you create the kind of relationship Floyd and his mother had—the kind where your kids know they can always come home for help at any time, day or night.
 
 # How to Convince Them
 
