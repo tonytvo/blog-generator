@@ -325,18 +325,15 @@ to come from than us?
 
 # How to Convince Them
 
-- Our kids are going to do stuff we disagree with, but very rarely - especially as they get older—will we be able to convince them of this by force or fiat. We have to be understanding. We have to be patient... maybe
-even a little bit sneaky. We have to give them advice and the tools to make sense of that advice, because ultimately they are the ones who have to figure out the right decision for themselves. And we have to make sure they know that no matter what they decide, we love them.
+- Our kids are going to do stuff we disagree with, but very rarely - especially as they get older—will we be able to convince them of this by force or fiat. We have to be understanding. We have to be patient... maybe even a little bit sneaky. We have to give them advice and the tools to make sense of that advice, because ultimately they are the ones who have to figure out the right decision for themselves. And we have to make sure they know that no matter what they decide, we love them.
 
 # Assume the Best
 
-- So here’s a question: When they screw up, when they fail a test, when they crash their car, when they get in trouble, when they talk back to you, why do you assume the worst? Why do you treat them with anger and judgment? Why do you jump all over them with criticism or frustration or
-suspicion?
+- So here’s a question: When they screw up, when they fail a test, when they crash their car, when they get in trouble, when they talk back to you, why do you assume the worst? Why do you treat them with anger and judgment? Why do you jump all over them with criticism or frustration or suspicion?
 
 - You know they are good and decent. You know they generally do their best. You know what they struggle with. You know their fears and vulnerabilities and weaknesses. You know what they’ve been through (deep down, you know one of the things they’ve been through is being raised by you!).
 
-- So why isn’t that being reflected in your tone? In your assumptions? Where is the kindness? Where is the good faith? Why aren’t you talking to them like someone who believes in them, who is a fan of them? Where is the
-patience? Where is the charity? Where is the demonstrable unconditionalness that you purport to have for them?
+- So why isn’t that being reflected in your tone? In your assumptions? Where is the kindness? Where is the good faith? Why aren’t you talking to them like someone who believes in them, who is a fan of them? Where is the patience? Where is the charity? Where is the demonstrable unconditionalness that you purport to have for them?
 
 - Mm-hm. That’s right. Oh, and remember, all this could be said about your interactions with your spouse too.
 
