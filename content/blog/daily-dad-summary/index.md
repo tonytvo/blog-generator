@@ -351,8 +351,7 @@ to come from than us?
 
 # Always Be Their Friend
 
-- This wonderful public moment about a private struggle, shared in honor of a personal mentor, speaks to the heart of what every child needs to hear from their parents, no matter what they’re going through: There are going to be
-things in your life that are very hard. But you’re not alone. I’ll always be your friend.
+- This wonderful public moment about a private struggle, shared in honor of a personal mentor, speaks to the heart of what every child needs to hear from their parents, no matter what they’re going through: There are going to be things in your life that are very hard. But you’re not alone. I’ll always be your friend.
 
 # Tell Them They Carry This Everywhere
 
