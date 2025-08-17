@@ -381,13 +381,11 @@ to come from than us?
 
 - No, you’re going to hit them with those words we can’t say often enough: *I love you.*
 
-- That it catches our kids by surprise when we tell them we love them? That we only want to put our feelings about them out there in the open, just so they know, and they’re confused by it? That’s our fault, not theirs. It says
-something about us, not them. And it’s something we, not they, have to fix.
+- That it catches our kids by surprise when we tell them we love them? That we only want to put our feelings about them out there in the open, just so they know, and they’re confused by it? That’s our fault, not theirs. It says something about us, not them. And it’s something we, not they, have to fix.
 
 # This Is What You’ll Wish
 
-- Let us hope that we never have to experience such a loss. No parent should ever have to bury a child. But still, let’s try to think about the end of our own time here on Earth. What will we think then? When we are reflecting
-on our lives, what will we wish for? We’ll wish we had loved them more. Even if we told them a thousand times in a thousand ways every single day, we’ll think about how woefully short we came up in expressing just how much our kids mean to us.
+- Let us hope that we never have to experience such a loss. No parent should ever have to bury a child. But still, let’s try to think about the end of our own time here on Earth. What will we think then? When we are reflecting on our lives, what will we wish for? We’ll wish we had loved them more. Even if we told them a thousand times in a thousand ways every single day, we’ll think about how woefully short we came up in expressing just how much our kids mean to us.
 
 - So let us try, right now, while we still can, to love them more.
 
