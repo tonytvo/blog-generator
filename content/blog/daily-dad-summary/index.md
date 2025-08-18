@@ -440,11 +440,9 @@ can’t despair.
 
 # When Is Their Time?
 
-- Of course you’re busy. You have work. You have your spouse. You have your kids. You have all the obligations of adulthood. All these things are
-important. How do you fit it all in?
+- Of course you’re busy. You have work. You have your spouse. You have your kids. You have all the obligations of adulthood. All these things are important. How do you fit it all in?
 
-- The truth is, if you’re winging it every day, you won’t get it all in. Something will fall by the wayside, and too often, it’s the time with our kids that is the first to go. Because we can turn on the TV. Because we can strap
-them in the car seat and bring them along on errands. Because we can tell them, “Sorry, kiddo. I’m busy right now.”
+- The truth is, if you’re winging it every day, you won’t get it all in. Something will fall by the wayside, and too often, it’s the time with our kids that is the first to go. Because we can turn on the TV. Because we can strap them in the car seat and bring them along on errands. Because we can tell them, “Sorry, kiddo. I’m busy right now.”
 
 - This is why it can be a good idea to have very specific, scheduled time. So you can be sure that they have their time. Nonnegotiable time. Just as you do with work or anything else that matters to you.
 
