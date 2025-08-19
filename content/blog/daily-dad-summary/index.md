@@ -446,15 +446,11 @@ can’t despair.
 
 - This is why it can be a good idea to have very specific, scheduled time. So you can be sure that they have their time. Nonnegotiable time. Just as you do with work or anything else that matters to you.
 
-- What does it say about us as parents if all we give them is the leftover time? Nothing good. They are the priority. Remember that the next time you
-put another new obligation on your calendar.
+- What does it say about us as parents if all we give them is the leftover time? Nothing good. They are the priority. Remember that the next time you put another new obligation on your calendar.
 
 # This Is What Putting Them First Looks Like
 
-- Would anyone back then have noticed two more
-seasons with the Vikings? Would anyone now have bothered to remember them? Maybe. Maybe not. You know who definitely noticed? You know who
-definitely remembers? Eli. And he benefited unquestionably and immeasurably from his father’s choice. He has a happy family and two Super
-Bowl victories to show for it.
+- Would anyone back then have noticed two more seasons with the Vikings? Would anyone now have bothered to remember them? Maybe. Maybe not. You know who definitely noticed? You know who definitely remembers? Eli. And he benefited unquestionably and immeasurably from his father’s choice. He has a happy family and two Super Bowl victories to show for it.
 
 - What could it look like if you put your family first? If you really put them ahead of everything else? You can’t be sure exactly until you do it, but you can be certain that it will feel great.
 
