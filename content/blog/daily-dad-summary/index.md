@@ -428,8 +428,7 @@ can’t despair.
 
 - Charles de Gaulle helped save France. Then he ran it. Yet even at the height of his power, he tried to always remind himself, “The presidency is temporary, family is permanent.” Accordingly, he put up boundaries between his personal and professional lives. He carved out private time. He refused to neglect the children who depended on him so much, particularly his mentally disabled daughter, Anne.
 
-- We can’t ever let ourselves forget: we may be very important to the world, but to a small group of people to whom we are related, we are the whole
-world. Nothing matters more than family, and  nothing is more permanent... until it isn’t. You can lose family. You can break your family. You can drive your family away. And then it is their loss that becomes permanent.
+- We can’t ever let ourselves forget: we may be very important to the world, but to a small group of people to whom we are related, we are the whole world. Nothing matters more than family, and  nothing is more permanent... until it isn’t. You can lose family. You can break your family. You can drive your family away. And then it is their loss that becomes permanent.
 
 - By all means, pursue your success. Realize your ambition. Just make sure it’s not coming at the expense of what actually matters.
 
