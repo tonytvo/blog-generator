@@ -458,14 +458,11 @@ can’t despair.
 
 - *Each day of our lives we make deposits into the memory banks of our children.* - CHARLES R. SWINDOLL
 
-- Think of your own childhood. What do you remember? Is it those big moments? You know, the planned ones. The ones on the calendar. Is it
-exclusively Christmas mornings? The annual spring break vacations? The Fourth of July barbecue?
+- Think of your own childhood. What do you remember? Is it those big moments? You know, the planned ones. The ones on the calendar. Is it exclusively Christmas mornings? The annual spring break vacations? The Fourth of July barbecue?
 
 - Or are your memories much more mundane? 
 
-- What we remember about growing up are the little moments. We remember sitting in the passenger seat next to Dad on a long drive. We remember going for pizza after tennis practice. We remember waking up
-from a nap and coming downstairs and watching a football game. We remember that little piece of advice. We remember thinking they were going
-to be mad at us for something and getting a hug instead.
+- What we remember about growing up are the little moments. We remember sitting in the passenger seat next to Dad on a long drive. We remember going for pizza after tennis practice. We remember waking up from a nap and coming downstairs and watching a football game. We remember that little piece of advice. We remember thinking they were going to be mad at us for something and getting a hug instead.
 
 - Similarly, the wounds that we feel often come from other small moments. The feeling of being ignored. Getting yelled at for leaving our shoes in the living room. The time that Mom didn’t stand up for us. The unspoken tension in the living room between our parents.
 
