@@ -3937,8 +3937,196 @@ AutoML automates:
 
 ---
 
+# **Model Deployment and Prediction Services**
+
+> **"Deploying a model is not the end—it's the beginning of the most complex stage of its lifecycle."**
+
+Chip Huyen emphasizes that deployment is **not just pushing a model into production**, but about designing systems that work **continuously, reliably, and efficiently** in real-world environments.
+
+---
+
+## 🧨 **Machine Learning Deployment Myths**
+
+> **“Most ML projects fail not because of bad models, but due to broken deployment processes.”**
+
+### 🔍 Common Misconceptions:
+
+1. **Myth: If the model works offline, it will work in production.**
+
+   * In reality, production environments introduce **latency constraints**, **unexpected data distributions**, and **infrastructure dependencies** that offline testing doesn’t reveal.
+
+2. **Myth: Deployment is a one-time task.**
+
+   * Unlike traditional software, ML models **decay over time** due to **data drift** and changing user behavior. Ongoing **monitoring and retraining** are essential.
+
+3. **Myth: Deployment is only about inference.**
+
+   * Full ML deployment involves:
+
+     * **Feature pipelines**
+     * **Versioned data inputs**
+     * **Model serving infrastructure**
+     * **Logging, monitoring, A/B testing, and rollback mechanisms**
+
+4. **Myth: One deployment fits all.**
+
+   * The right deployment strategy depends on **latency**, **scalability**, **privacy**, and **hardware constraints**.
+
+> **"Treat your ML model like a software service—with CI/CD, monitoring, and rollback."**
+
+---
+
+## ⚖️ **Batch vs. Online Prediction**
+
+> **"Choose the right inference mode for your product goals."**
+
+### 🌀 **Batch Prediction**
+
+* Predictions are **precomputed** on large datasets and stored for later use.
+* Best when:
+
+  * **Low latency is not required** (e.g., nightly recommendations).
+  * Input data is available in bulk.
+
+✅ *Examples*:
+
+* Email spam scoring every night.
+* Daily customer churn risk ranking.
+
+**Pros**:
+
+* Easier to scale.
+* Easier to test and debug.
+
+**Cons**:
+
+* Not reactive to real-time inputs.
+* Higher storage costs (storing all predictions).
+
+---
+
+### ⚡ **Online (Real-time) Prediction**
+
+* Predictions happen **on-demand** via an API.
+* Needed for:
+
+  * Real-time applications (e.g., fraud detection, personalization).
+  * Systems that depend on **live user context**.
+
+✅ *Examples*:
+
+* Re-ranking news feeds after every click.
+* Real-time translation, speech recognition.
+
+**Pros**:
+
+* Dynamic, personalized experience.
+* Low data staleness.
+
+**Cons**:
+
+* Requires **low-latency, high-availability systems**.
+* Harder to monitor, cache, and troubleshoot.
+
+> **"Many systems combine both modes—for example, precomputing embeddings offline and applying final ranking online."**
+
+---
+
+## 🧳 **Model Compression Techniques**
+
+> **“Production-ready models must be small, fast, and cheap to serve.”**
+
+Compression is essential when deploying on:
+
+* **Mobile devices**
+* **Embedded systems**
+* **Latency-critical services**
+
+### 🧱 Key Techniques:
+
+1. **Low-Rank Factorization**
+
+   * Decompose large weight matrices (e.g., in fully connected layers) into smaller matrices.
+   * Reduces parameters and speeds up inference.
+
+2. **Pruning**
+
+   * Remove unnecessary weights or neurons from the model.
+   * Can be **structured** (entire channels) or **unstructured** (individual weights).
+
+✅ *Example*: Prune 50% of low-magnitude weights in a CNN.
+
+3. **Quantization**
+
+   * Convert weights and activations from 32-bit floats to 16-bit or 8-bit integers.
+   * Often used in **TensorFlow Lite** and **ONNX runtime**.
+
+**Impact**:
+
+* Reduces **model size**, **memory usage**, and **power consumption**.
+* Slight performance drop, but **acceptable tradeoff** in many cases.
+
+> **“Compression is not optional on edge devices—it’s a necessity.”**
+
+---
+
+## ☁️📱 **ML in Cloud and Edge Computing**
+
+> **“Where you deploy your model depends on where and how it’s used.”**
+
+### ☁️ **Cloud Deployment**
+
+* Models are hosted on servers (e.g., AWS, GCP, Azure).
+* Used for:
+
+  * High-volume batch processing.
+  * Heavy online inference.
+  * Training at scale.
+
+✅ *Services*:
+
+* AWS SageMaker, Google Vertex AI, Azure ML, Lambda.
+
+**Pros**:
+
+* Scalable, maintainable.
+* Easy to update and monitor.
+
+**Cons**:
+
+* Requires internet connection.
+* Higher latency for user-facing apps.
+
+---
+
+### 📱 **Edge Deployment**
+
+* Models are deployed on **devices near the user**:
+
+  * Phones, IoT devices, cars, drones, smartwatches.
+* Often used for **privacy**, **offline capability**, and **real-time inference**.
+
+✅ *Examples*:
+
+* Keyboard autocorrect.
+* On-device face recognition (e.g., Face ID).
+
+**Frameworks**:
+
+* TensorFlow Lite, CoreML (iOS), ONNX, NVIDIA TensorRT.
+
+> **“Edge ML brings intelligence to the user, not the server.”**
+
+---
+
+
 # Quotes
 
+* **“Deployment is continuous, not a one-time handoff.”**
+* **“Offline performance doesn’t guarantee production reliability.”**
+* **“Batch vs. online prediction is a tradeoff between speed and scalability.”**
+* **“Compression makes ML portable and efficient.”**
+* **“Cloud offers power and scale; edge offers speed and privacy.”**
 * **“Feature engineering is not just technical—it’s strategic.”**
 * **“Hand-crafted features encode domain expertise; learned features scale with data.”**
 * **“Handling missing values, scaling, and encoding should follow careful validation discipline.”**
