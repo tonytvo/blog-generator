@@ -490,19 +490,16 @@ can’t despair.
 
 - As an adult, you did what you wanted. Things operated on normal timelines. You made decisions and commitments and that was it. The world was logical and in your control. But now and for the rest of your life, reality is different. What time are you going to get to the party? When your daughter wakes up from her nap, that’s when. They’re sick with the flu? You’re sick with the flu. They feel like having a tough morning or are reeling from teenage hormones? Looks like you are too! Unavoidable reality means that you’re not in control. It means you’re going to sit and play in the sandbox for the next ninety minutes because God knows you’re not going to risk a tantrum. Unavoidable reality is weekends of soccer games and evenings of school plays and carpooling and school pickups. It means you can’t just skip dinner or grab something on the go—life doesn’t work that way anymore.
 
-- That’s who you are now. That is the unavoidable reality. And guess what?
-It’s wonderful. Get used to it.
+- That’s who you are now. That is the unavoidable reality. And guess what? It’s wonderful. Get used to it.
 
 # It’s About Being There... a Lot
 
 - how do you get through to your kids? How do you show them what’s right? How can you make sure they know how much you care about them?
 
-- The answer is simple: you can be there. A lot. There is a joke that the word love is actually spelled T-I-M-E. It’s true. Your kids won’t have to
-wonder, they won’t need to ask—you, or your  partner, or other people - how you feel about them if you are constantly there to show them. *If you have prioritized your time with them over everything else.* Being there also alleviates the pressure to “find the words” in those trying moments, because you’ve been having an ongoing, regular conversation with your kids the
+- The answer is simple: you can be there. A lot. There is a joke that the word love is actually spelled T-I-M-E. It’s true. Your kids won’t have to wonder, they won’t need to ask—you, or your  partner, or other people - how you feel about them if you are constantly there to show them. *If you have prioritized your time with them over everything else.* Being there also alleviates the pressure to “find the words” in those trying moments, because you’ve been having an ongoing, regular conversation with your kids the
 whole time. *The words are there.*
 
-- But being a great parent is not just about those pivotal moments. It’s not just providing for them or getting them into a great school so they can get
-ahead in life. It is mainly, and mostly, the day-to-day T-I-M-E. It’s the modeling, each day, of what being a good person looks like. It’s the showing, each time you see them, that you care, that they’re important, that they are
+- But being a great parent is not just about those pivotal moments. It’s not just providing for them or getting them into a great school so they can get ahead in life. It is mainly, and mostly, the day-to-day T-I-M-E. It’s the modeling, each day, of what being a good person looks like. It’s the showing, each time you see them, that you care, that they’re important, that they are
 loved.
 
 - It’s about being there. A lot.
@@ -513,8 +510,7 @@ loved.
 
 # Don’t Let Them Steal from Your Family
 
-- Kobe replied the requests to be on the news:
-“Can’t right now. My girls are keeping me busy. Hit me up in a couple of weeks.”
+- Kobe replied the requests to be on the news: “Can’t right now. My girls are keeping me busy. Hit me up in a couple of weeks.”
 
 - Do you have the discipline to send a message like that? How strong are you at putting your family first? How good are your defenses against the endless requests, opportunities, impositions, and obligations that come with your work in particular and with life in general? It’s so easy to let people steal your time, to let them take you away from the thing that is keeping you busy: your kids, your family.
 
