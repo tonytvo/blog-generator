@@ -422,8 +422,7 @@ can’t despair.
 
 - If you’re as committed to the work as you are to a happy home, you will have no room for anything else.
 
-- It’d be wonderful if you could have the run of all these things all the time... but you can’t. Being a parent is about making trade-offs, from the
-very second our kids enter this world: it’s their needs versus our wants. At first, it can be a shock to the system. But once we know what to say no to, and we know why, we can say yes with comfort and confidence to the things that matter. To the things that last.
+- It’d be wonderful if you could have the run of all these things all the time... but you can’t. Being a parent is about making trade-offs, from the very second our kids enter this world: it’s their needs versus our wants. At first, it can be a shock to the system. But once we know what to say no to, and we know why, we can say yes with comfort and confidence to the things that matter. To the things that last.
 
 # Everything but This Is Temporary
 
