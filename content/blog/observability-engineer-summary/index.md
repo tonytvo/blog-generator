@@ -6334,3 +6334,4 @@ Escalation ensures that complex or unresolved issues are quickly handed off to t
 # References
 - https://github.com/keyvanakbary/learning-notes/blob/master/books/distributed-systems-observability.md
 - https://github.com/LauraBeatris/observability-notebook/
+- https://www.amazon.ca/Practical-Monitoring-Effective-Strategies-World-ebook/dp/B076XZWQVW
