@@ -6306,7 +6306,7 @@ Escalation ensures that complex or unresolved issues are quickly handed off to t
    - If an issue persists beyond 30 minutes or requires additional permissions, escalate to the service owner.
 
 3. **Escalation Contact:**  
-   - John Doe (`john.doe@demoapp.com`) or phone: **123-456-7890**.
+   - John Doe or phone: **123-456-7890**.
 
 **Best Practice:**  
 - Include clear, up-to-date escalation paths in the runbook to avoid delays during incidents.
