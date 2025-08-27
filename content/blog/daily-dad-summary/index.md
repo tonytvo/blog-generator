@@ -525,8 +525,7 @@ benign aristocratic hands-off style the British were known for. But still, it be
 
 # Their Needs Are So Modest
 
-- We think we’re so important. We think our
-work is so important. In fact, that’s what we tell ourselves - that we work those long hours to make the money to provide them a certain kind of life. In fact, our kids’ needs are so humble. Mostly what they want is us. And beyond that? They’re pretty content with snacks. The occasional video game. A sprinkler to play in. Some magnet you picked up at the airport on the way home from a business trip. A parent who doesn’t yell at them all the time. They’re pretty easily impressed. Their needs are small.
+- We think we’re so important. We think our work is so important. In fact, that’s what we tell ourselves - that we work those long hours to make the money to provide them a certain kind of life. In fact, our kids’ needs are so humble. Mostly what they want is us. And beyond that? They’re pretty content with snacks. The occasional video game. A sprinkler to play in. Some magnet you picked up at the airport on the way home from a business trip. A parent who doesn’t yell at them all the time. They’re pretty easily impressed. Their needs are small.
 
 # It’s Not Possible without Struggle
 
