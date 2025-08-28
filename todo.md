@@ -31,6 +31,7 @@
 - write summary for fundamentals of software architecture + building evolutionary architectures
 - write summary for AI Engineering: Building Applications with Foundation Models + Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
 - write summary for Software Telemetry: Reliable logging and monitoring + Logging in Action: With Fluentd, Kubernetes and more
+- write summary for Adventure Capitalist: The Ultimate Road Trip + Vagabonding: An Uncommon Guide to the Art of Long-Term World Trave
 - write tests for this site
 
 # wip
