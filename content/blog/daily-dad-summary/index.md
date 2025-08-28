@@ -535,19 +535,15 @@ benign aristocratic hands-off style the British were known for. But still, it be
 
 # You’ll Never Regret Playing with Your Kids
 
-- even if you’ve just put on your work clothes. Even if you’re already late. Even if the pool is freezing. Even if they’ve been getting in trouble
-lately or been difficult to deal with. Even if you’ve got the weight of the world on your shoulders. You will never regret choosing to stop whatever it is you were doing, or were about to do, to play with your kids. You will never regret jumping in the water with them, picking up the video game controller with them, spending a few minutes with them, letting Saturday actually be a
-Saturday with family.
+- even if you’ve just put on your work clothes. Even if you’re already late. Even if the pool is freezing. Even if they’ve been getting in trouble lately or been difficult to deal with. Even if you’ve got the weight of the world on your shoulders. You will never regret choosing to stop whatever it is you were doing, or were about to do, to play with your kids. You will never regret jumping in the water with them, picking up the video game controller with them, spending a few minutes with them, letting Saturday actually be a Saturday with family.
 
-- You will always be glad you took the time. Because none of us know how much of it we’re going to get. There is no message more important to send
-than the one that says, “There is nothing more important to me than you.” As busy as you are, as much as you’re dealing with, there has never been a mind that was not improved or refreshed by temporarily entering the world of a child.
+- You will always be glad you took the time. Because none of us know how much of it we’re going to get. There is no message more important to send than the one that says, “There is nothing more important to me than you.” As busy as you are, as much as you’re dealing with, there has never been a mind that was not improved or refreshed by temporarily entering the world of a child.
 
 - But of course, you will regret letting too many of these opportunities pass you by. In fact, you know that you already do... because you already have.
 
 # This Is the Real Dad Tax
 
-- Putting your family first isn’t just a matter of your schedule. The author Simon Sinek famously wrote that “leaders eat last.” So should dads, because the inherent, unquestionable  responsibility that you assumed the minute you
-brought a child into the world was that they come first. They get the bulk of what’s available. They don’t get the biggest pork chop; they get as many pork chops as they need. They get to experience the fun and the sweetness of life. If there are any leftovers, even if it’s just the scraps, then maybe you get a taste.
+- Putting your family first isn’t just a matter of your schedule. The author Simon Sinek famously wrote that “leaders eat last.” So should dads, because the inherent, unquestionable  responsibility that you assumed the minute you brought a child into the world was that they come first. They get the bulk of what’s available. They don’t get the biggest pork chop; they get as many pork chops as they need. They get to experience the fun and the sweetness of life. If there are any leftovers, even if it’s just the scraps, then maybe you get a taste.
 
 # Don’t Do This to Them
 
