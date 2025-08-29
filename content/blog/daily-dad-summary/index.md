@@ -547,15 +547,13 @@ benign aristocratic hands-off style the British were known for. But still, it be
 
 # Don’t Do This to Them
 
-- All of us do this in some form or another. “It’ll just be a minute,” we tell them as we run an errand. “Let me finish this quick phone call,” we say, shushing them over and over again while they beg to play with us outside. “Dinner will be ready soon,” we say, knowing it will be much longer than that. “I’ll be home before it gets dark, I promise,” we say, as if traffic could
-not delay us. Or, like Merkel’s father, our trips and travels get extended and we miss things... or keep them up waiting.
+- All of us do this in some form or another. “It’ll just be a minute,” we tell them as we run an errand. “Let me finish this quick phone call,” we say, shushing them over and over again while they beg to play with us outside. “Dinner will be ready soon,” we say, knowing it will be much longer than that. “I’ll be home before it gets dark, I promise,” we say, as if traffic could not delay us. Or, like Merkel’s father, our trips and travels get extended and we miss things... or keep them up waiting.
 
 - While none of us fully control our time or our schedule, we do control how we communicate with our children—we control how we give our word and how we keep it. And it’s essential that we take that seriously. Our kids shouldn’t just be expected to deal with it. They should be communicated to and informed with respect. They deserve an explanation for the things that keep us away from them, that keep them away from the things that it is our adult responsibility to provide. It’s a matter of duty, to be sure, but more important, it’s a matter of trust.
 
 # They’re Going to Ask You Only So Many Times
 
-- Not because you only get a certain number of summers and car rides and moments with your kids - though that is true. They’re going to ask you only
-so many times because at some point they’re going to get the message.
+- Not because you only get a certain number of summers and car rides and moments with your kids - though that is true. They’re going to ask you only so many times because at some point they’re going to get the message.
 
 - Dad is too busy; he isn’t any fun anymore. Mom judges; she isn’t actually a good person to ask.
 
