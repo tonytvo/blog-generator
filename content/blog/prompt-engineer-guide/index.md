@@ -31,6 +31,23 @@ you're an expert in realestate investing, give me detailed outline on the Westla
 - what real estate investment strategies could work for this neighborhood?
 ```
 
+- **complete Dept Snapshot**
+  - Here’s all my debt: [type, balance, interest rate]. Organize by urgency, interest, and balance to create a clear payoff roadmap.
+  - Here’s my monthly income and all expenses: [list]. Identify at least 3 areas to cut or optimize without lowering quality of life
+  - Based on the debt list, create a monthly payment plan using snowball or avalanche method, including exact amounts and milestones.
+  - Create a visual debt reduction tracker I can fill weekly. Include milestones, reward checkpoints, and motivational prompts for consistent progress.
+  - Build a monthly checklist to update debts, review progress, adjust payments, and reallocate extra funds toward faster debt payoff.
+
+- **streaming setup**
+  - Act as a media organizer. Create a full system where I can access free, legal movie libraries online
+  - Find the top 10 open-source platforms that stream free films & series — categorize them by quality.
+  - Design a step-by-step guide to connect these platforms into one hub for easy access.
+  - Suggest browser extensions or apps to centralize all free movie sources.
+  - Make my setup ad-free using only safe & legal methods.
+  - Generate a daily list of trending free movies I can watch tonight.
+  - Act as a personal movie concierge — recommend titles based on my past viewing taste.
+
+
 # Quotes
 
 
