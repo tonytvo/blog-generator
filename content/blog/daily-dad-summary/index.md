@@ -569,26 +569,21 @@ benign aristocratic hands-off style the British were known for. But still, it be
 
 - What kids actually want is you. What kids actually need is you. As Dear Abby quite brilliantly put it in a column back in the 1950s, “If you want your children to turn out well, spend twice as much time with them, and half as much money.”
 
-- You can’t pay someone to be there for your kids. You can’t pay someone to do the job only you can do. Sure, money can make things easier; it can buy
-childcare and tutors. But it will never be as important as what you can provide by being hands on, by being a good example, by showing them you
-care for them and value them.
+- You can’t pay someone to be there for your kids. You can’t pay someone to do the job only you can do. Sure, money can make things easier; it can buy childcare and tutors. But it will never be as important as what you can provide by being hands on, by being a good example, by showing them you care for them and value them.
 
 - The proof of this? Just think about how many great people turned out just fine without much money at all.
 
 # They Are Your Work
 
-- Our job is to raise great kids. Or, more precisely, our job is to raise great adults. The time we spend with our kids—whether it’s homeschooling or watching a TV show on the couch—is not a distraction from our work. It is
-the work. Really important work.
+- Our job is to raise great kids. Or, more precisely, our job is to raise great adults. The time we spend with our kids—whether it’s homeschooling or watching a TV show on the couch—is not a distraction from our work. It is the work. Really important work.
 
 - Who could really view their life as successful if they were famous but their kids were  struggling? Who would be truly happy accepting a Nobel Prize knowing that they had failed as a parent? What good would a billion dollars be if all the money in the world can’t convince your kids to come home for the holidays?
 
-- That’s why kids can never “take away” from our careers or “hold us back.” It’s not possible for them to interrupt our work... because they are
-our work.
+- That’s why kids can never “take away” from our careers or “hold us back.” It’s not possible for them to interrupt our work... because they are our work.
 
 # You Are the Exalted Creator
 
-- That feeling, the one you felt the first day you held your children. The feeling when they run into your arms and call you Daddy, or when they come
-into your room to ask for advice, or when you sit across the table from them and watch them eat. That feeling—the pride, the love, the connection - this is the feeling to carry with you.
+- That feeling, the one you felt the first day you held your children. The feeling when they run into your arms and call you Daddy, or when they come into your room to ask for advice, or when you sit across the table from them and watch them eat. That feeling—the pride, the love, the connection - this is the feeling to carry with you.
 
 - You made that. You are the exalted creator of that. Parent in a way that proves it.
 
