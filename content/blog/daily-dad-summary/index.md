@@ -605,11 +605,9 @@ benign aristocratic hands-off style the British were known for. But still, it be
 
 # Here’s What You Mean to Them
 
-- In an interview with Marc Maron, Sean explained that on an almost daily basis, someone will come up to him and say something to the effect of “You
-have no idea what your dad meant to me” or “You can’t understand how important your dad’s music is to me.”
+- In an interview with Marc Maron, Sean explained that on an almost daily basis, someone will come up to him and say something to the effect of “You have no idea what your dad meant to me” or “You can’t understand how important your dad’s music is to me.”
 
-- It’s a strange claim, Sean explained, because of course he understands. John Lennon and his music are even more important in Sean’s life. Because
-John Lennon was Sean’s father. Because he has been holding on to that relationship every minute since his father was taken from him. Because John’s music is the only way he gets to talk to his son anymore.
+- It’s a strange claim, Sean explained, because of course he understands. John Lennon and his music are even more important in Sean’s life. Because John Lennon was Sean’s father. Because he has been holding on to that relationship every minute since his father was taken from him. Because John’s music is the only way he gets to talk to his son anymore.
 
 - Each parent should take to heart what that means: even the greatest musician of all time is more important as a parent to his children than he is as an artist to the world. It doesn’t matter how great our work is, how wealthy it makes us, or what it ends up meaning to billions of people—nothing will eclipse the impact we have on our kids.
 
