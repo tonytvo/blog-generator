@@ -613,13 +613,11 @@ benign aristocratic hands-off style the British were known for. But still, it be
 
 # It’s Okay to Be Ambitious
 
-- For most of history, it’s been women who have felt the tension of these conflicting desires the most and have been forced to choose one over the
-other. Fathers, on the other hand, have been encouraged—expected even - to look outside the home for fulfillment and recognition, because for men professional success was good parenting.
+- For most of history, it’s been women who have felt the tension of these conflicting desires the most and have been forced to choose one over the other. Fathers, on the other hand, have been encouraged—expected even - to look outside the home for fulfillment and recognition, because for men professional success was good parenting.
 
 - As society has evolved, however, every parent has had to manage the tension of serving two masters, even prime ministers and billionaires.
 
-- In her autobiography, Margaret Thatcher, the first woman to be UK prime minister, quotes Irene Ward, a pioneering British politician: “While the home
-must always be the centre of one’s life, it should not be the boundary of one’s ambition.”
+- In her autobiography, Margaret Thatcher, the first woman to be UK prime minister, quotes Irene Ward, a pioneering British politician: “While the home must always be the centre of one’s life, it should not be the boundary of one’s ambition.”
 
 - You’re allowed to think bigger. It’s okay to have a career and want to be great at it. It’s okay to strive to change the world. Because in these things, as long as you share them and open them up to a wider view, you are teaching your kids about you and about the world. You are teaching them about hardwork, about doing what’s right, about fulfilling one’s potential, about being of use to others.
 

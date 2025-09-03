@@ -8,22 +8,17 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## **6. Model Development and Offline Evaluation**
+  - expand in much more details with bold high-light quotes/phrases the above sections "## **8. Data Distribution Shifts and Monitoring**
 
-* **Model Training & Development**
-* **Evaluating ML Models**
+* **Causes of ML System Failures**
 
-  * Offline evaluation metrics and techniques.
-* **Ensemble Methods**
+  * Software vs. ML-specific failures.
+* **Detecting & Addressing Data Distribution Shifts**
 
-  * Combining multiple models for better performance.
-* **Experiment Tracking & Versioning**
-* **Distributed Training**
+  * Strategies to mitigate concept drift.
+* **Monitoring & Observability**
 
-  * Scaling ML model training.
-* **AutoML**
-
-  * Automating model selection and hyperparameter tuning."
+  * Implementing an effective ML monitoring system."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
