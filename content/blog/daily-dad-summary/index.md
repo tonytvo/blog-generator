@@ -624,8 +624,7 @@ benign aristocratic hands-off style the British were known for. But still, it be
 # It’s a Family Affair
 
 - Your kids are with you on this journey, whatever it is. It can be so easy to see your career as something that is you-centric. It’s not. It’s a family affair. The same is true of the ambitions of every member of your household. And
-the more you can be involved with each other on these personal journeys, the better. It makes the accomplishments sweeter, the work more complete...
-and the sacrifices less painful. Because all of them have been done together.
+the more you can be involved with each other on these personal journeys, the better. It makes the accomplishments sweeter, the work more complete... and the sacrifices less painful. Because all of them have been done together.
 
 # Here’s How to Spend More Time with Them
 
@@ -635,8 +634,7 @@ and the sacrifices less painful. Because all of them have been done together.
 
 - We work for other reasons - often good reasons - but not because we have to. We could have more flexibility if we wanted. We could choose a different job. We could choose to put family over career advancement, over six- or seven-figure salaries, over keeping up with the Joneses.
 
-- Let us stop acting as if the freedom - and opportunity - we crave isn’t within our grasp. We can spend more time with our kids. We can be there
-more than we are. We just have to be comfortable making less money.
+- Let us stop acting as if the freedom - and opportunity - we crave isn’t within our grasp. We can spend more time with our kids. We can be there more than we are. We just have to be comfortable making less money.
 
 # An Important Rule
 
