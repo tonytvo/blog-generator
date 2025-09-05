@@ -642,8 +642,7 @@ the more you can be involved with each other on these personal journeys, the bet
 as parents:
   - If your child offers you a hand to hold, take it.
 
-- Life and relationships are an endless dance of reaching out and pulling away. You reach out to your kids, they pull away—they’re busy, they’re in
-front of their friends, they’re mad at you. You try to help them and they don’t want it. You want what’s best for them but they don’t understand.
+- Life and relationships are an endless dance of reaching out and pulling away. You reach out to your kids, they pull away—they’re busy, they’re in front of their friends, they’re mad at you. You try to help them and they don’t want it. You want what’s best for them but they don’t understand.
 
 - We can’t control that. What we can control is that whenever they do reach out—whenever they offer us a hand to hold—we take that opportunity and grab it. When they want to lie in our bed with us, we can let them. When they call on the phone, we can answer—even if we’re in a meeting. When they ask to talk about something, we can listen, whatever it’s about. We can hold them tight every chance we have.
 
@@ -651,8 +650,7 @@ front of their friends, they’re mad at you. You try to help them and they don�
 
 # This Must Be the Top Priority
 
-- Is our career inherently at odds with being
-a good parent? That’s for each of us to decide. Still, at some point our kids must come first. We must do what’s best for them. We must sacrifice for them. We must give them the life they deserve—a life with us in it.
+- Is our career inherently at odds with being a good parent? That’s for each of us to decide. Still, at some point our kids must come first. We must do what’s best for them. We must sacrifice for them. We must give them the life they deserve—a life with us in it.
 
 - Your career is important. But family is forever. It must be the top priority.
 
@@ -664,9 +662,7 @@ a good parent? That’s for each of us to decide. Still, at some point our kids 
 
 # Your Job Is to Make Fast Transitions
 
-- the leadership coach Randall Stutman, who has worked with nearly
-every major hedge fund and CEO on Wall Street, talks about what it
-means to be a leader at home:
+- the leadership coach Randall Stutman, who has worked with nearly every major hedge fund and CEO on Wall Street, talks about what it means to be a leader at home:
   - ```Your job as a leader is to make really fast transitions. You play many different roles in many different places—your job is not to carry the last conversation... If that means you need to settle yourself and sit out in your car for a couple of minutes before you walk in the house so you can now be Dad, then that’s what you need to do. But your job is not to walk into that house and carry with you anything that came from before.```
 
 - You can’t let a bad day or a bad person prevent you from being a good
