@@ -665,9 +665,7 @@ as parents:
 - the leadership coach Randall Stutman, who has worked with nearly every major hedge fund and CEO on Wall Street, talks about what it means to be a leader at home:
   - ```Your job as a leader is to make really fast transitions. You play many different roles in many different places—your job is not to carry the last conversation... If that means you need to settle yourself and sit out in your car for a couple of minutes before you walk in the house so you can now be Dad, then that’s what you need to do. But your job is not to walk into that house and carry with you anything that came from before.```
 
-- You can’t let a bad day or a bad person prevent you from being a good
-parent. You can’t bring your garbage from the office into your home. You
-must keep a clean house—free of the detritus of adult responsibility that your kids couldn’t possibly understand. You must leave that stuff outside, and you must do it quickly, in the space between leaving work and walking into your home.
+- You can’t let a bad day or a bad person prevent you from being a good parent. You can’t bring your garbage from the office into your home. You must keep a clean house—free of the detritus of adult responsibility that your kids couldn’t possibly understand. You must leave that stuff outside, and you must do it quickly, in the space between leaving work and walking into your home.
 
 # Again, Which Will It Be?
 
@@ -754,11 +752,9 @@ moment. Remind yourself that yelling doesn’t make them hear you better. Remind
 
 - the primary language of children is behavior. Not words. If you want to know what they’re thinking or how they’re feeling, watch what they do, not what they say.
 
-- When we say that “actions speak louder than words,” this is what we mean. The younger your kids are, the more likely they are to speak entirely with actions instead of words. This is for one simple, undeniable reason: they
-don’t have the words yet. But even if they did, kids don’t understand their feelings—the physical ones or the emotional ones—enough to know how to put words to them. Quite often they don’t even know they’re having feelings.
+- When we say that “actions speak louder than words,” this is what we mean. The younger your kids are, the more likely they are to speak entirely with actions instead of words. This is for one simple, undeniable reason: they don’t have the words yet. But even if they did, kids don’t understand their feelings—the physical ones or the emotional ones—enough to know how to put words to them. Quite often they don’t even know they’re having feelings.
 
-- Watch an eighteen-month-old with an earache—there are no words, there is only discomfort and pawing at the side of their head or waking up in the middle of the night screaming. Watch an eight-year-old with anxiety—there
-are no words, there are only stomachaches and panic and wet beds. A teenager who has been hurt by someone may in turn hurt others.
+- Watch an eighteen-month-old with an earache—there are no words, there is only discomfort and pawing at the side of their head or waking up in the middle of the night screaming. Watch an eight-year-old with anxiety—there are no words, there are only stomachaches and panic and wet beds. A teenager who has been hurt by someone may in turn hurt others.
 
 - This is why we need to “listen” to our kids in more ways than just the obvious, literal way. We have to watch them. We have to be patient. We have to understand that a screaming tantrum about the iPad is almost certainly
 about something else. We have to understand that lethargy and sliding grades are statements; they are symptoms. It’s your child speaking to you through behavior.
