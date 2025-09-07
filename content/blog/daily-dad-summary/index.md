@@ -756,8 +756,7 @@ moment. Remind yourself that yelling doesn’t make them hear you better. Remind
 
 - Watch an eighteen-month-old with an earache—there are no words, there is only discomfort and pawing at the side of their head or waking up in the middle of the night screaming. Watch an eight-year-old with anxiety—there are no words, there are only stomachaches and panic and wet beds. A teenager who has been hurt by someone may in turn hurt others.
 
-- This is why we need to “listen” to our kids in more ways than just the obvious, literal way. We have to watch them. We have to be patient. We have to understand that a screaming tantrum about the iPad is almost certainly
-about something else. We have to understand that lethargy and sliding grades are statements; they are symptoms. It’s your child speaking to you through behavior.
+- This is why we need to “listen” to our kids in more ways than just the obvious, literal way. We have to watch them. We have to be patient. We have to understand that a screaming tantrum about the iPad is almost certainly about something else. We have to understand that lethargy and sliding grades are statements; they are symptoms. It’s your child speaking to you through behavior.
 
 - Will you hear them? Will you be able to talk to them about it, not just with your words but with your own actions?
 
