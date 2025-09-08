@@ -4119,6 +4119,146 @@ Compression is essential when deploying on:
 
 ---
 
+# **8. Data Distribution Shifts and Monitoring**
+
+> **"Most ML models don't fail because they're wrong at launch—but because the world changes."**
+
+In this chapter, Chip Huyen focuses on one of the most **underestimated but critical challenges** in production ML: **monitoring real-world performance** and **handling distributional drift**. The chapter warns:
+
+> **“Shipping a model is just the start—the real challenge is keeping it useful over time.”**
+
+---
+
+## ❌ **Causes of ML System Failures**
+
+> **“ML systems fail differently from traditional software.”**
+
+Chip draws a clear distinction between **software bugs** and **ML-specific failures**:
+
+### 🛠️ **Traditional Software Failures**
+
+* Caused by:
+
+  * Code errors
+  * Logic bugs
+  * Faulty configurations
+* **Deterministic**: If code breaks, it breaks every time.
+
+### 🤖 **ML-Specific Failures**
+
+* Often caused by:
+
+  * **Data drift** (distribution changes in inputs)
+  * **Concept drift** (changes in the relationship between input and output)
+  * **Label leakage or label noise**
+  * **Latency spikes in features**
+  * **Misalignment between training and serving pipelines**
+* **Non-deterministic**: May only show up **gradually or under specific conditions**.
+
+> **“In ML, even perfect code can fail silently as the data changes.”**
+
+✅ *Example*: A model trained on pre-COVID spending patterns may become useless in a post-pandemic economy—even if the code is unchanged.
+
+---
+
+## 📉 **Detecting & Addressing Data Distribution Shifts**
+
+> **“Drift is inevitable—robust systems are built to detect and adapt to it.”**
+
+### ⚠️ **Two Main Types of Drift**:
+
+1. **Covariate Shift (Input Drift)**:
+
+   * Input data distribution changes.
+   * E.g., changes in user device types, browsing patterns, transaction sizes.
+
+2. **Concept Drift**:
+
+   * The **relationship between X and Y** changes.
+   * E.g., a word that once indicated positive sentiment (“sick”) now often means “cool” in youth slang.
+
+✅ *Example*: A fraud detection model may become obsolete when fraudsters change their tactics.
+
+---
+
+### 🧪 **Strategies to Detect Drift**:
+
+* **Statistical tests**:
+
+  * KS-test, Chi-squared test for feature distributions.
+  * Population Stability Index (PSI).
+* **Shadow models**:
+
+  * Compare current model performance to a known baseline.
+* **Monitoring feature and prediction distributions over time**.
+
+> **“Look for silent signs: changes in input patterns, label delay, drop in confidence scores.”**
+
+---
+
+### 🛠️ **Mitigation Techniques**:
+
+* **Recalibration**:
+
+  * Adjust the model’s confidence or thresholds without full retraining.
+* **Online learning** or **retraining on fresh data**.
+* **Active learning**:
+
+  * Request new labels for uncertain or changed data zones.
+* **Rollback to previous stable models** (via versioning).
+
+> **“Don't just build for drift—design for drift handling.”**
+
+---
+
+## 🛰️ **Monitoring & Observability**
+
+> **“You can’t fix what you don’t monitor.”**
+
+ML systems require **observability practices** that go beyond traditional DevOps.
+
+### 🔍 **What to Monitor**:
+
+1. **Data Ingestion Metrics**
+
+   * Volume, schema integrity, missing features.
+
+2. **Feature Drift**
+
+   * Are input feature distributions stable?
+
+3. **Prediction Drift**
+
+   * Are outputs shifting over time?
+
+4. **Model Confidence**
+
+   * Changes in confidence scores can indicate mismatch with input distribution.
+
+5. **Latency & Throughput**
+
+   * Especially critical in online systems.
+
+6. **Business Metrics**
+
+   * CTR, conversion, revenue per prediction.
+
+✅ *Example*: In recommendation systems, monitor both **click-through rate** and **model serving latency** to catch both quality and performance regressions.
+
+---
+
+### 🧰 **Tooling & Practices**:
+
+* Use tools like:
+
+  * **Evidently AI**, **Arize**, **WhyLabs**, **Prometheus**, **Grafana**.
+* Automate **alerting thresholds** and **dashboarding**.
+* Set up **feedback loops** for continuous labeling and model evaluation.
+* Build **time-aware test sets** and regularly scheduled **model evaluations**.
+
+> **“Monitoring ML is not optional—it’s core to reliability.”**
+
+---
 
 # Quotes
 
@@ -4138,6 +4278,12 @@ Compression is essential when deploying on:
 * **“Track every experiment—what gets tracked gets improved.”**
 * **“Scale training with care—distributed systems need careful design.”**
 * **“AutoML helps with baseline models but requires human oversight.”**
+* **“ML systems fail gradually—and silently—unless monitored.”**
+* **“Data drift is the rule, not the exception.”**
+* **“Concept drift is harder to detect but more dangerous.”**
+* **“Monitoring must cover inputs, predictions, latency, and business impact.”**
+* **“Successful ML systems are built for change—not just for launch.”**
+
 
 # References
 
