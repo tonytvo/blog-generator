@@ -762,7 +762,7 @@ moment. Remind yourself that yelling doesn’t make them hear you better. Remind
 
 # It’s the Hardest Thing
 
-- parenthood demands more of us than just about anything else in life. It challenges us emotionally, physically, mentally. It tugs on every one of our heartstrings. You can toughen yourself up for war, you can coolly bet millions of dollars at work, but there’s nothing you can do about the gaping soft spot your kids have access to. Nothing can get you quite like they do . . . because nothing matters to you quite like they do.
+- parenthood demands more of us than just about anything else in life. It challenges us emotionally, physically, mentally. It tugs on every one of our heartstrings. You can toughen yourself up for war, you can coolly bet millions of dollars at work, but there’s nothing you can do about the gaping soft spot your kids have access to. Nothing can get you quite like they do... because nothing matters to you quite like they do.
 
 - This is the hardest thing you’ll ever do. Know it. Accept it. Be grateful for it.
 
@@ -780,8 +780,7 @@ moment. Remind yourself that yelling doesn’t make them hear you better. Remind
 
 # Do You Know What You Look Like Angry?
 
-- How do you think you look when you tell your child way too loudly, “Sit down. I told you already, sit down!” when they bounce around with too much energy? How do you think you look as you grab their arm in frustration and
-jerk them closer to you in line? Do you think you sound good when threatening to take away some basic privilege of theirs—like a tyrant - because they’re not behaving exactly as you like? Or when you shout at them to hurry up at the airport? You think you don’t look like a monster when, after the argument escalates beyond your ability to manage with words, you slap them across the face?
+- How do you think you look when you tell your child way too loudly, “Sit down. I told you already, sit down!” when they bounce around with too much energy? How do you think you look as you grab their arm in frustration and jerk them closer to you in line? Do you think you sound good when threatening to take away some basic privilege of theirs—like a tyrant - because they’re not behaving exactly as you like? Or when you shout at them to hurry up at the airport? You think you don’t look like a monster when, after the argument escalates beyond your ability to manage with words, you slap them across the face?
 
 - You look terrible. You look as awful and shameful as the people looked when you saw them do the same thing in public, to their kids, as you tried to avert your gaze. No one looks good angry. Worse still, that image can etch
 itself into our kids’ brains for a long time.
@@ -790,8 +789,7 @@ itself into our kids’ brains for a long time.
 
 - Preoccupation is the enemy of good parenting. And the worst part? Kids can sense it. They are simultaneously sponges and mirrors, and unflattering ones at that. When they act out, make a mess, bite their brother, dye their hair pink—that’s what is happening. They sense your energy and are responding to it.
 
-- The sad truth is that most of what we’re preoccupied with doesn’t even matter. We give the jerk at the office free space in our head. We choose to go on Twitter and doomscroll. We don’t need to check our email as much as we
-do. Worrying about money never solves our money problems.
+- The sad truth is that most of what we’re preoccupied with doesn’t even matter. We give the jerk at the office free space in our head. We choose to go on Twitter and doomscroll. We don’t need to check our email as much as we do. Worrying about money never solves our money problems.
 
 - We have to push all that stuff away. So we can be present. So we can be patient. So we can be parents.
 
@@ -799,11 +797,9 @@ do. Worrying about money never solves our money problems.
 
 - But the question, or rather the opportunity, is: Did it bring you closer together?
 
-- It doesn’t have to, of course. You can get angry. You can be annoyed. You can be overwhelmed and distracted. Or... or you can relish the moment - even if they’re crying, even if you’re disappointed, even if you’re crying.
-You can feel love and gratefulness and happiness instead.
+- It doesn’t have to, of course. You can get angry. You can be annoyed. You can be overwhelmed and distracted. Or... or you can relish the moment - even if they’re crying, even if you’re disappointed, even if you’re crying. You can feel love and gratefulness and happiness instead.
 
-- Because this is a chance to talk. This is a chance to see them from a different angle. This is a chance to ask questions. This is a chance to spend time together. A crisis, as politicians like to say, is a terrible thing to waste. It’s a chance to do things you couldn’t do before. Things that wouldn’t be
-possible in ordinary circumstances.
+- Because this is a chance to talk. This is a chance to see them from a different angle. This is a chance to ask questions. This is a chance to spend time together. A crisis, as politicians like to say, is a terrible thing to waste. It’s a chance to do things you couldn’t do before. Things that wouldn’t be possible in ordinary circumstances.
 
 - It’s always a chance to get closer. To love more. To understand better.
 
@@ -811,9 +807,7 @@ possible in ordinary circumstances.
 
 - There is no blueprint. To assume there is or, worse, to imagine there is and then hold your kids to those expectations is wildly unfair. Can we have expectations for our kids? Yes. Can we try to make sure they don’t fall into the same traps or develop the same vices as us? It would be criminal if we didn’t.
 
-- But we have to remember that they are like us... for better and for worse. They’ve lived their whole lives in the same house as us. They’ve learned from our examples—even the bad ones... especially the bad ones in many
-cases. They’re not going to be perfect. They’re going to have our weaknesses... perhaps some of their own too. And to punish them with our unrealistic expectations, even unintentionally, quite literally for the sins of the
-father, is profoundly unfair.
+- But we have to remember that they are like us... for better and for worse. They’ve lived their whole lives in the same house as us. They’ve learned from our examples—even the bad ones... especially the bad ones in many cases. They’re not going to be perfect. They’re going to have our weaknesses... perhaps some of their own too. And to punish them with our unrealistic expectations, even unintentionally, quite literally for the sins of the father, is profoundly unfair.
 
 - Our job is to love them and to be patient with them, not to demand the impossible from them.
 
@@ -823,8 +817,7 @@ father, is profoundly unfair.
 
 - It doesn’t matter how angry you are. It doesn’t matter who started it. It doesn’t matter how many times you told your son. It doesn’t matter that your parents used to do it. It doesn’t matter that some cultures still accept it. 
 
-- For two thousand years, we’ve known deep down that it’s wrong. You are here to protect and to serve and to love them. To violate that obligation because you can’t control yourself in the moment, because you’re mad? This
-is to violate a sacred oath. And once done, it can never be undone. You cannot do it. Ever.
+- For two thousand years, we’ve known deep down that it’s wrong. You are here to protect and to serve and to love them. To violate that obligation because you can’t control yourself in the moment, because you’re mad? This is to violate a sacred oath. And once done, it can never be undone. You cannot do it. Ever.
 
 # Is It Good When They’re Bad?
 

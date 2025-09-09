@@ -8,17 +8,16 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## **8. Data Distribution Shifts and Monitoring**
+  - expand in much more details with bold high-light quotes/phrases the above sections "## **9. Continual Learning and Testing in Production**
 
-* **Causes of ML System Failures**
+* **Continual Learning**
 
-  * Software vs. ML-specific failures.
-* **Detecting & Addressing Data Distribution Shifts**
+  * Retraining strategies.
+  * When and how to update models.
+* **Testing in Production**
 
-  * Strategies to mitigate concept drift.
-* **Monitoring & Observability**
-
-  * Implementing an effective ML monitoring system."
+  * Shadow deployments, A/B testing, and canary releases.
+  * Multi-armed bandit approaches for online experimentation."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
