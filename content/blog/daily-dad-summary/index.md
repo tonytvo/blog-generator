@@ -869,8 +869,7 @@ up from your parents—maybe things you’re working on in therapy right now, de
 
 - "A key point to bear in mind... You’re better off not giving the small things more time than they deserve."
 
-- If you had to choose between your kids having fond memories and you having clean walls, you’d choose your kids having fun. If you had to choose between slightly lower grades and better self-worth, you’d choose their self-
-worth. If you had to choose between just about anything and your kids’ safety, happiness, and self-image, you’d never choose that other stuff.
+- If you had to choose between your kids having fond memories and you having clean walls, you’d choose your kids having fun. If you had to choose between slightly lower grades and better self-worth, you’d choose their self- worth. If you had to choose between just about anything and your kids’ safety, happiness, and self-image, you’d never choose that other stuff.
 
 - Yet here you are, arguing about it again. Choosing to die on some stupid hill. Choosing to protect a piece of Sheetrock that—admit it—you don’t actually care about. What you really care about—what these rules actually represent—is obedience and control. What you’re really worried about, hence the fixation, is the deep-seated anxiety that you might be screwing them up.
 
@@ -893,8 +892,7 @@ they will still be your kids.
 
 # This Predicts Everything
 
-- who a person is determines what will happen and what they can do. It’s true in sports. It’s true in politics. It’s true in business. No matter how talented a person is, how great the incentives, how great the system around
-them—in the end, character is everything. It can’t be hidden. It can’t be compensated for.
+- who a person is determines what will happen and what they can do. It’s true in sports. It’s true in politics. It’s true in business. No matter how talented a person is, how great the incentives, how great the system around them—in the end, character is everything. It can’t be hidden. It can’t be compensated for.
 
 - Your job as a parent, as you seek to create a better world for your kids and raise them to be good in that world, is to value character. To teach it to them. To model it for them. To reward it when you see it in them. Yes, you want them to be smart. Yes, you want them to be ambitious. Yes, you want them to be creative and hardworking. But these traits are worthless if not yoked behind good character.
 
@@ -909,8 +907,7 @@ them—in the end, character is everything. It can’t be hidden. It can’t be 
 - As Lehzen said with trademark modesty:
   - I have, to be sure, not created, but nourished in the Princess, one quality which is to test, consider, and to stand firmly by that which the Princess finds right and good.
 
-- You have a lot of responsibilities as a parent, but none of them trump this one. Yes, you want your kids to be smart. You want them to be helpful and healthy. You want them to do well in school. But none of that will be
-possible without having nourished the ability that Lehzen helped Victoria cultivate.
+- You have a lot of responsibilities as a parent, but none of them trump this one. Yes, you want your kids to be smart. You want them to be helpful and healthy. You want them to do well in school. But none of that will be possible without having nourished the ability that Lehzen helped Victoria cultivate.
 
 - So do it. Every day.
 
