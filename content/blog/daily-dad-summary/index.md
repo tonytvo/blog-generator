@@ -1004,7 +1004,7 @@ they will still be your kids.
 
 - If you’re going to compete with anyone, we should tell our kids, compete with yourself, to be the best version of yourself. Compete over things you actually control. And make no mistake, we should take that advice ourselves.
 
-- Compete with yourself to be more present, to be kinder, to have more fun with your kids . . . to beat what you got from your own parents. Focus on the stuff that’s up to you, that can be an example for your kids as they grow into the people you want them to become.
+- Compete with yourself to be more present, to be kinder, to have more fun with your kids... to beat what you got from your own parents. Focus on the stuff that’s up to you, that can be an example for your kids as they grow into the people you want them to become.
 
 # Teach Them Empathy
 
@@ -1093,8 +1093,7 @@ anyone else thought could change that.
   - Some obvious ones: Kind. Loyal. Moral. Honest.
   - And maybe some more specific ones to help them succeed in the world: Creative. Bilingual. Hardworking. Lifelong learner.
 
-- The important thing is not so much which epithets you choose but that you have chosen at all. For, if you don’t know what you’re aiming for, how can you expect to hit
-a target? How do you know you’re not accidentally teaching them to exchange one epithet for another? The truth is you can’t. So get writing.
+- The important thing is not so much which epithets you choose but that you have chosen at all. For, if you don’t know what you’re aiming for, how can you expect to hit a target? How do you know you’re not accidentally teaching them to exchange one epithet for another? The truth is you can’t. So get writing.
 
 # The Main Thing We Have to Teach Them
 
