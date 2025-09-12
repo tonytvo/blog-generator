@@ -1169,7 +1169,7 @@ anyone else thought could change that.
 
 # It Takes a Team
 
-- “One person cannot do two full-time jobs,” Le Guin once explained. “Writing is a full-time job and so is children. But two people can do three full-time jobs. . . . That’s why I’m so strong on partnership. It can be a great thing.”
+- “One person cannot do two full-time jobs,” Le Guin once explained. “Writing is a full-time job and so is children. But two people can do three full-time jobs... That’s why I’m so strong on partnership. It can be a great thing.”
 
 - Parenting is so hard to do alone; so hard. For too long, too many mothers had to do it alone, were forced to sacrificed alone. But, of course, we are stronger when we, our children’s parents, parent together. We go farther, together. It’s one of the only ways to make the math work—not just for the benefit of the children, but for the parents as well.
 
