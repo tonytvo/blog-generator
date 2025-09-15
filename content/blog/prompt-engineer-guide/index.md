@@ -8,16 +8,22 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## **9. Continual Learning and Testing in Production**
+  - expand in much more details with bold high-light quotes/phrases the above sections "
+## **10. Infrastructure and Tooling for MLOps**
 
-* **Continual Learning**
+* **Storage and Compute Considerations**
 
-  * Retraining strategies.
-  * When and how to update models.
-* **Testing in Production**
+  * Cloud vs. on-premise infrastructure.
+* **Development Environments**
 
-  * Shadow deployments, A/B testing, and canary releases.
-  * Multi-armed bandit approaches for online experimentation."
+  * Standardizing dev environments for ML teams.
+* **Resource Management**
+
+  * Job schedulers, workflow orchestration, and automation tools.
+* **Building an ML Platform**
+
+  * Model and feature stores.
+  * The trade-offs of build vs. buy decisions."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

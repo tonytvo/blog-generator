@@ -1183,8 +1183,7 @@ anyone else thought could change that.
 
 # This is When You Are Happiest
 
-- That depression, that addiction, they came with him and ultimately took him very finally away from the thing he loved the most—his family. It’s a sobering reminder to all of us. First, to enjoy the present while we have it. Second, to remember how little we actually need in order to be happy, how wonderful the ordinary
-moments can be. Third, to understand how quickly it can all be taken away. 
+- That depression, that addiction, they came with him and ultimately took him very finally away from the thing he loved the most—his family. It’s a sobering reminder to all of us. First, to enjoy the present while we have it. Second, to remember how little we actually need in order to be happy, how wonderful the ordinary moments can be. Third, to understand how quickly it can all be taken away. 
 
 - If you’re struggling with addiction, if you’re in that dark hole of depression, please just know that as difficult as it is to fight, to break free and climb out, the simple joys and tenderness and compassion you will find in victory with those you love will come with equal ease and ridiculously stupid happiness.
 
@@ -1205,8 +1204,7 @@ moments can be. Third, to understand how quickly it can all be taken away.
 
 # Make Sure You Make Time for Crazy
 
-- No one is too important or too busy to have some crazy time at home. No one is above getting pummeled by their kid in bed. No father should hesitate
-before singing at the top of his lungs while he shaves. These moments are the best moments. If they’re rare, you’re doing it wrong. 
+- No one is too important or too busy to have some crazy time at home. No one is above getting pummeled by their kid in bed. No father should hesitate before singing at the top of his lungs while he shaves. These moments are the best moments. If they’re rare, you’re doing it wrong. 
 
 - They should be regular, they should be routine.
 
@@ -1263,8 +1261,7 @@ everything
 
 # You Must Find the Stillness
 
-- Even the cool, quiet dark is pierced by the shriek of a man who has stepped on a pile of LEGOs... and the shriek is coming from your mouth. Yet to be good at our jobs, to be good at this parenting thing, we must
-endeavor to find stillness. Because we need time to reflect, to focus, to find the calm that will restore and reboot us.
+- Even the cool, quiet dark is pierced by the shriek of a man who has stepped on a pile of LEGOs... and the shriek is coming from your mouth. Yet to be good at our jobs, to be good at this parenting thing, we must endeavor to find stillness. Because we need time to reflect, to focus, to find the calm that will restore and reboot us.
 
 - Where will we find it? It won’t be in those measly two weeks of vacation or by cutting and running and fleeing. No, we must find the stillness within the chaos. It might not feel like these moments of quiet can exist with all the crying babies or arguing teenagers, but they can.
 
