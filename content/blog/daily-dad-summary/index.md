@@ -1309,8 +1309,7 @@ everything
 
 - Well? That’s all in the past. It happened. It shouldn’t have, but it did. And there’s nothing you can do now to undo it. The question is, now what? We have the power, at any moment, to get back on track. We can choose, always, to return to the standard we want to live up to as parents.
 
-- No parent has time to indulge in pity parties. Nor can any parent justify a continued slide. We screw up. We fall short. We’re not what we want to be—
-what we promised ourselves we’d be, what we owe to our kids. And? We can choose right now to get back on track. We can choose right now to do better.
+- No parent has time to indulge in pity parties. Nor can any parent justify a continued slide. We screw up. We fall short. We’re not what we want to be—what we promised ourselves we’d be, what we owe to our kids. And? We can choose right now to get back on track. We can choose right now to do better.
 
 # You Would Tell Them This. So Tell Yourself Too.
 
