@@ -1337,8 +1337,7 @@ everything
 
 # Delight in Attending to Your Improvement
 
-- In the start-up world, they say that if your company isn’t growing, it’s dying. In a way, it’s sort of true for people too. If you’re not actively developing
-yourself, what’s happening? You’re atrophying. You’re getting worse. Entropy is winning.
+- In the start-up world, they say that if your company isn’t growing, it’s dying. In a way, it’s sort of true for people too. If you’re not actively developing yourself, what’s happening? You’re atrophying. You’re getting worse. Entropy is winning.
 
 - Epictetus liked to quote Socrates, who said that he delighted in attending to his own improvement day to day. Brilliant. It’s the perfect thing for you to think about. How are you improving yourself day to day? Are you working out? Are you reading? Are you setting goals for yourself? Are you clocking in at home as well as at the office?
 
@@ -1346,8 +1345,7 @@ yourself, what’s happening? You’re atrophying. You’re getting worse. Entro
 
 # It’s Not Over for You
 
-- A part of us that felt, when our house was suddenly flooded with babies and diapers and our routines were disrupted by carpools and soccer practices, like life was
-over. Or at least the fun, free, good life. No more time for hobbies. No energy for self-exploration, let alone self-actualization.
+- A part of us that felt, when our house was suddenly flooded with babies and diapers and our routines were disrupted by carpools and soccer practices, like life was over. Or at least the fun, free, good life. No more time for hobbies. No energy for self-exploration, let alone self-actualization.
 
 - Certainly, we have been taxed and burdened in a way we never expected. But we can’t throw in the towel. We can’t use being a parent as an excuse. On the contrary, because our kids are watching us, we have to keep pushing ourselves. We have to transcend the bitter math. We have to keep growing. We can’t give up on ourselves or our interests.
 
@@ -1377,8 +1375,7 @@ over. Or at least the fun, free, good life. No more time for hobbies. No energy 
 
 - At the core of most of these stories are a few key ingredients: Luck. Openness. Curiosity. And, of course, often a parent who actively exposed their kid to different things.
 
-- It’s your child’s job to figure out what they want to do in life. No parent can or should make their child master anything. But it is your job, especially
-when they’re young, to open their eyes, to introduce serendipity into the equation, to expose them to all the possibilities that life has to offer. 
+- It’s your child’s job to figure out what they want to do in life. No parent can or should make their child master anything. But it is your job, especially when they’re young, to open their eyes, to introduce serendipity into the equation, to expose them to all the possibilities that life has to offer. 
 
 - Show them what’s out there. Help them discover.
 
@@ -1400,7 +1397,7 @@ when they’re young, to open their eyes, to introduce serendipity into the equa
 
 - We have to help them carry the fire. We have to keep that light in their eyes ablaze. No matter how dark the world gets. In fact, we have to do it now, more than ever, because the world is dark. That’s our job. That’s our warrant.
 
-- If we fail . . . God help us.
+- If we fail... God help us.
 
 # Your Kids Will Be Whatever You Make Them
 
