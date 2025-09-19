@@ -4390,6 +4390,118 @@ Unlike A/B testing, where allocations are fixed, **multi-armed bandits** adjust 
 
 ---
 
+# **Infrastructure and Tooling for MLOps**
+
+> **“A successful ML project depends as much on infrastructure as it does on models.”**
+
+MLOps is the **discipline of integrating ML into reliable software systems**. This chapter explores the tooling and infrastructure required to **support scalable, maintainable, and reproducible** machine learning workflows—from storage and compute to orchestration and platforms.
+
+---
+
+## 🗄️ **Storage and Compute Considerations**
+
+> **"ML infrastructure decisions should be driven by workflow needs and organizational constraints."**
+
+### ☁️ **Cloud vs. On-Premise Infrastructure**
+
+| Cloud                                        | On-Prem                                  |
+| -------------------------------------------- | ---------------------------------------- |
+| **Elastic scalability**                      | Fixed resource capacity                  |
+| **Managed services** (e.g., GCP, AWS, Azure) | **Full control**, better for secure data |
+| Pay-as-you-go                                | High up-front capex                      |
+| Easier to deploy ML pipelines globally       | Lower latency for localized processing   |
+| Easier to integrate with modern MLOps tools  | Requires in-house DevOps expertise       |
+
+> **“Cloud infrastructure lowers barrier to entry—but may lock you in.”**
+
+✅ *Example*: An organization training large transformer models might choose cloud GPUs on demand, while a hospital may keep sensitive patient data on-premise for regulatory compliance.
+
+---
+
+## 💻 **Development Environments**
+
+> **“Reproducibility starts with standardized environments.”**
+
+### 👩‍💻 Why Standardization Matters:
+
+* Prevents **"it worked on my machine"** issues.
+* Enables **collaboration across teams** and locations.
+* Supports **automated CI/CD pipelines** for ML.
+
+### 🧰 Tooling Options:
+
+* **Docker**: Encapsulate code, libraries, and environments into containers.
+* **Conda/Pyenv**: Manage Python and dependency versions.
+* **Jupyter Notebooks**:
+
+  * Great for experimentation, but not production-ready.
+  * Best paired with **version control and scripting discipline**.
+* **VS Code with remote containers** or **GitHub Codespaces** for consistent dev environments.
+
+> **"Think of your dev environment as code—version it, standardize it, automate it."**
+
+---
+
+## ⚙️ **Resource Management**
+
+> **“ML pipelines involve jobs that need to be scheduled, orchestrated, and monitored.”**
+
+### 🗓️ **Job Scheduling & Orchestration Tools**:
+
+* **Airflow**: DAG-based scheduling and monitoring of ML workflows.
+* **Kubeflow Pipelines**: Kubernetes-native orchestration of ML tasks.
+* **Prefect / Dagster**: Modern alternatives with better developer experience.
+* **Argo Workflows**: Lightweight and Kubernetes-native.
+
+✅ *Use Case*:
+
+* Daily retraining → Schedule data refresh → Trigger model training → Evaluate → Deploy if improved.
+
+> **“Automating ML workflows reduces human error and operational overhead.”**
+
+---
+
+## 🧱 **Building an ML Platform**
+
+> **“An ML platform is the invisible foundation that empowers fast iteration and safe deployment.”**
+
+Instead of one-off pipelines, many mature teams build **internal ML platforms** to streamline development.
+
+### 🧰 **Key Components**:
+
+1. **Model Store**
+
+   * Centralized place to store, version, and track trained models.
+   * Supports reproducibility, rollback, and auditing.
+
+2. **Feature Store**
+
+   * System for managing, reusing, and serving features consistently across training and inference.
+   * Prevents **training-serving skew** and avoids duplication.
+
+✅ *Example*: Uber’s Michelangelo, Spotify’s Cortex, Airbnb’s Bighead are full-featured internal ML platforms.
+
+---
+
+## ⚖️ **The Build vs. Buy Trade-Off**
+
+> **“Buy when speed matters. Build when differentiation matters.”**
+
+### ✅ **Buy (Off-the-shelf Platforms)**:
+
+* Tools like **Databricks, AWS SageMaker, Google Vertex AI, Azure ML**.
+* Great for smaller teams or those without infra expertise.
+* Faster time-to-market.
+
+### 🛠️ **Build (In-house Platforms)**:
+
+* Full control, deep integration with internal tools.
+* Justified when ML is **core to the business**.
+
+> **“Building a platform is an investment—it pays off only if ML is central to your company’s value.”**
+
+---
+
 # Quotes
 
 * **“Deployment is continuous, not a one-time handoff.”**
@@ -4418,6 +4530,11 @@ Unlike A/B testing, where allocations are fixed, **multi-armed bandits** adjust 
 * **“Shadow deployments and canaries de-risk your updates.”**
 * **“A/B tests validate ideas; bandits accelerate learning.”**
 * **“Continual learning is not a luxury—it’s a requirement for production ML.”**
+* **“Cloud is flexible; on-prem is secure—choose based on workload and compliance needs.”**
+* **“Standardized dev environments are essential for team collaboration and reproducibility.”**
+* **“Job schedulers and orchestration tools are the backbone of automated ML workflows.”**
+* **“Model and feature stores bring structure and consistency to ML experimentation.”**
+* **“Build when you need differentiation; buy when you need speed.”**
 
 
 # References
