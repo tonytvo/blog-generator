@@ -1448,14 +1448,13 @@ of this world. — IMMANUEL KANT
 
 - And still, it remains an imperative—if you want to connect with them and shape and encourage them—that you always keep their interests in mind, because your job is to figure out what they like and help them continue to explore it.
 
-- Oh, they liked this movie? Here’s another they might enjoy. Oh, they like this book? Here’s the author’s entire catalog for their birthday. Oh, they like
-dinosaurs? Here come the weekend trips to museums; here come the photos of you in front of the Brachiosaurus in the United terminal at O’Hare; here comes a dinosaur video you can watch together.
+- Oh, they liked this movie? Here’s another they might enjoy. Oh, they like this book? Here’s the author’s entire catalog for their birthday. Oh, they like dinosaurs? Here come the weekend trips to museums; here come the photos of you in front of the Brachiosaurus in the United terminal at O’Hare; here comes a dinosaur video you can watch together.
 
 - When their interests become your interests, they become opportunities to connect and explore and to share. Let them be the driver; you just provide the fuel.
 
 # Original Is Better Than Smart
 
-- Encourage them to be their original, unique selves. Encourage them to explore, to find new things. The world is full of smart people . . . and most of them are insufferably boring and unimpressive. What we need are fresh thinkers and creative people. What we need are originals.
+- Encourage them to be their original, unique selves. Encourage them to explore, to find new things. The world is full of smart people... and most of them are insufferably boring and unimpressive. What we need are fresh thinkers and creative people. What we need are originals.
 
 - The “C” students run the world. — HARRY TRUMAN
 
