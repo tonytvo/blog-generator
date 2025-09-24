@@ -1523,8 +1523,7 @@ of this world. — IMMANUEL KANT
 
 # You Have to Listen
 
-- It’s often quite surprising to hear what’s actually on their minds and how you can be a better leader in your family when you know what’s in the hearts and minds of those precious people who look up to you. One father, who was keen to impress upon his son the value of curiosity and study, asked him what he was interested in
-learning. To his utter delight, his son said, “I want to learn to vacuum.” His son wanted to be useful; he wanted to contribute and have a purpose himself. You don’t really know, in other words, what’s inside until you pay attention, with dedication and compassion, like effective leaders do.
+- It’s often quite surprising to hear what’s actually on their minds and how you can be a better leader in your family when you know what’s in the hearts and minds of those precious people who look up to you. One father, who was keen to impress upon his son the value of curiosity and study, asked him what he was interested in learning. To his utter delight, his son said, “I want to learn to vacuum.” His son wanted to be useful; he wanted to contribute and have a purpose himself. You don’t really know, in other words, what’s inside until you pay attention, with dedication and compassion, like effective leaders do.
 
 - That little fellow is always trying to tell you things. Of course, it’s not always explicit. Sometimes “I want to learn to be useful” comes out as “I want to learn to vacuum.” Sometimes “I want to be a good friend” comes out as “Can you drive me to Bobby’s house?” Sometimes “I want to be a writer” comes out as an awkward kid who doesn’t want to watch sports with you.
 
