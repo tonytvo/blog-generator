@@ -1561,8 +1561,7 @@ of this world. — IMMANUEL KANT
 
 # Do Not Get in the Way of Their Primal Inclinations
 
-- As a parent, you need to let go. You need to let your child blossom. You need to think of your child like they’re a plant that you want to foster and grow in its most natural form and not hinder in any way. You have to let your child go in whatever direction he or she wants. When the child reveals a proclivity toward something, encourage them to go in that direction. Because that proclivity reveals something extremely powerful from within—it reveals what I call a
-primal inclination. Do not get in the way of their primal inclinations in any way, shape, or form. That’s the most important thing you can do.
+- As a parent, you need to let go. You need to let your child blossom. You need to think of your child like they’re a plant that you want to foster and grow in its most natural form and not hinder in any way. You have to let your child go in whatever direction he or she wants. When the child reveals a proclivity toward something, encourage them to go in that direction. Because that proclivity reveals something extremely powerful from within—it reveals what I call a primal inclination. Do not get in the way of their primal inclinations in any way, shape, or form. That’s the most important thing you can do.
 
 - Throw away your expectations. Your responsibility is to encourage them to be who they are, not what you want them to be or who you wish you’d become. Don’t force your interests on your child. Pay attention to their natural, primal inclinations, then foster their blossoming.
 
@@ -1644,8 +1643,7 @@ primal inclination. Do not get in the way of their primal inclinations in any wa
 
 # You’re Not Raising Grass
 
-- Success as a parent is not defined by having a car with spotless back seats. It’s not having a perfectly decorated house filled with fragile things that never
-get broken. A kid’s room should look like it was played in. A home should feel lived in. We should see their fingerprints everywhere—literally and figuratively.
+- Success as a parent is not defined by having a car with spotless back seats. It’s not having a perfectly decorated house filled with fragile things that never get broken. A kid’s room should look like it was played in. A home should feel lived in. We should see their fingerprints everywhere—literally and figuratively.
 
 - Is your job really to raise a kid who never talks back? Who walks in lockstep or tiptoes through life? Or is it to raise a kid with their own opinions and their own dreams, with the confidence to articulate them and the ability to bring them to life?
 
@@ -1760,8 +1758,7 @@ in the world. Because what do they really need? What is really demanded of you? 
 
 # Be Something and Somebody
 
-- “I know you can as well as some other subjects,” he wrote. “It is encouraging to have you so improved, and I am sure you will catch on, and go on and on and be
-something and somebody.”
+- “I know you can as well as some other subjects,” he wrote. “It is encouraging to have you so improved, and I am sure you will catch on, and go on and on and be something and somebody.”
 
 - That’s a perfect phrase. He wasn’t telling his son he needed to get perfect scores. He wasn’t telling him that he was worthless for having come up short. Or that success was necessarily about being better than anyone else. Like Jim Valvano’s father, what the elder Harriman was saying was that he knew what his son was capable of and, more important, what is expected of a person with his potential: to be something and somebody.
 
