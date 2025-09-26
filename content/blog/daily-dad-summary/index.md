@@ -1915,8 +1915,7 @@ construction project. ‘How many girders were in the cart?’ ‘How were the h
 
 # “Beautiful” Is What They Say It Is
 
-- “Have you ever seen anything like it?” the copy on the ad reads. “Not just what she’s made, but how proud it’s made her. It’s a look you’ll see whenever children build something alone. No matter what
-they’ve created . . . LEGO Universal Building Sets will help your children discover something very, very special: themselves.”
+- “Have you ever seen anything like it?” the copy on the ad reads. “Not just what she’s made, but how proud it’s made her. It’s a look you’ll see whenever children build something alone. No matter what they’ve created . . . LEGO Universal Building Sets will help your children discover something very, very special: themselves.”
 
 - As parents, it can be so easy to step in and tell your kids how things should go. Trees don’t go on people’s heads! A window doesn’t make sense there! But where will they sleep? Dogs and cats aren’t friends! There is no air in space! We think that we are helping or that we are teaching. But we are stepping on their ability to create and imagine. We may be depriving them of that beautiful look of pride that the little girl in the ad has—the one that comes from doing something all by yourself and discovering yourself.
 
@@ -1983,8 +1982,7 @@ Kids learn to dance in PE, but public speaking and debate are optional extracurr
 
 # Provide Them with This Unusual Advantage
 
-- “The greatest thing in our favour,” Orville explained, “was growing up in a family where
-there was always much encouragement to intellectual curiosity. If my father had not been the kind who encouraged his children to pursue intellectual interests without any thought of profit, our early curiosity about flying would have been nipped too early to bear fruit.”
+- “The greatest thing in our favour,” Orville explained, “was growing up in a family where there was always much encouragement to intellectual curiosity. If my father had not been the kind who encouraged his children to pursue intellectual interests without any thought of profit, our early curiosity about flying would have been nipped too early to bear fruit.”
 
 - We have to do this too. We have to cultivate their curiosities, whatever they may be. We have to encourage their interests without considering whether they might be able to profit from them. We don’t have to be special or specialists to give them this unusual advantage.
 
@@ -1995,8 +1993,7 @@ there was always much encouragement to intellectual curiosity. If my father had 
 - Can this be annoying? Absolutely. It can even get them in trouble. But curious is better than complacent, and annoying is better than ignorant. To be sure, there will be times when you’re too tired to answer their questions. There will be other moments when you feel their questions are inappropriate. But in those moments, you must pause, breathe, and remember that you have to seed this habit. You have to make sure you water
 it too—and do your best never to stamp it out.
 
-- The more questions they ask, the better. Not just for you or for them, but
-for the world they live in.
+- The more questions they ask, the better. Not just for you or for them, but for the world they live in.
 
 # Show Them What They’ll Get Out of This
 
