@@ -1971,7 +1971,8 @@ to use it.
 
 # The Two Most Important Skills to Teach Your Kids
 
-Kids learn to dance in PE, but public speaking and debate are optional extracurricular activities. How nuts is that? Kids are evaluated on standardized tests, as if effective communication can be captured via multiple-choice questions. The questions and passages on standardized tests are often the epitome of poor writing and ineffective communication!
+- Kids learn to dance in PE, but public speaking and debate are optional extracurricular activities. How nuts is that? Kids are evaluated on standardized tests, as if effective communication can be captured via multiple-choice questions. The questions and passages on standardized tests are often the epitome of poor writing and ineffective communication!
+
 - If schools aren’t going to do it, we parents have to. It’s on us to teach our kids these important skills—to make sure they’re able to express themselves on the page and in person. We’ve got to give them the opportunities to get up and address an audience—and encourage the confidence required to be comfortable doing so.
 
 - Whatever happens in the future, communication will be key (and king). It’s your job to make sure they’re ready.
@@ -1990,8 +1991,7 @@ Kids learn to dance in PE, but public speaking and debate are optional extracurr
 
 - A “ ‘why’ child”—what a delightful phrase! Isn’t that who we’re trying to raise? A child who knows how to figure things out. A child who isn’t content with taking things at face value, who isn’t satisfied with simple explanations.
 
-- Can this be annoying? Absolutely. It can even get them in trouble. But curious is better than complacent, and annoying is better than ignorant. To be sure, there will be times when you’re too tired to answer their questions. There will be other moments when you feel their questions are inappropriate. But in those moments, you must pause, breathe, and remember that you have to seed this habit. You have to make sure you water
-it too—and do your best never to stamp it out.
+- Can this be annoying? Absolutely. It can even get them in trouble. But curious is better than complacent, and annoying is better than ignorant. To be sure, there will be times when you’re too tired to answer their questions. There will be other moments when you feel their questions are inappropriate. But in those moments, you must pause, breathe, and remember that you have to seed this habit. You have to make sure you water it too—and do your best never to stamp it out.
 
 - The more questions they ask, the better. Not just for you or for them, but for the world they live in.
 
