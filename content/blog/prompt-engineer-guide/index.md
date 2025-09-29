@@ -8,14 +8,12 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "#### **Chapter 10 – Logging Best Practices**
+  - expand in much more details with bold high-light quotes/phrases the above sections "#### **Chapter 6 – Filtering and Extrapolation**
 
-* Distinguishing **audit events vs. log events**
-* Log levels (trace → fatal) and severity calibration
-* Clear, contextual logging (what, when, where, why, who)
-* Avoiding sensitive data exposure and GDPR compliance
-* Log structure and normalization
-* Application-level guidelines: exceptions, standardization, avoiding log bloat"
+* Using filters to reduce noise, spot anomalies, redact data
+* Record transformation plugins
+* Deriving new metrics (e.g., event counting)
+* Demonstrating changes with `stdout` outputs"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**" please
 
