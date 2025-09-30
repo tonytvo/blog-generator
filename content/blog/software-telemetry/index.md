@@ -85,6 +85,30 @@ Riedesel identifies **four major styles**, each addressing a distinct layer of s
 
 ---
 
+### ⚙️ The “Four Golden Signals” and the “Three Pillars of Observability” (Google SRE Framework)
+
+Wilkins connects logging directly to **Google’s Site Reliability Engineering model**, which defines two intertwined frameworks:
+
+#### **The Four Golden Signals:**
+
+1. **Latency** — how long a request takes to complete.
+2. **Traffic** — how much demand the system is handling.
+3. **Errors** — the rate of failed requests.
+4. **Saturation** — how “full” your service or resource is (CPU, threads, memory).
+
+Logging helps quantify each:
+
+> **“Metrics tell you *how much* pain the system feels; logs explain *why*.”**
+
+#### **The Three Pillars of Observability:**
+
+1. **Metrics** — numerical trends over time.
+2. **Traces** — end-to-end causal chains of requests.
+3. **Logs** — **contextual breadcrumbs** giving human-readable evidence behind metrics and traces.
+
+Together they provide the *observability triad* — visibility into both *symptoms* and *causes*. Fluentd’s role is to **feed the logging pillar** and to **enrich metrics and traces** by exporting consistent contextual data across systems.
+
+
 ### 👥 3. Who Uses Telemetry — and Why
 
 Riedesel underscores that **telemetry systems serve multiple stakeholders** beyond developers:
@@ -1364,7 +1388,7 @@ Riedesel transitions from **architecture blueprints** to **real-world evolution 
 
 # 🌐 **Use Cases: Applying Architecture Concepts**
 
-## 🎯 **Purpose of Part 2**
+## 🎯 **Purpose of Use cases**
 
 Riedesel takes the reader through **eleven progressively complex organizational case studies**, each demonstrating how **telemetry architecture evolves with scale, culture, and maturity**.
 
@@ -1376,6 +1400,40 @@ This part answers:
 * When do they **outgrow vendor dashboards** and build custom pipelines?
 * What are the **failure patterns** at each stage of telemetry maturity?
 * How do compliance, cost, and chaos shape architectural choices?
+
+## possible use cases
+
+- I want to see all of the logs for the module I'm working on
+  - set the logger name to the module name (the module name typically could be java class name or javascript file name)
+- I want to see all the logs for a specific request for jobs within single node or across nodes
+  - use open telemetry and tag your logs with with traceId and spanId
+    - traceId generally represents a http request
+    - spanId generally represents unique identifer for a single unit of work within a trace such as
+      - database query
+      - call to another service
+      - long running compute process
+- I want to see all logs for a specific user
+  - tag specific user to all of the logs
+  - tag specific host to all of the logs
+- I want to see all logs for specific web server because the specific web server is behaving
+- I want to see specific version of the software in the logs (like git hash)
+- I want to see the important configurations for the software and server at start up
+- I want to see the information to correlate the logs such as host, pid
+- I want to see the information to help me with the software development process including deployment, debuging, health of system, security.
+- I want to see logs for specific service I'm working on
+  - filter out all of the noise until I can find relevant logs the issue I'm debugging
+  - narrow the logs to specific time frame, process, machine
+  - prefer to have better correlate logs
+- "Be conservative in what you do, be liberal in what you accept"
+- The large source of problem coming from the boundaries of the service/system.
+  - parse, don't validate [parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+  - logging requests/response could create lots of logs and security/risks concerns regarding to PII, PHI
+    - we could save the data in S3, database on demand, and retrieving those data for debugging purposes.
+      - we can put more stringent constraints on s3, databases for auditing, access control and security purposes.
+    - as a note, we could use dynamic logging to turn on the logs for requests/response at runtime on development environment
+  - metrics around response time
+  - metrics could indicate some signals where the system is underload or overload and the system can be scaled dynamically
+
 
 ---
 
@@ -3072,11 +3130,1008 @@ Riedesel’s message is clear: managing cardinality is not optional — it’s w
 
 ---
 
-  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 16 — Redacting and Reprocessing Telemetry**
 
-* Handling **toxic data** (PII, GDPR).
-* Real-time and batch redaction pipelines.
-* Re-ingestion for platform migrations."
+## 🧨 **Redacting and Reprocessing Telemetry**
+
+### 🎯 **Purpose and Context**
+
+Riedesel opens with a chilling statement that captures the entire problem:
+
+> **“All telemetry is evidence. Some of it is evidence you were never supposed to have.”**
+
+This chapter focuses on how organizations **detect, isolate, and neutralize toxic telemetry** — especially personally identifiable information (PII), secrets, and regulated data that **slipped into logs, metrics, or traces**.
+
+She ties this directly to regulatory pressure:
+
+* **GDPR (Europe)** → Right to erasure (Article 17)
+* **CCPA (California)** → Consumer data rights
+* **HIPAA / SOX / PCI-DSS** → Privacy and audit control
+* **Corporate security policies** → Confidential data exposure
+
+> **“Telemetry is exempt from nothing. If it contains PII, it is personal data.”**
+
+The chapter is divided into three parts:
+
+1. Understanding and identifying **toxic telemetry**
+2. Techniques for **redaction** (real-time and batch)
+3. Methods for **reprocessing and re-ingestion** when migrations or retroactive cleanup are required.
+
+---
+
+### ☣️ **1. Understanding Toxic Telemetry**
+
+#### **(a) What Is “Toxic” Data?**
+
+“Toxic” telemetry refers to **data that introduces legal, reputational, or operational risk** if retained or exposed.
+
+Riedesel defines it precisely:
+
+> **“Toxic telemetry is any data that can identify a person, reveal a secret, or compromise your system — even unintentionally.”**
+
+Examples include:
+
+* **PII (Personal Identifiable Information):**
+
+  * Full names, addresses, emails, phone numbers, national IDs
+* **Sensitive identifiers:**
+
+  * Credit card numbers, bank accounts, SSNs, passport numbers
+* **Authentication materials:**
+
+  * API tokens, passwords, OAuth bearer tokens, session cookies
+* **Confidential business data:**
+
+  * Customer contracts, transaction details, or unannounced product info
+
+---
+
+#### **(b) Common Sources of Toxic Telemetry**
+
+1. **Developer negligence** — Logging sensitive request payloads during debugging:
+
+   ```
+   logger.info(f"User submitted form: {form_data}")
+   ```
+
+   → Includes names, addresses, or passwords.
+
+2. **Third-party SDKs or middleware** — Auto-log headers or parameters without filtering.
+
+3. **Customer support scripts** — Dumping full request objects to trace issues.
+
+4. **Security misconfigurations** — Logging decrypted data that should’ve stayed encrypted.
+
+> **“Every system eventually logs something it regrets.”**
+
+---
+
+#### **(c) The Three Phases of Toxic Data Lifecycle**
+
+| Phase           | Description                                    | Risk                            |
+| --------------- | ---------------------------------------------- | ------------------------------- |
+| **Emission**    | Data logged before sanitization                | Immediate privacy violation     |
+| **Storage**     | Data persisted in telemetry databases          | Compliance exposure             |
+| **Replication** | Data copied to backups, analytics, or archives | Hard to remove, multiplies risk |
+
+Riedesel notes:
+
+> **“Once telemetry turns toxic, every copy is a contamination vector.”**
+
+This is why **early detection and standardized scrubbing** must be built into every telemetry pipeline.
+
+---
+
+### 🔍 **2. Detecting Sensitive or Regulated Data**
+
+You can’t fix what you don’t know you have.
+
+#### **(a) Automated Pattern Scanning**
+
+Use **regex-based detection** or **data classification engines** to identify potential toxic fields.
+
+Examples:
+
+* Credit cards: `\b\d{4}[- ]?\d{4}[- ]?\d{4}[- ]?\d{4}\b`
+* Emails: `[\w\.-]+@[\w\.-]+\.\w+`
+* SSNs: `\b\d{3}-\d{2}-\d{4}\b`
+* JWT tokens: `eyJ[a-zA-Z0-9_-]+\.[a-zA-Z0-9_-]+\.[a-zA-Z0-9_-]+`
+
+Tools:
+
+* **AWS Macie**, **Azure Purview**, **Google DLP API**
+* **Open-source**: `truffleHog`, `detect-secrets`, `Gitleaks`, or custom Fluentd filters
+
+> **“Pattern scanning is your Geiger counter — it won’t fix the leak, but it’ll tell you where it glows.”**
+
+---
+
+#### **(b) Machine Learning for Data Classification**
+
+For large-scale telemetry lakes (petabytes of logs or traces), manual regex breaks down.
+Riedesel discusses using ML-based detection tools that classify fields based on content entropy and context (e.g., recognizing a base64 token or a ZIP code pattern).
+
+Examples:
+
+* **Google DLP**, **BigID**, **OneTrust**, **Immuta**.
+
+These systems analyze telemetry streams, tag fields by sensitivity, and mark datasets for redaction.
+
+> **“The smarter your detection, the less false comfort you’ll have.”**
+
+---
+
+### 🧹 **3. Redacting Telemetry in Real-Time**
+
+Once sensitive data is identified, the next step is **real-time redaction** — filtering or replacing it *before* it reaches storage.
+
+Riedesel distinguishes between **inline scrubbing** and **post-ingestion redaction**.
+
+---
+
+#### **(a) Inline Redaction (Preferred)**
+
+> **“The best toxic data is the kind that never leaves the system.”**
+
+Inline redaction happens **during telemetry emission** — within the logger, agent, or collector — before the event hits disk or queue.
+
+**Techniques:**
+
+* Regular expression filters in **Fluentd**, **Fluent Bit**, or **Vector**.
+* **Processor plugins** that replace patterns with placeholders:
+
+  ```json
+  {
+    "email": "[REDACTED_EMAIL]",
+    "credit_card": "**** **** **** 1234"
+  }
+  ```
+* **Middleware sanitizers** inside application code:
+
+  ```python
+  safe_data = sanitize(request)
+  logger.info("Processed request", extra={"user": safe_data})
+  ```
+
+Advantages:
+
+* Complies instantly with privacy laws (no exposure).
+* No costly reprocessing later.
+* Works with live telemetry pipelines.
+
+> **“Inline redaction is prevention — everything else is cleanup.”**
+
+---
+
+#### **(b) Redaction via Streaming Filters**
+
+For containerized or distributed telemetry:
+
+* Use **sidecar collectors** (Fluent Bit, Vector, or OpenTelemetry Collector) that apply **filter rules** before forwarding.
+* Example: Fluent Bit `modify` filter:
+
+  ```ini
+  [FILTER]
+      Name modify
+      Match *
+      Remove_key password
+      Remove_key token
+      Add key pii_redacted true
+  ```
+* Encrypt sensitive fields before shipping downstream.
+
+> **“Your redaction layer is your last firewall between privacy and liability.”**
+
+---
+
+### 🕰️ **4. Batch Redaction and Historical Cleanup**
+
+When data has already been stored (e.g., in Elasticsearch, S3, or BigQuery), you must **retroactively clean it** — often mandated by GDPR’s *“right to be forgotten.”*
+
+#### **(a) Challenges of Post-Storage Redaction**
+
+* Telemetry is often **append-only** and immutable by design.
+* Data exists in **multiple replicas, indexes, and backups**.
+* Systems like Elasticsearch or Loki are **not built for in-place edits**.
+
+> **“Telemetry systems are historians by nature — they hate rewriting history.”**
+
+Therefore, retroactive cleanup is **expensive and complex**.
+
+---
+
+#### **(b) Batch Redaction Pipelines**
+
+To handle this, Riedesel describes the **Extract–Transform–Reingest (ETR)** model:
+
+```
+[Extract] → Pull affected data from storage (via query or export)
+     ↓
+[Transform] → Apply scrubbing, masking, or field deletion
+     ↓
+[Reingest] → Write cleaned data into new sanitized indices
+```
+
+Key requirements:
+
+* **Immutable backups** for audit traceability.
+* **Checksum verification** to prove data integrity post-cleanup.
+* **Deletion logs** documenting which records were altered.
+
+> **“If you can’t prove what you removed, compliance will assume you didn’t.”**
+
+---
+
+#### **(c) Deletion vs. Redaction**
+
+* **Deletion** — Remove the entire record (for GDPR erasure).
+* **Redaction** — Keep event but scrub sensitive fields.
+
+Decision depends on:
+
+* Regulatory mandate (full erasure vs anonymization).
+* Business impact (can analytics tolerate missing data?).
+* Technical capability (can the store handle field-level edits?).
+
+**Example (Anonymized Redaction):**
+
+```json
+{
+  "user_id": "anon_73c2d9",
+  "email": null,
+  "ip_address": "0.0.0.0",
+  "action": "purchase",
+  "timestamp": "2025-10-10T12:00:00Z"
+}
+```
+
+Riedesel calls this approach **“data surgery”** — invasive but survivable.
+
+---
+
+### 🔄 **5. Reprocessing and Re-Ingestion for Platform Migrations**
+
+Telemetry systems evolve — new vendors, schema upgrades, or cloud migrations require **reprocessing entire datasets** to ensure compatibility and compliance.
+
+> **“Every migration is a second chance to fix the sins of your first ingestion.”**
+
+#### **(a) When Reprocessing Is Necessary**
+
+* Moving from one observability stack to another (e.g., ELK → OpenSearch → Splunk).
+* Upgrading schemas (adding trace IDs, removing PII fields).
+* Normalizing formats for multi-cloud analytics.
+* Auditing and cleaning historical data before regulatory inspection.
+
+---
+
+#### **(b) Reprocessing Architecture**
+
+A modern reprocessing pipeline follows a pattern similar to ETL, but designed for telemetry:
+
+```
+[Cold Storage / Archive]
+    ↓
+[Batch Extraction (Athena, BigQuery, or S3 Select)]
+    ↓
+[Transformation Layer (Spark, Flink, NiFi)]
+    ↓
+[Schema Validator + Redaction Filter]
+    ↓
+[Re-Ingest into New Observability Stack]
+```
+
+Riedesel emphasizes automation:
+
+* Validate every event against the latest telemetry schema.
+* Apply **deterministic redaction** (same pattern → same hash).
+* Generate **audit trails** documenting before/after states.
+
+> **“Reprocessing is your observability second act — a chance to apply the discipline you didn’t have before.”**
+
+---
+
+#### **(c) Real-World Example: GDPR Compliance at Scale**
+
+A European SaaS provider discovered that email addresses were stored in **application logs and traces** spanning 18 months.
+
+**Action Plan:**
+
+1. Export affected indices from Elasticsearch to S3.
+2. Run a Spark job to:
+
+   * Identify PII using regex + ML classification.
+   * Replace emails with SHA-256 hashes.
+   * Add `"redacted": true` metadata.
+3. Re-ingest sanitized logs into a new Elasticsearch cluster.
+4. Document and cryptographically sign redaction proof for regulators.
+
+Result:
+✅ Compliance validated
+✅ Analytics continuity preserved
+✅ Legal exposure eliminated
+
+> **“Privacy isn’t deleting data — it’s controlling what it remembers.”**
+
+---
+
+### 🔐 **6. Cryptographic and Audit Considerations**
+
+For compliance, redaction and reprocessing must be **provable**.
+
+Riedesel recommends:
+
+* **Hashing original entries** before redaction for non-repudiation.
+* **Signing cleanup batches** with a system certificate.
+* **Audit logs** recording operator identity, timestamp, and record counts.
+* **Immutable evidence storage** (WORM storage, blockchain-like audit trail).
+
+> **“Regulators don’t trust your intention — they trust your evidence.”**
+
+---
+
+### 🧠 **7. Operational Best Practices**
+
+#### **(a) Preventive Controls**
+
+* **Standardize log sanitization libraries.**
+* Use CI/CD telemetry linting to block logging of sensitive fields.
+* Maintain a **Data Sensitivity Registry** mapping each telemetry field to a classification level (e.g., `public`, `internal`, `confidential`).
+
+#### **(b) Response Playbooks**
+
+* Define **Incident Class: Data Exposure (Telemetry)**.
+* Include steps: detection → quarantine → redaction → verification → report.
+* Assign clear roles (Data Protection Officer, Observability Lead, Legal).
+
+> **“Your telemetry pipeline needs a containment protocol as much as your production system does.”**
+
+#### **(c) Testing and Dry Runs**
+
+* Simulate redaction on sample datasets before production.
+* Measure loss of analytical fidelity post-cleanup.
+* Validate schema compatibility.
+
+---
+
+### 🧩 **8. Chapter Summary — Making Telemetry Safe by Design**
+
+Riedesel closes with one of her most powerful insights:
+
+> **“Telemetry is a mirror. If you don’t clean it, it reflects what you should never see.”**
+
+She warns that **observability and privacy must evolve together** — one cannot mature without the other.
+
+**Key Lessons:**
+
+| Theme                             | Insight                                                           |
+| --------------------------------- | ----------------------------------------------------------------- |
+| **Prevention > Cure**             | Inline redaction beats post-ingestion cleanup every time.         |
+| **Detection Must Be Continuous**  | Treat toxic data scans as recurring security checks.              |
+| **Redaction Must Be Auditable**   | Every erased byte needs a corresponding proof.                    |
+| **Reprocessing Is Opportunity**   | Use migrations to enforce schema, security, and compliance.       |
+| **Telemetry Is a Legal Artifact** | Handle it like financial records — immutable, traceable, minimal. |
+
+Final quote:
+
+> **“A mature telemetry system doesn’t just observe — it remembers responsibly.”**
+
+---
+
+✅ **Summary Checklist: Redacting & Reprocessing Telemetry**
+
+| Stage                | Goal                           | Tools / Techniques                  | Key Principle                           |
+| -------------------- | ------------------------------ | ----------------------------------- | --------------------------------------- |
+| **Detection**        | Identify PII or secrets        | Regex, DLP scanners, ML classifiers | *“You can’t clean what you can’t see.”* |
+| **Inline Redaction** | Prevent toxic emission         | Fluentd filters, app sanitizers     | *“Filter before you forward.”*          |
+| **Batch Cleanup**    | Scrub historical data          | ETL + Spark or NiFi pipelines       | *“Redaction is data surgery.”*          |
+| **Reprocessing**     | Migrate or normalize telemetry | Schema validators, checksum logs    | *“Migrations are chances to heal.”*     |
+| **Audit**            | Prove compliance               | Hash signing, immutable logs        | *“Evidence, not promises.”*             |
+
+---
+
+
+## ⚙️ **Logging Best Practices**
+
+---
+
+### 🧩 **Distinguishing Audit Events vs. Log Events**
+
+Wilkins begins by **drawing a firm boundary between “audit events” and “log events”**, two terms often misused interchangeably:
+
+* **Audit Events**:
+
+  * Are **immutable**, **legally significant**, and **security-focused**.
+  * Capture *who did what*, *when*, and *from where*, often for **compliance** (e.g., SOX, PCI DSS, GDPR).
+  * Must be **verifiable, traceable, and retained** for regulatory periods.
+  * Example:
+
+    > **“User ‘jdoe’ escalated privileges at 2025-10-10T09:43Z from IP 192.168.4.22.”**
+
+* **Log Events**:
+
+  * Are **diagnostic, operational, and transient**.
+  * Help developers and SREs **understand system state**, **debug code**, or **trace transactions**.
+  * They can be ephemeral, summarized, or transformed before long-term storage.
+
+> **“Audits serve governance; logs serve insight.”**
+
+Wilkins stresses that conflating the two leads to **storage bloat, performance degradation, and security leaks**.
+He suggests routing audit data into **dedicated SIEMs (e.g., Splunk Enterprise Security, Azure Sentinel)** and application logs into **Fluentd → Elastic → Kibana pipelines** for operational analytics.
+
+---
+
+### 🔔 **Log Levels and Severity Calibration (Trace → Fatal)**
+
+A key anti-pattern Wilkins warns against is **“log level inflation”** — overusing `ERROR` or `WARN` for normal events.
+Instead, teams should **treat log levels as a calibrated scale of importance**, not as emotional reactions from developers.
+
+| **Level** | **Purpose**                                                       | **Example / When to Use**                        |
+| --------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| **TRACE** | Deep internal diagnostics; used during development or TDD cycles. | “Entering validation loop for request #4823”     |
+| **DEBUG** | Contextual info for debugging; safe to disable in production.     | “Auth token expired; reissuing session key.”     |
+| **INFO**  | High-level, expected operations.                                  | “Order #12345 processed successfully.”           |
+| **WARN**  | Unexpected but non-fatal conditions.                              | “Retrying connection to payment gateway.”        |
+| **ERROR** | Recoverable failures needing attention.                           | “Database write timeout; operation rolled back.” |
+| **FATAL** | Irrecoverable system failure; triggers alerts.                    | “Kernel panic detected in pod ‘api-service-3’.”  |
+
+Wilkins highlights:
+
+> **“The power of logs lies not in how many you produce, but how precisely you grade their significance.”**
+
+He recommends **consistent severity mapping across microservices** — e.g., define a shared `logging.yml` standard or adopt **OpenTelemetry semantic conventions**.
+
+---
+
+### 🧠 **Clear, Contextual Logging — The “Five W’s”: What, When, Where, Why, Who**
+
+Phil Wilkins reframes effective logging as **storytelling with data**.
+He introduces the **Five W’s** as the foundation of *context-rich observability*:
+
+1. **What** — What event occurred? What resource or operation was involved?
+
+   > e.g., “User registration API failed validation.”
+2. **When** — Timestamp, time zone, and duration (use **ISO 8601** for precision).
+3. **Where** — System, host, container, function name, or region.
+
+   > e.g., “service=auth-api, pod=auth-api-4f6b, region=us-west-2.”
+4. **Why** — Error message, causal stack, or triggering condition.
+5. **Who** — Actor identity or system principal.
+
+> **“A good log entry reads like a miniature incident report — complete, compact, and comprehensible.”**
+
+Wilkins urges developers to:
+
+* Always **include correlation IDs or trace IDs** to link logs across microservices.
+* Use **structured JSON logging** for machine parsing.
+* **Avoid freeform messages** like `"something went wrong"` — instead encode structured context:
+
+  ```json
+  {
+    "level": "error",
+    "service": "payment-api",
+    "timestamp": "2025-10-10T16:22:18Z",
+    "traceId": "abc123",
+    "event": "payment_declined",
+    "reason": "insufficient_funds"
+  }
+  ```
+
+---
+
+### 🔒 **Avoiding Sensitive Data Exposure and GDPR Compliance**
+
+Logging can accidentally become a **data leak vector**.
+Phil Wilkins dedicates several pages to **privacy-aware logging practices**, especially under **GDPR**, **CCPA**, and **ISO/IEC 27001** obligations.
+
+He warns:
+
+> **“If it can appear in a subpoena, don’t let it appear in a log.”**
+
+#### ✅ **Recommended Safeguards:**
+
+* **Mask or Hash PII**: Replace sensitive fields (`user_email`, `card_number`, etc.) with hashes or tokens.
+
+  > `"user_email": "hash_5f0f38b4"`
+* **Avoid Full Object Dumps**: Logging entire request bodies or ORM entities is a common security smell.
+* **Restrict Access**: Apply **role-based log access** and secure storage (e.g., encrypted S3 buckets or WORM storage).
+* **Anonymize IPs** where not needed for diagnostics.
+* **Data Retention Policies**: Define retention and deletion policies within log aggregation pipelines (e.g., Fluentd → Elasticsearch index lifecycle management).
+
+He also recommends **runtime redaction filters** in Fluentd:
+
+```conf
+<filter app.*>
+  @type record_transformer
+  remove_keys password, ssn, credit_card
+</filter>
+```
+
+---
+
+### 🧱 **Log Structure and Normalization**
+
+Unstructured logs are easy to write — but hard to search, correlate, or visualize.
+Wilkins emphasizes that **“Logs are most valuable when they behave like data, not prose.”**
+
+#### 🔹 **Structure Standards**
+
+* Use **JSON** as the default structure (`key: value` pairs).
+* Maintain a **consistent schema** across services:
+
+  ```json
+  {
+    "timestamp": "...",
+    "level": "...",
+    "service": "...",
+    "event": "...",
+    "details": { ... }
+  }
+  ```
+* Use **UTC timestamps** and **ISO 8601 format** to prevent cross-timezone confusion.
+* Standardize keys (`service`, `component`, `trace_id`, `env`, etc.) to facilitate correlation in Elastic, Loki, or Splunk.
+
+#### 🔹 **Normalization Techniques**
+
+* **Normalize event naming** (e.g., “user_login” vs. “loginUser” → pick one).
+* Use consistent **log keys and hierarchies** for filtering.
+* Apply **Fluentd’s `record_transformer` and `parser` plugins** to reshape inconsistent source logs into a canonical schema.
+* Add **enrichment metadata**: environment, version, deployment hash, region, etc., for root-cause traceability.
+
+> **“If your logs don’t share a grammar, your tools can’t speak the same language.”**
+
+---
+
+### ⚙️ **Application-Level Guidelines: Exceptions, Standardization, and Avoiding Log Bloat**
+
+Wilkins turns practical here — addressing the human tendency to **over-log** or **misuse exception handling**.
+
+#### 🧯 **1. Handle Exceptions Gracefully**
+
+* **Catch, log, and rethrow only when needed.**
+* Don’t log the same exception at multiple layers — **“once per failure”** rule.
+* Include **error codes and context** rather than raw stack traces:
+
+  ```json
+  {
+    "error_code": "DB_CONN_TIMEOUT",
+    "component": "order-service",
+    "severity": "error",
+    "message": "Database timeout during checkout transaction."
+  }
+  ```
+
+#### ⚖️ **2. Standardization via Frameworks**
+
+* Centralize logging via frameworks like **SLF4J**, **Log4j2**, or **Serilog**.
+* Adopt **shared formatters and appenders** to unify structure.
+* In distributed environments, integrate with **OpenTelemetry** for consistent trace propagation.
+
+> **“Consistency beats verbosity — the same event format in every service unlocks global observability.”**
+
+#### 🧹 **3. Avoiding Log Bloat**
+
+* Resist logging in tight loops or high-frequency paths.
+* Apply **rate limiting or sampling**: e.g., “log every 100th event.”
+* Configure Fluentd/Fluent Bit to **filter or aggregate repetitive events** before storage.
+* Regularly **review log volume vs. value** using cost dashboards (since each GB stored costs real money in cloud systems).
+
+> **“More logs ≠ more observability. It’s better to have a thousand meaningful messages than a million meaningless ones.”**
+
+---
+
+### 🧭 **Summary – The Mindset of a “Log Engineer”**
+
+Wilkins reframes the role of a developer or SRE:
+
+> **“A log engineer doesn’t just emit data — they curate the story of their system.”**
+
+Logging must balance:
+
+* **Precision** (clear message design),
+* **Privacy** (data minimization),
+* **Performance** (avoid excessive I/O),
+* **Predictability** (consistent schema and severity),
+* and **Purpose** (aligned with business and reliability goals).
+
+When combined with **Fluentd’s routing, filtering, and transformation capabilities**, these principles elevate logging from a debugging tool into a **strategic observability practice** that supports DevOps, SecOps, and BizOps alike.
+
+
+### What to Log
+
+All logging is subject to security standards.  Implicit in the below lists is the fact that you shall not log PII or sensitive data, especially request or response bodies, headers, and credentials.
+
+#### Info to Log
+
+- authentication, authorization, access
+- access: system, data, application, remote, remote call (NOC needs to comply)
+- changes: db, schema, system, application (rolls), component, pkg (NOC & Release)
+- availability issues: startup, shutdown, no response, fault/errs affecting availability,
+- resource issues: exhausted, exceeded capacity, reached limits, connectivity issue
+- badness: invalid inputs, login fails, any security issues
+
+- transfer of control flow: entry & exit_point
+
+- remote calls: both sync & async, caller/callee/latency
+
+- change / delete of state
+
+- change of config
+
+#### Fields to Log
+
+- **Common fields:**
+
+  - time stamp (Eastern timezone)
+  - system time
+  - host 
+  - container id, cluster id, project name (if deployed in openshift)
+  - process id, EASI (if deployed in EDNA or EM)
+  - log level  
+  - log category  
+  - trace id
+
+#### Other fields:
+
+  - User ID
+  - Session ID
+  - Call tracing ID / Span ID
+  - Headers and Payload (Request/Response)
+  - Error code, error message
+  - Application and version(release), application id, component
+  - Binary, process ID 
+  - Source file, line number
+  - Timing info (start time, end time)
+  - Source IP/Port, destination IP/Port
+
+#### Log caught exceptions
+
+Exceptions which are caught, but not rethrown, are typically where you would want to put a log describing what happened with the context (i.e. the values of relevant objects), possibly along with the stacktrace.
+
+Exceptions which are rethrown will either be thrown "to the top" and produce a stacktrace in the logs, or be caught and logged by some other block.
+
+Ignoring a caught exception completely is typically a code smell. If there's some sort of error which "should never happen", then see the next section.
+
+#### Log unexpected exceptions, don't swallow exceptions
+
+Sometimes things go sideways and the "this should never happen" scenario happens. You'll want to log this occurrence, no matter how unlikely.
+
+**Traceable Errors**: You can make your code catch an exception, report the error uniquely, and then continue processing (or rethrow the exception).
+
+One thing we want to avoid is catching exceptions with empty catch blocks. We should at least log something, even if the exception should not cause the request to fail.
+
+***Bad***
+```java
+try {
+ ...
+} catch (IOException e) {} //really bad, no way to know when a rare IO exception is because the file already exists, or the disk space is full
+```
+
+***Better***
+
+```java
+try {
+ ... //do some work
+} catch (SomeException e) {
+	_log.warning("context myId="+idRelated, e);
+	//depending on how likely the exception different log levels might be valuable
+}
+```
+
+OR
+
+```java
+try {
+ ... //do some work
+} catch (NotFoundException e) {
+	return TraceableError.newError(e, employeeId, companyId).toSerializableMessage(); //important to call toSerializableMessage() to actually log. 
+	//I know the NotFoundException is expected, just means a record not found, traceable exception allows the serializable message to make it to the front end so the user can report it to us
+}
+```
+
+#### Log the performance of long-running tasks
+
+For long running jobs or processes, we want to have some metrics around how long it takes. Sure we have performance tests to tell us how fast and perhaps we've profiled the code once before, but using Time Monitor to log will tell us just how fast something is every time it runs in production. We can then use Splunk to graph these runs over time to build a picture of our system:
+
+
+#### Log with context
+
+**Create useful context**
+
+Some log messages may actually have no value when they lack sufficient context.
+
+Consider the following (made up) log message:
+
+<date> <thread>  WARN com.mypackage.MyClass - Expected no fractional part
+
+We can go to the code in MyClass and see exactly the logic that triggers the log message. So, we can understand why it happened, but if we're tasked with investigating and fixing a real issue behind this unexpected state, we need more.
+
+On its own, the log message above is nearly worthless.
+
+Even adding something as small as a single piece of context can help narrow down the location of the bad data:
+
+<date> <thread>  WARN com.mypackage.MyClass - employeePK=<> Expected no fractional part
+
+Now we have a single employee to investigate. Adding more context like
+
+a PK related to what this amount represents
+The actual quantity that caused the validation to trip (e.g. "14.72")
+
+would help even more:
+
+<date> <thread>  WARN com.mypackage.MyClass - employeePK=<> someValuePK=<> Expected quantity (14.72) to have no fractional part.
+
+Now we can easily pinpoint the exact data related to the log message.
+
+The useful context is not available where I want to log
+
+For example, you want to log the employee id in a log, but there is no employee id available. One approach is to pass in the employee id into the caller method so you can log it. It's the simpliest approach. But say the caller, and caller's caller, and caller's caller caller do not have employee id. You have have to modify the whole chain of methods.
+
+Log4j2 gives us the ability to use ThreadContext to embed useful log info without needing to modify method signatures. 
+
+**Connect logs with context**
+
+While logs can be useful on their own, they become very informative in aggregate. Even though all these logs have some amount of context (the fully qualified class name, typically), we can add more context to our log messages in order to connect events together, sometimes into one cohesive event.
+
+Think about the following use-cases for someone wanting to look at the logs for a large job that processes data from multiple companies:
+
+I want to see all the logs for a specific run of this job
+I want to compare the logs that pertain to one specific company over the runs since the beginning of the month
+I want to visualize a value found in some log message per company for a given run
+
+These use-cases are possible in Splunk, but only if the log messages include the proper context. If each log message related to a job run contained something like "jobRunPK={}" and any logs that were company-specific additionally included "companyPK={}", we could filter, group, and visualize the logs based on this information. Without it, there's no way to correlate one log message with another. Relating log messages temporally is extremely error-prone.
+
+
+### How to Log
+
+#### Requirements
+
+- Auto-configuration. Log level tuned dynamically without rebooting servers.  
+- Structured logging with support of line by line, or JSON format.
+- Log filtering. Low level log (debug) messages filtered when higher level log level is set (error).
+- Log should only write to stdout with tags to identify logging category
+- Call tracing id needs to be in performance log, and all application logs.
+- Log by categories 
+- Snakecase - lowercase separated by underscore naming convention. Example: trace_id
+- Dynamically turn on user level logging per use 
+- 5Ws 
+  - What - Meaningful description
+  - When - timestamp (Eastern)
+  - Where - host, pid, class/method, source file, line number
+  - Why - might include a stack trace or similar concept.
+  - Who - user, account
+
+#### Log Levels
+
+Taken from http://commons.apache.org/proper/commons-logging/guide.html#Message_PrioritiesLevels
+
+fatal - Severe errors that cause premature termination. Expect these to be immediately visible on a status console.
+error - Other runtime errors or unexpected conditions. Expect these to be immediately visible on a status console.
+warn - Use of deprecated APIs, poor use of API, 'almost' errors, other runtime situations that are undesirable or unexpected, but not necessarily "wrong". These might be immediately visible on a status console.
+info - Interesting runtime events (startup/shutdown). These might be immediately visible on a console, so be conservative and keep to a minimum.
+debug - detailed information on the flow through the system. Expect these to be absent from monitoring and status consoles.
+trace - more detailed information. Expect these to be absent from monitoring and status consoles.
+
+***Level Severity***
+
+Some ERRORs, FATALs, and WARNs might be more important than others, especially when FATAL is not present by default under some logging libraries.
+
+There is a mechanism to optionally prioritize or de-prioritize logs by using the "criteria" field in a structured log message.
+
+Any log message without the "criteria" field will be monitored and alerted always.
+
+Log messages with the criteria field will be analyzed based upon the criteria inside the criteria object:
+
+- threshold: if threshold is used, count the number of messages in the past 5 minutes, and alert on every Xth message.
+  - Recommend sticking to logarithmically increasing values: 3, 10, 30, 100
+- severity: An increasing severity level, where, based upon outside configuration, messages with an equal or higher severity will be logged, and those with lower severity will not be logged.
+  - 1 is lowest severity, 100 is highest severity
+- reserved for future extension.
+
+
+#### Log Level Guideline
+
+Type of Information	Recommended Log Level	Comments
+Method entry/exit	DEBUG	
+
+Variable inspection	DEBUG	
+
+Value from property	INFO	
+
+Job progress	INFO	Make sure the class or package is set to INFO level in log4j2.xml
+Job started, Job finished	INFO	
+
+Exception that should never happen	ERROR	
+
+ObjectNotFoundException exception from user input	INFO	Thinks like ObjectNotFoundException where the input is from a user. 
+ObjectNotFoundException exception from internal	WARN	We should fix our algorithms to get rid of these warnings
+TimeMonitor or other performance metric logs	INFO	Make sure the class or package is set to INFO level in log4j2.xml
+boundary of the system (calling file system, external system)	INFO	make sure to provide information when the application reach externally (such as file system, call external application, etc..) as boundaries where most of the integration problems occurs.
+
+#### Logging For Job Observability
+
+***Logging Job Progress***
+
+Logs are also useful in observing and monitoring the progress of the job. Especially when the job is critical and long running.
+
+When logging progress, it's import the log message sets the correct expectation of completion.
+
+For example: "Completed 50/100 (50.0%) companies in ImportantJob" 
+
+But company A has 10,000 employees, and company B has 10. Company B will run much faster than A so treating companies as equals gives a false impression of real progress. Also, the percentage with one decimal place makes it look like the progress is plus or minus 0.1%.
+
+Better example: "Completed 50 of 100 companies in ImportantJob" 
+
+By removing the fraction and percentage, the job progress is more realistic and it doesn't overpromise accuracy.
+
+Best example: "Completed 747,383 of 1,484,435 employees (50%) in ImportantJob" 
+
+The employees for this job are the scaling variable. For other jobs it can be employee grants, or withdrawals, etc. And even with the more accurate scaling variable used, the percentage is just a whole number so the job has some buffer when assuming it completes 
+
+***Logging Multithreaded Jobs***
+
+When logging the progress of jobs with multiple threads, you will run into race conditions when the threads update the same subtotal and the job progress will move back and forth. See 
+
+could use AtomicLongs. And if there are too many log messages posted by threads, see how a RateLimiter is used.
+
+***Logging Job Start and End***
+
+It's important to log when a job actually starts and finishes. One reason is because while a job is scheduled to start at 1 AM New York, the job doesn't actually start until later due in progress jobs, or jobs already queued ahead of it.
+
+And when job end is logged, we know the job is finished, and if the job finished in time. Also, it's now possible to get a sense on the average time the job takes to finish after a few runs.
+
+#### Log Categories
+
+- Access
+- Performance
+- Application
+- developer app logs
+- logs intended for auditing purpose
+- logs intended for security monitoring.
+
+**Anti-Patterns**
+- Swallowing exceptions
+- False positives (No User Account)
+- False negative (Data not found)
+- Flooding of senseless messages,  messages tagged with wrong logging level
+- Having to restart to tune logging
+
+#### Mandated Best Practices
+
+http://commons.apache.org/proper/commons-logging/guide.html#Best_Practices_General
+
+http://commons.apache.org/proper/commons-logging/guide.html#Best_Practices_Enterprise
+
+Use a logging abstraction library, one that is augmented with your company patterns
+
+You MUST always validate the input to your logging statements, due to ability for security vulnerabilities to be exploited.
+
+Similarly, always be on the latest logging library.
+
+Prefer to avoid code with side effects inside logging statements.  This will cause crashes or bugs when logging levels change.  Test your code with and without logging enabled.
+
+
+```Java
+org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger(Sample.class);
+//The exception is AF which has its own logging abstraction similar in concept to slf4j
+
+
+// the best supported implementation are logback > log4j2 > log4j, in order of preferences
+<dependency>
+    <groupId>ch.qos.logback</groupId>
+    <artifactId>logback-core</artifactId>
+</dependency>
+
+// never do a printStackTrace(), instead hand the exception to the logger
+logger.error("the exception will be logged with both message and stacktrace", e);
+
+// avoid string concatenation
+logger.debug("this" + "wastes" + "memory" + "even" + "when" + "debug==off");
+logger.debug("this {} memory {} debug {}", "avoids wasting", "at", "and all levels");
+
+// situationally use logging level checks
+if (logger.isDebugEnabled()) {
+    logger.debug("this" + "wastes" + "memory" + "only" + "when" + "debug==on");
+}
+
+```
+
+
+**Don't explicitly call toString**	
+
+```java
+_log.info("Foobling bar. bar=" + bar.toString()); -> Bad 
+_log.info("Foobling bar. bar=" + bar); -> Good
+
+// The bad log will throw a NullPointerException if 'bar' is null.
+// The good log will print "Foobling bar. bar=null" if 'bar' is null.
+```
+
+
+**String concatenation vs Placeholders with parameters**
+
+	
+```java
+_log.info("A foo (foo=" + foo + ") walked into a bar (bar=" + bar + ") and said, " + fooBarSaying); 
+
+_log.info("A foo (foo={}) walked into a bar (bar={}) and said, {}", foo, bar, fooBarSaying);  
+
+// String concatenation
+// reduces the risk of transposing parameters. When you have long lists of params place holders can look right but if the argument list is switched around you might not know. This is especially troublesome if there are multiple PKs in the list. 
+
+
+// Placeholders with parameters
+// This is a performance improvement (albeit a mico one). If you use place holders and the log isn't actually logged (due to log level) there will be no time wasted concatenating the string
+
+
+// For either
+// There is some debate about readability some find placeholders easier to read as one can "just read the message" where as others concatenations is more readable as you can place exactly what is being logged where.
+```
+	
+
+**Do not include PII**
+
+```java
+log.warn("Failed to transact. Employee (employee_number={}) is too young (birthDate={})", employeeNumber, birthDate)  Bad
+
+log.warn("Failed to transact. Employee (employeePK={}) has restrictions", employeePK)  Good
+
+//The bad log exposes an employee's employee number and birthday which may be used to identify them
+//The good log avoids mentioning any PII and replaces the employee number which personally identifies the employee with the employeePK which identifies them in the system.
+```
+	
+
+### Requirements
+
+**Log Content**
+- Must contain: Timestamp. resource locator, resource id, log level, log content
+- Should contain: Code locator, log tags
+
+**Timestamp Precision**
+- At least ms precision.
+- Both human readable and numeric time.
+- For human readable: log with timezone (Eastern). Uses standard ISO format (iso8601)
+
+**Resource Locator**
+- Node, container id, application id, process id, service id
+
+**Code Locator (Optional)**
+- File, directory, line number, function, class/method
+
+**Resource ID**
+- User Id, Customer Id, Account Id
+
+**Log classification**
+- Level: Fatal, Error, Warning, Info, Debug, Trace.
+- Tags: Flexible for application to define
+
+**Transaction ID**
+
+Used to connect log records across multiple records and resource locators
+- Call trace id, application session id, http session cookie
+
+**Format**
+Clear record demarcation. Ease for deterministic regular expression to pickup
+
+**Policies**
+- Log as much as needed without duplication
+- Each record must contain the full context. There should not relies on previous/following record to define the context
+- **Should log when call out to external entities**
+- Must log at changing system persistent state
+- Must log at error condition
+
+**Management**
+- System must be synchronized with NTP
+- System timing precision/drift must be available/queryable
+- Log must be configurable via configuration file
+- For long running service, log configuration must be changeable during run-time
+- It is expected that PRD system will run at INFO level logging
+
+**Tools/Library**
+- Should be implemented via common library to insure format/content consistency
+- Library should support dynamic filtering based on ** Log level, Log tag, Resource Id, Transaction Id
+- If log is not in ASCII, single line format, generally deployed tool must be available to quickly view and search of records on local device
+- Log schema SHOULD be documented and published
+- Schema validator SHOULD be available
+
 
 # Quotes
 
