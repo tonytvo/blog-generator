@@ -8,10 +8,11 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 10 — Long-Established Business IT (Legacy/Mainframe)**
+  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 16 — Redacting and Reprocessing Telemetry**
 
-* Integrating mainframe telemetry into modern observability stacks.
-* Practical handling of hybrid systems."
+* Handling **toxic data** (PII, GDPR).
+* Real-time and batch redaction pipelines.
+* Re-ingestion for platform migrations."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**" please
 
