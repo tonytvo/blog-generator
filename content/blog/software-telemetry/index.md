@@ -1690,6 +1690,346 @@ Final insight:
 
 ---
 
+Perfect — below is a **comprehensive, expanded, and deeply contextualized outline** of **Chapter 9 — “Non-Software Business”** from *Software Telemetry* by **Jamie Riedesel**, written in the same **bold-highlighted, architecture-aware, and narrative-rich** style as before.
+
+This chapter contrasts sharply with the previous one. If Chapter 8 showed a **born-in-the-cloud startup** evolving telemetry through necessity and growth, Chapter 9 focuses on organizations where **software is not the product** — but **still runs the business**.
+
+---
+
+## 🏢 **Non-Software Business**
+
+### 🎯 **Purpose and Context**
+
+Riedesel begins by acknowledging a hard truth:
+
+> **“Every company is a software company — most just don’t know it yet.”**
+
+This chapter examines how **traditional, non-software organizations** (manufacturers, retailers, logistics firms, hospitals, universities, government agencies, etc.) **adopt telemetry indirectly** — first through **IT operations** and later through **digital initiatives** that slowly transform them into software-centric enterprises.
+
+Unlike startups, these companies:
+
+* Don’t have a DevOps culture by default.
+* Depend heavily on **off-the-shelf SaaS systems** (ERP, CRM, HR, POS, etc.).
+* View telemetry initially as **a compliance or uptime function**, not a product enabler.
+* Often suffer from **organizational silos** where operations, development, and business units own different data streams.
+
+Riedesel frames this environment as one of **“telemetry by outsourcing.”**
+
+> **“In non-software businesses, telemetry starts not in the code but in the contracts.”**
+
+---
+
+### 🖥️ **1. Telemetry Begins in the IT Department**
+
+#### **(a) Inherited Visibility from Vendors**
+
+Most non-software organizations rely on a patchwork of SaaS and on-premises systems:
+
+* **Microsoft 365** or **Google Workspace** for collaboration
+* **Salesforce**, **SAP**, or **Oracle ERP** for operations
+* **ServiceNow**, **PagerDuty**, or **SolarWinds** for IT management
+* **VMware**, **Cisco**, or **Fortinet** appliances in the datacenter
+
+Each of these systems emits telemetry — but through its **own proprietary portal** or **API**.
+
+Riedesel writes:
+
+> **“Your first telemetry dashboards arrive through vendor logins, not engineering effort.”**
+
+This results in **fragmented visibility**:
+
+* Network logs are in one portal.
+* Application health in another.
+* Security events in a third.
+
+> **“The telemetry exists, but it’s trapped in a dozen walled gardens.”**
+
+---
+
+#### **(b) SaaS-Driven Telemetry as a Service**
+
+Because internal IT teams rarely build custom pipelines, they depend on **SaaS-provided observability dashboards**.
+Examples:
+
+* Microsoft’s **Azure Monitor** or **Defender for Cloud**
+* Google’s **Admin Console** and **Security Center**
+* Salesforce’s **event monitoring API**
+
+Benefits:
+
+* No maintenance overhead.
+* Regulatory-compliant by design.
+* Built-in visualizations for security and usage analytics.
+
+Limitations:
+
+* **Little cross-system correlation.**
+* **Opaque metrics definitions.**
+* **Vendor lock-in** for historical data.
+
+Riedesel observes:
+
+> **“You don’t own your telemetry — you rent visibility by the month.”**
+
+---
+
+#### **(c) The Shadow Telemetry Problem**
+
+Because official telemetry channels are locked behind IT admin privileges, **departments build their own shadow monitoring** using Excel exports, PowerBI reports, or ad-hoc scripts.
+
+Example:
+
+* Finance exports CSVs from SAP monthly to audit transaction errors.
+* HR extracts access logs from the identity provider for compliance.
+* Operations teams rely on spreadsheet pivot tables as “dashboards.”
+
+> **“Shadow telemetry is where observability meets office politics.”**
+
+This leads to duplicated effort, inconsistent KPIs, and data latency measured in weeks.
+
+---
+
+### 🌱 **2. The First Expansion — When Telemetry Meets Digital Transformation**
+
+As these organizations pursue modernization — migrating workloads to the cloud or building customer-facing portals — telemetry must **expand beyond IT.**
+
+#### **(a) The Trigger Moment: Internal Development Begins**
+
+Riedesel pinpoints the key turning point:
+
+> **“The day your company writes its first line of production code, your telemetry universe changes forever.”**
+
+That first in-house application — maybe a customer portal, mobile app, or API integration — demands **real observability**:
+
+* Developers need logs and metrics they can query.
+* Security needs audit trails for compliance (SOX, HIPAA, GDPR).
+* Operations needs uptime and SLA reporting.
+
+Suddenly, **the old IT dashboards are insufficient**.
+Telemetry must now bridge **SaaS**, **custom code**, and **cloud infrastructure**.
+
+---
+
+#### **(b) Building a Telemetry Bridge between Worlds**
+
+The organization typically introduces **middleware telemetry** — a bridge connecting legacy IT monitoring with new application telemetry.
+
+Example flow:
+
+```
+Existing SaaS systems (ServiceNow, SAP)
+       ↓
+Integration Bus (Kafka / MuleSoft / Azure Event Hub)
+       ↓
+Central Log Collector (Fluentd / Logstash)
+       ↓
+Storage (Elasticsearch / Splunk)
+       ↓
+Visualization (Kibana / PowerBI)
+```
+
+> **“The goal is not to replace vendor telemetry, but to normalize it.”**
+
+This phase introduces:
+
+* **ETL pipelines** for SaaS audit logs.
+* **Structured logging** for internal apps.
+* **Cross-domain dashboards** combining IT, business, and development data.
+
+Now the company begins to see **systemic patterns** — how outages in a CRM ripple into sales KPIs, or how API latency impacts customer experience.
+
+---
+
+#### **(c) Cultural Friction and Data Politics**
+
+Telemetry expansion collides with organizational culture.
+The IT department historically guards access to logs for **security reasons**, while development teams demand **self-service observability**.
+
+Riedesel calls this:
+
+> **“The turf war between operations confidentiality and developer velocity.”**
+
+Common debates:
+
+* Should developers have access to production logs?
+* Can business analysts see system performance dashboards?
+* Who pays for the new ELK cluster or Splunk license?
+
+Without clear governance, telemetry projects stall under bureaucracy.
+
+**Best Practice:**
+
+* Establish a **Telemetry Working Group** including IT, Security, and Dev leads.
+* Define access tiers (read-only vs. admin).
+* Treat telemetry as a **shared business service**, not a department tool.
+
+> **“When everyone owns a slice of visibility, the whole company starts to see.”**
+
+---
+
+### ⚙️ **3. Evolving from Reactive Monitoring to Proactive Telemetry**
+
+Initially, non-software companies only use telemetry for **reactive IT incident management**:
+
+* Detect outages.
+* Reset servers.
+* Notify vendors.
+
+Over time, they realize telemetry can **predict and prevent issues** — a shift from **monitoring to observability**.
+
+#### **(a) From Alerts to Analytics**
+
+* Move from simple up/down alerts to **trend dashboards**.
+* Analyze ticket data from ServiceNow for recurring incidents.
+* Use metrics to justify automation investments.
+
+> **“Data stops being noise when it starts informing budgets.”**
+
+#### **(b) Telemetry as Business Evidence**
+
+Once telemetry enters PowerBI or Tableau, executives begin using it to measure:
+
+* SLA adherence with external vendors.
+* Cost allocation by system or department.
+* Compliance audit readiness.
+
+Riedesel notes:
+
+> **“In traditional enterprises, telemetry’s first killer app isn’t uptime — it’s accountability.”**
+
+---
+
+### 🧩 **4. Integrating Internal Apps and Legacy Systems**
+
+When in-house development grows, the IT landscape becomes **hybrid**: legacy systems + new cloud applications.
+
+#### **(a) The Dual-Stack Reality**
+
+* Mainframes or Oracle DBs coexist with AWS Lambda or Kubernetes clusters.
+* On-prem SIEM tools (ArcSight, QRadar) coexist with cloud log pipelines (CloudWatch, Stackdriver).
+
+> **“Telemetry has to speak both COBOL and Kubernetes.”**
+
+**Technical solutions:**
+
+* Use **collectors like Fluentd, Logstash, or Telegraf** to bridge both worlds.
+* Standardize formats via **JSON schemas or ECS (Elastic Common Schema)**.
+* Correlate across time using **synchronized NTP and UTC timestamps**.
+
+---
+
+#### **(b) Introducing OpenTelemetry for New Apps**
+
+* Developers instrument new microservices with OpenTelemetry SDKs.
+* Export traces to Jaeger or Tempo.
+* Gradually integrate with IT’s centralized log management.
+
+> **“The new telemetry doesn’t replace the old — it wraps around it.”**
+
+This co-existence phase can last years but forms the foundation of **enterprise observability**.
+
+---
+
+### 🔐 **5. Compliance, Security, and Audit Pressure**
+
+For non-software businesses, one of the main reasons telemetry matures is **regulation**.
+
+Examples:
+
+* **SOX** (financial integrity)
+* **HIPAA** (healthcare privacy)
+* **PCI-DSS** (payment security)
+* **GDPR / CCPA** (personal data protection)
+
+Riedesel explains:
+
+> **“In regulated industries, telemetry isn’t optional — it’s evidence.”**
+
+Key requirements:
+
+* Immutable log storage (write-once, read-many).
+* Retention policies (1–7 years).
+* Audit trails for access and configuration changes.
+
+Tools: Splunk, Elastic Security, AWS Audit Manager, Azure Sentinel.
+
+This pressure often justifies telemetry investment that IT budgets alone could not.
+
+> **“Compliance buys what performance cannot.”**
+
+---
+
+### 📈 **6. Emergence of Cross-Functional Telemetry Teams**
+
+Once telemetry spans IT and software teams, organizations create a **central observability function** or **Telemetry Center of Excellence (CoE)**.
+
+Responsibilities:
+
+* Define telemetry standards and schemas.
+* Manage ingestion pipelines and retention policies.
+* Offer dashboards as shared internal services.
+* Train departments on interpreting data.
+
+> **“In mature enterprises, telemetry becomes the language between departments.”**
+
+This evolution mirrors the startup’s “Platform Engineering” model but with **corporate constraints** (change management, budgets, procurement cycles).
+
+---
+
+### 💡 **7. Example Scenario: Retail Company Modernizing Telemetry**
+
+**Phase 1:** IT monitors POS terminals and network uptime via SolarWinds.
+**Phase 2:** Company launches an online store — adds AWS CloudWatch and ELK Stack.
+**Phase 3:** Security introduces Splunk for compliance.
+**Phase 4:** Business analysts consume telemetry data in PowerBI.
+**Phase 5:** Unified telemetry pipeline connects POS, website, and cloud services using Fluent Bit → Kafka → Elastic.
+
+Result:
+
+* Real-time sales analytics tied to infrastructure performance.
+* Single correlation ID from checkout API to payment processor.
+* Reduced incident resolution time by 60%.
+
+> **“When a retailer knows which server sold the shoes, telemetry has gone full circle.”**
+
+---
+
+### 🧠 **8. Chapter Summary — Telemetry as the Backbone of Digital Transformation**
+
+Riedesel closes the chapter with a fundamental insight:
+
+> **“The day you start building software, your IT telemetry becomes your application telemetry.”**
+
+In other words, the border between **infrastructure monitoring** and **business observability** disappears.
+
+**Core Lessons:**
+
+| Theme                                 | Key Takeaway                                               |
+| ------------------------------------- | ---------------------------------------------------------- |
+| **Start with what vendors give you.** | SaaS telemetry is a foundation, not a trap.                |
+| **Normalize across systems.**         | Use integration buses and standard schemas.                |
+| **Create shared ownership.**          | Avoid turf wars between IT and dev teams.                  |
+| **Leverage compliance funding.**      | Regulations can drive modernization.                       |
+| **Plan for convergence.**             | Infrastructure and application telemetry eventually merge. |
+
+Final quote:
+
+> **“Telemetry is the bridge between the old world that ran on hardware and the new one that runs on software.”**
+
+---
+
+✅ **Summary Checklist: Non-Software Business Telemetry Evolution**
+
+| Phase                    | Characteristics              | Tools                   | Strategic Goal                     |
+| ------------------------ | ---------------------------- | ----------------------- | ---------------------------------- |
+| **Vendor Default**       | Siloed SaaS dashboards       | CloudWatch, ServiceNow  | Basic uptime visibility            |
+| **Shadow Telemetry**     | Manual exports, spreadsheets | CSV, PowerBI            | Departmental accountability        |
+| **Integration Bridge**   | Central ingestion pipeline   | Fluentd, Kafka, Elastic | Unified visibility                 |
+| **Hybrid Observability** | Cloud + legacy integration   | OpenTelemetry, SIEM     | Cross-system correlation           |
+| **Regulated Maturity**   | Audit-grade telemetry        | Splunk, Sentinel        | Compliance & security intelligence |
+
+---
+
 
 
 # Quotes

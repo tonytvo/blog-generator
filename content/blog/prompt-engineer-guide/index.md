@@ -8,14 +8,11 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "## 🌐 **PART 2 — Use Cases Revisited: Applying Architecture Concepts**
+  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 9 — Non-Software Business**
 
-Eleven real-world examples showing how telemetry systems evolve by organization type .
-
-### **Chapter 8 — Growing Cloud-Based Startup**
-
-* From single-dashboard telemetry (AWS/GCP) to internal systems.
-* Transition to in-house collection pipelines (Fluentd, ELK)."
+* Telemetry in IT departments using SaaS tools.
+* Expanding scope when internal development begins.
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**" please
 
