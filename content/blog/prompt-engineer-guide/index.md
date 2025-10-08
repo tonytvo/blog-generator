@@ -8,13 +8,14 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 5 — Presentation Stage**
+  - expand in much more details with bold high-light quotes/phrases the above sections "## 🌐 **PART 2 — Use Cases Revisited: Applying Architecture Concepts**
 
-* Visualizing and aggregating telemetry.
+Eleven real-world examples showing how telemetry systems evolve by organization type .
 
-  * Dashboards via Grafana, Kibana
-  * Aggregation functions and statistical validity
-  * Linking raw data to decision support"
+### **Chapter 8 — Growing Cloud-Based Startup**
+
+* From single-dashboard telemetry (AWS/GCP) to internal systems.
+* Transition to in-house collection pipelines (Fluentd, ELK)."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**" please
 
