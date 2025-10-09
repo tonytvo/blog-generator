@@ -8,17 +8,15 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**
+  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 5 — Presentation Stage**
 
-* Sources: production code, hardware, and as-a-Service systems.
-* Methods:
+* Visualizing and aggregating telemetry.
 
-  * Log files, system logs, stdout streams
-  * SNMP from devices (e.g., Cisco firewalls)
-  * SaaS and IaaS event streams
-* Key concept: **markup** and **formatting** for efficient emission."
+  * Dashboards via Grafana, Kibana
+  * Aggregation functions and statistical validity
+  * Linking raw data to decision support"
   - second pass:
-    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
+    - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**" please
 
 - **community research**
 
