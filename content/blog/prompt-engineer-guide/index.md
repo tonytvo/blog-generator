@@ -8,33 +8,15 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "PART 1 — Telemetry System Architecture
+  - expand in much more details with bold high-light quotes/phrases the above sections "### **Chapter 2 — Emitting Stage: Creating and Submitting Telemetry**
 
-Focus: conceptual framework of all telemetry systems.
+* Sources: production code, hardware, and as-a-Service systems.
+* Methods:
 
-Chapter 1 — Introduction
-
-Defines four styles of telemetry:
-
-Centralized Logging
-
-Metrics
-
-Distributed Tracing
-
-SIEM (Security Information and Event Management)
-
-Describes how telemetry is used by:
-
-DevOps & SRE teams
-
-Security & compliance
-
-Customer support
-
-Business intelligence
-
-Common challenges: underinvestment, standardization, data leaks, and legal disruptions ."
+  * Log files, system logs, stdout streams
+  * SNMP from devices (e.g., Cisco firewalls)
+  * SaaS and IaaS event streams
+* Key concept: **markup** and **formatting** for efficient emission."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
