@@ -2353,8 +2353,7 @@ positive about.
 # How Timeless This Is
 
 - It can be humbling and comforting to take the time to think of these moments. As you try to rein in your difficult teenager, as your three-month-old falls asleep in your arms, as you nurse your daughter with health problems through her recovery—the fact that this kind of thing has been happening throughout human history should be heartening. They made it; you’re going to make it.
-- What a tradition you are part of. Think how many parents have come before you and will come after. We all struggle. We all triumph. We all smile
-watching our kids play in the sand. Parenthood, this timeless enterprise.
+- What a tradition you are part of. Think how many parents have come before you and will come after. We all struggle. We all triumph. We all smile watching our kids play in the sand. Parenthood, this timeless enterprise.
 
 # There Is Nothing Better Than This
 
