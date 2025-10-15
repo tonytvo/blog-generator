@@ -2359,8 +2359,7 @@ positive about.
 
 - Nothing’s better, as Bruce Springsteen put it, than blood on blood. There is a lot of great stuff in life, but nothing is better than family. That’s what he’s saying. The blood relationship is not what he’s talking about. He’s talking about the bond. The people you’d do anything for.
 
-- So the question to think about today is: If this really is the best and most important thing in your world, are you really building your life around it? We pull extra hours at the office to get promoted. We take risks to make investments with our money. We make plans to see friends or have fun. But do we actively sacrifice and scheme so that we might have more of that one pleasure that tops them all? Do we actively prioritize the thing that truly matters most? Those moments when blood is on blood, when family is
-together?
+- So the question to think about today is: If this really is the best and most important thing in your world, are you really building your life around it? We pull extra hours at the office to get promoted. We take risks to make investments with our money. We make plans to see friends or have fun. But do we actively sacrifice and scheme so that we might have more of that one pleasure that tops them all? Do we actively prioritize the thing that truly matters most? Those moments when blood is on blood, when family is together?
 
 # This Is Why You’re Here
 
@@ -2421,12 +2420,7 @@ together?
 
 - As parents, the one thing that is always in short supply is time. And Bill Simmons’s time is as thinly stretched as anyone’s. Which is why he learned how to double up on it. As we should too.
 
-- The jogging stroller lets you exercise... while spending time with your
-kid. The drive to school... is a chance to have that conversation you needed
-to have with your daughter. All the chores that need to be done around the
-house... are a way to teach your kids about responsibility. As a parent, you
-always have to be looking for the double opportunity. Time is at a premium.
-Resources are scarce. Don’t waste any of them.
+- The jogging stroller lets you exercise... while spending time with your kid. The drive to school... is a chance to have that conversation you needed to have with your daughter. All the chores that need to be done around the house... are a way to teach your kids about responsibility. As a parent, you always have to be looking for the double opportunity. Time is at a premium. Resources are scarce. Don’t waste any of them.
 
 # You’d Do This Only for Them
 
@@ -2468,9 +2462,7 @@ Resources are scarce. Don’t waste any of them.
 
 - You will want a crowded table when you’re old, we’ve said. Well, that’s going to require some delayed gratification now. Some restraint now. It means letting things go. It means admitting you were wrong. It means telling your kids, your spouse, your own parents, that you’re sorry. It means accepting apologies from them too. It means showing them how to patch things up with their siblings, with other people.
 
-- We can’t let arguments take on lives of their own and risk their taking the
-joy out of our lives. Life is too short, family is too precious, to destroy over
-nothing.
+- We can’t let arguments take on lives of their own and risk their taking the joy out of our lives. Life is too short, family is too precious, to destroy over nothing.
 
 
 # Look for the Excuse
