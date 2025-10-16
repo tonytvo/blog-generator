@@ -2484,8 +2484,7 @@ positive about.
 
 # Let Them Take You Down a Peg
 
-- A proud man is always looking down on things and people; and, of course, as long
-as you are looking down, you cannot see something that is above you. — C. S. LEWIS
+- A proud man is always looking down on things and people; and, of course, as long as you are looking down, you cannot see something that is above you. — C. S. LEWIS
 
 - One of the great things about being a parent—if you do it right—is that it’s very humbling. No one knows how to cut you down to size quite like your kids. They don’t care how rich, how important, how respected you are. To them, you’re a goober. To them, you’re unfunny, old, and hopelessly uncool. You’re someone they can make fun of. In fact, you’re who they practice their sense of humor on. They’re not impressed with how much you paid for the hotel room—they want to know if there is a swimming pool. They don’t care how trendy a restaurant is—they hate that it doesn’t have chicken fingers. They don’t want you to drop them off in front of school, and they don’t think you’re clever. They suspect you don’t have any idea what you’re talking about.
 
@@ -2496,9 +2495,7 @@ as you are looking down, you cannot see something that is above you. — C. S. L
 
 - Finally, the third time, famed college football coach Jack Harbaugh was readying to yell—just like the father in the movie Step Brothers—“RUMPUS TIME IS OVER!” And yet he didn’t. Instead, he just looked at the boys, the future NFL coaches John and Jim Harbaugh, caught as they were in the middle of their fun, and said, “Who could possibly have it better than you two? You share, you laugh, you’re brothers, you tell each other stories, you share your dreams. Who could have it better than you two?”
 
-- The boys answered in unison: “Nobody, Dad, nobody.” It was this
-question that became the Harbaugh family motto, and one worth aspiring to
-in every family, rich or poor, big or small.
+- The boys answered in unison: “Nobody, Dad, nobody.” It was this question that became the Harbaugh family motto, and one worth aspiring to in every family, rich or poor, big or small.
 
 - Who has it better than us?
 
@@ -2508,7 +2505,7 @@ in every family, rich or poor, big or small.
 - While there is no question that raising kids is hard, that it takes enormous amounts of time and energy—especially in a world where so much of the burden unfairly falls on women—real artists and entrepreneurs and leaders know the truth. Kids are not a burden or an impediment to success. They help us. They give us purpose and clarity and, most important, balance. The great Lin-Manuel Miranda and his wife had their first child just two weeks before the first rehearsals of his smash play Hamilton. You might think that this was a disruption or a distraction, but in fact it was the opposite. Miranda told the filmmaker Judd Apatow in the book Sicker in the Head that Hamilton might not have succeeded without this life event, and Miranda himself might not have been able to withstand the success either. Having an infant at home wasn’t a distraction; it forced him to ignore distraction. “I had to say no to ninety percent of it,” Miranda says of all the offers and party invites that came his way, “because... I had to sleep eight hours and I knew I was gonna wake up twice and change diapers. My family really saved my
 ass, because I think that’s how you lose it.”
 
-- So actually maybe family does hold you back . . . from getting in trouble. From biting off more than you can chew. From thinking you’re bigger or more important than you are. It holds you down... to reality, to what actually matters. It makes you realize that you’re loved, that you’re enough. And as it happens, all of this can make you better at what you do.
+- So actually maybe family does hold you back... from getting in trouble. From biting off more than you can chew. From thinking you’re bigger or more important than you are. It holds you down... to reality, to what actually matters. It makes you realize that you’re loved, that you’re enough. And as it happens, all of this can make you better at what you do.
 
 # It’s an Honor to Do This
 
