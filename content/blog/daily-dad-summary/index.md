@@ -2520,8 +2520,7 @@ ass, because I think that’s how you lose it.”
 
 # You Got What You’ll Want
 
-- It doesn’t matter what happened at work. It doesn’t matter what we’ve just done
-or been through. The first thing on our minds is our kids. We want to hold them. We want to tell them we love them. We want to share with them.
+- It doesn’t matter what happened at work. It doesn’t matter what we’ve just done or been through. The first thing on our minds is our kids. We want to hold them. We want to tell them we love them. We want to share with them.
 
 - And here’s the other thing about those moments. Yeah, sometimes we wish we had gone pro. Yeah, it’d be nice to make millions. To be famous. To reach the pinnacle. But the real prize? These athletes all reach for one thing... and it’s not the trophy. They want what you already have.
 
@@ -2532,13 +2531,9 @@ or been through. The first thing on our minds is our kids. We want to hold them.
 
 # Cherish the Garbage Time
 
-- We save and plan for elaborate vacations. We anticipate for months and
-months. And when it inevitably isn’t as special or elaborate or photo-
-worthy as we’d hoped, we feel awful, like we’re not enough, like we haven’t
-done enough.
+- We save and plan for elaborate vacations. We anticipate for months and months. And when it inevitably isn’t as special or elaborate or photo- worthy as we’d hoped, we feel awful, like we’re not enough, like we haven’t done enough.
 
-- Yet the comedian Jerry Seinfeld, who has three kids, questions the
-“quality time” that so many of us chase.
+- Yet the comedian Jerry Seinfeld, who has three kids, questions the “quality time” that so many of us chase.
   - I’m a believer in the ordinary and the mundane. These guys that talk about “quality time”—I always find that a little sad when they say, “We have quality time.” I don’t want quality time. I want the garbage time. That’s what I like. You just see them in their room reading a comic book and you get to kind of watch that for a minute, or [having] a bowl of Cheerios at 11 o’clock at night when they’re not even supposed to be up. The garbage, that’s what I love.
 
 - Special days? Nah. Every day, every minute, can be special. All time with your kids—all time with anyone you love—is created equal. Eating cereal together can be wonderful. Blowing off school for a fun day together can be wonderful—but so can the twenty-minute drive in traffic to school. So can taking out the garbage or waiting in the McDonald’s drive-through.
@@ -2565,6 +2560,7 @@ done enough.
 # Don’t Let Them Do This
 
 - They say it all the time. When will this be over? Are we there yet? Why is this taking so long? Do we have to? It’s whiny. It’s annoying. You ask them to stop. But in getting upset, you miss the real opportunity to teach them and to explain to them what they’re really saying.
+
 - “Darling, never wish away a minute of your life.”
 
 - They’re kids, so they don’t understand how short a time we actually have on this planet. Even you, as an adult, sometimes forget it. That you get only eighteen summers at home with your kid. That you drop them off at school only a little more than a thousand mornings. That you’ll get only so many breakfasts together, so many trips to the store, so many waits in the waiting room at the doctor’s office.
@@ -2594,9 +2590,7 @@ done enough.
 
 # You Can Find the Time
 
-- I didn’t see why it had to be either/or... If you have a job in the daytime, you
-write at night. It’s all a question of how much you want to do it.
-—MARGARET ATWOOD
+- I didn’t see why it had to be either/or... If you have a job in the daytime, you write at night. It’s all a question of how much you want to do it. —MARGARET ATWOOD
 
 - We think we’re too busy. We think it’s impossible. We’re parents now. There’s no way we can start that company. There’s no way we can finish that project. We have to be realistic. We’ve got to put it aside for now.
 
