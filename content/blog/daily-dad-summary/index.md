@@ -2610,19 +2610,16 @@ ass, because I think that’s how you lose it.”
 
 - You’ve heard all these things more times than you can count. The request for one more book before bed. One more time riding on your back. To watch that funny video one more time. To sing that song once more from the beginning. To hear the story over again. To jump in the pool one more time... and then one more time after that... and one more time after that.
 
-- In fact, say yes because it’s the thousandth time. Because that’s the time that counts.
-You never know when you’ll get another time. None of us know how long we’ve got. None of us know how many more times we have. So say yes. Make this thousandth one count like it was the first.
+- In fact, say yes because it’s the thousandth time. Because that’s the time that counts. You never know when you’ll get another time. None of us know how long we’ve got. None of us know how many more times we have. So say yes. Make this thousandth one count like it was the first.
 
 
 # What Will You Regret?
 
-- To have a child is the greatest honor and responsibility that can be bestowed upon
-any living being. — CHRISTOPHER PAOLINI
+- To have a child is the greatest honor and responsibility that can be bestowed upon any living being. — CHRISTOPHER PAOLINI
 
 - On their deathbeds, parents think about a lot of things. They think about the world they’re leaving to their sons and daughters. They think about how they parented. They think about the mistakes they made. They think about what they did right. They are warmed by the thoughts of their children, and if they are lucky, they find themselves surrounded by them.
 
-- The question for you to think about today, on a day hopefully quite far from that moment, is: What decisions are you making now, and how will you think about them then? Think about what most parents regret as they come to the end of life: They wish they’d expressed their love for their kids more. They regret not spending more time with their kids. They regret not telling them often enough how proud of them they were. They regret taking things too seriously. They regret letting petty differences or petty problems loom
-larger than the love that they felt in their hearts. They regret not being present, spending all that energy trying to organize perfect “quality” time when there was so much ordinary, wonderful garbage time to be had. They regret spoiling their kids, not teaching them the right lessons, not having the conversations that needed to be had.
+- The question for you to think about today, on a day hopefully quite far from that moment, is: What decisions are you making now, and how will you think about them then? Think about what most parents regret as they come to the end of life: They wish they’d expressed their love for their kids more. They regret not spending more time with their kids. They regret not telling them often enough how proud of them they were. They regret taking things too seriously. They regret letting petty differences or petty problems loom larger than the love that they felt in their hearts. They regret not being present, spending all that energy trying to organize perfect “quality” time when there was so much ordinary, wonderful garbage time to be had. They regret spoiling their kids, not teaching them the right lessons, not having the conversations that needed to be had.
 
 - Well, you’re lucky. Because you’re not on your deathbed right now. It’s not too late. Nor is it ever too early. Today you can adjust and change to make sure you don’t have those regrets—or at least you can seek to minimize them.
 
