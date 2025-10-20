@@ -2648,8 +2648,7 @@ ass, because I think that’s how you lose it.”
 
 # You Have the Time
 
-- Every parent feels short on time. You have work, your marriage, your relationship. You have your kids and basketball practice and lunches to pack and baths to give. You have all those important conversations to have, rules to set down, homework to check, and curfews to enforce. Plus, you have your own health and your own interests to service.
-Who has the time? you have probably said to yourself. How can I get it all in?
+- Every parent feels short on time. You have work, your marriage, your relationship. You have your kids and basketball practice and lunches to pack and baths to give. You have all those important conversations to have, rules to set down, homework to check, and curfews to enforce. Plus, you have your own health and your own interests to service. Who has the time? you have probably said to yourself. How can I get it all in?
 
 - You have to stop with this idea that you are rushed, that it all needs to be squeezed in—because it’s the urgency and franticness that are actually speeding things up. That was Gustie Herrigel’s powerful insight.
 
@@ -2657,23 +2656,19 @@ Who has the time? you have probably said to yourself. How can I get it all in?
 
 # Love the Little Moments
 
-- Enjoy the little things, for one day you may look back and realize they were the big
-things. — ROBERT BRAULT
+- Enjoy the little things, for one day you may look back and realize they were the big things. — ROBERT BRAULT
 
 - The morning rush before you get them ready for school. The time you spent waiting at a traffic light. When you were both hungry, so you stopped for fast food. When they messed up, but instead of getting mad you sat down as a family and talked. That weekend afternoon where you watched a movie on the couch.
 
 - These seem like little, inconsequential, ultimately forgettable moments. The background noise of life. Quintessential garbage time. But that’s misleading. Just as one man’s trash (or garbage time, in this case) is another man’s treasure, so can these little moments—if you decide to see them properly and soak them in—become the big moments, the important time.
 
-- Don’t take it for granted. Don’t let your mind or your attention drift. Don’t
-get too anxious (or ambitious) about the future at the expense of the present.
-Just be here now. Be with them.
+- Don’t take it for granted. Don’t let your mind or your attention drift. Don’t get too anxious (or ambitious) about the future at the expense of the present. Just be here now. Be with them.
 
 - Treat the little things as big things. Because in truth, that’s what they are.
 
 # Is It Really Time to Go?
 
-- Because the truth is, most of the stuff we’re rushing to is not that urgent. There is a certain amount of Zen in that, which is valuable to us for its own sake. But with regard to our kids, it’s also teaching them a valuable skill. Shouldn’t we want them to develop the ability to focus and pursue their curiosity? Isn’t it worth it for them to get a little dirty or for you to show up to the birthday party a bit late because they
-were really, intensely alive for a few minutes?
+- Because the truth is, most of the stuff we’re rushing to is not that urgent. There is a certain amount of Zen in that, which is valuable to us for its own sake. But with regard to our kids, it’s also teaching them a valuable skill. Shouldn’t we want them to develop the ability to focus and pursue their curiosity? Isn’t it worth it for them to get a little dirty or for you to show up to the birthday party a bit late because they were really, intensely alive for a few minutes?
 
 - Encourage your kids. Resist the urge to hurry. It’s not really time to go. You’re exactly where you—and they—need to be.
 
@@ -2682,8 +2677,7 @@ were really, intensely alive for a few minutes?
 
 - With bills to pay or traffic to wait through, a colicky baby or a resentful teenager, it can be hard to feel that the moment right in front of you is a gift. But indeed, these are wonderful moments. We must, as Goethe put it, hold fast to them.
 
-- That’s what parenting is. It’s right now. It’s whatever you’re doing in this
-moment. Always.
+- That’s what parenting is. It’s right now. It’s whatever you’re doing in this moment. Always.
 
 - Driving them to school. Folding laundry. Getting some quiet time before they wake up. Putting them back to bed when they wake up in the middle of the night. Sending them to their room. Taking away their phone because their grades have slipped. This is all it. This is all part of the job. And every one of these moments is wonderful. Every one of these moments is a gift.
 
