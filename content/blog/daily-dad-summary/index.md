@@ -2719,17 +2719,14 @@ ass, because I think that’s how you lose it.”
 
 - It’s just a fact. Because they’ll never be two again. Or twelve. Or twenty-five. You get only so many bedtimes, so many baths, so many drives to school, so many vacations, so many evenings on the couch, so many times in the garage trying to fix something they asked for your help with. In the end, we will all wish we could go back in time to get just one more of any of those moments.
 
-- Well, that can’t happen. But there is a way that we can travel to the future, or at least speak to the future. As the great author of children’s books Adam Rubin has said: we can, by the choices we make today, tell our future selves that we did everything we could. That we soaked it in. That we didn’t rush through it. That we told them what they meant to us. Do your future self the favor of a lifetime. Don’t take this moment for
-granted. Don’t let your temper rule. Don’t be stubborn. Don’t value the wrong things. Love now, while you can. Embrace the moment while you can.
+- Well, that can’t happen. But there is a way that we can travel to the future, or at least speak to the future. As the great author of children’s books Adam Rubin has said: we can, by the choices we make today, tell our future selves that we did everything we could. That we soaked it in. That we didn’t rush through it. That we told them what they meant to us. Do your future self the favor of a lifetime. Don’t take this moment for granted. Don’t let your temper rule. Don’t be stubborn. Don’t value the wrong things. Love now, while you can. Embrace the moment while you can.
 
 - Don’t rush away from it while it’s still here.
 
 
 # They Could Be Your Last Words
 
-- On January 8, 2022, about to go onstage to perform stand-up, Bob Saget
-—legendary comedian, longtime host of America’s Funniest Home Videos, and Danny Tanner on Full House—got a text from his daughter. We don’t know what she said, but it wasn’t urgent. He could have easily said to himself, I’ll respond later. I’ll call her in the
-morning. We’ve all done it. We’re running late. We’re processing emails when they call from the other room. We’re about to go into a meeting when they text us. We’re tired and we rush through our good-nights.
+- On January 8, 2022, about to go onstage to perform stand-up, Bob Saget—legendary comedian, longtime host of America’s Funniest Home Videos, and Danny Tanner on Full House—got a text from his daughter. We don’t know what she said, but it wasn’t urgent. He could have easily said to himself, I’ll respond later. I’ll call her in the morning. We’ve all done it. We’re running late. We’re processing emails when they call from the other room. We’re about to go into a meeting when they text us. We’re tired and we rush through our good-nights.
 
 - We tell ourselves that we’ll respond in a little bit. We tell ourselves that we’ll have another chance, that there will be other phone calls, other texts, more good-nights. But that’s not always true.
 
