@@ -2762,8 +2762,7 @@ ass, because I think that’s how you lose it.”
 
 - Do you know what one of the last things Abraham Lincoln ever said was? As he sat in the box at Ford’s Theatre, waiting for the play to start, Lincoln turned to his wife and said, “How I should like to visit Jerusalem sometime.”
 
-- Within minutes, an assassin would fire a bullet into his brain. Within hours, he would be dead. Just as you have your many reasons for why you are waiting to do this or
-delaying doing that, Lincoln had his. And yet life has a way of stripping all our reasons bare, of humbling our plans and assumptions. We must live, as Marcus Aurelius said, as if death hangs over us. We must parent this way, too. Because it does hang over us. We cannot put off until tomorrow, he said, what we can do today—whether that’s being good (our highest priority) or telling people we love them or taking them to the places we’ve always wanted to see.
+- Within minutes, an assassin would fire a bullet into his brain. Within hours, he would be dead. Just as you have your many reasons for why you are waiting to do this or delaying doing that, Lincoln had his. And yet life has a way of stripping all our reasons bare, of humbling our plans and assumptions. We must live, as Marcus Aurelius said, as if death hangs over us. We must parent this way, too. Because it does hang over us. We cannot put off until tomorrow, he said, what we can do today—whether that’s being good (our highest priority) or telling people we love them or taking them to the places we’ve always wanted to see.
 
 # It’s Not About the Stuff
 
@@ -2803,11 +2802,9 @@ delaying doing that, Lincoln had his. And yet life has a way of stripping all ou
 
 - Imagine generations of parents who did exactly the opposite of this. No wonder the past was so horrible... and people did such horrible things to each other. The first thing their parents did to them was horrible! They severed the first, most important bond a child has—the familial bond.
 
-- And think about what this cost them! Yes, kids are difficult when they’re young, but it’s also when they’re the most fun, the most innocent, the absolute cutest. So why are we so busy? Why are we working so much? Trying to have it all—cramming in all the old things we used to do before we had kids while we ask our parents to watch our children for us? We tell ourselves that when our kids are old we’ll make more time for them, we’ll
-have more freedom—and besides, they’ll appreciate it more when they’re older.
+- And think about what this cost them! Yes, kids are difficult when they’re young, but it’s also when they’re the most fun, the most innocent, the absolute cutest. So why are we so busy? Why are we working so much? Trying to have it all—cramming in all the old things we used to do before we had kids while we ask our parents to watch our children for us? We tell ourselves that when our kids are old we’ll make more time for them, we’ll have more freedom—and besides, they’ll appreciate it more when they’re older.
 
-- No! Now is when it matters most! Now is when it counts! The earlier the
-better!
+- No! Now is when it matters most! Now is when it counts! The earlier the better!
 
 
 # This Could Be That Day
