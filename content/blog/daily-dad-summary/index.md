@@ -2822,8 +2822,7 @@ ass, because I think that’s how you lose it.”
 # What Can You Do?
 
 - What do we do, then, if we cannot stop time or prevent every loss? We carry on with ordinary acts of everyday caretaking. I cannot shield my beloveds forever, but I can make them lunch today. I can teach a teenager to drive. I can take someone to a doctor
-appointment, fix the big crack in the ceiling when it begins to leak, and tuck everyone in at night until I can’t anymore. I can do small acts of nurturing that stand in for big, impossible acts of permanent protection, because the closest thing to lasting shelter we can offer one another is love, as deep and wide and in as many forms as we
-can give it. We take care of who we can and what we can. All you can do is keep on keeping on. Love. Try to be present. Do your best. Protect them. Take care of them. Ignore everything else.
+appointment, fix the big crack in the ceiling when it begins to leak, and tuck everyone in at night until I can’t anymore. I can do small acts of nurturing that stand in for big, impossible acts of permanent protection, because the closest thing to lasting shelter we can offer one another is love, as deep and wide and in as many forms as we can give it. We take care of who we can and what we can. All you can do is keep on keeping on. Love. Try to be present. Do your best. Protect them. Take care of them. Ignore everything else.
 
 
 # Begin Anew, While You Can
@@ -2849,3 +2848,4 @@ I would rather have questions that can’t be answered than answers that can’t
 The parenting style that is good for grit is also the parenting style good for most other things: Be really, really demanding, and be very, very supportive. — ANGELA DUCKWORTH
 
 # References
+- https://www.amazon.ca/Daily-Dad-Meditations-Parenting-Raising/dp/0593539052
