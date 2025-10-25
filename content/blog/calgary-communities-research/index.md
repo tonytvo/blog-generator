@@ -15617,7 +15617,141 @@ Strategy risk notes:
 	•	Maintenance and capital expenditures may be higher on older homes.
 
 
-# Canada Olympic Park
+# Canada Olympic Park (NW Calgary)
+
+⸻
+
+## 1. Nearby amenities & attractions
+	•	The area is anchored by Canada Olympic Park itself, offering ski / snowboard, mountain‑bike trails, year‑round sports facilities, and outdoor recreation on the Paskapoo Slopes.  ￼
+	•	Proximity to major transport corridors (Trans‑Canada Highway) and the western gateway toward the Rockies gives good access to green/open space.  ￼
+	•	The neighbourhood is part of a broader “adjacent lands” planning framework (the COP & Adjacent Lands Area Structure Plan) aimed at mixed‑use, residential, recreation development.  ￼
+Investment implication: The strong recreational / amenity base is a plus for lifestyle‑oriented tenants and owner‑occupiers. It may help support demand for homes with views, outdoor access. But depending on the lot, some amenities might be more recreational/training rather than everyday convenience (groceries, shops) so check micro‑location.
+
+⸻
+
+## 2. When were the houses commonly built?
+	•	I was not able to locate a reliable breakdown of construction era for the residential parts of the COP neighbourhood in publicly available sources.
+	•	The ASP for the area and tradition of the site suggest that major residential build‑out is ongoing/relatively recent (especially in “adjacent lands”). For example, multi‑residential buildings are being planned in the surrounding lands.  ￼
+Note: For due diligence you should pull the actual building‑permit / MLS historical data for the neighbourhood to determine median age of stock.
+
+⸻
+
+## 3. What are the common building types?
+	•	The area is in transition/mixed: given the ASP indicates multi‑residential buildings (14 buildings first phase, 20+ in subsequent phases) for the “Village in Medicine Hill” area adjacent to COP.  ￼
+	•	Given the large recreation zone, some parcels are non‑residential (sports facility, ski resort, etc.). For example the property at 8800 Canada Olympic Dr SW is designated Non‑residential land use (“Outdoor Sports, Recreation – Ski Resort”).  ￼
+Investment implication: There appears to be an opportunity for multi‑unit/multifamily in the “adjacent lands” part, not just detached single‑family homes. For a typical investor this could mean more flexibility — but you’ll need to check zoning and offering for each specific parcel.
+
+⸻
+
+## 4. Zoning regulations – does the zoning allow more units per lot?
+	•	The land use for 8800 Canada Olympic Dr SW is listed as “Direct Control District (DC)”.  ￼
+	•	The ASP (Area Structure Plan) for “Canada Olympic Park & Adjacent Lands” adopted 2005 sets a framework for higher intensity development in parts.  ￼
+	•	For example: a land‑use application “Residential Site B Land Use Amendment Proposal” refers to increasing residential density in the adjacent lands.  ￼
+Interpretation: This means higher density/multi‑unit is possible in certain parcels adjacent to COP — so yes, in some zones there is allowance for multi‑units per lot (subject to land‑use redesignation) rather than the typical 1 dwelling per lot.
+Recommendation: Confirm the land‑use zone for the actual lot you consider, check for “multi‑residential”, number of units allowed, FAR (floor area ratio), height, etc. Particularly for redevelopment/investment you’ll want to identify parcels zoned for multi‑family.
+Bottom line: Unlike many standard residential suburbs, this neighbourhood offers mixed‑use zoning opportunities which is promising for investors.
+
+⸻
+
+## 5. Population & population growth
+	•	I could not find a specific recent population count for the “Canada Olympic Park” neighbourhood alone in the sources I accessed. The City of Calgary’s Community Profiles tool is referenced but I did not locate a profile labelled exactly “Canada Olympic Park”.  ￼
+	•	For Calgary as a whole the population grew ~5.5 % between 2016 and 2021.  ￼
+Inference: The neighbourhood is likely experiencing moderate growth, especially in the “adjacent lands” portion with new multi‑residential development.
+Investment implication: Moderate growth suggests stable demand but not necessarily hyper‑growth. For an investment model assume moderate baseline rather than aggressive growth.
+
+⸻
+
+## 6. Average income in the area
+	•	I did not locate precise recent data for median household income for the COP neighbourhood specifically.
+	•	Without a clear figure it’s hard to assess income level. Given the adjacent new developments, the lifestyle amenity and recreation orientation, there may be a mix of incomes including higher‑income buyers/tenants.
+Investment implication: Since data is missing you’ll want to get the local income distribution via municipal data or a market‑study. For modelling assume mid‑to‑upper income relative to city average (given recreation/amenity premium) unless you find contrary evidence.
+
+⸻
+
+## 7. Crime rate
+	•	I did not locate a reliable specific crime rate for this exact community zone.
+Investment implication: Without a clear figure treat this as a “risk blank” — you should obtain Calgary Police Service neighbourhood crime stats for the ZIP/ward for COP to factor in. If crime rate is at/below city average that supports investment; if above, you’ll need to adjust yield expectations accordingly.
+
+⸻
+
+## 8. Rental supply / demand in the community
+	•	The presence of new multi‑residential planning suggests growing rental/housing supply. The ASP indicates multiple phases of multi‑residential building for the “Village in Medicine Hill” adjacent area.  ￼
+	•	Demand factors: amenity‑rich location, proximity to outdoor recreation and good transport access should support demand for renters wanting lifestyle/active living.
+Investment implication: The environment looks favourable for rental strategy, especially multi‑unit rentals, but watch supply side — new developments may increase competition. Ensure vacancy trends and absorption rates are acceptable before committing.
+
+⸻
+
+## 9. Average rents
+	•	I found no reliable published figure for average rents specific to COP community.
+Recommendation: Use local property management firms or CMHC data for the broader Calgary SW quadrant to estimate. For investment modelling assume slightly above city‑average rent for new development (due to amenity) but adjust for older stock.
+Investment implication: Without exact rent data your margin of error is higher — build in conservative assumptions.
+
+⸻
+
+## 10. Neighborhood grade: A, B, C, or D
+
+Based on the available evidence:
+Positives:
+• Amenity‑rich location (outdoor recreation, lifestyle)
+• Mixed‑use/multi‑unit zoning potential
+Gaps:
+• Income/crime/rent data not clearly available
+• Some parts may be newer development — less established track record
+Grade: I would rate this neighbourhood as B‑grade. It leans toward the “above average” category due to amenities and zoning flexibility, but the missing data and development stage keep it from an A.
+
+⸻
+
+## 11. Long‑term potential appreciation vs current returns / cash‑flow
+
+Appreciation potential:
+	•	Because there are redevelopment and densification opportunities, there is potential for above‑average appreciation (especially in parcels with multi‑unit or mixed‑use).
+	•	The lifestyle/amenity orientation adds upside if the neighbourhood becomes more desirable over time.
+Cash‑flow potential:
+	•	If you acquire multi‑unit rental product or property in favourable location, rents may command premium relative to older suburb stock.
+	•	However acquisition cost may be higher (given amenity). So you’ll need yield modelling to ensure cash‑flow is positive.
+Balance: This neighbourhood is a good candidate for a hybrid strategy: aim for moderate cash‑flow + moderate appreciation rather than purely cash‑flow only or speculative appreciation only.
+Recommendation: Model two scenarios:
+	•	Conservative: modest rent growth (2–3%/yr), moderate appreciation (3–4%/yr)
+	•	Optimistic: stronger rent growth (4–5%/yr), higher appreciation (5–6%/yr) if you land a premium unit / redevelopment parcel.
+
+⸻
+
+## 12. Average house prices
+	•	I did not locate a reliable recent “average house price” figure specific to COP neighbourhood in my sources.
+	•	You will need to pull MLS sold‐data (e.g., last 6‑12 months) for that specific community.
+Investment implication: Without precise price data you’ll need to assume based on neighbouring comparable communities and then validate via local sales records. Ensure cap rate analysis uses realistic purchase price ranges.
+
+⸻
+
+## 13. Real‑estate investment strategies that could work
+
+Given the profile of Canada Olympic Park neighbourhood, the following strategies may be suitable:
+
+a) Multi‑unit rental buy‑and‑hold
+	•	Acquire a newly built or recently built multi‑residential unit in the “adjacent lands” area (if zoning allows)
+	•	Lease to young professionals, active lifestyle tenants, recreation‑focused renters
+	•	Benefit from amenity premium and possible rent growth ahead of average
+
+b) Value‑add/upgrade for lifestyle rental
+	•	Purchase an older home (if available) within the neighbourhood or very nearby. Upgrade it to high finish to target higher‑rent tenants who value views and recreation access
+	•	Could convert portion to secondary suite if zoning allows (check lot zoning)
+
+c) Redevelopment / densification play (higher risk/higher reward)
+	•	Identify parcels zoned for multi‑residential or mixed‑use under the ASP that may allow higher density (check the DC zone and FAR)
+	•	Acquire under‑utilised property, apply for rezoning/land‑use change, develop or convert to higher‐density units for sale or rental
+	•	Requires deeper expertise in zoning, permitting, and execution risk
+
+d) Hybrid hold with moderate yields + appreciation
+	•	Acquire a well‑located detached or semi‑detached home in the neighbourhood, hold for medium term (5‑10 yrs) with expectation of both rental income and appreciation as neighbourhood matures further
+	•	This suits someone who wants moderate risk and diversification rather than pure cash‑flow or pure flip
+
+Strategy risk notes:
+	•	New supply risk: many multi‑units planned — competition may squeeze rent growth or occupancy
+	•	Zoning/permitting risk: Redevelopment plays depend on approval and timing
+	•	Data gap risk: Without full historic rent/income/crime data you’ll want to build conservative assumptions
+	•	Cost risk: Premium location may mean higher acquisition cost and higher expectations from tenants (amenities, build quality)
+
+⸻
 
 # Fish Creek Park
 
