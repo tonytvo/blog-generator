@@ -15,7 +15,7 @@ to-heading: 6
 class-name: "table-of-contents"
 ```
 
-# **Chapter 1: High-Level Strategies**
+# **High-Level Strategies**
 
 ## **Use Focused Queries to Search the Web for Insights into Problems**
 
