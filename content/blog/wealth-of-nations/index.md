@@ -25,7 +25,7 @@ class-name: "table-of-contents"
 - Central Principle: **"The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy; it consists in tracing the consequences of that policy not merely for one group but for all groups."**
   - Example: A new law requiring companies to hire more workers might reduce unemployment initially, but higher labor costs could lead businesses to raise prices, automate, or shut down
 
-## **1. Division of Labor: Core to Economic Productivity**
+# **1. Division of Labor: Core to Economic Productivity**
 
 Adam Smith identifies the **"division of labor"** as a fundamental driver of economic productivity and innovation. He argues that breaking down complex tasks into smaller, specialized functions enables workers to improve their skill, dexterity, and output:
 
