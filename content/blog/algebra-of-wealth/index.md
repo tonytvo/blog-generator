@@ -4191,11 +4191,11 @@ Status symbols decay.
 
 Morgan Housel’s conclusion is profound and life-altering:
 
-# **“Wealth is what you don’t see. It’s the money you saved that builds your future.”**
+**“Wealth is what you don’t see. It’s the money you saved that builds your future.”**
 
 And:
 
-# **“Rich people buy things. Wealthy people buy freedom.”**
+**“Rich people buy things. Wealthy people buy freedom.”**
 
 This chapter teaches:
 
@@ -4550,7 +4550,7 @@ Morgan Housel ends with one of the most important truths in the book:
 
 And:
 
-# **“Wealth is not built by earning more. Wealth is built by needing less.”**
+**“Wealth is not built by earning more. Wealth is built by needing less.”**
 
 Saving is:
 
@@ -4924,7 +4924,7 @@ In the long run:
 
 Because:
 
-# **“Compounding works only when you stick with something for a long time — and people stick with what feels reasonable.”**
+**“Compounding works only when you stick with something for a long time — and people stick with what feels reasonable.”**
 
 
 ---
@@ -6162,9 +6162,7 @@ Morgan Housel argues that America’s unique financial culture is not a coincide
 
 His central insight:
 
-# **“People don’t think about money in a vacuum.
-
-They think about money the way their nation taught them to.”**
+**“People don’t think about money in a vacuum. They think about money the way their nation taught them to.”**
 
 The U.S. in particular has an extremely distinctive financial psychology compared to Europe, Asia, or even Canada.
 
