@@ -72,7 +72,7 @@ Through free trade, nations can focus on industries where they hold a comparativ
 
 ---
 
-## **4. Role of Government: Infrastructure, Defense, and Justice**
+# **Role of Government: Infrastructure, Defense, and Justice**
 
 While advocating free markets, Smith identifies critical roles for government to ensure societal well-being:
 
@@ -95,7 +95,7 @@ Smith stresses that these functions must be funded through equitable taxation bu
 
 ---
 
-## **5. Economic Progression: From Agriculture to Commerce**
+# **Economic Progression: From Agriculture to Commerce**
 
 Smith describes a natural progression of economic development, moving from agrarian economies to commercial and industrial societies:
 - **“The natural progress of opulence... begins with agriculture, and afterwards extends itself to manufactures, and at last to foreign commerce.”**
