@@ -13976,9 +13976,6 @@ Pump Hill offers a compelling opportunity for investors seeking long-term growth
 
 # Parkhill
 
-
-[![Parkhill | Calgary Neighbourhoods | {% snippet name="company-name" %}](https://tse4.mm.bing.net/th?id=OIP.nRDwH1nwyIYPGXCNCfKNJwHaE8\&pid=Api)](https://www.citysearchcalgary.com/calgary-neighbourhoods/parkhill)
-
 Certainly! Here's a comprehensive real estate investment profile for the **Parkhill** neighborhood in Calgary:
 
 ---
