@@ -5,6 +5,15 @@ description: "Algebra of Wealth by Scott Galloway summary"
 tags: ["valueinvesting", "investing"]
 ---
 
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
 
 # **Wealth Framework & Philosophy**
 
@@ -387,10 +396,8 @@ No hacks.
 No shortcuts.
 Just arithmetic + discipline + time.
 
----
 
-
-# **STOICISM — Character, Behavior & Self-Mastery**
+# STOICISM — Character, Behavior & Self-Mastery
 
 *(The first variable in the Algebra of Wealth — the behavioral engine of wealth creation)*
 
@@ -404,8 +411,6 @@ Most financial outcomes depend on:
 * showing up consistently over years
 
 This entire section is about mastering *yourself* before trying to master money.
-
----
 
 ## **1. You Are What You Do**
 
@@ -429,6 +434,8 @@ This gap explains:
 * why smart people can stay broke
 * why average people can become wealthy
 * why finance is behavioral, not analytical
+
+[don't be stupid](./cipolla-stupid-matrix.png)
 
 ### **B. Your actions reveal your identity**
 
@@ -795,7 +802,14 @@ Redirect energy toward:
 
 Winning is quieter, calmer, cleaner.
 
----
+### "Kitchen Cabinet” concept
+
+A private group for:
+- unvarnished advice
+- second opinions
+- pressure-testing ideas
+- preventing career mistakes
+
 
 ## **9. Fitness as Financial Strategy**
 
@@ -916,6 +930,10 @@ Rather than resenting reality, the Stoic thing is to **accept the constraints** 
 Acceptance gives clarity.
 Clarity gives focus.
 
+**Constraints as a productivity amplifier**
+- “Use the power of constraints”
+- Focus through boundaries, simplification
+
 ### **C. Your partner & community massively shape outcomes**
 
 > **“Your choice of partner is the most important economic decision you will make.”**
@@ -934,6 +952,8 @@ Your community matters too:
 * friends with ambition raise your ambition
 * friends with discipline normalize discipline
 * social circles normalize wealth-building behavior (or self-destruction)
+
+Build a strong community.   Marcus Arelious words - Sympatheia:  all things are mutually woven together in a sympathy with one another. Therefore, treat your fellow human beings, as if they were your own limbs and an extension to yourself.
 
 > **“Show me your friends, and I’ll show you your financial future.”**
 
@@ -1036,6 +1056,8 @@ Choose fields where:
 * automation is low
 * scalability is possible
 
+Bolles’ “Party Exercise”
+
 ---
 
 ## **4. Navigating Careers**
@@ -1045,6 +1067,10 @@ Galloway gives brutally honest assessments of major career paths, based on decad
 Below is a **deep breakdown** of each career type he discusses.
 
 ### **A. Entrepreneurship**
+
+Cash flow as lifeblood
+Irrationality of founders
+Asymmetric upside
 
 Pros:
 
@@ -1098,6 +1124,9 @@ Cons:
 
 ### **D. Consulting**
 
+“Quick wins” strategy
+Momentum-building in client service
+
 Pros:
 
 * high pay
@@ -1135,6 +1164,7 @@ Pros:
 * leverage
 * entrepreneurial
 * wealth-building potential
+* Buy, live-in, renovate, sell, tax advantages
 
 Cons:
 
@@ -6392,6 +6422,40 @@ Understanding history → understanding money → understanding yourself.
 There is no reason to risk what you have and need for what you don’t have and don’t need.
 
 “Doing what’s right for you will look wrong to someone else — and that’s OK.”
+
+you cannot think your way out of this dilemma.
+
+you are what you do, not what you say you will do – Carl Jung.
+
+“Shame associated with not being successful financially”
+
+“Lost opportunity costs to loved ones”
+
+“Character is aligning intentions with actions”
+
+“Character and behavior exist in a self-reinforcing cycle”
+
+“Identity emerges from habits”
+
+“You are never more vulnerable after a big win”
+
+“Failure is also luck”
+
+“Nothing is ever as good or bad as it seems”
+
+“Anger lives rent-free in your head”
+
+“Cultivate indifference”
+
+“Learn from enemies; move on”
+
+“Make friends with people you want to emulate”
+
+“Downturns are the best time to start businesses”
+
+Leveraging government investment for wealth creation
+
+“The ability to communicate is an accelerant in any career”
 
 # References
 - https://www.sloww.co/psychology-of-money-book/
