@@ -390,12 +390,7 @@ Just arithmetic + discipline + time.
 ---
 
 
-Below is a **much richer, deeper, more psychologically layered expansion** of **III. STOICISM — Character, Behavior & Self-Mastery**, with **bolded quotes, highlighted principles, and expanded reasoning**.
-This version unpacks not just the text but also the *meaning behind Galloway’s philosophy*, adding behavioral science, modern psychology, and wealth-building implications.
-
----
-
-# **STOICISM — Character, Behavior & Self-Mastery (Deep Expanded Version)**
+# **STOICISM — Character, Behavior & Self-Mastery**
 
 *(The first variable in the Algebra of Wealth — the behavioral engine of wealth creation)*
 
@@ -874,10 +869,6 @@ The body and the bank account rise together.
 
 ---
 
-Below is a **deep, expanded, psychologically rich, and insight-dense version** of **IV. FOCUS — Raising Your Income**, with **bolded quotes & phrases**, behavioral explanations, and strategic takeaways consistent with Galloway’s philosophy.
-
----
-
 # **FOCUS — Raising Your Income**
 
 *(The second major variable of the Algebra of Wealth: maximizing earning power)*
@@ -1327,7 +1318,7 @@ no longer suit you.
 
 ---
 
-# **TIME — The Most Important Asset (Deep Expanded Version)**
+# **TIME — The Most Important Asset**
 
 *(The third major variable — the only variable that compounds automatically if you let it)*
 
@@ -1676,7 +1667,7 @@ They regret not preparing.
 
 ---
 
-# **DIVERSIFICATION — Investing & Building Wealth (Deep Expanded Version)**
+# **DIVERSIFICATION — Investing & Building Wealth**
 
 *(The multiplier in the Algebra of Wealth — diversification is how you protect and grow your money)*
 
@@ -2220,7 +2211,7 @@ This is the multiplier in the Algebra of Wealth:
 - **Don’t day trade**. If you want to trade securities on a daily basis, then make it your full-time job. It can be a great career if it suits your talents. But if it’s a hobby, don’t let it become an obsession. You will lose not only money, but also something more valuable: time.
 
 
-# **The Greatest Show on Earth (Deep Expanded Version)**
+# **The Greatest Show on Earth**
 
 Morgan Housel begins the book with a powerful and counterintuitive message:
 
@@ -2595,7 +2586,7 @@ Therefore:
 
 ---
 
-## **VI. Personal Finance Applications (Deepened)**
+## **VI. Personal Finance Applications**
 
 ### **1. Don’t idolize outliers (their luck isn’t repeatable).**
 
@@ -2688,7 +2679,7 @@ Therefore:
 
 ---
 
-# **3. NEVER ENOUGH — Expanded Deep-Dive**
+# **3. NEVER ENOUGH**
 
 ## ⭐ **Key Idea:**
 
@@ -2993,11 +2984,7 @@ And:
 
 ---
 
-Below is a **deep, expanded, behavioral-finance–rich** analysis of **Chapter 5: Getting Wealthy vs. Staying Wealthy**, with **bold highlight quotes**, richer examples, and Morgan Housel’s psychological framing.
-
----
-
-# **5. GETTING WEALTHY VS. STAYING WEALTHY — Expanded Deep-Dive**
+# **5. GETTING WEALTHY VS. STAYING WEALTHY**
 
 Morgan Housel argues that **building wealth** and **preserving wealth** are *two entirely different skills* — often contradictory, and rarely found in the same person.
 
@@ -3546,10 +3533,6 @@ So your strategy is simple:
 Or in Housel’s words:
 
 > **“Tails drive everything. Be prepared for them. Respect them. And position yourself to benefit when they occur.”**
-
----
-
-Below is a **deep, expanded, psychologically rich** version of **Chapter 8: MAN IN THE CAR PARADOX**, written with Morgan Housel’s storytelling tone and filled with **bold highlight quotes/phrases** and expanded real-world insights.
 
 ---
 
