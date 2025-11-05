@@ -1708,6 +1708,27 @@ In his words:
 > **“Diversification is the Kevlar vest of wealth—
 > it doesn’t make you bulletproof, but it keeps you alive long enough for compounding to work.”**
 
+> **Wealth comes from converting as much of your current income as possible to investment capital.** 
+> You choose your investments based on what offers you the greatest return - future cash flows - adjusted based on risk - your confidence in these cash flows. 
+
+**Strategy**
+- Keep your long-term funds aka your investment capital with an established broker like Fidelity or Schwab in a standard account with no fees 
+- Invest most of your capital in half a dozen low cost, diversified exchange traded funds - ETFs that put the majority of your money in US corporate stocks. 
+- Continue adding capital to your investment account until you've hit your number 
+- it's enough that you can live off your passive income alone
+- Treat your immediate and long-term buckets as investment capital. 
+- Keep liquid any intermediate term capital that you foresee needing in the next year or two. 
+- Max out all matching and tax advantage opportunities. 
+- Split your money 80/20 into passive investments - ETFs and the other 20% in active investing. 
+  - That active investing part is mainly meant to learn the markets, learn about risk, and most importantly learn about yourself. This way you can still feel the pain if you are devastated but it won't kill you. Track your true returns accounting for losses, net of taxes, fees, etc. 
+
+Before you start making active, individual investments you should :
+  - Be following a water line budget that reflects your actual spending and includes a saving category. 
+  - Be maximizing your tax shelter retirement plan contributions .
+  - Have saved up an emergency cushion appropriate to your circumstances and be on track to find any intermediate bucket expenses you are planning .
+  - Have begun to accumulate additional cash savings - third bucket. These are funds you'll invest into the asset classes described below subject to the 80/20 passive active division. 
+
+
 ---
 
 ## **1. Basic Principles**
@@ -1736,6 +1757,13 @@ People confuse:
   Both can be wrong.
 
 This is why **stock picking is hard** and **indexing is powerful**.
+
+**Basic evaluation equation** - specifically predicting three things: 
+  - Income - what income will the asset generate while you own it?
+  - Terminal value - what will you be able to sell the asset for in the future?
+  - Risk - The uncertainty or confidence of either of the above.
+
+> **Value = (future income + terminal value) * deduction for risk**
 
 ---
 
@@ -1865,9 +1893,14 @@ This is why stocks should be a core portfolio component.
 
 Banks:
 
-* create money through lending
-* amplify credit cycles
-* influence asset prices
+- create money through lending
+- amplify credit cycles
+- influence asset prices
+- 4 types of banks (retail, investment, brokerage, investment companies)
+  - **Traditional bank or retail bank**: borrows capital from one set of customers and loans Capital out to another set of customers. The profits come from the spread between the interest it offers the first group and the interested charges the second group plus fees.
+  - **Investment banks**: they combined financial consulting services with Capital Management and advise clients on large, complex financial transactions and facilitate those transactions by deploying their own capital.
+  - **Brokerages**: facilitate clients more run of the mill financial transactions, like buying and selling stock as well as making markets in many financial assets.
+  - **Investment companies**: pull their clients money and invest it themselves, taking a portion of the profits realized on investments where the manager was able to discern an imbalance of risk in return. They may specialize in certain types of investors or investment: venture capitalists specialize in startups for example. Hedge funds service wealthy individuals and institutions, making bold focused bets with different risk and potential return profiles. 
 
 Corporations:
 
@@ -1883,6 +1916,7 @@ Understanding these dynamics helps investors:
 * contextualize market cycles
 * avoid panic selling
 * view downturns as accumulation opportunities
+* understand roles of fed, treasusry, economic datasets
 
 ---
 
@@ -1899,6 +1933,21 @@ Most importantly:
 **GDP is a proxy for corporate earnings growth**, which drives equity returns.
 
 > **“If GDP grows over time, markets grow over time.”**
+
+- Government plays two profoundly important roles 
+  - It provides many of the ground rules the market operate under and enforces those rules to regulatory action, litigation, and in rare physical cases physical seizures and prison sentences as well as it also shapes the course of investment decisions through tax policy 
+  - The second role of government is as a major participant in the financial markets. The US government is by far the largest single pool of financial capital in the world. 
+
+- Several US government websites are indispensable resources for investors, notably 
+  - The bureau of Labor statistics - www.bls.gov 
+  - The department of commerce - commerce.gov 
+  - The Federal reserves economic data repository Fred.stLouisFed.org
+
+- Gross domestic product - GDP:  is the measure of a country's output per year - roughly similar to a corporation's revenue. GDP isn't it itself what matters so much as the rate of change. When GDP is flat or shrinking then investments made within that economy are not generating a positive return 
+- Consumer price index - CPI:  is the standard measure of prices across a basket of goods that attempts to capture the relative change in prices over time usually their increase AKA inflation. 
+- Unemployment rate is the pressure of supply and demand on the labor market 
+- Interest rates are like gravity - they affect everyone and everything all the time, and the higher they are the stronger they push against growth and profits. 
+
 
 ---
 
@@ -1950,10 +1999,20 @@ Stable companies return cash to shareholders:
 * revenue growth
 * competitive moats
 * margins
+* Terminal value
+* Discounting
 
 But Galloway emphasizes:
 
 > **“Unless it’s your profession, don’t try to outsmart valuations — buy the market.”**
+
+**If you have stock in the company you work for**, sell your stock as soon as you can in the most tax advantaged way possible because you are already massively exposed to that company and you need to diversify your risk not further concentrate it.  Stock is highly liquid, so don't treat your compensation in stock differently than cash. Think of it this way: if you didn't get any stock compensation but instead receive the equivalent value in cash, would you have used that cash to buy your company stock? Rarely is this the case. 
+
+**If you were a founder with heavy investment in your own company**, remember that your interest is to achieve economic security for yourself and family and that growth stocks are risky stocks. For long-term small business owners, the existential concern should be to gradually convert corporate assets into personal assets so that the economic security is not dependent on a single event like a sale or passing the business to an heir.
+
+**Avoid policy driven investing** - your individual investments are not going to shape the decisions of the corporations you buy stock in but they will determine your future economic security. Instead vote, lobby your representatives, take action in your community - the ESG or environmental social corporate governance investments have been weaponized by corporate PR and mean nothing. 
+
+[financial statement analysis](https://tonytvo.github.io/interpretation-of-financial-statements/)
 
 ---
 
@@ -2332,7 +2391,7 @@ This comparison demonstrates Housel’s core thesis:
 
 Housel distills decades of research into one sentence:
 
-# **“Financial success is a soft skill — a behavior — not an intelligence test.”**
+**“Financial success is a soft skill — a behavior — not an intelligence test.”**
 
 This means:
 
