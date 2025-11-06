@@ -931,13 +931,13 @@ Cryptocurrencies represent the latest evolution of money, offering decentralized
 
 ---
 
-## **Chapter V: Real vs. Nominal Price of Commodities**
+# **Chapter V: Real vs. Nominal Price of Commodities**
 
 Adam Smith’s discussion of the **real price** and **nominal price** of commodities provides a nuanced understanding of value in economic systems. By distinguishing between the labor required to produce goods (real price) and their monetary value (nominal price), Smith establishes a framework for analyzing the relationship between production, labor, and money. This chapter delves deeply into how these concepts interact with factors like inflation, deflation, and monetary fluctuations, offering insights that remain relevant in modern economics.
 
 ---
 
-### **I. Real Price: Measured in Labor**
+## **I. Real Price: Measured in Labor**
 
 Smith defines the **real price** of a commodity as the amount of labor required to produce it, emphasizing that labor is the fundamental measure of economic value.
 
@@ -965,7 +965,7 @@ Smith defines the **real price** of a commodity as the amount of labor required 
 
 ---
 
-### **II. Nominal Price: Measured in Money**
+## **II. Nominal Price: Measured in Money**
 
 The **nominal price** of a commodity, by contrast, is its monetary value—the amount of money for which it is exchanged. While money simplifies trade, it is an imperfect and variable measure of value.
 
@@ -992,7 +992,7 @@ The **nominal price** of a commodity, by contrast, is its monetary value—the a
 
 ---
 
-### **III. The Relationship Between Real and Nominal Prices**
+## **III. The Relationship Between Real and Nominal Prices**
 
 Smith explains that real and nominal prices are interdependent, but they respond to different forces.
 
@@ -1010,7 +1010,7 @@ Smith explains that real and nominal prices are interdependent, but they respond
 
 ---
 
-### **IV. Applications and Implications**
+## **IV. Applications and Implications**
 
 Smith’s distinction between real and nominal prices has broad implications for trade, wages, and economic stability.
 
@@ -1028,7 +1028,7 @@ Smith’s distinction between real and nominal prices has broad implications for
 
 ---
 
-### **V. Modern Examples of Real and Nominal Price Dynamics**
+## **V. Modern Examples of Real and Nominal Price Dynamics**
 
 1. **The Gold Standard and Price Stability**  
    - Under the gold standard, the nominal price of goods was tied to the value of gold, minimizing fluctuations.  
@@ -1048,7 +1048,7 @@ Smith’s distinction between real and nominal prices has broad implications for
 
 ---
 
-### **VI. Insights for Modern Economics**
+## **VI. Insights for Modern Economics**
 
 Smith’s framework for real and nominal prices is a cornerstone of modern economic analysis. It helps economists and policymakers differentiate between true economic value and monetary distortions.
 
