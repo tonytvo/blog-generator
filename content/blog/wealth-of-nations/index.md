@@ -1068,13 +1068,13 @@ Smith’s framework for real and nominal prices is a cornerstone of modern econo
 
 ---
 
-# **Chapter VI: The Components of Commodity Price**
+## **Chapter VI: The Components of Commodity Price**
 
 In this chapter, Adam Smith breaks down the **price of any commodity** into three fundamental components: **wages**, **profits**, and **rent**. These components collectively determine the cost of goods and services, reflecting the contributions of labor, capital, and land to production. Smith’s analysis offers a comprehensive framework for understanding how economic value is distributed among workers, investors, and landowners.
 
 ---
 
-## **I. Wages: The Foundation of Commodity Prices**
+### **I. Wages: The Foundation of Commodity Prices**
 
 Smith asserts that **wages** are the most fundamental component of price, as they represent the cost of labor—the original and essential factor in production.  
 
@@ -1106,7 +1106,7 @@ Smith asserts that **wages** are the most fundamental component of price, as the
 
 ---
 
-## **II. Profits: The Return to Capital**
+### **II. Profits: The Return to Capital**
 
 The second component of commodity price is **profits**, which represent the reward for capital investment in production.  
 
@@ -1138,7 +1138,7 @@ The second component of commodity price is **profits**, which represent the rewa
 
 ---
 
-## **III. Rent: Payment for Land Use**
+### **III. Rent: Payment for Land Use**
 
 The third component of commodity price is **rent**, which represents the payment made to landowners for the use of their property.  
 
@@ -1170,7 +1170,7 @@ The third component of commodity price is **rent**, which represents the payment
 
 ---
 
-## **IV. An Integrated Example: The Price of Wheat**
+### **IV. An Integrated Example: The Price of Wheat**
 
 To illustrate the interaction of wages, profits, and rent in determining prices, Smith uses examples like wheat production:  
 
@@ -1188,7 +1188,7 @@ To illustrate the interaction of wages, profits, and rent in determining prices,
 
 ---
 
-## **V. Modern Implications of Smith’s Analysis**
+### **V. Modern Implications of Smith’s Analysis**
 
 Smith’s framework for understanding commodity prices remains relevant in contemporary economics, particularly in analyzing cost structures and income distribution.
 
@@ -1212,7 +1212,7 @@ Smith’s framework for understanding commodity prices remains relevant in conte
 
 ---
 
-## **VI. Critiques and Limitations**
+### **VI. Critiques and Limitations**
 
 1. **Rent as Passive Income**  
    - Smith’s view of rent as a passive cost has been critiqued for oversimplifying the role of landowners in infrastructure development and land management.  
