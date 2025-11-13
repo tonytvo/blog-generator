@@ -1225,13 +1225,13 @@ Smith’s framework for understanding commodity prices remains relevant in conte
 
 ---
 
-# **Chapter VII: The Natural and Market Price of Commodities**
+## **Chapter VII: The Natural and Market Price of Commodities**
 
 Adam Smith’s analysis of the **natural price** and **market price** of commodities reveals the underlying dynamics of production costs and market fluctuations. By differentiating between these two types of prices, Smith demonstrates how supply, demand, competition, and economic fundamentals interact to shape the value of goods in the marketplace. His insights provide a framework for understanding price stability, market forces, and long-term economic equilibrium.
 
 ---
 
-## **I. Natural Price: The Baseline of Economic Value**
+### **I. Natural Price: The Baseline of Economic Value**
 
 The **natural price** of a commodity represents its intrinsic cost, derived from the combined expenses of production. Smith describes it as the price necessary to sustain the continued production of goods.
 
@@ -1259,7 +1259,7 @@ The **natural price** of a commodity represents its intrinsic cost, derived from
 
 ---
 
-## **II. Market Price: The Influence of Supply and Demand**
+### **II. Market Price: The Influence of Supply and Demand**
 
 The **market price** is the price at which a good is actually sold, driven by the immediate interaction of supply and demand. Unlike the natural price, it fluctuates based on market conditions.
 
@@ -1281,7 +1281,7 @@ The **market price** is the price at which a good is actually sold, driven by th
 
 ---
 
-## **III. Market Adjustments and Equilibrium**
+### **III. Market Adjustments and Equilibrium**
 
 Smith describes how competitive market forces correct deviations between natural and market prices, maintaining long-term economic equilibrium.
 
@@ -1308,7 +1308,7 @@ Smith describes how competitive market forces correct deviations between natural
 
 ---
 
-## **IV. Interplay Between Natural and Market Prices**
+### **IV. Interplay Between Natural and Market Prices**
 
 Smith highlights the dynamic relationship between natural and market prices, emphasizing how economic forces interact to balance production and consumption.
 
@@ -1326,7 +1326,7 @@ Smith highlights the dynamic relationship between natural and market prices, emp
 
 ---
 
-## **V. Modern Applications of Natural and Market Prices**
+### **V. Modern Applications of Natural and Market Prices**
 
 Smith’s concepts of natural and market prices remain central to contemporary economics, particularly in understanding price stability, inflation, and resource allocation.
 
@@ -1350,7 +1350,7 @@ Smith’s concepts of natural and market prices remain central to contemporary e
 
 ---
 
-## **VI. Implications for Economic Policy**
+### **VI. Implications for Economic Policy**
 
 1. **Understanding Price Volatility**  
    - Policymakers use Smith’s principles to address price volatility in essential goods, ensuring stable supplies and fair pricing for consumers.  
@@ -1366,7 +1366,7 @@ Smith’s concepts of natural and market prices remain central to contemporary e
 
 ---
 
-## **VII. Critiques and Limitations**
+### **VII. Critiques and Limitations**
 
 While Smith’s differentiation between natural and market prices remains foundational, some limitations arise in modern contexts:  
 
