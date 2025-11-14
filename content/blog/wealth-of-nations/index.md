@@ -1384,13 +1384,13 @@ While Smith’s differentiation between natural and market prices remains founda
 
 ---
 
-# **Chapter VIII: Wage Determination**
+## **Chapter VIII: Wage Determination**
 
 In Chapter VIII, Adam Smith provides a thorough examination of the principles governing wages, the reward for labor, which he considers a fundamental element of economic value. Wages, according to Smith, are influenced by various factors, including labor demand, the cost of living, skill levels, job conditions, and broader economic dynamics. His exploration extends to subsistence wages, income inequality, and the interplay between economic growth and wages, offering insights that remain relevant in contemporary labor markets.
 
 ---
 
-## **I. The Nature of Wages**
+### **I. The Nature of Wages**
 
 Wages represent the price paid for labor and are determined by the balance between labor supply and demand, alongside societal and economic factors.
 
@@ -1416,7 +1416,7 @@ Wages represent the price paid for labor and are determined by the balance betwe
 
 ---
 
-## **II. Minimum Wage and Subsistence**
+### **II. Minimum Wage and Subsistence**
 
 Smith introduces the concept of **subsistence wages**, which he considers the minimum necessary to sustain workers and ensure the continuity of labor supply.
 
@@ -1442,7 +1442,7 @@ Smith introduces the concept of **subsistence wages**, which he considers the mi
 
 ---
 
-## **III. Influence of Economic Growth on Wages**
+### **III. Influence of Economic Growth on Wages**
 
 Smith emphasizes that economic expansion has a direct and positive effect on wages, as growing economies increase the demand for labor.
 
@@ -1467,7 +1467,7 @@ Smith emphasizes that economic expansion has a direct and positive effect on wag
 
 ---
 
-## **IV. Inequalities in Wages**
+### **IV. Inequalities in Wages**
 
 Smith recognizes that wages are not uniform and vary widely due to factors such as skill, risk, and social perceptions of different occupations.
 
@@ -1502,7 +1502,7 @@ Smith recognizes that wages are not uniform and vary widely due to factors such 
 
 ---
 
-## **V. Modern Applications of Smith’s Wage Theories**
+### **V. Modern Applications of Smith’s Wage Theories**
 
 Smith’s analysis of wage determination remains highly relevant in contemporary labor markets and economic policymaking.
 
@@ -1529,7 +1529,7 @@ Smith’s analysis of wage determination remains highly relevant in contemporary
 
 ---
 
-## **VI. Critiques and Limitations**
+### **VI. Critiques and Limitations**
 
 1. **Market Inefficiencies**  
    - Smith assumes efficient labor markets, but modern realities such as wage stagnation, monopolistic employers, and labor exploitation challenge this ideal.  
@@ -1542,11 +1542,11 @@ Smith’s analysis of wage determination remains highly relevant in contemporary
 
 ---
 
-## **I. Globalization and Its Impact on Wages**
+### **I. Globalization and Its Impact on Wages**
 
 Globalization—the increasing interconnectedness of markets, industries, and labor across national borders—has drastically affected wage dynamics in both developed and developing countries.
 
-### **1. Wage Differentials Across Countries**  
+#### **1. Wage Differentials Across Countries**  
 Globalization has expanded the global labor market, creating significant wage disparities between developed and developing nations.  
 - **Smith’s Principle**: Wages depend on the demand for labor and the cost of living. In developing countries, where living costs are lower, wages for equivalent work are often much lower than in developed nations.  
 - **Modern Application**: Companies outsource jobs to take advantage of these wage differentials, leading to cost savings for businesses but raising concerns about income inequality.
@@ -1554,7 +1554,7 @@ Globalization has expanded the global labor market, creating significant wage di
    **Example**:  
    - Multinational corporations like Apple outsource manufacturing to countries like China and Vietnam, where wages are lower. Workers in these regions are paid a fraction of what their counterparts in the U.S. or Europe earn for similar productivity levels.
 
-### **2. The Race to the Bottom**  
+#### **2. The Race to the Bottom**  
 Smith’s theory of wages being tied to subsistence can manifest negatively in globalization, with some employers exploiting low-wage labor markets:  
 - **“A man must always live by his work, and his wages must at least be sufficient to maintain him.”**  
 - In some cases, globalization pressures countries to keep wages low to attract foreign investment, creating a "race to the bottom" in labor costs.
@@ -1562,14 +1562,14 @@ Smith’s theory of wages being tied to subsistence can manifest negatively in g
    **Example**:  
    - Garment factories in Bangladesh pay extremely low wages, sometimes below subsistence levels, to remain competitive in the global market.
 
-### **3. Outsourcing and Wage Stagnation in Developed Economies**  
+#### **3. Outsourcing and Wage Stagnation in Developed Economies**  
 Outsourcing impacts wages in developed countries by reducing demand for low- and middle-skill jobs, leading to wage stagnation.  
 - **Smith’s Principle**: Wages are determined by the demand for labor. When demand shifts overseas, wages in domestic markets decline for displaced workers.  
 
    **Example**:  
    - The decline of manufacturing jobs in the U.S. has contributed to wage stagnation for blue-collar workers as companies move production to lower-wage countries.
 
-### **4. Benefits to Developing Economies**  
+#### **4. Benefits to Developing Economies**  
 On the positive side, globalization has lifted wages and living standards in developing countries by integrating them into global supply chains.  
 - **Smith’s Principle**: Economic growth raises demand for labor, pushing wages upward.  
 - **Example**:  
@@ -1577,23 +1577,23 @@ On the positive side, globalization has lifted wages and living standards in dev
 
 ---
 
-## **II. Technological Advancements and Their Impact on Wages**
+### **II. Technological Advancements and Their Impact on Wages**
 
 Technological advancements, particularly automation and artificial intelligence (AI), have transformed labor markets, creating new challenges and opportunities for wage dynamics.
 
-### **1. Automation and Job Polarization**  
+#### **1. Automation and Job Polarization**  
 Automation replaces routine and manual labor, reducing demand for middle-skill jobs while increasing demand for high-skill, tech-oriented roles.  
 - **Smith’s Principle**: Wages are tied to the skill and ingenuity required for labor. Workers in high-demand, high-skill jobs see wage growth, while those in automatable roles experience wage stagnation or job displacement.  
 - **Example**:  
    - Automated cashier systems in retail have reduced demand for cashiers, while software engineers who design these systems earn significantly higher wages.
 
-### **2. Skill-Biased Technological Change (SBTC)**  
+#### **2. Skill-Biased Technological Change (SBTC)**  
 Technological change disproportionately benefits highly skilled workers, exacerbating wage inequality.  
 - **Smith’s Principle**: Skilled labor commands higher wages due to training, expertise, and scarcity.  
 - **Example**:  
    - Data scientists and machine learning specialists earn premium wages as demand for their expertise outpaces supply. Meanwhile, low-skill workers face stagnant wages in sectors unaffected by technological advancements.
 
-### **3. Gig Economy and Wage Flexibility**  
+#### **3. Gig Economy and Wage Flexibility**  
 The rise of digital platforms like Uber, TaskRabbit, and Fiverr has created a gig economy, where workers are paid per task or project.  
 - **Smith’s Principle**: Wages vary with the ease or difficulty of the work, and market conditions. In the gig economy, wages are highly flexible, depending on supply and demand for specific tasks.  
 
@@ -1601,7 +1601,7 @@ The rise of digital platforms like Uber, TaskRabbit, and Fiverr has created a gi
    - Drivers for Uber experience fluctuating pay based on demand surges, such as during peak hours.  
    - Freelancers on Fiverr set their rates based on competition and their perceived value.
 
-### **4. Technological Displacement and Reskilling**  
+#### **4. Technological Displacement and Reskilling**  
 As technology eliminates certain jobs, displaced workers often require reskilling to re-enter the labor market.  
 - **Smith’s Principle**: Wages depend on skill, and investment in skill development is necessary for higher earnings.  
 - **Example**:  
@@ -1609,39 +1609,39 @@ As technology eliminates certain jobs, displaced workers often require reskillin
 
 ---
 
-## **III. Policy Responses to Globalization and Technology**
+### **III. Policy Responses to Globalization and Technology**
 
 Smith’s wage theories provide a foundation for policy interventions to address wage inequalities and labor market disruptions caused by globalization and technology.
 
-### **1. Minimum Wage Policies**  
+#### **1. Minimum Wage Policies**  
 Smith’s emphasis on subsistence wages supports modern minimum wage laws to ensure workers earn enough to meet basic living standards.  
 - **Example**:  
    - The European Union’s push for a common minimum wage policy aims to reduce wage inequality and prevent exploitation of low-wage workers.
 
-### **2. Education and Reskilling Programs**  
+#### **2. Education and Reskilling Programs**  
 To address technological displacement, governments and businesses invest in education and training programs to equip workers with skills for high-demand jobs.  
 - **Smith’s Principle**: Skilled labor commands higher wages. Reskilling aligns workers with technological advancements and improves wage prospects.  
 - **Example**:  
    - Tech reskilling programs like Google’s "Grow with Google" initiative help workers transition into fields like coding and IT support.
 
-### **3. Trade Adjustments and Support for Displaced Workers**  
+#### **3. Trade Adjustments and Support for Displaced Workers**  
 Policies that provide financial support and retraining for workers displaced by globalization mitigate wage stagnation.  
 - **Example**:  
    - The U.S. Trade Adjustment Assistance (TAA) program offers retraining and income support for workers displaced by international trade.
 
-### **4. Promoting Wage Equity in Global Supply Chains**  
+#### **4. Promoting Wage Equity in Global Supply Chains**  
 Smith’s critique of low wages aligns with calls for ethical practices in global supply chains, ensuring fair wages for workers in developing countries.  
 - **Example**:  
    - Fair Trade certification ensures that producers in developing countries receive fair wages and working conditions.
 
-### **5. Universal Basic Income (UBI)**  
+#### **5. Universal Basic Income (UBI)**  
 As automation threatens widespread job displacement, UBI is proposed as a solution to ensure basic income security for all.  
 - **Example**:  
    - Pilot programs in countries like Finland and Canada have tested UBI to address wage gaps and technological unemployment.
 
 ---
 
-## **IV. Long-Term Implications**
+### **IV. Long-Term Implications**
 
 1. **Wage Polarization**  
    - Globalization and technology are increasing wage disparities between high-skill and low-skill workers, creating greater income inequality.  
