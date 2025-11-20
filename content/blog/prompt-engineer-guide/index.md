@@ -8,7 +8,45 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections ""
+  - expand in much more details with bold high-light quotes/phrases the above sections "# **PART VII – SCHOOL SELECTION (THIS IS WHERE MOST FAIL)**
+
+## **14. Choose Schools Backward**
+
+Process:
+
+1. invert from what life-style you want when you're in 40s and work backward on what degree can support that life-style
+2. Decide **debt-free budget**
+3. Identify schools within that number and rank them based on the best support/fit for the career/degree you need to take
+4. Compare ROI, not prestige
+
+---
+
+## **15. Community College as a Weapon**
+
+* First 2 years at fraction of cost
+* Same core credits
+* Transfer strategically
+
+> **Same degree. Less debt. Smarter path.**
+
+---
+
+## **16. In-State Public Universities**
+
+* Lower tuition
+* More scholarships
+* Better financial transparency
+
+---
+
+## **17. Private Colleges (When They Make Sense)**
+
+* Only if:
+
+  * Scholarships close the gap
+  * Net price beats public option
+* Sticker price ≠ real price
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
