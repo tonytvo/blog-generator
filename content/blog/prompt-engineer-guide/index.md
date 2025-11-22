@@ -8,25 +8,16 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "# **PART VIII – PARENTING & EXPECTATION MANAGEMENT**
+  - expand in much more details with bold high-light quotes/phrases the above sections "# **PART IX – REAL-WORLD CASE STUDIES**
 
-## **18. Saying “No” Is Loving**
+## **20. Examples from the Transcript**
 
-* Parents are not ATMs
-* Boundaries teach responsibility
-* Loans enable bad decisions
+Patterns seen:
 
----
-
-## **19. Degree ≠ Destiny**
-
-* Trades
-* Entrepreneurship
-* Certifications
-* Military
-* Apprenticeships
-
-> **College is a tool, not the only path.**
+* Average-income families succeeding
+* Multiple scholarships stacking
+* Community college → transfer wins
+* Students graduating debt-free and investing early
 "
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
