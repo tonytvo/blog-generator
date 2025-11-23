@@ -8,17 +8,7 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections "# **PART IX – REAL-WORLD CASE STUDIES**
-
-## **20. Examples from the Transcript**
-
-Patterns seen:
-
-* Average-income families succeeding
-* Multiple scholarships stacking
-* Community college → transfer wins
-* Students graduating debt-free and investing early
-"
+  - expand in much more details with bold high-light quotes/phrases the above sections ""
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
