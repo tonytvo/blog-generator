@@ -15,253 +15,6 @@ to-heading: 6
 class-name: "table-of-contents"
 ```
 
-# **THE PROBLEM (Why Student Loans Trap People)**
-
-## **1. The “Good Debt” Lie**
-
-* Student loans are sold as:
-
-  * “An investment in yourself”
-  * “Necessary to succeed”
-  * “Low risk”
-* Reality:
-
-  * **Debt steals future income**
-  * **Interest quietly compounds**
-  * **Choice disappears** (career, location, risk-taking)
-
-> **Key idea:** Debt doesn’t enable freedom—it *delays* it.
-
----
-
-## **2. The Real Cost of Student Loans**
-
-* $35,000 at ~4.5%:
-
-  * 10 years → ~$8,500 interest
-  * 20 years → ~$18,000+ interest
-* $100,000 over 25 years:
-
-  * ~$66,500+ interest
-
-> **Hidden cost:** Not just interest—but **lost time, lost options, lost momentum**
-
----
-
-## **3. Why Forgiveness Is Not a Strategy**
-
-### Common traps:
-
-* Teacher Loan Forgiveness
-* Public Service Loan Forgiveness (PSLF)
-* Borrower Defense / Disability / Closed School
-
-**Reality check:**
-
-* Extremely narrow eligibility
-* Rules change mid-game
-* Approval rates <1% for PSLF historically
-
-> **Key warning:**
-> *“Building your life around forgiveness is gambling with your future.”*
-
----
-
-## **4. False Relief Mechanisms**
-
-* Forbearance → interest keeps growing
-* Deferment → delays, doesn’t solve
-* Default → legal & credit damage
-* Consolidation/refinancing → often extends repayment
-
-> **Wrong question:** “How do I lower my payment?”
-> **Right question:** **“How do I eliminate this debt fast?”**
-
----
-
-# **THE FOUNDATION (Control Before Speed)**
-
-## **5. The 7 Baby Steps (Context)**
-
-Focus only on **Baby Steps 1 & 2** until debt is gone:
-
-1. $1,000 starter emergency fund
-2. Pay off **all non-mortgage debt** using the **debt snowball**
-
-> **Rule:** No investing, no lifestyle upgrades, no distractions.
-
----
-
-## **6. Zero-Based Budget (Non-Negotiable)**
-
-**Every dollar has a job.**
-
-Formula:
-
-```
-Income – Expenses = $0
-```
-
-### Core principles:
-
-* Budget **before** the month starts
-* Track **every expense**
-* Prioritize the “Four Walls”:
-
-  * Food
-  * Utilities
-  * Shelter
-  * Transportation
-
-> **Budgeting = reclaiming power over income**
-
----
-
-## **7. Baby Step 1 – $1,000 Emergency Fund**
-
-Purpose:
-
-* Prevent new debt during payoff
-* Handle true emergencies only
-
-Emergency criteria:
-
-1. Unexpected
-2. Necessary
-3. Urgent
-
-Rules:
-
-* Save it **fast**
-* Keep separate from checking
-* Refill immediately if used
-
----
-
-# **THE EXECUTION ENGINE (Debt Snowball)**
-
-## **8. The Debt Snowball Method**
-
-**Order debts from smallest to largest balance** (ignore interest rate).
-
-Steps:
-
-1. Minimum payments on all debts
-2. Attack smallest debt aggressively
-3. Roll freed payments into next debt
-4. Repeat until zero
-
-> **Why it works:** Momentum beats math.
-
----
-
-## **9. Snowball vs Avalanche**
-
-* Avalanche = highest interest first
-* Snowball = smallest balance first
-
-**Behavioral insight:**
-
-* Most people quit without quick wins
-* Motivation compounds faster than interest savings
-
----
-
-## **10. Special Cases**
-
-* Multiple loans with same balance → higher interest first
-* Only student loans → still attack aggressively
-* Major life events → pause snowball, survive, then resume
-
----
-
-# **ACCELERATION (How People Actually Win)**
-
-## **11. Income Explosion**
-
-**You don’t budget your way out of six-figure debt—you earn your way out.**
-
-Options:
-
-* Second/third jobs
-* Gig economy (Uber, Instacart, tutoring)
-* Freelance skills
-* Asking for raises
-* Selling services
-
-> **Theme:** Temporary pain → permanent freedom
-
----
-
-## **12. Selling Stuff**
-
-Sell anything not essential:
-
-* Extra cars
-* Electronics
-* Furniture
-* Clothes
-* Collectibles
-
-> **Principle:** Stuff delays freedom.
-
----
-
-## **13. Expense Compression**
-
-### Major targets:
-
-* Eating out → eliminated
-* Housing → roommates, downsizing
-* Transportation → one car, public transit
-* Subscriptions → cut aggressively
-* Utilities → minimize
-
-> **Mindset:** This is not deprivation—it’s strategy.
-
----
-
-## **14. Avoiding Money Traps**
-
-* Payday loans
-* Timeshares
-* “Guaranteed” investments
-* Student-loan scam texts/emails
-* Credit cards “for points”
-
----
-
-# **PSYCHOLOGY & STAYING THE COURSE**
-
-## **15. Motivation Framework**
-
-* Write your “why”
-* Track progress visually
-* Celebrate small wins
-* Surround yourself with debt-free thinkers
-* Stop comparing lifestyles
-
-> **Key phrase:** *“Stay mad at your debt.”*
-
----
-
-## **16. Real-World Proof**
-
-Case studies:
-
-* $60k → paid in 27 months
-* $70k → paid in early career
-* $229k → family paid off through extreme focus
-* $233k → paid in 25 months with multiple jobs
-
-**Common pattern:**
-
-* Short-term sacrifice
-* Ruthless focus
-* Zero excuses
-
----
-
 # **PART I – REFRAMING COLLEGE (Destroying the Myths)**
 
 ## **1. The Student Loan Myth**
@@ -2772,6 +2525,252 @@ This timeline prevents:
 * Missed opportunities
 
 > **“Debt is often created in the gaps between life stages.”**
+
+
+# **THE PROBLEM (Why Student Loans Trap People)**
+
+## **1. The “Good Debt” Lie**
+
+* Student loans are sold as:
+
+  * “An investment in yourself”
+  * “Necessary to succeed”
+  * “Low risk”
+* Reality:
+
+  * **Debt steals future income**
+  * **Interest quietly compounds**
+  * **Choice disappears** (career, location, risk-taking)
+
+> **Key idea:** Debt doesn’t enable freedom—it *delays* it.
+
+---
+
+## **2. The Real Cost of Student Loans**
+
+* $35,000 at ~4.5%:
+
+  * 10 years → ~$8,500 interest
+  * 20 years → ~$18,000+ interest
+* $100,000 over 25 years:
+
+  * ~$66,500+ interest
+
+> **Hidden cost:** Not just interest—but **lost time, lost options, lost momentum**
+
+---
+
+## **3. Why Forgiveness Is Not a Strategy**
+
+### Common traps:
+
+* Teacher Loan Forgiveness
+* Public Service Loan Forgiveness (PSLF)
+* Borrower Defense / Disability / Closed School
+
+**Reality check:**
+
+* Extremely narrow eligibility
+* Rules change mid-game
+* Approval rates <1% for PSLF historically
+
+> **Key warning:**
+> *“Building your life around forgiveness is gambling with your future.”*
+
+---
+
+## **4. False Relief Mechanisms**
+
+* Forbearance → interest keeps growing
+* Deferment → delays, doesn’t solve
+* Default → legal & credit damage
+* Consolidation/refinancing → often extends repayment
+
+> **Wrong question:** “How do I lower my payment?”
+> **Right question:** **“How do I eliminate this debt fast?”**
+
+---
+
+# **THE FOUNDATION (Control Before Speed)**
+
+## **5. The 7 Baby Steps (Context)**
+
+Focus only on **Baby Steps 1 & 2** until debt is gone:
+
+1. $1,000 starter emergency fund
+2. Pay off **all non-mortgage debt** using the **debt snowball**
+
+> **Rule:** No investing, no lifestyle upgrades, no distractions.
+
+---
+
+## **6. Zero-Based Budget (Non-Negotiable)**
+
+**Every dollar has a job.**
+
+Formula:
+
+```
+Income – Expenses = $0
+```
+
+### Core principles:
+
+* Budget **before** the month starts
+* Track **every expense**
+* Prioritize the “Four Walls”:
+
+  * Food
+  * Utilities
+  * Shelter
+  * Transportation
+
+> **Budgeting = reclaiming power over income**
+
+---
+
+## **7. Baby Step 1 – $1,000 Emergency Fund**
+
+Purpose:
+
+* Prevent new debt during payoff
+* Handle true emergencies only
+
+Emergency criteria:
+
+1. Unexpected
+2. Necessary
+3. Urgent
+
+Rules:
+
+* Save it **fast**
+* Keep separate from checking
+* Refill immediately if used
+
+---
+
+# **THE EXECUTION ENGINE (Debt Snowball)**
+
+## **8. The Debt Snowball Method**
+
+**Order debts from smallest to largest balance** (ignore interest rate).
+
+Steps:
+
+1. Minimum payments on all debts
+2. Attack smallest debt aggressively
+3. Roll freed payments into next debt
+4. Repeat until zero
+
+> **Why it works:** Momentum beats math.
+
+---
+
+## **9. Snowball vs Avalanche**
+
+* Avalanche = highest interest first
+* Snowball = smallest balance first
+
+**Behavioral insight:**
+
+* Most people quit without quick wins
+* Motivation compounds faster than interest savings
+
+---
+
+## **10. Special Cases**
+
+* Multiple loans with same balance → higher interest first
+* Only student loans → still attack aggressively
+* Major life events → pause snowball, survive, then resume
+
+---
+
+# **ACCELERATION (How People Actually Win)**
+
+## **11. Income Explosion**
+
+**You don’t budget your way out of six-figure debt—you earn your way out.**
+
+Options:
+
+* Second/third jobs
+* Gig economy (Uber, Instacart, tutoring)
+* Freelance skills
+* Asking for raises
+* Selling services
+
+> **Theme:** Temporary pain → permanent freedom
+
+---
+
+## **12. Selling Stuff**
+
+Sell anything not essential:
+
+* Extra cars
+* Electronics
+* Furniture
+* Clothes
+* Collectibles
+
+> **Principle:** Stuff delays freedom.
+
+---
+
+## **13. Expense Compression**
+
+### Major targets:
+
+* Eating out → eliminated
+* Housing → roommates, downsizing
+* Transportation → one car, public transit
+* Subscriptions → cut aggressively
+* Utilities → minimize
+
+> **Mindset:** This is not deprivation—it’s strategy.
+
+---
+
+## **14. Avoiding Money Traps**
+
+* Payday loans
+* Timeshares
+* “Guaranteed” investments
+* Student-loan scam texts/emails
+* Credit cards “for points”
+
+---
+
+# **PSYCHOLOGY & STAYING THE COURSE**
+
+## **15. Motivation Framework**
+
+* Write your “why”
+* Track progress visually
+* Celebrate small wins
+* Surround yourself with debt-free thinkers
+* Stop comparing lifestyles
+
+> **Key phrase:** *“Stay mad at your debt.”*
+
+---
+
+## **16. Real-World Proof**
+
+Case studies:
+
+* $60k → paid in 27 months
+* $70k → paid in early career
+* $229k → family paid off through extreme focus
+* $233k → paid in 25 months with multiple jobs
+
+**Common pattern:**
+
+* Short-term sacrifice
+* Ruthless focus
+* Zero excuses
 
 ---
 
