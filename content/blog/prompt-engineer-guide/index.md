@@ -48,7 +48,7 @@ you're an expert in realestate investing, give me detailed outline on the CFB Cu
   - Act as a personal movie concierge — recommend titles based on my past viewing taste.
 
 - **consolidate all of provided information**
-  - Please consolidate all the information you have provided in our discussion "luật đất đai sở hữu tài sản/đất đai cho các loại đối tượng/công dân" into one structured text. Eliminate redundancy and organize it logically by topic
+  - Please consolidate all the information you have provided in our discussion "" into one structured text. Eliminate redundancy and organize it logically by topic
 
 # Quotes
 
