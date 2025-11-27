@@ -4,27 +4,14 @@ date: "2021-12-29T22:12:03.284Z"
 description: "summary for growing objected-oriented guided by tests."
 tags: ["selftestingcode", "evolutionarydesign"]
 ---
-- [Key ideas](#key-ideas)
-- [Test-Driven Development (TDD) and Quality](#test-driven-development-tdd-and-quality)
-- [TDD as a design technique](#tdd-as-a-design-technique)
-  - [Communication over classification](#communication-over-classification)
-  - [mock roles not objects](#mock-roles-not-objects)
-  - [Kick-staring the test-driven cycle](#kick-staring-the-test-driven-cycle)
-  - [Maintaining the test-drive cycle](#maintaining-the-test-drive-cycle)
-  - [Design for Maintainability](#design-for-maintainability)
-- [tell, don't ask - law of Demeter](#tell-dont-ask---law-of-demeter)
-- [Listen to tests, test smells and patterns](#listen-to-tests-test-smells-and-patterns)
-- [techniques for introducing new objects](#techniques-for-introducing-new-objects)
-- [object peer stereotypes](#object-peer-stereotypes)
-  - [dependencies](#dependencies)
-  - [Notification](#notification)
-  - [Adjustments](#adjustments)
-- [Programming by intention](#programming-by-intention)
-- [Context independence](#context-independence)
-- [Dependency Injection](#dependency-injection)
-- [The sample project - analysis](#the-sample-project---analysis)
-- [Quotes](#quotes)
-- [References](#references)
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
 
 # Key ideas
 - **practice TDD as a design technique and not only as a testing technique.**
