@@ -129,32 +129,32 @@ That’s right. Saying nothing at all, and just looking at the other person in s
 
 Finally, if you feel your anger rising and can tell that you’re about to fight fire with fire, it’s best to physically remove yourself. This way, instead of escalating the situation, you’re giving yourself — and possibly the other person — the time and space to cool down.
 
-## "How to Talk Like a VIP"
+# "How to Talk Like a VIP"
 - You can always recognize important people by the commanding, intelligent way they speak. They have confidence, choose the proper words, and don't use clichés. Follow their lead:
   - **"Kill the quick 'me too!'"** – To impress, avoid immediately matching someone else's account of a personal experience or preference – say, a love of sailing – with your own story. Let your shared interest come out gracefully during the conversation.
   - **"Comm-YOU-nication"** – Slip the word "you" into your discourse as often as possible. This focuses the content on the other person and gains his or her attention and approval.
   - **Avoid euphemisms** – Always speak directly and to the point. The use of "nicey-nice" words makes you appear equivocal and weak.
 
 
-## "How to Be an Insider in Any Crowd"
+# "How to Be an Insider in Any Crowd"
 - To converse well with others, cure yourself of "Silent Outsider Syndrome." Use the special words and phrases that are common parlance to the people or group that you want to join:
   - **"Learn a little 'gobbledygook'"** – People will be impressed with you if you speak in terms they routinely use. Pick up the lingo by listening to others to find out what their special words and phrases mean so you can use them appropriately.
   - **Hit their "hot buttons"** – Each professional group has provocative issues – for example, doctors get feisty about their relationships with hospitals. Find out these issues, then mention them to spice up your exchanges.
   - **"Read their rags"** – The best way to gain inside knowledge about a specific field is to read the trade journals that report on it. An hour or two in the library can improve your conversational prowess.
 
-## "How to Differentiate the Power of Praise from the Folly of Flattery"
+# "How to Differentiate the Power of Praise from the Folly of Flattery"
 - Back in the 1930s, Dale Carnegie extolled the virtues of praise in his classic bestseller How to Win Friends and Influence People. The power of praise is just as strong today, but praise that does not appear genuine is certain to backfire, so proceed carefully using these helpers:
   - **"Grapevine glory"** – To praise someone without seeming to be an apple-polisher, speak highly of that person, but not directly to him or her. Instead, voice your compliment to that person's closest friend or associate. Rest assured that the message will get delivered.
   - **"Accidental adulation"** – Sneak praise into an otherwise mundane sentence: "Because you are so knowledgeable concerning..., I'm sure you can set the agenda."
   - **"Killer compliments"** – Use them whenever you can. For example, you can say, "You are the most honest person I know."
 
-## "How to Direct-Dial Their Hearts"
+# "How to Direct-Dial Their Hearts"
 - You may look great, stand tall, dress in style and feel confident – but how do you project these qualities when you speak over the phone? Ensure that you:
   - **"Pump up the volume"** – When you speak over the phone, "turn your smiles into sound." Be animated and project a positive image through your tone of voice.
   - **"Name shower"** – Repeat the other person's name over and over. A person's name is their favourite word.
   - **"Oh wow, it's you"** – Always answer your calls in a professional way, then switch to a very sunny, happy demeanour as soon as the caller identifies themselves.
 
-## "How to Work a Party Like a Politician Works a Room"
+# "How to Work a Party Like a Politician Works a Room"
 - Always put the "politician's six-point party checklist" to work when you attend a function:
   - **"Who will be there?"** – After all, that's why you're going, right?
   - **"When should I arrive?"** – The best advice is to get there early.
@@ -163,13 +163,13 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - **"Where is the collective mind?"** – Will it be a party of financiers or environmentalists?
   - **"How am I going to follow up?"** – Follow up to confirm the contacts you have made.
 
-## "How to Break the Most Treacherous Glass Ceiling of All"
+# "How to Break the Most Treacherous Glass Ceiling of All"
 - Gaffes, intemperate or insensitive comments can kill any chance you have to get ahead. To avoid doing damage, keep these strategies in mind:
   - **"See no bloopers"** – Never comment on the "slips, fumbles and faux pas" of others.
   - **"Savor the favour"** – If someone offers to do a good deed on your behalf, wait a little before you try to collect it.
   - **"Chance encounters are for chitchat"** – You have been trying to schedule an appointment to speak to the boss about increasing your salary for weeks. But don't bring it up when you run into them in a checkout line. If you do, you'll never get the raise.
 
-## Six principles of persuasion
+# Six principles of persuasion
 
 - **reciprocity** is basically the old biblical principle *do unto others as you would have them do unto you.*
   - put into action: if you want to get something, give something. The right order is important: offer something first, then ask for what you want 
