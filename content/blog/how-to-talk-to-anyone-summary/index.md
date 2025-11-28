@@ -5,6 +5,14 @@ description: "how to talk to anyone by Leil Lowndes summary"
 tags: ["communication", "relationship"]
 ---
 
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
+
 # take-aways
 
 - Successful people are not always the smartest, most attractive or best educated.
