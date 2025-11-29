@@ -44,9 +44,9 @@ class-name: "table-of-contents"
 - **Circumstances, Conditions and Context**
   - Gladwell affirms that you must face the additional problem of context beyond your inability to read strangers’ emotions and your powerful bias to believe what they tell you. Where and when you meet a stranger, he emphasizes, matters.
 
-## genius responses to ‘put rude people in their place,’
+# genius responses to ‘put rude people in their place,’
 
-### **‘You seem frustrated. Is something wrong?’**
+## **‘You seem frustrated. Is something wrong?’**
 
 This is a classic redirection tactic. You’re centering the conversation on the other person, not you.
 
@@ -57,7 +57,7 @@ Sometimes people just need a little reminder that they’re actually acting out 
 - “Are you having a problem? Do you want to talk about it?”
 “Have I done something to upset you?”
 
-### ‘I’m surprised you feel comfortable saying things like that.’
+## ‘I’m surprised you feel comfortable saying things like that.’
 
 Addressing someone’s rudeness head on is a key component to dealing effectively with incivility. By using this phrase, you’re telling the speaker that what they’re saying is unacceptable, and that perhaps they need to reassess their words. 
 
@@ -69,7 +69,7 @@ Research studies discovered that reminding someone that they’re being rude can
 “Do you realize what you’re saying, and how you’re saying it?”
 “Are you aware that you’re coming across as harsh and abrasive?”
 
-### ‘Could you repeat that?’
+## ‘Could you repeat that?’
 
 This is similar to the previous phrase, except you’re not saying it straight out — you’re implying that you don’t like what they just said.
 
@@ -81,7 +81,7 @@ Phrases like this stop the conversation in its tracks and force the speaker to r
 - “How you’re talking [or what you’re saying] isn’t very helpful.”
 - “Can you lower your voice [or change your attitude]?”
 
-### ‘How can we focus instead on making this work well for the both of us?’
+## ‘How can we focus instead on making this work well for the both of us?’
 
 This is an example of setting boundaries, a main aspect of coping with rudeness. You’re calmly letting the person know you refuse to continue with the current situation, and you’re redirecting the negative energy onto a positive path.
 
@@ -91,7 +91,7 @@ This is an example of setting boundaries, a main aspect of coping with rudeness.
 - “Let’s stop with the negativity and focus on finding a solution.”
 - “Why don’t we continue this when we can be respectful of one another?”
 
-### ‘I see your point.’
+## ‘I see your point.’
 
 Saying that you understand what someone is saying in spite of the manner in which they’re saying it defuses the situation by acknowledging them.
 
@@ -103,7 +103,7 @@ Often a big cause of rudeness, especially in the workplace, is the fear of not b
 - “That’s definitely a way of looking at it.”
 - “I hear you.”
 
-### ‘I can tell you’re upset about something. Could you explain the issue more calmly to me?’
+## ‘I can tell you’re upset about something. Could you explain the issue more calmly to me?’
 
 Here’s another “I acknowledge you” statement, with an added “stay cool.” You’re inviting the person to continue speaking, but (and this is important) stressing that the conversation can’t continue the way it began. It’s boundary-setting and defusing at the same time.
 
@@ -113,7 +113,7 @@ Here’s another “I acknowledge you” statement, with an added “stay cool.�
 - “I know you’re frustrated, but we can work through this if you dial it down a notch.”
 - “It’s clear this is important to you, but let’s step back and take it slowly.”
 
-### ‘Please stop.’
+## ‘Please stop.’
 
 This very simple request can stop rude behavior or conversation in its tracks. The key, though, is saying it quietly and politely. Matching rudeness with rudeness only escalates things.
 
@@ -123,7 +123,7 @@ This very simple request can stop rude behavior or conversation in its tracks. T
 - “Could you quiet down?”
 - “Please give me a chance to speak.”
 
-### If all else fails, say nothing or walk away
+## If all else fails, say nothing or walk away
 
 That’s right. Saying nothing at all, and just looking at the other person in silence, can sometimes be the most effective method of shutting down aggressiveness or rudeness. It’s difficult for someone to amp up the situation when there’s nothing to fight back against. 
 
