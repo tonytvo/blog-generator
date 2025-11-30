@@ -199,7 +199,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - "Get in the habit of helping people out and don't say no big deal says of course; it's what partners do for each other' - label what happened an act of partnership."
   - you simply need to become liked by those around you and those you are looking to persuade or influence. You can do this by cooperating with others, paying others genuine compliments, identifying similarities, and building relationships. The key here is that you need to build these relationships and garner this “liking” before you try to influence others. If you try to become like once you’ve started your efforts to influence, those efforts will fail.
 
-## Two rules of meetings - why meetings take so long
+# Two rules of meetings - why meetings take so long
 
 - according to Seth Godin, there are only three kinds of meetings 
   - information: a meeting in which the participants are informed about something whether they like it or not
@@ -223,7 +223,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
 - notes should be made by hand.
 - if you want to call a family meeting, turn off the Wi-Fi router and wait in the room where it is located
 
-## boss talk - how to talk to your team
+# boss talk - how to talk to your team
 
 - Rule one: don't criticize
   - this might sound a bit too easygoing, and of course, you have to evaluate your employees' work. That's your job, but go easy on the criticism
@@ -240,7 +240,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - and if there are standards that you regard as important but find hard to uphold, then you need to learn them yourself and share them with your employees. Nobody can be good at everything
   - as a leader, get used to the idea that you are primarily responsible for the supply of energy, in other words, motivating, advising, stabilizing, providing momentum and letting others shine 
 
-## The salami tactic - how to carry through every idea 
+# The salami tactic - how to carry through every idea 
 
 - meetings are known to reveal a person's character. Generally speaking, there are four personality types and meetings 
   - the silent type says nothing is thereby usually proven right and always thinks he or she knows better 
