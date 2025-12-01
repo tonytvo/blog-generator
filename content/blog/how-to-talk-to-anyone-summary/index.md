@@ -256,7 +256,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
       - you simply ask, "Is that everything?" 
       - keep on asking until everything is on the table. Only then start negotiating 
 
-## theory of rhetoric - how to make a good speech in his definitive work rhetoric
+# theory of rhetoric - how to make a good speech in his definitive work rhetoric
 
 - Aristotle wrote that a good speaker has to have three things under control the argument logos the presentation ethos and the audience pathos
 - in Aristotle's day there were only three different types of rhetoric 
@@ -279,7 +279,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - remember to integrate pauses look at your audience, breathe deeply.
   - a good speech is one that induces the listeners to change their minds while giving them the feeling that this change of opinion is their own decision 
 
-## Storytelling how to make the most boring lecture exciting
+# Storytelling how to make the most boring lecture exciting
 
 - classic fairy tales follow a particular sequence:
   - **abstract**: how does it begin? ("Once upon a time...")
@@ -298,7 +298,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - talk about the idea in such a way that people will want to tell others about it 
   - the next time you have to say something in front of other people, start your talk with this sentence: let me tell you a short story, or on the way here, something strange happened to me 
 
-## Principal negotiation: how to reach an agreement 
+# Principal negotiation: how to reach an agreement 
 
 - negotiation is the Fine Art of finding a solution to an apparently impossible situation 
 - one of the best-known negotiating methods, principled negotiation, is based on the book Getting to Yes by Roger Fisher and William L Yuri 
