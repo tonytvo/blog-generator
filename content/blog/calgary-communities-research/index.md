@@ -15752,6 +15752,292 @@ Strategy risk notes:
 
 # Fish Creek Park
 
+[![Fish Creek Provincial Park - One of the Top Attractions in Calgary, Canada - Yatra.com](https://tse1.mm.bing.net/th/id/OIP.5x6PZfkohh-F8lxAJK6AVQHaE8?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://www.yatra.com/international-tourism/attractions-in-calgary/fish-creek-provincial-park?utm_source=chatgpt.com)
+
+Below is a **real-estate-investor-focused outline for Fish Creek Park (Calgary community)** (the small residential pocket by **Fish Creek Provincial Park / Bow Bottom Trail / S. Macleod Trail**).
+
+---
+
+## 1) Nearby amenities & attractions (the “why people live here”)
+
+**Nature / lifestyle moat**
+
+* **Fish Creek Provincial Park** at your doorstep: multi-use pathways, river valley access, year-round walking/biking/snowshoeing; major quality-of-life draw.
+* **Bow Valley Ranch / visitor centre area** and park facilities nearby (day-use, trails, etc.). (Park facilities info is maintained by Alberta Parks.)
+
+**Shopping / services (short drive)**
+
+* **Macleod Trail commercial corridor**: groceries, pharmacies, banks, big-box retail, restaurants.
+* **Southcentre Mall area** + surrounding retail (Canyon Meadows / Anderson / Southland corridor).
+* Easy access to medical clinics and professional services along Macleod Trail.
+
+**Transit / connectivity**
+
+* Very quick access to **Macleod Trail**, **Bow Bottom Trail**, and major north–south commuting routes.
+* **Canyon Meadows / Fish Creek–Lacombe LRT area** is nearby (depending on exact building location).
+
+---
+
+## 2) When were homes commonly built?
+
+Fish Creek Park’s housing stock skews **newer than many “classic” Calgary inner-suburban communities**.
+
+**Occupied dwellings by period of construction (2021 Census profile):**
+
+* **2001–2010: 55%** (largest cohort)
+* 2011–2015: 11%
+* 2016–2021: 13%
+* 1961–1980: 13%
+* 1981–1990: 4%
+* 1991–2000: 6% 
+
+**Investor implication**
+
+* Less “1950–1970 guts” = fewer deep-reno bungalows.
+* More “condo-era” buildings = different risk set (condo fees, special assessments, rental bylaws, board governance).
+
+---
+
+## 3) Common building types
+
+Fish Creek Park is **apartment-dominant**.
+
+**Dwelling structure type (2021 Census profile):**
+
+* **Apartment <5 storeys: 81%**
+* Single-detached: 15%
+* Row house: 4%
+* (Near-zero semi-detached / high-rise) 
+
+**Investor implication**
+
+* This is primarily a **condo/low-rise apartment** investment neighborhood, not a “suite + laneway” playground.
+
+---
+
+## 4) Zoning regulations & “more units per lot?”
+
+Fish Creek Park contains a **mix** of land use districts, including **multi-residential** and some **R-C1** pockets.
+
+### What the land use maps show (high level)
+
+The City’s Land Use Bylaw map section for this area shows districts including:
+
+* **M-C1** (with density modifiers shown as **d100 / d107** on the map),
+* **R-C1** in some pockets,
+* plus various special-purpose/commercial designations nearby. ([https://www.calgary.ca][1])
+
+### What that means for “more units”
+
+* **M-C1** is designed for **multi-residential** development and is governed by density rules (units/hectare). The online bylaw notes: **M-C1 max density is 148 units/hectare** (with map-specific “d” modifiers potentially applying). ([https://www.calgary.ca][2])
+* **R-C1** areas are typically **single-detached** form, but Calgary-wide rules around suites can still matter depending on the parcel and permits.
+
+### Suites (important investor reality check)
+
+* Calgary has clear rules for **secondary suites / backyard suites** and **development permits** depending on the base dwelling type and situation. ([https://www.calgary.ca][3])
+* Practically: **Most Fish Creek Park inventory is apartments**, so your “add units per lot” upside is **limited** unless you’re buying a rare R-C1 parcel (or assembling for redevelopment, which is hard here because of the small footprint).
+
+**Action step (what an investor should actually do)**
+
+* Use the City’s **MyProperty** map to check the specific parcel’s land use district and rules. ([maps.calgary.ca][4])
+
+---
+
+## 5) Population & population growth
+
+From the City’s 2021 Census community profile:
+
+* **Population (private households) in 2021: 430**
+* **Households: 265** 
+
+**Growth**
+
+* Fish Creek Park is **tiny**, so its % changes can look “lumpy” year-to-year.
+* There isn’t a clear “greenfield growth engine” inside this community; growth tends to come from **redevelopment/turnover** rather than new subdivisions.
+
+---
+
+## 6) Average income in the area
+
+From the 2021 Census profile (income year 2020):
+
+* **Median household income (before tax): $92,000** (Fish Creek Park) 
+
+**Investor implication**
+
+* Household income is **solid**, but note the community’s age structure is **very senior-heavy** (see next point), so income may reflect pensions + investment income patterns rather than “young family wage growth”.
+
+---
+
+## 7) Crime rate
+
+I wasn’t able to reliably extract a **Fish Creek Park-specific crime rate** figure from Calgary Police’s interactive tools in a way I can cite cleanly in this response.
+
+**Practical workaround (what I recommend investors do)**
+
+* Pull 12-month incident counts for:
+
+  * Fish Creek Park (community),
+  * plus 2–3 nearby comps (e.g., Canyon Meadows / Deer Run / Parkland),
+  * and compare **per-capita** (incidents ÷ population).
+* If you want, tell me which nearby comps you care about, and I’ll build a **simple per-capita crime comparison framework** you can reuse.
+
+---
+
+## 8) Rental supply/demand (what’s the “rentability”?)
+
+### Macro rental market context (Calgary)
+
+* CMHC data shows Calgary vacancy has risen vs the ultra-tight 2023 period:
+
+  * **2023 (Oct): 1.4%**
+  * **2024 (Oct): 4.6%**
+  * **2025 (Oct): 4.9%** ([CMHC][5])
+* CMHC’s 2025 Rental Market Report commentary: rent growth stabilized; newer supply increased competition. ([Canada Mortgage and Housing Corporation][6])
+
+### What Fish Creek Park’s structure implies
+
+Because Fish Creek Park is **apartment-heavy** (81% low-rise apartments) :
+
+* Rental market is often driven by:
+
+  * condo rules (rental caps, board restrictions),
+  * investor-owned units vs owner-occupied balance,
+  * building quality and fee levels.
+
+**Supply reality**
+
+* With only **~265 households**, listings can be **thin**: one investor listing can swing “local” impressions.
+
+---
+
+## 9) Average rents
+
+### Citywide / zone anchors (useful baselines)
+
+* **CMHC (Calgary total)** average rent (purpose-built survey): **$1,775**; by zone **Southwest: $1,897**, **Southeast: $1,755**. ([CMHC][7])
+* **RentFaster (Calgary, platform averages)** shows typical monthly rents (all property types listed) around:
+
+  * 1 bed **$1,496**
+  * 2 bed **$1,893**
+  * 3 bed **$2,251** ([RentFaster.ca][8])
+
+### Fish Creek Park “ballpark”
+
+* HonestDoor’s model-based estimate for Fish Creek Park shows **average rental estimate ~$3,762/month** (this can skew high if the sample includes larger homes; treat it as a rough indicator, not a quote). ([HonestDoor][9])
+
+**Investor takeaway**
+
+* For this community, your *true* rent is **building-by-building**. The right way is: pull **5–10 active/expired listings** in the same building (or closest comparable buildings) and underwrite off that.
+
+---
+
+## 10) Neighborhood grade (A / B / C / D)
+
+**My grade: B (Livability A-, Investment B-)**
+
+**Why**
+
+* **A-level lifestyle draw**: immediate access to Fish Creek Park.
+* **B-level investment profile**: condo-heavy stock + small footprint = fewer “force appreciation” angles, more “steady hold” investing.
+
+---
+
+## 11) Long-term appreciation potential vs current returns/cashflow
+
+### Appreciation potential (long-term)
+
+**Supportive factors**
+
+* Park adjacency is a durable amenity (hard to replicate).
+* Limited new land supply in established south Calgary areas.
+
+**Constraining factors**
+
+* Condo-heavy neighborhoods often appreciate **more slowly** than detached-heavy neighborhoods during certain cycles (and can be more fee/special-assessment sensitive).
+* Investor returns can be reduced by:
+
+  * rising condo fees,
+  * insurance increases,
+  * deferred maintenance / special assessments.
+
+### Cashflow potential (current)
+
+* Condos can sometimes pencil better on **entry price**, but fees often **eat the spread**.
+* The best “cashflow” plays here tend to be:
+
+  * **targeted tenant profile** (quiet professionals / downsizers’ buildings sometimes prefer stable renters),
+  * **furnished mid-term** (if building rules + demand align),
+  * rather than heavy value-add construction.
+
+---
+
+## 12) Average house prices
+
+Because Fish Creek Park is small and condo-heavy, “average price” depends a lot on mix. As a market snapshot:
+
+* HonestDoor shows **Average HonestDoor Price (current month): $860,104** and **sold $/sqft ~$347** for Fish Creek Park. Treat as a model-based directional datapoint, not MLS benchmark. ([HonestDoor][9])
+
+**Investor tip**
+
+* For underwriting, break it into:
+
+  1. low-rise condo apartments (dominant stock), and
+  2. the small detached/row segment,
+     because combining them blurs reality.
+
+---
+
+## 13) Strategies that can work here (best-fit playbook)
+
+### Strategy A — “Condo buy-and-hold” (most realistic)
+
+**Works if:**
+
+* You can buy at a discount (estate sale / tired unit / motivated seller),
+* the building has strong reserve fund discipline,
+* rental bylaws are investor-friendly.
+
+**Underwrite focus**
+
+* Condo docs: reserve fund study, planned major capex, litigation history, rental restrictions.
+
+### Strategy B — “Low-reno / layout optimization”
+
+Because many buildings are 2000s+:
+
+* Cosmetic upgrade (floors/paint/lighting/appliances) to push rent
+* Add in-suite laundry upgrades only if permitted (often not)
+
+### Strategy C — “Mid-term furnished rental” (selectively)
+
+Best suited for:
+
+* professionals on contract, relocation tenants, insurance displacement
+  **But**: depends heavily on condo bylaws + parking + unit furnishings + seasonal demand.
+
+### Strategy D — “Land-use arbitrage” (edge-case, advanced)
+
+Only if you can find:
+
+* a rare R-C1 parcel with realistic suite potential, or
+* a small assembly angle near multi-residential edges.
+  In practice, Fish Creek Park’s tiny size + existing built form makes this **hard**.
+
+---
+
+
+[1]: https://www.calgary.ca/content/dam/www/pda/pd/documents/lud-section-maps/1p2007/3s.pdf?utm_source=chatgpt.com "Parcel and Building Base Map"
+[2]: https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?part=6&utm_source=chatgpt.com "General Rules for Multi-Residential Land Use Districts"
+[3]: https://www.calgary.ca/development/home-building/secondary-suite-permits.html?utm_source=chatgpt.com "Secondary suites development permit requirements"
+[4]: https://maps.calgary.ca/myproperty/?utm_source=chatgpt.com "My Property 3.0 Instant App"
+[5]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Summary+Statistics&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=TIMESERIES&utm_source=chatgpt.com "Calgary — Historical Rental Market Statistics Summary"
+[6]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report"
+[7]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?DisplayAs=Table&GeograghyName=Calgary&GeographyId=0140&GeographyTypeId=3&TableId=2.1.31.3&utm_source=chatgpt.com "Calgary — Rental Market Statistics Summary by Zone - Full view"
+[8]: https://www.rentfaster.ca/rent-report/?utm_source=chatgpt.com "Rent Report for Apartments & Houses in Canada"
+[9]: https://www.honestdoor.com/cities/ab/calgary/fish-creek-park "Fish Creek Park, Calgary Real Estate: Housing Market December 2025 | HonestDoor"
+
+
 # Legacy
 
 # Greenwood/Greenbriar
