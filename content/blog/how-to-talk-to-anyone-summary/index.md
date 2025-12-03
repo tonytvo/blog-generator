@@ -312,7 +312,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
     - principal negotiation falls into the second camp and recommends Cooperative negotiation. Negotiating properly means that everyone gets more than they originally hoped for 
     - you must never try to make all the money that's in a deal. Let the other fellow make some money, too, because if you have a reputation for always making all the money, you won't have many deals
 
-## The feedback method - how to criticize
+# The feedback method - how to criticize
 
 - feedback is one of the most sensitive processes in communication. It is easy to hurt people with criticism, but false Compliments are also unhelpful. Harsh criticism damages our self-esteem and can lead us to make unwise choices, but flowery compliments often make us too complacent 
 - as for the person giving the feedback, most people are prone to being critical as it gives them a feeling of superiority. They feel like they need to crush bad or weird ideas 
