@@ -328,7 +328,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
 
 - **Whenever you are about to give feedback, ask yourself, how can I make this idea better? Rather than Why is this idea bad**
 
-##  groupthink - what happens when everyone has the same opinion
+#  groupthink - what happens when everyone has the same opinion
 
 - Janice called the phenomenon that occurs when the desire for group consensus is stronger than the urge to express an unpopular opinion "group think." If this happens, the group is at risk of making very poor decisions and even more, if many people are too sure of the same thing, they become radical and imprudent
   - researchers have observed this phenomenon among jury members: the greater the consensus, the harsher the judgment, and the surer the jury is that its verdict is correct 
