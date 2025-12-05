@@ -341,7 +341,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - divide your team into two informed competing teams to study the same problem and compare results 
   - **When all think alike, no one is thinking - Walter Lippman**
 
-## The power method - when the force is with you
+# The power method - when the force is with you
 
 - warning: even if you prefer to convince people with good arguments rather than by mean tactics, you should know these tricks because they are bound to be used against you
 - **Never argue hesitantly**
