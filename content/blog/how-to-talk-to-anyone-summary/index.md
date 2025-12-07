@@ -362,7 +362,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
   - if you can't convince somebody, reassess your own situation: what will it cost me if I give up now 
   - a smiling confession of your own defeat comes across as more self-assured than sullenness, and what's more, the less interest you show, the less satisfied your adversary will feel
 
-## Intercultural communication - how to negotiate abroad
+# Intercultural communication - how to negotiate abroad
 
 - the more you get to know a culture the more black and white turns to Gray
 - in order to get to grips with a culture it is not enough to master the language as cultural idiosyncrasies are more apparent in the way we communicate then in what we communicate. 
@@ -377,7 +377,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
 - **multi-active**: if you're intrigued by "how" people communicate and relate to each other
 - **reactive** if you're convinced by who says it and their experience and authority
 
-## self-talk - how to (de)motivate ourselves
+# self-talk - how to (de)motivate ourselves
 
 - there are two kinds of self-talk
   - the first is the unself-conscious Babbling of little children as they play or the thinking aloud of contestants in TV shows such as Who Wants to Be a Millionaire? These types of inner monologue were called "egocentric speech" by the developmental psychologist Gene Piaget. he believed they were a **sign of cognitive immaturity**. Today we know that thinking aloud is an excellent method for ordering our thoughts and improving concentration
