@@ -390,7 +390,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
 - in a nutshell self-talk serves two different functions first concentration and second motivation
 - *talking to myself is the only way I can be sure of intelligent conversation - Edmund Blackadder*
 
-## active listening - how we are (not always) all ears 
+# active listening - how we are (not always) all ears 
 - paradoxically in our age of constant communication the raw material of conversation has actually disappeared: listening. Genuine real listening is a rare commodity and a great gift, because you are giving to the person you are listening to your most valuable asset your attention 
 
 - **listen don't talk** 
