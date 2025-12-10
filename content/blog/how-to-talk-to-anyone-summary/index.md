@@ -411,7 +411,7 @@ Finally, if you feel your anger rising and can tell that you’re about to fight
 
 - **the most romantic gift to listen to another's anxieties for one hour without judgment or Solutions as an analyst might - Alain de bottan**
 
-## small talk - how to start a conversation with strangers
+# small talk - how to start a conversation with strangers
 
 - ![small talk](./small-talk.png)
 
@@ -435,23 +435,23 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
   - **we have two ears and only one mouth so that we can listen twice as much as we speak Epictetus**
 
 
-### Teach Yourself to Become Charming and Attractive
+## Teach Yourself to Become Charming and Attractive
 
 - The most accomplished public speakers, actors, politicians and salespeople were not born charismatic. They worked hard to learn how to speak effectively, be appealing, and charm and persuade others. How did they achieve their goals? The answer is simple: They each applied certain remarkably helpful rules of personal communication and, thus, developed themselves into winning and attractive personalities. Yes, such rules exist. Furthermore, they are easy to learn and employ. You can use these secrets and tricks to re-create yourself almost magically into a person of great charm and poise and someone everyone will admire and want to be near.
 
-### "How to Intrigue Everyone Without Saying a Word"
+## "How to Intrigue Everyone Without Saying a Word"
 - First impressions are the most lasting. "The way you look and the way you move" provide 80% of the information people use to form their initial impressions of you. To make sure people get an overwhelmingly positive impression when they first meet you, use the following tips:
   - **Smile slowly** – Don't smile as soon as you meet someone. People will assume that you do this with everyone. Instead, wait a second or two, look long and deep at the person you are meeting, then smile big. This brief delay signals that you are not smiling because it is socially desirable, but because you see something special in this particular person that you really like.
   - **"Sticky eyes"** – Show people that you truly can't take your eyes off of them. Maintain perfect eye contact while you speak with them.
   - **"The big baby pivot"** – When you meet someone, pivot directly toward him or her with a "total-body turn," flash a genuine smile, and show the undivided and very special attention you would give to a young child who has just crawled up into your lap.
 
-### "How to Know What to Say After You Say, 'Hi'"
+## "How to Know What to Say After You Say, 'Hi'"
 - Many people, including senior executives, motivational speakers and great performers, hate to make small talk. But it is an art that you can easily muster if you follow these tactics:
   - **The "mood match"** – Don't speak with someone else until you first sample his or her mood. Once you have, ensure that your opening words "match that mood." This is particularly important for salespeople.
   - **"Wear a 'whatzit'"** – Starting a conversation with a stranger is not easy. One way to get the ball rolling is to wear something distinctive that he or she is sure to comment upon – a novel tie-tack, a piece of antique jewelry, or a special lapel pin or button.
   - **The "swivelling spotlight"** – People love to speak about themselves. Imagine a giant spotlight that rotates to light up your counterpart. Keep the spotlight – and focus – on that person and not yourself. He or she will think you are great for doing so.
 
-### "How to Sound Like You're Peas in a Pod"
+## "How to Sound Like You're Peas in a Pod"
 
 - Generally, people are more comfortable with those with similar values or interests. Your job is to provoke "sensations of similarity" in the thoughts of those you want to get to know:
   - **"Join the movement"** – Does your conversational partner make herky-jerky movements or languid and graceful ones? Subtly match that person's movements to make him, or her feel more comfortable with you on a subliminal basis. But don't go overboard, or you are almost sure to offend.
@@ -459,14 +459,14 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
   - **"The premature 'we'"** – When you pepper your sentences with the word "we," you establish a subconscious bond with other people involved.
 
 
-## the iceberg model - what happens below the surface
+# the iceberg model - what happens below the surface
 
 - we could say that divisible conscious part of a discussion is the **factual level** (what we say or what we talk about) while the **unconscious part** is the interpersonal level (how we say it and what we really mean) see [lasswells communication model](#lasswells-communication-model---how-to-recognize-fake-news) and [what's the exaxium theory](#watzlawicks-axiom-theory---how-relationships-fail) this means we can control the factual, level we can select our words consciously but our gestures facial expression and tone of voice will betray our unconscious secret hopes, repressed conflicts, traumatic experiences ,base motives, and animal instincts, and appeal to the other person's unconscious. The interpersonal level decides how we will be perceived and how we perceive others 
 - the more we know about another person's values patterns of behavior motives in other words the more we see of the iceberg the better we can understand the person's words and actions. 
 - The best way to lower the water line of your opponent or partner is to show more of yourself if you for example want someone to admit something start by talking honestly about your own mistakes 
 - **fear and hope are alike underneath - Richard Ford**
 
-## the spiral of Silence - why we don't dare state our opinion 
+# the spiral of Silence - why we don't dare state our opinion 
 
 - German social scientist Elisabeth Noelle-Neumann hypothesis: the willingness of people to voice there opinion in public dwindles in situations where they believe that the majority opinion is different from their own. in other words we do not like to be of a different opinion to others if we notice that the group majority has a different opinion to ours we remain silent this phenomenon is called the spiral of silence and can be explained by these six points of which the last two are arguably the most important:
 - most people have a fear of isolation and observe the behavior of others to assess which opinions will be accepted or rejected We Fear isolation more than being wrong wrote Alexis de Taco in the 19th century
