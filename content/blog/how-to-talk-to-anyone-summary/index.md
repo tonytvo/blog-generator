@@ -478,7 +478,7 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
 
 - **we become quieter if we believe that we are in the minority**
 
-## the speech act Theory - how words can trigger actions
+# the speech act Theory - how words can trigger actions
 
 - in day-to-day life we distinguish between doing and talking but there is in fact no difference. speaking is also an action.
 - The Thesis: sentences have a propositional meaning (this is the information contained in the sentence), which can be "true" or "false" but sentences also have an elocutionary meaning. This means that we are doing something when we speak including something essential ("doing something in saying something"). Examples include requests, warnings, threats, recommendations. Such an elocution can succeed or fail - 
@@ -486,7 +486,7 @@ for example if you don't take the speaker seriously, the act of speaking has fai
 
 - The speech Act Theory explained in two sentences "what do we do when we speak" and "what impact do we have when we speak?"
 
-## the social judgment Theory - which of our opinions never change
+# the social judgment Theory - which of our opinions never change
 
 - a question that continues to preoccupy researchers into communication is this **when do people allow themselves to be persuaded about something? and when not?** **why is it that some of our attitudes are deeply ingrained and not up for discussion?** (e.g.: allegiance to a particular football club) **while we change others at the drop of a hat?** (favorite TV series for example )
 - an explanation is offered by the **social judgment Theory** according to this Theory there are three factors that play a role in persuading us to change our opinion 
@@ -498,7 +498,7 @@ for example if you don't take the speaker seriously, the act of speaking has fai
 
 - **if you can't change your mind, then you're not using it**
 
-## the story Matrix - how to apologize properly so that the other person forgives and forgets
+# the story Matrix - how to apologize properly so that the other person forgives and forgets
 
 - **use I sentences**
   - apologizing means taking on full responsibility for something sentences like I'm sorry that your feelings were hurt or I'm sorry that you're so angry should be avoided because what you're implying is it doesn't have anything to do with me that your feelings are hurt say it like it is I'm sorry that I hurt your feelings. According to the research a person is most likely to forgive and forget if you admit full responsibility for what you did 
@@ -517,7 +517,7 @@ avoid at all costs
 
 - **when it comes to apologies keep in mind there are only two ways you can apologize begrudgingly or sincerely, choose the latter**
 
-## White Lies - how to answer the question how do I look
+# White Lies - how to answer the question how do I look
 
 - the truth is, all people lie. In certain situations - such as when we are under pressure, have to justify ourselves, or want to make a good impression - we tend more towards fibbing and telling Tales than when we feel relaxed and self-secure. But, from an ethical point of view not every lie is bad. You might for example lie in order to protect someone. In communication Theory lies fall into two categories: "do I benefit from the lie" or "does the person I lied to benefit?" This results in four different outcomes 
 - **white lie - only the person lied to benefits** this is a fine selfless lie which you risk potential loss to help someone out here you typically put yourself in the position of the person and for example Defender existence of Santa Claus and the knowledge that the LIE will be exposed in due time this altruistic lie gives us a good feeling 
@@ -527,7 +527,7 @@ avoid at all costs
 sometimes end up also inflicting damage on yourself the "largest audience ever to witness in inauguration"
 - **if you tell the truth you don't have to remember anything - Mark Twain**
 
-## the six-word rule - how to sum up a whole life in six words
+# the six-word rule - how to sum up a whole life in six words
 
 - Hemmingway wrote novel in 6 words: "For sale, baby shoes, never worn"
 - "Can you tell your life story in six words?"
