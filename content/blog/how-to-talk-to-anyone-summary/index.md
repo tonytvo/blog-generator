@@ -535,7 +535,7 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 - The six word rule is not a rejection of sprawling, convoluted sentences or endless digressions, but before writing (or speaking), you should ask yourself these questions: what do I really want to say and can I say it more succinctly?
 - **if it's important, keep it short**
 
-## watzlawick's axiom theory - how relationships fail 
+# watzlawick's axiom theory - how relationships fail 
 
 - an axiom is a valid truth that needs no proof 
 - at the end of the 1960s the communication theorist Paul waslowick together with other researchers came up with five axioms to explain how interpersonal communication especially in relationships fails 
@@ -559,7 +559,7 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 
 - **everyone hears what you say friends listen to what you say best friends listen to what you don't say** 
 
-## proust's questionnaire how to ask good questions
+# proust's questionnaire how to ask good questions
 
 - ![proust questionaire](./proust-questionaire.png)
 
@@ -572,7 +572,7 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 
 - *we all admire people who give good answers but we admire those who ask good questions even more. The people we remember most are the ones who really listen*
 
-## non-violent communication why we find it difficult to be friendly
+# non-violent communication why we find it difficult to be friendly
 
 - language of the Jackal causes the speaker to feel Superior and the person being addressed to feel bad typical examples of Jackal language:
   - **analysis** "that's wrong because..."
@@ -593,7 +593,7 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 
 - the essence of normal communication we all like to be right the essence of non-violent communication we are better off if we resolve a dispute then if we win it or in the words of Marshall Rosenberg: *would you rather be right... or happy...?*
 
-## The Cooperative principle - how we should express ourselves in order to be understood 
+# The Cooperative principle - how we should express ourselves in order to be understood 
 
 - people's three biggest fears loving someone without being loved in return; searching for friends and not finding any; saying something and not being understood
 - British philosopher Paul Grice 1913-88 dedicated his life to the third problem and in 1975 finally formulated the so-called Cooperative principle a basic rule for effective communication:
@@ -610,7 +610,7 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
   - we can refrain from cooperation that's called "opting out" (if you say "my lips are sealed", this implies you know something but won't talk about it and this will end all communication)
 - **only say what is true and important and express it clearly and simply**
 
-## the expectancy violations Theory how much distance we keep from other people
+# the expectancy violations Theory how much distance we keep from other people
 
 - according to burgoon the following rules apply in the Western World with regard to keeping our distance
   - **intimate space (Elbow Room)** up to 20 inches. within this space we expect to be touched by the other person it is reserved for close family lovers and pets 
@@ -624,7 +624,7 @@ sometimes end up also inflicting damage on yourself the "largest audience ever t
 
 - *When in Rome do as the Romans do*
 
-## Schultz von thun's communication model - why we should talk to each other about how we talk to each other
+# Schultz von thun's communication model - why we should talk to each other about how we talk to each other
 
 - according to Thun every message has four layers:
   - **content** what I am informing myself about 
@@ -637,7 +637,7 @@ signals. How can we solve misunderstandings? by talking to each other about how 
 
 - what is thought is not always said; what is said is not always heard; what is heard is not always understood; what is understood is not always agreed; what is agreed is not always done; what is done is not always done again - Konrad Lorenz 
 
-## second order observation - how your therapist talks to you
+# second order observation - how your therapist talks to you
 
 - A first order Observer sees the world as it appears to him or her the world is simply there. The second order Observer, however, ascribes *what* the first order Observer sees to *how* it is seen.  **Important***: we cannot observe ourselves observing (which is also why therapists can't treat themselves). This is often referred to as the *"blind spot"* 
 - in other words we are unaware of the way in which we observe; we cannot see that we cannot see so by identifying someone's blind spot, the second order Observer might open up A New Perspective, and make that person aware, for example, of the fact that he or she could just as easily see something differently 
