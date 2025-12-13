@@ -773,7 +773,7 @@ meeting might suggest a friendly local Gathering where everyone can contribute, 
 wants to get a particular message across. Downsizing suggests the sort of inevitability to making a company somewhat Cozier in size without mentioning job cuts
 - ***euphemisms are the mother tongue of manipulation, as a rule of thumb, if someone doesn't use straight language, don't act straight away, pause before acting***
 
-## sophism - how you can explain practically anything with spurious correlations
+# sophism - how you can explain practically anything with spurious correlations
 
 - in ancient Greece debate was Central to the forming of opinions a distinction between good and bad reasoning was made:
   - **good reasoning** aims to convince, but it also lets itself be convinced, simply put, it is the search for truth
@@ -783,7 +783,7 @@ wants to get a particular message across. Downsizing suggests the sort of inevit
 sophists were unpopular despised, and successful
 - "***most of you will have heard the maxim "correlation does not imply causation", just because two variables have a statistical relationship with each other does not mean that one is responsible for the other. For instance, ice cream sales and forest fires are correlated because both occur more often in the summer heat but there is no causation; you don't set a patch of the Montana brush on fire when you buy a pint of Haagen-Dazs***" - Nate silver 
 
-## the cultivation Theory - how the media corroborates our opinions
+# the cultivation Theory - how the media corroborates our opinions
 
 - one of the most frequently cited communication theories is George gerbner's cultivation Theory from 1976 which claims that people who watch a lot of Television are more likely to cultivate the belief that reality corresponds with what they are seeing on TV. He argued that watching a lot of Television changes our perception of reality and causes anxiety the
 - it is important to remember that we prefer to watch things we enjoy - as is demonstrated most clearly by the
