@@ -1,12 +1,9 @@
 ---
-title: study group patterns summary - wip
+title: study group patterns summary
 date: "2021-12-27T22:12:03.284Z"
 description: "study group patterns summary"
 tags: ["productivity", "learning"]
 ---
-
-# todo
-- a pattern language for study groups from joshua kerievsky
 
 # The theory and practice of teaching and learning
 ## Learning outcomes and objectives
