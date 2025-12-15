@@ -435,7 +435,7 @@ counterpart the Supreme rule when making small talk comes from the radio host Ce
   - **we have two ears and only one mouth so that we can listen twice as much as we speak Epictetus**
 
 
-## Teach Yourself to Become Charming and Attractive
+# Teach Yourself to Become Charming and Attractive
 
 - The most accomplished public speakers, actors, politicians and salespeople were not born charismatic. They worked hard to learn how to speak effectively, be appealing, and charm and persuade others. How did they achieve their goals? The answer is simple: They each applied certain remarkably helpful rules of personal communication and, thus, developed themselves into winning and attractive personalities. Yes, such rules exist. Furthermore, they are easy to learn and employ. You can use these secrets and tricks to re-create yourself almost magically into a person of great charm and poise and someone everyone will admire and want to be near.
 
@@ -644,7 +644,7 @@ signals. How can we solve misunderstandings? by talking to each other about how 
 - despite the fact that most people constantly think about themselves it is impossible to observe yourself while doing (or thinking) something. We can only train ourselves to be more aware of moments when we act or think according to old and bad habits. But in order to recognize these patterns we need a second Observer 
 - ***we can't see that we are seeing something***
 
-## transactional analysis - which I do you use to communicate
+# transactional analysis - which I do you use to communicate
 
 - here are two of the greatest interpreters of human communication 
   - **Sigmund Freud** (1856-1939) the founder of psychoanalysis believed that hidden pleasures and fears
@@ -659,7 +659,7 @@ practice? when we communicate it is always from one of these ego States. We are 
 
 - ***if communication does not work you should ask yourself what state am I and at the moment parent ego, adult ego or child ego***
 
-## parenting tips - how to talk to Children even if you don't have any of your own
+# parenting tips - how to talk to Children even if you don't have any of your own
 
 - here are some tips from parenting experts
   - **be a role model** actions speak louder than words. A child won't understand that he shouldn't scream if you scream at him.
@@ -675,7 +675,7 @@ practice? when we communicate it is always from one of these ego States. We are 
 
 - ***it is easier to build strong children than to repair broken men - Frederick Douglass***
 
-## l'essprit de l'escalier - when we think of the best arguments 
+# l'essprit de l'escalier - when we think of the best arguments 
 
 - the term l'esprit de l'escalier ('staircase wit') refers to opinions and ideas that we express with clear polished pithiness - and which always occur to us too late.
 - in Psychology this phenomenon when your nerves fail under pressure is called choking you choke on the expectations 
@@ -689,7 +689,7 @@ for that all-important penalty kick your confidence plummets. Psychologists reco
 - "Nothing in life is as important as you think it is while you are thinking about it" - Daniel Kahneman
 words and meanings 
 
-## the framing effect - what kind of image we have of the world
+# the framing effect - what kind of image we have of the world
 
 - in communication there is a fundamental rule: ***how*** something is said and by ***whom*** - the "narrative context", or frame - determines how something is understood.
 - in his seminal work the *Presentation of Self in Everyday Life*, Goffman uses the imagery of theater and acting to describe human social interaction. He believes that we each adapt our Behavior to each frame and are therefore a different person in each situation. This means that there is no such thing as authenticity we are one person when we are at work, another when we talk to our parents, and quite another when we are lost in a foreign city and have to communicate with strangers 

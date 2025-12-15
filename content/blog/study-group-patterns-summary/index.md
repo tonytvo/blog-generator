@@ -16,6 +16,7 @@ tags: ["productivity", "learning"]
   - start with materials to build remembering, understanding and applying
   - when those thinking skills are in place, you can do more analyzing, evaluating and creating
   - find a long lists of good **verbs** to describe thinking skills in each category. These words are useful as a prompt or start of a sentence.
+
 ## the '4C' learning model
 - each person who comes to your learning hour has a unique background, and what they're going to learn needs to be integrated with what they already know for it to stick.
 - 4C's:
@@ -1152,7 +1153,7 @@ This system ensured that **new members could seamlessly integrate** without disr
 ✔ **Improves accessibility for members who join later**  
 
 
-## "Opening Question: Start Each Session with a Thought-Provoking Question to Stimulate Discussion"**  
+**"Opening Question: Start Each Session with a Thought-Provoking Question to Stimulate Discussion"**  
 
 ### **The Power of the Opening Question**  
 The tradition of using an **opening question** to start a discussion has deep historical roots, seen in **the Socratic method, Oxford University tutorials, and the St. John’s College seminar model**. An effective opening question sets the tone for a dialogue, challenging participants to think deeply and explore the underlying ideas of a topic.  
