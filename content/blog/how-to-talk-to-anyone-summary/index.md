@@ -696,7 +696,7 @@ words and meanings
 - Daniel Kahneman and Amos firsky famously showed how different ways of phrasing frame a dilemma and affect people's responses to a choice. This logic is used to great effect in advertising. For example, two yogurts are on sale one is "90% fat-free" and the other is touted as having a "10% fat-content" although both contain equal quantities of fat, people tend to choose the yogurt advertised is "almost fat-free" because the frame for the yogurt purports that it is a fat free healthier product. The bottom line is: we seldom make rational choices
 - ***there are no objective or authentic messages. Everything that is being communicated is always framed. And if you want to decode a message, try to understand the frame***
 
-## mcluhan's media Theory - why the medium is the message
+# mcluhan's media Theory - why the medium is the message
 
 - the Canadian media scholar Marshall mcluhan 1911-80 who generally shunned the Limelight became the world's most talked about intellectual in 1967 this was because he had summed up the media Revolution the transition from
 print to TV in a single sentence **"the medium is the message"**
@@ -705,7 +705,7 @@ a hint mcluhan's theories never focus on the obvious clear-cut or logical) Rathe
 - "we shape our tools and the tools shape us" wrote mcluhan. He also wrote: "people don't really read newspapers they just climb into them every morning like into a hot bath"W was there ever a better description for the  internet? In his time McLean was taken more seriously by hippies then academics this was a double  misunderstanding, because, as a conservative Catholic he was opposed to the media developments he described
 - *the news doesn't change us; the medium does: take a minute and make a list the five things that have changed in your behavior since using a smartphone. Now ask yourself what changes do you regret. And finally what would it take to undo them?*
 
-## the FOMO phenomenon - what happens if you don't look at your smartphone
+# the FOMO phenomenon - what happens if you don't look at your smartphone
 
 - the internet has multiplied the number of ways in which we communicate. While we still communicate one to one in (a personal email for example), we now also often communicate one to many (e.g, in a Facebook post store
 WhatsApp group message)
@@ -716,7 +716,7 @@ fear of missing out, or fomo
 
 - *In the 20th century "I think, therefore I" am no longer applies, but rather "others are thinking of me therefore I am"* - Peter Sloterdijk
 
-## lasswell's communication model - how to recognize fake news
+# lasswell's communication model - how to recognize fake news
 
 - If you want to analyze fake news, a good starting point is the lighthearted model developed by the American sociologist Harold D Laswell in 1948 which still works astonishingly well today: for example to separate fakes from facts the formula is: ***"who says what in which channel to whom with what effect"***
 - **who?** by answering who said it, we divert our attention to the sender. Laswell called this "control analysis": who is talking? what is their aim? who are their allies?
@@ -726,7 +726,7 @@ fear of missing out, or fomo
 - **with what effect** with the "effect analysis" we ask: how did the audience react? what does this tell us about the sender?
 - *Laswell was concerned with the effects of mass media but his message also applies to interpersonal communication his formula is a simple way to sharpen your senses for propaganda wherever it's coming from*
 
-## the uses and gratifications Theory - what we want when we're online
+# the uses and gratifications Theory - what we want when we're online
 
 - according to gratification theory, media consumption was an active voluntary decision and consequently did not ask what media does to *us*, but what *we* do with media. Sociologist Elihu Katz identified five reasons why we use media and what we use it for
 - **information and education** we consume media to discover what has happen but also to educate ourselves 
@@ -739,7 +739,7 @@ in a film a game or the internet and forget about ourselves.
 - it is important to notice that according to this Theory media do not force us into anything we decide for ourselves what we want to use
 - *when I die I want my Tombstone to say free Wi-Fi so people will visit more often*
 
-## the encoding/decoding model - how messages can be understood differently 
+# the encoding/decoding model - how messages can be understood differently 
 
 - a small but significant question: is what I can hear the same as what you are saying?
 - Stuart Hall (1932-2014) investigate into idea further, he believed not only that we are capable of misunderstanding but that we play active role in understanding, per se. We interpret, or "decode", the same message, differently, depending on our social class, our level of knowledge, and our cultural background but above all, the way we understand a message also depends on how we **want** to understand it
@@ -753,7 +753,7 @@ different ways
 - **a message is more than just what is said. It changes depending on how it is understood**
 - *let's put this into practice: if you are a leader, always make your team repeat to you how they have understood your message.* (That is, by the way, the reason why co-pilots always repeat what they just heard the pilot say)
 
-## visual communication - how we interpret signs
+# visual communication - how we interpret signs
 
 - when we want to communicate something, we use signs - words, gestures, facial expressions, formulas, symbols or traffic signs - that the other person has to translate into meaning. Semiotics is the study of science it is
 a cross-section of Sciences from the disciplines of psychology, philosophy, sociology, Linguistics, computer science, design, art and Mathematics. The bottom line is we find signs everywhere we come across culture rather than nature 
@@ -764,7 +764,7 @@ a cross-section of Sciences from the disciplines of psychology, philosophy, soci
 - "the visual is like the political: everyone thinks they understand something about it, and to an extent this is true" So says the German professor of mass communication Marion G Muller she makes sin important point about the design of signs and symbols: they are complex but need to be comprehensible otherwise there can be no communication.
 - *most people understand complicated matter better through images than in words we remember pictures better than text and are more likely to recognize patterns and images than in sentences* 
 
-## euphemisms - how we obfuscate with language
+# euphemisms - how we obfuscate with language
 
 - speaking in euphemisms is a form of linguistic whitewashing. Governments prefer to speak of enhanced  interrogation methods rather than torture. The company's spokesman will not say that staff are being dismissed but that the company is restructuring. Products are a bargain not cheap, if we tell a lie we are simply "stretching the truth" And when we are broke we can give it the fancy expression "negative cash flow". The opposite of a euphemism - when you give something a negative meaning - is called a dysphemism: someone with strong political views will immediately become an extremist
 - euphemisms are the stealth bombers of rhetoric at first glance they are not visible but their attacks are Insidious by the time you become aware of them the damage is already done. The Nazis loved euphemisms: "land consolidation" instead of expulsion, "labor camp" instead of concentration Camp, "special action" instead of killing
