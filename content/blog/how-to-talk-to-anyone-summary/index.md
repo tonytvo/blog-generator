@@ -791,7 +791,7 @@ filter bubble effect on the internet, algorithms try to predict what information
 on our interests and opinions. That way there is little chance of being convinced by a different opinion, because we are unlikely to be served any alternative views. When it comes to decision making this kind of self-confirming information proves a huge risk 
 - *if you like apples and spend hours watching a TV program about pairs you won't suddenly prefer pairs afterwards but if you already like pears and spend hours watching a program about pairs you will like pears even more afterwards*
 
-## the standpoint Theory what opinion has to do with power
+# the standpoint Theory what opinion has to do with power
 
 - everyone has a voice but not everyone is heard the voices that Prevail are called "hegemonic". The creation of hegemony has little to do with democracy and everything to do with power.
   - it is not a question of who has something legitimate or important to say but always of who has sufficient resources and influence in a society to define their opinion as legitimate or important 
@@ -801,7 +801,7 @@ on our interests and opinions. That way there is little chance of being convince
 - bottom line if you believe that you hold an objective opinion: ask yourself what other points of view were excluded so that yours could prevail
 - *if you want to make sure that every voice in the room is heard you can ask your team not to express their opinion about a given topic but rather brainstorm different possible opinions that way sooner or later even though unheard voices will appear on the flip chart and once they are up there they can be discussed*
 
-## the peak-end rule - what we remember from a conversation 
+# the peak-end rule - what we remember from a conversation 
 
 - here's a question: how do we know if a presentation a job interview or a
 date went well?
