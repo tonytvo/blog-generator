@@ -1,8 +1,6 @@
 # next steps
 - [effective typescript summary - wip](https://tonytvo.github.io/effective-typescript/)
-- https://tonytvo.github.io/study-group-patterns-summary/
 - https://tonytvo.github.io/ddd-with-legacy-code/
-- https://tonytvo.github.io/learning-organization/
 - https://tonytvo.github.io/100m-leads-summary/
 - https://tonytvo.github.io/software-design-x-ray/
 - https://tonytvo.github.io/how-to-talk-so-kids-listen/
@@ -23,7 +21,6 @@
 - write summary for accelerate
 - write summary for pragmatic programmers
 - write summary for extreme programming
-- write summary for learning how to learn
 - write summary for devops handbook
 - write summary for Four Pillars of investing: lessons for building a winning portfolio
 - write summary for The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws + The Practice of Network Security Monitoring: Understanding Incident Detection and Response
