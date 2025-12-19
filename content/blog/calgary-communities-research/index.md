@@ -2452,7 +2452,7 @@ Appreciation Potential: Steady long-term appreciation potential due to ongoing d
 - **Short-Term Rentals**:
   - Potential for short-term rentals (e.g., Airbnb) targeting visitors due to proximity to Nose Hill Park and the University of Calgary.
 
-# Saddle Ridge Neighborhood, Calgary
+# Saddle Ridge, Calgary
 
 ## **Nearby Amenities and Attractions**
 - **Shopping and Services:** 
@@ -19070,9 +19070,6 @@ Because Currie is a mixed product type, “average price” depends heavily on w
 [10]: https://www.realtor.ca/ab/calgary/currie-barracks/real-estate?utm_source=chatgpt.com "Currie Barracks, Calgary Real Estate Listings"
 [11]: https://www.honestdoor.com/cities/ab/calgary/currie-barracks?utm_source=chatgpt.com "Currie Barracks Real Estate - Calgary"
 
-
-# Forest Lawn Industrial
-# Saddle Ridge Industrial
 # Sunridge
 # Horizon
 # Alyth/Bonnybrook
