@@ -19071,6 +19071,237 @@ Because Currie is a mixed product type, “average price” depends heavily on w
 [11]: https://www.honestdoor.com/cities/ab/calgary/currie-barracks?utm_source=chatgpt.com "Currie Barracks Real Estate - Calgary"
 
 # Sunridge
+
+[![2255 32nd St NE, Calgary, AB T1Y 6E8 - Shoppes at Sunridge | LoopNet](https://tse3.mm.bing.net/th/id/OIP.Blrz1J5N8WengRii10hAIwHaE7?pid=Api)](https://www.loopnet.com/Listing/2255-32nd-St-NE-Calgary-AB/26480515/?utm_source=chatgpt.com)
+
+Below is a **real-estate-investor** view of **Sunridge (Calgary)** — with an important caveat:
+
+> **Sunridge is largely a commercial/industrial node (Sunridge Mall / big-box / hospital-adjacent), with a very small residential population.**
+> The City’s **Rundle Area Master Plan** explicitly describes Sunridge as “generally commercial and industrial… auto-oriented,” with Sunridge Mall as the primary feature. ([https://www.calgary.ca][1])
+> And the City’s historical community population tables show **Sunridge’s population was only 46 in 2017** (i.e., essentially “non-residential” as a community). ([https://www.calgary.ca][2])
+
+So for most investors, “Sunridge” behaves more like **a job/retail hub that influences nearby residential communities** (e.g., Rundle, Whitehorn, Marlborough) than a typical house neighborhood.
+
+---
+
+## 1) Nearby amenities & attractions (why the location matters)
+
+**Major anchors (huge convenience + employment node):**
+
+* **Sunridge Mall** (major enclosed mall; large retail concentration). ([Areavibes][3])
+* **Peter Lougheed Centre (hospital) + medical offices** nearby — called out as regionally significant in the Rundle Area Master Plan. ([https://www.calgary.ca][1])
+* **Transit:** immediate access to **Rundle LRT station**; the plan area is built around station access and high activity flows. ([https://www.calgary.ca][1])
+
+**Investor implication**
+
+* This is a **durable demand generator** for rentals in the surrounding NE (hospital staff, retail/service workers, transit commuters).
+* Also tends to create **more “commercial-type” incident risk** (shoplifting, break-ins) than purely residential areas.
+
+---
+
+## 2) When were houses commonly built?
+
+**In Sunridge proper:** very limited traditional housing stock (because it’s mostly commercial/industrial). ([https://www.calgary.ca][1])
+
+**Nearby residential stock (where investors usually buy):**
+
+* In the adjacent established NE communities, much of the housing is **mid/late-20th-century** (common for station-adjacent NE), plus **some townhouse/apartment clusters** near main roads and transit.
+
+**Investor move**
+
+* Treat “Sunridge” as a **location tag**; do your “year-built” work on the *specific sub-area* you’ll actually buy (often Rundle/Whitehorn edges).
+
+---
+
+## 3) Common building types
+
+**Sunridge proper:** primarily
+
+* **Large-format retail / big-box**, surface parking, commercial pads
+* **Institutional / medical** (hospital-related)
+  This is the character described in the Rundle Area Master Plan. ([https://www.calgary.ca][1])
+
+**Investment-relevant nearby residential types:**
+
+* **Townhouses / low-rise apartments** closer to corridors & station influence
+* **Detached/semi-detached** further away from 36 St NE / major roads (typical transition described in the plan area). ([https://www.calgary.ca][1])
+
+---
+
+## 4) Zoning & “more units per lot”
+
+### Reality check
+
+* **Most of Sunridge is *not* low-density residential zoning**, so the typical “upzone my R-C1 lot to 4 units” play often applies **more to adjacent residential communities** than Sunridge itself. ([https://www.calgary.ca][1])
+
+### Citywide rezoning context (Calgary-wide)
+
+Calgary’s “Rezoning for Housing” work (R-CG / R-G updates) is designed to enable more housing forms across established areas, subject to Land Use Bylaw rules. ([https://www.calgary.ca][4])
+
+**Investor implication**
+
+* If you’re specifically hunting “more units per lot,” you’ll usually get more traction **just east of the Sunridge commercial area** where residential parcels exist.
+
+### TOD / redevelopment tailwind
+
+Because this area is station-adjacent and a major activity node, planning documents explicitly talk about intensification potential and mixed-use outcomes over time. ([https://www.calgary.ca][1])
+
+---
+
+## 5) Population & growth
+
+* The City’s historical population tables show **Sunridge had 46 residents in 2017** — i.e., *tiny and not comparable to normal communities*. ([https://www.calgary.ca][2])
+* Practically, the “growth story” is less about residents and more about:
+
+  * redevelopment pressure near **Rundle Station**
+  * employment growth / institutional demand (hospital + retail). ([https://www.calgary.ca][1])
+
+---
+
+## 6) Average income
+
+Because Sunridge itself is effectively non-residential, “average income in Sunridge” is not a stable metric.
+
+**Better approach**
+
+* Underwrite income and tenant profile using **the specific nearby residential community** you’re targeting (Rundle / Whitehorn / etc.) and/or use CMHC neighbourhood tables for the broader NE cluster. ([CMHC][5])
+
+---
+
+## 7) Crime rate
+
+For a retail/hospital-adjacent node, the risk mix is often **more property/disorder oriented** (theft, break & enter, transit-area nuisance) than purely residential.
+
+**Where to verify**
+
+* Calgary Police Service provides a **Crime Map by Community** dashboard. ([ArcGIS][6])
+* Note: older “Open Calgary” crime tables are flagged as no longer being provided by CPS (use the newer sources). ([Open Calgary][7])
+
+**Investor implication**
+
+* Underwrite **higher security/management costs** (lighting, cameras, secure entry, tenant screening) especially if you’re buying close to major commercial corridors/transit.
+
+---
+
+## 8) Rental supply/demand (what actually drives it here)
+
+**Demand engines**
+
+* Hospital + medical services employment
+* Retail/service employment (mall/big-box)
+* LRT access (commuter demand) ([https://www.calgary.ca][1])
+
+**Supply reality**
+
+* Sunridge itself doesn’t have much “typical neighbourhood” rental supply; most rental supply is in nearby residential districts (so your comps must be geographically tight).
+
+---
+
+## 9) Average rents (best available proxies)
+
+There isn’t a clean “Sunridge-only” rent series; the most defensible public benchmark is **CMHC’s neighbourhood grouping**, where Sunridge is included in a larger NE cluster.
+
+* CMHC neighbourhood cluster (includes “Horizon/Sunridge/Westwinds” inside a larger NE grouping) shows **average rents by bedroom type**; example values shown include **~$1,530 (1BR), ~$1,818 (2BR), ~$2,093 (3BR)** for that broader cluster (interpret as “area-level,” not micro-neighbourhood). ([CMHC][8])
+
+**Investor tip**
+
+* For your pro forma, use:
+
+  1. CMHC cluster as the macro baseline
+  2. then tighten with **live comps** (RentFaster, Rentals.ca) on the *exact building type* you plan to buy.
+
+---
+
+## 10) A/B/C/D neighbourhood grade (investor-style)
+
+Because Sunridge is mostly commercial, grading it like a normal residential community is awkward. For **nearby residential investing influenced by Sunridge**, I’d generally treat the immediate station-adjacent NE pocket as:
+
+* **Grade: C (working / transitional)**
+
+  * **Pros:** transit + jobs + amenities are excellent; rental demand is resilient. ([https://www.calgary.ca][1])
+  * **Cons:** more property/disorder risk near major retail/transit corridors; needs tighter ops.
+
+(If you buy farther from the node into quieter residential pockets, your “grade” can improve — but then you’re no longer really “Sunridge-adjacent investing.”)
+
+---
+
+## 11) Long-term appreciation vs current returns/cashflow
+
+**What usually happens near major nodes + LRT**
+
+* Appreciation upside tends to come from **planning-driven intensification** and “amenity gravity” (mall, hospital, transit), but cashflow depends heavily on purchase basis and tenant quality. ([https://www.calgary.ca][1])
+
+**My base case**
+
+* **Cashflow:** can be decent if you buy the right product (townhouse/low-rise/secondary-suite capable nearby), but you must budget higher operating friction.
+* **Appreciation:** better than average for NE *if* redevelopment/TOD momentum translates into real mixed-use and density over time (planning support exists). ([https://www.calgary.ca][1])
+
+---
+
+## 12) Average house prices
+
+**Sunridge proper:** not meaningful (limited residential stock). ([https://www.calgary.ca][1])
+
+**Practical way to get this right**
+
+* Pull prices by **property type** for the specific adjacent community where you’ll buy (Rundle / Whitehorn / etc.) and compare against Calgary-wide benchmarks from CREB market stats. ([creb.com][9])
+
+---
+
+## 13) Real estate strategies that fit (what actually works here)
+
+### Strategy A — “Workforce rental” near the node (most realistic)
+
+* Target **townhomes / low-rise condos / suited detached** in nearby residential areas.
+* Build your offer around:
+
+  * transit proximity
+  * hospital/retail employment demand
+  * durable tenant pool
+
+**Make it work by ops**
+
+* Strong screening, fixed-term leases, proactive property management, security upgrades.
+
+### Strategy B — Value-add light rehab + re-tenanting
+
+* Older NE product often benefits from:
+
+  * durable flooring, lighting, paint
+  * better photos + marketing
+  * slightly upgraded appliances
+* Aim: **raise rent without over-capex**, keep turnover low.
+
+### Strategy C — “Zoning optionality” (only where parcels are residential)
+
+* Hunt for parcels where citywide rezoning / evolved Land Use rules could enable added units **if/when you redevelop**. ([https://www.calgary.ca][4])
+* This is usually **not** a Sunridge-commercial play; it’s a nearby residential parcel play.
+
+### Strategy D — Small multifamily adjacent (if you can find it)
+
+* Low-rise apartments/townhouse blocks near transit corridors can pencil if:
+
+  * you have professional management
+  * you underwrite conservative vacancy/repairs
+
+### Strategy E — Commercial (advanced / niche)
+
+Because Sunridge is commercial-heavy, you *could* look at small commercial/retail pads — but that’s a different underwriting model (tenant credit, lease terms, cap rates, renewal risk).
+
+---
+
+
+[1]: https://www.calgary.ca/content/dam/www/pda/pd/documents/transit-oriented-development/rundleareamasterplan.pdf "Rundle Area Master Plan (PDF 1 of 1)"
+[2]: https://www.calgary.ca/content/dam/www/ca/city-clerks/documents/election-and-information-services/census2017/2017-community-tables.pdf?utm_source=chatgpt.com "Comparative Community Results"
+[3]: https://www.areavibes.com/airdrie-ab/sunridge/demographics/?utm_source=chatgpt.com "Sunridge, Alberta Population & Demographics"
+[4]: https://www.calgary.ca/planning/projects/rezoning-for-housing/background-info.html "Background on Rezoning"
+[5]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Population%2C+Households+and+Housing+Stock&CategoryLevel2=Household+Income&ColumnField=HouseholdIncomeRange&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=Neighbourhood&SearchTags%5B0%5D.Key=Households&SearchTags%5B0%5D.Value=Number&SearchTags%5B1%5D.Key=Statistics&SearchTags%5B1%5D.Value=AverageAndMedian&utm_source=chatgpt.com "Calgary — Household Income - Average and Median ($)"
+[6]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[7]: https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/78gh-n26t?utm_source=chatgpt.com "Community Crime Statistics | Open Calgary"
+[8]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=24&utm_source=chatgpt.com "Average Rent by Bedroom Type by Neighbourhood"
+[9]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary"
+
+
 # Horizon
 # Alyth/Bonnybrook
 # Aurora Business Park
