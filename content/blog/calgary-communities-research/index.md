@@ -19302,12 +19302,7 @@ Because Sunridge is commercial-heavy, you *could* look at small commercial/retai
 [9]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary"
 
 # Franklin
-# Glendeer Business Park
-# Glenmore Park
 # Golden Triangle
-# Great Plains
-# Greenview Industrial Park
-# Highfield
 
 # Mayland
 # McCall
