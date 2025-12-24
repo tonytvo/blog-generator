@@ -19304,28 +19304,12 @@ Because Sunridge is commercial-heavy, you *could* look at small commercial/retai
 # Franklin
 # Golden Triangle
 
-# Mayland
-# McCall
-# Meridian
-
-# North Airways
 # Nose Hill Park
-# Ogden Shops
 # Pegasus
 # Redstone
-# Royal Vista
-# Skyline East
-# Skyline West
-# South Airways
-# South Foothills
 
-# Starfield
-
-# Stonegate Landing
 
 # Valleyfield
-
-# Westwinds
 
 # Cityscape
 
