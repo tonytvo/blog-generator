@@ -19301,10 +19301,6 @@ Because Sunridge is commercial-heavy, you *could* look at small commercial/retai
 [8]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=24&utm_source=chatgpt.com "Average Rent by Bedroom Type by Neighbourhood"
 [9]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary"
 
-# Franklin
-# Golden Triangle
-
-# Nose Hill Park
 # Pegasus
 # Redstone
 
