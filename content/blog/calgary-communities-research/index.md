@@ -19301,8 +19301,257 @@ Because Sunridge is commercial-heavy, you *could* look at small commercial/retai
 [8]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=24&utm_source=chatgpt.com "Average Rent by Bedroom Type by Neighbourhood"
 [9]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary"
 
-# Pegasus
 # Redstone
+
+[![New Communities in Calgary NE | Sterling Homes Calgary](https://tse1.mm.bing.net/th/id/OIP.-yKIx8lOWTKJu4boXkYEAAHaE8?pid=Api)](https://sterlingcalgary.com/communities/calgary-north-east/?utm_source=chatgpt.com)
+
+## Redstone (Calgary, NE) — detailed investing outline
+
+### 1) Snapshot: what kind of neighborhood is it?
+
+* **New master-planned NE community** with a young, family-heavy demographic.
+* **2021 population (private households): 9,050** and **2,665 private households**; **0–14 = 25%**, **65+ = 6%** (very “young-family” skew). 
+* **Median household income (2020, before tax): $100,000** (vs Calgary $98,000). 
+
+---
+
+## 2) Nearby amenities & attractions (livability + tenant demand)
+
+**Inside/adjacent**
+
+* **Parks / pathways:** Redstone has notable parks + pathway network; community info sources highlight the central “Participark” concept and trail connectivity. ([CREB][1])
+* **HOA-style amenities:** The Redstone HOA mentions playgrounds, fitness parks, walking paths, plazas, and landscaped entry features (good for “family tenant” appeal). ([redstonehoa.ca][2])
+* **Transit:** Calgary Transit route schedules show Redstone service (helpful for tenants without two cars). ([hastinfo.calgarytransit.com][3])
+
+**Close-by (NE convenience)**
+
+* **Airport proximity:** Strong draw for airport/aviation/logistics workers (but can be a noise trade-off).
+* **Quick highway access:** Stoney Trail / Metis Trail / Deerfoot are repeatedly cited as core connectors for Redstone. ([CREB][1])
+
+**Coming soon / improving**
+
+* **New public school announced for Redstone (K–4)** (positive for long-term family demand). ([Calgary Board of Education][4])
+
+---
+
+## 3) When were homes commonly built?
+
+Redstone is **overwhelmingly “new build” stock**:
+
+* **2016–2021: 70%** of occupied dwellings
+* **2011–2015: 27%**
+  That means most properties are still early in their major-capex lifecycle (roof/windows/furnace are generally newer vs older Calgary neighborhoods). 
+
+---
+
+## 4) Common building types (what you’ll actually be buying)
+
+Occupied dwellings by structure type:
+
+* **Single-detached: 50%**
+* **Semi-detached: 10%**
+* **Rowhouse: 13%**
+* **Apartment in <5-storey building: 21%**
+* **Apartment/flat in duplex: 6%** 
+
+**Investor implication**
+
+* You can target **entry-price townhomes** (often best rentability/price) or **newer detached** (better family tenant retention, but higher $/door).
+* There *is* low-rise multifamily presence (21%), but **it’s not a “true multifamily neighborhood”** like inner-city areas.
+
+---
+
+## 5) Zoning & “does it allow more units per lot?”
+
+You’ll want to verify **your exact parcel** on the City’s Land Use map/bylaw, but big-picture:
+
+### What changed citywide (important for “more units”)
+
+Calgary’s Land Use Bylaw updates note that:
+
+* **Citywide base low-density residential is now R-CG** (as part of the Rezoning for Housing program),
+* **R-G remains the base in developing areas**, and
+* **H-GO** applies in areas identified in approved Local Area Plans. ([https://www.calgary.ca][5])
+
+### What that means in practice
+
+* In many “base residential” contexts, the policy direction is **more gentle density** (e.g., suites, backyard suites, some multi-unit forms depending on district and rules).
+* **Redstone is newer**, so you’ll also see **Direct Control (DC)** or builder-era planning constraints in pockets (common in master-planned communities).
+
+**Investor action steps**
+
+1. Check the **exact land use district** for the property (City land use map). ([https://www.calgary.ca][5])
+2. If your goal is extra doors, prioritize:
+
+   * parcels where **secondary suite + backyard suite** is feasible,
+   * corner/collector lots with better access/parking,
+   * homes with basement layout that supports legal suite geometry.
+
+---
+
+## 6) Population & growth
+
+* **Population (2021): 9,050** in private households. 
+* Growth is likely strong structurally because the housing stock is mostly 2016–2021 builds (i.e., Redstone “filled in” quickly), but the City profile snapshot you provided here is a **2021 Census view** (it doesn’t always show a clean older baseline for brand-new communities). 
+
+---
+
+## 7) Average income (and what it implies for rent ceiling)
+
+From City of Calgary Community Profile:
+
+* **Median household income (2020): $100,000** 
+* **Median individual income (15+): $39,600** (Calgary: $44,400) 
+
+**Interpretation**
+
+* Household income supports **stable “family rental” demand**, but not necessarily luxury rent ceilings.
+* Newer homes + family profile often means **more vehicles**, so parking constraints matter for suites.
+
+---
+
+## 8) Crime rate (how to think about it in Redstone)
+
+I’m not going to invent a neighborhood crime “number” without a reliable, directly-quoted community statistic.
+
+**Best reliable source to use**
+
+* Use the **Calgary Police Service crime/community mapping & reporting tools** to compare Redstone vs nearby NE communities apples-to-apples (same time window, same categories). ([ArcGIS][6])
+
+**Practical investor heuristic**
+
+* In newer outer communities, investor risk tends to be more about:
+
+  * **property crime (vehicles/garages)**,
+  * **transient rental turnover**, and
+  * **bad tenant screening**
+    than about severe personal safety incidents.
+
+---
+
+## 9) Rental supply/demand dynamics (what to expect)
+
+**Demand drivers**
+
+* Family-heavy demographic and newer schools coming online → supports **3–4 bedroom demand**. ([Calgary Board of Education][4])
+* Strong road connectivity + airport proximity → **commuter and airport/logistics employment tenant pool**. ([CREB][1])
+
+**Supply realities**
+
+* Because the neighborhood is new and has a meaningful share of townhomes/low-rise units, supply can come in waves (new completions + investor-owned inventory).
+
+**Investor implication**
+
+* Your competitive edge is usually **(a) finished basement / legal suite**, **(b) pet-friendly**, **(c) great photos + fast leasing**, **(d) parking clarity**.
+
+---
+
+## 10) Average rents (what you can anchor to)
+
+CMHC does not always publish “Redstone-only” averages, but it publishes **Calgary zone** rent benchmarks.
+
+**CMHC (Calgary, October 2025)** shows average **apartment** rents roughly around:
+
+* **1BR: $1,500**
+* **2BR: $1,764**
+* **3BR: $2,027** ([CMHC][7])
+
+**How to translate that to Redstone**
+
+* Redstone can price **at/above the zone average** for comparable newer finishes, but the real number depends on:
+
+  * parking, included utilities, and whether it’s a townhouse vs apartment,
+  * proximity to transit/amenities,
+  * suite legality and layout.
+
+---
+
+## 11) Neighborhood grade (A/B/C/D) for investing
+
+**Redstone: B (solid “new suburban family rental” play).**
+
+**Why not A?**
+
+* It’s not a scarce inner-city land-constrained location; long-run appreciation can be good, but **supply can expand** (and competes with nearby new communities).
+* Cash flow can be tight if you buy detached at peak pricing without additional doors.
+
+**Why not C?**
+
+* Newer stock (lower capex), improving school pipeline, family demand, and strong connectivity are real positives. 
+
+---
+
+## 12) Long-term appreciation vs current returns & cash flow
+
+**Cash flow (near term)**
+
+* Often **thin on single-family detached** unless:
+
+  * you have a legal/strong secondary suite, or
+  * you bought at a discount (distress, off-market, motivated seller).
+
+**Appreciation (long term)**
+
+* Redstone’s value trajectory is typically driven by:
+
+  * maturation (schools, retail depth, landscaping, fewer vacant lots),
+  * citywide growth + NE employment access,
+  * policy allowing gentle density (more flexibility in future use). ([https://www.calgary.ca][5])
+
+**Practical takeaway**
+
+* In Redstone, the best “total return” profile often comes from **manufacturing yield** (adding suites/bedrooms) rather than betting purely on appreciation.
+
+---
+
+## 13) Average house prices (how to estimate correctly)
+
+I didn’t find a single authoritative “Redstone average sale price” figure in the sources above that I’d trust enough to quote as a number.
+
+**How to price it reliably**
+
+* Use:
+
+  1. **Active listings (Realtor.ca)** for current ask ranges, and
+  2. **sold comparables** (same model/size/lot, same micro-location), and
+  3. **district/NE benchmarks from professional market reports** (then adjust for Redstone’s newer stock).
+
+If you want, paste **3 listing links** (detached / duplex / townhouse) and I’ll do a fast comp-style valuation and cash-flow sanity check.
+
+---
+
+## Best investment strategies for Redstone
+
+### Strategy 1: “Family rental” buy-and-hold (low capex)
+
+* Target: newer detached/duplex with functional layout, garage/parking, near parks/schools.
+* Win condition: **tenant stability** + fewer repairs (because 2016–2021 build concentration). 
+
+### Strategy 2: Suite-driven yield (best for cash flow)
+
+* Target: properties where zoning/DP feasibility supports **legal secondary suite** (and potentially future backyard suite depending on district/lot).
+* Focus on parking, fire separation, egress windows, and transit access.
+* Tie to citywide direction for broader suite/secondary unit feasibility. ([https://www.calgary.ca][5])
+
+### Strategy 3: Townhome “rentability per dollar”
+
+* Because **rowhouses are 13%** of stock, townhomes can offer a better rent/price ratio than detached. 
+* Great for: lower maintenance surprise, easier tenant demand, often simpler financing than condos (depending on fees/structure).
+
+### Strategy 4: House-hack / live-in then convert
+
+* Buy a suited property, live upstairs, rent downstairs; later convert to full rental.
+* Works well in newer communities where owner-occupancy and pride-of-place support tenant quality.
+
+---
+
+[1]: https://www.creb.com/News/CREBNow/2021/March/community_profile_redstone/?utm_source=chatgpt.com "Community Profile: Redstone"
+[2]: https://redstonehoa.ca/?utm_source=chatgpt.com "Redstone HOA"
+[3]: https://hastinfo.calgarytransit.com/HastinfoMVCWeb/RouteSchedules?Date=2024-09-02&RouteDirection=Counterclockwise&RoutePublicIdentifier=128&utm_source=chatgpt.com "Schedule: Route 128 - East Skyview Ranch / Redstone ..."
+[4]: https://cbe.ab.ca/news-centre/Pages/two-new-schools-announced-for-ne-calgary-2025.aspx?utm_source=chatgpt.com "Two New Schools Announced for NE Calgary - News Centre"
+[5]: https://www.calgary.ca/planning/land-use.html "Calgary Land Use Bylaw 1P2007"
+[6]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[7]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?DisplayAs=Table&GeograghyName=Calgary&GeographyId=0140&GeographyTypeId=3&TableId=2.1.31.3 "Full view"
 
 
 # Valleyfield
