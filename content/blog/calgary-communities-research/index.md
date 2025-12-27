@@ -19554,9 +19554,259 @@ If you want, paste **3 listing links** (detached / duplex / townhouse) and I’l
 [7]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?DisplayAs=Table&GeograghyName=Calgary&GeographyId=0140&GeographyTypeId=3&TableId=2.1.31.3 "Full view"
 
 
-# Valleyfield
-
 # Cityscape
+
+## 1) Snapshot (Investor lens)
+
+* **Community type:** Newer master-planned NE Calgary community (family-oriented, car-dependent).
+* **Demand drivers:** Proximity to **Calgary International Airport**, major employment areas in NE, and big-box retail corridors.
+* **Core tradeoff:** **Newer housing + strong rental demand** vs **less walkability + more supply competition** (new builds / rentals nearby).
+
+---
+
+## 2) Nearby amenities & attractions
+
+**Everyday essentials (close / very close)**
+
+* **CrossIron Mills / Balzac retail & jobs** (regional draw; short drive).
+* **Airport / Airport Trail corridor** for logistics, aviation, and related employment.
+* Nearby shopping nodes in the NE (Saddle Ridge / Skyview / Castleridge / Martindale corridors—generally a short drive depending on exact pocket).
+
+**Recreation**
+
+* Neighbourhood parks, paths, playgrounds (common in newer master-planned areas).
+* Quick access to larger city recreation by driving (NE multi-use paths, regional parks, and big facilities in nearby communities).
+
+*(For hyper-local accuracy—“what’s walkable from THIS block”—use a 5–10 minute drive-time map from the exact address.)*
+
+---
+
+## 3) Housing age (when homes were commonly built)
+
+* Cityscape is **primarily “new-build era”** (most construction **post-2010**, with much of the stock building out through the 2010s and 2020s).
+* Demographics also reflect a newer community: **0–14 years = 29%**, and **average household size = 3.9** (very family-heavy). 
+
+---
+
+## 4) Common building types (what you’ll actually see)
+
+Typical Cityscape housing mix:
+
+* **Detached homes** (often with attached garages)
+* **Row/townhouses**
+* Some **low-rise multifamily / condos** and purpose-built rental clusters may exist or be emerging in the broader NE growth pattern
+* **Basement suites** are a frequent value-add strategy in newer communities (when permitted/approved)
+
+---
+
+## 5) Zoning & “more units per lot” potential
+
+**Citywide context (important for Calgary investing now):**
+
+* Calgary approved a citywide housing rezoning package (effective Aug 6, 2024) including:
+
+  * **R-CG as base low-density** in established areas
+  * **R-G as base low-density** in developing areas
+  * Some **H-GO** in locations identified in approved plans ([https://www.calgary.ca][1])
+* Also notable: where the parcel/design allows, properties **may have both a secondary suite and a backyard suite** (subject to rules, approvals, and lot conditions). ([https://www.calgary.ca][1])
+
+**What this means in Cityscape (practically)**
+
+* Cityscape is a **developing-area community**, so **R-G / R-G variants, plus pockets of DC (Direct Control)** are common in newer suburbs (verify by address on the City’s land-use map).
+* **Suite potential** exists but is **site-specific**:
+
+  * Lot width, parking access, entrances, and parcel coverage rules can make/break feasibility.
+  * Many newer detached homes are structurally suitable for a **legal secondary suite**, but zoning + permitting must align.
+
+**Best practice**
+
+* Always confirm the exact parcel using the City’s Land Use resources and district rules. ([https://www.calgary.ca][2])
+
+---
+
+## 6) Population & growth
+
+From the City of Calgary’s 2021 Census-based community profile:
+
+* **Population (private households, 2021): 5,085** 
+* The community is still in a build-out phase historically, so **long-run growth has likely been strong**, but **official growth rate** needs a 2016→2021 or civic census comparison (not shown in the excerpted snapshot page).
+
+  * Practically: newer NE communities often keep growing as remaining phases complete.
+
+---
+
+## 7) Income (average / median)
+
+From the City of Calgary community profile snapshot:
+
+* **Median total household income (before tax) in 2020: $108,000** 
+  (For comparison, Calgary overall is shown alongside in the same profile snapshot.) 
+
+Investor interpretation:
+
+* **Solid, mid-to-upper household income** supports stable family rentals, but budgeting is still rate-sensitive (mortgage + rents).
+
+---
+
+## 8) Crime (how to assess it properly)
+
+* The City provides a **Crime Map by Community** dashboard sourced from Calgary Police Service data. ([ArcGIS][3])
+* For Cityscape specifically, I’d treat it as:
+
+  * **Generally moderate for a newer suburban NE community**, with “hot spots” usually near arterial roads/retail/parking-heavy areas.
+  * Your property-level risk depends heavily on micro-location (corner lots, bus stops, convenience retail, parking layouts).
+
+**Investor workflow**
+
+* Pull last **12–24 months** of incidents for:
+
+  * Theft from vehicle / property crime
+  * Break & enter
+  * Disorder events
+    …and compare with 2–3 “peer” communities you’d also buy in.
+
+---
+
+## 9) Rental supply & demand
+
+**Demand**
+
+* Cityscape’s household structure (large families, high share of kids) supports:
+
+  * **3–4 bedroom rentals** (whole-home)
+  * **Suite rentals** for affordability segmentation 
+
+**Supply**
+
+* Competition can be high because:
+
+  * Newer NE communities often have **a lot of near-identical rental product**
+  * Investor-heavy pockets can create **“rent wars”** during slower leasing months
+
+**Practical read**
+
+* If your unit is “vanilla,” you compete on price.
+* If you offer **legal suite + good soundproofing + parking + included internet/utilities (optional)**, you compete on “total package.”
+
+---
+
+## 10) Average rents (what to underwrite with)
+
+Neighbourhood-level CMHC tables don’t list Cityscape on its own, but **CMHC’s Calgary data** provides:
+
+* **NE zone average rent** (primary rental market) around **$1,758** (average rent) in the zone table snapshot. ([CMHC][4])
+* A nearby NE “neighbourhood grouping” that includes **Martindale / Saddle Ridge / Taradale / Skyview Ranch / etc.** shows (Oct 2025) roughly:
+
+  * **1 bed: $1,530**
+  * **2 bed: $1,818**
+  * **3 bed+: $2,093**
+  * **Total: $1,802** ([CMHC][5])
+
+**Underwriting tip**
+
+* Use CMHC as your baseline, then validate with **current active listings + last 30–90 day leased comps** for:
+
+  * Detached (3–4 bed)
+  * Townhomes
+  * Basement suites (1–2 bed)
+
+---
+
+## 11) “A, B, C, D” neighborhood grade (investor grade)
+
+**Cityscape: B / B- (rental-focused), C+ (pure appreciation/walkability lens)**
+
+Why:
+
+* **Strengths:** newer housing stock, strong family formation signals, decent incomes, good road connectivity.
+* **Weaknesses:** car dependence, higher supply competition, and NE price cycles can be more sensitive when inventory rises.
+
+---
+
+## 12) Prices & value (average house prices)
+
+I can’t give a single “official” Cityscape-only benchmark price from the sources above (CREB’s public reports are typically **citywide/district-level** in the widely shared packages). What you *can* anchor to:
+
+* CREB provides **Calgary benchmark/market stats** at the city level and discusses district differences (NE often behaves differently vs inner-city). ([CREB][6])
+
+**Practical approach (best for investors anyway)**
+
+* Build a comp set:
+
+  * 6–12 sold comps in the last 90–180 days
+  * Same model/size, same micro-pocket, same garage/lot characteristics
+  * Separate comps by product: detached vs townhome vs condo
+
+---
+
+## 13) Long-term appreciation vs current cashflow (what to expect)
+
+**Cashflow profile**
+
+* Typically **better than inner-city** on a price-per-bedroom basis, especially with suites.
+* But cashflow can be “fragile” if:
+
+  * You’re competing with lots of similar rentals
+  * You bought at a tight cap rate without suite income
+
+**Appreciation profile**
+
+* Long-term appreciation is usually driven by:
+
+  * Calgary macro cycle + immigration + household formation
+  * Infrastructure/access improvements
+  * “Maturity premium” as landscaping/schools/retail fill in
+* However, newer communities can lag in boom phases if buyers prefer established areas or if there’s lots of land supply still being developed.
+
+---
+
+## 14) Strategies that fit Cityscape (most realistic to highest ROI)
+
+### A) Legal secondary suite (top strategy if feasible)
+
+* Convert/operate **legal basement suite** to:
+
+  * Increase DSCR resilience
+  * Serve affordability demand
+* Key risks: permitting, parking, soundproofing, separate entrance design, fire separation.
+
+### B) “Family rental” with durability upgrades
+
+* Target **3–4 bed** tenant profile:
+
+  * Durable flooring, simplified yard, strong maintenance plan
+  * Mid-term stability reduces turnover costs
+
+### C) Buy “layout edge” + add value
+
+Look for:
+
+* Corner lots / larger lots
+* Better parking (double garage + pad)
+* Main-floor bedroom/office layouts (WFH premium)
+
+### D) Townhome rentals (if condo/HOA economics make sense)
+
+* Underwrite HOA increases conservatively.
+* Focus on **functional layouts + parking** (townhomes without parking suffer in tenant demand).
+
+### E) Newer-build “rent-ready” BRRRR-light (selective)
+
+* Traditional BRRRR upside is smaller in new suburbs, but you can still win with:
+
+  * Builder-finish gaps (unfinished basement → legal suite)
+  * Landscaping completion
+  * Minor interior optimization
+
+---
+
+[1]: https://www.calgary.ca/planning/land-use.html "Calgary Land Use Bylaw 1P2007"
+[2]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones"
+[3]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[4]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/Table?DisplayAs=Table&GeograghyName=Calgary&GeographyId=0140&GeographyTypeId=3&TableId=2.1.31.3&utm_source=chatgpt.com "Calgary — Rental Market Statistics Summary by Zone - Full view"
+[5]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=24 "www03.cmhc-schl.gc.ca"
+[6]: https://www.creb.com/housing_statistics/daily_housing_summary/?utm_source=chatgpt.com "Daily Housing Summary"
+
 
 # Hotchkiss
 
