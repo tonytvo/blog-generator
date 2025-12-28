@@ -19810,6 +19810,258 @@ Look for:
 
 # Hotchkiss
 
+[![Hotchkiss - Calgary’s new community in the SE with views of the Rocky Mountains and Prairies](https://tse2.mm.bing.net/th/id/OIP.BzSFfBEYQELBgDvQT6cFpgHaG6?pid=Api)](https://sterlingcalgary.com/communities/hotchkiss/?utm_source=chatgpt.com)
+
+## 1) Snapshot (Hotchkiss, SE Calgary)
+
+* **Type:** New/developing **master-planned community** in **Southeast Calgary** (adjacent to other newer SE growth areas). The City’s suburban growth work explicitly lists **Hotchkiss as one of six “new communities” in the SE sector**, and notes it is **“at the early stages of development.”** 
+* **Investor “headline”:** New build stock + growing amenities + future school/park buildout = **strong medium-term demand**, but **cashflow can be tight** vs older SE communities because prices and taxes often ramp quickly.
+
+---
+
+## 2) Location & Connectivity
+
+* **Primary access:** Stoney Trail SE + Deerfoot connections (commuter-friendly). ([Broadview Calgary Homes][1])
+* **Commute framing:** Expect typical deep-SE tradeoff: **better home size/value** than inner-city, but **more driving dependence** until commercial nodes mature.
+
+---
+
+## 3) Nearby Amenities & Attractions (what’s actually “close”)
+
+**Within/at the doorstep**
+
+* **Signature natural amenity:** **Boardwalks around a ~30-acre wetland**, plus pathways/green space. ([Hotchkiss][2])
+* **Planned community elements:** Marketing materials reference **future schools, play spots, picnic sites**, and community gathering spaces. ([Hotchkiss][2])
+
+**Short drive (10–15 min-ish, practical daily amenities)**
+
+* **Seton / South Health Campus** + Seton retail/rec facilities (major draw for tenants/owners). ([Hotchkiss][2])
+* **130th Ave SE retail corridor** (big-box/services) and **East Hills** (Costco/Walmart/Cineplex area). ([Broadview Calgary Homes][1])
+* **Golf:** Multiple courses referenced within ~10 minutes (Serenity, McKenzie Meadows, Blue Devil, Heritage Pointe). ([Broadview Calgary Homes][1])
+
+**Investment implication**
+
+* Early years: tenants value **hospital access + Stoney** more than “local main street” (because it’s still forming).
+* Later: if the planned commercial/schools land as expected, you often see **rent resilience** and **higher owner-occupancy**.
+
+---
+
+## 4) Housing Stock: When homes were commonly built
+
+* **Mostly very new construction (2020s).** The City describes Hotchkiss as **early-stage development**. 
+* Expect the bulk of stock to be **post-2020** as showhomes and early phases deliver. ([Hotchkiss][2])
+
+**Investor implication**
+
+* **Lower capex** (roof/furnace/windows) in years 1–10 is the big advantage vs older communities.
+* Watch for **new-build “settling” items** (grading, drainage, warranty timelines).
+
+---
+
+## 5) Common Building Types (what you’ll actually find)
+
+Based on community materials and typical early-phase product mix:
+
+* **Laned detached** (rear lane garages), **front-garage detached**, and **duplex/semi-detached** are explicitly marketed. ([Hotchkiss][2])
+* Some materials also reference **townhomes and apartments** as part of the broader mix. ([Hotchkiss][2])
+
+**Investor implication**
+
+* Best rental liquidity usually comes from:
+
+  * **3 bed / 2.5 bath laned detached** (family renters, best turnover resilience)
+  * **duplex with legal/ready basement option** (income helper)
+
+---
+
+## 6) Zoning & “Does it allow more units per lot?”
+
+### What you can say with confidence (Citywide rules that matter)
+
+* Calgary’s **Land Use Bylaw** governs what’s allowed on lots. ([https://www.calgary.ca][3])
+* Calgary allows **secondary suites** in many contexts and also allows **backyard suites** on qualifying single/semi properties (subject to rules). ([https://www.calgary.ca][4])
+
+### What’s specific to Hotchkiss (development process / density direction)
+
+* There is an **“Outline Plan and Land Use Amendment in Hotchkiss”** agenda package stating the proposal **“would allow for increased housing.”** ([Escribe Meetings Calgary][5])
+
+  * Translation for investors: the area is being planned to **support higher/unit diversity over time** (not just one-home-per-lot everywhere).
+
+### Practical investor takeaway
+
+* On a **typical new-build detached lot**, the “extra unit” play is usually:
+
+  * **1 primary dwelling + 1 secondary suite** (basement), and in some cases also a **backyard suite** (if lot/config permits). ([https://www.calgary.ca][4])
+* For **row/town** products: they may allow **secondary suites** but generally **not backyard suites**. ([https://www.calgary.ca][4])
+* For the exact parcel rules in Hotchkiss, you’d verify the lot’s district using the City’s **land use maps / “find your land use district”** tool. ([https://www.calgary.ca][6])
+
+---
+
+## 7) Population & Population Growth
+
+* **Reality:** Because Hotchkiss is new/early-stage, **official census-style community profile data may lag** (some very new communities don’t show robust 2021 baselines yet).
+* What we *do* know: the City positions Hotchkiss as part of SE’s major growth engine and explicitly calls it **early-stage**, alongside other fast-growing SE communities. 
+
+**Investor implication**
+
+* “Population growth” here is less about organic growth and more about **delivery pace of new units + absorption** (how fast builders sell and occupancy fills in).
+
+---
+
+## 8) Average Income (area)
+
+* For brand-new communities, income data is often sparse early on. If you want a defensible number, use:
+
+  * **(a)** City/community profile once it’s populated, or
+  * **(b)** proxy from nearby SE comparables (Seton/Mahogany/Cranston-type profiles).
+* CMHC also has a household income table tool for Calgary by neighbourhood/zone, but Hotchkiss-specific reporting may depend on how it’s categorized. ([CMHC][7])
+
+**Investor implication**
+
+* New-build SE typically skews toward **working families / move-up buyers**, which supports **3-bedroom rental demand** more than studio/1-bed demand.
+
+---
+
+## 9) Crime Rate
+
+* The **Calgary Police Service Community Safety Dashboard / crime map** is the right source to check community-level crime/disorder (filters by community/ward/district). ([https://www.calgary.ca][8])
+* **Practical expectation:** as a new community, reported incidents can be **lower in absolute terms** early, but you can still see property crime patterns (vehicle break-ins, construction-site theft) during buildout phases.
+
+**Investor implication**
+
+* For tenant quality and rent stability: compare Hotchkiss to nearby mature anchors (Mahogany/Cranston/Seton area) using the CPS dashboard filters. ([ArcGIS][9])
+
+---
+
+## 10) Rental Supply & Demand (what drives it here)
+
+**Demand drivers**
+
+* Proximity to **South Health Campus/Seton** (healthcare workers, service jobs) + **Stoney/Deerfoot** commuting. ([Hotchkiss][2])
+* Newer homes attract renters who want **modern finishes + less maintenance risk**.
+
+**Supply dynamics**
+
+* New communities can see **waves of investor-owned inventory** hitting rentals as phases complete (supply spikes).
+* If builders deliver a lot of similar floorplans at once, landlords compete on **price, incentives, pets, included utilities**.
+
+---
+
+## 11) Average Rents (how to estimate responsibly)
+
+Neighborhood-specific “average rent” for a brand-new community can be noisy. Two anchored references you *can* use:
+
+* CMHC’s national rental report shows Calgary purpose-built average 2-bedroom rent levels and broader rent dynamics (citywide context). ([Canada Mortgage and Housing Corporation][10])
+* City of Calgary housing trends page provides rental context for Calgary (macro). ([https://www.calgary.ca][11])
+
+**How I’d underwrite Hotchkiss rents (rule-of-thumb)**
+
+* Use **Seton/Mahogany/Cranston comparables** (similar age/finish/SE access), then adjust:
+
+  * Newer = **rent premium**
+  * Farther from established retail/transit = **small discount**
+* If you want, I can give you a **comp-based rent band** if you tell me the target product:
+
+  * laned detached (beds/baths/sqft)
+  * duplex
+  * townhome
+  * whether it’s a legal basement suite
+
+---
+
+## 12) Average House Prices (what’s “typical” today)
+
+Because Hotchkiss is heavily new-build, builder pricing is a useful real-time signal:
+
+* Example “available homes” in Hotchkiss show prices around the **high-$500Ks** (laned homes) in builder inventory snapshots. ([Broadview Calgary Homes][1])
+  For broader Calgary market direction, the City’s assessment trend reporting gives macro context (not Hotchkiss-specific). ([https://www.calgary.ca][12])
+
+**Investor implication**
+
+* New-build pricing can **move quickly** with incentives/rate changes—underwrite with buffers and focus on **rentability + suite potential**, not just headline appreciation.
+
+---
+
+## 13) Neighborhood Grade (A/B/C/D) for investing
+
+**Hotchkiss: B- (new-growth “beta” play)**
+Why:
+
+* **Pros:** new stock (low capex), SE growth tailwinds, Seton/Health Campus proximity, planned amenities/wetlands feature. 
+* **Cons:** still building out; rental supply can spike; local commercial/schools may lag; resale comps can be volatile early.
+
+---
+
+## 14) Long-term appreciation vs current cashflow
+
+**Appreciation potential (5–15 years)**
+
+* Stronger if:
+
+  * Community finishes buildout (schools, commercial nodes)
+  * SE continues capturing a large share of suburban growth (City forecasts show SE as a major growth sector). 
+
+**Cashflow reality (today)**
+
+* New builds often have:
+
+  * **higher acquisition cost**
+  * **higher property taxes once assessed**
+  * therefore **thin cashflow** unless you add income (suite) or buy with strong incentives.
+
+**Investor stance**
+
+* Treat as: **“medium-term equity + stability”** more than “day-1 cashflow monster,” unless you structure it right.
+
+---
+
+## 15) Strategies that can work in Hotchkiss
+
+### Strategy A — House + Legal (or legal-ready) Suite
+
+* Best fit for new-growth communities: offset thin cashflow with a **secondary suite** (and sometimes also consider backyard suite rules where feasible). ([https://www.calgary.ca][4])
+* Underwrite conservatively: suite build cost + permitting time + rent assumptions.
+
+### Strategy B — Buy “Legal Suite Ready” inventory / floorplans
+
+* Some builders explicitly market “suite ready” (you still need to confirm what’s included and what’s required). ([Broadview Calgary Homes][1])
+* Advantage: faster to stabilize, fewer surprises in mechanical/layout.
+
+### Strategy C — Rent-to-own (selectively) or “family renter” focus
+
+* New SE product performs best with:
+
+  * longer tenancy
+  * lower turnover
+  * higher maintenance respect
+* Use **pet-friendly** and “good schools coming” positioning carefully (don’t oversell timelines).
+
+### Strategy D — Short-term hold + re-evaluate at amenity maturity
+
+* If you’re buying primarily for appreciation:
+
+  * plan to re-evaluate after major amenities/schools and commercial pads deliver.
+
+### Avoid / be careful
+
+* Pure speculation without a rent plan (new-build supply waves can punish you).
+* Overpaying for upgrades that **don’t translate to rent premium**.
+
+---
+
+[1]: https://www.broadviewhomescalgary.com/communities/hotchkiss/ "Hotchkiss - Broadview Calgary Homes"
+[2]: https://hotchkissliving.com/ "Home - Hotchkiss"
+[3]: https://www.calgary.ca/planning/land-use.html?utm_source=chatgpt.com "Calgary Land Use Bylaw 1P2007"
+[4]: https://www.calgary.ca/development/home-building/new-backyard-suite.html?utm_source=chatgpt.com "Building a Backyard Suite"
+[5]: https://pub-calgary.escribemeetings.com/filestream.ashx?DocumentId=328314&utm_source=chatgpt.com "Outline Plan and Land Use Amendment in Hotchkiss (Ward ..."
+[6]: https://www.calgary.ca/planning/land-use/districts.html?utm_source=chatgpt.com "Land use districts / zones"
+[7]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Population%2C+Households+and+Housing+Stock&CategoryLevel2=Household+Income&ColumnField=HouseholdIncomeRange&GeographyId=0140&GeographyType=MetropolitanMajorArea&RowField=Neighbourhood&SearchTags%5B0%5D.Key=Households&SearchTags%5B0%5D.Value=Number&SearchTags%5B1%5D.Key=Statistics&SearchTags%5B1%5D.Value=AverageAndMedian&utm_source=chatgpt.com "Calgary — Household Income - Average and Median ($)"
+[8]: https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html?utm_source=chatgpt.com "Calgary Police Service Statistical Reports"
+[9]: https://www.arcgis.com/apps/dashboards/09ef336a4b8d4f8b98045821edea71a2?utm_source=chatgpt.com "Crime Map by Community"
+[10]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres "2025 Rental Market Report | CMHC"
+[11]: https://www.calgary.ca/communities/housing-in-calgary/housing-research/housing-trends.html?utm_source=chatgpt.com "Housing trends"
+[12]: https://www.calgary.ca/content/dam/www/pda/assessment/assessment-search/PDFreportMRMT.pdf?utm_source=chatgpt.com "2025Property Assessment - Residential Market Trends"
+
 
 # Quotes
 

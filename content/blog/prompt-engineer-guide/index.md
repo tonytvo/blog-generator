@@ -15,7 +15,7 @@ tags: ["ai", "investing", "software"]
 - **community research**
 
 ```
-you're an expert in realestate investing, give me detailed outline on the Cityscape neighborhood in Calgary with the following questions:
+you're an expert in realestate investing, give me detailed outline on the Hotchkiss neighborhood in Calgary with the following questions:
 - what are nearby amenities, attractions?
 - when was the houses were commonly built?
 - what are the common building type?
