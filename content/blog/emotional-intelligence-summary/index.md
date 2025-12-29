@@ -4,6 +4,17 @@ date: "2024-10-23T22:12:03.284Z"
 description: "emotional intelligence summary"
 tags: ["productivity", "communication", "selfimprovement"]
 ---
+
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
+
 # Key Ideas, Goals, Context
 - The communication between the emotional and rational portions of your brain is the physical source of emotional intelligence.
   - ![communication between emotional and rational portions](./emotional-rational-portions-communication.png)
