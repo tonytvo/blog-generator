@@ -8,7 +8,7 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases the above sections ""
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections ""
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

@@ -280,7 +280,6 @@ you shall receive when you ask questions
 - https://arlobelshee.com/learning-faster-and-more-deeply/#more-171
 - https://www.visualcapitalist.com/12-ways-smarter-mental-models/
 - https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-- https://fs.blog/the-art-of-reading-how-to-be-a-demanding-reader/
 - https://fs.blog/the-work-required-to-have-an-opinion/
 - https://fs.blog/how-to-read-a-book/
 - https://fs.blog/circle-of-competence/
