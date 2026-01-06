@@ -27,7 +27,9 @@
 - write summary for Hacking : The Art of Exploitation + The Hacker Playbook 3: Practical Guide To Penetration Testing
 - write summary for patterns of enterprise application architecture
 - write summary for fundamentals of software architecture + building evolutionary architectures
-- write summary for Adventure Capitalist: The Ultimate Road Trip + Vagabonding: An Uncommon Guide to the Art of Long-Term World Trave
+- write summary for Adventure Capitalist: The Ultimate Road Trip + Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+- write summary for Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street + A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market
+- write summary for Boundaries: When to Say Yes, How to Say No To Take Control of Your Life + Set Boundaries, Find Peace: A Guide to Reclaiming Yourself
 - write tests for this site
 
 # wip
