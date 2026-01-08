@@ -641,5 +641,5 @@ Just tell me where you want to go next.
 
 # References
 
-- https://www.amazon.ca/Before-You-Say-Do-Preparation/dp/0736975993
-- https://www.amazon.ca/Hard-Questions-100-Essential-Before/dp/0593418875
+- https://www.amazon.ca/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/
+- https://www.amazon.ca/Man-All-Markets-Street-Dealer/dp/0812979907/
