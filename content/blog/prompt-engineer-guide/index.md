@@ -8,17 +8,21 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **8. Kelly as a Capital Allocation Tool**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **10. “Boundaries Mean Walls”**
 
-* Kelly is **not**:
+**Reality**
 
-  * Market timing
-  * Stock selection
-* Kelly is:
+* Walls = fear
+* Boundaries = clarity + connection
 
-  * **Capital allocation**
-  * **Risk sizing**
-  * **Growth optimization**
+---
+
+### **11. “Boundaries Can Change Others”**
+
+**Truth**
+
+* Boundaries change **you**
+* Others change only if they choose to
 "
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
@@ -61,6 +65,20 @@ you're an expert in realestate investing, give me detailed outline on the Hotchk
 - **consolidate all of provided information**
   - Please consolidate all the information you have provided in our discussion "" into one structured text. Eliminate redundancy and organize it logically by topic
 
+- **TDD development**
+
+We are doing test driven development. For each task, do the following:
+1. Add a test to the test file specified by the user.
+2. Run the tests and ensure it fails. If it doesn't stop.
+3. Add the implementation to the implementation file specified by the user.
+4. Run the tests and ensure it passes. If it doesn't attempt to fix it by changing only the implementation.
+5. Commit it, starting the commit message with 🤖 do denote the commit was done by you.
+6. Stop and wait for the next task.
+
+If the task involves refactoring, take small steps figure out a sequence of small moves that minimize the amount of time the code is broken. Treat each small step as a task, run the tests, and commit after each one.
+
+If the user doesn't specify test and implementation files, stop and ask the user before continuing. DO NOT USE TOOLS TO TRY TO FIND THE FILES.
+
 # Quotes
 
 
@@ -70,667 +88,379 @@ you're an expert in realestate investing, give me detailed outline on the Hotchk
 - https://www.amazon.ca/Prompt-Engineering-LLMs-Model-Based-Applications/dp/1098156153/
 
 
-Below is a **clean, fully English, investor-grade detailed outline** of ***Fortune’s Formula* by William Poundstone**, written from the perspective of **investing, mathematics, probability, and risk management**.
+
+
+
+# 📘 **Boundaries — Detailed Outline (Emotional Intelligence & Boundary Mastery)**
+
+## **Core Thesis of the Book**
+
+> **“Boundaries define who I am and who I am not responsible for.”**
+
+Healthy boundaries:
+
+* Clarify **ownership** (thoughts, emotions, behaviors, time, money)
+* Enable **love without resentment**
+* Are essential for **adult emotional maturity**
+* Are **biblical, psychological, and practical**
 
 ---
 
-# **FORTUNE’S FORMULA — DETAILED OUTLINE**
+## **PART 1 — What Are Boundaries?**
 
-## *The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*
+### **1. A Day in a Boundaryless Life**
 
-**William Poundstone**
+**Key idea:**
+People without boundaries feel:
 
----
+* Overwhelmed
+* Resentful
+* Controlled
+* Guilty for saying no
+* Responsible for others’ feelings
 
-## **CORE QUESTION OF THE BOOK**
+**EI Insight**
 
-> **“If you have an edge, how much should you bet?”**
+* Poor boundaries = **emotional fusion**
+* You feel others’ emotions as your job to fix
 
-Not:
+**Warning Signs**
 
-* Which stock to buy
-* When to enter the market
-
-But:
-
-* **How much capital to allocate**
-* **How to survive uncertainty**
-* **How to compound wealth over time**
-
----
-
-## **PART I — THE PROBLEM OF BETTING, INVESTING, AND SURVIVAL**
-
-### **1. Why Having an Edge Is Not Enough**
-
-* Many gamblers and investors:
-
-  * Are *right* about probabilities
-  * Still go bankrupt
-* Reason:
-
-  * **Incorrect position sizing**
-
-**Key idea**
-
-> **Winning is not about being right once — it’s about not going broke over many trials.**
+* “I don’t want to, but I feel I have to”
+* Chronic people-pleasing
+* Passive resentment
 
 ---
 
-### **2. Expected Value vs Survival**
+### **2. What Is a Boundary?**
 
-* Positive expected value does **not** guarantee survival
-* Large bets create:
+**Definition:**
 
-  * High volatility
-  * Large drawdowns
-  * Psychological failure
+> A boundary is a property line that defines **where you end and someone else begins**.
 
-**Critical distinction**
+**Boundaries include:**
 
-* Short-term wins ≠ long-term success
-* Survival dominates intelligence
+* 🧠 Thoughts
+* ❤️ Feelings
+* 🎯 Choices
+* 🕰 Time
+* 💰 Money
+* ⚡ Energy
+* 🧍‍♂️ Body
 
----
+**EI Principle**
 
-## **PART II — JOHN L. KELLY AND THE MATHEMATICAL BREAKTHROUGH**
-
-### **3. Bell Labs and Information Theory**
-
-* John L. Kelly worked at Bell Labs
-* Context:
-
-  * Information theory
-  * Signal vs noise
-  * Communication efficiency
-
-Kelly applied these ideas to betting.
+* Emotional maturity = **self-definition without disconnection**
 
 ---
 
-### **4. The Kelly Criterion**
+### **3. Boundary Analogies**
 
-**Simplified Kelly Formula**
+Boundaries are like:
 
-[
-f^* = \frac{bp - q}{b}
-]
+* **Fences with gates** (not walls)
+* **Skin** (filters, not armor)
+* **Property lines**
 
-Where:
+**Healthy boundaries**
 
-* (f^*) = fraction of capital to bet
-* (p) = probability of winning
-* (q = 1 - p)
-* (b) = payoff odds
-
-**Objective**
-
-> **Maximize long-term logarithmic (geometric) growth of capital**
-
-Not:
-
-* Maximize expected return
-* Minimize volatility
-* Avoid short-term losses
+* Let good in
+* Keep harm out
+* Require *intentional choice*
 
 ---
 
-### **5. Arithmetic Mean vs Geometric Mean**
+## **PART 2 — Boundary Conflicts (Why It’s Hard to Say No)**
 
-This is one of the **most important investing concepts in the book**.
+### **4. Fear of Abandonment**
 
-| Metric          | Meaning              |
-| --------------- | -------------------- |
-| Arithmetic Mean | Average of outcomes  |
-| Geometric Mean  | Compound growth rate |
+> “If I say no, they’ll leave.”
 
-**Example**
+**Root**
 
-* +50%, then −50%
+* Childhood attachment wounds
+* Conditional love
 
-  * Arithmetic mean = 0%
-  * Geometric result = −25%
+**EI Growth**
 
-> **Volatility destroys compounding.**
+* Tolerate discomfort without self-betrayal
+* Choose **truth over approval**
 
 ---
 
-## **PART III — FROM CASINOS TO WALL STREET**
+### **5. Fear of Anger**
 
-### **6. Claude Shannon and Gambling Experiments**
+> “If I say no, they’ll get mad.”
 
-* Claude Shannon (father of information theory)
-* Built gambling machines
-* Applied Kelly logic
+**Reality Check**
 
-**Key insight**
+* Anger ≠ danger
+* Someone else’s anger is **their responsibility**
 
-> **Markets and casinos share the same mathematics — uncertainty, odds, repetition.**
+**EI Skill**
 
----
-
-### **7. Edward Thorp: Blackjack → Hedge Funds**
-
-* Beat blackjack with card counting
-* Applied Kelly sizing
-* Founded one of the most successful hedge funds
-
-**Lesson**
-
-> **Position sizing mattered more than prediction.**
+* Emotional containment
+* Not absorbing others’ emotional reactions
 
 ---
 
-### **8. Kelly as a Capital Allocation Tool**
+### **6. Fear of Guilt**
 
-* Kelly is **not**:
+> “Good people say yes.”
 
-  * Market timing
-  * Stock selection
-* Kelly is:
+**False Guilt vs True Guilt**
 
-  * **Capital allocation**
-  * **Risk sizing**
-  * **Growth optimization**
+* False guilt: violating someone’s expectations
+* True guilt: violating your own values
 
----
+**Key Reframe**
 
-## **PART IV — THE DARK SIDE OF KELLY**
-
-### **9. Overbetting Guarantees Ruin**
-
-Kelly assumes:
-
-* Accurate probabilities
-* Independent bets
-* No extreme tail events
-
-Reality:
-
-* Probabilities are estimated
-* Markets are correlated
-* Black swans exist
-
-> **Overestimating your edge is fatal.**
+> Saying no to what’s wrong is saying yes to what’s right
 
 ---
 
-### **10. Full Kelly vs Fractional Kelly**
+### **7. Fear of Responsibility**
 
-| Strategy      | Growth         | Volatility                 |
-| ------------- | -------------- | -------------------------- |
-| Full Kelly    | Maximum        | Extreme                    |
-| Half Kelly    | Slightly lower | Much safer                 |
-| Quarter Kelly | Lower          | Psychologically survivable |
+> “If I don’t fix this, who will?”
 
-**Professional practice**
+**Boundary Truth**
 
-> **Fractional Kelly is standard among serious investors.**
+* You are responsible **to** people, not **for** them
 
----
+**EI Marker**
 
-### **11. Correlation Risk**
-
-* Kelly assumes independence
-* Financial crises create:
-
-  * Correlation spikes
-  * Simultaneous losses
-
-> **Diversification fails when it’s needed most.**
+* Letting others experience consequences (without rescuing)
 
 ---
 
-## **PART V — HUMAN PSYCHOLOGY AND FAILURE MODES**
+## **PART 3 — Boundary Myths (That Keep People Stuck)**
 
-### **12. Why Humans Cannot Follow Kelly**
+### **8. “Boundaries Are Selfish”**
 
-* Kelly-optimal paths involve:
+**Reality**
 
-  * Massive drawdowns
-  * Long losing streaks
-
-Humans:
-
-* Panic
-* Deviate
-* Abandon strategy
-
-> **Optimal math often produces unbearable emotional paths.**
+* Boundaries make love sustainable
+* Resentment is more selfish than honesty
 
 ---
 
-### **13. Leverage and Blow-Ups**
+### **9. “Boundaries Are Unloving”**
 
-* LTCM and hedge fund collapses
-* Near-Kelly leverage
-* Rare events → total destruction
+**Reality**
 
-**Key lesson**
-
-> **Kelly optimizes growth assuming survival — markets don’t guarantee survival.**
+* Love without boundaries becomes control or martyrdom
+* Jesus himself modeled boundaries (withdrawal, no explanations)
 
 ---
 
-## **PART VI — MODERN MISUSE OF KELLY**
+### **10. “Boundaries Mean Walls”**
 
-### **14. Where Kelly Is Misapplied**
+**Reality**
 
-Common mistakes:
-
-* Applying Kelly to:
-
-  * Narrative stocks
-  * Macro bets
-  * Uncertain probabilities
-
-> **Kelly magnifies errors just as efficiently as it magnifies edges.**
+* Walls = fear
+* Boundaries = clarity + connection
 
 ---
 
-### **15. Where Kelly Actually Works**
+### **11. “Boundaries Can Change Others”**
 
-Kelly works best when:
+**Truth**
 
-* Many repeated bets
-* Known probabilities
-* Limited downside
+* Boundaries change **you**
+* Others change only if they choose to
+
+---
+
+## **PART 4 — Boundary Types (Where You Need Them)**
+
+### **12. Boundaries with Family**
+
+Common issues:
+
+* Over-involvement
+* Guilt-based compliance
+* Emotional manipulation
+
+**Healthy Shift**
+
+* From child role → adult role
+* Respect without submission
+
+---
+
+### **13. Boundaries with Friends**
+
+Watch for:
+
+* One-way relationships
+* Emotional dumping
+* Chronic crisis friendships
+
+**EI Rule**
+
+> Mutuality matters
+
+---
+
+### **14. Boundaries with Spouse / Romantic Partner**
+
+Boundaries protect:
+
+* Individual identity
+* Emotional safety
+* Responsibility balance
+
+**Key Insight**
+
+* Love requires two whole people, not one merged system
+
+---
+
+### **15. Boundaries with Children**
+
+**Paradox**
+
+* Children need boundaries *more* than adults
+
+Boundaries teach:
+
+* Self-control
+* Responsibility
+* Reality
+
+---
+
+### **16. Boundaries at Work**
+
+Common violations:
+
+* No limits on time
+* Taking responsibility for others’ performance
+* Fear-based compliance
+
+**Healthy Work Boundaries**
+
+* Clear expectations
+* Clear consequences
+* Clear limits
+
+---
+
+## **PART 5 — Developing Healthy Boundaries**
+
+### **17. Resistance from Others**
+
+Expect:
+
+* Pushback
+* Guilt trips
+* Anger
+* Testing
+
+**EI Skill**
+
+* Hold the boundary without defending or explaining excessively
+
+---
+
+### **18. How to Say No**
+
+Effective “No”:
+
+* Is clear
+* Is brief
+* Is calm
+* Does not over-explain
 
 Examples:
 
-* Sports betting
-* Market making
-* Statistical arbitrage
-* Certain trading strategies
+* “I can’t do that.”
+* “That doesn’t work for me.”
+* “I’m not available for that.”
 
 ---
 
-## **PART VII — PHILOSOPHICAL IMPLICATIONS**
+### **19. Boundaries and Forgiveness**
 
-### **16. Growth vs Comfort**
+Forgiveness ≠ access
 
-* Kelly maximizes wealth
-* Humans optimize for:
+You can:
 
-  * Emotional stability
-  * Sleep
-  * Avoiding regret
-
-> **The best mathematical strategy is often not the best human strategy.**
+* Forgive
+* Still limit contact
+* Still protect yourself
 
 ---
 
-### **17. The True Meaning of Risk**
+### **20. Learning Boundary Skills**
 
-> **Risk is not volatility. Risk is ruin.**
+Growth requires:
 
-Kelly reframes risk as:
+* Practice
+* Support
+* Safe relationships
+* Trial and error
 
-* Probability of permanent loss
-* Not short-term price movement
+**EI Maturity**
 
----
-
-## **PART VIII — INVESTING TAKEAWAYS**
-
-### **18. Core Lessons for Investors**
-
-1. **Position sizing > stock selection**
-2. **Survival > optimization**
-3. **Volatility is a tax on compounding**
-4. **Leverage must be earned**
-5. **Humility beats intelligence**
+> Discomfort is the price of freedom
 
 ---
 
-### **19. Practical Investor Rules**
+## **PART 6 — The Payoff of Boundaries**
 
-* Never bet so much that one outcome ends the game
-* Assume your edge is smaller than you think
-* Size positions so you can remain rational
+### **21. Living a Boundary-Defined Life**
 
-> **“You don’t need the best strategy — you need one you can survive.”**
+Results:
 
----
-
-### **20. Why This Is a Dangerous Book**
-
-* Kelly is extremely powerful
-* Misused → catastrophic losses
-
-> **Kelly is a scalpel, not a hammer.**
+* Less resentment
+* More peace
+* Deeper relationships
+* Greater self-respect
+* Emotional resilience
 
 ---
 
-## **FINAL SUMMARY**
+## **High-Level Emotional Intelligence Takeaways**
 
-*Fortune’s Formula* is fundamentally a book about **how wealth grows under uncertainty**. It shows that **capital compounds geometrically**, not arithmetically, and that **position sizing — not brilliance — determines long-term success**. While the Kelly Criterion provides the mathematically optimal strategy for growth, the book demonstrates why pure optimization often fails in the real world due to estimation error, tail risk, correlation, and human psychology. The ultimate lesson is clear: **the goal of investing is not to be optimal on paper, but to survive long enough to compound.**
+### **Boundary Mastery = Emotional Adulthood**
+
+You move from:
+
+* Reacting → Choosing
+* Pleasing → Aligning
+* Rescuing → Respecting
+* Guilt → Integrity
 
 ---
 
-If you want, I can:
+## **Core Quotes (Paraphrased for Clarity)**
 
-* Translate this into **real-world portfolio sizing**
-* Compare Kelly vs **Modern Portfolio Theory**
-* Apply Kelly thinking to **stocks, crypto, or real estate leverage**
-* Build a **“Safe Kelly” framework for personal investors**
+* **“You are responsible for your own soul.”**
+* **“The Bible allows no place for self-hatred, but neither does it allow self-centeredness.”**
+* **“Boundaries are not walls; they are gates.”**
 
-Just tell me how deep you want to go.
+---
 
+## **How This Applies Directly to Your Life**
 
-Below is a detailed, structured outline of A Man for All Markets by Edward O. Thorp, written from the perspective of investing, probability, statistics, and applied mathematics, and aligned with everything we’ve discussed about Kelly, survivability, leverage, and human failure modes.
+Given your context (single parent, high responsibility, work pressure, family obligations):
 
-This book is best understood as the real-world companion to Fortune’s Formula.
+This book is especially powerful for:
 
-⸻
+* Preventing burnout
+* Avoiding emotional over-functioning
+* Teaching your children healthy limits
+* Protecting energy while staying loving
 
-A MAN FOR ALL MARKETS — DETAILED INVESTING & PROBABILITY OUTLINE
+---
 
-If Fortune’s Formula explains the mathematics of optimal growth,
-A Man for All Markets shows how that math is actually lived — imperfectly, cautiously, and pragmatically — in the real world.
+### If you want next:
 
-⸻
+* ✅ A **1-page boundary cheat sheet**
+* ✅ Scripts for **family / work / co-parenting**
+* ✅ A **self-diagnostic: where your boundaries leak**
+* ✅ A **Christian-aligned boundary framework**
+* ✅ Or a **Vietnamese translation + explanation**
 
-PART I — THE MINDSET OF A PROBABILIST
-
-1. Thorp’s Core Worldview
-
-Edward Thorp sees the world as:
-	•	A collection of probabilistic systems
-	•	Filled with mispriced risk
-	•	Exploitable through discipline, math, and humility
-
-“Life is a sequence of bets — the key is knowing which ones are favorable and how much to wager.”
-
-Key traits:
-	•	Skepticism toward authority
-	•	Obsession with edge, not stories
-	•	Focus on repeatability
-
-⸻
-
-2. Early Influences: Mathematics as Reality Filter
-
-Thorp’s early training in:
-	•	Probability theory
-	•	Statistics
-	•	Physics
-
-Leads to a core belief:
-
-“Intuition is unreliable unless disciplined by mathematics.”
-
-This sets up the entire book:
-	•	Casinos
-	•	Markets
-	•	Hedge funds
-	•	Personal decisions
-
-All are analyzed through expected value + variance + survivability.
-
-⸻
-
-PART II — BLACKJACK: APPLIED PROBABILITY IN THE WILD
-
-3. Blackjack as a Solvable System
-
-Blackjack matters because:
-	•	Rules are fixed
-	•	Probabilities are knowable
-	•	Outcomes repeat
-
-Blackjack is a controlled laboratory for real-world probability.
-
-Thorp realizes:
-	•	Card removal changes probabilities
-	•	The house edge can be flipped
-	•	Edge is small but persistent
-
-⸻
-
-4. Card Counting Is About Edge, Not Brilliance
-
-Key insight:
-	•	You don’t need genius
-	•	You need discipline + sizing
-
-“The real money is not in knowing when you have an edge — it’s in betting correctly when you do.”
-
-This directly anticipates:
-	•	Kelly criterion
-	•	Risk-of-ruin analysis
-
-⸻
-
-5. Betting Size Matters More Than the System
-
-Thorp learns early:
-
-Two players with the same edge can have radically different outcomes depending on bet size.
-
-This becomes a lifelong principle:
-	•	Underbet → slow growth
-	•	Overbet → ruin
-	•	Correct sizing → survival + compounding
-
-⸻
-
-PART III — KELLY IN PRACTICE (NOT THEORY)
-
-6. Kelly Criterion as a Survival Tool
-
-Thorp adopts Kelly early, but crucially:
-
-He never treats Kelly as a license for aggression.
-
-Instead:
-	•	Fractional Kelly
-	•	Conservative assumptions
-	•	Large safety margins
-
-“Kelly tells you the speed limit — not that you should drive at it.”
-
-This is one of the most important real-world corrections to Fortune’s Formula.
-
-⸻
-
-7. Risk of Ruin as the Primary Constraint
-
-Thorp consistently prioritizes:
-	•	Avoiding catastrophic loss
-	•	Avoiding forced liquidation
-	•	Preserving optionality
-
-“You can’t compound if you’re wiped out.”
-
-This leads to:
-	•	Low leverage
-	•	Diversification by risk, not count
-	•	High cash buffers
-
-⸻
-
-PART IV — FROM CASINOS TO WALL STREET
-
-8. Markets as Casinos With Worse Odds Information
-
-Thorp realizes:
-	•	Markets resemble casinos
-	•	But probabilities are less explicit
-	•	And incentives are more distorted
-
-“Wall Street is full of people selling bets they don’t understand.”
-
-This skepticism becomes central to his investing career.
-
-⸻
-
-9. Options Pricing Before Black–Scholes
-
-Thorp independently develops:
-	•	Early option pricing models
-	•	Arbitrage strategies
-
-Key idea:
-	•	Look for mispriced distributions
-	•	Hedge away unwanted risk
-	•	Extract small, repeatable edges
-
-This is not speculation — it is applied statistics.
-
-⸻
-
-10. Arbitrage > Forecasting
-
-Thorp avoids:
-	•	Macro predictions
-	•	Directional bets
-
-He prefers:
-	•	Relative value
-	•	Market-neutral strategies
-	•	Small edges × many repetitions
-
-“Forecasting is hard. Mispricing is easier.”
-
-⸻
-
-PART V — RUNNING MONEY (AND SURVIVING)
-
-11. Hedge Funds and Real Risk
-
-Thorp runs hedge funds with:
-	•	Tight risk controls
-	•	Low leverage
-	•	Emphasis on downside protection
-
-“Most funds don’t fail because they’re wrong — they fail because they’re too big.”
-
-Key practices:
-	•	Stress testing
-	•	Conservative leverage
-	•	Continuous risk monitoring
-
-⸻
-
-12. Why Smart People Blow Up
-
-Thorp observes repeatedly:
-	•	Intelligence increases overconfidence
-	•	Models seduce their creators
-	•	Leverage turns small errors into disasters
-
-“The market humbles those who confuse intelligence with invincibility.”
-
-This mirrors:
-	•	LTCM
-	•	2008
-	•	2020 blowups
-
-⸻
-
-PART VI — SKEPTICISM, FRAUD, AND HUMAN ERROR
-
-13. Spotting Fraud and Bad Bets
-
-Thorp uses probability to detect:
-	•	Ponzi schemes
-	•	Implausible return distributions
-	•	Inconsistent risk profiles
-
-Famously:
-	•	Identifies Bernie Madoff as a fraud years before exposure
-
-“If returns violate probability, something is wrong.”
-
-⸻
-
-14. Why Track Records Lie
-
-Key insight:
-	•	Short track records are meaningless
-	•	Survivorship bias dominates
-	•	Risk is hidden until it explodes
-
-Smooth returns are often a red flag, not a virtue.
-
-⸻
-
-PART VII — LIFE AS A SERIES OF BETS
-
-15. Applying Probability Beyond Money
-
-Thorp applies probabilistic thinking to:
-	•	Career decisions
-	•	Personal safety
-	•	Life choices
-
-“Every decision has an expected value — but only if you survive the downside.”
-
-This connects directly to:
-	•	Taleb’s barbell
-	•	Kelly survivability
-	•	Optionality
-
-⸻
-
-16. Independence and Intellectual Humility
-
-Thorp’s philosophy:
-	•	Question consensus
-	•	Verify independently
-	•	Avoid crowd behavior
-
-“The crowd is usually wrong at extremes.”
-
-⸻
-
-PART VIII — INVESTING PHILOSOPHY (THE SYNTHESIS)
-
-17. Core Lessons for Investors
-	1.	Edge matters — but sizing matters more
-	2.	Avoid ruin at all costs
-	3.	Leverage is the enemy of longevity
-	4.	Repeatable small edges beat heroic forecasts
-	5.	Humility is a competitive advantage
-
-“I’d rather be roughly right and survive than precisely wrong and disappear.”
-
-⸻
-
-18. Thorp vs Buffett vs Kelly
-
-Thinker	Core Focus
-Kelly	Optimal growth (math)
-Thorp	Survivable growth (practice)
-Buffett	Durable growth (business reality)
-
-Thorp is what Kelly looks like when you add humility, uncertainty, and real life.
-
-⸻
-
-FINAL SYNTHESIS
-
-A Man for All Markets is not really about blackjack or hedge funds.
-
-It is about:
-	•	How to think probabilistically
-	•	How to size risk
-	•	How to avoid ruin
-	•	How to compound over a lifetime
-
-If Fortune’s Formula teaches you how fast you could grow,
-A Man for All Markets teaches you how not to die trying.
-
-The ultimate lesson:
-You don’t win by being the smartest — you win by staying alive long enough for the math to work.
-
-⸻
-
-If you want next, I can:
-	•	Compare Thorp vs Buffett vs Taleb vs Kelly in one framework
-	•	Translate Thorp’s rules into modern stock + real estate investing
-	•	Build a “Thorp-style survivability checklist”
-	•	Apply these ideas directly to your current portfolio and leverage
-
-Just tell me where you want to go next.
+Just tell me how deep you want to go 👌
