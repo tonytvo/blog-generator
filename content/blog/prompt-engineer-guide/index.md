@@ -8,21 +8,34 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **10. “Boundaries Mean Walls”**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## **PART 4 — Boundary Types (Where You Need Them)**
 
-**Reality**
+### **12. Boundaries with Family**
 
-* Walls = fear
-* Boundaries = clarity + connection
+Common issues:
+
+* Over-involvement
+* Guilt-based compliance
+* Emotional manipulation
+
+**Healthy Shift**
+
+* From child role → adult role
+* Respect without submission
 
 ---
 
-### **11. “Boundaries Can Change Others”**
+### **13. Boundaries with Friends**
 
-**Truth**
+Watch for:
 
-* Boundaries change **you**
-* Others change only if they choose to
+* One-way relationships
+* Emotional dumping
+* Chronic crisis friendships
+
+**EI Rule**
+
+> Mutuality matters
 "
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
