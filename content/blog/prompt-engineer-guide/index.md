@@ -8,34 +8,17 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## **PART 4 — Boundary Types (Where You Need Them)**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **14. Boundaries with Spouse / Romantic Partner**
 
-### **12. Boundaries with Family**
+Boundaries protect:
 
-Common issues:
+* Individual identity
+* Emotional safety
+* Responsibility balance
 
-* Over-involvement
-* Guilt-based compliance
-* Emotional manipulation
+**Key Insight**
 
-**Healthy Shift**
-
-* From child role → adult role
-* Respect without submission
-
----
-
-### **13. Boundaries with Friends**
-
-Watch for:
-
-* One-way relationships
-* Emotional dumping
-* Chronic crisis friendships
-
-**EI Rule**
-
-> Mutuality matters
+* Love requires two whole people, not one merged system
 "
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please

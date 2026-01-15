@@ -2767,6 +2767,248 @@ Unhealthy friends:
 ---
 
 
+# **14. Boundaries with Spouse / Romantic Partner**
+
+Romantic boundaries are not about distance.
+They are about **preserving the self so intimacy can survive**.
+
+> **Without boundaries, intimacy collapses into dependency or control.**
+
+---
+
+## **What Boundaries in Romantic Relationships Protect (Expanded)**
+
+### **1. Individual Identity**
+
+One of the most dangerous myths in romance is:
+
+> **“We should be everything to each other.”**
+
+This sounds romantic — but it’s psychologically impossible.
+
+Without boundaries:
+
+* personal interests fade
+* friendships disappear
+* opinions soften
+* identity erodes
+
+> **Love does not require self-erasure.
+> It requires self-presence.**
+
+Healthy boundaries protect:
+
+* your values
+* your interests
+* your inner life
+* your voice
+
+> **Attraction requires differentiation.**
+
+---
+
+### **2. Emotional Safety**
+
+Emotional safety does not come from agreement.
+It comes from **predictability and respect**.
+
+Boundaries create safety by:
+
+* limiting emotional volatility
+* defining acceptable communication
+* preventing emotional harm
+* stopping escalation
+
+> **You should not have to shrink to stay connected.**
+
+Boundaries protect against:
+
+* yelling
+* stonewalling
+* gaslighting
+* emotional dumping
+* repeated boundary violations
+
+---
+
+### **3. Responsibility Balance**
+
+Many couples struggle not because of love — but because of **misassigned responsibility**.
+
+Boundary failure looks like:
+
+* one partner managing emotions
+* one partner carrying logistics
+* one partner fixing consequences
+* one partner absorbing stress
+
+> **When one person carries too much, resentment replaces romance.**
+
+Healthy boundaries redistribute:
+
+* emotional labor
+* accountability
+* problem-solving
+
+---
+
+## **Key Insight (Expanded)**
+
+> **Love requires two whole people — not one merged system.**
+
+### **What “Merged” Love Looks Like**
+
+* constant checking in
+* emotional dependence
+* fear of independence
+* loss of individuality
+* jealousy disguised as care
+
+> **Fusion feels safe — until it suffocates.**
+
+---
+
+### **What “Whole” Love Looks Like**
+
+* shared life + separate selves
+* mutual support without control
+* autonomy without abandonment
+* intimacy without pressure
+
+> **Two whole people choose each other — they don’t cling.**
+
+---
+
+## **Common Romantic Boundary Conflicts (Expanded)**
+
+### **1. Emotional Fusion**
+
+* partner’s mood becomes your responsibility
+* their stress becomes your crisis
+* peace depends on appeasement
+
+Boundary shift:
+
+> **“I can support you without fixing this.”**
+
+---
+
+### **2. Conflict Avoidance**
+
+* swallowing needs to avoid fights
+* silence to keep peace
+* resentment leaking later
+
+Boundary shift:
+
+> **“I want to talk about this — calmly and respectfully.”**
+
+---
+
+### **3. Over-Availability**
+
+* no alone time
+* guilt for independence
+* constant emotional access
+
+Boundary shift:
+
+> **“I need time to recharge — this isn’t about distance.”**
+
+---
+
+## **Real-Life Relationship Examples**
+
+### **Example 1: Emotional Regulation**
+
+Partner comes home upset.
+
+Old pattern:
+
+> trying to fix
+> absorbing stress
+> feeling anxious
+
+Boundaried response:
+
+> **“I can listen, and I trust you to handle this.”**
+
+---
+
+### **Example 2: Conflict Escalation**
+
+Partner raises voice.
+
+Boundary:
+
+> **“I’m open to this conversation when voices are calm.”**
+
+Safety restored.
+Respect enforced.
+
+---
+
+### **Example 3: Independence**
+
+Partner feels threatened by your interests.
+
+Boundary:
+
+> **“This matters to me — and it doesn’t threaten us.”**
+
+Identity protected.
+Relationship strengthened.
+
+---
+
+## **Why Boundaries Feel Risky in Romance**
+
+Because romantic love activates:
+
+* attachment wounds
+* fear of abandonment
+* desire for approval
+
+So boundaries trigger:
+
+* guilt
+* fear
+* anxiety
+
+> **Boundaries don’t kill intimacy — they expose attachment patterns.**
+
+---
+
+## **What Healthy Partners Do with Boundaries**
+
+Healthy partners:
+
+* listen
+* adjust
+* respect
+* stay curious
+
+Unhealthy partners:
+
+* guilt
+* escalate
+* withdraw
+* control
+
+> **A partner who cannot tolerate your boundaries cannot tolerate the real you.**
+
+---
+
+## **Anchor Truths (Let These Settle)**
+
+> **Romance thrives on autonomy and connection — not sacrifice and silence.**
+
+> **Boundaries don’t distance partners.
+> They prevent emotional erosion.**
+
+> **If love requires you to disappear, it isn’t love — it’s dependency.**
+
+---
 
 
 
