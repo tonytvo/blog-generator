@@ -8,18 +8,17 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **14. Boundaries with Spouse / Romantic Partner**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **15. Boundaries with Children**
 
-Boundaries protect:
+**Paradox**
 
-* Individual identity
-* Emotional safety
-* Responsibility balance
+* Children need boundaries *more* than adults
 
-**Key Insight**
+Boundaries teach:
 
-* Love requires two whole people, not one merged system
-"
+* Self-control
+* Responsibility
+* Reality"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
