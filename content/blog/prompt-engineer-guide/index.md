@@ -8,17 +8,20 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **15. Boundaries with Children**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **16. Boundaries at Work**
 
-**Paradox**
+Common violations:
 
-* Children need boundaries *more* than adults
+* No limits on time
+* Taking responsibility for others’ performance
+* Fear-based compliance
 
-Boundaries teach:
+**Healthy Work Boundaries**
 
-* Self-control
-* Responsibility
-* Reality"
+* Clear expectations
+* Clear consequences
+* Clear limits
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
