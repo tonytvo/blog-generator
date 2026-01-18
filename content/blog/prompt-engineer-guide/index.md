@@ -8,20 +8,22 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **16. Boundaries at Work**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## **PART 5 — Developing Healthy Boundaries**
 
-Common violations:
+### **17. Resistance from Others**
 
-* No limits on time
-* Taking responsibility for others’ performance
-* Fear-based compliance
+Expect:
 
-**Healthy Work Boundaries**
+* Pushback
+* Guilt trips
+* Anger
+* Testing
 
-* Clear expectations
-* Clear consequences
-* Clear limits
-"
+**EI Skill**
+
+* Hold the boundary without defending or explaining excessively
+
+---"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
