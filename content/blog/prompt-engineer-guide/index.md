@@ -8,7 +8,59 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections ""
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### Myth 2: “Boundaries Are Disobedient”
+
+**Key addition:**
+
+> *“An internal no cancels an external yes.”*
+
+God values **cheerful, voluntary obedience**, not fear-driven compliance.
+
+---
+
+### Myth 3: “If I Set Boundaries, I’ll Be Abandoned”
+
+**New relational litmus test:**
+
+> *“People who only love your yes do not love you.”*
+
+Boundaries reveal **relationship quality** — they don’t destroy it.
+
+---
+
+### Myth 4: “Boundaries Hurt Others”
+
+**Clarification:**
+
+* Boundaries are **defensive**, not offensive
+* Adults are responsible for finding **alternate support**
+
+---
+
+### Myth 5: “Boundaries Mean I’m Angry”
+
+**Major emotional intelligence upgrade:**
+
+* Anger is a **boundary alarm**
+* Old anger surfaces when new boundaries appear
+* Mature boundaries **reduce anger over time**
+
+> *“Don’t get mad. Set a limit.”*
+
+---
+
+### Myth 6: “Others’ Boundaries Injure Me”
+
+**New diagnostic clarity:**
+Inability to accept others’ boundaries often indicates:
+
+* childhood boundary injury
+* projection
+* emotional over-dependence
+* refusal to take responsibility
+
+---
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
