@@ -8,26 +8,28 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 4: The Six Types of Boundaries**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 6: Identify and Communicate Your Boundaries**
 
-Nedra’s modern boundary taxonomy:
+The **boundary formula**:
 
-1. **Physical** — personal space, touch, privacy
-2. **Emotional** — not absorbing others’ feelings or moods
-3. **Intellectual** — respecting differing opinions
-4. **Time** — protecting availability and rest
-5. **Material** — money, belongings, resources
-6. **Sexual** — consent, comfort, expectations
+1. Identify the issue
+2. Name the boundary clearly
+3. State consequences
+4. Follow through consistently
 
-Each boundary type includes:
+Bad boundaries:
 
-* examples
-* common violations
-* how to communicate
-* how to enforce
+* vague
+* apologetic
+* over-explained
+* inconsistent
 
----
-"
+Good boundaries:
+
+* **clear**
+* **brief**
+* **neutral**
+* **firm**"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
