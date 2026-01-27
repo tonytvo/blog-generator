@@ -8,28 +8,21 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 6: Identify and Communicate Your Boundaries**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 12: Friendships**
 
-The **boundary formula**:
+Common issues:
 
-1. Identify the issue
-2. Name the boundary clearly
-3. State consequences
-4. Follow through consistently
+* imbalance
+* chronic complaining
+* emotional dumping
+* outgrowing friendships
 
-Bad boundaries:
+Healthy friendships:
 
-* vague
-* apologetic
-* over-explained
-* inconsistent
-
-Good boundaries:
-
-* **clear**
-* **brief**
-* **neutral**
-* **firm**"
+* allow distance
+* respect limits
+* adapt to life stages
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
