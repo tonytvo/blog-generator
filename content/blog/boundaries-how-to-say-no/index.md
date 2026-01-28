@@ -4841,7 +4841,7 @@ Friends are chosen — which means boundaries matter even more.
 
 ---
 
-## **Watch For These Friendship Red Flags (Expanded)**
+## **Common Friendship Boundary Issues (Expanded)**
 
 ### **1. One-Way Relationships**
 
@@ -4862,12 +4862,45 @@ Emotional dumping ≠ sharing.
 
 Dumping:
 
-* no check-in
 * no reciprocity
 * no interest in your experience
 * repeated venting without reflection
+* unloading emotions without consent
+* crisis-first communication
+* no regard for timing or capacity
+* lack of curiosity about you
 
+> **Emotional dumping treats friendship as a container — not a connection.**
 > **Being someone’s emotional landfill is not intimacy.**
+
+#### **Key Distinction**
+
+* **Sharing** = mutual, paced, consensual
+* **Dumping** = unilateral, urgent, consuming
+
+---
+
+#### **Example**
+
+They text:
+
+> “I’m falling apart. I need you now.”
+
+Repeatedly.
+Never asking if you’re available.
+
+---
+
+#### **Boundary Response**
+
+> **“I care about you, but I don’t have the capacity for this right now.”**
+
+And if it continues:
+
+> **“I can’t be your primary support.”**
+
+> **Friendship is not therapy.**
+
 
 ---
 
@@ -4886,6 +4919,170 @@ They often resist:
 * boundaries
 
 > **Some friendships survive crisis but not health.**
+
+### **1. Imbalance**
+
+#### **What Imbalance Looks Like**
+
+* you initiate most contact
+* you listen far more than you’re heard
+* your needs feel secondary
+* the friendship revolves around their life
+
+> **Imbalance turns friendship into emotional labor.**
+
+---
+
+#### **Why Imbalance Happens**
+
+* one person grows faster
+* one person avoids responsibility
+* one person is in chronic crisis
+* one person’s identity becomes “the helper”
+
+> **Care without reciprocity becomes obligation.**
+
+---
+
+#### **Example**
+
+You check in, offer support, remember important dates.
+They rarely ask how you’re doing.
+
+Over time:
+
+> **You feel invisible — not valued.**
+
+---
+
+#### **Boundary Response**
+
+> **“I need friendships to feel mutual.”**
+
+Then adjust:
+
+* reduce initiation
+* stop over-giving
+* observe who meets you halfway
+
+> **Mutuality reveals itself when you stop over-functioning.**
+
+---
+
+### **2. Chronic Complaining**
+
+#### **What It Is**
+
+* repeated venting without action
+* circular conversations
+* refusal to change
+* emotional stagnation
+
+> **Venting without movement becomes emotional dumping.**
+
+---
+
+#### **Why It’s Draining**
+
+* no resolution
+* no growth
+* no relief
+* no reciprocity
+
+Your empathy becomes a **wastebasket**.
+
+---
+
+#### **Example**
+
+Every call:
+
+* same problems
+* same people
+* same helplessness
+
+You leave feeling:
+
+> **heavy, tired, and oddly responsible.**
+
+---
+
+#### **Boundary Response**
+
+> **“I can listen — but I can’t keep revisiting the same issue without change.”**
+
+Or:
+
+> **“Have you considered getting support beyond this conversation?”**
+
+---
+
+#### **What Happens Next**
+
+* Healthy friend → reflects or adjusts
+* Unhealthy friend → resents or escalates
+
+Either way:
+
+> **You gain clarity.**
+
+---
+
+### **4. Outgrowing Friendships**
+
+This is the most painful—and the most normal.
+
+> **Outgrowing a friendship does not mean it failed.**
+
+---
+
+#### **How Outgrowing Happens**
+
+* different values emerge
+* different life stages
+* different emotional capacities
+* different growth trajectories
+
+One person evolves.
+The other stays the same.
+
+---
+
+#### **What It Often Feels Like**
+
+* boredom
+* irritation
+* guilt
+* emotional distance
+* forcing connection
+
+> **Forcing closeness creates resentment — not loyalty.**
+
+---
+
+#### **Example**
+
+A friendship built on:
+
+* partying
+* complaining
+* shared dysfunction
+
+No longer fits who you are now.
+
+---
+
+#### **Boundary Response**
+
+You don’t need a dramatic conversation.
+
+Often the healthiest boundary is:
+
+* reduced contact
+* slower replies
+* less emotional availability
+
+> **Distance is sometimes the most respectful truth.**
 
 ---
 
@@ -4912,9 +5109,127 @@ But it **does require reciprocity**.
 
 ---
 
-## **Real-Life Friendship Examples**
 
-### **Example 1: Emotional Dumping**
+## **Healthy Friendships (Expanded)**
+
+Healthy friendships are not perfect.
+They are **regulated, flexible, and respectful**.
+
+---
+
+### **1. They Allow Distance**
+
+> **Closeness that requires constant contact is not closeness — it’s anxiety.**
+
+Healthy friends:
+
+* don’t panic when you’re busy
+* don’t interpret space as rejection
+* don’t guilt you for availability
+
+---
+
+#### **Example**
+
+Months pass.
+You reconnect.
+
+It feels:
+
+> **easy — not tense.**
+
+---
+
+### **2. They Respect Limits**
+
+Healthy friends:
+
+* accept no without pressure
+* adjust expectations
+* don’t punish boundaries
+
+> **A friend who respects your no is a friend who respects you.**
+
+---
+
+#### **Example**
+
+You say:
+
+> “I can’t do that.”
+
+They say:
+
+> “No worries.”
+
+No guilt.
+No follow-up pressure.
+
+---
+
+### **3. They Adapt to Life Stages**
+
+Friendships must evolve:
+
+* single → married
+* child-free → parenting
+* career shifts
+* health changes
+* grief
+
+> **Friendships that survive change are flexible — not rigid.**
+
+---
+
+#### **Example**
+
+You have less time.
+
+Healthy friend:
+
+> adjusts expectations
+
+Unhealthy friend:
+
+> takes it personally
+
+---
+
+### **A Key Reality (Read Slowly)**
+
+> **Friendships are not owed permanence.
+> They are renewed by mutual choice.**
+
+---
+
+### **What You Don’t Need to Do**
+
+You don’t need to:
+
+* explain every change
+* justify distance
+* stay loyal to misalignment
+* maintain access out of history
+
+> **History alone is not a reason to stay.**
+
+---
+
+### **What a Boundary-Defined Friendship Feels Like**
+
+* lighter
+* reciprocal
+* honest
+* calm
+* flexible
+* nourishing
+
+> **You leave feeling more like yourself — not less.**
+
+
+### **Real-Life Friendship Examples**
+
+#### **Example 1: Emotional Dumping**
 
 Boundary:
 
@@ -4925,7 +5240,7 @@ If ignored → information revealed
 
 ---
 
-### **Example 2: One-Way Effort**
+#### **Example 2: One-Way Effort**
 
 Boundary:
 
@@ -4938,7 +5253,7 @@ Who doesn’t?
 
 ---
 
-### **Example 3: Crisis Dependency**
+#### **Example 3: Crisis Dependency**
 
 Boundary:
 
@@ -4949,7 +5264,7 @@ You stop being consumed.
 
 ---
 
-## **What Happens When You Set Boundaries with Friends**
+### **What Happens When You Set Boundaries with Friends**
 
 Healthy friends:
 
@@ -4968,7 +5283,7 @@ Unhealthy friends:
 
 ---
 
-## **Anchor Truths (Let These Land)**
+### **Anchor Truths (Let These Land)**
 
 > **Family boundaries require courage.
 > Friendship boundaries require honesty.**
@@ -4976,6 +5291,15 @@ Unhealthy friends:
 > **Mutuality is not selfish — it’s relational health.**
 
 > **You don’t owe closeness to people who only want access.**
+
+> **Friendships should add energy, not drain it.**
+
+> **Mutuality is the foundation of adult friendship.**
+
+> **Distance is not cruelty — it’s clarity.**
+
+> **You are allowed to evolve — and so are your friendships.**
+
 
 ---
 
