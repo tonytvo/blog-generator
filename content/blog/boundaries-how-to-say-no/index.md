@@ -5536,6 +5536,263 @@ Unhealthy partners:
 
 ---
 
+## **1. Boundaries in Communication**
+
+Communication is not about *talking more*.
+It’s about **talking safely**.
+
+---
+
+### **Common Communication Boundary Violations**
+
+* yelling or name-calling
+* sarcasm or contempt
+* stonewalling or shutting down
+* interrogations disguised as “talking”
+* rehashing resolved issues
+
+> **How you talk matters as much as what you say.**
+
+---
+
+### **Healthy Communication Boundaries**
+
+Healthy couples agree—explicitly or implicitly—that:
+
+* voices stay calm
+* respect is non-negotiable
+* conversations pause if unsafe
+* repair is required after conflict
+
+> **Safety is the foundation of honesty.**
+
+---
+
+### **Boundary Scripts**
+
+* **“I’m open to this conversation, but not at this volume.”**
+* **“Let’s pause and come back when we’re calmer.”**
+* **“I won’t stay in a conversation that turns disrespectful.”**
+
+---
+
+### **Example**
+
+Old pattern:
+
+> conflict escalates → hurtful words → emotional withdrawal
+
+Boundaried pattern:
+
+> **pause → regulate → return with clarity**
+
+> **Pausing is not avoidance.
+> It’s containment.**
+
+---
+
+## **2. Boundaries Around Infidelity (Physical & Emotional)**
+
+Infidelity is not just about sex.
+It’s about **broken agreements and misplaced intimacy**.
+
+---
+
+### **Expanded Definition**
+
+Infidelity includes:
+
+* sexual betrayal
+* emotional intimacy outside the relationship
+* secrecy
+* prioritizing someone else over the partnership
+* hiding communication
+
+> **Secrecy is the soil infidelity grows in.**
+
+---
+
+### **Healthy Boundary Principle**
+
+> **Transparency is required where trust is expected.**
+
+This doesn’t mean surveillance.
+It means **openness without defensiveness**.
+
+---
+
+### **Boundary Examples**
+
+* agreed-upon limits with exes
+* clarity around online interactions
+* shared understanding of “emotional closeness”
+
+> **If it would hurt to see, it shouldn’t be hidden.**
+
+---
+
+### **After Betrayal**
+
+Forgiveness may be possible—but:
+
+* access must be renegotiated
+* trust must be rebuilt through behavior
+* boundaries must tighten, not loosen
+
+> **Reconciliation without boundaries repeats the injury.**
+
+---
+
+## **3. Boundaries Around Emotional Labor**
+
+This is one of the most common—and invisible—sources of resentment.
+
+---
+
+### **What Emotional Labor Looks Like**
+
+* managing moods
+* anticipating needs
+* fixing problems
+* carrying the emotional climate
+* being the “strong one”
+
+> **Love does not require one person to carry the emotional weight for two.**
+
+---
+
+### **When Emotional Labor Becomes Unhealthy**
+
+* one partner regulates both people
+* one partner never rests
+* needs are consistently deferred
+* resentment builds quietly
+
+> **Over-functioning kills attraction and respect.**
+
+---
+
+### **Boundary Reframe**
+
+> **“I can support you without managing you.”**
+
+---
+
+### **Boundary Scripts**
+
+* **“I can listen, but I can’t fix this for you.”**
+* **“Your feelings matter—and they’re yours to work through.”**
+* **“I need support too.”**
+
+---
+
+### **Example**
+
+Old pattern:
+
+> one partner absorbs stress → feels depleted → withdraws
+
+New pattern:
+
+> **shared responsibility → mutual regulation → sustainability**
+
+---
+
+## **4. Boundaries During Shifting Identities (Parenthood, Stress, Life Transitions)**
+
+Relationships don’t exist in a vacuum.
+They evolve—or fracture—through change.
+
+---
+
+### **Common Transitions That Stress Boundaries**
+
+* becoming parents
+* career pressure
+* financial stress
+* illness
+* grief
+* caregiving roles
+
+> **Change doesn’t break relationships.
+> Unspoken expectations do.**
+
+---
+
+### **Why Boundaries Matter More During Stress**
+
+Because under pressure:
+
+* roles blur
+* resentment grows
+* assumptions replace communication
+
+---
+
+### **Examples**
+
+#### **Parenthood**
+
+Boundary issues arise when:
+
+* one partner becomes the default parent
+* intimacy disappears without discussion
+* exhaustion replaces connection
+
+Healthy boundary:
+
+> **explicit division of labor
+> protected couple time
+> permission to renegotiate roles**
+
+---
+
+#### **Work or Financial Stress**
+
+Boundary issues arise when:
+
+* stress is displaced onto the relationship
+* emotional availability collapses
+* one partner becomes the emotional dumping ground
+
+Healthy boundary:
+
+> **“I want to support you, but I can’t be your only outlet.”**
+
+---
+
+## **The Core Relationship Truth (Read Slowly)**
+
+> **Boundaries don’t distance partners.
+> They prevent erosion.**
+
+> **Love survives when both people remain whole.**
+
+---
+
+## **What Unhealthy Romantic Boundaries Look Like**
+
+* constant self-sacrifice
+* fear of upsetting the other
+* walking on eggshells
+* losing touch with your needs
+* staying silent to keep peace
+
+> **Peace built on silence is not peace.**
+
+---
+
+## **What Healthy Romantic Boundaries Feel Like**
+
+* safety during conflict
+* permission to disagree
+* mutual responsibility
+* desire without obligation
+* closeness without suffocation
+
+> **You feel chosen — not consumed.**
+
+
 ## **Anchor Truths (Let These Settle)**
 
 > **Romance thrives on autonomy and connection — not sacrifice and silence.**
@@ -5544,6 +5801,19 @@ Unhealthy partners:
 > They prevent emotional erosion.**
 
 > **If love requires you to disappear, it isn’t love — it’s dependency.**
+
+> **Intimacy requires safety.
+> Safety requires boundaries.**
+
+> **Love without limits becomes resentment.**
+
+> **Two whole people create deeper connection than one fused system.**
+
+> **If you must lose yourself to keep love, it isn’t love.**
+
+> **Boundaries are not what you do *to* your partner.
+> They are what you do *for* the relationship.**
+
 
 ---
 
@@ -5819,7 +6089,7 @@ Children become:
 ---
 
 
-## 🔹 **Age-Approropriate Boundaries (Toddlers → Teens)**
+## **Age-Approropriate Boundaries (Toddlers → Teens)**
 
 Boundaries **evolve** as children grow — but the *principle* stays the same:
 
@@ -5961,7 +6231,7 @@ No lectures.
 
 ---
 
-## 🔹 **Co-Parenting Boundary Conflicts**
+## **Co-Parenting Boundary Conflicts**
 
 This is emotionally hard — because it involves **letting go of control over how another adult parents**.
 
@@ -6278,6 +6548,50 @@ They define:
 
 ---
 
+## **4. Recognizing Toxic Environments**
+
+Some workplaces don’t just ignore boundaries—they **punish them**.
+
+Knowing the difference between *pressure* and *toxicity* is critical.
+
+---
+
+### **Pressure Looks Like**
+
+* busy seasons
+* clear tradeoffs
+* recovery after pushes
+* appreciation for limits
+
+> **Pressure is temporary and transparent.**
+
+---
+
+### **Toxicity Looks Like**
+
+* chronic urgency
+* fear-based motivation
+* shaming rest
+* rewarding burnout
+* mocking boundaries
+* punishing honesty
+
+> **A system that only works when people overextend is broken.**
+
+---
+
+### **Example**
+
+You set a boundary and are labeled:
+
+* “not a team player”
+* “uncommitted”
+* “difficult”
+
+That’s not feedback.
+That’s **boundary retaliation**.
+
+
 ## **Workplace Boundary Scripts (Realistic & Calm)**
 
 ### **When Asked to Take on More Work**
@@ -6386,17 +6700,6 @@ Boundaries are how you:
 > Your job is to deliver value sustainably.**
 
 ---
-
-## **Anchor Truths (Let These Land)**
-
-> **Clear boundaries create clear performance.**
-
-> **Saying no to overload is saying yes to quality.**
-
-> **You don’t need permission to work sustainably.**
-
----
-
 
 ## **Tailored to Your Role: Software Developer in a High-Pressure Environment**
 
@@ -6668,6 +6971,21 @@ Say this internally:
 > **You don’t owe your nervous system to the sprint backlog.**
 
 > **If a team only functions when you overextend, the team is broken — not you.**
+
+> **Clear boundaries create clear performance.**
+
+> **Saying no to overload is saying yes to quality.**
+
+> **You don’t need permission to work sustainably.**
+
+> **Your job is not entitled to your exhaustion.**
+
+> **Sustainable performance requires protected limits.**
+
+> **Clarity is more professional than compliance.**
+
+> **A healthy career is built on boundaries—not burnout.**
+
 
 ---
 

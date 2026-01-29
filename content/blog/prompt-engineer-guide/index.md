@@ -8,21 +8,17 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 12: Friendships**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 13: Work**
 
-Common issues:
+Workplace boundaries include:
 
-* imbalance
-* chronic complaining
-* emotional dumping
-* outgrowing friendships
+* workload limits
+* availability hours
+* communication tone
+* toxic environment recognition
 
-Healthy friendships:
-
-* allow distance
-* respect limits
-* adapt to life stages
-"
+Burnout ≠ lack of capacity
+Burnout = **lack of boundaries**"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
