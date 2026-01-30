@@ -8,17 +8,19 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 13: Work**
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "### **Chapter 14: Social Media & Technology**
 
-Workplace boundaries include:
+Modern boundary frontier.
 
-* workload limits
-* availability hours
-* communication tone
-* toxic environment recognition
+Includes:
 
-Burnout ≠ lack of capacity
-Burnout = **lack of boundaries**"
+* screen time limits
+* online harassment
+* parasocial relationships
+* content consumption fatigue
+
+Example: Nedra’s **explicit Instagram boundaries**
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

@@ -6989,6 +6989,323 @@ Say this internally:
 
 ---
 
+# **Social Media & Technology**
+
+> **Technology is neutral.
+> Access without boundaries is not.**
+
+This is the **modern boundary frontier** because:
+
+* access is constant
+* expectations are invisible
+* emotional labor is unlimited
+* comparison is nonstop
+* exit is socially punished
+
+> **Just because you *can* be reachable doesn’t mean you should be.**
+
+---
+
+## **Why Digital Boundaries Are Uniquely Hard**
+
+Unlike in-person boundaries:
+
+* there is no natural ending
+* no physical cues
+* no recovery built in
+* no shared agreement about norms
+
+> **Technology removes friction.
+> Boundaries put it back.**
+
+---
+
+## **1. Screen Time Limits**
+
+### **What Screen Time Really Affects**
+
+Not just productivity—but:
+
+* attention span
+* emotional regulation
+* sleep quality
+* impulse control
+* self-worth
+
+> **Your attention is your most valuable resource.**
+
+---
+
+### **Common Violations**
+
+* compulsive checking
+* scrolling past exhaustion
+* “just one more minute”
+* using phones to avoid feelings
+* working without stopping
+
+> **If rest only happens after collapse, a boundary is missing.**
+
+---
+
+### **Signs Screen Boundaries Are Needed**
+
+* difficulty concentrating
+* irritability after scrolling
+* phantom notifications
+* comparing your life to others’
+* feeling behind or inadequate
+
+---
+
+### **Boundary Examples**
+
+* **No phone for first / last hour of day**
+* **Social apps removed from home screen**
+* **Scheduled scroll windows**
+* **No devices during meals or conversations**
+
+> **Boundaries don’t restrict freedom — they restore choice.**
+
+---
+
+## **2. Online Harassment & Digital Safety**
+
+Harassment is a **boundary violation**, not a disagreement.
+
+---
+
+### **What Counts as Harassment**
+
+* insults
+* threats
+* repeated unwanted contact
+* dog-piling
+* doxxing
+* sexualized comments
+
+> **You are not obligated to endure abuse for visibility.**
+
+---
+
+### **Healthy Digital Boundary Principle**
+
+> **Silence is not weakness.
+> Blocking is not immaturity.**
+
+---
+
+### **Boundary Actions**
+
+* block immediately
+* mute keywords
+* limit comments
+* report without engaging
+* log off temporarily
+
+> **Engagement is oxygen.
+> Boundaries starve abuse.**
+
+---
+
+### **Important Reframe**
+
+You don’t need to:
+
+* defend yourself
+* explain
+* educate trolls
+* prove you’re right
+
+> **Protecting your peace is more important than winning arguments.**
+
+---
+
+## **3. Parasocial Relationships**
+
+Parasocial relationships are **one-sided emotional attachments**—often formed online.
+
+---
+
+### **Where They Appear**
+
+* influencers
+* creators
+* public figures
+* coaches
+* online communities
+
+These relationships can feel:
+
+* intimate
+* validating
+* supportive
+
+But they lack:
+
+* reciprocity
+* accountability
+* real attachment repair
+
+> **Connection without mutuality is consumption — not relationship.**
+
+---
+
+### **Boundary Risks**
+
+* emotional over-investment
+* neglect of real relationships
+* misplaced loyalty
+* blurred identity
+* believing someone “knows” you
+
+---
+
+### **Healthy Reframe**
+
+> **Inspiration is healthy.
+> Emotional dependency is not.**
+
+---
+
+### **Boundary Examples**
+
+* limit creator consumption
+* unfollow accounts that trigger comparison
+* don’t substitute online validation for real support
+* remember: you know *of* them — not *with* them
+
+> **If someone can’t disappoint you, they can’t truly support you.**
+
+---
+
+## **4. Content Consumption Fatigue**
+
+This is one of the most overlooked modern boundary injuries.
+
+---
+
+### **What It Looks Like**
+
+* constant advice intake
+* endless self-improvement content
+* news overload
+* emotional exhaustion
+* paralysis instead of action
+
+> **Information without integration becomes overwhelm.**
+
+---
+
+### **Why It’s Draining**
+
+Because:
+
+* your nervous system never rests
+* every scroll introduces urgency
+* comparison replaces embodiment
+* thinking replaces doing
+
+> **Too much input disconnects you from your own voice.**
+
+---
+
+### **Boundary Response**
+
+* intentional content fasting
+* curating feeds ruthlessly
+* limiting “help” content
+* replacing scrolling with silence
+
+> **Growth requires space — not saturation.**
+
+---
+
+## **Nedra’s Explicit Instagram Boundaries (Why They Matter)**
+
+Nedra publicly models something radical:
+
+> **Clear digital self-definition.**
+
+Her boundaries include:
+
+* limited engagement
+* no DMs for therapy
+* no responding to harassment
+* no over-explaining
+* clear expectations about access
+
+> **Visibility does not require availability.**
+
+---
+
+### **Why This Is Powerful**
+
+Because it:
+
+* normalizes limits
+* rejects entitlement
+* models self-respect
+* protects longevity
+
+> **You teach people how to treat you online the same way you do offline — through consistency.**
+
+---
+
+## **What Healthy Digital Boundaries Feel Like**
+
+* calmer nervous system
+* less comparison
+* better sleep
+* deeper focus
+* more presence
+* restored agency
+
+> **You stop reacting — and start choosing.**
+
+---
+
+## **What Digital Boundary Failure Feels Like**
+
+* compulsive checking
+* irritability
+* envy
+* numbness
+* fatigue
+* identity confusion
+
+> **If your phone knows more about your emotions than you do, a boundary is overdue.**
+
+---
+
+## **A Crucial Modern Truth**
+
+> **Not everything deserves your attention.
+> Not everyone deserves access.
+> Not every platform deserves your presence.**
+
+---
+
+## **Practical Boundary Scripts (Yes, Even Online)**
+
+* **“I don’t engage with this.”**
+* **“Comments are closed.”**
+* **“This space is moderated.”**
+* **“Unfollowing for my mental health.”**
+
+You don’t need to announce them.
+You just need to **enforce them**.
+
+## **Final Anchor Truths**
+
+> **Your nervous system is not optimized for constant access.**
+
+> **Digital boundaries are mental health boundaries.**
+
+> **Attention is currency — spend it intentionally.**
+
+> **You are allowed to be unreachable.**
+
 
 # **17. Resistance from Others**
 
