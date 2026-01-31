@@ -742,13 +742,6 @@ Boundary health looks like:
 
 ---
 
-This chapter is where boundaries become **concrete, observable, and enforceable**.
-Nedra’s framework is powerful because it moves boundaries **out of abstraction and into daily behavior**.
-
-Below is a **deep, practical expansion** of all six boundary types — with **bold anchor truths**, real-life examples, common violations, scripts, and enforcement strategies.
-
----
-
 # **The Six Types of Boundaries**
 
 > **If you can’t name the boundary, you can’t protect it.**
