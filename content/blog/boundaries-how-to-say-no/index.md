@@ -3393,13 +3393,6 @@ Unhealthy people respond with resistance.
 
 ---
 
-This section dismantles some of the **deepest emotional–spiritual confusions** people carry about boundaries.
-These myths don’t just create bad behavior — they create **chronic inner conflict**, shame, and spiritualized self-betrayal.
-
-Below is a **deep expansion**, integrating **emotional intelligence, attachment psychology, and moral clarity**, with **bold anchor truths** and concrete examples so these myths lose their grip.
-
----
-
 # **Myth “Boundaries Are Disobedient”**
 
 ## **Key Addition**
@@ -8055,7 +8048,6 @@ This is manipulation — not spirituality.
 
 ---
 
----
 
 # **20. Learning Boundary Skills**
 
