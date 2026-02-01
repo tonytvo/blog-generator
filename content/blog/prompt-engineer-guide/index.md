@@ -8,13 +8,63 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections ""
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 2️⃣ The Web Application Security Model
+
+### Key Concepts
+
+### 🔹 HTTP Is Stateless
+
+* Every request is independent
+* State is simulated via:
+
+  * Cookies
+  * Session tokens
+  * Hidden form fields
+  * URL parameters
+
+Security implication:
+
+> **State management is attack surface.**
+
+---
+
+### 🔹 Trust Boundaries
+
+Trust boundaries exist between:
+
+* Browser ↔ Web Server
+* Web Server ↔ App Server
+* App Server ↔ Database
+* Internal services ↔ External APIs
+
+Security failures often occur at:
+
+* Data validation boundaries
+* Authentication checks
+* Authorization transitions
+
+---
+
+### 🔹 Client-Side vs Server-Side Trust
+
+Never trust:
+
+* JavaScript validation
+* Hidden form fields
+* Disabled buttons
+* Client-side access control
+
+Core principle:
+
+> **All client-controlled data is attacker-controlled.**
+
+---"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
 - **community research**
 
-```
+```text
 you're an expert in realestate investing, give me detailed outline on the Hotchkiss neighborhood in Calgary with the following questions:
 - what are nearby amenities, attractions?
 - when was the houses were commonly built?
@@ -53,6 +103,7 @@ you're an expert in realestate investing, give me detailed outline on the Hotchk
 - **TDD development**
 
 We are doing test driven development. For each task, do the following:
+
 1. Add a test to the test file specified by the user.
 2. Run the tests and ensure it fails. If it doesn't stop.
 3. Add the implementation to the implementation file specified by the user.
@@ -66,8 +117,8 @@ If the user doesn't specify test and implementation files, stop and ask the user
 
 # Quotes
 
-
 # References
-- https://www.promptingguide.ai/
-- https://www.amazon.ca/Art-Prompt-Engineering-ChatGPT-Plugins-ebook/dp/B0BSN3PTX8
-- https://www.amazon.ca/Prompt-Engineering-LLMs-Model-Based-Applications/dp/1098156153/
+
+- <https://www.promptingguide.ai/>
+- <https://www.amazon.ca/Art-Prompt-Engineering-ChatGPT-Plugins-ebook/dp/B0BSN3PTX8>
+- <https://www.amazon.ca/Prompt-Engineering-LLMs-Model-Based-Applications/dp/1098156153/>
