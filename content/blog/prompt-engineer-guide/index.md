@@ -8,57 +8,43 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 2️⃣ The Web Application Security Model
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART II — MAPPING THE APPLICATION
 
-### Key Concepts
-
-### 🔹 HTTP Is Stateless
-
-* Every request is independent
-* State is simulated via:
-
-  * Cookies
-  * Session tokens
-  * Hidden form fields
-  * URL parameters
-
-Security implication:
-
-> **State management is attack surface.**
+Before exploitation comes reconnaissance.
 
 ---
 
-### 🔹 Trust Boundaries
+## 3️⃣ Information Gathering
 
-Trust boundaries exist between:
+### 🔹 Manual Browsing
 
-* Browser ↔ Web Server
-* Web Server ↔ App Server
-* App Server ↔ Database
-* Internal services ↔ External APIs
+* Crawl app manually
+* Identify:
 
-Security failures often occur at:
+  * Hidden parameters
+  * Debug messages
+  * Error responses
+  * Version disclosures
 
-* Data validation boundaries
-* Authentication checks
-* Authorization transitions
+### 🔹 Automated Mapping
 
----
+* Proxy-based mapping (Burp Suite)
+* Spidering
+* Content discovery
 
-### 🔹 Client-Side vs Server-Side Trust
+### 🔹 Identifying Entry Points
 
-Never trust:
+Entry points include:
 
-* JavaScript validation
-* Hidden form fields
-* Disabled buttons
-* Client-side access control
+* GET parameters
+* POST parameters
+* Cookies
+* HTTP headers
+* File uploads
+* JSON bodies
+* WebSocket messages
 
-Core principle:
-
-> **All client-controlled data is attacker-controlled.**
-
----"
+> Every input vector is a potential injection vector."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

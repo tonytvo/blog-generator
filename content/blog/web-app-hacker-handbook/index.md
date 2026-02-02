@@ -506,6 +506,7 @@ I’ll expand this like an advanced systems security lecture, with:
 
 # 📘 2️⃣ The Web Application Security Model
 
+> **Web security is the discipline of enforcing trust boundaries and state transitions in a stateless, adversarial environment.**
 ---
 
 ## 🔹 HTTP Is Stateless
@@ -1108,20 +1109,649 @@ The web security model boils down to:
 
 ---
 
-## 🚀 One-Sentence Summary
+# MAPPING THE APPLICATION 🧠 Core Principle
 
-> **Web security is the discipline of enforcing trust boundaries and state transitions in a stateless, adversarial environment.**
+> **Before exploitation comes reconnaissance.**
+> **Mapping transforms an opaque application into a navigable attack surface.**
+
+This is not optional.
+This is not tooling.
+This is intelligence work.
+
+> **You cannot break what you do not understand.**
+
+Mapping the application means:
+
+* Discovering functionality
+* Discovering hidden features
+* Discovering workflows
+* Discovering state transitions
+* Discovering privilege models
+* Discovering technology stack
+* Discovering integration points
+
+Attackers don’t “attack apps.”
+
+They attack **models of apps**.
+
+Mapping builds that model.
 
 ---
 
-If you’d like next, we can:
+## 🎯 Why Mapping Is So Powerful
 
-* Build a full **Trust Boundary Diagram Framework**
-* Convert this into a **Threat Modeling Template**
-* Apply this model to a **microservices SaaS architecture**
-* Or build a **2026 secure API blueprint**
+Because vulnerabilities are rarely visible at surface level.
 
-Tell me how deep you want to go.
+They exist in:
+
+* Hidden endpoints
+* Edge-case workflows
+* Error handling
+* Rare transitions
+* Forgotten APIs
+* Debug routes
+* Legacy code paths
+
+Mapping reveals:
+
+> **The real application, not the UI version of it.**
+
+---
+
+# 3️⃣ Information Gathering (Deep Expansion)
+
+---
+
+## 🔹 Manual Browsing
+
+Manual browsing is underrated.
+
+But it’s critical because:
+
+> **Humans detect logic patterns tools miss.**
+
+When manually browsing, you are not clicking randomly.
+
+You are building a mental map.
+
+---
+
+## 🧭 What You’re Actually Looking For
+
+When crawling manually, you should ask:
+
+### 1️⃣ What are the user roles?
+
+* Guest
+* User
+* Admin
+* Support
+* API user
+* Internal staff
+* Tenant admin
+* Super admin
+
+Are these roles clearly separated?
+
+Or just hidden in UI?
+
+---
+
+### 2️⃣ What workflows exist?
+
+Examples:
+
+* Signup → verify → login
+* Add to cart → checkout → pay
+* Create invoice → approve → issue
+* Submit claim → review → approve
+* Upload file → scan → publish
+
+Security flaws often occur:
+
+> **Between workflow steps.**
+
+---
+
+### 3️⃣ What unusual behaviors exist?
+
+Watch for:
+
+* Different error messages
+* Different response times
+* Conditional redirects
+* Conditional data exposure
+* Hidden fields
+* Conditional rendering
+
+These indicate:
+
+* State checks
+* Conditional logic
+* Authorization checks
+* Data branching
+
+Every branch is a possible bypass.
+
+---
+
+# 🔍 Hidden Parameters
+
+Developers often include hidden functionality:
+
+Example:
+
+```
+GET /api/orders?id=123&debug=true
+```
+
+Debug flag not visible in UI.
+
+Manual browsing + parameter tampering reveals:
+
+* Hidden admin features
+* Feature flags
+* Test modes
+* Alternate response formats
+* Backup logic
+
+---
+
+# 🧨 Debug Messages
+
+Error messages are reconnaissance gold.
+
+Example:
+
+```
+SQL syntax error near 'SELECT'
+```
+
+Reveals:
+
+* SQL backend
+* Query structure
+* Injection possibility
+
+Or:
+
+```
+MongoError: invalid BSON type`
+```
+
+Reveals:
+
+* NoSQL backend
+
+Or:
+
+```
+GraphQL query validation error`
+```
+
+Reveals:
+
+* GraphQL endpoint
+
+Debug leakage reduces attacker guesswork.
+
+---
+
+# 🧠 Error Response Analysis
+
+Even subtle differences matter.
+
+Compare:
+
+```
+User not found
+```
+
+vs
+
+```
+Incorrect password
+```
+
+This enables:
+
+> **Username enumeration.**
+
+Or:
+
+404 vs 403 differences:
+
+* 404 → resource does not exist
+* 403 → resource exists but forbidden
+
+That difference reveals valid object IDs.
+
+---
+
+# 🧬 Version Disclosure
+
+Headers:
+
+```
+X-Powered-By: Express 4.16.1
+Server: nginx/1.14.0
+```
+
+Or JS files referencing:
+
+```
+react@16.8.0
+```
+
+Attackers map:
+
+* Known CVEs
+* Known misconfigurations
+* Known exploitation paths
+
+Version disclosure reduces attack complexity.
+
+---
+
+# 🔹 Automated Mapping
+
+Automation amplifies reconnaissance.
+
+But tools don’t replace thinking.
+
+---
+
+## 🔍 Proxy-Based Mapping
+
+Using a proxy (e.g., Burp):
+
+You intercept:
+
+* Every request
+* Every response
+* Hidden redirects
+* Background API calls
+* XHR requests
+* Preflight CORS calls
+* WebSocket upgrades
+
+Modern apps (SPA) generate:
+
+* Dozens of API calls invisible in UI
+
+Proxy reveals:
+
+> **The hidden API layer behind the interface.**
+
+---
+
+## 🔎 Spidering
+
+Spidering discovers:
+
+* Unlinked pages
+* Forgotten routes
+* Backup files
+* Hidden admin panels
+* Old versions
+
+Example:
+
+```
+/admin_old/
+/backup/
+/v1/
+/v2/
+/beta/
+/test/
+/internal/
+```
+
+Security insight:
+
+> Legacy endpoints are often less protected.
+
+---
+
+## 📂 Content Discovery (Fuzzing Directories)
+
+Attackers try:
+
+```
+/.env
+/config
+/.git
+/.aws
+/api-docs
+/swagger
+/graphql
+/openapi.json
+```
+
+These reveal:
+
+* Secrets
+* API schemas
+* Internal structure
+* Credential leakage
+
+Modern breach pattern:
+
+> Exposed `.env` file → database credentials → full compromise.
+
+---
+
+# 🔹 Identifying Entry Points
+
+Now we reach one of the most critical ideas:
+
+> **Every input vector is a potential injection vector.**
+
+Attackers enumerate every place data enters system.
+
+---
+
+# 🧠 What Counts as an Entry Point?
+
+Anything attacker can influence.
+
+Not just form fields.
+
+Let’s expand deeply.
+
+---
+
+## 1️⃣ GET Parameters
+
+```
+GET /api/order?id=123
+```
+
+Try:
+
+* id=124
+* id=0
+* id=-1
+* id=999999
+* id=1 OR 1=1
+* id[]=1
+
+Check:
+
+* Error differences
+* Data leakage
+* Authorization failures
+
+---
+
+## 2️⃣ POST Parameters
+
+```
+POST /api/update-profile
+{
+  "email": "...",
+  "role": "user"
+}
+```
+
+Try:
+
+```
+"role": "admin"
+```
+
+If backend mass-assigns model fields:
+
+> Privilege escalation.
+
+---
+
+## 3️⃣ Cookies
+
+Cookies are fully client-controlled.
+
+Try modifying:
+
+* session ID
+* role
+* feature flags
+* tracking flags
+
+If cookie contains:
+
+```
+is_admin=true
+```
+
+Try changing.
+
+---
+
+## 4️⃣ HTTP Headers
+
+Headers are often trusted improperly.
+
+Example:
+
+```
+X-Forwarded-For
+X-User-ID
+X-Role
+X-Internal-Request
+```
+
+If backend trusts:
+
+```
+X-User-ID
+```
+
+Attacker impersonates any user.
+
+Modern cloud mistake:
+
+* Service trusts `X-Forwarded-For`
+* IP-based admin restriction bypassed.
+
+---
+
+## 5️⃣ JSON Bodies
+
+Modern APIs accept JSON:
+
+```
+{
+  "amount": 100,
+  "currency": "USD"
+}
+```
+
+Try:
+
+* Negative numbers
+* Extremely large numbers
+* Nested objects
+* Arrays instead of scalars
+* Unexpected fields
+
+Example:
+
+```
+{
+  "amount": -1000
+}
+```
+
+If refund logic triggers:
+
+> Financial exploit.
+
+---
+
+## 6️⃣ File Uploads
+
+Upload endpoints are dangerous.
+
+Test:
+
+* Double extensions
+* Content-type mismatch
+* Polyglot files
+* Large file sizes
+* Metadata injection
+* Filename traversal
+
+Example:
+
+```
+shell.php.jpg
+```
+
+Or:
+
+```
+../../etc/passwd
+```
+
+If upload stored in web root:
+
+> Remote code execution.
+
+---
+
+## 7️⃣ WebSocket Messages
+
+Modern apps use WebSockets.
+
+Example:
+
+```
+{ "action": "updateRole", "role": "admin" }
+```
+
+Test:
+
+* Change action
+* Change parameters
+* Replay messages
+* Send unauthorized actions
+
+WebSocket endpoints often lack same scrutiny as REST.
+
+---
+
+## 8️⃣ GraphQL Queries
+
+GraphQL introspection reveals:
+
+* Full schema
+* All object types
+* All mutations
+* Hidden admin mutations
+
+Attackers try:
+
+```
+{
+  users {
+    id
+    email
+  }
+}
+```
+
+If no authorization filtering:
+
+> Mass data exfiltration.
+
+---
+
+## 9️⃣ Webhooks (Modern Entry Point)
+
+Webhook endpoint:
+
+```
+POST /api/webhook/payment
+```
+
+If signature not validated:
+
+Attacker sends:
+
+```
+status=paid
+```
+
+Order marked paid.
+
+---
+
+# 🧠 Deep Insight
+
+Attackers do not ask:
+
+> “Where is the vulnerability?”
+
+They ask:
+
+> “Where does input enter the system?”
+
+And:
+
+> “Where does input cross trust boundaries?”
+
+That’s where vulnerabilities live.
+
+---
+
+# 🧬 Input Mutation Strategy (Advanced)
+
+Once entry points identified:
+
+Attackers systematically test:
+
+* Type confusion
+* Boundary values
+* Missing parameters
+* Extra parameters
+* Unexpected nested JSON
+* Encoding tricks
+* Unicode tricks
+* Case changes
+* Duplicate parameters
+
+Example:
+
+```
+role=user&role=admin
+```
+
+How does backend resolve duplicates?
+
+---
+
+# Mapping Appliation 🔥 Modern 2026 Reality
+
+The most exploited category today is not SQL injection.
+
+It’s:
+
+> **Broken object-level authorization discovered during API mapping.**
+
+Mapping reveals:
+
+```
+GET /api/v1/users/{id}
+```
+
+Testing reveals:
+
+* No ownership check.
+
+That’s mapping success.
+
+---
+
 
 
 # Quotes
