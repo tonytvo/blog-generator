@@ -8,43 +8,26 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART II — MAPPING THE APPLICATION
-
-Before exploitation comes reconnaissance.
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART III — AUTHENTICATION ATTACKS
 
 ---
 
-## 3️⃣ Information Gathering
+## 5️⃣ Authentication Mechanisms
 
-### 🔹 Manual Browsing
+### 🔹 Weak Password Policies
 
-* Crawl app manually
-* Identify:
+* Short passwords
+* No rate limiting
+* No lockout
 
-  * Hidden parameters
-  * Debug messages
-  * Error responses
-  * Version disclosures
+### 🔹 Brute Force / Credential Stuffing
 
-### 🔹 Automated Mapping
+Mitigation requires:
 
-* Proxy-based mapping (Burp Suite)
-* Spidering
-* Content discovery
-
-### 🔹 Identifying Entry Points
-
-Entry points include:
-
-* GET parameters
-* POST parameters
-* Cookies
-* HTTP headers
-* File uploads
-* JSON bodies
-* WebSocket messages
-
-> Every input vector is a potential injection vector."
+* Rate limiting
+* IP throttling
+* CAPTCHA (weak defense)
+* MFA"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
