@@ -8,26 +8,26 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART III — AUTHENTICATION ATTACKS
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 6️⃣ Flaws in Session Management
 
----
+Session tokens must be:
 
-## 5️⃣ Authentication Mechanisms
+* Unpredictable
+* Unique
+* Properly expired
+* Bound to correct user
 
-### 🔹 Weak Password Policies
+Common flaws:
 
-* Short passwords
-* No rate limiting
-* No lockout
+* Session fixation
+* Predictable tokens
+* Token leakage in URLs
+* Missing HTTPOnly flag
+* Missing Secure flag
 
-### 🔹 Brute Force / Credential Stuffing
+Core principle:
 
-Mitigation requires:
-
-* Rate limiting
-* IP throttling
-* CAPTCHA (weak defense)
-* MFA"
+> Session management is equivalent to authentication."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
