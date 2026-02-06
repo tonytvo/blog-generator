@@ -8,26 +8,21 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 6️⃣ Flaws in Session Management
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 8️⃣ Business Logic Flaws
 
-Session tokens must be:
+These are the most dangerous because:
 
-* Unpredictable
-* Unique
-* Properly expired
-* Bound to correct user
+* They are not “technical bugs”
+* They are design errors
 
-Common flaws:
+Examples:
 
-* Session fixation
-* Predictable tokens
-* Token leakage in URLs
-* Missing HTTPOnly flag
-* Missing Secure flag
+* Skipping payment step
+* Applying discount multiple times
+* Negative quantity manipulation
+* Race condition in balance transfer
 
-Core principle:
-
-> Session management is equivalent to authentication."
+This is where advanced attackers focus."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

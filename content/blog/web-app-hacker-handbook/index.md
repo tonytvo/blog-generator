@@ -3156,6 +3156,1010 @@ Attackers target:
 
 ---
 
+# 🧠 AUTHORIZATION ATTACKS - Core Principle
+
+> **Authorization failures happen when systems trust identity without verifying entitlement.**
+
+Authentication answers:
+
+> “Who are you?”
+
+Authorization answers:
+
+> “What are you allowed to do?”
+
+If authentication fails → attacker becomes user.
+If authorization fails → attacker becomes **any user**.
+
+And in modern SaaS systems:
+
+> **Authorization is the real security boundary.**
+
+---
+
+## 7️⃣ Access Control Vulnerabilities (Deep Expansion)
+
+---
+
+### 🔹 Horizontal Privilege Escalation
+
+---
+
+#### 🧠 What It Really Means
+
+> **A user accesses resources belonging to another user at the same privilege level.**
+
+This is not about becoming admin.
+
+This is about breaking **object-level ownership rules**.
+
+Example scenario:
+
+* Two users
+* Same role
+* Different data
+
+If one can access the other’s data:
+
+You have a horizontal escalation.
+
+---
+
+#### 🧨 Classic Example
+
+```
+GET /account?id=124
+```
+
+User A has ID = 124.
+
+Attacker changes:
+
+```
+GET /account?id=125
+```
+
+If server does not check:
+
+```
+account.owner_id == session.user_id
+```
+
+Then attacker sees User B’s account.
+
+---
+
+#### 🧠 Why This Happens
+
+Developers often check:
+
+```
+if user.is_authenticated:
+    return account
+```
+
+Instead of:
+
+```
+if account.owner_id == user.id:
+    return account
+```
+
+They validate authentication.
+
+But forget ownership.
+
+---
+
+## 🔥 Modern Reality (2026)
+
+Most modern systems are:
+
+* API-based
+* Multi-tenant
+* Object-driven
+* Microservice-backed
+
+Endpoints look like:
+
+```
+GET /api/v1/users/482
+GET /api/v1/orders/991
+GET /api/v1/files/abc123
+```
+
+Attackers test:
+
+* Incrementing IDs
+* UUID guessing
+* Bulk enumeration
+* Predictable object keys
+
+Broken object-level authorization is the most common vulnerability today.
+
+---
+
+## 🧬 Example — Multi-Tenant SaaS
+
+Tenant A:
+
+```
+tenant_id = 100
+```
+
+Tenant B:
+
+```
+tenant_id = 200
+```
+
+API:
+
+```
+GET /api/invoices?tenant_id=100
+```
+
+Attacker changes:
+
+```
+tenant_id=200
+```
+
+If backend does not verify:
+
+```
+request.user.tenant_id == requested.tenant_id
+```
+
+Cross-tenant data breach.
+
+Catastrophic in B2B SaaS.
+
+---
+
+## 🔥 Advanced Horizontal Escalation Patterns
+
+---
+
+### 1️⃣ Bulk Object Enumeration
+
+API:
+
+```
+GET /api/users/{id}
+```
+
+Attacker loops:
+
+```
+id = 1 → 10,000
+```
+
+If some return 200 instead of 403:
+
+Mass data exfiltration.
+
+---
+
+### 2️⃣ Predictable UUIDs
+
+Developers think UUID protects against enumeration.
+
+But:
+
+* Some UUIDs are sequential.
+* Some are timestamp-based.
+* Some are exposed via other APIs.
+
+If attacker discovers pattern:
+
+Enumeration possible.
+
+Security must not rely on obscurity.
+
+---
+
+## 🔹 Vertical Privilege Escalation
+
+---
+
+### 🧠 What It Really Means
+
+> **A lower-privileged user gains higher privileges (e.g., user → admin).**
+
+This is more dangerous.
+
+Because it compromises the entire system.
+
+---
+
+### 🧨 Common Causes
+
+---
+
+#### ❌ Hidden Admin URLs
+
+Developers believe:
+
+> “If user cannot see the link, they cannot access the page.”
+
+Example:
+
+```
+/admin/dashboard
+```
+
+Frontend hides link unless:
+
+```
+role == admin
+```
+
+Attacker types URL manually.
+
+If backend doesn’t enforce role:
+
+Full admin access.
+
+---
+
+#### ❌ Client-Side Role Checks
+
+Example:
+
+```js
+if (user.role === 'admin') {
+   showAdminPanel();
+}
+```
+
+Attacker modifies request:
+
+```
+PUT /api/user/123
+{
+   "role": "admin"
+}
+```
+
+If server mass-assigns fields:
+
+Role escalated.
+
+---
+
+#### ❌ Missing Server-Side Validation
+
+Admin action endpoint:
+
+```
+POST /api/delete-user
+```
+
+Backend checks:
+
+```
+if authenticated:
+    delete user
+```
+
+Missing:
+
+```
+if user.role == admin:
+```
+
+Authentication ≠ Authorization.
+
+---
+
+#### 🔥 Example — Admin Flag Manipulation
+
+User update endpoint:
+
+```
+PUT /api/profile
+{
+   "email": "...",
+   "is_admin": false
+}
+```
+
+Attacker modifies:
+
+```
+"is_admin": true
+```
+
+If backend binds JSON directly to model:
+
+Privilege escalated.
+
+Root cause:
+
+> **Mass assignment vulnerability.**
+
+---
+
+### 🔹 Insecure Direct Object References (IDOR)
+
+---
+
+#### 🧠 What Is IDOR?
+
+> **When internal object identifiers are exposed and not protected by authorization checks.**
+
+This is the canonical form of horizontal escalation.
+
+---
+
+#### 🧨 Simple IDOR Example
+
+```
+GET /download?file_id=9234
+```
+
+Attacker changes:
+
+```
+file_id=9235
+```
+
+If no ownership check:
+
+File leaked.
+
+---
+
+#### 🧠 Deep Insight About IDOR
+
+IDOR is not about IDs.
+
+It’s about missing authorization.
+
+Even if ID is:
+
+* UUID
+* Hash
+* Random string
+
+If no authorization check exists:
+
+Still vulnerable.
+
+Security by obscurity is not security.
+
+---
+
+#### 🔥 Modern API IDOR (2026)
+
+GraphQL example:
+
+```
+query {
+   user(id: 123) {
+      email
+      salary
+   }
+}
+```
+
+If GraphQL resolver does not check:
+
+```
+if request.user.id == id
+```
+
+Data exposed.
+
+---
+
+#### 🧬 IDOR in File Storage Systems
+
+S3-style URLs:
+
+```
+https://bucket.s3.amazonaws.com/user_123_invoice.pdf
+```
+
+If bucket public:
+
+Anyone can access file.
+
+If access control missing:
+
+Mass data breach.
+
+---
+
+## 🔥 Broken Function-Level Authorization
+
+Another vertical pattern.
+
+Endpoint:
+
+```
+POST /api/admin/export-database
+```
+
+Frontend hides button.
+
+Backend does not check role.
+
+Attacker calls endpoint manually.
+
+Full database export.
+
+---
+
+## 🧠 Advanced Access Control Failures (2026)
+
+---
+
+### 🔄 Cross-Service Authorization Gaps
+
+Service A checks authorization.
+
+Service B assumes A checked.
+
+Attacker calls B directly.
+
+Authorization bypass.
+
+Distributed system risk:
+
+> **Implicit trust between services.**
+
+---
+
+### 🔄 Role Confusion
+
+JWT contains:
+
+```
+role: user
+```
+
+But backend interprets:
+
+```
+role: super_user
+```
+
+Or misreads claim.
+
+Inconsistent role naming causes privilege errors.
+
+---
+
+### 🔄 Incomplete Authorization Checks
+
+Endpoint:
+
+```
+GET /api/order/123
+```
+
+Backend checks:
+
+```
+if order.owner_id == user.id
+```
+
+But forgets:
+
+* Order contains payment info
+* Order contains internal notes
+
+Partial data leakage.
+
+---
+
+## 🧠 The Deepest Authorization Insight
+
+Most access control failures occur because:
+
+> **Developers enforce access at UI layer, not at data layer.**
+
+Correct design:
+
+* Authorization checks must occur:
+
+  * Before database query
+  * At data access layer
+  * In every service
+  * For every object
+
+Not just:
+
+* At controller
+* At frontend
+* At gateway
+
+---
+
+# 📘 8️⃣ Authorization attacks - Business Logic Flaws
+
+## 🧠 Core Principle
+
+> **Business logic flaws are violations of system invariants, not code crashes.**
+
+They are dangerous because:
+
+* No exception is thrown.
+* No SQL error appears.
+* No stack trace leaks.
+* No WAF triggers.
+
+The system behaves “normally.”
+
+But incorrectly.
+
+---
+
+## 🔥 Why Business Logic Flaws Are the Most Dangerous
+
+Because:
+
+> **They exploit the rules of the system, not the weaknesses of the implementation.**
+
+This makes them:
+
+* Hard to detect automatically
+* Hard to fuzz
+* Hard to scan
+* Hard to prevent without deep architectural thinking
+
+They require:
+
+* Understanding workflows
+* Understanding constraints
+* Understanding state transitions
+* Understanding incentives
+
+---
+
+## 🎯 The Deep Insight
+
+Every application encodes:
+
+* Economic rules
+* Identity rules
+* Trust rules
+* State rules
+* Sequence rules
+
+If those rules can be violated:
+
+You have a business logic vulnerability.
+
+---
+
+## 🔹 Why They Are Design Errors
+
+A technical bug might be:
+
+* Buffer overflow
+* SQL injection
+* XSS
+
+A business logic flaw is:
+
+> **A system that allows something that should never be allowed.**
+
+It’s not broken code.
+
+It’s broken design.
+
+---
+
+## 🧠 Business Invariants (Critical Concept)
+
+An invariant is:
+
+> **A rule that must always hold true for the system to be correct.**
+
+Examples:
+
+* Payment must precede shipping.
+* Balance must never go negative.
+* Discount can only apply once.
+* Transfer must be atomic.
+* User must not approve own expense.
+* Admin must not be created by regular user.
+
+If invariant can be violated:
+
+System integrity collapses.
+
+---
+
+## 🔥 Classic Examples (Deep Dive)
+
+---
+
+### 1️⃣ Skipping Payment Step
+
+Normal workflow:
+
+```
+Add to cart → Checkout → Payment → Confirm
+```
+
+System assumes:
+
+> “Confirmation only happens after payment.”
+
+Attacker calls:
+
+```
+POST /api/confirm-order
+```
+
+Directly.
+
+If confirm endpoint does not check:
+
+```
+order.status == PAID
+```
+
+Order marked confirmed.
+
+Inventory shipped.
+
+No payment.
+
+---
+
+#### Root Cause
+
+> **Server trusted workflow sequence instead of enforcing state validation.**
+
+UI flow ≠ security.
+
+---
+
+### 2️⃣ Applying Discount Multiple Times
+
+Coupon rule:
+
+> “One coupon per user.”
+
+Workflow:
+
+```
+POST /apply-coupon
+```
+
+Backend:
+
+* Applies discount
+* Marks coupon as used after checkout
+
+Attacker:
+
+* Sends 20 parallel requests
+* Before coupon marked used
+
+Coupon applied 20 times.
+
+---
+
+#### Root Cause
+
+> **Constraint enforced logically, not atomically.**
+
+No database-level uniqueness.
+
+No transaction lock.
+
+No idempotency.
+
+---
+
+### 3️⃣ Negative Quantity Manipulation
+
+Example:
+
+```
+POST /cart
+{
+   "product_id": 123,
+   "quantity": 5
+}
+```
+
+Attacker sends:
+
+```
+"quantity": -5
+```
+
+System calculates:
+
+```
+total -= 5 * price
+```
+
+Refund generated.
+
+Money extracted.
+
+---
+
+#### Why This Happens
+
+Developer validates:
+
+```
+if quantity < 100:
+```
+
+But forgets:
+
+```
+if quantity > 0:
+```
+
+Boundary conditions are logic flaws.
+
+---
+
+### 4️⃣ Race Condition in Balance Transfer
+
+Balance system:
+
+```
+Check balance
+If sufficient:
+    Deduct amount
+```
+
+Attacker sends:
+
+10 simultaneous transfer requests.
+
+All check:
+
+```
+balance = 100
+```
+
+All pass.
+
+All deduct.
+
+Balance becomes negative.
+
+---
+
+#### Root Cause
+
+> **Missing atomic transaction enforcement.**
+
+The system assumes:
+
+“Operations will not overlap.”
+
+Attackers exploit concurrency.
+
+---
+
+## 🧠 Advanced Business Logic Flaws (Modern 2026)
+
+---
+
+### 5️⃣ Multi-Tenant Data Confusion
+
+SaaS app:
+
+```
+POST /api/invite-user
+{
+   "tenant_id": 200,
+   "role": "admin"
+}
+```
+
+Attacker from tenant 100 changes:
+
+```
+tenant_id=200
+```
+
+Invites themselves to another tenant.
+
+Cross-tenant takeover.
+
+---
+
+### 6️⃣ Subscription Upgrade Abuse
+
+System rule:
+
+> “Premium features require payment.”
+
+Attacker calls:
+
+```
+POST /api/activate-premium
+```
+
+Directly.
+
+If backend does not validate subscription status:
+
+Premium unlocked.
+
+---
+
+### 7️⃣ Refund Abuse
+
+Refund endpoint:
+
+```
+POST /api/refund
+{
+   "order_id": 123
+}
+```
+
+Attacker:
+
+* Calls refund multiple times
+* System does not track refund status
+
+Double refund issued.
+
+---
+
+### 8️⃣ Approval Workflow Abuse
+
+Expense system:
+
+```
+Employee submits expense
+Manager approves
+Finance pays
+```
+
+If system allows:
+
+Employee sets:
+
+```
+approved=true
+```
+
+Approval bypassed.
+
+Root flaw:
+
+> **Role separation not enforced at transition.**
+
+---
+
+### 9️⃣ Time-Based Logic Flaws
+
+Discount valid until:
+
+```
+2026-01-01
+```
+
+Server validates using:
+
+* Client-sent timestamp
+
+Attacker manipulates:
+
+```
+timestamp=2025-12-31
+```
+
+Discount still applied.
+
+---
+
+### 🔟 AI-Assisted Business Logic Abuse (2026 Risk)
+
+AI system auto-approves:
+
+* Loan applications
+* Fraud detection
+* Refund validation
+
+Attacker manipulates input to:
+
+* Bypass AI checks
+* Trigger approval edge case
+
+Business logic increasingly automated = new attack surface.
+
+---
+
+### 🧠 Why Advanced Attackers Focus Here
+
+Because:
+
+> **Business logic flaws often have direct financial impact.**
+
+Unlike XSS:
+
+* Which might steal session
+
+Business logic flaws:
+
+* Steal money
+* Steal goods
+* Manipulate pricing
+* Exploit rewards
+* Abuse referral systems
+* Drain balances
+
+---
+
+## 🧠 Why Scanners Miss These
+
+Because scanners test:
+
+* Syntax
+* Injection payloads
+* Known signatures
+
+They do NOT test:
+
+* Economic invariants
+* Sequence enforcement
+* State consistency
+* Concurrency behavior
+* Incentive abuse
+
+Business logic flaws require human reasoning.
+
+---
+
+## 🎯 Mental Model for Finding Business Logic Flaws
+
+Ask:
+
+1. What must always be true?
+2. What must never happen?
+3. What transitions are allowed?
+4. Can steps be skipped?
+5. Can steps be replayed?
+6. Can values be negative?
+7. Can discount be reused?
+8. Can requests be parallelized?
+9. Can objects be cross-tenant accessed?
+10. Can sequence be reversed?
+
+---
+
+## 🔥 The Deepest Insight
+
+The most dangerous attackers do not attack code.
+
+They attack:
+
+> **The economic model of your system.**
+
+They think like:
+
+* Arbitrage traders
+* Fraud analysts
+* Incentive hackers
+* Game theorists
+
+They ask:
+
+> “Where does the system trust me to behave honestly?”
+
+And then they don’t.
+
+---
+
 # Quotes
 
 # References
