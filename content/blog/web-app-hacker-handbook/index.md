@@ -4160,6 +4160,549 @@ And then they don’t.
 
 ---
 
+# 🔥 9️⃣ INPUT-BASED ATTACKS - SQL Injection (SQLi) — Deep Expansion
+
+> **SQL injection occurs when user input crosses the code/data boundary inside the database interpreter.**
+
+
+---
+
+## 🧠 Core Principle
+
+> **SQL injection occurs when user-controlled input is interpreted as executable SQL code instead of data.**
+
+This is not “bad input.”
+
+It is:
+
+> **Code injection across a trust boundary.**
+
+The database is a powerful execution engine.
+If you let attackers influence its query structure:
+
+You have given them a programming interface.
+
+---
+
+## 🔎 Why SQLi Is So Powerful
+
+Because SQL can:
+
+* Read data
+* Modify data
+* Delete data
+* Create users
+* Grant privileges
+* Execute OS commands (in some DBs)
+* Pivot into infrastructure
+
+SQLi is often:
+
+> **Remote arbitrary database access.**
+
+And the database often holds:
+
+* Password hashes
+* API keys
+* Personal data
+* Financial data
+* Tokens
+
+---
+
+## 🧬 How SQL Injection Actually Happens
+
+---
+
+### ❌ Vulnerable Pattern
+
+```python
+query = "SELECT * FROM users WHERE username = '" + input + "'"
+```
+
+If input is:
+
+```
+admin' OR '1'='1
+```
+
+Final query becomes:
+
+```sql
+SELECT * FROM users WHERE username = 'admin' OR '1'='1'
+```
+
+Condition always true.
+
+Authentication bypass.
+
+---
+
+## 🔥 TYPES OF SQL INJECTION
+
+---
+
+### 🔹 1️⃣ Classic Injection (Error-Based)
+
+---
+
+#### 🧠 What It Is
+
+> **Direct manipulation of SQL query structure.**
+
+The attacker sees immediate response differences.
+
+---
+
+#### 🔥 Example: Authentication Bypass
+
+Original query:
+
+```sql
+SELECT * FROM users WHERE username = 'alice' AND password = 'password'
+```
+
+Attacker inputs:
+
+```
+' OR 1=1 --
+```
+
+Query becomes:
+
+```sql
+SELECT * FROM users WHERE username = '' OR 1=1 --' AND password = ''
+```
+
+Everything after `--` is comment.
+
+Login succeeds.
+
+---
+
+#### 🔥 Data Extraction Example
+
+Input:
+
+```
+' UNION SELECT username, password FROM users --
+```
+
+Now attacker retrieves password hashes.
+
+---
+
+#### 🔥 Why This Works
+
+Because:
+
+> **String concatenation allows attacker to escape intended query context.**
+
+They break out of:
+
+```
+'string'
+```
+
+And inject logic.
+
+---
+
+### 🔹 2️⃣ Blind SQL Injection
+
+This is more subtle.
+
+No error messages.
+No visible data.
+
+But still exploitable.
+
+---
+
+#### 🧠 Why “Blind”?
+
+Because:
+
+> **Application does not return SQL errors or query results directly.**
+
+Attacker must infer results indirectly.
+
+---
+
+#### 🔸 Boolean-Based Blind SQLi
+
+Attacker injects:
+
+```
+' AND 1=1 --
+```
+
+vs
+
+```
+' AND 1=2 --
+```
+
+If responses differ (e.g., login succeeds vs fails):
+
+Attacker can ask database yes/no questions.
+
+Example:
+
+```
+' AND SUBSTRING((SELECT password FROM users WHERE username='admin'),1,1)='a' --
+```
+
+If true:
+
+* Response differs.
+
+Attacker enumerates password one character at a time.
+
+---
+
+#### 🔸 Time-Based Blind SQLi
+
+Attacker injects:
+
+```
+' AND IF(1=1, SLEEP(5), 0) --
+```
+
+If response delayed:
+
+Condition is true.
+
+Now attacker extracts data by measuring time delays.
+
+This works even if:
+
+* No output
+* No error
+* No visible difference
+
+Only timing.
+
+---
+
+#### 🔥 Why Blind SQLi Is Dangerous
+
+Because developers often think:
+
+> “We hide error messages, so we’re safe.”
+
+Wrong.
+
+If attacker can detect any difference:
+
+* Boolean
+* Timing
+* Status code
+* Length
+* Content
+
+They can extract data.
+
+---
+
+### 🔹 3️⃣ Second-Order SQL Injection
+
+This is advanced.
+
+And frequently missed.
+
+---
+
+#### 🧠 What It Is
+
+> **Injection payload is stored in database first, then executed later in a different query.**
+
+Example:
+
+User sets display name to:
+
+```
+test'); DROP TABLE users; --
+```
+
+Application safely stores it.
+
+Later:
+
+Admin panel runs:
+
+```python
+query = "SELECT * FROM logs WHERE username = '" + stored_username + "'"
+```
+
+Now injection executes.
+
+Payload lay dormant.
+
+Executed in different context.
+
+---
+
+#### 🔥 Why Second-Order SQLi Is Hard
+
+Because:
+
+* Initial input appears harmless.
+* Vulnerability appears elsewhere.
+* Hard to trace input origin.
+* Security reviews often miss data flow.
+
+---
+
+## 🔥 Root Causes (Deep Dive)
+
+---
+
+### ❌ 1️⃣ Dynamic Query Concatenation
+
+The most common cause.
+
+Whenever code does:
+
+```python
+"... " + user_input + " ..."
+```
+
+You have risk.
+
+Even if input validated:
+
+Validation mistakes happen.
+
+---
+
+### ❌ 2️⃣ No Parameterized Queries
+
+Parameterized query:
+
+```python
+cursor.execute("SELECT * FROM users WHERE username = ?", (input,))
+```
+
+Database treats input as data.
+
+Never as SQL code.
+
+This is the gold standard.
+
+---
+
+### ❌ 3️⃣ ORM Misuse
+
+Developers assume ORM protects them.
+
+But:
+
+```python
+User.objects.raw("SELECT * FROM users WHERE id=" + input)
+```
+
+Still vulnerable.
+
+Even:
+
+```python
+filter("id=" + input)
+```
+
+Unsafe.
+
+ORM protects only when used properly.
+
+---
+
+### ❌ 4️⃣ Dynamic ORDER BY / LIMIT Injection
+
+Example:
+
+```python
+query = "SELECT * FROM users ORDER BY " + sort_param
+```
+
+Attacker injects:
+
+```
+sort_param = "username; DROP TABLE users"
+```
+
+Non-parameterized clauses are vulnerable.
+
+---
+
+### ❌ 5️⃣ Stored Procedure Misuse
+
+Stored procedure:
+
+```sql
+EXEC sp_executesql @query
+```
+
+If @query contains user input:
+
+Still injection.
+
+Stored procedures are not automatically safe.
+
+---
+
+## 🧠 Mitigation Strategies (Deep Expansion)
+
+---
+
+### 🔐 1️⃣ Parameterized Queries (Primary Defense)
+
+This ensures:
+
+> **The database never parses user input as executable code.**
+
+This eliminates structural injection.
+
+---
+
+### 🔐 2️⃣ Stored Procedures (Carefully Used)
+
+Safe only if:
+
+* No dynamic SQL inside
+* Parameters bound properly
+
+Unsafe if:
+
+* Concatenate inside procedure
+
+---
+
+### 🔐 3️⃣ Least Privilege Database Accounts
+
+Critical but often ignored.
+
+Database account used by app should:
+
+* Not be root
+* Not have DROP TABLE
+* Not have CREATE USER
+* Not have OS execution rights
+
+Even if injection happens:
+
+Damage limited.
+
+---
+
+### 🔐 4️⃣ Input Validation (Secondary Defense)
+
+Input validation is:
+
+* Helpful
+* Not sufficient
+
+Example:
+
+If expecting numeric ID:
+
+Reject non-numeric input.
+
+But validation alone is fragile.
+
+Parameterized queries are mandatory.
+
+---
+
+## 🔥 Modern 2026 SQLi Variants
+
+---
+
+### 🔸 JSON SQL Injection
+
+Modern DB:
+
+```sql
+SELECT * FROM users WHERE data->>'email' = '" + input + "'
+```
+
+If dynamic:
+
+Injection possible in JSON query.
+
+---
+
+### 🔸 NoSQL Injection
+
+MongoDB example:
+
+```js
+db.users.find({ username: input })
+```
+
+If input is:
+
+```
+{ "$ne": null }
+```
+
+Query becomes:
+
+Match all users.
+
+NoSQL injection is logic injection.
+
+---
+
+### 🔸 GraphQL to SQL Backends
+
+GraphQL resolver:
+
+```js
+const query = `SELECT * FROM users WHERE id=${args.id}`;
+```
+
+GraphQL input not parameterized.
+
+SQLi possible.
+
+---
+
+## 🔥 Real-World Breach Chain
+
+1. SQL injection discovered.
+2. Dump users table.
+3. Extract password hashes.
+4. Crack weak passwords.
+5. Credential stuffing across ecosystem.
+6. Admin account takeover.
+7. Full data breach.
+
+Root cause:
+
+> **Dynamic query construction with insufficient privilege isolation.**
+
+---
+
+## 🧠 The Deepest SQLi Insight
+
+SQL injection is not about quotes.
+
+It is about:
+
+> **Breaking the separation between code and data.**
+
+Whenever input crosses into interpreter context:
+
+* SQL
+* NoSQL
+* Shell
+* LDAP
+* XPath
+
+Injection risk exists.
+
+---
+
 # Quotes
 
 # References

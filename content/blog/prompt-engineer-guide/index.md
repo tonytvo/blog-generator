@@ -8,21 +8,51 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 8️⃣ Business Logic Flaws
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART V — INPUT-BASED ATTACKS
 
-These are the most dangerous because:
+This is the technical core.
 
-* They are not “technical bugs”
-* They are design errors
+---
 
-Examples:
+# 🔥 9️⃣ SQL Injection (SQLi)
 
-* Skipping payment step
-* Applying discount multiple times
-* Negative quantity manipulation
-* Race condition in balance transfer
+---
 
-This is where advanced attackers focus."
+## Types
+
+### 🔹 Classic Injection
+
+```
+' OR 1=1 --
+```
+
+### 🔹 Blind SQLi
+
+* Boolean-based
+* Time-based
+
+### 🔹 Second-Order SQLi
+
+Payload stored and later executed.
+
+---
+
+## Root Causes
+
+* Dynamic query concatenation
+* No parameterized queries
+* ORM misuse
+
+---
+
+## Mitigation
+
+* Parameterized queries
+* Stored procedures (carefully)
+* Least privilege DB accounts
+* Input validation (secondary defense)
+
+---"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
