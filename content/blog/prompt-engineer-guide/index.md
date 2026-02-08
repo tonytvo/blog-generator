@@ -8,51 +8,50 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART V — INPUT-BASED ATTACKS
-
-This is the technical core.
-
----
-
-# 🔥 9️⃣ SQL Injection (SQLi)
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 🔥 🔟 Cross-Site Scripting (XSS)
 
 ---
 
 ## Types
 
-### 🔹 Classic Injection
+### 🔹 Reflected XSS
 
-```
-' OR 1=1 --
-```
+Payload in request → immediate reflection
 
-### 🔹 Blind SQLi
+### 🔹 Stored XSS
 
-* Boolean-based
-* Time-based
+Payload stored → served to victims
 
-### 🔹 Second-Order SQLi
+### 🔹 DOM-based XSS
 
-Payload stored and later executed.
+Client-side JS manipulation
 
 ---
 
-## Root Causes
+## Impact
 
-* Dynamic query concatenation
-* No parameterized queries
-* ORM misuse
+* Session theft
+* CSRF token theft
+* Keylogging
+* Phishing
+* Browser exploitation
 
 ---
 
-## Mitigation
+## Root Cause
 
-* Parameterized queries
-* Stored procedures (carefully)
-* Least privilege DB accounts
-* Input validation (secondary defense)
+Improper output encoding.
 
----"
+Golden rule:
+
+> Escape output, not input.
+
+Context matters:
+
+* HTML context
+* Attribute context
+* JavaScript context
+* URL context"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
