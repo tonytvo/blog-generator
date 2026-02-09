@@ -8,50 +8,38 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 🔥 🔟 Cross-Site Scripting (XSS)
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 🔥 1️⃣1️⃣ Cross-Site Request Forgery (CSRF)
+
+Attack:
+
+* Trick victim browser to send authenticated request
+
+Defense:
+
+* CSRF tokens
+* SameSite cookies
+* Re-authentication for sensitive actions
 
 ---
 
-## Types
+# 🔥 1️⃣2️⃣ Command Injection
 
-### 🔹 Reflected XSS
+Occurs when:
 
-Payload in request → immediate reflection
+* User input flows into shell commands
 
-### 🔹 Stored XSS
+Example:
 
-Payload stored → served to victims
+```
+ping $user_input
+```
 
-### 🔹 DOM-based XSS
+Mitigation:
 
-Client-side JS manipulation
-
----
-
-## Impact
-
-* Session theft
-* CSRF token theft
-* Keylogging
-* Phishing
-* Browser exploitation
-
----
-
-## Root Cause
-
-Improper output encoding.
-
-Golden rule:
-
-> Escape output, not input.
-
-Context matters:
-
-* HTML context
-* Attribute context
-* JavaScript context
-* URL context"
+* Avoid shell
+* Use safe APIs
+* Whitelisting
+* Least privilege"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
