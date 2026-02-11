@@ -8,38 +8,40 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 🔥 1️⃣1️⃣ Cross-Site Request Forgery (CSRF)
-
-Attack:
-
-* Trick victim browser to send authenticated request
-
-Defense:
-
-* CSRF tokens
-* SameSite cookies
-* Re-authentication for sensitive actions
-
----
-
-# 🔥 1️⃣2️⃣ Command Injection
-
-Occurs when:
-
-* User input flows into shell commands
-
-Example:
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 🔥 1️⃣3️⃣ File Path Traversal
 
 ```
-ping $user_input
+../../etc/passwd
 ```
+
+Root cause:
+
+* Unsanitized file paths
 
 Mitigation:
 
-* Avoid shell
-* Use safe APIs
-* Whitelisting
-* Least privilege"
+* Canonicalize paths
+* Use safe file APIs
+* Restrict to safe directories
+
+---
+
+# 🔥 1️⃣4️⃣ File Upload Vulnerabilities
+
+Attackers upload:
+
+* Web shells
+* Malicious scripts
+* Polyglot files
+* Executable content disguised as images
+
+Mitigation:
+
+* Content-type validation
+* File extension validation
+* Store outside web root
+* Rename files
+* Virus scanning"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

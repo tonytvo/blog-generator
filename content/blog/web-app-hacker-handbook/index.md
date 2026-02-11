@@ -5841,6 +5841,585 @@ Do not expose it to user data.
 
 ---
 
+# 🔥 1️⃣3️⃣ File Path Traversal (Directory Traversal)
+
+---
+
+## 🧠 Core Principle
+
+> **Path traversal occurs when user input controls file system paths without proper restriction.**
+> **Path traversal exploits insufficient containment of user-controlled file paths, allowing escape from intended directories.**
+
+
+The attacker manipulates:
+
+* Relative paths
+* Directory navigation sequences
+* Encoding tricks
+* Symbolic links
+
+To escape the intended directory.
+
+---
+
+## 🔍 Classic Example
+
+Application code:
+
+```python
+filename = request.GET["file"]
+open("/var/www/files/" + filename)
+```
+
+Attacker sends:
+
+```
+file=../../etc/passwd
+```
+
+Server tries to open:
+
+```
+/var/www/files/../../etc/passwd
+```
+
+Which resolves to:
+
+```
+/etc/passwd
+```
+
+Sensitive file disclosed.
+
+---
+
+## 🧠 Why This Works
+
+Because:
+
+> **The operating system resolves `../` before your application logic enforces boundaries.**
+
+The filesystem does not care about your intended base directory.
+
+---
+
+## 🔥 Impact of Path Traversal
+
+Attackers can read:
+
+* `/etc/passwd`
+* Application config files
+* `.env` files
+* Database credentials
+* Cloud metadata credentials
+* SSH keys
+* API secrets
+* Source code
+
+Often leading to:
+
+> **Full system compromise.**
+
+---
+
+## 🔥 Advanced Traversal Techniques
+
+Attackers don’t just use `../`.
+
+They use:
+
+---
+
+### 🔹 Encoded Traversal
+
+```
+..%2f..%2fetc%2fpasswd
+```
+
+URL-encoded slashes.
+
+Or double encoding:
+
+```
+..%252f..%252fetc%252fpasswd
+```
+
+If server decodes twice:
+
+Bypass filters.
+
+---
+
+### 🔹 Mixed Slash Variants
+
+On Windows:
+
+```
+..\..\windows\system32\config\SAM
+```
+
+Mixed slashes:
+
+```
+..\\..\\
+```
+
+---
+
+### 🔹 Null Byte Injection (Legacy)
+
+Older systems:
+
+```
+file=../../etc/passwd%00.jpg
+```
+
+Null byte terminates string in C-based systems.
+
+---
+
+### 🔹 Absolute Path Override
+
+If app does:
+
+```python
+open(user_input)
+```
+
+Attacker supplies:
+
+```
+/etc/passwd
+```
+
+No traversal needed.
+
+---
+
+## 🔥 Modern Cloud Impact (2026)
+
+Path traversal can expose:
+
+* `/var/run/secrets/kubernetes.io/serviceaccount/token`
+* AWS credentials in metadata
+* Internal service configs
+* Mounted secret volumes
+
+One file read → cloud pivot.
+
+---
+
+## 🛡️ Mitigation Strategies (Deep Dive)
+
+---
+
+### 🔐 1️⃣ Canonicalize Paths
+
+> **Resolve the real path before checking authorization.**
+
+Example:
+
+```python
+real_path = os.path.realpath(base_dir + filename)
+if not real_path.startswith(base_dir):
+    deny()
+```
+
+Always validate after canonicalization.
+
+---
+
+### 🔐 2️⃣ Use Safe File APIs
+
+Instead of:
+
+```python
+open(base_dir + filename)
+```
+
+Use libraries that:
+
+* Restrict to specific directory
+* Abstract file access
+* Enforce sandboxing
+
+---
+
+### 🔐 3️⃣ Restrict to Safe Directories
+
+Never allow:
+
+* User-controlled full paths
+* User-controlled directory traversal
+* Direct filesystem mapping
+
+Whitelist file IDs instead of file names.
+
+Example:
+
+```
+/download?file_id=123
+```
+
+Map ID → safe file path internally.
+
+---
+
+### 🔐 4️⃣ Least Privilege
+
+Even if traversal occurs:
+
+Application user should not have access to:
+
+* System config
+* SSH keys
+* Sensitive directories
+
+---
+
+### 🧠 Deep Insight
+
+Path traversal is not about `../`.
+
+It is about:
+
+> **Allowing user input to influence filesystem resolution without strict containment.**
+
+---
+
+# 🔥 1️⃣4️⃣ File Upload Vulnerabilities
+
+---
+
+## 🧠 Core Principle
+
+> **File upload vulnerabilities occur when user-supplied files are stored or processed without proper validation and isolation.**
+> **File upload vulnerabilities arise when untrusted files are stored or processed without strict validation, isolation, and execution controls.**
+
+
+Uploading a file is not just storage.
+
+It is:
+
+* Executable content introduction
+* Code injection opportunity
+* Server-side processing trigger
+* Persistence mechanism
+
+---
+
+## 🔥 Why File Uploads Are Extremely Dangerous
+
+Because they often lead to:
+
+* Remote Code Execution (RCE)
+* Persistent backdoors
+* Malware hosting
+* Data exfiltration
+* Stored XSS
+* Internal network pivot
+
+---
+
+## 🔥 Common Attack Types
+
+---
+
+### 🔹 1️⃣ Web Shell Upload
+
+Attacker uploads:
+
+```
+shell.php
+```
+
+Containing:
+
+```php
+<?php system($_GET['cmd']); ?>
+```
+
+If uploaded into web-accessible directory:
+
+```
+https://example.com/uploads/shell.php?cmd=whoami
+```
+
+Remote command execution.
+
+Game over.
+
+---
+
+### 🔹 2️⃣ Malicious Script Disguised as Image
+
+Attacker renames:
+
+```
+shell.php → image.jpg
+```
+
+If server checks only extension:
+
+Upload allowed.
+
+If server executes based on content:
+
+RCE.
+
+---
+
+### 🔹 3️⃣ Polyglot Files
+
+File valid as:
+
+* Image
+* And PHP script
+
+Example:
+
+Valid JPEG header + embedded PHP code.
+
+Server thinks:
+
+“It’s an image.”
+
+Interpreter sees:
+
+“It’s executable.”
+
+---
+
+### 🔹 4️⃣ Content-Type Spoofing
+
+Request header:
+
+```
+Content-Type: image/jpeg
+```
+
+Actual file:
+
+```
+<?php ... ?>
+```
+
+If server trusts header:
+
+Bypass validation.
+
+---
+
+### 🔹 5️⃣ SVG-Based XSS
+
+SVG files can contain:
+
+```xml
+<script>alert(1)</script>
+```
+
+If served inline:
+
+Stored XSS.
+
+---
+
+### 🔹 6️⃣ Zip Slip (Archive Extraction)
+
+Server extracts uploaded ZIP:
+
+ZIP contains:
+
+```
+../../../../etc/passwd
+```
+
+Extraction writes outside intended directory.
+
+Path traversal via archive.
+
+---
+
+### 🔹 7️⃣ File Size Abuse
+
+Upload massive file:
+
+* Disk exhaustion
+* Denial of service
+* Memory exhaustion
+
+---
+
+### 🔹 8️⃣ Image Processing Exploits
+
+Server processes image via:
+
+```
+ImageMagick
+```
+
+ImageMagick vulnerabilities allow:
+
+* Command injection
+* Remote code execution
+
+File upload → image parsing → system compromise.
+
+---
+
+## 🔥 Advanced 2026 Cloud Impact
+
+Uploaded file stored in:
+
+* S3 bucket
+* Cloud storage
+
+If bucket misconfigured:
+
+Public access.
+
+Or:
+
+File served via CDN without sanitization.
+
+Stored XSS at scale.
+
+---
+
+## 🛡️ Mitigation Strategies (Deep Dive)
+
+---
+
+### 🔐 1️⃣ Content-Type Validation (But Not Alone)
+
+Validate:
+
+* MIME type
+* Magic number (file signature)
+
+Do not trust:
+
+* File extension
+* Content-Type header
+
+---
+
+### 🔐 2️⃣ File Extension Validation
+
+Whitelist allowed extensions:
+
+* `.jpg`
+* `.png`
+* `.pdf`
+
+Block dangerous:
+
+* `.php`
+* `.jsp`
+* `.exe`
+* `.sh`
+* `.bat`
+
+But extension check alone is insufficient.
+
+---
+
+### 🔐 3️⃣ Store Outside Web Root
+
+Critical:
+
+> **Uploaded files must never be directly executable.**
+
+Store in:
+
+```
+/var/data/uploads/
+```
+
+Not:
+
+```
+/var/www/html/uploads/
+```
+
+Serve via controlled download endpoint.
+
+---
+
+### 🔐 4️⃣ Rename Files
+
+Never use user-supplied filename.
+
+Generate:
+
+```
+random_uuid.jpg
+```
+
+Avoid path injection via filename.
+
+---
+
+### 🔐 5️⃣ Disable Execution in Upload Directory
+
+Web server config:
+
+```
+php_admin_flag engine off
+```
+
+Prevent execution of scripts.
+
+---
+
+### 🔐 6️⃣ Virus / Malware Scanning
+
+Use:
+
+* ClamAV
+* Commercial scanners
+* Cloud malware scanning
+
+Especially for enterprise apps.
+
+---
+
+### 🔐 7️⃣ Size Limits
+
+Enforce:
+
+* Maximum file size
+* Memory usage caps
+* Streaming uploads
+
+Prevent DoS.
+
+---
+
+### 🔐 8️⃣ Sandboxed Processing
+
+If processing files:
+
+* Use isolated container
+* Drop privileges
+* Use seccomp profiles
+* Use read-only mounts
+
+---
+
+## 🧠 Deep Insight
+
+File upload vulnerabilities are dangerous because:
+
+> **They allow attackers to introduce new executable artifacts into your system.**
+
+Once attacker controls file system content:
+
+System integrity collapses.
+
+---
+
+
 # Quotes
 
 # References
