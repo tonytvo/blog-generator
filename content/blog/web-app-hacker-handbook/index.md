@@ -6419,6 +6419,581 @@ System integrity collapses.
 
 ---
 
+# 🔥 1️⃣6️⃣ ADVANCED ATTACKS - Server-Side Request Forgery (SSRF)
+
+> **SSRF turns your backend into a privileged network client controlled by attacker input.**
+
+---
+
+## 🧠 Core Principle
+
+> **SSRF occurs when an application makes outbound requests based on user-controlled input.**
+
+The server becomes:
+
+> **An unwilling network client controlled by the attacker.**
+
+Instead of attacking directly, the attacker says:
+
+“Hey server, go fetch this for me.”
+
+And the server does it.
+
+---
+
+## 🔍 Why SSRF Is Extremely Dangerous
+
+Because servers often have:
+
+* Access to internal services
+* Access to private networks
+* Access to cloud metadata endpoints
+* Higher trust than external users
+* Network routes unavailable to attackers
+
+SSRF turns your backend into:
+
+> **A privileged proxy inside your internal network.**
+
+---
+
+## 🎯 Basic SSRF Example
+
+Application:
+
+```
+POST /fetch-preview
+{
+  "url": "https://example.com"
+}
+```
+
+Server does:
+
+```python
+requests.get(user_supplied_url)
+```
+
+Attacker supplies:
+
+```
+http://localhost:8080/admin
+```
+
+Server fetches internal admin endpoint.
+
+Attacker reads response.
+
+Internal access exposed.
+
+---
+
+## 🔥 Types of SSRF Exploitation
+
+---
+
+### 🔹 1️⃣ Internal Service Access
+
+Target:
+
+```
+http://127.0.0.1:5000
+http://localhost:8080
+http://internal-api:9000
+```
+
+If internal services assume:
+
+> “Only internal network can access us.”
+
+SSRF breaks that assumption.
+
+---
+
+### 🔹 2️⃣ Cloud Metadata Access (Critical in 2026)
+
+In AWS:
+
+```
+http://169.254.169.254/latest/meta-data/
+```
+
+This endpoint exposes:
+
+* IAM role credentials
+* Temporary access tokens
+* Instance identity
+
+If attacker can make server request metadata endpoint:
+
+They extract:
+
+> **Cloud credentials.**
+
+From there:
+
+* Access S3
+* Access databases
+* Access other services
+* Escalate privileges
+
+This is one of the most common cloud breach paths.
+
+---
+
+### 🔹 3️⃣ Port Scanning via SSRF
+
+Attacker tests:
+
+```
+http://localhost:22
+http://localhost:6379
+http://localhost:3306
+```
+
+If response times differ:
+
+Attacker maps internal ports.
+
+SSRF becomes:
+
+> **Internal reconnaissance tool.**
+
+---
+
+### 🔹 4️⃣ Bypassing Firewalls
+
+Firewall blocks external access to:
+
+```
+internal-admin.company.local
+```
+
+But backend server can access it.
+
+Attacker uses SSRF to reach it.
+
+---
+
+### 🔹 5️⃣ SSRF → Remote Code Execution Chain
+
+Example chain:
+
+1. SSRF allows access to internal admin API.
+2. Admin API allows configuration changes.
+3. Attacker uploads malicious config.
+4. Server executes attacker-controlled command.
+
+SSRF often first step in larger kill chain.
+
+---
+
+## 🔥 Advanced SSRF Evasion Techniques
+
+Attackers bypass naive filters using:
+
+---
+
+### 🔹 DNS Rebinding
+
+Application checks:
+
+```
+if hostname not in blacklist
+```
+
+Attacker:
+
+1. Uses attacker.com
+2. DNS resolves to safe IP during validation
+3. Later resolves to internal IP
+4. Server fetches internal resource
+
+---
+
+### 🔹 IPv6 Encoding
+
+Instead of:
+
+```
+127.0.0.1
+```
+
+Use:
+
+```
+[::1]
+```
+
+Or:
+
+```
+2130706433
+```
+
+(Decimal representation of 127.0.0.1)
+
+Bypass IP filters.
+
+---
+
+### 🔹 URL Obfuscation
+
+```
+http://127.0.0.1@evil.com
+```
+
+Confuses poorly written validators.
+
+---
+
+### 🔹 Redirect Chaining
+
+Server fetches:
+
+```
+http://safe-site.com
+```
+
+Safe site responds:
+
+```
+302 → http://localhost/admin
+```
+
+If server follows redirects:
+
+Internal request made.
+
+---
+
+## 🛡️ SSRF Mitigation (Deep Dive)
+
+---
+
+### 🔐 1️⃣ Whitelist Allowed Hosts (Best Approach)
+
+Instead of blocking bad:
+
+> **Explicitly allow only known safe domains.**
+
+Example:
+
+Allow only:
+
+```
+api.twitter.com
+api.github.com
+```
+
+Block everything else.
+
+---
+
+### 🔐 2️⃣ Block Internal IP Ranges
+
+Deny:
+
+* 127.0.0.0/8
+* 10.0.0.0/8
+* 172.16.0.0/12
+* 192.168.0.0/16
+* 169.254.169.254
+
+Also block IPv6 equivalents.
+
+But IP blocking alone is insufficient (DNS tricks exist).
+
+---
+
+### 🔐 3️⃣ Disable Automatic Redirects
+
+Do not follow:
+
+```
+3xx responses
+```
+
+Unless strictly required.
+
+---
+
+### 🔐 4️⃣ Network Egress Controls (Most Powerful Defense)
+
+At infrastructure level:
+
+* Deny outbound traffic to internal services.
+* Restrict container network access.
+* Block metadata endpoints.
+* Use IMDSv2 (AWS).
+* Use firewall rules.
+
+SSRF becomes harmless if:
+
+> **The server cannot reach sensitive targets.**
+
+---
+
+### 🔐 5️⃣ Isolate Fetching Service
+
+If you must fetch URLs:
+
+* Use isolated microservice
+* Sandbox it
+* Limit permissions
+* No cloud credentials
+* No internal network access
+
+---
+
+## 🧠 Deep Insight
+
+SSRF is not “URL injection.”
+
+It is:
+
+> **Exposing your internal network topology to attacker-controlled routing.**
+
+---
+
+# 🔥 1️⃣7️⃣ Race Conditions
+
+> **Race conditions exploit timing gaps in non-atomic operations, allowing invariant violations through concurrency.**
+
+---
+
+## 🧠 Core Principle
+
+> **Race conditions occur when system behavior depends on timing between concurrent operations.**
+
+Attackers exploit:
+
+* Parallel execution
+* Non-atomic operations
+* Shared mutable state
+* Inconsistent transaction handling
+
+These are logic flaws amplified by concurrency.
+
+---
+
+## 🔍 Why Race Conditions Are Dangerous
+
+Because systems assume:
+
+> “These two operations won’t happen simultaneously.”
+
+Attackers ensure:
+
+They do.
+
+---
+
+## 🔥 Classic Example — Double Withdrawal
+
+Balance: $100
+
+Code:
+
+```
+if balance >= 100:
+    balance -= 100
+```
+
+Attacker sends:
+
+Two requests simultaneously.
+
+Both check:
+
+```
+balance >= 100
+```
+
+Both pass.
+
+Balance becomes:
+
+```
+-100
+```
+
+---
+
+## 🔥 Double Coupon Use
+
+Coupon rule:
+
+“Only one use per user.”
+
+Attacker sends:
+
+10 parallel requests.
+
+If system:
+
+* Checks coupon unused
+* Applies discount
+* Then marks used
+
+Without locking:
+
+All succeed.
+
+---
+
+## 🔥 TOCTOU (Time Of Check To Time Of Use)
+
+Flow:
+
+1. Check if file exists.
+2. Later open file.
+
+Attacker swaps file between check and use.
+
+System uses malicious file.
+
+This class of bug is subtle.
+
+---
+
+## 🔥 Advanced Race Patterns
+
+---
+
+### 🔹 1️⃣ Double Spending in Crypto
+
+Two transactions submitted simultaneously.
+
+Both validated before state updated.
+
+Funds spent twice.
+
+---
+
+### 🔹 2️⃣ Multi-Step Workflow Race
+
+Example:
+
+```
+Step 1: Reserve inventory
+Step 2: Confirm order
+```
+
+Attacker sends confirmation before reservation finalized.
+
+Inconsistent state.
+
+---
+
+### 🔹 3️⃣ Login Rate-Limit Race
+
+Rate limit:
+
+```
+if attempts < 5:
+    attempts++
+```
+
+Parallel login attempts:
+
+All check attempts < 5 before increment.
+
+Bypass lockout.
+
+---
+
+## 🛡️ Mitigation (Deep Dive)
+
+---
+
+### 🔐 1️⃣ Atomic Transactions
+
+Use database-level atomicity:
+
+```
+BEGIN TRANSACTION
+UPDATE accounts
+SET balance = balance - 100
+WHERE id=1 AND balance >= 100
+COMMIT
+```
+
+Single statement prevents race.
+
+---
+
+### 🔐 2️⃣ Database Constraints
+
+Use:
+
+* UNIQUE constraints
+* CHECK constraints
+* NOT NULL
+* Foreign keys
+
+Even if application logic fails:
+
+Database enforces invariants.
+
+---
+
+### 🔐 3️⃣ Locking Mechanisms
+
+Use:
+
+* Row-level locks
+* Optimistic locking
+* Version fields
+* Advisory locks
+
+Prevent concurrent mutation.
+
+---
+
+### 🔐 4️⃣ Idempotency Keys
+
+For financial transactions:
+
+Require:
+
+```
+Idempotency-Key: unique_id
+```
+
+If duplicate request:
+
+Return same result.
+
+Do not process twice.
+
+---
+
+### 🔐 5️⃣ Distributed Locking (Modern Microservices)
+
+In distributed systems:
+
+* Use Redis locks carefully
+* Use consistent locking strategy
+* Avoid naive locking patterns
+
+---
+
+## 🧠 Deep Insight
+
+Race conditions are not “bugs.”
+
+They are:
+
+> **Incorrect assumptions about execution order in concurrent systems.**
+
+Attackers exploit timing.
+
+They do not change input.
+
+They change *when* input arrives.
+
+---
 
 # Quotes
 

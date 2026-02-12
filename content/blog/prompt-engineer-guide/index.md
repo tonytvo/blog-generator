@@ -8,40 +8,35 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 🔥 1️⃣3️⃣ File Path Traversal
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 1️⃣8️⃣ Web Services & APIs
 
-```
-../../etc/passwd
-```
+Includes:
 
-Root cause:
+* REST APIs
+* SOAP
+* JSON endpoints
 
-* Unsanitized file paths
+Common issues:
 
-Mitigation:
-
-* Canonicalize paths
-* Use safe file APIs
-* Restrict to safe directories
+* Broken object-level authorization
+* Mass assignment
+* Excessive data exposure
 
 ---
 
-# 🔥 1️⃣4️⃣ File Upload Vulnerabilities
+## 1️⃣9️⃣ Cryptographic Failures
 
-Attackers upload:
+Common mistakes:
 
-* Web shells
-* Malicious scripts
-* Polyglot files
-* Executable content disguised as images
+* Home-grown crypto
+* Weak hashing
+* No salting
+* ECB mode
+* Hardcoded keys
 
-Mitigation:
+Principle:
 
-* Content-type validation
-* File extension validation
-* Store outside web root
-* Rename files
-* Virus scanning"
+> Never implement crypto yourself."
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
