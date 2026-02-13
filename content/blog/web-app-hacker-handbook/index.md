@@ -6995,6 +6995,674 @@ They change *when* input arrives.
 
 ---
 
+# 📘 1️⃣8️⃣ Web Services & APIs (Deep Expansion)
+
+> **API vulnerabilities occur when direct object access is exposed without strict, per-object authorization and field-level control.**
+
+---
+
+## 🧠 Core Principle
+
+> **APIs expose your business logic directly — without the protective illusion of a UI.**
+
+Unlike traditional web apps:
+
+* APIs expose raw data
+* APIs expose object IDs
+* APIs expose state transitions
+* APIs expose business operations
+
+And attackers love APIs because:
+
+> **APIs are predictable, structured, and automatable.**
+
+---
+
+## 🔎 What We Mean by “Web Services & APIs”
+
+Includes:
+
+* REST APIs (`/api/v1/users/123`)
+* SOAP services (XML-based)
+* JSON endpoints
+* GraphQL APIs
+* gRPC endpoints
+* Internal microservice APIs
+
+In modern architecture:
+
+> **The API is the product.**
+
+And therefore:
+
+The API is the primary attack surface.
+
+---
+
+## 🔥 Common API Vulnerabilities (Deep Dive)
+
+---
+
+### 🔹 1️⃣ Broken Object-Level Authorization (BOLA)
+
+This is the most common API vulnerability today.
+
+Also known as:
+
+> **IDOR in APIs.**
+
+---
+
+#### 🧠 What It Is
+
+> **API allows access to objects without verifying ownership.**
+
+Example:
+
+```
+GET /api/v1/users/482
+```
+
+If server checks only:
+
+```
+if authenticated:
+```
+
+Instead of:
+
+```
+if user.id == 482:
+```
+
+Attacker enumerates:
+
+```
+/users/1
+/users/2
+/users/3
+...
+```
+
+Mass data breach.
+
+---
+
+#### 🔥 Why APIs Amplify This
+
+Because APIs are:
+
+* Machine-readable
+* Predictable
+* Scriptable
+* Often lack UI constraints
+
+Attackers can:
+
+* Write automated scripts
+* Enumerate thousands of IDs
+* Extract entire databases
+
+---
+
+### 🔹 2️⃣ Mass Assignment
+
+---
+
+#### 🧠 What It Is
+
+> **API automatically binds user-supplied JSON fields to internal model attributes.**
+
+Example:
+
+```
+PUT /api/profile
+{
+   "email": "user@example.com",
+   "is_admin": true
+}
+```
+
+If backend:
+
+```python
+user.update(request.json)
+```
+
+And model includes `is_admin` field…
+
+User escalates privileges.
+
+---
+
+#### 🔥 Why This Happens
+
+Developers trust:
+
+* Framework model binding
+* Default serializers
+* Automatic deserialization
+
+Without explicitly controlling:
+
+* Allowed fields
+* Restricted attributes
+
+---
+
+#### 🔥 Real-World Pattern
+
+Attacker inspects API response:
+
+```
+{
+   "id": 123,
+   "email": "...",
+   "role": "user",
+   "is_verified": false
+}
+```
+
+Attacker tries:
+
+```
+PATCH /api/users/123
+{
+   "is_verified": true
+}
+```
+
+If no whitelist:
+
+Verification bypassed.
+
+---
+
+### 🔹 3️⃣ Excessive Data Exposure
+
+---
+
+#### 🧠 What It Is
+
+> **API returns more data than the client actually needs.**
+
+Example:
+
+```
+GET /api/user/123
+```
+
+Response:
+
+```
+{
+   "id": 123,
+   "email": "...",
+   "password_hash": "...",
+   "ssn": "...",
+   "internal_notes": "...",
+   "api_keys": [...]
+}
+```
+
+Frontend hides sensitive fields.
+
+But API returns them.
+
+Attackers intercept traffic.
+
+Data exposed.
+
+---
+
+#### 🔥 Why This Is Common
+
+Backend teams assume:
+
+“Frontend will only display what is needed.”
+
+But:
+
+> Attackers don’t use your frontend.
+
+They use curl.
+
+---
+
+## 🔥 Advanced API Attack Patterns
+
+---
+
+### 🔹 GraphQL Abuse
+
+GraphQL allows:
+
+```
+{
+  users {
+    id
+    email
+    passwordHash
+  }
+}
+```
+
+If resolvers do not enforce field-level authorization:
+
+Full database dump.
+
+---
+
+### 🔹 API Versioning Gaps
+
+```
+/api/v1/
+/api/v2/
+```
+
+Old version may:
+
+* Lack auth checks
+* Expose deprecated endpoints
+* Contain legacy vulnerabilities
+
+Attackers target older versions.
+
+---
+
+### 🔹 Rate Limit Bypass
+
+APIs often forget:
+
+* Rate limiting
+* Throttling
+* Abuse detection
+
+Attackers:
+
+* Enumerate IDs
+* Brute force tokens
+* Extract massive data
+
+---
+
+## 🛡️ API Mitigation Strategies
+
+---
+
+### 🔐 1️⃣ Enforce Object-Level Authorization Everywhere
+
+For every object:
+
+```
+if object.owner_id != current_user.id:
+    deny()
+```
+
+Never assume.
+
+Always check.
+
+---
+
+### 🔐 2️⃣ Explicit Field Whitelisting
+
+Instead of:
+
+```python
+update(request.json)
+```
+
+Do:
+
+```python
+allowed_fields = ["email", "name"]
+```
+
+Reject everything else.
+
+---
+
+### 🔐 3️⃣ Minimize Data Exposure
+
+Return:
+
+Only fields required by client.
+
+Never return:
+
+* Password hashes
+* Internal flags
+* Security metadata
+* Internal IDs
+
+---
+
+### 🔐 4️⃣ API Gateway Is Not Enough
+
+Even if API Gateway enforces:
+
+* Auth
+* Rate limit
+
+Each service must:
+
+> **Validate authorization independently.**
+
+---
+
+### 🔐 5️⃣ Rate Limiting + Abuse Detection
+
+Implement:
+
+* Per-user rate limit
+* Per-IP rate limit
+* Behavioral anomaly detection
+
+---
+
+## 🧠 Deep Insight
+
+APIs expose:
+
+> **Business logic directly as programmable interface.**
+
+If authorization is weak:
+
+Attackers automate abuse at scale.
+
+---
+
+# 📘 1️⃣9️⃣ Cryptographic Failures (Deep Expansion)
+
+> **Cryptographic failures occur when sensitive data protection is implemented incorrectly, allowing attackers to bypass trust boundaries silently.**
+
+---
+
+## 🧠 Core Principle
+
+> **Cryptographic failures occur when sensitive data is not properly protected — or is protected incorrectly.**
+
+Crypto failures are silent.
+
+Everything appears to work.
+
+Until attackers:
+
+* Decrypt data
+* Forge tokens
+* Crack hashes
+* Extract secrets
+
+---
+
+## 🔥 Most Common Crypto Mistakes
+
+---
+
+### 🔹 1️⃣ Home-Grown Crypto
+
+Developers think:
+
+> “I’ll just hash this with SHA1.”
+
+Or:
+
+> “I’ll encrypt this with my custom algorithm.”
+
+Custom crypto is almost always broken.
+
+Crypto requires:
+
+* Correct algorithm
+* Correct key management
+* Correct mode of operation
+* Correct randomness
+* Correct key rotation
+
+One mistake breaks everything.
+
+---
+
+### 🔹 2️⃣ Weak Hashing for Passwords
+
+Example:
+
+```
+hash = md5(password)
+```
+
+Or:
+
+```
+hash = sha1(password)
+```
+
+These are:
+
+* Fast
+* GPU-optimized
+* Easily brute-forced
+
+If database leaks:
+
+Passwords cracked in minutes.
+
+---
+
+### 🔥 Proper Password Hashing
+
+Use:
+
+* bcrypt
+* Argon2
+* PBKDF2
+
+With:
+
+* Strong work factor
+* Unique salt per password
+
+---
+
+### 🔹 3️⃣ No Salting
+
+Without salt:
+
+Same password → same hash.
+
+Attackers use:
+
+* Rainbow tables
+* Precomputed hash lists
+
+Salt ensures:
+
+> Each password hash is unique.
+
+---
+
+### 🔹 4️⃣ ECB Mode Encryption
+
+AES-ECB:
+
+* Encrypts identical blocks identically
+* Reveals patterns
+* Not semantically secure
+
+Visual example:
+
+Encrypted image still shows shape.
+
+Never use ECB.
+
+Use:
+
+* AES-GCM
+* AES-CBC (with care)
+* Modern AEAD modes
+
+---
+
+### 🔹 5️⃣ Hardcoded Keys
+
+Example:
+
+```python
+SECRET_KEY = "my-secret-key"
+```
+
+If source code leaks:
+
+All tokens forgeable.
+
+Or:
+
+Mobile app contains API key hardcoded.
+
+Attackers extract key from APK.
+
+---
+
+### 🔥 JWT Signing Failures
+
+Common mistakes:
+
+* Using weak secret
+* Using "none" algorithm
+* Not validating signature
+* Accepting unsigned tokens
+* Not verifying algorithm type
+
+Result:
+
+Attacker forges admin token.
+
+---
+
+### 🔥 Insecure Randomness
+
+Using:
+
+```python
+random.random()
+```
+
+Instead of cryptographic RNG.
+
+Tokens predictable.
+
+Session hijacking possible.
+
+---
+
+### 🔥 TLS Misconfigurations
+
+* Accepting invalid certificates
+* Disabling hostname verification
+* Using outdated protocols
+* Weak cipher suites
+
+Enables:
+
+* Man-in-the-middle attacks
+* Credential theft
+
+---
+
+## 🛡️ Crypto Mitigation Principles
+
+---
+
+### 🔐 1️⃣ Never Implement Crypto Yourself
+
+Use:
+
+* Well-vetted libraries
+* Standard algorithms
+* Modern defaults
+
+Golden rule:
+
+> **If you invent crypto, you are almost certainly wrong.**
+
+---
+
+### 🔐 2️⃣ Use Strong Password Hashing
+
+Argon2 or bcrypt.
+
+With:
+
+* High cost factor
+* Unique salt
+* Proper upgrade strategy
+
+---
+
+### 🔐 3️⃣ Use Modern Encryption Modes
+
+Use:
+
+* AES-GCM
+* ChaCha20-Poly1305
+
+Avoid:
+
+* ECB
+* Custom schemes
+
+---
+
+### 🔐 4️⃣ Secure Key Management
+
+Keys must:
+
+* Not be hardcoded
+* Be stored in secure vault
+* Rotated periodically
+* Scoped minimally
+
+Use:
+
+* AWS KMS
+* Azure Key Vault
+* HashiCorp Vault
+
+---
+
+### 🔐 5️⃣ Validate Everything
+
+For JWT:
+
+* Validate signature
+* Validate algorithm
+* Validate expiration
+* Validate issuer
+* Validate audience
+
+Never trust token blindly.
+
+---
+
+## 🧠 Deep Insight
+
+Crypto failures rarely cause visible errors.
+
+They create:
+
+> **Silent trust violations.**
+
+Everything appears secure.
+
+But attacker can:
+
+* Forge identity
+* Decrypt secrets
+* Impersonate users
+
+---
+
 # Quotes
 
 # References

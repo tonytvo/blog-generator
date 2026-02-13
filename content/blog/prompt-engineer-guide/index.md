@@ -8,35 +8,25 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "## 1️⃣8️⃣ Web Services & APIs
-
-Includes:
-
-* REST APIs
-* SOAP
-* JSON endpoints
-
-Common issues:
-
-* Broken object-level authorization
-* Mass assignment
-* Excessive data exposure
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART VII — CLIENT-SIDE & BROWSER ATTACKS
 
 ---
 
-## 1️⃣9️⃣ Cryptographic Failures
+## Clickjacking
 
-Common mistakes:
+Mitigation:
 
-* Home-grown crypto
-* Weak hashing
-* No salting
-* ECB mode
-* Hardcoded keys
+* X-Frame-Options
+* CSP frame-ancestors
 
-Principle:
+---
 
-> Never implement crypto yourself."
+## HTML5 Security Issues
+
+* Local storage misuse
+* CORS misconfiguration
+* PostMessage abuse
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
