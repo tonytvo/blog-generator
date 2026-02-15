@@ -5,6 +5,18 @@ description: "Web Application Hacker's Handbook Finding and Exploiting Security 
 tags: ["security", "softwaredevelopment"]
 ---
 
+# Table of Contents
+
+```toc
+exclude: Table of Contents
+tight: false
+from-heading: 1
+to-heading: 6
+class-name: "table-of-contents"
+```
+
+---
+
 # 1️⃣ The Core Philosophy of web application hacker handbook
 
 The authors emphasize:
