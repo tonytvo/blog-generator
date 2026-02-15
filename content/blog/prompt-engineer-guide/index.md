@@ -8,39 +8,7 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# PART VI — OPERATIONAL NSM
-
----
-
-## 1️⃣1️⃣ Building an NSM Program
-
-You need:
-
-* Sensors
-* Storage
-* Analysts
-* Escalation paths
-* Documentation
-* Continuous tuning
-
-This is organizational, not just technical.
-
----
-
-## 1️⃣2️⃣ SOC Culture
-
-Important principles:
-
-* No blame culture
-* Evidence-based conclusions
-* Document everything
-* Track metrics
-* Learn from incidents
-
-This overlaps strongly with:
-
-* SRE postmortems
-* DevOps retrospectives"
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections ""
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
