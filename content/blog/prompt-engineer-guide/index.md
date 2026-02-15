@@ -8,30 +8,78 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# 📘 PART VIII — DEFENSIVE STRATEGY
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# PART III — INTRUSION DETECTION
 
 ---
 
-## Secure Development Principles
+## 7️⃣ Signature-Based Detection
 
-* Threat modeling
-* Input validation
-* Output encoding
-* Secure session handling
-* Principle of least privilege
-* Secure defaults
-* Defense in depth
+Traditional IDS:
+
+Example:
+
+* Snort rules
+* Known exploit patterns
+* Known malware signatures
+
+### Strength:
+
+* Accurate for known threats
+
+### Weakness:
+
+* Useless for unknown threats
 
 ---
 
-## Testing Methodology
+## 8️⃣ Anomaly-Based Detection
 
-The book emphasizes:
+Baseline normal behavior:
 
-* Manual testing
-* Proxy-based inspection
-* Attack chaining
-* Understanding application behavior"
+* Normal DNS patterns
+* Normal connection timing
+* Normal service usage
+
+Alert on deviations.
+
+### Strength:
+
+* Detects unknown threats
+
+### Weakness:
+
+* False positives
+* Requires tuning
+
+---
+
+## 9️⃣ Indicators vs Warnings
+
+Bejtlich distinguishes:
+
+### 🔹 Indicators
+
+Evidence that intrusion occurred.
+
+Example:
+
+* Data exfiltration
+* Malware traffic
+
+### 🔹 Warnings
+
+Suspicious but not confirmed.
+
+Example:
+
+* Port scanning
+* Unusual DNS
+
+Important:
+
+> Analysts must separate curiosity from confirmation.
+
+---"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
