@@ -8,78 +8,37 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# PART III — INTRUSION DETECTION
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# PART IV — ANALYST WORKFLOW
 
 ---
 
-## 7️⃣ Signature-Based Detection
+## 🔟 The NSM Process
 
-Traditional IDS:
+1. Collect data
+2. Normalize data
+3. Analyze
+4. Escalate
+5. Investigate
+6. Improve detection
 
-Example:
-
-* Snort rules
-* Known exploit patterns
-* Known malware signatures
-
-### Strength:
-
-* Accurate for known threats
-
-### Weakness:
-
-* Useless for unknown threats
+This is iterative and continuous.
 
 ---
 
-## 8️⃣ Anomaly-Based Detection
+## Investigation Strategy
 
-Baseline normal behavior:
+When investigating:
 
-* Normal DNS patterns
-* Normal connection timing
-* Normal service usage
+### Step 1 — What happened?
 
-Alert on deviations.
+### Step 2 — How did it happen?
 
-### Strength:
+### Step 3 — What systems affected?
 
-* Detects unknown threats
+### Step 4 — What data touched?
 
-### Weakness:
-
-* False positives
-* Requires tuning
-
----
-
-## 9️⃣ Indicators vs Warnings
-
-Bejtlich distinguishes:
-
-### 🔹 Indicators
-
-Evidence that intrusion occurred.
-
-Example:
-
-* Data exfiltration
-* Malware traffic
-
-### 🔹 Warnings
-
-Suspicious but not confirmed.
-
-Example:
-
-* Port scanning
-* Unusual DNS
-
-Important:
-
-> Analysts must separate curiosity from confirmation.
-
----"
+### Step 5 — Is attacker still active?
+"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 
