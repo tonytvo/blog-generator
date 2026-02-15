@@ -8,37 +8,39 @@ tags: ["ai", "investing", "software"]
 # prompt examples
 
 - **detail outlined books, articles, etc...**
-  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# PART IV — ANALYST WORKFLOW
+  - expand in much more details with bold high-light quotes/phrases in depth and more examples for the above sections "# PART VI — OPERATIONAL NSM
 
 ---
 
-## 🔟 The NSM Process
+## 1️⃣1️⃣ Building an NSM Program
 
-1. Collect data
-2. Normalize data
-3. Analyze
-4. Escalate
-5. Investigate
-6. Improve detection
+You need:
 
-This is iterative and continuous.
+* Sensors
+* Storage
+* Analysts
+* Escalation paths
+* Documentation
+* Continuous tuning
+
+This is organizational, not just technical.
 
 ---
 
-## Investigation Strategy
+## 1️⃣2️⃣ SOC Culture
 
-When investigating:
+Important principles:
 
-### Step 1 — What happened?
+* No blame culture
+* Evidence-based conclusions
+* Document everything
+* Track metrics
+* Learn from incidents
 
-### Step 2 — How did it happen?
+This overlaps strongly with:
 
-### Step 3 — What systems affected?
-
-### Step 4 — What data touched?
-
-### Step 5 — Is attacker still active?
-"
+* SRE postmortems
+* DevOps retrospectives"
   - second pass:
     - expand in much more details, with bold high-light quotes/phrases, in depth and more examples for "" please
 

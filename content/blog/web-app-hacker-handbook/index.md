@@ -10831,6 +10831,538 @@ Detection maturity means:
 
 ---
 
+# ANALYST WORKFLOW
+
+> **“Detection without workflow is chaos.”**
+
+NSM is not just about seeing bad things.
+
+It’s about having a repeatable system to:
+
+* Identify
+* Confirm
+* Scope
+* Contain
+* Learn
+* Improve
+
+And then do it again tomorrow.
+
+---
+
+## 🔟 The NSM Process
+
+The six steps form a continuous feedback loop.
+
+```
+Collect → Normalize → Analyze → Escalate → Investigate → Improve → (back to Collect)
+```
+
+This is not linear.
+
+It is:
+
+> **Iterative and continuous.**
+
+Attackers evolve.
+
+Your detection must evolve faster.
+
+---
+
+### 1️⃣ Collect Data
+
+Everything starts here.
+
+> **“If you did not collect it, it did not happen — operationally.”**
+
+Collection includes:
+
+* PCAP
+* Flow logs
+* DNS logs
+* HTTP metadata
+* Authentication logs
+* Endpoint telemetry
+
+---
+
+#### Failure Mode
+
+Organizations collect:
+
+* Only firewall logs
+* Only inbound traffic
+* No east-west visibility
+
+Result:
+
+Investigation blind spots.
+
+---
+
+#### Mature Collection Strategy
+
+* Layered sensors
+* Redundant capture
+* East-west coverage
+* Retention aligned with threat dwell time
+
+---
+
+### 2️⃣ Normalize Data
+
+Raw data is messy.
+
+Different formats:
+
+* NetFlow
+* JSON logs
+* PCAP
+* Windows events
+* Syslog
+
+Normalization means:
+
+* Timestamp alignment
+* Field mapping
+* Common schema
+* Deduplication
+
+Without normalization:
+
+> **Correlation becomes impossible.**
+
+---
+
+#### Example
+
+Raw logs:
+
+Flow log:
+
+```
+src=10.0.1.7 dst=8.8.8.8
+```
+
+DNS log:
+
+```
+client_ip=10.0.1.7 query=evil.com
+```
+
+Normalization allows:
+
+Correlation across data sources.
+
+---
+
+### 3️⃣ Analyze
+
+This is where thinking begins.
+
+Analysis includes:
+
+* Alert review
+* Pattern detection
+* Hypothesis generation
+* Cross-correlation
+* Threat intel enrichment
+
+---
+
+#### Cognitive Model of Analysis
+
+Analyst sees:
+
+Periodic outbound traffic.
+
+Hypothesis:
+
+> “Possible beacon.”
+
+Test:
+
+* Check timing variance.
+* Check IP reputation.
+* Check process list on host.
+* Check historical behavior.
+
+Iterative reasoning.
+
+---
+
+### 4️⃣ Escalate
+
+Escalation is a decision threshold.
+
+It answers:
+
+> **“Is this worth activating response?”**
+
+Escalation may include:
+
+* Opening incident
+* Paging IR team
+* Blocking traffic
+* Isolating host
+* Notifying management
+
+Escalation must be:
+
+* Measured
+* Justified
+* Documented
+
+---
+
+#### Failure Mode
+
+Too many escalations:
+
+* Alert fatigue
+* Team burnout
+* Loss of credibility
+
+Too few escalations:
+
+* Long attacker dwell time
+* Major breach
+
+Balance is maturity.
+
+---
+
+### 5️⃣ Investigate
+
+Investigation transforms suspicion into certainty.
+
+Investigation is structured.
+
+Not random clicking in SIEM.
+
+---
+
+### 6️⃣ Improve Detection
+
+The most important step.
+
+> **Every incident should improve your system.**
+
+Post-incident questions:
+
+* Why did we detect it?
+* Why did we miss earlier signals?
+* What telemetry gaps exist?
+* What detection rules need tuning?
+* What retention needs adjusting?
+
+If you don’t improve:
+
+You will repeat mistakes.
+
+---
+
+## Investigation Strategy — Deep Dive
+
+Now we move into structured thinking.
+
+When investigating:
+
+---
+
+### Step 1 — What Happened?
+
+This is timeline reconstruction.
+
+Key questions:
+
+* When did suspicious behavior begin?
+* What triggered detection?
+* What events occurred before and after?
+* Is this isolated or persistent?
+
+---
+
+#### Example: Beacon Alert
+
+You see:
+
+```
+10.0.3.12 → 104.26.x.x
+Every 60 seconds
+```
+
+Timeline analysis reveals:
+
+* First occurrence: 3 days ago
+* Started 2 minutes after user opened attachment
+* Continued until now
+
+Now you know:
+
+Compromise likely 3 days old.
+
+---
+
+### Step 2 — How Did It Happen?
+
+This is root cause analysis.
+
+Questions:
+
+* Was it phishing?
+* Was it exploit?
+* Was it stolen credentials?
+* Was it insider misuse?
+
+---
+
+#### Example
+
+Email logs show:
+
+User received:
+
+```
+Invoice_Q4_2023.docm
+```
+
+Macro executed.
+
+Outbound beacon started immediately.
+
+Root cause: phishing.
+
+---
+
+### Step 3 — What Systems Were Affected?
+
+This is scoping.
+
+Questions:
+
+* Did attacker move laterally?
+* Did attacker escalate privileges?
+* Did attacker access domain controller?
+* Are multiple hosts involved?
+
+---
+
+#### Flow Analysis Example
+
+From infected host:
+
+* SMB to file server
+* RDP to admin workstation
+* LDAP queries to domain controller
+
+Now incident scope expands.
+
+---
+
+### Step 4 — What Data Was Touched?
+
+This is impact assessment.
+
+Questions:
+
+* Did attacker access PII?
+* Did attacker dump database?
+* Did attacker exfiltrate intellectual property?
+* What regulatory implications exist?
+
+---
+
+#### Example
+
+Flow logs show:
+
+```
+10.0.5.10 (DB server)
+→ 10.0.3.12 (infected host)
+4GB transfer
+```
+
+Then:
+
+```
+10.0.3.12 → Cloud VPS
+4GB transfer
+```
+
+Likely data theft.
+
+---
+
+### Step 5 — Is Attacker Still Active?
+
+This is containment validation.
+
+Questions:
+
+* Is beacon still active?
+* Are there additional persistence mechanisms?
+* Has C2 changed IP?
+* Are there secondary backdoors?
+
+---
+
+#### Example
+
+After isolating host:
+
+You still see:
+
+```
+10.0.7.4 → same C2 IP
+```
+
+Second infected machine.
+
+Incident ongoing.
+
+---
+
+## 🧠 Investigation Is Hypothesis-Driven
+
+Investigation is not random log browsing.
+
+It is:
+
+1. Observe anomaly
+2. Form hypothesis
+3. Gather evidence
+4. Confirm or reject
+5. Iterate
+
+It resembles scientific method.
+
+---
+
+## 🔥 Real End-to-End Example
+
+Alert:
+
+Beacon detected from workstation.
+
+Investigation:
+
+1️⃣ What happened?
+
+* Periodic outbound traffic.
+* Started Monday 09:12.
+
+2️⃣ How?
+
+* User opened malicious attachment.
+* Macro executed.
+
+3️⃣ Systems affected?
+
+* Workstation
+* File server
+* Admin workstation
+
+4️⃣ Data touched?
+
+* File share accessed
+* Database accessed
+* 2GB exfiltrated
+
+5️⃣ Attacker active?
+
+* Beacon still live on second host.
+
+Response triggered.
+
+---
+
+## 🧨 Failure Patterns in Analyst Workflow
+
+---
+
+### ❌ Alert-Only Thinking
+
+Analyst sees alert.
+Closes as false positive.
+Does not correlate.
+
+Misses multi-stage attack.
+
+---
+
+### ❌ No Timeline Reconstruction
+
+Investigation focuses on single event.
+Misses lateral movement.
+
+---
+
+### ❌ No Scoping
+
+Only isolate initial host.
+Ignore spread.
+
+---
+
+### ❌ No Feedback Loop
+
+Incident closes.
+Detection not improved.
+
+Same attack repeats 6 months later.
+
+---
+
+## 🧠 Mature Analyst Characteristics
+
+* Structured thinking
+* Timeline discipline
+* Correlation mindset
+* Skepticism
+* Evidence-based conclusions
+* Clear documentation
+
+---
+
+## 🔄 Continuous Improvement Loop
+
+After incident:
+
+* Add new detection rule.
+* Improve anomaly thresholds.
+* Adjust retention window.
+* Tune alert scoring.
+* Update playbooks.
+
+> **NSM maturity is measured by learning speed.**
+
+---
+
+## 🔚 Final Strategic Insight
+
+NSM workflow is:
+
+* Not about alerts.
+* Not about dashboards.
+* Not about flashy tools.
+
+It is about:
+
+> **Structured reasoning under adversarial pressure.**
+
+Collect.
+Analyze.
+Decide.
+Investigate.
+Improve.
+Repeat.
+
+That loop is the heart of operational security.
+
+---
+
 # Quotes
 
 # References
