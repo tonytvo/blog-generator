@@ -3184,7 +3184,114 @@ Kildare is a mature, affordable neighborhood with solid transit, retail, and spo
 [15]: https://wahi.com/ca/en/housing-market/ab/edmonton/kildare?utm_source=chatgpt.com "Kildare Housing Market Report: 1st Aug, 2025"
 
 # Downtown
+
+[![River Valley with Downtown Edmonton Skyline - City of Edmonton Archives](https://tse2.mm.bing.net/th/id/OIP.ijc7xt9CWEGh3Nf0oqR2bQHaFz?pid=Api)](https://cityarchives.gov.edmonton.ab.ca/river-valley-with-downtown-edmonton-skyline?utm_source=chatgpt.com)
+
+## Downtown Edmonton — investor outline
+
+**Overall grade: B-/C+ investment neighborhood.** Strong amenities and rental demand, but weaker family appeal, higher crime/social disorder risk, and many condo-heavy buildings limit appreciation and cashflow.
+
+## 1. Amenities and attractions
+
+Downtown has the best urban amenity package in Edmonton: ICE District/Rogers Place, MacEwan University, City Centre, Churchill Square, Arts District, restaurants, offices, LRT access, Legislature/River Valley nearby, and major employment nodes. The River Valley is a major lifestyle advantage, with trails, parks, winter activities, and recreation access close to downtown. ([City of Edmonton][1])
+
+## 2. Common building age
+
+Downtown has a mix of older high-rise apartments/condos from the 1960s–1980s, office-to-residential potential, newer towers from the 2000s–2020s, and very few traditional detached houses. For investors, this means most opportunities are **condos, apartment buildings, mixed-use properties, or older walk-up/high-rise rental stock**, not classic house-with-suite plays.
+
+## 3. Common building types
+
+Main types:
+
+| Type                            | Investor implication                               |
+| ------------------------------- | -------------------------------------------------- |
+| High-rise condo                 | Easier entry price, but condo fees reduce cashflow |
+| Purpose-built rental apartments | Best fit for long-term rentals                     |
+| Mixed-use buildings             | Good for commercial/residential exposure           |
+| Older walk-ups                  | Potential value-add, but maintenance risk          |
+| Detached homes                  | Rare; not the core Downtown asset class            |
+
+## 4. Zoning and more units per lot
+
+Edmonton’s new Zoning Bylaw is generally more flexible than the old framework. The City says the zoning bylaw determines what can be built where, including building type and business/activity use. ([City of Edmonton][2])
+
+For residential intensification, Edmonton’s **RS Small Scale Residential Zone** allows detached, attached, and multi-unit housing up to 3 storeys. ([Zoning Bylaw Edmonton][3]) The **RM Medium Scale Residential Zone** allows multi-unit residential buildings of roughly 4–8 storeys. ([Zoning Bylaw Edmonton][4])
+
+For Downtown specifically, zoning is often already medium/high-density or mixed-use, so the question is less “can I add a basement suite?” and more “can I redevelop, convert, add density, or reposition an existing building?” Always check the exact parcel.
+
+## 5. Population and growth
+
+Downtown benefits from long-term urbanization, student demand, immigration, and office/entertainment activity, but population growth is uneven because downtown living competes with Oliver, Strathcona, Garneau, Brewery District, and suburban new builds. Edmonton overall has strong population growth: Alberta’s regional dashboard shows Edmonton had a 5-year population growth rate of **15.97%**. ([Alberta Regional Dashboard][5])
+
+## 6. Income
+
+Downtown household income is lower than many suburban family neighborhoods because of renters, students, singles, service workers, and smaller households. CMHC’s neighbourhood income table shows **Downtown average household income around $82,900**. ([CMHC][6])
+
+## 7. Crime rate
+
+Crime is the biggest weakness. Edmonton Police provide a public Community Safety Data Portal for neighbourhood crime statistics. ([Edmonton Police Service][7]) A City bylaw document cited **1,285 selected crime occurrences downtown from March 2024 to March 2025**. ([City of Edmonton][8]) Citywide, Edmonton’s 2024 crime rate was down, but Downtown remains one of the concentrated higher-crime/social-disorder areas. ([Taproot Edmonton][9])
+
+## 8. Rental supply and demand
+
+Demand is solid from students, young professionals, service workers, downtown employees, newcomers, and people who want walkability. Supply is also high because Downtown has many condos and apartments. CMHC’s 2025 rental report notes rental market conditions softened nationally as supply increased and vacancy rates rose. ([Canada Mortgage and Housing Corporation][10])
+
+So Downtown is **liquid for rentals**, but not always high-margin.
+
+## 9. Average rents
+
+For Edmonton overall, RentFaster shows a median rental price around **$1,595/month**, with listings from about **$850 to $3,590/month**. ([RentFaster.ca][11]) Liv.rent reported Edmonton one-bed unfurnished rent around **$1,293/month** and furnished one-bed around **$1,455/month** in September 2025. ([liv.rent][12])
+
+Practical Downtown estimate:
+
+| Unit                   |                 Approx rent |
+| ---------------------- | --------------------------: |
+| Studio                 |                 $950–$1,250 |
+| 1-bed                  |               $1,250–$1,600 |
+| 2-bed                  |               $1,600–$2,200 |
+| Furnished/shorter-term | Higher, but more management |
+
+## 10. Average house/condo prices
+
+Downtown is condo-heavy. HonestDoor shows Downtown Edmonton average estimated price around **$762,385**, but that figure can be distorted by higher-value mixed-use, commercial, and larger properties; sold price per square foot was around **$269/sq ft**. ([HonestDoor][13]) For individual condos, many Downtown/Oliver-type 2-bedroom units are often below $300K, according to local market commentary. ([Alberta Home Hub][14])
+
+## 11. Appreciation vs cashflow
+
+**Appreciation potential: medium.** Long-term upside comes from ICE District, downtown revitalization, LRT/walkability, immigration, affordability versus Calgary, and possible office-to-residential conversion. But condo oversupply, safety perception, high condo fees, and competition from nearby Oliver/Strathcona limit appreciation.
+
+**Cashflow potential: medium-low to medium.** You can make numbers work only if you buy below market, avoid high condo fees, furnish strategically, rent by room where legal/appropriate, or buy a small multifamily/value-add asset.
+
+## 12. Best strategies
+
+Best strategies for Downtown Edmonton:
+
+1. **Discounted condo rental** — only buy if condo fee + tax + insurance still leaves cashflow.
+2. **Furnished rental for professionals/students** — better rent, more turnover.
+3. **Room rental / co-living** — can work, but screen tenants carefully.
+4. **Small multifamily value-add** — best strategy if you can find older walk-up stock.
+5. **Office-to-residential / mixed-use conversion** — advanced strategy, capital-heavy.
+6. **Short/mid-term rental near ICE District** — possible, but check condo bylaws and City rules.
+
+## Final investor verdict
+
+Downtown Edmonton is **not an easy beginner cashflow neighborhood**, but it can work for a disciplined investor buying at a discount. I would prefer **small multifamily or deeply discounted condos**, not average-priced high-fee condos. For stable family tenants and lower crime risk, other Edmonton communities may be better.
+
+[1]: https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/neighbourhood-profiles?utm_source=chatgpt.com "Neighbourhood Profiles"
+[2]: https://www.edmonton.ca/city_government/bylaws/zoning-bylaw?utm_source=chatgpt.com "Zoning Bylaw"
+[3]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/210-rs-small-scale-residential-zone?utm_source=chatgpt.com "2.10 RS - Small Scale Residential Zone - Zoning Bylaw 20001"
+[4]: https://zoningbylaw.edmonton.ca/part-2-standard-zones-and-overlays/residential-zones/240-rm-medium-scale-residential-zone?utm_source=chatgpt.com "2.40 RM - Medium Scale Residential Zone | City of Edmonton ..."
+[5]: https://regionaldashboard.alberta.ca/region/edmonton/?utm_source=chatgpt.com "Edmonton - Alberta Regional Dashboard"
+[6]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Population%2C+Households+and+Housing+Stock&CategoryLevel2=Household+Income&ColumnField=HouseholdIncomeRange&GeographyId=0340&GeographyType=MetropolitanMajorArea&RowField=Neighbourhood&SearchTags%5B0%5D.Key=Households&SearchTags%5B0%5D.Value=Number&SearchTags%5B1%5D.Key=Statistics&SearchTags%5B1%5D.Value=AverageAndMedian&utm_source=chatgpt.com "Edmonton — Household Income - Average and Median ($)"
+[7]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[8]: https://www.edmonton.ca/sites/default/files/public-files/assets/Bylaws/16521.pdf?utm_source=chatgpt.com "CITY OF EDMONTON BYLAW 16521 ..."
+[9]: https://edmonton.taproot.news/briefs/2025/05/20/on-the-agenda-eps-annual-report-dutch-elm-disease?utm_source=chatgpt.com "On the agenda: EPS annual report, Dutch elm disease"
+[10]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres?utm_source=chatgpt.com "2025 Rental Market Report"
+[11]: https://www.rentfaster.ca/ab/edmonton/?utm_source=chatgpt.com "Apartments For Rent in Edmonton, AB"
+[12]: https://liv.rent/blog/rent-reports/september-2025-calgary-edmonton-rent-report/?utm_source=chatgpt.com "September 2025 Calgary & Edmonton Rent Report"
+[13]: https://www.honestdoor.com/cities/ab/edmonton/downtown?utm_source=chatgpt.com "Downtown, Edmonton Real Estate: Housing Market April ..."
+[14]: https://albertahomehub.ca/forecasts-prices-48/?utm_source=chatgpt.com "Edmonton Real Estate Forecast: Stunning 2026 Price ..."
+
 # Garneau
+
 # The Hamptons
 # Strathcona
 # Rutherford
