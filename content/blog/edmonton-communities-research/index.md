@@ -3292,6 +3292,229 @@ Downtown Edmonton is **not an easy beginner cashflow neighborhood**, but it can 
 
 # Garneau
 
+[![For Rent Garneau Neighbourhood in Edmonton | Eleanor](https://tse2.mm.bing.net/th/id/OIP.LeDUwju7um1laZqYLRsm9wHaE8?pid=Api)](https://www.liveeleanor.com/neighbourhood?utm_source=chatgpt.com)
+
+## Garneau, Edmonton — investor-focused outline
+
+### 1) Quick investment snapshot
+
+**Garneau is one of Edmonton’s best “student/professional rental” locations** because it sits beside the **University of Alberta**, near **Whyte Avenue**, **109 Street**, the river valley, and major transit. The City notes that Garneau has been heavily redeveloped from original single-detached homes into **row housing and apartment buildings**, with student housing and fraternity houses in the northwest part of the neighbourhood. ([City of Edmonton][1])
+
+**Investor grade:** **A-/B+ for rental demand**, but **B/C+ for cashflow** because acquisition prices and condo competition can be high.
+
+---
+
+## 2) Nearby amenities & attractions
+
+Key demand drivers:
+
+* **University of Alberta** — strongest rental-demand anchor.
+* **Whyte Avenue / Old Strathcona** — restaurants, cafés, nightlife, shopping.
+* **Garneau Theatre** — historic local landmark.
+* **River Valley / Kinsmen Park / trails** — major lifestyle amenity.
+* **109 Street commercial corridor** — services, restaurants, walkability.
+* **Transit access** — strong bus/LRT access via the university area.
+
+The City specifically identifies commercial businesses along **109 Street, Whyte Avenue, and 112 Street**. ([City of Edmonton][1])
+
+---
+
+## 3) When were homes commonly built?
+
+Garneau is an **old, mature inner-city neighbourhood**. It originally had many single-detached homes, but large parts have since been redeveloped into apartments, row housing, and student-oriented housing. ([City of Edmonton][1])
+
+**Investor meaning:** expect a mix of:
+
+* older character homes,
+* older walk-up apartments,
+* mid/late-century apartment condos,
+* newer infill condos and purpose-built rental towers.
+
+---
+
+## 4) Common building types
+
+Most relevant investor product types:
+
+* **Low-rise apartments**
+* **High-rise / mid-rise condos**
+* **Student rental buildings**
+* **Row housing**
+* **Older detached houses**
+* **Infill multi-unit housing**
+
+Garneau is no longer mainly detached housing; the City says large portions have been redeveloped into **row housing and apartment buildings**. ([City of Edmonton][1])
+
+---
+
+## 5) Zoning / more units per lot
+
+Garneau has strong redevelopment pressure because of its location near U of A and Whyte Ave.
+
+A recent City rezoning application at **11054–84 Avenue NW** was for **multi-unit housing with secondary suites**, and it also involved the **Garneau Special Character Residential Area**. ([engaged.edmonton.ca][2])
+
+**Does zoning allow more units per lot?**
+
+* Often **yes, but parcel-by-parcel**.
+* Best opportunities are usually:
+
+  * older houses on redevelopment lots,
+  * corner lots,
+  * parcels near corridors,
+  * sites already targeted for multi-unit forms.
+
+**Investor warning:** Garneau also has character-area considerations, so do not assume every old house can be easily replaced with maximum-density housing.
+
+---
+
+## 6) Population & growth
+
+Garneau is a **dense, high-turnover renter/student neighbourhood**. Third-party demographic summaries using Statistics Canada-derived data estimate Garneau’s population around **8,767**, with very high density and a younger median age. ([AreaVibes][3])
+
+**Growth profile:** not like a new suburb. Growth comes from **redevelopment and densification**, not new land development.
+
+---
+
+## 7) Average income
+
+Garneau’s income profile can look lower than premium neighbourhoods because many residents are **students, young renters, and single-person households**. That does not mean weak rental demand; it means tenants are often **rent-sensitive** and unit-size sensitive.
+
+For underwriting, I would focus more on:
+
+* rent-to-student affordability,
+* vacancy near semester cycles,
+* unit condition,
+* proximity to campus.
+
+---
+
+## 8) Crime rate
+
+Use Edmonton Police Service / City crime mapping for exact current data. In investor terms, Garneau has a typical **inner-city / nightlife / student-area risk profile**:
+
+* more foot traffic,
+* more late-night activity near Whyte Ave,
+* theft-from-vehicle risk,
+* tenant turnover risk.
+
+This is not a “bad” neighbourhood, but it requires better screening, secure entry, lighting, and parking management.
+
+---
+
+## 9) Rental supply/demand
+
+**Demand is strong and durable** because of:
+
+* University of Alberta students,
+* graduate students,
+* healthcare / university workers,
+* young professionals,
+* renters who want walkability.
+
+**Supply is also high** because Garneau already has many apartments, condos, and student-oriented rentals. That means average units can sit, but well-located, well-managed units lease well.
+
+CMHC says Edmonton’s 2025 purpose-built rental vacancy rate rose to **3.8%**, with supply growth outpacing demand, while condo rentals remained tighter at **1.7% vacancy**. ([Canada Mortgage and Housing Corporation][4])
+
+---
+
+## 10) Average rents
+
+CMHC’s Garneau rent table shows approximately:
+
+* **Bachelor:** $1,094
+* **1-bedroom:** $1,231
+* **2-bedroom:** $1,544
+* **3-bedroom+:** $1,678
+* **Total average:** $1,329 ([CMHC][5])
+
+Compared with Edmonton overall, Garneau rents are supported by location, but older units may not command premium rents unless renovated.
+
+---
+
+## 11) A/B/C/D neighbourhood grade
+
+**Overall investor grade: B+**
+
+Breakdown:
+
+* **Rental demand:** A-
+* **Walkability / amenities:** A
+* **Cashflow:** C+/B-
+* **Appreciation potential:** B+
+* **Operational ease:** B-/C+ due to student turnover and inner-city issues.
+
+---
+
+## 12) Long-term appreciation vs cashflow
+
+**Appreciation:** good long-term because Garneau has scarce land, university adjacency, river valley access, and walkability.
+
+**Cashflow:** can be tight because:
+
+* prices are higher than outer Edmonton,
+* condo fees can hurt returns,
+* older buildings may need capex,
+* tenant turnover can be higher.
+
+Best thesis: **buy for location + long-term land value, then manufacture yield through better management, renovations, or added density.**
+
+---
+
+## 13) Average house prices
+
+Neighbourhood-specific prices vary widely because Garneau has detached houses, condos, infill, and redevelopment parcels. A third-party Garneau market snapshot estimated an average property value around **$690,521**, but this blends property types and should not be treated like a clean detached benchmark. ([HonestDoor][6])
+
+For context, the REALTORS Association of Edmonton reported March 2026 average prices of about **$590,162 detached**, **$436,997 semi-detached**, and **$307,666 row/townhomes** across the Edmonton market. ([CREA Statistics][7])
+
+---
+
+## 14) Best real estate strategies for Garneau
+
+### Strategy 1 — Student rental / room rental
+
+Works well if close to U of A. Prioritize:
+
+* legal layout,
+* durable finishes,
+* separate bedrooms,
+* strong lease terms,
+* parking/bike storage.
+
+### Strategy 2 — Condo rental near campus
+
+Best for lower entry price, but watch:
+
+* condo fees,
+* special assessments,
+* building age,
+* rental bylaws,
+* elevator/parking issues.
+
+### Strategy 3 — Older house with suite / rooming potential
+
+Potentially strong, but only if zoning, permits, fire code, and parking work.
+
+### Strategy 4 — Land assembly / infill redevelopment
+
+Higher-capital strategy. Works because Garneau has long-term density pressure, but you need zoning expertise and patience.
+
+### Strategy 5 — Furnished mid-term rental
+
+Could target visiting professors, medical residents, graduate students, or short academic stays. More active management, but potentially higher rent.
+
+---
+
+**Bottom line:** Garneau is a **high-demand, high-liquidity, university-adjacent rental market**. It is better for **stable demand + long-term appreciation** than pure high cashflow. Best deals are usually older properties where you can add value, improve layout, legalize suites, or buy below replacement cost.
+
+[1]: https://www.edmonton.ca/sites/default/files/public-files/assets/Neighbourhoods/NeighbourhoodProfile_Garneau.pdf "Garneau Neighbourhood Profile"
+[2]: https://engaged.edmonton.ca/garneaurezoning "LDA26-0054 Garneau Rezoning | Engaged Edmonton"
+[3]: https://www.areavibes.com/edmonton-ab/garneau/demographics/?utm_source=chatgpt.com "Garneau, Alberta Population & Demographics"
+[4]: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres "2025 Rental Market Report | CMHC"
+[5]: https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=0340&GeographyType=MetropolitanMajorArea&RowField=24 "www03.cmhc-schl.gc.ca"
+[6]: https://www.honestdoor.com/cities/ab/edmonton/garneau?utm_source=chatgpt.com "Garneau, Edmonton Real Estate: Housing Market April 2026"
+[7]: https://stats.crea.ca/board/edmo/?utm_source=chatgpt.com "REALTORS® Association of Edmonton | CREA Statistics"
+
+
 # The Hamptons
 # Strathcona
 # Rutherford
