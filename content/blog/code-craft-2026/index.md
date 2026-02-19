@@ -25,5 +25,9 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=h5vXHrL7ETQ
 - [summary](./telling-better-stories-with-tests-lada-llewellyn-craft-2025.md)
 
+# AI Engineering Anti-patterns - Chip Huyen | Craft 2025
+
+- https://www.youtube.com/watch?v=PKtR41eEVDU
+- [summary](./ai-engineering-anti-patterns-craft-2025.md)
 
 # References
