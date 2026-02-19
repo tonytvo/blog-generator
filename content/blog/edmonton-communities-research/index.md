@@ -3516,6 +3516,225 @@ Could target visiting professors, medical residents, graduate students, or short
 
 
 # The Hamptons
+
+[![The Hamptons Edmonton Real Estate & Homes: The Hamptons](https://tse3.mm.bing.net/th/id/OIP.tyPSsDMh8Ea3HSncQg5e6QHaC4?pid=Api)](https://www.edmontonrealestate.pro/west-edmonton/the-hamptons.php?utm_source=chatgpt.com)
+
+## The Hamptons, Edmonton — investor-focused outline
+
+### 1) Quick snapshot
+
+**The Hamptons is a newer west Edmonton suburban family neighbourhood**, not an industrial area. It sits near **Anthony Henday Drive**, with access to Lessard Road, Callingwood Road, 199 Street, Winterburn Road, and Whitemud connections. ([Edmonton Homes][1])
+
+**Investor grade:** **B / B+**
+Good family-rental demand and newer housing stock, but not usually a “high-cashflow” area unless you add suite income.
+
+---
+
+## 2) Nearby amenities & attractions
+
+Key amenities:
+
+* **Ponds, lakes, trails, playgrounds, parks**
+* Family-oriented suburban environment
+* Access to **Anthony Henday**, Whitemud, Lessard Road, Callingwood Road
+* Nearby west Edmonton shopping and services
+* Reasonable access to **West Edmonton Mall**, Costco-style power centres, schools, and recreation
+
+Neighbourhood guides describe The Hamptons as having parks, ponds, walking trails, playgrounds, schools, shopping, and lakes. ([infoedmonton.ca][2])
+
+---
+
+## 3) When were homes commonly built?
+
+Mostly **early 2000s onward**. A local guide describes The Hamptons as a modern family neighbourhood built in the **early 2000s**. ([RankMyAgent][3])
+
+**Investor implication:**
+Lower major-capex risk than older Edmonton communities, but many homes are now old enough that furnaces, roofs, decks, fences, and appliances need inspection.
+
+---
+
+## 4) Common building types
+
+Typical housing mix:
+
+* Single-detached houses
+* Duplexes / semi-detached
+* Townhomes
+* Low-rise condos / apartments
+
+A current neighbourhood guide describes the area as having single-family homes, duplexes, townhomes, and low-rise condos. ([infoedmonton.ca][2])
+
+Older City census data from 2005 showed the early-stage community was mostly **single-detached**, with 170 single-detached homes out of 231 structure-type records shown. ([CensusDocs][4])
+
+---
+
+## 5) Zoning / more units per lot
+
+Edmonton’s newer zoning framework is more flexible than old single-family zoning. In the **RS — Small Scale Residential Zone**, residential uses can include backyard housing, duplex housing, lodging houses, multi-unit housing, row housing, secondary suites, semi-detached housing, and single-detached housing. ([Edmonton Tribunals][5])
+
+**Does it allow more units per lot?**
+
+* Often **yes**, but parcel-by-parcel.
+* Best realistic plays:
+
+  * basement secondary suite
+  * garden/backyard suite
+  * duplex or semi-detached with suites
+  * small multi-unit redevelopment on suitable lots
+
+Example: a Hamptons permit record shows approval activity “to add two dwellings” through **secondary suites in the basement of a semi-detached house**. ([HonestDoor][6])
+
+---
+
+## 6) Population & population growth
+
+The Hamptons grew rapidly during its buildout phase. Public neighbourhood data lists:
+
+* **2012 population: 9,405**
+* **2009–2012 population growth: 66.7%**
+* **2012 dwellings: 3,479** ([Wikipedia][7])
+
+Today, growth is likely more mature and stable, not explosive like the original buildout years.
+
+---
+
+## 7) Average income
+
+I would treat The Hamptons as a **middle-to-upper-middle suburban family income area**. Public third-party summaries describe it as a family-oriented community with working professional parents and suburban amenities. ([NextHome][8])
+
+For underwriting, tenant quality is usually stronger than older high-turnover rental districts, but rents must still be affordable to families.
+
+---
+
+## 8) Crime rate
+
+Use Edmonton Police Service’s **Community Safety Data Portal** for current neighbourhood crime stats; it provides access to Edmonton crime statistics and trends. ([Edmonton Police Service][9])
+
+Investor expectation:
+
+* Generally safer-feeling suburban profile
+* Main risks: vehicle break-ins, garage theft, package theft, tenant screening problems
+* Lower nightlife/transient risk than inner-city rental zones
+
+---
+
+## 9) Rental supply/demand
+
+**Demand drivers**
+
+* Family renters wanting newer homes
+* Access to west Edmonton jobs and schools
+* Commuters needing Anthony Henday / Whitemud access
+* Tenants priced out of Windermere, Glenora, or newer southwest areas
+
+**Supply**
+
+* More detached and duplex rentals than apartment-heavy inner-city areas
+* Townhome/condo supply exists
+* Rental competition depends heavily on whether your property has a legal suite, garage, yard, and good school access
+
+---
+
+## 10) Average rents
+
+Current rental listings show approximate Hamptons rent levels around:
+
+* **1-bedroom:** about **$1,550**
+* **2-bedroom:** about **$1,685**
+* **3-bedroom:** about **$2,250** ([Zumper - Apartments for Rent & Houses][10])
+
+Use these as listing-market anchors, not guaranteed achieved rents.
+
+---
+
+## 11) A/B/C/D neighbourhood grade
+
+**Grade: B / B+**
+
+Why:
+
+* **A for family livability**
+* **B for appreciation**
+* **B-/C+ for cashflow**
+* **B+ for tenant quality**
+* **C+ for density/redevelopment upside compared with inner-city areas**
+
+---
+
+## 12) Long-term appreciation vs cashflow
+
+**Appreciation:** solid but not explosive. The area benefits from suburban family demand, Anthony Henday access, newer housing, and west Edmonton growth.
+
+**Cashflow:** usually moderate to tight on detached houses unless:
+
+* bought below market,
+* basement suite is legal/possible,
+* duplex/semi-detached has multiple income streams,
+* or you buy townhouse/condo at a good price.
+
+---
+
+## 13) Average house prices
+
+Neighbourhood-level values vary a lot by product type. Recent property-value examples in The Hamptons range from roughly:
+
+* condo around **$260K**
+* smaller/entry houses around **$380K–$465K**
+* detached homes around **$550K–$680K**
+* larger homes around **$880K+** ([HonestDoor][6])
+
+For broader Edmonton context, Q1 2026 median prices were about **$515K single-detached**, **$311K townhouse/row**, and **$195K apartment units**. ([CREA Stats][11])
+
+---
+
+## 14) Best investment strategies
+
+### Strategy 1 — Family rental buy-and-hold
+
+Best for detached/duplex homes with:
+
+* 3+ bedrooms
+* garage
+* fenced yard
+* good school/park access
+
+### Strategy 2 — Legal basement suite
+
+Best cashflow strategy. Look for:
+
+* separate entrance
+* good parking
+* basement ceiling height
+* mechanical layout
+* sound separation feasibility
+
+### Strategy 3 — Semi-detached / duplex with suites
+
+Potentially stronger than single detached because you can create more income streams. Existing permit examples show secondary-suite activity in semi-detached homes in The Hamptons. ([HonestDoor][6])
+
+### Strategy 4 — Townhouse rental
+
+Can work if condo fees are controlled. Better entry price, but less land appreciation.
+
+### Strategy 5 — Low-headache long-term hold
+
+Buy newer, durable, family-oriented product and accept moderate cashflow in exchange for lower turnover and stable tenants.
+
+**Bottom line:** The Hamptons is a **good west Edmonton B/B+ family-rental neighbourhood**. It is better for **stable tenants and long-term hold** than aggressive cashflow, unless you can add or buy existing suite income.
+
+[1]: https://www.edmontonhomes.ca/the-hamptons-real-estate.php?utm_source=chatgpt.com "The Hamptons Homes & Real Estate"
+[2]: https://infoedmonton.ca/blog.html/the-hamptons-edmonton-neighbourhood-guide-homes-life-8818983?utm_source=chatgpt.com "The Hamptons Edmonton Neighbourhood Guide: Homes ..."
+[3]: https://rankmyagent.com/realestate/best-12-family-friendly-neighbourhoods-in-edmonton-you-cant-miss/?utm_source=chatgpt.com "Best 12 Family-friendly Neighbourhoods in Edmonton You ..."
+[4]: https://censusdocs.edmonton.ca/DD34/MultiSource/Neighbourhood/THE%20HAMPTONS.pdf "Community Profile"
+[5]: https://edmontontribunals.ca/sites/default/files/box-files/december-16-2025-agenda.pdf?cb=1769880876&utm_source=chatgpt.com "SUBDIVISION AND DEVELOPMENT APPEAL BOARD AGENDA"
+[6]: https://www.honestdoor.com/cities/ab/edmonton/the-hamptons "The Hamptons, Edmonton Real Estate: Housing Market April 2026 | HonestDoor"
+[7]: https://en.wikipedia.org/wiki/The_Hamptons%2C_Edmonton?utm_source=chatgpt.com "The Hamptons, Edmonton"
+[8]: https://nexthome.ca/neighbourhoods/the-hamptons/31754/?utm_source=chatgpt.com "The Hamptons"
+[9]: https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping?utm_source=chatgpt.com "Neighbourhood Crime Mapping"
+[10]: https://www.zumper.com/address/5340-199-st-nw-edmonton-ab-t6m-can?utm_source=chatgpt.com "5340 199 St Nw, Edmonton, AB T6M 0A5 2 Bedroom ..."
+[11]: https://creastats.crea.ca/mls/edmo-median-price/ "Edmonton Median Price | CREA Statistics"
+
+
 # Strathcona
 # Rutherford
 # Silver Berry
