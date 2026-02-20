@@ -7,7 +7,7 @@ tags: ["softwaredevelopment"]
 
 # slow down to speed up Gergely Orosz | Craft 2026
 
-- [summary]()
+- [summary](./slow-down-to-speed-up-gergely-craft-2026.md)
 
 # Architecture is Designing Knowledge Flow - Diana Montalion | Craft 2025
 
@@ -29,5 +29,10 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=PKtR41eEVDU
 - [summary](./ai-engineering-anti-patterns-craft-2025.md)
+
+# Refactoring from Objects to Functions - Duncan McGregor, Nat Pryce | Craft 2025
+
+- https://www.youtube.com/watch?v=D779nnFxQZY
+- [summary](./refactor-from-objects-to-functions-mccregor-nat-craft-2025.md)
 
 # References
