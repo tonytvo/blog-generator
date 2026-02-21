@@ -17,5 +17,10 @@ tags: ["softwaredevelopment"]
 - [summary](./agency-ashi-krishnan-craft-conference-2024.md)
 - https://jalammar.github.io/illustrated-transformer/
 
+# Telling Better Stories with Tests - Keeseler Lada, Falco Llewellyn | Craft 2025
+
+- https://www.youtube.com/watch?v=h5vXHrL7ETQ
+- [summary](./telling-better-stories-with-tests-lada-llewellyn-craft-2025.md)
+
 
 # References
