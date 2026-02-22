@@ -5,6 +5,9 @@ description: "code craft 2026 summary"
 tags: ["softwaredevelopment"]
 ---
 
+# slow down to speed up Gergely Orosz | Craft 2026
+
+- [summary]()
 
 # Architecture is Designing Knowledge Flow - Diana Montalion | Craft 2025
 
