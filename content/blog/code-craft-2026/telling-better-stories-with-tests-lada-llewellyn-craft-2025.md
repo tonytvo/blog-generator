@@ -1,3 +1,11 @@
+---
+title: "Telling Better Stories with Tests"
+date: "2025-06-04T00:00:00.000Z"
+description: "Llewelyn Falco & Lada Kesler on using tests as narratives that communicate intent."
+type: "reference"
+tags: ["softwaredevelopment", "testing"]
+---
+
 # Telling Better Stories with Tests
 **Llewelyn Falco & Lada Kesler — Craft Conference**
 

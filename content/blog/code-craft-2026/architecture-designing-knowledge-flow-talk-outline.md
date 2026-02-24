@@ -1,3 +1,11 @@
+---
+title: "Architecture is Designing Knowledge Flow — Talk Outline"
+date: "2026-06-04T00:00:00.000Z"
+description: "Diana Montilele on systems architecture as the deliberate design of knowledge flow."
+type: "reference"
+tags: ["softwaredevelopment", "architecture"]
+---
+
 # Architecture is Designing Knowledge Flow — Talk Outline
 ### Diana Montilele · Systems Architect & Author
 

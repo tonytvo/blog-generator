@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts
-          .filter(post => post.frontmatter.status !== "draft")
+          .filter(post => post.frontmatter.status !== "draft" && post.frontmatter.type !== "reference")
           .map(post => {
             const title = post.frontmatter.title || post.fields.slug
 
@@ -85,6 +85,7 @@ export const pageQuery = graphql`
           title
           description
           status
+          type
         }
       }
     }

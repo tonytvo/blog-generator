@@ -1,3 +1,11 @@
+---
+title: "Agency — Ashi Krishnan | Craft Conference 2024"
+date: "2024-06-04T00:00:00.000Z"
+description: "A technical and philosophical deep-dive into LLM architecture, alignment, and the future of human storytelling."
+type: "reference"
+tags: ["softwaredevelopment", "ai"]
+---
+
 # Agency — Ashi Krishnan | Craft Conference 2024
 
 > A technical and philosophical deep-dive into large language model architecture, alignment, the limits of generative AI, and what it means for the future of human storytelling.

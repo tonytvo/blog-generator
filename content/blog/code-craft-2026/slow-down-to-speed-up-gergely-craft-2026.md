@@ -1,3 +1,11 @@
+---
+title: "Slow Down to Speed Up"
+date: "2026-06-04T00:00:00.000Z"
+description: "Gergely Orosz on AI adoption maturity, cost pressures, and engineering craft at Craft Conference 2026."
+type: "reference"
+tags: ["softwaredevelopment", "ai", "engineering"]
+---
+
 Slow Down to Speed Up - June 4, 2026
 General notes
 

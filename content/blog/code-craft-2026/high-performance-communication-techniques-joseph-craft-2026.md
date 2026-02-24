@@ -1,3 +1,11 @@
+---
+title: "Listening Over Speaking"
+date: "2026-06-04T00:00:00.000Z"
+description: "High-performance communication techniques from Craft Conference 2026."
+type: "reference"
+tags: ["softwaredevelopment", "communication"]
+---
+
 Listening Over Speaking - June 4, 2026
 General notes
 

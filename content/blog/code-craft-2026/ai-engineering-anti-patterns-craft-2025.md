@@ -1,3 +1,11 @@
+---
+title: "AI Engineering Anti-Patterns — Chip Huyen"
+date: "2025-06-04T00:00:00.000Z"
+description: "Common anti-patterns in AI engineering from Chip Huyen at Craft Conference 2025."
+type: "reference"
+tags: ["softwaredevelopment", "ai"]
+---
+
 # AI Engineering Anti-Patterns — Chip Huyen
 
 ## Speaker Background

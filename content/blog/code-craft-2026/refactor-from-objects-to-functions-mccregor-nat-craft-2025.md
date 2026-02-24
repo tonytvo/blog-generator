@@ -1,3 +1,11 @@
+---
+title: "Gradual OO-to-Functional Refactoring in Kotlin"
+date: "2025-06-04T00:00:00.000Z"
+description: "Llewellyn Falco & Duncan McGregor on gradually refactoring from objects to functions in Kotlin."
+type: "reference"
+tags: ["softwaredevelopment", "kotlin", "functional-programming"]
+---
+
 # Detailed Outline: Gradual OO-to-Functional Refactoring in Kotlin
 **Conference Talk — Live Coding Session**
 **Presenters:** Llewellyn Falco & Duncan McGregor (authors of *Functional Programming in Kotlin*)
