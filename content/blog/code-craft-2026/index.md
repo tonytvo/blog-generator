@@ -36,7 +36,7 @@ tags: ["softwaredevelopment"]
 - [summary](./agency-ashi-krishnan-craft-conference-2024.md)
 - https://jalammar.github.io/illustrated-transformer/
 
-# ignore - Canon Test-Driven Development - Kent Beck | Craft 2025
+# Canon Test-Driven Development - Kent Beck | Craft 2025
 
 - https://www.youtube.com/watch?v=90VBvjYedWI
 - [summary](./canon-tdd-kent-beck-craft-2025.md)
