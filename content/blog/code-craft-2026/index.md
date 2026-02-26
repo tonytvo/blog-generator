@@ -35,4 +35,10 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=D779nnFxQZY
 - [summary](./refactor-from-objects-to-functions-mccregor-nat-craft-2025.md)
 
+# Canon Test-Driven Development - Kent Beck | Craft 2025
+
+- https://www.youtube.com/watch?v=90VBvjYedWI
+- [summary](./canon-tdd-kent-beck-craft-2025.md)
+
+
 # References
