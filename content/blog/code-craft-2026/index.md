@@ -40,5 +40,8 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=90VBvjYedWI
 - [summary](./canon-tdd-kent-beck-craft-2025.md)
 
+# Gejko - keeping human in the loop
+
+# why new processes don't fix delivery
 
 # References
