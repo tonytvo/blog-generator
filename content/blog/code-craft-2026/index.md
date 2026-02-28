@@ -41,7 +41,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=90VBvjYedWI
 - [summary](./canon-tdd-kent-beck-craft-2025.md)
 
-# ignore - Slow down to speed up - Gergely Orosz | Craft 2026
+# Slow down to speed up - Gergely Orosz | Craft 2026
 
 - https://www.youtube.com/watch?v=kKNKqut7t1Q&list=PLEQ3Q_FcrvEo&index=2
 - [summary](./slow-down-to-speed-up-gergely-craft-2026.md)
