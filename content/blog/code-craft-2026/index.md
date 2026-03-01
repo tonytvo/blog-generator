@@ -46,7 +46,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=kKNKqut7t1Q&list=PLEQ3Q_FcrvEo&index=2
 - [summary](./slow-down-to-speed-up-gergely-craft-2026.md)
 
-# ignore - From Idea to Model to Code - Martin Dilger | Craft 2026
+# From Idea to Model to Code - Martin Dilger | Craft 2026
 
 - https://www.youtube.com/watch?v=d5ypk4nitf8&list=PLEQ3Q_FcrvEo&index=17
 - [summary](./from-idea-to-model-to-code-martin-dilger-craft-2026.md)
