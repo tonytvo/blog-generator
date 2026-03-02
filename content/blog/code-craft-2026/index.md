@@ -51,7 +51,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=d5ypk4nitf8&list=PLEQ3Q_FcrvEo&index=17
 - [summary](./from-idea-to-model-to-code-martin-dilger-craft-2026.md)
 
-# ignore - Building the Verification Sandwich - Matthew Maisel | Craft 2026
+# Building the Verification Sandwich - Matthew Maisel | Craft 2026
 
 - https://www.youtube.com/watch?v=yrUoxNTwYUo&list=PLEQ3Q_FcrvEo&index=18
 - [summary](./building-the-verification-sandwich-matthew-maisel-craft-2026.md)
