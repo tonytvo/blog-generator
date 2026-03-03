@@ -56,7 +56,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=yrUoxNTwYUo&list=PLEQ3Q_FcrvEo&index=18
 - [summary](./building-the-verification-sandwich-matthew-maisel-craft-2026.md)
 
-# ignore - How To Teach Your Agents About Architecture - Neal Ford | Craft 2026
+# How To Teach Your Agents About Architecture - Neal Ford | Craft 2026
 
 - https://www.youtube.com/watch?v=zlWw5SlTO8c&list=PLEQ3Q_FcrvEo&index=19
 - [summary](./how-to-teach-your-agents-about-architechture-neal-ford-craft-2026.md)
