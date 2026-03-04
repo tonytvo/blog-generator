@@ -61,7 +61,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=zlWw5SlTO8c&list=PLEQ3Q_FcrvEo&index=19
 - [summary](./how-to-teach-your-agents-about-architechture-neal-ford-craft-2026.md)
 
-# ignore - Code Health Guardian - Artie Shevchenko | Craft 2026
+# Code Health Guardian - Artie Shevchenko | Craft 2026
 
 - https://www.youtube.com/watch?v=mHXm5j_tGrc&list=PLEQ3Q_FcrvEo&index=20
 - [summary](./code-health-guardian-artie-shevchenko-craft-2026.md)
