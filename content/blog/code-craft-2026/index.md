@@ -66,7 +66,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=mHXm5j_tGrc&list=PLEQ3Q_FcrvEo&index=20
 - [summary](./code-health-guardian-artie-shevchenko-craft-2026.md)
 
-# ignore - Beyond autonomous teams - Simon Rohrer | Craft 2026
+# Beyond autonomous teams - Simon Rohrer | Craft 2026
 
 - https://www.youtube.com/watch?v=95YZ2ntBl9M&list=PLEQ3Q_FcrvEo&index=21
 - [summary](./beyond-autonomous-teams-simon-rohrer-craft-2026.md)
