@@ -71,7 +71,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=95YZ2ntBl9M&list=PLEQ3Q_FcrvEo&index=21
 - [summary](./beyond-autonomous-teams-simon-rohrer-craft-2026.md)
 
-# ignore - AI-Friendly Code: Your Code Is an AI Crime Scene - Adam Tornhill | Craft 2026
+# AI-Friendly Code: Your Code Is an AI Crime Scene - Adam Tornhill | Craft 2026
 
 - https://www.youtube.com/watch?v=rT_o59v4m00&list=PLEQ3Q_FcrvEo&index=16
 - [summary](./ai-friendly-code-your-code-is-an-ai-crime-scene-adam-tornhill-craft-2026.md)
