@@ -77,7 +77,7 @@ tags: ["softwaredevelopment"]
 - [summary](./ai-friendly-code-your-code-is-an-ai-crime-scene-adam-tornhill-craft-2026.md)
 
 
-# ignore - Software Workflow Optimization: The DDO Model - Titus Winters | Craft 2026
+# Software Workflow Optimization: The DDO Model - Titus Winters | Craft 2026
 
 - https://www.youtube.com/watch?v=yNtGXlhDfpQ&list=PLEQ3Q_FcrvEo&index=27
 - [summary](./software-workflow-optimization-the-ddo-model-titus-winters-craft-2026.md)
