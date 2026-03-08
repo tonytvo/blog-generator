@@ -82,7 +82,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=yNtGXlhDfpQ&list=PLEQ3Q_FcrvEo&index=27
 - [summary](./software-workflow-optimization-the-ddo-model-titus-winters-craft-2026.md)
 
-# ignore - AI & Social Acceleration: Why are we faster yet falling behind? - Cat Swetel | Craft 2026
+# AI & Social Acceleration: Why are we faster yet falling behind? - Cat Swetel | Craft 2026
 
 - https://www.youtube.com/watch?v=NLbT-DkW5_U&list=PLEQ3Q_FcrvEo&index=28
 - [summary](./ai-social-acceleration-why-are-we-faster-yet-falling-behind-cat-swetel-craft-2026.md)
