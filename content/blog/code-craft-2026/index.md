@@ -88,7 +88,7 @@ tags: ["softwaredevelopment"]
 - [summary](./ai-social-acceleration-why-are-we-faster-yet-falling-behind-cat-swetel-craft-2026.md)
 
 
-# ignore - AI in 6G mobile network - Benedek Kovács | Craft 2026
+# AI in 6G mobile network - Benedek Kovács | Craft 2026
 
 - https://www.youtube.com/watch?v=vARsbVTiDo0&list=PLEQ3Q_FcrvEo&index=55
 - [summary](./ai-in-6g-mobile-network-benedek-kovacs-craft-2026.md)
