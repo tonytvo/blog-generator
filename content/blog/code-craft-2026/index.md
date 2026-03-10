@@ -93,7 +93,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=vARsbVTiDo0&list=PLEQ3Q_FcrvEo&index=55
 - [summary](./ai-in-6g-mobile-network-benedek-kovacs-craft-2026.md)
 
-# ignore - How to survive and thrive as a dev team in the age of AI - Sander Hoogendoorn | Craft 2026
+# How to survive and thrive as a dev team in the age of AI - Sander Hoogendoorn | Craft 2026
 
 - https://www.youtube.com/watch?v=orOwOZ2WPM0&list=PLEQ3Q_FcrvEo&index=29
 - [summary](./how-to-survive-and-thrive-as-a-dev-team-in-the-age-of-ai-sander-hoogendoorn-craft-2026.md)
