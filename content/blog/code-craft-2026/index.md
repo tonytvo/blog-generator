@@ -98,7 +98,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=orOwOZ2WPM0&list=PLEQ3Q_FcrvEo&index=29
 - [summary](./how-to-survive-and-thrive-as-a-dev-team-in-the-age-of-ai-sander-hoogendoorn-craft-2026.md)
 
-# ignore - Inside the Brain of the Top 1% AI Companies - Márton Szabó | Craft 2026
+# Inside the Brain of the Top 1% AI Companies - Márton Szabó | Craft 2026
 
 - https://www.youtube.com/watch?v=wvWz_uqp9S0&list=PLEQ3Q_FcrvEo&index=30
 - [summary](./inside-the-brain-of-the-top-1-ai-companies-marton-szabo-craft-2026.md)
