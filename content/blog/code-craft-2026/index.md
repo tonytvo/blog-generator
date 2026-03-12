@@ -165,7 +165,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=whe-o6WamJk
 - [summary](./aspect-oriented-architecture-neal-ford-craft-2025.md)
 
-
 # Handling Complexity in Software Development Projects - Balázs Lóránd, Árpád Maróti | Craft 2025
 
 - https://www.youtube.com/watch?v=vJi8agDfonc
@@ -215,7 +214,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=mfxR1JkS7us
 - [summary](./data-access-and-data-sharing-in-microservices-mark-richards-craft-2025.md)
-
 
 # Seven Habits of a Highly Successful Team - Sander Hoogendoorn | Craft 2025
 
