@@ -25,7 +25,7 @@ tags: ["softwaredevelopment"]
 - [summary](./journaling-ai-llewellyn-falco.md)
 - https://diataxis.fr/start-here/
 
-# ignore - leveling up as a programmer in the age of AI
+# leveling up as a programmer in the age of AI
 - [laerning programming in the age of AI](https://www.youtube.com/watch?v=a8BWzqVM6yc&list=PLEQ3Q_FcrvEo&index=50)
 - experimental creative writing with the vectorized word -> https://www.youtube.com/watch?v=L3D0JEA1Jdc
 - [summary](./learning-programming-ai-chelsea-troy.md)
