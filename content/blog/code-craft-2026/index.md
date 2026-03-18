@@ -30,7 +30,7 @@ tags: ["softwaredevelopment"]
 - experimental creative writing with the vectorized word -> https://www.youtube.com/watch?v=L3D0JEA1Jdc
 - [summary](./learning-programming-ai-chelsea-troy.md)
 
-# ignore - Agency - Ashi Krishnan | Craft Conference 2024
+# Agency - Ashi Krishnan | Craft Conference 2024
 
 - https://www.youtube.com/watch?v=hUBKI5PTbT4
 - [summary](./agency-ashi-krishnan-craft-conference-2024.md)
