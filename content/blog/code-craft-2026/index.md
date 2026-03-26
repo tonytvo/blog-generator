@@ -20,7 +20,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=3zrrE374l1M&list=PLEQ3Q_FcrvEo&index=3
 - [summary](./high-performing-communication-techniques-pelrine-craft-2026.md)
 
-# ignore - Journaling with AI - Llewellyn Falco
+# Journaling with AI - Llewellyn Falco
 - [journaling ai](https://www.youtube.com/watch?v=Gttvu9I1abo&list=PLEQ3Q_FcrvEo&index=13)
 - [summary](./journaling-ai-llewellyn-falco.md)
 - https://diataxis.fr/start-here/
