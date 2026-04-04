@@ -5,7 +5,7 @@ description: "code craft 2026 summary"
 tags: ["softwaredevelopment"]
 ---
 
-# ignore - Patterns for Coding with AI - Lada Kesseler | Craft 2026
+# Patterns for Coding with AI - Lada Kesseler | Craft 2026
 
 - https://www.youtube.com/watch?v=gTgEZsfyzoo&list=PLEQ3Q_FcrvEo&index=32
 - [summary](./patterns-for-coding-with-ai-lada-kesseler-craft-2026.md)
