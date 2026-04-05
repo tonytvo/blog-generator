@@ -10,7 +10,7 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=gTgEZsfyzoo&list=PLEQ3Q_FcrvEo&index=32
 - [summary](./patterns-for-coding-with-ai-lada-kesseler-craft-2026.md)
 
-# ignore - Kent Beck - Podcast Stage | Craft 2026
+# Kent Beck - Podcast Stage | Craft 2026
 
 - https://www.youtube.com/watch?v=2TDhKfKZyBw&list=PLEQ3Q_FcrvEo&index=12
 - [summary](./kent-beck-podcast-stage-craft-2026.md)
