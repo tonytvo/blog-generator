@@ -1,3 +1,11 @@
+---
+title: "Video Summary Playbook"
+date: "2026-06-04T00:00:00.000Z"
+description: "video summary playbook"
+type: "reference"
+tags: ["softwaredevelopment", "ai"]
+---
+
 # Video → In-Depth Summary Playbook (reusable, single- or multi-agent)
 
 A repeatable process for turning **conference-talk / YouTube videos** into deep, per-talk
