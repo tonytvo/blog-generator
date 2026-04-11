@@ -1,6 +1,6 @@
 ---
 title: "Leveling Up as a Programmer in the Age of AI — Chelsey Troy | Craft 2026"
-date: "2026-06-05T00:00:00.000Z"
+date: "2026-06-06T00:00:00.000Z"
 description: "leveling up as a programmer in the age of AI"
 type: "reference"
 tags: ["softwaredevelopment", "ai"]
