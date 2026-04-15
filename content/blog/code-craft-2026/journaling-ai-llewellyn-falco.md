@@ -1,7 +1,7 @@
 ---
 title: "Journaling with AI — Llewellyn Falco | Craft 2026"
 date: "2026-06-04T00:00:00.000Z"
-description: "If you're only doing code with agentic AI, you are doing it wrong"
+description: "Personal AI Wizardry or If you're only doing code with agentic AI, you are doing it wrong"
 type: "reference"
 tags: ["softwaredevelopment", "ai"]
 ---
