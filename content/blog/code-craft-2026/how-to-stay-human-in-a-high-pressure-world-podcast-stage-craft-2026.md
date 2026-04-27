@@ -1,76 +1,142 @@
 ---
 title: "How to Stay Human in a High-Pressure World – Podcast Stage | Craft 2026"
 date: "2026-06-04T00:00:00.000Z"
-description: "A Leadership Anonymous panel on mental health and IT leadership in the AI era — techno-stress, allostatic load, XP as a humane practice, socio-technical design, and tiny behavior-first change."
+description: "A Leadership Anonymous panel (Craft 2026) on mental health and IT leadership in the AI era — mental-health first aid, the forgotten toll of bad code bases, techno-stress and allostatic load, the XP developer/product-owner 'Miranda card', socio-technical design and the open-office study, behavior-first tiny change, recovery vs. downtime, and closing tips (deep democracy, no interventions)."
 type: "reference"
 tags: ["softwaredevelopment"]
 ---
 
-# How to Stay Human in a High-Pressure World – Podcast Stage (Panel Outline)
+# How to Stay Human in a High-Pressure World – Podcast Stage | Craft 2026 (Panel Outline)
 
-> ABK / *Leadership Anonymous* panel at Craft 2026 on **mental health and IT leadership**, hosted by Karolina "Fancsi" Tóth with Marian Hartman (behavior-first change), Joseph Pelrine (psychologist, agile pioneer), and Kenny Schwegler (socio-technical design). Framing: *"There are no mental-health issues, only problems in living"* (András Feldmár).
+> A **podcast-stage panel** on day two of Craft 2026's first-ever podcast stage, hosted by the **ABK Podcast** ("Anonim Vezetői Klubja" / **Leadership Anonymous**, ~4 years old, founded to "make workplaces better in Hungary" after hearing people complain about bosses at Sunday family dinners — anonymous because "it's not about who did what, but how we can be better next time"). Moderator: **Fanni / Karolina Tóth** (cognitive scientist → IT consultant → high-performance coach → scuba dive leader). Topic: **mental health and IT leadership**, based on their Hungarian episode #36 recorded just after Trump's second-term win and the first AI-driven tech layoffs. Panelists: **Marian Hartman** (educator/consultant; creator of the **Green Path method** for behavior-first change management), **Joseph Pelrine** (psychologist, "retired," Agile pioneer in Europe, worked on the Chrysler C3 team learning XP), and **Kenny Schwegler** (collaborative software design / **socio-technical** architecture enabler at Aardling/Agile e-commerce). Framing quote: Hungarian psychologist **András Feldmár** — "there are no mental-health issues, only problems in living."
 
 ---
 
-## 1. The State of Mental Health in Tech
+## 1. Opening — The State of Mental Health in Tech
 
-- **Joseph Pelrine** (68, recently had a heart attack): "the world is f***ed up"; his mission is to leave it better by passing on knowledge. Strong recommendation: everyone should take **Mental Health First Aid** (a 2-day course) — the psychological equivalent of CPR/first aid, including how to respond to someone suicidal.
-- **Marian Hartman**: resources exist, but people are **exhausted** — living moment-to-moment burns executive function. A forgotten baseline: **the work itself**. Making engineers work in a terrible code base is like asking them to "smoke a pack of cigarettes a day on executive function."
-- **Kenny Schwegler**: a personal story (a manager who simply *sat with* him during a Friday-night outage, wine in hand) — the humanity that "check-boxed" mental-health programs miss. His shirt: *"boys get sad too"* — men are constrained into what they *should* be without being asked what they *want* to be.
+### 1.1 Joseph — "the world is [messed] up"
+- Perspective of "a 68-year-old who just had a heart attack" who wants to leave the world better by passing on his knowledge.
+- **Mental Health First Aid:** a **two-day training** available in almost every country — just as you learned first aid/CPR for a driver's license, learn how to act when you see someone ready to harm themselves. He did it last year and had to ask a friend "Are you planning on committing suicide?" — she said yes. "One little step we can all do to help others."
 
-## 2. What Makes a Tech Culture Toxic — Techno-Stress
+### 1.2 Marian — don't forget the actual work (the code base)
+- Lots of effort now goes to mental-health resources, but people are **exhausted** — huge **executive function** spent just to live moment to moment.
+- The forgotten baseline: **the actual work.** Asking engineers to work daily in "a really shitty code base" is like "asking them to smoke a pack of cigarettes a day on executive function." Initiatives are important, but "don't forget the code bases we're working with."
 
-Pelrine's psychology lens: **techno-stress** has four components —
-1. **Techno-complexity** — constantly changing, confusing tech (code bases, faster AI generations, UI updates that move the buttons).
-2. **Techno-overload** — too many demands, all "P0 urgent."
-3. **Techno-invasion** — always-on culture encroaching on personal life (don't sleep with your phone by the bed — use a watch as an alarm).
-4. **Status games disguised as meritocracy** — PR counts, "employee of the month."
+### 1.3 Kenny — humanity vs. checkboxing
+- 14 years ago as a Java engineer, everything crashed on a Friday; 6 months in, he joked to a colleague about a glass of wine, she poured one, and a manager walked in — then poured himself a glass and sat down. Only later did Kenny learn the manager stayed **just for them** — that personal conversation ("you seem calm, how do you do that?") is what helped.
+- "I don't feel like there's time for that anymore." Most mental-health efforts are **checkboxing** ("let's implement this — but where is the humanity?").
+- His **"boys get sad too"** shirt (from the UK, supporting mental health) — in some UK workplaces asking "how was your day?" / talking about a bad day is dismissed as "woke"; men are **constrained in what they should be** without being asked what they want to be.
+- Fanni: it's easier to fall into rabbit holes as the world shrinks; "I can be unhappy with someone's work and still appreciate their presence and give them feedback."
 
-These create **allostatic load** (McEwen): cumulative wear on brain/body when stress hormones never return to baseline. Eisenberger's neuroimaging shows the brain processes this chronic stress like **physical pain**.
+---
 
-## 3. XP as a Humane Discipline (and the "Miranda Card")
+## 2. What Makes a Tech Culture Toxic — Techno-Stress & Allostatic Load (Joseph)
 
-- Pelrine learned XP on the Chrysler C3 team from Kent Beck, whose stated goal was *"to make the world safe for programmers — and programmers safe for the world."*
-- Ron Jeffries' **XP "Miranda card"** — a bill of rights:
-  - *Developer:* know what's needed with clear priority; produce quality work at all times; ask for and receive help; make/update your own estimates in **real units, not story points**; accept responsibilities rather than have them assigned.
-  - *Customer/PO:* an overall plan; the most value each week; **progress in an always-running system** proven by repeatable tests; the right to change your mind; the right to be informed of schedule change and reduce scope while keeping a working system.
-- The core idea: **at the end of every week the customer can stop and still have a working system that reflects their investment** — that is safety.
+### 2.1 What makes it good
+- "Doing **Extreme Programming right**."
 
-## 4. Socio-Technical Design — How Systems Make People Sick
+### 2.2 Techno-stress — four components
+- **Techno-complexity** — a constantly changing, complex technical environment (code bases, ever-faster AI generations, "every iPhone update I can't find the buttons anymore").
+- **Techno-overload** — too many demands through technology, all "P0 urgency."
+- **Techno-invasion** — technology encroaching on personal life ("always-on" culture; a poll shows almost everyone sleeps with their phone by the bed — his tip: use a **watch** as the alarm instead).
+- **Status games disguised as meritocracy** — "how many pull requests?", employee-of-the-month.
 
-- Socio-technical principle: optimize the **technical *and* the social** together, or you end up in a bad state — exactly what's happening with AI (a technical tool adopted with no attention to the social side).
-- **Open-office case study** (Lean Agile Scotland): when *teams designed their own space*, mental health, productivity, communication all rose and cost fell (a "five win"). When consultants **copy-pasted the layout** into other contexts, **4 of 5 outcomes went bad** — only budget improved. Lesson: **include the people who work in it in the design.**
-- Architecture/digitalization decisions imposed on real users (e.g., 20-year DHL drivers) can harm rather than help; "is digitalization always good, or are we losing human communication?"
+### 2.3 Allostatic load
+- **McEwen's allostatic load** — constant wear and tear on brain and body when **stress hormones never return to baseline**.
+- **Eisenberger's neuroimaging research** — high stress makes the brain react the **same way as to physical pain**.
 
-## 5. Behavior-First Change — Small Beats Splashy
+### 2.4 XP as safety, and the "Miranda card"
+- Learned XP from the beginning on the **Chrysler C3 team** with **Kent Beck**, who said he invented XP **"to make the world safe for programmers — and programmers safe for the world."**
+- **Ron Jeffries' C3 "Miranda card"** (like a US police Miranda card) — a developer's rights: know what's needed with clear priority; produce quality work at all times; ask for and receive help from peers/superiors/customers; make and update your **own estimates in real units, not story points**; accept responsibilities rather than have them assigned.
+- Product-owner rights: an overall plan (what, when, cost); the most value out of each development week; see progress in an **always-running system** (XP's goal: a system that runs by end of first sprint, even if it does nothing); prove it works via a **repeatable test** the PO specifies; change mind/substitute functionality/priorities; be informed of schedule changes and choose to reduce scope, restore the date, or **cancel anytime and be left with a useful working system** reflecting the investment to date.
+- Context: late-90s pre-Y2K internet hype — companies aiming at IPOs wanted "something that just works enough," and each week the customer could stop with a working system. "That's safety."
 
-- **Marian**: "splash interventions" don't stick. Real change affects the **day-to-day workflow** with **tiny, near-invisible behaviors** — different for every team. (A survey of ~200 teams yielded ~175 different ways to handle one technical issue: one-shot fixes help some teams, hurt others.)
-- **XP practices** are the exception — tiny behaviors (e.g., *peel-and-slice* refactoring to make untestable code testable) that produce healthier code bases. Unlike Scrum (a process interpreted differently by every Scrum Master), XP is a **discipline**.
-- Pelrine's history: Scrum was a subset of XP practices; teams threw away the hard/valuable parts, then abused Kanban. And **mandates usually come from people who don't have to do the work themselves.**
+---
 
-## 6. Control, Autonomy & the Laissez-Faire Trap
+## 3. How Poorly Designed Systems Make People Sick (Kenny — Socio-Technical)
 
-- The felt **need for control** is a basic safety need; being *asked* and having your input count is one way to feel in control.
-- Kenny (open socio-technical theory): three modes —
-  - **Command-and-control** (works),
-  - **Genuine open socio-technical design** (works ~40% better when taken seriously),
-  - **Laissez-faire** — top stays command-and-control but tells teams "you're autonomous now," creating confusion. Avoid the container-word trap.
-- Psychological safety and good practices must be **interwoven (a figure-8)**, not sequential — don't wait for everything to align before improving.
+### 3.1 Optimize social *and* technical together
+- In socio-technical systems, if you optimize the technical you must **also optimize the social** — they must improve together or you end up in a bad state. This is what's happening with AI: it's a technical tool, but we're not looking at ways to improve the **social** part (his talk with **Evelyn van Kelle**).
 
-## 7. Recovery, Not Downtime
+### 3.2 The open-office study (Lean Agile Scotland talk)
+- The **original** open office: teams sat together and **designed the space to optimize their own needs** (technical + social) → mental health up, production up, communication up, sickness down, cost down — a **five-way win**.
+- Management consultants then **copied it into other contexts** → **four of five went bad**: mental health down (the one person in the corner watching everyone → less safety), sickness up (contagion, e.g., Corona), communication down (everyone in headphones because it's noisy); only **budget** improved (cheaper).
+- It works only where you **include the people who work in it** in the design — different teams need different things (e.g., a way to shut themselves off).
+- Example: a workplace where every hour a group stood in front of a nearby meeting room → he went home to work, and communication went down.
+- Also: digitalizing a process (e.g., **DHL** drivers of 20 years) can impact people who must cope with change they may not want — "we always think digitalization is good, but are we losing communication with people?"
 
-- Pelrine reframes "downtime" as **recovery time** to reduce allostatic load. Two frameworks:
-  - **Psychological detachment** (Sonnentag): physical detachment from work; relaxation (mindfulness or "just a beer"); **mastery** (do something you're good at that isn't coding); **control over your own time**.
-  - **Restorative environments** (Kaplan): natural settings, low physical/cognitive demand, "soft fascination."
-- Key line: **"Rest is not a reward for completed work — software never finishes."** Build in rest/detachment deliberately.
-- COVID worsened this for the less-privileged (no separate space to detach); orgs should ensure home-workers have a real workspace. Rituals help: the "briefcase walk" to bookend the day; a 10-minute morning meditation. Leaders must account for **invisible work** like email (thankless, unseen unless undone).
+---
 
-## 8. Closing Tips
+## 4. Behavior-First Change — What Actually Works (Marian)
 
-- **Marian:** don't do interventions — pick one small, practical thing inside the workflow (great advice for AI adoption too).
-- **Kenny (deep democracy):** after any decision, ask those *against* it how it feels, let them vent, then ask **"what do you need to go along?"** People accept outcomes when they feel heard and cared for.
-- **Joseph:** the blank, unrecordable start of a reel-to-reel tape is called a **"leader"** — think about it.
-- Overall: AI won't keep us human — only we can do that for ourselves and support each other in doing it.
+### 4.1 Smaller is better
+- "Splash intervention effects" are exciting but **don't stick**; affecting the **day-to-day workflow** is far more helpful, especially the **invisible** issues — and it's different for every team.
+- Example: management surveyed ~**200 teams** on handling a technical issue → ~**175 different ways**; one-shot fixes help some teams and hurt others. Be aware of **each team's workflow**.
+
+### 4.2 XP as a universal exception
+- Some **universal practices** are wonderful — e.g., **XP**, because it produces a **healthy code base** via tiny behaviors, not a process (unlike **Scrum**, interpreted differently by every Scrum Master → inconsistency).
+- Joseph: Kent called XP **"a discipline of programming"**; "we joked pair programming came about because nobody had the discipline to do it alone." Scrum was originally a couple of XP practices (planning game, on-site customer); teams **threw away the hard stuff** (the highest-benefit part), leaving Scrum, then threw away reviews/iterations, ending in **abused Kanban** — "where many teams are right now."
+- Mandates ("everyone does Scrum now") normally come from **people who don't have to do it themselves** and only indirectly suffer.
+
+### 4.3 Control as a basic need
+- Fanni: the **feeling of control** is a basic safety need; being **asked and having your response taken into account** is one way people feel in control (not "organizing every Lego").
+- Kenny (open socio-technical theory): a top-down "command and control" *does* work; the research-backed **open socio-technical (DP2)** works ~**40% better** when taken seriously; the worst is **laissez-faire** — top does command-and-control but tells teams "you're autonomous now" (a container word) → confusion. (He attributes the concept but can't recall the researcher's name.)
+
+### 4.4 Practice + psychological safety must interweave
+- Fanni: Scrum is measurable, but without psychological safety, being asked, autonomy, and control it's "a pain in the bottom." Safety and the right practices must connect in a **figure-eight**, not one-after-the-other — you can't wait for everything to align before improving.
+
+### 4.5 Understanding doesn't change behavior — tiny nudges do
+- **Self-care** is each person's responsibility (she recommends **_Atomic Habits_** — "every human should read it").
+- For teams: let **engineers identify the problems**, and keep changes **tiny** — "nudges that take seconds or a minute" and **don't disrupt the work**.
+- Example: in refactoring, a **"peel and slice"** takes little time but lets you **test previously untestable code** — a huge difference from a tiny behavior. Such XP / "discipline of refactoring" practices raise engineering teams' mental-health capacity.
+
+---
+
+## 5. Recovery, Not Downtime (Joseph)
+
+### 5.1 Psychological detachment (Sonnentag/"Sonen Talken Fritz")
+- Four components: **physical detachment** from the work environment; **relaxation techniques** (mindfulness or "just having a beer"); **mastery** (do something you're good at that isn't coding); and **control over your own time**.
+
+### 5.2 Restorative environments (Kaplan)
+- Get into a **natural environment**, do **low-demand** activities (low physical/cognitive), and seek things with **"soft fascination"** (not fixating). He lives in an Alpine village of "200 people and 300 cows," 2 minutes from the woods.
+- **"Rest is not a reward for completed work"** — if you wait until you finish to rest, you'll never finish (software never finishes). Build in rest and detachment periods; this counters the always-on techno-overload.
+
+### 5.3 The privilege problem (Kenny) and rituals
+- COVID made detachment worse for the **less privileged** — people working and eating at the same dining table with no separate space. If you want people working from home, ensure they have **separate spaces** to work and live.
+- Joseph's YouTube talk **"Love in the Time of Corona"** — the cognitive dissonance of virtual environments (cameras off / virtual backgrounds to defend personal space or hide a crowded flat).
+- **Rituals:** a Dutch anthropologist's small habit — take your briefcase, walk 20 minutes, come back, then start work (and repeat at day's end) to **ritually detach**. Joseph meditates 10 minutes in his garden each morning ("I can always tell when I don't").
+- Leaders must recognize **invisible** load (e.g., **email** — thankless, invisible unless unanswered); a 7 a.m. meeting plus 2 hours of email means asking people to get up at 5.
+
+---
+
+## 6. Closing Tips ("shooting match")
+
+### 6.1 Marian
+- **Don't do an intervention** — whether AI or parking spaces. Focus on something **small and practical in the workflow** and see where it goes; for AI adoption, "starting with a very tiny habit in the workflow will get you farther faster and not stress people out."
+
+### 6.2 Kenny (deep democracy)
+- However you decide (autocratic or democratic), once there's a decision, **ask those who were against it** how it is for them, **let them rant / be uncomfortable with them**, then ask **"what do you need to go along?"** — a **deep democracy** tip. People end up saying "even though you didn't take my advice, I'm fine because you **listened** to me / **cared** for me." "Let's get comfortable with being uncomfortable."
+
+### 6.3 Joseph (the "leader" tape metaphor)
+- On a reel-to-reel tape, the blank clear part at the start that holds no information and can't be recorded onto is called the **"leader."** "Think about it."
+
+### 6.4 Host's close
+- The point was to bring ourselves back to ourselves and to caring for our teams — "**AI is not going to do that, and we can't ask it to**"; support each other via practices like XP and change implemented so people feel **in control**.
+
+---
+
+## People & References Cited
+
+- **Fanni / Karolina Tóth** — moderator; ABK Podcast (Leadership Anonymous).
+- **Marian Hartman** — Green Path method / behavior-first change.
+- **Joseph Pelrine** — psychologist; Agile pioneer; Chrysler C3 / XP; "Love in the Time of Corona."
+- **Kenny Schwegler** — socio-technical architecture; talk with Evelyn van Kelle.
+- **András Feldmár** — "no mental-health issues, only problems in living."
+- **Kent Beck** — XP ("make the world safe for programmers"), "discipline of programming."
+- **Ron Jeffries** — the C3 "Miranda card" of developer/product-owner rights.
+- **McEwen** — allostatic load. **Eisenberger** — stress-as-physical-pain neuroimaging. **Sonnentag** — psychological detachment. **Kaplan** — restorative environments / soft fascination.
+- **Book:** *Atomic Habits*. **Concepts:** Mental Health First Aid, techno-stress (complexity/overload/invasion/status games), XP, Scrum→Kanban degradation, socio-technical DP2 vs. laissez-faire, open-office study (Lean Agile Scotland), peel-and-slice refactoring, deep democracy, recovery vs. downtime.
+- **Companies mentioned:** DHL (drivers), Chrysler (C3).
 
 ---
 
