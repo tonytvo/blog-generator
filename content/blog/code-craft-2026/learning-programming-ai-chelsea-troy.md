@@ -1,3 +1,11 @@
+---
+title: "Leveling Up as a Programmer in the Age of AI — Chelsey Troy | Craft 2026"
+date: "2026-06-04T00:00:00.000Z"
+description: "leveling up as a programmer in the age of AI"
+type: "reference"
+tags: ["softwaredevelopment", "ai"]
+---
+
 # Leveling Up as a Programmer in the Age of AI
 
 **Speaker:** Chelsea Troy (Mozilla; teaches at the University of Chicago)
