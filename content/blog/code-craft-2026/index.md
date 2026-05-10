@@ -384,6 +384,41 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=I4Pu8Sps9mU
 - [summary](./transforming-testing-from-a-task-to-a-strategic-mindset-chisara-nwabara-craft-2025.md)
 
+# Telling Better Stories with Tests - Keeseler Lada, Falco Llewellyn | Craft 2025
+
+- https://www.youtube.com/watch?v=h5vXHrL7ETQ
+- [summary](./telling-better-stories-with-tests-lada-llewellyn-craft-2025.md)
+
+# AI Engineering Anti-patterns - Chip Huyen | Craft 2025
+
+- https://www.youtube.com/watch?v=PKtR41eEVDU
+- [summary](./ai-engineering-anti-patterns-craft-2025.md)
+
+# Designing Deploy-Time Flexibility for Modular Systems - Florin Coros | Craft 2025
+
+- https://www.youtube.com/watch?v=wDfKA8N6NE8
+- [summary](./designing-deploy-time-flexibility-for-modular-systems-florin-coros-craft-2025.md)
+
+# The real secret to high-performing teams - Joseph Pelrine | Craft 2025
+
+- https://www.youtube.com/watch?v=verCvdI6C_k
+- [summary](./the-real-secret-to-high-performing-teams-joseph-pelrine-craft-2025.md)
+
+# Refactoring from Objects to Functions - Duncan McGregor, Nat Pryce | Craft 2025
+
+- https://www.youtube.com/watch?v=D779nnFxQZY
+- [summary](./refactor-from-objects-to-functions-mccregor-nat-craft-2025.md)
+
+# Transforming Education: Applying AI to Universities - Zach Pendleton | Craft 2025
+
+- https://www.youtube.com/watch?v=owhWhxXg9JI
+- [summary](./transforming-education-applying-ai-to-universities-zach-pendleton-craft-2025.md)
+
+# The Intersection of Architecture and Implementation - Mark Richards | Craft 2025
+
+- https://www.youtube.com/watch?v=f6-mYeMNEyk
+- [summary](./the-intersection-of-architecture-and-implementation-mark-richards-craft-2025.md)
+
 # Beyond Big Ideas: Strategies for Continuous Innovation - Zsófi Herendi | Craft 2025
 
 - https://www.youtube.com/watch?v=RPbmz30qjEc
@@ -404,26 +439,66 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=MMqahx1PRQo
 - [summary](./process-files-blueprints-for-agentic-ai-llewellyn-falco-craft-2025.md)
 
+# Michael Feathers - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=YtTj0k-14oA&list=PLEQ3Q_FcrvEo&index=11
+- [summary](./michael-feathers-podcast-stage-craft-2026.md)
+
+
+# Gergely Orosz - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=Xd__vUlc1F4&list=PLEQ3Q_FcrvEo&index=4
+- [summary](./gergely-orosz-podcast-stage-craft-2026.md)
+
+# Xin Yao - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=aTf3bXxcKnY&list=PLEQ3Q_FcrvEo&index=5
+- [summary](./xin-yao-podcast-stage-craft-2026.md)
+
+# How to Stay Human in a High-Pressure World - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=Yq9cx4E-zU8&list=PLEQ3Q_FcrvEo&index=7
+- [summary](./how-to-stay-human-in-a-high-pressure-world-podcast-stage-craft-2026.md)
+
+# Evelyn Van Kelle - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=KCq386YnaT8&list=PLEQ3Q_FcrvEo&index=8
+- [summary](./evelyn-van-kelle-podcast-stage-craft-2026.md)
+
+# Ian Thomas - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=wPx8adZqo9o&list=PLEQ3Q_FcrvEo&index=9
+- [summary](./ian-thomas-podcast-stage-craft-2026.md)
+
+# Nickolas Means - Podcast Stage | Craft 2026
+
+- https://www.youtube.com/watch?v=xKr0BWxVV1I&list=PLEQ3Q_FcrvEo&index=10
+- [summary](./nickolas-means-podcast-stage-craft-2026.md)
+
+# Is it really that expensive to build an AI system today? - Ivan Petrović | Craft 2026
+
+- https://www.youtube.com/watch?v=APtnkVvYt6Q&list=PLEQ3Q_FcrvEo&index=60
+- [summary](./is-it-really-that-expensive-to-build-an-ai-system-today-ivan-petrovic-craft-2026.md)
+
+# Lizard Optimization - Gojko Adzic | Craft 2025
+
+- https://www.youtube.com/watch?v=_ch7LvVFPYg
+- [summary](./lizard-optimization-gojko-adzic-craft-2025.md)
+
+# Maximizing impact: Measuring the ROI of GenAI in the SDLC - Bruno Passos | Craft 2025
+
+- https://www.youtube.com/watch?v=zmj-KfvH2gE
+- [summary](./maximizing-impact-measuring-the-roi-of-genai-in-the-sdlc-bruno-passos-craft-2025.md)
+
+# Building for Global Engineering Platforms - Let's make an Operator - Bryan Oliver | Craft 2025
+
+- https://www.youtube.com/watch?v=GHjE0Tvo-Dg
+- [summary](./building-for-global-engineering-platforms-lets-make-an-operator-bryan-oliver-craft-2025.md)
+
 # Framework Agnostic Capacity Planning at Scale - Nick Brown | Craft 2025
 
 - https://www.youtube.com/watch?v=BQDILfWiRAc
 - [summary](./framework-agnostic-capacity-planning-at-scale-nick-brown-craft-2025.md)
-
-
-# Telling Better Stories with Tests - Keeseler Lada, Falco Llewellyn | Craft 2025
-
-- https://www.youtube.com/watch?v=h5vXHrL7ETQ
-- [summary](./telling-better-stories-with-tests-lada-llewellyn-craft-2025.md)
-
-# AI Engineering Anti-patterns - Chip Huyen | Craft 2025
-
-- https://www.youtube.com/watch?v=PKtR41eEVDU
-- [summary](./ai-engineering-anti-patterns-craft-2025.md)
-
-# Refactoring from Objects to Functions - Duncan McGregor, Nat Pryce | Craft 2025
-
-- https://www.youtube.com/watch?v=D779nnFxQZY
-- [summary](./refactor-from-objects-to-functions-mccregor-nat-craft-2025.md)
 
 
 # What AI Security means for you as a developer: Time-focused approach - Yossi Sassi | Craft 2025
@@ -436,26 +511,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=zXxl0iW4Z7I
 - [summary](./panel-about-vibe-coding-craft-2025.md)
-
-# Designing Deploy-Time Flexibility for Modular Systems - Florin Coros | Craft 2025
-
-- https://www.youtube.com/watch?v=wDfKA8N6NE8
-- [summary](./designing-deploy-time-flexibility-for-modular-systems-florin-coros-craft-2025.md)
-
-# The real secret to high-performing teams - Joseph Pelrine | Craft 2025
-
-- https://www.youtube.com/watch?v=verCvdI6C_k
-- [summary](./the-real-secret-to-high-performing-teams-joseph-pelrine-craft-2025.md)
-
-# Transforming Education: Applying AI to Universities - Zach Pendleton | Craft 2025
-
-- https://www.youtube.com/watch?v=owhWhxXg9JI
-- [summary](./transforming-education-applying-ai-to-universities-zach-pendleton-craft-2025.md)
-
-# The Intersection of Architecture and Implementation - Mark Richards | Craft 2025
-
-- https://www.youtube.com/watch?v=f6-mYeMNEyk
-- [summary](./the-intersection-of-architecture-and-implementation-mark-richards-craft-2025.md)
 
 # ESSENTIALS - Essentials from a Real-World Microservices Journey - Sander Hoogendoorn | Craft 2025
 
@@ -504,12 +559,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=_nB5r7FmCY0&list=PLEQ3Q_FcrvEo&index=68
 - [summary](./reuven-cohen-cognitum-craft-2026.md)
-
-
-# Is it really that expensive to build an AI system today? - Ivan Petrović | Craft 2026
-
-- https://www.youtube.com/watch?v=APtnkVvYt6Q&list=PLEQ3Q_FcrvEo&index=60
-- [summary](./is-it-really-that-expensive-to-build-an-ai-system-today-ivan-petrovic-craft-2026.md)
 
 
 # From idea to impact - Panel discussion | Craft 2026
@@ -561,42 +610,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=VieEf9qbjAA&list=PLEQ3Q_FcrvEo&index=46
 - [summary](./platform-as-a-product-a-dive-into-the-technical-foundations-abby-bangser-craft-2026.md)
-
-# Michael Feathers - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=YtTj0k-14oA&list=PLEQ3Q_FcrvEo&index=11
-- [summary](./michael-feathers-podcast-stage-craft-2026.md)
-
-
-# Gergely Orosz - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=Xd__vUlc1F4&list=PLEQ3Q_FcrvEo&index=4
-- [summary](./gergely-orosz-podcast-stage-craft-2026.md)
-
-# Xin Yao - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=aTf3bXxcKnY&list=PLEQ3Q_FcrvEo&index=5
-- [summary](./xin-yao-podcast-stage-craft-2026.md)
-
-# How to Stay Human in a High-Pressure World - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=Yq9cx4E-zU8&list=PLEQ3Q_FcrvEo&index=7
-- [summary](./how-to-stay-human-in-a-high-pressure-world-podcast-stage-craft-2026.md)
-
-# Evelyn Van Kelle - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=KCq386YnaT8&list=PLEQ3Q_FcrvEo&index=8
-- [summary](./evelyn-van-kelle-podcast-stage-craft-2026.md)
-
-# Ian Thomas - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=wPx8adZqo9o&list=PLEQ3Q_FcrvEo&index=9
-- [summary](./ian-thomas-podcast-stage-craft-2026.md)
-
-# Nickolas Means - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=xKr0BWxVV1I&list=PLEQ3Q_FcrvEo&index=10
-- [summary](./nickolas-means-podcast-stage-craft-2026.md)
 
 
 # Code World Model: Building World Models for Computation - Jacob Kahn | Craft 2026
@@ -734,12 +747,6 @@ tags: ["softwaredevelopment"]
 - [summary](./warp-speed-web-dev-with-astro-florian-rappl-craft-2025.md)
 
 
-# Maximizing impact: Measuring the ROI of GenAI in the SDLC - Bruno Passos | Craft 2025
-
-- https://www.youtube.com/watch?v=zmj-KfvH2gE
-- [summary](./maximizing-impact-measuring-the-roi-of-genai-in-the-sdlc-bruno-passos-craft-2025.md)
-
-
 # Digital Whiteboarding for Developers - Susan Fung | Craft 2025
 
 - https://www.youtube.com/watch?v=zTyT4fcyBu4
@@ -755,17 +762,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=bDTFO3r0aZ0
 - [summary](./living-your-best-life-as-a-platform-engineer-daniel-bolivar-craft-2025.md)
-
-# Lizard Optimization - Gojko Adzic | Craft 2025
-
-- https://www.youtube.com/watch?v=_ch7LvVFPYg
-- [summary](./lizard-optimization-gojko-adzic-craft-2025.md)
-
-
-# Building for Global Engineering Platforms - Let's make an Operator - Bryan Oliver | Craft 2025
-
-- https://www.youtube.com/watch?v=GHjE0Tvo-Dg
-- [summary](./building-for-global-engineering-platforms-lets-make-an-operator-bryan-oliver-craft-2025.md)
 
 
 # References
