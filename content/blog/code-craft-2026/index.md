@@ -42,6 +42,17 @@ tags: ["softwaredevelopment"]
 
 # Gejko - keeping human in the loop
 
+# Journaling with AI - Llewellyn Falco
+- [journaling ai](https://www.youtube.com/watch?v=Gttvu9I1abo&list=PLEQ3Q_FcrvEo&index=13)
+- [summary](./journaling-ai-llewellyn-falco.md)
+- https://diataxis.fr/start-here/
+
+# leveling up as a programmer in the age of AI
+- [laerning programming in the age of AI](https://www.youtube.com/watch?v=a8BWzqVM6yc&list=PLEQ3Q_FcrvEo&index=50)
+- experimental creative writing with the vectorized word -> https://www.youtube.com/watch?v=L3D0JEA1Jdc
+- [summary](./learning-programming-ai-chelsea-troy.md)
+
 # why new processes don't fix delivery
 
 # References
+- https://www.youtube.com/playlist?app=desktop&list=PLEQ3Q_FcrvEo
