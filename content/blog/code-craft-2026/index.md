@@ -570,6 +570,111 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=zmj-KfvH2gE
 - [summary](./maximizing-impact-measuring-the-roi-of-genai-in-the-sdlc-bruno-passos-craft-2025.md)
 
+# Panel about vibe coding | Craft 2025
+
+- https://www.youtube.com/watch?v=zXxl0iW4Z7I
+- [summary](./panel-about-vibe-coding-craft-2025.md)
+
+# Designing Deploy-Time Flexibility for Modular Systems - Florin Coros | Craft 2025
+
+- https://www.youtube.com/watch?v=wDfKA8N6NE8
+- [summary](./designing-deploy-time-flexibility-for-modular-systems-florin-coros-craft-2025.md)
+
+# The real secret to high-performing teams - Joseph Pelrine | Craft 2025
+
+- https://www.youtube.com/watch?v=verCvdI6C_k
+- [summary](./the-real-secret-to-high-performing-teams-joseph-pelrine-craft-2025.md)
+
+# Digital Whiteboarding for Developers - Susan Fung | Craft 2025
+
+- https://www.youtube.com/watch?v=zTyT4fcyBu4
+- [summary](./digital-whiteboarding-for-developers-susan-fung-craft-2025.md)
+
+# Fractal Geometry of Software Design - Vladik Khononov | Craft 2025
+
+- https://www.youtube.com/watch?v=qwWSNis8rvw
+- [summary](./fractal-geometry-of-software-design-vladik-khononov-craft-2025.md)
+
+# Transforming Education: Applying AI to Universities - Zach Pendleton | Craft 2025
+
+- https://www.youtube.com/watch?v=owhWhxXg9JI
+- [summary](./transforming-education-applying-ai-to-universities-zach-pendleton-craft-2025.md)
+
+# The Intersection of Architecture and Implementation - Mark Richards | Craft 2025
+
+- https://www.youtube.com/watch?v=f6-mYeMNEyk
+- [summary](./the-intersection-of-architecture-and-implementation-mark-richards-craft-2025.md)
+
+# Living your best life as a platform engineer - Daniel Bolívar | Craft 2025
+
+- https://www.youtube.com/watch?v=bDTFO3r0aZ0
+- [summary](./living-your-best-life-as-a-platform-engineer-daniel-bolivar-craft-2025.md)
+
+# Lizard Optimization - Gojko Adzic | Craft 2025
+
+- https://www.youtube.com/watch?v=_ch7LvVFPYg
+- [summary](./lizard-optimization-gojko-adzic-craft-2025.md)
+
+# Lessons learned from introducing Team Topologies - Michael Plöd | Craft 2025
+
+- https://www.youtube.com/watch?v=Xvi0sNKKfys
+- [summary](./lessons-learned-from-introducing-team-topologies-michael-plod-craft-2025.md)
+
+# Legacy Architecture Migration Patterns - Nick Tune, Guillaume Rahbari | Craft 2025
+
+- https://www.youtube.com/watch?v=X1imE1ks_3Y
+- [summary](./legacy-architecture-migration-patterns-nick-tune-guillaume-rahbari-craft-2025.md)
+
+# The Past as a Compass for Systems Engineers in the Age of AI - John Micheal Willis | Craft 2025
+
+- https://www.youtube.com/watch?v=ShDMvzenNJ8
+- [summary](./the-past-as-a-compass-for-systems-engineers-in-the-age-of-ai-john-michael-willis-craft-2025.md)
+
+# Let Them Eat Code - Colleen Johnson | Craft 2025
+
+- https://www.youtube.com/watch?v=Rw-ZZv0H7ME
+- [summary](./let-them-eat-code-colleen-johnson-craft-2025.md)
+
+# Transforming Testing from a Task to a Strategic Mindset - Chisara Nwabara | Craft 2025
+
+- https://www.youtube.com/watch?v=I4Pu8Sps9mU
+- [summary](./transforming-testing-from-a-task-to-a-strategic-mindset-chisara-nwabara-craft-2025.md)
+
+# Beyond Big Ideas: Strategies for Continuous Innovation - Zsófi Herendi | Craft 2025
+
+- https://www.youtube.com/watch?v=RPbmz30qjEc
+- [summary](./beyond-big-ideas-strategies-for-continuous-innovation-zsofi-herendi-craft-2025.md)
+
+# What AI Security means for you as a developer: Time-focused approach - Yossi Sassi | Craft 2025
+
+- https://www.youtube.com/watch?v=JivyJwzV_0E
+- [summary](./what-ai-security-means-for-you-as-a-developer-yossi-sassi-craft-2025.md)
+
+# Building for Global Engineering Platforms - Let's make an Operator - Bryan Oliver | Craft 2025
+
+- https://www.youtube.com/watch?v=GHjE0Tvo-Dg
+- [summary](./building-for-global-engineering-platforms-lets-make-an-operator-bryan-oliver-craft-2025.md)
+
+# Modernising architecture & ways of working at Saxo Bank - Simon Rohrer | Craft 2025
+
+- https://www.youtube.com/watch?v=9qOecF4PVDI
+- [summary](./modernising-architecture-and-ways-of-working-at-saxo-bank-simon-rohrer-craft-2025.md)
+
+# Map and Measure your way to Performance - Steve Pereira | Craft 2025
+
+- https://www.youtube.com/watch?v=11Dc-PKhnuc
+- [summary](./map-and-measure-your-way-to-performance-steve-pereira-craft-2025.md)
+
+# Process files: Blueprints for Agentic AI - Llewellyn Falco | Craft 2025
+
+- https://www.youtube.com/watch?v=MMqahx1PRQo
+- [summary](./process-files-blueprints-for-agentic-ai-llewellyn-falco-craft-2025.md)
+
+# Framework Agnostic Capacity Planning at Scale - Nick Brown | Craft 2025
+
+- https://www.youtube.com/watch?v=BQDILfWiRAc
+- [summary](./framework-agnostic-capacity-planning-at-scale-nick-brown-craft-2025.md)
+
 # Agency - Ashi Krishnan | Craft Conference 2024
 
 - https://www.youtube.com/watch?v=hUBKI5PTbT4
