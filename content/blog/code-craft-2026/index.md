@@ -5,15 +5,26 @@ description: "code craft 2026 summary"
 tags: ["softwaredevelopment"]
 ---
 
+# High-performing communication techniques for high-performing teams - Joseph Pelrine | Craft 2026
+
+- https://www.youtube.com/watch?v=3zrrE374l1M&list=PLEQ3Q_FcrvEo&index=3
+- [summary](./high-performing-communication-techniques-pelrine-craft-2026.md)
+
+
 # Slow down to speed up - Gergely Orosz | Craft 2026
 
 - https://www.youtube.com/watch?v=kKNKqut7t1Q&list=PLEQ3Q_FcrvEo&index=2
 - [summary](./slow-down-to-speed-up-gergely-craft-2026.md)
 
-# High-performing communication techniques for high-performing teams - Joseph Pelrine | Craft 2026
+# Michael Feathers - Podcast Stage | Craft 2026
 
-- https://www.youtube.com/watch?v=3zrrE374l1M&list=PLEQ3Q_FcrvEo&index=3
-- [summary](./high-performing-communication-techniques-pelrine-craft-2026.md)
+- https://www.youtube.com/watch?v=YtTj0k-14oA&list=PLEQ3Q_FcrvEo&index=11
+- [summary](./michael-feathers-podcast-stage-craft-2026.md)
+
+# Patterns for Coding with AI - Lada Kesseler | Craft 2026
+
+- https://www.youtube.com/watch?v=gTgEZsfyzoo&list=PLEQ3Q_FcrvEo&index=32
+- [summary](./patterns-for-coding-with-ai-lada-kesseler-craft-2026.md)
 
 # Gergely Orosz - Podcast Stage | Craft 2026
 
@@ -44,11 +55,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=xKr0BWxVV1I&list=PLEQ3Q_FcrvEo&index=10
 - [summary](./nickolas-means-podcast-stage-craft-2026.md)
-
-# Michael Feathers - Podcast Stage | Craft 2026
-
-- https://www.youtube.com/watch?v=YtTj0k-14oA&list=PLEQ3Q_FcrvEo&index=11
-- [summary](./michael-feathers-podcast-stage-craft-2026.md)
 
 # Kent Beck - Podcast Stage | Craft 2026
 
@@ -140,10 +146,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=I8WIWMlbwPA&list=PLEQ3Q_FcrvEo&index=31
 - [summary](./the-eight-desires-workshop-veronica-lynn-clark-craft-2026.md)
 
-# Patterns for Coding with AI - Lada Kesseler | Craft 2026
-
-- https://www.youtube.com/watch?v=gTgEZsfyzoo&list=PLEQ3Q_FcrvEo&index=32
-- [summary](./patterns-for-coding-with-ai-lada-kesseler-craft-2026.md)
 
 # Distributed agents that survive anything - Daniel Vigovszky | Craft 2026
 
