@@ -56,9 +56,37 @@ on the output file rather than blocking a foreground call.
 
 ### 3. Outline the transcript with AI
 
-Feed the transcript text to the model with the prompt:
+Feed the transcript text to the model with a **demanding, completeness-first** prompt.
+The old one-liner ("please detail outline the following transcript") compresses too
+much — it produces a thin, generic outline. Use this instead:
 
-> *"You're an expert in software development, please detail outline the following transcript"*
+> *"You're an expert in software development. Produce an **exhaustive hierarchical
+> outline** of the following talk transcript.*
+> *- Preserve **every** anecdote, name (people/companies/tools), number, statistic,
+>   direct quote, and concrete example. Do not compress, generalize, or summarize
+>   away specifics — err on the side of completeness.*
+> *- Use nested `##` / `###` Markdown sections, one per topic or sub-topic.*
+> *- If the talk **enumerates** things (patterns, steps, rules, trends, a list of
+>   companies), give each its own subsection, and add a **summary table** at the end
+>   plus a **'People & References Cited'** index.*
+> *- Attribute quotes and claims to whoever said them.*
+> *- Open with a one-paragraph blockquote framing the talk (speaker, venue, format,
+>   the talk's own structure).*
+> *- Keep the writing tight per line (no filler), but keep the outline long — depth
+>   over brevity."*
+
+**Notes to get the depth right:**
+- **One talk per pass.** Don't batch many transcripts into a single request — each
+  talk deserves its own full-attention pass.
+- **Do a second "enrich" pass** on the draft: *"Go back through the transcript and add
+  any anecdote, name, number, or example the outline missed."* This is what closes the
+  gap with a hand-curated summary.
+- **Match the talk's shape.** A 90-minute pattern-catalog workshop naturally expands
+  into a very long outline (tables, per-pattern subsections); a narrative keynote or
+  interview compresses into prose and will be shorter at the *same* fidelity — that's
+  expected, not a defect.
+- For very long transcripts, note "(partial for a long transcript)" in the provenance
+  footer if you couldn't capture everything in one pass.
 
 ### 4. Write the summary `.md`
 
