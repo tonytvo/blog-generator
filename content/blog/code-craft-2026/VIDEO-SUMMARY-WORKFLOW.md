@@ -139,6 +139,17 @@ Append a block in the same shape as the existing references:
 - [summary](./<summary-filename>.md)
 ```
 
+### 6. commit and deploy the changes
+
+- for every 5 talks summary, please commit and deploy the changes with the following command line
+
+```
+deploy.py --commit-message "craft2026" --gh-page-repo /home/tvo/dev/tonytvo.github.io --days-ago=15
+```
+
+- please increment the days-ago by 1 after each time running the command
+
+
 ---
 
 ## Notes / conventions

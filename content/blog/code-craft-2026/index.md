@@ -46,62 +46,241 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=kKNKqut7t1Q&list=PLEQ3Q_FcrvEo&index=2
 - [summary](./slow-down-to-speed-up-gergely-craft-2026.md)
 
-# From Idea to Model to Code - Martin Dilger | Craft 2026
+# ignore - From Idea to Model to Code - Martin Dilger | Craft 2026
 
 - https://www.youtube.com/watch?v=d5ypk4nitf8&list=PLEQ3Q_FcrvEo&index=17
 - [summary](./from-idea-to-model-to-code-martin-dilger-craft-2026.md)
 
-# Building the Verification Sandwich - Matthew Maisel | Craft 2026
+# ignore - Building the Verification Sandwich - Matthew Maisel | Craft 2026
 
 - https://www.youtube.com/watch?v=yrUoxNTwYUo&list=PLEQ3Q_FcrvEo&index=18
 - [summary](./building-the-verification-sandwich-matthew-maisel-craft-2026.md)
 
-# How To Teach Your Agents About Architecture - Neal Ford | Craft 2026
+# ignore - How To Teach Your Agents About Architecture - Neal Ford | Craft 2026
 
 - https://www.youtube.com/watch?v=zlWw5SlTO8c&list=PLEQ3Q_FcrvEo&index=19
 - [summary](./how-to-teach-your-agents-about-architechture-neal-ford-craft-2026.md)
 
-# Code Health Guardian - Artie Shevchenko | Craft 2026
+# ignore - Code Health Guardian - Artie Shevchenko | Craft 2026
 
 - https://www.youtube.com/watch?v=mHXm5j_tGrc&list=PLEQ3Q_FcrvEo&index=20
 - [summary](./code-health-guardian-artie-shevchenko-craft-2026.md)
 
-# Beyond autonomous teams - Simon Rohrer | Craft 2026
+# ignore - Beyond autonomous teams - Simon Rohrer | Craft 2026
 
 - https://www.youtube.com/watch?v=95YZ2ntBl9M&list=PLEQ3Q_FcrvEo&index=21
 - [summary](./beyond-autonomous-teams-simon-rohrer-craft-2026.md)
 
-# AI-Friendly Code: Your Code Is an AI Crime Scene - Adam Tornhill | Craft 2026
+# ignore - AI-Friendly Code: Your Code Is an AI Crime Scene - Adam Tornhill | Craft 2026
 
 - https://www.youtube.com/watch?v=rT_o59v4m00&list=PLEQ3Q_FcrvEo&index=16
 - [summary](./ai-friendly-code-your-code-is-an-ai-crime-scene-adam-tornhill-craft-2026.md)
 
 
-# Software Workflow Optimization: The DDO Model - Titus Winters | Craft 2026
+# ignore - Software Workflow Optimization: The DDO Model - Titus Winters | Craft 2026
 
 - https://www.youtube.com/watch?v=yNtGXlhDfpQ&list=PLEQ3Q_FcrvEo&index=27
 - [summary](./software-workflow-optimization-the-ddo-model-titus-winters-craft-2026.md)
 
-# AI & Social Acceleration: Why are we faster yet falling behind? - Cat Swetel | Craft 2026
+# ignore - AI & Social Acceleration: Why are we faster yet falling behind? - Cat Swetel | Craft 2026
 
 - https://www.youtube.com/watch?v=NLbT-DkW5_U&list=PLEQ3Q_FcrvEo&index=28
 - [summary](./ai-social-acceleration-why-are-we-faster-yet-falling-behind-cat-swetel-craft-2026.md)
 
 
-# AI in 6G mobile network - Benedek Kovács | Craft 2026
+# ignore - AI in 6G mobile network - Benedek Kovács | Craft 2026
 
 - https://www.youtube.com/watch?v=vARsbVTiDo0&list=PLEQ3Q_FcrvEo&index=55
 - [summary](./ai-in-6g-mobile-network-benedek-kovacs-craft-2026.md)
 
-# How to survive and thrive as a dev team in the age of AI - Sander Hoogendoorn | Craft 2026
+# ignore - How to survive and thrive as a dev team in the age of AI - Sander Hoogendoorn | Craft 2026
 
 - https://www.youtube.com/watch?v=orOwOZ2WPM0&list=PLEQ3Q_FcrvEo&index=29
 - [summary](./how-to-survive-and-thrive-as-a-dev-team-in-the-age-of-ai-sander-hoogendoorn-craft-2026.md)
 
-# Inside the Brain of the Top 1% AI Companies - Márton Szabó | Craft 2026
+# ignore - Inside the Brain of the Top 1% AI Companies - Márton Szabó | Craft 2026
 
 - https://www.youtube.com/watch?v=wvWz_uqp9S0&list=PLEQ3Q_FcrvEo&index=30
 - [summary](./inside-the-brain-of-the-top-1-ai-companies-marton-szabo-craft-2026.md)
+
+
+# Building Your AI Security Framework - Adam Litter | Craft 2026
+
+- https://www.youtube.com/watch?v=R1_vSnWYjpU&list=PLEQ3Q_FcrvEo&index=65
+- [summary](./building-your-ai-security-framework-adam-litter-craft-2026.md)
+
+# Beyond the Pipeline - Sam Matysen | Craft 2026
+
+- https://www.youtube.com/watch?v=Hm3ylIzf-vY&list=PLEQ3Q_FcrvEo&index=63
+- [summary](./beyond-the-pipeline-sam-matysen-craft-2026.md)
+
+
+# Quality Engineering in the Agentic Age: Build, Test, Orchestrate - Dragan Spiridonov | Craft 2026
+
+- https://www.youtube.com/watch?v=g20WggTdAYQ&list=PLEQ3Q_FcrvEo&index=66
+- [summary](./quality-engineering-in-the-agentic-age-build-test-orchestrate-dragan-spiridonov-craft-2026.md)
+
+# Reducing risk in projects, increasing resilience to unexpected change - Dave Snowden | Craft 2025
+
+- https://www.youtube.com/watch?v=PQtFrmYdAz4
+- [summary](./reducing-risk-in-projects-increasing-resilience-to-unexpected-change-dave-snowden-craft-2025.md)
+
+
+# Modernizing legacy through thousands of contextual tools per system - Tudor Girba | Craft 2025
+
+- https://www.youtube.com/watch?v=DB5ZOGpkL9k
+- [summary](./modernizing-legacy-through-thousands-of-contextual-tools-tudor-girba-craft-2025.md)
+
+
+# Architecture AntiPatterns and Pitfalls - Mark Richards | Craft 2026
+
+- https://www.youtube.com/watch?v=jz8wSo9aXtE&list=PLEQ3Q_FcrvEo&index=49
+- [summary](./architecture-antipatterns-and-pitfalls-mark-richards-craft-2026.md)
+
+
+# Get your systems to define the story of your organization - Kovács & Hermesz | Craft 2026
+
+- https://www.youtube.com/watch?v=G2PdKKYzrH8&list=PLEQ3Q_FcrvEo&index=53
+- [summary](./get-your-systems-to-define-the-story-of-your-organization-kovacs-hermesz-craft-2026.md)
+
+
+# Architecture is Designing Knowledge Flow - Diana Montalion | Craft 2025
+
+- https://www.youtube.com/watch?v=BLp1Ye8d290
+- [summary](./architecture-designing-knowledge-flow-talk-outline.md)
+
+# Architecture in the Age of Autonomous Code - Matthew Clark | Craft 2026
+
+- https://www.youtube.com/watch?v=9SZW2yQJazA&list=PLEQ3Q_FcrvEo&index=23
+- [summary](./architecture-in-the-age-of-autonomous-code-matthew-clark-craft-2026.md)
+
+
+# Building Resilience - Tricia Broderick | Craft 2025
+
+- https://www.youtube.com/watch?v=zNVVDlxkWX4
+- [summary](./building-resilience-tricia-broderick-craft-2025.md)
+
+# Aspect-oriented Architecture - Neal Ford | Craft 2025
+
+- https://www.youtube.com/watch?v=whe-o6WamJk
+- [summary](./aspect-oriented-architecture-neal-ford-craft-2025.md)
+
+
+# Handling Complexity in Software Development Projects - Balázs Lóránd, Árpád Maróti | Craft 2025
+
+- https://www.youtube.com/watch?v=vJi8agDfonc
+- [summary](./handling-complexity-in-software-development-projects-balazs-lorand-arpad-maroti-craft-2025.md)
+
+# A journey from static documentation to generative AI - Csaba Gecse, Zsófia Sárközi | Craft 2025
+
+- https://www.youtube.com/watch?v=tTRog8yusS0
+- [summary](./a-journey-from-static-documentation-to-generative-ai-csaba-gecse-zsofia-sarkozi-craft-2025.md)
+
+# Lessons learned from introducing Team Topologies - Michael Plöd | Craft 2025
+
+- https://www.youtube.com/watch?v=Xvi0sNKKfys
+- [summary](./lessons-learned-from-introducing-team-topologies-michael-plod-craft-2025.md)
+
+# Legacy Architecture Migration Patterns - Nick Tune, Guillaume Rahbari | Craft 2025
+
+- https://www.youtube.com/watch?v=X1imE1ks_3Y
+- [summary](./legacy-architecture-migration-patterns-nick-tune-guillaume-rahbari-craft-2025.md)
+
+# Intelligence as Infrastructure: What Developers Must Learn to Build with AI - Igor Sevo | Craft 2025
+
+- https://www.youtube.com/watch?v=Q6dCnhAfS3c
+- [summary](./intelligence-as-infrastructure-what-developers-must-learn-to-build-with-ai-igor-sevo-craft-2025.md)
+
+# Evolutionary Architecture: The What. The Why. The How. - Maciej Jedrzejewski | Craft 2025
+
+- https://www.youtube.com/watch?v=E5w2Hjw2szk
+- [summary](./evolutionary-architecture-the-what-the-why-the-how-maciej-jedrzejewski-craft-2025.md)
+
+# Architectural Blueprints for AI Agents - Zsolt Bátorfi | Craft 2025
+
+- https://www.youtube.com/watch?v=PbllnufHqcE
+- [summary](./architectural-blueprints-for-ai-agents-zsolt-batorfi-craft-2025.md)
+
+# Architecture Decisions in the Age of AI - Kenny Schwegler & Evelyn van Kelle | Craft 2026
+
+- https://www.youtube.com/watch?v=pWkz7Qfx16c&list=PLEQ3Q_FcrvEo&index=44
+- [summary](./architecture-decisions-in-the-age-of-ai-kenny-schwegler-evelyn-van-kelle-craft-2026.md)
+
+# Why New Processes Don't Fix Delivery - Marian Hartman | Craft 2026
+
+- https://www.youtube.com/watch?v=2Gh8FyCKVbk&list=PLEQ3Q_FcrvEo&index=45
+- [summary](./why-new-processes-dont-fix-delivery-marian-hartman-craft-2026.md)
+
+# Data Access and Data Sharing in Microservices - Mark Richards | Craft 2025
+
+- https://www.youtube.com/watch?v=mfxR1JkS7us
+- [summary](./data-access-and-data-sharing-in-microservices-mark-richards-craft-2025.md)
+
+
+# Seven Habits of a Highly Successful Team - Sander Hoogendoorn | Craft 2025
+
+- https://www.youtube.com/watch?v=ESsbHEY2kwE
+- [summary](./seven-habits-of-a-highly-successful-team-sander-hoogendoorn-craft-2025.md)
+
+# Panel about system thinking, complexity thinking - Group talk | Craft 2025
+
+- https://www.youtube.com/watch?v=45U1E7SXT7E
+- [summary](./panel-about-system-thinking-complexity-thinking-group-talk-craft-2025.md)
+
+
+# Sharpen Your Tools: Building the right Developer Experience - Suhail Patel | Craft 2025
+
+- https://www.youtube.com/watch?v=G4jONbRWpow
+- [summary](./sharpen-your-tools-building-the-right-developer-experience-suhail-patel-craft-2025.md)
+
+
+# Platform Engineering: Lessons from the Rise and Fall of eBay - Randy Shoup | Craft 2025
+
+- https://www.youtube.com/watch?v=d5TprArcWX0
+- [summary](./platform-engineering-lessons-from-the-rise-and-fall-of-ebay-randy-shoup-craft-2025.md)
+
+# Platform Team Structures and Concerns - Adrian Cockcroft | Craft 2025
+
+- https://www.youtube.com/watch?v=aHrvYT8W-vM
+- [summary](./platform-team-structures-and-concerns-adrian-cockcroft-craft-2025.md)
+
+
+# Working Effectively with AI-Generated Code - Michael Feathers | Craft 2026
+
+- https://www.youtube.com/watch?v=Mcsb4_7U-LY&list=PLEQ3Q_FcrvEo&index=72
+- [summary](./working-effectively-with-ai-generated-code-michael-feathers-craft-2026.md)
+
+
+# Distributed agents that survive anything - Daniel Vigovszky | Craft 2026
+
+- https://www.youtube.com/watch?v=Tje4j3-S6oc&list=PLEQ3Q_FcrvEo&index=33
+- [summary](./distributed-agents-that-survive-anything-daniel-vigovszky-craft-2026.md)
+
+# Delivering with Supervised and Unsupervised Coding Agents - Wesley Reisz | Craft 2026
+
+- https://www.youtube.com/watch?v=UP7r0rt6R5A&list=PLEQ3Q_FcrvEo&index=34
+- [summary](./delivering-with-supervised-and-unsupervised-coding-agents-wesley-reisz-craft-2026.md)
+
+
+# Craft Still Matters - Gregor Riegler | Craft 2026
+
+- https://www.youtube.com/watch?v=9TKjyPk9eFA&list=PLEQ3Q_FcrvEo&index=36
+- [summary](./craft-still-matters-gregor-riegler-craft-2026.md)
+
+# Pulling Continuous Delivery inside the agentic loop - Kief Morris | Craft 2026
+
+- https://www.youtube.com/watch?v=Gf9EwRYttmg&list=PLEQ3Q_FcrvEo&index=37
+- [summary](./pulling-continuous-delivery-inside-the-agentic-loop-kief-morris-craft-2026.md)
+
+# Careless by Design: AI with Zero Bugs in Ugly Code - Arlo Belshee | Craft 2026
+
+- https://www.youtube.com/watch?v=t03bQYC7D8E&list=PLEQ3Q_FcrvEo&index=38
+- [summary](./careless-by-design-ai-with-zero-bugs-in-ugly-code-arlo-belshee-craft-2026.md)
+
+# How Durable Computing is Reshaping Distributed Systems - Jeremy Edberg | Craft 2026
+
+- https://www.youtube.com/watch?v=NnAUH3iJZDs&list=PLEQ3Q_FcrvEo&index=39
+- [summary](./how-durable-computing-is-reshaping-distributed-systems-jeremy-edberg-craft-2026.md)
 
 
 # Scaling Real-Time Fraud Detection at SEON - Viktor Micskó | Craft 2026
@@ -109,25 +288,10 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=CRCqgX-yBVI&list=PLEQ3Q_FcrvEo&index=62
 - [summary](./scaling-real-time-fraud-detection-at-seon-viktor-micsko-craft-2026.md)
 
-# Beyond the Pipeline - Sam Matysen | Craft 2026
-
-- https://www.youtube.com/watch?v=Hm3ylIzf-vY&list=PLEQ3Q_FcrvEo&index=63
-- [summary](./beyond-the-pipeline-sam-matysen-craft-2026.md)
-
 # From Harness Engineering to Convergence - Gergely Hodicska | Craft 2026
 
 - https://www.youtube.com/watch?v=uI93BqycwzY&list=PLEQ3Q_FcrvEo&index=64
 - [summary](./from-harness-engineering-to-convergence-gergely-hodicska-craft-2026.md)
-
-# Building Your AI Security Framework - Adam Litter | Craft 2026
-
-- https://www.youtube.com/watch?v=R1_vSnWYjpU&list=PLEQ3Q_FcrvEo&index=65
-- [summary](./building-your-ai-security-framework-adam-litter-craft-2026.md)
-
-# Quality Engineering in the Agentic Age: Build, Test, Orchestrate - Dragan Spiridonov | Craft 2026
-
-- https://www.youtube.com/watch?v=g20WggTdAYQ&list=PLEQ3Q_FcrvEo&index=66
-- [summary](./quality-engineering-in-the-agentic-age-build-test-orchestrate-dragan-spiridonov-craft-2026.md)
 
 
 # Mind Your P's and Queues - Daniel Vacanti | Craft 2025
@@ -135,10 +299,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=Q5D2odLVEAY
 - [summary](./mind-your-ps-and-queues-daniel-vacanti-craft-2025.md)
 
-# Reducing risk in projects, increasing resilience to unexpected change - Dave Snowden | Craft 2025
-
-- https://www.youtube.com/watch?v=PQtFrmYdAz4
-- [summary](./reducing-risk-in-projects-increasing-resilience-to-unexpected-change-dave-snowden-craft-2025.md)
 
 # Predicting the Future of Distributed Systems - Colin Breck | Craft 2025
 
@@ -165,15 +325,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=HbLDv_FwtaE
 - [summary](./the-psychology-of-software-teams-cat-hicks-craft-2025.md)
 
-# Modernizing legacy through thousands of contextual tools per system - Tudor Girba | Craft 2025
-
-- https://www.youtube.com/watch?v=DB5ZOGpkL9k
-- [summary](./modernizing-legacy-through-thousands-of-contextual-tools-tudor-girba-craft-2025.md)
-
-# Architecture is Designing Knowledge Flow - Diana Montalion | Craft 2025
-
-- https://www.youtube.com/watch?v=BLp1Ye8d290
-- [summary](./architecture-designing-knowledge-flow-talk-outline.md)
 
 # Open Source, Open Mind: The Cost Of Free Software - Dylan Beattie | Craft 2025
 
@@ -185,20 +336,11 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=wyKigbA_XaY
 - [summary](./driing-your-career-cate-huston-craft-2025.md)
 
-# Handling Complexity in Software Development Projects - Balázs Lóránd, Árpád Maróti | Craft 2025
-
-- https://www.youtube.com/watch?v=vJi8agDfonc
-- [summary](./handling-complexity-in-software-development-projects-balazs-lorand-arpad-maroti-craft-2025.md)
-
 # Machine learning in production - Adam Pelle | Craft 2025
 
 - https://www.youtube.com/watch?v=tzYNqUoA290
 - [summary](./machine-learning-in-production-adam-pelle-craft-2025.md)
 
-# A journey from static documentation to generative AI - Csaba Gecse, Zsófia Sárközi | Craft 2025
-
-- https://www.youtube.com/watch?v=tTRog8yusS0
-- [summary](./a-journey-from-static-documentation-to-generative-ai-csaba-gecse-zsofia-sarkozi-craft-2025.md)
 
 # Engineering Management in the AI Era - Dennis Nerush | Craft 2025
 
@@ -220,36 +362,12 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=Toa_cy1Kb24
 - [summary](./how-ai-fuels-brokerchoosers-growth-alex-nasli-craft-2025.md)
 
-# Intelligence as Infrastructure: What Developers Must Learn to Build with AI - Igor Sevo | Craft 2025
-
-- https://www.youtube.com/watch?v=Q6dCnhAfS3c
-- [summary](./intelligence-as-infrastructure-what-developers-must-learn-to-build-with-ai-igor-sevo-craft-2025.md)
-
-# Evolutionary Architecture: The What. The Why. The How. - Maciej Jedrzejewski | Craft 2025
-
-- https://www.youtube.com/watch?v=E5w2Hjw2szk
-- [summary](./evolutionary-architecture-the-what-the-why-the-how-maciej-jedrzejewski-craft-2025.md)
-
-# Architectural Blueprints for AI Agents - Zsolt Bátorfi | Craft 2025
-
-- https://www.youtube.com/watch?v=PbllnufHqcE
-- [summary](./architectural-blueprints-for-ai-agents-zsolt-batorfi-craft-2025.md)
 
 # ESSENTIALS - Retrospectives: Shifting Towards Value - Tricia Broderick | Craft 2025
 
 - https://www.youtube.com/watch?v=LI8gMsriy3Q
 - [summary](./retrospectives-shifting-towards-value-tricia-broderick-craft-2025.md)
 
-
-# Lessons learned from introducing Team Topologies - Michael Plöd | Craft 2025
-
-- https://www.youtube.com/watch?v=Xvi0sNKKfys
-- [summary](./lessons-learned-from-introducing-team-topologies-michael-plod-craft-2025.md)
-
-# Legacy Architecture Migration Patterns - Nick Tune, Guillaume Rahbari | Craft 2025
-
-- https://www.youtube.com/watch?v=X1imE1ks_3Y
-- [summary](./legacy-architecture-migration-patterns-nick-tune-guillaume-rahbari-craft-2025.md)
 
 # The Past as a Compass for Systems Engineers in the Age of AI - John Micheal Willis | Craft 2025
 
@@ -355,20 +473,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=ryFkjHxKT-M
 - [summary](./panel-about-probabilistic-forecasting-groupt-alk-craft-2025.md)
 
-# Data Access and Data Sharing in Microservices - Mark Richards | Craft 2025
-
-- https://www.youtube.com/watch?v=mfxR1JkS7us
-- [summary](./data-access-and-data-sharing-in-microservices-mark-richards-craft-2025.md)
-
-# Platform Engineering: Lessons from the Rise and Fall of eBay - Randy Shoup | Craft 2025
-
-- https://www.youtube.com/watch?v=d5TprArcWX0
-- [summary](./platform-engineering-lessons-from-the-rise-and-fall-of-ebay-randy-shoup-craft-2025.md)
-
-# Platform Team Structures and Concerns - Adrian Cockcroft | Craft 2025
-
-- https://www.youtube.com/watch?v=aHrvYT8W-vM
-- [summary](./platform-team-structures-and-concerns-adrian-cockcroft-craft-2025.md)
 
 # Build "boring" engineering orgs - Charity Majors | Craft 2025
 
@@ -390,10 +494,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=ORObF5UuBew&list=PLEQ3Q_FcrvEo&index=71
 - [summary](./humans-steer-and-agents-execute-ryan-lopopolo-craft-2026.md)
 
-# Working Effectively with AI-Generated Code - Michael Feathers | Craft 2026
-
-- https://www.youtube.com/watch?v=Mcsb4_7U-LY&list=PLEQ3Q_FcrvEo&index=72
-- [summary](./working-effectively-with-ai-generated-code-michael-feathers-craft-2026.md)
 
 # The Shift to Agentic AI - Reuven Cohen | Craft 2026
 
@@ -423,51 +523,12 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=-aX4n177yNQ&list=PLEQ3Q_FcrvEo&index=43
 - **⚠️ NEEDS YOUR ATTENTION — no captions/transcript available for this video, so no summary was generated. You'll need to summarize this one yourself.** (See the companion talk "Architecture Decisions in the Age of AI" below, which recaps this session's bias material.)
 
-# Architecture Decisions in the Age of AI - Kenny Schwegler & Evelyn van Kelle | Craft 2026
-
-- https://www.youtube.com/watch?v=pWkz7Qfx16c&list=PLEQ3Q_FcrvEo&index=44
-- [summary](./architecture-decisions-in-the-age-of-ai-kenny-schwegler-evelyn-van-kelle-craft-2026.md)
-
-# Why New Processes Don't Fix Delivery - Marian Hartman | Craft 2026
-
-- https://www.youtube.com/watch?v=2Gh8FyCKVbk&list=PLEQ3Q_FcrvEo&index=45
-- [summary](./why-new-processes-dont-fix-delivery-marian-hartman-craft-2026.md)
 
 # Monte Carlo for SaaS: Simulating The Effect Of Product Decisions - Zoltán Dávid | Craft 2026
 
 - https://www.youtube.com/watch?v=OBVC8HXaJEE&list=PLEQ3Q_FcrvEo&index=56
 - [summary](./monte-carlo-for-saas-simulating-the-effect-of-product-decisions-zoltan-david-craft-2026.md)
 
-# Distributed agents that survive anything - Daniel Vigovszky | Craft 2026
-
-- https://www.youtube.com/watch?v=Tje4j3-S6oc&list=PLEQ3Q_FcrvEo&index=33
-- [summary](./distributed-agents-that-survive-anything-daniel-vigovszky-craft-2026.md)
-
-# Delivering with Supervised and Unsupervised Coding Agents - Wesley Reisz | Craft 2026
-
-- https://www.youtube.com/watch?v=UP7r0rt6R5A&list=PLEQ3Q_FcrvEo&index=34
-- [summary](./delivering-with-supervised-and-unsupervised-coding-agents-wesley-reisz-craft-2026.md)
-
-
-# Craft Still Matters - Gregor Riegler | Craft 2026
-
-- https://www.youtube.com/watch?v=9TKjyPk9eFA&list=PLEQ3Q_FcrvEo&index=36
-- [summary](./craft-still-matters-gregor-riegler-craft-2026.md)
-
-# Pulling Continuous Delivery inside the agentic loop - Kief Morris | Craft 2026
-
-- https://www.youtube.com/watch?v=Gf9EwRYttmg&list=PLEQ3Q_FcrvEo&index=37
-- [summary](./pulling-continuous-delivery-inside-the-agentic-loop-kief-morris-craft-2026.md)
-
-# Careless by Design: AI with Zero Bugs in Ugly Code - Arlo Belshee | Craft 2026
-
-- https://www.youtube.com/watch?v=t03bQYC7D8E&list=PLEQ3Q_FcrvEo&index=38
-- [summary](./careless-by-design-ai-with-zero-bugs-in-ugly-code-arlo-belshee-craft-2026.md)
-
-# How Durable Computing is Reshaping Distributed Systems - Jeremy Edberg | Craft 2026
-
-- https://www.youtube.com/watch?v=NnAUH3iJZDs&list=PLEQ3Q_FcrvEo&index=39
-- [summary](./how-durable-computing-is-reshaping-distributed-systems-jeremy-edberg-craft-2026.md)
 
 # Team dynamics after AI - Duncan Brown | Craft 2026
 
@@ -485,11 +546,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=Hmgq1511YHA&list=PLEQ3Q_FcrvEo&index=48
 - [summary](./governance-without-the-red-tape-sarah-wells-craft-2026.md)
 
-# Architecture AntiPatterns and Pitfalls - Mark Richards | Craft 2026
-
-- https://www.youtube.com/watch?v=jz8wSo9aXtE&list=PLEQ3Q_FcrvEo&index=49
-- [summary](./architecture-antipatterns-and-pitfalls-mark-richards-craft-2026.md)
-
 # Responsibility Driven Design Revisited - Ian Cooper | Craft 2026
 
 - https://www.youtube.com/watch?v=ZRBit08FV6k&list=PLEQ3Q_FcrvEo&index=50
@@ -499,11 +555,6 @@ tags: ["softwaredevelopment"]
 
 - https://www.youtube.com/watch?v=UQUrSqEg1ug&list=PLEQ3Q_FcrvEo&index=51
 - [summary](./beyond-vibe-coding-building-the-harness-for-production-agents-banjo-obayomi-craft-2026.md)
-
-# Get your systems to define the story of your organization - Kovács & Hermesz | Craft 2026
-
-- https://www.youtube.com/watch?v=G2PdKKYzrH8&list=PLEQ3Q_FcrvEo&index=53
-- [summary](./get-your-systems-to-define-the-story-of-your-organization-kovacs-hermesz-craft-2026.md)
 
 
 # Platform as a Product: A dive into the Technical Foundations - Abby Bangser | Craft 2026
@@ -564,10 +615,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=-J4UQ6NrfqM&list=PLEQ3Q_FcrvEo&index=22
 - **⚠️ NEEDS YOUR ATTENTION — no captions/transcript available for this video, so no summary was generated. You'll need to summarize this one yourself.**
 
-# Architecture in the Age of Autonomous Code - Matthew Clark | Craft 2026
-
-- https://www.youtube.com/watch?v=9SZW2yQJazA&list=PLEQ3Q_FcrvEo&index=23
-- [summary](./architecture-in-the-age-of-autonomous-code-matthew-clark-craft-2026.md)
 
 # Coding Agents Don't Scale Themselves - Patrick Debois | Craft 2026
 
@@ -642,15 +689,6 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=DJ0eu2EufmI&list=PLEQ3Q_FcrvEo&index=76
 - [summary](./ai-wont-eat-your-stack-randy-shoup-craft-2026.md)
 
-# Building Resilience - Tricia Broderick | Craft 2025
-
-- https://www.youtube.com/watch?v=zNVVDlxkWX4
-- [summary](./building-resilience-tricia-broderick-craft-2025.md)
-
-# Aspect-oriented Architecture - Neal Ford | Craft 2025
-
-- https://www.youtube.com/watch?v=whe-o6WamJk
-- [summary](./aspect-oriented-architecture-neal-ford-craft-2025.md)
 
 # From here to there and back again - Simon Wardley | Craft 2025
 
@@ -689,25 +727,12 @@ tags: ["softwaredevelopment"]
 - https://www.youtube.com/watch?v=GFztkIhesO4
 - [summary](./ai-as-a-catalyst-not-a-replacement-erik-slooten-craft-2025.md)
 
-# Sharpen Your Tools: Building the right Developer Experience - Suhail Patel | Craft 2025
-
-- https://www.youtube.com/watch?v=G4jONbRWpow
-- [summary](./sharpen-your-tools-building-the-right-developer-experience-suhail-patel-craft-2025.md)
 
 # Warp Speed Web Dev with Astro - Florian Rappl | Craft 2025
 
 - https://www.youtube.com/watch?v=FtW5vrGTI4Y
 - [summary](./warp-speed-web-dev-with-astro-florian-rappl-craft-2025.md)
 
-# Seven Habits of a Highly Successful Team - Sander Hoogendoorn | Craft 2025
-
-- https://www.youtube.com/watch?v=ESsbHEY2kwE
-- [summary](./seven-habits-of-a-highly-successful-team-sander-hoogendoorn-craft-2025.md)
-
-# Panel about system thinking, complexity thinking - Group talk | Craft 2025
-
-- https://www.youtube.com/watch?v=45U1E7SXT7E
-- [summary](./panel-about-system-thinking-complexity-thinking-group-talk-craft-2025.md)
 
 # Maximizing impact: Measuring the ROI of GenAI in the SDLC - Bruno Passos | Craft 2025
 
