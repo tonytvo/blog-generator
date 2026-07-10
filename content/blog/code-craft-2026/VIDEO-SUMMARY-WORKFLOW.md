@@ -65,17 +65,38 @@ much — it produces a thin, generic outline. Use this instead:
 > *- Preserve **every** anecdote, name (people/companies/tools), number, statistic,
 >   direct quote, and concrete example. Do not compress, generalize, or summarize
 >   away specifics — err on the side of completeness.*
-> *- Use nested `##` / `###` Markdown sections, one per topic or sub-topic.*
-> *- If the talk **enumerates** things (patterns, steps, rules, trends, a list of
->   companies), give each its own subsection, and add a **summary table** at the end
->   plus a **'People & References Cited'** index.*
+> *- Use a **deep, decimal-numbered hierarchy**: number top sections (1, 2, 3…) and
+>   their subsections (1.1, 1.2, 2.1…), going to `###` and `####` where it helps.
+>   Aim for **one `###` subsection per distinct sub-topic, example, or step** — a
+>   long talk should have 25+ subsections, not 3.*
+> *- **One idea per bullet line.** Do not pack several facts into one paragraph or
+>   one table cell — explode them into bullets and sub-bullets.*
+> *- If the talk **enumerates** things (patterns, steps, rules, trends, examples, a
+>   list of companies), give **each item its own numbered `###` subsection** with its
+>   own bullets (rationale, metaphor, quote, example). A summary **table** is a nice
+>   *addition* at the end, but never let a table *replace* the per-item subsections —
+>   tables compress and make the outline read as thinner than it is.*
+> *- **Decompose worked examples step by step** — each micro-step / micro-behaviour
+>   gets its own `###` (e.g. "7.1 Extract + placeholder name", "7.2 Rename").*
+> *- **Break the Q&A finely**: one numbered subsection per question (Q1, Q2…),
+>   splitting multi-part questions into follow-ups (Q5, Q5a). Name the asker if known.*
 > *- Attribute quotes and claims to whoever said them.*
 > *- Open with a one-paragraph blockquote framing the talk (speaker, venue, format,
 >   the talk's own structure).*
+> *- Add a **'People & References Cited'** index at the end.*
 > *- Keep the writing tight per line (no filler), but keep the outline long — depth
 >   over brevity."*
 
 **Notes to get the depth right:**
+- **Depth comes from *granularity*, not just word count.** A hand-curated claude.ai
+  outline of the same talk had nearly the same word count as a workflow draft (~3.1k
+  vs ~2.8k) but felt far more thorough because it had **29 `###` subsections vs 3**
+  and **~2x the bullet lines** — one idea per line, one subsection per sub-topic. If a
+  draft feels thin, the fix is usually to **split tables/paragraphs back into numbered
+  subsections and per-line bullets**, not to add new facts.
+- **A good depth check before finishing:** does the outline have a `###` for every
+  distinct example, step, and Q&A question? If a whole enumeration is hiding inside a
+  single table or paragraph, expand it.
 - **One talk per pass.** Don't batch many transcripts into a single request — each
   talk deserves its own full-attention pass.
 - **Do a second "enrich" pass** on the draft: *"Go back through the transcript and add

@@ -5,43 +5,43 @@ description: "code craft 2026 summary"
 tags: ["softwaredevelopment"]
 ---
 
-# Patterns for Coding with AI - Lada Kesseler | Craft 2026
+# ignore - Patterns for Coding with AI - Lada Kesseler | Craft 2026
 
 - https://www.youtube.com/watch?v=gTgEZsfyzoo&list=PLEQ3Q_FcrvEo&index=32
 - [summary](./patterns-for-coding-with-ai-lada-kesseler-craft-2026.md)
 
-# Kent Beck - Podcast Stage | Craft 2026
+# ignore - Kent Beck - Podcast Stage | Craft 2026
 
 - https://www.youtube.com/watch?v=2TDhKfKZyBw&list=PLEQ3Q_FcrvEo&index=12
 - [summary](./kent-beck-podcast-stage-craft-2026.md)
 
-# High-performing communication techniques for high-performing teams - Joseph Pelrine | Craft 2026
+# ignore - High-performing communication techniques for high-performing teams - Joseph Pelrine | Craft 2026
 
 - https://www.youtube.com/watch?v=3zrrE374l1M&list=PLEQ3Q_FcrvEo&index=3
 - [summary](./high-performing-communication-techniques-pelrine-craft-2026.md)
 
-# Journaling with AI - Llewellyn Falco
+# ignore - Journaling with AI - Llewellyn Falco
 - [journaling ai](https://www.youtube.com/watch?v=Gttvu9I1abo&list=PLEQ3Q_FcrvEo&index=13)
 - [summary](./journaling-ai-llewellyn-falco.md)
 - https://diataxis.fr/start-here/
 
-# leveling up as a programmer in the age of AI
+# ignore - leveling up as a programmer in the age of AI
 - [laerning programming in the age of AI](https://www.youtube.com/watch?v=a8BWzqVM6yc&list=PLEQ3Q_FcrvEo&index=50)
 - experimental creative writing with the vectorized word -> https://www.youtube.com/watch?v=L3D0JEA1Jdc
 - [summary](./learning-programming-ai-chelsea-troy.md)
 
-# Agency - Ashi Krishnan | Craft Conference 2024
+# ignore - Agency - Ashi Krishnan | Craft Conference 2024
 
 - https://www.youtube.com/watch?v=hUBKI5PTbT4
 - [summary](./agency-ashi-krishnan-craft-conference-2024.md)
 - https://jalammar.github.io/illustrated-transformer/
 
-# Canon Test-Driven Development - Kent Beck | Craft 2025
+# ignore - Canon Test-Driven Development - Kent Beck | Craft 2025
 
 - https://www.youtube.com/watch?v=90VBvjYedWI
 - [summary](./canon-tdd-kent-beck-craft-2025.md)
 
-# Slow down to speed up - Gergely Orosz | Craft 2026
+# ignore - Slow down to speed up - Gergely Orosz | Craft 2026
 
 - https://www.youtube.com/watch?v=kKNKqut7t1Q&list=PLEQ3Q_FcrvEo&index=2
 - [summary](./slow-down-to-speed-up-gergely-craft-2026.md)
