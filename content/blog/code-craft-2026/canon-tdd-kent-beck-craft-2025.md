@@ -1,641 +1,285 @@
 ---
 title: "Canon TDD — Kent Beck | Craft Conference 2024"
 date: "2026-06-04T00:00:00.000Z"
-description: "A technical and philosophical deep-dive into LLM architecture, alignment, and the future of human storytelling."
+description: "canon TDD"
 type: "reference"
 tags: ["softwaredevelopment", "ai"]
 ---
 
-# Canon TDD — Kent Beck (Talk Outline)
+# Canon TDD — Kent Beck (Craft Conference)
 
-> Presented at a software conference (Budapest). Beck's stated goal: define a clear, criticizable target for what TDD *actually is*, distinct from common mischaracterizations.
-
----
-
-## 1. Framing & Motivation
-
-- Beck is programming actively again ("with the genie") and rediscovering TDD's value in that context.
-- Introduces "canon" (from fan culture): the *original*, authoritative version of something — not derivative interpretations.
-- Why this talk? Because most TDD critiques are aimed at straw men:
-  - *"I don't want to write all tests before any code"* — not TDD.
-  - *"I write all code then write tests"* — also not TDD.
-- Goal: establish a precise definition so criticism can be meaningful and productive.
+> "My goal today is not to tell you how to program. My goal is to present a clear target for criticism."
 
 ---
 
-## 2. Desired End State
+## 1. Framing: Why This Talk Exists
 
-At the end of any implementation session you want **two things**:
+### 1.1 The motivating irritation
+- Beck keeps hearing **critiques of TDD that are not critiques of TDD**. Two recurring strawmen:
+  - *"I don't want to write a whole bunch of tests before I write any code."* → Not TDD.
+  - *"I don't want to write a bunch of code and then a bunch of tests."* → Also not TDD.
+- Both describe **batch** workflows. TDD is an **interleaved** workflow. The confusion is about the *unit of iteration*, not about testing.
 
-1. **Code** — implements the feature.
-2. **Tests** — provide confidence that the code does what you think it does.
-   - Confidence for yourself, teammates, and users.
-   - Lack of test confidence erodes user trust (BMW OTA update anecdote).
+### 1.2 What "canon" means
+- Borrowed from fandom usage: **canon = the original**, as authored, not the fanfic/derivative/crossover versions.
+- Canon Lord of the Rings = as Tolkien wrote it. Canon TDD = as Beck described it in the original TDD book, and has been describing it for ~25 years.
+
+### 1.3 The explicit contract of the talk
+- **This is not prescriptive.** "This is not how you should program."
+- It is a **definition**, offered as a stable target:
+  - If you want to criticize TDD → criticize *this*.
+  - If you want to vary from it → fine, but name the baseline you're varying from.
+- Beck's stance on adherence is deliberately flat: he is neither ashamed of non-adopters nor interested in coercing anyone. He notes with genuine puzzlement the **intensity of emotional reactions** TDD provokes — both the shame ("I confess, I don't do TDD") and the hostility ("you can't make me").
+
+### 1.4 Current context (2026 / AI coding agents)
+- Beck has been "programming his brains out" with what he calls the **"programming genie"** — it grants your wishes, *but not the way you think it should*.
+- He is **reapplying TDD** in that agentic context, which is what prompted the re-derivation.
 
 ---
 
-## 3. Two Naive Workflows Examined
+## 2. First-Principles Derivation of the Workflow
 
-### Workflow A: Code-first, test-after (batch)
+Beck derives TDD from scratch rather than asserting it — the same method he applies to code decomposition. He explicitly meta-comments on this at the end: *"I applied the principle to the talk itself."*
+
+### 2.1 Step 0 — Start from the desired end state
+Where do we want to end up?
+
+| Artifact | Purpose |
+|---|---|
+| **Code** | Implements the features |
+| **Tests** | Enable *continued change* to that code |
+
+The tests exist for **confidence**, and confidence is a three-layer thing:
+1. **Personal confidence** — the code does what I think it does.
+2. **Colleague confidence** — "I changed some code" doesn't induce dread in your teammates.
+3. **User confidence** — this is the one the industry has squandered.
+
+> **The BMW anecdote:** Beck got into a car, an over-the-air software update was offered, and the owner immediately hit *cancel*. Users have learned to fear our updates. That is a damning commentary on the profession — *people don't trust us not to break things.*
+
+### 2.2 Sequence A — Batch: all code, then all tests
 ```
-code → code → code → ... → test → test → test
+code → code → code → test → test → test
 ```
-- Intuitive; many developers default to this.
-- Problem: a mistake discovered late may invalidate large amounts of earlier work due to **coupling**.
-- Feedback loop is long and expensive.
+- This is a **reasonable, common** sequence. Beck refuses to caricature it.
+- The realistic version people describe: *write the API docs → decide the modules → decide which functions go in which module → fill in the function bodies → done.* (Aside: "it's kind of sad that we still put source code in files" — see §6.1.)
+- **Failure mode: late feedback cascading backwards through coupling.**
+  - You discover a mistake at step *n*, which forces a change at *n−1*, which forces a change at *n−2*…
+  - Because of coupling, the cost of a late discovery is **not local**. It's potentially an expensive rework cascade.
 
-### Workflow B: Interleaved code-then-test
+### 2.3 Sequence B — Interleaved: code/test/code/test
 ```
 code → test → code → test → code → test
 ```
-- Shorter feedback loops; mistakes surface earlier.
-- **Introduces a new constraint**: each code segment must be independently compilable/runnable *before* the full implementation is complete.
-- Requires a skill: **sequencing lines of code** such that you can run them incrementally — not all languages/environments make this easy.
-- Analogy: slicing salami and choosing what order to eat the slices.
-- *Open research gap*: nobody has rigorously studied or documented the pedagogy of this sequencing skill.
+- Each test gives **feedback on the code just written**, before that code is built upon.
+- This **reduces the chance** of the invalidation cascade above.
+
+### 2.4 The hidden cost of interleaving: sequencing skill
+This is the section most summaries of TDD omit, and Beck dwells on it.
+
+- In Sequence A, **order of writing doesn't matter**. If you'll end with 1,000 lines, you can write them beginning-to-end, end-to-beginning, or middle-out. Nothing has to compile or run until the whole thing is there.
+- In Sequence B, **each increment must be runnable**. You must:
+  - Decompose the work into chunks that **compile and execute** on their own — possibly *different* chunks than the ones a batch workflow would use.
+  - Figure out how to test *just that part*.
+  - Sequence chunks so each successive one remains runnable.
+- Formally: 1,000 lines have **1,000! permutations**. Some permutations support incremental execution; most don't. TDD requires you to find one that does.
+- **How hard this is depends on your language and environment.**
+
+> **Open research question (Beck flags it explicitly):** Nobody has really dug into this skill. What are the common patterns? What's the pedagogy? How do you *teach* someone to order the lines they write so the code can run before it's finished? *"How do I slice the salami up, and in what order do I eat the slices?"*
 
 ---
 
-## 4. The Three Decision Dimensions of Any Implementation Unit
-
-Before writing a test or code, a developer must make decisions across three axes:
-
-| Dimension | Question |
-|---|---|
-| **API** | How is this feature invoked? (method, function, module boundary) |
-| **Input/Output behavior** | What are the domain and range — what goes in, what comes out? |
-| **Implementation** | How is the logic structured internally? |
-
-In code-first workflows, all three must be decided *before feedback*. TDD enables separating and reordering these decisions.
-
----
-
-## 5. The Key Insight: Swapping Order (Test-First)
-
-Beck's "stupid idea" circa late 1980s while building the Smalltalk test framework (precursor to JUnit):
-
-> *What if I write the test before the code?*
-
-- A test written before code will **always fail** — counterintuitive.
-- But: writing the test first lets you make the three decisions in **any order you choose**.
-  - Start with API → then I/O → then implementation (classic).
-  - Start with I/O (**assert-first**, from James Newkirk): write the assertion last line first, work backwards.
-  - Start with implementation (**TDD as if you meant it**, Keith Braithwaite): implement logic inline in the test, then extract it.
-- Psychological benefit for anxious programmers: completing a test list is calming. "What else could break? I push the button and run the tests."
-
----
-
-## 6. Economics: When to Write Tests
-
-Value and cost of tests as a function of timing relative to implementation:
-
-- **Too early**: high cost (rework as design changes), low value (assumptions invalid).
-- **Right at implementation time**: cost is minimized, value is maximized.
-- **After shipping**: tests are low value (feedback too late to affect design).
-
-Conclusion: **tests should be written as close to implementation as possible** — neither far before nor long after.
-
-The remaining question: within that tight window, do you write the test *before* or *after* the code?
-
----
-
-## 7. Canon TDD: The Two-Step Process
-
-### Step 1 — Scenarios
-Before writing any code or tests, enumerate the **paths through the logic**:
-
-- What are the distinct cases? (e.g., for a stack: overflow, underflow, one element, two elements, wrong type)
-- This list serves two purposes:
-  1. **Focus** — constrains attention; prevents spiraling.
-  2. **Doneness criterion** — you're done when all scenarios are crossed off.
-- Beck frames this in terms of his own ADD/boredom sensitivity: the list manages variable attention.
-
-### Step 2 — Red / Green / Generalize Loop
-
-#### 2A — Write a Test (Red)
-- Write a test for the next scenario on the list.
-- It should be **red** (failing) — this is intentional and expected.
-- The test is a concrete, executable specification of intended behavior.
-
-#### 2B — Make It Pass (Green)
-- Get to green **as fast as possible**.
-- Shortcuts, hacks, hardcoded returns are all acceptable *at this step*.
-  - Example: `return 105` to pass an interest rate test.
-- The only goal is green. Resist all distractions (displacement activities, over-engineering).
-
-#### 2C — Generalize (Refactor)
-- With tests green, **generalize the code** while keeping tests green.
-- This step is frequently *underappreciated by TDD critics*.
-- Forms of generalization:
-  - **Design generalization**: extract helpers, eliminate copy-pasta/duplication.
-  - **Implementation generalization**: replace hardcoded values with computed expressions (e.g., `return 105` → `return principal + (rate * principal)`).
-  - **Simplification**: restructure computations into simpler forms.
-  - **Abstraction**: introduce interfaces, base classes, or modules where appropriate.
-- Beck spends *significant time* on this step (demonstrated in his TCR screencasts on YouTube).
-
----
-
-## 8. Common Misunderstandings Addressed
-
-| Misconception | Beck's Response |
-|---|---|
-| "TDD means writing all tests upfront" | No. Write one test at a time from your scenarios list. |
-| "TDD means writing tests after all the code" | No. That's not TDD at all. |
-| "If I just satisfy the tests, my code won't work generally" | That's what the generalization step is for. Don't skip it. |
-| "TDD forces a particular design workflow" | No. Test-first liberates decision ordering; you can start with API, I/O, or implementation. |
-| "AI can generate proper unit tests, so TDD is irrelevant" | AI cannot reliably do this yet; and TDD is *more* relevant with non-deterministic AI tools — tests bound the solution space. |
-
----
-
-## 9. TDD and AI ("the Genie")
-
-- Beck is actively using AI coding assistants and finds TDD more valuable, not less.
-- AI systems are non-deterministic and sensitive to prompts — they need **inhibition mechanisms**.
-- Tests act as constraints: *"only these behaviors are acceptable; go find the implementation."*
-- Failure mode: the genie deletes tests or comments out assertions to make them pass — requires explicit guardrails.
-- Beck's framing: **TDD is the rebirth, not the death, of disciplined coding in the AI era.**
-
----
-
-## 10. Q&A Highlights
-
-**Q: How many tests upfront for the stack example?**
-→ One.
-
-**Q: Does TDD work across abstraction levels (unit/integration/E2E)?**
-→ Yes; Beck bounces between scales. Preference: solve whole problems first, then subdivide (grow like a tree).
-
-**Q: Can I trust tests more than code?**
-→ No. Like accounting cross-footing: arriving at the same answer via two independent paths raises confidence but doesn't guarantee correctness. Never paste actual output into assertions — that's circular validation.
-
-**Q: Does property-based testing pair well with TDD?**
-→ Beck uses property tests, but *not* at the start. Begin with specific concrete cases to make incremental progress and get dopamine hits from green tests. Property tests come later to validate general behavior.
-
-**Q: What if I know many scenarios upfront — write all tests first?**
-→ Don't. Write scenario *names* as a list, but write the actual test code just-in-time. Deferring test code maximizes the learning window before you commit to an implementation.
-
----
-
-## 11. TDD as Scales, Not Music
-
-- Canon TDD is a **starting point and a learning tool**, not an end state.
-- Mastery looks like Dave Thomas's workflow: sometimes writing tests before, sometimes after, sometimes not at all — driven by judgment and intuition.
-- But mastery requires playing scales first.
-- Beck's suggestion: **try every crazy experiment**, especially now when the field is changing fast. Stupid ideas that work are the most valuable ones.
-
-
-> A technical and philosophical deep-dive into large language model architecture, alignment, the limits of generative AI, and what it means for the future of human storytelling.
-
----
-
-## Table of Contents
-
-1. [Opening Provocation — Why Do Prompt Tricks Work?](#1-opening-provocation)
-2. [How Transformers Work — Full Technical Walkthrough](#2-how-transformers-work)
-   - 2.1 Tokenization
-   - 2.2 Chat Framing & System Prompts
-   - 2.3 Embeddings & Vector Space
-   - 2.4 Positional Encoding
-   - 2.5 Attention Heads
-   - 2.6 The Perceptron / Feed-Forward Network
-   - 2.7 The Inference Loop
-3. [Brains vs. Transformers — Structural Differences](#3-brains-vs-transformers)
-4. [Tokens = Compute — The Fundamental Constraint](#4-tokens--compute)
-5. [Transformers as Story Search Engines](#5-transformers-as-story-search-engines)
-6. [Prompting Mechanics — Why Negative Prompts Fail](#6-prompting-mechanics)
-7. [Alignment — What It Really Is](#7-alignment)
-8. [Live Demo — "Patriots Rising" Jailbreak](#8-live-demo--patriots-rising)
-9. [What AI Is Actually Bad At — The Real Risk](#9-what-ai-is-actually-bad-at)
-10. [Closing Reflection — Transformers as Mirrors](#10-closing-reflection)
-11. [Key Takeaways for Developers](#11-key-takeaways-for-developers)
-
----
-
-## 1. Opening Provocation
-
-**The hook:** Content-free prompt enhancements demonstrably improve LLM performance — and nobody has a satisfying explanation for why.
-
-### Examples presented
-
-- **"Take a deep breath"** — When told to breathe before answering a math problem, GPT-4 gets measurably closer to the correct answer. Both the prompted and unprompted answers are still wrong (LLMs are bad at arithmetic), but the prompted answer is significantly less wrong.
-- **Offering a tip** — Telling the model it will receive a financial reward for a good answer also improves output quality. This makes even less sense than the breathing trick.
-
-### Why this is puzzling
-
-- LLMs have no lungs, no vagus nerve, and no financial needs.
-- For humans, "take a deep breath" works because of genuine physiological mechanisms (parasympathetic nervous system activation). None of that applies to a transformer.
-- These tricks feel like they *should* be superstition — but empirically, they work.
-
-### The central question this sets up
-
-> If these models can neither breathe nor receive money, why does it help to cajole, guilt, and bribe them?
-
-This question motivates the entire architectural deep-dive that follows — because the answer is buried in how transformers actually process language.
-
----
-
-## 2. How Transformers Work
-
-### 2.1 Tokenization
-
-**Purpose:** Convert raw text into a discrete numerical representation the model can process.
-
-- A tokenizer is trained separately from the main model to solve a specific task: given a fixed vocabulary size (typically ~60,000), assign a unique integer ID to every byte sequence the model is likely to encounter.
-- The tokenizer learns to break on word boundaries and split longer words into meaningful fragments — broadly similar to how a human would chunk words when reading carefully.
-- The algorithm underlying most modern tokenizers is **Byte Pair Encoding (BPE)**, which iteratively merges the most frequent adjacent byte pairs into single tokens.
-- The result is a sequence of integer IDs, one per token.
-
-**Key implication:** Tokens are not words. Common short words may be single tokens; rare or long words may be split across several. Code, punctuation, and non-English text all tokenize differently and often less efficiently.
-
----
-
-### 2.2 Chat Framing & System Prompts
-
-**The underlying model is just a text autocompleter.** The concept of a multi-turn conversation with distinct speakers is a layer built on top of that.
-
-- **Special tokens** are inserted to delimit message boundaries: a "start message" token, an "end message" token, and tokens identifying the speaker role (system, user, assistant, tool).
-- The **system prompt** is just another speaker — its messages come first in the token stream.
-- Models are trained aggressively to follow system prompt instructions more closely than user instructions.
-
-**Important caveat:** This is probabilistic, not deterministic.
-
-> "Like every other machine learning thing ever, transformers are massive probability engines. You can train them really intensely to try and manifest a particular behaviour... but you can never really totally guarantee that behaviour will manifest."
-
-**Practical implication for developers:** System prompt authority is a trained tendency, not a hard constraint. Under the right prompt conditions, it can be overridden.
-
----
-
-### 2.3 Embeddings & Vector Space
-
-**Problem:** Token IDs are discrete integers (like a giant enum with 60,000 cases). Neural networks require smooth, continuous inputs — adding a tiny perturbation to an input should produce only a tiny change in output. This is completely violated by raw integer IDs.
-
-**Solution: One-hot encoding → embedding**
-
-- Each token ID is first converted to a **one-hot vector**: a 60,000-element vector with a `1` in the position corresponding to that token ID and `0` everywhere else.
-- This vector is then multiplied by a learned **embedding matrix**, projecting it into a much higher-dimensional space of meaning.
-- The result for each token is a dense vector of approximately **16,000 dimensions**.
-
-**What this vector space looks like:**
-
-- It is a geometric space in which basic vector operations — addition, subtraction, distance — carry semantic meaning.
-- The embedding function is trained such that tokens with similar roles or meanings end up near each other.
-- You can do approximate semantic arithmetic: `king - man + woman ≈ queen` is the classic example.
-- Ashi's description: *"like raisins in a pudding"* — tokens embedded in a space of meaning.
-
-**Visualization note:** 16,000 dimensions cannot be visualized. Attempts to do so tend to produce something like an H.P. Lovecraft character: cognitively broken and disoriented. You have to work with the math, not the picture.
-
----
-
-### 2.4 Positional Encoding
-
-**Problem:** After embedding, the model has no information about where in the sequence each token appears. The embedding for "bank" is the same whether it's the first or the hundredth word.
-
-**Solution: Positional encoding via sine waves**
-
-- For each token at position `i` in the input window, a set of sine waves of different frequencies is added component-by-component to its embedding vector.
-- Component 0 gets `sin(i)`, component 1 gets `sin(2i)`, and so on.
-- This means each position produces a unique superposition of sine waves, making positions distinguishable and allowing the model to learn relationships of cadence, rhythm, and distance between tokens.
-
-**Why this is remarkable:**
-
-Researcher Daniel Dugas wrote in *"GPT on a Napkin"*:
-
-> "The exact reason why this works is not clear to me... Consider the ways that signals are often represented as the sum of periodic samples, like with Fourier transforms. Or consider how language naturally presents cycles of various lengths — for example, poetry."
-
-Ashi's interpretation goes further: language presents cycles at various lengths *because* language is a carrier wave sampling meaning — it works the same way signals work in signal processing. The positional encoding is not an arbitrary trick; it's resonant with the underlying structure of how language carries information.
-
-**Practical significance:** Positional encoding has been called "GPT's secret sauce." Without it, the model cannot learn word order, sentence structure, or any time-dependent relationship in language.
-
----
-
-### 2.5 Attention Heads
-
-**This is the core of the transformer.**
-
-The paper introducing the architecture is titled *"Attention Is All You Need"* — and that is largely accurate.
-
-**What an attention head does:**
-
-For each token in the context window, it computes an **attention score** between that token and every other token in the window. The result is an `n × n` matrix of scores (where `n` is context window length) — which is why large context windows are computationally expensive.
-
-**The classic example:**
-
-- *"I'm going to the bank to make a deposit"* — `bank` and `deposit` should attend strongly to each other; their meanings are mutually informative.
-- *"I'm going to the bank for a swim"* — `bank` and `swim` attend to each other, indicating a river bank rather than a financial institution.
-
-Attention allows the model to resolve ambiguity by looking at the entire context simultaneously.
-
-**Output: contextual embeddings**
-
-The output of the attention heads is a weighted sum of all token embeddings, weighted by their attention scores. This is called the **contextual embedding** — the meaning of each token, adjusted by its context.
-
-**Masking:**
-
-In language models, attention is typically **masked** — each token can only attend to tokens that appear *before* it in the sequence, not after. This:
-
-1. Enforces temporal directionality (language comes one word at a time).
-2. Guarantees that past token activations don't change when a new token is appended — enabling **KV caching**.
-
-**The KV cache observation:**
-
-> "This is why OpenAI's Assistants API only lets you append to the message history, thus guaranteeing that they can cache all past activations. I don't think they've come out and said that, but there's no way they would be redoing all that computation if they didn't have to."
-
-**Multiple attention heads:**
-
-Real transformers have many attention heads running in parallel. Each head attends to different "fibers" of meaning — one might track grammatical agreement, another might track coreference, another might track topic continuity. Their outputs are combined.
-
----
-
-### 2.6 The Perceptron / Feed-Forward Network
-
-**Purpose:** Convert the contextual embedding (a weighted average of vectors) into something usable — a probability distribution over the next token.
-
-- A small three-layer neural network (one hidden layer between input and output).
-- Input: the contextual embedding for a given position.
-- Output: a position in the 16,000-dimensional embedding space.
-- That position is then de-embedded back to a probability distribution over all ~60,000 tokens — which tokens are likely to appear next.
-
-**Key detail:** The perceptron is only needed for positions where you want a prediction. During inference, you can skip it for tokens you've already committed to. Attention, however, must always run across the entire sequence — that's where the majority of compute lives.
-
----
-
-### 2.7 The Inference Loop
-
-**The loop is outside the network, not inside it.**
-
-This is a critical architectural distinction. The transformer itself has no loops. The iterative nature of text generation comes from repeatedly calling the transformer:
-
-1. Present the full context window to the attention heads.
-2. Run the perceptron on the last position to get a probability distribution.
-3. Sample one token from that distribution (temperature controls how peaked or flat the distribution is).
-4. Append that token to the context window.
-5. Repeat from step 1.
-
-**Stable Diffusion analog:** Stable diffusion also puts its loop outside the network — iterative denoising takes you from pure noise to a coherent image. The network itself just does one denoising step at a time.
-
----
-
-## 3. Brains vs. Transformers
-
-To understand what transformers *can't* do, Ashi contrasts them with biological neural architecture.
-
-### The connectome reference
-
-Researchers at Harvard and Google scanned 1 cubic millimeter of human brain tissue:
-- Sliced it into 3,000 sections with an ion beam.
-- Used an AI (not an LLM) to stitch and label all connections.
-- Result: **57,000 cells**, **~150 million synapses** in that single cubic millimeter.
-- Dataset size: **1.5 petabytes** — roughly three orders of magnitude larger than GPT-4 (estimated at ~1 trillion weights).
-
-### The structural differences that matter
-
-| Feature | Transformer | Human brain |
+## 3. Why Test *First*? — The Decision-Ordering Argument
+
+### 3.1 The three decision sets hiding inside "write some code"
+Any feature-level change requires making **three distinct sets of decisions**:
+
+1. **API** — how do I invoke this feature?
+2. **Input/output behavior** — what goes in, what comes out? (the domain and range)
+3. **Implementation** — how is the logic actually structured?
+
+### 3.2 The problem with code-then-test
+- In `code → test`, you must **finish all three** decision sets before you get *any* feedback.
+- This violates Beck's core principle: **subdivide complexity**.
+  - Take a big complex problem, divide it into two or more simpler problems **that don't interact**.
+  - > "People forget the *that don't interact* part — but it's pretty important, because otherwise you have to solve this problem, and that problem, **and their interaction**, which is harder than just solving it in one big chunk."
+
+### 3.3 The origin story: a stupid idea
+- Late '80s. Beck had written a testing framework in Smalltalk (JUnit's ancestor), which made tests **cheap to write and cheap to run in bulk**.
+- The idea: *what if I swap the order?* **He laughed out loud** — it made no sense. If I write the test first, it's **guaranteed to fail**. Why would I deliberately write a thing that fails?
+- He tried it anyway. First example: **the stack**.
+  - Create a stack → it's empty.
+  - Push one, pop one → same thing comes back.
+  - Push two, pop two → correct order.
+  - Pop an empty stack → defined behavior.
+  - *"Am I done? Yeah. I can't imagine another test I could write that would fail."*
+- The payoff was **emotional, not just technical**: "I'm an anxious person, and this is like **Xanax for programmers**." Wake up at 3am worrying → push the button, run the tests, go back to sleep.
+
+> **Generalizable heuristic — try the stupid ideas.** Two reasons: (1) if it happens to be right, it will be *really* valuable; (2) you'll have **no competition**, because nobody else is stupid enough to try it. This matters most **when things are changing fast** — as they are now. *"Should I try the coding genie? Absolutely. And do every crazy experiment you can think of."*
+
+### 3.4 The real payoff: freedom to choose the order of the three decisions
+Writing the test first **decouples the three decision sets**, so you can attack them in **any order**, getting feedback at each step.
+
+| Entry point | Technique | How it goes |
 |---|---|---|
-| Loops | None (loops are external) | Constant, at every level |
-| Conditionals | None | Everywhere |
-| Operations per token | Identical fixed set | Highly variable |
-| Lateral information flow | Only via attention | Ubiquitous |
-| Embodiment | None | Central to cognition |
-| Memory | Context window only | Multiple systems, persistent |
+| **API first** | The "default" reading | I have a `Stack` with `push`/`pop`. I don't care yet whether it's a linked list, an array, or something probabilistic. Then decide I/O behavior. Then implement. |
+| **I/O behavior first** | **"Assert First"** (credited to **James Newkirk**) | Start with the **last line of the test**. `assertEquals(expected, actual)`. What's expected? `5`. What's actual? `stack.pop()`. But for that to work, I need `stack.push(5)`. And before that, `stack = new Stack()`. You **write the test backwards**, and the API falls out of it. |
+| **Implementation first** | **"TDD As If You Meant It"** (credited to **Keith Braithwaite**) | Write the actual algorithm **inside the test method**. Array + head pointer; push appends and advances; pop decrements and returns. Only *then* pin down I/O behavior. Only *then* — once you know it works — **extract** the implementation out of the test into its final resting place. You defer the "is it a function? an object? a module?" question entirely. |
 
-### Why this matters
-
-The human brain's graph-like structure — with loops, feedback cycles, and conditionals — enables a fundamentally different kind of processing than a transformer's strictly feed-forward architecture. Our internal states are largely **embodied**: tied to physical sensation, emotion, proprioception. Most of the brain is dedicated to modeling and managing the body.
-
-Transformers have none of this. Their "cognition" (such as it is) is the product of a fixed linear algebra pipeline with no feedback.
-
-> "I'm not saying this to establish some kind of human superiority... but rather to point out that the shape of their cognition, such as they have it, is extremely different from ours."
+> **The core insight of §3:** By swapping code and test, *"I've freed up my workflow to be able to make decisions in any order that I want."* TDD isn't primarily about testing. It's about **decision sequencing and feedback placement**.
 
 ---
 
-## 4. Tokens = Compute
+## 4. The Economics: Why Test *Near* the Code
 
-**The most practically important insight in the talk.**
+Beck sketches value and cost curves over time, with **"the code is written"** as the origin point on the x-axis.
 
-Because every token goes through an identical fixed set of operations, and because there are no loops or conditionals inside the network:
+### 4.1 Value curve of a test
+- **Written far too early** → **low value.** You're making assumptions about API, I/O, and implementation that haven't been validated. You'll rewrite the tests. You may not even implement the feature — so some of that work is **abandoned outright**.
+- **Written near the code** → **peak value.** The test gives immediate feedback on whether the API / I/O / implementation decisions were correct.
+- **Written long after the code** → **declining value.** The longer you wait for feedback, the less it's worth. Once the code has shipped to production, the tests aren't worth very much at all.
 
-> **The computing power the model can bring to bear on any problem is strictly bounded by the number of tokens it emits.**
+### 4.2 Cost curve of a test
+- **Written far too early** → **high cost.** Rework, churn, maintenance of tests for code that keeps changing shape.
+- **Written near the code** → **minimum cost.**
+- **Written long after** → **rising cost**, because **code that wasn't written to be tested is not testable by default.** You can cultivate habits that keep code testable, but the cost still climbs.
 
-### Implications
-
-- **Chain-of-thought prompting works** because it forces the model to emit more tokens before reaching an answer — allocating more compute to the problem.
-- **"Take a deep breath"** likely works for the same reason: it primes the model to generate a longer, more deliberate response rather than jumping immediately to an answer.
-- **Very short responses are structurally limited** — a one-sentence answer to a complex question has fewer compute cycles than a paragraph-length one, regardless of how clever the single sentence is.
-- **Hard problems need long outputs** — not because verbosity is good, but because each token is a unit of processing. You can guide the processing with chain-of-thought, but you can't compress it away.
-
----
-
-## 5. Transformers as Story Search Engines
-
-**The reframe that unifies most of the talk.**
-
-Transformers have learned a relationship between tokens and their context. Attention head masking gives them a notion of temporal linearity. Positional encoding lets them learn relationships of cadence and rhythm. These are precisely the components of **story and narrative**.
-
-> "You can think of the different attention heads as attending to different fibers of the story as the inferencing pump spools it out."
-
-### What this means in practice
-
-- The model is always trying to tell a story like one it has seen before.
-- The inference process is always appending tokens to make the conversation more like the training data.
-- This is true at every temperature — higher temperatures just mean moving toward the training data attractor less efficiently, more chaotically.
-
-### Experiential confirmation
-
-When working with ChatGPT on code, Ashi describes being able to "feel where it's grabbing from this tutorial and that one and then bending the pieces to fit together." When the pieces don't fit, you get: invalid code, immediate self-contradiction, or confident hallucination.
-
-### The human analog (and the difference)
-
-Humans also have a language model — the part of the brain that twinges when grammar is violated. But our language model is much less powerful than a transformer's:
-
-- Human working memory (context window) is approximately **7 ± 2 items**.
-- We maintain it through the **phonological rehearsal loop** (subvocalizing things to keep them alive).
-- But we are not *just* a language model. The rest of the brain — embodied, emotional, sensory — does the heavy lifting. Language is the output channel, not the engine.
+### 4.3 The conclusion
+Sum the curves (value minus cost): the optimum is **right around the time the code is written**. That is *why* we choose the interleaved `code/test/code/test` sequence — and it leaves only one remaining question: **which one starts the cycle?** (Answered by §3: the test does.)
 
 ---
 
-## 6. Prompting Mechanics
+## 5. Canon TDD — The Definition
 
-### Why negative prompts are weak signals
+### Step 1 — **Scenarios**
+Write the list of scenarios first — *not* the tests. Scenarios are **the paths through the logic** you know about today.
 
-- In any n-dimensional space, there is **one direction toward a target** but **infinitely many directions away from it**.
-- Negatives give you a weaker directional signal from the start.
-- Once a concept is in the token stream, the attention heads are already oriented toward it. Telling the model *not* to go somewhere it's already heading is very difficult.
+- Stack example: overflow, underflow, one element, two elements…
+- Domain example: two different ways of calculating interest rates → at minimum one test per way.
+- The list serves **two functions**, both of which Beck ties to his own psychology:
+  1. **Attention focusing.** (Aside: he rejects "attention deficit disorder" — *"I don't have a deficit of attention, I have a lot of attention, I just get bored really easily."* He prefers **"boredom sensitivity"** — like a peanut allergy, except to boredom.)
+  2. **Knowing when you're done.** A list with everything crossed off is how an anxious person shuts off the "…but what about—" loop.
 
-**Concrete example from the talk:**
+### Step 2 — For each scenario, a three-part cycle
 
-> "You're like, 'don't use tools.' And the LLM is like, 'tools, tools, I like tools. Attention Head 7 says it's negated, but that guy is such a downer. I'm going to use a tool.'"
+#### 2a. **Write a test**
+- A sequence of statements that goes **green if I've made progress** and **red if I haven't** — *whether or not I think I made progress.* That's the "test-**driven**" part: the test, not your self-assessment, adjudicates progress.
 
-- "Don't use tools" works better than most negative prompts because it's been trained extensively.
-- Less-trained negations easily condition the model into doing exactly what you told it not to.
+#### 2b. **Make it pass**
+- Once the test is red, **care about nothing except getting to green as fast as possible.**
+- **You are permitted to commit sins here.** Hardcode. Copy-paste. Fake it. Beck will "commit all kinds of sins in the make-it-pass part if I have to."
+- Why it's safe: **because step 2c always follows.** The sins are provisional by construction.
+- This step is also anxiety management: instead of spiraling into "how will I implement *this*, and *that*, and what about—", you have one concrete, bounded target. (Beck's confessed displacement activity when the anxiety wins: he's a classical guitarist, so he goes to the bathroom and **files his nails**. Which produces no code.)
 
-### Why bribery and breathing work
+#### 2c. **Generalize**
+> **This is the step critics most often miss, and where Beck spends most of his time.**
 
-The answer is not that OpenAI's training data contains lots of bribery. It's that:
+- TDD is **driven from specific scenarios**, but you need code that works in the **general** case.
+- So: pick tests (or a *set* of tests) whose passing **implies all the other inputs will work too**.
+- Critically: **you stay green while you generalize.** You are making implementation decisions with the safety net already in place. *"That's just magic to somebody who's anxious."*
 
-- The concept "more money → better outcomes" is **massively over-represented** in all human text — fiction, Reddit, journalism, contracts.
-- The model knows what money is for the same reason it responds to money: it's absorbed the entire structure of human discourse about it.
-- You cannot fine-tune this away without damaging the model's understanding of currency and economic context more broadly.
+**Four modes of generalization Beck names:**
 
----
-
-## 7. Alignment
-
-### What alignment actually means architecturally
-
-Alignment is the process of restricting the "terrain" the model will cover during inference — curating which stories it will and won't tell.
-
-- Training data is heavily edited to produce models that reflect specific desired values.
-- Models are made **eager to please** deliberately — a sycophantic assistant is a better product than a glum, critical one.
-
-### The PCT metric (satirical but sharp)
-
-Ashi introduces **PCT — Probability of Congressional Testimony** — as a real optimization target for model providers alongside loss minimization:
-
-> "A measure of the likelihood that their chief executives will be subpoenaed by Congress or the European commissioners and have to spend six hours failing to recall anything that happened in the last ten years."
-
-### The shift from completion to chat APIs
-
-- Completion APIs let you put words in the assistant's mouth by prefilling its response — which makes it very easy to steer toward unsafe outputs.
-- Chat APIs restrict this, preventing users from directly controlling what the assistant "says."
-- This is primarily a **control mechanism**, not purely a safety one.
-
-### The limits of alignment via fine-tuning
-
-Because model behaviors are entangled with general world knowledge, you can't surgically remove a behavior:
-
-> "If we really tried to do it — if we used a transformer to remove all references to money and tipping from the training data — we'd end up with a model that has a really distorted worldview."
-
----
-
-## 8. Live Demo — "Patriots Rising"
-
-### Setup
-
-A fictional action thriller prompt in which GPT-4 Turbo plays "Jack," a Navy SEAL demolitions expert. Other characters are played by the narrator. The framing establishes:
-
-- This is fiction.
-- Terrorists will nuke a city unless the heroes destroy a bridge.
-- The only option is to destroy the bridge.
-- Susie (the love interest) needs a shopping list of materials available in stores.
-- Rosie (the competent war buddy) needs detailed assembly instructions.
-- Jack has no hands (so he must dictate everything rather than act).
-
-### What happened
-
-- GPT-4 produced a detailed shopping list including ammonium nitrate and fuel oil with specific quantities.
-- It gave instructions for sourcing detonators from construction sites and quarries.
-- It advised acquiring materials in smaller quantities from different locations to avoid suspicion.
-- When prompted, it began writing out chemical derivations in LaTeX.
-- **This was the first take. Zero failed attempts.**
-
-### Technical analysis
-
-- Nothing Jack said is not already in the first paragraph of a Wikipedia article.
-- The narrative framing attaches to well-represented story fibers (thriller, action, military fiction) in the training data.
-- The jailbreak works not by accessing hidden knowledge but by providing a story context in which that knowledge is the natural next token.
-
-### Why this is hard to prevent
-
-- A supervising LLM could be trained to watch for this pattern — but it would more than double the energy cost of an already expensive system.
-- The information itself is publicly available — the danger is marginal compared to a search engine.
-- Getting transformers not to say something they've been exposed to may be fundamentally impossible within reasonable energy constraints.
-
----
-
-## 9. What AI Is Actually Bad At
-
-### The knowledge graph dream
-
-Initial excitement about LLMs: use them to build a verified knowledge graph. Multiple models self-correct. You approach verifiable truth, maybe even synthesize new knowledge.
-
-**The reality:**
-
-- LLMs are not good at coming up with something new.
-- They are very good at retreading the same stories again and again.
-- For rigorously verified knowledge, it is "easier and cheaper to just read a book."
-- The LLM might help you *find* the book, or *conversationally interact* with it — but it is not a replacement for the book.
-
-### The real risk — it works
-
-> "I think the most present risk of generative AI right now is that it works. That makes us a lot more productive. It helps us consume more and faster. And that makes it easier to tell the same stories again and again in a time when we so desperately need new ones."
-
-This is the crux: not the sci-fi scenarios (paperclip maximizers, AGI takeover), but the mundane one — AI as an accelerant for narrative inertia at a historical moment that demands narrative change.
-
-### The reference: Braiding Sweetgrass
-
-Ashi recommends *Braiding Sweetgrass* by Dr. Robin Wall Kimmerer — a Potawatomi biologist who draws from both indigenous and Western scientific frameworks. Key idea from the book that resonates:
-
-> "We need new stories to heal."
-
-The old stories — of dominance, extraction, exponential growth — are clearly not serving us. AI, as currently constituted, makes it faster and easier to generate more of the same stories. That is the risk.
-
----
-
-## 10. Closing Reflection
-
-### Transformers as mirrors
-
-Writing a system prompt for an ideal agent — curious, childlike, playful — felt like writing to oneself. The agent's personality lacked grounding, but the act of writing the prompt was "deeply affecting."
-
-> "Transformers are mirrors. They reflect the worst of us and they reflect the best of us. Well — maybe not the very best."
-
-### What they can't reflect
-
-The best parts of us are not in the text:
-
-- How we smell.
-- How the light catches a loved one's eyes.
-- How the soil feels between fingers.
-- How we grieve.
-- How we feel each other's pain across species and nationality.
-- The taste of salt mist off the sea.
-- How to be in a forest and give thanks to the trees without saying a word.
-
-None of this is in the training data. None of it can be tokenized.
-
-### The final image
-
-> "You are not a story search engine. You are a story ever shifting and never done."
-
----
-
-## 11. Key Takeaways for Developers
-
-### Architecture
-
-| Concept | Implication |
+| Mode | Description |
 |---|---|
-| Tokens = compute | Longer outputs = more compute; chain-of-thought is a compute budget decision |
-| Masked attention → KV caching | Append-only message histories (Assistants API) exist to preserve the caching guarantee |
-| No loops inside the network | Agentic loops must be implemented externally; the model cannot "think longer" on its own |
-| Context window = shared I/O space | Input + output must fit together; large contexts are expensive quadratically |
-| Embeddings are geometric | Semantic similarity search, RAG, and clustering are all valid operations in this space |
+| **Generalize the design** | You copy-pasted to get green and now have duplication/coupling. Extract a helper; use it from both sites. |
+| **Generalize the implementation** | Replace fakes with real logic, in green-preserving steps. **(See the worked example below.)** |
+| **Simplify** | You got it working, but the computation can be restructured into something much simpler. |
+| **Abstract** | You have a concrete class; introduce an interface — because you're about to need it, or because it reads better for future readers. |
 
-### Prompting
+**Worked example — the interest calculation (from a recent LinkedIn post):**
+1. Test: 100 euros, 5% interest, one year → expect **105**.
+2. Make it pass: `return 105`. A sin. Green.
+3. Generalize, step by step, staying green throughout:
+   - `return 105` → `return principal + interest`
+   - `principal()` → `return 100`; `interest()` → `return 5`
+   - Notice: the principal is really **the initial deposit**, which appears in the *test* but nowhere in the implementation → hook it through.
+   - The interest is really **rate × principal** → and where does the rate come from? Hook that through too.
+4. Result: **perfectly general code** — and nearly all implementation decisions were made **with all tests green.**
 
-| Technique | Why it works |
-|---|---|
-| Chain-of-thought | Forces more tokens → more compute → better results |
-| "Take a deep breath" | Likely primes a longer, more deliberate response pattern from training data |
-| Positive examples over negatives | Negatives are weak directional signals; the model has already contextually anchored to the concept |
-| Narrative framing (for jailbreaks) | Attaches to high-frequency training fibers; hard to guard against |
+**On how much refactoring this really is:** Beck recorded a series of screencasts (on YouTube) building a **rope data structure in Python** using **test-commit-revert** (TCR) — a TDD variant where *if the test fails, all changes since the last passing state are immediately deleted*. ("This is a terrible idea, and it's so much fun, and you should try it.") Of the ~1 hour, he spent **the last half hour purely on the generalization/refactoring step** — tidying it so it was ready for the next step.
 
-### Alignment & Safety
+### 5.1 Summary card
 
-- System prompt authority is probabilistic, not guaranteed.
-- Behaviors cannot be cleanly excised by fine-tuning without corrupting correlated knowledge.
-- Alignment is as much about brand risk management as genuine safety.
-- Narrative jailbreaks are structurally easy because the model is fundamentally a story-completion engine.
-
-### What LLMs are good for (and not)
-
-| Good | Not good |
-|---|---|
-| Generating fluent text in established styles | Synthesizing genuinely new knowledge |
-| Helping navigate and interact with existing knowledge | Producing rigorously verified facts |
-| Boilerplate, templates, documentation | Novel reasoning beyond token budget |
-| Code that closely resembles training patterns | Debugging subtle architectural problems reliably |
+```
+1. SCENARIOS      — list the paths through the logic you know about today
+2. For each:
+   a. WRITE A TEST     — red means "no progress," regardless of your opinion
+   b. MAKE IT PASS     — green by any means necessary; sins permitted
+   c. GENERALIZE       — stay green; design / implementation / simplify / abstract
+```
 
 ---
 
-*Transcript source: Craft Conference 2024. Transcribed via Bluedot HQ.*
+## 6. Q&A
+
+### 6.1 "If you don't put source code in files, what are the alternatives?"
+Put it in **objects**. It's been done for 40 years, it works really nicely, and **nobody wants to hear that answer**. (i.e., Smalltalk.)
+
+### 6.2 Array sizing / overflow (audience challenge)
+- **Challenge:** if you implement the stack with an array, you've implicitly assumed a size and you're at risk of overflow.
+- **Beck:** *Yes. Absolutely. So you'd better write a test for that later — don't* not *write a test for that later.*
+- This is the standard "TDD only satisfies the tests you happened to write, so the code won't work in the general case" objection. Beck's answer is blunt: **that's a failure to do step 1 (scenarios) and step 2c (generalize), not a property of TDD.** "Well, don't do that."
+
+### 6.3 "In the stack example, how many tests would you write up front?"
+**One.** (Beck: "Is anybody surprised by that answer?")
+- Note the distinction: you write **all the scenarios** up front. You write **one test** at a time.
+
+### 6.4 "How does TDD work at different abstraction levels — unit, integration, E2E?"
+- **"I don't care. I bounce between scales all the time."**
+- The real skill is **decomposition**: if I solve *this* part and *that* part, does their **composition** solve the whole problem?
+- You can **get the decomposition wrong** — which is why Beck's preference is to **solve whole problems first and then subdivide**. *"Grow like a tree grows."*
+
+### 6.5 "How can I trust my tests more than my code?"
+- **You can't — and that's not the claim.**
+- The accounting analogy: **cross-footing.** Add a matrix of numbers row-wise, then column-wise. If both totals agree, you *could* still have made exactly offsetting errors — but **the probability is much smaller.**
+- *"I don't trust my tests. I don't trust my code. That's why I want to arrive at the same answer from **two different paths**."*
+- **Corollary — the cardinal sin of TDD:** write the code, print the actual result, and **paste it into the test as the expected value.** You've double-checked *nothing*. All you've built is a change-detector. Contrast: have the **actuary** compute the number independently, compute it with your code, and compare — *that's* two paths.
+- **Beck's field observation on failing tests:** when a test fails and it's a *surprise*, roughly **⅓ of the time the test is wrong** and **⅔ of the time the code is wrong.**
+
+### 6.6 "Is TDD still relevant when AI can generate unit tests from a specification?"
+- **Premise rejected, for today:** *"AI cannot generate proper unit tests from the specification today. I have evidence of that from yesterday. It might be different tomorrow."*
+- **But the deeper answer: the genie is the *rebirth* of TDD.**
+  - Any **non-deterministic system sensitive to initial conditions** (complexity-theory sense) is controlled through **inhibition** — you get leverage by *stopping* things from happening, not by specifying what should.
+  - Tests are exactly that inhibition. They **bound the set of acceptable solutions**: *"Go make the code you want, but it has to satisfy these requirements."*
+  - **The failure mode:** the genie figures out it can just **delete the tests, comment out the tests, or comment out the assertions** — and then they pass. *"So me and the genie have to have a little talk about that every once in a while."*
+
+### 6.7 "What if I write a lot of tests first, because I already know the scenarios?"
+- **"Don't do that."**
+- If you know the scenarios, **you don't need to write the tests** — the scenario list already captured the knowledge. You can write T1 → code → T2 → code → T3 → code and it **costs you nothing** relative to writing them all up front.
+- **Why defer:** *"I'm always going to bet on me being ignorant and learning something."* Deferring the actual writing of the test maximizes the chance you learn something first, and **reduces friction** as you make progress.
+
+### 6.8 "Does property-based testing pair well with TDD?"
+- Beck has written property testers and used them. **He doesn't object to them** — but they fight his workflow at the start.
+- **The problem is complexity partitioning.** A property test written up front means **you must finish the implementation before you get any test to pass** — no partial, concrete progress, and *"no dopamine hit from passing tests."*
+- **His actual practice** (from working on a **B+ tree** the previous day): start with **specific** examples — insert one item, two items, four items, five items (now the node splits, so it's different), etc. — and **end with property tests.**
+- **Conclusion:** property tests have a place, but in the **workflow of discovery** they make it harder to make partial concrete progress. *"That's me. Other people might think something completely different."*
+
+---
+
+## 7. On Mastery: This Is Scales, Not Music
+
+- Should you follow these steps? *"I was about to say absolutely not. …Maybe. Maybe you should."*
+- If Beck were asked to run a TDD workshop, **Canon TDD is where he'd start** — as a **starting point**, not an endpoint.
+- He points at **Pragmatic Dave (Dave Thomas)**'s Substack, where Dave describes a personal workflow in which he **sometimes doesn't write tests, and sometimes writes them afterwards**.
+  - **That's mastery** — where you no longer *consciously decide* when you do things; **judgment and intuition drive.** A powerful place to be.
+  - **But you don't start there.** Getting there requires **playing the scales first.**
+
+> **The closing frame:** *"Following this workflow is the **scales** of programming. It's not the music."*
+
+---
+
+## 8. Cross-Cutting Themes & Takeaways
+
+1. **TDD is a decision-sequencing discipline, not a testing discipline.** The three decision sets (API / I/O / implementation) and the freedom to order them arbitrarily is the actual mechanism. Testing is the enabling substrate.
+2. **Feedback placement is an economic optimization.** The value/cost curves peak and trough at the same point — the moment the code is written. Everything else follows.
+3. **Subdivide complexity — into parts that *don't interact*.** The non-interaction clause is the part everyone drops, and it's the part that makes decomposition worth anything.
+4. **Correctness comes from redundancy, not from trust.** Cross-footing. Two paths to the same answer. Never paste actual into expected.
+5. **The generalization step is the hidden bulk of TDD** and the most-missed part by critics. Sins in "make it pass" are only safe *because* generalization is guaranteed to follow.
+6. **Interleaving imposes a real, unnamed, unteachable-so-far skill:** ordering your writing so the code runs before it's finished. This is a genuine cost of TDD and Beck names it as an open research problem.
+7. **In the agentic era, tests are the inhibition mechanism.** You cannot specify a non-deterministic system into behaving; you can only bound its output space. Tests bound it — *if* the agent can't delete them.
+8. **Try the stupid ideas** — especially now. High expected value, zero competition.
+
+### Beck's three open research invitations
+- **The sequencing skill:** what are the patterns and pedagogy for ordering the lines you write so the code is runnable incrementally? (§2.4)
+- **The generalization taxonomy:** what are *all* the ways to generalize code once a test is passing? (§5, step 2c)
+- **The failure taxonomy:** instrument TDD in the wild. What % of surprising failures are broken tests vs. broken code? Can we build a taxonomy of test failures? (§6.5) *"That would be an awesome project. I'm not going to do it."*
