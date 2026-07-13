@@ -33,6 +33,12 @@ def main():
     execute_command(["git", "pull"],
                     cwd=args.gh_page_repo)
 
+    # copytree only overwrites/adds; it never removes files that no longer exist
+    # in the fresh build. Wipe the gh-pages working tree first (keeping .git) so
+    # deleted/renamed pages and orphaned linked-file copies don't linger on the
+    # live site.
+    clean_gh_pages_repo(args.gh_page_repo)
+
     shutil.copytree(get_gh_pages_artifacts_dir(), args.gh_page_repo, dirs_exist_ok=True)
 
     execute_command(["git", "add", "."],
@@ -71,6 +77,20 @@ def run_checked(command_args, cwd: str = None, timeout: int = None):
 
 def kill_stray_gatsby_workers():
     subprocess.run(["pkill", "-f", "gatsby-worker"])
+
+
+def clean_gh_pages_repo(repo_dir):
+    # Remove every entry in the gh-pages repo except the .git directory, so the
+    # subsequent copytree yields an exact mirror of the fresh build. `git add .`
+    # later stages these deletions.
+    for entry in os.listdir(repo_dir):
+        if entry == ".git":
+            continue
+        path = os.path.join(repo_dir, entry)
+        if os.path.isdir(path) and not os.path.islink(path):
+            shutil.rmtree(path)
+        else:
+            os.remove(path)
 
 
 def get_gh_pages_artifacts_dir():
