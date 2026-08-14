@@ -518,7 +518,7 @@ I’ll expand this like an advanced systems security lecture, with:
 * Failure patterns seen in real breaches
 * Concrete exploitation walkthroughs
 
-### 📚 1.6 From the Book — The State of Web Application (In)security (Ch 1)
+### 📚 The State of Web Application (In)security
 
 > **The core security problem: users can submit arbitrary input.**
 
@@ -1204,7 +1204,7 @@ The web security model boils down to:
 
 ---
 
-## 🛡️ Core Defense Mechanisms (Book Ch 2)
+## 🛡️ Core Defense Mechanisms
 
 ### 🧠 Core Principle
 
@@ -1304,7 +1304,7 @@ Admin interfaces built into the app are a prime target because:
 
 ---
 
-## 🌐 Web Application Technologies Primer (Book Ch 3)
+## 🌐 Web Application Technologies Primer
 
 ### 🧠 Core Principle
 
@@ -2031,7 +2031,7 @@ That’s mapping success.
 ---
 
 
-## 📚 Mapping the Application — Book Additions (Ch 4)
+## 📚 Mapping the Application
 
 ### 🧠 Core Principle
 
@@ -2670,7 +2670,7 @@ Attackers prove:
 
 ---
 
-## 🎛️ Bypassing Client-Side Controls (Book Ch 5)
+## 🎛️ Bypassing Client-Side Controls
 
 ### 🧠 Core Principle
 
@@ -6534,7 +6534,7 @@ Modern solution trend:
 
 ---
 
-## 🔥 Other Attacks on Users (Book Ch 12)
+## 🔥 Other Attacks on Users
 
 ### 🧠 Core Principle
 
@@ -6936,7 +6936,7 @@ Do not expose it to user data.
 
 ---
 
-## 🔥 Other Injection Flaws (Book Ch 9)
+## 🔥 Other Injection Flaws
 
 ### 🧠 Core Principle
 
@@ -9367,7 +9367,7 @@ Without directly attacking server.
 
 ---
 
-## 🤖 Automating Bespoke Attacks (Book Ch 13)
+## 🤖 Automating Bespoke Attacks
 
 ### 🧠 Core Principle
 
@@ -9418,7 +9418,7 @@ Bespoke automation adds no new vulnerability classes; it makes tailored attacks 
 
 ---
 
-## 📢 Exploiting Information Disclosure (Book Ch 14)
+## 📢 Exploiting Information Disclosure
 
 ### 🧠 Core Principle
 
@@ -9476,7 +9476,7 @@ Apps often disclose by design, by side effect, by leftover debug code or by brok
 
 ---
 
-## 💾 Attacking Compiled Applications (Book Ch 15)
+## 💾 Attacking Compiled Applications
 
 ### 🧠 Core Principle
 
@@ -9521,7 +9521,7 @@ Where native code appears behind web apps:
 
 ---
 
-## 🏗️ Attacking Application Architecture (Book Ch 16)
+## 🏗️ Attacking Application Architecture
 
 ### 🧠 Core Principle
 
@@ -9569,7 +9569,7 @@ Attack routes in shared environments:
 
 ---
 
-## 🖥️ Attacking the Web Server (Book Ch 17)
+## 🖥️ Attacking the Web Server
 
 ### 🧠 Core Principle
 
@@ -9628,7 +9628,7 @@ Key concept: **filter/interpreter mismatch** — a front-end filter and a back-e
 
 ---
 
-## 🔎 Finding Vulnerabilities in Source Code (Book Ch 18)
+## 🔎 Finding Vulnerabilities in Source Code
 
 ### 🧠 Core Principle
 
@@ -9696,7 +9696,7 @@ Key points:
 
 ---
 
-## 🧰 A Web Application Hacker's Toolkit (Book Ch 19)
+## 🧰 A Web Application Hacker's Toolkit
 
 ### 🧠 Core Principle
 
@@ -9765,7 +9765,7 @@ Inherent limits:
 
 ---
 
-## 🗺️ A Web Application Hacker's Methodology (Book Ch 20)
+## 🗺️ A Web Application Hacker's Methodology
 
 ### 🧠 Core Principle
 
@@ -10348,7 +10348,7 @@ The book’s real lesson is:
 
 # 🛡️ THREAT MODELLING — Threat Modeling: Designing for Security (Adam Shostack)
 
-## Chapter 1 — Dive In and Threat Model!  (pp. 3–28)
+## Chapter 1 — Dive In and Threat Model!
 
 > Chapter 1 is a hands-on first pass, not a theory chapter. It walks a simple three-tier web app (browser, web server, business logic, database, with offsite "Acme" storage) through the four key questions. **What are you building?** is answered with a whiteboard diagram plus trust boundaries. **What can go wrong?** is answered with the *Elevation of Privilege* card game and the STRIDE mnemonic. **What should you do about it?** gets four response strategies and six mitigation tables, one per STRIDE category, followed by filing bugs. **Did you do a decent job?** covers checking the model, each threat and the tests. The chapter ends with a five-step recipe for threat modeling on your own and three read-aloud checklists.
 
@@ -10937,7 +10937,7 @@ Each question is **read aloud** and should get an **affirmative answer from ever
 
 <a id="02-ch02-strategies-for-threat-modeling"></a>
 
-## Chapter 2 — Strategies for Threat Modeling  (pp. 29–57)
+## Chapter 2 — Strategies for Threat Modeling
 
 > Chapter 2 steps back from Chapter 1's hands-on recipe and surveys the strategies people use to threat model. It moves from the least structured (asking "what's your threat model?", then brainstorming and its variants) to the three structured "centres": **assets**, **attackers** and **software**. Each is presented "in its best light" before being critiqued. The author concludes that **software-centric modeling** is the best default. The second half covers how to model software: diagram types (DFD, UML, swim lane, state), trust boundaries, what to include, complexity, labels, colour, entry points, and how and when to validate diagrams. Methods for actually finding threats are left to Part II.
 
@@ -11516,7 +11516,7 @@ States: `Cart → Pending payment → Paid → Shipped → Delivered`, plus `Ref
 
 <a id="03-ch03-stride"></a>
 
-## Chapter 3: STRIDE  (pp. 61–86)
+## Chapter 3: STRIDE
 
 > Chapter 3 opens Part II, "Finding Threats." It takes the STRIDE mnemonic from Chapter 1 and turns it into a working tool. First it frames each letter as the violation of a security property. Then it walks through the six threats one at a time, each with an example table and a discussion. An extended example applies STRIDE to the Acme/SQL database from Chapters 1–2, and re-sorts the threats by who must handle them. The chapter closes with three STRIDE variants (STRIDE-per-element, STRIDE-per-interaction, DESIST), exit criteria, and a summary. Throughout, Shostack insists that STRIDE is a way to *find* threats, not a scheme for *classifying* them.
 
@@ -12098,7 +12098,7 @@ DFD: `Payment provider (external entity) → flow → Webhook handler (process) 
 
 <a id="04-ch04-attack-trees"></a>
 
-## Chapter 4: Attack Trees  (pp. 87–100)
+## Chapter 4: Attack Trees
 
 > Chapter 4 presents attack trees as a second threat-finding building block, an alternative to STRIDE. A tree can find threats, organize threats found some other way, or both. The chapter first explains how to *use* a tree someone gives you, then gives six steps for *creating* one. It covers graphical, outline and structured representations, and works one complete example tree (getting into a building). It then examines three published "real" trees: the ACFE fraud tree, the U.S. election threat trees, and Ivan Ristić's SSL mind map. It closes with a frank perspective on why good trees are hard to make: completeness, scoping and meaning.
 
@@ -12450,7 +12450,7 @@ GOAL: Take over victim's account                                   [OR]
 
 <a id="05-ch05-attack-libraries"></a>
 
-## Chapter 5: Attack Libraries  (pp. 101–109)
+## Chapter 5: Attack Libraries
 
 > Chapter 5 is a short chapter that takes up a common criticism: STRIDE is too abstract. It looks at attack libraries, which are pre-abstracted, more detailed collections of attacks. It first sets out the design properties any library must balance (audience, detail vs abstraction, scope). It then contrasts libraries with checklists and literature reviews, and gives advice on building your own. Finally it surveys two real libraries, MITRE's CAPEC and the OWASP Top Ten, with exit criteria and Shostack's perspective on each.
 
@@ -12785,7 +12785,7 @@ The 2013 list contains ten items. Each gets a brief applied note (not from the b
 
 <a id="06-ch06-privacy-tools"></a>
 
-## Chapter 6: Privacy Tools  (pp. 111–121)
+## Chapter 6: Privacy Tools
 
 > Chapters 3–5 each covered one kind of tool. Chapter 6 instead assembles several tools for finding privacy threats. It opens by explaining why privacy requirements are hard to define and why privacy still matters. It then surveys six approaches:
 > - Solove's taxonomy of privacy harms, with guidance on where each harm shows up in a model
@@ -13208,7 +13208,7 @@ Each letter below has a brief note and an applied example (not from the book).
 
 <a id="07-ch07-processing-and-managing-threats"></a>
 
-## Chapter 7 — Processing and Managing Threats  (pp. 125–143)
+## Chapter 7 — Processing and Managing Threats
 
 > Chapter 7 opens Part III ("Managing and Addressing Threats"). Where Part II supplied the techniques — the "Lego blocks" of STRIDE, attack trees, attack libraries and privacy tools — this chapter is about the **process** in which an individual or small team applies them: when to threat model, how long it takes, where to start, how to iterate across a diagram, and how to go deeper into mitigations by thinking like a chess player. It then offers concrete **tracking tables** (threats, assumptions, external security notes) and closes with three recurring **scenarios**: the customer/vendor trust boundary, new technologies, and threat modeling an API. Organization-level process is explicitly deferred to Chapter 17.
 
@@ -13616,7 +13616,7 @@ Each letter below has a brief note and an applied example (not from the book).
 
 <a id="08-ch08-defensive-tactics-and-technologies"></a>
 
-## Chapter 8 — Defensive Tactics and Technologies  (pp. 145–165)
+## Chapter 8 — Defensive Tactics and Technologies
 
 > Having found threats with STRIDE, attack trees and libraries, the next step is to **address every one**. This chapter is a catalogue of the **standard tactics and technologies** — usually OS or program features you can configure or switch on — organized by **STRIDE**: for each threat type it recaps the threat, gives tactics, developer and operational approaches, and a list of technologies. It then warns against two time-wasting traps, discusses why **security patterns** haven't caught on (plus standard deployments and CAPEC), and closes with a parallel catalogue for **privacy**: minimization, cryptographic techniques, and compliance/policy. Chapter 9 picks up where standard fixes don't fit.
 
@@ -14055,13 +14055,12 @@ Each letter below has a brief note and an applied example (not from the book).
 
 <a id="09-ch09-trade-offs-when-addressing-threats"></a>
 
-## Chapter 9 — Trade-Offs When Addressing Threats  (pp. 167–187)
+## Chapter 9 — Trade-Offs When Addressing Threats
 
 > Chapter 8 gave the standard fixes; this chapter covers what to do when they don't apply. It starts with the **classic risk-management strategies** (avoid, address, accept, transfer — and the traditional "ignore"), then a **spectrum of mitigation choices** from changing the design through standard mitigations to custom ones, with worked examples (one-time tokens to phones, an e-mail system with a "lawful intercept" module, the Acme SQL database) and a warning that **fuzzing is not a mitigation**. It then surveys **prioritization** approaches from "wait and see" and "easy fixes first" through **bug bars** to cost-estimation methods (**probability/impact, FAIR**), explains **risk acceptance** by businesses and users, and ends with how to play an **arms race** you can't avoid.
 
 
-
-### 9.0 Chapter framing (pp. 167–168)
+### 9.0 Chapter framing
 
 #### 9.0.1 Try standard approaches first
 - After listing threats, **consider whether standard approaches will work** — often **faster** than assessing risk trade-offs and alternatives (p. 167).
@@ -14447,7 +14446,7 @@ Threat: "Attackers enumerate valid usernames on the login form."
 
 <a id="10-ch10-validating-threats-are-addressed"></a>
 
-## Chapter 10: Validating That Threats Are Addressed  (pp. 189–202)
+## Chapter 10: Validating That Threats Are Addressed
 
 > This Part III ("Managing and Addressing Threats") chapter asks a simple question: after you have fixed threats (Ch 8) and weighed risks (Ch 9), **are your efforts actually working?** Shostack answers in five moves: (1) how to **test mitigations** (process, technique, and where penetration testing fits); (2) how to **threat model code you acquire** rather than build; (3) how to **QA the threat-modeling activity itself** before you ship; (4) a set of **process observations** — testers as allies, the red flag of "validated," and documenting assumptions as you go; and (5) a set of **tracking tables** for bugs, accepted risks and transferred risks. It is a short, practical, "blocking and tackling" chapter.
 
@@ -14772,7 +14771,7 @@ describe('threat AUTH-07: tokens for another audience are rejected', () => {
 
 <a id="11-ch11-threat-modeling-tools"></a>
 
-## Chapter 11: Threat Modeling Tools  (pp. 203–214)
+## Chapter 11: Threat Modeling Tools
 
 > The final chapter of Part III surveys the tooling landscape as of 2013–14. It moves from **general-purpose tools** (whiteboards, office suites, bug trackers) to **open-source** threat-modeling tools (TRIKE, SeaMonster, Elevation of Privilege), then **commercial** tools (ThreatModeler, Corporate Threat Modeller, SecurITree, Little-JIL, Microsoft's SDL Threat Modeling Tool — which Shostack led), and ends with **tools that don't exist yet** (automated model creation and automated threat identification) and why they would be double-edged. The product details are now historical; the design lessons — what makes a tool help or hinder — remain useful.
 
@@ -15099,7 +15098,7 @@ flowchart LR
 
 <a id="12-ch12-requirements-cookbook"></a>
 
-## Chapter 12: Requirements Cookbook  (pp. 217–242)
+## Chapter 12: Requirements Cookbook
 
 > The first chapter of Part IV ("Threat Modeling in Technologies and Tricky Areas") is a reference chapter: a **cookbook of straw-man security requirements** to adapt to your system. It starts with *why* requirements matter to threat modeling (you can't judge whether a threat matters without them) and how **threats, requirements and mitigations feed each other**. It then offers requirement "recipes" through several lenses: **business requirements**; two **frames** — **prevent/detect/respond** and **people/process/technology**; **development vs acquisition**; **compliance** (CSA, NIST Publication 200, PCI-DSS); **privacy** (FIPs, Privacy by Design, Laws of Identity, Microsoft's privacy standards); the technical **STRIDE ("AINCAA") requirements**; and finally **non-requirements** — what your system explicitly won't defend against. Requirements usually come as **graduated ladders** of options from weak to strong; the outline paraphrases each ladder rather than reproducing it.
 
@@ -15700,7 +15699,7 @@ flowchart LR
 
 <a id="13-ch13-web-and-cloud-threats"></a>
 
-## Chapter 13: Web and Cloud Threats  (pp. 243–252)
+## Chapter 13: Web and Cloud Threats
 
 > A short Part IV chapter whose thesis is that **web and cloud systems are threat modeled like any other software** — STRIDE and attack trees work fine — but these environments have **recurring threats** worth knowing in advance. It walks through four areas: **web threats** (websites, browsers and plugins), **cloud tenant threats** (organized by attacker: provider insiders, co-tenants, plus compliance, legal and forensic threats), **cloud provider threats** (what tenants do to the provider and to others), and **mobile threats** (device loss, locked platforms, blocked patches). Much of the detail reflects 2013-era technology; the attacker groupings remain a useful checklist.
 
@@ -15984,7 +15983,7 @@ flowchart LR
 
 <a id="14-ch14-accounts-and-identity"></a>
 
-## Chapter 14 — Accounts and Identity  (pp. 253–291)
+## Chapter 14 — Accounts and Identity
 
 > Chapter 14 is a reference chapter for one of the most frequently threat-modeled parts of any system: how it represents, authenticates, recovers and names the people who use it. It follows the account through its **life cycle** (creation, maintenance, termination), then covers **authentication** (login, login failures, threats to what you have, what you are and what you know, with passwords and password storage in depth), then **account recovery** (e-mail, knowledge-based, social, chained failures), and closes with **names, identifiers, identity documents and SSNs**, ending with identity theft. Each major part ends with a short checklist meant to be "read aloud at a meeting." The point throughout is that these threats have already been found and worked through, so you can reuse the known threats and mitigations instead of rediscovering them.
 
