@@ -57,7 +57,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b main -r https://$GH_TOKEN@github.com/tonytvo/tonytvo.github.io.git",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b main -r https://github.com/tonytvo/tonytvo.github.io.git",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
