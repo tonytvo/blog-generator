@@ -965,6 +965,8 @@ Often tied to:
 * Employees’ children
 * Specific traits (leadership, diversity, entrepreneurship)
 
+* Examples: [TD community leadership scholarship for canandians](https://www.td.com/ca/en/about-td/ready-commitment/community-leadership-scholarship-for-canadians)
+
 ---
 
 #### **5. Faith-Based & Nonprofit**
