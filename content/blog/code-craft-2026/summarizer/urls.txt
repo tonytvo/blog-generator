@@ -1,0 +1,8 @@
+# Paste YouTube URLs here, one per line.
+# Optional 2nd column: domain (software / investing / self-help / auto)
+# Optional 3rd column: exact filename override
+# Edit this file via Google Drive on your phone, then trigger the remote session.
+#
+# Example:
+# https://www.youtube.com/watch?v=XXXXXXXXXXX   software
+# https://youtu.be/ZZZZZZZZZZZ                 investing
