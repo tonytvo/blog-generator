@@ -9,7 +9,6 @@ tags: ["valueinvesting", "investing"]
 - ![caydunt point](./caydupont.png)
 - [critical success factor](./critical-success-factor-alcoho-beverage-vn-trung-vo.docx)
 - [quan tri qua ly](./quan-tri-quan-ly-sab-trung-vo.docx)
-- [dinh gia](./HPG-dinh-gia-202206-v2.0.xlsx)
 - [huong dan cgba](./Huong-dan-CGBA-Project.pdf)
 
 # Quotes

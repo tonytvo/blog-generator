@@ -70,3 +70,10 @@ yarn-error.log
 .yarn-integrity
 
 .fake
+# Python
+__pycache__/
+
+# Local AI-agent config (may hold machine-specific settings or tokens)
+.claude/
+.codex/
+.agents/

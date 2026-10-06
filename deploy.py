@@ -16,7 +16,11 @@ def main():
     # init/systemd) and can wedge or slow the next build.
     kill_stray_gatsby_workers()
 
-    execute_command(["git", "add", "."])
+    # Stage only blog sources plus changes to already-tracked files. A blanket
+    # `git add .` would also commit any stray local file (credentials, agent
+    # config, scratch output) that happens to sit in the repo root.
+    execute_command(["git", "add", "-A", "--", "content", "src", "static", "tools"])
+    execute_command(["git", "add", "-u"])
     if args.days_ago:
         execute_command(["git", "commit", f"--date={args.days_ago} days ago", "-m", args.commit_message], check=False)
     else:

@@ -41,10 +41,10 @@ Set these once at the top of a run (shell vars make the later commands copy-past
 
 ```bash
 JOB=craft2026                                             # short slug; namespaces all /tmp state
-CONTENT_DIR=/home/tvo/dev/blog-generator/content/blog/code-craft-2026
+CONTENT_DIR=~/dev/blog-generator/content/blog/code-craft-2026
 INDEX="$CONTENT_DIR/index.md"                             # the index file (Mode A appends to it)
-REPO=/home/tvo/dev/blog-generator                         # deploy runs from here
-GH_PAGE_REPO=/home/tvo/dev/tonytvo.github.io
+REPO=~/dev/blog-generator                                 # deploy runs from here
+GH_PAGE_REPO=~/dev/tonytvo.github.io
 POST_DATE="2026-06-04T00:00:00.000Z"                      # frontmatter date for new files
 DAYS_AGO_START=81                                         # first backdated-commit offset (see §6)
 ```
