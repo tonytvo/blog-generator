@@ -31,6 +31,56 @@ tags: ["selftestingcode", "evolutionarydesign"]
 
 ![test goals principles and smells](./tests-goals-principles-smells.png)
 
+
+## xUnit Test Patterns: goals of test automation
+- the economic argument: automation pays back only if the cost of *maintaining* tests stays low. Badly designed tests can make total effort higher than not automating at all.
+
+| Goal group | Goals |
+|---|---|
+| tests should help improve quality | **Tests as Specification** (executable specification), **Bug Repellent** (prevent regressions), **Defect Localization** (a red test points to the cause without a debugger) |
+| tests should help understand the SUT | **Tests as Documentation** |
+| tests should reduce (not introduce) risk | **Tests as Safety Net**, **Do No Harm** (tests must never change or endanger production behaviour) |
+| tests should be easy to run | **Fully Automated Test**, **Self-Checking Test**, **Repeatable Test** |
+| tests should be easy to write and maintain | **Simple Tests**, **Expressive Tests**, **Separation of Concerns** |
+| tests should need minimal maintenance as the system evolves | **Robust Test** |
+
+- vocabulary: **SUT** (system under test), **DOC** (depended-on component), **fixture** (everything needed in place before exercising the SUT), **direct** inputs/outputs (via the API) vs **indirect** inputs/outputs (between the SUT and its DOCs).
+
+## xUnit Test Patterns: principles
+| Principle | Meaning |
+|---|---|
+| Write the Tests First | test-first drives testable design; retrofitting is the hardest kind of testing |
+| Design for Testability | testability is a design requirement |
+| Use the Front Door First | test through the public API before any "back door" (DB, private state) |
+| Communicate Intent | single-glance readable; build a higher-level language of test utility methods |
+| Don't Modify the SUT | replace DOCs, never the part being tested |
+| Keep Tests Independent | each test builds its own state; no order dependence |
+| Isolate the SUT | control every input the result depends on |
+| Minimize Test Overlap | verify each condition in as few tests as possible so a change breaks few tests |
+| Minimize Untestable Code | shrink it (e.g. Humble Object) instead of writing bad tests for it |
+| Keep Test Logic Out of Production Code | no test hooks / `if (testing)` in production |
+| Verify One Condition per Test | one reason to fail → better defect localization |
+| Test Concerns Separately | don't mix unrelated responsibilities in one test |
+| Ensure Commensurate Effort and Responsibility | effort to test should match value and complexity |
+
+- philosophy differences worth making explicit in a team: test first vs last, tests vs examples (specification), test-by-test vs all-at-once, outside-in vs inside-out, **state vs behaviour verification** (classicist vs mockist), fixture designed upfront vs per test.
+
+## Testing Without Mocks: goals, benefits and tradeoffs
+- the fourth option: broad tests are slow/flaky; mock-based isolated tests are fast but lock in implementation and still need broad tests; hexagonal / functional-core-imperative-shell fixes logic but leaves infrastructure untested and needs architecture changes. Nullables + sociable, state-based tests aim for unit-test speed with broad-test confidence, without re-architecting.
+- goals (in addition to the ones above)
+  - **easy refactoring**: object interactions are treated as encapsulated implementation, not behaviour to test. The *consequences* of interactions are tested, the specific method calls are not, so structural refactorings don't break tests.
+  - **readable tests**: plain arrange/act/assert, describing externally-visible behaviour; tests double as documentation.
+  - **fast and deterministic**: slow code (network, file system) only runs when it is explicitly the unit under test, and those tests produce the same result every run.
+- benefits seen in practice
+  - reported 2–3 orders of magnitude faster than equivalent mocking-framework tests
+  - simple setup, easily encapsulated in helpers; the most complex code (stubs, trackers) is the most reusable
+  - high-level infrastructure wrappers (e.g. a client for one web service) are testable in memory, without network calls
+  - error conditions and timeouts are easy to simulate
+  - compatible with existing mocks, even inside the same test, so legacy code converts incrementally
+- tradeoffs
+  - **production code changes**, especially in infrastructure classes; much of it exists mainly for tests (the core "do you want this in production?" question)
+  - **hand-written stubs** for third-party infrastructure; can't be generated, but are highly reusable
+  - **multiple failures per bug**: sociable tests execute dependencies, so one defect can turn several tests red
 # Test Pain Points
 - Obscure Tests
   - confuse the differences between test cases
@@ -106,6 +156,50 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
   - ![phases of a sampling test](./phases-sampling-tests.png)
 
 
+
+## xUnit test smell catalog (smell → causes)
+- a smell is a **symptom**, not proof. Find the cause, then apply the matching pattern/refactoring. Project smells usually trace back to behaviour smells, which trace back to code smells — fix at the root.
+
+### code smells (noticed when reading tests)
+| Smell | Causes |
+|---|---|
+| **Obscure Test** | Eager Test (verifies too much), Mystery Guest (depends on data/files not visible in the test), General Fixture (setup builds more than this test needs), Irrelevant Information, Hard-Coded Test Data, Indirect Testing (testing an object through another one) |
+| **Conditional Test Logic** | Flexible Test (adapts to its environment), Conditional Verification Logic, Production Logic in Test (re-computing the expectation with the production algorithm), Complex Teardown, Multiple Test Conditions (looping over inputs) |
+| **Hard-to-Test Code** | Highly Coupled Code, Asynchronous Code, Untestable Test Code |
+| **Test Code Duplication** | Cut-and-Paste Code Reuse, Reinventing the Wheel |
+| **Test Logic in Production** | Test Hook (`if (testing)`), For Tests Only methods, Test Dependency in Production, Equality Pollution (`equals` added only for tests) |
+
+### behaviour smells (noticed when running tests)
+| Smell | Causes |
+|---|---|
+| **Assertion Roulette** | Eager Test, Missing Assertion Message |
+| **Erratic Test** (flaky) | Interacting Tests, Interacting Test Suites, Lonely Test (passes only after another test), Resource Leakage, Resource Optimism (assumes an external resource is there), Unrepeatable Test (first run differs from later runs), Test Run War (people running tests concurrently collide), Nondeterministic Test (random values, clock, threads) |
+| **Fragile Test** | Interface Sensitivity, Behaviour Sensitivity, Data Sensitivity, Context Sensitivity (time/date/environment), Overspecified Software (mocks verify too much), Sensitive Equality (comparing `toString()`), Fragile Fixture (shared fixture change breaks other tests) |
+| **Frequent Debugging** | poor defect localization: missing unit tests, eager tests, infrequent runs |
+| **Manual Intervention** | Manual Fixture Setup, Manual Result Verification, Manual Event Injection |
+| **Slow Tests** | Slow Component Usage (DB, network), General Fixture, Asynchronous Test (sleeps), Too Many Tests |
+
+### project smells (noticed by the team/managers)
+| Smell | Causes |
+|---|---|
+| **Buggy Tests** | Fragile Test, Obscure Test, Hard-to-Test Code |
+| **Developers Not Writing Tests** | Not Enough Time, Hard-to-Test Code, Wrong Test Automation Strategy |
+| **High Test Maintenance Cost** | Fragile Test, Obscure Test, Hard-to-Test Code |
+| **Production Bugs** | Infrequently Run Tests, Lost Test (not in any suite / disabled), Missing Unit Test, Untested Code, Untested Requirement, **Neverfail Test** (can't fail, e.g. assertion never reached or exception swallowed) |
+
+### quick remedies
+| If you see… | Try… |
+|---|---|
+| can't tell what a test checks | Creation Methods, Custom Assertions, Minimal Fixture, In-line Resource |
+| `if`/loops in tests | Guard Assertion, Custom Assertion, Parameterized Test |
+| copy-pasted setup | Delegated Setup via Creation Methods / Test Data Builders, Test Helper |
+| don't know which assertion failed | single-condition tests, assertion messages |
+| flaky tests | Fresh Fixture, Distinct Generated Values, Database Sandbox, inject clock/randomness (stub or Nullable) |
+| tests break on unrelated changes | encapsulate SUT access in helpers (Signature Shielding), layer/subcutaneous tests, verify less, loosen mocks |
+| slow suite | fakes / Nullables, Layer Tests, subset suites; immutable shared fixture as last resort |
+| UI/threads/containers hard to test | Humble Object, Dependency Injection, A-Frame / Logic Sandwich |
+| bugs escape despite tests | Test Discovery (no lost tests), Unfinished Test Assertion (no neverfail tests), run on every commit |
+
 # Test Patterns
 ## Tests readability
 - avoid irrelevant information and make the cause-effect relationship between the fixture and verification logic clear
@@ -136,6 +230,35 @@ assertEventually(holdingOfStock("A", tradeDate, equalTo(10)));
 - Avoid magic numbers with no clear cause-effect relationship.
   - literal values without explanation can be difficult to understand because the programmer has to interpret whether a particular value is significant or just an arbitrary placeholder to trace behaviour (e.g. should be doubled and passed on to a peer).
   - allocate literal values to variables and constants with names that describe their function.
+- example: name tests after behaviour (TestDox style) and write them in the order *name → act → assert → arrange*
+```kotlin
+// ✗ named after methods: tells us nothing the class signature doesn't already say
+@Test fun testAdd() { /* ... */ }
+@Test fun testGet() { /* ... */ }
+
+// ✓ named after features: the class is the implicit subject ("a List …")
+class ListTest {
+    @Test fun `holds items in the order they were added`() {
+        val list = mutableListOf<String>()           // arrange (written last)
+
+        list += "first"; list += "second"            // act
+
+        assertThat(list).containsExactly("first", "second")   // assert
+    }
+}
+```
+- example: magic numbers vs named values that explain the cause–effect relationship
+```kotlin
+// ✗ why 3? why 2? is 2 doubled, copied, or arbitrary?
+assertThat(scheduler.retryDelayFor(attempt = 3)).isEqualTo(Duration.ofSeconds(8))
+
+// ✓ the significant values are named and the expectation is derived from them
+val baseDelay = Duration.ofSeconds(1)
+val attempt = 3
+val scheduler = RetryScheduler(baseDelay = baseDelay)
+assertThat(scheduler.retryDelayFor(attempt)).isEqualTo(baseDelay.multipliedBy(1L shl attempt))   // exponential backoff
+```
+
 
 
 ## removing duplication
@@ -175,6 +298,23 @@ expected: <startDate>, got <endDate>
   - diagnostics are a first-class feature: try to follow four steps TDD cycle (fail, report (make the diagnostics clear), pass, refactor)
 
 ![4 steps TDD cycle](./tdd-cycle-4.png)
+- example: explanatory assertion message vs. a bare assertion
+```kotlin
+// ✗ failure says: expected: <true> but was: <false>
+assertTrue(account.isActive())
+
+// ✓ failure explains the cause, not the symptom
+assertTrue(account.isActive(), "account should be re-activated after a successful payment")
+
+// ✓ self-describing values make the failure obvious without a message
+val startDate = namedDate("startDate", "2026-01-01")
+val endDate = namedDate("endDate", "2026-12-31")
+// failure reads: expected: <startDate> but was: <endDate>
+fun namedDate(name: String, iso: String) = object : Date(LocalDate.parse(iso).toEpochDay() * 86_400_000) {
+    override fun toString() = name
+}
+```
+
 
 ## test for information, not a representation
 - if the test is structured in terms of how other parts of the system represent the value, then it has a dependency on those parts and will break when they change.
@@ -184,11 +324,43 @@ expected: <startDate>, got <endDate>
 - if, instead, we'd given the tests their representation of "no customer found" as a single well-named constant instead of the literal null.
 - tests should be written in terms of the information passed between objects, not of how that information is represented.
   - it will make the tests more self-explanatory and shield them from changes in implementation controlled elsewhere in the system.
+- example
+```kotlin
+// ✗ the test knows how "not found" is represented elsewhere (null)
+every { customers.find(customerId) } returns null
+
+// ✓ give the information a name
+val NO_CUSTOMER_FOUND: Customer? = null
+every { customers.find(customerId) } returns NO_CUSTOMER_FOUND
+
+// ✓✓ or make the information explicit in the design so null disappears altogether
+sealed interface CustomerLookup {
+    data class Found(val customer: Customer) : CustomerLookup
+    data object NotFound : CustomerLookup
+}
+every { customers.find(customerId) } returns CustomerLookup.NotFound
+```
+
 ## precise assertions
 - focus the assertions on just what's relevant to the scenario being tested
 - avoid asserting values that aren't driven by the test inputs, 
 - avoid reasserting the behaviour that is covered in other tests
 - testing for equality doesn't scale well as the returned value becomes more complex. At the same time, comparing the total result each time is misleading and introduces an implicit dependency on the behaviour.
+- example: assert only what this scenario drives, and allow queries / expect commands
+```kotlin
+// ✗ whole-object equality: breaks whenever any unrelated field (timestamps, ids) changes
+assertThat(invoice).isEqualTo(Invoice(id = 7, customer = c, lines = l, total = Money.of(30), createdAt = now))
+
+// ✓ only the property this test is about
+assertThat(invoice.total).isEqualTo(Money.of(30))
+
+// allow queries, expect commands (MockK)
+every { catalog.priceOf("sku-1") } returns Money.of(10)            // query: stub it, never verify it
+basket.checkout()
+verify(exactly = 1) { payments.charge(customerId, Money.of(10)) }  // command: the behaviour we care about
+confirmVerified(payments)
+```
+
 
 ## unit testing and threads
   - unit tests give us confidence that an object performs its synchronization responsibilities, such as locking its state or blocking and walking threads.
@@ -453,6 +625,16 @@ assertEventually(fileLength("data.txt", is(greaterThan(2000))))
 - contains several factory methods that create objects for use in tests.
 - The mother object makes the test more readable by packaging up the code that creates new object structures and gives it a name.
 - does not cope well with variation in the test data - every minor difference requires a new factory method.
+- example: readable names, but every variation needs another method
+```kotlin
+object Customers {
+    fun standard() = Customer(id = 1, name = "Standard Sam", tier = Tier.STANDARD, address = Addresses.toronto())
+    fun gold() = standard().copy(tier = Tier.GOLD)
+    fun goldInMontreal() = gold().copy(address = Addresses.montreal())
+    fun goldInMontrealWithoutEmail() = goldInMontreal().copy(email = null)   // ← the explosion begins
+}
+```
+
 
 ## Test data builders
 - most often used for values
@@ -469,11 +651,58 @@ assertEventually(fileLength("data.txt", is(greaterThan(2000))))
   - emphasizes the important information, what is being built, rather than the mechanics of building it.
   - passing around the builders can remove much of the noise of calling build method.
     - anOrder().fromCustomer(aCustomer().withAddress(anAddress().withNoPostcode()))).build()
+- example (Kotlin)
+```kotlin
+class OrderBuilder(
+    private var customer: CustomerBuilder = aCustomer(),
+    private val lines: MutableList<OrderLine> = mutableListOf(),
+    private var discountCode: String? = null,
+) {
+    fun fromCustomer(customer: CustomerBuilder) = apply { this.customer = customer }
+    fun withLine(sku: String, quantity: Int) = apply { lines += OrderLine(sku, quantity) }
+    fun withDiscountCode(code: String) = apply { discountCode = code }
+
+    // copy so a shared base builder can create similar objects without leaking changes
+    fun but() = OrderBuilder(customer, lines.toMutableList(), discountCode)
+
+    fun build() = Order(customer.build(), lines.ifEmpty { listOf(OrderLine("any-sku", 1)) }, discountCode)
+}
+fun anOrder() = OrderBuilder()
+
+// only the relevant detail is visible; builders are passed, not built, to cut noise
+val order = anOrder().fromCustomer(aCustomer().withAddress(anAddress().withNoPostcode())).build()
+
+// similar objects from a common base
+val base = anOrder().withLine("sku-1", 2)
+val withDiscount = base.but().withDiscountCode("SAVE10").build()
+val withoutDiscount = base.but().build()
+```
+- in Kotlin a data class with default arguments + `copy()` often replaces a hand-written builder for flat values: `anAddress().copy(postcode = null)`
+
 ## to break hard-to-mock dependencies
 - **make dependencies explicit (by injecting it through constructor)**
 - singletons (such as Date())
 - extract method related to that implicit dependencies and maybe move that behaviour to the implicit dependency
   - the object should not have any getter/setter. Whenever you see a piece of code that uses the getter/setter, you might want to consider moving that piece of code to the object.
+- example: a hidden singleton (the system clock) made explicit
+```kotlin
+// ✗ implicit dependency: untestable without waiting for real time to pass
+class TrialPolicy {
+    fun isExpired(trial: Trial) = trial.endsAt.isBefore(Instant.now())
+}
+
+// ✓ injected through the constructor, with a production default
+class TrialPolicy(private val clock: Clock = Clock.systemUTC()) {
+    fun isExpired(trial: Trial) = trial.endsAt.isBefore(clock.instant())
+}
+
+@Test fun `a trial ending yesterday is expired`() {
+    val today = Instant.parse("2026-10-09T00:00:00Z")
+    val policy = TrialPolicy(Clock.fixed(today, ZoneOffset.UTC))
+    assertTrue(policy.isExpired(aTrial(endsAt = today.minus(1, ChronoUnit.DAYS))))
+}
+```
+
 ## Domain oriented observability
 - support logging: the messages are intended to be tracked by support staff and perhaps system administrators and operators to diagnose a failure or monitor the progress of the running system.
 - Diagnostic logging (debug and trace) is infrastructure for programmers. These messages should not be turned on in production because they're intended to help the programmers understand what's happening inside the system they're developing.
@@ -481,118 +710,1351 @@ assertEventually(fileLength("data.txt", is(greaterThan(2000))))
   - this.instrumentation.addingProductToCart({productId})
   - support.notifyFiltering(tracker, location, filter);
 - **we're writing code in terms of our intent (helping the support people, instrumentation) rather than implementation (logging), so it's more expressive.**
+- example: a domain probe hides logging/metrics behind domain language, and is trivially assertable
+```kotlin
+interface CheckoutInstrumentation {
+    fun discountApplied(order: OrderId, code: String, saved: Money)
+    fun discountRejected(order: OrderId, code: String, reason: String)
+}
 
-## A-Frame Architecture
+class Checkout(private val discounts: Discounts, private val instrumentation: CheckoutInstrumentation) {
+    fun apply(order: Order, code: String): Order = when (val result = discounts.validate(code, order)) {
+        is Valid -> order.discountedBy(result.amount).also { instrumentation.discountApplied(order.id, code, result.amount) }
+        is Invalid -> order.also { instrumentation.discountRejected(order.id, code, result.reason) }
+    }
+}
+
+// production implementation: the only place that knows about loggers and metrics
+class LoggingCheckoutInstrumentation(private val log: Logger, private val metrics: MeterRegistry) : CheckoutInstrumentation {
+    override fun discountApplied(order: OrderId, code: String, saved: Money) {
+        log.info("discount applied order={} code={} saved={}", order, code, saved)
+        metrics.counter("checkout.discount.applied").increment()
+    }
+    override fun discountRejected(order: OrderId, code: String, reason: String) {
+        log.warn("discount rejected order={} code={} reason={}", order, code, reason)
+    }
+}
+```
+
+
+
+## xUnit Test Patterns catalog
+### Four-Phase Test
+- every test is **setup → exercise → verify → teardown** (the ancestor of arrange/act/assert and given/when/then).
+- one **Test Method** per test condition; variations: simple success test, expected exception test, constructor test, dependency initialization test.
+- each test method runs in its own **Testcase Object** (Command pattern), so instance fields never leak between tests; suites are a Composite of tests.
+- prefer **Test Discovery** (annotations/naming) over hand-written test enumeration — enumeration causes Lost Tests.
+- **Unfinished Test Assertion**: make placeholder tests fail explicitly so they can't silently pass.
+```kotlin
+@Test
+fun `adding the same product twice increases the quantity`() {
+    // 1. setup (fixture)
+    val invoice = Invoice(aCustomer())
+    val product = aProduct(unitPrice = Money.of(10))
+
+    // 2. exercise the SUT
+    invoice.addItem(product, quantity = 2)
+    invoice.addItem(product, quantity = 3)
+
+    // 3. verify
+    assertThat(invoice.lineItems).containsExactly(LineItem(product, quantity = 5))
+
+    // 4. teardown: nothing — transient fixture is garbage-collected
+}
+
+// Unfinished Test Assertion: a placeholder that can't pass by accident
+@Test fun `rejects expired coupons`() = fail<Unit>("Unfinished test")
+```
+
+
+### fixture strategy
+| Strategy | Built | Lifetime | Pros | Cons |
+|---|---|---|---|---|
+| **Transient Fresh Fixture** | per test, in memory | garbage-collected | independent, no teardown | heavy setup can be slow |
+| **Persistent Fresh Fixture** | per test, in DB/files | outlives the test | realistic | needs teardown, slower |
+| **Shared Fixture** | once per run/suite/class | reused | fast | interacting/erratic tests, fragile fixture |
+
+- default to **Minimal Fixture** + **Fresh Fixture**. Use a Shared Fixture only to cure measured slowness, and then prefer an **Immutable Shared Fixture** (tests never change it; anything they modify is fresh per test).
+- **Standard Fixture** (one design reused by many tests) saves design effort but drifts into General Fixture.
+- avoid **Chained Tests** (test N depends on state left by test N-1).
+```kotlin
+// ✗ Mutable Shared Fixture → Interacting / Erratic tests (order-dependent)
+companion object { val cart = Cart() }            // every test adds to the same cart
+
+// ✓ Immutable Shared Fixture + fresh per-test part
+class CatalogCheckoutTest {
+    companion object {
+        private val catalog = Catalog.of(aProduct("apple"), aProduct("pear"))   // built once, read-only
+    }
+
+    @Test fun `adding a catalog product to a cart`() {
+        val cart = Cart()                                      // fresh: the only thing this test mutates
+        cart.add(catalog.find("apple"))
+        assertThat(cart.items).hasSize(1)
+    }
+}
+```
+
+
+### fixture setup patterns
+- **In-line Setup**: everything in the test method — clear but duplicated.
+- **Delegated Setup**: the test calls **Creation Methods** — the recommended default.
+  - Creation Method variations: parameterized, **anonymous** (generates unique irrelevant values), named-state-reaching ("put the SUT into state X"), **attachment method** (add to an existing object).
+  - [Object mother](#object-mother-pattern) and [test data builders](#test-data-builders) are the catalog/fluent forms of this idea.
+- **Implicit Setup** (`setUp()` / `@BeforeEach`): removes duplication but hides context → Mystery Guest / General Fixture risk. A hybrid works: minimal shared parts implicit, test-specific parts via creation methods.
+- shared fixture triggers: **Prebuilt Fixture**, **Lazy Setup**, **Suite Fixture Setup** (`@BeforeAll`), **Setup Decorator**.
+```kotlin
+// In-line Setup: every detail visible, most of it irrelevant to the test
+val customer = Customer(id = 42, name = "Ann", tier = Tier.GOLD,
+                        address = Address("1 Main St", "Toronto", "M5V 1A1"))
+
+// Delegated Setup: only the detail that matters
+val customer = aCustomer(tier = Tier.GOLD)
+
+// Anonymous Creation Method: unique, irrelevant values generated for you
+private val ids = AtomicLong()
+fun aCustomer(tier: Tier = Tier.STANDARD): Customer {
+    val id = ids.incrementAndGet()
+    return Customer(id = id, name = "customer-$id", tier = tier, address = anAddress())
+}
+
+// Named State Reaching Method: put the SUT into a named state through its API
+fun aShippedOrder(): Order = anOrder().build().apply { pay(); ship() }
+
+// Attachment Method: add to an existing fixture object
+fun Order.withPaidLine(sku: String) = apply { addLine(sku, 1); markLinePaid(sku) }
+```
+
+
+### result verification patterns
+- **State Verification**: inspect the SUT after exercising it; compare against an **Expected Object** when the result is rich.
+- **Behaviour Verification**: verify indirect outputs — afterwards with a spy (procedural) or upfront with mock expectations.
+- **Custom Assertion**: domain-specific assertions (`assertLineItemsEqual`, domain assertion, diagnostic assertion that explains *why* it failed). Test them with **Custom Assertion Tests**. Biggest single lever for readability.
+- **Guard Assertion**: replaces `if` in a test with an assertion that fails early with a clear message.
+- **Delta Assertion**: assert on before/after differences when the fixture isn't fully controlled.
+- **Assertion Message** variants: assertion-identifying, expectation-describing, argument-describing (cures Assertion Roulette).
+- technique: **work backwards** — write the assertion first, then the exercise step, then the setup.
+```kotlin
+// ✗ Conditional Verification Logic — passes silently if size != 1 (a Neverfail Test)
+val items = invoice.lineItems
+if (items.size == 1) {
+    assertEquals(product, items[0].product)
+    assertEquals(5, items[0].quantity)
+}
+
+// ✓ Guard Assertion + Expected Object + Custom Assertion
+assertEquals(1, items.size, "number of line items")              // guard: fails fast, clear message
+assertLineItemEquals(LineItem(product, quantity = 5), items.single())
+
+fun assertLineItemEquals(expected: LineItem, actual: LineItem) =  // custom (diagnostic) assertion
+    assertAll("line item",
+        { assertEquals(expected.product, actual.product, "product") },
+        { assertEquals(expected.quantity, actual.quantity, "quantity") },
+    )
+
+// Delta Assertion: works even when the table already contains rows from other tests
+val before = customerRepository.count()
+registration.register(aCustomer())
+assertEquals(before + 1, customerRepository.count())
+
+// Behaviour verification, procedural style (spy) vs expectation style (mock)
+assertThat(spyMailer.sent).containsExactly(Email(to = "ann@example.test", subject = "Welcome"))
+verify { mockMailer.send(Email(to = "ann@example.test", subject = "Welcome")) }
+```
+
+
+### fixture teardown patterns
+- **Garbage-Collected Teardown**: no teardown code at all for transient fixtures — the ideal.
+- **Automated Teardown**: register every created resource and delete it automatically (including objects the SUT created).
+- **In-line / Implicit Teardown**: explicit cleanup; beware naive in-line teardown that's skipped when the test fails. Use teardown guard clauses.
+```kotlin
+// Automated Teardown: register as you create, delete in reverse order even if the test failed
+class CreatedRecords(private val db: Database) {
+    private val created = mutableListOf<RecordId>()
+    fun <T : Record> track(record: T): T = record.also { created += it.id }
+    fun deleteAll() { created.asReversed().forEach(db::delete); created.clear() }
+}
+
+class CustomerDaoTest {
+    private val records = CreatedRecords(db)
+
+    @AfterEach fun tearDown() = records.deleteAll()
+
+    @Test fun `finds customer by email`() {
+        val customer = records.track(db.insert(aCustomer(email = "ann@example.test")))
+        assertThat(dao.findByEmail("ann@example.test")).isEqualTo(customer)
+    }
+}
+```
+
+
+### test double taxonomy
+| Double | Purpose | Verifies? |
+|---|---|---|
+| **Dummy Object** | fills a parameter list, never used | no |
+| **Test Stub** | feeds **indirect inputs** — *Responder* (valid values) or *Saboteur* (errors/exceptions) | no |
+| **Test Spy** | records **indirect outputs** for later assertions | yes, by the test afterwards |
+| **Mock Object** | pre-programmed expectations, fails on unexpected calls | yes, by itself |
+| **Fake Object** | lightweight working implementation (in-memory DB, fake web service) | no — used for speed/independence |
+
+- providing doubles: hard-coded (hand-written class, inner class, **Self Shunt** — the test class is the double, Pseudo-Object) vs configurable (configuration interface or record/playback mode; hand-built or generated by a library).
+- installing doubles: **Dependency Injection** (constructor, setter, parameter), **Dependency Lookup** (service locator / object factory), **Test-Specific Subclass** (override a factory method; state-exposing / behaviour-modifying subclass), **Substituted Singleton**.
+- other uses: endoscopic testing, need-driven development (discover interfaces outside-in by mocking them first), speeding up setup and execution.
+- risks: doubles drift from the real DOC's behaviour; over-use causes Overspecified Software and Fragile Tests.
+```kotlin
+// SUT: class AlarmService(clock: Clock, notifier: Notifier, audit: AuditLog)
+interface Notifier { fun send(message: String) }
+
+// Dummy: required by the signature, irrelevant to the test
+object DummyAuditLog : AuditLog { override fun record(event: Event) = error("dummy should never be used") }
+
+// Stub — Responder: controls an indirect input
+val clock = Clock.fixed(Instant.parse("2026-10-09T07:00:00Z"), ZoneOffset.UTC)
+
+// Stub — Saboteur: forces the error path
+class FailingNotifier : Notifier { override fun send(message: String) = throw IOException("SMTP down") }
+
+// Spy: records indirect outputs; the test asserts afterwards
+class SpyNotifier : Notifier {
+    val sent = mutableListOf<String>()
+    override fun send(message: String) { sent += message }
+}
+
+// Mock: expectations up front, verified by the double/library (MockK)
+val notifier = mockk<Notifier>(relaxed = true)
+AlarmService(clock, notifier, DummyAuditLog).wakeUp()
+verify(exactly = 1) { notifier.send("Wake up!") }
+
+// Fake: a real, lightweight implementation — for speed, not for verification
+class InMemoryAlarmRepository : AlarmRepository {
+    private val alarms = mutableMapOf<AlarmId, Alarm>()
+    override fun save(alarm: Alarm) { alarms[alarm.id] = alarm }
+    override fun find(id: AlarmId): Alarm? = alarms[id]
+}
+
+// Test-Specific Subclass (legacy code without DI) — GOOS warns this hides the relationship
+open class ReportGenerator {
+    protected open fun now(): Instant = Instant.now()
+    fun header() = "Report generated ${now()}"
+}
+class FixedTimeReportGenerator(private val at: Instant) : ReportGenerator() { override fun now() = at }
+```
+
+
+### test organization patterns
+- **Testcase Class per Class** → simple, grows huge. **per Feature** (per method / feature / user story). **per Fixture** → group tests by shared starting state; names describe only stimulus + expectation (the shape of BDD nested contexts / JUnit 5 `@Nested`).
+- **Test Utility Method** family: creation method, attachment method, **finder method** (retrieve from a shared fixture), **SUT encapsulation method** (hide awkward SUT APIs), custom assertion, verification method, cleanup method — and **Test Utility Tests** for the complex ones.
+- where reusable test code lives: test class → **Testcase Superclass** / mixin → **Test Helper** (class or object, object mother, fixture registry). Don't use inheritance to share fixtures.
+- **Parameterized Test** / **Tabular Test**: one test body, many data rows; avoid loop-driven tests (one failure hides the rest).
+- **Named Test Suites**: AllTests, subset suites (fast, smoke, DB), single-test suite.
+- test code depends on production code, never the reverse.
+```kotlin
+// Testcase Class per Fixture with JUnit 5 @Nested: the context is the class, the test name is stimulus + outcome
+class ShoppingCartTest {
+    @Nested inner class `given an empty cart` {
+        private val cart = Cart()
+        @Test fun `has a total of zero`() = assertEquals(Money.ZERO, cart.total)
+        @Test fun `rejects checkout`() { assertThrows<EmptyCartException> { cart.checkout() } }
+    }
+
+    @Nested inner class `given a cart with a discounted item` {
+        private val cart = Cart().apply { add(aProduct(price = Money.of(100)), discountPercent = 10) }
+        @Test fun `charges the discounted price`() = assertEquals(Money.of(90), cart.total)
+    }
+}
+
+// Parameterized / Tabular Test: one body, one row per case, each row reported separately
+@ParameterizedTest(name = "{0} kg ships for \${1}")
+@CsvSource("0.5, 5.00", "2.0, 9.00", "10.0, 25.00")
+fun `shipping cost by weight`(kilograms: Double, expected: BigDecimal) {
+    assertEquals(expected, ShippingRates.costFor(kilograms))
+}
+
+// SUT Encapsulation Method: hide an awkward API behind one test helper
+private fun submitOrder(vararg skus: String): OrderConfirmation =
+    orderService.submit(OrderRequest(customerId = anyCustomerId(), lines = skus.map { OrderLineRequest(it, 1) }, channel = Channel.WEB))
+```
+
+
+### value patterns
+- **Literal Value** — fine when meaningful; use **Symbolic Constants** and **Self-Describing Values** otherwise (see [test diagnostics](#test-diagnostics)).
+- **Derived Value** — derived input, derived expectation, and **One Bad Attribute** (start from a valid object, corrupt one field — ideal for validation tests).
+- **Generated Value** — **Distinct Generated Value** for unique keys (avoids test collisions); random generated values only with care (nondeterminism).
+- **Dummy Object** — signals "this argument doesn't matter".
+```kotlin
+// One Bad Attribute: start valid, break exactly one thing
+@Test fun `rejects a malformed postal code`() {
+    val address = aValidAddress().copy(postalCode = "1A1 V5M")
+    assertThrows<InvalidAddress> { AddressValidator.validate(address) }
+}
+
+// Derived Expectation: compute the expectation from the inputs (not a magic 59.97)
+val unitPrice = Money.of("19.99")
+val quantity = 3
+invoice.addItem(aProduct(unitPrice = unitPrice), quantity)
+assertEquals(unitPrice * quantity, invoice.total)
+
+// Distinct Generated Value: unique per test run, so persistent fixtures never collide
+fun uniqueEmail() = "user-${UUID.randomUUID()}@example.test"
+
+// Self-Describing Value / Symbolic Constant
+const val UNKNOWN_SKU = "sku-that-does-not-exist"
+```
+
+
+### design-for-testability patterns
+- **Dependency Injection** / **Dependency Lookup** — the main enablers for substituting DOCs.
+- **Humble Object** — pull logic out of hard-to-test contexts (UI dialogs, executables, transaction controllers, containers, threads) into a plain testable object; leave a shell too thin to need much testing. Ancestor of ports & adapters / functional core, imperative shell / A-Frame.
+- **Test Hook** — conditional test behaviour in production; last resort (it's a smell cause).
+```kotlin
+// ✗ logic trapped in a framework callback: needs scheduler, clock and DB to test
+@Scheduled(cron = "0 0 * * * *")
+fun expireSubscriptions() {
+    repository.findAll()
+        .filter { it.endsAt.isBefore(Instant.now()) && !it.autoRenew }
+        .forEach { repository.markExpired(it.id) }
+}
+
+// ✓ Humble Object: the decision moves to a plain, pure object...
+object ExpiryPolicy {
+    fun expired(subscriptions: List<Subscription>, now: Instant) =
+        subscriptions.filter { it.endsAt.isBefore(now) && !it.autoRenew }
+}
+
+// ...and the scheduled job becomes too simple to need much testing (no branching)
+@Scheduled(cron = "0 0 * * * *")
+fun expireSubscriptions() =
+    ExpiryPolicy.expired(repository.findAll(), clock.instant()).forEach { repository.markExpired(it.id) }
+```
+
+
+### database patterns
+- **Database Sandbox** per developer / test runner (dedicated DB, schema per runner, data partitioning) — prevents Test Run Wars.
+- **Stored Procedure Test** (in-database or remoted).
+- **Transaction Rollback Teardown** — fast and clean, but the SUT must not commit and the commit path is never exercised.
+- **Table Truncation Teardown** — simple, heavy-handed.
+- **Back Door Manipulation** (setup/verify through the DB directly) only when the front door is impossible or too slow; it increases coupling.
+- prefer most logic tested without a DB (fake/in-memory DB behind a data-access interface), then focused tests of the data-access layer.
+```kotlin
+// Database Sandbox: a private, disposable database per test run (Testcontainers)
+@Testcontainers
+class CustomerDaoTest {
+    companion object {
+        @Container @JvmStatic val postgres = PostgreSQLContainer("postgres:16-alpine")
+    }
+
+    private lateinit var connection: Connection
+
+    // Transaction Rollback Teardown: nothing the test writes survives it
+    @BeforeEach fun begin() {
+        connection = DriverManager.getConnection(postgres.jdbcUrl, postgres.username, postgres.password)
+        connection.autoCommit = false
+    }
+    @AfterEach fun rollback() { connection.rollback(); connection.close() }
+    // caveat: if CustomerDao calls commit() itself, the rollback can't undo it
+}
+```
+
+
+### strategy patterns
+- **Scripted Test** (xUnit) over **Recorded Test** (capture/replay — brittle) for anything long-lived; **Data-Driven Test** lets non-programmers add cases.
+- **Layer Test**: test each layer separately — presentation, service, persistence — and **Subcutaneous Test** for customer tests just below the UI.
+
+### roadmap to maintainable automated tests (learn in this order)
+1. exercise the happy path (a simple success test)
+2. verify direct outputs (assertions on return values and post-state → self-checking)
+3. verify alternative paths (vary arguments and pre-state; control indirect inputs with stubs)
+4. verify indirect outputs (spies/mocks on outgoing calls — or, per Shore, [output tracking](#output-tracking))
+5. optimize execution speed and maintainability; design for testability
+- testing difficulty rises: entity objects → stateless services → stateful services → UI / DB / multithreaded code → OO legacy code → non-OO legacy code. Teams often start learning on legacy code — the hardest level.
+
+### test refactorings
+- **Extract Testable Component** (≈ Feathers' Sprout Class) — leaves a Humble Object behind.
+- **In-line Resource** — move external file/DB content into the test (cures Mystery Guest).
+- **Make Resource Unique** — unique names (include test name + generated value) to stop interacting tests.
+- **Minimize Data** — strip the fixture to what matters.
+- **Replace Dependency with Test Double** — break a dependency on a slow/uncontrollable DOC.
+- **Setup External Resource** — create the external resource inside the test so its content is visible.
+```kotlin
+// ✗ Mystery Guest: what's in the file, and why should there be 3 lines?
+val report = parser.parse(File("src/test/resources/orders-42.csv").reader())
+assertEquals(3, report.lines.size)
+
+// ✓ In-line Resource + Minimize Data: the fixture is visible and minimal
+val csv = """
+    id,product,qty
+    1,apple,2
+    2,pear,1
+    3,plum,5
+""".trimIndent()
+val report = parser.parse(csv.reader())
+assertEquals(3, report.lines.size)
+```
+
+
+# Testing Without Mocks (Nullables)
+- combines **narrow, sociable, state-based tests** with **Nullables**: production code with an "off" switch for external communication. They look like test doubles but are real, tested production code.
+- categories: foundational → architectural (optional) → logic → infrastructure → nullability → legacy code.
+- layer definitions
+  - **logic**: pure computation — no network, DB, file system, clock, environment variables or (most) random number generators, and no dependency on anything that uses them.
+  - **infrastructure**: code that talks to external systems or state; any logic inside it should only make infrastructure easier to use.
+  - **application**: coordinates the two.
+- running example used in the code below (TypeScript + Node, `node:assert`, mocha-style `it`): a **price watcher** that fetches a product's price and notifies you when it drops below a threshold.
+```
+src/
+  app/price_watcher.ts          application layer: logic sandwich / traffic cop
+  logic/alert_policy.ts         pure logic: decides whether to alert
+  values/money.ts               value objects passed between layers
+  infrastructure/
+    http_client.ts              low-level wrapper: Nullable via Embedded Stub, narrow integration tests
+    price_client.ts             high-level wrapper: Nullable via Fake It Once You Make It
+    notifier.ts                 writes notifications: Output Tracking
+    price_feed.ts               pushes price changes: Behaviour Simulation
+    clock.ts                    wraps Date.now(): Embedded Stub
+
+dependency chain: PriceWatcher → PriceClient → HttpClient → node:http
+```
+
+
+## Foundational patterns
+### Narrow tests
+- broad (end-to-end) tests are slow, brittle, complicated and fail randomly. Use narrow tests that check one function or behaviour, not the whole system.
+- pick the technique by code type: infrastructure → [narrow integration tests](#narrow-integration-tests); pure logic → [logic patterns](#logic-patterns); code with infrastructure dependencies → [Nullables](#nullables).
+
+### State-based tests
+- mocks and spies produce interaction-based tests: hard to read, and they lock in how dependencies are used, which blocks structural refactoring.
+- check the **output or state** of the code under test with no knowledge of its implementation. State-based tests naturally become overlapping sociable tests.
+```typescript
+// production code
+export function describeDelivery(order: Order): string {
+  const eta = estimateDelivery(order.postalCode, order.placedAt);
+  return `Order ${order.id} arrives ${formatShortDate(eta)}`;
+}
+
+// ✗ interaction-based (fictional mocking API): re-states the implementation line by line
+it("describes delivery", () => {
+  mocker.expect(estimateDelivery).calledWith("M5V", PLACED_AT).returns(ETA);
+  mocker.expect(formatShortDate).calledWith(ETA).returns("DATE");
+  assert.equal(describeDelivery(order), "Order 1 arrives DATE");
+  mocker.verify();   // breaks if we inline formatShortDate, even though behaviour is unchanged
+});
+
+// ✓ state-based and sociable: real collaborators, only the observable result is checked
+it("describes delivery", () => {
+  const order = Order.createTestInstance({ id: "1", postalCode: "M5V", placedAt: new Date("2026-10-05T12:00:00Z") });
+  assert.equal(describeDelivery(order), "Order 1 arrives Wed, Oct 7");
+});
+```
+
+
+### Overlapping sociable tests
+- use the **real dependencies** of the code under test. Don't re-test what a dependency does; do test that the code uses it correctly.
+- each dependency has its own thorough narrow tests (e.g. don't test every moon phase in `describeMoonPhase` tests — test them in the `Moon` tests).
+- tests overlap along the dependency chain (`LoginController` → `Auth0Client` → `HttpClient`), forming a linked chain: change a dependency's behaviour and the dependents' tests fail. Mocking `Auth0Client` in `LoginController` tests would break that chain.
+- supporting patterns: [parameterless](#parameterless-instantiation) + [zero-impact](#zero-impact-instantiation) instantiation (avoid building the chain by hand), [collaborator-based isolation](#collaborator-based-isolation) (avoid cascades), [Nullables](#nullables) (no external I/O), [paranoic telemetry](#paranoic-telemetry) (external changes), [smoke tests](#smoke-tests) (safety net).
+```typescript
+// Each test exercises its unit *and* the real code beneath it; each layer is tested once in depth.
+//
+//  price_watcher.test.ts  → PriceWatcher  ─┐ runs real PriceClient + HttpClient code (Nulled at the bottom)
+//  price_client.test.ts   → PriceClient   ─┤ runs real HttpClient code (Nulled at the bottom)
+//  http_client.test.ts    → HttpClient    ─┘ narrow integration tests against a real local server
+//
+// If PriceClient changes how it parses prices, PriceWatcher's tests fail too.
+// With a mocked PriceClient they would keep passing — the chain would be broken.
+it("alerts when the price falls below the threshold", async () => {
+  const prices = PriceClient.createNull({ price: 40 });      // real PriceClient, real parsing, no network
+  const notifier = Notifier.createNull();
+  const sent = notifier.trackNotifications();
+
+  await new PriceWatcher(prices, notifier).checkAsync("keyboard", Money.cad(50));
+
+  assert.deepEqual(sent.data, [{ product: "keyboard", price: "$40.00 CAD" }]);
+});
+```
+
+
+### Smoke tests
+- one or two end-to-end tests that the app starts and runs a common workflow (e.g. fetch one important page).
+- not a bug-catching strategy: if a smoke test catches something the narrow tests missed, add narrow tests to close the gap.
+```typescript
+// one or two only — a safety net, not the test strategy
+it("smoke: the server starts and serves the home page", async () => {
+  const server = Server.create();                 // real wiring, real infrastructure
+  await server.startAsync({ port: 0 });           // port 0: let the OS choose a free port
+  try {
+    const response = await fetch(`http://localhost:${server.port}/`);
+    assert.equal(response.status, 200);
+  }
+  finally {
+    await server.stopAsync();
+  }
+});
+```
+
+
+### Zero impact instantiation
+- overlapping sociable tests could instantiate a web of dependencies that take too long or cause side effects. The tests could be slow, difficult to set up or fail unpredictably
+- don't do significant work in the constructor.
+- Don't connect to external systems, start services, or perform long calculations.
+- For code that needs to connect to an external system or start a service, provide a connect or start() method.
+- For the need to perform a long calculation, consider lazy initialization — but profile first; it's rarely a real problem.
+```typescript
+// ✗ constructing it opens a connection: every sociable test that builds a dependent pays for it
+class Database {
+  #pool: Pool;
+  constructor(url: string) {
+    this.#pool = new Pool({ connectionString: url });
+    this.#pool.connect();
+  }
+}
+
+// ✓ cheap constructor, explicit lifecycle
+class Database {
+  #pool?: Pool;
+  constructor(private readonly url: string) {}
+
+  async connectAsync(): Promise<void> {
+    this.#pool = new Pool({ connectionString: this.url });
+    await this.#pool.connect();
+  }
+}
+```
+
+
+### Parameterless instantiation
+- **ensures that all classes can be constructed without providing any parameters (without using a DI framework).**
+- In practice, this means that most objects instantiate their dependencies in their constructor/factory by default, although they may also accept them as optional parameters (or overloads / an options object in languages without optional parameters).
+- If a parameterless constructor won't make sense in production (e.g. value objects like `Address`, where a default city would silently produce wrong data), provide a test-only factory such as `createTestInstance()` with overridable defaults that work in as many situations as possible.
+- in tests, pass **every parameter the test cares about** rather than relying on defaults — then changing a default can't break the test.
+- The factory method is easiest to maintain next to the real constructors in production code; if you don't want test code in production, or the logic grows, move it into an [object mother](#object-mother-pattern).
+```typescript
+// Application/infrastructure classes: everything defaults to the production wiring
+export class PriceWatcher {
+  constructor(
+    private readonly prices = PriceClient.create(),
+    private readonly notifier = Notifier.create(),
+  ) {}
+}
+const watcher = new PriceWatcher();     // works in production, no DI container needed
+
+// Value objects: no production default (a default currency would hide bugs) → test-only factory
+export class Money {
+  constructor(readonly amount: number, readonly currency: string) {}
+
+  static cad(amount: number) { return new Money(amount, "CAD"); }
+
+  // test-only; defaults chosen to "just work" almost everywhere
+  static createTestInstance({ amount = 1, currency = "CAD" } = {}) {
+    return new Money(amount, currency);
+  }
+}
+
+// in tests: pass every value the test depends on, rely on defaults only for irrelevant ones
+const price = Money.createTestInstance({ amount: 40 });   // currency doesn't matter to this test
+```
+
+
+### Signature shielding
+- refactoring changes signatures; production code calls each method in a few places, but tests call them everywhere → busywork.
+- wrap instantiation and method calls in **test helper functions**, and do setup there instead of in the framework's `before()` / `setUp()`.
+- give helpers **optional named parameters** (defaults such as `"irrelevant_host"`) and **multiple return values** (return `{ client, url }` / a small result object), so they can grow without breaking existing tests. In Java/Kotlin: options object with `withXxx()` + result data class.
+```typescript
+// tests call the helper, never the constructor or method directly
+it("alerts when the price falls below the threshold", async () => {
+  const { notifications } = await checkAsync({ price: 40, threshold: 50, product: "keyboard" });
+  assert.deepEqual(notifications.data, [{ product: "keyboard", price: "$40.00 CAD" }]);
+});
+
+it("stays quiet when the price is above the threshold", async () => {
+  const { notifications } = await checkAsync({ price: 60, threshold: 50 });
+  assert.deepEqual(notifications.data, []);
+});
+
+// optional named parameters + multiple return values: the helper can grow without breaking tests
+async function checkAsync({
+  price = 100,
+  threshold = 50,
+  product = "irrelevant_product",
+} = {}) {
+  const prices = PriceClient.createNull({ price });
+  const notifier = Notifier.createNull();
+  const notifications = notifier.trackNotifications();
+
+  const watcher = new PriceWatcher(prices, notifier);
+  await watcher.checkAsync(product, Money.cad(threshold));
+
+  return { watcher, notifications };
+}
+```
+- Kotlin: default arguments + a result data class do the same job as JS optional parameters
+```kotlin
+private data class CheckResult(val watcher: PriceWatcher, val notifications: OutputTracker<Notification>)
+
+private fun check(price: Int = 100, threshold: Int = 50, product: String = "irrelevant_product"): CheckResult {
+    val notifier = Notifier.createNull()
+    val notifications = notifier.trackNotifications()
+    val watcher = PriceWatcher(PriceClient.createNull(price = price), notifier)
+    watcher.check(product, Money.cad(threshold))
+    return CheckResult(watcher, notifications)
+}
+
+@Test fun `alerts when the price falls below the threshold`() {
+    val (_, notifications) = check(price = 40, threshold = 50, product = "keyboard")
+    assertEquals(listOf(Notification("keyboard", "$40.00 CAD")), notifications.data)
+}
+```
+
+
+## Architectural patterns (optional)
+### A-Frame architecture
 - it's easiest to test code that doesn't depend on Infrastructure (external systems such as databases, file systems, and services). However, a typical layered architecture puts infrastructure at the bottom of the dependency chain: Application/UI -> Logic -> infrastructure
 - Therefore, structure your application so that Infrastructure and Logic are peers under the application layer, with no dependencies between Infrastructure and Logic.
 infrastructure <- application/UI -> logic
-- Logic sandwich
-  - The infrastructure and logic layers can't communicate with each other.
-  - infrastructure.writeData(logic.processInput(infrastructure.readData()))
-- traffic cop
-  - use observer pattern to send events from infrastructure to the application layer.
-  - Be careful not to let your traffic cop turn into a god class.
-    - Moving some logic code into the infrastructure layer can simplify the overall design.
-    - splitting the application layer into multiple classes, each with its own Logic Sandwich  or simple traffic cop, can help
-## Climb the ladder
-- when logic code has infrastructure dependencies. The code will be difficult to test or resist refactoring
-- refactor problem code into a miniature A-Frame architecture. Start at the lowest levels of your logic layer and choose a single method that depends on one clearly-defined piece of infrastructure. 
-  - If the infrastructure code is intertwingled with the Logic code, dis-intertwingled it by factoring out an infrastructure wrapper.
-  - The method will act similarly to an application layer class: it will have a mix of logic and calls to infrastructure. Make this code easier to refactor by rewriting its tests to use Nullable Infrastructure dependencies instead of mocks. Then factor all the logic code into methods with no infrastructure dependencies.
-  - At this point, your original method will have nothing left but a small "Logic Sandwich: a call or 2 to the infrastructure class and a call to the new logic method. Now eliminate the original method by inlining it to its callers'. This will cause the logic sandwich to climb one step up your dependency chain.
-  - At that point, review its design and refactor as desired to better fit the "Logic Patterns" and your application's needs.
-- Climbing the ladder takes a lot of time and effort, so do it gradually, as part of your regular work, rather than all at once.
-- **Focus your efforts on code where testing without mocks will have noticeable benefits. Don't waste time refactoring code that's already easy to maintain, regardless of whether it uses mocks.**
+- pass data between Logic and Infrastructure with **value objects** (a shared "Values" layer).
+- build Logic/Values with the logic patterns, Infrastructure with the infrastructure patterns, Application with a logic sandwich or traffic cop tested via Nullables.
+- entirely optional — the rest of the pattern language works without it. New app → [grow evolutionary seeds](#grow-evolutionary-seeds); existing code → [descend the ladder](#descend-the-ladder).
 
-## Easily visible behaviour
+### Logic sandwich
+- The infrastructure and logic layers can't communicate with each other, so the application layer reads with infrastructure, processes with logic, writes with infrastructure; repeat as needed.
+- infrastructure.writeData(logic.processInput(infrastructure.readData()))
+- put in a stateful loop it handles surprisingly sophisticated needs; sometimes the application layer needs a little logic, or several sandwiches.
+```typescript
+export class PriceWatcher {
+  constructor(private readonly prices = PriceClient.create(), private readonly notifier = Notifier.create()) {}
+
+  async checkAsync(product: string, threshold: Money): Promise<void> {
+    const price = await this.prices.currentPriceAsync(product);         // read    (infrastructure)
+    const alert = AlertPolicy.evaluate({ product, price, threshold });  // decide  (logic — pure)
+    if (alert) await this.notifier.sendAsync(alert);                    // write   (infrastructure)
+  }
+}
+
+// logic layer: pure, tested with plain state-based tests, no Nullables needed
+export const AlertPolicy = {
+  evaluate({ product, price, threshold }: { product: string; price: Money; threshold: Money }) {
+    return price.isLessThan(threshold) ? { product, price: price.format() } : undefined;
+  },
+};
+```
+
+
+### Traffic cop
+- for apps that react to events: use observer pattern to receive events from infrastructure **and** logic layers, and handle each event with a logic sandwich.
+- Be careful not to let your traffic cop turn into a god class.
+  - better infrastructure abstractions can help
+  - Moving some logic code into the infrastructure layer (a less "pure" design) can simplify the overall design.
+  - splitting the application layer into multiple classes, each with its own Logic Sandwich or simple traffic cop, can help
+```typescript
+export class LivePriceWatcher {
+  constructor(
+    private readonly feed = PriceFeed.create(),
+    private readonly notifier = Notifier.create(),
+    private readonly store = WatchListStore.create(),
+    private readonly watchList = new WatchList(),
+  ) {}
+
+  start(): void {
+    // event from infrastructure → logic sandwich
+    this.feed.onPriceChanged(({ product, price }) => {
+      const alert = this.watchList.evaluate(product, price);   // logic
+      if (alert) this.notifier.sendAsync(alert);                // infrastructure
+    });
+
+    // event from logic → infrastructure
+    this.watchList.onChanged((snapshot) => this.store.saveAsync(snapshot));
+
+    this.feed.start();
+  }
+}
+```
+
+
+### Grow evolutionary seeds
+- outside-in design normally starts with a broad test plus interaction tests; this does it with narrow, state-based tests instead.
+- steps
+  1. test-drive one application class that returns a hard-coded result for one simple end-to-end behaviour (seed of the application layer).
+  2. build a barebones infrastructure wrapper for the hard-coded value, test it with narrow integration tests, make it Nullable, and inject the Nulled version in the application tests (seed of the infrastructure layer).
+  3. do the same for one output mechanism (console, DOM, HTTP response), asserting with output tracking.
+  4. you now have a **walking skeleton** whose application tests play the role of end-to-end tests while staying narrow, fast and deterministic. Repeatedly test-drive a slightly better version of whatever is most obviously incomplete.
+  5. when the application class gets messy, factor a concept out into its own class — the seed of the logic layer.
+```typescript
+// Seed 1 — application class, hard-coded, result returned to the test (no UI, no infrastructure yet)
+it("reports the current price", () => {
+  assert.equal(new PriceApp().report(), "keyboard: $99.00 CAD");
+});
+class PriceApp { report() { return "keyboard: $99.00 CAD"; } }
+
+// Seed 2 — replace the hard-coded value with a barebones, Nullable infrastructure wrapper
+it("reports the current price", async () => {
+  const app = new PriceApp(PriceClient.createNull({ price: 42 }));
+  assert.equal(await app.reportAsync("keyboard"), "keyboard: $42.00 CAD");
+});
+
+// Seed 3 — real output through a Nullable wrapper, checked with Output Tracking
+it("prints the current price", async () => {
+  const stdout = Stdout.createNull();
+  const output = stdout.trackOutput();
+  await new PriceApp(PriceClient.createNull({ price: 42 }), stdout).runAsync("keyboard");
+  assert.deepEqual(output.data, ["keyboard: $42.00 CAD\n"]);
+});
+// → walking skeleton; now repeatedly improve whatever is most obviously incomplete
+```
+
+
+## Logic patterns
+### Easily visible behaviour
 - logic layer computation can only be tested if the computation results are visible to tests
 - Prefer pure functions where possible. Pure functions' return values are determined only by their input parameters.
 - Where pure functions aren't possible, choose immutable objects. The state of immutable objects is determined when the object is constructed and never changes afterwards.
+- for mutable objects, Shore's guidance is to expose state changes through a **getter or an event**.
 - Avoid writing code that explicitly depends on (or changes) the state of dependencies more than one level deep. Instead, design dependencies, so they encapsulate entirely their next-level-down dependencies
-- **avoid getter/setter for objects, move any behaviour that uses getter/setter into the objects**
+- **avoid getter/setter for objects, move any behaviour that uses getter/setter into the objects** (my GOOS / tell-don't-ask preference — note it's stricter than Shore, who accepts getters on mutable objects for observability; events are the compromise)
+```typescript
+// pure function: result depends only on inputs
+export const discounted = (price: Money, percent: number) => price.times(1 - percent / 100);
 
-## Testable Libraries
+// immutable object: "changes" return a new instance the test can inspect
+export class Cart {
+  constructor(readonly items: readonly Item[] = []) {}
+  add(item: Item): Cart { return new Cart([...this.items, item]); }
+}
+
+// mutable object: make changes observable (getter or event)
+export class WatchList {
+  readonly #thresholds = new Map<string, Money>();
+  readonly #emitter = new EventEmitter();
+
+  watch(product: string, threshold: Money): void {
+    this.#thresholds.set(product, threshold);
+    this.#emitter.emit("changed", this.snapshot());
+  }
+  snapshot(): Record<string, string> {
+    return Object.fromEntries([...this.#thresholds].map(([p, t]) => [p, t.format()]));
+  }
+  onChanged(fn: (snapshot: Record<string, string>) => void) { this.#emitter.on("changed", fn); }
+}
+
+// ✗ two levels deep: the test (and caller) must know about the order's customer's address
+order.customer.address.postalCode = "M5V";
+// ✓ each object encapsulates the level below it
+order.shipTo(Address.createTestInstance({ postalCode: "M5V" }));
+```
+
+
+### Testable Libraries
 - 3rd party code doesn't always have easily visible behaviour. It also introduces breaking API changes with new releases or simply stops being maintained.
 - Wrap third-party code in the code that you control.
 - Write the wrapper's API to match the needs of your application, not the third-party code, and add methods as needed to provide easily visible behaviour. **This typically involves writing query methods to expose deeply-buries state in terms of the domain that your application needs.**
 - When the third-party code introduces a breaking change, or needs to be replaced, modify the wrapper, so no other code is affected.
 - Frameworks and libraries with sprawling API(s) are more difficult to wrap, so prefer libraries that have a narrowly-defined purpose and a simple API
-If the third-party code interfaces with an external system, use an [Infrastructure Wrapper](#infrastructure-wrappers).
+- don't bother wrapping pervasive, stable code (core language libraries), and weigh the cost for things like UI frameworks — wrapping them can be very expensive.
+- If the third-party code interfaces with an external system, use an [Infrastructure Wrapper](#infrastructure-wrappers).
+```typescript
+// wrap a (non-infrastructure) third-party library behind an API shaped by *our* needs
+import { formatInTimeZone } from "date-fns-tz";
 
-## Infrastructure wrappers
+export class BusinessCalendar {
+  constructor(private readonly zone = "America/Toronto") {}
+
+  displayDate(date: Date): string {
+    return formatInTimeZone(date, this.zone, "EEE, MMM d");
+  }
+
+  isBusinessDay(date: Date): boolean {
+    const isoDayOfWeek = Number(formatInTimeZone(date, this.zone, "i"));   // 1 = Monday … 7 = Sunday
+    return isoDayOfWeek <= 5;
+  }
+}
+// swapping date-fns for Temporal later only touches this file
+```
+
+
+### Collaborator-based isolation
+- sociable tests fail when anything down the chain changes — great for catching breakage, terrible if an address-format change breaks hundreds of report tests.
+- when a dependency's behaviour isn't what the test is about, call the dependency to build the expectation.
+- For example, if you're testing an InventoryReport that includes an address in its header, don't hardcode "123 Main St." as your expectation for the report header test. Instead, call `address.renderAsOneLine()` as part of defining your test expectation.
+- collaborator-based isolation allows you to change features without modifying a lot of tests.
+- caveats: don't let the test become a copy of the production code (xUnit's *Production Logic in Test* smell), and use it sparingly — it ties tests closer to the implementation.
+```typescript
+it("includes the formatted price in the alert", () => {
+  const price = Money.createTestInstance({ amount: 40 });
+  const threshold = Money.createTestInstance({ amount: 50 });
+
+  const alert = AlertPolicy.evaluate({ product: "keyboard", price, threshold });
+
+  // ✓ ask the collaborator how it renders itself; Money's own tests cover the exact format
+  assert.deepEqual(alert, { product: "keyboard", price: price.format() });
+
+  // ✗ hard-coding "$40.00 CAD" here would break every alert test when Money's format changes
+  // ✗ re-implementing the format here (`$${amount.toFixed(2)} ${currency}`) copies production logic
+});
+```
+
+
+## Infrastructure patterns
+### Infrastructure wrappers
 - for each external system - service, database, file system, or even environment variables, create one wrapper class responsible for interfacing with that system.
 - Design your wrappers to provide a crisp, clean view of the messy outside world.
 - Design your infrastructure classes to stand alone in whatever format is most beneficial to the Logic and Application layers.
+- avoid complex webs: the only acceptable dependencies are simple one-way chains — a high-level wrapper on a generic low-level one (`LoginClient` → `HttpClient`), or one that unifies several low-level ones (`DataStore` → `RelationalDb` + `NoSqlDb`).
+- also known as **gateways** or **adapters** (those terms are broader).
+- test with narrow integration tests + paranoic telemetry; make testable with the nullability patterns.
+```typescript
+// high-level wrapper: one class per external system, speaking the domain's language
+export class PriceClient {
+  static create(host = "prices.example.com") {
+    return new PriceClient(HttpClient.create(), host);
+  }
 
-## focused integration tests
-- test your external communication against a production-like environment. For file system code, check that it reads and writes actual files. For databases and services, access an entire database or service. 
-- Run your focused integration tests against test systems that are reserved exclusively for one machine's use. It's best to run locally on your development machine and start and stopped your test or build script. If you share test systems with other developers, you'll experience unpredictable test failures when multiple people run the test simultaneously.
-- Use a spy server when you can't integrate it into the external system.
+  constructor(private readonly http: HttpClient, private readonly host: string) {}
 
-## Fake it once you make it
-- some high-level infrastructure classes depend on low-level infrastructure.
-- For tests that check if external communication is done correctly, use a focused integration test (and possibly a spy server).
-- For parsing and processing, use more direct and faster nullable infrastructure dependencies.
-
-## Paranoic telemetry
-- external systems are unreliable. The only sure thing is their eventual failure.
-- Test that every failure case either logs an error or sends an alert. Also, test for the requests that hang too.
-- Whenever possible, use [testable libraries/adapters](#testable-libraries) rather than external services
-
-## Zero impact instantiation
-- overlapping sociable tests could instantiate a web of dependencies that take too long or cause - side effects. The tests could be slow, difficult to set up or fail unpredictably
-- don't do significant work in the constructor.
-- Don't connect to external systems, start services, or perform long calculations.
-- For code that needs to connect to an external system or start a service, provide a connect or start() method.
-- For the need to perform a long calculation, consider lazy initialization.
-
-## Parameterless instantiation
-- **ensures that all logic classes can be constructed without providing any parameters (without using a DI framework).**
-- In practice, this means that most objects instantiate their dependencies in their constructor by default, although they may also accept them as optional parameters.
-- If parameterless constructor won't make any sense, provide a test-only factory method. The factory method should provide overridable defaults for mandatory parameters.
-The factory method is easiest to maintain if it's located next to the actual constructors in the production code. It should be marked as test-specific and straightforward enough to not need tests of its own.
-
-## Collaborator-Based Isolation
-- call dependencies' methods to help define test expectations.
-- For example, if you're testing an InventoryReport that includes an address in its header, don't hardcode "123 Main St." as your expectation for the report header test. Instead, call Address. renderAsOneLine() as part of defining your test expectation.
-- collaborator-based isolation allows you to change features without modifying a lot of tests.
-
-## embedded stub
-- **used to provide nullable infrastructure for tests and avoid duplicating the null checks all over the place**.
-- Stub out the third-party library that performs external communication rather than changing your infrastructure code.
-- Put the stub in the same file as your infrastructure code, so it's easy to remember and update when your infrastructure code changes.
-
-## signature shielding
-- to avoid changing method signatures when you refactor the application
-- First, encapsulate the methods with proxy or factory methods. Then, program the proxies and factories, so their parameters are all optional.
-
-## configurable response
-- allow infrastructure methods' responses to be configured with an optional "responses" parameter to the Nullable Infrastructure's createNull() factory.
-
-```js
-const loginClient = LoginClient.createNull(
-    validateLogin: { // configure the validateLogin response
-      email: "my_authenticated_email",
-      emailVerified: true,
+  async currentPriceAsync(product: string): Promise<Money> {
+    const response = await this.http.requestAsync({
+      host: this.host,
+      method: "GET",
+      path: `/v1/prices/${encodeURIComponent(product)}`,
+    });
+    if (response.status !== 200) {
+      throw new Error(`Price service returned ${response.status} for ${product}`);
     }
-  );
-  ```
+    const { cents, currency } = JSON.parse(response.body);
+    return new Money(cents / 100, currency);     // a crisp value object, not raw JSON
+  }
+}
+```
 
-## Send State
-- application and high-level infrastructure code use their infrastructure dependencies to send data to external systems. They need a way of checking that the data was sent.
-- For infrastructure methods that send data and provide a way to observe that data was sent, use [domain-oriented observability](https://martinfowler.com/articles/domain-oriented-observability.html#DomainProbesEnableCleanerMore-focusedTests). Prefer using observer patterns like [Send Events](#send-events).
-- If you need more than one send result or can't store the transmitted data, use ["Send Events"](#send-events) To test code that uses infrastructure to get data, use Configurable Responses. To test code that responds to infrastructure events uses "Behavior Simulation.".
 
-## Send Events
-- when you test code that uses infrastructure dependencies to send large blobs of data or sends data multiple times in a row. ["Send State"](#send-state) will consume too much memory.
-- Use an observer pattern to emit an event when your infrastructure code sends data. Include data as part of the event payload.
-- When tests need to assert the sent data, they can listen for the events.
-- Create a helper function that listens for sent events and stores their data in an array to make your tests easier to read.
+### Narrow integration tests
+- (called *focused integration tests* in the 2018 article)
+- test your external communication against a production-like environment. For file system code, check that it reads and writes actual files. For databases and services, access an entire database or service. Use the **same configuration as production**, or subtle incompatibilities surface only in prod.
+- Run your narrow integration tests against test systems that are reserved exclusively for one machine's use. It's best to run locally on your development machine and start and stopped your test or build script. If you share test systems with other developers, you'll experience unpredictable test failures when multiple people run the test simultaneously (xUnit: *Test Run War* → *Database Sandbox*).
+- for several systems using the same technology (several web services), write narrow integration tests only for the generic low-level wrapper (e.g. `HttpClient` against a local test server that records the last request and returns a configured response); the high-level wrappers [fake it once you make it](#fake-it-once-you-make-it).
+- (the 2018 article suggested a *spy server* when you can't integrate with the real system; the 2023 version uses a local test server for the low-level wrapper instead.)
+```typescript
+// HttpClient is the generic low-level wrapper, so it's the one tested against a real (local) server
+import * as http from "node:http";
+import type { AddressInfo } from "node:net";
 
-## Behaviour simulation
+describe("HttpClient (narrow integration)", () => {
+  let server: http.Server;
+  let lastRequest: { method?: string; url?: string; body?: string };
+
+  before((done) => {
+    server = http.createServer((req, res) => {
+      let body = "";
+      req.on("data", (chunk) => (body += chunk));
+      req.on("end", () => {
+        lastRequest = { method: req.method, url: req.url, body };
+        res.statusCode = 201;
+        res.end("created");
+      });
+    });
+    server.listen(0, "localhost", done);   // local, per-machine, OS-chosen port: no test run wars
+  });
+
+  after((done) => server.close(done));
+
+  it("sends the request and returns the real response", async () => {
+    const { port } = server.address() as AddressInfo;
+
+    const response = await HttpClient.create().requestAsync({
+      host: "localhost", port, method: "POST", path: "/items", body: "hello",
+    });
+
+    assert.deepEqual(lastRequest, { method: "POST", url: "/items", body: "hello" });
+    assert.deepEqual({ status: response.status, body: response.body }, { status: 201, body: "created" });
+  });
+});
+```
+
+
+### Paranoic telemetry
+- external systems are unreliable. The only sure thing is their eventual failure (lost data, unwritable disks, error codes, changed specs, connections that never close).
+- Test that every failure case either logs an error and sends an alert, or throws an exception that ultimately does. Also test for requests that hang.
+- these failure modes are expensive to support, so whenever possible use [testable libraries](#testable-libraries) rather than external services.
+- supplement with **contract tests** — most effective when you provide them and the supplier runs them, because they otherwise can't catch changes between your runs.
+```typescript
+// every failure mode must end in an error log / alert — including hangs
+it("logs an emergency when the price service fails", async () => {
+  const { logOutput } = await checkAsync({ priceServiceStatus: 503 });   // same signature-shielding helper, grown new optional params
+  assert.deepEqual(logOutput.data, [
+    { alert: "emergency", message: "price service failed", status: 503 },
+  ]);
+});
+
+it("gives up and logs when the price service hangs", async () => {
+  const { logOutput } = await checkAsync({ priceServiceHangs: true, timeoutMs: 10 });
+  assert.deepEqual(logOutput.data, [
+    { alert: "emergency", message: "price service timed out", timeoutMs: 10 },
+  ]);
+});
+```
+
+
+## Nullability patterns
+### Nullables
+- narrow integration tests are slow and hard to set up — fine for low-level wrappers, overkill for everything that depends on them.
+- give code with infrastructure anywhere in its dependency chain a `createNull()` factory that **disables external communication but behaves normally otherwise**, and supports parameterless instantiation.
+- Nullables are production code and must be tested as such. Inspired originally by the Null Object pattern, but now quite different.
+- real production uses: a `--dry-run` option (inject a Nulled writer), cache warming with Nulled requests.
+- how to make something Nullable: low-level wrappers → [embedded stub](#embedded-stub); everything else → [fake it once you make it](#fake-it-once-you-make-it); existing code → [legacy patterns](#legacy-code-patterns).
+- add capabilities by need: reads data → [configurable responses](#configurable-responses); writes data → [output tracking](#output-tracking); receives pushed events → [behaviour simulation](#behaviour-simulation).
+```typescript
+export class Notifier {
+  // normal factory: real transport
+  static create() {
+    return new Notifier(nodemailer.createTransport(SMTP_CONFIG));
+  }
+
+  // Null factory: identical behaviour, external communication switched off
+  static createNull() {
+    return new Notifier(new StubbedTransport());          // Embedded Stub (see below)
+  }
+
+  constructor(private readonly transport: Transport) {}
+  // ...sendAsync(), trackNotifications() — same code path for both factories
+}
+
+// Nulled instances are useful in production too, e.g. a --dry-run flag
+const notifier = options.dryRun ? Notifier.createNull() : Notifier.create();
+```
+
+
+### Embedded stub
+- **used to provide nullable infrastructure for tests and avoid duplicating the null checks all over the place** (wrapping I/O in `if (nulled)` leads to spaghetti).
+- Stub out the **third-party library** that performs external communication rather than changing your infrastructure code — so sociable tests still run your real code exactly as in production.
+- implement the bare minimum; test-drive the stub through your code's public interface so you don't overbuild it.
+- mimic the third-party behaviour precisely, including async timing and error handling: document the real behaviour with narrow integration tests, then add tests on the Nulled instance that fail if the stub diverges.
+- Put the stub in the same file as your infrastructure code, so it's easy to remember and update when your infrastructure code changes. (It can live in a test-only file, at the cost of harder dependency management and no Nulled instances in production.)
+```typescript
+// Clock wraps a third-party/global API (Date.now). We stub Date, not our own Clock.
+export class Clock {
+  static create() {
+    return new Clock(Date);                                   // the real global
+  }
+
+  static createNull({ now = "2026-01-01T00:00:00Z" } = {}) {
+    return new Clock(new StubbedDate(new Date(now).getTime()));
+  }
+
+  constructor(private readonly date: { now(): number }) {}
+
+  // identical production code whether real or Nulled
+  now(): Date { return new Date(this.date.now()); }
+  millisecondsUntil(target: Date): number { return target.getTime() - this.date.now(); }
+}
+
+// Embedded Stub: same file, mimics only the slice of the third-party API we use
+class StubbedDate {
+  constructor(private readonly fixedMillis: number) {}
+  now(): number { return this.fixedMillis; }
+}
+
+// tests of the Nulled instance guard against the stub drifting from the real API
+it("Nulled clock reports the configured time", () => {
+  assert.deepEqual(Clock.createNull({ now: "2026-10-09T07:00:00Z" }).now(), new Date("2026-10-09T07:00:00Z"));
+});
+```
+
+
+### Thin wrapper
+- in Java/C#/Kotlin the embedded stub needs an interface shared with the real dependency, and often none exists or it's too big.
+- define a **private interface that matches the third-party signatures exactly, but only for the methods you use**; implement it twice: a real version that only forwards, and the embedded stub. Wrap third-party return types the same way (e.g. `RestTemplate` + `ResponseEntity`).
+```kotlin
+// Kotlin + java.net.http: the stub needs an interface, and HttpClient's own one is huge
+class WebClient private constructor(private val http: HttpWrapper) {
+    companion object {
+        fun create() = WebClient(RealHttp(java.net.http.HttpClient.newHttpClient()))
+        fun createNull(status: Int = 200, body: String = "Nulled WebClient response") = WebClient(StubbedHttp(status, body))
+    }
+
+    fun get(uri: URI): Response {
+        val response = http.send(HttpRequest.newBuilder(uri).GET().build(), HttpResponse.BodyHandlers.ofString())
+        return Response(response.statusCode(), response.body())
+    }
+
+    // Thin Wrapper: mirrors the third-party signatures exactly, but only what we use
+    private interface HttpWrapper {
+        fun send(request: HttpRequest, handler: HttpResponse.BodyHandler<String>): ResponseWrapper
+    }
+    private interface ResponseWrapper {
+        fun statusCode(): Int
+        fun body(): String
+    }
+
+    // real implementation: pure forwarding, no logic
+    private class RealHttp(private val client: java.net.http.HttpClient) : HttpWrapper {
+        override fun send(request: HttpRequest, handler: HttpResponse.BodyHandler<String>): ResponseWrapper {
+            val response = client.send(request, handler)
+            return object : ResponseWrapper {
+                override fun statusCode() = response.statusCode()
+                override fun body(): String = response.body()
+            }
+        }
+    }
+
+    // Embedded Stub implementation of the same interface
+    private class StubbedHttp(private val status: Int, private val responseBody: String) : HttpWrapper {
+        override fun send(request: HttpRequest, handler: HttpResponse.BodyHandler<String>): ResponseWrapper =
+            object : ResponseWrapper {
+                override fun statusCode() = status
+                override fun body() = responseBody
+            }
+    }
+}
+
+data class Response(val status: Int, val body: String)
+```
+
+
+### Configurable responses
+- allow infrastructure methods' responses to be configured with optional, named parameters on the `createNull()` factory.
+- define responses in terms of the dependency's **externally visible behaviour, not its implementation**: a `LoginClient` is configured with *email* and *emailVerified*, not HTTP payloads.
+- one parameter per kind of response; options object if the language lacks optional parameters.
+- support two shapes: a **single value** (same answer forever) and a **list** (one per call, error when exhausted). A small reusable `ConfigurableResponses` helper implements this.
+- **decompose responses to the next level down**: the embedded stub or nulled dependency turns "roll a 6" into whatever the lower layer needs (e.g. the float `Math.random()` would return).
+
+```typescript
+// Nulled login client configured at the level its callers care about
+const loginClient = LoginClient.createNull({
+  email: "my_authenticated_email",
+  emailVerified: true,
+});
+
+// list = one response per call, then error; single value = repeats forever
+const dieRoller = DieRoller.createNull([1, 2, 3, 4, 5]);
+```
+- a small reusable helper (my own TypeScript version)
+```typescript
+export class ConfigurableResponses<T> {
+  readonly #responses: T | T[];
+  constructor(responses: T | T[], private readonly name = "responses") {
+    this.#responses = Array.isArray(responses) ? [...responses] : responses;
+  }
+
+  next(): T {
+    if (!Array.isArray(this.#responses)) return this.#responses;          // single value: repeats forever
+    const response = this.#responses.shift();                             // list: one per call...
+    if (response === undefined) throw new Error(`No more ${this.name} configured`);   // ...then fail loudly
+    return response;
+  }
+}
+
+// usage: PriceClient configured with a sequence of prices for consecutive checks
+it("alerts only once the price drops", async () => {
+  const prices = PriceClient.createNull({ price: [60, 55, 40] });
+  const notifier = Notifier.createNull();
+  const sent = notifier.trackNotifications();
+  const watcher = new PriceWatcher(prices, notifier);
+
+  for (let i = 0; i < 3; i++) await watcher.checkAsync("keyboard", Money.cad(50));
+
+  assert.deepEqual(sent.data, [{ product: "keyboard", price: "$40.00 CAD" }]);
+});
+```
+
+
+### Output tracking
+- (replaces the 2018 *Send State* / *Send Events* patterns)
+- state-based tests need to see writes to external systems without setting those systems up.
+- give each writing dependency a tested, production-grade `trackXxx()` method that records the writes, **whether or not the instance is Nulled**.
+- implementation: the infrastructure code emits an event on each write; `trackXxx()` returns an `OutputTracker` that listens and collects payloads, with `data`, `clear()` and `stop()`. Stream events rather than storing everything when payloads are large or frequent.
+- track **behaviour, not function calls**: record what was done in the terms callers care about (a structured log entry, not the formatted string; `{ host, text }`, not `transformAsync(...)`). That's the key difference from a spy — you can rename/restructure methods without touching the trackers or the tests.
+
+```typescript
+const log = Log.createNull();
+const logOutput = log.trackOutput();
+
+await new LoginPage(log).postAsync(formData);
+
+assert.deepEqual(logOutput.data, [{ alert: "info", message: "User login", email: "my_email" }]);
+```
+- a reusable tracker (my own TypeScript version) and how the infrastructure emits behaviour-level events
+```typescript
+import { EventEmitter } from "node:events";
+
+export class OutputTracker<T> {
+  readonly #data: T[] = [];
+  readonly #listener = (item: T) => { this.#data.push(item); };
+
+  constructor(private readonly emitter: EventEmitter, private readonly event: string) {
+    emitter.on(event, this.#listener);
+  }
+
+  get data(): readonly T[] { return [...this.#data]; }
+  clear(): T[] { return this.#data.splice(0); }
+  stop(): void { this.emitter.off(this.event, this.#listener); }
+}
+
+export class Notifier {
+  readonly #emitter = new EventEmitter();
+  constructor(private readonly transport: Transport) {}
+
+  async sendAsync(alert: { product: string; price: string }): Promise<void> {
+    // emit what happened (the alert), not how (SMTP fields) — tests survive transport refactorings
+    this.#emitter.emit("notification", alert);
+    await this.transport.sendMail({ to: OWNER, subject: `Price drop: ${alert.product}`, text: alert.price });
+  }
+
+  trackNotifications() { return new OutputTracker<{ product: string; price: string }>(this.#emitter, "notification"); }
+}
+```
+- Kotlin version (no built-in event emitter, so a listener object fans out to trackers)
+```kotlin
+class OutputListener<T> {
+    private val trackers = CopyOnWriteArrayList<OutputTracker<T>>()
+    fun track(item: T) = trackers.forEach { it.add(item) }
+    fun createTracker(): OutputTracker<T> = OutputTracker(this).also { trackers += it }
+    internal fun remove(tracker: OutputTracker<T>) { trackers -= tracker }
+}
+
+class OutputTracker<T> internal constructor(private val listener: OutputListener<T>) {
+    private val items = mutableListOf<T>()
+    internal fun add(item: T) { items += item }
+    val data: List<T> get() = items.toList()
+    fun clear(): List<T> = data.also { items.clear() }
+    fun stop() = listener.remove(this)
+}
+
+// in Notifier:  private val notifications = OutputListener<Notification>()
+//               fun trackNotifications() = notifications.createTracker()
+//               fun send(n: Notification) { transport.send(...); notifications.track(n) }
+```
+- spy vs output tracking
+```typescript
+// spy: records a call — renaming sendAsync or changing its parameters breaks the test
+expect(notifier.sendAsync).toHaveBeenCalledWith("keyboard", 40, "CAD");
+// output tracking: records the behaviour — method names/signatures are free to change
+assert.deepEqual(sent.data, [{ product: "keyboard", price: "$40.00 CAD" }]);
+```
+
+
+### Behaviour simulation
 - some external systems will push data to you rather than waiting for you to ask for it.
 - Therefore, your application and high-level infrastructure code need a way to test what happens when their infrastructure dependencies generate those events.
-- Add methods to your infrastructure code that simulate receiving an event from an external system. Share as much code as possible with the code that handles actual external events while remaining convenient for tests to use.
+- Add `simulateXxx()` methods to your infrastructure code that simulate receiving an event from an external system (e.g. `simulateConnection(clientId)`, `simulateMessage(clientId, msg)`).
+- Share as much code as possible with the code that handles actual external events: both the real event handler and the simulation delegate to the same private `handleXxx()` methods. Write it as tested production code.
+```typescript
+export class PriceFeed {
+  static create(url = "wss://prices.example.com/feed") { return new PriceFeed(() => new WebSocket(url)); }
+  static createNull() { return new PriceFeed(() => new StubbedSocket()); }
+
+  readonly #emitter = new EventEmitter();
+  constructor(private readonly connect: () => SocketLike) {}           // zero-impact: no connection yet
+
+  start(): void {
+    const socket = this.connect();
+    socket.on("message", (raw: string) => this.#handleMessage(JSON.parse(raw)));   // real path
+  }
+
+  onPriceChanged(fn: (change: { product: string; price: Money }) => void) { this.#emitter.on("price", fn); }
+
+  // Behaviour Simulation: enters through the same handler as real messages
+  simulatePriceChange(product: string, cents: number, currency = "CAD"): void {
+    this.#handleMessage({ type: "price", product, cents, currency });
+  }
+
+  #handleMessage(message: { type: string; product: string; cents: number; currency: string }): void {
+    if (message.type !== "price") return;
+    this.#emitter.emit("price", { product: message.product, price: new Money(message.cents / 100, message.currency) });
+  }
+}
+class StubbedSocket extends EventEmitter {}
+
+// test
+it("notifies when the feed reports a price below the watched threshold", () => {
+  const feed = PriceFeed.createNull();
+  const notifier = Notifier.createNull();
+  const sent = notifier.trackNotifications();
+  const watchList = new WatchList();
+  watchList.watch("keyboard", Money.cad(50));
+
+  new LivePriceWatcher(feed, notifier, WatchListStore.createNull(), watchList).start();
+  feed.simulatePriceChange("keyboard", 4000);
+
+  assert.deepEqual(sent.data, [{ product: "keyboard", price: "$40.00 CAD" }]);
+});
+```
+
+
+### Fake it once you make it
+- some high-level infrastructure classes depend on low-level infrastructure.
+- For tests that check if external communication is done correctly at the lowest level, use a narrow integration test.
+- in application code and high-level wrappers, **delegate to Nullable dependencies** instead of writing more narrow integration tests or embedded stubs: inject Nulled dependencies in tests.
+- implement the high-level `createNull()` by creating Nulled dependencies and **translating its configurable responses into the lower-level format** (e.g. `LoginClient.createNull({ email })` builds the JWT/HTTP response Auth0 would actually send and configures a Nulled `HttpClient` with it).
+- output tracking and behaviour simulation are implemented normally, regardless of whether dependencies are Nulled.
+```typescript
+export class PriceClient {
+  static create(host = "prices.example.com") { return new PriceClient(HttpClient.create(), host); }
+
+  // configured in PriceClient's terms (a price), decomposed into what the real API would send
+  static createNull({ price = 100 as number | number[], currency = "CAD" } = {}) {
+    const prices = Array.isArray(price) ? price : [price];
+    const responses = prices.map((p) => ({
+      status: 200,
+      body: JSON.stringify({ cents: Math.round(p * 100), currency }),
+    }));
+    return new PriceClient(HttpClient.createNull({ responses: Array.isArray(price) ? responses : responses[0] }), "null.host");
+  }
+
+  constructor(private readonly http: HttpClient, private readonly host: string) {}
+  // currentPriceAsync() unchanged — the same code runs in tests and production
+}
+
+// PriceClient's own tests: Nulled HttpClient + Output Tracking, no network, no narrow integration test
+it("requests the price for the product", async () => {
+  const http = HttpClient.createNull({ responses: { status: 200, body: '{"cents":4000,"currency":"CAD"}' } });
+  const requests = http.trackRequests();
+
+  const price = await new PriceClient(http, "prices.test").currentPriceAsync("mech keyboard");
+
+  assert.deepEqual(requests.data, [{ host: "prices.test", method: "GET", path: "/v1/prices/mech%20keyboard" }]);
+  assert.deepEqual(price, new Money(40, "CAD"));
+});
+```
+
+
+## Legacy code patterns
+- work incrementally: Nullables and mocks can coexist in the same codebase and even the same test.
+- **Focus your efforts on code where testing without mocks will have noticeable benefits. Don't waste time refactoring code that's already easy to maintain, regardless of whether it uses mocks.**
+
+### Descend the ladder
+- for large dependency trees: convert one class **and its direct dependencies only**, then move on; continue down the tree later.
+- classify the class you're converting
+  - **A. no infrastructure in its tree** → just use the logic patterns.
+  - **B. infrastructure wrapper with third-party dependencies** → narrow integration tests + embedded stub.
+  - **C. everything else** → make each direct dependency Nullable, then fake it once you make it:
+    - mix of logic and infrastructure, nothing else applies → [throwaway stub](#throwaway-stub)
+    - already Nullable, or no infrastructure → nothing to do
+    - not Nullable but all *its* dependencies are → fake it once you make it
+    - low-level wrapper over third-party code → embedded stub
+    - raw third-party infrastructure → extract an infrastructure wrapper (narrow integration tests + embedded stub)
+  - then replace any throwaway stub, [replace mocks with Nullables](#replace-mocks-with-nullables), and add missing tests.
+- result: the converted class is Nullable and tested; its dependencies are Nullable but not yet tested. Repeat over time; once enough is converted, refactor toward A-Frame or any architecture.
+```typescript
+// Converting PriceWatcher only (large tree; touch it + its direct dependencies):
+//
+//   PriceWatcher  → convert now: Fake It Once You Make It + Replace Mocks with Nullables
+//   ├─ PriceClient  (logic + infrastructure, not Nullable yet) → Throwaway Stub for now
+//   └─ Notifier     (low-level wrapper over nodemailer)       → Embedded Stub now
+//
+// Later passes: make PriceClient Nullable (via HttpClient's Embedded Stub), replace the throwaway stub,
+// then add narrow integration tests for HttpClient.
+```
+
+
+### Climb the ladder
+- for **small** dependency trees: convert the whole tree at once — no throwaway stubs.
+- draw the dependency tree (ignore third-party code) and convert **bottom-up** (post-order depth-first). Per node:
+  - pure logic → ensure easily visible behaviour, add tests
+  - already Nullable → replace mocks with Nullables, add tests
+  - infrastructure wrapper using third-party infrastructure → embedded stub + narrow integration tests
+  - not a wrapper but uses third-party infrastructure → extract a wrapper (as above), then treat the rest as below
+  - otherwise → fake it once you make it, replace mocks with Nullables, add tests
+- e.g. `HttpClient` (embedded stub + integration tests) → `Auth0Client` → `LoginController` → `Router` (each: fake it once you make it + replace mocks).
+- (2018 description, still a useful mental model:) start at the lowest logic method that depends on one clearly-defined piece of infrastructure; untangle infrastructure into a wrapper; move its tests to Nullables; factor the logic into infrastructure-free methods until only a small logic sandwich remains; inline that sandwich into its callers so it climbs one step up the dependency chain.
+- Climbing the ladder takes time and effort, so do it gradually, as part of your regular work, rather than all at once.
+```typescript
+// Small tree → convert bottom-up (post-order), no throwaway stubs:
+//
+//   4. PriceWatcher  ← Fake It Once You Make It, Replace Mocks with Nullables
+//   3. PriceClient   ← Fake It Once You Make It, Replace Mocks with Nullables
+//   2. HttpClient    ← narrow integration tests
+//   1. HttpClient    ← Embedded Stub (Nullable)
+//      AlertPolicy   ← pure logic: just make behaviour easily visible and add tests
+```
+
+
+### Replace mocks with Nullables
+- only convert tests that get in your way. Inlining setup blocks/helpers first can make it easier.
+- one test double at a time (tests keep passing because Nullables and doubles coexist):
+  1. swap the double for a **Nulled real dependency**
+  2. configured return values → **configurable responses**
+  3. configured events → **behaviour simulation**
+  4. call verifications (`verify(...)`) → **output tracking** assertions — convert these last, after the configuration-only doubles.
+```typescript
+// BEFORE: interaction-based (Jest mocks)
+it("alerts when the price drops", async () => {
+  const prices = { currentPriceAsync: jest.fn().mockResolvedValue(new Money(40, "CAD")) };
+  const notifier = { sendAsync: jest.fn() };
+
+  await new PriceWatcher(prices as any, notifier as any).checkAsync("keyboard", Money.cad(50));
+
+  expect(notifier.sendAsync).toHaveBeenCalledWith({ product: "keyboard", price: "$40.00 CAD" });
+});
+
+// STEP 1–2: swap the configured double for a Nulled real dependency + Configurable Response
+//           (the Notifier mock is still there — mocks and Nullables coexist, test stays green)
+const prices = PriceClient.createNull({ price: 40 });
+
+// STEP 4 (last): replace call verification with Output Tracking
+it("alerts when the price drops", async () => {
+  const prices = PriceClient.createNull({ price: 40 });
+  const notifier = Notifier.createNull();
+  const sent = notifier.trackNotifications();
+
+  await new PriceWatcher(prices, notifier).checkAsync("keyboard", Money.cad(50));
+
+  assert.deepEqual(sent.data, [{ product: "keyboard", price: "$40.00 CAD" }]);
+});
+```
+
+
+### Throwaway stub
+- when making a dependency Nullable would drag in too much of its own tree, embed a stub for that dependency temporarily.
+- it breaks the overlapping sociable chain, so replace it with fake it once you make it as soon as the dependency becomes Nullable. Climbing the ladder avoids throwaway stubs entirely.
+```typescript
+export class PriceWatcher {
+  static createNull() {
+    // TEMPORARY: PriceClient isn't Nullable yet. Replace with PriceClient.createNull()
+    // (Fake It Once You Make It) as soon as it is — this stub breaks the sociable chain.
+    return new PriceWatcher(new ThrowawayPriceClient() as unknown as PriceClient, Notifier.createNull());
+  }
+  // ...
+}
+
+class ThrowawayPriceClient {
+  async currentPriceAsync(_product: string) { return new Money(100, "CAD"); }
+}
+```
+
+
+# How the sources relate
+## where they agree
+- **test code is design**: xUnit's creation methods / custom assertions, GOOS's builders and matchers, and Shore's signature shielding all build a small, intention-revealing test API so tests survive refactoring.
+- **state over interaction where possible**: xUnit defaults to state verification; Shore goes all the way (output tracking instead of call verification); GOOS keeps interaction tests but limits them — *allow queries, expect commands*.
+- **separate logic from I/O**: Humble Object (xUnit) ≈ A-Frame / logic sandwich (Shore) ≈ passing a task runner instead of starting threads (GOOS's concurrency example).
+- **wrap what you don't own**: xUnit's SUT encapsulation method, GOOS's "only mock types you own", Shore's testable libraries / infrastructure wrappers.
+- **flaky tests are a design problem**: xUnit's erratic-test causes, GOOS's flickering tests, Shore's deterministic narrow tests + per-machine integration systems.
+- **fixtures**: xUnit's minimal fresh fixture ≈ Shore's zero-impact + parameterless instantiation (cheap real objects) ≈ GOOS's test data builders.
+
+## where they pull in different directions
+| Topic | xUnit Test Patterns | GOOS | Testing Without Mocks |
+|---|---|---|---|
+| test-support code in production | *Keep Test Logic Out of Production Code*; Test Hook / For Tests Only are smells | no explicit rule | accepts it on purpose: `createNull()`, embedded stubs, `trackXxx()`, `simulateXxx()` — justified because they're tested, production-grade and have real uses (dry run, cache warming) |
+| isolation | *Isolate the SUT*, doubles for DOCs | mock roles/interfaces to discover them (need-driven development) | overlapping sociable tests with real dependencies; isolation only via Nullables at the infrastructure edge and collaborator-based isolation |
+| test overlap | *Minimize Test Overlap* | — | overlap is deliberate (the chain replaces broad tests); collaborator-based isolation limits the cascade |
+| one failure per bug | defect localization via single-condition, isolated tests | small focused tests | accepted tradeoff: one bug can fail several sociable tests |
+| test-specific subclass | legitimate pattern (esp. legacy code) | avoid — hides relationships; extract an interface and name it | not used; thin wrapper + embedded stub instead |
+| expectations from collaborators | *Production Logic in Test* is a smell cause | — | collaborator-based isolation deliberately calls the collaborator — keep it to "irrelevant detail" and use sparingly |
+| setup location | implicit setup allowed (with General Fixture risk) | builders | avoid framework `before()`; put setup in signature-shielding helpers |
+| getters | Expected Object + state verification | tell, don't ask | getters or events are fine on mutable objects for visibility |
+
+## pattern mapping
+| xUnit / GOOS | Nullables equivalent | Difference |
+|---|---|---|
+| Test Stub (responder / saboteur) | configurable responses (incl. error responses) | configured at the behaviour level, and lives in production code |
+| Test Spy / Mock Object | output tracking | records *what happened* (domain payload), not *which method was called* |
+| Fake Object | Nulled instance | runs your real code; only the third-party I/O at the bottom is stubbed |
+| Self Shunt / hand-built double | embedded stub (+ thin wrapper) | stubs third-party code, not your own collaborators |
+| simulated incoming events (cure for *Manual Event Injection*) | behaviour simulation | shares the real event-handling code path |
+| Creation Method / Object Mother / builder | `createTestInstance()` / parameterless instantiation | defaults live next to the constructor |
+| SUT Encapsulation Method / Test Utility Method | signature shielding | optional params + multiple returns |
+| Layer Test / Subcutaneous Test | application-layer tests with Nullables (grow evolutionary seeds) | narrow and sociable rather than layer-isolated |
+| Database Sandbox / Test Run War | narrow integration tests on per-machine systems | same rule, generalized to every external system |
+| Humble Object / Extract Testable Component | A-Frame, logic sandwich, climb the ladder | climbing the ladder is a stepwise refactoring path to it |
+| Replace Dependency with Test Double | replace mocks with Nullables | the reverse move, for when doubles block refactoring |
+| domain probe (domain-oriented observability) | output tracking / paranoic telemetry | instrumentation expressed in domain terms is directly assertable |
 
 # Quotes
 
@@ -601,10 +2063,16 @@ const loginClient = LoginClient.createNull(
 "test doubles are fine, but don’t stop there if you can invert the dependency and turn expectations into stubs… or even better, replace the stub with the value it returns."
 
 # References
-- https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
+- [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
+- [Testing Without Mocks — original 2018 version](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
+- [Nullables hub (screencasts, training, livestreams)](https://www.jamesshore.com/v2/projects/nullables)
+- [simple example repo](https://github.com/jamesshore/testing-without-mocks-example) · [complex example repo](https://github.com/jamesshore/testing-without-mocks-complex)
+- Gerard Meszaros, *xUnit Test Patterns: Refactoring Test Code* (Addison-Wesley, 2007) — see `xunit-test-patterns-outline.md`
 - https://www.youtube.com/watch?v=mkQ-RvErLiU&ab_channel=TheLegacyofSoCraTes
 - https://martinfowler.com/articles/domain-oriented-observability.html
 - http://www.growing-object-oriented-software.com/code.html
 - [practical testing pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [agile testing condensed](https://leanpub.com/agiletesting-condensed)
-- [mocks aresn't stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [mocks aren't stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [contract test](https://martinfowler.com/bliki/ContractTest.html)
+- Michael Feathers, *Working Effectively with Legacy Code*
